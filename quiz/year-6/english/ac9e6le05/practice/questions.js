@@ -4,12 +4,12 @@ window.skillrPracticeQuestions = [
     "id": "AC9E6LE05-P-001",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "identify mentor technique",
+    "stage": "foundation",
+    "skill": "transforming plot structure",
     "printable": true,
     "type": "single",
-    "question": "In a class podcast, which approach is genuine adaptation?",
-    "audioPrompt": "In a class podcast, which approach is genuine adaptation?",
+    "question": "Read: “A mentor story begins at the climax; a new story opens during a failed space-station repair.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “A mentor story begins at the climax; a new story opens during a failed space-station repair.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -17,29 +17,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Copy the plot and change names",
-      "Use the mentor text’s suspense structure with new events, setting and characters",
-      "Repeat exact descriptions",
-      "Keep the same ending unchanged"
+      "character motivation",
+      "active setting",
+      "transforming plot structure",
+      "adapted viewpoint"
     ],
-    "correct": 1,
-    "explanation": "“Use the mentor text’s suspense structure with new events, setting and characters” is the strongest choice because it matches the language feature and the situation.\nHint: Adapt technique and structural function, not exact wording, event sequence or character identities.",
+    "correct": 2,
+    "explanation": "transforming plot structure: The suspense structure is retained while events, setting and problem are original.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "“Use the mentor text’s suspense structure with new events, setting and characters” is the strongest choice because it matches the language feature and the situation.",
-      "hint": "Adapt technique and structural function, not exact wording, event sequence or character identities."
+      "summary": "transforming plot structure: The suspense structure is retained while events, setting and problem are original.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE05-P-002",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "character motivation",
+    "stage": "foundation",
+    "skill": "transforming plot structure effect",
     "printable": true,
     "type": "single",
-    "question": "Which term best matches this meaning: “goal, belief or need driving choices”?",
-    "audioPrompt": "Which term best matches this meaning: “goal, belief or need driving choices”?",
+    "question": "What does “A mentor story begins at the climax; a new story opens during a failed space-station repair.” contribute to meaning or response?",
+    "audioPrompt": "What does “A mentor story begins at the climax; a new story opens during a failed space-station repair.” contribute to meaning or response?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -47,29 +47,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "adaptation",
-      "plot causality",
-      "character motivation",
-      "It does not match the evidence in the example."
+      "The specific fear explains her secrecy and creates later consequences.",
+      "The setting changes available choices and drives the plot.",
+      "The technique is transformed into a new context and source of tension.",
+      "The suspense structure is retained while events, setting and problem are original."
     ],
-    "correct": 2,
-    "explanation": "character motivation means goal, belief or need driving choices.\nHint: Match the definition precisely; do not choose a nearby term just because it is familiar.",
+    "correct": 3,
+    "explanation": "The suspense structure is retained while events, setting and problem are original.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "character motivation means goal, belief or need driving choices.",
-      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
+      "summary": "The suspense structure is retained while events, setting and problem are original.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE05-P-003",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "recurring key motif",
+    "stage": "core",
+    "skill": "transforming plot structure revision",
     "printable": true,
     "type": "single",
-    "question": "Read this example from a science investigation: “access code represents trust”. Which label best describes what the language is doing?",
-    "audioPrompt": "Read this example from a science investigation: “access code represents trust”. Which label best describes what the language is doing?",
+    "question": "Which revision best applies transforming plot structure?",
+    "audioPrompt": "Which revision best applies transforming plot structure?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -77,29 +77,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "begin at climax",
-      "unreliable first person",
-      "restricted setting",
-      "recurring key motif"
+      "Plan the cause that led to the opening crisis and reveal it gradually.",
+      "Show the motive through choices and dialogue rather than announcing it.",
+      "Make rising water alter the characters’ next decision.",
+      "Plant evidence that allows readers to notice the narrator’s mistake."
     ],
-    "correct": 3,
-    "explanation": "“access code represents trust” is an example of recurring key motif.\nHint: Adapt technique and structural function, not exact wording, event sequence or character identities.",
+    "correct": 0,
+    "explanation": "The revision applies transforming plot structure purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "“access code represents trust” is an example of recurring key motif.",
-      "hint": "Adapt technique and structural function, not exact wording, event sequence or character identities."
+      "summary": "The revision applies transforming plot structure purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE05-P-004",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "misconception repair",
+    "stage": "core",
+    "skill": "transforming plot structure misconception",
     "printable": true,
     "type": "single",
-    "question": "Which correction best fixes this idea: “Character change is announced only”?",
-    "audioPrompt": "Which correction best fixes this idea: “Character change is announced only”?",
+    "question": "A student says, “Changing character names makes a copied plot original.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Changing character names makes a copied plot original.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -107,29 +107,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Show through choices and consequences.",
-      "Adaptation copies story with renamed characters",
-      "Twist has no preparation",
-      "Setting is decorative"
+      "Changing character names makes a copied plot original.",
+      "The claim is too broad; the example shows that the suspense structure is retained while events, setting and problem are original.",
+      "Characters can act unpredictably without any established motive.",
+      "Setting is only decorative description."
     ],
-    "correct": 0,
-    "explanation": "Show through choices and consequences. This fixes the misconception without creating a new rule that is too broad.\nHint: Check the actual language evidence rather than relying on an absolute rule.",
+    "correct": 1,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "Show through choices and consequences. This fixes the misconception without creating a new rule that is too broad.",
-      "hint": "Check the actual language evidence rather than relying on an absolute rule."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE05-P-005",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "moral choice at resolution",
+    "stage": "foundation",
+    "skill": "character motivation",
     "printable": true,
     "type": "single",
-    "question": "Which example would be most useful when explaining adapting plot, character, setting and style in a sports-club discussion?",
-    "audioPrompt": "Which example would be most useful when explaining adapting plot, character, setting and style in a sports-club discussion?",
+    "question": "Read: “A young engineer hides a damaged tool because she fears losing the team’s trust.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “A young engineer hides a damaged tool because she fears losing the team’s trust.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -137,29 +137,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "open with failed space-station repair",
-      "rescue rival instead of securing discovery",
-      "narrator misunderstands sensor warnings",
-      "access code represents trust"
+      "transforming plot structure",
+      "active setting",
+      "character motivation",
+      "adapted viewpoint"
     ],
-    "correct": 1,
-    "explanation": "This example directly demonstrates moral choice at resolution and can be explained using the language clue in the text.\nHint: Students identify transferable craft techniques, transform them into an original context and revise cause–effect structure, character motivation, setting pressure, viewpoint and language coherence.",
+    "correct": 2,
+    "explanation": "character motivation: The specific fear explains her secrecy and creates later consequences.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "This example directly demonstrates moral choice at resolution and can be explained using the language clue in the text.",
-      "hint": "Students identify transferable craft techniques, transform them into an original context and revise cause–effect structure, character motivation, setting pressure, viewpoint and language coherence."
+      "summary": "character motivation: The specific fear explains her secrecy and creates later consequences.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE05-P-006",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "identify mentor technique",
+    "stage": "foundation",
+    "skill": "character motivation effect",
     "printable": true,
     "type": "single",
-    "question": "In a library display, which revision makes setting functional?",
-    "audioPrompt": "In a library display, which revision makes setting functional?",
+    "question": "What does “A young engineer hides a damaged tool because she fears losing the team’s trust.” contribute to meaning or response?",
+    "audioPrompt": "What does “A young engineer hides a damaged tool because she fears losing the team’s trust.” contribute to meaning or response?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -167,29 +167,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The room is blue",
-      "The setting is named once",
-      "A flood blocks the only route and forces a decision",
-      "The background never affects events"
+      "The suspense structure is retained while events, setting and problem are original.",
+      "The setting changes available choices and drives the plot.",
+      "The technique is transformed into a new context and source of tension.",
+      "The specific fear explains her secrecy and creates later consequences."
     ],
-    "correct": 2,
-    "explanation": "“A flood blocks the only route and forces a decision” is the strongest choice because it matches the language feature and the situation.\nHint: Adapt technique and structural function, not exact wording, event sequence or character identities.",
+    "correct": 3,
+    "explanation": "The specific fear explains her secrecy and creates later consequences.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "“A flood blocks the only route and forces a decision” is the strongest choice because it matches the language feature and the situation.",
-      "hint": "Adapt technique and structural function, not exact wording, event sequence or character identities."
+      "summary": "The specific fear explains her secrecy and creates later consequences.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE05-P-007",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "adaptation",
+    "stage": "core",
+    "skill": "character motivation revision",
     "printable": true,
     "type": "single",
-    "question": "Which term best matches this meaning: “transformation of source techniques into a new text”?",
-    "audioPrompt": "Which term best matches this meaning: “transformation of source techniques into a new text”?",
+    "question": "Which revision best applies character motivation?",
+    "audioPrompt": "Which revision best applies character motivation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -197,29 +197,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "character motivation",
-      "plot causality",
-      "It does not match the evidence in the example.",
-      "adaptation"
+      "Show the motive through choices and dialogue rather than announcing it.",
+      "Plan the cause that led to the opening crisis and reveal it gradually.",
+      "Make rising water alter the characters’ next decision.",
+      "Plant evidence that allows readers to notice the narrator’s mistake."
     ],
-    "correct": 3,
-    "explanation": "adaptation means transformation of source techniques into a new text.\nHint: Match the definition precisely; do not choose a nearby term just because it is familiar.",
+    "correct": 0,
+    "explanation": "The revision applies character motivation purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "adaptation means transformation of source techniques into a new text.",
-      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
+      "summary": "The revision applies character motivation purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE05-P-008",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "recurring key motif",
+    "stage": "core",
+    "skill": "character motivation misconception",
     "printable": true,
     "type": "single",
-    "question": "Read this example from a student council meeting: “access code represents trust”. Which label best describes what the language is doing?",
-    "audioPrompt": "Read this example from a student council meeting: “access code represents trust”. Which label best describes what the language is doing?",
+    "question": "A student says, “Characters can act unpredictably without any established motive.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Characters can act unpredictably without any established motive.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -227,29 +227,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "recurring key motif",
-      "begin at climax",
-      "unreliable first person",
-      "restricted setting"
+      "Changing character names makes a copied plot original.",
+      "The claim is too broad; the example shows that the specific fear explains her secrecy and creates later consequences.",
+      "Characters can act unpredictably without any established motive.",
+      "Setting is only decorative description."
     ],
-    "correct": 0,
-    "explanation": "“access code represents trust” is an example of recurring key motif.\nHint: Adapt technique and structural function, not exact wording, event sequence or character identities.",
+    "correct": 1,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "“access code represents trust” is an example of recurring key motif.",
-      "hint": "Adapt technique and structural function, not exact wording, event sequence or character identities."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE05-P-009",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "misconception repair",
+    "stage": "foundation",
+    "skill": "active setting",
     "printable": true,
     "type": "single",
-    "question": "Which correction best fixes this idea: “Adaptation copies story with renamed characters”?",
-    "audioPrompt": "Which correction best fixes this idea: “Adaptation copies story with renamed characters”?",
+    "question": "Read: “A flood blocks the only road and forces rivals to share a shelter.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “A flood blocks the only road and forces rivals to share a shelter.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -257,29 +257,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Adaptation copies story with renamed characters",
-      "Transform context, decisions and language.",
-      "Twist has no preparation",
-      "Setting is decorative"
+      "transforming plot structure",
+      "character motivation",
+      "active setting",
+      "adapted viewpoint"
     ],
-    "correct": 1,
-    "explanation": "Transform context, decisions and language. This fixes the misconception without creating a new rule that is too broad.\nHint: Check the actual language evidence rather than relying on an absolute rule.",
+    "correct": 2,
+    "explanation": "active setting: The setting changes available choices and drives the plot.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "Transform context, decisions and language. This fixes the misconception without creating a new rule that is too broad.",
-      "hint": "Check the actual language evidence rather than relying on an absolute rule."
+      "summary": "active setting: The setting changes available choices and drives the plot.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE05-P-010",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "moral choice at resolution",
+    "stage": "foundation",
+    "skill": "active setting effect",
     "printable": true,
     "type": "single",
-    "question": "Which example would be most useful when explaining adapting plot, character, setting and style in a environmental campaign?",
-    "audioPrompt": "Which example would be most useful when explaining adapting plot, character, setting and style in a environmental campaign?",
+    "question": "What does “A flood blocks the only road and forces rivals to share a shelter.” contribute to meaning or response?",
+    "audioPrompt": "What does “A flood blocks the only road and forces rivals to share a shelter.” contribute to meaning or response?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -287,29 +287,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "open with failed space-station repair",
-      "narrator misunderstands sensor warnings",
-      "rescue rival instead of securing discovery",
-      "access code represents trust"
+      "The suspense structure is retained while events, setting and problem are original.",
+      "The specific fear explains her secrecy and creates later consequences.",
+      "The technique is transformed into a new context and source of tension.",
+      "The setting changes available choices and drives the plot."
     ],
-    "correct": 2,
-    "explanation": "This example directly demonstrates moral choice at resolution and can be explained using the language clue in the text.\nHint: Students identify transferable craft techniques, transform them into an original context and revise cause–effect structure, character motivation, setting pressure, viewpoint and language coherence.",
+    "correct": 3,
+    "explanation": "The setting changes available choices and drives the plot.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "This example directly demonstrates moral choice at resolution and can be explained using the language clue in the text.",
-      "hint": "Students identify transferable craft techniques, transform them into an original context and revise cause–effect structure, character motivation, setting pressure, viewpoint and language coherence."
+      "summary": "The setting changes available choices and drives the plot.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE05-P-011",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "recurring key motif",
+    "stage": "core",
+    "skill": "active setting revision",
     "printable": true,
     "type": "single",
-    "question": "A museum caption includes “access code represents trust”. Why is this an effective example of recurring key motif?",
-    "audioPrompt": "A museum caption includes “access code represents trust”. Why is this an effective example of recurring key motif?",
+    "question": "Which revision best applies active setting?",
+    "audioPrompt": "Which revision best applies active setting?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -317,29 +317,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It matches the purpose and the language clue in the example.",
-      "Adapt technique and structural function, not exact wording, event sequence or character identities.",
-      "It makes the intended language choice clear in context.",
-      "Revision changes meaning and structure; proofreading follows. Attractive details that do not support the design may need removal."
+      "Make rising water alter the characters’ next decision.",
+      "Plan the cause that led to the opening crisis and reveal it gradually.",
+      "Show the motive through choices and dialogue rather than announcing it.",
+      "Plant evidence that allows readers to notice the narrator’s mistake."
     ],
-    "correct": 2,
-    "explanation": "access code represents trust works because its language choice fits the purpose and context.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 0,
+    "explanation": "The revision applies active setting purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "access code represents trust works because its language choice fits the purpose and context.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "The revision applies active setting purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE05-P-012",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "core",
+    "skill": "active setting misconception",
     "printable": true,
     "type": "single",
-    "question": "Why is “Use foreshadowing and causal logic.” a better rule than “Twist has no preparation” when reading a student council meeting?",
-    "audioPrompt": "Why is “Use foreshadowing and causal logic.” a better rule than “Twist has no preparation” when reading a student council meeting?",
+    "question": "A student says, “Setting is only decorative description.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Setting is only decorative description.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -347,29 +347,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because the longest rule is always the best one.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words.",
-      "Because it keeps the useful distinction without turning it into an absolute rule."
+      "Changing character names makes a copied plot original.",
+      "The claim is too broad; the example shows that the setting changes available choices and drives the plot.",
+      "Characters can act unpredictably without any established motive.",
+      "Setting is only decorative description."
     ],
-    "correct": 3,
-    "explanation": "“Use foreshadowing and causal logic.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 1,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "“Use foreshadowing and causal logic.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE05-P-013",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "moral choice at resolution",
+    "stage": "foundation",
+    "skill": "adapted viewpoint",
     "printable": true,
     "type": "single",
-    "question": "A local-history article includes “rescue rival instead of securing discovery”. Why is this an effective example of moral choice at resolution?",
-    "audioPrompt": "A local-history article includes “rescue rival instead of securing discovery”. Why is this an effective example of moral choice at resolution?",
+    "question": "Read: “A mentor uses an unreliable narrator; the new narrator misreads sensor warnings.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “A mentor uses an unreliable narrator; the new narrator misreads sensor warnings.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -377,29 +377,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It makes the intended language choice clear in context.",
-      "It matches the purpose and the language clue in the example.",
-      "Adapt technique and structural function, not exact wording, event sequence or character identities.",
-      "Revision changes meaning and structure; proofreading follows. Attractive details that do not support the design may need removal."
+      "transforming plot structure",
+      "character motivation",
+      "adapted viewpoint",
+      "active setting"
     ],
-    "correct": 0,
-    "explanation": "rescue rival instead of securing discovery works because its language choice fits the purpose and context.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 2,
+    "explanation": "adapted viewpoint: The technique is transformed into a new context and source of tension.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "rescue rival instead of securing discovery works because its language choice fits the purpose and context.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "adapted viewpoint: The technique is transformed into a new context and source of tension.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE05-P-014",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "foundation",
+    "skill": "adapted viewpoint effect",
     "printable": true,
     "type": "single",
-    "question": "Why is “Show through choices and consequences.” a better rule than “Character change is announced only” when reading a environmental campaign?",
-    "audioPrompt": "Why is “Show through choices and consequences.” a better rule than “Character change is announced only” when reading a environmental campaign?",
+    "question": "What does “A mentor uses an unreliable narrator; the new narrator misreads sensor warnings.” contribute to meaning or response?",
+    "audioPrompt": "What does “A mentor uses an unreliable narrator; the new narrator misreads sensor warnings.” contribute to meaning or response?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -407,29 +407,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because the longest rule is always the best one.",
-      "Because it keeps the useful distinction without turning it into an absolute rule.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words."
+      "The suspense structure is retained while events, setting and problem are original.",
+      "The specific fear explains her secrecy and creates later consequences.",
+      "The setting changes available choices and drives the plot.",
+      "The technique is transformed into a new context and source of tension."
     ],
-    "correct": 1,
-    "explanation": "“Show through choices and consequences.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 3,
+    "explanation": "The technique is transformed into a new context and source of tension.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "“Show through choices and consequences.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The technique is transformed into a new context and source of tension.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE05-P-015",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "unreliable first person",
+    "stage": "core",
+    "skill": "adapted viewpoint revision",
     "printable": true,
     "type": "single",
-    "question": "A book-club discussion includes “narrator misunderstands sensor warnings”. Why is this an effective example of unreliable first person?",
-    "audioPrompt": "A book-club discussion includes “narrator misunderstands sensor warnings”. Why is this an effective example of unreliable first person?",
+    "question": "Which revision best applies adapted viewpoint?",
+    "audioPrompt": "Which revision best applies adapted viewpoint?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -437,29 +437,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It matches the purpose and the language clue in the example.",
-      "Adapt technique and structural function, not exact wording, event sequence or character identities.",
-      "It makes the intended language choice clear in context.",
-      "Revision changes meaning and structure; proofreading follows. Attractive details that do not support the design may need removal."
+      "Plant evidence that allows readers to notice the narrator’s mistake.",
+      "Plan the cause that led to the opening crisis and reveal it gradually.",
+      "Show the motive through choices and dialogue rather than announcing it.",
+      "Make rising water alter the characters’ next decision."
     ],
-    "correct": 2,
-    "explanation": "narrator misunderstands sensor warnings works because its language choice fits the purpose and context.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 0,
+    "explanation": "The revision applies adapted viewpoint purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "narrator misunderstands sensor warnings works because its language choice fits the purpose and context.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "The revision applies adapted viewpoint purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE05-P-016",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "core",
+    "skill": "adapted viewpoint misconception",
     "printable": true,
     "type": "single",
-    "question": "Why is “Use foreshadowing and causal logic.” a better rule than “Twist has no preparation” when reading a excursion briefing?",
-    "audioPrompt": "Why is “Use foreshadowing and causal logic.” a better rule than “Twist has no preparation” when reading a excursion briefing?",
+    "question": "A student says, “Adapting viewpoint means copying the narrator’s exact voice.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Adapting viewpoint means copying the narrator’s exact voice.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -467,29 +467,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because the longest rule is always the best one.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words.",
-      "Because it keeps the useful distinction without turning it into an absolute rule."
+      "Changing character names makes a copied plot original.",
+      "The claim is too broad; the example shows that the technique is transformed into a new context and source of tension.",
+      "Characters can act unpredictably without any established motive.",
+      "Setting is only decorative description."
     ],
-    "correct": 3,
-    "explanation": "“Use foreshadowing and causal logic.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 1,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "“Use foreshadowing and causal logic.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE05-P-017",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "restricted setting",
+    "stage": "foundation",
+    "skill": "motif transformation",
     "printable": true,
     "type": "single",
-    "question": "A design project includes “damaged orbital laboratory”. Why is this an effective example of restricted setting?",
-    "audioPrompt": "A design project includes “damaged orbital laboratory”. Why is this an effective example of restricted setting?",
+    "question": "Read: “A source text uses a key for trust; a new story uses a shared access code.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “A source text uses a key for trust; a new story uses a shared access code.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -497,29 +497,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It makes the intended language choice clear in context.",
-      "It matches the purpose and the language clue in the example.",
-      "Adapt technique and structural function, not exact wording, event sequence or character identities.",
-      "Revision changes meaning and structure; proofreading follows. Attractive details that do not support the design may need removal."
+      "transforming plot structure",
+      "character motivation",
+      "motif transformation",
+      "active setting"
     ],
-    "correct": 0,
-    "explanation": "damaged orbital laboratory works because its language choice fits the purpose and context.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 2,
+    "explanation": "motif transformation: The symbolic function is adapted through a different object and setting.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "damaged orbital laboratory works because its language choice fits the purpose and context.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "motif transformation: The symbolic function is adapted through a different object and setting.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE05-P-018",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "foundation",
+    "skill": "motif transformation effect",
     "printable": true,
     "type": "single",
-    "question": "Why is “Show through choices and consequences.” a better rule than “Character change is announced only” when reading a weather report?",
-    "audioPrompt": "Why is “Show through choices and consequences.” a better rule than “Character change is announced only” when reading a weather report?",
+    "question": "What does “A source text uses a key for trust; a new story uses a shared access code.” contribute to meaning or response?",
+    "audioPrompt": "What does “A source text uses a key for trust; a new story uses a shared access code.” contribute to meaning or response?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -527,29 +527,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because the longest rule is always the best one.",
-      "Because it keeps the useful distinction without turning it into an absolute rule.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words."
+      "The suspense structure is retained while events, setting and problem are original.",
+      "The specific fear explains her secrecy and creates later consequences.",
+      "The setting changes available choices and drives the plot.",
+      "The symbolic function is adapted through a different object and setting."
     ],
-    "correct": 1,
-    "explanation": "“Show through choices and consequences.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 3,
+    "explanation": "The symbolic function is adapted through a different object and setting.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "“Show through choices and consequences.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The symbolic function is adapted through a different object and setting.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE05-P-019",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "begin at climax",
+    "stage": "application",
+    "skill": "motif transformation revision",
     "printable": true,
     "type": "single",
-    "question": "A school assembly includes “open with failed space-station repair”. Why is this an effective example of begin at climax?",
-    "audioPrompt": "A school assembly includes “open with failed space-station repair”. Why is this an effective example of begin at climax?",
+    "question": "Which revision best applies motif transformation?",
+    "audioPrompt": "Which revision best applies motif transformation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -557,29 +557,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It matches the purpose and the language clue in the example.",
-      "Adapt technique and structural function, not exact wording, event sequence or character identities.",
-      "It makes the intended language choice clear in context.",
-      "Revision changes meaning and structure; proofreading follows. Attractive details that do not support the design may need removal."
+      "Repeat the access-code image only at meaningful trust decisions.",
+      "Plan the cause that led to the opening crisis and reveal it gradually.",
+      "Show the motive through choices and dialogue rather than announcing it.",
+      "Make rising water alter the characters’ next decision."
     ],
-    "correct": 2,
-    "explanation": "open with failed space-station repair works because its language choice fits the purpose and context.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 0,
+    "explanation": "The revision applies motif transformation purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "open with failed space-station repair works because its language choice fits the purpose and context.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "The revision applies motif transformation purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE05-P-020",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "core",
+    "skill": "motif transformation misconception",
     "printable": true,
     "type": "single",
-    "question": "Why is “Use foreshadowing and causal logic.” a better rule than “Twist has no preparation” when reading a peer feedback session?",
-    "audioPrompt": "Why is “Use foreshadowing and causal logic.” a better rule than “Twist has no preparation” when reading a peer feedback session?",
+    "question": "A student says, “Replacing one object always creates a successful motif.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Replacing one object always creates a successful motif.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -587,29 +587,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because the longest rule is always the best one.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words.",
-      "Because it keeps the useful distinction without turning it into an absolute rule."
+      "Changing character names makes a copied plot original.",
+      "The claim is too broad; the example shows that the symbolic function is adapted through a different object and setting.",
+      "Characters can act unpredictably without any established motive.",
+      "Setting is only decorative description."
     ],
-    "correct": 3,
-    "explanation": "“Use foreshadowing and causal logic.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 1,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "“Use foreshadowing and causal logic.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE05-P-021",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "foundation",
+    "skill": "plot causality",
     "printable": true,
     "type": "single",
-    "question": "A excursion briefing could use either “open with failed space-station repair” or “clarify character goal”. Which comparison is most accurate?",
-    "audioPrompt": "A excursion briefing could use either “open with failed space-station repair” or “clarify character goal”. Which comparison is most accurate?",
+    "question": "Read: “The hero ignores a warning, damages the radio and cannot call for help.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “The hero ignores a warning, damages the radio and cannot call for help.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -617,29 +617,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer.",
-      "“open with failed space-station repair” shows begin at climax, while “clarify character goal” shows clarify character goal."
+      "transforming plot structure",
+      "character motivation",
+      "plot causality",
+      "active setting"
     ],
-    "correct": 3,
-    "explanation": "The important difference is the language function: begin at climax versus clarify character goal.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "correct": 2,
+    "explanation": "plot causality: The consequence grows logically from a character decision.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: begin at climax versus clarify character goal.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "plot causality: The consequence grows logically from a character decision.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE05-P-022",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "foundation",
+    "skill": "plot causality effect",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Setting is decorative” in a design project?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Setting is decorative” in a design project?",
+    "question": "What does “The hero ignores a warning, damages the radio and cannot call for help.” contribute to meaning or response?",
+    "audioPrompt": "What does “The hero ignores a warning, damages the radio and cannot call for help.” contribute to meaning or response?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -647,29 +647,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Make it constrain or enable action.",
-      "Adaptation copies story with renamed characters",
-      "Twist has no preparation",
-      "Setting is decorative"
+      "The suspense structure is retained while events, setting and problem are original.",
+      "The specific fear explains her secrecy and creates later consequences.",
+      "The setting changes available choices and drives the plot.",
+      "The consequence grows logically from a character decision."
     ],
-    "correct": 0,
-    "explanation": "Make it constrain or enable action. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Revision changes meaning and structure; proofreading follows. Attractive details that do not support the design may need removal.",
+    "correct": 3,
+    "explanation": "The consequence grows logically from a character decision.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "Make it constrain or enable action. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Revision changes meaning and structure; proofreading follows. Attractive details that do not support the design may need removal."
+      "summary": "The consequence grows logically from a character decision.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE05-P-023",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "application",
+    "skill": "plot causality revision",
     "printable": true,
     "type": "single",
-    "question": "A weather report could use either “access code represents trust” or “control viewpoint”. Which comparison is most accurate?",
-    "audioPrompt": "A weather report could use either “access code represents trust” or “control viewpoint”. Which comparison is most accurate?",
+    "question": "Which revision best applies plot causality?",
+    "audioPrompt": "Which revision best applies plot causality?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -677,29 +677,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "“access code represents trust” shows recurring key motif, while “control viewpoint” shows control viewpoint.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer."
+      "Use the chain goal → obstacle → choice → consequence.",
+      "Plan the cause that led to the opening crisis and reveal it gradually.",
+      "Show the motive through choices and dialogue rather than announcing it.",
+      "Make rising water alter the characters’ next decision."
     ],
-    "correct": 1,
-    "explanation": "The important difference is the language function: recurring key motif versus control viewpoint.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "correct": 0,
+    "explanation": "The revision applies plot causality purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: recurring key motif versus control viewpoint.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "The revision applies plot causality purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE05-P-024",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "core",
+    "skill": "plot causality misconception",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Adaptation copies story with renamed characters” in a school assembly?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Adaptation copies story with renamed characters” in a school assembly?",
+    "question": "A student says, “A surprise ending needs no preparation.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “A surprise ending needs no preparation.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -707,29 +707,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Adaptation copies story with renamed characters",
-      "Twist has no preparation",
-      "Transform context, decisions and language.",
-      "Setting is decorative"
+      "Changing character names makes a copied plot original.",
+      "The claim is too broad; the example shows that the consequence grows logically from a character decision.",
+      "Characters can act unpredictably without any established motive.",
+      "Setting is only decorative description."
     ],
-    "correct": 2,
-    "explanation": "Transform context, decisions and language. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Revision changes meaning and structure; proofreading follows. Attractive details that do not support the design may need removal.",
+    "correct": 1,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "Transform context, decisions and language. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Revision changes meaning and structure; proofreading follows. Attractive details that do not support the design may need removal."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE05-P-025",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "foundation",
+    "skill": "foreshadowing",
     "printable": true,
     "type": "single",
-    "question": "A peer feedback session could use either “rescue rival instead of securing discovery” or “adjust pacing”. Which comparison is most accurate?",
-    "audioPrompt": "A peer feedback session could use either “rescue rival instead of securing discovery” or “adjust pacing”. Which comparison is most accurate?",
+    "question": "Read: “Early interference on the radio hints that the final message may fail.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “Early interference on the radio hints that the final message may fail.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -737,29 +737,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer.",
-      "“rescue rival instead of securing discovery” shows moral choice at resolution, while “adjust pacing” shows adjust pacing."
+      "transforming plot structure",
+      "character motivation",
+      "foreshadowing",
+      "active setting"
     ],
-    "correct": 3,
-    "explanation": "The important difference is the language function: moral choice at resolution versus adjust pacing.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "correct": 2,
+    "explanation": "foreshadowing: The clue prepares the later event without revealing it completely.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: moral choice at resolution versus adjust pacing.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "foreshadowing: The clue prepares the later event without revealing it completely.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE05-P-026",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "core",
+    "skill": "foreshadowing effect",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Setting is decorative” in a cooking demonstration?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Setting is decorative” in a cooking demonstration?",
+    "question": "What does “Early interference on the radio hints that the final message may fail.” contribute to meaning or response?",
+    "audioPrompt": "What does “Early interference on the radio hints that the final message may fail.” contribute to meaning or response?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -767,29 +767,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Make it constrain or enable action.",
-      "Adaptation copies story with renamed characters",
-      "Twist has no preparation",
-      "Setting is decorative"
+      "The suspense structure is retained while events, setting and problem are original.",
+      "The specific fear explains her secrecy and creates later consequences.",
+      "The setting changes available choices and drives the plot.",
+      "The clue prepares the later event without revealing it completely."
     ],
-    "correct": 0,
-    "explanation": "Make it constrain or enable action. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Revision changes meaning and structure; proofreading follows. Attractive details that do not support the design may need removal.",
+    "correct": 3,
+    "explanation": "The clue prepares the later event without revealing it completely.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "Make it constrain or enable action. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Revision changes meaning and structure; proofreading follows. Attractive details that do not support the design may need removal."
+      "summary": "The clue prepares the later event without revealing it completely.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE05-P-027",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "application",
+    "skill": "foreshadowing revision",
     "printable": true,
     "type": "single",
-    "question": "A arts review could use either “narrator misunderstands sensor warnings” or “test plot causality”. Which comparison is most accurate?",
-    "audioPrompt": "A arts review could use either “narrator misunderstands sensor warnings” or “test plot causality”. Which comparison is most accurate?",
+    "question": "Which revision best applies foreshadowing?",
+    "audioPrompt": "Which revision best applies foreshadowing?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -797,29 +797,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "“narrator misunderstands sensor warnings” shows unreliable first person, while “test plot causality” shows test plot causality.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer."
+      "Keep the clue noticeable in hindsight but subtle at first.",
+      "Plan the cause that led to the opening crisis and reveal it gradually.",
+      "Show the motive through choices and dialogue rather than announcing it.",
+      "Make rising water alter the characters’ next decision."
     ],
-    "correct": 1,
-    "explanation": "The important difference is the language function: unreliable first person versus test plot causality.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "correct": 0,
+    "explanation": "The revision applies foreshadowing purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: unreliable first person versus test plot causality.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "The revision applies foreshadowing purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE05-P-028",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "core",
+    "skill": "foreshadowing misconception",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Adaptation copies story with renamed characters” in a technology presentation?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Adaptation copies story with renamed characters” in a technology presentation?",
+    "question": "A student says, “Foreshadowing states the ending directly.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Foreshadowing states the ending directly.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -827,29 +827,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Adaptation copies story with renamed characters",
-      "Twist has no preparation",
-      "Transform context, decisions and language.",
-      "Setting is decorative"
+      "Changing character names makes a copied plot original.",
+      "The claim is too broad; the example shows that the clue prepares the later event without revealing it completely.",
+      "Characters can act unpredictably without any established motive.",
+      "Setting is only decorative description."
     ],
-    "correct": 2,
-    "explanation": "Transform context, decisions and language. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Revision changes meaning and structure; proofreading follows. Attractive details that do not support the design may need removal.",
+    "correct": 1,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "Transform context, decisions and language. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Revision changes meaning and structure; proofreading follows. Attractive details that do not support the design may need removal."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE05-P-029",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "foundation",
+    "skill": "character change",
     "printable": true,
     "type": "single",
-    "question": "A playground consultation could use either “damaged orbital laboratory” or “make setting active”. Which comparison is most accurate?",
-    "audioPrompt": "A playground consultation could use either “damaged orbital laboratory” or “make setting active”. Which comparison is most accurate?",
+    "question": "Read: “At first, Leila refuses help; at the climax, she shares control of the rescue.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “At first, Leila refuses help; at the climax, she shares control of the rescue.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -857,29 +857,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer.",
-      "“damaged orbital laboratory” shows restricted setting, while “make setting active” shows make setting active."
+      "transforming plot structure",
+      "character motivation",
+      "character change",
+      "active setting"
     ],
-    "correct": 3,
-    "explanation": "The important difference is the language function: restricted setting versus make setting active.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "correct": 2,
+    "explanation": "character change: Changed behaviour demonstrates growth through action.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: restricted setting versus make setting active.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "character change: Changed behaviour demonstrates growth through action.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE05-P-030",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "core",
+    "skill": "character change effect",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Setting is decorative” in a class podcast?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Setting is decorative” in a class podcast?",
+    "question": "What does “At first, Leila refuses help; at the climax, she shares control of the rescue.” contribute to meaning or response?",
+    "audioPrompt": "What does “At first, Leila refuses help; at the climax, she shares control of the rescue.” contribute to meaning or response?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -887,29 +887,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Make it constrain or enable action.",
-      "Adaptation copies story with renamed characters",
-      "Twist has no preparation",
-      "Setting is decorative"
+      "The suspense structure is retained while events, setting and problem are original.",
+      "The specific fear explains her secrecy and creates later consequences.",
+      "The setting changes available choices and drives the plot.",
+      "Changed behaviour demonstrates growth through action."
     ],
-    "correct": 0,
-    "explanation": "Make it constrain or enable action. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Revision changes meaning and structure; proofreading follows. Attractive details that do not support the design may need removal.",
+    "correct": 3,
+    "explanation": "Changed behaviour demonstrates growth through action.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "Make it constrain or enable action. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Revision changes meaning and structure; proofreading follows. Attractive details that do not support the design may need removal."
+      "summary": "Changed behaviour demonstrates growth through action.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE05-P-031",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "test causality",
+    "stage": "application",
+    "skill": "character change revision",
     "printable": true,
     "type": "single",
-    "question": "You are editing a community garden proposal. Which revision makes setting functional?",
-    "audioPrompt": "You are editing a community garden proposal. Which revision makes setting functional?",
+    "question": "Which revision best applies character change?",
+    "audioPrompt": "Which revision best applies character change?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -917,29 +917,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A flood blocks the only route and forces a decision",
-      "The room is blue",
-      "The setting is named once",
-      "The background never affects events"
+      "Echo an early refusal so the later cooperation is meaningful.",
+      "Plan the cause that led to the opening crisis and reveal it gradually.",
+      "Show the motive through choices and dialogue rather than announcing it.",
+      "Make rising water alter the characters’ next decision."
     ],
     "correct": 0,
-    "explanation": "“A flood blocks the only route and forces a decision” best fits the purpose and the language evidence in this new situation.\nHint: Revision changes meaning and structure; proofreading follows. Attractive details that do not support the design may need removal.",
+    "explanation": "The revision applies character change purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "“A flood blocks the only route and forces a decision” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Revision changes meaning and structure; proofreading follows. Attractive details that do not support the design may need removal."
+      "summary": "The revision applies character change purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE05-P-032",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "clarify character goal",
+    "stage": "core",
+    "skill": "character change misconception",
     "printable": true,
     "type": "single",
-    "question": "A sports-club discussion needs a clear example of clarify character goal. Which wording should you choose?",
-    "audioPrompt": "A sports-club discussion needs a clear example of clarify character goal. Which wording should you choose?",
+    "question": "A student says, “Character change is proven by saying “she had changed”.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Character change is proven by saying “she had changed”.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -947,29 +947,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "test plot causality",
-      "clarify character goal",
-      "make setting active",
-      "control viewpoint"
+      "Changing character names makes a copied plot original.",
+      "The claim is too broad; the example shows that changed behaviour demonstrates growth through action.",
+      "Characters can act unpredictably without any established motive.",
+      "Setting is only decorative description."
     ],
     "correct": 1,
-    "explanation": "“clarify character goal” is the best choice because it demonstrates clarify character goal in context.\nHint: Choose the wording that performs the required job, not merely one that sounds fluent.",
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "“clarify character goal” is the best choice because it demonstrates clarify character goal in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE05-P-033",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "adaptation",
+    "stage": "foundation",
+    "skill": "pacing revision",
     "printable": true,
     "type": "single",
-    "question": "While revising a library display, you need language that matches “transformation of source techniques into a new text”. Which concept should guide your choice?",
-    "audioPrompt": "While revising a library display, you need language that matches “transformation of source techniques into a new text”. Which concept should guide your choice?",
+    "question": "Read: “A chase scene pauses for two pages of unrelated room description.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “A chase scene pauses for two pages of unrelated room description.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -977,29 +977,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
+      "transforming plot structure",
       "character motivation",
-      "plot causality",
-      "adaptation",
-      "It does not match the evidence in the example."
+      "pacing revision",
+      "active setting"
     ],
     "correct": 2,
-    "explanation": "adaptation is the concept that matches transformation of source techniques into a new text.\nHint: Use the definition to guide the decision, then check it against the sentence.",
+    "explanation": "pacing revision: The interruption weakens urgency because the detail does not serve the action.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "adaptation is the concept that matches transformation of source techniques into a new text.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "pacing revision: The interruption weakens urgency because the detail does not serve the action.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE05-P-034",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "identify mentor technique",
+    "stage": "core",
+    "skill": "pacing revision effect",
     "printable": true,
     "type": "single",
-    "question": "You are editing a museum caption. Which revision makes setting functional?",
-    "audioPrompt": "You are editing a museum caption. Which revision makes setting functional?",
+    "question": "What does “A chase scene pauses for two pages of unrelated room description.” contribute to meaning or response?",
+    "audioPrompt": "What does “A chase scene pauses for two pages of unrelated room description.” contribute to meaning or response?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1007,29 +1007,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The room is blue",
-      "The setting is named once",
-      "The background never affects events",
-      "A flood blocks the only route and forces a decision"
+      "The suspense structure is retained while events, setting and problem are original.",
+      "The specific fear explains her secrecy and creates later consequences.",
+      "The setting changes available choices and drives the plot.",
+      "The interruption weakens urgency because the detail does not serve the action."
     ],
     "correct": 3,
-    "explanation": "“A flood blocks the only route and forces a decision” best fits the purpose and the language evidence in this new situation.\nHint: Revision changes meaning and structure; proofreading follows. Attractive details that do not support the design may need removal.",
+    "explanation": "The interruption weakens urgency because the detail does not serve the action.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "“A flood blocks the only route and forces a decision” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Revision changes meaning and structure; proofreading follows. Attractive details that do not support the design may need removal."
+      "summary": "The interruption weakens urgency because the detail does not serve the action.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE05-P-035",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "strengthen motif imagery",
+    "stage": "application",
+    "skill": "pacing revision revision",
     "printable": true,
     "type": "single",
-    "question": "A student council meeting needs a clear example of strengthen motif/imagery. Which wording should you choose?",
-    "audioPrompt": "A student council meeting needs a clear example of strengthen motif/imagery. Which wording should you choose?",
+    "question": "Which revision best applies pacing revision?",
+    "audioPrompt": "Which revision best applies pacing revision?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1037,29 +1037,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "strengthen motif/imagery",
-      "test plot causality",
-      "clarify character goal",
-      "make setting active"
+      "Keep only details the fleeing character would urgently notice.",
+      "Plan the cause that led to the opening crisis and reveal it gradually.",
+      "Show the motive through choices and dialogue rather than announcing it.",
+      "Make rising water alter the characters’ next decision."
     ],
     "correct": 0,
-    "explanation": "“strengthen motif/imagery” is the best choice because it demonstrates strengthen motif/imagery in context.\nHint: Choose the wording that performs the required job, not merely one that sounds fluent.",
+    "explanation": "The revision applies pacing revision purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "“strengthen motif/imagery” is the best choice because it demonstrates strengthen motif/imagery in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "The revision applies pacing revision purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE05-P-036",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "adaptation",
+    "stage": "challenge",
+    "skill": "pacing revision misconception",
     "printable": true,
     "type": "single",
-    "question": "While revising a local-history article, you need language that matches “transformation of source techniques into a new text”. Which concept should guide your choice?",
-    "audioPrompt": "While revising a local-history article, you need language that matches “transformation of source techniques into a new text”. Which concept should guide your choice?",
+    "question": "A student says, “More description always improves a literary text.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “More description always improves a literary text.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1067,29 +1067,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "character motivation",
-      "adaptation",
-      "plot causality",
-      "It does not match the evidence in the example."
+      "Changing character names makes a copied plot original.",
+      "The claim is too broad; the example shows that the interruption weakens urgency because the detail does not serve the action.",
+      "Characters can act unpredictably without any established motive.",
+      "Setting is only decorative description."
     ],
     "correct": 1,
-    "explanation": "adaptation is the concept that matches transformation of source techniques into a new text.\nHint: Use the definition to guide the decision, then check it against the sentence.",
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "adaptation is the concept that matches transformation of source techniques into a new text.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE05-P-037",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "use active setting",
+    "stage": "foundation",
+    "skill": "adaptation boundary",
     "printable": true,
     "type": "single",
-    "question": "You are editing a environmental campaign. Which revision makes setting functional?",
-    "audioPrompt": "You are editing a environmental campaign. Which revision makes setting functional?",
+    "question": "Read: “The draft repeats a mentor text’s event order, descriptions and ending.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “The draft repeats a mentor text’s event order, descriptions and ending.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1097,29 +1097,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The room is blue",
-      "The setting is named once",
-      "A flood blocks the only route and forces a decision",
-      "The background never affects events"
+      "transforming plot structure",
+      "character motivation",
+      "adaptation boundary",
+      "active setting"
     ],
     "correct": 2,
-    "explanation": "“A flood blocks the only route and forces a decision” best fits the purpose and the language evidence in this new situation.\nHint: Revision changes meaning and structure; proofreading follows. Attractive details that do not support the design may need removal.",
+    "explanation": "adaptation boundary: The similarities go beyond technique and require substantial redesign.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "“A flood blocks the only route and forces a decision” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Revision changes meaning and structure; proofreading follows. Attractive details that do not support the design may need removal."
+      "summary": "adaptation boundary: The similarities go beyond technique and require substantial redesign.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE05-P-038",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "test plot causality",
+    "stage": "core",
+    "skill": "adaptation boundary effect",
     "printable": true,
     "type": "single",
-    "question": "A book-club discussion needs a clear example of test plot causality. Which wording should you choose?",
-    "audioPrompt": "A book-club discussion needs a clear example of test plot causality. Which wording should you choose?",
+    "question": "What does “The draft repeats a mentor text’s event order, descriptions and ending.” contribute to meaning or response?",
+    "audioPrompt": "What does “The draft repeats a mentor text’s event order, descriptions and ending.” contribute to meaning or response?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1127,29 +1127,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "clarify character goal",
-      "make setting active",
-      "control viewpoint",
-      "test plot causality"
+      "The suspense structure is retained while events, setting and problem are original.",
+      "The specific fear explains her secrecy and creates later consequences.",
+      "The setting changes available choices and drives the plot.",
+      "The similarities go beyond technique and require substantial redesign."
     ],
     "correct": 3,
-    "explanation": "“test plot causality” is the best choice because it demonstrates test plot causality in context.\nHint: Choose the wording that performs the required job, not merely one that sounds fluent.",
+    "explanation": "The similarities go beyond technique and require substantial redesign.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "“test plot causality” is the best choice because it demonstrates test plot causality in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "The similarities go beyond technique and require substantial redesign.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE05-P-039",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "adaptation",
+    "stage": "application",
+    "skill": "adaptation boundary revision",
     "printable": true,
     "type": "single",
-    "question": "While revising a excursion briefing, you need language that matches “transformation of source techniques into a new text”. Which concept should guide your choice?",
-    "audioPrompt": "While revising a excursion briefing, you need language that matches “transformation of source techniques into a new text”. Which concept should guide your choice?",
+    "question": "Which revision best applies adaptation boundary?",
+    "audioPrompt": "Which revision best applies adaptation boundary?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1157,29 +1157,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "adaptation",
-      "character motivation",
-      "plot causality",
-      "It does not match the evidence in the example."
+      "Change context, decisions, causality, imagery and resolution.",
+      "Plan the cause that led to the opening crisis and reveal it gradually.",
+      "Show the motive through choices and dialogue rather than announcing it.",
+      "Make rising water alter the characters’ next decision."
     ],
     "correct": 0,
-    "explanation": "adaptation is the concept that matches transformation of source techniques into a new text.\nHint: Use the definition to guide the decision, then check it against the sentence.",
+    "explanation": "The revision applies adaptation boundary purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "adaptation is the concept that matches transformation of source techniques into a new text.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "The revision applies adaptation boundary purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE05-P-040",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "plan original transformation",
+    "stage": "challenge",
+    "skill": "adaptation boundary misconception",
     "printable": true,
     "type": "single",
-    "question": "You are editing a design project. Which revision makes setting functional?",
-    "audioPrompt": "You are editing a design project. Which revision makes setting functional?",
+    "question": "A student says, “A source may be copied if it inspired the writer.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “A source may be copied if it inspired the writer.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1187,18 +1187,258 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The room is blue",
-      "A flood blocks the only route and forces a decision",
-      "The setting is named once",
-      "The background never affects events"
+      "Changing character names makes a copied plot original.",
+      "The claim is too broad; the example shows that the similarities go beyond technique and require substantial redesign.",
+      "Characters can act unpredictably without any established motive.",
+      "Setting is only decorative description."
     ],
     "correct": 1,
-    "explanation": "“A flood blocks the only route and forces a decision” best fits the purpose and the language evidence in this new situation.\nHint: Revision changes meaning and structure; proofreading follows. Attractive details that do not support the design may need removal.",
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "“A flood blocks the only route and forces a decision” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Revision changes meaning and structure; proofreading follows. Attractive details that do not support the design may need removal."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LE05-P-041",
+    "curriculumCode": "AC9E6LE05",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "revision before proofreading",
+    "printable": true,
+    "type": "single",
+    "question": "Read: “The climax does not follow from the character’s earlier choices.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “The climax does not follow from the character’s earlier choices.” Which description best identifies the relevant choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "transforming plot structure",
+      "character motivation",
+      "revision before proofreading",
+      "active setting"
+    ],
+    "correct": 2,
+    "explanation": "revision before proofreading: A meaning and structure problem must be repaired before surface spelling edits.\nHint: Name the feature precisely.",
+    "structuredExplanation": {
+      "summary": "revision before proofreading: A meaning and structure problem must be repaired before surface spelling edits.",
+      "hint": "Name the feature precisely."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LE05-P-042",
+    "curriculumCode": "AC9E6LE05",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "revision before proofreading effect",
+    "printable": true,
+    "type": "single",
+    "question": "What does “The climax does not follow from the character’s earlier choices.” contribute to meaning or response?",
+    "audioPrompt": "What does “The climax does not follow from the character’s earlier choices.” contribute to meaning or response?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The suspense structure is retained while events, setting and problem are original.",
+      "The specific fear explains her secrecy and creates later consequences.",
+      "The setting changes available choices and drives the plot.",
+      "A meaning and structure problem must be repaired before surface spelling edits."
+    ],
+    "correct": 3,
+    "explanation": "A meaning and structure problem must be repaired before surface spelling edits.\nHint: Link exact evidence to its effect.",
+    "structuredExplanation": {
+      "summary": "A meaning and structure problem must be repaired before surface spelling edits.",
+      "hint": "Link exact evidence to its effect."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LE05-P-043",
+    "curriculumCode": "AC9E6LE05",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "revision before proofreading revision",
+    "printable": true,
+    "type": "single",
+    "question": "Which revision best applies revision before proofreading?",
+    "audioPrompt": "Which revision best applies revision before proofreading?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Revise motivation and causal links, then proofread conventions.",
+      "Plan the cause that led to the opening crisis and reveal it gradually.",
+      "Show the motive through choices and dialogue rather than announcing it.",
+      "Make rising water alter the characters’ next decision."
+    ],
+    "correct": 0,
+    "explanation": "The revision applies revision before proofreading purposefully.\nHint: Choose accuracy and effect, not extra length.",
+    "structuredExplanation": {
+      "summary": "The revision applies revision before proofreading purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LE05-P-044",
+    "curriculumCode": "AC9E6LE05",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "revision before proofreading misconception",
+    "printable": true,
+    "type": "single",
+    "question": "A student says, “Revision and proofreading are the same process.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Revision and proofreading are the same process.” Which response best corrects the claim?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Changing character names makes a copied plot original.",
+      "The claim is too broad; the example shows that a meaning and structure problem must be repaired before surface spelling edits.",
+      "Characters can act unpredictably without any established motive.",
+      "Setting is only decorative description."
+    ],
+    "correct": 1,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
+    "structuredExplanation": {
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LE05-P-045",
+    "curriculumCode": "AC9E6LE05",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "coherent synthesis",
+    "printable": true,
+    "type": "single",
+    "question": "Read: “The setting pressure, character goal and recurring signal motif all shape the final choice.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “The setting pressure, character goal and recurring signal motif all shape the final choice.” Which description best identifies the relevant choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "transforming plot structure",
+      "character motivation",
+      "coherent synthesis",
+      "active setting"
+    ],
+    "correct": 2,
+    "explanation": "coherent synthesis: The elements work together rather than appearing as separate decorations.\nHint: Name the feature precisely.",
+    "structuredExplanation": {
+      "summary": "coherent synthesis: The elements work together rather than appearing as separate decorations.",
+      "hint": "Name the feature precisely."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LE05-P-046",
+    "curriculumCode": "AC9E6LE05",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "coherent synthesis effect",
+    "printable": true,
+    "type": "single",
+    "question": "What does “The setting pressure, character goal and recurring signal motif all shape the final choice.” contribute to meaning or response?",
+    "audioPrompt": "What does “The setting pressure, character goal and recurring signal motif all shape the final choice.” contribute to meaning or response?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The suspense structure is retained while events, setting and problem are original.",
+      "The specific fear explains her secrecy and creates later consequences.",
+      "The setting changes available choices and drives the plot.",
+      "The elements work together rather than appearing as separate decorations."
+    ],
+    "correct": 3,
+    "explanation": "The elements work together rather than appearing as separate decorations.\nHint: Link exact evidence to its effect.",
+    "structuredExplanation": {
+      "summary": "The elements work together rather than appearing as separate decorations.",
+      "hint": "Link exact evidence to its effect."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LE05-P-047",
+    "curriculumCode": "AC9E6LE05",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "coherent synthesis revision",
+    "printable": true,
+    "type": "single",
+    "question": "Which revision best applies coherent synthesis?",
+    "audioPrompt": "Which revision best applies coherent synthesis?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Remove details that do not support the central design.",
+      "Plan the cause that led to the opening crisis and reveal it gradually.",
+      "Show the motive through choices and dialogue rather than announcing it.",
+      "Make rising water alter the characters’ next decision."
+    ],
+    "correct": 0,
+    "explanation": "The revision applies coherent synthesis purposefully.\nHint: Choose accuracy and effect, not extra length.",
+    "structuredExplanation": {
+      "summary": "The revision applies coherent synthesis purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LE05-P-048",
+    "curriculumCode": "AC9E6LE05",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "coherent synthesis misconception",
+    "printable": true,
+    "type": "single",
+    "question": "A student says, “Every attractive idea should remain in the final draft.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Every attractive idea should remain in the final draft.” Which response best corrects the claim?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Changing character names makes a copied plot original.",
+      "The claim is too broad; the example shows that the elements work together rather than appearing as separate decorations.",
+      "Characters can act unpredictably without any established motive.",
+      "Setting is only decorative description."
+    ],
+    "correct": 1,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
+    "structuredExplanation": {
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
+    },
+    "qualitySchema": "research-aligned-original-v2"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

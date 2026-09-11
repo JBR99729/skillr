@@ -4,12 +4,12 @@ window.skillrPracticeQuestions = [
     "id": "AC9E6LA02-P-001",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "fact or opinion",
+    "stage": "foundation",
+    "skill": "objective statement",
     "printable": true,
     "type": "single",
-    "question": "Which statement about the school garden is objective?",
-    "audioPrompt": "Which statement about the school garden is objective?",
+    "question": "Read: “The survey recorded 186 responses.” Which description best identifies the highlighted language or text choice?",
+    "audioPrompt": "Read: “The survey recorded 186 responses.” Which description best identifies the highlighted language or text choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -17,29 +17,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The garden contains 18 raised beds.",
-      "The garden is the most inspiring place at school.",
-      "Everyone would agree with the second statement.",
-      "The topic itself proves both statements."
+      "subjective statement",
+      "loaded language",
+      "attributed opinion",
+      "objective statement"
     ],
-    "correct": 0,
-    "explanation": "The selected statement contains information that can be checked without requiring agreement about quality or value.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "correct": 3,
+    "explanation": "This is objective statement: It reports a checkable quantity without adding approval or disapproval.\nHint: Name the exact feature before explaining its effect.",
     "structuredExplanation": {
-      "summary": "The selected statement contains information that can be checked without requiring agreement about quality or value.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "This is objective statement: It reports a checkable quantity without adding approval or disapproval.",
+      "hint": "Name the exact feature before explaining its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-002",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "fact or opinion",
+    "stage": "foundation",
+    "skill": "objective statement-effect",
     "printable": true,
     "type": "single",
-    "question": "Which statement about the bus trial is objective?",
-    "audioPrompt": "Which statement about the bus trial is objective?",
+    "question": "Why is this choice effective in context: “The survey recorded 186 responses.”?",
+    "audioPrompt": "Why is this choice effective in context: “The survey recorded 186 responses.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -47,29 +47,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The trial operated on three routes for six weeks.",
-      "The trial was a magnificent success.",
-      "Everyone would agree with the second statement.",
-      "The topic itself proves both statements."
+      "It reports a checkable quantity without adding approval or disapproval.",
+      "The adjective “wonderful” expresses the writer’s positive judgement.",
+      "“Dumped” and “disastrous” push readers towards a negative response.",
+      "The opinion is clearly assigned to the coach rather than presented as fact."
     ],
     "correct": 0,
-    "explanation": "The selected statement contains information that can be checked without requiring agreement about quality or value.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "explanation": "It reports a checkable quantity without adding approval or disapproval.\nHint: Connect a precise piece of evidence to what it helps the reader understand.",
     "structuredExplanation": {
-      "summary": "The selected statement contains information that can be checked without requiring agreement about quality or value.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "It reports a checkable quantity without adding approval or disapproval.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-003",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "fact or opinion",
+    "stage": "core",
+    "skill": "objective statement-revision",
     "printable": true,
     "type": "single",
-    "question": "Which statement about the library survey is objective?",
-    "audioPrompt": "Which statement about the library survey is objective?",
+    "question": "Which revision best applies objective statement to the idea in “The survey recorded 186 responses.”?",
+    "audioPrompt": "Which revision best applies objective statement to the idea in “The survey recorded 186 responses.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -77,29 +77,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Two hundred students completed the survey.",
-      "Every sensible student supports the library.",
-      "Everyone would agree with the second statement.",
-      "The topic itself proves both statements."
+      "In my view, the new timetable makes transitions easier.",
+      "The survey recorded 186 responses, including 94 from junior students.",
+      "The council released its plan for public comment.",
+      "The coach described the rule as unfair; the report also summarised the referee’s reasons."
     ],
-    "correct": 0,
-    "explanation": "The selected statement contains information that can be checked without requiring agreement about quality or value.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "correct": 1,
+    "explanation": "The revision applies objective statement deliberately while keeping the meaning clear.\nHint: Check meaning, purpose and grammatical or structural accuracy—not just fluency.",
     "structuredExplanation": {
-      "summary": "The selected statement contains information that can be checked without requiring agreement about quality or value.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "The revision applies objective statement deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-004",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "fact or opinion",
+    "stage": "core",
+    "skill": "objective statement-misconception",
     "printable": true,
     "type": "single",
-    "question": "Which statement about the river test is objective?",
-    "audioPrompt": "Which statement about the river test is objective?",
+    "question": "A student says, “A factual sentence guarantees that the whole text is unbiased.” Which response best corrects the misconception?",
+    "audioPrompt": "A student says, “A factual sentence guarantees that the whole text is unbiased.” Which response best corrects the misconception?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -107,29 +107,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The sample had a pH of 6.4.",
-      "The river looked terribly unhealthy.",
-      "Everyone would agree with the second statement.",
-      "The topic itself proves both statements."
+      "A factual sentence guarantees that the whole text is unbiased.",
+      "Any sentence containing a number is objective.",
+      "The claim is too broad; the example shows that it reports a checkable quantity without adding approval or disapproval.",
+      "Loaded words are simply longer words."
     ],
-    "correct": 0,
-    "explanation": "The selected statement contains information that can be checked without requiring agreement about quality or value.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "correct": 2,
+    "explanation": "The correction uses evidence from this example instead of an always-or-never rule.\nHint: Test the claim against the example and look for words such as always, never or guarantees.",
     "structuredExplanation": {
-      "summary": "The selected statement contains information that can be checked without requiring agreement about quality or value.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-005",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "fact or opinion",
+    "stage": "foundation",
+    "skill": "subjective statement",
     "printable": true,
     "type": "single",
-    "question": "Which statement about the sports day is objective?",
-    "audioPrompt": "Which statement about the sports day is objective?",
+    "question": "Read: “The new timetable is a wonderful improvement.” Which description best identifies the highlighted language or text choice?",
+    "audioPrompt": "Read: “The new timetable is a wonderful improvement.” Which description best identifies the highlighted language or text choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -137,29 +137,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Four houses competed in twelve events.",
-      "The sports day was unbearably long.",
-      "Everyone would agree with the second statement.",
-      "The topic itself proves both statements."
+      "objective statement",
+      "loaded language",
+      "attributed opinion",
+      "subjective statement"
     ],
-    "correct": 0,
-    "explanation": "The selected statement contains information that can be checked without requiring agreement about quality or value.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "correct": 3,
+    "explanation": "This is subjective statement: The adjective “wonderful” expresses the writer’s positive judgement.\nHint: Name the exact feature before explaining its effect.",
     "structuredExplanation": {
-      "summary": "The selected statement contains information that can be checked without requiring agreement about quality or value.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "This is subjective statement: The adjective “wonderful” expresses the writer’s positive judgement.",
+      "hint": "Name the exact feature before explaining its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-006",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "fact or opinion",
+    "stage": "foundation",
+    "skill": "subjective statement-effect",
     "printable": true,
     "type": "single",
-    "question": "Which statement about the solar project is objective?",
-    "audioPrompt": "Which statement about the solar project is objective?",
+    "question": "Why is this choice effective in context: “The new timetable is a wonderful improvement.”?",
+    "audioPrompt": "Why is this choice effective in context: “The new timetable is a wonderful improvement.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -167,29 +167,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The panels generated 42 kilowatt-hours on Monday.",
-      "The panels are a brilliant investment.",
-      "Everyone would agree with the second statement.",
-      "The topic itself proves both statements."
+      "The adjective “wonderful” expresses the writer’s positive judgement.",
+      "It reports a checkable quantity without adding approval or disapproval.",
+      "“Dumped” and “disastrous” push readers towards a negative response.",
+      "The opinion is clearly assigned to the coach rather than presented as fact."
     ],
     "correct": 0,
-    "explanation": "The selected statement contains information that can be checked without requiring agreement about quality or value.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "explanation": "The adjective “wonderful” expresses the writer’s positive judgement.\nHint: Connect a precise piece of evidence to what it helps the reader understand.",
     "structuredExplanation": {
-      "summary": "The selected statement contains information that can be checked without requiring agreement about quality or value.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "The adjective “wonderful” expresses the writer’s positive judgement.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-007",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "fact or opinion",
+    "stage": "core",
+    "skill": "subjective statement-revision",
     "printable": true,
     "type": "single",
-    "question": "Which statement about the museum visit is objective?",
-    "audioPrompt": "Which statement about the museum visit is objective?",
+    "question": "Which revision best applies subjective statement to the idea in “The new timetable is a wonderful improvement.”?",
+    "audioPrompt": "Which revision best applies subjective statement to the idea in “The new timetable is a wonderful improvement.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -197,29 +197,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The class examined five original artefacts.",
-      "The exhibition was absolutely unforgettable.",
-      "Everyone would agree with the second statement.",
-      "The topic itself proves both statements."
+      "The survey recorded 186 responses, including 94 from junior students.",
+      "In my view, the new timetable makes transitions easier.",
+      "The council released its plan for public comment.",
+      "The coach described the rule as unfair; the report also summarised the referee’s reasons."
     ],
-    "correct": 0,
-    "explanation": "The selected statement contains information that can be checked without requiring agreement about quality or value.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "correct": 1,
+    "explanation": "The revision applies subjective statement deliberately while keeping the meaning clear.\nHint: Check meaning, purpose and grammatical or structural accuracy—not just fluency.",
     "structuredExplanation": {
-      "summary": "The selected statement contains information that can be checked without requiring agreement about quality or value.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "The revision applies subjective statement deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-008",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "fact or opinion",
+    "stage": "core",
+    "skill": "subjective statement-misconception",
     "printable": true,
     "type": "single",
-    "question": "Which statement about the canteen menu is objective?",
-    "audioPrompt": "Which statement about the canteen menu is objective?",
+    "question": "A student says, “Any sentence containing a number is objective.” Which response best corrects the misconception?",
+    "audioPrompt": "A student says, “Any sentence containing a number is objective.” Which response best corrects the misconception?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -227,29 +227,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Three vegetarian meals were added this term.",
-      "The new meals are far more delicious.",
-      "Everyone would agree with the second statement.",
-      "The topic itself proves both statements."
+      "A factual sentence guarantees that the whole text is unbiased.",
+      "Any sentence containing a number is objective.",
+      "The claim is too broad; the example shows that the adjective “wonderful” expresses the writer’s positive judgement.",
+      "Loaded words are simply longer words."
     ],
-    "correct": 0,
-    "explanation": "The selected statement contains information that can be checked without requiring agreement about quality or value.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "correct": 2,
+    "explanation": "The correction uses evidence from this example instead of an always-or-never rule.\nHint: Test the claim against the example and look for words such as always, never or guarantees.",
     "structuredExplanation": {
-      "summary": "The selected statement contains information that can be checked without requiring agreement about quality or value.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-009",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "analyse",
-    "skill": "subjective wording",
+    "stage": "foundation",
+    "skill": "loaded language",
     "printable": true,
     "type": "single",
-    "question": "Compare: “The committee published the timetable on Friday.” and “The committee finally released its hopeless timetable.” Which words most clearly make the second version subjective?",
-    "audioPrompt": "Compare: “The committee published the timetable on Friday.” and “The committee finally released its hopeless timetable.” Which words most clearly make the second version subjective?",
+    "question": "Read: “The council dumped its disastrous plan on families.” Which description best identifies the highlighted language or text choice?",
+    "audioPrompt": "Read: “The council dumped its disastrous plan on families.” Which description best identifies the highlighted language or text choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -257,29 +257,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "finally; hopeless",
-      "the repeated nouns",
-      "the factual measurement only",
-      "the punctuation"
+      "objective statement",
+      "subjective statement",
+      "attributed opinion",
+      "loaded language"
     ],
-    "correct": 0,
-    "explanation": "The words finally; hopeless add impatience and disapproval, changing a neutral report into a viewpoint.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "correct": 3,
+    "explanation": "This is loaded language: “Dumped” and “disastrous” push readers towards a negative response.\nHint: Name the exact feature before explaining its effect.",
     "structuredExplanation": {
-      "summary": "The words finally; hopeless add impatience and disapproval, changing a neutral report into a viewpoint.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "This is loaded language: “Dumped” and “disastrous” push readers towards a negative response.",
+      "hint": "Name the exact feature before explaining its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-010",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "analyse",
-    "skill": "subjective wording",
+    "stage": "foundation",
+    "skill": "loaded language-effect",
     "printable": true,
     "type": "single",
-    "question": "Compare: “The path is 1.8 kilometres long.” and “The exhausting path stretches on for 1.8 kilometres.” Which words most clearly make the second version subjective?",
-    "audioPrompt": "Compare: “The path is 1.8 kilometres long.” and “The exhausting path stretches on for 1.8 kilometres.” Which words most clearly make the second version subjective?",
+    "question": "Why is this choice effective in context: “The council dumped its disastrous plan on families.”?",
+    "audioPrompt": "Why is this choice effective in context: “The council dumped its disastrous plan on families.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -287,29 +287,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "exhausting; stretches on",
-      "the repeated nouns",
-      "the factual measurement only",
-      "the punctuation"
+      "“Dumped” and “disastrous” push readers towards a negative response.",
+      "It reports a checkable quantity without adding approval or disapproval.",
+      "The adjective “wonderful” expresses the writer’s positive judgement.",
+      "The opinion is clearly assigned to the coach rather than presented as fact."
     ],
     "correct": 0,
-    "explanation": "The words exhausting; stretches on add difficulty and frustration, changing a neutral report into a viewpoint.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "explanation": "“Dumped” and “disastrous” push readers towards a negative response.\nHint: Connect a precise piece of evidence to what it helps the reader understand.",
     "structuredExplanation": {
-      "summary": "The words exhausting; stretches on add difficulty and frustration, changing a neutral report into a viewpoint.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "“Dumped” and “disastrous” push readers towards a negative response.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-011",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "analyse",
-    "skill": "subjective wording",
+    "stage": "core",
+    "skill": "loaded language-revision",
     "printable": true,
     "type": "single",
-    "question": "Compare: “The actor entered during scene two.” and “The dazzling actor swept into scene two.” Which words most clearly make the second version subjective?",
-    "audioPrompt": "Compare: “The actor entered during scene two.” and “The dazzling actor swept into scene two.” Which words most clearly make the second version subjective?",
+    "question": "Which revision best applies loaded language to the idea in “The council dumped its disastrous plan on families.”?",
+    "audioPrompt": "Which revision best applies loaded language to the idea in “The council dumped its disastrous plan on families.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -317,29 +317,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "dazzling; swept",
-      "the repeated nouns",
-      "the factual measurement only",
-      "the punctuation"
+      "The survey recorded 186 responses, including 94 from junior students.",
+      "The council released its plan for public comment.",
+      "In my view, the new timetable makes transitions easier.",
+      "The coach described the rule as unfair; the report also summarised the referee’s reasons."
     ],
-    "correct": 0,
-    "explanation": "The words dazzling; swept add admiration and excitement, changing a neutral report into a viewpoint.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "correct": 1,
+    "explanation": "The revision applies loaded language deliberately while keeping the meaning clear.\nHint: Check meaning, purpose and grammatical or structural accuracy—not just fluency.",
     "structuredExplanation": {
-      "summary": "The words dazzling; swept add admiration and excitement, changing a neutral report into a viewpoint.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "The revision applies loaded language deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-012",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "analyse",
-    "skill": "subjective wording",
+    "stage": "core",
+    "skill": "loaded language-misconception",
     "printable": true,
     "type": "single",
-    "question": "Compare: “The proposal reduces parking by 12 spaces.” and “The reckless proposal steals 12 parking spaces.” Which words most clearly make the second version subjective?",
-    "audioPrompt": "Compare: “The proposal reduces parking by 12 spaces.” and “The reckless proposal steals 12 parking spaces.” Which words most clearly make the second version subjective?",
+    "question": "A student says, “Loaded words are simply longer words.” Which response best corrects the misconception?",
+    "audioPrompt": "A student says, “Loaded words are simply longer words.” Which response best corrects the misconception?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -347,29 +347,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "reckless; steals",
-      "the repeated nouns",
-      "the factual measurement only",
-      "the punctuation"
+      "A factual sentence guarantees that the whole text is unbiased.",
+      "Any sentence containing a number is objective.",
+      "The claim is too broad; the example shows that “Dumped” and “disastrous” push readers towards a negative response.",
+      "Loaded words are simply longer words."
     ],
-    "correct": 0,
-    "explanation": "The words reckless; steals add anger and opposition, changing a neutral report into a viewpoint.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "correct": 2,
+    "explanation": "The correction uses evidence from this example instead of an always-or-never rule.\nHint: Test the claim against the example and look for words such as always, never or guarantees.",
     "structuredExplanation": {
-      "summary": "The words reckless; steals add anger and opposition, changing a neutral report into a viewpoint.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-013",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "analyse",
-    "skill": "subjective wording",
+    "stage": "foundation",
+    "skill": "attributed opinion",
     "printable": true,
     "type": "single",
-    "question": "Compare: “The seedlings grew seven centimetres.” and “The brave seedlings fought upwards by seven centimetres.” Which words most clearly make the second version subjective?",
-    "audioPrompt": "Compare: “The seedlings grew seven centimetres.” and “The brave seedlings fought upwards by seven centimetres.” Which words most clearly make the second version subjective?",
+    "question": "Read: “The coach said the new rule was unfair.” Which description best identifies the highlighted language or text choice?",
+    "audioPrompt": "Read: “The coach said the new rule was unfair.” Which description best identifies the highlighted language or text choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -377,29 +377,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "brave; fought",
-      "the repeated nouns",
-      "the factual measurement only",
-      "the punctuation"
+      "objective statement",
+      "subjective statement",
+      "loaded language",
+      "attributed opinion"
     ],
-    "correct": 0,
-    "explanation": "The words brave; fought add admiration and struggle, changing a neutral report into a viewpoint.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "correct": 3,
+    "explanation": "This is attributed opinion: The opinion is clearly assigned to the coach rather than presented as fact.\nHint: Name the exact feature before explaining its effect.",
     "structuredExplanation": {
-      "summary": "The words brave; fought add admiration and struggle, changing a neutral report into a viewpoint.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "This is attributed opinion: The opinion is clearly assigned to the coach rather than presented as fact.",
+      "hint": "Name the exact feature before explaining its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-014",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "analyse",
-    "skill": "subjective wording",
+    "stage": "foundation",
+    "skill": "attributed opinion-effect",
     "printable": true,
     "type": "single",
-    "question": "Compare: “The team changed its captain.” and “The team wisely replaced its ineffective captain.” Which words most clearly make the second version subjective?",
-    "audioPrompt": "Compare: “The team changed its captain.” and “The team wisely replaced its ineffective captain.” Which words most clearly make the second version subjective?",
+    "question": "Why is this choice effective in context: “The coach said the new rule was unfair.”?",
+    "audioPrompt": "Why is this choice effective in context: “The coach said the new rule was unfair.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -407,29 +407,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "wisely; ineffective",
-      "the repeated nouns",
-      "the factual measurement only",
-      "the punctuation"
+      "The opinion is clearly assigned to the coach rather than presented as fact.",
+      "It reports a checkable quantity without adding approval or disapproval.",
+      "The adjective “wonderful” expresses the writer’s positive judgement.",
+      "“Dumped” and “disastrous” push readers towards a negative response."
     ],
     "correct": 0,
-    "explanation": "The words wisely; ineffective add approval of the change, changing a neutral report into a viewpoint.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "explanation": "The opinion is clearly assigned to the coach rather than presented as fact.\nHint: Connect a precise piece of evidence to what it helps the reader understand.",
     "structuredExplanation": {
-      "summary": "The words wisely; ineffective add approval of the change, changing a neutral report into a viewpoint.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "The opinion is clearly assigned to the coach rather than presented as fact.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-015",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "analyse",
-    "skill": "subjective wording",
+    "stage": "core",
+    "skill": "attributed opinion-revision",
     "printable": true,
     "type": "single",
-    "question": "Compare: “The speech lasted fourteen minutes.” and “The speech dragged on for fourteen painful minutes.” Which words most clearly make the second version subjective?",
-    "audioPrompt": "Compare: “The speech lasted fourteen minutes.” and “The speech dragged on for fourteen painful minutes.” Which words most clearly make the second version subjective?",
+    "question": "Which revision best applies attributed opinion to the idea in “The coach said the new rule was unfair.”?",
+    "audioPrompt": "Which revision best applies attributed opinion to the idea in “The coach said the new rule was unfair.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -437,29 +437,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "dragged; painful",
-      "the repeated nouns",
-      "the factual measurement only",
-      "the punctuation"
+      "The survey recorded 186 responses, including 94 from junior students.",
+      "The coach described the rule as unfair; the report also summarised the referee’s reasons.",
+      "In my view, the new timetable makes transitions easier.",
+      "The council released its plan for public comment."
     ],
-    "correct": 0,
-    "explanation": "The words dragged; painful add boredom and criticism, changing a neutral report into a viewpoint.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "correct": 1,
+    "explanation": "The revision applies attributed opinion deliberately while keeping the meaning clear.\nHint: Check meaning, purpose and grammatical or structural accuracy—not just fluency.",
     "structuredExplanation": {
-      "summary": "The words dragged; painful add boredom and criticism, changing a neutral report into a viewpoint.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "The revision applies attributed opinion deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-016",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "analyse",
-    "skill": "subjective wording",
+    "stage": "core",
+    "skill": "attributed opinion-misconception",
     "printable": true,
     "type": "single",
-    "question": "Compare: “The dog remained beside the gate.” and “The loyal dog guarded the gate.” Which words most clearly make the second version subjective?",
-    "audioPrompt": "Compare: “The dog remained beside the gate.” and “The loyal dog guarded the gate.” Which words most clearly make the second version subjective?",
+    "question": "A student says, “Putting an opinion in quotation marks turns it into a fact.” Which response best corrects the misconception?",
+    "audioPrompt": "A student says, “Putting an opinion in quotation marks turns it into a fact.” Which response best corrects the misconception?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -467,29 +467,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "loyal; guarded",
-      "the repeated nouns",
-      "the factual measurement only",
-      "the punctuation"
+      "A factual sentence guarantees that the whole text is unbiased.",
+      "Any sentence containing a number is objective.",
+      "The claim is too broad; the example shows that the opinion is clearly assigned to the coach rather than presented as fact.",
+      "Loaded words are simply longer words."
     ],
-    "correct": 0,
-    "explanation": "The words loyal; guarded add approval and protection, changing a neutral report into a viewpoint.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "correct": 2,
+    "explanation": "The correction uses evidence from this example instead of an always-or-never rule.\nHint: Test the claim against the example and look for words such as always, never or guarantees.",
     "structuredExplanation": {
-      "summary": "The words loyal; guarded add approval and protection, changing a neutral report into a viewpoint.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-017",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "analyse",
-    "skill": "connotation",
+    "stage": "foundation",
+    "skill": "selection bias",
     "printable": true,
     "type": "single",
-    "question": "The words “slim” and “scrawny” both relate to a person’s build. Which word carries the more negative connotation?",
-    "audioPrompt": "The words “slim” and “scrawny” both relate to a person’s build. Which word carries the more negative connotation?",
+    "question": "Read: “The article quotes four opponents but no supporters of the proposal.” Which description best identifies the highlighted language or text choice?",
+    "audioPrompt": "Read: “The article quotes four opponents but no supporters of the proposal.” Which description best identifies the highlighted language or text choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -497,29 +497,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "scrawny",
-      "slim",
-      "Both are completely neutral.",
-      "Connotation cannot change tone."
+      "objective statement",
+      "subjective statement",
+      "loaded language",
+      "selection bias"
     ],
-    "correct": 0,
-    "explanation": "“scrawny” shares the general meaning but carries a more negative association in this context.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "correct": 3,
+    "explanation": "This is selection bias: The chosen voices represent only one side of the issue.\nHint: Name the exact feature before explaining its effect.",
     "structuredExplanation": {
-      "summary": "“scrawny” shares the general meaning but carries a more negative association in this context.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "This is selection bias: The chosen voices represent only one side of the issue.",
+      "hint": "Name the exact feature before explaining its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-018",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "analyse",
-    "skill": "connotation",
+    "stage": "foundation",
+    "skill": "selection bias-effect",
     "printable": true,
     "type": "single",
-    "question": "The words “determined” and “stubborn” both relate to refusal to change. Which word carries the more negative connotation?",
-    "audioPrompt": "The words “determined” and “stubborn” both relate to refusal to change. Which word carries the more negative connotation?",
+    "question": "Why is this choice effective in context: “The article quotes four opponents but no supporters of the proposal.”?",
+    "audioPrompt": "Why is this choice effective in context: “The article quotes four opponents but no supporters of the proposal.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -527,29 +527,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "stubborn",
-      "determined",
-      "Both are completely neutral.",
-      "Connotation cannot change tone."
+      "The chosen voices represent only one side of the issue.",
+      "It reports a checkable quantity without adding approval or disapproval.",
+      "The adjective “wonderful” expresses the writer’s positive judgement.",
+      "“Dumped” and “disastrous” push readers towards a negative response."
     ],
     "correct": 0,
-    "explanation": "“stubborn” shares the general meaning but carries a more negative association in this context.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "explanation": "The chosen voices represent only one side of the issue.\nHint: Connect a precise piece of evidence to what it helps the reader understand.",
     "structuredExplanation": {
-      "summary": "“stubborn” shares the general meaning but carries a more negative association in this context.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "The chosen voices represent only one side of the issue.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-019",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "analyse",
-    "skill": "connotation",
+    "stage": "application",
+    "skill": "selection bias-revision",
     "printable": true,
     "type": "single",
-    "question": "The words “confident” and “arrogant” both relate to belief in ability. Which word carries the more negative connotation?",
-    "audioPrompt": "The words “confident” and “arrogant” both relate to belief in ability. Which word carries the more negative connotation?",
+    "question": "Which revision best applies selection bias to the idea in “The article quotes four opponents but no supporters of the proposal.”?",
+    "audioPrompt": "Which revision best applies selection bias to the idea in “The article quotes four opponents but no supporters of the proposal.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -557,29 +557,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "arrogant",
-      "confident",
-      "Both are completely neutral.",
-      "Connotation cannot change tone."
+      "The survey recorded 186 responses, including 94 from junior students.",
+      "Add relevant evidence from supporters, opponents and independent sources.",
+      "In my view, the new timetable makes transitions easier.",
+      "The council released its plan for public comment."
     ],
-    "correct": 0,
-    "explanation": "“arrogant” shares the general meaning but carries a more negative association in this context.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "correct": 1,
+    "explanation": "The revision applies selection bias deliberately while keeping the meaning clear.\nHint: Check meaning, purpose and grammatical or structural accuracy—not just fluency.",
     "structuredExplanation": {
-      "summary": "“arrogant” shares the general meaning but carries a more negative association in this context.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "The revision applies selection bias deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-020",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "analyse",
-    "skill": "connotation",
+    "stage": "core",
+    "skill": "selection bias-misconception",
     "printable": true,
     "type": "single",
-    "question": "The words “inexpensive” and “cheap” both relate to low cost. Which word carries the more negative connotation?",
-    "audioPrompt": "The words “inexpensive” and “cheap” both relate to low cost. Which word carries the more negative connotation?",
+    "question": "A student says, “Neutral vocabulary removes selection bias.” Which response best corrects the misconception?",
+    "audioPrompt": "A student says, “Neutral vocabulary removes selection bias.” Which response best corrects the misconception?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -587,29 +587,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "cheap",
-      "inexpensive",
-      "Both are completely neutral.",
-      "Connotation cannot change tone."
+      "A factual sentence guarantees that the whole text is unbiased.",
+      "Any sentence containing a number is objective.",
+      "The claim is too broad; the example shows that the chosen voices represent only one side of the issue.",
+      "Loaded words are simply longer words."
     ],
-    "correct": 0,
-    "explanation": "“cheap” shares the general meaning but carries a more negative association in this context.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "correct": 2,
+    "explanation": "The correction uses evidence from this example instead of an always-or-never rule.\nHint: Test the claim against the example and look for words such as always, never or guarantees.",
     "structuredExplanation": {
-      "summary": "“cheap” shares the general meaning but carries a more negative association in this context.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-021",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "analyse",
-    "skill": "connotation",
+    "stage": "foundation",
+    "skill": "omission",
     "printable": true,
     "type": "single",
-    "question": "The words “curious” and “nosy” both relate to interest in others. Which word carries the more negative connotation?",
-    "audioPrompt": "The words “curious” and “nosy” both relate to interest in others. Which word carries the more negative connotation?",
+    "question": "Read: “A canteen advertisement states the snack is low in fat but leaves out its high sugar level.” Which description best identifies the highlighted language or text choice?",
+    "audioPrompt": "Read: “A canteen advertisement states the snack is low in fat but leaves out its high sugar level.” Which description best identifies the highlighted language or text choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -617,29 +617,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "nosy",
-      "curious",
-      "Both are completely neutral.",
-      "Connotation cannot change tone."
+      "objective statement",
+      "subjective statement",
+      "loaded language",
+      "omission"
     ],
-    "correct": 0,
-    "explanation": "“nosy” shares the general meaning but carries a more negative association in this context.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "correct": 3,
+    "explanation": "This is omission: The missing information could change how readers judge the product.\nHint: Name the exact feature before explaining its effect.",
     "structuredExplanation": {
-      "summary": "“nosy” shares the general meaning but carries a more negative association in this context.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "This is omission: The missing information could change how readers judge the product.",
+      "hint": "Name the exact feature before explaining its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-022",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "analyse",
-    "skill": "connotation",
+    "stage": "foundation",
+    "skill": "omission-effect",
     "printable": true,
     "type": "single",
-    "question": "The words “youthful” and “childish” both relate to young behaviour. Which word carries the more positive connotation?",
-    "audioPrompt": "The words “youthful” and “childish” both relate to young behaviour. Which word carries the more positive connotation?",
+    "question": "Why is this choice effective in context: “A canteen advertisement states the snack is low in fat but leaves out its high sugar level.”?",
+    "audioPrompt": "Why is this choice effective in context: “A canteen advertisement states the snack is low in fat but leaves out its high sugar level.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -647,29 +647,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "youthful",
-      "childish",
-      "Both are completely neutral.",
-      "Connotation cannot change tone."
+      "The missing information could change how readers judge the product.",
+      "It reports a checkable quantity without adding approval or disapproval.",
+      "The adjective “wonderful” expresses the writer’s positive judgement.",
+      "“Dumped” and “disastrous” push readers towards a negative response."
     ],
     "correct": 0,
-    "explanation": "“youthful” shares the general meaning but carries a more positive association in this context.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "explanation": "The missing information could change how readers judge the product.\nHint: Connect a precise piece of evidence to what it helps the reader understand.",
     "structuredExplanation": {
-      "summary": "“youthful” shares the general meaning but carries a more positive association in this context.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "The missing information could change how readers judge the product.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-023",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "analyse",
-    "skill": "connotation",
+    "stage": "application",
+    "skill": "omission-revision",
     "printable": true,
     "type": "single",
-    "question": "The words “careful” and “fussy” both relate to attention to detail. Which word carries the more positive connotation?",
-    "audioPrompt": "The words “careful” and “fussy” both relate to attention to detail. Which word carries the more positive connotation?",
+    "question": "Which revision best applies omission to the idea in “A canteen advertisement states the snack is low in fat but leaves out its high sugar level.”?",
+    "audioPrompt": "Which revision best applies omission to the idea in “A canteen advertisement states the snack is low in fat but leaves out its high sugar level.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -677,29 +677,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "careful",
-      "fussy",
-      "Both are completely neutral.",
-      "Connotation cannot change tone."
+      "The survey recorded 186 responses, including 94 from junior students.",
+      "Report both the fat and sugar figures per serving.",
+      "In my view, the new timetable makes transitions easier.",
+      "The council released its plan for public comment."
     ],
-    "correct": 0,
-    "explanation": "“careful” shares the general meaning but carries a more positive association in this context.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "correct": 1,
+    "explanation": "The revision applies omission deliberately while keeping the meaning clear.\nHint: Check meaning, purpose and grammatical or structural accuracy—not just fluency.",
     "structuredExplanation": {
-      "summary": "“careful” shares the general meaning but carries a more positive association in this context.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "The revision applies omission deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-024",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "analyse",
-    "skill": "connotation",
+    "stage": "core",
+    "skill": "omission-misconception",
     "printable": true,
     "type": "single",
-    "question": "The words “original” and “peculiar” both relate to unusual design. Which word carries the more positive connotation?",
-    "audioPrompt": "The words “original” and “peculiar” both relate to unusual design. Which word carries the more positive connotation?",
+    "question": "A student says, “Omitted information cannot create bias because it is not on the page.” Which response best corrects the misconception?",
+    "audioPrompt": "A student says, “Omitted information cannot create bias because it is not on the page.” Which response best corrects the misconception?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -707,29 +707,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "original",
-      "peculiar",
-      "Both are completely neutral.",
-      "Connotation cannot change tone."
+      "A factual sentence guarantees that the whole text is unbiased.",
+      "Any sentence containing a number is objective.",
+      "The claim is too broad; the example shows that the missing information could change how readers judge the product.",
+      "Loaded words are simply longer words."
     ],
-    "correct": 0,
-    "explanation": "“original” shares the general meaning but carries a more positive association in this context.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "correct": 2,
+    "explanation": "The correction uses evidence from this example instead of an always-or-never rule.\nHint: Test the claim against the example and look for words such as always, never or guarantees.",
     "structuredExplanation": {
-      "summary": "“original” shares the general meaning but carries a more positive association in this context.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-025",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "analyse",
-    "skill": "identify bias mechanism",
+    "stage": "foundation",
+    "skill": "framing",
     "printable": true,
     "type": "single",
-    "question": "A phone advertisement quotes only customers who received free devices. Which feature most clearly creates possible bias?",
-    "audioPrompt": "A phone advertisement quotes only customers who received free devices. Which feature most clearly creates possible bias?",
+    "question": "Read: “Only 12% disagreed with the plan.” Which description best identifies the highlighted language or text choice?",
+    "audioPrompt": "Read: “Only 12% disagreed with the plan.” Which description best identifies the highlighted language or text choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -737,29 +737,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "selective testimonials",
-      "repetition of the product name",
-      "the existence of a topic",
-      "the use of complete sentences"
+      "objective statement",
+      "subjective statement",
+      "loaded language",
+      "framing"
     ],
-    "correct": 0,
-    "explanation": "The main concern is selective testimonials; it can shape interpretation without necessarily making every detail false.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "correct": 3,
+    "explanation": "This is framing: Beginning with “only” makes the disagreement appear unimportant.\nHint: Name the exact feature before explaining its effect.",
     "structuredExplanation": {
-      "summary": "The main concern is selective testimonials; it can shape interpretation without necessarily making every detail false.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "This is framing: Beginning with “only” makes the disagreement appear unimportant.",
+      "hint": "Name the exact feature before explaining its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-026",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "analyse",
-    "skill": "identify bias mechanism",
+    "stage": "core",
+    "skill": "framing-effect",
     "printable": true,
     "type": "single",
-    "question": "A news post calls one proposal a “rescue” and the other a “scheme”. Which feature most clearly creates possible bias?",
-    "audioPrompt": "A news post calls one proposal a “rescue” and the other a “scheme”. Which feature most clearly creates possible bias?",
+    "question": "Why is this choice effective in context: “Only 12% disagreed with the plan.”?",
+    "audioPrompt": "Why is this choice effective in context: “Only 12% disagreed with the plan.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -767,29 +767,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "loaded framing",
-      "use of two nouns",
-      "the existence of a topic",
-      "the use of complete sentences"
+      "Beginning with “only” makes the disagreement appear unimportant.",
+      "It reports a checkable quantity without adding approval or disapproval.",
+      "The adjective “wonderful” expresses the writer’s positive judgement.",
+      "“Dumped” and “disastrous” push readers towards a negative response."
     ],
     "correct": 0,
-    "explanation": "The main concern is loaded framing; it can shape interpretation without necessarily making every detail false.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "explanation": "Beginning with “only” makes the disagreement appear unimportant.\nHint: Connect a precise piece of evidence to what it helps the reader understand.",
     "structuredExplanation": {
-      "summary": "The main concern is loaded framing; it can shape interpretation without necessarily making every detail false.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "Beginning with “only” makes the disagreement appear unimportant.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-027",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "analyse",
-    "skill": "identify bias mechanism",
+    "stage": "application",
+    "skill": "framing-revision",
     "printable": true,
     "type": "single",
-    "question": "A school poll about homework is answered only by students attending lunchtime tutoring. Which feature most clearly creates possible bias?",
-    "audioPrompt": "A school poll about homework is answered only by students attending lunchtime tutoring. Which feature most clearly creates possible bias?",
+    "question": "Which revision best applies framing to the idea in “Only 12% disagreed with the plan.”?",
+    "audioPrompt": "Which revision best applies framing to the idea in “Only 12% disagreed with the plan.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -797,29 +797,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "unrepresentative sample",
-      "alphabetical ordering",
-      "the existence of a topic",
-      "the use of complete sentences"
+      "The survey recorded 186 responses, including 94 from junior students.",
+      "The survey found 88% agreed and 12% disagreed.",
+      "In my view, the new timetable makes transitions easier.",
+      "The council released its plan for public comment."
     ],
-    "correct": 0,
-    "explanation": "The main concern is unrepresentative sample; it can shape interpretation without necessarily making every detail false.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "correct": 1,
+    "explanation": "The revision applies framing deliberately while keeping the meaning clear.\nHint: Check meaning, purpose and grammatical or structural accuracy—not just fluency.",
     "structuredExplanation": {
-      "summary": "The main concern is unrepresentative sample; it can shape interpretation without necessarily making every detail false.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "The revision applies framing deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-028",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "analyse",
-    "skill": "identify bias mechanism",
+    "stage": "core",
+    "skill": "framing-misconception",
     "printable": true,
     "type": "single",
-    "question": "A documentary shows crowded trains but omits the new services added that month. Which feature most clearly creates possible bias?",
-    "audioPrompt": "A documentary shows crowded trains but omits the new services added that month. Which feature most clearly creates possible bias?",
+    "question": "A student says, “Framing changes facts, so the percentages must be false.” Which response best corrects the misconception?",
+    "audioPrompt": "A student says, “Framing changes facts, so the percentages must be false.” Which response best corrects the misconception?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -827,29 +827,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "relevant omission",
-      "accurate spelling",
-      "the existence of a topic",
-      "the use of complete sentences"
+      "A factual sentence guarantees that the whole text is unbiased.",
+      "Any sentence containing a number is objective.",
+      "The claim is too broad; the example shows that beginning with “only” makes the disagreement appear unimportant.",
+      "Loaded words are simply longer words."
     ],
-    "correct": 0,
-    "explanation": "The main concern is relevant omission; it can shape interpretation without necessarily making every detail false.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "correct": 2,
+    "explanation": "The correction uses evidence from this example instead of an always-or-never rule.\nHint: Test the claim against the example and look for words such as always, never or guarantees.",
     "structuredExplanation": {
-      "summary": "The main concern is relevant omission; it can shape interpretation without necessarily making every detail false.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-029",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "analyse",
-    "skill": "identify bias mechanism",
+    "stage": "foundation",
+    "skill": "positive connotation",
     "printable": true,
     "type": "single",
-    "question": "A headline says “Chaos erupts” when two people disagree quietly. Which feature most clearly creates possible bias?",
-    "audioPrompt": "A headline says “Chaos erupts” when two people disagree quietly. Which feature most clearly creates possible bias?",
+    "question": "Read: “The determined captain continued training.” Which description best identifies the highlighted language or text choice?",
+    "audioPrompt": "Read: “The determined captain continued training.” Which description best identifies the highlighted language or text choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -857,29 +857,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "sensational exaggeration",
-      "neutral attribution",
-      "the existence of a topic",
-      "the use of complete sentences"
+      "objective statement",
+      "subjective statement",
+      "loaded language",
+      "positive connotation"
     ],
-    "correct": 0,
-    "explanation": "The main concern is sensational exaggeration; it can shape interpretation without necessarily making every detail false.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "correct": 3,
+    "explanation": "This is positive connotation: “Determined” presents persistence as an admirable quality.\nHint: Name the exact feature before explaining its effect.",
     "structuredExplanation": {
-      "summary": "The main concern is sensational exaggeration; it can shape interpretation without necessarily making every detail false.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "This is positive connotation: “Determined” presents persistence as an admirable quality.",
+      "hint": "Name the exact feature before explaining its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-030",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "analyse",
-    "skill": "identify bias mechanism",
+    "stage": "core",
+    "skill": "positive connotation-effect",
     "printable": true,
     "type": "single",
-    "question": "A report describes critics as “complainers” but supporters as “community leaders”. Which feature most clearly creates possible bias?",
-    "audioPrompt": "A report describes critics as “complainers” but supporters as “community leaders”. Which feature most clearly creates possible bias?",
+    "question": "Why is this choice effective in context: “The determined captain continued training.”?",
+    "audioPrompt": "Why is this choice effective in context: “The determined captain continued training.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -887,29 +887,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "unequal labelling",
-      "balanced representation",
-      "the existence of a topic",
-      "the use of complete sentences"
+      "“Determined” presents persistence as an admirable quality.",
+      "It reports a checkable quantity without adding approval or disapproval.",
+      "The adjective “wonderful” expresses the writer’s positive judgement.",
+      "“Dumped” and “disastrous” push readers towards a negative response."
     ],
     "correct": 0,
-    "explanation": "The main concern is unequal labelling; it can shape interpretation without necessarily making every detail false.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "explanation": "“Determined” presents persistence as an admirable quality.\nHint: Connect a precise piece of evidence to what it helps the reader understand.",
     "structuredExplanation": {
-      "summary": "The main concern is unequal labelling; it can shape interpretation without necessarily making every detail false.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "“Determined” presents persistence as an admirable quality.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-031",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "analyse",
-    "skill": "identify bias mechanism",
+    "stage": "application",
+    "skill": "positive connotation-revision",
     "printable": true,
     "type": "single",
-    "question": "A graph begins its vertical axis at 98 to make a rise from 99 to 100 appear enormous. Which feature most clearly creates possible bias?",
-    "audioPrompt": "A graph begins its vertical axis at 98 to make a rise from 99 to 100 appear enormous. Which feature most clearly creates possible bias?",
+    "question": "Which revision best applies positive connotation to the idea in “The determined captain continued training.”?",
+    "audioPrompt": "Which revision best applies positive connotation to the idea in “The determined captain continued training.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -917,29 +917,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "visual exaggeration",
-      "precise unit use",
-      "the existence of a topic",
-      "the use of complete sentences"
+      "The survey recorded 186 responses, including 94 from junior students.",
+      "The captain continued training despite the setback.",
+      "In my view, the new timetable makes transitions easier.",
+      "The council released its plan for public comment."
     ],
-    "correct": 0,
-    "explanation": "The main concern is visual exaggeration; it can shape interpretation without necessarily making every detail false.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "correct": 1,
+    "explanation": "The revision applies positive connotation deliberately while keeping the meaning clear.\nHint: Check meaning, purpose and grammatical or structural accuracy—not just fluency.",
     "structuredExplanation": {
-      "summary": "The main concern is visual exaggeration; it can shape interpretation without necessarily making every detail false.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "The revision applies positive connotation deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-032",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "analyse",
-    "skill": "identify bias mechanism",
+    "stage": "core",
+    "skill": "positive connotation-misconception",
     "printable": true,
     "type": "single",
-    "question": "An article presents a company’s claim without identifying that the company funded the study. Which feature most clearly creates possible bias?",
-    "audioPrompt": "An article presents a company’s claim without identifying that the company funded the study. Which feature most clearly creates possible bias?",
+    "question": "A student says, “Connotation is the same as a dictionary definition.” Which response best corrects the misconception?",
+    "audioPrompt": "A student says, “Connotation is the same as a dictionary definition.” Which response best corrects the misconception?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -947,29 +947,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "hidden interested source",
-      "use of formal register",
-      "the existence of a topic",
-      "the use of complete sentences"
+      "A factual sentence guarantees that the whole text is unbiased.",
+      "Any sentence containing a number is objective.",
+      "The claim is too broad; the example shows that “Determined” presents persistence as an admirable quality.",
+      "Loaded words are simply longer words."
     ],
-    "correct": 0,
-    "explanation": "The main concern is hidden interested source; it can shape interpretation without necessarily making every detail false.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "correct": 2,
+    "explanation": "The correction uses evidence from this example instead of an always-or-never rule.\nHint: Test the claim against the example and look for words such as always, never or guarantees.",
     "structuredExplanation": {
-      "summary": "The main concern is hidden interested source; it can shape interpretation without necessarily making every detail false.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-033",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "revise for objectivity",
+    "stage": "foundation",
+    "skill": "negative connotation",
     "printable": true,
     "type": "single",
-    "question": "Which revision best neutralise loaded judgement in “The mayor’s absurd delay ruined everything.”?",
-    "audioPrompt": "Which revision best neutralise loaded judgement in “The mayor’s absurd delay ruined everything.”?",
+    "question": "Read: “The stubborn captain continued training.” Which description best identifies the highlighted language or text choice?",
+    "audioPrompt": "Read: “The stubborn captain continued training.” Which description best identifies the highlighted language or text choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -977,29 +977,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The mayor postponed the decision for two weeks.",
-      "The mayor’s absurd delay ruined everything.",
-      "People definitely agree with the original.",
-      "The original is objective because it is grammatical."
+      "objective statement",
+      "subjective statement",
+      "loaded language",
+      "negative connotation"
     ],
-    "correct": 0,
-    "explanation": "“The mayor postponed the decision for two weeks.” neutralise loaded judgement and makes the information easier to evaluate.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "correct": 3,
+    "explanation": "This is negative connotation: “Stubborn” presents the same persistence as unreasonable resistance.\nHint: Name the exact feature before explaining its effect.",
     "structuredExplanation": {
-      "summary": "“The mayor postponed the decision for two weeks.” neutralise loaded judgement and makes the information easier to evaluate.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "This is negative connotation: “Stubborn” presents the same persistence as unreasonable resistance.",
+      "hint": "Name the exact feature before explaining its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-034",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "revise for objectivity",
+    "stage": "core",
+    "skill": "negative connotation-effect",
     "printable": true,
     "type": "single",
-    "question": "Which revision best attribute a viewpoint in “Obviously, the new rule is perfect.”?",
-    "audioPrompt": "Which revision best attribute a viewpoint in “Obviously, the new rule is perfect.”?",
+    "question": "Why is this choice effective in context: “The stubborn captain continued training.”?",
+    "audioPrompt": "Why is this choice effective in context: “The stubborn captain continued training.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1007,29 +1007,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Supporters describe the rule as effective.",
-      "Obviously, the new rule is perfect.",
-      "People definitely agree with the original.",
-      "The original is objective because it is grammatical."
+      "“Stubborn” presents the same persistence as unreasonable resistance.",
+      "It reports a checkable quantity without adding approval or disapproval.",
+      "The adjective “wonderful” expresses the writer’s positive judgement.",
+      "“Dumped” and “disastrous” push readers towards a negative response."
     ],
     "correct": 0,
-    "explanation": "“Supporters describe the rule as effective.” attribute a viewpoint and makes the information easier to evaluate.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "explanation": "“Stubborn” presents the same persistence as unreasonable resistance.\nHint: Connect a precise piece of evidence to what it helps the reader understand.",
     "structuredExplanation": {
-      "summary": "“Supporters describe the rule as effective.” attribute a viewpoint and makes the information easier to evaluate.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "“Stubborn” presents the same persistence as unreasonable resistance.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-035",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "revise for objectivity",
+    "stage": "application",
+    "skill": "negative connotation-revision",
     "printable": true,
     "type": "single",
-    "question": "Which revision best state the sample precisely in “Nine out of ten people love the plan.”?",
-    "audioPrompt": "Which revision best state the sample precisely in “Nine out of ten people love the plan.”?",
+    "question": "Which revision best applies negative connotation to the idea in “The stubborn captain continued training.”?",
+    "audioPrompt": "Which revision best applies negative connotation to the idea in “The stubborn captain continued training.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1037,29 +1037,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Nine of the ten volunteers surveyed supported the plan.",
-      "Nine out of ten people love the plan.",
-      "People definitely agree with the original.",
-      "The original is objective because it is grammatical."
+      "The survey recorded 186 responses, including 94 from junior students.",
+      "The captain continued training despite advice to rest.",
+      "In my view, the new timetable makes transitions easier.",
+      "The council released its plan for public comment."
     ],
-    "correct": 0,
-    "explanation": "“Nine of the ten volunteers surveyed supported the plan.” state the sample precisely and makes the information easier to evaluate.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "correct": 1,
+    "explanation": "The revision applies negative connotation deliberately while keeping the meaning clear.\nHint: Check meaning, purpose and grammatical or structural accuracy—not just fluency.",
     "structuredExplanation": {
-      "summary": "“Nine of the ten volunteers surveyed supported the plan.” state the sample precisely and makes the information easier to evaluate.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "The revision applies negative connotation deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-036",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "revise for objectivity",
+    "stage": "challenge",
+    "skill": "negative connotation-misconception",
     "printable": true,
     "type": "single",
-    "question": "Which revision best remove stereotyping in “Only careless families waste water.”?",
-    "audioPrompt": "Which revision best remove stereotyping in “Only careless families waste water.”?",
+    "question": "A student says, “Two near-synonyms always position readers in the same way.” Which response best corrects the misconception?",
+    "audioPrompt": "A student says, “Two near-synonyms always position readers in the same way.” Which response best corrects the misconception?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1067,29 +1067,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Household water use varies, and leaks can increase consumption.",
-      "Only careless families waste water.",
-      "People definitely agree with the original.",
-      "The original is objective because it is grammatical."
+      "A factual sentence guarantees that the whole text is unbiased.",
+      "Any sentence containing a number is objective.",
+      "The claim is too broad; the example shows that “Stubborn” presents the same persistence as unreasonable resistance.",
+      "Loaded words are simply longer words."
     ],
-    "correct": 0,
-    "explanation": "“Household water use varies, and leaks can increase consumption.” remove stereotyping and makes the information easier to evaluate.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "correct": 2,
+    "explanation": "The correction uses evidence from this example instead of an always-or-never rule.\nHint: Test the claim against the example and look for words such as always, never or guarantees.",
     "structuredExplanation": {
-      "summary": "“Household water use varies, and leaks can increase consumption.” remove stereotyping and makes the information easier to evaluate.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-037",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "revise for objectivity",
+    "stage": "foundation",
+    "skill": "sampling bias",
     "printable": true,
     "type": "single",
-    "question": "Which revision best replace praise with measurement in “The heroic company slashed prices.”?",
-    "audioPrompt": "Which revision best replace praise with measurement in “The heroic company slashed prices.”?",
+    "question": "Read: “A “student opinion” poll asks only members of the debating club.” Which description best identifies the highlighted language or text choice?",
+    "audioPrompt": "Read: “A “student opinion” poll asks only members of the debating club.” Which description best identifies the highlighted language or text choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1097,29 +1097,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The company reduced prices by 15 per cent.",
-      "The heroic company slashed prices.",
-      "People definitely agree with the original.",
-      "The original is objective because it is grammatical."
+      "objective statement",
+      "subjective statement",
+      "loaded language",
+      "sampling bias"
     ],
-    "correct": 0,
-    "explanation": "“The company reduced prices by 15 per cent.” replace praise with measurement and makes the information easier to evaluate.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "correct": 3,
+    "explanation": "This is sampling bias: The sample may not represent the whole student population.\nHint: Name the exact feature before explaining its effect.",
     "structuredExplanation": {
-      "summary": "“The company reduced prices by 15 per cent.” replace praise with measurement and makes the information easier to evaluate.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "This is sampling bias: The sample may not represent the whole student population.",
+      "hint": "Name the exact feature before explaining its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-038",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "revise for objectivity",
+    "stage": "core",
+    "skill": "sampling bias-effect",
     "printable": true,
     "type": "single",
-    "question": "Which revision best replace unsupported consensus with evidence in “Everyone knows the old bridge is dangerous.”?",
-    "audioPrompt": "Which revision best replace unsupported consensus with evidence in “Everyone knows the old bridge is dangerous.”?",
+    "question": "Why is this choice effective in context: “A “student opinion” poll asks only members of the debating club.”?",
+    "audioPrompt": "Why is this choice effective in context: “A “student opinion” poll asks only members of the debating club.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1127,29 +1127,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "An engineering inspection identified cracks in two supports.",
-      "Everyone knows the old bridge is dangerous.",
-      "People definitely agree with the original.",
-      "The original is objective because it is grammatical."
+      "The sample may not represent the whole student population.",
+      "It reports a checkable quantity without adding approval or disapproval.",
+      "The adjective “wonderful” expresses the writer’s positive judgement.",
+      "“Dumped” and “disastrous” push readers towards a negative response."
     ],
     "correct": 0,
-    "explanation": "“An engineering inspection identified cracks in two supports.” replace unsupported consensus with evidence and makes the information easier to evaluate.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "explanation": "The sample may not represent the whole student population.\nHint: Connect a precise piece of evidence to what it helps the reader understand.",
     "structuredExplanation": {
-      "summary": "“An engineering inspection identified cracks in two supports.” replace unsupported consensus with evidence and makes the information easier to evaluate.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "The sample may not represent the whole student population.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-039",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "revise for objectivity",
+    "stage": "application",
+    "skill": "sampling bias-revision",
     "printable": true,
     "type": "single",
-    "question": "Which revision best remove dismissive connotation in “The protestors whined about the change.”?",
-    "audioPrompt": "Which revision best remove dismissive connotation in “The protestors whined about the change.”?",
+    "question": "Which revision best applies sampling bias to the idea in “A “student opinion” poll asks only members of the debating club.”?",
+    "audioPrompt": "Which revision best applies sampling bias to the idea in “A “student opinion” poll asks only members of the debating club.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1157,29 +1157,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The protestors criticised the change.",
-      "The protestors whined about the change.",
-      "People definitely agree with the original.",
-      "The original is objective because it is grammatical."
+      "The survey recorded 186 responses, including 94 from junior students.",
+      "Invite a random mix of students from every year level.",
+      "In my view, the new timetable makes transitions easier.",
+      "The council released its plan for public comment."
     ],
-    "correct": 0,
-    "explanation": "“The protestors criticised the change.” remove dismissive connotation and makes the information easier to evaluate.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "correct": 1,
+    "explanation": "The revision applies sampling bias deliberately while keeping the meaning clear.\nHint: Check meaning, purpose and grammatical or structural accuracy—not just fluency.",
     "structuredExplanation": {
-      "summary": "“The protestors criticised the change.” remove dismissive connotation and makes the information easier to evaluate.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "The revision applies sampling bias deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-040",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "revise for objectivity",
+    "stage": "challenge",
+    "skill": "sampling bias-misconception",
     "printable": true,
     "type": "single",
-    "question": "Which revision best limit an exaggerated claim in “This miracle program transforms every learner.”?",
-    "audioPrompt": "Which revision best limit an exaggerated claim in “This miracle program transforms every learner.”?",
+    "question": "A student says, “A large heading makes a sample representative.” Which response best corrects the misconception?",
+    "audioPrompt": "A student says, “A large heading makes a sample representative.” Which response best corrects the misconception?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1187,29 +1187,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "In the pilot group, average attendance increased over eight weeks.",
-      "This miracle program transforms every learner.",
-      "People definitely agree with the original.",
-      "The original is objective because it is grammatical."
+      "A factual sentence guarantees that the whole text is unbiased.",
+      "Any sentence containing a number is objective.",
+      "The claim is too broad; the example shows that the sample may not represent the whole student population.",
+      "Loaded words are simply longer words."
     ],
-    "correct": 0,
-    "explanation": "“In the pilot group, average attendance increased over eight weeks.” limit an exaggerated claim and makes the information easier to evaluate.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "correct": 2,
+    "explanation": "The correction uses evidence from this example instead of an always-or-never rule.\nHint: Test the claim against the example and look for words such as always, never or guarantees.",
     "structuredExplanation": {
-      "summary": "“In the pilot group, average attendance increased over eight weeks.” limit an exaggerated claim and makes the information easier to evaluate.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-041",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "analyse",
-    "skill": "separate fact and opinion",
+    "stage": "foundation",
+    "skill": "visual bias",
     "printable": true,
     "type": "single",
-    "question": "Which statement is objective?",
-    "audioPrompt": "Which statement is objective?",
+    "question": "Read: “A report about crowded parks uses a tightly cropped photo of one busy corner.” Which description best identifies the highlighted language or text choice?",
+    "audioPrompt": "Read: “A report about crowded parks uses a tightly cropped photo of one busy corner.” Which description best identifies the highlighted language or text choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1217,29 +1217,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The survey recorded 312 responses.",
-      "The new playground is absolutely wonderful.",
-      "Everyone dislikes long assemblies.",
-      "The principal made the best decision."
+      "objective statement",
+      "subjective statement",
+      "loaded language",
+      "visual bias"
     ],
-    "correct": 0,
-    "explanation": "The statement reports a checkable measurement without evaluative language.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "correct": 3,
+    "explanation": "This is visual bias: The crop may make an unusual scene seem typical of the whole park.\nHint: Name the exact feature before explaining its effect.",
     "structuredExplanation": {
-      "summary": "The statement reports a checkable measurement without evaluative language.",
-      "hint": "Use the curriculum feature and the full context to justify the answer."
+      "summary": "This is visual bias: The crop may make an unusual scene seem typical of the whole park.",
+      "hint": "Name the exact feature before explaining its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-042",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "analyse",
-    "skill": "identify subjective language",
+    "stage": "core",
+    "skill": "visual bias-effect",
     "printable": true,
     "type": "single",
-    "question": "Which phrase most clearly signals a subjective judgement?",
-    "audioPrompt": "Which phrase most clearly signals a subjective judgement?",
+    "question": "Why is this choice effective in context: “A report about crowded parks uses a tightly cropped photo of one busy corner.”?",
+    "audioPrompt": "Why is this choice effective in context: “A report about crowded parks uses a tightly cropped photo of one busy corner.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1247,29 +1247,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "an outrageously dull proposal",
-      "a proposal submitted on Tuesday",
-      "a twelve-page proposal",
-      "a proposal signed by two students"
+      "The crop may make an unusual scene seem typical of the whole park.",
+      "It reports a checkable quantity without adding approval or disapproval.",
+      "The adjective “wonderful” expresses the writer’s positive judgement.",
+      "“Dumped” and “disastrous” push readers towards a negative response."
     ],
     "correct": 0,
-    "explanation": "“Outrageously dull” expresses an attitude that cannot be verified as a neutral fact.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "explanation": "The crop may make an unusual scene seem typical of the whole park.\nHint: Connect a precise piece of evidence to what it helps the reader understand.",
     "structuredExplanation": {
-      "summary": "“Outrageously dull” expresses an attitude that cannot be verified as a neutral fact.",
-      "hint": "Use the curriculum feature and the full context to justify the answer."
+      "summary": "The crop may make an unusual scene seem typical of the whole park.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-043",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "analyse",
-    "skill": "detect selection bias",
+    "stage": "application",
+    "skill": "visual bias-revision",
     "printable": true,
     "type": "single",
-    "question": "A report praises a festival using only comments from its organisers. What is the clearest concern?",
-    "audioPrompt": "A report praises a festival using only comments from its organisers. What is the clearest concern?",
+    "question": "Which revision best applies visual bias to the idea in “A report about crowded parks uses a tightly cropped photo of one busy corner.”?",
+    "audioPrompt": "Which revision best applies visual bias to the idea in “A report about crowded parks uses a tightly cropped photo of one busy corner.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1277,29 +1277,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It selects evidence from people likely to favour the festival.",
-      "It contains no verbs.",
-      "It uses too many dates.",
-      "It is automatically false."
+      "The survey recorded 186 responses, including 94 from junior students.",
+      "Use a labelled wide view and state when and where the photograph was taken.",
+      "In my view, the new timetable makes transitions easier.",
+      "The council released its plan for public comment."
     ],
-    "correct": 0,
-    "explanation": "Using only organiser comments gives one interested viewpoint and may distort the overall impression.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "correct": 1,
+    "explanation": "The revision applies visual bias deliberately while keeping the meaning clear.\nHint: Check meaning, purpose and grammatical or structural accuracy—not just fluency.",
     "structuredExplanation": {
-      "summary": "Using only organiser comments gives one interested viewpoint and may distort the overall impression.",
-      "hint": "Use the curriculum feature and the full context to justify the answer."
+      "summary": "The revision applies visual bias deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-044",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "neutralise loaded wording",
+    "stage": "challenge",
+    "skill": "visual bias-misconception",
     "printable": true,
     "type": "single",
-    "question": "Which revision makes “The council finally abandoned its ridiculous plan” more objective?",
-    "audioPrompt": "Which revision makes “The council finally abandoned its ridiculous plan” more objective?",
+    "question": "A student says, “Photographs are automatically objective evidence.” Which response best corrects the misconception?",
+    "audioPrompt": "A student says, “Photographs are automatically objective evidence.” Which response best corrects the misconception?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1307,29 +1307,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The council withdrew the plan after the review.",
-      "The council wisely destroyed the awful plan.",
-      "Thankfully, the council gave up.",
-      "Everyone agreed the plan was ridiculous."
+      "A factual sentence guarantees that the whole text is unbiased.",
+      "Any sentence containing a number is objective.",
+      "The claim is too broad; the example shows that the crop may make an unusual scene seem typical of the whole park.",
+      "Loaded words are simply longer words."
     ],
-    "correct": 0,
-    "explanation": "The revision reports the action and context without loaded evaluation.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "correct": 2,
+    "explanation": "The correction uses evidence from this example instead of an always-or-never rule.\nHint: Test the claim against the example and look for words such as always, never or guarantees.",
     "structuredExplanation": {
-      "summary": "The revision reports the action and context without loaded evaluation.",
-      "hint": "Use the curriculum feature and the full context to justify the answer."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-045",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "analyse",
-    "skill": "compare connotation",
+    "stage": "foundation",
+    "skill": "qualified judgement",
     "printable": true,
     "type": "single",
-    "question": "Which word would make a description of a careful shopper sound negative?",
-    "audioPrompt": "Which word would make a description of a careful shopper sound negative?",
+    "question": "Read: “The report may favour the proposal because it quotes supporters first and omits the cost estimate.” Which description best identifies the highlighted language or text choice?",
+    "audioPrompt": "Read: “The report may favour the proposal because it quotes supporters first and omits the cost estimate.” Which description best identifies the highlighted language or text choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1337,29 +1337,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "stingy",
-      "economical",
-      "thrifty",
-      "budget-conscious"
+      "objective statement",
+      "subjective statement",
+      "loaded language",
+      "qualified judgement"
     ],
-    "correct": 0,
-    "explanation": "“Stingy” shares an idea of limiting spending but adds a negative judgement.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "correct": 3,
+    "explanation": "This is qualified judgement: The claim identifies specific evidence and limits its certainty.\nHint: Name the exact feature before explaining its effect.",
     "structuredExplanation": {
-      "summary": "“Stingy” shares an idea of limiting spending but adds a negative judgement.",
-      "hint": "Use the curriculum feature and the full context to justify the answer."
+      "summary": "This is qualified judgement: The claim identifies specific evidence and limits its certainty.",
+      "hint": "Name the exact feature before explaining its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-046",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "evaluate",
-    "skill": "evaluate evidence and bias",
+    "stage": "core",
+    "skill": "qualified judgement-effect",
     "printable": true,
     "type": "single",
-    "question": "A product review says, “Nine out of ten testers preferred it,” but does not explain who selected the testers. What should a critical reader ask?",
-    "audioPrompt": "A product review says, “Nine out of ten testers preferred it,” but does not explain who selected the testers. What should a critical reader ask?",
+    "question": "Why is this choice effective in context: “The report may favour the proposal because it quotes supporters first and omits the cost estimate.”?",
+    "audioPrompt": "Why is this choice effective in context: “The report may favour the proposal because it quotes supporters first and omits the cost estimate.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1367,29 +1367,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "How were the testers chosen?",
-      "Is the heading printed in blue?",
-      "How many syllables are in product?",
-      "Was the review written on a weekday?"
+      "The claim identifies specific evidence and limits its certainty.",
+      "It reports a checkable quantity without adding approval or disapproval.",
+      "The adjective “wonderful” expresses the writer’s positive judgement.",
+      "“Dumped” and “disastrous” push readers towards a negative response."
     ],
     "correct": 0,
-    "explanation": "The selection method matters because an unrepresentative group can produce biased evidence.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "explanation": "The claim identifies specific evidence and limits its certainty.\nHint: Connect a precise piece of evidence to what it helps the reader understand.",
     "structuredExplanation": {
-      "summary": "The selection method matters because an unrepresentative group can produce biased evidence.",
-      "hint": "Use the curriculum feature and the full context to justify the answer."
+      "summary": "The claim identifies specific evidence and limits its certainty.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-047",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "distinguish viewpoint from fact",
+    "stage": "application",
+    "skill": "qualified judgement-revision",
     "printable": true,
     "type": "single",
-    "question": "Which sentence correctly attributes a viewpoint rather than presenting it as fact?",
-    "audioPrompt": "Which sentence correctly attributes a viewpoint rather than presenting it as fact?",
+    "question": "Which revision best applies qualified judgement to the idea in “The report may favour the proposal because it quotes supporters first and omits the cost estimate.”?",
+    "audioPrompt": "Which revision best applies qualified judgement to the idea in “The report may favour the proposal because it quotes supporters first and omits the cost estimate.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1397,29 +1397,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The coach argues that the new schedule is fairer.",
-      "The new schedule is unquestionably fairer.",
-      "The schedule has four sessions.",
-      "Four is the best number of sessions."
+      "The survey recorded 186 responses, including 94 from junior students.",
+      "The ordering and omission suggest bias, although more source information is needed.",
+      "In my view, the new timetable makes transitions easier.",
+      "The council released its plan for public comment."
     ],
-    "correct": 0,
-    "explanation": "The reporting clause identifies the claim as the coach’s viewpoint.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "correct": 1,
+    "explanation": "The revision applies qualified judgement deliberately while keeping the meaning clear.\nHint: Check meaning, purpose and grammatical or structural accuracy—not just fluency.",
     "structuredExplanation": {
-      "summary": "The reporting clause identifies the claim as the coach’s viewpoint.",
-      "hint": "Use the curriculum feature and the full context to justify the answer."
+      "summary": "The revision applies qualified judgement deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-P-048",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "evaluate",
-    "skill": "identify balanced language",
+    "stage": "challenge",
+    "skill": "qualified judgement-misconception",
     "printable": true,
     "type": "single",
-    "question": "Which sentence most fairly represents disagreement?",
-    "audioPrompt": "Which sentence most fairly represents disagreement?",
+    "question": "A student says, “Identifying bias proves every claim in the text is false.” Which response best corrects the misconception?",
+    "audioPrompt": "A student says, “Identifying bias proves every claim in the text is false.” Which response best corrects the misconception?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1427,18 +1427,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Supporters emphasise lower costs, while critics question the environmental impact.",
-      "Only foolish people oppose the plan.",
-      "The brilliant plan has no real disadvantages.",
-      "Critics obviously misunderstand everything."
+      "A factual sentence guarantees that the whole text is unbiased.",
+      "Any sentence containing a number is objective.",
+      "The claim is too broad; the example shows that the claim identifies specific evidence and limits its certainty.",
+      "Loaded words are simply longer words."
     ],
-    "correct": 0,
-    "explanation": "It attributes both positions and summarises their reasons without dismissive wording.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "correct": 2,
+    "explanation": "The correction uses evidence from this example instead of an always-or-never rule.\nHint: Test the claim against the example and look for words such as always, never or guarantees.",
     "structuredExplanation": {
-      "summary": "It attributes both positions and summarises their reasons without dismissive wording.",
-      "hint": "Use the curriculum feature and the full context to justify the answer."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

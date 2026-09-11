@@ -4,12 +4,12 @@ window.skillrTestQuestions = [
     "id": "AC9E6LY06-T-001",
     "curriculumCode": "AC9E6LY06",
     "bank": "test",
-    "stage": "verify",
-    "skill": "persuasive",
+    "stage": "independent",
+    "skill": "purpose and audience",
     "printable": true,
     "type": "single",
-    "question": "A community radio segment includes “position, reasons, evidence, counterpoint, modality”. Which description best fits this wording?",
-    "audioPrompt": "A community radio segment includes “position, reasons, evidence, counterpoint, modality”. Which description best fits this wording?",
+    "question": "In a museum panel, “A bushfire guide aims to inform families, so it uses clear headings, commands and emergency contacts.” Which analysis is strongest?",
+    "audioPrompt": "In a museum panel, “A bushfire guide aims to inform families, so it uses clear headings, commands and emergency contacts.” Which analysis is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -17,29 +17,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "persuasive",
-      "Plan",
-      "Draft",
-      "Revise"
+      "planning structure: Planning gives each stage a distinct job before sentences are drafted.",
+      "paragraph cohesion: Clear paragraph focus and lexical links help readers follow the reasoning.",
+      "complex sentences: The dependent clause links concession to the main actions efficiently.",
+      "purpose and audience: The purpose and audience control structure, language and included information."
     ],
-    "correct": 0,
-    "explanation": "The wording best matches persuasive.\nHint: Identify the language choice first, then check its effect in this context.",
+    "correct": 3,
+    "explanation": "purpose and audience is supported by exact evidence.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches persuasive.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "purpose and audience is supported by exact evidence.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-T-002",
     "curriculumCode": "AC9E6LY06",
     "bank": "test",
-    "stage": "verify",
-    "skill": "revision",
+    "stage": "independent",
+    "skill": "planning structure edit",
     "printable": true,
     "type": "single",
-    "question": "In a wildlife-centre report, which term matches this meaning: “substantive improvement of meaning and structure”?",
-    "audioPrompt": "In a wildlife-centre report, which term matches this meaning: “substantive improvement of meaning and structure”?",
+    "question": "Which edit best demonstrates planning structure in a museum panel?",
+    "audioPrompt": "Which edit best demonstrates planning structure in a museum panel?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -47,29 +47,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "editing",
-      "revision",
-      "publishing",
-      "It does not match the evidence in the example."
+      "Order sections according to what readers need first.",
+      "Write a precise audience-and-purpose statement before drafting.",
+      "Move unrelated evidence to the paragraph it supports.",
+      "Vary sentence structure without crowding too many ideas together."
     ],
-    "correct": 1,
-    "explanation": "revision is the precise term for substantive improvement of meaning and structure.\nHint: Distinguish closely related terms by their definitions.",
+    "correct": 0,
+    "explanation": "This edit applies planning structure accurately.\nHint: Choose purposeful accuracy.",
     "structuredExplanation": {
-      "summary": "revision is the precise term for substantive improvement of meaning and structure.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies planning structure accurately.",
+      "hint": "Choose purposeful accuracy."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-T-003",
     "curriculumCode": "AC9E6LY06",
     "bank": "test",
-    "stage": "verify",
-    "skill": "creating and publishing sustained written and multimodal texts",
+    "stage": "transfer",
+    "skill": "paragraph cohesion misconception",
     "printable": true,
     "type": "single",
-    "question": "For a regional youth forum, which stage most directly improves ideas and structure?",
-    "audioPrompt": "For a regional youth forum, which stage most directly improves ideas and structure?",
+    "question": "Which claim should an editor reject about “Each paragraph opens with a focused topic sentence and develops one connected idea.” in this museum panel?",
+    "audioPrompt": "Which claim should an editor reject about “Each paragraph opens with a focused topic sentence and develops one connected idea.” in this museum panel?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -77,29 +77,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "printing",
-      "spell-check only",
-      "revision",
-      "font colour selection"
+      "One text design suits every audience.",
+      "A new paragraph is needed after every sentence.",
+      "Planning means writing the final sentences in advance.",
+      "Longer sentences are always more sophisticated."
     ],
-    "correct": 2,
-    "explanation": "“revision” is supported by the language evidence and purpose of the text.\nHint: Multimodal elements need distinct functions and should be referenced in the written or spoken meaning.",
+    "correct": 1,
+    "explanation": "The rejected claim overgeneralises paragraph cohesion.\nHint: Check it against evidence.",
     "structuredExplanation": {
-      "summary": "“revision” is supported by the language evidence and purpose of the text.",
-      "hint": "Multimodal elements need distinct functions and should be referenced in the written or spoken meaning."
+      "summary": "The rejected claim overgeneralises paragraph cohesion.",
+      "hint": "Check it against evidence."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-T-004",
     "curriculumCode": "AC9E6LY06",
     "bank": "test",
-    "stage": "verify",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "complex sentences explanation",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a coastal-monitoring update says, “Editing begins before structural problems are solved”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a coastal-monitoring update says, “Editing begins before structural problems are solved”. Which response is most accurate?",
+    "question": "Which explanation best accounts for “Although the first trial failed, the team adjusted the valve and repeated the test.” in this museum panel?",
+    "audioPrompt": "Which explanation best accounts for “Although the first trial failed, the team adjusted the valve and repeated the test.” in this museum panel?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -107,29 +107,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "First draft treated as final",
-      "Editing begins before structural problems are solved",
-      "Visuals added decoratively",
-      "Work from large scale to detail."
+      "The purpose and audience control structure, language and included information.",
+      "Planning gives each stage a distinct job before sentences are drafted.",
+      "The dependent clause links concession to the main actions efficiently.",
+      "Clear paragraph focus and lexical links help readers follow the reasoning."
     ],
-    "correct": 3,
-    "explanation": "Work from large scale to detail. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "correct": 2,
+    "explanation": "The dependent clause links concession to the main actions efficiently.\nHint: Connect evidence and effect.",
     "structuredExplanation": {
-      "summary": "Work from large scale to detail. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "The dependent clause links concession to the main actions efficiently.",
+      "hint": "Connect evidence and effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-T-005",
     "curriculumCode": "AC9E6LY06",
     "bank": "test",
-    "stage": "verify",
-    "skill": "persuasive",
+    "stage": "independent",
+    "skill": "expanded verb group",
     "printable": true,
     "type": "single",
-    "question": "A heritage trail guide includes “position, reasons, evidence, counterpoint, modality”. Which description best fits this wording?",
-    "audioPrompt": "A heritage trail guide includes “position, reasons, evidence, counterpoint, modality”. Which description best fits this wording?",
+    "question": "In a school magazine, “The temperature had been rising steadily before the alarm sounded.” Which analysis is strongest?",
+    "audioPrompt": "In a school magazine, “The temperature had been rising steadily before the alarm sounded.” Which analysis is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -137,29 +137,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "persuasive",
-      "Plan",
-      "Draft",
-      "Revise"
+      "purpose and audience: The purpose and audience control structure, language and included information.",
+      "planning structure: Planning gives each stage a distinct job before sentences are drafted.",
+      "paragraph cohesion: Clear paragraph focus and lexical links help readers follow the reasoning.",
+      "expanded verb group: The verb group precisely shows an ongoing process before a later past event."
     ],
-    "correct": 0,
-    "explanation": "The wording best matches persuasive.\nHint: Identify the language choice first, then check its effect in this context.",
+    "correct": 3,
+    "explanation": "expanded verb group is supported by exact evidence.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches persuasive.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "expanded verb group is supported by exact evidence.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-T-006",
     "curriculumCode": "AC9E6LY06",
     "bank": "test",
-    "stage": "verify",
-    "skill": "editing",
+    "stage": "independent",
+    "skill": "tense consistency edit",
     "printable": true,
     "type": "single",
-    "question": "In a public-transport survey, which term matches this meaning: “checking language conventions and accuracy”?",
-    "audioPrompt": "In a public-transport survey, which term matches this meaning: “checking language conventions and accuracy”?",
+    "question": "Which edit best demonstrates tense consistency in a school magazine?",
+    "audioPrompt": "Which edit best demonstrates tense consistency in a school magazine?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -167,29 +167,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "revision",
-      "editing",
-      "publishing",
-      "It does not match the evidence in the example."
+      "Repair accidental shifts that do not mark a changed time frame.",
+      "Write a precise audience-and-purpose statement before drafting.",
+      "Order sections according to what readers need first.",
+      "Move unrelated evidence to the paragraph it supports."
     ],
-    "correct": 1,
-    "explanation": "editing is the precise term for checking language conventions and accuracy.\nHint: Distinguish closely related terms by their definitions.",
+    "correct": 0,
+    "explanation": "This edit applies tense consistency accurately.\nHint: Choose purposeful accuracy.",
     "structuredExplanation": {
-      "summary": "editing is the precise term for checking language conventions and accuracy.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies tense consistency accurately.",
+      "hint": "Choose purposeful accuracy."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-T-007",
     "curriculumCode": "AC9E6LY06",
     "bank": "test",
-    "stage": "verify",
-    "skill": "creating and publishing sustained written and multimodal texts",
+    "stage": "transfer",
+    "skill": "topic-specific vocabulary misconception",
     "printable": true,
     "type": "single",
-    "question": "For a festival review, which stage most directly improves ideas and structure?",
-    "audioPrompt": "For a festival review, which stage most directly improves ideas and structure?",
+    "question": "Which claim should an editor reject about “The report uses “salinity”, “habitat” and “sediment”, defining each when introduced.” in this school magazine?",
+    "audioPrompt": "Which claim should an editor reject about “The report uses “salinity”, “habitat” and “sediment”, defining each when introduced.” in this school magazine?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -197,29 +197,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "printing",
-      "spell-check only",
-      "revision",
-      "font colour selection"
+      "One text design suits every audience.",
+      "Technical words automatically make writing accurate.",
+      "Planning means writing the final sentences in advance.",
+      "A new paragraph is needed after every sentence."
     ],
-    "correct": 2,
-    "explanation": "“revision” is supported by the language evidence and purpose of the text.\nHint: Multimodal elements need distinct functions and should be referenced in the written or spoken meaning.",
+    "correct": 1,
+    "explanation": "The rejected claim overgeneralises topic-specific vocabulary.\nHint: Check it against evidence.",
     "structuredExplanation": {
-      "summary": "“revision” is supported by the language evidence and purpose of the text.",
-      "hint": "Multimodal elements need distinct functions and should be referenced in the written or spoken meaning."
+      "summary": "The rejected claim overgeneralises topic-specific vocabulary.",
+      "hint": "Check it against evidence."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-T-008",
     "curriculumCode": "AC9E6LY06",
     "bank": "test",
-    "stage": "verify",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "vivid vocabulary explanation",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a emergency-preparedness talk says, “Editing begins before structural problems are solved”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a emergency-preparedness talk says, “Editing begins before structural problems are solved”. Which response is most accurate?",
+    "question": "Which explanation best accounts for “The storm clawed at the shutters in the imaginative opening.” in this school magazine?",
+    "audioPrompt": "Which explanation best accounts for “The storm clawed at the shutters in the imaginative opening.” in this school magazine?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -227,29 +227,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "First draft treated as final",
-      "Editing begins before structural problems are solved",
-      "Visuals added decoratively",
-      "Work from large scale to detail."
+      "The purpose and audience control structure, language and included information.",
+      "Planning gives each stage a distinct job before sentences are drafted.",
+      "The controlled personification creates force and threat appropriate to the genre.",
+      "Clear paragraph focus and lexical links help readers follow the reasoning."
     ],
-    "correct": 3,
-    "explanation": "Work from large scale to detail. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "correct": 2,
+    "explanation": "The controlled personification creates force and threat appropriate to the genre.\nHint: Connect evidence and effect.",
     "structuredExplanation": {
-      "summary": "Work from large scale to detail. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "The controlled personification creates force and threat appropriate to the genre.",
+      "hint": "Connect evidence and effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-T-009",
     "curriculumCode": "AC9E6LY06",
     "bank": "test",
-    "stage": "apply",
-    "skill": "persuasive",
+    "stage": "independent",
+    "skill": "visual integration",
     "printable": true,
     "type": "single",
-    "question": "A water-saving brochure includes “position, reasons, evidence, counterpoint, modality”. Which description best fits this wording?",
-    "audioPrompt": "A water-saving brochure includes “position, reasons, evidence, counterpoint, modality”. Which description best fits this wording?",
+    "question": "In a community website, “A labelled diagram shows the mechanism that the paragraph explains.” Which analysis is strongest?",
+    "audioPrompt": "In a community website, “A labelled diagram shows the mechanism that the paragraph explains.” Which analysis is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -257,29 +257,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "persuasive",
-      "Plan",
-      "Draft",
-      "Revise"
+      "purpose and audience: The purpose and audience control structure, language and included information.",
+      "planning structure: Planning gives each stage a distinct job before sentences are drafted.",
+      "paragraph cohesion: Clear paragraph focus and lexical links help readers follow the reasoning.",
+      "visual integration: The visual extends meaning when the prose directs readers to relevant labels."
     ],
-    "correct": 0,
-    "explanation": "The wording best matches persuasive.\nHint: Identify the language choice first, then check its effect in this context.",
+    "correct": 3,
+    "explanation": "visual integration is supported by exact evidence.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches persuasive.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "visual integration is supported by exact evidence.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-T-010",
     "curriculumCode": "AC9E6LY06",
     "bank": "test",
-    "stage": "apply",
-    "skill": "publishing",
+    "stage": "independent",
+    "skill": "revision edit",
     "printable": true,
     "type": "single",
-    "question": "In a local council submission, which term matches this meaning: “preparing and sharing a finished accessible text”?",
-    "audioPrompt": "In a local council submission, which term matches this meaning: “preparing and sharing a finished accessible text”?",
+    "question": "Which edit best demonstrates revision in a community website?",
+    "audioPrompt": "Which edit best demonstrates revision in a community website?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -287,29 +287,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "revision",
-      "publishing",
-      "editing",
-      "It does not match the evidence in the example."
+      "Either develop the evidence earlier or remove the new claim.",
+      "Write a precise audience-and-purpose statement before drafting.",
+      "Order sections according to what readers need first.",
+      "Move unrelated evidence to the paragraph it supports."
     ],
-    "correct": 1,
-    "explanation": "publishing is the precise term for preparing and sharing a finished accessible text.\nHint: Distinguish closely related terms by their definitions.",
+    "correct": 0,
+    "explanation": "This edit applies revision accurately.\nHint: Choose purposeful accuracy.",
     "structuredExplanation": {
-      "summary": "publishing is the precise term for preparing and sharing a finished accessible text.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies revision accurately.",
+      "hint": "Choose purposeful accuracy."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-T-011",
     "curriculumCode": "AC9E6LY06",
     "bank": "test",
-    "stage": "apply",
-    "skill": "creating and publishing sustained written and multimodal texts",
+    "stage": "transfer",
+    "skill": "editing and proofreading misconception",
     "printable": true,
     "type": "single",
-    "question": "For a marine-research diary, which stage most directly improves ideas and structure?",
-    "audioPrompt": "For a marine-research diary, which stage most directly improves ideas and structure?",
+    "question": "Which claim should an editor reject about “The writer checks sentence boundaries, commas, spelling and source names after revision.” in this community website?",
+    "audioPrompt": "Which claim should an editor reject about “The writer checks sentence boundaries, commas, spelling and source names after revision.” in this community website?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -317,29 +317,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "printing",
-      "spell-check only",
-      "revision",
-      "font colour selection"
+      "One text design suits every audience.",
+      "Spellcheck finds every error and unsuitable word.",
+      "Planning means writing the final sentences in advance.",
+      "A new paragraph is needed after every sentence."
     ],
-    "correct": 2,
-    "explanation": "“revision” is supported by the language evidence and purpose of the text.\nHint: Multimodal elements need distinct functions and should be referenced in the written or spoken meaning.",
+    "correct": 1,
+    "explanation": "The rejected claim overgeneralises editing and proofreading.\nHint: Check it against evidence.",
     "structuredExplanation": {
-      "summary": "“revision” is supported by the language evidence and purpose of the text.",
-      "hint": "Multimodal elements need distinct functions and should be referenced in the written or spoken meaning."
+      "summary": "The rejected claim overgeneralises editing and proofreading.",
+      "hint": "Check it against evidence."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-T-012",
     "curriculumCode": "AC9E6LY06",
     "bank": "test",
-    "stage": "apply",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "ethical publishing explanation",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a farmers market profile says, “Editing begins before structural problems are solved”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a farmers market profile says, “Editing begins before structural problems are solved”. Which response is most accurate?",
+    "question": "Which explanation best accounts for “The final webpage credits sources, uses permitted images and removes personal student details.” in this community website?",
+    "audioPrompt": "Which explanation best accounts for “The final webpage credits sources, uses permitted images and removes personal student details.” in this community website?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -347,29 +347,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "First draft treated as final",
-      "Editing begins before structural problems are solved",
-      "Visuals added decoratively",
-      "Work from large scale to detail."
+      "The purpose and audience control structure, language and included information.",
+      "Planning gives each stage a distinct job before sentences are drafted.",
+      "Responsible publishing considers attribution, copyright, privacy and accessibility.",
+      "Clear paragraph focus and lexical links help readers follow the reasoning."
     ],
-    "correct": 3,
-    "explanation": "Work from large scale to detail. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "correct": 2,
+    "explanation": "Responsible publishing considers attribution, copyright, privacy and accessibility.\nHint: Connect evidence and effect.",
     "structuredExplanation": {
-      "summary": "Work from large scale to detail. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "Responsible publishing considers attribution, copyright, privacy and accessibility.",
+      "hint": "Connect evidence and effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-T-013",
     "curriculumCode": "AC9E6LY06",
     "bank": "test",
-    "stage": "apply",
-    "skill": "persuasive",
+    "stage": "independent",
+    "skill": "purpose and audience",
     "printable": true,
     "type": "single",
-    "question": "A astronomy exhibition includes “position, reasons, evidence, counterpoint, modality”. Which description best fits this wording?",
-    "audioPrompt": "A astronomy exhibition includes “position, reasons, evidence, counterpoint, modality”. Which description best fits this wording?",
+    "question": "In a student presentation, “A bushfire guide aims to inform families, so it uses clear headings, commands and emergency contacts.” Which analysis is strongest?",
+    "audioPrompt": "In a student presentation, “A bushfire guide aims to inform families, so it uses clear headings, commands and emergency contacts.” Which analysis is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -377,29 +377,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "persuasive",
-      "Plan",
-      "Draft",
-      "Revise"
+      "planning structure: Planning gives each stage a distinct job before sentences are drafted.",
+      "paragraph cohesion: Clear paragraph focus and lexical links help readers follow the reasoning.",
+      "complex sentences: The dependent clause links concession to the main actions efficiently.",
+      "purpose and audience: The purpose and audience control structure, language and included information."
     ],
-    "correct": 0,
-    "explanation": "The wording best matches persuasive.\nHint: Identify the language choice first, then check its effect in this context.",
+    "correct": 3,
+    "explanation": "purpose and audience is supported by exact evidence.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches persuasive.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "purpose and audience is supported by exact evidence.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-T-014",
     "curriculumCode": "AC9E6LY06",
     "bank": "test",
-    "stage": "apply",
-    "skill": "revision",
+    "stage": "independent",
+    "skill": "planning structure edit",
     "printable": true,
     "type": "single",
-    "question": "In a river-restoration update, which term matches this meaning: “substantive improvement of meaning and structure”?",
-    "audioPrompt": "In a river-restoration update, which term matches this meaning: “substantive improvement of meaning and structure”?",
+    "question": "Which edit best demonstrates planning structure in a student presentation?",
+    "audioPrompt": "Which edit best demonstrates planning structure in a student presentation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -407,29 +407,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "editing",
-      "revision",
-      "publishing",
-      "It does not match the evidence in the example."
+      "Order sections according to what readers need first.",
+      "Write a precise audience-and-purpose statement before drafting.",
+      "Move unrelated evidence to the paragraph it supports.",
+      "Vary sentence structure without crowding too many ideas together."
     ],
-    "correct": 1,
-    "explanation": "revision is the precise term for substantive improvement of meaning and structure.\nHint: Distinguish closely related terms by their definitions.",
+    "correct": 0,
+    "explanation": "This edit applies planning structure accurately.\nHint: Choose purposeful accuracy.",
     "structuredExplanation": {
-      "summary": "revision is the precise term for substantive improvement of meaning and structure.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies planning structure accurately.",
+      "hint": "Choose purposeful accuracy."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-T-015",
     "curriculumCode": "AC9E6LY06",
     "bank": "test",
-    "stage": "apply",
-    "skill": "creating and publishing sustained written and multimodal texts",
+    "stage": "transfer",
+    "skill": "paragraph cohesion misconception",
     "printable": true,
     "type": "single",
-    "question": "For a cycling-safety campaign, which stage most directly improves ideas and structure?",
-    "audioPrompt": "For a cycling-safety campaign, which stage most directly improves ideas and structure?",
+    "question": "Which claim should an editor reject about “Each paragraph opens with a focused topic sentence and develops one connected idea.” in this student presentation?",
+    "audioPrompt": "Which claim should an editor reject about “Each paragraph opens with a focused topic sentence and develops one connected idea.” in this student presentation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -437,29 +437,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "printing",
-      "spell-check only",
-      "revision",
-      "font colour selection"
+      "One text design suits every audience.",
+      "A new paragraph is needed after every sentence.",
+      "Planning means writing the final sentences in advance.",
+      "Longer sentences are always more sophisticated."
     ],
-    "correct": 2,
-    "explanation": "“revision” is supported by the language evidence and purpose of the text.\nHint: Multimodal elements need distinct functions and should be referenced in the written or spoken meaning.",
+    "correct": 1,
+    "explanation": "The rejected claim overgeneralises paragraph cohesion.\nHint: Check it against evidence.",
     "structuredExplanation": {
-      "summary": "“revision” is supported by the language evidence and purpose of the text.",
-      "hint": "Multimodal elements need distinct functions and should be referenced in the written or spoken meaning."
+      "summary": "The rejected claim overgeneralises paragraph cohesion.",
+      "hint": "Check it against evidence."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-T-016",
     "curriculumCode": "AC9E6LY06",
     "bank": "test",
-    "stage": "apply",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "complex sentences explanation",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a neighbourhood history podcast says, “Editing begins before structural problems are solved”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a neighbourhood history podcast says, “Editing begins before structural problems are solved”. Which response is most accurate?",
+    "question": "Which explanation best accounts for “Although the first trial failed, the team adjusted the valve and repeated the test.” in this student presentation?",
+    "audioPrompt": "Which explanation best accounts for “Although the first trial failed, the team adjusted the valve and repeated the test.” in this student presentation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -467,18 +467,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "First draft treated as final",
-      "Editing begins before structural problems are solved",
-      "Visuals added decoratively",
-      "Work from large scale to detail."
+      "The purpose and audience control structure, language and included information.",
+      "Planning gives each stage a distinct job before sentences are drafted.",
+      "The dependent clause links concession to the main actions efficiently.",
+      "Clear paragraph focus and lexical links help readers follow the reasoning."
     ],
-    "correct": 3,
-    "explanation": "Work from large scale to detail. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "correct": 2,
+    "explanation": "The dependent clause links concession to the main actions efficiently.\nHint: Connect evidence and effect.",
     "structuredExplanation": {
-      "summary": "Work from large scale to detail. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "The dependent clause links concession to the main actions efficiently.",
+      "hint": "Connect evidence and effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

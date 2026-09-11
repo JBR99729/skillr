@@ -4,12 +4,12 @@ window.skillrTestQuestions = [
     "id": "AC9E6LE04-T-001",
     "curriculumCode": "AC9E6LE04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "soft volume",
+    "stage": "independent",
+    "skill": "alliteration",
     "printable": true,
     "type": "single",
-    "question": "A community radio segment includes “creates intimacy or threat”. Which description best fits this wording?",
-    "audioPrompt": "A community radio segment includes “creates intimacy or threat”. Which description best fits this wording?",
+    "question": "In a museum panel, “Cold currents curled around the cliff.” Which analysis is strongest?",
+    "audioPrompt": "In a museum panel, “Cold currents curled around the cliff.” Which analysis is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -17,29 +17,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "alliteration",
-      "soft volume",
-      "assonance",
-      "onomatopoeia"
+      "assonance: Repeated long vowel sounds stretch the line and create a mournful tone.",
+      "alliteration: Repeated initial consonant sounds link the words and echo circular movement.",
+      "onomatopoeia: Sound words create an immediate sequence of impact and reaction.",
+      "repetition: The repeated phrase sustains tension and emphasises endurance."
     ],
     "correct": 1,
-    "explanation": "The wording best matches soft volume.\nHint: Identify the language choice first, then check its effect in this context.",
+    "explanation": "alliteration is supported by exact evidence.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches soft volume.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "alliteration is supported by exact evidence.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-T-002",
     "curriculumCode": "AC9E6LE04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "assonance",
+    "stage": "independent",
+    "skill": "assonance edit",
     "printable": true,
     "type": "single",
-    "question": "In a wildlife-centre report, which term matches this meaning: “repetition of vowel sounds”?",
-    "audioPrompt": "In a wildlife-centre report, which term matches this meaning: “repetition of vowel sounds”?",
+    "question": "Which edit best demonstrates assonance in a museum panel?",
+    "audioPrompt": "Which edit best demonstrates assonance in a museum panel?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -47,29 +47,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "rhythm",
-      "imagery",
-      "assonance",
-      "It does not match the evidence in the example."
+      "Read the phrase aloud and connect the sound to the water movement.",
+      "Keep the sound order matched to the event order.",
+      "Underline the repeated vowel sound rather than matching spelling.",
+      "Pause slightly after each repeated unit when performing."
     ],
     "correct": 2,
-    "explanation": "assonance is the precise term for repetition of vowel sounds.\nHint: Distinguish closely related terms by their definitions.",
+    "explanation": "This edit applies assonance accurately.\nHint: Choose purposeful accuracy.",
     "structuredExplanation": {
-      "summary": "assonance is the precise term for repetition of vowel sounds.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies assonance accurately.",
+      "hint": "Choose purposeful accuracy."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-T-003",
     "curriculumCode": "AC9E6LE04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "sound and imagery in literary texts",
+    "stage": "transfer",
+    "skill": "onomatopoeia misconception",
     "printable": true,
     "type": "single",
-    "question": "For a regional youth forum, which phrase uses alliteration?",
-    "audioPrompt": "For a regional youth forum, which phrase uses alliteration?",
+    "question": "Which claim should an editor reject about “Crack—hiss—thud: the branch struck the fire.” in this museum panel?",
+    "audioPrompt": "Which claim should an editor reject about “Crack—hiss—thud: the branch struck the fire.” in this museum panel?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -77,29 +77,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "the current was cold",
-      "water moved",
-      "a blue river",
-      "cold currents curled"
+      "Any repeated letter is alliteration.",
+      "Assonance depends on identical letters, not sounds.",
+      "Repetition is always an accidental error.",
+      "Every action verb is onomatopoeia."
     ],
     "correct": 3,
-    "explanation": "“cold currents curled” is supported by the language evidence and purpose of the text.\nHint: Different performances can be defensible when they follow punctuation, sound pattern and meaning evidence.",
+    "explanation": "The rejected claim overgeneralises onomatopoeia.\nHint: Check the claim against evidence.",
     "structuredExplanation": {
-      "summary": "“cold currents curled” is supported by the language evidence and purpose of the text.",
-      "hint": "Different performances can be defensible when they follow punctuation, sound pattern and meaning evidence."
+      "summary": "The rejected claim overgeneralises onomatopoeia.",
+      "hint": "Check the claim against evidence."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-T-004",
     "curriculumCode": "AC9E6LE04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "repetition explanation",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a coastal-monitoring update says, “Device name replaces effect”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a coastal-monitoring update says, “Device name replaces effect”. Which response is most accurate?",
+    "question": "Which explanation best accounts for “Still waiting, still watching, still awake.” in this museum panel?",
+    "audioPrompt": "Which explanation best accounts for “Still waiting, still watching, still awake.” in this museum panel?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -107,29 +107,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use evidence and context.",
-      "Rhyme considered the only sound device",
-      "Device name replaces effect",
-      "Performance treated as separate from text"
+      "The repeated phrase sustains tension and emphasises endurance.",
+      "Repeated initial consonant sounds link the words and echo circular movement.",
+      "Repeated long vowel sounds stretch the line and create a mournful tone.",
+      "Sound words create an immediate sequence of impact and reaction."
     ],
     "correct": 0,
-    "explanation": "Use evidence and context. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "explanation": "The repeated phrase sustains tension and emphasises endurance.\nHint: Connect evidence and effect.",
     "structuredExplanation": {
-      "summary": "Use evidence and context. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "The repeated phrase sustains tension and emphasises endurance.",
+      "hint": "Connect evidence and effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-T-005",
     "curriculumCode": "AC9E6LE04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "soft volume",
+    "stage": "independent",
+    "skill": "rhyme",
     "printable": true,
     "type": "single",
-    "question": "A heritage trail guide includes “creates intimacy or threat”. Which description best fits this wording?",
-    "audioPrompt": "A heritage trail guide includes “creates intimacy or threat”. Which description best fits this wording?",
+    "question": "In a school magazine, “The final words “light” and “night” echo across alternating lines.” Which analysis is strongest?",
+    "audioPrompt": "In a school magazine, “The final words “light” and “night” echo across alternating lines.” Which analysis is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -137,29 +137,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "alliteration",
-      "soft volume",
-      "assonance",
-      "onomatopoeia"
+      "alliteration: Repeated initial consonant sounds link the words and echo circular movement.",
+      "rhyme: The rhyme links ideas and gives the stanza a memorable pattern.",
+      "assonance: Repeated long vowel sounds stretch the line and create a mournful tone.",
+      "onomatopoeia: Sound words create an immediate sequence of impact and reaction."
     ],
     "correct": 1,
-    "explanation": "The wording best matches soft volume.\nHint: Identify the language choice first, then check its effect in this context.",
+    "explanation": "rhyme is supported by exact evidence.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches soft volume.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "rhyme is supported by exact evidence.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-T-006",
     "curriculumCode": "AC9E6LE04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "rhythm",
+    "stage": "independent",
+    "skill": "rhythm edit",
     "printable": true,
     "type": "single",
-    "question": "In a public-transport survey, which term matches this meaning: “pattern of beats, stress and timing”?",
-    "audioPrompt": "In a public-transport survey, which term matches this meaning: “pattern of beats, stress and timing”?",
+    "question": "Which edit best demonstrates rhythm in a school magazine?",
+    "audioPrompt": "Which edit best demonstrates rhythm in a school magazine?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -167,29 +167,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "assonance",
-      "imagery",
-      "rhythm",
-      "It does not match the evidence in the example."
+      "Read the phrase aloud and connect the sound to the water movement.",
+      "Underline the repeated vowel sound rather than matching spelling.",
+      "Perform the line twice and justify the stronger stress pattern.",
+      "Keep the sound order matched to the event order."
     ],
     "correct": 2,
-    "explanation": "rhythm is the precise term for pattern of beats, stress and timing.\nHint: Distinguish closely related terms by their definitions.",
+    "explanation": "This edit applies rhythm accurately.\nHint: Choose purposeful accuracy.",
     "structuredExplanation": {
-      "summary": "rhythm is the precise term for pattern of beats, stress and timing.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies rhythm accurately.",
+      "hint": "Choose purposeful accuracy."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-T-007",
     "curriculumCode": "AC9E6LE04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "sound and imagery in literary texts",
+    "stage": "transfer",
+    "skill": "visual imagery misconception",
     "printable": true,
     "type": "single",
-    "question": "For a festival review, which phrase uses alliteration?",
-    "audioPrompt": "For a festival review, which phrase uses alliteration?",
+    "question": "Which claim should an editor reject about “A silver scar split the purple sky.” in this school magazine?",
+    "audioPrompt": "Which claim should an editor reject about “A silver scar split the purple sky.” in this school magazine?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -197,29 +197,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "the current was cold",
-      "water moved",
-      "a blue river",
-      "cold currents curled"
+      "Any repeated letter is alliteration.",
+      "Assonance depends on identical letters, not sounds.",
+      "Every action verb is onomatopoeia.",
+      "Imagery must describe something visible literally."
     ],
     "correct": 3,
-    "explanation": "“cold currents curled” is supported by the language evidence and purpose of the text.\nHint: Different performances can be defensible when they follow punctuation, sound pattern and meaning evidence.",
+    "explanation": "The rejected claim overgeneralises visual imagery.\nHint: Check the claim against evidence.",
     "structuredExplanation": {
-      "summary": "“cold currents curled” is supported by the language evidence and purpose of the text.",
-      "hint": "Different performances can be defensible when they follow punctuation, sound pattern and meaning evidence."
+      "summary": "The rejected claim overgeneralises visual imagery.",
+      "hint": "Check the claim against evidence."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-T-008",
     "curriculumCode": "AC9E6LE04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "auditory imagery explanation",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a emergency-preparedness talk says, “Device name replaces effect”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a emergency-preparedness talk says, “Device name replaces effect”. Which response is most accurate?",
+    "question": "Which explanation best accounts for “Branches scraped and tapped against the glass.” in this school magazine?",
+    "audioPrompt": "Which explanation best accounts for “Branches scraped and tapped against the glass.” in this school magazine?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -227,29 +227,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use evidence and context.",
-      "Rhyme considered the only sound device",
-      "Device name replaces effect",
-      "Performance treated as separate from text"
+      "The detailed sounds place readers inside an uneasy night scene.",
+      "Repeated initial consonant sounds link the words and echo circular movement.",
+      "Repeated long vowel sounds stretch the line and create a mournful tone.",
+      "Sound words create an immediate sequence of impact and reaction."
     ],
     "correct": 0,
-    "explanation": "Use evidence and context. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "explanation": "The detailed sounds place readers inside an uneasy night scene.\nHint: Connect evidence and effect.",
     "structuredExplanation": {
-      "summary": "Use evidence and context. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "The detailed sounds place readers inside an uneasy night scene.",
+      "hint": "Connect evidence and effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-T-009",
     "curriculumCode": "AC9E6LE04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "soft volume",
+    "stage": "independent",
+    "skill": "tactile imagery",
     "printable": true,
     "type": "single",
-    "question": "A water-saving brochure includes “creates intimacy or threat”. Which description best fits this wording?",
-    "audioPrompt": "A water-saving brochure includes “creates intimacy or threat”. Which description best fits this wording?",
+    "question": "In a community website, “The rope burned a rough line across her palm.” Which analysis is strongest?",
+    "audioPrompt": "In a community website, “The rope burned a rough line across her palm.” Which analysis is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -257,29 +257,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "alliteration",
-      "soft volume",
-      "assonance",
-      "onomatopoeia"
+      "alliteration: Repeated initial consonant sounds link the words and echo circular movement.",
+      "tactile imagery: Touch details make effort and pain physically imaginable.",
+      "assonance: Repeated long vowel sounds stretch the line and create a mournful tone.",
+      "onomatopoeia: Sound words create an immediate sequence of impact and reaction."
     ],
     "correct": 1,
-    "explanation": "The wording best matches soft volume.\nHint: Identify the language choice first, then check its effect in this context.",
+    "explanation": "tactile imagery is supported by exact evidence.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches soft volume.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "tactile imagery is supported by exact evidence.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-T-010",
     "curriculumCode": "AC9E6LE04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "imagery",
+    "stage": "independent",
+    "skill": "figurative image edit",
     "printable": true,
     "type": "single",
-    "question": "In a local council submission, which term matches this meaning: “language evoking sensory or conceptual experience”?",
-    "audioPrompt": "In a local council submission, which term matches this meaning: “language evoking sensory or conceptual experience”?",
+    "question": "Which edit best demonstrates figurative image in a community website?",
+    "audioPrompt": "Which edit best demonstrates figurative image in a community website?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -287,29 +287,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "assonance",
-      "rhythm",
-      "imagery",
-      "It does not match the evidence in the example."
+      "Read the phrase aloud and connect the sound to the water movement.",
+      "Underline the repeated vowel sound rather than matching spelling.",
+      "Connect the eye image to the character’s fear of being observed.",
+      "Keep the sound order matched to the event order."
     ],
     "correct": 2,
-    "explanation": "imagery is the precise term for language evoking sensory or conceptual experience.\nHint: Distinguish closely related terms by their definitions.",
+    "explanation": "This edit applies figurative image accurately.\nHint: Choose purposeful accuracy.",
     "structuredExplanation": {
-      "summary": "imagery is the precise term for language evoking sensory or conceptual experience.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies figurative image accurately.",
+      "hint": "Choose purposeful accuracy."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-T-011",
     "curriculumCode": "AC9E6LE04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "sound and imagery in literary texts",
+    "stage": "transfer",
+    "skill": "line break misconception",
     "printable": true,
     "type": "single",
-    "question": "For a marine-research diary, which phrase uses alliteration?",
-    "audioPrompt": "For a marine-research diary, which phrase uses alliteration?",
+    "question": "Which claim should an editor reject about “The sentence pauses after “I almost told—” before continuing on the next line.” in this community website?",
+    "audioPrompt": "Which claim should an editor reject about “The sentence pauses after “I almost told—” before continuing on the next line.” in this community website?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -317,29 +317,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "the current was cold",
-      "water moved",
-      "a blue river",
-      "cold currents curled"
+      "Any repeated letter is alliteration.",
+      "Assonance depends on identical letters, not sounds.",
+      "Every action verb is onomatopoeia.",
+      "Line breaks have no effect on reading or meaning."
     ],
     "correct": 3,
-    "explanation": "“cold currents curled” is supported by the language evidence and purpose of the text.\nHint: Different performances can be defensible when they follow punctuation, sound pattern and meaning evidence.",
+    "explanation": "The rejected claim overgeneralises line break.\nHint: Check the claim against evidence.",
     "structuredExplanation": {
-      "summary": "“cold currents curled” is supported by the language evidence and purpose of the text.",
-      "hint": "Different performances can be defensible when they follow punctuation, sound pattern and meaning evidence."
+      "summary": "The rejected claim overgeneralises line break.",
+      "hint": "Check the claim against evidence."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-T-012",
     "curriculumCode": "AC9E6LE04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "sound–image synthesis explanation",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a farmers market profile says, “Device name replaces effect”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a farmers market profile says, “Device name replaces effect”. Which response is most accurate?",
+    "question": "Which explanation best accounts for “Soft sibilant sounds accompany an image of mist covering the river.” in this community website?",
+    "audioPrompt": "Which explanation best accounts for “Soft sibilant sounds accompany an image of mist covering the river.” in this community website?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -347,29 +347,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use evidence and context.",
-      "Rhyme considered the only sound device",
-      "Device name replaces effect",
-      "Performance treated as separate from text"
+      "The sound and image work together to create secrecy and calm.",
+      "Repeated initial consonant sounds link the words and echo circular movement.",
+      "Repeated long vowel sounds stretch the line and create a mournful tone.",
+      "Sound words create an immediate sequence of impact and reaction."
     ],
     "correct": 0,
-    "explanation": "Use evidence and context. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "explanation": "The sound and image work together to create secrecy and calm.\nHint: Connect evidence and effect.",
     "structuredExplanation": {
-      "summary": "Use evidence and context. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "The sound and image work together to create secrecy and calm.",
+      "hint": "Connect evidence and effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-T-013",
     "curriculumCode": "AC9E6LE04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "soft volume",
+    "stage": "independent",
+    "skill": "alliteration",
     "printable": true,
     "type": "single",
-    "question": "A astronomy exhibition includes “creates intimacy or threat”. Which description best fits this wording?",
-    "audioPrompt": "A astronomy exhibition includes “creates intimacy or threat”. Which description best fits this wording?",
+    "question": "In a student presentation, “Cold currents curled around the cliff.” Which analysis is strongest?",
+    "audioPrompt": "In a student presentation, “Cold currents curled around the cliff.” Which analysis is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -377,29 +377,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "alliteration",
-      "soft volume",
-      "assonance",
-      "onomatopoeia"
+      "assonance: Repeated long vowel sounds stretch the line and create a mournful tone.",
+      "alliteration: Repeated initial consonant sounds link the words and echo circular movement.",
+      "onomatopoeia: Sound words create an immediate sequence of impact and reaction.",
+      "repetition: The repeated phrase sustains tension and emphasises endurance."
     ],
     "correct": 1,
-    "explanation": "The wording best matches soft volume.\nHint: Identify the language choice first, then check its effect in this context.",
+    "explanation": "alliteration is supported by exact evidence.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches soft volume.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "alliteration is supported by exact evidence.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-T-014",
     "curriculumCode": "AC9E6LE04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "assonance",
+    "stage": "independent",
+    "skill": "assonance edit",
     "printable": true,
     "type": "single",
-    "question": "In a river-restoration update, which term matches this meaning: “repetition of vowel sounds”?",
-    "audioPrompt": "In a river-restoration update, which term matches this meaning: “repetition of vowel sounds”?",
+    "question": "Which edit best demonstrates assonance in a student presentation?",
+    "audioPrompt": "Which edit best demonstrates assonance in a student presentation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -407,29 +407,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "rhythm",
-      "imagery",
-      "assonance",
-      "It does not match the evidence in the example."
+      "Read the phrase aloud and connect the sound to the water movement.",
+      "Keep the sound order matched to the event order.",
+      "Underline the repeated vowel sound rather than matching spelling.",
+      "Pause slightly after each repeated unit when performing."
     ],
     "correct": 2,
-    "explanation": "assonance is the precise term for repetition of vowel sounds.\nHint: Distinguish closely related terms by their definitions.",
+    "explanation": "This edit applies assonance accurately.\nHint: Choose purposeful accuracy.",
     "structuredExplanation": {
-      "summary": "assonance is the precise term for repetition of vowel sounds.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies assonance accurately.",
+      "hint": "Choose purposeful accuracy."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-T-015",
     "curriculumCode": "AC9E6LE04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "sound and imagery in literary texts",
+    "stage": "transfer",
+    "skill": "onomatopoeia misconception",
     "printable": true,
     "type": "single",
-    "question": "For a cycling-safety campaign, which phrase uses alliteration?",
-    "audioPrompt": "For a cycling-safety campaign, which phrase uses alliteration?",
+    "question": "Which claim should an editor reject about “Crack—hiss—thud: the branch struck the fire.” in this student presentation?",
+    "audioPrompt": "Which claim should an editor reject about “Crack—hiss—thud: the branch struck the fire.” in this student presentation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -437,29 +437,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "the current was cold",
-      "water moved",
-      "a blue river",
-      "cold currents curled"
+      "Any repeated letter is alliteration.",
+      "Assonance depends on identical letters, not sounds.",
+      "Repetition is always an accidental error.",
+      "Every action verb is onomatopoeia."
     ],
     "correct": 3,
-    "explanation": "“cold currents curled” is supported by the language evidence and purpose of the text.\nHint: Different performances can be defensible when they follow punctuation, sound pattern and meaning evidence.",
+    "explanation": "The rejected claim overgeneralises onomatopoeia.\nHint: Check the claim against evidence.",
     "structuredExplanation": {
-      "summary": "“cold currents curled” is supported by the language evidence and purpose of the text.",
-      "hint": "Different performances can be defensible when they follow punctuation, sound pattern and meaning evidence."
+      "summary": "The rejected claim overgeneralises onomatopoeia.",
+      "hint": "Check the claim against evidence."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-T-016",
     "curriculumCode": "AC9E6LE04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "repetition explanation",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a neighbourhood history podcast says, “Device name replaces effect”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a neighbourhood history podcast says, “Device name replaces effect”. Which response is most accurate?",
+    "question": "Which explanation best accounts for “Still waiting, still watching, still awake.” in this student presentation?",
+    "audioPrompt": "Which explanation best accounts for “Still waiting, still watching, still awake.” in this student presentation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -467,18 +467,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use evidence and context.",
-      "Rhyme considered the only sound device",
-      "Device name replaces effect",
-      "Performance treated as separate from text"
+      "The repeated phrase sustains tension and emphasises endurance.",
+      "Repeated initial consonant sounds link the words and echo circular movement.",
+      "Repeated long vowel sounds stretch the line and create a mournful tone.",
+      "Sound words create an immediate sequence of impact and reaction."
     ],
     "correct": 0,
-    "explanation": "Use evidence and context. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "explanation": "The repeated phrase sustains tension and emphasises endurance.\nHint: Connect evidence and effect.",
     "structuredExplanation": {
-      "summary": "Use evidence and context. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "The repeated phrase sustains tension and emphasises endurance.",
+      "hint": "Connect evidence and effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

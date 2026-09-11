@@ -4,12 +4,12 @@ window.skillrPracticeQuestions = [
     "id": "AC9E6LY06-P-001",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "plan purpose audience",
+    "stage": "foundation",
+    "skill": "purpose and audience",
     "printable": true,
     "type": "single",
-    "question": "In a class podcast, which stage most directly improves ideas and structure?",
-    "audioPrompt": "In a class podcast, which stage most directly improves ideas and structure?",
+    "question": "Read: “A bushfire guide aims to inform families, so it uses clear headings, commands and emergency contacts.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “A bushfire guide aims to inform families, so it uses clear headings, commands and emergency contacts.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -17,29 +17,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "printing",
-      "spell-check only",
-      "font colour selection",
-      "revision"
+      "planning structure",
+      "paragraph cohesion",
+      "complex sentences",
+      "purpose and audience"
     ],
     "correct": 3,
-    "explanation": "“revision” is the strongest choice because it matches the language feature and the situation.\nHint: The process is recursive. New evidence or feedback may require returning to planning or restructuring.",
+    "explanation": "purpose and audience: The purpose and audience control structure, language and included information.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "“revision” is the strongest choice because it matches the language feature and the situation.",
-      "hint": "The process is recursive. New evidence or feedback may require returning to planning or restructuring."
+      "summary": "purpose and audience: The purpose and audience control structure, language and included information.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-P-002",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "editing",
+    "stage": "foundation",
+    "skill": "purpose and audience effect",
     "printable": true,
     "type": "single",
-    "question": "Which term best matches this meaning: “checking language conventions and accuracy”?",
-    "audioPrompt": "Which term best matches this meaning: “checking language conventions and accuracy”?",
+    "question": "What does “A bushfire guide aims to inform families, so it uses clear headings, commands and emergency contacts.” contribute to meaning or purpose?",
+    "audioPrompt": "What does “A bushfire guide aims to inform families, so it uses clear headings, commands and emergency contacts.” contribute to meaning or purpose?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -47,29 +47,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "editing",
-      "revision",
-      "publishing",
-      "It does not match the evidence in the example."
+      "The purpose and audience control structure, language and included information.",
+      "Planning gives each stage a distinct job before sentences are drafted.",
+      "Clear paragraph focus and lexical links help readers follow the reasoning.",
+      "The dependent clause links concession to the main actions efficiently."
     ],
     "correct": 0,
-    "explanation": "editing means checking language conventions and accuracy.\nHint: Match the definition precisely; do not choose a nearby term just because it is familiar.",
+    "explanation": "The purpose and audience control structure, language and included information.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "editing means checking language conventions and accuracy.",
-      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
+      "summary": "The purpose and audience control structure, language and included information.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-P-003",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "revise",
+    "stage": "core",
+    "skill": "purpose and audience revision",
     "printable": true,
     "type": "single",
-    "question": "Read this example from a science investigation: “meaning, argument/plot, cohesion, precision”. Which label best describes what the language is doing?",
-    "audioPrompt": "Read this example from a science investigation: “meaning, argument/plot, cohesion, precision”. Which label best describes what the language is doing?",
+    "question": "Which revision best applies purpose and audience to this task?",
+    "audioPrompt": "Which revision best applies purpose and audience to this task?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -77,29 +77,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Plan",
-      "Revise",
-      "Draft",
-      "Edit"
+      "Order sections according to what readers need first.",
+      "Write a precise audience-and-purpose statement before drafting.",
+      "Move unrelated evidence to the paragraph it supports.",
+      "Vary sentence structure without crowding too many ideas together."
     ],
     "correct": 1,
-    "explanation": "“meaning, argument/plot, cohesion, precision” is an example of Revise.\nHint: The process is recursive. New evidence or feedback may require returning to planning or restructuring.",
+    "explanation": "The revision applies purpose and audience purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "“meaning, argument/plot, cohesion, precision” is an example of Revise.",
-      "hint": "The process is recursive. New evidence or feedback may require returning to planning or restructuring."
+      "summary": "The revision applies purpose and audience purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-P-004",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "misconception repair",
+    "stage": "core",
+    "skill": "purpose and audience misconception",
     "printable": true,
     "type": "single",
-    "question": "Which correction best fixes this idea: “Sources omitted”?",
-    "audioPrompt": "Which correction best fixes this idea: “Sources omitted”?",
+    "question": "A student says, “One text design suits every audience.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “One text design suits every audience.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -107,29 +107,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "First draft treated as final",
-      "Editing begins before structural problems are solved",
-      "Attribute evidence and media.",
-      "Visuals added decoratively"
+      "One text design suits every audience.",
+      "Planning means writing the final sentences in advance.",
+      "The claim is too broad; the example shows that the purpose and audience control structure, language and included information.",
+      "A new paragraph is needed after every sentence."
     ],
     "correct": 2,
-    "explanation": "Attribute evidence and media. This fixes the misconception without creating a new rule that is too broad.\nHint: Check the actual language evidence rather than relying on an absolute rule.",
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "Attribute evidence and media. This fixes the misconception without creating a new rule that is too broad.",
-      "hint": "Check the actual language evidence rather than relying on an absolute rule."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-P-005",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "publish",
+    "stage": "foundation",
+    "skill": "planning structure",
     "printable": true,
     "type": "single",
-    "question": "Which example would be most useful when explaining creating and publishing sustained written and multimodal texts in a sports-club discussion?",
-    "audioPrompt": "Which example would be most useful when explaining creating and publishing sustained written and multimodal texts in a sports-club discussion?",
+    "question": "Read: “The writer maps an opening overview, three evidence sections and a final recommendation.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “The writer maps an opening overview, three evidence sections and a final recommendation.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -137,29 +137,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "ideas, evidence, structure, visual roles",
-      "paragraphs, stages and sentence relationships",
-      "meaning, argument/plot, cohesion, precision",
-      "accessible layout and attribution"
+      "purpose and audience",
+      "paragraph cohesion",
+      "complex sentences",
+      "planning structure"
     ],
     "correct": 3,
-    "explanation": "This example directly demonstrates Publish and can be explained using the language clue in the text.\nHint: Students plan sustained texts, organise paragraphs and multimodal stages, develop ideas with evidence or imagery, control sentence and cohesion choices and revise meaning before editing and publishing accessibly.",
+    "explanation": "planning structure: Planning gives each stage a distinct job before sentences are drafted.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "This example directly demonstrates Publish and can be explained using the language clue in the text.",
-      "hint": "Students plan sustained texts, organise paragraphs and multimodal stages, develop ideas with evidence or imagery, control sentence and cohesion choices and revise meaning before editing and publishing accessibly."
+      "summary": "planning structure: Planning gives each stage a distinct job before sentences are drafted.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-P-006",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "plan purpose audience",
+    "stage": "foundation",
+    "skill": "planning structure effect",
     "printable": true,
     "type": "single",
-    "question": "In a library display, which visual is integrated effectively?",
-    "audioPrompt": "In a library display, which visual is integrated effectively?",
+    "question": "What does “The writer maps an opening overview, three evidence sections and a final recommendation.” contribute to meaning or purpose?",
+    "audioPrompt": "What does “The writer maps an opening overview, three evidence sections and a final recommendation.” contribute to meaning or purpose?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -167,29 +167,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A labelled diagram discussed in the explanation",
-      "An unrelated stock image",
-      "A logo covering data",
-      "A picture with no caption or role"
+      "Planning gives each stage a distinct job before sentences are drafted.",
+      "The purpose and audience control structure, language and included information.",
+      "Clear paragraph focus and lexical links help readers follow the reasoning.",
+      "The dependent clause links concession to the main actions efficiently."
     ],
     "correct": 0,
-    "explanation": "“A labelled diagram discussed in the explanation” is the strongest choice because it matches the language feature and the situation.\nHint: The process is recursive. New evidence or feedback may require returning to planning or restructuring.",
+    "explanation": "Planning gives each stage a distinct job before sentences are drafted.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "“A labelled diagram discussed in the explanation” is the strongest choice because it matches the language feature and the situation.",
-      "hint": "The process is recursive. New evidence or feedback may require returning to planning or restructuring."
+      "summary": "Planning gives each stage a distinct job before sentences are drafted.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-P-007",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "revision",
+    "stage": "core",
+    "skill": "planning structure revision",
     "printable": true,
     "type": "single",
-    "question": "Which term best matches this meaning: “substantive improvement of meaning and structure”?",
-    "audioPrompt": "Which term best matches this meaning: “substantive improvement of meaning and structure”?",
+    "question": "Which revision best applies planning structure to this task?",
+    "audioPrompt": "Which revision best applies planning structure to this task?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -197,29 +197,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "editing",
-      "revision",
-      "publishing",
-      "It does not match the evidence in the example."
+      "Write a precise audience-and-purpose statement before drafting.",
+      "Order sections according to what readers need first.",
+      "Move unrelated evidence to the paragraph it supports.",
+      "Vary sentence structure without crowding too many ideas together."
     ],
     "correct": 1,
-    "explanation": "revision means substantive improvement of meaning and structure.\nHint: Match the definition precisely; do not choose a nearby term just because it is familiar.",
+    "explanation": "The revision applies planning structure purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "revision means substantive improvement of meaning and structure.",
-      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
+      "summary": "The revision applies planning structure purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-P-008",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "draft",
+    "stage": "core",
+    "skill": "planning structure misconception",
     "printable": true,
     "type": "single",
-    "question": "Read this example from a student council meeting: “paragraphs, stages and sentence relationships”. Which label best describes what the language is doing?",
-    "audioPrompt": "Read this example from a student council meeting: “paragraphs, stages and sentence relationships”. Which label best describes what the language is doing?",
+    "question": "A student says, “Planning means writing the final sentences in advance.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Planning means writing the final sentences in advance.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -227,29 +227,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Plan",
-      "Revise",
-      "Draft",
-      "Edit"
+      "One text design suits every audience.",
+      "Planning means writing the final sentences in advance.",
+      "The claim is too broad; the example shows that planning gives each stage a distinct job before sentences are drafted.",
+      "A new paragraph is needed after every sentence."
     ],
     "correct": 2,
-    "explanation": "“paragraphs, stages and sentence relationships” is an example of Draft.\nHint: The process is recursive. New evidence or feedback may require returning to planning or restructuring.",
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "“paragraphs, stages and sentence relationships” is an example of Draft.",
-      "hint": "The process is recursive. New evidence or feedback may require returning to planning or restructuring."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-P-009",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "misconception repair",
+    "stage": "foundation",
+    "skill": "paragraph cohesion",
     "printable": true,
     "type": "single",
-    "question": "Which correction best fixes this idea: “First draft treated as final”?",
-    "audioPrompt": "Which correction best fixes this idea: “First draft treated as final”?",
+    "question": "Read: “Each paragraph opens with a focused topic sentence and develops one connected idea.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “Each paragraph opens with a focused topic sentence and develops one connected idea.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -257,29 +257,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "First draft treated as final",
-      "Editing begins before structural problems are solved",
-      "Visuals added decoratively",
-      "Use feedback and revision."
+      "purpose and audience",
+      "planning structure",
+      "complex sentences",
+      "paragraph cohesion"
     ],
     "correct": 3,
-    "explanation": "Use feedback and revision. This fixes the misconception without creating a new rule that is too broad.\nHint: Check the actual language evidence rather than relying on an absolute rule.",
+    "explanation": "paragraph cohesion: Clear paragraph focus and lexical links help readers follow the reasoning.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "Use feedback and revision. This fixes the misconception without creating a new rule that is too broad.",
-      "hint": "Check the actual language evidence rather than relying on an absolute rule."
+      "summary": "paragraph cohesion: Clear paragraph focus and lexical links help readers follow the reasoning.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-P-010",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "edit",
+    "stage": "foundation",
+    "skill": "paragraph cohesion effect",
     "printable": true,
     "type": "single",
-    "question": "Which example would be most useful when explaining creating and publishing sustained written and multimodal texts in a environmental campaign?",
-    "audioPrompt": "Which example would be most useful when explaining creating and publishing sustained written and multimodal texts in a environmental campaign?",
+    "question": "What does “Each paragraph opens with a focused topic sentence and develops one connected idea.” contribute to meaning or purpose?",
+    "audioPrompt": "What does “Each paragraph opens with a focused topic sentence and develops one connected idea.” contribute to meaning or purpose?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -287,29 +287,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "grammar, punctuation, spelling, source accuracy",
-      "ideas, evidence, structure, visual roles",
-      "paragraphs, stages and sentence relationships",
-      "meaning, argument/plot, cohesion, precision"
+      "Clear paragraph focus and lexical links help readers follow the reasoning.",
+      "The purpose and audience control structure, language and included information.",
+      "Planning gives each stage a distinct job before sentences are drafted.",
+      "The dependent clause links concession to the main actions efficiently."
     ],
     "correct": 0,
-    "explanation": "This example directly demonstrates Edit and can be explained using the language clue in the text.\nHint: Students plan sustained texts, organise paragraphs and multimodal stages, develop ideas with evidence or imagery, control sentence and cohesion choices and revise meaning before editing and publishing accessibly.",
+    "explanation": "Clear paragraph focus and lexical links help readers follow the reasoning.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "This example directly demonstrates Edit and can be explained using the language clue in the text.",
-      "hint": "Students plan sustained texts, organise paragraphs and multimodal stages, develop ideas with evidence or imagery, control sentence and cohesion choices and revise meaning before editing and publishing accessibly."
+      "summary": "Clear paragraph focus and lexical links help readers follow the reasoning.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-P-011",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "revise",
+    "stage": "core",
+    "skill": "paragraph cohesion revision",
     "printable": true,
     "type": "single",
-    "question": "A museum caption includes “meaning, argument/plot, cohesion, precision”. Why is this an effective example of Revise?",
-    "audioPrompt": "A museum caption includes “meaning, argument/plot, cohesion, precision”. Why is this an effective example of Revise?",
+    "question": "Which revision best applies paragraph cohesion to this task?",
+    "audioPrompt": "Which revision best applies paragraph cohesion to this task?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -317,29 +317,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It makes the intended language choice clear in context.",
-      "It matches the purpose and the language clue in the example.",
-      "The process is recursive. New evidence or feedback may require returning to planning or restructuring.",
-      "Multimodal elements need distinct functions and should be referenced in the written or spoken meaning."
+      "Write a precise audience-and-purpose statement before drafting.",
+      "Move unrelated evidence to the paragraph it supports.",
+      "Order sections according to what readers need first.",
+      "Vary sentence structure without crowding too many ideas together."
     ],
-    "correct": 0,
-    "explanation": "meaning, argument/plot, cohesion, precision works because its language choice fits the purpose and context.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 1,
+    "explanation": "The revision applies paragraph cohesion purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "meaning, argument/plot, cohesion, precision works because its language choice fits the purpose and context.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "The revision applies paragraph cohesion purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-P-012",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "core",
+    "skill": "paragraph cohesion misconception",
     "printable": true,
     "type": "single",
-    "question": "Why is “Work from large scale to detail.” a better rule than “Editing begins before structural problems are solved” when reading a student council meeting?",
-    "audioPrompt": "Why is “Work from large scale to detail.” a better rule than “Editing begins before structural problems are solved” when reading a student council meeting?",
+    "question": "A student says, “A new paragraph is needed after every sentence.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “A new paragraph is needed after every sentence.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -347,29 +347,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because the longest rule is always the best one.",
-      "Because it keeps the useful distinction without turning it into an absolute rule.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words."
+      "One text design suits every audience.",
+      "Planning means writing the final sentences in advance.",
+      "The claim is too broad; the example shows that clear paragraph focus and lexical links help readers follow the reasoning.",
+      "A new paragraph is needed after every sentence."
     ],
-    "correct": 1,
-    "explanation": "“Work from large scale to detail.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 2,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "“Work from large scale to detail.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-P-013",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "publish",
+    "stage": "foundation",
+    "skill": "complex sentences",
     "printable": true,
     "type": "single",
-    "question": "A local-history article includes “accessible layout and attribution”. Why is this an effective example of Publish?",
-    "audioPrompt": "A local-history article includes “accessible layout and attribution”. Why is this an effective example of Publish?",
+    "question": "Read: “Although the first trial failed, the team adjusted the valve and repeated the test.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “Although the first trial failed, the team adjusted the valve and repeated the test.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -377,29 +377,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It matches the purpose and the language clue in the example.",
-      "The process is recursive. New evidence or feedback may require returning to planning or restructuring.",
-      "It makes the intended language choice clear in context.",
-      "Multimodal elements need distinct functions and should be referenced in the written or spoken meaning."
+      "purpose and audience",
+      "planning structure",
+      "paragraph cohesion",
+      "complex sentences"
     ],
-    "correct": 2,
-    "explanation": "accessible layout and attribution works because its language choice fits the purpose and context.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 3,
+    "explanation": "complex sentences: The dependent clause links concession to the main actions efficiently.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "accessible layout and attribution works because its language choice fits the purpose and context.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "complex sentences: The dependent clause links concession to the main actions efficiently.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-P-014",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "foundation",
+    "skill": "complex sentences effect",
     "printable": true,
     "type": "single",
-    "question": "Why is “Attribute evidence and media.” a better rule than “Sources omitted” when reading a environmental campaign?",
-    "audioPrompt": "Why is “Attribute evidence and media.” a better rule than “Sources omitted” when reading a environmental campaign?",
+    "question": "What does “Although the first trial failed, the team adjusted the valve and repeated the test.” contribute to meaning or purpose?",
+    "audioPrompt": "What does “Although the first trial failed, the team adjusted the valve and repeated the test.” contribute to meaning or purpose?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -407,29 +407,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because the longest rule is always the best one.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words.",
-      "Because it keeps the useful distinction without turning it into an absolute rule."
+      "The dependent clause links concession to the main actions efficiently.",
+      "The purpose and audience control structure, language and included information.",
+      "Planning gives each stage a distinct job before sentences are drafted.",
+      "Clear paragraph focus and lexical links help readers follow the reasoning."
     ],
-    "correct": 3,
-    "explanation": "“Attribute evidence and media.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 0,
+    "explanation": "The dependent clause links concession to the main actions efficiently.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "“Attribute evidence and media.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The dependent clause links concession to the main actions efficiently.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-P-015",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "plan",
+    "stage": "core",
+    "skill": "complex sentences revision",
     "printable": true,
     "type": "single",
-    "question": "A book-club discussion includes “ideas, evidence, structure, visual roles”. Why is this an effective example of Plan?",
-    "audioPrompt": "A book-club discussion includes “ideas, evidence, structure, visual roles”. Why is this an effective example of Plan?",
+    "question": "Which revision best applies complex sentences to this task?",
+    "audioPrompt": "Which revision best applies complex sentences to this task?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -437,29 +437,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It makes the intended language choice clear in context.",
-      "It matches the purpose and the language clue in the example.",
-      "The process is recursive. New evidence or feedback may require returning to planning or restructuring.",
-      "Multimodal elements need distinct functions and should be referenced in the written or spoken meaning."
+      "Write a precise audience-and-purpose statement before drafting.",
+      "Vary sentence structure without crowding too many ideas together.",
+      "Order sections according to what readers need first.",
+      "Move unrelated evidence to the paragraph it supports."
     ],
-    "correct": 0,
-    "explanation": "ideas, evidence, structure, visual roles works because its language choice fits the purpose and context.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 1,
+    "explanation": "The revision applies complex sentences purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "ideas, evidence, structure, visual roles works because its language choice fits the purpose and context.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "The revision applies complex sentences purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-P-016",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "core",
+    "skill": "complex sentences misconception",
     "printable": true,
     "type": "single",
-    "question": "Why is “Work from large scale to detail.” a better rule than “Editing begins before structural problems are solved” when reading a excursion briefing?",
-    "audioPrompt": "Why is “Work from large scale to detail.” a better rule than “Editing begins before structural problems are solved” when reading a excursion briefing?",
+    "question": "A student says, “Longer sentences are always more sophisticated.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Longer sentences are always more sophisticated.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -467,29 +467,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because the longest rule is always the best one.",
-      "Because it keeps the useful distinction without turning it into an absolute rule.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words."
+      "One text design suits every audience.",
+      "Planning means writing the final sentences in advance.",
+      "The claim is too broad; the example shows that the dependent clause links concession to the main actions efficiently.",
+      "A new paragraph is needed after every sentence."
     ],
-    "correct": 1,
-    "explanation": "“Work from large scale to detail.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 2,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "“Work from large scale to detail.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-P-017",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "revise",
+    "stage": "foundation",
+    "skill": "expanded verb group",
     "printable": true,
     "type": "single",
-    "question": "A design project includes “meaning, argument/plot, cohesion, precision”. Why is this an effective example of Revise?",
-    "audioPrompt": "A design project includes “meaning, argument/plot, cohesion, precision”. Why is this an effective example of Revise?",
+    "question": "Read: “The temperature had been rising steadily before the alarm sounded.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “The temperature had been rising steadily before the alarm sounded.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -497,29 +497,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It matches the purpose and the language clue in the example.",
-      "The process is recursive. New evidence or feedback may require returning to planning or restructuring.",
-      "It makes the intended language choice clear in context.",
-      "Multimodal elements need distinct functions and should be referenced in the written or spoken meaning."
+      "purpose and audience",
+      "planning structure",
+      "paragraph cohesion",
+      "expanded verb group"
     ],
-    "correct": 2,
-    "explanation": "meaning, argument/plot, cohesion, precision works because its language choice fits the purpose and context.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 3,
+    "explanation": "expanded verb group: The verb group precisely shows an ongoing process before a later past event.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "meaning, argument/plot, cohesion, precision works because its language choice fits the purpose and context.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "expanded verb group: The verb group precisely shows an ongoing process before a later past event.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-P-018",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "foundation",
+    "skill": "expanded verb group effect",
     "printable": true,
     "type": "single",
-    "question": "Why is “Attribute evidence and media.” a better rule than “Sources omitted” when reading a weather report?",
-    "audioPrompt": "Why is “Attribute evidence and media.” a better rule than “Sources omitted” when reading a weather report?",
+    "question": "What does “The temperature had been rising steadily before the alarm sounded.” contribute to meaning or purpose?",
+    "audioPrompt": "What does “The temperature had been rising steadily before the alarm sounded.” contribute to meaning or purpose?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -527,29 +527,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because the longest rule is always the best one.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words.",
-      "Because it keeps the useful distinction without turning it into an absolute rule."
+      "The verb group precisely shows an ongoing process before a later past event.",
+      "The purpose and audience control structure, language and included information.",
+      "Planning gives each stage a distinct job before sentences are drafted.",
+      "Clear paragraph focus and lexical links help readers follow the reasoning."
     ],
-    "correct": 3,
-    "explanation": "“Attribute evidence and media.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 0,
+    "explanation": "The verb group precisely shows an ongoing process before a later past event.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "“Attribute evidence and media.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The verb group precisely shows an ongoing process before a later past event.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-P-019",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "publish",
+    "stage": "application",
+    "skill": "expanded verb group revision",
     "printable": true,
     "type": "single",
-    "question": "A school assembly includes “accessible layout and attribution”. Why is this an effective example of Publish?",
-    "audioPrompt": "A school assembly includes “accessible layout and attribution”. Why is this an effective example of Publish?",
+    "question": "Which revision best applies expanded verb group to this task?",
+    "audioPrompt": "Which revision best applies expanded verb group to this task?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -557,29 +557,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It makes the intended language choice clear in context.",
-      "It matches the purpose and the language clue in the example.",
-      "The process is recursive. New evidence or feedback may require returning to planning or restructuring.",
-      "Multimodal elements need distinct functions and should be referenced in the written or spoken meaning."
+      "Write a precise audience-and-purpose statement before drafting.",
+      "Check auxiliary agreement, participles and the intended time relationship.",
+      "Order sections according to what readers need first.",
+      "Move unrelated evidence to the paragraph it supports."
     ],
-    "correct": 0,
-    "explanation": "accessible layout and attribution works because its language choice fits the purpose and context.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 1,
+    "explanation": "The revision applies expanded verb group purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "accessible layout and attribution works because its language choice fits the purpose and context.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "The revision applies expanded verb group purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-P-020",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "core",
+    "skill": "expanded verb group misconception",
     "printable": true,
     "type": "single",
-    "question": "Why is “Work from large scale to detail.” a better rule than “Editing begins before structural problems are solved” when reading a peer feedback session?",
-    "audioPrompt": "Why is “Work from large scale to detail.” a better rule than “Editing begins before structural problems are solved” when reading a peer feedback session?",
+    "question": "A student says, “Any group of verbs is automatically correct.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Any group of verbs is automatically correct.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -587,29 +587,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because the longest rule is always the best one.",
-      "Because it keeps the useful distinction without turning it into an absolute rule.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words."
+      "One text design suits every audience.",
+      "Planning means writing the final sentences in advance.",
+      "The claim is too broad; the example shows that the verb group precisely shows an ongoing process before a later past event.",
+      "A new paragraph is needed after every sentence."
     ],
-    "correct": 1,
-    "explanation": "“Work from large scale to detail.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 2,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "“Work from large scale to detail.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-P-021",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "foundation",
+    "skill": "tense consistency",
     "printable": true,
     "type": "single",
-    "question": "A excursion briefing could use either “ideas, evidence, structure, visual roles” or “classification, explanation, technical terms, diagrams, sources”. Which comparison is most accurate?",
-    "audioPrompt": "A excursion briefing could use either “ideas, evidence, structure, visual roles” or “classification, explanation, technical terms, diagrams, sources”. Which comparison is most accurate?",
+    "question": "Read: “The recount begins in past tense and shifts to present only when reflecting on current meaning.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “The recount begins in past tense and shifts to present only when reflecting on current meaning.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -617,29 +617,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "“ideas, evidence, structure, visual roles” shows Plan, while “classification, explanation, technical terms, diagrams, sources” shows informative.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer."
+      "purpose and audience",
+      "planning structure",
+      "paragraph cohesion",
+      "tense consistency"
     ],
-    "correct": 1,
-    "explanation": "The important difference is the language function: Plan versus informative.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "correct": 3,
+    "explanation": "tense consistency: A purposeful shift helps readers distinguish event from reflection.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: Plan versus informative.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "tense consistency: A purposeful shift helps readers distinguish event from reflection.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-P-022",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "foundation",
+    "skill": "tense consistency effect",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Visuals added decoratively” in a design project?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Visuals added decoratively” in a design project?",
+    "question": "What does “The recount begins in past tense and shifts to present only when reflecting on current meaning.” contribute to meaning or purpose?",
+    "audioPrompt": "What does “The recount begins in past tense and shifts to present only when reflecting on current meaning.” contribute to meaning or purpose?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -647,29 +647,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "First draft treated as final",
-      "Editing begins before structural problems are solved",
-      "Plan their meaning role.",
-      "Visuals added decoratively"
+      "A purposeful shift helps readers distinguish event from reflection.",
+      "The purpose and audience control structure, language and included information.",
+      "Planning gives each stage a distinct job before sentences are drafted.",
+      "Clear paragraph focus and lexical links help readers follow the reasoning."
     ],
-    "correct": 2,
-    "explanation": "Plan their meaning role. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Multimodal elements need distinct functions and should be referenced in the written or spoken meaning.",
+    "correct": 0,
+    "explanation": "A purposeful shift helps readers distinguish event from reflection.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "Plan their meaning role. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Multimodal elements need distinct functions and should be referenced in the written or spoken meaning."
+      "summary": "A purposeful shift helps readers distinguish event from reflection.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-P-023",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "application",
+    "skill": "tense consistency revision",
     "printable": true,
     "type": "single",
-    "question": "A weather report could use either “meaning, argument/plot, cohesion, precision” or “clear dominant purpose and integrated secondary resources”. Which comparison is most accurate?",
-    "audioPrompt": "A weather report could use either “meaning, argument/plot, cohesion, precision” or “clear dominant purpose and integrated secondary resources”. Which comparison is most accurate?",
+    "question": "Which revision best applies tense consistency to this task?",
+    "audioPrompt": "Which revision best applies tense consistency to this task?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -677,29 +677,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer.",
-      "“meaning, argument/plot, cohesion, precision” shows Revise, while “clear dominant purpose and integrated secondary resources” shows hybrid."
+      "Write a precise audience-and-purpose statement before drafting.",
+      "Repair accidental shifts that do not mark a changed time frame.",
+      "Order sections according to what readers need first.",
+      "Move unrelated evidence to the paragraph it supports."
     ],
-    "correct": 3,
-    "explanation": "The important difference is the language function: Revise versus hybrid.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "correct": 1,
+    "explanation": "The revision applies tense consistency purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: Revise versus hybrid.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "The revision applies tense consistency purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-P-024",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "core",
+    "skill": "tense consistency misconception",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “First draft treated as final” in a school assembly?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “First draft treated as final” in a school assembly?",
+    "question": "A student says, “A text must use only one tense throughout.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “A text must use only one tense throughout.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -707,29 +707,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use feedback and revision.",
-      "First draft treated as final",
-      "Editing begins before structural problems are solved",
-      "Visuals added decoratively"
+      "One text design suits every audience.",
+      "Planning means writing the final sentences in advance.",
+      "The claim is too broad; the example shows that a purposeful shift helps readers distinguish event from reflection.",
+      "A new paragraph is needed after every sentence."
     ],
-    "correct": 0,
-    "explanation": "Use feedback and revision. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Multimodal elements need distinct functions and should be referenced in the written or spoken meaning.",
+    "correct": 2,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "Use feedback and revision. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Multimodal elements need distinct functions and should be referenced in the written or spoken meaning."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-P-025",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "foundation",
+    "skill": "topic-specific vocabulary",
     "printable": true,
     "type": "single",
-    "question": "A peer feedback session could use either “accessible layout and attribution” or “classification, explanation, technical terms, diagrams, sources”. Which comparison is most accurate?",
-    "audioPrompt": "A peer feedback session could use either “accessible layout and attribution” or “classification, explanation, technical terms, diagrams, sources”. Which comparison is most accurate?",
+    "question": "Read: “The report uses “salinity”, “habitat” and “sediment”, defining each when introduced.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “The report uses “salinity”, “habitat” and “sediment”, defining each when introduced.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -737,29 +737,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "“accessible layout and attribution” shows Publish, while “classification, explanation, technical terms, diagrams, sources” shows informative.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer."
+      "purpose and audience",
+      "planning structure",
+      "paragraph cohesion",
+      "topic-specific vocabulary"
     ],
-    "correct": 1,
-    "explanation": "The important difference is the language function: Publish versus informative.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "correct": 3,
+    "explanation": "topic-specific vocabulary: Precise terms communicate disciplinary meaning while definitions support readers.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: Publish versus informative.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "topic-specific vocabulary: Precise terms communicate disciplinary meaning while definitions support readers.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-P-026",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "core",
+    "skill": "topic-specific vocabulary effect",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Visuals added decoratively” in a cooking demonstration?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Visuals added decoratively” in a cooking demonstration?",
+    "question": "What does “The report uses “salinity”, “habitat” and “sediment”, defining each when introduced.” contribute to meaning or purpose?",
+    "audioPrompt": "What does “The report uses “salinity”, “habitat” and “sediment”, defining each when introduced.” contribute to meaning or purpose?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -767,29 +767,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "First draft treated as final",
-      "Editing begins before structural problems are solved",
-      "Plan their meaning role.",
-      "Visuals added decoratively"
+      "Precise terms communicate disciplinary meaning while definitions support readers.",
+      "The purpose and audience control structure, language and included information.",
+      "Planning gives each stage a distinct job before sentences are drafted.",
+      "Clear paragraph focus and lexical links help readers follow the reasoning."
     ],
-    "correct": 2,
-    "explanation": "Plan their meaning role. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Multimodal elements need distinct functions and should be referenced in the written or spoken meaning.",
+    "correct": 0,
+    "explanation": "Precise terms communicate disciplinary meaning while definitions support readers.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "Plan their meaning role. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Multimodal elements need distinct functions and should be referenced in the written or spoken meaning."
+      "summary": "Precise terms communicate disciplinary meaning while definitions support readers.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-P-027",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "application",
+    "skill": "topic-specific vocabulary revision",
     "printable": true,
     "type": "single",
-    "question": "A arts review could use either “ideas, evidence, structure, visual roles” or “clear dominant purpose and integrated secondary resources”. Which comparison is most accurate?",
-    "audioPrompt": "A arts review could use either “ideas, evidence, structure, visual roles” or “clear dominant purpose and integrated secondary resources”. Which comparison is most accurate?",
+    "question": "Which revision best applies topic-specific vocabulary to this task?",
+    "audioPrompt": "Which revision best applies topic-specific vocabulary to this task?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -797,29 +797,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer.",
-      "“ideas, evidence, structure, visual roles” shows Plan, while “clear dominant purpose and integrated secondary resources” shows hybrid."
+      "Write a precise audience-and-purpose statement before drafting.",
+      "Replace vague words but avoid unexplained jargon.",
+      "Order sections according to what readers need first.",
+      "Move unrelated evidence to the paragraph it supports."
     ],
-    "correct": 3,
-    "explanation": "The important difference is the language function: Plan versus hybrid.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "correct": 1,
+    "explanation": "The revision applies topic-specific vocabulary purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: Plan versus hybrid.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "The revision applies topic-specific vocabulary purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-P-028",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "core",
+    "skill": "topic-specific vocabulary misconception",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “First draft treated as final” in a technology presentation?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “First draft treated as final” in a technology presentation?",
+    "question": "A student says, “Technical words automatically make writing accurate.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Technical words automatically make writing accurate.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -827,29 +827,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use feedback and revision.",
-      "First draft treated as final",
-      "Editing begins before structural problems are solved",
-      "Visuals added decoratively"
+      "One text design suits every audience.",
+      "Planning means writing the final sentences in advance.",
+      "The claim is too broad; the example shows that precise terms communicate disciplinary meaning while definitions support readers.",
+      "A new paragraph is needed after every sentence."
     ],
-    "correct": 0,
-    "explanation": "Use feedback and revision. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Multimodal elements need distinct functions and should be referenced in the written or spoken meaning.",
+    "correct": 2,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "Use feedback and revision. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Multimodal elements need distinct functions and should be referenced in the written or spoken meaning."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-P-029",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "foundation",
+    "skill": "vivid vocabulary",
     "printable": true,
     "type": "single",
-    "question": "A playground consultation could use either “meaning, argument/plot, cohesion, precision” or “classification, explanation, technical terms, diagrams, sources”. Which comparison is most accurate?",
-    "audioPrompt": "A playground consultation could use either “meaning, argument/plot, cohesion, precision” or “classification, explanation, technical terms, diagrams, sources”. Which comparison is most accurate?",
+    "question": "Read: “The storm clawed at the shutters in the imaginative opening.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “The storm clawed at the shutters in the imaginative opening.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -857,29 +857,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "“meaning, argument/plot, cohesion, precision” shows Revise, while “classification, explanation, technical terms, diagrams, sources” shows informative.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer."
+      "purpose and audience",
+      "planning structure",
+      "paragraph cohesion",
+      "vivid vocabulary"
     ],
-    "correct": 1,
-    "explanation": "The important difference is the language function: Revise versus informative.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "correct": 3,
+    "explanation": "vivid vocabulary: The controlled personification creates force and threat appropriate to the genre.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: Revise versus informative.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "vivid vocabulary: The controlled personification creates force and threat appropriate to the genre.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-P-030",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "core",
+    "skill": "vivid vocabulary effect",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Visuals added decoratively” in a class podcast?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Visuals added decoratively” in a class podcast?",
+    "question": "What does “The storm clawed at the shutters in the imaginative opening.” contribute to meaning or purpose?",
+    "audioPrompt": "What does “The storm clawed at the shutters in the imaginative opening.” contribute to meaning or purpose?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -887,29 +887,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "First draft treated as final",
-      "Editing begins before structural problems are solved",
-      "Plan their meaning role.",
-      "Visuals added decoratively"
+      "The controlled personification creates force and threat appropriate to the genre.",
+      "The purpose and audience control structure, language and included information.",
+      "Planning gives each stage a distinct job before sentences are drafted.",
+      "Clear paragraph focus and lexical links help readers follow the reasoning."
     ],
-    "correct": 2,
-    "explanation": "Plan their meaning role. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Multimodal elements need distinct functions and should be referenced in the written or spoken meaning.",
+    "correct": 0,
+    "explanation": "The controlled personification creates force and threat appropriate to the genre.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "Plan their meaning role. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Multimodal elements need distinct functions and should be referenced in the written or spoken meaning."
+      "summary": "The controlled personification creates force and threat appropriate to the genre.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-P-031",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "develop evidence",
+    "stage": "application",
+    "skill": "vivid vocabulary revision",
     "printable": true,
     "type": "single",
-    "question": "You are editing a community garden proposal. Which visual is integrated effectively?",
-    "audioPrompt": "You are editing a community garden proposal. Which visual is integrated effectively?",
+    "question": "Which revision best applies vivid vocabulary to this task?",
+    "audioPrompt": "Which revision best applies vivid vocabulary to this task?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -917,29 +917,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "An unrelated stock image",
-      "A logo covering data",
-      "A labelled diagram discussed in the explanation",
-      "A picture with no caption or role"
+      "Write a precise audience-and-purpose statement before drafting.",
+      "Maintain one coherent image rather than stacking mixed metaphors.",
+      "Order sections according to what readers need first.",
+      "Move unrelated evidence to the paragraph it supports."
     ],
-    "correct": 2,
-    "explanation": "“A labelled diagram discussed in the explanation” best fits the purpose and the language evidence in this new situation.\nHint: Multimodal elements need distinct functions and should be referenced in the written or spoken meaning.",
+    "correct": 1,
+    "explanation": "The revision applies vivid vocabulary purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "“A labelled diagram discussed in the explanation” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Multimodal elements need distinct functions and should be referenced in the written or spoken meaning."
+      "summary": "The revision applies vivid vocabulary purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-P-032",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "informative",
+    "stage": "core",
+    "skill": "vivid vocabulary misconception",
     "printable": true,
     "type": "single",
-    "question": "A sports-club discussion needs a clear example of informative. Which wording should you choose?",
-    "audioPrompt": "A sports-club discussion needs a clear example of informative. Which wording should you choose?",
+    "question": "A student says, “Every informative paragraph needs figurative language.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Every informative paragraph needs figurative language.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -947,29 +947,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "viewpoint, plot, motif, imagery, pacing",
-      "position, reasons, evidence, counterpoint, modality",
-      "clear dominant purpose and integrated secondary resources",
-      "classification, explanation, technical terms, diagrams, sources"
+      "One text design suits every audience.",
+      "Planning means writing the final sentences in advance.",
+      "The claim is too broad; the example shows that the controlled personification creates force and threat appropriate to the genre.",
+      "A new paragraph is needed after every sentence."
     ],
-    "correct": 3,
-    "explanation": "“classification, explanation, technical terms, diagrams, sources” is the best choice because it demonstrates informative in context.\nHint: Choose the wording that performs the required job, not merely one that sounds fluent.",
+    "correct": 2,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "“classification, explanation, technical terms, diagrams, sources” is the best choice because it demonstrates informative in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-P-033",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "revision",
+    "stage": "foundation",
+    "skill": "visual integration",
     "printable": true,
     "type": "single",
-    "question": "While revising a library display, you need language that matches “substantive improvement of meaning and structure”. Which concept should guide your choice?",
-    "audioPrompt": "While revising a library display, you need language that matches “substantive improvement of meaning and structure”. Which concept should guide your choice?",
+    "question": "Read: “A labelled diagram shows the mechanism that the paragraph explains.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “A labelled diagram shows the mechanism that the paragraph explains.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -977,29 +977,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "revision",
-      "editing",
-      "publishing",
-      "It does not match the evidence in the example."
+      "purpose and audience",
+      "planning structure",
+      "paragraph cohesion",
+      "visual integration"
     ],
-    "correct": 0,
-    "explanation": "revision is the concept that matches substantive improvement of meaning and structure.\nHint: Use the definition to guide the decision, then check it against the sentence.",
+    "correct": 3,
+    "explanation": "visual integration: The visual extends meaning when the prose directs readers to relevant labels.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "revision is the concept that matches substantive improvement of meaning and structure.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "visual integration: The visual extends meaning when the prose directs readers to relevant labels.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-P-034",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "plan purpose audience",
+    "stage": "core",
+    "skill": "visual integration effect",
     "printable": true,
     "type": "single",
-    "question": "You are editing a museum caption. Which visual is integrated effectively?",
-    "audioPrompt": "You are editing a museum caption. Which visual is integrated effectively?",
+    "question": "What does “A labelled diagram shows the mechanism that the paragraph explains.” contribute to meaning or purpose?",
+    "audioPrompt": "What does “A labelled diagram shows the mechanism that the paragraph explains.” contribute to meaning or purpose?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1007,29 +1007,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "An unrelated stock image",
-      "A labelled diagram discussed in the explanation",
-      "A logo covering data",
-      "A picture with no caption or role"
+      "The visual extends meaning when the prose directs readers to relevant labels.",
+      "The purpose and audience control structure, language and included information.",
+      "Planning gives each stage a distinct job before sentences are drafted.",
+      "Clear paragraph focus and lexical links help readers follow the reasoning."
     ],
-    "correct": 1,
-    "explanation": "“A labelled diagram discussed in the explanation” best fits the purpose and the language evidence in this new situation.\nHint: Multimodal elements need distinct functions and should be referenced in the written or spoken meaning.",
+    "correct": 0,
+    "explanation": "The visual extends meaning when the prose directs readers to relevant labels.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "“A labelled diagram discussed in the explanation” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Multimodal elements need distinct functions and should be referenced in the written or spoken meaning."
+      "summary": "The visual extends meaning when the prose directs readers to relevant labels.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-P-035",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "imaginative",
+    "stage": "application",
+    "skill": "visual integration revision",
     "printable": true,
     "type": "single",
-    "question": "A student council meeting needs a clear example of imaginative. Which wording should you choose?",
-    "audioPrompt": "A student council meeting needs a clear example of imaginative. Which wording should you choose?",
+    "question": "Which revision best applies visual integration to this task?",
+    "audioPrompt": "Which revision best applies visual integration to this task?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1037,29 +1037,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "classification, explanation, technical terms, diagrams, sources",
-      "position, reasons, evidence, counterpoint, modality",
-      "viewpoint, plot, motif, imagery, pacing",
-      "clear dominant purpose and integrated secondary resources"
+      "Write a precise audience-and-purpose statement before drafting.",
+      "Add an informative caption and cross-reference the diagram.",
+      "Order sections according to what readers need first.",
+      "Move unrelated evidence to the paragraph it supports."
     ],
-    "correct": 2,
-    "explanation": "“viewpoint, plot, motif, imagery, pacing” is the best choice because it demonstrates imaginative in context.\nHint: Choose the wording that performs the required job, not merely one that sounds fluent.",
+    "correct": 1,
+    "explanation": "The revision applies visual integration purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "“viewpoint, plot, motif, imagery, pacing” is the best choice because it demonstrates imaginative in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "The revision applies visual integration purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-P-036",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "revision",
+    "stage": "challenge",
+    "skill": "visual integration misconception",
     "printable": true,
     "type": "single",
-    "question": "While revising a local-history article, you need language that matches “substantive improvement of meaning and structure”. Which concept should guide your choice?",
-    "audioPrompt": "While revising a local-history article, you need language that matches “substantive improvement of meaning and structure”. Which concept should guide your choice?",
+    "question": "A student says, “A decorative image satisfies multimodal requirements.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “A decorative image satisfies multimodal requirements.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1067,29 +1067,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "editing",
-      "publishing",
-      "It does not match the evidence in the example.",
-      "revision"
+      "One text design suits every audience.",
+      "Planning means writing the final sentences in advance.",
+      "The claim is too broad; the example shows that the visual extends meaning when the prose directs readers to relevant labels.",
+      "A new paragraph is needed after every sentence."
     ],
-    "correct": 3,
-    "explanation": "revision is the concept that matches substantive improvement of meaning and structure.\nHint: Use the definition to guide the decision, then check it against the sentence.",
+    "correct": 2,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "revision is the concept that matches substantive improvement of meaning and structure.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-P-037",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "revise cohesion",
+    "stage": "foundation",
+    "skill": "revision",
     "printable": true,
     "type": "single",
-    "question": "You are editing a environmental campaign. Which visual is integrated effectively?",
-    "audioPrompt": "You are editing a environmental campaign. Which visual is integrated effectively?",
+    "question": "Read: “The draft’s conclusion introduces a new claim unsupported by earlier evidence.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “The draft’s conclusion introduces a new claim unsupported by earlier evidence.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1097,29 +1097,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A labelled diagram discussed in the explanation",
-      "An unrelated stock image",
-      "A logo covering data",
-      "A picture with no caption or role"
+      "purpose and audience",
+      "planning structure",
+      "paragraph cohesion",
+      "revision"
     ],
-    "correct": 0,
-    "explanation": "“A labelled diagram discussed in the explanation” best fits the purpose and the language evidence in this new situation.\nHint: Multimodal elements need distinct functions and should be referenced in the written or spoken meaning.",
+    "correct": 3,
+    "explanation": "revision: Revision repairs meaning and structure before surface correctness.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "“A labelled diagram discussed in the explanation” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Multimodal elements need distinct functions and should be referenced in the written or spoken meaning."
+      "summary": "revision: Revision repairs meaning and structure before surface correctness.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-P-038",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "hybrid",
+    "stage": "core",
+    "skill": "revision effect",
     "printable": true,
     "type": "single",
-    "question": "A book-club discussion needs a clear example of hybrid. Which wording should you choose?",
-    "audioPrompt": "A book-club discussion needs a clear example of hybrid. Which wording should you choose?",
+    "question": "What does “The draft’s conclusion introduces a new claim unsupported by earlier evidence.” contribute to meaning or purpose?",
+    "audioPrompt": "What does “The draft’s conclusion introduces a new claim unsupported by earlier evidence.” contribute to meaning or purpose?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1127,29 +1127,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "viewpoint, plot, motif, imagery, pacing",
-      "clear dominant purpose and integrated secondary resources",
-      "classification, explanation, technical terms, diagrams, sources",
-      "position, reasons, evidence, counterpoint, modality"
+      "Revision repairs meaning and structure before surface correctness.",
+      "The purpose and audience control structure, language and included information.",
+      "Planning gives each stage a distinct job before sentences are drafted.",
+      "Clear paragraph focus and lexical links help readers follow the reasoning."
     ],
-    "correct": 1,
-    "explanation": "“clear dominant purpose and integrated secondary resources” is the best choice because it demonstrates hybrid in context.\nHint: Choose the wording that performs the required job, not merely one that sounds fluent.",
+    "correct": 0,
+    "explanation": "Revision repairs meaning and structure before surface correctness.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "“clear dominant purpose and integrated secondary resources” is the best choice because it demonstrates hybrid in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "Revision repairs meaning and structure before surface correctness.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-P-039",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "revision",
+    "stage": "application",
+    "skill": "revision revision",
     "printable": true,
     "type": "single",
-    "question": "While revising a excursion briefing, you need language that matches “substantive improvement of meaning and structure”. Which concept should guide your choice?",
-    "audioPrompt": "While revising a excursion briefing, you need language that matches “substantive improvement of meaning and structure”. Which concept should guide your choice?",
+    "question": "Which revision best applies revision to this task?",
+    "audioPrompt": "Which revision best applies revision to this task?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1157,29 +1157,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "editing",
-      "publishing",
-      "revision",
-      "It does not match the evidence in the example."
+      "Write a precise audience-and-purpose statement before drafting.",
+      "Either develop the evidence earlier or remove the new claim.",
+      "Order sections according to what readers need first.",
+      "Move unrelated evidence to the paragraph it supports."
     ],
-    "correct": 2,
-    "explanation": "revision is the concept that matches substantive improvement of meaning and structure.\nHint: Use the definition to guide the decision, then check it against the sentence.",
+    "correct": 1,
+    "explanation": "The revision applies revision purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "revision is the concept that matches substantive improvement of meaning and structure.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "The revision applies revision purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY06-P-040",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "organise stages",
+    "stage": "challenge",
+    "skill": "revision misconception",
     "printable": true,
     "type": "single",
-    "question": "You are editing a design project. Which visual is integrated effectively?",
-    "audioPrompt": "You are editing a design project. Which visual is integrated effectively?",
+    "question": "A student says, “Revision is the same as correcting spelling.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Revision is the same as correcting spelling.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1187,18 +1187,258 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "An unrelated stock image",
-      "A logo covering data",
-      "A picture with no caption or role",
-      "A labelled diagram discussed in the explanation"
+      "One text design suits every audience.",
+      "Planning means writing the final sentences in advance.",
+      "The claim is too broad; the example shows that revision repairs meaning and structure before surface correctness.",
+      "A new paragraph is needed after every sentence."
+    ],
+    "correct": 2,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
+    "structuredExplanation": {
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LY06-P-041",
+    "curriculumCode": "AC9E6LY06",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "editing and proofreading",
+    "printable": true,
+    "type": "single",
+    "question": "Read: “The writer checks sentence boundaries, commas, spelling and source names after revision.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “The writer checks sentence boundaries, commas, spelling and source names after revision.” Which description best identifies the relevant choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "purpose and audience",
+      "planning structure",
+      "paragraph cohesion",
+      "editing and proofreading"
     ],
     "correct": 3,
-    "explanation": "“A labelled diagram discussed in the explanation” best fits the purpose and the language evidence in this new situation.\nHint: Multimodal elements need distinct functions and should be referenced in the written or spoken meaning.",
+    "explanation": "editing and proofreading: A separate conventions pass improves accuracy without distracting from major ideas.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "“A labelled diagram discussed in the explanation” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Multimodal elements need distinct functions and should be referenced in the written or spoken meaning."
+      "summary": "editing and proofreading: A separate conventions pass improves accuracy without distracting from major ideas.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LY06-P-042",
+    "curriculumCode": "AC9E6LY06",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "editing and proofreading effect",
+    "printable": true,
+    "type": "single",
+    "question": "What does “The writer checks sentence boundaries, commas, spelling and source names after revision.” contribute to meaning or purpose?",
+    "audioPrompt": "What does “The writer checks sentence boundaries, commas, spelling and source names after revision.” contribute to meaning or purpose?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A separate conventions pass improves accuracy without distracting from major ideas.",
+      "The purpose and audience control structure, language and included information.",
+      "Planning gives each stage a distinct job before sentences are drafted.",
+      "Clear paragraph focus and lexical links help readers follow the reasoning."
+    ],
+    "correct": 0,
+    "explanation": "A separate conventions pass improves accuracy without distracting from major ideas.\nHint: Link exact evidence to its effect.",
+    "structuredExplanation": {
+      "summary": "A separate conventions pass improves accuracy without distracting from major ideas.",
+      "hint": "Link exact evidence to its effect."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LY06-P-043",
+    "curriculumCode": "AC9E6LY06",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "editing and proofreading revision",
+    "printable": true,
+    "type": "single",
+    "question": "Which revision best applies editing and proofreading to this task?",
+    "audioPrompt": "Which revision best applies editing and proofreading to this task?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Write a precise audience-and-purpose statement before drafting.",
+      "Use targeted checks and read aloud before finalising.",
+      "Order sections according to what readers need first.",
+      "Move unrelated evidence to the paragraph it supports."
+    ],
+    "correct": 1,
+    "explanation": "The revision applies editing and proofreading purposefully.\nHint: Choose accuracy and effect, not extra length.",
+    "structuredExplanation": {
+      "summary": "The revision applies editing and proofreading purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LY06-P-044",
+    "curriculumCode": "AC9E6LY06",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "editing and proofreading misconception",
+    "printable": true,
+    "type": "single",
+    "question": "A student says, “Spellcheck finds every error and unsuitable word.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Spellcheck finds every error and unsuitable word.” Which response best corrects the claim?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "One text design suits every audience.",
+      "Planning means writing the final sentences in advance.",
+      "The claim is too broad; the example shows that a separate conventions pass improves accuracy without distracting from major ideas.",
+      "A new paragraph is needed after every sentence."
+    ],
+    "correct": 2,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
+    "structuredExplanation": {
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LY06-P-045",
+    "curriculumCode": "AC9E6LY06",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "ethical publishing",
+    "printable": true,
+    "type": "single",
+    "question": "Read: “The final webpage credits sources, uses permitted images and removes personal student details.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “The final webpage credits sources, uses permitted images and removes personal student details.” Which description best identifies the relevant choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "purpose and audience",
+      "planning structure",
+      "paragraph cohesion",
+      "ethical publishing"
+    ],
+    "correct": 3,
+    "explanation": "ethical publishing: Responsible publishing considers attribution, copyright, privacy and accessibility.\nHint: Name the feature precisely.",
+    "structuredExplanation": {
+      "summary": "ethical publishing: Responsible publishing considers attribution, copyright, privacy and accessibility.",
+      "hint": "Name the feature precisely."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LY06-P-046",
+    "curriculumCode": "AC9E6LY06",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "ethical publishing effect",
+    "printable": true,
+    "type": "single",
+    "question": "What does “The final webpage credits sources, uses permitted images and removes personal student details.” contribute to meaning or purpose?",
+    "audioPrompt": "What does “The final webpage credits sources, uses permitted images and removes personal student details.” contribute to meaning or purpose?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Responsible publishing considers attribution, copyright, privacy and accessibility.",
+      "The purpose and audience control structure, language and included information.",
+      "Planning gives each stage a distinct job before sentences are drafted.",
+      "Clear paragraph focus and lexical links help readers follow the reasoning."
+    ],
+    "correct": 0,
+    "explanation": "Responsible publishing considers attribution, copyright, privacy and accessibility.\nHint: Link exact evidence to its effect.",
+    "structuredExplanation": {
+      "summary": "Responsible publishing considers attribution, copyright, privacy and accessibility.",
+      "hint": "Link exact evidence to its effect."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LY06-P-047",
+    "curriculumCode": "AC9E6LY06",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "ethical publishing revision",
+    "printable": true,
+    "type": "single",
+    "question": "Which revision best applies ethical publishing to this task?",
+    "audioPrompt": "Which revision best applies ethical publishing to this task?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Write a precise audience-and-purpose statement before drafting.",
+      "Add alt text, descriptive links and publication permissions.",
+      "Order sections according to what readers need first.",
+      "Move unrelated evidence to the paragraph it supports."
+    ],
+    "correct": 1,
+    "explanation": "The revision applies ethical publishing purposefully.\nHint: Choose accuracy and effect, not extra length.",
+    "structuredExplanation": {
+      "summary": "The revision applies ethical publishing purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LY06-P-048",
+    "curriculumCode": "AC9E6LY06",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "ethical publishing misconception",
+    "printable": true,
+    "type": "single",
+    "question": "A student says, “Anything found online is free to republish.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Anything found online is free to republish.” Which response best corrects the claim?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "One text design suits every audience.",
+      "Planning means writing the final sentences in advance.",
+      "The claim is too broad; the example shows that responsible publishing considers attribution, copyright, privacy and accessibility.",
+      "A new paragraph is needed after every sentence."
+    ],
+    "correct": 2,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
+    "structuredExplanation": {
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
+    },
+    "qualitySchema": "research-aligned-original-v2"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

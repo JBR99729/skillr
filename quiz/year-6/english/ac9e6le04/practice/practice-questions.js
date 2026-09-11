@@ -4,42 +4,12 @@ window.skillrPracticeQuestions = [
     "id": "AC9E6LE04-P-001",
     "curriculumCode": "AC9E6LE04",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "mark sound pattern",
+    "stage": "foundation",
+    "skill": "alliteration",
     "printable": true,
     "type": "single",
-    "question": "In a class podcast, which phrase uses alliteration?",
-    "audioPrompt": "In a class podcast, which phrase uses alliteration?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "cold currents curled",
-      "the current was cold",
-      "water moved",
-      "a blue river"
-    ],
-    "correct": 0,
-    "explanation": "“cold currents curled” is the strongest choice because it matches the language feature and the situation.\nHint: Sound works through performance and stress, not spelling alone. Explain the choice within its line, stanza or narrative moment.",
-    "structuredExplanation": {
-      "summary": "“cold currents curled” is the strongest choice because it matches the language feature and the situation.",
-      "hint": "Sound works through performance and stress, not spelling alone. Explain the choice within its line, stanza or narrative moment."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LE04-P-002",
-    "curriculumCode": "AC9E6LE04",
-    "bank": "practice",
-    "stage": "recognise",
-    "skill": "rhythm",
-    "printable": true,
-    "type": "single",
-    "question": "Which term best matches this meaning: “pattern of beats, stress and timing”?",
-    "audioPrompt": "Which term best matches this meaning: “pattern of beats, stress and timing”?",
+    "question": "Read: “Cold currents curled around the cliff.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “Cold currents curled around the cliff.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -48,28 +18,118 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "assonance",
-      "rhythm",
-      "imagery",
-      "It does not match the evidence in the example."
+      "alliteration",
+      "onomatopoeia",
+      "repetition"
     ],
     "correct": 1,
-    "explanation": "rhythm means pattern of beats, stress and timing.\nHint: Match the definition precisely; do not choose a nearby term just because it is familiar.",
+    "explanation": "alliteration: Repeated initial consonant sounds link the words and echo circular movement.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "rhythm means pattern of beats, stress and timing.",
-      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
+      "summary": "alliteration: Repeated initial consonant sounds link the words and echo circular movement.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LE04-P-002",
+    "curriculumCode": "AC9E6LE04",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "alliteration effect",
+    "printable": true,
+    "type": "single",
+    "question": "What does “Cold currents curled around the cliff.” contribute to meaning or response?",
+    "audioPrompt": "What does “Cold currents curled around the cliff.” contribute to meaning or response?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Repeated long vowel sounds stretch the line and create a mournful tone.",
+      "Sound words create an immediate sequence of impact and reaction.",
+      "Repeated initial consonant sounds link the words and echo circular movement.",
+      "The repeated phrase sustains tension and emphasises endurance."
+    ],
+    "correct": 2,
+    "explanation": "Repeated initial consonant sounds link the words and echo circular movement.\nHint: Link exact evidence to its effect.",
+    "structuredExplanation": {
+      "summary": "Repeated initial consonant sounds link the words and echo circular movement.",
+      "hint": "Link exact evidence to its effect."
+    },
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-P-003",
     "curriculumCode": "AC9E6LE04",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "onomatopoeia",
+    "stage": "core",
+    "skill": "alliteration revision",
     "printable": true,
     "type": "single",
-    "question": "Read this example from a science investigation: “crack—hiss—thud”. Which label best describes what the language is doing?",
-    "audioPrompt": "Read this example from a science investigation: “crack—hiss—thud”. Which label best describes what the language is doing?",
+    "question": "Which revision best applies alliteration?",
+    "audioPrompt": "Which revision best applies alliteration?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Underline the repeated vowel sound rather than matching spelling.",
+      "Keep the sound order matched to the event order.",
+      "Pause slightly after each repeated unit when performing.",
+      "Read the phrase aloud and connect the sound to the water movement."
+    ],
+    "correct": 3,
+    "explanation": "The revision applies alliteration purposefully.\nHint: Choose accuracy and effect, not extra length.",
+    "structuredExplanation": {
+      "summary": "The revision applies alliteration purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LE04-P-004",
+    "curriculumCode": "AC9E6LE04",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "alliteration misconception",
+    "printable": true,
+    "type": "single",
+    "question": "A student says, “Any repeated letter is alliteration.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Any repeated letter is alliteration.” Which response best corrects the claim?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The claim is too broad; the example shows that repeated initial consonant sounds link the words and echo circular movement.",
+      "Any repeated letter is alliteration.",
+      "Assonance depends on identical letters, not sounds.",
+      "Every action verb is onomatopoeia."
+    ],
+    "correct": 0,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
+    "structuredExplanation": {
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LE04-P-005",
+    "curriculumCode": "AC9E6LE04",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "assonance",
+    "printable": true,
+    "type": "single",
+    "question": "Read: “The low road home rolled through smoke.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “The low road home rolled through smoke.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -82,84 +142,24 @@ window.skillrPracticeQuestions = [
       "onomatopoeia",
       "repetition"
     ],
-    "correct": 2,
-    "explanation": "“crack—hiss—thud” is an example of onomatopoeia; here it creates sequence and impact.\nHint: Sound works through performance and stress, not spelling alone. Explain the choice within its line, stanza or narrative moment.",
+    "correct": 1,
+    "explanation": "assonance: Repeated long vowel sounds stretch the line and create a mournful tone.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "“crack—hiss—thud” is an example of onomatopoeia; here it creates sequence and impact.",
-      "hint": "Sound works through performance and stress, not spelling alone. Explain the choice within its line, stanza or narrative moment."
+      "summary": "assonance: Repeated long vowel sounds stretch the line and create a mournful tone.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LE04-P-004",
-    "curriculumCode": "AC9E6LE04",
-    "bank": "practice",
-    "stage": "recognise",
-    "skill": "misconception repair",
-    "printable": true,
-    "type": "single",
-    "question": "Which correction best fixes this idea: “Image interpreted literally only”?",
-    "audioPrompt": "Which correction best fixes this idea: “Image interpreted literally only”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Rhyme considered the only sound device",
-      "Device name replaces effect",
-      "Performance treated as separate from text",
-      "Consider figurative comparison."
-    ],
-    "correct": 3,
-    "explanation": "Consider figurative comparison. This fixes the misconception without creating a new rule that is too broad.\nHint: Check the actual language evidence rather than relying on an absolute rule.",
-    "structuredExplanation": {
-      "summary": "Consider figurative comparison. This fixes the misconception without creating a new rule that is too broad.",
-      "hint": "Check the actual language evidence rather than relying on an absolute rule."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LE04-P-005",
-    "curriculumCode": "AC9E6LE04",
-    "bank": "practice",
-    "stage": "recognise",
-    "skill": "visual image",
-    "printable": true,
-    "type": "single",
-    "question": "Which example would be most useful when explaining sound and imagery in literary texts in a sports-club discussion?",
-    "audioPrompt": "Which example would be most useful when explaining sound and imagery in literary texts in a sports-club discussion?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "a silver scar across the sky",
-      "cold currents curled",
-      "low road home",
-      "crack—hiss—thud"
-    ],
-    "correct": 0,
-    "explanation": "This example directly demonstrates visual image and can be explained using the language clue in the text.\nHint: Students analyse rhythm, rhyme, alliteration, assonance, onomatopoeia, repetition and sensory or figurative imagery and connect these choices to mood, pace, emphasis and theme.",
-    "structuredExplanation": {
-      "summary": "This example directly demonstrates visual image and can be explained using the language clue in the text.",
-      "hint": "Students analyse rhythm, rhyme, alliteration, assonance, onomatopoeia, repetition and sensory or figurative imagery and connect these choices to mood, pace, emphasis and theme."
-    },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-P-006",
     "curriculumCode": "AC9E6LE04",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "mark sound pattern",
+    "stage": "foundation",
+    "skill": "assonance effect",
     "printable": true,
     "type": "single",
-    "question": "In a library display, what can a line break do?",
-    "audioPrompt": "In a library display, what can a line break do?",
+    "question": "What does “The low road home rolled through smoke.” contribute to meaning or response?",
+    "audioPrompt": "What does “The low road home rolled through smoke.” contribute to meaning or response?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -167,29 +167,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Guarantee rhyme",
-      "Delay or emphasise meaning",
-      "Remove all rhythm",
-      "Prove one reading"
+      "Repeated initial consonant sounds link the words and echo circular movement.",
+      "Sound words create an immediate sequence of impact and reaction.",
+      "Repeated long vowel sounds stretch the line and create a mournful tone.",
+      "The repeated phrase sustains tension and emphasises endurance."
     ],
-    "correct": 1,
-    "explanation": "“Delay or emphasise meaning” is the strongest choice because it matches the language feature and the situation.\nHint: Sound works through performance and stress, not spelling alone. Explain the choice within its line, stanza or narrative moment.",
+    "correct": 2,
+    "explanation": "Repeated long vowel sounds stretch the line and create a mournful tone.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "“Delay or emphasise meaning” is the strongest choice because it matches the language feature and the situation.",
-      "hint": "Sound works through performance and stress, not spelling alone. Explain the choice within its line, stanza or narrative moment."
+      "summary": "Repeated long vowel sounds stretch the line and create a mournful tone.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-P-007",
     "curriculumCode": "AC9E6LE04",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "assonance",
+    "stage": "core",
+    "skill": "assonance revision",
     "printable": true,
     "type": "single",
-    "question": "Which term best matches this meaning: “repetition of vowel sounds”?",
-    "audioPrompt": "Which term best matches this meaning: “repetition of vowel sounds”?",
+    "question": "Which revision best applies assonance?",
+    "audioPrompt": "Which revision best applies assonance?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -197,29 +197,59 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "rhythm",
-      "imagery",
-      "assonance",
-      "It does not match the evidence in the example."
+      "Read the phrase aloud and connect the sound to the water movement.",
+      "Keep the sound order matched to the event order.",
+      "Pause slightly after each repeated unit when performing.",
+      "Underline the repeated vowel sound rather than matching spelling."
     ],
-    "correct": 2,
-    "explanation": "assonance means repetition of vowel sounds.\nHint: Match the definition precisely; do not choose a nearby term just because it is familiar.",
+    "correct": 3,
+    "explanation": "The revision applies assonance purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "assonance means repetition of vowel sounds.",
-      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
+      "summary": "The revision applies assonance purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-P-008",
     "curriculumCode": "AC9E6LE04",
     "bank": "practice",
-    "stage": "recognise",
+    "stage": "core",
+    "skill": "assonance misconception",
+    "printable": true,
+    "type": "single",
+    "question": "A student says, “Assonance depends on identical letters, not sounds.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Assonance depends on identical letters, not sounds.” Which response best corrects the claim?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The claim is too broad; the example shows that repeated long vowel sounds stretch the line and create a mournful tone.",
+      "Any repeated letter is alliteration.",
+      "Assonance depends on identical letters, not sounds.",
+      "Every action verb is onomatopoeia."
+    ],
+    "correct": 0,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
+    "structuredExplanation": {
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LE04-P-009",
+    "curriculumCode": "AC9E6LE04",
+    "bank": "practice",
+    "stage": "foundation",
     "skill": "onomatopoeia",
     "printable": true,
     "type": "single",
-    "question": "Read this example from a student council meeting: “crack—hiss—thud”. Which label best describes what the language is doing?",
-    "audioPrompt": "Read this example from a student council meeting: “crack—hiss—thud”. Which label best describes what the language is doing?",
+    "question": "Read: “Crack—hiss—thud: the branch struck the fire.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “Crack—hiss—thud: the branch struck the fire.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -228,58 +258,28 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "alliteration",
+      "onomatopoeia",
       "assonance",
-      "repetition",
-      "onomatopoeia"
+      "repetition"
     ],
-    "correct": 3,
-    "explanation": "“crack—hiss—thud” is an example of onomatopoeia; here it creates sequence and impact.\nHint: Sound works through performance and stress, not spelling alone. Explain the choice within its line, stanza or narrative moment.",
+    "correct": 1,
+    "explanation": "onomatopoeia: Sound words create an immediate sequence of impact and reaction.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "“crack—hiss—thud” is an example of onomatopoeia; here it creates sequence and impact.",
-      "hint": "Sound works through performance and stress, not spelling alone. Explain the choice within its line, stanza or narrative moment."
+      "summary": "onomatopoeia: Sound words create an immediate sequence of impact and reaction.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LE04-P-009",
-    "curriculumCode": "AC9E6LE04",
-    "bank": "practice",
-    "stage": "recognise",
-    "skill": "misconception repair",
-    "printable": true,
-    "type": "single",
-    "question": "Which correction best fixes this idea: “Rhyme considered the only sound device”?",
-    "audioPrompt": "Which correction best fixes this idea: “Rhyme considered the only sound device”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Analyse stress, repetition and internal sounds.",
-      "Rhyme considered the only sound device",
-      "Device name replaces effect",
-      "Performance treated as separate from text"
-    ],
-    "correct": 0,
-    "explanation": "Analyse stress, repetition and internal sounds. This fixes the misconception without creating a new rule that is too broad.\nHint: Check the actual language evidence rather than relying on an absolute rule.",
-    "structuredExplanation": {
-      "summary": "Analyse stress, repetition and internal sounds. This fixes the misconception without creating a new rule that is too broad.",
-      "hint": "Check the actual language evidence rather than relying on an absolute rule."
-    },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-P-010",
     "curriculumCode": "AC9E6LE04",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "visual image",
+    "stage": "foundation",
+    "skill": "onomatopoeia effect",
     "printable": true,
     "type": "single",
-    "question": "Which example would be most useful when explaining sound and imagery in literary texts in a environmental campaign?",
-    "audioPrompt": "Which example would be most useful when explaining sound and imagery in literary texts in a environmental campaign?",
+    "question": "What does “Crack—hiss—thud: the branch struck the fire.” contribute to meaning or response?",
+    "audioPrompt": "What does “Crack—hiss—thud: the branch struck the fire.” contribute to meaning or response?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -287,29 +287,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "cold currents curled",
-      "a silver scar across the sky",
-      "low road home",
-      "crack—hiss—thud"
+      "Repeated initial consonant sounds link the words and echo circular movement.",
+      "Repeated long vowel sounds stretch the line and create a mournful tone.",
+      "Sound words create an immediate sequence of impact and reaction.",
+      "The repeated phrase sustains tension and emphasises endurance."
     ],
-    "correct": 1,
-    "explanation": "This example directly demonstrates visual image and can be explained using the language clue in the text.\nHint: Students analyse rhythm, rhyme, alliteration, assonance, onomatopoeia, repetition and sensory or figurative imagery and connect these choices to mood, pace, emphasis and theme.",
+    "correct": 2,
+    "explanation": "Sound words create an immediate sequence of impact and reaction.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "This example directly demonstrates visual image and can be explained using the language clue in the text.",
-      "hint": "Students analyse rhythm, rhyme, alliteration, assonance, onomatopoeia, repetition and sensory or figurative imagery and connect these choices to mood, pace, emphasis and theme."
+      "summary": "Sound words create an immediate sequence of impact and reaction.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-P-011",
     "curriculumCode": "AC9E6LE04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "onomatopoeia",
+    "stage": "core",
+    "skill": "onomatopoeia revision",
     "printable": true,
     "type": "single",
-    "question": "A museum caption includes “crack—hiss—thud”. Why is this an effective example of onomatopoeia?",
-    "audioPrompt": "A museum caption includes “crack—hiss—thud”. Why is this an effective example of onomatopoeia?",
+    "question": "Which revision best applies onomatopoeia?",
+    "audioPrompt": "Which revision best applies onomatopoeia?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -317,29 +317,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It matches the purpose and the language clue in the example.",
-      "It creates sequence and impact and supports the purpose of the text.",
-      "Sound works through performance and stress, not spelling alone. Explain the choice within its line, stanza or narrative moment.",
-      "Different performances can be defensible when they follow punctuation, sound pattern and meaning evidence."
+      "Read the phrase aloud and connect the sound to the water movement.",
+      "Underline the repeated vowel sound rather than matching spelling.",
+      "Pause slightly after each repeated unit when performing.",
+      "Keep the sound order matched to the event order."
     ],
-    "correct": 1,
-    "explanation": "crack—hiss—thud works because creates sequence and impact.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 3,
+    "explanation": "The revision applies onomatopoeia purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "crack—hiss—thud works because creates sequence and impact.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "The revision applies onomatopoeia purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-P-012",
     "curriculumCode": "AC9E6LE04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "core",
+    "skill": "onomatopoeia misconception",
     "printable": true,
     "type": "single",
-    "question": "Why is “Use evidence and context.” a better rule than “Device name replaces effect” when reading a student council meeting?",
-    "audioPrompt": "Why is “Use evidence and context.” a better rule than “Device name replaces effect” when reading a student council meeting?",
+    "question": "A student says, “Every action verb is onomatopoeia.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Every action verb is onomatopoeia.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -347,29 +347,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because the longest rule is always the best one.",
-      "Because exceptions never matter in English.",
-      "Because it keeps the useful distinction without turning it into an absolute rule.",
-      "Because a rule is correct whenever it uses technical words."
+      "The claim is too broad; the example shows that sound words create an immediate sequence of impact and reaction.",
+      "Any repeated letter is alliteration.",
+      "Assonance depends on identical letters, not sounds.",
+      "Every action verb is onomatopoeia."
     ],
-    "correct": 2,
-    "explanation": "“Use evidence and context.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 0,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "“Use evidence and context.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-P-013",
     "curriculumCode": "AC9E6LE04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "visual image",
+    "stage": "foundation",
+    "skill": "repetition",
     "printable": true,
     "type": "single",
-    "question": "A local-history article includes “a silver scar across the sky”. Why is this an effective example of visual image?",
-    "audioPrompt": "A local-history article includes “a silver scar across the sky”. Why is this an effective example of visual image?",
+    "question": "Read: “Still waiting, still watching, still awake.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “Still waiting, still watching, still awake.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -377,29 +377,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It matches the purpose and the language clue in the example.",
-      "Sound works through performance and stress, not spelling alone. Explain the choice within its line, stanza or narrative moment.",
-      "Different performances can be defensible when they follow punctuation, sound pattern and meaning evidence.",
-      "It frames lightning as damage and supports the purpose of the text."
+      "alliteration",
+      "repetition",
+      "assonance",
+      "onomatopoeia"
     ],
-    "correct": 3,
-    "explanation": "a silver scar across the sky works because frames lightning as damage.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 1,
+    "explanation": "repetition: The repeated phrase sustains tension and emphasises endurance.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "a silver scar across the sky works because frames lightning as damage.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "repetition: The repeated phrase sustains tension and emphasises endurance.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-P-014",
     "curriculumCode": "AC9E6LE04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "foundation",
+    "skill": "repetition effect",
     "printable": true,
     "type": "single",
-    "question": "Why is “Consider figurative comparison.” a better rule than “Image interpreted literally only” when reading a environmental campaign?",
-    "audioPrompt": "Why is “Consider figurative comparison.” a better rule than “Image interpreted literally only” when reading a environmental campaign?",
+    "question": "What does “Still waiting, still watching, still awake.” contribute to meaning or response?",
+    "audioPrompt": "What does “Still waiting, still watching, still awake.” contribute to meaning or response?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -407,29 +407,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because it keeps the useful distinction without turning it into an absolute rule.",
-      "Because the longest rule is always the best one.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words."
+      "Repeated initial consonant sounds link the words and echo circular movement.",
+      "Repeated long vowel sounds stretch the line and create a mournful tone.",
+      "The repeated phrase sustains tension and emphasises endurance.",
+      "Sound words create an immediate sequence of impact and reaction."
     ],
-    "correct": 0,
-    "explanation": "“Consider figurative comparison.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 2,
+    "explanation": "The repeated phrase sustains tension and emphasises endurance.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "“Consider figurative comparison.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The repeated phrase sustains tension and emphasises endurance.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-P-015",
     "curriculumCode": "AC9E6LE04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "assonance",
+    "stage": "core",
+    "skill": "repetition revision",
     "printable": true,
     "type": "single",
-    "question": "A book-club discussion includes “low road home”. Why is this an effective example of assonance?",
-    "audioPrompt": "A book-club discussion includes “low road home”. Why is this an effective example of assonance?",
+    "question": "Which revision best applies repetition?",
+    "audioPrompt": "Which revision best applies repetition?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -437,29 +437,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It matches the purpose and the language clue in the example.",
-      "It stretches mournful vowel and supports the purpose of the text.",
-      "Sound works through performance and stress, not spelling alone. Explain the choice within its line, stanza or narrative moment.",
-      "Different performances can be defensible when they follow punctuation, sound pattern and meaning evidence."
+      "Read the phrase aloud and connect the sound to the water movement.",
+      "Underline the repeated vowel sound rather than matching spelling.",
+      "Keep the sound order matched to the event order.",
+      "Pause slightly after each repeated unit when performing."
     ],
-    "correct": 1,
-    "explanation": "low road home works because stretches mournful vowel.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 3,
+    "explanation": "The revision applies repetition purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "low road home works because stretches mournful vowel.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "The revision applies repetition purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-P-016",
     "curriculumCode": "AC9E6LE04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "core",
+    "skill": "repetition misconception",
     "printable": true,
     "type": "single",
-    "question": "Why is “Use evidence and context.” a better rule than “Device name replaces effect” when reading a excursion briefing?",
-    "audioPrompt": "Why is “Use evidence and context.” a better rule than “Device name replaces effect” when reading a excursion briefing?",
+    "question": "A student says, “Repetition is always an accidental error.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Repetition is always an accidental error.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -467,29 +467,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because the longest rule is always the best one.",
-      "Because exceptions never matter in English.",
-      "Because it keeps the useful distinction without turning it into an absolute rule.",
-      "Because a rule is correct whenever it uses technical words."
+      "The claim is too broad; the example shows that the repeated phrase sustains tension and emphasises endurance.",
+      "Any repeated letter is alliteration.",
+      "Assonance depends on identical letters, not sounds.",
+      "Every action verb is onomatopoeia."
     ],
-    "correct": 2,
-    "explanation": "“Use evidence and context.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 0,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "“Use evidence and context.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-P-017",
     "curriculumCode": "AC9E6LE04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "repetition",
+    "stage": "foundation",
+    "skill": "rhyme",
     "printable": true,
     "type": "single",
-    "question": "A design project includes “still waiting, still watching”. Why is this an effective example of repetition?",
-    "audioPrompt": "A design project includes “still waiting, still watching”. Why is this an effective example of repetition?",
+    "question": "Read: “The final words “light” and “night” echo across alternating lines.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “The final words “light” and “night” echo across alternating lines.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -497,29 +497,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It matches the purpose and the language clue in the example.",
-      "Sound works through performance and stress, not spelling alone. Explain the choice within its line, stanza or narrative moment.",
-      "Different performances can be defensible when they follow punctuation, sound pattern and meaning evidence.",
-      "It sustains tension and supports the purpose of the text."
+      "alliteration",
+      "rhyme",
+      "assonance",
+      "onomatopoeia"
     ],
-    "correct": 3,
-    "explanation": "still waiting, still watching works because sustains tension.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 1,
+    "explanation": "rhyme: The rhyme links ideas and gives the stanza a memorable pattern.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "still waiting, still watching works because sustains tension.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "rhyme: The rhyme links ideas and gives the stanza a memorable pattern.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-P-018",
     "curriculumCode": "AC9E6LE04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "foundation",
+    "skill": "rhyme effect",
     "printable": true,
     "type": "single",
-    "question": "Why is “Consider figurative comparison.” a better rule than “Image interpreted literally only” when reading a weather report?",
-    "audioPrompt": "Why is “Consider figurative comparison.” a better rule than “Image interpreted literally only” when reading a weather report?",
+    "question": "What does “The final words “light” and “night” echo across alternating lines.” contribute to meaning or response?",
+    "audioPrompt": "What does “The final words “light” and “night” echo across alternating lines.” contribute to meaning or response?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -527,29 +527,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because it keeps the useful distinction without turning it into an absolute rule.",
-      "Because the longest rule is always the best one.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words."
+      "Repeated initial consonant sounds link the words and echo circular movement.",
+      "Repeated long vowel sounds stretch the line and create a mournful tone.",
+      "The rhyme links ideas and gives the stanza a memorable pattern.",
+      "Sound words create an immediate sequence of impact and reaction."
     ],
-    "correct": 0,
-    "explanation": "“Consider figurative comparison.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 2,
+    "explanation": "The rhyme links ideas and gives the stanza a memorable pattern.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "“Consider figurative comparison.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The rhyme links ideas and gives the stanza a memorable pattern.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-P-019",
     "curriculumCode": "AC9E6LE04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "alliteration",
+    "stage": "application",
+    "skill": "rhyme revision",
     "printable": true,
     "type": "single",
-    "question": "A school assembly includes “cold currents curled”. Why is this an effective example of alliteration?",
-    "audioPrompt": "A school assembly includes “cold currents curled”. Why is this an effective example of alliteration?",
+    "question": "Which revision best applies rhyme?",
+    "audioPrompt": "Which revision best applies rhyme?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -557,29 +557,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It matches the purpose and the language clue in the example.",
-      "It links sound and circular movement and supports the purpose of the text.",
-      "Sound works through performance and stress, not spelling alone. Explain the choice within its line, stanza or narrative moment.",
-      "Different performances can be defensible when they follow punctuation, sound pattern and meaning evidence."
+      "Read the phrase aloud and connect the sound to the water movement.",
+      "Underline the repeated vowel sound rather than matching spelling.",
+      "Keep the sound order matched to the event order.",
+      "Explain the relationship between the rhyming words and meaning."
     ],
-    "correct": 1,
-    "explanation": "cold currents curled works because links sound and circular movement.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 3,
+    "explanation": "The revision applies rhyme purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "cold currents curled works because links sound and circular movement.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "The revision applies rhyme purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-P-020",
     "curriculumCode": "AC9E6LE04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "core",
+    "skill": "rhyme misconception",
     "printable": true,
     "type": "single",
-    "question": "Why is “Use evidence and context.” a better rule than “Device name replaces effect” when reading a peer feedback session?",
-    "audioPrompt": "Why is “Use evidence and context.” a better rule than “Device name replaces effect” when reading a peer feedback session?",
+    "question": "A student says, “Rhyme is the only sound feature in poetry.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Rhyme is the only sound feature in poetry.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -587,29 +587,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because the longest rule is always the best one.",
-      "Because exceptions never matter in English.",
-      "Because it keeps the useful distinction without turning it into an absolute rule.",
-      "Because a rule is correct whenever it uses technical words."
+      "The claim is too broad; the example shows that the rhyme links ideas and gives the stanza a memorable pattern.",
+      "Any repeated letter is alliteration.",
+      "Assonance depends on identical letters, not sounds.",
+      "Every action verb is onomatopoeia."
     ],
-    "correct": 2,
-    "explanation": "“Use evidence and context.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 0,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "“Use evidence and context.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-P-021",
     "curriculumCode": "AC9E6LE04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "foundation",
+    "skill": "rhythm",
     "printable": true,
     "type": "single",
-    "question": "A excursion briefing could use either “cold currents curled” or “heightens emphasis”. Which comparison is most accurate?",
-    "audioPrompt": "A excursion briefing could use either “cold currents curled” or “heightens emphasis”. Which comparison is most accurate?",
+    "question": "Read: “Three quick beats are followed by one long, stressed word: “Run, run, run—hide.”” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “Three quick beats are followed by one long, stressed word: “Run, run, run—hide.”” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -617,29 +617,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "The longer example is automatically more formal and therefore better.",
-      "“cold currents curled” shows alliteration, while “heightens emphasis” shows pause after repetition.",
-      "Neither example can be analysed unless the writer explains the answer."
+      "alliteration",
+      "rhythm",
+      "assonance",
+      "onomatopoeia"
     ],
-    "correct": 2,
-    "explanation": "The important difference is the language function: alliteration versus pause after repetition.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "correct": 1,
+    "explanation": "rhythm: The changing beat accelerates urgency then lands on the command.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: alliteration versus pause after repetition.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "rhythm: The changing beat accelerates urgency then lands on the command.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-P-022",
     "curriculumCode": "AC9E6LE04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "foundation",
+    "skill": "rhythm effect",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Performance treated as separate from text” in a design project?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Performance treated as separate from text” in a design project?",
+    "question": "What does “Three quick beats are followed by one long, stressed word: “Run, run, run—hide.”” contribute to meaning or response?",
+    "audioPrompt": "What does “Three quick beats are followed by one long, stressed word: “Run, run, run—hide.”” contribute to meaning or response?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -647,29 +647,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Rhyme considered the only sound device",
-      "Device name replaces effect",
-      "Performance treated as separate from text",
-      "Punctuation and lineation guide it."
+      "Repeated initial consonant sounds link the words and echo circular movement.",
+      "Repeated long vowel sounds stretch the line and create a mournful tone.",
+      "The changing beat accelerates urgency then lands on the command.",
+      "Sound words create an immediate sequence of impact and reaction."
     ],
-    "correct": 3,
-    "explanation": "Punctuation and lineation guide it. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Different performances can be defensible when they follow punctuation, sound pattern and meaning evidence.",
+    "correct": 2,
+    "explanation": "The changing beat accelerates urgency then lands on the command.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "Punctuation and lineation guide it. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Different performances can be defensible when they follow punctuation, sound pattern and meaning evidence."
+      "summary": "The changing beat accelerates urgency then lands on the command.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-P-023",
     "curriculumCode": "AC9E6LE04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "application",
+    "skill": "rhythm revision",
     "printable": true,
     "type": "single",
-    "question": "A weather report could use either “crack—hiss—thud” or “delays completion or isolates word”. Which comparison is most accurate?",
-    "audioPrompt": "A weather report could use either “crack—hiss—thud” or “delays completion or isolates word”. Which comparison is most accurate?",
+    "question": "Which revision best applies rhythm?",
+    "audioPrompt": "Which revision best applies rhythm?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -677,29 +677,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "“crack—hiss—thud” shows onomatopoeia, while “delays completion or isolates word” shows visual line break.",
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer."
+      "Read the phrase aloud and connect the sound to the water movement.",
+      "Underline the repeated vowel sound rather than matching spelling.",
+      "Keep the sound order matched to the event order.",
+      "Perform the line twice and justify the stronger stress pattern."
     ],
-    "correct": 0,
-    "explanation": "The important difference is the language function: onomatopoeia versus visual line break.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "correct": 3,
+    "explanation": "The revision applies rhythm purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: onomatopoeia versus visual line break.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "The revision applies rhythm purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-P-024",
     "curriculumCode": "AC9E6LE04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "core",
+    "skill": "rhythm misconception",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Rhyme considered the only sound device” in a school assembly?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Rhyme considered the only sound device” in a school assembly?",
+    "question": "A student says, “Rhythm is determined only by punctuation.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Rhythm is determined only by punctuation.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -707,29 +707,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Rhyme considered the only sound device",
-      "Analyse stress, repetition and internal sounds.",
-      "Device name replaces effect",
-      "Performance treated as separate from text"
+      "The claim is too broad; the example shows that the changing beat accelerates urgency then lands on the command.",
+      "Any repeated letter is alliteration.",
+      "Assonance depends on identical letters, not sounds.",
+      "Every action verb is onomatopoeia."
     ],
-    "correct": 1,
-    "explanation": "Analyse stress, repetition and internal sounds. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Different performances can be defensible when they follow punctuation, sound pattern and meaning evidence.",
+    "correct": 0,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "Analyse stress, repetition and internal sounds. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Different performances can be defensible when they follow punctuation, sound pattern and meaning evidence."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-P-025",
     "curriculumCode": "AC9E6LE04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "foundation",
+    "skill": "visual imagery",
     "printable": true,
     "type": "single",
-    "question": "A peer feedback session could use either “a silver scar across the sky” or “heightens emphasis”. Which comparison is most accurate?",
-    "audioPrompt": "A peer feedback session could use either “a silver scar across the sky” or “heightens emphasis”. Which comparison is most accurate?",
+    "question": "Read: “A silver scar split the purple sky.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “A silver scar split the purple sky.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -737,29 +737,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "The longer example is automatically more formal and therefore better.",
-      "“a silver scar across the sky” shows visual image, while “heightens emphasis” shows pause after repetition.",
-      "Neither example can be analysed unless the writer explains the answer."
+      "alliteration",
+      "visual imagery",
+      "assonance",
+      "onomatopoeia"
     ],
-    "correct": 2,
-    "explanation": "The important difference is the language function: visual image versus pause after repetition.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "correct": 1,
+    "explanation": "visual imagery: The image frames lightning as sudden damage across the sky.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: visual image versus pause after repetition.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "visual imagery: The image frames lightning as sudden damage across the sky.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-P-026",
     "curriculumCode": "AC9E6LE04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "core",
+    "skill": "visual imagery effect",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Performance treated as separate from text” in a cooking demonstration?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Performance treated as separate from text” in a cooking demonstration?",
+    "question": "What does “A silver scar split the purple sky.” contribute to meaning or response?",
+    "audioPrompt": "What does “A silver scar split the purple sky.” contribute to meaning or response?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -767,29 +767,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Rhyme considered the only sound device",
-      "Device name replaces effect",
-      "Performance treated as separate from text",
-      "Punctuation and lineation guide it."
+      "Repeated initial consonant sounds link the words and echo circular movement.",
+      "Repeated long vowel sounds stretch the line and create a mournful tone.",
+      "The image frames lightning as sudden damage across the sky.",
+      "Sound words create an immediate sequence of impact and reaction."
     ],
-    "correct": 3,
-    "explanation": "Punctuation and lineation guide it. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Different performances can be defensible when they follow punctuation, sound pattern and meaning evidence.",
+    "correct": 2,
+    "explanation": "The image frames lightning as sudden damage across the sky.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "Punctuation and lineation guide it. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Different performances can be defensible when they follow punctuation, sound pattern and meaning evidence."
+      "summary": "The image frames lightning as sudden damage across the sky.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-P-027",
     "curriculumCode": "AC9E6LE04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "application",
+    "skill": "visual imagery revision",
     "printable": true,
     "type": "single",
-    "question": "A arts review could use either “low road home” or “delays completion or isolates word”. Which comparison is most accurate?",
-    "audioPrompt": "A arts review could use either “low road home” or “delays completion or isolates word”. Which comparison is most accurate?",
+    "question": "Which revision best applies visual imagery?",
+    "audioPrompt": "Which revision best applies visual imagery?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -797,29 +797,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "“low road home” shows assonance, while “delays completion or isolates word” shows visual line break.",
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer."
+      "Read the phrase aloud and connect the sound to the water movement.",
+      "Underline the repeated vowel sound rather than matching spelling.",
+      "Keep the sound order matched to the event order.",
+      "Explain the associations of “scar”, not merely name imagery."
     ],
-    "correct": 0,
-    "explanation": "The important difference is the language function: assonance versus visual line break.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "correct": 3,
+    "explanation": "The revision applies visual imagery purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: assonance versus visual line break.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "The revision applies visual imagery purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-P-028",
     "curriculumCode": "AC9E6LE04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "core",
+    "skill": "visual imagery misconception",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Rhyme considered the only sound device” in a technology presentation?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Rhyme considered the only sound device” in a technology presentation?",
+    "question": "A student says, “Imagery must describe something visible literally.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Imagery must describe something visible literally.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -827,29 +827,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Rhyme considered the only sound device",
-      "Analyse stress, repetition and internal sounds.",
-      "Device name replaces effect",
-      "Performance treated as separate from text"
+      "The claim is too broad; the example shows that the image frames lightning as sudden damage across the sky.",
+      "Any repeated letter is alliteration.",
+      "Assonance depends on identical letters, not sounds.",
+      "Every action verb is onomatopoeia."
     ],
-    "correct": 1,
-    "explanation": "Analyse stress, repetition and internal sounds. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Different performances can be defensible when they follow punctuation, sound pattern and meaning evidence.",
+    "correct": 0,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "Analyse stress, repetition and internal sounds. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Different performances can be defensible when they follow punctuation, sound pattern and meaning evidence."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-P-029",
     "curriculumCode": "AC9E6LE04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "foundation",
+    "skill": "auditory imagery",
     "printable": true,
     "type": "single",
-    "question": "A playground consultation could use either “still waiting, still watching” or “heightens emphasis”. Which comparison is most accurate?",
-    "audioPrompt": "A playground consultation could use either “still waiting, still watching” or “heightens emphasis”. Which comparison is most accurate?",
+    "question": "Read: “Branches scraped and tapped against the glass.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “Branches scraped and tapped against the glass.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -857,29 +857,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "The longer example is automatically more formal and therefore better.",
-      "“still waiting, still watching” shows repetition, while “heightens emphasis” shows pause after repetition.",
-      "Neither example can be analysed unless the writer explains the answer."
+      "alliteration",
+      "auditory imagery",
+      "assonance",
+      "onomatopoeia"
     ],
-    "correct": 2,
-    "explanation": "The important difference is the language function: repetition versus pause after repetition.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "correct": 1,
+    "explanation": "auditory imagery: The detailed sounds place readers inside an uneasy night scene.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: repetition versus pause after repetition.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "auditory imagery: The detailed sounds place readers inside an uneasy night scene.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-P-030",
     "curriculumCode": "AC9E6LE04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "core",
+    "skill": "auditory imagery effect",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Performance treated as separate from text” in a class podcast?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Performance treated as separate from text” in a class podcast?",
+    "question": "What does “Branches scraped and tapped against the glass.” contribute to meaning or response?",
+    "audioPrompt": "What does “Branches scraped and tapped against the glass.” contribute to meaning or response?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -887,29 +887,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Rhyme considered the only sound device",
-      "Device name replaces effect",
-      "Performance treated as separate from text",
-      "Punctuation and lineation guide it."
+      "Repeated initial consonant sounds link the words and echo circular movement.",
+      "Repeated long vowel sounds stretch the line and create a mournful tone.",
+      "The detailed sounds place readers inside an uneasy night scene.",
+      "Sound words create an immediate sequence of impact and reaction."
     ],
-    "correct": 3,
-    "explanation": "Punctuation and lineation guide it. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Different performances can be defensible when they follow punctuation, sound pattern and meaning evidence.",
+    "correct": 2,
+    "explanation": "The detailed sounds place readers inside an uneasy night scene.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "Punctuation and lineation guide it. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Different performances can be defensible when they follow punctuation, sound pattern and meaning evidence."
+      "summary": "The detailed sounds place readers inside an uneasy night scene.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-P-031",
     "curriculumCode": "AC9E6LE04",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "perform two ways",
+    "stage": "application",
+    "skill": "auditory imagery revision",
     "printable": true,
     "type": "single",
-    "question": "You are editing a community garden proposal. What can a line break do?",
-    "audioPrompt": "You are editing a community garden proposal. What can a line break do?",
+    "question": "Which revision best applies auditory imagery?",
+    "audioPrompt": "Which revision best applies auditory imagery?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -917,29 +917,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Guarantee rhyme",
-      "Remove all rhythm",
-      "Prove one reading",
-      "Delay or emphasise meaning"
+      "Read the phrase aloud and connect the sound to the water movement.",
+      "Underline the repeated vowel sound rather than matching spelling.",
+      "Keep the sound order matched to the event order.",
+      "Choose verbs that distinguish harsh scraping from light tapping."
     ],
     "correct": 3,
-    "explanation": "“Delay or emphasise meaning” best fits the purpose and the language evidence in this new situation.\nHint: Different performances can be defensible when they follow punctuation, sound pattern and meaning evidence.",
+    "explanation": "The revision applies auditory imagery purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "“Delay or emphasise meaning” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Different performances can be defensible when they follow punctuation, sound pattern and meaning evidence."
+      "summary": "The revision applies auditory imagery purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-P-032",
     "curriculumCode": "AC9E6LE04",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "pause after repetition",
+    "stage": "core",
+    "skill": "auditory imagery misconception",
     "printable": true,
     "type": "single",
-    "question": "A sports-club discussion needs a clear example of pause after repetition. Which wording should you choose?",
-    "audioPrompt": "A sports-club discussion needs a clear example of pause after repetition. Which wording should you choose?",
+    "question": "A student says, “Auditory imagery must include rhyme.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Auditory imagery must include rhyme.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -947,29 +947,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "heightens emphasis",
-      "creates urgency",
-      "creates intimacy or threat",
-      "delays completion or isolates word"
+      "The claim is too broad; the example shows that the detailed sounds place readers inside an uneasy night scene.",
+      "Any repeated letter is alliteration.",
+      "Assonance depends on identical letters, not sounds.",
+      "Every action verb is onomatopoeia."
     ],
     "correct": 0,
-    "explanation": "“heightens emphasis” is the best choice because it demonstrates pause after repetition in context.\nHint: Choose the wording that performs the required job, not merely one that sounds fluent.",
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "“heightens emphasis” is the best choice because it demonstrates pause after repetition in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-P-033",
     "curriculumCode": "AC9E6LE04",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "assonance",
+    "stage": "foundation",
+    "skill": "tactile imagery",
     "printable": true,
     "type": "single",
-    "question": "While revising a library display, you need language that matches “repetition of vowel sounds”. Which concept should guide your choice?",
-    "audioPrompt": "While revising a library display, you need language that matches “repetition of vowel sounds”. Which concept should guide your choice?",
+    "question": "Read: “The rope burned a rough line across her palm.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “The rope burned a rough line across her palm.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -977,29 +977,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "rhythm",
+      "alliteration",
+      "tactile imagery",
       "assonance",
-      "imagery",
-      "It does not match the evidence in the example."
+      "onomatopoeia"
     ],
     "correct": 1,
-    "explanation": "assonance is the concept that matches repetition of vowel sounds.\nHint: Use the definition to guide the decision, then check it against the sentence.",
+    "explanation": "tactile imagery: Touch details make effort and pain physically imaginable.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "assonance is the concept that matches repetition of vowel sounds.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "tactile imagery: Touch details make effort and pain physically imaginable.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-P-034",
     "curriculumCode": "AC9E6LE04",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "mark sound pattern",
+    "stage": "core",
+    "skill": "tactile imagery effect",
     "printable": true,
     "type": "single",
-    "question": "You are editing a museum caption. What can a line break do?",
-    "audioPrompt": "You are editing a museum caption. What can a line break do?",
+    "question": "What does “The rope burned a rough line across her palm.” contribute to meaning or response?",
+    "audioPrompt": "What does “The rope burned a rough line across her palm.” contribute to meaning or response?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1007,29 +1007,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Guarantee rhyme",
-      "Remove all rhythm",
-      "Delay or emphasise meaning",
-      "Prove one reading"
+      "Repeated initial consonant sounds link the words and echo circular movement.",
+      "Repeated long vowel sounds stretch the line and create a mournful tone.",
+      "Touch details make effort and pain physically imaginable.",
+      "Sound words create an immediate sequence of impact and reaction."
     ],
     "correct": 2,
-    "explanation": "“Delay or emphasise meaning” best fits the purpose and the language evidence in this new situation.\nHint: Different performances can be defensible when they follow punctuation, sound pattern and meaning evidence.",
+    "explanation": "Touch details make effort and pain physically imaginable.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "“Delay or emphasise meaning” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Different performances can be defensible when they follow punctuation, sound pattern and meaning evidence."
+      "summary": "Touch details make effort and pain physically imaginable.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-P-035",
     "curriculumCode": "AC9E6LE04",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "accelerating pace",
+    "stage": "application",
+    "skill": "tactile imagery revision",
     "printable": true,
     "type": "single",
-    "question": "A student council meeting needs a clear example of accelerating pace. Which wording should you choose?",
-    "audioPrompt": "A student council meeting needs a clear example of accelerating pace. Which wording should you choose?",
+    "question": "Which revision best applies tactile imagery?",
+    "audioPrompt": "Which revision best applies tactile imagery?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1037,29 +1037,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "heightens emphasis",
-      "creates intimacy or threat",
-      "delays completion or isolates word",
-      "creates urgency"
+      "Read the phrase aloud and connect the sound to the water movement.",
+      "Underline the repeated vowel sound rather than matching spelling.",
+      "Keep the sound order matched to the event order.",
+      "Link “burned” and “rough” to the character’s struggle."
     ],
     "correct": 3,
-    "explanation": "“creates urgency” is the best choice because it demonstrates accelerating pace in context.\nHint: Choose the wording that performs the required job, not merely one that sounds fluent.",
+    "explanation": "The revision applies tactile imagery purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "“creates urgency” is the best choice because it demonstrates accelerating pace in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "The revision applies tactile imagery purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-P-036",
     "curriculumCode": "AC9E6LE04",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "assonance",
+    "stage": "challenge",
+    "skill": "tactile imagery misconception",
     "printable": true,
     "type": "single",
-    "question": "While revising a local-history article, you need language that matches “repetition of vowel sounds”. Which concept should guide your choice?",
-    "audioPrompt": "While revising a local-history article, you need language that matches “repetition of vowel sounds”. Which concept should guide your choice?",
+    "question": "A student says, “Imagery can appeal only to sight and sound.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Imagery can appeal only to sight and sound.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1067,29 +1067,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "assonance",
-      "rhythm",
-      "imagery",
-      "It does not match the evidence in the example."
+      "The claim is too broad; the example shows that touch details make effort and pain physically imaginable.",
+      "Any repeated letter is alliteration.",
+      "Assonance depends on identical letters, not sounds.",
+      "Every action verb is onomatopoeia."
     ],
     "correct": 0,
-    "explanation": "assonance is the concept that matches repetition of vowel sounds.\nHint: Use the definition to guide the decision, then check it against the sentence.",
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "assonance is the concept that matches repetition of vowel sounds.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-P-037",
     "curriculumCode": "AC9E6LE04",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "analyse repetition",
+    "stage": "foundation",
+    "skill": "figurative image",
     "printable": true,
     "type": "single",
-    "question": "You are editing a environmental campaign. What can a line break do?",
-    "audioPrompt": "You are editing a environmental campaign. What can a line break do?",
+    "question": "Read: “The moon was a watchful eye above the camp.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “The moon was a watchful eye above the camp.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1097,29 +1097,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Guarantee rhyme",
-      "Delay or emphasise meaning",
-      "Remove all rhythm",
-      "Prove one reading"
+      "alliteration",
+      "figurative image",
+      "assonance",
+      "onomatopoeia"
     ],
     "correct": 1,
-    "explanation": "“Delay or emphasise meaning” best fits the purpose and the language evidence in this new situation.\nHint: Different performances can be defensible when they follow punctuation, sound pattern and meaning evidence.",
+    "explanation": "figurative image: The metaphor creates a feeling of surveillance and unease.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "“Delay or emphasise meaning” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Different performances can be defensible when they follow punctuation, sound pattern and meaning evidence."
+      "summary": "figurative image: The metaphor creates a feeling of surveillance and unease.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-P-038",
     "curriculumCode": "AC9E6LE04",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "visual line break",
+    "stage": "core",
+    "skill": "figurative image effect",
     "printable": true,
     "type": "single",
-    "question": "A book-club discussion needs a clear example of visual line break. Which wording should you choose?",
-    "audioPrompt": "A book-club discussion needs a clear example of visual line break. Which wording should you choose?",
+    "question": "What does “The moon was a watchful eye above the camp.” contribute to meaning or response?",
+    "audioPrompt": "What does “The moon was a watchful eye above the camp.” contribute to meaning or response?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1127,29 +1127,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "creates urgency",
-      "heightens emphasis",
-      "delays completion or isolates word",
-      "creates intimacy or threat"
+      "Repeated initial consonant sounds link the words and echo circular movement.",
+      "Repeated long vowel sounds stretch the line and create a mournful tone.",
+      "The metaphor creates a feeling of surveillance and unease.",
+      "Sound words create an immediate sequence of impact and reaction."
     ],
     "correct": 2,
-    "explanation": "“delays completion or isolates word” is the best choice because it demonstrates visual line break in context.\nHint: Choose the wording that performs the required job, not merely one that sounds fluent.",
+    "explanation": "The metaphor creates a feeling of surveillance and unease.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "“delays completion or isolates word” is the best choice because it demonstrates visual line break in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "The metaphor creates a feeling of surveillance and unease.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-P-039",
     "curriculumCode": "AC9E6LE04",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "assonance",
+    "stage": "application",
+    "skill": "figurative image revision",
     "printable": true,
     "type": "single",
-    "question": "While revising a excursion briefing, you need language that matches “repetition of vowel sounds”. Which concept should guide your choice?",
-    "audioPrompt": "While revising a excursion briefing, you need language that matches “repetition of vowel sounds”. Which concept should guide your choice?",
+    "question": "Which revision best applies figurative image?",
+    "audioPrompt": "Which revision best applies figurative image?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1157,29 +1157,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "rhythm",
-      "imagery",
-      "It does not match the evidence in the example.",
-      "assonance"
+      "Read the phrase aloud and connect the sound to the water movement.",
+      "Underline the repeated vowel sound rather than matching spelling.",
+      "Keep the sound order matched to the event order.",
+      "Connect the eye image to the character’s fear of being observed."
     ],
     "correct": 3,
-    "explanation": "assonance is the concept that matches repetition of vowel sounds.\nHint: Use the definition to guide the decision, then check it against the sentence.",
+    "explanation": "The revision applies figurative image purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "assonance is the concept that matches repetition of vowel sounds.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "The revision applies figurative image purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE04-P-040",
     "curriculumCode": "AC9E6LE04",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "explain imagery",
+    "stage": "challenge",
+    "skill": "figurative image misconception",
     "printable": true,
     "type": "single",
-    "question": "You are editing a design project. What can a line break do?",
-    "audioPrompt": "You are editing a design project. What can a line break do?",
+    "question": "A student says, “A metaphor should be interpreted literally.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “A metaphor should be interpreted literally.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1187,18 +1187,258 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Delay or emphasise meaning",
-      "Guarantee rhyme",
-      "Remove all rhythm",
-      "Prove one reading"
+      "The claim is too broad; the example shows that the metaphor creates a feeling of surveillance and unease.",
+      "Any repeated letter is alliteration.",
+      "Assonance depends on identical letters, not sounds.",
+      "Every action verb is onomatopoeia."
     ],
     "correct": 0,
-    "explanation": "“Delay or emphasise meaning” best fits the purpose and the language evidence in this new situation.\nHint: Different performances can be defensible when they follow punctuation, sound pattern and meaning evidence.",
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "“Delay or emphasise meaning” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Different performances can be defensible when they follow punctuation, sound pattern and meaning evidence."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LE04-P-041",
+    "curriculumCode": "AC9E6LE04",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "line break",
+    "printable": true,
+    "type": "single",
+    "question": "Read: “The sentence pauses after “I almost told—” before continuing on the next line.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “The sentence pauses after “I almost told—” before continuing on the next line.” Which description best identifies the relevant choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "alliteration",
+      "line break",
+      "assonance",
+      "onomatopoeia"
+    ],
+    "correct": 1,
+    "explanation": "line break: The break delays completion and highlights hesitation.\nHint: Name the feature precisely.",
+    "structuredExplanation": {
+      "summary": "line break: The break delays completion and highlights hesitation.",
+      "hint": "Name the feature precisely."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LE04-P-042",
+    "curriculumCode": "AC9E6LE04",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "line break effect",
+    "printable": true,
+    "type": "single",
+    "question": "What does “The sentence pauses after “I almost told—” before continuing on the next line.” contribute to meaning or response?",
+    "audioPrompt": "What does “The sentence pauses after “I almost told—” before continuing on the next line.” contribute to meaning or response?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Repeated initial consonant sounds link the words and echo circular movement.",
+      "Repeated long vowel sounds stretch the line and create a mournful tone.",
+      "The break delays completion and highlights hesitation.",
+      "Sound words create an immediate sequence of impact and reaction."
+    ],
+    "correct": 2,
+    "explanation": "The break delays completion and highlights hesitation.\nHint: Link exact evidence to its effect.",
+    "structuredExplanation": {
+      "summary": "The break delays completion and highlights hesitation.",
+      "hint": "Link exact evidence to its effect."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LE04-P-043",
+    "curriculumCode": "AC9E6LE04",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "line break revision",
+    "printable": true,
+    "type": "single",
+    "question": "Which revision best applies line break?",
+    "audioPrompt": "Which revision best applies line break?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Read the phrase aloud and connect the sound to the water movement.",
+      "Underline the repeated vowel sound rather than matching spelling.",
+      "Keep the sound order matched to the event order.",
+      "Perform the pause without treating the next line as unrelated."
+    ],
+    "correct": 3,
+    "explanation": "The revision applies line break purposefully.\nHint: Choose accuracy and effect, not extra length.",
+    "structuredExplanation": {
+      "summary": "The revision applies line break purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LE04-P-044",
+    "curriculumCode": "AC9E6LE04",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "line break misconception",
+    "printable": true,
+    "type": "single",
+    "question": "A student says, “Line breaks have no effect on reading or meaning.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Line breaks have no effect on reading or meaning.” Which response best corrects the claim?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The claim is too broad; the example shows that the break delays completion and highlights hesitation.",
+      "Any repeated letter is alliteration.",
+      "Assonance depends on identical letters, not sounds.",
+      "Every action verb is onomatopoeia."
+    ],
+    "correct": 0,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
+    "structuredExplanation": {
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LE04-P-045",
+    "curriculumCode": "AC9E6LE04",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "sound–image synthesis",
+    "printable": true,
+    "type": "single",
+    "question": "Read: “Soft sibilant sounds accompany an image of mist covering the river.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “Soft sibilant sounds accompany an image of mist covering the river.” Which description best identifies the relevant choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "alliteration",
+      "sound–image synthesis",
+      "assonance",
+      "onomatopoeia"
+    ],
+    "correct": 1,
+    "explanation": "sound–image synthesis: The sound and image work together to create secrecy and calm.\nHint: Name the feature precisely.",
+    "structuredExplanation": {
+      "summary": "sound–image synthesis: The sound and image work together to create secrecy and calm.",
+      "hint": "Name the feature precisely."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LE04-P-046",
+    "curriculumCode": "AC9E6LE04",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "sound–image synthesis effect",
+    "printable": true,
+    "type": "single",
+    "question": "What does “Soft sibilant sounds accompany an image of mist covering the river.” contribute to meaning or response?",
+    "audioPrompt": "What does “Soft sibilant sounds accompany an image of mist covering the river.” contribute to meaning or response?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Repeated initial consonant sounds link the words and echo circular movement.",
+      "Repeated long vowel sounds stretch the line and create a mournful tone.",
+      "The sound and image work together to create secrecy and calm.",
+      "Sound words create an immediate sequence of impact and reaction."
+    ],
+    "correct": 2,
+    "explanation": "The sound and image work together to create secrecy and calm.\nHint: Link exact evidence to its effect.",
+    "structuredExplanation": {
+      "summary": "The sound and image work together to create secrecy and calm.",
+      "hint": "Link exact evidence to its effect."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LE04-P-047",
+    "curriculumCode": "AC9E6LE04",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "sound–image synthesis revision",
+    "printable": true,
+    "type": "single",
+    "question": "Which revision best applies sound–image synthesis?",
+    "audioPrompt": "Which revision best applies sound–image synthesis?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Read the phrase aloud and connect the sound to the water movement.",
+      "Underline the repeated vowel sound rather than matching spelling.",
+      "Keep the sound order matched to the event order.",
+      "Explain the combined pattern and its effect on the scene."
+    ],
+    "correct": 3,
+    "explanation": "The revision applies sound–image synthesis purposefully.\nHint: Choose accuracy and effect, not extra length.",
+    "structuredExplanation": {
+      "summary": "The revision applies sound–image synthesis purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LE04-P-048",
+    "curriculumCode": "AC9E6LE04",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "sound–image synthesis misconception",
+    "printable": true,
+    "type": "single",
+    "question": "A student says, “Naming two devices is enough without explaining their relationship.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Naming two devices is enough without explaining their relationship.” Which response best corrects the claim?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The claim is too broad; the example shows that the sound and image work together to create secrecy and calm.",
+      "Any repeated letter is alliteration.",
+      "Assonance depends on identical letters, not sounds.",
+      "Every action verb is onomatopoeia."
+    ],
+    "correct": 0,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
+    "structuredExplanation": {
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
+    },
+    "qualitySchema": "research-aligned-original-v2"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

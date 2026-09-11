@@ -4,12 +4,12 @@ window.skillrTestQuestions = [
     "id": "AC9E6LA04-T-001",
     "curriculumCode": "AC9E6LA04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "balanced",
+    "stage": "independent",
+    "skill": "purposeful repetition",
     "printable": true,
     "type": "single",
-    "question": "A community radio segment includes “the habitat … this environment … it”. Which description best fits this wording?",
-    "audioPrompt": "A community radio segment includes “the habitat … this environment … it”. Which description best fits this wording?",
+    "question": "In a museum label, you read: “Mangrove roots trap sediment. These roots also shelter young fish.” Which analysis is most accurate?",
+    "audioPrompt": "In a museum label, you read: “Mangrove roots trap sediment. These roots also shelter young fish.” Which analysis is most accurate?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -17,29 +17,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "balanced",
-      "repetition",
-      "substitution",
-      "pronoun reference"
+      "synonym chain: A related expression maintains the topic while adding meaning.",
+      "purposeful repetition: Repeating “roots” keeps the technical focus exact across sentences.",
+      "category link: The superordinate term “birds” groups the named species.",
+      "part–whole link: “Chain” and “gears” are associated parts of the bicycle, sustaining the topic."
     ],
-    "correct": 0,
-    "explanation": "The wording best matches balanced.\nHint: Identify the language choice first, then check its effect in this context.",
+    "correct": 1,
+    "explanation": "purposeful repetition is supported by the wording and its function in the whole sentence.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches balanced.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "purposeful repetition is supported by the wording and its function in the whole sentence.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-T-002",
     "curriculumCode": "AC9E6LA04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "reference",
+    "stage": "independent",
+    "skill": "synonym chain-purpose",
     "printable": true,
     "type": "single",
-    "question": "In a wildlife-centre report, which term matches this meaning: “language pointing to another element”?",
-    "audioPrompt": "In a wildlife-centre report, which term matches this meaning: “language pointing to another element”?",
+    "question": "For a museum label, which editing decision best demonstrates control of synonym chain?",
+    "audioPrompt": "For a museum label, which editing decision best demonstrates control of synonym chain?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -47,29 +47,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "substitution",
-      "reference",
-      "ellipsis",
-      "It does not match the evidence in the example."
+      "Mangrove roots trap sediment. These roots also create sheltered habitat.",
+      "Kookaburras and rosellas visited. These native birds fed near the fence.",
+      "The storm damaged the coast. This severe weather event also closed roads.",
+      "The bicycle needed repair because its chain had slipped from the gears."
     ],
-    "correct": 1,
-    "explanation": "reference is the precise term for language pointing to another element.\nHint: Distinguish closely related terms by their definitions.",
+    "correct": 2,
+    "explanation": "This option deliberately applies synonym chain without changing the intended meaning.\nHint: Reject choices that merely add length or sound impressive.",
     "structuredExplanation": {
-      "summary": "reference is the precise term for language pointing to another element.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This option deliberately applies synonym chain without changing the intended meaning.",
+      "hint": "Reject choices that merely add length or sound impressive."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-T-003",
     "curriculumCode": "AC9E6LA04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "cohesion through reference and lexical chains",
+    "stage": "transfer",
+    "skill": "category link-reasoning",
     "printable": true,
     "type": "single",
-    "question": "For a regional youth forum, which connective best signals a result?",
-    "audioPrompt": "For a regional youth forum, which connective best signals a result?",
+    "question": "While reviewing a museum label, which statement should an editor reject about “Kookaburras and rosellas visited the garden. These birds fed near the fence.”?",
+    "audioPrompt": "While reviewing a museum label, which statement should an editor reject about “Kookaburras and rosellas visited the garden. These birds fed near the fence.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -77,29 +77,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "however",
-      "meanwhile",
-      "therefore",
-      "although"
+      "All repeated nouns should be replaced with pronouns.",
+      "Any two words with similar meanings can be swapped in every context.",
+      "Word association means the words must rhyme.",
+      "A category word must repeat every original noun."
     ],
-    "correct": 2,
-    "explanation": "“therefore” is supported by the language evidence and purpose of the text.\nHint: Use technical repetition when precision matters; use substitution only where reference remains unmistakable.",
+    "correct": 3,
+    "explanation": "The rejected statement is an inaccurate generalisation about category link.\nHint: Select the claim contradicted by the evidence or by the language rule.",
     "structuredExplanation": {
-      "summary": "“therefore” is supported by the language evidence and purpose of the text.",
-      "hint": "Use technical repetition when precision matters; use substitution only where reference remains unmistakable."
+      "summary": "The rejected statement is an inaccurate generalisation about category link.",
+      "hint": "Select the claim contradicted by the evidence or by the language rule."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-T-004",
     "curriculumCode": "AC9E6LA04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "part–whole link-explanation",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a coastal-monitoring update says, “Pronoun has several antecedents”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a coastal-monitoring update says, “Pronoun has several antecedents”. Which response is most accurate?",
+    "question": "For a museum label, which explanation would earn full credit for the language choice in “The bicycle needed repair. Its chain had slipped from the gears.”?",
+    "audioPrompt": "For a museum label, which explanation would earn full credit for the language choice in “The bicycle needed repair. Its chain had slipped from the gears.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -107,29 +107,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Every repetition removed",
-      "Pronoun has several antecedents",
-      "Ellipsis removes essential meaning",
-      "Specify the noun."
+      "“Chain” and “gears” are associated parts of the bicycle, sustaining the topic.",
+      "Repeating “roots” keeps the technical focus exact across sentences.",
+      "A related expression maintains the topic while adding meaning.",
+      "The superordinate term “birds” groups the named species."
     ],
-    "correct": 3,
-    "explanation": "Specify the noun. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "correct": 0,
+    "explanation": "“Chain” and “gears” are associated parts of the bicycle, sustaining the topic.\nHint: A full-credit explanation links exact evidence to meaning or purpose.",
     "structuredExplanation": {
-      "summary": "Specify the noun. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "“Chain” and “gears” are associated parts of the bicycle, sustaining the topic.",
+      "hint": "A full-credit explanation links exact evidence to meaning or purpose."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-T-005",
     "curriculumCode": "AC9E6LA04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "balanced",
+    "stage": "independent",
+    "skill": "antonym contrast",
     "printable": true,
     "type": "single",
-    "question": "A heritage trail guide includes “the habitat … this environment … it”. Which description best fits this wording?",
-    "audioPrompt": "A heritage trail guide includes “the habitat … this environment … it”. Which description best fits this wording?",
+    "question": "In a school report, you read: “The northern slope was dry, but the southern slope remained wet.” Which analysis is most accurate?",
+    "audioPrompt": "In a school report, you read: “The northern slope was dry, but the southern slope remained wet.” Which analysis is most accurate?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -137,29 +137,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "balanced",
-      "repetition",
-      "substitution",
-      "pronoun reference"
+      "purposeful repetition: Repeating “roots” keeps the technical focus exact across sentences.",
+      "antonym contrast: The antonyms create a clear contrast within the same topic.",
+      "synonym chain: A related expression maintains the topic while adding meaning.",
+      "category link: The superordinate term “birds” groups the named species."
     ],
-    "correct": 0,
-    "explanation": "The wording best matches balanced.\nHint: Identify the language choice first, then check its effect in this context.",
+    "correct": 1,
+    "explanation": "antonym contrast is supported by the wording and its function in the whole sentence.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches balanced.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "antonym contrast is supported by the wording and its function in the whole sentence.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-T-006",
     "curriculumCode": "AC9E6LA04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "substitution",
+    "stage": "independent",
+    "skill": "pronoun reference-purpose",
     "printable": true,
     "type": "single",
-    "question": "In a public-transport survey, which term matches this meaning: “replacement by a word or phrase standing for earlier content”?",
-    "audioPrompt": "In a public-transport survey, which term matches this meaning: “replacement by a word or phrase standing for earlier content”?",
+    "question": "For a school report, which editing decision best demonstrates control of pronoun reference?",
+    "audioPrompt": "For a school report, which editing decision best demonstrates control of pronoun reference?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -167,29 +167,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "reference",
-      "substitution",
-      "ellipsis",
-      "It does not match the evidence in the example."
+      "Mangrove roots trap sediment. These roots also create sheltered habitat.",
+      "The storm damaged the coast. This severe weather event also closed roads.",
+      "Ava placed the seedling beside the stake and tied the seedling loosely.",
+      "Kookaburras and rosellas visited. These native birds fed near the fence."
     ],
-    "correct": 1,
-    "explanation": "substitution is the precise term for replacement by a word or phrase standing for earlier content.\nHint: Distinguish closely related terms by their definitions.",
+    "correct": 2,
+    "explanation": "This option deliberately applies pronoun reference without changing the intended meaning.\nHint: Reject choices that merely add length or sound impressive.",
     "structuredExplanation": {
-      "summary": "substitution is the precise term for replacement by a word or phrase standing for earlier content.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This option deliberately applies pronoun reference without changing the intended meaning.",
+      "hint": "Reject choices that merely add length or sound impressive."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-T-007",
     "curriculumCode": "AC9E6LA04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "cohesion through reference and lexical chains",
+    "stage": "transfer",
+    "skill": "demonstrative reference-reasoning",
     "printable": true,
     "type": "single",
-    "question": "For a festival review, which connective best signals a result?",
-    "audioPrompt": "For a festival review, which connective best signals a result?",
+    "question": "While reviewing a school report, which statement should an editor reject about “The creek overflowed after heavy rain. This caused the path to close.”?",
+    "audioPrompt": "While reviewing a school report, which statement should an editor reject about “The creek overflowed after heavy rain. This caused the path to close.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -197,29 +197,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "however",
-      "meanwhile",
-      "therefore",
-      "although"
+      "All repeated nouns should be replaced with pronouns.",
+      "Any two words with similar meanings can be swapped in every context.",
+      "A category word must repeat every original noun.",
+      "“This” always has a clear meaning on its own."
     ],
-    "correct": 2,
-    "explanation": "“therefore” is supported by the language evidence and purpose of the text.\nHint: Use technical repetition when precision matters; use substitution only where reference remains unmistakable.",
+    "correct": 3,
+    "explanation": "The rejected statement is an inaccurate generalisation about demonstrative reference.\nHint: Select the claim contradicted by the evidence or by the language rule.",
     "structuredExplanation": {
-      "summary": "“therefore” is supported by the language evidence and purpose of the text.",
-      "hint": "Use technical repetition when precision matters; use substitution only where reference remains unmistakable."
+      "summary": "The rejected statement is an inaccurate generalisation about demonstrative reference.",
+      "hint": "Select the claim contradicted by the evidence or by the language rule."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-T-008",
     "curriculumCode": "AC9E6LA04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "ambiguous reference-explanation",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a emergency-preparedness talk says, “Pronoun has several antecedents”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a emergency-preparedness talk says, “Pronoun has several antecedents”. Which response is most accurate?",
+    "question": "For a school report, which explanation would earn full credit for the language choice in “Lena told Priya that she had misread the scale.”?",
+    "audioPrompt": "For a school report, which explanation would earn full credit for the language choice in “Lena told Priya that she had misread the scale.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -227,29 +227,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Every repetition removed",
-      "Pronoun has several antecedents",
-      "Ellipsis removes essential meaning",
-      "Specify the noun."
+      "“She” could refer to either person, so the participant chain breaks.",
+      "Repeating “roots” keeps the technical focus exact across sentences.",
+      "A related expression maintains the topic while adding meaning.",
+      "The superordinate term “birds” groups the named species."
     ],
-    "correct": 3,
-    "explanation": "Specify the noun. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "correct": 0,
+    "explanation": "“She” could refer to either person, so the participant chain breaks.\nHint: A full-credit explanation links exact evidence to meaning or purpose.",
     "structuredExplanation": {
-      "summary": "Specify the noun. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "“She” could refer to either person, so the participant chain breaks.",
+      "hint": "A full-credit explanation links exact evidence to meaning or purpose."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-T-009",
     "curriculumCode": "AC9E6LA04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "balanced",
+    "stage": "independent",
+    "skill": "semantic field",
     "printable": true,
     "type": "single",
-    "question": "A water-saving brochure includes “the habitat … this environment … it”. Which description best fits this wording?",
-    "audioPrompt": "A water-saving brochure includes “the habitat … this environment … it”. Which description best fits this wording?",
+    "question": "In a community webpage, you read: “Seedlings, canopy, roots and habitat recur throughout the rainforest report.” Which analysis is most accurate?",
+    "audioPrompt": "In a community webpage, you read: “Seedlings, canopy, roots and habitat recur throughout the rainforest report.” Which analysis is most accurate?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -257,29 +257,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "balanced",
-      "repetition",
-      "substitution",
-      "pronoun reference"
+      "purposeful repetition: Repeating “roots” keeps the technical focus exact across sentences.",
+      "semantic field: The related vocabulary forms a lexical chain around the report’s subject.",
+      "synonym chain: A related expression maintains the topic while adding meaning.",
+      "category link: The superordinate term “birds” groups the named species."
     ],
-    "correct": 0,
-    "explanation": "The wording best matches balanced.\nHint: Identify the language choice first, then check its effect in this context.",
+    "correct": 1,
+    "explanation": "semantic field is supported by the wording and its function in the whole sentence.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches balanced.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "semantic field is supported by the wording and its function in the whole sentence.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-T-010",
     "curriculumCode": "AC9E6LA04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "ellipsis",
+    "stage": "independent",
+    "skill": "controlled variation-purpose",
     "printable": true,
     "type": "single",
-    "question": "In a local council submission, which term matches this meaning: “omission of recoverable words”?",
-    "audioPrompt": "In a local council submission, which term matches this meaning: “omission of recoverable words”?",
+    "question": "For a community webpage, which editing decision best demonstrates control of controlled variation?",
+    "audioPrompt": "For a community webpage, which editing decision best demonstrates control of controlled variation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -287,29 +287,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "reference",
-      "ellipsis",
-      "substitution",
-      "It does not match the evidence in the example."
+      "Mangrove roots trap sediment. These roots also create sheltered habitat.",
+      "The storm damaged the coast. This severe weather event also closed roads.",
+      "The habitat supports frogs. This wetland habitat also filters water.",
+      "Kookaburras and rosellas visited. These native birds fed near the fence."
     ],
-    "correct": 1,
-    "explanation": "ellipsis is the precise term for omission of recoverable words.\nHint: Distinguish closely related terms by their definitions.",
+    "correct": 2,
+    "explanation": "This option deliberately applies controlled variation without changing the intended meaning.\nHint: Reject choices that merely add length or sound impressive.",
     "structuredExplanation": {
-      "summary": "ellipsis is the precise term for omission of recoverable words.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This option deliberately applies controlled variation without changing the intended meaning.",
+      "hint": "Reject choices that merely add length or sound impressive."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-T-011",
     "curriculumCode": "AC9E6LA04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "cohesion through reference and lexical chains",
+    "stage": "transfer",
+    "skill": "broken lexical chain-reasoning",
     "printable": true,
     "type": "single",
-    "question": "For a marine-research diary, which connective best signals a result?",
-    "audioPrompt": "For a marine-research diary, which connective best signals a result?",
+    "question": "While reviewing a community webpage, which statement should an editor reject about “The report shifts from “solar panels” to “machines” and then “things”.”?",
+    "audioPrompt": "While reviewing a community webpage, which statement should an editor reject about “The report shifts from “solar panels” to “machines” and then “things”.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -317,29 +317,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "however",
-      "meanwhile",
-      "therefore",
-      "although"
+      "All repeated nouns should be replaced with pronouns.",
+      "Any two words with similar meanings can be swapped in every context.",
+      "A category word must repeat every original noun.",
+      "Any substitute automatically improves cohesion."
     ],
-    "correct": 2,
-    "explanation": "“therefore” is supported by the language evidence and purpose of the text.\nHint: Use technical repetition when precision matters; use substitution only where reference remains unmistakable.",
+    "correct": 3,
+    "explanation": "The rejected statement is an inaccurate generalisation about broken lexical chain.\nHint: Select the claim contradicted by the evidence or by the language rule.",
     "structuredExplanation": {
-      "summary": "“therefore” is supported by the language evidence and purpose of the text.",
-      "hint": "Use technical repetition when precision matters; use substitution only where reference remains unmistakable."
+      "summary": "The rejected statement is an inaccurate generalisation about broken lexical chain.",
+      "hint": "Select the claim contradicted by the evidence or by the language rule."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-T-012",
     "curriculumCode": "AC9E6LA04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "paragraph link-explanation",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a farmers market profile says, “Pronoun has several antecedents”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a farmers market profile says, “Pronoun has several antecedents”. Which response is most accurate?",
+    "question": "For a community webpage, which explanation would earn full credit for the language choice in “The first paragraph explains habitat loss. The next begins, “This decline also affects food webs.””?",
+    "audioPrompt": "For a community webpage, which explanation would earn full credit for the language choice in “The first paragraph explains habitat loss. The next begins, “This decline also affects food webs.””?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -347,29 +347,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Every repetition removed",
-      "Pronoun has several antecedents",
-      "Ellipsis removes essential meaning",
-      "Specify the noun."
+      "The repeated idea “decline” connects the new consequence to the previous paragraph.",
+      "Repeating “roots” keeps the technical focus exact across sentences.",
+      "A related expression maintains the topic while adding meaning.",
+      "The superordinate term “birds” groups the named species."
     ],
-    "correct": 3,
-    "explanation": "Specify the noun. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "correct": 0,
+    "explanation": "The repeated idea “decline” connects the new consequence to the previous paragraph.\nHint: A full-credit explanation links exact evidence to meaning or purpose.",
     "structuredExplanation": {
-      "summary": "Specify the noun. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "The repeated idea “decline” connects the new consequence to the previous paragraph.",
+      "hint": "A full-credit explanation links exact evidence to meaning or purpose."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-T-013",
     "curriculumCode": "AC9E6LA04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "balanced",
+    "stage": "independent",
+    "skill": "purposeful repetition",
     "printable": true,
     "type": "single",
-    "question": "A astronomy exhibition includes “the habitat … this environment … it”. Which description best fits this wording?",
-    "audioPrompt": "A astronomy exhibition includes “the habitat … this environment … it”. Which description best fits this wording?",
+    "question": "In a student presentation, you read: “Mangrove roots trap sediment. These roots also shelter young fish.” Which analysis is most accurate?",
+    "audioPrompt": "In a student presentation, you read: “Mangrove roots trap sediment. These roots also shelter young fish.” Which analysis is most accurate?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -377,29 +377,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "balanced",
-      "repetition",
-      "substitution",
-      "pronoun reference"
+      "synonym chain: A related expression maintains the topic while adding meaning.",
+      "purposeful repetition: Repeating “roots” keeps the technical focus exact across sentences.",
+      "category link: The superordinate term “birds” groups the named species.",
+      "part–whole link: “Chain” and “gears” are associated parts of the bicycle, sustaining the topic."
     ],
-    "correct": 0,
-    "explanation": "The wording best matches balanced.\nHint: Identify the language choice first, then check its effect in this context.",
+    "correct": 1,
+    "explanation": "purposeful repetition is supported by the wording and its function in the whole sentence.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches balanced.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "purposeful repetition is supported by the wording and its function in the whole sentence.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-T-014",
     "curriculumCode": "AC9E6LA04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "reference",
+    "stage": "independent",
+    "skill": "synonym chain-purpose",
     "printable": true,
     "type": "single",
-    "question": "In a river-restoration update, which term matches this meaning: “language pointing to another element”?",
-    "audioPrompt": "In a river-restoration update, which term matches this meaning: “language pointing to another element”?",
+    "question": "For a student presentation, which editing decision best demonstrates control of synonym chain?",
+    "audioPrompt": "For a student presentation, which editing decision best demonstrates control of synonym chain?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -407,29 +407,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "substitution",
-      "reference",
-      "ellipsis",
-      "It does not match the evidence in the example."
+      "Mangrove roots trap sediment. These roots also create sheltered habitat.",
+      "Kookaburras and rosellas visited. These native birds fed near the fence.",
+      "The storm damaged the coast. This severe weather event also closed roads.",
+      "The bicycle needed repair because its chain had slipped from the gears."
     ],
-    "correct": 1,
-    "explanation": "reference is the precise term for language pointing to another element.\nHint: Distinguish closely related terms by their definitions.",
+    "correct": 2,
+    "explanation": "This option deliberately applies synonym chain without changing the intended meaning.\nHint: Reject choices that merely add length or sound impressive.",
     "structuredExplanation": {
-      "summary": "reference is the precise term for language pointing to another element.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This option deliberately applies synonym chain without changing the intended meaning.",
+      "hint": "Reject choices that merely add length or sound impressive."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-T-015",
     "curriculumCode": "AC9E6LA04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "cohesion through reference and lexical chains",
+    "stage": "transfer",
+    "skill": "category link-reasoning",
     "printable": true,
     "type": "single",
-    "question": "For a cycling-safety campaign, which connective best signals a result?",
-    "audioPrompt": "For a cycling-safety campaign, which connective best signals a result?",
+    "question": "While reviewing a student presentation, which statement should an editor reject about “Kookaburras and rosellas visited the garden. These birds fed near the fence.”?",
+    "audioPrompt": "While reviewing a student presentation, which statement should an editor reject about “Kookaburras and rosellas visited the garden. These birds fed near the fence.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -437,29 +437,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "however",
-      "meanwhile",
-      "therefore",
-      "although"
+      "All repeated nouns should be replaced with pronouns.",
+      "Any two words with similar meanings can be swapped in every context.",
+      "Word association means the words must rhyme.",
+      "A category word must repeat every original noun."
     ],
-    "correct": 2,
-    "explanation": "“therefore” is supported by the language evidence and purpose of the text.\nHint: Use technical repetition when precision matters; use substitution only where reference remains unmistakable.",
+    "correct": 3,
+    "explanation": "The rejected statement is an inaccurate generalisation about category link.\nHint: Select the claim contradicted by the evidence or by the language rule.",
     "structuredExplanation": {
-      "summary": "“therefore” is supported by the language evidence and purpose of the text.",
-      "hint": "Use technical repetition when precision matters; use substitution only where reference remains unmistakable."
+      "summary": "The rejected statement is an inaccurate generalisation about category link.",
+      "hint": "Select the claim contradicted by the evidence or by the language rule."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-T-016",
     "curriculumCode": "AC9E6LA04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "part–whole link-explanation",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a neighbourhood history podcast says, “Pronoun has several antecedents”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a neighbourhood history podcast says, “Pronoun has several antecedents”. Which response is most accurate?",
+    "question": "For a student presentation, which explanation would earn full credit for the language choice in “The bicycle needed repair. Its chain had slipped from the gears.”?",
+    "audioPrompt": "For a student presentation, which explanation would earn full credit for the language choice in “The bicycle needed repair. Its chain had slipped from the gears.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -467,18 +467,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Every repetition removed",
-      "Pronoun has several antecedents",
-      "Ellipsis removes essential meaning",
-      "Specify the noun."
+      "“Chain” and “gears” are associated parts of the bicycle, sustaining the topic.",
+      "Repeating “roots” keeps the technical focus exact across sentences.",
+      "A related expression maintains the topic while adding meaning.",
+      "The superordinate term “birds” groups the named species."
     ],
-    "correct": 3,
-    "explanation": "Specify the noun. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "correct": 0,
+    "explanation": "“Chain” and “gears” are associated parts of the bicycle, sustaining the topic.\nHint: A full-credit explanation links exact evidence to meaning or purpose.",
     "structuredExplanation": {
-      "summary": "Specify the noun. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "“Chain” and “gears” are associated parts of the bicycle, sustaining the topic.",
+      "hint": "A full-credit explanation links exact evidence to meaning or purpose."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

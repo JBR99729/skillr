@@ -4,12 +4,12 @@ window.skillrTestQuestions = [
     "id": "AC9E6LA07-T-001",
     "curriculumCode": "AC9E6LA07",
     "bank": "test",
-    "stage": "verify",
-    "skill": "read caption and labels",
+    "stage": "independent",
+    "skill": "photograph and caption",
     "printable": true,
     "type": "single",
-    "question": "A community radio segment includes “read caption and labels”. Which description best fits this wording?",
-    "audioPrompt": "A community radio segment includes “read caption and labels”. Which description best fits this wording?",
+    "question": "In a museum panel, “A wide photograph shows three empty courts; its caption says they were photographed at 6:30 am.” Which analysis is strongest?",
+    "audioPrompt": "In a museum panel, “A wide photograph shows three empty courts; its caption says they were photographed at 6:30 am.” Which analysis is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -17,29 +17,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "table",
-      "graph",
-      "diagram",
-      "read caption and labels"
+      "photograph and caption: The wide frame and time label limit what the image can prove about daytime use.",
+      "table: Rows, columns, headings and units let readers retrieve and compare precise values.",
+      "line graph: The connected points make change over time and seasonal patterns visible.",
+      "bar graph: The equal-width bars make differences between categories easy to compare."
     ],
-    "correct": 3,
-    "explanation": "The wording best matches read caption and labels.\nHint: Identify the language choice first, then check its effect in this context.",
+    "correct": 0,
+    "explanation": "photograph and caption is supported by exact evidence and context.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches read caption and labels.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "photograph and caption is supported by exact evidence and context.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA07-T-002",
     "curriculumCode": "AC9E6LA07",
     "bank": "test",
-    "stage": "verify",
-    "skill": "figure",
+    "stage": "independent",
+    "skill": "table edit",
     "printable": true,
     "type": "single",
-    "question": "In a wildlife-centre report, which term matches this meaning: “numbered visual representation in a text”?",
-    "audioPrompt": "In a wildlife-centre report, which term matches this meaning: “numbered visual representation in a text”?",
+    "question": "Which edit best demonstrates control of table in a museum panel?",
+    "audioPrompt": "Which edit best demonstrates control of table in a museum panel?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -47,29 +47,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "figure",
-      "caption",
-      "visual–verbal relationship",
-      "It does not match the evidence in the example."
+      "Add photographs from several times and label when each was taken.",
+      "Add a clear title and “millimetres” to each rainfall heading.",
+      "Label both axes, keep equal intervals and name the data source.",
+      "Begin the scale at zero or clearly signal and justify any break."
     ],
-    "correct": 0,
-    "explanation": "figure is the precise term for numbered visual representation in a text.\nHint: Distinguish closely related terms by their definitions.",
+    "correct": 1,
+    "explanation": "This edit applies table without distorting the intended meaning.\nHint: Choose purposeful accuracy, not decoration.",
     "structuredExplanation": {
-      "summary": "figure is the precise term for numbered visual representation in a text.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies table without distorting the intended meaning.",
+      "hint": "Choose purposeful accuracy, not decoration."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA07-T-003",
     "curriculumCode": "AC9E6LA07",
     "bank": "test",
-    "stage": "verify",
-    "skill": "images figures tables diagrams maps and graphs",
+    "stage": "transfer",
+    "skill": "line graph misconception",
     "printable": true,
     "type": "single",
-    "question": "For a regional youth forum, which visual best shows exact values across categories?",
-    "audioPrompt": "For a regional youth forum, which visual best shows exact values across categories?",
+    "question": "Which claim should an editor reject when reviewing this museum panel: “A line graph plots creek depth across twelve months.”?",
+    "audioPrompt": "Which claim should an editor reject when reviewing this museum panel: “A line graph plots creek depth across twelve months.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -77,29 +77,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "unlabelled photograph",
-      "table",
-      "decorative icon",
-      "colour wash"
+      "A photograph is automatically representative evidence.",
+      "A table is always best for showing a changing trend.",
+      "A graph proves what caused the change.",
+      "The tallest-looking bar always represents a large difference."
     ],
-    "correct": 1,
-    "explanation": "“table” is supported by the language evidence and purpose of the text.\nHint: A graph can be accurate but visually misleading; an image can be authentic but unrepresentative. Analyse selection and presentation.",
+    "correct": 2,
+    "explanation": "The rejected claim is an inaccurate generalisation about line graph.\nHint: Select the claim contradicted by the evidence or convention.",
     "structuredExplanation": {
-      "summary": "“table” is supported by the language evidence and purpose of the text.",
-      "hint": "A graph can be accurate but visually misleading; an image can be authentic but unrepresentative. Analyse selection and presentation."
+      "summary": "The rejected claim is an inaccurate generalisation about line graph.",
+      "hint": "Select the claim contradicted by the evidence or convention."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA07-T-004",
     "curriculumCode": "AC9E6LA07",
     "bank": "test",
-    "stage": "verify",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "bar graph reasoning",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a coastal-monitoring update says, “Graph accepted without scale check”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a coastal-monitoring update says, “Graph accepted without scale check”. Which response is most accurate?",
+    "question": "Which explanation best accounts for “Separate bars compare recycling totals for five classes.” in this museum panel?",
+    "audioPrompt": "Which explanation best accounts for “Separate bars compare recycling totals for five classes.” in this museum panel?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -107,29 +107,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "All visuals called pictures",
-      "Graph accepted without scale check",
-      "Read axes and source.",
-      "Caption assumed neutral"
+      "The wide frame and time label limit what the image can prove about daytime use.",
+      "Rows, columns, headings and units let readers retrieve and compare precise values.",
+      "The connected points make change over time and seasonal patterns visible.",
+      "The equal-width bars make differences between categories easy to compare."
     ],
-    "correct": 2,
-    "explanation": "Read axes and source. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "correct": 3,
+    "explanation": "The equal-width bars make differences between categories easy to compare.\nHint: A strong explanation connects a feature to its contextual effect.",
     "structuredExplanation": {
-      "summary": "Read axes and source. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "The equal-width bars make differences between categories easy to compare.",
+      "hint": "A strong explanation connects a feature to its contextual effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA07-T-005",
     "curriculumCode": "AC9E6LA07",
     "bank": "test",
-    "stage": "verify",
-    "skill": "identify limitation",
+    "stage": "independent",
+    "skill": "process diagram",
     "printable": true,
     "type": "single",
-    "question": "A heritage trail guide includes “identify limitation”. Which description best fits this wording?",
-    "audioPrompt": "A heritage trail guide includes “identify limitation”. Which description best fits this wording?",
+    "question": "In a school magazine, “Arrows show water evaporating, condensing and returning as rain.” Which analysis is strongest?",
+    "audioPrompt": "In a school magazine, “Arrows show water evaporating, condensing and returning as rain.” Which analysis is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -137,29 +137,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "table",
-      "graph",
-      "diagram",
-      "identify limitation"
+      "process diagram: The arrows and labels clarify sequence and cyclical relationships.",
+      "photograph and caption: The wide frame and time label limit what the image can prove about daytime use.",
+      "table: Rows, columns, headings and units let readers retrieve and compare precise values.",
+      "line graph: The connected points make change over time and seasonal patterns visible."
     ],
-    "correct": 3,
-    "explanation": "The wording best matches identify limitation.\nHint: Identify the language choice first, then check its effect in this context.",
+    "correct": 0,
+    "explanation": "process diagram is supported by exact evidence and context.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches identify limitation.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "process diagram is supported by exact evidence and context.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA07-T-006",
     "curriculumCode": "AC9E6LA07",
     "bank": "test",
-    "stage": "verify",
-    "skill": "caption",
+    "stage": "independent",
+    "skill": "labelled figure edit",
     "printable": true,
     "type": "single",
-    "question": "In a public-transport survey, which term matches this meaning: “text identifying and interpreting a visual”?",
-    "audioPrompt": "In a public-transport survey, which term matches this meaning: “text identifying and interpreting a visual”?",
+    "question": "Which edit best demonstrates control of labelled figure in a school magazine?",
+    "audioPrompt": "Which edit best demonstrates control of labelled figure in a school magazine?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -167,29 +167,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "caption",
-      "figure",
-      "visual–verbal relationship",
-      "It does not match the evidence in the example."
+      "Add photographs from several times and label when each was taken.",
+      "Refer to Figure 2 when explaining how the foot moves.",
+      "Add a clear title and “millimetres” to each rainfall heading.",
+      "Label both axes, keep equal intervals and name the data source."
     ],
-    "correct": 0,
-    "explanation": "caption is the precise term for text identifying and interpreting a visual.\nHint: Distinguish closely related terms by their definitions.",
+    "correct": 1,
+    "explanation": "This edit applies labelled figure without distorting the intended meaning.\nHint: Choose purposeful accuracy, not decoration.",
     "structuredExplanation": {
-      "summary": "caption is the precise term for text identifying and interpreting a visual.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies labelled figure without distorting the intended meaning.",
+      "hint": "Choose purposeful accuracy, not decoration."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA07-T-007",
     "curriculumCode": "AC9E6LA07",
     "bank": "test",
-    "stage": "verify",
-    "skill": "images figures tables diagrams maps and graphs",
+    "stage": "transfer",
+    "skill": "map and legend misconception",
     "printable": true,
     "type": "single",
-    "question": "For a festival review, which visual best shows exact values across categories?",
-    "audioPrompt": "For a festival review, which visual best shows exact values across categories?",
+    "question": "Which claim should an editor reject when reviewing this school magazine: “A reserve map uses blue lines for waterways and dotted paths for walking tracks.”?",
+    "audioPrompt": "Which claim should an editor reject when reviewing this school magazine: “A reserve map uses blue lines for waterways and dotted paths for walking tracks.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -197,29 +197,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "unlabelled photograph",
-      "table",
-      "decorative icon",
-      "colour wash"
+      "A photograph is automatically representative evidence.",
+      "A table is always best for showing a changing trend.",
+      "All maps show distance accurately without a scale.",
+      "A graph proves what caused the change."
     ],
-    "correct": 1,
-    "explanation": "“table” is supported by the language evidence and purpose of the text.\nHint: A graph can be accurate but visually misleading; an image can be authentic but unrepresentative. Analyse selection and presentation.",
+    "correct": 2,
+    "explanation": "The rejected claim is an inaccurate generalisation about map and legend.\nHint: Select the claim contradicted by the evidence or convention.",
     "structuredExplanation": {
-      "summary": "“table” is supported by the language evidence and purpose of the text.",
-      "hint": "A graph can be accurate but visually misleading; an image can be authentic but unrepresentative. Analyse selection and presentation."
+      "summary": "The rejected claim is an inaccurate generalisation about map and legend.",
+      "hint": "Select the claim contradicted by the evidence or convention."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA07-T-008",
     "curriculumCode": "AC9E6LA07",
     "bank": "test",
-    "stage": "verify",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "caption framing reasoning",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a emergency-preparedness talk says, “Graph accepted without scale check”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a emergency-preparedness talk says, “Graph accepted without scale check”. Which response is most accurate?",
+    "question": "Which explanation best accounts for “The caption “A fragile coast under threat” sits below an ordinary beach image.” in this school magazine?",
+    "audioPrompt": "Which explanation best accounts for “The caption “A fragile coast under threat” sits below an ordinary beach image.” in this school magazine?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -227,29 +227,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "All visuals called pictures",
-      "Graph accepted without scale check",
-      "Read axes and source.",
-      "Caption assumed neutral"
+      "The wide frame and time label limit what the image can prove about daytime use.",
+      "Rows, columns, headings and units let readers retrieve and compare precise values.",
+      "The connected points make change over time and seasonal patterns visible.",
+      "The evaluative words guide readers to interpret the image as evidence of danger."
     ],
-    "correct": 2,
-    "explanation": "Read axes and source. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "correct": 3,
+    "explanation": "The evaluative words guide readers to interpret the image as evidence of danger.\nHint: A strong explanation connects a feature to its contextual effect.",
     "structuredExplanation": {
-      "summary": "Read axes and source. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "The evaluative words guide readers to interpret the image as evidence of danger.",
+      "hint": "A strong explanation connects a feature to its contextual effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA07-T-009",
     "curriculumCode": "AC9E6LA07",
     "bank": "test",
-    "stage": "apply",
-    "skill": "compare agreement or tension",
+    "stage": "independent",
+    "skill": "visual–verbal complement",
     "printable": true,
     "type": "single",
-    "question": "A water-saving brochure includes “compare agreement or tension”. Which description best fits this wording?",
-    "audioPrompt": "A water-saving brochure includes “compare agreement or tension”. Which description best fits this wording?",
+    "question": "In a community website, “The paragraph reports a 20% decline; the graph shows when the sharpest fall occurred.” Which analysis is strongest?",
+    "audioPrompt": "In a community website, “The paragraph reports a 20% decline; the graph shows when the sharpest fall occurred.” Which analysis is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -257,29 +257,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "table",
-      "graph",
-      "diagram",
-      "compare agreement or tension"
+      "visual–verbal complement: The prose gives the overall claim while the graph supplies the time pattern.",
+      "photograph and caption: The wide frame and time label limit what the image can prove about daytime use.",
+      "table: Rows, columns, headings and units let readers retrieve and compare precise values.",
+      "line graph: The connected points make change over time and seasonal patterns visible."
     ],
-    "correct": 3,
-    "explanation": "The wording best matches compare agreement or tension.\nHint: Identify the language choice first, then check its effect in this context.",
+    "correct": 0,
+    "explanation": "visual–verbal complement is supported by exact evidence and context.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches compare agreement or tension.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "visual–verbal complement is supported by exact evidence and context.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA07-T-010",
     "curriculumCode": "AC9E6LA07",
     "bank": "test",
-    "stage": "apply",
-    "skill": "visual verbal relationship",
+    "stage": "independent",
+    "skill": "contradiction edit",
     "printable": true,
     "type": "single",
-    "question": "In a local council submission, which term matches this meaning: “way image/data and words interact”?",
-    "audioPrompt": "In a local council submission, which term matches this meaning: “way image/data and words interact”?",
+    "question": "Which edit best demonstrates control of contradiction in a community website?",
+    "audioPrompt": "Which edit best demonstrates control of contradiction in a community website?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -287,29 +287,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "visual–verbal relationship",
-      "figure",
-      "caption",
-      "It does not match the evidence in the example."
+      "Add photographs from several times and label when each was taken.",
+      "Revise the claim to acknowledge the recent falls.",
+      "Add a clear title and “millimetres” to each rainfall heading.",
+      "Label both axes, keep equal intervals and name the data source."
     ],
-    "correct": 0,
-    "explanation": "visual–verbal relationship is the precise term for way image/data and words interact.\nHint: Distinguish closely related terms by their definitions.",
+    "correct": 1,
+    "explanation": "This edit applies contradiction without distorting the intended meaning.\nHint: Choose purposeful accuracy, not decoration.",
     "structuredExplanation": {
-      "summary": "visual–verbal relationship is the precise term for way image/data and words interact.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies contradiction without distorting the intended meaning.",
+      "hint": "Choose purposeful accuracy, not decoration."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA07-T-011",
     "curriculumCode": "AC9E6LA07",
     "bank": "test",
-    "stage": "apply",
-    "skill": "images figures tables diagrams maps and graphs",
+    "stage": "transfer",
+    "skill": "misleading scale misconception",
     "printable": true,
     "type": "single",
-    "question": "For a marine-research diary, which visual best shows exact values across categories?",
-    "audioPrompt": "For a marine-research diary, which visual best shows exact values across categories?",
+    "question": "Which claim should an editor reject when reviewing this community website: “A bar chart begins at 98 and makes 99 look twice as large as 98.”?",
+    "audioPrompt": "Which claim should an editor reject when reviewing this community website: “A bar chart begins at 98 and makes 99 look twice as large as 98.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -317,29 +317,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "unlabelled photograph",
-      "table",
-      "decorative icon",
-      "colour wash"
+      "A photograph is automatically representative evidence.",
+      "A table is always best for showing a changing trend.",
+      "Accurate numbers cannot be displayed misleadingly.",
+      "A graph proves what caused the change."
     ],
-    "correct": 1,
-    "explanation": "“table” is supported by the language evidence and purpose of the text.\nHint: A graph can be accurate but visually misleading; an image can be authentic but unrepresentative. Analyse selection and presentation.",
+    "correct": 2,
+    "explanation": "The rejected claim is an inaccurate generalisation about misleading scale.\nHint: Select the claim contradicted by the evidence or convention.",
     "structuredExplanation": {
-      "summary": "“table” is supported by the language evidence and purpose of the text.",
-      "hint": "A graph can be accurate but visually misleading; an image can be authentic but unrepresentative. Analyse selection and presentation."
+      "summary": "The rejected claim is an inaccurate generalisation about misleading scale.",
+      "hint": "Select the claim contradicted by the evidence or convention."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA07-T-012",
     "curriculumCode": "AC9E6LA07",
     "bank": "test",
-    "stage": "apply",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "best representation reasoning",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a farmers market profile says, “Graph accepted without scale check”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a farmers market profile says, “Graph accepted without scale check”. Which response is most accurate?",
+    "question": "Which explanation best accounts for “A route map is chosen to show how to reach three evacuation points.” in this community website?",
+    "audioPrompt": "Which explanation best accounts for “A route map is chosen to show how to reach three evacuation points.” in this community website?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -347,29 +347,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "All visuals called pictures",
-      "Graph accepted without scale check",
-      "Read axes and source.",
-      "Caption assumed neutral"
+      "The wide frame and time label limit what the image can prove about daytime use.",
+      "Rows, columns, headings and units let readers retrieve and compare precise values.",
+      "The connected points make change over time and seasonal patterns visible.",
+      "A map communicates location, direction and spatial relationships efficiently."
     ],
-    "correct": 2,
-    "explanation": "Read axes and source. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "correct": 3,
+    "explanation": "A map communicates location, direction and spatial relationships efficiently.\nHint: A strong explanation connects a feature to its contextual effect.",
     "structuredExplanation": {
-      "summary": "Read axes and source. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "A map communicates location, direction and spatial relationships efficiently.",
+      "hint": "A strong explanation connects a feature to its contextual effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA07-T-013",
     "curriculumCode": "AC9E6LA07",
     "bank": "test",
-    "stage": "apply",
-    "skill": "identify text claim",
+    "stage": "independent",
+    "skill": "photograph and caption",
     "printable": true,
     "type": "single",
-    "question": "A astronomy exhibition includes “identify text claim”. Which description best fits this wording?",
-    "audioPrompt": "A astronomy exhibition includes “identify text claim”. Which description best fits this wording?",
+    "question": "In a student presentation, “A wide photograph shows three empty courts; its caption says they were photographed at 6:30 am.” Which analysis is strongest?",
+    "audioPrompt": "In a student presentation, “A wide photograph shows three empty courts; its caption says they were photographed at 6:30 am.” Which analysis is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -377,29 +377,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "table",
-      "graph",
-      "diagram",
-      "identify text claim"
+      "photograph and caption: The wide frame and time label limit what the image can prove about daytime use.",
+      "table: Rows, columns, headings and units let readers retrieve and compare precise values.",
+      "line graph: The connected points make change over time and seasonal patterns visible.",
+      "bar graph: The equal-width bars make differences between categories easy to compare."
     ],
-    "correct": 3,
-    "explanation": "The wording best matches identify text claim.\nHint: Identify the language choice first, then check its effect in this context.",
+    "correct": 0,
+    "explanation": "photograph and caption is supported by exact evidence and context.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches identify text claim.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "photograph and caption is supported by exact evidence and context.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA07-T-014",
     "curriculumCode": "AC9E6LA07",
     "bank": "test",
-    "stage": "apply",
-    "skill": "figure",
+    "stage": "independent",
+    "skill": "table edit",
     "printable": true,
     "type": "single",
-    "question": "In a river-restoration update, which term matches this meaning: “numbered visual representation in a text”?",
-    "audioPrompt": "In a river-restoration update, which term matches this meaning: “numbered visual representation in a text”?",
+    "question": "Which edit best demonstrates control of table in a student presentation?",
+    "audioPrompt": "Which edit best demonstrates control of table in a student presentation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -407,29 +407,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "figure",
-      "caption",
-      "visual–verbal relationship",
-      "It does not match the evidence in the example."
+      "Add photographs from several times and label when each was taken.",
+      "Add a clear title and “millimetres” to each rainfall heading.",
+      "Label both axes, keep equal intervals and name the data source.",
+      "Begin the scale at zero or clearly signal and justify any break."
     ],
-    "correct": 0,
-    "explanation": "figure is the precise term for numbered visual representation in a text.\nHint: Distinguish closely related terms by their definitions.",
+    "correct": 1,
+    "explanation": "This edit applies table without distorting the intended meaning.\nHint: Choose purposeful accuracy, not decoration.",
     "structuredExplanation": {
-      "summary": "figure is the precise term for numbered visual representation in a text.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies table without distorting the intended meaning.",
+      "hint": "Choose purposeful accuracy, not decoration."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA07-T-015",
     "curriculumCode": "AC9E6LA07",
     "bank": "test",
-    "stage": "apply",
-    "skill": "images figures tables diagrams maps and graphs",
+    "stage": "transfer",
+    "skill": "line graph misconception",
     "printable": true,
     "type": "single",
-    "question": "For a cycling-safety campaign, which visual best shows exact values across categories?",
-    "audioPrompt": "For a cycling-safety campaign, which visual best shows exact values across categories?",
+    "question": "Which claim should an editor reject when reviewing this student presentation: “A line graph plots creek depth across twelve months.”?",
+    "audioPrompt": "Which claim should an editor reject when reviewing this student presentation: “A line graph plots creek depth across twelve months.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -437,29 +437,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "unlabelled photograph",
-      "table",
-      "decorative icon",
-      "colour wash"
+      "A photograph is automatically representative evidence.",
+      "A table is always best for showing a changing trend.",
+      "A graph proves what caused the change.",
+      "The tallest-looking bar always represents a large difference."
     ],
-    "correct": 1,
-    "explanation": "“table” is supported by the language evidence and purpose of the text.\nHint: A graph can be accurate but visually misleading; an image can be authentic but unrepresentative. Analyse selection and presentation.",
+    "correct": 2,
+    "explanation": "The rejected claim is an inaccurate generalisation about line graph.\nHint: Select the claim contradicted by the evidence or convention.",
     "structuredExplanation": {
-      "summary": "“table” is supported by the language evidence and purpose of the text.",
-      "hint": "A graph can be accurate but visually misleading; an image can be authentic but unrepresentative. Analyse selection and presentation."
+      "summary": "The rejected claim is an inaccurate generalisation about line graph.",
+      "hint": "Select the claim contradicted by the evidence or convention."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA07-T-016",
     "curriculumCode": "AC9E6LA07",
     "bank": "test",
-    "stage": "apply",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "bar graph reasoning",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a neighbourhood history podcast says, “Graph accepted without scale check”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a neighbourhood history podcast says, “Graph accepted without scale check”. Which response is most accurate?",
+    "question": "Which explanation best accounts for “Separate bars compare recycling totals for five classes.” in this student presentation?",
+    "audioPrompt": "Which explanation best accounts for “Separate bars compare recycling totals for five classes.” in this student presentation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -467,18 +467,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "All visuals called pictures",
-      "Graph accepted without scale check",
-      "Read axes and source.",
-      "Caption assumed neutral"
+      "The wide frame and time label limit what the image can prove about daytime use.",
+      "Rows, columns, headings and units let readers retrieve and compare precise values.",
+      "The connected points make change over time and seasonal patterns visible.",
+      "The equal-width bars make differences between categories easy to compare."
     ],
-    "correct": 2,
-    "explanation": "Read axes and source. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "correct": 3,
+    "explanation": "The equal-width bars make differences between categories easy to compare.\nHint: A strong explanation connects a feature to its contextual effect.",
     "structuredExplanation": {
-      "summary": "Read axes and source. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "The equal-width bars make differences between categories easy to compare.",
+      "hint": "A strong explanation connects a feature to its contextual effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

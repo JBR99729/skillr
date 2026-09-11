@@ -4,12 +4,12 @@ window.skillrPracticeQuestions = [
     "id": "AC9E6LA08-P-001",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "identify metaphor",
+    "stage": "foundation",
+    "skill": "metaphor",
     "printable": true,
     "type": "single",
-    "question": "In a class podcast, which sentence uses metaphor?",
-    "audioPrompt": "In a class podcast, which sentence uses metaphor?",
+    "question": "Read: “The city was a furnace by noon.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “The city was a furnace by noon.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -17,29 +17,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The city temperature was 39°C.",
-      "The city had roads.",
-      "The city is large.",
-      "The city was a furnace."
+      "simile",
+      "metaphor",
+      "personification",
+      "hyperbole"
     ],
-    "correct": 3,
-    "explanation": "“The city was a furnace.” is the strongest choice because it matches the language feature and the situation.\nHint: A metaphor is not simply decorative. It frames one domain through another and can sustain a viewpoint or theme.",
+    "correct": 1,
+    "explanation": "metaphor: The direct comparison frames the heat as enclosing, intense and dangerous.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "“The city was a furnace.” is the strongest choice because it matches the language feature and the situation.",
-      "hint": "A metaphor is not simply decorative. It frames one domain through another and can sustain a viewpoint or theme."
+      "summary": "metaphor: The direct comparison frames the heat as enclosing, intense and dangerous.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-002",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "personification",
+    "stage": "foundation",
+    "skill": "metaphor effect",
     "printable": true,
     "type": "single",
-    "question": "Which term best matches this meaning: “human qualities assigned to non-human entities”?",
-    "audioPrompt": "Which term best matches this meaning: “human qualities assigned to non-human entities”?",
+    "question": "What does the choice in “The city was a furnace by noon.” contribute to meaning?",
+    "audioPrompt": "What does the choice in “The city was a furnace by noon.” contribute to meaning?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -47,29 +47,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "personification",
-      "metaphor",
-      "connotation",
-      "It does not match the evidence in the example."
+      "The comparison helps readers hear the rain as hard, rapid and noisy.",
+      "The human-like verb makes the wind seem persistent and unsettling.",
+      "The direct comparison frames the heat as enclosing, intense and dangerous.",
+      "The deliberate exaggeration emphasises impatience rather than stating literal time."
     ],
-    "correct": 0,
-    "explanation": "personification means human qualities assigned to non-human entities.\nHint: Match the definition precisely; do not choose a nearby term just because it is familiar.",
+    "correct": 2,
+    "explanation": "The direct comparison frames the heat as enclosing, intense and dangerous.\nHint: Link exact evidence to meaning, purpose or reader response.",
     "structuredExplanation": {
-      "summary": "personification means human qualities assigned to non-human entities.",
-      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
+      "summary": "The direct comparison frames the heat as enclosing, intense and dangerous.",
+      "hint": "Link exact evidence to meaning, purpose or reader response."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-003",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "the sun hammered the roofs",
+    "stage": "core",
+    "skill": "metaphor revision",
     "printable": true,
     "type": "single",
-    "question": "Read this example from a science investigation: “personifies force and repetition”. Which label best describes what the language is doing?",
-    "audioPrompt": "Read this example from a science investigation: “personifies force and repetition”. Which label best describes what the language is doing?",
+    "question": "Which revision best applies metaphor to this example?",
+    "audioPrompt": "Which revision best applies metaphor to this example?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -77,29 +77,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The city was a furnace.",
-      "The sun hammered the roofs.",
-      "Roads were glowing veins.",
-      "Residents crawled toward shade."
+      "Rain struck the roof like gravel flung against metal.",
+      "All night, the wind tugged and worried at the loose gate.",
+      "The final minute before the bell felt a thousand years long.",
+      "By noon, the city had become a furnace of glass and concrete."
     ],
-    "correct": 1,
-    "explanation": "“personifies force and repetition” is an example of The sun hammered the roofs..\nHint: A metaphor is not simply decorative. It frames one domain through another and can sustain a viewpoint or theme.",
+    "correct": 3,
+    "explanation": "The revision applies metaphor accurately and purposefully.\nHint: Reject answers that add length without improving meaning.",
     "structuredExplanation": {
-      "summary": "“personifies force and repetition” is an example of The sun hammered the roofs..",
-      "hint": "A metaphor is not simply decorative. It frames one domain through another and can sustain a viewpoint or theme."
+      "summary": "The revision applies metaphor accurately and purposefully.",
+      "hint": "Reject answers that add length without improving meaning."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-004",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "misconception repair",
+    "stage": "core",
+    "skill": "metaphor misconception",
     "printable": true,
     "type": "single",
-    "question": "Which correction best fixes this idea: “Emotion replaces evidence”?",
-    "audioPrompt": "Which correction best fixes this idea: “Emotion replaces evidence”?",
+    "question": "A student says, “A metaphor is any sentence containing descriptive words.” Which response best corrects this claim?",
+    "audioPrompt": "A student says, “A metaphor is any sentence containing descriptive words.” Which response best corrects this claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -107,29 +107,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Device name treated as analysis",
-      "All vivid language is positive",
-      "Quote or describe exact wording.",
-      "Mixed metaphors ignored"
+      "The claim is too broad; this example shows that the direct comparison frames the heat as enclosing, intense and dangerous.",
+      "A metaphor is any sentence containing descriptive words.",
+      "Every use of “like” creates a simile.",
+      "Any verb describing a non-human thing is personification."
     ],
-    "correct": 2,
-    "explanation": "Quote or describe exact wording. This fixes the misconception without creating a new rule that is too broad.\nHint: Check the actual language evidence rather than relying on an absolute rule.",
+    "correct": 0,
+    "explanation": "The correction is limited, evidence-based and accurate.\nHint: Test absolute words such as always, never and automatically.",
     "structuredExplanation": {
-      "summary": "Quote or describe exact wording. This fixes the misconception without creating a new rule that is too broad.",
-      "hint": "Check the actual language evidence rather than relying on an absolute rule."
+      "summary": "The correction is limited, evidence-based and accurate.",
+      "hint": "Test absolute words such as always, never and automatically."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-005",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "the city was a furnace",
+    "stage": "foundation",
+    "skill": "simile",
     "printable": true,
     "type": "single",
-    "question": "Which example would be most useful when explaining vivid and emotive vocabulary in a sports-club discussion?",
-    "audioPrompt": "Which example would be most useful when explaining vivid and emotive vocabulary in a sports-club discussion?",
+    "question": "Read: “Rain rattled on the roof like handfuls of gravel.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “Rain rattled on the roof like handfuls of gravel.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -137,29 +137,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "extends city-as-body imagery",
-      "personifies force and repetition",
-      "verb suggests exhaustion",
-      "frames heat as enclosing and dangerous"
+      "metaphor",
+      "simile",
+      "personification",
+      "hyperbole"
     ],
-    "correct": 3,
-    "explanation": "This example directly demonstrates The city was a furnace. and can be explained using the language clue in the text.\nHint: Students identify figurative and evaluative choices, explain conceptual and emotional effects in context and create controlled imagery rather than listing devices.",
+    "correct": 1,
+    "explanation": "simile: The comparison helps readers hear the rain as hard, rapid and noisy.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "This example directly demonstrates The city was a furnace. and can be explained using the language clue in the text.",
-      "hint": "Students identify figurative and evaluative choices, explain conceptual and emotional effects in context and create controlled imagery rather than listing devices."
+      "summary": "simile: The comparison helps readers hear the rain as hard, rapid and noisy.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-006",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "identify metaphor",
+    "stage": "foundation",
+    "skill": "simile effect",
     "printable": true,
     "type": "single",
-    "question": "In a library display, which word has the most negative connotation in this set?",
-    "audioPrompt": "In a library display, which word has the most negative connotation in this set?",
+    "question": "What does the choice in “Rain rattled on the roof like handfuls of gravel.” contribute to meaning?",
+    "audioPrompt": "What does the choice in “Rain rattled on the roof like handfuls of gravel.” contribute to meaning?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -167,29 +167,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "scrawny",
-      "slender",
-      "thin",
-      "narrow"
+      "The direct comparison frames the heat as enclosing, intense and dangerous.",
+      "The human-like verb makes the wind seem persistent and unsettling.",
+      "The comparison helps readers hear the rain as hard, rapid and noisy.",
+      "The deliberate exaggeration emphasises impatience rather than stating literal time."
     ],
-    "correct": 0,
-    "explanation": "“scrawny” is the strongest choice because it matches the language feature and the situation.\nHint: A metaphor is not simply decorative. It frames one domain through another and can sustain a viewpoint or theme.",
+    "correct": 2,
+    "explanation": "The comparison helps readers hear the rain as hard, rapid and noisy.\nHint: Link exact evidence to meaning, purpose or reader response.",
     "structuredExplanation": {
-      "summary": "“scrawny” is the strongest choice because it matches the language feature and the situation.",
-      "hint": "A metaphor is not simply decorative. It frames one domain through another and can sustain a viewpoint or theme."
+      "summary": "The comparison helps readers hear the rain as hard, rapid and noisy.",
+      "hint": "Link exact evidence to meaning, purpose or reader response."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-007",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "metaphor",
+    "stage": "core",
+    "skill": "simile revision",
     "printable": true,
     "type": "single",
-    "question": "Which term best matches this meaning: “conceptual comparison describing one thing as another”?",
-    "audioPrompt": "Which term best matches this meaning: “conceptual comparison describing one thing as another”?",
+    "question": "Which revision best applies simile to this example?",
+    "audioPrompt": "Which revision best applies simile to this example?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -197,29 +197,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "personification",
-      "metaphor",
-      "connotation",
-      "It does not match the evidence in the example."
+      "By noon, the city had become a furnace of glass and concrete.",
+      "All night, the wind tugged and worried at the loose gate.",
+      "The final minute before the bell felt a thousand years long.",
+      "Rain struck the roof like gravel flung against metal."
     ],
-    "correct": 1,
-    "explanation": "metaphor means conceptual comparison describing one thing as another.\nHint: Match the definition precisely; do not choose a nearby term just because it is familiar.",
+    "correct": 3,
+    "explanation": "The revision applies simile accurately and purposefully.\nHint: Reject answers that add length without improving meaning.",
     "structuredExplanation": {
-      "summary": "metaphor means conceptual comparison describing one thing as another.",
-      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
+      "summary": "The revision applies simile accurately and purposefully.",
+      "hint": "Reject answers that add length without improving meaning."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-008",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "residents crawled toward shade",
+    "stage": "core",
+    "skill": "simile misconception",
     "printable": true,
     "type": "single",
-    "question": "Read this example from a student council meeting: “verb suggests exhaustion”. Which label best describes what the language is doing?",
-    "audioPrompt": "Read this example from a student council meeting: “verb suggests exhaustion”. Which label best describes what the language is doing?",
+    "question": "A student says, “Every use of “like” creates a simile.” Which response best corrects this claim?",
+    "audioPrompt": "A student says, “Every use of “like” creates a simile.” Which response best corrects this claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -227,29 +227,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The city was a furnace.",
-      "Roads were glowing veins.",
-      "Residents crawled toward shade.",
-      "The sun hammered the roofs."
+      "The claim is too broad; this example shows that the comparison helps readers hear the rain as hard, rapid and noisy.",
+      "A metaphor is any sentence containing descriptive words.",
+      "Every use of “like” creates a simile.",
+      "Any verb describing a non-human thing is personification."
     ],
-    "correct": 2,
-    "explanation": "“verb suggests exhaustion” is an example of Residents crawled toward shade..\nHint: A metaphor is not simply decorative. It frames one domain through another and can sustain a viewpoint or theme.",
+    "correct": 0,
+    "explanation": "The correction is limited, evidence-based and accurate.\nHint: Test absolute words such as always, never and automatically.",
     "structuredExplanation": {
-      "summary": "“verb suggests exhaustion” is an example of Residents crawled toward shade..",
-      "hint": "A metaphor is not simply decorative. It frames one domain through another and can sustain a viewpoint or theme."
+      "summary": "The correction is limited, evidence-based and accurate.",
+      "hint": "Test absolute words such as always, never and automatically."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-009",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "misconception repair",
+    "stage": "foundation",
+    "skill": "personification",
     "printable": true,
     "type": "single",
-    "question": "Which correction best fixes this idea: “Device name treated as analysis”?",
-    "audioPrompt": "Which correction best fixes this idea: “Device name treated as analysis”?",
+    "question": "Read: “The wind worried at the loose gate all night.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “The wind worried at the loose gate all night.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -257,29 +257,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Device name treated as analysis",
-      "All vivid language is positive",
-      "Mixed metaphors ignored",
-      "Explain framing and effect."
+      "metaphor",
+      "personification",
+      "simile",
+      "hyperbole"
     ],
-    "correct": 3,
-    "explanation": "Explain framing and effect. This fixes the misconception without creating a new rule that is too broad.\nHint: Check the actual language evidence rather than relying on an absolute rule.",
+    "correct": 1,
+    "explanation": "personification: The human-like verb makes the wind seem persistent and unsettling.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "Explain framing and effect. This fixes the misconception without creating a new rule that is too broad.",
-      "hint": "Check the actual language evidence rather than relying on an absolute rule."
+      "summary": "personification: The human-like verb makes the wind seem persistent and unsettling.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-010",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "roads were glowing veins",
+    "stage": "foundation",
+    "skill": "personification effect",
     "printable": true,
     "type": "single",
-    "question": "Which example would be most useful when explaining vivid and emotive vocabulary in a environmental campaign?",
-    "audioPrompt": "Which example would be most useful when explaining vivid and emotive vocabulary in a environmental campaign?",
+    "question": "What does the choice in “The wind worried at the loose gate all night.” contribute to meaning?",
+    "audioPrompt": "What does the choice in “The wind worried at the loose gate all night.” contribute to meaning?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -287,29 +287,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "extends city-as-body imagery",
-      "frames heat as enclosing and dangerous",
-      "personifies force and repetition",
-      "verb suggests exhaustion"
+      "The direct comparison frames the heat as enclosing, intense and dangerous.",
+      "The comparison helps readers hear the rain as hard, rapid and noisy.",
+      "The human-like verb makes the wind seem persistent and unsettling.",
+      "The deliberate exaggeration emphasises impatience rather than stating literal time."
     ],
-    "correct": 0,
-    "explanation": "This example directly demonstrates Roads were glowing veins. and can be explained using the language clue in the text.\nHint: Students identify figurative and evaluative choices, explain conceptual and emotional effects in context and create controlled imagery rather than listing devices.",
+    "correct": 2,
+    "explanation": "The human-like verb makes the wind seem persistent and unsettling.\nHint: Link exact evidence to meaning, purpose or reader response.",
     "structuredExplanation": {
-      "summary": "This example directly demonstrates Roads were glowing veins. and can be explained using the language clue in the text.",
-      "hint": "Students identify figurative and evaluative choices, explain conceptual and emotional effects in context and create controlled imagery rather than listing devices."
+      "summary": "The human-like verb makes the wind seem persistent and unsettling.",
+      "hint": "Link exact evidence to meaning, purpose or reader response."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-011",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "the sun hammered the roofs",
+    "stage": "core",
+    "skill": "personification revision",
     "printable": true,
     "type": "single",
-    "question": "A museum caption includes “personifies force and repetition”. Why is this an effective example of The sun hammered the roofs.?",
-    "audioPrompt": "A museum caption includes “personifies force and repetition”. Why is this an effective example of The sun hammered the roofs.?",
+    "question": "Which revision best applies personification to this example?",
+    "audioPrompt": "Which revision best applies personification to this example?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -317,29 +317,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It makes the intended language choice clear in context.",
-      "It matches the purpose and the language clue in the example.",
-      "A metaphor is not simply decorative. It frames one domain through another and can sustain a viewpoint or theme.",
-      "Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label."
+      "By noon, the city had become a furnace of glass and concrete.",
+      "Rain struck the roof like gravel flung against metal.",
+      "The final minute before the bell felt a thousand years long.",
+      "All night, the wind tugged and worried at the loose gate."
     ],
-    "correct": 0,
-    "explanation": "personifies force and repetition works because its language choice fits the purpose and context.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 3,
+    "explanation": "The revision applies personification accurately and purposefully.\nHint: Reject answers that add length without improving meaning.",
     "structuredExplanation": {
-      "summary": "personifies force and repetition works because its language choice fits the purpose and context.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "The revision applies personification accurately and purposefully.",
+      "hint": "Reject answers that add length without improving meaning."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-012",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "core",
+    "skill": "personification misconception",
     "printable": true,
     "type": "single",
-    "question": "Why is “Connotation can threaten, praise or ridicule.” a better rule than “All vivid language is positive” when reading a student council meeting?",
-    "audioPrompt": "Why is “Connotation can threaten, praise or ridicule.” a better rule than “All vivid language is positive” when reading a student council meeting?",
+    "question": "A student says, “Any verb describing a non-human thing is personification.” Which response best corrects this claim?",
+    "audioPrompt": "A student says, “Any verb describing a non-human thing is personification.” Which response best corrects this claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -347,29 +347,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because the longest rule is always the best one.",
-      "Because it keeps the useful distinction without turning it into an absolute rule.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words."
+      "The claim is too broad; this example shows that the human-like verb makes the wind seem persistent and unsettling.",
+      "A metaphor is any sentence containing descriptive words.",
+      "Every use of “like” creates a simile.",
+      "Any verb describing a non-human thing is personification."
     ],
-    "correct": 1,
-    "explanation": "“Connotation can threaten, praise or ridicule.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 0,
+    "explanation": "The correction is limited, evidence-based and accurate.\nHint: Test absolute words such as always, never and automatically.",
     "structuredExplanation": {
-      "summary": "“Connotation can threaten, praise or ridicule.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The correction is limited, evidence-based and accurate.",
+      "hint": "Test absolute words such as always, never and automatically."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-013",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "the city was a furnace",
+    "stage": "foundation",
+    "skill": "hyperbole",
     "printable": true,
     "type": "single",
-    "question": "A local-history article includes “frames heat as enclosing and dangerous”. Why is this an effective example of The city was a furnace.?",
-    "audioPrompt": "A local-history article includes “frames heat as enclosing and dangerous”. Why is this an effective example of The city was a furnace.?",
+    "question": "Read: “I waited a thousand years for the bell.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “I waited a thousand years for the bell.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -377,29 +377,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It matches the purpose and the language clue in the example.",
-      "A metaphor is not simply decorative. It frames one domain through another and can sustain a viewpoint or theme.",
-      "It makes the intended language choice clear in context.",
-      "Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label."
+      "metaphor",
+      "hyperbole",
+      "simile",
+      "personification"
     ],
-    "correct": 2,
-    "explanation": "frames heat as enclosing and dangerous works because its language choice fits the purpose and context.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 1,
+    "explanation": "hyperbole: The deliberate exaggeration emphasises impatience rather than stating literal time.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "frames heat as enclosing and dangerous works because its language choice fits the purpose and context.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "hyperbole: The deliberate exaggeration emphasises impatience rather than stating literal time.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-014",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "foundation",
+    "skill": "hyperbole effect",
     "printable": true,
     "type": "single",
-    "question": "Why is “Quote or describe exact wording.” a better rule than “Emotion replaces evidence” when reading a environmental campaign?",
-    "audioPrompt": "Why is “Quote or describe exact wording.” a better rule than “Emotion replaces evidence” when reading a environmental campaign?",
+    "question": "What does the choice in “I waited a thousand years for the bell.” contribute to meaning?",
+    "audioPrompt": "What does the choice in “I waited a thousand years for the bell.” contribute to meaning?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -407,29 +407,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because the longest rule is always the best one.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words.",
-      "Because it keeps the useful distinction without turning it into an absolute rule."
+      "The direct comparison frames the heat as enclosing, intense and dangerous.",
+      "The comparison helps readers hear the rain as hard, rapid and noisy.",
+      "The deliberate exaggeration emphasises impatience rather than stating literal time.",
+      "The human-like verb makes the wind seem persistent and unsettling."
     ],
-    "correct": 3,
-    "explanation": "“Quote or describe exact wording.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 2,
+    "explanation": "The deliberate exaggeration emphasises impatience rather than stating literal time.\nHint: Link exact evidence to meaning, purpose or reader response.",
     "structuredExplanation": {
-      "summary": "“Quote or describe exact wording.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The deliberate exaggeration emphasises impatience rather than stating literal time.",
+      "hint": "Link exact evidence to meaning, purpose or reader response."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-015",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "the sun hammered the roofs",
+    "stage": "core",
+    "skill": "hyperbole revision",
     "printable": true,
     "type": "single",
-    "question": "A book-club discussion includes “personifies force and repetition”. Why is this an effective example of The sun hammered the roofs.?",
-    "audioPrompt": "A book-club discussion includes “personifies force and repetition”. Why is this an effective example of The sun hammered the roofs.?",
+    "question": "Which revision best applies hyperbole to this example?",
+    "audioPrompt": "Which revision best applies hyperbole to this example?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -437,29 +437,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It makes the intended language choice clear in context.",
-      "It matches the purpose and the language clue in the example.",
-      "A metaphor is not simply decorative. It frames one domain through another and can sustain a viewpoint or theme.",
-      "Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label."
+      "By noon, the city had become a furnace of glass and concrete.",
+      "Rain struck the roof like gravel flung against metal.",
+      "All night, the wind tugged and worried at the loose gate.",
+      "The final minute before the bell felt a thousand years long."
     ],
-    "correct": 0,
-    "explanation": "personifies force and repetition works because its language choice fits the purpose and context.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 3,
+    "explanation": "The revision applies hyperbole accurately and purposefully.\nHint: Reject answers that add length without improving meaning.",
     "structuredExplanation": {
-      "summary": "personifies force and repetition works because its language choice fits the purpose and context.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "The revision applies hyperbole accurately and purposefully.",
+      "hint": "Reject answers that add length without improving meaning."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-016",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "core",
+    "skill": "hyperbole misconception",
     "printable": true,
     "type": "single",
-    "question": "Why is “Connotation can threaten, praise or ridicule.” a better rule than “All vivid language is positive” when reading a excursion briefing?",
-    "audioPrompt": "Why is “Connotation can threaten, praise or ridicule.” a better rule than “All vivid language is positive” when reading a excursion briefing?",
+    "question": "A student says, “Hyperbole is a lie that readers are expected to believe.” Which response best corrects this claim?",
+    "audioPrompt": "A student says, “Hyperbole is a lie that readers are expected to believe.” Which response best corrects this claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -467,29 +467,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because the longest rule is always the best one.",
-      "Because it keeps the useful distinction without turning it into an absolute rule.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words."
+      "The claim is too broad; this example shows that the deliberate exaggeration emphasises impatience rather than stating literal time.",
+      "A metaphor is any sentence containing descriptive words.",
+      "Every use of “like” creates a simile.",
+      "Any verb describing a non-human thing is personification."
     ],
-    "correct": 1,
-    "explanation": "“Connotation can threaten, praise or ridicule.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 0,
+    "explanation": "The correction is limited, evidence-based and accurate.\nHint: Test absolute words such as always, never and automatically.",
     "structuredExplanation": {
-      "summary": "“Connotation can threaten, praise or ridicule.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The correction is limited, evidence-based and accurate.",
+      "hint": "Test absolute words such as always, never and automatically."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-017",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "the city was a furnace",
+    "stage": "foundation",
+    "skill": "idiom",
     "printable": true,
     "type": "single",
-    "question": "A design project includes “frames heat as enclosing and dangerous”. Why is this an effective example of The city was a furnace.?",
-    "audioPrompt": "A design project includes “frames heat as enclosing and dangerous”. Why is this an effective example of The city was a furnace.?",
+    "question": "Read: “After missing the bus, Tariq said he was back to square one.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “After missing the bus, Tariq said he was back to square one.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -497,29 +497,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It matches the purpose and the language clue in the example.",
-      "A metaphor is not simply decorative. It frames one domain through another and can sustain a viewpoint or theme.",
-      "It makes the intended language choice clear in context.",
-      "Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label."
+      "metaphor",
+      "idiom",
+      "simile",
+      "personification"
     ],
-    "correct": 2,
-    "explanation": "frames heat as enclosing and dangerous works because its language choice fits the purpose and context.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 1,
+    "explanation": "idiom: The familiar nonliteral phrase means he must begin again.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "frames heat as enclosing and dangerous works because its language choice fits the purpose and context.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "idiom: The familiar nonliteral phrase means he must begin again.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-018",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "foundation",
+    "skill": "idiom effect",
     "printable": true,
     "type": "single",
-    "question": "Why is “Quote or describe exact wording.” a better rule than “Emotion replaces evidence” when reading a weather report?",
-    "audioPrompt": "Why is “Quote or describe exact wording.” a better rule than “Emotion replaces evidence” when reading a weather report?",
+    "question": "What does the choice in “After missing the bus, Tariq said he was back to square one.” contribute to meaning?",
+    "audioPrompt": "What does the choice in “After missing the bus, Tariq said he was back to square one.” contribute to meaning?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -527,29 +527,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because the longest rule is always the best one.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words.",
-      "Because it keeps the useful distinction without turning it into an absolute rule."
+      "The direct comparison frames the heat as enclosing, intense and dangerous.",
+      "The comparison helps readers hear the rain as hard, rapid and noisy.",
+      "The familiar nonliteral phrase means he must begin again.",
+      "The human-like verb makes the wind seem persistent and unsettling."
     ],
-    "correct": 3,
-    "explanation": "“Quote or describe exact wording.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 2,
+    "explanation": "The familiar nonliteral phrase means he must begin again.\nHint: Link exact evidence to meaning, purpose or reader response.",
     "structuredExplanation": {
-      "summary": "“Quote or describe exact wording.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The familiar nonliteral phrase means he must begin again.",
+      "hint": "Link exact evidence to meaning, purpose or reader response."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-019",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "the sun hammered the roofs",
+    "stage": "application",
+    "skill": "idiom revision",
     "printable": true,
     "type": "single",
-    "question": "A school assembly includes “personifies force and repetition”. Why is this an effective example of The sun hammered the roofs.?",
-    "audioPrompt": "A school assembly includes “personifies force and repetition”. Why is this an effective example of The sun hammered the roofs.?",
+    "question": "Which revision best applies idiom to this example?",
+    "audioPrompt": "Which revision best applies idiom to this example?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -557,29 +557,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It makes the intended language choice clear in context.",
-      "It matches the purpose and the language clue in the example.",
-      "A metaphor is not simply decorative. It frames one domain through another and can sustain a viewpoint or theme.",
-      "Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label."
+      "By noon, the city had become a furnace of glass and concrete.",
+      "Rain struck the roof like gravel flung against metal.",
+      "All night, the wind tugged and worried at the loose gate.",
+      "Missing the bus put Tariq back to square one in his travel plan."
     ],
-    "correct": 0,
-    "explanation": "personifies force and repetition works because its language choice fits the purpose and context.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 3,
+    "explanation": "The revision applies idiom accurately and purposefully.\nHint: Reject answers that add length without improving meaning.",
     "structuredExplanation": {
-      "summary": "personifies force and repetition works because its language choice fits the purpose and context.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "The revision applies idiom accurately and purposefully.",
+      "hint": "Reject answers that add length without improving meaning."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-020",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "core",
+    "skill": "idiom misconception",
     "printable": true,
     "type": "single",
-    "question": "Why is “Connotation can threaten, praise or ridicule.” a better rule than “All vivid language is positive” when reading a peer feedback session?",
-    "audioPrompt": "Why is “Connotation can threaten, praise or ridicule.” a better rule than “All vivid language is positive” when reading a peer feedback session?",
+    "question": "A student says, “An idiom should be interpreted word by word.” Which response best corrects this claim?",
+    "audioPrompt": "A student says, “An idiom should be interpreted word by word.” Which response best corrects this claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -587,29 +587,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because the longest rule is always the best one.",
-      "Because it keeps the useful distinction without turning it into an absolute rule.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words."
+      "The claim is too broad; this example shows that the familiar nonliteral phrase means he must begin again.",
+      "A metaphor is any sentence containing descriptive words.",
+      "Every use of “like” creates a simile.",
+      "Any verb describing a non-human thing is personification."
     ],
-    "correct": 1,
-    "explanation": "“Connotation can threaten, praise or ridicule.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 0,
+    "explanation": "The correction is limited, evidence-based and accurate.\nHint: Test absolute words such as always, never and automatically.",
     "structuredExplanation": {
-      "summary": "“Connotation can threaten, praise or ridicule.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The correction is limited, evidence-based and accurate.",
+      "hint": "Test absolute words such as always, never and automatically."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-021",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "foundation",
+    "skill": "visual imagery",
     "printable": true,
     "type": "single",
-    "question": "A excursion briefing could use either “frames heat as enclosing and dangerous” or “negative judgement”. Which comparison is most accurate?",
-    "audioPrompt": "A excursion briefing could use either “frames heat as enclosing and dangerous” or “negative judgement”. Which comparison is most accurate?",
+    "question": "Read: “A silver scar split the purple sky.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “A silver scar split the purple sky.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -617,29 +617,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "“frames heat as enclosing and dangerous” shows The city was a furnace., while “negative judgement” shows scrawny.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer."
+      "metaphor",
+      "visual imagery",
+      "simile",
+      "personification"
     ],
     "correct": 1,
-    "explanation": "The important difference is the language function: The city was a furnace. versus scrawny.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "explanation": "visual imagery: Colour and shape create a vivid image of lightning as sudden damage.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: The city was a furnace. versus scrawny.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "visual imagery: Colour and shape create a vivid image of lightning as sudden damage.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-022",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "foundation",
+    "skill": "visual imagery effect",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Mixed metaphors ignored” in a design project?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Mixed metaphors ignored” in a design project?",
+    "question": "What does the choice in “A silver scar split the purple sky.” contribute to meaning?",
+    "audioPrompt": "What does the choice in “A silver scar split the purple sky.” contribute to meaning?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -647,29 +647,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Device name treated as analysis",
-      "All vivid language is positive",
-      "Check coherence of image system.",
-      "Mixed metaphors ignored"
+      "The direct comparison frames the heat as enclosing, intense and dangerous.",
+      "The comparison helps readers hear the rain as hard, rapid and noisy.",
+      "Colour and shape create a vivid image of lightning as sudden damage.",
+      "The human-like verb makes the wind seem persistent and unsettling."
     ],
     "correct": 2,
-    "explanation": "Check coherence of image system. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label.",
+    "explanation": "Colour and shape create a vivid image of lightning as sudden damage.\nHint: Link exact evidence to meaning, purpose or reader response.",
     "structuredExplanation": {
-      "summary": "Check coherence of image system. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label."
+      "summary": "Colour and shape create a vivid image of lightning as sudden damage.",
+      "hint": "Link exact evidence to meaning, purpose or reader response."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-023",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "application",
+    "skill": "visual imagery revision",
     "printable": true,
     "type": "single",
-    "question": "A weather report could use either “personifies force and repetition” or “negative or resistant framing”. Which comparison is most accurate?",
-    "audioPrompt": "A weather report could use either “personifies force and repetition” or “negative or resistant framing”. Which comparison is most accurate?",
+    "question": "Which revision best applies visual imagery to this example?",
+    "audioPrompt": "Which revision best applies visual imagery to this example?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -677,29 +677,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer.",
-      "“personifies force and repetition” shows The sun hammered the roofs., while “negative or resistant framing” shows stubborn."
+      "By noon, the city had become a furnace of glass and concrete.",
+      "Rain struck the roof like gravel flung against metal.",
+      "All night, the wind tugged and worried at the loose gate.",
+      "A silver scar of lightning split the purple sky."
     ],
     "correct": 3,
-    "explanation": "The important difference is the language function: The sun hammered the roofs. versus stubborn.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "explanation": "The revision applies visual imagery accurately and purposefully.\nHint: Reject answers that add length without improving meaning.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: The sun hammered the roofs. versus stubborn.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "The revision applies visual imagery accurately and purposefully.",
+      "hint": "Reject answers that add length without improving meaning."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-024",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "core",
+    "skill": "visual imagery misconception",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Device name treated as analysis” in a school assembly?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Device name treated as analysis” in a school assembly?",
+    "question": "A student says, “Imagery must describe something beautiful.” Which response best corrects this claim?",
+    "audioPrompt": "A student says, “Imagery must describe something beautiful.” Which response best corrects this claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -707,29 +707,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Explain framing and effect.",
-      "Device name treated as analysis",
-      "All vivid language is positive",
-      "Mixed metaphors ignored"
+      "The claim is too broad; this example shows that colour and shape create a vivid image of lightning as sudden damage.",
+      "A metaphor is any sentence containing descriptive words.",
+      "Every use of “like” creates a simile.",
+      "Any verb describing a non-human thing is personification."
     ],
     "correct": 0,
-    "explanation": "Explain framing and effect. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label.",
+    "explanation": "The correction is limited, evidence-based and accurate.\nHint: Test absolute words such as always, never and automatically.",
     "structuredExplanation": {
-      "summary": "Explain framing and effect. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label."
+      "summary": "The correction is limited, evidence-based and accurate.",
+      "hint": "Test absolute words such as always, never and automatically."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-025",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "foundation",
+    "skill": "auditory imagery",
     "printable": true,
     "type": "single",
-    "question": "A peer feedback session could use either “frames heat as enclosing and dangerous” or “negative judgement”. Which comparison is most accurate?",
-    "audioPrompt": "A peer feedback session could use either “frames heat as enclosing and dangerous” or “negative judgement”. Which comparison is most accurate?",
+    "question": "Read: “Branches clicked and scraped against the window.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “Branches clicked and scraped against the window.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -737,29 +737,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "“frames heat as enclosing and dangerous” shows The city was a furnace., while “negative judgement” shows scrawny.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer."
+      "metaphor",
+      "auditory imagery",
+      "simile",
+      "personification"
     ],
     "correct": 1,
-    "explanation": "The important difference is the language function: The city was a furnace. versus scrawny.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "explanation": "auditory imagery: Sound verbs place the reader inside the tense night scene.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: The city was a furnace. versus scrawny.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "auditory imagery: Sound verbs place the reader inside the tense night scene.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-026",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "core",
+    "skill": "auditory imagery effect",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Mixed metaphors ignored” in a cooking demonstration?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Mixed metaphors ignored” in a cooking demonstration?",
+    "question": "What does the choice in “Branches clicked and scraped against the window.” contribute to meaning?",
+    "audioPrompt": "What does the choice in “Branches clicked and scraped against the window.” contribute to meaning?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -767,29 +767,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Device name treated as analysis",
-      "All vivid language is positive",
-      "Check coherence of image system.",
-      "Mixed metaphors ignored"
+      "The direct comparison frames the heat as enclosing, intense and dangerous.",
+      "The comparison helps readers hear the rain as hard, rapid and noisy.",
+      "Sound verbs place the reader inside the tense night scene.",
+      "The human-like verb makes the wind seem persistent and unsettling."
     ],
     "correct": 2,
-    "explanation": "Check coherence of image system. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label.",
+    "explanation": "Sound verbs place the reader inside the tense night scene.\nHint: Link exact evidence to meaning, purpose or reader response.",
     "structuredExplanation": {
-      "summary": "Check coherence of image system. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label."
+      "summary": "Sound verbs place the reader inside the tense night scene.",
+      "hint": "Link exact evidence to meaning, purpose or reader response."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-027",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "application",
+    "skill": "auditory imagery revision",
     "printable": true,
     "type": "single",
-    "question": "A arts review could use either “personifies force and repetition” or “negative or resistant framing”. Which comparison is most accurate?",
-    "audioPrompt": "A arts review could use either “personifies force and repetition” or “negative or resistant framing”. Which comparison is most accurate?",
+    "question": "Which revision best applies auditory imagery to this example?",
+    "audioPrompt": "Which revision best applies auditory imagery to this example?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -797,29 +797,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer.",
-      "“personifies force and repetition” shows The sun hammered the roofs., while “negative or resistant framing” shows stubborn."
+      "By noon, the city had become a furnace of glass and concrete.",
+      "Rain struck the roof like gravel flung against metal.",
+      "All night, the wind tugged and worried at the loose gate.",
+      "Outside, branches clicked, scraped and tapped against the glass."
     ],
     "correct": 3,
-    "explanation": "The important difference is the language function: The sun hammered the roofs. versus stubborn.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "explanation": "The revision applies auditory imagery accurately and purposefully.\nHint: Reject answers that add length without improving meaning.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: The sun hammered the roofs. versus stubborn.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "The revision applies auditory imagery accurately and purposefully.",
+      "hint": "Reject answers that add length without improving meaning."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-028",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "core",
+    "skill": "auditory imagery misconception",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Device name treated as analysis” in a technology presentation?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Device name treated as analysis” in a technology presentation?",
+    "question": "A student says, “Auditory imagery has to rhyme.” Which response best corrects this claim?",
+    "audioPrompt": "A student says, “Auditory imagery has to rhyme.” Which response best corrects this claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -827,29 +827,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Explain framing and effect.",
-      "Device name treated as analysis",
-      "All vivid language is positive",
-      "Mixed metaphors ignored"
+      "The claim is too broad; this example shows that sound verbs place the reader inside the tense night scene.",
+      "A metaphor is any sentence containing descriptive words.",
+      "Every use of “like” creates a simile.",
+      "Any verb describing a non-human thing is personification."
     ],
     "correct": 0,
-    "explanation": "Explain framing and effect. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label.",
+    "explanation": "The correction is limited, evidence-based and accurate.\nHint: Test absolute words such as always, never and automatically.",
     "structuredExplanation": {
-      "summary": "Explain framing and effect. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label."
+      "summary": "The correction is limited, evidence-based and accurate.",
+      "hint": "Test absolute words such as always, never and automatically."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-029",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "foundation",
+    "skill": "positive connotation",
     "printable": true,
     "type": "single",
-    "question": "A playground consultation could use either “frames heat as enclosing and dangerous” or “negative judgement”. Which comparison is most accurate?",
-    "audioPrompt": "A playground consultation could use either “frames heat as enclosing and dangerous” or “negative judgement”. Which comparison is most accurate?",
+    "question": "Read: “The resourceful child rebuilt the shelter.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “The resourceful child rebuilt the shelter.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -857,29 +857,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "“frames heat as enclosing and dangerous” shows The city was a furnace., while “negative judgement” shows scrawny.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer."
+      "metaphor",
+      "positive connotation",
+      "simile",
+      "personification"
     ],
     "correct": 1,
-    "explanation": "The important difference is the language function: The city was a furnace. versus scrawny.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "explanation": "positive connotation: “Resourceful” praises practical problem-solving and resilience.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: The city was a furnace. versus scrawny.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "positive connotation: “Resourceful” praises practical problem-solving and resilience.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-030",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "core",
+    "skill": "positive connotation effect",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Mixed metaphors ignored” in a class podcast?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Mixed metaphors ignored” in a class podcast?",
+    "question": "What does the choice in “The resourceful child rebuilt the shelter.” contribute to meaning?",
+    "audioPrompt": "What does the choice in “The resourceful child rebuilt the shelter.” contribute to meaning?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -887,29 +887,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Device name treated as analysis",
-      "All vivid language is positive",
-      "Check coherence of image system.",
-      "Mixed metaphors ignored"
+      "The direct comparison frames the heat as enclosing, intense and dangerous.",
+      "The comparison helps readers hear the rain as hard, rapid and noisy.",
+      "“Resourceful” praises practical problem-solving and resilience.",
+      "The human-like verb makes the wind seem persistent and unsettling."
     ],
     "correct": 2,
-    "explanation": "Check coherence of image system. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label.",
+    "explanation": "“Resourceful” praises practical problem-solving and resilience.\nHint: Link exact evidence to meaning, purpose or reader response.",
     "structuredExplanation": {
-      "summary": "Check coherence of image system. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label."
+      "summary": "“Resourceful” praises practical problem-solving and resilience.",
+      "hint": "Link exact evidence to meaning, purpose or reader response."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-031",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "trace image pattern",
+    "stage": "application",
+    "skill": "positive connotation revision",
     "printable": true,
     "type": "single",
-    "question": "You are editing a community garden proposal. Which word has the most negative connotation in this set?",
-    "audioPrompt": "You are editing a community garden proposal. Which word has the most negative connotation in this set?",
+    "question": "Which revision best applies positive connotation to this example?",
+    "audioPrompt": "Which revision best applies positive connotation to this example?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -917,29 +917,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "slender",
-      "thin",
-      "scrawny",
-      "narrow"
+      "By noon, the city had become a furnace of glass and concrete.",
+      "Rain struck the roof like gravel flung against metal.",
+      "All night, the wind tugged and worried at the loose gate.",
+      "The resourceful child rebuilt the shelter from fallen branches."
     ],
-    "correct": 2,
-    "explanation": "“scrawny” best fits the purpose and the language evidence in this new situation.\nHint: Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label.",
+    "correct": 3,
+    "explanation": "The revision applies positive connotation accurately and purposefully.\nHint: Reject answers that add length without improving meaning.",
     "structuredExplanation": {
-      "summary": "“scrawny” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label."
+      "summary": "The revision applies positive connotation accurately and purposefully.",
+      "hint": "Reject answers that add length without improving meaning."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-032",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "scrawny",
+    "stage": "core",
+    "skill": "positive connotation misconception",
     "printable": true,
     "type": "single",
-    "question": "A sports-club discussion needs a clear example of scrawny. Which wording should you choose?",
-    "audioPrompt": "A sports-club discussion needs a clear example of scrawny. Which wording should you choose?",
+    "question": "A student says, “Connotation never changes with context.” Which response best corrects this claim?",
+    "audioPrompt": "A student says, “Connotation never changes with context.” Which response best corrects this claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -947,29 +947,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "often positive or elegant connotation",
-      "positive persistence",
-      "negative or resistant framing",
-      "negative judgement"
+      "The claim is too broad; this example shows that “Resourceful” praises practical problem-solving and resilience.",
+      "A metaphor is any sentence containing descriptive words.",
+      "Every use of “like” creates a simile.",
+      "Any verb describing a non-human thing is personification."
     ],
-    "correct": 3,
-    "explanation": "“negative judgement” is the best choice because it demonstrates scrawny in context.\nHint: Choose the wording that performs the required job, not merely one that sounds fluent.",
+    "correct": 0,
+    "explanation": "The correction is limited, evidence-based and accurate.\nHint: Test absolute words such as always, never and automatically.",
     "structuredExplanation": {
-      "summary": "“negative judgement” is the best choice because it demonstrates scrawny in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "The correction is limited, evidence-based and accurate.",
+      "hint": "Test absolute words such as always, never and automatically."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-033",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "metaphor",
+    "stage": "foundation",
+    "skill": "negative connotation",
     "printable": true,
     "type": "single",
-    "question": "While revising a library display, you need language that matches “conceptual comparison describing one thing as another”. Which concept should guide your choice?",
-    "audioPrompt": "While revising a library display, you need language that matches “conceptual comparison describing one thing as another”. Which concept should guide your choice?",
+    "question": "Read: “The meddling neighbour inspected every parcel.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “The meddling neighbour inspected every parcel.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -978,28 +978,28 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "metaphor",
-      "personification",
-      "connotation",
-      "It does not match the evidence in the example."
+      "negative connotation",
+      "simile",
+      "personification"
     ],
-    "correct": 0,
-    "explanation": "metaphor is the concept that matches conceptual comparison describing one thing as another.\nHint: Use the definition to guide the decision, then check it against the sentence.",
+    "correct": 1,
+    "explanation": "negative connotation: “Meddling” frames the curiosity as intrusive and unwelcome.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "metaphor is the concept that matches conceptual comparison describing one thing as another.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "negative connotation: “Meddling” frames the curiosity as intrusive and unwelcome.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-034",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "identify metaphor",
+    "stage": "core",
+    "skill": "negative connotation effect",
     "printable": true,
     "type": "single",
-    "question": "You are editing a museum caption. Which word has the most negative connotation in this set?",
-    "audioPrompt": "You are editing a museum caption. Which word has the most negative connotation in this set?",
+    "question": "What does the choice in “The meddling neighbour inspected every parcel.” contribute to meaning?",
+    "audioPrompt": "What does the choice in “The meddling neighbour inspected every parcel.” contribute to meaning?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1007,29 +1007,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "slender",
-      "scrawny",
-      "thin",
-      "narrow"
+      "The direct comparison frames the heat as enclosing, intense and dangerous.",
+      "The comparison helps readers hear the rain as hard, rapid and noisy.",
+      "“Meddling” frames the curiosity as intrusive and unwelcome.",
+      "The human-like verb makes the wind seem persistent and unsettling."
     ],
-    "correct": 1,
-    "explanation": "“scrawny” best fits the purpose and the language evidence in this new situation.\nHint: Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label.",
+    "correct": 2,
+    "explanation": "“Meddling” frames the curiosity as intrusive and unwelcome.\nHint: Link exact evidence to meaning, purpose or reader response.",
     "structuredExplanation": {
-      "summary": "“scrawny” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label."
+      "summary": "“Meddling” frames the curiosity as intrusive and unwelcome.",
+      "hint": "Link exact evidence to meaning, purpose or reader response."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-035",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "slender",
+    "stage": "application",
+    "skill": "negative connotation revision",
     "printable": true,
     "type": "single",
-    "question": "A student council meeting needs a clear example of slender. Which wording should you choose?",
-    "audioPrompt": "A student council meeting needs a clear example of slender. Which wording should you choose?",
+    "question": "Which revision best applies negative connotation to this example?",
+    "audioPrompt": "Which revision best applies negative connotation to this example?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1037,29 +1037,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "negative judgement",
-      "positive persistence",
-      "often positive or elegant connotation",
-      "negative or resistant framing"
+      "By noon, the city had become a furnace of glass and concrete.",
+      "Rain struck the roof like gravel flung against metal.",
+      "All night, the wind tugged and worried at the loose gate.",
+      "The nosy, meddling neighbour inspected every parcel."
     ],
-    "correct": 2,
-    "explanation": "“often positive or elegant connotation” is the best choice because it demonstrates slender in context.\nHint: Choose the wording that performs the required job, not merely one that sounds fluent.",
+    "correct": 3,
+    "explanation": "The revision applies negative connotation accurately and purposefully.\nHint: Reject answers that add length without improving meaning.",
     "structuredExplanation": {
-      "summary": "“often positive or elegant connotation” is the best choice because it demonstrates slender in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "The revision applies negative connotation accurately and purposefully.",
+      "hint": "Reject answers that add length without improving meaning."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-036",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "metaphor",
+    "stage": "challenge",
+    "skill": "negative connotation misconception",
     "printable": true,
     "type": "single",
-    "question": "While revising a local-history article, you need language that matches “conceptual comparison describing one thing as another”. Which concept should guide your choice?",
-    "audioPrompt": "While revising a local-history article, you need language that matches “conceptual comparison describing one thing as another”. Which concept should guide your choice?",
+    "question": "A student says, “Emotive vocabulary is always positive.” Which response best corrects this claim?",
+    "audioPrompt": "A student says, “Emotive vocabulary is always positive.” Which response best corrects this claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1067,29 +1067,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "personification",
-      "connotation",
-      "It does not match the evidence in the example.",
-      "metaphor"
+      "The claim is too broad; this example shows that “Meddling” frames the curiosity as intrusive and unwelcome.",
+      "A metaphor is any sentence containing descriptive words.",
+      "Every use of “like” creates a simile.",
+      "Any verb describing a non-human thing is personification."
     ],
-    "correct": 3,
-    "explanation": "metaphor is the concept that matches conceptual comparison describing one thing as another.\nHint: Use the definition to guide the decision, then check it against the sentence.",
+    "correct": 0,
+    "explanation": "The correction is limited, evidence-based and accurate.\nHint: Test absolute words such as always, never and automatically.",
     "structuredExplanation": {
-      "summary": "metaphor is the concept that matches conceptual comparison describing one thing as another.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "The correction is limited, evidence-based and accurate.",
+      "hint": "Test absolute words such as always, never and automatically."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-037",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "compare near synonyms",
+    "stage": "foundation",
+    "skill": "sustained metaphor",
     "printable": true,
     "type": "single",
-    "question": "You are editing a environmental campaign. Which word has the most negative connotation in this set?",
-    "audioPrompt": "You are editing a environmental campaign. Which word has the most negative connotation in this set?",
+    "question": "Read: “The debate began as a spark, caught quickly and became a fire no speaker could contain.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “The debate began as a spark, caught quickly and became a fire no speaker could contain.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1097,29 +1097,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "scrawny",
-      "slender",
-      "thin",
-      "narrow"
+      "metaphor",
+      "sustained metaphor",
+      "simile",
+      "personification"
     ],
-    "correct": 0,
-    "explanation": "“scrawny” best fits the purpose and the language evidence in this new situation.\nHint: Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label.",
+    "correct": 1,
+    "explanation": "sustained metaphor: Related fire images develop an idea of growing conflict across the sentence.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "“scrawny” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label."
+      "summary": "sustained metaphor: Related fire images develop an idea of growing conflict across the sentence.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-038",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "stubborn",
+    "stage": "core",
+    "skill": "sustained metaphor effect",
     "printable": true,
     "type": "single",
-    "question": "A book-club discussion needs a clear example of stubborn. Which wording should you choose?",
-    "audioPrompt": "A book-club discussion needs a clear example of stubborn. Which wording should you choose?",
+    "question": "What does the choice in “The debate began as a spark, caught quickly and became a fire no speaker could contain.” contribute to meaning?",
+    "audioPrompt": "What does the choice in “The debate began as a spark, caught quickly and became a fire no speaker could contain.” contribute to meaning?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1127,29 +1127,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "often positive or elegant connotation",
-      "negative or resistant framing",
-      "negative judgement",
-      "positive persistence"
+      "The direct comparison frames the heat as enclosing, intense and dangerous.",
+      "The comparison helps readers hear the rain as hard, rapid and noisy.",
+      "Related fire images develop an idea of growing conflict across the sentence.",
+      "The human-like verb makes the wind seem persistent and unsettling."
     ],
-    "correct": 1,
-    "explanation": "“negative or resistant framing” is the best choice because it demonstrates stubborn in context.\nHint: Choose the wording that performs the required job, not merely one that sounds fluent.",
+    "correct": 2,
+    "explanation": "Related fire images develop an idea of growing conflict across the sentence.\nHint: Link exact evidence to meaning, purpose or reader response.",
     "structuredExplanation": {
-      "summary": "“negative or resistant framing” is the best choice because it demonstrates stubborn in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "Related fire images develop an idea of growing conflict across the sentence.",
+      "hint": "Link exact evidence to meaning, purpose or reader response."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-039",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "metaphor",
+    "stage": "application",
+    "skill": "sustained metaphor revision",
     "printable": true,
     "type": "single",
-    "question": "While revising a excursion briefing, you need language that matches “conceptual comparison describing one thing as another”. Which concept should guide your choice?",
-    "audioPrompt": "While revising a excursion briefing, you need language that matches “conceptual comparison describing one thing as another”. Which concept should guide your choice?",
+    "question": "Which revision best applies sustained metaphor to this example?",
+    "audioPrompt": "Which revision best applies sustained metaphor to this example?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1157,29 +1157,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "personification",
-      "connotation",
-      "metaphor",
-      "It does not match the evidence in the example."
+      "By noon, the city had become a furnace of glass and concrete.",
+      "Rain struck the roof like gravel flung against metal.",
+      "All night, the wind tugged and worried at the loose gate.",
+      "Keep the fire pattern and remove an unrelated “storm of ideas” phrase."
     ],
-    "correct": 2,
-    "explanation": "metaphor is the concept that matches conceptual comparison describing one thing as another.\nHint: Use the definition to guide the decision, then check it against the sentence.",
+    "correct": 3,
+    "explanation": "The revision applies sustained metaphor accurately and purposefully.\nHint: Reject answers that add length without improving meaning.",
     "structuredExplanation": {
-      "summary": "metaphor is the concept that matches conceptual comparison describing one thing as another.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "The revision applies sustained metaphor accurately and purposefully.",
+      "hint": "Reject answers that add length without improving meaning."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-040",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "explain connotation",
+    "stage": "challenge",
+    "skill": "sustained metaphor misconception",
     "printable": true,
     "type": "single",
-    "question": "You are editing a design project. Which word has the most negative connotation in this set?",
-    "audioPrompt": "You are editing a design project. Which word has the most negative connotation in this set?",
+    "question": "A student says, “One metaphor automatically becomes a sustained metaphor.” Which response best corrects this claim?",
+    "audioPrompt": "A student says, “One metaphor automatically becomes a sustained metaphor.” Which response best corrects this claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1187,29 +1187,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "slender",
-      "thin",
-      "narrow",
-      "scrawny"
+      "The claim is too broad; this example shows that related fire images develop an idea of growing conflict across the sentence.",
+      "A metaphor is any sentence containing descriptive words.",
+      "Every use of “like” creates a simile.",
+      "Any verb describing a non-human thing is personification."
     ],
-    "correct": 3,
-    "explanation": "“scrawny” best fits the purpose and the language evidence in this new situation.\nHint: Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label.",
+    "correct": 0,
+    "explanation": "The correction is limited, evidence-based and accurate.\nHint: Test absolute words such as always, never and automatically.",
     "structuredExplanation": {
-      "summary": "“scrawny” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label."
+      "summary": "The correction is limited, evidence-based and accurate.",
+      "hint": "Test absolute words such as always, never and automatically."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-041",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "analyse",
-    "skill": "identify metaphor effect",
+    "stage": "foundation",
+    "skill": "tone through verb choice",
     "printable": true,
     "type": "single",
-    "question": "In “The deadline was a shadow following us,” what does the metaphor suggest?",
-    "audioPrompt": "In “The deadline was a shadow following us,” what does the metaphor suggest?",
+    "question": "Read: “The exhausted hikers trudged towards camp.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “The exhausted hikers trudged towards camp.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1217,29 +1217,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The deadline created continuing pressure.",
-      "The deadline produced real darkness.",
-      "The group worked only at night.",
-      "A person carried a lamp."
+      "metaphor",
+      "tone through verb choice",
+      "simile",
+      "personification"
     ],
-    "correct": 0,
-    "explanation": "The metaphor represents persistent pressure as something that follows the group.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "correct": 1,
+    "explanation": "tone through verb choice: “Trudged” combines slow movement with effort and weariness.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "The metaphor represents persistent pressure as something that follows the group.",
-      "hint": "Use precise evidence and explain how the feature shapes meaning."
+      "summary": "tone through verb choice: “Trudged” combines slow movement with effort and weariness.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-042",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "analyse",
-    "skill": "interpret personification",
+    "stage": "core",
+    "skill": "tone through verb choice effect",
     "printable": true,
     "type": "single",
-    "question": "What effect is created by “The shutters complained in the wind”?",
-    "audioPrompt": "What effect is created by “The shutters complained in the wind”?",
+    "question": "What does the choice in “The exhausted hikers trudged towards camp.” contribute to meaning?",
+    "audioPrompt": "What does the choice in “The exhausted hikers trudged towards camp.” contribute to meaning?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1247,29 +1247,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The sound is made vivid as an unhappy human voice.",
-      "The shutters literally speak English.",
-      "The weather becomes silent.",
-      "The sentence gives an exact measurement."
+      "The direct comparison frames the heat as enclosing, intense and dangerous.",
+      "The comparison helps readers hear the rain as hard, rapid and noisy.",
+      "“Trudged” combines slow movement with effort and weariness.",
+      "The human-like verb makes the wind seem persistent and unsettling."
     ],
-    "correct": 0,
-    "explanation": "Personification turns the creaking sound into a human complaint, strengthening mood.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "correct": 2,
+    "explanation": "“Trudged” combines slow movement with effort and weariness.\nHint: Link exact evidence to meaning, purpose or reader response.",
     "structuredExplanation": {
-      "summary": "Personification turns the creaking sound into a human complaint, strengthening mood.",
-      "hint": "Use precise evidence and explain how the feature shapes meaning."
+      "summary": "“Trudged” combines slow movement with effort and weariness.",
+      "hint": "Link exact evidence to meaning, purpose or reader response."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-043",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "analyse",
-    "skill": "explain hyperbole",
+    "stage": "application",
+    "skill": "tone through verb choice revision",
     "printable": true,
     "type": "single",
-    "question": "Why might a narrator say, “I waited a thousand years for the bell”?",
-    "audioPrompt": "Why might a narrator say, “I waited a thousand years for the bell”?",
+    "question": "Which revision best applies tone through verb choice to this example?",
+    "audioPrompt": "Which revision best applies tone through verb choice to this example?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1277,29 +1277,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "To exaggerate impatience or boredom",
-      "To provide a precise historical date",
-      "To explain the bell’s materials",
-      "To deny that any waiting occurred"
+      "By noon, the city had become a furnace of glass and concrete.",
+      "Rain struck the roof like gravel flung against metal.",
+      "All night, the wind tugged and worried at the loose gate.",
+      "The exhausted hikers trudged through the mud towards camp."
     ],
-    "correct": 0,
-    "explanation": "The impossible duration exaggerates the narrator’s feeling.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "correct": 3,
+    "explanation": "The revision applies tone through verb choice accurately and purposefully.\nHint: Reject answers that add length without improving meaning.",
     "structuredExplanation": {
-      "summary": "The impossible duration exaggerates the narrator’s feeling.",
-      "hint": "Use precise evidence and explain how the feature shapes meaning."
+      "summary": "The revision applies tone through verb choice accurately and purposefully.",
+      "hint": "Reject answers that add length without improving meaning."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-044",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "choose vivid verb",
+    "stage": "challenge",
+    "skill": "tone through verb choice misconception",
     "printable": true,
     "type": "single",
-    "question": "Which revision is vivid without becoming exaggerated?",
-    "audioPrompt": "Which revision is vivid without becoming exaggerated?",
+    "question": "A student says, “Naming a device is a complete explanation of effect.” Which response best corrects this claim?",
+    "audioPrompt": "A student says, “Naming a device is a complete explanation of effect.” Which response best corrects this claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1307,29 +1307,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The creek threaded quietly between the rocks.",
-      "The creek did water stuff.",
-      "The creek exploded louder than the universe.",
-      "The creek was creek-like."
+      "The claim is too broad; this example shows that “Trudged” combines slow movement with effort and weariness.",
+      "A metaphor is any sentence containing descriptive words.",
+      "Every use of “like” creates a simile.",
+      "Any verb describing a non-human thing is personification."
     ],
     "correct": 0,
-    "explanation": "“Threaded quietly” creates a precise image suited to the small movement.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "explanation": "The correction is limited, evidence-based and accurate.\nHint: Test absolute words such as always, never and automatically.",
     "structuredExplanation": {
-      "summary": "“Threaded quietly” creates a precise image suited to the small movement.",
-      "hint": "Use precise evidence and explain how the feature shapes meaning."
+      "summary": "The correction is limited, evidence-based and accurate.",
+      "hint": "Test absolute words such as always, never and automatically."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-045",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "analyse",
-    "skill": "interpret idiom",
+    "stage": "foundation",
+    "skill": "controlled figurative language",
     "printable": true,
     "type": "single",
-    "question": "In context, what does “Nadia kept the project on track” mean?",
-    "audioPrompt": "In context, what does “Nadia kept the project on track” mean?",
+    "question": "Read: “The moon hung like a lantern above the dark track.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “The moon hung like a lantern above the dark track.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1337,29 +1337,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "She ensured the work continued towards its goal.",
-      "She placed the project on railway lines.",
-      "She cancelled every task.",
-      "She drew a track around the folder."
+      "metaphor",
+      "controlled figurative language",
+      "simile",
+      "personification"
     ],
-    "correct": 0,
-    "explanation": "The idiom means maintaining progress and direction.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "correct": 1,
+    "explanation": "controlled figurative language: One coherent comparison adds light and guidance without crowding the image.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "The idiom means maintaining progress and direction.",
-      "hint": "Use precise evidence and explain how the feature shapes meaning."
+      "summary": "controlled figurative language: One coherent comparison adds light and guidance without crowding the image.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-046",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "evaluate",
-    "skill": "compare connotation",
+    "stage": "core",
+    "skill": "controlled figurative language effect",
     "printable": true,
     "type": "single",
-    "question": "Which word makes the crowd seem threatening rather than energetic?",
-    "audioPrompt": "Which word makes the crowd seem threatening rather than energetic?",
+    "question": "What does the choice in “The moon hung like a lantern above the dark track.” contribute to meaning?",
+    "audioPrompt": "What does the choice in “The moon hung like a lantern above the dark track.” contribute to meaning?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1367,29 +1367,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "surged",
-      "gathered",
-      "arrived",
-      "assembled"
+      "The direct comparison frames the heat as enclosing, intense and dangerous.",
+      "The comparison helps readers hear the rain as hard, rapid and noisy.",
+      "One coherent comparison adds light and guidance without crowding the image.",
+      "The human-like verb makes the wind seem persistent and unsettling."
     ],
-    "correct": 0,
-    "explanation": "“Surged” suggests forceful, uncontrolled movement and creates a more threatening tone.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "correct": 2,
+    "explanation": "One coherent comparison adds light and guidance without crowding the image.\nHint: Link exact evidence to meaning, purpose or reader response.",
     "structuredExplanation": {
-      "summary": "“Surged” suggests forceful, uncontrolled movement and creates a more threatening tone.",
-      "hint": "Use precise evidence and explain how the feature shapes meaning."
+      "summary": "One coherent comparison adds light and guidance without crowding the image.",
+      "hint": "Link exact evidence to meaning, purpose or reader response."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-047",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "create imagery",
+    "stage": "application",
+    "skill": "controlled figurative language revision",
     "printable": true,
     "type": "single",
-    "question": "Which sentence uses sensory imagery most effectively?",
-    "audioPrompt": "Which sentence uses sensory imagery most effectively?",
+    "question": "Which revision best applies controlled figurative language to this example?",
+    "audioPrompt": "Which revision best applies controlled figurative language to this example?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1397,29 +1397,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Sharp eucalyptus scent drifted through the cool, smoky air.",
-      "The bush was nice.",
-      "There were trees and things.",
-      "Nature existed outside."
+      "By noon, the city had become a furnace of glass and concrete.",
+      "Rain struck the roof like gravel flung against metal.",
+      "All night, the wind tugged and worried at the loose gate.",
+      "The moon hung like a pale lantern above the track."
     ],
-    "correct": 0,
-    "explanation": "The sentence combines smell, temperature and sight to create a specific sensory experience.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "correct": 3,
+    "explanation": "The revision applies controlled figurative language accurately and purposefully.\nHint: Reject answers that add length without improving meaning.",
     "structuredExplanation": {
-      "summary": "The sentence combines smell, temperature and sight to create a specific sensory experience.",
-      "hint": "Use precise evidence and explain how the feature shapes meaning."
+      "summary": "The revision applies controlled figurative language accurately and purposefully.",
+      "hint": "Reject answers that add length without improving meaning."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-P-048",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "stage": "evaluate",
-    "skill": "avoid mixed imagery",
+    "stage": "challenge",
+    "skill": "controlled figurative language misconception",
     "printable": true,
     "type": "single",
-    "question": "Which revision repairs “Her idea took flight and planted deep roots overnight”?",
-    "audioPrompt": "Which revision repairs “Her idea took flight and planted deep roots overnight”?",
+    "question": "A student says, “More figurative devices always make writing stronger.” Which response best corrects this claim?",
+    "audioPrompt": "A student says, “More figurative devices always make writing stronger.” Which response best corrects this claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1427,18 +1427,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Her idea took flight and quickly reached new audiences.",
-      "Her idea flew while becoming a buried aeroplane.",
-      "Her idea planted wings in the soil.",
-      "Her idea was both a bird and a tree for no reason."
+      "The claim is too broad; this example shows that one coherent comparison adds light and guidance without crowding the image.",
+      "A metaphor is any sentence containing descriptive words.",
+      "Every use of “like” creates a simile.",
+      "Any verb describing a non-human thing is personification."
     ],
     "correct": 0,
-    "explanation": "The revision sustains one coherent image instead of mixing incompatible metaphors.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "explanation": "The correction is limited, evidence-based and accurate.\nHint: Test absolute words such as always, never and automatically.",
     "structuredExplanation": {
-      "summary": "The revision sustains one coherent image instead of mixing incompatible metaphors.",
-      "hint": "Use precise evidence and explain how the feature shapes meaning."
+      "summary": "The correction is limited, evidence-based and accurate.",
+      "hint": "Test absolute words such as always, never and automatically."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

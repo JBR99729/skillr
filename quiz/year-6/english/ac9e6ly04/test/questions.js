@@ -4,12 +4,12 @@ window.skillrTestQuestions = [
     "id": "AC9E6LY04-T-001",
     "curriculumCode": "AC9E6LY04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "historical perspective",
+    "stage": "independent",
+    "skill": "reading purpose",
     "printable": true,
     "type": "single",
-    "question": "A community radio segment includes “primary and secondary sources”. Which description best fits this wording?",
-    "audioPrompt": "A community radio segment includes “primary and secondary sources”. Which description best fits this wording?",
+    "question": "In a museum panel, “To check one scientific term, Priya chooses a glossary instead of reading the whole chapter.” Which analysis is strongest?",
+    "audioPrompt": "In a museum panel, “To check one scientific term, Priya chooses a glossary instead of reading the whole chapter.” Which analysis is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -17,29 +17,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "define information need",
-      "select likely source type",
-      "historical perspective",
-      "inspect title/author/date"
+      "table of contents: It gives a broad map of major sections and their order.",
+      "reading purpose: Her purpose determines the most efficient text feature and reading path.",
+      "index: Alphabetical entries and page references locate specific mentions across a book.",
+      "glossary: It supports domain-specific vocabulary without interrupting the main explanation."
     ],
-    "correct": 2,
-    "explanation": "The wording best matches historical perspective.\nHint: Identify the language choice first, then check its effect in this context.",
+    "correct": 1,
+    "explanation": "reading purpose is supported by exact evidence.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches historical perspective.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "reading purpose is supported by exact evidence.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-T-002",
     "curriculumCode": "AC9E6LY04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "skimming",
+    "stage": "independent",
+    "skill": "table of contents edit",
     "printable": true,
     "type": "single",
-    "question": "In a wildlife-centre report, which term matches this meaning: “rapid reading for overview”?",
-    "audioPrompt": "In a wildlife-centre report, which term matches this meaning: “rapid reading for overview”?",
+    "question": "Which edit best demonstrates table of contents in a museum panel?",
+    "audioPrompt": "Which edit best demonstrates table of contents in a museum panel?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -47,29 +47,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "scanning",
-      "source evaluation",
-      "It does not match the evidence in the example.",
-      "skimming"
+      "State the information need before choosing a source or feature.",
+      "Choose the subentry that matches the precise research question.",
+      "Use the contents page to locate the likely chapter, then scan its headings.",
+      "Check whether the definition fits the sentence and diagram."
     ],
-    "correct": 3,
-    "explanation": "skimming is the precise term for rapid reading for overview.\nHint: Distinguish closely related terms by their definitions.",
+    "correct": 2,
+    "explanation": "This edit applies table of contents accurately.\nHint: Choose purposeful accuracy.",
     "structuredExplanation": {
-      "summary": "skimming is the precise term for rapid reading for overview.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies table of contents accurately.",
+      "hint": "Choose purposeful accuracy."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-T-003",
     "curriculumCode": "AC9E6LY04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "selecting and navigating texts for purpose",
+    "stage": "transfer",
+    "skill": "index misconception",
     "printable": true,
     "type": "single",
-    "question": "For a regional youth forum, which source best supports a current population statistic?",
-    "audioPrompt": "For a regional youth forum, which source best supports a current population statistic?",
+    "question": "Which claim should an editor reject about “The index lists “erosion: coastal 62–67; wind 89; prevention 104”.” in this museum panel?",
+    "audioPrompt": "Which claim should an editor reject about “The index lists “erosion: coastal 62–67; wind 89; prevention 104”.” in this museum panel?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -77,29 +77,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A recent official statistical publication",
-      "An undated personal comment",
-      "A fictional story",
-      "A search snippet with no source"
+      "Every text should be read from the first page to the last.",
+      "A table of contents lists every individual term.",
+      "A glossary summarises every chapter.",
+      "An index and a glossary serve the same purpose."
     ],
-    "correct": 0,
-    "explanation": "“A recent official statistical publication” is supported by the language evidence and purpose of the text.\nHint: A source may be credible but irrelevant, or relevant but outdated. Evaluate several criteria.",
+    "correct": 3,
+    "explanation": "The rejected claim overgeneralises index.\nHint: Check it against evidence.",
     "structuredExplanation": {
-      "summary": "“A recent official statistical publication” is supported by the language evidence and purpose of the text.",
-      "hint": "A source may be credible but irrelevant, or relevant but outdated. Evaluate several criteria."
+      "summary": "The rejected claim overgeneralises index.",
+      "hint": "Check it against evidence."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-T-004",
     "curriculumCode": "AC9E6LY04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "glossary explanation",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a coastal-monitoring update says, “Snippet treated as full evidence”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a coastal-monitoring update says, “Snippet treated as full evidence”. Which response is most accurate?",
+    "question": "Which explanation best accounts for “The glossary defines “sediment” in the way the science book uses it.” in this museum panel?",
+    "audioPrompt": "Which explanation best accounts for “The glossary defines “sediment” in the way the science book uses it.” in this museum panel?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -107,29 +107,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "First result accepted",
-      "Open and read the source.",
-      "Snippet treated as full evidence",
-      "Search ranking treated as credibility"
+      "It supports domain-specific vocabulary without interrupting the main explanation.",
+      "Her purpose determines the most efficient text feature and reading path.",
+      "It gives a broad map of major sections and their order.",
+      "Alphabetical entries and page references locate specific mentions across a book."
     ],
-    "correct": 1,
-    "explanation": "Open and read the source. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "correct": 0,
+    "explanation": "It supports domain-specific vocabulary without interrupting the main explanation.\nHint: Connect evidence and effect.",
     "structuredExplanation": {
-      "summary": "Open and read the source. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "It supports domain-specific vocabulary without interrupting the main explanation.",
+      "hint": "Connect evidence and effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-T-005",
     "curriculumCode": "AC9E6LY04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "current statistic",
+    "stage": "independent",
+    "skill": "headings and subheadings",
     "printable": true,
     "type": "single",
-    "question": "A heritage trail guide includes “dated official data source”. Which description best fits this wording?",
-    "audioPrompt": "A heritage trail guide includes “dated official data source”. Which description best fits this wording?",
+    "question": "In a school magazine, “Under “Causes”, the subheadings separate wind, water and human activity.” Which analysis is strongest?",
+    "audioPrompt": "In a school magazine, “Under “Causes”, the subheadings separate wind, water and human activity.” Which analysis is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -137,29 +137,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "define information need",
-      "select likely source type",
-      "current statistic",
-      "inspect title/author/date"
+      "reading purpose: Her purpose determines the most efficient text feature and reading path.",
+      "headings and subheadings: The hierarchy predicts how information is grouped and helps targeted scanning.",
+      "table of contents: It gives a broad map of major sections and their order.",
+      "index: Alphabetical entries and page references locate specific mentions across a book."
     ],
-    "correct": 2,
-    "explanation": "The wording best matches current statistic.\nHint: Identify the language choice first, then check its effect in this context.",
+    "correct": 1,
+    "explanation": "headings and subheadings is supported by exact evidence.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches current statistic.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "headings and subheadings is supported by exact evidence.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-T-006",
     "curriculumCode": "AC9E6LY04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "scanning",
+    "stage": "independent",
+    "skill": "chapter structure edit",
     "printable": true,
     "type": "single",
-    "question": "In a public-transport survey, which term matches this meaning: “searching for a specific item”?",
-    "audioPrompt": "In a public-transport survey, which term matches this meaning: “searching for a specific item”?",
+    "question": "Which edit best demonstrates chapter structure in a school magazine?",
+    "audioPrompt": "Which edit best demonstrates chapter structure in a school magazine?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -167,29 +167,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "skimming",
-      "source evaluation",
-      "It does not match the evidence in the example.",
-      "scanning"
+      "State the information need before choosing a source or feature.",
+      "Use the contents page to locate the likely chapter, then scan its headings.",
+      "Preview the opening and closing paragraphs before close reading.",
+      "Choose the subentry that matches the precise research question."
     ],
-    "correct": 3,
-    "explanation": "scanning is the precise term for searching for a specific item.\nHint: Distinguish closely related terms by their definitions.",
+    "correct": 2,
+    "explanation": "This edit applies chapter structure accurately.\nHint: Choose purposeful accuracy.",
     "structuredExplanation": {
-      "summary": "scanning is the precise term for searching for a specific item.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies chapter structure accurately.",
+      "hint": "Choose purposeful accuracy."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-T-007",
     "curriculumCode": "AC9E6LY04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "selecting and navigating texts for purpose",
+    "stage": "transfer",
+    "skill": "hyperlink navigation misconception",
     "printable": true,
     "type": "single",
-    "question": "For a festival review, which source best supports a current population statistic?",
-    "audioPrompt": "For a festival review, which source best supports a current population statistic?",
+    "question": "Which claim should an editor reject about “A webpage link labelled “Download rainfall data” leads to a table rather than another explanation.” in this school magazine?",
+    "audioPrompt": "Which claim should an editor reject about “A webpage link labelled “Download rainfall data” leads to a table rather than another explanation.” in this school magazine?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -197,29 +197,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A recent official statistical publication",
-      "An undated personal comment",
-      "A fictional story",
-      "A search snippet with no source"
+      "Every text should be read from the first page to the last.",
+      "A table of contents lists every individual term.",
+      "An index and a glossary serve the same purpose.",
+      "Following more links always improves understanding."
     ],
-    "correct": 0,
-    "explanation": "“A recent official statistical publication” is supported by the language evidence and purpose of the text.\nHint: A source may be credible but irrelevant, or relevant but outdated. Evaluate several criteria.",
+    "correct": 3,
+    "explanation": "The rejected claim overgeneralises hyperlink navigation.\nHint: Check it against evidence.",
     "structuredExplanation": {
-      "summary": "“A recent official statistical publication” is supported by the language evidence and purpose of the text.",
-      "hint": "A source may be credible but irrelevant, or relevant but outdated. Evaluate several criteria."
+      "summary": "The rejected claim overgeneralises hyperlink navigation.",
+      "hint": "Check it against evidence."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-T-008",
     "curriculumCode": "AC9E6LY04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "search within page explanation",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a emergency-preparedness talk says, “Snippet treated as full evidence”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a emergency-preparedness talk says, “Snippet treated as full evidence”. Which response is most accurate?",
+    "question": "Which explanation best accounts for “Searching “habitat loss” finds three occurrences in a long report.” in this school magazine?",
+    "audioPrompt": "Which explanation best accounts for “Searching “habitat loss” finds three occurrences in a long report.” in this school magazine?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -227,29 +227,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "First result accepted",
-      "Open and read the source.",
-      "Snippet treated as full evidence",
-      "Search ranking treated as credibility"
+      "The tool locates candidates quickly, but surrounding paragraphs must still be read.",
+      "Her purpose determines the most efficient text feature and reading path.",
+      "It gives a broad map of major sections and their order.",
+      "Alphabetical entries and page references locate specific mentions across a book."
     ],
-    "correct": 1,
-    "explanation": "Open and read the source. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "correct": 0,
+    "explanation": "The tool locates candidates quickly, but surrounding paragraphs must still be read.\nHint: Connect evidence and effect.",
     "structuredExplanation": {
-      "summary": "Open and read the source. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "The tool locates candidates quickly, but surrounding paragraphs must still be read.",
+      "hint": "Connect evidence and effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-T-009",
     "curriculumCode": "AC9E6LY04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "quick definition",
+    "stage": "independent",
+    "skill": "skimming",
     "printable": true,
     "type": "single",
-    "question": "A water-saving brochure includes “glossary or authoritative reference”. Which description best fits this wording?",
-    "audioPrompt": "A water-saving brochure includes “glossary or authoritative reference”. Which description best fits this wording?",
+    "question": "In a community website, “Leo reads the title, introduction, headings, captions and conclusion before choosing the report.” Which analysis is strongest?",
+    "audioPrompt": "In a community website, “Leo reads the title, introduction, headings, captions and conclusion before choosing the report.” Which analysis is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -257,29 +257,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "define information need",
-      "select likely source type",
-      "quick definition",
-      "inspect title/author/date"
+      "reading purpose: Her purpose determines the most efficient text feature and reading path.",
+      "skimming: Skimming establishes scope, organisation and likely usefulness.",
+      "table of contents: It gives a broad map of major sections and their order.",
+      "index: Alphabetical entries and page references locate specific mentions across a book."
     ],
-    "correct": 2,
-    "explanation": "The wording best matches quick definition.\nHint: Identify the language choice first, then check its effect in this context.",
+    "correct": 1,
+    "explanation": "skimming is supported by exact evidence.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches quick definition.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "skimming is supported by exact evidence.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-T-010",
     "curriculumCode": "AC9E6LY04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "source evaluation",
+    "stage": "independent",
+    "skill": "monitoring meaning edit",
     "printable": true,
     "type": "single",
-    "question": "In a local council submission, which term matches this meaning: “judging authority, currency, relevance and evidence”?",
-    "audioPrompt": "In a local council submission, which term matches this meaning: “judging authority, currency, relevance and evidence”?",
+    "question": "Which edit best demonstrates monitoring meaning in a community website?",
+    "audioPrompt": "Which edit best demonstrates monitoring meaning in a community website?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -287,29 +287,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "skimming",
-      "scanning",
-      "It does not match the evidence in the example.",
-      "source evaluation"
+      "State the information need before choosing a source or feature.",
+      "Use the contents page to locate the likely chapter, then scan its headings.",
+      "Reread, use the diagram and clarify unknown terms if the summary fails.",
+      "Choose the subentry that matches the precise research question."
     ],
-    "correct": 3,
-    "explanation": "source evaluation is the precise term for judging authority, currency, relevance and evidence.\nHint: Distinguish closely related terms by their definitions.",
+    "correct": 2,
+    "explanation": "This edit applies monitoring meaning accurately.\nHint: Choose purposeful accuracy.",
     "structuredExplanation": {
-      "summary": "source evaluation is the precise term for judging authority, currency, relevance and evidence.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies monitoring meaning accurately.",
+      "hint": "Choose purposeful accuracy."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-T-011",
     "curriculumCode": "AC9E6LY04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "selecting and navigating texts for purpose",
+    "stage": "transfer",
+    "skill": "source suitability misconception",
     "printable": true,
     "type": "single",
-    "question": "For a marine-research diary, which source best supports a current population statistic?",
-    "audioPrompt": "For a marine-research diary, which source best supports a current population statistic?",
+    "question": "Which claim should an editor reject about “A children’s encyclopedia explains the basics; a government dataset supplies current measurements.” in this community website?",
+    "audioPrompt": "Which claim should an editor reject about “A children’s encyclopedia explains the basics; a government dataset supplies current measurements.” in this community website?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -317,29 +317,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A recent official statistical publication",
-      "An undated personal comment",
-      "A fictional story",
-      "A search snippet with no source"
+      "Every text should be read from the first page to the last.",
+      "A table of contents lists every individual term.",
+      "An index and a glossary serve the same purpose.",
+      "The first search result is usually the best source."
     ],
-    "correct": 0,
-    "explanation": "“A recent official statistical publication” is supported by the language evidence and purpose of the text.\nHint: A source may be credible but irrelevant, or relevant but outdated. Evaluate several criteria.",
+    "correct": 3,
+    "explanation": "The rejected claim overgeneralises source suitability.\nHint: Check it against evidence.",
     "structuredExplanation": {
-      "summary": "“A recent official statistical publication” is supported by the language evidence and purpose of the text.",
-      "hint": "A source may be credible but irrelevant, or relevant but outdated. Evaluate several criteria."
+      "summary": "The rejected claim overgeneralises source suitability.",
+      "hint": "Check it against evidence."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-T-012",
     "curriculumCode": "AC9E6LY04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "navigation synthesis explanation",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a farmers market profile says, “Snippet treated as full evidence”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a farmers market profile says, “Snippet treated as full evidence”. Which response is most accurate?",
+    "question": "Which explanation best accounts for “For a question on cyclone safety, Arlo uses contents, headings, glossary and index, then records relevant pages.” in this community website?",
+    "audioPrompt": "Which explanation best accounts for “For a question on cyclone safety, Arlo uses contents, headings, glossary and index, then records relevant pages.” in this community website?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -347,29 +347,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "First result accepted",
-      "Open and read the source.",
-      "Snippet treated as full evidence",
-      "Search ranking treated as credibility"
+      "Several structural features work together as a deliberate navigation plan.",
+      "Her purpose determines the most efficient text feature and reading path.",
+      "It gives a broad map of major sections and their order.",
+      "Alphabetical entries and page references locate specific mentions across a book."
     ],
-    "correct": 1,
-    "explanation": "Open and read the source. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "correct": 0,
+    "explanation": "Several structural features work together as a deliberate navigation plan.\nHint: Connect evidence and effect.",
     "structuredExplanation": {
-      "summary": "Open and read the source. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "Several structural features work together as a deliberate navigation plan.",
+      "hint": "Connect evidence and effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-T-013",
     "curriculumCode": "AC9E6LY04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "compare viewpoints",
+    "stage": "independent",
+    "skill": "reading purpose",
     "printable": true,
     "type": "single",
-    "question": "A astronomy exhibition includes “multiple attributed sources”. Which description best fits this wording?",
-    "audioPrompt": "A astronomy exhibition includes “multiple attributed sources”. Which description best fits this wording?",
+    "question": "In a student presentation, “To check one scientific term, Priya chooses a glossary instead of reading the whole chapter.” Which analysis is strongest?",
+    "audioPrompt": "In a student presentation, “To check one scientific term, Priya chooses a glossary instead of reading the whole chapter.” Which analysis is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -377,29 +377,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "define information need",
-      "select likely source type",
-      "compare viewpoints",
-      "inspect title/author/date"
+      "table of contents: It gives a broad map of major sections and their order.",
+      "reading purpose: Her purpose determines the most efficient text feature and reading path.",
+      "index: Alphabetical entries and page references locate specific mentions across a book.",
+      "glossary: It supports domain-specific vocabulary without interrupting the main explanation."
     ],
-    "correct": 2,
-    "explanation": "The wording best matches compare viewpoints.\nHint: Identify the language choice first, then check its effect in this context.",
+    "correct": 1,
+    "explanation": "reading purpose is supported by exact evidence.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches compare viewpoints.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "reading purpose is supported by exact evidence.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-T-014",
     "curriculumCode": "AC9E6LY04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "skimming",
+    "stage": "independent",
+    "skill": "table of contents edit",
     "printable": true,
     "type": "single",
-    "question": "In a river-restoration update, which term matches this meaning: “rapid reading for overview”?",
-    "audioPrompt": "In a river-restoration update, which term matches this meaning: “rapid reading for overview”?",
+    "question": "Which edit best demonstrates table of contents in a student presentation?",
+    "audioPrompt": "Which edit best demonstrates table of contents in a student presentation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -407,29 +407,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "scanning",
-      "source evaluation",
-      "It does not match the evidence in the example.",
-      "skimming"
+      "State the information need before choosing a source or feature.",
+      "Choose the subentry that matches the precise research question.",
+      "Use the contents page to locate the likely chapter, then scan its headings.",
+      "Check whether the definition fits the sentence and diagram."
     ],
-    "correct": 3,
-    "explanation": "skimming is the precise term for rapid reading for overview.\nHint: Distinguish closely related terms by their definitions.",
+    "correct": 2,
+    "explanation": "This edit applies table of contents accurately.\nHint: Choose purposeful accuracy.",
     "structuredExplanation": {
-      "summary": "skimming is the precise term for rapid reading for overview.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies table of contents accurately.",
+      "hint": "Choose purposeful accuracy."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-T-015",
     "curriculumCode": "AC9E6LY04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "selecting and navigating texts for purpose",
+    "stage": "transfer",
+    "skill": "index misconception",
     "printable": true,
     "type": "single",
-    "question": "For a cycling-safety campaign, which source best supports a current population statistic?",
-    "audioPrompt": "For a cycling-safety campaign, which source best supports a current population statistic?",
+    "question": "Which claim should an editor reject about “The index lists “erosion: coastal 62–67; wind 89; prevention 104”.” in this student presentation?",
+    "audioPrompt": "Which claim should an editor reject about “The index lists “erosion: coastal 62–67; wind 89; prevention 104”.” in this student presentation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -437,29 +437,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A recent official statistical publication",
-      "An undated personal comment",
-      "A fictional story",
-      "A search snippet with no source"
+      "Every text should be read from the first page to the last.",
+      "A table of contents lists every individual term.",
+      "A glossary summarises every chapter.",
+      "An index and a glossary serve the same purpose."
     ],
-    "correct": 0,
-    "explanation": "“A recent official statistical publication” is supported by the language evidence and purpose of the text.\nHint: A source may be credible but irrelevant, or relevant but outdated. Evaluate several criteria.",
+    "correct": 3,
+    "explanation": "The rejected claim overgeneralises index.\nHint: Check it against evidence.",
     "structuredExplanation": {
-      "summary": "“A recent official statistical publication” is supported by the language evidence and purpose of the text.",
-      "hint": "A source may be credible but irrelevant, or relevant but outdated. Evaluate several criteria."
+      "summary": "The rejected claim overgeneralises index.",
+      "hint": "Check it against evidence."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-T-016",
     "curriculumCode": "AC9E6LY04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "glossary explanation",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a neighbourhood history podcast says, “Snippet treated as full evidence”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a neighbourhood history podcast says, “Snippet treated as full evidence”. Which response is most accurate?",
+    "question": "Which explanation best accounts for “The glossary defines “sediment” in the way the science book uses it.” in this student presentation?",
+    "audioPrompt": "Which explanation best accounts for “The glossary defines “sediment” in the way the science book uses it.” in this student presentation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -467,18 +467,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "First result accepted",
-      "Open and read the source.",
-      "Snippet treated as full evidence",
-      "Search ranking treated as credibility"
+      "It supports domain-specific vocabulary without interrupting the main explanation.",
+      "Her purpose determines the most efficient text feature and reading path.",
+      "It gives a broad map of major sections and their order.",
+      "Alphabetical entries and page references locate specific mentions across a book."
     ],
-    "correct": 1,
-    "explanation": "Open and read the source. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "correct": 0,
+    "explanation": "It supports domain-specific vocabulary without interrupting the main explanation.\nHint: Connect evidence and effect.",
     "structuredExplanation": {
-      "summary": "Open and read the source. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "It supports domain-specific vocabulary without interrupting the main explanation.",
+      "hint": "Connect evidence and effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

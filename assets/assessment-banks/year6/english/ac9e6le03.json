@@ -5,37 +5,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "identify_recurring_pattern",
-    "question": "In a class podcast, what best supports a claim about authorial style?",
-    "audio_prompt": "In a class podcast, what best supports a claim about authorial style?",
+    "stage": "foundation",
+    "skill": "recurring first-person voice",
+    "question": "Read: “Across two stories, the narrators reveal feelings but misunderstand other characters.” Which description best identifies the relevant choice?",
+    "audio_prompt": "Read: “Across two stories, the narrators reveal feelings but misunderstand other characters.” Which description best identifies the relevant choice?",
     "answers": [
       {
-        "text": "One isolated adjective",
-        "is_correct": false
-      },
-      {
-        "text": "The author’s photograph",
-        "is_correct": false
-      },
-      {
-        "text": "A single plot fact",
-        "is_correct": false
-      },
-      {
-        "text": "A recurring combination of choices across several texts",
+        "text": "recurring first-person voice",
         "is_correct": true
+      },
+      {
+        "text": "sentence pattern",
+        "is_correct": false
+      },
+      {
+        "text": "imagery motif",
+        "is_correct": false
+      },
+      {
+        "text": "understatement",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "“A recurring combination of choices across several texts” is the strongest choice because it matches the language feature and the situation.",
-      "hint": "One feature alone rarely defines style. Use repeated patterns across texts and distinguish author, narrator and genre conventions."
+      "summary": "recurring first-person voice: The repeated close but limited viewpoint creates intimacy and uncertainty.",
+      "hint": "Name the feature precisely."
     },
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "foundation",
     "sequence_priority": 1,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-P-002",
@@ -43,37 +43,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "narrator",
-    "question": "Which term best matches this meaning: “constructed voice presenting a narrative”?",
-    "audio_prompt": "Which term best matches this meaning: “constructed voice presenting a narrative”?",
+    "stage": "foundation",
+    "skill": "recurring first-person voice effect",
+    "question": "What does “Across two stories, the narrators reveal feelings but misunderstand other characters.” contribute to meaning or response?",
+    "audio_prompt": "What does “Across two stories, the narrators reveal feelings but misunderstand other characters.” contribute to meaning or response?",
     "answers": [
       {
-        "text": "narrator",
+        "text": "The repeated syntax speeds the pace and emphasises sudden decisions.",
+        "is_correct": false
+      },
+      {
+        "text": "The repeated close but limited viewpoint creates intimacy and uncertainty.",
         "is_correct": true
       },
       {
-        "text": "authorial style",
+        "text": "The repeated boundary imagery develops the author’s concern with freedom and restriction.",
         "is_correct": false
       },
       {
-        "text": "motif",
-        "is_correct": false
-      },
-      {
-        "text": "It does not match the evidence in the example.",
+        "text": "The recurring understatement releases tension and builds dry humour.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "narrator means constructed voice presenting a narrative.",
-      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
+      "summary": "The repeated close but limited viewpoint creates intimacy and uncertainty.",
+      "hint": "Link exact evidence to its effect."
     },
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "foundation",
     "sequence_priority": 2,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-P-003",
@@ -81,37 +81,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "imagery",
-    "question": "Read this example from a science investigation: “weather mirrors emotion”. Which label best describes what the language is doing?",
-    "audio_prompt": "Read this example from a science investigation: “weather mirrors emotion”. Which label best describes what the language is doing?",
+    "stage": "core",
+    "skill": "recurring first-person voice revision",
+    "question": "Which revision best applies recurring first-person voice?",
+    "audio_prompt": "Which revision best applies recurring first-person voice?",
     "answers": [
       {
-        "text": "narration",
+        "text": "Quote one fragment from each text and explain the shared effect.",
         "is_correct": false
       },
       {
-        "text": "imagery",
+        "text": "Trace the boundary motif across at least two texts.",
+        "is_correct": false
+      },
+      {
+        "text": "Compare one moment of misunderstanding from each story.",
         "is_correct": true
       },
       {
-        "text": "syntax",
-        "is_correct": false
-      },
-      {
-        "text": "humour",
+        "text": "Explain how the mild wording contrasts with the serious event.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "“weather mirrors emotion” is an example of imagery; here it coherent motif.",
-      "hint": "One feature alone rarely defines style. Use repeated patterns across texts and distinguish author, narrator and genre conventions."
+      "summary": "The revision applies recurring first-person voice purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 3,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-P-004",
@@ -119,37 +119,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "misconception_repair",
-    "question": "Which correction best fixes this idea: “Feature list lacks effect”?",
-    "audio_prompt": "Which correction best fixes this idea: “Feature list lacks effect”?",
+    "stage": "core",
+    "skill": "recurring first-person voice misconception",
+    "question": "A student says, “The narrator and author are the same person.” Which response best corrects the claim?",
+    "audio_prompt": "A student says, “The narrator and author are the same person.” Which response best corrects the claim?",
     "answers": [
       {
-        "text": "Narrator and author treated as identical",
+        "text": "The narrator and author are the same person.",
         "is_correct": false
       },
       {
-        "text": "One quotation defines style",
+        "text": "One short sentence proves an author always writes this way.",
         "is_correct": false
       },
       {
-        "text": "Explain how choices shape reading.",
+        "text": "Any repeated object is automatically a meaningful motif.",
+        "is_correct": false
+      },
+      {
+        "text": "The claim is too broad; the example shows that the repeated close but limited viewpoint creates intimacy and uncertainty.",
         "is_correct": true
-      },
-      {
-        "text": "Genre convention credited only to author",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Explain how choices shape reading. This fixes the misconception without creating a new rule that is too broad.",
-      "hint": "Check the actual language evidence rather than relying on an absolute rule."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 4,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-P-005",
@@ -157,37 +157,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "themes",
-    "question": "Which example would be most useful when explaining authorial style and voice in a sports-club discussion?",
-    "audio_prompt": "Which example would be most useful when explaining authorial style and voice in a sports-club discussion?",
+    "stage": "foundation",
+    "skill": "sentence pattern",
+    "question": "Read: “At each turning point, the author shifts from flowing description to short fragments.” Which description best identifies the relevant choice?",
+    "audio_prompt": "Read: “At each turning point, the author shifts from flowing description to short fragments.” Which description best identifies the relevant choice?",
     "answers": [
       {
-        "text": "close first person with gaps",
-        "is_correct": false
-      },
-      {
-        "text": "short fragments at turning points",
-        "is_correct": false
-      },
-      {
-        "text": "weather mirrors emotion",
-        "is_correct": false
-      },
-      {
-        "text": "belonging and responsibility",
+        "text": "sentence pattern",
         "is_correct": true
+      },
+      {
+        "text": "recurring first-person voice",
+        "is_correct": false
+      },
+      {
+        "text": "imagery motif",
+        "is_correct": false
+      },
+      {
+        "text": "understatement",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "This example directly demonstrates themes and can be explained using the language clue in the text.",
-      "hint": "Students compare several texts by an author, identify recurring patterns and explain how combinations of syntax, imagery, humour, pacing, narration and theme create recognisable style."
+      "summary": "sentence pattern: The repeated syntax speeds the pace and emphasises sudden decisions.",
+      "hint": "Name the feature precisely."
     },
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "foundation",
     "sequence_priority": 5,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-P-006",
@@ -195,37 +195,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "identify_recurring_pattern",
-    "question": "In a library display, which may be a motif?",
-    "audio_prompt": "In a library display, which may be a motif?",
+    "stage": "foundation",
+    "skill": "sentence pattern effect",
+    "question": "What does “At each turning point, the author shifts from flowing description to short fragments.” contribute to meaning or response?",
+    "audio_prompt": "What does “At each turning point, the author shifts from flowing description to short fragments.” contribute to meaning or response?",
     "answers": [
       {
-        "text": "A recurring image of locked doors",
+        "text": "The repeated close but limited viewpoint creates intimacy and uncertainty.",
+        "is_correct": false
+      },
+      {
+        "text": "The repeated syntax speeds the pace and emphasises sudden decisions.",
         "is_correct": true
       },
       {
-        "text": "One random comma",
+        "text": "The repeated boundary imagery develops the author’s concern with freedom and restriction.",
         "is_correct": false
       },
       {
-        "text": "The page number",
-        "is_correct": false
-      },
-      {
-        "text": "The publisher logo",
+        "text": "The recurring understatement releases tension and builds dry humour.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“A recurring image of locked doors” is the strongest choice because it matches the language feature and the situation.",
-      "hint": "One feature alone rarely defines style. Use repeated patterns across texts and distinguish author, narrator and genre conventions."
+      "summary": "The repeated syntax speeds the pace and emphasises sudden decisions.",
+      "hint": "Link exact evidence to its effect."
     },
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "foundation",
     "sequence_priority": 6,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-P-007",
@@ -233,37 +233,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "authorial_style",
-    "question": "Which term best matches this meaning: “recurring distinctive pattern of craft choices”?",
-    "audio_prompt": "Which term best matches this meaning: “recurring distinctive pattern of craft choices”?",
+    "stage": "core",
+    "skill": "sentence pattern revision",
+    "question": "Which revision best applies sentence pattern?",
+    "audio_prompt": "Which revision best applies sentence pattern?",
     "answers": [
       {
-        "text": "narrator",
+        "text": "Compare one moment of misunderstanding from each story.",
         "is_correct": false
       },
       {
-        "text": "authorial style",
+        "text": "Trace the boundary motif across at least two texts.",
+        "is_correct": false
+      },
+      {
+        "text": "Quote one fragment from each text and explain the shared effect.",
         "is_correct": true
       },
       {
-        "text": "motif",
-        "is_correct": false
-      },
-      {
-        "text": "It does not match the evidence in the example.",
+        "text": "Explain how the mild wording contrasts with the serious event.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "authorial style means recurring distinctive pattern of craft choices.",
-      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
+      "summary": "The revision applies sentence pattern purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 7,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-P-008",
@@ -271,37 +271,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "imagery",
-    "question": "Read this example from a student council meeting: “weather mirrors emotion”. Which label best describes what the language is doing?",
-    "audio_prompt": "Read this example from a student council meeting: “weather mirrors emotion”. Which label best describes what the language is doing?",
+    "stage": "core",
+    "skill": "sentence pattern misconception",
+    "question": "A student says, “One short sentence proves an author always writes this way.” Which response best corrects the claim?",
+    "audio_prompt": "A student says, “One short sentence proves an author always writes this way.” Which response best corrects the claim?",
     "answers": [
       {
-        "text": "narration",
+        "text": "The narrator and author are the same person.",
         "is_correct": false
       },
       {
-        "text": "syntax",
+        "text": "One short sentence proves an author always writes this way.",
         "is_correct": false
       },
       {
-        "text": "imagery",
+        "text": "Any repeated object is automatically a meaningful motif.",
+        "is_correct": false
+      },
+      {
+        "text": "The claim is too broad; the example shows that the repeated syntax speeds the pace and emphasises sudden decisions.",
         "is_correct": true
-      },
-      {
-        "text": "humour",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "“weather mirrors emotion” is an example of imagery; here it coherent motif.",
-      "hint": "One feature alone rarely defines style. Use repeated patterns across texts and distinguish author, narrator and genre conventions."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 8,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-P-009",
@@ -309,37 +309,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "misconception_repair",
-    "question": "Which correction best fixes this idea: “Narrator and author treated as identical”?",
-    "audio_prompt": "Which correction best fixes this idea: “Narrator and author treated as identical”?",
+    "stage": "foundation",
+    "skill": "imagery motif",
+    "question": "Read: “Windows, doors and gates recur whenever characters face difficult choices.” Which description best identifies the relevant choice?",
+    "audio_prompt": "Read: “Windows, doors and gates recur whenever characters face difficult choices.” Which description best identifies the relevant choice?",
     "answers": [
       {
-        "text": "Narrator and author treated as identical",
-        "is_correct": false
-      },
-      {
-        "text": "One quotation defines style",
-        "is_correct": false
-      },
-      {
-        "text": "Genre convention credited only to author",
-        "is_correct": false
-      },
-      {
-        "text": "The narrator is a crafted textual role.",
+        "text": "imagery motif",
         "is_correct": true
+      },
+      {
+        "text": "recurring first-person voice",
+        "is_correct": false
+      },
+      {
+        "text": "sentence pattern",
+        "is_correct": false
+      },
+      {
+        "text": "understatement",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The narrator is a crafted textual role. This fixes the misconception without creating a new rule that is too broad.",
-      "hint": "Check the actual language evidence rather than relying on an absolute rule."
+      "summary": "imagery motif: The repeated boundary imagery develops the author’s concern with freedom and restriction.",
+      "hint": "Name the feature precisely."
     },
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "foundation",
     "sequence_priority": 9,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-P-010",
@@ -347,37 +347,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "themes",
-    "question": "Which example would be most useful when explaining authorial style and voice in a environmental campaign?",
-    "audio_prompt": "Which example would be most useful when explaining authorial style and voice in a environmental campaign?",
+    "stage": "foundation",
+    "skill": "imagery motif effect",
+    "question": "What does “Windows, doors and gates recur whenever characters face difficult choices.” contribute to meaning or response?",
+    "audio_prompt": "What does “Windows, doors and gates recur whenever characters face difficult choices.” contribute to meaning or response?",
     "answers": [
       {
-        "text": "belonging and responsibility",
+        "text": "The repeated close but limited viewpoint creates intimacy and uncertainty.",
+        "is_correct": false
+      },
+      {
+        "text": "The repeated boundary imagery develops the author’s concern with freedom and restriction.",
         "is_correct": true
       },
       {
-        "text": "close first person with gaps",
+        "text": "The repeated syntax speeds the pace and emphasises sudden decisions.",
         "is_correct": false
       },
       {
-        "text": "short fragments at turning points",
-        "is_correct": false
-      },
-      {
-        "text": "weather mirrors emotion",
+        "text": "The recurring understatement releases tension and builds dry humour.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "This example directly demonstrates themes and can be explained using the language clue in the text.",
-      "hint": "Students compare several texts by an author, identify recurring patterns and explain how combinations of syntax, imagery, humour, pacing, narration and theme create recognisable style."
+      "summary": "The repeated boundary imagery develops the author’s concern with freedom and restriction.",
+      "hint": "Link exact evidence to its effect."
     },
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "foundation",
     "sequence_priority": 10,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-P-011",
@@ -385,37 +385,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "imagery",
-    "question": "A museum caption includes “weather mirrors emotion”. Why is this an effective example of imagery?",
-    "audio_prompt": "A museum caption includes “weather mirrors emotion”. Why is this an effective example of imagery?",
+    "stage": "core",
+    "skill": "imagery motif revision",
+    "question": "Which revision best applies imagery motif?",
+    "audio_prompt": "Which revision best applies imagery motif?",
     "answers": [
       {
-        "text": "It coherent motif and supports the purpose of the text.",
+        "text": "Compare one moment of misunderstanding from each story.",
+        "is_correct": false
+      },
+      {
+        "text": "Quote one fragment from each text and explain the shared effect.",
+        "is_correct": false
+      },
+      {
+        "text": "Trace the boundary motif across at least two texts.",
         "is_correct": true
       },
       {
-        "text": "It matches the purpose and the language clue in the example.",
-        "is_correct": false
-      },
-      {
-        "text": "One feature alone rarely defines style. Use repeated patterns across texts and distinguish author, narrator and genre conventions.",
-        "is_correct": false
-      },
-      {
-        "text": "Do not infer personality directly from fictional voice. Analyse crafted textual choices.",
+        "text": "Explain how the mild wording contrasts with the serious event.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "weather mirrors emotion works because coherent motif.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "The revision applies imagery motif purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "core",
     "sequence_priority": 11,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-P-012",
@@ -423,37 +423,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception_repair",
-    "question": "Why is “Use patterns across texts.” a better rule than “One quotation defines style” when reading a student council meeting?",
-    "audio_prompt": "Why is “Use patterns across texts.” a better rule than “One quotation defines style” when reading a student council meeting?",
+    "stage": "core",
+    "skill": "imagery motif misconception",
+    "question": "A student says, “Any repeated object is automatically a meaningful motif.” Which response best corrects the claim?",
+    "audio_prompt": "A student says, “Any repeated object is automatically a meaningful motif.” Which response best corrects the claim?",
     "answers": [
       {
-        "text": "Because the longest rule is always the best one.",
+        "text": "The narrator and author are the same person.",
         "is_correct": false
       },
       {
-        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "text": "One short sentence proves an author always writes this way.",
+        "is_correct": false
+      },
+      {
+        "text": "Any repeated object is automatically a meaningful motif.",
+        "is_correct": false
+      },
+      {
+        "text": "The claim is too broad; the example shows that the repeated boundary imagery develops the author’s concern with freedom and restriction.",
         "is_correct": true
-      },
-      {
-        "text": "Because exceptions never matter in English.",
-        "is_correct": false
-      },
-      {
-        "text": "Because a rule is correct whenever it uses technical words.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "“Use patterns across texts.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "core",
     "sequence_priority": 12,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-P-013",
@@ -461,37 +461,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "themes",
-    "question": "A local-history article includes “belonging and responsibility”. Why is this an effective example of themes?",
-    "audio_prompt": "A local-history article includes “belonging and responsibility”. Why is this an effective example of themes?",
+    "stage": "foundation",
+    "skill": "understatement",
+    "question": "Read: “After each disaster, a character quietly says, “That could have gone better.”” Which description best identifies the relevant choice?",
+    "audio_prompt": "Read: “After each disaster, a character quietly says, “That could have gone better.”” Which description best identifies the relevant choice?",
     "answers": [
       {
-        "text": "It matches the purpose and the language clue in the example.",
-        "is_correct": false
-      },
-      {
-        "text": "One feature alone rarely defines style. Use repeated patterns across texts and distinguish author, narrator and genre conventions.",
-        "is_correct": false
-      },
-      {
-        "text": "It recurring concern and supports the purpose of the text.",
+        "text": "understatement",
         "is_correct": true
       },
       {
-        "text": "Do not infer personality directly from fictional voice. Analyse crafted textual choices.",
+        "text": "recurring first-person voice",
+        "is_correct": false
+      },
+      {
+        "text": "sentence pattern",
+        "is_correct": false
+      },
+      {
+        "text": "imagery motif",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "belonging and responsibility works because recurring concern.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "understatement: The recurring understatement releases tension and builds dry humour.",
+      "hint": "Name the feature precisely."
     },
-    "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 13,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-P-014",
@@ -499,37 +499,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception_repair",
-    "question": "Why is “Explain how choices shape reading.” a better rule than “Feature list lacks effect” when reading a environmental campaign?",
-    "audio_prompt": "Why is “Explain how choices shape reading.” a better rule than “Feature list lacks effect” when reading a environmental campaign?",
+    "stage": "foundation",
+    "skill": "understatement effect",
+    "question": "What does “After each disaster, a character quietly says, “That could have gone better.”” contribute to meaning or response?",
+    "audio_prompt": "What does “After each disaster, a character quietly says, “That could have gone better.”” contribute to meaning or response?",
     "answers": [
       {
-        "text": "Because the longest rule is always the best one.",
+        "text": "The repeated close but limited viewpoint creates intimacy and uncertainty.",
         "is_correct": false
       },
       {
-        "text": "Because exceptions never matter in English.",
-        "is_correct": false
-      },
-      {
-        "text": "Because a rule is correct whenever it uses technical words.",
-        "is_correct": false
-      },
-      {
-        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "text": "The recurring understatement releases tension and builds dry humour.",
         "is_correct": true
+      },
+      {
+        "text": "The repeated syntax speeds the pace and emphasises sudden decisions.",
+        "is_correct": false
+      },
+      {
+        "text": "The repeated boundary imagery develops the author’s concern with freedom and restriction.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“Explain how choices shape reading.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The recurring understatement releases tension and builds dry humour.",
+      "hint": "Link exact evidence to its effect."
     },
-    "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 14,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-P-015",
@@ -537,37 +537,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "syntax",
-    "question": "A book-club discussion includes “short fragments at turning points”. Why is this an effective example of syntax?",
-    "audio_prompt": "A book-club discussion includes “short fragments at turning points”. Why is this an effective example of syntax?",
+    "stage": "core",
+    "skill": "understatement revision",
+    "question": "Which revision best applies understatement?",
+    "audio_prompt": "Which revision best applies understatement?",
     "answers": [
       {
-        "text": "It emphasis and pace and supports the purpose of the text.",
+        "text": "Compare one moment of misunderstanding from each story.",
+        "is_correct": false
+      },
+      {
+        "text": "Quote one fragment from each text and explain the shared effect.",
+        "is_correct": false
+      },
+      {
+        "text": "Explain how the mild wording contrasts with the serious event.",
         "is_correct": true
       },
       {
-        "text": "It matches the purpose and the language clue in the example.",
-        "is_correct": false
-      },
-      {
-        "text": "One feature alone rarely defines style. Use repeated patterns across texts and distinguish author, narrator and genre conventions.",
-        "is_correct": false
-      },
-      {
-        "text": "Do not infer personality directly from fictional voice. Analyse crafted textual choices.",
+        "text": "Trace the boundary motif across at least two texts.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "short fragments at turning points works because emphasis and pace.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "The revision applies understatement purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "core",
     "sequence_priority": 15,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-P-016",
@@ -575,37 +575,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception_repair",
-    "question": "Why is “Use patterns across texts.” a better rule than “One quotation defines style” when reading a excursion briefing?",
-    "audio_prompt": "Why is “Use patterns across texts.” a better rule than “One quotation defines style” when reading a excursion briefing?",
+    "stage": "core",
+    "skill": "understatement misconception",
+    "question": "A student says, “Style is only the vocabulary an author uses.” Which response best corrects the claim?",
+    "audio_prompt": "A student says, “Style is only the vocabulary an author uses.” Which response best corrects the claim?",
     "answers": [
       {
-        "text": "Because the longest rule is always the best one.",
+        "text": "The narrator and author are the same person.",
         "is_correct": false
       },
       {
-        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "text": "One short sentence proves an author always writes this way.",
+        "is_correct": false
+      },
+      {
+        "text": "Any repeated object is automatically a meaningful motif.",
+        "is_correct": false
+      },
+      {
+        "text": "The claim is too broad; the example shows that the recurring understatement releases tension and builds dry humour.",
         "is_correct": true
-      },
-      {
-        "text": "Because exceptions never matter in English.",
-        "is_correct": false
-      },
-      {
-        "text": "Because a rule is correct whenever it uses technical words.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "“Use patterns across texts.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "core",
     "sequence_priority": 16,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-P-017",
@@ -613,37 +613,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "humour",
-    "question": "A design project includes “understatement after tension”. Why is this an effective example of humour?",
-    "audio_prompt": "A design project includes “understatement after tension”. Why is this an effective example of humour?",
+    "stage": "foundation",
+    "skill": "weather imagery",
+    "question": "Read: “Storms gather as relationships worsen in several stories.” Which description best identifies the relevant choice?",
+    "audio_prompt": "Read: “Storms gather as relationships worsen in several stories.” Which description best identifies the relevant choice?",
     "answers": [
       {
-        "text": "It matches the purpose and the language clue in the example.",
-        "is_correct": false
-      },
-      {
-        "text": "One feature alone rarely defines style. Use repeated patterns across texts and distinguish author, narrator and genre conventions.",
-        "is_correct": false
-      },
-      {
-        "text": "It release and character voice and supports the purpose of the text.",
+        "text": "weather imagery",
         "is_correct": true
       },
       {
-        "text": "Do not infer personality directly from fictional voice. Analyse crafted textual choices.",
+        "text": "recurring first-person voice",
+        "is_correct": false
+      },
+      {
+        "text": "sentence pattern",
+        "is_correct": false
+      },
+      {
+        "text": "imagery motif",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "understatement after tension works because release and character voice.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "weather imagery: The recurring weather pattern mirrors conflict and creates anticipation.",
+      "hint": "Name the feature precisely."
     },
-    "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 17,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-P-018",
@@ -651,37 +651,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception_repair",
-    "question": "Why is “Explain how choices shape reading.” a better rule than “Feature list lacks effect” when reading a weather report?",
-    "audio_prompt": "Why is “Explain how choices shape reading.” a better rule than “Feature list lacks effect” when reading a weather report?",
+    "stage": "foundation",
+    "skill": "weather imagery effect",
+    "question": "What does “Storms gather as relationships worsen in several stories.” contribute to meaning or response?",
+    "audio_prompt": "What does “Storms gather as relationships worsen in several stories.” contribute to meaning or response?",
     "answers": [
       {
-        "text": "Because the longest rule is always the best one.",
+        "text": "The repeated close but limited viewpoint creates intimacy and uncertainty.",
         "is_correct": false
       },
       {
-        "text": "Because exceptions never matter in English.",
-        "is_correct": false
-      },
-      {
-        "text": "Because a rule is correct whenever it uses technical words.",
-        "is_correct": false
-      },
-      {
-        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "text": "The recurring weather pattern mirrors conflict and creates anticipation.",
         "is_correct": true
+      },
+      {
+        "text": "The repeated syntax speeds the pace and emphasises sudden decisions.",
+        "is_correct": false
+      },
+      {
+        "text": "The repeated boundary imagery develops the author’s concern with freedom and restriction.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“Explain how choices shape reading.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The recurring weather pattern mirrors conflict and creates anticipation.",
+      "hint": "Link exact evidence to its effect."
     },
-    "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 18,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-P-019",
@@ -689,37 +689,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "narration",
-    "question": "A school assembly includes “close first person with gaps”. Why is this an effective example of narration?",
-    "audio_prompt": "A school assembly includes “close first person with gaps”. Why is this an effective example of narration?",
+    "stage": "application",
+    "skill": "weather imagery revision",
+    "question": "Which revision best applies weather imagery?",
+    "audio_prompt": "Which revision best applies weather imagery?",
     "answers": [
       {
-        "text": "It intimacy and uncertainty and supports the purpose of the text.",
+        "text": "Compare one moment of misunderstanding from each story.",
+        "is_correct": false
+      },
+      {
+        "text": "Quote one fragment from each text and explain the shared effect.",
+        "is_correct": false
+      },
+      {
+        "text": "Compare how weather shapes mood in two different texts.",
         "is_correct": true
       },
       {
-        "text": "It matches the purpose and the language clue in the example.",
-        "is_correct": false
-      },
-      {
-        "text": "One feature alone rarely defines style. Use repeated patterns across texts and distinguish author, narrator and genre conventions.",
-        "is_correct": false
-      },
-      {
-        "text": "Do not infer personality directly from fictional voice. Analyse crafted textual choices.",
+        "text": "Trace the boundary motif across at least two texts.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "close first person with gaps works because intimacy and uncertainty.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "The revision applies weather imagery purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty": 3,
+    "difficulty_tier": "application",
     "sequence_priority": 19,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-P-020",
@@ -727,37 +727,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception_repair",
-    "question": "Why is “Use patterns across texts.” a better rule than “One quotation defines style” when reading a peer feedback session?",
-    "audio_prompt": "Why is “Use patterns across texts.” a better rule than “One quotation defines style” when reading a peer feedback session?",
+    "stage": "core",
+    "skill": "weather imagery misconception",
+    "question": "A student says, “An author’s weather description reveals their real personality.” Which response best corrects the claim?",
+    "audio_prompt": "A student says, “An author’s weather description reveals their real personality.” Which response best corrects the claim?",
     "answers": [
       {
-        "text": "Because the longest rule is always the best one.",
+        "text": "The narrator and author are the same person.",
         "is_correct": false
       },
       {
-        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "text": "One short sentence proves an author always writes this way.",
+        "is_correct": false
+      },
+      {
+        "text": "Any repeated object is automatically a meaningful motif.",
+        "is_correct": false
+      },
+      {
+        "text": "The claim is too broad; the example shows that the recurring weather pattern mirrors conflict and creates anticipation.",
         "is_correct": true
-      },
-      {
-        "text": "Because exceptions never matter in English.",
-        "is_correct": false
-      },
-      {
-        "text": "Because a rule is correct whenever it uses technical words.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "“Use patterns across texts.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "core",
     "sequence_priority": 20,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-P-021",
@@ -765,37 +765,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_language_choices",
-    "question": "A excursion briefing could use either “close first person with gaps” or “belongs to a particular text/character”. Which comparison is most accurate?",
-    "audio_prompt": "A excursion briefing could use either “close first person with gaps” or “belongs to a particular text/character”. Which comparison is most accurate?",
+    "stage": "foundation",
+    "skill": "dialogue style",
+    "question": "Read: “Characters often interrupt themselves with dashes and unfinished thoughts.” Which description best identifies the relevant choice?",
+    "audio_prompt": "Read: “Characters often interrupt themselves with dashes and unfinished thoughts.” Which description best identifies the relevant choice?",
     "answers": [
       {
-        "text": "Both examples must show exactly the same feature because they appear in one text.",
-        "is_correct": false
-      },
-      {
-        "text": "“close first person with gaps” shows narration, while “belongs to a particular text/character” shows narrator voice.",
+        "text": "dialogue style",
         "is_correct": true
       },
       {
-        "text": "The longer example is automatically more formal and therefore better.",
+        "text": "recurring first-person voice",
         "is_correct": false
       },
       {
-        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "text": "sentence pattern",
+        "is_correct": false
+      },
+      {
+        "text": "imagery motif",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The important difference is the language function: narration versus narrator voice.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "dialogue style: The broken dialogue creates hesitation and a recognisable conversational rhythm.",
+      "hint": "Name the feature precisely."
     },
-    "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 21,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-P-022",
@@ -803,37 +803,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_misconception",
-    "question": "Which statement would help you reject the tempting rule “Genre convention credited only to author” in a design project?",
-    "audio_prompt": "Which statement would help you reject the tempting rule “Genre convention credited only to author” in a design project?",
+    "stage": "foundation",
+    "skill": "dialogue style effect",
+    "question": "What does “Characters often interrupt themselves with dashes and unfinished thoughts.” contribute to meaning or response?",
+    "audio_prompt": "What does “Characters often interrupt themselves with dashes and unfinished thoughts.” contribute to meaning or response?",
     "answers": [
       {
-        "text": "Narrator and author treated as identical",
+        "text": "The repeated close but limited viewpoint creates intimacy and uncertainty.",
         "is_correct": false
       },
       {
-        "text": "One quotation defines style",
-        "is_correct": false
-      },
-      {
-        "text": "Compare with wider genre patterns.",
+        "text": "The broken dialogue creates hesitation and a recognisable conversational rhythm.",
         "is_correct": true
       },
       {
-        "text": "Genre convention credited only to author",
+        "text": "The repeated syntax speeds the pace and emphasises sudden decisions.",
+        "is_correct": false
+      },
+      {
+        "text": "The repeated boundary imagery develops the author’s concern with freedom and restriction.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Compare with wider genre patterns. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Do not infer personality directly from fictional voice. Analyse crafted textual choices."
+      "summary": "The broken dialogue creates hesitation and a recognisable conversational rhythm.",
+      "hint": "Link exact evidence to its effect."
     },
-    "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 22,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-P-023",
@@ -841,37 +841,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_language_choices",
-    "question": "A weather report could use either “weather mirrors emotion” or “examples from more than one text”. Which comparison is most accurate?",
-    "audio_prompt": "A weather report could use either “weather mirrors emotion” or “examples from more than one text”. Which comparison is most accurate?",
+    "stage": "application",
+    "skill": "dialogue style revision",
+    "question": "Which revision best applies dialogue style?",
+    "audio_prompt": "Which revision best applies dialogue style?",
     "answers": [
       {
-        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "text": "Compare one moment of misunderstanding from each story.",
         "is_correct": false
       },
       {
-        "text": "The longer example is automatically more formal and therefore better.",
+        "text": "Quote one fragment from each text and explain the shared effect.",
         "is_correct": false
       },
       {
-        "text": "Neither example can be analysed unless the writer explains the answer.",
-        "is_correct": false
-      },
-      {
-        "text": "“weather mirrors emotion” shows imagery, while “examples from more than one text” shows evidence standard.",
+        "text": "Cite the punctuation and explain what it suggests about speech.",
         "is_correct": true
+      },
+      {
+        "text": "Trace the boundary motif across at least two texts.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The important difference is the language function: imagery versus evidence standard.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "The revision applies dialogue style purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
     "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty_tier": "application",
     "sequence_priority": 23,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-P-024",
@@ -879,37 +879,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_misconception",
-    "question": "Which statement would help you reject the tempting rule “Narrator and author treated as identical” in a school assembly?",
-    "audio_prompt": "Which statement would help you reject the tempting rule “Narrator and author treated as identical” in a school assembly?",
+    "stage": "core",
+    "skill": "dialogue style misconception",
+    "question": "A student says, “Punctuation cannot contribute to authorial style.” Which response best corrects the claim?",
+    "audio_prompt": "A student says, “Punctuation cannot contribute to authorial style.” Which response best corrects the claim?",
     "answers": [
       {
-        "text": "The narrator is a crafted textual role.",
+        "text": "The narrator and author are the same person.",
+        "is_correct": false
+      },
+      {
+        "text": "One short sentence proves an author always writes this way.",
+        "is_correct": false
+      },
+      {
+        "text": "Any repeated object is automatically a meaningful motif.",
+        "is_correct": false
+      },
+      {
+        "text": "The claim is too broad; the example shows that the broken dialogue creates hesitation and a recognisable conversational rhythm.",
         "is_correct": true
-      },
-      {
-        "text": "Narrator and author treated as identical",
-        "is_correct": false
-      },
-      {
-        "text": "One quotation defines style",
-        "is_correct": false
-      },
-      {
-        "text": "Genre convention credited only to author",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The narrator is a crafted textual role. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Do not infer personality directly from fictional voice. Analyse crafted textual choices."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 24,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-P-025",
@@ -917,37 +917,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_language_choices",
-    "question": "A peer feedback session could use either “belonging and responsibility” or “belongs to a particular text/character”. Which comparison is most accurate?",
-    "audio_prompt": "A peer feedback session could use either “belonging and responsibility” or “belongs to a particular text/character”. Which comparison is most accurate?",
+    "stage": "foundation",
+    "skill": "pacing",
+    "question": "Read: “The author slows important discoveries with precise sensory details.” Which description best identifies the relevant choice?",
+    "audio_prompt": "Read: “The author slows important discoveries with precise sensory details.” Which description best identifies the relevant choice?",
     "answers": [
       {
-        "text": "Both examples must show exactly the same feature because they appear in one text.",
-        "is_correct": false
-      },
-      {
-        "text": "“belonging and responsibility” shows themes, while “belongs to a particular text/character” shows narrator voice.",
+        "text": "pacing",
         "is_correct": true
       },
       {
-        "text": "The longer example is automatically more formal and therefore better.",
+        "text": "recurring first-person voice",
         "is_correct": false
       },
       {
-        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "text": "sentence pattern",
+        "is_correct": false
+      },
+      {
+        "text": "imagery motif",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The important difference is the language function: themes versus narrator voice.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "pacing: Delayed action makes readers notice clues and share the character’s concentration.",
+      "hint": "Name the feature precisely."
     },
-    "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 25,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-P-026",
@@ -955,37 +955,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_misconception",
-    "question": "Which statement would help you reject the tempting rule “Genre convention credited only to author” in a cooking demonstration?",
-    "audio_prompt": "Which statement would help you reject the tempting rule “Genre convention credited only to author” in a cooking demonstration?",
+    "stage": "core",
+    "skill": "pacing effect",
+    "question": "What does “The author slows important discoveries with precise sensory details.” contribute to meaning or response?",
+    "audio_prompt": "What does “The author slows important discoveries with precise sensory details.” contribute to meaning or response?",
     "answers": [
       {
-        "text": "Narrator and author treated as identical",
+        "text": "The repeated close but limited viewpoint creates intimacy and uncertainty.",
         "is_correct": false
       },
       {
-        "text": "One quotation defines style",
-        "is_correct": false
-      },
-      {
-        "text": "Compare with wider genre patterns.",
+        "text": "Delayed action makes readers notice clues and share the character’s concentration.",
         "is_correct": true
       },
       {
-        "text": "Genre convention credited only to author",
+        "text": "The repeated syntax speeds the pace and emphasises sudden decisions.",
+        "is_correct": false
+      },
+      {
+        "text": "The repeated boundary imagery develops the author’s concern with freedom and restriction.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Compare with wider genre patterns. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Do not infer personality directly from fictional voice. Analyse crafted textual choices."
+      "summary": "Delayed action makes readers notice clues and share the character’s concentration.",
+      "hint": "Link exact evidence to its effect."
     },
-    "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 26,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-P-027",
@@ -993,37 +993,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_language_choices",
-    "question": "A arts review could use either “short fragments at turning points” or “examples from more than one text”. Which comparison is most accurate?",
-    "audio_prompt": "A arts review could use either “short fragments at turning points” or “examples from more than one text”. Which comparison is most accurate?",
+    "stage": "application",
+    "skill": "pacing revision",
+    "question": "Which revision best applies pacing?",
+    "audio_prompt": "Which revision best applies pacing?",
     "answers": [
       {
-        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "text": "Compare one moment of misunderstanding from each story.",
         "is_correct": false
       },
       {
-        "text": "The longer example is automatically more formal and therefore better.",
+        "text": "Quote one fragment from each text and explain the shared effect.",
         "is_correct": false
       },
       {
-        "text": "Neither example can be analysed unless the writer explains the answer.",
-        "is_correct": false
-      },
-      {
-        "text": "“short fragments at turning points” shows syntax, while “examples from more than one text” shows evidence standard.",
+        "text": "Compare a slow discovery scene with a faster action scene.",
         "is_correct": true
+      },
+      {
+        "text": "Trace the boundary motif across at least two texts.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The important difference is the language function: syntax versus evidence standard.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "The revision applies pacing purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
     "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty_tier": "application",
     "sequence_priority": 27,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-P-028",
@@ -1031,37 +1031,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_misconception",
-    "question": "Which statement would help you reject the tempting rule “Narrator and author treated as identical” in a technology presentation?",
-    "audio_prompt": "Which statement would help you reject the tempting rule “Narrator and author treated as identical” in a technology presentation?",
+    "stage": "core",
+    "skill": "pacing misconception",
+    "question": "A student says, “Fast pacing is always more exciting and therefore better.” Which response best corrects the claim?",
+    "audio_prompt": "A student says, “Fast pacing is always more exciting and therefore better.” Which response best corrects the claim?",
     "answers": [
       {
-        "text": "The narrator is a crafted textual role.",
+        "text": "The narrator and author are the same person.",
+        "is_correct": false
+      },
+      {
+        "text": "One short sentence proves an author always writes this way.",
+        "is_correct": false
+      },
+      {
+        "text": "Any repeated object is automatically a meaningful motif.",
+        "is_correct": false
+      },
+      {
+        "text": "The claim is too broad; the example shows that delayed action makes readers notice clues and share the character’s concentration.",
         "is_correct": true
-      },
-      {
-        "text": "Narrator and author treated as identical",
-        "is_correct": false
-      },
-      {
-        "text": "One quotation defines style",
-        "is_correct": false
-      },
-      {
-        "text": "Genre convention credited only to author",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The narrator is a crafted textual role. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Do not infer personality directly from fictional voice. Analyse crafted textual choices."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 28,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-P-029",
@@ -1069,37 +1069,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_language_choices",
-    "question": "A playground consultation could use either “understatement after tension” or “belongs to a particular text/character”. Which comparison is most accurate?",
-    "audio_prompt": "A playground consultation could use either “understatement after tension” or “belongs to a particular text/character”. Which comparison is most accurate?",
+    "stage": "foundation",
+    "skill": "theme pattern",
+    "question": "Read: “Responsibility to family returns across adventure, mystery and realistic stories.” Which description best identifies the relevant choice?",
+    "audio_prompt": "Read: “Responsibility to family returns across adventure, mystery and realistic stories.” Which description best identifies the relevant choice?",
     "answers": [
       {
-        "text": "Both examples must show exactly the same feature because they appear in one text.",
-        "is_correct": false
-      },
-      {
-        "text": "“understatement after tension” shows humour, while “belongs to a particular text/character” shows narrator voice.",
+        "text": "theme pattern",
         "is_correct": true
       },
       {
-        "text": "The longer example is automatically more formal and therefore better.",
+        "text": "recurring first-person voice",
         "is_correct": false
       },
       {
-        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "text": "sentence pattern",
+        "is_correct": false
+      },
+      {
+        "text": "imagery motif",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The important difference is the language function: humour versus narrator voice.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "theme pattern: A recurring concern across genres helps define the author’s individual style.",
+      "hint": "Name the feature precisely."
     },
-    "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 29,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-P-030",
@@ -1107,37 +1107,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_misconception",
-    "question": "Which statement would help you reject the tempting rule “Genre convention credited only to author” in a class podcast?",
-    "audio_prompt": "Which statement would help you reject the tempting rule “Genre convention credited only to author” in a class podcast?",
+    "stage": "core",
+    "skill": "theme pattern effect",
+    "question": "What does “Responsibility to family returns across adventure, mystery and realistic stories.” contribute to meaning or response?",
+    "audio_prompt": "What does “Responsibility to family returns across adventure, mystery and realistic stories.” contribute to meaning or response?",
     "answers": [
       {
-        "text": "Narrator and author treated as identical",
+        "text": "The repeated close but limited viewpoint creates intimacy and uncertainty.",
         "is_correct": false
       },
       {
-        "text": "One quotation defines style",
-        "is_correct": false
-      },
-      {
-        "text": "Compare with wider genre patterns.",
+        "text": "A recurring concern across genres helps define the author’s individual style.",
         "is_correct": true
       },
       {
-        "text": "Genre convention credited only to author",
+        "text": "The repeated syntax speeds the pace and emphasises sudden decisions.",
+        "is_correct": false
+      },
+      {
+        "text": "The repeated boundary imagery develops the author’s concern with freedom and restriction.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Compare with wider genre patterns. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Do not infer personality directly from fictional voice. Analyse crafted textual choices."
+      "summary": "A recurring concern across genres helps define the author’s individual style.",
+      "hint": "Link exact evidence to its effect."
     },
-    "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 30,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-P-031",
@@ -1145,37 +1145,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "compare_genre_convention",
-    "question": "You are editing a community garden proposal. Which may be a motif?",
-    "audio_prompt": "You are editing a community garden proposal. Which may be a motif?",
+    "stage": "application",
+    "skill": "theme pattern revision",
+    "question": "Which revision best applies theme pattern?",
+    "audio_prompt": "Which revision best applies theme pattern?",
     "answers": [
       {
-        "text": "One random comma",
+        "text": "Compare one moment of misunderstanding from each story.",
         "is_correct": false
       },
       {
-        "text": "The page number",
+        "text": "Quote one fragment from each text and explain the shared effect.",
         "is_correct": false
       },
       {
-        "text": "A recurring image of locked doors",
+        "text": "Show how the same concern is handled differently in two genres.",
         "is_correct": true
       },
       {
-        "text": "The publisher logo",
+        "text": "Trace the boundary motif across at least two texts.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "“A recurring image of locked doors” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Do not infer personality directly from fictional voice. Analyse crafted textual choices."
+      "summary": "The revision applies theme pattern purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "application",
     "sequence_priority": 31,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-P-032",
@@ -1183,37 +1183,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "narrator_voice",
-    "question": "A sports-club discussion needs a clear example of narrator voice. Which wording should you choose?",
-    "audio_prompt": "A sports-club discussion needs a clear example of narrator voice. Which wording should you choose?",
+    "stage": "core",
+    "skill": "theme pattern misconception",
+    "question": "A student says, “Genre conventions belong only to one author.” Which response best corrects the claim?",
+    "audio_prompt": "A student says, “Genre conventions belong only to one author.” Which response best corrects the claim?",
     "answers": [
       {
-        "text": "common to many mystery or fantasy texts",
+        "text": "The narrator and author are the same person.",
         "is_correct": false
       },
       {
-        "text": "distinctive combination and handling",
+        "text": "One short sentence proves an author always writes this way.",
         "is_correct": false
       },
       {
-        "text": "examples from more than one text",
+        "text": "Any repeated object is automatically a meaningful motif.",
         "is_correct": false
       },
       {
-        "text": "belongs to a particular text/character",
+        "text": "The claim is too broad; the example shows that a recurring concern across genres helps define the author’s individual style.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "“belongs to a particular text/character” is the best choice because it demonstrates narrator voice in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 32,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-P-033",
@@ -1221,37 +1221,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "authorial_style",
-    "question": "While revising a library display, you need language that matches “recurring distinctive pattern of craft choices”. Which concept should guide your choice?",
-    "audio_prompt": "While revising a library display, you need language that matches “recurring distinctive pattern of craft choices”. Which concept should guide your choice?",
+    "stage": "foundation",
+    "skill": "narrator distinction",
+    "question": "Read: “A boastful narrator describes every mistake as someone else’s fault.” Which description best identifies the relevant choice?",
+    "audio_prompt": "Read: “A boastful narrator describes every mistake as someone else’s fault.” Which description best identifies the relevant choice?",
     "answers": [
       {
-        "text": "authorial style",
+        "text": "narrator distinction",
         "is_correct": true
       },
       {
-        "text": "narrator",
+        "text": "recurring first-person voice",
         "is_correct": false
       },
       {
-        "text": "motif",
+        "text": "sentence pattern",
         "is_correct": false
       },
       {
-        "text": "It does not match the evidence in the example.",
+        "text": "imagery motif",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "authorial style is the concept that matches recurring distinctive pattern of craft choices.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "narrator distinction: The crafted narrator voice creates irony; it is not direct evidence about the author.",
+      "hint": "Name the feature precisely."
     },
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 33,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-P-034",
@@ -1259,37 +1259,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "identify_recurring_pattern",
-    "question": "You are editing a museum caption. Which may be a motif?",
-    "audio_prompt": "You are editing a museum caption. Which may be a motif?",
+    "stage": "core",
+    "skill": "narrator distinction effect",
+    "question": "What does “A boastful narrator describes every mistake as someone else’s fault.” contribute to meaning or response?",
+    "audio_prompt": "What does “A boastful narrator describes every mistake as someone else’s fault.” contribute to meaning or response?",
     "answers": [
       {
-        "text": "One random comma",
+        "text": "The repeated close but limited viewpoint creates intimacy and uncertainty.",
         "is_correct": false
       },
       {
-        "text": "A recurring image of locked doors",
+        "text": "The crafted narrator voice creates irony; it is not direct evidence about the author.",
         "is_correct": true
       },
       {
-        "text": "The page number",
+        "text": "The repeated syntax speeds the pace and emphasises sudden decisions.",
         "is_correct": false
       },
       {
-        "text": "The publisher logo",
+        "text": "The repeated boundary imagery develops the author’s concern with freedom and restriction.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "“A recurring image of locked doors” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Do not infer personality directly from fictional voice. Analyse crafted textual choices."
+      "summary": "The crafted narrator voice creates irony; it is not direct evidence about the author.",
+      "hint": "Link exact evidence to its effect."
     },
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 34,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-P-035",
@@ -1297,37 +1297,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "genre_pattern",
-    "question": "A student council meeting needs a clear example of genre pattern. Which wording should you choose?",
-    "audio_prompt": "A student council meeting needs a clear example of genre pattern. Which wording should you choose?",
+    "stage": "application",
+    "skill": "narrator distinction revision",
+    "question": "Which revision best applies narrator distinction?",
+    "audio_prompt": "Which revision best applies narrator distinction?",
     "answers": [
       {
-        "text": "belongs to a particular text/character",
+        "text": "Compare one moment of misunderstanding from each story.",
         "is_correct": false
       },
       {
-        "text": "distinctive combination and handling",
+        "text": "Quote one fragment from each text and explain the shared effect.",
         "is_correct": false
       },
       {
-        "text": "common to many mystery or fantasy texts",
+        "text": "Separate what the narrator claims from what events reveal.",
         "is_correct": true
       },
       {
-        "text": "examples from more than one text",
+        "text": "Trace the boundary motif across at least two texts.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "“common to many mystery or fantasy texts” is the best choice because it demonstrates genre pattern in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "The revision applies narrator distinction purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "application",
     "sequence_priority": 35,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-P-036",
@@ -1335,37 +1335,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "authorial_style",
-    "question": "While revising a local-history article, you need language that matches “recurring distinctive pattern of craft choices”. Which concept should guide your choice?",
-    "audio_prompt": "While revising a local-history article, you need language that matches “recurring distinctive pattern of craft choices”. Which concept should guide your choice?",
+    "stage": "challenge",
+    "skill": "narrator distinction misconception",
+    "question": "A student says, “A fictional “I” always reports the author’s own life.” Which response best corrects the claim?",
+    "audio_prompt": "A student says, “A fictional “I” always reports the author’s own life.” Which response best corrects the claim?",
     "answers": [
       {
-        "text": "narrator",
+        "text": "The narrator and author are the same person.",
         "is_correct": false
       },
       {
-        "text": "motif",
+        "text": "One short sentence proves an author always writes this way.",
         "is_correct": false
       },
       {
-        "text": "It does not match the evidence in the example.",
+        "text": "Any repeated object is automatically a meaningful motif.",
         "is_correct": false
       },
       {
-        "text": "authorial style",
+        "text": "The claim is too broad; the example shows that the crafted narrator voice creates irony; it is not direct evidence about the author.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "authorial style is the concept that matches recurring distinctive pattern of craft choices.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "challenge",
     "sequence_priority": 36,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-P-037",
@@ -1373,37 +1373,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "explain_motif",
-    "question": "You are editing a environmental campaign. Which may be a motif?",
-    "audio_prompt": "You are editing a environmental campaign. Which may be a motif?",
+    "stage": "foundation",
+    "skill": "genre convention",
+    "question": "Read: “A locked room and hidden clue appear in one mystery.” Which description best identifies the relevant choice?",
+    "audio_prompt": "Read: “A locked room and hidden clue appear in one mystery.” Which description best identifies the relevant choice?",
     "answers": [
       {
-        "text": "A recurring image of locked doors",
+        "text": "genre convention",
         "is_correct": true
       },
       {
-        "text": "One random comma",
+        "text": "recurring first-person voice",
         "is_correct": false
       },
       {
-        "text": "The page number",
+        "text": "sentence pattern",
         "is_correct": false
       },
       {
-        "text": "The publisher logo",
+        "text": "imagery motif",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "“A recurring image of locked doors” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Do not infer personality directly from fictional voice. Analyse crafted textual choices."
+      "summary": "genre convention: These features may belong to the mystery genre unless handled distinctively across the author’s work.",
+      "hint": "Name the feature precisely."
     },
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 37,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-P-038",
@@ -1411,37 +1411,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "evidence_standard",
-    "question": "A book-club discussion needs a clear example of evidence standard. Which wording should you choose?",
-    "audio_prompt": "A book-club discussion needs a clear example of evidence standard. Which wording should you choose?",
+    "stage": "core",
+    "skill": "genre convention effect",
+    "question": "What does “A locked room and hidden clue appear in one mystery.” contribute to meaning or response?",
+    "audio_prompt": "What does “A locked room and hidden clue appear in one mystery.” contribute to meaning or response?",
     "answers": [
       {
-        "text": "common to many mystery or fantasy texts",
+        "text": "The repeated close but limited viewpoint creates intimacy and uncertainty.",
         "is_correct": false
       },
       {
-        "text": "examples from more than one text",
+        "text": "These features may belong to the mystery genre unless handled distinctively across the author’s work.",
         "is_correct": true
       },
       {
-        "text": "belongs to a particular text/character",
+        "text": "The repeated syntax speeds the pace and emphasises sudden decisions.",
         "is_correct": false
       },
       {
-        "text": "distinctive combination and handling",
+        "text": "The repeated boundary imagery develops the author’s concern with freedom and restriction.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "“examples from more than one text” is the best choice because it demonstrates evidence standard in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "These features may belong to the mystery genre unless handled distinctively across the author’s work.",
+      "hint": "Link exact evidence to its effect."
     },
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 38,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-P-039",
@@ -1449,37 +1449,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "authorial_style",
-    "question": "While revising a excursion briefing, you need language that matches “recurring distinctive pattern of craft choices”. Which concept should guide your choice?",
-    "audio_prompt": "While revising a excursion briefing, you need language that matches “recurring distinctive pattern of craft choices”. Which concept should guide your choice?",
+    "stage": "application",
+    "skill": "genre convention revision",
+    "question": "Which revision best applies genre convention?",
+    "audio_prompt": "Which revision best applies genre convention?",
     "answers": [
       {
-        "text": "narrator",
+        "text": "Compare one moment of misunderstanding from each story.",
         "is_correct": false
       },
       {
-        "text": "motif",
+        "text": "Quote one fragment from each text and explain the shared effect.",
         "is_correct": false
       },
       {
-        "text": "authorial style",
+        "text": "Compare the feature with other mysteries before calling it individual style.",
         "is_correct": true
       },
       {
-        "text": "It does not match the evidence in the example.",
+        "text": "Trace the boundary motif across at least two texts.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "authorial style is the concept that matches recurring distinctive pattern of craft choices.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "The revision applies genre convention purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "application",
     "sequence_priority": 39,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-P-040",
@@ -1487,37 +1487,341 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "separate_author_narrator",
-    "question": "You are editing a design project. Which may be a motif?",
-    "audio_prompt": "You are editing a design project. Which may be a motif?",
+    "stage": "challenge",
+    "skill": "genre convention misconception",
+    "question": "A student says, “Every feature in a book uniquely identifies its author.” Which response best corrects the claim?",
+    "audio_prompt": "A student says, “Every feature in a book uniquely identifies its author.” Which response best corrects the claim?",
     "answers": [
       {
-        "text": "One random comma",
+        "text": "The narrator and author are the same person.",
         "is_correct": false
       },
       {
-        "text": "The page number",
+        "text": "One short sentence proves an author always writes this way.",
         "is_correct": false
       },
       {
-        "text": "The publisher logo",
+        "text": "Any repeated object is automatically a meaningful motif.",
         "is_correct": false
       },
       {
-        "text": "A recurring image of locked doors",
+        "text": "The claim is too broad; the example shows that these features may belong to the mystery genre unless handled distinctively across the author’s work.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "“A recurring image of locked doors” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Do not infer personality directly from fictional voice. Analyse crafted textual choices."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "challenge",
     "sequence_priority": 40,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LE03-P-041",
+    "curriculum_code": "AC9E6LE03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "cross-text evidence",
+    "question": "Read: “Two poems and a story all use circular endings and river imagery.” Which description best identifies the relevant choice?",
+    "audio_prompt": "Read: “Two poems and a story all use circular endings and river imagery.” Which description best identifies the relevant choice?",
+    "answers": [
+      {
+        "text": "cross-text evidence",
+        "is_correct": true
+      },
+      {
+        "text": "recurring first-person voice",
+        "is_correct": false
+      },
+      {
+        "text": "sentence pattern",
+        "is_correct": false
+      },
+      {
+        "text": "imagery motif",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "cross-text evidence: Evidence across several texts supports a defensible claim about recurring craft.",
+      "hint": "Name the feature precisely."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 41,
+    "quality_schema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LE03-P-042",
+    "curriculum_code": "AC9E6LE03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "cross-text evidence effect",
+    "question": "What does “Two poems and a story all use circular endings and river imagery.” contribute to meaning or response?",
+    "audio_prompt": "What does “Two poems and a story all use circular endings and river imagery.” contribute to meaning or response?",
+    "answers": [
+      {
+        "text": "The repeated close but limited viewpoint creates intimacy and uncertainty.",
+        "is_correct": false
+      },
+      {
+        "text": "Evidence across several texts supports a defensible claim about recurring craft.",
+        "is_correct": true
+      },
+      {
+        "text": "The repeated syntax speeds the pace and emphasises sudden decisions.",
+        "is_correct": false
+      },
+      {
+        "text": "The repeated boundary imagery develops the author’s concern with freedom and restriction.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Evidence across several texts supports a defensible claim about recurring craft.",
+      "hint": "Link exact evidence to its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 42,
+    "quality_schema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LE03-P-043",
+    "curriculum_code": "AC9E6LE03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "cross-text evidence revision",
+    "question": "Which revision best applies cross-text evidence?",
+    "audio_prompt": "Which revision best applies cross-text evidence?",
+    "answers": [
+      {
+        "text": "Compare one moment of misunderstanding from each story.",
+        "is_correct": false
+      },
+      {
+        "text": "Quote one fragment from each text and explain the shared effect.",
+        "is_correct": false
+      },
+      {
+        "text": "Organise examples by pattern, not one text at a time.",
+        "is_correct": true
+      },
+      {
+        "text": "Trace the boundary motif across at least two texts.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The revision applies cross-text evidence purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 43,
+    "quality_schema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LE03-P-044",
+    "curriculum_code": "AC9E6LE03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "cross-text evidence misconception",
+    "question": "A student says, “One quotation is enough to define an author’s style.” Which response best corrects the claim?",
+    "audio_prompt": "A student says, “One quotation is enough to define an author’s style.” Which response best corrects the claim?",
+    "answers": [
+      {
+        "text": "The narrator and author are the same person.",
+        "is_correct": false
+      },
+      {
+        "text": "One short sentence proves an author always writes this way.",
+        "is_correct": false
+      },
+      {
+        "text": "Any repeated object is automatically a meaningful motif.",
+        "is_correct": false
+      },
+      {
+        "text": "The claim is too broad; the example shows that evidence across several texts supports a defensible claim about recurring craft.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 44,
+    "quality_schema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LE03-P-045",
+    "curriculum_code": "AC9E6LE03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "style synthesis",
+    "question": "Read: “The author combines limited narration, dry humour and boundary imagery.” Which description best identifies the relevant choice?",
+    "audio_prompt": "Read: “The author combines limited narration, dry humour and boundary imagery.” Which description best identifies the relevant choice?",
+    "answers": [
+      {
+        "text": "style synthesis",
+        "is_correct": true
+      },
+      {
+        "text": "recurring first-person voice",
+        "is_correct": false
+      },
+      {
+        "text": "sentence pattern",
+        "is_correct": false
+      },
+      {
+        "text": "imagery motif",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "style synthesis: The distinctive combination matters more than any single technique.",
+      "hint": "Name the feature precisely."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 45,
+    "quality_schema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LE03-P-046",
+    "curriculum_code": "AC9E6LE03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "style synthesis effect",
+    "question": "What does “The author combines limited narration, dry humour and boundary imagery.” contribute to meaning or response?",
+    "audio_prompt": "What does “The author combines limited narration, dry humour and boundary imagery.” contribute to meaning or response?",
+    "answers": [
+      {
+        "text": "The repeated close but limited viewpoint creates intimacy and uncertainty.",
+        "is_correct": false
+      },
+      {
+        "text": "The distinctive combination matters more than any single technique.",
+        "is_correct": true
+      },
+      {
+        "text": "The repeated syntax speeds the pace and emphasises sudden decisions.",
+        "is_correct": false
+      },
+      {
+        "text": "The repeated boundary imagery develops the author’s concern with freedom and restriction.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The distinctive combination matters more than any single technique.",
+      "hint": "Link exact evidence to its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 46,
+    "quality_schema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LE03-P-047",
+    "curriculum_code": "AC9E6LE03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "style synthesis revision",
+    "question": "Which revision best applies style synthesis?",
+    "audio_prompt": "Which revision best applies style synthesis?",
+    "answers": [
+      {
+        "text": "Compare one moment of misunderstanding from each story.",
+        "is_correct": false
+      },
+      {
+        "text": "Quote one fragment from each text and explain the shared effect.",
+        "is_correct": false
+      },
+      {
+        "text": "Conclude by explaining how the combined choices shape the reading experience.",
+        "is_correct": true
+      },
+      {
+        "text": "Trace the boundary motif across at least two texts.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The revision applies style synthesis purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 47,
+    "quality_schema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LE03-P-048",
+    "curriculum_code": "AC9E6LE03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "style synthesis misconception",
+    "question": "A student says, “A list of techniques is a complete style analysis.” Which response best corrects the claim?",
+    "audio_prompt": "A student says, “A list of techniques is a complete style analysis.” Which response best corrects the claim?",
+    "answers": [
+      {
+        "text": "The narrator and author are the same person.",
+        "is_correct": false
+      },
+      {
+        "text": "One short sentence proves an author always writes this way.",
+        "is_correct": false
+      },
+      {
+        "text": "Any repeated object is automatically a meaningful motif.",
+        "is_correct": false
+      },
+      {
+        "text": "The claim is too broad; the example shows that the distinctive combination matters more than any single technique.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 48,
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-T-001",
@@ -1525,37 +1829,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "verify",
-    "skill": "individual_style",
-    "question": "A community radio segment includes “distinctive combination and handling”. Which description best fits this wording?",
-    "audio_prompt": "A community radio segment includes “distinctive combination and handling”. Which description best fits this wording?",
+    "stage": "independent",
+    "skill": "recurring first-person voice",
+    "question": "In a museum panel, “Across two stories, the narrators reveal feelings but misunderstand other characters.” Which analysis is strongest?",
+    "audio_prompt": "In a museum panel, “Across two stories, the narrators reveal feelings but misunderstand other characters.” Which analysis is strongest?",
     "answers": [
       {
-        "text": "individual style",
+        "text": "recurring first-person voice: The repeated close but limited viewpoint creates intimacy and uncertainty.",
         "is_correct": true
       },
       {
-        "text": "narration",
+        "text": "sentence pattern: The repeated syntax speeds the pace and emphasises sudden decisions.",
         "is_correct": false
       },
       {
-        "text": "syntax",
+        "text": "imagery motif: The repeated boundary imagery develops the author’s concern with freedom and restriction.",
         "is_correct": false
       },
       {
-        "text": "imagery",
+        "text": "understatement: The recurring understatement releases tension and builds dry humour.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The wording best matches individual style.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "recurring first-person voice is supported by exact evidence.",
+      "hint": "Identify, cite and explain."
     },
     "difficulty": 3,
-    "difficulty_tier": "verify",
+    "difficulty_tier": "independent",
     "sequence_priority": 1,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-T-002",
@@ -1563,37 +1867,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "verify",
-    "skill": "authorial_style",
-    "question": "In a wildlife-centre report, which term matches this meaning: “recurring distinctive pattern of craft choices”?",
-    "audio_prompt": "In a wildlife-centre report, which term matches this meaning: “recurring distinctive pattern of craft choices”?",
+    "stage": "independent",
+    "skill": "sentence pattern edit",
+    "question": "Which edit best demonstrates sentence pattern in a museum panel?",
+    "audio_prompt": "Which edit best demonstrates sentence pattern in a museum panel?",
     "answers": [
       {
-        "text": "narrator",
+        "text": "Compare one moment of misunderstanding from each story.",
         "is_correct": false
       },
       {
-        "text": "authorial style",
+        "text": "Quote one fragment from each text and explain the shared effect.",
         "is_correct": true
       },
       {
-        "text": "motif",
+        "text": "Trace the boundary motif across at least two texts.",
         "is_correct": false
       },
       {
-        "text": "It does not match the evidence in the example.",
+        "text": "Explain how the mild wording contrasts with the serious event.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "authorial style is the precise term for recurring distinctive pattern of craft choices.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies sentence pattern accurately.",
+      "hint": "Choose purposeful accuracy."
     },
     "difficulty": 3,
-    "difficulty_tier": "verify",
+    "difficulty_tier": "independent",
     "sequence_priority": 2,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-T-003",
@@ -1601,37 +1905,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "verify",
-    "skill": "authorial_style_and_voice",
-    "question": "For a regional youth forum, what best supports a claim about authorial style?",
-    "audio_prompt": "For a regional youth forum, what best supports a claim about authorial style?",
+    "stage": "transfer",
+    "skill": "imagery motif misconception",
+    "question": "Which claim should an editor reject about “Windows, doors and gates recur whenever characters face difficult choices.” in this museum panel?",
+    "audio_prompt": "Which claim should an editor reject about “Windows, doors and gates recur whenever characters face difficult choices.” in this museum panel?",
     "answers": [
       {
-        "text": "One isolated adjective",
+        "text": "The narrator and author are the same person.",
         "is_correct": false
       },
       {
-        "text": "The author’s photograph",
+        "text": "One short sentence proves an author always writes this way.",
         "is_correct": false
       },
       {
-        "text": "A recurring combination of choices across several texts",
+        "text": "Any repeated object is automatically a meaningful motif.",
         "is_correct": true
       },
       {
-        "text": "A single plot fact",
+        "text": "Style is only the vocabulary an author uses.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "“A recurring combination of choices across several texts” is supported by the language evidence and purpose of the text.",
-      "hint": "Do not infer personality directly from fictional voice. Analyse crafted textual choices."
+      "summary": "The rejected claim overgeneralises imagery motif.",
+      "hint": "Check the claim against evidence."
     },
     "difficulty": 3,
-    "difficulty_tier": "verify",
+    "difficulty_tier": "transfer",
     "sequence_priority": 3,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-T-004",
@@ -1639,37 +1943,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "verify",
-    "skill": "independent_misconception_check",
-    "question": "A writer preparing a coastal-monitoring update says, “One quotation defines style”. Which response is most accurate?",
-    "audio_prompt": "A writer preparing a coastal-monitoring update says, “One quotation defines style”. Which response is most accurate?",
+    "stage": "transfer",
+    "skill": "understatement explanation",
+    "question": "Which explanation best accounts for “After each disaster, a character quietly says, “That could have gone better.”” in this museum panel?",
+    "audio_prompt": "Which explanation best accounts for “After each disaster, a character quietly says, “That could have gone better.”” in this museum panel?",
     "answers": [
       {
-        "text": "Narrator and author treated as identical",
+        "text": "The repeated close but limited viewpoint creates intimacy and uncertainty.",
         "is_correct": false
       },
       {
-        "text": "One quotation defines style",
+        "text": "The repeated syntax speeds the pace and emphasises sudden decisions.",
         "is_correct": false
       },
       {
-        "text": "Genre convention credited only to author",
+        "text": "The repeated boundary imagery develops the author’s concern with freedom and restriction.",
         "is_correct": false
       },
       {
-        "text": "Use patterns across texts.",
+        "text": "The recurring understatement releases tension and builds dry humour.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use patterns across texts. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "The recurring understatement releases tension and builds dry humour.",
+      "hint": "Connect evidence and effect."
     },
     "difficulty": 3,
-    "difficulty_tier": "verify",
+    "difficulty_tier": "transfer",
     "sequence_priority": 4,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-T-005",
@@ -1677,37 +1981,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "verify",
-    "skill": "individual_style",
-    "question": "A heritage trail guide includes “distinctive combination and handling”. Which description best fits this wording?",
-    "audio_prompt": "A heritage trail guide includes “distinctive combination and handling”. Which description best fits this wording?",
+    "stage": "independent",
+    "skill": "weather imagery",
+    "question": "In a school magazine, “Storms gather as relationships worsen in several stories.” Which analysis is strongest?",
+    "audio_prompt": "In a school magazine, “Storms gather as relationships worsen in several stories.” Which analysis is strongest?",
     "answers": [
       {
-        "text": "individual style",
+        "text": "weather imagery: The recurring weather pattern mirrors conflict and creates anticipation.",
         "is_correct": true
       },
       {
-        "text": "narration",
+        "text": "recurring first-person voice: The repeated close but limited viewpoint creates intimacy and uncertainty.",
         "is_correct": false
       },
       {
-        "text": "syntax",
+        "text": "sentence pattern: The repeated syntax speeds the pace and emphasises sudden decisions.",
         "is_correct": false
       },
       {
-        "text": "imagery",
+        "text": "imagery motif: The repeated boundary imagery develops the author’s concern with freedom and restriction.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The wording best matches individual style.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "weather imagery is supported by exact evidence.",
+      "hint": "Identify, cite and explain."
     },
     "difficulty": 3,
-    "difficulty_tier": "verify",
+    "difficulty_tier": "independent",
     "sequence_priority": 5,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-T-006",
@@ -1715,37 +2019,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "verify",
-    "skill": "narrator",
-    "question": "In a public-transport survey, which term matches this meaning: “constructed voice presenting a narrative”?",
-    "audio_prompt": "In a public-transport survey, which term matches this meaning: “constructed voice presenting a narrative”?",
+    "stage": "independent",
+    "skill": "dialogue style edit",
+    "question": "Which edit best demonstrates dialogue style in a school magazine?",
+    "audio_prompt": "Which edit best demonstrates dialogue style in a school magazine?",
     "answers": [
       {
-        "text": "authorial style",
+        "text": "Compare one moment of misunderstanding from each story.",
         "is_correct": false
       },
       {
-        "text": "narrator",
+        "text": "Cite the punctuation and explain what it suggests about speech.",
         "is_correct": true
       },
       {
-        "text": "motif",
+        "text": "Quote one fragment from each text and explain the shared effect.",
         "is_correct": false
       },
       {
-        "text": "It does not match the evidence in the example.",
+        "text": "Trace the boundary motif across at least two texts.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "narrator is the precise term for constructed voice presenting a narrative.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies dialogue style accurately.",
+      "hint": "Choose purposeful accuracy."
     },
     "difficulty": 3,
-    "difficulty_tier": "verify",
+    "difficulty_tier": "independent",
     "sequence_priority": 6,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-T-007",
@@ -1753,37 +2057,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "verify",
-    "skill": "authorial_style_and_voice",
-    "question": "For a festival review, what best supports a claim about authorial style?",
-    "audio_prompt": "For a festival review, what best supports a claim about authorial style?",
+    "stage": "transfer",
+    "skill": "pacing misconception",
+    "question": "Which claim should an editor reject about “The author slows important discoveries with precise sensory details.” in this school magazine?",
+    "audio_prompt": "Which claim should an editor reject about “The author slows important discoveries with precise sensory details.” in this school magazine?",
     "answers": [
       {
-        "text": "One isolated adjective",
+        "text": "The narrator and author are the same person.",
         "is_correct": false
       },
       {
-        "text": "The author’s photograph",
+        "text": "One short sentence proves an author always writes this way.",
         "is_correct": false
       },
       {
-        "text": "A recurring combination of choices across several texts",
+        "text": "Fast pacing is always more exciting and therefore better.",
         "is_correct": true
       },
       {
-        "text": "A single plot fact",
+        "text": "Any repeated object is automatically a meaningful motif.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "“A recurring combination of choices across several texts” is supported by the language evidence and purpose of the text.",
-      "hint": "Do not infer personality directly from fictional voice. Analyse crafted textual choices."
+      "summary": "The rejected claim overgeneralises pacing.",
+      "hint": "Check the claim against evidence."
     },
     "difficulty": 3,
-    "difficulty_tier": "verify",
+    "difficulty_tier": "transfer",
     "sequence_priority": 7,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-T-008",
@@ -1791,37 +2095,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "verify",
-    "skill": "independent_misconception_check",
-    "question": "A writer preparing a emergency-preparedness talk says, “One quotation defines style”. Which response is most accurate?",
-    "audio_prompt": "A writer preparing a emergency-preparedness talk says, “One quotation defines style”. Which response is most accurate?",
+    "stage": "transfer",
+    "skill": "theme pattern explanation",
+    "question": "Which explanation best accounts for “Responsibility to family returns across adventure, mystery and realistic stories.” in this school magazine?",
+    "audio_prompt": "Which explanation best accounts for “Responsibility to family returns across adventure, mystery and realistic stories.” in this school magazine?",
     "answers": [
       {
-        "text": "Narrator and author treated as identical",
+        "text": "The repeated close but limited viewpoint creates intimacy and uncertainty.",
         "is_correct": false
       },
       {
-        "text": "One quotation defines style",
+        "text": "The repeated syntax speeds the pace and emphasises sudden decisions.",
         "is_correct": false
       },
       {
-        "text": "Genre convention credited only to author",
+        "text": "The repeated boundary imagery develops the author’s concern with freedom and restriction.",
         "is_correct": false
       },
       {
-        "text": "Use patterns across texts.",
+        "text": "A recurring concern across genres helps define the author’s individual style.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use patterns across texts. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "A recurring concern across genres helps define the author’s individual style.",
+      "hint": "Connect evidence and effect."
     },
     "difficulty": 3,
-    "difficulty_tier": "verify",
+    "difficulty_tier": "transfer",
     "sequence_priority": 8,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-T-009",
@@ -1829,37 +2133,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "apply",
-    "skill": "individual_style",
-    "question": "A water-saving brochure includes “distinctive combination and handling”. Which description best fits this wording?",
-    "audio_prompt": "A water-saving brochure includes “distinctive combination and handling”. Which description best fits this wording?",
+    "stage": "independent",
+    "skill": "narrator distinction",
+    "question": "In a community website, “A boastful narrator describes every mistake as someone else’s fault.” Which analysis is strongest?",
+    "audio_prompt": "In a community website, “A boastful narrator describes every mistake as someone else’s fault.” Which analysis is strongest?",
     "answers": [
       {
-        "text": "individual style",
+        "text": "narrator distinction: The crafted narrator voice creates irony; it is not direct evidence about the author.",
         "is_correct": true
       },
       {
-        "text": "narration",
+        "text": "recurring first-person voice: The repeated close but limited viewpoint creates intimacy and uncertainty.",
         "is_correct": false
       },
       {
-        "text": "syntax",
+        "text": "sentence pattern: The repeated syntax speeds the pace and emphasises sudden decisions.",
         "is_correct": false
       },
       {
-        "text": "imagery",
+        "text": "imagery motif: The repeated boundary imagery develops the author’s concern with freedom and restriction.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The wording best matches individual style.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "narrator distinction is supported by exact evidence.",
+      "hint": "Identify, cite and explain."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "independent",
     "sequence_priority": 9,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-T-010",
@@ -1867,37 +2171,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "apply",
-    "skill": "motif",
-    "question": "In a local council submission, which term matches this meaning: “recurring image, phrase or idea”?",
-    "audio_prompt": "In a local council submission, which term matches this meaning: “recurring image, phrase or idea”?",
+    "stage": "independent",
+    "skill": "genre convention edit",
+    "question": "Which edit best demonstrates genre convention in a community website?",
+    "audio_prompt": "Which edit best demonstrates genre convention in a community website?",
     "answers": [
       {
-        "text": "authorial style",
+        "text": "Compare one moment of misunderstanding from each story.",
         "is_correct": false
       },
       {
-        "text": "motif",
+        "text": "Compare the feature with other mysteries before calling it individual style.",
         "is_correct": true
       },
       {
-        "text": "narrator",
+        "text": "Quote one fragment from each text and explain the shared effect.",
         "is_correct": false
       },
       {
-        "text": "It does not match the evidence in the example.",
+        "text": "Trace the boundary motif across at least two texts.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "motif is the precise term for recurring image, phrase or idea.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies genre convention accurately.",
+      "hint": "Choose purposeful accuracy."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "independent",
     "sequence_priority": 10,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-T-011",
@@ -1905,37 +2209,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "apply",
-    "skill": "authorial_style_and_voice",
-    "question": "For a marine-research diary, what best supports a claim about authorial style?",
-    "audio_prompt": "For a marine-research diary, what best supports a claim about authorial style?",
+    "stage": "transfer",
+    "skill": "cross-text evidence misconception",
+    "question": "Which claim should an editor reject about “Two poems and a story all use circular endings and river imagery.” in this community website?",
+    "audio_prompt": "Which claim should an editor reject about “Two poems and a story all use circular endings and river imagery.” in this community website?",
     "answers": [
       {
-        "text": "One isolated adjective",
+        "text": "The narrator and author are the same person.",
         "is_correct": false
       },
       {
-        "text": "The author’s photograph",
+        "text": "One short sentence proves an author always writes this way.",
         "is_correct": false
       },
       {
-        "text": "A recurring combination of choices across several texts",
+        "text": "One quotation is enough to define an author’s style.",
         "is_correct": true
       },
       {
-        "text": "A single plot fact",
+        "text": "Any repeated object is automatically a meaningful motif.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "“A recurring combination of choices across several texts” is supported by the language evidence and purpose of the text.",
-      "hint": "Do not infer personality directly from fictional voice. Analyse crafted textual choices."
+      "summary": "The rejected claim overgeneralises cross-text evidence.",
+      "hint": "Check the claim against evidence."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "transfer",
     "sequence_priority": 11,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-T-012",
@@ -1943,37 +2247,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "apply",
-    "skill": "independent_misconception_check",
-    "question": "A writer preparing a farmers market profile says, “One quotation defines style”. Which response is most accurate?",
-    "audio_prompt": "A writer preparing a farmers market profile says, “One quotation defines style”. Which response is most accurate?",
+    "stage": "transfer",
+    "skill": "style synthesis explanation",
+    "question": "Which explanation best accounts for “The author combines limited narration, dry humour and boundary imagery.” in this community website?",
+    "audio_prompt": "Which explanation best accounts for “The author combines limited narration, dry humour and boundary imagery.” in this community website?",
     "answers": [
       {
-        "text": "Narrator and author treated as identical",
+        "text": "The repeated close but limited viewpoint creates intimacy and uncertainty.",
         "is_correct": false
       },
       {
-        "text": "One quotation defines style",
+        "text": "The repeated syntax speeds the pace and emphasises sudden decisions.",
         "is_correct": false
       },
       {
-        "text": "Genre convention credited only to author",
+        "text": "The repeated boundary imagery develops the author’s concern with freedom and restriction.",
         "is_correct": false
       },
       {
-        "text": "Use patterns across texts.",
+        "text": "The distinctive combination matters more than any single technique.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use patterns across texts. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "The distinctive combination matters more than any single technique.",
+      "hint": "Connect evidence and effect."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "transfer",
     "sequence_priority": 12,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-T-013",
@@ -1981,37 +2285,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "apply",
-    "skill": "individual_style",
-    "question": "A astronomy exhibition includes “distinctive combination and handling”. Which description best fits this wording?",
-    "audio_prompt": "A astronomy exhibition includes “distinctive combination and handling”. Which description best fits this wording?",
+    "stage": "independent",
+    "skill": "recurring first-person voice",
+    "question": "In a student presentation, “Across two stories, the narrators reveal feelings but misunderstand other characters.” Which analysis is strongest?",
+    "audio_prompt": "In a student presentation, “Across two stories, the narrators reveal feelings but misunderstand other characters.” Which analysis is strongest?",
     "answers": [
       {
-        "text": "individual style",
+        "text": "recurring first-person voice: The repeated close but limited viewpoint creates intimacy and uncertainty.",
         "is_correct": true
       },
       {
-        "text": "narration",
+        "text": "sentence pattern: The repeated syntax speeds the pace and emphasises sudden decisions.",
         "is_correct": false
       },
       {
-        "text": "syntax",
+        "text": "imagery motif: The repeated boundary imagery develops the author’s concern with freedom and restriction.",
         "is_correct": false
       },
       {
-        "text": "imagery",
+        "text": "understatement: The recurring understatement releases tension and builds dry humour.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The wording best matches individual style.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "recurring first-person voice is supported by exact evidence.",
+      "hint": "Identify, cite and explain."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "independent",
     "sequence_priority": 13,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-T-014",
@@ -2019,37 +2323,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "apply",
-    "skill": "authorial_style",
-    "question": "In a river-restoration update, which term matches this meaning: “recurring distinctive pattern of craft choices”?",
-    "audio_prompt": "In a river-restoration update, which term matches this meaning: “recurring distinctive pattern of craft choices”?",
+    "stage": "independent",
+    "skill": "sentence pattern edit",
+    "question": "Which edit best demonstrates sentence pattern in a student presentation?",
+    "audio_prompt": "Which edit best demonstrates sentence pattern in a student presentation?",
     "answers": [
       {
-        "text": "narrator",
+        "text": "Compare one moment of misunderstanding from each story.",
         "is_correct": false
       },
       {
-        "text": "authorial style",
+        "text": "Quote one fragment from each text and explain the shared effect.",
         "is_correct": true
       },
       {
-        "text": "motif",
+        "text": "Trace the boundary motif across at least two texts.",
         "is_correct": false
       },
       {
-        "text": "It does not match the evidence in the example.",
+        "text": "Explain how the mild wording contrasts with the serious event.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "authorial style is the precise term for recurring distinctive pattern of craft choices.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies sentence pattern accurately.",
+      "hint": "Choose purposeful accuracy."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "independent",
     "sequence_priority": 14,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-T-015",
@@ -2057,37 +2361,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "apply",
-    "skill": "authorial_style_and_voice",
-    "question": "For a cycling-safety campaign, what best supports a claim about authorial style?",
-    "audio_prompt": "For a cycling-safety campaign, what best supports a claim about authorial style?",
+    "stage": "transfer",
+    "skill": "imagery motif misconception",
+    "question": "Which claim should an editor reject about “Windows, doors and gates recur whenever characters face difficult choices.” in this student presentation?",
+    "audio_prompt": "Which claim should an editor reject about “Windows, doors and gates recur whenever characters face difficult choices.” in this student presentation?",
     "answers": [
       {
-        "text": "One isolated adjective",
+        "text": "The narrator and author are the same person.",
         "is_correct": false
       },
       {
-        "text": "The author’s photograph",
+        "text": "One short sentence proves an author always writes this way.",
         "is_correct": false
       },
       {
-        "text": "A recurring combination of choices across several texts",
+        "text": "Any repeated object is automatically a meaningful motif.",
         "is_correct": true
       },
       {
-        "text": "A single plot fact",
+        "text": "Style is only the vocabulary an author uses.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "“A recurring combination of choices across several texts” is supported by the language evidence and purpose of the text.",
-      "hint": "Do not infer personality directly from fictional voice. Analyse crafted textual choices."
+      "summary": "The rejected claim overgeneralises imagery motif.",
+      "hint": "Check the claim against evidence."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "transfer",
     "sequence_priority": 15,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-T-016",
@@ -2095,36 +2399,36 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "apply",
-    "skill": "independent_misconception_check",
-    "question": "A writer preparing a neighbourhood history podcast says, “One quotation defines style”. Which response is most accurate?",
-    "audio_prompt": "A writer preparing a neighbourhood history podcast says, “One quotation defines style”. Which response is most accurate?",
+    "stage": "transfer",
+    "skill": "understatement explanation",
+    "question": "Which explanation best accounts for “After each disaster, a character quietly says, “That could have gone better.”” in this student presentation?",
+    "audio_prompt": "Which explanation best accounts for “After each disaster, a character quietly says, “That could have gone better.”” in this student presentation?",
     "answers": [
       {
-        "text": "Narrator and author treated as identical",
+        "text": "The repeated close but limited viewpoint creates intimacy and uncertainty.",
         "is_correct": false
       },
       {
-        "text": "One quotation defines style",
+        "text": "The repeated syntax speeds the pace and emphasises sudden decisions.",
         "is_correct": false
       },
       {
-        "text": "Genre convention credited only to author",
+        "text": "The repeated boundary imagery develops the author’s concern with freedom and restriction.",
         "is_correct": false
       },
       {
-        "text": "Use patterns across texts.",
+        "text": "The recurring understatement releases tension and builds dry humour.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use patterns across texts. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "The recurring understatement releases tension and builds dry humour.",
+      "hint": "Connect evidence and effect."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "transfer",
     "sequence_priority": 16,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   }
 ]

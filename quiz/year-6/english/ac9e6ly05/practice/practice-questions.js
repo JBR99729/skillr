@@ -4,12 +4,12 @@ window.skillrPracticeQuestions = [
     "id": "AC9E6LY05-P-001",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "build inference",
+    "stage": "foundation",
+    "skill": "predicting",
     "printable": true,
     "type": "single",
-    "question": "In a class podcast, which statement is an inference?",
-    "audioPrompt": "In a class podcast, which statement is an inference?",
+    "question": "Read: “From the title “When the River Turned Brown” and a pollution photograph, I predict the text will explain contamination.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “From the title “When the River Turned Brown” and a pollution photograph, I predict the text will explain contamination.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -17,29 +17,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The graph labels 12%",
-      "The heading is Demand",
-      "The service may face pressure if the decline continues",
-      "The table has four rows"
+      "visualising",
+      "connecting",
+      "predicting",
+      "questioning"
     ],
     "correct": 2,
-    "explanation": "“The service may face pressure if the decline continues” is the strongest choice because it matches the language feature and the situation.\nHint: Strategies are chosen tools, not boxes to complete every time. Readers should explain why a strategy helped with a specific difficulty or question.",
+    "explanation": "predicting: The prediction uses available evidence and remains open to revision.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "“The service may face pressure if the decline continues” is the strongest choice because it matches the language feature and the situation.",
-      "hint": "Strategies are chosen tools, not boxes to complete every time. Readers should explain why a strategy helped with a specific difficulty or question."
+      "summary": "predicting: The prediction uses available evidence and remains open to revision.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY05-P-002",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "monitoring",
+    "stage": "foundation",
+    "skill": "predicting effect",
     "printable": true,
     "type": "single",
-    "question": "Which term best matches this meaning: “checking and regulating understanding”?",
-    "audioPrompt": "Which term best matches this meaning: “checking and regulating understanding”?",
+    "question": "What does “From the title “When the River Turned Brown” and a pollution photograph, I predict the text will explain contamination.” contribute to meaning or purpose?",
+    "audioPrompt": "What does “From the title “When the River Turned Brown” and a pollution photograph, I predict the text will explain contamination.” contribute to meaning or purpose?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -47,29 +47,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "inference",
-      "evaluation",
-      "It does not match the evidence in the example.",
-      "monitoring"
+      "Visualising connects sensory details and spatial relationships.",
+      "The relevant text-to-text connection activates knowledge that clarifies the process.",
+      "The question directs attention to structure, evidence and possible positioning.",
+      "The prediction uses available evidence and remains open to revision."
     ],
     "correct": 3,
-    "explanation": "monitoring means checking and regulating understanding.\nHint: Match the definition precisely; do not choose a nearby term just because it is familiar.",
+    "explanation": "The prediction uses available evidence and remains open to revision.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "monitoring means checking and regulating understanding.",
-      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
+      "summary": "The prediction uses available evidence and remains open to revision.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY05-P-003",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "predict question",
+    "stage": "core",
+    "skill": "predicting revision",
     "printable": true,
     "type": "single",
-    "question": "Read this example from a science investigation: “predict/question”. Which label best describes what the language is doing?",
-    "audioPrompt": "Read this example from a science investigation: “predict/question”. Which label best describes what the language is doing?",
+    "question": "Which revision best applies predicting to this task?",
+    "audioPrompt": "Which revision best applies predicting to this task?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -77,29 +77,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "predict/question",
-      "set purpose",
-      "activate knowledge",
-      "read/view and visualise"
+      "Record the clue and update the prediction after the introduction.",
+      "Sketch the image and label words that shaped it.",
+      "State how the earlier source helps interpret the new information.",
+      "Seek an answer in the method section and record remaining uncertainty."
     ],
     "correct": 0,
-    "explanation": "“predict/question” is an example of predict/question.\nHint: Strategies are chosen tools, not boxes to complete every time. Readers should explain why a strategy helped with a specific difficulty or question.",
+    "explanation": "The revision applies predicting purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "“predict/question” is an example of predict/question.",
-      "hint": "Strategies are chosen tools, not boxes to complete every time. Readers should explain why a strategy helped with a specific difficulty or question."
+      "summary": "The revision applies predicting purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY05-P-004",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "misconception repair",
+    "stage": "core",
+    "skill": "predicting misconception",
     "printable": true,
     "type": "single",
-    "question": "Which correction best fixes this idea: “Evaluation equals liking”?",
-    "audioPrompt": "Which correction best fixes this idea: “Evaluation equals liking”?",
+    "question": "A student says, “A prediction is successful only if it is exactly correct.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “A prediction is successful only if it is exactly correct.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -107,29 +107,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Prediction defended after contradiction",
-      "Use evidence and criteria.",
-      "Summary becomes retell",
-      "Connection becomes unrelated anecdote"
+      "A prediction is successful only if it is exactly correct.",
+      "The claim is too broad; the example shows that the prediction uses available evidence and remains open to revision.",
+      "Visualising means inventing details not supported by the text.",
+      "Any personal memory is a useful comprehension connection."
     ],
     "correct": 1,
-    "explanation": "Use evidence and criteria. This fixes the misconception without creating a new rule that is too broad.\nHint: Check the actual language evidence rather than relying on an absolute rule.",
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "Use evidence and criteria. This fixes the misconception without creating a new rule that is too broad.",
-      "hint": "Check the actual language evidence rather than relying on an absolute rule."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY05-P-005",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "infer connect",
+    "stage": "foundation",
+    "skill": "visualising",
     "printable": true,
     "type": "single",
-    "question": "Which example would be most useful when explaining comprehension, inference and critical evaluation in a sports-club discussion?",
-    "audioPrompt": "Which example would be most useful when explaining comprehension, inference and critical evaluation in a sports-club discussion?",
+    "question": "Read: “The description of narrow roots twisting through dark mud forms a mental image of a mangrove habitat.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “The description of narrow roots twisting through dark mud forms a mental image of a mangrove habitat.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -137,29 +137,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "set purpose",
-      "activate knowledge",
-      "infer/connect",
-      "predict/question"
+      "predicting",
+      "connecting",
+      "visualising",
+      "questioning"
     ],
     "correct": 2,
-    "explanation": "This example directly demonstrates infer/connect and can be explained using the language clue in the text.\nHint: Students select strategies for purpose, integrate literal and implied evidence, revise mental models, summarise relationships and evaluate credibility, craft and representation.",
+    "explanation": "visualising: Visualising connects sensory details and spatial relationships.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "This example directly demonstrates infer/connect and can be explained using the language clue in the text.",
-      "hint": "Students select strategies for purpose, integrate literal and implied evidence, revise mental models, summarise relationships and evaluate credibility, craft and representation."
+      "summary": "visualising: Visualising connects sensory details and spatial relationships.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY05-P-006",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "build inference",
+    "stage": "foundation",
+    "skill": "visualising effect",
     "printable": true,
     "type": "single",
-    "question": "In a library display, which is a valid evaluation criterion?",
-    "audioPrompt": "In a library display, which is a valid evaluation criterion?",
+    "question": "What does “The description of narrow roots twisting through dark mud forms a mental image of a mangrove habitat.” contribute to meaning or purpose?",
+    "audioPrompt": "What does “The description of narrow roots twisting through dark mud forms a mental image of a mangrove habitat.” contribute to meaning or purpose?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -167,29 +167,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "whether the reader likes the topic",
-      "the font alone",
-      "personal agreement",
-      "sample quality and evidence transparency"
+      "The prediction uses available evidence and remains open to revision.",
+      "The relevant text-to-text connection activates knowledge that clarifies the process.",
+      "The question directs attention to structure, evidence and possible positioning.",
+      "Visualising connects sensory details and spatial relationships."
     ],
     "correct": 3,
-    "explanation": "“sample quality and evidence transparency” is the strongest choice because it matches the language feature and the situation.\nHint: Strategies are chosen tools, not boxes to complete every time. Readers should explain why a strategy helped with a specific difficulty or question.",
+    "explanation": "Visualising connects sensory details and spatial relationships.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "“sample quality and evidence transparency” is the strongest choice because it matches the language feature and the situation.",
-      "hint": "Strategies are chosen tools, not boxes to complete every time. Readers should explain why a strategy helped with a specific difficulty or question."
+      "summary": "Visualising connects sensory details and spatial relationships.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY05-P-007",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "inference",
+    "stage": "core",
+    "skill": "visualising revision",
     "printable": true,
     "type": "single",
-    "question": "Which term best matches this meaning: “meaning built from evidence and knowledge”?",
-    "audioPrompt": "Which term best matches this meaning: “meaning built from evidence and knowledge”?",
+    "question": "Which revision best applies visualising to this task?",
+    "audioPrompt": "Which revision best applies visualising to this task?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -197,29 +197,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "inference",
-      "monitoring",
-      "evaluation",
-      "It does not match the evidence in the example."
+      "Sketch the image and label words that shaped it.",
+      "Record the clue and update the prediction after the introduction.",
+      "State how the earlier source helps interpret the new information.",
+      "Seek an answer in the method section and record remaining uncertainty."
     ],
     "correct": 0,
-    "explanation": "inference means meaning built from evidence and knowledge.\nHint: Match the definition precisely; do not choose a nearby term just because it is familiar.",
+    "explanation": "The revision applies visualising purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "inference means meaning built from evidence and knowledge.",
-      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
+      "summary": "The revision applies visualising purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY05-P-008",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "summarise",
+    "stage": "core",
+    "skill": "visualising misconception",
     "printable": true,
     "type": "single",
-    "question": "Read this example from a student council meeting: “summarise”. Which label best describes what the language is doing?",
-    "audioPrompt": "Read this example from a student council meeting: “summarise”. Which label best describes what the language is doing?",
+    "question": "A student says, “Visualising means inventing details not supported by the text.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Visualising means inventing details not supported by the text.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -227,29 +227,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "set purpose",
-      "summarise",
-      "activate knowledge",
-      "predict/question"
+      "A prediction is successful only if it is exactly correct.",
+      "The claim is too broad; the example shows that visualising connects sensory details and spatial relationships.",
+      "Visualising means inventing details not supported by the text.",
+      "Any personal memory is a useful comprehension connection."
     ],
     "correct": 1,
-    "explanation": "“summarise” is an example of summarise.\nHint: Strategies are chosen tools, not boxes to complete every time. Readers should explain why a strategy helped with a specific difficulty or question.",
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "“summarise” is an example of summarise.",
-      "hint": "Strategies are chosen tools, not boxes to complete every time. Readers should explain why a strategy helped with a specific difficulty or question."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY05-P-009",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "misconception repair",
+    "stage": "foundation",
+    "skill": "connecting",
     "printable": true,
     "type": "single",
-    "question": "Which correction best fixes this idea: “Prediction defended after contradiction”?",
-    "audioPrompt": "Which correction best fixes this idea: “Prediction defended after contradiction”?",
+    "question": "Read: “A reader connects a new explanation of evaporation to an earlier water-cycle diagram.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “A reader connects a new explanation of evaporation to an earlier water-cycle diagram.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -257,29 +257,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Prediction defended after contradiction",
-      "Summary becomes retell",
-      "Revise with evidence.",
-      "Connection becomes unrelated anecdote"
+      "predicting",
+      "visualising",
+      "connecting",
+      "questioning"
     ],
     "correct": 2,
-    "explanation": "Revise with evidence. This fixes the misconception without creating a new rule that is too broad.\nHint: Check the actual language evidence rather than relying on an absolute rule.",
+    "explanation": "connecting: The relevant text-to-text connection activates knowledge that clarifies the process.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "Revise with evidence. This fixes the misconception without creating a new rule that is too broad.",
-      "hint": "Check the actual language evidence rather than relying on an absolute rule."
+      "summary": "connecting: The relevant text-to-text connection activates knowledge that clarifies the process.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY05-P-010",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "set purpose",
+    "stage": "foundation",
+    "skill": "connecting effect",
     "printable": true,
     "type": "single",
-    "question": "Which example would be most useful when explaining comprehension, inference and critical evaluation in a environmental campaign?",
-    "audioPrompt": "Which example would be most useful when explaining comprehension, inference and critical evaluation in a environmental campaign?",
+    "question": "What does “A reader connects a new explanation of evaporation to an earlier water-cycle diagram.” contribute to meaning or purpose?",
+    "audioPrompt": "What does “A reader connects a new explanation of evaporation to an earlier water-cycle diagram.” contribute to meaning or purpose?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -287,29 +287,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "activate knowledge",
-      "predict/question",
-      "read/view and visualise",
-      "set purpose"
+      "The prediction uses available evidence and remains open to revision.",
+      "Visualising connects sensory details and spatial relationships.",
+      "The question directs attention to structure, evidence and possible positioning.",
+      "The relevant text-to-text connection activates knowledge that clarifies the process."
     ],
     "correct": 3,
-    "explanation": "This example directly demonstrates set purpose and can be explained using the language clue in the text.\nHint: Students select strategies for purpose, integrate literal and implied evidence, revise mental models, summarise relationships and evaluate credibility, craft and representation.",
+    "explanation": "The relevant text-to-text connection activates knowledge that clarifies the process.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "This example directly demonstrates set purpose and can be explained using the language clue in the text.",
-      "hint": "Students select strategies for purpose, integrate literal and implied evidence, revise mental models, summarise relationships and evaluate credibility, craft and representation."
+      "summary": "The relevant text-to-text connection activates knowledge that clarifies the process.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY05-P-011",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "predict question",
+    "stage": "core",
+    "skill": "connecting revision",
     "printable": true,
     "type": "single",
-    "question": "A museum caption includes “predict/question”. Why is this an effective example of predict/question?",
-    "audioPrompt": "A museum caption includes “predict/question”. Why is this an effective example of predict/question?",
+    "question": "Which revision best applies connecting to this task?",
+    "audioPrompt": "Which revision best applies connecting to this task?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -317,29 +317,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It matches the purpose and the language clue in the example.",
-      "Strategies are chosen tools, not boxes to complete every time. Readers should explain why a strategy helped with a specific difficulty or question.",
-      "Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone.",
-      "It makes the intended language choice clear in context."
+      "State how the earlier source helps interpret the new information.",
+      "Record the clue and update the prediction after the introduction.",
+      "Sketch the image and label words that shaped it.",
+      "Seek an answer in the method section and record remaining uncertainty."
     ],
-    "correct": 3,
-    "explanation": "predict/question works because its language choice fits the purpose and context.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 0,
+    "explanation": "The revision applies connecting purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "predict/question works because its language choice fits the purpose and context.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "The revision applies connecting purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY05-P-012",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "core",
+    "skill": "connecting misconception",
     "printable": true,
     "type": "single",
-    "question": "Why is “Select central relationships.” a better rule than “Summary becomes retell” when reading a student council meeting?",
-    "audioPrompt": "Why is “Select central relationships.” a better rule than “Summary becomes retell” when reading a student council meeting?",
+    "question": "A student says, “Any personal memory is a useful comprehension connection.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Any personal memory is a useful comprehension connection.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -347,29 +347,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because it keeps the useful distinction without turning it into an absolute rule.",
-      "Because the longest rule is always the best one.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words."
+      "A prediction is successful only if it is exactly correct.",
+      "The claim is too broad; the example shows that the relevant text-to-text connection activates knowledge that clarifies the process.",
+      "Visualising means inventing details not supported by the text.",
+      "Any personal memory is a useful comprehension connection."
     ],
-    "correct": 0,
-    "explanation": "“Select central relationships.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 1,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "“Select central relationships.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY05-P-013",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "infer connect",
+    "stage": "foundation",
+    "skill": "questioning",
     "printable": true,
     "type": "single",
-    "question": "A local-history article includes “infer/connect”. Why is this an effective example of infer/connect?",
-    "audioPrompt": "A local-history article includes “infer/connect”. Why is this an effective example of infer/connect?",
+    "question": "Read: “Why did the author present the survey result before explaining the sample?” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “Why did the author present the survey result before explaining the sample?” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -377,29 +377,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It matches the purpose and the language clue in the example.",
-      "It makes the intended language choice clear in context.",
-      "Strategies are chosen tools, not boxes to complete every time. Readers should explain why a strategy helped with a specific difficulty or question.",
-      "Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone."
+      "predicting",
+      "visualising",
+      "questioning",
+      "connecting"
     ],
-    "correct": 1,
-    "explanation": "infer/connect works because its language choice fits the purpose and context.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 2,
+    "explanation": "questioning: The question directs attention to structure, evidence and possible positioning.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "infer/connect works because its language choice fits the purpose and context.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "questioning: The question directs attention to structure, evidence and possible positioning.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY05-P-014",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "foundation",
+    "skill": "questioning effect",
     "printable": true,
     "type": "single",
-    "question": "Why is “Use evidence and criteria.” a better rule than “Evaluation equals liking” when reading a environmental campaign?",
-    "audioPrompt": "Why is “Use evidence and criteria.” a better rule than “Evaluation equals liking” when reading a environmental campaign?",
+    "question": "What does “Why did the author present the survey result before explaining the sample?” contribute to meaning or purpose?",
+    "audioPrompt": "What does “Why did the author present the survey result before explaining the sample?” contribute to meaning or purpose?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -407,29 +407,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because the longest rule is always the best one.",
-      "Because exceptions never matter in English.",
-      "Because it keeps the useful distinction without turning it into an absolute rule.",
-      "Because a rule is correct whenever it uses technical words."
+      "The prediction uses available evidence and remains open to revision.",
+      "Visualising connects sensory details and spatial relationships.",
+      "The relevant text-to-text connection activates knowledge that clarifies the process.",
+      "The question directs attention to structure, evidence and possible positioning."
     ],
-    "correct": 2,
-    "explanation": "“Use evidence and criteria.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 3,
+    "explanation": "The question directs attention to structure, evidence and possible positioning.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "“Use evidence and criteria.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The question directs attention to structure, evidence and possible positioning.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY05-P-015",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "repair revise",
+    "stage": "core",
+    "skill": "questioning revision",
     "printable": true,
     "type": "single",
-    "question": "A book-club discussion includes “repair/revise”. Why is this an effective example of repair/revise?",
-    "audioPrompt": "A book-club discussion includes “repair/revise”. Why is this an effective example of repair/revise?",
+    "question": "Which revision best applies questioning to this task?",
+    "audioPrompt": "Which revision best applies questioning to this task?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -437,29 +437,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It matches the purpose and the language clue in the example.",
-      "Strategies are chosen tools, not boxes to complete every time. Readers should explain why a strategy helped with a specific difficulty or question.",
-      "Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone.",
-      "It makes the intended language choice clear in context."
+      "Seek an answer in the method section and record remaining uncertainty.",
+      "Record the clue and update the prediction after the introduction.",
+      "Sketch the image and label words that shaped it.",
+      "State how the earlier source helps interpret the new information."
     ],
-    "correct": 3,
-    "explanation": "repair/revise works because its language choice fits the purpose and context.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 0,
+    "explanation": "The revision applies questioning purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "repair/revise works because its language choice fits the purpose and context.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "The revision applies questioning purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY05-P-016",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "core",
+    "skill": "questioning misconception",
     "printable": true,
     "type": "single",
-    "question": "Why is “Select central relationships.” a better rule than “Summary becomes retell” when reading a excursion briefing?",
-    "audioPrompt": "Why is “Select central relationships.” a better rule than “Summary becomes retell” when reading a excursion briefing?",
+    "question": "A student says, “Questions should be asked only after reading.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Questions should be asked only after reading.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -467,29 +467,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because it keeps the useful distinction without turning it into an absolute rule.",
-      "Because the longest rule is always the best one.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words."
+      "A prediction is successful only if it is exactly correct.",
+      "The claim is too broad; the example shows that the question directs attention to structure, evidence and possible positioning.",
+      "Visualising means inventing details not supported by the text.",
+      "Any personal memory is a useful comprehension connection."
     ],
-    "correct": 0,
-    "explanation": "“Select central relationships.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 1,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "“Select central relationships.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY05-P-017",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "evaluate",
+    "stage": "foundation",
+    "skill": "literal meaning",
     "printable": true,
     "type": "single",
-    "question": "A design project includes “evaluate”. Why is this an effective example of evaluate?",
-    "audioPrompt": "A design project includes “evaluate”. Why is this an effective example of evaluate?",
+    "question": "Read: “The report states that 42 seedlings survived the first month.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “The report states that 42 seedlings survived the first month.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -497,29 +497,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It matches the purpose and the language clue in the example.",
-      "It makes the intended language choice clear in context.",
-      "Strategies are chosen tools, not boxes to complete every time. Readers should explain why a strategy helped with a specific difficulty or question.",
-      "Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone."
+      "predicting",
+      "visualising",
+      "literal meaning",
+      "connecting"
     ],
-    "correct": 1,
-    "explanation": "evaluate works because its language choice fits the purpose and context.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 2,
+    "explanation": "literal meaning: Literal comprehension retrieves information directly stated in the source.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "evaluate works because its language choice fits the purpose and context.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "literal meaning: Literal comprehension retrieves information directly stated in the source.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY05-P-018",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "foundation",
+    "skill": "literal meaning effect",
     "printable": true,
     "type": "single",
-    "question": "Why is “Use evidence and criteria.” a better rule than “Evaluation equals liking” when reading a weather report?",
-    "audioPrompt": "Why is “Use evidence and criteria.” a better rule than “Evaluation equals liking” when reading a weather report?",
+    "question": "What does “The report states that 42 seedlings survived the first month.” contribute to meaning or purpose?",
+    "audioPrompt": "What does “The report states that 42 seedlings survived the first month.” contribute to meaning or purpose?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -527,29 +527,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because the longest rule is always the best one.",
-      "Because exceptions never matter in English.",
-      "Because it keeps the useful distinction without turning it into an absolute rule.",
-      "Because a rule is correct whenever it uses technical words."
+      "The prediction uses available evidence and remains open to revision.",
+      "Visualising connects sensory details and spatial relationships.",
+      "The relevant text-to-text connection activates knowledge that clarifies the process.",
+      "Literal comprehension retrieves information directly stated in the source."
     ],
-    "correct": 2,
-    "explanation": "“Use evidence and criteria.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 3,
+    "explanation": "Literal comprehension retrieves information directly stated in the source.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "“Use evidence and criteria.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "Literal comprehension retrieves information directly stated in the source.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY05-P-019",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "activate knowledge",
+    "stage": "application",
+    "skill": "literal meaning revision",
     "printable": true,
     "type": "single",
-    "question": "A school assembly includes “activate knowledge”. Why is this an effective example of activate knowledge?",
-    "audioPrompt": "A school assembly includes “activate knowledge”. Why is this an effective example of activate knowledge?",
+    "question": "Which revision best applies literal meaning to this task?",
+    "audioPrompt": "Which revision best applies literal meaning to this task?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -557,29 +557,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It matches the purpose and the language clue in the example.",
-      "Strategies are chosen tools, not boxes to complete every time. Readers should explain why a strategy helped with a specific difficulty or question.",
-      "Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone.",
-      "It makes the intended language choice clear in context."
+      "Quote or paraphrase the exact result without adding an inference.",
+      "Record the clue and update the prediction after the introduction.",
+      "Sketch the image and label words that shaped it.",
+      "State how the earlier source helps interpret the new information."
     ],
-    "correct": 3,
-    "explanation": "activate knowledge works because its language choice fits the purpose and context.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 0,
+    "explanation": "The revision applies literal meaning purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "activate knowledge works because its language choice fits the purpose and context.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "The revision applies literal meaning purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY05-P-020",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "core",
+    "skill": "literal meaning misconception",
     "printable": true,
     "type": "single",
-    "question": "Why is “Select central relationships.” a better rule than “Summary becomes retell” when reading a peer feedback session?",
-    "audioPrompt": "Why is “Select central relationships.” a better rule than “Summary becomes retell” when reading a peer feedback session?",
+    "question": "A student says, “Literal meaning requires guessing what the author implies.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Literal meaning requires guessing what the author implies.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -587,29 +587,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because it keeps the useful distinction without turning it into an absolute rule.",
-      "Because the longest rule is always the best one.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words."
+      "A prediction is successful only if it is exactly correct.",
+      "The claim is too broad; the example shows that literal comprehension retrieves information directly stated in the source.",
+      "Visualising means inventing details not supported by the text.",
+      "Any personal memory is a useful comprehension connection."
     ],
-    "correct": 0,
-    "explanation": "“Select central relationships.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 1,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "“Select central relationships.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY05-P-021",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "foundation",
+    "skill": "inference",
     "printable": true,
     "type": "single",
-    "question": "A excursion briefing could use either “set purpose” or “The service may face pressure if the trend continues.”. Which comparison is most accurate?",
-    "audioPrompt": "A excursion briefing could use either “set purpose” or “The service may face pressure if the trend continues.”. Which comparison is most accurate?",
+    "question": "Read: “The empty water bowl, dusty paws and repeated pacing suggest the dog is thirsty.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “The empty water bowl, dusty paws and repeated pacing suggest the dog is thirsty.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -617,29 +617,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "“set purpose” shows set purpose, while “The service may face pressure if the trend continues.” shows inference.",
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer."
+      "predicting",
+      "visualising",
+      "inference",
+      "connecting"
     ],
-    "correct": 0,
-    "explanation": "The important difference is the language function: set purpose versus inference.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "correct": 2,
+    "explanation": "inference: Several textual clues combine with reasonable knowledge to support an unstated meaning.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: set purpose versus inference.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "inference: Several textual clues combine with reasonable knowledge to support an unstated meaning.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY05-P-022",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "foundation",
+    "skill": "inference effect",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Connection becomes unrelated anecdote” in a design project?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Connection becomes unrelated anecdote” in a design project?",
+    "question": "What does “The empty water bowl, dusty paws and repeated pacing suggest the dog is thirsty.” contribute to meaning or purpose?",
+    "audioPrompt": "What does “The empty water bowl, dusty paws and repeated pacing suggest the dog is thirsty.” contribute to meaning or purpose?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -647,29 +647,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Prediction defended after contradiction",
-      "Link it to interpretation.",
-      "Summary becomes retell",
-      "Connection becomes unrelated anecdote"
+      "The prediction uses available evidence and remains open to revision.",
+      "Visualising connects sensory details and spatial relationships.",
+      "The relevant text-to-text connection activates knowledge that clarifies the process.",
+      "Several textual clues combine with reasonable knowledge to support an unstated meaning."
     ],
-    "correct": 1,
-    "explanation": "Link it to interpretation. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone.",
+    "correct": 3,
+    "explanation": "Several textual clues combine with reasonable knowledge to support an unstated meaning.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "Link it to interpretation. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone."
+      "summary": "Several textual clues combine with reasonable knowledge to support an unstated meaning.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY05-P-023",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "application",
+    "skill": "inference revision",
     "printable": true,
     "type": "single",
-    "question": "A weather report could use either “predict/question” or “The axis starts at 80, so I revise my first visual impression.”. Which comparison is most accurate?",
-    "audioPrompt": "A weather report could use either “predict/question” or “The axis starts at 80, so I revise my first visual impression.”. Which comparison is most accurate?",
+    "question": "Which revision best applies inference to this task?",
+    "audioPrompt": "Which revision best applies inference to this task?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -677,29 +677,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "The longer example is automatically more formal and therefore better.",
-      "“predict/question” shows predict/question, while “The axis starts at 80, so I revise my first visual impression.” shows monitoring.",
-      "Neither example can be analysed unless the writer explains the answer."
+      "Name the clues and keep the conclusion no stronger than the evidence.",
+      "Record the clue and update the prediction after the introduction.",
+      "Sketch the image and label words that shaped it.",
+      "State how the earlier source helps interpret the new information."
     ],
-    "correct": 2,
-    "explanation": "The important difference is the language function: predict/question versus monitoring.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "correct": 0,
+    "explanation": "The revision applies inference purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: predict/question versus monitoring.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "The revision applies inference purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY05-P-024",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "core",
+    "skill": "inference misconception",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Prediction defended after contradiction” in a school assembly?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Prediction defended after contradiction” in a school assembly?",
+    "question": "A student says, “An inference is any personal opinion.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “An inference is any personal opinion.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -707,29 +707,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Prediction defended after contradiction",
-      "Summary becomes retell",
-      "Connection becomes unrelated anecdote",
-      "Revise with evidence."
+      "A prediction is successful only if it is exactly correct.",
+      "The claim is too broad; the example shows that several textual clues combine with reasonable knowledge to support an unstated meaning.",
+      "Visualising means inventing details not supported by the text.",
+      "Any personal memory is a useful comprehension connection."
     ],
-    "correct": 3,
-    "explanation": "Revise with evidence. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone.",
+    "correct": 1,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "Revise with evidence. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY05-P-025",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "foundation",
+    "skill": "summarising",
     "printable": true,
     "type": "single",
-    "question": "A peer feedback session could use either “infer/connect” or “The service may face pressure if the trend continues.”. Which comparison is most accurate?",
-    "audioPrompt": "A peer feedback session could use either “infer/connect” or “The service may face pressure if the trend continues.”. Which comparison is most accurate?",
+    "question": "Read: “The paragraph explains that shade lowers water temperature and protects young fish.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “The paragraph explains that shade lowers water temperature and protects young fish.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -737,29 +737,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "“infer/connect” shows infer/connect, while “The service may face pressure if the trend continues.” shows inference.",
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer."
+      "predicting",
+      "visualising",
+      "summarising",
+      "connecting"
     ],
-    "correct": 0,
-    "explanation": "The important difference is the language function: infer/connect versus inference.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "correct": 2,
+    "explanation": "summarising: The summary preserves the central cause and effect while omitting minor detail.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: infer/connect versus inference.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "summarising: The summary preserves the central cause and effect while omitting minor detail.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY05-P-026",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "core",
+    "skill": "summarising effect",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Connection becomes unrelated anecdote” in a cooking demonstration?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Connection becomes unrelated anecdote” in a cooking demonstration?",
+    "question": "What does “The paragraph explains that shade lowers water temperature and protects young fish.” contribute to meaning or purpose?",
+    "audioPrompt": "What does “The paragraph explains that shade lowers water temperature and protects young fish.” contribute to meaning or purpose?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -767,29 +767,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Prediction defended after contradiction",
-      "Link it to interpretation.",
-      "Summary becomes retell",
-      "Connection becomes unrelated anecdote"
+      "The prediction uses available evidence and remains open to revision.",
+      "Visualising connects sensory details and spatial relationships.",
+      "The relevant text-to-text connection activates knowledge that clarifies the process.",
+      "The summary preserves the central cause and effect while omitting minor detail."
     ],
-    "correct": 1,
-    "explanation": "Link it to interpretation. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone.",
+    "correct": 3,
+    "explanation": "The summary preserves the central cause and effect while omitting minor detail.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "Link it to interpretation. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone."
+      "summary": "The summary preserves the central cause and effect while omitting minor detail.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY05-P-027",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "application",
+    "skill": "summarising revision",
     "printable": true,
     "type": "single",
-    "question": "A arts review could use either “repair/revise” or “The axis starts at 80, so I revise my first visual impression.”. Which comparison is most accurate?",
-    "audioPrompt": "A arts review could use either “repair/revise” or “The axis starts at 80, so I revise my first visual impression.”. Which comparison is most accurate?",
+    "question": "Which revision best applies summarising to this task?",
+    "audioPrompt": "Which revision best applies summarising to this task?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -797,29 +797,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "The longer example is automatically more formal and therefore better.",
-      "“repair/revise” shows repair/revise, while “The axis starts at 80, so I revise my first visual impression.” shows monitoring.",
-      "Neither example can be analysed unless the writer explains the answer."
+      "Use your own words and check that no key relationship was lost.",
+      "Record the clue and update the prediction after the introduction.",
+      "Sketch the image and label words that shaped it.",
+      "State how the earlier source helps interpret the new information."
     ],
-    "correct": 2,
-    "explanation": "The important difference is the language function: repair/revise versus monitoring.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "correct": 0,
+    "explanation": "The revision applies summarising purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: repair/revise versus monitoring.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "The revision applies summarising purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY05-P-028",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "core",
+    "skill": "summarising misconception",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Prediction defended after contradiction” in a technology presentation?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Prediction defended after contradiction” in a technology presentation?",
+    "question": "A student says, “A summary copies the first sentence.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “A summary copies the first sentence.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -827,29 +827,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Prediction defended after contradiction",
-      "Summary becomes retell",
-      "Connection becomes unrelated anecdote",
-      "Revise with evidence."
+      "A prediction is successful only if it is exactly correct.",
+      "The claim is too broad; the example shows that the summary preserves the central cause and effect while omitting minor detail.",
+      "Visualising means inventing details not supported by the text.",
+      "Any personal memory is a useful comprehension connection."
     ],
-    "correct": 3,
-    "explanation": "Revise with evidence. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone.",
+    "correct": 1,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "Revise with evidence. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY05-P-029",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "foundation",
+    "skill": "monitoring",
     "printable": true,
     "type": "single",
-    "question": "A playground consultation could use either “evaluate” or “The service may face pressure if the trend continues.”. Which comparison is most accurate?",
-    "audioPrompt": "A playground consultation could use either “evaluate” or “The service may face pressure if the trend continues.”. Which comparison is most accurate?",
+    "question": "Read: “Jada notices that her explanation conflicts with the graph and rereads the axis labels.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “Jada notices that her explanation conflicts with the graph and rereads the axis labels.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -857,29 +857,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "“evaluate” shows evaluate, while “The service may face pressure if the trend continues.” shows inference.",
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer."
+      "predicting",
+      "visualising",
+      "monitoring",
+      "connecting"
     ],
-    "correct": 0,
-    "explanation": "The important difference is the language function: evaluate versus inference.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "correct": 2,
+    "explanation": "monitoring: Detecting a mismatch triggers a repair strategy.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: evaluate versus inference.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "monitoring: Detecting a mismatch triggers a repair strategy.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY05-P-030",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "core",
+    "skill": "monitoring effect",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Connection becomes unrelated anecdote” in a class podcast?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Connection becomes unrelated anecdote” in a class podcast?",
+    "question": "What does “Jada notices that her explanation conflicts with the graph and rereads the axis labels.” contribute to meaning or purpose?",
+    "audioPrompt": "What does “Jada notices that her explanation conflicts with the graph and rereads the axis labels.” contribute to meaning or purpose?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -887,29 +887,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Prediction defended after contradiction",
-      "Link it to interpretation.",
-      "Summary becomes retell",
-      "Connection becomes unrelated anecdote"
+      "The prediction uses available evidence and remains open to revision.",
+      "Visualising connects sensory details and spatial relationships.",
+      "The relevant text-to-text connection activates knowledge that clarifies the process.",
+      "Detecting a mismatch triggers a repair strategy."
     ],
-    "correct": 1,
-    "explanation": "Link it to interpretation. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone.",
+    "correct": 3,
+    "explanation": "Detecting a mismatch triggers a repair strategy.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "Link it to interpretation. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone."
+      "summary": "Detecting a mismatch triggers a repair strategy.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY05-P-031",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "repair misunderstanding",
+    "stage": "application",
+    "skill": "monitoring revision",
     "printable": true,
     "type": "single",
-    "question": "You are editing a community garden proposal. Which is a valid evaluation criterion?",
-    "audioPrompt": "You are editing a community garden proposal. Which is a valid evaluation criterion?",
+    "question": "Which revision best applies monitoring to this task?",
+    "audioPrompt": "Which revision best applies monitoring to this task?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -917,29 +917,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "whether the reader likes the topic",
-      "sample quality and evidence transparency",
-      "the font alone",
-      "personal agreement"
+      "Clarify the scale, revise the interpretation and continue only when it makes sense.",
+      "Record the clue and update the prediction after the introduction.",
+      "Sketch the image and label words that shaped it.",
+      "State how the earlier source helps interpret the new information."
     ],
-    "correct": 1,
-    "explanation": "“sample quality and evidence transparency” best fits the purpose and the language evidence in this new situation.\nHint: Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone.",
+    "correct": 0,
+    "explanation": "The revision applies monitoring purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "“sample quality and evidence transparency” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone."
+      "summary": "The revision applies monitoring purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY05-P-032",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "inference",
+    "stage": "core",
+    "skill": "monitoring misconception",
     "printable": true,
     "type": "single",
-    "question": "A sports-club discussion needs a clear example of inference. Which wording should you choose?",
-    "audioPrompt": "A sports-club discussion needs a clear example of inference. Which wording should you choose?",
+    "question": "A student says, “Monitoring means reading more slowly at all times.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Monitoring means reading more slowly at all times.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -947,29 +947,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The graph shows a 12% decline.",
-      "The claim is limited because the sample excludes rural areas.",
-      "The service may face pressure if the trend continues.",
-      "The axis starts at 80, so I revise my first visual impression."
+      "A prediction is successful only if it is exactly correct.",
+      "The claim is too broad; the example shows that detecting a mismatch triggers a repair strategy.",
+      "Visualising means inventing details not supported by the text.",
+      "Any personal memory is a useful comprehension connection."
     ],
-    "correct": 2,
-    "explanation": "“The service may face pressure if the trend continues.” is the best choice because it demonstrates inference in context.\nHint: Choose the wording that performs the required job, not merely one that sounds fluent.",
+    "correct": 1,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "“The service may face pressure if the trend continues.” is the best choice because it demonstrates inference in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY05-P-033",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "inference",
+    "stage": "foundation",
+    "skill": "comparing sources",
     "printable": true,
     "type": "single",
-    "question": "While revising a library display, you need language that matches “meaning built from evidence and knowledge”. Which concept should guide your choice?",
-    "audioPrompt": "While revising a library display, you need language that matches “meaning built from evidence and knowledge”. Which concept should guide your choice?",
+    "question": "Read: “A news article highlights disruption; a council report provides costs and timelines.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “A news article highlights disruption; a council report provides costs and timelines.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -977,29 +977,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "monitoring",
-      "evaluation",
-      "It does not match the evidence in the example.",
-      "inference"
+      "predicting",
+      "visualising",
+      "comparing sources",
+      "connecting"
     ],
-    "correct": 3,
-    "explanation": "inference is the concept that matches meaning built from evidence and knowledge.\nHint: Use the definition to guide the decision, then check it against the sentence.",
+    "correct": 2,
+    "explanation": "comparing sources: Comparing reveals different purposes, emphases and useful evidence.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "inference is the concept that matches meaning built from evidence and knowledge.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "comparing sources: Comparing reveals different purposes, emphases and useful evidence.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY05-P-034",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "build inference",
+    "stage": "core",
+    "skill": "comparing sources effect",
     "printable": true,
     "type": "single",
-    "question": "You are editing a museum caption. Which is a valid evaluation criterion?",
-    "audioPrompt": "You are editing a museum caption. Which is a valid evaluation criterion?",
+    "question": "What does “A news article highlights disruption; a council report provides costs and timelines.” contribute to meaning or purpose?",
+    "audioPrompt": "What does “A news article highlights disruption; a council report provides costs and timelines.” contribute to meaning or purpose?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1007,29 +1007,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "sample quality and evidence transparency",
-      "whether the reader likes the topic",
-      "the font alone",
-      "personal agreement"
+      "The prediction uses available evidence and remains open to revision.",
+      "Visualising connects sensory details and spatial relationships.",
+      "The relevant text-to-text connection activates knowledge that clarifies the process.",
+      "Comparing reveals different purposes, emphases and useful evidence."
     ],
-    "correct": 0,
-    "explanation": "“sample quality and evidence transparency” best fits the purpose and the language evidence in this new situation.\nHint: Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone.",
+    "correct": 3,
+    "explanation": "Comparing reveals different purposes, emphases and useful evidence.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "“sample quality and evidence transparency” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone."
+      "summary": "Comparing reveals different purposes, emphases and useful evidence.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY05-P-035",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "literal",
+    "stage": "application",
+    "skill": "comparing sources revision",
     "printable": true,
     "type": "single",
-    "question": "A student council meeting needs a clear example of literal. Which wording should you choose?",
-    "audioPrompt": "A student council meeting needs a clear example of literal. Which wording should you choose?",
+    "question": "Which revision best applies comparing sources to this task?",
+    "audioPrompt": "Which revision best applies comparing sources to this task?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1037,29 +1037,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The service may face pressure if the trend continues.",
-      "The graph shows a 12% decline.",
-      "The claim is limited because the sample excludes rural areas.",
-      "The axis starts at 80, so I revise my first visual impression."
+      "Create common comparison categories before judging the sources.",
+      "Record the clue and update the prediction after the introduction.",
+      "Sketch the image and label words that shaped it.",
+      "State how the earlier source helps interpret the new information."
     ],
-    "correct": 1,
-    "explanation": "“The graph shows a 12% decline.” is the best choice because it demonstrates literal in context.\nHint: Choose the wording that performs the required job, not merely one that sounds fluent.",
+    "correct": 0,
+    "explanation": "The revision applies comparing sources purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "“The graph shows a 12% decline.” is the best choice because it demonstrates literal in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "The revision applies comparing sources purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY05-P-036",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "inference",
+    "stage": "challenge",
+    "skill": "comparing sources misconception",
     "printable": true,
     "type": "single",
-    "question": "While revising a local-history article, you need language that matches “meaning built from evidence and knowledge”. Which concept should guide your choice?",
-    "audioPrompt": "While revising a local-history article, you need language that matches “meaning built from evidence and knowledge”. Which concept should guide your choice?",
+    "question": "A student says, “One source must be entirely correct and the other wrong.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “One source must be entirely correct and the other wrong.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1067,29 +1067,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "monitoring",
-      "evaluation",
-      "inference",
-      "It does not match the evidence in the example."
+      "A prediction is successful only if it is exactly correct.",
+      "The claim is too broad; the example shows that comparing reveals different purposes, emphases and useful evidence.",
+      "Visualising means inventing details not supported by the text.",
+      "Any personal memory is a useful comprehension connection."
     ],
-    "correct": 2,
-    "explanation": "inference is the concept that matches meaning built from evidence and knowledge.\nHint: Use the definition to guide the decision, then check it against the sentence.",
+    "correct": 1,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "inference is the concept that matches meaning built from evidence and knowledge.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY05-P-037",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "summarise relationship",
+    "stage": "foundation",
+    "skill": "corroborating",
     "printable": true,
     "type": "single",
-    "question": "You are editing a environmental campaign. Which is a valid evaluation criterion?",
-    "audioPrompt": "You are editing a environmental campaign. Which is a valid evaluation criterion?",
+    "question": "Read: “Two independent sources report the same date, while a blog gives no source.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “Two independent sources report the same date, while a blog gives no source.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1097,29 +1097,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "whether the reader likes the topic",
-      "the font alone",
-      "personal agreement",
-      "sample quality and evidence transparency"
+      "predicting",
+      "visualising",
+      "corroborating",
+      "connecting"
     ],
-    "correct": 3,
-    "explanation": "“sample quality and evidence transparency” best fits the purpose and the language evidence in this new situation.\nHint: Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone.",
+    "correct": 2,
+    "explanation": "corroborating: Agreement between credible independent evidence strengthens confidence in the detail.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "“sample quality and evidence transparency” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone."
+      "summary": "corroborating: Agreement between credible independent evidence strengthens confidence in the detail.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY05-P-038",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "monitoring",
+    "stage": "core",
+    "skill": "corroborating effect",
     "printable": true,
     "type": "single",
-    "question": "A book-club discussion needs a clear example of monitoring. Which wording should you choose?",
-    "audioPrompt": "A book-club discussion needs a clear example of monitoring. Which wording should you choose?",
+    "question": "What does “Two independent sources report the same date, while a blog gives no source.” contribute to meaning or purpose?",
+    "audioPrompt": "What does “Two independent sources report the same date, while a blog gives no source.” contribute to meaning or purpose?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1127,29 +1127,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The axis starts at 80, so I revise my first visual impression.",
-      "The graph shows a 12% decline.",
-      "The service may face pressure if the trend continues.",
-      "The claim is limited because the sample excludes rural areas."
+      "The prediction uses available evidence and remains open to revision.",
+      "Visualising connects sensory details and spatial relationships.",
+      "The relevant text-to-text connection activates knowledge that clarifies the process.",
+      "Agreement between credible independent evidence strengthens confidence in the detail."
     ],
-    "correct": 0,
-    "explanation": "“The axis starts at 80, so I revise my first visual impression.” is the best choice because it demonstrates monitoring in context.\nHint: Choose the wording that performs the required job, not merely one that sounds fluent.",
+    "correct": 3,
+    "explanation": "Agreement between credible independent evidence strengthens confidence in the detail.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "“The axis starts at 80, so I revise my first visual impression.” is the best choice because it demonstrates monitoring in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "Agreement between credible independent evidence strengthens confidence in the detail.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY05-P-039",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "inference",
+    "stage": "application",
+    "skill": "corroborating revision",
     "printable": true,
     "type": "single",
-    "question": "While revising a excursion briefing, you need language that matches “meaning built from evidence and knowledge”. Which concept should guide your choice?",
-    "audioPrompt": "While revising a excursion briefing, you need language that matches “meaning built from evidence and knowledge”. Which concept should guide your choice?",
+    "question": "Which revision best applies corroborating to this task?",
+    "audioPrompt": "Which revision best applies corroborating to this task?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1157,29 +1157,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "monitoring",
-      "inference",
-      "evaluation",
-      "It does not match the evidence in the example."
+      "Trace the information to original evidence where possible.",
+      "Record the clue and update the prediction after the introduction.",
+      "Sketch the image and label words that shaped it.",
+      "State how the earlier source helps interpret the new information."
     ],
-    "correct": 1,
-    "explanation": "inference is the concept that matches meaning built from evidence and knowledge.\nHint: Use the definition to guide the decision, then check it against the sentence.",
+    "correct": 0,
+    "explanation": "The revision applies corroborating purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "inference is the concept that matches meaning built from evidence and knowledge.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "The revision applies corroborating purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY05-P-040",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "revise prediction",
+    "stage": "challenge",
+    "skill": "corroborating misconception",
     "printable": true,
     "type": "single",
-    "question": "You are editing a design project. Which is a valid evaluation criterion?",
-    "audioPrompt": "You are editing a design project. Which is a valid evaluation criterion?",
+    "question": "A student says, “Repeated claims online automatically become true.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Repeated claims online automatically become true.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1187,18 +1187,258 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "whether the reader likes the topic",
-      "the font alone",
-      "sample quality and evidence transparency",
-      "personal agreement"
+      "A prediction is successful only if it is exactly correct.",
+      "The claim is too broad; the example shows that agreement between credible independent evidence strengthens confidence in the detail.",
+      "Visualising means inventing details not supported by the text.",
+      "Any personal memory is a useful comprehension connection."
+    ],
+    "correct": 1,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
+    "structuredExplanation": {
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LY05-P-041",
+    "curriculumCode": "AC9E6LY05",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "synthesising",
+    "printable": true,
+    "type": "single",
+    "question": "Read: “The map shows affected areas, the graph shows change over time and interviews explain community impact.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “The map shows affected areas, the graph shows change over time and interviews explain community impact.” Which description best identifies the relevant choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "predicting",
+      "visualising",
+      "synthesising",
+      "connecting"
     ],
     "correct": 2,
-    "explanation": "“sample quality and evidence transparency” best fits the purpose and the language evidence in this new situation.\nHint: Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone.",
+    "explanation": "synthesising: Synthesis combines different contributions into a fuller understanding.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "“sample quality and evidence transparency” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone."
+      "summary": "synthesising: Synthesis combines different contributions into a fuller understanding.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LY05-P-042",
+    "curriculumCode": "AC9E6LY05",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "synthesising effect",
+    "printable": true,
+    "type": "single",
+    "question": "What does “The map shows affected areas, the graph shows change over time and interviews explain community impact.” contribute to meaning or purpose?",
+    "audioPrompt": "What does “The map shows affected areas, the graph shows change over time and interviews explain community impact.” contribute to meaning or purpose?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The prediction uses available evidence and remains open to revision.",
+      "Visualising connects sensory details and spatial relationships.",
+      "The relevant text-to-text connection activates knowledge that clarifies the process.",
+      "Synthesis combines different contributions into a fuller understanding."
+    ],
+    "correct": 3,
+    "explanation": "Synthesis combines different contributions into a fuller understanding.\nHint: Link exact evidence to its effect.",
+    "structuredExplanation": {
+      "summary": "Synthesis combines different contributions into a fuller understanding.",
+      "hint": "Link exact evidence to its effect."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LY05-P-043",
+    "curriculumCode": "AC9E6LY05",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "synthesising revision",
+    "printable": true,
+    "type": "single",
+    "question": "Which revision best applies synthesising to this task?",
+    "audioPrompt": "Which revision best applies synthesising to this task?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Write a conclusion that uses evidence from all three modes.",
+      "Record the clue and update the prediction after the introduction.",
+      "Sketch the image and label words that shaped it.",
+      "State how the earlier source helps interpret the new information."
+    ],
+    "correct": 0,
+    "explanation": "The revision applies synthesising purposefully.\nHint: Choose accuracy and effect, not extra length.",
+    "structuredExplanation": {
+      "summary": "The revision applies synthesising purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LY05-P-044",
+    "curriculumCode": "AC9E6LY05",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "synthesising misconception",
+    "printable": true,
+    "type": "single",
+    "question": "A student says, “Synthesis means placing three summaries beside one another.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Synthesis means placing three summaries beside one another.” Which response best corrects the claim?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A prediction is successful only if it is exactly correct.",
+      "The claim is too broad; the example shows that synthesis combines different contributions into a fuller understanding.",
+      "Visualising means inventing details not supported by the text.",
+      "Any personal memory is a useful comprehension connection."
+    ],
+    "correct": 1,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
+    "structuredExplanation": {
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LY05-P-045",
+    "curriculumCode": "AC9E6LY05",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "strategy flexibility",
+    "printable": true,
+    "type": "single",
+    "question": "Read: “When a procedure becomes confusing, Sam stops predicting and traces each diagrammed step.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “When a procedure becomes confusing, Sam stops predicting and traces each diagrammed step.” Which description best identifies the relevant choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "predicting",
+      "visualising",
+      "strategy flexibility",
+      "connecting"
+    ],
+    "correct": 2,
+    "explanation": "strategy flexibility: Effective readers choose strategies that fit the text and the comprehension problem.\nHint: Name the feature precisely.",
+    "structuredExplanation": {
+      "summary": "strategy flexibility: Effective readers choose strategies that fit the text and the comprehension problem.",
+      "hint": "Name the feature precisely."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LY05-P-046",
+    "curriculumCode": "AC9E6LY05",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "strategy flexibility effect",
+    "printable": true,
+    "type": "single",
+    "question": "What does “When a procedure becomes confusing, Sam stops predicting and traces each diagrammed step.” contribute to meaning or purpose?",
+    "audioPrompt": "What does “When a procedure becomes confusing, Sam stops predicting and traces each diagrammed step.” contribute to meaning or purpose?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The prediction uses available evidence and remains open to revision.",
+      "Visualising connects sensory details and spatial relationships.",
+      "The relevant text-to-text connection activates knowledge that clarifies the process.",
+      "Effective readers choose strategies that fit the text and the comprehension problem."
+    ],
+    "correct": 3,
+    "explanation": "Effective readers choose strategies that fit the text and the comprehension problem.\nHint: Link exact evidence to its effect.",
+    "structuredExplanation": {
+      "summary": "Effective readers choose strategies that fit the text and the comprehension problem.",
+      "hint": "Link exact evidence to its effect."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LY05-P-047",
+    "curriculumCode": "AC9E6LY05",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "strategy flexibility revision",
+    "printable": true,
+    "type": "single",
+    "question": "Which revision best applies strategy flexibility to this task?",
+    "audioPrompt": "Which revision best applies strategy flexibility to this task?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Name the problem, select a repair strategy and check whether it worked.",
+      "Record the clue and update the prediction after the introduction.",
+      "Sketch the image and label words that shaped it.",
+      "State how the earlier source helps interpret the new information."
+    ],
+    "correct": 0,
+    "explanation": "The revision applies strategy flexibility purposefully.\nHint: Choose accuracy and effect, not extra length.",
+    "structuredExplanation": {
+      "summary": "The revision applies strategy flexibility purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LY05-P-048",
+    "curriculumCode": "AC9E6LY05",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "strategy flexibility misconception",
+    "printable": true,
+    "type": "single",
+    "question": "A student says, “Every reader should use all strategies in the same order.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Every reader should use all strategies in the same order.” Which response best corrects the claim?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A prediction is successful only if it is exactly correct.",
+      "The claim is too broad; the example shows that effective readers choose strategies that fit the text and the comprehension problem.",
+      "Visualising means inventing details not supported by the text.",
+      "Any personal memory is a useful comprehension connection."
+    ],
+    "correct": 1,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
+    "structuredExplanation": {
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
+    },
+    "qualitySchema": "research-aligned-original-v2"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

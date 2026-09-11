@@ -4,12 +4,12 @@ window.skillrPracticeQuestions = [
     "id": "AC9E6LY04-P-001",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "define need",
+    "stage": "foundation",
+    "skill": "reading purpose",
     "printable": true,
     "type": "single",
-    "question": "In a class podcast, which source best supports a current population statistic?",
-    "audioPrompt": "In a class podcast, which source best supports a current population statistic?",
+    "question": "Read: “To check one scientific term, Priya chooses a glossary instead of reading the whole chapter.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “To check one scientific term, Priya chooses a glossary instead of reading the whole chapter.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -17,29 +17,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "An undated personal comment",
-      "A recent official statistical publication",
-      "A fictional story",
-      "A search snippet with no source"
+      "table of contents",
+      "reading purpose",
+      "index",
+      "glossary"
     ],
     "correct": 1,
-    "explanation": "“A recent official statistical publication” is the strongest choice because it matches the language feature and the situation.\nHint: The first search result or keyword match is only a candidate. Confirm context, units, definitions and source quality.",
+    "explanation": "reading purpose: Her purpose determines the most efficient text feature and reading path.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "“A recent official statistical publication” is the strongest choice because it matches the language feature and the situation.",
-      "hint": "The first search result or keyword match is only a candidate. Confirm context, units, definitions and source quality."
+      "summary": "reading purpose: Her purpose determines the most efficient text feature and reading path.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-P-002",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "scanning",
+    "stage": "foundation",
+    "skill": "reading purpose effect",
     "printable": true,
     "type": "single",
-    "question": "Which term best matches this meaning: “searching for a specific item”?",
-    "audioPrompt": "Which term best matches this meaning: “searching for a specific item”?",
+    "question": "What does “To check one scientific term, Priya chooses a glossary instead of reading the whole chapter.” contribute to meaning or purpose?",
+    "audioPrompt": "What does “To check one scientific term, Priya chooses a glossary instead of reading the whole chapter.” contribute to meaning or purpose?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -47,29 +47,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "skimming",
-      "source evaluation",
-      "scanning",
-      "It does not match the evidence in the example."
+      "It gives a broad map of major sections and their order.",
+      "Alphabetical entries and page references locate specific mentions across a book.",
+      "Her purpose determines the most efficient text feature and reading path.",
+      "It supports domain-specific vocabulary without interrupting the main explanation."
     ],
     "correct": 2,
-    "explanation": "scanning means searching for a specific item.\nHint: Match the definition precisely; do not choose a nearby term just because it is familiar.",
+    "explanation": "Her purpose determines the most efficient text feature and reading path.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "scanning means searching for a specific item.",
-      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
+      "summary": "Her purpose determines the most efficient text feature and reading path.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-P-003",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "inspect title author date",
+    "stage": "core",
+    "skill": "reading purpose revision",
     "printable": true,
     "type": "single",
-    "question": "Read this example from a science investigation: “inspect title/author/date”. Which label best describes what the language is doing?",
-    "audioPrompt": "Read this example from a science investigation: “inspect title/author/date”. Which label best describes what the language is doing?",
+    "question": "Which revision best applies reading purpose to this task?",
+    "audioPrompt": "Which revision best applies reading purpose to this task?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -77,29 +77,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "define information need",
-      "select likely source type",
-      "skim structure",
-      "inspect title/author/date"
+      "Use the contents page to locate the likely chapter, then scan its headings.",
+      "Choose the subentry that matches the precise research question.",
+      "Check whether the definition fits the sentence and diagram.",
+      "State the information need before choosing a source or feature."
     ],
     "correct": 3,
-    "explanation": "“inspect title/author/date” is an example of inspect title/author/date.\nHint: The first search result or keyword match is only a candidate. Confirm context, units, definitions and source quality.",
+    "explanation": "The revision applies reading purpose purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "“inspect title/author/date” is an example of inspect title/author/date.",
-      "hint": "The first search result or keyword match is only a candidate. Confirm context, units, definitions and source quality."
+      "summary": "The revision applies reading purpose purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-P-004",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "misconception repair",
+    "stage": "core",
+    "skill": "reading purpose misconception",
     "printable": true,
     "type": "single",
-    "question": "Which correction best fixes this idea: “Same reading rate used throughout”?",
-    "audioPrompt": "Which correction best fixes this idea: “Same reading rate used throughout”?",
+    "question": "A student says, “Every text should be read from the first page to the last.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Every text should be read from the first page to the last.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -107,29 +107,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Adjust to purpose and complexity.",
-      "First result accepted",
-      "Snippet treated as full evidence",
-      "Search ranking treated as credibility"
+      "The claim is too broad; the example shows that her purpose determines the most efficient text feature and reading path.",
+      "Every text should be read from the first page to the last.",
+      "A table of contents lists every individual term.",
+      "An index and a glossary serve the same purpose."
     ],
     "correct": 0,
-    "explanation": "Adjust to purpose and complexity. This fixes the misconception without creating a new rule that is too broad.\nHint: Check the actual language evidence rather than relying on an absolute rule.",
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "Adjust to purpose and complexity. This fixes the misconception without creating a new rule that is too broad.",
-      "hint": "Check the actual language evidence rather than relying on an absolute rule."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-P-005",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "scan keywords index search",
+    "stage": "foundation",
+    "skill": "table of contents",
     "printable": true,
     "type": "single",
-    "question": "Which example would be most useful when explaining selecting and navigating texts for purpose in a sports-club discussion?",
-    "audioPrompt": "Which example would be most useful when explaining selecting and navigating texts for purpose in a sports-club discussion?",
+    "question": "Read: “The contents page places “Coastal erosion” in Chapter 4 on page 62.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “The contents page places “Coastal erosion” in Chapter 4 on page 62.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -137,29 +137,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "define information need",
-      "scan keywords/index/search",
-      "select likely source type",
-      "inspect title/author/date"
+      "reading purpose",
+      "table of contents",
+      "index",
+      "glossary"
     ],
     "correct": 1,
-    "explanation": "This example directly demonstrates scan keywords/index/search and can be explained using the language clue in the text.\nHint: Students select texts from task requirements, use print and digital navigation pathways, confirm located information in context and evaluate source authority, currency and relevance.",
+    "explanation": "table of contents: It gives a broad map of major sections and their order.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "This example directly demonstrates scan keywords/index/search and can be explained using the language clue in the text.",
-      "hint": "Students select texts from task requirements, use print and digital navigation pathways, confirm located information in context and evaluate source authority, currency and relevance."
+      "summary": "table of contents: It gives a broad map of major sections and their order.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-P-006",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "define need",
+    "stage": "foundation",
+    "skill": "table of contents effect",
     "printable": true,
     "type": "single",
-    "question": "In a library display, what should happen after locating a keyword match?",
-    "audioPrompt": "In a library display, what should happen after locating a keyword match?",
+    "question": "What does “The contents page places “Coastal erosion” in Chapter 4 on page 62.” contribute to meaning or purpose?",
+    "audioPrompt": "What does “The contents page places “Coastal erosion” in Chapter 4 on page 62.” contribute to meaning or purpose?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -167,29 +167,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Copy it immediately",
-      "Ignore units",
-      "Read surrounding context and check the source",
-      "Assume it answers the question"
+      "Her purpose determines the most efficient text feature and reading path.",
+      "Alphabetical entries and page references locate specific mentions across a book.",
+      "It gives a broad map of major sections and their order.",
+      "It supports domain-specific vocabulary without interrupting the main explanation."
     ],
     "correct": 2,
-    "explanation": "“Read surrounding context and check the source” is the strongest choice because it matches the language feature and the situation.\nHint: The first search result or keyword match is only a candidate. Confirm context, units, definitions and source quality.",
+    "explanation": "It gives a broad map of major sections and their order.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "“Read surrounding context and check the source” is the strongest choice because it matches the language feature and the situation.",
-      "hint": "The first search result or keyword match is only a candidate. Confirm context, units, definitions and source quality."
+      "summary": "It gives a broad map of major sections and their order.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-P-007",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "skimming",
+    "stage": "core",
+    "skill": "table of contents revision",
     "printable": true,
     "type": "single",
-    "question": "Which term best matches this meaning: “rapid reading for overview”?",
-    "audioPrompt": "Which term best matches this meaning: “rapid reading for overview”?",
+    "question": "Which revision best applies table of contents to this task?",
+    "audioPrompt": "Which revision best applies table of contents to this task?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -197,29 +197,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "scanning",
-      "source evaluation",
-      "It does not match the evidence in the example.",
-      "skimming"
+      "State the information need before choosing a source or feature.",
+      "Choose the subentry that matches the precise research question.",
+      "Check whether the definition fits the sentence and diagram.",
+      "Use the contents page to locate the likely chapter, then scan its headings."
     ],
     "correct": 3,
-    "explanation": "skimming means rapid reading for overview.\nHint: Match the definition precisely; do not choose a nearby term just because it is familiar.",
+    "explanation": "The revision applies table of contents purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "skimming means rapid reading for overview.",
-      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
+      "summary": "The revision applies table of contents purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-P-008",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "record source",
+    "stage": "core",
+    "skill": "table of contents misconception",
     "printable": true,
     "type": "single",
-    "question": "Read this example from a student council meeting: “record source”. Which label best describes what the language is doing?",
-    "audioPrompt": "Read this example from a student council meeting: “record source”. Which label best describes what the language is doing?",
+    "question": "A student says, “A table of contents lists every individual term.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “A table of contents lists every individual term.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -227,29 +227,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "record source",
-      "define information need",
-      "select likely source type",
-      "inspect title/author/date"
+      "The claim is too broad; the example shows that it gives a broad map of major sections and their order.",
+      "Every text should be read from the first page to the last.",
+      "A table of contents lists every individual term.",
+      "An index and a glossary serve the same purpose."
     ],
     "correct": 0,
-    "explanation": "“record source” is an example of record source.\nHint: The first search result or keyword match is only a candidate. Confirm context, units, definitions and source quality.",
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "“record source” is an example of record source.",
-      "hint": "The first search result or keyword match is only a candidate. Confirm context, units, definitions and source quality."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-P-009",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "misconception repair",
+    "stage": "foundation",
+    "skill": "index",
     "printable": true,
     "type": "single",
-    "question": "Which correction best fixes this idea: “First result accepted”?",
-    "audioPrompt": "Which correction best fixes this idea: “First result accepted”?",
+    "question": "Read: “The index lists “erosion: coastal 62–67; wind 89; prevention 104”.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “The index lists “erosion: coastal 62–67; wind 89; prevention 104”.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -257,29 +257,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "First result accepted",
-      "Compare source and context.",
-      "Snippet treated as full evidence",
-      "Search ranking treated as credibility"
+      "reading purpose",
+      "index",
+      "table of contents",
+      "glossary"
     ],
     "correct": 1,
-    "explanation": "Compare source and context. This fixes the misconception without creating a new rule that is too broad.\nHint: Check the actual language evidence rather than relying on an absolute rule.",
+    "explanation": "index: Alphabetical entries and page references locate specific mentions across a book.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "Compare source and context. This fixes the misconception without creating a new rule that is too broad.",
-      "hint": "Check the actual language evidence rather than relying on an absolute rule."
+      "summary": "index: Alphabetical entries and page references locate specific mentions across a book.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-P-010",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "select likely source type",
+    "stage": "foundation",
+    "skill": "index effect",
     "printable": true,
     "type": "single",
-    "question": "Which example would be most useful when explaining selecting and navigating texts for purpose in a environmental campaign?",
-    "audioPrompt": "Which example would be most useful when explaining selecting and navigating texts for purpose in a environmental campaign?",
+    "question": "What does “The index lists “erosion: coastal 62–67; wind 89; prevention 104”.” contribute to meaning or purpose?",
+    "audioPrompt": "What does “The index lists “erosion: coastal 62–67; wind 89; prevention 104”.” contribute to meaning or purpose?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -287,29 +287,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "define information need",
-      "inspect title/author/date",
-      "select likely source type",
-      "skim structure"
+      "Her purpose determines the most efficient text feature and reading path.",
+      "It gives a broad map of major sections and their order.",
+      "Alphabetical entries and page references locate specific mentions across a book.",
+      "It supports domain-specific vocabulary without interrupting the main explanation."
     ],
     "correct": 2,
-    "explanation": "This example directly demonstrates select likely source type and can be explained using the language clue in the text.\nHint: Students select texts from task requirements, use print and digital navigation pathways, confirm located information in context and evaluate source authority, currency and relevance.",
+    "explanation": "Alphabetical entries and page references locate specific mentions across a book.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "This example directly demonstrates select likely source type and can be explained using the language clue in the text.",
-      "hint": "Students select texts from task requirements, use print and digital navigation pathways, confirm located information in context and evaluate source authority, currency and relevance."
+      "summary": "Alphabetical entries and page references locate specific mentions across a book.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-P-011",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "inspect title author date",
+    "stage": "core",
+    "skill": "index revision",
     "printable": true,
     "type": "single",
-    "question": "A museum caption includes “inspect title/author/date”. Why is this an effective example of inspect title/author/date?",
-    "audioPrompt": "A museum caption includes “inspect title/author/date”. Why is this an effective example of inspect title/author/date?",
+    "question": "Which revision best applies index to this task?",
+    "audioPrompt": "Which revision best applies index to this task?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -317,29 +317,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It matches the purpose and the language clue in the example.",
-      "The first search result or keyword match is only a candidate. Confirm context, units, definitions and source quality.",
-      "It makes the intended language choice clear in context.",
-      "A source may be credible but irrelevant, or relevant but outdated. Evaluate several criteria."
+      "State the information need before choosing a source or feature.",
+      "Use the contents page to locate the likely chapter, then scan its headings.",
+      "Check whether the definition fits the sentence and diagram.",
+      "Choose the subentry that matches the precise research question."
     ],
-    "correct": 2,
-    "explanation": "inspect title/author/date works because its language choice fits the purpose and context.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 3,
+    "explanation": "The revision applies index purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "inspect title/author/date works because its language choice fits the purpose and context.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "The revision applies index purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-P-012",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "core",
+    "skill": "index misconception",
     "printable": true,
     "type": "single",
-    "question": "Why is “Open and read the source.” a better rule than “Snippet treated as full evidence” when reading a student council meeting?",
-    "audioPrompt": "Why is “Open and read the source.” a better rule than “Snippet treated as full evidence” when reading a student council meeting?",
+    "question": "A student says, “An index and a glossary serve the same purpose.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “An index and a glossary serve the same purpose.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -347,29 +347,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because the longest rule is always the best one.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words.",
-      "Because it keeps the useful distinction without turning it into an absolute rule."
+      "The claim is too broad; the example shows that alphabetical entries and page references locate specific mentions across a book.",
+      "Every text should be read from the first page to the last.",
+      "A table of contents lists every individual term.",
+      "An index and a glossary serve the same purpose."
     ],
-    "correct": 3,
-    "explanation": "“Open and read the source.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 0,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "“Open and read the source.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-P-013",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "scan keywords index search",
+    "stage": "foundation",
+    "skill": "glossary",
     "printable": true,
     "type": "single",
-    "question": "A local-history article includes “scan keywords/index/search”. Why is this an effective example of scan keywords/index/search?",
-    "audioPrompt": "A local-history article includes “scan keywords/index/search”. Why is this an effective example of scan keywords/index/search?",
+    "question": "Read: “The glossary defines “sediment” in the way the science book uses it.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “The glossary defines “sediment” in the way the science book uses it.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -377,29 +377,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It makes the intended language choice clear in context.",
-      "It matches the purpose and the language clue in the example.",
-      "The first search result or keyword match is only a candidate. Confirm context, units, definitions and source quality.",
-      "A source may be credible but irrelevant, or relevant but outdated. Evaluate several criteria."
+      "reading purpose",
+      "glossary",
+      "table of contents",
+      "index"
     ],
-    "correct": 0,
-    "explanation": "scan keywords/index/search works because its language choice fits the purpose and context.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 1,
+    "explanation": "glossary: It supports domain-specific vocabulary without interrupting the main explanation.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "scan keywords/index/search works because its language choice fits the purpose and context.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "glossary: It supports domain-specific vocabulary without interrupting the main explanation.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-P-014",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "foundation",
+    "skill": "glossary effect",
     "printable": true,
     "type": "single",
-    "question": "Why is “Adjust to purpose and complexity.” a better rule than “Same reading rate used throughout” when reading a environmental campaign?",
-    "audioPrompt": "Why is “Adjust to purpose and complexity.” a better rule than “Same reading rate used throughout” when reading a environmental campaign?",
+    "question": "What does “The glossary defines “sediment” in the way the science book uses it.” contribute to meaning or purpose?",
+    "audioPrompt": "What does “The glossary defines “sediment” in the way the science book uses it.” contribute to meaning or purpose?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -407,29 +407,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because the longest rule is always the best one.",
-      "Because it keeps the useful distinction without turning it into an absolute rule.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words."
+      "Her purpose determines the most efficient text feature and reading path.",
+      "It gives a broad map of major sections and their order.",
+      "It supports domain-specific vocabulary without interrupting the main explanation.",
+      "Alphabetical entries and page references locate specific mentions across a book."
     ],
-    "correct": 1,
-    "explanation": "“Adjust to purpose and complexity.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 2,
+    "explanation": "It supports domain-specific vocabulary without interrupting the main explanation.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "“Adjust to purpose and complexity.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "It supports domain-specific vocabulary without interrupting the main explanation.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-P-015",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "cross check evidence",
+    "stage": "core",
+    "skill": "glossary revision",
     "printable": true,
     "type": "single",
-    "question": "A book-club discussion includes “cross-check evidence”. Why is this an effective example of cross-check evidence?",
-    "audioPrompt": "A book-club discussion includes “cross-check evidence”. Why is this an effective example of cross-check evidence?",
+    "question": "Which revision best applies glossary to this task?",
+    "audioPrompt": "Which revision best applies glossary to this task?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -437,29 +437,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It matches the purpose and the language clue in the example.",
-      "The first search result or keyword match is only a candidate. Confirm context, units, definitions and source quality.",
-      "It makes the intended language choice clear in context.",
-      "A source may be credible but irrelevant, or relevant but outdated. Evaluate several criteria."
+      "State the information need before choosing a source or feature.",
+      "Use the contents page to locate the likely chapter, then scan its headings.",
+      "Choose the subentry that matches the precise research question.",
+      "Check whether the definition fits the sentence and diagram."
     ],
-    "correct": 2,
-    "explanation": "cross-check evidence works because its language choice fits the purpose and context.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 3,
+    "explanation": "The revision applies glossary purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "cross-check evidence works because its language choice fits the purpose and context.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "The revision applies glossary purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-P-016",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "core",
+    "skill": "glossary misconception",
     "printable": true,
     "type": "single",
-    "question": "Why is “Open and read the source.” a better rule than “Snippet treated as full evidence” when reading a excursion briefing?",
-    "audioPrompt": "Why is “Open and read the source.” a better rule than “Snippet treated as full evidence” when reading a excursion briefing?",
+    "question": "A student says, “A glossary summarises every chapter.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “A glossary summarises every chapter.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -467,29 +467,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because the longest rule is always the best one.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words.",
-      "Because it keeps the useful distinction without turning it into an absolute rule."
+      "The claim is too broad; the example shows that it supports domain-specific vocabulary without interrupting the main explanation.",
+      "Every text should be read from the first page to the last.",
+      "A table of contents lists every individual term.",
+      "An index and a glossary serve the same purpose."
     ],
-    "correct": 3,
-    "explanation": "“Open and read the source.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 0,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "“Open and read the source.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-P-017",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "define information need",
+    "stage": "foundation",
+    "skill": "headings and subheadings",
     "printable": true,
     "type": "single",
-    "question": "A design project includes “define information need”. Why is this an effective example of define information need?",
-    "audioPrompt": "A design project includes “define information need”. Why is this an effective example of define information need?",
+    "question": "Read: “Under “Causes”, the subheadings separate wind, water and human activity.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “Under “Causes”, the subheadings separate wind, water and human activity.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -497,29 +497,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It makes the intended language choice clear in context.",
-      "It matches the purpose and the language clue in the example.",
-      "The first search result or keyword match is only a candidate. Confirm context, units, definitions and source quality.",
-      "A source may be credible but irrelevant, or relevant but outdated. Evaluate several criteria."
+      "reading purpose",
+      "headings and subheadings",
+      "table of contents",
+      "index"
     ],
-    "correct": 0,
-    "explanation": "define information need works because its language choice fits the purpose and context.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 1,
+    "explanation": "headings and subheadings: The hierarchy predicts how information is grouped and helps targeted scanning.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "define information need works because its language choice fits the purpose and context.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "headings and subheadings: The hierarchy predicts how information is grouped and helps targeted scanning.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-P-018",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "foundation",
+    "skill": "headings and subheadings effect",
     "printable": true,
     "type": "single",
-    "question": "Why is “Adjust to purpose and complexity.” a better rule than “Same reading rate used throughout” when reading a weather report?",
-    "audioPrompt": "Why is “Adjust to purpose and complexity.” a better rule than “Same reading rate used throughout” when reading a weather report?",
+    "question": "What does “Under “Causes”, the subheadings separate wind, water and human activity.” contribute to meaning or purpose?",
+    "audioPrompt": "What does “Under “Causes”, the subheadings separate wind, water and human activity.” contribute to meaning or purpose?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -527,29 +527,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because the longest rule is always the best one.",
-      "Because it keeps the useful distinction without turning it into an absolute rule.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words."
+      "Her purpose determines the most efficient text feature and reading path.",
+      "It gives a broad map of major sections and their order.",
+      "The hierarchy predicts how information is grouped and helps targeted scanning.",
+      "Alphabetical entries and page references locate specific mentions across a book."
     ],
-    "correct": 1,
-    "explanation": "“Adjust to purpose and complexity.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 2,
+    "explanation": "The hierarchy predicts how information is grouped and helps targeted scanning.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "“Adjust to purpose and complexity.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The hierarchy predicts how information is grouped and helps targeted scanning.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-P-019",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "inspect title author date",
+    "stage": "application",
+    "skill": "headings and subheadings revision",
     "printable": true,
     "type": "single",
-    "question": "A school assembly includes “inspect title/author/date”. Why is this an effective example of inspect title/author/date?",
-    "audioPrompt": "A school assembly includes “inspect title/author/date”. Why is this an effective example of inspect title/author/date?",
+    "question": "Which revision best applies headings and subheadings to this task?",
+    "audioPrompt": "Which revision best applies headings and subheadings to this task?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -557,29 +557,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It matches the purpose and the language clue in the example.",
-      "The first search result or keyword match is only a candidate. Confirm context, units, definitions and source quality.",
-      "It makes the intended language choice clear in context.",
-      "A source may be credible but irrelevant, or relevant but outdated. Evaluate several criteria."
+      "State the information need before choosing a source or feature.",
+      "Use the contents page to locate the likely chapter, then scan its headings.",
+      "Choose the subentry that matches the precise research question.",
+      "Turn the research question into likely heading keywords."
     ],
-    "correct": 2,
-    "explanation": "inspect title/author/date works because its language choice fits the purpose and context.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 3,
+    "explanation": "The revision applies headings and subheadings purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "inspect title/author/date works because its language choice fits the purpose and context.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "The revision applies headings and subheadings purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-P-020",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "core",
+    "skill": "headings and subheadings misconception",
     "printable": true,
     "type": "single",
-    "question": "Why is “Open and read the source.” a better rule than “Snippet treated as full evidence” when reading a peer feedback session?",
-    "audioPrompt": "Why is “Open and read the source.” a better rule than “Snippet treated as full evidence” when reading a peer feedback session?",
+    "question": "A student says, “The largest heading always contains the answer itself.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “The largest heading always contains the answer itself.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -587,29 +587,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because the longest rule is always the best one.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words.",
-      "Because it keeps the useful distinction without turning it into an absolute rule."
+      "The claim is too broad; the example shows that the hierarchy predicts how information is grouped and helps targeted scanning.",
+      "Every text should be read from the first page to the last.",
+      "A table of contents lists every individual term.",
+      "An index and a glossary serve the same purpose."
     ],
-    "correct": 3,
-    "explanation": "“Open and read the source.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 0,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "“Open and read the source.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-P-021",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "foundation",
+    "skill": "chapter structure",
     "printable": true,
     "type": "single",
-    "question": "A excursion briefing could use either “define information need” or “dated official data source”. Which comparison is most accurate?",
-    "audioPrompt": "A excursion briefing could use either “define information need” or “dated official data source”. Which comparison is most accurate?",
+    "question": "Read: “A biography chapter titled “The First Expedition” contains orientation, events and reflection.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “A biography chapter titled “The First Expedition” contains orientation, events and reflection.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -617,29 +617,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer.",
-      "“define information need” shows define information need, while “dated official data source” shows current statistic."
+      "reading purpose",
+      "chapter structure",
+      "table of contents",
+      "index"
     ],
-    "correct": 3,
-    "explanation": "The important difference is the language function: define information need versus current statistic.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "correct": 1,
+    "explanation": "chapter structure: Chapter boundaries organise a major period while internal phases develop it.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: define information need versus current statistic.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "chapter structure: Chapter boundaries organise a major period while internal phases develop it.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-P-022",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "foundation",
+    "skill": "chapter structure effect",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Search ranking treated as credibility” in a design project?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Search ranking treated as credibility” in a design project?",
+    "question": "What does “A biography chapter titled “The First Expedition” contains orientation, events and reflection.” contribute to meaning or purpose?",
+    "audioPrompt": "What does “A biography chapter titled “The First Expedition” contains orientation, events and reflection.” contribute to meaning or purpose?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -647,29 +647,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Ranking uses many non-quality factors.",
-      "First result accepted",
-      "Snippet treated as full evidence",
-      "Search ranking treated as credibility"
+      "Her purpose determines the most efficient text feature and reading path.",
+      "It gives a broad map of major sections and their order.",
+      "Chapter boundaries organise a major period while internal phases develop it.",
+      "Alphabetical entries and page references locate specific mentions across a book."
     ],
-    "correct": 0,
-    "explanation": "Ranking uses many non-quality factors. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: A source may be credible but irrelevant, or relevant but outdated. Evaluate several criteria.",
+    "correct": 2,
+    "explanation": "Chapter boundaries organise a major period while internal phases develop it.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "Ranking uses many non-quality factors. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "A source may be credible but irrelevant, or relevant but outdated. Evaluate several criteria."
+      "summary": "Chapter boundaries organise a major period while internal phases develop it.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-P-023",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "application",
+    "skill": "chapter structure revision",
     "printable": true,
     "type": "single",
-    "question": "A weather report could use either “inspect title/author/date” or “diagram + sequence + prose”. Which comparison is most accurate?",
-    "audioPrompt": "A weather report could use either “inspect title/author/date” or “diagram + sequence + prose”. Which comparison is most accurate?",
+    "question": "Which revision best applies chapter structure to this task?",
+    "audioPrompt": "Which revision best applies chapter structure to this task?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -677,29 +677,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "“inspect title/author/date” shows inspect title/author/date, while “diagram + sequence + prose” shows process explanation.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer."
+      "State the information need before choosing a source or feature.",
+      "Use the contents page to locate the likely chapter, then scan its headings.",
+      "Choose the subentry that matches the precise research question.",
+      "Preview the opening and closing paragraphs before close reading."
     ],
-    "correct": 1,
-    "explanation": "The important difference is the language function: inspect title/author/date versus process explanation.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "correct": 3,
+    "explanation": "The revision applies chapter structure purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: inspect title/author/date versus process explanation.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "The revision applies chapter structure purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-P-024",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "core",
+    "skill": "chapter structure misconception",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “First result accepted” in a school assembly?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “First result accepted” in a school assembly?",
+    "question": "A student says, “Every chapter can be understood without the rest of the book.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Every chapter can be understood without the rest of the book.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -707,29 +707,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "First result accepted",
-      "Snippet treated as full evidence",
-      "Compare source and context.",
-      "Search ranking treated as credibility"
+      "The claim is too broad; the example shows that chapter boundaries organise a major period while internal phases develop it.",
+      "Every text should be read from the first page to the last.",
+      "A table of contents lists every individual term.",
+      "An index and a glossary serve the same purpose."
     ],
-    "correct": 2,
-    "explanation": "Compare source and context. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: A source may be credible but irrelevant, or relevant but outdated. Evaluate several criteria.",
+    "correct": 0,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "Compare source and context. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "A source may be credible but irrelevant, or relevant but outdated. Evaluate several criteria."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-P-025",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "foundation",
+    "skill": "hyperlink navigation",
     "printable": true,
     "type": "single",
-    "question": "A peer feedback session could use either “scan keywords/index/search” or “glossary or authoritative reference”. Which comparison is most accurate?",
-    "audioPrompt": "A peer feedback session could use either “scan keywords/index/search” or “glossary or authoritative reference”. Which comparison is most accurate?",
+    "question": "Read: “A webpage link labelled “Download rainfall data” leads to a table rather than another explanation.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “A webpage link labelled “Download rainfall data” leads to a table rather than another explanation.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -737,29 +737,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer.",
-      "“scan keywords/index/search” shows scan keywords/index/search, while “glossary or authoritative reference” shows quick definition."
+      "reading purpose",
+      "hyperlink navigation",
+      "table of contents",
+      "index"
     ],
-    "correct": 3,
-    "explanation": "The important difference is the language function: scan keywords/index/search versus quick definition.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "correct": 1,
+    "explanation": "hyperlink navigation: Descriptive link text helps readers predict destination and choose purposefully.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: scan keywords/index/search versus quick definition.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "hyperlink navigation: Descriptive link text helps readers predict destination and choose purposefully.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-P-026",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "core",
+    "skill": "hyperlink navigation effect",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Search ranking treated as credibility” in a cooking demonstration?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Search ranking treated as credibility” in a cooking demonstration?",
+    "question": "What does “A webpage link labelled “Download rainfall data” leads to a table rather than another explanation.” contribute to meaning or purpose?",
+    "audioPrompt": "What does “A webpage link labelled “Download rainfall data” leads to a table rather than another explanation.” contribute to meaning or purpose?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -767,29 +767,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Ranking uses many non-quality factors.",
-      "First result accepted",
-      "Snippet treated as full evidence",
-      "Search ranking treated as credibility"
+      "Her purpose determines the most efficient text feature and reading path.",
+      "It gives a broad map of major sections and their order.",
+      "Descriptive link text helps readers predict destination and choose purposefully.",
+      "Alphabetical entries and page references locate specific mentions across a book."
     ],
-    "correct": 0,
-    "explanation": "Ranking uses many non-quality factors. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: A source may be credible but irrelevant, or relevant but outdated. Evaluate several criteria.",
+    "correct": 2,
+    "explanation": "Descriptive link text helps readers predict destination and choose purposefully.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "Ranking uses many non-quality factors. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "A source may be credible but irrelevant, or relevant but outdated. Evaluate several criteria."
+      "summary": "Descriptive link text helps readers predict destination and choose purposefully.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-P-027",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "application",
+    "skill": "hyperlink navigation revision",
     "printable": true,
     "type": "single",
-    "question": "A arts review could use either “cross-check evidence” or “primary and secondary sources”. Which comparison is most accurate?",
-    "audioPrompt": "A arts review could use either “cross-check evidence” or “primary and secondary sources”. Which comparison is most accurate?",
+    "question": "Which revision best applies hyperlink navigation to this task?",
+    "audioPrompt": "Which revision best applies hyperlink navigation to this task?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -797,29 +797,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "“cross-check evidence” shows cross-check evidence, while “primary and secondary sources” shows historical perspective.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer."
+      "State the information need before choosing a source or feature.",
+      "Use the contents page to locate the likely chapter, then scan its headings.",
+      "Choose the subentry that matches the precise research question.",
+      "Open relevant links selectively and return to the main reading path."
     ],
-    "correct": 1,
-    "explanation": "The important difference is the language function: cross-check evidence versus historical perspective.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "correct": 3,
+    "explanation": "The revision applies hyperlink navigation purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: cross-check evidence versus historical perspective.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "The revision applies hyperlink navigation purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-P-028",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "core",
+    "skill": "hyperlink navigation misconception",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “First result accepted” in a technology presentation?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “First result accepted” in a technology presentation?",
+    "question": "A student says, “Following more links always improves understanding.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Following more links always improves understanding.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -827,29 +827,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "First result accepted",
-      "Snippet treated as full evidence",
-      "Compare source and context.",
-      "Search ranking treated as credibility"
+      "The claim is too broad; the example shows that descriptive link text helps readers predict destination and choose purposefully.",
+      "Every text should be read from the first page to the last.",
+      "A table of contents lists every individual term.",
+      "An index and a glossary serve the same purpose."
     ],
-    "correct": 2,
-    "explanation": "Compare source and context. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: A source may be credible but irrelevant, or relevant but outdated. Evaluate several criteria.",
+    "correct": 0,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "Compare source and context. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "A source may be credible but irrelevant, or relevant but outdated. Evaluate several criteria."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-P-029",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "foundation",
+    "skill": "search within page",
     "printable": true,
     "type": "single",
-    "question": "A playground consultation could use either “define information need” or “multiple attributed sources”. Which comparison is most accurate?",
-    "audioPrompt": "A playground consultation could use either “define information need” or “multiple attributed sources”. Which comparison is most accurate?",
+    "question": "Read: “Searching “habitat loss” finds three occurrences in a long report.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “Searching “habitat loss” finds three occurrences in a long report.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -857,29 +857,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer.",
-      "“define information need” shows define information need, while “multiple attributed sources” shows compare viewpoints."
+      "reading purpose",
+      "search within page",
+      "table of contents",
+      "index"
     ],
-    "correct": 3,
-    "explanation": "The important difference is the language function: define information need versus compare viewpoints.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "correct": 1,
+    "explanation": "search within page: The tool locates candidates quickly, but surrounding paragraphs must still be read.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: define information need versus compare viewpoints.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "search within page: The tool locates candidates quickly, but surrounding paragraphs must still be read.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-P-030",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "core",
+    "skill": "search within page effect",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Search ranking treated as credibility” in a class podcast?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Search ranking treated as credibility” in a class podcast?",
+    "question": "What does “Searching “habitat loss” finds three occurrences in a long report.” contribute to meaning or purpose?",
+    "audioPrompt": "What does “Searching “habitat loss” finds three occurrences in a long report.” contribute to meaning or purpose?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -887,29 +887,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Ranking uses many non-quality factors.",
-      "First result accepted",
-      "Snippet treated as full evidence",
-      "Search ranking treated as credibility"
+      "Her purpose determines the most efficient text feature and reading path.",
+      "It gives a broad map of major sections and their order.",
+      "The tool locates candidates quickly, but surrounding paragraphs must still be read.",
+      "Alphabetical entries and page references locate specific mentions across a book."
     ],
-    "correct": 0,
-    "explanation": "Ranking uses many non-quality factors. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: A source may be credible but irrelevant, or relevant but outdated. Evaluate several criteria.",
+    "correct": 2,
+    "explanation": "The tool locates candidates quickly, but surrounding paragraphs must still be read.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "Ranking uses many non-quality factors. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "A source may be credible but irrelevant, or relevant but outdated. Evaluate several criteria."
+      "summary": "The tool locates candidates quickly, but surrounding paragraphs must still be read.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-P-031",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "skim and scan",
+    "stage": "application",
+    "skill": "search within page revision",
     "printable": true,
     "type": "single",
-    "question": "You are editing a community garden proposal. What should happen after locating a keyword match?",
-    "audioPrompt": "You are editing a community garden proposal. What should happen after locating a keyword match?",
+    "question": "Which revision best applies search within page to this task?",
+    "audioPrompt": "Which revision best applies search within page to this task?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -917,29 +917,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Read surrounding context and check the source",
-      "Copy it immediately",
-      "Ignore units",
-      "Assume it answers the question"
+      "State the information need before choosing a source or feature.",
+      "Use the contents page to locate the likely chapter, then scan its headings.",
+      "Choose the subentry that matches the precise research question.",
+      "Read before and after each result to confirm relevance."
     ],
-    "correct": 0,
-    "explanation": "“Read surrounding context and check the source” best fits the purpose and the language evidence in this new situation.\nHint: A source may be credible but irrelevant, or relevant but outdated. Evaluate several criteria.",
+    "correct": 3,
+    "explanation": "The revision applies search within page purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "“Read surrounding context and check the source” best fits the purpose and the language evidence in this new situation.",
-      "hint": "A source may be credible but irrelevant, or relevant but outdated. Evaluate several criteria."
+      "summary": "The revision applies search within page purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-P-032",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "current statistic",
+    "stage": "core",
+    "skill": "search within page misconception",
     "printable": true,
     "type": "single",
-    "question": "A sports-club discussion needs a clear example of current statistic. Which wording should you choose?",
-    "audioPrompt": "A sports-club discussion needs a clear example of current statistic. Which wording should you choose?",
+    "question": "A student says, “A search result snippet supplies enough context for evaluation.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “A search result snippet supplies enough context for evaluation.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -947,29 +947,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "glossary or authoritative reference",
-      "dated official data source",
-      "primary and secondary sources",
-      "diagram + sequence + prose"
+      "The claim is too broad; the example shows that the tool locates candidates quickly, but surrounding paragraphs must still be read.",
+      "Every text should be read from the first page to the last.",
+      "A table of contents lists every individual term.",
+      "An index and a glossary serve the same purpose."
     ],
-    "correct": 1,
-    "explanation": "“dated official data source” is the best choice because it demonstrates current statistic in context.\nHint: Choose the wording that performs the required job, not merely one that sounds fluent.",
+    "correct": 0,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "“dated official data source” is the best choice because it demonstrates current statistic in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-P-033",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "stage": "apply",
+    "stage": "foundation",
     "skill": "skimming",
     "printable": true,
     "type": "single",
-    "question": "While revising a library display, you need language that matches “rapid reading for overview”. Which concept should guide your choice?",
-    "audioPrompt": "While revising a library display, you need language that matches “rapid reading for overview”. Which concept should guide your choice?",
+    "question": "Read: “Leo reads the title, introduction, headings, captions and conclusion before choosing the report.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “Leo reads the title, introduction, headings, captions and conclusion before choosing the report.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -977,29 +977,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "scanning",
-      "source evaluation",
+      "reading purpose",
       "skimming",
-      "It does not match the evidence in the example."
+      "table of contents",
+      "index"
     ],
-    "correct": 2,
-    "explanation": "skimming is the concept that matches rapid reading for overview.\nHint: Use the definition to guide the decision, then check it against the sentence.",
+    "correct": 1,
+    "explanation": "skimming: Skimming establishes scope, organisation and likely usefulness.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "skimming is the concept that matches rapid reading for overview.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "skimming: Skimming establishes scope, organisation and likely usefulness.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-P-034",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "define need",
+    "stage": "core",
+    "skill": "skimming effect",
     "printable": true,
     "type": "single",
-    "question": "You are editing a museum caption. What should happen after locating a keyword match?",
-    "audioPrompt": "You are editing a museum caption. What should happen after locating a keyword match?",
+    "question": "What does “Leo reads the title, introduction, headings, captions and conclusion before choosing the report.” contribute to meaning or purpose?",
+    "audioPrompt": "What does “Leo reads the title, introduction, headings, captions and conclusion before choosing the report.” contribute to meaning or purpose?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1007,29 +1007,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Copy it immediately",
-      "Ignore units",
-      "Assume it answers the question",
-      "Read surrounding context and check the source"
+      "Her purpose determines the most efficient text feature and reading path.",
+      "It gives a broad map of major sections and their order.",
+      "Skimming establishes scope, organisation and likely usefulness.",
+      "Alphabetical entries and page references locate specific mentions across a book."
     ],
-    "correct": 3,
-    "explanation": "“Read surrounding context and check the source” best fits the purpose and the language evidence in this new situation.\nHint: A source may be credible but irrelevant, or relevant but outdated. Evaluate several criteria.",
+    "correct": 2,
+    "explanation": "Skimming establishes scope, organisation and likely usefulness.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "“Read surrounding context and check the source” best fits the purpose and the language evidence in this new situation.",
-      "hint": "A source may be credible but irrelevant, or relevant but outdated. Evaluate several criteria."
+      "summary": "Skimming establishes scope, organisation and likely usefulness.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-P-035",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "compare viewpoints",
+    "stage": "application",
+    "skill": "skimming revision",
     "printable": true,
     "type": "single",
-    "question": "A student council meeting needs a clear example of compare viewpoints. Which wording should you choose?",
-    "audioPrompt": "A student council meeting needs a clear example of compare viewpoints. Which wording should you choose?",
+    "question": "Which revision best applies skimming to this task?",
+    "audioPrompt": "Which revision best applies skimming to this task?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1037,29 +1037,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "multiple attributed sources",
-      "glossary or authoritative reference",
-      "dated official data source",
-      "primary and secondary sources"
+      "State the information need before choosing a source or feature.",
+      "Use the contents page to locate the likely chapter, then scan its headings.",
+      "Choose the subentry that matches the precise research question.",
+      "Use the preview to decide which sections need close reading."
     ],
-    "correct": 0,
-    "explanation": "“multiple attributed sources” is the best choice because it demonstrates compare viewpoints in context.\nHint: Choose the wording that performs the required job, not merely one that sounds fluent.",
+    "correct": 3,
+    "explanation": "The revision applies skimming purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "“multiple attributed sources” is the best choice because it demonstrates compare viewpoints in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "The revision applies skimming purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-P-036",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "skimming",
+    "stage": "challenge",
+    "skill": "skimming misconception",
     "printable": true,
     "type": "single",
-    "question": "While revising a local-history article, you need language that matches “rapid reading for overview”. Which concept should guide your choice?",
-    "audioPrompt": "While revising a local-history article, you need language that matches “rapid reading for overview”. Which concept should guide your choice?",
+    "question": "A student says, “Skimming means guessing without reading.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Skimming means guessing without reading.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1067,29 +1067,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "scanning",
-      "skimming",
-      "source evaluation",
-      "It does not match the evidence in the example."
+      "The claim is too broad; the example shows that skimming establishes scope, organisation and likely usefulness.",
+      "Every text should be read from the first page to the last.",
+      "A table of contents lists every individual term.",
+      "An index and a glossary serve the same purpose."
     ],
-    "correct": 1,
-    "explanation": "skimming is the concept that matches rapid reading for overview.\nHint: Use the definition to guide the decision, then check it against the sentence.",
+    "correct": 0,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "skimming is the concept that matches rapid reading for overview.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-P-037",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "confirm context",
+    "stage": "foundation",
+    "skill": "monitoring meaning",
     "printable": true,
     "type": "single",
-    "question": "You are editing a environmental campaign. What should happen after locating a keyword match?",
-    "audioPrompt": "You are editing a environmental campaign. What should happen after locating a keyword match?",
+    "question": "Read: “After two dense paragraphs, Mei pauses and summarises the cause in her own words.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “After two dense paragraphs, Mei pauses and summarises the cause in her own words.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1097,29 +1097,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Copy it immediately",
-      "Ignore units",
-      "Read surrounding context and check the source",
-      "Assume it answers the question"
+      "reading purpose",
+      "monitoring meaning",
+      "table of contents",
+      "index"
     ],
-    "correct": 2,
-    "explanation": "“Read surrounding context and check the source” best fits the purpose and the language evidence in this new situation.\nHint: A source may be credible but irrelevant, or relevant but outdated. Evaluate several criteria.",
+    "correct": 1,
+    "explanation": "monitoring meaning: The summary checks whether the explanation has been understood.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "“Read surrounding context and check the source” best fits the purpose and the language evidence in this new situation.",
-      "hint": "A source may be credible but irrelevant, or relevant but outdated. Evaluate several criteria."
+      "summary": "monitoring meaning: The summary checks whether the explanation has been understood.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-P-038",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "historical perspective",
+    "stage": "core",
+    "skill": "monitoring meaning effect",
     "printable": true,
     "type": "single",
-    "question": "A book-club discussion needs a clear example of historical perspective. Which wording should you choose?",
-    "audioPrompt": "A book-club discussion needs a clear example of historical perspective. Which wording should you choose?",
+    "question": "What does “After two dense paragraphs, Mei pauses and summarises the cause in her own words.” contribute to meaning or purpose?",
+    "audioPrompt": "What does “After two dense paragraphs, Mei pauses and summarises the cause in her own words.” contribute to meaning or purpose?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1127,29 +1127,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "glossary or authoritative reference",
-      "dated official data source",
-      "diagram + sequence + prose",
-      "primary and secondary sources"
+      "Her purpose determines the most efficient text feature and reading path.",
+      "It gives a broad map of major sections and their order.",
+      "The summary checks whether the explanation has been understood.",
+      "Alphabetical entries and page references locate specific mentions across a book."
     ],
-    "correct": 3,
-    "explanation": "“primary and secondary sources” is the best choice because it demonstrates historical perspective in context.\nHint: Choose the wording that performs the required job, not merely one that sounds fluent.",
+    "correct": 2,
+    "explanation": "The summary checks whether the explanation has been understood.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "“primary and secondary sources” is the best choice because it demonstrates historical perspective in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "The summary checks whether the explanation has been understood.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-P-039",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "skimming",
+    "stage": "application",
+    "skill": "monitoring meaning revision",
     "printable": true,
     "type": "single",
-    "question": "While revising a excursion briefing, you need language that matches “rapid reading for overview”. Which concept should guide your choice?",
-    "audioPrompt": "While revising a excursion briefing, you need language that matches “rapid reading for overview”. Which concept should guide your choice?",
+    "question": "Which revision best applies monitoring meaning to this task?",
+    "audioPrompt": "Which revision best applies monitoring meaning to this task?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1157,29 +1157,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "skimming",
-      "scanning",
-      "source evaluation",
-      "It does not match the evidence in the example."
+      "State the information need before choosing a source or feature.",
+      "Use the contents page to locate the likely chapter, then scan its headings.",
+      "Choose the subentry that matches the precise research question.",
+      "Reread, use the diagram and clarify unknown terms if the summary fails."
     ],
-    "correct": 0,
-    "explanation": "skimming is the concept that matches rapid reading for overview.\nHint: Use the definition to guide the decision, then check it against the sentence.",
+    "correct": 3,
+    "explanation": "The revision applies monitoring meaning purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "skimming is the concept that matches rapid reading for overview.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "The revision applies monitoring meaning purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY04-P-040",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "choose source type",
+    "stage": "challenge",
+    "skill": "monitoring meaning misconception",
     "printable": true,
     "type": "single",
-    "question": "You are editing a design project. What should happen after locating a keyword match?",
-    "audioPrompt": "You are editing a design project. What should happen after locating a keyword match?",
+    "question": "A student says, “Successful readers never need to reread.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Successful readers never need to reread.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1187,18 +1187,258 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Copy it immediately",
-      "Read surrounding context and check the source",
-      "Ignore units",
-      "Assume it answers the question"
+      "The claim is too broad; the example shows that the summary checks whether the explanation has been understood.",
+      "Every text should be read from the first page to the last.",
+      "A table of contents lists every individual term.",
+      "An index and a glossary serve the same purpose."
+    ],
+    "correct": 0,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
+    "structuredExplanation": {
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LY04-P-041",
+    "curriculumCode": "AC9E6LY04",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "source suitability",
+    "printable": true,
+    "type": "single",
+    "question": "Read: “A children’s encyclopedia explains the basics; a government dataset supplies current measurements.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “A children’s encyclopedia explains the basics; a government dataset supplies current measurements.” Which description best identifies the relevant choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "reading purpose",
+      "source suitability",
+      "table of contents",
+      "index"
     ],
     "correct": 1,
-    "explanation": "“Read surrounding context and check the source” best fits the purpose and the language evidence in this new situation.\nHint: A source may be credible but irrelevant, or relevant but outdated. Evaluate several criteria.",
+    "explanation": "source suitability: Different sources can meet background and evidence purposes.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "“Read surrounding context and check the source” best fits the purpose and the language evidence in this new situation.",
-      "hint": "A source may be credible but irrelevant, or relevant but outdated. Evaluate several criteria."
+      "summary": "source suitability: Different sources can meet background and evidence purposes.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LY04-P-042",
+    "curriculumCode": "AC9E6LY04",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "source suitability effect",
+    "printable": true,
+    "type": "single",
+    "question": "What does “A children’s encyclopedia explains the basics; a government dataset supplies current measurements.” contribute to meaning or purpose?",
+    "audioPrompt": "What does “A children’s encyclopedia explains the basics; a government dataset supplies current measurements.” contribute to meaning or purpose?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Her purpose determines the most efficient text feature and reading path.",
+      "It gives a broad map of major sections and their order.",
+      "Different sources can meet background and evidence purposes.",
+      "Alphabetical entries and page references locate specific mentions across a book."
+    ],
+    "correct": 2,
+    "explanation": "Different sources can meet background and evidence purposes.\nHint: Link exact evidence to its effect.",
+    "structuredExplanation": {
+      "summary": "Different sources can meet background and evidence purposes.",
+      "hint": "Link exact evidence to its effect."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LY04-P-043",
+    "curriculumCode": "AC9E6LY04",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "source suitability revision",
+    "printable": true,
+    "type": "single",
+    "question": "Which revision best applies source suitability to this task?",
+    "audioPrompt": "Which revision best applies source suitability to this task?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "State the information need before choosing a source or feature.",
+      "Use the contents page to locate the likely chapter, then scan its headings.",
+      "Choose the subentry that matches the precise research question.",
+      "Match authority, currency, depth and format to the task."
+    ],
+    "correct": 3,
+    "explanation": "The revision applies source suitability purposefully.\nHint: Choose accuracy and effect, not extra length.",
+    "structuredExplanation": {
+      "summary": "The revision applies source suitability purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LY04-P-044",
+    "curriculumCode": "AC9E6LY04",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "source suitability misconception",
+    "printable": true,
+    "type": "single",
+    "question": "A student says, “The first search result is usually the best source.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “The first search result is usually the best source.” Which response best corrects the claim?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The claim is too broad; the example shows that different sources can meet background and evidence purposes.",
+      "Every text should be read from the first page to the last.",
+      "A table of contents lists every individual term.",
+      "An index and a glossary serve the same purpose."
+    ],
+    "correct": 0,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
+    "structuredExplanation": {
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LY04-P-045",
+    "curriculumCode": "AC9E6LY04",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "navigation synthesis",
+    "printable": true,
+    "type": "single",
+    "question": "Read: “For a question on cyclone safety, Arlo uses contents, headings, glossary and index, then records relevant pages.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “For a question on cyclone safety, Arlo uses contents, headings, glossary and index, then records relevant pages.” Which description best identifies the relevant choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "reading purpose",
+      "navigation synthesis",
+      "table of contents",
+      "index"
+    ],
+    "correct": 1,
+    "explanation": "navigation synthesis: Several structural features work together as a deliberate navigation plan.\nHint: Name the feature precisely.",
+    "structuredExplanation": {
+      "summary": "navigation synthesis: Several structural features work together as a deliberate navigation plan.",
+      "hint": "Name the feature precisely."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LY04-P-046",
+    "curriculumCode": "AC9E6LY04",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "navigation synthesis effect",
+    "printable": true,
+    "type": "single",
+    "question": "What does “For a question on cyclone safety, Arlo uses contents, headings, glossary and index, then records relevant pages.” contribute to meaning or purpose?",
+    "audioPrompt": "What does “For a question on cyclone safety, Arlo uses contents, headings, glossary and index, then records relevant pages.” contribute to meaning or purpose?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Her purpose determines the most efficient text feature and reading path.",
+      "It gives a broad map of major sections and their order.",
+      "Several structural features work together as a deliberate navigation plan.",
+      "Alphabetical entries and page references locate specific mentions across a book."
+    ],
+    "correct": 2,
+    "explanation": "Several structural features work together as a deliberate navigation plan.\nHint: Link exact evidence to its effect.",
+    "structuredExplanation": {
+      "summary": "Several structural features work together as a deliberate navigation plan.",
+      "hint": "Link exact evidence to its effect."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LY04-P-047",
+    "curriculumCode": "AC9E6LY04",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "navigation synthesis revision",
+    "printable": true,
+    "type": "single",
+    "question": "Which revision best applies navigation synthesis to this task?",
+    "audioPrompt": "Which revision best applies navigation synthesis to this task?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "State the information need before choosing a source or feature.",
+      "Use the contents page to locate the likely chapter, then scan its headings.",
+      "Choose the subentry that matches the precise research question.",
+      "Track the purpose, route, useful evidence and unresolved questions."
+    ],
+    "correct": 3,
+    "explanation": "The revision applies navigation synthesis purposefully.\nHint: Choose accuracy and effect, not extra length.",
+    "structuredExplanation": {
+      "summary": "The revision applies navigation synthesis purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LY04-P-048",
+    "curriculumCode": "AC9E6LY04",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "navigation synthesis misconception",
+    "printable": true,
+    "type": "single",
+    "question": "A student says, “Using a feature once guarantees complete understanding.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Using a feature once guarantees complete understanding.” Which response best corrects the claim?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The claim is too broad; the example shows that several structural features work together as a deliberate navigation plan.",
+      "Every text should be read from the first page to the last.",
+      "A table of contents lists every individual term.",
+      "An index and a glossary serve the same purpose."
+    ],
+    "correct": 0,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
+    "structuredExplanation": {
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
+    },
+    "qualitySchema": "research-aligned-original-v2"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

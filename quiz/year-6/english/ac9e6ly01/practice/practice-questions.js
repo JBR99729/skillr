@@ -4,12 +4,12 @@ window.skillrPracticeQuestions = [
     "id": "AC9E6LY01-P-001",
     "curriculumCode": "AC9E6LY01",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "compare headlines",
+    "stage": "foundation",
+    "skill": "creation context",
     "printable": true,
     "type": "single",
-    "question": "In a class podcast, which choice most directly frames an event?",
-    "audioPrompt": "In a class podcast, which choice most directly frames an event?",
+    "question": "Read: “A 1942 poster urges families to save food and fuel.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “A 1942 poster urges families to save food and fuel.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -17,29 +17,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Including a correct date",
-      "Using page numbers",
-      "Selecting a tight image of traffic disruption",
-      "Spelling all names correctly"
+      "audience",
+      "representation of event",
+      "creation context",
+      "selection"
     ],
     "correct": 2,
-    "explanation": "“Selecting a tight image of traffic disruption” is the strongest choice because it matches the language feature and the situation.\nHint: Both texts may use true details while creating different representations through selection and framing.",
+    "explanation": "creation context: Wartime scarcity and government campaigning help explain its urgent commands.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "“Selecting a tight image of traffic disruption” is the strongest choice because it matches the language feature and the situation.",
-      "hint": "Both texts may use true details while creating different representations through selection and framing."
+      "summary": "creation context: Wartime scarcity and government campaigning help explain its urgent commands.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-P-002",
     "curriculumCode": "AC9E6LY01",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "framing",
+    "stage": "foundation",
+    "skill": "creation context effect",
     "printable": true,
     "type": "single",
-    "question": "Which term best matches this meaning: “selection and arrangement shaping interpretation”?",
-    "audioPrompt": "Which term best matches this meaning: “selection and arrangement shaping interpretation”?",
+    "question": "What does “A 1942 poster urges families to save food and fuel.” contribute to meaning or response?",
+    "audioPrompt": "What does “A 1942 poster urges families to save food and fuel.” contribute to meaning or response?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -47,29 +47,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "representation",
-      "positioning",
-      "It does not match the evidence in the example.",
-      "framing"
+      "The modes and informal explanations suit a young contemporary audience.",
+      "The noun choice frames the event through inconvenience rather than political purpose.",
+      "The chosen images emphasise spectacle while omitting community experience.",
+      "Wartime scarcity and government campaigning help explain its urgent commands."
     ],
     "correct": 3,
-    "explanation": "framing means selection and arrangement shaping interpretation.\nHint: Match the definition precisely; do not choose a nearby term just because it is familiar.",
+    "explanation": "Wartime scarcity and government campaigning help explain its urgent commands.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "framing means selection and arrangement shaping interpretation.",
-      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
+      "summary": "Wartime scarcity and government campaigning help explain its urgent commands.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-P-003",
     "curriculumCode": "AC9E6LY01",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "sources",
+    "stage": "core",
+    "skill": "creation context revision",
     "printable": true,
     "type": "single",
-    "question": "Read this example from a science investigation: “residents and experts”. Which label best describes what the language is doing?",
-    "audioPrompt": "Read this example from a science investigation: “residents and experts”. Which label best describes what the language is doing?",
+    "question": "Which revision best applies creation context?",
+    "audioPrompt": "Which revision best applies creation context?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -77,29 +77,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "sources",
-      "headline",
-      "image",
-      "sequence"
+      "Connect the imperative language to the poster’s purpose and date.",
+      "Compare these choices with a technical government report.",
+      "Compare the headline wording and whose voices are quoted.",
+      "Identify what is present, absent and foregrounded."
     ],
     "correct": 0,
-    "explanation": "“residents and experts” is an example of sources; here it official spokesperson.\nHint: Both texts may use true details while creating different representations through selection and framing.",
+    "explanation": "The revision applies creation context purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "“residents and experts” is an example of sources; here it official spokesperson.",
-      "hint": "Both texts may use true details while creating different representations through selection and framing."
+      "summary": "The revision applies creation context purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-P-004",
     "curriculumCode": "AC9E6LY01",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "misconception repair",
+    "stage": "core",
+    "skill": "creation context misconception",
     "printable": true,
     "type": "single",
-    "question": "Which correction best fixes this idea: “Audience effect stated as guaranteed”?",
-    "audioPrompt": "Which correction best fixes this idea: “Audience effect stated as guaranteed”?",
+    "question": "A student says, “Old texts are automatically inaccurate.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Old texts are automatically inaccurate.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -107,29 +107,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Media text treated as transparent reality",
-      "Use likely or invites.",
-      "Different representation called false automatically",
-      "Image considered self-explanatory"
+      "Old texts are automatically inaccurate.",
+      "The claim is too broad; the example shows that wartime scarcity and government campaigning help explain its urgent commands.",
+      "Audience can be identified from one slang word.",
+      "Representation simply copies reality without selection."
     ],
     "correct": 1,
-    "explanation": "Use likely or invites. This fixes the misconception without creating a new rule that is too broad.\nHint: Check the actual language evidence rather than relying on an absolute rule.",
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "Use likely or invites. This fixes the misconception without creating a new rule that is too broad.",
-      "hint": "Check the actual language evidence rather than relying on an absolute rule."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-P-005",
     "curriculumCode": "AC9E6LY01",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "effect",
+    "stage": "foundation",
+    "skill": "audience",
     "printable": true,
     "type": "single",
-    "question": "Which example would be most useful when explaining representation and influence in media texts in a sports-club discussion?",
-    "audioPrompt": "Which example would be most useful when explaining representation and influence in media texts in a sports-club discussion?",
+    "question": "Read: “A youth website explains drought through student interviews and short videos.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “A youth website explains drought through student interviews and short videos.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -137,29 +137,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "‘Community demands action’",
-      "wide crowd view",
-      "collective concern",
-      "residents and experts"
+      "creation context",
+      "representation of event",
+      "audience",
+      "selection"
     ],
     "correct": 2,
-    "explanation": "This example directly demonstrates effect and can be explained using the language clue in the text.\nHint: Students compare how headlines, source selection, sequencing, images, graphs, sound and evaluative language construct a version of an event and position audiences.",
+    "explanation": "audience: The modes and informal explanations suit a young contemporary audience.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "This example directly demonstrates effect and can be explained using the language clue in the text.",
-      "hint": "Students compare how headlines, source selection, sequencing, images, graphs, sound and evaluative language construct a version of an event and position audiences."
+      "summary": "audience: The modes and informal explanations suit a young contemporary audience.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-P-006",
     "curriculumCode": "AC9E6LY01",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "compare headlines",
+    "stage": "foundation",
+    "skill": "audience effect",
     "printable": true,
     "type": "single",
-    "question": "In a library display, which statement is appropriately qualified?",
-    "audioPrompt": "In a library display, which statement is appropriately qualified?",
+    "question": "What does “A youth website explains drought through student interviews and short videos.” contribute to meaning or response?",
+    "audioPrompt": "What does “A youth website explains drought through student interviews and short videos.” contribute to meaning or response?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -167,29 +167,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Every reader will definitely be angry",
-      "The photograph proves all motives",
-      "The text has no viewpoint",
-      "The headline invites readers to see the event as disruptive"
+      "Wartime scarcity and government campaigning help explain its urgent commands.",
+      "The noun choice frames the event through inconvenience rather than political purpose.",
+      "The chosen images emphasise spectacle while omitting community experience.",
+      "The modes and informal explanations suit a young contemporary audience."
     ],
     "correct": 3,
-    "explanation": "“The headline invites readers to see the event as disruptive” is the strongest choice because it matches the language feature and the situation.\nHint: Both texts may use true details while creating different representations through selection and framing.",
+    "explanation": "The modes and informal explanations suit a young contemporary audience.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "“The headline invites readers to see the event as disruptive” is the strongest choice because it matches the language feature and the situation.",
-      "hint": "Both texts may use true details while creating different representations through selection and framing."
+      "summary": "The modes and informal explanations suit a young contemporary audience.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-P-007",
     "curriculumCode": "AC9E6LY01",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "representation",
+    "stage": "core",
+    "skill": "audience revision",
     "printable": true,
     "type": "single",
-    "question": "Which term best matches this meaning: “constructed version of an idea, person or event”?",
-    "audioPrompt": "Which term best matches this meaning: “constructed version of an idea, person or event”?",
+    "question": "Which revision best applies audience?",
+    "audioPrompt": "Which revision best applies audience?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -197,29 +197,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "representation",
-      "framing",
-      "positioning",
-      "It does not match the evidence in the example."
+      "Compare these choices with a technical government report.",
+      "Connect the imperative language to the poster’s purpose and date.",
+      "Compare the headline wording and whose voices are quoted.",
+      "Identify what is present, absent and foregrounded."
     ],
     "correct": 0,
-    "explanation": "representation means constructed version of an idea, person or event.\nHint: Match the definition precisely; do not choose a nearby term just because it is familiar.",
+    "explanation": "The revision applies audience purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "representation means constructed version of an idea, person or event.",
-      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
+      "summary": "The revision applies audience purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-P-008",
     "curriculumCode": "AC9E6LY01",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "sources",
+    "stage": "core",
+    "skill": "audience misconception",
     "printable": true,
     "type": "single",
-    "question": "Read this example from a student council meeting: “residents and experts”. Which label best describes what the language is doing?",
-    "audioPrompt": "Read this example from a student council meeting: “residents and experts”. Which label best describes what the language is doing?",
+    "question": "A student says, “Audience can be identified from one slang word.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Audience can be identified from one slang word.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -227,29 +227,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "headline",
-      "sources",
-      "image",
-      "sequence"
+      "Old texts are automatically inaccurate.",
+      "The claim is too broad; the example shows that the modes and informal explanations suit a young contemporary audience.",
+      "Audience can be identified from one slang word.",
+      "Representation simply copies reality without selection."
     ],
     "correct": 1,
-    "explanation": "“residents and experts” is an example of sources; here it official spokesperson.\nHint: Both texts may use true details while creating different representations through selection and framing.",
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "“residents and experts” is an example of sources; here it official spokesperson.",
-      "hint": "Both texts may use true details while creating different representations through selection and framing."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-P-009",
     "curriculumCode": "AC9E6LY01",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "misconception repair",
+    "stage": "foundation",
+    "skill": "representation of event",
     "printable": true,
     "type": "single",
-    "question": "Which correction best fixes this idea: “Media text treated as transparent reality”?",
-    "audioPrompt": "Which correction best fixes this idea: “Media text treated as transparent reality”?",
+    "question": "Read: “A news report calls a protest a “disruption” rather than a “demonstration”.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “A news report calls a protest a “disruption” rather than a “demonstration”.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -257,29 +257,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Media text treated as transparent reality",
-      "Different representation called false automatically",
-      "Analyse construction choices.",
-      "Image considered self-explanatory"
+      "creation context",
+      "audience",
+      "representation of event",
+      "selection"
     ],
     "correct": 2,
-    "explanation": "Analyse construction choices. This fixes the misconception without creating a new rule that is too broad.\nHint: Check the actual language evidence rather than relying on an absolute rule.",
+    "explanation": "representation of event: The noun choice frames the event through inconvenience rather than political purpose.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "Analyse construction choices. This fixes the misconception without creating a new rule that is too broad.",
-      "hint": "Check the actual language evidence rather than relying on an absolute rule."
+      "summary": "representation of event: The noun choice frames the event through inconvenience rather than political purpose.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-P-010",
     "curriculumCode": "AC9E6LY01",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "effect",
+    "stage": "foundation",
+    "skill": "representation of event effect",
     "printable": true,
     "type": "single",
-    "question": "Which example would be most useful when explaining representation and influence in media texts in a environmental campaign?",
-    "audioPrompt": "Which example would be most useful when explaining representation and influence in media texts in a environmental campaign?",
+    "question": "What does “A news report calls a protest a “disruption” rather than a “demonstration”.” contribute to meaning or response?",
+    "audioPrompt": "What does “A news report calls a protest a “disruption” rather than a “demonstration”.” contribute to meaning or response?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -287,29 +287,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "‘Community demands action’",
-      "wide crowd view",
-      "residents and experts",
-      "collective concern"
+      "Wartime scarcity and government campaigning help explain its urgent commands.",
+      "The modes and informal explanations suit a young contemporary audience.",
+      "The chosen images emphasise spectacle while omitting community experience.",
+      "The noun choice frames the event through inconvenience rather than political purpose."
     ],
     "correct": 3,
-    "explanation": "This example directly demonstrates effect and can be explained using the language clue in the text.\nHint: Students compare how headlines, source selection, sequencing, images, graphs, sound and evaluative language construct a version of an event and position audiences.",
+    "explanation": "The noun choice frames the event through inconvenience rather than political purpose.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "This example directly demonstrates effect and can be explained using the language clue in the text.",
-      "hint": "Students compare how headlines, source selection, sequencing, images, graphs, sound and evaluative language construct a version of an event and position audiences."
+      "summary": "The noun choice frames the event through inconvenience rather than political purpose.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-P-011",
     "curriculumCode": "AC9E6LY01",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "sources",
+    "stage": "core",
+    "skill": "representation of event revision",
     "printable": true,
     "type": "single",
-    "question": "A museum caption includes “residents and experts”. Why is this an effective example of sources?",
-    "audioPrompt": "A museum caption includes “residents and experts”. Why is this an effective example of sources?",
+    "question": "Which revision best applies representation of event?",
+    "audioPrompt": "Which revision best applies representation of event?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -317,29 +317,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It matches the purpose and the language clue in the example.",
-      "Both texts may use true details while creating different representations through selection and framing.",
-      "Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence.",
-      "It official spokesperson and supports the purpose of the text."
+      "Compare the headline wording and whose voices are quoted.",
+      "Connect the imperative language to the poster’s purpose and date.",
+      "Compare these choices with a technical government report.",
+      "Identify what is present, absent and foregrounded."
     ],
-    "correct": 3,
-    "explanation": "residents and experts works because official spokesperson.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 0,
+    "explanation": "The revision applies representation of event purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "residents and experts works because official spokesperson.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "The revision applies representation of event purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-P-012",
     "curriculumCode": "AC9E6LY01",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "core",
+    "skill": "representation of event misconception",
     "printable": true,
     "type": "single",
-    "question": "Why is “Check factual accuracy and framing separately.” a better rule than “Different representation called false automatically” when reading a student council meeting?",
-    "audioPrompt": "Why is “Check factual accuracy and framing separately.” a better rule than “Different representation called false automatically” when reading a student council meeting?",
+    "question": "A student says, “Representation simply copies reality without selection.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Representation simply copies reality without selection.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -347,29 +347,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because it keeps the useful distinction without turning it into an absolute rule.",
-      "Because the longest rule is always the best one.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words."
+      "Old texts are automatically inaccurate.",
+      "The claim is too broad; the example shows that the noun choice frames the event through inconvenience rather than political purpose.",
+      "Audience can be identified from one slang word.",
+      "Representation simply copies reality without selection."
     ],
-    "correct": 0,
-    "explanation": "“Check factual accuracy and framing separately.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 1,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "“Check factual accuracy and framing separately.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-P-013",
     "curriculumCode": "AC9E6LY01",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "effect",
+    "stage": "foundation",
+    "skill": "selection",
     "printable": true,
     "type": "single",
-    "question": "A local-history article includes “collective concern”. Why is this an effective example of effect?",
-    "audioPrompt": "A local-history article includes “collective concern”. Why is this an effective example of effect?",
+    "question": "Read: “An article about a festival shows performers but no local residents.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “An article about a festival shows performers but no local residents.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -377,29 +377,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It matches the purpose and the language clue in the example.",
-      "It public inconvenience and supports the purpose of the text.",
-      "Both texts may use true details while creating different representations through selection and framing.",
-      "Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence."
+      "creation context",
+      "audience",
+      "selection",
+      "representation of event"
     ],
-    "correct": 1,
-    "explanation": "collective concern works because public inconvenience.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 2,
+    "explanation": "selection: The chosen images emphasise spectacle while omitting community experience.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "collective concern works because public inconvenience.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "selection: The chosen images emphasise spectacle while omitting community experience.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-P-014",
     "curriculumCode": "AC9E6LY01",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "foundation",
+    "skill": "selection effect",
     "printable": true,
     "type": "single",
-    "question": "Why is “Use likely or invites.” a better rule than “Audience effect stated as guaranteed” when reading a environmental campaign?",
-    "audioPrompt": "Why is “Use likely or invites.” a better rule than “Audience effect stated as guaranteed” when reading a environmental campaign?",
+    "question": "What does “An article about a festival shows performers but no local residents.” contribute to meaning or response?",
+    "audioPrompt": "What does “An article about a festival shows performers but no local residents.” contribute to meaning or response?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -407,29 +407,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because the longest rule is always the best one.",
-      "Because exceptions never matter in English.",
-      "Because it keeps the useful distinction without turning it into an absolute rule.",
-      "Because a rule is correct whenever it uses technical words."
+      "Wartime scarcity and government campaigning help explain its urgent commands.",
+      "The modes and informal explanations suit a young contemporary audience.",
+      "The noun choice frames the event through inconvenience rather than political purpose.",
+      "The chosen images emphasise spectacle while omitting community experience."
     ],
-    "correct": 2,
-    "explanation": "“Use likely or invites.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 3,
+    "explanation": "The chosen images emphasise spectacle while omitting community experience.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "“Use likely or invites.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The chosen images emphasise spectacle while omitting community experience.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-P-015",
     "curriculumCode": "AC9E6LY01",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "image",
+    "stage": "core",
+    "skill": "selection revision",
     "printable": true,
     "type": "single",
-    "question": "A book-club discussion includes “wide crowd view”. Why is this an effective example of image?",
-    "audioPrompt": "A book-club discussion includes “wide crowd view”. Why is this an effective example of image?",
+    "question": "Which revision best applies selection?",
+    "audioPrompt": "Which revision best applies selection?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -437,29 +437,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It matches the purpose and the language clue in the example.",
-      "Both texts may use true details while creating different representations through selection and framing.",
-      "Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence.",
-      "It tight road-block crop and supports the purpose of the text."
+      "Identify what is present, absent and foregrounded.",
+      "Connect the imperative language to the poster’s purpose and date.",
+      "Compare these choices with a technical government report.",
+      "Compare the headline wording and whose voices are quoted."
     ],
-    "correct": 3,
-    "explanation": "wide crowd view works because tight road-block crop.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 0,
+    "explanation": "The revision applies selection purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "wide crowd view works because tight road-block crop.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "The revision applies selection purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-P-016",
     "curriculumCode": "AC9E6LY01",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "core",
+    "skill": "selection misconception",
     "printable": true,
     "type": "single",
-    "question": "Why is “Check factual accuracy and framing separately.” a better rule than “Different representation called false automatically” when reading a excursion briefing?",
-    "audioPrompt": "Why is “Check factual accuracy and framing separately.” a better rule than “Different representation called false automatically” when reading a excursion briefing?",
+    "question": "A student says, “A photograph includes everything relevant outside its frame.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “A photograph includes everything relevant outside its frame.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -467,29 +467,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because it keeps the useful distinction without turning it into an absolute rule.",
-      "Because the longest rule is always the best one.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words."
+      "Old texts are automatically inaccurate.",
+      "The claim is too broad; the example shows that the chosen images emphasise spectacle while omitting community experience.",
+      "Audience can be identified from one slang word.",
+      "Representation simply copies reality without selection."
     ],
-    "correct": 0,
-    "explanation": "“Check factual accuracy and framing separately.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 1,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "“Check factual accuracy and framing separately.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-P-017",
     "curriculumCode": "AC9E6LY01",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "sequence",
+    "stage": "foundation",
+    "skill": "viewpoint",
     "printable": true,
     "type": "single",
-    "question": "A design project includes “problem before disruption”. Why is this an effective example of sequence?",
-    "audioPrompt": "A design project includes “problem before disruption”. Why is this an effective example of sequence?",
+    "question": "Read: “A diary describes an evacuation from one child’s limited perspective.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “A diary describes an evacuation from one child’s limited perspective.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -497,29 +497,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It matches the purpose and the language clue in the example.",
-      "It disruption before issue and supports the purpose of the text.",
-      "Both texts may use true details while creating different representations through selection and framing.",
-      "Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence."
+      "creation context",
+      "audience",
+      "viewpoint",
+      "representation of event"
     ],
-    "correct": 1,
-    "explanation": "problem before disruption works because disruption before issue.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 2,
+    "explanation": "viewpoint: The viewpoint provides emotional immediacy but not a complete public record.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "problem before disruption works because disruption before issue.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "viewpoint: The viewpoint provides emotional immediacy but not a complete public record.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-P-018",
     "curriculumCode": "AC9E6LY01",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "foundation",
+    "skill": "viewpoint effect",
     "printable": true,
     "type": "single",
-    "question": "Why is “Use likely or invites.” a better rule than “Audience effect stated as guaranteed” when reading a weather report?",
-    "audioPrompt": "Why is “Use likely or invites.” a better rule than “Audience effect stated as guaranteed” when reading a weather report?",
+    "question": "What does “A diary describes an evacuation from one child’s limited perspective.” contribute to meaning or response?",
+    "audioPrompt": "What does “A diary describes an evacuation from one child’s limited perspective.” contribute to meaning or response?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -527,29 +527,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because the longest rule is always the best one.",
-      "Because exceptions never matter in English.",
-      "Because it keeps the useful distinction without turning it into an absolute rule.",
-      "Because a rule is correct whenever it uses technical words."
+      "Wartime scarcity and government campaigning help explain its urgent commands.",
+      "The modes and informal explanations suit a young contemporary audience.",
+      "The noun choice frames the event through inconvenience rather than political purpose.",
+      "The viewpoint provides emotional immediacy but not a complete public record."
     ],
-    "correct": 2,
-    "explanation": "“Use likely or invites.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 3,
+    "explanation": "The viewpoint provides emotional immediacy but not a complete public record.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "“Use likely or invites.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The viewpoint provides emotional immediacy but not a complete public record.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-P-019",
     "curriculumCode": "AC9E6LY01",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "headline",
+    "stage": "application",
+    "skill": "viewpoint revision",
     "printable": true,
     "type": "single",
-    "question": "A school assembly includes “‘Community demands action’”. Why is this an effective example of headline?",
-    "audioPrompt": "A school assembly includes “‘Community demands action’”. Why is this an effective example of headline?",
+    "question": "Which revision best applies viewpoint?",
+    "audioPrompt": "Which revision best applies viewpoint?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -557,29 +557,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It matches the purpose and the language clue in the example.",
-      "Both texts may use true details while creating different representations through selection and framing.",
-      "Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence.",
-      "It ‘small protest disrupts traffic’ and supports the purpose of the text."
+      "Cross-check the diary with another source while respecting its value.",
+      "Connect the imperative language to the poster’s purpose and date.",
+      "Compare these choices with a technical government report.",
+      "Compare the headline wording and whose voices are quoted."
     ],
-    "correct": 3,
-    "explanation": "‘Community demands action’ works because ‘small protest disrupts traffic’.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 0,
+    "explanation": "The revision applies viewpoint purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "‘Community demands action’ works because ‘small protest disrupts traffic’.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "The revision applies viewpoint purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-P-020",
     "curriculumCode": "AC9E6LY01",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "core",
+    "skill": "viewpoint misconception",
     "printable": true,
     "type": "single",
-    "question": "Why is “Check factual accuracy and framing separately.” a better rule than “Different representation called false automatically” when reading a peer feedback session?",
-    "audioPrompt": "Why is “Check factual accuracy and framing separately.” a better rule than “Different representation called false automatically” when reading a peer feedback session?",
+    "question": "A student says, “First-person texts reveal the whole event.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “First-person texts reveal the whole event.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -587,29 +587,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because it keeps the useful distinction without turning it into an absolute rule.",
-      "Because the longest rule is always the best one.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words."
+      "Old texts are automatically inaccurate.",
+      "The claim is too broad; the example shows that the viewpoint provides emotional immediacy but not a complete public record.",
+      "Audience can be identified from one slang word.",
+      "Representation simply copies reality without selection."
     ],
-    "correct": 0,
-    "explanation": "“Check factual accuracy and framing separately.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 1,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "“Check factual accuracy and framing separately.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-P-021",
     "curriculumCode": "AC9E6LY01",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "foundation",
+    "skill": "technology context",
     "printable": true,
     "type": "single",
-    "question": "A excursion briefing could use either “‘Community demands action’” or “compare selected facts/sources”. Which comparison is most accurate?",
-    "audioPrompt": "A excursion briefing could use either “‘Community demands action’” or “compare selected facts/sources”. Which comparison is most accurate?",
+    "question": "Read: “A recent campaign uses vertical video, captions and rapid cuts.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “A recent campaign uses vertical video, captions and rapid cuts.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -617,29 +617,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "“‘Community demands action’” shows headline, while “compare selected facts/sources” shows compare selected facts/sources.",
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer."
+      "creation context",
+      "audience",
+      "technology context",
+      "representation of event"
     ],
-    "correct": 0,
-    "explanation": "The important difference is the language function: headline versus compare selected facts/sources.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "correct": 2,
+    "explanation": "technology context: Platform conventions shape how the message is paced and accessed.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: headline versus compare selected facts/sources.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "technology context: Platform conventions shape how the message is paced and accessed.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-P-022",
     "curriculumCode": "AC9E6LY01",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "foundation",
+    "skill": "technology context effect",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Image considered self-explanatory” in a design project?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Image considered self-explanatory” in a design project?",
+    "question": "What does “A recent campaign uses vertical video, captions and rapid cuts.” contribute to meaning or response?",
+    "audioPrompt": "What does “A recent campaign uses vertical video, captions and rapid cuts.” contribute to meaning or response?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -647,29 +647,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Media text treated as transparent reality",
-      "Use crop, angle, caption and source.",
-      "Different representation called false automatically",
-      "Image considered self-explanatory"
+      "Wartime scarcity and government campaigning help explain its urgent commands.",
+      "The modes and informal explanations suit a young contemporary audience.",
+      "The noun choice frames the event through inconvenience rather than political purpose.",
+      "Platform conventions shape how the message is paced and accessed."
     ],
-    "correct": 1,
-    "explanation": "Use crop, angle, caption and source. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence.",
+    "correct": 3,
+    "explanation": "Platform conventions shape how the message is paced and accessed.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "Use crop, angle, caption and source. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence."
+      "summary": "Platform conventions shape how the message is paced and accessed.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-P-023",
     "curriculumCode": "AC9E6LY01",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "application",
+    "skill": "technology context revision",
     "printable": true,
     "type": "single",
-    "question": "A weather report could use either “residents and experts” or “inspect visuals/data scale”. Which comparison is most accurate?",
-    "audioPrompt": "A weather report could use either “residents and experts” or “inspect visuals/data scale”. Which comparison is most accurate?",
+    "question": "Which revision best applies technology context?",
+    "audioPrompt": "Which revision best applies technology context?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -677,29 +677,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "The longer example is automatically more formal and therefore better.",
-      "“residents and experts” shows sources, while “inspect visuals/data scale” shows inspect visuals/data scale.",
-      "Neither example can be analysed unless the writer explains the answer."
+      "Explain how silent viewing makes captions important.",
+      "Connect the imperative language to the poster’s purpose and date.",
+      "Compare these choices with a technical government report.",
+      "Compare the headline wording and whose voices are quoted."
     ],
-    "correct": 2,
-    "explanation": "The important difference is the language function: sources versus inspect visuals/data scale.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "correct": 0,
+    "explanation": "The revision applies technology context purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: sources versus inspect visuals/data scale.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "The revision applies technology context purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-P-024",
     "curriculumCode": "AC9E6LY01",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "core",
+    "skill": "technology context misconception",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Media text treated as transparent reality” in a school assembly?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Media text treated as transparent reality” in a school assembly?",
+    "question": "A student says, “Technology affects delivery but never meaning.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Technology affects delivery but never meaning.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -707,29 +707,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Media text treated as transparent reality",
-      "Different representation called false automatically",
-      "Image considered self-explanatory",
-      "Analyse construction choices."
+      "Old texts are automatically inaccurate.",
+      "The claim is too broad; the example shows that platform conventions shape how the message is paced and accessed.",
+      "Audience can be identified from one slang word.",
+      "Representation simply copies reality without selection."
     ],
-    "correct": 3,
-    "explanation": "Analyse construction choices. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence.",
+    "correct": 1,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "Analyse construction choices. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-P-025",
     "curriculumCode": "AC9E6LY01",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "foundation",
+    "skill": "social values",
     "printable": true,
     "type": "single",
-    "question": "A peer feedback session could use either “collective concern” or “infer audience position”. Which comparison is most accurate?",
-    "audioPrompt": "A peer feedback session could use either “collective concern” or “infer audience position”. Which comparison is most accurate?",
+    "question": "Read: “An older advertisement presents household work as only women’s responsibility.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “An older advertisement presents household work as only women’s responsibility.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -737,29 +737,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "“collective concern” shows effect, while “infer audience position” shows infer audience position.",
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer."
+      "creation context",
+      "audience",
+      "social values",
+      "representation of event"
     ],
-    "correct": 0,
-    "explanation": "The important difference is the language function: effect versus infer audience position.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "correct": 2,
+    "explanation": "social values: The representation reflects dominant gender assumptions of its production context.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: effect versus infer audience position.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "social values: The representation reflects dominant gender assumptions of its production context.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-P-026",
     "curriculumCode": "AC9E6LY01",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "core",
+    "skill": "social values effect",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Image considered self-explanatory” in a cooking demonstration?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Image considered self-explanatory” in a cooking demonstration?",
+    "question": "What does “An older advertisement presents household work as only women’s responsibility.” contribute to meaning or response?",
+    "audioPrompt": "What does “An older advertisement presents household work as only women’s responsibility.” contribute to meaning or response?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -767,29 +767,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Media text treated as transparent reality",
-      "Use crop, angle, caption and source.",
-      "Different representation called false automatically",
-      "Image considered self-explanatory"
+      "Wartime scarcity and government campaigning help explain its urgent commands.",
+      "The modes and informal explanations suit a young contemporary audience.",
+      "The noun choice frames the event through inconvenience rather than political purpose.",
+      "The representation reflects dominant gender assumptions of its production context."
     ],
-    "correct": 1,
-    "explanation": "Use crop, angle, caption and source. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence.",
+    "correct": 3,
+    "explanation": "The representation reflects dominant gender assumptions of its production context.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "Use crop, angle, caption and source. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence."
+      "summary": "The representation reflects dominant gender assumptions of its production context.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-P-027",
     "curriculumCode": "AC9E6LY01",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "application",
+    "skill": "social values revision",
     "printable": true,
     "type": "single",
-    "question": "A arts review could use either “wide crowd view” or “identify represented event”. Which comparison is most accurate?",
-    "audioPrompt": "A arts review could use either “wide crowd view” or “identify represented event”. Which comparison is most accurate?",
+    "question": "Which revision best applies social values?",
+    "audioPrompt": "Which revision best applies social values?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -797,29 +797,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "The longer example is automatically more formal and therefore better.",
-      "“wide crowd view” shows image, while “identify represented event” shows identify represented event.",
-      "Neither example can be analysed unless the writer explains the answer."
+      "Name the specific image and wording before judging the pattern.",
+      "Connect the imperative language to the poster’s purpose and date.",
+      "Compare these choices with a technical government report.",
+      "Compare the headline wording and whose voices are quoted."
     ],
-    "correct": 2,
-    "explanation": "The important difference is the language function: image versus identify represented event.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "correct": 0,
+    "explanation": "The revision applies social values purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: image versus identify represented event.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "The revision applies social values purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-P-028",
     "curriculumCode": "AC9E6LY01",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "core",
+    "skill": "social values misconception",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Media text treated as transparent reality” in a technology presentation?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Media text treated as transparent reality” in a technology presentation?",
+    "question": "A student says, “Everyone in that historical period shared the same values.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Everyone in that historical period shared the same values.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -827,29 +827,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Media text treated as transparent reality",
-      "Different representation called false automatically",
-      "Image considered self-explanatory",
-      "Analyse construction choices."
+      "Old texts are automatically inaccurate.",
+      "The claim is too broad; the example shows that the representation reflects dominant gender assumptions of its production context.",
+      "Audience can be identified from one slang word.",
+      "Representation simply copies reality without selection."
     ],
-    "correct": 3,
-    "explanation": "Analyse construction choices. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence.",
+    "correct": 1,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "Analyse construction choices. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-P-029",
     "curriculumCode": "AC9E6LY01",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "foundation",
+    "skill": "cultural positioning",
     "printable": true,
     "type": "single",
-    "question": "A playground consultation could use either “problem before disruption” or “analyse headline and evaluation”. Which comparison is most accurate?",
-    "audioPrompt": "A playground consultation could use either “problem before disruption” or “analyse headline and evaluation”. Which comparison is most accurate?",
+    "question": "Read: “A travel account describes local customs as “strange”.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “A travel account describes local customs as “strange”.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -857,29 +857,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "“problem before disruption” shows sequence, while “analyse headline and evaluation” shows analyse headline and evaluation.",
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer."
+      "creation context",
+      "audience",
+      "cultural positioning",
+      "representation of event"
     ],
-    "correct": 0,
-    "explanation": "The important difference is the language function: sequence versus analyse headline and evaluation.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "correct": 2,
+    "explanation": "cultural positioning: The evaluative label centres the traveller’s norms and positions the community as unfamiliar.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: sequence versus analyse headline and evaluation.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "cultural positioning: The evaluative label centres the traveller’s norms and positions the community as unfamiliar.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-P-030",
     "curriculumCode": "AC9E6LY01",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "core",
+    "skill": "cultural positioning effect",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Image considered self-explanatory” in a class podcast?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Image considered self-explanatory” in a class podcast?",
+    "question": "What does “A travel account describes local customs as “strange”.” contribute to meaning or response?",
+    "audioPrompt": "What does “A travel account describes local customs as “strange”.” contribute to meaning or response?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -887,29 +887,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Media text treated as transparent reality",
-      "Use crop, angle, caption and source.",
-      "Different representation called false automatically",
-      "Image considered self-explanatory"
+      "Wartime scarcity and government campaigning help explain its urgent commands.",
+      "The modes and informal explanations suit a young contemporary audience.",
+      "The noun choice frames the event through inconvenience rather than political purpose.",
+      "The evaluative label centres the traveller’s norms and positions the community as unfamiliar."
     ],
-    "correct": 1,
-    "explanation": "Use crop, angle, caption and source. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence.",
+    "correct": 3,
+    "explanation": "The evaluative label centres the traveller’s norms and positions the community as unfamiliar.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "Use crop, angle, caption and source. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence."
+      "summary": "The evaluative label centres the traveller’s norms and positions the community as unfamiliar.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-P-031",
     "curriculumCode": "AC9E6LY01",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "check sources",
+    "stage": "application",
+    "skill": "cultural positioning revision",
     "printable": true,
     "type": "single",
-    "question": "You are editing a community garden proposal. Which statement is appropriately qualified?",
-    "audioPrompt": "You are editing a community garden proposal. Which statement is appropriately qualified?",
+    "question": "Which revision best applies cultural positioning?",
+    "audioPrompt": "Which revision best applies cultural positioning?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -917,29 +917,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Every reader will definitely be angry",
-      "The headline invites readers to see the event as disruptive",
-      "The photograph proves all motives",
-      "The text has no viewpoint"
+      "Rewrite the observation with precise, non-judgemental detail.",
+      "Connect the imperative language to the poster’s purpose and date.",
+      "Compare these choices with a technical government report.",
+      "Compare the headline wording and whose voices are quoted."
     ],
-    "correct": 1,
-    "explanation": "“The headline invites readers to see the event as disruptive” best fits the purpose and the language evidence in this new situation.\nHint: Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence.",
+    "correct": 0,
+    "explanation": "The revision applies cultural positioning purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "“The headline invites readers to see the event as disruptive” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence."
+      "summary": "The revision applies cultural positioning purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-P-032",
     "curriculumCode": "AC9E6LY01",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "compare selected facts sources",
+    "stage": "core",
+    "skill": "cultural positioning misconception",
     "printable": true,
     "type": "single",
-    "question": "A sports-club discussion needs a clear example of compare selected facts/sources. Which wording should you choose?",
-    "audioPrompt": "A sports-club discussion needs a clear example of compare selected facts/sources. Which wording should you choose?",
+    "question": "A student says, “Context excuses stereotyping in a text.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Context excuses stereotyping in a text.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -947,29 +947,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "identify represented event",
-      "analyse headline and evaluation",
-      "compare selected facts/sources",
-      "inspect visuals/data scale"
+      "Old texts are automatically inaccurate.",
+      "The claim is too broad; the example shows that the evaluative label centres the traveller’s norms and positions the community as unfamiliar.",
+      "Audience can be identified from one slang word.",
+      "Representation simply copies reality without selection."
     ],
-    "correct": 2,
-    "explanation": "“compare selected facts/sources” is the best choice because it demonstrates compare selected facts/sources in context.\nHint: Choose the wording that performs the required job, not merely one that sounds fluent.",
+    "correct": 1,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "“compare selected facts/sources” is the best choice because it demonstrates compare selected facts/sources in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-P-033",
     "curriculumCode": "AC9E6LY01",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "representation",
+    "stage": "foundation",
+    "skill": "source purpose",
     "printable": true,
     "type": "single",
-    "question": "While revising a library display, you need language that matches “constructed version of an idea, person or event”. Which concept should guide your choice?",
-    "audioPrompt": "While revising a library display, you need language that matches “constructed version of an idea, person or event”. Which concept should guide your choice?",
+    "question": "Read: “A company brochure highlights jobs created but not pollution complaints.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “A company brochure highlights jobs created but not pollution complaints.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -977,29 +977,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "framing",
-      "positioning",
-      "It does not match the evidence in the example.",
-      "representation"
+      "creation context",
+      "audience",
+      "source purpose",
+      "representation of event"
     ],
-    "correct": 3,
-    "explanation": "representation is the concept that matches constructed version of an idea, person or event.\nHint: Use the definition to guide the decision, then check it against the sentence.",
+    "correct": 2,
+    "explanation": "source purpose: Promotional purpose helps explain the selective positive representation.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "representation is the concept that matches constructed version of an idea, person or event.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "source purpose: Promotional purpose helps explain the selective positive representation.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-P-034",
     "curriculumCode": "AC9E6LY01",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "compare headlines",
+    "stage": "core",
+    "skill": "source purpose effect",
     "printable": true,
     "type": "single",
-    "question": "You are editing a museum caption. Which statement is appropriately qualified?",
-    "audioPrompt": "You are editing a museum caption. Which statement is appropriately qualified?",
+    "question": "What does “A company brochure highlights jobs created but not pollution complaints.” contribute to meaning or response?",
+    "audioPrompt": "What does “A company brochure highlights jobs created but not pollution complaints.” contribute to meaning or response?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1007,29 +1007,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The headline invites readers to see the event as disruptive",
-      "Every reader will definitely be angry",
-      "The photograph proves all motives",
-      "The text has no viewpoint"
+      "Wartime scarcity and government campaigning help explain its urgent commands.",
+      "The modes and informal explanations suit a young contemporary audience.",
+      "The noun choice frames the event through inconvenience rather than political purpose.",
+      "Promotional purpose helps explain the selective positive representation."
     ],
-    "correct": 0,
-    "explanation": "“The headline invites readers to see the event as disruptive” best fits the purpose and the language evidence in this new situation.\nHint: Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence.",
+    "correct": 3,
+    "explanation": "Promotional purpose helps explain the selective positive representation.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "“The headline invites readers to see the event as disruptive” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence."
+      "summary": "Promotional purpose helps explain the selective positive representation.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-P-035",
     "curriculumCode": "AC9E6LY01",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "notice sound sequence",
+    "stage": "application",
+    "skill": "source purpose revision",
     "printable": true,
     "type": "single",
-    "question": "A student council meeting needs a clear example of notice sound/sequence. Which wording should you choose?",
-    "audioPrompt": "A student council meeting needs a clear example of notice sound/sequence. Which wording should you choose?",
+    "question": "Which revision best applies source purpose?",
+    "audioPrompt": "Which revision best applies source purpose?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1037,29 +1037,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "identify represented event",
-      "notice sound/sequence",
-      "compare selected facts/sources",
-      "analyse headline and evaluation"
+      "Compare the brochure with independent environmental evidence.",
+      "Connect the imperative language to the poster’s purpose and date.",
+      "Compare these choices with a technical government report.",
+      "Compare the headline wording and whose voices are quoted."
     ],
-    "correct": 1,
-    "explanation": "“notice sound/sequence” is the best choice because it demonstrates notice sound/sequence in context.\nHint: Choose the wording that performs the required job, not merely one that sounds fluent.",
+    "correct": 0,
+    "explanation": "The revision applies source purpose purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "“notice sound/sequence” is the best choice because it demonstrates notice sound/sequence in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "The revision applies source purpose purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-P-036",
     "curriculumCode": "AC9E6LY01",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "representation",
+    "stage": "challenge",
+    "skill": "source purpose misconception",
     "printable": true,
     "type": "single",
-    "question": "While revising a local-history article, you need language that matches “constructed version of an idea, person or event”. Which concept should guide your choice?",
-    "audioPrompt": "While revising a local-history article, you need language that matches “constructed version of an idea, person or event”. Which concept should guide your choice?",
+    "question": "A student says, “Knowing the purpose proves every claim is false.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Knowing the purpose proves every claim is false.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1067,29 +1067,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "framing",
-      "positioning",
-      "representation",
-      "It does not match the evidence in the example."
+      "Old texts are automatically inaccurate.",
+      "The claim is too broad; the example shows that promotional purpose helps explain the selective positive representation.",
+      "Audience can be identified from one slang word.",
+      "Representation simply copies reality without selection."
     ],
-    "correct": 2,
-    "explanation": "representation is the concept that matches constructed version of an idea, person or event.\nHint: Use the definition to guide the decision, then check it against the sentence.",
+    "correct": 1,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
     "structuredExplanation": {
-      "summary": "representation is the concept that matches constructed version of an idea, person or event.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-P-037",
     "curriculumCode": "AC9E6LY01",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "identify omission",
+    "stage": "foundation",
+    "skill": "multimodal framing",
     "printable": true,
     "type": "single",
-    "question": "You are editing a environmental campaign. Which statement is appropriately qualified?",
-    "audioPrompt": "You are editing a environmental campaign. Which statement is appropriately qualified?",
+    "question": "Read: “A low camera angle makes a political speaker appear powerful.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “A low camera angle makes a political speaker appear powerful.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1097,29 +1097,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Every reader will definitely be angry",
-      "The photograph proves all motives",
-      "The text has no viewpoint",
-      "The headline invites readers to see the event as disruptive"
+      "creation context",
+      "audience",
+      "multimodal framing",
+      "representation of event"
     ],
-    "correct": 3,
-    "explanation": "“The headline invites readers to see the event as disruptive” best fits the purpose and the language evidence in this new situation.\nHint: Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence.",
+    "correct": 2,
+    "explanation": "multimodal framing: The visual angle contributes to authority beyond the spoken words.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "“The headline invites readers to see the event as disruptive” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence."
+      "summary": "multimodal framing: The visual angle contributes to authority beyond the spoken words.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-P-038",
     "curriculumCode": "AC9E6LY01",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "identify represented event",
+    "stage": "core",
+    "skill": "multimodal framing effect",
     "printable": true,
     "type": "single",
-    "question": "A book-club discussion needs a clear example of identify represented event. Which wording should you choose?",
-    "audioPrompt": "A book-club discussion needs a clear example of identify represented event. Which wording should you choose?",
+    "question": "What does “A low camera angle makes a political speaker appear powerful.” contribute to meaning or response?",
+    "audioPrompt": "What does “A low camera angle makes a political speaker appear powerful.” contribute to meaning or response?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1127,29 +1127,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "identify represented event",
-      "compare selected facts/sources",
-      "analyse headline and evaluation",
-      "inspect visuals/data scale"
+      "Wartime scarcity and government campaigning help explain its urgent commands.",
+      "The modes and informal explanations suit a young contemporary audience.",
+      "The noun choice frames the event through inconvenience rather than political purpose.",
+      "The visual angle contributes to authority beyond the spoken words."
     ],
-    "correct": 0,
-    "explanation": "“identify represented event” is the best choice because it demonstrates identify represented event in context.\nHint: Choose the wording that performs the required job, not merely one that sounds fluent.",
+    "correct": 3,
+    "explanation": "The visual angle contributes to authority beyond the spoken words.\nHint: Link exact evidence to its effect.",
     "structuredExplanation": {
-      "summary": "“identify represented event” is the best choice because it demonstrates identify represented event in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "The visual angle contributes to authority beyond the spoken words.",
+      "hint": "Link exact evidence to its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-P-039",
     "curriculumCode": "AC9E6LY01",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "representation",
+    "stage": "application",
+    "skill": "multimodal framing revision",
     "printable": true,
     "type": "single",
-    "question": "While revising a excursion briefing, you need language that matches “constructed version of an idea, person or event”. Which concept should guide your choice?",
-    "audioPrompt": "While revising a excursion briefing, you need language that matches “constructed version of an idea, person or event”. Which concept should guide your choice?",
+    "question": "Which revision best applies multimodal framing?",
+    "audioPrompt": "Which revision best applies multimodal framing?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1157,29 +1157,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "framing",
-      "representation",
-      "positioning",
-      "It does not match the evidence in the example."
+      "Analyse image, caption and speech together.",
+      "Connect the imperative language to the poster’s purpose and date.",
+      "Compare these choices with a technical government report.",
+      "Compare the headline wording and whose voices are quoted."
     ],
-    "correct": 1,
-    "explanation": "representation is the concept that matches constructed version of an idea, person or event.\nHint: Use the definition to guide the decision, then check it against the sentence.",
+    "correct": 0,
+    "explanation": "The revision applies multimodal framing purposefully.\nHint: Choose accuracy and effect, not extra length.",
     "structuredExplanation": {
-      "summary": "representation is the concept that matches constructed version of an idea, person or event.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "The revision applies multimodal framing purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-P-040",
     "curriculumCode": "AC9E6LY01",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "analyse crop",
+    "stage": "challenge",
+    "skill": "multimodal framing misconception",
     "printable": true,
     "type": "single",
-    "question": "You are editing a design project. Which statement is appropriately qualified?",
-    "audioPrompt": "You are editing a design project. Which statement is appropriately qualified?",
+    "question": "A student says, “Only written words represent ideas.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Only written words represent ideas.” Which response best corrects the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1187,18 +1187,258 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Every reader will definitely be angry",
-      "The photograph proves all motives",
-      "The headline invites readers to see the event as disruptive",
-      "The text has no viewpoint"
+      "Old texts are automatically inaccurate.",
+      "The claim is too broad; the example shows that the visual angle contributes to authority beyond the spoken words.",
+      "Audience can be identified from one slang word.",
+      "Representation simply copies reality without selection."
+    ],
+    "correct": 1,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
+    "structuredExplanation": {
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LY01-P-041",
+    "curriculumCode": "AC9E6LY01",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "change over time",
+    "printable": true,
+    "type": "single",
+    "question": "Read: “Two museum labels from 1980 and 2025 describe the same collection differently.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “Two museum labels from 1980 and 2025 describe the same collection differently.” Which description best identifies the relevant choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "creation context",
+      "audience",
+      "change over time",
+      "representation of event"
     ],
     "correct": 2,
-    "explanation": "“The headline invites readers to see the event as disruptive” best fits the purpose and the language evidence in this new situation.\nHint: Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence.",
+    "explanation": "change over time: Changed knowledge and ethical expectations can alter terminology and emphasis.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "“The headline invites readers to see the event as disruptive” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence."
+      "summary": "change over time: Changed knowledge and ethical expectations can alter terminology and emphasis.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LY01-P-042",
+    "curriculumCode": "AC9E6LY01",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "change over time effect",
+    "printable": true,
+    "type": "single",
+    "question": "What does “Two museum labels from 1980 and 2025 describe the same collection differently.” contribute to meaning or response?",
+    "audioPrompt": "What does “Two museum labels from 1980 and 2025 describe the same collection differently.” contribute to meaning or response?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Wartime scarcity and government campaigning help explain its urgent commands.",
+      "The modes and informal explanations suit a young contemporary audience.",
+      "The noun choice frames the event through inconvenience rather than political purpose.",
+      "Changed knowledge and ethical expectations can alter terminology and emphasis."
+    ],
+    "correct": 3,
+    "explanation": "Changed knowledge and ethical expectations can alter terminology and emphasis.\nHint: Link exact evidence to its effect.",
+    "structuredExplanation": {
+      "summary": "Changed knowledge and ethical expectations can alter terminology and emphasis.",
+      "hint": "Link exact evidence to its effect."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LY01-P-043",
+    "curriculumCode": "AC9E6LY01",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "change over time revision",
+    "printable": true,
+    "type": "single",
+    "question": "Which revision best applies change over time?",
+    "audioPrompt": "Which revision best applies change over time?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Compare exact wording and whose perspective is acknowledged.",
+      "Connect the imperative language to the poster’s purpose and date.",
+      "Compare these choices with a technical government report.",
+      "Compare the headline wording and whose voices are quoted."
+    ],
+    "correct": 0,
+    "explanation": "The revision applies change over time purposefully.\nHint: Choose accuracy and effect, not extra length.",
+    "structuredExplanation": {
+      "summary": "The revision applies change over time purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LY01-P-044",
+    "curriculumCode": "AC9E6LY01",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "change over time misconception",
+    "printable": true,
+    "type": "single",
+    "question": "A student says, “Newer representations are automatically unbiased.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Newer representations are automatically unbiased.” Which response best corrects the claim?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Old texts are automatically inaccurate.",
+      "The claim is too broad; the example shows that changed knowledge and ethical expectations can alter terminology and emphasis.",
+      "Audience can be identified from one slang word.",
+      "Representation simply copies reality without selection."
+    ],
+    "correct": 1,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
+    "structuredExplanation": {
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LY01-P-045",
+    "curriculumCode": "AC9E6LY01",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "qualified judgement",
+    "printable": true,
+    "type": "single",
+    "question": "Read: “The documentary may favour redevelopment because it interviews developers first and gives residents little time.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “The documentary may favour redevelopment because it interviews developers first and gives residents little time.” Which description best identifies the relevant choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "creation context",
+      "audience",
+      "qualified judgement",
+      "representation of event"
+    ],
+    "correct": 2,
+    "explanation": "qualified judgement: The claim identifies evidence and limits certainty appropriately.\nHint: Name the feature precisely.",
+    "structuredExplanation": {
+      "summary": "qualified judgement: The claim identifies evidence and limits certainty appropriately.",
+      "hint": "Name the feature precisely."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LY01-P-046",
+    "curriculumCode": "AC9E6LY01",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "qualified judgement effect",
+    "printable": true,
+    "type": "single",
+    "question": "What does “The documentary may favour redevelopment because it interviews developers first and gives residents little time.” contribute to meaning or response?",
+    "audioPrompt": "What does “The documentary may favour redevelopment because it interviews developers first and gives residents little time.” contribute to meaning or response?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Wartime scarcity and government campaigning help explain its urgent commands.",
+      "The modes and informal explanations suit a young contemporary audience.",
+      "The noun choice frames the event through inconvenience rather than political purpose.",
+      "The claim identifies evidence and limits certainty appropriately."
+    ],
+    "correct": 3,
+    "explanation": "The claim identifies evidence and limits certainty appropriately.\nHint: Link exact evidence to its effect.",
+    "structuredExplanation": {
+      "summary": "The claim identifies evidence and limits certainty appropriately.",
+      "hint": "Link exact evidence to its effect."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LY01-P-047",
+    "curriculumCode": "AC9E6LY01",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "qualified judgement revision",
+    "printable": true,
+    "type": "single",
+    "question": "Which revision best applies qualified judgement?",
+    "audioPrompt": "Which revision best applies qualified judgement?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "State what additional evidence would strengthen the conclusion.",
+      "Connect the imperative language to the poster’s purpose and date.",
+      "Compare these choices with a technical government report.",
+      "Compare the headline wording and whose voices are quoted."
+    ],
+    "correct": 0,
+    "explanation": "The revision applies qualified judgement purposefully.\nHint: Choose accuracy and effect, not extra length.",
+    "structuredExplanation": {
+      "summary": "The revision applies qualified judgement purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LY01-P-048",
+    "curriculumCode": "AC9E6LY01",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "qualified judgement misconception",
+    "printable": true,
+    "type": "single",
+    "question": "A student says, “Mentioning context replaces the need for textual evidence.” Which response best corrects the claim?",
+    "audioPrompt": "A student says, “Mentioning context replaces the need for textual evidence.” Which response best corrects the claim?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Old texts are automatically inaccurate.",
+      "The claim is too broad; the example shows that the claim identifies evidence and limits certainty appropriately.",
+      "Audience can be identified from one slang word.",
+      "Representation simply copies reality without selection."
+    ],
+    "correct": 1,
+    "explanation": "The correction is evidence-based and limited.\nHint: Test always-or-never wording.",
+    "structuredExplanation": {
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
+    },
+    "qualitySchema": "research-aligned-original-v2"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

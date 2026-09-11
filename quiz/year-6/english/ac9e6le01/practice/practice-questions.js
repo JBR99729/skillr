@@ -4,12 +4,12 @@ window.skillrPracticeQuestions = [
     "id": "AC9E6LE01-P-001",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "state response",
+    "stage": "foundation",
+    "skill": "evidence-based response",
     "printable": true,
     "type": "single",
-    "question": "In a class podcast, which response is best supported?",
-    "audioPrompt": "In a class podcast, which response is best supported?",
+    "question": "Read: “Nari shares the last water ration with a younger child despite her own thirst.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “Nari shares the last water ration with a younger child despite her own thirst.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -17,29 +17,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The character is good",
-      "The refusal appears courageous because it prevents harm despite institutional pressure",
-      "Everyone would agree",
-      "The decision has no context"
+      "historical context",
+      "social context",
+      "evidence-based response",
+      "cultural context"
     ],
-    "correct": 1,
-    "explanation": "“The refusal appears courageous because it prevents harm despite institutional pressure” is the strongest choice because it matches the language feature and the situation.\nHint: A response is strengthened by specific textual evidence and relevant context. Context explains possibilities but should not be used to stereotype all people from a time or place.",
+    "correct": 2,
+    "explanation": "evidence-based response: This specific textual evidence supports a response that she is compassionate and courageous.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "“The refusal appears courageous because it prevents harm despite institutional pressure” is the strongest choice because it matches the language feature and the situation.",
-      "hint": "A response is strengthened by specific textual evidence and relevant context. Context explains possibilities but should not be used to stereotype all people from a time or place."
+      "summary": "evidence-based response: This specific textual evidence supports a response that she is compassionate and courageous.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-P-002",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "context",
+    "stage": "foundation",
+    "skill": "evidence-based response effect",
     "printable": true,
     "type": "single",
-    "question": "Which term best matches this meaning: “historical, social or cultural conditions relevant to meaning”?",
-    "audioPrompt": "Which term best matches this meaning: “historical, social or cultural conditions relevant to meaning”?",
+    "question": "What does the choice in “Nari shares the last water ration with a younger child despite her own thirst.” contribute to meaning?",
+    "audioPrompt": "What does the choice in “Nari shares the last water ration with a younger child despite her own thirst.” contribute to meaning?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -47,29 +47,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "reader response",
-      "textual evidence",
-      "context",
-      "It does not match the evidence in the example."
+      "Knowledge of censorship explains why characters hint at danger instead of naming it.",
+      "The peer-group pressure helps explain her shame and later decision to speak up.",
+      "The event may show responsibility to knowledge, relationships and collective authority.",
+      "This specific textual evidence supports a response that she is compassionate and courageous."
     ],
-    "correct": 2,
-    "explanation": "context means historical, social or cultural conditions relevant to meaning.\nHint: Match the definition precisely; do not choose a nearby term just because it is familiar.",
+    "correct": 3,
+    "explanation": "This specific textual evidence supports a response that she is compassionate and courageous.\nHint: Link exact evidence to meaning, purpose or reader response.",
     "structuredExplanation": {
-      "summary": "context means historical, social or cultural conditions relevant to meaning.",
-      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
+      "summary": "This specific textual evidence supports a response that she is compassionate and courageous.",
+      "hint": "Link exact evidence to meaning, purpose or reader response."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-P-003",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "interpretation",
+    "stage": "core",
+    "skill": "evidence-based response revision",
     "printable": true,
     "type": "single",
-    "question": "Read this example from a science investigation: “The refusal can be read as courageous resistance”. Which label best describes what the language is doing?",
-    "audioPrompt": "Read this example from a science investigation: “The refusal can be read as courageous resistance”. Which label best describes what the language is doing?",
+    "question": "Which revision best applies evidence-based response to this example?",
+    "audioPrompt": "Which revision best applies evidence-based response to this example?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -77,29 +77,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Text evidence",
-      "Context",
-      "Alternative response",
-      "Interpretation"
+      "Nari appears courageous because she accepts personal risk to protect the child.",
+      "Connect the indirect wording to the restrictions on wartime communication.",
+      "Use both the mocking dialogue and her actions as evidence of social pressure.",
+      "Explain the represented value using details from this particular text."
     ],
-    "correct": 3,
-    "explanation": "“The refusal can be read as courageous resistance” is an example of Interpretation.\nHint: A response is strengthened by specific textual evidence and relevant context. Context explains possibilities but should not be used to stereotype all people from a time or place.",
+    "correct": 0,
+    "explanation": "The revision applies evidence-based response accurately and purposefully.\nHint: Reject answers that add length without improving meaning.",
     "structuredExplanation": {
-      "summary": "“The refusal can be read as courageous resistance” is an example of Interpretation.",
-      "hint": "A response is strengthened by specific textual evidence and relevant context. Context explains possibilities but should not be used to stereotype all people from a time or place."
+      "summary": "The revision applies evidence-based response accurately and purposefully.",
+      "hint": "Reject answers that add length without improving meaning."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-P-004",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "misconception repair",
+    "stage": "core",
+    "skill": "evidence-based response misconception",
     "printable": true,
     "type": "single",
-    "question": "Which correction best fixes this idea: “One perspective generalised to a culture”?",
-    "audioPrompt": "Which correction best fixes this idea: “One perspective generalised to a culture”?",
+    "question": "A student says, “A response is strong whenever it states a feeling.” Which response best corrects this claim?",
+    "audioPrompt": "A student says, “A response is strong whenever it states a feeling.” Which response best corrects this claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -107,29 +107,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Limit claims to the text and representation.",
-      "Personal reaction treated as self-evident",
-      "Historical character judged without context",
-      "Context used to excuse all actions"
+      "A response is strong whenever it states a feeling.",
+      "The claim is too broad; this example shows that this specific textual evidence supports a response that she is compassionate and courageous.",
+      "Historical characters should be judged as if they had every modern choice.",
+      "Context excuses every harmful action."
     ],
-    "correct": 0,
-    "explanation": "Limit claims to the text and representation. This fixes the misconception without creating a new rule that is too broad.\nHint: Check the actual language evidence rather than relying on an absolute rule.",
+    "correct": 1,
+    "explanation": "The correction is limited, evidence-based and accurate.\nHint: Test absolute words such as always, never and automatically.",
     "structuredExplanation": {
-      "summary": "Limit claims to the text and representation. This fixes the misconception without creating a new rule that is too broad.",
-      "hint": "Check the actual language evidence rather than relying on an absolute rule."
+      "summary": "The correction is limited, evidence-based and accurate.",
+      "hint": "Test absolute words such as always, never and automatically."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-P-005",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "text evidence",
+    "stage": "foundation",
+    "skill": "historical context",
     "printable": true,
     "type": "single",
-    "question": "Which example would be most useful when explaining responses to characters and events across contexts in a sports-club discussion?",
-    "audioPrompt": "Which example would be most useful when explaining responses to characters and events across contexts in a sports-club discussion?",
+    "question": "Read: “In a wartime story, the family communicates through carefully censored letters.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “In a wartime story, the family communicates through carefully censored letters.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -137,29 +137,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The institution expects unquestioned obedience",
-      "The order would endanger another person",
-      "The refusal can be read as courageous resistance",
-      "Another reader may see disloyalty, depending on values"
+      "evidence-based response",
+      "social context",
+      "historical context",
+      "cultural context"
     ],
-    "correct": 1,
-    "explanation": "This example directly demonstrates Text evidence and can be explained using the language clue in the text.\nHint: Students compare how readers may judge character decisions differently, use evidence from action, narration and context and distinguish interpretation from unsupported assumption or stereotype.",
+    "correct": 2,
+    "explanation": "historical context: Knowledge of censorship explains why characters hint at danger instead of naming it.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "This example directly demonstrates Text evidence and can be explained using the language clue in the text.",
-      "hint": "Students compare how readers may judge character decisions differently, use evidence from action, narration and context and distinguish interpretation from unsupported assumption or stereotype."
+      "summary": "historical context: Knowledge of censorship explains why characters hint at danger instead of naming it.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-P-006",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "state response",
+    "stage": "foundation",
+    "skill": "historical context effect",
     "printable": true,
     "type": "single",
-    "question": "In a library display, which statement recognises interpretive difference?",
-    "audioPrompt": "In a library display, which statement recognises interpretive difference?",
+    "question": "What does the choice in “In a wartime story, the family communicates through carefully censored letters.” contribute to meaning?",
+    "audioPrompt": "What does the choice in “In a wartime story, the family communicates through carefully censored letters.” contribute to meaning?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -167,29 +167,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Only one reader response is possible",
-      "Context proves the character is correct",
-      "Another reader may value loyalty more strongly, but must still use evidence",
-      "Personal preference needs no text"
+      "This specific textual evidence supports a response that she is compassionate and courageous.",
+      "The peer-group pressure helps explain her shame and later decision to speak up.",
+      "The event may show responsibility to knowledge, relationships and collective authority.",
+      "Knowledge of censorship explains why characters hint at danger instead of naming it."
     ],
-    "correct": 2,
-    "explanation": "“Another reader may value loyalty more strongly, but must still use evidence” is the strongest choice because it matches the language feature and the situation.\nHint: A response is strengthened by specific textual evidence and relevant context. Context explains possibilities but should not be used to stereotype all people from a time or place.",
+    "correct": 3,
+    "explanation": "Knowledge of censorship explains why characters hint at danger instead of naming it.\nHint: Link exact evidence to meaning, purpose or reader response.",
     "structuredExplanation": {
-      "summary": "“Another reader may value loyalty more strongly, but must still use evidence” is the strongest choice because it matches the language feature and the situation.",
-      "hint": "A response is strengthened by specific textual evidence and relevant context. Context explains possibilities but should not be used to stereotype all people from a time or place."
+      "summary": "Knowledge of censorship explains why characters hint at danger instead of naming it.",
+      "hint": "Link exact evidence to meaning, purpose or reader response."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-P-007",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "reader response",
+    "stage": "core",
+    "skill": "historical context revision",
     "printable": true,
     "type": "single",
-    "question": "Which term best matches this meaning: “interpretation or evaluation developed by a reader”?",
-    "audioPrompt": "Which term best matches this meaning: “interpretation or evaluation developed by a reader”?",
+    "question": "Which revision best applies historical context to this example?",
+    "audioPrompt": "Which revision best applies historical context to this example?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -197,29 +197,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "context",
-      "textual evidence",
-      "It does not match the evidence in the example.",
-      "reader response"
+      "Connect the indirect wording to the restrictions on wartime communication.",
+      "Nari appears courageous because she accepts personal risk to protect the child.",
+      "Use both the mocking dialogue and her actions as evidence of social pressure.",
+      "Explain the represented value using details from this particular text."
     ],
-    "correct": 3,
-    "explanation": "reader response means interpretation or evaluation developed by a reader.\nHint: Match the definition precisely; do not choose a nearby term just because it is familiar.",
+    "correct": 0,
+    "explanation": "The revision applies historical context accurately and purposefully.\nHint: Reject answers that add length without improving meaning.",
     "structuredExplanation": {
-      "summary": "reader response means interpretation or evaluation developed by a reader.",
-      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
+      "summary": "The revision applies historical context accurately and purposefully.",
+      "hint": "Reject answers that add length without improving meaning."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-P-008",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "alternative response",
+    "stage": "core",
+    "skill": "historical context misconception",
     "printable": true,
     "type": "single",
-    "question": "Read this example from a student council meeting: “Another reader may see disloyalty, depending on values”. Which label best describes what the language is doing?",
-    "audioPrompt": "Read this example from a student council meeting: “Another reader may see disloyalty, depending on values”. Which label best describes what the language is doing?",
+    "question": "A student says, “Historical characters should be judged as if they had every modern choice.” Which response best corrects this claim?",
+    "audioPrompt": "A student says, “Historical characters should be judged as if they had every modern choice.” Which response best corrects this claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -227,29 +227,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Alternative response",
-      "Text evidence",
-      "Context",
-      "Interpretation"
+      "A response is strong whenever it states a feeling.",
+      "The claim is too broad; this example shows that knowledge of censorship explains why characters hint at danger instead of naming it.",
+      "Historical characters should be judged as if they had every modern choice.",
+      "Context excuses every harmful action."
     ],
-    "correct": 0,
-    "explanation": "“Another reader may see disloyalty, depending on values” is an example of Alternative response.\nHint: A response is strengthened by specific textual evidence and relevant context. Context explains possibilities but should not be used to stereotype all people from a time or place.",
+    "correct": 1,
+    "explanation": "The correction is limited, evidence-based and accurate.\nHint: Test absolute words such as always, never and automatically.",
     "structuredExplanation": {
-      "summary": "“Another reader may see disloyalty, depending on values” is an example of Alternative response.",
-      "hint": "A response is strengthened by specific textual evidence and relevant context. Context explains possibilities but should not be used to stereotype all people from a time or place."
+      "summary": "The correction is limited, evidence-based and accurate.",
+      "hint": "Test absolute words such as always, never and automatically."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-P-009",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "misconception repair",
+    "stage": "foundation",
+    "skill": "social context",
     "printable": true,
     "type": "single",
-    "question": "Which correction best fixes this idea: “Personal reaction treated as self-evident”?",
-    "audioPrompt": "Which correction best fixes this idea: “Personal reaction treated as self-evident”?",
+    "question": "Read: “A new student hides her lunch after classmates mock unfamiliar food.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “A new student hides her lunch after classmates mock unfamiliar food.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -257,29 +257,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Personal reaction treated as self-evident",
-      "Explain feature and evidence.",
-      "Historical character judged without context",
-      "Context used to excuse all actions"
+      "evidence-based response",
+      "historical context",
+      "social context",
+      "cultural context"
     ],
-    "correct": 1,
-    "explanation": "Explain feature and evidence. This fixes the misconception without creating a new rule that is too broad.\nHint: Check the actual language evidence rather than relying on an absolute rule.",
+    "correct": 2,
+    "explanation": "social context: The peer-group pressure helps explain her shame and later decision to speak up.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "Explain feature and evidence. This fixes the misconception without creating a new rule that is too broad.",
-      "hint": "Check the actual language evidence rather than relying on an absolute rule."
+      "summary": "social context: The peer-group pressure helps explain her shame and later decision to speak up.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-P-010",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "context",
+    "stage": "foundation",
+    "skill": "social context effect",
     "printable": true,
     "type": "single",
-    "question": "Which example would be most useful when explaining responses to characters and events across contexts in a environmental campaign?",
-    "audioPrompt": "Which example would be most useful when explaining responses to characters and events across contexts in a environmental campaign?",
+    "question": "What does the choice in “A new student hides her lunch after classmates mock unfamiliar food.” contribute to meaning?",
+    "audioPrompt": "What does the choice in “A new student hides her lunch after classmates mock unfamiliar food.” contribute to meaning?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -287,29 +287,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The order would endanger another person",
-      "The refusal can be read as courageous resistance",
-      "The institution expects unquestioned obedience",
-      "Another reader may see disloyalty, depending on values"
+      "This specific textual evidence supports a response that she is compassionate and courageous.",
+      "Knowledge of censorship explains why characters hint at danger instead of naming it.",
+      "The event may show responsibility to knowledge, relationships and collective authority.",
+      "The peer-group pressure helps explain her shame and later decision to speak up."
     ],
-    "correct": 2,
-    "explanation": "This example directly demonstrates Context and can be explained using the language clue in the text.\nHint: Students compare how readers may judge character decisions differently, use evidence from action, narration and context and distinguish interpretation from unsupported assumption or stereotype.",
+    "correct": 3,
+    "explanation": "The peer-group pressure helps explain her shame and later decision to speak up.\nHint: Link exact evidence to meaning, purpose or reader response.",
     "structuredExplanation": {
-      "summary": "This example directly demonstrates Context and can be explained using the language clue in the text.",
-      "hint": "Students compare how readers may judge character decisions differently, use evidence from action, narration and context and distinguish interpretation from unsupported assumption or stereotype."
+      "summary": "The peer-group pressure helps explain her shame and later decision to speak up.",
+      "hint": "Link exact evidence to meaning, purpose or reader response."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-P-011",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "interpretation",
+    "stage": "core",
+    "skill": "social context revision",
     "printable": true,
     "type": "single",
-    "question": "A museum caption includes “The refusal can be read as courageous resistance”. Why is this an effective example of Interpretation?",
-    "audioPrompt": "A museum caption includes “The refusal can be read as courageous resistance”. Why is this an effective example of Interpretation?",
+    "question": "Which revision best applies social context to this example?",
+    "audioPrompt": "Which revision best applies social context to this example?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -317,29 +317,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It matches the purpose and the language clue in the example.",
-      "A response is strengthened by specific textual evidence and relevant context. Context explains possibilities but should not be used to stereotype all people from a time or place.",
-      "It makes the intended language choice clear in context.",
-      "Different interpretations can both be defensible when they acknowledge evidence and limits."
+      "Use both the mocking dialogue and her actions as evidence of social pressure.",
+      "Nari appears courageous because she accepts personal risk to protect the child.",
+      "Connect the indirect wording to the restrictions on wartime communication.",
+      "Explain the represented value using details from this particular text."
     ],
-    "correct": 2,
-    "explanation": "The refusal can be read as courageous resistance works because its language choice fits the purpose and context.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 0,
+    "explanation": "The revision applies social context accurately and purposefully.\nHint: Reject answers that add length without improving meaning.",
     "structuredExplanation": {
-      "summary": "The refusal can be read as courageous resistance works because its language choice fits the purpose and context.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "The revision applies social context accurately and purposefully.",
+      "hint": "Reject answers that add length without improving meaning."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-P-012",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "core",
+    "skill": "social context misconception",
     "printable": true,
     "type": "single",
-    "question": "Why is “Consider available norms and constraints.” a better rule than “Historical character judged without context” when reading a student council meeting?",
-    "audioPrompt": "Why is “Consider available norms and constraints.” a better rule than “Historical character judged without context” when reading a student council meeting?",
+    "question": "A student says, “Context excuses every harmful action.” Which response best corrects this claim?",
+    "audioPrompt": "A student says, “Context excuses every harmful action.” Which response best corrects this claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -347,29 +347,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because the longest rule is always the best one.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words.",
-      "Because it keeps the useful distinction without turning it into an absolute rule."
+      "A response is strong whenever it states a feeling.",
+      "The claim is too broad; this example shows that the peer-group pressure helps explain her shame and later decision to speak up.",
+      "Historical characters should be judged as if they had every modern choice.",
+      "Context excuses every harmful action."
     ],
-    "correct": 3,
-    "explanation": "“Consider available norms and constraints.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 1,
+    "explanation": "The correction is limited, evidence-based and accurate.\nHint: Test absolute words such as always, never and automatically.",
     "structuredExplanation": {
-      "summary": "“Consider available norms and constraints.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The correction is limited, evidence-based and accurate.",
+      "hint": "Test absolute words such as always, never and automatically."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-P-013",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "text evidence",
+    "stage": "foundation",
+    "skill": "cultural context",
     "printable": true,
     "type": "single",
-    "question": "A local-history article includes “The order would endanger another person”. Why is this an effective example of Text evidence?",
-    "audioPrompt": "A local-history article includes “The order would endanger another person”. Why is this an effective example of Text evidence?",
+    "question": "Read: “A character pauses to seek an Elder’s guidance before making a community decision.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “A character pauses to seek an Elder’s guidance before making a community decision.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -377,29 +377,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It makes the intended language choice clear in context.",
-      "It matches the purpose and the language clue in the example.",
-      "A response is strengthened by specific textual evidence and relevant context. Context explains possibilities but should not be used to stereotype all people from a time or place.",
-      "Different interpretations can both be defensible when they acknowledge evidence and limits."
+      "evidence-based response",
+      "historical context",
+      "cultural context",
+      "social context"
     ],
-    "correct": 0,
-    "explanation": "The order would endanger another person works because its language choice fits the purpose and context.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 2,
+    "explanation": "cultural context: The event may show responsibility to knowledge, relationships and collective authority.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "The order would endanger another person works because its language choice fits the purpose and context.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "cultural context: The event may show responsibility to knowledge, relationships and collective authority.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-P-014",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "foundation",
+    "skill": "cultural context effect",
     "printable": true,
     "type": "single",
-    "question": "Why is “Limit claims to the text and representation.” a better rule than “One perspective generalised to a culture” when reading a environmental campaign?",
-    "audioPrompt": "Why is “Limit claims to the text and representation.” a better rule than “One perspective generalised to a culture” when reading a environmental campaign?",
+    "question": "What does the choice in “A character pauses to seek an Elder’s guidance before making a community decision.” contribute to meaning?",
+    "audioPrompt": "What does the choice in “A character pauses to seek an Elder’s guidance before making a community decision.” contribute to meaning?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -407,29 +407,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because the longest rule is always the best one.",
-      "Because it keeps the useful distinction without turning it into an absolute rule.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words."
+      "This specific textual evidence supports a response that she is compassionate and courageous.",
+      "Knowledge of censorship explains why characters hint at danger instead of naming it.",
+      "The peer-group pressure helps explain her shame and later decision to speak up.",
+      "The event may show responsibility to knowledge, relationships and collective authority."
     ],
-    "correct": 1,
-    "explanation": "“Limit claims to the text and representation.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 3,
+    "explanation": "The event may show responsibility to knowledge, relationships and collective authority.\nHint: Link exact evidence to meaning, purpose or reader response.",
     "structuredExplanation": {
-      "summary": "“Limit claims to the text and representation.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The event may show responsibility to knowledge, relationships and collective authority.",
+      "hint": "Link exact evidence to meaning, purpose or reader response."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-P-015",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "interpretation",
+    "stage": "core",
+    "skill": "cultural context revision",
     "printable": true,
     "type": "single",
-    "question": "A book-club discussion includes “The refusal can be read as courageous resistance”. Why is this an effective example of Interpretation?",
-    "audioPrompt": "A book-club discussion includes “The refusal can be read as courageous resistance”. Why is this an effective example of Interpretation?",
+    "question": "Which revision best applies cultural context to this example?",
+    "audioPrompt": "Which revision best applies cultural context to this example?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -437,29 +437,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It matches the purpose and the language clue in the example.",
-      "A response is strengthened by specific textual evidence and relevant context. Context explains possibilities but should not be used to stereotype all people from a time or place.",
-      "It makes the intended language choice clear in context.",
-      "Different interpretations can both be defensible when they acknowledge evidence and limits."
+      "Explain the represented value using details from this particular text.",
+      "Nari appears courageous because she accepts personal risk to protect the child.",
+      "Connect the indirect wording to the restrictions on wartime communication.",
+      "Use both the mocking dialogue and her actions as evidence of social pressure."
     ],
-    "correct": 2,
-    "explanation": "The refusal can be read as courageous resistance works because its language choice fits the purpose and context.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 0,
+    "explanation": "The revision applies cultural context accurately and purposefully.\nHint: Reject answers that add length without improving meaning.",
     "structuredExplanation": {
-      "summary": "The refusal can be read as courageous resistance works because its language choice fits the purpose and context.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "The revision applies cultural context accurately and purposefully.",
+      "hint": "Reject answers that add length without improving meaning."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-P-016",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "core",
+    "skill": "cultural context misconception",
     "printable": true,
     "type": "single",
-    "question": "Why is “Consider available norms and constraints.” a better rule than “Historical character judged without context” when reading a excursion briefing?",
-    "audioPrompt": "Why is “Consider available norms and constraints.” a better rule than “Historical character judged without context” when reading a excursion briefing?",
+    "question": "A student says, “One fictional character represents an entire culture.” Which response best corrects this claim?",
+    "audioPrompt": "A student says, “One fictional character represents an entire culture.” Which response best corrects this claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -467,29 +467,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because the longest rule is always the best one.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words.",
-      "Because it keeps the useful distinction without turning it into an absolute rule."
+      "A response is strong whenever it states a feeling.",
+      "The claim is too broad; this example shows that the event may show responsibility to knowledge, relationships and collective authority.",
+      "Historical characters should be judged as if they had every modern choice.",
+      "Context excuses every harmful action."
     ],
-    "correct": 3,
-    "explanation": "“Consider available norms and constraints.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 1,
+    "explanation": "The correction is limited, evidence-based and accurate.\nHint: Test absolute words such as always, never and automatically.",
     "structuredExplanation": {
-      "summary": "“Consider available norms and constraints.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The correction is limited, evidence-based and accurate.",
+      "hint": "Test absolute words such as always, never and automatically."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-P-017",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "text evidence",
+    "stage": "foundation",
+    "skill": "First Nations text protocol",
     "printable": true,
     "type": "single",
-    "question": "A design project includes “The order would endanger another person”. Why is this an effective example of Text evidence?",
-    "audioPrompt": "A design project includes “The order would endanger another person”. Why is this an effective example of Text evidence?",
+    "question": "Read: “The author’s note identifies Country, community consultation and permission for a story.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “The author’s note identifies Country, community consultation and permission for a story.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -497,29 +497,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It makes the intended language choice clear in context.",
-      "It matches the purpose and the language clue in the example.",
-      "A response is strengthened by specific textual evidence and relevant context. Context explains possibilities but should not be used to stereotype all people from a time or place.",
-      "Different interpretations can both be defensible when they acknowledge evidence and limits."
+      "evidence-based response",
+      "historical context",
+      "First Nations text protocol",
+      "social context"
     ],
-    "correct": 0,
-    "explanation": "The order would endanger another person works because its language choice fits the purpose and context.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 2,
+    "explanation": "First Nations text protocol: These details help readers understand whose knowledge is shared and under what authority.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "The order would endanger another person works because its language choice fits the purpose and context.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "First Nations text protocol: These details help readers understand whose knowledge is shared and under what authority.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-P-018",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "foundation",
+    "skill": "First Nations text protocol effect",
     "printable": true,
     "type": "single",
-    "question": "Why is “Limit claims to the text and representation.” a better rule than “One perspective generalised to a culture” when reading a weather report?",
-    "audioPrompt": "Why is “Limit claims to the text and representation.” a better rule than “One perspective generalised to a culture” when reading a weather report?",
+    "question": "What does the choice in “The author’s note identifies Country, community consultation and permission for a story.” contribute to meaning?",
+    "audioPrompt": "What does the choice in “The author’s note identifies Country, community consultation and permission for a story.” contribute to meaning?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -527,29 +527,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because the longest rule is always the best one.",
-      "Because it keeps the useful distinction without turning it into an absolute rule.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words."
+      "This specific textual evidence supports a response that she is compassionate and courageous.",
+      "Knowledge of censorship explains why characters hint at danger instead of naming it.",
+      "The peer-group pressure helps explain her shame and later decision to speak up.",
+      "These details help readers understand whose knowledge is shared and under what authority."
     ],
-    "correct": 1,
-    "explanation": "“Limit claims to the text and representation.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 3,
+    "explanation": "These details help readers understand whose knowledge is shared and under what authority.\nHint: Link exact evidence to meaning, purpose or reader response.",
     "structuredExplanation": {
-      "summary": "“Limit claims to the text and representation.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "These details help readers understand whose knowledge is shared and under what authority.",
+      "hint": "Link exact evidence to meaning, purpose or reader response."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-P-019",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "interpretation",
+    "stage": "application",
+    "skill": "First Nations text protocol revision",
     "printable": true,
     "type": "single",
-    "question": "A school assembly includes “The refusal can be read as courageous resistance”. Why is this an effective example of Interpretation?",
-    "audioPrompt": "A school assembly includes “The refusal can be read as courageous resistance”. Why is this an effective example of Interpretation?",
+    "question": "Which revision best applies First Nations text protocol to this example?",
+    "audioPrompt": "Which revision best applies First Nations text protocol to this example?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -557,29 +557,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It matches the purpose and the language clue in the example.",
-      "A response is strengthened by specific textual evidence and relevant context. Context explains possibilities but should not be used to stereotype all people from a time or place.",
-      "It makes the intended language choice clear in context.",
-      "Different interpretations can both be defensible when they acknowledge evidence and limits."
+      "Name the author and community information provided rather than making broad claims.",
+      "Nari appears courageous because she accepts personal risk to protect the child.",
+      "Connect the indirect wording to the restrictions on wartime communication.",
+      "Use both the mocking dialogue and her actions as evidence of social pressure."
     ],
-    "correct": 2,
-    "explanation": "The refusal can be read as courageous resistance works because its language choice fits the purpose and context.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 0,
+    "explanation": "The revision applies First Nations text protocol accurately and purposefully.\nHint: Reject answers that add length without improving meaning.",
     "structuredExplanation": {
-      "summary": "The refusal can be read as courageous resistance works because its language choice fits the purpose and context.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "The revision applies First Nations text protocol accurately and purposefully.",
+      "hint": "Reject answers that add length without improving meaning."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-P-020",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "core",
+    "skill": "First Nations text protocol misconception",
     "printable": true,
     "type": "single",
-    "question": "Why is “Consider available norms and constraints.” a better rule than “Historical character judged without context” when reading a peer feedback session?",
-    "audioPrompt": "Why is “Consider available norms and constraints.” a better rule than “Historical character judged without context” when reading a peer feedback session?",
+    "question": "A student says, “All First Nations Australian stories can be discussed as one tradition.” Which response best corrects this claim?",
+    "audioPrompt": "A student says, “All First Nations Australian stories can be discussed as one tradition.” Which response best corrects this claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -587,29 +587,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because the longest rule is always the best one.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words.",
-      "Because it keeps the useful distinction without turning it into an absolute rule."
+      "A response is strong whenever it states a feeling.",
+      "The claim is too broad; this example shows that these details help readers understand whose knowledge is shared and under what authority.",
+      "Historical characters should be judged as if they had every modern choice.",
+      "Context excuses every harmful action."
     ],
-    "correct": 3,
-    "explanation": "“Consider available norms and constraints.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 1,
+    "explanation": "The correction is limited, evidence-based and accurate.\nHint: Test absolute words such as always, never and automatically.",
     "structuredExplanation": {
-      "summary": "“Consider available norms and constraints.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The correction is limited, evidence-based and accurate.",
+      "hint": "Test absolute words such as always, never and automatically."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-P-021",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "foundation",
+    "skill": "alternative interpretation",
     "printable": true,
     "type": "single",
-    "question": "A excursion briefing could use either “The order would endanger another person” or “duty to group or relationship”. Which comparison is most accurate?",
-    "audioPrompt": "A excursion briefing could use either “The order would endanger another person” or “duty to group or relationship”. Which comparison is most accurate?",
+    "question": "Read: “One reader calls the refusal brave; another sees it as disloyal to the group.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “One reader calls the refusal brave; another sees it as disloyal to the group.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -617,29 +617,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer.",
-      "“The order would endanger another person” shows Text evidence, while “duty to group or relationship” shows loyalty."
+      "evidence-based response",
+      "historical context",
+      "alternative interpretation",
+      "social context"
     ],
-    "correct": 3,
-    "explanation": "The important difference is the language function: Text evidence versus loyalty.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "correct": 2,
+    "explanation": "alternative interpretation: Both responses may be defensible if each uses the character’s motives and consequences.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: Text evidence versus loyalty.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "alternative interpretation: Both responses may be defensible if each uses the character’s motives and consequences.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-P-022",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "foundation",
+    "skill": "alternative interpretation effect",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Context used to excuse all actions” in a design project?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Context used to excuse all actions” in a design project?",
+    "question": "What does the choice in “One reader calls the refusal brave; another sees it as disloyal to the group.” contribute to meaning?",
+    "audioPrompt": "What does the choice in “One reader calls the refusal brave; another sees it as disloyal to the group.” contribute to meaning?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -647,29 +647,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Context explains but does not remove evaluation.",
-      "Personal reaction treated as self-evident",
-      "Historical character judged without context",
-      "Context used to excuse all actions"
+      "This specific textual evidence supports a response that she is compassionate and courageous.",
+      "Knowledge of censorship explains why characters hint at danger instead of naming it.",
+      "The peer-group pressure helps explain her shame and later decision to speak up.",
+      "Both responses may be defensible if each uses the character’s motives and consequences."
     ],
-    "correct": 0,
-    "explanation": "Context explains but does not remove evaluation. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Different interpretations can both be defensible when they acknowledge evidence and limits.",
+    "correct": 3,
+    "explanation": "Both responses may be defensible if each uses the character’s motives and consequences.\nHint: Link exact evidence to meaning, purpose or reader response.",
     "structuredExplanation": {
-      "summary": "Context explains but does not remove evaluation. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Different interpretations can both be defensible when they acknowledge evidence and limits."
+      "summary": "Both responses may be defensible if each uses the character’s motives and consequences.",
+      "hint": "Link exact evidence to meaning, purpose or reader response."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-P-023",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "application",
+    "skill": "alternative interpretation revision",
     "printable": true,
     "type": "single",
-    "question": "A weather report could use either “The refusal can be read as courageous resistance” or “emotional connection”. Which comparison is most accurate?",
-    "audioPrompt": "A weather report could use either “The refusal can be read as courageous resistance” or “emotional connection”. Which comparison is most accurate?",
+    "question": "Which revision best applies alternative interpretation to this example?",
+    "audioPrompt": "Which revision best applies alternative interpretation to this example?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -677,29 +677,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "“The refusal can be read as courageous resistance” shows Interpretation, while “emotional connection” shows personal experience.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer."
+      "Compare the evidence each reader values and state the limits of both readings.",
+      "Nari appears courageous because she accepts personal risk to protect the child.",
+      "Connect the indirect wording to the restrictions on wartime communication.",
+      "Use both the mocking dialogue and her actions as evidence of social pressure."
     ],
-    "correct": 1,
-    "explanation": "The important difference is the language function: Interpretation versus personal experience.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "correct": 0,
+    "explanation": "The revision applies alternative interpretation accurately and purposefully.\nHint: Reject answers that add length without improving meaning.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: Interpretation versus personal experience.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "The revision applies alternative interpretation accurately and purposefully.",
+      "hint": "Reject answers that add length without improving meaning."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-P-024",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "core",
+    "skill": "alternative interpretation misconception",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Personal reaction treated as self-evident” in a school assembly?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Personal reaction treated as self-evident” in a school assembly?",
+    "question": "A student says, “Only one reader response can be valid.” Which response best corrects this claim?",
+    "audioPrompt": "A student says, “Only one reader response can be valid.” Which response best corrects this claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -707,29 +707,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Personal reaction treated as self-evident",
-      "Historical character judged without context",
-      "Explain feature and evidence.",
-      "Context used to excuse all actions"
+      "A response is strong whenever it states a feeling.",
+      "The claim is too broad; this example shows that both responses may be defensible if each uses the character’s motives and consequences.",
+      "Historical characters should be judged as if they had every modern choice.",
+      "Context excuses every harmful action."
     ],
-    "correct": 2,
-    "explanation": "Explain feature and evidence. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Different interpretations can both be defensible when they acknowledge evidence and limits.",
+    "correct": 1,
+    "explanation": "The correction is limited, evidence-based and accurate.\nHint: Test absolute words such as always, never and automatically.",
     "structuredExplanation": {
-      "summary": "Explain feature and evidence. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Different interpretations can both be defensible when they acknowledge evidence and limits."
+      "summary": "The correction is limited, evidence-based and accurate.",
+      "hint": "Test absolute words such as always, never and automatically."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-P-025",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "foundation",
+    "skill": "narrator reliability",
     "printable": true,
     "type": "single",
-    "question": "A peer feedback session could use either “The order would endanger another person” or “fairness and consequences”. Which comparison is most accurate?",
-    "audioPrompt": "A peer feedback session could use either “The order would endanger another person” or “fairness and consequences”. Which comparison is most accurate?",
+    "question": "Read: “The narrator insists he was calm, but other characters notice his shaking hands.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “The narrator insists he was calm, but other characters notice his shaking hands.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -737,29 +737,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer.",
-      "“The order would endanger another person” shows Text evidence, while “fairness and consequences” shows justice."
+      "evidence-based response",
+      "historical context",
+      "narrator reliability",
+      "social context"
     ],
-    "correct": 3,
-    "explanation": "The important difference is the language function: Text evidence versus justice.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "correct": 2,
+    "explanation": "narrator reliability: The contrast invites readers to question his self-description.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: Text evidence versus justice.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "narrator reliability: The contrast invites readers to question his self-description.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-P-026",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "core",
+    "skill": "narrator reliability effect",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Context used to excuse all actions” in a cooking demonstration?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Context used to excuse all actions” in a cooking demonstration?",
+    "question": "What does the choice in “The narrator insists he was calm, but other characters notice his shaking hands.” contribute to meaning?",
+    "audioPrompt": "What does the choice in “The narrator insists he was calm, but other characters notice his shaking hands.” contribute to meaning?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -767,29 +767,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Context explains but does not remove evaluation.",
-      "Personal reaction treated as self-evident",
-      "Historical character judged without context",
-      "Context used to excuse all actions"
+      "This specific textual evidence supports a response that she is compassionate and courageous.",
+      "Knowledge of censorship explains why characters hint at danger instead of naming it.",
+      "The peer-group pressure helps explain her shame and later decision to speak up.",
+      "The contrast invites readers to question his self-description."
     ],
-    "correct": 0,
-    "explanation": "Context explains but does not remove evaluation. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Different interpretations can both be defensible when they acknowledge evidence and limits.",
+    "correct": 3,
+    "explanation": "The contrast invites readers to question his self-description.\nHint: Link exact evidence to meaning, purpose or reader response.",
     "structuredExplanation": {
-      "summary": "Context explains but does not remove evaluation. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Different interpretations can both be defensible when they acknowledge evidence and limits."
+      "summary": "The contrast invites readers to question his self-description.",
+      "hint": "Link exact evidence to meaning, purpose or reader response."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-P-027",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "application",
+    "skill": "narrator reliability revision",
     "printable": true,
     "type": "single",
-    "question": "A arts review could use either “The refusal can be read as courageous resistance” or “available choices and conventions”. Which comparison is most accurate?",
-    "audioPrompt": "A arts review could use either “The refusal can be read as courageous resistance” or “available choices and conventions”. Which comparison is most accurate?",
+    "question": "Which revision best applies narrator reliability to this example?",
+    "audioPrompt": "Which revision best applies narrator reliability to this example?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -797,29 +797,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "“The refusal can be read as courageous resistance” shows Interpretation, while “available choices and conventions” shows historical knowledge.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer."
+      "Cite both his claim and the observed physical detail.",
+      "Nari appears courageous because she accepts personal risk to protect the child.",
+      "Connect the indirect wording to the restrictions on wartime communication.",
+      "Use both the mocking dialogue and her actions as evidence of social pressure."
     ],
-    "correct": 1,
-    "explanation": "The important difference is the language function: Interpretation versus historical knowledge.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "correct": 0,
+    "explanation": "The revision applies narrator reliability accurately and purposefully.\nHint: Reject answers that add length without improving meaning.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: Interpretation versus historical knowledge.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "The revision applies narrator reliability accurately and purposefully.",
+      "hint": "Reject answers that add length without improving meaning."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-P-028",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "core",
+    "skill": "narrator reliability misconception",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Personal reaction treated as self-evident” in a technology presentation?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Personal reaction treated as self-evident” in a technology presentation?",
+    "question": "A student says, “A first-person narrator always gives the complete truth.” Which response best corrects this claim?",
+    "audioPrompt": "A student says, “A first-person narrator always gives the complete truth.” Which response best corrects this claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -827,29 +827,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Personal reaction treated as self-evident",
-      "Historical character judged without context",
-      "Explain feature and evidence.",
-      "Context used to excuse all actions"
+      "A response is strong whenever it states a feeling.",
+      "The claim is too broad; this example shows that the contrast invites readers to question his self-description.",
+      "Historical characters should be judged as if they had every modern choice.",
+      "Context excuses every harmful action."
     ],
-    "correct": 2,
-    "explanation": "Explain feature and evidence. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Different interpretations can both be defensible when they acknowledge evidence and limits.",
+    "correct": 1,
+    "explanation": "The correction is limited, evidence-based and accurate.\nHint: Test absolute words such as always, never and automatically.",
     "structuredExplanation": {
-      "summary": "Explain feature and evidence. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Different interpretations can both be defensible when they acknowledge evidence and limits."
+      "summary": "The correction is limited, evidence-based and accurate.",
+      "hint": "Test absolute words such as always, never and automatically."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-P-029",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "foundation",
+    "skill": "withheld information",
     "printable": true,
     "type": "single",
-    "question": "A playground consultation could use either “The order would endanger another person” or “narrator reliability and withheld information”. Which comparison is most accurate?",
-    "audioPrompt": "A playground consultation could use either “The order would endanger another person” or “narrator reliability and withheld information”. Which comparison is most accurate?",
+    "question": "Read: “Readers initially condemn Mara’s silence, then learn she was protecting a witness.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “Readers initially condemn Mara’s silence, then learn she was protecting a witness.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -857,29 +857,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer.",
-      "“The order would endanger another person” shows Text evidence, while “narrator reliability and withheld information” shows textual craft."
+      "evidence-based response",
+      "historical context",
+      "withheld information",
+      "social context"
     ],
-    "correct": 3,
-    "explanation": "The important difference is the language function: Text evidence versus textual craft.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "correct": 2,
+    "explanation": "withheld information: New evidence reasonably changes the moral interpretation of her decision.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: Text evidence versus textual craft.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "withheld information: New evidence reasonably changes the moral interpretation of her decision.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-P-030",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "core",
+    "skill": "withheld information effect",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Context used to excuse all actions” in a class podcast?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Context used to excuse all actions” in a class podcast?",
+    "question": "What does the choice in “Readers initially condemn Mara’s silence, then learn she was protecting a witness.” contribute to meaning?",
+    "audioPrompt": "What does the choice in “Readers initially condemn Mara’s silence, then learn she was protecting a witness.” contribute to meaning?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -887,29 +887,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Context explains but does not remove evaluation.",
-      "Personal reaction treated as self-evident",
-      "Historical character judged without context",
-      "Context used to excuse all actions"
+      "This specific textual evidence supports a response that she is compassionate and courageous.",
+      "Knowledge of censorship explains why characters hint at danger instead of naming it.",
+      "The peer-group pressure helps explain her shame and later decision to speak up.",
+      "New evidence reasonably changes the moral interpretation of her decision."
     ],
-    "correct": 0,
-    "explanation": "Context explains but does not remove evaluation. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Different interpretations can both be defensible when they acknowledge evidence and limits.",
+    "correct": 3,
+    "explanation": "New evidence reasonably changes the moral interpretation of her decision.\nHint: Link exact evidence to meaning, purpose or reader response.",
     "structuredExplanation": {
-      "summary": "Context explains but does not remove evaluation. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Different interpretations can both be defensible when they acknowledge evidence and limits."
+      "summary": "New evidence reasonably changes the moral interpretation of her decision.",
+      "hint": "Link exact evidence to meaning, purpose or reader response."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-P-031",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "add context",
+    "stage": "application",
+    "skill": "withheld information revision",
     "printable": true,
     "type": "single",
-    "question": "You are editing a community garden proposal. Which statement recognises interpretive difference?",
-    "audioPrompt": "You are editing a community garden proposal. Which statement recognises interpretive difference?",
+    "question": "Which revision best applies withheld information to this example?",
+    "audioPrompt": "Which revision best applies withheld information to this example?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -917,29 +917,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Another reader may value loyalty more strongly, but must still use evidence",
-      "Only one reader response is possible",
-      "Context proves the character is correct",
-      "Personal preference needs no text"
+      "Revise the response and explain which revealed detail caused the change.",
+      "Nari appears courageous because she accepts personal risk to protect the child.",
+      "Connect the indirect wording to the restrictions on wartime communication.",
+      "Use both the mocking dialogue and her actions as evidence of social pressure."
     ],
     "correct": 0,
-    "explanation": "“Another reader may value loyalty more strongly, but must still use evidence” best fits the purpose and the language evidence in this new situation.\nHint: Different interpretations can both be defensible when they acknowledge evidence and limits.",
+    "explanation": "The revision applies withheld information accurately and purposefully.\nHint: Reject answers that add length without improving meaning.",
     "structuredExplanation": {
-      "summary": "“Another reader may value loyalty more strongly, but must still use evidence” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Different interpretations can both be defensible when they acknowledge evidence and limits."
+      "summary": "The revision applies withheld information accurately and purposefully.",
+      "hint": "Reject answers that add length without improving meaning."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-P-032",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "loyalty",
+    "stage": "core",
+    "skill": "withheld information misconception",
     "printable": true,
     "type": "single",
-    "question": "A sports-club discussion needs a clear example of loyalty. Which wording should you choose?",
-    "audioPrompt": "A sports-club discussion needs a clear example of loyalty. Which wording should you choose?",
+    "question": "A student says, “A reader should never change an initial response.” Which response best corrects this claim?",
+    "audioPrompt": "A student says, “A reader should never change an initial response.” Which response best corrects this claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -947,29 +947,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "fairness and consequences",
-      "duty to group or relationship",
-      "available choices and conventions",
-      "emotional connection"
+      "A response is strong whenever it states a feeling.",
+      "The claim is too broad; this example shows that new evidence reasonably changes the moral interpretation of her decision.",
+      "Historical characters should be judged as if they had every modern choice.",
+      "Context excuses every harmful action."
     ],
     "correct": 1,
-    "explanation": "“duty to group or relationship” is the best choice because it demonstrates loyalty in context.\nHint: Choose the wording that performs the required job, not merely one that sounds fluent.",
+    "explanation": "The correction is limited, evidence-based and accurate.\nHint: Test absolute words such as always, never and automatically.",
     "structuredExplanation": {
-      "summary": "“duty to group or relationship” is the best choice because it demonstrates loyalty in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "The correction is limited, evidence-based and accurate.",
+      "hint": "Test absolute words such as always, never and automatically."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-P-033",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "reader response",
+    "stage": "foundation",
+    "skill": "character motivation",
     "printable": true,
     "type": "single",
-    "question": "While revising a library display, you need language that matches “interpretation or evaluation developed by a reader”. Which concept should guide your choice?",
-    "audioPrompt": "While revising a library display, you need language that matches “interpretation or evaluation developed by a reader”. Which concept should guide your choice?",
+    "question": "Read: “Jin enters the forbidden shed to recover his sister’s medicine.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “Jin enters the forbidden shed to recover his sister’s medicine.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -977,29 +977,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "context",
-      "textual evidence",
-      "reader response",
-      "It does not match the evidence in the example."
+      "evidence-based response",
+      "historical context",
+      "character motivation",
+      "social context"
     ],
     "correct": 2,
-    "explanation": "reader response is the concept that matches interpretation or evaluation developed by a reader.\nHint: Use the definition to guide the decision, then check it against the sentence.",
+    "explanation": "character motivation: The urgent goal complicates a simple judgement that he is merely disobedient.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "reader response is the concept that matches interpretation or evaluation developed by a reader.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "character motivation: The urgent goal complicates a simple judgement that he is merely disobedient.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-P-034",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "state response",
+    "stage": "core",
+    "skill": "character motivation effect",
     "printable": true,
     "type": "single",
-    "question": "You are editing a museum caption. Which statement recognises interpretive difference?",
-    "audioPrompt": "You are editing a museum caption. Which statement recognises interpretive difference?",
+    "question": "What does the choice in “Jin enters the forbidden shed to recover his sister’s medicine.” contribute to meaning?",
+    "audioPrompt": "What does the choice in “Jin enters the forbidden shed to recover his sister’s medicine.” contribute to meaning?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1007,29 +1007,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Only one reader response is possible",
-      "Context proves the character is correct",
-      "Personal preference needs no text",
-      "Another reader may value loyalty more strongly, but must still use evidence"
+      "This specific textual evidence supports a response that she is compassionate and courageous.",
+      "Knowledge of censorship explains why characters hint at danger instead of naming it.",
+      "The peer-group pressure helps explain her shame and later decision to speak up.",
+      "The urgent goal complicates a simple judgement that he is merely disobedient."
     ],
     "correct": 3,
-    "explanation": "“Another reader may value loyalty more strongly, but must still use evidence” best fits the purpose and the language evidence in this new situation.\nHint: Different interpretations can both be defensible when they acknowledge evidence and limits.",
+    "explanation": "The urgent goal complicates a simple judgement that he is merely disobedient.\nHint: Link exact evidence to meaning, purpose or reader response.",
     "structuredExplanation": {
-      "summary": "“Another reader may value loyalty more strongly, but must still use evidence” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Different interpretations can both be defensible when they acknowledge evidence and limits."
+      "summary": "The urgent goal complicates a simple judgement that he is merely disobedient.",
+      "hint": "Link exact evidence to meaning, purpose or reader response."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-P-035",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "textual craft",
+    "stage": "application",
+    "skill": "character motivation revision",
     "printable": true,
     "type": "single",
-    "question": "A student council meeting needs a clear example of textual craft. Which wording should you choose?",
-    "audioPrompt": "A student council meeting needs a clear example of textual craft. Which wording should you choose?",
+    "question": "Which revision best applies character motivation to this example?",
+    "audioPrompt": "Which revision best applies character motivation to this example?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1037,29 +1037,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "narrator reliability and withheld information",
-      "fairness and consequences",
-      "duty to group or relationship",
-      "available choices and conventions"
+      "Evaluate both the rule-breaking and the protective motive.",
+      "Nari appears courageous because she accepts personal risk to protect the child.",
+      "Connect the indirect wording to the restrictions on wartime communication.",
+      "Use both the mocking dialogue and her actions as evidence of social pressure."
     ],
     "correct": 0,
-    "explanation": "“narrator reliability and withheld information” is the best choice because it demonstrates textual craft in context.\nHint: Choose the wording that performs the required job, not merely one that sounds fluent.",
+    "explanation": "The revision applies character motivation accurately and purposefully.\nHint: Reject answers that add length without improving meaning.",
     "structuredExplanation": {
-      "summary": "“narrator reliability and withheld information” is the best choice because it demonstrates textual craft in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "The revision applies character motivation accurately and purposefully.",
+      "hint": "Reject answers that add length without improving meaning."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-P-036",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "reader response",
+    "stage": "challenge",
+    "skill": "character motivation misconception",
     "printable": true,
     "type": "single",
-    "question": "While revising a local-history article, you need language that matches “interpretation or evaluation developed by a reader”. Which concept should guide your choice?",
-    "audioPrompt": "While revising a local-history article, you need language that matches “interpretation or evaluation developed by a reader”. Which concept should guide your choice?",
+    "question": "A student says, “A good motive erases every consequence.” Which response best corrects this claim?",
+    "audioPrompt": "A student says, “A good motive erases every consequence.” Which response best corrects this claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1067,29 +1067,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "context",
-      "reader response",
-      "textual evidence",
-      "It does not match the evidence in the example."
+      "A response is strong whenever it states a feeling.",
+      "The claim is too broad; this example shows that the urgent goal complicates a simple judgement that he is merely disobedient.",
+      "Historical characters should be judged as if they had every modern choice.",
+      "Context excuses every harmful action."
     ],
     "correct": 1,
-    "explanation": "reader response is the concept that matches interpretation or evaluation developed by a reader.\nHint: Use the definition to guide the decision, then check it against the sentence.",
+    "explanation": "The correction is limited, evidence-based and accurate.\nHint: Test absolute words such as always, never and automatically.",
     "structuredExplanation": {
-      "summary": "reader response is the concept that matches interpretation or evaluation developed by a reader.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "The correction is limited, evidence-based and accurate.",
+      "hint": "Test absolute words such as always, never and automatically."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-P-037",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "compare two readers",
+    "stage": "foundation",
+    "skill": "event consequence",
     "printable": true,
     "type": "single",
-    "question": "You are editing a environmental campaign. Which statement recognises interpretive difference?",
-    "audioPrompt": "You are editing a environmental campaign. Which statement recognises interpretive difference?",
+    "question": "Read: “The captain’s shortcut saves time but damages a nesting site.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “The captain’s shortcut saves time but damages a nesting site.” Which description best identifies the relevant choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1097,29 +1097,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Only one reader response is possible",
-      "Context proves the character is correct",
-      "Another reader may value loyalty more strongly, but must still use evidence",
-      "Personal preference needs no text"
+      "evidence-based response",
+      "historical context",
+      "event consequence",
+      "social context"
     ],
     "correct": 2,
-    "explanation": "“Another reader may value loyalty more strongly, but must still use evidence” best fits the purpose and the language evidence in this new situation.\nHint: Different interpretations can both be defensible when they acknowledge evidence and limits.",
+    "explanation": "event consequence: The mixed consequences support a qualified rather than absolute judgement.\nHint: Name the feature precisely.",
     "structuredExplanation": {
-      "summary": "“Another reader may value loyalty more strongly, but must still use evidence” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Different interpretations can both be defensible when they acknowledge evidence and limits."
+      "summary": "event consequence: The mixed consequences support a qualified rather than absolute judgement.",
+      "hint": "Name the feature precisely."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-P-038",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "historical knowledge",
+    "stage": "core",
+    "skill": "event consequence effect",
     "printable": true,
     "type": "single",
-    "question": "A book-club discussion needs a clear example of historical knowledge. Which wording should you choose?",
-    "audioPrompt": "A book-club discussion needs a clear example of historical knowledge. Which wording should you choose?",
+    "question": "What does the choice in “The captain’s shortcut saves time but damages a nesting site.” contribute to meaning?",
+    "audioPrompt": "What does the choice in “The captain’s shortcut saves time but damages a nesting site.” contribute to meaning?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1127,29 +1127,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "fairness and consequences",
-      "duty to group or relationship",
-      "emotional connection",
-      "available choices and conventions"
+      "This specific textual evidence supports a response that she is compassionate and courageous.",
+      "Knowledge of censorship explains why characters hint at danger instead of naming it.",
+      "The peer-group pressure helps explain her shame and later decision to speak up.",
+      "The mixed consequences support a qualified rather than absolute judgement."
     ],
     "correct": 3,
-    "explanation": "“available choices and conventions” is the best choice because it demonstrates historical knowledge in context.\nHint: Choose the wording that performs the required job, not merely one that sounds fluent.",
+    "explanation": "The mixed consequences support a qualified rather than absolute judgement.\nHint: Link exact evidence to meaning, purpose or reader response.",
     "structuredExplanation": {
-      "summary": "“available choices and conventions” is the best choice because it demonstrates historical knowledge in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "The mixed consequences support a qualified rather than absolute judgement.",
+      "hint": "Link exact evidence to meaning, purpose or reader response."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-P-039",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "reader response",
+    "stage": "application",
+    "skill": "event consequence revision",
     "printable": true,
     "type": "single",
-    "question": "While revising a excursion briefing, you need language that matches “interpretation or evaluation developed by a reader”. Which concept should guide your choice?",
-    "audioPrompt": "While revising a excursion briefing, you need language that matches “interpretation or evaluation developed by a reader”. Which concept should guide your choice?",
+    "question": "Which revision best applies event consequence to this example?",
+    "audioPrompt": "Which revision best applies event consequence to this example?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1157,29 +1157,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "reader response",
-      "context",
-      "textual evidence",
-      "It does not match the evidence in the example."
+      "Judge the choice using its intended benefit and environmental cost.",
+      "Nari appears courageous because she accepts personal risk to protect the child.",
+      "Connect the indirect wording to the restrictions on wartime communication.",
+      "Use both the mocking dialogue and her actions as evidence of social pressure."
     ],
     "correct": 0,
-    "explanation": "reader response is the concept that matches interpretation or evaluation developed by a reader.\nHint: Use the definition to guide the decision, then check it against the sentence.",
+    "explanation": "The revision applies event consequence accurately and purposefully.\nHint: Reject answers that add length without improving meaning.",
     "structuredExplanation": {
-      "summary": "reader response is the concept that matches interpretation or evaluation developed by a reader.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "The revision applies event consequence accurately and purposefully.",
+      "hint": "Reject answers that add length without improving meaning."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-P-040",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "cite character evidence",
+    "stage": "challenge",
+    "skill": "event consequence misconception",
     "printable": true,
     "type": "single",
-    "question": "You are editing a design project. Which statement recognises interpretive difference?",
-    "audioPrompt": "You are editing a design project. Which statement recognises interpretive difference?",
+    "question": "A student says, “An intended good result makes an action completely right.” Which response best corrects this claim?",
+    "audioPrompt": "A student says, “An intended good result makes an action completely right.” Which response best corrects this claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1187,18 +1187,258 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Only one reader response is possible",
-      "Another reader may value loyalty more strongly, but must still use evidence",
-      "Context proves the character is correct",
-      "Personal preference needs no text"
+      "A response is strong whenever it states a feeling.",
+      "The claim is too broad; this example shows that the mixed consequences support a qualified rather than absolute judgement.",
+      "Historical characters should be judged as if they had every modern choice.",
+      "Context excuses every harmful action."
     ],
     "correct": 1,
-    "explanation": "“Another reader may value loyalty more strongly, but must still use evidence” best fits the purpose and the language evidence in this new situation.\nHint: Different interpretations can both be defensible when they acknowledge evidence and limits.",
+    "explanation": "The correction is limited, evidence-based and accurate.\nHint: Test absolute words such as always, never and automatically.",
     "structuredExplanation": {
-      "summary": "“Another reader may value loyalty more strongly, but must still use evidence” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Different interpretations can both be defensible when they acknowledge evidence and limits."
+      "summary": "The correction is limited, evidence-based and accurate.",
+      "hint": "Test absolute words such as always, never and automatically."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LE01-P-041",
+    "curriculumCode": "AC9E6LE01",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "context without stereotype",
+    "printable": true,
+    "type": "single",
+    "question": "Read: “In this novel, the village council expects decisions to be discussed collectively.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “In this novel, the village council expects decisions to be discussed collectively.” Which description best identifies the relevant choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "evidence-based response",
+      "historical context",
+      "context without stereotype",
+      "social context"
+    ],
+    "correct": 2,
+    "explanation": "context without stereotype: The claim stays tied to the represented community and this text.\nHint: Name the feature precisely.",
+    "structuredExplanation": {
+      "summary": "context without stereotype: The claim stays tied to the represented community and this text.",
+      "hint": "Name the feature precisely."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LE01-P-042",
+    "curriculumCode": "AC9E6LE01",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "context without stereotype effect",
+    "printable": true,
+    "type": "single",
+    "question": "What does the choice in “In this novel, the village council expects decisions to be discussed collectively.” contribute to meaning?",
+    "audioPrompt": "What does the choice in “In this novel, the village council expects decisions to be discussed collectively.” contribute to meaning?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "This specific textual evidence supports a response that she is compassionate and courageous.",
+      "Knowledge of censorship explains why characters hint at danger instead of naming it.",
+      "The peer-group pressure helps explain her shame and later decision to speak up.",
+      "The claim stays tied to the represented community and this text."
+    ],
+    "correct": 3,
+    "explanation": "The claim stays tied to the represented community and this text.\nHint: Link exact evidence to meaning, purpose or reader response.",
+    "structuredExplanation": {
+      "summary": "The claim stays tied to the represented community and this text.",
+      "hint": "Link exact evidence to meaning, purpose or reader response."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LE01-P-043",
+    "curriculumCode": "AC9E6LE01",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "context without stereotype revision",
+    "printable": true,
+    "type": "single",
+    "question": "Which revision best applies context without stereotype to this example?",
+    "audioPrompt": "Which revision best applies context without stereotype to this example?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Write “In this novel, the council…” rather than “People from this culture always…”.",
+      "Nari appears courageous because she accepts personal risk to protect the child.",
+      "Connect the indirect wording to the restrictions on wartime communication.",
+      "Use both the mocking dialogue and her actions as evidence of social pressure."
+    ],
+    "correct": 0,
+    "explanation": "The revision applies context without stereotype accurately and purposefully.\nHint: Reject answers that add length without improving meaning.",
+    "structuredExplanation": {
+      "summary": "The revision applies context without stereotype accurately and purposefully.",
+      "hint": "Reject answers that add length without improving meaning."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LE01-P-044",
+    "curriculumCode": "AC9E6LE01",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "context without stereotype misconception",
+    "printable": true,
+    "type": "single",
+    "question": "A student says, “Context permits claims about every person in a group.” Which response best corrects this claim?",
+    "audioPrompt": "A student says, “Context permits claims about every person in a group.” Which response best corrects this claim?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A response is strong whenever it states a feeling.",
+      "The claim is too broad; this example shows that the claim stays tied to the represented community and this text.",
+      "Historical characters should be judged as if they had every modern choice.",
+      "Context excuses every harmful action."
+    ],
+    "correct": 1,
+    "explanation": "The correction is limited, evidence-based and accurate.\nHint: Test absolute words such as always, never and automatically.",
+    "structuredExplanation": {
+      "summary": "The correction is limited, evidence-based and accurate.",
+      "hint": "Test absolute words such as always, never and automatically."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LE01-P-045",
+    "curriculumCode": "AC9E6LE01",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "qualified synthesis",
+    "printable": true,
+    "type": "single",
+    "question": "Read: “The character’s secrecy is understandable under the threat, but it still harms her friend.” Which description best identifies the relevant choice?",
+    "audioPrompt": "Read: “The character’s secrecy is understandable under the threat, but it still harms her friend.” Which description best identifies the relevant choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "evidence-based response",
+      "historical context",
+      "qualified synthesis",
+      "social context"
+    ],
+    "correct": 2,
+    "explanation": "qualified synthesis: The response weighs context and consequence instead of excusing or condemning absolutely.\nHint: Name the feature precisely.",
+    "structuredExplanation": {
+      "summary": "qualified synthesis: The response weighs context and consequence instead of excusing or condemning absolutely.",
+      "hint": "Name the feature precisely."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LE01-P-046",
+    "curriculumCode": "AC9E6LE01",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "qualified synthesis effect",
+    "printable": true,
+    "type": "single",
+    "question": "What does the choice in “The character’s secrecy is understandable under the threat, but it still harms her friend.” contribute to meaning?",
+    "audioPrompt": "What does the choice in “The character’s secrecy is understandable under the threat, but it still harms her friend.” contribute to meaning?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "This specific textual evidence supports a response that she is compassionate and courageous.",
+      "Knowledge of censorship explains why characters hint at danger instead of naming it.",
+      "The peer-group pressure helps explain her shame and later decision to speak up.",
+      "The response weighs context and consequence instead of excusing or condemning absolutely."
+    ],
+    "correct": 3,
+    "explanation": "The response weighs context and consequence instead of excusing or condemning absolutely.\nHint: Link exact evidence to meaning, purpose or reader response.",
+    "structuredExplanation": {
+      "summary": "The response weighs context and consequence instead of excusing or condemning absolutely.",
+      "hint": "Link exact evidence to meaning, purpose or reader response."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LE01-P-047",
+    "curriculumCode": "AC9E6LE01",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "qualified synthesis revision",
+    "printable": true,
+    "type": "single",
+    "question": "Which revision best applies qualified synthesis to this example?",
+    "audioPrompt": "Which revision best applies qualified synthesis to this example?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Use “although” to connect the contextual explanation and ethical cost.",
+      "Nari appears courageous because she accepts personal risk to protect the child.",
+      "Connect the indirect wording to the restrictions on wartime communication.",
+      "Use both the mocking dialogue and her actions as evidence of social pressure."
+    ],
+    "correct": 0,
+    "explanation": "The revision applies qualified synthesis accurately and purposefully.\nHint: Reject answers that add length without improving meaning.",
+    "structuredExplanation": {
+      "summary": "The revision applies qualified synthesis accurately and purposefully.",
+      "hint": "Reject answers that add length without improving meaning."
+    },
+    "qualitySchema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LE01-P-048",
+    "curriculumCode": "AC9E6LE01",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "qualified synthesis misconception",
+    "printable": true,
+    "type": "single",
+    "question": "A student says, “Understanding context means refusing to evaluate a character.” Which response best corrects this claim?",
+    "audioPrompt": "A student says, “Understanding context means refusing to evaluate a character.” Which response best corrects this claim?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A response is strong whenever it states a feeling.",
+      "The claim is too broad; this example shows that the response weighs context and consequence instead of excusing or condemning absolutely.",
+      "Historical characters should be judged as if they had every modern choice.",
+      "Context excuses every harmful action."
+    ],
+    "correct": 1,
+    "explanation": "The correction is limited, evidence-based and accurate.\nHint: Test absolute words such as always, never and automatically.",
+    "structuredExplanation": {
+      "summary": "The correction is limited, evidence-based and accurate.",
+      "hint": "Test absolute words such as always, never and automatically."
+    },
+    "qualitySchema": "research-aligned-original-v2"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

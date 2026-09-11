@@ -4,12 +4,12 @@ window.skillrPracticeQuestions = [
     "id": "AC9E6LA06-P-001",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "sharpen a verb",
+    "stage": "foundation",
+    "skill": "precise verb",
     "printable": true,
     "type": "single",
-    "question": "In a class podcast, which verb group shows an ongoing past process?",
-    "audioPrompt": "In a class podcast, which verb group shows an ongoing past process?",
+    "question": "Read: “The creek surged over the low bank.” Which description best identifies the highlighted language or text choice?",
+    "audioPrompt": "Read: “The creek surged over the low bank.” Which description best identifies the highlighted language or text choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -17,29 +17,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "rose",
-      "was rising",
-      "had risen",
-      "will rise"
+      "simple past",
+      "past progressive",
+      "past perfect",
+      "precise verb"
     ],
-    "correct": 1,
-    "explanation": "“was rising” is the strongest choice because it matches the language feature and the situation.\nHint: Expansion is useful only when detail serves purpose. Verb choice often carries more precision than adding many adjectives.",
+    "correct": 3,
+    "explanation": "This is precise verb: “Surged” shows forceful, rapid movement more precisely than “went”.\nHint: Name the exact feature before explaining its effect.",
     "structuredExplanation": {
-      "summary": "“was rising” is the strongest choice because it matches the language feature and the situation.",
-      "hint": "Expansion is useful only when detail serves purpose. Verb choice often carries more precision than adding many adjectives."
+      "summary": "This is precise verb: “Surged” shows forceful, rapid movement more precisely than “went”.",
+      "hint": "Name the exact feature before explaining its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-002",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "aspect",
+    "stage": "foundation",
+    "skill": "precise verb-effect",
     "printable": true,
     "type": "single",
-    "question": "Which term best matches this meaning: “way a process unfolds in time”?",
-    "audioPrompt": "Which term best matches this meaning: “way a process unfolds in time”?",
+    "question": "Why is this choice effective in context: “The creek surged over the low bank.”?",
+    "audioPrompt": "Why is this choice effective in context: “The creek surged over the low bank.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -47,29 +47,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "verb group",
-      "adverbial",
-      "aspect",
-      "It does not match the evidence in the example."
+      "“Surged” shows forceful, rapid movement more precisely than “went”.",
+      "“Rose” presents the change as a completed past event.",
+      "“Was rising” shows an ongoing process interrupted at a past moment.",
+      "“Had risen” places the completed rise before another past event."
     ],
-    "correct": 2,
-    "explanation": "aspect means way a process unfolds in time.\nHint: Match the definition precisely; do not choose a nearby term just because it is familiar.",
+    "correct": 0,
+    "explanation": "“Surged” shows forceful, rapid movement more precisely than “went”.\nHint: Connect a precise piece of evidence to what it helps the reader understand.",
     "structuredExplanation": {
-      "summary": "aspect means way a process unfolds in time.",
-      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
+      "summary": "“Surged” shows forceful, rapid movement more precisely than “went”.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-003",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "after 20 minutes the warmed water had gradually evaporated from the shallow tray",
+    "stage": "core",
+    "skill": "precise verb-revision",
     "printable": true,
     "type": "single",
-    "question": "Read this example from a science investigation: “time, cause/context and place”. Which label best describes what the language is doing?",
-    "audioPrompt": "Read this example from a science investigation: “time, cause/context and place”. Which label best describes what the language is doing?",
+    "question": "Which revision best applies precise verb to the idea in “The creek surged over the low bank.”?",
+    "audioPrompt": "Which revision best applies precise verb to the idea in “The creek surged over the low bank.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -77,29 +77,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The water changed.",
-      "The water had gradually evaporated.",
-      "The water may evaporate faster under moving air.",
-      "After 20 minutes, the warmed water had gradually evaporated from the shallow tray."
+      "During the trial, the temperature rose by six degrees.",
+      "After the storm, the creek surged over the low bank.",
+      "The temperature was rising steadily when the timer sounded.",
+      "By the time the heater switched off, the temperature had risen six degrees."
     ],
-    "correct": 3,
-    "explanation": "“time, cause/context and place” is an example of After 20 minutes, the warmed water had gradually evaporated from the shallow tray..\nHint: Expansion is useful only when detail serves purpose. Verb choice often carries more precision than adding many adjectives.",
+    "correct": 1,
+    "explanation": "The revision applies precise verb deliberately while keeping the meaning clear.\nHint: Check meaning, purpose and grammatical or structural accuracy—not just fluency.",
     "structuredExplanation": {
-      "summary": "“time, cause/context and place” is an example of After 20 minutes, the warmed water had gradually evaporated from the shallow tray..",
-      "hint": "Expansion is useful only when detail serves purpose. Verb choice often carries more precision than adding many adjectives."
+      "summary": "The revision applies precise verb deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-004",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "misconception repair",
+    "stage": "core",
+    "skill": "precise verb-misconception",
     "printable": true,
     "type": "single",
-    "question": "Which correction best fixes this idea: “Modal strength ignored”?",
-    "audioPrompt": "Which correction best fixes this idea: “Modal strength ignored”?",
+    "question": "A student says, “Adding many adjectives is always the best way to sharpen a sentence.” Which response best corrects the misconception?",
+    "audioPrompt": "A student says, “Adding many adjectives is always the best way to sharpen a sentence.” Which response best corrects the misconception?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -107,29 +107,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "May, should and must express different commitment.",
-      "More modifiers means sharper writing",
-      "Tense and aspect treated as identical",
-      "Opening phrase has wrong actor"
+      "Adding many adjectives is always the best way to sharpen a sentence.",
+      "Simple past always means an event happened before another past event.",
+      "The claim is too broad; the example shows that “Surged” shows forceful, rapid movement more precisely than “went”.",
+      "Progressive aspect presents every event as completed."
     ],
-    "correct": 0,
-    "explanation": "May, should and must express different commitment. This fixes the misconception without creating a new rule that is too broad.\nHint: Check the actual language evidence rather than relying on an absolute rule.",
+    "correct": 2,
+    "explanation": "The correction uses evidence from this example instead of an always-or-never rule.\nHint: Test the claim against the example and look for words such as always, never or guarantees.",
     "structuredExplanation": {
-      "summary": "May, should and must express different commitment. This fixes the misconception without creating a new rule that is too broad.",
-      "hint": "Check the actual language evidence rather than relying on an absolute rule."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-005",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "the water changed",
+    "stage": "foundation",
+    "skill": "simple past",
     "printable": true,
     "type": "single",
-    "question": "Which example would be most useful when explaining expanding and sharpening ideas through language choice in a sports-club discussion?",
-    "audioPrompt": "Which example would be most useful when explaining expanding and sharpening ideas through language choice in a sports-club discussion?",
+    "question": "Read: “The temperature rose by six degrees.” Which description best identifies the highlighted language or text choice?",
+    "audioPrompt": "Read: “The temperature rose by six degrees.” Which description best identifies the highlighted language or text choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -137,29 +137,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "past-perfect aspect + manner",
-      "vague process",
-      "time, cause/context and place",
-      "modal possibility"
+      "precise verb",
+      "past progressive",
+      "past perfect",
+      "simple past"
     ],
-    "correct": 1,
-    "explanation": "This example directly demonstrates The water changed. and can be explained using the language clue in the text.\nHint: Students select verb groups for tense, aspect, modality and precision and add circumstances that clarify when, where, how, why or under what condition an event occurs.",
+    "correct": 3,
+    "explanation": "This is simple past: “Rose” presents the change as a completed past event.\nHint: Name the exact feature before explaining its effect.",
     "structuredExplanation": {
-      "summary": "This example directly demonstrates The water changed. and can be explained using the language clue in the text.",
-      "hint": "Students select verb groups for tense, aspect, modality and precision and add circumstances that clarify when, where, how, why or under what condition an event occurs."
+      "summary": "This is simple past: “Rose” presents the change as a completed past event.",
+      "hint": "Name the exact feature before explaining its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-006",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "sharpen a verb",
+    "stage": "foundation",
+    "skill": "simple past-effect",
     "printable": true,
     "type": "single",
-    "question": "In a library display, which modal verb expresses possibility?",
-    "audioPrompt": "In a library display, which modal verb expresses possibility?",
+    "question": "Why is this choice effective in context: “The temperature rose by six degrees.”?",
+    "audioPrompt": "Why is this choice effective in context: “The temperature rose by six degrees.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -167,29 +167,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "must",
-      "did",
-      "may",
-      "has"
+      "“Rose” presents the change as a completed past event.",
+      "“Surged” shows forceful, rapid movement more precisely than “went”.",
+      "“Was rising” shows an ongoing process interrupted at a past moment.",
+      "“Had risen” places the completed rise before another past event."
     ],
-    "correct": 2,
-    "explanation": "“may” is the strongest choice because it matches the language feature and the situation.\nHint: Expansion is useful only when detail serves purpose. Verb choice often carries more precision than adding many adjectives.",
+    "correct": 0,
+    "explanation": "“Rose” presents the change as a completed past event.\nHint: Connect a precise piece of evidence to what it helps the reader understand.",
     "structuredExplanation": {
-      "summary": "“may” is the strongest choice because it matches the language feature and the situation.",
-      "hint": "Expansion is useful only when detail serves purpose. Verb choice often carries more precision than adding many adjectives."
+      "summary": "“Rose” presents the change as a completed past event.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-007",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "verb group",
+    "stage": "core",
+    "skill": "simple past-revision",
     "printable": true,
     "type": "single",
-    "question": "Which term best matches this meaning: “main verb with auxiliaries expressing tense, aspect or modality”?",
-    "audioPrompt": "Which term best matches this meaning: “main verb with auxiliaries expressing tense, aspect or modality”?",
+    "question": "Which revision best applies simple past to the idea in “The temperature rose by six degrees.”?",
+    "audioPrompt": "Which revision best applies simple past to the idea in “The temperature rose by six degrees.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -197,29 +197,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "aspect",
-      "adverbial",
-      "It does not match the evidence in the example.",
-      "verb group"
+      "After the storm, the creek surged over the low bank.",
+      "During the trial, the temperature rose by six degrees.",
+      "The temperature was rising steadily when the timer sounded.",
+      "By the time the heater switched off, the temperature had risen six degrees."
     ],
-    "correct": 3,
-    "explanation": "verb group means main verb with auxiliaries expressing tense, aspect or modality.\nHint: Match the definition precisely; do not choose a nearby term just because it is familiar.",
+    "correct": 1,
+    "explanation": "The revision applies simple past deliberately while keeping the meaning clear.\nHint: Check meaning, purpose and grammatical or structural accuracy—not just fluency.",
     "structuredExplanation": {
-      "summary": "verb group means main verb with auxiliaries expressing tense, aspect or modality.",
-      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
+      "summary": "The revision applies simple past deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-008",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "the water may evaporate faster under moving air",
+    "stage": "core",
+    "skill": "simple past-misconception",
     "printable": true,
     "type": "single",
-    "question": "Read this example from a student council meeting: “modal possibility”. Which label best describes what the language is doing?",
-    "audioPrompt": "Read this example from a student council meeting: “modal possibility”. Which label best describes what the language is doing?",
+    "question": "A student says, “Simple past always means an event happened before another past event.” Which response best corrects the misconception?",
+    "audioPrompt": "A student says, “Simple past always means an event happened before another past event.” Which response best corrects the misconception?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -227,29 +227,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The water may evaporate faster under moving air.",
-      "The water changed.",
-      "The water had gradually evaporated.",
-      "After 20 minutes, the warmed water had gradually evaporated from the shallow tray."
+      "Adding many adjectives is always the best way to sharpen a sentence.",
+      "Simple past always means an event happened before another past event.",
+      "The claim is too broad; the example shows that “Rose” presents the change as a completed past event.",
+      "Progressive aspect presents every event as completed."
     ],
-    "correct": 0,
-    "explanation": "“modal possibility” is an example of The water may evaporate faster under moving air..\nHint: Expansion is useful only when detail serves purpose. Verb choice often carries more precision than adding many adjectives.",
+    "correct": 2,
+    "explanation": "The correction uses evidence from this example instead of an always-or-never rule.\nHint: Test the claim against the example and look for words such as always, never or guarantees.",
     "structuredExplanation": {
-      "summary": "“modal possibility” is an example of The water may evaporate faster under moving air..",
-      "hint": "Expansion is useful only when detail serves purpose. Verb choice often carries more precision than adding many adjectives."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-009",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "misconception repair",
+    "stage": "foundation",
+    "skill": "past progressive",
     "printable": true,
     "type": "single",
-    "question": "Which correction best fixes this idea: “More modifiers means sharper writing”?",
-    "audioPrompt": "Which correction best fixes this idea: “More modifiers means sharper writing”?",
+    "question": "Read: “The temperature was rising when the timer sounded.” Which description best identifies the highlighted language or text choice?",
+    "audioPrompt": "Read: “The temperature was rising when the timer sounded.” Which description best identifies the highlighted language or text choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -257,29 +257,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "More modifiers means sharper writing",
-      "Select precise relevant detail.",
-      "Tense and aspect treated as identical",
-      "Opening phrase has wrong actor"
+      "precise verb",
+      "simple past",
+      "past perfect",
+      "past progressive"
     ],
-    "correct": 1,
-    "explanation": "Select precise relevant detail. This fixes the misconception without creating a new rule that is too broad.\nHint: Check the actual language evidence rather than relying on an absolute rule.",
+    "correct": 3,
+    "explanation": "This is past progressive: “Was rising” shows an ongoing process interrupted at a past moment.\nHint: Name the exact feature before explaining its effect.",
     "structuredExplanation": {
-      "summary": "Select precise relevant detail. This fixes the misconception without creating a new rule that is too broad.",
-      "hint": "Check the actual language evidence rather than relying on an absolute rule."
+      "summary": "This is past progressive: “Was rising” shows an ongoing process interrupted at a past moment.",
+      "hint": "Name the exact feature before explaining its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-010",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "the water had gradually evaporated",
+    "stage": "foundation",
+    "skill": "past progressive-effect",
     "printable": true,
     "type": "single",
-    "question": "Which example would be most useful when explaining expanding and sharpening ideas through language choice in a environmental campaign?",
-    "audioPrompt": "Which example would be most useful when explaining expanding and sharpening ideas through language choice in a environmental campaign?",
+    "question": "Why is this choice effective in context: “The temperature was rising when the timer sounded.”?",
+    "audioPrompt": "Why is this choice effective in context: “The temperature was rising when the timer sounded.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -287,29 +287,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "vague process",
-      "time, cause/context and place",
-      "past-perfect aspect + manner",
-      "modal possibility"
+      "“Was rising” shows an ongoing process interrupted at a past moment.",
+      "“Surged” shows forceful, rapid movement more precisely than “went”.",
+      "“Rose” presents the change as a completed past event.",
+      "“Had risen” places the completed rise before another past event."
     ],
-    "correct": 2,
-    "explanation": "This example directly demonstrates The water had gradually evaporated. and can be explained using the language clue in the text.\nHint: Students select verb groups for tense, aspect, modality and precision and add circumstances that clarify when, where, how, why or under what condition an event occurs.",
+    "correct": 0,
+    "explanation": "“Was rising” shows an ongoing process interrupted at a past moment.\nHint: Connect a precise piece of evidence to what it helps the reader understand.",
     "structuredExplanation": {
-      "summary": "This example directly demonstrates The water had gradually evaporated. and can be explained using the language clue in the text.",
-      "hint": "Students select verb groups for tense, aspect, modality and precision and add circumstances that clarify when, where, how, why or under what condition an event occurs."
+      "summary": "“Was rising” shows an ongoing process interrupted at a past moment.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-011",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "after 20 minutes the warmed water had gradually evaporated from the shallow tray",
+    "stage": "core",
+    "skill": "past progressive-revision",
     "printable": true,
     "type": "single",
-    "question": "A museum caption includes “time, cause/context and place”. Why is this an effective example of After 20 minutes, the warmed water had gradually evaporated from the shallow tray.?",
-    "audioPrompt": "A museum caption includes “time, cause/context and place”. Why is this an effective example of After 20 minutes, the warmed water had gradually evaporated from the shallow tray.?",
+    "question": "Which revision best applies past progressive to the idea in “The temperature was rising when the timer sounded.”?",
+    "audioPrompt": "Which revision best applies past progressive to the idea in “The temperature was rising when the timer sounded.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -317,29 +317,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It matches the purpose and the language clue in the example.",
-      "Expansion is useful only when detail serves purpose. Verb choice often carries more precision than adding many adjectives.",
-      "It makes the intended language choice clear in context.",
-      "Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases."
+      "After the storm, the creek surged over the low bank.",
+      "The temperature was rising steadily when the timer sounded.",
+      "During the trial, the temperature rose by six degrees.",
+      "By the time the heater switched off, the temperature had risen six degrees."
     ],
-    "correct": 2,
-    "explanation": "time, cause/context and place works because its language choice fits the purpose and context.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 1,
+    "explanation": "The revision applies past progressive deliberately while keeping the meaning clear.\nHint: Check meaning, purpose and grammatical or structural accuracy—not just fluency.",
     "structuredExplanation": {
-      "summary": "time, cause/context and place works because its language choice fits the purpose and context.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "The revision applies past progressive deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-012",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "core",
+    "skill": "past progressive-misconception",
     "printable": true,
     "type": "single",
-    "question": "Why is “Aspect shows ongoing or completed relationships.” a better rule than “Tense and aspect treated as identical” when reading a student council meeting?",
-    "audioPrompt": "Why is “Aspect shows ongoing or completed relationships.” a better rule than “Tense and aspect treated as identical” when reading a student council meeting?",
+    "question": "A student says, “Progressive aspect presents every event as completed.” Which response best corrects the misconception?",
+    "audioPrompt": "A student says, “Progressive aspect presents every event as completed.” Which response best corrects the misconception?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -347,29 +347,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because the longest rule is always the best one.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words.",
-      "Because it keeps the useful distinction without turning it into an absolute rule."
+      "Adding many adjectives is always the best way to sharpen a sentence.",
+      "Simple past always means an event happened before another past event.",
+      "The claim is too broad; the example shows that “Was rising” shows an ongoing process interrupted at a past moment.",
+      "Progressive aspect presents every event as completed."
     ],
-    "correct": 3,
-    "explanation": "“Aspect shows ongoing or completed relationships.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 2,
+    "explanation": "The correction uses evidence from this example instead of an always-or-never rule.\nHint: Test the claim against the example and look for words such as always, never or guarantees.",
     "structuredExplanation": {
-      "summary": "“Aspect shows ongoing or completed relationships.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-013",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "the water changed",
+    "stage": "foundation",
+    "skill": "past perfect",
     "printable": true,
     "type": "single",
-    "question": "A local-history article includes “vague process”. Why is this an effective example of The water changed.?",
-    "audioPrompt": "A local-history article includes “vague process”. Why is this an effective example of The water changed.?",
+    "question": "Read: “The temperature had risen before the heater switched off.” Which description best identifies the highlighted language or text choice?",
+    "audioPrompt": "Read: “The temperature had risen before the heater switched off.” Which description best identifies the highlighted language or text choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -377,29 +377,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It makes the intended language choice clear in context.",
-      "It matches the purpose and the language clue in the example.",
-      "Expansion is useful only when detail serves purpose. Verb choice often carries more precision than adding many adjectives.",
-      "Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases."
+      "precise verb",
+      "simple past",
+      "past progressive",
+      "past perfect"
     ],
-    "correct": 0,
-    "explanation": "vague process works because its language choice fits the purpose and context.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 3,
+    "explanation": "This is past perfect: “Had risen” places the completed rise before another past event.\nHint: Name the exact feature before explaining its effect.",
     "structuredExplanation": {
-      "summary": "vague process works because its language choice fits the purpose and context.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "This is past perfect: “Had risen” places the completed rise before another past event.",
+      "hint": "Name the exact feature before explaining its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-014",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "foundation",
+    "skill": "past perfect-effect",
     "printable": true,
     "type": "single",
-    "question": "Why is “May, should and must express different commitment.” a better rule than “Modal strength ignored” when reading a environmental campaign?",
-    "audioPrompt": "Why is “May, should and must express different commitment.” a better rule than “Modal strength ignored” when reading a environmental campaign?",
+    "question": "Why is this choice effective in context: “The temperature had risen before the heater switched off.”?",
+    "audioPrompt": "Why is this choice effective in context: “The temperature had risen before the heater switched off.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -407,29 +407,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because the longest rule is always the best one.",
-      "Because it keeps the useful distinction without turning it into an absolute rule.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words."
+      "“Had risen” places the completed rise before another past event.",
+      "“Surged” shows forceful, rapid movement more precisely than “went”.",
+      "“Rose” presents the change as a completed past event.",
+      "“Was rising” shows an ongoing process interrupted at a past moment."
     ],
-    "correct": 1,
-    "explanation": "“May, should and must express different commitment.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 0,
+    "explanation": "“Had risen” places the completed rise before another past event.\nHint: Connect a precise piece of evidence to what it helps the reader understand.",
     "structuredExplanation": {
-      "summary": "“May, should and must express different commitment.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "“Had risen” places the completed rise before another past event.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-015",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "after 20 minutes the warmed water had gradually evaporated from the shallow tray",
+    "stage": "core",
+    "skill": "past perfect-revision",
     "printable": true,
     "type": "single",
-    "question": "A book-club discussion includes “time, cause/context and place”. Why is this an effective example of After 20 minutes, the warmed water had gradually evaporated from the shallow tray.?",
-    "audioPrompt": "A book-club discussion includes “time, cause/context and place”. Why is this an effective example of After 20 minutes, the warmed water had gradually evaporated from the shallow tray.?",
+    "question": "Which revision best applies past perfect to the idea in “The temperature had risen before the heater switched off.”?",
+    "audioPrompt": "Which revision best applies past perfect to the idea in “The temperature had risen before the heater switched off.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -437,29 +437,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It matches the purpose and the language clue in the example.",
-      "Expansion is useful only when detail serves purpose. Verb choice often carries more precision than adding many adjectives.",
-      "It makes the intended language choice clear in context.",
-      "Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases."
+      "After the storm, the creek surged over the low bank.",
+      "By the time the heater switched off, the temperature had risen six degrees.",
+      "During the trial, the temperature rose by six degrees.",
+      "The temperature was rising steadily when the timer sounded."
     ],
-    "correct": 2,
-    "explanation": "time, cause/context and place works because its language choice fits the purpose and context.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 1,
+    "explanation": "The revision applies past perfect deliberately while keeping the meaning clear.\nHint: Check meaning, purpose and grammatical or structural accuracy—not just fluency.",
     "structuredExplanation": {
-      "summary": "time, cause/context and place works because its language choice fits the purpose and context.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "The revision applies past perfect deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-016",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "core",
+    "skill": "past perfect-misconception",
     "printable": true,
     "type": "single",
-    "question": "Why is “Aspect shows ongoing or completed relationships.” a better rule than “Tense and aspect treated as identical” when reading a excursion briefing?",
-    "audioPrompt": "Why is “Aspect shows ongoing or completed relationships.” a better rule than “Tense and aspect treated as identical” when reading a excursion briefing?",
+    "question": "A student says, “Past perfect is simply a more formal version of simple past.” Which response best corrects the misconception?",
+    "audioPrompt": "A student says, “Past perfect is simply a more formal version of simple past.” Which response best corrects the misconception?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -467,29 +467,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because the longest rule is always the best one.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words.",
-      "Because it keeps the useful distinction without turning it into an absolute rule."
+      "Adding many adjectives is always the best way to sharpen a sentence.",
+      "Simple past always means an event happened before another past event.",
+      "The claim is too broad; the example shows that “Had risen” places the completed rise before another past event.",
+      "Progressive aspect presents every event as completed."
     ],
-    "correct": 3,
-    "explanation": "“Aspect shows ongoing or completed relationships.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 2,
+    "explanation": "The correction uses evidence from this example instead of an always-or-never rule.\nHint: Test the claim against the example and look for words such as always, never or guarantees.",
     "structuredExplanation": {
-      "summary": "“Aspect shows ongoing or completed relationships.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-017",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "the water changed",
+    "stage": "foundation",
+    "skill": "present perfect",
     "printable": true,
     "type": "single",
-    "question": "A design project includes “vague process”. Why is this an effective example of The water changed.?",
-    "audioPrompt": "A design project includes “vague process”. Why is this an effective example of The water changed.?",
+    "question": "Read: “Scientists have monitored the reef since 2018.” Which description best identifies the highlighted language or text choice?",
+    "audioPrompt": "Read: “Scientists have monitored the reef since 2018.” Which description best identifies the highlighted language or text choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -497,29 +497,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It makes the intended language choice clear in context.",
-      "It matches the purpose and the language clue in the example.",
-      "Expansion is useful only when detail serves purpose. Verb choice often carries more precision than adding many adjectives.",
-      "Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases."
+      "precise verb",
+      "simple past",
+      "past progressive",
+      "present perfect"
     ],
-    "correct": 0,
-    "explanation": "vague process works because its language choice fits the purpose and context.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 3,
+    "explanation": "This is present perfect: The monitoring began in the past and remains relevant to the present.\nHint: Name the exact feature before explaining its effect.",
     "structuredExplanation": {
-      "summary": "vague process works because its language choice fits the purpose and context.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "This is present perfect: The monitoring began in the past and remains relevant to the present.",
+      "hint": "Name the exact feature before explaining its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-018",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "foundation",
+    "skill": "present perfect-effect",
     "printable": true,
     "type": "single",
-    "question": "Why is “May, should and must express different commitment.” a better rule than “Modal strength ignored” when reading a weather report?",
-    "audioPrompt": "Why is “May, should and must express different commitment.” a better rule than “Modal strength ignored” when reading a weather report?",
+    "question": "Why is this choice effective in context: “Scientists have monitored the reef since 2018.”?",
+    "audioPrompt": "Why is this choice effective in context: “Scientists have monitored the reef since 2018.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -527,29 +527,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because the longest rule is always the best one.",
-      "Because it keeps the useful distinction without turning it into an absolute rule.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words."
+      "The monitoring began in the past and remains relevant to the present.",
+      "“Surged” shows forceful, rapid movement more precisely than “went”.",
+      "“Rose” presents the change as a completed past event.",
+      "“Was rising” shows an ongoing process interrupted at a past moment."
     ],
-    "correct": 1,
-    "explanation": "“May, should and must express different commitment.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 0,
+    "explanation": "The monitoring began in the past and remains relevant to the present.\nHint: Connect a precise piece of evidence to what it helps the reader understand.",
     "structuredExplanation": {
-      "summary": "“May, should and must express different commitment.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The monitoring began in the past and remains relevant to the present.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-019",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "after 20 minutes the warmed water had gradually evaporated from the shallow tray",
+    "stage": "application",
+    "skill": "present perfect-revision",
     "printable": true,
     "type": "single",
-    "question": "A school assembly includes “time, cause/context and place”. Why is this an effective example of After 20 minutes, the warmed water had gradually evaporated from the shallow tray.?",
-    "audioPrompt": "A school assembly includes “time, cause/context and place”. Why is this an effective example of After 20 minutes, the warmed water had gradually evaporated from the shallow tray.?",
+    "question": "Which revision best applies present perfect to the idea in “Scientists have monitored the reef since 2018.”?",
+    "audioPrompt": "Which revision best applies present perfect to the idea in “Scientists have monitored the reef since 2018.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -557,29 +557,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It matches the purpose and the language clue in the example.",
-      "Expansion is useful only when detail serves purpose. Verb choice often carries more precision than adding many adjectives.",
-      "It makes the intended language choice clear in context.",
-      "Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases."
+      "After the storm, the creek surged over the low bank.",
+      "Scientists have carefully monitored the reef since 2018.",
+      "During the trial, the temperature rose by six degrees.",
+      "The temperature was rising steadily when the timer sounded."
     ],
-    "correct": 2,
-    "explanation": "time, cause/context and place works because its language choice fits the purpose and context.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 1,
+    "explanation": "The revision applies present perfect deliberately while keeping the meaning clear.\nHint: Check meaning, purpose and grammatical or structural accuracy—not just fluency.",
     "structuredExplanation": {
-      "summary": "time, cause/context and place works because its language choice fits the purpose and context.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "The revision applies present perfect deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-020",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "core",
+    "skill": "present perfect-misconception",
     "printable": true,
     "type": "single",
-    "question": "Why is “Aspect shows ongoing or completed relationships.” a better rule than “Tense and aspect treated as identical” when reading a peer feedback session?",
-    "audioPrompt": "Why is “Aspect shows ongoing or completed relationships.” a better rule than “Tense and aspect treated as identical” when reading a peer feedback session?",
+    "question": "A student says, “Present perfect names a future event.” Which response best corrects the misconception?",
+    "audioPrompt": "A student says, “Present perfect names a future event.” Which response best corrects the misconception?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -587,29 +587,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because the longest rule is always the best one.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words.",
-      "Because it keeps the useful distinction without turning it into an absolute rule."
+      "Adding many adjectives is always the best way to sharpen a sentence.",
+      "Simple past always means an event happened before another past event.",
+      "The claim is too broad; the example shows that the monitoring began in the past and remains relevant to the present.",
+      "Progressive aspect presents every event as completed."
     ],
-    "correct": 3,
-    "explanation": "“Aspect shows ongoing or completed relationships.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 2,
+    "explanation": "The correction uses evidence from this example instead of an always-or-never rule.\nHint: Test the claim against the example and look for words such as always, never or guarantees.",
     "structuredExplanation": {
-      "summary": "“Aspect shows ongoing or completed relationships.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-021",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "foundation",
+    "skill": "modality: possibility",
     "printable": true,
     "type": "single",
-    "question": "A excursion briefing could use either “vague process” or “completed before another past reference”. Which comparison is most accurate?",
-    "audioPrompt": "A excursion briefing could use either “vague process” or “completed before another past reference”. Which comparison is most accurate?",
+    "question": "Read: “The seedlings may recover after rainfall.” Which description best identifies the highlighted language or text choice?",
+    "audioPrompt": "Read: “The seedlings may recover after rainfall.” Which description best identifies the highlighted language or text choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -617,29 +617,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer.",
-      "“vague process” shows The water changed., while “completed before another past reference” shows had risen."
+      "precise verb",
+      "simple past",
+      "past progressive",
+      "modality: possibility"
     ],
     "correct": 3,
-    "explanation": "The important difference is the language function: The water changed. versus had risen.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "explanation": "This is modality: possibility: “May” presents recovery as possible rather than certain.\nHint: Name the exact feature before explaining its effect.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: The water changed. versus had risen.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "This is modality: possibility: “May” presents recovery as possible rather than certain.",
+      "hint": "Name the exact feature before explaining its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-022",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "foundation",
+    "skill": "modality: possibility-effect",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Opening phrase has wrong actor” in a design project?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Opening phrase has wrong actor” in a design project?",
+    "question": "Why is this choice effective in context: “The seedlings may recover after rainfall.”?",
+    "audioPrompt": "Why is this choice effective in context: “The seedlings may recover after rainfall.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -647,29 +647,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Check attachment.",
-      "More modifiers means sharper writing",
-      "Tense and aspect treated as identical",
-      "Opening phrase has wrong actor"
+      "“May” presents recovery as possible rather than certain.",
+      "“Surged” shows forceful, rapid movement more precisely than “went”.",
+      "“Rose” presents the change as a completed past event.",
+      "“Was rising” shows an ongoing process interrupted at a past moment."
     ],
     "correct": 0,
-    "explanation": "Check attachment. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases.",
+    "explanation": "“May” presents recovery as possible rather than certain.\nHint: Connect a precise piece of evidence to what it helps the reader understand.",
     "structuredExplanation": {
-      "summary": "Check attachment. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases."
+      "summary": "“May” presents recovery as possible rather than certain.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-023",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "application",
+    "skill": "modality: possibility-revision",
     "printable": true,
     "type": "single",
-    "question": "A weather report could use either “time, cause/context and place” or “logical certainty or obligation depending on context”. Which comparison is most accurate?",
-    "audioPrompt": "A weather report could use either “time, cause/context and place” or “logical certainty or obligation depending on context”. Which comparison is most accurate?",
+    "question": "Which revision best applies modality: possibility to the idea in “The seedlings may recover after rainfall.”?",
+    "audioPrompt": "Which revision best applies modality: possibility to the idea in “The seedlings may recover after rainfall.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -677,29 +677,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "“time, cause/context and place” shows After 20 minutes, the warmed water had gradually evaporated from the shallow tray., while “logical certainty or obligation depending on context” shows must rise.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer."
+      "After the storm, the creek surged over the low bank.",
+      "With continued rainfall, the seedlings may gradually recover.",
+      "During the trial, the temperature rose by six degrees.",
+      "The temperature was rising steadily when the timer sounded."
     ],
     "correct": 1,
-    "explanation": "The important difference is the language function: After 20 minutes, the warmed water had gradually evaporated from the shallow tray. versus must rise.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "explanation": "The revision applies modality: possibility deliberately while keeping the meaning clear.\nHint: Check meaning, purpose and grammatical or structural accuracy—not just fluency.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: After 20 minutes, the warmed water had gradually evaporated from the shallow tray. versus must rise.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "The revision applies modality: possibility deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-024",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "core",
+    "skill": "modality: possibility-misconception",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “More modifiers means sharper writing” in a school assembly?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “More modifiers means sharper writing” in a school assembly?",
+    "question": "A student says, ““May” and “must” express the same strength.” Which response best corrects the misconception?",
+    "audioPrompt": "A student says, ““May” and “must” express the same strength.” Which response best corrects the misconception?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -707,29 +707,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "More modifiers means sharper writing",
-      "Tense and aspect treated as identical",
-      "Select precise relevant detail.",
-      "Opening phrase has wrong actor"
+      "Adding many adjectives is always the best way to sharpen a sentence.",
+      "Simple past always means an event happened before another past event.",
+      "The claim is too broad; the example shows that “May” presents recovery as possible rather than certain.",
+      "Progressive aspect presents every event as completed."
     ],
     "correct": 2,
-    "explanation": "Select precise relevant detail. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases.",
+    "explanation": "The correction uses evidence from this example instead of an always-or-never rule.\nHint: Test the claim against the example and look for words such as always, never or guarantees.",
     "structuredExplanation": {
-      "summary": "Select precise relevant detail. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-025",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "foundation",
+    "skill": "modality: strong obligation",
     "printable": true,
     "type": "single",
-    "question": "A peer feedback session could use either “vague process” or “completed before another past reference”. Which comparison is most accurate?",
-    "audioPrompt": "A peer feedback session could use either “vague process” or “completed before another past reference”. Which comparison is most accurate?",
+    "question": "Read: “Visitors must remain behind the barrier.” Which description best identifies the highlighted language or text choice?",
+    "audioPrompt": "Read: “Visitors must remain behind the barrier.” Which description best identifies the highlighted language or text choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -737,29 +737,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer.",
-      "“vague process” shows The water changed., while “completed before another past reference” shows had risen."
+      "precise verb",
+      "simple past",
+      "past progressive",
+      "modality: strong obligation"
     ],
     "correct": 3,
-    "explanation": "The important difference is the language function: The water changed. versus had risen.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "explanation": "This is modality: strong obligation: “Must” expresses a strong requirement in this safety context.\nHint: Name the exact feature before explaining its effect.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: The water changed. versus had risen.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "This is modality: strong obligation: “Must” expresses a strong requirement in this safety context.",
+      "hint": "Name the exact feature before explaining its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-026",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "core",
+    "skill": "modality: strong obligation-effect",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Opening phrase has wrong actor” in a cooking demonstration?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Opening phrase has wrong actor” in a cooking demonstration?",
+    "question": "Why is this choice effective in context: “Visitors must remain behind the barrier.”?",
+    "audioPrompt": "Why is this choice effective in context: “Visitors must remain behind the barrier.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -767,29 +767,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Check attachment.",
-      "More modifiers means sharper writing",
-      "Tense and aspect treated as identical",
-      "Opening phrase has wrong actor"
+      "“Must” expresses a strong requirement in this safety context.",
+      "“Surged” shows forceful, rapid movement more precisely than “went”.",
+      "“Rose” presents the change as a completed past event.",
+      "“Was rising” shows an ongoing process interrupted at a past moment."
     ],
     "correct": 0,
-    "explanation": "Check attachment. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases.",
+    "explanation": "“Must” expresses a strong requirement in this safety context.\nHint: Connect a precise piece of evidence to what it helps the reader understand.",
     "structuredExplanation": {
-      "summary": "Check attachment. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases."
+      "summary": "“Must” expresses a strong requirement in this safety context.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-027",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "application",
+    "skill": "modality: strong obligation-revision",
     "printable": true,
     "type": "single",
-    "question": "A arts review could use either “time, cause/context and place” or “logical certainty or obligation depending on context”. Which comparison is most accurate?",
-    "audioPrompt": "A arts review could use either “time, cause/context and place” or “logical certainty or obligation depending on context”. Which comparison is most accurate?",
+    "question": "Which revision best applies modality: strong obligation to the idea in “Visitors must remain behind the barrier.”?",
+    "audioPrompt": "Which revision best applies modality: strong obligation to the idea in “Visitors must remain behind the barrier.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -797,29 +797,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "“time, cause/context and place” shows After 20 minutes, the warmed water had gradually evaporated from the shallow tray., while “logical certainty or obligation depending on context” shows must rise.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer."
+      "After the storm, the creek surged over the low bank.",
+      "For safety, visitors must remain behind the marked barrier.",
+      "During the trial, the temperature rose by six degrees.",
+      "The temperature was rising steadily when the timer sounded."
     ],
     "correct": 1,
-    "explanation": "The important difference is the language function: After 20 minutes, the warmed water had gradually evaporated from the shallow tray. versus must rise.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "explanation": "The revision applies modality: strong obligation deliberately while keeping the meaning clear.\nHint: Check meaning, purpose and grammatical or structural accuracy—not just fluency.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: After 20 minutes, the warmed water had gradually evaporated from the shallow tray. versus must rise.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "The revision applies modality: strong obligation deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-028",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "core",
+    "skill": "modality: strong obligation-misconception",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “More modifiers means sharper writing” in a technology presentation?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “More modifiers means sharper writing” in a technology presentation?",
+    "question": "A student says, “A strong modal verb always expresses scientific certainty.” Which response best corrects the misconception?",
+    "audioPrompt": "A student says, “A strong modal verb always expresses scientific certainty.” Which response best corrects the misconception?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -827,29 +827,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "More modifiers means sharper writing",
-      "Tense and aspect treated as identical",
-      "Select precise relevant detail.",
-      "Opening phrase has wrong actor"
+      "Adding many adjectives is always the best way to sharpen a sentence.",
+      "Simple past always means an event happened before another past event.",
+      "The claim is too broad; the example shows that “Must” expresses a strong requirement in this safety context.",
+      "Progressive aspect presents every event as completed."
     ],
     "correct": 2,
-    "explanation": "Select precise relevant detail. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases.",
+    "explanation": "The correction uses evidence from this example instead of an always-or-never rule.\nHint: Test the claim against the example and look for words such as always, never or guarantees.",
     "structuredExplanation": {
-      "summary": "Select precise relevant detail. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-029",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "foundation",
+    "skill": "adverb group of manner",
     "printable": true,
     "type": "single",
-    "question": "A playground consultation could use either “vague process” or “completed before another past reference”. Which comparison is most accurate?",
-    "audioPrompt": "A playground consultation could use either “vague process” or “completed before another past reference”. Which comparison is most accurate?",
+    "question": "Read: “The turtle moved remarkably slowly.” Which description best identifies the highlighted language or text choice?",
+    "audioPrompt": "Read: “The turtle moved remarkably slowly.” Which description best identifies the highlighted language or text choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -857,29 +857,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer.",
-      "“vague process” shows The water changed., while “completed before another past reference” shows had risen."
+      "precise verb",
+      "simple past",
+      "past progressive",
+      "adverb group of manner"
     ],
     "correct": 3,
-    "explanation": "The important difference is the language function: The water changed. versus had risen.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "explanation": "This is adverb group of manner: The adverb group explains how the turtle moved.\nHint: Name the exact feature before explaining its effect.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: The water changed. versus had risen.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "This is adverb group of manner: The adverb group explains how the turtle moved.",
+      "hint": "Name the exact feature before explaining its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-030",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "core",
+    "skill": "adverb group of manner-effect",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Opening phrase has wrong actor” in a class podcast?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Opening phrase has wrong actor” in a class podcast?",
+    "question": "Why is this choice effective in context: “The turtle moved remarkably slowly.”?",
+    "audioPrompt": "Why is this choice effective in context: “The turtle moved remarkably slowly.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -887,29 +887,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Check attachment.",
-      "More modifiers means sharper writing",
-      "Tense and aspect treated as identical",
-      "Opening phrase has wrong actor"
+      "The adverb group explains how the turtle moved.",
+      "“Surged” shows forceful, rapid movement more precisely than “went”.",
+      "“Rose” presents the change as a completed past event.",
+      "“Was rising” shows an ongoing process interrupted at a past moment."
     ],
     "correct": 0,
-    "explanation": "Check attachment. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases.",
+    "explanation": "The adverb group explains how the turtle moved.\nHint: Connect a precise piece of evidence to what it helps the reader understand.",
     "structuredExplanation": {
-      "summary": "Check attachment. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases."
+      "summary": "The adverb group explains how the turtle moved.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-031",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "add condition",
+    "stage": "application",
+    "skill": "adverb group of manner-revision",
     "printable": true,
     "type": "single",
-    "question": "You are editing a community garden proposal. Which modal verb expresses possibility?",
-    "audioPrompt": "You are editing a community garden proposal. Which modal verb expresses possibility?",
+    "question": "Which revision best applies adverb group of manner to the idea in “The turtle moved remarkably slowly.”?",
+    "audioPrompt": "Which revision best applies adverb group of manner to the idea in “The turtle moved remarkably slowly.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -917,29 +917,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "may",
-      "must",
-      "did",
-      "has"
+      "After the storm, the creek surged over the low bank.",
+      "Across the warm sand, the turtle moved remarkably slowly.",
+      "During the trial, the temperature rose by six degrees.",
+      "The temperature was rising steadily when the timer sounded."
     ],
-    "correct": 0,
-    "explanation": "“may” best fits the purpose and the language evidence in this new situation.\nHint: Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases.",
+    "correct": 1,
+    "explanation": "The revision applies adverb group of manner deliberately while keeping the meaning clear.\nHint: Check meaning, purpose and grammatical or structural accuracy—not just fluency.",
     "structuredExplanation": {
-      "summary": "“may” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases."
+      "summary": "The revision applies adverb group of manner deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-032",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "had risen",
+    "stage": "core",
+    "skill": "adverb group of manner-misconception",
     "printable": true,
     "type": "single",
-    "question": "A sports-club discussion needs a clear example of had risen. Which wording should you choose?",
-    "audioPrompt": "A sports-club discussion needs a clear example of had risen. Which wording should you choose?",
+    "question": "A student says, “Every adverb tells when something happened.” Which response best corrects the misconception?",
+    "audioPrompt": "A student says, “Every adverb tells when something happened.” Which response best corrects the misconception?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -947,29 +947,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "ongoing past process",
-      "completed before another past reference",
-      "possibility",
-      "logical certainty or obligation depending on context"
+      "Adding many adjectives is always the best way to sharpen a sentence.",
+      "Simple past always means an event happened before another past event.",
+      "The claim is too broad; the example shows that the adverb group explains how the turtle moved.",
+      "Progressive aspect presents every event as completed."
     ],
-    "correct": 1,
-    "explanation": "“completed before another past reference” is the best choice because it demonstrates had risen in context.\nHint: Choose the wording that performs the required job, not merely one that sounds fluent.",
+    "correct": 2,
+    "explanation": "The correction uses evidence from this example instead of an always-or-never rule.\nHint: Test the claim against the example and look for words such as always, never or guarantees.",
     "structuredExplanation": {
-      "summary": "“completed before another past reference” is the best choice because it demonstrates had risen in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-033",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "verb group",
+    "stage": "foundation",
+    "skill": "prepositional phrase of place",
     "printable": true,
     "type": "single",
-    "question": "While revising a library display, you need language that matches “main verb with auxiliaries expressing tense, aspect or modality”. Which concept should guide your choice?",
-    "audioPrompt": "While revising a library display, you need language that matches “main verb with auxiliaries expressing tense, aspect or modality”. Which concept should guide your choice?",
+    "question": "Read: “The lizard sheltered beneath the fallen log.” Which description best identifies the highlighted language or text choice?",
+    "audioPrompt": "Read: “The lizard sheltered beneath the fallen log.” Which description best identifies the highlighted language or text choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -977,29 +977,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "aspect",
-      "adverbial",
-      "verb group",
-      "It does not match the evidence in the example."
+      "precise verb",
+      "simple past",
+      "past progressive",
+      "prepositional phrase of place"
     ],
-    "correct": 2,
-    "explanation": "verb group is the concept that matches main verb with auxiliaries expressing tense, aspect or modality.\nHint: Use the definition to guide the decision, then check it against the sentence.",
+    "correct": 3,
+    "explanation": "This is prepositional phrase of place: “Beneath the fallen log” locates the sheltering event.\nHint: Name the exact feature before explaining its effect.",
     "structuredExplanation": {
-      "summary": "verb group is the concept that matches main verb with auxiliaries expressing tense, aspect or modality.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "This is prepositional phrase of place: “Beneath the fallen log” locates the sheltering event.",
+      "hint": "Name the exact feature before explaining its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-034",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "sharpen a verb",
+    "stage": "core",
+    "skill": "prepositional phrase of place-effect",
     "printable": true,
     "type": "single",
-    "question": "You are editing a museum caption. Which modal verb expresses possibility?",
-    "audioPrompt": "You are editing a museum caption. Which modal verb expresses possibility?",
+    "question": "Why is this choice effective in context: “The lizard sheltered beneath the fallen log.”?",
+    "audioPrompt": "Why is this choice effective in context: “The lizard sheltered beneath the fallen log.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1007,29 +1007,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "must",
-      "did",
-      "has",
-      "may"
+      "“Beneath the fallen log” locates the sheltering event.",
+      "“Surged” shows forceful, rapid movement more precisely than “went”.",
+      "“Rose” presents the change as a completed past event.",
+      "“Was rising” shows an ongoing process interrupted at a past moment."
     ],
-    "correct": 3,
-    "explanation": "“may” best fits the purpose and the language evidence in this new situation.\nHint: Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases.",
+    "correct": 0,
+    "explanation": "“Beneath the fallen log” locates the sheltering event.\nHint: Connect a precise piece of evidence to what it helps the reader understand.",
     "structuredExplanation": {
-      "summary": "“may” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases."
+      "summary": "“Beneath the fallen log” locates the sheltering event.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-035",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "was rising",
+    "stage": "application",
+    "skill": "prepositional phrase of place-revision",
     "printable": true,
     "type": "single",
-    "question": "A student council meeting needs a clear example of was rising. Which wording should you choose?",
-    "audioPrompt": "A student council meeting needs a clear example of was rising. Which wording should you choose?",
+    "question": "Which revision best applies prepositional phrase of place to the idea in “The lizard sheltered beneath the fallen log.”?",
+    "audioPrompt": "Which revision best applies prepositional phrase of place to the idea in “The lizard sheltered beneath the fallen log.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1037,29 +1037,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "ongoing past process",
-      "completed before another past reference",
-      "possibility",
-      "logical certainty or obligation depending on context"
+      "After the storm, the creek surged over the low bank.",
+      "At midday, the lizard sheltered beneath the fallen log.",
+      "During the trial, the temperature rose by six degrees.",
+      "The temperature was rising steadily when the timer sounded."
     ],
-    "correct": 0,
-    "explanation": "“ongoing past process” is the best choice because it demonstrates was rising in context.\nHint: Choose the wording that performs the required job, not merely one that sounds fluent.",
+    "correct": 1,
+    "explanation": "The revision applies prepositional phrase of place deliberately while keeping the meaning clear.\nHint: Check meaning, purpose and grammatical or structural accuracy—not just fluency.",
     "structuredExplanation": {
-      "summary": "“ongoing past process” is the best choice because it demonstrates was rising in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "The revision applies prepositional phrase of place deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-036",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "verb group",
+    "stage": "challenge",
+    "skill": "prepositional phrase of place-misconception",
     "printable": true,
     "type": "single",
-    "question": "While revising a local-history article, you need language that matches “main verb with auxiliaries expressing tense, aspect or modality”. Which concept should guide your choice?",
-    "audioPrompt": "While revising a local-history article, you need language that matches “main verb with auxiliaries expressing tense, aspect or modality”. Which concept should guide your choice?",
+    "question": "A student says, “A prepositional phrase can only describe time.” Which response best corrects the misconception?",
+    "audioPrompt": "A student says, “A prepositional phrase can only describe time.” Which response best corrects the misconception?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1067,29 +1067,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "aspect",
-      "verb group",
-      "adverbial",
-      "It does not match the evidence in the example."
+      "Adding many adjectives is always the best way to sharpen a sentence.",
+      "Simple past always means an event happened before another past event.",
+      "The claim is too broad; the example shows that “Beneath the fallen log” locates the sheltering event.",
+      "Progressive aspect presents every event as completed."
     ],
-    "correct": 1,
-    "explanation": "verb group is the concept that matches main verb with auxiliaries expressing tense, aspect or modality.\nHint: Use the definition to guide the decision, then check it against the sentence.",
+    "correct": 2,
+    "explanation": "The correction uses evidence from this example instead of an always-or-never rule.\nHint: Test the claim against the example and look for words such as always, never or guarantees.",
     "structuredExplanation": {
-      "summary": "verb group is the concept that matches main verb with auxiliaries expressing tense, aspect or modality.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-037",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "repair attachment",
+    "stage": "foundation",
+    "skill": "condition",
     "printable": true,
     "type": "single",
-    "question": "You are editing a environmental campaign. Which modal verb expresses possibility?",
-    "audioPrompt": "You are editing a environmental campaign. Which modal verb expresses possibility?",
+    "question": "Read: “Under equal conditions, both samples should dissolve at similar rates.” Which description best identifies the highlighted language or text choice?",
+    "audioPrompt": "Read: “Under equal conditions, both samples should dissolve at similar rates.” Which description best identifies the highlighted language or text choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1097,29 +1097,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "must",
-      "did",
-      "may",
-      "has"
+      "precise verb",
+      "simple past",
+      "past progressive",
+      "condition"
     ],
-    "correct": 2,
-    "explanation": "“may” best fits the purpose and the language evidence in this new situation.\nHint: Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases.",
+    "correct": 3,
+    "explanation": "This is condition: The opening phrase limits the claim to a stated condition.\nHint: Name the exact feature before explaining its effect.",
     "structuredExplanation": {
-      "summary": "“may” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases."
+      "summary": "This is condition: The opening phrase limits the claim to a stated condition.",
+      "hint": "Name the exact feature before explaining its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-038",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "must rise",
+    "stage": "core",
+    "skill": "condition-effect",
     "printable": true,
     "type": "single",
-    "question": "A book-club discussion needs a clear example of must rise. Which wording should you choose?",
-    "audioPrompt": "A book-club discussion needs a clear example of must rise. Which wording should you choose?",
+    "question": "Why is this choice effective in context: “Under equal conditions, both samples should dissolve at similar rates.”?",
+    "audioPrompt": "Why is this choice effective in context: “Under equal conditions, both samples should dissolve at similar rates.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1127,29 +1127,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "ongoing past process",
-      "completed before another past reference",
-      "possibility",
-      "logical certainty or obligation depending on context"
+      "The opening phrase limits the claim to a stated condition.",
+      "“Surged” shows forceful, rapid movement more precisely than “went”.",
+      "“Rose” presents the change as a completed past event.",
+      "“Was rising” shows an ongoing process interrupted at a past moment."
     ],
-    "correct": 3,
-    "explanation": "“logical certainty or obligation depending on context” is the best choice because it demonstrates must rise in context.\nHint: Choose the wording that performs the required job, not merely one that sounds fluent.",
+    "correct": 0,
+    "explanation": "The opening phrase limits the claim to a stated condition.\nHint: Connect a precise piece of evidence to what it helps the reader understand.",
     "structuredExplanation": {
-      "summary": "“logical certainty or obligation depending on context” is the best choice because it demonstrates must rise in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "The opening phrase limits the claim to a stated condition.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-039",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "verb group",
+    "stage": "application",
+    "skill": "condition-revision",
     "printable": true,
     "type": "single",
-    "question": "While revising a excursion briefing, you need language that matches “main verb with auxiliaries expressing tense, aspect or modality”. Which concept should guide your choice?",
-    "audioPrompt": "While revising a excursion briefing, you need language that matches “main verb with auxiliaries expressing tense, aspect or modality”. Which concept should guide your choice?",
+    "question": "Which revision best applies condition to the idea in “Under equal conditions, both samples should dissolve at similar rates.”?",
+    "audioPrompt": "Which revision best applies condition to the idea in “Under equal conditions, both samples should dissolve at similar rates.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1157,29 +1157,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "verb group",
-      "aspect",
-      "adverbial",
-      "It does not match the evidence in the example."
+      "After the storm, the creek surged over the low bank.",
+      "Under equal conditions, both samples should dissolve at approximately the same rate.",
+      "During the trial, the temperature rose by six degrees.",
+      "The temperature was rising steadily when the timer sounded."
     ],
-    "correct": 0,
-    "explanation": "verb group is the concept that matches main verb with auxiliaries expressing tense, aspect or modality.\nHint: Use the definition to guide the decision, then check it against the sentence.",
+    "correct": 1,
+    "explanation": "The revision applies condition deliberately while keeping the meaning clear.\nHint: Check meaning, purpose and grammatical or structural accuracy—not just fluency.",
     "structuredExplanation": {
-      "summary": "verb group is the concept that matches main verb with auxiliaries expressing tense, aspect or modality.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "The revision applies condition deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-040",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "compare aspect",
+    "stage": "challenge",
+    "skill": "condition-misconception",
     "printable": true,
     "type": "single",
-    "question": "You are editing a design project. Which modal verb expresses possibility?",
-    "audioPrompt": "You are editing a design project. Which modal verb expresses possibility?",
+    "question": "A student says, “Conditions make a claim less precise.” Which response best corrects the misconception?",
+    "audioPrompt": "A student says, “Conditions make a claim less precise.” Which response best corrects the misconception?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1187,29 +1187,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "must",
-      "may",
-      "did",
-      "has"
+      "Adding many adjectives is always the best way to sharpen a sentence.",
+      "Simple past always means an event happened before another past event.",
+      "The claim is too broad; the example shows that the opening phrase limits the claim to a stated condition.",
+      "Progressive aspect presents every event as completed."
     ],
-    "correct": 1,
-    "explanation": "“may” best fits the purpose and the language evidence in this new situation.\nHint: Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases.",
+    "correct": 2,
+    "explanation": "The correction uses evidence from this example instead of an always-or-never rule.\nHint: Test the claim against the example and look for words such as always, never or guarantees.",
     "structuredExplanation": {
-      "summary": "“may” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-041",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "analyse",
-    "skill": "choose precise verb",
+    "stage": "foundation",
+    "skill": "dangling modifier",
     "printable": true,
     "type": "single",
-    "question": "Which verb most sharply describes a falcon moving towards its prey?",
-    "audioPrompt": "Which verb most sharply describes a falcon moving towards its prey?",
+    "question": "Read: “After crossing the oval, the rain soaked Mia’s jacket.” Which description best identifies the highlighted language or text choice?",
+    "audioPrompt": "Read: “After crossing the oval, the rain soaked Mia’s jacket.” Which description best identifies the highlighted language or text choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1217,29 +1217,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "dived",
-      "went",
-      "did",
-      "was"
+      "precise verb",
+      "simple past",
+      "past progressive",
+      "dangling modifier"
     ],
-    "correct": 0,
-    "explanation": "“Dived” names the movement precisely and creates a clearer image.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "correct": 3,
+    "explanation": "This is dangling modifier: The opening phrase wrongly makes “the rain” seem to cross the oval.\nHint: Name the exact feature before explaining its effect.",
     "structuredExplanation": {
-      "summary": "“Dived” names the movement precisely and creates a clearer image.",
-      "hint": "Use the curriculum feature and the full context to justify the answer."
+      "summary": "This is dangling modifier: The opening phrase wrongly makes “the rain” seem to cross the oval.",
+      "hint": "Name the exact feature before explaining its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-042",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "expand verb group",
+    "stage": "core",
+    "skill": "dangling modifier-effect",
     "printable": true,
     "type": "single",
-    "question": "Which verb group shows cautious possibility in the future?",
-    "audioPrompt": "Which verb group shows cautious possibility in the future?",
+    "question": "Why is this choice effective in context: “After crossing the oval, the rain soaked Mia’s jacket.”?",
+    "audioPrompt": "Why is this choice effective in context: “After crossing the oval, the rain soaked Mia’s jacket.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1247,29 +1247,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "might have been improving",
-      "improves",
-      "must improve",
-      "improved"
+      "The opening phrase wrongly makes “the rain” seem to cross the oval.",
+      "“Surged” shows forceful, rapid movement more precisely than “went”.",
+      "“Rose” presents the change as a completed past event.",
+      "“Was rising” shows an ongoing process interrupted at a past moment."
     ],
     "correct": 0,
-    "explanation": "The expanded group combines modality, perfect and progressive aspects to express tentative ongoing change.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "explanation": "The opening phrase wrongly makes “the rain” seem to cross the oval.\nHint: Connect a precise piece of evidence to what it helps the reader understand.",
     "structuredExplanation": {
-      "summary": "The expanded group combines modality, perfect and progressive aspects to express tentative ongoing change.",
-      "hint": "Use the curriculum feature and the full context to justify the answer."
+      "summary": "The opening phrase wrongly makes “the rain” seem to cross the oval.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-043",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "analyse",
-    "skill": "interpret progressive tense",
+    "stage": "application",
+    "skill": "dangling modifier-revision",
     "printable": true,
     "type": "single",
-    "question": "What does “The engineers were testing the bridge” emphasise?",
-    "audioPrompt": "What does “The engineers were testing the bridge” emphasise?",
+    "question": "Which revision best applies dangling modifier to the idea in “After crossing the oval, the rain soaked Mia’s jacket.”?",
+    "audioPrompt": "Which revision best applies dangling modifier to the idea in “After crossing the oval, the rain soaked Mia’s jacket.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1277,29 +1277,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The testing was in progress at a past time.",
-      "The testing will certainly occur.",
-      "The testing is permanently complete.",
-      "The bridge performed the testing."
+      "After the storm, the creek surged over the low bank.",
+      "After Mia crossed the oval, the rain soaked her jacket.",
+      "During the trial, the temperature rose by six degrees.",
+      "The temperature was rising steadily when the timer sounded."
     ],
-    "correct": 0,
-    "explanation": "Past progressive presents the action as ongoing around a past reference point.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "correct": 1,
+    "explanation": "The revision applies dangling modifier deliberately while keeping the meaning clear.\nHint: Check meaning, purpose and grammatical or structural accuracy—not just fluency.",
     "structuredExplanation": {
-      "summary": "Past progressive presents the action as ongoing around a past reference point.",
-      "hint": "Use the curriculum feature and the full context to justify the answer."
+      "summary": "The revision applies dangling modifier deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-044",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "analyse",
-    "skill": "interpret perfect tense",
+    "stage": "challenge",
+    "skill": "dangling modifier-misconception",
     "printable": true,
     "type": "single",
-    "question": "What does “By noon, the team had repaired the leak” show?",
-    "audioPrompt": "What does “By noon, the team had repaired the leak” show?",
+    "question": "A student says, “An opening adverbial can logically attach to any noun.” Which response best corrects the misconception?",
+    "audioPrompt": "A student says, “An opening adverbial can logically attach to any noun.” Which response best corrects the misconception?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1307,29 +1307,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The repair was completed before another past time.",
-      "The repair is happening now.",
-      "The repair may happen next year.",
-      "The repair never occurred."
+      "Adding many adjectives is always the best way to sharpen a sentence.",
+      "Simple past always means an event happened before another past event.",
+      "The claim is too broad; the example shows that the opening phrase wrongly makes “the rain” seem to cross the oval.",
+      "Progressive aspect presents every event as completed."
     ],
-    "correct": 0,
-    "explanation": "Past perfect places the completed repair before the past reference time “by noon”.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "correct": 2,
+    "explanation": "The correction uses evidence from this example instead of an always-or-never rule.\nHint: Test the claim against the example and look for words such as always, never or guarantees.",
     "structuredExplanation": {
-      "summary": "Past perfect places the completed repair before the past reference time “by noon”.",
-      "hint": "Use the curriculum feature and the full context to justify the answer."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-045",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "choose adverb group",
+    "stage": "foundation",
+    "skill": "selective expansion",
     "printable": true,
     "type": "single",
-    "question": "Which adverb group best tells how the turtle crossed the road?",
-    "audioPrompt": "Which adverb group best tells how the turtle crossed the road?",
+    "question": "Read: “At dawn, the exhausted hikers cautiously crossed the narrow bridge.” Which description best identifies the highlighted language or text choice?",
+    "audioPrompt": "Read: “At dawn, the exhausted hikers cautiously crossed the narrow bridge.” Which description best identifies the highlighted language or text choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1337,29 +1337,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "with slow, deliberate movements",
-      "the old green road",
-      "a patient turtle",
-      "because the road closed"
+      "precise verb",
+      "simple past",
+      "past progressive",
+      "selective expansion"
     ],
-    "correct": 0,
-    "explanation": "The prepositional adverb group modifies the crossing by describing manner.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "correct": 3,
+    "explanation": "This is selective expansion: The time, manner and precise verb serve the scene without overwhelming it.\nHint: Name the exact feature before explaining its effect.",
     "structuredExplanation": {
-      "summary": "The prepositional adverb group modifies the crossing by describing manner.",
-      "hint": "Use the curriculum feature and the full context to justify the answer."
+      "summary": "This is selective expansion: The time, manner and precise verb serve the scene without overwhelming it.",
+      "hint": "Name the exact feature before explaining its effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-046",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "evaluate",
-    "skill": "maintain tense",
+    "stage": "core",
+    "skill": "selective expansion-effect",
     "printable": true,
     "type": "single",
-    "question": "Which revision fixes the tense shift? “Yesterday we measured the plot and record every plant”",
-    "audioPrompt": "Which revision fixes the tense shift? “Yesterday we measured the plot and record every plant”",
+    "question": "Why is this choice effective in context: “At dawn, the exhausted hikers cautiously crossed the narrow bridge.”?",
+    "audioPrompt": "Why is this choice effective in context: “At dawn, the exhausted hikers cautiously crossed the narrow bridge.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1367,29 +1367,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Yesterday we measured the plot and recorded every plant.",
-      "Yesterday we measure the plot and recorded every plant.",
-      "Yesterday we will measure and record every plant.",
-      "Yesterday measuring the plot records plants."
+      "The time, manner and precise verb serve the scene without overwhelming it.",
+      "“Surged” shows forceful, rapid movement more precisely than “went”.",
+      "“Rose” presents the change as a completed past event.",
+      "“Was rising” shows an ongoing process interrupted at a past moment."
     ],
     "correct": 0,
-    "explanation": "Both coordinated past actions should use consistent simple-past forms.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "explanation": "The time, manner and precise verb serve the scene without overwhelming it.\nHint: Connect a precise piece of evidence to what it helps the reader understand.",
     "structuredExplanation": {
-      "summary": "Both coordinated past actions should use consistent simple-past forms.",
-      "hint": "Use the curriculum feature and the full context to justify the answer."
+      "summary": "The time, manner and precise verb serve the scene without overwhelming it.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-047",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "sharpen with verb and adverb",
+    "stage": "application",
+    "skill": "selective expansion-revision",
     "printable": true,
     "type": "single",
-    "question": "Which revision is most precise?",
-    "audioPrompt": "Which revision is most precise?",
+    "question": "Which revision best applies selective expansion to the idea in “At dawn, the exhausted hikers cautiously crossed the narrow bridge.”?",
+    "audioPrompt": "Which revision best applies selective expansion to the idea in “At dawn, the exhausted hikers cautiously crossed the narrow bridge.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1397,29 +1397,29 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The current surged suddenly through the narrow channel.",
-      "The current went very much.",
-      "The current was a thing in water.",
-      "Suddenly narrow was the current."
+      "After the storm, the creek surged over the low bank.",
+      "At dawn, the exhausted hikers cautiously crossed the narrow bridge before the wind strengthened.",
+      "During the trial, the temperature rose by six degrees.",
+      "The temperature was rising steadily when the timer sounded."
     ],
-    "correct": 0,
-    "explanation": "The precise verb and manner adverb sharpen both action and timing.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "correct": 1,
+    "explanation": "The revision applies selective expansion deliberately while keeping the meaning clear.\nHint: Check meaning, purpose and grammatical or structural accuracy—not just fluency.",
     "structuredExplanation": {
-      "summary": "The precise verb and manner adverb sharpen both action and timing.",
-      "hint": "Use the curriculum feature and the full context to justify the answer."
+      "summary": "The revision applies selective expansion deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-048",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "stage": "evaluate",
-    "skill": "compare aspect",
+    "stage": "challenge",
+    "skill": "selective expansion-misconception",
     "printable": true,
     "type": "single",
-    "question": "Why might a writer choose “has been monitoring” instead of “monitored”?",
-    "audioPrompt": "Why might a writer choose “has been monitoring” instead of “monitored”?",
+    "question": "A student says, “More detail always makes an idea sharper.” Which response best corrects the misconception?",
+    "audioPrompt": "A student says, “More detail always makes an idea sharper.” Which response best corrects the misconception?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1427,18 +1427,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "To show an activity began earlier and continues or remains relevant now",
-      "To show a single finished action with no present link",
-      "To remove the subject from the sentence",
-      "To describe a future command"
+      "Adding many adjectives is always the best way to sharpen a sentence.",
+      "Simple past always means an event happened before another past event.",
+      "The claim is too broad; the example shows that the time, manner and precise verb serve the scene without overwhelming it.",
+      "Progressive aspect presents every event as completed."
     ],
-    "correct": 0,
-    "explanation": "Present perfect progressive connects an earlier start with continuing duration or present relevance.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "correct": 2,
+    "explanation": "The correction uses evidence from this example instead of an always-or-never rule.\nHint: Test the claim against the example and look for words such as always, never or guarantees.",
     "structuredExplanation": {
-      "summary": "Present perfect progressive connects an earlier start with continuing duration or present relevance.",
-      "hint": "Use the curriculum feature and the full context to justify the answer."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

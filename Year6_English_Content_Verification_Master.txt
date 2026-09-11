@@ -1,0 +1,522 @@
+YEAR 6 ENGLISH CONTENT VERIFICATION MASTER
+Updated: 2026-09-11
+
+==================================================
+CODE: AC9E6LA02
+STATUS: CONTENT VERIFIED
+==================================================
+RESEARCH USED:
+- Year6_English_Curriculum_Research_Master.txt; verified IXL C.1/C.2 and L.1/T.1/T.2 worked-example evidence.
+- Focus: objective/subjective wording, connotation, attribution, selection, omission, framing, sampling, visuals and qualified bias judgements.
+TOPIC PAGE:
+- gaps found: no remaining concept gap after the recorded depth re-audit.
+- changes made: retained the complete post-research teaching block and checked alignment to the rebuilt banks.
+- final status: VERIFIED
+CLASSROOM VIEW:
+- changes made: added an explicit research-aligned teaching sequence, model prompts, misconception check and exit check.
+- final status: VERIFIED
+HOMEWORK/WORKSHEET:
+- retained items: four strong post-research written-response tasks and answer guidance.
+- re-authored/replaced items: learning focus and the 12-question printable bank source updated to the new research-aligned practice set.
+- final status: VERIFIED
+PRACTICE BANK:
+- retained post-research questions: 0 present in the repository at audit time; the claimed P-041–P-048 items were not in the actual bank.
+- newly re-authored questions: 48
+- total: 48/48
+- final status: VERIFIED
+TEST BANK:
+- retained post-research questions: 0
+- newly re-authored questions: 16
+- total: 16/16
+- final status: VERIFIED
+QA:
+- duplicate check: PASS
+- scope check: PASS
+- answer check: PASS
+- concept coverage: PASS
+- copyright/originality check: PASS
+CONTENT STATUS: CONTENT VERIFIED
+
+==================================================
+CODE: AC9E6LE03
+STATUS: CONTENT VERIFIED
+==================================================
+RESEARCH USED:
+- Research master AC9E6LE03: curriculum scope plus Australian author-craft evidence; IXL/Khan correctly recorded as not materially mapped.
+- Focus: recurring cross-text patterns, narrator/author distinction, syntax, imagery, humour, pacing, motif, theme and genre boundaries.
+TOPIC PAGE:
+- gaps found: existing page was generic and lacked full authorial-style depth.
+- changes made: added a complete research-aligned learning section with 12 original models, effects, misconceptions and an independent check.
+- final status: VERIFIED
+CLASSROOM VIEW:
+- changes made: added explicit modelling, guided comparisons, misconception repair and exit evidence.
+- final status: VERIFIED
+HOMEWORK/WORKSHEET:
+- retained items: aligned written-response tasks where strong.
+- re-authored/replaced items: learning focus and 12-question printable source.
+- final status: VERIFIED
+PRACTICE BANK: 0 retained; 48 newly re-authored; 48/48 VERIFIED
+TEST BANK: 0 retained; 16 newly re-authored; 16/16 VERIFIED
+QA: duplicate PASS; scope PASS; answers PASS; concept coverage PASS; originality PASS
+CONTENT STATUS: CONTENT VERIFIED
+
+==================================================
+CODE: AC9E6LE04
+STATUS: CONTENT VERIFIED
+==================================================
+RESEARCH USED:
+- Research master AC9E6LE04: reused verified IXL F.3 worked-example evidence and Australian poetry/sound resources.
+- Focus: alliteration, assonance, rhyme, rhythm, onomatopoeia, repetition, imagery, line breaks, performance and combined effects.
+TOPIC PAGE:
+- gaps found: existing page was generic and did not teach the full researched sound–imagery sequence.
+- changes made: added 12 original models, effect explanations, misconception repairs and mastery check.
+- final status: VERIFIED
+CLASSROOM VIEW: research-aligned explicit teaching and guided checks added; VERIFIED
+HOMEWORK/WORKSHEET: strong items retained where present; focus and 12-question printable source updated; VERIFIED
+PRACTICE BANK: 0 retained; 48 newly re-authored; 48/48 VERIFIED
+TEST BANK: 0 retained; 16 newly re-authored; 16/16 VERIFIED
+QA: duplicate PASS; scope PASS; answers PASS; concept coverage PASS; originality PASS
+CONTENT STATUS: CONTENT VERIFIED
+
+==================================================
+CODE: AC9E6LE05
+STATUS: CONTENT VERIFIED
+==================================================
+RESEARCH USED:
+- Research master AC9E6LE05: reused verified IXL M.1 evidence plus Australian narrative/adaptation guidance.
+- Focus: genuine transformation, plot causality, motivation, active setting, viewpoint, motif, foreshadowing, pacing and revision.
+TOPIC PAGE:
+- gaps found: existing page was generic and lacked a complete adaptation-and-editing pathway.
+- changes made: added a full original teaching sequence, worked models, copyright-safe adaptation boundaries and mastery check.
+- final status: VERIFIED
+CLASSROOM VIEW: explicit modelling, guided revision and misconception checks added; VERIFIED
+HOMEWORK/WORKSHEET: aligned work retained where strong; focus and 12 fresh printable-source questions updated; VERIFIED
+PRACTICE BANK: 0 retained; 48 newly re-authored; 48/48 VERIFIED
+TEST BANK: 0 retained; 16 newly re-authored; 16/16 VERIFIED
+QA: duplicate PASS; scope PASS; answers PASS; concept coverage PASS; originality PASS
+CONTENT STATUS: CONTENT VERIFIED
+
+==================================================
+CODE: AC9E6LY01
+STATUS: CONTENT VERIFIED
+==================================================
+RESEARCH USED:
+- Research master AC9E6LY01: verified IXL J.1 visual-comparison evidence and Australian media-literacy/archive sources.
+- Focus: creation context, audience, event representation, selection, viewpoint, technology, social values, multimodal framing and qualified judgement.
+TOPIC PAGE:
+- gaps found: existing page was generic and lacked the full context-to-representation reasoning sequence.
+- changes made: added 12 original models, contextual effect explanations, stereotype safeguards and mastery check.
+- final status: VERIFIED
+CLASSROOM VIEW: research-aligned modelling, prompts, misconception and exit checks added; VERIFIED
+HOMEWORK/WORKSHEET: strong items retained where applicable; focus and 12 fresh printable-source questions updated; VERIFIED
+PRACTICE BANK: 0 retained; 48 newly re-authored; 48/48 VERIFIED
+TEST BANK: 0 retained; 16 newly re-authored; 16/16 VERIFIED
+QA: duplicate PASS; scope PASS; answers PASS; concept coverage PASS; originality PASS
+CONTENT STATUS: CONTENT VERIFIED
+
+==================================================
+CODE: AC9E6LY02
+STATUS: CONTENT VERIFIED
+==================================================
+RESEARCH USED:
+- Research master AC9E6LY02: verified IXL C.1/C.2 formality/tone examples plus Australian supported-discussion guidance.
+- Focus: paraphrasing, clarifying, probing, register, supported argument, counterargument, evaluation, turn-taking and synthesis.
+TOPIC PAGE:
+- gaps found: existing page was generic and lacked complete interaction moves and reasoning models.
+- changes made: added 12 original interaction models, effects, misconception corrections and mastery check.
+- final status: VERIFIED
+CLASSROOM VIEW: explicit teacher-led progression and guided discussion checks added; VERIFIED
+HOMEWORK/WORKSHEET: aligned items retained where strong; focus and 12 fresh printable-source questions updated; VERIFIED
+PRACTICE BANK: 0 retained; 48 newly re-authored; 48/48 VERIFIED
+TEST BANK: 0 retained; 16 newly re-authored; 16/16 VERIFIED
+QA: duplicate PASS; scope PASS; answers PASS; concept coverage PASS; originality PASS
+CONTENT STATUS: CONTENT VERIFIED
+
+==================================================
+CODE: AC9E6LA07
+STATUS: CONTENT VERIFIED
+==================================================
+RESEARCH USED:
+- Research master AC9E6LA07 section: Australian Curriculum descriptor and Australian multimodal evidence; IXL/Khan correctly recorded as not materially mapped.
+- Focus: images, captions, tables, graphs, diagrams, figures, maps, conventions, cross-modal meaning and misleading presentation.
+TOPIC PAGE:
+- gaps found: none after the post-research visual-literacy depth upgrade.
+- changes made: retained the complete teaching block and confirmed alignment to the rebuilt banks.
+- final status: VERIFIED
+CLASSROOM VIEW:
+- changes made: added explicit modelling, six guided examples, misconception check and exit check.
+- final status: VERIFIED
+HOMEWORK/WORKSHEET:
+- retained items: existing aligned written-response activities where present.
+- re-authored/replaced items: research-specific learning focus and 12-question printable source.
+- final status: VERIFIED
+PRACTICE BANK:
+- retained post-research questions: 0
+- newly re-authored questions: 48
+- total: 48/48
+- final status: VERIFIED
+TEST BANK:
+- retained post-research questions: 0
+- newly re-authored questions: 16
+- total: 16/16
+- final status: VERIFIED
+QA:
+- duplicate check: PASS
+- scope check: PASS
+- answer check: PASS
+- concept coverage: PASS
+- copyright/originality check: PASS
+CONTENT STATUS: CONTENT VERIFIED
+
+==================================================
+CODE: AC9E6LA08
+STATUS: CONTENT VERIFIED
+==================================================
+RESEARCH USED:
+- Research master AC9E6LA08 section; IXL F.1–F.3 and M.1 worked-example evidence plus Australian upper-primary poetry resources.
+- Focus: metaphor, simile, personification, idiom, hyperbole, imagery, connotation, tone and sustained patterns.
+TOPIC PAGE:
+- gaps found: none after the post-research vivid-language depth upgrade.
+- changes made: retained the complete teaching block and checked bank-to-lesson coverage.
+- final status: VERIFIED
+CLASSROOM VIEW:
+- changes made: added research-aligned explicit teaching, guided analysis, misconception repair and exit evidence.
+- final status: VERIFIED
+HOMEWORK/WORKSHEET:
+- retained items: strong aligned written tasks and answer guidance where present.
+- re-authored/replaced items: learning focus and 12 fresh printable-source questions.
+- final status: VERIFIED
+PRACTICE BANK:
+- retained post-research questions: 0
+- newly re-authored questions: 48
+- total: 48/48
+- final status: VERIFIED
+TEST BANK:
+- retained post-research questions: 0
+- newly re-authored questions: 16
+- total: 16/16
+- final status: VERIFIED
+QA:
+- duplicate check: PASS
+- scope check: PASS
+- answer check: PASS
+- concept coverage: PASS
+- copyright/originality check: PASS
+CONTENT STATUS: CONTENT VERIFIED
+
+==================================================
+CODE: AC9E6LA09
+STATUS: CONTENT VERIFIED
+==================================================
+RESEARCH USED:
+- Research master AC9E6LA09 section; verified IXL X.8, II.1, II.2 and dialogue/comma evidence with supplementary conventions sources.
+- Focus: list commas, dependent/main-clause boundaries, reporting clauses, split dialogue, speaker paragraphs and comma-splice avoidance.
+TOPIC PAGE:
+- gaps found: none after the post-research comma depth upgrade.
+- changes made: retained the complete teaching models and confirmed all assessed conventions are taught.
+- final status: VERIFIED
+CLASSROOM VIEW:
+- changes made: added explicit punctuation modelling, guided checks, misconception repair and exit check.
+- final status: VERIFIED
+HOMEWORK/WORKSHEET:
+- retained items: aligned punctuation practice and answer guidance where present.
+- re-authored/replaced items: learning focus and 12 fresh printable-source questions.
+- final status: VERIFIED
+PRACTICE BANK:
+- retained post-research questions: 0
+- newly re-authored questions: 48
+- total: 48/48
+- final status: VERIFIED
+TEST BANK:
+- retained post-research questions: 0
+- newly re-authored questions: 16
+- total: 16/16
+- final status: VERIFIED
+QA:
+- duplicate check: PASS
+- scope check: PASS
+- answer check: PASS
+- concept coverage: PASS
+- copyright/originality check: PASS
+CONTENT STATUS: CONTENT VERIFIED
+
+==================================================
+CODE: AC9E6LE01
+STATUS: CONTENT VERIFIED
+==================================================
+RESEARCH USED:
+- Research master AC9E6LE01 section; verified IXL G.1 inference evidence and First Nations-led Australian contextual resources.
+- Focus: evidence-based reader response, historical/social/cultural context, First Nations text protocols, alternative interpretations and qualified judgements.
+TOPIC PAGE:
+- gaps found: none after the post-research contextual-response depth upgrade.
+- changes made: retained the complete teaching block and checked cultural safety and bank alignment.
+- final status: VERIFIED
+CLASSROOM VIEW:
+- changes made: added an evidence-and-context teaching sequence, modelled alternatives, misconception check and exit response.
+- final status: VERIFIED
+HOMEWORK/WORKSHEET:
+- retained items: aligned response tasks and answer guidance where present.
+- re-authored/replaced items: research-specific learning focus and 12 fresh printable-source questions.
+- final status: VERIFIED
+PRACTICE BANK:
+- retained post-research questions: 0
+- newly re-authored questions: 48
+- total: 48/48
+- final status: VERIFIED
+TEST BANK:
+- retained post-research questions: 0
+- newly re-authored questions: 16
+- total: 16/16
+- final status: VERIFIED
+QA:
+- duplicate check: PASS
+- scope check: PASS
+- answer check: PASS
+- concept coverage: PASS
+- copyright/originality check: PASS
+CONTENT STATUS: CONTENT VERIFIED
+
+==================================================
+CODE: AC9E6LE02
+STATUS: CONTENT VERIFIED
+==================================================
+RESEARCH USED:
+- Research master AC9E6LE02 section; verified IXL B.1, B.2 and I.1 evidence with G.1 appropriately reused.
+- Focus: topic/theme distinction, plot, character, setting, viewpoint, genre, symbol, context, balanced evidence and synthesis.
+TOPIC PAGE:
+- gaps found: none after the post-research comparative-literature depth upgrade.
+- changes made: retained the complete teaching sequence and confirmed both-text evidence requirements.
+- final status: VERIFIED
+CLASSROOM VIEW:
+- changes made: added explicit comparative modelling, six guided examples, misconception check and synthesis exit task.
+- final status: VERIFIED
+HOMEWORK/WORKSHEET:
+- retained items: aligned comparative written tasks and answer guidance where present.
+- re-authored/replaced items: learning focus and 12 fresh printable-source questions.
+- final status: VERIFIED
+PRACTICE BANK:
+- retained post-research questions: 0
+- newly re-authored questions: 48
+- total: 48/48
+- final status: VERIFIED
+TEST BANK:
+- retained post-research questions: 0
+- newly re-authored questions: 16
+- total: 16/16
+- final status: VERIFIED
+QA:
+- duplicate check: PASS
+- scope check: PASS
+- answer check: PASS
+- concept coverage: PASS
+- copyright/originality check: PASS
+CONTENT STATUS: CONTENT VERIFIED
+
+==================================================
+CODE: AC9E6LA03
+STATUS: CONTENT VERIFIED
+==================================================
+RESEARCH USED:
+- Year6_English_Curriculum_Research_Master.txt; verified IXL C.1–C.3, E.1–E.4, F.3 and I.1 evidence.
+- Focus: purposes, characteristic stages, phases, disciplinary language, adaptations, embedded structures and multimodal organisation.
+TOPIC PAGE:
+- gaps found: none after the post-research stages/phases depth upgrade.
+- changes made: retained the complete worked model and confirmed all bank concepts are taught.
+- final status: VERIFIED
+CLASSROOM VIEW:
+- changes made: added explicit instruction, six modelled/guided examples, misconception check and gradual release.
+- final status: VERIFIED
+HOMEWORK/WORKSHEET:
+- retained items: existing route and printable workflow.
+- re-authored/replaced items: research-specific learning focus and 12 fresh worksheet-source questions.
+- final status: VERIFIED
+PRACTICE BANK:
+- retained post-research questions: 0
+- newly re-authored questions: 48
+- total: 48/48
+- final status: VERIFIED
+TEST BANK:
+- retained post-research questions: 0
+- newly re-authored questions: 16
+- total: 16/16
+- final status: VERIFIED
+QA:
+- duplicate check: PASS
+- scope check: PASS
+- answer check: PASS
+- concept coverage: PASS
+- copyright/originality check: PASS
+CONTENT STATUS: CONTENT VERIFIED
+
+==================================================
+CODE: AC9E6LA04
+STATUS: CONTENT VERIFIED
+==================================================
+RESEARCH USED:
+- Year6_English_Curriculum_Research_Master.txt; verified IXL R.1–R.4 practice and worked-example evidence.
+- Focus: intentional repetition, synonyms, antonyms, categories, part–whole links, semantic fields, reference clarity and paragraph-spanning lexical chains.
+TOPIC PAGE:
+- gaps found: none after the post-research cohesion depth upgrade.
+- changes made: retained the full teaching sequence and checked bank-to-lesson coverage.
+- final status: VERIFIED
+CLASSROOM VIEW:
+- changes made: added research-aligned modelling, guided prompts, misconception check and exit evidence.
+- final status: VERIFIED
+HOMEWORK/WORKSHEET:
+- retained items: four aligned written-response tasks and answer guide.
+- re-authored/replaced items: learning focus and 12-question bank source aligned to the rebuilt practice set.
+- final status: VERIFIED
+PRACTICE BANK:
+- retained post-research questions: 0
+- newly re-authored questions: 48
+- total: 48/48
+- final status: VERIFIED
+TEST BANK:
+- retained post-research questions: 0
+- newly re-authored questions: 16
+- total: 16/16
+- final status: VERIFIED
+QA:
+- duplicate check: PASS
+- scope check: PASS
+- answer check: PASS
+- concept coverage: PASS
+- copyright/originality check: PASS
+CONTENT STATUS: CONTENT VERIFIED
+
+==================================================
+CODE: AC9E6LA05
+STATUS: CONTENT VERIFIED
+==================================================
+RESEARCH USED:
+- Year6_English_Curriculum_Research_Master.txt; verified IXL X.9 and GG.1–GG.5 plus supplementary Khan conjunction evidence.
+- Focus: clause/phrase prerequisites, head nouns, relative/content/non-finite embeddings, restrictive/supplementary meaning, punctuation and attachment.
+TOPIC PAGE:
+- gaps found: none after the post-research embedded-clause depth upgrade.
+- changes made: retained the complete models and checked Year 6 boundaries and bank alignment.
+- final status: VERIFIED
+CLASSROOM VIEW:
+- changes made: added an explicit clause-focused teaching sequence, model/guided checks and misconception repair.
+- final status: VERIFIED
+HOMEWORK/WORKSHEET:
+- retained items: four strong sentence-analysis and sentence-combining tasks with answers.
+- re-authored/replaced items: research-specific learning focus and 12 fresh worksheet-source questions.
+- final status: VERIFIED
+PRACTICE BANK:
+- retained post-research questions: 0
+- newly re-authored questions: 48
+- total: 48/48
+- final status: VERIFIED
+TEST BANK:
+- retained post-research questions: 0
+- newly re-authored questions: 16
+- total: 16/16
+- final status: VERIFIED
+QA:
+- duplicate check: PASS
+- scope check: PASS
+- answer check: PASS
+- concept coverage: PASS
+- copyright/originality check: PASS
+CONTENT STATUS: CONTENT VERIFIED
+
+==================================================
+CODE: AC9E6LA06
+STATUS: CONTENT VERIFIED
+==================================================
+RESEARCH USED:
+- Year6_English_Curriculum_Research_Master.txt; verified IXL DD.1, DD.2, DD.4, DD.5, DD.7, DD.8, EE.3, EE.4, EE.9 and EE.10 plus supplementary Khan aspect evidence.
+- Focus: precise verbs, simple/progressive/perfect meaning, modality, adverb groups, prepositional phrases, conditions, modifier attachment and selective expansion.
+TOPIC PAGE:
+- gaps found: none after the post-research verbs/tenses/adverb-groups depth upgrade.
+- changes made: retained the complete teaching block and confirmed the questions introduce no untaught core concept.
+- final status: VERIFIED
+CLASSROOM VIEW:
+- changes made: added explicit modelling, guided comparison, misconception check and independent exit check.
+- final status: VERIFIED
+HOMEWORK/WORKSHEET:
+- retained items: four aligned editing/application tasks and answer guidance.
+- re-authored/replaced items: learning focus and 12-question printable source aligned to the fresh bank.
+- final status: VERIFIED
+PRACTICE BANK:
+- retained post-research questions: 0
+- newly re-authored questions: 48
+- total: 48/48
+- final status: VERIFIED
+TEST BANK:
+- retained post-research questions: 0
+- newly re-authored questions: 16
+- total: 16/16
+- final status: VERIFIED
+QA:
+- duplicate check: PASS
+- scope check: PASS
+- answer check: PASS
+- concept coverage: PASS
+- copyright/originality check: PASS
+CONTENT STATUS: CONTENT VERIFIED
+
+==================================================
+CODE: AC9E6LY03
+STATUS: CONTENT VERIFIED
+==================================================
+RESEARCH USED: Research master IXL C.1–C.3 and E.1–E.4 evidence, with audience and multimodal synthesis from Australian sources.
+TOPIC PAGE: generic teaching gap replaced with a complete research-aligned lesson covering structure, language, visuals, audience and combined effects; VERIFIED
+CLASSROOM VIEW: explicit modelling, guided checks, misconception repair and exit task added; VERIFIED
+HOMEWORK/WORKSHEET: learning focus and 12 fresh printable-source questions aligned; VERIFIED
+PRACTICE BANK: 0 retained; 48 newly re-authored; 48/48 VERIFIED
+TEST BANK: 0 retained; 16 newly re-authored; 16/16 VERIFIED
+QA: duplicates PASS; scope PASS; answers PASS; coverage PASS; originality PASS
+CONTENT STATUS: CONTENT VERIFIED
+
+==================================================
+CODE: AC9E6LY04
+STATUS: CONTENT VERIFIED
+==================================================
+RESEARCH USED: Research master IXL V.5 evidence plus Australian navigation, structural-feature and monitoring requirements.
+TOPIC PAGE: generic content replaced with complete teaching of purpose-led selection, contents, index, glossary, headings, chapters, links, search, skimming and monitoring; VERIFIED
+CLASSROOM VIEW: research-aligned teacher sequence and guided examples added; VERIFIED
+HOMEWORK/WORKSHEET: learning focus and 12 fresh printable-source questions aligned; VERIFIED
+PRACTICE BANK: 0 retained; 48 newly re-authored; 48/48 VERIFIED
+TEST BANK: 0 retained; 16 newly re-authored; 16/16 VERIFIED
+QA: duplicates PASS; scope PASS; answers PASS; coverage PASS; originality PASS
+CONTENT STATUS: CONTENT VERIFIED
+
+==================================================
+CODE: AC9E6LY05
+STATUS: CONTENT VERIFIED
+==================================================
+RESEARCH USED: Research master comprehension evidence and Australian strategy model; no unsupported direct IXL/Khan mapping claimed.
+TOPIC PAGE: generic content replaced with predicting, visualising, connecting, questioning, literal/inferred meaning, summarising, monitoring, comparing, corroborating and synthesising; VERIFIED
+CLASSROOM VIEW: strategy modelling, guided repair and exit application added; VERIFIED
+HOMEWORK/WORKSHEET: learning focus and 12 fresh printable-source questions aligned; VERIFIED
+PRACTICE BANK: 0 retained; 48 newly re-authored; 48/48 VERIFIED
+TEST BANK: 0 retained; 16 newly re-authored; 16/16 VERIFIED
+QA: duplicates PASS; scope PASS; answers PASS; coverage PASS; originality PASS
+CONTENT STATUS: CONTENT VERIFIED
+
+==================================================
+CODE: AC9E6LY06
+STATUS: CONTENT VERIFIED
+==================================================
+RESEARCH USED: Research master verified/reused IXL purpose, structure, evidence, revision, sentence, language and convention patterns plus Australian whole-composition guidance.
+TOPIC PAGE: generic content replaced with a full plan–draft–revise–edit–publish pathway, including paragraphs, sentences, verbs, tense, vocabulary, visuals and ethical publishing; VERIFIED
+CLASSROOM VIEW: explicit composition sequence, modelling and checks added; VERIFIED
+HOMEWORK/WORKSHEET: learning focus and 12 fresh printable-source questions aligned; VERIFIED
+PRACTICE BANK: 0 retained; 48 newly re-authored; 48/48 VERIFIED
+TEST BANK: 0 retained; 16 newly re-authored; 16/16 VERIFIED
+QA: duplicates PASS; scope PASS; answers PASS; coverage PASS; originality PASS
+CONTENT STATUS: CONTENT VERIFIED
+
+==================================================
+CODE: AC9E6LY07
+STATUS: CONTENT VERIFIED
+==================================================
+RESEARCH USED: Research master reused audience/tone evidence and Australian spoken/multimodal presentation guidance; no direct IXL mapping claimed.
+TOPIC PAGE: generic content replaced with audience, purpose, spoken structure, evidence, voice, pace, intonation, gesture, slides, multimodal coordination, rehearsal and question response; VERIFIED
+CLASSROOM VIEW: teacher-led modelling, guided rehearsal checks and exit task added; VERIFIED
+HOMEWORK/WORKSHEET: learning focus and 12 fresh printable-source questions aligned; VERIFIED
+PRACTICE BANK: 0 retained; 48 newly re-authored; 48/48 VERIFIED
+TEST BANK: 0 retained; 16 newly re-authored; 16/16 VERIFIED
+QA: duplicates PASS; scope PASS; answers PASS; coverage PASS; originality PASS
+CONTENT STATUS: CONTENT VERIFIED

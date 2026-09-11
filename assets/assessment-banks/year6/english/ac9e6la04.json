@@ -5,37 +5,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "trace_reference_chain",
-    "question": "In a class podcast, which connective best signals a result?",
-    "audio_prompt": "In a class podcast, which connective best signals a result?",
+    "stage": "foundation",
+    "skill": "purposeful repetition",
+    "question": "Read: “Mangrove roots trap sediment. These roots also shelter young fish.” Which description best identifies the highlighted language or text choice?",
+    "audio_prompt": "Read: “Mangrove roots trap sediment. These roots also shelter young fish.” Which description best identifies the highlighted language or text choice?",
     "answers": [
       {
-        "text": "however",
+        "text": "synonym chain",
         "is_correct": false
       },
       {
-        "text": "meanwhile",
-        "is_correct": false
-      },
-      {
-        "text": "although",
-        "is_correct": false
-      },
-      {
-        "text": "therefore",
+        "text": "purposeful repetition",
         "is_correct": true
+      },
+      {
+        "text": "category link",
+        "is_correct": false
+      },
+      {
+        "text": "part–whole link",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“therefore” is the strongest choice because it matches the language feature and the situation.",
-      "hint": "Variation should not obscure the topic. Readers must recover exactly what each pronoun, substitute or ellipsis refers to."
+      "summary": "This is purposeful repetition: Repeating “roots” keeps the technical focus exact across sentences.",
+      "hint": "Name the exact feature before explaining its effect."
     },
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "foundation",
     "sequence_priority": 1,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-P-002",
@@ -43,37 +43,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "substitution",
-    "question": "Which term best matches this meaning: “replacement by a word or phrase standing for earlier content”?",
-    "audio_prompt": "Which term best matches this meaning: “replacement by a word or phrase standing for earlier content”?",
+    "stage": "foundation",
+    "skill": "purposeful repetition-effect",
+    "question": "Why is this choice effective in context: “Mangrove roots trap sediment. These roots also shelter young fish.”?",
+    "audio_prompt": "Why is this choice effective in context: “Mangrove roots trap sediment. These roots also shelter young fish.”?",
     "answers": [
       {
-        "text": "substitution",
+        "text": "A related expression maintains the topic while adding meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "The superordinate term “birds” groups the named species.",
+        "is_correct": false
+      },
+      {
+        "text": "Repeating “roots” keeps the technical focus exact across sentences.",
         "is_correct": true
       },
       {
-        "text": "reference",
-        "is_correct": false
-      },
-      {
-        "text": "ellipsis",
-        "is_correct": false
-      },
-      {
-        "text": "It does not match the evidence in the example.",
+        "text": "“Chain” and “gears” are associated parts of the bicycle, sustaining the topic.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "substitution means replacement by a word or phrase standing for earlier content.",
-      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
+      "summary": "Repeating “roots” keeps the technical focus exact across sentences.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "foundation",
     "sequence_priority": 2,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-P-003",
@@ -81,37 +81,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "pronoun_reference",
-    "question": "Read this example from a science investigation: “it / they / this”. Which label best describes what the language is doing?",
-    "audio_prompt": "Read this example from a science investigation: “it / they / this”. Which label best describes what the language is doing?",
+    "stage": "core",
+    "skill": "purposeful repetition-revision",
+    "question": "Which revision best applies purposeful repetition to the idea in “Mangrove roots trap sediment. These roots also shelter young fish.”?",
+    "audio_prompt": "Which revision best applies purposeful repetition to the idea in “Mangrove roots trap sediment. These roots also shelter young fish.”?",
     "answers": [
       {
-        "text": "repetition",
+        "text": "The storm damaged the coast. This severe weather event also closed roads.",
         "is_correct": false
       },
       {
-        "text": "pronoun reference",
+        "text": "Kookaburras and rosellas visited. These native birds fed near the fence.",
+        "is_correct": false
+      },
+      {
+        "text": "The bicycle needed repair because its chain had slipped from the gears.",
+        "is_correct": false
+      },
+      {
+        "text": "Mangrove roots trap sediment. These roots also create sheltered habitat.",
         "is_correct": true
-      },
-      {
-        "text": "substitution",
-        "is_correct": false
-      },
-      {
-        "text": "ellipsis",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "“it / they / this” is an example of pronoun reference; here it tracks participant or idea.",
-      "hint": "Variation should not obscure the topic. Readers must recover exactly what each pronoun, substitute or ellipsis refers to."
+      "summary": "The revision applies purposeful repetition deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 3,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-P-004",
@@ -119,37 +119,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "misconception_repair",
-    "question": "Which correction best fixes this idea: “Connective chosen for variety”?",
-    "audio_prompt": "Which correction best fixes this idea: “Connective chosen for variety”?",
+    "stage": "core",
+    "skill": "purposeful repetition-misconception",
+    "question": "A student says, “All repeated nouns should be replaced with pronouns.” Which response best corrects the misconception?",
+    "audio_prompt": "A student says, “All repeated nouns should be replaced with pronouns.” Which response best corrects the misconception?",
     "answers": [
       {
-        "text": "Every repetition removed",
-        "is_correct": false
-      },
-      {
-        "text": "Pronoun has several antecedents",
-        "is_correct": false
-      },
-      {
-        "text": "Match logic.",
+        "text": "The claim is too broad; the example shows that repeating “roots” keeps the technical focus exact across sentences.",
         "is_correct": true
       },
       {
-        "text": "Ellipsis removes essential meaning",
+        "text": "All repeated nouns should be replaced with pronouns.",
+        "is_correct": false
+      },
+      {
+        "text": "Any two words with similar meanings can be swapped in every context.",
+        "is_correct": false
+      },
+      {
+        "text": "A category word must repeat every original noun.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Match logic. This fixes the misconception without creating a new rule that is too broad.",
-      "hint": "Check the actual language evidence rather than relying on an absolute rule."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 4,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-P-005",
@@ -157,37 +157,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "connective",
-    "question": "Which example would be most useful when explaining cohesion through reference and lexical chains in a sports-club discussion?",
-    "audio_prompt": "Which example would be most useful when explaining cohesion through reference and lexical chains in a sports-club discussion?",
+    "stage": "foundation",
+    "skill": "synonym chain",
+    "question": "Read: “The storm damaged the coast. The destructive weather system also closed roads.” Which description best identifies the highlighted language or text choice?",
+    "audio_prompt": "Read: “The storm damaged the coast. The destructive weather system also closed roads.” Which description best identifies the highlighted language or text choice?",
     "answers": [
       {
-        "text": "erosion … erosion",
+        "text": "purposeful repetition",
         "is_correct": false
       },
       {
-        "text": "the process",
-        "is_correct": false
-      },
-      {
-        "text": "it / they / this",
-        "is_correct": false
-      },
-      {
-        "text": "however / therefore",
+        "text": "synonym chain",
         "is_correct": true
+      },
+      {
+        "text": "category link",
+        "is_correct": false
+      },
+      {
+        "text": "part–whole link",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "explanation": {
-      "summary": "This example directly demonstrates connective and can be explained using the language clue in the text.",
-      "hint": "Students trace how participants and ideas are maintained across paragraphs, use repetition for precision, substitution and ellipsis for economy and connectives for logical relationships."
+      "summary": "This is synonym chain: A related expression maintains the topic while adding meaning.",
+      "hint": "Name the exact feature before explaining its effect."
     },
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "foundation",
     "sequence_priority": 5,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-P-006",
@@ -195,37 +195,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "trace_reference_chain",
-    "question": "In a library display, which sentence contains ellipsis?",
-    "audio_prompt": "In a library display, which sentence contains ellipsis?",
+    "stage": "foundation",
+    "skill": "synonym chain-effect",
+    "question": "Why is this choice effective in context: “The storm damaged the coast. The destructive weather system also closed roads.”?",
+    "audio_prompt": "Why is this choice effective in context: “The storm damaged the coast. The destructive weather system also closed roads.”?",
     "answers": [
       {
-        "text": "Mia chose red; Kai, blue.",
+        "text": "Repeating “roots” keeps the technical focus exact across sentences.",
+        "is_correct": false
+      },
+      {
+        "text": "The superordinate term “birds” groups the named species.",
+        "is_correct": false
+      },
+      {
+        "text": "A related expression maintains the topic while adding meaning.",
         "is_correct": true
       },
       {
-        "text": "Mia chose red and Kai chose blue.",
-        "is_correct": false
-      },
-      {
-        "text": "Mia and Kai chose colours.",
-        "is_correct": false
-      },
-      {
-        "text": "Red and blue are colours.",
+        "text": "“Chain” and “gears” are associated parts of the bicycle, sustaining the topic.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "“Mia chose red; Kai, blue.” is the strongest choice because it matches the language feature and the situation.",
-      "hint": "Variation should not obscure the topic. Readers must recover exactly what each pronoun, substitute or ellipsis refers to."
+      "summary": "A related expression maintains the topic while adding meaning.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "foundation",
     "sequence_priority": 6,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-P-007",
@@ -233,37 +233,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "reference",
-    "question": "Which term best matches this meaning: “language pointing to another element”?",
-    "audio_prompt": "Which term best matches this meaning: “language pointing to another element”?",
+    "stage": "core",
+    "skill": "synonym chain-revision",
+    "question": "Which revision best applies synonym chain to the idea in “The storm damaged the coast. The destructive weather system also closed roads.”?",
+    "audio_prompt": "Which revision best applies synonym chain to the idea in “The storm damaged the coast. The destructive weather system also closed roads.”?",
     "answers": [
       {
-        "text": "substitution",
+        "text": "Mangrove roots trap sediment. These roots also create sheltered habitat.",
         "is_correct": false
       },
       {
-        "text": "reference",
+        "text": "Kookaburras and rosellas visited. These native birds fed near the fence.",
+        "is_correct": false
+      },
+      {
+        "text": "The bicycle needed repair because its chain had slipped from the gears.",
+        "is_correct": false
+      },
+      {
+        "text": "The storm damaged the coast. This severe weather event also closed roads.",
         "is_correct": true
-      },
-      {
-        "text": "ellipsis",
-        "is_correct": false
-      },
-      {
-        "text": "It does not match the evidence in the example.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "reference means language pointing to another element.",
-      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
+      "summary": "The revision applies synonym chain deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 7,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-P-008",
@@ -271,37 +271,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "pronoun_reference",
-    "question": "Read this example from a student council meeting: “it / they / this”. Which label best describes what the language is doing?",
-    "audio_prompt": "Read this example from a student council meeting: “it / they / this”. Which label best describes what the language is doing?",
+    "stage": "core",
+    "skill": "synonym chain-misconception",
+    "question": "A student says, “Any two words with similar meanings can be swapped in every context.” Which response best corrects the misconception?",
+    "audio_prompt": "A student says, “Any two words with similar meanings can be swapped in every context.” Which response best corrects the misconception?",
     "answers": [
       {
-        "text": "repetition",
-        "is_correct": false
-      },
-      {
-        "text": "substitution",
-        "is_correct": false
-      },
-      {
-        "text": "pronoun reference",
+        "text": "The claim is too broad; the example shows that a related expression maintains the topic while adding meaning.",
         "is_correct": true
       },
       {
-        "text": "ellipsis",
+        "text": "All repeated nouns should be replaced with pronouns.",
+        "is_correct": false
+      },
+      {
+        "text": "Any two words with similar meanings can be swapped in every context.",
+        "is_correct": false
+      },
+      {
+        "text": "A category word must repeat every original noun.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "“it / they / this” is an example of pronoun reference; here it tracks participant or idea.",
-      "hint": "Variation should not obscure the topic. Readers must recover exactly what each pronoun, substitute or ellipsis refers to."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 8,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-P-009",
@@ -309,37 +309,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "misconception_repair",
-    "question": "Which correction best fixes this idea: “Every repetition removed”?",
-    "audio_prompt": "Which correction best fixes this idea: “Every repetition removed”?",
+    "stage": "foundation",
+    "skill": "category link",
+    "question": "Read: “Kookaburras and rosellas visited the garden. These birds fed near the fence.” Which description best identifies the highlighted language or text choice?",
+    "audio_prompt": "Read: “Kookaburras and rosellas visited the garden. These birds fed near the fence.” Which description best identifies the highlighted language or text choice?",
     "answers": [
       {
-        "text": "Every repetition removed",
+        "text": "purposeful repetition",
         "is_correct": false
       },
       {
-        "text": "Pronoun has several antecedents",
-        "is_correct": false
-      },
-      {
-        "text": "Ellipsis removes essential meaning",
-        "is_correct": false
-      },
-      {
-        "text": "Key terms may need repeating.",
+        "text": "category link",
         "is_correct": true
+      },
+      {
+        "text": "synonym chain",
+        "is_correct": false
+      },
+      {
+        "text": "part–whole link",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Key terms may need repeating. This fixes the misconception without creating a new rule that is too broad.",
-      "hint": "Check the actual language evidence rather than relying on an absolute rule."
+      "summary": "This is category link: The superordinate term “birds” groups the named species.",
+      "hint": "Name the exact feature before explaining its effect."
     },
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "foundation",
     "sequence_priority": 9,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-P-010",
@@ -347,37 +347,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "connective",
-    "question": "Which example would be most useful when explaining cohesion through reference and lexical chains in a environmental campaign?",
-    "audio_prompt": "Which example would be most useful when explaining cohesion through reference and lexical chains in a environmental campaign?",
+    "stage": "foundation",
+    "skill": "category link-effect",
+    "question": "Why is this choice effective in context: “Kookaburras and rosellas visited the garden. These birds fed near the fence.”?",
+    "audio_prompt": "Why is this choice effective in context: “Kookaburras and rosellas visited the garden. These birds fed near the fence.”?",
     "answers": [
       {
-        "text": "however / therefore",
+        "text": "Repeating “roots” keeps the technical focus exact across sentences.",
+        "is_correct": false
+      },
+      {
+        "text": "A related expression maintains the topic while adding meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "The superordinate term “birds” groups the named species.",
         "is_correct": true
       },
       {
-        "text": "erosion … erosion",
-        "is_correct": false
-      },
-      {
-        "text": "the process",
-        "is_correct": false
-      },
-      {
-        "text": "it / they / this",
+        "text": "“Chain” and “gears” are associated parts of the bicycle, sustaining the topic.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "This example directly demonstrates connective and can be explained using the language clue in the text.",
-      "hint": "Students trace how participants and ideas are maintained across paragraphs, use repetition for precision, substitution and ellipsis for economy and connectives for logical relationships."
+      "summary": "The superordinate term “birds” groups the named species.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "foundation",
     "sequence_priority": 10,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-P-011",
@@ -385,37 +385,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "pronoun_reference",
-    "question": "A museum caption includes “it / they / this”. Why is this an effective example of pronoun reference?",
-    "audio_prompt": "A museum caption includes “it / they / this”. Why is this an effective example of pronoun reference?",
+    "stage": "core",
+    "skill": "category link-revision",
+    "question": "Which revision best applies category link to the idea in “Kookaburras and rosellas visited the garden. These birds fed near the fence.”?",
+    "audio_prompt": "Which revision best applies category link to the idea in “Kookaburras and rosellas visited the garden. These birds fed near the fence.”?",
     "answers": [
       {
-        "text": "It tracks participant or idea and supports the purpose of the text.",
+        "text": "Mangrove roots trap sediment. These roots also create sheltered habitat.",
+        "is_correct": false
+      },
+      {
+        "text": "The storm damaged the coast. This severe weather event also closed roads.",
+        "is_correct": false
+      },
+      {
+        "text": "The bicycle needed repair because its chain had slipped from the gears.",
+        "is_correct": false
+      },
+      {
+        "text": "Kookaburras and rosellas visited. These native birds fed near the fence.",
         "is_correct": true
-      },
-      {
-        "text": "It matches the purpose and the language clue in the example.",
-        "is_correct": false
-      },
-      {
-        "text": "Variation should not obscure the topic. Readers must recover exactly what each pronoun, substitute or ellipsis refers to.",
-        "is_correct": false
-      },
-      {
-        "text": "Use technical repetition when precision matters; use substitution only where reference remains unmistakable.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "it / they / this works because tracks participant or idea.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "The revision applies category link deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "core",
     "sequence_priority": 11,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-P-012",
@@ -423,37 +423,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception_repair",
-    "question": "Why is “Specify the noun.” a better rule than “Pronoun has several antecedents” when reading a student council meeting?",
-    "audio_prompt": "Why is “Specify the noun.” a better rule than “Pronoun has several antecedents” when reading a student council meeting?",
+    "stage": "core",
+    "skill": "category link-misconception",
+    "question": "A student says, “A category word must repeat every original noun.” Which response best corrects the misconception?",
+    "audio_prompt": "A student says, “A category word must repeat every original noun.” Which response best corrects the misconception?",
     "answers": [
       {
-        "text": "Because the longest rule is always the best one.",
-        "is_correct": false
-      },
-      {
-        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "text": "The claim is too broad; the example shows that the superordinate term “birds” groups the named species.",
         "is_correct": true
       },
       {
-        "text": "Because exceptions never matter in English.",
+        "text": "All repeated nouns should be replaced with pronouns.",
         "is_correct": false
       },
       {
-        "text": "Because a rule is correct whenever it uses technical words.",
+        "text": "Any two words with similar meanings can be swapped in every context.",
+        "is_correct": false
+      },
+      {
+        "text": "A category word must repeat every original noun.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "“Specify the noun.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "core",
     "sequence_priority": 12,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-P-013",
@@ -461,37 +461,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "connective",
-    "question": "A local-history article includes “however / therefore”. Why is this an effective example of connective?",
-    "audio_prompt": "A local-history article includes “however / therefore”. Why is this an effective example of connective?",
+    "stage": "foundation",
+    "skill": "part–whole link",
+    "question": "Read: “The bicycle needed repair. Its chain had slipped from the gears.” Which description best identifies the highlighted language or text choice?",
+    "audio_prompt": "Read: “The bicycle needed repair. Its chain had slipped from the gears.” Which description best identifies the highlighted language or text choice?",
     "answers": [
       {
-        "text": "It matches the purpose and the language clue in the example.",
+        "text": "purposeful repetition",
         "is_correct": false
       },
       {
-        "text": "Variation should not obscure the topic. Readers must recover exactly what each pronoun, substitute or ellipsis refers to.",
-        "is_correct": false
-      },
-      {
-        "text": "It signals relationship and supports the purpose of the text.",
+        "text": "part–whole link",
         "is_correct": true
       },
       {
-        "text": "Use technical repetition when precision matters; use substitution only where reference remains unmistakable.",
+        "text": "synonym chain",
+        "is_correct": false
+      },
+      {
+        "text": "category link",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "however / therefore works because signals relationship.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "This is part–whole link: “Chain” and “gears” are associated parts of the bicycle, sustaining the topic.",
+      "hint": "Name the exact feature before explaining its effect."
     },
-    "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 13,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-P-014",
@@ -499,37 +499,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception_repair",
-    "question": "Why is “Match logic.” a better rule than “Connective chosen for variety” when reading a environmental campaign?",
-    "audio_prompt": "Why is “Match logic.” a better rule than “Connective chosen for variety” when reading a environmental campaign?",
+    "stage": "foundation",
+    "skill": "part–whole link-effect",
+    "question": "Why is this choice effective in context: “The bicycle needed repair. Its chain had slipped from the gears.”?",
+    "audio_prompt": "Why is this choice effective in context: “The bicycle needed repair. Its chain had slipped from the gears.”?",
     "answers": [
       {
-        "text": "Because the longest rule is always the best one.",
+        "text": "Repeating “roots” keeps the technical focus exact across sentences.",
         "is_correct": false
       },
       {
-        "text": "Because exceptions never matter in English.",
+        "text": "A related expression maintains the topic while adding meaning.",
         "is_correct": false
       },
       {
-        "text": "Because a rule is correct whenever it uses technical words.",
-        "is_correct": false
-      },
-      {
-        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "text": "“Chain” and “gears” are associated parts of the bicycle, sustaining the topic.",
         "is_correct": true
+      },
+      {
+        "text": "The superordinate term “birds” groups the named species.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 2,
     "explanation": {
-      "summary": "“Match logic.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "“Chain” and “gears” are associated parts of the bicycle, sustaining the topic.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
-    "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 14,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-P-015",
@@ -537,37 +537,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "substitution",
-    "question": "A book-club discussion includes “the process”. Why is this an effective example of substitution?",
-    "audio_prompt": "A book-club discussion includes “the process”. Why is this an effective example of substitution?",
+    "stage": "core",
+    "skill": "part–whole link-revision",
+    "question": "Which revision best applies part–whole link to the idea in “The bicycle needed repair. Its chain had slipped from the gears.”?",
+    "audio_prompt": "Which revision best applies part–whole link to the idea in “The bicycle needed repair. Its chain had slipped from the gears.”?",
     "answers": [
       {
-        "text": "It avoids repetition while preserving reference and supports the purpose of the text.",
+        "text": "Mangrove roots trap sediment. These roots also create sheltered habitat.",
+        "is_correct": false
+      },
+      {
+        "text": "The storm damaged the coast. This severe weather event also closed roads.",
+        "is_correct": false
+      },
+      {
+        "text": "Kookaburras and rosellas visited. These native birds fed near the fence.",
+        "is_correct": false
+      },
+      {
+        "text": "The bicycle needed repair because its chain had slipped from the gears.",
         "is_correct": true
-      },
-      {
-        "text": "It matches the purpose and the language clue in the example.",
-        "is_correct": false
-      },
-      {
-        "text": "Variation should not obscure the topic. Readers must recover exactly what each pronoun, substitute or ellipsis refers to.",
-        "is_correct": false
-      },
-      {
-        "text": "Use technical repetition when precision matters; use substitution only where reference remains unmistakable.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "the process works because avoids repetition while preserving reference.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "The revision applies part–whole link deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "core",
     "sequence_priority": 15,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-P-016",
@@ -575,37 +575,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception_repair",
-    "question": "Why is “Specify the noun.” a better rule than “Pronoun has several antecedents” when reading a excursion briefing?",
-    "audio_prompt": "Why is “Specify the noun.” a better rule than “Pronoun has several antecedents” when reading a excursion briefing?",
+    "stage": "core",
+    "skill": "part–whole link-misconception",
+    "question": "A student says, “Word association means the words must rhyme.” Which response best corrects the misconception?",
+    "audio_prompt": "A student says, “Word association means the words must rhyme.” Which response best corrects the misconception?",
     "answers": [
       {
-        "text": "Because the longest rule is always the best one.",
-        "is_correct": false
-      },
-      {
-        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "text": "The claim is too broad; the example shows that “Chain” and “gears” are associated parts of the bicycle, sustaining the topic.",
         "is_correct": true
       },
       {
-        "text": "Because exceptions never matter in English.",
+        "text": "All repeated nouns should be replaced with pronouns.",
         "is_correct": false
       },
       {
-        "text": "Because a rule is correct whenever it uses technical words.",
+        "text": "Any two words with similar meanings can be swapped in every context.",
+        "is_correct": false
+      },
+      {
+        "text": "A category word must repeat every original noun.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "“Specify the noun.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "core",
     "sequence_priority": 16,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-P-017",
@@ -613,37 +613,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "ellipsis",
-    "question": "A design project includes “Mia chose red; Kai, blue”. Why is this an effective example of ellipsis?",
-    "audio_prompt": "A design project includes “Mia chose red; Kai, blue”. Why is this an effective example of ellipsis?",
+    "stage": "foundation",
+    "skill": "antonym contrast",
+    "question": "Read: “The northern slope was dry, but the southern slope remained wet.” Which description best identifies the highlighted language or text choice?",
+    "audio_prompt": "Read: “The northern slope was dry, but the southern slope remained wet.” Which description best identifies the highlighted language or text choice?",
     "answers": [
       {
-        "text": "It matches the purpose and the language clue in the example.",
+        "text": "purposeful repetition",
         "is_correct": false
       },
       {
-        "text": "Variation should not obscure the topic. Readers must recover exactly what each pronoun, substitute or ellipsis refers to.",
-        "is_correct": false
-      },
-      {
-        "text": "It omits recoverable wording and supports the purpose of the text.",
+        "text": "antonym contrast",
         "is_correct": true
       },
       {
-        "text": "Use technical repetition when precision matters; use substitution only where reference remains unmistakable.",
+        "text": "synonym chain",
+        "is_correct": false
+      },
+      {
+        "text": "category link",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Mia chose red; Kai, blue works because omits recoverable wording.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "This is antonym contrast: The antonyms create a clear contrast within the same topic.",
+      "hint": "Name the exact feature before explaining its effect."
     },
-    "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 17,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-P-018",
@@ -651,37 +651,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception_repair",
-    "question": "Why is “Match logic.” a better rule than “Connective chosen for variety” when reading a weather report?",
-    "audio_prompt": "Why is “Match logic.” a better rule than “Connective chosen for variety” when reading a weather report?",
+    "stage": "foundation",
+    "skill": "antonym contrast-effect",
+    "question": "Why is this choice effective in context: “The northern slope was dry, but the southern slope remained wet.”?",
+    "audio_prompt": "Why is this choice effective in context: “The northern slope was dry, but the southern slope remained wet.”?",
     "answers": [
       {
-        "text": "Because the longest rule is always the best one.",
+        "text": "Repeating “roots” keeps the technical focus exact across sentences.",
         "is_correct": false
       },
       {
-        "text": "Because exceptions never matter in English.",
+        "text": "A related expression maintains the topic while adding meaning.",
         "is_correct": false
       },
       {
-        "text": "Because a rule is correct whenever it uses technical words.",
-        "is_correct": false
-      },
-      {
-        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "text": "The antonyms create a clear contrast within the same topic.",
         "is_correct": true
+      },
+      {
+        "text": "The superordinate term “birds” groups the named species.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 2,
     "explanation": {
-      "summary": "“Match logic.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The antonyms create a clear contrast within the same topic.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
-    "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 18,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-P-019",
@@ -689,37 +689,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "repetition",
-    "question": "A school assembly includes “erosion … erosion”. Why is this an effective example of repetition?",
-    "audio_prompt": "A school assembly includes “erosion … erosion”. Why is this an effective example of repetition?",
+    "stage": "application",
+    "skill": "antonym contrast-revision",
+    "question": "Which revision best applies antonym contrast to the idea in “The northern slope was dry, but the southern slope remained wet.”?",
+    "audio_prompt": "Which revision best applies antonym contrast to the idea in “The northern slope was dry, but the southern slope remained wet.”?",
     "answers": [
       {
-        "text": "It technical precision and supports the purpose of the text.",
+        "text": "Mangrove roots trap sediment. These roots also create sheltered habitat.",
+        "is_correct": false
+      },
+      {
+        "text": "The storm damaged the coast. This severe weather event also closed roads.",
+        "is_correct": false
+      },
+      {
+        "text": "Kookaburras and rosellas visited. These native birds fed near the fence.",
+        "is_correct": false
+      },
+      {
+        "text": "The northern slope was dry; by contrast, the southern slope remained wet.",
         "is_correct": true
-      },
-      {
-        "text": "It matches the purpose and the language clue in the example.",
-        "is_correct": false
-      },
-      {
-        "text": "Variation should not obscure the topic. Readers must recover exactly what each pronoun, substitute or ellipsis refers to.",
-        "is_correct": false
-      },
-      {
-        "text": "Use technical repetition when precision matters; use substitution only where reference remains unmistakable.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "erosion … erosion works because technical precision.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "The revision applies antonym contrast deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
-    "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty": 3,
+    "difficulty_tier": "application",
     "sequence_priority": 19,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-P-020",
@@ -727,37 +727,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception_repair",
-    "question": "Why is “Specify the noun.” a better rule than “Pronoun has several antecedents” when reading a peer feedback session?",
-    "audio_prompt": "Why is “Specify the noun.” a better rule than “Pronoun has several antecedents” when reading a peer feedback session?",
+    "stage": "core",
+    "skill": "antonym contrast-misconception",
+    "question": "A student says, “Antonyms always make a paragraph confusing.” Which response best corrects the misconception?",
+    "audio_prompt": "A student says, “Antonyms always make a paragraph confusing.” Which response best corrects the misconception?",
     "answers": [
       {
-        "text": "Because the longest rule is always the best one.",
-        "is_correct": false
-      },
-      {
-        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "text": "The claim is too broad; the example shows that the antonyms create a clear contrast within the same topic.",
         "is_correct": true
       },
       {
-        "text": "Because exceptions never matter in English.",
+        "text": "All repeated nouns should be replaced with pronouns.",
         "is_correct": false
       },
       {
-        "text": "Because a rule is correct whenever it uses technical words.",
+        "text": "Any two words with similar meanings can be swapped in every context.",
+        "is_correct": false
+      },
+      {
+        "text": "A category word must repeat every original noun.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "“Specify the noun.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "core",
     "sequence_priority": 20,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-P-021",
@@ -765,37 +765,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_language_choices",
-    "question": "A excursion briefing could use either “erosion … erosion” or “the habitat … the habitat … the habitat”. Which comparison is most accurate?",
-    "audio_prompt": "A excursion briefing could use either “erosion … erosion” or “the habitat … the habitat … the habitat”. Which comparison is most accurate?",
+    "stage": "foundation",
+    "skill": "pronoun reference",
+    "question": "Read: “Ava placed the seedling beside the stake. She tied it loosely.” Which description best identifies the highlighted language or text choice?",
+    "audio_prompt": "Read: “Ava placed the seedling beside the stake. She tied it loosely.” Which description best identifies the highlighted language or text choice?",
     "answers": [
       {
-        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "text": "purposeful repetition",
         "is_correct": false
       },
       {
-        "text": "“erosion … erosion” shows repetition, while “the habitat … the habitat … the habitat” shows over-repetition.",
+        "text": "pronoun reference",
         "is_correct": true
       },
       {
-        "text": "The longer example is automatically more formal and therefore better.",
+        "text": "synonym chain",
         "is_correct": false
       },
       {
-        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "text": "category link",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The important difference is the language function: repetition versus over-repetition.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "This is pronoun reference: “She” refers to Ava and “it” refers to the seedling; both references are recoverable.",
+      "hint": "Name the exact feature before explaining its effect."
     },
-    "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 21,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-P-022",
@@ -803,37 +803,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_misconception",
-    "question": "Which statement would help you reject the tempting rule “Ellipsis removes essential meaning” in a design project?",
-    "audio_prompt": "Which statement would help you reject the tempting rule “Ellipsis removes essential meaning” in a design project?",
+    "stage": "foundation",
+    "skill": "pronoun reference-effect",
+    "question": "Why is this choice effective in context: “Ava placed the seedling beside the stake. She tied it loosely.”?",
+    "audio_prompt": "Why is this choice effective in context: “Ava placed the seedling beside the stake. She tied it loosely.”?",
     "answers": [
       {
-        "text": "Every repetition removed",
+        "text": "Repeating “roots” keeps the technical focus exact across sentences.",
         "is_correct": false
       },
       {
-        "text": "Pronoun has several antecedents",
+        "text": "A related expression maintains the topic while adding meaning.",
         "is_correct": false
       },
       {
-        "text": "Omit only recoverable material.",
+        "text": "“She” refers to Ava and “it” refers to the seedling; both references are recoverable.",
         "is_correct": true
       },
       {
-        "text": "Ellipsis removes essential meaning",
+        "text": "The superordinate term “birds” groups the named species.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Omit only recoverable material. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Use technical repetition when precision matters; use substitution only where reference remains unmistakable."
+      "summary": "“She” refers to Ava and “it” refers to the seedling; both references are recoverable.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
-    "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 22,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-P-023",
@@ -841,37 +841,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_language_choices",
-    "question": "A weather report could use either “it / they / this” or “It rained; however, the ground became wet”. Which comparison is most accurate?",
-    "audio_prompt": "A weather report could use either “it / they / this” or “It rained; however, the ground became wet”. Which comparison is most accurate?",
+    "stage": "application",
+    "skill": "pronoun reference-revision",
+    "question": "Which revision best applies pronoun reference to the idea in “Ava placed the seedling beside the stake. She tied it loosely.”?",
+    "audio_prompt": "Which revision best applies pronoun reference to the idea in “Ava placed the seedling beside the stake. She tied it loosely.”?",
     "answers": [
       {
-        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "text": "Mangrove roots trap sediment. These roots also create sheltered habitat.",
         "is_correct": false
       },
       {
-        "text": "The longer example is automatically more formal and therefore better.",
+        "text": "The storm damaged the coast. This severe weather event also closed roads.",
         "is_correct": false
       },
       {
-        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "text": "Kookaburras and rosellas visited. These native birds fed near the fence.",
         "is_correct": false
       },
       {
-        "text": "“it / they / this” shows pronoun reference, while “It rained; however, the ground became wet” shows wrong connective.",
+        "text": "Ava placed the seedling beside the stake and tied the seedling loosely.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "The important difference is the language function: pronoun reference versus wrong connective.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "The revision applies pronoun reference deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
     "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty_tier": "application",
     "sequence_priority": 23,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-P-024",
@@ -879,37 +879,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_misconception",
-    "question": "Which statement would help you reject the tempting rule “Every repetition removed” in a school assembly?",
-    "audio_prompt": "Which statement would help you reject the tempting rule “Every repetition removed” in a school assembly?",
+    "stage": "core",
+    "skill": "pronoun reference-misconception",
+    "question": "A student says, “A pronoun is clear whenever there are nouns nearby.” Which response best corrects the misconception?",
+    "audio_prompt": "A student says, “A pronoun is clear whenever there are nouns nearby.” Which response best corrects the misconception?",
     "answers": [
       {
-        "text": "Key terms may need repeating.",
+        "text": "The claim is too broad; the example shows that “She” refers to Ava and “it” refers to the seedling; both references are recoverable.",
         "is_correct": true
       },
       {
-        "text": "Every repetition removed",
+        "text": "All repeated nouns should be replaced with pronouns.",
         "is_correct": false
       },
       {
-        "text": "Pronoun has several antecedents",
+        "text": "Any two words with similar meanings can be swapped in every context.",
         "is_correct": false
       },
       {
-        "text": "Ellipsis removes essential meaning",
+        "text": "A category word must repeat every original noun.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Key terms may need repeating. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Use technical repetition when precision matters; use substitution only where reference remains unmistakable."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
-    "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 24,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-P-025",
@@ -917,37 +917,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_language_choices",
-    "question": "A peer feedback session could use either “however / therefore” or “the habitat … the habitat … the habitat”. Which comparison is most accurate?",
-    "audio_prompt": "A peer feedback session could use either “however / therefore” or “the habitat … the habitat … the habitat”. Which comparison is most accurate?",
+    "stage": "foundation",
+    "skill": "demonstrative reference",
+    "question": "Read: “The creek overflowed after heavy rain. This caused the path to close.” Which description best identifies the highlighted language or text choice?",
+    "audio_prompt": "Read: “The creek overflowed after heavy rain. This caused the path to close.” Which description best identifies the highlighted language or text choice?",
     "answers": [
       {
-        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "text": "purposeful repetition",
         "is_correct": false
       },
       {
-        "text": "“however / therefore” shows connective, while “the habitat … the habitat … the habitat” shows over-repetition.",
+        "text": "demonstrative reference",
         "is_correct": true
       },
       {
-        "text": "The longer example is automatically more formal and therefore better.",
+        "text": "synonym chain",
         "is_correct": false
       },
       {
-        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "text": "category link",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The important difference is the language function: connective versus over-repetition.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "This is demonstrative reference: “This” points back to the whole preceding event.",
+      "hint": "Name the exact feature before explaining its effect."
     },
-    "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 25,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-P-026",
@@ -955,37 +955,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_misconception",
-    "question": "Which statement would help you reject the tempting rule “Ellipsis removes essential meaning” in a cooking demonstration?",
-    "audio_prompt": "Which statement would help you reject the tempting rule “Ellipsis removes essential meaning” in a cooking demonstration?",
+    "stage": "core",
+    "skill": "demonstrative reference-effect",
+    "question": "Why is this choice effective in context: “The creek overflowed after heavy rain. This caused the path to close.”?",
+    "audio_prompt": "Why is this choice effective in context: “The creek overflowed after heavy rain. This caused the path to close.”?",
     "answers": [
       {
-        "text": "Every repetition removed",
+        "text": "Repeating “roots” keeps the technical focus exact across sentences.",
         "is_correct": false
       },
       {
-        "text": "Pronoun has several antecedents",
+        "text": "A related expression maintains the topic while adding meaning.",
         "is_correct": false
       },
       {
-        "text": "Omit only recoverable material.",
+        "text": "“This” points back to the whole preceding event.",
         "is_correct": true
       },
       {
-        "text": "Ellipsis removes essential meaning",
+        "text": "The superordinate term “birds” groups the named species.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Omit only recoverable material. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Use technical repetition when precision matters; use substitution only where reference remains unmistakable."
+      "summary": "“This” points back to the whole preceding event.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
-    "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 26,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-P-027",
@@ -993,37 +993,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_language_choices",
-    "question": "A arts review could use either “the process” or “It rained; however, the ground became wet”. Which comparison is most accurate?",
-    "audio_prompt": "A arts review could use either “the process” or “It rained; however, the ground became wet”. Which comparison is most accurate?",
+    "stage": "application",
+    "skill": "demonstrative reference-revision",
+    "question": "Which revision best applies demonstrative reference to the idea in “The creek overflowed after heavy rain. This caused the path to close.”?",
+    "audio_prompt": "Which revision best applies demonstrative reference to the idea in “The creek overflowed after heavy rain. This caused the path to close.”?",
     "answers": [
       {
-        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "text": "Mangrove roots trap sediment. These roots also create sheltered habitat.",
         "is_correct": false
       },
       {
-        "text": "The longer example is automatically more formal and therefore better.",
+        "text": "The storm damaged the coast. This severe weather event also closed roads.",
         "is_correct": false
       },
       {
-        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "text": "Kookaburras and rosellas visited. These native birds fed near the fence.",
         "is_correct": false
       },
       {
-        "text": "“the process” shows substitution, while “It rained; however, the ground became wet” shows wrong connective.",
+        "text": "The creek overflowed after heavy rain. This flooding caused the path to close.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "The important difference is the language function: substitution versus wrong connective.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "The revision applies demonstrative reference deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
     "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty_tier": "application",
     "sequence_priority": 27,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-P-028",
@@ -1031,37 +1031,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_misconception",
-    "question": "Which statement would help you reject the tempting rule “Every repetition removed” in a technology presentation?",
-    "audio_prompt": "Which statement would help you reject the tempting rule “Every repetition removed” in a technology presentation?",
+    "stage": "core",
+    "skill": "demonstrative reference-misconception",
+    "question": "A student says, ““This” always has a clear meaning on its own.” Which response best corrects the misconception?",
+    "audio_prompt": "A student says, ““This” always has a clear meaning on its own.” Which response best corrects the misconception?",
     "answers": [
       {
-        "text": "Key terms may need repeating.",
+        "text": "The claim is too broad; the example shows that “This” points back to the whole preceding event.",
         "is_correct": true
       },
       {
-        "text": "Every repetition removed",
+        "text": "All repeated nouns should be replaced with pronouns.",
         "is_correct": false
       },
       {
-        "text": "Pronoun has several antecedents",
+        "text": "Any two words with similar meanings can be swapped in every context.",
         "is_correct": false
       },
       {
-        "text": "Ellipsis removes essential meaning",
+        "text": "A category word must repeat every original noun.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Key terms may need repeating. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Use technical repetition when precision matters; use substitution only where reference remains unmistakable."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
-    "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 28,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-P-029",
@@ -1069,37 +1069,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_language_choices",
-    "question": "A playground consultation could use either “Mia chose red; Kai, blue” or “the habitat … the habitat … the habitat”. Which comparison is most accurate?",
-    "audio_prompt": "A playground consultation could use either “Mia chose red; Kai, blue” or “the habitat … the habitat … the habitat”. Which comparison is most accurate?",
+    "stage": "foundation",
+    "skill": "ambiguous reference",
+    "question": "Read: “Lena told Priya that she had misread the scale.” Which description best identifies the highlighted language or text choice?",
+    "audio_prompt": "Read: “Lena told Priya that she had misread the scale.” Which description best identifies the highlighted language or text choice?",
     "answers": [
       {
-        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "text": "purposeful repetition",
         "is_correct": false
       },
       {
-        "text": "“Mia chose red; Kai, blue” shows ellipsis, while “the habitat … the habitat … the habitat” shows over-repetition.",
+        "text": "ambiguous reference",
         "is_correct": true
       },
       {
-        "text": "The longer example is automatically more formal and therefore better.",
+        "text": "synonym chain",
         "is_correct": false
       },
       {
-        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "text": "category link",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The important difference is the language function: ellipsis versus over-repetition.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "This is ambiguous reference: “She” could refer to either person, so the participant chain breaks.",
+      "hint": "Name the exact feature before explaining its effect."
     },
-    "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 29,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-P-030",
@@ -1107,37 +1107,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_misconception",
-    "question": "Which statement would help you reject the tempting rule “Ellipsis removes essential meaning” in a class podcast?",
-    "audio_prompt": "Which statement would help you reject the tempting rule “Ellipsis removes essential meaning” in a class podcast?",
+    "stage": "core",
+    "skill": "ambiguous reference-effect",
+    "question": "Why is this choice effective in context: “Lena told Priya that she had misread the scale.”?",
+    "audio_prompt": "Why is this choice effective in context: “Lena told Priya that she had misread the scale.”?",
     "answers": [
       {
-        "text": "Every repetition removed",
+        "text": "Repeating “roots” keeps the technical focus exact across sentences.",
         "is_correct": false
       },
       {
-        "text": "Pronoun has several antecedents",
+        "text": "A related expression maintains the topic while adding meaning.",
         "is_correct": false
       },
       {
-        "text": "Omit only recoverable material.",
+        "text": "“She” could refer to either person, so the participant chain breaks.",
         "is_correct": true
       },
       {
-        "text": "Ellipsis removes essential meaning",
+        "text": "The superordinate term “birds” groups the named species.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Omit only recoverable material. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Use technical repetition when precision matters; use substitution only where reference remains unmistakable."
+      "summary": "“She” could refer to either person, so the participant chain breaks.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
-    "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 30,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-P-031",
@@ -1145,37 +1145,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "identify_ellipsis",
-    "question": "You are editing a community garden proposal. Which sentence contains ellipsis?",
-    "audio_prompt": "You are editing a community garden proposal. Which sentence contains ellipsis?",
+    "stage": "application",
+    "skill": "ambiguous reference-revision",
+    "question": "Which revision best applies ambiguous reference to the idea in “Lena told Priya that she had misread the scale.”?",
+    "audio_prompt": "Which revision best applies ambiguous reference to the idea in “Lena told Priya that she had misread the scale.”?",
     "answers": [
       {
-        "text": "Mia chose red and Kai chose blue.",
+        "text": "Mangrove roots trap sediment. These roots also create sheltered habitat.",
         "is_correct": false
       },
       {
-        "text": "Mia and Kai chose colours.",
+        "text": "The storm damaged the coast. This severe weather event also closed roads.",
         "is_correct": false
       },
       {
-        "text": "Mia chose red; Kai, blue.",
+        "text": "Kookaburras and rosellas visited. These native birds fed near the fence.",
+        "is_correct": false
+      },
+      {
+        "text": "Lena said, “Priya, you have misread the scale.”",
         "is_correct": true
-      },
-      {
-        "text": "Red and blue are colours.",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "“Mia chose red; Kai, blue.” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Use technical repetition when precision matters; use substitution only where reference remains unmistakable."
+      "summary": "The revision applies ambiguous reference deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "application",
     "sequence_priority": 31,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-P-032",
@@ -1183,37 +1183,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "over_repetition",
-    "question": "A sports-club discussion needs a clear example of over-repetition. Which wording should you choose?",
-    "audio_prompt": "A sports-club discussion needs a clear example of over-repetition. Which wording should you choose?",
+    "stage": "core",
+    "skill": "ambiguous reference-misconception",
+    "question": "A student says, “Readers should always guess the nearest noun.” Which response best corrects the misconception?",
+    "audio_prompt": "A student says, “Readers should always guess the nearest noun.” Which response best corrects the misconception?",
     "answers": [
       {
-        "text": "Lena told Priya, ‘Your calculation is incorrect’",
-        "is_correct": false
-      },
-      {
-        "text": "the habitat … this environment … it",
-        "is_correct": false
-      },
-      {
-        "text": "It rained; however, the ground became wet",
-        "is_correct": false
-      },
-      {
-        "text": "the habitat … the habitat … the habitat",
+        "text": "The claim is too broad; the example shows that “She” could refer to either person, so the participant chain breaks.",
         "is_correct": true
+      },
+      {
+        "text": "All repeated nouns should be replaced with pronouns.",
+        "is_correct": false
+      },
+      {
+        "text": "Any two words with similar meanings can be swapped in every context.",
+        "is_correct": false
+      },
+      {
+        "text": "A category word must repeat every original noun.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "“the habitat … the habitat … the habitat” is the best choice because it demonstrates over-repetition in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 32,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-P-033",
@@ -1221,37 +1221,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "reference",
-    "question": "While revising a library display, you need language that matches “language pointing to another element”. Which concept should guide your choice?",
-    "audio_prompt": "While revising a library display, you need language that matches “language pointing to another element”. Which concept should guide your choice?",
+    "stage": "foundation",
+    "skill": "semantic field",
+    "question": "Read: “Seedlings, canopy, roots and habitat recur throughout the rainforest report.” Which description best identifies the highlighted language or text choice?",
+    "audio_prompt": "Read: “Seedlings, canopy, roots and habitat recur throughout the rainforest report.” Which description best identifies the highlighted language or text choice?",
     "answers": [
       {
-        "text": "reference",
+        "text": "purposeful repetition",
+        "is_correct": false
+      },
+      {
+        "text": "semantic field",
         "is_correct": true
       },
       {
-        "text": "substitution",
+        "text": "synonym chain",
         "is_correct": false
       },
       {
-        "text": "ellipsis",
-        "is_correct": false
-      },
-      {
-        "text": "It does not match the evidence in the example.",
+        "text": "category link",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "reference is the concept that matches language pointing to another element.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "This is semantic field: The related vocabulary forms a lexical chain around the report’s subject.",
+      "hint": "Name the exact feature before explaining its effect."
     },
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 33,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-P-034",
@@ -1259,37 +1259,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "trace_reference_chain",
-    "question": "You are editing a museum caption. Which sentence contains ellipsis?",
-    "audio_prompt": "You are editing a museum caption. Which sentence contains ellipsis?",
+    "stage": "core",
+    "skill": "semantic field-effect",
+    "question": "Why is this choice effective in context: “Seedlings, canopy, roots and habitat recur throughout the rainforest report.”?",
+    "audio_prompt": "Why is this choice effective in context: “Seedlings, canopy, roots and habitat recur throughout the rainforest report.”?",
     "answers": [
       {
-        "text": "Mia chose red and Kai chose blue.",
+        "text": "Repeating “roots” keeps the technical focus exact across sentences.",
         "is_correct": false
       },
       {
-        "text": "Mia chose red; Kai, blue.",
+        "text": "A related expression maintains the topic while adding meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "The related vocabulary forms a lexical chain around the report’s subject.",
         "is_correct": true
       },
       {
-        "text": "Mia and Kai chose colours.",
-        "is_correct": false
-      },
-      {
-        "text": "Red and blue are colours.",
+        "text": "The superordinate term “birds” groups the named species.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "“Mia chose red; Kai, blue.” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Use technical repetition when precision matters; use substitution only where reference remains unmistakable."
+      "summary": "The related vocabulary forms a lexical chain around the report’s subject.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 34,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-P-035",
@@ -1297,37 +1297,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "clear",
-    "question": "A student council meeting needs a clear example of clear. Which wording should you choose?",
-    "audio_prompt": "A student council meeting needs a clear example of clear. Which wording should you choose?",
+    "stage": "application",
+    "skill": "semantic field-revision",
+    "question": "Which revision best applies semantic field to the idea in “Seedlings, canopy, roots and habitat recur throughout the rainforest report.”?",
+    "audio_prompt": "Which revision best applies semantic field to the idea in “Seedlings, canopy, roots and habitat recur throughout the rainforest report.”?",
     "answers": [
       {
-        "text": "the habitat … the habitat … the habitat",
+        "text": "Mangrove roots trap sediment. These roots also create sheltered habitat.",
         "is_correct": false
       },
       {
-        "text": "the habitat … this environment … it",
+        "text": "The storm damaged the coast. This severe weather event also closed roads.",
         "is_correct": false
       },
       {
-        "text": "Lena told Priya, ‘Your calculation is incorrect’",
+        "text": "Kookaburras and rosellas visited. These native birds fed near the fence.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the rainforest terms consistent and define any new technical word.",
         "is_correct": true
-      },
-      {
-        "text": "It rained; however, the ground became wet",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "“Lena told Priya, ‘Your calculation is incorrect’” is the best choice because it demonstrates clear in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "The revision applies semantic field deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "application",
     "sequence_priority": 35,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-P-036",
@@ -1335,37 +1335,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "reference",
-    "question": "While revising a local-history article, you need language that matches “language pointing to another element”. Which concept should guide your choice?",
-    "audio_prompt": "While revising a local-history article, you need language that matches “language pointing to another element”. Which concept should guide your choice?",
+    "stage": "challenge",
+    "skill": "semantic field-misconception",
+    "question": "A student says, “A lexical chain is a list placed in one sentence.” Which response best corrects the misconception?",
+    "audio_prompt": "A student says, “A lexical chain is a list placed in one sentence.” Which response best corrects the misconception?",
     "answers": [
       {
-        "text": "substitution",
-        "is_correct": false
-      },
-      {
-        "text": "ellipsis",
-        "is_correct": false
-      },
-      {
-        "text": "It does not match the evidence in the example.",
-        "is_correct": false
-      },
-      {
-        "text": "reference",
+        "text": "The claim is too broad; the example shows that the related vocabulary forms a lexical chain around the report’s subject.",
         "is_correct": true
+      },
+      {
+        "text": "All repeated nouns should be replaced with pronouns.",
+        "is_correct": false
+      },
+      {
+        "text": "Any two words with similar meanings can be swapped in every context.",
+        "is_correct": false
+      },
+      {
+        "text": "A category word must repeat every original noun.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "reference is the concept that matches language pointing to another element.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "challenge",
     "sequence_priority": 36,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-P-037",
@@ -1373,37 +1373,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "repair_pronoun",
-    "question": "You are editing a environmental campaign. Which sentence contains ellipsis?",
-    "audio_prompt": "You are editing a environmental campaign. Which sentence contains ellipsis?",
+    "stage": "foundation",
+    "skill": "controlled variation",
+    "question": "Read: “The habitat supports frogs. This wetland environment also filters water.” Which description best identifies the highlighted language or text choice?",
+    "audio_prompt": "Read: “The habitat supports frogs. This wetland environment also filters water.” Which description best identifies the highlighted language or text choice?",
     "answers": [
       {
-        "text": "Mia chose red; Kai, blue.",
+        "text": "purposeful repetition",
+        "is_correct": false
+      },
+      {
+        "text": "controlled variation",
         "is_correct": true
       },
       {
-        "text": "Mia chose red and Kai chose blue.",
+        "text": "synonym chain",
         "is_correct": false
       },
       {
-        "text": "Mia and Kai chose colours.",
-        "is_correct": false
-      },
-      {
-        "text": "Red and blue are colours.",
+        "text": "category link",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“Mia chose red; Kai, blue.” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Use technical repetition when precision matters; use substitution only where reference remains unmistakable."
+      "summary": "This is controlled variation: The synonym adds variety without losing the shared reference.",
+      "hint": "Name the exact feature before explaining its effect."
     },
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 37,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-P-038",
@@ -1411,37 +1411,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "wrong_connective",
-    "question": "A book-club discussion needs a clear example of wrong connective. Which wording should you choose?",
-    "audio_prompt": "A book-club discussion needs a clear example of wrong connective. Which wording should you choose?",
+    "stage": "core",
+    "skill": "controlled variation-effect",
+    "question": "Why is this choice effective in context: “The habitat supports frogs. This wetland environment also filters water.”?",
+    "audio_prompt": "Why is this choice effective in context: “The habitat supports frogs. This wetland environment also filters water.”?",
     "answers": [
       {
-        "text": "Lena told Priya, ‘Your calculation is incorrect’",
+        "text": "Repeating “roots” keeps the technical focus exact across sentences.",
         "is_correct": false
       },
       {
-        "text": "It rained; however, the ground became wet",
+        "text": "A related expression maintains the topic while adding meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "The synonym adds variety without losing the shared reference.",
         "is_correct": true
       },
       {
-        "text": "the habitat … the habitat … the habitat",
-        "is_correct": false
-      },
-      {
-        "text": "the habitat … this environment … it",
+        "text": "The superordinate term “birds” groups the named species.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "“It rained; however, the ground became wet” is the best choice because it demonstrates wrong connective in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "The synonym adds variety without losing the shared reference.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 38,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-P-039",
@@ -1449,37 +1449,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "reference",
-    "question": "While revising a excursion briefing, you need language that matches “language pointing to another element”. Which concept should guide your choice?",
-    "audio_prompt": "While revising a excursion briefing, you need language that matches “language pointing to another element”. Which concept should guide your choice?",
+    "stage": "application",
+    "skill": "controlled variation-revision",
+    "question": "Which revision best applies controlled variation to the idea in “The habitat supports frogs. This wetland environment also filters water.”?",
+    "audio_prompt": "Which revision best applies controlled variation to the idea in “The habitat supports frogs. This wetland environment also filters water.”?",
     "answers": [
       {
-        "text": "substitution",
+        "text": "Mangrove roots trap sediment. These roots also create sheltered habitat.",
         "is_correct": false
       },
       {
-        "text": "ellipsis",
+        "text": "The storm damaged the coast. This severe weather event also closed roads.",
         "is_correct": false
       },
       {
-        "text": "reference",
+        "text": "Kookaburras and rosellas visited. These native birds fed near the fence.",
+        "is_correct": false
+      },
+      {
+        "text": "The habitat supports frogs. This wetland habitat also filters water.",
         "is_correct": true
-      },
-      {
-        "text": "It does not match the evidence in the example.",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "reference is the concept that matches language pointing to another element.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "The revision applies controlled variation deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "application",
     "sequence_priority": 39,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-P-040",
@@ -1487,37 +1487,341 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "use_substitution",
-    "question": "You are editing a design project. Which sentence contains ellipsis?",
-    "audio_prompt": "You are editing a design project. Which sentence contains ellipsis?",
+    "stage": "challenge",
+    "skill": "controlled variation-misconception",
+    "question": "A student says, “Writers should avoid repeating key technical terms.” Which response best corrects the misconception?",
+    "audio_prompt": "A student says, “Writers should avoid repeating key technical terms.” Which response best corrects the misconception?",
     "answers": [
       {
-        "text": "Mia chose red and Kai chose blue.",
+        "text": "The claim is too broad; the example shows that the synonym adds variety without losing the shared reference.",
+        "is_correct": true
+      },
+      {
+        "text": "All repeated nouns should be replaced with pronouns.",
         "is_correct": false
       },
       {
-        "text": "Mia and Kai chose colours.",
+        "text": "Any two words with similar meanings can be swapped in every context.",
         "is_correct": false
       },
       {
-        "text": "Red and blue are colours.",
+        "text": "A category word must repeat every original noun.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 40,
+    "quality_schema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LA04-P-041",
+    "curriculum_code": "AC9E6LA04",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "broken lexical chain",
+    "question": "Read: “The report shifts from “solar panels” to “machines” and then “things”.” Which description best identifies the highlighted language or text choice?",
+    "audio_prompt": "Read: “The report shifts from “solar panels” to “machines” and then “things”.” Which description best identifies the highlighted language or text choice?",
+    "answers": [
+      {
+        "text": "purposeful repetition",
         "is_correct": false
       },
       {
-        "text": "Mia chose red; Kai, blue.",
+        "text": "broken lexical chain",
+        "is_correct": true
+      },
+      {
+        "text": "synonym chain",
+        "is_correct": false
+      },
+      {
+        "text": "category link",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "This is broken lexical chain: The increasingly vague substitutes make the topic harder to track.",
+      "hint": "Name the exact feature before explaining its effect."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 41,
+    "quality_schema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LA04-P-042",
+    "curriculum_code": "AC9E6LA04",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "broken lexical chain-effect",
+    "question": "Why is this choice effective in context: “The report shifts from “solar panels” to “machines” and then “things”.”?",
+    "audio_prompt": "Why is this choice effective in context: “The report shifts from “solar panels” to “machines” and then “things”.”?",
+    "answers": [
+      {
+        "text": "Repeating “roots” keeps the technical focus exact across sentences.",
+        "is_correct": false
+      },
+      {
+        "text": "A related expression maintains the topic while adding meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "The increasingly vague substitutes make the topic harder to track.",
+        "is_correct": true
+      },
+      {
+        "text": "The superordinate term “birds” groups the named species.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The increasingly vague substitutes make the topic harder to track.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 42,
+    "quality_schema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LA04-P-043",
+    "curriculum_code": "AC9E6LA04",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "broken lexical chain-revision",
+    "question": "Which revision best applies broken lexical chain to the idea in “The report shifts from “solar panels” to “machines” and then “things”.”?",
+    "audio_prompt": "Which revision best applies broken lexical chain to the idea in “The report shifts from “solar panels” to “machines” and then “things”.”?",
+    "answers": [
+      {
+        "text": "Mangrove roots trap sediment. These roots also create sheltered habitat.",
+        "is_correct": false
+      },
+      {
+        "text": "The storm damaged the coast. This severe weather event also closed roads.",
+        "is_correct": false
+      },
+      {
+        "text": "Kookaburras and rosellas visited. These native birds fed near the fence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use “solar panels”, “the panels” and “this energy system”.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "“Mia chose red; Kai, blue.” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Use technical repetition when precision matters; use substitution only where reference remains unmistakable."
+      "summary": "The revision applies broken lexical chain deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
-    "sequence_priority": 40,
-    "quality_schema": "skillr-authored-v1"
+    "difficulty_tier": "application",
+    "sequence_priority": 43,
+    "quality_schema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LA04-P-044",
+    "curriculum_code": "AC9E6LA04",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "broken lexical chain-misconception",
+    "question": "A student says, “Any substitute automatically improves cohesion.” Which response best corrects the misconception?",
+    "audio_prompt": "A student says, “Any substitute automatically improves cohesion.” Which response best corrects the misconception?",
+    "answers": [
+      {
+        "text": "The claim is too broad; the example shows that the increasingly vague substitutes make the topic harder to track.",
+        "is_correct": true
+      },
+      {
+        "text": "All repeated nouns should be replaced with pronouns.",
+        "is_correct": false
+      },
+      {
+        "text": "Any two words with similar meanings can be swapped in every context.",
+        "is_correct": false
+      },
+      {
+        "text": "A category word must repeat every original noun.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 44,
+    "quality_schema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LA04-P-045",
+    "curriculum_code": "AC9E6LA04",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "paragraph link",
+    "question": "Read: “The first paragraph explains habitat loss. The next begins, “This decline also affects food webs.”” Which description best identifies the highlighted language or text choice?",
+    "audio_prompt": "Read: “The first paragraph explains habitat loss. The next begins, “This decline also affects food webs.”” Which description best identifies the highlighted language or text choice?",
+    "answers": [
+      {
+        "text": "purposeful repetition",
+        "is_correct": false
+      },
+      {
+        "text": "paragraph link",
+        "is_correct": true
+      },
+      {
+        "text": "synonym chain",
+        "is_correct": false
+      },
+      {
+        "text": "category link",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "This is paragraph link: The repeated idea “decline” connects the new consequence to the previous paragraph.",
+      "hint": "Name the exact feature before explaining its effect."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 45,
+    "quality_schema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LA04-P-046",
+    "curriculum_code": "AC9E6LA04",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "paragraph link-effect",
+    "question": "Why is this choice effective in context: “The first paragraph explains habitat loss. The next begins, “This decline also affects food webs.””?",
+    "audio_prompt": "Why is this choice effective in context: “The first paragraph explains habitat loss. The next begins, “This decline also affects food webs.””?",
+    "answers": [
+      {
+        "text": "Repeating “roots” keeps the technical focus exact across sentences.",
+        "is_correct": false
+      },
+      {
+        "text": "A related expression maintains the topic while adding meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "The repeated idea “decline” connects the new consequence to the previous paragraph.",
+        "is_correct": true
+      },
+      {
+        "text": "The superordinate term “birds” groups the named species.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The repeated idea “decline” connects the new consequence to the previous paragraph.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 46,
+    "quality_schema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LA04-P-047",
+    "curriculum_code": "AC9E6LA04",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "paragraph link-revision",
+    "question": "Which revision best applies paragraph link to the idea in “The first paragraph explains habitat loss. The next begins, “This decline also affects food webs.””?",
+    "audio_prompt": "Which revision best applies paragraph link to the idea in “The first paragraph explains habitat loss. The next begins, “This decline also affects food webs.””?",
+    "answers": [
+      {
+        "text": "Mangrove roots trap sediment. These roots also create sheltered habitat.",
+        "is_correct": false
+      },
+      {
+        "text": "The storm damaged the coast. This severe weather event also closed roads.",
+        "is_correct": false
+      },
+      {
+        "text": "Kookaburras and rosellas visited. These native birds fed near the fence.",
+        "is_correct": false
+      },
+      {
+        "text": "Begin the next paragraph by naming the shared idea before adding the consequence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The revision applies paragraph link deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 47,
+    "quality_schema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LA04-P-048",
+    "curriculum_code": "AC9E6LA04",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "paragraph link-misconception",
+    "question": "A student says, “Paragraphs should not repeat ideas from one another.” Which response best corrects the misconception?",
+    "audio_prompt": "A student says, “Paragraphs should not repeat ideas from one another.” Which response best corrects the misconception?",
+    "answers": [
+      {
+        "text": "The claim is too broad; the example shows that the repeated idea “decline” connects the new consequence to the previous paragraph.",
+        "is_correct": true
+      },
+      {
+        "text": "All repeated nouns should be replaced with pronouns.",
+        "is_correct": false
+      },
+      {
+        "text": "Any two words with similar meanings can be swapped in every context.",
+        "is_correct": false
+      },
+      {
+        "text": "A category word must repeat every original noun.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 48,
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-T-001",
@@ -1525,37 +1829,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "verify",
-    "skill": "balanced",
-    "question": "A community radio segment includes “the habitat … this environment … it”. Which description best fits this wording?",
-    "audio_prompt": "A community radio segment includes “the habitat … this environment … it”. Which description best fits this wording?",
+    "stage": "independent",
+    "skill": "purposeful repetition",
+    "question": "In a museum label, you read: “Mangrove roots trap sediment. These roots also shelter young fish.” Which analysis is most accurate?",
+    "audio_prompt": "In a museum label, you read: “Mangrove roots trap sediment. These roots also shelter young fish.” Which analysis is most accurate?",
     "answers": [
       {
-        "text": "balanced",
+        "text": "synonym chain: A related expression maintains the topic while adding meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "purposeful repetition: Repeating “roots” keeps the technical focus exact across sentences.",
         "is_correct": true
       },
       {
-        "text": "repetition",
+        "text": "category link: The superordinate term “birds” groups the named species.",
         "is_correct": false
       },
       {
-        "text": "substitution",
-        "is_correct": false
-      },
-      {
-        "text": "pronoun reference",
+        "text": "part–whole link: “Chain” and “gears” are associated parts of the bicycle, sustaining the topic.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The wording best matches balanced.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "purposeful repetition is supported by the wording and its function in the whole sentence.",
+      "hint": "Identify, cite and explain."
     },
     "difficulty": 3,
-    "difficulty_tier": "verify",
+    "difficulty_tier": "independent",
     "sequence_priority": 1,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-T-002",
@@ -1563,37 +1867,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "verify",
-    "skill": "reference",
-    "question": "In a wildlife-centre report, which term matches this meaning: “language pointing to another element”?",
-    "audio_prompt": "In a wildlife-centre report, which term matches this meaning: “language pointing to another element”?",
+    "stage": "independent",
+    "skill": "synonym chain-purpose",
+    "question": "For a museum label, which editing decision best demonstrates control of synonym chain?",
+    "audio_prompt": "For a museum label, which editing decision best demonstrates control of synonym chain?",
     "answers": [
       {
-        "text": "substitution",
+        "text": "Mangrove roots trap sediment. These roots also create sheltered habitat.",
         "is_correct": false
       },
       {
-        "text": "reference",
+        "text": "Kookaburras and rosellas visited. These native birds fed near the fence.",
+        "is_correct": false
+      },
+      {
+        "text": "The storm damaged the coast. This severe weather event also closed roads.",
         "is_correct": true
       },
       {
-        "text": "ellipsis",
-        "is_correct": false
-      },
-      {
-        "text": "It does not match the evidence in the example.",
+        "text": "The bicycle needed repair because its chain had slipped from the gears.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "reference is the precise term for language pointing to another element.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This option deliberately applies synonym chain without changing the intended meaning.",
+      "hint": "Reject choices that merely add length or sound impressive."
     },
     "difficulty": 3,
-    "difficulty_tier": "verify",
+    "difficulty_tier": "independent",
     "sequence_priority": 2,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-T-003",
@@ -1601,37 +1905,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "verify",
-    "skill": "cohesion_through_reference_and_lexical_chains",
-    "question": "For a regional youth forum, which connective best signals a result?",
-    "audio_prompt": "For a regional youth forum, which connective best signals a result?",
+    "stage": "transfer",
+    "skill": "category link-reasoning",
+    "question": "While reviewing a museum label, which statement should an editor reject about “Kookaburras and rosellas visited the garden. These birds fed near the fence.”?",
+    "audio_prompt": "While reviewing a museum label, which statement should an editor reject about “Kookaburras and rosellas visited the garden. These birds fed near the fence.”?",
     "answers": [
       {
-        "text": "however",
+        "text": "All repeated nouns should be replaced with pronouns.",
         "is_correct": false
       },
       {
-        "text": "meanwhile",
+        "text": "Any two words with similar meanings can be swapped in every context.",
         "is_correct": false
       },
       {
-        "text": "therefore",
+        "text": "Word association means the words must rhyme.",
+        "is_correct": false
+      },
+      {
+        "text": "A category word must repeat every original noun.",
         "is_correct": true
-      },
-      {
-        "text": "although",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "“therefore” is supported by the language evidence and purpose of the text.",
-      "hint": "Use technical repetition when precision matters; use substitution only where reference remains unmistakable."
+      "summary": "The rejected statement is an inaccurate generalisation about category link.",
+      "hint": "Select the claim contradicted by the evidence or by the language rule."
     },
     "difficulty": 3,
-    "difficulty_tier": "verify",
+    "difficulty_tier": "transfer",
     "sequence_priority": 3,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-T-004",
@@ -1639,37 +1943,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "verify",
-    "skill": "independent_misconception_check",
-    "question": "A writer preparing a coastal-monitoring update says, “Pronoun has several antecedents”. Which response is most accurate?",
-    "audio_prompt": "A writer preparing a coastal-monitoring update says, “Pronoun has several antecedents”. Which response is most accurate?",
+    "stage": "transfer",
+    "skill": "part–whole link-explanation",
+    "question": "For a museum label, which explanation would earn full credit for the language choice in “The bicycle needed repair. Its chain had slipped from the gears.”?",
+    "audio_prompt": "For a museum label, which explanation would earn full credit for the language choice in “The bicycle needed repair. Its chain had slipped from the gears.”?",
     "answers": [
       {
-        "text": "Every repetition removed",
-        "is_correct": false
-      },
-      {
-        "text": "Pronoun has several antecedents",
-        "is_correct": false
-      },
-      {
-        "text": "Ellipsis removes essential meaning",
-        "is_correct": false
-      },
-      {
-        "text": "Specify the noun.",
+        "text": "“Chain” and “gears” are associated parts of the bicycle, sustaining the topic.",
         "is_correct": true
+      },
+      {
+        "text": "Repeating “roots” keeps the technical focus exact across sentences.",
+        "is_correct": false
+      },
+      {
+        "text": "A related expression maintains the topic while adding meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "The superordinate term “birds” groups the named species.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Specify the noun. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "“Chain” and “gears” are associated parts of the bicycle, sustaining the topic.",
+      "hint": "A full-credit explanation links exact evidence to meaning or purpose."
     },
     "difficulty": 3,
-    "difficulty_tier": "verify",
+    "difficulty_tier": "transfer",
     "sequence_priority": 4,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-T-005",
@@ -1677,37 +1981,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "verify",
-    "skill": "balanced",
-    "question": "A heritage trail guide includes “the habitat … this environment … it”. Which description best fits this wording?",
-    "audio_prompt": "A heritage trail guide includes “the habitat … this environment … it”. Which description best fits this wording?",
+    "stage": "independent",
+    "skill": "antonym contrast",
+    "question": "In a school report, you read: “The northern slope was dry, but the southern slope remained wet.” Which analysis is most accurate?",
+    "audio_prompt": "In a school report, you read: “The northern slope was dry, but the southern slope remained wet.” Which analysis is most accurate?",
     "answers": [
       {
-        "text": "balanced",
+        "text": "purposeful repetition: Repeating “roots” keeps the technical focus exact across sentences.",
+        "is_correct": false
+      },
+      {
+        "text": "antonym contrast: The antonyms create a clear contrast within the same topic.",
         "is_correct": true
       },
       {
-        "text": "repetition",
+        "text": "synonym chain: A related expression maintains the topic while adding meaning.",
         "is_correct": false
       },
       {
-        "text": "substitution",
-        "is_correct": false
-      },
-      {
-        "text": "pronoun reference",
+        "text": "category link: The superordinate term “birds” groups the named species.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The wording best matches balanced.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "antonym contrast is supported by the wording and its function in the whole sentence.",
+      "hint": "Identify, cite and explain."
     },
     "difficulty": 3,
-    "difficulty_tier": "verify",
+    "difficulty_tier": "independent",
     "sequence_priority": 5,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-T-006",
@@ -1715,37 +2019,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "verify",
-    "skill": "substitution",
-    "question": "In a public-transport survey, which term matches this meaning: “replacement by a word or phrase standing for earlier content”?",
-    "audio_prompt": "In a public-transport survey, which term matches this meaning: “replacement by a word or phrase standing for earlier content”?",
+    "stage": "independent",
+    "skill": "pronoun reference-purpose",
+    "question": "For a school report, which editing decision best demonstrates control of pronoun reference?",
+    "audio_prompt": "For a school report, which editing decision best demonstrates control of pronoun reference?",
     "answers": [
       {
-        "text": "reference",
+        "text": "Mangrove roots trap sediment. These roots also create sheltered habitat.",
         "is_correct": false
       },
       {
-        "text": "substitution",
+        "text": "The storm damaged the coast. This severe weather event also closed roads.",
+        "is_correct": false
+      },
+      {
+        "text": "Ava placed the seedling beside the stake and tied the seedling loosely.",
         "is_correct": true
       },
       {
-        "text": "ellipsis",
-        "is_correct": false
-      },
-      {
-        "text": "It does not match the evidence in the example.",
+        "text": "Kookaburras and rosellas visited. These native birds fed near the fence.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "substitution is the precise term for replacement by a word or phrase standing for earlier content.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This option deliberately applies pronoun reference without changing the intended meaning.",
+      "hint": "Reject choices that merely add length or sound impressive."
     },
     "difficulty": 3,
-    "difficulty_tier": "verify",
+    "difficulty_tier": "independent",
     "sequence_priority": 6,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-T-007",
@@ -1753,37 +2057,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "verify",
-    "skill": "cohesion_through_reference_and_lexical_chains",
-    "question": "For a festival review, which connective best signals a result?",
-    "audio_prompt": "For a festival review, which connective best signals a result?",
+    "stage": "transfer",
+    "skill": "demonstrative reference-reasoning",
+    "question": "While reviewing a school report, which statement should an editor reject about “The creek overflowed after heavy rain. This caused the path to close.”?",
+    "audio_prompt": "While reviewing a school report, which statement should an editor reject about “The creek overflowed after heavy rain. This caused the path to close.”?",
     "answers": [
       {
-        "text": "however",
+        "text": "All repeated nouns should be replaced with pronouns.",
         "is_correct": false
       },
       {
-        "text": "meanwhile",
+        "text": "Any two words with similar meanings can be swapped in every context.",
         "is_correct": false
       },
       {
-        "text": "therefore",
+        "text": "A category word must repeat every original noun.",
+        "is_correct": false
+      },
+      {
+        "text": "“This” always has a clear meaning on its own.",
         "is_correct": true
-      },
-      {
-        "text": "although",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "“therefore” is supported by the language evidence and purpose of the text.",
-      "hint": "Use technical repetition when precision matters; use substitution only where reference remains unmistakable."
+      "summary": "The rejected statement is an inaccurate generalisation about demonstrative reference.",
+      "hint": "Select the claim contradicted by the evidence or by the language rule."
     },
     "difficulty": 3,
-    "difficulty_tier": "verify",
+    "difficulty_tier": "transfer",
     "sequence_priority": 7,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-T-008",
@@ -1791,37 +2095,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "verify",
-    "skill": "independent_misconception_check",
-    "question": "A writer preparing a emergency-preparedness talk says, “Pronoun has several antecedents”. Which response is most accurate?",
-    "audio_prompt": "A writer preparing a emergency-preparedness talk says, “Pronoun has several antecedents”. Which response is most accurate?",
+    "stage": "transfer",
+    "skill": "ambiguous reference-explanation",
+    "question": "For a school report, which explanation would earn full credit for the language choice in “Lena told Priya that she had misread the scale.”?",
+    "audio_prompt": "For a school report, which explanation would earn full credit for the language choice in “Lena told Priya that she had misread the scale.”?",
     "answers": [
       {
-        "text": "Every repetition removed",
-        "is_correct": false
-      },
-      {
-        "text": "Pronoun has several antecedents",
-        "is_correct": false
-      },
-      {
-        "text": "Ellipsis removes essential meaning",
-        "is_correct": false
-      },
-      {
-        "text": "Specify the noun.",
+        "text": "“She” could refer to either person, so the participant chain breaks.",
         "is_correct": true
+      },
+      {
+        "text": "Repeating “roots” keeps the technical focus exact across sentences.",
+        "is_correct": false
+      },
+      {
+        "text": "A related expression maintains the topic while adding meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "The superordinate term “birds” groups the named species.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Specify the noun. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "“She” could refer to either person, so the participant chain breaks.",
+      "hint": "A full-credit explanation links exact evidence to meaning or purpose."
     },
     "difficulty": 3,
-    "difficulty_tier": "verify",
+    "difficulty_tier": "transfer",
     "sequence_priority": 8,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-T-009",
@@ -1829,37 +2133,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "apply",
-    "skill": "balanced",
-    "question": "A water-saving brochure includes “the habitat … this environment … it”. Which description best fits this wording?",
-    "audio_prompt": "A water-saving brochure includes “the habitat … this environment … it”. Which description best fits this wording?",
+    "stage": "independent",
+    "skill": "semantic field",
+    "question": "In a community webpage, you read: “Seedlings, canopy, roots and habitat recur throughout the rainforest report.” Which analysis is most accurate?",
+    "audio_prompt": "In a community webpage, you read: “Seedlings, canopy, roots and habitat recur throughout the rainforest report.” Which analysis is most accurate?",
     "answers": [
       {
-        "text": "balanced",
+        "text": "purposeful repetition: Repeating “roots” keeps the technical focus exact across sentences.",
+        "is_correct": false
+      },
+      {
+        "text": "semantic field: The related vocabulary forms a lexical chain around the report’s subject.",
         "is_correct": true
       },
       {
-        "text": "repetition",
+        "text": "synonym chain: A related expression maintains the topic while adding meaning.",
         "is_correct": false
       },
       {
-        "text": "substitution",
-        "is_correct": false
-      },
-      {
-        "text": "pronoun reference",
+        "text": "category link: The superordinate term “birds” groups the named species.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The wording best matches balanced.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "semantic field is supported by the wording and its function in the whole sentence.",
+      "hint": "Identify, cite and explain."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "independent",
     "sequence_priority": 9,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-T-010",
@@ -1867,37 +2171,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "apply",
-    "skill": "ellipsis",
-    "question": "In a local council submission, which term matches this meaning: “omission of recoverable words”?",
-    "audio_prompt": "In a local council submission, which term matches this meaning: “omission of recoverable words”?",
+    "stage": "independent",
+    "skill": "controlled variation-purpose",
+    "question": "For a community webpage, which editing decision best demonstrates control of controlled variation?",
+    "audio_prompt": "For a community webpage, which editing decision best demonstrates control of controlled variation?",
     "answers": [
       {
-        "text": "reference",
+        "text": "Mangrove roots trap sediment. These roots also create sheltered habitat.",
         "is_correct": false
       },
       {
-        "text": "ellipsis",
+        "text": "The storm damaged the coast. This severe weather event also closed roads.",
+        "is_correct": false
+      },
+      {
+        "text": "The habitat supports frogs. This wetland habitat also filters water.",
         "is_correct": true
       },
       {
-        "text": "substitution",
-        "is_correct": false
-      },
-      {
-        "text": "It does not match the evidence in the example.",
+        "text": "Kookaburras and rosellas visited. These native birds fed near the fence.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "ellipsis is the precise term for omission of recoverable words.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This option deliberately applies controlled variation without changing the intended meaning.",
+      "hint": "Reject choices that merely add length or sound impressive."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "independent",
     "sequence_priority": 10,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-T-011",
@@ -1905,37 +2209,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "apply",
-    "skill": "cohesion_through_reference_and_lexical_chains",
-    "question": "For a marine-research diary, which connective best signals a result?",
-    "audio_prompt": "For a marine-research diary, which connective best signals a result?",
+    "stage": "transfer",
+    "skill": "broken lexical chain-reasoning",
+    "question": "While reviewing a community webpage, which statement should an editor reject about “The report shifts from “solar panels” to “machines” and then “things”.”?",
+    "audio_prompt": "While reviewing a community webpage, which statement should an editor reject about “The report shifts from “solar panels” to “machines” and then “things”.”?",
     "answers": [
       {
-        "text": "however",
+        "text": "All repeated nouns should be replaced with pronouns.",
         "is_correct": false
       },
       {
-        "text": "meanwhile",
+        "text": "Any two words with similar meanings can be swapped in every context.",
         "is_correct": false
       },
       {
-        "text": "therefore",
+        "text": "A category word must repeat every original noun.",
+        "is_correct": false
+      },
+      {
+        "text": "Any substitute automatically improves cohesion.",
         "is_correct": true
-      },
-      {
-        "text": "although",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "“therefore” is supported by the language evidence and purpose of the text.",
-      "hint": "Use technical repetition when precision matters; use substitution only where reference remains unmistakable."
+      "summary": "The rejected statement is an inaccurate generalisation about broken lexical chain.",
+      "hint": "Select the claim contradicted by the evidence or by the language rule."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "transfer",
     "sequence_priority": 11,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-T-012",
@@ -1943,37 +2247,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "apply",
-    "skill": "independent_misconception_check",
-    "question": "A writer preparing a farmers market profile says, “Pronoun has several antecedents”. Which response is most accurate?",
-    "audio_prompt": "A writer preparing a farmers market profile says, “Pronoun has several antecedents”. Which response is most accurate?",
+    "stage": "transfer",
+    "skill": "paragraph link-explanation",
+    "question": "For a community webpage, which explanation would earn full credit for the language choice in “The first paragraph explains habitat loss. The next begins, “This decline also affects food webs.””?",
+    "audio_prompt": "For a community webpage, which explanation would earn full credit for the language choice in “The first paragraph explains habitat loss. The next begins, “This decline also affects food webs.””?",
     "answers": [
       {
-        "text": "Every repetition removed",
-        "is_correct": false
-      },
-      {
-        "text": "Pronoun has several antecedents",
-        "is_correct": false
-      },
-      {
-        "text": "Ellipsis removes essential meaning",
-        "is_correct": false
-      },
-      {
-        "text": "Specify the noun.",
+        "text": "The repeated idea “decline” connects the new consequence to the previous paragraph.",
         "is_correct": true
+      },
+      {
+        "text": "Repeating “roots” keeps the technical focus exact across sentences.",
+        "is_correct": false
+      },
+      {
+        "text": "A related expression maintains the topic while adding meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "The superordinate term “birds” groups the named species.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Specify the noun. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "The repeated idea “decline” connects the new consequence to the previous paragraph.",
+      "hint": "A full-credit explanation links exact evidence to meaning or purpose."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "transfer",
     "sequence_priority": 12,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-T-013",
@@ -1981,37 +2285,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "apply",
-    "skill": "balanced",
-    "question": "A astronomy exhibition includes “the habitat … this environment … it”. Which description best fits this wording?",
-    "audio_prompt": "A astronomy exhibition includes “the habitat … this environment … it”. Which description best fits this wording?",
+    "stage": "independent",
+    "skill": "purposeful repetition",
+    "question": "In a student presentation, you read: “Mangrove roots trap sediment. These roots also shelter young fish.” Which analysis is most accurate?",
+    "audio_prompt": "In a student presentation, you read: “Mangrove roots trap sediment. These roots also shelter young fish.” Which analysis is most accurate?",
     "answers": [
       {
-        "text": "balanced",
+        "text": "synonym chain: A related expression maintains the topic while adding meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "purposeful repetition: Repeating “roots” keeps the technical focus exact across sentences.",
         "is_correct": true
       },
       {
-        "text": "repetition",
+        "text": "category link: The superordinate term “birds” groups the named species.",
         "is_correct": false
       },
       {
-        "text": "substitution",
-        "is_correct": false
-      },
-      {
-        "text": "pronoun reference",
+        "text": "part–whole link: “Chain” and “gears” are associated parts of the bicycle, sustaining the topic.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The wording best matches balanced.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "purposeful repetition is supported by the wording and its function in the whole sentence.",
+      "hint": "Identify, cite and explain."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "independent",
     "sequence_priority": 13,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-T-014",
@@ -2019,37 +2323,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "apply",
-    "skill": "reference",
-    "question": "In a river-restoration update, which term matches this meaning: “language pointing to another element”?",
-    "audio_prompt": "In a river-restoration update, which term matches this meaning: “language pointing to another element”?",
+    "stage": "independent",
+    "skill": "synonym chain-purpose",
+    "question": "For a student presentation, which editing decision best demonstrates control of synonym chain?",
+    "audio_prompt": "For a student presentation, which editing decision best demonstrates control of synonym chain?",
     "answers": [
       {
-        "text": "substitution",
+        "text": "Mangrove roots trap sediment. These roots also create sheltered habitat.",
         "is_correct": false
       },
       {
-        "text": "reference",
+        "text": "Kookaburras and rosellas visited. These native birds fed near the fence.",
+        "is_correct": false
+      },
+      {
+        "text": "The storm damaged the coast. This severe weather event also closed roads.",
         "is_correct": true
       },
       {
-        "text": "ellipsis",
-        "is_correct": false
-      },
-      {
-        "text": "It does not match the evidence in the example.",
+        "text": "The bicycle needed repair because its chain had slipped from the gears.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "reference is the precise term for language pointing to another element.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This option deliberately applies synonym chain without changing the intended meaning.",
+      "hint": "Reject choices that merely add length or sound impressive."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "independent",
     "sequence_priority": 14,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-T-015",
@@ -2057,37 +2361,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "apply",
-    "skill": "cohesion_through_reference_and_lexical_chains",
-    "question": "For a cycling-safety campaign, which connective best signals a result?",
-    "audio_prompt": "For a cycling-safety campaign, which connective best signals a result?",
+    "stage": "transfer",
+    "skill": "category link-reasoning",
+    "question": "While reviewing a student presentation, which statement should an editor reject about “Kookaburras and rosellas visited the garden. These birds fed near the fence.”?",
+    "audio_prompt": "While reviewing a student presentation, which statement should an editor reject about “Kookaburras and rosellas visited the garden. These birds fed near the fence.”?",
     "answers": [
       {
-        "text": "however",
+        "text": "All repeated nouns should be replaced with pronouns.",
         "is_correct": false
       },
       {
-        "text": "meanwhile",
+        "text": "Any two words with similar meanings can be swapped in every context.",
         "is_correct": false
       },
       {
-        "text": "therefore",
+        "text": "Word association means the words must rhyme.",
+        "is_correct": false
+      },
+      {
+        "text": "A category word must repeat every original noun.",
         "is_correct": true
-      },
-      {
-        "text": "although",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "“therefore” is supported by the language evidence and purpose of the text.",
-      "hint": "Use technical repetition when precision matters; use substitution only where reference remains unmistakable."
+      "summary": "The rejected statement is an inaccurate generalisation about category link.",
+      "hint": "Select the claim contradicted by the evidence or by the language rule."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "transfer",
     "sequence_priority": 15,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA04-T-016",
@@ -2095,36 +2399,36 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "apply",
-    "skill": "independent_misconception_check",
-    "question": "A writer preparing a neighbourhood history podcast says, “Pronoun has several antecedents”. Which response is most accurate?",
-    "audio_prompt": "A writer preparing a neighbourhood history podcast says, “Pronoun has several antecedents”. Which response is most accurate?",
+    "stage": "transfer",
+    "skill": "part–whole link-explanation",
+    "question": "For a student presentation, which explanation would earn full credit for the language choice in “The bicycle needed repair. Its chain had slipped from the gears.”?",
+    "audio_prompt": "For a student presentation, which explanation would earn full credit for the language choice in “The bicycle needed repair. Its chain had slipped from the gears.”?",
     "answers": [
       {
-        "text": "Every repetition removed",
-        "is_correct": false
-      },
-      {
-        "text": "Pronoun has several antecedents",
-        "is_correct": false
-      },
-      {
-        "text": "Ellipsis removes essential meaning",
-        "is_correct": false
-      },
-      {
-        "text": "Specify the noun.",
+        "text": "“Chain” and “gears” are associated parts of the bicycle, sustaining the topic.",
         "is_correct": true
+      },
+      {
+        "text": "Repeating “roots” keeps the technical focus exact across sentences.",
+        "is_correct": false
+      },
+      {
+        "text": "A related expression maintains the topic while adding meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "The superordinate term “birds” groups the named species.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Specify the noun. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "“Chain” and “gears” are associated parts of the bicycle, sustaining the topic.",
+      "hint": "A full-credit explanation links exact evidence to meaning or purpose."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "transfer",
     "sequence_priority": 16,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   }
 ]

@@ -4,12 +4,12 @@ window.skillrTestQuestions = [
     "id": "AC9E6LY01-T-001",
     "curriculumCode": "AC9E6LY01",
     "bank": "test",
-    "stage": "verify",
-    "skill": "analyse headline and evaluation",
+    "stage": "independent",
+    "skill": "creation context",
     "printable": true,
     "type": "single",
-    "question": "A community radio segment includes “analyse headline and evaluation”. Which description best fits this wording?",
-    "audioPrompt": "A community radio segment includes “analyse headline and evaluation”. Which description best fits this wording?",
+    "question": "In a museum panel, “A 1942 poster urges families to save food and fuel.” Which analysis is strongest?",
+    "audioPrompt": "In a museum panel, “A 1942 poster urges families to save food and fuel.” Which analysis is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -17,29 +17,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "headline",
-      "image",
-      "sources",
-      "analyse headline and evaluation"
+      "audience: The modes and informal explanations suit a young contemporary audience.",
+      "representation of event: The noun choice frames the event through inconvenience rather than political purpose.",
+      "creation context: Wartime scarcity and government campaigning help explain its urgent commands.",
+      "selection: The chosen images emphasise spectacle while omitting community experience."
     ],
-    "correct": 3,
-    "explanation": "The wording best matches analyse headline and evaluation.\nHint: Identify the language choice first, then check its effect in this context.",
+    "correct": 2,
+    "explanation": "creation context is supported by exact evidence.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches analyse headline and evaluation.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "creation context is supported by exact evidence.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-T-002",
     "curriculumCode": "AC9E6LY01",
     "bank": "test",
-    "stage": "verify",
-    "skill": "representation",
+    "stage": "independent",
+    "skill": "audience edit",
     "printable": true,
     "type": "single",
-    "question": "In a wildlife-centre report, which term matches this meaning: “constructed version of an idea, person or event”?",
-    "audioPrompt": "In a wildlife-centre report, which term matches this meaning: “constructed version of an idea, person or event”?",
+    "question": "Which edit best demonstrates audience in a museum panel?",
+    "audioPrompt": "Which edit best demonstrates audience in a museum panel?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -47,29 +47,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "representation",
-      "framing",
-      "positioning",
-      "It does not match the evidence in the example."
+      "Connect the imperative language to the poster’s purpose and date.",
+      "Compare the headline wording and whose voices are quoted.",
+      "Identify what is present, absent and foregrounded.",
+      "Compare these choices with a technical government report."
     ],
-    "correct": 0,
-    "explanation": "representation is the precise term for constructed version of an idea, person or event.\nHint: Distinguish closely related terms by their definitions.",
+    "correct": 3,
+    "explanation": "This edit applies audience accurately.\nHint: Choose purposeful accuracy.",
     "structuredExplanation": {
-      "summary": "representation is the precise term for constructed version of an idea, person or event.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies audience accurately.",
+      "hint": "Choose purposeful accuracy."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-T-003",
     "curriculumCode": "AC9E6LY01",
     "bank": "test",
-    "stage": "verify",
-    "skill": "representation and influence in media texts",
+    "stage": "transfer",
+    "skill": "representation of event misconception",
     "printable": true,
     "type": "single",
-    "question": "For a regional youth forum, which choice most directly frames an event?",
-    "audioPrompt": "For a regional youth forum, which choice most directly frames an event?",
+    "question": "Which claim should an editor reject about “A news report calls a protest a “disruption” rather than a “demonstration”.” in this museum panel?",
+    "audioPrompt": "Which claim should an editor reject about “A news report calls a protest a “disruption” rather than a “demonstration”.” in this museum panel?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -77,29 +77,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Including a correct date",
-      "Selecting a tight image of traffic disruption",
-      "Using page numbers",
-      "Spelling all names correctly"
+      "Representation simply copies reality without selection.",
+      "Old texts are automatically inaccurate.",
+      "Audience can be identified from one slang word.",
+      "A photograph includes everything relevant outside its frame."
     ],
-    "correct": 1,
-    "explanation": "“Selecting a tight image of traffic disruption” is supported by the language evidence and purpose of the text.\nHint: Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence.",
+    "correct": 0,
+    "explanation": "The rejected claim overgeneralises representation of event.\nHint: Check the claim against evidence.",
     "structuredExplanation": {
-      "summary": "“Selecting a tight image of traffic disruption” is supported by the language evidence and purpose of the text.",
-      "hint": "Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence."
+      "summary": "The rejected claim overgeneralises representation of event.",
+      "hint": "Check the claim against evidence."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-T-004",
     "curriculumCode": "AC9E6LY01",
     "bank": "test",
-    "stage": "verify",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "selection explanation",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a coastal-monitoring update says, “Different representation called false automatically”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a coastal-monitoring update says, “Different representation called false automatically”. Which response is most accurate?",
+    "question": "Which explanation best accounts for “An article about a festival shows performers but no local residents.” in this museum panel?",
+    "audioPrompt": "Which explanation best accounts for “An article about a festival shows performers but no local residents.” in this museum panel?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -107,29 +107,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Media text treated as transparent reality",
-      "Different representation called false automatically",
-      "Check factual accuracy and framing separately.",
-      "Image considered self-explanatory"
+      "Wartime scarcity and government campaigning help explain its urgent commands.",
+      "The chosen images emphasise spectacle while omitting community experience.",
+      "The modes and informal explanations suit a young contemporary audience.",
+      "The noun choice frames the event through inconvenience rather than political purpose."
     ],
-    "correct": 2,
-    "explanation": "Check factual accuracy and framing separately. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "correct": 1,
+    "explanation": "The chosen images emphasise spectacle while omitting community experience.\nHint: Connect evidence and effect.",
     "structuredExplanation": {
-      "summary": "Check factual accuracy and framing separately. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "The chosen images emphasise spectacle while omitting community experience.",
+      "hint": "Connect evidence and effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-T-005",
     "curriculumCode": "AC9E6LY01",
     "bank": "test",
-    "stage": "verify",
-    "skill": "check omissions and limitations",
+    "stage": "independent",
+    "skill": "viewpoint",
     "printable": true,
     "type": "single",
-    "question": "A heritage trail guide includes “check omissions and limitations”. Which description best fits this wording?",
-    "audioPrompt": "A heritage trail guide includes “check omissions and limitations”. Which description best fits this wording?",
+    "question": "In a school magazine, “A diary describes an evacuation from one child’s limited perspective.” Which analysis is strongest?",
+    "audioPrompt": "In a school magazine, “A diary describes an evacuation from one child’s limited perspective.” Which analysis is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -137,29 +137,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "headline",
-      "image",
-      "sources",
-      "check omissions and limitations"
+      "creation context: Wartime scarcity and government campaigning help explain its urgent commands.",
+      "audience: The modes and informal explanations suit a young contemporary audience.",
+      "viewpoint: The viewpoint provides emotional immediacy but not a complete public record.",
+      "representation of event: The noun choice frames the event through inconvenience rather than political purpose."
     ],
-    "correct": 3,
-    "explanation": "The wording best matches check omissions and limitations.\nHint: Identify the language choice first, then check its effect in this context.",
+    "correct": 2,
+    "explanation": "viewpoint is supported by exact evidence.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches check omissions and limitations.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "viewpoint is supported by exact evidence.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-T-006",
     "curriculumCode": "AC9E6LY01",
     "bank": "test",
-    "stage": "verify",
-    "skill": "framing",
+    "stage": "independent",
+    "skill": "technology context edit",
     "printable": true,
     "type": "single",
-    "question": "In a public-transport survey, which term matches this meaning: “selection and arrangement shaping interpretation”?",
-    "audioPrompt": "In a public-transport survey, which term matches this meaning: “selection and arrangement shaping interpretation”?",
+    "question": "Which edit best demonstrates technology context in a school magazine?",
+    "audioPrompt": "Which edit best demonstrates technology context in a school magazine?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -167,29 +167,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "framing",
-      "representation",
-      "positioning",
-      "It does not match the evidence in the example."
+      "Connect the imperative language to the poster’s purpose and date.",
+      "Compare these choices with a technical government report.",
+      "Compare the headline wording and whose voices are quoted.",
+      "Explain how silent viewing makes captions important."
     ],
-    "correct": 0,
-    "explanation": "framing is the precise term for selection and arrangement shaping interpretation.\nHint: Distinguish closely related terms by their definitions.",
+    "correct": 3,
+    "explanation": "This edit applies technology context accurately.\nHint: Choose purposeful accuracy.",
     "structuredExplanation": {
-      "summary": "framing is the precise term for selection and arrangement shaping interpretation.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies technology context accurately.",
+      "hint": "Choose purposeful accuracy."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-T-007",
     "curriculumCode": "AC9E6LY01",
     "bank": "test",
-    "stage": "verify",
-    "skill": "representation and influence in media texts",
+    "stage": "transfer",
+    "skill": "social values misconception",
     "printable": true,
     "type": "single",
-    "question": "For a festival review, which choice most directly frames an event?",
-    "audioPrompt": "For a festival review, which choice most directly frames an event?",
+    "question": "Which claim should an editor reject about “An older advertisement presents household work as only women’s responsibility.” in this school magazine?",
+    "audioPrompt": "Which claim should an editor reject about “An older advertisement presents household work as only women’s responsibility.” in this school magazine?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -197,29 +197,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Including a correct date",
-      "Selecting a tight image of traffic disruption",
-      "Using page numbers",
-      "Spelling all names correctly"
+      "Everyone in that historical period shared the same values.",
+      "Old texts are automatically inaccurate.",
+      "Audience can be identified from one slang word.",
+      "Representation simply copies reality without selection."
     ],
-    "correct": 1,
-    "explanation": "“Selecting a tight image of traffic disruption” is supported by the language evidence and purpose of the text.\nHint: Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence.",
+    "correct": 0,
+    "explanation": "The rejected claim overgeneralises social values.\nHint: Check the claim against evidence.",
     "structuredExplanation": {
-      "summary": "“Selecting a tight image of traffic disruption” is supported by the language evidence and purpose of the text.",
-      "hint": "Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence."
+      "summary": "The rejected claim overgeneralises social values.",
+      "hint": "Check the claim against evidence."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-T-008",
     "curriculumCode": "AC9E6LY01",
     "bank": "test",
-    "stage": "verify",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "cultural positioning explanation",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a emergency-preparedness talk says, “Different representation called false automatically”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a emergency-preparedness talk says, “Different representation called false automatically”. Which response is most accurate?",
+    "question": "Which explanation best accounts for “A travel account describes local customs as “strange”.” in this school magazine?",
+    "audioPrompt": "Which explanation best accounts for “A travel account describes local customs as “strange”.” in this school magazine?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -227,29 +227,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Media text treated as transparent reality",
-      "Different representation called false automatically",
-      "Check factual accuracy and framing separately.",
-      "Image considered self-explanatory"
+      "Wartime scarcity and government campaigning help explain its urgent commands.",
+      "The evaluative label centres the traveller’s norms and positions the community as unfamiliar.",
+      "The modes and informal explanations suit a young contemporary audience.",
+      "The noun choice frames the event through inconvenience rather than political purpose."
     ],
-    "correct": 2,
-    "explanation": "Check factual accuracy and framing separately. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "correct": 1,
+    "explanation": "The evaluative label centres the traveller’s norms and positions the community as unfamiliar.\nHint: Connect evidence and effect.",
     "structuredExplanation": {
-      "summary": "Check factual accuracy and framing separately. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "The evaluative label centres the traveller’s norms and positions the community as unfamiliar.",
+      "hint": "Connect evidence and effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-T-009",
     "curriculumCode": "AC9E6LY01",
     "bank": "test",
-    "stage": "apply",
-    "skill": "inspect visuals data scale",
+    "stage": "independent",
+    "skill": "source purpose",
     "printable": true,
     "type": "single",
-    "question": "A water-saving brochure includes “inspect visuals/data scale”. Which description best fits this wording?",
-    "audioPrompt": "A water-saving brochure includes “inspect visuals/data scale”. Which description best fits this wording?",
+    "question": "In a community website, “A company brochure highlights jobs created but not pollution complaints.” Which analysis is strongest?",
+    "audioPrompt": "In a community website, “A company brochure highlights jobs created but not pollution complaints.” Which analysis is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -257,29 +257,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "headline",
-      "image",
-      "sources",
-      "inspect visuals/data scale"
+      "creation context: Wartime scarcity and government campaigning help explain its urgent commands.",
+      "audience: The modes and informal explanations suit a young contemporary audience.",
+      "source purpose: Promotional purpose helps explain the selective positive representation.",
+      "representation of event: The noun choice frames the event through inconvenience rather than political purpose."
     ],
-    "correct": 3,
-    "explanation": "The wording best matches inspect visuals/data scale.\nHint: Identify the language choice first, then check its effect in this context.",
+    "correct": 2,
+    "explanation": "source purpose is supported by exact evidence.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches inspect visuals/data scale.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "source purpose is supported by exact evidence.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-T-010",
     "curriculumCode": "AC9E6LY01",
     "bank": "test",
-    "stage": "apply",
-    "skill": "positioning",
+    "stage": "independent",
+    "skill": "multimodal framing edit",
     "printable": true,
     "type": "single",
-    "question": "In a local council submission, which term matches this meaning: “ways a text invites audiences to think or feel”?",
-    "audioPrompt": "In a local council submission, which term matches this meaning: “ways a text invites audiences to think or feel”?",
+    "question": "Which edit best demonstrates multimodal framing in a community website?",
+    "audioPrompt": "Which edit best demonstrates multimodal framing in a community website?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -287,29 +287,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "positioning",
-      "representation",
-      "framing",
-      "It does not match the evidence in the example."
+      "Connect the imperative language to the poster’s purpose and date.",
+      "Compare these choices with a technical government report.",
+      "Compare the headline wording and whose voices are quoted.",
+      "Analyse image, caption and speech together."
     ],
-    "correct": 0,
-    "explanation": "positioning is the precise term for ways a text invites audiences to think or feel.\nHint: Distinguish closely related terms by their definitions.",
+    "correct": 3,
+    "explanation": "This edit applies multimodal framing accurately.\nHint: Choose purposeful accuracy.",
     "structuredExplanation": {
-      "summary": "positioning is the precise term for ways a text invites audiences to think or feel.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies multimodal framing accurately.",
+      "hint": "Choose purposeful accuracy."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-T-011",
     "curriculumCode": "AC9E6LY01",
     "bank": "test",
-    "stage": "apply",
-    "skill": "representation and influence in media texts",
+    "stage": "transfer",
+    "skill": "change over time misconception",
     "printable": true,
     "type": "single",
-    "question": "For a marine-research diary, which choice most directly frames an event?",
-    "audioPrompt": "For a marine-research diary, which choice most directly frames an event?",
+    "question": "Which claim should an editor reject about “Two museum labels from 1980 and 2025 describe the same collection differently.” in this community website?",
+    "audioPrompt": "Which claim should an editor reject about “Two museum labels from 1980 and 2025 describe the same collection differently.” in this community website?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -317,29 +317,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Including a correct date",
-      "Selecting a tight image of traffic disruption",
-      "Using page numbers",
-      "Spelling all names correctly"
+      "Newer representations are automatically unbiased.",
+      "Old texts are automatically inaccurate.",
+      "Audience can be identified from one slang word.",
+      "Representation simply copies reality without selection."
     ],
-    "correct": 1,
-    "explanation": "“Selecting a tight image of traffic disruption” is supported by the language evidence and purpose of the text.\nHint: Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence.",
+    "correct": 0,
+    "explanation": "The rejected claim overgeneralises change over time.\nHint: Check the claim against evidence.",
     "structuredExplanation": {
-      "summary": "“Selecting a tight image of traffic disruption” is supported by the language evidence and purpose of the text.",
-      "hint": "Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence."
+      "summary": "The rejected claim overgeneralises change over time.",
+      "hint": "Check the claim against evidence."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-T-012",
     "curriculumCode": "AC9E6LY01",
     "bank": "test",
-    "stage": "apply",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "qualified judgement explanation",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a farmers market profile says, “Different representation called false automatically”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a farmers market profile says, “Different representation called false automatically”. Which response is most accurate?",
+    "question": "Which explanation best accounts for “The documentary may favour redevelopment because it interviews developers first and gives residents little time.” in this community website?",
+    "audioPrompt": "Which explanation best accounts for “The documentary may favour redevelopment because it interviews developers first and gives residents little time.” in this community website?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -347,29 +347,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Media text treated as transparent reality",
-      "Different representation called false automatically",
-      "Check factual accuracy and framing separately.",
-      "Image considered self-explanatory"
+      "Wartime scarcity and government campaigning help explain its urgent commands.",
+      "The claim identifies evidence and limits certainty appropriately.",
+      "The modes and informal explanations suit a young contemporary audience.",
+      "The noun choice frames the event through inconvenience rather than political purpose."
     ],
-    "correct": 2,
-    "explanation": "Check factual accuracy and framing separately. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "correct": 1,
+    "explanation": "The claim identifies evidence and limits certainty appropriately.\nHint: Connect evidence and effect.",
     "structuredExplanation": {
-      "summary": "Check factual accuracy and framing separately. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "The claim identifies evidence and limits certainty appropriately.",
+      "hint": "Connect evidence and effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-T-013",
     "curriculumCode": "AC9E6LY01",
     "bank": "test",
-    "stage": "apply",
-    "skill": "identify represented event",
+    "stage": "independent",
+    "skill": "creation context",
     "printable": true,
     "type": "single",
-    "question": "A astronomy exhibition includes “identify represented event”. Which description best fits this wording?",
-    "audioPrompt": "A astronomy exhibition includes “identify represented event”. Which description best fits this wording?",
+    "question": "In a student presentation, “A 1942 poster urges families to save food and fuel.” Which analysis is strongest?",
+    "audioPrompt": "In a student presentation, “A 1942 poster urges families to save food and fuel.” Which analysis is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -377,29 +377,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "headline",
-      "image",
-      "sources",
-      "identify represented event"
+      "audience: The modes and informal explanations suit a young contemporary audience.",
+      "representation of event: The noun choice frames the event through inconvenience rather than political purpose.",
+      "creation context: Wartime scarcity and government campaigning help explain its urgent commands.",
+      "selection: The chosen images emphasise spectacle while omitting community experience."
     ],
-    "correct": 3,
-    "explanation": "The wording best matches identify represented event.\nHint: Identify the language choice first, then check its effect in this context.",
+    "correct": 2,
+    "explanation": "creation context is supported by exact evidence.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches identify represented event.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "creation context is supported by exact evidence.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-T-014",
     "curriculumCode": "AC9E6LY01",
     "bank": "test",
-    "stage": "apply",
-    "skill": "representation",
+    "stage": "independent",
+    "skill": "audience edit",
     "printable": true,
     "type": "single",
-    "question": "In a river-restoration update, which term matches this meaning: “constructed version of an idea, person or event”?",
-    "audioPrompt": "In a river-restoration update, which term matches this meaning: “constructed version of an idea, person or event”?",
+    "question": "Which edit best demonstrates audience in a student presentation?",
+    "audioPrompt": "Which edit best demonstrates audience in a student presentation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -407,29 +407,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "representation",
-      "framing",
-      "positioning",
-      "It does not match the evidence in the example."
+      "Connect the imperative language to the poster’s purpose and date.",
+      "Compare the headline wording and whose voices are quoted.",
+      "Identify what is present, absent and foregrounded.",
+      "Compare these choices with a technical government report."
     ],
-    "correct": 0,
-    "explanation": "representation is the precise term for constructed version of an idea, person or event.\nHint: Distinguish closely related terms by their definitions.",
+    "correct": 3,
+    "explanation": "This edit applies audience accurately.\nHint: Choose purposeful accuracy.",
     "structuredExplanation": {
-      "summary": "representation is the precise term for constructed version of an idea, person or event.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies audience accurately.",
+      "hint": "Choose purposeful accuracy."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-T-015",
     "curriculumCode": "AC9E6LY01",
     "bank": "test",
-    "stage": "apply",
-    "skill": "representation and influence in media texts",
+    "stage": "transfer",
+    "skill": "representation of event misconception",
     "printable": true,
     "type": "single",
-    "question": "For a cycling-safety campaign, which choice most directly frames an event?",
-    "audioPrompt": "For a cycling-safety campaign, which choice most directly frames an event?",
+    "question": "Which claim should an editor reject about “A news report calls a protest a “disruption” rather than a “demonstration”.” in this student presentation?",
+    "audioPrompt": "Which claim should an editor reject about “A news report calls a protest a “disruption” rather than a “demonstration”.” in this student presentation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -437,29 +437,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Including a correct date",
-      "Selecting a tight image of traffic disruption",
-      "Using page numbers",
-      "Spelling all names correctly"
+      "Representation simply copies reality without selection.",
+      "Old texts are automatically inaccurate.",
+      "Audience can be identified from one slang word.",
+      "A photograph includes everything relevant outside its frame."
     ],
-    "correct": 1,
-    "explanation": "“Selecting a tight image of traffic disruption” is supported by the language evidence and purpose of the text.\nHint: Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence.",
+    "correct": 0,
+    "explanation": "The rejected claim overgeneralises representation of event.\nHint: Check the claim against evidence.",
     "structuredExplanation": {
-      "summary": "“Selecting a tight image of traffic disruption” is supported by the language evidence and purpose of the text.",
-      "hint": "Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence."
+      "summary": "The rejected claim overgeneralises representation of event.",
+      "hint": "Check the claim against evidence."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY01-T-016",
     "curriculumCode": "AC9E6LY01",
     "bank": "test",
-    "stage": "apply",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "selection explanation",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a neighbourhood history podcast says, “Different representation called false automatically”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a neighbourhood history podcast says, “Different representation called false automatically”. Which response is most accurate?",
+    "question": "Which explanation best accounts for “An article about a festival shows performers but no local residents.” in this student presentation?",
+    "audioPrompt": "Which explanation best accounts for “An article about a festival shows performers but no local residents.” in this student presentation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -467,18 +467,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Media text treated as transparent reality",
-      "Different representation called false automatically",
-      "Check factual accuracy and framing separately.",
-      "Image considered self-explanatory"
+      "Wartime scarcity and government campaigning help explain its urgent commands.",
+      "The chosen images emphasise spectacle while omitting community experience.",
+      "The modes and informal explanations suit a young contemporary audience.",
+      "The noun choice frames the event through inconvenience rather than political purpose."
     ],
-    "correct": 2,
-    "explanation": "Check factual accuracy and framing separately. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "correct": 1,
+    "explanation": "The chosen images emphasise spectacle while omitting community experience.\nHint: Connect evidence and effect.",
     "structuredExplanation": {
-      "summary": "Check factual accuracy and framing separately. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "The chosen images emphasise spectacle while omitting community experience.",
+      "hint": "Connect evidence and effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

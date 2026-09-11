@@ -4,12 +4,12 @@ window.skillrTestQuestions = [
     "id": "AC9E6LA05-T-001",
     "curriculumCode": "AC9E6LA05",
     "bank": "test",
-    "stage": "verify",
-    "skill": "embedded report",
+    "stage": "independent",
+    "skill": "relative embedded clause",
     "printable": true,
     "type": "single",
-    "question": "A community radio segment includes “The claim that the device was accurate was tested.”. Which description best fits this wording?",
-    "audioPrompt": "A community radio segment includes “The claim that the device was accurate was tested.”. Which description best fits this wording?",
+    "question": "In a museum label, you read: “The sensor that recorded the highest value was recalibrated.” Which analysis is most accurate?",
+    "audioPrompt": "In a museum label, you read: “The sensor that recorded the highest value was recalibrated.” Which analysis is most accurate?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -17,29 +17,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "head noun",
-      "embedded report",
-      "embedded clause",
-      "main clause"
+      "core clause: Removing the embedded information reveals “The athlete thanked her coach.”",
+      "restrictive clause: The clause identifies which students checked; the information is essential to the group.",
+      "relative embedded clause: “That recorded the highest value” expands the head noun “sensor”.",
+      "supplementary clause: The commas present the clause as extra information about all the students."
     ],
-    "correct": 1,
-    "explanation": "The wording is embedded report because it clause expands claim.\nHint: Identify the language choice first, then check its effect in this context.",
+    "correct": 2,
+    "explanation": "relative embedded clause is supported by the wording and its function in the whole sentence.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording is embedded report because it clause expands claim.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "relative embedded clause is supported by the wording and its function in the whole sentence.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA05-T-002",
     "curriculumCode": "AC9E6LA05",
     "bank": "test",
-    "stage": "verify",
-    "skill": "embedded clause",
+    "stage": "independent",
+    "skill": "core clause-purpose",
     "printable": true,
     "type": "single",
-    "question": "In a wildlife-centre report, which term matches this meaning: “clause functioning inside another grammatical structure”?",
-    "audioPrompt": "In a wildlife-centre report, which term matches this meaning: “clause functioning inside another grammatical structure”?",
+    "question": "For a museum label, which editing decision best demonstrates control of core clause?",
+    "audioPrompt": "For a museum label, which editing decision best demonstrates control of core clause?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -47,29 +47,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "relative clause",
-      "head noun",
-      "embedded clause",
-      "It does not match the evidence in the example."
+      "The sensor that recorded the highest value was recalibrated after lunch.",
+      "Students who completed the trial checked their results carefully.",
+      "The students, who had completed the trial, checked their results twice.",
+      "The athlete, who won the regional race, thanked her coach."
     ],
-    "correct": 2,
-    "explanation": "embedded clause is the precise term for clause functioning inside another grammatical structure.\nHint: Distinguish closely related terms by their definitions.",
+    "correct": 3,
+    "explanation": "This option deliberately applies core clause without changing the intended meaning.\nHint: Reject choices that merely add length or sound impressive.",
     "structuredExplanation": {
-      "summary": "embedded clause is the precise term for clause functioning inside another grammatical structure.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This option deliberately applies core clause without changing the intended meaning.",
+      "hint": "Reject choices that merely add length or sound impressive."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA05-T-003",
     "curriculumCode": "AC9E6LA05",
     "bank": "test",
-    "stage": "verify",
-    "skill": "embedded clauses in complex sentences",
+    "stage": "transfer",
+    "skill": "restrictive clause-reasoning",
     "printable": true,
     "type": "single",
-    "question": "For a regional youth forum, what does the embedded clause expand in ‘The sensor that recorded 42°C was checked’?",
-    "audioPrompt": "For a regional youth forum, what does the embedded clause expand in ‘The sensor that recorded 42°C was checked’?",
+    "question": "While reviewing a museum label, which statement should an editor reject about “Students who completed the trial checked their results.”?",
+    "audioPrompt": "While reviewing a museum label, which statement should an editor reject about “Students who completed the trial checked their results.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -77,29 +77,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "42°C",
-      "checked",
-      "the",
-      "sensor"
+      "All relative clauses need commas.",
+      "Every clause beginning with “that” is a separate main clause.",
+      "Removing an embedded clause must leave a fragment.",
+      "Commas around a relative clause never affect meaning."
     ],
-    "correct": 3,
-    "explanation": "“sensor” is supported by the language evidence and purpose of the text.\nHint: Comma choices can change meaning. Ensure the embedded clause has a clear head noun and does not create a fragment.",
+    "correct": 0,
+    "explanation": "The rejected statement is an inaccurate generalisation about restrictive clause.\nHint: Select the claim contradicted by the evidence or by the language rule.",
     "structuredExplanation": {
-      "summary": "“sensor” is supported by the language evidence and purpose of the text.",
-      "hint": "Comma choices can change meaning. Ensure the embedded clause has a clear head noun and does not create a fragment."
+      "summary": "The rejected statement is an inaccurate generalisation about restrictive clause.",
+      "hint": "Select the claim contradicted by the evidence or by the language rule."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA05-T-004",
     "curriculumCode": "AC9E6LA05",
     "bank": "test",
-    "stage": "verify",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "supplementary clause-explanation",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a coastal-monitoring update says, “Head noun unclear”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a coastal-monitoring update says, “Head noun unclear”. Which response is most accurate?",
+    "question": "For a museum label, which explanation would earn full credit for the language choice in “The students, who had completed the trial, checked their results.”?",
+    "audioPrompt": "For a museum label, which explanation would earn full credit for the language choice in “The students, who had completed the trial, checked their results.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -107,29 +107,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Place clause next to the noun expanded.",
-      "Every dependent clause called embedded",
-      "Head noun unclear",
-      "Commas added to every relative clause"
+      "“That recorded the highest value” expands the head noun “sensor”.",
+      "The commas present the clause as extra information about all the students.",
+      "Removing the embedded information reveals “The athlete thanked her coach.”",
+      "The clause identifies which students checked; the information is essential to the group."
     ],
-    "correct": 0,
-    "explanation": "Place clause next to the noun expanded. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "correct": 1,
+    "explanation": "The commas present the clause as extra information about all the students.\nHint: A full-credit explanation links exact evidence to meaning or purpose.",
     "structuredExplanation": {
-      "summary": "Place clause next to the noun expanded. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "The commas present the clause as extra information about all the students.",
+      "hint": "A full-credit explanation links exact evidence to meaning or purpose."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA05-T-005",
     "curriculumCode": "AC9E6LA05",
     "bank": "test",
-    "stage": "verify",
-    "skill": "restrictive",
+    "stage": "independent",
+    "skill": "who clause",
     "printable": true,
     "type": "single",
-    "question": "A heritage trail guide includes “The students who finished checked results.”. Which description best fits this wording?",
-    "audioPrompt": "A heritage trail guide includes “The students who finished checked results.”. Which description best fits this wording?",
+    "question": "In a school report, you read: “The volunteer who designed the poster explained its symbols.” Which analysis is most accurate?",
+    "audioPrompt": "In a school report, you read: “The volunteer who designed the poster explained its symbols.” Which analysis is most accurate?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -137,29 +137,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "head noun",
-      "restrictive",
-      "embedded clause",
-      "main clause"
+      "relative embedded clause: “That recorded the highest value” expands the head noun “sensor”.",
+      "core clause: Removing the embedded information reveals “The athlete thanked her coach.”",
+      "who clause: “Who designed the poster” elaborates the person named by “volunteer”.",
+      "restrictive clause: The clause identifies which students checked; the information is essential to the group."
     ],
-    "correct": 1,
-    "explanation": "The wording is restrictive because it identifies which students.\nHint: Identify the language choice first, then check its effect in this context.",
+    "correct": 2,
+    "explanation": "who clause is supported by the wording and its function in the whole sentence.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording is restrictive because it identifies which students.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "who clause is supported by the wording and its function in the whole sentence.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA05-T-006",
     "curriculumCode": "AC9E6LA05",
     "bank": "test",
-    "stage": "verify",
-    "skill": "relative clause",
+    "stage": "independent",
+    "skill": "which clause-purpose",
     "printable": true,
     "type": "single",
-    "question": "In a public-transport survey, which term matches this meaning: “clause often introduced by who, which or that”?",
-    "audioPrompt": "In a public-transport survey, which term matches this meaning: “clause often introduced by who, which or that”?",
+    "question": "For a school report, which editing decision best demonstrates control of which clause?",
+    "audioPrompt": "For a school report, which editing decision best demonstrates control of which clause?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -167,29 +167,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "embedded clause",
-      "head noun",
-      "relative clause",
-      "It does not match the evidence in the example."
+      "The sensor that recorded the highest value was recalibrated after lunch.",
+      "The athlete, who won the regional race, thanked her coach.",
+      "Students who completed the trial checked their results carefully.",
+      "The bridge, which opened in 1932, is undergoing careful restoration."
     ],
-    "correct": 2,
-    "explanation": "relative clause is the precise term for clause often introduced by who, which or that.\nHint: Distinguish closely related terms by their definitions.",
+    "correct": 3,
+    "explanation": "This option deliberately applies which clause without changing the intended meaning.\nHint: Reject choices that merely add length or sound impressive.",
     "structuredExplanation": {
-      "summary": "relative clause is the precise term for clause often introduced by who, which or that.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This option deliberately applies which clause without changing the intended meaning.",
+      "hint": "Reject choices that merely add length or sound impressive."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA05-T-007",
     "curriculumCode": "AC9E6LA05",
     "bank": "test",
-    "stage": "verify",
-    "skill": "embedded clauses in complex sentences",
+    "stage": "transfer",
+    "skill": "content clause-reasoning",
     "printable": true,
     "type": "single",
-    "question": "For a festival review, what does the embedded clause expand in ‘The sensor that recorded 42°C was checked’?",
-    "audioPrompt": "For a festival review, what does the embedded clause expand in ‘The sensor that recorded 42°C was checked’?",
+    "question": "While reviewing a school report, which statement should an editor reject about “The claim that the device was accurate was tested twice.”?",
+    "audioPrompt": "While reviewing a school report, which statement should an editor reject about “The claim that the device was accurate was tested twice.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -197,29 +197,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "42°C",
-      "checked",
-      "the",
-      "sensor"
+      "An embedded clause must always describe a person.",
+      "Every clause beginning with “that” is a separate main clause.",
+      "Removing an embedded clause must leave a fragment.",
+      "All relative clauses need commas."
     ],
-    "correct": 3,
-    "explanation": "“sensor” is supported by the language evidence and purpose of the text.\nHint: Comma choices can change meaning. Ensure the embedded clause has a clear head noun and does not create a fragment.",
+    "correct": 0,
+    "explanation": "The rejected statement is an inaccurate generalisation about content clause.\nHint: Select the claim contradicted by the evidence or by the language rule.",
     "structuredExplanation": {
-      "summary": "“sensor” is supported by the language evidence and purpose of the text.",
-      "hint": "Comma choices can change meaning. Ensure the embedded clause has a clear head noun and does not create a fragment."
+      "summary": "The rejected statement is an inaccurate generalisation about content clause.",
+      "hint": "Select the claim contradicted by the evidence or by the language rule."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA05-T-008",
     "curriculumCode": "AC9E6LA05",
     "bank": "test",
-    "stage": "verify",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "non-finite clause-explanation",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a emergency-preparedness talk says, “Head noun unclear”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a emergency-preparedness talk says, “Head noun unclear”. Which response is most accurate?",
+    "question": "For a school report, which explanation would earn full credit for the language choice in “The samples collected near the inlet contained more salt.”?",
+    "audioPrompt": "For a school report, which explanation would earn full credit for the language choice in “The samples collected near the inlet contained more salt.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -227,29 +227,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Place clause next to the noun expanded.",
-      "Every dependent clause called embedded",
-      "Head noun unclear",
-      "Commas added to every relative clause"
+      "“That recorded the highest value” expands the head noun “sensor”.",
+      "“Collected near the inlet” expands “samples” without a finite verb.",
+      "Removing the embedded information reveals “The athlete thanked her coach.”",
+      "The clause identifies which students checked; the information is essential to the group."
     ],
-    "correct": 0,
-    "explanation": "Place clause next to the noun expanded. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "correct": 1,
+    "explanation": "“Collected near the inlet” expands “samples” without a finite verb.\nHint: A full-credit explanation links exact evidence to meaning or purpose.",
     "structuredExplanation": {
-      "summary": "Place clause next to the noun expanded. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "“Collected near the inlet” expands “samples” without a finite verb.",
+      "hint": "A full-credit explanation links exact evidence to meaning or purpose."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA05-T-009",
     "curriculumCode": "AC9E6LA05",
     "bank": "test",
-    "stage": "apply",
-    "skill": "supplementary",
+    "stage": "independent",
+    "skill": "position beside head noun",
     "printable": true,
     "type": "single",
-    "question": "A water-saving brochure includes “The students, who had finished, checked results.”. Which description best fits this wording?",
-    "audioPrompt": "A water-saving brochure includes “The students, who had finished, checked results.”. Which description best fits this wording?",
+    "question": "In a community webpage, you read: “The report described the coral that divers photographed.” Which analysis is most accurate?",
+    "audioPrompt": "In a community webpage, you read: “The report described the coral that divers photographed.” Which analysis is most accurate?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -257,29 +257,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "head noun",
-      "supplementary",
-      "embedded clause",
-      "main clause"
+      "relative embedded clause: “That recorded the highest value” expands the head noun “sensor”.",
+      "core clause: Removing the embedded information reveals “The athlete thanked her coach.”",
+      "position beside head noun: Placing the clause beside “coral” makes its reference clear.",
+      "restrictive clause: The clause identifies which students checked; the information is essential to the group."
     ],
-    "correct": 1,
-    "explanation": "The wording is supplementary because it adds information about all named students.\nHint: Identify the language choice first, then check its effect in this context.",
+    "correct": 2,
+    "explanation": "position beside head noun is supported by the wording and its function in the whole sentence.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording is supplementary because it adds information about all named students.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "position beside head noun is supported by the wording and its function in the whole sentence.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA05-T-010",
     "curriculumCode": "AC9E6LA05",
     "bank": "test",
-    "stage": "apply",
-    "skill": "head noun",
+    "stage": "independent",
+    "skill": "nested information-purpose",
     "printable": true,
     "type": "single",
-    "question": "In a local council submission, which term matches this meaning: “central noun expanded by the clause”?",
-    "audioPrompt": "In a local council submission, which term matches this meaning: “central noun expanded by the clause”?",
+    "question": "For a community webpage, which editing decision best demonstrates control of nested information?",
+    "audioPrompt": "For a community webpage, which editing decision best demonstrates control of nested information?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -287,29 +287,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "embedded clause",
-      "relative clause",
-      "head noun",
-      "It does not match the evidence in the example."
+      "The sensor that recorded the highest value was recalibrated after lunch.",
+      "The athlete, who won the regional race, thanked her coach.",
+      "Students who completed the trial checked their results carefully.",
+      "The award-winning book Maya recommended is on display."
     ],
-    "correct": 2,
-    "explanation": "head noun is the precise term for central noun expanded by the clause.\nHint: Distinguish closely related terms by their definitions.",
+    "correct": 3,
+    "explanation": "This option deliberately applies nested information without changing the intended meaning.\nHint: Reject choices that merely add length or sound impressive.",
     "structuredExplanation": {
-      "summary": "head noun is the precise term for central noun expanded by the clause.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This option deliberately applies nested information without changing the intended meaning.",
+      "hint": "Reject choices that merely add length or sound impressive."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA05-T-011",
     "curriculumCode": "AC9E6LA05",
     "bank": "test",
-    "stage": "apply",
-    "skill": "embedded clauses in complex sentences",
+    "stage": "transfer",
+    "skill": "fragment check-reasoning",
     "printable": true,
     "type": "single",
-    "question": "For a marine-research diary, what does the embedded clause expand in ‘The sensor that recorded 42°C was checked’?",
-    "audioPrompt": "For a marine-research diary, what does the embedded clause expand in ‘The sensor that recorded 42°C was checked’?",
+    "question": "While reviewing a community webpage, which statement should an editor reject about “Which was discovered near the creek.”?",
+    "audioPrompt": "While reviewing a community webpage, which statement should an editor reject about “Which was discovered near the creek.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -317,29 +317,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "42°C",
-      "checked",
-      "the",
-      "sensor"
+      "Every clause is a complete sentence.",
+      "Every clause beginning with “that” is a separate main clause.",
+      "Removing an embedded clause must leave a fragment.",
+      "All relative clauses need commas."
     ],
-    "correct": 3,
-    "explanation": "“sensor” is supported by the language evidence and purpose of the text.\nHint: Comma choices can change meaning. Ensure the embedded clause has a clear head noun and does not create a fragment.",
+    "correct": 0,
+    "explanation": "The rejected statement is an inaccurate generalisation about fragment check.\nHint: Select the claim contradicted by the evidence or by the language rule.",
     "structuredExplanation": {
-      "summary": "“sensor” is supported by the language evidence and purpose of the text.",
-      "hint": "Comma choices can change meaning. Ensure the embedded clause has a clear head noun and does not create a fragment."
+      "summary": "The rejected statement is an inaccurate generalisation about fragment check.",
+      "hint": "Select the claim contradicted by the evidence or by the language rule."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA05-T-012",
     "curriculumCode": "AC9E6LA05",
     "bank": "test",
-    "stage": "apply",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "clarity revision-explanation",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a farmers market profile says, “Head noun unclear”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a farmers market profile says, “Head noun unclear”. Which response is most accurate?",
+    "question": "For a community webpage, which explanation would earn full credit for the language choice in “The dog chased the cyclist that was barking loudly.”?",
+    "audioPrompt": "For a community webpage, which explanation would earn full credit for the language choice in “The dog chased the cyclist that was barking loudly.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -347,29 +347,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Place clause next to the noun expanded.",
-      "Every dependent clause called embedded",
-      "Head noun unclear",
-      "Commas added to every relative clause"
+      "“That recorded the highest value” expands the head noun “sensor”.",
+      "The clause appears to modify “cyclist”, creating an unintended and illogical meaning.",
+      "Removing the embedded information reveals “The athlete thanked her coach.”",
+      "The clause identifies which students checked; the information is essential to the group."
     ],
-    "correct": 0,
-    "explanation": "Place clause next to the noun expanded. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "correct": 1,
+    "explanation": "The clause appears to modify “cyclist”, creating an unintended and illogical meaning.\nHint: A full-credit explanation links exact evidence to meaning or purpose.",
     "structuredExplanation": {
-      "summary": "Place clause next to the noun expanded. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "The clause appears to modify “cyclist”, creating an unintended and illogical meaning.",
+      "hint": "A full-credit explanation links exact evidence to meaning or purpose."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA05-T-013",
     "curriculumCode": "AC9E6LA05",
     "bank": "test",
-    "stage": "apply",
-    "skill": "embedded report",
+    "stage": "independent",
+    "skill": "relative embedded clause",
     "printable": true,
     "type": "single",
-    "question": "A astronomy exhibition includes “The claim that the device was accurate was tested.”. Which description best fits this wording?",
-    "audioPrompt": "A astronomy exhibition includes “The claim that the device was accurate was tested.”. Which description best fits this wording?",
+    "question": "In a student presentation, you read: “The sensor that recorded the highest value was recalibrated.” Which analysis is most accurate?",
+    "audioPrompt": "In a student presentation, you read: “The sensor that recorded the highest value was recalibrated.” Which analysis is most accurate?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -377,29 +377,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "head noun",
-      "embedded report",
-      "embedded clause",
-      "main clause"
+      "core clause: Removing the embedded information reveals “The athlete thanked her coach.”",
+      "restrictive clause: The clause identifies which students checked; the information is essential to the group.",
+      "relative embedded clause: “That recorded the highest value” expands the head noun “sensor”.",
+      "supplementary clause: The commas present the clause as extra information about all the students."
     ],
-    "correct": 1,
-    "explanation": "The wording is embedded report because it clause expands claim.\nHint: Identify the language choice first, then check its effect in this context.",
+    "correct": 2,
+    "explanation": "relative embedded clause is supported by the wording and its function in the whole sentence.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording is embedded report because it clause expands claim.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "relative embedded clause is supported by the wording and its function in the whole sentence.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA05-T-014",
     "curriculumCode": "AC9E6LA05",
     "bank": "test",
-    "stage": "apply",
-    "skill": "embedded clause",
+    "stage": "independent",
+    "skill": "core clause-purpose",
     "printable": true,
     "type": "single",
-    "question": "In a river-restoration update, which term matches this meaning: “clause functioning inside another grammatical structure”?",
-    "audioPrompt": "In a river-restoration update, which term matches this meaning: “clause functioning inside another grammatical structure”?",
+    "question": "For a student presentation, which editing decision best demonstrates control of core clause?",
+    "audioPrompt": "For a student presentation, which editing decision best demonstrates control of core clause?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -407,29 +407,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "relative clause",
-      "head noun",
-      "embedded clause",
-      "It does not match the evidence in the example."
+      "The sensor that recorded the highest value was recalibrated after lunch.",
+      "Students who completed the trial checked their results carefully.",
+      "The students, who had completed the trial, checked their results twice.",
+      "The athlete, who won the regional race, thanked her coach."
     ],
-    "correct": 2,
-    "explanation": "embedded clause is the precise term for clause functioning inside another grammatical structure.\nHint: Distinguish closely related terms by their definitions.",
+    "correct": 3,
+    "explanation": "This option deliberately applies core clause without changing the intended meaning.\nHint: Reject choices that merely add length or sound impressive.",
     "structuredExplanation": {
-      "summary": "embedded clause is the precise term for clause functioning inside another grammatical structure.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This option deliberately applies core clause without changing the intended meaning.",
+      "hint": "Reject choices that merely add length or sound impressive."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA05-T-015",
     "curriculumCode": "AC9E6LA05",
     "bank": "test",
-    "stage": "apply",
-    "skill": "embedded clauses in complex sentences",
+    "stage": "transfer",
+    "skill": "restrictive clause-reasoning",
     "printable": true,
     "type": "single",
-    "question": "For a cycling-safety campaign, what does the embedded clause expand in ‘The sensor that recorded 42°C was checked’?",
-    "audioPrompt": "For a cycling-safety campaign, what does the embedded clause expand in ‘The sensor that recorded 42°C was checked’?",
+    "question": "While reviewing a student presentation, which statement should an editor reject about “Students who completed the trial checked their results.”?",
+    "audioPrompt": "While reviewing a student presentation, which statement should an editor reject about “Students who completed the trial checked their results.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -437,29 +437,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "42°C",
-      "checked",
-      "the",
-      "sensor"
+      "All relative clauses need commas.",
+      "Every clause beginning with “that” is a separate main clause.",
+      "Removing an embedded clause must leave a fragment.",
+      "Commas around a relative clause never affect meaning."
     ],
-    "correct": 3,
-    "explanation": "“sensor” is supported by the language evidence and purpose of the text.\nHint: Comma choices can change meaning. Ensure the embedded clause has a clear head noun and does not create a fragment.",
+    "correct": 0,
+    "explanation": "The rejected statement is an inaccurate generalisation about restrictive clause.\nHint: Select the claim contradicted by the evidence or by the language rule.",
     "structuredExplanation": {
-      "summary": "“sensor” is supported by the language evidence and purpose of the text.",
-      "hint": "Comma choices can change meaning. Ensure the embedded clause has a clear head noun and does not create a fragment."
+      "summary": "The rejected statement is an inaccurate generalisation about restrictive clause.",
+      "hint": "Select the claim contradicted by the evidence or by the language rule."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA05-T-016",
     "curriculumCode": "AC9E6LA05",
     "bank": "test",
-    "stage": "apply",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "supplementary clause-explanation",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a neighbourhood history podcast says, “Head noun unclear”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a neighbourhood history podcast says, “Head noun unclear”. Which response is most accurate?",
+    "question": "For a student presentation, which explanation would earn full credit for the language choice in “The students, who had completed the trial, checked their results.”?",
+    "audioPrompt": "For a student presentation, which explanation would earn full credit for the language choice in “The students, who had completed the trial, checked their results.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -467,18 +467,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Place clause next to the noun expanded.",
-      "Every dependent clause called embedded",
-      "Head noun unclear",
-      "Commas added to every relative clause"
+      "“That recorded the highest value” expands the head noun “sensor”.",
+      "The commas present the clause as extra information about all the students.",
+      "Removing the embedded information reveals “The athlete thanked her coach.”",
+      "The clause identifies which students checked; the information is essential to the group."
     ],
-    "correct": 0,
-    "explanation": "Place clause next to the noun expanded. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "correct": 1,
+    "explanation": "The commas present the clause as extra information about all the students.\nHint: A full-credit explanation links exact evidence to meaning or purpose.",
     "structuredExplanation": {
-      "summary": "Place clause next to the noun expanded. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "The commas present the clause as extra information about all the students.",
+      "hint": "A full-credit explanation links exact evidence to meaning or purpose."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

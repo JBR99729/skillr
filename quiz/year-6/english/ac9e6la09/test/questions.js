@@ -4,12 +4,12 @@ window.skillrTestQuestions = [
     "id": "AC9E6LA09-T-001",
     "curriculumCode": "AC9E6LA09",
     "bank": "test",
-    "stage": "verify",
-    "skill": "repair 3",
+    "stage": "independent",
+    "skill": "list comma",
     "printable": true,
     "type": "single",
-    "question": "A community radio segment includes “The trial ended. We analysed results.”. Which description best fits this wording?",
-    "audioPrompt": "A community radio segment includes “The trial ended. We analysed results.”. Which description best fits this wording?",
+    "question": "In a museum panel, “We packed water, fruit, sunscreen and a map.” Which analysis is strongest?",
+    "audioPrompt": "In a museum panel, “We packed water, fruit, sunscreen and a map.” Which analysis is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -17,29 +17,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "list",
-      "repair 3",
-      "dependent first",
-      "supplementary phrase"
+      "list with internal phrase: The commas separate three multiword noun groups.",
+      "opening dependent clause: The comma marks the boundary before the independent main clause.",
+      "list comma: Commas separate the first three items in a four-item list.",
+      "dependent clause after main clause: No comma is normally needed before this essential following clause."
     ],
-    "correct": 1,
-    "explanation": "The wording best matches repair 3.\nHint: Identify the language choice first, then check its effect in this context.",
+    "correct": 2,
+    "explanation": "list comma is supported by exact evidence and context.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches repair 3.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "list comma is supported by exact evidence and context.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA09-T-002",
     "curriculumCode": "AC9E6LA09",
     "bank": "test",
-    "stage": "verify",
-    "skill": "comma splice",
+    "stage": "independent",
+    "skill": "list with internal phrase edit",
     "printable": true,
     "type": "single",
-    "question": "In a wildlife-centre report, which term matches this meaning: “incorrect joining of independent clauses by comma alone”?",
-    "audioPrompt": "In a wildlife-centre report, which term matches this meaning: “incorrect joining of independent clauses by comma alone”?",
+    "question": "Which edit best demonstrates control of list with internal phrase in a museum panel?",
+    "audioPrompt": "Which edit best demonstrates control of list with internal phrase in a museum panel?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -47,29 +47,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "dependent clause",
-      "supplementary information",
-      "comma splice",
-      "It does not match the evidence in the example."
+      "For the hike, we packed water, fruit, sunscreen and a map.",
+      "Although the samples differed, the overall trend remained clear.",
+      "The match continued although heavy rain had begun.",
+      "The survey covered dry woodland, open grassland and coastal scrub."
     ],
-    "correct": 2,
-    "explanation": "comma splice is the precise term for incorrect joining of independent clauses by comma alone.\nHint: Distinguish closely related terms by their definitions.",
+    "correct": 3,
+    "explanation": "This edit applies list with internal phrase without distorting the intended meaning.\nHint: Choose purposeful accuracy, not decoration.",
     "structuredExplanation": {
-      "summary": "comma splice is the precise term for incorrect joining of independent clauses by comma alone.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies list with internal phrase without distorting the intended meaning.",
+      "hint": "Choose purposeful accuracy, not decoration."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA09-T-003",
     "curriculumCode": "AC9E6LA09",
     "bank": "test",
-    "stage": "verify",
-    "skill": "commas for lists clauses and clarity",
+    "stage": "transfer",
+    "skill": "opening dependent clause misconception",
     "printable": true,
     "type": "single",
-    "question": "For a regional youth forum, which sentence is punctuated correctly?",
-    "audioPrompt": "For a regional youth forum, which sentence is punctuated correctly?",
+    "question": "Which claim should an editor reject when reviewing this museum panel: “Although the data varied, the overall pattern remained clear.”?",
+    "audioPrompt": "Which claim should an editor reject when reviewing this museum panel: “Although the data varied, the overall pattern remained clear.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -77,29 +77,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Although, the data varied the pattern remained.",
-      "Although the data, varied the pattern remained.",
-      "Although the data varied the pattern, remained.",
-      "Although the data varied, the pattern remained."
+      "A dependent clause can always stand alone.",
+      "A comma must be placed after every “and”.",
+      "Only single words can form items in a list.",
+      "Every dependent clause must be followed by a comma."
     ],
-    "correct": 3,
-    "explanation": "“Although the data varied, the pattern remained.” is supported by the language evidence and purpose of the text.\nHint: Do not separate a subject from its verb or insert commas between essential elements without reason.",
+    "correct": 0,
+    "explanation": "The rejected claim is an inaccurate generalisation about opening dependent clause.\nHint: Select the claim contradicted by the evidence or convention.",
     "structuredExplanation": {
-      "summary": "“Although the data varied, the pattern remained.” is supported by the language evidence and purpose of the text.",
-      "hint": "Do not separate a subject from its verb or insert commas between essential elements without reason."
+      "summary": "The rejected claim is an inaccurate generalisation about opening dependent clause.",
+      "hint": "Select the claim contradicted by the evidence or convention."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA09-T-004",
     "curriculumCode": "AC9E6LA09",
     "bank": "test",
-    "stage": "verify",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "dependent clause after main clause reasoning",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a coastal-monitoring update says, “Independent clauses joined by comma alone”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a coastal-monitoring update says, “Independent clauses joined by comma alone”. Which response is most accurate?",
+    "question": "Which explanation best accounts for “The overall pattern remained clear although the data varied.” in this museum panel?",
+    "audioPrompt": "Which explanation best accounts for “The overall pattern remained clear although the data varied.” in this museum panel?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -107,29 +107,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use conjunction, semicolon or full stop.",
-      "Comma placed at every pause",
-      "Independent clauses joined by comma alone",
-      "Introductory dependent clause not separated"
+      "Commas separate the first three items in a four-item list.",
+      "No comma is normally needed before this essential following clause.",
+      "The commas separate three multiword noun groups.",
+      "The comma marks the boundary before the independent main clause."
     ],
-    "correct": 0,
-    "explanation": "Use conjunction, semicolon or full stop. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "correct": 1,
+    "explanation": "No comma is normally needed before this essential following clause.\nHint: A strong explanation connects a feature to its contextual effect.",
     "structuredExplanation": {
-      "summary": "Use conjunction, semicolon or full stop. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "No comma is normally needed before this essential following clause.",
+      "hint": "A strong explanation connects a feature to its contextual effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA09-T-005",
     "curriculumCode": "AC9E6LA09",
     "bank": "test",
-    "stage": "verify",
-    "skill": "repair 3",
+    "stage": "independent",
+    "skill": "dialogue before reporting clause",
     "printable": true,
     "type": "single",
-    "question": "A heritage trail guide includes “The trial ended. We analysed results.”. Which description best fits this wording?",
-    "audioPrompt": "A heritage trail guide includes “The trial ended. We analysed results.”. Which description best fits this wording?",
+    "question": "In a school magazine, ““The tide is turning,” Maya warned.” Which analysis is strongest?",
+    "audioPrompt": "In a school magazine, ““The tide is turning,” Maya warned.” Which analysis is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -137,29 +137,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "list",
-      "repair 3",
-      "dependent first",
-      "supplementary phrase"
+      "list comma: Commas separate the first three items in a four-item list.",
+      "list with internal phrase: The commas separate three multiword noun groups.",
+      "dialogue before reporting clause: The comma stays inside the closing quotation mark before the reporting clause.",
+      "opening dependent clause: The comma marks the boundary before the independent main clause."
     ],
-    "correct": 1,
-    "explanation": "The wording best matches repair 3.\nHint: Identify the language choice first, then check its effect in this context.",
+    "correct": 2,
+    "explanation": "dialogue before reporting clause is supported by exact evidence and context.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches repair 3.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "dialogue before reporting clause is supported by exact evidence and context.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA09-T-006",
     "curriculumCode": "AC9E6LA09",
     "bank": "test",
-    "stage": "verify",
-    "skill": "dependent clause",
+    "stage": "independent",
+    "skill": "reporting clause before dialogue edit",
     "printable": true,
     "type": "single",
-    "question": "In a public-transport survey, which term matches this meaning: “clause relying on a main clause”?",
-    "audioPrompt": "In a public-transport survey, which term matches this meaning: “clause relying on a main clause”?",
+    "question": "Which edit best demonstrates control of reporting clause before dialogue in a school magazine?",
+    "audioPrompt": "Which edit best demonstrates control of reporting clause before dialogue in a school magazine?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -167,29 +167,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "comma splice",
-      "supplementary information",
-      "dependent clause",
-      "It does not match the evidence in the example."
+      "For the hike, we packed water, fruit, sunscreen and a map.",
+      "The survey covered dry woodland, open grassland and coastal scrub.",
+      "Although the samples differed, the overall trend remained clear.",
+      "Maya replied, “We should leave now.”"
     ],
-    "correct": 2,
-    "explanation": "dependent clause is the precise term for clause relying on a main clause.\nHint: Distinguish closely related terms by their definitions.",
+    "correct": 3,
+    "explanation": "This edit applies reporting clause before dialogue without distorting the intended meaning.\nHint: Choose purposeful accuracy, not decoration.",
     "structuredExplanation": {
-      "summary": "dependent clause is the precise term for clause relying on a main clause.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies reporting clause before dialogue without distorting the intended meaning.",
+      "hint": "Choose purposeful accuracy, not decoration."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA09-T-007",
     "curriculumCode": "AC9E6LA09",
     "bank": "test",
-    "stage": "verify",
-    "skill": "commas for lists clauses and clarity",
+    "stage": "transfer",
+    "skill": "split dialogue misconception",
     "printable": true,
     "type": "single",
-    "question": "For a festival review, which sentence is punctuated correctly?",
-    "audioPrompt": "For a festival review, which sentence is punctuated correctly?",
+    "question": "Which claim should an editor reject when reviewing this school magazine: ““If the tide rises,” Maya warned, “we will use the upper path.””?",
+    "audioPrompt": "Which claim should an editor reject when reviewing this school magazine: ““If the tide rises,” Maya warned, “we will use the upper path.””?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -197,29 +197,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Although, the data varied the pattern remained.",
-      "Although the data, varied the pattern remained.",
-      "Although the data varied the pattern, remained.",
-      "Although the data varied, the pattern remained."
+      "Split dialogue needs a capital letter after every reporting clause.",
+      "A comma must be placed after every “and”.",
+      "Only single words can form items in a list.",
+      "A dependent clause can always stand alone."
     ],
-    "correct": 3,
-    "explanation": "“Although the data varied, the pattern remained.” is supported by the language evidence and purpose of the text.\nHint: Do not separate a subject from its verb or insert commas between essential elements without reason.",
+    "correct": 0,
+    "explanation": "The rejected claim is an inaccurate generalisation about split dialogue.\nHint: Select the claim contradicted by the evidence or convention.",
     "structuredExplanation": {
-      "summary": "“Although the data varied, the pattern remained.” is supported by the language evidence and purpose of the text.",
-      "hint": "Do not separate a subject from its verb or insert commas between essential elements without reason."
+      "summary": "The rejected claim is an inaccurate generalisation about split dialogue.",
+      "hint": "Select the claim contradicted by the evidence or convention."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA09-T-008",
     "curriculumCode": "AC9E6LA09",
     "bank": "test",
-    "stage": "verify",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "new speaker reasoning",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a emergency-preparedness talk says, “Independent clauses joined by comma alone”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a emergency-preparedness talk says, “Independent clauses joined by comma alone”. Which response is most accurate?",
+    "question": "Which explanation best accounts for ““Is the trail open?” Ana asked. “No,” Ben replied.” in this school magazine?",
+    "audioPrompt": "Which explanation best accounts for ““Is the trail open?” Ana asked. “No,” Ben replied.” in this school magazine?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -227,29 +227,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use conjunction, semicolon or full stop.",
-      "Comma placed at every pause",
-      "Independent clauses joined by comma alone",
-      "Introductory dependent clause not separated"
+      "Commas separate the first three items in a four-item list.",
+      "Starting a new paragraph makes the change of speaker easy to follow.",
+      "The commas separate three multiword noun groups.",
+      "The comma marks the boundary before the independent main clause."
     ],
-    "correct": 0,
-    "explanation": "Use conjunction, semicolon or full stop. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "correct": 1,
+    "explanation": "Starting a new paragraph makes the change of speaker easy to follow.\nHint: A strong explanation connects a feature to its contextual effect.",
     "structuredExplanation": {
-      "summary": "Use conjunction, semicolon or full stop. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "Starting a new paragraph makes the change of speaker easy to follow.",
+      "hint": "A strong explanation connects a feature to its contextual effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA09-T-009",
     "curriculumCode": "AC9E6LA09",
     "bank": "test",
-    "stage": "apply",
-    "skill": "repair 3",
+    "stage": "independent",
+    "skill": "question in dialogue",
     "printable": true,
     "type": "single",
-    "question": "A water-saving brochure includes “The trial ended. We analysed results.”. Which description best fits this wording?",
-    "audioPrompt": "A water-saving brochure includes “The trial ended. We analysed results.”. Which description best fits this wording?",
+    "question": "In a community website, ““Did you record the temperature?” asked Mr Lee.” Which analysis is strongest?",
+    "audioPrompt": "In a community website, ““Did you record the temperature?” asked Mr Lee.” Which analysis is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -257,29 +257,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "list",
-      "repair 3",
-      "dependent first",
-      "supplementary phrase"
+      "list comma: Commas separate the first three items in a four-item list.",
+      "list with internal phrase: The commas separate three multiword noun groups.",
+      "question in dialogue: The question mark belongs to the spoken question and replaces a comma.",
+      "opening dependent clause: The comma marks the boundary before the independent main clause."
     ],
-    "correct": 1,
-    "explanation": "The wording best matches repair 3.\nHint: Identify the language choice first, then check its effect in this context.",
+    "correct": 2,
+    "explanation": "question in dialogue is supported by exact evidence and context.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches repair 3.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "question in dialogue is supported by exact evidence and context.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA09-T-010",
     "curriculumCode": "AC9E6LA09",
     "bank": "test",
-    "stage": "apply",
-    "skill": "supplementary information",
+    "stage": "independent",
+    "skill": "exclamation in dialogue edit",
     "printable": true,
     "type": "single",
-    "question": "In a local council submission, which term matches this meaning: “non-essential added detail often set off by commas”?",
-    "audioPrompt": "In a local council submission, which term matches this meaning: “non-essential added detail often set off by commas”?",
+    "question": "Which edit best demonstrates control of exclamation in dialogue in a community website?",
+    "audioPrompt": "Which edit best demonstrates control of exclamation in dialogue in a community website?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -287,29 +287,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "comma splice",
-      "dependent clause",
-      "supplementary information",
-      "It does not match the evidence in the example."
+      "For the hike, we packed water, fruit, sunscreen and a map.",
+      "The survey covered dry woodland, open grassland and coastal scrub.",
+      "Although the samples differed, the overall trend remained clear.",
+      "“Stay behind the line!” called Sam."
     ],
-    "correct": 2,
-    "explanation": "supplementary information is the precise term for non-essential added detail often set off by commas.\nHint: Distinguish closely related terms by their definitions.",
+    "correct": 3,
+    "explanation": "This edit applies exclamation in dialogue without distorting the intended meaning.\nHint: Choose purposeful accuracy, not decoration.",
     "structuredExplanation": {
-      "summary": "supplementary information is the precise term for non-essential added detail often set off by commas.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies exclamation in dialogue without distorting the intended meaning.",
+      "hint": "Choose purposeful accuracy, not decoration."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA09-T-011",
     "curriculumCode": "AC9E6LA09",
     "bank": "test",
-    "stage": "apply",
-    "skill": "commas for lists clauses and clarity",
+    "stage": "transfer",
+    "skill": "comma splice misconception",
     "printable": true,
     "type": "single",
-    "question": "For a marine-research diary, which sentence is punctuated correctly?",
-    "audioPrompt": "For a marine-research diary, which sentence is punctuated correctly?",
+    "question": "Which claim should an editor reject when reviewing this community website: “The trial ended, we analysed the results.”?",
+    "audioPrompt": "Which claim should an editor reject when reviewing this community website: “The trial ended, we analysed the results.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -317,29 +317,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Although, the data varied the pattern remained.",
-      "Although the data, varied the pattern remained.",
-      "Although the data varied the pattern, remained.",
-      "Although the data varied, the pattern remained."
+      "A spoken pause is enough reason to join sentences with a comma.",
+      "A comma must be placed after every “and”.",
+      "Only single words can form items in a list.",
+      "A dependent clause can always stand alone."
     ],
-    "correct": 3,
-    "explanation": "“Although the data varied, the pattern remained.” is supported by the language evidence and purpose of the text.\nHint: Do not separate a subject from its verb or insert commas between essential elements without reason.",
+    "correct": 0,
+    "explanation": "The rejected claim is an inaccurate generalisation about comma splice.\nHint: Select the claim contradicted by the evidence or convention.",
     "structuredExplanation": {
-      "summary": "“Although the data varied, the pattern remained.” is supported by the language evidence and purpose of the text.",
-      "hint": "Do not separate a subject from its verb or insert commas between essential elements without reason."
+      "summary": "The rejected claim is an inaccurate generalisation about comma splice.",
+      "hint": "Select the claim contradicted by the evidence or convention."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA09-T-012",
     "curriculumCode": "AC9E6LA09",
     "bank": "test",
-    "stage": "apply",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "meaning and clarity reasoning",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a farmers market profile says, “Independent clauses joined by comma alone”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a farmers market profile says, “Independent clauses joined by comma alone”. Which response is most accurate?",
+    "question": "Which explanation best accounts for “After eating, the students recorded their observations.” in this community website?",
+    "audioPrompt": "Which explanation best accounts for “After eating, the students recorded their observations.” in this community website?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -347,29 +347,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use conjunction, semicolon or full stop.",
-      "Comma placed at every pause",
-      "Independent clauses joined by comma alone",
-      "Introductory dependent clause not separated"
+      "Commas separate the first three items in a four-item list.",
+      "The comma prevents readers from initially attaching “after eating” to the observations.",
+      "The commas separate three multiword noun groups.",
+      "The comma marks the boundary before the independent main clause."
     ],
-    "correct": 0,
-    "explanation": "Use conjunction, semicolon or full stop. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "correct": 1,
+    "explanation": "The comma prevents readers from initially attaching “after eating” to the observations.\nHint: A strong explanation connects a feature to its contextual effect.",
     "structuredExplanation": {
-      "summary": "Use conjunction, semicolon or full stop. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "The comma prevents readers from initially attaching “after eating” to the observations.",
+      "hint": "A strong explanation connects a feature to its contextual effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA09-T-013",
     "curriculumCode": "AC9E6LA09",
     "bank": "test",
-    "stage": "apply",
-    "skill": "repair 3",
+    "stage": "independent",
+    "skill": "list comma",
     "printable": true,
     "type": "single",
-    "question": "A astronomy exhibition includes “The trial ended. We analysed results.”. Which description best fits this wording?",
-    "audioPrompt": "A astronomy exhibition includes “The trial ended. We analysed results.”. Which description best fits this wording?",
+    "question": "In a student presentation, “We packed water, fruit, sunscreen and a map.” Which analysis is strongest?",
+    "audioPrompt": "In a student presentation, “We packed water, fruit, sunscreen and a map.” Which analysis is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -377,29 +377,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "list",
-      "repair 3",
-      "dependent first",
-      "supplementary phrase"
+      "list with internal phrase: The commas separate three multiword noun groups.",
+      "opening dependent clause: The comma marks the boundary before the independent main clause.",
+      "list comma: Commas separate the first three items in a four-item list.",
+      "dependent clause after main clause: No comma is normally needed before this essential following clause."
     ],
-    "correct": 1,
-    "explanation": "The wording best matches repair 3.\nHint: Identify the language choice first, then check its effect in this context.",
+    "correct": 2,
+    "explanation": "list comma is supported by exact evidence and context.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches repair 3.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "list comma is supported by exact evidence and context.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA09-T-014",
     "curriculumCode": "AC9E6LA09",
     "bank": "test",
-    "stage": "apply",
-    "skill": "comma splice",
+    "stage": "independent",
+    "skill": "list with internal phrase edit",
     "printable": true,
     "type": "single",
-    "question": "In a river-restoration update, which term matches this meaning: “incorrect joining of independent clauses by comma alone”?",
-    "audioPrompt": "In a river-restoration update, which term matches this meaning: “incorrect joining of independent clauses by comma alone”?",
+    "question": "Which edit best demonstrates control of list with internal phrase in a student presentation?",
+    "audioPrompt": "Which edit best demonstrates control of list with internal phrase in a student presentation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -407,29 +407,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "dependent clause",
-      "supplementary information",
-      "comma splice",
-      "It does not match the evidence in the example."
+      "For the hike, we packed water, fruit, sunscreen and a map.",
+      "Although the samples differed, the overall trend remained clear.",
+      "The match continued although heavy rain had begun.",
+      "The survey covered dry woodland, open grassland and coastal scrub."
     ],
-    "correct": 2,
-    "explanation": "comma splice is the precise term for incorrect joining of independent clauses by comma alone.\nHint: Distinguish closely related terms by their definitions.",
+    "correct": 3,
+    "explanation": "This edit applies list with internal phrase without distorting the intended meaning.\nHint: Choose purposeful accuracy, not decoration.",
     "structuredExplanation": {
-      "summary": "comma splice is the precise term for incorrect joining of independent clauses by comma alone.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies list with internal phrase without distorting the intended meaning.",
+      "hint": "Choose purposeful accuracy, not decoration."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA09-T-015",
     "curriculumCode": "AC9E6LA09",
     "bank": "test",
-    "stage": "apply",
-    "skill": "commas for lists clauses and clarity",
+    "stage": "transfer",
+    "skill": "opening dependent clause misconception",
     "printable": true,
     "type": "single",
-    "question": "For a cycling-safety campaign, which sentence is punctuated correctly?",
-    "audioPrompt": "For a cycling-safety campaign, which sentence is punctuated correctly?",
+    "question": "Which claim should an editor reject when reviewing this student presentation: “Although the data varied, the overall pattern remained clear.”?",
+    "audioPrompt": "Which claim should an editor reject when reviewing this student presentation: “Although the data varied, the overall pattern remained clear.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -437,29 +437,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Although, the data varied the pattern remained.",
-      "Although the data, varied the pattern remained.",
-      "Although the data varied the pattern, remained.",
-      "Although the data varied, the pattern remained."
+      "A dependent clause can always stand alone.",
+      "A comma must be placed after every “and”.",
+      "Only single words can form items in a list.",
+      "Every dependent clause must be followed by a comma."
     ],
-    "correct": 3,
-    "explanation": "“Although the data varied, the pattern remained.” is supported by the language evidence and purpose of the text.\nHint: Do not separate a subject from its verb or insert commas between essential elements without reason.",
+    "correct": 0,
+    "explanation": "The rejected claim is an inaccurate generalisation about opening dependent clause.\nHint: Select the claim contradicted by the evidence or convention.",
     "structuredExplanation": {
-      "summary": "“Although the data varied, the pattern remained.” is supported by the language evidence and purpose of the text.",
-      "hint": "Do not separate a subject from its verb or insert commas between essential elements without reason."
+      "summary": "The rejected claim is an inaccurate generalisation about opening dependent clause.",
+      "hint": "Select the claim contradicted by the evidence or convention."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA09-T-016",
     "curriculumCode": "AC9E6LA09",
     "bank": "test",
-    "stage": "apply",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "dependent clause after main clause reasoning",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a neighbourhood history podcast says, “Independent clauses joined by comma alone”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a neighbourhood history podcast says, “Independent clauses joined by comma alone”. Which response is most accurate?",
+    "question": "Which explanation best accounts for “The overall pattern remained clear although the data varied.” in this student presentation?",
+    "audioPrompt": "Which explanation best accounts for “The overall pattern remained clear although the data varied.” in this student presentation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -467,18 +467,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use conjunction, semicolon or full stop.",
-      "Comma placed at every pause",
-      "Independent clauses joined by comma alone",
-      "Introductory dependent clause not separated"
+      "Commas separate the first three items in a four-item list.",
+      "No comma is normally needed before this essential following clause.",
+      "The commas separate three multiword noun groups.",
+      "The comma marks the boundary before the independent main clause."
     ],
-    "correct": 0,
-    "explanation": "Use conjunction, semicolon or full stop. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "correct": 1,
+    "explanation": "No comma is normally needed before this essential following clause.\nHint: A strong explanation connects a feature to its contextual effect.",
     "structuredExplanation": {
-      "summary": "Use conjunction, semicolon or full stop. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "No comma is normally needed before this essential following clause.",
+      "hint": "A strong explanation connects a feature to its contextual effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

@@ -5,37 +5,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "create_roadmap",
-    "question": "In a class podcast, which slide best supports a presentation?",
-    "audio_prompt": "In a class podcast, which slide best supports a presentation?",
+    "stage": "foundation",
+    "skill": "audience and purpose",
+    "question": "Read: “A science presentation for families defines technical terms and demonstrates one safe experiment.” Which description best identifies the relevant choice?",
+    "audio_prompt": "Read: “A science presentation for families defines technical terms and demonstrates one safe experiment.” Which description best identifies the relevant choice?",
     "answers": [
       {
-        "text": "A readable graph with a concise heading and spoken explanation",
+        "text": "audience and purpose",
         "is_correct": true
       },
       {
-        "text": "A full script in tiny text",
+        "text": "spoken structure",
         "is_correct": false
       },
       {
-        "text": "An unrelated animation",
+        "text": "opening",
         "is_correct": false
       },
       {
-        "text": "A blank decorative screen",
+        "text": "evidence explanation",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "“A readable graph with a concise heading and spoken explanation” is the strongest choice because it matches the language feature and the situation.",
-      "hint": "Slides cue and extend speech; they should not become a small-font script."
+      "summary": "audience and purpose: Content and explanation are adapted to what the audience needs and knows.",
+      "hint": "Name the feature precisely."
     },
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "foundation",
     "sequence_priority": 1,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-P-002",
@@ -43,37 +43,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "elaboration",
-    "question": "Which term best matches this meaning: “detail or evidence developing an idea”?",
-    "audio_prompt": "Which term best matches this meaning: “detail or evidence developing an idea”?",
+    "stage": "foundation",
+    "skill": "audience and purpose effect",
+    "question": "What does “A science presentation for families defines technical terms and demonstrates one safe experiment.” contribute to meaning or purpose?",
+    "audio_prompt": "What does “A science presentation for families defines technical terms and demonstrates one safe experiment.” contribute to meaning or purpose?",
     "answers": [
       {
-        "text": "signposting",
+        "text": "Verbal signposts help listeners follow information they cannot reread instantly.",
         "is_correct": false
       },
       {
-        "text": "elaboration",
+        "text": "Content and explanation are adapted to what the audience needs and knows.",
         "is_correct": true
       },
       {
-        "text": "delivery",
+        "text": "The relevant question activates curiosity and establishes purpose.",
         "is_correct": false
       },
       {
-        "text": "It does not match the evidence in the example.",
+        "text": "Spoken interpretation connects visual evidence to the central claim.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "elaboration means detail or evidence developing an idea.",
-      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
+      "summary": "Content and explanation are adapted to what the audience needs and knows.",
+      "hint": "Link exact evidence to its effect."
     },
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "foundation",
     "sequence_priority": 2,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-P-003",
@@ -81,37 +81,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "idea_2",
-    "question": "Read this example from a science investigation: “comparison or consequence”. Which label best describes what the language is doing?",
-    "audio_prompt": "Read this example from a science investigation: “comparison or consequence”. Which label best describes what the language is doing?",
+    "stage": "core",
+    "skill": "audience and purpose revision",
+    "question": "Which revision best applies audience and purpose to this task?",
+    "audio_prompt": "Which revision best applies audience and purpose to this task?",
     "answers": [
       {
-        "text": "opening",
+        "text": "Use concise previews and transitions rather than reading slide headings.",
         "is_correct": false
       },
       {
-        "text": "idea 1",
+        "text": "Answer the opening question through the body and conclusion.",
         "is_correct": false
       },
       {
-        "text": "idea 2",
+        "text": "State what the audience should understand or do by the end.",
         "is_correct": true
       },
       {
-        "text": "counterpoint",
+        "text": "Pause so the audience can locate the axes before explaining the trend.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "“comparison or consequence” is an example of idea 2; here it contrast table.",
-      "hint": "Slides cue and extend speech; they should not become a small-font script."
+      "summary": "The revision applies audience and purpose purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 3,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-P-004",
@@ -119,37 +119,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "misconception_repair",
-    "question": "Which correction best fixes this idea: “Rehearsal only memorises”?",
-    "audio_prompt": "Which correction best fixes this idea: “Rehearsal only memorises”?",
+    "stage": "core",
+    "skill": "audience and purpose misconception",
+    "question": "A student says, “The same script suits every audience.” Which response best corrects the claim?",
+    "audio_prompt": "A student says, “The same script suits every audience.” Which response best corrects the claim?",
     "answers": [
       {
-        "text": "Confidence replaces content",
+        "text": "The same script suits every audience.",
         "is_correct": false
       },
       {
-        "text": "Slides duplicate script",
+        "text": "A presentation needs no structure if slides are numbered.",
         "is_correct": false
       },
       {
-        "text": "Loudest voice considered best",
+        "text": "Every presentation should begin with a joke.",
         "is_correct": false
       },
       {
-        "text": "Test timing, clarity and visuals.",
+        "text": "The claim is too broad; the example shows that content and explanation are adapted to what the audience needs and knows.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Test timing, clarity and visuals. This fixes the misconception without creating a new rule that is too broad.",
-      "hint": "Check the actual language evidence rather than relying on an absolute rule."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 4,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-P-005",
@@ -157,37 +157,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "closing",
-    "question": "Which example would be most useful when explaining spoken and multimodal presentations in a sports-club discussion?",
-    "audio_prompt": "Which example would be most useful when explaining spoken and multimodal presentations in a sports-club discussion?",
+    "stage": "foundation",
+    "skill": "spoken structure",
+    "question": "Read: “The speaker previews three points, signals each transition and synthesises them at the end.” Which description best identifies the relevant choice?",
+    "audio_prompt": "Read: “The speaker previews three points, signals each transition and synthesises them at the end.” Which description best identifies the relevant choice?",
     "answers": [
       {
-        "text": "synthesis and call/thought",
+        "text": "spoken structure",
         "is_correct": true
       },
       {
-        "text": "hook, purpose, roadmap",
+        "text": "audience and purpose",
         "is_correct": false
       },
       {
-        "text": "claim + evidence + explanation",
+        "text": "opening",
         "is_correct": false
       },
       {
-        "text": "comparison or consequence",
+        "text": "evidence explanation",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "This example directly demonstrates closing and can be explained using the language clue in the text.",
-      "hint": "Students storyboard presentations, elaborate central ideas, integrate evidence and visuals, signal structure and use rehearsal data to refine timing, transitions, voice and audience connection."
+      "summary": "spoken structure: Verbal signposts help listeners follow information they cannot reread instantly.",
+      "hint": "Name the feature precisely."
     },
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "foundation",
     "sequence_priority": 5,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-P-006",
@@ -195,37 +195,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "create_roadmap",
-    "question": "In a library display, which rehearsal result requires revision?",
-    "audio_prompt": "In a library display, which rehearsal result requires revision?",
+    "stage": "foundation",
+    "skill": "spoken structure effect",
+    "question": "What does “The speaker previews three points, signals each transition and synthesises them at the end.” contribute to meaning or purpose?",
+    "audio_prompt": "What does “The speaker previews three points, signals each transition and synthesises them at the end.” contribute to meaning or purpose?",
     "answers": [
       {
-        "text": "The timing meets the limit",
+        "text": "Content and explanation are adapted to what the audience needs and knows.",
         "is_correct": false
       },
       {
-        "text": "Listeners cannot identify the main claim",
+        "text": "Verbal signposts help listeners follow information they cannot reread instantly.",
         "is_correct": true
       },
       {
-        "text": "The graph is readable",
+        "text": "The relevant question activates curiosity and establishes purpose.",
         "is_correct": false
       },
       {
-        "text": "The speaker pauses before evidence",
+        "text": "Spoken interpretation connects visual evidence to the central claim.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "“Listeners cannot identify the main claim” is the strongest choice because it matches the language feature and the situation.",
-      "hint": "Slides cue and extend speech; they should not become a small-font script."
+      "summary": "Verbal signposts help listeners follow information they cannot reread instantly.",
+      "hint": "Link exact evidence to its effect."
     },
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "foundation",
     "sequence_priority": 6,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-P-007",
@@ -233,37 +233,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "signposting",
-    "question": "Which term best matches this meaning: “language signalling organisation”?",
-    "audio_prompt": "Which term best matches this meaning: “language signalling organisation”?",
+    "stage": "core",
+    "skill": "spoken structure revision",
+    "question": "Which revision best applies spoken structure to this task?",
+    "audio_prompt": "Which revision best applies spoken structure to this task?",
     "answers": [
       {
-        "text": "elaboration",
+        "text": "State what the audience should understand or do by the end.",
         "is_correct": false
       },
       {
-        "text": "delivery",
+        "text": "Answer the opening question through the body and conclusion.",
         "is_correct": false
       },
       {
-        "text": "signposting",
+        "text": "Use concise previews and transitions rather than reading slide headings.",
         "is_correct": true
       },
       {
-        "text": "It does not match the evidence in the example.",
+        "text": "Pause so the audience can locate the axes before explaining the trend.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "signposting means language signalling organisation.",
-      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
+      "summary": "The revision applies spoken structure purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 7,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-P-008",
@@ -271,37 +271,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "idea_2",
-    "question": "Read this example from a student council meeting: “comparison or consequence”. Which label best describes what the language is doing?",
-    "audio_prompt": "Read this example from a student council meeting: “comparison or consequence”. Which label best describes what the language is doing?",
+    "stage": "core",
+    "skill": "spoken structure misconception",
+    "question": "A student says, “A presentation needs no structure if slides are numbered.” Which response best corrects the claim?",
+    "audio_prompt": "A student says, “A presentation needs no structure if slides are numbered.” Which response best corrects the claim?",
     "answers": [
       {
-        "text": "opening",
+        "text": "The same script suits every audience.",
         "is_correct": false
       },
       {
-        "text": "idea 1",
+        "text": "A presentation needs no structure if slides are numbered.",
         "is_correct": false
       },
       {
-        "text": "counterpoint",
+        "text": "Every presentation should begin with a joke.",
         "is_correct": false
       },
       {
-        "text": "idea 2",
+        "text": "The claim is too broad; the example shows that verbal signposts help listeners follow information they cannot reread instantly.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "“comparison or consequence” is an example of idea 2; here it contrast table.",
-      "hint": "Slides cue and extend speech; they should not become a small-font script."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 8,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-P-009",
@@ -309,37 +309,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "misconception_repair",
-    "question": "Which correction best fixes this idea: “Confidence replaces content”?",
-    "audio_prompt": "Which correction best fixes this idea: “Confidence replaces content”?",
+    "stage": "foundation",
+    "skill": "opening",
+    "question": "Read: “A brief question—“Where does our lunch waste go?”—introduces the investigation.” Which description best identifies the relevant choice?",
+    "audio_prompt": "Read: “A brief question—“Where does our lunch waste go?”—introduces the investigation.” Which description best identifies the relevant choice?",
     "answers": [
       {
-        "text": "Support ideas.",
+        "text": "opening",
         "is_correct": true
       },
       {
-        "text": "Confidence replaces content",
+        "text": "audience and purpose",
         "is_correct": false
       },
       {
-        "text": "Slides duplicate script",
+        "text": "spoken structure",
         "is_correct": false
       },
       {
-        "text": "Loudest voice considered best",
+        "text": "evidence explanation",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Support ideas. This fixes the misconception without creating a new rule that is too broad.",
-      "hint": "Check the actual language evidence rather than relying on an absolute rule."
+      "summary": "opening: The relevant question activates curiosity and establishes purpose.",
+      "hint": "Name the feature precisely."
     },
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "foundation",
     "sequence_priority": 9,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-P-010",
@@ -347,37 +347,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "closing",
-    "question": "Which example would be most useful when explaining spoken and multimodal presentations in a environmental campaign?",
-    "audio_prompt": "Which example would be most useful when explaining spoken and multimodal presentations in a environmental campaign?",
+    "stage": "foundation",
+    "skill": "opening effect",
+    "question": "What does “A brief question—“Where does our lunch waste go?”—introduces the investigation.” contribute to meaning or purpose?",
+    "audio_prompt": "What does “A brief question—“Where does our lunch waste go?”—introduces the investigation.” contribute to meaning or purpose?",
     "answers": [
       {
-        "text": "hook, purpose, roadmap",
+        "text": "Content and explanation are adapted to what the audience needs and knows.",
         "is_correct": false
       },
       {
-        "text": "synthesis and call/thought",
+        "text": "The relevant question activates curiosity and establishes purpose.",
         "is_correct": true
       },
       {
-        "text": "claim + evidence + explanation",
+        "text": "Verbal signposts help listeners follow information they cannot reread instantly.",
         "is_correct": false
       },
       {
-        "text": "comparison or consequence",
+        "text": "Spoken interpretation connects visual evidence to the central claim.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "This example directly demonstrates closing and can be explained using the language clue in the text.",
-      "hint": "Students storyboard presentations, elaborate central ideas, integrate evidence and visuals, signal structure and use rehearsal data to refine timing, transitions, voice and audience connection."
+      "summary": "The relevant question activates curiosity and establishes purpose.",
+      "hint": "Link exact evidence to its effect."
     },
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "foundation",
     "sequence_priority": 10,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-P-011",
@@ -385,37 +385,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "idea_2",
-    "question": "A museum caption includes “comparison or consequence”. Why is this an effective example of idea 2?",
-    "audio_prompt": "A museum caption includes “comparison or consequence”. Why is this an effective example of idea 2?",
+    "stage": "core",
+    "skill": "opening revision",
+    "question": "Which revision best applies opening to this task?",
+    "audio_prompt": "Which revision best applies opening to this task?",
     "answers": [
       {
-        "text": "It matches the purpose and the language clue in the example.",
+        "text": "State what the audience should understand or do by the end.",
         "is_correct": false
       },
       {
-        "text": "It contrast table and supports the purpose of the text.",
+        "text": "Use concise previews and transitions rather than reading slide headings.",
+        "is_correct": false
+      },
+      {
+        "text": "Answer the opening question through the body and conclusion.",
         "is_correct": true
       },
       {
-        "text": "Slides cue and extend speech; they should not become a small-font script.",
-        "is_correct": false
-      },
-      {
-        "text": "Rehearsal tests audience understanding, not just memorisation. Revise content when delivery problems reveal overload.",
+        "text": "Pause so the audience can locate the axes before explaining the trend.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "comparison or consequence works because contrast table.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "The revision applies opening purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "core",
     "sequence_priority": 11,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-P-012",
@@ -423,37 +423,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception_repair",
-    "question": "Why is “Use models and cues.” a better rule than “Slides duplicate script” when reading a student council meeting?",
-    "audio_prompt": "Why is “Use models and cues.” a better rule than “Slides duplicate script” when reading a student council meeting?",
+    "stage": "core",
+    "skill": "opening misconception",
+    "question": "A student says, “Every presentation should begin with a joke.” Which response best corrects the claim?",
+    "audio_prompt": "A student says, “Every presentation should begin with a joke.” Which response best corrects the claim?",
     "answers": [
       {
-        "text": "Because the longest rule is always the best one.",
+        "text": "The same script suits every audience.",
         "is_correct": false
       },
       {
-        "text": "Because exceptions never matter in English.",
+        "text": "A presentation needs no structure if slides are numbered.",
         "is_correct": false
       },
       {
-        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "text": "Every presentation should begin with a joke.",
+        "is_correct": false
+      },
+      {
+        "text": "The claim is too broad; the example shows that the relevant question activates curiosity and establishes purpose.",
         "is_correct": true
-      },
-      {
-        "text": "Because a rule is correct whenever it uses technical words.",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "“Use models and cues.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "core",
     "sequence_priority": 12,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-P-013",
@@ -461,37 +461,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "closing",
-    "question": "A local-history article includes “synthesis and call/thought”. Why is this an effective example of closing?",
-    "audio_prompt": "A local-history article includes “synthesis and call/thought”. Why is this an effective example of closing?",
+    "stage": "foundation",
+    "skill": "evidence explanation",
+    "question": "Read: “The speaker shows a graph, names the trend and explains its relevance to the proposal.” Which description best identifies the relevant choice?",
+    "audio_prompt": "Read: “The speaker shows a graph, names the trend and explains its relevance to the proposal.” Which description best identifies the relevant choice?",
     "answers": [
       {
-        "text": "It matches the purpose and the language clue in the example.",
-        "is_correct": false
-      },
-      {
-        "text": "Slides cue and extend speech; they should not become a small-font script.",
-        "is_correct": false
-      },
-      {
-        "text": "Rehearsal tests audience understanding, not just memorisation. Revise content when delivery problems reveal overload.",
-        "is_correct": false
-      },
-      {
-        "text": "It one memorable takeaway and supports the purpose of the text.",
+        "text": "evidence explanation",
         "is_correct": true
+      },
+      {
+        "text": "audience and purpose",
+        "is_correct": false
+      },
+      {
+        "text": "spoken structure",
+        "is_correct": false
+      },
+      {
+        "text": "opening",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "synthesis and call/thought works because one memorable takeaway.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "evidence explanation: Spoken interpretation connects visual evidence to the central claim.",
+      "hint": "Name the feature precisely."
     },
-    "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 13,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-P-014",
@@ -499,37 +499,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception_repair",
-    "question": "Why is “Test timing, clarity and visuals.” a better rule than “Rehearsal only memorises” when reading a environmental campaign?",
-    "audio_prompt": "Why is “Test timing, clarity and visuals.” a better rule than “Rehearsal only memorises” when reading a environmental campaign?",
+    "stage": "foundation",
+    "skill": "evidence explanation effect",
+    "question": "What does “The speaker shows a graph, names the trend and explains its relevance to the proposal.” contribute to meaning or purpose?",
+    "audio_prompt": "What does “The speaker shows a graph, names the trend and explains its relevance to the proposal.” contribute to meaning or purpose?",
     "answers": [
       {
-        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "text": "Content and explanation are adapted to what the audience needs and knows.",
+        "is_correct": false
+      },
+      {
+        "text": "Spoken interpretation connects visual evidence to the central claim.",
         "is_correct": true
       },
       {
-        "text": "Because the longest rule is always the best one.",
+        "text": "Verbal signposts help listeners follow information they cannot reread instantly.",
         "is_correct": false
       },
       {
-        "text": "Because exceptions never matter in English.",
-        "is_correct": false
-      },
-      {
-        "text": "Because a rule is correct whenever it uses technical words.",
+        "text": "The relevant question activates curiosity and establishes purpose.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“Test timing, clarity and visuals.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "Spoken interpretation connects visual evidence to the central claim.",
+      "hint": "Link exact evidence to its effect."
     },
-    "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 14,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-P-015",
@@ -537,37 +537,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "idea_1",
-    "question": "A book-club discussion includes “claim + evidence + explanation”. Why is this an effective example of idea 1?",
-    "audio_prompt": "A book-club discussion includes “claim + evidence + explanation”. Why is this an effective example of idea 1?",
+    "stage": "core",
+    "skill": "evidence explanation revision",
+    "question": "Which revision best applies evidence explanation to this task?",
+    "audio_prompt": "Which revision best applies evidence explanation to this task?",
     "answers": [
       {
-        "text": "It matches the purpose and the language clue in the example.",
+        "text": "State what the audience should understand or do by the end.",
         "is_correct": false
       },
       {
-        "text": "It graph or diagram and supports the purpose of the text.",
+        "text": "Use concise previews and transitions rather than reading slide headings.",
+        "is_correct": false
+      },
+      {
+        "text": "Pause so the audience can locate the axes before explaining the trend.",
         "is_correct": true
       },
       {
-        "text": "Slides cue and extend speech; they should not become a small-font script.",
-        "is_correct": false
-      },
-      {
-        "text": "Rehearsal tests audience understanding, not just memorisation. Revise content when delivery problems reveal overload.",
+        "text": "Answer the opening question through the body and conclusion.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "claim + evidence + explanation works because graph or diagram.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "The revision applies evidence explanation purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "core",
     "sequence_priority": 15,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-P-016",
@@ -575,37 +575,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception_repair",
-    "question": "Why is “Use models and cues.” a better rule than “Slides duplicate script” when reading a excursion briefing?",
-    "audio_prompt": "Why is “Use models and cues.” a better rule than “Slides duplicate script” when reading a excursion briefing?",
+    "stage": "core",
+    "skill": "evidence explanation misconception",
+    "question": "A student says, “Displaying a graph is enough; it needs no explanation.” Which response best corrects the claim?",
+    "audio_prompt": "A student says, “Displaying a graph is enough; it needs no explanation.” Which response best corrects the claim?",
     "answers": [
       {
-        "text": "Because the longest rule is always the best one.",
+        "text": "The same script suits every audience.",
         "is_correct": false
       },
       {
-        "text": "Because exceptions never matter in English.",
+        "text": "A presentation needs no structure if slides are numbered.",
         "is_correct": false
       },
       {
-        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "text": "Every presentation should begin with a joke.",
+        "is_correct": false
+      },
+      {
+        "text": "The claim is too broad; the example shows that spoken interpretation connects visual evidence to the central claim.",
         "is_correct": true
-      },
-      {
-        "text": "Because a rule is correct whenever it uses technical words.",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "“Use models and cues.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "core",
     "sequence_priority": 16,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-P-017",
@@ -613,37 +613,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "counterpoint",
-    "question": "A design project includes “acknowledge and respond”. Why is this an effective example of counterpoint?",
-    "audio_prompt": "A design project includes “acknowledge and respond”. Why is this an effective example of counterpoint?",
+    "stage": "foundation",
+    "skill": "voice projection",
+    "question": "Read: “The presenter uses clear volume without shouting and faces the whole room.” Which description best identifies the relevant choice?",
+    "audio_prompt": "Read: “The presenter uses clear volume without shouting and faces the whole room.” Which description best identifies the relevant choice?",
     "answers": [
       {
-        "text": "It matches the purpose and the language clue in the example.",
-        "is_correct": false
-      },
-      {
-        "text": "Slides cue and extend speech; they should not become a small-font script.",
-        "is_correct": false
-      },
-      {
-        "text": "Rehearsal tests audience understanding, not just memorisation. Revise content when delivery problems reveal overload.",
-        "is_correct": false
-      },
-      {
-        "text": "It brief quotation or icon cue and supports the purpose of the text.",
+        "text": "voice projection",
         "is_correct": true
+      },
+      {
+        "text": "audience and purpose",
+        "is_correct": false
+      },
+      {
+        "text": "spoken structure",
+        "is_correct": false
+      },
+      {
+        "text": "opening",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "acknowledge and respond works because brief quotation or icon cue.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "voice projection: Controlled projection makes speech audible and respectful.",
+      "hint": "Name the feature precisely."
     },
-    "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 17,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-P-018",
@@ -651,37 +651,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception_repair",
-    "question": "Why is “Test timing, clarity and visuals.” a better rule than “Rehearsal only memorises” when reading a weather report?",
-    "audio_prompt": "Why is “Test timing, clarity and visuals.” a better rule than “Rehearsal only memorises” when reading a weather report?",
+    "stage": "foundation",
+    "skill": "voice projection effect",
+    "question": "What does “The presenter uses clear volume without shouting and faces the whole room.” contribute to meaning or purpose?",
+    "audio_prompt": "What does “The presenter uses clear volume without shouting and faces the whole room.” contribute to meaning or purpose?",
     "answers": [
       {
-        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "text": "Content and explanation are adapted to what the audience needs and knows.",
+        "is_correct": false
+      },
+      {
+        "text": "Controlled projection makes speech audible and respectful.",
         "is_correct": true
       },
       {
-        "text": "Because the longest rule is always the best one.",
+        "text": "Verbal signposts help listeners follow information they cannot reread instantly.",
         "is_correct": false
       },
       {
-        "text": "Because exceptions never matter in English.",
-        "is_correct": false
-      },
-      {
-        "text": "Because a rule is correct whenever it uses technical words.",
+        "text": "The relevant question activates curiosity and establishes purpose.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“Test timing, clarity and visuals.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "Controlled projection makes speech audible and respectful.",
+      "hint": "Link exact evidence to its effect."
     },
-    "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 18,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-P-019",
@@ -689,37 +689,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "opening",
-    "question": "A school assembly includes “hook, purpose, roadmap”. Why is this an effective example of opening?",
-    "audio_prompt": "A school assembly includes “hook, purpose, roadmap”. Why is this an effective example of opening?",
+    "stage": "application",
+    "skill": "voice projection revision",
+    "question": "Which revision best applies voice projection to this task?",
+    "audio_prompt": "Which revision best applies voice projection to this task?",
     "answers": [
       {
-        "text": "It matches the purpose and the language clue in the example.",
+        "text": "State what the audience should understand or do by the end.",
         "is_correct": false
       },
       {
-        "text": "It one clear title/image/model and supports the purpose of the text.",
+        "text": "Use concise previews and transitions rather than reading slide headings.",
+        "is_correct": false
+      },
+      {
+        "text": "Practise in the actual space and adjust for distance.",
         "is_correct": true
       },
       {
-        "text": "Slides cue and extend speech; they should not become a small-font script.",
-        "is_correct": false
-      },
-      {
-        "text": "Rehearsal tests audience understanding, not just memorisation. Revise content when delivery problems reveal overload.",
+        "text": "Answer the opening question through the body and conclusion.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "hook, purpose, roadmap works because one clear title/image/model.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "The revision applies voice projection purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
-    "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty": 3,
+    "difficulty_tier": "application",
     "sequence_priority": 19,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-P-020",
@@ -727,37 +727,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception_repair",
-    "question": "Why is “Use models and cues.” a better rule than “Slides duplicate script” when reading a peer feedback session?",
-    "audio_prompt": "Why is “Use models and cues.” a better rule than “Slides duplicate script” when reading a peer feedback session?",
+    "stage": "core",
+    "skill": "voice projection misconception",
+    "question": "A student says, “Good projection means speaking as loudly as possible.” Which response best corrects the claim?",
+    "audio_prompt": "A student says, “Good projection means speaking as loudly as possible.” Which response best corrects the claim?",
     "answers": [
       {
-        "text": "Because the longest rule is always the best one.",
+        "text": "The same script suits every audience.",
         "is_correct": false
       },
       {
-        "text": "Because exceptions never matter in English.",
+        "text": "A presentation needs no structure if slides are numbered.",
         "is_correct": false
       },
       {
-        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "text": "Every presentation should begin with a joke.",
+        "is_correct": false
+      },
+      {
+        "text": "The claim is too broad; the example shows that controlled projection makes speech audible and respectful.",
         "is_correct": true
-      },
-      {
-        "text": "Because a rule is correct whenever it uses technical words.",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "“Use models and cues.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "core",
     "sequence_priority": 20,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-P-021",
@@ -765,37 +765,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_language_choices",
-    "question": "A excursion briefing could use either “hook, purpose, roadmap” or “simplify and enlarge labels”. Which comparison is most accurate?",
-    "audio_prompt": "A excursion briefing could use either “hook, purpose, roadmap” or “simplify and enlarge labels”. Which comparison is most accurate?",
+    "stage": "foundation",
+    "skill": "pace and pause",
+    "question": "Read: “The speaker slows before a key statistic and pauses afterwards.” Which description best identifies the relevant choice?",
+    "audio_prompt": "Read: “The speaker slows before a key statistic and pauses afterwards.” Which description best identifies the relevant choice?",
     "answers": [
       {
-        "text": "Both examples must show exactly the same feature because they appear in one text.",
-        "is_correct": false
-      },
-      {
-        "text": "The longer example is automatically more formal and therefore better.",
-        "is_correct": false
-      },
-      {
-        "text": "“hook, purpose, roadmap” shows opening, while “simplify and enlarge labels” shows visual unreadable.",
+        "text": "pace and pause",
         "is_correct": true
       },
       {
-        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "text": "audience and purpose",
+        "is_correct": false
+      },
+      {
+        "text": "spoken structure",
+        "is_correct": false
+      },
+      {
+        "text": "opening",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The important difference is the language function: opening versus visual unreadable.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "pace and pause: Pacing gives listeners time to process and signals importance.",
+      "hint": "Name the feature precisely."
     },
-    "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 21,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-P-022",
@@ -803,37 +803,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_misconception",
-    "question": "Which statement would help you reject the tempting rule “Loudest voice considered best” in a design project?",
-    "audio_prompt": "Which statement would help you reject the tempting rule “Loudest voice considered best” in a design project?",
+    "stage": "foundation",
+    "skill": "pace and pause effect",
+    "question": "What does “The speaker slows before a key statistic and pauses afterwards.” contribute to meaning or purpose?",
+    "audio_prompt": "What does “The speaker slows before a key statistic and pauses afterwards.” contribute to meaning or purpose?",
     "answers": [
       {
-        "text": "Confidence replaces content",
+        "text": "Content and explanation are adapted to what the audience needs and knows.",
         "is_correct": false
       },
       {
-        "text": "Slides duplicate script",
-        "is_correct": false
-      },
-      {
-        "text": "Loudest voice considered best",
-        "is_correct": false
-      },
-      {
-        "text": "Control volume.",
+        "text": "Pacing gives listeners time to process and signals importance.",
         "is_correct": true
+      },
+      {
+        "text": "Verbal signposts help listeners follow information they cannot reread instantly.",
+        "is_correct": false
+      },
+      {
+        "text": "The relevant question activates curiosity and establishes purpose.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Control volume. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Rehearsal tests audience understanding, not just memorisation. Revise content when delivery problems reveal overload."
+      "summary": "Pacing gives listeners time to process and signals importance.",
+      "hint": "Link exact evidence to its effect."
     },
-    "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 22,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-P-023",
@@ -841,37 +841,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_language_choices",
-    "question": "A weather report could use either “comparison or consequence” or “add evidence and explanation”. Which comparison is most accurate?",
-    "audio_prompt": "A weather report could use either “comparison or consequence” or “add evidence and explanation”. Which comparison is most accurate?",
+    "stage": "application",
+    "skill": "pace and pause revision",
+    "question": "Which revision best applies pace and pause to this task?",
+    "audio_prompt": "Which revision best applies pace and pause to this task?",
     "answers": [
       {
-        "text": "“comparison or consequence” shows idea 2, while “add evidence and explanation” shows claim unsupported.",
+        "text": "State what the audience should understand or do by the end.",
+        "is_correct": false
+      },
+      {
+        "text": "Use concise previews and transitions rather than reading slide headings.",
+        "is_correct": false
+      },
+      {
+        "text": "Mark purposeful pauses in rehearsal notes.",
         "is_correct": true
       },
       {
-        "text": "Both examples must show exactly the same feature because they appear in one text.",
-        "is_correct": false
-      },
-      {
-        "text": "The longer example is automatically more formal and therefore better.",
-        "is_correct": false
-      },
-      {
-        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "text": "Answer the opening question through the body and conclusion.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The important difference is the language function: idea 2 versus claim unsupported.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "The revision applies pace and pause purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
     "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty_tier": "application",
     "sequence_priority": 23,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-P-024",
@@ -879,37 +879,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_misconception",
-    "question": "Which statement would help you reject the tempting rule “Confidence replaces content” in a school assembly?",
-    "audio_prompt": "Which statement would help you reject the tempting rule “Confidence replaces content” in a school assembly?",
+    "stage": "core",
+    "skill": "pace and pause misconception",
+    "question": "A student says, “Speaking quickly always shows confidence.” Which response best corrects the claim?",
+    "audio_prompt": "A student says, “Speaking quickly always shows confidence.” Which response best corrects the claim?",
     "answers": [
       {
-        "text": "Confidence replaces content",
+        "text": "The same script suits every audience.",
         "is_correct": false
       },
       {
-        "text": "Support ideas.",
+        "text": "A presentation needs no structure if slides are numbered.",
+        "is_correct": false
+      },
+      {
+        "text": "Every presentation should begin with a joke.",
+        "is_correct": false
+      },
+      {
+        "text": "The claim is too broad; the example shows that pacing gives listeners time to process and signals importance.",
         "is_correct": true
-      },
-      {
-        "text": "Slides duplicate script",
-        "is_correct": false
-      },
-      {
-        "text": "Loudest voice considered best",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Support ideas. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Rehearsal tests audience understanding, not just memorisation. Revise content when delivery problems reveal overload."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 24,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-P-025",
@@ -917,37 +917,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_language_choices",
-    "question": "A peer feedback session could use either “synthesis and call/thought” or “simplify and enlarge labels”. Which comparison is most accurate?",
-    "audio_prompt": "A peer feedback session could use either “synthesis and call/thought” or “simplify and enlarge labels”. Which comparison is most accurate?",
+    "stage": "foundation",
+    "skill": "intonation",
+    "question": "Read: “The voice rises on the genuine question and falls on the final recommendation.” Which description best identifies the relevant choice?",
+    "audio_prompt": "Read: “The voice rises on the genuine question and falls on the final recommendation.” Which description best identifies the relevant choice?",
     "answers": [
       {
-        "text": "Both examples must show exactly the same feature because they appear in one text.",
-        "is_correct": false
-      },
-      {
-        "text": "The longer example is automatically more formal and therefore better.",
-        "is_correct": false
-      },
-      {
-        "text": "“synthesis and call/thought” shows closing, while “simplify and enlarge labels” shows visual unreadable.",
+        "text": "intonation",
         "is_correct": true
       },
       {
-        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "text": "audience and purpose",
+        "is_correct": false
+      },
+      {
+        "text": "spoken structure",
+        "is_correct": false
+      },
+      {
+        "text": "opening",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The important difference is the language function: closing versus visual unreadable.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "intonation: Pitch movement distinguishes inquiry from confident closure.",
+      "hint": "Name the feature precisely."
     },
-    "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 25,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-P-026",
@@ -955,37 +955,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_misconception",
-    "question": "Which statement would help you reject the tempting rule “Loudest voice considered best” in a cooking demonstration?",
-    "audio_prompt": "Which statement would help you reject the tempting rule “Loudest voice considered best” in a cooking demonstration?",
+    "stage": "core",
+    "skill": "intonation effect",
+    "question": "What does “The voice rises on the genuine question and falls on the final recommendation.” contribute to meaning or purpose?",
+    "audio_prompt": "What does “The voice rises on the genuine question and falls on the final recommendation.” contribute to meaning or purpose?",
     "answers": [
       {
-        "text": "Confidence replaces content",
+        "text": "Content and explanation are adapted to what the audience needs and knows.",
         "is_correct": false
       },
       {
-        "text": "Slides duplicate script",
-        "is_correct": false
-      },
-      {
-        "text": "Loudest voice considered best",
-        "is_correct": false
-      },
-      {
-        "text": "Control volume.",
+        "text": "Pitch movement distinguishes inquiry from confident closure.",
         "is_correct": true
+      },
+      {
+        "text": "Verbal signposts help listeners follow information they cannot reread instantly.",
+        "is_correct": false
+      },
+      {
+        "text": "The relevant question activates curiosity and establishes purpose.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Control volume. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Rehearsal tests audience understanding, not just memorisation. Revise content when delivery problems reveal overload."
+      "summary": "Pitch movement distinguishes inquiry from confident closure.",
+      "hint": "Link exact evidence to its effect."
     },
-    "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 26,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-P-027",
@@ -993,37 +993,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_language_choices",
-    "question": "A arts review could use either “claim + evidence + explanation” or “add evidence and explanation”. Which comparison is most accurate?",
-    "audio_prompt": "A arts review could use either “claim + evidence + explanation” or “add evidence and explanation”. Which comparison is most accurate?",
+    "stage": "application",
+    "skill": "intonation revision",
+    "question": "Which revision best applies intonation to this task?",
+    "audio_prompt": "Which revision best applies intonation to this task?",
     "answers": [
       {
-        "text": "“claim + evidence + explanation” shows idea 1, while “add evidence and explanation” shows claim unsupported.",
+        "text": "State what the audience should understand or do by the end.",
+        "is_correct": false
+      },
+      {
+        "text": "Use concise previews and transitions rather than reading slide headings.",
+        "is_correct": false
+      },
+      {
+        "text": "Record a rehearsal and check whether meaning is audible.",
         "is_correct": true
       },
       {
-        "text": "Both examples must show exactly the same feature because they appear in one text.",
-        "is_correct": false
-      },
-      {
-        "text": "The longer example is automatically more formal and therefore better.",
-        "is_correct": false
-      },
-      {
-        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "text": "Answer the opening question through the body and conclusion.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The important difference is the language function: idea 1 versus claim unsupported.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "The revision applies intonation purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
     "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty_tier": "application",
     "sequence_priority": 27,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-P-028",
@@ -1031,37 +1031,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_misconception",
-    "question": "Which statement would help you reject the tempting rule “Confidence replaces content” in a technology presentation?",
-    "audio_prompt": "Which statement would help you reject the tempting rule “Confidence replaces content” in a technology presentation?",
+    "stage": "core",
+    "skill": "intonation misconception",
+    "question": "A student says, “Intonation should be dramatic in every sentence.” Which response best corrects the claim?",
+    "audio_prompt": "A student says, “Intonation should be dramatic in every sentence.” Which response best corrects the claim?",
     "answers": [
       {
-        "text": "Confidence replaces content",
+        "text": "The same script suits every audience.",
         "is_correct": false
       },
       {
-        "text": "Support ideas.",
+        "text": "A presentation needs no structure if slides are numbered.",
+        "is_correct": false
+      },
+      {
+        "text": "Every presentation should begin with a joke.",
+        "is_correct": false
+      },
+      {
+        "text": "The claim is too broad; the example shows that pitch movement distinguishes inquiry from confident closure.",
         "is_correct": true
-      },
-      {
-        "text": "Slides duplicate script",
-        "is_correct": false
-      },
-      {
-        "text": "Loudest voice considered best",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Support ideas. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Rehearsal tests audience understanding, not just memorisation. Revise content when delivery problems reveal overload."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 28,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-P-029",
@@ -1069,37 +1069,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_language_choices",
-    "question": "A playground consultation could use either “acknowledge and respond” or “simplify and enlarge labels”. Which comparison is most accurate?",
-    "audio_prompt": "A playground consultation could use either “acknowledge and respond” or “simplify and enlarge labels”. Which comparison is most accurate?",
+    "stage": "foundation",
+    "skill": "gesture and eye contact",
+    "question": "Read: “A gesture traces the process diagram while the speaker explains each stage.” Which description best identifies the relevant choice?",
+    "audio_prompt": "Read: “A gesture traces the process diagram while the speaker explains each stage.” Which description best identifies the relevant choice?",
     "answers": [
       {
-        "text": "Both examples must show exactly the same feature because they appear in one text.",
-        "is_correct": false
-      },
-      {
-        "text": "The longer example is automatically more formal and therefore better.",
-        "is_correct": false
-      },
-      {
-        "text": "“acknowledge and respond” shows counterpoint, while “simplify and enlarge labels” shows visual unreadable.",
+        "text": "gesture and eye contact",
         "is_correct": true
       },
       {
-        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "text": "audience and purpose",
+        "is_correct": false
+      },
+      {
+        "text": "spoken structure",
+        "is_correct": false
+      },
+      {
+        "text": "opening",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The important difference is the language function: counterpoint versus visual unreadable.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "gesture and eye contact: The movement directs attention and coordinates spoken and visual information.",
+      "hint": "Name the feature precisely."
     },
-    "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 29,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-P-030",
@@ -1107,37 +1107,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_misconception",
-    "question": "Which statement would help you reject the tempting rule “Loudest voice considered best” in a class podcast?",
-    "audio_prompt": "Which statement would help you reject the tempting rule “Loudest voice considered best” in a class podcast?",
+    "stage": "core",
+    "skill": "gesture and eye contact effect",
+    "question": "What does “A gesture traces the process diagram while the speaker explains each stage.” contribute to meaning or purpose?",
+    "audio_prompt": "What does “A gesture traces the process diagram while the speaker explains each stage.” contribute to meaning or purpose?",
     "answers": [
       {
-        "text": "Confidence replaces content",
+        "text": "Content and explanation are adapted to what the audience needs and knows.",
         "is_correct": false
       },
       {
-        "text": "Slides duplicate script",
-        "is_correct": false
-      },
-      {
-        "text": "Loudest voice considered best",
-        "is_correct": false
-      },
-      {
-        "text": "Control volume.",
+        "text": "The movement directs attention and coordinates spoken and visual information.",
         "is_correct": true
+      },
+      {
+        "text": "Verbal signposts help listeners follow information they cannot reread instantly.",
+        "is_correct": false
+      },
+      {
+        "text": "The relevant question activates curiosity and establishes purpose.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Control volume. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Rehearsal tests audience understanding, not just memorisation. Revise content when delivery problems reveal overload."
+      "summary": "The movement directs attention and coordinates spoken and visual information.",
+      "hint": "Link exact evidence to its effect."
     },
-    "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 30,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-P-031",
@@ -1145,37 +1145,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "use_signpost",
-    "question": "You are editing a community garden proposal. Which rehearsal result requires revision?",
-    "audio_prompt": "You are editing a community garden proposal. Which rehearsal result requires revision?",
+    "stage": "application",
+    "skill": "gesture and eye contact revision",
+    "question": "Which revision best applies gesture and eye contact to this task?",
+    "audio_prompt": "Which revision best applies gesture and eye contact to this task?",
     "answers": [
       {
-        "text": "The timing meets the limit",
+        "text": "State what the audience should understand or do by the end.",
         "is_correct": false
       },
       {
-        "text": "The graph is readable",
+        "text": "Use concise previews and transitions rather than reading slide headings.",
         "is_correct": false
       },
       {
-        "text": "The speaker pauses before evidence",
-        "is_correct": false
-      },
-      {
-        "text": "Listeners cannot identify the main claim",
+        "text": "Use gestures only when they clarify location, sequence or emphasis.",
         "is_correct": true
+      },
+      {
+        "text": "Answer the opening question through the body and conclusion.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 2,
     "explanation": {
-      "summary": "“Listeners cannot identify the main claim” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Rehearsal tests audience understanding, not just memorisation. Revise content when delivery problems reveal overload."
+      "summary": "The revision applies gesture and eye contact purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "application",
     "sequence_priority": 31,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-P-032",
@@ -1183,37 +1183,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "visual_unreadable",
-    "question": "A sports-club discussion needs a clear example of visual unreadable. Which wording should you choose?",
-    "audio_prompt": "A sports-club discussion needs a clear example of visual unreadable. Which wording should you choose?",
+    "stage": "core",
+    "skill": "gesture and eye contact misconception",
+    "question": "A student says, “Constant movement keeps every audience engaged.” Which response best corrects the claim?",
+    "audio_prompt": "A student says, “Constant movement keeps every audience engaged.” Which response best corrects the claim?",
     "answers": [
       {
-        "text": "simplify and enlarge labels",
+        "text": "The same script suits every audience.",
+        "is_correct": false
+      },
+      {
+        "text": "A presentation needs no structure if slides are numbered.",
+        "is_correct": false
+      },
+      {
+        "text": "Every presentation should begin with a joke.",
+        "is_correct": false
+      },
+      {
+        "text": "The claim is too broad; the example shows that the movement directs attention and coordinates spoken and visual information.",
         "is_correct": true
-      },
-      {
-        "text": "mark key words and pitch shifts",
-        "is_correct": false
-      },
-      {
-        "text": "add signposting",
-        "is_correct": false
-      },
-      {
-        "text": "add evidence and explanation",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "“simplify and enlarge labels” is the best choice because it demonstrates visual unreadable in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 32,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-P-033",
@@ -1221,37 +1221,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "signposting",
-    "question": "While revising a library display, you need language that matches “language signalling organisation”. Which concept should guide your choice?",
-    "audio_prompt": "While revising a library display, you need language that matches “language signalling organisation”. Which concept should guide your choice?",
+    "stage": "foundation",
+    "skill": "slide design",
+    "question": "Read: “One slide shows a labelled diagram and six key words rather than a full script.” Which description best identifies the relevant choice?",
+    "audio_prompt": "Read: “One slide shows a labelled diagram and six key words rather than a full script.” Which description best identifies the relevant choice?",
     "answers": [
       {
-        "text": "elaboration",
-        "is_correct": false
-      },
-      {
-        "text": "signposting",
+        "text": "slide design",
         "is_correct": true
       },
       {
-        "text": "delivery",
+        "text": "audience and purpose",
         "is_correct": false
       },
       {
-        "text": "It does not match the evidence in the example.",
+        "text": "spoken structure",
+        "is_correct": false
+      },
+      {
+        "text": "opening",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "signposting is the concept that matches language signalling organisation.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "slide design: Low text density supports listening and makes the visual readable.",
+      "hint": "Name the feature precisely."
     },
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 33,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-P-034",
@@ -1259,37 +1259,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "create_roadmap",
-    "question": "You are editing a museum caption. Which rehearsal result requires revision?",
-    "audio_prompt": "You are editing a museum caption. Which rehearsal result requires revision?",
+    "stage": "core",
+    "skill": "slide design effect",
+    "question": "What does “One slide shows a labelled diagram and six key words rather than a full script.” contribute to meaning or purpose?",
+    "audio_prompt": "What does “One slide shows a labelled diagram and six key words rather than a full script.” contribute to meaning or purpose?",
     "answers": [
       {
-        "text": "The timing meets the limit",
+        "text": "Content and explanation are adapted to what the audience needs and knows.",
         "is_correct": false
       },
       {
-        "text": "The graph is readable",
-        "is_correct": false
-      },
-      {
-        "text": "Listeners cannot identify the main claim",
+        "text": "Low text density supports listening and makes the visual readable.",
         "is_correct": true
       },
       {
-        "text": "The speaker pauses before evidence",
+        "text": "Verbal signposts help listeners follow information they cannot reread instantly.",
+        "is_correct": false
+      },
+      {
+        "text": "The relevant question activates curiosity and establishes purpose.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“Listeners cannot identify the main claim” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Rehearsal tests audience understanding, not just memorisation. Revise content when delivery problems reveal overload."
+      "summary": "Low text density supports listening and makes the visual readable.",
+      "hint": "Link exact evidence to its effect."
     },
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 34,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-P-035",
@@ -1297,37 +1297,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "flat_delivery",
-    "question": "A student council meeting needs a clear example of flat delivery. Which wording should you choose?",
-    "audio_prompt": "A student council meeting needs a clear example of flat delivery. Which wording should you choose?",
+    "stage": "application",
+    "skill": "slide design revision",
+    "question": "Which revision best applies slide design to this task?",
+    "audio_prompt": "Which revision best applies slide design to this task?",
     "answers": [
       {
-        "text": "simplify and enlarge labels",
+        "text": "State what the audience should understand or do by the end.",
         "is_correct": false
       },
       {
-        "text": "add signposting",
+        "text": "Use concise previews and transitions rather than reading slide headings.",
         "is_correct": false
       },
       {
-        "text": "add evidence and explanation",
-        "is_correct": false
-      },
-      {
-        "text": "mark key words and pitch shifts",
+        "text": "Keep strong contrast, large text and one main purpose per slide.",
         "is_correct": true
+      },
+      {
+        "text": "Answer the opening question through the body and conclusion.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 2,
     "explanation": {
-      "summary": "“mark key words and pitch shifts” is the best choice because it demonstrates flat delivery in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "The revision applies slide design purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "application",
     "sequence_priority": 35,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-P-036",
@@ -1335,37 +1335,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "signposting",
-    "question": "While revising a local-history article, you need language that matches “language signalling organisation”. Which concept should guide your choice?",
-    "audio_prompt": "While revising a local-history article, you need language that matches “language signalling organisation”. Which concept should guide your choice?",
+    "stage": "challenge",
+    "skill": "slide design misconception",
+    "question": "A student says, “Slides should contain every word the speaker says.” Which response best corrects the claim?",
+    "audio_prompt": "A student says, “Slides should contain every word the speaker says.” Which response best corrects the claim?",
     "answers": [
       {
-        "text": "signposting",
+        "text": "The same script suits every audience.",
+        "is_correct": false
+      },
+      {
+        "text": "A presentation needs no structure if slides are numbered.",
+        "is_correct": false
+      },
+      {
+        "text": "Every presentation should begin with a joke.",
+        "is_correct": false
+      },
+      {
+        "text": "The claim is too broad; the example shows that low text density supports listening and makes the visual readable.",
         "is_correct": true
-      },
-      {
-        "text": "elaboration",
-        "is_correct": false
-      },
-      {
-        "text": "delivery",
-        "is_correct": false
-      },
-      {
-        "text": "It does not match the evidence in the example.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "signposting is the concept that matches language signalling organisation.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "challenge",
     "sequence_priority": 36,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-P-037",
@@ -1373,37 +1373,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "reduce_slide_text",
-    "question": "You are editing a environmental campaign. Which rehearsal result requires revision?",
-    "audio_prompt": "You are editing a environmental campaign. Which rehearsal result requires revision?",
+    "stage": "foundation",
+    "skill": "multimodal coordination",
+    "question": "Read: “A short audio clip demonstrates frog calls before a map identifies habitats.” Which description best identifies the relevant choice?",
+    "audio_prompt": "Read: “A short audio clip demonstrates frog calls before a map identifies habitats.” Which description best identifies the relevant choice?",
     "answers": [
       {
-        "text": "The timing meets the limit",
-        "is_correct": false
-      },
-      {
-        "text": "Listeners cannot identify the main claim",
+        "text": "multimodal coordination",
         "is_correct": true
       },
       {
-        "text": "The graph is readable",
+        "text": "audience and purpose",
         "is_correct": false
       },
       {
-        "text": "The speaker pauses before evidence",
+        "text": "spoken structure",
+        "is_correct": false
+      },
+      {
+        "text": "opening",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "“Listeners cannot identify the main claim” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Rehearsal tests audience understanding, not just memorisation. Revise content when delivery problems reveal overload."
+      "summary": "multimodal coordination: Each mode contributes different evidence in a planned sequence.",
+      "hint": "Name the feature precisely."
     },
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 37,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-P-038",
@@ -1411,37 +1411,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "claim_unsupported",
-    "question": "A book-club discussion needs a clear example of claim unsupported. Which wording should you choose?",
-    "audio_prompt": "A book-club discussion needs a clear example of claim unsupported. Which wording should you choose?",
+    "stage": "core",
+    "skill": "multimodal coordination effect",
+    "question": "What does “A short audio clip demonstrates frog calls before a map identifies habitats.” contribute to meaning or purpose?",
+    "audio_prompt": "What does “A short audio clip demonstrates frog calls before a map identifies habitats.” contribute to meaning or purpose?",
     "answers": [
       {
-        "text": "mark key words and pitch shifts",
+        "text": "Content and explanation are adapted to what the audience needs and knows.",
         "is_correct": false
       },
       {
-        "text": "simplify and enlarge labels",
-        "is_correct": false
-      },
-      {
-        "text": "add evidence and explanation",
+        "text": "Each mode contributes different evidence in a planned sequence.",
         "is_correct": true
       },
       {
-        "text": "add signposting",
+        "text": "Verbal signposts help listeners follow information they cannot reread instantly.",
+        "is_correct": false
+      },
+      {
+        "text": "The relevant question activates curiosity and establishes purpose.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“add evidence and explanation” is the best choice because it demonstrates claim unsupported in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "Each mode contributes different evidence in a planned sequence.",
+      "hint": "Link exact evidence to its effect."
     },
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 38,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-P-039",
@@ -1449,37 +1449,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "signposting",
-    "question": "While revising a excursion briefing, you need language that matches “language signalling organisation”. Which concept should guide your choice?",
-    "audio_prompt": "While revising a excursion briefing, you need language that matches “language signalling organisation”. Which concept should guide your choice?",
+    "stage": "application",
+    "skill": "multimodal coordination revision",
+    "question": "Which revision best applies multimodal coordination to this task?",
+    "audio_prompt": "Which revision best applies multimodal coordination to this task?",
     "answers": [
       {
-        "text": "elaboration",
+        "text": "State what the audience should understand or do by the end.",
         "is_correct": false
       },
       {
-        "text": "delivery",
+        "text": "Use concise previews and transitions rather than reading slide headings.",
         "is_correct": false
       },
       {
-        "text": "It does not match the evidence in the example.",
-        "is_correct": false
-      },
-      {
-        "text": "signposting",
+        "text": "Introduce what listeners should notice before playing media.",
         "is_correct": true
+      },
+      {
+        "text": "Answer the opening question through the body and conclusion.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 2,
     "explanation": {
-      "summary": "signposting is the concept that matches language signalling organisation.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "The revision applies multimodal coordination purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "application",
     "sequence_priority": 39,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-P-040",
@@ -1487,37 +1487,341 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "elaborate_claim",
-    "question": "You are editing a design project. Which rehearsal result requires revision?",
-    "audio_prompt": "You are editing a design project. Which rehearsal result requires revision?",
+    "stage": "challenge",
+    "skill": "multimodal coordination misconception",
+    "question": "A student says, “Adding more media automatically improves meaning.” Which response best corrects the claim?",
+    "audio_prompt": "A student says, “Adding more media automatically improves meaning.” Which response best corrects the claim?",
     "answers": [
       {
-        "text": "Listeners cannot identify the main claim",
+        "text": "The same script suits every audience.",
+        "is_correct": false
+      },
+      {
+        "text": "A presentation needs no structure if slides are numbered.",
+        "is_correct": false
+      },
+      {
+        "text": "Every presentation should begin with a joke.",
+        "is_correct": false
+      },
+      {
+        "text": "The claim is too broad; the example shows that each mode contributes different evidence in a planned sequence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 40,
+    "quality_schema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LY07-P-041",
+    "curriculum_code": "AC9E6LY07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "rehearsal",
+    "question": "Read: “The group times transitions, tests media and practises recovery if a video fails.” Which description best identifies the relevant choice?",
+    "audio_prompt": "Read: “The group times transitions, tests media and practises recovery if a video fails.” Which description best identifies the relevant choice?",
+    "answers": [
+      {
+        "text": "rehearsal",
         "is_correct": true
       },
       {
-        "text": "The timing meets the limit",
+        "text": "audience and purpose",
         "is_correct": false
       },
       {
-        "text": "The graph is readable",
+        "text": "spoken structure",
         "is_correct": false
       },
       {
-        "text": "The speaker pauses before evidence",
+        "text": "opening",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "“Listeners cannot identify the main claim” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Rehearsal tests audience understanding, not just memorisation. Revise content when delivery problems reveal overload."
+      "summary": "rehearsal: Rehearsal improves fluency, timing, coordination and resilience.",
+      "hint": "Name the feature precisely."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 41,
+    "quality_schema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LY07-P-042",
+    "curriculum_code": "AC9E6LY07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "rehearsal effect",
+    "question": "What does “The group times transitions, tests media and practises recovery if a video fails.” contribute to meaning or purpose?",
+    "audio_prompt": "What does “The group times transitions, tests media and practises recovery if a video fails.” contribute to meaning or purpose?",
+    "answers": [
+      {
+        "text": "Content and explanation are adapted to what the audience needs and knows.",
+        "is_correct": false
+      },
+      {
+        "text": "Rehearsal improves fluency, timing, coordination and resilience.",
+        "is_correct": true
+      },
+      {
+        "text": "Verbal signposts help listeners follow information they cannot reread instantly.",
+        "is_correct": false
+      },
+      {
+        "text": "The relevant question activates curiosity and establishes purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Rehearsal improves fluency, timing, coordination and resilience.",
+      "hint": "Link exact evidence to its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 42,
+    "quality_schema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LY07-P-043",
+    "curriculum_code": "AC9E6LY07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "rehearsal revision",
+    "question": "Which revision best applies rehearsal to this task?",
+    "audio_prompt": "Which revision best applies rehearsal to this task?",
+    "answers": [
+      {
+        "text": "State what the audience should understand or do by the end.",
+        "is_correct": false
+      },
+      {
+        "text": "Use concise previews and transitions rather than reading slide headings.",
+        "is_correct": false
+      },
+      {
+        "text": "Use peer feedback tied to success criteria, then rehearse again.",
+        "is_correct": true
+      },
+      {
+        "text": "Answer the opening question through the body and conclusion.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The revision applies rehearsal purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
-    "sequence_priority": 40,
-    "quality_schema": "skillr-authored-v1"
+    "difficulty_tier": "application",
+    "sequence_priority": 43,
+    "quality_schema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LY07-P-044",
+    "curriculum_code": "AC9E6LY07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "rehearsal misconception",
+    "question": "A student says, “Rehearsal means memorising every word exactly.” Which response best corrects the claim?",
+    "audio_prompt": "A student says, “Rehearsal means memorising every word exactly.” Which response best corrects the claim?",
+    "answers": [
+      {
+        "text": "The same script suits every audience.",
+        "is_correct": false
+      },
+      {
+        "text": "A presentation needs no structure if slides are numbered.",
+        "is_correct": false
+      },
+      {
+        "text": "Every presentation should begin with a joke.",
+        "is_correct": false
+      },
+      {
+        "text": "The claim is too broad; the example shows that rehearsal improves fluency, timing, coordination and resilience.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 44,
+    "quality_schema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LY07-P-045",
+    "curriculum_code": "AC9E6LY07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "question response",
+    "question": "Read: “The presenter paraphrases an audience question, answers with evidence and admits one limit.” Which description best identifies the relevant choice?",
+    "audio_prompt": "Read: “The presenter paraphrases an audience question, answers with evidence and admits one limit.” Which description best identifies the relevant choice?",
+    "answers": [
+      {
+        "text": "question response",
+        "is_correct": true
+      },
+      {
+        "text": "audience and purpose",
+        "is_correct": false
+      },
+      {
+        "text": "spoken structure",
+        "is_correct": false
+      },
+      {
+        "text": "opening",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "question response: The response confirms understanding and maintains credibility.",
+      "hint": "Name the feature precisely."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 45,
+    "quality_schema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LY07-P-046",
+    "curriculum_code": "AC9E6LY07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "question response effect",
+    "question": "What does “The presenter paraphrases an audience question, answers with evidence and admits one limit.” contribute to meaning or purpose?",
+    "audio_prompt": "What does “The presenter paraphrases an audience question, answers with evidence and admits one limit.” contribute to meaning or purpose?",
+    "answers": [
+      {
+        "text": "Content and explanation are adapted to what the audience needs and knows.",
+        "is_correct": false
+      },
+      {
+        "text": "The response confirms understanding and maintains credibility.",
+        "is_correct": true
+      },
+      {
+        "text": "Verbal signposts help listeners follow information they cannot reread instantly.",
+        "is_correct": false
+      },
+      {
+        "text": "The relevant question activates curiosity and establishes purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The response confirms understanding and maintains credibility.",
+      "hint": "Link exact evidence to its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 46,
+    "quality_schema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LY07-P-047",
+    "curriculum_code": "AC9E6LY07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "question response revision",
+    "question": "Which revision best applies question response to this task?",
+    "audio_prompt": "Which revision best applies question response to this task?",
+    "answers": [
+      {
+        "text": "State what the audience should understand or do by the end.",
+        "is_correct": false
+      },
+      {
+        "text": "Use concise previews and transitions rather than reading slide headings.",
+        "is_correct": false
+      },
+      {
+        "text": "Prepare likely questions and practise concise evidence-based replies.",
+        "is_correct": true
+      },
+      {
+        "text": "Answer the opening question through the body and conclusion.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The revision applies question response purposefully.",
+      "hint": "Choose accuracy and effect, not extra length."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 47,
+    "quality_schema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LY07-P-048",
+    "curriculum_code": "AC9E6LY07",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "question response misconception",
+    "question": "A student says, “A confident presenter should pretend to know every answer.” Which response best corrects the claim?",
+    "audio_prompt": "A student says, “A confident presenter should pretend to know every answer.” Which response best corrects the claim?",
+    "answers": [
+      {
+        "text": "The same script suits every audience.",
+        "is_correct": false
+      },
+      {
+        "text": "A presentation needs no structure if slides are numbered.",
+        "is_correct": false
+      },
+      {
+        "text": "Every presentation should begin with a joke.",
+        "is_correct": false
+      },
+      {
+        "text": "The claim is too broad; the example shows that the response confirms understanding and maintains credibility.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The correction is evidence-based and limited.",
+      "hint": "Test always-or-never wording."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 48,
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-T-001",
@@ -1525,37 +1829,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "verify",
-    "skill": "weak_transition",
-    "question": "A community radio segment includes “add signposting”. Which description best fits this wording?",
-    "audio_prompt": "A community radio segment includes “add signposting”. Which description best fits this wording?",
+    "stage": "independent",
+    "skill": "audience and purpose",
+    "question": "In a museum panel, “A science presentation for families defines technical terms and demonstrates one safe experiment.” Which analysis is strongest?",
+    "audio_prompt": "In a museum panel, “A science presentation for families defines technical terms and demonstrates one safe experiment.” Which analysis is strongest?",
     "answers": [
       {
-        "text": "opening",
-        "is_correct": false
-      },
-      {
-        "text": "weak transition",
+        "text": "audience and purpose: Content and explanation are adapted to what the audience needs and knows.",
         "is_correct": true
       },
       {
-        "text": "idea 1",
+        "text": "spoken structure: Verbal signposts help listeners follow information they cannot reread instantly.",
         "is_correct": false
       },
       {
-        "text": "idea 2",
+        "text": "opening: The relevant question activates curiosity and establishes purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "evidence explanation: Spoken interpretation connects visual evidence to the central claim.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The wording best matches weak transition.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "audience and purpose is supported by exact evidence.",
+      "hint": "Identify, cite and explain."
     },
     "difficulty": 3,
-    "difficulty_tier": "verify",
+    "difficulty_tier": "independent",
     "sequence_priority": 1,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-T-002",
@@ -1563,37 +1867,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "verify",
-    "skill": "signposting",
-    "question": "In a wildlife-centre report, which term matches this meaning: “language signalling organisation”?",
-    "audio_prompt": "In a wildlife-centre report, which term matches this meaning: “language signalling organisation”?",
+    "stage": "independent",
+    "skill": "spoken structure edit",
+    "question": "Which edit best demonstrates spoken structure in a museum panel?",
+    "audio_prompt": "Which edit best demonstrates spoken structure in a museum panel?",
     "answers": [
       {
-        "text": "elaboration",
+        "text": "State what the audience should understand or do by the end.",
         "is_correct": false
       },
       {
-        "text": "delivery",
-        "is_correct": false
-      },
-      {
-        "text": "signposting",
+        "text": "Use concise previews and transitions rather than reading slide headings.",
         "is_correct": true
       },
       {
-        "text": "It does not match the evidence in the example.",
+        "text": "Answer the opening question through the body and conclusion.",
+        "is_correct": false
+      },
+      {
+        "text": "Pause so the audience can locate the axes before explaining the trend.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "signposting is the precise term for language signalling organisation.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies spoken structure accurately.",
+      "hint": "Choose purposeful accuracy."
     },
     "difficulty": 3,
-    "difficulty_tier": "verify",
+    "difficulty_tier": "independent",
     "sequence_priority": 2,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-T-003",
@@ -1601,37 +1905,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "verify",
-    "skill": "spoken_and_multimodal_presentations",
-    "question": "For a regional youth forum, which slide best supports a presentation?",
-    "audio_prompt": "For a regional youth forum, which slide best supports a presentation?",
+    "stage": "transfer",
+    "skill": "opening misconception",
+    "question": "Which claim should an editor reject about “A brief question—“Where does our lunch waste go?”—introduces the investigation.” in this museum panel?",
+    "audio_prompt": "Which claim should an editor reject about “A brief question—“Where does our lunch waste go?”—introduces the investigation.” in this museum panel?",
     "answers": [
       {
-        "text": "A full script in tiny text",
+        "text": "The same script suits every audience.",
         "is_correct": false
       },
       {
-        "text": "An unrelated animation",
+        "text": "A presentation needs no structure if slides are numbered.",
         "is_correct": false
       },
       {
-        "text": "A blank decorative screen",
-        "is_correct": false
-      },
-      {
-        "text": "A readable graph with a concise heading and spoken explanation",
+        "text": "Every presentation should begin with a joke.",
         "is_correct": true
+      },
+      {
+        "text": "Displaying a graph is enough; it needs no explanation.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 2,
     "explanation": {
-      "summary": "“A readable graph with a concise heading and spoken explanation” is supported by the language evidence and purpose of the text.",
-      "hint": "Rehearsal tests audience understanding, not just memorisation. Revise content when delivery problems reveal overload."
+      "summary": "The rejected claim overgeneralises opening.",
+      "hint": "Check it against evidence."
     },
     "difficulty": 3,
-    "difficulty_tier": "verify",
+    "difficulty_tier": "transfer",
     "sequence_priority": 3,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-T-004",
@@ -1639,37 +1943,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "verify",
-    "skill": "independent_misconception_check",
-    "question": "A writer preparing a coastal-monitoring update says, “Slides duplicate script”. Which response is most accurate?",
-    "audio_prompt": "A writer preparing a coastal-monitoring update says, “Slides duplicate script”. Which response is most accurate?",
+    "stage": "transfer",
+    "skill": "evidence explanation explanation",
+    "question": "Which explanation best accounts for “The speaker shows a graph, names the trend and explains its relevance to the proposal.” in this museum panel?",
+    "audio_prompt": "Which explanation best accounts for “The speaker shows a graph, names the trend and explains its relevance to the proposal.” in this museum panel?",
     "answers": [
       {
-        "text": "Use models and cues.",
+        "text": "Content and explanation are adapted to what the audience needs and knows.",
+        "is_correct": false
+      },
+      {
+        "text": "Verbal signposts help listeners follow information they cannot reread instantly.",
+        "is_correct": false
+      },
+      {
+        "text": "The relevant question activates curiosity and establishes purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Spoken interpretation connects visual evidence to the central claim.",
         "is_correct": true
-      },
-      {
-        "text": "Confidence replaces content",
-        "is_correct": false
-      },
-      {
-        "text": "Slides duplicate script",
-        "is_correct": false
-      },
-      {
-        "text": "Loudest voice considered best",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Use models and cues. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "Spoken interpretation connects visual evidence to the central claim.",
+      "hint": "Connect evidence and effect."
     },
     "difficulty": 3,
-    "difficulty_tier": "verify",
+    "difficulty_tier": "transfer",
     "sequence_priority": 4,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-T-005",
@@ -1677,37 +1981,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "verify",
-    "skill": "weak_transition",
-    "question": "A heritage trail guide includes “add signposting”. Which description best fits this wording?",
-    "audio_prompt": "A heritage trail guide includes “add signposting”. Which description best fits this wording?",
+    "stage": "independent",
+    "skill": "voice projection",
+    "question": "In a school magazine, “The presenter uses clear volume without shouting and faces the whole room.” Which analysis is strongest?",
+    "audio_prompt": "In a school magazine, “The presenter uses clear volume without shouting and faces the whole room.” Which analysis is strongest?",
     "answers": [
       {
-        "text": "opening",
-        "is_correct": false
-      },
-      {
-        "text": "weak transition",
+        "text": "voice projection: Controlled projection makes speech audible and respectful.",
         "is_correct": true
       },
       {
-        "text": "idea 1",
+        "text": "audience and purpose: Content and explanation are adapted to what the audience needs and knows.",
         "is_correct": false
       },
       {
-        "text": "idea 2",
+        "text": "spoken structure: Verbal signposts help listeners follow information they cannot reread instantly.",
+        "is_correct": false
+      },
+      {
+        "text": "opening: The relevant question activates curiosity and establishes purpose.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The wording best matches weak transition.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "voice projection is supported by exact evidence.",
+      "hint": "Identify, cite and explain."
     },
     "difficulty": 3,
-    "difficulty_tier": "verify",
+    "difficulty_tier": "independent",
     "sequence_priority": 5,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-T-006",
@@ -1715,37 +2019,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "verify",
-    "skill": "elaboration",
-    "question": "In a public-transport survey, which term matches this meaning: “detail or evidence developing an idea”?",
-    "audio_prompt": "In a public-transport survey, which term matches this meaning: “detail or evidence developing an idea”?",
+    "stage": "independent",
+    "skill": "pace and pause edit",
+    "question": "Which edit best demonstrates pace and pause in a school magazine?",
+    "audio_prompt": "Which edit best demonstrates pace and pause in a school magazine?",
     "answers": [
       {
-        "text": "signposting",
+        "text": "State what the audience should understand or do by the end.",
         "is_correct": false
       },
       {
-        "text": "delivery",
-        "is_correct": false
-      },
-      {
-        "text": "elaboration",
+        "text": "Mark purposeful pauses in rehearsal notes.",
         "is_correct": true
       },
       {
-        "text": "It does not match the evidence in the example.",
+        "text": "Use concise previews and transitions rather than reading slide headings.",
+        "is_correct": false
+      },
+      {
+        "text": "Answer the opening question through the body and conclusion.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "elaboration is the precise term for detail or evidence developing an idea.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies pace and pause accurately.",
+      "hint": "Choose purposeful accuracy."
     },
     "difficulty": 3,
-    "difficulty_tier": "verify",
+    "difficulty_tier": "independent",
     "sequence_priority": 6,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-T-007",
@@ -1753,37 +2057,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "verify",
-    "skill": "spoken_and_multimodal_presentations",
-    "question": "For a festival review, which slide best supports a presentation?",
-    "audio_prompt": "For a festival review, which slide best supports a presentation?",
+    "stage": "transfer",
+    "skill": "intonation misconception",
+    "question": "Which claim should an editor reject about “The voice rises on the genuine question and falls on the final recommendation.” in this school magazine?",
+    "audio_prompt": "Which claim should an editor reject about “The voice rises on the genuine question and falls on the final recommendation.” in this school magazine?",
     "answers": [
       {
-        "text": "A full script in tiny text",
+        "text": "The same script suits every audience.",
         "is_correct": false
       },
       {
-        "text": "An unrelated animation",
+        "text": "A presentation needs no structure if slides are numbered.",
         "is_correct": false
       },
       {
-        "text": "A blank decorative screen",
-        "is_correct": false
-      },
-      {
-        "text": "A readable graph with a concise heading and spoken explanation",
+        "text": "Intonation should be dramatic in every sentence.",
         "is_correct": true
+      },
+      {
+        "text": "Every presentation should begin with a joke.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 2,
     "explanation": {
-      "summary": "“A readable graph with a concise heading and spoken explanation” is supported by the language evidence and purpose of the text.",
-      "hint": "Rehearsal tests audience understanding, not just memorisation. Revise content when delivery problems reveal overload."
+      "summary": "The rejected claim overgeneralises intonation.",
+      "hint": "Check it against evidence."
     },
     "difficulty": 3,
-    "difficulty_tier": "verify",
+    "difficulty_tier": "transfer",
     "sequence_priority": 7,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-T-008",
@@ -1791,37 +2095,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "verify",
-    "skill": "independent_misconception_check",
-    "question": "A writer preparing a emergency-preparedness talk says, “Slides duplicate script”. Which response is most accurate?",
-    "audio_prompt": "A writer preparing a emergency-preparedness talk says, “Slides duplicate script”. Which response is most accurate?",
+    "stage": "transfer",
+    "skill": "gesture and eye contact explanation",
+    "question": "Which explanation best accounts for “A gesture traces the process diagram while the speaker explains each stage.” in this school magazine?",
+    "audio_prompt": "Which explanation best accounts for “A gesture traces the process diagram while the speaker explains each stage.” in this school magazine?",
     "answers": [
       {
-        "text": "Use models and cues.",
+        "text": "Content and explanation are adapted to what the audience needs and knows.",
+        "is_correct": false
+      },
+      {
+        "text": "Verbal signposts help listeners follow information they cannot reread instantly.",
+        "is_correct": false
+      },
+      {
+        "text": "The relevant question activates curiosity and establishes purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "The movement directs attention and coordinates spoken and visual information.",
         "is_correct": true
-      },
-      {
-        "text": "Confidence replaces content",
-        "is_correct": false
-      },
-      {
-        "text": "Slides duplicate script",
-        "is_correct": false
-      },
-      {
-        "text": "Loudest voice considered best",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Use models and cues. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "The movement directs attention and coordinates spoken and visual information.",
+      "hint": "Connect evidence and effect."
     },
     "difficulty": 3,
-    "difficulty_tier": "verify",
+    "difficulty_tier": "transfer",
     "sequence_priority": 8,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-T-009",
@@ -1829,37 +2133,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "apply",
-    "skill": "weak_transition",
-    "question": "A water-saving brochure includes “add signposting”. Which description best fits this wording?",
-    "audio_prompt": "A water-saving brochure includes “add signposting”. Which description best fits this wording?",
+    "stage": "independent",
+    "skill": "slide design",
+    "question": "In a community website, “One slide shows a labelled diagram and six key words rather than a full script.” Which analysis is strongest?",
+    "audio_prompt": "In a community website, “One slide shows a labelled diagram and six key words rather than a full script.” Which analysis is strongest?",
     "answers": [
       {
-        "text": "opening",
-        "is_correct": false
-      },
-      {
-        "text": "weak transition",
+        "text": "slide design: Low text density supports listening and makes the visual readable.",
         "is_correct": true
       },
       {
-        "text": "idea 1",
+        "text": "audience and purpose: Content and explanation are adapted to what the audience needs and knows.",
         "is_correct": false
       },
       {
-        "text": "idea 2",
+        "text": "spoken structure: Verbal signposts help listeners follow information they cannot reread instantly.",
+        "is_correct": false
+      },
+      {
+        "text": "opening: The relevant question activates curiosity and establishes purpose.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The wording best matches weak transition.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "slide design is supported by exact evidence.",
+      "hint": "Identify, cite and explain."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "independent",
     "sequence_priority": 9,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-T-010",
@@ -1867,37 +2171,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "apply",
-    "skill": "delivery",
-    "question": "In a local council submission, which term matches this meaning: “voice, body and timing choices”?",
-    "audio_prompt": "In a local council submission, which term matches this meaning: “voice, body and timing choices”?",
+    "stage": "independent",
+    "skill": "multimodal coordination edit",
+    "question": "Which edit best demonstrates multimodal coordination in a community website?",
+    "audio_prompt": "Which edit best demonstrates multimodal coordination in a community website?",
     "answers": [
       {
-        "text": "signposting",
+        "text": "State what the audience should understand or do by the end.",
         "is_correct": false
       },
       {
-        "text": "elaboration",
-        "is_correct": false
-      },
-      {
-        "text": "delivery",
+        "text": "Introduce what listeners should notice before playing media.",
         "is_correct": true
       },
       {
-        "text": "It does not match the evidence in the example.",
+        "text": "Use concise previews and transitions rather than reading slide headings.",
+        "is_correct": false
+      },
+      {
+        "text": "Answer the opening question through the body and conclusion.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "delivery is the precise term for voice, body and timing choices.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies multimodal coordination accurately.",
+      "hint": "Choose purposeful accuracy."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "independent",
     "sequence_priority": 10,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-T-011",
@@ -1905,37 +2209,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "apply",
-    "skill": "spoken_and_multimodal_presentations",
-    "question": "For a marine-research diary, which slide best supports a presentation?",
-    "audio_prompt": "For a marine-research diary, which slide best supports a presentation?",
+    "stage": "transfer",
+    "skill": "rehearsal misconception",
+    "question": "Which claim should an editor reject about “The group times transitions, tests media and practises recovery if a video fails.” in this community website?",
+    "audio_prompt": "Which claim should an editor reject about “The group times transitions, tests media and practises recovery if a video fails.” in this community website?",
     "answers": [
       {
-        "text": "A full script in tiny text",
+        "text": "The same script suits every audience.",
         "is_correct": false
       },
       {
-        "text": "An unrelated animation",
+        "text": "A presentation needs no structure if slides are numbered.",
         "is_correct": false
       },
       {
-        "text": "A blank decorative screen",
-        "is_correct": false
-      },
-      {
-        "text": "A readable graph with a concise heading and spoken explanation",
+        "text": "Rehearsal means memorising every word exactly.",
         "is_correct": true
+      },
+      {
+        "text": "Every presentation should begin with a joke.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 2,
     "explanation": {
-      "summary": "“A readable graph with a concise heading and spoken explanation” is supported by the language evidence and purpose of the text.",
-      "hint": "Rehearsal tests audience understanding, not just memorisation. Revise content when delivery problems reveal overload."
+      "summary": "The rejected claim overgeneralises rehearsal.",
+      "hint": "Check it against evidence."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "transfer",
     "sequence_priority": 11,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-T-012",
@@ -1943,37 +2247,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "apply",
-    "skill": "independent_misconception_check",
-    "question": "A writer preparing a farmers market profile says, “Slides duplicate script”. Which response is most accurate?",
-    "audio_prompt": "A writer preparing a farmers market profile says, “Slides duplicate script”. Which response is most accurate?",
+    "stage": "transfer",
+    "skill": "question response explanation",
+    "question": "Which explanation best accounts for “The presenter paraphrases an audience question, answers with evidence and admits one limit.” in this community website?",
+    "audio_prompt": "Which explanation best accounts for “The presenter paraphrases an audience question, answers with evidence and admits one limit.” in this community website?",
     "answers": [
       {
-        "text": "Use models and cues.",
+        "text": "Content and explanation are adapted to what the audience needs and knows.",
+        "is_correct": false
+      },
+      {
+        "text": "Verbal signposts help listeners follow information they cannot reread instantly.",
+        "is_correct": false
+      },
+      {
+        "text": "The relevant question activates curiosity and establishes purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "The response confirms understanding and maintains credibility.",
         "is_correct": true
-      },
-      {
-        "text": "Confidence replaces content",
-        "is_correct": false
-      },
-      {
-        "text": "Slides duplicate script",
-        "is_correct": false
-      },
-      {
-        "text": "Loudest voice considered best",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Use models and cues. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "The response confirms understanding and maintains credibility.",
+      "hint": "Connect evidence and effect."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "transfer",
     "sequence_priority": 12,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-T-013",
@@ -1981,37 +2285,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "apply",
-    "skill": "weak_transition",
-    "question": "A astronomy exhibition includes “add signposting”. Which description best fits this wording?",
-    "audio_prompt": "A astronomy exhibition includes “add signposting”. Which description best fits this wording?",
+    "stage": "independent",
+    "skill": "audience and purpose",
+    "question": "In a student presentation, “A science presentation for families defines technical terms and demonstrates one safe experiment.” Which analysis is strongest?",
+    "audio_prompt": "In a student presentation, “A science presentation for families defines technical terms and demonstrates one safe experiment.” Which analysis is strongest?",
     "answers": [
       {
-        "text": "opening",
-        "is_correct": false
-      },
-      {
-        "text": "weak transition",
+        "text": "audience and purpose: Content and explanation are adapted to what the audience needs and knows.",
         "is_correct": true
       },
       {
-        "text": "idea 1",
+        "text": "spoken structure: Verbal signposts help listeners follow information they cannot reread instantly.",
         "is_correct": false
       },
       {
-        "text": "idea 2",
+        "text": "opening: The relevant question activates curiosity and establishes purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "evidence explanation: Spoken interpretation connects visual evidence to the central claim.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The wording best matches weak transition.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "audience and purpose is supported by exact evidence.",
+      "hint": "Identify, cite and explain."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "independent",
     "sequence_priority": 13,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-T-014",
@@ -2019,37 +2323,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "apply",
-    "skill": "signposting",
-    "question": "In a river-restoration update, which term matches this meaning: “language signalling organisation”?",
-    "audio_prompt": "In a river-restoration update, which term matches this meaning: “language signalling organisation”?",
+    "stage": "independent",
+    "skill": "spoken structure edit",
+    "question": "Which edit best demonstrates spoken structure in a student presentation?",
+    "audio_prompt": "Which edit best demonstrates spoken structure in a student presentation?",
     "answers": [
       {
-        "text": "elaboration",
+        "text": "State what the audience should understand or do by the end.",
         "is_correct": false
       },
       {
-        "text": "delivery",
-        "is_correct": false
-      },
-      {
-        "text": "signposting",
+        "text": "Use concise previews and transitions rather than reading slide headings.",
         "is_correct": true
       },
       {
-        "text": "It does not match the evidence in the example.",
+        "text": "Answer the opening question through the body and conclusion.",
+        "is_correct": false
+      },
+      {
+        "text": "Pause so the audience can locate the axes before explaining the trend.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "signposting is the precise term for language signalling organisation.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies spoken structure accurately.",
+      "hint": "Choose purposeful accuracy."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "independent",
     "sequence_priority": 14,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-T-015",
@@ -2057,37 +2361,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "apply",
-    "skill": "spoken_and_multimodal_presentations",
-    "question": "For a cycling-safety campaign, which slide best supports a presentation?",
-    "audio_prompt": "For a cycling-safety campaign, which slide best supports a presentation?",
+    "stage": "transfer",
+    "skill": "opening misconception",
+    "question": "Which claim should an editor reject about “A brief question—“Where does our lunch waste go?”—introduces the investigation.” in this student presentation?",
+    "audio_prompt": "Which claim should an editor reject about “A brief question—“Where does our lunch waste go?”—introduces the investigation.” in this student presentation?",
     "answers": [
       {
-        "text": "A full script in tiny text",
+        "text": "The same script suits every audience.",
         "is_correct": false
       },
       {
-        "text": "An unrelated animation",
+        "text": "A presentation needs no structure if slides are numbered.",
         "is_correct": false
       },
       {
-        "text": "A blank decorative screen",
-        "is_correct": false
-      },
-      {
-        "text": "A readable graph with a concise heading and spoken explanation",
+        "text": "Every presentation should begin with a joke.",
         "is_correct": true
+      },
+      {
+        "text": "Displaying a graph is enough; it needs no explanation.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 2,
     "explanation": {
-      "summary": "“A readable graph with a concise heading and spoken explanation” is supported by the language evidence and purpose of the text.",
-      "hint": "Rehearsal tests audience understanding, not just memorisation. Revise content when delivery problems reveal overload."
+      "summary": "The rejected claim overgeneralises opening.",
+      "hint": "Check it against evidence."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "transfer",
     "sequence_priority": 15,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY07-T-016",
@@ -2095,36 +2399,36 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "apply",
-    "skill": "independent_misconception_check",
-    "question": "A writer preparing a neighbourhood history podcast says, “Slides duplicate script”. Which response is most accurate?",
-    "audio_prompt": "A writer preparing a neighbourhood history podcast says, “Slides duplicate script”. Which response is most accurate?",
+    "stage": "transfer",
+    "skill": "evidence explanation explanation",
+    "question": "Which explanation best accounts for “The speaker shows a graph, names the trend and explains its relevance to the proposal.” in this student presentation?",
+    "audio_prompt": "Which explanation best accounts for “The speaker shows a graph, names the trend and explains its relevance to the proposal.” in this student presentation?",
     "answers": [
       {
-        "text": "Use models and cues.",
+        "text": "Content and explanation are adapted to what the audience needs and knows.",
+        "is_correct": false
+      },
+      {
+        "text": "Verbal signposts help listeners follow information they cannot reread instantly.",
+        "is_correct": false
+      },
+      {
+        "text": "The relevant question activates curiosity and establishes purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Spoken interpretation connects visual evidence to the central claim.",
         "is_correct": true
-      },
-      {
-        "text": "Confidence replaces content",
-        "is_correct": false
-      },
-      {
-        "text": "Slides duplicate script",
-        "is_correct": false
-      },
-      {
-        "text": "Loudest voice considered best",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Use models and cues. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "Spoken interpretation connects visual evidence to the central claim.",
+      "hint": "Connect evidence and effect."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "transfer",
     "sequence_priority": 16,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   }
 ]

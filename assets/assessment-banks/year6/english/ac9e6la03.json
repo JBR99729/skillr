@@ -5,37 +5,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "identify_stages",
-    "question": "In a class podcast, which sequence best suits a scientific investigation report?",
-    "audio_prompt": "In a class podcast, which sequence best suits a scientific investigation report?",
+    "stage": "foundation",
+    "skill": "information report",
+    "question": "Read: “Wetlands are defined first; later sections group details about plants, animals and water quality.” Which description best identifies the highlighted language or text choice?",
+    "audio_prompt": "Read: “Wetlands are defined first; later sections group details about plants, animals and water quality.” Which description best identifies the highlighted language or text choice?",
     "answers": [
       {
-        "text": "orientation, climax, resolution only",
-        "is_correct": false
-      },
-      {
-        "text": "slogan, price, purchase",
-        "is_correct": false
-      },
-      {
-        "text": "question, method, results, conclusion",
+        "text": "information report",
         "is_correct": true
       },
       {
-        "text": "greeting, joke, farewell",
+        "text": "explanation",
+        "is_correct": false
+      },
+      {
+        "text": "procedure",
+        "is_correct": false
+      },
+      {
+        "text": "historical recount",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "“question, method, results, conclusion” is the strongest choice because it matches the language feature and the situation.",
-      "hint": "Structures are typical resources, not rigid templates. Writers adapt them while preserving recognisable purpose."
+      "summary": "This is information report: Classification followed by grouped description helps readers build organised knowledge.",
+      "hint": "Name the exact feature before explaining its effect."
     },
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "foundation",
     "sequence_priority": 1,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-P-002",
@@ -43,37 +43,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "phase",
-    "question": "Which term best matches this meaning: “smaller move developing a stage”?",
-    "audio_prompt": "Which term best matches this meaning: “smaller move developing a stage”?",
+    "stage": "foundation",
+    "skill": "information report-effect",
+    "question": "Why is this choice effective in context: “Wetlands are defined first; later sections group details about plants, animals and water quality.”?",
+    "audio_prompt": "Why is this choice effective in context: “Wetlands are defined first; later sections group details about plants, animals and water quality.”?",
     "answers": [
       {
-        "text": "stage",
+        "text": "A phenomenon-to-causes-to-result sequence answers how or why something occurs.",
         "is_correct": false
       },
       {
-        "text": "disciplinary language",
-        "is_correct": false
-      },
-      {
-        "text": "It does not match the evidence in the example.",
-        "is_correct": false
-      },
-      {
-        "text": "phase",
+        "text": "Classification followed by grouped description helps readers build organised knowledge.",
         "is_correct": true
+      },
+      {
+        "text": "The order enables a reader to complete a task accurately and safely.",
+        "is_correct": false
+      },
+      {
+        "text": "Chronology helps readers follow what happened over time.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "explanation": {
-      "summary": "phase means smaller move developing a stage.",
-      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
+      "summary": "Classification followed by grouped description helps readers build organised knowledge.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "foundation",
     "sequence_priority": 2,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-P-003",
@@ -81,37 +81,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "argument",
-    "question": "Read this example from a science investigation: “position–reasons–evidence–counterpoint–conclusion”. Which label best describes what the language is doing?",
-    "audio_prompt": "Read this example from a science investigation: “position–reasons–evidence–counterpoint–conclusion”. Which label best describes what the language is doing?",
+    "stage": "core",
+    "skill": "information report-revision",
+    "question": "Which revision best applies information report to the idea in “Wetlands are defined first; later sections group details about plants, animals and water quality.”?",
+    "audio_prompt": "Which revision best applies information report to the idea in “Wetlands are defined first; later sections group details about plants, animals and water quality.”?",
     "answers": [
       {
-        "text": "argument",
+        "text": "Move the result after the linked causes so the process is easy to follow.",
+        "is_correct": false
+      },
+      {
+        "text": "Place the warning immediately before the step where the hazard occurs.",
+        "is_correct": false
+      },
+      {
+        "text": "Use headings for classification, habitat, species and threats.",
         "is_correct": true
       },
       {
-        "text": "science investigation",
-        "is_correct": false
-      },
-      {
-        "text": "historical explanation",
-        "is_correct": false
-      },
-      {
-        "text": "procedure",
+        "text": "Add dated evidence and transitions such as “later that year”.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "“position–reasons–evidence–counterpoint–conclusion” is an example of argument; here it modality and evaluation.",
-      "hint": "Structures are typical resources, not rigid templates. Writers adapt them while preserving recognisable purpose."
+      "summary": "The revision applies information report deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 3,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-P-004",
@@ -119,37 +119,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "misconception_repair",
-    "question": "Which correction best fixes this idea: “Visuals excluded from structure”?",
-    "audio_prompt": "Which correction best fixes this idea: “Visuals excluded from structure”?",
+    "stage": "core",
+    "skill": "information report-misconception",
+    "question": "A student says, “Every information report must be written in time order.” Which response best corrects the misconception?",
+    "audio_prompt": "A student says, “Every information report must be written in time order.” Which response best corrects the misconception?",
     "answers": [
       {
-        "text": "Stage equals one paragraph",
+        "text": "Every information report must be written in time order.",
         "is_correct": false
       },
       {
-        "text": "They can form explanatory phases.",
+        "text": "An explanation and a procedure have the same purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Numbered steps alone prove that a text is a procedure.",
+        "is_correct": false
+      },
+      {
+        "text": "The claim is too broad; the example shows that classification followed by grouped description helps readers build organised knowledge.",
         "is_correct": true
-      },
-      {
-        "text": "Every subject uses one text type",
-        "is_correct": false
-      },
-      {
-        "text": "Template followed without adaptation",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "They can form explanatory phases. This fixes the misconception without creating a new rule that is too broad.",
-      "hint": "Check the actual language evidence rather than relying on an absolute rule."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 4,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-P-005",
@@ -157,37 +157,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "science_investigation",
-    "question": "Which example would be most useful when explaining organisation of curriculum texts in a sports-club discussion?",
-    "audio_prompt": "Which example would be most useful when explaining organisation of curriculum texts in a sports-club discussion?",
+    "stage": "foundation",
+    "skill": "explanation",
+    "question": "Read: “The text identifies erosion, traces wind and water action, then explains the changed coastline.” Which description best identifies the highlighted language or text choice?",
+    "audio_prompt": "Read: “The text identifies erosion, traces wind and water action, then explains the changed coastline.” Which description best identifies the highlighted language or text choice?",
     "answers": [
       {
-        "text": "context–causes–events–consequences",
-        "is_correct": false
-      },
-      {
-        "text": "position–reasons–evidence–counterpoint–conclusion",
-        "is_correct": false
-      },
-      {
-        "text": "question–method–results–conclusion",
+        "text": "explanation",
         "is_correct": true
       },
       {
-        "text": "goal–requirements–ordered steps–check",
+        "text": "information report",
+        "is_correct": false
+      },
+      {
+        "text": "procedure",
+        "is_correct": false
+      },
+      {
+        "text": "historical recount",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "This example directly demonstrates science investigation and can be explained using the language clue in the text.",
-      "hint": "Students compare reports, explanations, arguments, procedures, historical accounts and multimodal presentations and connect their stages, evidence patterns and specialised language to purpose."
+      "summary": "This is explanation: A phenomenon-to-causes-to-result sequence answers how or why something occurs.",
+      "hint": "Name the exact feature before explaining its effect."
     },
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "foundation",
     "sequence_priority": 5,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-P-006",
@@ -195,37 +195,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "identify_stages",
-    "question": "In a library display, what is a phase?",
-    "audio_prompt": "In a library display, what is a phase?",
+    "stage": "foundation",
+    "skill": "explanation-effect",
+    "question": "Why is this choice effective in context: “The text identifies erosion, traces wind and water action, then explains the changed coastline.”?",
+    "audio_prompt": "Why is this choice effective in context: “The text identifies erosion, traces wind and water action, then explains the changed coastline.”?",
     "answers": [
       {
-        "text": "Always a whole book",
+        "text": "Classification followed by grouped description helps readers build organised knowledge.",
         "is_correct": false
       },
       {
-        "text": "A punctuation mark",
-        "is_correct": false
-      },
-      {
-        "text": "An unrelated decoration",
-        "is_correct": false
-      },
-      {
-        "text": "A smaller functional move within a stage",
+        "text": "A phenomenon-to-causes-to-result sequence answers how or why something occurs.",
         "is_correct": true
+      },
+      {
+        "text": "The order enables a reader to complete a task accurately and safely.",
+        "is_correct": false
+      },
+      {
+        "text": "Chronology helps readers follow what happened over time.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“A smaller functional move within a stage” is the strongest choice because it matches the language feature and the situation.",
-      "hint": "Structures are typical resources, not rigid templates. Writers adapt them while preserving recognisable purpose."
+      "summary": "A phenomenon-to-causes-to-result sequence answers how or why something occurs.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "foundation",
     "sequence_priority": 6,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-P-007",
@@ -233,37 +233,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "stage",
-    "question": "Which term best matches this meaning: “major functional section”?",
-    "audio_prompt": "Which term best matches this meaning: “major functional section”?",
+    "stage": "core",
+    "skill": "explanation-revision",
+    "question": "Which revision best applies explanation to the idea in “The text identifies erosion, traces wind and water action, then explains the changed coastline.”?",
+    "audio_prompt": "Which revision best applies explanation to the idea in “The text identifies erosion, traces wind and water action, then explains the changed coastline.”?",
     "answers": [
       {
-        "text": "stage",
+        "text": "Use headings for classification, habitat, species and threats.",
+        "is_correct": false
+      },
+      {
+        "text": "Place the warning immediately before the step where the hazard occurs.",
+        "is_correct": false
+      },
+      {
+        "text": "Move the result after the linked causes so the process is easy to follow.",
         "is_correct": true
       },
       {
-        "text": "phase",
-        "is_correct": false
-      },
-      {
-        "text": "disciplinary language",
-        "is_correct": false
-      },
-      {
-        "text": "It does not match the evidence in the example.",
+        "text": "Add dated evidence and transitions such as “later that year”.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "stage means major functional section.",
-      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
+      "summary": "The revision applies explanation deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 7,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-P-008",
@@ -271,37 +271,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "procedure",
-    "question": "Read this example from a student council meeting: “goal–requirements–ordered steps–check”. Which label best describes what the language is doing?",
-    "audio_prompt": "Read this example from a student council meeting: “goal–requirements–ordered steps–check”. Which label best describes what the language is doing?",
+    "stage": "core",
+    "skill": "explanation-misconception",
+    "question": "A student says, “An explanation and a procedure have the same purpose.” Which response best corrects the misconception?",
+    "audio_prompt": "A student says, “An explanation and a procedure have the same purpose.” Which response best corrects the misconception?",
     "answers": [
       {
-        "text": "science investigation",
+        "text": "Every information report must be written in time order.",
         "is_correct": false
       },
       {
-        "text": "procedure",
+        "text": "An explanation and a procedure have the same purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Numbered steps alone prove that a text is a procedure.",
+        "is_correct": false
+      },
+      {
+        "text": "The claim is too broad; the example shows that a phenomenon-to-causes-to-result sequence answers how or why something occurs.",
         "is_correct": true
-      },
-      {
-        "text": "historical explanation",
-        "is_correct": false
-      },
-      {
-        "text": "argument",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "“goal–requirements–ordered steps–check” is an example of procedure; here it commands and conditions.",
-      "hint": "Structures are typical resources, not rigid templates. Writers adapt them while preserving recognisable purpose."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 8,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-P-009",
@@ -309,37 +309,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "misconception_repair",
-    "question": "Which correction best fixes this idea: “Stage equals one paragraph”?",
-    "audio_prompt": "Which correction best fixes this idea: “Stage equals one paragraph”?",
+    "stage": "foundation",
+    "skill": "procedure",
+    "question": "Read: “The page states a goal, lists equipment, gives numbered steps and finishes with a safety check.” Which description best identifies the highlighted language or text choice?",
+    "audio_prompt": "Read: “The page states a goal, lists equipment, gives numbered steps and finishes with a safety check.” Which description best identifies the highlighted language or text choice?",
     "answers": [
       {
-        "text": "Stage equals one paragraph",
-        "is_correct": false
-      },
-      {
-        "text": "Every subject uses one text type",
-        "is_correct": false
-      },
-      {
-        "text": "Stages can span several paragraphs or modes.",
+        "text": "procedure",
         "is_correct": true
       },
       {
-        "text": "Template followed without adaptation",
+        "text": "information report",
+        "is_correct": false
+      },
+      {
+        "text": "explanation",
+        "is_correct": false
+      },
+      {
+        "text": "historical recount",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Stages can span several paragraphs or modes. This fixes the misconception without creating a new rule that is too broad.",
-      "hint": "Check the actual language evidence rather than relying on an absolute rule."
+      "summary": "This is procedure: The order enables a reader to complete a task accurately and safely.",
+      "hint": "Name the exact feature before explaining its effect."
     },
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "foundation",
     "sequence_priority": 9,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-P-010",
@@ -347,37 +347,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "historical_explanation",
-    "question": "Which example would be most useful when explaining organisation of curriculum texts in a environmental campaign?",
-    "audio_prompt": "Which example would be most useful when explaining organisation of curriculum texts in a environmental campaign?",
+    "stage": "foundation",
+    "skill": "procedure-effect",
+    "question": "Why is this choice effective in context: “The page states a goal, lists equipment, gives numbered steps and finishes with a safety check.”?",
+    "audio_prompt": "Why is this choice effective in context: “The page states a goal, lists equipment, gives numbered steps and finishes with a safety check.”?",
     "answers": [
       {
-        "text": "question–method–results–conclusion",
+        "text": "Classification followed by grouped description helps readers build organised knowledge.",
         "is_correct": false
       },
       {
-        "text": "position–reasons–evidence–counterpoint–conclusion",
-        "is_correct": false
-      },
-      {
-        "text": "goal–requirements–ordered steps–check",
-        "is_correct": false
-      },
-      {
-        "text": "context–causes–events–consequences",
+        "text": "The order enables a reader to complete a task accurately and safely.",
         "is_correct": true
+      },
+      {
+        "text": "A phenomenon-to-causes-to-result sequence answers how or why something occurs.",
+        "is_correct": false
+      },
+      {
+        "text": "Chronology helps readers follow what happened over time.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "explanation": {
-      "summary": "This example directly demonstrates historical explanation and can be explained using the language clue in the text.",
-      "hint": "Students compare reports, explanations, arguments, procedures, historical accounts and multimodal presentations and connect their stages, evidence patterns and specialised language to purpose."
+      "summary": "The order enables a reader to complete a task accurately and safely.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "foundation",
     "sequence_priority": 10,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-P-011",
@@ -385,37 +385,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "argument",
-    "question": "A museum caption includes “position–reasons–evidence–counterpoint–conclusion”. Why is this an effective example of argument?",
-    "audio_prompt": "A museum caption includes “position–reasons–evidence–counterpoint–conclusion”. Why is this an effective example of argument?",
+    "stage": "core",
+    "skill": "procedure-revision",
+    "question": "Which revision best applies procedure to the idea in “The page states a goal, lists equipment, gives numbered steps and finishes with a safety check.”?",
+    "audio_prompt": "Which revision best applies procedure to the idea in “The page states a goal, lists equipment, gives numbered steps and finishes with a safety check.”?",
     "answers": [
       {
-        "text": "It matches the purpose and the language clue in the example.",
+        "text": "Use headings for classification, habitat, species and threats.",
         "is_correct": false
       },
       {
-        "text": "Structures are typical resources, not rigid templates. Writers adapt them while preserving recognisable purpose.",
+        "text": "Move the result after the linked causes so the process is easy to follow.",
         "is_correct": false
       },
       {
-        "text": "Paragraphs, screens, diagrams, voice and navigation can all organise phases in multimodal texts.",
-        "is_correct": false
-      },
-      {
-        "text": "It modality and evaluation and supports the purpose of the text.",
+        "text": "Place the warning immediately before the step where the hazard occurs.",
         "is_correct": true
+      },
+      {
+        "text": "Add dated evidence and transitions such as “later that year”.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 2,
     "explanation": {
-      "summary": "position–reasons–evidence–counterpoint–conclusion works because modality and evaluation.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "The revision applies procedure deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "core",
     "sequence_priority": 11,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-P-012",
@@ -423,37 +423,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception_repair",
-    "question": "Why is “Purpose determines form.” a better rule than “Every subject uses one text type” when reading a student council meeting?",
-    "audio_prompt": "Why is “Purpose determines form.” a better rule than “Every subject uses one text type” when reading a student council meeting?",
+    "stage": "core",
+    "skill": "procedure-misconception",
+    "question": "A student says, “Numbered steps alone prove that a text is a procedure.” Which response best corrects the misconception?",
+    "audio_prompt": "A student says, “Numbered steps alone prove that a text is a procedure.” Which response best corrects the misconception?",
     "answers": [
       {
-        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "text": "Every information report must be written in time order.",
+        "is_correct": false
+      },
+      {
+        "text": "An explanation and a procedure have the same purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Numbered steps alone prove that a text is a procedure.",
+        "is_correct": false
+      },
+      {
+        "text": "The claim is too broad; the example shows that the order enables a reader to complete a task accurately and safely.",
         "is_correct": true
-      },
-      {
-        "text": "Because the longest rule is always the best one.",
-        "is_correct": false
-      },
-      {
-        "text": "Because exceptions never matter in English.",
-        "is_correct": false
-      },
-      {
-        "text": "Because a rule is correct whenever it uses technical words.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "“Purpose determines form.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "core",
     "sequence_priority": 12,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-P-013",
@@ -461,37 +461,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "science_investigation",
-    "question": "A local-history article includes “question–method–results–conclusion”. Why is this an effective example of science investigation?",
-    "audio_prompt": "A local-history article includes “question–method–results–conclusion”. Why is this an effective example of science investigation?",
+    "stage": "foundation",
+    "skill": "historical recount",
+    "question": "Read: “The account establishes the setting, sequences events and closes with their immediate outcome.” Which description best identifies the highlighted language or text choice?",
+    "audio_prompt": "Read: “The account establishes the setting, sequences events and closes with their immediate outcome.” Which description best identifies the highlighted language or text choice?",
     "answers": [
       {
-        "text": "It matches the purpose and the language clue in the example.",
-        "is_correct": false
-      },
-      {
-        "text": "It variables, measurements, cautious claims and supports the purpose of the text.",
+        "text": "historical recount",
         "is_correct": true
       },
       {
-        "text": "Structures are typical resources, not rigid templates. Writers adapt them while preserving recognisable purpose.",
+        "text": "information report",
         "is_correct": false
       },
       {
-        "text": "Paragraphs, screens, diagrams, voice and navigation can all organise phases in multimodal texts.",
+        "text": "explanation",
+        "is_correct": false
+      },
+      {
+        "text": "procedure",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "question–method–results–conclusion works because variables, measurements, cautious claims.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "This is historical recount: Chronology helps readers follow what happened over time.",
+      "hint": "Name the exact feature before explaining its effect."
     },
-    "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 13,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-P-014",
@@ -499,37 +499,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception_repair",
-    "question": "Why is “They can form explanatory phases.” a better rule than “Visuals excluded from structure” when reading a environmental campaign?",
-    "audio_prompt": "Why is “They can form explanatory phases.” a better rule than “Visuals excluded from structure” when reading a environmental campaign?",
+    "stage": "foundation",
+    "skill": "historical recount-effect",
+    "question": "Why is this choice effective in context: “The account establishes the setting, sequences events and closes with their immediate outcome.”?",
+    "audio_prompt": "Why is this choice effective in context: “The account establishes the setting, sequences events and closes with their immediate outcome.”?",
     "answers": [
       {
-        "text": "Because the longest rule is always the best one.",
+        "text": "Classification followed by grouped description helps readers build organised knowledge.",
         "is_correct": false
       },
       {
-        "text": "Because exceptions never matter in English.",
-        "is_correct": false
-      },
-      {
-        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "text": "Chronology helps readers follow what happened over time.",
         "is_correct": true
       },
       {
-        "text": "Because a rule is correct whenever it uses technical words.",
+        "text": "A phenomenon-to-causes-to-result sequence answers how or why something occurs.",
+        "is_correct": false
+      },
+      {
+        "text": "The order enables a reader to complete a task accurately and safely.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“They can form explanatory phases.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "Chronology helps readers follow what happened over time.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
-    "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 14,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-P-015",
@@ -537,37 +537,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "argument",
-    "question": "A book-club discussion includes “position–reasons–evidence–counterpoint–conclusion”. Why is this an effective example of argument?",
-    "audio_prompt": "A book-club discussion includes “position–reasons–evidence–counterpoint–conclusion”. Why is this an effective example of argument?",
+    "stage": "core",
+    "skill": "historical recount-revision",
+    "question": "Which revision best applies historical recount to the idea in “The account establishes the setting, sequences events and closes with their immediate outcome.”?",
+    "audio_prompt": "Which revision best applies historical recount to the idea in “The account establishes the setting, sequences events and closes with their immediate outcome.”?",
     "answers": [
       {
-        "text": "It matches the purpose and the language clue in the example.",
+        "text": "Use headings for classification, habitat, species and threats.",
         "is_correct": false
       },
       {
-        "text": "Structures are typical resources, not rigid templates. Writers adapt them while preserving recognisable purpose.",
+        "text": "Move the result after the linked causes so the process is easy to follow.",
         "is_correct": false
       },
       {
-        "text": "Paragraphs, screens, diagrams, voice and navigation can all organise phases in multimodal texts.",
-        "is_correct": false
-      },
-      {
-        "text": "It modality and evaluation and supports the purpose of the text.",
+        "text": "Add dated evidence and transitions such as “later that year”.",
         "is_correct": true
+      },
+      {
+        "text": "Place the warning immediately before the step where the hazard occurs.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 2,
     "explanation": {
-      "summary": "position–reasons–evidence–counterpoint–conclusion works because modality and evaluation.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "The revision applies historical recount deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "core",
     "sequence_priority": 15,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-P-016",
@@ -575,37 +575,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception_repair",
-    "question": "Why is “Purpose determines form.” a better rule than “Every subject uses one text type” when reading a excursion briefing?",
-    "audio_prompt": "Why is “Purpose determines form.” a better rule than “Every subject uses one text type” when reading a excursion briefing?",
+    "stage": "core",
+    "skill": "historical recount-misconception",
+    "question": "A student says, “A historical recount should never explain causes.” Which response best corrects the misconception?",
+    "audio_prompt": "A student says, “A historical recount should never explain causes.” Which response best corrects the misconception?",
     "answers": [
       {
-        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "text": "Every information report must be written in time order.",
+        "is_correct": false
+      },
+      {
+        "text": "An explanation and a procedure have the same purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Numbered steps alone prove that a text is a procedure.",
+        "is_correct": false
+      },
+      {
+        "text": "The claim is too broad; the example shows that chronology helps readers follow what happened over time.",
         "is_correct": true
-      },
-      {
-        "text": "Because the longest rule is always the best one.",
-        "is_correct": false
-      },
-      {
-        "text": "Because exceptions never matter in English.",
-        "is_correct": false
-      },
-      {
-        "text": "Because a rule is correct whenever it uses technical words.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "“Purpose determines form.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "core",
     "sequence_priority": 16,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-P-017",
@@ -613,37 +613,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "science_investigation",
-    "question": "A design project includes “question–method–results–conclusion”. Why is this an effective example of science investigation?",
-    "audio_prompt": "A design project includes “question–method–results–conclusion”. Why is this an effective example of science investigation?",
+    "stage": "foundation",
+    "skill": "persuasive argument",
+    "question": "Read: “The writer states a position, gives reasons and evidence, addresses a counterargument and concludes.” Which description best identifies the highlighted language or text choice?",
+    "audio_prompt": "Read: “The writer states a position, gives reasons and evidence, addresses a counterargument and concludes.” Which description best identifies the highlighted language or text choice?",
     "answers": [
       {
-        "text": "It matches the purpose and the language clue in the example.",
-        "is_correct": false
-      },
-      {
-        "text": "It variables, measurements, cautious claims and supports the purpose of the text.",
+        "text": "persuasive argument",
         "is_correct": true
       },
       {
-        "text": "Structures are typical resources, not rigid templates. Writers adapt them while preserving recognisable purpose.",
+        "text": "information report",
         "is_correct": false
       },
       {
-        "text": "Paragraphs, screens, diagrams, voice and navigation can all organise phases in multimodal texts.",
+        "text": "explanation",
+        "is_correct": false
+      },
+      {
+        "text": "procedure",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "question–method–results–conclusion works because variables, measurements, cautious claims.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "This is persuasive argument: The stages build and defend a position while acknowledging another view.",
+      "hint": "Name the exact feature before explaining its effect."
     },
-    "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 17,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-P-018",
@@ -651,37 +651,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception_repair",
-    "question": "Why is “They can form explanatory phases.” a better rule than “Visuals excluded from structure” when reading a weather report?",
-    "audio_prompt": "Why is “They can form explanatory phases.” a better rule than “Visuals excluded from structure” when reading a weather report?",
+    "stage": "foundation",
+    "skill": "persuasive argument-effect",
+    "question": "Why is this choice effective in context: “The writer states a position, gives reasons and evidence, addresses a counterargument and concludes.”?",
+    "audio_prompt": "Why is this choice effective in context: “The writer states a position, gives reasons and evidence, addresses a counterargument and concludes.”?",
     "answers": [
       {
-        "text": "Because the longest rule is always the best one.",
+        "text": "Classification followed by grouped description helps readers build organised knowledge.",
         "is_correct": false
       },
       {
-        "text": "Because exceptions never matter in English.",
-        "is_correct": false
-      },
-      {
-        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "text": "The stages build and defend a position while acknowledging another view.",
         "is_correct": true
       },
       {
-        "text": "Because a rule is correct whenever it uses technical words.",
+        "text": "A phenomenon-to-causes-to-result sequence answers how or why something occurs.",
+        "is_correct": false
+      },
+      {
+        "text": "The order enables a reader to complete a task accurately and safely.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“They can form explanatory phases.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The stages build and defend a position while acknowledging another view.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
-    "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 18,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-P-019",
@@ -689,37 +689,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "argument",
-    "question": "A school assembly includes “position–reasons–evidence–counterpoint–conclusion”. Why is this an effective example of argument?",
-    "audio_prompt": "A school assembly includes “position–reasons–evidence–counterpoint–conclusion”. Why is this an effective example of argument?",
+    "stage": "application",
+    "skill": "persuasive argument-revision",
+    "question": "Which revision best applies persuasive argument to the idea in “The writer states a position, gives reasons and evidence, addresses a counterargument and concludes.”?",
+    "audio_prompt": "Which revision best applies persuasive argument to the idea in “The writer states a position, gives reasons and evidence, addresses a counterargument and concludes.”?",
     "answers": [
       {
-        "text": "It matches the purpose and the language clue in the example.",
+        "text": "Use headings for classification, habitat, species and threats.",
         "is_correct": false
       },
       {
-        "text": "Structures are typical resources, not rigid templates. Writers adapt them while preserving recognisable purpose.",
+        "text": "Move the result after the linked causes so the process is easy to follow.",
         "is_correct": false
       },
       {
-        "text": "Paragraphs, screens, diagrams, voice and navigation can all organise phases in multimodal texts.",
-        "is_correct": false
-      },
-      {
-        "text": "It modality and evaluation and supports the purpose of the text.",
+        "text": "Place the counterargument before the final recommendation.",
         "is_correct": true
+      },
+      {
+        "text": "Place the warning immediately before the step where the hazard occurs.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 2,
     "explanation": {
-      "summary": "position–reasons–evidence–counterpoint–conclusion works because modality and evaluation.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "The revision applies persuasive argument deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
-    "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty": 3,
+    "difficulty_tier": "application",
     "sequence_priority": 19,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-P-020",
@@ -727,37 +727,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception_repair",
-    "question": "Why is “Purpose determines form.” a better rule than “Every subject uses one text type” when reading a peer feedback session?",
-    "audio_prompt": "Why is “Purpose determines form.” a better rule than “Every subject uses one text type” when reading a peer feedback session?",
+    "stage": "core",
+    "skill": "persuasive argument-misconception",
+    "question": "A student says, “A persuasive text needs only a strong opinion.” Which response best corrects the misconception?",
+    "audio_prompt": "A student says, “A persuasive text needs only a strong opinion.” Which response best corrects the misconception?",
     "answers": [
       {
-        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "text": "Every information report must be written in time order.",
+        "is_correct": false
+      },
+      {
+        "text": "An explanation and a procedure have the same purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Numbered steps alone prove that a text is a procedure.",
+        "is_correct": false
+      },
+      {
+        "text": "The claim is too broad; the example shows that the stages build and defend a position while acknowledging another view.",
         "is_correct": true
-      },
-      {
-        "text": "Because the longest rule is always the best one.",
-        "is_correct": false
-      },
-      {
-        "text": "Because exceptions never matter in English.",
-        "is_correct": false
-      },
-      {
-        "text": "Because a rule is correct whenever it uses technical words.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "“Purpose determines form.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "core",
     "sequence_priority": 20,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-P-021",
@@ -765,37 +765,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_language_choices",
-    "question": "A excursion briefing could use either “question–method–results–conclusion” or “example → evidence → interpretation”. Which comparison is most accurate?",
-    "audio_prompt": "A excursion briefing could use either “question–method–results–conclusion” or “example → evidence → interpretation”. Which comparison is most accurate?",
+    "stage": "foundation",
+    "skill": "narrative",
+    "question": "Read: “The story introduces the setting, develops a complication and resolves the conflict.” Which description best identifies the highlighted language or text choice?",
+    "audio_prompt": "Read: “The story introduces the setting, develops a complication and resolves the conflict.” Which description best identifies the highlighted language or text choice?",
     "answers": [
       {
-        "text": "“question–method–results–conclusion” shows science investigation, while “example → evidence → interpretation” shows Phase.",
+        "text": "narrative",
         "is_correct": true
       },
       {
-        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "text": "information report",
         "is_correct": false
       },
       {
-        "text": "The longer example is automatically more formal and therefore better.",
+        "text": "explanation",
         "is_correct": false
       },
       {
-        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "text": "procedure",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The important difference is the language function: science investigation versus Phase.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "This is narrative: The stages build expectations and show how characters respond to change.",
+      "hint": "Name the exact feature before explaining its effect."
     },
-    "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 21,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-P-022",
@@ -803,37 +803,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_misconception",
-    "question": "Which statement would help you reject the tempting rule “Template followed without adaptation” in a design project?",
-    "audio_prompt": "Which statement would help you reject the tempting rule “Template followed without adaptation” in a design project?",
+    "stage": "foundation",
+    "skill": "narrative-effect",
+    "question": "Why is this choice effective in context: “The story introduces the setting, develops a complication and resolves the conflict.”?",
+    "audio_prompt": "Why is this choice effective in context: “The story introduces the setting, develops a complication and resolves the conflict.”?",
     "answers": [
       {
-        "text": "Stage equals one paragraph",
+        "text": "Classification followed by grouped description helps readers build organised knowledge.",
         "is_correct": false
       },
       {
-        "text": "Audience and evidence shape organisation.",
+        "text": "The stages build expectations and show how characters respond to change.",
         "is_correct": true
       },
       {
-        "text": "Every subject uses one text type",
+        "text": "A phenomenon-to-causes-to-result sequence answers how or why something occurs.",
         "is_correct": false
       },
       {
-        "text": "Template followed without adaptation",
+        "text": "The order enables a reader to complete a task accurately and safely.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Audience and evidence shape organisation. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Paragraphs, screens, diagrams, voice and navigation can all organise phases in multimodal texts."
+      "summary": "The stages build expectations and show how characters respond to change.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
-    "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 22,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-P-023",
@@ -841,37 +841,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_language_choices",
-    "question": "A weather report could use either “position–reasons–evidence–counterpoint–conclusion” or “graph + caption + spoken explanation”. Which comparison is most accurate?",
-    "audio_prompt": "A weather report could use either “position–reasons–evidence–counterpoint–conclusion” or “graph + caption + spoken explanation”. Which comparison is most accurate?",
+    "stage": "application",
+    "skill": "narrative-revision",
+    "question": "Which revision best applies narrative to the idea in “The story introduces the setting, develops a complication and resolves the conflict.”?",
+    "audio_prompt": "Which revision best applies narrative to the idea in “The story introduces the setting, develops a complication and resolves the conflict.”?",
     "answers": [
       {
-        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "text": "Use headings for classification, habitat, species and threats.",
         "is_correct": false
       },
       {
-        "text": "The longer example is automatically more formal and therefore better.",
+        "text": "Move the result after the linked causes so the process is easy to follow.",
         "is_correct": false
       },
       {
-        "text": "“position–reasons–evidence–counterpoint–conclusion” shows argument, while “graph + caption + spoken explanation” shows Visual phase.",
+        "text": "Delay the key solution until after the complication has developed.",
         "is_correct": true
       },
       {
-        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "text": "Place the warning immediately before the step where the hazard occurs.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The important difference is the language function: argument versus Visual phase.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "The revision applies narrative deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
     "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty_tier": "application",
     "sequence_priority": 23,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-P-024",
@@ -879,37 +879,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_misconception",
-    "question": "Which statement would help you reject the tempting rule “Stage equals one paragraph” in a school assembly?",
-    "audio_prompt": "Which statement would help you reject the tempting rule “Stage equals one paragraph” in a school assembly?",
+    "stage": "core",
+    "skill": "narrative-misconception",
+    "question": "A student says, “Every narrative follows exactly the same number of paragraphs.” Which response best corrects the misconception?",
+    "audio_prompt": "A student says, “Every narrative follows exactly the same number of paragraphs.” Which response best corrects the misconception?",
     "answers": [
       {
-        "text": "Stage equals one paragraph",
+        "text": "Every information report must be written in time order.",
         "is_correct": false
       },
       {
-        "text": "Every subject uses one text type",
+        "text": "An explanation and a procedure have the same purpose.",
         "is_correct": false
       },
       {
-        "text": "Template followed without adaptation",
+        "text": "Numbered steps alone prove that a text is a procedure.",
         "is_correct": false
       },
       {
-        "text": "Stages can span several paragraphs or modes.",
+        "text": "The claim is too broad; the example shows that the stages build expectations and show how characters respond to change.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Stages can span several paragraphs or modes. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Paragraphs, screens, diagrams, voice and navigation can all organise phases in multimodal texts."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
-    "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 24,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-P-025",
@@ -917,37 +917,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_language_choices",
-    "question": "A peer feedback session could use either “question–method–results–conclusion” or “explain key concept”. Which comparison is most accurate?",
-    "audio_prompt": "A peer feedback session could use either “question–method–results–conclusion” or “explain key concept”. Which comparison is most accurate?",
+    "stage": "foundation",
+    "skill": "stage",
+    "question": "Read: “Three paragraphs together explain how rainfall enters the river system.” Which description best identifies the highlighted language or text choice?",
+    "audio_prompt": "Read: “Three paragraphs together explain how rainfall enters the river system.” Which description best identifies the highlighted language or text choice?",
     "answers": [
       {
-        "text": "“question–method–results–conclusion” shows science investigation, while “explain key concept” shows Stage 1.",
+        "text": "stage",
         "is_correct": true
       },
       {
-        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "text": "information report",
         "is_correct": false
       },
       {
-        "text": "The longer example is automatically more formal and therefore better.",
+        "text": "explanation",
         "is_correct": false
       },
       {
-        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "text": "procedure",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The important difference is the language function: science investigation versus Stage 1.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "This is stage: A stage is a major functional section and can extend across several paragraphs.",
+      "hint": "Name the exact feature before explaining its effect."
     },
-    "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 25,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-P-026",
@@ -955,37 +955,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_misconception",
-    "question": "Which statement would help you reject the tempting rule “Template followed without adaptation” in a cooking demonstration?",
-    "audio_prompt": "Which statement would help you reject the tempting rule “Template followed without adaptation” in a cooking demonstration?",
+    "stage": "core",
+    "skill": "stage-effect",
+    "question": "Why is this choice effective in context: “Three paragraphs together explain how rainfall enters the river system.”?",
+    "audio_prompt": "Why is this choice effective in context: “Three paragraphs together explain how rainfall enters the river system.”?",
     "answers": [
       {
-        "text": "Stage equals one paragraph",
+        "text": "Classification followed by grouped description helps readers build organised knowledge.",
         "is_correct": false
       },
       {
-        "text": "Audience and evidence shape organisation.",
+        "text": "A stage is a major functional section and can extend across several paragraphs.",
         "is_correct": true
       },
       {
-        "text": "Every subject uses one text type",
+        "text": "A phenomenon-to-causes-to-result sequence answers how or why something occurs.",
         "is_correct": false
       },
       {
-        "text": "Template followed without adaptation",
+        "text": "The order enables a reader to complete a task accurately and safely.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Audience and evidence shape organisation. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Paragraphs, screens, diagrams, voice and navigation can all organise phases in multimodal texts."
+      "summary": "A stage is a major functional section and can extend across several paragraphs.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
-    "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 26,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-P-027",
@@ -993,37 +993,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_language_choices",
-    "question": "A arts review could use either “position–reasons–evidence–counterpoint–conclusion” or “compare options”. Which comparison is most accurate?",
-    "audio_prompt": "A arts review could use either “position–reasons–evidence–counterpoint–conclusion” or “compare options”. Which comparison is most accurate?",
+    "stage": "application",
+    "skill": "stage-revision",
+    "question": "Which revision best applies stage to the idea in “Three paragraphs together explain how rainfall enters the river system.”?",
+    "audio_prompt": "Which revision best applies stage to the idea in “Three paragraphs together explain how rainfall enters the river system.”?",
     "answers": [
       {
-        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "text": "Use headings for classification, habitat, species and threats.",
         "is_correct": false
       },
       {
-        "text": "The longer example is automatically more formal and therefore better.",
+        "text": "Move the result after the linked causes so the process is easy to follow.",
         "is_correct": false
       },
       {
-        "text": "“position–reasons–evidence–counterpoint–conclusion” shows argument, while “compare options” shows Stage 2.",
+        "text": "Label the three paragraphs together as the causes stage.",
         "is_correct": true
       },
       {
-        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "text": "Place the warning immediately before the step where the hazard occurs.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The important difference is the language function: argument versus Stage 2.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "The revision applies stage deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
     "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty_tier": "application",
     "sequence_priority": 27,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-P-028",
@@ -1031,37 +1031,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_misconception",
-    "question": "Which statement would help you reject the tempting rule “Stage equals one paragraph” in a technology presentation?",
-    "audio_prompt": "Which statement would help you reject the tempting rule “Stage equals one paragraph” in a technology presentation?",
+    "stage": "core",
+    "skill": "stage-misconception",
+    "question": "A student says, “A stage is always one paragraph.” Which response best corrects the misconception?",
+    "audio_prompt": "A student says, “A stage is always one paragraph.” Which response best corrects the misconception?",
     "answers": [
       {
-        "text": "Stage equals one paragraph",
+        "text": "Every information report must be written in time order.",
         "is_correct": false
       },
       {
-        "text": "Every subject uses one text type",
+        "text": "An explanation and a procedure have the same purpose.",
         "is_correct": false
       },
       {
-        "text": "Template followed without adaptation",
+        "text": "Numbered steps alone prove that a text is a procedure.",
         "is_correct": false
       },
       {
-        "text": "Stages can span several paragraphs or modes.",
+        "text": "The claim is too broad; the example shows that a stage is a major functional section and can extend across several paragraphs.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Stages can span several paragraphs or modes. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Paragraphs, screens, diagrams, voice and navigation can all organise phases in multimodal texts."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
-    "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 28,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-P-029",
@@ -1069,37 +1069,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_language_choices",
-    "question": "A playground consultation could use either “question–method–results–conclusion” or “synthesise and recommend”. Which comparison is most accurate?",
-    "audio_prompt": "A playground consultation could use either “question–method–results–conclusion” or “synthesise and recommend”. Which comparison is most accurate?",
+    "stage": "foundation",
+    "skill": "phase",
+    "question": "Read: “Within the results stage, one paragraph reports temperature and another reports growth.” Which description best identifies the highlighted language or text choice?",
+    "audio_prompt": "Read: “Within the results stage, one paragraph reports temperature and another reports growth.” Which description best identifies the highlighted language or text choice?",
     "answers": [
       {
-        "text": "“question–method–results–conclusion” shows science investigation, while “synthesise and recommend” shows Conclusion.",
+        "text": "phase",
         "is_correct": true
       },
       {
-        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "text": "information report",
         "is_correct": false
       },
       {
-        "text": "The longer example is automatically more formal and therefore better.",
+        "text": "explanation",
         "is_correct": false
       },
       {
-        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "text": "procedure",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The important difference is the language function: science investigation versus Conclusion.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "This is phase: Each smaller move develops one part of the larger results stage.",
+      "hint": "Name the exact feature before explaining its effect."
     },
-    "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 29,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-P-030",
@@ -1107,37 +1107,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_misconception",
-    "question": "Which statement would help you reject the tempting rule “Template followed without adaptation” in a class podcast?",
-    "audio_prompt": "Which statement would help you reject the tempting rule “Template followed without adaptation” in a class podcast?",
+    "stage": "core",
+    "skill": "phase-effect",
+    "question": "Why is this choice effective in context: “Within the results stage, one paragraph reports temperature and another reports growth.”?",
+    "audio_prompt": "Why is this choice effective in context: “Within the results stage, one paragraph reports temperature and another reports growth.”?",
     "answers": [
       {
-        "text": "Stage equals one paragraph",
+        "text": "Classification followed by grouped description helps readers build organised knowledge.",
         "is_correct": false
       },
       {
-        "text": "Audience and evidence shape organisation.",
+        "text": "Each smaller move develops one part of the larger results stage.",
         "is_correct": true
       },
       {
-        "text": "Every subject uses one text type",
+        "text": "A phenomenon-to-causes-to-result sequence answers how or why something occurs.",
         "is_correct": false
       },
       {
-        "text": "Template followed without adaptation",
+        "text": "The order enables a reader to complete a task accurately and safely.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Audience and evidence shape organisation. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Paragraphs, screens, diagrams, voice and navigation can all organise phases in multimodal texts."
+      "summary": "Each smaller move develops one part of the larger results stage.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
-    "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 30,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-P-031",
@@ -1145,37 +1145,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "compare_two_subjects",
-    "question": "You are editing a community garden proposal. What is a phase?",
-    "audio_prompt": "You are editing a community garden proposal. What is a phase?",
+    "stage": "application",
+    "skill": "phase-revision",
+    "question": "Which revision best applies phase to the idea in “Within the results stage, one paragraph reports temperature and another reports growth.”?",
+    "audio_prompt": "Which revision best applies phase to the idea in “Within the results stage, one paragraph reports temperature and another reports growth.”?",
     "answers": [
       {
-        "text": "Always a whole book",
+        "text": "Use headings for classification, habitat, species and threats.",
         "is_correct": false
       },
       {
-        "text": "A smaller functional move within a stage",
+        "text": "Move the result after the linked causes so the process is easy to follow.",
+        "is_correct": false
+      },
+      {
+        "text": "Use subheadings to distinguish the temperature and growth phases.",
         "is_correct": true
       },
       {
-        "text": "A punctuation mark",
-        "is_correct": false
-      },
-      {
-        "text": "An unrelated decoration",
+        "text": "Place the warning immediately before the step where the hazard occurs.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "“A smaller functional move within a stage” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Paragraphs, screens, diagrams, voice and navigation can all organise phases in multimodal texts."
+      "summary": "The revision applies phase deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "application",
     "sequence_priority": 31,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-P-032",
@@ -1183,37 +1183,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "phase",
-    "question": "A sports-club discussion needs a clear example of Phase. Which wording should you choose?",
-    "audio_prompt": "A sports-club discussion needs a clear example of Phase. Which wording should you choose?",
+    "stage": "core",
+    "skill": "phase-misconception",
+    "question": "A student says, “A phase is an unrelated decoration.” Which response best corrects the misconception?",
+    "audio_prompt": "A student says, “A phase is an unrelated decoration.” Which response best corrects the misconception?",
     "answers": [
       {
-        "text": "explain key concept",
+        "text": "Every information report must be written in time order.",
         "is_correct": false
       },
       {
-        "text": "compare options",
+        "text": "An explanation and a procedure have the same purpose.",
         "is_correct": false
       },
       {
-        "text": "example → evidence → interpretation",
+        "text": "Numbered steps alone prove that a text is a procedure.",
+        "is_correct": false
+      },
+      {
+        "text": "The claim is too broad; the example shows that each smaller move develops one part of the larger results stage.",
         "is_correct": true
-      },
-      {
-        "text": "graph + caption + spoken explanation",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "“example → evidence → interpretation” is the best choice because it demonstrates Phase in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 32,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-P-033",
@@ -1221,37 +1221,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "stage",
-    "question": "While revising a library display, you need language that matches “major functional section”. Which concept should guide your choice?",
-    "audio_prompt": "While revising a library display, you need language that matches “major functional section”. Which concept should guide your choice?",
+    "stage": "foundation",
+    "skill": "adapted opening",
+    "question": "Read: “A science report opens with a brief story about finding a sick turtle before classifying plastic pollution.” Which description best identifies the highlighted language or text choice?",
+    "audio_prompt": "Read: “A science report opens with a brief story about finding a sick turtle before classifying plastic pollution.” Which description best identifies the highlighted language or text choice?",
     "answers": [
       {
-        "text": "phase",
-        "is_correct": false
-      },
-      {
-        "text": "disciplinary language",
-        "is_correct": false
-      },
-      {
-        "text": "It does not match the evidence in the example.",
-        "is_correct": false
-      },
-      {
-        "text": "stage",
+        "text": "adapted opening",
         "is_correct": true
+      },
+      {
+        "text": "information report",
+        "is_correct": false
+      },
+      {
+        "text": "explanation",
+        "is_correct": false
+      },
+      {
+        "text": "procedure",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "stage is the concept that matches major functional section.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "This is adapted opening: The anecdote engages readers while the report’s dominant informative purpose remains clear.",
+      "hint": "Name the exact feature before explaining its effect."
     },
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 33,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-P-034",
@@ -1259,37 +1259,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "identify_stages",
-    "question": "You are editing a museum caption. What is a phase?",
-    "audio_prompt": "You are editing a museum caption. What is a phase?",
+    "stage": "core",
+    "skill": "adapted opening-effect",
+    "question": "Why is this choice effective in context: “A science report opens with a brief story about finding a sick turtle before classifying plastic pollution.”?",
+    "audio_prompt": "Why is this choice effective in context: “A science report opens with a brief story about finding a sick turtle before classifying plastic pollution.”?",
     "answers": [
       {
-        "text": "A smaller functional move within a stage",
+        "text": "Classification followed by grouped description helps readers build organised knowledge.",
+        "is_correct": false
+      },
+      {
+        "text": "The anecdote engages readers while the report’s dominant informative purpose remains clear.",
         "is_correct": true
       },
       {
-        "text": "Always a whole book",
+        "text": "A phenomenon-to-causes-to-result sequence answers how or why something occurs.",
         "is_correct": false
       },
       {
-        "text": "A punctuation mark",
-        "is_correct": false
-      },
-      {
-        "text": "An unrelated decoration",
+        "text": "The order enables a reader to complete a task accurately and safely.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“A smaller functional move within a stage” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Paragraphs, screens, diagrams, voice and navigation can all organise phases in multimodal texts."
+      "summary": "The anecdote engages readers while the report’s dominant informative purpose remains clear.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 34,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-P-035",
@@ -1297,37 +1297,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "conclusion",
-    "question": "A student council meeting needs a clear example of Conclusion. Which wording should you choose?",
-    "audio_prompt": "A student council meeting needs a clear example of Conclusion. Which wording should you choose?",
+    "stage": "application",
+    "skill": "adapted opening-revision",
+    "question": "Which revision best applies adapted opening to the idea in “A science report opens with a brief story about finding a sick turtle before classifying plastic pollution.”?",
+    "audio_prompt": "Which revision best applies adapted opening to the idea in “A science report opens with a brief story about finding a sick turtle before classifying plastic pollution.”?",
     "answers": [
       {
-        "text": "explain key concept",
+        "text": "Use headings for classification, habitat, species and threats.",
         "is_correct": false
       },
       {
-        "text": "synthesise and recommend",
+        "text": "Move the result after the linked causes so the process is easy to follow.",
+        "is_correct": false
+      },
+      {
+        "text": "Follow the anecdote with an explicit classification and evidence.",
         "is_correct": true
       },
       {
-        "text": "example → evidence → interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "compare options",
+        "text": "Place the warning immediately before the step where the hazard occurs.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "“synthesise and recommend” is the best choice because it demonstrates Conclusion in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "The revision applies adapted opening deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "application",
     "sequence_priority": 35,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-P-036",
@@ -1335,37 +1335,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "stage",
-    "question": "While revising a local-history article, you need language that matches “major functional section”. Which concept should guide your choice?",
-    "audio_prompt": "While revising a local-history article, you need language that matches “major functional section”. Which concept should guide your choice?",
+    "stage": "challenge",
+    "skill": "adapted opening-misconception",
+    "question": "A student says, “Any anecdote changes an information report into a narrative.” Which response best corrects the misconception?",
+    "audio_prompt": "A student says, “Any anecdote changes an information report into a narrative.” Which response best corrects the misconception?",
     "answers": [
       {
-        "text": "phase",
+        "text": "Every information report must be written in time order.",
         "is_correct": false
       },
       {
-        "text": "disciplinary language",
+        "text": "An explanation and a procedure have the same purpose.",
         "is_correct": false
       },
       {
-        "text": "stage",
+        "text": "Numbered steps alone prove that a text is a procedure.",
+        "is_correct": false
+      },
+      {
+        "text": "The claim is too broad; the example shows that the anecdote engages readers while the report’s dominant informative purpose remains clear.",
         "is_correct": true
-      },
-      {
-        "text": "It does not match the evidence in the example.",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "stage is the concept that matches major functional section.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "challenge",
     "sequence_priority": 36,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-P-037",
@@ -1373,37 +1373,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "analyse_multimodal_organisation",
-    "question": "You are editing a environmental campaign. What is a phase?",
-    "audio_prompt": "You are editing a environmental campaign. What is a phase?",
+    "stage": "foundation",
+    "skill": "embedded structure",
+    "question": "Read: “A proposal uses a cause-and-effect explanation inside its evidence section.” Which description best identifies the highlighted language or text choice?",
+    "audio_prompt": "Read: “A proposal uses a cause-and-effect explanation inside its evidence section.” Which description best identifies the highlighted language or text choice?",
     "answers": [
       {
-        "text": "Always a whole book",
-        "is_correct": false
-      },
-      {
-        "text": "A punctuation mark",
-        "is_correct": false
-      },
-      {
-        "text": "An unrelated decoration",
-        "is_correct": false
-      },
-      {
-        "text": "A smaller functional move within a stage",
+        "text": "embedded structure",
         "is_correct": true
+      },
+      {
+        "text": "information report",
+        "is_correct": false
+      },
+      {
+        "text": "explanation",
+        "is_correct": false
+      },
+      {
+        "text": "procedure",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "“A smaller functional move within a stage” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Paragraphs, screens, diagrams, voice and navigation can all organise phases in multimodal texts."
+      "summary": "This is embedded structure: The embedded explanation helps show why the proposed action is reasonable.",
+      "hint": "Name the exact feature before explaining its effect."
     },
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 37,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-P-038",
@@ -1411,37 +1411,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "stage_2",
-    "question": "A book-club discussion needs a clear example of Stage 2. Which wording should you choose?",
-    "audio_prompt": "A book-club discussion needs a clear example of Stage 2. Which wording should you choose?",
+    "stage": "core",
+    "skill": "embedded structure-effect",
+    "question": "Why is this choice effective in context: “A proposal uses a cause-and-effect explanation inside its evidence section.”?",
+    "audio_prompt": "Why is this choice effective in context: “A proposal uses a cause-and-effect explanation inside its evidence section.”?",
     "answers": [
       {
-        "text": "compare options",
+        "text": "Classification followed by grouped description helps readers build organised knowledge.",
+        "is_correct": false
+      },
+      {
+        "text": "The embedded explanation helps show why the proposed action is reasonable.",
         "is_correct": true
       },
       {
-        "text": "explain key concept",
+        "text": "A phenomenon-to-causes-to-result sequence answers how or why something occurs.",
         "is_correct": false
       },
       {
-        "text": "example → evidence → interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "graph + caption + spoken explanation",
+        "text": "The order enables a reader to complete a task accurately and safely.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“compare options” is the best choice because it demonstrates Stage 2 in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "The embedded explanation helps show why the proposed action is reasonable.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 38,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-P-039",
@@ -1449,37 +1449,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "stage",
-    "question": "While revising a excursion briefing, you need language that matches “major functional section”. Which concept should guide your choice?",
-    "audio_prompt": "While revising a excursion briefing, you need language that matches “major functional section”. Which concept should guide your choice?",
+    "stage": "application",
+    "skill": "embedded structure-revision",
+    "question": "Which revision best applies embedded structure to the idea in “A proposal uses a cause-and-effect explanation inside its evidence section.”?",
+    "audio_prompt": "Which revision best applies embedded structure to the idea in “A proposal uses a cause-and-effect explanation inside its evidence section.”?",
     "answers": [
       {
-        "text": "phase",
+        "text": "Use headings for classification, habitat, species and threats.",
         "is_correct": false
       },
       {
-        "text": "stage",
+        "text": "Move the result after the linked causes so the process is easy to follow.",
+        "is_correct": false
+      },
+      {
+        "text": "Signal the embedded explanation with “because” and return clearly to the recommendation.",
         "is_correct": true
       },
       {
-        "text": "disciplinary language",
-        "is_correct": false
-      },
-      {
-        "text": "It does not match the evidence in the example.",
+        "text": "Place the warning immediately before the step where the hazard occurs.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "stage is the concept that matches major functional section.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "The revision applies embedded structure deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "application",
     "sequence_priority": 39,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-P-040",
@@ -1487,37 +1487,341 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "name_a_phase",
-    "question": "You are editing a design project. What is a phase?",
-    "audio_prompt": "You are editing a design project. What is a phase?",
+    "stage": "challenge",
+    "skill": "embedded structure-misconception",
+    "question": "A student says, “A text can contain only one structure.” Which response best corrects the misconception?",
+    "audio_prompt": "A student says, “A text can contain only one structure.” Which response best corrects the misconception?",
     "answers": [
       {
-        "text": "Always a whole book",
+        "text": "Every information report must be written in time order.",
         "is_correct": false
       },
       {
-        "text": "A punctuation mark",
+        "text": "An explanation and a procedure have the same purpose.",
         "is_correct": false
       },
       {
-        "text": "A smaller functional move within a stage",
+        "text": "Numbered steps alone prove that a text is a procedure.",
+        "is_correct": false
+      },
+      {
+        "text": "The claim is too broad; the example shows that the embedded explanation helps show why the proposed action is reasonable.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 40,
+    "quality_schema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LA03-P-041",
+    "curriculum_code": "AC9E6LA03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "multimodal phase",
+    "question": "Read: “A diagram and caption show the water cycle between two explanatory paragraphs.” Which description best identifies the highlighted language or text choice?",
+    "audio_prompt": "Read: “A diagram and caption show the water cycle between two explanatory paragraphs.” Which description best identifies the highlighted language or text choice?",
+    "answers": [
+      {
+        "text": "multimodal phase",
         "is_correct": true
       },
       {
-        "text": "An unrelated decoration",
+        "text": "information report",
+        "is_correct": false
+      },
+      {
+        "text": "explanation",
+        "is_correct": false
+      },
+      {
+        "text": "procedure",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "This is multimodal phase: The visual phase represents relationships that are cumbersome to describe in words alone.",
+      "hint": "Name the exact feature before explaining its effect."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 41,
+    "quality_schema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LA03-P-042",
+    "curriculum_code": "AC9E6LA03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "multimodal phase-effect",
+    "question": "Why is this choice effective in context: “A diagram and caption show the water cycle between two explanatory paragraphs.”?",
+    "audio_prompt": "Why is this choice effective in context: “A diagram and caption show the water cycle between two explanatory paragraphs.”?",
+    "answers": [
+      {
+        "text": "Classification followed by grouped description helps readers build organised knowledge.",
+        "is_correct": false
+      },
+      {
+        "text": "The visual phase represents relationships that are cumbersome to describe in words alone.",
+        "is_correct": true
+      },
+      {
+        "text": "A phenomenon-to-causes-to-result sequence answers how or why something occurs.",
+        "is_correct": false
+      },
+      {
+        "text": "The order enables a reader to complete a task accurately and safely.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The visual phase represents relationships that are cumbersome to describe in words alone.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 42,
+    "quality_schema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LA03-P-043",
+    "curriculum_code": "AC9E6LA03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "multimodal phase-revision",
+    "question": "Which revision best applies multimodal phase to the idea in “A diagram and caption show the water cycle between two explanatory paragraphs.”?",
+    "audio_prompt": "Which revision best applies multimodal phase to the idea in “A diagram and caption show the water cycle between two explanatory paragraphs.”?",
+    "answers": [
+      {
+        "text": "Use headings for classification, habitat, species and threats.",
+        "is_correct": false
+      },
+      {
+        "text": "Move the result after the linked causes so the process is easy to follow.",
+        "is_correct": false
+      },
+      {
+        "text": "Refer to the labelled diagram in the surrounding explanation.",
+        "is_correct": true
+      },
+      {
+        "text": "Place the warning immediately before the step where the hazard occurs.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "“A smaller functional move within a stage” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Paragraphs, screens, diagrams, voice and navigation can all organise phases in multimodal texts."
+      "summary": "The revision applies multimodal phase deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
-    "sequence_priority": 40,
-    "quality_schema": "skillr-authored-v1"
+    "difficulty_tier": "application",
+    "sequence_priority": 43,
+    "quality_schema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LA03-P-044",
+    "curriculum_code": "AC9E6LA03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "multimodal phase-misconception",
+    "question": "A student says, “Visuals sit outside a text’s organisation.” Which response best corrects the misconception?",
+    "audio_prompt": "A student says, “Visuals sit outside a text’s organisation.” Which response best corrects the misconception?",
+    "answers": [
+      {
+        "text": "Every information report must be written in time order.",
+        "is_correct": false
+      },
+      {
+        "text": "An explanation and a procedure have the same purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Numbered steps alone prove that a text is a procedure.",
+        "is_correct": false
+      },
+      {
+        "text": "The claim is too broad; the example shows that the visual phase represents relationships that are cumbersome to describe in words alone.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 44,
+    "quality_schema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LA03-P-045",
+    "curriculum_code": "AC9E6LA03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "dominant structure",
+    "question": "Read: “A creek article describes the damage, explains its causes, compares two repairs and recommends native planting.” Which description best identifies the highlighted language or text choice?",
+    "audio_prompt": "Read: “A creek article describes the damage, explains its causes, compares two repairs and recommends native planting.” Which description best identifies the highlighted language or text choice?",
+    "answers": [
+      {
+        "text": "dominant structure",
+        "is_correct": true
+      },
+      {
+        "text": "information report",
+        "is_correct": false
+      },
+      {
+        "text": "explanation",
+        "is_correct": false
+      },
+      {
+        "text": "procedure",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "This is dominant structure: Problem–solution dominates even though cause–effect and comparison phases are embedded.",
+      "hint": "Name the exact feature before explaining its effect."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 45,
+    "quality_schema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LA03-P-046",
+    "curriculum_code": "AC9E6LA03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "dominant structure-effect",
+    "question": "Why is this choice effective in context: “A creek article describes the damage, explains its causes, compares two repairs and recommends native planting.”?",
+    "audio_prompt": "Why is this choice effective in context: “A creek article describes the damage, explains its causes, compares two repairs and recommends native planting.”?",
+    "answers": [
+      {
+        "text": "Classification followed by grouped description helps readers build organised knowledge.",
+        "is_correct": false
+      },
+      {
+        "text": "Problem–solution dominates even though cause–effect and comparison phases are embedded.",
+        "is_correct": true
+      },
+      {
+        "text": "A phenomenon-to-causes-to-result sequence answers how or why something occurs.",
+        "is_correct": false
+      },
+      {
+        "text": "The order enables a reader to complete a task accurately and safely.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Problem–solution dominates even though cause–effect and comparison phases are embedded.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 46,
+    "quality_schema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LA03-P-047",
+    "curriculum_code": "AC9E6LA03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "dominant structure-revision",
+    "question": "Which revision best applies dominant structure to the idea in “A creek article describes the damage, explains its causes, compares two repairs and recommends native planting.”?",
+    "audio_prompt": "Which revision best applies dominant structure to the idea in “A creek article describes the damage, explains its causes, compares two repairs and recommends native planting.”?",
+    "answers": [
+      {
+        "text": "Use headings for classification, habitat, species and threats.",
+        "is_correct": false
+      },
+      {
+        "text": "Move the result after the linked causes so the process is easy to follow.",
+        "is_correct": false
+      },
+      {
+        "text": "Use headings that make the problem, options and recommendation visible.",
+        "is_correct": true
+      },
+      {
+        "text": "Place the warning immediately before the step where the hazard occurs.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The revision applies dominant structure deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 47,
+    "quality_schema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LA03-P-048",
+    "curriculum_code": "AC9E6LA03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "dominant structure-misconception",
+    "question": "A student says, “One time connective determines the structure of the whole text.” Which response best corrects the misconception?",
+    "audio_prompt": "A student says, “One time connective determines the structure of the whole text.” Which response best corrects the misconception?",
+    "answers": [
+      {
+        "text": "Every information report must be written in time order.",
+        "is_correct": false
+      },
+      {
+        "text": "An explanation and a procedure have the same purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Numbered steps alone prove that a text is a procedure.",
+        "is_correct": false
+      },
+      {
+        "text": "The claim is too broad; the example shows that problem–solution dominates even though cause–effect and comparison phases are embedded.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 48,
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-T-001",
@@ -1525,37 +1829,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "verify",
-    "skill": "stage_2",
-    "question": "A community radio segment includes “compare options”. Which description best fits this wording?",
-    "audio_prompt": "A community radio segment includes “compare options”. Which description best fits this wording?",
+    "stage": "independent",
+    "skill": "information report",
+    "question": "In a museum label, you read: “Wetlands are defined first; later sections group details about plants, animals and water quality.” Which analysis is most accurate?",
+    "audio_prompt": "In a museum label, you read: “Wetlands are defined first; later sections group details about plants, animals and water quality.” Which analysis is most accurate?",
     "answers": [
       {
-        "text": "science investigation",
-        "is_correct": false
-      },
-      {
-        "text": "historical explanation",
-        "is_correct": false
-      },
-      {
-        "text": "argument",
-        "is_correct": false
-      },
-      {
-        "text": "Stage 2",
+        "text": "information report: Classification followed by grouped description helps readers build organised knowledge.",
         "is_correct": true
+      },
+      {
+        "text": "explanation: A phenomenon-to-causes-to-result sequence answers how or why something occurs.",
+        "is_correct": false
+      },
+      {
+        "text": "procedure: The order enables a reader to complete a task accurately and safely.",
+        "is_correct": false
+      },
+      {
+        "text": "historical recount: Chronology helps readers follow what happened over time.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The wording best matches Stage 2.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "information report is supported by the wording and its function in the whole sentence.",
+      "hint": "Identify, cite and explain."
     },
     "difficulty": 3,
-    "difficulty_tier": "verify",
+    "difficulty_tier": "independent",
     "sequence_priority": 1,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-T-002",
@@ -1563,37 +1867,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "verify",
-    "skill": "stage",
-    "question": "In a wildlife-centre report, which term matches this meaning: “major functional section”?",
-    "audio_prompt": "In a wildlife-centre report, which term matches this meaning: “major functional section”?",
+    "stage": "independent",
+    "skill": "explanation-purpose",
+    "question": "For a museum label, which editing decision best demonstrates control of explanation?",
+    "audio_prompt": "For a museum label, which editing decision best demonstrates control of explanation?",
     "answers": [
       {
-        "text": "stage",
+        "text": "Use headings for classification, habitat, species and threats.",
+        "is_correct": false
+      },
+      {
+        "text": "Move the result after the linked causes so the process is easy to follow.",
         "is_correct": true
       },
       {
-        "text": "phase",
+        "text": "Place the warning immediately before the step where the hazard occurs.",
         "is_correct": false
       },
       {
-        "text": "disciplinary language",
-        "is_correct": false
-      },
-      {
-        "text": "It does not match the evidence in the example.",
+        "text": "Add dated evidence and transitions such as “later that year”.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "stage is the precise term for major functional section.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This option deliberately applies explanation without changing the intended meaning.",
+      "hint": "Reject choices that merely add length or sound impressive."
     },
     "difficulty": 3,
-    "difficulty_tier": "verify",
+    "difficulty_tier": "independent",
     "sequence_priority": 2,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-T-003",
@@ -1601,37 +1905,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "verify",
-    "skill": "organisation_of_curriculum_texts",
-    "question": "For a regional youth forum, which sequence best suits a scientific investigation report?",
-    "audio_prompt": "For a regional youth forum, which sequence best suits a scientific investigation report?",
+    "stage": "transfer",
+    "skill": "procedure-reasoning",
+    "question": "While reviewing a museum label, which statement should an editor reject about “The page states a goal, lists equipment, gives numbered steps and finishes with a safety check.”?",
+    "audio_prompt": "While reviewing a museum label, which statement should an editor reject about “The page states a goal, lists equipment, gives numbered steps and finishes with a safety check.”?",
     "answers": [
       {
-        "text": "orientation, climax, resolution only",
+        "text": "Every information report must be written in time order.",
         "is_correct": false
       },
       {
-        "text": "question, method, results, conclusion",
+        "text": "An explanation and a procedure have the same purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Numbered steps alone prove that a text is a procedure.",
         "is_correct": true
       },
       {
-        "text": "slogan, price, purchase",
-        "is_correct": false
-      },
-      {
-        "text": "greeting, joke, farewell",
+        "text": "A historical recount should never explain causes.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "“question, method, results, conclusion” is supported by the language evidence and purpose of the text.",
-      "hint": "Paragraphs, screens, diagrams, voice and navigation can all organise phases in multimodal texts."
+      "summary": "The rejected statement is an inaccurate generalisation about procedure.",
+      "hint": "Select the claim contradicted by the evidence or by the language rule."
     },
     "difficulty": 3,
-    "difficulty_tier": "verify",
+    "difficulty_tier": "transfer",
     "sequence_priority": 3,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-T-004",
@@ -1639,37 +1943,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "verify",
-    "skill": "independent_misconception_check",
-    "question": "A writer preparing a coastal-monitoring update says, “Every subject uses one text type”. Which response is most accurate?",
-    "audio_prompt": "A writer preparing a coastal-monitoring update says, “Every subject uses one text type”. Which response is most accurate?",
+    "stage": "transfer",
+    "skill": "historical recount-explanation",
+    "question": "For a museum label, which explanation would earn full credit for the language choice in “The account establishes the setting, sequences events and closes with their immediate outcome.”?",
+    "audio_prompt": "For a museum label, which explanation would earn full credit for the language choice in “The account establishes the setting, sequences events and closes with their immediate outcome.”?",
     "answers": [
       {
-        "text": "Stage equals one paragraph",
+        "text": "Classification followed by grouped description helps readers build organised knowledge.",
         "is_correct": false
       },
       {
-        "text": "Every subject uses one text type",
+        "text": "A phenomenon-to-causes-to-result sequence answers how or why something occurs.",
         "is_correct": false
       },
       {
-        "text": "Purpose determines form.",
+        "text": "The order enables a reader to complete a task accurately and safely.",
+        "is_correct": false
+      },
+      {
+        "text": "Chronology helps readers follow what happened over time.",
         "is_correct": true
-      },
-      {
-        "text": "Template followed without adaptation",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Purpose determines form. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "Chronology helps readers follow what happened over time.",
+      "hint": "A full-credit explanation links exact evidence to meaning or purpose."
     },
     "difficulty": 3,
-    "difficulty_tier": "verify",
+    "difficulty_tier": "transfer",
     "sequence_priority": 4,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-T-005",
@@ -1677,37 +1981,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "verify",
-    "skill": "phase",
-    "question": "A heritage trail guide includes “example → evidence → interpretation”. Which description best fits this wording?",
-    "audio_prompt": "A heritage trail guide includes “example → evidence → interpretation”. Which description best fits this wording?",
+    "stage": "independent",
+    "skill": "persuasive argument",
+    "question": "In a school report, you read: “The writer states a position, gives reasons and evidence, addresses a counterargument and concludes.” Which analysis is most accurate?",
+    "audio_prompt": "In a school report, you read: “The writer states a position, gives reasons and evidence, addresses a counterargument and concludes.” Which analysis is most accurate?",
     "answers": [
       {
-        "text": "science investigation",
-        "is_correct": false
-      },
-      {
-        "text": "historical explanation",
-        "is_correct": false
-      },
-      {
-        "text": "argument",
-        "is_correct": false
-      },
-      {
-        "text": "Phase",
+        "text": "persuasive argument: The stages build and defend a position while acknowledging another view.",
         "is_correct": true
+      },
+      {
+        "text": "information report: Classification followed by grouped description helps readers build organised knowledge.",
+        "is_correct": false
+      },
+      {
+        "text": "explanation: A phenomenon-to-causes-to-result sequence answers how or why something occurs.",
+        "is_correct": false
+      },
+      {
+        "text": "procedure: The order enables a reader to complete a task accurately and safely.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The wording best matches Phase.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "persuasive argument is supported by the wording and its function in the whole sentence.",
+      "hint": "Identify, cite and explain."
     },
     "difficulty": 3,
-    "difficulty_tier": "verify",
+    "difficulty_tier": "independent",
     "sequence_priority": 5,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-T-006",
@@ -1715,37 +2019,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "verify",
-    "skill": "phase",
-    "question": "In a public-transport survey, which term matches this meaning: “smaller move developing a stage”?",
-    "audio_prompt": "In a public-transport survey, which term matches this meaning: “smaller move developing a stage”?",
+    "stage": "independent",
+    "skill": "narrative-purpose",
+    "question": "For a school report, which editing decision best demonstrates control of narrative?",
+    "audio_prompt": "For a school report, which editing decision best demonstrates control of narrative?",
     "answers": [
       {
-        "text": "phase",
+        "text": "Use headings for classification, habitat, species and threats.",
+        "is_correct": false
+      },
+      {
+        "text": "Delay the key solution until after the complication has developed.",
         "is_correct": true
       },
       {
-        "text": "stage",
+        "text": "Move the result after the linked causes so the process is easy to follow.",
         "is_correct": false
       },
       {
-        "text": "disciplinary language",
-        "is_correct": false
-      },
-      {
-        "text": "It does not match the evidence in the example.",
+        "text": "Place the warning immediately before the step where the hazard occurs.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "phase is the precise term for smaller move developing a stage.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This option deliberately applies narrative without changing the intended meaning.",
+      "hint": "Reject choices that merely add length or sound impressive."
     },
     "difficulty": 3,
-    "difficulty_tier": "verify",
+    "difficulty_tier": "independent",
     "sequence_priority": 6,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-T-007",
@@ -1753,37 +2057,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "verify",
-    "skill": "organisation_of_curriculum_texts",
-    "question": "For a festival review, which sequence best suits a scientific investigation report?",
-    "audio_prompt": "For a festival review, which sequence best suits a scientific investigation report?",
+    "stage": "transfer",
+    "skill": "stage-reasoning",
+    "question": "While reviewing a school report, which statement should an editor reject about “Three paragraphs together explain how rainfall enters the river system.”?",
+    "audio_prompt": "While reviewing a school report, which statement should an editor reject about “Three paragraphs together explain how rainfall enters the river system.”?",
     "answers": [
       {
-        "text": "orientation, climax, resolution only",
+        "text": "Every information report must be written in time order.",
         "is_correct": false
       },
       {
-        "text": "question, method, results, conclusion",
+        "text": "An explanation and a procedure have the same purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "A stage is always one paragraph.",
         "is_correct": true
       },
       {
-        "text": "slogan, price, purchase",
-        "is_correct": false
-      },
-      {
-        "text": "greeting, joke, farewell",
+        "text": "Numbered steps alone prove that a text is a procedure.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "“question, method, results, conclusion” is supported by the language evidence and purpose of the text.",
-      "hint": "Paragraphs, screens, diagrams, voice and navigation can all organise phases in multimodal texts."
+      "summary": "The rejected statement is an inaccurate generalisation about stage.",
+      "hint": "Select the claim contradicted by the evidence or by the language rule."
     },
     "difficulty": 3,
-    "difficulty_tier": "verify",
+    "difficulty_tier": "transfer",
     "sequence_priority": 7,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-T-008",
@@ -1791,37 +2095,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "verify",
-    "skill": "independent_misconception_check",
-    "question": "A writer preparing a emergency-preparedness talk says, “Every subject uses one text type”. Which response is most accurate?",
-    "audio_prompt": "A writer preparing a emergency-preparedness talk says, “Every subject uses one text type”. Which response is most accurate?",
+    "stage": "transfer",
+    "skill": "phase-explanation",
+    "question": "For a school report, which explanation would earn full credit for the language choice in “Within the results stage, one paragraph reports temperature and another reports growth.”?",
+    "audio_prompt": "For a school report, which explanation would earn full credit for the language choice in “Within the results stage, one paragraph reports temperature and another reports growth.”?",
     "answers": [
       {
-        "text": "Stage equals one paragraph",
+        "text": "Classification followed by grouped description helps readers build organised knowledge.",
         "is_correct": false
       },
       {
-        "text": "Every subject uses one text type",
+        "text": "A phenomenon-to-causes-to-result sequence answers how or why something occurs.",
         "is_correct": false
       },
       {
-        "text": "Purpose determines form.",
+        "text": "The order enables a reader to complete a task accurately and safely.",
+        "is_correct": false
+      },
+      {
+        "text": "Each smaller move develops one part of the larger results stage.",
         "is_correct": true
-      },
-      {
-        "text": "Template followed without adaptation",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Purpose determines form. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "Each smaller move develops one part of the larger results stage.",
+      "hint": "A full-credit explanation links exact evidence to meaning or purpose."
     },
     "difficulty": 3,
-    "difficulty_tier": "verify",
+    "difficulty_tier": "transfer",
     "sequence_priority": 8,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-T-009",
@@ -1829,37 +2133,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "apply",
-    "skill": "stage_1",
-    "question": "A water-saving brochure includes “explain key concept”. Which description best fits this wording?",
-    "audio_prompt": "A water-saving brochure includes “explain key concept”. Which description best fits this wording?",
+    "stage": "independent",
+    "skill": "adapted opening",
+    "question": "In a community webpage, you read: “A science report opens with a brief story about finding a sick turtle before classifying plastic pollution.” Which analysis is most accurate?",
+    "audio_prompt": "In a community webpage, you read: “A science report opens with a brief story about finding a sick turtle before classifying plastic pollution.” Which analysis is most accurate?",
     "answers": [
       {
-        "text": "science investigation",
-        "is_correct": false
-      },
-      {
-        "text": "historical explanation",
-        "is_correct": false
-      },
-      {
-        "text": "argument",
-        "is_correct": false
-      },
-      {
-        "text": "Stage 1",
+        "text": "adapted opening: The anecdote engages readers while the report’s dominant informative purpose remains clear.",
         "is_correct": true
+      },
+      {
+        "text": "information report: Classification followed by grouped description helps readers build organised knowledge.",
+        "is_correct": false
+      },
+      {
+        "text": "explanation: A phenomenon-to-causes-to-result sequence answers how or why something occurs.",
+        "is_correct": false
+      },
+      {
+        "text": "procedure: The order enables a reader to complete a task accurately and safely.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The wording best matches Stage 1.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "adapted opening is supported by the wording and its function in the whole sentence.",
+      "hint": "Identify, cite and explain."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "independent",
     "sequence_priority": 9,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-T-010",
@@ -1867,37 +2171,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "apply",
-    "skill": "disciplinary_language",
-    "question": "In a local council submission, which term matches this meaning: “specialised language patterns of a subject”?",
-    "audio_prompt": "In a local council submission, which term matches this meaning: “specialised language patterns of a subject”?",
+    "stage": "independent",
+    "skill": "embedded structure-purpose",
+    "question": "For a community webpage, which editing decision best demonstrates control of embedded structure?",
+    "audio_prompt": "For a community webpage, which editing decision best demonstrates control of embedded structure?",
     "answers": [
       {
-        "text": "disciplinary language",
+        "text": "Use headings for classification, habitat, species and threats.",
+        "is_correct": false
+      },
+      {
+        "text": "Signal the embedded explanation with “because” and return clearly to the recommendation.",
         "is_correct": true
       },
       {
-        "text": "stage",
+        "text": "Move the result after the linked causes so the process is easy to follow.",
         "is_correct": false
       },
       {
-        "text": "phase",
-        "is_correct": false
-      },
-      {
-        "text": "It does not match the evidence in the example.",
+        "text": "Place the warning immediately before the step where the hazard occurs.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "disciplinary language is the precise term for specialised language patterns of a subject.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This option deliberately applies embedded structure without changing the intended meaning.",
+      "hint": "Reject choices that merely add length or sound impressive."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "independent",
     "sequence_priority": 10,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-T-011",
@@ -1905,37 +2209,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "apply",
-    "skill": "organisation_of_curriculum_texts",
-    "question": "For a marine-research diary, which sequence best suits a scientific investigation report?",
-    "audio_prompt": "For a marine-research diary, which sequence best suits a scientific investigation report?",
+    "stage": "transfer",
+    "skill": "multimodal phase-reasoning",
+    "question": "While reviewing a community webpage, which statement should an editor reject about “A diagram and caption show the water cycle between two explanatory paragraphs.”?",
+    "audio_prompt": "While reviewing a community webpage, which statement should an editor reject about “A diagram and caption show the water cycle between two explanatory paragraphs.”?",
     "answers": [
       {
-        "text": "orientation, climax, resolution only",
+        "text": "Every information report must be written in time order.",
         "is_correct": false
       },
       {
-        "text": "question, method, results, conclusion",
+        "text": "An explanation and a procedure have the same purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Visuals sit outside a text’s organisation.",
         "is_correct": true
       },
       {
-        "text": "slogan, price, purchase",
-        "is_correct": false
-      },
-      {
-        "text": "greeting, joke, farewell",
+        "text": "Numbered steps alone prove that a text is a procedure.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "“question, method, results, conclusion” is supported by the language evidence and purpose of the text.",
-      "hint": "Paragraphs, screens, diagrams, voice and navigation can all organise phases in multimodal texts."
+      "summary": "The rejected statement is an inaccurate generalisation about multimodal phase.",
+      "hint": "Select the claim contradicted by the evidence or by the language rule."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "transfer",
     "sequence_priority": 11,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-T-012",
@@ -1943,37 +2247,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "apply",
-    "skill": "independent_misconception_check",
-    "question": "A writer preparing a farmers market profile says, “Every subject uses one text type”. Which response is most accurate?",
-    "audio_prompt": "A writer preparing a farmers market profile says, “Every subject uses one text type”. Which response is most accurate?",
+    "stage": "transfer",
+    "skill": "dominant structure-explanation",
+    "question": "For a community webpage, which explanation would earn full credit for the language choice in “A creek article describes the damage, explains its causes, compares two repairs and recommends native planting.”?",
+    "audio_prompt": "For a community webpage, which explanation would earn full credit for the language choice in “A creek article describes the damage, explains its causes, compares two repairs and recommends native planting.”?",
     "answers": [
       {
-        "text": "Stage equals one paragraph",
+        "text": "Classification followed by grouped description helps readers build organised knowledge.",
         "is_correct": false
       },
       {
-        "text": "Every subject uses one text type",
+        "text": "A phenomenon-to-causes-to-result sequence answers how or why something occurs.",
         "is_correct": false
       },
       {
-        "text": "Purpose determines form.",
+        "text": "The order enables a reader to complete a task accurately and safely.",
+        "is_correct": false
+      },
+      {
+        "text": "Problem–solution dominates even though cause–effect and comparison phases are embedded.",
         "is_correct": true
-      },
-      {
-        "text": "Template followed without adaptation",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Purpose determines form. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "Problem–solution dominates even though cause–effect and comparison phases are embedded.",
+      "hint": "A full-credit explanation links exact evidence to meaning or purpose."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "transfer",
     "sequence_priority": 12,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-T-013",
@@ -1981,37 +2285,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "apply",
-    "skill": "conclusion",
-    "question": "A astronomy exhibition includes “synthesise and recommend”. Which description best fits this wording?",
-    "audio_prompt": "A astronomy exhibition includes “synthesise and recommend”. Which description best fits this wording?",
+    "stage": "independent",
+    "skill": "information report",
+    "question": "In a student presentation, you read: “Wetlands are defined first; later sections group details about plants, animals and water quality.” Which analysis is most accurate?",
+    "audio_prompt": "In a student presentation, you read: “Wetlands are defined first; later sections group details about plants, animals and water quality.” Which analysis is most accurate?",
     "answers": [
       {
-        "text": "science investigation",
-        "is_correct": false
-      },
-      {
-        "text": "historical explanation",
-        "is_correct": false
-      },
-      {
-        "text": "argument",
-        "is_correct": false
-      },
-      {
-        "text": "Conclusion",
+        "text": "information report: Classification followed by grouped description helps readers build organised knowledge.",
         "is_correct": true
+      },
+      {
+        "text": "explanation: A phenomenon-to-causes-to-result sequence answers how or why something occurs.",
+        "is_correct": false
+      },
+      {
+        "text": "procedure: The order enables a reader to complete a task accurately and safely.",
+        "is_correct": false
+      },
+      {
+        "text": "historical recount: Chronology helps readers follow what happened over time.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The wording best matches Conclusion.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "information report is supported by the wording and its function in the whole sentence.",
+      "hint": "Identify, cite and explain."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "independent",
     "sequence_priority": 13,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-T-014",
@@ -2019,37 +2323,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "apply",
-    "skill": "stage",
-    "question": "In a river-restoration update, which term matches this meaning: “major functional section”?",
-    "audio_prompt": "In a river-restoration update, which term matches this meaning: “major functional section”?",
+    "stage": "independent",
+    "skill": "explanation-purpose",
+    "question": "For a student presentation, which editing decision best demonstrates control of explanation?",
+    "audio_prompt": "For a student presentation, which editing decision best demonstrates control of explanation?",
     "answers": [
       {
-        "text": "stage",
+        "text": "Use headings for classification, habitat, species and threats.",
+        "is_correct": false
+      },
+      {
+        "text": "Move the result after the linked causes so the process is easy to follow.",
         "is_correct": true
       },
       {
-        "text": "phase",
+        "text": "Place the warning immediately before the step where the hazard occurs.",
         "is_correct": false
       },
       {
-        "text": "disciplinary language",
-        "is_correct": false
-      },
-      {
-        "text": "It does not match the evidence in the example.",
+        "text": "Add dated evidence and transitions such as “later that year”.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "stage is the precise term for major functional section.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This option deliberately applies explanation without changing the intended meaning.",
+      "hint": "Reject choices that merely add length or sound impressive."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "independent",
     "sequence_priority": 14,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-T-015",
@@ -2057,37 +2361,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "apply",
-    "skill": "organisation_of_curriculum_texts",
-    "question": "For a cycling-safety campaign, which sequence best suits a scientific investigation report?",
-    "audio_prompt": "For a cycling-safety campaign, which sequence best suits a scientific investigation report?",
+    "stage": "transfer",
+    "skill": "procedure-reasoning",
+    "question": "While reviewing a student presentation, which statement should an editor reject about “The page states a goal, lists equipment, gives numbered steps and finishes with a safety check.”?",
+    "audio_prompt": "While reviewing a student presentation, which statement should an editor reject about “The page states a goal, lists equipment, gives numbered steps and finishes with a safety check.”?",
     "answers": [
       {
-        "text": "orientation, climax, resolution only",
+        "text": "Every information report must be written in time order.",
         "is_correct": false
       },
       {
-        "text": "question, method, results, conclusion",
+        "text": "An explanation and a procedure have the same purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Numbered steps alone prove that a text is a procedure.",
         "is_correct": true
       },
       {
-        "text": "slogan, price, purchase",
-        "is_correct": false
-      },
-      {
-        "text": "greeting, joke, farewell",
+        "text": "A historical recount should never explain causes.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "“question, method, results, conclusion” is supported by the language evidence and purpose of the text.",
-      "hint": "Paragraphs, screens, diagrams, voice and navigation can all organise phases in multimodal texts."
+      "summary": "The rejected statement is an inaccurate generalisation about procedure.",
+      "hint": "Select the claim contradicted by the evidence or by the language rule."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "transfer",
     "sequence_priority": 15,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA03-T-016",
@@ -2095,36 +2399,36 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "apply",
-    "skill": "independent_misconception_check",
-    "question": "A writer preparing a neighbourhood history podcast says, “Every subject uses one text type”. Which response is most accurate?",
-    "audio_prompt": "A writer preparing a neighbourhood history podcast says, “Every subject uses one text type”. Which response is most accurate?",
+    "stage": "transfer",
+    "skill": "historical recount-explanation",
+    "question": "For a student presentation, which explanation would earn full credit for the language choice in “The account establishes the setting, sequences events and closes with their immediate outcome.”?",
+    "audio_prompt": "For a student presentation, which explanation would earn full credit for the language choice in “The account establishes the setting, sequences events and closes with their immediate outcome.”?",
     "answers": [
       {
-        "text": "Stage equals one paragraph",
+        "text": "Classification followed by grouped description helps readers build organised knowledge.",
         "is_correct": false
       },
       {
-        "text": "Every subject uses one text type",
+        "text": "A phenomenon-to-causes-to-result sequence answers how or why something occurs.",
         "is_correct": false
       },
       {
-        "text": "Purpose determines form.",
+        "text": "The order enables a reader to complete a task accurately and safely.",
+        "is_correct": false
+      },
+      {
+        "text": "Chronology helps readers follow what happened over time.",
         "is_correct": true
-      },
-      {
-        "text": "Template followed without adaptation",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Purpose determines form. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "Chronology helps readers follow what happened over time.",
+      "hint": "A full-credit explanation links exact evidence to meaning or purpose."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "transfer",
     "sequence_priority": 16,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   }
 ]

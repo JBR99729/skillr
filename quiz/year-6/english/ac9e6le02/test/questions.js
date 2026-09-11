@@ -4,12 +4,12 @@ window.skillrTestQuestions = [
     "id": "AC9E6LE02-T-001",
     "curriculumCode": "AC9E6LE02",
     "bank": "test",
-    "stage": "verify",
-    "skill": "identify difference",
+    "stage": "independent",
+    "skill": "topic versus theme",
     "printable": true,
     "type": "single",
-    "question": "A community radio segment includes “identify difference”. Which description best fits this wording?",
-    "audioPrompt": "A community radio segment includes “identify difference”. Which description best fits this wording?",
+    "question": "In a museum panel, “Both stories involve journeys, but one explores independence while the other explores responsibility to family.” Which analysis is strongest?",
+    "audioPrompt": "In a museum panel, “Both stories involve journeys, but one explores independence while the other explores responsibility to family.” Which analysis is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -17,29 +17,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "context",
-      "viewpoint",
-      "conflict",
-      "identify difference"
+      "theme comparison: The similarity concerns an idea developed through events, not just a shared object.",
+      "plot similarity: The shared plot pattern creates a useful basis for comparison.",
+      "plot difference: Different resolutions shape different messages about relationships.",
+      "topic versus theme: A shared topic can develop into different underlying ideas."
     ],
     "correct": 3,
-    "explanation": "The wording best matches identify difference.\nHint: Identify the language choice first, then check its effect in this context.",
+    "explanation": "topic versus theme is supported by exact evidence and context.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches identify difference.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "topic versus theme is supported by exact evidence and context.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE02-T-002",
     "curriculumCode": "AC9E6LE02",
     "bank": "test",
-    "stage": "verify",
-    "skill": "theme",
+    "stage": "independent",
+    "skill": "theme comparison edit",
     "printable": true,
     "type": "single",
-    "question": "In a wildlife-centre report, which term matches this meaning: “idea explored through a literary text”?",
-    "audioPrompt": "In a wildlife-centre report, which term matches this meaning: “idea explored through a literary text”?",
+    "question": "Which edit best demonstrates control of theme comparison in a museum panel?",
+    "audioPrompt": "Which edit best demonstrates control of theme comparison in a museum panel?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -47,29 +47,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "theme",
-      "comparative analysis",
-      "synthesis",
-      "It does not match the evidence in the example."
+      "Cite one trust-building decision from each text.",
+      "State the common journey topic, then name and support each distinct theme.",
+      "Compare how each decision changes the resolution.",
+      "Explain how each ending completes its text’s theme."
     ],
     "correct": 0,
-    "explanation": "theme is the precise term for idea explored through a literary text.\nHint: Distinguish closely related terms by their definitions.",
+    "explanation": "This edit applies theme comparison without distorting the intended meaning.\nHint: Choose purposeful accuracy, not decoration.",
     "structuredExplanation": {
-      "summary": "theme is the precise term for idea explored through a literary text.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies theme comparison without distorting the intended meaning.",
+      "hint": "Choose purposeful accuracy, not decoration."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE02-T-003",
     "curriculumCode": "AC9E6LE02",
     "bank": "test",
-    "stage": "verify",
-    "skill": "comparing literary texts on similar topics or themes",
+    "stage": "transfer",
+    "skill": "plot similarity misconception",
     "printable": true,
     "type": "single",
-    "question": "For a regional youth forum, which comparison is most analytical?",
-    "audioPrompt": "For a regional youth forum, which comparison is most analytical?",
+    "question": "Which claim should an editor reject when reviewing this museum panel: “Each protagonist loses an important object and must decide whether to ask for help.”?",
+    "audioPrompt": "Which claim should an editor reject when reviewing this museum panel: “Each protagonist loses an important object and must decide whether to ask for help.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -77,29 +77,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both texts contain people",
-      "Both texts explore belonging, but one links it to peers while the other links it to family history",
-      "Text A is longer",
-      "The covers differ"
+      "Texts on the same topic must communicate the same message.",
+      "Similar plots make two texts identical.",
+      "A theme is a one-word topic such as “friendship”.",
+      "Comparison means deciding which plot is better."
     ],
     "correct": 1,
-    "explanation": "“Both texts explore belonging, but one links it to peers while the other links it to family history” is supported by the language evidence and purpose of the text.\nHint: Use balanced evidence. Avoid writing one paragraph about each text with no direct comparison.",
+    "explanation": "The rejected claim is an inaccurate generalisation about plot similarity.\nHint: Select the claim contradicted by the evidence or convention.",
     "structuredExplanation": {
-      "summary": "“Both texts explore belonging, but one links it to peers while the other links it to family history” is supported by the language evidence and purpose of the text.",
-      "hint": "Use balanced evidence. Avoid writing one paragraph about each text with no direct comparison."
+      "summary": "The rejected claim is an inaccurate generalisation about plot similarity.",
+      "hint": "Select the claim contradicted by the evidence or convention."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE02-T-004",
     "curriculumCode": "AC9E6LE02",
     "bank": "test",
-    "stage": "verify",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "plot difference reasoning",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a coastal-monitoring update says, “Comparison lists features only”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a coastal-monitoring update says, “Comparison lists features only”. Which response is most accurate?",
+    "question": "Which explanation best accounts for “Text A resolves the conflict through cooperation; Text B ends with the character leaving alone.” in this museum panel?",
+    "audioPrompt": "Which explanation best accounts for “Text A resolves the conflict through cooperation; Text B ends with the character leaving alone.” in this museum panel?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -107,29 +107,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Shared topic treated as shared message",
-      "Comparison lists features only",
-      "Explain significance.",
-      "Evidence comes from one text"
+      "A shared topic can develop into different underlying ideas.",
+      "The similarity concerns an idea developed through events, not just a shared object.",
+      "Different resolutions shape different messages about relationships.",
+      "The shared plot pattern creates a useful basis for comparison."
     ],
     "correct": 2,
-    "explanation": "Explain significance. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "explanation": "Different resolutions shape different messages about relationships.\nHint: A strong explanation connects a feature to its contextual effect.",
     "structuredExplanation": {
-      "summary": "Explain significance. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "Different resolutions shape different messages about relationships.",
+      "hint": "A strong explanation connects a feature to its contextual effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE02-T-005",
     "curriculumCode": "AC9E6LE02",
     "bank": "test",
-    "stage": "verify",
-    "skill": "state meaningful similarity",
+    "stage": "independent",
+    "skill": "setting",
     "printable": true,
     "type": "single",
-    "question": "A heritage trail guide includes “state meaningful similarity”. Which description best fits this wording?",
-    "audioPrompt": "A heritage trail guide includes “state meaningful similarity”. Which description best fits this wording?",
+    "question": "In a school magazine, “A city apartment creates crowded anonymity, while an island community creates constant familiarity.” Which analysis is strongest?",
+    "audioPrompt": "In a school magazine, “A city apartment creates crowded anonymity, while an island community creates constant familiarity.” Which analysis is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -137,29 +137,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "context",
-      "viewpoint",
-      "conflict",
-      "state meaningful similarity"
+      "topic versus theme: A shared topic can develop into different underlying ideas.",
+      "theme comparison: The similarity concerns an idea developed through events, not just a shared object.",
+      "plot similarity: The shared plot pattern creates a useful basis for comparison.",
+      "setting: The contrasting settings place different pressures on the same belonging theme."
     ],
     "correct": 3,
-    "explanation": "The wording best matches state meaningful similarity.\nHint: Identify the language choice first, then check its effect in this context.",
+    "explanation": "setting is supported by exact evidence and context.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches state meaningful similarity.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "setting is supported by exact evidence and context.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE02-T-006",
     "curriculumCode": "AC9E6LE02",
     "bank": "test",
-    "stage": "verify",
-    "skill": "comparative analysis",
+    "stage": "independent",
+    "skill": "viewpoint edit",
     "printable": true,
     "type": "single",
-    "question": "In a public-transport survey, which term matches this meaning: “explanation of meaningful similarities and differences”?",
-    "audioPrompt": "In a public-transport survey, which term matches this meaning: “explanation of meaningful similarities and differences”?",
+    "question": "Which edit best demonstrates control of viewpoint in a school magazine?",
+    "audioPrompt": "Which edit best demonstrates control of viewpoint in a school magazine?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -167,29 +167,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "comparative analysis",
-      "theme",
-      "synthesis",
-      "It does not match the evidence in the example."
+      "Compare one event that readers interpret differently because of viewpoint.",
+      "State the common journey topic, then name and support each distinct theme.",
+      "Cite one trust-building decision from each text.",
+      "Compare how each decision changes the resolution."
     ],
     "correct": 0,
-    "explanation": "comparative analysis is the precise term for explanation of meaningful similarities and differences.\nHint: Distinguish closely related terms by their definitions.",
+    "explanation": "This edit applies viewpoint without distorting the intended meaning.\nHint: Choose purposeful accuracy, not decoration.",
     "structuredExplanation": {
-      "summary": "comparative analysis is the precise term for explanation of meaningful similarities and differences.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies viewpoint without distorting the intended meaning.",
+      "hint": "Choose purposeful accuracy, not decoration."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE02-T-007",
     "curriculumCode": "AC9E6LE02",
     "bank": "test",
-    "stage": "verify",
-    "skill": "comparing literary texts on similar topics or themes",
+    "stage": "transfer",
+    "skill": "character contrast misconception",
     "printable": true,
     "type": "single",
-    "question": "For a festival review, which comparison is most analytical?",
-    "audioPrompt": "For a festival review, which comparison is most analytical?",
+    "question": "Which claim should an editor reject when reviewing this school magazine: “Both protagonists are determined, but one seeks advice while the other refuses help.”?",
+    "audioPrompt": "Which claim should an editor reject when reviewing this school magazine: “Both protagonists are determined, but one seeks advice while the other refuses help.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -197,29 +197,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both texts contain people",
-      "Both texts explore belonging, but one links it to peers while the other links it to family history",
-      "Text A is longer",
-      "The covers differ"
+      "Texts on the same topic must communicate the same message.",
+      "Characters can be compared only when they behave alike.",
+      "A theme is a one-word topic such as “friendship”.",
+      "Similar plots make two texts identical."
     ],
     "correct": 1,
-    "explanation": "“Both texts explore belonging, but one links it to peers while the other links it to family history” is supported by the language evidence and purpose of the text.\nHint: Use balanced evidence. Avoid writing one paragraph about each text with no direct comparison.",
+    "explanation": "The rejected claim is an inaccurate generalisation about character contrast.\nHint: Select the claim contradicted by the evidence or convention.",
     "structuredExplanation": {
-      "summary": "“Both texts explore belonging, but one links it to peers while the other links it to family history” is supported by the language evidence and purpose of the text.",
-      "hint": "Use balanced evidence. Avoid writing one paragraph about each text with no direct comparison."
+      "summary": "The rejected claim is an inaccurate generalisation about character contrast.",
+      "hint": "Select the claim contradicted by the evidence or convention."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE02-T-008",
     "curriculumCode": "AC9E6LE02",
     "bank": "test",
-    "stage": "verify",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "symbol reasoning",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a emergency-preparedness talk says, “Comparison lists features only”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a emergency-preparedness talk says, “Comparison lists features only”. Which response is most accurate?",
+    "question": "Which explanation best accounts for “A locked door represents exclusion in one story; a returned key represents restored trust in another.” in this school magazine?",
+    "audioPrompt": "Which explanation best accounts for “A locked door represents exclusion in one story; a returned key represents restored trust in another.” in this school magazine?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -227,29 +227,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Shared topic treated as shared message",
-      "Comparison lists features only",
-      "Explain significance.",
-      "Evidence comes from one text"
+      "A shared topic can develop into different underlying ideas.",
+      "The similarity concerns an idea developed through events, not just a shared object.",
+      "Related symbols develop opposite stages of the belonging theme.",
+      "The shared plot pattern creates a useful basis for comparison."
     ],
     "correct": 2,
-    "explanation": "Explain significance. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "explanation": "Related symbols develop opposite stages of the belonging theme.\nHint: A strong explanation connects a feature to its contextual effect.",
     "structuredExplanation": {
-      "summary": "Explain significance. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "Related symbols develop opposite stages of the belonging theme.",
+      "hint": "A strong explanation connects a feature to its contextual effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE02-T-009",
     "curriculumCode": "AC9E6LE02",
     "bank": "test",
-    "stage": "apply",
-    "skill": "analyse effect on theme",
+    "stage": "independent",
+    "skill": "genre",
     "printable": true,
     "type": "single",
-    "question": "A water-saving brochure includes “analyse effect on theme”. Which description best fits this wording?",
-    "audioPrompt": "A water-saving brochure includes “analyse effect on theme”. Which description best fits this wording?",
+    "question": "In a community website, “A poem compresses migration into recurring images; a novel develops it through events and dialogue.” Which analysis is strongest?",
+    "audioPrompt": "In a community website, “A poem compresses migration into recurring images; a novel develops it through events and dialogue.” Which analysis is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -257,29 +257,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "context",
-      "viewpoint",
-      "conflict",
-      "analyse effect on theme"
+      "topic versus theme: A shared topic can develop into different underlying ideas.",
+      "theme comparison: The similarity concerns an idea developed through events, not just a shared object.",
+      "plot similarity: The shared plot pattern creates a useful basis for comparison.",
+      "genre: Genre resources shape how the shared topic is represented."
     ],
     "correct": 3,
-    "explanation": "The wording best matches analyse effect on theme.\nHint: Identify the language choice first, then check its effect in this context.",
+    "explanation": "genre is supported by exact evidence and context.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches analyse effect on theme.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "genre is supported by exact evidence and context.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE02-T-010",
     "curriculumCode": "AC9E6LE02",
     "bank": "test",
-    "stage": "apply",
-    "skill": "synthesis",
+    "stage": "independent",
+    "skill": "context edit",
     "printable": true,
     "type": "single",
-    "question": "In a local council submission, which term matches this meaning: “combined conclusion developed from both texts”?",
-    "audioPrompt": "In a local council submission, which term matches this meaning: “combined conclusion developed from both texts”?",
+    "question": "Which edit best demonstrates control of context in a community website?",
+    "audioPrompt": "Which edit best demonstrates control of context in a community website?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -287,29 +287,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "synthesis",
-      "theme",
-      "comparative analysis",
-      "It does not match the evidence in the example."
+      "Connect context to a specific choice in both texts.",
+      "State the common journey topic, then name and support each distinct theme.",
+      "Cite one trust-building decision from each text.",
+      "Compare how each decision changes the resolution."
     ],
     "correct": 0,
-    "explanation": "synthesis is the precise term for combined conclusion developed from both texts.\nHint: Distinguish closely related terms by their definitions.",
+    "explanation": "This edit applies context without distorting the intended meaning.\nHint: Choose purposeful accuracy, not decoration.",
     "structuredExplanation": {
-      "summary": "synthesis is the precise term for combined conclusion developed from both texts.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies context without distorting the intended meaning.",
+      "hint": "Choose purposeful accuracy, not decoration."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE02-T-011",
     "curriculumCode": "AC9E6LE02",
     "bank": "test",
-    "stage": "apply",
-    "skill": "comparing literary texts on similar topics or themes",
+    "stage": "transfer",
+    "skill": "balanced evidence misconception",
     "printable": true,
     "type": "single",
-    "question": "For a marine-research diary, which comparison is most analytical?",
-    "audioPrompt": "For a marine-research diary, which comparison is most analytical?",
+    "question": "Which claim should an editor reject when reviewing this community website: “The comparison quotes Text A’s storm image and Text B’s dry riverbed image.”?",
+    "audioPrompt": "Which claim should an editor reject when reviewing this community website: “The comparison quotes Text A’s storm image and Text B’s dry riverbed image.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -317,29 +317,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both texts contain people",
-      "Both texts explore belonging, but one links it to peers while the other links it to family history",
-      "Text A is longer",
-      "The covers differ"
+      "Texts on the same topic must communicate the same message.",
+      "One detailed quotation is enough evidence for both texts.",
+      "A theme is a one-word topic such as “friendship”.",
+      "Similar plots make two texts identical."
     ],
     "correct": 1,
-    "explanation": "“Both texts explore belonging, but one links it to peers while the other links it to family history” is supported by the language evidence and purpose of the text.\nHint: Use balanced evidence. Avoid writing one paragraph about each text with no direct comparison.",
+    "explanation": "The rejected claim is an inaccurate generalisation about balanced evidence.\nHint: Select the claim contradicted by the evidence or convention.",
     "structuredExplanation": {
-      "summary": "“Both texts explore belonging, but one links it to peers while the other links it to family history” is supported by the language evidence and purpose of the text.",
-      "hint": "Use balanced evidence. Avoid writing one paragraph about each text with no direct comparison."
+      "summary": "The rejected claim is an inaccurate generalisation about balanced evidence.",
+      "hint": "Select the claim contradicted by the evidence or convention."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE02-T-012",
     "curriculumCode": "AC9E6LE02",
     "bank": "test",
-    "stage": "apply",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "synthesis reasoning",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a farmers market profile says, “Comparison lists features only”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a farmers market profile says, “Comparison lists features only”. Which response is most accurate?",
+    "question": "Which explanation best accounts for “Together, the texts show that home can be inherited, rebuilt or chosen.” in this community website?",
+    "audioPrompt": "Which explanation best accounts for “Together, the texts show that home can be inherited, rebuilt or chosen.” in this community website?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -347,29 +347,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Shared topic treated as shared message",
-      "Comparison lists features only",
-      "Explain significance.",
-      "Evidence comes from one text"
+      "A shared topic can develop into different underlying ideas.",
+      "The similarity concerns an idea developed through events, not just a shared object.",
+      "The conclusion combines insights from both texts rather than repeating a list.",
+      "The shared plot pattern creates a useful basis for comparison."
     ],
     "correct": 2,
-    "explanation": "Explain significance. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "explanation": "The conclusion combines insights from both texts rather than repeating a list.\nHint: A strong explanation connects a feature to its contextual effect.",
     "structuredExplanation": {
-      "summary": "Explain significance. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "The conclusion combines insights from both texts rather than repeating a list.",
+      "hint": "A strong explanation connects a feature to its contextual effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE02-T-013",
     "curriculumCode": "AC9E6LE02",
     "bank": "test",
-    "stage": "apply",
-    "skill": "identify difference",
+    "stage": "independent",
+    "skill": "topic versus theme",
     "printable": true,
     "type": "single",
-    "question": "A astronomy exhibition includes “identify difference”. Which description best fits this wording?",
-    "audioPrompt": "A astronomy exhibition includes “identify difference”. Which description best fits this wording?",
+    "question": "In a student presentation, “Both stories involve journeys, but one explores independence while the other explores responsibility to family.” Which analysis is strongest?",
+    "audioPrompt": "In a student presentation, “Both stories involve journeys, but one explores independence while the other explores responsibility to family.” Which analysis is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -377,29 +377,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "context",
-      "viewpoint",
-      "conflict",
-      "identify difference"
+      "theme comparison: The similarity concerns an idea developed through events, not just a shared object.",
+      "plot similarity: The shared plot pattern creates a useful basis for comparison.",
+      "plot difference: Different resolutions shape different messages about relationships.",
+      "topic versus theme: A shared topic can develop into different underlying ideas."
     ],
     "correct": 3,
-    "explanation": "The wording best matches identify difference.\nHint: Identify the language choice first, then check its effect in this context.",
+    "explanation": "topic versus theme is supported by exact evidence and context.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches identify difference.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "topic versus theme is supported by exact evidence and context.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE02-T-014",
     "curriculumCode": "AC9E6LE02",
     "bank": "test",
-    "stage": "apply",
-    "skill": "theme",
+    "stage": "independent",
+    "skill": "theme comparison edit",
     "printable": true,
     "type": "single",
-    "question": "In a river-restoration update, which term matches this meaning: “idea explored through a literary text”?",
-    "audioPrompt": "In a river-restoration update, which term matches this meaning: “idea explored through a literary text”?",
+    "question": "Which edit best demonstrates control of theme comparison in a student presentation?",
+    "audioPrompt": "Which edit best demonstrates control of theme comparison in a student presentation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -407,29 +407,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "theme",
-      "comparative analysis",
-      "synthesis",
-      "It does not match the evidence in the example."
+      "Cite one trust-building decision from each text.",
+      "State the common journey topic, then name and support each distinct theme.",
+      "Compare how each decision changes the resolution.",
+      "Explain how each ending completes its text’s theme."
     ],
     "correct": 0,
-    "explanation": "theme is the precise term for idea explored through a literary text.\nHint: Distinguish closely related terms by their definitions.",
+    "explanation": "This edit applies theme comparison without distorting the intended meaning.\nHint: Choose purposeful accuracy, not decoration.",
     "structuredExplanation": {
-      "summary": "theme is the precise term for idea explored through a literary text.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies theme comparison without distorting the intended meaning.",
+      "hint": "Choose purposeful accuracy, not decoration."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE02-T-015",
     "curriculumCode": "AC9E6LE02",
     "bank": "test",
-    "stage": "apply",
-    "skill": "comparing literary texts on similar topics or themes",
+    "stage": "transfer",
+    "skill": "plot similarity misconception",
     "printable": true,
     "type": "single",
-    "question": "For a cycling-safety campaign, which comparison is most analytical?",
-    "audioPrompt": "For a cycling-safety campaign, which comparison is most analytical?",
+    "question": "Which claim should an editor reject when reviewing this student presentation: “Each protagonist loses an important object and must decide whether to ask for help.”?",
+    "audioPrompt": "Which claim should an editor reject when reviewing this student presentation: “Each protagonist loses an important object and must decide whether to ask for help.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -437,29 +437,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both texts contain people",
-      "Both texts explore belonging, but one links it to peers while the other links it to family history",
-      "Text A is longer",
-      "The covers differ"
+      "Texts on the same topic must communicate the same message.",
+      "Similar plots make two texts identical.",
+      "A theme is a one-word topic such as “friendship”.",
+      "Comparison means deciding which plot is better."
     ],
     "correct": 1,
-    "explanation": "“Both texts explore belonging, but one links it to peers while the other links it to family history” is supported by the language evidence and purpose of the text.\nHint: Use balanced evidence. Avoid writing one paragraph about each text with no direct comparison.",
+    "explanation": "The rejected claim is an inaccurate generalisation about plot similarity.\nHint: Select the claim contradicted by the evidence or convention.",
     "structuredExplanation": {
-      "summary": "“Both texts explore belonging, but one links it to peers while the other links it to family history” is supported by the language evidence and purpose of the text.",
-      "hint": "Use balanced evidence. Avoid writing one paragraph about each text with no direct comparison."
+      "summary": "The rejected claim is an inaccurate generalisation about plot similarity.",
+      "hint": "Select the claim contradicted by the evidence or convention."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE02-T-016",
     "curriculumCode": "AC9E6LE02",
     "bank": "test",
-    "stage": "apply",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "plot difference reasoning",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a neighbourhood history podcast says, “Comparison lists features only”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a neighbourhood history podcast says, “Comparison lists features only”. Which response is most accurate?",
+    "question": "Which explanation best accounts for “Text A resolves the conflict through cooperation; Text B ends with the character leaving alone.” in this student presentation?",
+    "audioPrompt": "Which explanation best accounts for “Text A resolves the conflict through cooperation; Text B ends with the character leaving alone.” in this student presentation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -467,18 +467,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Shared topic treated as shared message",
-      "Comparison lists features only",
-      "Explain significance.",
-      "Evidence comes from one text"
+      "A shared topic can develop into different underlying ideas.",
+      "The similarity concerns an idea developed through events, not just a shared object.",
+      "Different resolutions shape different messages about relationships.",
+      "The shared plot pattern creates a useful basis for comparison."
     ],
     "correct": 2,
-    "explanation": "Explain significance. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "explanation": "Different resolutions shape different messages about relationships.\nHint: A strong explanation connects a feature to its contextual effect.",
     "structuredExplanation": {
-      "summary": "Explain significance. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "Different resolutions shape different messages about relationships.",
+      "hint": "A strong explanation connects a feature to its contextual effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

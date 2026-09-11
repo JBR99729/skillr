@@ -4,12 +4,12 @@ window.skillrTestQuestions = [
     "id": "AC9E6LA08-T-001",
     "curriculumCode": "AC9E6LA08",
     "bank": "test",
-    "stage": "verify",
-    "skill": "determined",
+    "stage": "independent",
+    "skill": "metaphor",
     "printable": true,
     "type": "single",
-    "question": "A community radio segment includes “positive persistence”. Which description best fits this wording?",
-    "audioPrompt": "A community radio segment includes “positive persistence”. Which description best fits this wording?",
+    "question": "In a museum panel, “The city was a furnace by noon.” Which analysis is strongest?",
+    "audioPrompt": "In a museum panel, “The city was a furnace by noon.” Which analysis is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -17,29 +17,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "determined",
-      "The city was a furnace.",
-      "Roads were glowing veins.",
-      "The sun hammered the roofs."
+      "simile: The comparison helps readers hear the rain as hard, rapid and noisy.",
+      "metaphor: The direct comparison frames the heat as enclosing, intense and dangerous.",
+      "personification: The human-like verb makes the wind seem persistent and unsettling.",
+      "hyperbole: The deliberate exaggeration emphasises impatience rather than stating literal time."
     ],
-    "correct": 0,
-    "explanation": "The wording best matches determined.\nHint: Identify the language choice first, then check its effect in this context.",
+    "correct": 1,
+    "explanation": "metaphor is supported by exact evidence and context.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches determined.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "metaphor is supported by exact evidence and context.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-T-002",
     "curriculumCode": "AC9E6LA08",
     "bank": "test",
-    "stage": "verify",
-    "skill": "metaphor",
+    "stage": "independent",
+    "skill": "simile edit",
     "printable": true,
     "type": "single",
-    "question": "In a wildlife-centre report, which term matches this meaning: “conceptual comparison describing one thing as another”?",
-    "audioPrompt": "In a wildlife-centre report, which term matches this meaning: “conceptual comparison describing one thing as another”?",
+    "question": "Which edit best demonstrates control of simile in a museum panel?",
+    "audioPrompt": "Which edit best demonstrates control of simile in a museum panel?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -47,29 +47,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "personification",
-      "metaphor",
-      "connotation",
-      "It does not match the evidence in the example."
+      "By noon, the city had become a furnace of glass and concrete.",
+      "All night, the wind tugged and worried at the loose gate.",
+      "Rain struck the roof like gravel flung against metal.",
+      "The final minute before the bell felt a thousand years long."
     ],
-    "correct": 1,
-    "explanation": "metaphor is the precise term for conceptual comparison describing one thing as another.\nHint: Distinguish closely related terms by their definitions.",
+    "correct": 2,
+    "explanation": "This edit applies simile without distorting the intended meaning.\nHint: Choose purposeful accuracy, not decoration.",
     "structuredExplanation": {
-      "summary": "metaphor is the precise term for conceptual comparison describing one thing as another.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies simile without distorting the intended meaning.",
+      "hint": "Choose purposeful accuracy, not decoration."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-T-003",
     "curriculumCode": "AC9E6LA08",
     "bank": "test",
-    "stage": "verify",
-    "skill": "vivid and emotive vocabulary",
+    "stage": "transfer",
+    "skill": "personification misconception",
     "printable": true,
     "type": "single",
-    "question": "For a regional youth forum, which sentence uses metaphor?",
-    "audioPrompt": "For a regional youth forum, which sentence uses metaphor?",
+    "question": "Which claim should an editor reject when reviewing this museum panel: “The wind worried at the loose gate all night.”?",
+    "audioPrompt": "Which claim should an editor reject when reviewing this museum panel: “The wind worried at the loose gate all night.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -77,29 +77,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The city temperature was 39°C.",
-      "The city had roads.",
-      "The city was a furnace.",
-      "The city is large."
+      "A metaphor is any sentence containing descriptive words.",
+      "Every use of “like” creates a simile.",
+      "Hyperbole is a lie that readers are expected to believe.",
+      "Any verb describing a non-human thing is personification."
     ],
-    "correct": 2,
-    "explanation": "“The city was a furnace.” is supported by the language evidence and purpose of the text.\nHint: Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label.",
+    "correct": 3,
+    "explanation": "The rejected claim is an inaccurate generalisation about personification.\nHint: Select the claim contradicted by the evidence or convention.",
     "structuredExplanation": {
-      "summary": "“The city was a furnace.” is supported by the language evidence and purpose of the text.",
-      "hint": "Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label."
+      "summary": "The rejected claim is an inaccurate generalisation about personification.",
+      "hint": "Select the claim contradicted by the evidence or convention."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-T-004",
     "curriculumCode": "AC9E6LA08",
     "bank": "test",
-    "stage": "verify",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "hyperbole reasoning",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a coastal-monitoring update says, “All vivid language is positive”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a coastal-monitoring update says, “All vivid language is positive”. Which response is most accurate?",
+    "question": "Which explanation best accounts for “I waited a thousand years for the bell.” in this museum panel?",
+    "audioPrompt": "Which explanation best accounts for “I waited a thousand years for the bell.” in this museum panel?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -107,29 +107,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Device name treated as analysis",
-      "All vivid language is positive",
-      "Mixed metaphors ignored",
-      "Connotation can threaten, praise or ridicule."
+      "The deliberate exaggeration emphasises impatience rather than stating literal time.",
+      "The direct comparison frames the heat as enclosing, intense and dangerous.",
+      "The comparison helps readers hear the rain as hard, rapid and noisy.",
+      "The human-like verb makes the wind seem persistent and unsettling."
     ],
-    "correct": 3,
-    "explanation": "Connotation can threaten, praise or ridicule. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "correct": 0,
+    "explanation": "The deliberate exaggeration emphasises impatience rather than stating literal time.\nHint: A strong explanation connects a feature to its contextual effect.",
     "structuredExplanation": {
-      "summary": "Connotation can threaten, praise or ridicule. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "The deliberate exaggeration emphasises impatience rather than stating literal time.",
+      "hint": "A strong explanation connects a feature to its contextual effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-T-005",
     "curriculumCode": "AC9E6LA08",
     "bank": "test",
-    "stage": "verify",
-    "skill": "determined",
+    "stage": "independent",
+    "skill": "idiom",
     "printable": true,
     "type": "single",
-    "question": "A heritage trail guide includes “positive persistence”. Which description best fits this wording?",
-    "audioPrompt": "A heritage trail guide includes “positive persistence”. Which description best fits this wording?",
+    "question": "In a school magazine, “After missing the bus, Tariq said he was back to square one.” Which analysis is strongest?",
+    "audioPrompt": "In a school magazine, “After missing the bus, Tariq said he was back to square one.” Which analysis is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -137,29 +137,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "determined",
-      "The city was a furnace.",
-      "Roads were glowing veins.",
-      "The sun hammered the roofs."
+      "metaphor: The direct comparison frames the heat as enclosing, intense and dangerous.",
+      "idiom: The familiar nonliteral phrase means he must begin again.",
+      "simile: The comparison helps readers hear the rain as hard, rapid and noisy.",
+      "personification: The human-like verb makes the wind seem persistent and unsettling."
     ],
-    "correct": 0,
-    "explanation": "The wording best matches determined.\nHint: Identify the language choice first, then check its effect in this context.",
+    "correct": 1,
+    "explanation": "idiom is supported by exact evidence and context.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches determined.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "idiom is supported by exact evidence and context.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-T-006",
     "curriculumCode": "AC9E6LA08",
     "bank": "test",
-    "stage": "verify",
-    "skill": "personification",
+    "stage": "independent",
+    "skill": "visual imagery edit",
     "printable": true,
     "type": "single",
-    "question": "In a public-transport survey, which term matches this meaning: “human qualities assigned to non-human entities”?",
-    "audioPrompt": "In a public-transport survey, which term matches this meaning: “human qualities assigned to non-human entities”?",
+    "question": "Which edit best demonstrates control of visual imagery in a school magazine?",
+    "audioPrompt": "Which edit best demonstrates control of visual imagery in a school magazine?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -167,29 +167,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "metaphor",
-      "personification",
-      "connotation",
-      "It does not match the evidence in the example."
+      "By noon, the city had become a furnace of glass and concrete.",
+      "Rain struck the roof like gravel flung against metal.",
+      "A silver scar of lightning split the purple sky.",
+      "All night, the wind tugged and worried at the loose gate."
     ],
-    "correct": 1,
-    "explanation": "personification is the precise term for human qualities assigned to non-human entities.\nHint: Distinguish closely related terms by their definitions.",
+    "correct": 2,
+    "explanation": "This edit applies visual imagery without distorting the intended meaning.\nHint: Choose purposeful accuracy, not decoration.",
     "structuredExplanation": {
-      "summary": "personification is the precise term for human qualities assigned to non-human entities.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies visual imagery without distorting the intended meaning.",
+      "hint": "Choose purposeful accuracy, not decoration."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-T-007",
     "curriculumCode": "AC9E6LA08",
     "bank": "test",
-    "stage": "verify",
-    "skill": "vivid and emotive vocabulary",
+    "stage": "transfer",
+    "skill": "auditory imagery misconception",
     "printable": true,
     "type": "single",
-    "question": "For a festival review, which sentence uses metaphor?",
-    "audioPrompt": "For a festival review, which sentence uses metaphor?",
+    "question": "Which claim should an editor reject when reviewing this school magazine: “Branches clicked and scraped against the window.”?",
+    "audioPrompt": "Which claim should an editor reject when reviewing this school magazine: “Branches clicked and scraped against the window.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -197,29 +197,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The city temperature was 39°C.",
-      "The city had roads.",
-      "The city was a furnace.",
-      "The city is large."
+      "A metaphor is any sentence containing descriptive words.",
+      "Every use of “like” creates a simile.",
+      "Any verb describing a non-human thing is personification.",
+      "Auditory imagery has to rhyme."
     ],
-    "correct": 2,
-    "explanation": "“The city was a furnace.” is supported by the language evidence and purpose of the text.\nHint: Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label.",
+    "correct": 3,
+    "explanation": "The rejected claim is an inaccurate generalisation about auditory imagery.\nHint: Select the claim contradicted by the evidence or convention.",
     "structuredExplanation": {
-      "summary": "“The city was a furnace.” is supported by the language evidence and purpose of the text.",
-      "hint": "Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label."
+      "summary": "The rejected claim is an inaccurate generalisation about auditory imagery.",
+      "hint": "Select the claim contradicted by the evidence or convention."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-T-008",
     "curriculumCode": "AC9E6LA08",
     "bank": "test",
-    "stage": "verify",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "positive connotation reasoning",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a emergency-preparedness talk says, “All vivid language is positive”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a emergency-preparedness talk says, “All vivid language is positive”. Which response is most accurate?",
+    "question": "Which explanation best accounts for “The resourceful child rebuilt the shelter.” in this school magazine?",
+    "audioPrompt": "Which explanation best accounts for “The resourceful child rebuilt the shelter.” in this school magazine?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -227,29 +227,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Device name treated as analysis",
-      "All vivid language is positive",
-      "Mixed metaphors ignored",
-      "Connotation can threaten, praise or ridicule."
+      "“Resourceful” praises practical problem-solving and resilience.",
+      "The direct comparison frames the heat as enclosing, intense and dangerous.",
+      "The comparison helps readers hear the rain as hard, rapid and noisy.",
+      "The human-like verb makes the wind seem persistent and unsettling."
     ],
-    "correct": 3,
-    "explanation": "Connotation can threaten, praise or ridicule. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "correct": 0,
+    "explanation": "“Resourceful” praises practical problem-solving and resilience.\nHint: A strong explanation connects a feature to its contextual effect.",
     "structuredExplanation": {
-      "summary": "Connotation can threaten, praise or ridicule. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "“Resourceful” praises practical problem-solving and resilience.",
+      "hint": "A strong explanation connects a feature to its contextual effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-T-009",
     "curriculumCode": "AC9E6LA08",
     "bank": "test",
-    "stage": "apply",
-    "skill": "determined",
+    "stage": "independent",
+    "skill": "negative connotation",
     "printable": true,
     "type": "single",
-    "question": "A water-saving brochure includes “positive persistence”. Which description best fits this wording?",
-    "audioPrompt": "A water-saving brochure includes “positive persistence”. Which description best fits this wording?",
+    "question": "In a community website, “The meddling neighbour inspected every parcel.” Which analysis is strongest?",
+    "audioPrompt": "In a community website, “The meddling neighbour inspected every parcel.” Which analysis is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -257,29 +257,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "determined",
-      "The city was a furnace.",
-      "Roads were glowing veins.",
-      "The sun hammered the roofs."
+      "metaphor: The direct comparison frames the heat as enclosing, intense and dangerous.",
+      "negative connotation: “Meddling” frames the curiosity as intrusive and unwelcome.",
+      "simile: The comparison helps readers hear the rain as hard, rapid and noisy.",
+      "personification: The human-like verb makes the wind seem persistent and unsettling."
     ],
-    "correct": 0,
-    "explanation": "The wording best matches determined.\nHint: Identify the language choice first, then check its effect in this context.",
+    "correct": 1,
+    "explanation": "negative connotation is supported by exact evidence and context.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches determined.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "negative connotation is supported by exact evidence and context.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-T-010",
     "curriculumCode": "AC9E6LA08",
     "bank": "test",
-    "stage": "apply",
-    "skill": "connotation",
+    "stage": "independent",
+    "skill": "sustained metaphor edit",
     "printable": true,
     "type": "single",
-    "question": "In a local council submission, which term matches this meaning: “associated emotion or cultural meaning”?",
-    "audioPrompt": "In a local council submission, which term matches this meaning: “associated emotion or cultural meaning”?",
+    "question": "Which edit best demonstrates control of sustained metaphor in a community website?",
+    "audioPrompt": "Which edit best demonstrates control of sustained metaphor in a community website?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -287,29 +287,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "metaphor",
-      "connotation",
-      "personification",
-      "It does not match the evidence in the example."
+      "By noon, the city had become a furnace of glass and concrete.",
+      "Rain struck the roof like gravel flung against metal.",
+      "Keep the fire pattern and remove an unrelated “storm of ideas” phrase.",
+      "All night, the wind tugged and worried at the loose gate."
     ],
-    "correct": 1,
-    "explanation": "connotation is the precise term for associated emotion or cultural meaning.\nHint: Distinguish closely related terms by their definitions.",
+    "correct": 2,
+    "explanation": "This edit applies sustained metaphor without distorting the intended meaning.\nHint: Choose purposeful accuracy, not decoration.",
     "structuredExplanation": {
-      "summary": "connotation is the precise term for associated emotion or cultural meaning.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies sustained metaphor without distorting the intended meaning.",
+      "hint": "Choose purposeful accuracy, not decoration."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-T-011",
     "curriculumCode": "AC9E6LA08",
     "bank": "test",
-    "stage": "apply",
-    "skill": "vivid and emotive vocabulary",
+    "stage": "transfer",
+    "skill": "tone through verb choice misconception",
     "printable": true,
     "type": "single",
-    "question": "For a marine-research diary, which sentence uses metaphor?",
-    "audioPrompt": "For a marine-research diary, which sentence uses metaphor?",
+    "question": "Which claim should an editor reject when reviewing this community website: “The exhausted hikers trudged towards camp.”?",
+    "audioPrompt": "Which claim should an editor reject when reviewing this community website: “The exhausted hikers trudged towards camp.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -317,29 +317,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The city temperature was 39°C.",
-      "The city had roads.",
-      "The city was a furnace.",
-      "The city is large."
+      "A metaphor is any sentence containing descriptive words.",
+      "Every use of “like” creates a simile.",
+      "Any verb describing a non-human thing is personification.",
+      "Naming a device is a complete explanation of effect."
     ],
-    "correct": 2,
-    "explanation": "“The city was a furnace.” is supported by the language evidence and purpose of the text.\nHint: Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label.",
+    "correct": 3,
+    "explanation": "The rejected claim is an inaccurate generalisation about tone through verb choice.\nHint: Select the claim contradicted by the evidence or convention.",
     "structuredExplanation": {
-      "summary": "“The city was a furnace.” is supported by the language evidence and purpose of the text.",
-      "hint": "Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label."
+      "summary": "The rejected claim is an inaccurate generalisation about tone through verb choice.",
+      "hint": "Select the claim contradicted by the evidence or convention."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-T-012",
     "curriculumCode": "AC9E6LA08",
     "bank": "test",
-    "stage": "apply",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "controlled figurative language reasoning",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a farmers market profile says, “All vivid language is positive”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a farmers market profile says, “All vivid language is positive”. Which response is most accurate?",
+    "question": "Which explanation best accounts for “The moon hung like a lantern above the dark track.” in this community website?",
+    "audioPrompt": "Which explanation best accounts for “The moon hung like a lantern above the dark track.” in this community website?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -347,29 +347,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Device name treated as analysis",
-      "All vivid language is positive",
-      "Mixed metaphors ignored",
-      "Connotation can threaten, praise or ridicule."
+      "One coherent comparison adds light and guidance without crowding the image.",
+      "The direct comparison frames the heat as enclosing, intense and dangerous.",
+      "The comparison helps readers hear the rain as hard, rapid and noisy.",
+      "The human-like verb makes the wind seem persistent and unsettling."
     ],
-    "correct": 3,
-    "explanation": "Connotation can threaten, praise or ridicule. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "correct": 0,
+    "explanation": "One coherent comparison adds light and guidance without crowding the image.\nHint: A strong explanation connects a feature to its contextual effect.",
     "structuredExplanation": {
-      "summary": "Connotation can threaten, praise or ridicule. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "One coherent comparison adds light and guidance without crowding the image.",
+      "hint": "A strong explanation connects a feature to its contextual effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-T-013",
     "curriculumCode": "AC9E6LA08",
     "bank": "test",
-    "stage": "apply",
-    "skill": "determined",
+    "stage": "independent",
+    "skill": "metaphor",
     "printable": true,
     "type": "single",
-    "question": "A astronomy exhibition includes “positive persistence”. Which description best fits this wording?",
-    "audioPrompt": "A astronomy exhibition includes “positive persistence”. Which description best fits this wording?",
+    "question": "In a student presentation, “The city was a furnace by noon.” Which analysis is strongest?",
+    "audioPrompt": "In a student presentation, “The city was a furnace by noon.” Which analysis is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -377,29 +377,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "determined",
-      "The city was a furnace.",
-      "Roads were glowing veins.",
-      "The sun hammered the roofs."
+      "simile: The comparison helps readers hear the rain as hard, rapid and noisy.",
+      "metaphor: The direct comparison frames the heat as enclosing, intense and dangerous.",
+      "personification: The human-like verb makes the wind seem persistent and unsettling.",
+      "hyperbole: The deliberate exaggeration emphasises impatience rather than stating literal time."
     ],
-    "correct": 0,
-    "explanation": "The wording best matches determined.\nHint: Identify the language choice first, then check its effect in this context.",
+    "correct": 1,
+    "explanation": "metaphor is supported by exact evidence and context.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches determined.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "metaphor is supported by exact evidence and context.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-T-014",
     "curriculumCode": "AC9E6LA08",
     "bank": "test",
-    "stage": "apply",
-    "skill": "metaphor",
+    "stage": "independent",
+    "skill": "simile edit",
     "printable": true,
     "type": "single",
-    "question": "In a river-restoration update, which term matches this meaning: “conceptual comparison describing one thing as another”?",
-    "audioPrompt": "In a river-restoration update, which term matches this meaning: “conceptual comparison describing one thing as another”?",
+    "question": "Which edit best demonstrates control of simile in a student presentation?",
+    "audioPrompt": "Which edit best demonstrates control of simile in a student presentation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -407,29 +407,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "personification",
-      "metaphor",
-      "connotation",
-      "It does not match the evidence in the example."
+      "By noon, the city had become a furnace of glass and concrete.",
+      "All night, the wind tugged and worried at the loose gate.",
+      "Rain struck the roof like gravel flung against metal.",
+      "The final minute before the bell felt a thousand years long."
     ],
-    "correct": 1,
-    "explanation": "metaphor is the precise term for conceptual comparison describing one thing as another.\nHint: Distinguish closely related terms by their definitions.",
+    "correct": 2,
+    "explanation": "This edit applies simile without distorting the intended meaning.\nHint: Choose purposeful accuracy, not decoration.",
     "structuredExplanation": {
-      "summary": "metaphor is the precise term for conceptual comparison describing one thing as another.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies simile without distorting the intended meaning.",
+      "hint": "Choose purposeful accuracy, not decoration."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-T-015",
     "curriculumCode": "AC9E6LA08",
     "bank": "test",
-    "stage": "apply",
-    "skill": "vivid and emotive vocabulary",
+    "stage": "transfer",
+    "skill": "personification misconception",
     "printable": true,
     "type": "single",
-    "question": "For a cycling-safety campaign, which sentence uses metaphor?",
-    "audioPrompt": "For a cycling-safety campaign, which sentence uses metaphor?",
+    "question": "Which claim should an editor reject when reviewing this student presentation: “The wind worried at the loose gate all night.”?",
+    "audioPrompt": "Which claim should an editor reject when reviewing this student presentation: “The wind worried at the loose gate all night.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -437,29 +437,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The city temperature was 39°C.",
-      "The city had roads.",
-      "The city was a furnace.",
-      "The city is large."
+      "A metaphor is any sentence containing descriptive words.",
+      "Every use of “like” creates a simile.",
+      "Hyperbole is a lie that readers are expected to believe.",
+      "Any verb describing a non-human thing is personification."
     ],
-    "correct": 2,
-    "explanation": "“The city was a furnace.” is supported by the language evidence and purpose of the text.\nHint: Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label.",
+    "correct": 3,
+    "explanation": "The rejected claim is an inaccurate generalisation about personification.\nHint: Select the claim contradicted by the evidence or convention.",
     "structuredExplanation": {
-      "summary": "“The city was a furnace.” is supported by the language evidence and purpose of the text.",
-      "hint": "Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label."
+      "summary": "The rejected claim is an inaccurate generalisation about personification.",
+      "hint": "Select the claim contradicted by the evidence or convention."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA08-T-016",
     "curriculumCode": "AC9E6LA08",
     "bank": "test",
-    "stage": "apply",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "hyperbole reasoning",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a neighbourhood history podcast says, “All vivid language is positive”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a neighbourhood history podcast says, “All vivid language is positive”. Which response is most accurate?",
+    "question": "Which explanation best accounts for “I waited a thousand years for the bell.” in this student presentation?",
+    "audioPrompt": "Which explanation best accounts for “I waited a thousand years for the bell.” in this student presentation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -467,18 +467,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Device name treated as analysis",
-      "All vivid language is positive",
-      "Mixed metaphors ignored",
-      "Connotation can threaten, praise or ridicule."
+      "The deliberate exaggeration emphasises impatience rather than stating literal time.",
+      "The direct comparison frames the heat as enclosing, intense and dangerous.",
+      "The comparison helps readers hear the rain as hard, rapid and noisy.",
+      "The human-like verb makes the wind seem persistent and unsettling."
     ],
-    "correct": 3,
-    "explanation": "Connotation can threaten, praise or ridicule. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "correct": 0,
+    "explanation": "The deliberate exaggeration emphasises impatience rather than stating literal time.\nHint: A strong explanation connects a feature to its contextual effect.",
     "structuredExplanation": {
-      "summary": "Connotation can threaten, praise or ridicule. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "The deliberate exaggeration emphasises impatience rather than stating literal time.",
+      "hint": "A strong explanation connects a feature to its contextual effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

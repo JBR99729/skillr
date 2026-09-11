@@ -5,37 +5,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "sharpen_a_verb",
-    "question": "In a class podcast, which verb group shows an ongoing past process?",
-    "audio_prompt": "In a class podcast, which verb group shows an ongoing past process?",
+    "stage": "foundation",
+    "skill": "precise verb",
+    "question": "Read: “The creek surged over the low bank.” Which description best identifies the highlighted language or text choice?",
+    "audio_prompt": "Read: “The creek surged over the low bank.” Which description best identifies the highlighted language or text choice?",
     "answers": [
       {
-        "text": "rose",
+        "text": "simple past",
         "is_correct": false
       },
       {
-        "text": "was rising",
+        "text": "past progressive",
+        "is_correct": false
+      },
+      {
+        "text": "past perfect",
+        "is_correct": false
+      },
+      {
+        "text": "precise verb",
         "is_correct": true
-      },
-      {
-        "text": "had risen",
-        "is_correct": false
-      },
-      {
-        "text": "will rise",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "“was rising” is the strongest choice because it matches the language feature and the situation.",
-      "hint": "Expansion is useful only when detail serves purpose. Verb choice often carries more precision than adding many adjectives."
+      "summary": "This is precise verb: “Surged” shows forceful, rapid movement more precisely than “went”.",
+      "hint": "Name the exact feature before explaining its effect."
     },
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "foundation",
     "sequence_priority": 1,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-002",
@@ -43,37 +43,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "aspect",
-    "question": "Which term best matches this meaning: “way a process unfolds in time”?",
-    "audio_prompt": "Which term best matches this meaning: “way a process unfolds in time”?",
+    "stage": "foundation",
+    "skill": "precise verb-effect",
+    "question": "Why is this choice effective in context: “The creek surged over the low bank.”?",
+    "audio_prompt": "Why is this choice effective in context: “The creek surged over the low bank.”?",
     "answers": [
       {
-        "text": "verb group",
-        "is_correct": false
-      },
-      {
-        "text": "adverbial",
-        "is_correct": false
-      },
-      {
-        "text": "aspect",
+        "text": "“Surged” shows forceful, rapid movement more precisely than “went”.",
         "is_correct": true
       },
       {
-        "text": "It does not match the evidence in the example.",
+        "text": "“Rose” presents the change as a completed past event.",
+        "is_correct": false
+      },
+      {
+        "text": "“Was rising” shows an ongoing process interrupted at a past moment.",
+        "is_correct": false
+      },
+      {
+        "text": "“Had risen” places the completed rise before another past event.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "aspect means way a process unfolds in time.",
-      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
+      "summary": "“Surged” shows forceful, rapid movement more precisely than “went”.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "foundation",
     "sequence_priority": 2,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-003",
@@ -81,37 +81,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "after_20_minutes_the_warmed_water_had_gradually_evaporated_from_the_shallow_tray",
-    "question": "Read this example from a science investigation: “time, cause/context and place”. Which label best describes what the language is doing?",
-    "audio_prompt": "Read this example from a science investigation: “time, cause/context and place”. Which label best describes what the language is doing?",
+    "stage": "core",
+    "skill": "precise verb-revision",
+    "question": "Which revision best applies precise verb to the idea in “The creek surged over the low bank.”?",
+    "audio_prompt": "Which revision best applies precise verb to the idea in “The creek surged over the low bank.”?",
     "answers": [
       {
-        "text": "The water changed.",
+        "text": "During the trial, the temperature rose by six degrees.",
         "is_correct": false
       },
       {
-        "text": "The water had gradually evaporated.",
-        "is_correct": false
-      },
-      {
-        "text": "The water may evaporate faster under moving air.",
-        "is_correct": false
-      },
-      {
-        "text": "After 20 minutes, the warmed water had gradually evaporated from the shallow tray.",
+        "text": "After the storm, the creek surged over the low bank.",
         "is_correct": true
+      },
+      {
+        "text": "The temperature was rising steadily when the timer sounded.",
+        "is_correct": false
+      },
+      {
+        "text": "By the time the heater switched off, the temperature had risen six degrees.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“time, cause/context and place” is an example of After 20 minutes, the warmed water had gradually evaporated from the shallow tray..",
-      "hint": "Expansion is useful only when detail serves purpose. Verb choice often carries more precision than adding many adjectives."
+      "summary": "The revision applies precise verb deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 3,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-004",
@@ -119,37 +119,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "misconception_repair",
-    "question": "Which correction best fixes this idea: “Modal strength ignored”?",
-    "audio_prompt": "Which correction best fixes this idea: “Modal strength ignored”?",
+    "stage": "core",
+    "skill": "precise verb-misconception",
+    "question": "A student says, “Adding many adjectives is always the best way to sharpen a sentence.” Which response best corrects the misconception?",
+    "audio_prompt": "A student says, “Adding many adjectives is always the best way to sharpen a sentence.” Which response best corrects the misconception?",
     "answers": [
       {
-        "text": "May, should and must express different commitment.",
+        "text": "Adding many adjectives is always the best way to sharpen a sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Simple past always means an event happened before another past event.",
+        "is_correct": false
+      },
+      {
+        "text": "The claim is too broad; the example shows that “Surged” shows forceful, rapid movement more precisely than “went”.",
         "is_correct": true
       },
       {
-        "text": "More modifiers means sharper writing",
-        "is_correct": false
-      },
-      {
-        "text": "Tense and aspect treated as identical",
-        "is_correct": false
-      },
-      {
-        "text": "Opening phrase has wrong actor",
+        "text": "Progressive aspect presents every event as completed.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "May, should and must express different commitment. This fixes the misconception without creating a new rule that is too broad.",
-      "hint": "Check the actual language evidence rather than relying on an absolute rule."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 4,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-005",
@@ -157,37 +157,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "the_water_changed",
-    "question": "Which example would be most useful when explaining expanding and sharpening ideas through language choice in a sports-club discussion?",
-    "audio_prompt": "Which example would be most useful when explaining expanding and sharpening ideas through language choice in a sports-club discussion?",
+    "stage": "foundation",
+    "skill": "simple past",
+    "question": "Read: “The temperature rose by six degrees.” Which description best identifies the highlighted language or text choice?",
+    "audio_prompt": "Read: “The temperature rose by six degrees.” Which description best identifies the highlighted language or text choice?",
     "answers": [
       {
-        "text": "past-perfect aspect + manner",
+        "text": "precise verb",
         "is_correct": false
       },
       {
-        "text": "vague process",
+        "text": "past progressive",
+        "is_correct": false
+      },
+      {
+        "text": "past perfect",
+        "is_correct": false
+      },
+      {
+        "text": "simple past",
         "is_correct": true
-      },
-      {
-        "text": "time, cause/context and place",
-        "is_correct": false
-      },
-      {
-        "text": "modal possibility",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "This example directly demonstrates The water changed. and can be explained using the language clue in the text.",
-      "hint": "Students select verb groups for tense, aspect, modality and precision and add circumstances that clarify when, where, how, why or under what condition an event occurs."
+      "summary": "This is simple past: “Rose” presents the change as a completed past event.",
+      "hint": "Name the exact feature before explaining its effect."
     },
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "foundation",
     "sequence_priority": 5,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-006",
@@ -195,37 +195,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "sharpen_a_verb",
-    "question": "In a library display, which modal verb expresses possibility?",
-    "audio_prompt": "In a library display, which modal verb expresses possibility?",
+    "stage": "foundation",
+    "skill": "simple past-effect",
+    "question": "Why is this choice effective in context: “The temperature rose by six degrees.”?",
+    "audio_prompt": "Why is this choice effective in context: “The temperature rose by six degrees.”?",
     "answers": [
       {
-        "text": "must",
-        "is_correct": false
-      },
-      {
-        "text": "did",
-        "is_correct": false
-      },
-      {
-        "text": "may",
+        "text": "“Rose” presents the change as a completed past event.",
         "is_correct": true
       },
       {
-        "text": "has",
+        "text": "“Surged” shows forceful, rapid movement more precisely than “went”.",
+        "is_correct": false
+      },
+      {
+        "text": "“Was rising” shows an ongoing process interrupted at a past moment.",
+        "is_correct": false
+      },
+      {
+        "text": "“Had risen” places the completed rise before another past event.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "“may” is the strongest choice because it matches the language feature and the situation.",
-      "hint": "Expansion is useful only when detail serves purpose. Verb choice often carries more precision than adding many adjectives."
+      "summary": "“Rose” presents the change as a completed past event.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "foundation",
     "sequence_priority": 6,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-007",
@@ -233,37 +233,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "verb_group",
-    "question": "Which term best matches this meaning: “main verb with auxiliaries expressing tense, aspect or modality”?",
-    "audio_prompt": "Which term best matches this meaning: “main verb with auxiliaries expressing tense, aspect or modality”?",
+    "stage": "core",
+    "skill": "simple past-revision",
+    "question": "Which revision best applies simple past to the idea in “The temperature rose by six degrees.”?",
+    "audio_prompt": "Which revision best applies simple past to the idea in “The temperature rose by six degrees.”?",
     "answers": [
       {
-        "text": "aspect",
+        "text": "After the storm, the creek surged over the low bank.",
         "is_correct": false
       },
       {
-        "text": "adverbial",
-        "is_correct": false
-      },
-      {
-        "text": "It does not match the evidence in the example.",
-        "is_correct": false
-      },
-      {
-        "text": "verb group",
+        "text": "During the trial, the temperature rose by six degrees.",
         "is_correct": true
+      },
+      {
+        "text": "The temperature was rising steadily when the timer sounded.",
+        "is_correct": false
+      },
+      {
+        "text": "By the time the heater switched off, the temperature had risen six degrees.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "explanation": {
-      "summary": "verb group means main verb with auxiliaries expressing tense, aspect or modality.",
-      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
+      "summary": "The revision applies simple past deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 7,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-008",
@@ -271,37 +271,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "the_water_may_evaporate_faster_under_moving_air",
-    "question": "Read this example from a student council meeting: “modal possibility”. Which label best describes what the language is doing?",
-    "audio_prompt": "Read this example from a student council meeting: “modal possibility”. Which label best describes what the language is doing?",
+    "stage": "core",
+    "skill": "simple past-misconception",
+    "question": "A student says, “Simple past always means an event happened before another past event.” Which response best corrects the misconception?",
+    "audio_prompt": "A student says, “Simple past always means an event happened before another past event.” Which response best corrects the misconception?",
     "answers": [
       {
-        "text": "The water may evaporate faster under moving air.",
+        "text": "Adding many adjectives is always the best way to sharpen a sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Simple past always means an event happened before another past event.",
+        "is_correct": false
+      },
+      {
+        "text": "The claim is too broad; the example shows that “Rose” presents the change as a completed past event.",
         "is_correct": true
       },
       {
-        "text": "The water changed.",
-        "is_correct": false
-      },
-      {
-        "text": "The water had gradually evaporated.",
-        "is_correct": false
-      },
-      {
-        "text": "After 20 minutes, the warmed water had gradually evaporated from the shallow tray.",
+        "text": "Progressive aspect presents every event as completed.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "“modal possibility” is an example of The water may evaporate faster under moving air..",
-      "hint": "Expansion is useful only when detail serves purpose. Verb choice often carries more precision than adding many adjectives."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 8,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-009",
@@ -309,37 +309,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "misconception_repair",
-    "question": "Which correction best fixes this idea: “More modifiers means sharper writing”?",
-    "audio_prompt": "Which correction best fixes this idea: “More modifiers means sharper writing”?",
+    "stage": "foundation",
+    "skill": "past progressive",
+    "question": "Read: “The temperature was rising when the timer sounded.” Which description best identifies the highlighted language or text choice?",
+    "audio_prompt": "Read: “The temperature was rising when the timer sounded.” Which description best identifies the highlighted language or text choice?",
     "answers": [
       {
-        "text": "More modifiers means sharper writing",
+        "text": "precise verb",
         "is_correct": false
       },
       {
-        "text": "Select precise relevant detail.",
+        "text": "simple past",
+        "is_correct": false
+      },
+      {
+        "text": "past perfect",
+        "is_correct": false
+      },
+      {
+        "text": "past progressive",
         "is_correct": true
-      },
-      {
-        "text": "Tense and aspect treated as identical",
-        "is_correct": false
-      },
-      {
-        "text": "Opening phrase has wrong actor",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Select precise relevant detail. This fixes the misconception without creating a new rule that is too broad.",
-      "hint": "Check the actual language evidence rather than relying on an absolute rule."
+      "summary": "This is past progressive: “Was rising” shows an ongoing process interrupted at a past moment.",
+      "hint": "Name the exact feature before explaining its effect."
     },
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "foundation",
     "sequence_priority": 9,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-010",
@@ -347,37 +347,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "the_water_had_gradually_evaporated",
-    "question": "Which example would be most useful when explaining expanding and sharpening ideas through language choice in a environmental campaign?",
-    "audio_prompt": "Which example would be most useful when explaining expanding and sharpening ideas through language choice in a environmental campaign?",
+    "stage": "foundation",
+    "skill": "past progressive-effect",
+    "question": "Why is this choice effective in context: “The temperature was rising when the timer sounded.”?",
+    "audio_prompt": "Why is this choice effective in context: “The temperature was rising when the timer sounded.”?",
     "answers": [
       {
-        "text": "vague process",
-        "is_correct": false
-      },
-      {
-        "text": "time, cause/context and place",
-        "is_correct": false
-      },
-      {
-        "text": "past-perfect aspect + manner",
+        "text": "“Was rising” shows an ongoing process interrupted at a past moment.",
         "is_correct": true
       },
       {
-        "text": "modal possibility",
+        "text": "“Surged” shows forceful, rapid movement more precisely than “went”.",
+        "is_correct": false
+      },
+      {
+        "text": "“Rose” presents the change as a completed past event.",
+        "is_correct": false
+      },
+      {
+        "text": "“Had risen” places the completed rise before another past event.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "This example directly demonstrates The water had gradually evaporated. and can be explained using the language clue in the text.",
-      "hint": "Students select verb groups for tense, aspect, modality and precision and add circumstances that clarify when, where, how, why or under what condition an event occurs."
+      "summary": "“Was rising” shows an ongoing process interrupted at a past moment.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "foundation",
     "sequence_priority": 10,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-011",
@@ -385,37 +385,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "after_20_minutes_the_warmed_water_had_gradually_evaporated_from_the_shallow_tray",
-    "question": "A museum caption includes “time, cause/context and place”. Why is this an effective example of After 20 minutes, the warmed water had gradually evaporated from the shallow tray.?",
-    "audio_prompt": "A museum caption includes “time, cause/context and place”. Why is this an effective example of After 20 minutes, the warmed water had gradually evaporated from the shallow tray.?",
+    "stage": "core",
+    "skill": "past progressive-revision",
+    "question": "Which revision best applies past progressive to the idea in “The temperature was rising when the timer sounded.”?",
+    "audio_prompt": "Which revision best applies past progressive to the idea in “The temperature was rising when the timer sounded.”?",
     "answers": [
       {
-        "text": "It matches the purpose and the language clue in the example.",
+        "text": "After the storm, the creek surged over the low bank.",
         "is_correct": false
       },
       {
-        "text": "Expansion is useful only when detail serves purpose. Verb choice often carries more precision than adding many adjectives.",
-        "is_correct": false
-      },
-      {
-        "text": "It makes the intended language choice clear in context.",
+        "text": "The temperature was rising steadily when the timer sounded.",
         "is_correct": true
       },
       {
-        "text": "Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases.",
+        "text": "During the trial, the temperature rose by six degrees.",
+        "is_correct": false
+      },
+      {
+        "text": "By the time the heater switched off, the temperature had risen six degrees.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "time, cause/context and place works because its language choice fits the purpose and context.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "The revision applies past progressive deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "core",
     "sequence_priority": 11,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-012",
@@ -423,37 +423,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception_repair",
-    "question": "Why is “Aspect shows ongoing or completed relationships.” a better rule than “Tense and aspect treated as identical” when reading a student council meeting?",
-    "audio_prompt": "Why is “Aspect shows ongoing or completed relationships.” a better rule than “Tense and aspect treated as identical” when reading a student council meeting?",
+    "stage": "core",
+    "skill": "past progressive-misconception",
+    "question": "A student says, “Progressive aspect presents every event as completed.” Which response best corrects the misconception?",
+    "audio_prompt": "A student says, “Progressive aspect presents every event as completed.” Which response best corrects the misconception?",
     "answers": [
       {
-        "text": "Because the longest rule is always the best one.",
+        "text": "Adding many adjectives is always the best way to sharpen a sentence.",
         "is_correct": false
       },
       {
-        "text": "Because exceptions never matter in English.",
+        "text": "Simple past always means an event happened before another past event.",
         "is_correct": false
       },
       {
-        "text": "Because a rule is correct whenever it uses technical words.",
-        "is_correct": false
-      },
-      {
-        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "text": "The claim is too broad; the example shows that “Was rising” shows an ongoing process interrupted at a past moment.",
         "is_correct": true
+      },
+      {
+        "text": "Progressive aspect presents every event as completed.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 2,
     "explanation": {
-      "summary": "“Aspect shows ongoing or completed relationships.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "core",
     "sequence_priority": 12,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-013",
@@ -461,37 +461,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "the_water_changed",
-    "question": "A local-history article includes “vague process”. Why is this an effective example of The water changed.?",
-    "audio_prompt": "A local-history article includes “vague process”. Why is this an effective example of The water changed.?",
+    "stage": "foundation",
+    "skill": "past perfect",
+    "question": "Read: “The temperature had risen before the heater switched off.” Which description best identifies the highlighted language or text choice?",
+    "audio_prompt": "Read: “The temperature had risen before the heater switched off.” Which description best identifies the highlighted language or text choice?",
     "answers": [
       {
-        "text": "It makes the intended language choice clear in context.",
+        "text": "precise verb",
+        "is_correct": false
+      },
+      {
+        "text": "simple past",
+        "is_correct": false
+      },
+      {
+        "text": "past progressive",
+        "is_correct": false
+      },
+      {
+        "text": "past perfect",
         "is_correct": true
-      },
-      {
-        "text": "It matches the purpose and the language clue in the example.",
-        "is_correct": false
-      },
-      {
-        "text": "Expansion is useful only when detail serves purpose. Verb choice often carries more precision than adding many adjectives.",
-        "is_correct": false
-      },
-      {
-        "text": "Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "vague process works because its language choice fits the purpose and context.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "This is past perfect: “Had risen” places the completed rise before another past event.",
+      "hint": "Name the exact feature before explaining its effect."
     },
-    "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 13,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-014",
@@ -499,37 +499,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception_repair",
-    "question": "Why is “May, should and must express different commitment.” a better rule than “Modal strength ignored” when reading a environmental campaign?",
-    "audio_prompt": "Why is “May, should and must express different commitment.” a better rule than “Modal strength ignored” when reading a environmental campaign?",
+    "stage": "foundation",
+    "skill": "past perfect-effect",
+    "question": "Why is this choice effective in context: “The temperature had risen before the heater switched off.”?",
+    "audio_prompt": "Why is this choice effective in context: “The temperature had risen before the heater switched off.”?",
     "answers": [
       {
-        "text": "Because the longest rule is always the best one.",
-        "is_correct": false
-      },
-      {
-        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "text": "“Had risen” places the completed rise before another past event.",
         "is_correct": true
       },
       {
-        "text": "Because exceptions never matter in English.",
+        "text": "“Surged” shows forceful, rapid movement more precisely than “went”.",
         "is_correct": false
       },
       {
-        "text": "Because a rule is correct whenever it uses technical words.",
+        "text": "“Rose” presents the change as a completed past event.",
+        "is_correct": false
+      },
+      {
+        "text": "“Was rising” shows an ongoing process interrupted at a past moment.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "“May, should and must express different commitment.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "“Had risen” places the completed rise before another past event.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
-    "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 14,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-015",
@@ -537,37 +537,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "after_20_minutes_the_warmed_water_had_gradually_evaporated_from_the_shallow_tray",
-    "question": "A book-club discussion includes “time, cause/context and place”. Why is this an effective example of After 20 minutes, the warmed water had gradually evaporated from the shallow tray.?",
-    "audio_prompt": "A book-club discussion includes “time, cause/context and place”. Why is this an effective example of After 20 minutes, the warmed water had gradually evaporated from the shallow tray.?",
+    "stage": "core",
+    "skill": "past perfect-revision",
+    "question": "Which revision best applies past perfect to the idea in “The temperature had risen before the heater switched off.”?",
+    "audio_prompt": "Which revision best applies past perfect to the idea in “The temperature had risen before the heater switched off.”?",
     "answers": [
       {
-        "text": "It matches the purpose and the language clue in the example.",
+        "text": "After the storm, the creek surged over the low bank.",
         "is_correct": false
       },
       {
-        "text": "Expansion is useful only when detail serves purpose. Verb choice often carries more precision than adding many adjectives.",
-        "is_correct": false
-      },
-      {
-        "text": "It makes the intended language choice clear in context.",
+        "text": "By the time the heater switched off, the temperature had risen six degrees.",
         "is_correct": true
       },
       {
-        "text": "Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases.",
+        "text": "During the trial, the temperature rose by six degrees.",
+        "is_correct": false
+      },
+      {
+        "text": "The temperature was rising steadily when the timer sounded.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "time, cause/context and place works because its language choice fits the purpose and context.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "The revision applies past perfect deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "core",
     "sequence_priority": 15,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-016",
@@ -575,37 +575,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception_repair",
-    "question": "Why is “Aspect shows ongoing or completed relationships.” a better rule than “Tense and aspect treated as identical” when reading a excursion briefing?",
-    "audio_prompt": "Why is “Aspect shows ongoing or completed relationships.” a better rule than “Tense and aspect treated as identical” when reading a excursion briefing?",
+    "stage": "core",
+    "skill": "past perfect-misconception",
+    "question": "A student says, “Past perfect is simply a more formal version of simple past.” Which response best corrects the misconception?",
+    "audio_prompt": "A student says, “Past perfect is simply a more formal version of simple past.” Which response best corrects the misconception?",
     "answers": [
       {
-        "text": "Because the longest rule is always the best one.",
+        "text": "Adding many adjectives is always the best way to sharpen a sentence.",
         "is_correct": false
       },
       {
-        "text": "Because exceptions never matter in English.",
+        "text": "Simple past always means an event happened before another past event.",
         "is_correct": false
       },
       {
-        "text": "Because a rule is correct whenever it uses technical words.",
-        "is_correct": false
-      },
-      {
-        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "text": "The claim is too broad; the example shows that “Had risen” places the completed rise before another past event.",
         "is_correct": true
+      },
+      {
+        "text": "Progressive aspect presents every event as completed.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 2,
     "explanation": {
-      "summary": "“Aspect shows ongoing or completed relationships.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "core",
     "sequence_priority": 16,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-017",
@@ -613,37 +613,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "the_water_changed",
-    "question": "A design project includes “vague process”. Why is this an effective example of The water changed.?",
-    "audio_prompt": "A design project includes “vague process”. Why is this an effective example of The water changed.?",
+    "stage": "foundation",
+    "skill": "present perfect",
+    "question": "Read: “Scientists have monitored the reef since 2018.” Which description best identifies the highlighted language or text choice?",
+    "audio_prompt": "Read: “Scientists have monitored the reef since 2018.” Which description best identifies the highlighted language or text choice?",
     "answers": [
       {
-        "text": "It makes the intended language choice clear in context.",
+        "text": "precise verb",
+        "is_correct": false
+      },
+      {
+        "text": "simple past",
+        "is_correct": false
+      },
+      {
+        "text": "past progressive",
+        "is_correct": false
+      },
+      {
+        "text": "present perfect",
         "is_correct": true
-      },
-      {
-        "text": "It matches the purpose and the language clue in the example.",
-        "is_correct": false
-      },
-      {
-        "text": "Expansion is useful only when detail serves purpose. Verb choice often carries more precision than adding many adjectives.",
-        "is_correct": false
-      },
-      {
-        "text": "Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "vague process works because its language choice fits the purpose and context.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "This is present perfect: The monitoring began in the past and remains relevant to the present.",
+      "hint": "Name the exact feature before explaining its effect."
     },
-    "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 17,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-018",
@@ -651,37 +651,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception_repair",
-    "question": "Why is “May, should and must express different commitment.” a better rule than “Modal strength ignored” when reading a weather report?",
-    "audio_prompt": "Why is “May, should and must express different commitment.” a better rule than “Modal strength ignored” when reading a weather report?",
+    "stage": "foundation",
+    "skill": "present perfect-effect",
+    "question": "Why is this choice effective in context: “Scientists have monitored the reef since 2018.”?",
+    "audio_prompt": "Why is this choice effective in context: “Scientists have monitored the reef since 2018.”?",
     "answers": [
       {
-        "text": "Because the longest rule is always the best one.",
-        "is_correct": false
-      },
-      {
-        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "text": "The monitoring began in the past and remains relevant to the present.",
         "is_correct": true
       },
       {
-        "text": "Because exceptions never matter in English.",
+        "text": "“Surged” shows forceful, rapid movement more precisely than “went”.",
         "is_correct": false
       },
       {
-        "text": "Because a rule is correct whenever it uses technical words.",
+        "text": "“Rose” presents the change as a completed past event.",
+        "is_correct": false
+      },
+      {
+        "text": "“Was rising” shows an ongoing process interrupted at a past moment.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "“May, should and must express different commitment.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The monitoring began in the past and remains relevant to the present.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
-    "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 18,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-019",
@@ -689,37 +689,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "after_20_minutes_the_warmed_water_had_gradually_evaporated_from_the_shallow_tray",
-    "question": "A school assembly includes “time, cause/context and place”. Why is this an effective example of After 20 minutes, the warmed water had gradually evaporated from the shallow tray.?",
-    "audio_prompt": "A school assembly includes “time, cause/context and place”. Why is this an effective example of After 20 minutes, the warmed water had gradually evaporated from the shallow tray.?",
+    "stage": "application",
+    "skill": "present perfect-revision",
+    "question": "Which revision best applies present perfect to the idea in “Scientists have monitored the reef since 2018.”?",
+    "audio_prompt": "Which revision best applies present perfect to the idea in “Scientists have monitored the reef since 2018.”?",
     "answers": [
       {
-        "text": "It matches the purpose and the language clue in the example.",
+        "text": "After the storm, the creek surged over the low bank.",
         "is_correct": false
       },
       {
-        "text": "Expansion is useful only when detail serves purpose. Verb choice often carries more precision than adding many adjectives.",
-        "is_correct": false
-      },
-      {
-        "text": "It makes the intended language choice clear in context.",
+        "text": "Scientists have carefully monitored the reef since 2018.",
         "is_correct": true
       },
       {
-        "text": "Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases.",
+        "text": "During the trial, the temperature rose by six degrees.",
+        "is_correct": false
+      },
+      {
+        "text": "The temperature was rising steadily when the timer sounded.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "time, cause/context and place works because its language choice fits the purpose and context.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "The revision applies present perfect deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
-    "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty": 3,
+    "difficulty_tier": "application",
     "sequence_priority": 19,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-020",
@@ -727,37 +727,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception_repair",
-    "question": "Why is “Aspect shows ongoing or completed relationships.” a better rule than “Tense and aspect treated as identical” when reading a peer feedback session?",
-    "audio_prompt": "Why is “Aspect shows ongoing or completed relationships.” a better rule than “Tense and aspect treated as identical” when reading a peer feedback session?",
+    "stage": "core",
+    "skill": "present perfect-misconception",
+    "question": "A student says, “Present perfect names a future event.” Which response best corrects the misconception?",
+    "audio_prompt": "A student says, “Present perfect names a future event.” Which response best corrects the misconception?",
     "answers": [
       {
-        "text": "Because the longest rule is always the best one.",
+        "text": "Adding many adjectives is always the best way to sharpen a sentence.",
         "is_correct": false
       },
       {
-        "text": "Because exceptions never matter in English.",
+        "text": "Simple past always means an event happened before another past event.",
         "is_correct": false
       },
       {
-        "text": "Because a rule is correct whenever it uses technical words.",
-        "is_correct": false
-      },
-      {
-        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "text": "The claim is too broad; the example shows that the monitoring began in the past and remains relevant to the present.",
         "is_correct": true
+      },
+      {
+        "text": "Progressive aspect presents every event as completed.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 2,
     "explanation": {
-      "summary": "“Aspect shows ongoing or completed relationships.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "core",
     "sequence_priority": 20,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-021",
@@ -765,37 +765,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_language_choices",
-    "question": "A excursion briefing could use either “vague process” or “completed before another past reference”. Which comparison is most accurate?",
-    "audio_prompt": "A excursion briefing could use either “vague process” or “completed before another past reference”. Which comparison is most accurate?",
+    "stage": "foundation",
+    "skill": "modality: possibility",
+    "question": "Read: “The seedlings may recover after rainfall.” Which description best identifies the highlighted language or text choice?",
+    "audio_prompt": "Read: “The seedlings may recover after rainfall.” Which description best identifies the highlighted language or text choice?",
     "answers": [
       {
-        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "text": "precise verb",
         "is_correct": false
       },
       {
-        "text": "The longer example is automatically more formal and therefore better.",
+        "text": "simple past",
         "is_correct": false
       },
       {
-        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "text": "past progressive",
         "is_correct": false
       },
       {
-        "text": "“vague process” shows The water changed., while “completed before another past reference” shows had risen.",
+        "text": "modality: possibility",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "The important difference is the language function: The water changed. versus had risen.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "This is modality: possibility: “May” presents recovery as possible rather than certain.",
+      "hint": "Name the exact feature before explaining its effect."
     },
-    "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 21,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-022",
@@ -803,37 +803,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_misconception",
-    "question": "Which statement would help you reject the tempting rule “Opening phrase has wrong actor” in a design project?",
-    "audio_prompt": "Which statement would help you reject the tempting rule “Opening phrase has wrong actor” in a design project?",
+    "stage": "foundation",
+    "skill": "modality: possibility-effect",
+    "question": "Why is this choice effective in context: “The seedlings may recover after rainfall.”?",
+    "audio_prompt": "Why is this choice effective in context: “The seedlings may recover after rainfall.”?",
     "answers": [
       {
-        "text": "Check attachment.",
+        "text": "“May” presents recovery as possible rather than certain.",
         "is_correct": true
       },
       {
-        "text": "More modifiers means sharper writing",
+        "text": "“Surged” shows forceful, rapid movement more precisely than “went”.",
         "is_correct": false
       },
       {
-        "text": "Tense and aspect treated as identical",
+        "text": "“Rose” presents the change as a completed past event.",
         "is_correct": false
       },
       {
-        "text": "Opening phrase has wrong actor",
+        "text": "“Was rising” shows an ongoing process interrupted at a past moment.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Check attachment. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases."
+      "summary": "“May” presents recovery as possible rather than certain.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
-    "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 22,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-023",
@@ -841,37 +841,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_language_choices",
-    "question": "A weather report could use either “time, cause/context and place” or “logical certainty or obligation depending on context”. Which comparison is most accurate?",
-    "audio_prompt": "A weather report could use either “time, cause/context and place” or “logical certainty or obligation depending on context”. Which comparison is most accurate?",
+    "stage": "application",
+    "skill": "modality: possibility-revision",
+    "question": "Which revision best applies modality: possibility to the idea in “The seedlings may recover after rainfall.”?",
+    "audio_prompt": "Which revision best applies modality: possibility to the idea in “The seedlings may recover after rainfall.”?",
     "answers": [
       {
-        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "text": "After the storm, the creek surged over the low bank.",
         "is_correct": false
       },
       {
-        "text": "“time, cause/context and place” shows After 20 minutes, the warmed water had gradually evaporated from the shallow tray., while “logical certainty or obligation depending on context” shows must rise.",
+        "text": "With continued rainfall, the seedlings may gradually recover.",
         "is_correct": true
       },
       {
-        "text": "The longer example is automatically more formal and therefore better.",
+        "text": "During the trial, the temperature rose by six degrees.",
         "is_correct": false
       },
       {
-        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "text": "The temperature was rising steadily when the timer sounded.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The important difference is the language function: After 20 minutes, the warmed water had gradually evaporated from the shallow tray. versus must rise.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "The revision applies modality: possibility deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
     "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty_tier": "application",
     "sequence_priority": 23,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-024",
@@ -879,37 +879,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_misconception",
-    "question": "Which statement would help you reject the tempting rule “More modifiers means sharper writing” in a school assembly?",
-    "audio_prompt": "Which statement would help you reject the tempting rule “More modifiers means sharper writing” in a school assembly?",
+    "stage": "core",
+    "skill": "modality: possibility-misconception",
+    "question": "A student says, ““May” and “must” express the same strength.” Which response best corrects the misconception?",
+    "audio_prompt": "A student says, ““May” and “must” express the same strength.” Which response best corrects the misconception?",
     "answers": [
       {
-        "text": "More modifiers means sharper writing",
+        "text": "Adding many adjectives is always the best way to sharpen a sentence.",
         "is_correct": false
       },
       {
-        "text": "Tense and aspect treated as identical",
+        "text": "Simple past always means an event happened before another past event.",
         "is_correct": false
       },
       {
-        "text": "Select precise relevant detail.",
+        "text": "The claim is too broad; the example shows that “May” presents recovery as possible rather than certain.",
         "is_correct": true
       },
       {
-        "text": "Opening phrase has wrong actor",
+        "text": "Progressive aspect presents every event as completed.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Select precise relevant detail. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
-    "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 24,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-025",
@@ -917,37 +917,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_language_choices",
-    "question": "A peer feedback session could use either “vague process” or “completed before another past reference”. Which comparison is most accurate?",
-    "audio_prompt": "A peer feedback session could use either “vague process” or “completed before another past reference”. Which comparison is most accurate?",
+    "stage": "foundation",
+    "skill": "modality: strong obligation",
+    "question": "Read: “Visitors must remain behind the barrier.” Which description best identifies the highlighted language or text choice?",
+    "audio_prompt": "Read: “Visitors must remain behind the barrier.” Which description best identifies the highlighted language or text choice?",
     "answers": [
       {
-        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "text": "precise verb",
         "is_correct": false
       },
       {
-        "text": "The longer example is automatically more formal and therefore better.",
+        "text": "simple past",
         "is_correct": false
       },
       {
-        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "text": "past progressive",
         "is_correct": false
       },
       {
-        "text": "“vague process” shows The water changed., while “completed before another past reference” shows had risen.",
+        "text": "modality: strong obligation",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "The important difference is the language function: The water changed. versus had risen.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "This is modality: strong obligation: “Must” expresses a strong requirement in this safety context.",
+      "hint": "Name the exact feature before explaining its effect."
     },
-    "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 25,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-026",
@@ -955,37 +955,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_misconception",
-    "question": "Which statement would help you reject the tempting rule “Opening phrase has wrong actor” in a cooking demonstration?",
-    "audio_prompt": "Which statement would help you reject the tempting rule “Opening phrase has wrong actor” in a cooking demonstration?",
+    "stage": "core",
+    "skill": "modality: strong obligation-effect",
+    "question": "Why is this choice effective in context: “Visitors must remain behind the barrier.”?",
+    "audio_prompt": "Why is this choice effective in context: “Visitors must remain behind the barrier.”?",
     "answers": [
       {
-        "text": "Check attachment.",
+        "text": "“Must” expresses a strong requirement in this safety context.",
         "is_correct": true
       },
       {
-        "text": "More modifiers means sharper writing",
+        "text": "“Surged” shows forceful, rapid movement more precisely than “went”.",
         "is_correct": false
       },
       {
-        "text": "Tense and aspect treated as identical",
+        "text": "“Rose” presents the change as a completed past event.",
         "is_correct": false
       },
       {
-        "text": "Opening phrase has wrong actor",
+        "text": "“Was rising” shows an ongoing process interrupted at a past moment.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Check attachment. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases."
+      "summary": "“Must” expresses a strong requirement in this safety context.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
-    "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 26,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-027",
@@ -993,37 +993,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_language_choices",
-    "question": "A arts review could use either “time, cause/context and place” or “logical certainty or obligation depending on context”. Which comparison is most accurate?",
-    "audio_prompt": "A arts review could use either “time, cause/context and place” or “logical certainty or obligation depending on context”. Which comparison is most accurate?",
+    "stage": "application",
+    "skill": "modality: strong obligation-revision",
+    "question": "Which revision best applies modality: strong obligation to the idea in “Visitors must remain behind the barrier.”?",
+    "audio_prompt": "Which revision best applies modality: strong obligation to the idea in “Visitors must remain behind the barrier.”?",
     "answers": [
       {
-        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "text": "After the storm, the creek surged over the low bank.",
         "is_correct": false
       },
       {
-        "text": "“time, cause/context and place” shows After 20 minutes, the warmed water had gradually evaporated from the shallow tray., while “logical certainty or obligation depending on context” shows must rise.",
+        "text": "For safety, visitors must remain behind the marked barrier.",
         "is_correct": true
       },
       {
-        "text": "The longer example is automatically more formal and therefore better.",
+        "text": "During the trial, the temperature rose by six degrees.",
         "is_correct": false
       },
       {
-        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "text": "The temperature was rising steadily when the timer sounded.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The important difference is the language function: After 20 minutes, the warmed water had gradually evaporated from the shallow tray. versus must rise.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "The revision applies modality: strong obligation deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
     "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty_tier": "application",
     "sequence_priority": 27,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-028",
@@ -1031,37 +1031,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_misconception",
-    "question": "Which statement would help you reject the tempting rule “More modifiers means sharper writing” in a technology presentation?",
-    "audio_prompt": "Which statement would help you reject the tempting rule “More modifiers means sharper writing” in a technology presentation?",
+    "stage": "core",
+    "skill": "modality: strong obligation-misconception",
+    "question": "A student says, “A strong modal verb always expresses scientific certainty.” Which response best corrects the misconception?",
+    "audio_prompt": "A student says, “A strong modal verb always expresses scientific certainty.” Which response best corrects the misconception?",
     "answers": [
       {
-        "text": "More modifiers means sharper writing",
+        "text": "Adding many adjectives is always the best way to sharpen a sentence.",
         "is_correct": false
       },
       {
-        "text": "Tense and aspect treated as identical",
+        "text": "Simple past always means an event happened before another past event.",
         "is_correct": false
       },
       {
-        "text": "Select precise relevant detail.",
+        "text": "The claim is too broad; the example shows that “Must” expresses a strong requirement in this safety context.",
         "is_correct": true
       },
       {
-        "text": "Opening phrase has wrong actor",
+        "text": "Progressive aspect presents every event as completed.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Select precise relevant detail. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
-    "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 28,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-029",
@@ -1069,37 +1069,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_language_choices",
-    "question": "A playground consultation could use either “vague process” or “completed before another past reference”. Which comparison is most accurate?",
-    "audio_prompt": "A playground consultation could use either “vague process” or “completed before another past reference”. Which comparison is most accurate?",
+    "stage": "foundation",
+    "skill": "adverb group of manner",
+    "question": "Read: “The turtle moved remarkably slowly.” Which description best identifies the highlighted language or text choice?",
+    "audio_prompt": "Read: “The turtle moved remarkably slowly.” Which description best identifies the highlighted language or text choice?",
     "answers": [
       {
-        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "text": "precise verb",
         "is_correct": false
       },
       {
-        "text": "The longer example is automatically more formal and therefore better.",
+        "text": "simple past",
         "is_correct": false
       },
       {
-        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "text": "past progressive",
         "is_correct": false
       },
       {
-        "text": "“vague process” shows The water changed., while “completed before another past reference” shows had risen.",
+        "text": "adverb group of manner",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "The important difference is the language function: The water changed. versus had risen.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "This is adverb group of manner: The adverb group explains how the turtle moved.",
+      "hint": "Name the exact feature before explaining its effect."
     },
-    "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 29,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-030",
@@ -1107,37 +1107,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate_misconception",
-    "question": "Which statement would help you reject the tempting rule “Opening phrase has wrong actor” in a class podcast?",
-    "audio_prompt": "Which statement would help you reject the tempting rule “Opening phrase has wrong actor” in a class podcast?",
+    "stage": "core",
+    "skill": "adverb group of manner-effect",
+    "question": "Why is this choice effective in context: “The turtle moved remarkably slowly.”?",
+    "audio_prompt": "Why is this choice effective in context: “The turtle moved remarkably slowly.”?",
     "answers": [
       {
-        "text": "Check attachment.",
+        "text": "The adverb group explains how the turtle moved.",
         "is_correct": true
       },
       {
-        "text": "More modifiers means sharper writing",
+        "text": "“Surged” shows forceful, rapid movement more precisely than “went”.",
         "is_correct": false
       },
       {
-        "text": "Tense and aspect treated as identical",
+        "text": "“Rose” presents the change as a completed past event.",
         "is_correct": false
       },
       {
-        "text": "Opening phrase has wrong actor",
+        "text": "“Was rising” shows an ongoing process interrupted at a past moment.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Check attachment. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases."
+      "summary": "The adverb group explains how the turtle moved.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
-    "difficulty": 3,
-    "difficulty_tier": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 30,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-031",
@@ -1145,37 +1145,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "add_condition",
-    "question": "You are editing a community garden proposal. Which modal verb expresses possibility?",
-    "audio_prompt": "You are editing a community garden proposal. Which modal verb expresses possibility?",
+    "stage": "application",
+    "skill": "adverb group of manner-revision",
+    "question": "Which revision best applies adverb group of manner to the idea in “The turtle moved remarkably slowly.”?",
+    "audio_prompt": "Which revision best applies adverb group of manner to the idea in “The turtle moved remarkably slowly.”?",
     "answers": [
       {
-        "text": "may",
+        "text": "After the storm, the creek surged over the low bank.",
+        "is_correct": false
+      },
+      {
+        "text": "Across the warm sand, the turtle moved remarkably slowly.",
         "is_correct": true
       },
       {
-        "text": "must",
+        "text": "During the trial, the temperature rose by six degrees.",
         "is_correct": false
       },
       {
-        "text": "did",
-        "is_correct": false
-      },
-      {
-        "text": "has",
+        "text": "The temperature was rising steadily when the timer sounded.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“may” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases."
+      "summary": "The revision applies adverb group of manner deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "application",
     "sequence_priority": 31,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-032",
@@ -1183,37 +1183,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "had_risen",
-    "question": "A sports-club discussion needs a clear example of had risen. Which wording should you choose?",
-    "audio_prompt": "A sports-club discussion needs a clear example of had risen. Which wording should you choose?",
+    "stage": "core",
+    "skill": "adverb group of manner-misconception",
+    "question": "A student says, “Every adverb tells when something happened.” Which response best corrects the misconception?",
+    "audio_prompt": "A student says, “Every adverb tells when something happened.” Which response best corrects the misconception?",
     "answers": [
       {
-        "text": "ongoing past process",
+        "text": "Adding many adjectives is always the best way to sharpen a sentence.",
         "is_correct": false
       },
       {
-        "text": "completed before another past reference",
+        "text": "Simple past always means an event happened before another past event.",
+        "is_correct": false
+      },
+      {
+        "text": "The claim is too broad; the example shows that the adverb group explains how the turtle moved.",
         "is_correct": true
       },
       {
-        "text": "possibility",
-        "is_correct": false
-      },
-      {
-        "text": "logical certainty or obligation depending on context",
+        "text": "Progressive aspect presents every event as completed.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "“completed before another past reference” is the best choice because it demonstrates had risen in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 32,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-033",
@@ -1221,37 +1221,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "verb_group",
-    "question": "While revising a library display, you need language that matches “main verb with auxiliaries expressing tense, aspect or modality”. Which concept should guide your choice?",
-    "audio_prompt": "While revising a library display, you need language that matches “main verb with auxiliaries expressing tense, aspect or modality”. Which concept should guide your choice?",
+    "stage": "foundation",
+    "skill": "prepositional phrase of place",
+    "question": "Read: “The lizard sheltered beneath the fallen log.” Which description best identifies the highlighted language or text choice?",
+    "audio_prompt": "Read: “The lizard sheltered beneath the fallen log.” Which description best identifies the highlighted language or text choice?",
     "answers": [
       {
-        "text": "aspect",
+        "text": "precise verb",
         "is_correct": false
       },
       {
-        "text": "adverbial",
+        "text": "simple past",
         "is_correct": false
       },
       {
-        "text": "verb group",
+        "text": "past progressive",
+        "is_correct": false
+      },
+      {
+        "text": "prepositional phrase of place",
         "is_correct": true
-      },
-      {
-        "text": "It does not match the evidence in the example.",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "verb group is the concept that matches main verb with auxiliaries expressing tense, aspect or modality.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "This is prepositional phrase of place: “Beneath the fallen log” locates the sheltering event.",
+      "hint": "Name the exact feature before explaining its effect."
     },
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 33,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-034",
@@ -1259,37 +1259,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "sharpen_a_verb",
-    "question": "You are editing a museum caption. Which modal verb expresses possibility?",
-    "audio_prompt": "You are editing a museum caption. Which modal verb expresses possibility?",
+    "stage": "core",
+    "skill": "prepositional phrase of place-effect",
+    "question": "Why is this choice effective in context: “The lizard sheltered beneath the fallen log.”?",
+    "audio_prompt": "Why is this choice effective in context: “The lizard sheltered beneath the fallen log.”?",
     "answers": [
       {
-        "text": "must",
-        "is_correct": false
-      },
-      {
-        "text": "did",
-        "is_correct": false
-      },
-      {
-        "text": "has",
-        "is_correct": false
-      },
-      {
-        "text": "may",
+        "text": "“Beneath the fallen log” locates the sheltering event.",
         "is_correct": true
+      },
+      {
+        "text": "“Surged” shows forceful, rapid movement more precisely than “went”.",
+        "is_correct": false
+      },
+      {
+        "text": "“Rose” presents the change as a completed past event.",
+        "is_correct": false
+      },
+      {
+        "text": "“Was rising” shows an ongoing process interrupted at a past moment.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "“may” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases."
+      "summary": "“Beneath the fallen log” locates the sheltering event.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 34,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-035",
@@ -1297,37 +1297,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "was_rising",
-    "question": "A student council meeting needs a clear example of was rising. Which wording should you choose?",
-    "audio_prompt": "A student council meeting needs a clear example of was rising. Which wording should you choose?",
+    "stage": "application",
+    "skill": "prepositional phrase of place-revision",
+    "question": "Which revision best applies prepositional phrase of place to the idea in “The lizard sheltered beneath the fallen log.”?",
+    "audio_prompt": "Which revision best applies prepositional phrase of place to the idea in “The lizard sheltered beneath the fallen log.”?",
     "answers": [
       {
-        "text": "ongoing past process",
+        "text": "After the storm, the creek surged over the low bank.",
+        "is_correct": false
+      },
+      {
+        "text": "At midday, the lizard sheltered beneath the fallen log.",
         "is_correct": true
       },
       {
-        "text": "completed before another past reference",
+        "text": "During the trial, the temperature rose by six degrees.",
         "is_correct": false
       },
       {
-        "text": "possibility",
-        "is_correct": false
-      },
-      {
-        "text": "logical certainty or obligation depending on context",
+        "text": "The temperature was rising steadily when the timer sounded.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“ongoing past process” is the best choice because it demonstrates was rising in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "The revision applies prepositional phrase of place deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "application",
     "sequence_priority": 35,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-036",
@@ -1335,37 +1335,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "verb_group",
-    "question": "While revising a local-history article, you need language that matches “main verb with auxiliaries expressing tense, aspect or modality”. Which concept should guide your choice?",
-    "audio_prompt": "While revising a local-history article, you need language that matches “main verb with auxiliaries expressing tense, aspect or modality”. Which concept should guide your choice?",
+    "stage": "challenge",
+    "skill": "prepositional phrase of place-misconception",
+    "question": "A student says, “A prepositional phrase can only describe time.” Which response best corrects the misconception?",
+    "audio_prompt": "A student says, “A prepositional phrase can only describe time.” Which response best corrects the misconception?",
     "answers": [
       {
-        "text": "aspect",
+        "text": "Adding many adjectives is always the best way to sharpen a sentence.",
         "is_correct": false
       },
       {
-        "text": "verb group",
+        "text": "Simple past always means an event happened before another past event.",
+        "is_correct": false
+      },
+      {
+        "text": "The claim is too broad; the example shows that “Beneath the fallen log” locates the sheltering event.",
         "is_correct": true
       },
       {
-        "text": "adverbial",
-        "is_correct": false
-      },
-      {
-        "text": "It does not match the evidence in the example.",
+        "text": "Progressive aspect presents every event as completed.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "verb group is the concept that matches main verb with auxiliaries expressing tense, aspect or modality.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "challenge",
     "sequence_priority": 36,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-037",
@@ -1373,37 +1373,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "repair_attachment",
-    "question": "You are editing a environmental campaign. Which modal verb expresses possibility?",
-    "audio_prompt": "You are editing a environmental campaign. Which modal verb expresses possibility?",
+    "stage": "foundation",
+    "skill": "condition",
+    "question": "Read: “Under equal conditions, both samples should dissolve at similar rates.” Which description best identifies the highlighted language or text choice?",
+    "audio_prompt": "Read: “Under equal conditions, both samples should dissolve at similar rates.” Which description best identifies the highlighted language or text choice?",
     "answers": [
       {
-        "text": "must",
+        "text": "precise verb",
         "is_correct": false
       },
       {
-        "text": "did",
+        "text": "simple past",
         "is_correct": false
       },
       {
-        "text": "may",
+        "text": "past progressive",
+        "is_correct": false
+      },
+      {
+        "text": "condition",
         "is_correct": true
-      },
-      {
-        "text": "has",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "“may” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases."
+      "summary": "This is condition: The opening phrase limits the claim to a stated condition.",
+      "hint": "Name the exact feature before explaining its effect."
     },
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
     "sequence_priority": 37,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-038",
@@ -1411,37 +1411,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "must_rise",
-    "question": "A book-club discussion needs a clear example of must rise. Which wording should you choose?",
-    "audio_prompt": "A book-club discussion needs a clear example of must rise. Which wording should you choose?",
+    "stage": "core",
+    "skill": "condition-effect",
+    "question": "Why is this choice effective in context: “Under equal conditions, both samples should dissolve at similar rates.”?",
+    "audio_prompt": "Why is this choice effective in context: “Under equal conditions, both samples should dissolve at similar rates.”?",
     "answers": [
       {
-        "text": "ongoing past process",
-        "is_correct": false
-      },
-      {
-        "text": "completed before another past reference",
-        "is_correct": false
-      },
-      {
-        "text": "possibility",
-        "is_correct": false
-      },
-      {
-        "text": "logical certainty or obligation depending on context",
+        "text": "The opening phrase limits the claim to a stated condition.",
         "is_correct": true
+      },
+      {
+        "text": "“Surged” shows forceful, rapid movement more precisely than “went”.",
+        "is_correct": false
+      },
+      {
+        "text": "“Rose” presents the change as a completed past event.",
+        "is_correct": false
+      },
+      {
+        "text": "“Was rising” shows an ongoing process interrupted at a past moment.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "“logical certainty or obligation depending on context” is the best choice because it demonstrates must rise in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "The opening phrase limits the claim to a stated condition.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
     },
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 38,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-039",
@@ -1449,37 +1449,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "verb_group",
-    "question": "While revising a excursion briefing, you need language that matches “main verb with auxiliaries expressing tense, aspect or modality”. Which concept should guide your choice?",
-    "audio_prompt": "While revising a excursion briefing, you need language that matches “main verb with auxiliaries expressing tense, aspect or modality”. Which concept should guide your choice?",
+    "stage": "application",
+    "skill": "condition-revision",
+    "question": "Which revision best applies condition to the idea in “Under equal conditions, both samples should dissolve at similar rates.”?",
+    "audio_prompt": "Which revision best applies condition to the idea in “Under equal conditions, both samples should dissolve at similar rates.”?",
     "answers": [
       {
-        "text": "verb group",
+        "text": "After the storm, the creek surged over the low bank.",
+        "is_correct": false
+      },
+      {
+        "text": "Under equal conditions, both samples should dissolve at approximately the same rate.",
         "is_correct": true
       },
       {
-        "text": "aspect",
+        "text": "During the trial, the temperature rose by six degrees.",
         "is_correct": false
       },
       {
-        "text": "adverbial",
-        "is_correct": false
-      },
-      {
-        "text": "It does not match the evidence in the example.",
+        "text": "The temperature was rising steadily when the timer sounded.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "verb group is the concept that matches main verb with auxiliaries expressing tense, aspect or modality.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "The revision applies condition deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "application",
     "sequence_priority": 39,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-P-040",
@@ -1487,37 +1487,341 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "compare_aspect",
-    "question": "You are editing a design project. Which modal verb expresses possibility?",
-    "audio_prompt": "You are editing a design project. Which modal verb expresses possibility?",
+    "stage": "challenge",
+    "skill": "condition-misconception",
+    "question": "A student says, “Conditions make a claim less precise.” Which response best corrects the misconception?",
+    "audio_prompt": "A student says, “Conditions make a claim less precise.” Which response best corrects the misconception?",
     "answers": [
       {
-        "text": "must",
+        "text": "Adding many adjectives is always the best way to sharpen a sentence.",
         "is_correct": false
       },
       {
-        "text": "may",
+        "text": "Simple past always means an event happened before another past event.",
+        "is_correct": false
+      },
+      {
+        "text": "The claim is too broad; the example shows that the opening phrase limits the claim to a stated condition.",
         "is_correct": true
       },
       {
-        "text": "did",
+        "text": "Progressive aspect presents every event as completed.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 40,
+    "quality_schema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LA06-P-041",
+    "curriculum_code": "AC9E6LA06",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "dangling modifier",
+    "question": "Read: “After crossing the oval, the rain soaked Mia’s jacket.” Which description best identifies the highlighted language or text choice?",
+    "audio_prompt": "Read: “After crossing the oval, the rain soaked Mia’s jacket.” Which description best identifies the highlighted language or text choice?",
+    "answers": [
+      {
+        "text": "precise verb",
         "is_correct": false
       },
       {
-        "text": "has",
+        "text": "simple past",
+        "is_correct": false
+      },
+      {
+        "text": "past progressive",
+        "is_correct": false
+      },
+      {
+        "text": "dangling modifier",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "This is dangling modifier: The opening phrase wrongly makes “the rain” seem to cross the oval.",
+      "hint": "Name the exact feature before explaining its effect."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 41,
+    "quality_schema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LA06-P-042",
+    "curriculum_code": "AC9E6LA06",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "dangling modifier-effect",
+    "question": "Why is this choice effective in context: “After crossing the oval, the rain soaked Mia’s jacket.”?",
+    "audio_prompt": "Why is this choice effective in context: “After crossing the oval, the rain soaked Mia’s jacket.”?",
+    "answers": [
+      {
+        "text": "The opening phrase wrongly makes “the rain” seem to cross the oval.",
+        "is_correct": true
+      },
+      {
+        "text": "“Surged” shows forceful, rapid movement more precisely than “went”.",
+        "is_correct": false
+      },
+      {
+        "text": "“Rose” presents the change as a completed past event.",
+        "is_correct": false
+      },
+      {
+        "text": "“Was rising” shows an ongoing process interrupted at a past moment.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The opening phrase wrongly makes “the rain” seem to cross the oval.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 42,
+    "quality_schema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LA06-P-043",
+    "curriculum_code": "AC9E6LA06",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "dangling modifier-revision",
+    "question": "Which revision best applies dangling modifier to the idea in “After crossing the oval, the rain soaked Mia’s jacket.”?",
+    "audio_prompt": "Which revision best applies dangling modifier to the idea in “After crossing the oval, the rain soaked Mia’s jacket.”?",
+    "answers": [
+      {
+        "text": "After the storm, the creek surged over the low bank.",
+        "is_correct": false
+      },
+      {
+        "text": "After Mia crossed the oval, the rain soaked her jacket.",
+        "is_correct": true
+      },
+      {
+        "text": "During the trial, the temperature rose by six degrees.",
+        "is_correct": false
+      },
+      {
+        "text": "The temperature was rising steadily when the timer sounded.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "“may” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases."
+      "summary": "The revision applies dangling modifier deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
-    "sequence_priority": 40,
-    "quality_schema": "skillr-authored-v1"
+    "difficulty_tier": "application",
+    "sequence_priority": 43,
+    "quality_schema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LA06-P-044",
+    "curriculum_code": "AC9E6LA06",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "dangling modifier-misconception",
+    "question": "A student says, “An opening adverbial can logically attach to any noun.” Which response best corrects the misconception?",
+    "audio_prompt": "A student says, “An opening adverbial can logically attach to any noun.” Which response best corrects the misconception?",
+    "answers": [
+      {
+        "text": "Adding many adjectives is always the best way to sharpen a sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Simple past always means an event happened before another past event.",
+        "is_correct": false
+      },
+      {
+        "text": "The claim is too broad; the example shows that the opening phrase wrongly makes “the rain” seem to cross the oval.",
+        "is_correct": true
+      },
+      {
+        "text": "Progressive aspect presents every event as completed.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 44,
+    "quality_schema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LA06-P-045",
+    "curriculum_code": "AC9E6LA06",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "selective expansion",
+    "question": "Read: “At dawn, the exhausted hikers cautiously crossed the narrow bridge.” Which description best identifies the highlighted language or text choice?",
+    "audio_prompt": "Read: “At dawn, the exhausted hikers cautiously crossed the narrow bridge.” Which description best identifies the highlighted language or text choice?",
+    "answers": [
+      {
+        "text": "precise verb",
+        "is_correct": false
+      },
+      {
+        "text": "simple past",
+        "is_correct": false
+      },
+      {
+        "text": "past progressive",
+        "is_correct": false
+      },
+      {
+        "text": "selective expansion",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "This is selective expansion: The time, manner and precise verb serve the scene without overwhelming it.",
+      "hint": "Name the exact feature before explaining its effect."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 45,
+    "quality_schema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LA06-P-046",
+    "curriculum_code": "AC9E6LA06",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "selective expansion-effect",
+    "question": "Why is this choice effective in context: “At dawn, the exhausted hikers cautiously crossed the narrow bridge.”?",
+    "audio_prompt": "Why is this choice effective in context: “At dawn, the exhausted hikers cautiously crossed the narrow bridge.”?",
+    "answers": [
+      {
+        "text": "The time, manner and precise verb serve the scene without overwhelming it.",
+        "is_correct": true
+      },
+      {
+        "text": "“Surged” shows forceful, rapid movement more precisely than “went”.",
+        "is_correct": false
+      },
+      {
+        "text": "“Rose” presents the change as a completed past event.",
+        "is_correct": false
+      },
+      {
+        "text": "“Was rising” shows an ongoing process interrupted at a past moment.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The time, manner and precise verb serve the scene without overwhelming it.",
+      "hint": "Connect a precise piece of evidence to what it helps the reader understand."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 46,
+    "quality_schema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LA06-P-047",
+    "curriculum_code": "AC9E6LA06",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "selective expansion-revision",
+    "question": "Which revision best applies selective expansion to the idea in “At dawn, the exhausted hikers cautiously crossed the narrow bridge.”?",
+    "audio_prompt": "Which revision best applies selective expansion to the idea in “At dawn, the exhausted hikers cautiously crossed the narrow bridge.”?",
+    "answers": [
+      {
+        "text": "After the storm, the creek surged over the low bank.",
+        "is_correct": false
+      },
+      {
+        "text": "At dawn, the exhausted hikers cautiously crossed the narrow bridge before the wind strengthened.",
+        "is_correct": true
+      },
+      {
+        "text": "During the trial, the temperature rose by six degrees.",
+        "is_correct": false
+      },
+      {
+        "text": "The temperature was rising steadily when the timer sounded.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The revision applies selective expansion deliberately while keeping the meaning clear.",
+      "hint": "Check meaning, purpose and grammatical or structural accuracy—not just fluency."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 47,
+    "quality_schema": "research-aligned-original-v2"
+  },
+  {
+    "id": "AC9E6LA06-P-048",
+    "curriculum_code": "AC9E6LA06",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "selective expansion-misconception",
+    "question": "A student says, “More detail always makes an idea sharper.” Which response best corrects the misconception?",
+    "audio_prompt": "A student says, “More detail always makes an idea sharper.” Which response best corrects the misconception?",
+    "answers": [
+      {
+        "text": "Adding many adjectives is always the best way to sharpen a sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Simple past always means an event happened before another past event.",
+        "is_correct": false
+      },
+      {
+        "text": "The claim is too broad; the example shows that the time, manner and precise verb serve the scene without overwhelming it.",
+        "is_correct": true
+      },
+      {
+        "text": "Progressive aspect presents every event as completed.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The correction uses evidence from this example instead of an always-or-never rule.",
+      "hint": "Test the claim against the example and look for words such as always, never or guarantees."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 48,
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-T-001",
@@ -1525,37 +1829,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "verify",
-    "skill": "may_rise",
-    "question": "A community radio segment includes “possibility”. Which description best fits this wording?",
-    "audio_prompt": "A community radio segment includes “possibility”. Which description best fits this wording?",
+    "stage": "independent",
+    "skill": "precise verb",
+    "question": "In a museum label, you read: “The creek surged over the low bank.” Which analysis is most accurate?",
+    "audio_prompt": "In a museum label, you read: “The creek surged over the low bank.” Which analysis is most accurate?",
     "answers": [
       {
-        "text": "The water changed.",
+        "text": "simple past: “Rose” presents the change as a completed past event.",
         "is_correct": false
       },
       {
-        "text": "The water had gradually evaporated.",
+        "text": "past progressive: “Was rising” shows an ongoing process interrupted at a past moment.",
         "is_correct": false
       },
       {
-        "text": "may rise",
+        "text": "past perfect: “Had risen” places the completed rise before another past event.",
+        "is_correct": false
+      },
+      {
+        "text": "precise verb: “Surged” shows forceful, rapid movement more precisely than “went”.",
         "is_correct": true
-      },
-      {
-        "text": "After 20 minutes, the warmed water had gradually evaporated from the shallow tray.",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The wording best matches may rise.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "precise verb is supported by the wording and its function in the whole sentence.",
+      "hint": "Identify, cite and explain."
     },
     "difficulty": 3,
-    "difficulty_tier": "verify",
+    "difficulty_tier": "independent",
     "sequence_priority": 1,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-T-002",
@@ -1563,37 +1867,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "verify",
-    "skill": "verb_group",
-    "question": "In a wildlife-centre report, which term matches this meaning: “main verb with auxiliaries expressing tense, aspect or modality”?",
-    "audio_prompt": "In a wildlife-centre report, which term matches this meaning: “main verb with auxiliaries expressing tense, aspect or modality”?",
+    "stage": "independent",
+    "skill": "simple past-purpose",
+    "question": "For a museum label, which editing decision best demonstrates control of simple past?",
+    "audio_prompt": "For a museum label, which editing decision best demonstrates control of simple past?",
     "answers": [
       {
-        "text": "aspect",
-        "is_correct": false
-      },
-      {
-        "text": "adverbial",
-        "is_correct": false
-      },
-      {
-        "text": "It does not match the evidence in the example.",
-        "is_correct": false
-      },
-      {
-        "text": "verb group",
+        "text": "During the trial, the temperature rose by six degrees.",
         "is_correct": true
+      },
+      {
+        "text": "After the storm, the creek surged over the low bank.",
+        "is_correct": false
+      },
+      {
+        "text": "The temperature was rising steadily when the timer sounded.",
+        "is_correct": false
+      },
+      {
+        "text": "By the time the heater switched off, the temperature had risen six degrees.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "verb group is the precise term for main verb with auxiliaries expressing tense, aspect or modality.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This option deliberately applies simple past without changing the intended meaning.",
+      "hint": "Reject choices that merely add length or sound impressive."
     },
     "difficulty": 3,
-    "difficulty_tier": "verify",
+    "difficulty_tier": "independent",
     "sequence_priority": 2,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-T-003",
@@ -1601,37 +1905,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "verify",
-    "skill": "expanding_and_sharpening_ideas_through_language_choice",
-    "question": "For a regional youth forum, which verb group shows an ongoing past process?",
-    "audio_prompt": "For a regional youth forum, which verb group shows an ongoing past process?",
+    "stage": "transfer",
+    "skill": "past progressive-reasoning",
+    "question": "While reviewing a museum label, which statement should an editor reject about “The temperature was rising when the timer sounded.”?",
+    "audio_prompt": "While reviewing a museum label, which statement should an editor reject about “The temperature was rising when the timer sounded.”?",
     "answers": [
       {
-        "text": "was rising",
+        "text": "Adding many adjectives is always the best way to sharpen a sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Progressive aspect presents every event as completed.",
         "is_correct": true
       },
       {
-        "text": "rose",
+        "text": "Simple past always means an event happened before another past event.",
         "is_correct": false
       },
       {
-        "text": "had risen",
-        "is_correct": false
-      },
-      {
-        "text": "will rise",
+        "text": "Past perfect is simply a more formal version of simple past.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“was rising” is supported by the language evidence and purpose of the text.",
-      "hint": "Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases."
+      "summary": "The rejected statement is an inaccurate generalisation about past progressive.",
+      "hint": "Select the claim contradicted by the evidence or by the language rule."
     },
     "difficulty": 3,
-    "difficulty_tier": "verify",
+    "difficulty_tier": "transfer",
     "sequence_priority": 3,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-T-004",
@@ -1639,37 +1943,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "verify",
-    "skill": "independent_misconception_check",
-    "question": "A writer preparing a coastal-monitoring update says, “Tense and aspect treated as identical”. Which response is most accurate?",
-    "audio_prompt": "A writer preparing a coastal-monitoring update says, “Tense and aspect treated as identical”. Which response is most accurate?",
+    "stage": "transfer",
+    "skill": "past perfect-explanation",
+    "question": "For a museum label, which explanation would earn full credit for the language choice in “The temperature had risen before the heater switched off.”?",
+    "audio_prompt": "For a museum label, which explanation would earn full credit for the language choice in “The temperature had risen before the heater switched off.”?",
     "answers": [
       {
-        "text": "More modifiers means sharper writing",
+        "text": "“Surged” shows forceful, rapid movement more precisely than “went”.",
         "is_correct": false
       },
       {
-        "text": "Aspect shows ongoing or completed relationships.",
+        "text": "“Rose” presents the change as a completed past event.",
+        "is_correct": false
+      },
+      {
+        "text": "“Had risen” places the completed rise before another past event.",
         "is_correct": true
       },
       {
-        "text": "Tense and aspect treated as identical",
-        "is_correct": false
-      },
-      {
-        "text": "Opening phrase has wrong actor",
+        "text": "“Was rising” shows an ongoing process interrupted at a past moment.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Aspect shows ongoing or completed relationships. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "“Had risen” places the completed rise before another past event.",
+      "hint": "A full-credit explanation links exact evidence to meaning or purpose."
     },
     "difficulty": 3,
-    "difficulty_tier": "verify",
+    "difficulty_tier": "transfer",
     "sequence_priority": 4,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-T-005",
@@ -1677,37 +1981,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "verify",
-    "skill": "may_rise",
-    "question": "A heritage trail guide includes “possibility”. Which description best fits this wording?",
-    "audio_prompt": "A heritage trail guide includes “possibility”. Which description best fits this wording?",
+    "stage": "independent",
+    "skill": "present perfect",
+    "question": "In a school report, you read: “Scientists have monitored the reef since 2018.” Which analysis is most accurate?",
+    "audio_prompt": "In a school report, you read: “Scientists have monitored the reef since 2018.” Which analysis is most accurate?",
     "answers": [
       {
-        "text": "The water changed.",
+        "text": "precise verb: “Surged” shows forceful, rapid movement more precisely than “went”.",
         "is_correct": false
       },
       {
-        "text": "The water had gradually evaporated.",
+        "text": "simple past: “Rose” presents the change as a completed past event.",
         "is_correct": false
       },
       {
-        "text": "may rise",
+        "text": "past progressive: “Was rising” shows an ongoing process interrupted at a past moment.",
+        "is_correct": false
+      },
+      {
+        "text": "present perfect: The monitoring began in the past and remains relevant to the present.",
         "is_correct": true
-      },
-      {
-        "text": "After 20 minutes, the warmed water had gradually evaporated from the shallow tray.",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The wording best matches may rise.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "present perfect is supported by the wording and its function in the whole sentence.",
+      "hint": "Identify, cite and explain."
     },
     "difficulty": 3,
-    "difficulty_tier": "verify",
+    "difficulty_tier": "independent",
     "sequence_priority": 5,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-T-006",
@@ -1715,37 +2019,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "verify",
-    "skill": "aspect",
-    "question": "In a public-transport survey, which term matches this meaning: “way a process unfolds in time”?",
-    "audio_prompt": "In a public-transport survey, which term matches this meaning: “way a process unfolds in time”?",
+    "stage": "independent",
+    "skill": "modality: possibility-purpose",
+    "question": "For a school report, which editing decision best demonstrates control of modality: possibility?",
+    "audio_prompt": "For a school report, which editing decision best demonstrates control of modality: possibility?",
     "answers": [
       {
-        "text": "verb group",
-        "is_correct": false
-      },
-      {
-        "text": "adverbial",
-        "is_correct": false
-      },
-      {
-        "text": "It does not match the evidence in the example.",
-        "is_correct": false
-      },
-      {
-        "text": "aspect",
+        "text": "With continued rainfall, the seedlings may gradually recover.",
         "is_correct": true
+      },
+      {
+        "text": "After the storm, the creek surged over the low bank.",
+        "is_correct": false
+      },
+      {
+        "text": "During the trial, the temperature rose by six degrees.",
+        "is_correct": false
+      },
+      {
+        "text": "The temperature was rising steadily when the timer sounded.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "aspect is the precise term for way a process unfolds in time.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This option deliberately applies modality: possibility without changing the intended meaning.",
+      "hint": "Reject choices that merely add length or sound impressive."
     },
     "difficulty": 3,
-    "difficulty_tier": "verify",
+    "difficulty_tier": "independent",
     "sequence_priority": 6,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-T-007",
@@ -1753,37 +2057,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "verify",
-    "skill": "expanding_and_sharpening_ideas_through_language_choice",
-    "question": "For a festival review, which verb group shows an ongoing past process?",
-    "audio_prompt": "For a festival review, which verb group shows an ongoing past process?",
+    "stage": "transfer",
+    "skill": "modality: strong obligation-reasoning",
+    "question": "While reviewing a school report, which statement should an editor reject about “Visitors must remain behind the barrier.”?",
+    "audio_prompt": "While reviewing a school report, which statement should an editor reject about “Visitors must remain behind the barrier.”?",
     "answers": [
       {
-        "text": "was rising",
+        "text": "Adding many adjectives is always the best way to sharpen a sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "A strong modal verb always expresses scientific certainty.",
         "is_correct": true
       },
       {
-        "text": "rose",
+        "text": "Simple past always means an event happened before another past event.",
         "is_correct": false
       },
       {
-        "text": "had risen",
-        "is_correct": false
-      },
-      {
-        "text": "will rise",
+        "text": "Progressive aspect presents every event as completed.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“was rising” is supported by the language evidence and purpose of the text.",
-      "hint": "Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases."
+      "summary": "The rejected statement is an inaccurate generalisation about modality: strong obligation.",
+      "hint": "Select the claim contradicted by the evidence or by the language rule."
     },
     "difficulty": 3,
-    "difficulty_tier": "verify",
+    "difficulty_tier": "transfer",
     "sequence_priority": 7,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-T-008",
@@ -1791,37 +2095,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "verify",
-    "skill": "independent_misconception_check",
-    "question": "A writer preparing a emergency-preparedness talk says, “Tense and aspect treated as identical”. Which response is most accurate?",
-    "audio_prompt": "A writer preparing a emergency-preparedness talk says, “Tense and aspect treated as identical”. Which response is most accurate?",
+    "stage": "transfer",
+    "skill": "adverb group of manner-explanation",
+    "question": "For a school report, which explanation would earn full credit for the language choice in “The turtle moved remarkably slowly.”?",
+    "audio_prompt": "For a school report, which explanation would earn full credit for the language choice in “The turtle moved remarkably slowly.”?",
     "answers": [
       {
-        "text": "More modifiers means sharper writing",
+        "text": "“Surged” shows forceful, rapid movement more precisely than “went”.",
         "is_correct": false
       },
       {
-        "text": "Aspect shows ongoing or completed relationships.",
+        "text": "“Rose” presents the change as a completed past event.",
+        "is_correct": false
+      },
+      {
+        "text": "The adverb group explains how the turtle moved.",
         "is_correct": true
       },
       {
-        "text": "Tense and aspect treated as identical",
-        "is_correct": false
-      },
-      {
-        "text": "Opening phrase has wrong actor",
+        "text": "“Was rising” shows an ongoing process interrupted at a past moment.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Aspect shows ongoing or completed relationships. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "The adverb group explains how the turtle moved.",
+      "hint": "A full-credit explanation links exact evidence to meaning or purpose."
     },
     "difficulty": 3,
-    "difficulty_tier": "verify",
+    "difficulty_tier": "transfer",
     "sequence_priority": 8,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-T-009",
@@ -1829,37 +2133,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "apply",
-    "skill": "may_rise",
-    "question": "A water-saving brochure includes “possibility”. Which description best fits this wording?",
-    "audio_prompt": "A water-saving brochure includes “possibility”. Which description best fits this wording?",
+    "stage": "independent",
+    "skill": "prepositional phrase of place",
+    "question": "In a community webpage, you read: “The lizard sheltered beneath the fallen log.” Which analysis is most accurate?",
+    "audio_prompt": "In a community webpage, you read: “The lizard sheltered beneath the fallen log.” Which analysis is most accurate?",
     "answers": [
       {
-        "text": "The water changed.",
+        "text": "precise verb: “Surged” shows forceful, rapid movement more precisely than “went”.",
         "is_correct": false
       },
       {
-        "text": "The water had gradually evaporated.",
+        "text": "simple past: “Rose” presents the change as a completed past event.",
         "is_correct": false
       },
       {
-        "text": "may rise",
+        "text": "past progressive: “Was rising” shows an ongoing process interrupted at a past moment.",
+        "is_correct": false
+      },
+      {
+        "text": "prepositional phrase of place: “Beneath the fallen log” locates the sheltering event.",
         "is_correct": true
-      },
-      {
-        "text": "After 20 minutes, the warmed water had gradually evaporated from the shallow tray.",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The wording best matches may rise.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "prepositional phrase of place is supported by the wording and its function in the whole sentence.",
+      "hint": "Identify, cite and explain."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "independent",
     "sequence_priority": 9,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-T-010",
@@ -1867,37 +2171,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "apply",
-    "skill": "adverbial",
-    "question": "In a local council submission, which term matches this meaning: “element adding circumstance or stance”?",
-    "audio_prompt": "In a local council submission, which term matches this meaning: “element adding circumstance or stance”?",
+    "stage": "independent",
+    "skill": "condition-purpose",
+    "question": "For a community webpage, which editing decision best demonstrates control of condition?",
+    "audio_prompt": "For a community webpage, which editing decision best demonstrates control of condition?",
     "answers": [
       {
-        "text": "verb group",
-        "is_correct": false
-      },
-      {
-        "text": "aspect",
-        "is_correct": false
-      },
-      {
-        "text": "It does not match the evidence in the example.",
-        "is_correct": false
-      },
-      {
-        "text": "adverbial",
+        "text": "Under equal conditions, both samples should dissolve at approximately the same rate.",
         "is_correct": true
+      },
+      {
+        "text": "After the storm, the creek surged over the low bank.",
+        "is_correct": false
+      },
+      {
+        "text": "During the trial, the temperature rose by six degrees.",
+        "is_correct": false
+      },
+      {
+        "text": "The temperature was rising steadily when the timer sounded.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "adverbial is the precise term for element adding circumstance or stance.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This option deliberately applies condition without changing the intended meaning.",
+      "hint": "Reject choices that merely add length or sound impressive."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "independent",
     "sequence_priority": 10,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-T-011",
@@ -1905,37 +2209,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "apply",
-    "skill": "expanding_and_sharpening_ideas_through_language_choice",
-    "question": "For a marine-research diary, which verb group shows an ongoing past process?",
-    "audio_prompt": "For a marine-research diary, which verb group shows an ongoing past process?",
+    "stage": "transfer",
+    "skill": "dangling modifier-reasoning",
+    "question": "While reviewing a community webpage, which statement should an editor reject about “After crossing the oval, the rain soaked Mia’s jacket.”?",
+    "audio_prompt": "While reviewing a community webpage, which statement should an editor reject about “After crossing the oval, the rain soaked Mia’s jacket.”?",
     "answers": [
       {
-        "text": "was rising",
+        "text": "Adding many adjectives is always the best way to sharpen a sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "An opening adverbial can logically attach to any noun.",
         "is_correct": true
       },
       {
-        "text": "rose",
+        "text": "Simple past always means an event happened before another past event.",
         "is_correct": false
       },
       {
-        "text": "had risen",
-        "is_correct": false
-      },
-      {
-        "text": "will rise",
+        "text": "Progressive aspect presents every event as completed.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“was rising” is supported by the language evidence and purpose of the text.",
-      "hint": "Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases."
+      "summary": "The rejected statement is an inaccurate generalisation about dangling modifier.",
+      "hint": "Select the claim contradicted by the evidence or by the language rule."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "transfer",
     "sequence_priority": 11,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-T-012",
@@ -1943,37 +2247,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "apply",
-    "skill": "independent_misconception_check",
-    "question": "A writer preparing a farmers market profile says, “Tense and aspect treated as identical”. Which response is most accurate?",
-    "audio_prompt": "A writer preparing a farmers market profile says, “Tense and aspect treated as identical”. Which response is most accurate?",
+    "stage": "transfer",
+    "skill": "selective expansion-explanation",
+    "question": "For a community webpage, which explanation would earn full credit for the language choice in “At dawn, the exhausted hikers cautiously crossed the narrow bridge.”?",
+    "audio_prompt": "For a community webpage, which explanation would earn full credit for the language choice in “At dawn, the exhausted hikers cautiously crossed the narrow bridge.”?",
     "answers": [
       {
-        "text": "More modifiers means sharper writing",
+        "text": "“Surged” shows forceful, rapid movement more precisely than “went”.",
         "is_correct": false
       },
       {
-        "text": "Aspect shows ongoing or completed relationships.",
+        "text": "“Rose” presents the change as a completed past event.",
+        "is_correct": false
+      },
+      {
+        "text": "The time, manner and precise verb serve the scene without overwhelming it.",
         "is_correct": true
       },
       {
-        "text": "Tense and aspect treated as identical",
-        "is_correct": false
-      },
-      {
-        "text": "Opening phrase has wrong actor",
+        "text": "“Was rising” shows an ongoing process interrupted at a past moment.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Aspect shows ongoing or completed relationships. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "The time, manner and precise verb serve the scene without overwhelming it.",
+      "hint": "A full-credit explanation links exact evidence to meaning or purpose."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "transfer",
     "sequence_priority": 12,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-T-013",
@@ -1981,37 +2285,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "apply",
-    "skill": "may_rise",
-    "question": "A astronomy exhibition includes “possibility”. Which description best fits this wording?",
-    "audio_prompt": "A astronomy exhibition includes “possibility”. Which description best fits this wording?",
+    "stage": "independent",
+    "skill": "precise verb",
+    "question": "In a student presentation, you read: “The creek surged over the low bank.” Which analysis is most accurate?",
+    "audio_prompt": "In a student presentation, you read: “The creek surged over the low bank.” Which analysis is most accurate?",
     "answers": [
       {
-        "text": "The water changed.",
+        "text": "simple past: “Rose” presents the change as a completed past event.",
         "is_correct": false
       },
       {
-        "text": "The water had gradually evaporated.",
+        "text": "past progressive: “Was rising” shows an ongoing process interrupted at a past moment.",
         "is_correct": false
       },
       {
-        "text": "may rise",
+        "text": "past perfect: “Had risen” places the completed rise before another past event.",
+        "is_correct": false
+      },
+      {
+        "text": "precise verb: “Surged” shows forceful, rapid movement more precisely than “went”.",
         "is_correct": true
-      },
-      {
-        "text": "After 20 minutes, the warmed water had gradually evaporated from the shallow tray.",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The wording best matches may rise.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "precise verb is supported by the wording and its function in the whole sentence.",
+      "hint": "Identify, cite and explain."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "independent",
     "sequence_priority": 13,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-T-014",
@@ -2019,37 +2323,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "apply",
-    "skill": "verb_group",
-    "question": "In a river-restoration update, which term matches this meaning: “main verb with auxiliaries expressing tense, aspect or modality”?",
-    "audio_prompt": "In a river-restoration update, which term matches this meaning: “main verb with auxiliaries expressing tense, aspect or modality”?",
+    "stage": "independent",
+    "skill": "simple past-purpose",
+    "question": "For a student presentation, which editing decision best demonstrates control of simple past?",
+    "audio_prompt": "For a student presentation, which editing decision best demonstrates control of simple past?",
     "answers": [
       {
-        "text": "aspect",
-        "is_correct": false
-      },
-      {
-        "text": "adverbial",
-        "is_correct": false
-      },
-      {
-        "text": "It does not match the evidence in the example.",
-        "is_correct": false
-      },
-      {
-        "text": "verb group",
+        "text": "During the trial, the temperature rose by six degrees.",
         "is_correct": true
+      },
+      {
+        "text": "After the storm, the creek surged over the low bank.",
+        "is_correct": false
+      },
+      {
+        "text": "The temperature was rising steadily when the timer sounded.",
+        "is_correct": false
+      },
+      {
+        "text": "By the time the heater switched off, the temperature had risen six degrees.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "verb group is the precise term for main verb with auxiliaries expressing tense, aspect or modality.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This option deliberately applies simple past without changing the intended meaning.",
+      "hint": "Reject choices that merely add length or sound impressive."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "independent",
     "sequence_priority": 14,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-T-015",
@@ -2057,37 +2361,37 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "apply",
-    "skill": "expanding_and_sharpening_ideas_through_language_choice",
-    "question": "For a cycling-safety campaign, which verb group shows an ongoing past process?",
-    "audio_prompt": "For a cycling-safety campaign, which verb group shows an ongoing past process?",
+    "stage": "transfer",
+    "skill": "past progressive-reasoning",
+    "question": "While reviewing a student presentation, which statement should an editor reject about “The temperature was rising when the timer sounded.”?",
+    "audio_prompt": "While reviewing a student presentation, which statement should an editor reject about “The temperature was rising when the timer sounded.”?",
     "answers": [
       {
-        "text": "was rising",
+        "text": "Adding many adjectives is always the best way to sharpen a sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Progressive aspect presents every event as completed.",
         "is_correct": true
       },
       {
-        "text": "rose",
+        "text": "Simple past always means an event happened before another past event.",
         "is_correct": false
       },
       {
-        "text": "had risen",
-        "is_correct": false
-      },
-      {
-        "text": "will rise",
+        "text": "Past perfect is simply a more formal version of simple past.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“was rising” is supported by the language evidence and purpose of the text.",
-      "hint": "Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases."
+      "summary": "The rejected statement is an inaccurate generalisation about past progressive.",
+      "hint": "Select the claim contradicted by the evidence or by the language rule."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "transfer",
     "sequence_priority": 15,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA06-T-016",
@@ -2095,36 +2399,36 @@
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "stage": "apply",
-    "skill": "independent_misconception_check",
-    "question": "A writer preparing a neighbourhood history podcast says, “Tense and aspect treated as identical”. Which response is most accurate?",
-    "audio_prompt": "A writer preparing a neighbourhood history podcast says, “Tense and aspect treated as identical”. Which response is most accurate?",
+    "stage": "transfer",
+    "skill": "past perfect-explanation",
+    "question": "For a student presentation, which explanation would earn full credit for the language choice in “The temperature had risen before the heater switched off.”?",
+    "audio_prompt": "For a student presentation, which explanation would earn full credit for the language choice in “The temperature had risen before the heater switched off.”?",
     "answers": [
       {
-        "text": "More modifiers means sharper writing",
+        "text": "“Surged” shows forceful, rapid movement more precisely than “went”.",
         "is_correct": false
       },
       {
-        "text": "Aspect shows ongoing or completed relationships.",
+        "text": "“Rose” presents the change as a completed past event.",
+        "is_correct": false
+      },
+      {
+        "text": "“Had risen” places the completed rise before another past event.",
         "is_correct": true
       },
       {
-        "text": "Tense and aspect treated as identical",
-        "is_correct": false
-      },
-      {
-        "text": "Opening phrase has wrong actor",
+        "text": "“Was rising” shows an ongoing process interrupted at a past moment.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Aspect shows ongoing or completed relationships. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "“Had risen” places the completed rise before another past event.",
+      "hint": "A full-credit explanation links exact evidence to meaning or purpose."
     },
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "transfer",
     "sequence_priority": 16,
-    "quality_schema": "skillr-authored-v1"
+    "quality_schema": "research-aligned-original-v2"
   }
 ]

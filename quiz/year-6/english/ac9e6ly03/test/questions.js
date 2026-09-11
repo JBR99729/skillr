@@ -4,12 +4,12 @@ window.skillrTestQuestions = [
     "id": "AC9E6LY03-T-001",
     "curriculumCode": "AC9E6LY03",
     "bank": "test",
-    "stage": "verify",
-    "skill": "graph in campaign",
+    "stage": "independent",
+    "skill": "purpose and structure",
     "printable": true,
     "type": "single",
-    "question": "A community radio segment includes “provides evidence but may also create salience”. Which description best fits this wording?",
-    "audioPrompt": "A community radio segment includes “provides evidence but may also create salience”. Which description best fits this wording?",
+    "question": "In a museum panel, “A conservation article presents a problem, explains causes, compares solutions and recommends action.” Which analysis is strongest?",
+    "audioPrompt": "In a museum panel, “A conservation article presents a problem, explains causes, compares solutions and recommends action.” Which analysis is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -17,29 +17,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "opening problem",
-      "graph in campaign",
-      "reason 1",
-      "counterpoint"
+      "purpose and structure: The problem–solution structure guides readers towards a reasoned recommendation.",
+      "cause–effect language: The causal connective makes the relationship between problem and consequence explicit.",
+      "comparison structure: Parallel organisation helps readers compare the options fairly.",
+      "persuasive modality: Moderate modality combines a recommendation with evidence instead of an unsupported command."
     ],
-    "correct": 1,
-    "explanation": "The wording best matches graph in campaign.\nHint: Identify the language choice first, then check its effect in this context.",
+    "correct": 0,
+    "explanation": "purpose and structure is supported by exact evidence.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches graph in campaign.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "purpose and structure is supported by exact evidence.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY03-T-002",
     "curriculumCode": "AC9E6LY03",
     "bank": "test",
-    "stage": "verify",
-    "skill": "text structure",
+    "stage": "independent",
+    "skill": "cause–effect language edit",
     "printable": true,
     "type": "single",
-    "question": "In a wildlife-centre report, which term matches this meaning: “organisation of stages and phases”?",
-    "audioPrompt": "In a wildlife-centre report, which term matches this meaning: “organisation of stages and phases”?",
+    "question": "Which edit best demonstrates cause–effect language in a museum panel?",
+    "audioPrompt": "Which edit best demonstrates cause–effect language in a museum panel?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -47,29 +47,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "language feature",
-      "purpose",
-      "text structure",
-      "It does not match the evidence in the example."
+      "Add headings that make the problem, evidence, options and recommendation visible.",
+      "Support each cause with relevant evidence before stating the effect.",
+      "Use the same comparison criteria and order for both options.",
+      "Calibrate “may”, “should” or “must” to the strength of the evidence."
     ],
-    "correct": 2,
-    "explanation": "text structure is the precise term for organisation of stages and phases.\nHint: Distinguish closely related terms by their definitions.",
+    "correct": 1,
+    "explanation": "This edit applies cause–effect language accurately.\nHint: Choose purposeful accuracy.",
     "structuredExplanation": {
-      "summary": "text structure is the precise term for organisation of stages and phases.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies cause–effect language accurately.",
+      "hint": "Choose purposeful accuracy."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY03-T-003",
     "curriculumCode": "AC9E6LY03",
     "bank": "test",
-    "stage": "verify",
-    "skill": "how structure and language work together",
+    "stage": "transfer",
+    "skill": "comparison structure misconception",
     "printable": true,
     "type": "single",
-    "question": "For a regional youth forum, which response best links structure and language?",
-    "audioPrompt": "For a regional youth forum, which response best links structure and language?",
+    "question": "Which claim should an editor reject about “The report groups solar and wind power under matching headings for cost, reliability and impact.” in this museum panel?",
+    "audioPrompt": "Which claim should an editor reject about “The report groups solar and wind power under matching headings for cost, reliability and impact.” in this museum panel?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -77,29 +77,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The text has although",
-      "The text has paragraphs",
-      "The graph is colourful",
-      "The counterpoint stage uses although to acknowledge an alternative before the claim is strengthened"
+      "Identifying purpose means naming the text type only.",
+      "One use of “because” makes the whole text an explanation.",
+      "Comparison means describing Text A and then Text B separately.",
+      "Stronger modal words always make an argument more convincing."
     ],
-    "correct": 3,
-    "explanation": "“The counterpoint stage uses although to acknowledge an alternative before the claim is strengthened” is supported by the language evidence and purpose of the text.\nHint: Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning.",
+    "correct": 2,
+    "explanation": "The rejected claim overgeneralises comparison structure.\nHint: Check it against evidence.",
     "structuredExplanation": {
-      "summary": "“The counterpoint stage uses although to acknowledge an alternative before the claim is strengthened” is supported by the language evidence and purpose of the text.",
-      "hint": "Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning."
+      "summary": "The rejected claim overgeneralises comparison structure.",
+      "hint": "Check it against evidence."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY03-T-004",
     "curriculumCode": "AC9E6LY03",
     "bank": "test",
-    "stage": "verify",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "persuasive modality explanation",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a coastal-monitoring update says, “One feature assigned fixed effect”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a coastal-monitoring update says, “One feature assigned fixed effect”. Which response is most accurate?",
+    "question": "Which explanation best accounts for “The council should protect the wetland because surveys show declining bird numbers.” in this museum panel?",
+    "audioPrompt": "Which explanation best accounts for “The council should protect the wetland because surveys show declining bird numbers.” in this museum panel?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -107,29 +107,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use context.",
-      "Features analysed separately",
-      "One feature assigned fixed effect",
-      "Structure summarised but not evaluated"
+      "The problem–solution structure guides readers towards a reasoned recommendation.",
+      "The causal connective makes the relationship between problem and consequence explicit.",
+      "Parallel organisation helps readers compare the options fairly.",
+      "Moderate modality combines a recommendation with evidence instead of an unsupported command."
     ],
-    "correct": 0,
-    "explanation": "Use context. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "correct": 3,
+    "explanation": "Moderate modality combines a recommendation with evidence instead of an unsupported command.\nHint: Connect evidence and effect.",
     "structuredExplanation": {
-      "summary": "Use context. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "Moderate modality combines a recommendation with evidence instead of an unsupported command.",
+      "hint": "Connect evidence and effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY03-T-005",
     "curriculumCode": "AC9E6LY03",
     "bank": "test",
-    "stage": "verify",
-    "skill": "definition in argument",
+    "stage": "independent",
+    "skill": "formal register",
     "printable": true,
     "type": "single",
-    "question": "A heritage trail guide includes “controls terms and supports claim”. Which description best fits this wording?",
-    "audioPrompt": "A heritage trail guide includes “controls terms and supports claim”. Which description best fits this wording?",
+    "question": "In a school magazine, “The report states, “The trial produced a measurable reduction in waste.”” Which analysis is strongest?",
+    "audioPrompt": "In a school magazine, “The report states, “The trial produced a measurable reduction in waste.”” Which analysis is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -137,29 +137,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "opening problem",
-      "definition in argument",
-      "reason 1",
-      "counterpoint"
+      "formal register: Precise, formal wording supports an informative purpose and public audience.",
+      "purpose and structure: The problem–solution structure guides readers towards a reasoned recommendation.",
+      "cause–effect language: The causal connective makes the relationship between problem and consequence explicit.",
+      "comparison structure: Parallel organisation helps readers compare the options fairly."
     ],
-    "correct": 1,
-    "explanation": "The wording best matches definition in argument.\nHint: Identify the language choice first, then check its effect in this context.",
+    "correct": 0,
+    "explanation": "formal register is supported by exact evidence.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches definition in argument.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "formal register is supported by exact evidence.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY03-T-006",
     "curriculumCode": "AC9E6LY03",
     "bank": "test",
-    "stage": "verify",
-    "skill": "language feature",
+    "stage": "independent",
+    "skill": "evaluative vocabulary edit",
     "printable": true,
     "type": "single",
-    "question": "In a public-transport survey, which term matches this meaning: “word, sentence or cohesion choice”?",
-    "audioPrompt": "In a public-transport survey, which term matches this meaning: “word, sentence or cohesion choice”?",
+    "question": "Which edit best demonstrates evaluative vocabulary in a school magazine?",
+    "audioPrompt": "Which edit best demonstrates evaluative vocabulary in a school magazine?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -167,29 +167,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "text structure",
-      "purpose",
-      "language feature",
-      "It does not match the evidence in the example."
+      "Add headings that make the problem, evidence, options and recommendation visible.",
+      "Use a neutral headline if the article aims to compare evidence fairly.",
+      "Support each cause with relevant evidence before stating the effect.",
+      "Use the same comparison criteria and order for both options."
     ],
-    "correct": 2,
-    "explanation": "language feature is the precise term for word, sentence or cohesion choice.\nHint: Distinguish closely related terms by their definitions.",
+    "correct": 1,
+    "explanation": "This edit applies evaluative vocabulary accurately.\nHint: Choose purposeful accuracy.",
     "structuredExplanation": {
-      "summary": "language feature is the precise term for word, sentence or cohesion choice.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies evaluative vocabulary accurately.",
+      "hint": "Choose purposeful accuracy."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY03-T-007",
     "curriculumCode": "AC9E6LY03",
     "bank": "test",
-    "stage": "verify",
-    "skill": "how structure and language work together",
+    "stage": "transfer",
+    "skill": "anecdotal opening misconception",
     "printable": true,
     "type": "single",
-    "question": "For a festival review, which response best links structure and language?",
-    "audioPrompt": "For a festival review, which response best links structure and language?",
+    "question": "Which claim should an editor reject about “A speech begins with one child’s flooded bedroom before presenting regional data.” in this school magazine?",
+    "audioPrompt": "Which claim should an editor reject about “A speech begins with one child’s flooded bedroom before presenting regional data.” in this school magazine?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -197,29 +197,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The text has although",
-      "The text has paragraphs",
-      "The graph is colourful",
-      "The counterpoint stage uses although to acknowledge an alternative before the claim is strengthened"
+      "Identifying purpose means naming the text type only.",
+      "One use of “because” makes the whole text an explanation.",
+      "One personal story proves a general claim.",
+      "Comparison means describing Text A and then Text B separately."
     ],
-    "correct": 3,
-    "explanation": "“The counterpoint stage uses although to acknowledge an alternative before the claim is strengthened” is supported by the language evidence and purpose of the text.\nHint: Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning.",
+    "correct": 2,
+    "explanation": "The rejected claim overgeneralises anecdotal opening.\nHint: Check it against evidence.",
     "structuredExplanation": {
-      "summary": "“The counterpoint stage uses although to acknowledge an alternative before the claim is strengthened” is supported by the language evidence and purpose of the text.",
-      "hint": "Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning."
+      "summary": "The rejected claim overgeneralises anecdotal opening.",
+      "hint": "Check it against evidence."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY03-T-008",
     "curriculumCode": "AC9E6LY03",
     "bank": "test",
-    "stage": "verify",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "visual evidence explanation",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a emergency-preparedness talk says, “One feature assigned fixed effect”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a emergency-preparedness talk says, “One feature assigned fixed effect”. Which response is most accurate?",
+    "question": "Which explanation best accounts for “A graph beside the argument shows a five-year decline in water use.” in this school magazine?",
+    "audioPrompt": "Which explanation best accounts for “A graph beside the argument shows a five-year decline in water use.” in this school magazine?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -227,29 +227,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use context.",
-      "Features analysed separately",
-      "One feature assigned fixed effect",
-      "Structure summarised but not evaluated"
+      "The problem–solution structure guides readers towards a reasoned recommendation.",
+      "The causal connective makes the relationship between problem and consequence explicit.",
+      "Parallel organisation helps readers compare the options fairly.",
+      "The visual quantifies the trend that the prose interprets."
     ],
-    "correct": 0,
-    "explanation": "Use context. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "correct": 3,
+    "explanation": "The visual quantifies the trend that the prose interprets.\nHint: Connect evidence and effect.",
     "structuredExplanation": {
-      "summary": "Use context. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "The visual quantifies the trend that the prose interprets.",
+      "hint": "Connect evidence and effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY03-T-009",
     "curriculumCode": "AC9E6LY03",
     "bank": "test",
-    "stage": "apply",
-    "skill": "narrative anecdote in speech",
+    "stage": "independent",
+    "skill": "counterargument",
     "printable": true,
     "type": "single",
-    "question": "A water-saving brochure includes “engages and humanises issue”. Which description best fits this wording?",
-    "audioPrompt": "A water-saving brochure includes “engages and humanises issue”. Which description best fits this wording?",
+    "question": "In a community website, “Some residents prefer more parking; however, the safety audit recommends a wider footpath.” Which analysis is strongest?",
+    "audioPrompt": "In a community website, “Some residents prefer more parking; however, the safety audit recommends a wider footpath.” Which analysis is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -257,29 +257,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "opening problem",
-      "narrative anecdote in speech",
-      "reason 1",
-      "counterpoint"
+      "counterargument: Acknowledging another view before rebuttal can strengthen credibility.",
+      "purpose and structure: The problem–solution structure guides readers towards a reasoned recommendation.",
+      "cause–effect language: The causal connective makes the relationship between problem and consequence explicit.",
+      "comparison structure: Parallel organisation helps readers compare the options fairly."
     ],
-    "correct": 1,
-    "explanation": "The wording best matches narrative anecdote in speech.\nHint: Identify the language choice first, then check its effect in this context.",
+    "correct": 0,
+    "explanation": "counterargument is supported by exact evidence.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches narrative anecdote in speech.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "counterargument is supported by exact evidence.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY03-T-010",
     "curriculumCode": "AC9E6LY03",
     "bank": "test",
-    "stage": "apply",
-    "skill": "purpose",
+    "stage": "independent",
+    "skill": "cohesion edit",
     "printable": true,
     "type": "single",
-    "question": "In a local council submission, which term matches this meaning: “intended communicative outcome”?",
-    "audioPrompt": "In a local council submission, which term matches this meaning: “intended communicative outcome”?",
+    "question": "Which edit best demonstrates cohesion in a community website?",
+    "audioPrompt": "Which edit best demonstrates cohesion in a community website?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -287,29 +287,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "text structure",
-      "language feature",
-      "purpose",
-      "It does not match the evidence in the example."
+      "Add headings that make the problem, evidence, options and recommendation visible.",
+      "Repeat the technical term where precision matters and vary it only clearly.",
+      "Support each cause with relevant evidence before stating the effect.",
+      "Use the same comparison criteria and order for both options."
     ],
-    "correct": 2,
-    "explanation": "purpose is the precise term for intended communicative outcome.\nHint: Distinguish closely related terms by their definitions.",
+    "correct": 1,
+    "explanation": "This edit applies cohesion accurately.\nHint: Choose purposeful accuracy.",
     "structuredExplanation": {
-      "summary": "purpose is the precise term for intended communicative outcome.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies cohesion accurately.",
+      "hint": "Choose purposeful accuracy."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY03-T-011",
     "curriculumCode": "AC9E6LY03",
     "bank": "test",
-    "stage": "apply",
-    "skill": "how structure and language work together",
+    "stage": "transfer",
+    "skill": "audience adaptation misconception",
     "printable": true,
     "type": "single",
-    "question": "For a marine-research diary, which response best links structure and language?",
-    "audioPrompt": "For a marine-research diary, which response best links structure and language?",
+    "question": "Which claim should an editor reject about “The student webpage uses short sections, definitions and labelled diagrams; the council submission uses formal evidence paragraphs.” in this community website?",
+    "audioPrompt": "Which claim should an editor reject about “The student webpage uses short sections, definitions and labelled diagrams; the council submission uses formal evidence paragraphs.” in this community website?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -317,29 +317,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The text has although",
-      "The text has paragraphs",
-      "The graph is colourful",
-      "The counterpoint stage uses although to acknowledge an alternative before the claim is strengthened"
+      "Identifying purpose means naming the text type only.",
+      "One use of “because” makes the whole text an explanation.",
+      "One version suits every audience equally well.",
+      "Comparison means describing Text A and then Text B separately."
     ],
-    "correct": 3,
-    "explanation": "“The counterpoint stage uses although to acknowledge an alternative before the claim is strengthened” is supported by the language evidence and purpose of the text.\nHint: Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning.",
+    "correct": 2,
+    "explanation": "The rejected claim overgeneralises audience adaptation.\nHint: Check it against evidence.",
     "structuredExplanation": {
-      "summary": "“The counterpoint stage uses although to acknowledge an alternative before the claim is strengthened” is supported by the language evidence and purpose of the text.",
-      "hint": "Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning."
+      "summary": "The rejected claim overgeneralises audience adaptation.",
+      "hint": "Check it against evidence."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY03-T-012",
     "curriculumCode": "AC9E6LY03",
     "bank": "test",
-    "stage": "apply",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "combined analysis explanation",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a farmers market profile says, “One feature assigned fixed effect”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a farmers market profile says, “One feature assigned fixed effect”. Which response is most accurate?",
+    "question": "Which explanation best accounts for “The urgent heading, problem–solution order, statistics and command “Act now” all support a campaign purpose.” in this community website?",
+    "audioPrompt": "Which explanation best accounts for “The urgent heading, problem–solution order, statistics and command “Act now” all support a campaign purpose.” in this community website?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -347,29 +347,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use context.",
-      "Features analysed separately",
-      "One feature assigned fixed effect",
-      "Structure summarised but not evaluated"
+      "The problem–solution structure guides readers towards a reasoned recommendation.",
+      "The causal connective makes the relationship between problem and consequence explicit.",
+      "Parallel organisation helps readers compare the options fairly.",
+      "Structure and language work together to create urgency and direct action."
     ],
-    "correct": 0,
-    "explanation": "Use context. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "correct": 3,
+    "explanation": "Structure and language work together to create urgency and direct action.\nHint: Connect evidence and effect.",
     "structuredExplanation": {
-      "summary": "Use context. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "Structure and language work together to create urgency and direct action.",
+      "hint": "Connect evidence and effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY03-T-013",
     "curriculumCode": "AC9E6LY03",
     "bank": "test",
-    "stage": "apply",
-    "skill": "graph in campaign",
+    "stage": "independent",
+    "skill": "purpose and structure",
     "printable": true,
     "type": "single",
-    "question": "A astronomy exhibition includes “provides evidence but may also create salience”. Which description best fits this wording?",
-    "audioPrompt": "A astronomy exhibition includes “provides evidence but may also create salience”. Which description best fits this wording?",
+    "question": "In a student presentation, “A conservation article presents a problem, explains causes, compares solutions and recommends action.” Which analysis is strongest?",
+    "audioPrompt": "In a student presentation, “A conservation article presents a problem, explains causes, compares solutions and recommends action.” Which analysis is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -377,29 +377,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "opening problem",
-      "graph in campaign",
-      "reason 1",
-      "counterpoint"
+      "purpose and structure: The problem–solution structure guides readers towards a reasoned recommendation.",
+      "cause–effect language: The causal connective makes the relationship between problem and consequence explicit.",
+      "comparison structure: Parallel organisation helps readers compare the options fairly.",
+      "persuasive modality: Moderate modality combines a recommendation with evidence instead of an unsupported command."
     ],
-    "correct": 1,
-    "explanation": "The wording best matches graph in campaign.\nHint: Identify the language choice first, then check its effect in this context.",
+    "correct": 0,
+    "explanation": "purpose and structure is supported by exact evidence.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches graph in campaign.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "purpose and structure is supported by exact evidence.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY03-T-014",
     "curriculumCode": "AC9E6LY03",
     "bank": "test",
-    "stage": "apply",
-    "skill": "text structure",
+    "stage": "independent",
+    "skill": "cause–effect language edit",
     "printable": true,
     "type": "single",
-    "question": "In a river-restoration update, which term matches this meaning: “organisation of stages and phases”?",
-    "audioPrompt": "In a river-restoration update, which term matches this meaning: “organisation of stages and phases”?",
+    "question": "Which edit best demonstrates cause–effect language in a student presentation?",
+    "audioPrompt": "Which edit best demonstrates cause–effect language in a student presentation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -407,29 +407,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "language feature",
-      "purpose",
-      "text structure",
-      "It does not match the evidence in the example."
+      "Add headings that make the problem, evidence, options and recommendation visible.",
+      "Support each cause with relevant evidence before stating the effect.",
+      "Use the same comparison criteria and order for both options.",
+      "Calibrate “may”, “should” or “must” to the strength of the evidence."
     ],
-    "correct": 2,
-    "explanation": "text structure is the precise term for organisation of stages and phases.\nHint: Distinguish closely related terms by their definitions.",
+    "correct": 1,
+    "explanation": "This edit applies cause–effect language accurately.\nHint: Choose purposeful accuracy.",
     "structuredExplanation": {
-      "summary": "text structure is the precise term for organisation of stages and phases.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies cause–effect language accurately.",
+      "hint": "Choose purposeful accuracy."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY03-T-015",
     "curriculumCode": "AC9E6LY03",
     "bank": "test",
-    "stage": "apply",
-    "skill": "how structure and language work together",
+    "stage": "transfer",
+    "skill": "comparison structure misconception",
     "printable": true,
     "type": "single",
-    "question": "For a cycling-safety campaign, which response best links structure and language?",
-    "audioPrompt": "For a cycling-safety campaign, which response best links structure and language?",
+    "question": "Which claim should an editor reject about “The report groups solar and wind power under matching headings for cost, reliability and impact.” in this student presentation?",
+    "audioPrompt": "Which claim should an editor reject about “The report groups solar and wind power under matching headings for cost, reliability and impact.” in this student presentation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -437,29 +437,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The text has although",
-      "The text has paragraphs",
-      "The graph is colourful",
-      "The counterpoint stage uses although to acknowledge an alternative before the claim is strengthened"
+      "Identifying purpose means naming the text type only.",
+      "One use of “because” makes the whole text an explanation.",
+      "Comparison means describing Text A and then Text B separately.",
+      "Stronger modal words always make an argument more convincing."
     ],
-    "correct": 3,
-    "explanation": "“The counterpoint stage uses although to acknowledge an alternative before the claim is strengthened” is supported by the language evidence and purpose of the text.\nHint: Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning.",
+    "correct": 2,
+    "explanation": "The rejected claim overgeneralises comparison structure.\nHint: Check it against evidence.",
     "structuredExplanation": {
-      "summary": "“The counterpoint stage uses although to acknowledge an alternative before the claim is strengthened” is supported by the language evidence and purpose of the text.",
-      "hint": "Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning."
+      "summary": "The rejected claim overgeneralises comparison structure.",
+      "hint": "Check it against evidence."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LY03-T-016",
     "curriculumCode": "AC9E6LY03",
     "bank": "test",
-    "stage": "apply",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "persuasive modality explanation",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a neighbourhood history podcast says, “One feature assigned fixed effect”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a neighbourhood history podcast says, “One feature assigned fixed effect”. Which response is most accurate?",
+    "question": "Which explanation best accounts for “The council should protect the wetland because surveys show declining bird numbers.” in this student presentation?",
+    "audioPrompt": "Which explanation best accounts for “The council should protect the wetland because surveys show declining bird numbers.” in this student presentation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -467,18 +467,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use context.",
-      "Features analysed separately",
-      "One feature assigned fixed effect",
-      "Structure summarised but not evaluated"
+      "The problem–solution structure guides readers towards a reasoned recommendation.",
+      "The causal connective makes the relationship between problem and consequence explicit.",
+      "Parallel organisation helps readers compare the options fairly.",
+      "Moderate modality combines a recommendation with evidence instead of an unsupported command."
     ],
-    "correct": 0,
-    "explanation": "Use context. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "correct": 3,
+    "explanation": "Moderate modality combines a recommendation with evidence instead of an unsupported command.\nHint: Connect evidence and effect.",
     "structuredExplanation": {
-      "summary": "Use context. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "Moderate modality combines a recommendation with evidence instead of an unsupported command.",
+      "hint": "Connect evidence and effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

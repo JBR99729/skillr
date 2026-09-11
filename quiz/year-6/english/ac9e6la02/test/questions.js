@@ -4,12 +4,12 @@ window.skillrTestQuestions = [
     "id": "AC9E6LA02-T-001",
     "curriculumCode": "AC9E6LA02",
     "bank": "test",
-    "stage": "recognise",
-    "skill": "fact or opinion",
+    "stage": "independent",
+    "skill": "objective statement",
     "printable": true,
     "type": "single",
-    "question": "Which claim is directly verifiable?",
-    "audioPrompt": "Which claim is directly verifiable?",
+    "question": "In a museum label, you read: “The survey recorded 186 responses.” Which analysis is most accurate?",
+    "audioPrompt": "In a museum label, you read: “The survey recorded 186 responses.” Which analysis is most accurate?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -17,29 +17,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The archive lists 746 photographs.",
-      "The archive is fascinating.",
-      "The curator made a wonderful choice.",
-      "No visitor could dislike the display."
+      "subjective statement: The adjective “wonderful” expresses the writer’s positive judgement.",
+      "loaded language: “Dumped” and “disastrous” push readers towards a negative response.",
+      "attributed opinion: The opinion is clearly assigned to the coach rather than presented as fact.",
+      "objective statement: It reports a checkable quantity without adding approval or disapproval."
     ],
-    "correct": 0,
-    "explanation": "The catalogue count can be checked against the archive record.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "correct": 3,
+    "explanation": "objective statement is supported by the wording and its function in the whole sentence.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The catalogue count can be checked against the archive record.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "objective statement is supported by the wording and its function in the whole sentence.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-T-002",
     "curriculumCode": "AC9E6LA02",
     "bank": "test",
-    "stage": "analyse",
-    "skill": "subjective wording",
+    "stage": "independent",
+    "skill": "subjective statement-purpose",
     "printable": true,
     "type": "single",
-    "question": "Which phrase most strongly reveals judgement?",
-    "audioPrompt": "Which phrase most strongly reveals judgement?",
+    "question": "For a museum label, which editing decision best demonstrates control of subjective statement?",
+    "audioPrompt": "For a museum label, which editing decision best demonstrates control of subjective statement?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -47,29 +47,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "a disgraceful waste",
-      "a cost of $4,000",
-      "a meeting on Monday",
-      "a six-page report"
+      "In my view, the new timetable makes transitions easier.",
+      "The survey recorded 186 responses, including 94 from junior students.",
+      "The council released its plan for public comment.",
+      "The coach described the rule as unfair; the report also summarised the referee’s reasons."
     ],
     "correct": 0,
-    "explanation": "“Disgraceful waste” evaluates the spending rather than simply reporting it.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "explanation": "This option deliberately applies subjective statement without changing the intended meaning.\nHint: Reject choices that merely add length or sound impressive.",
     "structuredExplanation": {
-      "summary": "“Disgraceful waste” evaluates the spending rather than simply reporting it.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "This option deliberately applies subjective statement without changing the intended meaning.",
+      "hint": "Reject choices that merely add length or sound impressive."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-T-003",
     "curriculumCode": "AC9E6LA02",
     "bank": "test",
-    "stage": "analyse",
-    "skill": "connotation",
+    "stage": "transfer",
+    "skill": "loaded language-reasoning",
     "printable": true,
     "type": "single",
-    "question": "Which word makes a quiet speaker seem negatively uncertain?",
-    "audioPrompt": "Which word makes a quiet speaker seem negatively uncertain?",
+    "question": "While reviewing a museum label, which statement should an editor reject about “The council dumped its disastrous plan on families.”?",
+    "audioPrompt": "While reviewing a museum label, which statement should an editor reject about “The council dumped its disastrous plan on families.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -77,29 +77,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "hesitant",
-      "measured",
-      "calm",
-      "thoughtful"
+      "A factual sentence guarantees that the whole text is unbiased.",
+      "Loaded words are simply longer words.",
+      "Any sentence containing a number is objective.",
+      "Putting an opinion in quotation marks turns it into a fact."
     ],
-    "correct": 0,
-    "explanation": "“Hesitant” suggests unhelpful uncertainty rather than controlled calm.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "correct": 1,
+    "explanation": "The rejected statement is an inaccurate generalisation about loaded language.\nHint: Select the claim contradicted by the evidence or by the language rule.",
     "structuredExplanation": {
-      "summary": "“Hesitant” suggests unhelpful uncertainty rather than controlled calm.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "The rejected statement is an inaccurate generalisation about loaded language.",
+      "hint": "Select the claim contradicted by the evidence or by the language rule."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-T-004",
     "curriculumCode": "AC9E6LA02",
     "bank": "test",
-    "stage": "analyse",
-    "skill": "bias by omission",
+    "stage": "transfer",
+    "skill": "attributed opinion-explanation",
     "printable": true,
     "type": "single",
-    "question": "A review lists a battery’s fast charging time but omits that it lasts only one hour. What is the concern?",
-    "audioPrompt": "A review lists a battery’s fast charging time but omits that it lasts only one hour. What is the concern?",
+    "question": "For a museum label, which explanation would earn full credit for the language choice in “The coach said the new rule was unfair.”?",
+    "audioPrompt": "For a museum label, which explanation would earn full credit for the language choice in “The coach said the new rule was unfair.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -107,29 +107,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A relevant limitation is omitted.",
-      "The charging time cannot be measured.",
-      "Every review must be negative.",
-      "The sentence uses a technical noun."
+      "It reports a checkable quantity without adding approval or disapproval.",
+      "The adjective “wonderful” expresses the writer’s positive judgement.",
+      "The opinion is clearly assigned to the coach rather than presented as fact.",
+      "“Dumped” and “disastrous” push readers towards a negative response."
     ],
-    "correct": 0,
-    "explanation": "Omitting a major limitation creates an incomplete and potentially biased impression.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "correct": 2,
+    "explanation": "The opinion is clearly assigned to the coach rather than presented as fact.\nHint: A full-credit explanation links exact evidence to meaning or purpose.",
     "structuredExplanation": {
-      "summary": "Omitting a major limitation creates an incomplete and potentially biased impression.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "The opinion is clearly assigned to the coach rather than presented as fact.",
+      "hint": "A full-credit explanation links exact evidence to meaning or purpose."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-T-005",
     "curriculumCode": "AC9E6LA02",
     "bank": "test",
-    "stage": "analyse",
-    "skill": "sample bias",
+    "stage": "independent",
+    "skill": "selection bias",
     "printable": true,
     "type": "single",
-    "question": "A survey about after-school sport includes only members of the athletics club. Why may it be biased?",
-    "audioPrompt": "A survey about after-school sport includes only members of the athletics club. Why may it be biased?",
+    "question": "In a school report, you read: “The article quotes four opponents but no supporters of the proposal.” Which analysis is most accurate?",
+    "audioPrompt": "In a school report, you read: “The article quotes four opponents but no supporters of the proposal.” Which analysis is most accurate?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -137,29 +137,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The sample is unlikely to represent all students.",
-      "Club members cannot answer questions.",
-      "Sports cannot be surveyed.",
-      "The sample is too easy to spell."
+      "objective statement: It reports a checkable quantity without adding approval or disapproval.",
+      "subjective statement: The adjective “wonderful” expresses the writer’s positive judgement.",
+      "loaded language: “Dumped” and “disastrous” push readers towards a negative response.",
+      "selection bias: The chosen voices represent only one side of the issue."
     ],
-    "correct": 0,
-    "explanation": "Athletics-club members may hold systematically different views from the whole student population.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "correct": 3,
+    "explanation": "selection bias is supported by the wording and its function in the whole sentence.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "Athletics-club members may hold systematically different views from the whole student population.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "selection bias is supported by the wording and its function in the whole sentence.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-T-006",
     "curriculumCode": "AC9E6LA02",
     "bank": "test",
-    "stage": "apply",
-    "skill": "attribute viewpoint",
+    "stage": "independent",
+    "skill": "omission-purpose",
     "printable": true,
     "type": "single",
-    "question": "Which sentence reports an opinion responsibly?",
-    "audioPrompt": "Which sentence reports an opinion responsibly?",
+    "question": "For a school report, which editing decision best demonstrates control of omission?",
+    "audioPrompt": "For a school report, which editing decision best demonstrates control of omission?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -167,29 +167,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The developer claims the design will reduce traffic.",
-      "The design will certainly end all traffic.",
-      "Traffic is obviously the worst problem.",
-      "Everyone supports the developer."
+      "Report both the fat and sugar figures per serving.",
+      "The survey recorded 186 responses, including 94 from junior students.",
+      "In my view, the new timetable makes transitions easier.",
+      "The council released its plan for public comment."
     ],
     "correct": 0,
-    "explanation": "“Claims” identifies the source and keeps the prediction distinguishable from established fact.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "explanation": "This option deliberately applies omission without changing the intended meaning.\nHint: Reject choices that merely add length or sound impressive.",
     "structuredExplanation": {
-      "summary": "“Claims” identifies the source and keeps the prediction distinguishable from established fact.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "This option deliberately applies omission without changing the intended meaning.",
+      "hint": "Reject choices that merely add length or sound impressive."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-T-007",
     "curriculumCode": "AC9E6LA02",
     "bank": "test",
-    "stage": "evaluate",
-    "skill": "balanced representation",
+    "stage": "transfer",
+    "skill": "framing-reasoning",
     "printable": true,
     "type": "single",
-    "question": "Which sentence is most balanced?",
-    "audioPrompt": "Which sentence is most balanced?",
+    "question": "While reviewing a school report, which statement should an editor reject about “Only 12% disagreed with the plan.”?",
+    "audioPrompt": "While reviewing a school report, which statement should an editor reject about “Only 12% disagreed with the plan.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -197,29 +197,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Residents welcomed the jobs, while conservation groups questioned habitat loss.",
-      "The brilliant project defeated foolish objections.",
-      "Only opponents were interviewed.",
-      "The project is either perfect or useless."
+      "A factual sentence guarantees that the whole text is unbiased.",
+      "Framing changes facts, so the percentages must be false.",
+      "Any sentence containing a number is objective.",
+      "Loaded words are simply longer words."
     ],
-    "correct": 0,
-    "explanation": "The sentence attributes two positions and gives the reason each foregrounds.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "correct": 1,
+    "explanation": "The rejected statement is an inaccurate generalisation about framing.\nHint: Select the claim contradicted by the evidence or by the language rule.",
     "structuredExplanation": {
-      "summary": "The sentence attributes two positions and gives the reason each foregrounds.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "The rejected statement is an inaccurate generalisation about framing.",
+      "hint": "Select the claim contradicted by the evidence or by the language rule."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-T-008",
     "curriculumCode": "AC9E6LA02",
     "bank": "test",
-    "stage": "analyse",
-    "skill": "framing",
+    "stage": "transfer",
+    "skill": "positive connotation-explanation",
     "printable": true,
     "type": "single",
-    "question": "Two headlines describe the same vote: “Council protects park” and “Council blocks homes”. What differs most?",
-    "audioPrompt": "Two headlines describe the same vote: “Council protects park” and “Council blocks homes”. What differs most?",
+    "question": "For a school report, which explanation would earn full credit for the language choice in “The determined captain continued training.”?",
+    "audioPrompt": "For a school report, which explanation would earn full credit for the language choice in “The determined captain continued training.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -227,29 +227,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The framing and selected consequence",
-      "The date of the vote",
-      "The number of councillors",
-      "The spelling of council"
+      "It reports a checkable quantity without adding approval or disapproval.",
+      "The adjective “wonderful” expresses the writer’s positive judgement.",
+      "“Determined” presents persistence as an admirable quality.",
+      "“Dumped” and “disastrous” push readers towards a negative response."
     ],
-    "correct": 0,
-    "explanation": "Each headline foregrounds a different consequence and guides readers towards a different interpretation.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "correct": 2,
+    "explanation": "“Determined” presents persistence as an admirable quality.\nHint: A full-credit explanation links exact evidence to meaning or purpose.",
     "structuredExplanation": {
-      "summary": "Each headline foregrounds a different consequence and guides readers towards a different interpretation.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "“Determined” presents persistence as an admirable quality.",
+      "hint": "A full-credit explanation links exact evidence to meaning or purpose."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-T-009",
     "curriculumCode": "AC9E6LA02",
     "bank": "test",
-    "stage": "apply",
-    "skill": "neutral revision",
+    "stage": "independent",
+    "skill": "negative connotation",
     "printable": true,
     "type": "single",
-    "question": "Which revision is most objective: “The greedy company grabbed another 20 hectares”?",
-    "audioPrompt": "Which revision is most objective: “The greedy company grabbed another 20 hectares”?",
+    "question": "In a community webpage, you read: “The stubborn captain continued training.” Which analysis is most accurate?",
+    "audioPrompt": "In a community webpage, you read: “The stubborn captain continued training.” Which analysis is most accurate?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -257,29 +257,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The company purchased an additional 20 hectares.",
-      "The wonderful company gained land.",
-      "The company greedily stole everything.",
-      "Everyone hated the purchase."
+      "objective statement: It reports a checkable quantity without adding approval or disapproval.",
+      "subjective statement: The adjective “wonderful” expresses the writer’s positive judgement.",
+      "loaded language: “Dumped” and “disastrous” push readers towards a negative response.",
+      "negative connotation: “Stubborn” presents the same persistence as unreasonable resistance."
     ],
-    "correct": 0,
-    "explanation": "The revision states the action and quantity without assuming motive.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "correct": 3,
+    "explanation": "negative connotation is supported by the wording and its function in the whole sentence.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The revision states the action and quantity without assuming motive.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "negative connotation is supported by the wording and its function in the whole sentence.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-T-010",
     "curriculumCode": "AC9E6LA02",
     "bank": "test",
-    "stage": "evaluate",
-    "skill": "data language",
+    "stage": "independent",
+    "skill": "sampling bias-purpose",
     "printable": true,
     "type": "single",
-    "question": "A graph shows a rise from 50 to 52. Which description is most responsible?",
-    "audioPrompt": "A graph shows a rise from 50 to 52. Which description is most responsible?",
+    "question": "For a community webpage, which editing decision best demonstrates control of sampling bias?",
+    "audioPrompt": "For a community webpage, which editing decision best demonstrates control of sampling bias?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -287,29 +287,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The value increased by two units.",
-      "The value skyrocketed.",
-      "The result proves permanent success.",
-      "The change is unbelievable."
+      "Invite a random mix of students from every year level.",
+      "The survey recorded 186 responses, including 94 from junior students.",
+      "In my view, the new timetable makes transitions easier.",
+      "The council released its plan for public comment."
     ],
     "correct": 0,
-    "explanation": "The neutral description matches the size of the recorded change.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "explanation": "This option deliberately applies sampling bias without changing the intended meaning.\nHint: Reject choices that merely add length or sound impressive.",
     "structuredExplanation": {
-      "summary": "The neutral description matches the size of the recorded change.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "This option deliberately applies sampling bias without changing the intended meaning.",
+      "hint": "Reject choices that merely add length or sound impressive."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-T-011",
     "curriculumCode": "AC9E6LA02",
     "bank": "test",
-    "stage": "analyse",
-    "skill": "fact-opinion blend",
+    "stage": "transfer",
+    "skill": "visual bias-reasoning",
     "printable": true,
     "type": "single",
-    "question": "Which part of “The unsafe crossing recorded three accidents last year” is evaluative?",
-    "audioPrompt": "Which part of “The unsafe crossing recorded three accidents last year” is evaluative?",
+    "question": "While reviewing a community webpage, which statement should an editor reject about “A report about crowded parks uses a tightly cropped photo of one busy corner.”?",
+    "audioPrompt": "While reviewing a community webpage, which statement should an editor reject about “A report about crowded parks uses a tightly cropped photo of one busy corner.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -317,29 +317,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "unsafe",
-      "three",
-      "last year",
-      "recorded"
+      "A factual sentence guarantees that the whole text is unbiased.",
+      "Photographs are automatically objective evidence.",
+      "Any sentence containing a number is objective.",
+      "Loaded words are simply longer words."
     ],
-    "correct": 0,
-    "explanation": "The accident count is checkable, while “unsafe” interprets what that evidence means.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "correct": 1,
+    "explanation": "The rejected statement is an inaccurate generalisation about visual bias.\nHint: Select the claim contradicted by the evidence or by the language rule.",
     "structuredExplanation": {
-      "summary": "The accident count is checkable, while “unsafe” interprets what that evidence means.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "The rejected statement is an inaccurate generalisation about visual bias.",
+      "hint": "Select the claim contradicted by the evidence or by the language rule."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-T-012",
     "curriculumCode": "AC9E6LA02",
     "bank": "test",
-    "stage": "evaluate",
-    "skill": "source interest",
+    "stage": "transfer",
+    "skill": "qualified judgement-explanation",
     "printable": true,
     "type": "single",
-    "question": "Why should readers notice that a tourism company funded a study praising tourism growth?",
-    "audioPrompt": "Why should readers notice that a tourism company funded a study praising tourism growth?",
+    "question": "For a community webpage, which explanation would earn full credit for the language choice in “The report may favour the proposal because it quotes supporters first and omits the cost estimate.”?",
+    "audioPrompt": "For a community webpage, which explanation would earn full credit for the language choice in “The report may favour the proposal because it quotes supporters first and omits the cost estimate.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -347,29 +347,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The funder may have an interest in the conclusion.",
-      "Funding makes all data false.",
-      "Tourism cannot be studied.",
-      "Companies cannot publish reports."
+      "It reports a checkable quantity without adding approval or disapproval.",
+      "The adjective “wonderful” expresses the writer’s positive judgement.",
+      "The claim identifies specific evidence and limits its certainty.",
+      "“Dumped” and “disastrous” push readers towards a negative response."
     ],
-    "correct": 0,
-    "explanation": "An interested funder does not disprove the evidence, but it is relevant when evaluating possible bias.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "correct": 2,
+    "explanation": "The claim identifies specific evidence and limits its certainty.\nHint: A full-credit explanation links exact evidence to meaning or purpose.",
     "structuredExplanation": {
-      "summary": "An interested funder does not disprove the evidence, but it is relevant when evaluating possible bias.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "The claim identifies specific evidence and limits its certainty.",
+      "hint": "A full-credit explanation links exact evidence to meaning or purpose."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-T-013",
     "curriculumCode": "AC9E6LA02",
     "bank": "test",
-    "stage": "analyse",
-    "skill": "visual bias",
+    "stage": "independent",
+    "skill": "objective statement",
     "printable": true,
     "type": "single",
-    "question": "Which graph choice can exaggerate a small difference?",
-    "audioPrompt": "Which graph choice can exaggerate a small difference?",
+    "question": "In a student presentation, you read: “The survey recorded 186 responses.” Which analysis is most accurate?",
+    "audioPrompt": "In a student presentation, you read: “The survey recorded 186 responses.” Which analysis is most accurate?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -377,29 +377,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A vertical axis covering only 97–100",
-      "Clearly labelled units",
-      "A source note",
-      "Equal-width bars"
+      "subjective statement: The adjective “wonderful” expresses the writer’s positive judgement.",
+      "loaded language: “Dumped” and “disastrous” push readers towards a negative response.",
+      "attributed opinion: The opinion is clearly assigned to the coach rather than presented as fact.",
+      "objective statement: It reports a checkable quantity without adding approval or disapproval."
     ],
-    "correct": 0,
-    "explanation": "A very narrow axis range can make a small numerical change look visually dramatic.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "correct": 3,
+    "explanation": "objective statement is supported by the wording and its function in the whole sentence.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "A very narrow axis range can make a small numerical change look visually dramatic.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "objective statement is supported by the wording and its function in the whole sentence.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-T-014",
     "curriculumCode": "AC9E6LA02",
     "bank": "test",
-    "stage": "apply",
-    "skill": "remove generalisation",
+    "stage": "independent",
+    "skill": "subjective statement-purpose",
     "printable": true,
     "type": "single",
-    "question": "Which revision improves “Teenagers never read reliable news”?",
-    "audioPrompt": "Which revision improves “Teenagers never read reliable news”?",
+    "question": "For a student presentation, which editing decision best demonstrates control of subjective statement?",
+    "audioPrompt": "For a student presentation, which editing decision best demonstrates control of subjective statement?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -407,29 +407,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The surveyed group relied mainly on social-media summaries.",
-      "Teenagers always behave badly.",
-      "Nobody reads news now.",
-      "Reliable news is boring."
+      "In my view, the new timetable makes transitions easier.",
+      "The survey recorded 186 responses, including 94 from junior students.",
+      "The council released its plan for public comment.",
+      "The coach described the rule as unfair; the report also summarised the referee’s reasons."
     ],
     "correct": 0,
-    "explanation": "The revision limits the claim to observed evidence and avoids stereotyping a whole group.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "explanation": "This option deliberately applies subjective statement without changing the intended meaning.\nHint: Reject choices that merely add length or sound impressive.",
     "structuredExplanation": {
-      "summary": "The revision limits the claim to observed evidence and avoids stereotyping a whole group.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "This option deliberately applies subjective statement without changing the intended meaning.",
+      "hint": "Reject choices that merely add length or sound impressive."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-T-015",
     "curriculumCode": "AC9E6LA02",
     "bank": "test",
-    "stage": "evaluate",
-    "skill": "compare versions",
+    "stage": "transfer",
+    "skill": "loaded language-reasoning",
     "printable": true,
     "type": "single",
-    "question": "Version A calls a crowd “determined”; Version B calls it “stubborn”. What should an analysis explain?",
-    "audioPrompt": "Version A calls a crowd “determined”; Version B calls it “stubborn”. What should an analysis explain?",
+    "question": "While reviewing a student presentation, which statement should an editor reject about “The council dumped its disastrous plan on families.”?",
+    "audioPrompt": "While reviewing a student presentation, which statement should an editor reject about “The council dumped its disastrous plan on families.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -437,29 +437,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The shared denotation and contrasting connotations",
-      "Only which word is longer",
-      "That both words are objective measurements",
-      "That connotation never affects tone"
+      "A factual sentence guarantees that the whole text is unbiased.",
+      "Loaded words are simply longer words.",
+      "Any sentence containing a number is objective.",
+      "Putting an opinion in quotation marks turns it into a fact."
     ],
-    "correct": 0,
-    "explanation": "The words describe persistence but position the crowd positively or negatively.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "correct": 1,
+    "explanation": "The rejected statement is an inaccurate generalisation about loaded language.\nHint: Select the claim contradicted by the evidence or by the language rule.",
     "structuredExplanation": {
-      "summary": "The words describe persistence but position the crowd positively or negatively.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "The rejected statement is an inaccurate generalisation about loaded language.",
+      "hint": "Select the claim contradicted by the evidence or by the language rule."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LA02-T-016",
     "curriculumCode": "AC9E6LA02",
     "bank": "test",
-    "stage": "apply",
-    "skill": "synthesise bias analysis",
+    "stage": "transfer",
+    "skill": "attributed opinion-explanation",
     "printable": true,
     "type": "single",
-    "question": "Which response best analyses bias?",
-    "audioPrompt": "Which response best analyses bias?",
+    "question": "For a student presentation, which explanation would earn full credit for the language choice in “The coach said the new rule was unfair.”?",
+    "audioPrompt": "For a student presentation, which explanation would earn full credit for the language choice in “The coach said the new rule was unfair.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -467,18 +467,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The article favours the proposal by quoting only supporters and calling objections “petty”.",
-      "The article is biased because I disagree.",
-      "The article contains paragraphs.",
-      "The article must be false."
+      "It reports a checkable quantity without adding approval or disapproval.",
+      "The adjective “wonderful” expresses the writer’s positive judgement.",
+      "The opinion is clearly assigned to the coach rather than presented as fact.",
+      "“Dumped” and “disastrous” push readers towards a negative response."
     ],
-    "correct": 0,
-    "explanation": "The response identifies specific selection and wording evidence and explains the direction of bias.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
+    "correct": 2,
+    "explanation": "The opinion is clearly assigned to the coach rather than presented as fact.\nHint: A full-credit explanation links exact evidence to meaning or purpose.",
     "structuredExplanation": {
-      "summary": "The response identifies specific selection and wording evidence and explains the direction of bias.",
-      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
+      "summary": "The opinion is clearly assigned to the coach rather than presented as fact.",
+      "hint": "A full-credit explanation links exact evidence to meaning or purpose."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   }
 ];
+window.skillrExamQuestions = window.skillrTestQuestions;
 window.quizQuestions = window.skillrTestQuestions;

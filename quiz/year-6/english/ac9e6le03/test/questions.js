@@ -4,12 +4,12 @@ window.skillrTestQuestions = [
     "id": "AC9E6LE03-T-001",
     "curriculumCode": "AC9E6LE03",
     "bank": "test",
-    "stage": "verify",
-    "skill": "individual style",
+    "stage": "independent",
+    "skill": "recurring first-person voice",
     "printable": true,
     "type": "single",
-    "question": "A community radio segment includes “distinctive combination and handling”. Which description best fits this wording?",
-    "audioPrompt": "A community radio segment includes “distinctive combination and handling”. Which description best fits this wording?",
+    "question": "In a museum panel, “Across two stories, the narrators reveal feelings but misunderstand other characters.” Which analysis is strongest?",
+    "audioPrompt": "In a museum panel, “Across two stories, the narrators reveal feelings but misunderstand other characters.” Which analysis is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -17,29 +17,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "individual style",
-      "narration",
-      "syntax",
-      "imagery"
+      "recurring first-person voice: The repeated close but limited viewpoint creates intimacy and uncertainty.",
+      "sentence pattern: The repeated syntax speeds the pace and emphasises sudden decisions.",
+      "imagery motif: The repeated boundary imagery develops the author’s concern with freedom and restriction.",
+      "understatement: The recurring understatement releases tension and builds dry humour."
     ],
     "correct": 0,
-    "explanation": "The wording best matches individual style.\nHint: Identify the language choice first, then check its effect in this context.",
+    "explanation": "recurring first-person voice is supported by exact evidence.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches individual style.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "recurring first-person voice is supported by exact evidence.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-T-002",
     "curriculumCode": "AC9E6LE03",
     "bank": "test",
-    "stage": "verify",
-    "skill": "authorial style",
+    "stage": "independent",
+    "skill": "sentence pattern edit",
     "printable": true,
     "type": "single",
-    "question": "In a wildlife-centre report, which term matches this meaning: “recurring distinctive pattern of craft choices”?",
-    "audioPrompt": "In a wildlife-centre report, which term matches this meaning: “recurring distinctive pattern of craft choices”?",
+    "question": "Which edit best demonstrates sentence pattern in a museum panel?",
+    "audioPrompt": "Which edit best demonstrates sentence pattern in a museum panel?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -47,29 +47,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "narrator",
-      "authorial style",
-      "motif",
-      "It does not match the evidence in the example."
+      "Compare one moment of misunderstanding from each story.",
+      "Quote one fragment from each text and explain the shared effect.",
+      "Trace the boundary motif across at least two texts.",
+      "Explain how the mild wording contrasts with the serious event."
     ],
     "correct": 1,
-    "explanation": "authorial style is the precise term for recurring distinctive pattern of craft choices.\nHint: Distinguish closely related terms by their definitions.",
+    "explanation": "This edit applies sentence pattern accurately.\nHint: Choose purposeful accuracy.",
     "structuredExplanation": {
-      "summary": "authorial style is the precise term for recurring distinctive pattern of craft choices.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies sentence pattern accurately.",
+      "hint": "Choose purposeful accuracy."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-T-003",
     "curriculumCode": "AC9E6LE03",
     "bank": "test",
-    "stage": "verify",
-    "skill": "authorial style and voice",
+    "stage": "transfer",
+    "skill": "imagery motif misconception",
     "printable": true,
     "type": "single",
-    "question": "For a regional youth forum, what best supports a claim about authorial style?",
-    "audioPrompt": "For a regional youth forum, what best supports a claim about authorial style?",
+    "question": "Which claim should an editor reject about “Windows, doors and gates recur whenever characters face difficult choices.” in this museum panel?",
+    "audioPrompt": "Which claim should an editor reject about “Windows, doors and gates recur whenever characters face difficult choices.” in this museum panel?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -77,29 +77,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "One isolated adjective",
-      "The author’s photograph",
-      "A recurring combination of choices across several texts",
-      "A single plot fact"
+      "The narrator and author are the same person.",
+      "One short sentence proves an author always writes this way.",
+      "Any repeated object is automatically a meaningful motif.",
+      "Style is only the vocabulary an author uses."
     ],
     "correct": 2,
-    "explanation": "“A recurring combination of choices across several texts” is supported by the language evidence and purpose of the text.\nHint: Do not infer personality directly from fictional voice. Analyse crafted textual choices.",
+    "explanation": "The rejected claim overgeneralises imagery motif.\nHint: Check the claim against evidence.",
     "structuredExplanation": {
-      "summary": "“A recurring combination of choices across several texts” is supported by the language evidence and purpose of the text.",
-      "hint": "Do not infer personality directly from fictional voice. Analyse crafted textual choices."
+      "summary": "The rejected claim overgeneralises imagery motif.",
+      "hint": "Check the claim against evidence."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-T-004",
     "curriculumCode": "AC9E6LE03",
     "bank": "test",
-    "stage": "verify",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "understatement explanation",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a coastal-monitoring update says, “One quotation defines style”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a coastal-monitoring update says, “One quotation defines style”. Which response is most accurate?",
+    "question": "Which explanation best accounts for “After each disaster, a character quietly says, “That could have gone better.”” in this museum panel?",
+    "audioPrompt": "Which explanation best accounts for “After each disaster, a character quietly says, “That could have gone better.”” in this museum panel?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -107,29 +107,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Narrator and author treated as identical",
-      "One quotation defines style",
-      "Genre convention credited only to author",
-      "Use patterns across texts."
+      "The repeated close but limited viewpoint creates intimacy and uncertainty.",
+      "The repeated syntax speeds the pace and emphasises sudden decisions.",
+      "The repeated boundary imagery develops the author’s concern with freedom and restriction.",
+      "The recurring understatement releases tension and builds dry humour."
     ],
     "correct": 3,
-    "explanation": "Use patterns across texts. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "explanation": "The recurring understatement releases tension and builds dry humour.\nHint: Connect evidence and effect.",
     "structuredExplanation": {
-      "summary": "Use patterns across texts. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "The recurring understatement releases tension and builds dry humour.",
+      "hint": "Connect evidence and effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-T-005",
     "curriculumCode": "AC9E6LE03",
     "bank": "test",
-    "stage": "verify",
-    "skill": "individual style",
+    "stage": "independent",
+    "skill": "weather imagery",
     "printable": true,
     "type": "single",
-    "question": "A heritage trail guide includes “distinctive combination and handling”. Which description best fits this wording?",
-    "audioPrompt": "A heritage trail guide includes “distinctive combination and handling”. Which description best fits this wording?",
+    "question": "In a school magazine, “Storms gather as relationships worsen in several stories.” Which analysis is strongest?",
+    "audioPrompt": "In a school magazine, “Storms gather as relationships worsen in several stories.” Which analysis is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -137,29 +137,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "individual style",
-      "narration",
-      "syntax",
-      "imagery"
+      "weather imagery: The recurring weather pattern mirrors conflict and creates anticipation.",
+      "recurring first-person voice: The repeated close but limited viewpoint creates intimacy and uncertainty.",
+      "sentence pattern: The repeated syntax speeds the pace and emphasises sudden decisions.",
+      "imagery motif: The repeated boundary imagery develops the author’s concern with freedom and restriction."
     ],
     "correct": 0,
-    "explanation": "The wording best matches individual style.\nHint: Identify the language choice first, then check its effect in this context.",
+    "explanation": "weather imagery is supported by exact evidence.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches individual style.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "weather imagery is supported by exact evidence.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-T-006",
     "curriculumCode": "AC9E6LE03",
     "bank": "test",
-    "stage": "verify",
-    "skill": "narrator",
+    "stage": "independent",
+    "skill": "dialogue style edit",
     "printable": true,
     "type": "single",
-    "question": "In a public-transport survey, which term matches this meaning: “constructed voice presenting a narrative”?",
-    "audioPrompt": "In a public-transport survey, which term matches this meaning: “constructed voice presenting a narrative”?",
+    "question": "Which edit best demonstrates dialogue style in a school magazine?",
+    "audioPrompt": "Which edit best demonstrates dialogue style in a school magazine?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -167,29 +167,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "authorial style",
-      "narrator",
-      "motif",
-      "It does not match the evidence in the example."
+      "Compare one moment of misunderstanding from each story.",
+      "Cite the punctuation and explain what it suggests about speech.",
+      "Quote one fragment from each text and explain the shared effect.",
+      "Trace the boundary motif across at least two texts."
     ],
     "correct": 1,
-    "explanation": "narrator is the precise term for constructed voice presenting a narrative.\nHint: Distinguish closely related terms by their definitions.",
+    "explanation": "This edit applies dialogue style accurately.\nHint: Choose purposeful accuracy.",
     "structuredExplanation": {
-      "summary": "narrator is the precise term for constructed voice presenting a narrative.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies dialogue style accurately.",
+      "hint": "Choose purposeful accuracy."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-T-007",
     "curriculumCode": "AC9E6LE03",
     "bank": "test",
-    "stage": "verify",
-    "skill": "authorial style and voice",
+    "stage": "transfer",
+    "skill": "pacing misconception",
     "printable": true,
     "type": "single",
-    "question": "For a festival review, what best supports a claim about authorial style?",
-    "audioPrompt": "For a festival review, what best supports a claim about authorial style?",
+    "question": "Which claim should an editor reject about “The author slows important discoveries with precise sensory details.” in this school magazine?",
+    "audioPrompt": "Which claim should an editor reject about “The author slows important discoveries with precise sensory details.” in this school magazine?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -197,29 +197,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "One isolated adjective",
-      "The author’s photograph",
-      "A recurring combination of choices across several texts",
-      "A single plot fact"
+      "The narrator and author are the same person.",
+      "One short sentence proves an author always writes this way.",
+      "Fast pacing is always more exciting and therefore better.",
+      "Any repeated object is automatically a meaningful motif."
     ],
     "correct": 2,
-    "explanation": "“A recurring combination of choices across several texts” is supported by the language evidence and purpose of the text.\nHint: Do not infer personality directly from fictional voice. Analyse crafted textual choices.",
+    "explanation": "The rejected claim overgeneralises pacing.\nHint: Check the claim against evidence.",
     "structuredExplanation": {
-      "summary": "“A recurring combination of choices across several texts” is supported by the language evidence and purpose of the text.",
-      "hint": "Do not infer personality directly from fictional voice. Analyse crafted textual choices."
+      "summary": "The rejected claim overgeneralises pacing.",
+      "hint": "Check the claim against evidence."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-T-008",
     "curriculumCode": "AC9E6LE03",
     "bank": "test",
-    "stage": "verify",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "theme pattern explanation",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a emergency-preparedness talk says, “One quotation defines style”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a emergency-preparedness talk says, “One quotation defines style”. Which response is most accurate?",
+    "question": "Which explanation best accounts for “Responsibility to family returns across adventure, mystery and realistic stories.” in this school magazine?",
+    "audioPrompt": "Which explanation best accounts for “Responsibility to family returns across adventure, mystery and realistic stories.” in this school magazine?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -227,29 +227,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Narrator and author treated as identical",
-      "One quotation defines style",
-      "Genre convention credited only to author",
-      "Use patterns across texts."
+      "The repeated close but limited viewpoint creates intimacy and uncertainty.",
+      "The repeated syntax speeds the pace and emphasises sudden decisions.",
+      "The repeated boundary imagery develops the author’s concern with freedom and restriction.",
+      "A recurring concern across genres helps define the author’s individual style."
     ],
     "correct": 3,
-    "explanation": "Use patterns across texts. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "explanation": "A recurring concern across genres helps define the author’s individual style.\nHint: Connect evidence and effect.",
     "structuredExplanation": {
-      "summary": "Use patterns across texts. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "A recurring concern across genres helps define the author’s individual style.",
+      "hint": "Connect evidence and effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-T-009",
     "curriculumCode": "AC9E6LE03",
     "bank": "test",
-    "stage": "apply",
-    "skill": "individual style",
+    "stage": "independent",
+    "skill": "narrator distinction",
     "printable": true,
     "type": "single",
-    "question": "A water-saving brochure includes “distinctive combination and handling”. Which description best fits this wording?",
-    "audioPrompt": "A water-saving brochure includes “distinctive combination and handling”. Which description best fits this wording?",
+    "question": "In a community website, “A boastful narrator describes every mistake as someone else’s fault.” Which analysis is strongest?",
+    "audioPrompt": "In a community website, “A boastful narrator describes every mistake as someone else’s fault.” Which analysis is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -257,29 +257,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "individual style",
-      "narration",
-      "syntax",
-      "imagery"
+      "narrator distinction: The crafted narrator voice creates irony; it is not direct evidence about the author.",
+      "recurring first-person voice: The repeated close but limited viewpoint creates intimacy and uncertainty.",
+      "sentence pattern: The repeated syntax speeds the pace and emphasises sudden decisions.",
+      "imagery motif: The repeated boundary imagery develops the author’s concern with freedom and restriction."
     ],
     "correct": 0,
-    "explanation": "The wording best matches individual style.\nHint: Identify the language choice first, then check its effect in this context.",
+    "explanation": "narrator distinction is supported by exact evidence.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches individual style.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "narrator distinction is supported by exact evidence.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-T-010",
     "curriculumCode": "AC9E6LE03",
     "bank": "test",
-    "stage": "apply",
-    "skill": "motif",
+    "stage": "independent",
+    "skill": "genre convention edit",
     "printable": true,
     "type": "single",
-    "question": "In a local council submission, which term matches this meaning: “recurring image, phrase or idea”?",
-    "audioPrompt": "In a local council submission, which term matches this meaning: “recurring image, phrase or idea”?",
+    "question": "Which edit best demonstrates genre convention in a community website?",
+    "audioPrompt": "Which edit best demonstrates genre convention in a community website?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -287,29 +287,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "authorial style",
-      "motif",
-      "narrator",
-      "It does not match the evidence in the example."
+      "Compare one moment of misunderstanding from each story.",
+      "Compare the feature with other mysteries before calling it individual style.",
+      "Quote one fragment from each text and explain the shared effect.",
+      "Trace the boundary motif across at least two texts."
     ],
     "correct": 1,
-    "explanation": "motif is the precise term for recurring image, phrase or idea.\nHint: Distinguish closely related terms by their definitions.",
+    "explanation": "This edit applies genre convention accurately.\nHint: Choose purposeful accuracy.",
     "structuredExplanation": {
-      "summary": "motif is the precise term for recurring image, phrase or idea.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies genre convention accurately.",
+      "hint": "Choose purposeful accuracy."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-T-011",
     "curriculumCode": "AC9E6LE03",
     "bank": "test",
-    "stage": "apply",
-    "skill": "authorial style and voice",
+    "stage": "transfer",
+    "skill": "cross-text evidence misconception",
     "printable": true,
     "type": "single",
-    "question": "For a marine-research diary, what best supports a claim about authorial style?",
-    "audioPrompt": "For a marine-research diary, what best supports a claim about authorial style?",
+    "question": "Which claim should an editor reject about “Two poems and a story all use circular endings and river imagery.” in this community website?",
+    "audioPrompt": "Which claim should an editor reject about “Two poems and a story all use circular endings and river imagery.” in this community website?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -317,29 +317,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "One isolated adjective",
-      "The author’s photograph",
-      "A recurring combination of choices across several texts",
-      "A single plot fact"
+      "The narrator and author are the same person.",
+      "One short sentence proves an author always writes this way.",
+      "One quotation is enough to define an author’s style.",
+      "Any repeated object is automatically a meaningful motif."
     ],
     "correct": 2,
-    "explanation": "“A recurring combination of choices across several texts” is supported by the language evidence and purpose of the text.\nHint: Do not infer personality directly from fictional voice. Analyse crafted textual choices.",
+    "explanation": "The rejected claim overgeneralises cross-text evidence.\nHint: Check the claim against evidence.",
     "structuredExplanation": {
-      "summary": "“A recurring combination of choices across several texts” is supported by the language evidence and purpose of the text.",
-      "hint": "Do not infer personality directly from fictional voice. Analyse crafted textual choices."
+      "summary": "The rejected claim overgeneralises cross-text evidence.",
+      "hint": "Check the claim against evidence."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-T-012",
     "curriculumCode": "AC9E6LE03",
     "bank": "test",
-    "stage": "apply",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "style synthesis explanation",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a farmers market profile says, “One quotation defines style”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a farmers market profile says, “One quotation defines style”. Which response is most accurate?",
+    "question": "Which explanation best accounts for “The author combines limited narration, dry humour and boundary imagery.” in this community website?",
+    "audioPrompt": "Which explanation best accounts for “The author combines limited narration, dry humour and boundary imagery.” in this community website?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -347,29 +347,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Narrator and author treated as identical",
-      "One quotation defines style",
-      "Genre convention credited only to author",
-      "Use patterns across texts."
+      "The repeated close but limited viewpoint creates intimacy and uncertainty.",
+      "The repeated syntax speeds the pace and emphasises sudden decisions.",
+      "The repeated boundary imagery develops the author’s concern with freedom and restriction.",
+      "The distinctive combination matters more than any single technique."
     ],
     "correct": 3,
-    "explanation": "Use patterns across texts. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "explanation": "The distinctive combination matters more than any single technique.\nHint: Connect evidence and effect.",
     "structuredExplanation": {
-      "summary": "Use patterns across texts. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "The distinctive combination matters more than any single technique.",
+      "hint": "Connect evidence and effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-T-013",
     "curriculumCode": "AC9E6LE03",
     "bank": "test",
-    "stage": "apply",
-    "skill": "individual style",
+    "stage": "independent",
+    "skill": "recurring first-person voice",
     "printable": true,
     "type": "single",
-    "question": "A astronomy exhibition includes “distinctive combination and handling”. Which description best fits this wording?",
-    "audioPrompt": "A astronomy exhibition includes “distinctive combination and handling”. Which description best fits this wording?",
+    "question": "In a student presentation, “Across two stories, the narrators reveal feelings but misunderstand other characters.” Which analysis is strongest?",
+    "audioPrompt": "In a student presentation, “Across two stories, the narrators reveal feelings but misunderstand other characters.” Which analysis is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -377,29 +377,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "individual style",
-      "narration",
-      "syntax",
-      "imagery"
+      "recurring first-person voice: The repeated close but limited viewpoint creates intimacy and uncertainty.",
+      "sentence pattern: The repeated syntax speeds the pace and emphasises sudden decisions.",
+      "imagery motif: The repeated boundary imagery develops the author’s concern with freedom and restriction.",
+      "understatement: The recurring understatement releases tension and builds dry humour."
     ],
     "correct": 0,
-    "explanation": "The wording best matches individual style.\nHint: Identify the language choice first, then check its effect in this context.",
+    "explanation": "recurring first-person voice is supported by exact evidence.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches individual style.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "recurring first-person voice is supported by exact evidence.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-T-014",
     "curriculumCode": "AC9E6LE03",
     "bank": "test",
-    "stage": "apply",
-    "skill": "authorial style",
+    "stage": "independent",
+    "skill": "sentence pattern edit",
     "printable": true,
     "type": "single",
-    "question": "In a river-restoration update, which term matches this meaning: “recurring distinctive pattern of craft choices”?",
-    "audioPrompt": "In a river-restoration update, which term matches this meaning: “recurring distinctive pattern of craft choices”?",
+    "question": "Which edit best demonstrates sentence pattern in a student presentation?",
+    "audioPrompt": "Which edit best demonstrates sentence pattern in a student presentation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -407,29 +407,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "narrator",
-      "authorial style",
-      "motif",
-      "It does not match the evidence in the example."
+      "Compare one moment of misunderstanding from each story.",
+      "Quote one fragment from each text and explain the shared effect.",
+      "Trace the boundary motif across at least two texts.",
+      "Explain how the mild wording contrasts with the serious event."
     ],
     "correct": 1,
-    "explanation": "authorial style is the precise term for recurring distinctive pattern of craft choices.\nHint: Distinguish closely related terms by their definitions.",
+    "explanation": "This edit applies sentence pattern accurately.\nHint: Choose purposeful accuracy.",
     "structuredExplanation": {
-      "summary": "authorial style is the precise term for recurring distinctive pattern of craft choices.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies sentence pattern accurately.",
+      "hint": "Choose purposeful accuracy."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-T-015",
     "curriculumCode": "AC9E6LE03",
     "bank": "test",
-    "stage": "apply",
-    "skill": "authorial style and voice",
+    "stage": "transfer",
+    "skill": "imagery motif misconception",
     "printable": true,
     "type": "single",
-    "question": "For a cycling-safety campaign, what best supports a claim about authorial style?",
-    "audioPrompt": "For a cycling-safety campaign, what best supports a claim about authorial style?",
+    "question": "Which claim should an editor reject about “Windows, doors and gates recur whenever characters face difficult choices.” in this student presentation?",
+    "audioPrompt": "Which claim should an editor reject about “Windows, doors and gates recur whenever characters face difficult choices.” in this student presentation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -437,29 +437,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "One isolated adjective",
-      "The author’s photograph",
-      "A recurring combination of choices across several texts",
-      "A single plot fact"
+      "The narrator and author are the same person.",
+      "One short sentence proves an author always writes this way.",
+      "Any repeated object is automatically a meaningful motif.",
+      "Style is only the vocabulary an author uses."
     ],
     "correct": 2,
-    "explanation": "“A recurring combination of choices across several texts” is supported by the language evidence and purpose of the text.\nHint: Do not infer personality directly from fictional voice. Analyse crafted textual choices.",
+    "explanation": "The rejected claim overgeneralises imagery motif.\nHint: Check the claim against evidence.",
     "structuredExplanation": {
-      "summary": "“A recurring combination of choices across several texts” is supported by the language evidence and purpose of the text.",
-      "hint": "Do not infer personality directly from fictional voice. Analyse crafted textual choices."
+      "summary": "The rejected claim overgeneralises imagery motif.",
+      "hint": "Check the claim against evidence."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE03-T-016",
     "curriculumCode": "AC9E6LE03",
     "bank": "test",
-    "stage": "apply",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "understatement explanation",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a neighbourhood history podcast says, “One quotation defines style”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a neighbourhood history podcast says, “One quotation defines style”. Which response is most accurate?",
+    "question": "Which explanation best accounts for “After each disaster, a character quietly says, “That could have gone better.”” in this student presentation?",
+    "audioPrompt": "Which explanation best accounts for “After each disaster, a character quietly says, “That could have gone better.”” in this student presentation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -467,18 +467,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Narrator and author treated as identical",
-      "One quotation defines style",
-      "Genre convention credited only to author",
-      "Use patterns across texts."
+      "The repeated close but limited viewpoint creates intimacy and uncertainty.",
+      "The repeated syntax speeds the pace and emphasises sudden decisions.",
+      "The repeated boundary imagery develops the author’s concern with freedom and restriction.",
+      "The recurring understatement releases tension and builds dry humour."
     ],
     "correct": 3,
-    "explanation": "Use patterns across texts. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "explanation": "The recurring understatement releases tension and builds dry humour.\nHint: Connect evidence and effect.",
     "structuredExplanation": {
-      "summary": "Use patterns across texts. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "The recurring understatement releases tension and builds dry humour.",
+      "hint": "Connect evidence and effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

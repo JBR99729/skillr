@@ -4,12 +4,12 @@ window.skillrTestQuestions = [
     "id": "AC9E6LE01-T-001",
     "curriculumCode": "AC9E6LE01",
     "bank": "test",
-    "stage": "verify",
-    "skill": "historical knowledge",
+    "stage": "independent",
+    "skill": "evidence-based response",
     "printable": true,
     "type": "single",
-    "question": "A community radio segment includes “available choices and conventions”. Which description best fits this wording?",
-    "audioPrompt": "A community radio segment includes “available choices and conventions”. Which description best fits this wording?",
+    "question": "In a museum panel, “Nari shares the last water ration with a younger child despite her own thirst.” Which analysis is strongest?",
+    "audioPrompt": "In a museum panel, “Nari shares the last water ration with a younger child despite her own thirst.” Which analysis is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -17,29 +17,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Text evidence",
-      "Context",
-      "historical knowledge",
-      "Interpretation"
+      "historical context: Knowledge of censorship explains why characters hint at danger instead of naming it.",
+      "social context: The peer-group pressure helps explain her shame and later decision to speak up.",
+      "evidence-based response: This specific textual evidence supports a response that she is compassionate and courageous.",
+      "cultural context: The event may show responsibility to knowledge, relationships and collective authority."
     ],
     "correct": 2,
-    "explanation": "The wording best matches historical knowledge.\nHint: Identify the language choice first, then check its effect in this context.",
+    "explanation": "evidence-based response is supported by exact evidence and context.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches historical knowledge.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "evidence-based response is supported by exact evidence and context.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-T-002",
     "curriculumCode": "AC9E6LE01",
     "bank": "test",
-    "stage": "verify",
-    "skill": "reader response",
+    "stage": "independent",
+    "skill": "historical context edit",
     "printable": true,
     "type": "single",
-    "question": "In a wildlife-centre report, which term matches this meaning: “interpretation or evaluation developed by a reader”?",
-    "audioPrompt": "In a wildlife-centre report, which term matches this meaning: “interpretation or evaluation developed by a reader”?",
+    "question": "Which edit best demonstrates control of historical context in a museum panel?",
+    "audioPrompt": "Which edit best demonstrates control of historical context in a museum panel?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -47,29 +47,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "context",
-      "textual evidence",
-      "It does not match the evidence in the example.",
-      "reader response"
+      "Nari appears courageous because she accepts personal risk to protect the child.",
+      "Use both the mocking dialogue and her actions as evidence of social pressure.",
+      "Explain the represented value using details from this particular text.",
+      "Connect the indirect wording to the restrictions on wartime communication."
     ],
     "correct": 3,
-    "explanation": "reader response is the precise term for interpretation or evaluation developed by a reader.\nHint: Distinguish closely related terms by their definitions.",
+    "explanation": "This edit applies historical context without distorting the intended meaning.\nHint: Choose purposeful accuracy, not decoration.",
     "structuredExplanation": {
-      "summary": "reader response is the precise term for interpretation or evaluation developed by a reader.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies historical context without distorting the intended meaning.",
+      "hint": "Choose purposeful accuracy, not decoration."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-T-003",
     "curriculumCode": "AC9E6LE01",
     "bank": "test",
-    "stage": "verify",
-    "skill": "responses to characters and events across contexts",
+    "stage": "transfer",
+    "skill": "social context misconception",
     "printable": true,
     "type": "single",
-    "question": "For a regional youth forum, which response is best supported?",
-    "audioPrompt": "For a regional youth forum, which response is best supported?",
+    "question": "Which claim should an editor reject when reviewing this museum panel: “A new student hides her lunch after classmates mock unfamiliar food.”?",
+    "audioPrompt": "Which claim should an editor reject when reviewing this museum panel: “A new student hides her lunch after classmates mock unfamiliar food.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -77,29 +77,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The refusal appears courageous because it prevents harm despite institutional pressure",
-      "The character is good",
-      "Everyone would agree",
-      "The decision has no context"
+      "Context excuses every harmful action.",
+      "A response is strong whenever it states a feeling.",
+      "Historical characters should be judged as if they had every modern choice.",
+      "One fictional character represents an entire culture."
     ],
     "correct": 0,
-    "explanation": "“The refusal appears courageous because it prevents harm despite institutional pressure” is supported by the language evidence and purpose of the text.\nHint: Different interpretations can both be defensible when they acknowledge evidence and limits.",
+    "explanation": "The rejected claim is an inaccurate generalisation about social context.\nHint: Select the claim contradicted by the evidence or convention.",
     "structuredExplanation": {
-      "summary": "“The refusal appears courageous because it prevents harm despite institutional pressure” is supported by the language evidence and purpose of the text.",
-      "hint": "Different interpretations can both be defensible when they acknowledge evidence and limits."
+      "summary": "The rejected claim is an inaccurate generalisation about social context.",
+      "hint": "Select the claim contradicted by the evidence or convention."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-T-004",
     "curriculumCode": "AC9E6LE01",
     "bank": "test",
-    "stage": "verify",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "cultural context reasoning",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a coastal-monitoring update says, “Historical character judged without context”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a coastal-monitoring update says, “Historical character judged without context”. Which response is most accurate?",
+    "question": "Which explanation best accounts for “A character pauses to seek an Elder’s guidance before making a community decision.” in this museum panel?",
+    "audioPrompt": "Which explanation best accounts for “A character pauses to seek an Elder’s guidance before making a community decision.” in this museum panel?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -107,29 +107,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Personal reaction treated as self-evident",
-      "Consider available norms and constraints.",
-      "Historical character judged without context",
-      "Context used to excuse all actions"
+      "This specific textual evidence supports a response that she is compassionate and courageous.",
+      "The event may show responsibility to knowledge, relationships and collective authority.",
+      "Knowledge of censorship explains why characters hint at danger instead of naming it.",
+      "The peer-group pressure helps explain her shame and later decision to speak up."
     ],
     "correct": 1,
-    "explanation": "Consider available norms and constraints. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "explanation": "The event may show responsibility to knowledge, relationships and collective authority.\nHint: A strong explanation connects a feature to its contextual effect.",
     "structuredExplanation": {
-      "summary": "Consider available norms and constraints. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "The event may show responsibility to knowledge, relationships and collective authority.",
+      "hint": "A strong explanation connects a feature to its contextual effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-T-005",
     "curriculumCode": "AC9E6LE01",
     "bank": "test",
-    "stage": "verify",
-    "skill": "loyalty",
+    "stage": "independent",
+    "skill": "First Nations text protocol",
     "printable": true,
     "type": "single",
-    "question": "A heritage trail guide includes “duty to group or relationship”. Which description best fits this wording?",
-    "audioPrompt": "A heritage trail guide includes “duty to group or relationship”. Which description best fits this wording?",
+    "question": "In a school magazine, “The author’s note identifies Country, community consultation and permission for a story.” Which analysis is strongest?",
+    "audioPrompt": "In a school magazine, “The author’s note identifies Country, community consultation and permission for a story.” Which analysis is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -137,29 +137,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Text evidence",
-      "Context",
-      "loyalty",
-      "Interpretation"
+      "evidence-based response: This specific textual evidence supports a response that she is compassionate and courageous.",
+      "historical context: Knowledge of censorship explains why characters hint at danger instead of naming it.",
+      "First Nations text protocol: These details help readers understand whose knowledge is shared and under what authority.",
+      "social context: The peer-group pressure helps explain her shame and later decision to speak up."
     ],
     "correct": 2,
-    "explanation": "The wording best matches loyalty.\nHint: Identify the language choice first, then check its effect in this context.",
+    "explanation": "First Nations text protocol is supported by exact evidence and context.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches loyalty.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "First Nations text protocol is supported by exact evidence and context.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-T-006",
     "curriculumCode": "AC9E6LE01",
     "bank": "test",
-    "stage": "verify",
-    "skill": "context",
+    "stage": "independent",
+    "skill": "alternative interpretation edit",
     "printable": true,
     "type": "single",
-    "question": "In a public-transport survey, which term matches this meaning: “historical, social or cultural conditions relevant to meaning”?",
-    "audioPrompt": "In a public-transport survey, which term matches this meaning: “historical, social or cultural conditions relevant to meaning”?",
+    "question": "Which edit best demonstrates control of alternative interpretation in a school magazine?",
+    "audioPrompt": "Which edit best demonstrates control of alternative interpretation in a school magazine?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -167,29 +167,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "reader response",
-      "textual evidence",
-      "It does not match the evidence in the example.",
-      "context"
+      "Nari appears courageous because she accepts personal risk to protect the child.",
+      "Connect the indirect wording to the restrictions on wartime communication.",
+      "Use both the mocking dialogue and her actions as evidence of social pressure.",
+      "Compare the evidence each reader values and state the limits of both readings."
     ],
     "correct": 3,
-    "explanation": "context is the precise term for historical, social or cultural conditions relevant to meaning.\nHint: Distinguish closely related terms by their definitions.",
+    "explanation": "This edit applies alternative interpretation without distorting the intended meaning.\nHint: Choose purposeful accuracy, not decoration.",
     "structuredExplanation": {
-      "summary": "context is the precise term for historical, social or cultural conditions relevant to meaning.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies alternative interpretation without distorting the intended meaning.",
+      "hint": "Choose purposeful accuracy, not decoration."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-T-007",
     "curriculumCode": "AC9E6LE01",
     "bank": "test",
-    "stage": "verify",
-    "skill": "responses to characters and events across contexts",
+    "stage": "transfer",
+    "skill": "narrator reliability misconception",
     "printable": true,
     "type": "single",
-    "question": "For a festival review, which response is best supported?",
-    "audioPrompt": "For a festival review, which response is best supported?",
+    "question": "Which claim should an editor reject when reviewing this school magazine: “The narrator insists he was calm, but other characters notice his shaking hands.”?",
+    "audioPrompt": "Which claim should an editor reject when reviewing this school magazine: “The narrator insists he was calm, but other characters notice his shaking hands.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -197,29 +197,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The refusal appears courageous because it prevents harm despite institutional pressure",
-      "The character is good",
-      "Everyone would agree",
-      "The decision has no context"
+      "A first-person narrator always gives the complete truth.",
+      "A response is strong whenever it states a feeling.",
+      "Historical characters should be judged as if they had every modern choice.",
+      "Context excuses every harmful action."
     ],
     "correct": 0,
-    "explanation": "“The refusal appears courageous because it prevents harm despite institutional pressure” is supported by the language evidence and purpose of the text.\nHint: Different interpretations can both be defensible when they acknowledge evidence and limits.",
+    "explanation": "The rejected claim is an inaccurate generalisation about narrator reliability.\nHint: Select the claim contradicted by the evidence or convention.",
     "structuredExplanation": {
-      "summary": "“The refusal appears courageous because it prevents harm despite institutional pressure” is supported by the language evidence and purpose of the text.",
-      "hint": "Different interpretations can both be defensible when they acknowledge evidence and limits."
+      "summary": "The rejected claim is an inaccurate generalisation about narrator reliability.",
+      "hint": "Select the claim contradicted by the evidence or convention."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-T-008",
     "curriculumCode": "AC9E6LE01",
     "bank": "test",
-    "stage": "verify",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "withheld information reasoning",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a emergency-preparedness talk says, “Historical character judged without context”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a emergency-preparedness talk says, “Historical character judged without context”. Which response is most accurate?",
+    "question": "Which explanation best accounts for “Readers initially condemn Mara’s silence, then learn she was protecting a witness.” in this school magazine?",
+    "audioPrompt": "Which explanation best accounts for “Readers initially condemn Mara’s silence, then learn she was protecting a witness.” in this school magazine?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -227,29 +227,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Personal reaction treated as self-evident",
-      "Consider available norms and constraints.",
-      "Historical character judged without context",
-      "Context used to excuse all actions"
+      "This specific textual evidence supports a response that she is compassionate and courageous.",
+      "New evidence reasonably changes the moral interpretation of her decision.",
+      "Knowledge of censorship explains why characters hint at danger instead of naming it.",
+      "The peer-group pressure helps explain her shame and later decision to speak up."
     ],
     "correct": 1,
-    "explanation": "Consider available norms and constraints. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "explanation": "New evidence reasonably changes the moral interpretation of her decision.\nHint: A strong explanation connects a feature to its contextual effect.",
     "structuredExplanation": {
-      "summary": "Consider available norms and constraints. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "New evidence reasonably changes the moral interpretation of her decision.",
+      "hint": "A strong explanation connects a feature to its contextual effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-T-009",
     "curriculumCode": "AC9E6LE01",
     "bank": "test",
-    "stage": "apply",
-    "skill": "justice",
+    "stage": "independent",
+    "skill": "character motivation",
     "printable": true,
     "type": "single",
-    "question": "A water-saving brochure includes “fairness and consequences”. Which description best fits this wording?",
-    "audioPrompt": "A water-saving brochure includes “fairness and consequences”. Which description best fits this wording?",
+    "question": "In a community website, “Jin enters the forbidden shed to recover his sister’s medicine.” Which analysis is strongest?",
+    "audioPrompt": "In a community website, “Jin enters the forbidden shed to recover his sister’s medicine.” Which analysis is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -257,29 +257,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Text evidence",
-      "Context",
-      "justice",
-      "Interpretation"
+      "evidence-based response: This specific textual evidence supports a response that she is compassionate and courageous.",
+      "historical context: Knowledge of censorship explains why characters hint at danger instead of naming it.",
+      "character motivation: The urgent goal complicates a simple judgement that he is merely disobedient.",
+      "social context: The peer-group pressure helps explain her shame and later decision to speak up."
     ],
     "correct": 2,
-    "explanation": "The wording best matches justice.\nHint: Identify the language choice first, then check its effect in this context.",
+    "explanation": "character motivation is supported by exact evidence and context.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches justice.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "character motivation is supported by exact evidence and context.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-T-010",
     "curriculumCode": "AC9E6LE01",
     "bank": "test",
-    "stage": "apply",
-    "skill": "textual evidence",
+    "stage": "independent",
+    "skill": "event consequence edit",
     "printable": true,
     "type": "single",
-    "question": "In a local council submission, which term matches this meaning: “specific wording, event or visual detail supporting a claim”?",
-    "audioPrompt": "In a local council submission, which term matches this meaning: “specific wording, event or visual detail supporting a claim”?",
+    "question": "Which edit best demonstrates control of event consequence in a community website?",
+    "audioPrompt": "Which edit best demonstrates control of event consequence in a community website?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -287,29 +287,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "reader response",
-      "context",
-      "It does not match the evidence in the example.",
-      "textual evidence"
+      "Nari appears courageous because she accepts personal risk to protect the child.",
+      "Connect the indirect wording to the restrictions on wartime communication.",
+      "Use both the mocking dialogue and her actions as evidence of social pressure.",
+      "Judge the choice using its intended benefit and environmental cost."
     ],
     "correct": 3,
-    "explanation": "textual evidence is the precise term for specific wording, event or visual detail supporting a claim.\nHint: Distinguish closely related terms by their definitions.",
+    "explanation": "This edit applies event consequence without distorting the intended meaning.\nHint: Choose purposeful accuracy, not decoration.",
     "structuredExplanation": {
-      "summary": "textual evidence is the precise term for specific wording, event or visual detail supporting a claim.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies event consequence without distorting the intended meaning.",
+      "hint": "Choose purposeful accuracy, not decoration."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-T-011",
     "curriculumCode": "AC9E6LE01",
     "bank": "test",
-    "stage": "apply",
-    "skill": "responses to characters and events across contexts",
+    "stage": "transfer",
+    "skill": "context without stereotype misconception",
     "printable": true,
     "type": "single",
-    "question": "For a marine-research diary, which response is best supported?",
-    "audioPrompt": "For a marine-research diary, which response is best supported?",
+    "question": "Which claim should an editor reject when reviewing this community website: “In this novel, the village council expects decisions to be discussed collectively.”?",
+    "audioPrompt": "Which claim should an editor reject when reviewing this community website: “In this novel, the village council expects decisions to be discussed collectively.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -317,29 +317,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The refusal appears courageous because it prevents harm despite institutional pressure",
-      "The character is good",
-      "Everyone would agree",
-      "The decision has no context"
+      "Context permits claims about every person in a group.",
+      "A response is strong whenever it states a feeling.",
+      "Historical characters should be judged as if they had every modern choice.",
+      "Context excuses every harmful action."
     ],
     "correct": 0,
-    "explanation": "“The refusal appears courageous because it prevents harm despite institutional pressure” is supported by the language evidence and purpose of the text.\nHint: Different interpretations can both be defensible when they acknowledge evidence and limits.",
+    "explanation": "The rejected claim is an inaccurate generalisation about context without stereotype.\nHint: Select the claim contradicted by the evidence or convention.",
     "structuredExplanation": {
-      "summary": "“The refusal appears courageous because it prevents harm despite institutional pressure” is supported by the language evidence and purpose of the text.",
-      "hint": "Different interpretations can both be defensible when they acknowledge evidence and limits."
+      "summary": "The rejected claim is an inaccurate generalisation about context without stereotype.",
+      "hint": "Select the claim contradicted by the evidence or convention."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-T-012",
     "curriculumCode": "AC9E6LE01",
     "bank": "test",
-    "stage": "apply",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "qualified synthesis reasoning",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a farmers market profile says, “Historical character judged without context”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a farmers market profile says, “Historical character judged without context”. Which response is most accurate?",
+    "question": "Which explanation best accounts for “The character’s secrecy is understandable under the threat, but it still harms her friend.” in this community website?",
+    "audioPrompt": "Which explanation best accounts for “The character’s secrecy is understandable under the threat, but it still harms her friend.” in this community website?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -347,29 +347,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Personal reaction treated as self-evident",
-      "Consider available norms and constraints.",
-      "Historical character judged without context",
-      "Context used to excuse all actions"
+      "This specific textual evidence supports a response that she is compassionate and courageous.",
+      "The response weighs context and consequence instead of excusing or condemning absolutely.",
+      "Knowledge of censorship explains why characters hint at danger instead of naming it.",
+      "The peer-group pressure helps explain her shame and later decision to speak up."
     ],
     "correct": 1,
-    "explanation": "Consider available norms and constraints. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "explanation": "The response weighs context and consequence instead of excusing or condemning absolutely.\nHint: A strong explanation connects a feature to its contextual effect.",
     "structuredExplanation": {
-      "summary": "Consider available norms and constraints. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "The response weighs context and consequence instead of excusing or condemning absolutely.",
+      "hint": "A strong explanation connects a feature to its contextual effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-T-013",
     "curriculumCode": "AC9E6LE01",
     "bank": "test",
-    "stage": "apply",
-    "skill": "textual craft",
+    "stage": "independent",
+    "skill": "evidence-based response",
     "printable": true,
     "type": "single",
-    "question": "A astronomy exhibition includes “narrator reliability and withheld information”. Which description best fits this wording?",
-    "audioPrompt": "A astronomy exhibition includes “narrator reliability and withheld information”. Which description best fits this wording?",
+    "question": "In a student presentation, “Nari shares the last water ration with a younger child despite her own thirst.” Which analysis is strongest?",
+    "audioPrompt": "In a student presentation, “Nari shares the last water ration with a younger child despite her own thirst.” Which analysis is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -377,29 +377,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Text evidence",
-      "Context",
-      "textual craft",
-      "Interpretation"
+      "historical context: Knowledge of censorship explains why characters hint at danger instead of naming it.",
+      "social context: The peer-group pressure helps explain her shame and later decision to speak up.",
+      "evidence-based response: This specific textual evidence supports a response that she is compassionate and courageous.",
+      "cultural context: The event may show responsibility to knowledge, relationships and collective authority."
     ],
     "correct": 2,
-    "explanation": "The wording best matches textual craft.\nHint: Identify the language choice first, then check its effect in this context.",
+    "explanation": "evidence-based response is supported by exact evidence and context.\nHint: Identify, cite and explain.",
     "structuredExplanation": {
-      "summary": "The wording best matches textual craft.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "evidence-based response is supported by exact evidence and context.",
+      "hint": "Identify, cite and explain."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-T-014",
     "curriculumCode": "AC9E6LE01",
     "bank": "test",
-    "stage": "apply",
-    "skill": "reader response",
+    "stage": "independent",
+    "skill": "historical context edit",
     "printable": true,
     "type": "single",
-    "question": "In a river-restoration update, which term matches this meaning: “interpretation or evaluation developed by a reader”?",
-    "audioPrompt": "In a river-restoration update, which term matches this meaning: “interpretation or evaluation developed by a reader”?",
+    "question": "Which edit best demonstrates control of historical context in a student presentation?",
+    "audioPrompt": "Which edit best demonstrates control of historical context in a student presentation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -407,29 +407,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "context",
-      "textual evidence",
-      "It does not match the evidence in the example.",
-      "reader response"
+      "Nari appears courageous because she accepts personal risk to protect the child.",
+      "Use both the mocking dialogue and her actions as evidence of social pressure.",
+      "Explain the represented value using details from this particular text.",
+      "Connect the indirect wording to the restrictions on wartime communication."
     ],
     "correct": 3,
-    "explanation": "reader response is the precise term for interpretation or evaluation developed by a reader.\nHint: Distinguish closely related terms by their definitions.",
+    "explanation": "This edit applies historical context without distorting the intended meaning.\nHint: Choose purposeful accuracy, not decoration.",
     "structuredExplanation": {
-      "summary": "reader response is the precise term for interpretation or evaluation developed by a reader.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "This edit applies historical context without distorting the intended meaning.",
+      "hint": "Choose purposeful accuracy, not decoration."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-T-015",
     "curriculumCode": "AC9E6LE01",
     "bank": "test",
-    "stage": "apply",
-    "skill": "responses to characters and events across contexts",
+    "stage": "transfer",
+    "skill": "social context misconception",
     "printable": true,
     "type": "single",
-    "question": "For a cycling-safety campaign, which response is best supported?",
-    "audioPrompt": "For a cycling-safety campaign, which response is best supported?",
+    "question": "Which claim should an editor reject when reviewing this student presentation: “A new student hides her lunch after classmates mock unfamiliar food.”?",
+    "audioPrompt": "Which claim should an editor reject when reviewing this student presentation: “A new student hides her lunch after classmates mock unfamiliar food.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -437,29 +437,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The refusal appears courageous because it prevents harm despite institutional pressure",
-      "The character is good",
-      "Everyone would agree",
-      "The decision has no context"
+      "Context excuses every harmful action.",
+      "A response is strong whenever it states a feeling.",
+      "Historical characters should be judged as if they had every modern choice.",
+      "One fictional character represents an entire culture."
     ],
     "correct": 0,
-    "explanation": "“The refusal appears courageous because it prevents harm despite institutional pressure” is supported by the language evidence and purpose of the text.\nHint: Different interpretations can both be defensible when they acknowledge evidence and limits.",
+    "explanation": "The rejected claim is an inaccurate generalisation about social context.\nHint: Select the claim contradicted by the evidence or convention.",
     "structuredExplanation": {
-      "summary": "“The refusal appears courageous because it prevents harm despite institutional pressure” is supported by the language evidence and purpose of the text.",
-      "hint": "Different interpretations can both be defensible when they acknowledge evidence and limits."
+      "summary": "The rejected claim is an inaccurate generalisation about social context.",
+      "hint": "Select the claim contradicted by the evidence or convention."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   },
   {
     "id": "AC9E6LE01-T-016",
     "curriculumCode": "AC9E6LE01",
     "bank": "test",
-    "stage": "apply",
-    "skill": "independent misconception check",
+    "stage": "transfer",
+    "skill": "cultural context reasoning",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a neighbourhood history podcast says, “Historical character judged without context”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a neighbourhood history podcast says, “Historical character judged without context”. Which response is most accurate?",
+    "question": "Which explanation best accounts for “A character pauses to seek an Elder’s guidance before making a community decision.” in this student presentation?",
+    "audioPrompt": "Which explanation best accounts for “A character pauses to seek an Elder’s guidance before making a community decision.” in this student presentation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -467,18 +467,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Personal reaction treated as self-evident",
-      "Consider available norms and constraints.",
-      "Historical character judged without context",
-      "Context used to excuse all actions"
+      "This specific textual evidence supports a response that she is compassionate and courageous.",
+      "The event may show responsibility to knowledge, relationships and collective authority.",
+      "Knowledge of censorship explains why characters hint at danger instead of naming it.",
+      "The peer-group pressure helps explain her shame and later decision to speak up."
     ],
     "correct": 1,
-    "explanation": "Consider available norms and constraints. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "explanation": "The event may show responsibility to knowledge, relationships and collective authority.\nHint: A strong explanation connects a feature to its contextual effect.",
     "structuredExplanation": {
-      "summary": "Consider available norms and constraints. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "The event may show responsibility to knowledge, relationships and collective authority.",
+      "hint": "A strong explanation connects a feature to its contextual effect."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "research-aligned-original-v2"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;
