@@ -88,6 +88,12 @@
     });
   }
 
+  function removePublicDashboardReferences() {
+    document.querySelectorAll('a[href="/dashboard/"],a[href="/dashboard"],a[href*="skillrhub.com/dashboard/"]').forEach(function (link) {
+      link.remove();
+    });
+  }
+
   function ensureFooterLinks() {
     var footer = document.querySelector("footer");
     if (!footer) return;
@@ -102,7 +108,7 @@
 
     nav.replaceChildren();
     [
-      ["Home", "/"], ["Dashboard", "/dashboard/"], ["Blogs", "/blogs/"],
+      ["Home", "/"], ["Blogs", "/blogs/"],
       ["Worksheets", "/worksheets/"], ["Print & Go", "/print-and-go.html"], ["Teach & Explain", "/teach-and-explain.html"], ["About", "/about.html"],
       ["Updates", "/updates.html"], ["Contact", "/contact.html"],
       ["Support SkillrHub", "/support-skillrhub.html"], ["Privacy", "/privacy-policy.html"],
@@ -177,7 +183,7 @@
     heading.style.lineHeight = "1.3";
 
     var supporting = document.createElement("p");
-    supporting.textContent = "Explore classroom-ready teaching slides and matching worksheets. Product previews and purchases are available securely through our TPT store."
+    supporting.textContent = "Explore classroom-ready teaching slides and matching worksheets. Product previews and purchases are available securely through our TPT store.";
     supporting.style.margin = "8px 0 0";
 
     var link = document.createElement("a");
@@ -205,6 +211,7 @@
 
   function initSiteHelpers() {
     if (!document.body) return;
+    removePublicDashboardReferences();
     removeLegacyFloatingWidgets();
     ensureFooterLinks();
     initSharePrompts();
