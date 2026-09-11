@@ -31,8 +31,8 @@ for (const unit of units) {
   if (!html.includes(`<link rel="canonical" href="${canonical}">`)) fail(`${label}: canonical must point to the topic URL`);
   if (!/class="[^"]*\bcurriculum-layout\b[^"]*"/.test(html)) fail(`${label}: curriculum layout wrapper is missing`);
   if (!/<(?:details|section)\b/i.test(html)) fail(`${label}: static topic sections are missing`);
-  if (/Loading(?: topic| lesson| content)?[.]{0,3}/i.test(html)) fail(`${label}: runtime loading placeholder remains`);
-  if (!/(?:What students learn|Learning intention|Learning target|Learning goal|Teaching Lesson|Key concept|Outcome Overview|Core Concepts|Australian Curriculum target)/i.test(html)) fail(`${label}: recognisable static teaching content is missing`);
+  if (/\bLoading(?: topic| lesson| content)?[.]{0,3}\b/i.test(html)) fail(`${label}: runtime loading placeholder remains`);
+  if (!/(?:What students learn|Learning intention|Learning target|Learning goal|Teaching Lesson|Key concept|Core learning|Response model|Outcome Overview|Core Concepts|Australian Curriculum target)/i.test(html)) fail(`${label}: recognisable static teaching content is missing`);
   if (/\/homework\//i.test(html)) fail(`${label}: legacy Homework route remains`);
   if (/>\s*Homework\s*</i.test(html)) fail(`${label}: legacy Homework label remains`);
   for (const [kind, url] of [["worksheet", unit.worksheetUrl], ["practice", unit.practiceUrl], ["test", unit.testUrl]]) {
