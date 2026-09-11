@@ -2,10 +2,13 @@
 #skillr-resource-links>summary{display:list-item;list-style:disclosure-closed inside;cursor:pointer;padding:12px 16px;background:#2457d6;color:#fff;border:1px solid #fff;border-radius:24px;box-shadow:0 3px 12px #18324f26;min-height:44px;font:inherit}
 #skillr-resource-links[open]>summary{list-style-type:disclosure-open}
 #skillr-resource-links>summary::after{content:none}
-#skillr-resource-links nav{position:absolute;right:0;bottom:calc(100% + 8px);display:grid;gap:4px;width:260px;max-width:calc(100vw - 24px);padding:8px;border:1px solid #dce5f1;border-radius:12px;background:#fff;box-shadow:0 6px 22px #18324f26;max-height:60vh;overflow:auto}
+#skillr-resource-links nav{position:absolute;right:0;bottom:calc(100% + 8px);display:grid;gap:4px;width:300px;max-width:calc(100vw - 24px);padding:8px;border:1px solid #dce5f1;border-radius:12px;background:#fff;box-shadow:0 6px 22px #18324f26;max-height:66vh;overflow:auto}
 #skillr-resource-links a{display:block;color:#2457d6;text-decoration:none;padding:12px;border-radius:8px;font-size:16px}
 #skillr-resource-links a span{display:block;margin-top:3px;color:#52657a;font-size:14px;font-weight:400}
 #skillr-resource-links a:hover{background:#f0f5ff}
+#skillr-resource-links .skillr-amazon-link{border-top:1px solid #e6ebf2;margin-top:2px;padding-top:13px}
+#skillr-resource-links .skillr-amazon-note{margin:4px 6px 6px;padding:10px;border-radius:8px;background:#f7f9fc;color:#52657a;font-size:12px;line-height:1.45;font-weight:400}
+#skillr-resource-links .skillr-amazon-note strong{color:#18324f}
 #skillr-resource-links :focus-visible{outline:3px solid #d78c09;outline-offset:3px}
 body:has(>#skillr-resource-links){padding-bottom:calc(76px + env(safe-area-inset-bottom))}
 @media print{#skillr-resource-links{display:none!important}body:has(>#skillr-resource-links){padding-bottom:0}}
@@ -16,6 +19,6 @@ body:has(>#skillr-resource-links){padding-bottom:calc(76px + env(safe-area-inset
 #skillr-resource-links>summary::-webkit-details-marker{display:none}
 #skillr-resource-links>summary::before{content:"▸";margin-right:5px}
 #skillr-resource-links[open]>summary::before{content:"▾"}
-#skillr-resource-links nav{width:min(250px,calc(100vw - 20px));max-width:calc(100vw - 20px)}
+#skillr-resource-links nav{width:min(290px,calc(100vw - 20px));max-width:calc(100vw - 20px)}
 body:has(>#skillr-resource-links){padding-bottom:calc(62px + env(safe-area-inset-bottom))}
 }
