@@ -1,1204 +1,1348 @@
 "use strict";
 window.skillrPracticeQuestions = [
   {
-    "id": "AC9E6LA01-P-001",
+    "id": "ac9e6la01-p-001",
     "curriculumCode": "AC9E6LA01",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "identify formality level",
+    "skill": "audience and formality",
     "printable": true,
     "type": "single",
-    "question": "In a class podcast, which request best suits a formal email?",
-    "audioPrompt": "In a class podcast, which request best suits a formal email?",
+    "question": "Mia is emailing the principal to request permission for a lunchtime chess club. Which opening best suits the audience?",
+    "audioPrompt": "Mia is emailing the principal to request permission for a lunchtime chess club. Which opening best suits the audience?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Could you please review the attached proposal?",
-      "Hey, look at this now",
-      "Send it",
-      "Yo, thoughts?"
+      "Hey, can we start chess at lunch?",
+      "Dear Principal Okafor, I am writing to request permission to begin a lunchtime chess club.",
+      "Yo Principal, chess club please!",
+      "You need to let us run chess club."
     ],
-    "correct": 0,
-    "explanation": "“Could you please review the attached proposal?” is the strongest choice because it matches the language feature and the situation.\nHint: Formality is a continuum, not a simple polite/rude split. Authority can be accepted, negotiated or challenged through language.",
+    "difficulty": 1,
+    "difficultyTier": "foundation",
+    "sequencePriority": 1,
+    "correct": 1,
+    "explanation": "“Dear Principal Okafor” and “I am writing to request” acknowledge the principal’s role and create an appropriately formal, respectful tone.\nHint: Look for a title, a clear purpose and respectful wording.",
     "structuredExplanation": {
-      "summary": "“Could you please review the attached proposal?” is the strongest choice because it matches the language feature and the situation.",
-      "hint": "Formality is a continuum, not a simple polite/rude split. Authority can be accepted, negotiated or challenged through language."
+      "summary": "“Dear Principal Okafor” and “I am writing to request” acknowledge the principal’s role and create an appropriately formal, respectful tone.",
+      "hint": "Look for a title, a clear purpose and respectful wording."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "AC9E6LA01-P-002",
+    "id": "ac9e6la01-p-002",
     "curriculumCode": "AC9E6LA01",
     "bank": "practice",
-    "stage": "recognise",
     "skill": "social distance",
     "printable": true,
     "type": "single",
-    "question": "Which term best matches this meaning: “degree of familiarity or closeness”?",
-    "audioPrompt": "Which term best matches this meaning: “degree of familiarity or closeness”?",
+    "question": "Which message best suits a close friend who has borrowed your ruler?",
+    "audioPrompt": "Which message best suits a close friend who has borrowed your ruler?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "register",
-      "social distance",
-      "authority",
-      "It does not match the evidence in the example."
+      "Dear Sir, please return the measuring instrument at your earliest convenience.",
+      "I hereby request the return of my ruler.",
+      "Could you bring my ruler back tomorrow, please?",
+      "Return it immediately, subordinate."
     ],
-    "correct": 1,
-    "explanation": "social distance means degree of familiarity or closeness.\nHint: Match the definition precisely; do not choose a nearby term just because it is familiar.",
-    "structuredExplanation": {
-      "summary": "social distance means degree of familiarity or closeness.",
-      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LA01-P-003",
-    "curriculumCode": "AC9E6LA01",
-    "bank": "practice",
-    "stage": "recognise",
-    "skill": "formal request",
-    "printable": true,
-    "type": "single",
-    "question": "Read this example from a science investigation: “Dear Coordinator, I am writing to request…”. Which label best describes what the language is doing?",
-    "audioPrompt": "Read this example from a science investigation: “Dear Coordinator, I am writing to request…”. Which label best describes what the language is doing?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "close friend",
-      "teacher",
-      "formal request",
-      "expert discussion"
-    ],
+    "difficulty": 1,
+    "difficultyTier": "foundation",
+    "sequencePriority": 2,
     "correct": 2,
-    "explanation": "“Dear Coordinator, I am writing to request…” is an example of formal request; here it greater distance and institutional formality.\nHint: Formality is a continuum, not a simple polite/rude split. Authority can be accepted, negotiated or challenged through language.",
+    "explanation": "The polite but conversational request suits a close relationship without sounding ceremonial or controlling.\nHint: Choose language that is friendly, clear and not overly official.",
     "structuredExplanation": {
-      "summary": "“Dear Coordinator, I am writing to request…” is an example of formal request; here it greater distance and institutional formality.",
-      "hint": "Formality is a continuum, not a simple polite/rude split. Authority can be accepted, negotiated or challenged through language."
+      "summary": "The polite but conversational request suits a close relationship without sounding ceremonial or controlling.",
+      "hint": "Choose language that is friendly, clear and not overly official."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "AC9E6LA01-P-004",
+    "id": "ac9e6la01-p-003",
     "curriculumCode": "AC9E6LA01",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "misconception repair",
+    "skill": "formality continuum",
     "printable": true,
     "type": "single",
-    "question": "Which correction best fixes this idea: “Register inferred from one word”?",
-    "audioPrompt": "Which correction best fixes this idea: “Register inferred from one word”?",
+    "question": "Which sentence is most formal?",
+    "audioPrompt": "Which sentence is most formal?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Formal means complex vocabulary",
-      "Authority always uses commands",
-      "Informal variety is incorrect",
-      "Analyse a pattern and context."
+      "Can you give me a hand with this?",
+      "Would you be able to assist me with this matter?",
+      "Help me out, please.",
+      "Got a sec to help?"
     ],
-    "correct": 3,
-    "explanation": "Analyse a pattern and context. This fixes the misconception without creating a new rule that is too broad.\nHint: Check the actual language evidence rather than relying on an absolute rule.",
+    "difficulty": 1,
+    "difficultyTier": "foundation",
+    "sequencePriority": 3,
+    "correct": 1,
+    "explanation": "“Would you be able to assist me with this matter?” uses indirect modality and formal vocabulary.\nHint: Compare the request structure as well as individual words.",
     "structuredExplanation": {
-      "summary": "Analyse a pattern and context. This fixes the misconception without creating a new rule that is too broad.",
-      "hint": "Check the actual language evidence rather than relying on an absolute rule."
+      "summary": "“Would you be able to assist me with this matter?” uses indirect modality and formal vocabulary.",
+      "hint": "Compare the request structure as well as individual words."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "AC9E6LA01-P-005",
+    "id": "ac9e6la01-p-004",
     "curriculumCode": "AC9E6LA01",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "close friend",
+    "skill": "terms of address",
     "printable": true,
     "type": "single",
-    "question": "Which example would be most useful when explaining formality, social distance and authority in a sports-club discussion?",
-    "audioPrompt": "Which example would be most useful when explaining formality, social distance and authority in a sports-club discussion?",
+    "question": "At the start of a school awards ceremony, which address best recognises the audience and occasion?",
+    "audioPrompt": "At the start of a school awards ceremony, which address best recognises the audience and occasion?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Can you send me the notes?",
-      "Could you please send the lesson notes?",
-      "Dear Coordinator, I am writing to request…",
-      "Could you clarify the evidence base?"
+      "Hey, everyone!",
+      "Distinguished guests, families, staff and students, welcome.",
+      "What’s up, people?",
+      "You lot, listen."
     ],
+    "difficulty": 1,
+    "difficultyTier": "foundation",
+    "sequencePriority": 4,
+    "correct": 1,
+    "explanation": "The inclusive list of groups and the greeting “welcome” acknowledge a large, less familiar audience respectfully.\nHint: Consider the size of the audience and the public occasion.",
+    "structuredExplanation": {
+      "summary": "The inclusive list of groups and the greeting “welcome” acknowledge a large, less familiar audience respectfully.",
+      "hint": "Consider the size of the audience and the public occasion."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6la01-p-005",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "practice",
+    "skill": "direct audience rewrite",
+    "printable": true,
+    "type": "single",
+    "question": "Rewrite “Send me the excursion form today” for a polite email to a caregiver. Which version is best?",
+    "audioPrompt": "Rewrite “Send me the excursion form today” for a polite email to a caregiver. Which version is best?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "You must send the form now.",
+      "Could you please return the excursion form by the end of today?",
+      "Form. Today.",
+      "Hey, chuck the form back."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 5,
+    "correct": 1,
+    "explanation": "The rewrite keeps the deadline but softens the command through “Could you please” and names the required action precisely.\nHint: Preserve the purpose while changing the relationship signalled.",
+    "structuredExplanation": {
+      "summary": "The rewrite keeps the deadline but softens the command through “Could you please” and names the required action precisely.",
+      "hint": "Preserve the purpose while changing the relationship signalled."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6la01-p-006",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "practice",
+    "skill": "direct audience rewrite",
+    "printable": true,
+    "type": "single",
+    "question": "A formal notice says, “Students are required to assemble in the hall at 9.00 am.” Which version best suits a class group chat among friends?",
+    "audioPrompt": "A formal notice says, “Students are required to assemble in the hall at 9.00 am.” Which version best suits a class group chat among friends?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Everyone shall assemble in the hall at precisely 9.00 am.",
+      "Meet in the hall at 9!",
+      "Yo, maybe hall sometime.",
+      "Attendance in the hall is compulsory at 0900 hours."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 6,
+    "correct": 1,
+    "explanation": "“Meet in the hall at 9!” retains the essential information in concise, conversational language.\nHint: Keep the time and place; reduce official wording.",
+    "structuredExplanation": {
+      "summary": "“Meet in the hall at 9!” retains the essential information in concise, conversational language.",
+      "hint": "Keep the time and place; reduce official wording."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6la01-p-007",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "practice",
+    "skill": "authority accepted",
+    "printable": true,
+    "type": "single",
+    "question": "A teacher says, “Please begin packing away.” Which reply most clearly accepts the teacher’s authority?",
+    "audioPrompt": "A teacher says, “Please begin packing away.” Which reply most clearly accepts the teacher’s authority?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Certainly, Ms Tran. I’ll put the equipment away now.",
+      "Why should I?",
+      "Maybe, if everyone else does.",
+      "I’ll decide when I’m finished."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 7,
     "correct": 0,
-    "explanation": "This example directly demonstrates close friend and can be explained using the language clue in the text.\nHint: Students compare vocabulary, modality, terms of address, humour and interaction patterns across contexts and explain how language constructs closeness, expertise, authority or resistance.",
+    "explanation": "The title, agreement and immediate action show willing acceptance of the teacher’s direction.\nHint: Find a reply that agrees without bargaining or challenging.",
     "structuredExplanation": {
-      "summary": "This example directly demonstrates close friend and can be explained using the language clue in the text.",
-      "hint": "Students compare vocabulary, modality, terms of address, humour and interaction patterns across contexts and explain how language constructs closeness, expertise, authority or resistance."
+      "summary": "The title, agreement and immediate action show willing acceptance of the teacher’s direction.",
+      "hint": "Find a reply that agrees without bargaining or challenging."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "AC9E6LA01-P-006",
+    "id": "ac9e6la01-p-008",
     "curriculumCode": "AC9E6LA01",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "identify formality level",
+    "skill": "authority negotiated",
     "printable": true,
     "type": "single",
-    "question": "In a library display, which wording uses inclusive authority?",
-    "audioPrompt": "In a library display, which wording uses inclusive authority?",
+    "question": "Which reply respectfully negotiates a coach’s instruction to run another lap?",
+    "audioPrompt": "Which reply respectfully negotiates a coach’s instruction to run another lap?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Do it because I said so",
-      "Let us examine the evidence together",
-      "People like you cannot understand",
-      "Whatever"
+      "No. That is a ridiculous idea.",
+      "Could I walk this lap? My ankle has started hurting.",
+      "Fine, whatever.",
+      "You cannot make me."
     ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 8,
     "correct": 1,
-    "explanation": "“Let us examine the evidence together” is the strongest choice because it matches the language feature and the situation.\nHint: Formality is a continuum, not a simple polite/rude split. Authority can be accepted, negotiated or challenged through language.",
+    "explanation": "The speaker acknowledges the instruction, offers a reason and proposes a safe alternative instead of simply refusing.\nHint: Negotiation gives a reason and suggests a workable adjustment.",
     "structuredExplanation": {
-      "summary": "“Let us examine the evidence together” is the strongest choice because it matches the language feature and the situation.",
-      "hint": "Formality is a continuum, not a simple polite/rude split. Authority can be accepted, negotiated or challenged through language."
+      "summary": "The speaker acknowledges the instruction, offers a reason and proposes a safe alternative instead of simply refusing.",
+      "hint": "Negotiation gives a reason and suggests a workable adjustment."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "AC9E6LA01-P-007",
+    "id": "ac9e6la01-p-009",
     "curriculumCode": "AC9E6LA01",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "register",
+    "skill": "authority resisted",
     "printable": true,
     "type": "single",
-    "question": "Which term best matches this meaning: “language variety or style associated with context”?",
-    "audioPrompt": "Which term best matches this meaning: “language variety or style associated with context”?",
+    "question": "Which line resists an instruction while remaining respectful?",
+    "audioPrompt": "Which line resists an instruction while remaining respectful?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "social distance",
-      "authority",
-      "register",
-      "It does not match the evidence in the example."
+      "I understand the rule, but I cannot share that photograph because I do not have everyone’s permission.",
+      "Sure, I’ll post it immediately.",
+      "That rule is stupid.",
+      "Maybe I did not hear you."
     ],
-    "correct": 2,
-    "explanation": "register means language variety or style associated with context.\nHint: Match the definition precisely; do not choose a nearby term just because it is familiar.",
-    "structuredExplanation": {
-      "summary": "register means language variety or style associated with context.",
-      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LA01-P-008",
-    "curriculumCode": "AC9E6LA01",
-    "bank": "practice",
-    "stage": "recognise",
-    "skill": "expert discussion",
-    "printable": true,
-    "type": "single",
-    "question": "Read this example from a student council meeting: “Could you clarify the evidence base?”. Which label best describes what the language is doing?",
-    "audioPrompt": "Read this example from a student council meeting: “Could you clarify the evidence base?”. Which label best describes what the language is doing?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "close friend",
-      "teacher",
-      "formal request",
-      "expert discussion"
-    ],
-    "correct": 3,
-    "explanation": "“Could you clarify the evidence base?” is an example of expert discussion; here it professional challenge.\nHint: Formality is a continuum, not a simple polite/rude split. Authority can be accepted, negotiated or challenged through language.",
-    "structuredExplanation": {
-      "summary": "“Could you clarify the evidence base?” is an example of expert discussion; here it professional challenge.",
-      "hint": "Formality is a continuum, not a simple polite/rude split. Authority can be accepted, negotiated or challenged through language."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LA01-P-009",
-    "curriculumCode": "AC9E6LA01",
-    "bank": "practice",
-    "stage": "recognise",
-    "skill": "misconception repair",
-    "printable": true,
-    "type": "single",
-    "question": "Which correction best fixes this idea: “Formal means complex vocabulary”?",
-    "audioPrompt": "Which correction best fixes this idea: “Formal means complex vocabulary”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Clarity and appropriateness matter more than inflated words.",
-      "Formal means complex vocabulary",
-      "Authority always uses commands",
-      "Informal variety is incorrect"
-    ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 9,
     "correct": 0,
-    "explanation": "Clarity and appropriateness matter more than inflated words. This fixes the misconception without creating a new rule that is too broad.\nHint: Check the actual language evidence rather than relying on an absolute rule.",
+    "explanation": "The speaker states disagreement clearly, supplies an ethical reason and avoids insulting the person in authority.\nHint: Resistance can be firm without being rude.",
     "structuredExplanation": {
-      "summary": "Clarity and appropriateness matter more than inflated words. This fixes the misconception without creating a new rule that is too broad.",
-      "hint": "Check the actual language evidence rather than relying on an absolute rule."
+      "summary": "The speaker states disagreement clearly, supplies an ethical reason and avoids insulting the person in authority.",
+      "hint": "Resistance can be firm without being rude."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "AC9E6LA01-P-010",
+    "id": "ac9e6la01-p-010",
     "curriculumCode": "AC9E6LA01",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "teacher",
+    "skill": "modality",
     "printable": true,
     "type": "single",
-    "question": "Which example would be most useful when explaining formality, social distance and authority in a environmental campaign?",
-    "audioPrompt": "Which example would be most useful when explaining formality, social distance and authority in a environmental campaign?",
+    "question": "Which modal verb makes the instruction strongest?",
+    "audioPrompt": "Which modal verb makes the instruction strongest?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Can you send me the notes?",
-      "Could you please send the lesson notes?",
-      "Dear Coordinator, I am writing to request…",
-      "Could you clarify the evidence base?"
+      "Visitors might sign in.",
+      "Visitors could sign in.",
+      "Visitors should sign in.",
+      "Visitors must sign in."
     ],
-    "correct": 1,
-    "explanation": "This example directly demonstrates teacher and can be explained using the language clue in the text.\nHint: Students compare vocabulary, modality, terms of address, humour and interaction patterns across contexts and explain how language constructs closeness, expertise, authority or resistance.",
-    "structuredExplanation": {
-      "summary": "This example directly demonstrates teacher and can be explained using the language clue in the text.",
-      "hint": "Students compare vocabulary, modality, terms of address, humour and interaction patterns across contexts and explain how language constructs closeness, expertise, authority or resistance."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LA01-P-011",
-    "curriculumCode": "AC9E6LA01",
-    "bank": "practice",
-    "stage": "explain",
-    "skill": "formal request",
-    "printable": true,
-    "type": "single",
-    "question": "A museum caption includes “Dear Coordinator, I am writing to request…”. Why is this an effective example of formal request?",
-    "audioPrompt": "A museum caption includes “Dear Coordinator, I am writing to request…”. Why is this an effective example of formal request?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "It matches the purpose and the language clue in the example.",
-      "It greater distance and institutional formality and supports the purpose of the text.",
-      "Formality is a continuum, not a simple polite/rude split. Authority can be accepted, negotiated or challenged through language.",
-      "Do not label dialects or community varieties as deficient. Evaluate suitability for the specific purpose and relationship."
-    ],
-    "correct": 1,
-    "explanation": "Dear Coordinator, I am writing to request… works because greater distance and institutional formality.\nHint: Name the exact language choice, then explain its effect.",
-    "structuredExplanation": {
-      "summary": "Dear Coordinator, I am writing to request… works because greater distance and institutional formality.",
-      "hint": "Name the exact language choice, then explain its effect."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LA01-P-012",
-    "curriculumCode": "AC9E6LA01",
-    "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
-    "printable": true,
-    "type": "single",
-    "question": "Why is “Questions, inclusive pronouns and modality can exercise authority.” a better rule than “Authority always uses commands” when reading a student council meeting?",
-    "audioPrompt": "Why is “Questions, inclusive pronouns and modality can exercise authority.” a better rule than “Authority always uses commands” when reading a student council meeting?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Because the longest rule is always the best one.",
-      "Because exceptions never matter in English.",
-      "Because it keeps the useful distinction without turning it into an absolute rule.",
-      "Because a rule is correct whenever it uses technical words."
-    ],
-    "correct": 2,
-    "explanation": "“Questions, inclusive pronouns and modality can exercise authority.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
-    "structuredExplanation": {
-      "summary": "“Questions, inclusive pronouns and modality can exercise authority.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LA01-P-013",
-    "curriculumCode": "AC9E6LA01",
-    "bank": "practice",
-    "stage": "explain",
-    "skill": "close friend",
-    "printable": true,
-    "type": "single",
-    "question": "A local-history article includes “Can you send me the notes?”. Why is this an effective example of close friend?",
-    "audioPrompt": "A local-history article includes “Can you send me the notes?”. Why is this an effective example of close friend?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "It matches the purpose and the language clue in the example.",
-      "Formality is a continuum, not a simple polite/rude split. Authority can be accepted, negotiated or challenged through language.",
-      "Do not label dialects or community varieties as deficient. Evaluate suitability for the specific purpose and relationship.",
-      "It low distance; direct and supports the purpose of the text."
-    ],
+    "difficulty": 1,
+    "difficultyTier": "foundation",
+    "sequencePriority": 10,
     "correct": 3,
-    "explanation": "Can you send me the notes? works because low distance; direct.\nHint: Name the exact language choice, then explain its effect.",
+    "explanation": "“Must” expresses obligation; the other modal verbs allow more possibility or choice.\nHint: Which wording leaves the least choice?",
     "structuredExplanation": {
-      "summary": "Can you send me the notes? works because low distance; direct.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "“Must” expresses obligation; the other modal verbs allow more possibility or choice.",
+      "hint": "Which wording leaves the least choice?"
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "AC9E6LA01-P-014",
+    "id": "ac9e6la01-p-011",
     "curriculumCode": "AC9E6LA01",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "skill": "modality",
     "printable": true,
     "type": "single",
-    "question": "Why is “Analyse a pattern and context.” a better rule than “Register inferred from one word” when reading a environmental campaign?",
-    "audioPrompt": "Why is “Analyse a pattern and context.” a better rule than “Register inferred from one word” when reading a environmental campaign?",
+    "question": "A class representative wants to propose, not command, a change. Which sentence fits?",
+    "audioPrompt": "A class representative wants to propose, not command, a change. Which sentence fits?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Because it keeps the useful distinction without turning it into an absolute rule.",
-      "Because the longest rule is always the best one.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words."
+      "The canteen must add a vegetarian meal tomorrow.",
+      "The canteen could trial a vegetarian meal once a week.",
+      "The canteen will obey our demand.",
+      "The canteen is forbidden to disagree."
     ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 11,
+    "correct": 1,
+    "explanation": "“Could trial” presents a possible action and suits a student proposing an idea to decision-makers.\nHint: A proposal needs lower modality than an order.",
+    "structuredExplanation": {
+      "summary": "“Could trial” presents a possible action and suits a student proposing an idea to decision-makers.",
+      "hint": "A proposal needs lower modality than an order."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6la01-p-012",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "practice",
+    "skill": "terms of address",
+    "printable": true,
+    "type": "single",
+    "question": "Which change most clearly reduces social distance between a new coach and a team?",
+    "audioPrompt": "Which change most clearly reduces social distance between a new coach and a team?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The coach changes “Players” to “Team”.",
+      "The coach adds three longer sentences.",
+      "The coach speaks more quietly.",
+      "The coach replaces “today” with “this afternoon”."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 12,
     "correct": 0,
-    "explanation": "“Analyse a pattern and context.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "explanation": "“Team” includes coach and players in a shared group, signalling connection more strongly than the other changes.\nHint: Look for language that creates a shared identity.",
     "structuredExplanation": {
-      "summary": "“Analyse a pattern and context.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "“Team” includes coach and players in a shared group, signalling connection more strongly than the other changes.",
+      "hint": "Look for language that creates a shared identity."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "AC9E6LA01-P-015",
+    "id": "ac9e6la01-p-013",
     "curriculumCode": "AC9E6LA01",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "formal request",
+    "skill": "humour and audience",
     "printable": true,
     "type": "single",
-    "question": "A book-club discussion includes “Dear Coordinator, I am writing to request…”. Why is this an effective example of formal request?",
-    "audioPrompt": "A book-club discussion includes “Dear Coordinator, I am writing to request…”. Why is this an effective example of formal request?",
+    "question": "A student includes a joke about forgetting homework in a speech to classmates. Why might the same joke be unsuitable in a formal apology to the deputy principal?",
+    "audioPrompt": "A student includes a joke about forgetting homework in a speech to classmates. Why might the same joke be unsuitable in a formal apology to the deputy principal?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "It matches the purpose and the language clue in the example.",
-      "It greater distance and institutional formality and supports the purpose of the text.",
-      "Formality is a continuum, not a simple polite/rude split. Authority can be accepted, negotiated or challenged through language.",
-      "Do not label dialects or community varieties as deficient. Evaluate suitability for the specific purpose and relationship."
+      "Humour is always grammatically incorrect.",
+      "The joke may make the apology seem less sincere in the more formal, unequal relationship.",
+      "Deputy principals cannot understand jokes.",
+      "Formal language may never include humour."
     ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 13,
     "correct": 1,
-    "explanation": "Dear Coordinator, I am writing to request… works because greater distance and institutional formality.\nHint: Name the exact language choice, then explain its effect.",
+    "explanation": "Humour can work in formal settings, but here it risks weakening the sincere acknowledgement expected in an apology to an authority figure.\nHint: Avoid absolute rules; judge the purpose and relationship.",
     "structuredExplanation": {
-      "summary": "Dear Coordinator, I am writing to request… works because greater distance and institutional formality.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "Humour can work in formal settings, but here it risks weakening the sincere acknowledgement expected in an apology to an authority figure.",
+      "hint": "Avoid absolute rules; judge the purpose and relationship."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "AC9E6LA01-P-016",
+    "id": "ac9e6la01-p-014",
     "curriculumCode": "AC9E6LA01",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "skill": "dialect respect",
     "printable": true,
     "type": "single",
-    "question": "Why is “Questions, inclusive pronouns and modality can exercise authority.” a better rule than “Authority always uses commands” when reading a excursion briefing?",
-    "audioPrompt": "Why is “Questions, inclusive pronouns and modality can exercise authority.” a better rule than “Authority always uses commands” when reading a excursion briefing?",
+    "question": "A character says, “We mob are meeting by the river.” Which response analyses the language respectfully?",
+    "audioPrompt": "A character says, “We mob are meeting by the river.” Which response analyses the language respectfully?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Because the longest rule is always the best one.",
-      "Because exceptions never matter in English.",
-      "Because it keeps the useful distinction without turning it into an absolute rule.",
-      "Because a rule is correct whenever it uses technical words."
+      "The character’s dialect is broken English.",
+      "The expression may signal cultural identity and group belonging; it should be interpreted in context, not “corrected” as inferior.",
+      "Every character should use the same standard variety.",
+      "The sentence proves the speaker cannot be formal."
     ],
-    "correct": 2,
-    "explanation": "“Questions, inclusive pronouns and modality can exercise authority.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
-    "structuredExplanation": {
-      "summary": "“Questions, inclusive pronouns and modality can exercise authority.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LA01-P-017",
-    "curriculumCode": "AC9E6LA01",
-    "bank": "practice",
-    "stage": "explain",
-    "skill": "close friend",
-    "printable": true,
-    "type": "single",
-    "question": "A design project includes “Can you send me the notes?”. Why is this an effective example of close friend?",
-    "audioPrompt": "A design project includes “Can you send me the notes?”. Why is this an effective example of close friend?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "It matches the purpose and the language clue in the example.",
-      "Formality is a continuum, not a simple polite/rude split. Authority can be accepted, negotiated or challenged through language.",
-      "Do not label dialects or community varieties as deficient. Evaluate suitability for the specific purpose and relationship.",
-      "It low distance; direct and supports the purpose of the text."
-    ],
-    "correct": 3,
-    "explanation": "Can you send me the notes? works because low distance; direct.\nHint: Name the exact language choice, then explain its effect.",
-    "structuredExplanation": {
-      "summary": "Can you send me the notes? works because low distance; direct.",
-      "hint": "Name the exact language choice, then explain its effect."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LA01-P-018",
-    "curriculumCode": "AC9E6LA01",
-    "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
-    "printable": true,
-    "type": "single",
-    "question": "Why is “Analyse a pattern and context.” a better rule than “Register inferred from one word” when reading a weather report?",
-    "audioPrompt": "Why is “Analyse a pattern and context.” a better rule than “Register inferred from one word” when reading a weather report?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Because it keeps the useful distinction without turning it into an absolute rule.",
-      "Because the longest rule is always the best one.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words."
-    ],
-    "correct": 0,
-    "explanation": "“Analyse a pattern and context.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
-    "structuredExplanation": {
-      "summary": "“Analyse a pattern and context.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LA01-P-019",
-    "curriculumCode": "AC9E6LA01",
-    "bank": "practice",
-    "stage": "explain",
-    "skill": "formal request",
-    "printable": true,
-    "type": "single",
-    "question": "A school assembly includes “Dear Coordinator, I am writing to request…”. Why is this an effective example of formal request?",
-    "audioPrompt": "A school assembly includes “Dear Coordinator, I am writing to request…”. Why is this an effective example of formal request?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "It matches the purpose and the language clue in the example.",
-      "It greater distance and institutional formality and supports the purpose of the text.",
-      "Formality is a continuum, not a simple polite/rude split. Authority can be accepted, negotiated or challenged through language.",
-      "Do not label dialects or community varieties as deficient. Evaluate suitability for the specific purpose and relationship."
-    ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 14,
     "correct": 1,
-    "explanation": "Dear Coordinator, I am writing to request… works because greater distance and institutional formality.\nHint: Name the exact language choice, then explain its effect.",
+    "explanation": "Dialect features can express identity and belonging. Respectful analysis describes their social meaning without ranking the speaker’s variety.\nHint: Describe what the choice communicates, not whether one dialect is “better”.",
     "structuredExplanation": {
-      "summary": "Dear Coordinator, I am writing to request… works because greater distance and institutional formality.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "Dialect features can express identity and belonging. Respectful analysis describes their social meaning without ranking the speaker’s variety.",
+      "hint": "Describe what the choice communicates, not whether one dialect is “better”."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "AC9E6LA01-P-020",
+    "id": "ac9e6la01-p-015",
     "curriculumCode": "AC9E6LA01",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "skill": "code-switching",
     "printable": true,
     "type": "single",
-    "question": "Why is “Questions, inclusive pronouns and modality can exercise authority.” a better rule than “Authority always uses commands” when reading a peer feedback session?",
-    "audioPrompt": "Why is “Questions, inclusive pronouns and modality can exercise authority.” a better rule than “Authority always uses commands” when reading a peer feedback session?",
+    "question": "Sanjay says “Thanks heaps!” to a teammate, then tells an interview panel, “Thank you for considering my application.” What does the change show?",
+    "audioPrompt": "Sanjay says “Thanks heaps!” to a teammate, then tells an interview panel, “Thank you for considering my application.” What does the change show?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Because the longest rule is always the best one.",
-      "Because exceptions never matter in English.",
-      "Because it keeps the useful distinction without turning it into an absolute rule.",
-      "Because a rule is correct whenever it uses technical words."
+      "He has forgotten how to speak consistently.",
+      "He adapts language to different audiences and levels of social distance.",
+      "Only the first sentence is sincere.",
+      "The panel sentence has no relationship meaning."
     ],
-    "correct": 2,
-    "explanation": "“Questions, inclusive pronouns and modality can exercise authority.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
-    "structuredExplanation": {
-      "summary": "“Questions, inclusive pronouns and modality can exercise authority.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LA01-P-021",
-    "curriculumCode": "AC9E6LA01",
-    "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
-    "printable": true,
-    "type": "single",
-    "question": "A excursion briefing could use either “Can you send me the notes?” or “I hereby demand your attendance”. Which comparison is most accurate?",
-    "audioPrompt": "A excursion briefing could use either “Can you send me the notes?” or “I hereby demand your attendance”. Which comparison is most accurate?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "The longer example is automatically more formal and therefore better.",
-      "“Can you send me the notes?” shows close friend, while “I hereby demand your attendance” shows overly distant with peer.",
-      "Neither example can be analysed unless the writer explains the answer."
-    ],
-    "correct": 2,
-    "explanation": "The important difference is the language function: close friend versus overly distant with peer.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
-    "structuredExplanation": {
-      "summary": "The important difference is the language function: close friend versus overly distant with peer.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LA01-P-022",
-    "curriculumCode": "AC9E6LA01",
-    "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Informal variety is incorrect” in a design project?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Informal variety is incorrect” in a design project?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Formal means complex vocabulary",
-      "Authority always uses commands",
-      "Informal variety is incorrect",
-      "Varieties have conventions and serve identities."
-    ],
-    "correct": 3,
-    "explanation": "Varieties have conventions and serve identities. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Do not label dialects or community varieties as deficient. Evaluate suitability for the specific purpose and relationship.",
-    "structuredExplanation": {
-      "summary": "Varieties have conventions and serve identities. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Do not label dialects or community varieties as deficient. Evaluate suitability for the specific purpose and relationship."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LA01-P-023",
-    "curriculumCode": "AC9E6LA01",
-    "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
-    "printable": true,
-    "type": "single",
-    "question": "A weather report could use either “Dear Coordinator, I am writing to request…” or “Could you please review this proposal?”. Which comparison is most accurate?",
-    "audioPrompt": "A weather report could use either “Dear Coordinator, I am writing to request…” or “Could you please review this proposal?”. Which comparison is most accurate?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "“Dear Coordinator, I am writing to request…” shows formal request, while “Could you please review this proposal?” shows suitable formal.",
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer."
-    ],
-    "correct": 0,
-    "explanation": "The important difference is the language function: formal request versus suitable formal.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
-    "structuredExplanation": {
-      "summary": "The important difference is the language function: formal request versus suitable formal.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LA01-P-024",
-    "curriculumCode": "AC9E6LA01",
-    "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Formal means complex vocabulary” in a school assembly?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Formal means complex vocabulary” in a school assembly?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Formal means complex vocabulary",
-      "Clarity and appropriateness matter more than inflated words.",
-      "Authority always uses commands",
-      "Informal variety is incorrect"
-    ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 15,
     "correct": 1,
-    "explanation": "Clarity and appropriateness matter more than inflated words. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Do not label dialects or community varieties as deficient. Evaluate suitability for the specific purpose and relationship.",
+    "explanation": "The meaning is similar, but vocabulary and sentence structure shift for a familiar peer and a less familiar formal panel.\nHint: Compare audience, relationship and purpose.",
     "structuredExplanation": {
-      "summary": "Clarity and appropriateness matter more than inflated words. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Do not label dialects or community varieties as deficient. Evaluate suitability for the specific purpose and relationship."
+      "summary": "The meaning is similar, but vocabulary and sentence structure shift for a familiar peer and a less familiar formal panel.",
+      "hint": "Compare audience, relationship and purpose."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "AC9E6LA01-P-025",
+    "id": "ac9e6la01-p-016",
     "curriculumCode": "AC9E6LA01",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "skill": "pattern evidence",
     "printable": true,
     "type": "single",
-    "question": "A peer feedback session could use either “Can you send me the notes?” or “Let us review the criteria together”. Which comparison is most accurate?",
-    "audioPrompt": "A peer feedback session could use either “Can you send me the notes?” or “Let us review the criteria together”. Which comparison is most accurate?",
+    "question": "Read: “Dr Lee, would you please clarify the final requirement? I want to ensure my application is complete.” Which evidence best supports the claim that the relationship is formal?",
+    "audioPrompt": "Read: “Dr Lee, would you please clarify the final requirement? I want to ensure my application is complete.” Which evidence best supports the claim that the relationship is formal?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "The longer example is automatically more formal and therefore better.",
-      "“Can you send me the notes?” shows close friend, while “Let us review the criteria together” shows inclusive authority.",
-      "Neither example can be analysed unless the writer explains the answer."
+      "Only the word “final”",
+      "The pattern of title, indirect request and precise vocabulary",
+      "The question mark alone",
+      "The first-person pronoun “I”"
     ],
-    "correct": 2,
-    "explanation": "The important difference is the language function: close friend versus inclusive authority.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
-    "structuredExplanation": {
-      "summary": "The important difference is the language function: close friend versus inclusive authority.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LA01-P-026",
-    "curriculumCode": "AC9E6LA01",
-    "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Informal variety is incorrect” in a cooking demonstration?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Informal variety is incorrect” in a cooking demonstration?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Formal means complex vocabulary",
-      "Authority always uses commands",
-      "Informal variety is incorrect",
-      "Varieties have conventions and serve identities."
-    ],
-    "correct": 3,
-    "explanation": "Varieties have conventions and serve identities. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Do not label dialects or community varieties as deficient. Evaluate suitability for the specific purpose and relationship.",
-    "structuredExplanation": {
-      "summary": "Varieties have conventions and serve identities. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Do not label dialects or community varieties as deficient. Evaluate suitability for the specific purpose and relationship."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LA01-P-027",
-    "curriculumCode": "AC9E6LA01",
-    "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
-    "printable": true,
-    "type": "single",
-    "question": "A arts review could use either “Dear Coordinator, I am writing to request…” or “I hereby demand your attendance”. Which comparison is most accurate?",
-    "audioPrompt": "A arts review could use either “Dear Coordinator, I am writing to request…” or “I hereby demand your attendance”. Which comparison is most accurate?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "“Dear Coordinator, I am writing to request…” shows formal request, while “I hereby demand your attendance” shows overly distant with peer.",
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer."
-    ],
-    "correct": 0,
-    "explanation": "The important difference is the language function: formal request versus overly distant with peer.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
-    "structuredExplanation": {
-      "summary": "The important difference is the language function: formal request versus overly distant with peer.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LA01-P-028",
-    "curriculumCode": "AC9E6LA01",
-    "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Formal means complex vocabulary” in a technology presentation?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Formal means complex vocabulary” in a technology presentation?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Formal means complex vocabulary",
-      "Clarity and appropriateness matter more than inflated words.",
-      "Authority always uses commands",
-      "Informal variety is incorrect"
-    ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 16,
     "correct": 1,
-    "explanation": "Clarity and appropriateness matter more than inflated words. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Do not label dialects or community varieties as deficient. Evaluate suitability for the specific purpose and relationship.",
+    "explanation": "A convincing interpretation uses several connected choices: title, polite indirect request and precise wording.\nHint: Strong evidence is a pattern, not one ordinary word.",
     "structuredExplanation": {
-      "summary": "Clarity and appropriateness matter more than inflated words. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Do not label dialects or community varieties as deficient. Evaluate suitability for the specific purpose and relationship."
+      "summary": "A convincing interpretation uses several connected choices: title, polite indirect request and precise wording.",
+      "hint": "Strong evidence is a pattern, not one ordinary word."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "AC9E6LA01-P-029",
+    "id": "ac9e6la01-p-017",
     "curriculumCode": "AC9E6LA01",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "skill": "pattern evidence",
     "printable": true,
     "type": "single",
-    "question": "A playground consultation could use either “Can you send me the notes?” or “Could you please review this proposal?”. Which comparison is most accurate?",
-    "audioPrompt": "A playground consultation could use either “Can you send me the notes?” or “Could you please review this proposal?”. Which comparison is most accurate?",
+    "question": "Read: “Aunty Jo, you’re a legend! Can I crash at yours after training?” Which combination suggests closeness?",
+    "audioPrompt": "Read: “Aunty Jo, you’re a legend! Can I crash at yours after training?” Which combination suggests closeness?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "The longer example is automatically more formal and therefore better.",
-      "“Can you send me the notes?” shows close friend, while “Could you please review this proposal?” shows suitable formal.",
-      "Neither example can be analysed unless the writer explains the answer."
+      "Kinship address, compliment, contraction and colloquial wording",
+      "Only the capital letter in “Aunty”",
+      "The word “training”",
+      "The question mark and full stop"
     ],
-    "correct": 2,
-    "explanation": "The important difference is the language function: close friend versus suitable formal.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
-    "structuredExplanation": {
-      "summary": "The important difference is the language function: close friend versus suitable formal.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LA01-P-030",
-    "curriculumCode": "AC9E6LA01",
-    "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Informal variety is incorrect” in a class podcast?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Informal variety is incorrect” in a class podcast?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Formal means complex vocabulary",
-      "Authority always uses commands",
-      "Informal variety is incorrect",
-      "Varieties have conventions and serve identities."
-    ],
-    "correct": 3,
-    "explanation": "Varieties have conventions and serve identities. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Do not label dialects or community varieties as deficient. Evaluate suitability for the specific purpose and relationship.",
-    "structuredExplanation": {
-      "summary": "Varieties have conventions and serve identities. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Do not label dialects or community varieties as deficient. Evaluate suitability for the specific purpose and relationship."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LA01-P-031",
-    "curriculumCode": "AC9E6LA01",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "analyse authority language",
-    "printable": true,
-    "type": "single",
-    "question": "You are editing a community garden proposal. Which wording uses inclusive authority?",
-    "audioPrompt": "You are editing a community garden proposal. Which wording uses inclusive authority?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Do it because I said so",
-      "People like you cannot understand",
-      "Whatever",
-      "Let us examine the evidence together"
-    ],
-    "correct": 3,
-    "explanation": "“Let us examine the evidence together” best fits the purpose and the language evidence in this new situation.\nHint: Do not label dialects or community varieties as deficient. Evaluate suitability for the specific purpose and relationship.",
-    "structuredExplanation": {
-      "summary": "“Let us examine the evidence together” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Do not label dialects or community varieties as deficient. Evaluate suitability for the specific purpose and relationship."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LA01-P-032",
-    "curriculumCode": "AC9E6LA01",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "overly distant with peer",
-    "printable": true,
-    "type": "single",
-    "question": "A sports-club discussion needs a clear example of overly distant with peer. Which wording should you choose?",
-    "audioPrompt": "A sports-club discussion needs a clear example of overly distant with peer. Which wording should you choose?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "I hereby demand your attendance",
-      "Could you please review this proposal?",
-      "Let us review the criteria together",
-      "Can you send me the notes?"
-    ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 17,
     "correct": 0,
-    "explanation": "“I hereby demand your attendance” is the best choice because it demonstrates overly distant with peer in context.\nHint: Choose the wording that performs the required job, not merely one that sounds fluent.",
+    "explanation": "Several choices work together to signal familiarity: relational address, praise, contractions and colloquial expressions.\nHint: Select the answer that accounts for the whole voice.",
     "structuredExplanation": {
-      "summary": "“I hereby demand your attendance” is the best choice because it demonstrates overly distant with peer in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "Several choices work together to signal familiarity: relational address, praise, contractions and colloquial expressions.",
+      "hint": "Select the answer that accounts for the whole voice."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "AC9E6LA01-P-033",
+    "id": "ac9e6la01-p-018",
     "curriculumCode": "AC9E6LA01",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "register",
+    "skill": "evidence caution",
     "printable": true,
     "type": "single",
-    "question": "While revising a library display, you need language that matches “language variety or style associated with context”. Which concept should guide your choice?",
-    "audioPrompt": "While revising a library display, you need language that matches “language variety or style associated with context”. Which concept should guide your choice?",
+    "question": "A message begins “Dear Alex” but continues “Can’t wait to catch up, mate—bring your guitar!” What is the best conclusion?",
+    "audioPrompt": "A message begins “Dear Alex” but continues “Can’t wait to catch up, mate—bring your guitar!” What is the best conclusion?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "social distance",
-      "register",
-      "authority",
-      "It does not match the evidence in the example."
+      "“Dear” proves the whole message is highly formal.",
+      "The overall pattern is friendly despite the conventional greeting.",
+      "“Guitar” creates social distance.",
+      "The punctuation proves Alex is a manager."
     ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 18,
     "correct": 1,
-    "explanation": "register is the concept that matches language variety or style associated with context.\nHint: Use the definition to guide the decision, then check it against the sentence.",
+    "explanation": "One greeting cannot outweigh the later pattern of contractions, enthusiasm and familiar address.\nHint: Interpret the complete passage rather than one word.",
     "structuredExplanation": {
-      "summary": "register is the concept that matches language variety or style associated with context.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "One greeting cannot outweigh the later pattern of contractions, enthusiasm and familiar address.",
+      "hint": "Interpret the complete passage rather than one word."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "AC9E6LA01-P-034",
+    "id": "ac9e6la01-p-019",
     "curriculumCode": "AC9E6LA01",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "identify formality level",
+    "skill": "relationship and directness",
     "printable": true,
     "type": "single",
-    "question": "You are editing a museum caption. Which wording uses inclusive authority?",
-    "audioPrompt": "You are editing a museum caption. Which wording uses inclusive authority?",
+    "question": "Why can “Pass the salt” be acceptable between close family members but sound abrupt to a new guest?",
+    "audioPrompt": "Why can “Pass the salt” be acceptable between close family members but sound abrupt to a new guest?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Do it because I said so",
-      "People like you cannot understand",
-      "Let us examine the evidence together",
-      "Whatever"
+      "Grammar changes according to who hears it.",
+      "Shared familiarity can make a direct request feel routine, while greater social distance may call for softening.",
+      "Guests are required to use longer words.",
+      "Family members never need manners."
     ],
-    "correct": 2,
-    "explanation": "“Let us examine the evidence together” best fits the purpose and the language evidence in this new situation.\nHint: Do not label dialects or community varieties as deficient. Evaluate suitability for the specific purpose and relationship.",
-    "structuredExplanation": {
-      "summary": "“Let us examine the evidence together” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Do not label dialects or community varieties as deficient. Evaluate suitability for the specific purpose and relationship."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LA01-P-035",
-    "curriculumCode": "AC9E6LA01",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "overly distant with peer",
-    "printable": true,
-    "type": "single",
-    "question": "A student council meeting needs a clear example of overly distant with peer. Which wording should you choose?",
-    "audioPrompt": "A student council meeting needs a clear example of overly distant with peer. Which wording should you choose?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Could you please review this proposal?",
-      "Let us review the criteria together",
-      "Can you send me the notes?",
-      "I hereby demand your attendance"
-    ],
-    "correct": 3,
-    "explanation": "“I hereby demand your attendance” is the best choice because it demonstrates overly distant with peer in context.\nHint: Choose the wording that performs the required job, not merely one that sounds fluent.",
-    "structuredExplanation": {
-      "summary": "“I hereby demand your attendance” is the best choice because it demonstrates overly distant with peer in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LA01-P-036",
-    "curriculumCode": "AC9E6LA01",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "register",
-    "printable": true,
-    "type": "single",
-    "question": "While revising a local-history article, you need language that matches “language variety or style associated with context”. Which concept should guide your choice?",
-    "audioPrompt": "While revising a local-history article, you need language that matches “language variety or style associated with context”. Which concept should guide your choice?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "register",
-      "social distance",
-      "authority",
-      "It does not match the evidence in the example."
-    ],
-    "correct": 0,
-    "explanation": "register is the concept that matches language variety or style associated with context.\nHint: Use the definition to guide the decision, then check it against the sentence.",
-    "structuredExplanation": {
-      "summary": "register is the concept that matches language variety or style associated with context.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LA01-P-037",
-    "curriculumCode": "AC9E6LA01",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "repair mismatch",
-    "printable": true,
-    "type": "single",
-    "question": "You are editing a environmental campaign. Which wording uses inclusive authority?",
-    "audioPrompt": "You are editing a environmental campaign. Which wording uses inclusive authority?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Do it because I said so",
-      "Let us examine the evidence together",
-      "People like you cannot understand",
-      "Whatever"
-    ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 19,
     "correct": 1,
-    "explanation": "“Let us examine the evidence together” best fits the purpose and the language evidence in this new situation.\nHint: Do not label dialects or community varieties as deficient. Evaluate suitability for the specific purpose and relationship.",
+    "explanation": "Directness is interpreted through relationship and context; unfamiliar relationships often use “Could you please…?” to reduce imposition.\nHint: Think about how familiarity affects the force of a request.",
     "structuredExplanation": {
-      "summary": "“Let us examine the evidence together” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Do not label dialects or community varieties as deficient. Evaluate suitability for the specific purpose and relationship."
+      "summary": "Directness is interpreted through relationship and context; unfamiliar relationships often use “Could you please…?” to reduce imposition.",
+      "hint": "Think about how familiarity affects the force of a request."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "AC9E6LA01-P-038",
+    "id": "ac9e6la01-p-020",
     "curriculumCode": "AC9E6LA01",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "overly distant with peer",
+    "skill": "slang and context",
     "printable": true,
     "type": "single",
-    "question": "A book-club discussion needs a clear example of overly distant with peer. Which wording should you choose?",
-    "audioPrompt": "A book-club discussion needs a clear example of overly distant with peer. Which wording should you choose?",
+    "question": "Which statement about slang is most accurate?",
+    "audioPrompt": "Which statement about slang is most accurate?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Could you please review this proposal?",
-      "Let us review the criteria together",
-      "I hereby demand your attendance",
-      "Can you send me the notes?"
+      "Slang is always disrespectful.",
+      "Slang can build solidarity among familiar speakers but may confuse or exclude some audiences.",
+      "Slang automatically makes a claim false.",
+      "Slang belongs only in speech, never writing."
     ],
-    "correct": 2,
-    "explanation": "“I hereby demand your attendance” is the best choice because it demonstrates overly distant with peer in context.\nHint: Choose the wording that performs the required job, not merely one that sounds fluent.",
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 20,
+    "correct": 1,
+    "explanation": "Slang has social effects that depend on audience, purpose and shared knowledge; it is not inherently wrong.\nHint: Reject any rule using “always” or “never” without context.",
     "structuredExplanation": {
-      "summary": "“I hereby demand your attendance” is the best choice because it demonstrates overly distant with peer in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "Slang has social effects that depend on audience, purpose and shared knowledge; it is not inherently wrong.",
+      "hint": "Reject any rule using “always” or “never” without context."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "AC9E6LA01-P-039",
+    "id": "ac9e6la01-p-021",
     "curriculumCode": "AC9E6LA01",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "register",
+    "skill": "formality continuum",
     "printable": true,
     "type": "single",
-    "question": "While revising a excursion briefing, you need language that matches “language variety or style associated with context”. Which concept should guide your choice?",
-    "audioPrompt": "While revising a excursion briefing, you need language that matches “language variety or style associated with context”. Which concept should guide your choice?",
+    "question": "Order these requests from least to most formal: (1) “Oi, move over.” (2) “Could you please make some room?” (3) “We respectfully request that attendees leave the aisle clear.”",
+    "audioPrompt": "Order these requests from least to most formal: (1) “Oi, move over.” (2) “Could you please make some room?” (3) “We respectfully request that attendees leave the aisle clear.”",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "social distance",
-      "authority",
-      "It does not match the evidence in the example.",
-      "register"
+      "1, 2, 3",
+      "3, 2, 1",
+      "2, 1, 3",
+      "1, 3, 2"
     ],
-    "correct": 3,
-    "explanation": "register is the concept that matches language variety or style associated with context.\nHint: Use the definition to guide the decision, then check it against the sentence.",
-    "structuredExplanation": {
-      "summary": "register is the concept that matches language variety or style associated with context.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LA01-P-040",
-    "curriculumCode": "AC9E6LA01",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "explain social distance",
-    "printable": true,
-    "type": "single",
-    "question": "You are editing a design project. Which wording uses inclusive authority?",
-    "audioPrompt": "You are editing a design project. Which wording uses inclusive authority?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Let us examine the evidence together",
-      "Do it because I said so",
-      "People like you cannot understand",
-      "Whatever"
-    ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 21,
     "correct": 0,
-    "explanation": "“Let us examine the evidence together” best fits the purpose and the language evidence in this new situation.\nHint: Do not label dialects or community varieties as deficient. Evaluate suitability for the specific purpose and relationship.",
+    "explanation": "The sequence moves from abrupt colloquial command, to polite conversational request, to an impersonal formal public request.\nHint: Compare directness, vocabulary and whether the audience is personal or public.",
     "structuredExplanation": {
-      "summary": "“Let us examine the evidence together” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Do not label dialects or community varieties as deficient. Evaluate suitability for the specific purpose and relationship."
+      "summary": "The sequence moves from abrupt colloquial command, to polite conversational request, to an impersonal formal public request.",
+      "hint": "Compare directness, vocabulary and whether the audience is personal or public."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6la01-p-022",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "practice",
+    "skill": "feedback and relationship",
+    "printable": true,
+    "type": "single",
+    "question": "A peer reviewer writes, “Your introduction is bad.” Which revision gives constructive feedback without pretending to be an authority?",
+    "audioPrompt": "A peer reviewer writes, “Your introduction is bad.” Which revision gives constructive feedback without pretending to be an authority?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "You are ordered to replace your introduction.",
+      "Perhaps add the main claim to the introduction so readers know your position.",
+      "Obviously, no one understands this.",
+      "I officially reject your work."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 22,
+    "correct": 1,
+    "explanation": "“Perhaps” lowers authority while the specific suggestion supports collaboration between peers.\nHint: Choose a suggestion that is specific and appropriately tentative.",
+    "structuredExplanation": {
+      "summary": "“Perhaps” lowers authority while the specific suggestion supports collaboration between peers.",
+      "hint": "Choose a suggestion that is specific and appropriately tentative."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6la01-p-023",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "practice",
+    "skill": "public notice register",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence best suits a library safety notice?",
+    "audioPrompt": "Which sentence best suits a library safety notice?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Hey folks, don’t chuck bags there.",
+      "To keep exits clear, please store bags beneath your chair.",
+      "Move your stuff or else.",
+      "Bags are, like, a trip thing."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 23,
+    "correct": 1,
+    "explanation": "It states a reason and action clearly in polite, accessible public language.\nHint: A notice should be concise, precise and respectful to unknown readers.",
+    "structuredExplanation": {
+      "summary": "It states a reason and action clearly in polite, accessible public language.",
+      "hint": "A notice should be concise, precise and respectful to unknown readers."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6la01-p-024",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "practice",
+    "skill": "community relationship",
+    "printable": true,
+    "type": "single",
+    "question": "A student is welcoming a respected community Elder to speak. Which introduction is most appropriate?",
+    "audioPrompt": "A student is welcoming a respected community Elder to speak. Which introduction is most appropriate?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Here’s Pat; they know stuff.",
+      "Please welcome Aunty Marlene, who has generously joined us to share knowledge with our class.",
+      "Yo, Marlene, come up.",
+      "Our next random guest is ready."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 24,
+    "correct": 1,
+    "explanation": "The recognised term of address and appreciative wording acknowledge role, relationship and contribution. The exact preferred title should always be confirmed.\nHint: Look for respectful address and acknowledgement without exaggeration.",
+    "structuredExplanation": {
+      "summary": "The recognised term of address and appreciative wording acknowledge role, relationship and contribution. The exact preferred title should always be confirmed.",
+      "hint": "Look for respectful address and acknowledgement without exaggeration."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6la01-p-025",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "practice",
+    "skill": "direct audience rewrite",
+    "printable": true,
+    "type": "single",
+    "question": "Change “Your booking has been cancelled due to insufficient payment” into a considerate message to a family. Which is best?",
+    "audioPrompt": "Change “Your booking has been cancelled due to insufficient payment” into a considerate message to a family. Which is best?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "You did not pay enough, so we cancelled it.",
+      "We could not confirm the booking because part of the payment is still outstanding. Please contact us so we can help resolve it.",
+      "Booking cancelled. Your fault.",
+      "Payment deficient; case closed."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 25,
+    "correct": 1,
+    "explanation": "The revision explains the issue precisely, avoids blame and offers a next step while retaining a professional register.\nHint: Professional language can still show care and offer action.",
+    "structuredExplanation": {
+      "summary": "The revision explains the issue precisely, avoids blame and offers a next step while retaining a professional register.",
+      "hint": "Professional language can still show care and offer action."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6la01-p-026",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "practice",
+    "skill": "authority in dialogue",
+    "printable": true,
+    "type": "single",
+    "question": "Read: Captain: “We will use the north entrance.” Leila: “Could we consider the west entrance? It has wheelchair access.” What is Leila doing?",
+    "audioPrompt": "Read: Captain: “We will use the north entrance.” Leila: “Could we consider the west entrance? It has wheelchair access.” What is Leila doing?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Accepting without comment",
+      "Negotiating the decision with a reason",
+      "Mocking the captain",
+      "Ignoring the instruction"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 26,
+    "correct": 1,
+    "explanation": "Leila uses an indirect question to propose a change and supports it with relevant evidence.\nHint: Does the reply obey, bargain respectfully, or refuse?",
+    "structuredExplanation": {
+      "summary": "Leila uses an indirect question to propose a change and supports it with relevant evidence.",
+      "hint": "Does the reply obey, bargain respectfully, or refuse?"
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6la01-p-027",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "practice",
+    "skill": "authority in dialogue",
+    "printable": true,
+    "type": "single",
+    "question": "Read: Director: “Remove that paragraph.” Writer: “I understand the concern, but I would like to keep it because it contains the only evidence from residents.” How is authority represented?",
+    "audioPrompt": "Read: Director: “Remove that paragraph.” Writer: “I understand the concern, but I would like to keep it because it contains the only evidence from residents.” How is authority represented?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The writer accepts immediately.",
+      "The writer respectfully resists and justifies the choice.",
+      "The writer changes the topic.",
+      "The director has no authority."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 27,
+    "correct": 1,
+    "explanation": "The writer acknowledges the concern but clearly opposes the instruction and provides an evidence-based reason.\nHint: Notice both the acknowledgement and the refusal.",
+    "structuredExplanation": {
+      "summary": "The writer acknowledges the concern but clearly opposes the instruction and provides an evidence-based reason.",
+      "hint": "Notice both the acknowledgement and the refusal."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6la01-p-028",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "practice",
+    "skill": "inclusive address",
+    "printable": true,
+    "type": "single",
+    "question": "Which opening best includes a mixed audience at a community meeting?",
+    "audioPrompt": "Which opening best includes a mixed audience at a community meeting?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Ladies and gentlemen only",
+      "Dear boys and girls",
+      "Good evening, neighbours and community members",
+      "Hey, you guys"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 28,
+    "correct": 2,
+    "explanation": "“Neighbours and community members” is inclusive, relevant and appropriately welcoming for the setting.\nHint: Choose terms that include the whole audience without assumptions.",
+    "structuredExplanation": {
+      "summary": "“Neighbours and community members” is inclusive, relevant and appropriately welcoming for the setting.",
+      "hint": "Choose terms that include the whole audience without assumptions."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6la01-p-029",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "practice",
+    "skill": "humour and formality",
+    "printable": true,
+    "type": "single",
+    "question": "A scientist begins a family talk with, “I promise the volcano model is less grumpy than it looks.” What is the likely effect?",
+    "audioPrompt": "A scientist begins a family talk with, “I promise the volcano model is less grumpy than it looks.” What is the likely effect?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "It makes every scientific claim unreliable.",
+      "Light humour may reduce social distance and engage the audience before the formal explanation.",
+      "It proves the talk is for close friends only.",
+      "It turns the talk into a command."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 29,
+    "correct": 1,
+    "explanation": "A small, accessible joke can build rapport without removing the talk’s informative purpose.\nHint: Humour can adjust distance without making the whole event informal.",
+    "structuredExplanation": {
+      "summary": "A small, accessible joke can build rapport without removing the talk’s informative purpose.",
+      "hint": "Humour can adjust distance without making the whole event informal."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6la01-p-030",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "practice",
+    "skill": "sarcasm",
+    "printable": true,
+    "type": "single",
+    "question": "After a teammate drops all the cones, someone says, “Brilliant organisation.” Why is this risky with a new teammate?",
+    "audioPrompt": "After a teammate drops all the cones, someone says, “Brilliant organisation.” Why is this risky with a new teammate?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The sentence contains too many syllables.",
+      "The literal praise conflicts with the sarcastic meaning, which may embarrass someone who does not share the relationship or humour.",
+      "Sarcasm is always formal.",
+      "New teammates cannot understand adjectives."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 30,
+    "correct": 1,
+    "explanation": "Sarcasm depends on shared cues and trust; greater social distance increases the chance of offence or misunderstanding.\nHint: Compare literal meaning with intended meaning and consider trust.",
+    "structuredExplanation": {
+      "summary": "Sarcasm depends on shared cues and trust; greater social distance increases the chance of offence or misunderstanding.",
+      "hint": "Compare literal meaning with intended meaning and consider trust."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6la01-p-031",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "practice",
+    "skill": "dialect and identity",
+    "printable": true,
+    "type": "single",
+    "question": "Which teacher response best respects a student’s home dialect while teaching a formal presentation?",
+    "audioPrompt": "Which teacher response best respects a student’s home dialect while teaching a formal presentation?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Stop using your home language because it is wrong.",
+      "Your home dialect is valuable. For this formal audience, let’s also practise the expected presentation register so you can choose between varieties.",
+      "There is only one correct way to speak English.",
+      "Copy my accent exactly."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 31,
+    "correct": 1,
+    "explanation": "The response values identity and teaches register choice as an additional resource rather than replacing the student’s dialect.\nHint: Respectful teaching adds choices instead of ranking identities.",
+    "structuredExplanation": {
+      "summary": "The response values identity and teaches register choice as an additional resource rather than replacing the student’s dialect.",
+      "hint": "Respectful teaching adds choices instead of ranking identities."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6la01-p-032",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "practice",
+    "skill": "dialect evidence",
+    "printable": true,
+    "type": "single",
+    "question": "Two cousins use local expressions, overlap while speaking and finish each other’s sentences. What is the strongest interpretation?",
+    "audioPrompt": "Two cousins use local expressions, overlap while speaking and finish each other’s sentences. What is the strongest interpretation?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Their English is careless.",
+      "The pattern may show shared dialect knowledge and closeness, though context is needed before making a firm claim.",
+      "Overlapping always means conflict.",
+      "Local expressions prove the conversation is secret."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 32,
+    "correct": 1,
+    "explanation": "The interpretation describes a pattern and remains cautious; it does not stereotype speakers or claim certainty from limited evidence.\nHint: Prefer contextual, evidence-based language such as “may show”.",
+    "structuredExplanation": {
+      "summary": "The interpretation describes a pattern and remains cautious; it does not stereotype speakers or claim certainty from limited evidence.",
+      "hint": "Prefer contextual, evidence-based language such as “may show”."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6la01-p-033",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "practice",
+    "skill": "formal disagreement",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence best suits disagreement during a school council meeting?",
+    "audioPrompt": "Which sentence best suits disagreement during a school council meeting?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "That idea is nonsense.",
+      "I see the benefit, but the survey data suggest students prefer a later starting time.",
+      "Wrong. Next topic.",
+      "Mate, no chance."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 33,
+    "correct": 1,
+    "explanation": "It acknowledges another view, states disagreement and supports it with evidence in a formal collaborative setting.\nHint: Formal disagreement addresses the idea, not the person.",
+    "structuredExplanation": {
+      "summary": "It acknowledges another view, states disagreement and supports it with evidence in a formal collaborative setting.",
+      "hint": "Formal disagreement addresses the idea, not the person."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6la01-p-034",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "practice",
+    "skill": "relationship shift",
+    "printable": true,
+    "type": "single",
+    "question": "At first, a guide says, “Visitors are requested to remain behind the line.” Later, during danger, the guide shouts, “Get back now!” Why does the register change?",
+    "audioPrompt": "At first, a guide says, “Visitors are requested to remain behind the line.” Later, during danger, the guide shouts, “Get back now!” Why does the register change?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The guide suddenly dislikes the visitors.",
+      "Urgency makes a short, high-modality command appropriate despite social distance.",
+      "Formal language is forbidden outdoors.",
+      "The relationship becomes a friendship."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 34,
+    "correct": 1,
+    "explanation": "Safety and urgency can outweigh the normal preference for softened public requests.\nHint: Situation and purpose matter as well as relationship.",
+    "structuredExplanation": {
+      "summary": "Safety and urgency can outweigh the normal preference for softened public requests.",
+      "hint": "Situation and purpose matter as well as relationship."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6la01-p-035",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "practice",
+    "skill": "modality continuum",
+    "printable": true,
+    "type": "single",
+    "question": "Which sequence moves from tentative to strongest commitment?",
+    "audioPrompt": "Which sequence moves from tentative to strongest commitment?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "might, should, must",
+      "must, should, might",
+      "should, might, must",
+      "might, must, should"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 35,
+    "correct": 0,
+    "explanation": "“Might” signals possibility, “should” recommendation and “must” obligation.\nHint: Ask how much choice each modal leaves.",
+    "structuredExplanation": {
+      "summary": "“Might” signals possibility, “should” recommendation and “must” obligation.",
+      "hint": "Ask how much choice each modal leaves."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6la01-p-036",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "practice",
+    "skill": "indirect request",
+    "printable": true,
+    "type": "single",
+    "question": "A guest says, “It is a little chilly in here.” The host closes the window. How can the guest’s statement function socially?",
+    "audioPrompt": "A guest says, “It is a little chilly in here.” The host closes the window. How can the guest’s statement function socially?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Only as a weather report",
+      "As an indirect request that avoids commanding the host",
+      "As a formal law",
+      "As resistance to authority"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 36,
+    "correct": 1,
+    "explanation": "In context, the observation hints at a desired action and softens the imposition on the host.\nHint: Consider what action the listener reasonably infers.",
+    "structuredExplanation": {
+      "summary": "In context, the observation hints at a desired action and softens the imposition on the host.",
+      "hint": "Consider what action the listener reasonably infers."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6la01-p-037",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "practice",
+    "skill": "apology register",
+    "printable": true,
+    "type": "single",
+    "question": "Which apology best suits accidentally interrupting an invited speaker?",
+    "audioPrompt": "Which apology best suits accidentally interrupting an invited speaker?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Oops, my bad.",
+      "I apologise for the interruption, Dr Mensah. Please continue.",
+      "Whatever—keep talking.",
+      "Sorry-ish."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 37,
+    "correct": 1,
+    "explanation": "The explicit apology, title and invitation to continue match the public setting and social distance.\nHint: Look for acknowledgement, respectful address and repair.",
+    "structuredExplanation": {
+      "summary": "The explicit apology, title and invitation to continue match the public setting and social distance.",
+      "hint": "Look for acknowledgement, respectful address and repair."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6la01-p-038",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "practice",
+    "skill": "invitation rewrite",
+    "printable": true,
+    "type": "single",
+    "question": "Which revision turns “Come to our meeting” into a warm but professional invitation to local organisations?",
+    "audioPrompt": "Which revision turns “Come to our meeting” into a warm but professional invitation to local organisations?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Attendance is demanded.",
+      "We would be pleased if representatives could join our planning meeting on Thursday.",
+      "Come hang out, whoever.",
+      "You may appear if convenient to us."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 38,
+    "correct": 1,
+    "explanation": "The conditional invitation, inclusive pronoun and specific occasion create respectful professional warmth.\nHint: An invitation should welcome rather than command.",
+    "structuredExplanation": {
+      "summary": "The conditional invitation, inclusive pronoun and specific occasion create respectful professional warmth.",
+      "hint": "An invitation should welcome rather than command."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6la01-p-039",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "practice",
+    "skill": "complaint register",
+    "printable": true,
+    "type": "single",
+    "question": "Which complaint is firm, formal and evidence-based?",
+    "audioPrompt": "Which complaint is firm, formal and evidence-based?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Your service is the worst ever!",
+      "My order arrived on 14 May with two items missing. Please arrange replacement or refund by 21 May.",
+      "You people always ruin everything.",
+      "Fix it now!!!"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 39,
+    "correct": 1,
+    "explanation": "It provides verifiable details, a reasonable remedy and deadline without personal attack or exaggeration.\nHint: Strong formality often comes from precision, not fancy vocabulary.",
+    "structuredExplanation": {
+      "summary": "It provides verifiable details, a reasonable remedy and deadline without personal attack or exaggeration.",
+      "hint": "Strong formality often comes from precision, not fancy vocabulary."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6la01-p-040",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "practice",
+    "skill": "peer collaboration",
+    "printable": true,
+    "type": "single",
+    "question": "Which phrase most strongly positions classmates as equal collaborators?",
+    "audioPrompt": "Which phrase most strongly positions classmates as equal collaborators?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "You will follow my plan.",
+      "Shall we compare both ideas before deciding?",
+      "I have authorised your contribution.",
+      "You may speak when permitted."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 40,
+    "correct": 1,
+    "explanation": "The inclusive “we” and shared decision process distribute authority between peers.\nHint: Look for shared agency rather than control.",
+    "structuredExplanation": {
+      "summary": "The inclusive “we” and shared decision process distribute authority between peers.",
+      "hint": "Look for shared agency rather than control."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6la01-p-041",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "practice",
+    "skill": "social distance and detail",
+    "printable": true,
+    "type": "single",
+    "question": "Why might a message to an unknown technician include more background than one to a close teammate?",
+    "audioPrompt": "Why might a message to an unknown technician include more background than one to a close teammate?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Unknown people need longer words.",
+      "Less shared knowledge means the writer must state context explicitly.",
+      "Close friends cannot read details.",
+      "Technical audiences are always more powerful."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 41,
+    "correct": 1,
+    "explanation": "Greater social distance often means fewer shared assumptions, so precise context supports understanding.\nHint: Think about what each audience already knows.",
+    "structuredExplanation": {
+      "summary": "Greater social distance often means fewer shared assumptions, so precise context supports understanding.",
+      "hint": "Think about what each audience already knows."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6la01-p-042",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "practice",
+    "skill": "audience exclusion",
+    "printable": true,
+    "type": "single",
+    "question": "A club post says, “Only real fans know what the blue llama means.” What relationship effect can this create?",
+    "audioPrompt": "A club post says, “Only real fans know what the blue llama means.” What relationship effect can this create?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "It automatically welcomes every reader.",
+      "It can build solidarity among insiders while excluding readers who lack the shared reference.",
+      "It makes the post legally formal.",
+      "It removes all humour."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 42,
+    "correct": 1,
+    "explanation": "In-group references can mark belonging, but the same feature can increase distance from newcomers.\nHint: A choice can connect one audience and distance another.",
+    "structuredExplanation": {
+      "summary": "In-group references can mark belonging, but the same feature can increase distance from newcomers.",
+      "hint": "A choice can connect one audience and distance another."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6la01-p-043",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "practice",
+    "skill": "pattern comparison",
+    "printable": true,
+    "type": "single",
+    "question": "Text A: “Members must submit nominations by noon.” Text B: “How about sending me your ideas before lunch?” Which comparison is strongest?",
+    "audioPrompt": "Text A: “Members must submit nominations by noon.” Text B: “How about sending me your ideas before lunch?” Which comparison is strongest?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "A uses higher modality and institutional wording; B uses an informal question and personal pronouns.",
+      "A is formal only because it is shorter.",
+      "B is formal because it has a question mark.",
+      "Both create identical relationships."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 43,
+    "correct": 0,
+    "explanation": "The comparison names multiple language features and connects them to authority and social distance.\nHint: Compare modality, vocabulary and how speakers address readers.",
+    "structuredExplanation": {
+      "summary": "The comparison names multiple language features and connects them to authority and social distance.",
+      "hint": "Compare modality, vocabulary and how speakers address readers."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6la01-p-044",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "practice",
+    "skill": "tone without stereotyping",
+    "printable": true,
+    "type": "single",
+    "question": "Which claim is appropriately cautious?",
+    "audioPrompt": "Which claim is appropriately cautious?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Teenagers always speak informally.",
+      "Because the speakers are teenagers, they cannot address authority respectfully.",
+      "In this extract, contractions and shared jokes create an informal tone; another teenage context could use a different register.",
+      "Age alone determines every language choice."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 44,
+    "correct": 2,
+    "explanation": "It grounds the interpretation in textual evidence and avoids turning one example into a stereotype.\nHint: A defensible claim is limited to the evidence.",
+    "structuredExplanation": {
+      "summary": "It grounds the interpretation in textual evidence and avoids turning one example into a stereotype.",
+      "hint": "A defensible claim is limited to the evidence."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6la01-p-045",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "practice",
+    "skill": "multimodal relationship",
+    "printable": true,
+    "type": "single",
+    "question": "A school app message uses “Good morning, families,” complete sentences and a smiling icon. What is the best analysis?",
+    "audioPrompt": "A school app message uses “Good morning, families,” complete sentences and a smiling icon. What is the best analysis?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The icon makes the whole message slang.",
+      "Formal written features communicate professionalism while the friendly icon softens distance.",
+      "Complete sentences prove the writer is angry.",
+      "A greeting has no social purpose."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 45,
+    "correct": 1,
+    "explanation": "Different modes can work together: conventional wording maintains professionalism while the visual cue adds warmth.\nHint: Explain how features combine rather than cancelling each other.",
+    "structuredExplanation": {
+      "summary": "Different modes can work together: conventional wording maintains professionalism while the visual cue adds warmth.",
+      "hint": "Explain how features combine rather than cancelling each other."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6la01-p-046",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "practice",
+    "skill": "evidence analysis",
+    "printable": true,
+    "type": "single",
+    "question": "Read: “Professor Iqbal, I appreciate your advice. However, could we revisit the proposed deadline?” Which analysis is most complete?",
+    "audioPrompt": "Read: “Professor Iqbal, I appreciate your advice. However, could we revisit the proposed deadline?” Which analysis is most complete?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The speaker is rude because “however” shows disagreement.",
+      "Title and appreciation recognise authority; an indirect modal question respectfully negotiates the deadline.",
+      "The sentence accepts the deadline without question.",
+      "The word “deadline” alone makes the relationship formal."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 46,
+    "correct": 1,
+    "explanation": "The response links a pattern of address, appreciation, contrast and modal questioning to respectful negotiation.\nHint: Account for both respect and challenge.",
+    "structuredExplanation": {
+      "summary": "The response links a pattern of address, appreciation, contrast and modal questioning to respectful negotiation.",
+      "hint": "Account for both respect and challenge."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6la01-p-047",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "practice",
+    "skill": "register repair",
+    "printable": true,
+    "type": "single",
+    "question": "A student writes to a scholarship committee: “Hey guys, I reckon I’m pretty good at helping out.” Which revision best improves register without changing the claim?",
+    "audioPrompt": "A student writes to a scholarship committee: “Hey guys, I reckon I’m pretty good at helping out.” Which revision best improves register without changing the claim?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "To whom it may concern, I believe my community service experience demonstrates that I can contribute effectively.",
+      "Yo committee, trust me.",
+      "I am objectively the best human alive.",
+      "Dear mates, I reckon I help heaps."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 47,
+    "correct": 0,
+    "explanation": "The revision uses inclusive formal address, evidence-oriented vocabulary and measured modality while keeping the original positive claim.\nHint: Choose precision and respectful confidence, not exaggeration.",
+    "structuredExplanation": {
+      "summary": "The revision uses inclusive formal address, evidence-oriented vocabulary and measured modality while keeping the original positive claim.",
+      "hint": "Choose precision and respectful confidence, not exaggeration."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6la01-p-048",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "practice",
+    "skill": "contextual judgement",
+    "printable": true,
+    "type": "single",
+    "question": "Which statement best summarises language and social relationships?",
+    "audioPrompt": "Which statement best summarises language and social relationships?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Formal language is always more respectful than informal language.",
+      "Informal language is always friendlier.",
+      "Effective speakers choose from a continuum, judging audience, purpose, relationship, culture and situation.",
+      "One word reliably reveals the entire relationship."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 48,
+    "correct": 2,
+    "explanation": "Register is contextual. Respect can appear in formal or informal varieties, and sound analysis considers several interacting factors.\nHint: Choose the explanation that allows for context and variation.",
+    "structuredExplanation": {
+      "summary": "Register is contextual. Respect can appear in formal or informal varieties, and sound analysis considers several interacting factors.",
+      "hint": "Choose the explanation that allows for context and variation."
+    },
+    "qualitySchema": "production-v1"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

@@ -1,1204 +1,1348 @@
 "use strict";
 window.skillrPracticeQuestions = [
   {
-    "id": "AC9E6LY08-P-001",
+    "id": "ac9e6ly08-p-001",
     "curriculumCode": "AC9E6LY08",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "read an ough word",
+    "skill": "alternative graphemes",
     "printable": true,
     "type": "single",
-    "question": "In a class podcast, which word uses ch with a /k/ sound?",
-    "audioPrompt": "In a class podcast, which word uses ch with a /k/ sound?",
+    "question": "Which spelling completes the sentence? The scientist studied the ___ of light through glass.",
+    "audioPrompt": "Which spelling completes the sentence? The scientist studied the ___ of light through glass.",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "chair",
-      "chorus",
+      "fizics",
+      "physics",
+      "phizics",
+      "fisics"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "foundation",
+    "sequencePriority": 1,
+    "correct": 1,
+    "explanation": "Physics begins with ph for /f/ and uses s for the final /s/.\nHint: Think of the related word physical.",
+    "structuredExplanation": {
+      "summary": "Physics begins with ph for /f/ and uses s for the final /s/.",
+      "hint": "Think of the related word physical."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6ly08-p-002",
+    "curriculumCode": "AC9E6LY08",
+    "bank": "practice",
+    "skill": "alternative graphemes",
+    "printable": true,
+    "type": "single",
+    "question": "Which word correctly names a short life story written about another person?",
+    "audioPrompt": "Which word correctly names a short life story written about another person?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "biography",
+      "biografy",
+      "biograffy",
+      "bighography"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "foundation",
+    "sequencePriority": 2,
+    "correct": 0,
+    "explanation": "Biography uses ph to represent /f/ in the final syllables.\nHint: The /f/ sound can be written ph in Greek-derived words.",
+    "structuredExplanation": {
+      "summary": "Biography uses ph to represent /f/ in the final syllables.",
+      "hint": "The /f/ sound can be written ph in Greek-derived words."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6ly08-p-003",
+    "curriculumCode": "AC9E6LY08",
+    "bank": "practice",
+    "skill": "alternative graphemes",
+    "printable": true,
+    "type": "single",
+    "question": "Choose the conventional spelling for the adjective meaning “working well and producing the intended result”.",
+    "audioPrompt": "Choose the conventional spelling for the adjective meaning “working well and producing the intended result”.",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "ephfective",
+      "efective",
+      "effective",
+      "effictive"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "foundation",
+    "sequencePriority": 3,
+    "correct": 2,
+    "explanation": "Effective has the doubled f spelling after the first vowel.\nHint: Link it to effect.",
+    "structuredExplanation": {
+      "summary": "Effective has the doubled f spelling after the first vowel.",
+      "hint": "Link it to effect."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6ly08-p-004",
+    "curriculumCode": "AC9E6LY08",
+    "bank": "practice",
+    "skill": "variable grapheme",
+    "printable": true,
+    "type": "single",
+    "question": "In which word does ch represent /k/?",
+    "audioPrompt": "In which word does ch represent /k/?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
       "chef",
+      "chapter",
+      "chemist",
       "machine"
     ],
-    "correct": 1,
-    "explanation": "“chorus” is the strongest choice because it matches the language feature and the situation.\nHint: The same grapheme can represent different phonemes, often influenced by word origin, position and morphology.",
-    "structuredExplanation": {
-      "summary": "“chorus” is the strongest choice because it matches the language feature and the situation.",
-      "hint": "The same grapheme can represent different phonemes, often influenced by word origin, position and morphology."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LY08-P-002",
-    "curriculumCode": "AC9E6LY08",
-    "bank": "practice",
-    "stage": "recognise",
-    "skill": "phoneme",
-    "printable": true,
-    "type": "single",
-    "question": "Which term best matches this meaning: “smallest contrastive speech sound”?",
-    "audioPrompt": "Which term best matches this meaning: “smallest contrastive speech sound”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "grapheme",
-      "stress",
-      "phoneme",
-      "It does not match the evidence in the example."
-    ],
+    "difficulty": 1,
+    "difficultyTier": "foundation",
+    "sequencePriority": 4,
     "correct": 2,
-    "explanation": "phoneme means smallest contrastive speech sound.\nHint: Match the definition precisely; do not choose a nearby term just because it is familiar.",
+    "explanation": "In chemist, ch represents /k/. The other choices begin with /ch/ or /sh/.\nHint: Try each whole word in its familiar pronunciation.",
     "structuredExplanation": {
-      "summary": "phoneme means smallest contrastive speech sound.",
-      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
+      "summary": "In chemist, ch represents /k/. The other choices begin with /ch/ or /sh/.",
+      "hint": "Try each whole word in its familiar pronunciation."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "AC9E6LY08-P-003",
+    "id": "ac9e6ly08-p-005",
     "curriculumCode": "AC9E6LY08",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "c",
+    "skill": "variable grapheme",
     "printable": true,
     "type": "single",
-    "question": "Read this example from a science investigation: “cat / city”. Which label best describes what the language is doing?",
-    "audioPrompt": "Read this example from a science investigation: “cat / city”. Which label best describes what the language is doing?",
+    "question": "In which word does ch represent /sh/?",
+    "audioPrompt": "In which word does ch represent /sh/?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "ough",
-      "ch",
-      "g",
-      "c"
+      "orchard",
+      "echo",
+      "anchor",
+      "chalet"
     ],
+    "difficulty": 1,
+    "difficultyTier": "foundation",
+    "sequencePriority": 5,
     "correct": 3,
-    "explanation": "“cat / city” is an example of c.\nHint: The same grapheme can represent different phonemes, often influenced by word origin, position and morphology.",
+    "explanation": "In chalet, ch represents /sh/.\nHint: Blend the whole word rather than assigning ch one fixed sound.",
     "structuredExplanation": {
-      "summary": "“cat / city” is an example of c.",
-      "hint": "The same grapheme can represent different phonemes, often influenced by word origin, position and morphology."
+      "summary": "In chalet, ch represents /sh/.",
+      "hint": "Blend the whole word rather than assigning ch one fixed sound."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "AC9E6LY08-P-004",
+    "id": "ac9e6ly08-p-006",
     "curriculumCode": "AC9E6LY08",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "misconception repair",
+    "skill": "variable grapheme",
     "printable": true,
     "type": "single",
-    "question": "Which correction best fixes this idea: “Syllables cut at every vowel letter”?",
-    "audioPrompt": "Which correction best fixes this idea: “Syllables cut at every vowel letter”?",
+    "question": "The sentence says, “The choir rehearsed before assembly.” How is ch read in choir?",
+    "audioPrompt": "The sentence says, “The choir rehearsed before assembly.” How is ch read in choir?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Use spoken syllables and patterns.",
-      "One grapheme has one sound",
-      "Guess from first letters",
-      "Context replaces decoding"
+      "/ch/",
+      "/j/",
+      "/sh/",
+      "/k/"
     ],
-    "correct": 0,
-    "explanation": "Use spoken syllables and patterns. This fixes the misconception without creating a new rule that is too broad.\nHint: Check the actual language evidence rather than relying on an absolute rule.",
+    "difficulty": 1,
+    "difficultyTier": "foundation",
+    "sequencePriority": 6,
+    "correct": 3,
+    "explanation": "Choir begins with the /k/ sound even though it is written ch.\nHint: Use the familiar meaning and pronunciation of the whole word.",
     "structuredExplanation": {
-      "summary": "Use spoken syllables and patterns. This fixes the misconception without creating a new rule that is too broad.",
-      "hint": "Check the actual language evidence rather than relying on an absolute rule."
+      "summary": "Choir begins with the /k/ sound even though it is written ch.",
+      "hint": "Use the familiar meaning and pronunciation of the whole word."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "AC9E6LY08-P-005",
+    "id": "ac9e6ly08-p-007",
     "curriculumCode": "AC9E6LY08",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "tion sion",
+    "skill": "less common /sh/ spellings",
     "printable": true,
     "type": "single",
-    "question": "Which example would be most useful when explaining complex grapheme–phoneme patterns in a sports-club discussion?",
-    "audioPrompt": "Which example would be most useful when explaining complex grapheme–phoneme patterns in a sports-club discussion?",
+    "question": "Which letters represent /sh/ in the word cautious?",
+    "audioPrompt": "Which letters represent /sh/ in the word cautious?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "though / through / rough / thought",
-      "action / vision",
-      "chair / chorus / chef",
-      "cat / city"
+      "cau",
+      "ou",
+      "ti",
+      "ous"
     ],
-    "correct": 1,
-    "explanation": "This example directly demonstrates tion/sion and can be explained using the language clue in the text.\nHint: Students analyse full written patterns, syllables and stress, recognise multiple spellings for sounds and multiple pronunciations for graphemes and cross-check with morphology and context.",
-    "structuredExplanation": {
-      "summary": "This example directly demonstrates tion/sion and can be explained using the language clue in the text.",
-      "hint": "Students analyse full written patterns, syllables and stress, recognise multiple spellings for sounds and multiple pronunciations for graphemes and cross-check with morphology and context."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LY08-P-006",
-    "curriculumCode": "AC9E6LY08",
-    "bank": "practice",
-    "stage": "recognise",
-    "skill": "read an ough word",
-    "printable": true,
-    "type": "single",
-    "question": "In a library display, what should a reader do after a first pronunciation does not fit?",
-    "audioPrompt": "In a library display, what should a reader do after a first pronunciation does not fit?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Keep the guess",
-      "Skip the word permanently",
-      "Recheck graphemes, morphemes, stress and context",
-      "Use the first letter only"
-    ],
+    "difficulty": 1,
+    "difficultyTier": "foundation",
+    "sequencePriority": 7,
     "correct": 2,
-    "explanation": "“Recheck graphemes, morphemes, stress and context” is the strongest choice because it matches the language feature and the situation.\nHint: The same grapheme can represent different phonemes, often influenced by word origin, position and morphology.",
+    "explanation": "The letters ti represent /sh/ in the pronounced part /shus/.\nHint: Say cau-tious and locate the /sh/ sound.",
     "structuredExplanation": {
-      "summary": "“Recheck graphemes, morphemes, stress and context” is the strongest choice because it matches the language feature and the situation.",
-      "hint": "The same grapheme can represent different phonemes, often influenced by word origin, position and morphology."
+      "summary": "The letters ti represent /sh/ in the pronounced part /shus/.",
+      "hint": "Say cau-tious and locate the /sh/ sound."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "AC9E6LY08-P-007",
+    "id": "ac9e6ly08-p-008",
     "curriculumCode": "AC9E6LY08",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "grapheme",
+    "skill": "less common /sh/ spellings",
     "printable": true,
     "type": "single",
-    "question": "Which term best matches this meaning: “letter or letters representing a phoneme”?",
-    "audioPrompt": "Which term best matches this meaning: “letter or letters representing a phoneme”?",
+    "question": "Which spelling completes “The mural was painted by a local musi___”?",
+    "audioPrompt": "Which spelling completes “The mural was painted by a local musi___”?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "phoneme",
-      "stress",
-      "It does not match the evidence in the example.",
-      "grapheme"
+      "tion",
+      "shun",
+      "cian",
+      "sion"
     ],
-    "correct": 3,
-    "explanation": "grapheme means letter or letters representing a phoneme.\nHint: Match the definition precisely; do not choose a nearby term just because it is familiar.",
-    "structuredExplanation": {
-      "summary": "grapheme means letter or letters representing a phoneme.",
-      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LY08-P-008",
-    "curriculumCode": "AC9E6LY08",
-    "bank": "practice",
-    "stage": "recognise",
-    "skill": "c",
-    "printable": true,
-    "type": "single",
-    "question": "Read this example from a student council meeting: “cat / city”. Which label best describes what the language is doing?",
-    "audioPrompt": "Read this example from a student council meeting: “cat / city”. Which label best describes what the language is doing?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "c",
-      "ough",
-      "ch",
-      "g"
-    ],
-    "correct": 0,
-    "explanation": "“cat / city” is an example of c.\nHint: The same grapheme can represent different phonemes, often influenced by word origin, position and morphology.",
-    "structuredExplanation": {
-      "summary": "“cat / city” is an example of c.",
-      "hint": "The same grapheme can represent different phonemes, often influenced by word origin, position and morphology."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LY08-P-009",
-    "curriculumCode": "AC9E6LY08",
-    "bank": "practice",
-    "stage": "recognise",
-    "skill": "misconception repair",
-    "printable": true,
-    "type": "single",
-    "question": "Which correction best fixes this idea: “One grapheme has one sound”?",
-    "audioPrompt": "Which correction best fixes this idea: “One grapheme has one sound”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "One grapheme has one sound",
-      "English patterns vary.",
-      "Guess from first letters",
-      "Context replaces decoding"
-    ],
-    "correct": 1,
-    "explanation": "English patterns vary. This fixes the misconception without creating a new rule that is too broad.\nHint: Check the actual language evidence rather than relying on an absolute rule.",
-    "structuredExplanation": {
-      "summary": "English patterns vary. This fixes the misconception without creating a new rule that is too broad.",
-      "hint": "Check the actual language evidence rather than relying on an absolute rule."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LY08-P-010",
-    "curriculumCode": "AC9E6LY08",
-    "bank": "practice",
-    "stage": "recognise",
-    "skill": "tion sion",
-    "printable": true,
-    "type": "single",
-    "question": "Which example would be most useful when explaining complex grapheme–phoneme patterns in a environmental campaign?",
-    "audioPrompt": "Which example would be most useful when explaining complex grapheme–phoneme patterns in a environmental campaign?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "though / through / rough / thought",
-      "chair / chorus / chef",
-      "action / vision",
-      "cat / city"
-    ],
+    "difficulty": 1,
+    "difficultyTier": "foundation",
+    "sequencePriority": 8,
     "correct": 2,
-    "explanation": "This example directly demonstrates tion/sion and can be explained using the language clue in the text.\nHint: Students analyse full written patterns, syllables and stress, recognise multiple spellings for sounds and multiple pronunciations for graphemes and cross-check with morphology and context.",
+    "explanation": "Musician ends in cian, where ci represents /sh/.\nHint: Build from music + ian.",
     "structuredExplanation": {
-      "summary": "This example directly demonstrates tion/sion and can be explained using the language clue in the text.",
-      "hint": "Students analyse full written patterns, syllables and stress, recognise multiple spellings for sounds and multiple pronunciations for graphemes and cross-check with morphology and context."
+      "summary": "Musician ends in cian, where ci represents /sh/.",
+      "hint": "Build from music + ian."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "AC9E6LY08-P-011",
+    "id": "ac9e6ly08-p-009",
     "curriculumCode": "AC9E6LY08",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "c",
+    "skill": "less common /sh/ spellings",
     "printable": true,
     "type": "single",
-    "question": "A museum caption includes “cat / city”. Why is this an effective example of c?",
-    "audioPrompt": "A museum caption includes “cat / city”. Why is this an effective example of c?",
+    "question": "Which word uses si to represent /sh/?",
+    "audioPrompt": "Which word uses si to represent /sh/?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "It matches the purpose and the language clue in the example.",
-      "The same grapheme can represent different phonemes, often influenced by word origin, position and morphology.",
-      "It makes the intended language choice clear in context.",
-      "Context confirms a decoded word but should not replace attention to every important letter pattern."
+      "tension",
+      "station",
+      "special",
+      "shell"
     ],
-    "correct": 2,
-    "explanation": "cat / city works because its language choice fits the purpose and context.\nHint: Name the exact language choice, then explain its effect.",
-    "structuredExplanation": {
-      "summary": "cat / city works because its language choice fits the purpose and context.",
-      "hint": "Name the exact language choice, then explain its effect."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LY08-P-012",
-    "curriculumCode": "AC9E6LY08",
-    "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
-    "printable": true,
-    "type": "single",
-    "question": "Why is “Process full word.” a better rule than “Guess from first letters” when reading a student council meeting?",
-    "audioPrompt": "Why is “Process full word.” a better rule than “Guess from first letters” when reading a student council meeting?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Because the longest rule is always the best one.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words.",
-      "Because it keeps the useful distinction without turning it into an absolute rule."
-    ],
-    "correct": 3,
-    "explanation": "“Process full word.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
-    "structuredExplanation": {
-      "summary": "“Process full word.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LY08-P-013",
-    "curriculumCode": "AC9E6LY08",
-    "bank": "practice",
-    "stage": "explain",
-    "skill": "tion sion",
-    "printable": true,
-    "type": "single",
-    "question": "A local-history article includes “action / vision”. Why is this an effective example of tion/sion?",
-    "audioPrompt": "A local-history article includes “action / vision”. Why is this an effective example of tion/sion?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "It makes the intended language choice clear in context.",
-      "It matches the purpose and the language clue in the example.",
-      "The same grapheme can represent different phonemes, often influenced by word origin, position and morphology.",
-      "Context confirms a decoded word but should not replace attention to every important letter pattern."
-    ],
+    "difficulty": 1,
+    "difficultyTier": "foundation",
+    "sequencePriority": 9,
     "correct": 0,
-    "explanation": "action / vision works because its language choice fits the purpose and context.\nHint: Name the exact language choice, then explain its effect.",
+    "explanation": "In tension, si represents /sh/. The other choices use ti, ci or sh for that phoneme.\nHint: Say each whole word and locate the letters aligned with /sh/.",
     "structuredExplanation": {
-      "summary": "action / vision works because its language choice fits the purpose and context.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "In tension, si represents /sh/. The other choices use ti, ci or sh for that phoneme.",
+      "hint": "Say each whole word and locate the letters aligned with /sh/."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "AC9E6LY08-P-014",
+    "id": "ac9e6ly08-p-010",
     "curriculumCode": "AC9E6LY08",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "skill": "digraphs and trigraphs",
     "printable": true,
     "type": "single",
-    "question": "Why is “Use spoken syllables and patterns.” a better rule than “Syllables cut at every vowel letter” when reading a environmental campaign?",
-    "audioPrompt": "Why is “Use spoken syllables and patterns.” a better rule than “Syllables cut at every vowel letter” when reading a environmental campaign?",
+    "question": "Which word contains the trigraph dge representing one final consonant sound?",
+    "audioPrompt": "Which word contains the trigraph dge representing one final consonant sound?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Because the longest rule is always the best one.",
-      "Because it keeps the useful distinction without turning it into an absolute rule.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words."
+      "budget",
+      "danger",
+      "dragon",
+      "bridge"
     ],
+    "difficulty": 1,
+    "difficultyTier": "foundation",
+    "sequencePriority": 10,
+    "correct": 3,
+    "explanation": "Bridge ends with dge representing /j/.\nHint: A trigraph is three letters working together for one phoneme.",
+    "structuredExplanation": {
+      "summary": "Bridge ends with dge representing /j/.",
+      "hint": "A trigraph is three letters working together for one phoneme."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6ly08-p-011",
+    "curriculumCode": "AC9E6LY08",
+    "bank": "practice",
+    "skill": "digraphs and trigraphs",
+    "printable": true,
+    "type": "single",
+    "question": "In the word earthquake, which two-letter grapheme represents the first consonant sound?",
+    "audioPrompt": "In the word earthquake, which two-letter grapheme represents the first consonant sound?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "th",
+      "ar",
+      "ea",
+      "qu"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "foundation",
+    "sequencePriority": 11,
+    "correct": 0,
+    "explanation": "The digraph th represents the first consonant phoneme in earthquake.\nHint: Look at the beginning sound, not the first syllable vowel.",
+    "structuredExplanation": {
+      "summary": "The digraph th represents the first consonant phoneme in earthquake.",
+      "hint": "Look at the beginning sound, not the first syllable vowel."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6ly08-p-012",
+    "curriculumCode": "AC9E6LY08",
+    "bank": "practice",
+    "skill": "digraphs and trigraphs",
+    "printable": true,
+    "type": "single",
+    "question": "Which word contains the grapheme tch for the /ch/ phoneme?",
+    "audioPrompt": "Which word contains the grapheme tch for the /ch/ phoneme?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "capture",
+      "watchful",
+      "machine",
+      "chemist"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "foundation",
+    "sequencePriority": 12,
     "correct": 1,
-    "explanation": "“Use spoken syllables and patterns.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "explanation": "Watchful contains watch + ful, and tch represents /ch/.\nHint: Find three letters working together before -ful.",
     "structuredExplanation": {
-      "summary": "“Use spoken syllables and patterns.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "Watchful contains watch + ful, and tch represents /ch/.",
+      "hint": "Find three letters working together before -ful."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "AC9E6LY08-P-015",
+    "id": "ac9e6ly08-p-013",
     "curriculumCode": "AC9E6LY08",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "ch",
+    "skill": "vowel relationships",
     "printable": true,
     "type": "single",
-    "question": "A book-club discussion includes “chair / chorus / chef”. Why is this an effective example of ch?",
-    "audioPrompt": "A book-club discussion includes “chair / chorus / chef”. Why is this an effective example of ch?",
+    "question": "Which word has the same stressed vowel phoneme as coast?",
+    "audioPrompt": "Which word has the same stressed vowel phoneme as coast?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "It matches the purpose and the language clue in the example.",
-      "The same grapheme can represent different phonemes, often influenced by word origin, position and morphology.",
-      "It makes the intended language choice clear in context.",
-      "Context confirms a decoded word but should not replace attention to every important letter pattern."
+      "broad",
+      "approach",
+      "crowd",
+      "could"
     ],
-    "correct": 2,
-    "explanation": "chair / chorus / chef works because its language choice fits the purpose and context.\nHint: Name the exact language choice, then explain its effect.",
-    "structuredExplanation": {
-      "summary": "chair / chorus / chef works because its language choice fits the purpose and context.",
-      "hint": "Name the exact language choice, then explain its effect."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LY08-P-016",
-    "curriculumCode": "AC9E6LY08",
-    "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
-    "printable": true,
-    "type": "single",
-    "question": "Why is “Process full word.” a better rule than “Guess from first letters” when reading a excursion briefing?",
-    "audioPrompt": "Why is “Process full word.” a better rule than “Guess from first letters” when reading a excursion briefing?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Because the longest rule is always the best one.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words.",
-      "Because it keeps the useful distinction without turning it into an absolute rule."
-    ],
-    "correct": 3,
-    "explanation": "“Process full word.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
-    "structuredExplanation": {
-      "summary": "“Process full word.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LY08-P-017",
-    "curriculumCode": "AC9E6LY08",
-    "bank": "practice",
-    "stage": "explain",
-    "skill": "g",
-    "printable": true,
-    "type": "single",
-    "question": "A design project includes “go / giant”. Why is this an effective example of g?",
-    "audioPrompt": "A design project includes “go / giant”. Why is this an effective example of g?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "It makes the intended language choice clear in context.",
-      "It matches the purpose and the language clue in the example.",
-      "The same grapheme can represent different phonemes, often influenced by word origin, position and morphology.",
-      "Context confirms a decoded word but should not replace attention to every important letter pattern."
-    ],
-    "correct": 0,
-    "explanation": "go / giant works because its language choice fits the purpose and context.\nHint: Name the exact language choice, then explain its effect.",
-    "structuredExplanation": {
-      "summary": "go / giant works because its language choice fits the purpose and context.",
-      "hint": "Name the exact language choice, then explain its effect."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LY08-P-018",
-    "curriculumCode": "AC9E6LY08",
-    "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
-    "printable": true,
-    "type": "single",
-    "question": "Why is “Use spoken syllables and patterns.” a better rule than “Syllables cut at every vowel letter” when reading a weather report?",
-    "audioPrompt": "Why is “Use spoken syllables and patterns.” a better rule than “Syllables cut at every vowel letter” when reading a weather report?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Because the longest rule is always the best one.",
-      "Because it keeps the useful distinction without turning it into an absolute rule.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words."
-    ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 13,
     "correct": 1,
-    "explanation": "“Use spoken syllables and patterns.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "explanation": "The stressed final syllable of approach rhymes with coach and shares the long /o/ phoneme in Australian English.\nHint: Compare sounds, not just letter patterns.",
     "structuredExplanation": {
-      "summary": "“Use spoken syllables and patterns.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The stressed final syllable of approach rhymes with coach and shares the long /o/ phoneme in Australian English.",
+      "hint": "Compare sounds, not just letter patterns."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "AC9E6LY08-P-019",
+    "id": "ac9e6ly08-p-014",
     "curriculumCode": "AC9E6LY08",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "ough",
+    "skill": "vowel relationships",
     "printable": true,
     "type": "single",
-    "question": "A school assembly includes “though / through / rough / thought”. Why is this an effective example of ough?",
-    "audioPrompt": "A school assembly includes “though / through / rough / thought”. Why is this an effective example of ough?",
+    "question": "Which word has the same vowel phoneme as head?",
+    "audioPrompt": "Which word has the same vowel phoneme as head?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "It matches the purpose and the language clue in the example.",
-      "The same grapheme can represent different phonemes, often influenced by word origin, position and morphology.",
-      "It makes the intended language choice clear in context.",
-      "Context confirms a decoded word but should not replace attention to every important letter pattern."
+      "great",
+      "heart",
+      "bead",
+      "breadth"
     ],
-    "correct": 2,
-    "explanation": "though / through / rough / thought works because its language choice fits the purpose and context.\nHint: Name the exact language choice, then explain its effect.",
-    "structuredExplanation": {
-      "summary": "though / through / rough / thought works because its language choice fits the purpose and context.",
-      "hint": "Name the exact language choice, then explain its effect."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LY08-P-020",
-    "curriculumCode": "AC9E6LY08",
-    "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
-    "printable": true,
-    "type": "single",
-    "question": "Why is “Process full word.” a better rule than “Guess from first letters” when reading a peer feedback session?",
-    "audioPrompt": "Why is “Process full word.” a better rule than “Guess from first letters” when reading a peer feedback session?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Because the longest rule is always the best one.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words.",
-      "Because it keeps the useful distinction without turning it into an absolute rule."
-    ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 14,
     "correct": 3,
-    "explanation": "“Process full word.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "explanation": "Breadth and head contain the same short /e/ vowel phoneme in standard Australian pronunciation.\nHint: Say the whole words naturally.",
     "structuredExplanation": {
-      "summary": "“Process full word.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "Breadth and head contain the same short /e/ vowel phoneme in standard Australian pronunciation.",
+      "hint": "Say the whole words naturally."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "AC9E6LY08-P-021",
+    "id": "ac9e6ly08-p-015",
     "curriculumCode": "AC9E6LY08",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "skill": "vowel relationships",
     "printable": true,
     "type": "single",
-    "question": "A excursion briefing could use either “though / through / rough / thought” or “identify familiar morphemes”. Which comparison is most accurate?",
-    "audioPrompt": "A excursion briefing could use either “though / through / rough / thought” or “identify familiar morphemes”. Which comparison is most accurate?",
+    "question": "Which pair uses different spellings for the same vowel phoneme?",
+    "audioPrompt": "Which pair uses different spellings for the same vowel phoneme?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer.",
-      "“though / through / rough / thought” shows ough, while “identify familiar morphemes” shows identify familiar morphemes."
+      "food and good",
+      "rain and day",
+      "break and speak",
+      "now and snow"
     ],
-    "correct": 3,
-    "explanation": "The important difference is the language function: ough versus identify familiar morphemes.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
-    "structuredExplanation": {
-      "summary": "The important difference is the language function: ough versus identify familiar morphemes.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LY08-P-022",
-    "curriculumCode": "AC9E6LY08",
-    "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Context replaces decoding” in a design project?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Context replaces decoding” in a design project?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Cross-check written evidence.",
-      "One grapheme has one sound",
-      "Guess from first letters",
-      "Context replaces decoding"
-    ],
-    "correct": 0,
-    "explanation": "Cross-check written evidence. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Context confirms a decoded word but should not replace attention to every important letter pattern.",
-    "structuredExplanation": {
-      "summary": "Cross-check written evidence. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Context confirms a decoded word but should not replace attention to every important letter pattern."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LY08-P-023",
-    "curriculumCode": "AC9E6LY08",
-    "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
-    "printable": true,
-    "type": "single",
-    "question": "A weather report could use either “cat / city” or “try syllable blend”. Which comparison is most accurate?",
-    "audioPrompt": "A weather report could use either “cat / city” or “try syllable blend”. Which comparison is most accurate?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "“cat / city” shows c, while “try syllable blend” shows try syllable blend.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer."
-    ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 15,
     "correct": 1,
-    "explanation": "The important difference is the language function: c versus try syllable blend.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "explanation": "Rain and day both contain the long /a/ phoneme, written ai and ay.\nHint: The question asks about sound sameness and spelling difference.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: c versus try syllable blend.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "Rain and day both contain the long /a/ phoneme, written ai and ay.",
+      "hint": "The question asks about sound sameness and spelling difference."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "AC9E6LY08-P-024",
+    "id": "ac9e6ly08-p-016",
     "curriculumCode": "AC9E6LY08",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "skill": "flexible decoding",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “One grapheme has one sound” in a school assembly?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “One grapheme has one sound” in a school assembly?",
+    "question": "The sentence says, “A rough track led through the forest.” Which statement is accurate?",
+    "audioPrompt": "The sentence says, “A rough track led through the forest.” Which statement is accurate?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "One grapheme has one sound",
-      "Guess from first letters",
-      "English patterns vary.",
-      "Context replaces decoding"
+      "ough sounds the same in both words",
+      "rough rhymes with through",
+      "through has two spoken syllables",
+      "rough and through use different pronunciations of ough"
     ],
-    "correct": 2,
-    "explanation": "English patterns vary. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Context confirms a decoded word but should not replace attention to every important letter pattern.",
-    "structuredExplanation": {
-      "summary": "English patterns vary. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Context confirms a decoded word but should not replace attention to every important letter pattern."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LY08-P-025",
-    "curriculumCode": "AC9E6LY08",
-    "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
-    "printable": true,
-    "type": "single",
-    "question": "A peer feedback session could use either “action / vision” or “compare word family”. Which comparison is most accurate?",
-    "audioPrompt": "A peer feedback session could use either “action / vision” or “compare word family”. Which comparison is most accurate?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer.",
-      "“action / vision” shows tion/sion, while “compare word family” shows compare word family."
-    ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 16,
     "correct": 3,
-    "explanation": "The important difference is the language function: tion/sion versus compare word family.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "explanation": "Rough ends /uf/, while through ends with a long /oo/ sound.\nHint: Use sentence meaning to identify each familiar word.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: tion/sion versus compare word family.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "Rough ends /uf/, while through ends with a long /oo/ sound.",
+      "hint": "Use sentence meaning to identify each familiar word."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "AC9E6LY08-P-026",
+    "id": "ac9e6ly08-p-017",
     "curriculumCode": "AC9E6LY08",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "skill": "flexible decoding",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Context replaces decoding” in a cooking demonstration?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Context replaces decoding” in a cooking demonstration?",
+    "question": "Which word rhymes with though?",
+    "audioPrompt": "Which word rhymes with though?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Cross-check written evidence.",
-      "One grapheme has one sound",
-      "Guess from first letters",
-      "Context replaces decoding"
+      "dough",
+      "cough",
+      "thought",
+      "through"
     ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 17,
     "correct": 0,
-    "explanation": "Cross-check written evidence. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Context confirms a decoded word but should not replace attention to every important letter pattern.",
+    "explanation": "Dough and though share the long /o/ pronunciation of ough.\nHint: Do not assume all ough spellings sound alike.",
     "structuredExplanation": {
-      "summary": "Cross-check written evidence. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Context confirms a decoded word but should not replace attention to every important letter pattern."
+      "summary": "Dough and though share the long /o/ pronunciation of ough.",
+      "hint": "Do not assume all ough spellings sound alike."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "AC9E6LY08-P-027",
+    "id": "ac9e6ly08-p-018",
     "curriculumCode": "AC9E6LY08",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "skill": "flexible decoding",
     "printable": true,
     "type": "single",
-    "question": "A arts review could use either “chair / chorus / chef” or “scan whole word”. Which comparison is most accurate?",
-    "audioPrompt": "A arts review could use either “chair / chorus / chef” or “scan whole word”. Which comparison is most accurate?",
+    "question": "Read: “The drought reduced the reservoir.” Which word has ough pronounced as in shout?",
+    "audioPrompt": "Read: “The drought reduced the reservoir.” Which word has ough pronounced as in shout?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "“chair / chorus / chef” shows ch, while “scan whole word” shows scan whole word.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer."
+      "reduced",
+      "reservoir",
+      "drought",
+      "the"
     ],
-    "correct": 1,
-    "explanation": "The important difference is the language function: ch versus scan whole word.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
-    "structuredExplanation": {
-      "summary": "The important difference is the language function: ch versus scan whole word.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LY08-P-028",
-    "curriculumCode": "AC9E6LY08",
-    "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement would help you reject the tempting rule “One grapheme has one sound” in a technology presentation?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “One grapheme has one sound” in a technology presentation?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "One grapheme has one sound",
-      "Guess from first letters",
-      "English patterns vary.",
-      "Context replaces decoding"
-    ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 18,
     "correct": 2,
-    "explanation": "English patterns vary. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Context confirms a decoded word but should not replace attention to every important letter pattern.",
+    "explanation": "Drought contains the /ow/ phoneme represented by ou within ough.\nHint: Find the word that rhymes with out.",
     "structuredExplanation": {
-      "summary": "English patterns vary. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Context confirms a decoded word but should not replace attention to every important letter pattern."
+      "summary": "Drought contains the /ow/ phoneme represented by ou within ough.",
+      "hint": "Find the word that rhymes with out."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "AC9E6LY08-P-029",
+    "id": "ac9e6ly08-p-019",
     "curriculumCode": "AC9E6LY08",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "skill": "syllable segmentation",
     "printable": true,
     "type": "single",
-    "question": "A playground consultation could use either “go / giant” or “mark vowel/grapheme patterns”. Which comparison is most accurate?",
-    "audioPrompt": "A playground consultation could use either “go / giant” or “mark vowel/grapheme patterns”. Which comparison is most accurate?",
+    "question": "Which is the most helpful spoken-syllable split for responsibility?",
+    "audioPrompt": "Which is the most helpful spoken-syllable split for responsibility?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer.",
-      "“go / giant” shows g, while “mark vowel/grapheme patterns” shows mark vowel/grapheme patterns."
+      "res-pon-si-bil-i-ty",
+      "re-sp-ons-ib-il-ity",
+      "resp-on-sib-ility",
+      "respons-ibility"
     ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 19,
+    "correct": 0,
+    "explanation": "Res-pon-si-bil-i-ty gives six pronounceable beats that can be blended into the word.\nHint: Clap the natural beats; do not split consonants randomly.",
+    "structuredExplanation": {
+      "summary": "Res-pon-si-bil-i-ty gives six pronounceable beats that can be blended into the word.",
+      "hint": "Clap the natural beats; do not split consonants randomly."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6ly08-p-020",
+    "curriculumCode": "AC9E6LY08",
+    "bank": "practice",
+    "skill": "syllable segmentation",
+    "printable": true,
+    "type": "single",
+    "question": "Which segmentation best supports decoding biodegradable?",
+    "audioPrompt": "Which segmentation best supports decoding biodegradable?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "bio-de-grad-able",
+      "bio-d-egradable",
+      "b-i-od-egr-ad-able",
+      "bi-o-de-grad-a-ble"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 20,
     "correct": 3,
-    "explanation": "The important difference is the language function: g versus mark vowel/grapheme patterns.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "explanation": "Bi-o-de-grad-a-ble marks six spoken syllables and keeps pronounceable chunks.\nHint: Say it slowly, then blend the chunks naturally.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: g versus mark vowel/grapheme patterns.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "Bi-o-de-grad-a-ble marks six spoken syllables and keeps pronounceable chunks.",
+      "hint": "Say it slowly, then blend the chunks naturally."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "AC9E6LY08-P-030",
+    "id": "ac9e6ly08-p-021",
     "curriculumCode": "AC9E6LY08",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "skill": "syllable segmentation",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Context replaces decoding” in a class podcast?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Context replaces decoding” in a class podcast?",
+    "question": "A reader meets “intercontinental”. Which first action is most useful?",
+    "audioPrompt": "A reader meets “intercontinental”. Which first action is most useful?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Cross-check written evidence.",
-      "One grapheme has one sound",
-      "Guess from first letters",
-      "Context replaces decoding"
+      "mark spoken syllables, then blend them",
+      "skip the word permanently",
+      "guess from the first three letters",
+      "pronounce every letter separately"
     ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 21,
     "correct": 0,
-    "explanation": "Cross-check written evidence. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Context confirms a decoded word but should not replace attention to every important letter pattern.",
+    "explanation": "Segmenting in-ter-con-ti-nen-tal reduces the load while preserving the complete word.\nHint: Long words are read in pronounceable chunks, then recombined.",
     "structuredExplanation": {
-      "summary": "Cross-check written evidence. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Context confirms a decoded word but should not replace attention to every important letter pattern."
+      "summary": "Segmenting in-ter-con-ti-nen-tal reduces the load while preserving the complete word.",
+      "hint": "Long words are read in pronounceable chunks, then recombined."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "AC9E6LY08-P-031",
+    "id": "ac9e6ly08-p-022",
     "curriculumCode": "AC9E6LY08",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "mark syllables stress",
+    "skill": "syllable segmentation",
     "printable": true,
     "type": "single",
-    "question": "You are editing a community garden proposal. What should a reader do after a first pronunciation does not fit?",
-    "audioPrompt": "You are editing a community garden proposal. What should a reader do after a first pronunciation does not fit?",
+    "question": "Which word has four spoken syllables in common Australian pronunciation?",
+    "audioPrompt": "Which word has four spoken syllables in common Australian pronunciation?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Recheck graphemes, morphemes, stress and context",
-      "Keep the guess",
-      "Skip the word permanently",
-      "Use the first letter only"
+      "thoughtful",
+      "strengthened",
+      "calculator",
+      "playground"
     ],
-    "correct": 0,
-    "explanation": "“Recheck graphemes, morphemes, stress and context” best fits the purpose and the language evidence in this new situation.\nHint: Context confirms a decoded word but should not replace attention to every important letter pattern.",
-    "structuredExplanation": {
-      "summary": "“Recheck graphemes, morphemes, stress and context” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Context confirms a decoded word but should not replace attention to every important letter pattern."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LY08-P-032",
-    "curriculumCode": "AC9E6LY08",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "identify familiar morphemes",
-    "printable": true,
-    "type": "single",
-    "question": "A sports-club discussion needs a clear example of identify familiar morphemes. Which wording should you choose?",
-    "audioPrompt": "A sports-club discussion needs a clear example of identify familiar morphemes. Which wording should you choose?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "scan whole word",
-      "identify familiar morphemes",
-      "mark vowel/grapheme patterns",
-      "try syllable blend"
-    ],
-    "correct": 1,
-    "explanation": "“identify familiar morphemes” is the best choice because it demonstrates identify familiar morphemes in context.\nHint: Choose the wording that performs the required job, not merely one that sounds fluent.",
-    "structuredExplanation": {
-      "summary": "“identify familiar morphemes” is the best choice because it demonstrates identify familiar morphemes in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LY08-P-033",
-    "curriculumCode": "AC9E6LY08",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "grapheme",
-    "printable": true,
-    "type": "single",
-    "question": "While revising a library display, you need language that matches “letter or letters representing a phoneme”. Which concept should guide your choice?",
-    "audioPrompt": "While revising a library display, you need language that matches “letter or letters representing a phoneme”. Which concept should guide your choice?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "phoneme",
-      "stress",
-      "grapheme",
-      "It does not match the evidence in the example."
-    ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 22,
     "correct": 2,
-    "explanation": "grapheme is the concept that matches letter or letters representing a phoneme.\nHint: Use the definition to guide the decision, then check it against the sentence.",
+    "explanation": "Calculator is commonly segmented cal-cu-la-tor, four syllables.\nHint: Count spoken beats, not vowel letters.",
     "structuredExplanation": {
-      "summary": "grapheme is the concept that matches letter or letters representing a phoneme.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "Calculator is commonly segmented cal-cu-la-tor, four syllables.",
+      "hint": "Count spoken beats, not vowel letters."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "AC9E6LY08-P-034",
+    "id": "ac9e6ly08-p-023",
     "curriculumCode": "AC9E6LY08",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "read an ough word",
+    "skill": "stress",
     "printable": true,
     "type": "single",
-    "question": "You are editing a museum caption. What should a reader do after a first pronunciation does not fit?",
-    "audioPrompt": "You are editing a museum caption. What should a reader do after a first pronunciation does not fit?",
+    "question": "In the noun photograph, which syllable normally carries the main stress?",
+    "audioPrompt": "In the noun photograph, which syllable normally carries the main stress?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Keep the guess",
-      "Skip the word permanently",
-      "Use the first letter only",
-      "Recheck graphemes, morphemes, stress and context"
+      "second: TO",
+      "first: PHO",
+      "third: GRAPH",
+      "all equally"
     ],
-    "correct": 3,
-    "explanation": "“Recheck graphemes, morphemes, stress and context” best fits the purpose and the language evidence in this new situation.\nHint: Context confirms a decoded word but should not replace attention to every important letter pattern.",
-    "structuredExplanation": {
-      "summary": "“Recheck graphemes, morphemes, stress and context” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Context confirms a decoded word but should not replace attention to every important letter pattern."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LY08-P-035",
-    "curriculumCode": "AC9E6LY08",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "check stress and sentence meaning",
-    "printable": true,
-    "type": "single",
-    "question": "A student council meeting needs a clear example of check stress and sentence meaning. Which wording should you choose?",
-    "audioPrompt": "A student council meeting needs a clear example of check stress and sentence meaning. Which wording should you choose?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "check stress and sentence meaning",
-      "scan whole word",
-      "identify familiar morphemes",
-      "mark vowel/grapheme patterns"
-    ],
-    "correct": 0,
-    "explanation": "“check stress and sentence meaning” is the best choice because it demonstrates check stress and sentence meaning in context.\nHint: Choose the wording that performs the required job, not merely one that sounds fluent.",
-    "structuredExplanation": {
-      "summary": "“check stress and sentence meaning” is the best choice because it demonstrates check stress and sentence meaning in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LY08-P-036",
-    "curriculumCode": "AC9E6LY08",
-    "bank": "practice",
-    "stage": "apply",
-    "skill": "grapheme",
-    "printable": true,
-    "type": "single",
-    "question": "While revising a local-history article, you need language that matches “letter or letters representing a phoneme”. Which concept should guide your choice?",
-    "audioPrompt": "While revising a local-history article, you need language that matches “letter or letters representing a phoneme”. Which concept should guide your choice?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "phoneme",
-      "grapheme",
-      "stress",
-      "It does not match the evidence in the example."
-    ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 23,
     "correct": 1,
-    "explanation": "grapheme is the concept that matches letter or letters representing a phoneme.\nHint: Use the definition to guide the decision, then check it against the sentence.",
+    "explanation": "Photograph normally has first-syllable stress: PHO-to-graph.\nHint: Say the word naturally in “a photograph”.",
     "structuredExplanation": {
-      "summary": "grapheme is the concept that matches letter or letters representing a phoneme.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "Photograph normally has first-syllable stress: PHO-to-graph.",
+      "hint": "Say the word naturally in “a photograph”."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "AC9E6LY08-P-037",
+    "id": "ac9e6ly08-p-024",
     "curriculumCode": "AC9E6LY08",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "use full word",
+    "skill": "stress",
     "printable": true,
     "type": "single",
-    "question": "You are editing a environmental campaign. What should a reader do after a first pronunciation does not fit?",
-    "audioPrompt": "You are editing a environmental campaign. What should a reader do after a first pronunciation does not fit?",
+    "question": "Which stress pattern fits photography?",
+    "audioPrompt": "Which stress pattern fits photography?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Keep the guess",
-      "Skip the word permanently",
-      "Recheck graphemes, morphemes, stress and context",
-      "Use the first letter only"
+      "first syllable stressed: PHO-to-graph-y",
+      "every syllable stressed equally",
+      "third syllable stressed: pho-to-GRAPH-y",
+      "second syllable stressed: pho-TOG-ra-phy"
     ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 24,
+    "correct": 3,
+    "explanation": "Photography normally shifts the main stress to the second syllable.\nHint: Related words can shift stress.",
+    "structuredExplanation": {
+      "summary": "Photography normally shifts the main stress to the second syllable.",
+      "hint": "Related words can shift stress."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6ly08-p-025",
+    "curriculumCode": "AC9E6LY08",
+    "bank": "practice",
+    "skill": "stress",
+    "printable": true,
+    "type": "single",
+    "question": "A student reads record in “Please record the result.” Which syllable should be stressed?",
+    "audioPrompt": "A student reads record in “Please record the result.” Which syllable should be stressed?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "first, as in the noun REcord",
+      "neither syllable",
+      "both equally",
+      "second, as in the verb reCORD"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 25,
+    "correct": 3,
+    "explanation": "Here record is a verb, usually stressed on the second syllable.\nHint: Use the word’s job and sentence meaning.",
+    "structuredExplanation": {
+      "summary": "Here record is a verb, usually stressed on the second syllable.",
+      "hint": "Use the word’s job and sentence meaning."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6ly08-p-026",
+    "curriculumCode": "AC9E6LY08",
+    "bank": "practice",
+    "skill": "stress",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence uses present with stress on the second syllable?",
+    "audioPrompt": "Which sentence uses present with stress on the second syllable?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The present was wrapped.",
+      "We live in the present.",
+      "Her presence was reassuring.",
+      "The groups present their findings."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 26,
+    "correct": 3,
+    "explanation": "The verb present is commonly pronounced pre-SENT.\nHint: Identify the sentence in which the word means show or deliver.",
+    "structuredExplanation": {
+      "summary": "The verb present is commonly pronounced pre-SENT.",
+      "hint": "Identify the sentence in which the word means show or deliver."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6ly08-p-027",
+    "curriculumCode": "AC9E6LY08",
+    "bank": "practice",
+    "skill": "schwa",
+    "printable": true,
+    "type": "single",
+    "question": "In banana, which syllables commonly contain a weak schwa vowel?",
+    "audioPrompt": "In banana, which syllables commonly contain a weak schwa vowel?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "only the stressed middle syllable",
+      "all three syllables",
+      "the first and final syllables",
+      "no syllables"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 27,
     "correct": 2,
-    "explanation": "“Recheck graphemes, morphemes, stress and context” best fits the purpose and the language evidence in this new situation.\nHint: Context confirms a decoded word but should not replace attention to every important letter pattern.",
+    "explanation": "Banana is commonly pronounced bə-NAH-nə; the unstressed outer vowels are schwas.\nHint: Schwa usually occurs in unstressed syllables.",
     "structuredExplanation": {
-      "summary": "“Recheck graphemes, morphemes, stress and context” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Context confirms a decoded word but should not replace attention to every important letter pattern."
+      "summary": "Banana is commonly pronounced bə-NAH-nə; the unstressed outer vowels are schwas.",
+      "hint": "Schwa usually occurs in unstressed syllables."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "AC9E6LY08-P-038",
+    "id": "ac9e6ly08-p-028",
     "curriculumCode": "AC9E6LY08",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "scan whole word",
+    "skill": "schwa",
     "printable": true,
     "type": "single",
-    "question": "A book-club discussion needs a clear example of scan whole word. Which wording should you choose?",
-    "audioPrompt": "A book-club discussion needs a clear example of scan whole word. Which wording should you choose?",
+    "question": "Why can sound alone be unreliable when spelling the final syllable of doctor?",
+    "audioPrompt": "Why can sound alone be unreliable when spelling the final syllable of doctor?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "identify familiar morphemes",
-      "mark vowel/grapheme patterns",
-      "try syllable blend",
-      "scan whole word"
+      "The final vowel is always silent.",
+      "The word has no final syllable.",
+      "The unstressed vowel may reduce to schwa although it is written o.",
+      "The letters or represent /sh/."
     ],
-    "correct": 3,
-    "explanation": "“scan whole word” is the best choice because it demonstrates scan whole word in context.\nHint: Choose the wording that performs the required job, not merely one that sounds fluent.",
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 28,
+    "correct": 2,
+    "explanation": "The unstressed written o may be heard as a weak schwa before r.\nHint: Look for a reduced vowel in an unstressed syllable.",
     "structuredExplanation": {
-      "summary": "“scan whole word” is the best choice because it demonstrates scan whole word in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "The unstressed written o may be heard as a weak schwa before r.",
+      "hint": "Look for a reduced vowel in an unstressed syllable."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "AC9E6LY08-P-039",
+    "id": "ac9e6ly08-p-029",
     "curriculumCode": "AC9E6LY08",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "grapheme",
+    "skill": "schwa",
     "printable": true,
     "type": "single",
-    "question": "While revising a excursion briefing, you need language that matches “letter or letters representing a phoneme”. Which concept should guide your choice?",
-    "audioPrompt": "While revising a excursion briefing, you need language that matches “letter or letters representing a phoneme”. Which concept should guide your choice?",
+    "question": "Which spelling is correct for the word heard as “sep-uh-rate” when it is an adjective?",
+    "audioPrompt": "Which spelling is correct for the word heard as “sep-uh-rate” when it is an adjective?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "grapheme",
-      "phoneme",
-      "stress",
-      "It does not match the evidence in the example."
+      "separate",
+      "separite",
+      "seperate",
+      "seprate"
     ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 29,
     "correct": 0,
-    "explanation": "grapheme is the concept that matches letter or letters representing a phoneme.\nHint: Use the definition to guide the decision, then check it against the sentence.",
+    "explanation": "Separate keeps a in the unstressed middle syllable even when that vowel is reduced.\nHint: Use the related word separation to expose the vowel.",
     "structuredExplanation": {
-      "summary": "grapheme is the concept that matches letter or letters representing a phoneme.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "Separate keeps a in the unstressed middle syllable even when that vowel is reduced.",
+      "hint": "Use the related word separation to expose the vowel."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "AC9E6LY08-P-040",
+    "id": "ac9e6ly08-p-030",
     "curriculumCode": "AC9E6LY08",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "compare ch sounds",
+    "skill": "schwa",
     "printable": true,
     "type": "single",
-    "question": "You are editing a design project. What should a reader do after a first pronunciation does not fit?",
-    "audioPrompt": "You are editing a design project. What should a reader do after a first pronunciation does not fit?",
+    "question": "Which related word best helps confirm the hidden vowel in the second syllable of family?",
+    "audioPrompt": "Which related word best helps confirm the hidden vowel in the second syllable of family?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Keep the guess",
-      "Recheck graphemes, morphemes, stress and context",
-      "Skip the word permanently",
-      "Use the first letter only"
+      "familiar",
+      "famine",
+      "famous",
+      "final"
     ],
-    "correct": 1,
-    "explanation": "“Recheck graphemes, morphemes, stress and context” best fits the purpose and the language evidence in this new situation.\nHint: Context confirms a decoded word but should not replace attention to every important letter pattern.",
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 30,
+    "correct": 0,
+    "explanation": "Familiar preserves the fam- word family and makes the vowel sequence easier to notice.\nHint: Choose a genuine relative in meaning and form.",
     "structuredExplanation": {
-      "summary": "“Recheck graphemes, morphemes, stress and context” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Context confirms a decoded word but should not replace attention to every important letter pattern."
+      "summary": "Familiar preserves the fam- word family and makes the vowel sequence easier to notice.",
+      "hint": "Choose a genuine relative in meaning and form."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6ly08-p-031",
+    "curriculumCode": "AC9E6LY08",
+    "bank": "practice",
+    "skill": "morphology support",
+    "printable": true,
+    "type": "single",
+    "question": "Which related word best helps explain the g in sign?",
+    "audioPrompt": "Which related word best helps explain the g in sign?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "signal",
+      "sine",
+      "sing",
+      "sigh"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 31,
+    "correct": 0,
+    "explanation": "Signal reveals the pronounced /g/ while preserving the sign morpheme spelling.\nHint: Use a word from the same meaning family.",
+    "structuredExplanation": {
+      "summary": "Signal reveals the pronounced /g/ while preserving the sign morpheme spelling.",
+      "hint": "Use a word from the same meaning family."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6ly08-p-032",
+    "curriculumCode": "AC9E6LY08",
+    "bank": "practice",
+    "skill": "morphology support",
+    "printable": true,
+    "type": "single",
+    "question": "A student is spelling composition. Which word family gives the strongest support?",
+    "audioPrompt": "A student is spelling composition. Which word family gives the strongest support?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "compose and composer",
+      "compost and composting",
+      "compare and comparison",
+      "position and positive"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 32,
+    "correct": 0,
+    "explanation": "Compose and composer share the relevant base and meaning with composition.\nHint: A useful relative must match both form and meaning.",
+    "structuredExplanation": {
+      "summary": "Compose and composer share the relevant base and meaning with composition.",
+      "hint": "A useful relative must match both form and meaning."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6ly08-p-033",
+    "curriculumCode": "AC9E6LY08",
+    "bank": "practice",
+    "skill": "morphology support",
+    "printable": true,
+    "type": "single",
+    "question": "Which analysis best supports the spelling disagreement?",
+    "audioPrompt": "Which analysis best supports the spelling disagreement?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "disagree + mint",
+      "di + sag + ree + ment",
+      "dis + agree + ment",
+      "dish + agreement"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 33,
+    "correct": 2,
+    "explanation": "Disagreement is built from prefix dis-, base agree and suffix -ment.\nHint: Keep recognisable meaning units intact.",
+    "structuredExplanation": {
+      "summary": "Disagreement is built from prefix dis-, base agree and suffix -ment.",
+      "hint": "Keep recognisable meaning units intact."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6ly08-p-034",
+    "curriculumCode": "AC9E6LY08",
+    "bank": "practice",
+    "skill": "morphology support",
+    "printable": true,
+    "type": "single",
+    "question": "Why does muscle keep its c even though many speakers do not pronounce it?",
+    "audioPrompt": "Why does muscle keep its c even though many speakers do not pronounce it?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Every silent letter is random.",
+      "The conventional spelling and related muscular provide word-family support.",
+      "The c marks the stressed syllable.",
+      "The c represents a vowel."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 34,
+    "correct": 1,
+    "explanation": "Muscular makes the /k/ audible and confirms the shared spelling of the morpheme.\nHint: Search for a related form in which the letter is pronounced.",
+    "structuredExplanation": {
+      "summary": "Muscular makes the /k/ audible and confirms the shared spelling of the morpheme.",
+      "hint": "Search for a related form in which the letter is pronounced."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6ly08-p-035",
+    "curriculumCode": "AC9E6LY08",
+    "bank": "practice",
+    "skill": "consonant clusters",
+    "printable": true,
+    "type": "single",
+    "question": "Which segmentation identifies the ending sounds of sixth without adding a vowel?",
+    "audioPrompt": "Which segmentation identifies the ending sounds of sixth without adding a vowel?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "/k/ /s/ /th/",
+      "/s/ /i/ /k/ /s/ /th/",
+      "/k/ /uh/ /s/ /th/",
+      "/ks/ as one vowel sound"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 35,
+    "correct": 0,
+    "explanation": "Sixth ends with the consonant sequence /k/ /s/ /th/.\nHint: Stretch the ending but do not insert “uh”.",
+    "structuredExplanation": {
+      "summary": "Sixth ends with the consonant sequence /k/ /s/ /th/.",
+      "hint": "Stretch the ending but do not insert “uh”."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6ly08-p-036",
+    "curriculumCode": "AC9E6LY08",
+    "bank": "practice",
+    "skill": "consonant clusters",
+    "printable": true,
+    "type": "single",
+    "question": "Which pronunciation strategy is best for glimpsed?",
+    "audioPrompt": "Which pronunciation strategy is best for glimpsed?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "say glim-puh-sed",
+      "build /glimps/ then add /t/",
+      "omit the /p/",
+      "turn the ending into a new syllable"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 36,
+    "correct": 1,
+    "explanation": "Glimpsed is one syllable; building the cluster and adding the past-tense /t/ avoids an extra vowel.\nHint: Keep the cluster compact.",
+    "structuredExplanation": {
+      "summary": "Glimpsed is one syllable; building the cluster and adding the past-tense /t/ avoids an extra vowel.",
+      "hint": "Keep the cluster compact."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6ly08-p-037",
+    "curriculumCode": "AC9E6LY08",
+    "bank": "practice",
+    "skill": "consonant clusters",
+    "printable": true,
+    "type": "single",
+    "question": "Which word begins with a three-phoneme consonant cluster?",
+    "audioPrompt": "Which word begins with a three-phoneme consonant cluster?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "chair",
+      "splash",
+      "phone",
+      "knight"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 37,
+    "correct": 1,
+    "explanation": "Splash begins /s/ /p/ /l/ before the vowel.\nHint: Count phonemes, not letters.",
+    "structuredExplanation": {
+      "summary": "Splash begins /s/ /p/ /l/ before the vowel.",
+      "hint": "Count phonemes, not letters."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6ly08-p-038",
+    "curriculumCode": "AC9E6LY08",
+    "bank": "practice",
+    "skill": "consonant clusters",
+    "printable": true,
+    "type": "single",
+    "question": "A reader says “strength” as “streng-uth”. What should be corrected?",
+    "audioPrompt": "A reader says “strength” as “streng-uth”. What should be corrected?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "add another syllable",
+      "remove the inserted vowel before th",
+      "change ng to /n/",
+      "make the word rhyme with lengthen"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 38,
+    "correct": 1,
+    "explanation": "Strength is normally one syllable; no extra vowel belongs between the final consonants.\nHint: Blend the final cluster without “uh”.",
+    "structuredExplanation": {
+      "summary": "Strength is normally one syllable; no extra vowel belongs between the final consonants.",
+      "hint": "Blend the final cluster without “uh”."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6ly08-p-039",
+    "curriculumCode": "AC9E6LY08",
+    "bank": "practice",
+    "skill": "encoding selection",
+    "printable": true,
+    "type": "single",
+    "question": "Which spelling correctly completes “The committee reached a unanimous deci___”?",
+    "audioPrompt": "Which spelling correctly completes “The committee reached a unanimous deci___”?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "shun",
+      "sion",
+      "tion",
+      "cian"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 39,
+    "correct": 1,
+    "explanation": "Decision ends in sion after the base decide changes at the boundary.\nHint: Use decide → decision as the word-family clue.",
+    "structuredExplanation": {
+      "summary": "Decision ends in sion after the base decide changes at the boundary.",
+      "hint": "Use decide → decision as the word-family clue."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6ly08-p-040",
+    "curriculumCode": "AC9E6LY08",
+    "bank": "practice",
+    "skill": "encoding selection",
+    "printable": true,
+    "type": "single",
+    "question": "Choose the conventional spelling for the word meaning “able to be seen”.",
+    "audioPrompt": "Choose the conventional spelling for the word meaning “able to be seen”.",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "visable",
+      "vissible",
+      "visible",
+      "vizible"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 40,
+    "correct": 2,
+    "explanation": "Visible uses the established -ible spelling.\nHint: Link it to vision and visibility.",
+    "structuredExplanation": {
+      "summary": "Visible uses the established -ible spelling.",
+      "hint": "Link it to vision and visibility."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6ly08-p-041",
+    "curriculumCode": "AC9E6LY08",
+    "bank": "practice",
+    "skill": "encoding selection",
+    "printable": true,
+    "type": "single",
+    "question": "Which spelling correctly completes “The weather caused a brief inter___tion to play”?",
+    "audioPrompt": "Which spelling correctly completes “The weather caused a brief inter___tion to play”?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "up",
+      "rupt",
+      "rup",
+      "rubt"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 41,
+    "correct": 1,
+    "explanation": "Interruption is built from interrupt + ion and retains rupt.\nHint: Think of interrupt.",
+    "structuredExplanation": {
+      "summary": "Interruption is built from interrupt + ion and retains rupt.",
+      "hint": "Think of interrupt."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6ly08-p-042",
+    "curriculumCode": "AC9E6LY08",
+    "bank": "practice",
+    "skill": "contextual self-correction",
+    "printable": true,
+    "type": "single",
+    "question": "A reader says refuse as the noun REF-yoos in “The council will refuse the request.” What is the best repair?",
+    "audioPrompt": "A reader says refuse as the noun REF-yoos in “The council will refuse the request.” What is the best repair?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "try the verb re-FYOOZ and reread the sentence",
+      "keep it because every letter was sounded",
+      "replace the word with rubbish",
+      "skip the rest of the sentence"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 42,
+    "correct": 0,
+    "explanation": "The grammar and meaning require the verb refuse, normally pronounced re-FYOOZ.\nHint: Use the word’s job in the sentence.",
+    "structuredExplanation": {
+      "summary": "The grammar and meaning require the verb refuse, normally pronounced re-FYOOZ.",
+      "hint": "Use the word’s job in the sentence."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6ly08-p-043",
+    "curriculumCode": "AC9E6LY08",
+    "bank": "practice",
+    "skill": "contextual self-correction",
+    "printable": true,
+    "type": "single",
+    "question": "In “The bass swam beneath the jetty,” a reader says bass like the low musical sound. What should the reader do?",
+    "audioPrompt": "In “The bass swam beneath the jetty,” a reader says bass like the low musical sound. What should the reader do?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "change jetty to guitar",
+      "reread bass to rhyme with mass because the context names a fish",
+      "keep the music pronunciation",
+      "spell the word base"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 43,
+    "correct": 1,
+    "explanation": "Context identifies the fish, so bass rhymes with mass here.\nHint: Use meaning to select between pronunciations of the same spelling.",
+    "structuredExplanation": {
+      "summary": "Context identifies the fish, so bass rhymes with mass here.",
+      "hint": "Use meaning to select between pronunciations of the same spelling."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6ly08-p-044",
+    "curriculumCode": "AC9E6LY08",
+    "bank": "practice",
+    "skill": "contextual self-correction",
+    "printable": true,
+    "type": "single",
+    "question": "A reader says “con-serve-AY-shun” for conservation. Which check is most useful?",
+    "audioPrompt": "A reader says “con-serve-AY-shun” for conservation. Which check is most useful?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "change the spelling to conservashun",
+      "sound each letter once and stop",
+      "remove the suffix",
+      "compare conserve, mark con-ser-VA-tion, then reread"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 44,
+    "correct": 3,
+    "explanation": "The word family and suffix support the conventional stress and pronunciation.\nHint: Use morphemes and stress together.",
+    "structuredExplanation": {
+      "summary": "The word family and suffix support the conventional stress and pronunciation.",
+      "hint": "Use morphemes and stress together."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6ly08-p-045",
+    "curriculumCode": "AC9E6LY08",
+    "bank": "practice",
+    "skill": "pronunciation variation",
+    "printable": true,
+    "type": "single",
+    "question": "Two speakers pronounce data differently but spell it data. Which conclusion is most accurate?",
+    "audioPrompt": "Two speakers pronounce data differently but spell it data. Which conclusion is most accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "one speaker must be careless",
+      "pronunciation never varies",
+      "the word must have two spellings",
+      "established accent variation can coexist with one conventional spelling"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 45,
+    "correct": 3,
+    "explanation": "English spelling can remain stable across accepted pronunciation variants.\nHint: Judge decoding knowledge without ranking accents.",
+    "structuredExplanation": {
+      "summary": "English spelling can remain stable across accepted pronunciation variants.",
+      "hint": "Judge decoding knowledge without ranking accents."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6ly08-p-046",
+    "curriculumCode": "AC9E6LY08",
+    "bank": "practice",
+    "skill": "pronunciation variation",
+    "printable": true,
+    "type": "single",
+    "question": "Which response respectfully handles a classmate’s established pronunciation of either that differs from yours?",
+    "audioPrompt": "Which response respectfully handles a classmate’s established pronunciation of either that differs from yours?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Call it wrong immediately.",
+      "Change the spelling to match your accent.",
+      "Ask whether the word fits the sentence and recognise accepted variation.",
+      "Refuse to discuss the word."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 46,
+    "correct": 2,
+    "explanation": "Meaning, conventional spelling and recognised variation matter more than enforcing one accent.\nHint: Different does not automatically mean incorrect.",
+    "structuredExplanation": {
+      "summary": "Meaning, conventional spelling and recognised variation matter more than enforcing one accent.",
+      "hint": "Different does not automatically mean incorrect."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6ly08-p-047",
+    "curriculumCode": "AC9E6LY08",
+    "bank": "practice",
+    "skill": "integrated decoding",
+    "printable": true,
+    "type": "single",
+    "question": "Read: “The archaeologist examined the fragile vessel.” Which strategy best supports archaeologist?",
+    "audioPrompt": "Read: “The archaeologist examined the fragile vessel.” Which strategy best supports archaeologist?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "pronounce ch as /ch/ and never revise",
+      "read only the first syllable",
+      "use archaeology + -ist, segment ar-chae-ol-o-gist, then blend",
+      "replace it with a shorter word without checking"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 47,
+    "correct": 2,
+    "explanation": "Morphology, syllables and flexible grapheme knowledge work together.\nHint: Use both word parts and pronounceable chunks.",
+    "structuredExplanation": {
+      "summary": "Morphology, syllables and flexible grapheme knowledge work together.",
+      "hint": "Use both word parts and pronounceable chunks."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6ly08-p-048",
+    "curriculumCode": "AC9E6LY08",
+    "bank": "practice",
+    "skill": "integrated encoding",
+    "printable": true,
+    "type": "single",
+    "question": "Which checking chain is strongest for spelling environmentally?",
+    "audioPrompt": "Which checking chain is strongest for spelling environmentally?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "write the first spelling that sounds close",
+      "spell each phoneme with one letter",
+      "remove all unstressed vowels",
+      "environment + al + ly; check syllables, morphemes and conventional spelling"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 48,
+    "correct": 3,
+    "explanation": "The morpheme chain preserves meaning and helps check vowels that may reduce in speech.\nHint: Build from the known base environment.",
+    "structuredExplanation": {
+      "summary": "The morpheme chain preserves meaning and helps check vowels that may reduce in speech.",
+      "hint": "Build from the known base environment."
+    },
+    "qualitySchema": "production-v1"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

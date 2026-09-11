@@ -38,6 +38,48 @@ QA:
 CONTENT STATUS: CONTENT VERIFIED
 
 ==================================================
+FINAL REMAINING-CODE BATCH — 2026-09-11
+==================================================
+
+CODE: AC9E6LA01
+STATUS: CONTENT VERIFIED
+RESEARCH USED: Year 6 research record confirming no direct IXL mapping, plus the established formality, audience, tone, authority and social-distance evidence.
+TOPIC PAGE: generic material replaced with a static lesson teaching the formality continuum, social distance, authority, modality, register, address, inclusive humour, respectful disagreement, dialect respect and context-specific evaluation; VERIFIED.
+CLASSROOM VIEW: fixed static explicit-teaching sequence, twelve guided examples, misconception check, assessment review and exit ticket added; VERIFIED.
+HOMEWORK/WORKSHEET: 12 independently authored printable written-response tasks added; VERIFIED.
+PRACTICE BANK: 0 legacy questions retained; 48 freshly re-authored; 48/48 VERIFIED.
+TEST BANK: 0 legacy questions retained; 16 separate freshly re-authored; 16/16 VERIFIED.
+QA: duplicates PASS; scope PASS; answers PASS; concept coverage PASS; originality PASS; independent review PASS.
+CONTENT STATUS: CONTENT VERIFIED.
+
+CODE: AC9E6LY08
+STATUS: CONTENT VERIFIED
+RESEARCH USED: research master phonics progression and explicit NOT-MAPPED IXL/Khan status; no unsupported external mapping claimed.
+TOPIC PAGE: generic material replaced with phoneme–grapheme alternatives, ch/ough/vowel-team patterns, complex /sh/ spellings, multisyllabic segmentation, stress, schwa, morphology support, clusters, pronunciation variation and self-correction; VERIFIED.
+CLASSROOM VIEW: fixed static five-step decoding/encoding model, twelve guided examples, misconception check, assessment review and exit ticket added; VERIFIED.
+HOMEWORK/WORKSHEET: 12 independently authored printable decoding, encoding and explanation tasks added; VERIFIED.
+PRACTICE BANK: 0 legacy questions retained; 48 freshly re-authored; 48/48 VERIFIED.
+TEST BANK: 0 legacy questions retained; 16 separate freshly re-authored; 16/16 VERIFIED.
+QA: duplicates PASS; scope PASS; answers PASS; concept coverage PASS; originality PASS; independent review PASS.
+CONTENT STATUS: CONTENT VERIFIED.
+
+CODE: AC9E6LY09
+STATUS: CONTENT VERIFIED
+RESEARCH USED: all 13 mapped IXL affix/root worked examples recorded in the research master, with Australian Curriculum spelling-production extension.
+TOPIC PAGE: generic material replaced with prefixes, negative-prefix forms, suffixes, -able/-ible, boundary changes, Greek/Latin roots, technical-word construction and verification; VERIFIED.
+CLASSROOM VIEW: fixed static morpheme-to-spelling model, twelve guided examples, misconception check, assessment review and exit ticket added; VERIFIED.
+HOMEWORK/WORKSHEET: 12 independently authored printable morphology, spelling and technical-word tasks added; VERIFIED.
+PRACTICE BANK: 0 legacy questions retained; 48 freshly re-authored; 48/48 VERIFIED.
+TEST BANK: 0 legacy questions retained; 16 separate freshly re-authored; 16/16 VERIFIED.
+QA: duplicates PASS; scope PASS; answers PASS; concept coverage PASS; originality PASS; independent review PASS.
+CONTENT STATUS: CONTENT VERIFIED.
+
+YEAR 6 ENGLISH AUTHORING STATUS:
+- All 23 curriculum codes now have 48 Practice questions and 16 separate Test questions recorded as CONTENT VERIFIED in the authoring masters.
+- The review-aware production ledger records this final three-code batch. The Year 6 English badge remains off until the earlier 20 codes are independently entered into that ledger.
+- Independent reviewed-artifact identity for AC9E6LA01, AC9E6LY08 and AC9E6LY09: d7968a44b2571b606d38d0bd3299aff35910ee15a66eca4b463d91c3ade64419.
+
+==================================================
 CODE: AC9E6LE03
 STATUS: CONTENT VERIFIED
 ==================================================

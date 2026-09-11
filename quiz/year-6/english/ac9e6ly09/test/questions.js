@@ -1,484 +1,452 @@
 "use strict";
 window.skillrTestQuestions = [
   {
-    "id": "AC9E6LY09-T-001",
+    "id": "ac9e6ly09-t-001",
     "curriculumCode": "AC9E6LY09",
     "bank": "test",
-    "stage": "verify",
-    "skill": "read context",
+    "skill": "prefix selection",
     "printable": true,
     "type": "single",
-    "question": "A community radio segment includes “does meaning fit?”. Which description best fits this wording?",
-    "audioPrompt": "A community radio segment includes “does meaning fit?”. Which description best fits this wording?",
+    "question": "Which word means “to understand something wrongly”?",
+    "audioPrompt": "Which word means “to understand something wrongly”?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "bio",
-      "geo",
-      "spect",
-      "Read context"
+      "reinterpret",
+      "misinterpret",
+      "noninterpret",
+      "uninterpret"
     ],
-    "correct": 3,
-    "explanation": "The wording best matches Read context.\nHint: Identify the language choice first, then check its effect in this context.",
-    "structuredExplanation": {
-      "summary": "The wording best matches Read context.",
-      "hint": "Identify the language choice first, then check its effect in this context."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LY09-T-002",
-    "curriculumCode": "AC9E6LY09",
-    "bank": "test",
-    "stage": "verify",
-    "skill": "etymology",
-    "printable": true,
-    "type": "single",
-    "question": "In a wildlife-centre report, which term matches this meaning: “history and origin of a word”?",
-    "audioPrompt": "In a wildlife-centre report, which term matches this meaning: “history and origin of a word”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "etymology",
-      "root",
-      "morpheme",
-      "It does not match the evidence in the example."
-    ],
-    "correct": 0,
-    "explanation": "etymology is the precise term for history and origin of a word.\nHint: Distinguish closely related terms by their definitions.",
-    "structuredExplanation": {
-      "summary": "etymology is the precise term for history and origin of a word.",
-      "hint": "Distinguish closely related terms by their definitions."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LY09-T-003",
-    "curriculumCode": "AC9E6LY09",
-    "bank": "test",
-    "stage": "verify",
-    "skill": "word origins morphemes and unfamiliar words",
-    "printable": true,
-    "type": "single",
-    "question": "For a regional youth forum, what does the root bio commonly relate to?",
-    "audioPrompt": "For a regional youth forum, what does the root bio commonly relate to?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "light",
-      "life",
-      "sound",
-      "distance"
-    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 1,
     "correct": 1,
-    "explanation": "“life” is supported by the language evidence and purpose of the text.\nHint: Morphological analysis supports spelling even when pronunciation changes, such as sign–signal or magic–magician.",
+    "explanation": "Mis- means wrongly, so misinterpret means understand or explain wrongly.\nHint: Match the prefix to “wrongly”.",
     "structuredExplanation": {
-      "summary": "“life” is supported by the language evidence and purpose of the text.",
-      "hint": "Morphological analysis supports spelling even when pronunciation changes, such as sign–signal or magic–magician."
+      "summary": "Mis- means wrongly, so misinterpret means understand or explain wrongly.",
+      "hint": "Match the prefix to “wrongly”."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "AC9E6LY09-T-004",
+    "id": "ac9e6ly09-t-002",
     "curriculumCode": "AC9E6LY09",
     "bank": "test",
-    "stage": "verify",
-    "skill": "independent misconception check",
+    "skill": "negative prefix",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a coastal-monitoring update says, “Every apparent string is a true morpheme”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a coastal-monitoring update says, “Every apparent string is a true morpheme”. Which response is most accurate?",
+    "question": "Choose the conventional spelling meaning “not responsible”.",
+    "audioPrompt": "Choose the conventional spelling meaning “not responsible”.",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Root clue treated as full definition",
-      "Every apparent string is a true morpheme",
-      "Check word family and source.",
-      "Pronunciation change hides relationship"
+      "inresponsible",
+      "irresponsible",
+      "unresponsible",
+      "ilresponsible"
     ],
-    "correct": 2,
-    "explanation": "Check word family and source. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
-    "structuredExplanation": {
-      "summary": "Check word family and source. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LY09-T-005",
-    "curriculumCode": "AC9E6LY09",
-    "bank": "test",
-    "stage": "verify",
-    "skill": "infer",
-    "printable": true,
-    "type": "single",
-    "question": "A heritage trail guide includes “combine morpheme meanings”. Which description best fits this wording?",
-    "audioPrompt": "A heritage trail guide includes “combine morpheme meanings”. Which description best fits this wording?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "bio",
-      "geo",
-      "spect",
-      "Infer"
-    ],
-    "correct": 3,
-    "explanation": "The wording best matches Infer.\nHint: Identify the language choice first, then check its effect in this context.",
-    "structuredExplanation": {
-      "summary": "The wording best matches Infer.",
-      "hint": "Identify the language choice first, then check its effect in this context."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LY09-T-006",
-    "curriculumCode": "AC9E6LY09",
-    "bank": "test",
-    "stage": "verify",
-    "skill": "root",
-    "printable": true,
-    "type": "single",
-    "question": "In a public-transport survey, which term matches this meaning: “core historical or meaning element”?",
-    "audioPrompt": "In a public-transport survey, which term matches this meaning: “core historical or meaning element”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "root",
-      "etymology",
-      "morpheme",
-      "It does not match the evidence in the example."
-    ],
-    "correct": 0,
-    "explanation": "root is the precise term for core historical or meaning element.\nHint: Distinguish closely related terms by their definitions.",
-    "structuredExplanation": {
-      "summary": "root is the precise term for core historical or meaning element.",
-      "hint": "Distinguish closely related terms by their definitions."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LY09-T-007",
-    "curriculumCode": "AC9E6LY09",
-    "bank": "test",
-    "stage": "verify",
-    "skill": "word origins morphemes and unfamiliar words",
-    "printable": true,
-    "type": "single",
-    "question": "For a festival review, what does the root bio commonly relate to?",
-    "audioPrompt": "For a festival review, what does the root bio commonly relate to?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "light",
-      "life",
-      "sound",
-      "distance"
-    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 2,
     "correct": 1,
-    "explanation": "“life” is supported by the language evidence and purpose of the text.\nHint: Morphological analysis supports spelling even when pronunciation changes, such as sign–signal or magic–magician.",
+    "explanation": "Irresponsible is the conventional negative form of responsible.\nHint: Negative prefix forms are not freely interchangeable.",
     "structuredExplanation": {
-      "summary": "“life” is supported by the language evidence and purpose of the text.",
-      "hint": "Morphological analysis supports spelling even when pronunciation changes, such as sign–signal or magic–magician."
+      "summary": "Irresponsible is the conventional negative form of responsible.",
+      "hint": "Negative prefix forms are not freely interchangeable."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "AC9E6LY09-T-008",
+    "id": "ac9e6ly09-t-003",
     "curriculumCode": "AC9E6LY09",
     "bank": "test",
-    "stage": "verify",
-    "skill": "independent misconception check",
+    "skill": "-able/-ible",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a emergency-preparedness talk says, “Every apparent string is a true morpheme”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a emergency-preparedness talk says, “Every apparent string is a true morpheme”. Which response is most accurate?",
+    "question": "Which spelling correctly completes “The old chair was surprisingly ___”?",
+    "audioPrompt": "Which spelling correctly completes “The old chair was surprisingly ___”?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Root clue treated as full definition",
-      "Every apparent string is a true morpheme",
-      "Check word family and source.",
-      "Pronunciation change hides relationship"
+      "comfortible",
+      "comfortable",
+      "comforteble",
+      "comftorable"
     ],
-    "correct": 2,
-    "explanation": "Check word family and source. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
-    "structuredExplanation": {
-      "summary": "Check word family and source. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LY09-T-009",
-    "curriculumCode": "AC9E6LY09",
-    "bank": "test",
-    "stage": "apply",
-    "skill": "verify",
-    "printable": true,
-    "type": "single",
-    "question": "A water-saving brochure includes “dictionary or trusted subject source”. Which description best fits this wording?",
-    "audioPrompt": "A water-saving brochure includes “dictionary or trusted subject source”. Which description best fits this wording?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "bio",
-      "geo",
-      "spect",
-      "Verify"
-    ],
-    "correct": 3,
-    "explanation": "The wording best matches Verify.\nHint: Identify the language choice first, then check its effect in this context.",
-    "structuredExplanation": {
-      "summary": "The wording best matches Verify.",
-      "hint": "Identify the language choice first, then check its effect in this context."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LY09-T-010",
-    "curriculumCode": "AC9E6LY09",
-    "bank": "test",
-    "stage": "apply",
-    "skill": "morpheme",
-    "printable": true,
-    "type": "single",
-    "question": "In a local council submission, which term matches this meaning: “smallest meaningful language unit”?",
-    "audioPrompt": "In a local council submission, which term matches this meaning: “smallest meaningful language unit”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "morpheme",
-      "etymology",
-      "root",
-      "It does not match the evidence in the example."
-    ],
-    "correct": 0,
-    "explanation": "morpheme is the precise term for smallest meaningful language unit.\nHint: Distinguish closely related terms by their definitions.",
-    "structuredExplanation": {
-      "summary": "morpheme is the precise term for smallest meaningful language unit.",
-      "hint": "Distinguish closely related terms by their definitions."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LY09-T-011",
-    "curriculumCode": "AC9E6LY09",
-    "bank": "test",
-    "stage": "apply",
-    "skill": "word origins morphemes and unfamiliar words",
-    "printable": true,
-    "type": "single",
-    "question": "For a marine-research diary, what does the root bio commonly relate to?",
-    "audioPrompt": "For a marine-research diary, what does the root bio commonly relate to?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "light",
-      "life",
-      "sound",
-      "distance"
-    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 3,
     "correct": 1,
-    "explanation": "“life” is supported by the language evidence and purpose of the text.\nHint: Morphological analysis supports spelling even when pronunciation changes, such as sign–signal or magic–magician.",
+    "explanation": "Comfortable is conventionally spelled with the clear base comfort and -able.\nHint: Identify the base that remains visible.",
     "structuredExplanation": {
-      "summary": "“life” is supported by the language evidence and purpose of the text.",
-      "hint": "Morphological analysis supports spelling even when pronunciation changes, such as sign–signal or magic–magician."
+      "summary": "Comfortable is conventionally spelled with the clear base comfort and -able.",
+      "hint": "Identify the base that remains visible."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "AC9E6LY09-T-012",
+    "id": "ac9e6ly09-t-004",
     "curriculumCode": "AC9E6LY09",
     "bank": "test",
-    "stage": "apply",
-    "skill": "independent misconception check",
+    "skill": "-able/-ible",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a farmers market profile says, “Every apparent string is a true morpheme”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a farmers market profile says, “Every apparent string is a true morpheme”. Which response is most accurate?",
+    "question": "Choose the conventional spelling for “able to be divided”.",
+    "audioPrompt": "Choose the conventional spelling for “able to be divided”.",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Root clue treated as full definition",
-      "Every apparent string is a true morpheme",
-      "Check word family and source.",
-      "Pronunciation change hides relationship"
+      "dividable",
+      "divisible",
+      "divideable",
+      "divisable"
     ],
-    "correct": 2,
-    "explanation": "Check word family and source. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
-    "structuredExplanation": {
-      "summary": "Check word family and source. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LY09-T-013",
-    "curriculumCode": "AC9E6LY09",
-    "bank": "test",
-    "stage": "apply",
-    "skill": "read context",
-    "printable": true,
-    "type": "single",
-    "question": "A astronomy exhibition includes “does meaning fit?”. Which description best fits this wording?",
-    "audioPrompt": "A astronomy exhibition includes “does meaning fit?”. Which description best fits this wording?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "bio",
-      "geo",
-      "spect",
-      "Read context"
-    ],
-    "correct": 3,
-    "explanation": "The wording best matches Read context.\nHint: Identify the language choice first, then check its effect in this context.",
-    "structuredExplanation": {
-      "summary": "The wording best matches Read context.",
-      "hint": "Identify the language choice first, then check its effect in this context."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LY09-T-014",
-    "curriculumCode": "AC9E6LY09",
-    "bank": "test",
-    "stage": "apply",
-    "skill": "etymology",
-    "printable": true,
-    "type": "single",
-    "question": "In a river-restoration update, which term matches this meaning: “history and origin of a word”?",
-    "audioPrompt": "In a river-restoration update, which term matches this meaning: “history and origin of a word”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "etymology",
-      "root",
-      "morpheme",
-      "It does not match the evidence in the example."
-    ],
-    "correct": 0,
-    "explanation": "etymology is the precise term for history and origin of a word.\nHint: Distinguish closely related terms by their definitions.",
-    "structuredExplanation": {
-      "summary": "etymology is the precise term for history and origin of a word.",
-      "hint": "Distinguish closely related terms by their definitions."
-    },
-    "qualitySchema": "skillr-authored-v1"
-  },
-  {
-    "id": "AC9E6LY09-T-015",
-    "curriculumCode": "AC9E6LY09",
-    "bank": "test",
-    "stage": "apply",
-    "skill": "word origins morphemes and unfamiliar words",
-    "printable": true,
-    "type": "single",
-    "question": "For a cycling-safety campaign, what does the root bio commonly relate to?",
-    "audioPrompt": "For a cycling-safety campaign, what does the root bio commonly relate to?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "light",
-      "life",
-      "sound",
-      "distance"
-    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 4,
     "correct": 1,
-    "explanation": "“life” is supported by the language evidence and purpose of the text.\nHint: Morphological analysis supports spelling even when pronunciation changes, such as sign–signal or magic–magician.",
+    "explanation": "Divisible is the established spelling with -ible.\nHint: Use morphology as evidence, then recall or verify the conventional form.",
     "structuredExplanation": {
-      "summary": "“life” is supported by the language evidence and purpose of the text.",
-      "hint": "Morphological analysis supports spelling even when pronunciation changes, such as sign–signal or magic–magician."
+      "summary": "Divisible is the established spelling with -ible.",
+      "hint": "Use morphology as evidence, then recall or verify the conventional form."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "production-v1"
   },
   {
-    "id": "AC9E6LY09-T-016",
+    "id": "ac9e6ly09-t-005",
     "curriculumCode": "AC9E6LY09",
     "bank": "test",
-    "stage": "apply",
-    "skill": "independent misconception check",
+    "skill": "final-e change",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a neighbourhood history podcast says, “Every apparent string is a true morpheme”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a neighbourhood history podcast says, “Every apparent string is a true morpheme”. Which response is most accurate?",
+    "question": "Complete the word sum: admire + -ation = ___.",
+    "audioPrompt": "Complete the word sum: admire + -ation = ___.",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Root clue treated as full definition",
-      "Every apparent string is a true morpheme",
-      "Check word family and source.",
-      "Pronunciation change hides relationship"
+      "admireation",
+      "admirration",
+      "admiration",
+      "admieration"
     ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 5,
     "correct": 2,
-    "explanation": "Check word family and source. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "explanation": "The final e is dropped before -ation, producing admiration.\nHint: Remove the final silent e before the vowel suffix.",
     "structuredExplanation": {
-      "summary": "Check word family and source. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "The final e is dropped before -ation, producing admiration.",
+      "hint": "Remove the final silent e before the vowel suffix."
     },
-    "qualitySchema": "skillr-authored-v1"
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6ly09-t-006",
+    "curriculumCode": "AC9E6LY09",
+    "bank": "test",
+    "skill": "y-to-i",
+    "printable": true,
+    "type": "single",
+    "question": "Which word is correctly derived from ready + -ness?",
+    "audioPrompt": "Which word is correctly derived from ready + -ness?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "readyness",
+      "readieness",
+      "rediness",
+      "readiness"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 6,
+    "correct": 3,
+    "explanation": "The consonant + y changes to i before -ness, producing readiness.\nHint: Apply the y-to-i generalisation at the suffix boundary.",
+    "structuredExplanation": {
+      "summary": "The consonant + y changes to i before -ness, producing readiness.",
+      "hint": "Apply the y-to-i generalisation at the suffix boundary."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6ly09-t-007",
+    "curriculumCode": "AC9E6LY09",
+    "bank": "test",
+    "skill": "consonant doubling",
+    "printable": true,
+    "type": "single",
+    "question": "Choose the correct past-tense form of occur.",
+    "audioPrompt": "Choose the correct past-tense form of occur.",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "occured",
+      "ocurred",
+      "occurred",
+      "occuried"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 7,
+    "correct": 2,
+    "explanation": "The final r is doubled before -ed in occurred.\nHint: The final syllable is stressed and ends with a short vowel plus consonant.",
+    "structuredExplanation": {
+      "summary": "The final r is doubled before -ed in occurred.",
+      "hint": "The final syllable is stressed and ends with a short vowel plus consonant."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6ly09-t-008",
+    "curriculumCode": "AC9E6LY09",
+    "bank": "test",
+    "skill": "unchanged join",
+    "printable": true,
+    "type": "single",
+    "question": "Which word sum requires no change to the base?",
+    "audioPrompt": "Which word sum requires no change to the base?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "dark + ness = darkness",
+      "beauty + ful = beautiful",
+      "permit + ed = permitted",
+      "use + age = usage"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 8,
+    "correct": 0,
+    "explanation": "Darkness keeps every letter of dark when -ness is added.\nHint: Compare the base spelling with each completed word.",
+    "structuredExplanation": {
+      "summary": "Darkness keeps every letter of dark when -ness is added.",
+      "hint": "Compare the base spelling with each completed word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6ly09-t-009",
+    "curriculumCode": "AC9E6LY09",
+    "bank": "test",
+    "skill": "greek root",
+    "printable": true,
+    "type": "single",
+    "question": "Which technical word contains a root meaning “sound”?",
+    "audioPrompt": "Which technical word contains a root meaning “sound”?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "phonology",
+      "cardiology",
+      "meteorology",
+      "neurology"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 9,
+    "correct": 0,
+    "explanation": "The Greek root phon relates to sound, so phonology is the study of speech sounds or sound systems.\nHint: Connect the root with telephone and phonics.",
+    "structuredExplanation": {
+      "summary": "The Greek root phon relates to sound, so phonology is the study of speech sounds or sound systems.",
+      "hint": "Connect the root with telephone and phonics."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6ly09-t-010",
+    "curriculumCode": "AC9E6LY09",
+    "bank": "test",
+    "skill": "greek root construction",
+    "printable": true,
+    "type": "single",
+    "question": "Which word best matches “an instrument for viewing very small objects”?",
+    "audioPrompt": "Which word best matches “an instrument for viewing very small objects”?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "microscope",
+      "barometer",
+      "hygrometer",
+      "seismometer"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 10,
+    "correct": 0,
+    "explanation": "Micro means small and scope relates to viewing, forming microscope.\nHint: Combine the roots matching small and view.",
+    "structuredExplanation": {
+      "summary": "Micro means small and scope relates to viewing, forming microscope.",
+      "hint": "Combine the roots matching small and view."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6ly09-t-011",
+    "curriculumCode": "AC9E6LY09",
+    "bank": "test",
+    "skill": "latin root",
+    "printable": true,
+    "type": "single",
+    "question": "What does the root tract contribute to extraction and tractor?",
+    "audioPrompt": "What does the root tract contribute to extraction and tractor?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "pull or draw",
+      "write",
+      "water",
+      "hear"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 11,
+    "correct": 0,
+    "explanation": "The Latin root tract relates to pulling or drawing.\nHint: Think about what a tractor does.",
+    "structuredExplanation": {
+      "summary": "The Latin root tract relates to pulling or drawing.",
+      "hint": "Think about what a tractor does."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6ly09-t-012",
+    "curriculumCode": "AC9E6LY09",
+    "bank": "test",
+    "skill": "root vs base",
+    "printable": true,
+    "type": "single",
+    "question": "Which statement about vis in visible is most accurate?",
+    "audioPrompt": "Which statement about vis in visible is most accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "It is a standalone English base meaning sight",
+      "It is a negative prefix",
+      "It is a suffix meaning able to be",
+      "It is a root related to seeing that does not usually stand alone in English"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 12,
+    "correct": 3,
+    "explanation": "Vis is a Latin root related to seeing; it carries meaning but is not normally a standalone English word.\nHint: Separate the root from the suffix -ible.",
+    "structuredExplanation": {
+      "summary": "Vis is a Latin root related to seeing; it carries meaning but is not normally a standalone English word.",
+      "hint": "Separate the root from the suffix -ible."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6ly09-t-013",
+    "curriculumCode": "AC9E6LY09",
+    "bank": "test",
+    "skill": "known-word analogy",
+    "printable": true,
+    "type": "single",
+    "question": "Which known relative gives the strongest clue for spelling maintenance?",
+    "audioPrompt": "Which known relative gives the strongest clue for spelling maintenance?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "main",
+      "tenant",
+      "maintain",
+      "mountain"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 13,
+    "correct": 2,
+    "explanation": "Maintain is the direct word-family relative of maintenance.\nHint: Use meaning and morphology, not a chance sound match.",
+    "structuredExplanation": {
+      "summary": "Maintain is the direct word-family relative of maintenance.",
+      "hint": "Use meaning and morphology, not a chance sound match."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6ly09-t-014",
+    "curriculumCode": "AC9E6LY09",
+    "bank": "test",
+    "skill": "technical-word construction",
+    "printable": true,
+    "type": "single",
+    "question": "Which segmentation best supports the meaning of hydroelectric?",
+    "audioPrompt": "Which segmentation best supports the meaning of hydroelectric?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "hy + droe + lectric",
+      "hydr + oelect + ric",
+      "hydroe + lectric",
+      "hydro + electric"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 14,
+    "correct": 3,
+    "explanation": "Hydro relates to water and electric retains its established form, so hydro + electric is the useful analysis.\nHint: Divide at meaningful technical elements.",
+    "structuredExplanation": {
+      "summary": "Hydro relates to water and electric retains its established form, so hydro + electric is the useful analysis.",
+      "hint": "Divide at meaningful technical elements."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6ly09-t-015",
+    "curriculumCode": "AC9E6LY09",
+    "bank": "test",
+    "skill": "spelling edit",
+    "printable": true,
+    "type": "single",
+    "question": "Which edit correctly repairs the phrase “correspondance filed carelesly”?",
+    "audioPrompt": "Which edit correctly repairs the phrase “correspondance filed carelesly”?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "correspondance filed carelessley",
+      "correspondense filed carelessly",
+      "correspondence filed carelessly",
+      "correspondence filed carelesly"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 15,
+    "correct": 2,
+    "explanation": "Correspondence and carelessly are the conventional spellings; carelessly keeps careless before -ly.\nHint: Check each derived word against its word family.",
+    "structuredExplanation": {
+      "summary": "Correspondence and carelessly are the conventional spellings; carelessly keeps careless before -ly.",
+      "hint": "Check each derived word against its word family."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e6ly09-t-016",
+    "curriculumCode": "AC9E6LY09",
+    "bank": "test",
+    "skill": "dictionary verification",
+    "printable": true,
+    "type": "single",
+    "question": "A student builds minuscule from its meaning but is unsure whether it begins mini- or minu-. What is the best next step?",
+    "audioPrompt": "A student builds minuscule from its meaning but is unsure whether it begins mini- or minu-. What is the best next step?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Choose mini- because it is a familiar prefix",
+      "Use both spellings in the report",
+      "Remove the uncertain syllable",
+      "Check a reputable dictionary for spelling, meaning and origin"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 16,
+    "correct": 3,
+    "explanation": "Minuscule is not reliably built from the modern prefix mini-. A dictionary confirms its conventional spelling, meaning and origin.\nHint: When a familiar-looking analysis may be false, verify it.",
+    "structuredExplanation": {
+      "summary": "Minuscule is not reliably built from the modern prefix mini-. A dictionary confirms its conventional spelling, meaning and origin.",
+      "hint": "When a familiar-looking analysis may be false, verify it."
+    },
+    "qualitySchema": "production-v1"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;
