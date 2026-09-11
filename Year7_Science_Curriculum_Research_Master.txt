@@ -4,13 +4,13 @@ Last updated: 2026-09-11
 
 PROJECT_STATUS: IN_PROGRESS
 CURRENT_PHASE: RESEARCH
-CURRENT_CODE: AC9S7I03
-LAST_COMPLETED_CODE: AC9S7I02
-NEXT_CODE: AC9S7I04
+CURRENT_CODE: AC9S7I07
+LAST_COMPLETED_CODE: AC9S7I06
+NEXT_CODE: AC9S7I08
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
-BATCH: 3 COMPLETED (LATEST: AC9S7H03–AC9S7I02)
+BATCH: 4 COMPLETED (LATEST: AC9S7I03–AC9S7I06)
 
 Research protocol
 - Primary authority: Australian Curriculum v9 (ACARA).
@@ -417,3 +417,151 @@ BATCH 3 CHECKPOINT
 - IXL and Khan Academy were checked in authenticated single-tab sessions; ABC Education, ACARA, CSIRO and AIATSIS evidence was incorporated where mapped.
 - No SkillrHub content has been re-authored during this research phase.
 - Next batch: AC9S7I03, AC9S7I04, AC9S7I05 and AC9S7I06.
+
+
+================================================================
+AC9S7I03 — AUTHORING-READY
+================================================================
+Curriculum descriptor
+- Select and use equipment to generate and record data with precision, using digital tools as appropriate.
+
+Curriculum focus and boundary
+- Equipment must be selected for the quantity, expected range, capacity, resolution, safety and setting. “Digital” does not automatically mean accurate or appropriate.
+- Students must generate and record data, not only name apparatus. Recorded precision must match instrument resolution and include quantity, unit and uncertainty where appropriate.
+
+Evidence collected
+- Australian Curriculum v9 descriptor and elaborations confirmed against the current Year 7 Science alignment. Elaborations include choosing thermometers for an expected range, using digital stopwatches/scales for precision, constructing data tables/spreadsheets/graphic organisers, using standard units/conversions, sensors for abiotic factors and identification technologies in fieldwork.
+- IXL Australia, authenticated single-tab interactive sampling:
+  - A.2 “Identify laboratory tools” presented visual apparatus recognition; sampled task asked learners to select a round-bottom flask from four images.
+  - A.3 “Laboratory safety equipment” is a prerequisite mapping.
+  - IXL supports apparatus recognition but not enough decision-making about range, resolution, calibration, digital logging or recording conventions: PARTIAL-MAPPING.
+- Khan Academy, authenticated:
+  - “Controlled experiments” identifies observations as experimental data and models systematic collection across control and experimental groups.
+  - It supports variables, replication and data generation but is not an equipment-selection or precision lesson and has no AC9 mapping.
+- Additional trusted sources:
+  - Australian measurement principles require traceable units, suitable instruments and attention to measurement uncertainty.
+  - Science Buddies data guidance reinforces labelled tables, units, repeated trials, consistent units and using spreadsheets to retain and process raw data.
+- ABC Education: relevant classroom investigations are suitable Australian contexts for tool choice and data collection; no single direct code mapping was identified.
+
+Authoring blueprint
+- Selection reasoning: quantity -> expected range/capacity -> smallest useful division/resolution -> safety/material compatibility -> field/lab constraints.
+- Precision is repeatability/detail; accuracy is closeness to an accepted/reference value. Calibration, zero error, parallax, reaction time, sensor placement and sampling rate can affect results.
+- Digital tools: stopwatches, balances, temperature/light/pH/soil-moisture probes, data loggers, spreadsheets and field-identification apps. Require setup, calibration, battery/sampling checks and verification of automated outputs.
+- Recording standards: raw values retained; headings use quantity and unit; consistent decimal places justified by the instrument; observations distinguished from measurements; missing/anomalous readings flagged, not silently altered.
+- Practice coverage: identify apparatus; compare instruments by range/resolution; read analogue scales; choose digital sensor/sampling interval; convert units; detect false precision; build a raw-data table; verify an app identification.
+- Test coverage: unfamiliar equipment specifications, a field sensor scenario, an analogue reading, digital-logging limitation, table correction and a justified equipment choice.
+- Misconceptions: more decimal places mean greater accuracy; largest-capacity instrument is safest/best; digital readings cannot be wrong; precision and accuracy are synonyms; units belong in every data cell rather than the heading.
+- Feedback must name the selection criterion or measurement error and show the corrected recording convention.
+Status: AUTHORING-READY.
+
+================================================================
+AC9S7I04 — AUTHORING-READY
+================================================================
+Curriculum descriptor
+- Select and construct appropriate representations, including tables, graphs, models and mathematical relationships, to organise and process data and information.
+
+Curriculum focus and boundary
+- Students must choose and construct a representation for purpose and data type, then use it to organise or process information.
+- A decorative diagram or automatically generated chart is insufficient unless variables, labels, scale, structure and scientific meaning are appropriate.
+
+Evidence collected
+- Australian Curriculum v9 descriptor confirmed. Elaborations include spreadsheets, food webs, dichotomous keys, timelines, periodic relationships, secondary data and mathematical relationships.
+- IXL Australia, authenticated single-tab interactive sampling:
+  - I.2 “Use tables and graphs to identify patterns about kinetic energy” presented a table of penguin mass, speed and kinetic energy, then asked three explicit comparisons while holding speed constant.
+  - The item models clear quantity/unit headings and extracting a relationship by controlled comparison.
+  - Other partial mappings: V.1–V.4 food chains/webs, N classification tools, CC climate data, DD Earth–Sun–Moon models. No single IXL skill spans the descriptor: PARTIAL-MAPPING.
+- Khan Academy:
+  - Controlled-experiment and scientific-method resources support representing IV/DV results and using a model’s prediction, but no direct AC9 representation-construction sequence was identified.
+- Additional trusted sources:
+  - Science Buddies advises clear table/graph labels and units, independent variable on the x-axis and dependent variable on the y-axis; bar/column displays suit categories, while line/scatter displays suit numerical change or relationships.
+  - It also emphasises that graphs are analytical tools, not only presentation products.
+- ABC Education/CSIRO: Australian ecosystem, astronomical and environmental datasets provide suitable contexts; source and model limitations must be retained.
+
+Authoring blueprint
+- Representation-purpose matches: raw table for exact data; column graph for categorical comparison; line graph for continuous ordered change; scatter plot for relationship between paired numerical variables; food web for transfers; dichotomous key for identification; timeline for sequence; equation/rule for quantified relationship.
+- Construction checklist: descriptive title; labelled axes/columns with units; even, non-misleading scale; independent variable first/x-axis; dependent variable y-axis; legend when needed; points plotted accurately; model conventions explained.
+- Processing includes sorting, filtering, converting units, calculating totals/means/ranges, applying a simple relationship, and transforming raw values without losing the originals.
+- Models select relevant features and omit others; students must name at least one limitation.
+- Practice coverage: choose representation; repair labels/scales; construct table/graph; translate table-to-graph; build food web/key/timeline; use spreadsheet formula; interpret equation; critique model.
+- Test coverage: novel mixed datasets, one constructed graph/table, a non-graph representation, mathematical relationship, misleading display and model-limitation item.
+- Misconceptions: any graph type works; line graphs suit all data; joining points proves continuity; models are exact copies; changing scale changes the data; spreadsheet output is automatically valid.
+- Feedback must link representation choice to variable type and intended comparison.
+Status: AUTHORING-READY.
+
+================================================================
+AC9S7I05 — AUTHORING-READY
+================================================================
+Curriculum descriptor
+- Analyse data and information to describe patterns, trends and relationships and identify anomalies.
+
+Curriculum focus and boundary
+- Students move beyond reading individual values to evidence-based descriptions of overall behaviour, relationships and exceptions.
+- They should quantify where possible, distinguish pattern/trend/relationship, identify anomalies without automatically deleting them, and avoid causal claims unsupported by design.
+
+Evidence collected
+- Australian Curriculum v9 descriptor confirmed. Current elaborations include predator–prey cycles, qualitative mass/gravity relationships and anomaly identification.
+- IXL Australia, authenticated single-tab interactive sampling:
+  - I.2 kinetic-energy task used a controlled table comparison: penguins had masses 6 kg and 12 kg at the same 2 m/s, with kinetic energies 12 J and 24 J. The structure reveals a direct proportional pattern between mass and kinetic energy when speed is fixed.
+  - Closest mappings also include V.3/V.4 food-web/population change, CC climate data, E.2 conservation graphs and X.1 resource-use claims.
+  - IXL supplies strong structured pattern items, but authored work must add noisy datasets, trend description and anomaly decisions: PARTIAL-MAPPING.
+- Khan Academy:
+  - “Controlled experiments” explains that repeated trials and larger samples reduce the risk of conclusions driven by random variation.
+  - Its coral-bleaching example tests a predicted natural pattern against temperature data, showing how models and observations support a relationship without relying on one isolated value.
+- Additional trusted sources:
+  - Science Buddies recommends reviewing completeness, calculating suitable averages, graphing trials and checking mistakes; it defines outliers as unusual points that may reflect error, data entry, malfunction or a real rare event.
+  - Tables and graphs can expose trends and anomalies; anomalies should be investigated against method and raw data before exclusion.
+- ABC Education/CSIRO: suitable contexts include predator–prey numbers, rainfall/temperature, tides, dissolving time, plant growth and ecosystem monitoring.
+
+Authoring blueprint
+- Pattern: repeated arrangement/regularity; trend: overall direction through ordered data; relationship: how one variable changes with another; anomaly: point inconsistent with the overall pattern.
+- Analysis sentence: identify variables -> state direction/form -> support with two or more values/range -> identify anomaly/qualification -> avoid unsupported causation.
+- Use mean/range only where appropriate for Year 7; preserve raw repeats so spread is visible.
+- Anomaly decision sequence: check transcription/unit -> instrument/method -> repeat/compare -> determine plausible rare event -> retain, flag or justify exclusion.
+- Practice coverage: describe increasing/decreasing/cyclic/no trend; compare groups; calculate mean/range; find anomalies; use graph and table; distinguish correlation/causation; predict cautiously; write evidence statement.
+- Test coverage: unfamiliar dataset with noise, time trend, paired-variable relationship, repeated trials, anomaly requiring judgment and conflicting representations.
+- Misconceptions: one high value is a trend; any unusual point should be removed; averages reveal every feature; correlation proves causation; flat sections mean no measurement variation.
+- Feedback must quote/compute the evidence and explain whether the anomaly weakens, changes or merely qualifies the pattern.
+Status: AUTHORING-READY.
+
+================================================================
+AC9S7I06 — AUTHORING-READY
+================================================================
+Curriculum descriptor
+- Analyse methods, conclusions and claims for assumptions, possible sources of error, conflicting evidence and unanswered questions.
+
+Curriculum focus and boundary
+- Evaluation must connect a method weakness or assumption to its effect on evidence and then to the strength/scope of a conclusion.
+- “Human error” and “do more repeats” are inadequate without specifying the error mechanism, direction/variability and targeted improvement.
+
+Evidence collected
+- Australian Curriculum v9 descriptor confirmed. Elaborations emphasise data-quality indicators, uncontrolled variables, improvements, conflicting evidence and further questions.
+- IXL Australia, authenticated single-tab interactive sampling:
+  - B.5 “Understand an experimental protocol about plant growth” supplied a complete materials list, numbered procedure, control/experimental groups, standardised pots/soil/water/location, five replicates per group, three-month duration and results tables.
+  - Sampled protocol compared tomato plants without earthworms (pots 1–5) with plants receiving two earthworms (pots 6–10), measuring number of tomatoes.
+  - B.6/B.7 diffusion and evaporation protocols provide further method-reading contexts; B.1/B.2 support groups and variables.
+  - IXL strongly assesses protocol comprehension but does not fully require assumptions, error effects, conflicting evidence or unanswered questions: PARTIAL-MAPPING.
+- Khan Academy, authenticated:
+  - “Controlled experiments” explains control baselines, IV/DV, hidden biological variability, sample size and repetition.
+  - It notes that ethical/practical limits sometimes require observational pattern tests, and uses coral bleaching to compare model predictions with natural observations.
+- Additional trusted sources:
+  - Science Buddies data-analysis guidance requires checking completeness, mistakes, repeated trials and graph anomalies.
+  - Its conclusion framework explicitly links claim, evidence, reasoning, uncertainties and new questions.
+- ABC Education/CSIRO: Australian investigations and public datasets are suitable for comparing school results with secondary evidence; source, sampling and context differences must be stated.
+
+Authoring blueprint
+- Evaluation chain: identify assumption/error/conflict -> explain effect on measurement or comparison -> judge claim strength/scope -> propose specific improvement or further question.
+- Random errors increase spread and reduce precision; systematic errors shift results in one direction and threaten accuracy. Blunders/data-entry mistakes are checked against records rather than relabelled “random”.
+- Method analysis: variable control, fair comparison, sample representativeness, repeats, measurement resolution/calibration, procedure clarity, bias, timing and ethical constraints.
+- Conclusion analysis: matches question; supported by actual data; uses cautious language; acknowledges anomaly/conflict; does not generalise beyond sample/range.
+- Conflicting evidence may result from method, sample, environmental context, uncertainty or a genuinely incomplete explanation. Compare quality before choosing a side.
+- Practice coverage: find assumption; classify error; predict effect; improve method; evaluate conclusion; compare conflicting datasets; identify unanswered question; rewrite overclaim.
+- Test coverage: complete unfamiliar investigation, repeated data with anomaly, systematic-error scenario, conflicting external evidence, conclusion critique and justified follow-up question.
+- Misconceptions: “human error” explains everything; repeats fix calibration bias; a control group removes all confounders; conflicting evidence means both studies are useless; a supported hypothesis is proven; unanswered questions make current evidence invalid.
+- Feedback must use the structure problem -> evidence effect -> specific improvement or bounded conclusion.
+Status: AUTHORING-READY.
+
+BATCH 4 CHECKPOINT
+- AC9S7I03, AC9S7I04, AC9S7I05 and AC9S7I06 are research-complete and AUTHORING-READY.
+- IXL and Khan Academy were checked in authenticated single-tab sessions; ACARA, ABC Education, CSIRO, Australian measurement guidance and Science Buddies were used where relevant.
+- No SkillrHub content has been re-authored during this research phase.
+- Next pending codes begin AC9S7I07 and AC9S7I08.
