@@ -4,13 +4,13 @@ Last updated: 2026-09-11
 
 PROJECT_STATUS: IN_PROGRESS
 CURRENT_PHASE: RESEARCH
-CURRENT_CODE: AC9M8ST01
-LAST_COMPLETED_CODE: AC9M8SP04
-NEXT_CODE: AC9M8ST01
+CURRENT_CODE: AC9M8P02
+LAST_COMPLETED_CODE: AC9M8P01
+NEXT_CODE: AC9M8P02
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
-BATCH: 4 COMPLETE — INTERACTIVELY VERIFIED (LATEST: AC9M8M07, AC9M8SP01–AC9M8SP04)
+BATCH: 5 COMPLETE — INTERACTIVELY VERIFIED (LATEST: AC9M8ST01–AC9M8ST04, AC9M8P01)
 
 PURPOSE AND AUTHORING STANDARD
 This ledger supports later re-authoring of each Year 8 Mathematics Topic Page, HTML Classroom View, Homework/Worksheet, exactly 48 Practice questions and exactly 16 independent Test questions. Research evidence is drawn from Australian Curriculum v9/QCAA, IXL Australia Year 8, Khan Academy and reputable free/public sources. Source examples inform pedagogy only; SkillrHub content must be original.
@@ -825,5 +825,178 @@ BATCH 4 INTERACTIVE QA CHECK — 2026-09-11
 - Each code is sufficient for Topic Page, HTML Classroom View, Homework, exactly 48 Practice and a separate exactly 16 Test bank.
 - All five codes are genuinely AUTHORING-READY.
 
+
+==============================================================================
+AC9M8ST01 — DATA-COLLECTION TECHNIQUES
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Investigate techniques for data collection including census, sampling, experiment and observation, and explain the practicalities and implications of obtaining data through these techniques.
+
+CURRICULUM BOUNDARY
+Compare census, sample survey, experiment and observation by purpose, population coverage, cost/time, ethics, accuracy, causality, measurement error and bias. Students should choose and justify a feasible technique, define variables and recognise that collection method constrains the claims that can be made.
+
+IXL MAPPING AND ACTUAL EXAMPLE EVIDENCE
+Supporting mapping: Z.7 “Identify representative, random and biased samples.” SOURCE-NOT-MAPPED for a direct census–sample–experiment–observation comparison.
+Z.7 example actually opened: Simon surveyed all 492 employees in Marketing to represent the whole company. IXL defines a random sample as giving every member an equal chance and rejects this sample because Marketing employees may differ from other employees.
+Progression: question/population → census versus sample → observation/survey/experiment → selection/measurement method → practicality and ethics → implications for inference/causality.
+Misconceptions: census is always best; large means unbiased; convenience means random; observation proves cause; experimental assignment and random sampling are identical; every person must respond for a sample to be useful; practical limitations do not affect conclusions; collecting personal data has no ethical implications.
+
+KHAN / TRUSTED CROSS-CHECK
+Authenticated Khan “Techniques for random sampling and avoiding bias” was opened; its sequence includes simple random samples, sampling techniques, avoiding bias, review and samples/surveys. AC v9 adds the four-technique comparison and practical implications.
+https://www.khanacademy.org/math/statistics-probability/designing-studies/sampling-methods-stats/v/techniques-for-random-sampling-and-avoiding-bias
+Australian Bureau of Statistics explains census and survey practice: https://www.abs.gov.au/census
+OAIC privacy guidance supports ethical collection/minimisation: https://www.oaic.gov.au/privacy
+
+AUTHORING TRANSFER
+Topic Page: technique comparison matrix; question-population-variable setup; bias/error/causality; cost, access and ethics decision tree.
+Classroom View: choose a method for four scenarios, simulate census/sample cost, diagnose bias, redesign an ethical collection plan.
+Homework: classify methods, compare trade-offs, select/justify techniques, identify implications and improve flawed plans.
+Feedback: name the target population and purpose first, then judge coverage, feasibility, bias, ethics and what conclusion the method permits.
+
+48-PRACTICE BLUEPRINT
+P01–P08 terminology; P09–P16 census/sample; P17–P24 experiment/observation; P25–P32 practicality/accuracy; P33–P40 bias/ethics/causality; P41–P48 method choice and critique.
+16-TEST BLUEPRINT
+T01–T04 identify techniques; T05–T08 compare implications; T09–T12 independent method-selection cases; T13–T16 ethics, bias and justification.
+
+==============================================================================
+AC9M8ST02 — SAMPLING METHODS AND DATA DISTRIBUTIONS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Analyse and report on the distribution of data from primary and secondary sources using random and non-random sampling techniques to select and study samples.
+
+CURRICULUM BOUNDARY
+Distinguish primary/secondary data and random/non-random sampling; display and describe distributions using centre, spread, shape, clusters, gaps and outliers; link sampling method to representativeness and qualify conclusions. Avoid formal inferential tests.
+
+IXL MAPPING AND ACTUAL EXAMPLE EVIDENCE
+Direct/supporting mappings: Y.1–Y.13 tables/graphs; Z.1–Z.6 centre, spread and outliers; Z.7 representative/random/biased samples.
+Y.6 “Interpret dot plots” example actually opened: a dot plot records library visits for typical residents. To answer “at least 3,” IXL counts all marks in columns 3 and 4 and obtains 18 people. This models threshold language and frequency extraction; authored work must add holistic distribution description and source/sampling critique.
+Progression: identify source/sample → choose display → read frequencies → describe centre/spread/shape/unusual features → compare groups → judge representativeness → report with limitations.
+Misconceptions: primary data is automatically better; random means haphazard; a graph proves representativeness; “at least” excludes the boundary; reporting only a mean; ignoring unequal scales/outliers; treating sample counts as population totals; describing shape without evidence.
+
+KHAN / TRUSTED CROSS-CHECK
+Authenticated Khan “Examples of bias in surveys” was opened within “Potential problems with sampling”; its visible sequence includes undercoverage and identifying bias. Khan’s sampling-method unit supports random selection.
+https://www.khanacademy.org/math/ap-statistics/gathering-data-ap/sampling-observational-studies/v/examples-of-bias-in-surveys
+ABS data-quality resources support source, method and uncertainty evaluation: https://www.abs.gov.au/websitedbs/D3310114.nsf/home/Quality:+The+ABS+Data+Quality+Framework
+
+AUTHORING TRANSFER
+Topic Page: source/sampling table; distribution-description frame (shape, centre, spread, unusual); dot/stem/graph examples; report-with-limitations model.
+Classroom View: sample a class dataset two ways, build dot plots, compare descriptions, audit a secondary source and revise an overclaim.
+Homework: identify sources/methods, interpret/display distributions, compare samples and write evidence-based reports.
+Feedback: identify source and sampling method, cite numerical/visual distribution evidence, then restrict the conclusion to what the sample supports.
+
+48-PRACTICE BLUEPRINT
+P01–P08 primary/secondary; P09–P16 random/non-random sampling; P17–P24 read/create displays; P25–P32 describe distributions; P33–P40 compare/representativeness; P41–P48 reporting and limitations.
+16-TEST BLUEPRINT
+T01–T04 sources/samples; T05–T08 distribution analysis; T09–T12 independent comparisons; T13–T16 report and critique.
+
+==============================================================================
+AC9M8ST03 — SAMPLING VARIATION AND SAMPLE SIZE
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Compare variations in distributions and proportions obtained from random samples of the same size drawn from a population and recognise the effect of sample size on this variation.
+
+CURRICULUM BOUNDARY
+Use repeated random samples, not a single sample, to compare centres, spreads, shapes and proportions. Recognise natural sample-to-sample variation and that larger random samples generally give more stable estimates, without claiming they remove bias or guarantee accuracy. Formal standard error/confidence intervals are outside scope.
+
+IXL MAPPING AND ACTUAL EXAMPLE EVIDENCE
+Direct mapping: Z.8 “Make inferences from multiple samples,” plus the new sample-estimation skill and Z.1 centre measures.
+Z.8 example actually opened: a random sample of 10 distances walked is 1.5,0,2,0,1.5,2.5,0,3.5,5,2 km. IXL adds to 18 and divides by 10 to obtain sample mean 1.8 km. This supports calculating a statistic from one sample; authored work must compare several equal-size samples and then vary n.
+Progression: generate repeated samples → calculate sample proportion/statistic → display variation → compare same-size samples → repeat with larger n → generalise stability while separating random variation from bias.
+Misconceptions: random samples must match exactly; one sample reveals the population value; larger n removes selection bias; the widest sample is “wrong”; average sample proportions without equal weighting when sizes differ; confusing within-sample spread with between-sample variation; treating “usually less variable” as “always identical.”
+
+KHAN / TRUSTED CROSS-CHECK
+Khan’s official sampling-distribution lesson was checked as an extension; its central qualitative observation is that larger samples are less likely to be far from the population mean. Formal sampling-distribution calculations are beyond Year 8 and will not be imported.
+https://www.khanacademy.org/math/ap-statistics/sampling-distribution-ap/what-is-sampling-distribution/v/sampling-distribution-of-the-sample-mean
+ABS guidance supports explaining sampling error and sample design: https://www.abs.gov.au/websitedbs/D3310114.nsf/home/Basic+Survey+Design+-+Sample+Design
+
+AUTHORING TRANSFER
+Topic Page: repeated-sample simulation; two kinds of variation; proportion/mean comparison; small-versus-large-n plots; “larger is usually more stable, not unbiased” panel.
+Classroom View: draw repeated samples from a bag/digital population, graph estimates, double n, compare ranges and challenge absolute claims.
+Homework: calculate/compare statistics from equal-size samples, predict effects of n, interpret simulations and diagnose bias-versus-variation.
+Feedback: compare multiple random samples, quantify between-sample differences, then describe the tendency as sample size increases without promising certainty.
+
+48-PRACTICE BLUEPRINT
+P01–P08 sample statistics; P09–P16 repeated equal-size samples; P17–P24 compare distributions/proportions; P25–P32 quantify variation; P33–P40 sample-size simulations; P41–P48 inference, bias distinctions and error analysis.
+16-TEST BLUEPRINT
+T01–T04 compute statistics; T05–T08 compare samples; T09–T12 independent size/variation evidence; T13–T16 generalise and critique.
+
+==============================================================================
+AC9M8ST04 — STATISTICAL INVESTIGATIONS AND POPULATION INFERENCE
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Plan and conduct statistical investigations involving samples of a population; use ethical and fair methods to make inferences about the population and report findings, acknowledging uncertainty.
+
+CURRICULUM BOUNDARY
+Complete the statistical investigation cycle: pose a statistical question, define population/variables, choose an ethical fair sample, collect or source data, clean/display/analyse, infer cautiously, communicate and acknowledge sampling/measurement uncertainty. Do not require formal confidence intervals or significance testing.
+
+IXL MAPPING AND ACTUAL EXAMPLE EVIDENCE
+Supporting mappings: Z.7 sampling quality; Y.1–Y.13 displays; Z.1–Z.6 descriptive statistics; “Make an estimate from sample data.” SOURCE-NOT-MAPPED for the whole investigation and ethical reporting cycle.
+Example actually opened in “Make an estimate from sample data”: from a random sample of 40 lake fish, 6 show poor health; population about 2000. IXL defines population/sample, writes 6/40=n/2000, solves n=300 and reports “about 300,” appropriately signalling estimation.
+Progression: question → population/variables → fair ethical sampling → data management → representation/analysis → inference → uncertainty/limitations → report/review.
+Misconceptions: non-statistical yes/no factual questions generate investigations; convenience samples support whole-population claims; names are always needed; deleting inconvenient outliers is cleaning; sample estimate equals population truth; correlation proves cause; uncertainty means no conclusion can be made; percentage without sample size is sufficient reporting.
+
+KHAN / TRUSTED CROSS-CHECK
+Authenticated Khan “Identifying a sample and population” was opened. Its visible sequence includes population/sample identification, generalisability, types of studies, observational-study examples and invalid conclusions.
+https://www.khanacademy.org/math/ap-statistics/gathering-data-ap/sampling-observational-studies/v/identifying-a-sample-and-population
+ABS supplies authentic public datasets/method notes: https://www.abs.gov.au/statistics
+OAIC privacy principles inform consent, data minimisation and safe reporting: https://www.oaic.gov.au/privacy/australian-privacy-principles
+
+AUTHORING TRANSFER
+Topic Page: investigation-cycle template; statistical-question test; population/sample/variable planning table; ethics/fairness checklist; inference sentence frame; uncertainty/report rubric.
+Classroom View: plan a class investigation, peer-audit sampling/ethics, collect anonymous data, analyse/display, write and challenge an inference.
+Homework: repair questions/plans, choose samples, interpret data, make cautious population estimates and critique reports.
+Feedback: link every inference to the sampled population and method, quantify evidence, state uncertainty/limitations and avoid causal language unless the design supports it.
+
+48-PRACTICE BLUEPRINT
+P01–P08 questions/populations/variables; P09–P16 sampling and ethics; P17–P24 collect/clean; P25–P32 display/analyse; P33–P40 infer/estimate; P41–P48 report uncertainty and critique.
+16-TEST BLUEPRINT
+T01–T04 planning; T05–T08 sampling/analysis; T09–T12 independent inference tasks; T13–T16 ethics, uncertainty and report evaluation.
+
+==============================================================================
+AC9M8P01 — COMPLEMENTARY EVENTS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Recognise that complementary events have a combined probability of one; use this relationship to calculate probabilities in applied contexts.
+
+CURRICULUM BOUNDARY
+Define A and not A over the same complete sample space; use P(A)+P(not A)=1 in fraction, decimal and percentage form; identify complements expressed in words (at least/none/not); solve applied direct and multi-step problems. Distinguish complements from merely mutually exclusive events.
+
+IXL MAPPING AND ACTUAL EXAMPLE EVIDENCE
+Direct mappings: AA.1 probability of simple events; AA.2 probability of opposite, mutually exclusive and overlapping events.
+AA.2 example actually opened: spinner has equal sections 2,3,4,5. IXL finds P(greater than 2)=3/4, applies P(not A)=1−P(A), and obtains P(not greater than 2)=1/4.
+Progression: complete sample space → event/not-event partition → simple counts → complement rule → missing probabilities → contextual shortcuts such as “at least one” via “none.”
+Misconceptions: complement means reciprocal or negative; P(not A)=P(A); mutually exclusive automatically means complementary; omitting outcomes from the sample space; complement of “greater than 2” is “less than 2” rather than “not greater”; mixing percent/decimal/fraction; subtracting from 100 when probabilities are decimals.
+
+KHAN / TRUSTED CROSS-CHECK
+Khan’s official complementary-events lesson was checked; it builds the idea with sample-space/Venn intuition and complement notation.
+https://www.khanacademy.org/math/grade-7-math-snc-aligned/xf9992e17a4bae62e%3Aprobability/xf9992e17a4bae62e%3Amutually-exclusive-and-equally-likely-events/v/complementary-events-ur
+NRICH probability tasks support sample-space reasoning and strategic complements: https://nrich.maths.org/probability
+
+AUTHORING TRANSFER
+Topic Page: A/not-A partition visual; rule in three representations; word complements; direct and “at least one” examples; mutually-exclusive comparison.
+Classroom View: sample-space card sort, phrase-the-complement challenge, spinner experiment, shortcut comparison and misconception exit ticket.
+Homework: name complements, calculate missing probabilities, convert representations and solve applied/compound-language contexts.
+Feedback: state the full sample space, write the exact complement in words, ensure the two events exhaust it without overlap, then subtract from 1.
+
+48-PRACTICE BLUEPRINT
+P01–P08 sample spaces; P09–P16 identify complements; P17–P24 fraction probabilities; P25–P32 decimal/percent complements; P33–P40 applied and at-least-one contexts; P41–P48 distinction, reasoning and error analysis.
+16-TEST BLUEPRINT
+T01–T04 identify; T05–T08 calculate; T09–T12 independent applied contexts; T13–T16 justification and misconception diagnosis.
+
+==============================================================================
+BATCH 5 INTERACTIVE QA CHECK — 2026-09-11
+- Five codes completed: AC9M8ST01–AC9M8ST04 and AC9M8P01.
+- One authenticated IXL Australia tab was used sequentially; Learn with an example was actually opened for every code.
+- One authenticated Khan Academy tab was used sequentially for sampling methods, bias, sample/population planning, sample-size effects and complementary events.
+- Australian Curriculum v9/QCAA set scope; ABS, OAIC and NRICH provide trusted Australian/public evidence.
+- Full-source gaps are explicitly recorded for four-technique comparison and whole statistical-investigation cycles; advanced Khan inference content is treated only as qualitative extension.
+- Each code is sufficient for Topic Page, HTML Classroom View, Homework, exactly 48 Practice and a separate exactly 16 Test bank.
+- All five codes are genuinely AUTHORING-READY.
+
 RESUME INSTRUCTION
-Read NEXT_CODE and continue with AC9M8ST01. Do not repeat completed research unless a source or curriculum descriptor materially changes.
+Read NEXT_CODE and continue with AC9M8P02. Do not repeat completed research unless a source or curriculum descriptor materially changes.
