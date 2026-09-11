@@ -1,0 +1,114 @@
+YEAR 6 MATHEMATICS — TARGETED IXL / KHAN RESEARCH MASTER
+Australian Curriculum Version 9.0 | SkillrHub
+Last updated: 2026-09-11
+
+PROJECT_STATUS: IN_PROGRESS
+CURRENT_PHASE: TARGETED_RESEARCH_RERUN
+CURRENT_CODE: AC9M6P02
+LAST_COMPLETED_CODE: AC9M6ST03
+NEXT_CODE: AC9M6P02
+AUTHORING_STARTED: NO
+CONTENT_VERIFIED_COUNT: 0
+BLOCKER: NONE
+BATCH: FIRST FIVE PENDING CODES VERIFIED — AC9M6A03, AC9M6M04, AC9M6SP03, AC9M6ST02, AC9M6ST03
+
+SCOPE
+This checkpoint reconstructs the missing Year 6 Maths research dossier for the six codes identified by the prior evidence audit. Research is for original SkillrHub Topic Pages, HTML Classroom Views, homework, 48 Practice questions and 16 separate Test questions. IXL Australia was used through one authenticated tab and Khan through one authenticated tab. Exact-source gaps are recorded rather than disguised with weak mappings.
+
+SOURCE REGISTER
+Australian Curriculum v9 / current SkillrHub code pages; IXL Australia Year 6 catalogue and Learn-with-an-example; authenticated Khan Academy lessons/transcripts; ABS Education; CensusAtSchool; NRICH; GeoGebra.
+
+==============================================================================
+AC9M6A03 — ALGORITHMS, DECISIONS AND EMERGING PATTERNS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Create and use algorithms involving a sequence of steps and decisions that use rules to generate sets of numbers; identify, interpret and explain emerging patterns.
+
+BOUNDARY AND MAPPING
+Teach ordered instructions, inputs/outputs, repeat rules, conditional branches, tracing, testing and debugging with whole numbers, fractions and decimals appropriate to Year 6. IXL Year 6 supports “Identify mistakes in number patterns”, input/output tables, shape patterns and numerical sequences. Neither IXL nor Khan has one exact lesson covering the full algorithm–decision–pattern descriptor: SOURCE-NOT-MAPPED at full-code level. CS Unplugged supplies algorithm/tracing language; AC v9 controls the mathematics.
+
+EVIDENCE AND PROGRESSION
+IXL’s Year 6 catalogue was inspected in the authenticated tab. The mapped component progression is: continue a rule → infer a rule from terms/table → locate a wrong term → use an input/output rule → trace repeated operations. The curriculum extension is to design a finite algorithm containing decisions and explain the emerging pattern, not merely guess the next term.
+High-value task model: input n; if n is even divide by 2, otherwise add 5; repeat three times; record outputs and describe parity/cycle behaviour. Another model generates rational sequences with a spreadsheet fill-down rule and checks whether the observed pattern always follows.
+Traps: ambiguous “add the next number”; changing a rule mid-sequence; applying steps in the wrong order; confusing term position with term value; assuming a short pattern proves an always claim; branch conditions that overlap or omit an input; algorithms that never terminate.
+
+AUTHORING TRANSFER
+Topic/Classroom: define algorithm, input, output, condition, branch, repeat, trace and debug; move from flowcharts to tables and spreadsheet rules; compare two algorithms with the same first outputs but different later behaviour. Homework: trace, complete, repair, design and justify. Feedback must identify the first incorrect step and rerun from the last correct state.
+48 Practice: 8 vocabulary/tracing; 10 continue/infer rules; 10 input-output; 8 branching; 6 debugging; 6 design/explanation.
+16 Test: 4 direct traces; 4 rule/table problems; 4 independent branching/debugging; 4 design and proof/counterexample tasks.
+
+==============================================================================
+AC9M6M04 — ANGLES ON LINES AND AT POINTS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Identify the relationships between angles on a straight line, angles at a point and vertically opposite angles; use these to determine unknown angles, communicating reasoning.
+
+IXL AUTHENTICATED EVIDENCE
+Direct mappings: “Identify complementary, supplementary, vertical, adjacent and congruent angles” and “Find measures of complementary, supplementary, vertical and adjacent angles”.
+A Learn-with-an-example panel was opened. It asks for n beside a 40° angle on a straight line. IXL states that supplementary adjacent angles add to 180°, writes 40°+n=180°, subtracts 40° and obtains n=140°. This verifies vocabulary → relationship equation → solution → degree-labelled conclusion.
+Required extension: angles at a point total 360°; vertically opposite angles are equal; multi-step diagrams combine equality and totals. Khan’s angle/transversal transcript previously inspected in the authenticated session supports vertical equality, corresponding relationships and equation chains; only straight-line/point/vertical content belongs in this Year 6 code.
+
+MISCONCEPTIONS AND TRANSFER
+Do not infer equality from appearance; distinguish adjacent from vertically opposite; 180° applies to a straight line, 360° at a point, 90° to complements; vertically opposite angles are equal, not supplementary unless each is 90°. Topic/Classroom must model marked rays, relationship naming before arithmetic, equations and a reason for every step. Include protractor/dynamic-geometry conjecture then generalisation.
+48 Practice: 8 vocabulary/diagram reading; 10 straight-line; 8 at-point; 8 vertical; 8 combined multi-step; 6 error analysis/reasoning.
+16 Test: 4 relationship recognition; 4 direct unknowns; 4 independent combined diagrams; 4 written justification/error analysis.
+
+==============================================================================
+AC9M6SP03 — TRANSFORMATIONS AND TESSELLATIONS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Recognise and use combinations of transformations to create tessellations and other geometric patterns, using dynamic geometric software where appropriate.
+
+IXL / KHAN EVIDENCE
+IXL Year 6 directly maps translations, reflections, rotations and “Sequences of transformations: graph the image”. The sequence skill and Learn panel were opened in the single authenticated tab; the diagram was image-rendered without usable text, so no unseen coordinates are invented. Previously inspected IXL transformation examples establish reflection across the y-axis by changing the x-sign and 180° rotation about the origin by mapping (−1,6) to (1,−6). Khan’s authenticated “Translating shapes” lesson moves every vertex by the same vector, for example A(4,−7) under T(−10,5) becomes (−6,−2), then reconnects image vertices in order.
+Full tessellation construction has no exact IXL/Khan lesson: SOURCE-NOT-MAPPED for that component. GeoGebra and NRICH provide dynamic/spatial support.
+
+PROGRESSION, TRAPS AND TRANSFER
+Identify a single rigid motion → perform one motion → describe a two-step sequence → predict the image of a motif → create a repeating pattern → test for gaps/overlaps → explain which transformations repeat the tile. A tessellation covers the plane without gaps or overlaps. Preserve lengths and angles; order matters in a transformation sequence.
+Traps: naming the final position instead of the transformation; rotating about the wrong centre; reflecting in the wrong line; reversing sequence order; assuming every polygon tessellates alone; allowing gaps/overlaps; treating a resized copy as a rigid transformation.
+48 Practice: 8 identify; 10 translations/reflections; 8 rotations; 8 sequences; 8 tessellation analysis/construction; 6 dynamic-tool/debug tasks.
+16 Test: 4 identification; 4 coordinate/diagram images; 4 independent sequences; 4 tessellation design and explanation.
+
+==============================================================================
+AC9M6ST02 — EVALUATING STATISTICALLY INFORMED ARGUMENTS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Identify statistically informed arguments presented in traditional and digital media; discuss and critique methods, data representations and conclusions.
+
+SOURCE EVIDENCE
+IXL Year 6 components include interpreting bar/line/double graphs, choosing the best graph, and statistics summaries; no single skill audits a complete media argument: SOURCE-NOT-MAPPED at full-code level. Khan materials on misleading graphs and distribution comparisons support scale, truncation and representation choices. ABS publications provide authentic Australian examples with source, population, date and methodology notes.
+Evaluation frame: CLAIM → SOURCE → METHOD/SAMPLE → DISPLAY → CALCULATION → CONCLUSION. Ask whether the graph scale is even and starts appropriately, axes/units/timeframe are stated, categories are comparable, sample is relevant and large enough, and the conclusion matches rather than exceeds the data.
+
+MISCONCEPTIONS AND TRANSFER
+A graph can be numerically correct yet visually misleading; correlation or a difference does not prove causation; a large graphic is not a large value; percentages require denominators; averages can conceal distribution; missing dates/source prevent verification. Topic/Classroom must compare honest and distorted versions of the same data, reconstruct values, and rewrite an overclaim. Homework must mix print/social-media style claims, omitted baselines, cherry-picked intervals, unequal pictograph symbols, percentages without totals and conclusions beyond the sample.
+48 Practice: 8 read claims/data; 8 source/method; 10 graph-scale/design; 8 calculation/percentage; 8 conclusion critique; 6 full media audits.
+16 Test: 4 interpretation; 4 method/display flaws; 4 independent claim-evidence checks; 4 written critiques and repairs.
+
+==============================================================================
+AC9M6ST03 — PLANNING AND CONDUCTING STATISTICAL INVESTIGATIONS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Plan and conduct statistical investigations by posing and refining questions or identifying a problem and collecting relevant data; analyse and interpret the data and communicate findings within the context of the investigation.
+
+SOURCE EVIDENCE
+IXL Year 6 supports “Identify statistical questions”, graph creation/interpretation, graph choice and summary-statistic components. Khan supports statistical questions, distributions and sampling components, but neither provides one exact end-to-end digital investigation lesson: SOURCE-NOT-MAPPED at full-code level. ABS Education and CensusAtSchool supply authentic datasets and classroom investigation structures.
+Use the cycle QUESTION → PLAN → DATA → ANALYSIS → CONCLUSION. A statistical question anticipates variability. The plan identifies population, variables, data type, sample/collection method, measurement consistency and tool. Cleaning decisions must be recorded. Analysis selects a justified display and summary; the conclusion answers the original question, cites evidence and states limitations.
+
+MISCONCEPTIONS AND TRANSFER
+Avoid yes/no non-statistical questions; convenience samples treated as representative; leading wording; inconsistent measurement; deleting genuine outliers without reason; selecting a graph to exaggerate a preferred conclusion; reporting numbers without answering the question; causal or population-wide claims unsupported by the sample. Include spreadsheet cell-format/tool checks without making software operation the mathematical goal.
+48 Practice: 8 statistical questions; 8 variables/populations; 8 collection plans; 8 cleaning/representation; 8 analysis; 8 conclusions/limitations/full-cycle critique.
+16 Test: 4 questions/plans; 4 data quality; 4 independent analysis; 4 complete investigation evaluation and communication.
+
+==============================================================================
+BATCH QA
+- Five audited pending codes completed: AC9M6A03, AC9M6M04, AC9M6SP03, AC9M6ST02, AC9M6ST03.
+- Exact SkillrHub/AC v9 descriptors recorded.
+- Authenticated IXL evidence is distinguished from catalogue mappings and image-only panels.
+- Authenticated Khan evidence is reused only where conceptually aligned; genuine full-code gaps are explicit.
+- Every code contains scope, progression, misconceptions, authoring transfer and separate 48/16 bank plans.
+- Remaining deficient code: AC9M6P02.
