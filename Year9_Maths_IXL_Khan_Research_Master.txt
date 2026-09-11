@@ -4,13 +4,13 @@ Last updated: 2026-09-11
 
 PROJECT_STATUS: IN_PROGRESS
 CURRENT_PHASE: RESEARCH
-CURRENT_CODE: AC9M9M04
-LAST_COMPLETED_CODE: AC9M9M03
-NEXT_CODE: AC9M9M04
+CURRENT_CODE: AC9M9ST01
+LAST_COMPLETED_CODE: AC9M9SP03
+NEXT_CODE: AC9M9ST01
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
-BATCH: 2 COMPLETE — INTERACTIVELY VERIFIED (LATEST: AC9M9A05–AC9M9A06, AC9M9M01–AC9M9M03)
+BATCH: 3 COMPLETE — INTERACTIVELY VERIFIED (LATEST: AC9M9M04–AC9M9M05, AC9M9SP01–AC9M9SP03)
 
 PURPOSE AND AUTHORING STANDARD
 This ledger supports later re-authoring of every Year 9 Mathematics Topic Page, HTML Classroom View, Homework/Worksheet, exactly 48 Practice questions and exactly 16 independent Test questions. Australian Curriculum v9/QCAA sets scope. IXL and Khan examples inform pedagogy only; all SkillrHub content must be original.
@@ -408,6 +408,196 @@ P01–P08 angle/diagram facts; P09–P16 scale/similarity; P17–P24 Pythagoras;
 T01–T04 scale/similarity; T05–T08 Pythagoras/trig; T09–T12 independent integrated contexts; T13–T16 justification, precision and misconception diagnosis.
 
 ==============================================================================
+AC9M9M04 — ABSOLUTE, RELATIVE AND PERCENTAGE MEASUREMENT ERROR
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Calculate and interpret absolute, relative and percentage errors in measurements, recognising that all measurements are estimates.
+
+CURRICULUM BOUNDARY
+Distinguish measured/estimated value, accepted or exact reference value and resolution. Calculate absolute error as an unsigned magnitude, relative error as absolute error divided by the reference value, and percentage error by multiplying relative error by 100%. For values rounded to a stated unit, use half the rounding unit as greatest possible error and express lower/upper bounds where useful. Interpret whether an error is material in context. Formal uncertainty propagation is beyond Year 9.
+
+IXL MAPPING AND ACTUAL LEARN-WITH-EXAMPLE EVIDENCE
+Direct mappings: E.3 Greatest possible error; E.5 Percent error; E.6 Percent error: area and volume. Relative error is embedded as the decimal ratio before conversion to percent.
+- E.3 actual example: a mass of 25 g recorded to the nearest whole gram has greatest possible error 0.5 g because maximum rounding error is half the 1 g measurement unit.
+- E.5 actual example: a 5 mm measurement has greatest possible error 0.5 mm; IXL computes 0.5/5=0.1 and converts to 10%.
+Progression: identify precision → half-unit greatest error → interval bounds → absolute error from accepted value → relative error → percentage error → compare errors across scales → area/volume/context interpretation.
+Misconceptions: signed rather than absolute magnitude; dividing by the measured value when the reference value is specified; forgetting ×100; assuming displayed digits are exact; using the whole rounding unit rather than half; comparing raw errors across very different sizes; mixing units; interpreting precision as accuracy.
+
+KHAN / TRUSTED CROSS-CHECK
+EVIDENCE LEVEL: AUTHENTICATED KHAN CHECK — PARTIAL MAPPING.
+The authenticated Khan tab was used sequentially to inspect “Finding Percentage Change” in TG Math Class 8, Unit 2. The lesson visibly builds percent change from difference ÷ original ×100 and a sale-discount context. This supports percentage-as-scaled-difference reasoning, but it is not percentage measurement error.
+Khan direct mapping for absolute/relative/percentage measurement error: SOURCE-NOT-MAPPED. Do not label Khan percentage change as equivalent to this descriptor.
+https://www.khanacademy.org/math/revision-term-1-tg-math-class-8/xa35e3d5a0b2f5ac7%3Aweek-2/xa35e3d5a0b2f5ac7%3Acomparing-quantities-using-proportion/v/finding-percentage-change
+Australian Government-funded Mathematics Hub Year 9 planning material explicitly treats measurements as estimates and maps measurement error to AC9M9M04: https://www.mathematicshub.edu.au/
+Maths Is Fun percentage/rounding resources and calculators can provide supplementary checks; QCAA/Australian Curriculum controls terminology and scope.
+
+AUTHORING TRANSFER
+Topic Page: measurement vocabulary; formula/denominator table; half-unit and bounds model; worked absolute→relative→percentage chain; comparison across scales; context-tolerance discussion.
+Classroom View: measure one object with different instruments, create intervals, compare equal absolute errors on unequal quantities, error-card clinic and acceptable-tolerance debate.
+Homework: rounding precision, bounds, exact-versus-estimate errors, mixed units, percentage comparisons and interpretation.
+Feedback: identify the accepted/reference value, align units, take the absolute difference, divide by the reference, convert to percent and explain what the magnitude means.
+
+48-PRACTICE BLUEPRINT
+P01–P08 precision/greatest error; P09–P16 bounds/absolute error; P17–P24 relative error; P25–P32 percentage error; P33–P40 comparison/context; P41–P48 area-volume, multi-step and error analysis.
+16-TEST BLUEPRINT
+T01–T04 precision/bounds; T05–T08 calculations; T09–T12 independent contextual comparisons; T13–T16 interpretation and misconception diagnosis.
+
+==============================================================================
+AC9M9M05 — DIRECT PROPORTION, RATES AND MATHEMATICAL MODELLING
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Use mathematical modelling to solve practical problems involving direct proportion and rates; formulate problems, interpret solutions in context, evaluate the model and report methods and findings.
+
+CURRICULUM BOUNDARY
+Complete the modelling cycle: define variables/units and assumptions; recognise direct proportion through constant ratio, constant unit rate, y=kx and a graph through the origin; formulate and solve using unit rates, proportions, tables, equations or graphs; interpret and validate results; report limitations. Distinguish direct proportion from merely linear relationships with non-zero intercepts. Inverse proportion is not the required endpoint.
+
+IXL MAPPING AND ACTUAL LEARN-WITH-EXAMPLE EVIDENCE
+Direct mappings: C.4–C.8 proportions and word problems; X.1 unit rates; X.2 rate conversion; W.1–W.8 proportional relationships; Q linear graphs. The full formulate–evaluate–report cycle is composite, not one IXL skill.
+- C.8 actual example: 6 quizzes in 3 weeks and 4 weeks assumed directly proportional. IXL sets 6/3=n/4, multiplies both sides consistently and solves n=8, then interprets “8 quizzes”.
+- Live prompt: $12 for 4 cups of lemonade; how many cups earn $18 under an explicit direct-proportion assumption. This makes the modelling assumption visible rather than implicit.
+Progression: ratio/rate language → unit rate → equivalent ratios → multiple representations → y=kx → choose a solution method → practical constraints → evaluate proportional assumption → concise report.
+Misconceptions: ratio order reversal; unequal units in equivalent positions; cross-multiplication without meaning; treating y=mx+b with b≠0 as direct proportion; confusing rate with ratio; ignoring fixed fees, capacity or non-linear effects; retaining impossible fractional people/items; reporting a number without units or assumption evaluation.
+
+KHAN / TRUSTED CROSS-CHECK
+EVIDENCE LEVEL: AUTHENTICATED KHAN INTERACTION VERIFIED — 2026-09-11.
+The authenticated Khan tab opened 7th Grade Math Unit 1 “Proportional relationships.” Its visible progression includes constant of proportionality from graphs/equations/tables, comparing and interpreting constants, identifying proportional graphs, solving/writing proportions, word problems and proportional equations.
+Observed live exercise: a 14 cm candle burns 8 hours; under the explicit assumption that height and burn time are proportional, determine burn time for a 21 cm candle. It tests model assumption, aligned units and scale factor 21/14=1.5, giving 12 hours.
+https://www.khanacademy.org/math/cc-seventh-grade-math/cc-7th-ratio-proportion
+https://www.khanacademy.org/math/cc-seventh-grade-math/cc-7th-ratio-proportion/cc-7th-write-and-solve-proportions/e/constructing-proportions-to-solve-application-problems
+Maths Is Fun independently explains equivalent-ratio scaling, recipes, scale drawings, ratio versus rate and preserving both parts by the same multiplier: https://www.mathsisfun.com/numbers/ratio.html
+Desmos supports proportional tables, origin tests and slope/unit-rate comparisons: https://www.desmos.com/calculator
+
+AUTHORING TRANSFER
+Topic Page: direct-proportion diagnostic; modelling-cycle steps; k as unit rate; table/equation/graph/proportion methods; fixed-fee non-example; constraints and report model.
+Classroom View: proportional/not-proportional sort, recipe/price/rate stations, Desmos origin investigation, assumption challenge and mini-report.
+Homework: rates, conversions, formulate y=kx, solve tables/graphs/equations, practical constraints, evaluate and report.
+Feedback: define quantities and units, test constant ratio and origin, state the assumption, solve with a consistent representation, interpret and test reasonableness.
+
+48-PRACTICE BLUEPRINT
+P01–P08 ratios/unit rates; P09–P16 identify direct proportion; P17–P24 k/tables/equations; P25–P32 practical solving; P33–P40 graph/representation transfer; P41–P48 modelling evaluation and reporting.
+16-TEST BLUEPRINT
+T01–T04 foundations; T05–T08 independent models; T09–T12 mixed rate/proportion contexts; T13–T16 assumption, validation and report.
+
+==============================================================================
+AC9M9SP01 — CONSTANCY OF TRIGONOMETRIC RATIOS THROUGH SIMILARITY
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Recognise the constancy of the sine, cosine and tangent ratios for a given angle in right-angled triangles using properties of similarity.
+
+CURRICULUM BOUNDARY
+Use AA to show right triangles sharing an acute angle are similar; correctly pair corresponding opposite, adjacent and hypotenuse sides; establish that O/H, A/H and O/A remain constant under enlargement/reduction; connect these invariant ratios to sin θ, cos θ and tan θ. The goal is conceptual justification of the ratios, not only calculator use.
+
+IXL MAPPING AND ACTUAL LEARN-WITH-EXAMPLE EVIDENCE
+Direct mapping: I.9 Trigonometric ratios in similar right-angled triangles, supported by G similarity and I.1 trig-ratio definitions.
+Actual example: find sin(R) when triangle RST has no labelled side lengths but is similar to labelled triangle UWV. IXL establishes ∠R≅∠U and both right angles, invokes AA, matches ST/RT with VW/UV, then substitutes 39/89. The key idea explicitly states corresponding side ratios and angles are equal in similar triangles.
+Progression: right-triangle parts relative to θ → AA similarity → correspondence → equal side ratios → define sin/cos/tan → scale multiple triangles → reverse/justify invariance.
+Misconceptions: O/A labels are fixed rather than angle-dependent; hypotenuse is merely the longest-looking side; pairing sides by diagram position; assuming similarity from appearance; ratios change when a triangle is enlarged; using side lengths from non-corresponding triangles; reducing the ratio incorrectly.
+
+KHAN / TRUSTED CROSS-CHECK
+EVIDENCE LEVEL: AUTHENTICATED KHAN INTERACTION VERIFIED — 2026-09-11.
+Authenticated Khan Geometry Unit 13, Lesson 6 “Trigonometric ratios and similarity” was opened with its full worked transcript. Khan proves that two right triangles with common acute angle θ are similar by angle sum/AA, pairs hypotenuse, opposite and adjacent sides, and shows each corresponding ratio is invariant before naming O/H, A/H and O/A as sine, cosine and tangent. This exactly supports the descriptor’s conceptual emphasis.
+https://www.khanacademy.org/math/geometry-home/right-triangles-topic/trig-ratios-similarity-geo/v/similarity-to-define-sine-cosine-and-tangent
+Maths Is Fun independently explains O/A/H relative to θ and notes the same angle gives the same ratio in larger, smaller or rotated triangles: https://www.mathsisfun.com/algebra/trigonometry.html
+GeoGebra can dynamically vary a scale factor while displaying invariant ratios: https://www.geogebra.org/geometry
+
+AUTHORING TRANSFER
+Topic Page: AA proof chain; correspondence table; dynamic scaled-triangle table; ratio definitions; angle-relative labels; invariant-versus-changing features.
+Classroom View: overlay similar triangles, measure/calculate ratios, drag a vertex in GeoGebra, predict invariants and repair mismatched correspondence.
+Homework: prove similarity, match sides, calculate/compare ratios, determine missing values and explain why ratios remain constant.
+Feedback: choose θ, label H first, then O/A, prove AA, match corresponding sides in the same order and compare like ratios.
+
+48-PRACTICE BLUEPRINT
+P01–P08 O/A/H; P09–P16 AA/correspondence; P17–P24 invariant ratios; P25–P32 sin/cos/tan links; P33–P40 missing values/reverse reasoning; P41–P48 proof, dynamic interpretation and errors.
+16-TEST BLUEPRINT
+T01–T04 labels/correspondence; T05–T08 similarity/invariance; T09–T12 independent ratio problems; T13–T16 proof and misconception diagnosis.
+
+==============================================================================
+AC9M9SP02 — ENLARGEMENT TRANSFORMATIONS AND INVARIANTS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Apply the enlargement transformation to shapes and objects using dynamic geometry software as appropriate; identify and explain aspects that remain invariant under scaling.
+
+CURRICULUM BOUNDARY
+Construct enlargements/reductions from a centre with positive scale factors including fractions; use coordinates/rays and dynamic software; find scale factor and centre; distinguish invariant angle measures, parallelism, collinearity and shape from changing lengths/perimeter/area. Lengths scale by k and areas by k². Reflection/negative dilation is not required unless explicitly introduced as extension.
+
+IXL MAPPING AND ACTUAL LEARN-WITH-EXAMPLE EVIDENCE
+Direct mappings: G.5 Dilations: find the scale factor; G.6 graph the image; G similarity/scale relationships; dynamic-tool experimentation requires external software.
+G.5 actual example: original triangle has QS from (−2,0) to (−2,2), length 2; image Q'S' from (−10,0) to (−10,10), length 10. IXL defines scale factor as image/original and calculates 10/2=5.
+The live parallelogram prompt supplies original and image coordinates across four quadrants, requiring a consistent corresponding-length ratio.
+Progression: visual scale copies → image/pre-image language → k=image/original → coordinate rule about a centre → construct/reverse → invariants → perimeter k and area k² → dynamic conjecture/check.
+Misconceptions: reversing the ratio; multiplying coordinates about an arbitrary centre as if centred at origin; treating translation as enlargement; assuming length is invariant; scaling area by k; angles change with size; using different factors on x and y; confusing centre with a vertex.
+
+KHAN / TRUSTED CROSS-CHECK
+EVIDENCE LEVEL: AUTHENTICATED KHAN INTERACTION VERIFIED — 2026-09-11.
+Authenticated Khan High School Geometry Unit 1, Lesson 6 “Dilations” was opened. The visible sequence includes dilating points, scale factor, centre, expanding/shrinking, error analysis and triangle dilation.
+Worked transcript: a pentagon side changes from 6 to 2, so k=1/3; Khan verifies the same factor through Δx and Δy on a slanted side. A second example uses k=5/2 to map length 2 to 5, and a reverse problem divides image length 8 by k=2 to recover original length 4.
+https://www.khanacademy.org/math/geometry/hs-geo-transformations/hs-geo-dilations/v/dilation-scale-factor
+Maths Is Fun’s ratio resource independently connects constant-ratio scaling to drawings and real objects: https://www.mathsisfun.com/numbers/ratio.html
+GeoGebra is the primary dynamic tool for centre/ray construction and invariant testing: https://www.geogebra.org/geometry
+Desmos Geometry provides a second interactive check: https://www.desmos.com/geometry
+
+AUTHORING TRANSFER
+Topic Page: centre/ray construction; coordinate rules for origin/arbitrary centre; invariant/change table; k versus k²; software slider protocol; reverse problems.
+Classroom View: photocopier scale investigation, GeoGebra centre drag, invariant measurement table, mystery centre and error clinic.
+Homework: find/apply k, coordinates, reductions, arbitrary centres, perimeter/area effects and explanations of invariance.
+Feedback: identify pre-image and image, use image/original, draw rays through corresponding points, scale displacement from the centre, and separate angle/shape invariants from size measures.
+
+48-PRACTICE BLUEPRINT
+P01–P08 vocabulary/scale factors; P09–P16 origin dilations; P17–P24 arbitrary centres/reverse; P25–P32 invariants; P33–P40 perimeter/area; P41–P48 dynamic investigation and error analysis.
+16-TEST BLUEPRINT
+T01–T04 identify k; T05–T08 construct/reverse; T09–T12 independent invariant/measure problems; T13–T16 dynamic reasoning and diagnosis.
+
+==============================================================================
+AC9M9SP03 — GEOMETRIC ALGORITHMS: DESIGN, TEST AND REFINE
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Design, test and refine algorithms involving a sequence of steps and decisions based on geometric constructions and theorems; discuss and evaluate refinements.
+
+CURRICULUM BOUNDARY
+Express a geometric process as precise numbered steps, pseudocode or flowchart; include inputs, constructions/calculations, conditional decisions and outputs; justify steps with geometric facts; trace on ordinary and boundary cases; identify ambiguity/failure and refine for correctness, efficiency and generality. Suitable contexts include triangle inequality, Pythagorean triples, angle/line bisectors and constrained constructions. Programming syntax is not required.
+
+IXL MAPPING AND ACTUAL EVIDENCE
+Direct Year 9 algorithm-design mapping: SOURCE-NOT-MAPPED. The Year 9 IXL catalogue was searched for algorithm, construction, compass and bisector skills; none appeared. Related geometry skills (triangle properties, Pythagoras, coordinates, similarity) can supply theorem content but do not assess algorithm design/test/refinement.
+Authoring implication: do not mislabel a routine geometry item as coverage. Every bank must include sequence, decision, trace/test, failure case and refinement tasks.
+Progression: follow a given procedure → identify inputs/outputs → convert prose↔flowchart/pseudocode → insert theorem-based decision → trace examples → test equality/degenerate cases → diagnose ambiguity → refine and compare efficiency.
+Misconceptions: algorithm means computer code only; unordered instructions are sufficient; testing one successful case proves correctness; omitting equality branches; using a theorem without verifying its conditions; construction steps that change compass width accidentally; “refine” means cosmetic rewriting; no justification needed after a correct output.
+
+KHAN / TRUSTED CROSS-CHECK
+EVIDENCE LEVEL: AUTHENTICATED KHAN CHECK — COMPOSITE/PARTIAL MAPPING.
+Authenticated Khan High School Geometry Unit 3, Lesson 8 “Constructing lines & angles” was opened. The visible sequence includes congruent/parallel lines, perpendicular bisectors, perpendiculars through/on a line, angle bisectors and a “Justify constructions” exercise.
+Observed worked transcript: to construct a perpendicular bisector of AB, centre equal-radius circles at A and B, mark their two intersections, and connect those intersections with a straightedge. Khan explicitly checks that the result both bisects AB and meets it at 90°. This provides an ordered construction and correctness condition.
+Khan does not directly teach pseudocode/flowcharts or iterative algorithm refinement for this descriptor: PARTIAL/SOURCE-NOT-MAPPED for those elements.
+https://www.khanacademy.org/math/geometry/hs-geo-congruence/hs-geo-bisectors/v/constructing-a-perpendicular-bisector-using-a-compass-and-straightedge
+Maths Is Fun provides animated compass-and-straightedge sequences for segment/angle bisectors, perpendiculars, parallels, triangles and circle constructions: https://www.mathsisfun.com/geometry/constructions.html
+GeoGebra supports executing, replaying and stress-testing constructions: https://www.geogebra.org/geometry
+Australian Curriculum/QCAA examples anchor triangle inequality, Pythagorean triples, bisectors and flowchart/pseudocode expectations.
+
+AUTHORING TRANSFER
+Topic Page: algorithm anatomy; sequence/selection symbols; construction worked example; triangle-inequality flowchart with strict equality branch; Pythagorean-triple loop; trace table; refinement rubric.
+Classroom View: follow a flawed construction, human-flowchart activity, test cases including boundary inputs, compare two algorithms and justify refinements.
+Homework: reorder steps, translate representations, trace, complete decisions, design construction/theorem algorithms and evaluate improvements.
+Feedback: specify inputs, order executable steps, state every decision branch, cite theorem conditions, test typical/boundary/invalid cases, then describe the exact refinement and why it improves the result.
+
+48-PRACTICE BLUEPRINT
+P01–P08 sequence/vocabulary; P09–P16 follow/trace; P17–P24 flowchart/pseudocode conversion; P25–P32 theorem/construction algorithms; P33–P40 testing/boundaries; P41–P48 diagnose, refine, compare and justify.
+16-TEST BLUEPRINT
+T01–T04 trace/represent; T05–T08 design; T09–T12 independent test/refine; T13–T16 evaluation, justification and edge cases.
+
+==============================================================================
+BATCH 3 INTERACTIVE QA CHECK — 2026-09-11
+- Five codes completed: AC9M9M04, AC9M9M05 and AC9M9SP01–AC9M9SP03.
+- One authenticated IXL Australia tab was used sequentially. Learn with an example was opened for mapped codes; SP03 is explicitly SOURCE-NOT-MAPPED after catalogue search.
+- One authenticated Khan Academy tab was used sequentially. Exact lesson/unit placement and worked transcript or live practice evidence is recorded for every code; partial/no-direct mappings are not overstated.
+- Australian Curriculum v9/QCAA defines scope. Australian Government-funded Mathematics Hub, Maths Is Fun, Desmos, GeoGebra and relevant public materials deepen pedagogy and representations.
+- Each code records boundary, progression, misconceptions, authoring transfer and distinct 48 Practice/16 Test coverage plans.
+- All five codes are genuinely AUTHORING-READY.
+
+==============================================================================
 BATCH 2 RESTARTED VERIFICATION AUDIT — 2026-09-11
 - The earlier unsupported Khan verification statement has been superseded by this audit.
 - AC9M9A05, AC9M9A06, AC9M9M01, AC9M9M02 and AC9M9M03 were re-audited in one authenticated Khan Academy tab, sequentially.
@@ -438,4 +628,4 @@ BATCH 1 INTERACTIVE QA CHECK — 2026-09-11
 - All five codes are genuinely AUTHORING-READY.
 
 RESUME INSTRUCTION
-Read NEXT_CODE and continue with AC9M9M04. Do not repeat completed research unless a source or curriculum descriptor materially changes.
+Read NEXT_CODE and continue with AC9M9ST01. Do not repeat completed research unless a source or curriculum descriptor materially changes.
