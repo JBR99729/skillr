@@ -3,14 +3,14 @@ Australian Curriculum Version 9.0 | SkillrHub
 Last updated: 2026-09-11
 
 PROJECT_STATUS: IN_PROGRESS
-CURRENT_PHASE: RESEARCH
-CURRENT_CODE: AC9M8P02
-LAST_COMPLETED_CODE: AC9M8P01
-NEXT_CODE: AC9M8P02
+CURRENT_PHASE: RESEARCH_COMPLETE
+CURRENT_CODE: NONE
+LAST_COMPLETED_CODE: AC9M8P03
+NEXT_CODE: NONE
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
-BATCH: 5 COMPLETE — INTERACTIVELY VERIFIED (LATEST: AC9M8ST01–AC9M8ST04, AC9M8P01)
+BATCH: 6 FINAL RESEARCH BATCH COMPLETE — INTERACTIVELY VERIFIED (LATEST: AC9M8P02–AC9M8P03)
 
 PURPOSE AND AUTHORING STANDARD
 This ledger supports later re-authoring of each Year 8 Mathematics Topic Page, HTML Classroom View, Homework/Worksheet, exactly 48 Practice questions and exactly 16 independent Test questions. Research evidence is drawn from Australian Curriculum v9/QCAA, IXL Australia Year 8, Khan Academy and reputable free/public sources. Source examples inform pedagogy only; SkillrHub content must be original.
@@ -998,5 +998,87 @@ BATCH 5 INTERACTIVE QA CHECK — 2026-09-11
 - Each code is sufficient for Topic Page, HTML Classroom View, Homework, exactly 48 Practice and a separate exactly 16 Test bank.
 - All five codes are genuinely AUTHORING-READY.
 
+
+==============================================================================
+AC9M8P02 — TWO EVENTS USING TABLES, TREES AND VENN DIAGRAMS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Determine all possible combinations for 2 events, using two-way tables, tree diagrams and Venn diagrams, and use these to determine probabilities of specific outcomes in practical situations.
+
+CURRICULUM BOUNDARY
+Systematically enumerate outcomes for two events; select and construct two-way tables, tree diagrams or Venn diagrams; interpret “and”, inclusive/exclusive “or”, “at least one”, “neither” and complements; calculate probabilities from equally likely sample spaces or frequency data. Do not assume independence unless the context supports it.
+
+IXL MAPPING AND ACTUAL EXAMPLE EVIDENCE
+Direct mappings: AA.3 probabilities from two-way frequency tables; AA.6 compound-event sample spaces; AA.7 number of compound outcomes; AA.8–AA.9 independent/dependent events; AA.10 counting principle.
+- AA.3 example actually opened: a two-way frequency table has cells 5,4,4,3 for location and tool categories. IXL identifies “matches and rainforest” as the intersection cell 3, totals all cells to 16 and calculates P(A and B)=3/16.
+- AA.7 example actually opened: flip a coin and roll a die. IXL builds a tree with H/T followed by 1–6, lists H1…H6 and T1…T6 and counts 12 terminal branches.
+Venn-diagram construction is not directly mapped in the Year 8 IXL probability strand: SOURCE-NOT-MAPPED for that representation, though overlapping-event concepts appear in AA.2.
+Progression: list outcomes → ordered pairs → tree/table → two-way frequencies → Venn regions → translate event language → probability → compare representations.
+Misconceptions: counting branches before the final stage; treating H1 and 1H as different when event order is fixed; reading a row/column total for “and”; interpreting “or” as exclusive by default; double-counting the intersection; omitting “neither”; dividing a frequency cell by its row total when the question asks unconditional probability; assuming every table is equally likely.
+
+KHAN / TRUSTED CROSS-CHECK
+Authenticated Khan “Sample spaces for compound events” was opened. Khan’s official description explicitly uses a tree diagram, table and list to represent the same compound sample space.
+https://www.khanacademy.org/math/cc-seventh-grade-math/cc-7th-probability-statistics/cc-7th-compound-events/v/compound-sample-spaces
+NRICH probability tasks extend systematic listing and representation choice: https://nrich.maths.org/probability
+GeoGebra probability resources can support dynamic tree/table demonstrations: https://www.geogebra.org/maths-apps
+
+AUTHORING TRANSFER
+Topic Page: representation-choice matrix; worked tree, two-way table and Venn example; event-language glossary; inclusive “or” and intersection correction; equally-likely versus frequency denominators.
+Classroom View: construct the same sample space three ways, human Venn sort, translate phrases to regions, diagnose double counting and defend the clearest representation.
+Homework: enumerate outcomes, complete/read trees and tables, fill Venn regions, calculate practical probabilities and compare methods.
+Feedback: define both events, mark the requested region/branches first, confirm the complete denominator, then count once and simplify.
+
+48-PRACTICE BLUEPRINT
+P01–P08 combinations/lists; P09–P16 tree diagrams; P17–P24 two-way tables; P25–P32 Venn diagrams; P33–P40 event language and probabilities; P41–P48 practical mixed representations and error analysis.
+16-TEST BLUEPRINT
+T01–T04 enumerate/represent; T05–T08 tables/trees; T09–T12 independent Venn/practical problems; T13–T16 representation choice, justification and misconception diagnosis.
+
+==============================================================================
+AC9M8P03 — REPEATED COMPOUND CHANCE EXPERIMENTS AND DIGITAL SIMULATIONS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Conduct repeated chance experiments and simulations, using digital tools to determine probabilities for compound events, and describe results.
+
+CURRICULUM BOUNDARY
+Design and run repeated two-stage or compound experiments; build a valid digital simulation matching the physical process; record joint outcomes; calculate relative frequencies; compare experimental and theoretical probabilities; describe random variation and convergence tendencies. Finite trials need not match theory exactly, and simulation quality depends on correct probabilities and independence/dependence assumptions.
+
+IXL MAPPING AND ACTUAL EXAMPLE EVIDENCE
+Supporting mappings: AA.4 experimental probability; AA.5 predictions; AA.6–AA.7 compound sample spaces/outcome counts; AA.8–AA.9 independent/dependent events. SOURCE-NOT-MAPPED for designing and running a full digital compound-event simulation.
+- AA.4 example actually opened: 2 poppy-seed muffins among 6 recently served pastries. IXL defines experimental probability as event frequency divided by total trials and simplifies 2/6 to 1/3.
+- AA.9 example actually opened: flip a coin twice. IXL identifies the flips as independent, calculates P(heads)=1/2 and P(tails)=1/2, multiplies to obtain P(H then T)=1/4.
+These examples provide relative-frequency and theoretical compound-event anchors; authored work must connect them through repeated digital trials and result description.
+Progression: specify experiment/outcomes → theoretical sample space → simulate one compound trial → repeat and tally → relative frequency → compare runs/trial counts → describe variation/trend → evaluate simulation validity.
+Misconceptions: 1000 trials must equal theory exactly; experimental probability is fixed after one run; counting individual events rather than ordered compound outcomes; resetting when the physical process is without replacement; treating dependent events as independent; using a biased random-number range; changing the model mid-run; saying “closer” without numerical evidence; confusing number of successes with probability.
+
+KHAN / TRUSTED CROSS-CHECK
+Authenticated Khan “Theoretical and experimental probabilities” was opened. Its official lesson description states that experimental probability estimates theoretical probability from repeated independent trials.
+https://www.khanacademy.org/math/cc-seventh-grade-math/cc-7th-probability-statistics/cc-7th-theoretical-and-experimental-probability/v/comparing-theoretical-to-experimental-probabilites
+CODAP provides a reputable free environment for repeated simulations, tables and graphs: https://codap.concord.org/
+GeoGebra probability tools offer a second dynamic option: https://www.geogebra.org/maths-apps
+
+AUTHORING TRANSFER
+Topic Page: experiment-versus-simulation distinction; compound-trial design; random-number mapping; tally/relative-frequency table; theoretical comparison; variation/convergence language; validation checklist.
+Classroom View: predict two-event outcomes, run physical trials, reproduce digitally at increasing trial counts, compare class results, find a flawed simulation and write an evidence-based conclusion.
+Homework: design mappings, calculate theory, interpret simulation outputs, compare runs/sample sizes, repair biased models and describe results with uncertainty.
+Feedback: verify that one digital trial matches every stage and probability of the real experiment, keep ordered outcomes, calculate frequency ÷ trials, then compare numerically without claiming exact agreement.
+
+48-PRACTICE BLUEPRINT
+P01–P08 experiment/sample-space foundations; P09–P16 compound theoretical probabilities; P17–P24 experimental relative frequency; P25–P32 design digital mappings; P33–P40 compare runs/trial counts; P41–P48 validity, variation and result description.
+16-TEST BLUEPRINT
+T01–T04 sample-space/theory; T05–T08 relative frequency; T09–T12 independent simulation design/interpretation; T13–T16 validation, uncertainty and error analysis.
+
+==============================================================================
+FINAL YEAR 8 MATHEMATICS RESEARCH QA — 2026-09-11
+- Final two codes completed: AC9M8P02 and AC9M8P03.
+- One authenticated IXL Australia tab was used sequentially; four relevant Learn with an example panels were inspected across the two codes.
+- One authenticated Khan Academy tab was used sequentially for compound sample spaces and theoretical-versus-experimental probability.
+- Australian Curriculum v9/QCAA set exact scope; NRICH, CODAP and GeoGebra extend reputable public evidence.
+- IXL/Khan limitations for Venn-diagram construction and full digital-simulation design are explicitly recorded as SOURCE-NOT-MAPPED rather than overstated.
+- All 27 Australian Curriculum v9 Year 8 Mathematics codes now have authoring-ready research.
+- Every code includes evidence sufficient for Topic Page, HTML Classroom View, Homework, exactly 48 Practice and a separate exactly 16 Test bank.
+- Research phase is complete; authoring has not been started in this master.
+
 RESUME INSTRUCTION
-Read NEXT_CODE and continue with AC9M8P02. Do not repeat completed research unless a source or curriculum descriptor materially changes.
+Research has no remaining Year 8 Mathematics code. Begin authoring from AC9M8N01 only when the authoring phase is requested; retain any genuinely strong post-research content and replace shallow or pre-research material.
