@@ -10,7 +10,7 @@ NEXT_CODE: AUTHORING_AC9M7N01
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
-BATCH: TARGETED IXL/KHAN EVIDENCE RERUN IN PROGRESS — M02–M06 VERIFIED
+BATCH: TARGETED IXL/KHAN EVIDENCE RERUN IN PROGRESS — SP01–ST01 VERIFIED
 
 PURPOSE AND AUTHORING STANDARD
 This is the evidence ledger for re-authoring Year 7 Mathematics. Every code must be researched before authoring. Research must transfer into the Topic Page, HTML Classroom View, Homework/Worksheet, exactly 48 Practice questions and exactly 16 independent Test questions. IXL was inspected through one authenticated Australia browser tab, sequentially, including live skill pages and Learn with an example. Khan Academy was inspected through one authenticated browser tab, sequentially. Source language and examples are evidence only: SkillrHub output must be original.
@@ -879,8 +879,10 @@ Question progression: identify a solid from a net; decide whether a net is valid
 Misconceptions: treating any connected set of faces as a valid net; overlooking overlapping faces when folded; swapping front/side due to orientation; counting hidden cubes from one view without sufficient information; drawing perspective when an orthographic view is requested; claiming one representation is universally “best”.
 
 KHAN / TRUSTED EVIDENCE
-No single age-matched Khan lesson cleanly maps the full compare-representations descriptor: SOURCE-NOT-MAPPED at full-code level. Khan geometry contains nets/cross-sections and spatial-visualisation foundations, but AC v9/QCAA and IXL provide the direct scope.
-A suitable additional trusted public teaching source is NRICH’s spatial reasoning task collection: https://nrich.maths.org/primary/geometry-and-measure/spatial-reasoning
+EVIDENCE LEVEL: DIRECT IXL WORKED EXAMPLES + VERIFIED EXACT-SOURCE GAP — 2026-09-11.
+Authenticated IXL examples remain the closest direct mapping: a dotted-edge net is mentally folded to a square pyramid, and a cube-built object is viewed from a fixed front direction to match the visible 2D square arrangement. Khan Academy has no single lesson matching the full Year 7 requirement to compare nets, orthographic views, plans and perspective representations; this is recorded as SOURCE-NOT-MAPPED rather than padded with a weak link.
+NRICH’s spatial-reasoning collection was retained as the additional trusted source because its tasks require learners to visualise, construct, compare viewpoints and explain what can or cannot be inferred from a representation: https://nrich.maths.org/primary/geometry-and-measure/spatial-reasoning
+Authoring implications: every representation task must state the viewing direction or fold information, require cross-checking across more than one view where hidden structure matters, and include explicit advantages/limitations rather than recognition alone.
 
 AUTHORING TRANSFER
 Topic Page: show one object as perspective sketch, top/front/side views and net; define line-of-sight projection; provide a comparison table of information shown, hidden and typical use; teach a fold-check strategy for nets.
@@ -916,9 +918,11 @@ Progression: recognise properties → classify under one rule → classify under
 Misconceptions: classifying by appearance/orientation; saying every isosceles triangle is acute; treating “square” and “rectangle” as exclusive; confusing adjacent and opposite sides; assuming equal-looking features without marks; ignoring concavity; using memorised names without property justification.
 
 KHAN / TRUSTED EVIDENCE
-Khan’s quadrilateral classification material organises figures by properties and highlights inclusive categories: https://www.khanacademy.org/math/cc-fifth-grade-math/classify-shapes/imp-classifying-geometric-shapes/v/intro-to-quadrilateral
-Khan triangle-classification resources support classification by both side length and angle measure. Australian Curriculum/QCAA control the expected Year 7 reasoning level.
-NRICH geometry tasks provide reputable property-based sorting and always/sometimes/never reasoning: https://nrich.maths.org/primary/geometry-and-measure/properties-of-shapes
+EVIDENCE LEVEL: AUTHENTICATED KHAN WORKED TRANSCRIPT VERIFIED — 2026-09-11.
+Khan’s “Classifying quadrilaterals” transcript was inspected in the authenticated session. It starts with the broad definition “quadrilateral = four-sided figure”, then applies nested properties: parallelograms have two pairs of parallel sides; rhombuses are parallelograms with all sides equal; squares are rhombuses with four right angles. Worked prompts distinguish one-way implications: every square is a rhombus, but not every quadrilateral or parallelogram is a rhombus.
+https://www.khanacademy.org/math/cc-fifth-grade-math/properties-of-shapes/imp-quadrilaterals-2/v/classifying-shapes
+NRICH property-sorting tasks provide the second public cross-check for always/sometimes/never reasoning and counterexamples: https://nrich.maths.org/primary/geometry-and-measure/properties-of-shapes
+Authoring implications: use inclusive hierarchies, marked properties and counterexamples; test both “is always a” and its non-equivalent converse; never classify from visual appearance alone.
 
 AUTHORING TRANSFER
 Topic Page: property vocabulary with marked diagrams; two-way triangle classification grid; quadrilateral hierarchy with definition note; regular/irregular and concave/convex polygons; worked always/sometimes/never statements.
@@ -959,12 +963,11 @@ Core rules to teach and verify geometrically: translation (x,y)→(x+a,y+b); ref
 Misconceptions: swapping x/y movement; sign errors; reflecting in the wrong axis; treating reflection as negating both coordinates; omitting direction or centre; rotating about the origin when another point is marked; describing only the image, not the transformation; joining vertices in changed order.
 
 KHAN / TRUSTED EVIDENCE
-Khan transformation lessons distinguish rigid motions and model coordinate effects:
-- Translations: https://www.khanacademy.org/math/geometry/hs-geo-transformations/hs-geo-translations/v/translating-shapes
-- Reflections: https://www.khanacademy.org/math/geometry/hs-geo-transformations/hs-geo-reflections/v/reflections-intro
-- Rotations: https://www.khanacademy.org/math/geometry/hs-geo-transformations/hs-geo-rotations/v/rotating-shapes
-GeoGebra’s public geometry tools are a trusted dynamic check for distance, orientation and centre: https://www.geogebra.org/geometry
-Australian Curriculum/QCAA control the exact content boundary.
+EVIDENCE LEVEL: AUTHENTICATED IXL + KHAN WORKED EXAMPLES VERIFIED — 2026-09-11.
+IXL’s reflection example was reopened and inspected: T(−3,2) reflected in the y-axis becomes T′(3,2). The explanation states that a y-axis reflection changes the sign of the x-coordinate and preserves equal distance from the axis. Its rotation example starts at P(−1,6), turns 180° anticlockwise about the origin, predicts movement from Quadrant II to IV, and obtains P′(1,−6); it explains 180° as half a full turn and keeps the origin fixed. These replace the former image-only claim.
+Khan’s authenticated “Translating shapes” lesson defines T(a,b) as moving every point a units horizontally and b vertically. Its worked point A(4,−7) under T(−10,5) becomes A′(−6,−2); later it translates segment endpoints and then every polygon vertex, reconnecting images in order. https://www.khanacademy.org/math/geometry/hs-geo-transformations/hs-geo-translations/v/translating-shapes
+GeoGebra remains the additional trusted dynamic check: https://www.geogebra.org/geometry
+Authoring implications: combine geometric language and coordinate computation, require the centre/axis/vector in every description, preserve vertex order, and use invariant distance/shape checks plus inverse problems.
 
 AUTHORING TRANSFER
 Topic Page: transformation vocabulary; coordinate-grid animations/diagrams; translation vectors in words and ordered changes; reflection rules derived from equal distance to axis; rotations with tracing paper; centre-shift method for non-origin rotations; invariant distance/shape checks.
@@ -1009,10 +1012,11 @@ High-value algorithm pattern: START → Is it a polygon? → How many sides? →
 Misconceptions: vague steps such as “check its shape”; testing a property after already assigning a label; overlapping branches without precedence; omitting a possible input; using appearance instead of marked properties; assuming categories are mutually exclusive; an algorithm that works only for the examples shown.
 
 KHAN / TRUSTED EVIDENCE
-Khan has property-based polygon/quadrilateral classification but no exact Year 7 shape-algorithm lesson: SOURCE-NOT-MAPPED for the algorithm-design component.
-Supporting Khan classification lesson: https://www.khanacademy.org/math/cc-fifth-grade-math/classify-shapes/imp-classifying-geometric-shapes/v/intro-to-quadrilateral
-CS Unplugged provides trusted public foundations for algorithms, decisions, testing and debugging: https://www.csunplugged.org/en/topics/kidbots/
-Australian Curriculum v9/QCAA control the integration of spatial attributes with algorithmic thinking.
+EVIDENCE LEVEL: VERIFIED EXACT-SOURCE GAP + TRUSTED COMPONENT EVIDENCE — 2026-09-11.
+IXL and Khan were rechecked: neither offers one age-matched lesson for designing, testing and debugging a branching shape-classification algorithm, so the full-code mapping remains SOURCE-NOT-MAPPED. Khan’s authenticated quadrilateral transcript supplies reliable atomic predicates and inclusive relationships—four sides; two pairs of parallel sides; all sides equal; four right angles—but not the algorithm-design outcome.
+Supporting Khan lesson: https://www.khanacademy.org/math/cc-fifth-grade-math/properties-of-shapes/imp-quadrilaterals-2/v/classifying-shapes
+CS Unplugged’s Kidbots material is retained for the algorithm component because it develops precise ordered instructions, execution, testing and debugging through observable outcomes: https://www.csunplugged.org/en/topics/kidbots/
+Authoring implications: translate every geometric property into an unambiguous yes/no test, ensure every input reaches a terminal result, trace representative and counterexample shapes, and require learners to locate and repair the first failing branch.
 
 AUTHORING TRANSFER
 Topic Page: define algorithm, input, attribute, decision, branch, output and debug; turn a shape hierarchy into a decision tree; contrast an ambiguous and a robust algorithm; trace multiple shapes; revise failed branches.
@@ -1049,9 +1053,12 @@ Required authoring extension beyond IXL calculation: learners acquire their own 
 Misconceptions: calling measured data discrete because readings are written as whole numbers; forgetting to order for median; dividing by the sum rather than count; assuming every set has one mode; including range as a measure of centre; automatically choosing mean despite an extreme outlier; giving a statistic without units/context.
 
 KHAN / TRUSTED EVIDENCE
-Khan’s statistics lessons support mean, median, mode, range and the effect of outliers; its distribution lesson distinguishes peaks, gaps, clusters and outliers: https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-data-statistics/cc-6-shape-of-data/v/examples-analyzing-clusters-gaps-peaks-and-outliers-for-distributions
-Australian Bureau of Statistics education resources provide trustworthy real datasets and guidance on statistical investigations: https://www.abs.gov.au/statistics/people/education
-Australian Curriculum/QCAA control the discrete/continuous acquisition and justification requirements.
+EVIDENCE LEVEL: AUTHENTICATED KHAN WORKED TRANSCRIPT + TRUSTED DATA SOURCE VERIFIED — 2026-09-11.
+Khan’s “Impact on median & mean: increasing an outlier” transcript was inspected. Four ordered bowling scores include a high value of 250 that changes to 290. Because the two middle values are unchanged, the median stays fixed; because the total rises by 40 across four values, the mean rises. The example explicitly computes median from the middle two values for an even-sized set and explains the mean through total ÷ count.
+https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-data-statistics/cc-6th-mean-median-challenge/v/impact-on-median-and-mean-when-increasing-highest-value
+Khan’s statistics introduction independently confirms ordering for median and frequency for mode: https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-data-statistics/mean-and-median/v/statistics-intro-mean-median-and-mode
+ABS Education remains the trusted Australian source for authentic acquired data: https://www.abs.gov.au/statistics/people/education
+Authoring implications: separate calculation from interpretation, include even/odd set sizes and no/one/multiple modes, quantify how changing one value affects the mean, compare resistant median with outlier-sensitive mean, and require contextual units and a justified choice of centre.
 
 AUTHORING TRANSFER
 Topic Page: discrete-vs-continuous sorting; ethical/repeatable measurement notes; worked ordered data set; visual “balance point” for mean; median as middle; mode as frequency peak; outlier comparison table; contextual statistic-choice sentence frames.
@@ -1243,7 +1250,8 @@ TARGETED EVIDENCE RERUN CHECKPOINTS — 2026-09-11
 - Each strengthened record documents method, progression, traps and direct authoring implications.
 - AC9M7A03–AC9M7M01 were then rechecked using authenticated worked transcripts/live exercise evidence; AC9M7A06 retains an explicit exact-source gap with verified prerequisite evidence.
 - AC9M7M02–AC9M7M06 were rechecked with authenticated Khan worked transcripts; M02–M04 also received reopened IXL Learn-with-an-example evidence to replace image-only claims.
-- Remaining deficient Year 7 records begin at AC9M7SP01.
+- AC9M7SP01–AC9M7ST01 were rechecked: authenticated IXL/Khan worked evidence now strengthens SP02, SP03 and ST01, while SP01 and SP04 preserve explicit exact-source gaps with trusted public component evidence.
+- Remaining deficient Year 7 records begin at AC9M7ST02.
 
 AUTHORING HANDOFF
 NEXT_CODE: AC9M7N01
