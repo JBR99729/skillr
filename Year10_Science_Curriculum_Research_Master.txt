@@ -3,14 +3,14 @@ Australian Curriculum v9 | SkillrHub
 Last updated: 2026-09-11
 
 PROJECT_STATUS: IN_PROGRESS
-CURRENT_PHASE: RESEARCH
-CURRENT_CODE: AC9S10I06
-LAST_COMPLETED_CODE: AC9S10I05
-NEXT_CODE: AC9S10I07
+CURRENT_PHASE: RESEARCH_COMPLETE
+CURRENT_CODE: NONE
+LAST_COMPLETED_CODE: AC9S10I08
+NEXT_CODE: AC9S10U01 (AUTHORING)
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
-BATCH: 4 COMPLETED (LATEST: AC9S10I02–AC9S10I05)
+BATCH: 5 COMPLETED (FINAL RESEARCH BATCH: AC9S10I06–AC9S10I08)
 
 CURRICULUM CODE INVENTORY
 AC9S10U01, AC9S10U02, AC9S10U03, AC9S10U04, AC9S10U05, AC9S10U06, AC9S10U07
@@ -1036,3 +1036,221 @@ AC9S10I04: AUTHORING-READY
 AC9S10I05: AUTHORING-READY
 
 Research completed using the exact Australian Curriculum descriptors, sequential single-tab IXL/Khan checks where mapped, explicit partial/unmapped records, and reputable public sources. All four blueprints reserve exactly 48 Practice Questions and exactly 16 independent Test Questions.
+
+
+======================================================================
+AC9S10I06 — VALIDITY, REPRODUCIBILITY, CLAIMS AND UNCERTAINTY
+STATUS: AUTHORING-READY
+======================================================================
+
+CURRICULUM DESCRIPTION
+Assess the validity and reproducibility of methods and evaluate the validity of conclusions and claims, including by identifying assumptions, conflicting evidence and areas of uncertainty.
+
+CURRICULUM BOUNDARY
+Students must distinguish method validity from reproducibility and then judge whether conclusions are warranted by the evidence. Evaluation must identify assumptions, incompatible evidence and uncertainty—not merely list “errors”. Strong responses connect a limitation to its likely effect on data and claim, compare alternative explanations, and calibrate confidence. A reproducible method may still measure the wrong thing; a valid result may require replication before broad generalisation.
+
+SOURCE EVIDENCE
+- Australian Curriculum v9: the descriptor explicitly joins method assessment with evaluation of conclusions/claims, assumptions, conflicting evidence and uncertainty.
+- IXL Australia Year 10 relevant mapping: GG.1 Evaluate claims about natural resource use—fossil fuels; GG.2 groundwater claims; K.3–K.4 evaluation of fossil, anatomical and molecular evidence; A inquiry variables/control skills. No single IXL skill spans method validity, reproducibility and uncertainty: PARTIAL-MAPPING.
+- IXL live practice, GG.1: learners inspect a sourced 1965–2015 global energy-use graph and choose the statement actually supported (“increased most years”) rather than a contradictory constant-use claim. This confirms evidence-bounded claim selection, source attribution and trend reading.
+- Khan Academy: argument/evidence resources provide claim–evidence reasoning prerequisites, but no direct science sequence covers validity, reproducibility, conflicting evidence and uncertainty together; PARTIAL-MAPPING.
+- National Academies, Reproducibility and Replicability in Science: method transparency, computational reproducibility and independent replication are distinct contributors to confidence. https://nap.nationalacademies.org/catalog/25303/reproducibility-and-replicability-in-science
+- NIST/SEMATECH e-Handbook: assumptions, residuals, uncertainty and sensitivity checks are essential when evaluating model/data conclusions. https://www.itl.nist.gov/div898/handbook/
+- Australian Bureau of Statistics quality framework: relevance, accuracy, timeliness, accessibility, interpretability and coherence affect whether data support use. https://www.abs.gov.au/websitedbs/D3310114.nsf/home/Quality:+The+ABS+Data+Quality+Framework
+- Committee on Publication Ethics guidance provides cases where conflicting evidence, corrections and undisclosed assumptions alter confidence. https://publicationethics.org/
+- ABC Education: no stable code-complete evaluation sequence was relied on; SOURCE-NOT-MAPPED.
+
+AUTHORING-READY KNOWLEDGE
+1. Method validity asks whether the design measures/tests the intended question and controls plausible alternatives.
+2. Reproducibility asks whether sufficiently documented analysis/procedures can produce compatible results; replication uses new data/conditions.
+3. Reliability/precision alone does not establish validity: a miscalibrated instrument can give repeatable but biased values.
+4. A conclusion must match the direction, magnitude, uncertainty, population, conditions and time span of the data.
+5. Generalisation beyond the sampled population or tested range needs justification.
+6. Assumptions may concern measurement calibration, sample independence, model form, constant conditions, representativeness or absence of confounding.
+7. An unstated assumption is not automatically false; evaluation asks whether it is reasonable and how sensitive the conclusion is to it.
+8. Conflicting evidence should be compared for method quality, independence, sample, context, uncertainty and compatibility—not counted as votes.
+9. Apparent conflict may arise from different definitions, scales, populations or conditions.
+10. Random uncertainty limits precision; systematic bias threatens accuracy; model uncertainty concerns whether important processes are omitted/misrepresented.
+11. Error bars/intervals do not mean every value inside is equally likely and do not remove other uncertainty sources.
+12. Correlation alone does not validate a causal conclusion; mechanism, temporal order and confounder controls matter.
+13. Sensitivity analysis tests whether reasonable choices/assumptions change the conclusion.
+14. A qualified claim can remain valid when limitations are explicit; “more research needed” should specify what evidence is missing.
+15. Confidence language should range from unsupported/limited to well-supported, not simply true/false.
+
+IXL/KHAN QUESTION PATTERNS AND TRAPS
+- Decide whether data support, contradict or fail to address a claim.
+- Compare two methods for validity and reproducibility and explain consequences.
+- Identify the hidden assumption required for an inference.
+- Reconcile conflicting datasets or identify a discriminating next study.
+- Common traps: reproducible equals valid; any anomaly invalidates the study; largest sample always wins; peer-reviewed means certain; overlapping error bars prove no difference; correlation proves mechanism; uncertainty means nothing is known; limitations require total rejection.
+
+CONTENT BLUEPRINT
+Practice questions — exactly 48:
+- 1–7 validity, reliability, reproducibility and replication
+- 8–15 conclusions matched to data scope
+- 16–23 assumptions and sensitivity
+- 24–31 conflicting evidence and source comparison
+- 32–39 uncertainty, bias, intervals and model limits
+- 40–45 causal claims and alternative explanations
+- 46–48 integrated evaluations with recommendations
+Test questions — exactly 16, independently worded:
+- 1–4 method validity/reproducibility
+- 5–7 claim–evidence scope
+- 8–10 assumptions and uncertainty
+- 11–13 conflicting evidence
+- 14–16 full evaluation and targeted improvement
+Feedback must name the limitation, its direction/effect and the exact additional evidence or change required.
+
+======================================================================
+AC9S10I07 — EVIDENCE-BASED ARGUMENTS, ETHICS AND CULTURAL PROTOCOLS
+STATUS: AUTHORING-READY
+======================================================================
+
+CURRICULUM DESCRIPTION
+Construct arguments based on analysis of a variety of evidence to support conclusions or evaluate claims, and consider any ethical issues and cultural protocols associated with accessing, using or citing secondary data or information.
+
+CURRICULUM BOUNDARY
+Students need to construct a scientific argument with a precise claim, multiple relevant evidence sources and reasoning that connects evidence through scientific principles. They must weigh conflicting evidence and limitations rather than cherry-pick. When secondary information involves people, communities, Country/Place or Indigenous knowledge, ethical access, governance, attribution, consent and cultural protocols are part of evidence use—not an optional citation footnote.
+
+SOURCE EVIDENCE
+- Australian Curriculum v9: requires arguments from varied evidence plus ethical and cultural-protocol consideration for secondary data/information.
+- IXL Australia Year 10 relevant mapping: GG.1–GG.2 claim evaluation; K.3–K.4 evaluation of evolutionary evidence; K.5 constructing natural-selection explanations; climate-data tasks. These are domain-specific components, so PARTIAL-MAPPING.
+- IXL live evidence, GG.1: a global energy-use claim must be limited to what the cited graph supports. This gives a useful first step—claim/evidence alignment—but full authoring must require multi-source reasoning, counter-evidence, ethics and protocols.
+- Khan Academy authenticated, checked sequentially: What is an argument? identifies claim supported by facts/statistics/evidence; Reasoning within the text supports evaluating claim–evidence links. Science-specific uncertainty and cultural protocols remain unmapped: PARTIAL-MAPPING.
+- Stanford NGSS Assessment Project CER framework: evidence must be appropriate/sufficient and reasoning must connect evidence to a claim using scientific ideas. https://snapgse.stanford.edu/
+- National Academies science/evidence reports model synthesis of multiple methods and explicit uncertainty. https://www.nationalacademies.org/
+- AIATSIS Code of Ethics: Indigenous research and knowledge use requires Indigenous self-determination, leadership, benefit, sustainability and accountability. https://aiatsis.gov.au/research/ethical-research/code-ethics
+- Local Contexts Traditional Knowledge/Biocultural Labels: provenance and community-defined protocols can accompany Indigenous knowledge/data beyond standard academic citation. https://localcontexts.org/
+- Australian Research Data Commons CARE/FAIR guidance: open-data principles must be balanced with collective benefit, authority to control, responsibility and ethics. https://ardc.edu.au/
+- ABC Education: no stable code-complete argument/protocol sequence was used; SOURCE-NOT-MAPPED.
+
+AUTHORING-READY KNOWLEDGE
+1. A scientific argument contains a defensible claim, relevant evidence and reasoning that shows why the evidence supports the claim.
+2. Evidence quality depends on relevance, validity, precision, sample, independence, recency and source transparency.
+3. A variety of evidence means genuinely different datasets, methods or information—not repeated versions of one source.
+4. Quantity of sources does not compensate for shared bias or poor quality.
+5. Reasoning invokes scientific concepts/mechanisms and addresses why alternatives are less consistent with the evidence.
+6. Counter-evidence should be represented fairly, evaluated with the same criteria and used to qualify/revise the claim.
+7. Conclusions must be proportional to evidence and include scope/uncertainty.
+8. Secondary data require verification of creator, method, units, definitions, date, transformations and licence/access conditions.
+9. Ethical secondary-data use includes privacy, consent, avoiding harm/stigma, and not repurposing data beyond agreed conditions.
+10. De-identification may not prevent re-identification, especially for small communities.
+11. Indigenous knowledge/data are governed by cultural authority and collective rights; public availability does not automatically grant permission for reuse.
+12. Cultural protocols may specify who may access, interpret, reproduce, store or cite information and whether sacred/restricted knowledge must remain closed.
+13. Attribution must recognise knowledge holders/communities as required, not only the webpage or collector.
+14. FAIR data principles do not override CARE principles or community governance.
+15. Ethical limitations may constrain the argument; they do not justify inventing or extracting inaccessible evidence.
+
+IXL/KHAN QUESTION PATTERNS AND TRAPS
+- Build claim–evidence–reasoning from several sources.
+- Rank evidence and explain why one source is more probative.
+- Incorporate counter-evidence and revise claim strength.
+- Audit a secondary dataset for provenance, consent, licence and cultural authority.
+- Common traps: list evidence without reasoning; repeat the claim as reasoning; ignore counter-evidence; cite a public link as automatic reuse permission; assume de-identified means risk-free; use Indigenous knowledge without community authority; treat more sources as stronger regardless of independence.
+
+CONTENT BLUEPRINT
+Practice questions — exactly 48:
+- 1–7 claim, evidence and reasoning structure
+- 8–16 evidence relevance, quality and independence
+- 17–25 multi-source synthesis and counter-evidence
+- 26–33 conclusion scope, uncertainty and alternatives
+- 34–40 secondary-data provenance, consent, privacy and licence
+- 41–46 Indigenous data governance and cultural protocols
+- 47–48 full scientific argument construction
+Test questions — exactly 16, independently worded:
+- 1–3 CER fundamentals
+- 4–7 evidence-quality comparison
+- 8–11 synthesis/counterclaim
+- 12–14 ethical secondary-data use
+- 15–16 cultural-protocol argument cases
+Feedback must identify whether the weakness is claim precision, evidence quality, reasoning, counter-evidence, ethics or cultural authority.
+
+======================================================================
+AC9S10I08 — PURPOSEFUL SCIENTIFIC COMMUNICATION FOR AUDIENCES
+STATUS: AUTHORING-READY
+======================================================================
+
+CURRICULUM DESCRIPTION
+Write and create texts to communicate ideas, findings and arguments effectively for identified purposes and audiences, including selection of appropriate content, language and text features, using digital tools as appropriate.
+
+CURRICULUM BOUNDARY
+Students must make evidence-based communication choices for a named audience and purpose. The scientific meaning, uncertainty and source integrity must remain accurate while vocabulary, structure, detail and representation change. Texts may include reports, explanations, arguments, posters, infographics, presentations, videos or digital products. “Engaging” design cannot replace evidence or distort scale; accessibility, attribution and ethical/cultural protocols remain essential.
+
+SOURCE EVIDENCE
+- Australian Curriculum v9: specifies identified purpose/audience, content/language/text-feature selection and appropriate digital tools.
+- IXL Australia Year 10: no direct science-communication creation skill was visible; SOURCE-NOT-MAPPED. Data graphs, scientific vocabulary and claim-evaluation tasks supply partial source material only.
+- Khan Academy: argument and reading resources support logical structure, but no direct Year 10 scientific multimodal-communication sequence was identified in the single authenticated tab; SOURCE-NOT-MAPPED.
+- Australian Academy of Science communication materials model accurate public explanation and evidence-linked graphics for non-specialists. https://www.science.org.au/curious
+- National Academies, Communicating Science Effectively: communication begins with goals and audiences and should account for values, context and trust rather than assuming information transfer alone. https://nap.nationalacademies.org/catalog/23674/communicating-science-effectively-a-research-agenda
+- CSIRO Education and media releases provide Australian examples of translating research for schools and the public while retaining method/source links. https://www.csiro.au/en/news/All
+- Australian Government Style Manual: plain language, inclusive/accessibility-aware structure, meaningful headings, alt text and fit-for-channel design. https://www.stylemanual.gov.au/
+- Web Content Accessibility Guidelines support captions, text alternatives, readable contrast, keyboard access and non-colour-only meaning in digital texts. https://www.w3.org/WAI/standards-guidelines/wcag/
+- AIATSIS ethics/citation guidance applies where communication uses Indigenous knowledge, community data or cultural material. https://aiatsis.gov.au/research/ethical-research
+- ABC Education: examples can model classroom multimodal science explanation, but no stable complete mapping was relied on; SOURCE-NOT-MAPPED.
+
+AUTHORING-READY KNOWLEDGE
+1. Purpose may be to explain, report, instruct, argue, recommend or alert; each requires different content and structure.
+2. Audience analysis includes prior knowledge, vocabulary, needs, likely questions, cultural context and accessibility.
+3. Core scientific claim, evidence and uncertainty must remain consistent across audience adaptations.
+4. A laboratory report prioritises reproducible method, results, analysis and limitations; a public explainer prioritises context and clear meaning but still links evidence.
+5. Technical terms should be defined when needed, not simply removed; analogies require stated limits.
+6. Headings, captions, tables, graphs, diagrams and callouts should serve comprehension and evidence.
+7. Captions should state the main takeaway and include units/source; decorative graphics must not imply unsupported relationships.
+8. Visual scales, axis choices and colour must not distort data; colour alone should not carry meaning.
+9. Accessible digital texts require alt text, captions/transcripts, logical heading order, readable contrast and meaningful link text.
+10. Source citation enables verification and distinguishes evidence from author interpretation.
+11. Uncertainty should be communicated in understandable terms without false certainty or false balance.
+12. Digital tools support editing, visualisation, collaboration and multimodal delivery but require checking templates, auto-generated summaries and data transformations.
+13. Ethical communication avoids identifying participants, exaggerating risk, stigmatising groups or exposing restricted knowledge.
+14. Cultural protocols can affect permission, attribution, images, terminology and distribution.
+15. Evaluation asks whether the intended audience can accurately understand and use the message.
+
+IXL/KHAN QUESTION PATTERNS AND TRAPS
+- Choose the best format/features for a specified audience and purpose.
+- Rewrite one scientific finding for specialist, student and public audiences without changing meaning.
+- Repair misleading captions, graph scales, jargon and unsupported certainty.
+- Audit a digital product for accessibility, source attribution and cultural permissions.
+- Common traps: simplify by deleting uncertainty; add decorative complexity; use unexplained jargon; cite only at the end without linking claims; rely on colour alone; treat digital polish as accuracy; include restricted data because it is interesting.
+
+CONTENT BLUEPRINT
+Practice questions — exactly 48:
+- 1–7 purpose and audience analysis
+- 8–15 select accurate content and structure
+- 16–23 language, terminology and analogy
+- 24–31 tables, graphs, diagrams, captions and evidence
+- 32–38 reports, explanations and scientific arguments
+- 39–44 digital tools and accessibility
+- 45–48 ethics, attribution and cultural protocols
+Test questions — exactly 16, independently worded:
+- 1–3 audience/purpose decisions
+- 4–7 content/language adaptation
+- 8–11 text-feature and visual-data evaluation
+- 12–14 digital accessibility/source integrity
+- 15–16 complete communication-plan critique
+Feedback must connect each communication choice to audience, purpose, scientific accuracy and accessibility.
+
+======================================================================
+FINAL RESEARCH CHECKPOINT — YEAR 10 SCIENCE
+======================================================================
+AC9S10U01: AUTHORING-READY
+AC9S10U02: AUTHORING-READY
+AC9S10U03: AUTHORING-READY
+AC9S10U04: AUTHORING-READY
+AC9S10U05: AUTHORING-READY
+AC9S10U06: AUTHORING-READY
+AC9S10U07: AUTHORING-READY
+AC9S10H01: AUTHORING-READY
+AC9S10H02: AUTHORING-READY
+AC9S10H03: AUTHORING-READY
+AC9S10H04: AUTHORING-READY
+AC9S10I01: AUTHORING-READY
+AC9S10I02: AUTHORING-READY
+AC9S10I03: AUTHORING-READY
+AC9S10I04: AUTHORING-READY
+AC9S10I05: AUTHORING-READY
+AC9S10I06: AUTHORING-READY
+AC9S10I07: AUTHORING-READY
+AC9S10I08: AUTHORING-READY
+
+RESEARCH VERIFIED COUNT: 19/19
+Every Year 10 Science code now has exact curriculum scope, source mappings, authoring-ready knowledge, misconception coverage and a blueprint for exactly 48 Practice Questions plus exactly 16 separate Test Questions. Authoring has not yet started.
