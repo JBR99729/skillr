@@ -1,0 +1,229 @@
+YEAR 8 MATHEMATICS — IXL / KHAN CURRICULUM RESEARCH MASTER
+Australian Curriculum Version 9.0 | SkillrHub
+Last updated: 2026-09-11
+
+PROJECT_STATUS: IN_PROGRESS
+CURRENT_PHASE: RESEARCH
+CURRENT_CODE: AC9M8A01
+LAST_COMPLETED_CODE: AC9M8N05
+NEXT_CODE: AC9M8A01
+AUTHORING_STARTED: NO
+CONTENT_VERIFIED_COUNT: 0
+BLOCKER: NONE
+BATCH: 1 COMPLETE (LATEST: AC9M8N01–AC9M8N05)
+
+PURPOSE AND AUTHORING STANDARD
+This ledger supports later re-authoring of each Year 8 Mathematics Topic Page, HTML Classroom View, Homework/Worksheet, exactly 48 Practice questions and exactly 16 independent Test questions. Research evidence is drawn from Australian Curriculum v9/QCAA, IXL Australia Year 8, Khan Academy and reputable free/public sources. Source examples inform pedagogy only; SkillrHub content must be original.
+
+FULL CODE INVENTORY (27)
+Number: AC9M8N01, AC9M8N02, AC9M8N03, AC9M8N04, AC9M8N05
+Algebra: AC9M8A01, AC9M8A02, AC9M8A03, AC9M8A04
+Measurement: AC9M8M01, AC9M8M02, AC9M8M03, AC9M8M04, AC9M8M05, AC9M8M06, AC9M8M07
+Space: AC9M8SP01, AC9M8SP02, AC9M8SP03, AC9M8SP04
+Statistics: AC9M8ST01, AC9M8ST02, AC9M8ST03, AC9M8ST04
+Probability: AC9M8P01, AC9M8P02, AC9M8P03
+
+SOURCE REGISTER
+1. Australian Curriculum Version 9.0 Mathematics: https://www.australiancurriculum.edu.au/curriculum-information/understand-this-learning-area/mathematics
+2. QCAA Year 8 Mathematics AC v9 alignment: https://www.qcaa.qld.edu.au/downloads/aciqv9/mathematics/curriculum/ac9_maths_yr8_as_cd_alignment.pdf
+3. IXL Australia Year 8 Mathematics: https://au.ixl.com/maths/year-8
+4. Khan Academy Mathematics: https://www.khanacademy.org/math
+5. NRICH Mathematics: https://nrich.maths.org/
+6. Australian Taxation Office, GST and financial information: https://www.ato.gov.au/
+
+==============================================================================
+AC9M8N01 — IRRATIONAL NUMBERS IN APPLIED CONTEXTS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Recognise irrational numbers in applied contexts, including square roots and π.
+
+CURRICULUM BOUNDARY
+Define rational numbers as ratios of integers and recognise irrational numbers as non-terminating, non-recurring decimals. Include non-perfect square roots and π in measurement/design contexts, locate approximate values on number lines, and distinguish exact forms from decimal approximations. Formal irrationality proofs and operations with surds are not required.
+
+IXL MAPPING AND EVIDENCE
+Direct mappings:
+- D.1 “Identify rational and irrational numbers”: https://au.ixl.com/maths/year-8/identify-rational-and-irrational-numbers
+- F.13 “Square roots of perfect squares”
+- F.14 “Estimate square roots”: https://au.ixl.com/maths/year-8/estimate-square-roots
+- F.15 “Relationship between squares and square roots”
+IXL’s progression begins with classifying integers, fractions, terminating/repeating decimals, π and radicals; it then brackets a non-perfect square root between consecutive perfect squares and estimates its position. For √50, use 7²=49 and 8²=64, so √50 lies just above 7. This worked-method pattern should transfer to visual number-line questions rather than calculator-only recognition.
+Applied contexts: square diagonals, circular circumference/diameter, exact Pythagorean lengths and design measurements.
+Misconceptions: every square root is irrational; every non-terminating decimal is irrational; π=3.14 exactly; a calculator display is the complete value; √a lies halfway between neighbouring integers; negative numbers have ordinary real square roots; confusing √49 with ±7.
+
+KHAN / TRUSTED EVIDENCE
+Khan “Intro to rational & irrational numbers” defines rational numbers as fractions of integers and uses π and non-perfect roots as irrational examples:
+https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86%3Airrational-numbers/x2f8bb11595b61c86%3Airrational-numbers-intro/v/introduction-to-rational-and-irrational-numbers
+Khan classification evidence notes √8 and π cannot be written as ratios of integers:
+https://www.khanacademy.org/math/algebra-1-illustrative-math/x6418b49dfbc9d0c9%3Aquadratic-equations-part1/x6418b49dfbc9d0c9%3Arational-irrational-solutions/v/recognizing-irrational-numbers
+AC v9/QCAA provide the applied-context emphasis.
+
+AUTHORING TRANSFER
+Topic Page: number-system hierarchy; terminating/repeating versus non-recurring decimals; perfect-square filter; bracket-and-estimate method; exact versus approximate notation; square diagonal and circle examples.
+Classroom View: card sort, construct √2 from a unit square, place roots on a number line, compare π with 3.14, calculator display discussion and error-analysis exit ticket.
+Homework: classify representations, estimate roots, order mixed rational/irrational values, interpret exact lengths and critique false claims.
+Feedback: identify the representation, test whether the root is perfect or decimal terminates/repeats, bracket using perfect squares, then use ≈ only for rounded values.
+
+48-PRACTICE BLUEPRINT
+P01–P08 rational prerequisites; P09–P16 classify numbers; P17–P24 perfect/non-perfect roots; P25–P32 estimate/order on number lines; P33–P40 π and measurement contexts; P41–P48 exact/approximate reasoning and error analysis.
+16-TEST BLUEPRINT
+T01–T04 classification; T05–T08 estimation/order; T09–T12 independent applied contexts; T13–T16 justification and misconception diagnosis.
+
+==============================================================================
+AC9M8N02 — EXPONENT LAWS AND ZERO EXPONENT
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Establish and apply the exponent laws with positive integer exponents and the zero exponent, using exponent notation with numbers.
+
+CURRICULUM BOUNDARY
+Derive laws from repeated factors before applying them: same-base product, same-base quotient where expressions remain defined, power of a power, power of a product/quotient and a⁰=1 for a≠0. Numerical bases are the stated endpoint; negative exponents, fractional exponents and broad symbolic algebra belong later.
+
+IXL MAPPING AND EVIDENCE
+Direct mappings:
+- F.6 “Multiplication with exponents”
+- F.7 “Division with exponents”
+- F.8 “Multiplication and division with exponents”
+- F.9 “Power rule”
+- F.10 “Evaluate expressions using properties of exponents”
+- F.11/F.12 “Identify equivalent expressions involving exponents I/II”
+IXL’s worked-method progression expands powers to expose repeated factors, compresses the result, and only then applies the law. Example structure: 3²×3⁴ has 2+4 factors of 3, so it is 3⁶; (5³)² has 3×2 factors of 5, so it is 5⁶. For a⁴÷a⁴=1, subtracting exponents gives a⁰, establishing a⁰=1 when a≠0.
+Misconceptions: multiplying bases when bases are equal; multiplying exponents in a product; subtracting exponents when bases differ; (a+b)²=a²+b²; a⁰=0; treating −3² and (−3)² as identical; applying quotient laws when the base is zero; combining unlike bases without justification.
+
+KHAN / TRUSTED EVIDENCE
+Khan’s integer-exponent review states aⁿaᵐ=aⁿ⁺ᵐ and aⁿ/aᵐ=aⁿ⁻ᵐ for non-zero denominator:
+https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86%3Arational-exponents-radicals/x2f8bb11595b61c86%3Aexponent-properties-review/v/multiplying-and-dividing-powers-with-integer-exponents
+Khan’s zeroth-power lesson distinguishes a⁰=1 for non-zero a from 0 raised to positive powers:
+https://www.khanacademy.org/v/the-zeroth-power
+
+AUTHORING TRANSFER
+Topic Page: repeated-factor derivations; law table with conditions and non-examples; parentheses/negative-base contrast; zero exponent derivation; mixed-law worked examples verified by evaluation.
+Classroom View: factor-string manipulation, students predict laws, law-or-not sorting, mistake clinic and mini-proof of zero exponent.
+Homework: expand/compress, apply one law, combine laws, evaluate numerical expressions, identify equivalent forms and explain invalid moves.
+Feedback: check same base and operation, expand one step if uncertain, apply only the matching law, retain parentheses and verify numerically.
+
+48-PRACTICE BLUEPRINT
+P01–P08 exponent meaning/evaluation; P09–P16 product law; P17–P24 quotient/zero exponent; P25–P32 power of power/product/quotient; P33–P40 mixed evaluation/equivalence; P41–P48 conditions, proofs and error analysis.
+16-TEST BLUEPRINT
+T01–T04 foundations; T05–T08 single laws; T09–T12 independent mixed-law evaluation; T13–T16 derivation and error analysis.
+
+==============================================================================
+AC9M8N03 — TERMINATING AND RECURRING DECIMALS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Recognise terminating and recurring decimals, using digital tools as appropriate.
+
+CURRICULUM BOUNDARY
+Recognise, generate and distinguish terminating and recurring decimals from fractions; use bar/dot notation consistently; use long division and calculators/spreadsheets to investigate patterns. In lowest terms, denominators with only prime factors 2 and/or 5 terminate; other denominators recur. Formal algebraic conversion of recurring decimals to fractions may be an extension but is not the descriptor’s central requirement.
+
+IXL MAPPING AND EVIDENCE
+Direct mappings:
+- D.5 “Convert between decimals and fractions or mixed numbers”
+- D.6 “Repeating decimals”: https://au.ixl.com/maths/year-8/repeating-decimals
+- A.4 prime factorisation as a supporting denominator test
+IXL question progression distinguishes finite decimal strings from repeating patterns, translates recurring notation, and converts common fractions through division. Example method: 1÷6=0.1666…; the 6 repeats, so write 0.1 with a bar over 6. For 3/40, 40=2³×5, hence the decimal terminates; for 2/15, the simplified denominator includes 3, hence it recurs.
+Digital-tool evidence must include awareness that a calculator display is truncated/rounded and may hide a long repeating cycle.
+Misconceptions: “recurring” means the final digit repeats once; all non-terminating decimals recur; recurring decimals are irrational; writing the bar over non-repeating digits; deciding from an unsimplified denominator; assuming every calculator display terminates; confusing 0.3 with 0.333….
+
+KHAN / TRUSTED EVIDENCE
+Khan rational-number classification explains that terminating and repeating decimals are rational, while non-terminating non-repeating decimals are irrational:
+https://www.khanacademy.org/v/categorizing-numbers
+Khan fraction/decimal resources support long division and recurring-pattern recognition. Exact full-code digital investigation is not packaged as one lesson: SOURCE-NOT-MAPPED at full-code level.
+NRICH fraction-decimal investigations provide additional pattern reasoning: https://nrich.maths.org/primary/geometry-and-measure/fractions-decimals-percentages
+
+AUTHORING TRANSFER
+Topic Page: decimal-type flowchart; long division examples; recurring notation; simplified-denominator prime-factor test; calculator limitation panel; cycle-length investigation.
+Classroom View: predict before calculating, group fractions by denominator, spreadsheet expansion, uncover hidden cycles, notation checks and justify-from-denominator exit ticket.
+Homework: classify decimals, continue patterns, write recurring notation, predict from denominators, verify digitally and diagnose truncated-display claims.
+Feedback: simplify the fraction, factor the denominator, identify whether only 2/5 remain, then confirm by division and mark the full recurring block.
+
+48-PRACTICE BLUEPRINT
+P01–P08 decimal/fraction prerequisites; P09–P16 recognise terminating/recurring; P17–P24 notation and patterns; P25–P32 fraction-to-decimal division; P33–P40 denominator-factor prediction; P41–P48 digital-tool interpretation and reasoning.
+16-TEST BLUEPRINT
+T01–T04 recognition/notation; T05–T08 conversion; T09–T12 independent denominator reasoning; T13–T16 calculator evidence and misconception analysis.
+
+==============================================================================
+AC9M8N04 — FOUR OPERATIONS WITH INTEGERS AND RATIONAL NUMBERS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Use the 4 operations with integers and with rational numbers, choosing and using efficient strategies and digital tools where appropriate.
+
+CURRICULUM BOUNDARY
+Combine signed integers, fractions, decimals and mixed forms using all four operations and correct order of operations. Require efficient strategy selection, estimation and exact/technology-supported checking. Rational operations should include negative fractions/decimals and multi-step expressions; modelling belongs mainly in N05.
+
+IXL MAPPING AND EVIDENCE
+Direct mappings:
+- C.1–C.15 operations with integers, especially “Add, subtract, multiply and divide integers” and “Evaluate numerical expressions involving integers”
+- E.2–E.9 operations with rational numbers, especially https://au.ixl.com/maths/year-8/evaluate-numerical-expressions-involving-rational-numbers
+IXL progression moves from sign rules and number-line/counter models to mixed operations and expressions. High-value worked-method patterns: rewrite subtraction as addition of the opposite; use parity of negative factors for product sign; use a common denominator for fraction addition; multiply by the reciprocal for fraction division; preserve brackets and apply multiplication/division before addition/subtraction.
+Efficiency evidence: 17−(−23) is recognised as 17+23; 4.8×25 can use 25=100÷4; fractions may be simplified before multiplying. Digital tools should confirm difficult arithmetic after the expression and estimate have been set up.
+Misconceptions: two negatives always make a positive, even in addition; subtracting denominators; inverting both fractions; applying order left-to-right without precedence; losing a negative sign outside brackets; converting exact fractions to rounded decimals too early; calculator entry not matching written structure.
+
+KHAN / TRUSTED EVIDENCE
+Khan arithmetic materials support negative-number operations, fraction operations and order of operations:
+https://www.khanacademy.org/math/arithmetic-home/negative-numbers
+https://www.khanacademy.org/math/arithmetic/fraction-arithmetic
+Khan is useful for visual sign/fraction models; AC v9/QCAA add explicit efficient-strategy and digital-tool choice.
+
+AUTHORING TRANSFER
+Topic Page: sign reasoning models and rules; fraction/decimal strategies; operation decision table; order-of-operations examples; estimate–calculate–check cycle; calculator-entry audit.
+Classroom View: number-line integer warm-up, strategy comparison, mixed-representation relay, bracket/error clinic and “mental/written/digital?” justification.
+Homework: signed operations, rational conversions, mixed expressions, wordless numerical problems, efficient-method choices and calculator-output checks.
+Feedback: identify operation and signs, choose a common form, state the strategy, preserve brackets, estimate the sign/size, calculate and compare.
+
+48-PRACTICE BLUEPRINT
+P01–P08 integer addition/subtraction; P09–P16 integer multiplication/division; P17–P24 fraction operations; P25–P32 decimal/mixed rational operations; P33–P40 order of operations; P41–P48 efficiency, technology and error analysis.
+16-TEST BLUEPRINT
+T01–T04 integer fluency; T05–T08 rational operations; T09–T12 independent mixed expressions; T13–T16 strategy justification and technology audit.
+
+==============================================================================
+AC9M8N05 — MATHEMATICAL MODELLING WITH RATIONAL NUMBERS AND PERCENTAGES
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Use mathematical modelling to solve practical problems involving rational numbers and percentages, including financial contexts; formulate problems, choosing efficient calculation strategies and using digital tools where appropriate; interpret and communicate solutions in terms of the situation, reviewing the appropriateness of the model.
+
+CURRICULUM BOUNDARY
+Complete the modelling cycle with rational/percentage contexts: formulate variables, assumptions and constraints; select mental, written or digital strategies; calculate; interpret; communicate; and review. Include discounts, mark-ups, GST, profit/loss, percentage change, budgets and signed changes. Use current financial data only when sourced and dated; the mathematics must not depend on unstable tax thresholds.
+
+IXL MAPPING AND EVIDENCE
+Direct mappings:
+- I.5/I.6 “Find what percent one number is of another”
+- I.8/I.9 “Percents of numbers and money amounts” / word problems
+- I.12–I.14 percent change and reverse-original-amount problems
+- J.2–J.7 unit prices, GST, discount, mark-up, sale price and multi-step percent problems
+Key worked-method progression: identify whole/base and part/change; convert percent to a multiplier; apply discount/tax in the correct order; preserve full precision; interpret money to cents; compare alternatives. A 20% discount uses multiplier 0.80, not subtracting 20; a later 10% rise acts on the new amount, so opposite percentages do not generally cancel.
+Modelling extension beyond IXL routines: state assumptions, choose a representation/technology, test reasonableness and review limitations such as fees, rounding, eligibility or changing rates.
+Misconceptions: wrong reference whole; adding the percent sign as a number; 20% off then 20% up returns to original; treating GST-inclusive and GST-exclusive prices identically; adding successive percentages instead of multiplying; rounding each intermediate step; assuming calculator output is a complete contextual answer; silently using outdated tax rates.
+
+KHAN / TRUSTED EVIDENCE
+Khan “Percent word problems: tax and discount” models identifying the original amount, percent and resulting total:
+https://www.khanacademy.org/math/cc-seventh-grade-math/cc-7th-fractions-decimals/cc-7th-percent-word-problems/v/tax-discount-and-tip-examples
+IXL supplies richer Australian consumer-maths mappings; AC v9/QCAA control the full modelling/review cycle.
+Australian Taxation Office is the authoritative source for GST and any dated tax-table contexts:
+https://www.ato.gov.au/businesses-and-organisations/gst-excise-and-indirect-taxes/gst
+
+AUTHORING TRANSFER
+Topic Page: modelling-cycle panel; identify base/change/result; percentage multipliers; GST-inclusive/exclusive worked examples; repeated change; spreadsheet formula example; assumptions/limitations checklist and contextual communication model.
+Classroom View: compare two sale offers, build a budget/spreadsheet, predict then calculate repeated changes, peer-audit assumptions and finish with a recommendation backed by evidence.
+Homework: discounts/mark-ups/GST, percentage change, reverse original amounts, budgets and multi-step comparison models with written conclusions.
+Feedback: name the reference whole, convert to a multiplier, show sequence/order, retain precision, round once for money and review whether the model omitted any relevant condition.
+
+48-PRACTICE BLUEPRINT
+P01–P08 percent/rational foundations; P09–P16 discounts and mark-ups; P17–P24 GST and money; P25–P32 percentage change/reverse amounts; P33–P40 budgets and repeated change; P41–P48 complete models, digital-tool outputs, assumptions and review.
+16-TEST BLUEPRINT
+T01–T04 foundations; T05–T08 financial calculations; T09–T12 independent multi-step/repeated-change models; T13–T16 formulate, communicate and review. Do not reuse Practice contexts.
+
+==============================================================================
+BATCH 1 QA CHECK
+- Five codes researched: AC9M8N01–AC9M8N05.
+- Exact descriptors verified against SkillrHub’s AC v9-aligned Year 8 pages and QCAA scope.
+- Current IXL Australia Year 8 catalogue mapped across rational/irrational numbers, exponent laws, recurring decimals, rational operations, percents and consumer maths.
+- Khan mappings checked for irrational numbers, exponent laws, rational arithmetic and percent applications; NRICH and ATO added where their public evidence materially extends the code.
+- Each code contains scope boundary, progression, misconception evidence, Topic Page, HTML Classroom View, Homework transfer, exactly-48 Practice blueprint and independent exactly-16 Test blueprint.
+- AC9M8N01–AC9M8N05 are AUTHORING-READY.
+
+RESUME INSTRUCTION
+Read NEXT_CODE and continue with AC9M8A01. Do not repeat completed research unless a source or curriculum descriptor materially changes.
