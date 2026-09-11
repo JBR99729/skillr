@@ -1,0 +1,469 @@
+PROJECT_STATUS: IN_PROGRESS
+CURRENT_PHASE: RESEARCH
+CURRENT_CODE: AC9M10A05
+LAST_COMPLETED_CODE: AC9M10A04
+NEXT_CODE: AC9M10A05
+AUTHORING_STARTED: NO
+CONTENT_VERIFIED_COUNT: 0
+BLOCKER: NONE
+YEAR: 10
+SUBJECT: Mathematics
+CURRICULUM: Australian Curriculum v9.0
+BATCH_STATUS: FIRST FIVE CODES AUTHORING-READY
+RESEARCH_DATE_UTC: 2026-09-11
+
+YEAR 10 MATHEMATICS — IXL / KHAN / PUBLIC-SOURCE RESEARCH MASTER
+
+RESEARCH PROTOCOL
+- Curriculum codes and scope are anchored to Australian Curriculum v9.0.
+- IXL Australia was inspected sequentially in one authenticated Year 10 session. “Learn with an example” evidence below is paraphrased, not copied.
+- Khan Academy was inspected sequentially in one session and used for worked-teaching progression and additional representations.
+- Public cross-checks: Australian Curriculum v9.0, Desmos and GeoGebra for graphing/verification, and ASIC Moneysmart for authentic finance modelling.
+- A mapping is not treated as a curriculum match merely because its title resembles a descriptor. Component-only coverage and source gaps are identified explicitly.
+- AUTHORING-READY means the scope, progression, representations, misconceptions and assessment blueprint are sufficient for later Topic Page, Classroom View, Homework/Worksheet, 48 Practice Questions and 16 separate Test Questions.
+
+===============================================================================
+AC9M10N01
+OFFICIAL DESCRIPTOR
+Recognise the effect of using approximations of real numbers in repeated calculations and compare the results when using exact representations.
+
+RESEARCH STATUS: AUTHORING-READY
+
+CURRICULUM INTENT AND BOUNDARY
+This is not simply “round a number” or “identify an irrational number”. The central idea is error propagation: replacing an exact real-number representation by a decimal approximation can change a final result, and repeated operations can accumulate or magnify the difference. Students should compare an exact pathway with one or more rounded/truncated pathways, state the size and direction of error, and decide when an approximation is reasonable. Exact representations may include fractions, radicals and symbols such as π. Required depth includes calculator/digital-tool comparison and contextual judgement; formal numerical-analysis error bounds are beyond scope.
+
+PREREQUISITES
+- Rational and irrational numbers; terminating, recurring and non-terminating decimals.
+- Exact fractions and surds; index laws and square roots.
+- Rounding to decimal places/significant figures.
+- Order of operations, percentage error and calculator fluency.
+
+IXL AUSTRALIA MAPPING
+DIRECT FULL-CODE MATCH: SOURCE-NOT-MAPPED.
+Component mappings in the Year 10 catalogue:
+- V.4 Simplify radical expressions.
+- V.5 Simplify radical expressions involving fractions.
+- V.6 Multiply radical expressions.
+- V.7 Add and subtract radical expressions.
+- V.8 Simplify radical expressions using the distributive property.
+- V.9 Simplify radical expressions using conjugates.
+- V.10 Simplify radical expressions: mixed review.
+- V.11 Convert between radical expressions and expressions with rational exponents.
+These preserve and manipulate exact values, but the catalogue does not directly teach accumulated error from repeated approximation. Therefore authoring must supply the missing comparison experiments.
+
+IXL LEARN-WITH-AN-EXAMPLE TRANSFER
+The mapped radical sequence foregrounds maintaining exact symbolic form, applying one transformation at a time, and checking equivalence. Useful authoring transfer: show an exact expression beside its rounded decimal, delay rounding until the final line, and verify both on a calculator. Do not misrepresent the radical skills as full AC9M10N01 coverage.
+
+KHAN ACADEMY EVIDENCE
+Relevant foundation: Introduction to rational and irrational numbers
+https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86%3Airrational-numbers/x2f8bb11595b61c86%3Airrational-numbers-intro/v/introduction-to-rational-and-irrational-numbers
+Khan supports classification and the meaning of irrational decimal expansions. It does not, in this mapping, provide the complete repeated-calculation investigation required by the code. Authoring gap: construct explicit exact-versus-approximate chains.
+
+OTHER TRUSTED SOURCE USE
+- Australian Curriculum v9.0: scope anchor.
+- GeoGebra/Desmos calculators: repeat an operation with stored exact input and with rounded input; display tables of iteration number, exact value, approximate value, absolute error and relative error.
+- Calculator documentation/conventions: distinguish internal stored precision from a rounded display.
+
+QUESTION / APPLICATION PATTERNS
+1. Compare (√2)^n computed exactly with a pathway that rounds √2 first.
+2. Repeated percentage growth using an exact multiplier versus a rounded multiplier.
+3. Perimeter/area/volume using π versus 3.14 or 22/7.
+4. Recurrence sequences where each term is rounded, versus rounding only the final term.
+5. Currency or measurement contexts where intermediate rounding is mandated.
+6. Decide whether two displayed calculator answers are genuinely equal or only appear equal at the shown precision.
+7. Measure accumulated absolute and percentage error.
+8. Explain why premature rounding can change a decision threshold.
+
+PROGRESSION
+A. Identify exact and approximate representations.
+B. Perform one calculation both ways.
+C. Repeat a calculation and tabulate divergence.
+D. Compare rounding at every step with rounding only at the end.
+E. Interpret error in context and justify an appropriate precision.
+
+COMMON MISCONCEPTIONS / DISTRACTOR LOGIC
+- Treating a displayed decimal as exact.
+- Believing more repeated steps cannot affect error.
+- Rounding the exact and approximate results to such low precision that the difference disappears.
+- Confusing truncation with rounding.
+- Assuming approximation always overestimates.
+- Comparing only decimal places, not absolute/relative error.
+- Re-entering the displayed calculator value instead of using stored precision.
+- Using 22/7 as an exact value of π.
+
+TOPIC PAGE / CLASSROOM VIEW NEEDS
+- Exact-versus-approximate split-screen examples.
+- “Keep exact until the end” decision rule, with exceptions such as required currency rounding.
+- Iteration/error table and an error-growth graph.
+- Vocabulary: exact value, approximation, rounding, truncation, accumulated error, absolute error, relative/percentage error, significant figures.
+- Teacher demonstration using calculator memory and a deliberately re-entered rounded display.
+
+AUTHORING COVERAGE PLAN
+48 practice: 8 recognition/classification; 10 single-chain comparisons; 12 repeated-calculation tables; 8 geometry/π/surd applications; 6 error measures; 4 written judgements.
+16 test: 4 exact/approximate comparisons; 4 repeated-operation analyses; 4 contextual precision decisions; 4 multi-step explanations. Test stems and values must be independent of practice.
+
+===============================================================================
+AC9M10A01
+OFFICIAL DESCRIPTOR
+Expand, factorise and simplify expressions and solve equations algebraically, applying exponent laws involving products, quotients and powers of variables, and the distributive law, including completing the square.
+
+RESEARCH STATUS: AUTHORING-READY
+
+CURRICULUM INTENT AND BOUNDARY
+Students fluently transform algebraic expressions while preserving equivalence, then select transformations to solve equations. Coverage must integrate exponent laws, distributive expansion, common factors, quadratic factorisation and completing the square. The code requires connected reasoning, not isolated tricks: expansion verifies factorisation; completing the square reveals structure and supports solving.
+
+PREREQUISITES
+- Integer/rational arithmetic and algebraic notation.
+- Like terms; substitution; inverse operations.
+- Basic index laws and distributive property.
+- Binomial multiplication and zero-product property.
+
+IXL AUSTRALIA MAPPING
+- P.3 Factor out a monomial.
+- P.4 Factorise quadratics with leading coefficient 1.
+- P.5 Factorise quadratics with other leading coefficients.
+- P.6 Factorise special cases.
+- P.7 Factorise using algebra tiles.
+- P.8 Factorise by grouping.
+- P.9 Factorise polynomials.
+- Q.7 Solve quadratic equations using square roots.
+- Q.8 Solve quadratic equations using the zero-product property.
+- Q.9–Q.10 Solve quadratics by factorising.
+- Q.12–Q.13 Solve quadratics by completing the square.
+- Q.14 Solve quadratics using the quadratic formula.
+Use the catalogue’s exponent-law and polynomial-expansion skills as prerequisites/components; Q.14 is useful comparative extension but not a substitute for the descriptor’s named methods.
+
+ACTUAL IXL LEARN-WITH-AN-EXAMPLE EVIDENCE
+Observed P.4 example: factorise f² + 5f + 6.
+Paraphrased teaching sequence:
+1. Match the trinomial to x² + bx + c.
+2. Seek two integers whose product is c and whose sum is b.
+3. Compare factor pairs of 6: 1 and 6 sum to 7; 2 and 3 sum to 5.
+4. Because the sum and product are positive, both constants are positive.
+5. Write (f + 2)(f + 3).
+6. Expand/FOIL to verify the original expression.
+Representation and vocabulary: trinomial, coefficient, constant, factor pair, product, sum, binomial factors, expand, verify.
+Feedback design: diagnose whether the learner chose numbers with the right product but wrong sum, or correct magnitudes with wrong signs.
+
+KHAN ACADEMY EVIDENCE
+Relevant sequence includes factoring quadratics, completing the square and solving quadratic equations. Completing-the-square worked teaching explicitly uses half the x-coefficient, squares it, and adds the same quantity to preserve equality:
+https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86%3Aquadratic-functions-equations/x2f8bb11595b61c86%3Acompleting-square-quadratics/v/solving-quadratic-equations-by-completing-the-square
+Khan adds area-model/structure explanations and method comparison. Authoring should connect x² + bx to a perfect-square trinomial and show why (b/2)² is required, rather than presenting a memorised rule alone.
+
+OTHER TRUSTED SOURCE USE
+- Australian Curriculum v9.0: descriptor boundary.
+- GeoGebra CAS: verify equivalence of expanded/factorised/completed-square forms after students show algebraic working.
+- Desmos: graph equivalent quadratic forms to confirm the same curve while exposing different useful features.
+
+QUESTION / APPLICATION PATTERNS
+- Simplify products/quotients/powers of monomials with numerical coefficients.
+- Expand single and double brackets, including negative/fractional coefficients.
+- Factor common monomial and binomial factors.
+- Factor monic/non-monic trinomials, difference of squares and perfect squares.
+- Complete the square for x²+bx+c and ax²+bx+c.
+- Solve equations using factorisation, square roots or completing the square.
+- Identify and correct a false algebraic transformation.
+- Choose the most efficient form/method and justify.
+
+PROGRESSION
+A. One index law or distributive step.
+B. Multi-law simplification with restrictions noted where relevant.
+C. Expand and factor as inverse operations.
+D. Factor quadratics and verify.
+E. Complete the square and solve.
+F. Compare methods and explain preserved equivalence.
+
+COMMON MISCONCEPTIONS / DISTRACTOR LOGIC
+- Adding exponents when adding like bases rather than multiplying.
+- Applying a power to the variable but not the coefficient.
+- Losing a negative sign when expanding.
+- Factoring only one term or failing to take the greatest common factor.
+- Choosing factor-pair numbers with correct product but incorrect sum.
+- Omitting ± after taking square roots.
+- Adding (b/2)² to one side only.
+- Dividing by a leading coefficient but not every term.
+- Cancelling across addition.
+
+TOPIC PAGE / CLASSROOM VIEW NEEDS
+- Exponent-law table with worked/non-example pairs.
+- Area model and symbolic distributive expansion.
+- Factor-pair decision tree, sign logic and FOIL verification.
+- Completing-square geometric model plus algebraic algorithm.
+- Method-selection comparison for quadratic equations.
+- Error-analysis cards and equivalence checks.
+
+AUTHORING COVERAGE PLAN
+48 practice: 8 exponent laws; 8 expand/simplify; 8 common/special factors; 10 monic/non-monic quadratics; 8 completing square; 6 solve/method selection.
+16 test: balanced four-domain set with at least 6 multi-step items and 4 reasoning/error-analysis items; no reused practice stems.
+
+===============================================================================
+AC9M10A02
+OFFICIAL DESCRIPTOR
+Solve linear inequalities and simultaneous linear equations in 2 variables; interpret solutions graphically and communicate solutions in terms of the situation.
+
+RESEARCH STATUS: AUTHORING-READY
+
+CURRICULUM INTENT AND BOUNDARY
+Students solve algebraically, connect the solution to a graph, and translate it back into contextual meaning. Linear inequalities require correct boundary and direction; simultaneous equations require an ordered-pair intersection and a contextual statement. Systems of two-variable inequalities are useful extension but must not displace the stated core.
+
+PREREQUISITES
+- Solve linear equations and graph on number lines/cartesian planes.
+- Gradient, intercept and equation of a line.
+- Substitute values and rearrange formulas.
+- Ordered pairs and coordinate-plane intersections.
+
+IXL AUSTRALIA MAPPING
+Inequalities:
+- E.1–E.12: graph/write/solve one-step, two-step and multi-step inequalities, including word problems and advanced forms.
+Simultaneous equations:
+- H.1–H.11: check solutions, solve by graphing, substitution, elimination and any method, including word problems.
+Extension:
+- I.1–I.6: graph two-variable inequalities and systems of inequalities.
+
+ACTUAL IXL LEARN-WITH-AN-EXAMPLE EVIDENCE
+Observed H.10 example with −5x + y = −15 and y = 5.
+Paraphrased substitution sequence:
+1. Select an equation already isolated for one variable.
+2. Substitute y = 5 into the other equation.
+3. Solve −5x + 5 = −15 to obtain x = 4.
+4. Pair the values as (4, 5).
+5. Check the ordered pair in both original equations and interpret it as their common solution.
+The panel frames substitution as a four-stage method: isolate, substitute, solve, back-substitute/check. Authoring feedback should pinpoint the stage where an error arose.
+
+KHAN ACADEMY EVIDENCE
+Khan’s systems work develops graphing, substitution and elimination as equivalent routes to the intersection. Its inequality material emphasises that multiplying or dividing by a negative reverses the inequality and that graphs represent solution sets, not a single answer. Contextual systems-of-inequalities interpretation is useful extension:
+https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86%3Ainequalities-systems-graphs/x2f8bb11595b61c86%3Amodeling-with-linear-inequalities/v/interpreting-system-of-inequalities-in-context
+Authoring transfer: require a final sentence with units and explain whether boundary points are included.
+
+OTHER TRUSTED SOURCE USE
+- Desmos: display two lines, estimate the intersection, then verify the algebraic exact solution.
+- GeoGebra: dynamically compare coefficient changes and solution type.
+- Australian Curriculum v9.0: scope anchor.
+
+QUESTION / APPLICATION PATTERNS
+- Solve and graph single-variable inequalities.
+- Build an inequality from a verbal constraint.
+- Reverse inequality after multiplication/division by a negative.
+- Solve systems by graphing, substitution and elimination.
+- Classify one, no or infinitely many solutions.
+- Derive systems from price, mixture, distance/rate or geometry contexts.
+- Interpret an intersection with units and feasibility constraints.
+- Compare approximate graphical and exact algebraic solutions.
+- Diagnose a boundary-line or substitution/elimination error.
+
+PROGRESSION
+A. Inequality language and number-line representations.
+B. Algebraic inequalities, including negative coefficient reversal.
+C. Graphical intersection of two lines.
+D. Substitution, then elimination.
+E. Select an efficient method.
+F. Model and interpret contextual solutions; identify infeasible answers.
+
+COMMON MISCONCEPTIONS / DISTRACTOR LOGIC
+- Not reversing the sign after multiplying/dividing by a negative.
+- Reversing it after addition/subtraction.
+- Using an open point for ≤ or ≥.
+- Reporting x and y separately rather than an ordered pair.
+- Substituting into only part of an expression.
+- Adding equations without aligning like terms.
+- Treating parallel lines as “zero” rather than no common solution.
+- Accepting a non-integer or negative answer that violates context.
+- Reading a pixel-level graph estimate as exact.
+
+TOPIC PAGE / CLASSROOM VIEW NEEDS
+- Inequality symbol/phrase/boundary table.
+- Number-line and algebra displayed together.
+- Three-method systems comparison.
+- Colour-coded substitution and elimination.
+- Graphical meanings of one/no/infinitely many solutions.
+- Context checklist: define variables, form equations, solve, check, state with units.
+
+AUTHORING COVERAGE PLAN
+48 practice: 14 inequalities; 8 graphical interpretation; 8 substitution; 8 elimination; 6 method choice/solution type; 4 contextual modelling.
+16 test: 4 inequalities; 6 systems across methods; 4 contexts; 2 error-analysis/graph interpretation. Independent stems/values.
+
+===============================================================================
+AC9M10A03
+OFFICIAL DESCRIPTOR
+Recognise the connection between algebraic and graphical representations of exponential relations and solve related exponential equations, using digital tools where appropriate.
+
+RESEARCH STATUS: AUTHORING-READY
+
+CURRICULUM INTENT AND BOUNDARY
+Students connect y = ab^x to graph features and solve exponential equations using common-base reasoning and digital tools where appropriate. They distinguish exponential from linear/quadratic relations and interpret parameters, intercepts, asymptotic behaviour, domain and range. Logarithmic solving can be treated as tool-supported extension unless required by the selected equation.
+
+PREREQUISITES
+- Index laws, coordinates, function notation.
+- Linear and quadratic graph features.
+- Tables, substitution and equation solving.
+- Repeated multiplication and percentage multipliers.
+
+IXL AUSTRALIA MAPPING
+- M.1 Domain and range of exponential functions.
+- M.3 Evaluate exponential functions.
+- M.4–M.5 Match exponential functions and graphs.
+- M.6 Solve exponential equations by rewriting the base.
+- M.7 Solve exponential equations using logarithms (extension/tool-supported).
+- R.1 Identify linear, quadratic and exponential functions from graphs.
+- R.2 Identify them from tables.
+- R.3 Write linear, quadratic and exponential functions.
+- R.5 Exponential functions over unit intervals.
+- R.6 Describe linear and exponential growth and decay.
+
+IXL LEARN-WITH-AN-EXAMPLE EVIDENCE
+The M.4 Learn panel was inspected, but its central graph/example content was image-rendered and not available as extractable text. No unseen function was inferred. The surrounding mapped sequence establishes the intended action: use initial value, growth/decay direction and rate of change to match an exponential equation to its graph. Authoring will provide fully accessible labelled graphs and alt text.
+
+KHAN ACADEMY EVIDENCE
+Relevant graphing lesson:
+https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86%3Aexponential-growth-decay/x2f8bb11595b61c86%3Agraphs-of-exponential-growth/v/graphing-exponential-functions
+Relevant graph analysis:
+https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86%3Aexponential-growth-decay/x2f8bb11595b61c86%3Aexponential-functions-from-tables-graphs/v/analyzing-graph-of-exponential-function
+Khan teaching transfer: create a value table, plot key points, identify the y-intercept, then reason about multiplication by the base for each unit increase in x. Compare b>1 growth with 0<b<1 decay and link equivalent algebraic forms to the same graph.
+
+OTHER TRUSTED SOURCE USE
+- Desmos: sliders for a and b in y=ab^x to observe intercept and growth/decay.
+- GeoGebra: intersection method for exponential equations and numerical approximation.
+- Australian Curriculum v9.0: scope boundary.
+
+QUESTION / APPLICATION PATTERNS
+- Evaluate y=ab^x and complete tables.
+- Match equation, table and graph.
+- Determine initial value and multiplier from points/table.
+- Distinguish linear, quadratic and exponential data.
+- Compare effects of changing a and b.
+- Solve equations with a common base.
+- Solve by graph intersection/digital tool and report appropriate precision.
+- Explain domain/range and horizontal asymptote in context.
+- Identify an exponential relation from constant ratios.
+
+PROGRESSION
+A. Repeated multiplication and constant ratios.
+B. Tables and plots from y=ab^x.
+C. Parameter-to-feature connections.
+D. Match multiple representations.
+E. Solve common-base equations exactly.
+F. Use graph/numerical tools for non-common bases and interpret approximate solutions.
+
+COMMON MISCONCEPTIONS / DISTRACTOR LOGIC
+- Treating a constant first difference as exponential.
+- Confusing a with the growth factor.
+- Using percent rate r as base rather than 1±r.
+- Assuming an exponential graph crosses its horizontal asymptote.
+- Ignoring x=0 and hence the y-intercept.
+- Rewriting bases incorrectly.
+- Equating exponents when bases are not equal/equivalent.
+- Reporting a graphically estimated solution as exact.
+- Confusing domain/range restrictions of a context with the unrestricted mathematical function.
+
+TOPIC PAGE / CLASSROOM VIEW NEEDS
+- Equation–table–graph translation panel.
+- Dynamic a/b parameter demonstration.
+- Constant difference versus constant ratio comparison.
+- Common-base solving steps and a digital intersection workflow.
+- Growth/decay, initial value, multiplier, asymptote, domain and range vocabulary.
+- Accessible graph labels and textual descriptions.
+
+AUTHORING COVERAGE PLAN
+48 practice: 8 evaluate/tables; 10 identify/compare families; 10 equation–graph matching; 8 determine rules/parameters; 8 solve equations; 4 digital/context interpretation.
+16 test: 4 representation links; 4 parameters/features; 4 equation solving; 4 reasoning/digital interpretation. No practice stem reuse.
+
+===============================================================================
+AC9M10A04
+OFFICIAL DESCRIPTOR
+Use mathematical modelling to solve applied problems involving growth and decay, including financial contexts; formulate problems, choosing to apply linear, quadratic or exponential models; interpret solutions and evaluate model reasonableness.
+
+RESEARCH STATUS: AUTHORING-READY
+
+CURRICULUM INTENT AND BOUNDARY
+This is a full modelling-cycle code. Students formulate variables/assumptions, choose among linear, quadratic and exponential models, solve with appropriate technology, interpret results and evaluate reasonableness/limitations. Exponential growth and decay, including compound-interest contexts, are required but model selection is equally important.
+
+PREREQUISITES
+- Linear, quadratic and exponential representations.
+- Percent change and compound multipliers.
+- Function evaluation and graph interpretation.
+- Units, rounding and reasonableness checks.
+
+IXL AUSTRALIA MAPPING
+- B.2–B.3 Compound interest word problems.
+- M.9 Exponential growth and decay.
+- M.10 Exponential growth and decay word problems.
+- R.1–R.3 Identify/write linear, quadratic and exponential functions.
+- R.6 Describe linear and exponential growth and decay.
+Component limitation: no single IXL skill spans the complete formulate–choose–solve–interpret–evaluate modelling cycle, so the authored tasks must integrate it.
+
+ACTUAL IXL LEARN-WITH-AN-EXAMPLE EVIDENCE
+Observed M.10 radioactive-decay example: 56 g of potassium with a 12-hour half-life, find the amount after 24 hours.
+Paraphrased teaching sequence:
+1. Determine elapsed half-lives: 24 ÷ 12 = 2.
+2. Multiply the starting amount by 1/2 once per half-life.
+3. Express compactly as 56(1/2)^2.
+4. Evaluate to obtain 14 g.
+The example connects repeated multiplication, exponential notation and units. Feedback should distinguish an incorrect number of periods from an incorrect decay factor.
+
+KHAN ACADEMY EVIDENCE
+Growth/decay word-problem lesson:
+https://www.khanacademy.org/math/algebra-1-illustrative-math/x6418b49dfbc9d0c9%3Aexponential-functions-intro/x6418b49dfbc9d0c9%3Afunctions-involving-percent-change/v/word-problem-solving-exponential-growth-and-decay
+Decay introduction:
+https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86%3Aexponential-growth-decay/x2f8bb11595b61c86%3Aexponential-decay/v/exponential-decay-intro
+Khan adds translation from percentage language to multiplier, identification of initial quantity and time interval, and checking that growth/decay direction matches the result.
+
+OTHER TRUSTED SOURCE USE
+- ASIC Moneysmart: authentic compound-interest language, rates, fees and financial assumptions.
+- Desmos/GeoGebra: fit/compare candidate models, inspect residual behaviour and solve intersections.
+- Australian Curriculum v9.0: modelling-cycle and year-level boundary.
+
+QUESTION / APPLICATION PATTERNS
+- Population, bacteria, cooling/depreciation and half-life.
+- Compound interest, savings and depreciation with consistent periods.
+- Linear versus exponential cost/revenue comparisons.
+- Quadratic height/area/optimisation situations.
+- Select a model from a table, scatterplot or contextual mechanism.
+- Estimate parameters and make predictions.
+- Solve threshold/intersection questions using graphs or algebra.
+- Evaluate extrapolation, domain, assumptions, rounding and reasonableness.
+- Revise a model when evidence does not support its assumptions.
+
+PROGRESSION
+A. Translate repeated percent change into a multiplier.
+B. Evaluate a supplied model.
+C. Build an exponential model from context.
+D. Distinguish and choose linear/quadratic/exponential models.
+E. Complete the modelling cycle with digital tools.
+F. Critique assumptions, prediction range and reasonableness; revise where necessary.
+
+COMMON MISCONCEPTIONS / DISTRACTOR LOGIC
+- Using r instead of 1+r or 1−r.
+- Applying simple interest in a compound context.
+- Mismatching annual/monthly rates and period counts.
+- Choosing a model from appearance alone without checking differences/ratios/context.
+- Assuming all growth is exponential.
+- Treating a negative quadratic prediction as meaningful in context.
+- Omitting units or rounding currency incorrectly.
+- Extrapolating far beyond observed data without qualification.
+- Declaring a calculator output reasonable without checking magnitude/direction.
+- Ignoring fees, caps, discrete periods or domain restrictions.
+
+TOPIC PAGE / CLASSROOM VIEW NEEDS
+- Explicit modelling cycle: formulate → choose → solve → interpret → evaluate/refine.
+- Model-choice table: constant difference/mechanism, constant ratio/mechanism, quadratic curvature/turning point.
+- Finance panel for principal, periodic rate, number of periods and compound multiplier.
+- Half-life/doubling-time timeline.
+- Digital graph comparison and residual/reasonableness prompts.
+- Assumption and limitation sentence frames.
+
+AUTHORING COVERAGE PLAN
+48 practice: 8 percent-multiplier foundations; 10 growth/decay; 8 finance; 8 model identification/choice; 8 formulation/solution; 6 evaluation/revision.
+16 test: 4 growth/decay; 3 finance; 4 model-choice/formulation; 3 digital/intersection; 2 critique/refinement. All test contexts and data independent of practice.
+
+===============================================================================
+BATCH QA — AC9M10N01, AC9M10A01, AC9M10A02, AC9M10A03, AC9M10A04
+- Exact five-code sequence verified.
+- All five descriptors captured.
+- IXL mappings recorded; direct-map gaps labelled.
+- Actual IXL example evidence recorded where accessible; image-only limitation recorded without invention.
+- Khan evidence and official URLs recorded; partial-map limitations stated.
+- At least two further reputable public-source roles recorded.
+- Progression, vocabulary/representations, misconceptions, Topic/Classroom transfer and assessment blueprints recorded.
+- Each code is AUTHORING-READY.
+- No content has yet been marked CONTENT VERIFIED; authoring has not started.
+- NEXT_CODE is AC9M10A05.
