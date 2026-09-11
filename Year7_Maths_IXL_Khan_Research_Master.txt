@@ -10,7 +10,7 @@ NEXT_CODE: AUTHORING_AC9M7N01
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
-BATCH: TARGETED KHAN EVIDENCE RERUN IN PROGRESS — N02–N06 VERIFIED
+BATCH: TARGETED KHAN EVIDENCE RERUN IN PROGRESS — N07–A02 VERIFIED
 
 PURPOSE AND AUTHORING STANDARD
 This is the evidence ledger for re-authoring Year 7 Mathematics. Every code must be researched before authoring. Research must transfer into the Topic Page, HTML Classroom View, Homework/Worksheet, exactly 48 Practice questions and exactly 16 independent Test questions. IXL was inspected through one authenticated Australia browser tab, sequentially, including live skill pages and Learn with an example. Khan Academy was inspected through one authenticated browser tab, sequentially. Source language and examples are evidence only: SkillrHub output must be original.
@@ -310,9 +310,10 @@ Direct examples: https://au.ixl.com/maths/year-7/compare-integers ; https://au.i
 Misconceptions: “larger absolute value means greater”; reversing < and > for negatives; treating subtraction as always making smaller; dropping a negative sign; confusing −(−a) with −a; counting tick marks rather than intervals.
 
 KHAN / PUBLIC EVIDENCE
-Khan “Adding the opposite with number lines” teaches: adding positive moves right, subtracting positive moves left, and subtraction can be rewritten as adding the opposite: https://www.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/x6b17ba59%3Asubtracting-negative-numbers-fluently/v/adding-the-opposite-with-number-lines
-Supporting Khan examples cover 2−3, −2−3, −2+3 and 2−(−3), reinforcing direction and sign distinctions.
-Trusted scope cross-checks: Australian Curriculum v9 and QCAA.
+EVIDENCE LEVEL: AUTHENTICATED WORKED TRANSCRIPT VERIFIED — 2026-09-11.
+Khan’s “Adding the opposite with number lines” transcript was inspected. It represents 9−4 and 9+(−4) as the same four-unit leftward move, then models −5−(−3) with negative chips and a number line to obtain −2, showing that subtracting −3 is the same as adding +3. It extends the reasoning to 3−(−2/5)=3+2/5. The progression is directional model → integer chips → general add-the-opposite statement, so the sign rule is explained rather than memorised.
+https://www.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/x6b17ba59%3Asubtracting-negative-numbers-fluently/v/adding-the-opposite-with-number-lines
+Authoring implications: connect horizontal/vertical contexts to number-line movement; require both model and symbolic form; target confusing the sign of a number with the operation and assuming subtraction always decreases.
 
 AUTHORING TRANSFER
 Topic Page: ground integers in temperature, elevation, credit/debt and score change; use horizontal and vertical number lines; teach “right/up is greater”; connect counters and zero pairs to addition/subtraction; only then introduce add-the-opposite notation.
@@ -344,9 +345,10 @@ Direct examples: https://au.ixl.com/maths/year-7/write-a-ratio ; https://au.ixl.
 Misconceptions: reversing order; confusing part:part with part:whole; adding the same amount to both terms instead of multiplying; simplifying across unlike quantities without units; assuming visually similar mixtures are equivalent; solving only one side of a scale factor.
 
 KHAN / PUBLIC EVIDENCE
-Khan “Introduction to proportional relationships” defines a proportional relationship through equivalent ratios/direct variation: https://www.khanacademy.org/math/cc-seventh-grade-math/cc-7th-ratio-proportion/7th-constant-of-proportionality/v/introduction-proportional-relationships
-Supporting Khan worked proportions use equal-ratio equations and scaling in recipe/production contexts. Use these after concrete diagrams and tables.
-Trusted scope cross-checks: Australian Curriculum v9 and QCAA.
+EVIDENCE LEVEL: AUTHENTICATED WORKED TRANSCRIPT VERIFIED — 2026-09-11.
+Khan’s “Introduction to proportional relationships” transcript was inspected. A recipe table with eggs:milk values 1:2, 3:6 and 12:24 is shown proportional because both quantities scale by the same multiplier and milk is always 2×eggs. A cake table 10 servings/$20, 20/$30 and 40/$40 is rejected because the two columns do not scale by the same factors. Khan connects equivalent ratios with a constant multiplier while preserving ratio order.
+https://www.khanacademy.org/math/cc-seventh-grade-math/cc-7th-ratio-proportion/7th-constant-of-proportionality/v/introduction-proportional-relationships
+Authoring implications: precede formal constants with diagrams, ratio tables and double number lines; contrast multiplicative scaling with additive change; include proportional/non-proportional comparisons, recipe scaling and ratio-order traps.
 
 AUTHORING TRANSFER
 Topic Page: start with coloured counters and label ratio order; show the same collection as part:part and part:whole; generate equivalent ratios by scaling; use tables, double number lines and bar models; finish with sharing a total in a given ratio.
@@ -377,9 +379,10 @@ Other inspected worked-example panels used visual content not exposed as readabl
 Misconceptions: applying discount percentage as final-price percentage; adding GST/discount in the wrong direction; confusing amount of change with final amount; comparing package prices without common units; reporting a calculator number without units/rounding; ignoring whether an answer is feasible.
 
 KHAN / PUBLIC EVIDENCE
-Khan “Percent word problems: tax and discount” distinguishes percent off from percent remaining and includes reverse original-price reasoning: https://www.khanacademy.org/math/cc-seventh-grade-math/cc-7th-fractions-decimals/cc-7th-percent-word-problems/v/tax-discount-and-tip-examples
-Khan “Solving percent problems” translates “of” to multiplication and “is” to equality, while multiple representations should still be taught: https://www.khanacademy.org/math/cc-seventh-grade-math/cc-7th-fractions-decimals/cc-7th-percent-word-problems/v/solving-percent-problems
-Trusted scope cross-checks: Australian Curriculum v9 and QCAA. AC v9’s modelling verbs control task design.
+EVIDENCE LEVEL: AUTHENTICATED WORKED TRANSCRIPT VERIFIED — 2026-09-11.
+Khan’s “Percent word problems: tax and discount” transcript was inspected. Example 1 gives sales tax $0.72 at 6%: 0.72=0.06p, so p=$12, then verifies 6% of $12 is $0.72. Example 2 gives a coat’s sale price $34.50 after 25% off: the customer pays 75% of the original, so 0.75p=34.50 and p=$46; the answer is checked against the context. This distinguishes change amount, percent remaining, original amount and final amount.
+https://www.khanacademy.org/math/cc-seventh-grade-math/cc-7th-fractions-decimals/cc-7th-percent-word-problems/v/tax-discount-and-tip-examples
+Authoring implications: embed these calculations within the full Australian Curriculum modelling cycle—formulate assumptions, choose a representation/tool, calculate, check magnitude, interpret units and justify a decision; include forward and reverse financial-percentage problems.
 
 AUTHORING TRANSFER
 Topic Page: explicitly teach the modelling cycle—understand/formulate; choose representation and assumptions; calculate (mental, written, spreadsheet/calculator); check sensitivity/reasonableness; interpret and communicate. Provide worked models for best-buy unit price, GST, discount, commission, budget allocation and positive/negative changes.
@@ -421,8 +424,10 @@ Method evidence: write the original expression → replace each variable with it
 Misconceptions: treating 2m as 2+m; concatenating digits; substituting for only one variable; dropping brackets around negative values; confusing the variable symbol with a unit; giving a unitless answer to a measured formula.
 
 KHAN / TRUSTED EVIDENCE
-Khan “Variables, expressions, & equations” distinguishes quantities represented by variables and the structural roles of expressions/equations: https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-equations-and-inequalities/cc-6th-intro-equations/v/variables-expressions-and-equations
-Australian Curriculum v9 and QCAA Year 7 alignment provide the controlling scope. Khan is supporting rather than code-specific.
+EVIDENCE LEVEL: AUTHENTICATED WORKED TRANSCRIPT VERIFIED — 2026-09-11.
+Khan’s “Variables, expressions, & equations” transcript was inspected. It contrasts numerical statements with the expression x+5, evaluating it as 6 for x=1 and −2 for x=−7. It distinguishes an expression from an equation such as x+3=1, then substitutes y=3 and z=2 into x+y+z=5 to infer x=0. Multi-variable evaluation examples include xʸ=25 for x=5,y=2 and xʸ=−8 for x=−2,y=3, reinforcing replacement of every variable and operation order.
+https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-equations-and-inequalities/cc-6th-intro-equations/v/variables-expressions-and-equations
+Authoring implications: keep variables tied to quantities and units, distinguish expression/equation/formula, show bracketed substitution, and include one- and multi-variable everyday formulas with reasonableness checks.
 
 AUTHORING TRANSFER
 Topic Page: begin with a labelled rectangle so l and w have meaning; translate A=l×w; use a substitution box and unit check; contrast a variable, expression, equation and formula; include formulas read from a table/source.
@@ -453,9 +458,10 @@ Question patterns: phrase-to-symbol, ordered operation chains, repeated groups, 
 Misconceptions: reversing subtraction/division; writing 5+n for “5 less than n”; confusing 3n with n³; omitting brackets after “the sum/difference/result”; inserting an equals sign; treating a constant as a variable.
 
 KHAN / TRUSTED EVIDENCE
-Khan “Translating expressions with parentheses” shows that brackets preserve grouped operations and that grouped work is evaluated first: https://www.khanacademy.org/math/cc-fifth-grade-math/imp-algebraic-thinking/imp-writing-expressions/v/translating-expressions-with-parentheses
-Supporting Khan “Constructing numerical expressions” models extracting operations from words before generalising to variables.
-AC v9/QCAA control the expected Year 7 depth.
+EVIDENCE LEVEL: AUTHENTICATED WORKED TRANSCRIPT VERIFIED — 2026-09-11.
+Khan’s “Translating expressions with parentheses” transcript was inspected. It translates “three times the sum of 56 and 7” as 3(56+7), contrasts it with 3×56+7, and translates “43 minus the sum of 16 and 11” as 43−(16+11), explaining why omitted brackets change the meaning. Further examples include 10 times the quotient of 104 and 8 and four times the expression 175−58. Khan also compares expression structures without unnecessary calculation.
+https://www.khanacademy.org/math/cc-fifth-grade-math/imp-algebraic-thinking/imp-writing-expressions/v/translating-expressions-with-parentheses
+Authoring implications: build expressions one phrase at a time, explicitly teach non-commutative wording and grouping nouns such as sum/difference/quotient, then generalise numerical structures to variables without inserting an equals sign.
 
 AUTHORING TRANSFER
 Topic Page: colour-code nouns/quantities, operation phrases and grouping words; build a phrase-to-symbol table; explicitly teach non-commutative wording; show equivalent notation 3×x=3x.
@@ -1214,12 +1220,12 @@ BATCH 7 / YEAR 7 MATHEMATICS RESEARCH QA CHECK
 - Inventory reconciliation: 30 of 30 Year 7 Mathematics codes are AUTHORING-READY.
 - Research phase is complete; no curriculum code remains unfinished.
 
-TARGETED EVIDENCE RERUN CHECKPOINT — 2026-09-11
-- AC9M7N02–AC9M7N06 were rechecked sequentially in one authenticated Khan Academy tab.
-- Full worked transcripts now replace catalogue, metadata-only or link-only evidence.
+TARGETED EVIDENCE RERUN CHECKPOINTS — 2026-09-11
+- AC9M7N02–AC9M7N06 and AC9M7N07–AC9M7A02 were rechecked sequentially in one authenticated Khan Academy tab.
+- Full worked transcripts now replace catalogue, metadata-only or link-only evidence for all ten records.
 - Existing valid IXL Learn-with-an-example observations were preserved without alteration.
-- The five records now document method, progression, traps and direct authoring implications.
-- Remaining deficient Year 7 records begin at AC9M7N07.
+- Each strengthened record documents method, progression, traps and direct authoring implications.
+- Remaining deficient Year 7 records begin at AC9M7A03.
 
 AUTHORING HANDOFF
 NEXT_CODE: AC9M7N01
