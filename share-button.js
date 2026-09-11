@@ -94,6 +94,15 @@
     });
   }
 
+  function watchForDashboardReferences() {
+    if (!document.body || window.__skillrDashboardReferenceObserver) return;
+    var observer = new MutationObserver(function () {
+      removePublicDashboardReferences();
+    });
+    observer.observe(document.body, { childList: true, subtree: true });
+    window.__skillrDashboardReferenceObserver = observer;
+  }
+
   function ensureFooterLinks() {
     var footer = document.querySelector("footer");
     if (!footer) return;
@@ -109,7 +118,7 @@
     nav.replaceChildren();
     [
       ["Home", "/"], ["Blogs", "/blogs/"],
-      ["Worksheets", "/worksheets/"], ["Print & Go", "/print-and-go.html"], ["Teach & Explain", "/teach-and-explain.html"], ["About", "/about.html"],
+      ["Worksheets", "/worksheets/"], ["Print & Go", "/print-and-go.html"], ["Teach & Explain", "/teach-and-explain.html"], ["Physical Books", "/amazon-resources/"], ["About", "/about.html"],
       ["Updates", "/updates.html"], ["Contact", "/contact.html"],
       ["Support SkillrHub", "/support-skillrhub.html"], ["Privacy", "/privacy-policy.html"],
       ["Facebook", "https://www.facebook.com/1139028835969651", true]
@@ -199,6 +208,42 @@
     hero.insertAdjacentElement("afterend", highlight);
   }
 
+  function addHomepagePhysicalBooksLink() {
+    if (window.location.pathname !== "/" && window.location.pathname !== "/index.html") return;
+    if (document.getElementById("skillr-physical-books-home")) return;
+
+    var target = document.querySelector(".ux-utility-grid") || document.querySelector(".ux-start") || document.querySelector("main");
+    if (!target) return;
+
+    var panel = document.createElement("section");
+    panel.id = "skillr-physical-books-home";
+    panel.className = "ux-panel";
+    panel.setAttribute("aria-label", "SkillrHub physical books");
+    panel.style.margin = "clamp(14px, 2vw, 22px) 0";
+
+    var link = document.createElement("a");
+    link.href = "/amazon-resources/";
+    link.style.display = "block";
+    link.style.textDecoration = "none";
+
+    var heading = document.createElement("h2");
+    heading.textContent = "Physical Books";
+    heading.style.marginBottom = "6px";
+
+    var text = document.createElement("p");
+    text.textContent = "SkillrHub workbooks and educational books available on Amazon.";
+    text.style.margin = "0 0 8px";
+
+    var cta = document.createElement("strong");
+    cta.textContent = "Browse physical books →";
+
+    link.appendChild(heading);
+    link.appendChild(text);
+    link.appendChild(cta);
+    panel.appendChild(link);
+    target.insertAdjacentElement("afterend", panel);
+  }
+
   function loadFirstVisitOnboarding() {
     if (window.location.pathname !== "/" && window.location.pathname !== "/index.html") return;
     if (document.querySelector('script[data-skillr-onboarding]')) return;
@@ -212,11 +257,13 @@
   function initSiteHelpers() {
     if (!document.body) return;
     removePublicDashboardReferences();
+    watchForDashboardReferences();
     removeLegacyFloatingWidgets();
     ensureFooterLinks();
     initSharePrompts();
     initCommercialTracking();
     addFreeFirstHomepageHighlight();
+    addHomepagePhysicalBooksLink();
     loadFirstVisitOnboarding();
   }
 
@@ -234,7 +281,7 @@
   if (window.__skillrResourceLinksLoading) return;
   window.__skillrResourceLinksLoading = true;
   var script = document.createElement('script');
-  script.src = '/assets/resource-links.js?v=1';
+  script.src = '/assets/resource-links.js?v=3';
   script.defer = true;
   document.head.appendChild(script);
 }());
