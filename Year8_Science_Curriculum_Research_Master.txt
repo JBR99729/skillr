@@ -4,13 +4,13 @@ Last updated: 2026-09-11
 
 PROJECT_STATUS: IN_PROGRESS
 CURRENT_PHASE: RESEARCH
-CURRENT_CODE: AC9S8H04
-LAST_COMPLETED_CODE: AC9S8I02
-NEXT_CODE: AC9S8I03
+CURRENT_CODE: AC9S8I06
+LAST_COMPLETED_CODE: AC9S8I05
+NEXT_CODE: AC9S8I07
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
-BATCH: 3 COMPLETED (LATEST: AC9S8H02–AC9S8I02)
+BATCH: 4 COMPLETED (LATEST: AC9S8H04–AC9S8I05)
 
 RESEARCH METHOD
 Each code is checked against the Australian Curriculum v9 wording and boundary, authenticated IXL Australia Year 8 practice, relevant Khan Academy lessons/exercises, and at least two reputable public sources where available. IXL and Khan mappings are evidence for task design and progression, not substitutes for the Australian Curriculum. Source gaps are recorded rather than inferred.
@@ -525,3 +525,158 @@ BATCH 3 CHECKPOINT
 Completed: AC9S8H02, AC9S8H03, AC9S8I01, AC9S8I02
 All four codes now have curriculum boundaries, live IXL evidence or explicit mapping status, authenticated Khan evidence or explicit mapping status, reputable public-source comparison, misconception controls and authoring blueprints.
 Next unfinished code: AC9S8H04
+
+
+==================================================
+AC9S8H04
+CURRICULUM DESCRIPTION
+Explore the role of science communication in informing individual viewpoints and community policies and regulations.
+
+CURRICULUM BOUNDARY
+The focus is how credible scientific evidence is translated for audiences and can influence understanding, trust, behaviour, policy and regulation. Students evaluate message, medium, audience, evidence, uncertainty and framing. The code does not imply that communication alone determines policy: ethics, economics, feasibility, culture and community values also shape decisions.
+
+SOURCE EVIDENCE
+1. Australian Curriculum v9: exact description above. Curriculum examples include public organ-donation communication and the sharing of seismic information among Asia–Pacific governments for warnings, policies and regulations.
+2. IXL Australia, authenticated Year 8 Science: no direct science-communication skill maps to this code; SOURCE-NOT-MAPPED. IXL science-literacy and evidence-reading tasks offer transferable source/evidence practice only and must not be presented as a direct alignment.
+3. Khan Academy, authenticated: no direct Year 8 science-communication/policy mapping was located; SOURCE-NOT-MAPPED. Scientific-method and data lessons can support evidence appraisal but do not cover the policy/viewpoint requirement.
+4. Australian Organ and Tissue Authority/DonateLife public information provides a strong Australian case: communication explains donation, corrects myths, prompts family discussion and links evidence-based information to individual consent decisions and public systems.
+5. Geoscience Australia and the Joint Australian Tsunami Warning Centre provide an Australian risk-communication case in which observations and seismic data are converted into authoritative warnings and actionable public advice.
+6. ABC Education “Catalyst: Predicting earthquakes” shows more than 1,000 sensors feeding seismic-wave data into early warnings, while clearly distinguishing warning from exact prediction. This supports analysis of uncertainty, credibility and actionability.
+
+AUTHORING-READY KNOWLEDGE
+- Communication chain: evidence → audience-appropriate representation/message → understanding and trust → possible viewpoint or behaviour change → possible policy/regulation.
+- Credibility depends on traceable sources, relevant expertise, accurate data, transparent methods and calibrated uncertainty.
+- Audience and purpose determine vocabulary, detail, medium and recommended action without licensing distortion.
+- Risk messages should give baseline or absolute risk as well as relative change.
+- Graphs, maps, analogies and models can clarify evidence but can also mislead through scale, omission or framing.
+- Policy uses science alongside ethics, costs, feasibility, equity, law and values.
+- Compare a public campaign, warning, news report and technical report for audience, evidence, uncertainty and action.
+
+CONTENT BLUEPRINT
+Topic Page: communication chain; source/audience/purpose framework; risk and uncertainty; organ-donation and seismic-warning cases; viewpoint-policy distinction.
+Classroom View: compare headlines and agency notices, identify evidence versus framing, rewrite an unclear warning, discuss policy factors.
+Homework: source checks, audience adaptation, absolute-risk rewrite, campaign evaluation and a short evidence-based public message.
+Practice 48: 8 audience/purpose; 10 credibility/evidence; 8 uncertainty/risk; 8 representations/framing; 8 viewpoint-policy cases; 6 misinformation/corrections.
+Test 16: four novel communication cases with independent evidence, audience, risk and policy reasoning; no copied practice stems.
+
+MISCONCEPTIONS
+A famous speaker guarantees correctness; simpler language is less accurate; uncertainty should be hidden; a professional graph proves a claim; communication automatically creates policy; disagreement proves science failed. Feedback must separate evidence quality, message quality and the wider decision context.
+
+STATUS: AUTHORING-READY
+
+==================================================
+AC9S8I03
+CURRICULUM DESCRIPTION
+Select and use equipment to generate and record data with precision, using digital tools as appropriate.
+
+CURRICULUM BOUNDARY
+Students choose equipment whose range and resolution suit the question, use it consistently and record only defensible precision. Digital tools are used when appropriate, not automatically. Formal propagation of uncertainty and advanced significant-figure calculations are extension, while honest instrument-matched recording is essential.
+
+SOURCE EVIDENCE
+1. Australian Curriculum v9: exact description above. Elaborations include adjusting magnification to observe cell structures and recording values at a precision appropriate to the instrument, including estimating between graduations.
+2. IXL Australia, authenticated Year 8 Science: A.2 Identify laboratory tools; A.3 Laboratory safety equipment; EE.1 Choose units of distance, mass and volume; EE.2–EE.4 unit abbreviations. Live A.2 opens with “Select the Erlenmeyer flask” from four visual choices and progresses through three stages, beginning with 7 tokens. This verifies visual instrument identification, but equipment choice for a required resolution and actual measurement technique need original authoring.
+3. Khan Academy, authenticated “Intro to significant figures”: the lesson states that results must not over-represent the precision of measurements and explains how recorded trailing digits communicate precision. Its lesson sequence includes rules, arithmetic and an exercise. Use as supplementary precision reasoning, not an Australian curriculum mapping.
+4. NIST measurement guidance supports the distinction between a measured value and its uncertainty and the need to report results consistently with measurement capability.
+5. ABC Education “Catalyst: Nautical Robots” provides an authentic Year 7–8 context: Argo floats use sensors to measure temperature, pressure and salinity, transmit repeated profiles, and improve estimates of ocean trends. It connects equipment selection, digital data capture, scale and precision.
+
+AUTHORING-READY KNOWLEDGE
+- Match instrument range, resolution, sensitivity and environment to the variable and required precision.
+- Check zero, calibration and condition; read scales at eye level to reduce parallax; use correct units.
+- Resolution is the smallest scale increment or digital step; precision is repeatability/recording detail; accuracy is closeness to an accepted or true value.
+- Record all certain digits plus one defensible estimated digit for analogue scales where appropriate; never invent decimal places.
+- Repeat measurements and use adequate sample sizes to reveal variability; repeats do not remove systematic bias.
+- Digital probes/data loggers enable frequent, consistent sampling but still require calibration, units, sampling-rate choice and metadata.
+- Tables need headings, units and consistent decimal places justified by the instrument.
+- Microscope magnification should reveal the required structure without implying extra resolution beyond the image/instrument.
+
+CONTENT BLUEPRINT
+Topic Page: decision tree for equipment; range-resolution-precision-accuracy; scale reading; calibration/zero/parallax; analogue versus digital; Argo case.
+Classroom View: instrument stations, justify choices, read scales, diagnose over-precise tables and configure a logging interval.
+Homework: equipment-selection scenarios, scale readings, unit/decimal corrections, digital-tool evaluation.
+Practice 48: 8 equipment identification/use; 10 range/resolution choice; 10 scale reading/units; 8 precision/accuracy; 6 repeats/sample size; 6 digital tools.
+Test 16: unfamiliar instruments and datasets, including at least 4 justify/correct items.
+
+MISCONCEPTIONS
+More decimal places mean better data; precise equals accurate; digital instruments have no error; repeats fix poor calibration; the largest-range instrument is always best; every analogue reading ends exactly on a mark. Feedback must identify the instrument limitation and the defensible correction.
+
+STATUS: AUTHORING-READY
+
+==================================================
+AC9S8I04
+CURRICULUM DESCRIPTION
+Select and construct appropriate representations, including tables, graphs, models and mathematical relationships, to organise and process data and information.
+
+CURRICULUM BOUNDARY
+Students must both choose and construct representations, explaining why the form reveals the relevant comparison or relationship. Work includes tables, graphs, models and simple mathematical relationships or spreadsheet formulas. Decorative presentation without faithful data structure is insufficient.
+
+SOURCE EVIDENCE
+1. Australian Curriculum v9: exact description above. Elaborations include spreadsheet formulas and visual displays of large datasets such as earthquake/volcano maps and diagrams of body systems.
+2. IXL Australia, authenticated Year 8 Science: H.2 “Use tables and graphs to identify patterns about kinetic energy” is a strong partial mapping. A live Stage 1 item gives a table of two bowling balls (mass 6 kg versus 3 kg, equal speed 6 m/s, kinetic energy 108 J versus 54 J) and asks learners to compare all three variables; mastery begins with 4 correct in a row. Protocol skills B.5–B.7 also model structured data tables. IXL mainly interprets supplied displays, so original construction/selection tasks remain necessary.
+3. Khan Academy, authenticated 8th-grade “Interpreting scatter plots” sequence contains direction, trends, exercises, outliers and clusters. It distinguishes a positive linear relationship from no relationship. Useful for representation interpretation and selection; spreadsheet/model construction is not directly mapped.
+4. Australian Bureau of Statistics statistical-literacy guidance supports choosing displays appropriate to variable type and purpose, clear titles, labelled axes, units and non-misleading scales.
+5. ABC Education “Catalyst: Nautical Robots” asks students to locate and analyse sea-level and ocean-temperature graphs, calculate rates and compare decades. “Landscapes and Landforms: Introducing fieldwork” explicitly combines photographs, maps, graphs and sketches to answer a research question.
+
+AUTHORING-READY KNOWLEDGE
+- Table: organise exact values/categories and preserve raw observations; include title, headings and units.
+- Bar/column graph: compare categories or discrete groups; line graph: ordered/continuous change, commonly time; scatter plot: relationship between paired quantitative variables.
+- Put the independent variable on x and dependent variable on y when the investigation has that structure.
+- Choose sensible, even scales; label axes and units; plot accurately; include a key when multiple series are present.
+- Maps reveal spatial distributions; scientific diagrams/models reveal structure or mechanism; each omits some detail and has limitations.
+- Mathematical relationships summarise patterns using words, ratios, rates or simple formulas; spreadsheet formulas must use correct cell references and units.
+- Process data transparently: totals, means, rates or derived quantities should be distinguishable from raw data.
+- A truncated or inconsistent axis can exaggerate differences.
+
+CONTENT BLUEPRINT
+Topic Page: representation decision guide; construction checklist; worked table/bar/line/scatter/map/model/formula cases; spreadsheet example; misleading display critique.
+Classroom View: representation sort, build one dataset four ways, graph audit and spreadsheet formula demo.
+Homework: select and justify forms, construct displays, calculate/process values, repair misleading graphs.
+Practice 48: 8 selection; 8 tables; 12 graph construction; 6 maps/models; 8 formulas/spreadsheets; 6 critique.
+Test 16: novel mixed datasets with at least 6 construction/selection-justification items.
+
+MISCONCEPTIONS
+Any graph suits any data; axes can be swapped without consequence; lines should connect unordered categories; every axis must start at zero; spreadsheet output is automatically correct; models are exact copies. Feedback must name the purpose, variable type and the representation feature that needs correction.
+
+STATUS: AUTHORING-READY
+
+==================================================
+AC9S8I05
+CURRICULUM DESCRIPTION
+Analyse data and information to describe patterns, trends and relationships and identify anomalies.
+
+CURRICULUM BOUNDARY
+Analysis goes beyond reading a single value: students describe overall direction/form, compare groups, quantify where appropriate, identify variability and flag observations inconsistent with the main pattern. An anomaly is investigated, not silently deleted. Correlation alone does not establish causation.
+
+SOURCE EVIDENCE
+1. Australian Curriculum v9: exact description above. Elaborations include correlational statements such as greater drop height producing a larger indentation, measures of central tendency and identification of outliers.
+2. IXL Australia, authenticated H.2 is a strong partial mapping. The sampled kinetic-energy table holds speed constant while mass and energy change, requiring coordinated comparison rather than isolated lookup. The skill progresses from tables to graphs and pattern statements. It does not provide a full anomaly/error-analysis progression, so original tasks are required.
+3. Khan Academy, authenticated 8th-grade scatter-plot lesson: a study-time/test-score plot is identified as a positive linear relationship while shoe-size/test-score shows no relationship. The same lesson sequence includes “Describing trends in scatterplots”, “Outliers in scatter plots” and clusters. Khan’s controlled-experiments article additionally warns that association and uncontrolled variation do not by themselves establish cause.
+4. Australian Bureau of Statistics resources support comparing distributions with centre and spread and interpreting data in context rather than relying on a graph’s appearance alone.
+5. ABC Education “Catalyst: Nautical Robots” uses repeated Argo measurements to infer ocean-warming, salinity and sea-level trends, compare historical records and calculate rates—an authentic large-dataset analysis context.
+
+AUTHORING-READY KNOWLEDGE
+- Describe pattern with direction, form, strength/consistency and relevant values: increasing/decreasing, linear/non-linear, clustered, periodic or no clear relationship.
+- Compare groups using centre (mean/median/mode as appropriate), range/spread, sample size and context.
+- A trend is an overall tendency despite local variation; a relationship describes how variables vary together.
+- An anomaly/outlier lies away from the main pattern or expected range. Check transcription, units, instrument use, conditions and repeat evidence before deciding how to treat it.
+- Retain and report an unexplained anomaly; exclusion requires a transparent reason, and analysis should consider whether conclusions change with/without it.
+- Correlation can generate a hypothesis but does not prove causation; controlled design and alternative explanations matter.
+- Interpolation within observed data is generally safer than extrapolation beyond it.
+- Avoid overclaiming when the sample is small, variable or non-representative.
+
+CONTENT BLUEPRINT
+Topic Page: analysis sentence frame; centre/spread; table/graph patterns; scatter relationships; anomaly decision path; correlation-causation; Argo case.
+Classroom View: human graph, trend description, outlier investigation and competing-explanation discussion.
+Homework: analyse tables/graphs, calculate centre/range, identify and investigate anomalies, revise overclaimed conclusions.
+Practice 48: 10 patterns/trends; 8 group comparisons; 8 centre/spread; 10 relationships/scatterplots; 8 anomalies; 4 correlation/causation.
+Test 16: independent data contexts with at least 4 anomaly decisions and 4 relationship/claim items.
+
+MISCONCEPTIONS
+Every fluctuation reverses the trend; an outlier is automatically wrong; remove inconvenient data; correlation proves cause; a line must pass through every point; mean is always the best centre; extrapolation is certain. Feedback must reference the overall dataset, the anomaly check and the strength/limits of the inference.
+
+STATUS: AUTHORING-READY
+
+==================================================
+BATCH 4 CHECKPOINT
+Completed: AC9S8H04, AC9S8I03, AC9S8I04, AC9S8I05
+All four codes now have exact curriculum boundaries, live single-tab IXL evidence or explicit mapping status, authenticated single-tab Khan evidence or explicit mapping status, ABC Education and authoritative public-source comparison, misconception controls and authoring blueprints.
+Next unfinished code: AC9S8I06
