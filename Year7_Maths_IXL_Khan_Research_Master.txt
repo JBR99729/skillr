@@ -10,7 +10,7 @@ NEXT_CODE: AUTHORING_AC9M7N01
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
-BATCH: TARGETED IXL/KHAN EVIDENCE RERUN IN PROGRESS — SP01–ST01 VERIFIED
+BATCH: TARGETED IXL/KHAN EVIDENCE RERUN COMPLETE — ST02–P02 VERIFIED
 
 PURPOSE AND AUTHORING STANDARD
 This is the evidence ledger for re-authoring Year 7 Mathematics. Every code must be researched before authoring. Research must transfer into the Topic Page, HTML Classroom View, Homework/Worksheet, exactly 48 Practice questions and exactly 16 independent Test questions. IXL was inspected through one authenticated Australia browser tab, sequentially, including live skill pages and Learn with an example. Khan Academy was inspected through one authenticated browser tab, sequentially. Source language and examples are evidence only: SkillrHub output must be original.
@@ -1092,9 +1092,11 @@ IXL’s stem-and-leaf construction progression requires splitting each value int
 Misconceptions: unordered leaves; dropping repeated leaves; inconsistent place value; missing key; treating leaf “4” as 4 rather than, for example, 24; comparing only means; calling a single tail value a cluster; using unequal graph scales to exaggerate differences; describing “higher” without naming centre/spread evidence.
 
 KHAN / TRUSTED EVIDENCE
-Khan “Stem-and-leaf plots” reconstructs basketball scores by reading stems and leaves and preserving the original data values: https://www.khanacademy.org/math/ap-statistics/quantitative-data-ap/histograms-stem-leaf/v/u08-l1-t2-we3-stem-and-leaf-plots
-Khan “Clusters, gaps, peaks & outliers” supports distribution-shape language: https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-data-statistics/cc-6-shape-of-data/v/examples-analyzing-clusters-gaps-peaks-and-outliers-for-distributions
-ABS education datasets provide authentic material for software-created displays. AC v9/QCAA control the Year 7 comparison boundary.
+EVIDENCE LEVEL: AUTHENTICATED KHAN WORKED TRANSCRIPT VERIFIED — 2026-09-11.
+Khan’s “Stem-and-leaf plots” transcript was inspected. A plot for 12 basketball players uses the stem as tens and the leaf as ones, reconstructing repeated scores such as 11 and 11 and retaining zero scores. The lesson explains that the display preserves each original value while revealing the distribution across 0–9, 10–19 and 20+, then reconstructs the data to calculate a team total of 102 and explicitly corrects an arithmetic error through rechecking.
+https://www.khanacademy.org/math/ap-statistics/quantitative-data-ap/histograms-stem-leaf/v/u08-l1-t2-we3-stem-and-leaf-plots
+Khan’s clusters/gaps/outliers lesson and ABS datasets remain independent public cross-checks for describing shape and creating authentic displays.
+Authoring implications: require a key, ordered leaves, repeats and zeros; reconstruct values before calculating summaries; use common scales for comparisons; include deliberate calculation/display audits and shape–centre–spread–outlier statements.
 
 AUTHORING TRANSFER
 Topic Page: choose a display by purpose/data type; construct dot and stem-and-leaf plots; include a key; use software for a larger set; introduce the comparison frame “shape–centre–spread–outliers”; compare two sets on common scales.
@@ -1129,10 +1131,12 @@ The mapped sequence supports component evidence: recognise biased convenience/vo
 Misconceptions: asking a non-statistical yes/no question; confusing sample and population; convenience sample presented as representative; changing measurement method between participants; deleting valid outliers without reason; choosing a display after seeing which looks persuasive; claiming causation from descriptive data; reporting calculations without answering the question; generalising beyond the sampled group.
 
 KHAN / TRUSTED EVIDENCE
-Khan’s Grade 7 probability/statistics materials cover random and representative samples and drawing cautious conclusions from samples: https://www.khanacademy.org/math/cc-seventh-grade-math/cc-7th-probability-statistics
-ABS education guidance and datasets support real investigations, variable definitions and responsible reporting: https://www.abs.gov.au/statistics/people/education
-CensusAtSchool New Zealand offers reputable classroom survey data and investigation resources: https://new.censusatschool.org.nz/
-Australian Curriculum/QCAA control the required investigation/reporting language.
+EVIDENCE LEVEL: VERIFIED FULL-CODE SOURCE GAP + TRUSTED COMPONENT EVIDENCE — 2026-09-11.
+IXL and Khan were rechecked. Neither provides a single end-to-end Year 7 lesson covering question design, discrete/continuous variables, sampling, collection, cleaning, display choice, distribution analysis, contextual conclusion and limitations, so the full descriptor remains SOURCE-NOT-MAPPED. The existing IXL component mappings legitimately support sample quality, displays and summary statistics; Khan’s Year 7 probability/statistics course supports random samples and cautious inference but does not replace the complete investigation cycle.
+Khan course: https://www.khanacademy.org/math/cc-seventh-grade-math/cc-7th-probability-statistics
+ABS Education supplies authentic Australian datasets and variable context: https://www.abs.gov.au/statistics/people/education
+CensusAtSchool supplies classroom-ready survey data and investigation structures: https://new.censusatschool.org.nz/
+Authoring implications: every substantial task must begin with a statistical question and written plan, distinguish sample from population, document collection/cleaning decisions, justify display/statistic choices, answer the question from evidence and state at least one limitation without causal overclaiming.
 
 AUTHORING TRANSFER
 Topic Page: PPDAC-style cycle (problem, plan, data, analysis, conclusion); statistical-question test; variable/data-type table; sampling bias examples; cleaning decisions; display/statistic choice; conclusion and limitation scaffold.
@@ -1168,10 +1172,11 @@ Authoring must distinguish equally likely outcomes from equally named categories
 Misconceptions: incomplete or duplicated sample space; confusing event with outcome; denominator equals number of favourable outcomes; treating physical outcomes as equally likely without evidence; probabilities outside [0,1]; forgetting to simplify or give expected frequency in context; promising an exact future count rather than a prediction.
 
 KHAN / TRUSTED EVIDENCE
-Khan “Theoretical probability” introduces probability through a fair coin and die and uses favourable outcomes over all equally likely outcomes: https://www.khanacademy.org/math/statistics-probability/probability-library/basic-theoretical-probability/v/basic-probability
-Khan’s theoretical-versus-experimental lesson emphasises that observed relative frequency need not exactly equal theoretical probability in a finite run: https://www.khanacademy.org/math/cc-seventh-grade-math/cc-7th-probability-statistics/cc-7th-theoretical-and-experimental-probability/v/comparing-theoretical-to-experimental-probabilites
-NRICH probability tasks provide trusted sample-space and fairness reasoning: https://nrich.maths.org/primary/geometry-and-measure/probability
-Australian Curriculum/QCAA control single-stage scope.
+EVIDENCE LEVEL: AUTHENTICATED KHAN WORKED TRANSCRIPT VERIFIED — 2026-09-11.
+Khan’s “Intro to theoretical probability” transcript was inspected. It defines a fair coin through two equally likely outcomes and calculates P(heads)=1/2=50%. A fair die example lists six equally likely outcomes, giving P(1)=1/6, P(1 or 6)=2/6=1/3, P(2 and 3 on one roll)=0 because those outcomes are mutually exclusive, and P(even)=3/6=1/2. It also distinguishes a single outcome from a compound event.
+https://www.khanacademy.org/math/statistics-probability/probability-library/basic-theoretical-probability/v/basic-probability
+NRICH probability tasks remain the additional trusted reasoning source: https://nrich.maths.org/primary/geometry-and-measure/probability
+Authoring implications: list elementary outcomes before counting, state the equally-likely assumption, distinguish outcome/event and “or”/impossible “and”, include non-uniform physical representations, and phrase predicted frequency as an expectation rather than a guarantee.
 
 AUTHORING TRANSFER
 Topic Page: vocabulary and 0–1 probability scale; systematic sample-space lists/tables; fair die, unequal-colour spinner and bag examples; event probability; complement check; predicted frequency n×p; distinguish prediction from guarantee.
@@ -1214,13 +1219,11 @@ Core investigation example for authoring: predict 50% heads; record cumulative h
 Misconceptions: experimental probability = favourable theoretical outcomes ÷ sample space; changing rules or apparatus during trials; comparing frequencies when trial totals differ; expecting exact equality to theory; believing a short run disproves fairness; saying larger trials remove randomness; using a simulation that does not match the intended probabilities; reporting percentages whose outcome totals do not equal 100%.
 
 KHAN / TRUSTED EVIDENCE
-Khan “Theoretical and experimental probabilities” contrasts a theoretical 50% prediction with finite observed results and explains convergence with more trials:
+EVIDENCE LEVEL: AUTHENTICATED KHAN WORKED TRANSCRIPT VERIFIED — 2026-09-11.
+Khan’s “Theoretical and experimental probabilities” transcript was inspected. A bag contains 50 magenta and 50 blue marbles, so theoretical P(magenta)=1/2. Sampling with replacement gives 7 magenta in 10 trials; the lesson treats this as plausible short-run variation. A hypothetical 8,000 magenta in 10,000 trials gives experimental probability 0.8, far enough from 0.5 over many trials to question whether outcomes are truly equally likely and to investigate apparatus effects such as weight or texture.
 https://www.khanacademy.org/math/cc-seventh-grade-math/cc-7th-probability-statistics/cc-7th-theoretical-and-experimental-probability/v/comparing-theoretical-to-experimental-probabilites
-Khan’s probability-simulation lesson shows repeated digital trials and long-run relative-frequency behaviour:
-https://www.khanacademy.org/math/ap-statistics/probability-ap/randomness-probability-simulation/v/experimental-versus-theoretical-probability-simulation
-NRICH provides reputable classroom chance investigations:
-https://nrich.maths.org/primary/geometry-and-measure/probability
-Australian Curriculum v9/QCAA control the Year 7 explanation level and digital-tool requirement.
+The authenticated basic-probability transcript independently explains long-run relative frequency: larger numbers of fair-coin trials tend to lie nearer 50%, while even a very long run is not guaranteed to match exactly. NRICH remains the additional trusted investigation source.
+Authoring implications: compare relative rather than raw frequencies, specify replacement and an unchanged protocol, graph cumulative relative frequency, distinguish random short-run variation from persistent large-run discrepancy, and debug whether a digital simulation matches the intended probabilities.
 
 AUTHORING TRANSFER
 Topic Page: prediction–experiment–relative-frequency–simulation–comparison cycle; define frequency and relative frequency; worked physical coin/spinner table; cumulative graph; digital simulation pseudocode; explicit explanation of random variation and long-run stabilisation.
@@ -1251,7 +1254,8 @@ TARGETED EVIDENCE RERUN CHECKPOINTS — 2026-09-11
 - AC9M7A03–AC9M7M01 were then rechecked using authenticated worked transcripts/live exercise evidence; AC9M7A06 retains an explicit exact-source gap with verified prerequisite evidence.
 - AC9M7M02–AC9M7M06 were rechecked with authenticated Khan worked transcripts; M02–M04 also received reopened IXL Learn-with-an-example evidence to replace image-only claims.
 - AC9M7SP01–AC9M7ST01 were rechecked: authenticated IXL/Khan worked evidence now strengthens SP02, SP03 and ST01, while SP01 and SP04 preserve explicit exact-source gaps with trusted public component evidence.
-- Remaining deficient Year 7 records begin at AC9M7ST02.
+- AC9M7ST02, AC9M7ST03, AC9M7P01 and AC9M7P02 were rechecked; authenticated Khan worked transcripts now replace link-only evidence where exact lessons exist, and ST03 preserves the verified full-code mapping gap with ABS/CensusAtSchool support.
+- Targeted Year 7 evidence audit complete: no deficient curriculum records remain.
 
 AUTHORING HANDOFF
 NEXT_CODE: AC9M7N01
