@@ -1,0 +1,21 @@
+YEAR 10 SCIENCE — CURRICULUM RESEARCH MASTER
+Australian Curriculum v9 | SkillrHub
+Last updated: 2026-09-11
+
+PROJECT_STATUS: IN_PROGRESS
+CURRENT_PHASE: RESEARCH
+CURRENT_CODE: AC9S10U01
+LAST_COMPLETED_CODE: NONE
+NEXT_CODE: AC9S10U02
+AUTHORING_STARTED: NO
+CONTENT_VERIFIED_COUNT: 0
+BLOCKER: NONE
+BATCH: 0 COMPLETED
+
+CURRICULUM CODE INVENTORY
+AC9S10U01, AC9S10U02, AC9S10U03, AC9S10U04, AC9S10U05, AC9S10U06, AC9S10U07
+AC9S10H01, AC9S10H02, AC9S10H03, AC9S10H04
+AC9S10I01, AC9S10I02, AC9S10I03, AC9S10I04, AC9S10I05, AC9S10I06, AC9S10I07, AC9S10I08
+
+RESEARCH METHOD
+Each code is checked against Australian Curriculum v9 wording and scope, authenticated IXL Australia Year 10 practice, relevant authenticated Khan Academy instruction, ABC Education where a stable direct resource exists, and at least two reputable free/public sources where available. IXL and Khan mappings guide task progression and misconception design; they do not replace the Australian Curriculum. Missing direct mappings are recorded.
