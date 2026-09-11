@@ -4,13 +4,13 @@ Last updated: 2026-09-11
 
 PROJECT_STATUS: IN_PROGRESS
 CURRENT_PHASE: RESEARCH
-CURRENT_CODE: AC9M7M05
-LAST_COMPLETED_CODE: AC9M7M04
-NEXT_CODE: AC9M7M05
+CURRENT_CODE: AC9M7SP04
+LAST_COMPLETED_CODE: AC9M7SP03
+NEXT_CODE: AC9M7SP04
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
-BATCH: 4 COMPLETE (LATEST: AC9M7A06, AC9M7M01–AC9M7M04)
+BATCH: 5 COMPLETE (LATEST: AC9M7M05–AC9M7SP03)
 
 PURPOSE AND AUTHORING STANDARD
 This is the evidence ledger for re-authoring Year 7 Mathematics. Every code must be researched before authoring. Research must transfer into the Topic Page, HTML Classroom View, Homework/Worksheet, exactly 48 Practice questions and exactly 16 independent Test questions. IXL was inspected through one authenticated Australia browser tab, sequentially, including live skill pages and Learn with an example. Khan Academy was inspected through one authenticated browser tab, sequentially. Source language and examples are evidence only: SkillrHub output must be original.
@@ -757,5 +757,212 @@ BATCH 4 QA CHECK
 - Four serious existing SkillrHub launch-page defects were recorded for mandatory authoring correction.
 - All five codes are AUTHORING-READY.
 
+
+==============================================================================
+AC9M7M05 — ANGLE SUMS OF TRIANGLES AND POLYGONS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Demonstrate that the interior angle sum of a triangle in the plane is 180° and apply this to determine the interior angle sum of other shapes and the size of unknown angles.
+
+CURRICULUM BOUNDARY
+Students must do more than recall 180°: they should demonstrate it by rearranging the three corners of a triangle into a straight angle or by reasoning with a parallel line. They then derive polygon sums by triangulation, use S=(n−2)×180°, and find unknown interior angles. Regular-polygon problems are valid applications, but exterior-angle theorems and formal Euclidean proof are extensions rather than the core.
+
+IXL MAPPING AND LIVE EVIDENCE
+Primary mappings:
+- “Find missing angles in triangles and quadrilaterals”: https://au.ixl.com/maths/year-7/find-missing-angles-in-triangles-and-quadrilaterals
+- “Sums of angles in polygons”: https://au.ixl.com/maths/year-7/sums-of-angles-in-polygons
+Learn-with-an-example observed sequentially in the single IXL tab:
+1. A quadrilateral has angles 39°, 115°, 87° and an unknown. IXL states the four interior angles total 360°, forms 39+115+87+?=360, totals the known angles as 241°, and obtains 119°.
+2. An octagon is partitioned from one vertex into 6 triangles. Each triangle contributes 180°, so its interior-angle sum is 6×180°=1080°.
+Progression to preserve: identify the relevant shape and angle sum; total known angles; subtract; triangulate an n-gon; generalise triangle count n−2; solve regular and irregular polygon questions.
+Misconceptions: using 360° for a triangle; using n×180°; drawing n triangles instead of n−2; assuming an irregular polygon has equal angles; subtracting one unknown before accounting for all known angles; relying on a diagram’s appearance; mishandling concave polygons.
+
+KHAN / TRUSTED EVIDENCE
+Khan’s quadrilateral angle-sum lesson proves 360° by splitting a quadrilateral into two triangles: https://www.khanacademy.org/math/geometry/hs-geo-foundations/hs-geo-polygons/v/proof-sum-of-measures-of-angles-in-a-triangle-are-180
+Khan geometry resources support triangle-angle and polygon triangulation reasoning; the Australian Curriculum v9 and QCAA alignment control Year 7 scope. A physical tear-and-place demonstration is especially useful because the descriptor explicitly says “demonstrate”.
+
+AUTHORING TRANSFER
+Topic Page: distinguish interior angles from turns/exterior angles; present two demonstrations of the triangle sum; triangulate quadrilateral, pentagon and octagon; derive S=(n−2)×180°; solve unknown-angle examples with reasons.
+Classroom View: paper-triangle corner investigation, student-generated triangulations, a table linking sides/triangles/sum, worked irregular polygon, regular-polygon hinge question and error-analysis exit ticket.
+Homework: angle-sum recall with reasons, missing triangle/quadrilateral angles, polygon sums, regular interior angles, multiple unknowns and critique of invalid triangulations.
+Feedback: name the shape/fact, write the total-sum equation, add known angles, subtract, and check the result is geometrically plausible.
+
+48-PRACTICE BLUEPRINT
+P01–P08 demonstrations and angle-sum concepts; P09–P16 triangle unknowns; P17–P24 quadrilateral unknowns; P25–P32 polygon triangulation and sums; P33–P40 regular/irregular polygon angles; P41–P48 multi-step, concave-shape, proof and error analysis.
+16-TEST BLUEPRINT
+T01–T04 triangle/quadrilateral fluency; T05–T08 polygon sums; T09–T12 independent missing-angle/regular-polygon problems; T13–T16 demonstration, justification and error analysis. Test diagrams and values must be independent from Practice.
+
+AUTHORING DEFECT ALERT
+The current SkillrHub launch page shows an unrelated integer descriptor and a shared eight-question bank. Replace the descriptor and build separate 48 Practice and 16 Test banks.
+
+==============================================================================
+AC9M7M06 — MATHEMATICAL MODELLING WITH RATIOS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Use mathematical modelling to solve practical problems involving ratios; formulate problems, interpret and communicate solutions in terms of the situation, justifying choices made about the representation.
+
+CURRICULUM BOUNDARY
+Use ratio to compare like quantities and solve practical scaling, sharing, recipe, mixture, design, map and rate-adjacent problems. The full modelling cycle is required: formulate the question and assumptions, choose a representation, calculate, interpret in context, check reasonableness and justify choices. Avoid reducing the code to routine equivalent-ratio exercises.
+
+IXL MAPPING AND LIVE EVIDENCE
+Primary mappings: “Write a ratio”; “Write a ratio: word problems”; “Identify equivalent ratios”; “Write an equivalent ratio”; “Equivalent ratios: word problems”; “Compare ratios: word problems”; and “Ratios and rates: word problems” on https://au.ixl.com/maths/year-7
+Learn-with-an-example observed for comparing ratios: Megan uses 1 cup mango for every 3 cups strawberry; her dad uses 2 cups mango for every 6 cups strawberry. IXL defines a ratio as comparing two numbers with the same unit and simplifies 2:6 by dividing both terms by 2 to obtain 1:3, so the mixtures have the same ratio.
+Earlier live evidence for AC9M7N08 already established writing and identifying equivalent ratios; this code extends those skills into an explicitly justified modelling process.
+Useful representations: ratio notation, fraction form, tape diagrams, tables, double number lines and unit-rate reasoning. Learners must keep term order and units meaningful.
+Misconceptions: reversing ratio order; adding the same amount to both terms instead of multiplying; comparing only one term; confusing part:part with part:whole; scaling quantities but not interpreting constraints; reporting an impossible fractional item; giving calculations without assumptions or justification.
+
+KHAN / TRUSTED EVIDENCE
+Khan ratio lessons use equivalent ratios, ratio tables, tape diagrams and double number lines in contextual problems: https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-arithmetic-operations/cc-6th-ratios-intro/v/introduction-to-ratios
+Supporting practice: https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-arithmetic-operations/cc-6th-rates/e/ratio_word_problems
+Khan supports the representation and calculation foundations, while Australian Curriculum/QCAA supply the explicit formulate–interpret–communicate–justify modelling requirement.
+
+AUTHORING TRANSFER
+Topic Page: a modelling-cycle panel; clarify part:part and part:whole; solve one mixture using a tape diagram, ratio table and equation; compare the representations and justify the most useful one; interpret rounding/whole-item constraints.
+Classroom View: recipe or paint-mixture investigation, student choice of representation, assumption card, peer check for equivalent scaling, reasonableness test and spoken/written conclusion in context.
+Homework: formulate from short scenarios, equivalent scaling, sharing in a ratio, compare mixtures, missing values, constraints and written justification.
+Feedback: restate ratio order with units, identify the common scale factor, preserve multiplicative equivalence, check total/constraints and finish with a contextual sentence.
+
+48-PRACTICE BLUEPRINT
+P01–P08 ratio language/order; P09–P16 equivalent ratios; P17–P24 tables/tape diagrams/double number lines; P25–P32 scaling and sharing; P33–P40 compare mixtures and solve constrained contexts; P41–P48 complete modelling cycles with assumptions, representation choice, interpretation and justification.
+16-TEST BLUEPRINT
+T01–T04 ratio foundations; T05–T08 contextual equivalence/scaling; T09–T12 independent sharing/comparison models; T13–T16 full modelling, communication and justification. No Test story structure may duplicate Practice.
+
+AUTHORING DEFECT ALERT
+The current launch page uses the unrelated integer descriptor and shared eight-question wording. Replace both during authoring.
+
+==============================================================================
+AC9M7SP01 — REPRESENTING OBJECTS IN TWO DIMENSIONS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Represent objects in 2 dimensions; discuss and reason about the advantages and disadvantages of different representations.
+
+CURRICULUM BOUNDARY
+Include nets and orthographic front, side and top views, plus suitable sketches/plans where relevant. Students must both create/read representations and compare what information each preserves or hides. Perspective sketches communicate appearance and depth; orthographic views support exact shape/position from one direction; nets expose faces and adjacency but require mental folding.
+
+IXL MAPPING AND LIVE EVIDENCE
+Primary mappings:
+- “Nets of three-dimensional figures”: https://au.ixl.com/maths/year-7/nets-of-three-dimensional-figures
+- “Front, side and top view”: https://au.ixl.com/maths/year-7/front-side-and-top-view
+Learn-with-an-example evidence:
+1. For a displayed net, IXL asks which solid it will make. The method is to imagine folding along dotted edges; the observed example folds to a square pyramid.
+2. For a cube-built object, IXL asks for its appearance from the front. The explanation tells learners to imagine viewing from that direction, identify the visible squares and match the resulting 2D arrangement.
+Question progression: identify a solid from a net; decide whether a net is valid; match objects and views; infer hidden cubes cautiously; create a view; compare representations.
+Misconceptions: treating any connected set of faces as a valid net; overlooking overlapping faces when folded; swapping front/side due to orientation; counting hidden cubes from one view without sufficient information; drawing perspective when an orthographic view is requested; claiming one representation is universally “best”.
+
+KHAN / TRUSTED EVIDENCE
+No single age-matched Khan lesson cleanly maps the full compare-representations descriptor: SOURCE-NOT-MAPPED at full-code level. Khan geometry contains nets/cross-sections and spatial-visualisation foundations, but AC v9/QCAA and IXL provide the direct scope.
+A suitable additional trusted public teaching source is NRICH’s spatial reasoning task collection: https://nrich.maths.org/primary/geometry-and-measure/spatial-reasoning
+
+AUTHORING TRANSFER
+Topic Page: show one object as perspective sketch, top/front/side views and net; define line-of-sight projection; provide a comparison table of information shown, hidden and typical use; teach a fold-check strategy for nets.
+Classroom View: build with cubes, rotate viewpoint labels, sketch three orthographic views, match mystery objects to view cards, fold a paper net, then defend which representation suits packaging, construction or communication.
+Homework: identify/match views, complete missing view, choose valid nets, sketch representations and justify advantages/disadvantages.
+Feedback: fix the viewing direction, trace the outer profile and visible unit squares, compare across views, then state what the chosen representation shows and hides.
+
+48-PRACTICE BLUEPRINT
+P01–P08 viewpoint/orientation; P09–P16 read front/side/top views; P17–P24 match objects and multiple views; P25–P32 identify/fold nets; P33–P40 create/complete representations; P41–P48 choose, compare and critique representations in practical contexts.
+16-TEST BLUEPRINT
+T01–T04 view recognition; T05–T08 nets; T09–T12 independent object/view reconstruction; T13–T16 reasoned representation choice and limitations.
+
+AUTHORING DEFECT ALERT
+Current launch page displays the unrelated integer descriptor and shared eight-question wording. Correct both.
+
+==============================================================================
+AC9M7SP02 — CLASSIFYING TRIANGLES, QUADRILATERALS AND POLYGONS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Classify triangles, quadrilaterals and other polygons according to their side and angle properties; identify and reason about relationships.
+
+CURRICULUM BOUNDARY
+Classify triangles by sides and by angles; classify quadrilaterals through parallel sides, equal sides, angle and diagonal properties as appropriate; name other polygons; and reason with inclusive hierarchies. Definitions must be explicit because conventions for a kite or trapezium can differ. Do not teach categories as mutually exclusive when property inclusion makes one shape a special case of another.
+
+IXL MAPPING AND LIVE EVIDENCE
+Primary mappings include “Identify and classify polygons”; “Name, measure and classify angles”; “Acute, obtuse and right-angled triangles”; “Scalene, isosceles and equilateral triangles”; “Classify triangles”; “Parallel sides in quadrilaterals”; “Classify quadrilaterals I” and “Classify quadrilaterals II” on https://au.ixl.com/maths/year-7
+Learn-with-an-example evidence:
+1. A triangle has angles 85°, 54° and 41°. IXL defines acute as all angles less than 90°, right as exactly one 90°, and obtuse as one greater than 90°; it classifies the triangle as acute.
+2. “Is a kite always a quadrilateral?” IXL defines a kite by two pairs of congruent adjacent sides and a quadrilateral as any four-sided polygon, so yes.
+3. “How many sides does a nonagon have?” IXL’s polygon table runs from triangle (3) to decagon (10); nonagon has 9.
+Progression: recognise properties → classify under one rule → classify under two independent systems → place shapes in a hierarchy → justify always/sometimes/never statements.
+Misconceptions: classifying by appearance/orientation; saying every isosceles triangle is acute; treating “square” and “rectangle” as exclusive; confusing adjacent and opposite sides; assuming equal-looking features without marks; ignoring concavity; using memorised names without property justification.
+
+KHAN / TRUSTED EVIDENCE
+Khan’s quadrilateral classification material organises figures by properties and highlights inclusive categories: https://www.khanacademy.org/math/cc-fifth-grade-math/classify-shapes/imp-classifying-geometric-shapes/v/intro-to-quadrilateral
+Khan triangle-classification resources support classification by both side length and angle measure. Australian Curriculum/QCAA control the expected Year 7 reasoning level.
+NRICH geometry tasks provide reputable property-based sorting and always/sometimes/never reasoning: https://nrich.maths.org/primary/geometry-and-measure/properties-of-shapes
+
+AUTHORING TRANSFER
+Topic Page: property vocabulary with marked diagrams; two-way triangle classification grid; quadrilateral hierarchy with definition note; regular/irregular and concave/convex polygons; worked always/sometimes/never statements.
+Classroom View: property-card sort, Venn/Carroll diagrams, construct counterexamples, mystery-shape questioning, defend multiple valid names and exit justification.
+Homework: classify marked shapes, identify sufficient properties, complete hierarchies, spot impossible combinations, give counterexamples and justify relationships.
+Feedback: ignore orientation, list marked/known properties, apply the stated definition, name every valid class required and justify inclusion.
+
+48-PRACTICE BLUEPRINT
+P01–P08 polygon/angle vocabulary; P09–P16 triangle classification by sides; P17–P24 by angles and dual classification; P25–P32 quadrilateral properties; P33–P40 inclusive hierarchy/other polygons; P41–P48 always-sometimes-never, counterexamples and error analysis.
+16-TEST BLUEPRINT
+T01–T04 property recognition; T05–T08 triangle classification; T09–T12 independent quadrilateral/polygon hierarchy; T13–T16 relationship proofs and counterexamples.
+
+AUTHORING DEFECT ALERT
+Current launch page has the unrelated integer descriptor and shared eight-question wording. Correct both.
+
+==============================================================================
+AC9M7SP03 — COORDINATE TRANSFORMATIONS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Describe transformations of a set of points using coordinates in the Cartesian plane, translations and reflections on an axis, and rotations about a given point.
+
+CURRICULUM BOUNDARY
+Students identify, perform and describe translations, axis reflections and rotations about a specified point. Include coordinate rules for common origin-centred cases but ensure rotations about other centres are also represented. Dilation and formal matrix notation are outside this descriptor. Direction, distance, angle, centre and clockwise/anticlockwise orientation must be communicated precisely.
+
+IXL MAPPING AND LIVE EVIDENCE
+Primary mappings:
+- “Identify reflections, rotations and translations”
+- “Translations: graph the image” and “Translations: find the coordinates”
+- “Reflections: graph the image” and “Reflections: find the coordinates”
+- “Rotations: graph the image” and “Rotations: find the coordinates”
+- “Sequences of transformations: graph the image”
+All are listed at https://au.ixl.com/maths/year-7
+Learn-with-an-example evidence:
+- Translation: Q(−2,6) is translated 6 units down. IXL describes translation as a slide; x is unchanged and 6 is subtracted from y, giving Q′(−2,0).
+- Reflection and rotation worked panels were opened sequentially in the same tab. Their diagrams were rendered but detailed accessible text was incomplete; no unseen coordinates are invented here.
+Core rules to teach and verify geometrically: translation (x,y)→(x+a,y+b); reflection in x-axis (x,−y); reflection in y-axis (−x,y); about-origin 90° anticlockwise (−y,x), 90° clockwise (y,−x), 180° (−x,−y). For another centre, translate the centre to the origin, rotate, then translate back, or use equal-radius/right-angle geometry.
+Misconceptions: swapping x/y movement; sign errors; reflecting in the wrong axis; treating reflection as negating both coordinates; omitting direction or centre; rotating about the origin when another point is marked; describing only the image, not the transformation; joining vertices in changed order.
+
+KHAN / TRUSTED EVIDENCE
+Khan transformation lessons distinguish rigid motions and model coordinate effects:
+- Translations: https://www.khanacademy.org/math/geometry/hs-geo-transformations/hs-geo-translations/v/translating-shapes
+- Reflections: https://www.khanacademy.org/math/geometry/hs-geo-transformations/hs-geo-reflections/v/reflections-intro
+- Rotations: https://www.khanacademy.org/math/geometry/hs-geo-transformations/hs-geo-rotations/v/rotating-shapes
+GeoGebra’s public geometry tools are a trusted dynamic check for distance, orientation and centre: https://www.geogebra.org/geometry
+Australian Curriculum/QCAA control the exact content boundary.
+
+AUTHORING TRANSFER
+Topic Page: transformation vocabulary; coordinate-grid animations/diagrams; translation vectors in words and ordered changes; reflection rules derived from equal distance to axis; rotations with tracing paper; centre-shift method for non-origin rotations; invariant distance/shape checks.
+Classroom View: human-coordinate warm-up, predict then drag/trace, table of original/image points, transformation-identification stations, non-origin rotation worked example and inverse-transformation exit ticket.
+Homework: plot and identify images, find coordinates, describe transformations exactly, reverse transformations, sequence two motions and diagnose coordinate-rule errors.
+Feedback: mark the centre/axis/vector first, transform each vertex consistently, retain vertex order, and verify equal lengths plus the required direction/distance/angle.
+
+48-PRACTICE BLUEPRINT
+P01–P08 identify transformations and vocabulary; P09–P16 translations; P17–P24 axis reflections; P25–P32 rotations about origin; P33–P38 rotations about another point; P39–P44 sequences/reverse problems; P45–P48 precise descriptions and error analysis.
+16-TEST BLUEPRINT
+T01–T04 identification/translation; T05–T08 reflection; T09–T12 independent rotations including a non-origin centre; T13–T16 sequences, inverse reasoning and exact description.
+
+AUTHORING DEFECT ALERT
+Current launch page shows the unrelated integer descriptor and shared eight-question wording. Replace both.
+
+==============================================================================
+BATCH 5 QA CHECK
+- Five codes researched: AC9M7M05, AC9M7M06 and AC9M7SP01–AC9M7SP03.
+- Exact AC v9 descriptors cross-checked against the project curriculum pages and QCAA alignment.
+- One IXL Australia tab was used sequentially; eleven direct skill mappings were inspected and Learn with an example evidence was captured where text was exposed. Inaccessible diagram text was not invented.
+- One Khan Academy tab was used sequentially; relevant lesson mappings and genuine full-code gaps were recorded.
+- Australian Curriculum/QCAA plus NRICH or GeoGebra supplied trusted public cross-checks where useful.
+- Every code includes scope boundary, misconceptions, Topic Page/Classroom/Homework transfer, a 48-Practice blueprint and a separate 16-Test blueprint.
+- AC9M7M05–AC9M7SP03 are AUTHORING-READY.
+
 RESUME INSTRUCTION
-Read NEXT_CODE and continue with AC9M7M05. Do not repeat completed research unless a source or curriculum descriptor materially changes.
+Read NEXT_CODE and continue with AC9M7SP04. Do not repeat completed research unless a source or curriculum descriptor materially changes.
