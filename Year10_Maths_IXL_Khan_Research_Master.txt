@@ -1,15 +1,15 @@
 PROJECT_STATUS: IN_PROGRESS
-CURRENT_PHASE: RESEARCH
-CURRENT_CODE: AC9M10P02
-LAST_COMPLETED_CODE: AC9M10P01
-NEXT_CODE: AC9M10P02
+CURRENT_PHASE: RESEARCH_COMPLETE
+CURRENT_CODE: NONE
+LAST_COMPLETED_CODE: AC9M10P02
+NEXT_CODE: AUTHORING_AC9M10N01
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
 YEAR: 10
 SUBJECT: Mathematics
 CURRICULUM: Australian Curriculum v9.0
-BATCH_STATUS: FIRST TWENTY CODES STRICTLY VERIFIED — AUTHORING-READY
+BATCH_STATUS: ALL 21 YEAR 10 MATHEMATICS CODES STRICTLY VERIFIED — AUTHORING-READY
 RESEARCH_DATE_UTC: 2026-09-11
 
 YEAR 10 MATHEMATICS — IXL / KHAN / PUBLIC-SOURCE RESEARCH MASTER
@@ -2049,3 +2049,129 @@ BATCH CHECKPOINT — AC9M10ST04, AC9M10ST05, AC9M10P01
 - Each includes authenticated IXL worked evidence or an explicit full-code gap, authenticated Khan evidence, trusted sources, 12 materially different families, progression, misconceptions, Topic/Classroom/worksheet requirements and exact 48/16 planning.
 - LAST_COMPLETED_CODE: AC9M10P01.
 - NEXT_CODE: AC9M10P02.
+
+
+===============================================================================
+AC9M10P02
+OFFICIAL DESCRIPTOR
+Design and conduct repeated chance experiments and simulations using digital tools to model conditional probability and interpret results.
+
+RESEARCH STATUS: AUTHORING-READY
+
+CURRICULUM INTENT AND BOUNDARY
+Students must complete a probability-modelling cycle: define the chance process and condition, design a fair repeatable experiment or digital simulation, encode outcomes correctly, run enough trials, calculate conditional relative frequencies, compare runs/sample sizes or replacement rules, and interpret results with attention to random variation and model assumptions. The focus is not merely calculating a theoretical probability. Students should recognise how dependence, with/without replacement and the imposed condition change the simulation state and denominator. They must validate that a digital model matches the real process.
+
+PREREQUISITES
+- Theoretical and experimental probability.
+- Conditional language and P(A|B).
+- Independent/dependent events.
+- Tables, trees, random digits/numbers and relative frequency.
+- Sampling with and without replacement.
+- Spreadsheet formulas, simple coding loops or simulation tools.
+
+IXL AUSTRALIA MAPPING — AUTHENTICATED, SINGLE-TAB REVIEW
+DIRECT FULL-CODE MATCH: SOURCE-NOT-MAPPED.
+Strong component skills:
+- Experimental probability.
+- Theoretical probability.
+- Identify independent and dependent events.
+- Probability of independent and dependent events.
+- Conditional probabilities using two-way frequency tables.
+IXL supports calculations and event structure but does not directly require students to design, implement, validate, repeat and refine a digital conditional-probability simulation.
+
+IXL “LEARN WITH AN EXAMPLE” EVIDENCE
+Each component was opened individually.
+- Experimental probability: event count divided by total trials; 3 occurrences in 15 trials simplifies to 1/5.
+- Theoretical probability: favourable equally likely outcomes divided by all possible outcomes; a fair coin gives P(tails)=1/2.
+- Dependence identification: selecting a glove without replacement changes what remains, so the second selection depends on the first.
+- Dependent multiplication: after drawing a 3 from cards {1,2,3} without replacement, the remaining sample space is {1,2}; both remaining values divide 32, so the pathway probability is 1/3 × 2/2 = 1/3.
+Teaching transfer: simulation state must update after every dependent outcome; the second probability cannot be frozen at its initial value.
+
+KHAN ACADEMY EVIDENCE — AUTHENTICATED TRANSCRIPTS
+Theoretical and experimental probabilities:
+https://www.khanacademy.org/math/cc-seventh-grade-math/cc-7th-probability-statistics/cc-7th-theoretical-and-experimental-probability/v/comparing-theoretical-to-experimental-probabilites
+The transcript compares a theoretical 1/2 marble probability with 7/10 and then 8000/10000 experimental results. Small-sample variation is expected; a persistent large discrepancy after many trials prompts investigation of unequal mixing, weight, texture or another violated model assumption.
+
+Random numbers for experimental probability:
+https://www.khanacademy.org/math/ap-statistics/probability-ap/randomness-probability-simulation/v/random-numbers-for-experimental-probability
+The transcript models a three-roll game using computer-generated digits. It specifies how digits 1–6 map to die outcomes, rejects 0 and 7–9, groups three valid digits per trial, records win/loss, computes 5/10, and recommends far more trials or a program to improve the estimate. This supplies authentic design, coding and interpretation evidence.
+
+OTHER TRUSTED SOURCE USE
+- Australian Curriculum v9.0: full-code scope and elaboration anchor.
+- Australian Bureau of Statistics: randomness, sample-size variation and responsible interpretation.
+- CODAP probability tools: repeat simulations, filter on a condition and compare conditional relative frequencies.
+- GeoGebra probability simulator or spreadsheet random functions: reproducible trials, dynamic tables and convergence graphs.
+- Scratch/Python-style pseudocode: loops, conditional branches, counters and state updates; later content stays tool-neutral.
+
+12 MATERIALLY DIFFERENT QUESTION / APPLICATION FAMILIES
+1. Identify experiment, trial, outcome, event and condition.
+2. Distinguish theoretical from experimental probability.
+3. Design a physical repeated experiment with controlled rules.
+4. Map random digits/numbers fairly to outcomes and handle rejected values.
+5. Write/trace pseudocode for repeated independent trials.
+6. Write/trace state-changing code for draws without replacement.
+7. Model “A given B” by counting A-and-B among B trials.
+8. Compare with-replacement and without-replacement models.
+9. Calculate relative frequency after a supplied simulation run.
+10. Compare estimates at 10, 100, 1000 and 10,000 trials.
+11. Diagnose a biased/invalid simulation mapping, reset error or denominator error.
+12. Interpret agreement/disagreement with theory and justify a refinement.
+
+PROGRESSION
+A. Describe the chance process and condition.
+B. Create a valid outcome encoding.
+C. Manually trace a few trials.
+D. Implement repetition and counters.
+E. Calculate conditional relative frequency.
+F. Increase trials and compare runs.
+G. Validate assumptions, diagnose discrepancies and report limitations.
+
+COMMON MISCONCEPTIONS / DISTRACTOR LOGIC
+- Expecting exact theoretical proportions in every small run.
+- Treating more trials as changing the theoretical probability.
+- Believing a long streak proves the device is biased.
+- Mapping unequal numbers of random digits to equally likely outcomes.
+- Silently treating invalid random digits as losses instead of rejecting them.
+- Forgetting to reset counters/state between trials.
+- Replacing an item in a “without replacement” simulation.
+- Failing to update the denominator after a draw.
+- Using all trials as denominator for a conditional estimate rather than condition-satisfying trials.
+- Multiplying unchanged probabilities for dependent stages.
+- Stopping when the result looks desirable.
+- Claiming simulation proves a real-world mechanism without validating assumptions.
+
+TOPIC PAGE / CLASSROOM VIEW / WORKSHEET REQUIREMENTS
+- Topic Page: design–encode–run–record–condition–compare–validate cycle; independent and without-replacement worked simulations; random-digit mapping; pseudocode; convergence plot; troubleshooting checklist.
+- Classroom View: predict 10-trial variability, pool class results, scale digitally to 10,000, filter to the given condition, then expose a deliberately biased mapping.
+- Homework/Worksheet: manual trace tables, mapping checks, pseudocode completion, conditional-frequency calculations, sample-size comparisons and model-evaluation prompts.
+
+48 PRACTICE + 16 TEST BLUEPRINT
+Practice: exactly 4 items per family above (48). Formats include design choice, trace tables, calculations, debugging and written interpretation.
+Test: 16 genuinely separate stems — 3 concepts/design, 3 random-number/pseudocode, 4 conditional/dependent simulations, 3 sample-size/comparison and 3 model-validation/refinement. No practice context, dataset or stem reused.
+
+QA / AUTHORING CONTROLS
+- Every random mapping gives intended probabilities or explicitly uses rejection sampling.
+- Independent trials reset correctly; dependent trials update state.
+- Condition and target event order are consistent in wording, notation and counters.
+- All simulated frequency tables and probability calculations are independently recomputed.
+- Claims distinguish convergence tendency from guaranteed equality.
+- Digital-tool outputs have accessible text/tabular equivalents.
+- Open design items use objective criteria and allow multiple valid implementations.
+
+STRICT QA DECISION
+- Curriculum intent and simulation-design boundary: verified.
+- Authenticated IXL component examples: verified.
+- Authenticated Khan transcripts and worked simulation methods: verified.
+- Full-code IXL gap: explicitly recorded.
+- Twelve distinct authoring families and exact 48/16 architecture: recorded.
+- AC9M10P02 is AUTHORING-READY.
+
+===============================================================================
+YEAR 10 MATHEMATICS RESEARCH-PHASE COMPLETION CHECKPOINT
+- All 21 Australian Curriculum v9 Year 10 Mathematics codes are present.
+- All 21 codes are marked RESEARCH STATUS: AUTHORING-READY.
+- IXL and Khan direct/component mappings and SOURCE-NOT-MAPPED gaps are recorded honestly.
+- Required worked-method evidence, progression, misconceptions, Topic Page/Classroom View/Homework needs, 48 Practice and 16 separate Test blueprints are available for every code.
+- Research phase is complete.
+- AUTHORING_STARTED remains NO.
+- AUTHORING QUEUE START: AC9M10N01.
