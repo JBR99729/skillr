@@ -4,13 +4,13 @@ Last updated: 2026-09-11
 
 PROJECT_STATUS: IN_PROGRESS
 CURRENT_PHASE: RESEARCH
-CURRENT_CODE: AC9M8M07
-LAST_COMPLETED_CODE: AC9M8M06
-NEXT_CODE: AC9M8M07
+CURRENT_CODE: AC9M8ST01
+LAST_COMPLETED_CODE: AC9M8SP04
+NEXT_CODE: AC9M8ST01
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
-BATCH: 3 COMPLETE — INTERACTIVELY VERIFIED (LATEST: AC9M8M02–AC9M8M06)
+BATCH: 4 COMPLETE — INTERACTIVELY VERIFIED (LATEST: AC9M8M07, AC9M8SP01–AC9M8SP04)
 
 PURPOSE AND AUTHORING STANDARD
 This ledger supports later re-authoring of each Year 8 Mathematics Topic Page, HTML Classroom View, Homework/Worksheet, exactly 48 Practice questions and exactly 16 independent Test questions. Research evidence is drawn from Australian Curriculum v9/QCAA, IXL Australia Year 8, Khan Academy and reputable free/public sources. Source examples inform pedagogy only; SkillrHub content must be original.
@@ -649,5 +649,181 @@ BATCH 3 INTERACTIVE QA CHECK — 2026-09-11
 - Each code has sufficient evidence for Topic Page, HTML Classroom View, Homework, exactly 48 Practice and a separate exactly 16 Test bank.
 - All five codes are genuinely AUTHORING-READY.
 
+
+==============================================================================
+AC9M8M07 — MATHEMATICAL MODELLING WITH RATIOS AND RATES
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Use mathematical modelling to solve practical problems involving ratios and rates, including financial contexts; formulate problems; interpret and communicate solutions in terms of the situation, reviewing the appropriateness of the model.
+
+CURRICULUM BOUNDARY
+Complete the modelling cycle: identify quantities/units, formulate variables and assumptions, select ratio/rate representations, calculate using proportional reasoning or digital tools, interpret, communicate and review. Include maps/scales, mixtures, speed, unit pricing, wages, exchange or financial comparisons. Explicitly test whether proportionality or constant rate is reasonable.
+
+IXL MAPPING AND ACTUAL EXAMPLE EVIDENCE
+Supporting mappings: G.5–G.13 unit rates, proportions and scale drawings; H.1–H.9 proportional relationships; J.2–J.3 unit prices. SOURCE-NOT-MAPPED for the full formulate–review modelling cycle.
+G.13 example actually opened: 3 cm on a map with scale 1 cm=19 km. IXL writes 1/19=3/d, solves d=19×3=57 and interprets the actual distance as 57 km.
+Progression: identify quantities/units → choose ratio/rate → represent with table/equation/graph → solve → interpret → test assumptions/domain → revise or communicate recommendation.
+Misconceptions: mixing ratio order; assuming every relationship passes through the origin; treating a scale label as a unitless fraction without conversion; comparing financial totals rather than unit rates; omitting fixed charges; using constant speed for an entire interrupted journey; giving an answer with no contextual conclusion; declaring a model “accurate” without checking assumptions.
+
+KHAN / TRUSTED CROSS-CHECK
+Authenticated Khan Grade 7 Unit 1 “Proportional relationships” was opened. Its visible sequence covers constants of proportionality from tables, graphs and equations; proportionality tests; proportions and word problems. AC v9/QCAA supplies formulation, financial context and model review.
+Khan: https://www.khanacademy.org/math/cc-seventh-grade-math/cc-7th-ratio-proportion
+Desmos supports comparing proportional and non-proportional models: https://www.desmos.com/calculator
+NRICH ratio tasks support open modelling and multiple strategies: https://nrich.maths.org/ratio-and-proportion
+
+AUTHORING TRANSFER
+Topic Page: modelling cycle; units/variables table; proportionality decision test; assumptions/domain; worked map, mixture and cost comparisons; communication template.
+Classroom View: map-scale launch, model a plan comparison, spreadsheet/graph check, assumption audit, peer recommendation.
+Homework: scales, recipes/mixtures, travel, unit pricing and financial comparisons requiring formulation, interpretation and review.
+Feedback: define quantities and units, state the relationship and assumptions, solve with a labelled representation, then judge whether the result and model fit the situation.
+
+48-PRACTICE BLUEPRINT
+P01–P08 ratio/rate foundations; P09–P16 proportions/scales; P17–P24 mixture/travel models; P25–P32 financial/unit-price models; P33–P40 tables/graphs/digital tools; P41–P48 assumptions, communication and review.
+16-TEST BLUEPRINT
+T01–T04 setup/representation; T05–T08 solve models; T09–T12 independent financial/practical cases; T13–T16 interpret, critique and revise.
+
+==============================================================================
+AC9M8SP01 — CONGRUENCE AND SIMILARITY CONDITIONS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Identify the conditions for congruence and similarity of triangles and explain the conditions for other sets of common shapes to be congruent or similar, including those formed by transformations.
+
+CURRICULUM BOUNDARY
+Use SSS, SAS, ASA/AAS and RHS for triangle congruence; reject AAA and SSA as congruence guarantees. Use equal corresponding angles plus one common scale factor for similarity, including AAA and proportional-side conditions. Connect rigid transformations to congruence and enlargement/dilation to similarity; preserve correspondence order.
+
+IXL MAPPING AND ACTUAL EXAMPLE EVIDENCE
+Direct mappings: P.1–P.6 congruent figures/triangles; P.7–P.9 similar figures and triangle similarity; O.4/O.12 transformation identification/description.
+P.5 example actually opened: two side pairs and a non-included angle form SSA. IXL orders the marked facts, notes SSA is not SSS/SAS/ASA and concludes there is insufficient information for congruence.
+P.9 example actually opened: triangles with sides 42,57,75 and 37,45,65. IXL pairs shortest/middle/longest, compares all ratios and rejects similarity because the ratios are unequal.
+Progression: correspondence → congruent figures → sufficient triangle conditions and counterexamples → scale factor → similarity conditions → transformation justification for other shapes.
+Misconceptions: AAA proves congruence; SSA always works; matching sides by diagram orientation; using unequal scale factors; reversing correspondence mid-solution; assuming equal perimeter or area proves similarity; treating dilation as rigid; believing mirror images cannot be congruent.
+
+KHAN / TRUSTED CROSS-CHECK
+Authenticated Khan “Triangle congruence postulates/criteria” was opened; the lesson sequence includes determining/proving congruent triangles and explicitly distinguishes valid criteria. Khan notes AAA supports similarity, not congruence.
+https://www.khanacademy.org/math/geometry/hs-geo-congruence/xff63fac4%3Ahs-geo-congruent-triangles/v/other-triangle-congruence-postulates
+GeoGebra enables dynamic testing and counterexamples: https://www.geogebra.org/geometry
+NRICH supports geometric proof/reasoning: https://nrich.maths.org/geometry-and-measure
+
+AUTHORING TRANSFER
+Topic Page: correspondence notation; valid/invalid condition table; scale-factor tests; rigid versus dilation transformations; counterexamples.
+Classroom View: cut-out matching, ambiguous SSA demonstration, GeoGebra drag test, similarity scale hunt and justify-a-transformation exit ticket.
+Homework: identify criteria, determine missing data, calculate scale factors, match vertices and explain congruence/similarity.
+Feedback: mark corresponding vertices first, order the evidence, apply only a sufficient condition and test all required ratios/angles.
+
+48-PRACTICE BLUEPRINT
+P01–P08 correspondence; P09–P16 congruent figures/rigid motions; P17–P24 triangle congruence; P25–P32 similarity/scale; P33–P40 other shapes/transformations; P41–P48 counterexamples and proof.
+16-TEST BLUEPRINT
+T01–T04 correspondence; T05–T08 valid conditions; T09–T12 independent similarity/transformations; T13–T16 justification/error analysis.
+
+==============================================================================
+AC9M8SP02 — ESTABLISH PROPERTIES OF QUADRILATERALS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Establish properties of quadrilaterals using congruent triangles and angle properties, and solve related problems explaining reasoning.
+
+CURRICULUM BOUNDARY
+Move beyond memorised lists: introduce a diagonal, prove triangle congruence, transfer equal-side/angle results, use parallel-line angle facts, symmetry and diagonal properties, and solve for unknowns. Cover parallelograms, rectangles, rhombuses, squares, trapezia and kites with inclusive classification where appropriate.
+
+IXL MAPPING AND ACTUAL EXAMPLE EVIDENCE
+Direct mappings: N.4–N.14 classify quadrilaterals and use properties; N.16–N.18 angle relationships and parallel transversals; P.5–P.6 congruent triangles.
+N.9 example actually opened: in parallelogram ABCD, opposite sides are labelled w+34 and 3w. IXL uses the property “opposite sides are congruent,” sets w+34=3w and solves w=17.
+IXL practises application of established properties; full derivation via a diagonal and congruent triangles requires authored extension.
+Progression: classify → angle/parallel facts → draw diagonal → prove triangles congruent → infer sides/angles/diagonals → solve related problems → explain logical chain.
+Misconceptions: all trapezia are parallelograms; diagonals always equal or perpendicular; a property’s converse is automatically true; relying on appearance; citing “opposite sides equal” without establishing a parallelogram; using adjacent instead of opposite elements; omitting reasons between proof steps.
+
+KHAN / TRUSTED CROSS-CHECK
+Authenticated Khan “Proof: Opposite sides of a parallelogram” was opened. Its lesson sequence includes diagonals/opposite angles of parallelograms, kite and rhombus diagonal theorems and proof practice.
+https://www.khanacademy.org/math/geometry/hs-geo-congruence/hs-geo-quadrilaterals-theorems/v/proof-opposite-sides-of-parallelogram-congruent
+GeoGebra supports drag-testing conjectures before proof: https://www.geogebra.org/geometry
+
+AUTHORING TRANSFER
+Topic Page: inclusive hierarchy; property table with converse warnings; diagonal-congruence proof template; parallel-angle facts; worked algebraic application.
+Classroom View: sort quadrilaterals, measure/drag conjectures, diagonal proof jigsaw, solve unknowns and critique incomplete reasoning.
+Homework: classification, properties, angle/side algebra, diagonal proofs and written reasoning.
+Feedback: state what is given, add a useful diagonal, prove the triangle condition, then cite corresponding parts and finish with the required property.
+
+48-PRACTICE BLUEPRINT
+P01–P08 classify; P09–P16 angle/parallel properties; P17–P24 diagonals and congruent triangles; P25–P32 establish named quadrilateral properties; P33–P40 solve unknowns; P41–P48 proofs, converses and error analysis.
+16-TEST BLUEPRINT
+T01–T04 classification; T05–T08 properties/unknowns; T09–T12 independent diagonal/congruence reasoning; T13–T16 proof and misconception diagnosis.
+
+==============================================================================
+AC9M8SP03 — POSITION AND LOCATION IN THREE DIMENSIONS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Describe the position and location of objects in 3 dimensions in different ways, including using a three-dimensional coordinate system with the use of dynamic geometric software and other digital tools.
+
+CURRICULUM BOUNDARY
+Use a defined origin, three mutually perpendicular axes and ordered triples; interpret axes, signs, layers, plan/elevation views and real geospatial descriptions. Students should translate among physical models, diagrams, views and digital 3D coordinates. Digital exploration is essential; advanced vectors, projection matrices and formal analytic geometry are outside scope.
+
+IXL MAPPING AND ACTUAL EXAMPLE EVIDENCE
+Supporting mappings: Q.1–Q.4 parts/views/nets/base plans; M.1–M.4 coordinate-plane prerequisites. SOURCE-NOT-MAPPED for a full three-dimensional coordinate system and dynamic-software investigation in Year 8 IXL.
+Q.4 example actually opened: identify a block object’s base plan. IXL defines a base plan as showing the base shape and height of each part, imagines the top view, highlights occupied squares and labels each stack height 2.
+Progression: 2D coordinates → introduce z/height and ordered triples → locate/compare points → translate to plan/elevation/layers → describe routes/positions → explore dynamically → evaluate conventions/reference frames.
+Misconceptions: swapping coordinate order; omitting origin/axis directions; treating (x,y,z) as interchangeable; confusing elevation with top view; recording visible faces rather than stack height; assuming all axes use the same physical unit; using latitude/longitude alone as 3D; ignoring below-origin negative coordinates.
+
+KHAN / TRUSTED CROSS-CHECK
+Authenticated Khan “3D ray tracing part 1” was inspected and explicitly identified as an unsuitable precalculus extension rather than a Year 8 mapping. SOURCE-NOT-MAPPED for a direct Khan Year 8 3D-coordinate learning sequence.
+GeoGebra 3D is the primary trusted digital environment: https://www.geogebra.org/3d
+Geoscience Australia supports coordinate/location contexts and reference-system awareness: https://www.ga.gov.au/scientific-topics/positioning-navigation
+
+AUTHORING TRANSFER
+Topic Page: origin/axes/ordered triples; physical and grid models; plan/elevation/base-plan links; multiple location descriptions; GeoGebra 3D steps; convention checklist.
+Classroom View: build cube stacks, encode ordered triples, rotate a digital model, match plan/elevation views, drone/parking-space location challenge.
+Homework: read/write triples, compare locations, draw views/layers, interpret digital outputs and explain reference choices.
+Feedback: define origin, axis directions/order and units before reading coordinates; verify each position against two views or a rotated model.
+
+48-PRACTICE BLUEPRINT
+P01–P08 2D-to-3D foundations; P09–P16 ordered triples; P17–P24 physical/layer models; P25–P32 plan/elevation/base plans; P33–P40 digital/geospatial contexts; P41–P48 conversions, ambiguity and error analysis.
+16-TEST BLUEPRINT
+T01–T04 axes/triples; T05–T08 views/models; T09–T12 independent digital/context interpretation; T13–T16 reasoning and convention critique.
+
+==============================================================================
+AC9M8SP04 — ALGORITHMS FOR CONGRUENCE AND SIMILARITY
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Design, create and test algorithms involving a sequence of steps and decisions that identify congruency or similarity of shapes, and describe how the algorithm works.
+
+CURRICULUM BOUNDARY
+Express geometric criteria as ordered instructions, flowcharts or pseudocode with decisions, inputs and outputs. Algorithms must test correspondence, sufficient congruence/similarity conditions and transformation evidence; students trace normal and edge cases, find counterexamples, debug order/branches and explain termination/output. Programming code is optional.
+
+IXL MAPPING AND ACTUAL EXAMPLE EVIDENCE
+Supporting mappings: P.1–P.9 congruence/similarity tests; O.12–O.14 describe and sequence transformations. SOURCE-NOT-MAPPED for designing/debugging a complete decision algorithm.
+O.14 example actually opened: choose a sequence mapping triangle JKL to J′K′L′. IXL tests options in order and verifies that translating right 1/up 4 then rotating 180° about the origin maps the intermediate image exactly; two alternative sequences are demonstrated not to map onto the target. Key idea distinguishes translation, reflection and rotation and stresses order.
+Progression: list criteria → define inputs → order tests → branch to congruent/similar/neither → trace transformations → test typical/edge cases → debug → explain correctness.
+Misconceptions: checking only one side/angle; using AAA as congruence; changing correspondence during a branch; stopping after a necessary but insufficient condition; assuming order of transformations never matters; failing to define equality tolerance for measured/digital data; creating a branch with no output; testing only cases designed to pass.
+
+KHAN / TRUSTED CROSS-CHECK
+Authenticated Khan “Mapping shapes” was opened. Its visible introduction states that different rigid-transformation sequences can work, order matters, and each sequence must be tested; the worked transcript traces and rejects incorrect sequences.
+https://www.khanacademy.org/math/basic-geo/basic-geo-transformations-congruence/basic-geo-transformations-properties/v/mapping-shapes
+GeoGebra supports running and visually checking transformation algorithms: https://www.geogebra.org/geometry
+Australian Computing Academy materials can support algorithm/pseudocode conventions without replacing Mathematics scope: https://aca.edu.au/resources/
+
+AUTHORING TRANSFER
+Topic Page: input–process–decision–output model; congruent/similar/neither flowchart; pseudocode; test table; edge cases; debugging example and explanation rubric.
+Classroom View: human flowchart, trace shape cards, deliberately break a branch, test transformation order digitally and peer-explain the corrected algorithm.
+Homework: complete/trace flowcharts, order steps, supply test cases, debug false classifications and describe how an algorithm works.
+Feedback: define inputs/correspondence, use sufficient tests, ensure every decision branch reaches an output, test passing and failing cases, then explain why the result is reliable.
+
+48-PRACTICE BLUEPRINT
+P01–P08 criteria inputs; P09–P16 sequence/decision vocabulary; P17–P24 trace algorithms; P25–P32 create congruence/similarity branches; P33–P40 transformations and order; P41–P48 test, counterexample, debug and explain.
+16-TEST BLUEPRINT
+T01–T04 criteria/sequence; T05–T08 tracing; T09–T12 independent design/test cases; T13–T16 debugging and correctness explanation.
+
+==============================================================================
+BATCH 4 INTERACTIVE QA CHECK — 2026-09-11
+- Five codes completed: AC9M8M07 and AC9M8SP01–AC9M8SP04.
+- One authenticated IXL Australia tab was used sequentially; Learn with an example was opened for every code, with two complementary examples for AC9M8SP01.
+- One authenticated Khan Academy tab was used sequentially for proportional relationships, triangle criteria, quadrilateral theorems, 3D-source suitability and transformation sequences.
+- Australian Curriculum v9/QCAA set scope; GeoGebra, Geoscience Australia, NRICH and Australian Computing Academy add trusted public evidence.
+- Full-source gaps are explicitly recorded for modelling review, Year 8 3D coordinates and algorithm design; supporting mappings are not overstated.
+- Each code is sufficient for Topic Page, HTML Classroom View, Homework, exactly 48 Practice and a separate exactly 16 Test bank.
+- All five codes are genuinely AUTHORING-READY.
+
 RESUME INSTRUCTION
-Read NEXT_CODE and continue with AC9M8M07. Do not repeat completed research unless a source or curriculum descriptor materially changes.
+Read NEXT_CODE and continue with AC9M8ST01. Do not repeat completed research unless a source or curriculum descriptor materially changes.
