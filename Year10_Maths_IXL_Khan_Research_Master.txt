@@ -1,15 +1,15 @@
 PROJECT_STATUS: IN_PROGRESS
 CURRENT_PHASE: RESEARCH
-CURRENT_CODE: AC9M10ST04
-LAST_COMPLETED_CODE: AC9M10ST03
-NEXT_CODE: AC9M10ST04
+CURRENT_CODE: AC9M10P02
+LAST_COMPLETED_CODE: AC9M10P01
+NEXT_CODE: AC9M10P02
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
 YEAR: 10
 SUBJECT: Mathematics
 CURRICULUM: Australian Curriculum v9.0
-BATCH_STATUS: FIRST SEVENTEEN CODES STRICTLY VERIFIED — AUTHORING-READY
+BATCH_STATUS: FIRST TWENTY CODES STRICTLY VERIFIED — AUTHORING-READY
 RESEARCH_DATE_UTC: 2026-09-11
 
 YEAR 10 MATHEMATICS — IXL / KHAN / PUBLIC-SOURCE RESEARCH MASTER
@@ -1776,3 +1776,276 @@ BATCH CHECKPOINT — AC9M10ST01 TO AC9M10ST03
 - Authenticated IXL and Khan evidence, provider boundaries, trusted sources, 12 materially different families per code, progression, misconceptions, display/worksheet requirements and exact 48/16 plans are recorded.
 - LAST_COMPLETED_CODE: AC9M10ST03.
 - NEXT_CODE: AC9M10ST04.
+
+
+===============================================================================
+AC9M10ST04
+OFFICIAL DESCRIPTOR
+Construct two-way tables and discuss possible relationships between categorical variables.
+
+RESEARCH STATUS: AUTHORING-READY
+
+CURRICULUM INTENT AND BOUNDARY
+Students organise bivariate categorical data into joint cells and marginal totals, convert counts to appropriate relative frequencies, and compare conditional proportions to decide whether an association may exist. A difference in raw counts is not enough when group totals differ. Conclusions must be cautious: a two-way table can show association in the observed data, not prove causation. Scope includes binary and multi-category variables, survey/Likert responses grouped meaningfully, missing cells and translation among raw records, Venn diagrams and two-way tables.
+
+PREREQUISITES
+- Categorical versus numerical variables.
+- Frequency, total, proportion, percentage and percentage points.
+- Row/column totals and complements.
+- Basic conditional language and association-versus-causation caution.
+
+IXL AUSTRALIA MAPPING — AUTHENTICATED, SINGLE-TAB REVIEW
+Direct components:
+- Find probabilities using two-way frequency tables.
+- Find conditional probabilities using two-way frequency tables.
+Related: identify representative/random/biased samples.
+IXL strongly supports extracting joint and conditional frequencies but does not directly provide the full construct-table-from-raw-data plus categorical-association discussion in one skill.
+
+IXL “LEARN WITH AN EXAMPLE” EVIDENCE
+- Ordinary two-way probability: define events, locate the intersection cell for “A and B”, add all cells for the grand total, then divide intersection by grand total. In the tea example, 4 caffeine-free fruity teas out of 12 gives 4/12.
+- Conditional probability: “A given B” restricts the sample space to B. In the beanbag example, suede-and-beads is the numerator and all bead-filled chairs form the denominator. The key formula is count(A and B)/count(B), not the grand total.
+Teaching transfer: box or shade the denominator group first, then mark the favourable intersection. For association, compare like-conditioned proportions across categories.
+
+KHAN ACADEMY EVIDENCE — AUTHENTICATED TRANSCRIPT
+Interpreting two-way tables:
+https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-data/two-way-tables/v/interpreting-two-way-tables
+The transcript reads column-relative frequencies whose column totals are 1.00, then compares 52% of men with 43% of women in the same response category. It models the essential association method: condition on each group and compare within-group percentages. Authenticated search also exposed construction, raw-frequency, relative-frequency, Venn conversion and categorical-association exercises.
+
+OTHER TRUSTED SOURCE USE
+- Australian Curriculum v9.0: descriptor and elaboration anchor.
+- Australian Bureau of Statistics: categorical variables, cross-tabulation, percentages and cautious interpretation.
+- CODAP: build tables from case-level data and inspect how filtering changes conditional proportions.
+- CensusAtSchool-style public datasets: authentic, de-identified categorical comparisons.
+
+12 MATERIALLY DIFFERENT QUESTION / APPLICATION FAMILIES
+1. Identify two categorical variables in a context.
+2. Tally raw paired records into a two-way table.
+3. Complete missing joint cells from stated information.
+4. Calculate and check row, column and grand totals.
+5. Translate a Venn diagram to a two-way table.
+6. Interpret a specified joint-frequency cell in context.
+7. Construct overall relative frequencies.
+8. Construct row-relative frequencies.
+9. Construct column-relative frequencies.
+10. Compare conditional proportions with unequal group sizes.
+11. Decide whether observed data suggest association and quantify the difference.
+12. Critique causal or population-wide claims, including sample limitations.
+
+PROGRESSION
+A. Decode categories/cells.
+B. Construct counts and margins.
+C. Convert counts to percentages with the correct denominator.
+D. Compare conditional distributions.
+E. State the observed association.
+F. Evaluate strength of evidence and limitations.
+
+COMMON MISCONCEPTIONS / DISTRACTOR LOGIC
+- Swapping a row/column category.
+- Double-counting a person in mutually exclusive cells.
+- Treating marginal totals as joint cells.
+- Dividing a conditional count by the grand total.
+- Comparing raw counts when group sizes differ.
+- Assuming row percentages and column percentages answer the same question.
+- Interpreting percentage-point difference as percent change.
+- Inferring no association merely because totals match.
+- Declaring causation.
+- Generalising beyond a biased/nonrepresentative sample.
+
+TOPIC PAGE / CLASSROOM VIEW / WORKSHEET REQUIREMENTS
+- Topic Page: anatomy of a table, raw-to-table example, margin checks, three relative-frequency types, denominator-highlighting routine, association sentence frame and causation warning.
+- Classroom View: build a table live from respondent cards, switch between count/row%/column%, and compare conclusions.
+- Homework/Worksheet: tallying, missing cells, Venn conversion, conditional comparisons, Likert grouping and claim critique.
+
+48 PRACTICE + 16 TEST BLUEPRINT
+Practice: 4 items per family (48 exactly).
+Test: 16 independent items — 3 construction/totals, 3 conversion/interpretation, 4 relative/conditional frequencies, 3 association judgements and 3 contextual critiques. No practice dataset reuse.
+
+QA CONTROLS
+Margins reconcile; every relative table has stated denominator and sums to 100% subject to rounding; group comparisons use consistent conditioning; contexts do not imply causation; only one defensible MCQ answer; graphics have text equivalents.
+STRICT QA DECISION: authenticated IXL examples, Khan transcript, trusted-source triangulation and complete authoring blueprint are sufficient. AC9M10ST04 is AUTHORING-READY.
+
+===============================================================================
+AC9M10ST05
+OFFICIAL DESCRIPTOR
+Plan and conduct statistical investigations of situations that involve bivariate data; evaluate and report findings with consideration of limitations of any inferences.
+
+RESEARCH STATUS: AUTHORING-READY
+
+CURRICULUM INTENT AND BOUNDARY
+This capstone code requires the full statistical investigation cycle, not isolated graph reading. Students formulate an investigable question about two variables, define the population and variables, plan ethical collection or select valid secondary data, gather/clean paired observations, choose displays and summaries, analyse association, evaluate alternative explanations and uncertainty, and report a conclusion whose strength matches the design. Both bivariate numerical and categorical investigations are valid. Reproducible decisions and limitations must be explicit.
+
+PREREQUISITES
+- Sampling, bias, ethics and data quality.
+- Scatterplots and strength/direction/linearity.
+- Two-way tables and conditional proportions.
+- Spreadsheet/data-tool fluency and association-versus-causation.
+
+IXL AUSTRALIA MAPPING — AUTHENTICATED, SINGLE-TAB REVIEW
+DIRECT FULL-CODE MATCH: SOURCE-NOT-MAPPED.
+Useful components:
+- Identify independent and dependent variables.
+- Identify representative, random and biased samples.
+- Create/describe scatter plots, outliers and trend lines.
+- Two-way frequency and conditional-probability tables.
+The catalogue does not integrate question formulation, collection protocol, cleaning, analysis, evaluation, reporting and limitations into one investigation.
+Worked-example transfer:
+- Variable example identifies the outcome that depends on the explanatory variable, while authoring must also allow observational situations where causal dependence is unknown.
+- Sample example checks whether each equal-sized subgroup receives equal representation.
+- Previously verified scatter/table examples supply paired plotting and conditional comparison.
+
+KHAN ACADEMY EVIDENCE — AUTHENTICATED SESSION
+Authenticated search for “statistical investigation bivariate data” produced scatterplot construction, regression interpretation and a “well-formed statistical investigation” resource, but no direct school-level end-to-end match. Component transcript already verified for constructing a scatterplot: preserve pairs, place the proposed explanatory variable on x, check plotted points, describe the pattern and flag subject taught as a possible confounder. Khan therefore supports analysis and limitation reasoning; SkillrHub must author the complete cycle.
+
+OTHER TRUSTED SOURCE USE
+- Australian Curriculum v9.0: required investigation cycle and inference limitation.
+- Australian Bureau of Statistics: question design, sampling, data quality, confidentiality and interpretation.
+- CensusAtSchool Australia-style datasets: ethical secondary-data investigations.
+- CODAP/spreadsheets: preserve case rows, clean transparently, generate linked plots/tables and keep an analysis trail.
+
+12 MATERIALLY DIFFERENT QUESTION / APPLICATION FAMILIES
+1. Turn a broad topic into a precise bivariate statistical question.
+2. Define population, sample, variables, units and categories operationally.
+3. Select observational study, survey, measurement or experiment and justify.
+4. Design a representative/feasible sampling plan.
+5. Write an ethical, non-leading collection protocol.
+6. Identify paired-data structure and prevent mismatching.
+7. Detect missing, impossible, duplicate or inconsistent values and document cleaning.
+8. Select scatterplot or two-way table based on variable types.
+9. Analyse numerical association with strength, direction, linearity and outliers.
+10. Analyse categorical association using conditional proportions.
+11. Evaluate confounding, bias, measurement error and limits of generalisation/causation.
+12. Write a reproducible report with evidence, qualified conclusion and next-step refinement.
+
+PROGRESSION
+A. Ask and define.
+B. Plan sample/method/ethics.
+C. Collect and validate.
+D. Represent and analyse.
+E. Interpret alternatives and uncertainty.
+F. Report, evaluate and refine.
+
+COMMON MISCONCEPTIONS / DISTRACTOR LOGIC
+- Asking a causal question with a purely observational plan.
+- Treating independent variable as proof of causal control.
+- Collecting two unpaired lists.
+- Choosing only friends/volunteers and calling the sample random.
+- Changing definitions mid-study.
+- Deleting inconvenient outliers without investigation.
+- Using a scatterplot for categorical pairs.
+- Comparing two-way raw counts instead of conditional proportions.
+- Extrapolating beyond the sample/range.
+- Hiding null results or limitations.
+- Claiming the sample statistic exactly equals the population value.
+- Reporting software output without contextual interpretation.
+
+TOPIC PAGE / CLASSROOM VIEW / WORKSHEET REQUIREMENTS
+- Topic Page: PPDAC-style cycle, planning template, numerical and categorical mini-investigations, data-cleaning log, ethical checklist, model report and inference ladder.
+- Classroom View: critique three candidate questions/plans, clean a shared dataset, choose analysis, and improve an overconfident conclusion.
+- Homework/Worksheet: investigation proposal, data dictionary, pilot table, analysis prompts, limitation matrix and concise final report rubric.
+
+48 PRACTICE + 16 TEST BLUEPRINT
+Practice: 4 per family (48 exactly), including plan-choice, debugging and report-writing fragments.
+Test: 16 independent scenarios — 3 question/definition, 3 design/sampling/ethics, 3 cleaning/representation, 3 analysis and 4 inference/report evaluation. No practice reuse.
+
+QA CONTROLS
+Each scenario specifies enough design information; paired rows remain intact; calculations/graphs independently verified; limitations are design-specific; answer keys distinguish “association observed” from “causal effect”; open responses have objective rubrics.
+STRICT QA DECISION: full-code provider gap is explicit; authenticated component evidence, trusted investigation guidance and complete authoring architecture are sufficient. AC9M10ST05 is AUTHORING-READY.
+
+===============================================================================
+AC9M10P01
+OFFICIAL DESCRIPTOR
+Use the language of “if … then”, “given”, “of” and “knowing that” to describe and interpret situations involving conditional probability.
+
+RESEARCH STATUS: AUTHORING-READY
+
+CURRICULUM INTENT AND BOUNDARY
+Students translate natural-language conditions into restricted sample spaces and probability notation, and move among two-way tables, Venn diagrams, tree diagrams and contextual statements. “Given B” changes the denominator to outcomes satisfying B. They must distinguish P(A|B), P(B|A), P(A and B) and P(A), use conditional probabilities to discuss dependence, and interpret results in context. Bayes’ theorem as a formal formula is not required, although reverse-condition confusion should be addressed.
+
+PREREQUISITES
+- Events, complements, intersection/union and sample spaces.
+- Fractions, ratios and percentages.
+- Two-way tables, Venn diagrams and simple trees.
+- Independent/dependent events and with/without replacement.
+
+IXL AUSTRALIA MAPPING — AUTHENTICATED, SINGLE-TAB REVIEW
+Strong direct components:
+- Find conditional probabilities using two-way frequency tables.
+- Find probabilities using two-way frequency tables.
+- Identify independent and dependent events.
+- Probability of independent and dependent events.
+Supporting “Conditionals” teaches if–then hypothesis/conclusion logic but is not itself a probability skill and is labelled only as language support.
+
+IXL “LEARN WITH AN EXAMPLE” EVIDENCE
+- Conditional table method: define A and B; translate “A given B” as P(A|B); restrict the denominator to all B outcomes; numerator is A and B.
+- Joint table method: “A and B” uses the intersection over the grand total.
+- Event classification: events are independent when the first outcome does not change the second’s probability.
+- Independent multiplication: for two die rolls, P(3 then even)=1/6×3/6=1/12.
+- General conditional-logic support: an if–then statement has hypothesis and conclusion; one hypothesis-true/conclusion-false counterexample refutes a universal conditional. This must not be confused with conditional probability.
+
+KHAN ACADEMY EVIDENCE — AUTHENTICATED TRANSCRIPT
+Conditional probability and independence:
+https://www.khanacademy.org/math/ap-statistics/probability-ap/stats-conditional-probability/v/testing-independence-from-experimental-data
+The transcript compares P(delayed)=35/365 with P(delayed|snowy)=12/20. Because the conditional proportion is far higher, the observed data suggest delay and snow are not independent. It correctly limits the conclusion to experimental evidence and notes that empirical probabilities approximate, rather than equal, theoretical probabilities.
+Authenticated search also exposed conditional probability with two-way tables, tree diagrams and independence articles/exercises.
+
+OTHER TRUSTED SOURCE USE
+- Australian Curriculum v9.0: required language and representations.
+- Australian Bureau of Statistics: conditional percentages in tables and cautious interpretation.
+- NRICH probability investigations: sample-space restriction and dependent draws.
+- GeoGebra/Desmos tables or simple simulations: verify conditional proportions visually.
+
+12 MATERIALLY DIFFERENT QUESTION / APPLICATION FAMILIES
+1. Identify the condition and target event in a sentence.
+2. Rewrite “of those who …” as “given …”.
+3. Translate words to P(A|B), intersection or marginal notation.
+4. Explain the restricted sample space/denominator.
+5. Calculate P(A|B) from a two-way table.
+6. Calculate P(B|A) and contrast it with P(A|B).
+7. Calculate conditional probability from a Venn diagram.
+8. Follow a tree path using updated probabilities.
+9. Compare sampling with and without replacement.
+10. Test independence by comparing P(A|B) with P(A).
+11. Interpret “if … then” statements probabilistically without claiming certainty.
+12. Diagnose base-rate/reverse-conditioning errors in real contexts such as screening or reliability.
+
+PROGRESSION
+A. Parse language.
+B. Restrict the sample space.
+C. Calculate from one representation.
+D. Translate across table/Venn/tree.
+E. Compare reverse conditions.
+F. Diagnose dependence and communicate a contextual conclusion.
+
+COMMON MISCONCEPTIONS / DISTRACTOR LOGIC
+- Keeping the original grand total as denominator.
+- Reversing A and B.
+- Treating “and” as “given”.
+- Treating P(A|B) as P(A and B).
+- Assuming P(A|B)=P(B|A).
+- Multiplying probabilities automatically even when dependent.
+- Failing to update counts after no replacement.
+- Assuming independent means mutually exclusive.
+- Treating a high conditional probability as certainty.
+- Ignoring base rates.
+- Treating empirical equality/inequality as exact proof.
+- Confusing logical implication with causal influence.
+
+TOPIC PAGE / CLASSROOM VIEW / WORKSHEET REQUIREMENTS
+- Topic Page: language decoder, denominator-highlighting routine, table/Venn/tree worked examples, reverse-conditioning comparison, dependence test and base-rate caution.
+- Classroom View: physically filter a class dataset to the “given” group, compare P(A|B) and P(B|A), and reveal denominator changes.
+- Homework/Worksheet: translation drills, representation conversions, with/without replacement, independence checks and contextual explanations.
+
+48 PRACTICE + 16 TEST BLUEPRINT
+Practice: exactly 4 per family (48).
+Test: 16 independent items — 3 language/notation, 4 two-way/Venn, 3 tree/replacement, 3 independence and 3 reverse-condition/base-rate applications. No practice stem reuse.
+
+QA CONTROLS
+All denominators independently checked; table/tree totals reconcile; notation and wording match event order; dependence claims distinguish theoretical from empirical evidence; health-style contexts remain generic and non-diagnostic; one defensible MCQ answer only.
+STRICT QA DECISION: authenticated IXL methods, authenticated Khan transcript, trusted-source triangulation and exact assessment architecture are sufficient. AC9M10P01 is AUTHORING-READY.
+
+===============================================================================
+BATCH CHECKPOINT — AC9M10ST04, AC9M10ST05, AC9M10P01
+- Three unfinished codes completed and marked AUTHORING-READY.
+- Each includes authenticated IXL worked evidence or an explicit full-code gap, authenticated Khan evidence, trusted sources, 12 materially different families, progression, misconceptions, Topic/Classroom/worksheet requirements and exact 48/16 planning.
+- LAST_COMPLETED_CODE: AC9M10P01.
+- NEXT_CODE: AC9M10P02.
