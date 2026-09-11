@@ -4,13 +4,13 @@ Last updated: 2026-09-11
 
 PROJECT_STATUS: IN_PROGRESS
 CURRENT_PHASE: RESEARCH
-CURRENT_CODE: AC9S7H03
-LAST_COMPLETED_CODE: AC9S7H02
-NEXT_CODE: AC9S7H04
+CURRENT_CODE: AC9S7I03
+LAST_COMPLETED_CODE: AC9S7I02
+NEXT_CODE: AC9S7I04
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
-BATCH: 2 COMPLETED (LATEST: AC9S7U05–AC9S7H02)
+BATCH: 3 COMPLETED (LATEST: AC9S7H03–AC9S7I02)
 
 Research protocol
 - Primary authority: Australian Curriculum v9 (ACARA).
@@ -265,3 +265,155 @@ BATCH 2 CHECKPOINT
 - AC9S7U05, AC9S7U06, AC9S7H01 and AC9S7H02 are research-complete and AUTHORING-READY.
 - No SkillrHub content has been re-authored during this research phase.
 - Next batch: AC9S7H03, AC9S7H04, AC9S7I01 and AC9S7I02.
+
+
+================================================================
+AC9S7H03 — AUTHORING-READY
+================================================================
+Curriculum descriptor
+- Examine how proposed scientific responses to contemporary issues may impact on society and explore ethical, environmental, social and economic considerations.
+
+Curriculum focus and boundary
+- Students must examine a proposed science-informed response, not merely describe the underlying issue or technology.
+- Evaluation must integrate evidence with four distinct lenses: ethical, environmental, social and economic. A defensible conclusion may be conditional and should acknowledge trade-offs, affected groups, uncertainty and unintended effects.
+
+Evidence collected
+- Australian Curriculum v9 descriptor confirmed. ACARA supporting material connects this code with bioprospecting, medicines/agriculture, Indigenous Cultural and Intellectual Property, free prior and informed consent, benefit-sharing and risks of biopiracy.
+- IXL Australia, authenticated interactive sampling:
+  - X.1 “Evaluate claims about natural resource use: fossil fuels” begins with evidence interpretation. A sampled graph item asked learners to choose the statement supported by global energy-use data from 1965–2015; the supported claim was that use increased in most years.
+  - A subsequent item linked the fossil-fuel response context to non-renewability by contrasting formation over millions of years with the rate of human use.
+  - W.1/W.2 coral-reef problem/solution skills are additional partial mappings. IXL is strong for evidence and environmental consequences but does not require a full four-lens impact analysis: PARTIAL-MAPPING.
+- Khan Academy:
+  - No direct Australian Curriculum mapping identified. Climate, conservation and resource-use materials can supply supplementary science background, but cannot replace the explicit social, ethical and economic analysis.
+- ABC Education:
+  - Relevant Australian contemporary-issue reporting can provide accessible stimulus cases. Treat reports as secondary stimuli: extract the scientific claim, evidence, proposed response, affected groups and stated uncertainties rather than accepting authority alone.
+- Additional authoritative source:
+  - ACARA’s bioprospecting elaboration provides a model case: traditional knowledge can help develop useful products, while ethical evaluation must address knowledge ownership, consent, attribution, control and equitable benefit-sharing.
+  - AIATSIS ethical guidance reinforces respect, Indigenous self-determination and leadership, impact/value, sustainability and accountability.
+
+Authoring blueprint
+- Reusable analysis frame: issue -> proposed response -> scientific mechanism/evidence -> intended benefit -> four-lens consequences -> stakeholders -> uncertainty -> justified recommendation.
+- Ethical lens: rights, consent, fairness, ownership, distribution of risks/benefits and duties to future generations.
+- Environmental lens: resource use, emissions, biodiversity, waste, reversibility and time scale.
+- Social lens: health, access, equity, culture, employment, public acceptance and community disruption.
+- Economic lens: implementation/maintenance costs, affordability, employment, opportunity cost, long-term savings and who pays/benefits.
+- Suitable cases: fossil-fuel transition, reef protection, invasive-species control, vaccination, drought responses, plastics, bioprospecting and renewable energy. Cases involving First Nations knowledge require authorised public sources and precise protocols.
+- Practice coverage: distinguish issue/response; classify impacts by lens; interpret evidence; identify stakeholders; compare two options; detect omitted costs; weigh short/long-term effects; write a conditional recommendation.
+- Test coverage: novel Australian case, data-plus-stakeholder evidence, competing solutions, at least one cross-lens trade-off and an independent justified conclusion.
+- Misconceptions: “scientific” means automatically ethical; lowest cost is always best; every stakeholder is affected equally; one benefit proves the response should proceed; ethical and social considerations are interchangeable.
+- Feedback must name the evidence used, the lens applied and the trade-off or missing stakeholder.
+Status: AUTHORING-READY.
+
+================================================================
+AC9S7H04 — AUTHORING-READY
+================================================================
+Curriculum descriptor
+- Explore the role of science communication in informing individual viewpoints and community policies and regulations.
+
+Curriculum focus and boundary
+- The outcome is about how communication informs viewpoints and collective decisions. It is not simply “make a poster” or recall a regulation.
+- Students should evaluate message, evidence, source, audience, medium, uncertainty and possible influence while recognising that values, costs and law also shape policy.
+
+Evidence collected
+- Australian Curriculum v9 descriptor confirmed.
+- IXL Australia:
+  - No Year 7 skill directly assesses science communication, viewpoints, policy or regulation: SOURCE-NOT-MAPPED.
+  - X.1 “Evaluate claims about natural resource use: fossil fuels” is a useful partial prerequisite. Interactive sampling showed learners selecting a claim supported by a labelled data source and then using explanatory information about non-renewability.
+  - W.2 coral-reef solution evaluation can supply a policy-like context, but authored tasks must add audience, communication form and policy consequences.
+- Khan Academy:
+  - No direct AC9 mapping. Its scientific-method guidance models a key communication norm: distinguish observation, testable explanation, prediction, result and revision; results support or contradict rather than absolutely prove a hypothesis.
+- ABC Education:
+  - Australian science reporting is appropriate for comparing how a news story, expert explanation, infographic or interview frames evidence for a public audience. Students should separate quoted evidence from headline/framing and note uncertainty.
+- Additional authoritative source:
+  - CSIRO communication and public-facing research material provides models of evidence explanation, qualifications and implications. Use primary agency material alongside media treatment so learners can compare source purpose and audience.
+  - Community policy examples may include water restrictions, fire warnings, vaccination rules, fishing limits, biosecurity or pollution regulation.
+
+Authoring blueprint
+- Communication chain: research/evidence -> communicator and purpose -> message/representation -> audience interpretation -> viewpoint/discussion -> policy or regulation, with feedback and competing influences.
+- Reliability checks: expertise/provenance, currency, method/data visibility, corroboration, uncertainty, distinction between correlation and causation, and separation of evidence from persuasion.
+- Explain policy versus regulation: policy is an agreed course or framework; regulation is an enforceable rule. Scientific evidence can inform both but does not solely determine either.
+- Practice coverage: identify claim/evidence; match format to audience; compare headline and source; interpret graph uncertainty; spot exaggeration; revise misleading language; trace possible policy influence; distinguish policy/regulation.
+- Test coverage: two communications about one issue, audience/purpose analysis, an evidence-quality decision, a viewpoint consequence and a justified policy recommendation.
+- Misconceptions: popularity equals reliability; all expert disagreement invalidates science; a single graph proves causation; policy follows automatically from evidence; simplifying a message must mean making it inaccurate.
+- Feedback must state which communication feature affects trust or interpretation and how it could alter a viewpoint or decision.
+Status: AUTHORING-READY.
+
+================================================================
+AC9S7I01 — AUTHORING-READY
+================================================================
+Curriculum descriptor
+- Develop investigable questions, reasoned predictions and hypotheses to explore scientific models, identify patterns and test relationships.
+
+Curriculum focus and boundary
+- Students must generate, refine and link questions, predictions and hypotheses. A hypothesis is a testable explanatory proposition; a prediction is the expected observation if it is supported.
+- Investigations may interrogate a model, seek a pattern or test a relationship between variables.
+
+Evidence collected
+- Australian Curriculum v9 descriptor confirmed.
+- IXL Australia, authenticated interactive sampling:
+  - B.4 “Identify questions that can be investigated with a set of materials” presents a scenario, a bounded equipment list and three possible questions.
+  - Sampled chocolate-melting item could be investigated only by comparing milk and dark chocolate on a stove; distractors required unavailable white chocolate or a microwave. This makes feasibility and measurable comparison explicit.
+  - Closest skills: A.1 scientific inquiry; B.3 identify the experimental question; B.4 feasible investigable questions; B.2 variables. IXL strongly supports selection but must be extended to student-generated hypotheses and model/pattern questions.
+- Khan Academy, authenticated:
+  - “The scientific method” sequences observation, question, testable hypothesis, prediction, test and iteration.
+  - It explicitly distinguishes hypothesis as a possible testable explanation from prediction as an expected outcome, and cautions that supportive results do not conclusively prove a hypothesis.
+- ABC Education:
+  - Age-appropriate experiment resources provide observable contexts for asking “what happens if…” questions and testing one purposeful change. Authoring should elevate these to explicit Year 7 hypothesis/model/relationship language.
+- Additional source principle:
+  - Use realistic constraints: measurable dependent variable, ethical and safe method, available equipment, feasible time/range and a question whose evidence could answer it.
+
+Authoring blueprint
+- Question form: How does [independent variable] affect [measured dependent variable] when [key controls] are kept constant?
+- Hypothesis form: [relationship] because [scientific model/mechanism].
+- Prediction form: If [planned change], then [measurable result], because [reason tied to hypothesis].
+- Pattern questions may be comparative, correlational or time-series; causal wording is reserved for controlled designs.
+- Model exploration asks what observable result the model predicts and which evidence would support, refine or challenge it.
+- Practice coverage: investigable/not; refine vague questions; identify IV/DV; write a reasoned prediction; distinguish prediction/hypothesis; connect mechanism; identify expected graph pattern; choose evidence that could test a relationship.
+- Test coverage: novel materials constraint, student-generated question, model-based hypothesis, quantitative prediction, pattern interpretation and a non-causal observational case.
+- Misconceptions: every question is experimentally testable; hypothesis means guess; prediction and hypothesis are synonyms; one confirming result proves the hypothesis; a correlation automatically tests causation.
+- Feedback must identify feasibility/testability and show the logical link question -> hypothesis -> prediction -> evidence.
+Status: AUTHORING-READY.
+
+================================================================
+AC9S7I02 — AUTHORING-READY
+================================================================
+Curriculum descriptor
+- Plan and conduct reproducible investigations to answer questions and test hypotheses, including identifying variables and assumptions and, as appropriate, recognising and managing risks, considering ethical issues and recognising key considerations regarding heritage sites and artefacts on Country/Place.
+
+Curriculum focus and boundary
+- A plan must be detailed enough for another person to repeat and must align method and measurements to the question/hypothesis.
+- Variables, assumptions, repeats, risk controls, ethics and Country/Place responsibilities are integral decisions, not an end-of-plan checklist.
+
+Evidence collected
+- Australian Curriculum v9 descriptor confirmed.
+- IXL Australia, authenticated interactive sampling:
+  - B.2 “Identify independent and dependent variables” uses extended experimental protocols and asks learners to locate the measured outcome.
+  - Sampled tea/bacteria investigation changed elapsed time and measured number of bacteria in a drop; repeated samples from three identical cups model replication and controlled conditions.
+  - Closest skills: B.1 control/experimental groups; B.2 variables; B.5–B.7 protocols for plant growth, diffusion and evaporation; A.2/A.3 laboratory tools and safety equipment.
+  - IXL gives strong variable/protocol evidence but does not adequately cover assumptions, ethics or Country/Place heritage considerations: PARTIAL-MAPPING.
+- Khan Academy, authenticated:
+  - “The scientific method” requires testing a prediction and iterating after results.
+  - Its adjacent “Controlled experiments” resource is supplementary for control groups, variable isolation and repeatability. It is not an AC9 or Australian cultural-protocol mapping.
+- ABC Education:
+  - Australian classroom investigations can provide practical contexts for safe equipment selection, fair tests and repeated measurements. Authored methods must specify quantities, sequence, measurement resolution, repeats and recording structure.
+- AIATSIS Code of Ethics:
+  - Ethical work involving Aboriginal and Torres Strait Islander peoples, knowledge, culture or heritage centres respect, self-determination, Indigenous leadership, impact/value, sustainability and accountability.
+  - For school investigations on Country/Place: obtain appropriate permission and guidance; do not enter restricted/significant sites, disturb or remove artefacts, specimens or cultural material; protect sensitive locations and knowledge; attribute authorised information; follow community/Custodian and site requirements.
+- Risk-management principle: identify hazard, potential harm and affected person/environment; assess likelihood/consequence; apply a control that reduces exposure; monitor and revise.
+
+Authoring blueprint
+- Reproducible plan fields: aim/question; hypothesis; variables; justified range; controls; materials with quantities; numbered method; measurement units/resolution; repeats/sample size; data table; assumptions; risk/ethics/protocol controls; disposal/restoration.
+- Distinguish variables: independent deliberately changed; dependent measured; controlled kept consistent; uncontrolled/confounding factors threaten interpretation.
+- Assumptions should be explicit and testable where possible (for example, instruments calibrated, samples comparable, background conditions stable).
+- Cultural/heritage scenarios must reward stopping and consulting appropriate Traditional Custodians or site authorities, not treating permission as generic or artefacts as collectable data.
+- Practice coverage: identify variables; repair an irreproducible method; select repeat count/range; write a risk control; expose an assumption; sequence a protocol; judge ethical consent; respond to a possible artefact/site; design a recording table.
+- Test coverage: unfamiliar complete-plan critique, independent plan fragment, variable/confound identification, risk matrix decision, ethics case and Country/Place heritage decision.
+- Misconceptions: “be careful” is a sufficient risk control; repeating a measurement removes bias; more variables make an investigation better; assumption means known fact; a publicly accessible site or online image removes cultural permissions; finding an artefact permits handling/removal.
+- Feedback must connect each correction to reproducibility, validity, safety, ethics or cultural authority and identify the precise missing detail.
+Status: AUTHORING-READY.
+
+BATCH 3 CHECKPOINT
+- AC9S7H03, AC9S7H04, AC9S7I01 and AC9S7I02 are research-complete and AUTHORING-READY.
+- IXL and Khan Academy were checked in authenticated single-tab sessions; ABC Education, ACARA, CSIRO and AIATSIS evidence was incorporated where mapped.
+- No SkillrHub content has been re-authored during this research phase.
+- Next batch: AC9S7I03, AC9S7I04, AC9S7I05 and AC9S7I06.
