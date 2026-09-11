@@ -2,15 +2,15 @@ YEAR 7 SCIENCE — CURRICULUM RESEARCH MASTER
 Australian Curriculum v9 | SkillrHub
 Last updated: 2026-09-11
 
-PROJECT_STATUS: IN_PROGRESS
-CURRENT_PHASE: RESEARCH
-CURRENT_CODE: AC9S7I07
-LAST_COMPLETED_CODE: AC9S7I06
-NEXT_CODE: AC9S7I08
+PROJECT_STATUS: RESEARCH_COMPLETE
+CURRENT_PHASE: RESEARCH_COMPLETE
+CURRENT_CODE: NONE
+LAST_COMPLETED_CODE: AC9S7I08
+NEXT_CODE: NONE
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
-BATCH: 4 COMPLETED (LATEST: AC9S7I03–AC9S7I06)
+BATCH: 5 COMPLETED (LATEST: AC9S7I07–AC9S7I08)
 
 Research protocol
 - Primary authority: Australian Curriculum v9 (ACARA).
@@ -565,3 +565,90 @@ BATCH 4 CHECKPOINT
 - IXL and Khan Academy were checked in authenticated single-tab sessions; ACARA, ABC Education, CSIRO, Australian measurement guidance and Science Buddies were used where relevant.
 - No SkillrHub content has been re-authored during this research phase.
 - Next pending codes begin AC9S7I07 and AC9S7I08.
+
+
+================================================================
+AC9S7I07 — AUTHORING-READY
+================================================================
+Curriculum descriptor
+- Construct evidence-based arguments to support conclusions or evaluate claims and consider any ethical issues and cultural protocols associated with using or citing secondary data or information.
+
+Curriculum focus and boundary
+- Students must build a logical claim–evidence–reasoning argument, judge the strength and limits of conclusions/claims, and treat source ethics and cultural protocols as part of evidence quality.
+- Correct citation alone is not always sufficient: some knowledge requires permission, culturally authorised attribution, restrictions on disclosure or non-use.
+
+Evidence collected
+- Australian Curriculum v9 descriptor confirmed. ACARA supporting material links this code to evidence-based argument, method/data quality, limitations, significance, ethical use of secondary data, bioprospecting, Indigenous Cultural and Intellectual Property, consent and benefit sharing.
+- IXL Australia, authenticated single-tab evidence:
+  - No IXL Year 7 skill covers the whole descriptor: PARTIAL-MAPPING.
+  - X.1 “Evaluate claims about natural resource use: fossil fuels” was previously sampled in the same authenticated research run. It asks students to select a statement supported by a sourced global-energy graph and then apply evidence about non-renewability.
+  - Q.7 science-literacy tasks require close reading of an explanatory scientific text and selecting claims directly supported by it. A sampled item asked why amputation may be required and distinguished supported reasons (unrecoverable infection or injury) from an unsupported distractor.
+  - IXL is useful for evidence selection but does not assess complete written argument, secondary-source provenance or Australian cultural protocols.
+- Khan Academy, authenticated:
+  - “Controlled experiments” distinguishes hypothesis, prediction, observation and evidence; uses control/experimental groups and repeated samples to judge whether a hypothesis is supported.
+  - It models appropriately cautious language: evidence can support a hypothesis without proving it absolutely, and ethical/practical limits may require observational evidence.
+  - The coral-bleaching example connects a temperature-based model, observed events and a bounded causal argument.
+- ABC Education:
+  - Accessible Australian science reporting is suitable secondary-source stimulus material. Authoring must require students to identify source, original evidence, publication date/purpose and whether reporting accurately represents uncertainty.
+- AIATSIS:
+  - The Code of Ethics centres Indigenous self-determination, Indigenous leadership, impact/value, sustainability and accountability.
+  - When using First Nations knowledge or information, students must identify the relevant knowledge holders/community, follow permission and access conditions, attribute authorised material appropriately, avoid exposing sensitive knowledge and not assume public availability removes cultural authority.
+- CSIRO “Our Knowledge, Our Way” direction:
+  - Indigenous knowledge use should be led/governed by knowledge holders, contextualised to the relevant Country/community and based on respectful partnerships rather than extraction.
+
+Authoring blueprint
+- Argument structure: claim/conclusion -> relevant evidence -> reasoning that links evidence to claim -> limitation/counterevidence -> calibrated judgement.
+- Source-quality check: author/organisation, expertise, primary versus secondary origin, method/data access, currency, corroboration, purpose/bias and accurate citation.
+- Evidence hierarchy is contextual: a well-designed primary study may be strong for one question; reputable synthesis can be stronger for a broad claim. Popularity or domain suffix alone does not guarantee quality.
+- Ethical/cultural decision path: identify whose data/knowledge -> check authority/permission -> respect restrictions and attribution -> consider harm/benefit -> use only what is appropriate.
+- Practice coverage: match evidence to claim; complete CER arguments; reject irrelevant evidence; compare source credibility; qualify overclaims; respond to conflicting evidence; cite secondary data; apply consent/ICIP protocols.
+- Test coverage: unfamiliar dataset plus two secondary sources, an evidence-based written argument, a weak/strong claim comparison, limitation, ethical-use scenario and First Nations cultural-protocol decision.
+- Misconceptions: any cited claim becomes reliable; more evidence always means better evidence; one supporting result proves causation; public webpages make all knowledge free to reuse; “Indigenous knowledge” is one universal source; cultural protocols are optional courtesy.
+- Feedback must identify whether the weakness lies in claim, relevance, evidence quality, reasoning, uncertainty, permission or attribution.
+Status: AUTHORING-READY.
+
+================================================================
+AC9S7I08 — AUTHORING-READY
+================================================================
+Curriculum descriptor
+- Write and create texts to communicate ideas, findings and arguments for specific purposes and audiences, including selection of appropriate language and text features, using digital tools as appropriate.
+
+Curriculum focus and boundary
+- Students must create accurate science communication, not merely identify text features. Purpose and audience drive language, structure, evidence, representations and digital choices.
+- Adaptation may simplify vocabulary or depth, but must preserve scientific meaning, evidence strength, uncertainty and ethical source use.
+
+Evidence collected
+- Australian Curriculum v9 descriptor confirmed. Current elaborations include inferring purpose/audience, investigation reports, a community dichotomous-key app, a letter to the editor, explaining seasons to younger learners and a particle-theory animation.
+- IXL Australia, authenticated single-tab interactive sampling:
+  - No direct skill assesses creating science texts for chosen purposes/audiences: SOURCE-NOT-MAPPED.
+  - Q.7 “Science literacy: how does the nervous system produce phantom pain?” supplies a partial receptive model: short explanatory paragraphs build background and students identify information directly supported by the text.
+  - X.1 evidence-claim tasks and data/graph skills support source interpretation, but the productive communication outcome must be authored independently.
+- Khan Academy, authenticated:
+  - Scientific-method and controlled-experiment articles model headings, diagrams/captions, technical terms with explanation, evidence-linked examples and cautious conclusion language.
+  - Khan does not directly assess audience adaptation or multimodal text creation and has no AC9 mapping.
+- ABC Education:
+  - Australian videos, articles, diagrams and explainers offer age-appropriate multimodal models for comparing how the same science is communicated through narration, text, images and data.
+- CSIRO/Australian science communication direction:
+  - Public-facing science should make evidence and uncertainty understandable, use purposeful representations and distinguish findings from implications.
+- AIATSIS/ICIP direction:
+  - Text creation involving First Nations knowledge must name the relevant Country/community where authorised, respect attribution and permissions, avoid generalisation, and exclude culturally restricted/sensitive material.
+
+Authoring blueprint
+- Planning frame: purpose -> audience -> core message -> evidence -> language/structure -> representations -> digital tool -> accessibility/source checks -> revision.
+- Purpose types: inform, explain, report, argue/persuade or instruct. Audience cues include prior knowledge, age, role, needs and likely questions.
+- Investigation report: title/aim, hypothesis, materials, reproducible method, results, discussion, conclusion, limitations and sources; tables/graphs are integrated and interpreted.
+- Multimodal choices: labelled diagram for parts/process; graph for pattern/relationship; animation for change/motion; infographic for concise synthesis; interactive key/app for guided identification. Each feature must add meaning rather than decoration.
+- Audience adaptation: define essential terminology, control sentence length/detail, use examples/analogies carefully, preserve accuracy and state uncertainty proportionately.
+- Digital responsibility: accessibility (captions, alt text, readable contrast/layout), copyright/licence/attribution, privacy and checking automated outputs.
+- Practice coverage: infer purpose/audience; select language feature; rewrite for younger/expert audiences; structure report; caption graph; storyboard animation; plan app/key; write evidence-based letter; critique misleading visual.
+- Test coverage: create two versions for different audiences, short investigation-report section, multimodal design justification, evidence-based public argument, accuracy/uncertainty edit and ethical source-use check.
+- Misconceptions: simpler language requires changing facts; every scientific text must sound highly technical; visuals are decoration; persuasion permits exaggeration; longer reports communicate better; digital tools guarantee engagement or correctness.
+- Feedback must link each communication choice to audience, purpose and scientific accuracy.
+Status: AUTHORING-READY.
+
+BATCH 5 CHECKPOINT — YEAR 7 SCIENCE RESEARCH COMPLETE
+- AC9S7I07 and AC9S7I08 are research-complete and AUTHORING-READY.
+- All 16 Australian Curriculum v9 Year 7 Science codes (AC9S7U01–AC9S7I08) are now AUTHORING-READY.
+- IXL Australia and Khan Academy were checked through authenticated single-tab sessions; ACARA, ABC Education, CSIRO, AIATSIS and other reputable public science-education evidence were incorporated where relevant.
+- IXL/Khan gaps are explicitly recorded as PARTIAL-MAPPING or SOURCE-NOT-MAPPED rather than inferred.
+- Research phase is complete. SkillrHub re-authoring has not yet started.
