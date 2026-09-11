@@ -10,7 +10,7 @@ NEXT_CODE: AUTHORING_AC9M7N01
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
-BATCH: TARGETED KHAN EVIDENCE RERUN IN PROGRESS — N07–A02 VERIFIED
+BATCH: TARGETED KHAN EVIDENCE RERUN IN PROGRESS — A03–M01 VERIFIED
 
 PURPOSE AND AUTHORING STANDARD
 This is the evidence ledger for re-authoring Year 7 Mathematics. Every code must be researched before authoring. Research must transfer into the Topic Page, HTML Classroom View, Homework/Worksheet, exactly 48 Practice questions and exactly 16 independent Test questions. IXL was inspected through one authenticated Australia browser tab, sequentially, including live skill pages and Learn with an example. Khan Academy was inspected through one authenticated browser tab, sequentially. Source language and examples are evidence only: SkillrHub output must be original.
@@ -492,8 +492,10 @@ Verification requirement: substitute r=1 into the original equation, compare lef
 Misconceptions: operating on one side only; undoing operations in the wrong order; changing signs without an operation; dividing only one term; checking against a transformed rather than original equation; accepting non-natural solutions despite scope.
 
 KHAN / TRUSTED EVIDENCE
-Khan’s same-operation-on-both-sides lesson and two-step equation materials reinforce the balance principle; public route: https://www.khanacademy.org/math/cc-seventh-grade-math/cc-7th-variables-expressions/cc-7th-2-step-equations-intro
-Australian Curriculum/QCAA establish natural-number solutions and substitution verification as non-negotiable.
+EVIDENCE LEVEL: AUTHENTICATED WORKED TRANSCRIPT VERIFIED — 2026-09-11.
+Khan’s “Intro to two-step equations” transcript was inspected. A balance model represents 3x+2=14 using three equal unknown masses and fourteen 1 kg blocks. Removing 2 kg from both sides gives 3x=12; taking one third of both sides gives x=4 kg. Every symbolic operation is paired with the physical balance, making preservation of equality explicit. Within Year 7 authoring, use natural-number solutions and finish with substitution verification.
+https://www.khanacademy.org/math/algebra-basics/alg-basics-linear-equations-and-inequalities/alg-basics-two-steps-equations-intro/v/why-we-do-the-same-thing-to-both-sides-two-step-equations
+Authoring implications: progress from balance/tiles to inverse operations; require the same operation on both sides and a final check; target sign, operation-order and “move it across” shortcuts without justification.
 
 AUTHORING TRANSFER
 Topic Page: physical balance → algebra tiles → inverse-operation flow → symbolic two-step solution → substitution check. Define solution as a value making the original equation true.
@@ -524,9 +526,11 @@ Question patterns: read x from y/read y from x, select a graph matching a story,
 Misconceptions: swapping axes; ignoring units/scales; reading a point from only one coordinate; calling correlation causation; interpreting steepness without axis scale; extrapolating far outside data.
 
 KHAN / TRUSTED EVIDENCE
-Khan coordinate-plane and graph interpretation foundations support ordered variables and axis reading: https://www.khanacademy.org/math/cc-fifth-grade-math/imp-geometry-3/imp-intro-to-the-coordinate-plane/v/introduction-to-the-coordinate-plane
-No single Khan lesson exactly matches the AC v9 “authentic data functions” wording: SOURCE-NOT-MAPPED at exact-code level.
-Australian Curriculum/QCAA remain authoritative; use real public datasets where licensing permits, or create original plausible datasets.
+EVIDENCE LEVEL: AUTHENTICATED LESSON AND LIVE EXERCISE VERIFIED — 2026-09-11.
+Khan’s “Linear graphs and relationships” lesson was inspected. Its published lesson context compares effort with marks, then identifies independent/dependent variables through data usage versus cost and fan speed versus cooling effect. An authenticated live graph exercise asks for the output when x=−4 from a connected graph; the plotted point is (−4,1), so y=1. This verifies the axis-to-graph-to-output reading method, while the Australian Curriculum requires extension to non-linear authentic data, intervals, stationary sections, extrema and careful non-causal descriptions.
+https://www.khanacademy.org/math/uk-math-class-8/x40384ea0c3a0cfc9%3Aintroduction-to-graphs-ncert-new/x40384ea0c3a0cfc9%3Aintroduction-to-line-graphs/v/linear-graphs-and-relationships
+https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/8th-functions-and-function-notation/e/evaluate-functions-from-graph
+Authoring implications: name variables and units before interpreting, trace input to output, describe increases/decreases/constant intervals in context, and separate association from unsupported causation.
 
 AUTHORING TRANSFER
 Topic Page: a graph-reading routine—context/title, axes/units/scales, overall story, important intervals/points, justified conclusion. Include travel, temperature, energy-use and stock-value style graphs with careful non-causal language.
@@ -559,9 +563,10 @@ Question patterns: extend/draw stage; count components; identify fixed and growi
 Misconceptions: using term value as x; swapping coordinates; counting dots rather than intervals; assuming every rule is y=kn and omitting an initial constant; joining discrete pattern points as though all intermediate inputs are meaningful; rule fitting later terms but not stage 1.
 
 KHAN / TRUSTED EVIDENCE
-Khan “Intro to arithmetic sequences” identifies initial term/common difference and builds nth-term reasoning: https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86%3Asequences/x2f8bb11595b61c86%3Aintroduction-to-arithmetic-sequences/v/arithmetic-sequences
-Khan coordinate-plane introduction reinforces ordered-pair conventions. Use only age-appropriate components; the AC descriptor prioritises visual patterns/function tables/plotting.
-Australian Curriculum/QCAA control scope.
+EVIDENCE LEVEL: AUTHENTICATED WORKED TRANSCRIPT VERIFIED — 2026-09-11.
+Khan’s “Explicit formulas for arithmetic sequences” transcript was inspected. From the table n=1,2,3,4 and f(n)=12,5,−2,−9, it recognises constant change −7 and builds f(n)=12−7(n−1), explaining why the change is applied n−1 times. A second sequence −100,−50,0,50 is represented equivalently by −100+50(n−1) and −150+50n; substitution checks show −100+50n is incorrect at n=1. This supports table → constant change → rule → verification.
+https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86%3Asequences/x2f8bb11595b61c86%3Aconstructing-arithmetic-sequences/v/explicit-formulas-for-arithmetic-sequences
+Authoring implications: retain Year 7 visual-growing-pattern entry points, then connect figure number, table, ordered pairs, rule and graph; use substitution to compare equivalent and off-by-one rules.
 
 AUTHORING TRANSFER
 Topic Page: one growing tile pattern represented six ways—image, words, expression, table, ordered pairs and graph. Separate fixed component from “growth per stage”; verify rule against multiple stages.
@@ -602,8 +607,10 @@ IXL does not directly assess spreadsheet construction or “vary one variable wh
 Misconceptions: changing several inputs simultaneously and claiming a single cause; treating cell references as fixed values; dragging formulas with incorrect references; describing a table without a comparative statement; assuming every input increase creates the same output increase; confusing formula evaluation with rearrangement.
 
 KHAN / TRUSTED EVIDENCE
-Khan provides multi-variable substitution and function-table foundations but no exact age-matched spreadsheet investigation: SOURCE-NOT-MAPPED at full-code level.
-Australian Curriculum v9/QCAA control the digital-tool and systematic-variation requirement.
+EVIDENCE LEVEL: AUTHENTICATED SUPPORTING TRANSCRIPT VERIFIED; EXACT DIGITAL-INVESTIGATION SOURCE NOT MAPPED — 2026-09-11.
+No exact age-matched Khan lesson was found for systematically varying several formula inputs in a spreadsheet. The authenticated Khan variables transcript recorded under AC9M7A01 supplies the prerequisite method: substitute every variable, compare outputs for changed inputs and preserve operation order, including xʸ evaluated for different x and y values. This is supporting evidence only; it does not verify the spreadsheet investigation itself. Australian Curriculum v9/QCAA therefore controls the full code, with spreadsheet/Desmos or GeoGebra investigations required as curriculum-driven extension.
+https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-equations-and-inequalities/cc-6th-intro-equations/v/variables-expressions-and-equations
+Authoring implications: hold all but one variable constant, vary that input systematically, record a table/graph, describe absolute and multiplicative effects, then repeat for another input; do not mislabel algebraic rearrangement as the core outcome.
 
 AUTHORING TRANSFER
 Topic Page: show a spreadsheet table for V=lwh; hold w,h constant and vary l, then repeat by doubling h. Teach relative/absolute cell references conceptually, table interpretation and sentence frames: “When ___ doubles while ___ stay fixed, ___.”
@@ -634,8 +641,10 @@ The parallelogram worked panel was opened but its diagram text was not exposed; 
 Misconceptions: using slanted side as height; omitting ½ for triangles; halving a parallelogram; adding dimensions; using linear/cubic units; applying formula before converting units.
 
 KHAN / TRUSTED EVIDENCE
-Khan geometry resources derive triangle/parallelogram area through decomposition and rearrangement; exact search mapping was less direct than IXL. The trusted AC v9/QCAA descriptor and visual derivation requirement control scope.
-Authoring should demonstrate that sliding a parallelogram’s triangular end preserves area and that two congruent triangles make a parallelogram.
+EVIDENCE LEVEL: AUTHENTICATED WORKED TRANSCRIPT VERIFIED — 2026-09-11.
+Khan’s “Area of a parallelogram” transcript was inspected. It defines height as the perpendicular 90° distance to the chosen base, explicitly not the sloping side. It cuts the triangular piece from one end of a parallelogram and moves it to the other to form a rectangle with unchanged area, establishing A=bh rather than merely stating the formula. Triangle area then follows by pairing congruent triangles or halving a matching parallelogram.
+https://www.khanacademy.org/math/geometry-home/geometry-area-perimeter/geometry-parallelogram-area/v/intuition-for-area-of-a-parallelogram
+Authoring implications: show the rearrangement/halving derivations, mark perpendicular height, vary orientation, include missing dimensions and composite contexts, and require square units plus magnitude checks.
 
 AUTHORING TRANSFER
 Topic Page: cut-and-move parallelogram to rectangle; duplicate triangle to parallelogram; label base/perpendicular height; formula triangle; units and reverse problems.
@@ -1225,7 +1234,8 @@ TARGETED EVIDENCE RERUN CHECKPOINTS — 2026-09-11
 - Full worked transcripts now replace catalogue, metadata-only or link-only evidence for all ten records.
 - Existing valid IXL Learn-with-an-example observations were preserved without alteration.
 - Each strengthened record documents method, progression, traps and direct authoring implications.
-- Remaining deficient Year 7 records begin at AC9M7A03.
+- AC9M7A03–AC9M7M01 were then rechecked using authenticated worked transcripts/live exercise evidence; AC9M7A06 retains an explicit exact-source gap with verified prerequisite evidence.
+- Remaining deficient Year 7 records begin at AC9M7M02.
 
 AUTHORING HANDOFF
 NEXT_CODE: AC9M7N01
