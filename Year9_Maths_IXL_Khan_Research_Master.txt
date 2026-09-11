@@ -4,13 +4,13 @@ Last updated: 2026-09-11
 
 PROJECT_STATUS: IN_PROGRESS
 CURRENT_PHASE: RESEARCH
-CURRENT_CODE: AC9M9A05
-LAST_COMPLETED_CODE: AC9M9A04
-NEXT_CODE: AC9M9A05
+CURRENT_CODE: AC9M9M04
+LAST_COMPLETED_CODE: AC9M9M03
+NEXT_CODE: AC9M9M04
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
-BATCH: 1 COMPLETE — INTERACTIVELY VERIFIED (LATEST: AC9M9N01, AC9M9A01–AC9M9A04)
+BATCH: 2 COMPLETE — INTERACTIVELY VERIFIED (LATEST: AC9M9A05–AC9M9A06, AC9M9M01–AC9M9M03)
 
 PURPOSE AND AUTHORING STANDARD
 This ledger supports later re-authoring of every Year 9 Mathematics Topic Page, HTML Classroom View, Homework/Worksheet, exactly 48 Practice questions and exactly 16 independent Test questions. Australian Curriculum v9/QCAA sets scope. IXL and Khan examples inform pedagogy only; all SkillrHub content must be original.
@@ -202,6 +202,189 @@ P01–P08 recognise/second differences; P09–P16 tables/features; P17–P24 gra
 T01–T04 identify/features; T05–T08 graph/numerical roots; T09–T12 independent algebraic solving; T13–T16 connect representations, justify and diagnose.
 
 ==============================================================================
+AC9M9A05 — MATHEMATICAL MODELLING OF CHANGE
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Use mathematical modelling to solve applied problems involving change, including financial contexts; formulate problems, choose either linear or quadratic functions, interpret solutions in context, evaluate the model, and report methods and findings.
+
+CURRICULUM BOUNDARY
+Students must complete the modelling cycle rather than merely substitute into a supplied rule: define variables and assumptions, decide whether constant first differences/rates suggest a linear model or constant second differences/curvature suggest a quadratic model, construct the rule, solve with suitable algebra/graphs/digital tools, interpret units and domain, test reasonableness and limitations, and communicate a conclusion. Financial settings can include fixed-plus-variable cost, revenue/profit, depreciation and break-even; compound interest formulas are not implied by this descriptor.
+
+IXL MAPPING AND ACTUAL EXAMPLE EVIDENCE
+Closest mappings: X.4 rate-of-travel word problems; Q linear functions/graphs; V quadratic functions/graphs; financial arithmetic skills provide context. The full formulate–choose–evaluate–report cycle is SOURCE-NOT-MAPPED as one IXL skill.
+X.4 example actually opened: two lifts leave the same floor in opposite directions at 110 m/min and 220 m/min; when are they 120 m apart? IXL uses d=rt, adds rates because separation grows at 330 m/min, solves 120=330t to get 0.36363… minutes, then converts to about 22 seconds. The method exposes variables, rate-of-change structure, units and contextual interpretation, but future content must also make students state assumptions and evaluate model fitness.
+Progression: read context/data → define quantities and domain → compare difference patterns/shape → select linear or quadratic family → estimate parameters/rule → solve → interpret with units → validate against data/constraints → report.
+Misconceptions: choosing from keywords alone; assuming every change is linear; using distance rates with the wrong relative-motion operation; confusing revenue with profit; accepting negative time or impossible values; reporting a graph coordinate without meaning/units; overfitting limited data; treating extrapolation as certain; omitting assumptions or evaluation.
+
+KHAN / TRUSTED CROSS-CHECK
+Khan quadratic word-problem/factoring material supports translating a situation into an equation and checking roots; its linear modelling materials support rate, intercept and slope interpretations. No single Khan lesson covers the entire Australian Curriculum modelling cycle, so this is a composite mapping.
+https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86%3Aquadratic-functions-equations/x2f8bb11595b61c86%3Aquadratics-solve-factoring/v/example-4-solving-a-quadratic-equation-by-factoring
+Desmos supports regression, tables, intersections and domain restrictions: https://www.desmos.com/calculator
+NRICH modelling tasks support assumption-making, validation and communication: https://nrich.maths.org/
+
+AUTHORING TRANSFER
+Topic Page: explicit modelling-cycle diagram; linear-versus-quadratic evidence table; fixed/variable cost and motion examples; domain/units; model evaluation checklist; sample short report.
+Classroom View: sort data sets by first/second differences, build competing models, use sliders/intersections, challenge assumptions and present a recommendation.
+Homework: scaffolded formulation, financial and motion models, model selection, graphical/algebraic solutions, interpretation, critique and written findings.
+Feedback: name variables and assumptions, justify the function family from the data, preserve units, reject inadmissible solutions, compare prediction with evidence and state a limitation.
+
+48-PRACTICE BLUEPRINT
+P01–P08 variables/assumptions; P09–P16 linear-versus-quadratic selection; P17–P24 formulate rules; P25–P32 solve financial/change models; P33–P40 interpret/domain/units; P41–P48 evaluate, compare and report.
+16-TEST BLUEPRINT
+T01–T04 identify/formulate; T05–T08 independent linear models; T09–T12 independent quadratic models; T13–T16 interpretation, evaluation and concise reporting.
+
+==============================================================================
+AC9M9A06 — PARAMETER VARIATION AND RELATED FUNCTION GRAPHS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Experiment with the effects of variation of parameters on graphs of related functions using digital tools, connect graphical and algebraic representations, and generalise emerging patterns.
+
+CURRICULUM BOUNDARY
+Systematically vary one parameter at a time in related linear and quadratic functions, observe invariant and changing features, connect algebraic signs/magnitudes to transformations and key features, make conjectures, test counterexamples and state general rules. Emphasis is investigation with graphing software, not memorising disconnected transformation rules.
+
+IXL MAPPING AND ACTUAL EXAMPLE EVIDENCE
+Direct mappings: Q.24 transformations of linear functions and V.10 transformations of quadratic functions, supported by Q/V graphing skills.
+- Q.24 example actually opened: g(x) is f(x)=x translated 7 units up. IXL’s transformation table states f(x+h) left, f(x−h) right, f(x)+k up and f(x)−k down; hence g(x)=f(x)+7=x+7.
+- V.10 example actually opened: translate f(x)=x² five units up. The same representation link gives g(x)=f(x)+5=x²+5.
+The isolated examples verify translation notation. The required digital experiment, conjecture testing and generalisation are not fully mapped in the IXL item and must be authored explicitly.
+Progression: establish parent graph → vary one parameter → record table/features → overlay graphs → state a tentative rule → test positive, negative, zero and fractional cases → generalise algebraically → apply/reverse the transformation.
+Misconceptions: interpreting f(x−h) as left; changing several parameters at once; assuming vertical and horizontal scale factors act identically; confusing y=ax+b slope with vertical translation; overlooking invariants; generalising from one example; relying on window artefacts; treating a graph as proof without algebraic connection.
+
+KHAN / TRUSTED CROSS-CHECK
+Khan’s “Shifting functions introduction” and “Intro to parabola transformations” connect changes in formulas with translations and scaling.
+https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89%3Atransformations/x2ec2f6f830c9fb89%3Ashift/v/shifting-functions-intro
+https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86%3Aquadratic-functions-equations/x2f8bb11595b61c86%3Atransform-quadratic-functions/v/shifting-and-scaling-parabolas
+Desmos and GeoGebra sliders support controlled parameter experiments: https://www.desmos.com/calculator and https://www.geogebra.org/graphing
+
+AUTHORING TRANSFER
+Topic Page: parent-family/parameter tables; slider protocol; linear y=mx+b and quadratic y=a(x−h)²+k investigations; invariant-feature prompts; conjecture-to-generalisation examples.
+Classroom View: predict–slide–record–generalise cycle, one-variable-at-a-time overlays, mystery-rule matching and counterexample clinic.
+Homework: predict transformations, read equations from graphs, compare parameter values, complete experiment tables and justify general rules.
+Feedback: identify the parent function, isolate the changed parameter, compare a key point/feature, state direction and magnitude, then verify with another value.
+
+48-PRACTICE BLUEPRINT
+P01–P08 parent graphs/features; P09–P16 vertical shifts; P17–P24 horizontal shifts; P25–P32 stretch/reflection and linear parameters; P33–P40 reverse graph-to-rule; P41–P48 digital experiments, conjectures and error analysis.
+16-TEST BLUEPRINT
+T01–T04 parameter effects; T05–T08 graph/equation matching; T09–T12 independent multi-parameter reasoning; T13–T16 generalisation, experiment design and critique.
+
+==============================================================================
+AC9M9M01 — VOLUME AND SURFACE AREA OF RIGHT PRISMS AND CYLINDERS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Solve problems involving the volume and surface area of right prisms and cylinders using appropriate units.
+
+CURRICULUM BOUNDARY
+Select/derive V=Ah for right prisms and cylinders; calculate total or specified surface area from nets/perimeters; work with composite and missing-dimension contexts; convert linear dimensions before calculation; distinguish square and cubic units and state appropriate accuracy for π-based results. Oblique solids, pyramids, cones and spheres are outside this code.
+
+IXL MAPPING AND ACTUAL EXAMPLE EVIDENCE
+Direct mappings: F.12 volume of cylinders and prisms and F.15 surface area of cylinders and prisms, supported by nets/unit conversion skills.
+- F.12 example actually opened: cube side 9 m. IXL multiplies side×side×side, 9³=729, and reports 729 m³.
+- F.15 example actually opened: triangular prism with triangular base 12 mm, perpendicular height 8 mm, prism length 10 mm and the other triangle sides 10 mm. IXL finds two triangles at ½×12×8=48 mm² each and rectangles 10×10, 10×10 and 12×10, totalling 416 mm².
+Progression: identify base and perpendicular length → area of base → volume → unfold/net lateral faces → total surface area → cylinders → missing dimensions/composites → units/rounding/context.
+Misconceptions: using perimeter as base area; confusing radius/diameter; applying V=lwh to non-rectangular prisms without base area; omitting one face; double-counting joined faces; using slant rather than perpendicular prism length; square units for volume; converting cm²/cm³ with a linear factor; rounding π too early.
+
+KHAN / TRUSTED CROSS-CHECK
+Khan’s volume and surface area unit supports nets, prisms, cylinders and formula-based problem solving.
+https://www.khanacademy.org/math/geometry-home/geometry-volume-surface-area
+GeoGebra 3D supports rotating solids and linking nets/cross-sections: https://www.geogebra.org/3d
+NRICH geometry/measurement problems support reasoning from structure: https://nrich.maths.org/geometry
+
+AUTHORING TRANSFER
+Topic Page: base-area principle; prism/cylinder formula derivations; net-based surface-area method; unit conversion warning; exact/decimal π examples; composite/joined-face checklist.
+Classroom View: build nets, identify congruent cross-sections, measure packages, compare capacity/material, GeoGebra rotation and error clinic.
+Homework: direct, reverse, composite and contextual problems with mixed units, exact π/rounded answers and explanation.
+Feedback: sketch/label, convert all lengths first, identify the base, separate face areas, exclude internal faces, attach squared/cubed units and round only at the end.
+
+48-PRACTICE BLUEPRINT
+P01–P08 base areas/units; P09–P16 prism volume; P17–P24 cylinder volume; P25–P32 prism surface area; P33–P40 cylinder surface area/missing values; P41–P48 composite, conversion and error analysis.
+16-TEST BLUEPRINT
+T01–T04 foundations; T05–T08 independent volumes; T09–T12 independent surface areas; T13–T16 reverse/composite/context reasoning.
+
+==============================================================================
+AC9M9M02 — VERY SMALL AND LARGE MEASUREMENTS IN SCIENTIFIC NOTATION
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Solve problems involving very small and very large measurements, time scales and intervals expressed in scientific notation.
+
+CURRICULUM BOUNDARY
+Convert between decimal and normalised scientific notation a×10^n where 1≤|a|<10; compare order of magnitude; multiply/divide and, where needed, add/subtract compatible quantities; convert metric/time units by powers of ten; estimate and interpret answers in scientific, measurement and time-scale contexts. The focus is applied magnitude reasoning, not decontextualised exponent manipulation alone.
+
+IXL MAPPING AND ACTUAL EXAMPLE EVIDENCE
+Direct mappings: S.1 conversion; S.2 comparison; S.3–S.6 arithmetic in scientific notation; measurement conversion skills provide context.
+- S.1 example actually opened: convert 630. IXL moves the decimal two places left to make coefficient 6.3 and writes 6.3×10², enforcing a coefficient from 1 to 10.
+- S.5 example actually opened: (8×10⁵)/(2×10¹). IXL divides coefficients and subtracts exponents: (8÷2)×10^(5−1)=4×10⁴.
+IXL strongly maps the notation routines; explicit physical measurement and time-scale modelling require authored contextual extension.
+Progression: powers-of-ten place value → normalise → convert both directions → compare exponent then coefficient → estimate order of magnitude → operations/renormalisation → unit conversion → multi-step context and reasonableness.
+Misconceptions: coefficient outside [1,10); exponent sign reversed; treating a negative exponent as a negative number; multiplying exponents; adding coefficients with unlike powers; forgetting to renormalise; converting area/volume with a linear scale factor; ignoring units; calculator E notation misread; accepting an implausible order of magnitude.
+
+KHAN / TRUSTED CROSS-CHECK
+Khan’s scientific-notation introduction and worked multiplication examples reinforce normalisation, powers of ten and exponent-law operations.
+https://www.khanacademy.org/math/math-nsdc-eng/x0a43a548b892fe12%3Aexponents/x0a43a548b892fe12%3Ascientific-notation/v/scientific-notation-old
+https://www.khanacademy.org/math/8th-engage-ny/engage-8th-module-1/8th-module-1-topic-b/v/scientific-notation-example-2
+Desmos supports entry/checking with powers of ten: https://www.desmos.com/calculator
+NRICH number investigations support magnitude estimation: https://nrich.maths.org/numbers
+
+AUTHORING TRANSFER
+Topic Page: normalisation rule and direction model; order-of-magnitude comparison; operation algorithms; metric/time conversion table; calculator E-notation; estimation and unit checks.
+Classroom View: human powers-of-ten line, scale-of-universe sort, unit-conversion relay, calculator verification and implausible-answer clinic.
+Homework: conversions, comparisons, operations, metric/time contexts, multi-step intervals and reasonableness explanations.
+Feedback: normalise the coefficient, track the exponent direction, align powers for addition, apply exponent laws for multiplication/division, convert units explicitly and estimate the expected exponent.
+
+48-PRACTICE BLUEPRINT
+P01–P08 powers/normalisation; P09–P16 decimal conversions; P17–P24 compare/order/estimate; P25–P32 operations; P33–P40 measurement/time conversions; P41–P48 multi-step applications and error analysis.
+16-TEST BLUEPRINT
+T01–T04 notation; T05–T08 comparison/operations; T09–T12 independent measurement/time problems; T13–T16 estimation, unit reasoning and diagnosis.
+
+==============================================================================
+AC9M9M03 — INTEGRATED SPATIAL PROBLEM SOLVING
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Solve spatial problems by applying angle properties, scale, similarity, Pythagoras’ theorem and trigonometry in right-angled triangles.
+
+CURRICULUM BOUNDARY
+Interpret diagrams and 2D/3D contexts; select and combine angle relationships, scale factors, similar-triangle proportions, Pythagoras and sine/cosine/tangent. Students must label relative sides, choose a method from known/unknown information, maintain exact values where helpful, round appropriately and interpret lengths/angles. Sine/cosine rules for non-right triangles are outside the code.
+
+IXL MAPPING AND ACTUAL EXAMPLE EVIDENCE
+Composite mapping: F.7–F.8 angle properties; C.10 scale drawings; G similarity; H.1–H.6 Pythagoras; I trigonometric ratios.
+- G.11 example actually opened: triangles EFG and CDG are similar; corresponding sides give CD/EF=GC/GE, so 8/4=10/y. Cross multiplication yields 8y=40 and y=5 m.
+- I.6 example actually opened: in a right triangle, hypotenuse RT=9 and angle R=42°, find adjacent RS. IXL chooses cosine, writes cos42°=RS/9, and calculates RS=9cos42°=6.688…≈6.7.
+The descriptor’s main challenge is integration and method selection across strands, not five isolated routines.
+Progression: diagram literacy/angle facts → scale factor and corresponding sides → similar proportions → Pythagoras for two-side data → SOHCAHTOA for side/angle → multi-step paths/heights/bearings-like diagrams → choose/justify/verify.
+Misconceptions: assuming triangles are similar from appearance; mismatching corresponding sides; applying scale factor to area without squaring; using Pythagoras on a non-right triangle; treating hypotenuse as any long side; choosing a trig ratio before labelling opposite/adjacent; calculator in radians; inverse-trig key errors; premature rounding; failing to combine methods or check plausibility.
+
+KHAN / TRUSTED CROSS-CHECK
+Khan’s geometry volume is separate; its right-triangle geometry pathway supports Pythagoras, similarity and trigonometric ratios as connected tools. IXL supplies direct Year 9 similarity and trig examples.
+https://www.khanacademy.org/math/geometry-home/right-triangles-topic
+GeoGebra supports dynamic similar triangles, scale and right-triangle checks: https://www.geogebra.org/geometry
+NRICH geometry problems support non-routine method selection and justification: https://nrich.maths.org/geometry
+
+AUTHORING TRANSFER
+Topic Page: decision guide keyed to known/unknown information; angle/scale/similarity/Pythagoras/SOHCAHTOA reference; diagram annotation routine; multi-method worked problems; exact-versus-rounded and calculator-mode checks.
+Classroom View: method-card sorting, measure inaccessible heights, dynamic similarity, triangulated route challenge, compare solution paths and error clinic.
+Homework: isolated refreshers followed by two- and three-step spatial contexts, missing lengths/angles, scale diagrams, justification and verification.
+Feedback: mark right angles and correspondence, label O/A/H relative to the chosen angle, state the theorem/ratio, substitute with units, retain precision and test whether the result fits the diagram.
+
+48-PRACTICE BLUEPRINT
+P01–P08 angle/diagram facts; P09–P16 scale/similarity; P17–P24 Pythagoras; P25–P32 trigonometric sides/angles; P33–P40 integrated two-step spatial problems; P41–P48 method selection, verification and error analysis.
+16-TEST BLUEPRINT
+T01–T04 scale/similarity; T05–T08 Pythagoras/trig; T09–T12 independent integrated contexts; T13–T16 justification, precision and misconception diagnosis.
+
+==============================================================================
+BATCH 2 INTERACTIVE QA CHECK — 2026-09-11
+- Five codes completed: AC9M9A05, AC9M9A06 and AC9M9M01–AC9M9M03.
+- One authenticated IXL Australia tab was used sequentially; Learn with an example was actually opened for every code, with complementary examples for each multi-skill descriptor.
+- One authenticated Khan Academy tab was used sequentially; Khan mappings were cross-checked for modelling, transformations, volume/surface area, scientific notation and right-triangle geometry.
+- Australian Curriculum v9/QCAA set exact scope; Desmos, GeoGebra and NRICH provide trusted public corroboration and richer investigations.
+- IXL/Khan gaps are explicitly marked as composite or SOURCE-NOT-MAPPED, and no future question will copy a source item.
+- Every code includes sufficient methods, progression, misconceptions and original-bank planning for Topic Page, HTML Classroom View, Homework, exactly 48 Practice and a separate exactly 16 Test bank.
+- All five codes are AUTHORING-READY.
+
+==============================================================================
 BATCH 1 INTERACTIVE QA CHECK — 2026-09-11
 - Five codes completed: AC9M9N01 and AC9M9A01–AC9M9A04.
 - One authenticated IXL Australia tab was used sequentially; Learn with an example was actually opened for every code, with multiple complementary examples where a descriptor spans distinct skills.
@@ -212,4 +395,4 @@ BATCH 1 INTERACTIVE QA CHECK — 2026-09-11
 - All five codes are genuinely AUTHORING-READY.
 
 RESUME INSTRUCTION
-Read NEXT_CODE and continue with AC9M9A05. Do not repeat completed research unless a source or curriculum descriptor materially changes.
+Read NEXT_CODE and continue with AC9M9M04. Do not repeat completed research unless a source or curriculum descriptor materially changes.
