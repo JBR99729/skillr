@@ -4,13 +4,13 @@ Last updated: 2026-09-11
 
 PROJECT_STATUS: IN_PROGRESS
 CURRENT_PHASE: RESEARCH
-CURRENT_CODE: AC9S9I02
-LAST_COMPLETED_CODE: AC9S9I01
-NEXT_CODE: AC9S9I03
+CURRENT_CODE: AC9S9I06
+LAST_COMPLETED_CODE: AC9S9I05
+NEXT_CODE: AC9S9I07
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
-BATCH: 3 COMPLETED (LATEST: AC9S9H02–AC9S9I01)
+BATCH: 4 COMPLETED (LATEST: AC9S9I02–AC9S9I05)
 
 CURRICULUM CODE INVENTORY
 AC9S9U01, AC9S9U02, AC9S9U03, AC9S9U04, AC9S9U05, AC9S9U06, AC9S9U07
@@ -528,3 +528,182 @@ BATCH 3 CHECKPOINT
 Completed: AC9S9H02, AC9S9H03, AC9S9H04, AC9S9I01
 All four codes now have exact curriculum boundaries, sequential authenticated single-tab IXL evidence or explicit direct-mapping limits, sequential single-tab Khan evidence or explicit partial mappings, reputable public-source comparison, misconception controls and authoring blueprints.
 Next unfinished code: AC9S9I02
+
+
+==================================================
+AC9S9I02
+CURRICULUM DESCRIPTION
+Plan and conduct valid, reproducible investigations to answer questions and test hypotheses, including identifying and controlling for possible sources of error and, as appropriate, developing and following risk assessments, considering ethical issues, and addressing key considerations regarding heritage sites and artefacts on Country/Place.
+
+CURRICULUM BOUNDARY
+Students produce and follow a feasible method aligned to a question/hypothesis; manage variables, repetition, error, safety and ethics; and apply respectful protocols for Country/Place. The code requires justification of design choices, not a generic “fair test” checklist.
+
+SOURCE EVIDENCE
+1. Australian Curriculum v9: exact description above. Validity, reproducibility, error, risk, ethics and Country/Place considerations are all explicit assessable dimensions.
+2. IXL Australia, authenticated Year 9 Science: A.2 control/experimental groups; A.3 independent/dependent variables; A.4 experimental question; A.5 investigable questions; C.1–C.2 equipment. The live A.2 task describes basil cuttings receiving water, water plus one tablespoon of vinegar, or water plus two tablespoons, with height measured after one month; learners identify a treated experimental group rather than the water-only control. IXL does not directly cover risk assessment, ethics or Country/Place protocols.
+3. Khan Academy “The scientific method” supports manipulation of an independent variable, measurement of a dependent variable, controlled comparisons and revision after evidence. Statistical study-design material distinguishes experiments from observational studies. Direct Australian risk/Country protocols are SOURCE-NOT-MAPPED.
+4. OpenStax Biology process-of-science resources explain controlled experiments, replication, sample selection and limitations, supporting validity and reproducibility.
+5. Safe Work Australia’s risk-management framework supports hazard identification, risk assessment, control selection and review; school activities must use local policy and supervision.
+6. Australian research-integrity/ethics guidance supports minimising harm, consent where people are involved, animal welfare, privacy and honest records.
+7. AIATSIS Code of Ethics and local Traditional Owner/Custodian guidance establish that work concerning Aboriginal and Torres Strait Islander peoples, knowledge, heritage, sites or artefacts requires respect, meaningful engagement, permissions, benefit and appropriate handling; classroom authors must not invent universal protocols.
+8. ABC Education search: no stable direct code-level mapping located; SOURCE-NOT-MAPPED.
+
+AUTHORING-READY KNOWLEDGE
+- Validity asks whether the method and evidence address the intended question; reproducibility asks whether another investigator can use the documented method and obtain sufficiently consistent findings.
+- Align question, hypothesis, independent variable, dependent variable, controls, measurement schedule and analysis before data collection.
+- Control important confounding variables; a control group provides a comparison baseline when appropriate but is not required for every observational investigation.
+- Specify materials, quantities, units, sequence, duration and decision rules so the procedure can be repeated.
+- Repetition within conditions helps reveal random variation; replication by other investigators is stronger evidence of reproducibility.
+- Random error creates unpredictable spread; systematic error shifts results consistently; procedural mistakes are not automatically “experimental error”.
+- Reduce error by calibration/zeroing, suitable resolution, consistent technique, repeats, randomisation and recording raw data immediately.
+- Sample size must be large enough to represent variability and answer the question, balanced against ethics, resources and diminishing benefit.
+- Risk assessment: identify hazard → who/what may be harmed → likelihood/consequence → controls using the hierarchy → residual risk → monitoring/emergency action.
+- Ethical investigation protects welfare, informed consent/withdrawal, privacy, fair participation and environmental impact.
+- On Country/Place, consult relevant local guidance and custodians before access, sampling, recording, moving or publishing information about heritage sites/artefacts; “scientific interest” is not automatic permission.
+- A strong plan includes stop conditions and what to do with anomalies, equipment failure or unsafe conditions.
+
+CONTENT BLUEPRINT
+Topic Page: validity/reproducibility; aligned-plan template; variables/controls; error taxonomy; sample/repeats; risk assessment; ethics; Country/Place decision pathway.
+Classroom View: repair flawed methods, risk-control ranking, ethics scenarios, reproducibility swap-test and local-protocol planning.
+Homework: write a full plan, identify error sources, improve reproducibility, complete a risk table and respond to heritage/artefact cases.
+Practice 48: 8 alignment/variables; 8 validity/controls; 8 reproducibility/detail; 8 error reduction; 6 sample/repeats; 6 risk/ethics; 4 Country/Place.
+Test 16: independent investigations requiring design, critique and justified controls, including risk/ethics/Country cases and no copied practice stems.
+
+MISCONCEPTIONS
+A fair test means every variable is identical; repeats remove systematic error; a larger sample fixes bias; reproducible means exactly identical numbers; accuracy and precision are the same; hazard equals risk; gloves remove all risk; found artefacts may be moved if replaced; consent is needed only for medical studies. Feedback must identify which design quality is threatened and the specific corrective action.
+
+STATUS: AUTHORING-READY
+
+==================================================
+AC9S9I03
+CURRICULUM DESCRIPTION
+Select and use equipment to generate and record data with precision to obtain useful sample sizes and replicable data, using digital tools as appropriate.
+
+CURRICULUM BOUNDARY
+Students match equipment and digital tools to the variable, range and required resolution; use them correctly; record units and justified precision; and design repeated/sampled measurements that others can replicate. Memorising apparatus names alone is insufficient.
+
+SOURCE EVIDENCE
+1. Australian Curriculum v9: exact description above. Equipment selection, precision, useful sample size, replicability and appropriate digital-tool use must be integrated.
+2. IXL Australia, authenticated Year 9 Science: C.1 Identify laboratory tools; C.2 microscope parts; D.1–D.3 significant figures and calculations. The live C.1 item contrasts a burette, beaker and single-mark volumetric flask and asks learners to select the volumetric flask, exposing shape/function confusion. Live D.1 asks learners to identify significant figures in a centimetre measurement, supporting precision conventions.
+3. Khan Academy “Intro to significant figures” defines meaningful reported digits in measurements; precision and significant-figure lessons explain why results must not imply more detail than measurement permits. Direct apparatus/sample-size practice is SOURCE-PARTIAL-MAPPING.
+4. OpenStax Chemistry laboratory/measurement material distinguishes accuracy, precision, uncertainty, significant figures and correct reading of graduated apparatus.
+5. NIST measurement-quality guidance supports accurate records, stated uncertainty, transparent methods and reproducibility.
+6. ABS sampling guidance supports representative, sufficiently large samples and documentation of collection/processing; size alone cannot correct poor sampling.
+7. ABC Education search: no stable direct code-level mapping located; SOURCE-NOT-MAPPED.
+
+AUTHORING-READY KNOWLEDGE
+- Choose equipment by measured quantity, expected range, required resolution, uncertainty, sample conditions and safety—not by appearance.
+- A beaker is mainly for holding/mixing and approximate volume; measuring cylinder gives moderate precision; volumetric pipette/flask delivers or contains a specified volume; burette allows precise variable delivery.
+- Instrument resolution is the smallest readable increment; record all certain digits plus an estimated digit only where the instrument convention supports it.
+- Accuracy is closeness to an accepted/true value; precision is closeness among repeated readings; an instrument can be precise but systematically inaccurate.
+- Zero/check/calibrate equipment where appropriate; read scales at eye level, use the correct meniscus and avoid parallax.
+- Record raw data immediately with headings, units, consistent decimal places justified by resolution, trial identifiers and any observation affecting quality.
+- Calculated results must not claim precision unsupported by input measurements; retain guard digits during calculation and round at the end.
+- Replicate measurements under documented conditions; use repeats to estimate variability rather than selecting the “best-looking” reading.
+- Useful sample size depends on natural variability, effect size, design and resources; representative selection and independence matter as much as number.
+- Digital sensors/data loggers improve frequency and reduce transcription but still need range, calibration, sampling-rate and file-integrity checks.
+- “More data” is not automatically better when measurements are biased, non-independent or below instrument resolution.
+- Document device/model, settings, uncertainty/resolution and data-processing steps so another team can reproduce collection.
+
+CONTENT BLUEPRINT
+Topic Page: equipment decision tree; apparatus functions; range/resolution; accuracy/precision; reading scales; recording table; samples/repeats; digital-tool quality.
+Classroom View: equipment stations, parallax/meniscus demo, precision audit, sensor-setting challenge and replicability swap.
+Homework: select and justify equipment, read scales, repair data tables, plan sampling and critique digital records.
+Practice 48: 10 equipment/function; 8 scale reading; 8 accuracy/precision; 8 recording/significant figures; 8 sampling/repeats; 6 digital tools/replicability.
+Test 16: unfamiliar measurement contexts with justification, reading/recording tasks, sample evaluation and digital-tool limitations.
+
+MISCONCEPTIONS
+More decimal places mean more accuracy; precise readings are necessarily correct; beakers measure exact volume; zero error is random; repeat only until readings agree; sample size alone ensures representation; sensors eliminate error; calculated answers may include every calculator digit. Feedback must link the instrument limit or sampling flaw to a defensible record.
+
+STATUS: AUTHORING-READY
+
+==================================================
+AC9S9I04
+CURRICULUM DESCRIPTION
+Select and construct appropriate representations, including tables, graphs, descriptive statistics, models and mathematical relationships, to organise and process data and information.
+
+CURRICULUM BOUNDARY
+Students select a fit-for-purpose representation, construct it accurately, calculate suitable summaries and use models/equations to process evidence. They must justify choice and avoid misleading conventions. Advanced inferential statistics are outside the code.
+
+SOURCE EVIDENCE
+1. Australian Curriculum v9: exact description above. “Select and construct” requires production and justification across several representation types, not reading graphs only.
+2. IXL Australia, authenticated Year 9 Science: NN.1 Use data to describe climates; B.3 engineering-design data tables; FF.3 wave graphs; KK.1–KK.2 evidence graphs. The live NN.1 task presents monthly Auckland temperature and precipitation displays and asks learners to choose a statement comparing Southern Hemisphere winters and summers. This tests coordinated interpretation. IXL lacks a direct Year 9 science skill for constructing the full range; SOURCE-PARTIAL-MAPPING.
+3. Khan Academy’s two-way-table and data-representation lessons organise categorical data; descriptive-statistics courses cover mean, median, range and distribution; algebra/science lessons connect tables, graphs and equations. Direct integrated scientific-representation construction is SOURCE-PARTIAL-MAPPING.
+4. Australian Bureau of Statistics defines data visualisation and explains that graphs can reveal patterns, trends, distributions and relationships; it warns representation must match the dataset and purpose.
+5. ABS presentation guidance distinguishes tables for exact values from graphs for shape/change/relationships and specifies titles, labelled axes, scales, units, legends and sources.
+6. CLIPS Australian scientific-communication resources link graph choice to variable type, place independent variables on the x-axis and dependent variables on the y-axis, and require informative figure/table legends.
+7. ABC Education search: no stable direct code-level mapping located; SOURCE-NOT-MAPPED.
+
+AUTHORING-READY KNOWLEDGE
+- Begin with purpose and data type: exact lookup → table; category comparison → bar/column; continuous change/time → line; relationship between two numerical variables → scatter plot.
+- Raw-data tables need descriptive title, independent-variable column first where suitable, headings with units, consistent precision and every valid reading; processed tables may add mean/range/rate.
+- Graphs require descriptive title, variables and units on axes, sensible linear scale, accurately plotted points, legend where needed and uncertainty/error bars if supplied.
+- Bar graphs have separated categories; histograms represent continuous intervals with adjoining bars; line graphs should not imply continuity for unordered categories.
+- Mean uses every value but is sensitive to extremes; median is resistant; range shows spread but depends only on extremes. Select the statistic for the question/distribution.
+- Scatter plots show direction, form and strength of association; a best-fit line represents overall pattern rather than joining points dot-to-dot.
+- Direct/inverse or linear/nonlinear mathematical relationships must be supported by variables, units, data range and model fit; equation symbols need definitions.
+- Models simplify systems to highlight relevant structure or relationships; state assumptions, valid range and omitted features.
+- Representations process evidence by making patterns visible, but design choices can mislead through truncated axes, unequal intervals, missing units, inappropriate smoothing or selective data.
+- Preserve anomalies unless a documented evidence-based reason supports exclusion.
+- Tables, graphs, statistics, models and equations should agree; discrepancies require checking transcription, units, calculation or assumptions.
+
+CONTENT BLUEPRINT
+Topic Page: representation-selection flowchart; construction checklists; descriptive statistics; scatter/model/equation links; misleading displays; model limits.
+Classroom View: representation card sort, build one dataset four ways, graph-repair clinic, summary-statistic debate and model-assumption audit.
+Homework: construct tables/graphs, calculate summaries, choose/justify a relationship, critique misleading displays and reconcile representations.
+Practice 48: 8 selection; 8 tables; 10 graphs; 8 descriptive statistics; 8 models/relationships; 6 misleading/quality checks.
+Test 16: independent datasets requiring at least 6 construction/calculation tasks and 6 justified selection/evaluation tasks.
+
+MISCONCEPTIONS
+Every dataset needs a line graph; join every scatter point; bar/histogram are interchangeable; graph axes need not show units; mean is always best; a model is an exact copy; a trendline proves causation; removing anomalies makes graphs cleaner; more visual complexity means more information. Feedback must tie the representation choice to data type and purpose.
+
+STATUS: AUTHORING-READY
+
+==================================================
+AC9S9I05
+CURRICULUM DESCRIPTION
+Analyse and connect a variety of data and information to identify and explain patterns, trends, relationships and anomalies.
+
+CURRICULUM BOUNDARY
+Students integrate numerical, graphical, tabular, visual and contextual evidence; distinguish pattern, trend, relationship and anomaly; quantify where possible; and explain evidence using relevant science while acknowledging uncertainty. Representation construction belongs mainly to AC9S9I04.
+
+SOURCE EVIDENCE
+1. Australian Curriculum v9: exact description above. “Connect a variety” requires triangulation across sources/representations, not a one-graph description.
+2. IXL Australia, authenticated Year 9 Science: NN.1 climate data; KK.1–KK.2 claim evaluation; B.3 engineering tests; O.3–O.4 carbon-cycle evidence; multiple graph/model skills. The live NN.1 Auckland task combines monthly temperature and precipitation information and requires a seasonal comparison. Previously sampled live KK tasks require selecting claims supported by global-energy or freshwater-withdrawal trends. Direct cross-source anomaly explanation is only partially mapped.
+3. Khan Academy “Analyzing trends in categorical data” uses relative frequencies to compare groups and avoid misleading raw-count conclusions; two-way-table lessons support linking representations. Science courses supply domain datasets but no single direct integrated Year 9 skill; SOURCE-PARTIAL-MAPPING.
+4. ABS data-visualisation guidance states visual displays assist analysis by making patterns, trends, relationships, distributions and changes across time/space more apparent.
+5. ABS evidence-communication guidance requires accurate supported statements, context, complete presentation and disclosure of data quality/limitations.
+6. NASA and CSIRO public data explainers provide authentic multi-representation Earth/space/environment examples suitable for source triangulation and anomaly reasoning.
+7. ABC Education search: no stable direct code-level mapping located; SOURCE-NOT-MAPPED.
+
+AUTHORING-READY KNOWLEDGE
+- Pattern: repeated/recognisable structure; trend: general direction over an ordered variable/time; relationship: variables change together; anomaly: point/event departing substantially from expected pattern.
+- Start by identifying variables, units, range, source, sample and representation before describing evidence.
+- Describe quantitatively: direction, magnitude/rate, interval, peaks/troughs, comparison and variability; avoid “goes up” when data permit precision.
+- Connect representations by matching variables, scales, dates/categories and population; do not combine measurements with incompatible definitions or units.
+- Convert counts to rates/proportions when group sizes differ; raw totals can create false comparisons.
+- Correlation/association does not establish causation; consider mechanism, time order, confounders, controls and alternative explanations.
+- Explain a pattern using relevant science and cite the observations that support the mechanism; explanation is more than restating the graph.
+- Anomalies may reflect real events, natural variability, measurement/recording error or model limitations. Investigate before excluding.
+- Compare independent sources for convergence and conflict; check method, scale, uncertainty and provenance.
+- Absence of an expected pattern is evidence that may require model refinement, not permission to invent a trend.
+- Interpolation within supported range is safer than extrapolation beyond it; predictions should state uncertainty.
+- A conclusion should include claim, connected evidence, scientific reasoning, limitation/uncertainty and next check.
+
+CONTENT BLUEPRINT
+Topic Page: analysis vocabulary; quantitative description routine; cross-representation linking; rates/proportions; relationship-versus-causation; anomaly decision tree; evidence-to-explanation model.
+Classroom View: data triangulation stations, claim–evidence–reasoning chains, anomaly investigation, misleading-count challenge and competing-explanation debate.
+Homework: analyse mixed datasets, connect sources, calculate comparisons, explain anomalies and write qualified conclusions.
+Practice 48: 8 patterns/trends; 8 quantitative descriptions; 8 relationships/rates; 8 cross-representation links; 8 anomalies; 8 explanation/uncertainty.
+Test 16: unfamiliar multi-source datasets with at least 6 connected-evidence items, 4 anomaly tasks and 4 mechanism/uncertainty conclusions.
+
+MISCONCEPTIONS
+Any change is a trend; correlation proves cause; an anomaly must be deleted; two graphs are comparable because their shapes look alike; totals fairly compare unequal groups; explanation means repeating the pattern; conflicting evidence should be ignored; extrapolation is as reliable as interpolation. Feedback must identify the missing comparison, mechanism or quality check.
+
+STATUS: AUTHORING-READY
+
+==================================================
+BATCH 4 CHECKPOINT
+Completed: AC9S9I02, AC9S9I03, AC9S9I04, AC9S9I05
+All four codes now have exact curriculum boundaries, sequential authenticated single-tab IXL evidence or explicit partial mappings, sequential single-tab Khan evidence or explicit partial mappings, reputable public-source comparison, misconception controls and authoring blueprints.
+Next unfinished code: AC9S9I06
