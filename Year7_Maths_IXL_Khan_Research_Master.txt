@@ -2,15 +2,15 @@ YEAR 7 MATHEMATICS — IXL / KHAN CURRICULUM RESEARCH MASTER
 Australian Curriculum Version 9.0 | SkillrHub
 Last updated: 2026-09-11
 
-PROJECT_STATUS: IN_PROGRESS
-CURRENT_PHASE: RESEARCH
-CURRENT_CODE: AC9M7P02
-LAST_COMPLETED_CODE: AC9M7P01
-NEXT_CODE: AC9M7P02
+PROJECT_STATUS: RESEARCH_COMPLETE
+CURRENT_PHASE: RESEARCH_COMPLETE
+CURRENT_CODE: NONE
+LAST_COMPLETED_CODE: AC9M7P02
+NEXT_CODE: AUTHORING_AC9M7N01
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
-BATCH: 6 COMPLETE (LATEST: AC9M7SP04, AC9M7ST01–AC9M7ST03, AC9M7P01)
+BATCH: 7 COMPLETE (LATEST: AC9M7P02; ALL 30 CODES AUTHORING-READY)
 
 PURPOSE AND AUTHORING STANDARD
 This is the evidence ledger for re-authoring Year 7 Mathematics. Every code must be researched before authoring. Research must transfer into the Topic Page, HTML Classroom View, Homework/Worksheet, exactly 48 Practice questions and exactly 16 independent Test questions. IXL was inspected through one authenticated Australia browser tab, sequentially, including live skill pages and Learn with an example. Khan Academy was inspected through one authenticated browser tab, sequentially. Source language and examples are evidence only: SkillrHub output must be original.
@@ -1160,5 +1160,57 @@ BATCH 6 QA CHECK
 - Each code includes curriculum boundary, progression, misconceptions, Topic Page/Classroom/Homework transfer, exactly-48 Practice blueprint and separate exactly-16 Test blueprint.
 - All five codes are AUTHORING-READY.
 
-RESUME INSTRUCTION
-Read NEXT_CODE and continue with AC9M7P02. Do not repeat completed research unless a source or curriculum descriptor materially changes.
+
+==============================================================================
+AC9M7P02 — REPEATED CHANCE EXPERIMENTS AND DIGITAL SIMULATION
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Conduct repeated chance experiments and run simulations with a large number of trials using digital tools; compare predictions about outcomes with observed results, explaining the differences.
+
+CURRICULUM BOUNDARY
+Students predict from theoretical probability, conduct repeatable physical experiments, calculate observed frequency and relative frequency, simulate many trials digitally, and compare predicted with observed results. They explain random variation and the tendency for relative frequency to stabilise with more trials. Do not claim experimental results must equal theory, or introduce formal proofs of the law of large numbers.
+
+IXL MAPPING AND EVIDENCE
+Direct Year 7 mappings:
+- “Experimental probability”: https://au.ixl.com/maths/year-7/experimental-probability
+- “Make predictions”: https://au.ixl.com/maths/year-7/make-predictions
+Supporting prerequisites: “Sample space of simple events” and “Probability of simple events”.
+IXL’s evidence progression is: read an outcome-frequency table; calculate experimental probability as event frequency ÷ total trials; use observed relative frequency to predict a count in further trials; compare outcomes across runs. The authoring extension required by AC9M7P02 is student-designed repetition and a large digital simulation rather than table interpretation alone.
+Core investigation example for authoring: predict 50% heads; record cumulative heads after 10, 20, 50 and 100 physical/digital tosses; compute heads/trials; run 1,000 or more simulated trials; graph relative frequency against trial count; explain why short-run values fluctuate and larger runs usually settle nearer 0.5.
+Misconceptions: experimental probability = favourable theoretical outcomes ÷ sample space; changing rules or apparatus during trials; comparing frequencies when trial totals differ; expecting exact equality to theory; believing a short run disproves fairness; saying larger trials remove randomness; using a simulation that does not match the intended probabilities; reporting percentages whose outcome totals do not equal 100%.
+
+KHAN / TRUSTED EVIDENCE
+Khan “Theoretical and experimental probabilities” contrasts a theoretical 50% prediction with finite observed results and explains convergence with more trials:
+https://www.khanacademy.org/math/cc-seventh-grade-math/cc-7th-probability-statistics/cc-7th-theoretical-and-experimental-probability/v/comparing-theoretical-to-experimental-probabilites
+Khan’s probability-simulation lesson shows repeated digital trials and long-run relative-frequency behaviour:
+https://www.khanacademy.org/math/ap-statistics/probability-ap/randomness-probability-simulation/v/experimental-versus-theoretical-probability-simulation
+NRICH provides reputable classroom chance investigations:
+https://nrich.maths.org/primary/geometry-and-measure/probability
+Australian Curriculum v9/QCAA control the Year 7 explanation level and digital-tool requirement.
+
+AUTHORING TRANSFER
+Topic Page: prediction–experiment–relative-frequency–simulation–comparison cycle; define frequency and relative frequency; worked physical coin/spinner table; cumulative graph; digital simulation pseudocode; explicit explanation of random variation and long-run stabilisation.
+Classroom View: make a pre-trial prediction, run small group experiments with identical protocols, pool class results, run a spreadsheet/random-number simulation, compare 20/100/1,000 trials and critique a false “it must be exactly 50%” claim.
+Homework: calculate relative frequencies, compare runs with unequal totals, predict future counts from evidence, inspect cumulative results, design a fair simulation and write evidence-based explanations.
+Feedback: verify total trials, calculate event count ÷ total, compare with the theoretical probability using a difference, consider trial count and explain variation without promising exact convergence.
+
+48-PRACTICE BLUEPRINT
+P01–P08 experiment/simulation vocabulary and fair protocols; P09–P16 calculate experimental probability; P17–P24 predict frequencies; P25–P32 compare theoretical and observed results; P33–P40 analyse small versus large trials and cumulative tables/graphs; P41–P48 design, debug and explain digital simulations.
+16-TEST BLUEPRINT
+T01–T04 relative-frequency fluency; T05–T08 predictions/comparisons; T09–T12 independent simulation tables and graphs; T13–T16 experimental design, random-variation explanation and critique. Test values, contexts and simulation structures must be independent from Practice.
+
+==============================================================================
+BATCH 7 / YEAR 7 MATHEMATICS RESEARCH QA CHECK
+- Final unfinished code AC9M7P02 researched and marked AUTHORING-READY.
+- Exact descriptor verified against the project’s Australian Curriculum v9-aligned page and QCAA scope.
+- IXL Year 7 direct mappings checked: Experimental probability and Make predictions, with prerequisite sample-space/probability skills.
+- Khan experimental-versus-theoretical and simulation evidence checked; NRICH retained as the additional trusted public source.
+- Topic Page, HTML Classroom View, Homework, exactly-48 Practice and independent exactly-16 Test authoring coverage is fully specified.
+- Inventory reconciliation: 30 of 30 Year 7 Mathematics codes are AUTHORING-READY.
+- Research phase is complete; no curriculum code remains unfinished.
+
+AUTHORING HANDOFF
+NEXT_CODE: AC9M7N01
+AUTHORING_STARTED: NO
+Required later sequence for each code: Topic Page → HTML Classroom View → Homework/Worksheet → 48 Practice → 16 independent Test → answer/feedback validation → QA → CONTENT VERIFIED.
