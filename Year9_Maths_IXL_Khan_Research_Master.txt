@@ -10,7 +10,7 @@ NEXT_CODE: NONE
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
-BATCH: FINAL RESEARCH BATCH COMPLETE — INTERACTIVELY VERIFIED (LATEST: AC9M9P01–AC9M9P03)
+BATCH: TARGETED SEVEN-CODE RERUN COMPLETE — ALL 23 AUTHORING-READY
 
 PURPOSE AND AUTHORING STANDARD
 This ledger supports later re-authoring of every Year 9 Mathematics Topic Page, HTML Classroom View, Homework/Worksheet, exactly 48 Practice questions and exactly 16 independent Test questions. Australian Curriculum v9/QCAA sets scope. IXL and Khan examples inform pedagogy only; all SkillrHub content must be original.
@@ -49,7 +49,8 @@ Progression: subset hierarchy → decimal behaviour → perfect/non-perfect root
 Misconceptions: irrational means “not real”; all roots are irrational; all non-terminating decimals are irrational; π=3.14 exactly; calculator display is the complete value; √95 lies halfway between 9 and 10; rounding early preserves exact comparisons; division by zero is a real number.
 
 KHAN / TRUSTED CROSS-CHECK
-The authenticated Khan “Introduction to rational and irrational numbers” route was opened; Khan distinguishes numbers expressible as integer ratios from irrational examples. Its official √2 lesson is a useful extension, but proof is not required for this code.
+EVIDENCE LEVEL: AUTHENTICATED KHAN WORKED-TRANSCRIPT VERIFIED — 2026-09-11.
+The authenticated Khan “Introduction to rational and irrational numbers” transcript was inspected in full. It establishes rational numbers as ratios of integers, rewriting 1=1/1 and −7=−7/1=7/−1=−14/2. It converts 3.75=375/100=15/4 and identifies repeating decimals such as 0.333…=1/3 and 0.666…=2/3 as rational. It contrasts π, e, √2 and φ as nonterminating, nonrepeating irrationals and states that the square root of a non-perfect square is irrational. The sequence supports definition → conversion → classification → density, with the important trap that nonterminating does not by itself mean irrational.
 https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86%3Airrational-numbers/x2f8bb11595b61c86%3Airrational-numbers-intro/v/introduction-to-rational-and-irrational-numbers
 Desmos supports comparing exact expressions and decimal approximations: https://www.desmos.com/calculator
 NRICH supports real-number reasoning and estimation: https://nrich.maths.org/numbers
@@ -83,7 +84,8 @@ Progression: repeated factors → positive laws → zero exponent via quotient �
 Misconceptions: multiplying bases or exponents in a same-base product; a⁰=0; a⁻ⁿ is negative; (a+b)ⁿ distributes; forgetting to power the coefficient; dividing unlike bases by subtracting exponents; cancelling across addition; allowing zero under a negative exponent; leaving negative exponents when positive form is requested.
 
 KHAN / TRUSTED CROSS-CHECK
-Authenticated Khan “Multiplying & dividing powers (integer exponents)” was opened. The visible lesson sequence includes products/quotients, powers of products/quotients and challenge practice with integer exponents.
+EVIDENCE LEVEL: AUTHENTICATED KHAN WORKED-TRANSCRIPT VERIFIED — 2026-09-11.
+The authenticated Khan “Multiplying & dividing powers (integer exponents)” transcript was inspected. Worked examples include 4⁻³×4⁵=4², justified both by adding exponents and by expanding/cancelling reciprocal factors; a⁻⁴×a²=a⁻²=1/a²; 12⁻⁷÷12⁻⁵=12⁻² by subtracting a negative exponent; and x⁻²⁰÷x⁵=x⁻²⁵. Khan explicitly connects a negative exponent with reciprocal meaning and distinguishes the product rule (add exponents) from the quotient rule (subtract the denominator exponent). Authoring should require both efficient law use and a repeated-factor/reciprocal explanation so sign errors are diagnosable.
 https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86%3Arational-exponents-radicals/x2f8bb11595b61c86%3Aexponent-properties-review/v/multiplying-and-dividing-powers-with-integer-exponents
 NRICH algebra tasks support deriving rather than memorising laws: https://nrich.maths.org/algebra
 
@@ -116,8 +118,10 @@ Progression: vocabulary/like terms → polynomial addition/subtraction → monom
 Misconceptions: combining unlike powers; losing negative signs; multiplying only first/last terms; (a+b)²=a²+b²; choosing numbers that sum to c and multiply to b; ignoring sign combinations; factorising only part of an expression; using non-monic shortcuts here without understanding; failing to check by expansion.
 
 KHAN / TRUSTED CROSS-CHECK
-Authenticated Khan Algebra basics Unit 7 “Quadratics and polynomials” was opened. Its visible sequence covers polynomial operations, monomial-by-polynomial multiplication, binomial products, common factors, factoring quadratics, difference of squares and equations by factoring.
-https://www.khanacademy.org/math/algebra-basics/alg-basics-quadratics-and-polynomials
+EVIDENCE LEVEL: AUTHENTICATED KHAN LIVE-EXERCISE VERIFIED — 2026-09-11.
+Two independent authenticated exercises were inspected. Expansion prompt: expand (x−2)(x−6) into polynomial standard form; distributing all four products gives x²−6x−2x+12=x²−8x+12. Factorisation/application prompt: a rectangle has area x²+8x+15 square metres and width x+3; factor x²+8x+15=(x+3)(x+5), so the missing length is x+5. Together they verify expansion and its inverse, sign handling, collecting the middle terms, the product-sum structure and an area interpretation. Authoring should alternate symbolic, area-model and expand-to-check tasks rather than treating factorisation as an isolated trick.
+https://www.khanacademy.org/math/algebra-basics/alg-basics-quadratics-and-polynomials/alg-basics-multiplying-binomials/e/multiplying_expressions_0.5
+https://www.khanacademy.org/math/algebra-basics/alg-basics-quadratics-and-polynomials/alg-basics-factoring-quadratics-1/e/factoring_polynomials_1
 GeoGebra algebra tiles/graphs can verify equivalence: https://www.geogebra.org/
 NRICH supports structural algebra reasoning: https://nrich.maths.org/algebra
 
@@ -151,9 +155,11 @@ Progression: coordinate changes → gradient and special cases → midpoint → 
 Misconceptions: rise/run with mismatched point order; using absolute change for gradient; calling vertical slope zero; averaging all four numbers together; subtracting rather than averaging midpoint coordinates; Manhattan distance; forgetting square root; accepting negative distance; rounding radical distances too early.
 
 KHAN / TRUSTED CROSS-CHECK
-Khan’s official midpoint lesson and distance-with-Pythagoras lesson were located/opened; they connect average coordinates and right-triangle distance construction.
-https://www.khanacademy.org/math/uk-math-class-10/xc551e7be9debeb08%3Acoordinate-geometry-ncert-new/xc551e7be9debeb08%3Asection-formula/v/midpoint-formula-indian-accent
-https://www.khanacademy.org/math/8th-engage-ny/engage-8th-module-7/8th-module-7-topic-c/v/example-finding-distance-with-pythagorean-theorem
+EVIDENCE LEVEL: AUTHENTICATED KHAN WORKED-TRANSCRIPT AND LIVE-EXERCISE VERIFIED — 2026-09-11.
+Midpoint transcript: for (3,−4) and (6,1), Khan averages matching coordinates to obtain ((3+6)/2,(−4+1)/2)=(4.5,−1.5); a second example (4,−5),(8,2) gives (6,−1.5). Distance transcript: for (3,−4) and (6,0), Δx=3 and Δy=4 form a right triangle, so d²=3²+4²=25 and positive distance d=5; Khan notes subtraction order is immaterial after squaring and distance cannot be negative. Direct gradient exercise: find the slope through (−7,−8) and (0,4), with distractors 12/7, −7/12, 7/12 and −12/7; consistent subtraction gives (4−(−8))/(0−(−7))=12/7. This closes the former direct-gradient gap and supports formula meaning, sign traps and special-case authoring.
+https://www.khanacademy.org/math/geometry-home/analytic-geometry-topic/distance-and-midpoints/v/midpoint-formula
+https://www.khanacademy.org/math/geometry-home/analytic-geometry-topic/distance-and-midpoints/v/distance-formula
+https://www.khanacademy.org/math/algebra-basics/alg-basics-graphing-lines-and-slope/alg-basics-slope/e/slope-from-two-points
 Desmos verifies line gradient and coordinates dynamically: https://www.desmos.com/calculator
 
 AUTHORING TRANSFER
@@ -185,8 +191,10 @@ Progression: linear-versus-quadratic/second differences → tables → graph fea
 Misconceptions: constant first difference; plotting only a vertex and one unsymmetrical point without reflecting; assuming all parabolas open upward; confusing y-intercept and root; reading approximate graph roots as exact; factoring without first setting equation to zero; solving only one factor; product zero means both factors zero; using vertex-form transformations without accounting for signs.
 
 KHAN / TRUSTED CROSS-CHECK
-Authenticated Khan Algebra basics Unit 7 was opened; its visible sequence includes factoring quadratics and equations by factoring. IXL supplies direct Year 9 graphing and solving examples.
-https://www.khanacademy.org/math/algebra-basics/alg-basics-quadratics-and-polynomials
+EVIDENCE LEVEL: AUTHENTICATED KHAN WORKED-TRANSCRIPT AND LIVE-EXERCISE VERIFIED — 2026-09-11.
+Graphing transcript: for y=−2(x−2)²+5, Khan reasons that the square is nonnegative, multiplication by −2 makes it nonpositive, and the maximum y=5 occurs at x=2, giving vertex (2,5). It evaluates symmetric inputs x=1 and x=3 to get y=3 and plots (1,3),(2,5),(3,3), connecting vertex form, opening and symmetry. Algebraic-solving exercise: solve x²−4x+3=0; factor (x−1)(x−3)=0 and apply the zero-product property to obtain x=1 and x=3. These examples support graph features plus exact algebraic roots and the need to distinguish graphical estimates from exact solutions.
+https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86%3Aquadratic-functions-equations/x2f8bb11595b61c86%3Avertex-form/v/graphing-a-parabola-in-vertex-form
+https://www.khanacademy.org/math/algebra-basics/alg-basics-quadratics-and-polynomials/alg-basics-solving-quadratics-by-factoring/e/solving_quadratics_by_factoring
 Desmos is the primary free graphing tool for tables, roots, vertex and parameter experiments: https://www.desmos.com/calculator
 GeoGebra provides a second dynamic graph/algebra check: https://www.geogebra.org/graphing
 
@@ -701,6 +709,7 @@ Match nominal/ordinal categorical and discrete/continuous numerical data to tabl
 IXL MAPPING AND ACTUAL LEARN-WITH-EXAMPLE EVIDENCE
 Components: interpret/create histograms; interpret/create stem-and-leaf; interpret charts for summaries. No single IXL skill requires cross-display justification: COMPOSITE/PARTIAL.
 The histogram Learn-with-an-example panel was opened; its graph prompt is image-rendered and exposes no readable numbers, so none are invented. Catalogue confirms separate interpret/create histogram skills. The readable stem example preserves exact values (minimum 10), which is central to display-choice contrasts.
+N.3 Learn-with-an-example was opened and inspected in the same authenticated IXL tab. Context: shipments grouped by cracked panes in intervals 0–9 through 70–79. The prompt compares the 40–49 and 60–69 bars. IXL’s key idea is that bar height gives the number of shipments in each interval; its solution locates both bars, observes that 40–49 is shorter, and concludes fewer shipments fall in 40–49. This supplies actual prompt-to-conclusion evidence for reading a histogram, comparing bin frequencies and tying claims to axis/bin meaning.
 Progression: variable/type → purpose → candidate displays → accurate construction → information retained/lost → justify/critique.
 Misconceptions: bar/histogram interchangeable; reorder histogram bins; histogram preserves exact values; box length is frequency; line graph for unordered categories; numerical always means histogram; prettiest is best.
 
@@ -803,7 +812,7 @@ Use frequency tables, two-way tables, Venn diagrams and collected trials; calcul
 IXL MAPPING AND ACTUAL LEARN-WITH-EXAMPLE EVIDENCE
 Direct mappings: Y.2 Experimental probability; Y.3 Find probabilities using two-way frequency tables; supported by AA.1–AA.2 sets, complements, unions and intersections.
 Y.2 example actually opened: a band sold out 6 of its last 10 shows. IXL defines experimental probability as successes/total trials and simplifies 6/10 to 3/5 as the estimate for the next show.
-Y.3 Learn-with-an-example was opened in the same IXL tab; its two-way-table prompt is image-rendered and exposes no reliable text, so no invented values are recorded. The mapping and intended table/intersection structure are verified, while inclusive/exclusive language must be strengthened during authoring.
+Y.3 Learn-with-an-example was opened and inspected in the same authenticated IXL tab. The table classifies albums by orientation and capacity: horizontal 50=5, horizontal 100=4, vertical 50=3, vertical 100=2. For event A “horizontal” and event B “holds 100 photos”, IXL identifies the intersection cell A and B as 4, totals all cells as 5+4+3+2=14, and simplifies P(A and B)=4/14=2/7. The method explicitly identifies sample space, target intersection and denominator before division; it supplies concrete AND/two-way-table evidence while inclusive/exclusive OR remains strengthened by the Khan addition-rule example.
 Progression: counts → relative frequency → table/Venn regions → AND/intersection → exclusive OR → inclusive OR/addition rule → complement/check → estimates and contextual prediction.
 Misconceptions: relative frequency equals theoretical probability exactly; use a row total when the question is unconditional; AND means add; inclusive OR excludes overlap; exclusive OR includes both; add A and B without subtracting intersection; divide by favourable total; percentages from different denominators can be combined directly.
 
@@ -859,6 +868,15 @@ Feedback: match each simulated outcome and probability, match stages and replace
 P01–P08 experiment/trial/model vocabulary; P09–P16 match mechanisms; P17–P24 compound success rules; P25–P32 collect/relative frequency; P33–P40 digital results and convergence; P41–P48 compare, critique and redesign.
 16-TEST BLUEPRINT
 T01–T04 choose a fair model; T05–T08 interpret repeated results; T09–T12 independent design/comparison; T13–T16 convergence, limitations and refinement.
+
+
+==============================================================================
+TARGETED SEVEN-CODE RERUN AUDIT — 2026-09-11
+- Scope was limited to the seven codes flagged by the completeness audit: AC9M9N01, AC9M9A01, AC9M9A02, AC9M9A03, AC9M9A04, AC9M9ST04 and AC9M9P02. The other 16 code records were not re-researched.
+- One authenticated Khan Academy tab was used sequentially for five shallow records. Actual worked transcripts or live exercise prompts now document rational/irrational classification, integer exponent laws, binomial expansion and monic factorisation, gradient/midpoint/distance, and quadratic graphing/solving.
+- One authenticated IXL Australia tab was used sequentially for the two image-rendered gaps. Actual Learn-with-an-example prompts, data, method and conclusions are now recorded for histogram interpretation and two-way-table intersection probability.
+- Each rerun captures method, representation, progression or inverse connection, likely traps and authoring implications; catalogue presence alone is not treated as evidence.
+- All seven flagged records now meet the same AUTHORING-READY evidence standard as the other 16. All 23 Year 9 Mathematics codes are research-complete.
 
 ==============================================================================
 FINAL PROBABILITY BATCH INTERACTIVE QA CHECK — 2026-09-11
