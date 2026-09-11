@@ -40,6 +40,12 @@ jobs:
         with:
           python-version: '3.x'
 
+      - name: Exclude internal review reports from public sitemap build
+        run: |
+          if [ -d reports ]; then
+            find reports -type f -name '*.html' -delete
+          fi
+
       - name: Generate sitemap files
         run: python3 scripts/generate_sitemap.py
 
