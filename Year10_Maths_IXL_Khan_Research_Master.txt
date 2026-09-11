@@ -9,7 +9,7 @@ BLOCKER: NONE
 YEAR: 10
 SUBJECT: Mathematics
 CURRICULUM: Australian Curriculum v9.0
-BATCH_STATUS: FIRST FIVE CODES AUTHORING-READY
+BATCH_STATUS: FIRST FIVE CODES STRICT RE-RUN VERIFIED — AUTHORING-READY
 RESEARCH_DATE_UTC: 2026-09-11
 
 YEAR 10 MATHEMATICS — IXL / KHAN / PUBLIC-SOURCE RESEARCH MASTER
@@ -134,13 +134,13 @@ IXL AUSTRALIA MAPPING
 Use the catalogue’s exponent-law and polynomial-expansion skills as prerequisites/components; Q.14 is useful comparative extension but not a substitute for the descriptor’s named methods.
 
 ACTUAL IXL LEARN-WITH-AN-EXAMPLE EVIDENCE
-Observed P.4 example: factorise f² + 5f + 6.
+Observed P.4 example: factorise g² + 5g + 6.
 Paraphrased teaching sequence:
 1. Match the trinomial to x² + bx + c.
 2. Seek two integers whose product is c and whose sum is b.
 3. Compare factor pairs of 6: 1 and 6 sum to 7; 2 and 3 sum to 5.
 4. Because the sum and product are positive, both constants are positive.
-5. Write (f + 2)(f + 3).
+5. Write (g + 2)(g + 3).
 6. Expand/FOIL to verify the original expression.
 Representation and vocabulary: trinomial, coefficient, constant, factor pair, product, sum, binomial factors, expand, verify.
 Feedback design: diagnose whether the learner chose numbers with the right product but wrong sum, or correct magnitudes with wrong signs.
@@ -467,3 +467,97 @@ BATCH QA — AC9M10N01, AC9M10A01, AC9M10A02, AC9M10A03, AC9M10A04
 - Each code is AUTHORING-READY.
 - No content has yet been marked CONTENT VERIFIED; authoring has not started.
 - NEXT_CODE is AC9M10A05.
+
+
+===============================================================================
+STRICT EVIDENCE RE-RUN ADDENDUM — 2026-09-11
+PURPOSE
+This addendum supersedes the initial confidence assessment. The batch was re-opened in the authenticated sessions and checked against the stricter SkillrHub standard. It distinguishes direct interactive evidence, image-only evidence and curriculum-source gaps. No inaccessible example was reconstructed or invented.
+
+AC9M10N01 — RE-RUN EVIDENCE
+IXL result:
+- The authenticated Year 10 catalogue was checked again. There remains no direct skill for the effect of repeated approximation.
+- V.4–V.11 remain component mappings for keeping radicals/exponents exact. They do not by themselves constitute full-code coverage.
+Khan result:
+- The authenticated lesson “Intro to rational & irrational numbers” was opened and its transcript inspected.
+- Verified teaching points: rational numbers are ratios of integers; terminating and recurring decimals are rational; π, e and √2 are irrational; square roots of non-perfect squares provide a broad irrational-number family.
+- A second authenticated Khan transcript, in completing the square, explicitly contrasted a retained radical solution with calculator decimals. It noted that the calculator stores finite precision, produced a near-zero substitution residue, and explained that the exact radical form satisfies the equation exactly. This is directly useful for exact-versus-approximate comparison.
+Coverage decision:
+- Full-code IXL/Khan mapping remains SOURCE-NOT-MAPPED, but the source gap is now bounded.
+- Authoring must generate the curriculum-specific repeated-calculation investigations rather than imitate a nonexistent provider skill.
+Materially different authoring evidence families (12):
+1 exact fraction vs rounded decimal; 2 recurring decimal vs truncated decimal; 3 √2 repeated powers; 4 π perimeter; 5 π area; 6 surd substitution; 7 repeated percent growth; 8 repeated decay; 9 recurrence with per-step rounding; 10 calculator stored-value vs re-entry; 11 absolute/relative error; 12 contextual precision threshold.
+STRICT STATUS: AUTHORING-READY, WITH SOURCE-NOT-MAPPED FLAG RETAINED.
+
+AC9M10A01 — RE-RUN EVIDENCE
+Authenticated IXL Learn panels inspected:
+- P.4 Factorise quadratics with leading coefficient 1.
+  Verified example g²+5g+6: use r₁r₂=c and r₁+r₂=b; list factor pairs; use sign information; select 2 and 3; write (g+2)(g+3); expand with the distributive property/FOIL to check.
+- Q.13 Solve a quadratic equation with other leading coefficients by completing the square.
+  Verified method: first make the leading coefficient 1; isolate constant terms; calculate (b/2)²; add the same quantity to both sides; factor the perfect-square trinomial; take both square roots; retain ±; solve and, when directed, approximate.
+  Verified displayed stage: y²−16y+64=99 becomes (y−8)²=99, hence y≈8±9.95 and y≈17.95 or −1.95.
+Authenticated Khan transcript inspected:
+- Completing the square is presented as deliberately “engineering” a perfect square.
+- Example x²−4x=5 adds 4 to both sides, becomes (x−2)²=9 and gives x=5 or −1.
+- A non-monic example first divides through by the leading coefficient, preserves fractions, adds (b/2)², retains the exact radical result, then checks decimal approximations.
+- Khan explicitly compares factorising (faster when convenient) with completing the square (general method).
+Materially different IXL/Khan-supported evidence families (12):
+1 product index law; 2 quotient index law; 3 power of a product/power; 4 single-bracket expansion; 5 double-bracket expansion; 6 greatest common factor; 7 monic trinomial; 8 non-monic trinomial; 9 difference of squares; 10 perfect-square trinomial; 11 completing square with leading coefficient 1; 12 non-monic completing square/solve.
+STRICT STATUS: AUTHORING-READY.
+
+AC9M10A02 — RE-RUN EVIDENCE
+Authenticated IXL Learn panels inspected:
+- E.11 Solve multi-step linear inequalities.
+  Verified example 3 < 3(t+12)−3. The panel applies the same inverse operation to both sides: add 3, divide by positive 3, subtract 12, then rewrites −10<t as t>−10. It separates equivalent transformations from the final conventional variable-left form.
+- H.10 substitution evidence retained: substitute y=5 into −5x+y=−15, solve x=4, report (4,5), and check both equations.
+- H.7 substitution word-problem panel was opened; the central prompt/working was image-rendered and not treated as extractable evidence.
+Khan cross-verification:
+- Multi-step inequalities confirms normal inverse operations and reversal only after multiplication/division by a negative.
+- Systems substitution example −3x−4y=−2 with y=2x−5 verifies isolate/substitute/solve/back-substitute.
+- Khan word problems include translating coin/price conditions into two equations before solving.
+Verified official lessons:
+https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86%3Asolve-equations-inequalities/x2f8bb11595b61c86%3Amultistep-inequalities/v/multi-step-inequalities
+https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86%3Asystems-of-equations/x2f8bb11595b61c86%3Asolving-systems-of-equations-with-substitution/v/practice-using-substitution-for-systems
+Materially different evidence families (12):
+1 write inequality; 2 graph boundary; 3 one-step positive; 4 negative-operation reversal; 5 variables both sides; 6 compound/context inequality; 7 graph intersection; 8 substitution; 9 elimination; 10 one/no/infinite solutions; 11 form a contextual system; 12 interpret/check ordered-pair feasibility.
+STRICT STATUS: AUTHORING-READY.
+
+AC9M10A03 — RE-RUN EVIDENCE
+Authenticated IXL checks:
+- M.4 Match exponential functions and graphs I: Learn panel re-opened; central function/graph remains image-rendered. This limitation is explicit.
+- M.6 Solve exponential equations by rewriting the base: Learn panel re-opened; central equation remains image-rendered. No equation or answer was inferred.
+- Catalogue mapping was independently re-read and confirms M.1, M.3–M.7 and R.1–R.6 as the relevant progression.
+Khan cross-verification:
+- Graphing exponential functions links a table of values, plotted points, y-intercept and accelerating growth/decay.
+- Exponential decay confirms a multiplicative factor strictly between 0 and 1.
+- Exponential-versus-linear lessons contrast constant difference with constant ratio.
+- Graph analysis derives a function rule from graph information and evaluates beyond displayed points.
+Verified official lessons:
+https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86%3Aexponential-growth-decay/x2f8bb11595b61c86%3Agraphs-of-exponential-growth/v/graphing-exponential-functions
+https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86%3Aexponential-growth-decay/x2f8bb11595b61c86%3Aexponential-functions-from-tables-graphs/v/analyzing-graph-of-exponential-function
+Materially different evidence families (12):
+1 evaluate rule; 2 complete table; 3 constant-ratio identification; 4 equation-to-graph; 5 graph-to-equation; 6 determine initial value; 7 determine base; 8 growth vs decay; 9 domain/range/asymptote; 10 distinguish model family; 11 solve using common base; 12 solve/verify by digital intersection.
+STRICT STATUS: AUTHORING-READY. Image-only IXL examples must be replaced by accessible original SkillrHub diagrams, not copied.
+
+AC9M10A04 — RE-RUN EVIDENCE
+Authenticated IXL Learn panel re-inspected:
+- M.10 example asks for radioactive potassium remaining from 56 g after 24 hours when half-life is 12 hours.
+- Verified sequence: calculate two half-lives; multiply by 1/2 twice; express 56(1/2)²; evaluate 14 g; state answer with units.
+Khan cross-verification:
+- Growth/decay word problems translate percentage language to factor 1±r, identify starting quantity and the number/length of periods, then interpret units.
+- Exponential decay verifies that 0<b<1 produces decay.
+- Exponential-versus-linear comparison supports model choice from mechanism and repeated change.
+Verified official lessons:
+https://www.khanacademy.org/math/algebra-1-illustrative-math/x6418b49dfbc9d0c9%3Aexponential-functions-intro/x6418b49dfbc9d0c9%3Afunctions-involving-percent-change/v/word-problem-solving-exponential-growth-and-decay
+https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86%3Aexponential-growth-decay/x2f8bb11595b61c86%3Aexponential-decay/v/exponential-decay-intro
+Materially different evidence families (12):
+1 repeated growth; 2 repeated decay; 3 doubling time; 4 half-life; 5 compound savings; 6 depreciation; 7 linear-vs-exponential choice; 8 quadratic-vs-other choice; 9 formulate variables/assumptions; 10 threshold/intersection; 11 interpret with units/rounding; 12 evaluate extrapolation and revise assumptions.
+STRICT STATUS: AUTHORING-READY.
+
+STRICT BATCH DECISION
+- All five codes now have at least 12 materially different, curriculum-bounded authoring families.
+- Direct authenticated IXL Learn evidence is recorded wherever it was accessible.
+- Image-only IXL panels and full-code mapping gaps are labelled instead of guessed.
+- Khan was re-opened/verified and official lesson evidence was added.
+- The evidence is sufficient to author diverse Topic Pages, Classroom Views, worksheets, 48 Practice Questions and 16 independent Test Questions without relying on repeated templates.
+- AUTHORING-READY does not waive later numerical-answer validation, duplicate detection, curriculum-alignment QA or independent final review.
