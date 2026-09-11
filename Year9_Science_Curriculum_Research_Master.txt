@@ -4,13 +4,13 @@ Last updated: 2026-09-11
 
 PROJECT_STATUS: IN_PROGRESS
 CURRENT_PHASE: RESEARCH
-CURRENT_CODE: AC9S9H02
-LAST_COMPLETED_CODE: AC9S9H01
-NEXT_CODE: AC9S9H03
+CURRENT_CODE: AC9S9I02
+LAST_COMPLETED_CODE: AC9S9I01
+NEXT_CODE: AC9S9I03
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
-BATCH: 2 COMPLETED (LATEST: AC9S9U05–AC9S9H01)
+BATCH: 3 COMPLETED (LATEST: AC9S9H02–AC9S9I01)
 
 CURRICULUM CODE INVENTORY
 AC9S9U01, AC9S9U02, AC9S9U03, AC9S9U04, AC9S9U05, AC9S9U06, AC9S9U07
@@ -353,3 +353,178 @@ BATCH 2 CHECKPOINT
 Completed: AC9S9U05, AC9S9U06, AC9S9U07, AC9S9H01
 All four codes now have exact curriculum boundaries, sequential single-tab authenticated IXL evidence or explicit direct-mapping limits, sequential single-tab Khan/public evidence or explicit direct-mapping limits, reputable source comparison, misconception controls and authoring blueprints.
 Next unfinished code: AC9S9H02
+
+
+==================================================
+AC9S9H02
+CURRICULUM DESCRIPTION
+Investigate how advances in technologies enable advances in science, and how science has contributed to developments in technologies and engineering.
+
+CURRICULUM BOUNDARY
+Students investigate reciprocal, evidence-supported relationships: new instruments, computing and processes allow scientists to observe, measure or analyse what was previously inaccessible, while scientific explanations enable technologies and engineering solutions. Listing inventions without tracing a two-way causal chain is insufficient.
+
+SOURCE EVIDENCE
+1. Australian Curriculum v9: exact description above. The two “how” clauses require both technology → science and science → technology/engineering relationships.
+2. IXL Australia, authenticated Year 9 Science: B.1 Identify parts of the engineering-design process; B.2 Evaluate tests of engineering-design solutions; B.3 Use data from tests to compare engineering-design solutions; B.4 Moon engineering-design process. The live B.3 task gives three boat prototypes with explicit length and load requirements and asks which meet each criterion. It supports criteria, test evidence and iterative engineering, but IXL has no direct history-of-science technology mapping.
+3. Khan Academy: “Citizen science” shows digital crowdsourcing extending data collection and analysis; relevant science courses show technology-rich examples such as imaging, sequencing and space observation. No single direct Year 9 reciprocal-relationship skill was located; SOURCE-PARTIAL-MAPPING.
+4. CSIRO’s Science Digital and AI-for-science material explains how computation, automation and AI enable simulation, large-dataset analysis and new hypotheses while requiring provenance and reproducibility.
+5. CSIRO’s genomics overview documents how long-read sequencing and computing reduced genome work from years and very high cost to weeks, enabling biodiversity, biosecurity and conservation research; the resulting genomic knowledge supports new monitoring and management technologies.
+6. CSIRO autonomous-sensor resources show improved accuracy, sensitivity, traceability and resolution enabling environmental and industrial science.
+7. ABC Education search: no stable direct code-level mapping located; SOURCE-NOT-MAPPED.
+
+AUTHORING-READY KNOWLEDGE
+- Technology is a tool, process or system designed for a purpose; science builds testable explanations; engineering applies knowledge and design processes under criteria and constraints.
+- Technology can extend senses, increase precision, automate repeated measurement, access dangerous/remote scales, store large datasets and reveal patterns.
+- Scientific knowledge enables new materials, devices, algorithms, medicines and engineered systems; prototype testing can generate new scientific questions.
+- Reciprocal chain example: electromagnetism and nuclear-spin science → MRI engineering → non-invasive high-resolution body data → refined understanding and diagnosis → improved magnets, detectors and reconstruction algorithms.
+- Telescope/sensor chain: optics/electromagnetism enables detectors; stronger detectors reveal faint objects; observations test models; revised models guide new instruments.
+- Genomics chain: molecular biology enables sequencing; faster sequencing creates large comparative datasets; discoveries guide diagnostics, conservation and bioengineering.
+- Better resolution or more data does not automatically mean a valid conclusion; calibration, controls, sampling and interpretation still matter.
+- Engineering success is judged against criteria and constraints such as safety, cost, accuracy, accessibility and environmental impact.
+- Avoid one-way “invention caused discovery” claims: name the capability changed, evidence collected and knowledge/solution produced.
+- Technologies can introduce bias or limits through detection thresholds, algorithms, access and design assumptions.
+
+CONTENT BLUEPRINT
+Topic Page: science–technology–engineering distinctions; reciprocal causal-chain framework; imaging, astronomy, genomics and sensors case studies; criteria/constraints; limits and unintended effects.
+Classroom View: evidence-card causal chains, instrument-before/after comparison, prototype-data decision and technology-limit audit.
+Homework: complete reciprocal chains, distinguish roles, analyse case evidence and evaluate a proposed instrument/design.
+Practice 48: 8 key distinctions; 12 technology-enables-science chains; 10 science-enables-technology chains; 8 engineering tests/criteria; 6 reciprocal case analyses; 4 limitations/equity.
+Test 16: four unfamiliar case studies with balanced two-way causation, evidence and evaluation; no practice stems reused.
+
+MISCONCEPTIONS
+Science and technology are synonyms; all technology is electronic; discoveries occur only because instruments improve; engineering is merely building; newer technology guarantees better evidence; science affects technology but not vice versa; correlation in a timeline proves causation. Feedback must identify the changed capability and trace evidence through to knowledge or design.
+
+STATUS: AUTHORING-READY
+
+==================================================
+AC9S9H03
+CURRICULUM DESCRIPTION
+Analyse the key factors that contribute to science knowledge and practices being adopted more broadly by society.
+
+CURRICULUM BOUNDARY
+Students separate the strength of scientific evidence from the social process of adoption, then analyse interacting factors such as effectiveness, trust, communication, risk, cost, access, policy, values and equity. The task is explanatory analysis, not advocacy for a predetermined position.
+
+SOURCE EVIDENCE
+1. Australian Curriculum v9: exact description above. “Key factors” and “more broadly” require multi-factor societal analysis rather than deciding whether a claim is scientifically correct.
+2. IXL Australia, authenticated Year 9 Science: KK.1 and KK.2 evaluate claims using resource-use evidence; A.1 scientific inquiry supports evidence quality. The live KK.1 task presents global energy-use data from 1965–2015 and asks which statement is supported, distinguishing evidence-based interpretation from an unsupported “about the same each year” claim. Direct social-adoption analysis is SOURCE-NOT-MAPPED.
+3. Khan Academy: “Vaccines and the autism myth – part 2” compares a high-profile claim with the wider evidence base and is useful for evidence, trust and correction; vaccination resources cover benefits and population practice. No direct general adoption-factor lesson was located; SOURCE-PARTIAL-MAPPING.
+4. Peer-reviewed public-health literature on trust, science education and vaccines shows that confidence in institutions, understanding, communication and social context influence acceptance in addition to evidence.
+5. WHO risk-communication and community-engagement guidance stresses timely transparent communication, listening to concerns, trusted messengers and community participation.
+6. Australian Science Media Centre and Inspiring Australia resources illustrate translation of specialist evidence into accessible public information and engagement.
+7. ABC Education/media-literacy resources can support source and claim evaluation, but no stable direct code-level mapping was located.
+
+AUTHORING-READY KNOWLEDGE
+- Adoption means a practice or evidence-based idea is used, accepted or embedded across people, organisations or policy; it is not identical to publication or scientific validity.
+- Evidence factors: strength, consistency, relevance to the population, demonstrated effectiveness, uncertainty and safety monitoring.
+- Trust factors: perceived competence, honesty, transparency, independence, past experience and relationships with institutions or messengers.
+- Practical factors: cost, availability, infrastructure, training, convenience, compatibility with current systems and who bears burdens/benefits.
+- Communication factors: clarity, framing, media coverage, misinformation, uncertainty explanations and opportunities for two-way questions.
+- Social factors: cultural values, community norms, identity, lived experience, ethics, perceived fairness and local leadership.
+- Policy factors: regulation, incentives, standards, mandates, procurement and professional guidance can accelerate or constrain uptake.
+- Risk perception depends on familiarity, control, visibility and consequences, not just numerical probability.
+- Equity matters: a practice is not broadly adopted if groups cannot access or safely use it; co-design can improve relevance and legitimacy.
+- Factors interact. Strong evidence may still produce slow uptake if cost/access/trust are poor; high uptake does not itself prove scientific validity.
+- Analyse cases using claim/practice → evidence → stakeholders → enabling/barrier factors → interaction → justified conclusion.
+
+CONTENT BLUEPRINT
+Topic Page: validity-versus-adoption distinction; factor framework; interacting causal diagram; vaccination, energy and health-practice cases; equity and misinformation.
+Classroom View: stakeholder mapping, adoption-barrier ranking, evidence-versus-popularity sort and intervention design.
+Homework: analyse two adoption cases, compare stakeholder perspectives, evaluate a communication plan and justify the highest-leverage factor.
+Practice 48: 8 definitions/distinctions; 8 evidence factors; 8 trust/communication; 8 practical/policy; 8 values/equity; 8 multi-factor case analyses.
+Test 16: independent societal cases requiring evidence-backed causal analysis and factor interactions, including at least 4 equity/trust items.
+
+MISCONCEPTIONS
+Strong evidence guarantees immediate adoption; popularity proves truth; non-adoption means ignorance; communication alone fixes access; all disagreement is misinformation; policy adoption proves scientific certainty; one factor explains every group; trust means accepting claims without evidence. Feedback must separate evidence status from adoption conditions and add the missing stakeholder factor.
+
+STATUS: AUTHORING-READY
+
+==================================================
+AC9S9H04
+CURRICULUM DESCRIPTION
+Examine how the values and needs of society influence the focus of scientific research.
+
+CURRICULUM BOUNDARY
+Students examine how research questions, priorities and funding are shaped by public needs, values, emergencies, ethics, equity, environmental concerns and economic goals. They must distinguish legitimate agenda-setting influences from distortion of methods or results.
+
+SOURCE EVIDENCE
+1. Australian Curriculum v9: exact description above. “Focus of scientific research” concerns what is investigated and resourced, not allowing values to determine whether evidence is accepted.
+2. IXL Australia, authenticated Year 9 Science: KK.1 fossil-fuel claims and KK.2 groundwater-use claims supply resource-policy contexts; B-series engineering skills provide criteria/constraints. The live KK.2 item uses USGS freshwater-withdrawal data from 1950–2005 and asks which trend claim is supported. This supports need/evidence analysis, but direct research-priority analysis is SOURCE-NOT-MAPPED.
+3. Khan Academy: “Is technology as neutral as we think it is?” raises how values shape technological choices and consequences; citizen-science and public-health resources offer supplementary participation cases. No direct scientific-research-priority skill was located; SOURCE-PARTIAL-MAPPING.
+4. Australia’s National Science and Research Priorities (Department of Industry, Science and Resources) explicitly use community input, expert advice, major societal challenges, evidence, relevance and expected societal benefit to guide investment.
+5. NHMRC and ARC funding structures demonstrate how disease burden, national capability, strategic priorities, research quality, ethics and expected benefit affect public research allocation.
+6. CSIRO strategy and missions show problem-driven research responding to climate, health, biosecurity, industry and sustainability needs.
+7. ABC Education search: no stable direct code-level mapping located; SOURCE-NOT-MAPPED.
+
+AUTHORING-READY KNOWLEDGE
+- Society influences research focus through public funding, private investment, laws, institutions, community advocacy, consumer demand and urgent events.
+- Needs include health burden, food/water security, disaster risk, climate adaptation, biodiversity, national security and economic capability.
+- Values include fairness, sustainability, privacy, animal welfare, cultural responsibility, safety and acceptable risk.
+- Research resources are finite, so priorities involve trade-offs among urgency, scale of benefit, feasibility, cost, uncertainty and long-term capacity.
+- Emergencies can accelerate funding and collaboration, but neglected long-term or less-visible problems may remain underfunded.
+- Market incentives can support useful innovation yet underfund research whose benefits are public, long-term or concentrated in low-income groups.
+- Advocacy and lived experience can reveal neglected questions, while inclusive consultation and First Nations partnership can improve relevance and ethical legitimacy.
+- Values appropriately shape topic choice, acceptable methods and application; they should not be used to fabricate data or predetermine conclusions.
+- A priority is not necessarily the “most important” in absolute terms; identify stakeholder, criterion, evidence and opportunity cost.
+- Research can also change societal values and perceived needs, creating a two-way relationship.
+- Analyse a funding choice with: need/value → stakeholder evidence → proposed focus → benefit → trade-off/unintended effect.
+
+CONTENT BLUEPRINT
+Topic Page: agenda-setting pathways; need/value distinction; funding and stakeholder map; Australian national-priority examples; ethics/equity; limits on influence.
+Classroom View: mock funding panel, stakeholder evidence cards, priority matrix and neglected-research case.
+Homework: compare proposals, justify allocation under constraints, identify whose needs are represented and critique value–evidence confusion.
+Practice 48: 8 terms/pathways; 8 societal needs; 8 values/ethics; 8 funding/trade-offs; 8 stakeholders/equity; 8 Australian case analyses.
+Test 16: novel research-priority cases requiring justified trade-offs, stakeholder/equity analysis and distinction between agenda and results.
+
+MISCONCEPTIONS
+Science chooses topics without society; values make research unscientific; majority preference should determine results; urgent always means highest benefit; funding proves a conclusion; private research has no social value; public consultation replaces expertise; every stakeholder has equal power. Feedback must locate where influence is legitimate and protect evidence standards.
+
+STATUS: AUTHORING-READY
+
+==================================================
+AC9S9I01
+CURRICULUM DESCRIPTION
+Develop investigable questions, reasoned predictions and hypotheses to test relationships and develop explanatory models.
+
+CURRICULUM BOUNDARY
+Students convert a broad problem into a feasible measurable question, distinguish question, prediction and hypothesis, identify variables, justify expected relationships with scientific reasoning and connect tests to explanatory-model development. Full statistical hypothesis testing is outside the code.
+
+SOURCE EVIDENCE
+1. Australian Curriculum v9: exact description above. The code requires students to generate and justify—not merely recognise—questions, predictions and hypotheses.
+2. IXL Australia, authenticated Year 9 Science: A.1 scientific inquiry; A.3 independent/dependent variables; A.4 experimental question; A.5 investigable questions from materials. The live A.4 task describes eight rock-candy jars differing only in white versus brown sugar, with crystal size measured after one week; learners choose the question about sugar type and crystal size rather than an unmanipulated sugar amount. This directly tests alignment between method, variables and question.
+3. Khan Academy, authenticated/public “The scientific method” identifies the independent variable as manipulated and the dependent variable as measured, and connects observations, hypotheses, experiments and revision. The dependent/independent-variable review supports operational variable identification.
+4. OpenStax Biology’s process-of-science material distinguishes testable hypotheses from predictions and describes controlled experiments and model revision.
+5. University of California Museum of Paleontology’s Understanding Science resources present science as iterative: questions, hypotheses, tests, community analysis and revised explanations.
+6. Science Buddies’ educator resources provide practical criteria for testable questions and “If…then…because…” hypothesis scaffolds; use the scaffold without treating one sentence frame as compulsory.
+7. ABC Education search: no stable direct code-level mapping located; SOURCE-NOT-MAPPED.
+
+AUTHORING-READY KNOWLEDGE
+- An investigable question can be answered with obtainable observations or measurements, is specific and feasible, and identifies what relationship/comparison is examined.
+- Experimental form often asks how an independent variable affects a dependent variable under stated conditions; observational questions can test relationships without manipulation.
+- Independent variable is deliberately changed; dependent variable is measured; controlled variables are kept sufficiently consistent to isolate the relationship.
+- Operational definitions state exactly how a variable is changed or measured, making the question testable and reproducible.
+- A hypothesis is a tentative explanatory claim about a relationship, grounded in prior knowledge; it is not a question, guess or final conclusion.
+- A prediction states the expected observable result if the hypothesis/model applies. “If IV changes, then DV will…, because…” can link prediction and reasoning but is not the only valid form.
+- A prediction may be supported or not supported; one result does not “prove” a hypothesis.
+- Reasoning must connect a scientific mechanism/model to the predicted direction or pattern.
+- Correlational questions do not by themselves establish causation; causal language requires a design capable of isolating the proposed cause.
+- Models are refined when predictions conflict with reliable evidence; unexpected results can expose missing variables or limits.
+- Questions must be ethical, safe, measurable within time/resources and matched to the available method/materials.
+- Alignment check: question, hypothesis, IV, DV, method, data and conclusion must refer to the same relationship.
+
+CONTENT BLUEPRINT
+Topic Page: curiosity-to-question funnel; variable and operational-definition guide; question/prediction/hypothesis distinctions; reasoning chain; causal versus correlational cases; model refinement.
+Classroom View: repair vague questions, variable-card matching, hypothesis–prediction–mechanism triads and model test challenge.
+Homework: develop questions from materials, write justified hypotheses/predictions, audit alignment and revise an explanatory model after data.
+Practice 48: 10 investigability; 8 variables/operations; 8 questions; 8 hypotheses; 8 predictions/reasoning; 6 explanatory-model alignment.
+Test 16: unfamiliar investigations requiring original constructions and critiques, with at least 6 generation items rather than recognition only.
+
+MISCONCEPTIONS
+Every question is investigable; hypothesis equals prediction; a hypothesis must be correct; dependent variable is held constant; all relationships are causal; “if–then” alone supplies reasoning; one confirming result proves a model; an unsupported prediction makes the investigation useless. Feedback must realign the variables, measurable outcome and mechanism.
+
+STATUS: AUTHORING-READY
+
+==================================================
+BATCH 3 CHECKPOINT
+Completed: AC9S9H02, AC9S9H03, AC9S9H04, AC9S9I01
+All four codes now have exact curriculum boundaries, sequential authenticated single-tab IXL evidence or explicit direct-mapping limits, sequential single-tab Khan evidence or explicit partial mappings, reputable public-source comparison, misconception controls and authoring blueprints.
+Next unfinished code: AC9S9I02
