@@ -3,14 +3,23 @@ Australian Curriculum v9 | SkillrHub
 Last updated: 2026-09-11
 
 PROJECT_STATUS: IN_PROGRESS
-CURRENT_PHASE: AUTHORING_PENDING
-CURRENT_CODE: NONE
+CURRENT_PHASE: AUTHORING_BATCH_1_REVIEWED — PUBLICATION_PENDING
+CURRENT_CODE: AC9S6U01–AC9S6U04
 LAST_COMPLETED_CODE: AC9S6I06
-NEXT_CODE: AC9S6U01
-AUTHORING_STARTED: NO
-CONTENT_VERIFIED_COUNT: 0
+NEXT_CODE: AC9S6H01
+AUTHORING_STARTED: YES
+CONTENT_VERIFIED_COUNT: 4
 BLOCKER: NONE
 BATCH: 3 OF 3 COMPLETED — ALL 12 CODES AUTHORING-READY
+
+Authoring checkpoint — 2026-09-11
+- AC9S6U01, AC9S6U02, AC9S6U03 and AC9S6U04 were freshly re-authored from the completed research blueprint.
+- Each code now has 48 distinct Practice items, 16 separate unseen Test items, 12 independently selected written worksheet tasks, a static code-specific Topic Guide and 9 fixed branded Classroom View slides.
+- Canonical banks and live Practice/Test mirrors were rebuilt and structurally validated.
+- Year 6 Science static-topic validation passes 12/12; the four rebuilt viewers are noindex/follow, parent-canonical and expose no PPTX/PDF download.
+- Independent review identified worksheet-independence and two item-alignment issues; all were corrected and independently rechecked.
+- Final independent result: PASS. Reviewed artifact SHA-256: 620b1b0ce9bb0d52bd8419cae00124c0a520be9dbde8a465c6eccc5ba9d2f22b.
+- AC9S6U01–AC9S6U04 are recorded in the review-aware ledger. The Year 6 Science learning-area badge remains off until all 12 codes are reviewed and recorded.
 
 Research protocol
 - Primary curriculum authority: Australian Curriculum v9 (ACARA).

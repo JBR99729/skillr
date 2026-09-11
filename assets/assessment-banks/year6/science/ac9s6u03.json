@@ -1,1322 +1,2754 @@
 [
   {
-    "id": "ac9s6u03-p-001",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U03-P-001",
     "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "circuits energy",
-    "question": "A lamp lights only when the wire path is complete. What does this show?",
-    "audio_prompt": "A lamp lights only when the wire path is complete. What does this show?",
+    "stage": "foundation",
+    "skill": "complete_circuit",
+    "question": "A cell, closed switch and lamp are joined by metal wires in one loop. What must be true for the device to operate?",
+    "audio_prompt": "A cell, closed switch and lamp are joined by metal wires in one loop. What must be true for the device to operate?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A closed circuit is needed for electrical energy transfer.",
+        "text": "There must be an unbroken conducting loop from one cell terminal through the lamp to the other terminal.",
         "is_correct": true
       },
       {
-        "text": "Current is stored inside the lamp.",
+        "text": "The switch must create new electricity.",
         "is_correct": false
       },
       {
-        "text": "Plastic wire covering conducts electricity.",
+        "text": "The current must stop at the device.",
+        "is_correct": false
+      },
+      {
+        "text": "Every part must be made of plastic.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A closed circuit is needed for electrical energy transfer.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "There must be an unbroken conducting loop from one cell terminal through the lamp to the other terminal. A working simple circuit needs an unbroken conducting path.",
+      "hint": "Trace one continuous path from one cell terminal back to the other."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 1,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u03-p-002",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U03-P-002",
     "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "circuits energy",
-    "question": "Why does a switch turn a lamp off when opened?",
-    "audio_prompt": "Why does a switch turn a lamp off when opened?",
+    "stage": "foundation",
+    "skill": "component_function",
+    "question": "A cell, closed switch and lamp are joined by metal wires in one loop. What is the main role of the cell?",
+    "audio_prompt": "A cell, closed switch and lamp are joined by metal wires in one loop. What is the main role of the cell?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It uses up all the current.",
+        "text": "It creates matter inside the circuit.",
         "is_correct": false
       },
       {
-        "text": "It breaks the conducting path.",
+        "text": "The cell supplies energy to the circuit.",
         "is_correct": true
       },
       {
-        "text": "It changes the lamp into an insulator.",
+        "text": "It uses up all current before it returns to the cell.",
+        "is_correct": false
+      },
+      {
+        "text": "It replaces the need for a complete path.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "It breaks the conducting path.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The cell supplies energy to the circuit.",
+      "hint": "Describe what the component does in the circuit, not where it is drawn."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 2,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u03-p-003",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U03-P-003",
     "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "circuits energy",
-    "question": "A motor in a circuit spins and warms slightly. Which energy transformation is shown?",
-    "audio_prompt": "A motor in a circuit spins and warms slightly. Which energy transformation is shown?",
+    "stage": "core",
+    "skill": "energy_transformation",
+    "question": "A cell, closed switch and lamp are joined by metal wires in one loop. Which energy transformation occurs in the load?",
+    "audio_prompt": "A cell, closed switch and lamp are joined by metal wires in one loop. Which energy transformation occurs in the load?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Light energy changes into sound only.",
+        "text": "light energy to chemical energy only",
         "is_correct": false
       },
       {
-        "text": "Thermal energy changes into stored chemical energy.",
+        "text": "sound energy to stored gravitational energy",
         "is_correct": false
       },
       {
-        "text": "Electrical energy changes into movement and thermal energy.",
+        "text": "Electrical energy is transformed mainly into light and thermal energy.",
         "is_correct": true
+      },
+      {
+        "text": "no energy transfer or transformation",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Electrical energy changes into movement and thermal energy.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Electrical energy is transformed mainly into light and thermal energy. The cell supplies energy that the load changes into observable forms.",
+      "hint": "Identify the useful output and any noticeable heat."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 3,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u03-p-004",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U03-P-004",
     "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "circuits energy",
-    "question": "Which material is most useful for connecting parts of a circuit?",
-    "audio_prompt": "Which material is most useful for connecting parts of a circuit?",
+    "stage": "application",
+    "skill": "conductors_and_insulators",
+    "question": "A lamp lead needs a safe flexible wire. Which design choice is best and why?",
+    "audio_prompt": "A lamp lead needs a safe flexible wire. Which design choice is best and why?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Copper wire.",
-        "is_correct": true
-      },
-      {
-        "text": "Rubber band.",
+        "text": "Use bare metal everywhere because safety is irrelevant.",
         "is_correct": false
       },
       {
-        "text": "Dry wooden stick.",
+        "text": "Use plastic as the conducting core because all solids conduct equally.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the conducting path and expect the device to work.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a metal core to conduct and a plastic coating to insulate.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Metal provides the conducting path while plastic reduces contact with the conductor.",
+      "hint": "Separate the conducting core from the insulating safety covering."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 4,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U03-P-005",
+    "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "diagnose_evidence",
+    "question": "The lamp turns off when one wire is lifted from its terminal. What is the best first explanation?",
+    "audio_prompt": "The lamp turns off when one wire is lifted from its terminal. What is the best first explanation?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The lifted wire opens the conducting path.",
+        "is_correct": true
+      },
+      {
+        "text": "The device has used up all current permanently.",
+        "is_correct": false
+      },
+      {
+        "text": "The switch has destroyed electrical energy.",
+        "is_correct": false
+      },
+      {
+        "text": "Current can jump any gap without a conductor.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Copper wire.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The observation directly shows that breaking the loop stops operation.",
+      "hint": "Use the observation to locate a break, poor contact or unsuitable material."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 5,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u03-p-005",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U03-P-006",
     "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "circuits energy",
-    "question": "Why can one lamp stay on in a parallel circuit when another branch opens?",
-    "audio_prompt": "Why can one lamp stay on in a parallel circuit when another branch opens?",
+    "stage": "challenge",
+    "skill": "fair_investigation",
+    "question": "Students compare copper and plastic strips in the gap of the same lamp circuit. Which method gives the fairest evidence?",
+    "audio_prompt": "Students compare copper and plastic strips in the gap of the same lamp circuit. Which method gives the fairest evidence?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parallel circuits have no wires.",
+        "text": "Change the cell, wires and load at the same time.",
         "is_correct": false
       },
       {
-        "text": "The working branch still has its own complete path.",
+        "text": "Keep the cell, lamp, strip dimensions and contacts the same; change only the material and repeat trials.",
         "is_correct": true
       },
       {
-        "text": "The open branch gives extra current to the other lamp.",
+        "text": "Use one trial and assume it applies to every circuit.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the result that matches the prediction and ignore the rest.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The working branch still has its own complete path.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Keep the cell, lamp, strip dimensions and contacts the same; change only the material and repeat trials. Changing one factor and repeating the test makes the comparison more dependable.",
+      "hint": "Keep all factors except the tested one the same."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 6,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u03-p-006",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U03-P-007",
     "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "circuits energy",
-    "question": "Two lamps in series become dimmer than one lamp. What is a likely reason?",
-    "audio_prompt": "Two lamps in series become dimmer than one lamp. What is a likely reason?",
+    "stage": "foundation",
+    "skill": "complete_circuit",
+    "question": "A buzzer sounds when a push switch is held closed. What must be true for the device to operate?",
+    "audio_prompt": "A buzzer sounds when a push switch is held closed. What must be true for the device to operate?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The current disappears after the first lamp.",
+        "text": "The switch must create new electricity.",
         "is_correct": false
       },
       {
-        "text": "Series means each lamp has a separate battery.",
+        "text": "The current must stop at the device.",
         "is_correct": false
       },
       {
-        "text": "The same energy source is shared through one path.",
+        "text": "The closed switch must complete a conducting path through the buzzer.",
         "is_correct": true
+      },
+      {
+        "text": "Every part must be made of plastic.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The same energy source is shared through one path.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The closed switch must complete a conducting path through the buzzer. A working simple circuit needs an unbroken conducting path.",
+      "hint": "Trace one continuous path from one cell terminal back to the other."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 7,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u03-p-007",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U03-P-008",
     "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "circuits energy",
-    "question": "What is the role of the cell or battery?",
-    "audio_prompt": "What is the role of the cell or battery?",
+    "stage": "foundation",
+    "skill": "component_function",
+    "question": "A buzzer sounds when a push switch is held closed. What is the main role of the push switch?",
+    "audio_prompt": "A buzzer sounds when a push switch is held closed. What is the main role of the push switch?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It supplies electrical energy to the circuit.",
-        "is_correct": true
-      },
-      {
-        "text": "It blocks all charge movement.",
+        "text": "It creates matter inside the circuit.",
         "is_correct": false
       },
       {
-        "text": "It changes metal into plastic.",
+        "text": "It uses up all current before it returns to the cell.",
+        "is_correct": false
+      },
+      {
+        "text": "It replaces the need for a complete path.",
+        "is_correct": false
+      },
+      {
+        "text": "The switch controls whether the conducting path is open or closed.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The switch controls whether the conducting path is open or closed.",
+      "hint": "Describe what the component does in the circuit, not where it is drawn."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 8,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U03-P-009",
+    "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "energy_transformation",
+    "question": "A buzzer sounds when a push switch is held closed. Which energy transformation occurs in the load?",
+    "audio_prompt": "A buzzer sounds when a push switch is held closed. Which energy transformation occurs in the load?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Electrical energy is transformed mainly into sound and some thermal energy.",
+        "is_correct": true
+      },
+      {
+        "text": "light energy to chemical energy only",
+        "is_correct": false
+      },
+      {
+        "text": "sound energy to stored gravitational energy",
+        "is_correct": false
+      },
+      {
+        "text": "no energy transfer or transformation",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "It supplies electrical energy to the circuit.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Electrical energy is transformed mainly into sound and some thermal energy. The cell supplies energy that the load changes into observable forms.",
+      "hint": "Identify the useful output and any noticeable heat."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 9,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u03-p-008",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U03-P-010",
     "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "circuits energy",
-    "question": "A student draws crossing lines and calls it parallel. What should they check?",
-    "audio_prompt": "A student draws crossing lines and calls it parallel. What should they check?",
+    "stage": "application",
+    "skill": "conductors_and_insulators",
+    "question": "The push button must be touched safely. Which design choice is best and why?",
+    "audio_prompt": "The push button must be touched safely. Which design choice is best and why?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Whether the lines look neat.",
+        "text": "Use bare metal everywhere because safety is irrelevant.",
         "is_correct": false
       },
       {
-        "text": "Whether there are separate complete paths, not just how the drawing looks.",
+        "text": "Use conducting metal contacts inside and an insulating plastic button outside.",
         "is_correct": true
       },
       {
-        "text": "Whether both lamps are drawn at the top.",
+        "text": "Use plastic as the conducting core because all solids conduct equally.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the conducting path and expect the device to work.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Whether there are separate complete paths, not just how the drawing looks.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The contacts complete the circuit while the outer button separates the user from the conductor.",
+      "hint": "Separate the conducting core from the insulating safety covering."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 10,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u03-p-009",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U03-P-011",
     "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "circuits energy",
-    "question": "A lamp lights only when the wire path is complete. What does this show in a new class investigation?",
-    "audio_prompt": "A lamp lights only when the wire path is complete. What does this show in a new class investigation?",
+    "stage": "application",
+    "skill": "diagnose_evidence",
+    "question": "The buzzer is silent although the switch is closed; one terminal is loose. What is the best first explanation?",
+    "audio_prompt": "The buzzer is silent although the switch is closed; one terminal is loose. What is the best first explanation?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Current is stored inside the lamp.",
+        "text": "The device has used up all current permanently.",
         "is_correct": false
       },
       {
-        "text": "Plastic wire covering conducts electricity.",
+        "text": "The switch has destroyed electrical energy.",
         "is_correct": false
       },
       {
-        "text": "A closed circuit is needed for electrical energy transfer.",
+        "text": "The loose terminal may leave a gap in the circuit.",
         "is_correct": true
+      },
+      {
+        "text": "Current can jump any gap without a conductor.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A closed circuit is needed for electrical energy transfer.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A closed switch cannot compensate for a break elsewhere in the path.",
+      "hint": "Use the observation to locate a break, poor contact or unsuitable material."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 11,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u03-p-010",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U03-P-012",
     "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "circuits energy",
-    "question": "Why does a switch turn a lamp off when opened in a new class investigation?",
-    "audio_prompt": "Why does a switch turn a lamp off when opened in a new class investigation?",
+    "stage": "challenge",
+    "skill": "fair_investigation",
+    "question": "Students test whether tighter contacts affect whether the buzzer sounds. Which method gives the fairest evidence?",
+    "audio_prompt": "Students test whether tighter contacts affect whether the buzzer sounds. Which method gives the fairest evidence?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It breaks the conducting path.",
-        "is_correct": true
-      },
-      {
-        "text": "It uses up all the current.",
+        "text": "Change the cell, wires and load at the same time.",
         "is_correct": false
       },
       {
-        "text": "It changes the lamp into an insulator.",
+        "text": "Use one trial and assume it applies to every circuit.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the result that matches the prediction and ignore the rest.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the same cell and buzzer, change only contact tightness, and repeat each condition.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the same cell and buzzer, change only contact tightness, and repeat each condition. Changing one factor and repeating the test makes the comparison more dependable.",
+      "hint": "Keep all factors except the tested one the same."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 12,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U03-P-013",
+    "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "complete_circuit",
+    "question": "A small motor turns a fan blade and the motor becomes slightly warm. What must be true for the device to operate?",
+    "audio_prompt": "A small motor turns a fan blade and the motor becomes slightly warm. What must be true for the device to operate?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The motor must be connected in a complete conducting circuit.",
+        "is_correct": true
+      },
+      {
+        "text": "The switch must create new electricity.",
+        "is_correct": false
+      },
+      {
+        "text": "The current must stop at the device.",
+        "is_correct": false
+      },
+      {
+        "text": "Every part must be made of plastic.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "It breaks the conducting path.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The motor must be connected in a complete conducting circuit. A working simple circuit needs an unbroken conducting path.",
+      "hint": "Trace one continuous path from one cell terminal back to the other."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 13,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u03-p-011",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U03-P-014",
     "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "circuits energy",
-    "question": "A motor in a circuit spins and warms slightly. Which energy transformation is shown in a new class investigation?",
-    "audio_prompt": "A motor in a circuit spins and warms slightly. Which energy transformation is shown in a new class investigation?",
+    "stage": "core",
+    "skill": "component_function",
+    "question": "A small motor turns a fan blade and the motor becomes slightly warm. What is the main role of the motor?",
+    "audio_prompt": "A small motor turns a fan blade and the motor becomes slightly warm. What is the main role of the motor?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Light energy changes into sound only.",
+        "text": "It creates matter inside the circuit.",
         "is_correct": false
       },
       {
-        "text": "Electrical energy changes into movement and thermal energy.",
+        "text": "The motor transforms electrical energy into movement, with some energy becoming heat and sound.",
         "is_correct": true
       },
       {
-        "text": "Thermal energy changes into stored chemical energy.",
+        "text": "It uses up all current before it returns to the cell.",
+        "is_correct": false
+      },
+      {
+        "text": "It replaces the need for a complete path.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Electrical energy changes into movement and thermal energy.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The motor transforms electrical energy into movement, with some energy becoming heat and sound.",
+      "hint": "Describe what the component does in the circuit, not where it is drawn."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 14,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u03-p-012",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U03-P-015",
     "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "circuits energy",
-    "question": "Which material is most useful for connecting parts of a circuit in a new class investigation?",
-    "audio_prompt": "Which material is most useful for connecting parts of a circuit in a new class investigation?",
+    "stage": "core",
+    "skill": "energy_transformation",
+    "question": "A small motor turns a fan blade and the motor becomes slightly warm. Which energy transformation occurs in the load?",
+    "audio_prompt": "A small motor turns a fan blade and the motor becomes slightly warm. Which energy transformation occurs in the load?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Rubber band.",
+        "text": "light energy to chemical energy only",
         "is_correct": false
       },
       {
-        "text": "Dry wooden stick.",
+        "text": "sound energy to stored gravitational energy",
         "is_correct": false
       },
       {
-        "text": "Copper wire.",
+        "text": "Electrical energy is transformed into kinetic, thermal and sound energy.",
         "is_correct": true
+      },
+      {
+        "text": "no energy transfer or transformation",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Copper wire.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Electrical energy is transformed into kinetic, thermal and sound energy. The cell supplies energy that the load changes into observable forms.",
+      "hint": "Identify the useful output and any noticeable heat."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 15,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u03-p-013",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U03-P-016",
     "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "circuits energy",
-    "question": "Why can one lamp stay on in a parallel circuit when another branch opens in a new class investigation?",
-    "audio_prompt": "Why can one lamp stay on in a parallel circuit when another branch opens in a new class investigation?",
+    "stage": "application",
+    "skill": "conductors_and_insulators",
+    "question": "The fan housing surrounds the spinning motor connections. Which design choice is best and why?",
+    "audio_prompt": "The fan housing surrounds the spinning motor connections. Which design choice is best and why?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The working branch still has its own complete path.",
-        "is_correct": true
-      },
-      {
-        "text": "Parallel circuits have no wires.",
+        "text": "Use bare metal everywhere because safety is irrelevant.",
         "is_correct": false
       },
       {
-        "text": "The open branch gives extra current to the other lamp.",
+        "text": "Use plastic as the conducting core because all solids conduct equally.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the conducting path and expect the device to work.",
+        "is_correct": false
+      },
+      {
+        "text": "Use conductors in the internal circuit and an insulating housing around accessible parts.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The circuit needs conductive connections, while the housing provides safer separation.",
+      "hint": "Separate the conducting core from the insulating safety covering."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 16,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U03-P-017",
+    "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "diagnose_evidence",
+    "question": "The motor works with a metal paperclip bridging a gap but not with a rubber band. What is the best first explanation?",
+    "audio_prompt": "The motor works with a metal paperclip bridging a gap but not with a rubber band. What is the best first explanation?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The paperclip conducts, whereas the rubber band does not complete a conducting path.",
+        "is_correct": true
+      },
+      {
+        "text": "The device has used up all current permanently.",
+        "is_correct": false
+      },
+      {
+        "text": "The switch has destroyed electrical energy.",
+        "is_correct": false
+      },
+      {
+        "text": "Current can jump any gap without a conductor.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The working branch still has its own complete path.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The contrasting result is evidence about material conductivity.",
+      "hint": "Use the observation to locate a break, poor contact or unsuitable material."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 17,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u03-p-014",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U03-P-018",
     "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "circuits energy",
-    "question": "Two lamps in series become dimmer than one lamp. What is a likely reason in a new class investigation?",
-    "audio_prompt": "Two lamps in series become dimmer than one lamp. What is a likely reason in a new class investigation?",
+    "stage": "challenge",
+    "skill": "fair_investigation",
+    "question": "Students compare blade speed using one cell and then two cells. Which method gives the fairest evidence?",
+    "audio_prompt": "Students compare blade speed using one cell and then two cells. Which method gives the fairest evidence?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The current disappears after the first lamp.",
+        "text": "Change the cell, wires and load at the same time.",
         "is_correct": false
       },
       {
-        "text": "The same energy source is shared through one path.",
+        "text": "Keep the motor, blade and wires unchanged, change only the number of cells, and repeat measurements.",
         "is_correct": true
       },
       {
-        "text": "Series means each lamp has a separate battery.",
+        "text": "Use one trial and assume it applies to every circuit.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the result that matches the prediction and ignore the rest.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The same energy source is shared through one path.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Keep the motor, blade and wires unchanged, change only the number of cells, and repeat measurements. Changing one factor and repeating the test makes the comparison more dependable.",
+      "hint": "Keep all factors except the tested one the same."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 18,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u03-p-015",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U03-P-019",
     "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "circuits energy",
-    "question": "What is the role of the cell or battery in a new class investigation?",
-    "audio_prompt": "What is the role of the cell or battery in a new class investigation?",
+    "stage": "core",
+    "skill": "complete_circuit",
+    "question": "Two lamps are connected on separate branches across the same cell. What must be true for the device to operate?",
+    "audio_prompt": "Two lamps are connected on separate branches across the same cell. What must be true for the device to operate?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It blocks all charge movement.",
+        "text": "The switch must create new electricity.",
         "is_correct": false
       },
       {
-        "text": "It changes metal into plastic.",
+        "text": "The current must stop at the device.",
         "is_correct": false
       },
       {
-        "text": "It supplies electrical energy to the circuit.",
+        "text": "Each lamp needs its own complete branch connected across the cell.",
         "is_correct": true
+      },
+      {
+        "text": "Every part must be made of plastic.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "It supplies electrical energy to the circuit.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Each lamp needs its own complete branch connected across the cell. A working simple circuit needs an unbroken conducting path.",
+      "hint": "Trace one continuous path from one cell terminal back to the other."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 19,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u03-p-016",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U03-P-020",
     "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "circuits energy",
-    "question": "A student draws crossing lines and calls it parallel. What should they check in a new class investigation?",
-    "audio_prompt": "A student draws crossing lines and calls it parallel. What should they check in a new class investigation?",
+    "stage": "core",
+    "skill": "component_function",
+    "question": "Two lamps are connected on separate branches across the same cell. What is the main role of a branch wire?",
+    "audio_prompt": "Two lamps are connected on separate branches across the same cell. What is the main role of a branch wire?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Whether there are separate complete paths, not just how the drawing looks.",
-        "is_correct": true
-      },
-      {
-        "text": "Whether the lines look neat.",
+        "text": "It creates matter inside the circuit.",
         "is_correct": false
       },
       {
-        "text": "Whether both lamps are drawn at the top.",
+        "text": "It uses up all current before it returns to the cell.",
+        "is_correct": false
+      },
+      {
+        "text": "It replaces the need for a complete path.",
+        "is_correct": false
+      },
+      {
+        "text": "The branch wire provides an alternative conducting path.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The branch wire provides an alternative conducting path.",
+      "hint": "Describe what the component does in the circuit, not where it is drawn."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 20,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U03-P-021",
+    "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "energy_transformation",
+    "question": "Two lamps are connected on separate branches across the same cell. Which energy transformation occurs in the load?",
+    "audio_prompt": "Two lamps are connected on separate branches across the same cell. Which energy transformation occurs in the load?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Each lamp transforms electrical energy into light and thermal energy.",
+        "is_correct": true
+      },
+      {
+        "text": "light energy to chemical energy only",
+        "is_correct": false
+      },
+      {
+        "text": "sound energy to stored gravitational energy",
+        "is_correct": false
+      },
+      {
+        "text": "no energy transfer or transformation",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Whether there are separate complete paths, not just how the drawing looks.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Each lamp transforms electrical energy into light and thermal energy. The cell supplies energy that the load changes into observable forms.",
+      "hint": "Identify the useful output and any noticeable heat."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 21,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u03-p-017",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U03-P-022",
     "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "circuits energy",
-    "question": "A lamp lights only when the wire path is complete. What does this show after students review their evidence?",
-    "audio_prompt": "A lamp lights only when the wire path is complete. What does this show after students review their evidence?",
+    "stage": "application",
+    "skill": "conductors_and_insulators",
+    "question": "A broken branch wire must be replaced. Which design choice is best and why?",
+    "audio_prompt": "A broken branch wire must be replaced. Which design choice is best and why?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Current is stored inside the lamp.",
+        "text": "Use bare metal everywhere because safety is irrelevant.",
         "is_correct": false
       },
       {
-        "text": "A closed circuit is needed for electrical energy transfer.",
+        "text": "Use insulated copper wire of a suitable size.",
         "is_correct": true
       },
       {
-        "text": "Plastic wire covering conducts electricity.",
+        "text": "Use plastic as the conducting core because all solids conduct equally.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the conducting path and expect the device to work.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A closed circuit is needed for electrical energy transfer.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Copper conducts and its coating insulates the accessible surface.",
+      "hint": "Separate the conducting core from the insulating safety covering."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 22,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u03-p-018",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U03-P-023",
     "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "circuits energy",
-    "question": "Why does a switch turn a lamp off when opened after students review their evidence?",
-    "audio_prompt": "Why does a switch turn a lamp off when opened after students review their evidence?",
+    "stage": "application",
+    "skill": "diagnose_evidence",
+    "question": "One branch is opened; one lamp turns off but the other stays lit. What is the best first explanation?",
+    "audio_prompt": "One branch is opened; one lamp turns off but the other stays lit. What is the best first explanation?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It uses up all the current.",
+        "text": "The device has used up all current permanently.",
         "is_correct": false
       },
       {
-        "text": "It changes the lamp into an insulator.",
+        "text": "The switch has destroyed electrical energy.",
         "is_correct": false
       },
       {
-        "text": "It breaks the conducting path.",
+        "text": "The remaining lamp still has a complete path through its own branch.",
         "is_correct": true
+      },
+      {
+        "text": "Current can jump any gap without a conductor.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "It breaks the conducting path.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Parallel branches provide separate paths; opening one need not break the other.",
+      "hint": "Use the observation to locate a break, poor contact or unsuitable material."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 23,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u03-p-019",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U03-P-024",
     "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "circuits energy",
-    "question": "A motor in a circuit spins and warms slightly. Which energy transformation is shown after students review their evidence?",
-    "audio_prompt": "A motor in a circuit spins and warms slightly. Which energy transformation is shown after students review their evidence?",
+    "stage": "challenge",
+    "skill": "fair_investigation",
+    "question": "Students compare one-lamp and two-branch arrangements. Which method gives the fairest evidence?",
+    "audio_prompt": "Students compare one-lamp and two-branch arrangements. Which method gives the fairest evidence?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Electrical energy changes into movement and thermal energy.",
-        "is_correct": true
-      },
-      {
-        "text": "Light energy changes into sound only.",
+        "text": "Change the cell, wires and load at the same time.",
         "is_correct": false
       },
       {
-        "text": "Thermal energy changes into stored chemical energy.",
+        "text": "Use one trial and assume it applies to every circuit.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the result that matches the prediction and ignore the rest.",
+        "is_correct": false
+      },
+      {
+        "text": "Use identical lamps and the same cell, changing only whether the second branch is connected.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use identical lamps and the same cell, changing only whether the second branch is connected. Changing one factor and repeating the test makes the comparison more dependable.",
+      "hint": "Keep all factors except the tested one the same."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 24,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U03-P-025",
+    "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "complete_circuit",
+    "question": "Two lamps are connected one after another in a single loop. What must be true for the device to operate?",
+    "audio_prompt": "Two lamps are connected one after another in a single loop. What must be true for the device to operate?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The one loop must remain complete through both lamps.",
+        "is_correct": true
+      },
+      {
+        "text": "The switch must create new electricity.",
+        "is_correct": false
+      },
+      {
+        "text": "The current must stop at the device.",
+        "is_correct": false
+      },
+      {
+        "text": "Every part must be made of plastic.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Electrical energy changes into movement and thermal energy.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The one loop must remain complete through both lamps. A working simple circuit needs an unbroken conducting path.",
+      "hint": "Trace one continuous path from one cell terminal back to the other."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 25,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u03-p-020",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U03-P-026",
     "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "circuits energy",
-    "question": "Which material is most useful for connecting parts of a circuit after students review their evidence?",
-    "audio_prompt": "Which material is most useful for connecting parts of a circuit after students review their evidence?",
+    "stage": "core",
+    "skill": "component_function",
+    "question": "Two lamps are connected one after another in a single loop. What is the main role of either lamp?",
+    "audio_prompt": "Two lamps are connected one after another in a single loop. What is the main role of either lamp?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Rubber band.",
+        "text": "It creates matter inside the circuit.",
         "is_correct": false
       },
       {
-        "text": "Copper wire.",
+        "text": "Each lamp is a load that transforms supplied electrical energy.",
         "is_correct": true
       },
       {
-        "text": "Dry wooden stick.",
+        "text": "It uses up all current before it returns to the cell.",
+        "is_correct": false
+      },
+      {
+        "text": "It replaces the need for a complete path.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Copper wire.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Each lamp is a load that transforms supplied electrical energy.",
+      "hint": "Describe what the component does in the circuit, not where it is drawn."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 26,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u03-p-021",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U03-P-027",
     "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "circuits energy",
-    "question": "Why can one lamp stay on in a parallel circuit when another branch opens after students review their evidence?",
-    "audio_prompt": "Why can one lamp stay on in a parallel circuit when another branch opens after students review their evidence?",
+    "stage": "core",
+    "skill": "energy_transformation",
+    "question": "Two lamps are connected one after another in a single loop. Which energy transformation occurs in the load?",
+    "audio_prompt": "Two lamps are connected one after another in a single loop. Which energy transformation occurs in the load?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parallel circuits have no wires.",
+        "text": "light energy to chemical energy only",
         "is_correct": false
       },
       {
-        "text": "The open branch gives extra current to the other lamp.",
+        "text": "sound energy to stored gravitational energy",
         "is_correct": false
       },
       {
-        "text": "The working branch still has its own complete path.",
+        "text": "Electrical energy is transformed into light and heat at both lamps.",
         "is_correct": true
+      },
+      {
+        "text": "no energy transfer or transformation",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The working branch still has its own complete path.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Electrical energy is transformed into light and heat at both lamps. The cell supplies energy that the load changes into observable forms.",
+      "hint": "Identify the useful output and any noticeable heat."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 27,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u03-p-022",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U03-P-028",
     "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "circuits energy",
-    "question": "Two lamps in series become dimmer than one lamp. What is a likely reason after students review their evidence?",
-    "audio_prompt": "Two lamps in series become dimmer than one lamp. What is a likely reason after students review their evidence?",
+    "stage": "application",
+    "skill": "conductors_and_insulators",
+    "question": "A metal washer is inserted between two leads to close a gap. Which design choice is best and why?",
+    "audio_prompt": "A metal washer is inserted between two leads to close a gap. Which design choice is best and why?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The same energy source is shared through one path.",
+        "text": "Use bare metal everywhere because safety is irrelevant.",
+        "is_correct": false
+      },
+      {
+        "text": "Use plastic as the conducting core because all solids conduct equally.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the conducting path and expect the device to work.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the metal washer for conduction but keep exposed connections away from hands.",
         "is_correct": true
-      },
-      {
-        "text": "The current disappears after the first lamp.",
-        "is_correct": false
-      },
-      {
-        "text": "Series means each lamp has a separate battery.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The same energy source is shared through one path.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The washer can complete the path, but exposed conductors require safe handling in a low-voltage classroom circuit.",
+      "hint": "Separate the conducting core from the insulating safety covering."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 28,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u03-p-023",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U03-P-029",
     "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "circuits energy",
-    "question": "What is the role of the cell or battery after students review their evidence?",
-    "audio_prompt": "What is the role of the cell or battery after students review their evidence?",
+    "stage": "application",
+    "skill": "diagnose_evidence",
+    "question": "Removing either lamp makes both lamps turn off. What is the best first explanation?",
+    "audio_prompt": "Removing either lamp makes both lamps turn off. What is the best first explanation?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It blocks all charge movement.",
-        "is_correct": false
-      },
-      {
-        "text": "It supplies electrical energy to the circuit.",
+        "text": "Removing a lamp opens the only available conducting path.",
         "is_correct": true
       },
       {
-        "text": "It changes metal into plastic.",
+        "text": "The device has used up all current permanently.",
+        "is_correct": false
+      },
+      {
+        "text": "The switch has destroyed electrical energy.",
+        "is_correct": false
+      },
+      {
+        "text": "Current can jump any gap without a conductor.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "It supplies electrical energy to the circuit.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A series circuit has one path, so a gap anywhere stops the whole loop.",
+      "hint": "Use the observation to locate a break, poor contact or unsuitable material."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 29,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u03-p-024",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U03-P-030",
     "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "circuits energy",
-    "question": "A student draws crossing lines and calls it parallel. What should they check after students review their evidence?",
-    "audio_prompt": "A student draws crossing lines and calls it parallel. What should they check after students review their evidence?",
+    "stage": "challenge",
+    "skill": "fair_investigation",
+    "question": "Students compare brightness with one identical lamp and then two in series. Which method gives the fairest evidence?",
+    "audio_prompt": "Students compare brightness with one identical lamp and then two in series. Which method gives the fairest evidence?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Whether the lines look neat.",
+        "text": "Change the cell, wires and load at the same time.",
         "is_correct": false
       },
       {
-        "text": "Whether both lamps are drawn at the top.",
-        "is_correct": false
-      },
-      {
-        "text": "Whether there are separate complete paths, not just how the drawing looks.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Whether there are separate complete paths, not just how the drawing looks.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6u03-t-001",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6U03",
-    "bank": "test",
-    "skill": "circuits energy",
-    "question": "A different class checks the same science idea: A student draws crossing lines and calls it parallel. What should they check?",
-    "audio_prompt": "A different class checks the same science idea: A student draws crossing lines and calls it parallel. What should they check?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Whether there are separate complete paths, not just how the drawing looks.",
+        "text": "Use the same cell and identical lamps, changing only the number of lamps in the loop.",
         "is_correct": true
       },
       {
-        "text": "Whether the lines look neat.",
+        "text": "Use one trial and assume it applies to every circuit.",
         "is_correct": false
       },
       {
-        "text": "Whether both lamps are drawn at the top.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Whether there are separate complete paths, not just how the drawing looks.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6u03-t-002",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6U03",
-    "bank": "test",
-    "skill": "circuits energy",
-    "question": "A different class checks the same science idea: What is the role of the cell or battery?",
-    "audio_prompt": "A different class checks the same science idea: What is the role of the cell or battery?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "It blocks all charge movement.",
-        "is_correct": false
-      },
-      {
-        "text": "It supplies electrical energy to the circuit.",
-        "is_correct": true
-      },
-      {
-        "text": "It changes metal into plastic.",
+        "text": "Choose the result that matches the prediction and ignore the rest.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "It supplies electrical energy to the circuit.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Use the same cell and identical lamps, changing only the number of lamps in the loop. Changing one factor and repeating the test makes the comparison more dependable.",
+      "hint": "Keep all factors except the tested one the same."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 30,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u03-t-003",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U03-P-031",
     "curriculum_code": "AC9S6U03",
-    "bank": "test",
-    "skill": "circuits energy",
-    "question": "A different class checks the same science idea: Two lamps in series become dimmer than one lamp. What is a likely reason?",
-    "audio_prompt": "A different class checks the same science idea: Two lamps in series become dimmer than one lamp. What is a likely reason?",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "complete_circuit",
+    "question": "A conductivity tester has a cell and lamp with a test gap. What must be true for the device to operate?",
+    "audio_prompt": "A conductivity tester has a cell and lamp with a test gap. What must be true for the device to operate?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The current disappears after the first lamp.",
+        "text": "The switch must create new electricity.",
         "is_correct": false
       },
       {
-        "text": "Series means each lamp has a separate battery.",
+        "text": "The current must stop at the device.",
         "is_correct": false
       },
       {
-        "text": "The same energy source is shared through one path.",
+        "text": "The tested object must bridge the gap with a conducting material.",
         "is_correct": true
+      },
+      {
+        "text": "Every part must be made of plastic.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The same energy source is shared through one path.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The tested object must bridge the gap with a conducting material. A working simple circuit needs an unbroken conducting path.",
+      "hint": "Trace one continuous path from one cell terminal back to the other."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 31,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u03-t-004",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U03-P-032",
     "curriculum_code": "AC9S6U03",
-    "bank": "test",
-    "skill": "circuits energy",
-    "question": "A different class checks the same science idea: Why can one lamp stay on in a parallel circuit when another branch opens?",
-    "audio_prompt": "A different class checks the same science idea: Why can one lamp stay on in a parallel circuit when another branch opens?",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "component_function",
+    "question": "A conductivity tester has a cell and lamp with a test gap. What is the main role of the lamp?",
+    "audio_prompt": "A conductivity tester has a cell and lamp with a test gap. What is the main role of the lamp?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The working branch still has its own complete path.",
-        "is_correct": true
-      },
-      {
-        "text": "Parallel circuits have no wires.",
+        "text": "It creates matter inside the circuit.",
         "is_correct": false
       },
       {
-        "text": "The open branch gives extra current to the other lamp.",
+        "text": "It uses up all current before it returns to the cell.",
+        "is_correct": false
+      },
+      {
+        "text": "It replaces the need for a complete path.",
+        "is_correct": false
+      },
+      {
+        "text": "The lamp is both a load and an indicator that the path conducts under these conditions.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The lamp is both a load and an indicator that the path conducts under these conditions.",
+      "hint": "Describe what the component does in the circuit, not where it is drawn."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 32,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U03-P-033",
+    "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "energy_transformation",
+    "question": "A conductivity tester has a cell and lamp with a test gap. Which energy transformation occurs in the load?",
+    "audio_prompt": "A conductivity tester has a cell and lamp with a test gap. Which energy transformation occurs in the load?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Electrical energy becomes light and heat when the tested path conducts.",
+        "is_correct": true
+      },
+      {
+        "text": "light energy to chemical energy only",
+        "is_correct": false
+      },
+      {
+        "text": "sound energy to stored gravitational energy",
+        "is_correct": false
+      },
+      {
+        "text": "no energy transfer or transformation",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The working branch still has its own complete path.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Electrical energy becomes light and heat when the tested path conducts. The cell supplies energy that the load changes into observable forms.",
+      "hint": "Identify the useful output and any noticeable heat."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 33,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u03-t-005",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U03-P-034",
     "curriculum_code": "AC9S6U03",
-    "bank": "test",
-    "skill": "circuits energy",
-    "question": "A different class checks the same science idea: Which material is most useful for connecting parts of a circuit?",
-    "audio_prompt": "A different class checks the same science idea: Which material is most useful for connecting parts of a circuit?",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "conductors_and_insulators",
+    "question": "Students test a graphite pencil line and a wooden craft stick. Which design choice is best and why?",
+    "audio_prompt": "Students test a graphite pencil line and a wooden craft stick. Which design choice is best and why?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Rubber band.",
+        "text": "Use bare metal everywhere because safety is irrelevant.",
         "is_correct": false
       },
       {
-        "text": "Copper wire.",
+        "text": "Use the same gap and contact pressure; expect graphite to conduct better than dry wood.",
         "is_correct": true
       },
       {
-        "text": "Dry wooden stick.",
+        "text": "Use plastic as the conducting core because all solids conduct equally.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the conducting path and expect the device to work.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Copper wire.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Conductivity depends on the material and test conditions, so the comparison must be controlled.",
+      "hint": "Separate the conducting core from the insulating safety covering."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 34,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u03-t-006",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U03-P-035",
     "curriculum_code": "AC9S6U03",
-    "bank": "test",
-    "skill": "circuits energy",
-    "question": "A different class checks the same science idea: A motor in a circuit spins and warms slightly. Which energy transformation is shown?",
-    "audio_prompt": "A different class checks the same science idea: A motor in a circuit spins and warms slightly. Which energy transformation is shown?",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "diagnose_evidence",
+    "question": "A metal coin gives no light until its dirty surface is cleaned. What is the best first explanation?",
+    "audio_prompt": "A metal coin gives no light until its dirty surface is cleaned. What is the best first explanation?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Light energy changes into sound only.",
+        "text": "The device has used up all current permanently.",
         "is_correct": false
       },
       {
-        "text": "Thermal energy changes into stored chemical energy.",
+        "text": "The switch has destroyed electrical energy.",
         "is_correct": false
       },
       {
-        "text": "Electrical energy changes into movement and thermal energy.",
+        "text": "Poor contact at the dirty surface may have prevented conduction.",
         "is_correct": true
+      },
+      {
+        "text": "Current can jump any gap without a conductor.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Electrical energy changes into movement and thermal energy.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A conducting material will not complete the circuit if its contacts do not connect effectively.",
+      "hint": "Use the observation to locate a break, poor contact or unsuitable material."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 35,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u03-t-007",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U03-P-036",
     "curriculum_code": "AC9S6U03",
-    "bank": "test",
-    "skill": "circuits energy",
-    "question": "A different class checks the same science idea: Why does a switch turn a lamp off when opened?",
-    "audio_prompt": "A different class checks the same science idea: Why does a switch turn a lamp off when opened?",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "fair_investigation",
+    "question": "Students rank several materials by whether the lamp lights. Which method gives the fairest evidence?",
+    "audio_prompt": "Students rank several materials by whether the lamp lights. Which method gives the fairest evidence?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It breaks the conducting path.",
-        "is_correct": true
-      },
-      {
-        "text": "It uses up all the current.",
+        "text": "Change the cell, wires and load at the same time.",
         "is_correct": false
       },
       {
-        "text": "It changes the lamp into an insulator.",
+        "text": "Use one trial and assume it applies to every circuit.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the result that matches the prediction and ignore the rest.",
+        "is_correct": false
+      },
+      {
+        "text": "Test equal-sized samples in the same gap with the same cell and contact arrangement.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Test equal-sized samples in the same gap with the same cell and contact arrangement. Changing one factor and repeating the test makes the comparison more dependable.",
+      "hint": "Keep all factors except the tested one the same."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 36,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U03-P-037",
+    "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "complete_circuit",
+    "question": "A solar garden light charges during the day and shines at night. What must be true for the device to operate?",
+    "audio_prompt": "A solar garden light charges during the day and shines at night. What must be true for the device to operate?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Its internal circuit must provide a complete path from the energy store through the lamp.",
+        "is_correct": true
+      },
+      {
+        "text": "The switch must create new electricity.",
+        "is_correct": false
+      },
+      {
+        "text": "The current must stop at the device.",
+        "is_correct": false
+      },
+      {
+        "text": "Every part must be made of plastic.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "It breaks the conducting path.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Its internal circuit must provide a complete path from the energy store through the lamp. A working simple circuit needs an unbroken conducting path.",
+      "hint": "Trace one continuous path from one cell terminal back to the other."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 37,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u03-t-008",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U03-P-038",
     "curriculum_code": "AC9S6U03",
-    "bank": "test",
-    "skill": "circuits energy",
-    "question": "A different class checks the same science idea: A lamp lights only when the wire path is complete. What does this show?",
-    "audio_prompt": "A different class checks the same science idea: A lamp lights only when the wire path is complete. What does this show?",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "component_function",
+    "question": "A solar garden light charges during the day and shines at night. What is the main role of the light-emitting diode?",
+    "audio_prompt": "A solar garden light charges during the day and shines at night. What is the main role of the light-emitting diode?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Current is stored inside the lamp.",
+        "text": "It creates matter inside the circuit.",
         "is_correct": false
       },
       {
-        "text": "A closed circuit is needed for electrical energy transfer.",
+        "text": "The LED transforms electrical energy mainly into light.",
         "is_correct": true
       },
       {
-        "text": "Plastic wire covering conducts electricity.",
+        "text": "It uses up all current before it returns to the cell.",
+        "is_correct": false
+      },
+      {
+        "text": "It replaces the need for a complete path.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A closed circuit is needed for electrical energy transfer.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The LED transforms electrical energy mainly into light.",
+      "hint": "Describe what the component does in the circuit, not where it is drawn."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 38,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u03-t-009",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U03-P-039",
     "curriculum_code": "AC9S6U03",
-    "bank": "test",
-    "skill": "circuits energy",
-    "question": "A follow-up test asks: A student draws crossing lines and calls it parallel. What should they check?",
-    "audio_prompt": "A follow-up test asks: A student draws crossing lines and calls it parallel. What should they check?",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "energy_transformation",
+    "question": "A solar garden light charges during the day and shines at night. Which energy transformation occurs in the load?",
+    "audio_prompt": "A solar garden light charges during the day and shines at night. Which energy transformation occurs in the load?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Whether the lines look neat.",
+        "text": "light energy to chemical energy only",
         "is_correct": false
       },
       {
-        "text": "Whether both lamps are drawn at the top.",
+        "text": "sound energy to stored gravitational energy",
         "is_correct": false
       },
       {
-        "text": "Whether there are separate complete paths, not just how the drawing looks.",
+        "text": "Light energy is stored through electrical processes, then electrical energy becomes light and heat.",
         "is_correct": true
+      },
+      {
+        "text": "no energy transfer or transformation",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Whether there are separate complete paths, not just how the drawing looks.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Light energy is stored through electrical processes, then electrical energy becomes light and heat. The cell supplies energy that the load changes into observable forms.",
+      "hint": "Identify the useful output and any noticeable heat."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 39,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u03-t-010",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U03-P-040",
     "curriculum_code": "AC9S6U03",
-    "bank": "test",
-    "skill": "circuits energy",
-    "question": "A follow-up test asks: What is the role of the cell or battery?",
-    "audio_prompt": "A follow-up test asks: What is the role of the cell or battery?",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "conductors_and_insulators",
+    "question": "Outdoor wires need protection from contact and moisture. Which design choice is best and why?",
+    "audio_prompt": "Outdoor wires need protection from contact and moisture. Which design choice is best and why?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It supplies electrical energy to the circuit.",
-        "is_correct": true
-      },
-      {
-        "text": "It blocks all charge movement.",
+        "text": "Use bare metal everywhere because safety is irrelevant.",
         "is_correct": false
       },
       {
-        "text": "It changes metal into plastic.",
+        "text": "Use plastic as the conducting core because all solids conduct equally.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the conducting path and expect the device to work.",
+        "is_correct": false
+      },
+      {
+        "text": "Use conducting wire cores with intact insulating and weather-resistant coverings.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The core carries current and the covering separates and protects connections.",
+      "hint": "Separate the conducting core from the insulating safety covering."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 40,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U03-P-041",
+    "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "diagnose_evidence",
+    "question": "The light does not shine because corrosion has broken a connector. What is the best first explanation?",
+    "audio_prompt": "The light does not shine because corrosion has broken a connector. What is the best first explanation?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The damaged connector may open the circuit.",
+        "is_correct": true
+      },
+      {
+        "text": "The device has used up all current permanently.",
+        "is_correct": false
+      },
+      {
+        "text": "The switch has destroyed electrical energy.",
+        "is_correct": false
+      },
+      {
+        "text": "Current can jump any gap without a conductor.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "It supplies electrical energy to the circuit.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Energy cannot be transferred through the intended circuit when its conducting path is broken.",
+      "hint": "Use the observation to locate a break, poor contact or unsuitable material."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 41,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u03-t-011",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U03-P-042",
     "curriculum_code": "AC9S6U03",
-    "bank": "test",
-    "skill": "circuits energy",
-    "question": "A follow-up test asks: Two lamps in series become dimmer than one lamp. What is a likely reason?",
-    "audio_prompt": "A follow-up test asks: Two lamps in series become dimmer than one lamp. What is a likely reason?",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "fair_investigation",
+    "question": "Students test the light after different charging times. Which method gives the fairest evidence?",
+    "audio_prompt": "Students test the light after different charging times. Which method gives the fairest evidence?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The current disappears after the first lamp.",
+        "text": "Change the cell, wires and load at the same time.",
         "is_correct": false
       },
       {
-        "text": "The same energy source is shared through one path.",
+        "text": "Keep the lamp and sunlight intensity the same and change only charging duration.",
         "is_correct": true
       },
       {
-        "text": "Series means each lamp has a separate battery.",
+        "text": "Use one trial and assume it applies to every circuit.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the result that matches the prediction and ignore the rest.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The same energy source is shared through one path.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Keep the lamp and sunlight intensity the same and change only charging duration. Changing one factor and repeating the test makes the comparison more dependable.",
+      "hint": "Keep all factors except the tested one the same."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 42,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u03-t-012",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U03-P-043",
     "curriculum_code": "AC9S6U03",
-    "bank": "test",
-    "skill": "circuits energy",
-    "question": "A follow-up test asks: Why can one lamp stay on in a parallel circuit when another branch opens?",
-    "audio_prompt": "A follow-up test asks: Why can one lamp stay on in a parallel circuit when another branch opens?",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "complete_circuit",
+    "question": "A hand-crank generator is connected to a lamp. What must be true for the device to operate?",
+    "audio_prompt": "A hand-crank generator is connected to a lamp. What must be true for the device to operate?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parallel circuits have no wires.",
+        "text": "The switch must create new electricity.",
         "is_correct": false
       },
       {
-        "text": "The open branch gives extra current to the other lamp.",
+        "text": "The current must stop at the device.",
         "is_correct": false
       },
       {
-        "text": "The working branch still has its own complete path.",
+        "text": "The generator, wires and lamp must form a complete conducting loop while the handle turns.",
         "is_correct": true
+      },
+      {
+        "text": "Every part must be made of plastic.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The working branch still has its own complete path.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The generator, wires and lamp must form a complete conducting loop while the handle turns. A working simple circuit needs an unbroken conducting path.",
+      "hint": "Trace one continuous path from one cell terminal back to the other."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 43,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u03-t-013",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U03-P-044",
     "curriculum_code": "AC9S6U03",
-    "bank": "test",
-    "skill": "circuits energy",
-    "question": "A follow-up test asks: Which material is most useful for connecting parts of a circuit?",
-    "audio_prompt": "A follow-up test asks: Which material is most useful for connecting parts of a circuit?",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "component_function",
+    "question": "A hand-crank generator is connected to a lamp. What is the main role of the generator?",
+    "audio_prompt": "A hand-crank generator is connected to a lamp. What is the main role of the generator?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Copper wire.",
-        "is_correct": true
-      },
-      {
-        "text": "Rubber band.",
+        "text": "It creates matter inside the circuit.",
         "is_correct": false
       },
       {
-        "text": "Dry wooden stick.",
+        "text": "It uses up all current before it returns to the cell.",
+        "is_correct": false
+      },
+      {
+        "text": "It replaces the need for a complete path.",
+        "is_correct": false
+      },
+      {
+        "text": "The generator transforms movement energy into electrical energy supplied to the circuit.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The generator transforms movement energy into electrical energy supplied to the circuit.",
+      "hint": "Describe what the component does in the circuit, not where it is drawn."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 44,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U03-P-045",
+    "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "energy_transformation",
+    "question": "A hand-crank generator is connected to a lamp. Which energy transformation occurs in the load?",
+    "audio_prompt": "A hand-crank generator is connected to a lamp. Which energy transformation occurs in the load?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Kinetic energy becomes electrical energy, then light and thermal energy.",
+        "is_correct": true
+      },
+      {
+        "text": "light energy to chemical energy only",
+        "is_correct": false
+      },
+      {
+        "text": "sound energy to stored gravitational energy",
+        "is_correct": false
+      },
+      {
+        "text": "no energy transfer or transformation",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Copper wire.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Kinetic energy becomes electrical energy, then light and thermal energy. The cell supplies energy that the load changes into observable forms.",
+      "hint": "Identify the useful output and any noticeable heat."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 45,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u03-t-014",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U03-P-046",
     "curriculum_code": "AC9S6U03",
-    "bank": "test",
-    "skill": "circuits energy",
-    "question": "A follow-up test asks: A motor in a circuit spins and warms slightly. Which energy transformation is shown?",
-    "audio_prompt": "A follow-up test asks: A motor in a circuit spins and warms slightly. Which energy transformation is shown?",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "conductors_and_insulators",
+    "question": "A handle is held while the internal contacts conduct. Which design choice is best and why?",
+    "audio_prompt": "A handle is held while the internal contacts conduct. Which design choice is best and why?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Light energy changes into sound only.",
+        "text": "Use bare metal everywhere because safety is irrelevant.",
         "is_correct": false
       },
       {
-        "text": "Electrical energy changes into movement and thermal energy.",
+        "text": "Use an insulating grip on the handle and conducting materials in the electrical path.",
         "is_correct": true
       },
       {
-        "text": "Thermal energy changes into stored chemical energy.",
+        "text": "Use plastic as the conducting core because all solids conduct equally.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the conducting path and expect the device to work.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Electrical energy changes into movement and thermal energy.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Different materials are selected for their specific safety and circuit roles.",
+      "hint": "Separate the conducting core from the insulating safety covering."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 46,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u03-t-015",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U03-P-047",
     "curriculum_code": "AC9S6U03",
-    "bank": "test",
-    "skill": "circuits energy",
-    "question": "A follow-up test asks: Why does a switch turn a lamp off when opened?",
-    "audio_prompt": "A follow-up test asks: Why does a switch turn a lamp off when opened?",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "diagnose_evidence",
+    "question": "The lamp flickers when a wire connection moves. What is the best first explanation?",
+    "audio_prompt": "The lamp flickers when a wire connection moves. What is the best first explanation?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It uses up all the current.",
+        "text": "The device has used up all current permanently.",
         "is_correct": false
       },
       {
-        "text": "It changes the lamp into an insulator.",
+        "text": "The switch has destroyed electrical energy.",
         "is_correct": false
       },
       {
-        "text": "It breaks the conducting path.",
+        "text": "An intermittent contact is repeatedly opening and closing the path.",
         "is_correct": true
+      },
+      {
+        "text": "Current can jump any gap without a conductor.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "It breaks the conducting path.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Flickering linked to connection movement points to an unreliable conducting contact.",
+      "hint": "Use the observation to locate a break, poor contact or unsuitable material."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 47,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u03-t-016",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U03-P-048",
     "curriculum_code": "AC9S6U03",
-    "bank": "test",
-    "skill": "circuits energy",
-    "question": "A follow-up test asks: A lamp lights only when the wire path is complete. What does this show?",
-    "audio_prompt": "A follow-up test asks: A lamp lights only when the wire path is complete. What does this show?",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "fair_investigation",
+    "question": "Students compare lamp brightness at slow and fast cranking rates. Which method gives the fairest evidence?",
+    "audio_prompt": "Students compare lamp brightness at slow and fast cranking rates. Which method gives the fairest evidence?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A closed circuit is needed for electrical energy transfer.",
-        "is_correct": true
-      },
-      {
-        "text": "Current is stored inside the lamp.",
+        "text": "Change the cell, wires and load at the same time.",
         "is_correct": false
       },
       {
-        "text": "Plastic wire covering conducts electricity.",
+        "text": "Use one trial and assume it applies to every circuit.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the result that matches the prediction and ignore the rest.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the same generator, lamp and circuit, change only cranking rate, and repeat observations.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use the same generator, lamp and circuit, change only cranking rate, and repeat observations. Changing one factor and repeating the test makes the comparison more dependable.",
+      "hint": "Keep all factors except the tested one the same."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 48,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U03-T-001",
+    "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "application",
+    "skill": "unseen_circuit",
+    "question": "A lamp circuit has a closed switch but one wire touches the plastic coating instead of the metal core. Why is the lamp off?",
+    "audio_prompt": "A lamp circuit has a closed switch but one wire touches the plastic coating instead of the metal core. Why is the lamp off?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The switch used up the energy.",
+        "is_correct": false
+      },
+      {
+        "text": "The insulating coating prevents a conducting connection at that point.",
+        "is_correct": true
+      },
+      {
+        "text": "Plastic creates too much current.",
+        "is_correct": false
+      },
+      {
+        "text": "The lamp proves the cell is full.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A complete geometric loop is not enough; contacts must conduct.",
+      "hint": "Inspect material at each connection."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 1,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U03-T-002",
+    "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "energy_chain",
+    "question": "A wind turbine charges a cell that later powers a buzzer. Which chain is best?",
+    "audio_prompt": "A wind turbine charges a cell that later powers a buzzer. Which chain is best?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "sound → light → gravitational",
+        "is_correct": false
+      },
+      {
+        "text": "electrical → nothing",
+        "is_correct": false
+      },
+      {
+        "text": "kinetic → electrical → stored chemical → electrical → sound and thermal",
+        "is_correct": true
+      },
+      {
+        "text": "thermal → mass → sound only",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The chain follows energy through generator, store and load.",
+      "hint": "Name each device’s input and output."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 2,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U03-T-003",
+    "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "core",
+    "skill": "switch_role",
+    "question": "What changes when a simple switch opens?",
+    "audio_prompt": "What changes when a simple switch opens?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The cell stops containing chemicals.",
+        "is_correct": false
+      },
+      {
+        "text": "The wire becomes an insulator everywhere.",
+        "is_correct": false
+      },
+      {
+        "text": "Electrical energy is created.",
+        "is_correct": false
+      },
+      {
+        "text": "The conducting path becomes incomplete.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A switch controls continuity of the path.",
+      "hint": "Think path, not electricity creation."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 3,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U03-T-004",
+    "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "application",
+    "skill": "conductor_evidence",
+    "question": "A steel spoon and aluminium foil light a tester lamp; wood and rubber do not. What is supported?",
+    "audio_prompt": "A steel spoon and aluminium foil light a tester lamp; wood and rubber do not. What is supported?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Under these test conditions, the two metals conducted and the wood and rubber did not.",
+        "is_correct": true
+      },
+      {
+        "text": "All metals always conduct equally.",
+        "is_correct": false
+      },
+      {
+        "text": "Wood can never conduct under any condition.",
+        "is_correct": false
+      },
+      {
+        "text": "The lamp measured object colour.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A closed circuit is needed for electrical energy transfer.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Material conclusions should be limited to tested conditions.",
+      "hint": "Report what the circuit showed without absolutes."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 4,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U03-T-005",
+    "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "application",
+    "skill": "parallel_diagnosis",
+    "question": "One lamp in a two-branch circuit is removed and the other remains lit. Why?",
+    "audio_prompt": "One lamp in a two-branch circuit is removed and the other remains lit. Why?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Current jumps across the empty holder.",
+        "is_correct": false
+      },
+      {
+        "text": "The second branch still forms a complete path.",
+        "is_correct": true
+      },
+      {
+        "text": "The remaining lamp creates a new cell.",
+        "is_correct": false
+      },
+      {
+        "text": "Parallel means the wires cross on the page.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Separate branches provide alternative complete paths.",
+      "hint": "Trace each branch independently."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 5,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U03-T-006",
+    "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "core",
+    "skill": "series_diagnosis",
+    "question": "Why do both lamps stop when one is removed from a one-loop circuit?",
+    "audio_prompt": "Why do both lamps stop when one is removed from a one-loop circuit?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The other lamp forgets how to work.",
+        "is_correct": false
+      },
+      {
+        "text": "The cell instantly becomes an insulator.",
+        "is_correct": false
+      },
+      {
+        "text": "Removing one lamp opens the only path.",
+        "is_correct": true
+      },
+      {
+        "text": "Energy is destroyed by the empty holder.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A gap anywhere in one series path interrupts the loop.",
+      "hint": "Trace the single path."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 6,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U03-T-007",
+    "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "core",
+    "skill": "fair_test",
+    "question": "Students compare wire materials. Which variable should they measure?",
+    "audio_prompt": "Students compare wire materials. Which variable should they measure?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "the students’ favourite material",
+        "is_correct": false
+      },
+      {
+        "text": "the colour of the table",
+        "is_correct": false
+      },
+      {
+        "text": "the final written title",
+        "is_correct": false
+      },
+      {
+        "text": "whether the same lamp lights, or its brightness using a consistent measure",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The outcome must indicate how well the test path conducts.",
+      "hint": "Choose an observable circuit response."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 7,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U03-T-008",
+    "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "battery_language",
+    "question": "Which statement about a cell is most accurate?",
+    "audio_prompt": "Which statement about a cell is most accurate?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It supplies energy that can be transferred through a complete circuit.",
+        "is_correct": true
+      },
+      {
+        "text": "It stores a fixed pile of current.",
+        "is_correct": false
+      },
+      {
+        "text": "It manufactures matter in the lamp.",
+        "is_correct": false
+      },
+      {
+        "text": "It works without a return path.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Energy-source language avoids treating current as a consumable substance.",
+      "hint": "Separate energy from current."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 8,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U03-T-009",
+    "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "core",
+    "skill": "motor_transformation",
+    "question": "A toy car motor turns wheels and becomes warm. What outputs should be named?",
+    "audio_prompt": "A toy car motor turns wheels and becomes warm. What outputs should be named?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "chemical energy only",
+        "is_correct": false
+      },
+      {
+        "text": "kinetic energy, thermal energy and some sound",
+        "is_correct": true
+      },
+      {
+        "text": "light energy only",
+        "is_correct": false
+      },
+      {
+        "text": "no transformed energy",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The motor has useful motion plus less useful heat and sound outputs.",
+      "hint": "List observable outputs."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 9,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U03-T-010",
+    "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "application",
+    "skill": "insulator_role",
+    "question": "Why cover copper wire with plastic?",
+    "audio_prompt": "Why cover copper wire with plastic?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Plastic makes copper produce energy.",
+        "is_correct": false
+      },
+      {
+        "text": "Copper is an insulator.",
+        "is_correct": false
+      },
+      {
+        "text": "Copper conducts in the path; plastic helps prevent unintended contact between conductors and users.",
+        "is_correct": true
+      },
+      {
+        "text": "The cover eliminates every possible electrical risk.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The materials perform different circuit and safety roles.",
+      "hint": "Distinguish core and coating."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 10,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U03-T-011",
+    "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "competing_faults",
+    "question": "A lamp is off. Why is “the cell is flat” not yet a conclusion?",
+    "audio_prompt": "A lamp is off. Why is “the cell is flat” not yet a conclusion?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Cells never become flat.",
+        "is_correct": false
+      },
+      {
+        "text": "An off lamp proves no circuit exists.",
+        "is_correct": false
+      },
+      {
+        "text": "Only switches can cause faults.",
+        "is_correct": false
+      },
+      {
+        "text": "A broken lamp, open switch, loose contact or unsuitable conductor could give the same observation.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "One observation can have several plausible causes.",
+      "hint": "Test one possibility at a time."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 11,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U03-T-012",
+    "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "application",
+    "skill": "diagnostic_test",
+    "question": "How can students test whether a lamp rather than the cell is faulty?",
+    "audio_prompt": "How can students test whether a lamp rather than the cell is faulty?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Replace the lamp with a known working lamp while keeping the rest unchanged.",
+        "is_correct": true
+      },
+      {
+        "text": "Replace every component at once.",
+        "is_correct": false
+      },
+      {
+        "text": "Open the switch and guess.",
+        "is_correct": false
+      },
+      {
+        "text": "Add exposed mains electricity.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Changing one component isolates the suspected cause safely.",
+      "hint": "Substitute one known working component."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 12,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U03-T-013",
+    "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "current_misconception",
+    "question": "Which correction best addresses “the first lamp uses up all the current”?",
+    "audio_prompt": "Which correction best addresses “the first lamp uses up all the current”?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The first lamp stores every electron.",
+        "is_correct": false
+      },
+      {
+        "text": "Loads transform energy; a complete circuit supports current throughout the path rather than current being consumed like fuel.",
+        "is_correct": true
+      },
+      {
+        "text": "Current exists only inside lamps.",
+        "is_correct": false
+      },
+      {
+        "text": "The second lamp creates replacement matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The key distinction is current flow versus energy transfer and transformation.",
+      "hint": "Ask what is transformed at the load."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 13,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U03-T-014",
+    "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "core",
+    "skill": "safe_investigation",
+    "question": "Which source is appropriate for a Year 6 circuit investigation?",
+    "audio_prompt": "Which source is appropriate for a Year 6 circuit investigation?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A household wall socket.",
+        "is_correct": false
+      },
+      {
+        "text": "An exposed powerboard connection.",
+        "is_correct": false
+      },
+      {
+        "text": "A low-voltage classroom cell used with teacher-approved components.",
+        "is_correct": true
+      },
+      {
+        "text": "An unknown damaged battery pack.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "School investigations use low-voltage equipment and controlled procedures.",
+      "hint": "Safety boundaries override curiosity."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 14,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U03-T-015",
+    "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "application",
+    "skill": "connection_symbol",
+    "question": "Two drawn wires cross without a junction dot. What should a student avoid assuming?",
+    "audio_prompt": "Two drawn wires cross without a junction dot. What should a student avoid assuming?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "That every circuit uses wires.",
+        "is_correct": false
+      },
+      {
+        "text": "That a cell supplies energy.",
+        "is_correct": false
+      },
+      {
+        "text": "That a lamp is a load.",
+        "is_correct": false
+      },
+      {
+        "text": "That the wires are electrically connected at the crossing.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Circuit conventions distinguish crossings from joined conductors.",
+      "hint": "Look for a junction marker or explicit connection."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 15,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U03-T-016",
+    "curriculum_code": "AC9S6U03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "synthesis",
+    "question": "Which explanation best describes a working torch?",
+    "audio_prompt": "Which explanation best describes a working torch?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A cell supplies energy through a closed conducting path; the lamp transforms electrical energy into light and heat, while insulation helps keep contacts separated.",
+        "is_correct": true
+      },
+      {
+        "text": "The switch creates current and the bulb destroys it.",
+        "is_correct": false
+      },
+      {
+        "text": "Plastic carries current and metal blocks it.",
+        "is_correct": false
+      },
+      {
+        "text": "The lamp works without a complete return path.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The explanation integrates path, component, transformation and material roles.",
+      "hint": "Choose the complete model with no misconception."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 16,
+    "quality_schema": "research-authored-original-v1"
   }
 ]

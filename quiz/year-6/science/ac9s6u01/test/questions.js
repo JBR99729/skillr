@@ -4,449 +4,529 @@ window.skillrTestQuestions = [
     "id": "ac9s6u01-t-001",
     "curriculumCode": "AC9S6U01",
     "bank": "test",
-    "skill": "habitat conditions",
+    "skill": "unseen habitat data",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: A report says, “Plants grew taller where soil stayed moist.” What evidence would strengthen it?",
-    "audioPrompt": "A different class checks the same science idea: A report says, “Plants grew taller where soil stayed moist.” What evidence would strengthen it?",
+    "question": "Mangrove seedlings in 0, 10 and 30 parts-per-thousand salt water grow means of 12, 9 and 3 new leaves. Which claim is supported?",
+    "audioPrompt": "Mangrove seedlings in 0, 10 and 30 parts-per-thousand salt water grow means of 12, 9 and 3 new leaves. Which claim is supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Repeated height and soil-moisture measurements from each area.",
-      "A single photo of one tall plant.",
-      "A statement that moist soil is always best."
+      "Salt always kills every mangrove.",
+      "In this investigation, leaf production decreased as salinity increased.",
+      "Salinity was irrelevant to leaf production.",
+      "The data prove the result for all plant species."
     ],
-    "correct": 0,
-    "explanation": "Repeated height and soil-moisture measurements from each area.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 1,
+    "correct": 1,
+    "explanation": "The measured trend supports a qualified relationship for these mangrove seedlings.\nHint: Limit the claim to the species, conditions and outcome measured.",
     "structuredExplanation": {
-      "summary": "Repeated height and soil-moisture measurements from each area.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "The measured trend supports a qualified relationship for these mangrove seedlings.",
+      "hint": "Limit the claim to the species, conditions and outcome measured."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6u01-t-002",
     "curriculumCode": "AC9S6U01",
     "bank": "test",
-    "skill": "habitat conditions",
+    "skill": "confounded investigation",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: Which method is least likely to harm a habitat survey area?",
-    "audioPrompt": "A different class checks the same science idea: Which method is least likely to harm a habitat survey area?",
+    "question": "Shade plots were also watered twice as often as sunny plots, and shaded plants grew taller. What can the study conclude?",
+    "audioPrompt": "Shade plots were also watered twice as often as sunny plots, and shaded plants grew taller. What can the study conclude?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Pull up all plants to count roots.",
-      "Observe, photograph and return moved leaves carefully.",
-      "Remove animals for later sorting."
+      "Shade definitely caused all of the growth difference.",
+      "Water cannot affect plant growth.",
+      "It cannot show whether shade alone caused greater growth because water amount also changed.",
+      "Two changed factors make both causes impossible."
     ],
-    "correct": 1,
-    "explanation": "Observe, photograph and return moved leaves carefully.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 2,
+    "correct": 2,
+    "explanation": "Because light and water changed together, their separate effects cannot be identified.\nHint: Find every factor that differed between groups.",
     "structuredExplanation": {
-      "summary": "Observe, photograph and return moved leaves carefully.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Because light and water changed together, their separate effects cannot be identified.",
+      "hint": "Find every factor that differed between groups."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6u01-t-003",
     "curriculumCode": "AC9S6U01",
     "bank": "test",
-    "skill": "habitat conditions",
+    "skill": "abiotic factor",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: Why is one afternoon survey not enough to describe a whole habitat?",
-    "audioPrompt": "A different class checks the same science idea: Why is one afternoon survey not enough to describe a whole habitat?",
+    "question": "A reef survey records water temperature, wave exposure, coral cover and fish number. Which pair contains only physical conditions?",
+    "audioPrompt": "A reef survey records water temperature, wave exposure, coral cover and fish number. Which pair contains only physical conditions?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "One survey always proves the pattern.",
-      "More observations make science less reliable.",
-      "Conditions and organisms can change with time of day and season."
+      "coral cover and fish number",
+      "water temperature and coral cover",
+      "fish number and wave exposure",
+      "water temperature and wave exposure"
     ],
-    "correct": 2,
-    "explanation": "Conditions and organisms can change with time of day and season.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 3,
+    "correct": 3,
+    "explanation": "Temperature and wave exposure are non-living measurable conditions.\nHint: Separate non-living conditions from organisms.",
     "structuredExplanation": {
-      "summary": "Conditions and organisms can change with time of day and season.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Temperature and wave exposure are non-living measurable conditions.",
+      "hint": "Separate non-living conditions from organisms."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6u01-t-004",
     "curriculumCode": "AC9S6U01",
     "bank": "test",
-    "skill": "habitat conditions",
+    "skill": "field evidence",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: A plant near a path is shorter than plants inside a fenced area. What extra evidence would help explain why?",
-    "audioPrompt": "A different class checks the same science idea: A plant near a path is shorter than plants inside a fenced area. What extra evidence would help explain why?",
+    "question": "More seedlings occur beside a creek than on a ridge. Which next measurement is most relevant to a physical-condition explanation?",
+    "audioPrompt": "More seedlings occur beside a creek than on a ridge. Which next measurement is most relevant to a physical-condition explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Measurements of light, soil moisture and disturbance at both places.",
-      "The name of the tallest plant only.",
-      "A guess that people caused all differences."
+      "Measure soil moisture at repeated creek and ridge plots.",
+      "Name one seedling beside the creek.",
+      "Count birds only at the creek.",
+      "Assume water caused the pattern without measuring it."
     ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 4,
     "correct": 0,
-    "explanation": "Measurements of light, soil moisture and disturbance at both places.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "explanation": "Repeated soil-moisture measurements can test the proposed link.\nHint: Measure the condition named in the explanation at both sites.",
     "structuredExplanation": {
-      "summary": "Measurements of light, soil moisture and disturbance at both places.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Repeated soil-moisture measurements can test the proposed link.",
+      "hint": "Measure the condition named in the explanation at both sites."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6u01-t-005",
     "curriculumCode": "AC9S6U01",
     "bank": "test",
-    "skill": "habitat conditions",
+    "skill": "optimum conditions",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: Why should students use the same search time at each habitat site?",
-    "audioPrompt": "A different class checks the same science idea: Why should students use the same search time at each habitat site?",
+    "question": "Algae growth is low at 5°C, high at 20°C and low at 40°C. Which interpretation is best?",
+    "audioPrompt": "Algae growth is low at 5°C, high at 20°C and low at 40°C. Which interpretation is best?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "It guarantees the same number of organisms.",
-      "It makes the abundance counts more comparable.",
-      "It removes all sources of error."
+      "Growth always increases with temperature.",
+      "The tested algae grew best at an intermediate temperature.",
+      "Any temperature change kills algae.",
+      "Temperature has no relationship with growth."
     ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 5,
     "correct": 1,
-    "explanation": "It makes the abundance counts more comparable.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "explanation": "The response peaks at the middle treatment rather than rising continuously.\nHint: Compare all three results, including both extremes.",
     "structuredExplanation": {
-      "summary": "It makes the abundance counts more comparable.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "The response peaks at the middle treatment rather than rising continuously.",
+      "hint": "Compare all three results, including both extremes."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6u01-t-006",
     "curriculumCode": "AC9S6U01",
     "bank": "test",
-    "skill": "habitat conditions",
+    "skill": "sampling",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: A class finds more small invertebrates under damp leaf litter than dry sand. Which conclusion is safest?",
-    "audioPrompt": "A different class checks the same science idea: A class finds more small invertebrates under damp leaf litter than dry sand. Which conclusion is safest?",
+    "question": "A student counts insects under one log and reports on the whole forest. What improvement matters most?",
+    "audioPrompt": "A student counts insects under one log and reports on the whole forest. What improvement matters most?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Moisture is the only factor that matters.",
-      "No invertebrates can live in dry places.",
-      "Soil moisture may affect where these invertebrates are found."
+      "Use a more certain word in the conclusion.",
+      "Stop recording the physical conditions.",
+      "Sample many comparable logs across the forest.",
+      "Count the same insect twice."
     ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 6,
     "correct": 2,
-    "explanation": "Soil moisture may affect where these invertebrates are found.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "explanation": "More representative sampling is needed for a forest-wide claim.\nHint: Match sampling scale to conclusion scale.",
     "structuredExplanation": {
-      "summary": "Soil moisture may affect where these invertebrates are found.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "More representative sampling is needed for a forest-wide claim.",
+      "hint": "Match sampling scale to conclusion scale."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6u01-t-007",
     "curriculumCode": "AC9S6U01",
     "bank": "test",
-    "skill": "habitat conditions",
+    "skill": "ethical method",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: A pond survey records water temperature, saltiness and light level. Which one is an abiotic condition?",
-    "audioPrompt": "A different class checks the same science idea: A pond survey records water temperature, saltiness and light level. Which one is an abiotic condition?",
+    "question": "Which investigation best protects organisms while measuring shelter preference?",
+    "audioPrompt": "Which investigation best protects organisms while measuring shelter preference?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Water temperature.",
-      "Number of tadpoles.",
-      "Type of algae eaten."
+      "Leave animals without water for several days.",
+      "Remove every animal from the site permanently.",
+      "Change temperature beyond safe limits.",
+      "Observe animals briefly in connected safe chambers, then return them to their habitat."
     ],
-    "correct": 0,
-    "explanation": "Water temperature.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 7,
+    "correct": 3,
+    "explanation": "The method gathers evidence while minimising duration, stress and disturbance.\nHint: Choose the least harmful method that can answer the question.",
     "structuredExplanation": {
-      "summary": "Water temperature.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "The method gathers evidence while minimising duration, stress and disturbance.",
+      "hint": "Choose the least harmful method that can answer the question."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6u01-t-008",
     "curriculumCode": "AC9S6U01",
     "bank": "test",
-    "skill": "habitat conditions",
+    "skill": "survival evidence",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: Maya grows bean seedlings in full sun, shade and darkness while keeping water and soil the same. What is she testing?",
-    "audioPrompt": "A different class checks the same science idea: Maya grows bean seedlings in full sun, shade and darkness while keeping water and soil the same. What is she testing?",
+    "question": "Dissolved oxygen falls after an algal bloom, followed by a fish die-off. Which conclusion is appropriately cautious?",
+    "audioPrompt": "Dissolved oxygen falls after an algal bloom, followed by a fish die-off. Which conclusion is appropriately cautious?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Whether beans are better than peas.",
-      "How light level affects seedling growth.",
-      "How much water seedlings need."
+      "Low oxygen may have contributed; measurements and other possible causes should be examined.",
+      "Low oxygen is proven as the only cause.",
+      "Food guarantees fish survival at any oxygen level.",
+      "The events cannot be related because they happened in sequence."
     ],
-    "correct": 1,
-    "explanation": "How light level affects seedling growth.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 8,
+    "correct": 0,
+    "explanation": "The timing suggests a relationship but competing explanations remain.\nHint: Distinguish evidence of association from proof of one cause.",
     "structuredExplanation": {
-      "summary": "How light level affects seedling growth.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "The timing suggests a relationship but competing explanations remain.",
+      "hint": "Distinguish evidence of association from proof of one cause."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6u01-t-009",
     "curriculumCode": "AC9S6U01",
     "bank": "test",
-    "skill": "habitat conditions",
+    "skill": "controlled variable",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: A report says, “Plants grew taller where soil stayed moist.” What evidence would strengthen it?",
-    "audioPrompt": "A follow-up test asks: A report says, “Plants grew taller where soil stayed moist.” What evidence would strengthen it?",
+    "question": "Students test salinity effects on germination. Which factor should be held constant?",
+    "audioPrompt": "Students test salinity effects on germination. Which factor should be held constant?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "A single photo of one tall plant.",
-      "A statement that moist soil is always best.",
-      "Repeated height and soil-moisture measurements from each area."
+      "salinity of each solution",
+      "the number and type of seeds in each dish",
+      "germination percentage",
+      "the final conclusion"
     ],
-    "correct": 2,
-    "explanation": "Repeated height and soil-moisture measurements from each area.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 9,
+    "correct": 1,
+    "explanation": "Equal seed groups allow a fair comparison among salinity levels.\nHint: Keep starting materials equivalent.",
     "structuredExplanation": {
-      "summary": "Repeated height and soil-moisture measurements from each area.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Equal seed groups allow a fair comparison among salinity levels.",
+      "hint": "Keep starting materials equivalent."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6u01-t-010",
     "curriculumCode": "AC9S6U01",
     "bank": "test",
-    "skill": "habitat conditions",
+    "skill": "prediction",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: Which method is least likely to harm a habitat survey area?",
-    "audioPrompt": "A follow-up test asks: Which method is least likely to harm a habitat survey area?",
+    "question": "A freshwater plant is moved gradually into saltier water. Which prediction is reasoned?",
+    "audioPrompt": "A freshwater plant is moved gradually into saltier water. Which prediction is reasoned?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Observe, photograph and return moved leaves carefully.",
-      "Pull up all plants to count roots.",
-      "Remove animals for later sorting."
+      "It must grow faster because all change helps.",
+      "It becomes a different species immediately.",
+      "Its growth may decline if it is not adapted to high salinity.",
+      "Its response cannot be measured."
     ],
-    "correct": 0,
-    "explanation": "Observe, photograph and return moved leaves carefully.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 10,
+    "correct": 2,
+    "explanation": "The prediction links physiological suitability to a measurable growth response.\nHint: Avoid absolute predictions and name an outcome.",
     "structuredExplanation": {
-      "summary": "Observe, photograph and return moved leaves carefully.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "The prediction links physiological suitability to a measurable growth response.",
+      "hint": "Avoid absolute predictions and name an outcome."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6u01-t-011",
     "curriculumCode": "AC9S6U01",
     "bank": "test",
-    "skill": "habitat conditions",
+    "skill": "table reasoning",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: Why is one afternoon survey not enough to describe a whole habitat?",
-    "audioPrompt": "A follow-up test asks: Why is one afternoon survey not enough to describe a whole habitat?",
+    "question": "Moisture (%) is 15, 30, 45; mean worm counts are 2, 8, 7. What pattern is supported?",
+    "audioPrompt": "Moisture (%) is 15, 30, 45; mean worm counts are 2, 8, 7. What pattern is supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "One survey always proves the pattern.",
-      "Conditions and organisms can change with time of day and season.",
-      "More observations make science less reliable."
+      "Counts increased at every moisture level.",
+      "There were no worms at 15% moisture.",
+      "45% moisture always prevents survival.",
+      "Counts were highest at 30% moisture among the tested levels."
     ],
-    "correct": 1,
-    "explanation": "Conditions and organisms can change with time of day and season.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 11,
+    "correct": 3,
+    "explanation": "The highest observed mean is at the intermediate treatment.\nHint: Read exact values before generalising.",
     "structuredExplanation": {
-      "summary": "Conditions and organisms can change with time of day and season.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "The highest observed mean is at the intermediate treatment.",
+      "hint": "Read exact values before generalising."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6u01-t-012",
     "curriculumCode": "AC9S6U01",
     "bank": "test",
-    "skill": "habitat conditions",
+    "skill": "replication",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: A plant near a path is shorter than plants inside a fenced area. What extra evidence would help explain why?",
-    "audioPrompt": "A follow-up test asks: A plant near a path is shorter than plants inside a fenced area. What extra evidence would help explain why?",
+    "question": "Why use five pots per light treatment instead of one?",
+    "audioPrompt": "Why use five pots per light treatment instead of one?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "The name of the tallest plant only.",
-      "A guess that people caused all differences.",
-      "Measurements of light, soil moisture and disturbance at both places."
+      "To estimate variation and reduce the influence of an unusual individual pot.",
+      "To guarantee all pots grow equally.",
+      "To change five variables at once.",
+      "To remove the need for measurements."
     ],
-    "correct": 2,
-    "explanation": "Measurements of light, soil moisture and disturbance at both places.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 12,
+    "correct": 0,
+    "explanation": "Replication makes the treatment comparison more dependable.\nHint: Think about biological variation.",
     "structuredExplanation": {
-      "summary": "Measurements of light, soil moisture and disturbance at both places.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Replication makes the treatment comparison more dependable.",
+      "hint": "Think about biological variation."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6u01-t-013",
     "curriculumCode": "AC9S6U01",
     "bank": "test",
-    "skill": "habitat conditions",
+    "skill": "condition response",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: Why should students use the same search time at each habitat site?",
-    "audioPrompt": "A follow-up test asks: Why should students use the same search time at each habitat site?",
+    "question": "A desert lizard spends midday beneath rocks. Which explanation best links a physical condition to behaviour?",
+    "audioPrompt": "A desert lizard spends midday beneath rocks. Which explanation best links a physical condition to behaviour?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "It makes the abundance counts more comparable.",
-      "It guarantees the same number of organisms.",
-      "It removes all sources of error."
+      "Rocks are living predators.",
+      "Shelter reduces exposure to extreme heat, supporting temperature regulation.",
+      "Any shade produces food.",
+      "The lizard can survive at every temperature."
     ],
-    "correct": 0,
-    "explanation": "It makes the abundance counts more comparable.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 13,
+    "correct": 1,
+    "explanation": "The explanation links shelter and temperature to a survival-related response.\nHint: Name the physical condition and the organism response.",
     "structuredExplanation": {
-      "summary": "It makes the abundance counts more comparable.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "The explanation links shelter and temperature to a survival-related response.",
+      "hint": "Name the physical condition and the organism response."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6u01-t-014",
     "curriculumCode": "AC9S6U01",
     "bank": "test",
-    "skill": "habitat conditions",
+    "skill": "weather versus condition",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: A class finds more small invertebrates under damp leaf litter than dry sand. Which conclusion is safest?",
-    "audioPrompt": "A follow-up test asks: A class finds more small invertebrates under damp leaf litter than dry sand. Which conclusion is safest?",
+    "question": "After a storm, a student says “weather affected the snails.” How can the claim be made testable?",
+    "audioPrompt": "After a storm, a student says “weather affected the snails.” How can the claim be made testable?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Moisture is the only factor that matters.",
-      "Soil moisture may affect where these invertebrates are found.",
-      "No invertebrates can live in dry places."
+      "Replace measurements with a stronger opinion.",
+      "Call every storm harmful.",
+      "Measure specific conditions such as soil moisture and temperature, then compare snail counts.",
+      "Measure only the students’ preferences."
     ],
-    "correct": 1,
-    "explanation": "Soil moisture may affect where these invertebrates are found.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 14,
+    "correct": 2,
+    "explanation": "Specific measurable conditions allow evidence to be compared.\nHint: Turn broad weather language into variables.",
     "structuredExplanation": {
-      "summary": "Soil moisture may affect where these invertebrates are found.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Specific measurable conditions allow evidence to be compared.",
+      "hint": "Turn broad weather language into variables."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6u01-t-015",
     "curriculumCode": "AC9S6U01",
     "bank": "test",
-    "skill": "habitat conditions",
+    "skill": "causal boundary",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: A pond survey records water temperature, saltiness and light level. Which one is an abiotic condition?",
-    "audioPrompt": "A follow-up test asks: A pond survey records water temperature, saltiness and light level. Which one is an abiotic condition?",
+    "question": "A survey finds moss and shade together at ten sites. Which statement goes beyond the evidence?",
+    "audioPrompt": "A survey finds moss and shade together at ten sites. Which statement goes beyond the evidence?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Number of tadpoles.",
-      "Type of algae eaten.",
-      "Water temperature."
+      "Moss cover was associated with shade at the sampled sites.",
+      "Moisture should be measured in a follow-up.",
+      "Other site factors may contribute.",
+      "Shade alone caused every patch of moss."
     ],
-    "correct": 2,
-    "explanation": "Water temperature.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 15,
+    "correct": 3,
+    "explanation": "A survey association does not isolate shade as the sole cause.\nHint: Watch for “alone”, “every” and other absolute claims.",
     "structuredExplanation": {
-      "summary": "Water temperature.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "A survey association does not isolate shade as the sole cause.",
+      "hint": "Watch for “alone”, “every” and other absolute claims."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6u01-t-016",
     "curriculumCode": "AC9S6U01",
     "bank": "test",
-    "skill": "habitat conditions",
+    "skill": "synthesis",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: Maya grows bean seedlings in full sun, shade and darkness while keeping water and soil the same. What is she testing?",
-    "audioPrompt": "A follow-up test asks: Maya grows bean seedlings in full sun, shade and darkness while keeping water and soil the same. What is she testing?",
+    "question": "Which conclusion contains condition, response, evidence and limitation?",
+    "audioPrompt": "Which conclusion contains condition, response, evidence and limitation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "How light level affects seedling growth.",
-      "Whether beans are better than peas.",
-      "How much water seedlings need."
+      "Seedling survival was 20 percentage points higher in moist soil, suggesting moisture helped under these conditions, although temperature was not controlled.",
+      "Moist soil is always best.",
+      "The seedlings changed.",
+      "Temperature never matters."
     ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 16,
     "correct": 0,
-    "explanation": "How light level affects seedling growth.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "explanation": "The statement reports evidence, gives a cautious link and names a limitation.\nHint: Choose the complete evidence-based claim.",
     "structuredExplanation": {
-      "summary": "How light level affects seedling growth.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "The statement reports evidence, gives a cautious link and names a limitation.",
+      "hint": "Choose the complete evidence-based claim."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

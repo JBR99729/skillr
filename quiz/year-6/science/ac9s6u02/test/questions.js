@@ -4,449 +4,529 @@ window.skillrTestQuestions = [
     "id": "ac9s6u02-t-001",
     "curriculumCode": "AC9S6U02",
     "bank": "test",
-    "skill": "solar system motions",
+    "skill": "southern seasons",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: Why is gravity important in the solar system?",
-    "audioPrompt": "A different class checks the same science idea: Why is gravity important in the solar system?",
+    "question": "In December, which orientation best explains summer in Australia?",
+    "audioPrompt": "In December, which orientation best explains summer in Australia?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "It helps keep planets in orbit around the Sun.",
-      "It makes planets produce their own light.",
-      "It stops Earth from rotating."
+      "Earth is closest to the Sun only for Australia.",
+      "The Southern Hemisphere is tilted toward the Sun and receives longer, more direct sunlight.",
+      "Earth stops rotating during summer.",
+      "The axis flips toward Australia each morning."
     ],
-    "correct": 0,
-    "explanation": "It helps keep planets in orbit around the Sun.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 1,
+    "correct": 1,
+    "explanation": "Fixed tilt plus orbital position changes sunlight angle and duration.\nHint: Use hemisphere, tilt, angle and daylight.",
     "structuredExplanation": {
-      "summary": "It helps keep planets in orbit around the Sun.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Fixed tilt plus orbital position changes sunlight angle and duration.",
+      "hint": "Use hemisphere, tilt, angle and daylight."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6u02-t-002",
     "curriculumCode": "AC9S6U02",
     "bank": "test",
-    "skill": "solar system motions",
+    "skill": "day night model",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: Which observation is linked to Earth’s yearly revolution plus tilt?",
-    "audioPrompt": "A different class checks the same science idea: Which observation is linked to Earth’s yearly revolution plus tilt?",
+    "question": "A lamp lights half a rotating globe. Why does a dot experience night?",
+    "audioPrompt": "A lamp lights half a rotating globe. Why does a dot experience night?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "The Sun appearing to cross the sky each day.",
-      "Seasonal changes in daylight length.",
-      "A torch making a shadow on a wall."
+      "The lamp switches off.",
+      "The dot completes a yearly orbit.",
+      "Rotation carries the dot onto the half facing away from the lamp.",
+      "The Moon covers the dot every night."
     ],
-    "correct": 1,
-    "explanation": "Seasonal changes in daylight length.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 2,
+    "correct": 2,
+    "explanation": "Night occurs when the location faces away from the Sun during rotation.\nHint: Track the dot through the lit and unlit halves.",
     "structuredExplanation": {
-      "summary": "Seasonal changes in daylight length.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Night occurs when the location faces away from the Sun during rotation.",
+      "hint": "Track the dot through the lit and unlit halves."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6u02-t-003",
     "curriculumCode": "AC9S6U02",
     "bank": "test",
-    "skill": "solar system motions",
+    "skill": "still image limit",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: A student says the Moon makes day and night. What correction is best?",
-    "audioPrompt": "A different class checks the same science idea: A student says the Moon makes day and night. What correction is best?",
+    "question": "Why can one still orbital diagram not show a complete revolution?",
+    "audioPrompt": "Why can one still orbital diagram not show a complete revolution?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "The Moon is the main source of daylight.",
-      "Day and night happen because Earth changes size.",
-      "Day and night happen because Earth rotates, while the Moon orbits Earth."
+      "Orbits cannot be modelled.",
+      "Earth never moves between positions.",
+      "All still images are scientifically false.",
+      "A revolution is motion through time, while the image shows selected positions."
     ],
-    "correct": 2,
-    "explanation": "Day and night happen because Earth rotates, while the Moon orbits Earth.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 3,
+    "correct": 3,
+    "explanation": "The diagram can represent positions but not continuous movement.\nHint: Distinguish useful representation from omitted time.",
     "structuredExplanation": {
-      "summary": "Day and night happen because Earth rotates, while the Moon orbits Earth.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "The diagram can represent positions but not continuous movement.",
+      "hint": "Distinguish useful representation from omitted time."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6u02-t-004",
     "curriculumCode": "AC9S6U02",
     "bank": "test",
-    "skill": "solar system motions",
+    "skill": "planet year",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: Why does Canberra have longer daylight in summer than winter?",
-    "audioPrompt": "A different class checks the same science idea: Why does Canberra have longer daylight in summer than winter?",
+    "question": "Saturn takes much longer than Earth to orbit the Sun. What follows?",
+    "audioPrompt": "Saturn takes much longer than Earth to orbit the Sun. What follows?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Its hemisphere is tilted more toward the Sun in summer.",
-      "The Sun is smaller in winter.",
-      "Earth stops rotating in winter."
+      "A Saturn year is longer than an Earth year.",
+      "Saturn has no rotation.",
+      "Earth orbits Saturn.",
+      "All Saturn days last one Earth year."
     ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 4,
     "correct": 0,
-    "explanation": "Its hemisphere is tilted more toward the Sun in summer.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "explanation": "A planet’s year is its orbital period.\nHint: Match year with revolution, not rotation.",
     "structuredExplanation": {
-      "summary": "Its hemisphere is tilted more toward the Sun in summer.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "A planet’s year is its orbital period.",
+      "hint": "Match year with revolution, not rotation."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6u02-t-005",
     "curriculumCode": "AC9S6U02",
     "bank": "test",
-    "skill": "solar system motions",
+    "skill": "axis constancy",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: What does revolution mean in astronomy?",
-    "audioPrompt": "A different class checks the same science idea: What does revolution mean in astronomy?",
+    "question": "Which model correctly shows Earth’s axis at four orbital positions?",
+    "audioPrompt": "Which model correctly shows Earth’s axis at four orbital positions?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "An object spinning on its own axis.",
-      "One object moving around another object.",
-      "The Sun moving around Earth each day."
+      "Each axis points directly at the Sun.",
+      "All four axes are parallel and tilted in the same direction in space.",
+      "The axis becomes upright at each equinox.",
+      "The axis reverses at every season."
     ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 5,
     "correct": 1,
-    "explanation": "One object moving around another object.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "explanation": "The axial direction remains nearly fixed over one orbit.\nHint: Look for parallel axis lines.",
     "structuredExplanation": {
-      "summary": "One object moving around another object.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "The axial direction remains nearly fixed over one orbit.",
+      "hint": "Look for parallel axis lines."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6u02-t-006",
     "curriculumCode": "AC9S6U02",
     "bank": "test",
-    "skill": "solar system motions",
+    "skill": "day length",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: A model shows Earth, Mars and Jupiter very close together. What should students remember?",
-    "audioPrompt": "A different class checks the same science idea: A model shows Earth, Mars and Jupiter very close together. What should students remember?",
+    "question": "Why are daylight hours nearly equal at the equator across the year?",
+    "audioPrompt": "Why are daylight hours nearly equal at the equator across the year?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "The planets really touch each other.",
-      "Jupiter is always between Earth and Mars.",
-      "Most classroom diagrams are not drawn to scale."
+      "The equator never rotates.",
+      "The equator is always winter.",
+      "Earth’s tilt changes polar and mid-latitude daylight more strongly than equatorial daylight.",
+      "The Sun orbits above the equator daily."
     ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 6,
     "correct": 2,
-    "explanation": "Most classroom diagrams are not drawn to scale.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "explanation": "Latitude affects how tilt changes the length of the daylight arc.\nHint: Compare latitude effects without claiming exactly 12 hours every day.",
     "structuredExplanation": {
-      "summary": "Most classroom diagrams are not drawn to scale.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Latitude affects how tilt changes the length of the daylight arc.",
+      "hint": "Compare latitude effects without claiming exactly 12 hours every day."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6u02-t-007",
     "curriculumCode": "AC9S6U02",
     "bank": "test",
-    "skill": "solar system motions",
+    "skill": "apparent motion",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: Why do seasons occur on Earth?",
-    "audioPrompt": "A different class checks the same science idea: Why do seasons occur on Earth?",
+    "question": "The Sun appears to move east to west. What actual motion mainly explains this?",
+    "audioPrompt": "The Sun appears to move east to west. What actual motion mainly explains this?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Earth is tilted as it revolves around the Sun.",
-      "Earth is much closer to the Sun in every country’s summer.",
-      "The Sun turns off some of its heat in winter."
+      "Earth revolves east to west each day.",
+      "The Sun circles Earth every 24 hours.",
+      "Earth’s axis flips westward.",
+      "Earth rotates west to east."
     ],
-    "correct": 0,
-    "explanation": "Earth is tilted as it revolves around the Sun.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 7,
+    "correct": 3,
+    "explanation": "Earth’s rotation produces the Sun’s apparent daily path.\nHint: Apparent sky motion is opposite the observer’s rotation.",
     "structuredExplanation": {
-      "summary": "Earth is tilted as it revolves around the Sun.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Earth’s rotation produces the Sun’s apparent daily path.",
+      "hint": "Apparent sky motion is opposite the observer’s rotation."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6u02-t-008",
     "curriculumCode": "AC9S6U02",
     "bank": "test",
-    "skill": "solar system motions",
+    "skill": "model scale",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: Which motion causes day and night on Earth?",
-    "audioPrompt": "A different class checks the same science idea: Which motion causes day and night on Earth?",
+    "question": "A diagram places Mars 3 cm from Earth. What may students validly infer?",
+    "audioPrompt": "A diagram places Mars 3 cm from Earth. What may students validly infer?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Earth orbiting the Sun once a year.",
-      "Earth rotating on its axis.",
-      "The Moon blocking sunlight every night."
+      "Only relationships explicitly represented; the 3 cm is not an actual or necessarily scaled distance.",
+      "Mars is exactly 3 cm from Earth.",
+      "Planet distances never change.",
+      "The model proves Mars is larger than Earth."
     ],
-    "correct": 1,
-    "explanation": "Earth rotating on its axis.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 8,
+    "correct": 0,
+    "explanation": "Model distances require a stated scale before quantitative use.\nHint: Do not treat page distance as space distance.",
     "structuredExplanation": {
-      "summary": "Earth rotating on its axis.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Model distances require a stated scale before quantitative use.",
+      "hint": "Do not treat page distance as space distance."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6u02-t-009",
     "curriculumCode": "AC9S6U02",
     "bank": "test",
-    "skill": "solar system motions",
+    "skill": "solstice prediction",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: Why is gravity important in the solar system?",
-    "audioPrompt": "A follow-up test asks: Why is gravity important in the solar system?",
+    "question": "After the southern summer solstice, what generally happens to Canberra daylight for several months?",
+    "audioPrompt": "After the southern summer solstice, what generally happens to Canberra daylight for several months?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "It makes planets produce their own light.",
-      "It stops Earth from rotating.",
-      "It helps keep planets in orbit around the Sun."
+      "It becomes permanently dark immediately.",
+      "It gradually becomes shorter.",
+      "Earth stops rotating.",
+      "It increases until the next December without decreasing."
     ],
-    "correct": 2,
-    "explanation": "It helps keep planets in orbit around the Sun.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 9,
+    "correct": 1,
+    "explanation": "After the maximum daylight point, the daylight arc decreases toward winter.\nHint: Use the yearly cycle, not a sudden switch.",
     "structuredExplanation": {
-      "summary": "It helps keep planets in orbit around the Sun.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "After the maximum daylight point, the daylight arc decreases toward winter.",
+      "hint": "Use the yearly cycle, not a sudden switch."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6u02-t-010",
     "curriculumCode": "AC9S6U02",
     "bank": "test",
-    "skill": "solar system motions",
+    "skill": "rotation period",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: Which observation is linked to Earth’s yearly revolution plus tilt?",
-    "audioPrompt": "A follow-up test asks: Which observation is linked to Earth’s yearly revolution plus tilt?",
+    "question": "If a model planet rotates once every 10 hours, what does that describe?",
+    "audioPrompt": "If a model planet rotates once every 10 hours, what does that describe?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Seasonal changes in daylight length.",
-      "The Sun appearing to cross the sky each day.",
-      "A torch making a shadow on a wall."
+      "Its year is 10 hours.",
+      "Its distance from the Sun is 10 hours.",
+      "Its day-night cycle is about 10 hours.",
+      "Its axial tilt is 10 hours."
     ],
-    "correct": 0,
-    "explanation": "Seasonal changes in daylight length.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 10,
+    "correct": 2,
+    "explanation": "Rotation period determines the length of a rotational day.\nHint: Match units of time to the type of motion.",
     "structuredExplanation": {
-      "summary": "Seasonal changes in daylight length.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Rotation period determines the length of a rotational day.",
+      "hint": "Match units of time to the type of motion."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6u02-t-011",
     "curriculumCode": "AC9S6U02",
     "bank": "test",
-    "skill": "solar system motions",
+    "skill": "opposite hemispheres",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: A student says the Moon makes day and night. What correction is best?",
-    "audioPrompt": "A follow-up test asks: A student says the Moon makes day and night. What correction is best?",
+    "question": "When the Northern Hemisphere tilts toward the Sun, what is true of the Southern Hemisphere?",
+    "audioPrompt": "When the Northern Hemisphere tilts toward the Sun, what is true of the Southern Hemisphere?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "The Moon is the main source of daylight.",
-      "Day and night happen because Earth rotates, while the Moon orbits Earth.",
-      "Day and night happen because Earth changes size."
+      "It also tilts toward the Sun.",
+      "Earth has no seasons.",
+      "It stops receiving all sunlight.",
+      "It tilts away and generally has shorter daylight."
     ],
-    "correct": 1,
-    "explanation": "Day and night happen because Earth rotates, while the Moon orbits Earth.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 11,
+    "correct": 3,
+    "explanation": "The same fixed axis gives opposite seasonal orientation to the hemispheres.\nHint: Visualise the whole tilted globe.",
     "structuredExplanation": {
-      "summary": "Day and night happen because Earth rotates, while the Moon orbits Earth.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "The same fixed axis gives opposite seasonal orientation to the hemispheres.",
+      "hint": "Visualise the whole tilted globe."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6u02-t-012",
     "curriculumCode": "AC9S6U02",
     "bank": "test",
-    "skill": "solar system motions",
+    "skill": "equinox model",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: Why does Canberra have longer daylight in summer than winter?",
-    "audioPrompt": "A follow-up test asks: Why does Canberra have longer daylight in summer than winter?",
+    "question": "At an equinox, which broad pattern does a globe-lamp model show?",
+    "audioPrompt": "At an equinox, which broad pattern does a globe-lamp model show?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "The Sun is smaller in winter.",
-      "Earth stops rotating in winter.",
-      "Its hemisphere is tilted more toward the Sun in summer."
+      "Day and night are approximately equal in length across Earth.",
+      "One hemisphere has continuous darkness.",
+      "Earth’s axis has no tilt.",
+      "Earth stops revolving."
     ],
-    "correct": 2,
-    "explanation": "Its hemisphere is tilted more toward the Sun in summer.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 12,
+    "correct": 0,
+    "explanation": "The tilt remains, but neither hemisphere is tilted strongly toward the Sun.\nHint: Do not confuse seasonal orientation with loss of tilt.",
     "structuredExplanation": {
-      "summary": "Its hemisphere is tilted more toward the Sun in summer.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "The tilt remains, but neither hemisphere is tilted strongly toward the Sun.",
+      "hint": "Do not confuse seasonal orientation with loss of tilt."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6u02-t-013",
     "curriculumCode": "AC9S6U02",
     "bank": "test",
-    "skill": "solar system motions",
+    "skill": "orbit and gravity",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: What does revolution mean in astronomy?",
-    "audioPrompt": "A follow-up test asks: What does revolution mean in astronomy?",
+    "question": "What keeps planets moving in curved paths around the Sun?",
+    "audioPrompt": "What keeps planets moving in curved paths around the Sun?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "One object moving around another object.",
-      "An object spinning on its own axis.",
-      "The Sun moving around Earth each day."
+      "Daily changes in Earth’s tilt.",
+      "The Sun’s gravitational attraction together with planetary motion.",
+      "Light pushing each planet around.",
+      "The Moon towing all planets."
     ],
-    "correct": 0,
-    "explanation": "One object moving around another object.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 13,
+    "correct": 1,
+    "explanation": "Gravity changes the direction of planetary motion into an orbit.\nHint: Choose the force central to the solar system.",
     "structuredExplanation": {
-      "summary": "One object moving around another object.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Gravity changes the direction of planetary motion into an orbit.",
+      "hint": "Choose the force central to the solar system."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6u02-t-014",
     "curriculumCode": "AC9S6U02",
     "bank": "test",
-    "skill": "solar system motions",
+    "skill": "shadow prediction",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: A model shows Earth, Mars and Jupiter very close together. What should students remember?",
-    "audioPrompt": "A follow-up test asks: A model shows Earth, Mars and Jupiter very close together. What should students remember?",
+    "question": "A vertical stick’s shadow is shortest near solar noon. Why?",
+    "audioPrompt": "A vertical stick’s shadow is shortest near solar noon. Why?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "The planets really touch each other.",
-      "Most classroom diagrams are not drawn to scale.",
-      "Jupiter is always between Earth and Mars."
+      "Earth stops rotating at noon.",
+      "The stick becomes shorter.",
+      "The Sun appears highest, so its rays make a shorter ground shadow.",
+      "The Sun is closest to Earth at noon."
     ],
-    "correct": 1,
-    "explanation": "Most classroom diagrams are not drawn to scale.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 14,
+    "correct": 2,
+    "explanation": "Shadow geometry changes with the Sun’s apparent angle.\nHint: Link angle of light to shadow length.",
     "structuredExplanation": {
-      "summary": "Most classroom diagrams are not drawn to scale.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Shadow geometry changes with the Sun’s apparent angle.",
+      "hint": "Link angle of light to shadow length."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6u02-t-015",
     "curriculumCode": "AC9S6U02",
     "bank": "test",
-    "skill": "solar system motions",
+    "skill": "season misconception",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: Why do seasons occur on Earth?",
-    "audioPrompt": "A follow-up test asks: Why do seasons occur on Earth?",
+    "question": "Which evidence best challenges “summer occurs because Earth is closer to the Sun”?",
+    "audioPrompt": "Which evidence best challenges “summer occurs because Earth is closer to the Sun”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Earth is much closer to the Sun in every country’s summer.",
-      "The Sun turns off some of its heat in winter.",
-      "Earth is tilted as it revolves around the Sun."
+      "Days repeat every 24 hours.",
+      "The Moon has phases.",
+      "Planets have different sizes.",
+      "Northern and Southern Hemispheres have opposite seasons at the same Earth-Sun distance."
     ],
-    "correct": 2,
-    "explanation": "Earth is tilted as it revolves around the Sun.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 15,
+    "correct": 3,
+    "explanation": "Opposite simultaneous seasons cannot be explained by one whole-Earth distance.\nHint: Seek evidence that directly tests the proposed cause.",
     "structuredExplanation": {
-      "summary": "Earth is tilted as it revolves around the Sun.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Opposite simultaneous seasons cannot be explained by one whole-Earth distance.",
+      "hint": "Seek evidence that directly tests the proposed cause."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6u02-t-016",
     "curriculumCode": "AC9S6U02",
     "bank": "test",
-    "skill": "solar system motions",
+    "skill": "synthesis",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: Which motion causes day and night on Earth?",
-    "audioPrompt": "A follow-up test asks: Which motion causes day and night on Earth?",
+    "question": "Which statement correctly combines daily and yearly motion?",
+    "audioPrompt": "Which statement correctly combines daily and yearly motion?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Earth rotating on its axis.",
-      "Earth orbiting the Sun once a year.",
-      "The Moon blocking sunlight every night."
+      "Earth rotates to produce day-night cycles while its tilted axis and revolution produce seasonal daylight changes.",
+      "Rotation produces seasons and revolution produces each night.",
+      "Tilt reverses daily and creates orbits.",
+      "The Sun circles Earth daily and yearly."
     ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 16,
     "correct": 0,
-    "explanation": "Earth rotating on its axis.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "explanation": "The statement assigns each observable cycle to the correct motion.\nHint: Check each cause-effect link separately.",
     "structuredExplanation": {
-      "summary": "Earth rotating on its axis.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "The statement assigns each observable cycle to the correct motion.",
+      "hint": "Check each cause-effect link separately."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

@@ -4,449 +4,529 @@ window.skillrTestQuestions = [
     "id": "ac9s6u03-t-001",
     "curriculumCode": "AC9S6U03",
     "bank": "test",
-    "skill": "circuits energy",
+    "skill": "unseen circuit",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: A student draws crossing lines and calls it parallel. What should they check?",
-    "audioPrompt": "A different class checks the same science idea: A student draws crossing lines and calls it parallel. What should they check?",
+    "question": "A lamp circuit has a closed switch but one wire touches the plastic coating instead of the metal core. Why is the lamp off?",
+    "audioPrompt": "A lamp circuit has a closed switch but one wire touches the plastic coating instead of the metal core. Why is the lamp off?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Whether there are separate complete paths, not just how the drawing looks.",
-      "Whether the lines look neat.",
-      "Whether both lamps are drawn at the top."
+      "The switch used up the energy.",
+      "The insulating coating prevents a conducting connection at that point.",
+      "Plastic creates too much current.",
+      "The lamp proves the cell is full."
     ],
-    "correct": 0,
-    "explanation": "Whether there are separate complete paths, not just how the drawing looks.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 1,
+    "correct": 1,
+    "explanation": "A complete geometric loop is not enough; contacts must conduct.\nHint: Inspect material at each connection.",
     "structuredExplanation": {
-      "summary": "Whether there are separate complete paths, not just how the drawing looks.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "A complete geometric loop is not enough; contacts must conduct.",
+      "hint": "Inspect material at each connection."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6u03-t-002",
     "curriculumCode": "AC9S6U03",
     "bank": "test",
-    "skill": "circuits energy",
+    "skill": "energy chain",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: What is the role of the cell or battery?",
-    "audioPrompt": "A different class checks the same science idea: What is the role of the cell or battery?",
+    "question": "A wind turbine charges a cell that later powers a buzzer. Which chain is best?",
+    "audioPrompt": "A wind turbine charges a cell that later powers a buzzer. Which chain is best?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "It blocks all charge movement.",
-      "It supplies electrical energy to the circuit.",
-      "It changes metal into plastic."
+      "sound → light → gravitational",
+      "electrical → nothing",
+      "kinetic → electrical → stored chemical → electrical → sound and thermal",
+      "thermal → mass → sound only"
     ],
-    "correct": 1,
-    "explanation": "It supplies electrical energy to the circuit.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 2,
+    "correct": 2,
+    "explanation": "The chain follows energy through generator, store and load.\nHint: Name each device’s input and output.",
     "structuredExplanation": {
-      "summary": "It supplies electrical energy to the circuit.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "The chain follows energy through generator, store and load.",
+      "hint": "Name each device’s input and output."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6u03-t-003",
     "curriculumCode": "AC9S6U03",
     "bank": "test",
-    "skill": "circuits energy",
+    "skill": "switch role",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: Two lamps in series become dimmer than one lamp. What is a likely reason?",
-    "audioPrompt": "A different class checks the same science idea: Two lamps in series become dimmer than one lamp. What is a likely reason?",
+    "question": "What changes when a simple switch opens?",
+    "audioPrompt": "What changes when a simple switch opens?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "The current disappears after the first lamp.",
-      "Series means each lamp has a separate battery.",
-      "The same energy source is shared through one path."
+      "The cell stops containing chemicals.",
+      "The wire becomes an insulator everywhere.",
+      "Electrical energy is created.",
+      "The conducting path becomes incomplete."
     ],
-    "correct": 2,
-    "explanation": "The same energy source is shared through one path.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 3,
+    "correct": 3,
+    "explanation": "A switch controls continuity of the path.\nHint: Think path, not electricity creation.",
     "structuredExplanation": {
-      "summary": "The same energy source is shared through one path.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "A switch controls continuity of the path.",
+      "hint": "Think path, not electricity creation."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6u03-t-004",
     "curriculumCode": "AC9S6U03",
     "bank": "test",
-    "skill": "circuits energy",
+    "skill": "conductor evidence",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: Why can one lamp stay on in a parallel circuit when another branch opens?",
-    "audioPrompt": "A different class checks the same science idea: Why can one lamp stay on in a parallel circuit when another branch opens?",
+    "question": "A steel spoon and aluminium foil light a tester lamp; wood and rubber do not. What is supported?",
+    "audioPrompt": "A steel spoon and aluminium foil light a tester lamp; wood and rubber do not. What is supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "The working branch still has its own complete path.",
-      "Parallel circuits have no wires.",
-      "The open branch gives extra current to the other lamp."
+      "Under these test conditions, the two metals conducted and the wood and rubber did not.",
+      "All metals always conduct equally.",
+      "Wood can never conduct under any condition.",
+      "The lamp measured object colour."
     ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 4,
     "correct": 0,
-    "explanation": "The working branch still has its own complete path.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "explanation": "Material conclusions should be limited to tested conditions.\nHint: Report what the circuit showed without absolutes.",
     "structuredExplanation": {
-      "summary": "The working branch still has its own complete path.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Material conclusions should be limited to tested conditions.",
+      "hint": "Report what the circuit showed without absolutes."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6u03-t-005",
     "curriculumCode": "AC9S6U03",
     "bank": "test",
-    "skill": "circuits energy",
+    "skill": "parallel diagnosis",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: Which material is most useful for connecting parts of a circuit?",
-    "audioPrompt": "A different class checks the same science idea: Which material is most useful for connecting parts of a circuit?",
+    "question": "One lamp in a two-branch circuit is removed and the other remains lit. Why?",
+    "audioPrompt": "One lamp in a two-branch circuit is removed and the other remains lit. Why?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Rubber band.",
-      "Copper wire.",
-      "Dry wooden stick."
+      "Current jumps across the empty holder.",
+      "The second branch still forms a complete path.",
+      "The remaining lamp creates a new cell.",
+      "Parallel means the wires cross on the page."
     ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 5,
     "correct": 1,
-    "explanation": "Copper wire.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "explanation": "Separate branches provide alternative complete paths.\nHint: Trace each branch independently.",
     "structuredExplanation": {
-      "summary": "Copper wire.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Separate branches provide alternative complete paths.",
+      "hint": "Trace each branch independently."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6u03-t-006",
     "curriculumCode": "AC9S6U03",
     "bank": "test",
-    "skill": "circuits energy",
+    "skill": "series diagnosis",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: A motor in a circuit spins and warms slightly. Which energy transformation is shown?",
-    "audioPrompt": "A different class checks the same science idea: A motor in a circuit spins and warms slightly. Which energy transformation is shown?",
+    "question": "Why do both lamps stop when one is removed from a one-loop circuit?",
+    "audioPrompt": "Why do both lamps stop when one is removed from a one-loop circuit?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Light energy changes into sound only.",
-      "Thermal energy changes into stored chemical energy.",
-      "Electrical energy changes into movement and thermal energy."
+      "The other lamp forgets how to work.",
+      "The cell instantly becomes an insulator.",
+      "Removing one lamp opens the only path.",
+      "Energy is destroyed by the empty holder."
     ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 6,
     "correct": 2,
-    "explanation": "Electrical energy changes into movement and thermal energy.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "explanation": "A gap anywhere in one series path interrupts the loop.\nHint: Trace the single path.",
     "structuredExplanation": {
-      "summary": "Electrical energy changes into movement and thermal energy.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "A gap anywhere in one series path interrupts the loop.",
+      "hint": "Trace the single path."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6u03-t-007",
     "curriculumCode": "AC9S6U03",
     "bank": "test",
-    "skill": "circuits energy",
+    "skill": "fair test",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: Why does a switch turn a lamp off when opened?",
-    "audioPrompt": "A different class checks the same science idea: Why does a switch turn a lamp off when opened?",
+    "question": "Students compare wire materials. Which variable should they measure?",
+    "audioPrompt": "Students compare wire materials. Which variable should they measure?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "It breaks the conducting path.",
-      "It uses up all the current.",
-      "It changes the lamp into an insulator."
+      "the students’ favourite material",
+      "the colour of the table",
+      "the final written title",
+      "whether the same lamp lights, or its brightness using a consistent measure"
     ],
-    "correct": 0,
-    "explanation": "It breaks the conducting path.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 7,
+    "correct": 3,
+    "explanation": "The outcome must indicate how well the test path conducts.\nHint: Choose an observable circuit response.",
     "structuredExplanation": {
-      "summary": "It breaks the conducting path.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "The outcome must indicate how well the test path conducts.",
+      "hint": "Choose an observable circuit response."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6u03-t-008",
     "curriculumCode": "AC9S6U03",
     "bank": "test",
-    "skill": "circuits energy",
+    "skill": "battery language",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: A lamp lights only when the wire path is complete. What does this show?",
-    "audioPrompt": "A different class checks the same science idea: A lamp lights only when the wire path is complete. What does this show?",
+    "question": "Which statement about a cell is most accurate?",
+    "audioPrompt": "Which statement about a cell is most accurate?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Current is stored inside the lamp.",
-      "A closed circuit is needed for electrical energy transfer.",
-      "Plastic wire covering conducts electricity."
+      "It supplies energy that can be transferred through a complete circuit.",
+      "It stores a fixed pile of current.",
+      "It manufactures matter in the lamp.",
+      "It works without a return path."
     ],
-    "correct": 1,
-    "explanation": "A closed circuit is needed for electrical energy transfer.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 8,
+    "correct": 0,
+    "explanation": "Energy-source language avoids treating current as a consumable substance.\nHint: Separate energy from current.",
     "structuredExplanation": {
-      "summary": "A closed circuit is needed for electrical energy transfer.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Energy-source language avoids treating current as a consumable substance.",
+      "hint": "Separate energy from current."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6u03-t-009",
     "curriculumCode": "AC9S6U03",
     "bank": "test",
-    "skill": "circuits energy",
+    "skill": "motor transformation",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: A student draws crossing lines and calls it parallel. What should they check?",
-    "audioPrompt": "A follow-up test asks: A student draws crossing lines and calls it parallel. What should they check?",
+    "question": "A toy car motor turns wheels and becomes warm. What outputs should be named?",
+    "audioPrompt": "A toy car motor turns wheels and becomes warm. What outputs should be named?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Whether the lines look neat.",
-      "Whether both lamps are drawn at the top.",
-      "Whether there are separate complete paths, not just how the drawing looks."
+      "chemical energy only",
+      "kinetic energy, thermal energy and some sound",
+      "light energy only",
+      "no transformed energy"
     ],
-    "correct": 2,
-    "explanation": "Whether there are separate complete paths, not just how the drawing looks.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 9,
+    "correct": 1,
+    "explanation": "The motor has useful motion plus less useful heat and sound outputs.\nHint: List observable outputs.",
     "structuredExplanation": {
-      "summary": "Whether there are separate complete paths, not just how the drawing looks.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "The motor has useful motion plus less useful heat and sound outputs.",
+      "hint": "List observable outputs."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6u03-t-010",
     "curriculumCode": "AC9S6U03",
     "bank": "test",
-    "skill": "circuits energy",
+    "skill": "insulator role",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: What is the role of the cell or battery?",
-    "audioPrompt": "A follow-up test asks: What is the role of the cell or battery?",
+    "question": "Why cover copper wire with plastic?",
+    "audioPrompt": "Why cover copper wire with plastic?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "It supplies electrical energy to the circuit.",
-      "It blocks all charge movement.",
-      "It changes metal into plastic."
+      "Plastic makes copper produce energy.",
+      "Copper is an insulator.",
+      "Copper conducts in the path; plastic helps prevent unintended contact between conductors and users.",
+      "The cover eliminates every possible electrical risk."
     ],
-    "correct": 0,
-    "explanation": "It supplies electrical energy to the circuit.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 10,
+    "correct": 2,
+    "explanation": "The materials perform different circuit and safety roles.\nHint: Distinguish core and coating.",
     "structuredExplanation": {
-      "summary": "It supplies electrical energy to the circuit.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "The materials perform different circuit and safety roles.",
+      "hint": "Distinguish core and coating."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6u03-t-011",
     "curriculumCode": "AC9S6U03",
     "bank": "test",
-    "skill": "circuits energy",
+    "skill": "competing faults",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: Two lamps in series become dimmer than one lamp. What is a likely reason?",
-    "audioPrompt": "A follow-up test asks: Two lamps in series become dimmer than one lamp. What is a likely reason?",
+    "question": "A lamp is off. Why is “the cell is flat” not yet a conclusion?",
+    "audioPrompt": "A lamp is off. Why is “the cell is flat” not yet a conclusion?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "The current disappears after the first lamp.",
-      "The same energy source is shared through one path.",
-      "Series means each lamp has a separate battery."
+      "Cells never become flat.",
+      "An off lamp proves no circuit exists.",
+      "Only switches can cause faults.",
+      "A broken lamp, open switch, loose contact or unsuitable conductor could give the same observation."
     ],
-    "correct": 1,
-    "explanation": "The same energy source is shared through one path.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 11,
+    "correct": 3,
+    "explanation": "One observation can have several plausible causes.\nHint: Test one possibility at a time.",
     "structuredExplanation": {
-      "summary": "The same energy source is shared through one path.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "One observation can have several plausible causes.",
+      "hint": "Test one possibility at a time."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6u03-t-012",
     "curriculumCode": "AC9S6U03",
     "bank": "test",
-    "skill": "circuits energy",
+    "skill": "diagnostic test",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: Why can one lamp stay on in a parallel circuit when another branch opens?",
-    "audioPrompt": "A follow-up test asks: Why can one lamp stay on in a parallel circuit when another branch opens?",
+    "question": "How can students test whether a lamp rather than the cell is faulty?",
+    "audioPrompt": "How can students test whether a lamp rather than the cell is faulty?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Parallel circuits have no wires.",
-      "The open branch gives extra current to the other lamp.",
-      "The working branch still has its own complete path."
+      "Replace the lamp with a known working lamp while keeping the rest unchanged.",
+      "Replace every component at once.",
+      "Open the switch and guess.",
+      "Add exposed mains electricity."
     ],
-    "correct": 2,
-    "explanation": "The working branch still has its own complete path.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 12,
+    "correct": 0,
+    "explanation": "Changing one component isolates the suspected cause safely.\nHint: Substitute one known working component.",
     "structuredExplanation": {
-      "summary": "The working branch still has its own complete path.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Changing one component isolates the suspected cause safely.",
+      "hint": "Substitute one known working component."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6u03-t-013",
     "curriculumCode": "AC9S6U03",
     "bank": "test",
-    "skill": "circuits energy",
+    "skill": "current misconception",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: Which material is most useful for connecting parts of a circuit?",
-    "audioPrompt": "A follow-up test asks: Which material is most useful for connecting parts of a circuit?",
+    "question": "Which correction best addresses “the first lamp uses up all the current”?",
+    "audioPrompt": "Which correction best addresses “the first lamp uses up all the current”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Copper wire.",
-      "Rubber band.",
-      "Dry wooden stick."
+      "The first lamp stores every electron.",
+      "Loads transform energy; a complete circuit supports current throughout the path rather than current being consumed like fuel.",
+      "Current exists only inside lamps.",
+      "The second lamp creates replacement matter."
     ],
-    "correct": 0,
-    "explanation": "Copper wire.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 13,
+    "correct": 1,
+    "explanation": "The key distinction is current flow versus energy transfer and transformation.\nHint: Ask what is transformed at the load.",
     "structuredExplanation": {
-      "summary": "Copper wire.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "The key distinction is current flow versus energy transfer and transformation.",
+      "hint": "Ask what is transformed at the load."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6u03-t-014",
     "curriculumCode": "AC9S6U03",
     "bank": "test",
-    "skill": "circuits energy",
+    "skill": "safe investigation",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: A motor in a circuit spins and warms slightly. Which energy transformation is shown?",
-    "audioPrompt": "A follow-up test asks: A motor in a circuit spins and warms slightly. Which energy transformation is shown?",
+    "question": "Which source is appropriate for a Year 6 circuit investigation?",
+    "audioPrompt": "Which source is appropriate for a Year 6 circuit investigation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Light energy changes into sound only.",
-      "Electrical energy changes into movement and thermal energy.",
-      "Thermal energy changes into stored chemical energy."
+      "A household wall socket.",
+      "An exposed powerboard connection.",
+      "A low-voltage classroom cell used with teacher-approved components.",
+      "An unknown damaged battery pack."
     ],
-    "correct": 1,
-    "explanation": "Electrical energy changes into movement and thermal energy.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 14,
+    "correct": 2,
+    "explanation": "School investigations use low-voltage equipment and controlled procedures.\nHint: Safety boundaries override curiosity.",
     "structuredExplanation": {
-      "summary": "Electrical energy changes into movement and thermal energy.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "School investigations use low-voltage equipment and controlled procedures.",
+      "hint": "Safety boundaries override curiosity."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6u03-t-015",
     "curriculumCode": "AC9S6U03",
     "bank": "test",
-    "skill": "circuits energy",
+    "skill": "connection symbol",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: Why does a switch turn a lamp off when opened?",
-    "audioPrompt": "A follow-up test asks: Why does a switch turn a lamp off when opened?",
+    "question": "Two drawn wires cross without a junction dot. What should a student avoid assuming?",
+    "audioPrompt": "Two drawn wires cross without a junction dot. What should a student avoid assuming?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "It uses up all the current.",
-      "It changes the lamp into an insulator.",
-      "It breaks the conducting path."
+      "That every circuit uses wires.",
+      "That a cell supplies energy.",
+      "That a lamp is a load.",
+      "That the wires are electrically connected at the crossing."
     ],
-    "correct": 2,
-    "explanation": "It breaks the conducting path.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 15,
+    "correct": 3,
+    "explanation": "Circuit conventions distinguish crossings from joined conductors.\nHint: Look for a junction marker or explicit connection.",
     "structuredExplanation": {
-      "summary": "It breaks the conducting path.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Circuit conventions distinguish crossings from joined conductors.",
+      "hint": "Look for a junction marker or explicit connection."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6u03-t-016",
     "curriculumCode": "AC9S6U03",
     "bank": "test",
-    "skill": "circuits energy",
+    "skill": "synthesis",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: A lamp lights only when the wire path is complete. What does this show?",
-    "audioPrompt": "A follow-up test asks: A lamp lights only when the wire path is complete. What does this show?",
+    "question": "Which explanation best describes a working torch?",
+    "audioPrompt": "Which explanation best describes a working torch?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "A closed circuit is needed for electrical energy transfer.",
-      "Current is stored inside the lamp.",
-      "Plastic wire covering conducts electricity."
+      "A cell supplies energy through a closed conducting path; the lamp transforms electrical energy into light and heat, while insulation helps keep contacts separated.",
+      "The switch creates current and the bulb destroys it.",
+      "Plastic carries current and metal blocks it.",
+      "The lamp works without a complete return path."
     ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 16,
     "correct": 0,
-    "explanation": "A closed circuit is needed for electrical energy transfer.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "explanation": "The explanation integrates path, component, transformation and material roles.\nHint: Choose the complete model with no misconception.",
     "structuredExplanation": {
-      "summary": "A closed circuit is needed for electrical energy transfer.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "The explanation integrates path, component, transformation and material roles.",
+      "hint": "Choose the complete model with no misconception."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

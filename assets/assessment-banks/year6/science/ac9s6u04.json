@@ -1,1322 +1,2754 @@
 [
   {
-    "id": "ac9s6u04-p-001",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U04-P-001",
     "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "material changes",
-    "question": "Ice melts on a plate and later freezes again. What type of change is this?",
-    "audio_prompt": "Ice melts on a plate and later freezes again. What type of change is this?",
+    "stage": "foundation",
+    "skill": "classify_change",
+    "question": "An ice cube melts and the liquid water is frozen again. How should this change be classified?",
+    "audio_prompt": "An ice cube melts and the liquid water is frozen again. How should this change be classified?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A reversible change of state.",
+        "text": "A reversible physical change with no new substance formed.",
         "is_correct": true
       },
       {
-        "text": "An irreversible chemical change.",
+        "text": "An irreversible chemical change producing a new substance.",
         "is_correct": false
       },
       {
-        "text": "A new substance forming.",
+        "text": "irreversible only because it takes time",
+        "is_correct": false
+      },
+      {
+        "text": "impossible to classify because all changes are identical",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A reversible change of state.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A reversible physical change with no new substance formed. Only the state changes; the substance remains water.",
+      "hint": "Decide whether a new substance forms; do not rely only on appearance."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 1,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u04-p-002",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U04-P-002",
     "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "material changes",
-    "question": "Toast burns and turns black. Why is this usually irreversible?",
-    "audio_prompt": "Toast burns and turns black. Why is this usually irreversible?",
+    "stage": "foundation",
+    "skill": "use_evidence",
+    "question": "An ice cube melts and the liquid water is frozen again. Which observation is the strongest evidence for the classification?",
+    "audio_prompt": "An ice cube melts and the liquid water is frozen again. Which observation is the strongest evidence for the classification?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The bread simply changed position.",
+        "text": "The material was observed by a student.",
         "is_correct": false
       },
       {
-        "text": "New substances with different properties form.",
+        "text": "The liquid can freeze back into solid water.",
         "is_correct": true
       },
       {
-        "text": "Cooling it will turn it back into fresh bread.",
+        "text": "The container had a different shape.",
+        "is_correct": false
+      },
+      {
+        "text": "The change happened on a Tuesday.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "New substances with different properties form.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The liquid can freeze back into solid water. This evidence addresses whether the original substance remains or a new substance forms.",
+      "hint": "Select evidence about substance identity or a reversible physical process."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 2,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u04-p-003",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U04-P-003",
     "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "material changes",
-    "question": "Salt dissolves in water. What happened to the salt?",
-    "audio_prompt": "Salt dissolves in water. What happened to the salt?",
+    "stage": "core",
+    "skill": "recovery_or_reversal",
+    "question": "An ice cube melts and the liquid water is frozen again. Which follow-up action best investigates this change?",
+    "audio_prompt": "An ice cube melts and the liquid water is frozen again. Which follow-up action best investigates this change?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It stopped existing.",
+        "text": "Rename the material.",
         "is_correct": false
       },
       {
-        "text": "It changed into oxygen gas.",
+        "text": "Add food colouring and assume it is restored.",
         "is_correct": false
       },
       {
-        "text": "Its particles spread through the water; it did not disappear.",
+        "text": "Cool the liquid below its freezing point.",
         "is_correct": true
+      },
+      {
+        "text": "Record no observations and guess.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Its particles spread through the water; it did not disappear.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Cool the liquid below its freezing point. This action tests reversibility, recovery, properties or the conditions involved in the change.",
+      "hint": "Choose a method directly linked to the change and the evidence needed."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 3,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u04-p-004",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U04-P-004",
     "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "material changes",
-    "question": "Which process could recover salt from salty water?",
-    "audio_prompt": "Which process could recover salt from salty water?",
+    "stage": "application",
+    "skill": "particle_reasoning",
+    "question": "An ice cube melts and the liquid water is frozen again. Which particle-level description is most appropriate at Year 6?",
+    "audio_prompt": "An ice cube melts and the liquid water is frozen again. Which particle-level description is most appropriate at Year 6?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Evaporation.",
-        "is_correct": true
-      },
-      {
-        "text": "Burning the water.",
+        "text": "All particles vanish during any visible change.",
         "is_correct": false
       },
       {
-        "text": "Adding food colouring.",
+        "text": "Every physical change creates a new element.",
+        "is_correct": false
+      },
+      {
+        "text": "Particles stop existing when a substance dissolves.",
+        "is_correct": false
+      },
+      {
+        "text": "The same water particles remain but move and arrange differently in solid and liquid states.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A change of state changes particle motion and arrangement, not substance identity.",
+      "hint": "For a reversible physical change, the substance remains; for a chemical change, particles are rearranged into new substances."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 4,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U04-P-005",
+    "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "reject_misconception",
+    "question": "A student says, “All heating creates a new substance.” Which response is best?",
+    "audio_prompt": "A student says, “All heating creates a new substance.” Which response is best?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Melting can be reversed by cooling and does not create a new substance.",
+        "is_correct": true
+      },
+      {
+        "text": "The claim is always true without evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Every change caused by cooling is chemical.",
+        "is_correct": false
+      },
+      {
+        "text": "Reversibility depends only on how expensive the equipment is.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Evaporation.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Melting can be reversed by cooling and does not create a new substance.",
+      "hint": "Use evidence about new substances and possible physical recovery."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 5,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u04-p-005",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U04-P-006",
     "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "material changes",
-    "question": "Why do bubbles alone not prove a chemical change?",
-    "audio_prompt": "Why do bubbles alone not prove a chemical change?",
+    "stage": "challenge",
+    "skill": "evaluate_evidence",
+    "question": "The water looks cloudy after melting, but no further observations are recorded. What is the most scientific conclusion?",
+    "audio_prompt": "The water looks cloudy after melting, but no further observations are recorded. What is the most scientific conclusion?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Bubbles always mean rusting.",
+        "text": "A new substance definitely formed because something looked different.",
         "is_correct": false
       },
       {
-        "text": "Bubbles can also come from boiling or trapped air.",
+        "text": "Cloudiness alone is insufficient evidence that a new substance formed.",
         "is_correct": true
       },
       {
-        "text": "Bubbles prove the material vanished.",
+        "text": "No change occurred because the student is unsure.",
+        "is_correct": false
+      },
+      {
+        "text": "All irreversible changes can be reversed by freezing.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Bubbles can also come from boiling or trapped air.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Cloudiness alone is insufficient evidence that a new substance formed. Scientific classification should match the available observations and acknowledge missing evidence.",
+      "hint": "Choose “insufficient evidence” when the observations do not distinguish the possibilities."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 6,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u04-p-006",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U04-P-007",
     "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "material changes",
-    "question": "Steel wool rusts after being damp for days. What evidence supports a new substance?",
-    "audio_prompt": "Steel wool rusts after being damp for days. What evidence supports a new substance?",
+    "stage": "foundation",
+    "skill": "classify_change",
+    "question": "Salt is stirred into water until the crystals are no longer visible. How should this change be classified?",
+    "audio_prompt": "Salt is stirred into water until the crystals are no longer visible. How should this change be classified?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The steel is moved to another bench.",
+        "text": "An irreversible change because the salt has vanished.",
         "is_correct": false
       },
       {
-        "text": "The steel is weighed once before the test.",
+        "text": "irreversible only because it takes time",
         "is_correct": false
       },
       {
-        "text": "A reddish-brown material with different properties appears.",
+        "text": "A reversible physical change because the salt remains present in solution.",
         "is_correct": true
+      },
+      {
+        "text": "impossible to classify because all changes are identical",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A reddish-brown material with different properties appears.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A reversible physical change because the salt remains present in solution. Dissolving disperses salt particles; it does not destroy the salt.",
+      "hint": "Decide whether a new substance forms; do not rely only on appearance."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 7,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u04-p-007",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U04-P-008",
     "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "material changes",
-    "question": "Wax melts near heat and solidifies when cooled. What is the best classification?",
-    "audio_prompt": "Wax melts near heat and solidifies when cooled. What is the best classification?",
+    "stage": "foundation",
+    "skill": "use_evidence",
+    "question": "Salt is stirred into water until the crystals are no longer visible. Which observation is the strongest evidence for the classification?",
+    "audio_prompt": "Salt is stirred into water until the crystals are no longer visible. Which observation is the strongest evidence for the classification?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Reversible physical change.",
-        "is_correct": true
-      },
-      {
-        "text": "Irreversible chemical change.",
+        "text": "The material was observed by a student.",
         "is_correct": false
       },
       {
-        "text": "Dissolving into a solution.",
+        "text": "The container had a different shape.",
+        "is_correct": false
+      },
+      {
+        "text": "The change happened on a Tuesday.",
+        "is_correct": false
+      },
+      {
+        "text": "Evaporating the water can leave salt crystals behind.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Evaporating the water can leave salt crystals behind. This evidence addresses whether the original substance remains or a new substance forms.",
+      "hint": "Select evidence about substance identity or a reversible physical process."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 8,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U04-P-009",
+    "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "recovery_or_reversal",
+    "question": "Salt is stirred into water until the crystals are no longer visible. Which follow-up action best investigates this change?",
+    "audio_prompt": "Salt is stirred into water until the crystals are no longer visible. Which follow-up action best investigates this change?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Evaporate the water safely to recover the dissolved salt.",
+        "is_correct": true
+      },
+      {
+        "text": "Rename the material.",
+        "is_correct": false
+      },
+      {
+        "text": "Add food colouring and assume it is restored.",
+        "is_correct": false
+      },
+      {
+        "text": "Record no observations and guess.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Reversible physical change.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Evaporate the water safely to recover the dissolved salt. This action tests reversibility, recovery, properties or the conditions involved in the change.",
+      "hint": "Choose a method directly linked to the change and the evidence needed."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 9,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u04-p-008",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U04-P-010",
     "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "material changes",
-    "question": "A cake batter becomes a baked cake. Why is reversing it not practical?",
-    "audio_prompt": "A cake batter becomes a baked cake. Why is reversing it not practical?",
+    "stage": "application",
+    "skill": "particle_reasoning",
+    "question": "Salt is stirred into water until the crystals are no longer visible. Which particle-level description is most appropriate at Year 6?",
+    "audio_prompt": "Salt is stirred into water until the crystals are no longer visible. Which particle-level description is most appropriate at Year 6?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is only a change of container.",
+        "text": "All particles vanish during any visible change.",
         "is_correct": false
       },
       {
-        "text": "Cooking produces new materials and structure.",
+        "text": "Salt particles spread among water particles and remain part of the mixture.",
         "is_correct": true
       },
       {
-        "text": "It can be undone by cooling overnight.",
+        "text": "Every physical change creates a new element.",
+        "is_correct": false
+      },
+      {
+        "text": "Particles stop existing when a substance dissolves.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Cooking produces new materials and structure.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The solute is dispersed rather than disappearing.",
+      "hint": "For a reversible physical change, the substance remains; for a chemical change, particles are rearranged into new substances."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 10,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u04-p-009",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U04-P-011",
     "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "material changes",
-    "question": "Ice melts on a plate and later freezes again. What type of change is this in a new class investigation?",
-    "audio_prompt": "Ice melts on a plate and later freezes again. What type of change is this in a new class investigation?",
+    "stage": "application",
+    "skill": "reject_misconception",
+    "question": "A student says, “Dissolved salt no longer exists.” Which response is best?",
+    "audio_prompt": "A student says, “Dissolved salt no longer exists.” Which response is best?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "An irreversible chemical change.",
+        "text": "The claim is always true without evidence.",
         "is_correct": false
       },
       {
-        "text": "A new substance forming.",
+        "text": "Every change caused by cooling is chemical.",
         "is_correct": false
       },
       {
-        "text": "A reversible change of state.",
+        "text": "The salt remains in the solution and can be detected by taste-free tests or recovered by evaporation.",
         "is_correct": true
+      },
+      {
+        "text": "Reversibility depends only on how expensive the equipment is.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A reversible change of state.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The salt remains in the solution and can be detected by taste-free tests or recovered by evaporation.",
+      "hint": "Use evidence about new substances and possible physical recovery."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 11,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u04-p-010",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U04-P-012",
     "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "material changes",
-    "question": "Toast burns and turns black. Why is this usually irreversible in a new class investigation?",
-    "audio_prompt": "Toast burns and turns black. Why is this usually irreversible in a new class investigation?",
+    "stage": "challenge",
+    "skill": "evaluate_evidence",
+    "question": "A clear liquid remains after an unknown white solid is stirred in. What is the most scientific conclusion?",
+    "audio_prompt": "A clear liquid remains after an unknown white solid is stirred in. What is the most scientific conclusion?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "New substances with different properties form.",
-        "is_correct": true
-      },
-      {
-        "text": "The bread simply changed position.",
+        "text": "A new substance definitely formed because something looked different.",
         "is_correct": false
       },
       {
-        "text": "Cooling it will turn it back into fresh bread.",
+        "text": "No change occurred because the student is unsure.",
+        "is_correct": false
+      },
+      {
+        "text": "All irreversible changes can be reversed by freezing.",
+        "is_correct": false
+      },
+      {
+        "text": "Clarity alone cannot show whether the solid dissolved, reacted or settled out.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Clarity alone cannot show whether the solid dissolved, reacted or settled out. Scientific classification should match the available observations and acknowledge missing evidence.",
+      "hint": "Choose “insufficient evidence” when the observations do not distinguish the possibilities."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 12,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U04-P-013",
+    "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "classify_change",
+    "question": "Cake batter is baked and becomes a firm cake with new colour, texture and odour. How should this change be classified?",
+    "audio_prompt": "Cake batter is baked and becomes a firm cake with new colour, texture and odour. How should this change be classified?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "An irreversible chemical change in which new substances form.",
+        "is_correct": true
+      },
+      {
+        "text": "A reversible change of state only.",
+        "is_correct": false
+      },
+      {
+        "text": "irreversible only because it takes time",
+        "is_correct": false
+      },
+      {
+        "text": "impossible to classify because all changes are identical",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "New substances with different properties form.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "An irreversible chemical change in which new substances form. Cooking causes reactions that cannot be reversed by simple physical methods.",
+      "hint": "Decide whether a new substance forms; do not rely only on appearance."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 13,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u04-p-011",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U04-P-014",
     "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "material changes",
-    "question": "Salt dissolves in water. What happened to the salt in a new class investigation?",
-    "audio_prompt": "Salt dissolves in water. What happened to the salt in a new class investigation?",
+    "stage": "core",
+    "skill": "use_evidence",
+    "question": "Cake batter is baked and becomes a firm cake with new colour, texture and odour. Which observation is the strongest evidence for the classification?",
+    "audio_prompt": "Cake batter is baked and becomes a firm cake with new colour, texture and odour. Which observation is the strongest evidence for the classification?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It stopped existing.",
+        "text": "The material was observed by a student.",
         "is_correct": false
       },
       {
-        "text": "Its particles spread through the water; it did not disappear.",
+        "text": "The baked material has lasting new properties and cannot be separated back into raw batter.",
         "is_correct": true
       },
       {
-        "text": "It changed into oxygen gas.",
+        "text": "The container had a different shape.",
+        "is_correct": false
+      },
+      {
+        "text": "The change happened on a Tuesday.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Its particles spread through the water; it did not disappear.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The baked material has lasting new properties and cannot be separated back into raw batter. This evidence addresses whether the original substance remains or a new substance forms.",
+      "hint": "Select evidence about substance identity or a reversible physical process."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 14,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u04-p-012",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U04-P-015",
     "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "material changes",
-    "question": "Which process could recover salt from salty water in a new class investigation?",
-    "audio_prompt": "Which process could recover salt from salty water in a new class investigation?",
+    "stage": "core",
+    "skill": "recovery_or_reversal",
+    "question": "Cake batter is baked and becomes a firm cake with new colour, texture and odour. Which follow-up action best investigates this change?",
+    "audio_prompt": "Cake batter is baked and becomes a firm cake with new colour, texture and odour. Which follow-up action best investigates this change?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Burning the water.",
+        "text": "Rename the material.",
         "is_correct": false
       },
       {
-        "text": "Adding food colouring.",
+        "text": "Add food colouring and assume it is restored.",
         "is_correct": false
       },
       {
-        "text": "Evaporation.",
+        "text": "Compare the batter and cake properties; no simple cooling step will restore the batter.",
         "is_correct": true
+      },
+      {
+        "text": "Record no observations and guess.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Evaporation.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Compare the batter and cake properties; no simple cooling step will restore the batter. This action tests reversibility, recovery, properties or the conditions involved in the change.",
+      "hint": "Choose a method directly linked to the change and the evidence needed."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 15,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u04-p-013",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U04-P-016",
     "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "material changes",
-    "question": "Why do bubbles alone not prove a chemical change in a new class investigation?",
-    "audio_prompt": "Why do bubbles alone not prove a chemical change in a new class investigation?",
+    "stage": "application",
+    "skill": "particle_reasoning",
+    "question": "Cake batter is baked and becomes a firm cake with new colour, texture and odour. Which particle-level description is most appropriate at Year 6?",
+    "audio_prompt": "Cake batter is baked and becomes a firm cake with new colour, texture and odour. Which particle-level description is most appropriate at Year 6?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Bubbles can also come from boiling or trapped air.",
-        "is_correct": true
-      },
-      {
-        "text": "Bubbles always mean rusting.",
+        "text": "All particles vanish during any visible change.",
         "is_correct": false
       },
       {
-        "text": "Bubbles prove the material vanished.",
+        "text": "Every physical change creates a new element.",
+        "is_correct": false
+      },
+      {
+        "text": "Particles stop existing when a substance dissolves.",
+        "is_correct": false
+      },
+      {
+        "text": "Particles from ingredients are rearranged through reactions into new substances.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Chemical changes rearrange particles into substances with new properties.",
+      "hint": "For a reversible physical change, the substance remains; for a chemical change, particles are rearranged into new substances."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 16,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U04-P-017",
+    "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "reject_misconception",
+    "question": "A student says, “The cake will turn back into batter if it cools.” Which response is best?",
+    "audio_prompt": "A student says, “The cake will turn back into batter if it cools.” Which response is best?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Cooling changes temperature but does not reverse the cooking reactions.",
+        "is_correct": true
+      },
+      {
+        "text": "The claim is always true without evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Every change caused by cooling is chemical.",
+        "is_correct": false
+      },
+      {
+        "text": "Reversibility depends only on how expensive the equipment is.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Bubbles can also come from boiling or trapped air.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Cooling changes temperature but does not reverse the cooking reactions.",
+      "hint": "Use evidence about new substances and possible physical recovery."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 17,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u04-p-014",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U04-P-018",
     "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "material changes",
-    "question": "Steel wool rusts after being damp for days. What evidence supports a new substance in a new class investigation?",
-    "audio_prompt": "Steel wool rusts after being damp for days. What evidence supports a new substance in a new class investigation?",
+    "stage": "challenge",
+    "skill": "evaluate_evidence",
+    "question": "A mixture is warmed briefly and becomes thicker, but ingredients and reversibility are not tested. What is the most scientific conclusion?",
+    "audio_prompt": "A mixture is warmed briefly and becomes thicker, but ingredients and reversibility are not tested. What is the most scientific conclusion?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The steel is moved to another bench.",
+        "text": "A new substance definitely formed because something looked different.",
         "is_correct": false
       },
       {
-        "text": "A reddish-brown material with different properties appears.",
+        "text": "More evidence is needed to decide whether a new substance formed or only a physical change occurred.",
         "is_correct": true
       },
       {
-        "text": "The steel is weighed once before the test.",
+        "text": "No change occurred because the student is unsure.",
+        "is_correct": false
+      },
+      {
+        "text": "All irreversible changes can be reversed by freezing.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A reddish-brown material with different properties appears.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "More evidence is needed to decide whether a new substance formed or only a physical change occurred. Scientific classification should match the available observations and acknowledge missing evidence.",
+      "hint": "Choose “insufficient evidence” when the observations do not distinguish the possibilities."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 18,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u04-p-015",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U04-P-019",
     "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "material changes",
-    "question": "Wax melts near heat and solidifies when cooled. What is the best classification in a new class investigation?",
-    "audio_prompt": "Wax melts near heat and solidifies when cooled. What is the best classification in a new class investigation?",
+    "stage": "core",
+    "skill": "classify_change",
+    "question": "A damp iron nail develops a reddish-brown coating over several days. How should this change be classified?",
+    "audio_prompt": "A damp iron nail develops a reddish-brown coating over several days. How should this change be classified?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Irreversible chemical change.",
+        "text": "A reversible melting process.",
         "is_correct": false
       },
       {
-        "text": "Dissolving into a solution.",
+        "text": "irreversible only because it takes time",
         "is_correct": false
       },
       {
-        "text": "Reversible physical change.",
+        "text": "An irreversible chemical change because rust is a new substance.",
         "is_correct": true
+      },
+      {
+        "text": "impossible to classify because all changes are identical",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Reversible physical change.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "An irreversible chemical change because rust is a new substance. Iron reacts with oxygen and water to form rust with different properties.",
+      "hint": "Decide whether a new substance forms; do not rely only on appearance."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 19,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u04-p-016",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U04-P-020",
     "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "material changes",
-    "question": "A cake batter becomes a baked cake. Why is reversing it not practical in a new class investigation?",
-    "audio_prompt": "A cake batter becomes a baked cake. Why is reversing it not practical in a new class investigation?",
+    "stage": "core",
+    "skill": "use_evidence",
+    "question": "A damp iron nail develops a reddish-brown coating over several days. Which observation is the strongest evidence for the classification?",
+    "audio_prompt": "A damp iron nail develops a reddish-brown coating over several days. Which observation is the strongest evidence for the classification?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Cooking produces new materials and structure.",
-        "is_correct": true
-      },
-      {
-        "text": "It is only a change of container.",
+        "text": "The material was observed by a student.",
         "is_correct": false
       },
       {
-        "text": "It can be undone by cooling overnight.",
+        "text": "The container had a different shape.",
+        "is_correct": false
+      },
+      {
+        "text": "The change happened on a Tuesday.",
+        "is_correct": false
+      },
+      {
+        "text": "A persistent new coating forms and the iron surface changes chemically.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A persistent new coating forms and the iron surface changes chemically. This evidence addresses whether the original substance remains or a new substance forms.",
+      "hint": "Select evidence about substance identity or a reversible physical process."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 20,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U04-P-021",
+    "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "recovery_or_reversal",
+    "question": "A damp iron nail develops a reddish-brown coating over several days. Which follow-up action best investigates this change?",
+    "audio_prompt": "A damp iron nail develops a reddish-brown coating over several days. Which follow-up action best investigates this change?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Compare protected dry nails with damp exposed nails to test conditions for rusting.",
+        "is_correct": true
+      },
+      {
+        "text": "Rename the material.",
+        "is_correct": false
+      },
+      {
+        "text": "Add food colouring and assume it is restored.",
+        "is_correct": false
+      },
+      {
+        "text": "Record no observations and guess.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Cooking produces new materials and structure.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Compare protected dry nails with damp exposed nails to test conditions for rusting. This action tests reversibility, recovery, properties or the conditions involved in the change.",
+      "hint": "Choose a method directly linked to the change and the evidence needed."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 21,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u04-p-017",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U04-P-022",
     "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "material changes",
-    "question": "Ice melts on a plate and later freezes again. What type of change is this after students review their evidence?",
-    "audio_prompt": "Ice melts on a plate and later freezes again. What type of change is this after students review their evidence?",
+    "stage": "application",
+    "skill": "particle_reasoning",
+    "question": "A damp iron nail develops a reddish-brown coating over several days. Which particle-level description is most appropriate at Year 6?",
+    "audio_prompt": "A damp iron nail develops a reddish-brown coating over several days. Which particle-level description is most appropriate at Year 6?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "An irreversible chemical change.",
+        "text": "All particles vanish during any visible change.",
         "is_correct": false
       },
       {
-        "text": "A reversible change of state.",
+        "text": "Iron particles combine with oxygen in a reaction that produces iron oxide.",
         "is_correct": true
       },
       {
-        "text": "A new substance forming.",
+        "text": "Every physical change creates a new element.",
+        "is_correct": false
+      },
+      {
+        "text": "Particles stop existing when a substance dissolves.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A reversible change of state.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The atoms are rearranged into a new compound rather than merely changing state.",
+      "hint": "For a reversible physical change, the substance remains; for a chemical change, particles are rearranged into new substances."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 22,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u04-p-018",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U04-P-023",
     "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "material changes",
-    "question": "Toast burns and turns black. Why is this usually irreversible after students review their evidence?",
-    "audio_prompt": "Toast burns and turns black. Why is this usually irreversible after students review their evidence?",
+    "stage": "application",
+    "skill": "reject_misconception",
+    "question": "A student says, “Rust is melted iron that can be frozen back.” Which response is best?",
+    "audio_prompt": "A student says, “Rust is melted iron that can be frozen back.” Which response is best?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The bread simply changed position.",
+        "text": "The claim is always true without evidence.",
         "is_correct": false
       },
       {
-        "text": "Cooling it will turn it back into fresh bread.",
+        "text": "Every change caused by cooling is chemical.",
         "is_correct": false
       },
       {
-        "text": "New substances with different properties form.",
+        "text": "Rust is a new substance formed by reaction, not liquid iron.",
         "is_correct": true
+      },
+      {
+        "text": "Reversibility depends only on how expensive the equipment is.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "New substances with different properties form.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Rust is a new substance formed by reaction, not liquid iron.",
+      "hint": "Use evidence about new substances and possible physical recovery."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 23,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u04-p-019",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U04-P-024",
     "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "material changes",
-    "question": "Salt dissolves in water. What happened to the salt after students review their evidence?",
-    "audio_prompt": "Salt dissolves in water. What happened to the salt after students review their evidence?",
+    "stage": "challenge",
+    "skill": "evaluate_evidence",
+    "question": "A metal surface turns dull after one hour, with no mass, coating or reaction tests. What is the most scientific conclusion?",
+    "audio_prompt": "A metal surface turns dull after one hour, with no mass, coating or reaction tests. What is the most scientific conclusion?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Its particles spread through the water; it did not disappear.",
-        "is_correct": true
-      },
-      {
-        "text": "It stopped existing.",
+        "text": "A new substance definitely formed because something looked different.",
         "is_correct": false
       },
       {
-        "text": "It changed into oxygen gas.",
+        "text": "No change occurred because the student is unsure.",
+        "is_correct": false
+      },
+      {
+        "text": "All irreversible changes can be reversed by freezing.",
+        "is_correct": false
+      },
+      {
+        "text": "A colour change may be evidence, but by itself it is not enough to identify rust or prove a new substance.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A colour change may be evidence, but by itself it is not enough to identify rust or prove a new substance. Scientific classification should match the available observations and acknowledge missing evidence.",
+      "hint": "Choose “insufficient evidence” when the observations do not distinguish the possibilities."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 24,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U04-P-025",
+    "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "classify_change",
+    "question": "Candle wax softens and melts near a heater, then hardens when moved away. How should this change be classified?",
+    "audio_prompt": "Candle wax softens and melts near a heater, then hardens when moved away. How should this change be classified?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A reversible physical change of state.",
+        "is_correct": true
+      },
+      {
+        "text": "An irreversible change because heat was used.",
+        "is_correct": false
+      },
+      {
+        "text": "irreversible only because it takes time",
+        "is_correct": false
+      },
+      {
+        "text": "impossible to classify because all changes are identical",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Its particles spread through the water; it did not disappear.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A reversible physical change of state. The wax remains wax and solidifies again on cooling.",
+      "hint": "Decide whether a new substance forms; do not rely only on appearance."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 25,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u04-p-020",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U04-P-026",
     "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "material changes",
-    "question": "Which process could recover salt from salty water after students review their evidence?",
-    "audio_prompt": "Which process could recover salt from salty water after students review their evidence?",
+    "stage": "core",
+    "skill": "use_evidence",
+    "question": "Candle wax softens and melts near a heater, then hardens when moved away. Which observation is the strongest evidence for the classification?",
+    "audio_prompt": "Candle wax softens and melts near a heater, then hardens when moved away. Which observation is the strongest evidence for the classification?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Burning the water.",
+        "text": "The material was observed by a student.",
         "is_correct": false
       },
       {
-        "text": "Evaporation.",
+        "text": "The liquid wax hardens with the same characteristic properties.",
         "is_correct": true
       },
       {
-        "text": "Adding food colouring.",
+        "text": "The container had a different shape.",
+        "is_correct": false
+      },
+      {
+        "text": "The change happened on a Tuesday.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Evaporation.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The liquid wax hardens with the same characteristic properties. This evidence addresses whether the original substance remains or a new substance forms.",
+      "hint": "Select evidence about substance identity or a reversible physical process."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 26,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u04-p-021",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U04-P-027",
     "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "material changes",
-    "question": "Why do bubbles alone not prove a chemical change after students review their evidence?",
-    "audio_prompt": "Why do bubbles alone not prove a chemical change after students review their evidence?",
+    "stage": "core",
+    "skill": "recovery_or_reversal",
+    "question": "Candle wax softens and melts near a heater, then hardens when moved away. Which follow-up action best investigates this change?",
+    "audio_prompt": "Candle wax softens and melts near a heater, then hardens when moved away. Which follow-up action best investigates this change?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Bubbles always mean rusting.",
+        "text": "Rename the material.",
         "is_correct": false
       },
       {
-        "text": "Bubbles prove the material vanished.",
+        "text": "Add food colouring and assume it is restored.",
         "is_correct": false
       },
       {
-        "text": "Bubbles can also come from boiling or trapped air.",
+        "text": "Allow the wax to cool and observe whether it solidifies.",
         "is_correct": true
+      },
+      {
+        "text": "Record no observations and guess.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Bubbles can also come from boiling or trapped air.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Allow the wax to cool and observe whether it solidifies. This action tests reversibility, recovery, properties or the conditions involved in the change.",
+      "hint": "Choose a method directly linked to the change and the evidence needed."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 27,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u04-p-022",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U04-P-028",
     "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "material changes",
-    "question": "Steel wool rusts after being damp for days. What evidence supports a new substance after students review their evidence?",
-    "audio_prompt": "Steel wool rusts after being damp for days. What evidence supports a new substance after students review their evidence?",
+    "stage": "application",
+    "skill": "particle_reasoning",
+    "question": "Candle wax softens and melts near a heater, then hardens when moved away. Which particle-level description is most appropriate at Year 6?",
+    "audio_prompt": "Candle wax softens and melts near a heater, then hardens when moved away. Which particle-level description is most appropriate at Year 6?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A reddish-brown material with different properties appears.",
+        "text": "All particles vanish during any visible change.",
+        "is_correct": false
+      },
+      {
+        "text": "Every physical change creates a new element.",
+        "is_correct": false
+      },
+      {
+        "text": "Particles stop existing when a substance dissolves.",
+        "is_correct": false
+      },
+      {
+        "text": "Wax particles remain the same substance but move more freely when liquid.",
         "is_correct": true
-      },
-      {
-        "text": "The steel is moved to another bench.",
-        "is_correct": false
-      },
-      {
-        "text": "The steel is weighed once before the test.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A reddish-brown material with different properties appears.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Heating changes particle movement and arrangement during melting.",
+      "hint": "For a reversible physical change, the substance remains; for a chemical change, particles are rearranged into new substances."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 28,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u04-p-023",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U04-P-029",
     "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "material changes",
-    "question": "Wax melts near heat and solidifies when cooled. What is the best classification after students review their evidence?",
-    "audio_prompt": "Wax melts near heat and solidifies when cooled. What is the best classification after students review their evidence?",
+    "stage": "application",
+    "skill": "reject_misconception",
+    "question": "A student says, “Any material heated by a flame undergoes only one kind of change.” Which response is best?",
+    "audio_prompt": "A student says, “Any material heated by a flame undergoes only one kind of change.” Which response is best?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Irreversible chemical change.",
-        "is_correct": false
-      },
-      {
-        "text": "Reversible physical change.",
+        "text": "Wax melting is physical, while wax burning is a separate chemical change that forms new substances.",
         "is_correct": true
       },
       {
-        "text": "Dissolving into a solution.",
+        "text": "The claim is always true without evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Every change caused by cooling is chemical.",
+        "is_correct": false
+      },
+      {
+        "text": "Reversibility depends only on how expensive the equipment is.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Reversible physical change.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Wax melting is physical, while wax burning is a separate chemical change that forms new substances.",
+      "hint": "Use evidence about new substances and possible physical recovery."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 29,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u04-p-024",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U04-P-030",
     "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "material changes",
-    "question": "A cake batter becomes a baked cake. Why is reversing it not practical after students review their evidence?",
-    "audio_prompt": "A cake batter becomes a baked cake. Why is reversing it not practical after students review their evidence?",
+    "stage": "challenge",
+    "skill": "evaluate_evidence",
+    "question": "Wax near a wick disappears while smoke and gases are observed. What is the most scientific conclusion?",
+    "audio_prompt": "Wax near a wick disappears while smoke and gases are observed. What is the most scientific conclusion?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is only a change of container.",
+        "text": "A new substance definitely formed because something looked different.",
         "is_correct": false
       },
       {
-        "text": "It can be undone by cooling overnight.",
-        "is_correct": false
-      },
-      {
-        "text": "Cooking produces new materials and structure.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Cooking produces new materials and structure.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6u04-t-001",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6U04",
-    "bank": "test",
-    "skill": "material changes",
-    "question": "A different class checks the same science idea: A cake batter becomes a baked cake. Why is reversing it not practical?",
-    "audio_prompt": "A different class checks the same science idea: A cake batter becomes a baked cake. Why is reversing it not practical?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Cooking produces new materials and structure.",
+        "text": "The observations suggest burning as well as melting, so the two processes should be distinguished.",
         "is_correct": true
       },
       {
-        "text": "It is only a change of container.",
+        "text": "No change occurred because the student is unsure.",
         "is_correct": false
       },
       {
-        "text": "It can be undone by cooling overnight.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Cooking produces new materials and structure.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6u04-t-002",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6U04",
-    "bank": "test",
-    "skill": "material changes",
-    "question": "A different class checks the same science idea: Wax melts near heat and solidifies when cooled. What is the best classification?",
-    "audio_prompt": "A different class checks the same science idea: Wax melts near heat and solidifies when cooled. What is the best classification?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Irreversible chemical change.",
-        "is_correct": false
-      },
-      {
-        "text": "Reversible physical change.",
-        "is_correct": true
-      },
-      {
-        "text": "Dissolving into a solution.",
+        "text": "All irreversible changes can be reversed by freezing.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Reversible physical change.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The observations suggest burning as well as melting, so the two processes should be distinguished. Scientific classification should match the available observations and acknowledge missing evidence.",
+      "hint": "Choose “insufficient evidence” when the observations do not distinguish the possibilities."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 30,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u04-t-003",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U04-P-031",
     "curriculum_code": "AC9S6U04",
-    "bank": "test",
-    "skill": "material changes",
-    "question": "A different class checks the same science idea: Steel wool rusts after being damp for days. What evidence supports a new substance?",
-    "audio_prompt": "A different class checks the same science idea: Steel wool rusts after being damp for days. What evidence supports a new substance?",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "classify_change",
+    "question": "Water vapour cools on a window and forms liquid droplets. How should this change be classified?",
+    "audio_prompt": "Water vapour cools on a window and forms liquid droplets. How should this change be classified?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The steel is moved to another bench.",
+        "text": "An irreversible reaction that creates water from nothing.",
         "is_correct": false
       },
       {
-        "text": "The steel is weighed once before the test.",
+        "text": "irreversible only because it takes time",
         "is_correct": false
       },
       {
-        "text": "A reddish-brown material with different properties appears.",
+        "text": "A reversible physical change called condensation.",
         "is_correct": true
+      },
+      {
+        "text": "impossible to classify because all changes are identical",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A reddish-brown material with different properties appears.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A reversible physical change called condensation. Water changes from gas to liquid and can evaporate again.",
+      "hint": "Decide whether a new substance forms; do not rely only on appearance."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 31,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u04-t-004",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U04-P-032",
     "curriculum_code": "AC9S6U04",
-    "bank": "test",
-    "skill": "material changes",
-    "question": "A different class checks the same science idea: Why do bubbles alone not prove a chemical change?",
-    "audio_prompt": "A different class checks the same science idea: Why do bubbles alone not prove a chemical change?",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "use_evidence",
+    "question": "Water vapour cools on a window and forms liquid droplets. Which observation is the strongest evidence for the classification?",
+    "audio_prompt": "Water vapour cools on a window and forms liquid droplets. Which observation is the strongest evidence for the classification?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Bubbles can also come from boiling or trapped air.",
-        "is_correct": true
-      },
-      {
-        "text": "Bubbles always mean rusting.",
+        "text": "The material was observed by a student.",
         "is_correct": false
       },
       {
-        "text": "Bubbles prove the material vanished.",
+        "text": "The container had a different shape.",
+        "is_correct": false
+      },
+      {
+        "text": "The change happened on a Tuesday.",
+        "is_correct": false
+      },
+      {
+        "text": "The droplets evaporate when warmed and the substance remains water.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The droplets evaporate when warmed and the substance remains water. This evidence addresses whether the original substance remains or a new substance forms.",
+      "hint": "Select evidence about substance identity or a reversible physical process."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 32,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U04-P-033",
+    "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "recovery_or_reversal",
+    "question": "Water vapour cools on a window and forms liquid droplets. Which follow-up action best investigates this change?",
+    "audio_prompt": "Water vapour cools on a window and forms liquid droplets. Which follow-up action best investigates this change?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Warm the droplets gently and observe evaporation.",
+        "is_correct": true
+      },
+      {
+        "text": "Rename the material.",
+        "is_correct": false
+      },
+      {
+        "text": "Add food colouring and assume it is restored.",
+        "is_correct": false
+      },
+      {
+        "text": "Record no observations and guess.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Bubbles can also come from boiling or trapped air.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Warm the droplets gently and observe evaporation. This action tests reversibility, recovery, properties or the conditions involved in the change.",
+      "hint": "Choose a method directly linked to the change and the evidence needed."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 33,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u04-t-005",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U04-P-034",
     "curriculum_code": "AC9S6U04",
-    "bank": "test",
-    "skill": "material changes",
-    "question": "A different class checks the same science idea: Which process could recover salt from salty water?",
-    "audio_prompt": "A different class checks the same science idea: Which process could recover salt from salty water?",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "particle_reasoning",
+    "question": "Water vapour cools on a window and forms liquid droplets. Which particle-level description is most appropriate at Year 6?",
+    "audio_prompt": "Water vapour cools on a window and forms liquid droplets. Which particle-level description is most appropriate at Year 6?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Burning the water.",
+        "text": "All particles vanish during any visible change.",
         "is_correct": false
       },
       {
-        "text": "Evaporation.",
+        "text": "Water particles move closer together as the gas cools into liquid.",
         "is_correct": true
       },
       {
-        "text": "Adding food colouring.",
+        "text": "Every physical change creates a new element.",
+        "is_correct": false
+      },
+      {
+        "text": "Particles stop existing when a substance dissolves.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Evaporation.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The identity stays water while particle spacing and motion change.",
+      "hint": "For a reversible physical change, the substance remains; for a chemical change, particles are rearranged into new substances."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 34,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u04-t-006",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U04-P-035",
     "curriculum_code": "AC9S6U04",
-    "bank": "test",
-    "skill": "material changes",
-    "question": "A different class checks the same science idea: Salt dissolves in water. What happened to the salt?",
-    "audio_prompt": "A different class checks the same science idea: Salt dissolves in water. What happened to the salt?",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "reject_misconception",
+    "question": "A student says, “Condensation means the glass produces new water particles.” Which response is best?",
+    "audio_prompt": "A student says, “Condensation means the glass produces new water particles.” Which response is best?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It stopped existing.",
+        "text": "The claim is always true without evidence.",
         "is_correct": false
       },
       {
-        "text": "It changed into oxygen gas.",
+        "text": "Every change caused by cooling is chemical.",
         "is_correct": false
       },
       {
-        "text": "Its particles spread through the water; it did not disappear.",
+        "text": "Water vapour already in the air cools and becomes liquid on the glass.",
         "is_correct": true
+      },
+      {
+        "text": "Reversibility depends only on how expensive the equipment is.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Its particles spread through the water; it did not disappear.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Water vapour already in the air cools and becomes liquid on the glass.",
+      "hint": "Use evidence about new substances and possible physical recovery."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 35,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u04-t-007",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U04-P-036",
     "curriculum_code": "AC9S6U04",
-    "bank": "test",
-    "skill": "material changes",
-    "question": "A different class checks the same science idea: Toast burns and turns black. Why is this usually irreversible?",
-    "audio_prompt": "A different class checks the same science idea: Toast burns and turns black. Why is this usually irreversible?",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "evaluate_evidence",
+    "question": "Droplets appear near a cold container but humidity is not measured. What is the most scientific conclusion?",
+    "audio_prompt": "Droplets appear near a cold container but humidity is not measured. What is the most scientific conclusion?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "New substances with different properties form.",
-        "is_correct": true
-      },
-      {
-        "text": "The bread simply changed position.",
+        "text": "A new substance definitely formed because something looked different.",
         "is_correct": false
       },
       {
-        "text": "Cooling it will turn it back into fresh bread.",
+        "text": "No change occurred because the student is unsure.",
+        "is_correct": false
+      },
+      {
+        "text": "All irreversible changes can be reversed by freezing.",
+        "is_correct": false
+      },
+      {
+        "text": "Condensation is likely, but evidence about air moisture and surface temperature would strengthen the explanation.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Condensation is likely, but evidence about air moisture and surface temperature would strengthen the explanation. Scientific classification should match the available observations and acknowledge missing evidence.",
+      "hint": "Choose “insufficient evidence” when the observations do not distinguish the possibilities."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 36,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U04-P-037",
+    "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "classify_change",
+    "question": "Sugar is heated strongly until it browns, gives off an odour and leaves a dark residue. How should this change be classified?",
+    "audio_prompt": "Sugar is heated strongly until it browns, gives off an odour and leaves a dark residue. How should this change be classified?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "An irreversible chemical change is likely because new substances form.",
+        "is_correct": true
+      },
+      {
+        "text": "Simple dissolving that can be reversed by evaporation.",
+        "is_correct": false
+      },
+      {
+        "text": "irreversible only because it takes time",
+        "is_correct": false
+      },
+      {
+        "text": "impossible to classify because all changes are identical",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "New substances with different properties form.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "An irreversible chemical change is likely because new substances form. The lasting colour, odour and residue provide combined evidence of reaction.",
+      "hint": "Decide whether a new substance forms; do not rely only on appearance."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 37,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u04-t-008",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U04-P-038",
     "curriculum_code": "AC9S6U04",
-    "bank": "test",
-    "skill": "material changes",
-    "question": "A different class checks the same science idea: Ice melts on a plate and later freezes again. What type of change is this?",
-    "audio_prompt": "A different class checks the same science idea: Ice melts on a plate and later freezes again. What type of change is this?",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "use_evidence",
+    "question": "Sugar is heated strongly until it browns, gives off an odour and leaves a dark residue. Which observation is the strongest evidence for the classification?",
+    "audio_prompt": "Sugar is heated strongly until it browns, gives off an odour and leaves a dark residue. Which observation is the strongest evidence for the classification?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "An irreversible chemical change.",
+        "text": "The material was observed by a student.",
         "is_correct": false
       },
       {
-        "text": "A reversible change of state.",
+        "text": "Several new properties appear and cooling does not restore the original crystals.",
         "is_correct": true
       },
       {
-        "text": "A new substance forming.",
+        "text": "The container had a different shape.",
+        "is_correct": false
+      },
+      {
+        "text": "The change happened on a Tuesday.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A reversible change of state.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Several new properties appear and cooling does not restore the original crystals. This evidence addresses whether the original substance remains or a new substance forms.",
+      "hint": "Select evidence about substance identity or a reversible physical process."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 38,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u04-t-009",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U04-P-039",
     "curriculum_code": "AC9S6U04",
-    "bank": "test",
-    "skill": "material changes",
-    "question": "A follow-up test asks: A cake batter becomes a baked cake. Why is reversing it not practical?",
-    "audio_prompt": "A follow-up test asks: A cake batter becomes a baked cake. Why is reversing it not practical?",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "recovery_or_reversal",
+    "question": "Sugar is heated strongly until it browns, gives off an odour and leaves a dark residue. Which follow-up action best investigates this change?",
+    "audio_prompt": "Sugar is heated strongly until it browns, gives off an odour and leaves a dark residue. Which follow-up action best investigates this change?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is only a change of container.",
+        "text": "Rename the material.",
         "is_correct": false
       },
       {
-        "text": "It can be undone by cooling overnight.",
+        "text": "Add food colouring and assume it is restored.",
         "is_correct": false
       },
       {
-        "text": "Cooking produces new materials and structure.",
+        "text": "Compare unheated sugar with the cooled residue rather than trying to reverse it by freezing.",
         "is_correct": true
+      },
+      {
+        "text": "Record no observations and guess.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Cooking produces new materials and structure.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Compare unheated sugar with the cooled residue rather than trying to reverse it by freezing. This action tests reversibility, recovery, properties or the conditions involved in the change.",
+      "hint": "Choose a method directly linked to the change and the evidence needed."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 39,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u04-t-010",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U04-P-040",
     "curriculum_code": "AC9S6U04",
-    "bank": "test",
-    "skill": "material changes",
-    "question": "A follow-up test asks: Wax melts near heat and solidifies when cooled. What is the best classification?",
-    "audio_prompt": "A follow-up test asks: Wax melts near heat and solidifies when cooled. What is the best classification?",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "particle_reasoning",
+    "question": "Sugar is heated strongly until it browns, gives off an odour and leaves a dark residue. Which particle-level description is most appropriate at Year 6?",
+    "audio_prompt": "Sugar is heated strongly until it browns, gives off an odour and leaves a dark residue. Which particle-level description is most appropriate at Year 6?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Reversible physical change.",
-        "is_correct": true
-      },
-      {
-        "text": "Irreversible chemical change.",
+        "text": "All particles vanish during any visible change.",
         "is_correct": false
       },
       {
-        "text": "Dissolving into a solution.",
+        "text": "Every physical change creates a new element.",
+        "is_correct": false
+      },
+      {
+        "text": "Particles stop existing when a substance dissolves.",
+        "is_correct": false
+      },
+      {
+        "text": "Sugar particles are rearranged into different substances during the reaction.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The new properties arise because chemical composition changes.",
+      "hint": "For a reversible physical change, the substance remains; for a chemical change, particles are rearranged into new substances."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 40,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U04-P-041",
+    "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "reject_misconception",
+    "question": "A student says, “A colour change alone always proves a chemical reaction.” Which response is best?",
+    "audio_prompt": "A student says, “A colour change alone always proves a chemical reaction.” Which response is best?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use several observations and context; colour alone may also result from mixing or lighting.",
+        "is_correct": true
+      },
+      {
+        "text": "The claim is always true without evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Every change caused by cooling is chemical.",
+        "is_correct": false
+      },
+      {
+        "text": "Reversibility depends only on how expensive the equipment is.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Reversible physical change.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Use several observations and context; colour alone may also result from mixing or lighting.",
+      "hint": "Use evidence about new substances and possible physical recovery."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 41,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u04-t-011",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U04-P-042",
     "curriculum_code": "AC9S6U04",
-    "bank": "test",
-    "skill": "material changes",
-    "question": "A follow-up test asks: Steel wool rusts after being damp for days. What evidence supports a new substance?",
-    "audio_prompt": "A follow-up test asks: Steel wool rusts after being damp for days. What evidence supports a new substance?",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "evaluate_evidence",
+    "question": "A clear solution turns pale yellow when food dye is added. What is the most scientific conclusion?",
+    "audio_prompt": "A clear solution turns pale yellow when food dye is added. What is the most scientific conclusion?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The steel is moved to another bench.",
+        "text": "A new substance definitely formed because something looked different.",
         "is_correct": false
       },
       {
-        "text": "A reddish-brown material with different properties appears.",
+        "text": "The colour change alone does not show a new substance because mixing dye is a physical process.",
         "is_correct": true
       },
       {
-        "text": "The steel is weighed once before the test.",
+        "text": "No change occurred because the student is unsure.",
+        "is_correct": false
+      },
+      {
+        "text": "All irreversible changes can be reversed by freezing.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A reddish-brown material with different properties appears.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The colour change alone does not show a new substance because mixing dye is a physical process. Scientific classification should match the available observations and acknowledge missing evidence.",
+      "hint": "Choose “insufficient evidence” when the observations do not distinguish the possibilities."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 42,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u04-t-012",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U04-P-043",
     "curriculum_code": "AC9S6U04",
-    "bank": "test",
-    "skill": "material changes",
-    "question": "A follow-up test asks: Why do bubbles alone not prove a chemical change?",
-    "audio_prompt": "A follow-up test asks: Why do bubbles alone not prove a chemical change?",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "classify_change",
+    "question": "Copper-coloured metal is bent into a new shape without cracking or heating. How should this change be classified?",
+    "audio_prompt": "Copper-coloured metal is bent into a new shape without cracking or heating. How should this change be classified?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Bubbles always mean rusting.",
+        "text": "A definite chemical reaction solely because shape changed.",
         "is_correct": false
       },
       {
-        "text": "Bubbles prove the material vanished.",
+        "text": "irreversible only because it takes time",
         "is_correct": false
       },
       {
-        "text": "Bubbles can also come from boiling or trapped air.",
+        "text": "A reversible or partly reversible physical change with no evidence of a new substance.",
         "is_correct": true
+      },
+      {
+        "text": "impossible to classify because all changes are identical",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Bubbles can also come from boiling or trapped air.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A reversible or partly reversible physical change with no evidence of a new substance. Changing shape does not by itself change the material’s identity.",
+      "hint": "Decide whether a new substance forms; do not rely only on appearance."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 43,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u04-t-013",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U04-P-044",
     "curriculum_code": "AC9S6U04",
-    "bank": "test",
-    "skill": "material changes",
-    "question": "A follow-up test asks: Which process could recover salt from salty water?",
-    "audio_prompt": "A follow-up test asks: Which process could recover salt from salty water?",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "use_evidence",
+    "question": "Copper-coloured metal is bent into a new shape without cracking or heating. Which observation is the strongest evidence for the classification?",
+    "audio_prompt": "Copper-coloured metal is bent into a new shape without cracking or heating. Which observation is the strongest evidence for the classification?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Evaporation.",
-        "is_correct": true
-      },
-      {
-        "text": "Burning the water.",
+        "text": "The material was observed by a student.",
         "is_correct": false
       },
       {
-        "text": "Adding food colouring.",
+        "text": "The container had a different shape.",
+        "is_correct": false
+      },
+      {
+        "text": "The change happened on a Tuesday.",
+        "is_correct": false
+      },
+      {
+        "text": "The metal keeps its colour and material properties and may be bent again.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The metal keeps its colour and material properties and may be bent again. This evidence addresses whether the original substance remains or a new substance forms.",
+      "hint": "Select evidence about substance identity or a reversible physical process."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 44,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U04-P-045",
+    "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "recovery_or_reversal",
+    "question": "Copper-coloured metal is bent into a new shape without cracking or heating. Which follow-up action best investigates this change?",
+    "audio_prompt": "Copper-coloured metal is bent into a new shape without cracking or heating. Which follow-up action best investigates this change?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Compare its properties before and after bending and test whether it can be reshaped.",
+        "is_correct": true
+      },
+      {
+        "text": "Rename the material.",
+        "is_correct": false
+      },
+      {
+        "text": "Add food colouring and assume it is restored.",
+        "is_correct": false
+      },
+      {
+        "text": "Record no observations and guess.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Evaporation.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Compare its properties before and after bending and test whether it can be reshaped. This action tests reversibility, recovery, properties or the conditions involved in the change.",
+      "hint": "Choose a method directly linked to the change and the evidence needed."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 45,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u04-t-014",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U04-P-046",
     "curriculum_code": "AC9S6U04",
-    "bank": "test",
-    "skill": "material changes",
-    "question": "A follow-up test asks: Salt dissolves in water. What happened to the salt?",
-    "audio_prompt": "A follow-up test asks: Salt dissolves in water. What happened to the salt?",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "particle_reasoning",
+    "question": "Copper-coloured metal is bent into a new shape without cracking or heating. Which particle-level description is most appropriate at Year 6?",
+    "audio_prompt": "Copper-coloured metal is bent into a new shape without cracking or heating. Which particle-level description is most appropriate at Year 6?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It stopped existing.",
+        "text": "All particles vanish during any visible change.",
         "is_correct": false
       },
       {
-        "text": "Its particles spread through the water; it did not disappear.",
+        "text": "The particles remain the same substance while their large-scale arrangement changes.",
         "is_correct": true
       },
       {
-        "text": "It changed into oxygen gas.",
+        "text": "Every physical change creates a new element.",
+        "is_correct": false
+      },
+      {
+        "text": "Particles stop existing when a substance dissolves.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Its particles spread through the water; it did not disappear.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A shape change is physical when substance identity remains unchanged.",
+      "hint": "For a reversible physical change, the substance remains; for a chemical change, particles are rearranged into new substances."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 46,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u04-t-015",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U04-P-047",
     "curriculum_code": "AC9S6U04",
-    "bank": "test",
-    "skill": "material changes",
-    "question": "A follow-up test asks: Toast burns and turns black. Why is this usually irreversible?",
-    "audio_prompt": "A follow-up test asks: Toast burns and turns black. Why is this usually irreversible?",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "reject_misconception",
+    "question": "A student says, “Every change that is difficult to undo is chemical.” Which response is best?",
+    "audio_prompt": "A student says, “Every change that is difficult to undo is chemical.” Which response is best?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The bread simply changed position.",
+        "text": "The claim is always true without evidence.",
         "is_correct": false
       },
       {
-        "text": "Cooling it will turn it back into fresh bread.",
+        "text": "Every change caused by cooling is chemical.",
         "is_correct": false
       },
       {
-        "text": "New substances with different properties form.",
+        "text": "Difficulty alone is not the test; evidence of a new substance is decisive.",
         "is_correct": true
+      },
+      {
+        "text": "Reversibility depends only on how expensive the equipment is.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "New substances with different properties form.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Difficulty alone is not the test; evidence of a new substance is decisive.",
+      "hint": "Use evidence about new substances and possible physical recovery."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 47,
+    "quality_schema": "research-authored-original-v1"
   },
   {
-    "id": "ac9s6u04-t-016",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6U04-P-048",
     "curriculum_code": "AC9S6U04",
-    "bank": "test",
-    "skill": "material changes",
-    "question": "A follow-up test asks: Ice melts on a plate and later freezes again. What type of change is this?",
-    "audio_prompt": "A follow-up test asks: Ice melts on a plate and later freezes again. What type of change is this?",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "evaluate_evidence",
+    "question": "The bent metal later shows a green coating after months outdoors. What is the most scientific conclusion?",
+    "audio_prompt": "The bent metal later shows a green coating after months outdoors. What is the most scientific conclusion?",
     "visual": {
       "type": "none",
+      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A reversible change of state.",
-        "is_correct": true
-      },
-      {
-        "text": "An irreversible chemical change.",
+        "text": "A new substance definitely formed because something looked different.",
         "is_correct": false
       },
       {
-        "text": "A new substance forming.",
+        "text": "No change occurred because the student is unsure.",
+        "is_correct": false
+      },
+      {
+        "text": "All irreversible changes can be reversed by freezing.",
+        "is_correct": false
+      },
+      {
+        "text": "The bending was physical, but the later coating may be a separate chemical change requiring more evidence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The bending was physical, but the later coating may be a separate chemical change requiring more evidence. Scientific classification should match the available observations and acknowledge missing evidence.",
+      "hint": "Choose “insufficient evidence” when the observations do not distinguish the possibilities."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 48,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U04-T-001",
+    "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "core",
+    "skill": "unseen_change",
+    "question": "Wet clay is reshaped and later returned to a lump. What is the best classification?",
+    "audio_prompt": "Wet clay is reshaped and later returned to a lump. What is the best classification?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "An irreversible chemical change because hands were used.",
+        "is_correct": false
+      },
+      {
+        "text": "A reversible physical shape change; no new substance is evident.",
+        "is_correct": true
+      },
+      {
+        "text": "Rusting because water is present.",
+        "is_correct": false
+      },
+      {
+        "text": "Cooking because the shape changed.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Shape can change while substance identity remains the same.",
+      "hint": "Ask whether a new substance formed."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 1,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U04-T-002",
+    "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "application",
+    "skill": "solution_recovery",
+    "question": "Copper sulfate solution is safely evaporated by a teacher and crystals remain. What does this show?",
+    "audio_prompt": "Copper sulfate solution is safely evaporated by a teacher and crystals remain. What does this show?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The solid vanished and was recreated from nothing.",
+        "is_correct": false
+      },
+      {
+        "text": "Evaporation always creates a new element.",
+        "is_correct": false
+      },
+      {
+        "text": "The dissolved solid remained present and could be recovered physically.",
+        "is_correct": true
+      },
+      {
+        "text": "The water became copper sulfate.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Recovery supports dissolving as a physical process in this case.",
+      "hint": "Follow both solute and solvent."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 2,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U04-T-003",
+    "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "physical_plus_chemical",
+    "question": "A candle wax pool forms while the wick burns. Which analysis is best?",
+    "audio_prompt": "A candle wax pool forms while the wick burns. Which analysis is best?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Both processes are only melting.",
+        "is_correct": false
+      },
+      {
+        "text": "Both are reversible by cooling.",
+        "is_correct": false
+      },
+      {
+        "text": "The wick undergoes no change.",
+        "is_correct": false
+      },
+      {
+        "text": "Wax melting is physical; burning is a chemical change producing new substances.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Two processes in one scene can require different classifications.",
+      "hint": "Analyse each observed change separately."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 3,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U04-T-004",
+    "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "insufficient_evidence",
+    "question": "A powder is mixed with water and the beaker feels cooler. What can be concluded?",
+    "audio_prompt": "A powder is mixed with water and the beaker feels cooler. What can be concluded?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A temperature change is evidence to investigate, but more observations are needed to establish a new substance.",
+        "is_correct": true
+      },
+      {
+        "text": "A chemical reaction is proven beyond doubt.",
+        "is_correct": false
+      },
+      {
+        "text": "No change occurred.",
+        "is_correct": false
+      },
+      {
+        "text": "Every cooling process is reversible freezing.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A reversible change of state.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "One observation may have physical or chemical explanations.",
+      "hint": "Avoid certainty from a single sign."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 4,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U04-T-005",
+    "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "application",
+    "skill": "rust_conditions",
+    "question": "Which comparison best tests whether water is needed for rusting?",
+    "audio_prompt": "Which comparison best tests whether water is needed for rusting?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Compare an iron nail with a plastic ruler.",
+        "is_correct": false
+      },
+      {
+        "text": "Match iron nails with air exposure, keeping one dry and one damp.",
+        "is_correct": true
+      },
+      {
+        "text": "Change nail type, water and temperature together.",
+        "is_correct": false
+      },
+      {
+        "text": "Observe one rusty nail only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The fair comparison changes water exposure while keeping the iron and other conditions alike.",
+      "hint": "Change one proposed cause."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 5,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U04-T-006",
+    "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "core",
+    "skill": "state_arrows",
+    "question": "Which pair correctly labels liquid water → gas → liquid water?",
+    "audio_prompt": "Which pair correctly labels liquid water → gas → liquid water?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "freezing, then melting",
+        "is_correct": false
+      },
+      {
+        "text": "melting, then rusting",
+        "is_correct": false
+      },
+      {
+        "text": "evaporation, then condensation",
+        "is_correct": true
+      },
+      {
+        "text": "dissolving, then cooking",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Evaporation and condensation are opposite changes of state.",
+      "hint": "Track the starting and ending states."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 6,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U04-T-007",
+    "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "application",
+    "skill": "new_substance_evidence",
+    "question": "Which observation most strongly supports an irreversible change in baked bread?",
+    "audio_prompt": "Which observation most strongly supports an irreversible change in baked bread?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The dough changed location.",
+        "is_correct": false
+      },
+      {
+        "text": "The tray became warm.",
+        "is_correct": false
+      },
+      {
+        "text": "The baker used a timer.",
+        "is_correct": false
+      },
+      {
+        "text": "Lasting new colour, aroma and structure remain after cooling.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Several lasting property changes support new-substance formation during cooking.",
+      "hint": "Use combined before-and-after evidence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 7,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U04-T-008",
+    "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "core",
+    "skill": "dissolving_misconception",
+    "question": "Why is “the sugar disappeared” scientifically weak?",
+    "audio_prompt": "Why is “the sugar disappeared” scientifically weak?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The sugar particles are dispersed in the solution and may be recovered; invisible does not mean absent.",
+        "is_correct": true
+      },
+      {
+        "text": "Sugar becomes light energy.",
+        "is_correct": false
+      },
+      {
+        "text": "Water destroys all solids.",
+        "is_correct": false
+      },
+      {
+        "text": "The sugar stops having mass.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Dissolving changes distribution, not existence.",
+      "hint": "Think beyond visibility."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 8,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U04-T-009",
+    "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "application",
+    "skill": "hard_to_undo",
+    "question": "Paper is cut into tiny pieces. Is difficulty reassembling it proof of a chemical change?",
+    "audio_prompt": "Paper is cut into tiny pieces. Is difficulty reassembling it proof of a chemical change?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Yes; anything hard to undo is chemical.",
+        "is_correct": false
+      },
+      {
+        "text": "No; the paper changed size and shape without evidence of a new substance.",
+        "is_correct": true
+      },
+      {
+        "text": "Yes; scissors create a new element.",
+        "is_correct": false
+      },
+      {
+        "text": "No; because no change happened.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Practical difficulty is not the defining test.",
+      "hint": "Use substance identity."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 9,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U04-T-010",
+    "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "tarnish_evidence",
+    "question": "A silver-coloured object develops a dark surface coating. What should be done before classifying it?",
+    "audio_prompt": "A silver-coloured object develops a dark surface coating. What should be done before classifying it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Assume every dark colour is rust.",
+        "is_correct": false
+      },
+      {
+        "text": "Call it melting.",
+        "is_correct": false
+      },
+      {
+        "text": "Collect more evidence about the coating and whether a new substance formed.",
+        "is_correct": true
+      },
+      {
+        "text": "Polish it and ignore all observations.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The colour suggests a change but does not identify the substance or process alone.",
+      "hint": "Distinguish evidence from conclusion."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 10,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U04-T-011",
+    "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "core",
+    "skill": "cooling",
+    "question": "Molten chocolate hardens when cooled. Which claim is best?",
+    "audio_prompt": "Molten chocolate hardens when cooled. Which claim is best?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Cooling always produces a new substance.",
+        "is_correct": false
+      },
+      {
+        "text": "Hardening proves rusting.",
+        "is_correct": false
+      },
+      {
+        "text": "Chocolate particles cease to exist.",
+        "is_correct": false
+      },
+      {
+        "text": "This is mainly a reversible change of state if the chocolate remains the same substance.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The state changes and can be reversed by warming.",
+      "hint": "Ask what warming would do."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 11,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U04-T-012",
+    "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "application",
+    "skill": "gas_evidence",
+    "question": "Bubbles appear when water boils. Why do they not show a new substance?",
+    "audio_prompt": "Bubbles appear when water boils. Why do they not show a new substance?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The bubbles are water vapour formed by a reversible change of state.",
+        "is_correct": true
+      },
+      {
+        "text": "All gases are new chemicals.",
+        "is_correct": false
+      },
+      {
+        "text": "The water has become oxygen only.",
+        "is_correct": false
+      },
+      {
+        "text": "Boiling is the same as burning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Gas formation from boiling is physical; context matters.",
+      "hint": "Identify the gas and process."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 12,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U04-T-013",
+    "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "particle_account",
+    "question": "Which statement compares melting and rusting correctly?",
+    "audio_prompt": "Which statement compares melting and rusting correctly?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Both destroy particles.",
+        "is_correct": false
+      },
+      {
+        "text": "Melting rearranges the same substance physically; rusting rearranges atoms into a new compound.",
+        "is_correct": true
+      },
+      {
+        "text": "Both are only shape changes.",
+        "is_correct": false
+      },
+      {
+        "text": "Rusting is freezing iron.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The distinction is same substance versus new substance.",
+      "hint": "Connect observable evidence to particle rearrangement."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 13,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U04-T-014",
+    "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "recovery_method",
+    "question": "Which method can separate clean sand from salty water most effectively?",
+    "audio_prompt": "Which method can separate clean sand from salty water most effectively?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Freeze everything and call it rust.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a magnet for dissolved salt.",
+        "is_correct": false
+      },
+      {
+        "text": "Filter out sand, then evaporate water to recover salt.",
+        "is_correct": true
+      },
+      {
+        "text": "Add more sand until water disappears.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Different physical properties support sequential separation.",
+      "hint": "Handle insoluble and dissolved solids separately."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 14,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U04-T-015",
+    "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "application",
+    "skill": "cooking_boundary",
+    "question": "An egg white changes from clear to opaque and firm when heated. Why is cooling insufficient to reverse it?",
+    "audio_prompt": "An egg white changes from clear to opaque and firm when heated. Why is cooling insufficient to reverse it?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The egg is still too warm to observe.",
+        "is_correct": false
+      },
+      {
+        "text": "All clear materials are liquids.",
+        "is_correct": false
+      },
+      {
+        "text": "Cooling destroys energy and matter.",
+        "is_correct": false
+      },
+      {
+        "text": "Heating causes lasting changes to its substances and structure.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Cooking produces changes not undone by returning to the original temperature.",
+      "hint": "Compare properties after full cooling."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 15,
+    "quality_schema": "research-authored-original-v1"
+  },
+  {
+    "id": "AC9S6U04-T-016",
+    "curriculum_code": "AC9S6U04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "synthesis",
+    "question": "Which rule gives the most reliable classification?",
+    "audio_prompt": "Which rule gives the most reliable classification?",
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use evidence about whether the same substances remain and whether physical processes can recover them.",
+        "is_correct": true
+      },
+      {
+        "text": "Classify every hot change as irreversible.",
+        "is_correct": false
+      },
+      {
+        "text": "Use colour alone.",
+        "is_correct": false
+      },
+      {
+        "text": "Call every difficult reversal chemical.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Substance identity plus recovery evidence is more reliable than a single surface feature.",
+      "hint": "Choose the rule that works across unfamiliar examples."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 16,
+    "quality_schema": "research-authored-original-v1"
   }
 ]
