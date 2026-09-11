@@ -4,13 +4,13 @@ Last updated: 2026-09-11
 
 PROJECT_STATUS: IN_PROGRESS
 CURRENT_PHASE: RESEARCH
-CURRENT_CODE: AC9S7U05
-LAST_COMPLETED_CODE: AC9S7U04
-NEXT_CODE: AC9S7U06
+CURRENT_CODE: AC9S7H03
+LAST_COMPLETED_CODE: AC9S7H02
+NEXT_CODE: AC9S7H04
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
-BATCH: 1 COMPLETED (AC9S7U01–AC9S7U04)
+BATCH: 2 COMPLETED (LATEST: AC9S7U05–AC9S7H02)
 
 Research protocol
 - Primary authority: Australian Curriculum v9 (ACARA).
@@ -147,3 +147,121 @@ BATCH 1 CHECKPOINT
 - AC9S7U01, AC9S7U02, AC9S7U03 and AC9S7U04 are research-complete and AUTHORING-READY.
 - No SkillrHub content has been re-authored during this research phase.
 - Next batch starts AC9S7U05, AC9S7U06, AC9S7H01 and AC9S7H02.
+
+================================================================
+AC9S7U05 — AUTHORING-READY
+================================================================
+Curriculum focus
+- Use particle theory to describe particle arrangement, motion and attraction in substances and explain properties including melting point, compressibility, density and diffusion.
+- Required boundary: the particles themselves do not expand, melt or become hot; changes arise from spacing, motion and interactions among particles.
+
+Evidence collected
+- ACARA v9 descriptor confirmed against the current Year 7 Science alignment.
+- IXL Australia, authenticated interactive sampling:
+  - K.2 “Particle motion and changes of state” explicitly contrasts particle behaviour in solids, liquids and gases.
+  - Sampled task required matching each state to a diagram after establishing: solid particles tightly packed; liquid particles close but sliding; gas particles far apart and moving quickly.
+  - Closest IXL skills: K.1 particle motion and temperature; K.2 state changes; K.3 gas pressure; K.4 temperature/pressure effects; M.2 diffusion across membranes.
+  - IXL is strong for diagram interpretation but only partial for attraction, density, compressibility and melting-point explanations.
+- Khan Academy:
+  - Diffusion resources define net molecular movement from higher to lower concentration.
+  - General states-of-matter material is supplementary and must be translated to the exact Year 7 particle-model outcomes rather than copied.
+- Additional trusted-source direction: use recognised chemistry education particle diagrams and demonstrations, while flagging model limitations (not to scale; 2D; particles are always moving above absolute zero).
+
+Concept and authoring blueprint
+- Solid: close, ordered positions, vibration, strong attractions; fixed shape/volume, hard to compress.
+- Liquid: close, disordered, slide past; fixed volume but variable shape, low compressibility.
+- Gas: widely spaced, rapid random motion, weak attractions; fills container, compressible, low density.
+- Heating raises average kinetic energy; melting/boiling overcome attractions without changing particle identity. Cooling reverses the pattern.
+- Diffusion is faster at higher temperature and in gases than liquids because particle motion/spacing differ.
+- Practice coverage: identify diagrams; explain properties; predict heating/cooling changes; compare density/compressibility; interpret diffusion; find flaws in particle drawings.
+- Test coverage: unfamiliar substance/state evidence, before/after diagrams, diffusion investigation data and a model-limitation item.
+- Misconceptions: gas particles have no mass; particles grow when heated; empty space contains air particles in the model; particles stop moving in solids; melting changes one substance into another.
+- Feedback must connect a macroscopic observation to particle spacing, motion or attraction.
+Status: AUTHORING-READY.
+
+================================================================
+AC9S7U06 — AUTHORING-READY
+================================================================
+Curriculum focus
+- Use a particle model to distinguish pure substances from mixtures and apply understanding of substance properties to separate mixtures.
+- Required boundary: “pure” means one type of particle/substance, not clean, natural or safe; separation method must be justified by a physical property difference.
+
+Evidence collected
+- ACARA v9 descriptor confirmed.
+- IXL Australia, authenticated interactive sampling:
+  - D.1 “Identify mixtures” uses real materials and multiple selection.
+  - Sampled item asked for two mixtures among chocolate bar, ice cream, titanium and carbon; the composite foods were mixtures, while titanium and carbon were single elements.
+  - Closest IXL skills: D.1 mixtures; M.1 solution concentration; F.5/F.6 element/compound classification from formulae/models; G.5 physical versus chemical changes.
+  - IXL does not provide full Year 7 separation-technique selection, so filtration, evaporation/crystallisation, decanting, sieving, magnetism, chromatography and distillation require independent authoring.
+- Khan Academy: mixture, solution and particle resources are supplementary; no AC9-mapped Year 7 sequence was identified.
+- Trusted-source direction: use school-safe separation demonstrations and evidence-based method selection. Particle diagrams must distinguish identical particles from two or more intermingled particle types.
+
+Concept and authoring blueprint
+- Pure element or compound: one particle type throughout. Mixture: two or more substances physically combined; components retain properties and proportions can vary.
+- Method/property matches: sieve–particle size; magnet–magnetism; filtration–insoluble solid/particle size; decantation–density/settling; evaporation or crystallisation–solubility/boiling; chromatography–different attraction/solubility; distillation–different boiling points.
+- Practice coverage: classify particle diagrams and materials; identify solute/solvent/solution; choose and justify a method; sequence multi-step separation; interpret chromatograms; distinguish physical separation from chemical change.
+- Test coverage: novel multi-component mixture, method flow chart, apparatus diagram, particle model before/after and a choice between two plausible methods.
+- Misconceptions: compounds are mixtures; dissolved material disappears; filtration removes dissolved salt; evaporation recovers both components; pure water means ordinary tap water; any mixture can be separated in one step.
+- Feedback must name the relevant property and explain why the chosen method acts on that difference.
+Status: AUTHORING-READY.
+
+================================================================
+AC9S7H01 — AUTHORING-READY
+================================================================
+Curriculum focus
+- Explain how new evidence or different perspectives can lead to changes in scientific knowledge.
+- Required boundary: science changes through evidence-based revision; “scientists changed their minds” without evidence, method or perspective is inadequate.
+
+Evidence collected
+- ACARA v9 descriptor confirmed.
+- IXL Australia:
+  - No direct Year 7 skill maps to changing scientific knowledge: SOURCE-NOT-MAPPED.
+  - N.1–N.4 classification and scientific naming can provide a supporting case where categories change as new structural/genetic evidence becomes available, but their items assess classification rather than the nature of science.
+- Khan Academy:
+  - “Systems of Classification” describes historical changes in biological classification, providing a suitable supplementary case study.
+  - Khan is not AC9-mapped and should not be treated as the curriculum authority.
+- Trusted-source direction: use short evidence timelines such as revised classification, changing Solar System models or improved disease explanations. Compare the earlier evidence/model with later evidence and show exactly what changed.
+- CSIRO/peer-reviewed practice supports the core idea that scientific knowledge is provisional but reliable: explanations are retained, refined or replaced according to the quality and consistency of new evidence.
+
+Concept and authoring blueprint
+- Separate observation/evidence, interpretation/model and perspective/question. A different perspective can direct attention to different evidence, but does not make every claim equally scientific.
+- Revision sequence: existing explanation -> new observation/method/perspective -> conflict or gap -> testing/review -> refined explanation.
+- Practice coverage: order an evidence timeline; identify what evidence challenged a claim; distinguish change due to evidence from change due to preference; compare two models; choose a justified revision.
+- Test coverage: unfamiliar historical/current case, competing explanations with evidence, and a question about why revision strengthens rather than weakens science.
+- Misconceptions: scientific knowledge is just opinion; one new result overturns a theory instantly; old knowledge becomes useless; scientists must never disagree; accepted knowledge can never change.
+- Feedback must state the evidence–revision link explicitly and acknowledge uncertainty appropriately.
+Status: AUTHORING-READY.
+
+================================================================
+AC9S7H02 — AUTHORING-READY
+================================================================
+Curriculum focus
+- Investigate how cultural perspectives and world views influence the development of scientific knowledge.
+- Required boundary: cultural knowledge systems must be represented respectfully and specifically, including ownership, context and protocols; they are not decorative “belief” examples.
+
+Evidence collected
+- ACARA v9 descriptor confirmed.
+- IXL Australia:
+  - No direct skill addresses cultural perspectives or world views in science: SOURCE-NOT-MAPPED.
+  - Classification, ecology and astronomy skills may supply neutral scientific contexts, but the cultural-knowledge investigation must be authored from appropriate Australian sources.
+- Khan Academy: no direct Australian cultural-perspectives mapping. Global history-of-science material may supplement but cannot replace Aboriginal and Torres Strait Islander contexts required for an Australian curriculum resource.
+- CSIRO “Indigenous science and engagement”:
+  - Describes Indigenous-driven solutions, Indigenous collaborators, co-developed seasonal calendars, land/sea management, ecological knowledge and the integrity and context of distinct knowledge systems.
+- CSIRO “Indigenous knowledge” and “Our Knowledge, Our Way” materials:
+  - Emphasise Indigenous leadership, locally held knowledge, governance about who may share knowledge and for what purpose, strong partnerships and appropriate formats.
+- Trusted contemporary research direction: respectful cross-cultural research requires consent, reciprocity, recognition, benefit sharing and protection of Indigenous Cultural and Intellectual Property (ICIP).
+
+Concept and authoring blueprint
+- Teach culture/world view as influencing questions asked, observations valued, methods, categories, relationships to Country, application and communication of knowledge.
+- Use concrete cases: seasonal calendars; fire and Country management; ecological indicators; classification/harvesting knowledge; sky knowledge. State the Country/community when an authorised public source does so.
+- Include comparison without hierarchy: knowledge systems can use different purposes, timescales and evidence practices and may contribute complementary insights.
+- Practice coverage: identify how perspective shaped a question/method; match evidence to context; distinguish respectful collaboration from extraction; apply consent/attribution/protocol principles; compare two approaches.
+- Test coverage: unfamiliar public case study, stakeholder/knowledge-governance choice, evidence integration and an ethical communication decision.
+- Misconceptions: all First Nations knowledge is identical; cultural influence makes knowledge unscientific; public availability removes ownership; “combining knowledge” means taking it without permission; Western science has no cultural history.
+- Feedback must name the relevant perspective or protocol and avoid generalising across peoples or Countries.
+Status: AUTHORING-READY.
+
+BATCH 2 CHECKPOINT
+- AC9S7U05, AC9S7U06, AC9S7H01 and AC9S7H02 are research-complete and AUTHORING-READY.
+- No SkillrHub content has been re-authored during this research phase.
+- Next batch: AC9S7H03, AC9S7H04, AC9S7I01 and AC9S7I02.
