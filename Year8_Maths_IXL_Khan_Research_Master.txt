@@ -4,13 +4,13 @@ Last updated: 2026-09-11
 
 PROJECT_STATUS: IN_PROGRESS
 CURRENT_PHASE: RESEARCH
-CURRENT_CODE: AC9M8A01
-LAST_COMPLETED_CODE: AC9M8N05
-NEXT_CODE: AC9M8A01
+CURRENT_CODE: AC9M8M02
+LAST_COMPLETED_CODE: AC9M8M01
+NEXT_CODE: AC9M8M02
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
-BATCH: 1 COMPLETE — INTERACTIVELY VERIFIED (LATEST: AC9M8N01–AC9M8N05)
+BATCH: 2 COMPLETE — INTERACTIVELY VERIFIED (LATEST: AC9M8A01–AC9M8A04, AC9M8M01)
 
 PURPOSE AND AUTHORING STANDARD
 This ledger supports later re-authoring of each Year 8 Mathematics Topic Page, HTML Classroom View, Homework/Worksheet, exactly 48 Practice questions and exactly 16 independent Test questions. Research evidence is drawn from Australian Curriculum v9/QCAA, IXL Australia Year 8, Khan Academy and reputable free/public sources. Source examples inform pedagogy only; SkillrHub content must be original.
@@ -302,5 +302,178 @@ FINAL BATCH 1 QA CHECK
 - Topic Page, HTML Classroom View, Homework, exactly 48 Practice and separate 16 Test coverage is sufficient.
 - AC9M8N01–AC9M8N05 are now genuinely AUTHORING-READY.
 
+
+==============================================================================
+AC9M8A01 — CREATE, EXPAND, FACTORISE, REARRANGE AND SIMPLIFY LINEAR EXPRESSIONS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Create, expand, factorise, rearrange and simplify linear expressions using the associative, commutative, identity, distributive and inverse properties.
+
+CURRICULUM BOUNDARY
+Work with linear expressions only, including integer and rational coefficients where appropriate. Students should connect each transformation to a property, collect like terms, expand a single bracket, factorise by extracting a common numerical or algebraic factor, and verify equivalence by substitution. Solving equations and graphing relations belong primarily to AC9M8A02.
+
+IXL MAPPING AND ACTUAL EXAMPLE EVIDENCE
+Mapped Year 8 skills: U.9 properties of addition and multiplication; U.10 multiply using the distributive property; U.11 simplify variable expressions using properties; U.12 collect like terms; U.13 add, subtract and multiply linear expressions; U.14 factors of linear expressions; U.15–U.16 equivalent expressions.
+- U.11 example actually opened: simplify 3 + 8d + 6. IXL first uses the commutative property to write 8d + 3 + 6, then combines the constants to obtain 8d + 9. The worked panel explicitly lists commutative and associative laws for addition/multiplication and the distributive law.
+- U.14 example actually opened: decide whether 10 is a factor of 66d + 68. IXL tests every coefficient/constant: 66÷10=6.6 and 68÷10=6.8, so 10 does not divide both to integers and is not a factor.
+Progression: recognise properties → rearrange safely → collect like terms → expand → identify common factors → factorise → test equivalence.
+Misconceptions: combining unlike terms; changing signs when moving terms inside an expression; treating 3(x+2) as 3x+2; factoring only one term; assuming any divisor of one coefficient is a factor of the whole expression; confusing equivalent expressions with equations; substituting inconsistently during verification.
+
+KHAN / TRUSTED CROSS-CHECK
+Authenticated Khan Academy Algebra basics, Unit 2 “Algebraic expressions” was opened sequentially. Its visible sequence includes combining like terms with negative/rational coefficients, distribution, factor with the distributive property, and equivalent expressions. This matches the transformation progression while AC v9/QCAA controls the exact Year 8 boundary.
+Khan: https://www.khanacademy.org/math/algebra-basics/alg-basics-algebraic-expressions
+NRICH algebra tasks support explaining why transformations remain equivalent: https://nrich.maths.org/algebra
+
+AUTHORING TRANSFER
+Topic Page: property cards with symbolic and numeric examples; like-term test; expand/factorise inverse diagram; worked examples with named justification; substitution check.
+Classroom View: property sort, expression tile model, “always/sometimes/never” prompts, expand–factorise relay, equivalence error clinic.
+Homework: identify properties, rearrange/collect, expand, factorise, match equivalent forms, create expressions from contexts and justify equivalence.
+Feedback pattern: name the property, show one legal transformation per line, combine only identical variable parts, and check by substituting two values.
+
+48-PRACTICE BLUEPRINT
+P01–P08 identify/use properties; P09–P16 rearrange and collect like terms; P17–P24 expand; P25–P32 factorise; P33–P40 create/match equivalent expressions; P41–P48 multi-step reasoning, substitution checks and error analysis.
+16-TEST BLUEPRINT
+T01–T04 properties/like terms; T05–T08 expansion/factorisation; T09–T12 independent mixed transformations; T13–T16 creation, justification and misconception diagnosis.
+
+==============================================================================
+AC9M8A02 — GRAPH, SOLVE AND VERIFY LINEAR EQUATIONS AND INEQUALITIES
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Graph linear relations on the Cartesian plane; solve linear equations and one-variable inequalities graphically and algebraically; verify solutions by substitution.
+
+CURRICULUM BOUNDARY
+Include tables, ordered pairs, lines, intercepts and rate of change; equations requiring inverse operations on one or both sides; and one-variable inequalities represented on number lines. Preserve inequality direction except when multiplying or dividing by a negative. Verification requires substitution or checking a boundary/test value. Simultaneous equations are outside the central scope.
+
+IXL MAPPING AND ACTUAL EXAMPLE EVIDENCE
+Mapped skills: V.1–V.13 linear equations; W.1–W.10 one-variable inequalities; X.1–X.17 tables, graphs, slope and linear equations.
+Example actually opened in X.7 “Complete a table and graph a linear equation”: for y=x+2 at x=0,1,4,5,6, IXL calculates y=2,3,6,7,8, forms ordered pairs (0,2), (1,3), (4,6), (5,7), (6,8), plots them and joins them with a straight line. Key idea: graph a function by plotting its ordered pairs.
+Progression: coordinate fluency → table generation → plot/line → read intercept/rate → solve equations by balance/inverses → graph inequalities → verify.
+Misconceptions: reversing coordinates; joining points from a nonlinear rule as a straight line; using only one point; performing an operation on one side only; treating an equation as an expression; forgetting to reverse an inequality after multiplying/dividing by a negative; using an open rather than closed boundary point; substituting into only one side.
+
+KHAN / TRUSTED CROSS-CHECK
+Authenticated Khan Algebra basics Unit 4 “Graphing lines and slope” was opened. Its visible sequence covers two-variable solutions, intercepts, slope from graphs/two points, slope-intercept form and graphs of inequalities. Unit 3 supplies linear-equation and inequality solving.
+Khan: https://www.khanacademy.org/math/algebra-basics/alg-basics-graphing-lines-and-slope
+Desmos provides a free graphing environment for plotting a relation and comparing graphical/algebraic solutions: https://www.desmos.com/calculator
+
+AUTHORING TRANSFER
+Topic Page: coordinate/table/graph links; balance model; inverse-operation flow; inequality number-line conventions; negative-operation reversal; substitution verification examples.
+Classroom View: human coordinate plane, table-to-line demonstration, equation balance challenge, inequality boundary cards, graphical versus algebraic solution comparison.
+Homework: tables/plots, interpret graph features, solve varied equations/inequalities, represent solutions and verify by substitution.
+Feedback pattern: define variables, preserve equality, record each operation, check signs/boundaries, then substitute the proposed solution.
+
+48-PRACTICE BLUEPRINT
+P01–P08 coordinates/tables; P09–P16 graph linear relations; P17–P24 one/two-step equations; P25–P32 equations with variables both sides; P33–P40 inequalities and number lines; P41–P48 graphical solving, substitution and error analysis.
+16-TEST BLUEPRINT
+T01–T04 tables/graphs; T05–T08 equations; T09–T12 independent inequalities; T13–T16 graphical/algebraic comparison and verification.
+
+==============================================================================
+AC9M8A03 — MATHEMATICAL MODELLING WITH LINEAR RELATIONS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Use mathematical modelling to solve applied problems involving linear relations, including financial contexts, and review model appropriateness.
+
+CURRICULUM BOUNDARY
+Complete the modelling cycle: formulate variables and assumptions, represent a constant rate and initial value using words/tables/graphs/equations, solve, interpret and review. Include fees plus usage, saving/earning, hire or subscription comparisons, simple budgets and break-even contexts. Do not silently assume every relationship is linear.
+
+IXL MAPPING AND ACTUAL EXAMPLE EVIDENCE
+Mapped skills: X.6 evaluate a linear equation; X.7 complete tables; X.11 interpret linear graphs in word problems; X.13 write linear equations from word problems.
+X.13 example actually opened: Natalie learns 2 new piano pieces per week. IXL builds the table 1→2, 2→4, 3→6, x→2x, states that y is 2 times x, and writes y=2x. This is a zero-intercept constant-rate model.
+Progression needed for full code: recognise quantities/units → identify initial value and rate → construct y=mx+b → move among representations → answer contextual question → review domain and assumptions.
+Misconceptions: omitting a starting fee; swapping dependent/independent variables; using total rather than per-unit rate; interpreting intercept as rate; extending beyond a meaningful domain; accepting a negative time/customer count; assuming a stepped tariff is one line; giving an unlabelled coordinate as the final answer.
+
+KHAN / TRUSTED CROSS-CHECK
+Authenticated Khan Algebra basics Unit 4 exposes slope-intercept equations from graphs, slopes/points and “slope-intercept form problems,” supporting rate-plus-initial-value modelling. IXL provides the direct word-to-equation example; AC v9/QCAA supplies the full review requirement.
+Khan: https://www.khanacademy.org/math/algebra-basics/alg-basics-graphing-lines-and-slope
+Desmos supports comparison of alternative cost lines and break-even points: https://www.desmos.com/calculator
+
+AUTHORING TRANSFER
+Topic Page: modelling cycle; variable/unit table; y=mx+b meaning; zero/non-zero intercept contrasts; domain/assumption checklist; financial comparison and break-even example.
+Classroom View: plan-comparison launch, table/graph/equation station rotation, estimate intersection, digital check, critique a model’s domain and communicate a recommendation.
+Homework: write models from contexts, interpret parameters, solve and graph, compare options, state conclusions and review assumptions/limitations.
+Feedback pattern: name variables with units, identify fixed and variable parts, test the rule against data, solve, interpret in context and state whether the model is reasonable.
+
+48-PRACTICE BLUEPRINT
+P01–P08 identify variables/rates; P09–P16 tables and zero-intercept rules; P17–P24 rate-plus-initial-value equations; P25–P32 graph/context interpretation; P33–P40 financial comparisons/break-even; P41–P48 formulation, assumptions, review and communication.
+16-TEST BLUEPRINT
+T01–T04 variables/parameters; T05–T08 construct models; T09–T12 independent applied/financial solutions; T13–T16 compare, interpret and review. Test contexts remain separate from Practice.
+
+==============================================================================
+AC9M8A04 — DIGITAL EXPERIMENTS WITH LINEAR FUNCTIONS AND RELATIONS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Experiment with linear functions and relations using digital tools, make and test conjectures and generalise emerging patterns.
+
+CURRICULUM BOUNDARY
+Students should vary parameters/data using graphing or spreadsheet tools, observe invariant/change, state conjectures, test counterexamples and express a generalisation. Suitable investigations include y=mx+b, constant first differences, parallel/perpendicular tendencies within scope, intercept movement and linear versus nonlinear tables/graphs. Static recognition alone does not satisfy the experiment–conjecture–generalise demand.
+
+IXL MAPPING AND ACTUAL EXAMPLE EVIDENCE
+Supporting mappings: X.2 variables; X.3 rate of change; X.4–X.5 constant rate in tables/graphs; X.15–X.16 identify linear/nonlinear relations from graphs/tables. SOURCE-NOT-MAPPED for the full digital experiment and conjecture cycle.
+X.3 “Constant rate of change: tables” example actually opened: candle height values are 7¼, 6½, 5¾, 5 cm at 1,2,3,4 hours. IXL gives rate of change = change in y/change in x, chooses two rows, computes (6½−7¼)/(2−1)=−¾ cm per hour, and interprets the negative rate as the height decreasing by ¾ cm each hour.
+This evidence supports constant first-difference and signed-rate reasoning; the authored activity must extend it into parameter manipulation and conjecture testing.
+Misconceptions: checking only one interval; believing every increasing table is linear; confusing y-values with changes; ignoring unequal x-steps; assuming negative slope means negative outputs; claiming a pattern after one case; treating graphing software as proof; changing two parameters at once and misattributing the effect.
+
+KHAN / TRUSTED CROSS-CHECK
+Authenticated Khan 8th grade “Linear and nonlinear functions” was opened. The visible lesson sequence includes recognising linear functions, table/word-problem/missing-value examples, nonlinear comparison and graph interpretation.
+Khan: https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-linear-equations-functions/linear-nonlinear-functions-tut/v/linear-and-nonlinear-functions-example-2
+Desmos is the primary free digital experiment environment: sliders can vary m and b, tables can generate points and simultaneous graphs can test conjectures. https://www.desmos.com/calculator
+GeoGebra is a second trusted dynamic option: https://www.geogebra.org/graphing
+
+AUTHORING TRANSFER
+Topic Page: experiment protocol (vary one parameter, observe, conjecture, test, generalise); first-difference test; y=mx+b slider investigation; evidence/counterexample language.
+Classroom View: paired Desmos/GeoGebra investigation varying m then b, capture observations, test across positive/zero/negative/fractional values, challenge conjectures and write general rules.
+Homework: predict digital outputs, complete/inspect tables, distinguish linear/nonlinear, design test cases, interpret screenshots and refine false conjectures.
+Feedback pattern: specify what changed and what was held constant, cite at least three cases, seek a counterexample, then state the generalisation with conditions.
+
+48-PRACTICE BLUEPRINT
+P01–P08 variable/rate foundations; P09–P16 constant differences; P17–P24 linear/nonlinear classification; P25–P32 parameter predictions; P33–P40 digital-experiment records and test cases; P41–P48 conjecture, counterexample and generalisation.
+16-TEST BLUEPRINT
+T01–T04 rates/patterns; T05–T08 parameter effects; T09–T12 independent digital-output interpretation; T13–T16 conjecture testing and justified generalisation.
+
+==============================================================================
+AC9M8M01 — AREA AND PERIMETER OF IRREGULAR AND COMPOSITE SHAPES
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Solve problems involving the area and perimeter of irregular and composite shapes using appropriate units.
+
+CURRICULUM BOUNDARY
+Decompose or enclose shapes using rectangles, triangles, trapezia and relevant parts of circles; infer missing lengths; distinguish outside perimeter from internal partition lines; add/subtract component areas; convert units before calculation and use square units for area. Include exact π or stated approximations and contextual interpretation.
+
+IXL MAPPING AND ACTUAL EXAMPLE EVIDENCE
+Mapped skills: R.1–R.7 perimeter, trapezium/rhombus/mixed review, area between two shapes and word problems; R.13–R.14 compound figures including triangles, semicircles and quarter circles.
+R.14 example actually opened: an irregular figure is divided into rectangle A (7 m by 13 m), rectangle B (13 m by 4 m) and quarter circle C (radius 10 m). IXL computes 7×13=91 m², 13×4=52 m², and 3.14×10²÷4=78.5 m², then adds 91+52+78.5=221.5 m². The example explicitly models decomposition, correct component formula selection and final aggregation.
+Progression: identify requested measure → mark external boundary/decompose → infer missing dimensions → calculate each component → add/subtract → attach units and assess reasonableness.
+Misconceptions: adding internal edges to perimeter; using diameter as radius; forgetting half/quarter factors; adding lengths for area; writing m rather than m²; mixing centimetres and metres; subtracting a cut-out incorrectly; rounding π-components too early; assuming one decomposition is the only valid method.
+
+KHAN / TRUSTED CROSS-CHECK
+Authenticated Khan Geometry “Area of trapezoids & composite figures” was opened. Its visible lesson sequence includes area by rearranging parts, composite shapes, perimeter and area of non-standard polygons, and challenge problems.
+Khan: https://www.khanacademy.org/math/geometry-home/geometry-area-perimeter/geometry-area-trap-composite/v/perimeter-and-area-of-a-non-standard-polygon
+NRICH geometry and measurement tasks support multiple decompositions and comparison of solution strategies: https://nrich.maths.org/geometry-and-measure
+
+AUTHORING TRANSFER
+Topic Page: area/perimeter distinction; decomposition and subtraction strategies; missing-length marking; formula/units table; curved-component example; estimate/check routine.
+Classroom View: trace perimeter, colour components, compare two decompositions, gallery walk of methods, unit-conversion/error clinic and design challenge.
+Homework: irregular perimeter, rectilinear/composite area, triangles/trapezia/circular parts, cut-outs, unit conversions and contextual design/cost problems.
+Feedback pattern: circle the external boundary, label/infer every needed length, convert units first, show each component calculation, combine correctly, then state appropriate linear or square units.
+
+48-PRACTICE BLUEPRINT
+P01–P08 perimeter/area and units; P09–P16 missing lengths and irregular perimeter; P17–P24 rectilinear decomposition; P25–P32 triangles/trapezia and subtraction; P33–P40 semicircle/quarter-circle composites; P41–P48 mixed contexts, conversions, strategy comparison and error analysis.
+16-TEST BLUEPRINT
+T01–T04 perimeter/units; T05–T08 composite area; T09–T12 independent curved/cut-out problems; T13–T16 multi-step design, justification and reasonableness.
+
+==============================================================================
+BATCH 2 INTERACTIVE QA CHECK — 2026-09-11
+- Five codes completed: AC9M8A01–AC9M8A04 and AC9M8M01.
+- One authenticated IXL Australia tab was used sequentially; Learn with an example was actually opened and recorded for every code. AC9M8A01 used two materially different examples.
+- One authenticated Khan Academy tab was used sequentially; relevant algebra, graphing/functions and composite-geometry sequences were opened.
+- Australian Curriculum v9/QCAA set scope; Desmos, GeoGebra and NRICH add trusted public evidence where they extend routine practice.
+- The IXL limitation for AC9M8A04’s full digital experiment/conjecture cycle is explicitly recorded as SOURCE-NOT-MAPPED.
+- Each code has sufficient evidence for Topic Page, HTML Classroom View, Homework, 48 Practice and a separate 16 Test bank.
+- All five codes are genuinely AUTHORING-READY.
+
 RESUME INSTRUCTION
-Read NEXT_CODE and continue with AC9M8A01. Do not repeat completed research unless a source or curriculum descriptor materially changes.
+Read NEXT_CODE and continue with AC9M8M02. Do not repeat completed research unless a source or curriculum descriptor materially changes.
