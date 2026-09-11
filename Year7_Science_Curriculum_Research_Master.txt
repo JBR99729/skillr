@@ -1,0 +1,149 @@
+YEAR 7 SCIENCE — CURRICULUM RESEARCH MASTER
+Australian Curriculum v9 | SkillrHub
+Last updated: 2026-09-11
+
+PROJECT_STATUS: IN_PROGRESS
+CURRENT_PHASE: RESEARCH
+CURRENT_CODE: AC9S7U05
+LAST_COMPLETED_CODE: AC9S7U04
+NEXT_CODE: AC9S7U06
+AUTHORING_STARTED: NO
+CONTENT_VERIFIED_COUNT: 0
+BLOCKER: NONE
+BATCH: 1 COMPLETED (AC9S7U01–AC9S7U04)
+
+Research protocol
+- Primary authority: Australian Curriculum v9 (ACARA).
+- Comparative platforms: IXL Australia (authenticated, sequential interactive sampling) and Khan Academy (supplementary; no AC9 code mapping).
+- Additional trusted public sources: ABC Education plus domain authorities such as NASA, CSIRO and reputable science education institutions where relevant.
+- Evidence is recorded as mappings, task patterns, progression, misconceptions, teaching requirements and distinct practice/test coverage. Source material is not copied into authored questions.
+
+Batch register
+1. AC9S7U01 — investigate the role of classification in ordering and organising the diversity of life on Earth and use and develop classification tools including dichotomous keys.
+2. AC9S7U02 — use models, including food webs, to represent matter and energy flow in ecosystems and predict the impact of changing abiotic and biotic factors on populations.
+3. AC9S7U03 — model cyclic changes in the relative positions of the Earth, sun and moon and explain how these cycles cause eclipses and influence predictable phenomena on Earth, including seasons and tides.
+4. AC9S7U04 — investigate and represent balanced and unbalanced forces, including gravitational force, acting on objects, and relate changes in an object’s motion to its mass and the magnitude and direction of forces acting on it.
+
+================================================================
+AC9S7U01 — AUTHORING-READY
+================================================================
+Curriculum focus
+- Explain why classification is useful, order biodiversity using observable/shared characteristics, use an existing dichotomous key and develop a valid key.
+- Required boundary: kingdom/taxonomy recall is only supporting knowledge. The descriptor explicitly requires classification tools and student-created dichotomous keys.
+
+Evidence collected
+- ACARA v9 descriptor confirmed against the repository’s current Year 7 Science curriculum alignment.
+- IXL Australia, authenticated interactive sampling:
+  - N.1 “Describe, classify and compare kingdoms” presents an organism image and short biological description, then asks about kingdom-defining traits.
+  - Sampled item used Daphnia pulex, identified it as an animal and asked whether it is multicellular. This tests extracting evidence and connecting it to kingdom criteria.
+  - Closest IXL skills: N.1 kingdoms; N.2 common/scientific names; N.3 origins of scientific names; N.4 use scientific names to classify organisms.
+  - IXL does not supply an obvious Year 7 dichotomous-key skill: this crucial ACARA component must be authored independently.
+- Khan Academy:
+  - “Systems of Classification” surveys changes in biological classification.
+  - “Taxonomy and the tree of life” covers Linnaean categories and scientific naming.
+  - Both are supplementary and broader/older than the exact Australian Year 7 tool-use requirement.
+- ABC Education, “Science Years 7–8 with Diana: Classification and constructing dichotomous keys”:
+  - Explains classification as logical organisation by characteristics; defines taxonomy and dichotomous as “split into two”; models a branching key using observable pasta properties; asks learners to construct their own.
+  - Strong age-matched source for the exact use-and-develop requirement.
+- Additional trusted-source principle: modern classifications may change when new structural or genetic evidence appears. Avoid presenting a single kingdom scheme as permanently fixed.
+
+Concept and authoring blueprint
+- Core sequence: purpose of classification -> observable features -> nested groups -> scientific names -> read a paired-choice key -> construct and test a key.
+- Key design rules: two mutually exclusive choices at each step; same type of comparison; observable/unambiguous wording; each choice leads to another pair or one identification; every organism resolves exactly once.
+- Practice coverage: classify from evidence; identify useful/useless traits; follow text and flow-chart keys; repair overlapping choices; choose the next couplet; construct a short key; compare alternative valid keys.
+- Test coverage: unfamiliar Australian organisms, a complete key, a flawed key, a small dataset and an independent key-construction task.
+- Misconceptions: keys are guesses; colour is always reliable; a dichotomous key must begin with kingdom; scientific names describe common names; there is only one correct key order.
+- Feedback must identify the specific choice that is ambiguous or non-exclusive and show how to rewrite it.
+Status: AUTHORING-READY.
+
+================================================================
+AC9S7U02 — AUTHORING-READY
+================================================================
+Curriculum focus
+- Use food-web and other ecosystem models to represent both matter and energy flow and predict population responses to changed abiotic or biotic factors.
+- Required boundary: arrows must be interpreted as transfer from food/source to consumer; predictions require tracing direct and indirect effects rather than memorising organism roles.
+
+Evidence collected
+- ACARA v9 descriptor confirmed.
+- IXL Australia, authenticated interactive sampling:
+  - V.3 “Interpret food webs II” explicitly states that food webs model how eaten matter moves through an ecosystem.
+  - Sampled tundra item asked which organisms contain matter that was once part of lichen, requiring students to trace one or more feeding pathways through the web.
+  - Closest IXL skills: V.1 matter in food chains; V.2/V.3 interpret food webs; V.4 predict population changes; U.1–U.3 ecosystem descriptions; V.6 succession.
+  - IXL provides strong pathway and prediction formats; authoring must explicitly distinguish matter cycling from one-way energy transfer.
+- Khan Academy, “Matter and energy in food webs”:
+  - Food webs model transfer among producers, consumers and decomposers.
+  - Useful for trophic role, transfer and decomposer sequencing; supplementary rather than AC9-mapped.
+- Khan Academy “Energy flow in food chains & webs” adds trophic-level/energy-flow support, but examples must be simplified to Australian Year 7 depth.
+- Trusted public-source direction: CSIRO/ABC Australian ecosystem cases are appropriate for changing rainfall, temperature, invasive species, fire regime or predator abundance. Use simplified datasets and avoid claiming certainty when multiple factors change.
+
+Concept and authoring blueprint
+- Teach: producer captures energy; consumers obtain matter/energy by feeding; decomposers return matter; energy dissipates and is not recycled like matter.
+- Abiotic factors: light, water, salinity, temperature, soil and disturbance. Biotic factors: predation, competition, disease, food availability and introduced species.
+- Prediction method: identify changed factor -> find directly affected population -> trace food-web arrows -> predict secondary effects -> qualify if competing paths exist.
+- Practice coverage: arrow direction; roles; trace matter; trace energy; build food chain from a web; predict single-factor change; compare direct/indirect effects; state model limitation.
+- Test coverage: novel Australian food web, changed abiotic factor, removal/addition of a species, competing prediction evidence and a model critique.
+- Misconceptions: arrows show “who chases whom”; matter and energy both recycle identically; all predators rise when prey falls; one diagram proves exact population sizes.
+- Feedback must trace the relevant pathway explicitly and use “likely” for model-based population predictions.
+Status: AUTHORING-READY.
+
+================================================================
+AC9S7U03 — AUTHORING-READY
+================================================================
+Curriculum focus
+- Model cyclic relative positions of Earth, Sun and Moon and explain eclipses, seasons and tides.
+- Required boundary: the descriptor combines spatial modelling with causal explanation. Lunar phases may support positional reasoning, but they must not displace eclipses, seasons and tides.
+
+Evidence collected
+- ACARA v9 descriptor confirmed.
+- IXL Australia, authenticated interactive sampling:
+  - DD.5 “What causes the seasons on Earth?” distinguishes Earth’s 24-hour rotation from annual revolution and presents a labelled model with opposite seasons in the hemispheres.
+  - Sampled task required identifying poles, hemispheres and equator on a seasonal model.
+  - Closest IXL skills: DD.1 Earth–Sun–Moon model analysis; DD.2 lunar phases; DD.3 solar eclipses; DD.4 lunar eclipses; DD.5 seasons.
+  - IXL has strong diagram-labelling and alignment tasks butwood. The Year 7 list has no clear tides skill, so tidal modelling must be authored from trusted sources.
+- Khan Academy: searches did not surface one single lesson covering the complete Australian descriptor; relevant astronomy explanations are supplementary and.
+- Trusted-source direction: NASA education material is authoritative for orbital geometry, shadow alignment and scale/model limitations; Australian sources are needed for southern-hemisphere seasonal framing. Tides should be taught as predominantly lunar gravitational effects, modified by Sun–Moon alignment.
+- ABC Education Year 5–6 Solar System material provides a useful prerequisite model/scale warning: a model may represent relative size while not representing relative distance accurately.
+
+Concept and authoring blueprint
+- Seasons: axial tilt plus revolution changes sunlight angle and day length; not distance from the Sun.
+- Eclipses: new-moon alignment can produce a solar eclipse; full-moon alignment can produce a lunar eclipse; orbital tilt explains why eclipses do not occur every month.
+- Tides: Moon’s gravity produces tidal bulges; Earth’s rotation carries locations through tides; aligned Sun/Moon strengthens spring tides, right-angle alignment produces neap tides.
+- Practiceasino: identify relative positions; match cause to phenomenon; label shadow regions; compare seasonal sunlight; interpret a tide diagram/table; critique model scale.
+- Test coverage: unfamiliar orientations, southern-hemisphere seasons, eclipse vs phase confusion, spring/neap tide alignment and an explicit model-limit question.
+- Misconceptions: phases are Earth’s shadow; eclipses occur monthly; seasons result from distance; high tide occurs only on the side facing the Moon; Moon produces its own light.
+- Feedback must name the positional relationship causing the phenomenon.
+Status: AUTHORING-READY.
+
+================================================================
+AC9S7U04 — AUTHORING-READY
+================================================================
+Curriculum focus
+- Investigate and represent balanced/unbalanced forces including gravity, then relate motion change to mass and force magnitude/direction.
+- Required boundary: balanced force does not mean “no forces”; it means vector sum/net force is zero. Motion can remain constant while forces are balanced.
+
+Evidence collected
+- ACARA v9 descriptor confirmed.
+- IXL Australia, authenticated interactive sampling:
+  - H.4 “Balanced and unbalanced forces” presents opposing force magnitudes and asks whether net force is zero.
+  - Sampled context: a dog pulled a leash forward with 250 N while a person pulled backward with 180 N; because forces differ, the forces are unbalanced and net force acts forward.
+  - Closest IXL skills: H.1 identify acceleration; H.2 mass–force–acceleration; H.3 Newton’s third law; H.4 balanced/unbalanced forces; I.1 gravitational potential energy.
+  - IXL provides clear numerical/opposing-force stems; authored work must add force-arrow diagrams, investigations and gravity/mass reasoning.
+- Khan Academy:
+  - “Unbalanced forces and motion” links non-zero net force to acceleration in its direction.
+  - Newton’s second-law resources reinforce that acceleration increases with net force and decreases with mass, but formula-heavy senior variants must not set the Year 7 level.
+- Trusted-source direction: use recognised physics education treatments of free-body/force diagrams and net force. Keep gravity as a downward field force and distinguish mass (amount of matter, kg) from weight/gravitational force (N).
+
+Concept and authoring blueprint
+- Represent every relevant force with arrow direction and relative magnitude; calculate one-dimensional net force only where appropriate.
+- Motion reasoning: zero net force -> rest or constant velocity; non-zero net force -> speed and/or direction changes. Greater net force gives greater acceleration for the same mass; greater mass gives less acceleration for the same net force.
+- Investigation contexts: trolley/push, friction and surface, parachute/drag, hanging object, tug-of-war and falling object.
+- Practice coverage: identify forces; draw/select arrow diagrams; calculate net force; decide balanced/unbalanced; predict motion change; compare effect of mass; separate mass and weight.
+- Test coverage: moving object with balanced forces, two-axis force diagram, changed force/mass scenario, gravity plus support force and evidence from a simple investigation.
+- Misconceptions: moving objects must have forward net force; heavier objects always fall faster; action–reaction forces cancel on one object; gravity disappears in space; balanced means no forces.
+- Feedback must state the net force direction and connect it to acceleration rather than to motion direction alone.
+Status: AUTHORING-READY.
+
+BATCH 1 CHECKPOINT
+- AC9S7U01, AC9S7U02, AC9S7U03 and AC9S7U04 are research-complete and AUTHORING-READY.
+- No SkillrHub content has been re-authored during this research phase.
+- Next batch starts AC9S7U05, AC9S7U06, AC9S7H01 and AC9S7H02.
