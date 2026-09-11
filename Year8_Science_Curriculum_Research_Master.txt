@@ -4,13 +4,13 @@ Last updated: 2026-09-11
 
 PROJECT_STATUS: IN_PROGRESS
 CURRENT_PHASE: RESEARCH
-CURRENT_CODE: AC9S8H02
-LAST_COMPLETED_CODE: AC9S8H01
-NEXT_CODE: AC9S8H03
+CURRENT_CODE: AC9S8H04
+LAST_COMPLETED_CODE: AC9S8I02
+NEXT_CODE: AC9S8I03
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
-BATCH: 2 COMPLETED (LATEST: AC9S8U05–AC9S8H01)
+BATCH: 3 COMPLETED (LATEST: AC9S8H02–AC9S8I02)
 
 RESEARCH METHOD
 Each code is checked against the Australian Curriculum v9 wording and boundary, authenticated IXL Australia Year 8 practice, relevant Khan Academy lessons/exercises, and at least two reputable public sources where available. IXL and Khan mappings are evidence for task design and progression, not substitutes for the Australian Curriculum. Source gaps are recorded rather than inferred.
@@ -370,3 +370,158 @@ BATCH 2 CHECKPOINT
 Completed: AC9S8U05, AC9S8U06, AC9S8U07, AC9S8H01
 All four codes now include curriculum boundaries, live IXL mapping evidence or explicit partial-map status, authenticated Khan evidence, reputable public-source comparison, misconception controls and authoring blueprints.
 Next unfinished code: AC9S8H02
+
+
+==================================================
+AC9S8H02
+CURRICULUM DESCRIPTION
+Investigate how cultural perspectives and world views influence the development of scientific knowledge.
+
+CURRICULUM BOUNDARY
+Students investigate influence rather than treating culture and science as opposites. They need evidence-based cases showing how questions, participation, methods, interpretation, priorities and recognition can be shaped by social and cultural contexts. Cultural knowledge must be represented respectfully, locally and with attention to permissions; it must not be generalised as one uniform “Indigenous view”.
+
+SOURCE EVIDENCE
+1. Australian Curriculum v9: exact description above. Curriculum elaborations include how historical views about women placed scientists in subordinate roles or removed them from histories, and how cultural building techniques such as bamboo construction informed structures and materials better able to respond to earthquakes.
+2. IXL Australia: no direct Year 8 Science-as-a-Human-Endeavour skill mapping. Relevant but limited contexts include science-literacy passages, engineering-design evaluation and evidence/history in continental drift. Record IXL SOURCE-NOT-MAPPED for direct coverage.
+3. Khan Academy: no direct Australian-cultural-perspectives mapping. Its scientist-history and scientific-method materials can support evidence and participation discussion, but do not satisfy the code alone. Record KHAN PARTIAL-MAPPING.
+4. AIATSIS is the preferred Australian authority for ethical engagement with Aboriginal and Torres Strait Islander peoples, knowledge, Country/Place, cultural protocols and Indigenous Cultural and Intellectual Property considerations.
+5. Australian Academy of Science provides Australian scientist biographies and equity/diversity material. Royal Society history resources document institutional barriers and the delayed recognition of women; its Dorothy Hodgkin account explicitly records expectations, fellowship/maternity barriers and gendered media framing while describing her scientific contributions.
+6. ABC Education search: no stable direct Year 8 code mapping located; SOURCE-NOT-MAPPED.
+
+AUTHORING-READY KNOWLEDGE
+- Cultural perspective/world view can affect which questions are valued, who is permitted to participate, which evidence is noticed, and how knowledge is shared/applied.
+- Influence does not mean evidence standards are optional; claims still require appropriate methods, reasoning and scrutiny.
+- Exclusion can cause lost contributions and biased historical accounts. Recognition should use evidence and avoid simplistic “hero versus villain” stories.
+- First Nations knowledges are living, place-based knowledge systems developed through sustained observation, practice and intergenerational transmission.
+- Ethical use requires consultation, attribution, consent and respect for restricted knowledge; public availability is not automatic permission to reuse.
+- Useful case pattern: context/world view → influence on participation/question/method → evidence or knowledge produced/overlooked → later consequence.
+
+CONTENT BLUEPRINT
+Topic Page: definitions; pathways of influence; women-in-science case study; First Nations/engineering case with protocol guidance; evidence-versus-stereotype checks.
+Classroom View: source comparison, missing-voice audit, case-study causal map and respectful discussion norms.
+Homework: investigate one case, identify perspective/influence/evidence, evaluate representation and attribution.
+Practice 48: 8 core concepts; 12 historical participation/recognition; 10 First Nations/protocol cases; 10 engineering/cultural technique cases; 8 source-evaluation applications.
+Test 16: independent cases requiring causal explanations, not culture-label recall.
+
+MISCONCEPTIONS
+Science is culture-free in every respect; cultural knowledge is only opinion; all members of a culture share one view; recognising perspective means abandoning evidence; knowledge can be copied because it is online. Feedback must separate social influence from evidential validity and name respectful research practice.
+
+STATUS: AUTHORING-READY
+
+==================================================
+AC9S8H03
+CURRICULUM DESCRIPTION
+Examine how proposed scientific responses to contemporary issues may impact on society and explore ethical, environmental, social and economic considerations.
+
+CURRICULUM BOUNDARY
+The task is multi-criteria examination, not choosing a universally “correct” technology. Students must connect a proposed response to benefits, risks, affected groups, evidence, uncertainty and trade-offs across all four named dimensions. Political advocacy and unsupported personal preference are outside the learning goal.
+
+SOURCE EVIDENCE
+1. Australian Curriculum v9: exact description above. Elaborations include organ transplantation ethics and how organoids affect ethical, environmental, social and economic issues related to using live animals in research.
+2. IXL Australia: no direct mapping. Partial task-design evidence appears in engineering practices (“evaluate tests” and “use data to compare solutions”), conservation claim evaluation and natural-resource use. Record IXL PARTIAL-MAPPING.
+3. Khan Academy: no direct ACARA mapping. Controlled-experiment, environmental-science and public-health case materials help students evaluate evidence and limitations, but explicit ethical/social/economic analysis needs separate authoring. Record KHAN PARTIAL-MAPPING.
+4. NHMRC Australian ethics guidance is authoritative for human research principles including respect, research merit/integrity, justice and beneficence. It provides the correct framework for organ transplantation/organoid contexts without giving personal medical advice.
+5. CSIRO and Australian government science agencies provide evidence-rich contemporary issue cases in energy, climate, biodiversity, biotechnology and materials.
+6. WHO and OECD public reports are suitable for population-health and economic/system impacts when Australian sources do not cover a case.
+7. ABC Education search: no stable direct code mapping located; SOURCE-NOT-MAPPED.
+
+AUTHORING-READY KNOWLEDGE
+- A scientific response may be a technology, intervention, management strategy, policy-supported tool or new research method.
+- Ethical: consent, fairness, welfare, privacy, cultural rights, animal use and intergenerational responsibility.
+- Environmental: resources, emissions, biodiversity, waste, reversibility and life-cycle effects.
+- Social: access, trust, participation, health, employment, community disruption and distribution of benefits/harms.
+- Economic: development/operating cost, affordability, opportunity cost, productivity and who pays/benefits.
+- The same consequence can span dimensions; classification matters less than explaining the mechanism.
+- Evidence quality, uncertainty, scale and affected stakeholders must be explicit.
+- A justified conclusion weighs criteria and conditions rather than claiming “no drawbacks”.
+
+CONTENT BLUEPRINT
+Topic Page: four-lens matrix; stakeholders; evidence/uncertainty; organoid or transplantation worked case; environmental technology case.
+Classroom View: stakeholder roles, evidence cards, decision matrix and conditional recommendation.
+Homework: compare two responses, document trade-offs and justify a recommendation with limitations.
+Practice 48: 8 concepts; 12 identify/explain dimensions; 10 stakeholder impacts; 8 evidence/uncertainty; 6 trade-off decisions; 4 bias/source checks.
+Test 16: novel scenarios requiring all four lenses across the bank, with at least 5 multi-factor judgements.
+
+MISCONCEPTIONS
+Scientific evidence alone automatically decides values; economic means only purchase price; ethical means personal likes; benefits for most justify any harm; one solution affects everyone equally. Feedback must name affected stakeholders, mechanism, evidence and trade-off.
+
+STATUS: AUTHORING-READY
+
+==================================================
+AC9S8I01
+CURRICULUM DESCRIPTION
+Develop investigable questions, reasoned predictions and hypotheses to explore scientific models, identify patterns and test relationships.
+
+CURRICULUM BOUNDARY
+Students distinguish broad topics from investigable questions, and predictions from hypotheses. Questions need measurable variables and a feasible method. Hypotheses are testable explanations, not guesses or restated predictions. Correlation should not be asserted as causation without a suitable design.
+
+SOURCE EVIDENCE
+1. Australian Curriculum v9: exact description above; elaborations address causal relationships versus correlation and questions such as how salt concentration affects plant cells.
+2. IXL Australia, authenticated Year 8 B “Designing experiments”: B.3 Identify the experimental question; B.4 Identify questions that can be investigated with a set of materials; plus B.1 control/experimental groups and B.2 independent/dependent variables as prerequisites. Live B.3 evidence: a six-pot tomato-seed study holds temperature, light and humidity constant, changes fertiliser and measures seedlings after two weeks. The learner chooses the question about fertiliser versus no fertiliser, rejecting humidity because humidity was not varied. The skill begins with four consecutive correct answers and has three stages. This verifies alignment among question, changed variable and measured outcome.
+3. Khan Academy, authenticated “Controlled experiments”: observation leads to an investigable question, testable hypothesis and conditional prediction; controlled experiments vary one factor while keeping others constant. Khan also explains that some hypotheses require observational pattern tests for ethical/practical reasons and gives Australian coral-bleaching cases.
+4. Australian Academy of Science education resources and CSIRO school investigations support question formation in authentic Australian contexts.
+5. ABC Education search: no stable direct Year 8 code mapping located; SOURCE-NOT-MAPPED.
+
+AUTHORING-READY KNOWLEDGE
+- Investigable question template: How does [independent variable] affect [dependent variable] under defined conditions?
+- Prediction states an expected result; a reasoned prediction includes scientific reasoning.
+- Hypothesis offers a testable explanatory relationship and yields a prediction.
+- Variables must be measurable or categorisable with an observable outcome.
+- Range, comparison/control, practical resources, time, safety and ethics determine feasibility.
+- Correlation is co-variation; causation requires ruling out plausible alternatives through design/evidence.
+- Model questions should identify what aspect or prediction of the model can be checked.
+
+CONTENT BLUEPRINT
+Topic Page: question quality ladder; prediction/hypothesis comparison; variable alignment; causation/correlation; worked rewrites.
+Classroom View: improve-question routine, variable cards, prediction justification and design critique.
+Homework: rewrite questions, identify variables, develop hypotheses/predictions, judge feasibility and causation claims.
+Practice 48: 12 investigable/non-investigable; 10 variable alignment; 10 prediction/hypothesis; 8 model/pattern; 8 correlation/causation.
+Test 16: novel contexts with at least 6 construction/selection items requiring justification.
+
+MISCONCEPTIONS
+Any question is investigable; hypothesis equals prediction; hypothesis must be correct; two changing variables prove causation; a fair test always requires a laboratory. Feedback must show the missing variable, measure, comparison or explanatory link.
+
+STATUS: AUTHORING-READY
+
+==================================================
+AC9S8I02
+CURRICULUM DESCRIPTION
+Plan and conduct reproducible investigations to answer questions and test hypotheses, including identifying variables and assumptions and, as appropriate, recognising and managing risks, considering ethical issues and recognising key considerations regarding heritage sites and artefacts on Country/Place.
+
+CURRICULUM BOUNDARY
+A valid plan must align question, hypothesis, variables, measurements, controls, repeats and analysis. Reproducible means another team can follow the description and obtain comparable data, not necessarily identical results. Risk, ethics and Country/Place considerations must be specific to context.
+
+SOURCE EVIDENCE
+1. Australian Curriculum v9: exact description above; elaborations include controlled causal investigations and identifying assumptions in analogue models such as dialysis tubing modelling plant-cell membranes.
+2. IXL Australia authenticated mappings: B.1 Identify control and experimental groups; B.2 Identify independent and dependent variables; B.5 Understand an experimental protocol about plant growth; B.6 diffusion; B.7 evaporation; A.2 laboratory tools; A.3 laboratory safety. Live B.5 evidence presents a complete materials/procedure/data-table protocol: ten tomato plants, equal pots/soil/water/location, earthworms added to five pots, and tomato yield measured after three months. The first task selects materials actually required; follow-on structure tests groups, variables, procedures and tables. Challenge requires 6 of 8 correct, with prerequisite links to variables, groups and investigable questions.
+3. Khan Academy authenticated “Controlled experiments”: control group provides baseline; independent variable is deliberately changed; dependent variable is measured; large samples and repetition reduce random-variation risk. It also explicitly recognises that ethical/practical limits may require observational testing. “The scientific method” stresses testability, controlling alternatives and reproducibility.
+4. Australian Academy of Science/CSIRO classroom investigations support risk-managed school methods. AIATSIS guidance is the key authority when research involves Country/Place, heritage, community knowledge or artefacts.
+5. ABC Education search: no stable direct code mapping located; SOURCE-NOT-MAPPED.
+
+AUTHORING-READY KNOWLEDGE
+- Method specifies materials quantities, sequence, duration, measurement technique/units and data-recording plan.
+- Independent variable: deliberately changed; dependent: measured response; controlled: kept consistent; control/comparison provides baseline.
+- Use sufficient range, repeats/sample size and consistent timing; randomise where appropriate.
+- Identify assumptions, especially how a model represents and differs from the target system.
+- Risk management: hazard → possible harm → likelihood/severity → control; PPE is one control, not the whole plan.
+- Ethics: minimise harm, voluntary informed participation where relevant, privacy and fair treatment.
+- Country/Place: seek relevant permissions, avoid disturbance/removal, follow Traditional Owner/site protocols and record provenance respectfully.
+- Reproducibility requires operational definitions, not vague instructions such as “add some” or “measure growth”.
+
+CONTENT BLUEPRINT
+Topic Page: planning flow; variable/control table; reproducibility checklist; model assumptions; risk/ethics/Country decision guides; full worked protocol.
+Classroom View: repair a flawed method, mini risk assessment, Country/Place scenario and peer reproducibility check.
+Homework: complete plans, identify omissions, rewrite vague steps, analyse ethics/heritage contexts.
+Practice 48: 8 variables/groups; 12 reproducible methods; 8 repeats/data tables; 8 risk; 6 ethics; 6 model/Country considerations.
+Test 16: independent investigation scenarios with at least 4 risk/ethics/Country items across the test bank.
+
+MISCONCEPTIONS
+Control variable equals control group; reproducible means identical numbers; more trials fix systematic bias; “be careful” is risk control; public artefacts may be sampled; analogue models have no assumptions. Feedback must name the flaw, its effect and a targeted correction.
+
+STATUS: AUTHORING-READY
+
+==================================================
+BATCH 3 CHECKPOINT
+Completed: AC9S8H02, AC9S8H03, AC9S8I01, AC9S8I02
+All four codes now have curriculum boundaries, live IXL evidence or explicit mapping status, authenticated Khan evidence or explicit mapping status, reputable public-source comparison, misconception controls and authoring blueprints.
+Next unfinished code: AC9S8H04
