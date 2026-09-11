@@ -3,14 +3,14 @@ Australian Curriculum v9 | SkillrHub
 Last updated: 2026-09-11
 
 PROJECT_STATUS: IN_PROGRESS
-CURRENT_PHASE: RESEARCH
-CURRENT_CODE: AC9S6I03
-LAST_COMPLETED_CODE: AC9S6I02
-NEXT_CODE: AC9S6I04
+CURRENT_PHASE: AUTHORING_PENDING
+CURRENT_CODE: NONE
+LAST_COMPLETED_CODE: AC9S6I06
+NEXT_CODE: AC9S6U01
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
-BATCH: 2 OF 3 COMPLETED (LATEST: AC9S6H01–AC9S6I02)
+BATCH: 3 OF 3 COMPLETED — ALL 12 CODES AUTHORING-READY
 
 Research protocol
 - Primary curriculum authority: Australian Curriculum v9 (ACARA).
@@ -233,3 +233,114 @@ BATCH 2 CHECKPOINT
 - AC9S6H01, AC9S6H02, AC9S6I01 and AC9S6I02 are research-complete and AUTHORING-READY.
 - No SkillrHub content has been re-authored during the research phase.
 - Next batch: AC9S6I03, AC9S6I04, AC9S6I05 and AC9S6I06.
+
+================================================================
+AC9S6I03 — AUTHORING-READY
+================================================================
+Curriculum focus
+- Use equipment to observe, measure and record data with reasonable precision, using digital tools as appropriate.
+- Required boundary: equipment choice, correct units, scale reading, precision and consistent recording must be applied in an investigation—not reduced to naming laboratory equipment.
+
+Evidence collected
+- ACARA official Year 6 Science curriculum: exact content description confirmed.
+- IXL Australia, authenticated interactive sampling:
+  - A.2 “Identify laboratory tools” uses image-based selection; the sampled item asked students to identify an Erlenmeyer flask. This supports equipment recognition but is below the full descriptor depth.
+  - Q.1 “Choose units of distance, mass and volume” tests scale-sensitive unit choice. The sampled item asked for the most reasonable unit for the Nile River; kilometres was the viable estimate rather than metres, centimetres or millimetres.
+  - Closest supports: A.2 laboratory tools; Q.1 unit selection; Q.2–Q.4 unit abbreviations. No exact IXL skill combines apparatus choice with measurement precision and data recording.
+- Khan Academy: no Australian Curriculum code mapping. General measurement/data lessons are supplementary; advanced statistics error resources are not age-appropriate substitutes.
+- ABC Education, “Who loves soil? Tim does!” (Years 5–6/7–8): shows field scientists measuring soil pH, texture and compaction, establishing sampling sites and recording information. This provides an authentic Australian context for linked observing, measuring and recording.
+- ABC Education, “Knowing nutrition” (Years 5–6): requires quantities to be recorded in grams, millilitres and counts, reinforcing units matched to measured variables.
+
+Concept and authoring blueprint
+- Teach the measurement chain: define variable -> select instrument -> select unit -> read scale at eye level -> record all values consistently -> note precision.
+- “Reasonable precision” means appropriate to the instrument and question; it does not mean adding unsupported decimal places.
+- Include ruler, measuring cylinder, balance, thermometer, stopwatch, pH indicator/meter and simple digital sensor contexts.
+- Practice coverage: match instrument and variable; choose units; read analogue/digital displays; identify parallax/scale errors; record data in a prepared table; judge whether precision is reasonable.
+- Test coverage: unfamiliar instrument diagrams, mixed-unit errors, repeated readings and a fieldwork/digital-tool context.
+- Misconceptions: larger instrument is always more precise; digital means perfectly accurate; every measurement should have two decimals; estimates and measurements are interchangeable.
+- Feedback must name the specific instrument/scale/unit mismatch and model the corrected record including its unit.
+Status: AUTHORING-READY.
+
+================================================================
+AC9S6I04 — AUTHORING-READY
+================================================================
+Curriculum focus
+- Construct and use appropriate representations, including tables, graphs and visual or physical models, to organise and process data and information, and describe patterns, trends and relationships.
+- Required boundary: students must both construct/select a representation and interpret what it shows; decorative diagrams or graph-reading alone are incomplete.
+
+Evidence collected
+- ACARA official Year 6 Science curriculum: exact content description confirmed.
+- IXL Australia, authenticated interactive sampling:
+  - G.3 “Use tables and graphs to identify patterns about kinetic energy” provides aligned mass, speed and kinetic-energy data and asks students to compare quantities.
+  - Sampled context: nickel (50 dg, 10 m/s, 250 mJ) versus penny (25 dg, 10 m/s, 125 mJ). Students must recognise equal speed and a paired increase in mass and kinetic energy.
+  - Closest supports: G.3 table/graph pattern analysis; C.3 use test data to compare solutions; P.1 analyse models. IXL provides strong interpretation forms but little explicit table/graph construction.
+- Khan Academy: graph and data lessons are supplementary and not AC9-mapped. Advanced statistical graphing is beyond this Year 6 descriptor.
+- ABC Education, “Science Years 5–6: The Solar System”: explicitly develops a scale representation, discusses the chosen scale, and demonstrates multiple construction methods. This is strong evidence for modelling, scale and model limitations.
+- ABC Education, “Knowing nutrition”: students collect quantities over time, compare them with recommended values and discuss patterns, supplying a familiar data-organisation context.
+
+Concept and authoring blueprint
+- Representation selection: table for exact organised values; column graph for categories; line graph for change over continuous time; labelled diagram/model for structure or relationships.
+- Construction checklist: descriptive title, labelled variables/axes, units, sensible even scale, accurate plotting and key where needed.
+- Practice coverage: select representation; complete a table; choose axes; detect misleading/uneven scale; plot or identify a point; describe trend; distinguish pattern from unsupported cause; evaluate model strengths/limits.
+- Test coverage: transform a short dataset into a representation choice, interpret novel graphs, compare two representations and explain one model limitation.
+- Misconceptions: independent variable belongs on either axis arbitrarily; every dataset needs a line graph; a graph proves causation; a larger picture is a more accurate model.
+- Feedback must connect the representation feature to the scientific purpose, for example why time belongs on the horizontal axis.
+Status: AUTHORING-READY.
+
+================================================================
+AC9S6I05 — AUTHORING-READY
+================================================================
+Curriculum focus
+- Compare methods and findings with those of others, recognise possible sources of error, pose questions for further investigation and select evidence to draw reasoned conclusions.
+- Required boundary: conclusions must answer the original question using evidence and acknowledge method limits; “the hypothesis was correct” is not a sufficient conclusion.
+
+Evidence collected
+- ACARA official Year 6 Science curriculum: exact content description confirmed.
+- IXL Australia, authenticated interactive sampling:
+  - B.5 “Understand an experimental protocol about plant growth” provides materials, detailed method and two data tables.
+  - Sampled protocol: 10 tomato plants, five without earthworms and five with two earthworms, same pot size/location/water, then count tomatoes after three months. The item checks whether claimed materials are actually required.
+  - Closest supports: B.5–B.7 protocol interpretation; B.1/B.2 groups and variables; C.2/C.3 evaluate and compare design-test evidence. No single IXL skill covers method comparison, sources of error, further questions and conclusions together.
+- Khan Academy: scientific-method resources are supplementary and not AC9-mapped. Type I/II error and standard-error lessons surfaced in search but are explicitly excluded as developmentally inappropriate for Year 6.
+- ABC Education “Pepper scatter experiment” asks learners to compare predictions with observations, add a control, identify evidence and modify one variable. It offers an age-appropriate evaluation cycle.
+- ABC Education “Who loves soil? Tim does!” models standardised sampling, measurement and recording, supporting discussion of why methods must be comparable.
+
+Concept and authoring blueprint
+- Evaluation sequence: compare question/variables/method/sample/repeats -> compare findings -> identify plausible error -> judge effect on results -> select evidence -> conclude -> ask a focused next question.
+- Distinguish random variation, measurement/reading error, inconsistent procedure and confounding variables. Avoid teaching “human error” as an adequate explanation.
+- Practice coverage: match conclusion to data; choose relevant evidence; identify a method difference; predict error direction where possible; improve a method; pose a genuine extension question.
+- Test coverage: two student methods/results, anomalous data, a conclusion stronger than the evidence, and an extension that changes one purposeful factor.
+- Misconceptions: different results mean dishonesty; an anomaly should always be deleted; more data automatically fixes bias; conclusion repeats the method; every imperfection invalidates the investigation.
+- Feedback must explain how the specific source of error could affect the measurement or comparison.
+Status: AUTHORING-READY.
+
+================================================================
+AC9S6I06 — AUTHORING-READY
+================================================================
+Curriculum focus
+- Write and create texts to communicate ideas and findings for specific purposes and audiences, including selection of language features, using digital tools as appropriate.
+- Required boundary: the same investigation should be communicated differently for purpose and audience while retaining accurate methods, evidence, units and conclusions.
+
+Evidence collected
+- ACARA official Year 6 Science curriculum: exact content description confirmed.
+- IXL Australia:
+  - No direct Year 6 Science skill maps to creating audience-specific scientific texts: SOURCE-NOT-MAPPED.
+  - IXL protocol passages, data tables and evidence-comparison tasks provide useful source material, but they assess interpretation rather than communication design.
+- Khan Academy: no Australian Curriculum mapping or direct age-matched science-communication authoring exercise identified; SOURCE-NOT-MAPPED for this descriptor.
+- ABC Education “Pepper scatter experiment” explicitly asks students to write a procedural report and identify evidence.
+- ABC Education “Who loves soil? Tim does!” demonstrates a scientist communicating field methods to a community workshop and explaining technical ideas through accessible comparison.
+- ABC Education “Knowing nutrition” requires recording quantities, justifying choices and discussing findings with peers, supporting audience-aware explanation.
+
+Concept and authoring blueprint
+- Teach purpose/audience choices: procedural report for repeatability; results summary for peers; labelled infographic for families; recommendation for a community; oral/digital presentation for a class.
+- Scientific integrity remains constant: correct terminology, evidence, units, uncertainty and source attribution. Language, structure and visual density may change with audience.
+- Practice coverage: identify purpose/audience; select suitable format; order report sections; improve an ambiguous method; choose precise rather than emotive language; match graph/caption to message; write evidence-based claim.
+- Test coverage: adapt one finding for two audiences, select necessary/irrelevant detail, correct a misleading caption, and draft a concise conclusion with evidence and limitation.
+- Misconceptions: simpler language permits inaccuracy; more technical words always improve science writing; a colourful infographic needs little evidence; procedure and conclusion are interchangeable; digital tools guarantee clarity.
+- Feedback should state which audience need was missed while preserving scientific accuracy.
+Status: AUTHORING-READY.
+
+FINAL RESEARCH CHECKPOINT
+- All 12 Australian Curriculum v9 Year 6 Science content descriptions are recorded and AUTHORING-READY:
+  AC9S6U01–AC9S6U04, AC9S6H01–AC9S6H02 and AC9S6I01–AC9S6I06.
+- Research phase is complete. Authoring has not started.
+- Authoring resume point: AC9S6U01, proceeding code by code in user-directed batches.
