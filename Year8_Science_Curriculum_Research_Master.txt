@@ -1,0 +1,220 @@
+YEAR 8 SCIENCE — CURRICULUM RESEARCH MASTER
+Australian Curriculum v9 | SkillrHub
+Last updated: 2026-09-11
+
+PROJECT_STATUS: IN_PROGRESS
+CURRENT_PHASE: RESEARCH
+CURRENT_CODE: AC9S8U05
+LAST_COMPLETED_CODE: AC9S8U04
+NEXT_CODE: AC9S8U06
+AUTHORING_STARTED: NO
+CONTENT_VERIFIED_COUNT: 0
+BLOCKER: NONE
+BATCH: 1 COMPLETED (LATEST: AC9S8U01–AC9S8U04)
+
+RESEARCH METHOD
+Each code is checked against the Australian Curriculum v9 wording and boundary, authenticated IXL Australia Year 8 practice, relevant Khan Academy lessons/exercises, and at least two reputable public sources where available. IXL and Khan mappings are evidence for task design and progression, not substitutes for the Australian Curriculum. Source gaps are recorded rather than inferred.
+
+==================================================
+AC9S8U01
+CURRICULUM DESCRIPTION
+Recognise cells as the basic units of living things, compare plant and animal cells, and describe the functions of specialised cell structures and organelles.
+
+CURRICULUM BOUNDARY
+Students need a functional Year 8 model of cells: cells as the basic structural and functional unit; common plant/animal structures; features distinctive to typical plant cells; and structure–function links. Detailed biochemical pathways, membrane transport calculations and cell-cycle regulation are outside this code. Avoid the false absolute that every plant cell has chloroplasts.
+
+SOURCE EVIDENCE
+1. Australian Curriculum v9: exact content description above. The Year 8 level framing introduces microscopic cell structures as explanations for macroscopic living systems.
+2. IXL Australia, authenticated Year 8 Science, section P “Cells”. Exact mapped skills observed:
+   - P.1 Understanding cells
+   - P.2 Identify functions of plant cell parts
+   - P.3 Identify functions of animal cell parts
+   - P.4 Plant cell diagrams: label parts
+   - P.5 Animal cell diagrams: label parts
+   - P.6 Compare cells and cell parts
+   - P.7 Mitosis and the cell cycle (extension/partial mapping only)
+   Interactive evidence: P.6 begins with staged mastery (“3 questions correctly in a row”). A sampled item asks learners to select the one true statement from function/structure claims, including that vacuoles store nutrients, water and waste, contrasted with distractors assigning cell walls and chloroplasts to animal cells or protein-building to cell walls. Correct response receives immediate positive feedback. This verifies a progression from recall to comparison and misconception diagnosis.
+3. Khan Academy, authenticated: Middle school biology “Cells and organisms” provides video, “Learn and try: Cell theory”, “Understand: Cells and organisms” and “Apply: Cell theory”. The article develops the evidence base from microscopy and states the three core claims: organisms consist of one or more cells; cells are the basic unit of structure and function; cells arise from pre-existing cells. Khan’s Cambridge cellular-organisation sequence also includes cell parts/functions, plant versus animal cells, and specialised plant/animal cells. Useful as supplementary practice, not an Australian-code mapping.
+4. OpenStax Biology/Anatomy public resources: eukaryotic cells contain specialised organelles; organelle descriptions support accurate structure–function explanations and diagrams.
+5. ABC Education search: no stable, direct Year 8 resource mapping was located in the current search. Record SOURCE-NOT-MAPPED; do not fabricate an ABC alignment.
+
+AUTHORING-READY KNOWLEDGE
+- Cell membrane: selectively controls movement between cell and surroundings.
+- Cytoplasm: site/medium for many cell reactions.
+- Nucleus: contains genetic material and coordinates cell activities at this level.
+- Mitochondria: release usable energy through cellular respiration.
+- Ribosomes: build proteins.
+- Plant cell wall: rigid support/protection; outside the membrane.
+- Chloroplasts: photosynthesis in photosynthetic plant cells.
+- Large central vacuole: water/solute storage and support through turgor.
+- Typical animal cells lack cell walls and chloroplasts and usually do not have one large central vacuole.
+- Specialised cell shape/structures suit function: root-hair cell surface area, palisade-cell chloroplast abundance, red-blood-cell form, neuron length/branching, muscle-cell energy demand.
+
+QUESTION/CONTENT BLUEPRINT
+Topic Page: cell theory; scale; labelled plant and animal models; comparison table; organelle-function reasoning; specialised-cell case studies; model limitations.
+Classroom View: retrieval warm-up, microscopy/model comparison, structure–function discussion, misconception checks.
+Homework/Worksheet: labels, compare/contrast, explain functions, apply to unfamiliar specialised cells, critique a faulty diagram.
+Practice bank coverage (48 later): 8 cell-theory/basic-unit items; 12 organelle/function items; 8 diagram/position items; 8 plant-animal comparisons; 8 specialised-cell applications; 4 model/evidence items.
+Test bank coverage (16 later): independent contexts with balanced recall, diagram interpretation and structure–function reasoning; no duplicated practice stems.
+
+MISCONCEPTIONS AND REQUIRED FEEDBACK
+- “Cell wall replaces membrane”: plant cells have both.
+- “All plant cells have chloroplasts”: only photosynthetic cells typically do.
+- “Vacuoles are exclusive to plants”: emphasis is the large central plant vacuole.
+- “Mitochondria make energy from nothing”: energy is transformed/released from chemical stores.
+- “Bigger organisms have bigger cells”: commonly they have more cells.
+Feedback must name the mistaken structure/function and state the corrected relationship.
+
+STATUS: AUTHORING-READY
+
+==================================================
+AC9S8U02
+CURRICULUM DESCRIPTION
+Analyse the relationship between structure and function of cells, tissues and organs in a plant and an animal organ system and explain how these systems enable survival of the individual.
+
+CURRICULUM BOUNDARY
+This code requires analysis across levels, not a list of body parts. Authoring must include both a plant system and an animal organ system, explicitly linking cell/tissue/organ structure to function and then to survival. Advanced histology and full medical physiology are not required.
+
+SOURCE EVIDENCE
+1. Australian Curriculum v9: exact content description above. ACARA teacher background material for AC9S8I08 explicitly cross-references AC9S8U02 and suggests scientific drawings/representations of internal systems, including circulatory, digestive or reproductive systems.
+2. IXL Australia, authenticated Year 8 Science, section Q “Anatomy and physiology”. Exact relevant skills:
+   - Q.1 Organisation in the human body
+   - Q.2 Body systems: circulation and respiration
+   - Q.3 Body systems: digestion
+   - Q.4 Body systems: removing waste
+   - Q.5 Body systems: perception and motion
+   - Q.6 Science literacy: phantom pain (extension)
+   Interactive evidence: Q.1 uses an orchestra analogy and explicitly teaches cell → tissue → organ → organ system. The sampled multiple-select item tests the truths that organs are made of tissues and the human body consists of smaller parts working together, while rejecting reversed hierarchy and “all cells do the same job”. Stage 1 requires 5 of 6 correct. IXL is strong for animal organisation; plant organ-system coverage is limited, so this code is only a partial IXL mapping overall.
+3. Khan Academy, authenticated/public: “Tissues, organs, and organ systems” presents nested organisation, specialised cells forming tissues, tissues forming organs and organs forming systems. It stresses that structure relates to function and that integrated organ-system activity enables survival. Khan’s Cambridge cellular-organisation course additionally includes dermal tissue, xylem, root systems, stems, human skin, neurons and animal organ-system reviews. Supplementary, not ACARA mapped.
+4. OpenStax Biology 2e: plant bodies contain specialised cells, organs and tissue systems; dermal, ground and vascular tissues provide protection, photosynthesis/storage and transport. OpenStax anatomy resources provide accurate animal examples.
+5. ABC Education search: no stable direct resource mapping was located in the current search; SOURCE-NOT-MAPPED.
+
+AUTHORING-READY KNOWLEDGE
+- Hierarchy: specialised cells → tissues → organs → organ systems → organism.
+- Structure–function is causal: features enable processes; coordinated processes support survival.
+- Plant example: root hair cells increase absorption area; roots anchor/absorb; xylem conducts water/minerals and supports; phloem transports sugars; leaves use palisade tissue/stomata/veins for photosynthesis and gas/material exchange; root and shoot systems coordinate resource acquisition and transport.
+- Animal example can use digestive + circulatory coordination, or respiratory + circulatory: thin exchange surfaces, branching, muscular tissues, blood vessels and pumping structures enable uptake and distribution of materials.
+- Survival explanation should trace matter: entry/exchange → transport → use by cells → waste removal.
+
+QUESTION/CONTENT BLUEPRINT
+Topic Page: organisation hierarchy; one detailed plant pathway; one detailed animal pathway; side-by-side structure–function chains; survival explanation template.
+Classroom View: card-sort hierarchy, annotate diagrams, trace a water molecule through a plant and oxygen/nutrient through an animal.
+Homework: classify examples by level, construct causal chains, compare plant and animal systems, diagnose system failure.
+Practice bank (48 later): 8 hierarchy; 12 animal structures/functions; 12 plant structures/functions; 8 material-flow/system coordination; 8 unfamiliar-case reasoning.
+Test bank (16 later): 4 hierarchy/diagram; 4 plant; 4 animal; 4 comparative causal explanations.
+
+MISCONCEPTIONS AND REQUIRED FEEDBACK
+- Tissue and organ treated as synonyms.
+- Hierarchy reversed.
+- Structure merely named without explaining how it enables function.
+- Plant systems reduced to “roots drink water”.
+- Systems described independently when survival depends on coordination.
+Feedback must complete the causal chain and identify the missing organisational level or transport step.
+
+STATUS: AUTHORING-READY
+
+==================================================
+AC9S8U03
+CURRICULUM DESCRIPTION
+Investigate tectonic activity including the formation of geological features at divergent, convergent and transform plate boundaries and describe the scientific evidence for the theory of plate tectonics.
+
+CURRICULUM BOUNDARY
+Students must connect relative plate motion to features/processes and evaluate multiple evidence lines. They should distinguish Wegener’s continental-drift proposal from the modern plate-tectonics theory. Mantle convection detail can support but should not become an unsupported single-cause account.
+
+SOURCE EVIDENCE
+1. Australian Curriculum v9: exact content description above.
+2. IXL Australia, authenticated Year 8 Science, section Z “Earth’s features”. Exact mappings:
+   - Evidence of continental drift and plate tectonics
+   - Z.2 Label Earth features at tectonic plate boundaries
+   - Z.3 Describe tectonic plate boundaries around the world
+   Interactive evidence: the evidence skill opens with Wegener’s 1912 theory, the apparent fit of Africa and South America, and a multiple-select task distinguishing “continents have always occupied present locations” from “connected long ago then moved apart” and recognising theory formation from repeated observations. Stage 1 requires 5 of 7 correct. The boundary skills add model/diagram and global-location application.
+3. Khan Academy, authenticated/public: “Introduction to plate tectonics” defines lithospheric plates moving over softer asthenosphere, and compares:
+   - divergent: move apart; rifts and mid-ocean ridges
+   - convergent: move together; mountains and trenches (with subduction/collision distinctions)
+   - transform: slide past; earthquakes
+   It uses complementary continental coastlines as one evidence line. Relevant course practice is supplementary, not ACARA mapped.
+4. Geoscience Australia: classroom resources explicitly filter for Year 7/8, Science, Plate tectonics, Rocks and Natural hazards. GA earthquake material explains Australian-plate motion and intraplate stress release; teacher programs specifically address plate-tectonics misconceptions. This is the preferred Australian geoscience authority.
+5. USGS: “This Dynamic Earth” and plate-tectonics education resources connect subduction with volcanic arcs and use fossil/continental evidence, boundary diagrams, seafloor spreading and global earthquake/volcano distributions.
+6. ABC Education search: no stable direct mapping found in the current search; SOURCE-NOT-MAPPED.
+
+AUTHORING-READY KNOWLEDGE
+- Lithosphere is divided into moving plates; boundaries are zones of interaction.
+- Divergent: plates separate; magma rises/cools; mid-ocean ridges, rift valleys, new oceanic crust, shallow earthquakes.
+- Convergent oceanic–continental/oceanic–oceanic: denser oceanic plate may subduct; trench, earthquakes at varied depths, melting-related volcanism/arc.
+- Convergent continental–continental: collision, crustal shortening and major mountain building; little/no classic subduction volcanism in the collision zone.
+- Transform: lateral motion along faults; earthquakes; crust neither created nor destroyed overall.
+- Evidence set: continental-fit pattern, matching fossils/rock belts/past-climate indicators, symmetric magnetic stripes, youngest seafloor near ridges and increasing age away, concentration/depth patterns of earthquakes and volcanoes, modern GPS motion.
+- Investigation should compare predictions from theory with maps/data, not merely recite facts.
+
+QUESTION/CONTENT BLUEPRINT
+Topic Page: Earth structure model; three boundary types; convergent subtypes; feature matrix; evidence timeline/data; Australian context.
+Classroom View: motion models, boundary-feature matching, seafloor-age/magnetic-stripe interpretation, earthquake-map reasoning.
+Homework: annotate cross-sections, infer boundary from data, explain multiple evidence lines, critique claims.
+Practice bank (48 later): 8 motion/type; 12 cross-sections/features; 12 evidence/data; 8 global/Australian contexts; 8 investigation/CER.
+Test bank (16 later): independent diagrams/maps and novel evidence; minimum 4 evidence-inference items.
+
+MISCONCEPTIONS AND REQUIRED FEEDBACK
+- Plates are continents only.
+- Continents float directly on liquid magma.
+- Every convergent boundary produces identical features.
+- Transform motion opens a gap or destroys crust.
+- Earthquakes occur only at plate edges (Australia provides counterexample).
+- Continental fit alone “proves” the whole theory.
+Feedback must link direction, process and predicted feature/evidence.
+
+STATUS: AUTHORING-READY
+
+==================================================
+AC9S8U04
+CURRICULUM DESCRIPTION
+Describe the key processes of the rock cycle, including the timescales over which they occur, and examine how the properties of sedimentary, igneous and metamorphic rocks reflect their formation and influence their use.
+
+CURRICULUM BOUNDARY
+The rock cycle is a branching, repeating system across variable timescales, not a fixed sequence. Students must connect formation process to observable property and then to use. Mineral identification detail and quantitative radiometric dating are extension only.
+
+SOURCE EVIDENCE
+1. Australian Curriculum v9: exact content description above. The Year 8 framing links heat and kinetic energy to rock-cycle change and requires attention to different timescales.
+2. IXL Australia, authenticated Year 8 Science, section Y “Rocks”. Exact mappings:
+   - Y.1 Introduction to the rock cycle
+   - Y.2 Classify rocks as igneous, sedimentary or metamorphic
+   - Y.3 Label parts of rock cycle diagrams
+   - Y.4 Select parts of rock cycle diagrams
+   Interactive evidence: Y.1 explains that rock is constantly changing and that energy flows drive creation, destruction and transformation. Its diagram labels sediment, sedimentary, metamorphic and igneous rock and magma, connected by weathering/erosion, lithification, melting, crystallisation and metamorphism. The sampled multiple-select checks that sedimentary rock can become metamorphic and processes occur underground, while rejecting “rock moves through the cycle only once”. Challenge requires 7 of 9 correct. This directly exposes the linear-cycle misconception.
+3. Khan Academy: no stable dedicated Year 8 Australian mapping was located. Khan Earth-science material can supplement weathering, plate processes and geologic time, but this code is recorded as SOURCE-NOT-MAPPED for direct Khan skill alignment.
+4. Geoscience Australia: Year 7/8 classroom resources include Rocks, Minerals, Geological time and Plate tectonics; its Education Centre program explicitly covers rocks/minerals and the rock cycle. Preferred Australian authority for rock samples, use contexts and geological timescale.
+5. USGS/National Park Service public geology resources: support rock classification, plate-driven processes and the principle that textures/compositions record formation conditions.
+6. ABC Education search: no stable direct resource mapping located in the current search; SOURCE-NOT-MAPPED.
+
+AUTHORING-READY KNOWLEDGE
+- Weathering breaks rock down; erosion transports; deposition accumulates sediment; compaction and cementation/lithification form sedimentary rock.
+- Cooling/crystallisation of magma/lava forms igneous rock; slower underground cooling generally permits larger crystals, faster surface cooling smaller/glassy textures.
+- Heat and pressure without melting alter existing rock to metamorphic rock; directed pressure may form foliation.
+- Melting can produce magma; uplift/exposure enables renewed weathering.
+- Any rock type can follow multiple pathways given conditions; paths and rates differ.
+- Timescales range from rapid eruptions/cooling events to burial, uplift, metamorphism and plate cycling over thousands to millions of years.
+- Properties reflect origin: layering/fossils/porosity in many sedimentary rocks; interlocking crystals and durability in many igneous rocks; banding/foliation or recrystallisation in metamorphic rocks.
+- Use must be justified by property: granite durability for construction/benchtops; slate cleavage for tiles; limestone workability/raw material; sandstone appearance/porosity with limitations; pumice low density/abrasive uses. Avoid absolute claims because properties vary within rock groups.
+
+QUESTION/CONTENT BLUEPRINT
+Topic Page: non-linear cycle diagram; process glossary; timescale spectrum; formation→property→use case studies; exceptions.
+Classroom View: sample observation, pathway sequencing, property testing, design/use recommendation.
+Homework: complete/critique diagrams, classify from evidence, compare rates, recommend material with justification.
+Practice bank (48 later): 12 cycle processes/pathways; 8 rock classification; 8 textures/properties; 8 timescales; 8 use decisions; 4 model critique.
+Test bank (16 later): independent cycle/data/sample contexts, with no recycled practice stems.
+
+MISCONCEPTIONS AND REQUIRED FEEDBACK
+- The cycle has one starting point/order.
+- Rocks change only when melted.
+- Weathering and erosion are identical.
+- Metamorphic rock has melted.
+- All rocks of one class share identical properties.
+- Geological processes all happen slowly.
+Feedback must state the missing process/condition and connect formation to the observed property or suitable use.
+
+STATUS: AUTHORING-READY
+
+==================================================
+BATCH 1 CHECKPOINT
+Completed: AC9S8U01, AC9S8U02, AC9S8U03, AC9S8U04
+All four codes have curriculum boundaries, authenticated IXL evidence, Khan mapping status, reputable public-source evidence, misconception controls and authoring blueprints.
+Next unfinished code: AC9S8U05
