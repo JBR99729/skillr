@@ -4,13 +4,13 @@ Last updated: 2026-09-11
 
 PROJECT_STATUS: IN_PROGRESS
 CURRENT_PHASE: RESEARCH
-CURRENT_CODE: AC9S9U05
-LAST_COMPLETED_CODE: AC9S9U04
-NEXT_CODE: AC9S9U06
+CURRENT_CODE: AC9S9H02
+LAST_COMPLETED_CODE: AC9S9H01
+NEXT_CODE: AC9S9H03
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
-BATCH: 1 COMPLETED (LATEST: AC9S9U01–AC9S9U04)
+BATCH: 2 COMPLETED (LATEST: AC9S9U05–AC9S9H01)
 
 CURRICULUM CODE INVENTORY
 AC9S9U01, AC9S9U02, AC9S9U03, AC9S9U04, AC9S9U05, AC9S9U06, AC9S9U07
@@ -186,3 +186,170 @@ BATCH 1 CHECKPOINT
 Completed: AC9S9U01, AC9S9U02, AC9S9U03, AC9S9U04
 All four codes now have exact curriculum boundaries, live authenticated single-tab IXL evidence, authenticated single-tab Khan evidence, reputable public-source comparison, misconception controls and authoring blueprints.
 Next unfinished code: AC9S9U05
+
+
+==================================================
+AC9S9U05
+CURRICULUM DESCRIPTION
+Apply the law of conservation of energy to analyse system efficiency in terms of energy inputs, outputs, transfers and transformations.
+
+CURRICULUM BOUNDARY
+Students define a system boundary, account for energy entering, leaving and changing form, and calculate or compare efficiency using useful output relative to total input. They distinguish conservation of energy from degradation/dissipation. Advanced thermodynamic entropy is outside the code.
+
+SOURCE EVIDENCE
+1. Australian Curriculum v9: exact description above. “Apply” and “analyse” require energy-accounting diagrams, calculations and evaluation of real systems, not recall alone.
+2. IXL Australia, authenticated Year 9 Science: EE.1 Conservation of mechanical energy is the strongest direct component mapping. The live first question gives a 60 g steel marble on a 1.5 m hill, initial speed 0.5 m/s and later speed 1.6 m/s, then asks for kinetic and gravitational potential energy while ignoring non-gravitational forces. This establishes quantitative input/output accounting, but IXL has no direct Year 9 efficiency skill; efficiency itself is SOURCE-NOT-MAPPED.
+3. Khan Academy: the public conservation-of-energy lesson and work/energy sequence treat energy as transformed or transferred rather than created or destroyed. The mechanical-advantage lesson explicitly links input and output work through conservation of energy. No direct Year 9 system-efficiency assessment was located; use as conceptual support.
+4. OpenStax Physics resources explain conservation of mechanical energy, work done by non-conservative forces, power and efficiency. They support the distinction between total energy conservation and declining useful mechanical output.
+5. BBC Bitesize energy-transfer and efficiency materials provide accessible efficiency equations and Sankey-diagram conventions for secondary learners.
+6. ABC Education search: no stable direct code-level resource located; SOURCE-NOT-MAPPED.
+
+AUTHORING-READY KNOWLEDGE
+- Name the system and boundary before accounting for energy; transfers cross the boundary, transformations occur between stores/forms.
+- Conservation: total energy input equals total energy output when every output is included.
+- Useful output depends on the system’s purpose; heating from a heater may be useful, while heating from a motor is usually less useful.
+- Efficiency = useful energy output ÷ total energy input × 100%; the same ratio can use powers when measured over the same interval.
+- Efficiency cannot exceed 100% in a correctly defined ordinary energy-conversion system.
+- “Wasted” energy is not destroyed; it is transferred to surroundings, commonly as thermal energy and sound, becoming less available for the intended task.
+- Sankey-arrow widths represent energy amounts; all output branches sum to the input width.
+- J measures energy, W measures power (J/s); do not mix them in one ratio unless the calculation consistently uses energy or power.
+- Mechanical energy examples combine kinetic and gravitational potential energy; friction transfers mechanical energy to thermal stores.
+- Compare designs using equal functional output, stated boundaries and evidence rather than assuming the device with lower input is always better.
+
+CONTENT BLUEPRINT
+Topic Page: system boundaries; input-transfer-transformation-output chains; conservation; useful/dissipated outputs; efficiency equation; Sankey diagrams; mechanical worked example.
+Classroom View: energy-chain card sort, marble/pendulum accounting, Sankey reconstruction, appliance-efficiency comparison and error analysis.
+Homework: label chains, calculate missing inputs/outputs and efficiencies, interpret Sankey diagrams, justify fair comparisons.
+Practice 48: 8 systems/boundaries; 8 transfers/transformations; 10 conservation calculations; 10 efficiency calculations; 8 Sankey/data analyses; 4 design evaluations.
+Test 16: new contexts with at least 6 multi-step quantitative items and 4 explanations of conservation despite lower useful output.
+
+MISCONCEPTIONS
+Energy is used up; efficiency measures speed; all heat is wasted; output may exceed input; energy and power units are interchangeable; a narrower Sankey arrow means slower flow; conservation means every device is 100% efficient. Feedback must restore the complete energy account and identify the intended useful output.
+
+STATUS: AUTHORING-READY
+
+==================================================
+AC9S9U06
+CURRICULUM DESCRIPTION
+Explain how the model of the atom changed following the discovery of electrons, protons and neutrons and describe how natural radioactive decay results in stable atoms.
+
+CURRICULUM BOUNDARY
+Students connect new experimental evidence to revisions of atomic models and describe how unstable nuclei change through natural decay. They use proton, neutron, electron, isotope and simple alpha/beta/gamma ideas. Detailed quantum mechanics, decay mathematics and nuclear engineering are extension only.
+
+SOURCE EVIDENCE
+1. Australian Curriculum v9: exact description above. The causal link is evidence → discovery → revised model, followed by nucleus stability and natural decay.
+2. IXL Australia, authenticated Year 9 Science: S.1 Count subatomic particles in atoms and ions; S.2 Nuclear notation; T. Types of radioactive decay; T.1 Classify nuclear reactions. The live decay skill begins with four naturally occurring radium isotopes and asks learners to distinguish atomic number, nucleon number, protons and neutrons. It scaffolds nuclear notation before later decay classification across three stages. IXL does not directly teach the full historical model sequence.
+3. Khan Academy: “Protons, neutrons, and electrons in atoms” establishes particle charge/location; “Rutherford’s gold foil experiment” links unexpected alpha scattering to the small dense nucleus; carbon-14 and radiometric-dating resources explain probabilistic decay and daughter atoms. These map directly to evidence-based model revision and decay.
+4. Royal Society of Chemistry education resources on atomic-model history trace Dalton’s indivisible spheres, Thomson’s electron-containing model, Rutherford’s nuclear model, and Chadwick’s neutron.
+5. ANSTO education resources explain isotopes, ionising radiation, half-life and radioactive decay in an Australian scientific context.
+6. ABC Education search: no stable direct code-level resource located; SOURCE-NOT-MAPPED.
+
+AUTHORING-READY KNOWLEDGE
+- Dalton’s model treated atoms as solid indivisible particles; later evidence showed internal structure.
+- Thomson’s cathode-ray evidence revealed negatively charged electrons, prompting a model with electrons embedded in diffuse positive charge.
+- Geiger–Marsden/Rutherford scattering: most alpha particles passed through foil but a few deflected strongly, supporting a mostly empty atom with a tiny dense positive nucleus.
+- Rutherford identified the proton/positive nuclear charge; Chadwick’s evidence for a neutral nuclear particle explained missing nuclear mass and isotopes.
+- Modern school model: protons and neutrons in the nucleus, electrons occupying regions around it. Models are revised explanations, not literal photographs.
+- Atomic number = protons; mass/nucleon number = protons + neutrons; isotopes share proton number but differ in neutrons.
+- Some proton–neutron combinations are unstable and spontaneously decay, producing a daughter nucleus and radiation; a daughter may be stable or continue a decay chain until a stable nuclide is reached.
+- Alpha emission reduces mass number by 4 and atomic number by 2; beta-minus converts a neutron to a proton, leaving mass number unchanged and increasing atomic number by 1; gamma emission releases energy without changing either number.
+- Decay is random for one nucleus but predictable statistically for a large sample; it is not triggered because an atom “wants” stability.
+- Chemical reactions rearrange electrons/bonds; radioactive decay changes the nucleus and may change the element.
+
+CONTENT BLUEPRINT
+Topic Page: evidence/model timeline; particle properties and notation; isotope stability; alpha/beta/gamma changes; daughter nuclei and decay chains; model limitations.
+Classroom View: evidence-to-model matching, gold-foil prediction task, nuclear-notation tiles and decay-chain modelling.
+Homework: explain each model revision, calculate particle counts, complete simple nuclear changes and diagnose historical/decay misconceptions.
+Practice 48: 8 historical evidence; 8 model comparisons; 10 particle/isotope notation; 12 decay type/nuclear changes; 6 stability/decay chains; 4 model evaluation.
+Test 16: independent evidence and isotope cases, including at least 4 model-revision explanations and 6 nuclear-change items.
+
+MISCONCEPTIONS
+Electrons orbit like fixed planets; Rutherford discovered every subatomic particle; neutrons have no mass; isotopes are ions; gamma changes the element; decay makes an atom vanish; half-life predicts one atom’s exact decay time; radioactive material becomes stable after one emission in every case. Feedback must connect evidence to the revised model or conserve nucleon/charge changes correctly.
+
+STATUS: AUTHORING-READY
+
+==================================================
+AC9S9U07
+CURRICULUM DESCRIPTION
+Model the rearrangement of atoms in chemical reactions using a range of representations, including word and simple balanced chemical equations, and use these to demonstrate the law of conservation of mass.
+
+CURRICULUM BOUNDARY
+Students translate among particle models, word equations and simple symbol equations; balance equations by changing coefficients; and use equal atom counts to explain mass conservation. Complex stoichiometry, redox half-equations and equilibrium are outside the code.
+
+SOURCE EVIDENCE
+1. Australian Curriculum v9: exact description above. The code requires multiple linked representations and an explanation of conservation, not equation balancing in isolation.
+2. IXL Australia, authenticated Year 9 Science: Y.1 Count atoms in chemical reactions using models; Y.2 Count atoms in chemical equations; Y.3 Balance chemical equations I; Z.1 Classify chemical reactions; Z.2 Single replacement reactions. The live Y.3 question asks for the smallest whole-number coefficients in H₂(g) + Cl₂(g) → HCl(g), permits a blank coefficient of 1, and recommends atom counting as prerequisite. This exposes coefficient/subscript and simplest-ratio traps.
+3. Khan Academy: “Chemical equations” states that matter conservation requires equal numbers of each atom and coefficients are used to balance equations; “Visually understanding balancing chemical equations” uses particle representations; the balancing walkthrough models a systematic count-adjust-recount method.
+4. OpenStax Chemistry resources define reactants/products, symbolic equations, coefficients, state symbols and balancing as conservation of each element.
+5. Royal Society of Chemistry education resources use particle diagrams and practical closed/open-system examples to connect balanced equations to conservation of mass.
+6. ABC Education search: no stable direct code-level resource located; SOURCE-NOT-MAPPED.
+
+AUTHORING-READY KNOWLEDGE
+- Reactants are written left of the arrow and products right; the arrow means “yields/forms,” not mathematical equality.
+- Word equation names substances; particle model shows numbers/types of particles; formula equation encodes composition; each representation reveals and omits different information.
+- In a chemical reaction atoms are rearranged as bonds break and form. Atoms are not created, destroyed or changed into different elements.
+- Count every element on both sides, including atoms inside parentheses where used.
+- Balance only by placing whole-number coefficients before formulae; never change subscripts because that changes substance identity.
+- Multiply a coefficient by every atom in that formula; an omitted coefficient means 1.
+- Use the smallest possible whole-number coefficient ratio and verify every element after each adjustment.
+- In a closed system, total mass of reactants equals total mass of products. Apparent mass loss in an open vessel can result from a gas escaping; apparent gain can result from gaseous reactant entering.
+- State symbols add physical-state information but do not alter atom counts.
+- A balanced equation demonstrates atom-number conservation; measured mass evidence requires the system boundary to include all matter.
+
+CONTENT BLUEPRINT
+Topic Page: reaction/representation overview; translating word–particle–symbol forms; counting atoms; balancing algorithm; closed-system mass evidence; worked gas example.
+Classroom View: atom-token rearrangement, representation stations, balance-and-justify routine, sealed/open vessel comparison and error correction.
+Homework: translate representations, count atoms, balance simple equations, explain mass results and critique invalid models.
+Practice 48: 8 reactant/product/word equations; 10 particle models; 10 atom counting; 12 balancing; 4 mass data; 4 representation critique.
+Test 16: novel reactions with at least 6 cross-representation items, 6 balancing/counting items and 4 conservation explanations; no practice stems reused.
+
+MISCONCEPTIONS
+Coefficients change only the first element; subscripts may be edited to balance; atoms disappear; the arrow means equals; balanced means equal molecule counts; mass is lost whenever gas forms; mass conservation applies only to solids; catalysts must be counted as products. Feedback must preserve each formula and recount each element across the stated system boundary.
+
+STATUS: AUTHORING-READY
+
+==================================================
+AC9S9H01
+CURRICULUM DESCRIPTION
+Explain how scientific knowledge is validated and refined, including the role of publication and peer review.
+
+CURRICULUM BOUNDARY
+Students explain a continuing evidence-checking process: transparent methods, scrutiny, publication, peer review, replication, critique, synthesis and correction. They must understand both the value and limitations of peer review. Technical journal metrics and advanced philosophy of science are outside the code.
+
+SOURCE EVIDENCE
+1. Australian Curriculum v9: exact description above. “Validated and refined” means science is checked and updated through community processes; peer review and publication are required named components.
+2. IXL Australia, authenticated Year 9 Science: no direct publication/peer-review skill—SOURCE-NOT-MAPPED. A.1 The process of scientific inquiry is a partial prerequisite; the live item presents an investigation of soap lather in distilled water with different Epsom-salt amounts and asks learners to identify the investigable question within observation, method, results and conclusion. KK.1–KK.2 claim-evaluation skills add evidence appraisal but do not replace peer-review instruction.
+3. Khan Academy: no direct Year 9 publication-and-peer-review lesson located—SOURCE-NOT-MAPPED. Scientific-method and evidence resources can support prerequisites only.
+4. The Australian Code for the Responsible Conduct of Research (NHMRC, ARC and Universities Australia) establishes honesty, rigour, transparency, fairness, responsible dissemination and correction as foundations of trustworthy Australian research.
+5. CSIRO Publishing’s journal and author guidance illustrates editorial screening, expert peer review, revision and publication as real scientific communication stages.
+6. ABC Education/media-literacy resources are suitable for comparing claims, sources and evidence, but no stable direct curriculum-code mapping was located; use only as supplementary claim-evaluation context.
+
+AUTHORING-READY KNOWLEDGE
+- Scientists validate claims by checking whether methods are appropriate, evidence supports conclusions, analyses are sound and results can withstand independent scrutiny.
+- Publication makes methods, evidence and reasoning available to a scientific community; it enables checking, reuse, replication and debate.
+- Before publication, editors assess scope/basic suitability and independent experts usually review quality, validity, clarity and significance; authors may revise, respond or be rejected.
+- Peer review improves reliability but does not prove a claim true, guarantee no error or eliminate bias/fraud.
+- Replication repeats a study; reproducibility checks whether reported data/methods yield the result. Converging evidence across methods and groups strengthens confidence.
+- Post-publication checking includes letters, comments, new studies, systematic reviews and reanalysis.
+- Refinement may narrow a claim, improve a model, revise an explanation, publish a correction or retract unreliable work.
+- Scientific confidence is graduated and evidence-responsive. Change is a strength when new evidence or better methods justify it.
+- Transparent methods/data, appropriate uncertainty, conflicts-of-interest disclosure and clear distinction between observation and inference support evaluation.
+- Preprints and news reports may communicate quickly but are not equivalent to completed peer review; students should verify status and trace claims to evidence.
+
+CONTENT BLUEPRINT
+Topic Page: validation cycle; anatomy of a paper; editorial/peer-review workflow; replication/reproducibility; post-publication correction; peer-review limits; source-status checklist.
+Classroom View: mock peer review with criteria, abstract-to-evidence audit, replicate a small investigation and decide correction/refinement actions.
+Homework: sequence publication stages, critique claims/methods, compare preprint/news/peer-reviewed sources and explain how evidence changes confidence.
+Practice 48: 8 validation concepts; 8 publication stages; 10 peer-review decisions; 8 replication/reproducibility; 8 refinement/correction cases; 6 source-status evaluations.
+Test 16: independent research scenarios with at least 6 process explanations, 4 peer-review-limit items and 4 evidence-based refinement decisions.
+
+MISCONCEPTIONS
+Peer review proves truth; published means permanently correct; one famous scientist validates a claim; replication must be identical in every detail; a changed explanation means science failed; every disagreement is bias; retraction means all related science is false; a preprint is automatically unreliable. Feedback must identify the relevant check, its purpose and its limitation.
+
+STATUS: AUTHORING-READY
+
+==================================================
+BATCH 2 CHECKPOINT
+Completed: AC9S9U05, AC9S9U06, AC9S9U07, AC9S9H01
+All four codes now have exact curriculum boundaries, sequential single-tab authenticated IXL evidence or explicit direct-mapping limits, sequential single-tab Khan/public evidence or explicit direct-mapping limits, reputable source comparison, misconception controls and authoring blueprints.
+Next unfinished code: AC9S9H02
