@@ -1,5 +1,5 @@
 name: Normalize Google entity graph
-# Rerun marker: 2026-09-12 after entity-graph QA landed.
+# Rerun marker: 2026-09-12 after corrected primary LearningResource audit.
 
 on:
   workflow_dispatch:
@@ -7,6 +7,7 @@ on:
     branches: [main]
     paths:
       - 'scripts/normalize_google_entity_graph.mjs'
+      - 'scripts/audit_google_entity_graph.mjs'
       - '.github/workflows/normalize-google-entity-graph.yml'
 
 permissions:
