@@ -1,0 +1,51 @@
+name: Normalize Google entity graph
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/normalize_google_entity_graph.mjs'
+      - '.github/workflows/normalize-google-entity-graph.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: normalize-google-entity-graph
+  cancel-in-progress: true
+
+jobs:
+  normalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Normalize published structured data
+        run: node scripts/normalize_google_entity_graph.mjs --write
+      - name: Verify idempotence
+        run: node scripts/normalize_google_entity_graph.mjs
+      - name: Run entity graph audit
+        run: node scripts/audit_google_entity_graph.mjs
+      - name: Commit normalized pages
+        run: |
+          release_base=$(git rev-parse HEAD)
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A -- '*.html' ':(glob)**/*.html'
+          if git diff --cached --quiet; then
+            echo 'Entity graph already normalized.'
+            exit 0
+          fi
+          git commit -m 'Normalize Google entity graph across published pages'
+          git fetch origin main
+          if [ "$(git rev-parse origin/main)" != "$release_base" ]; then
+            echo 'Main advanced during normalization; rerun on current main.'
+            exit 1
+          fi
+          git push origin HEAD:main
