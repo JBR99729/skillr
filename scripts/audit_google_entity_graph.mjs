@@ -68,13 +68,21 @@ for (const file of walk(ROOT)) {
       const last = items.at(-1)?.item || '';
       if (can && last && last.replace(/\/$/, '') !== can.replace(/\/$/, '')) errors.push(`${name}: breadcrumb final URL does not match canonical`);
     }
-    const resources = parsed.flatMap(x => findNodes(x, 'LearningResource')).filter(x => x.url === can || x['@id'] === `${can}#learning-resource`);
-    if (!resources.length) errors.push(`${name}: canonical topic missing primary LearningResource schema`);
+
+    const resources = parsed.flatMap(x => findNodes(x, 'LearningResource'))
+      .filter(x => x.url === can || x['@id'] === `${can}#learning-resource`);
+    const primary = resources.find(x => x['@id'] === `${can}#learning-resource`)
+      || resources.find(x =>
+        x.url === can
+        && x.publisher?.['@id'] === ORG_ID
+        && x.isPartOf?.['@id'] === WEBSITE_ID
+      );
+
+    if (!primary) errors.push(`${name}: canonical topic missing primary LearningResource schema`);
     else {
-      const r = resources[0];
-      if (r.publisher?.['@id'] !== ORG_ID) errors.push(`${name}: LearningResource publisher must reference ${ORG_ID}`);
-      if (r.isPartOf?.['@id'] !== WEBSITE_ID) errors.push(`${name}: LearningResource isPartOf must reference ${WEBSITE_ID}`);
-      if (!r.educationalAlignment) errors.push(`${name}: LearningResource missing educationalAlignment`);
+      if (primary.publisher?.['@id'] !== ORG_ID) errors.push(`${name}: LearningResource publisher must reference ${ORG_ID}`);
+      if (primary.isPartOf?.['@id'] !== WEBSITE_ID) errors.push(`${name}: LearningResource isPartOf must reference ${WEBSITE_ID}`);
+      if (!primary.educationalAlignment) errors.push(`${name}: LearningResource missing educationalAlignment`);
     }
   }
 }
