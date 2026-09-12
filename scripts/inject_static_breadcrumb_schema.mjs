@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+// Sitewide static BreadcrumbList rollout for canonical curriculum pages.
 import fs from 'node:fs';
 import path from 'node:path';
 
