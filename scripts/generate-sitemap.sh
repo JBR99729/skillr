@@ -190,7 +190,7 @@ HTML_HEADER
     </ul>
 
     <footer>
-        <p>© 2026 Skillr Education. All rights reserved.</p>
+        <p>© 2026 SkillrHub. All rights reserved.</p>
         <p>
             Educational resources are provided for students, parents and teachers for learning purposes only.
             Commercial use, redistribution or resale is strictly prohibited without written permission.

@@ -169,7 +169,7 @@ function renderPage(year, subject) {
     </main>
 
     <footer>
-      <p>&copy; 2026 Skillr Education. All rights reserved.</p>
+      <p>&copy; 2026 SkillrHub. All rights reserved.</p>
       <p><a href="/sitemap.html">Sitemap</a> · <a href="/privacy-policy.html">Privacy</a> · <a href="/contact.html">Contact</a></p>
     </footer>
   </div>
