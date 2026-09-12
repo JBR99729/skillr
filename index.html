@@ -35,7 +35,7 @@
   <link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
   <link rel="stylesheet" href="/style.css?v=20260815-1">
   <link rel="stylesheet" href="/assets/skillr-ux-v2.css?v=20260907-1">
-  <script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"SkillrHub","alternateName":"SkillrHub","url":"https://skillrhub.com/","description":"Free Foundation to Year 10 Maths, Science and English learning resources with a large question bank, topic guides, worksheets, quizzes, practice and tests aligned to the Australian Curriculum. Optional books are separate bundled premium resources and do not block access to the free core resources."}</script>
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"SkillrHub","alternateName":"SkillrHub","url":"https://skillrhub.com/","description":"Free Foundation to Year 10 Maths, Science and English learning resources with a large question bank, topic guides, worksheets, quizzes, practice and tests aligned to the Australian Curriculum. Optional books are separate bundled premium resources and do not block access to the free core resources.","@id":"https://skillrhub.com/#organization","logo":{"@type":"ImageObject","url":"https://skillrhub.com/icons/skillrhub-mark.svg"}}</script>
   <link rel="stylesheet" href="/assets/site-navigation.css?v=20260908-primary1">
   <link rel="stylesheet" href="/assets/companions/companions.css?v=20260909-1">
   <style>
@@ -44,6 +44,33 @@
     .home-resource-rail__links{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:.55rem}.home-resource-link{display:flex;align-items:center;gap:.7rem;min-height:64px;padding:.68rem .78rem;border:1px solid transparent;border-radius:12px;text-decoration:none;color:#17334d;background:#f8fbfe;transition:border-color .15s ease,transform .15s ease,background .15s ease}.home-resource-link:hover,.home-resource-link:focus-visible{border-color:#b9cee1;background:#fff;transform:translateY(-1px);outline:none}.home-resource-link__icon{display:grid;place-items:center;flex:0 0 34px;width:34px;height:34px;border-radius:10px;background:#eaf2f9;color:#244d70;font-size:.95rem;font-weight:800}.home-resource-link strong{display:block;font-size:.94rem;line-height:1.15}.home-resource-link small{display:block;margin-top:.18rem;color:#667b8f;font-size:.78rem;line-height:1.25}.home-resource-link--books{background:#fbfaf7}.home-resource-link--books .home-resource-link__icon{background:#f3eee2}
     @media (max-width:820px){.home-resource-rail{grid-template-columns:1fr}.home-resource-rail__intro{padding:.05rem .2rem .15rem}.home-resource-rail__links{grid-template-columns:1fr}.home-resource-link{min-height:58px}}
   </style>
+<script type="application/ld+json" id="skillrhub-site-entity-jsonld">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://skillrhub.com/#organization",
+      "name": "SkillrHub",
+      "url": "https://skillrhub.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://skillrhub.com/icons/skillrhub-mark.svg"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://skillrhub.com/#website",
+      "url": "https://skillrhub.com/",
+      "name": "SkillrHub",
+      "publisher": {
+        "@id": "https://skillrhub.com/#organization"
+      },
+      "inLanguage": "en-AU"
+    }
+  ]
+}
+</script>
 </head>
 <body class="home-page skillr-shared-navigation">
   <header class="site-header skillr-site-header">
