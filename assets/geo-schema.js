@@ -76,37 +76,6 @@
     });
   };
 
-  const addCourseSchema = ({ yearSlug, subjectSlug }) => {
-    const year = yearLabel(yearSlug);
-    const subject = SUBJECTS[subjectSlug];
-    if (!year || !subject) return;
-    upsertJsonLd("skillrhub-course-jsonld", {
-      "@context": "https://schema.org",
-      "@type": "Course",
-      "@id": absoluteUrl(`/${yearSlug}/curriculum/${subjectSlug}/#course`),
-      name: `${year} ${subject} Course - SkillrHub`,
-      description: `Free ${year} ${subject} learning resources aligned to the Australian Curriculum, with topic guides, worksheets, practice and tests.`,
-      provider: { "@type": "Organization", name: "SkillrHub", url: ORIGIN },
-      educationalLevel: year,
-      about: subject,
-      isAccessibleForFree: true,
-      hasCourseInstance: { "@type": "CourseInstance", courseMode: "online", courseWorkload: "Self-paced" }
-    });
-  };
-
-  const addCredentialSchema = () => {
-    upsertJsonLd("skillrhub-credential-jsonld", {
-      "@context": "https://schema.org",
-      "@type": "EducationalOccupationalCredential",
-      "@id": `${ORIGIN}/#australian-curriculum-alignment`,
-      name: "Australian Curriculum-aligned K-10 learning resource",
-      description: "SkillrHub organises free K-10 Maths, Science and English practice around Australian Curriculum codes and year-level topic pathways.",
-      credentialCategory: "Curriculum-aligned learning resource",
-      educationalLevel: "Foundation to Year 10",
-      recognizedBy: { "@type": "Organization", name: "SkillrHub", url: ORIGIN }
-    });
-  };
-
   const enhanceCurriculumPage = () => {
     const topicMatch = path.match(/^\/(foundation|year(?:[1-9]|10))\/(maths|science|english)\/([^/]+)\/?$/i);
     const hubMatch = path.match(/^\/(foundation|year(?:[1-9]|10))\/curriculum\/(maths|science|english)\/?$/i);
@@ -128,8 +97,6 @@
 
     ensureVisibleBreadcrumb(items);
     addBreadcrumbSchema(items);
-    addCourseSchema({ yearSlug, subjectSlug });
-    addCredentialSchema();
   };
 
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", enhanceCurriculumPage, { once: true });
