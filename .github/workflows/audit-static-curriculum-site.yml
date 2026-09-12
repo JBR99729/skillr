@@ -14,6 +14,8 @@ on:
       - 'scripts/audit_static_teacher_slides.mjs'
       - 'scripts/validate_static_curriculum_architecture.mjs'
       - 'scripts/inject_static_breadcrumb_schema.mjs'
+      - 'scripts/normalize_google_entity_graph.mjs'
+      - 'scripts/audit_google_entity_graph.mjs'
       - 'scripts/lib/static_teacher_display.mjs'
       - 'scripts/tests/test_static_teacher_display.mjs'
       - 'scripts/migrate_runtime_topic_pages_static.mjs'
@@ -31,6 +33,8 @@ on:
       - 'scripts/audit_static_teacher_slides.mjs'
       - 'scripts/validate_static_curriculum_architecture.mjs'
       - 'scripts/inject_static_breadcrumb_schema.mjs'
+      - 'scripts/normalize_google_entity_graph.mjs'
+      - 'scripts/audit_google_entity_graph.mjs'
       - 'scripts/lib/static_teacher_display.mjs'
       - 'scripts/tests/test_static_teacher_display.mjs'
       - 'scripts/migrate_runtime_topic_pages_static.mjs'
@@ -50,6 +54,8 @@ jobs:
       - run: node --test scripts/tests/test_static_teacher_display.mjs
       - name: Validate static breadcrumb schema
         run: node scripts/inject_static_breadcrumb_schema.mjs --check
+      - name: Validate Google entity graph
+        run: node scripts/audit_google_entity_graph.mjs
       - name: Validate changed curriculum architecture
         run: node scripts/validate_static_curriculum_architecture.mjs
       - name: Enforce static Teacher Slides architecture
