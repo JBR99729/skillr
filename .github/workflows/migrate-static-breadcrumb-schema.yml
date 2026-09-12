@@ -1,0 +1,53 @@
+name: Migrate static breadcrumb schema
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/inject_static_breadcrumb_schema.mjs'
+      - '.github/workflows/migrate-static-breadcrumb-schema.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  migrate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout current main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Embed BreadcrumbList in static HTML
+        run: node scripts/inject_static_breadcrumb_schema.mjs
+
+      - name: Validate generated breadcrumb schema
+        run: node scripts/inject_static_breadcrumb_schema.mjs --check
+
+      - name: Check diff
+        run: git diff --check
+
+      - name: Commit migrated HTML
+        run: |
+          base=$(git rev-parse HEAD)
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add foundation year1 year2 year3 year4 year5 year6 year7 year8 year9 year10
+          if git diff --cached --quiet; then
+            echo 'Static breadcrumbs already current.'
+            exit 0
+          fi
+          git commit -m 'Embed static breadcrumb schema'
+          git fetch origin main
+          if [ "$(git rev-parse origin/main)" != "$base" ]; then
+            echo 'Main advanced during breadcrumb migration; rerun on current main.'
+            exit 1
+          fi
+          git push origin HEAD:main
