@@ -1,0 +1,159 @@
+SKILLRHUB YEAR 1 MATHEMATICS — CURRICULUM RESEARCH MASTER
+Australian Curriculum v9
+Sources restricted to IXL Australia and Khan Academy
+Research only — no SkillrHub authoring
+Started: 2026-09-13
+
+PURPOSE
+This cumulative master records sufficient original, abstracted pedagogical evidence for later creation of a Topic Page, HTML Classroom View, Homework/Worksheet, 48 Practice questions and 16 genuinely separate Test questions for every Year 1 Mathematics code. Source-specific questions are not copied.
+
+CURRICULUM INVENTORY (16 codes)
+AC9M1N01–AC9M1N06; AC9M1A01–AC9M1A02; AC9M1M01–AC9M1M03; AC9M1SP01–AC9M1SP02; AC9M1ST01–AC9M1ST02.
+
+============================================================
+CODE: AC9M1N01
+DESCRIPTOR: Recognise, represent and order numbers to at least 120 using physical and virtual materials, numerals, number lines and charts.
+STATUS: AUTHORING-READY
+============================================================
+
+IXL MAPPINGS
+- Number lines to 100 and 120; hundred/120 charts; spoken numbers to numerals; numerals to number words; ordinal numbers.
+- Compare numbers to 100/120 using words, symbols, place-value models and number lines.
+- Order numbers to 100/120, with and without number-line support.
+
+KHAN ACADEMY MAPPINGS
+- 1st grade maths > Place value > Numbers 0 to 120.
+- Number grid; Missing numbers between 0 and 120; Numbers to 120 exercise.
+- Supporting comparison work: Compare 2-digit numbers and place-value representations.
+
+PRIOR-YEAR EVIDENCE REUSED
+- Foundation evidence for one-to-one counting, recognising numerals, ordering small collections, before/after language and simple number-line direction is reusable.
+- Year 1 extension researched: range to 120; crossing decade and hundred boundaries; number-chart structure; comparing and ordering mixed one-, two- and three-digit numerals.
+
+AUTHENTIC EVIDENCE OBSERVED
+- IXL practice used short horizontal number-line segments rather than always starting at zero. Students supplied an interior missing number and identified the number immediately before/after a target.
+- Interacted across low and high ranges, including single digits, the 50s/60s and numbers above 100. This confirms transfer rather than memorising one fixed chart.
+- IXL ordering presented three movable numeral cards and alternated smallest-to-largest language. Its worked example first compared number of digits, then compared digits from the highest place value.
+- Khan exercise presented an ordered run near 120 with one missing entry. The response was typed rather than selected.
+- Khan's step-by-step feedback used three small prompts: identify the count-by rule, ask what comes after the preceding number, then state the missing number. Related instruction links to a number-grid model and missing-number video.
+
+REPRESENTATIONS REQUIRED
+- Concrete collections grouped where useful; numeral cards; spoken number names; number words; short and full number lines; 100 and 120 charts; place-value models.
+- Include forward and backward sequences, missing positions, before/between/after, comparison and ordering.
+
+QUESTION TYPES AND DIFFICULTY PROGRESSION
+- Accessible: name/read a numeral; count on by one; fill one gap; locate a number; identify before/after.
+- Core: cross a decade; use a chart row/column; compare two numbers in words or symbols; translate words and numerals.
+- Higher: order three or four mixed-length numerals; explain placement using tens/ones or relative location; diagnose a reversed comparison; complete sequences with gaps in different positions.
+- Challenge/transfer: reason across 99/100 and 109/110; infer a hidden number from multiple clues; select or correct a representation.
+
+COMMON MISCONCEPTIONS / DISTRACTORS
+- Reversing before and after or left and right.
+- Treating 100 as smaller than a two-digit number because it begins with 1.
+- Comparing only the ones digit; reversing < and >; assuming chart movement down changes by 1 rather than 10.
+- Dropping or inserting a zero in spoken/written numbers; stopping at 99; duplicating or skipping boundary numbers.
+
+TEACHING SEQUENCE
+1. Reconnect quantities, spoken names and numerals from Foundation.
+2. Build the decade structure with bundles/ten frames and a 100/120 chart.
+3. Count forward/backward and locate before, after and between.
+4. Read and complete number lines and chart paths, including decade/hundred crossings.
+5. Compare by number of digits, then tens and ones; connect words to symbols.
+6. Order multiple numbers and justify the decision with place value or position.
+
+RECOMMENDED SKILLRHUB COVERAGE
+- Topic Page must teach all representations and explicitly model decade/hundred crossings, chart movement, comparison and ordering.
+- Classroom View should use draggable numeral cards, a projected 120 chart, missing-number reveals and verbal justification prompts.
+- Worksheet should progress from recognition and local gaps to chart/line interpretation, comparison and independent ordering.
+- Practice bank needs balanced coverage of reading, representing, locating, sequencing, comparing, ordering and error analysis; avoid 48 cosmetic missing-number items.
+- Test bank should be fully separate and sample every representation with less scaffolding and at least several justification/transfer items.
+
+BOUNDARIES
+- Do not extend to formal place-value algorithms or numbers far beyond 120.
+- Roman numerals appear in IXL's broad alignment but are not stated in this AC v9 descriptor; they are optional enrichment, not required core coverage.
+
+SOURCE REFERENCES
+- IXL Australia Australian Curriculum v9 Year 1 alignment: AC9M1N01 mapping.
+- IXL Year 1: Number lines up to 120; Put numbers up to 120 in order; Learn with an example.
+- Khan Academy 1st grade maths: Place value > Numbers 0 to 120; interactive exercise and step-by-step solution.
+
+RESEARCH DECISION
+Enough authentic evidence and prior Foundation coverage exist to support commercial-grade original authoring. No further research is required for AC9M1N01.
+
+============================================================
+CODE: AC9M1N02
+DESCRIPTOR: Partition one- and two-digit numbers in different ways using physical and virtual materials, including partitioning two-digit numbers into tens and ones.
+STATUS: AUTHORING-READY
+============================================================
+
+IXL MAPPINGS
+- Make, partition and build teen numbers using words, models and addition sentences.
+- Place-value models to 20; build multiples of ten and general two-digit numbers.
+- Build and partition two-digit numbers with/without models; identify place-value models.
+- Ways to make a number using tens and ones, including non-standard partitions.
+
+KHAN ACADEMY MAPPINGS
+- 1st grade maths > Place value > Ones and tens.
+- Intro to place value; worked examples using 25 and 42.
+- Groups of ten objects; Tens and ones; 2-digit place-value challenge.
+
+PRIOR-YEAR EVIDENCE REUSED
+- Foundation part-part-whole partitioning of small quantities and teen-number construction can be reused as entry knowledge.
+- New Year 1 evidence focused on two-digit place value and flexible/non-canonical partitions, not only the standard tens-and-ones form.
+
+AUTHENTIC EVIDENCE OBSERVED
+- IXL first linked a numeral to a base-ten model and a spoken tens/ones description (for example, identify the number shown by several ten rods and unit cubes).
+- Practice then reversed the direction: given a numeral and the same model, enter separate values for tens and ones.
+- Difficulty increased from teen numbers and standard partitions to larger two-digit numbers.
+- A higher IXL skill required interpreting a non-standard partition containing more than 9 ones, finding the total, and expressing an equivalent partition with one more or fewer tens.
+- IXL's worked example explicitly taught the equivalence 1 ten = 10 ones, then regrouped one ten to create an alternative form.
+- Khan organises the concept as concrete groups of ten -> tens and ones -> a two-digit challenge, supported by short place-value worked-example videos.
+- Khan's exercise begins from a visual block collection and requests the total, connecting quantity to numeral before more abstract place-value work.
+
+REPRESENTATIONS REQUIRED
+- Loose objects bundled into tens; ten rods and ones cubes; ten frames; tens/ones tables; numerals; number words; expanded addition; arrow/partition diagrams.
+- Standard and non-standard forms such as 4 tens 6 ones and 3 tens 16 ones must both occur.
+
+QUESTION TYPES AND DIFFICULTY PROGRESSION
+- Accessible: count tens/ones in a model; build a teen number; match numeral to model.
+- Core: write tens and ones for any two-digit numeral; compose/decompose using words and expanded addition; handle zero ones or zero tens.
+- Higher: generate multiple partitions; regroup 1 ten as 10 ones; solve missing-part statements; connect two different-looking models representing the same number.
+- Challenge/transfer: diagnose a reversed digit/place-value claim; determine totals from non-standard partitions; justify equivalence without relying on appearance.
+
+COMMON MISCONCEPTIONS / DISTRACTORS
+- Counting rods as single ones; writing the count of blocks rather than their total value.
+- Reversing tens and ones; reading 4 tens 5 ones as 54; treating a zero ones digit as absent or changing the number.
+- Believing a number has only one valid partition; failing to exchange 1 ten for 10 ones.
+- Adding the counts of tens and ones rather than their values; accepting non-equivalent regrouping.
+
+TEACHING SEQUENCE
+1. Bundle ten individual objects and establish 1 ten = 10 ones.
+2. Compose teen numbers, then general two-digit numbers from rods/cubes.
+3. Move between model, words, numeral and expanded addition.
+4. Reverse the process by partitioning a given numeral.
+5. Include zero cases and multiples of ten.
+6. Exchange one ten for ten ones and create/compare multiple valid partitions.
+7. Explain why different partitions preserve the same total.
+
+RECOMMENDED SKILLRHUB COVERAGE
+- Topic Page must explicitly teach both standard and flexible partitioning; flexible partitioning is the main Year 1 depth often omitted.
+- Classroom View should include virtual bundling/exchange demonstrations and prompts asking for another way.
+- Worksheet should move concrete -> pictorial -> symbolic and include matching, construction, decomposition and equivalence.
+- Practice bank must vary direction and representation, include zero cases, missing values and non-standard partitions.
+- Test bank should require independent conversion and justification, with no reused Practice prompts.
+
+BOUNDARIES
+- Keep numbers within the intended one- and two-digit range. Do not introduce formal column algorithms.
+- Regrouping here is conceptual renaming of a quantity, not a written addition/subtraction algorithm.
+
+SOURCE REFERENCES
+- IXL Australia Australian Curriculum v9 Year 1 alignment: AC9M1N02 mapping.
+- IXL Year 1: Build and partition two-digit numbers with models; Ways to make a number—tens and ones; Learn with an example.
+- Khan Academy 1st grade maths: Place value > Ones and tens; related exercises and worked-example sequence.
+
+RESEARCH DECISION
+The interactive evidence establishes the complete progression from concrete standard partitions to flexible regrouping. AC9M1N02 is authoring-ready.
+
+============================================================
+NEXT CODE: AC9M1N03 — IN PROGRESS
+============================================================
