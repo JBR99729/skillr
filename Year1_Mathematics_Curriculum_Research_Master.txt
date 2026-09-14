@@ -157,3 +157,321 @@ The interactive evidence establishes the complete progression from concrete stan
 ============================================================
 NEXT CODE: AC9M1N03 — IN PROGRESS
 ============================================================
+
+============================================================
+CODE: AC9M1N03
+DESCRIPTOR: Quantify sets of objects, to at least 120, by partitioning collections into equal groups using number knowledge and skip counting.
+STATUS: AUTHORING-READY
+============================================================
+
+RESEARCH SCOPE
+- Reused existing Foundation and Year 1 number/place-value evidence for counting collections and cardinality.
+- New live IXL Australia evidence focused on equal groups, skip counting by 2s/5s/10s, totals to at least 120, and the distinction between number of groups and group size.
+- Khan Academy has no direct Grade 1 exercise covering this full Australian Curriculum descriptor; no weak mapping is claimed.
+
+IXL MAPPINGS
+- C.1–C.8 Learn/skip-count by twos, fives and tens.
+- C.9 Count by twos, fives and tens.
+- C.10 Skip-counting patterns with tables.
+- C.11 Sequences: count up and down by 1, 2, 5 and 10.
+- C.12 Count equal groups.
+- C.13–C.17 repeated-addition/array extensions are useful selectively, but multiplication notation is not required by the descriptor.
+
+LIVE QUESTION EVIDENCE
+- Prompt form: “When counting by fives, what comes after 10?” then mixed-step variants such as counting by twos after a non-zero start.
+- Equal-group form: two or more pictured groups followed by separate blanks for “number of groups” and “objects in each group”.
+- Table form: constant group size in one column and cumulative total in the other; learner completes a later row.
+- Worked examples explicitly count groups first, establish equal size, then skip count the total.
+- Visual progression: concrete grouped objects → labelled group/size statements → skip-count sequence/table → total with a leftover.
+
+TEACHING PROGRESSION
+1. Verify that every full group is equal.
+2. Identify group size and number of full groups separately.
+3. Skip count once for each full group.
+4. Count any leftover objects by ones.
+5. State and check the complete total; reverse-check by recounting or regrouping.
+6. Extend totals beyond 100 to meet “at least 120”.
+
+MISCONCEPTIONS / DISTRACTORS
+- Reporting the number of groups instead of total objects.
+- Reporting group size instead of total objects.
+- Skip-counting unequal groups as though they were equal.
+- Losing, double-counting or absorbing leftovers incorrectly.
+- Using the wrong skip (2, 5 or 10).
+- Stopping at 100 despite objects remaining.
+- Treating a visually larger gap between groups as a larger quantity.
+
+AUTHORING COVERAGE REQUIREMENTS
+- Include groups of 2, 5 and 10; totals below, at and above 100 through at least 120.
+- Mix arrays, circles, bags, ten-frames, bundles, tables, sequences and short contexts.
+- Include exact groups and groups plus leftovers.
+- Ask both “How many groups/how many in each?” and “How many altogether?” without conflating them.
+- Practice bank must move concrete → pictorial → symbolic → reasoning; test bank must be separate and less scaffolded.
+
+RESEARCH DECISION
+- Sufficient independent depth exists for Topic Page, Classroom View, worksheet/homework, 48 Practice and 16 separate Test questions.
+- Do not collect more IXL examples unless authoring reveals a specific representation gap.
+
+SOURCE REFERENCES
+- IXL Australia Year 1 Maths: C.1–C.17, with live review of C.9, C.10 and C.12 on 2026-09-14.
+- Australian Curriculum v9 descriptor retained from the current SkillrHub curriculum page.
+- Khan Academy Grade 1 course reviewed; no direct full-descriptor mapping.
+
+============================================================
+CODE: AC9M1N04
+DESCRIPTOR: Add and subtract numbers within 20, using physical and virtual materials, part-part-whole knowledge to 10 and a variety of calculation strategies.
+STATUS: AUTHORING-READY
+============================================================
+
+RESEARCH SCOPE
+- Reused Foundation joining/separating, number bond and ten-frame evidence.
+- New live IXL evidence covered models, number lines, counting on/back, doubles, related facts, make-ten and missing-part equations.
+- Live Khan Academy Grade 1 evidence confirmed concise symbolic practice supported by strategy videos and related visual resources.
+
+IXL MAPPINGS
+- E.1–E.7 Understand addition with cubes, pictures, equations, number lines and words.
+- F.1–F.4 addition strategies to 10 and making ten.
+- I.1–I.8 Understand subtraction and zero/all cases.
+- J.1–J.4 subtraction strategies and inverse relationships.
+- O.1–O.12 addition strategies to 20: related facts, number lines, counting on, doubles, ten-frames and make-ten.
+- P.1–P.17 addition within 20.
+- R.1–R.9 subtraction strategies to 20.
+- S.1–S.16 subtraction within 20.
+- U.1–U.5 mixed addition/subtraction and fact families.
+
+KHAN ACADEMY MAPPINGS
+- Grade 1 Unit 2: Relate addition and subtraction.
+- Add within 20; Adding 7 + 6; Adding 8 + 7.
+- Add 3 numbers.
+- Subtract within 20.
+- Equal sign and missing-number exercises.
+- Strategy support includes ten-frames, place-value blocks and worked examples.
+
+LIVE QUESTION EVIDENCE
+- IXL make-ten item asks the learner to choose the correct split/jumps on a number line, then calculate the total.
+- Worked example for 9 + 9 decomposes the second 9 into 1 and 8: reach 10 first, then add the remainder.
+- Khan exercise uses a clean one-step equation such as 4 + 5 = __, with related videos available rather than embedded answer cues.
+- Across the mapped sets, representations progress from cubes/pictures to number lines, equations, missing parts and strategy choice.
+
+TEACHING PROGRESSION
+1. Model joining, separating and missing parts with objects.
+2. Connect part-part-whole diagrams to equations.
+3. Build fluency with bonds to 10.
+4. Count on/back efficiently rather than recounting all.
+5. Use doubles/near doubles and related facts.
+6. Make ten, carry the leftover part, and explain the strategy.
+7. Check subtraction using addition and vice versa.
+
+MISCONCEPTIONS / DISTRACTORS
+- Recounting all instead of counting on from the larger addend.
+- Mixing the operation sign or reversing subtraction order.
+- Making ten but forgetting the leftover.
+- Counting number-line points instead of jumps.
+- Assuming the equals sign means “the answer comes next”.
+- Confusing a missing part with the total.
+- Applying a strategy that changes the value of an addend.
+
+AUTHORING COVERAGE REQUIREMENTS
+- Stay within 20 and deliberately include boundary cases 0, 10 and 20.
+- Balance addition and subtraction; include part-part-whole, ten-frame, number-line and equation formats.
+- Cover count on/back, make ten, doubles/near doubles, related facts and inverse checking.
+- Include unknowns in different positions, not only at the end.
+- Practice and test questions must assess strategy understanding as well as final answers.
+
+RESEARCH DECISION
+- Authoring-ready; evidence is sufficient for all required deliverables and question-bank diversity.
+
+SOURCE REFERENCES
+- IXL Australia Year 1 Maths: E, F, I, J, O, P, R, S and U strands; live review of O.11 on 2026-09-14.
+- Khan Academy 1st Grade Maths Unit 2, live review of Add within 20 on 2026-09-14.
+- Australian Curriculum v9 descriptor retained from current SkillrHub curriculum mapping.
+
+============================================================
+CODE: AC9M1N05
+DESCRIPTOR: Use mathematical modelling to solve practical problems involving additive situations including simple money transactions; represent the situations with diagrams, physical and virtual materials, and use calculation strategies to solve the problem.
+STATUS: AUTHORING-READY
+============================================================
+
+RESEARCH SCOPE
+- Reused AC9M1N04 calculation-strategy evidence; this code adds modelling choices, practical contexts, money and interpretation.
+- Live IXL evidence covered multiple additive story structures and Australian coin counting/comparison.
+- Khan evidence contributed a graded sequence of addition/subtraction word problems, including more/fewer language.
+
+IXL MAPPINGS
+- H, L, N, Q, T and V word-problem families: joining, separating, result unknown, change unknown, start unknown and one-addend unknown.
+- V includes matching situations to addition/subtraction sentences.
+- BB.1 Coin values.
+- BB.2 Count money with 5c and 10c coins.
+- BB.3 Count money with all Australian coins.
+- BB.4 Compare money amounts.
+- Calculation strategies draw from AC9M1N04 mappings rather than being researched twice.
+
+KHAN ACADEMY MAPPINGS
+- Grade 1 Unit 2: Addition and subtraction word problems 1 and 2.
+- Add and subtract within 20 word problems.
+- Word problems with “more” and “fewer”.
+- Missing-number practice supports unknown-part modelling.
+- Khan has no Australia-specific coin work; IXL Australia is the direct money source.
+
+LIVE QUESTION EVIDENCE
+- IXL money item presents pictured Australian coins and asks “How much money is there?” with a dollar-entry field.
+- Worked example totals by denomination: count dollar coins first, then count on by the value of each smaller coin.
+- Word-problem sets vary what is unknown rather than relying on keyword spotting.
+- Khan separates direct calculation from story interpretation and increases complexity through more/fewer and missing quantities.
+
+TEACHING / MODELLING CYCLE
+1. Read and retell the situation; identify what is known and unknown.
+2. Choose a representation: objects, drawing, bar/part-whole model, number line or coins.
+3. Decide whether quantities join, separate or compare.
+4. Select and carry out a calculation strategy.
+5. Label the answer with the correct unit, especially cents or dollars.
+6. Check that the answer is reasonable in the original context.
+
+MISCONCEPTIONS / DISTRACTORS
+- Choosing an operation from one keyword without understanding the situation.
+- Adding when the unknown is a missing part/change, or subtracting in the wrong order.
+- Ignoring the question after calculating a visible total.
+- Counting coins as objects rather than by value.
+- Mixing cents and dollars or omitting the money unit.
+- Treating coin size as value.
+- Producing an equation that does not match the diagram/story.
+
+AUTHORING COVERAGE REQUIREMENTS
+- Balance join, separate, compare, missing-part, start-unknown and change-unknown contexts within 20.
+- Include explicit modelling-choice questions, not calculations only.
+- Use Australian coins and age-appropriate simple transactions; avoid unsupported price complexity.
+- Include counting, comparing, paying exact amounts and simple change where calculations remain accessible.
+- Require diagrams/materials/number lines across the practice progression.
+- Test questions must use new contexts and require independent model/operation selection.
+
+RESEARCH DECISION
+- Authoring-ready; IXL covers the Australian money component that Khan lacks, while both support additive modelling depth.
+
+SOURCE REFERENCES
+- IXL Australia Year 1 Maths: additive word-problem strands H/L/N/Q/T/V and Money BB.1–BB.4; live review of BB.3 on 2026-09-14.
+- Khan Academy 1st Grade Maths Unit 2 word-problem sequence, reviewed 2026-09-14.
+- Australian Curriculum v9 descriptor retained from current SkillrHub curriculum mapping.
+
+============================================================
+CODE: AC9M1N06
+DESCRIPTOR: Use mathematical modelling to solve practical problems involving equal sharing and grouping; represent the situations with diagrams, physical and virtual materials, and use calculation strategies to solve the problem.
+STATUS: AUTHORING-READY
+============================================================
+
+RESEARCH SCOPE
+- Reused equal-group recognition from AC9M1N03; this code adds practical modelling and distinguishes sharing from grouping.
+- Live IXL evidence directly examined counting equal groups and dividing a total into a stated number of equal groups.
+- Khan Grade 1 course has no direct equal-sharing/grouping exercise; no later-grade division content is imported.
+
+IXL MAPPINGS
+- C.12 Count equal groups.
+- C.18 Divide by counting equal groups.
+- C.13–C.17 repeated addition/arrays may support checking totals but should not replace practical sharing/grouping models.
+
+LIVE QUESTION EVIDENCE
+- IXL prompt shows 6 dots divided into 3 equal groups and asks for the number in each group.
+- Worked example shows 9 dots in 3 equal groups, labels groups, then counts within one group to obtain 3.
+- The paired C.12 structure asks separately for number of groups and number in each group.
+- Representations are concrete/pictorial first and use short, explicit language suitable for Year 1.
+
+TEACHING PROGRESSION
+1. Act out fair sharing one item at a time among a known number of recipients.
+2. Check that every recipient has the same amount.
+3. Contrast with grouping: make groups of a stated size and count how many groups.
+4. Record both number of groups and number in each group.
+5. Use skip counting or repeated addition to verify the total.
+6. Describe leftovers honestly; do not force an unequal object into a group.
+7. Apply the model to familiar contexts such as plates, bags, teams or rows.
+
+MISCONCEPTIONS / DISTRACTORS
+- Confusing “how many groups?” with “how many in each group?”
+- Sharing unevenly or stopping before all distributable items are used.
+- Reporting the original total instead of the requested quotient-like result.
+- Counting boundaries/spaces rather than objects.
+- Treating equal sharing and equal grouping as the same question structure.
+- Ignoring or hiding leftovers.
+- Introducing formal division notation before the model is understood.
+
+AUTHORING COVERAGE REQUIREMENTS
+- Include both sharing (known number of groups) and grouping (known group size).
+- Mix manipulatives, diagrams, arrays/rows, short stories and explanation questions.
+- Ask learners to choose or critique a model, not only count it.
+- Include fair/unfair examples and simple leftovers.
+- Keep calculations concrete and Year 1 appropriate; formal division algorithms are out of scope.
+
+RESEARCH DECISION
+- Authoring-ready for Topic Page, Classroom View, worksheet/homework, 48 Practice and 16 separate Test questions.
+
+SOURCE REFERENCES
+- IXL Australia Year 1 Maths C.12 and C.18, live reviewed on 2026-09-14.
+- Australian Curriculum v9 descriptor retained from current SkillrHub curriculum mapping.
+- Khan Academy Grade 1 course reviewed; no direct mapping used.
+
+============================================================
+CODE: AC9M1A01
+DESCRIPTOR: Recognise, continue and create pattern sequences, with numbers, symbols, shapes and objects, formed by skip counting, initially by twos, fives and tens.
+STATUS: AUTHORING-READY
+============================================================
+
+RESEARCH SCOPE
+- Reused skip-counting number knowledge from AC9M1N03 without duplicating collection-quantification research.
+- New emphasis is the algebraic structure of a repeating numerical rule across numbers, symbols, shapes and objects.
+- Live IXL evidence covered sequence continuation, rule identification and table-based growing totals.
+- Khan Grade 1 course lacks a direct pattern-sequence unit; no weak mapping is claimed.
+
+IXL MAPPINGS
+- C.1–C.8 learn and practise skip counting by 2s, 5s and 10s.
+- C.9 Count by twos, fives and tens.
+- C.10 Skip-counting patterns with tables.
+- C.11 Sequences: count up and down by 1, 2, 5 and 10.
+- Pattern representations elsewhere in IXL may support shapes/objects, but authoring must retain the descriptor’s skip-counting basis rather than simple AB repetition.
+
+LIVE QUESTION EVIDENCE
+- IXL table item states “Each pile has 2 T-shirts” and lists 1→2, 2→4, 3→6 … before asking for 6 piles.
+- The worked example verbalises a constant rule (“count by tens”) and completes the table row by row.
+- Mixed skip-counting prompts ask for the next number and vary 2, 5 and 10.
+- The evidence supports moving from object groups to tables to abstract sequences.
+
+TEACHING PROGRESSION
+1. Build equal groups of 2, 5 or 10 with objects.
+2. Say the running totals and connect each total to one additional group.
+3. Represent the same rule with numerals, symbols or shapes.
+4. Identify the constant change between adjacent terms.
+5. Continue a sequence and fill internal missing terms.
+6. Create a new sequence from a stated start and rule.
+7. Explain why every step must follow the same rule; include backward continuation where suitable.
+
+MISCONCEPTIONS / DISTRACTORS
+- Counting by ones instead of the stated skip.
+- Changing the rule partway through.
+- Repeating an AB visual pattern rather than creating a skip-counting sequence.
+- Looking only at the last digit and ignoring the constant difference.
+- Starting from 0 when a different starting value is given.
+- Losing alignment between group number and cumulative total in a table.
+- Treating “next” as arbitrary rather than rule-governed.
+
+AUTHORING COVERAGE REQUIREMENTS
+- Balance skips of 2, 5 and 10.
+- Include number, symbol, shape and object representations.
+- Cover recognise rule, continue, fill gaps, find an error and create a sequence.
+- Use varied starting points where age appropriate, not only 0.
+- Include tables and grouped-object contexts that make the constant change visible.
+- Keep AC9M1A01 distinct from AC9M1N03: assess sequence/rule structure, not merely total collection size.
+
+RESEARCH DECISION
+- Authoring-ready; sufficient depth exists for every required deliverable without further sampling.
+
+SOURCE REFERENCES
+- IXL Australia Year 1 Maths C.1–C.11, live review of C.9 and C.10 on 2026-09-14.
+- Australian Curriculum v9 descriptor retained from current SkillrHub curriculum mapping.
+- Khan Academy Grade 1 course reviewed; no direct mapping used.
+
+============================================================
+BATCH CHECKPOINT — 2026-09-14
+============================================================
+- Newly completed: AC9M1N03, AC9M1N04, AC9M1N05, AC9M1N06, AC9M1A01.
+- Previously complete: AC9M1N01, AC9M1N02.
+- Total authoring-ready: 7 of 16 Year 1 Mathematics codes.
+- Next pending code: AC9M1A02.
+- Research remains source-based and pedagogical; no IXL or Khan wording is to be copied into SkillrHub.
+
