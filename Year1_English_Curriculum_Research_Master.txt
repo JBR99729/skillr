@@ -752,3 +752,232 @@ BATCH 3 CHECKPOINT — 2026-09-14
 - Next research batch: AC9E1LY01–AC9E1LY05.
 - Research only: no English production content, runtime, grading or completion behaviour was changed.
 
+============================================================
+BATCH 4 RESEARCH — AC9E1LY01–AC9E1LY05
+Completed: 2026-09-14
+============================================================
+
+SHARED SOURCE CHECK
+- Exact descriptors checked against the Australian Curriculum v9-aligned IXL page and QCAA Prep–Year 6 English content-description sequence.
+- Authenticated IXL worked examples inspected for reality versus fiction, phoneme blending and predicting what happens next; earlier inspected examples for picture main idea and character feeling also inform AC9E1LY05.
+- IXL has no mapped Year 1 skills for AC9E1LY01 or AC9E1LY02, a narrow single mapping for AC9E1LY03, extensive word-reading mappings for AC9E1LY04, and three comprehension mappings for AC9E1LY05.
+- Khan Academy authenticated search for first-grade reading fluency, comprehension and phonics returned no usable visible result. Khan is SOURCE-NOT-MAPPED for this batch.
+- Australian Government Literacy Hub planning, phonics, shared-reading and Year 1 Phonics Check resources were checked as supplementary evidence.
+- Existing repository inventory: each code has 24 Practice + 16 separate Test items. These counts cannot certify interactive speaking/listening, authentic oral reading or independent strategy use.
+
+============================================================
+CODE: AC9E1LY01
+DESCRIPTOR: Discuss different texts and identify some features that indicate their purposes.
+STATUS: AUTHORING-READY
+============================================================
+
+IXL EVIDENCE AND LIMIT
+- IXL lists no mapped skill for AC9E1LY01.
+- Main-idea, reality/fiction and picture tasks provide adjacent comprehension evidence only; they do not require discussion of a range of school/community texts or feature-to-purpose reasoning.
+- IXL is SOURCE-NOT-MAPPED for direct descriptor coverage.
+
+CURRICULUM DEPTH
+- Discuss familiar imaginative, informative, persuasive and instructional texts encountered at school, home and in the community.
+- Identify visible or audible features that provide evidence of purpose: characters/events, facts/labels, opinion/reason language, commands/steps, headings, images or layout.
+- State purpose as what the text helps the audience know, feel, imagine or do, not merely its topic.
+- Recognise that texts with similar purposes often share features while allowing variation and mixed purposes.
+- Include spoken, written, visual, digital and multimodal texts.
+
+REQUIRED REPRESENTATIONS
+- Posters, signs, recipes/procedures, simple reports, stories, invitations, short videos/audio and safe mock webpages.
+- Same-topic/different-purpose and same-purpose/different-format comparisons.
+
+MISCONCEPTIONS TO ASSESS
+- Topic and purpose are identical.
+- One feature proves purpose without considering the whole text.
+- All texts of one type look exactly alike.
+- Images mean a text is imaginative.
+- Digital format determines purpose.
+- A personal preference is sufficient feature evidence.
+
+AUTHORING REQUIREMENTS
+- Teach examine text → identify feature → infer purpose → explain connection.
+- Selected-response tasks can assess feature/purpose matching; Classroom View must include discussion of authentic texts.
+- Avoid terminology-only questions detached from visible text evidence.
+
+SOURCES
+- IXL Year 1 mapping: https://au.ixl.com/standards/english/year-1
+- Australian Curriculum English overview: https://www.australiancurriculum.edu.au/curriculum-information/understand-this-learning-area/english
+- QCAA Prep–Year 6 English sequence: https://www.qcaa.qld.edu.au/downloads/aciqv9/english/curriculum/ac9_english_p-6_cd_sequence.pdf
+- Scootle English resources: https://www.scootle.edu.au/
+
+============================================================
+CODE: AC9E1LY02
+DESCRIPTOR: Use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions.
+STATUS: AUTHORING-READY
+============================================================
+
+IXL EVIDENCE AND LIMIT
+- IXL lists no mapped skill for AC9E1LY02.
+- Sentence-purpose and question-language activities can support choosing useful contributions, but individual screen selection does not demonstrate turn-taking, clear speech, active listening or responsive discussion.
+- IXL is SOURCE-NOT-MAPPED for direct descriptor coverage.
+
+CURRICULUM DEPTH
+- Wait for and recognise a speaking turn, speak audibly/clearly, attend to the speaker and respond to what was actually contributed.
+- Add a relevant idea, agreement/disagreement with a reason, clarification or question.
+- Use interaction choices suited to pair, small-group, whole-class and visitor/teacher contexts.
+- Active listening behaviours may vary across individuals and cultures; do not require fixed eye contact as universal evidence.
+- Teach respectful repair when interrupted, misunderstood or off topic.
+
+REQUIRED REPRESENTATIONS
+- Short dialogue sequences, talk-move cards, turn-taking scenarios, audio/video modelling and guided partner/group tasks.
+- Include visual supports and alternative communication modes where appropriate.
+
+MISCONCEPTIONS TO ASSESS
+- Waiting silently always proves active listening.
+- Repeating a partner's words is always a response.
+- Speaking loudly equals speaking clearly.
+- Every contribution must be a question.
+- Eye contact is mandatory in every context.
+- The fastest speaker owns the turn.
+
+AUTHORING REQUIREMENTS
+- Teach listen → wait/enter appropriately → speak clearly → connect to prior contribution → add idea/question.
+- Quizzes may assess recognition of suitable responses; mastery requires observed interaction using a simple teacher/parent rubric.
+- Do not infer oral performance from written multiple-choice success.
+
+SOURCES
+- Australian Curriculum Year 1 work samples: https://www.australiancurriculum.edu.au/resources/work-samples/english/year-1
+- QCAA Prep–Year 6 English sequence: https://www.qcaa.qld.edu.au/downloads/aciqv9/english/curriculum/ac9_english_p-6_cd_sequence.pdf
+- Australian Curriculum English overview: https://www.australiancurriculum.edu.au/curriculum-information/understand-this-learning-area/english
+- IXL Year 1 mapping: https://au.ixl.com/standards/english/year-1
+
+============================================================
+CODE: AC9E1LY03
+DESCRIPTOR: Describe some similarities and differences between imaginative, informative and persuasive texts.
+STATUS: AUTHORING-READY
+============================================================
+
+IXL EVIDENCE AND LIMIT
+- IXL maps only "Which could happen in real life?" to this code.
+- The inspected worked example contrasted a plausible cat action with an anthropomorphic action and used real-world possibility as the decision rule.
+- This supports one imaginative-versus-realistic distinction but does not compare all three text types, purposes, structures, language or image features.
+- Direct descriptor coverage must therefore be curriculum-led.
+
+CURRICULUM DEPTH
+- Compare imaginative texts that create story worlds, informative texts that present knowledge and persuasive texts that seek agreement/action.
+- Describe both similarities and differences: the same topic or image may appear across types, while purpose, evidence, structure and language differ.
+- Use visible text evidence such as characters/events, facts/labels, opinion/reason language and calls to action.
+- Recognise that imaginative texts may contain real facts and informative texts may use engaging narrative features.
+- Keep classification flexible enough for simple multimodal or mixed-purpose texts.
+
+REQUIRED REPRESENTATIONS
+- Three short texts on one topic, Venn/T-chart comparisons, feature sorts, purpose cards and same-image/different-caption examples.
+- Include complete enough text samples to support classification; one isolated sentence may be insufficient.
+
+MISCONCEPTIONS TO ASSESS
+- Imaginative means impossible.
+- Informative texts contain no opinions or images.
+- Persuasive texts are always advertisements.
+- Different text types cannot share a topic or feature.
+- One fictional detail determines the purpose of the whole text.
+- Text type can be identified from colour/layout alone.
+
+AUTHORING REQUIREMENTS
+- Require text evidence for every comparison.
+- Assess similarities as well as differences and include all three types across the full resource set.
+- Use creation/comparison in worksheets; quizzes can select defensible evidence but should not reduce the code to reality versus fantasy.
+
+SOURCES
+- IXL Year 1 mapping: https://au.ixl.com/standards/english/year-1
+- IXL inspected: Which could happen in real life?
+- QCAA Prep–Year 6 English sequence: https://www.qcaa.qld.edu.au/downloads/aciqv9/english/curriculum/ac9_english_p-6_cd_sequence.pdf
+- Scootle English resources: https://www.scootle.edu.au/
+
+============================================================
+CODE: AC9E1LY04
+DESCRIPTOR: Read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge.
+STATUS: AUTHORING-READY
+============================================================
+
+IXL EVIDENCE AND LIMIT
+- IXL maps a large sequence of consonant/vowel recognition, blends, digraphs, short/long vowel patterns, sight words and selected grammar skills to this code.
+- The inspected blending example played segmented phonemes, required blending to a pictured word, and explicitly connected sound order with letter order in reading/writing.
+- IXL gives strong word-level decoding practice, but isolated-word success does not demonstrate connected-text phrasing, fluency, authentic-text reading or self-monitoring for meaning.
+
+CURRICULUM DEPTH
+- Apply developing grapheme–phoneme knowledge to decode words in decodable text while recognising an increasing bank of high-frequency words.
+- Read words in meaningful phrases rather than word-by-word where possible, with appropriate pausing and expression.
+- Monitor whether reading makes sense using context and grammar, then reread, self-correct or seek help.
+- Use decodable texts for controlled practice and authentic texts for rich language/meaning; do not claim authentic texts are fully decodable.
+- Fluency includes accuracy, appropriate rate and prosody in service of comprehension, not speed alone.
+
+REQUIRED REPRESENTATIONS
+- Word blending, phrase scoops, short decodable passages, supported authentic excerpts, repeated-reading records and miscue/self-correction scenarios.
+- Audio models and teacher/parent observation are required for phrasing and fluency evidence.
+
+MISCONCEPTIONS TO ASSESS
+- Guessing from pictures replaces decoding.
+- Sounding out every familiar word is always fluent.
+- Fast reading is automatically good reading.
+- A grammatically possible word must be correct even if letters do not match.
+- Decoding correctly guarantees comprehension.
+- Self-correction means the first attempt failed.
+
+AUTHORING REQUIREMENTS
+- Teach decode → blend/recognise → phrase → check meaning/grammar → reread/self-correct.
+- Separate word-level screen practice from authentic oral-reading checks.
+- Classroom/worksheet resources must include short passages and an observation rubric; multiple-choice cannot certify fluency.
+
+SOURCES
+- IXL Year 1 mapping: https://au.ixl.com/standards/english/year-1
+- IXL inspected: Blend each sound in a word together.
+- Literacy Hub planning resources: https://www.literacyhub.edu.au/search/planning-resources/
+- Literacy Hub Year 1 Phonics Check: https://check.literacyhub.edu.au/
+- QCAA Prep–Year 6 English sequence: https://www.qcaa.qld.edu.au/downloads/aciqv9/english/curriculum/ac9_english_p-6_cd_sequence.pdf
+
+============================================================
+CODE: AC9E1LY05
+DESCRIPTOR: Use comprehension strategies such as visualising, predicting, connecting, summarising and questioning when listening, viewing and reading to build literal and inferred meaning by drawing on vocabulary and growing knowledge of context and text structures.
+STATUS: AUTHORING-READY
+============================================================
+
+IXL EVIDENCE AND LIMIT
+- IXL maps picture main idea, picture-supported feeling inference and predicting what happens next.
+- The inspected prediction example used a current event/object and selected the logically connected next event; earlier worked examples required evidence-supported main idea and feeling.
+- These provide useful literal/inferential progression but do not directly cover visualising, connecting, summarising, questioning, vocabulary building or sustained listening/reading across whole texts.
+
+CURRICULUM DEPTH
+- Choose a strategy for a purpose before, during and after listening/viewing/reading.
+- Predict from title, cover, images, vocabulary and text structure, then confirm or revise using new evidence.
+- Visualise from language, connect relevant prior knowledge/experience, ask useful questions and summarise central meaning/key events.
+- Distinguish literal information stated/shown directly from inference supported by a clue plus prior knowledge.
+- Apply strategies to imaginative and informative texts and to spoken, visual, print and multimodal modes.
+
+REQUIRED REPRESENTATIONS
+- Short complete texts, cover/title previews, think-aloud models, prediction checkpoints, literal/inferred evidence cards, story/information summaries and question-generation prompts.
+- Include audio/read-aloud tasks so comprehension is not always confounded with decoding.
+
+MISCONCEPTIONS TO ASSESS
+- A prediction is a random guess and should never change.
+- Any personal connection improves comprehension.
+- A summary repeats every detail.
+- Inference means inventing information.
+- Questions asked after reading are automatically useful.
+- Pictures alone override contradictory text evidence.
+
+AUTHORING REQUIREMENTS
+- Teach activate knowledge/vocabulary → select strategy → gather clues → build meaning → confirm/revise/explain.
+- Balance all named strategies across resources; do not overproduce prediction questions.
+- Multiple choice can assess evidence and strategy choice, but Classroom/worksheet tasks must require independent oral, drawn or written strategy use.
+
+SOURCES
+- IXL Year 1 mapping: https://au.ixl.com/standards/english/year-1
+- IXL inspected: What will happen next?; What is the picture about?; Which feeling matches the picture?
+- Literacy Hub teaching-reading resources: https://www.literacyhub.edu.au/professional-learning/
+- Literacy Hub family Big Six resources: https://www.literacyhub.edu.au/for-families/
+- QCAA Prep–Year 6 English sequence: https://www.qcaa.qld.edu.au/downloads/aciqv9/english/curriculum/ac9_english_p-6_cd_sequence.pdf
+
+============================================================
+BATCH 4 CHECKPOINT — 2026-09-14
+============================================================
+- Completed: AC9E1LY01, AC9E1LY02, AC9E1LY03, AC9E1LY04, AC9E1LY05.
+- Authoring-ready in this master: 20 of 30 Year 1 English codes.
+- Next research batch: AC9E1LY06–AC9E1LY10.
+- Research only: no English production content, runtime, grading or completion behaviour was changed.
+
