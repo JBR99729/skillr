@@ -521,3 +521,234 @@ BATCH 2 CHECKPOINT — 2026-09-14
 - Next research batch: AC9E1LE01–AC9E1LE05.
 - Research only: no English production content, runtime, grading or completion behaviour was changed.
 
+============================================================
+BATCH 3 RESEARCH — AC9E1LE01–AC9E1LE05
+Completed: 2026-09-14
+============================================================
+
+SHARED SOURCE CHECK
+- Exact Literature descriptors checked against the Australian Curriculum v9-aligned IXL page and QCAA Prep–Year 6 English content-description sequence.
+- Authenticated IXL worked examples were inspected for picture main idea, actions/dialogue as character evidence and poem-rhyme completion.
+- IXL has direct mapped skills only for AC9E1LE03 and AC9E1LE04 in this batch. AC9E1LE01, AC9E1LE02 and AC9E1LE05 have no mapped IXL Year 1 skills.
+- Khan Academy authenticated search for first-grade story characters, setting and retelling returned no usable visible result. Khan is SOURCE-NOT-MAPPED for this batch.
+- Scootle returned curriculum-aligned literary resources, including Foundation–Year 1 story material; Australian Curriculum work samples and QCAA remain authoritative for scope.
+- Existing repository inventory: each code has 24 Practice + 16 separate Test items. Counts do not demonstrate oral performance, creation quality, cultural authenticity or complete item quality.
+
+============================================================
+CODE: AC9E1LE01
+DESCRIPTOR: Discuss how language and images are used to create characters, settings and events in literature by First Nations Australian, and wide-ranging Australian and world authors and illustrators.
+STATUS: AUTHORING-READY
+============================================================
+
+IXL EVIDENCE AND LIMIT
+- IXL lists no directly mapped skill for AC9E1LE01.
+- The inspected character-inference and picture-meaning tasks provide adjacent techniques for using actions, dialogue, expression and setting details as evidence, but they do not meet the required literature range or discussion component.
+- IXL is SOURCE-NOT-MAPPED for direct descriptor coverage.
+
+CURRICULUM DEPTH
+- Notice and discuss specific word choices, dialogue, action, colour, perspective, line and visual detail that build character, setting or event.
+- Combine language and image evidence rather than treating illustration as decoration.
+- Compare how different authors/illustrators represent similar characters, places or events.
+- Include literature by First Nations Australian authors and illustrators as a core named requirement, alongside wide-ranging Australian and world literature.
+- Cultural texts require accurate attribution, appropriate context and respect for permissions/protocols; do not imitate culturally restricted stories or visual symbols.
+
+REQUIRED REPRESENTATIONS
+- Short original story excerpts with illustrations, paired depictions of the same setting/event, character evidence cards and word–image comparison prompts.
+- Use legally reusable, original or appropriately licensed texts/images; record author/illustrator and cultural context.
+
+MISCONCEPTIONS TO ASSESS
+- Images only decorate the words.
+- A character trait can be chosen without evidence.
+- Setting means place only and never time/atmosphere.
+- Every animal character represents the same human quality.
+- All First Nations stories or illustration styles are interchangeable.
+- The author creates words while the illustrator adds unrelated pictures.
+
+AUTHORING REQUIREMENTS
+- Use notice → name story element → cite language/image evidence → explain effect.
+- Include comparison and discussion, not just label recognition.
+- Classroom/worksheet tasks must use authentic literature and require spoken or drawn responses; quizzes can assess evidence recognition only.
+
+SOURCES
+- Australian Curriculum English overview: https://www.australiancurriculum.edu.au/curriculum-information/understand-this-learning-area/english
+- Australian Curriculum Year 1 work samples: https://www.australiancurriculum.edu.au/resources/work-samples/english/year-1
+- QCAA Prep–Year 6 English sequence: https://www.qcaa.qld.edu.au/downloads/aciqv9/english/curriculum/ac9_english_p-6_cd_sequence.pdf
+- IXL Year 1 mapping: https://au.ixl.com/standards/english/year-1
+- Reading Australia primary resources: https://readingaustralia.com.au/
+
+============================================================
+CODE: AC9E1LE02
+DESCRIPTOR: Discuss literary texts and share responses by making connections with students' own experiences.
+STATUS: AUTHORING-READY
+============================================================
+
+IXL EVIDENCE AND LIMIT
+- IXL lists no mapped skill for AC9E1LE02.
+- Character-feeling tasks can support noticing a relatable event, but choosing a predetermined feeling is not equivalent to sharing a personal response and explaining a text-to-self connection.
+- IXL is SOURCE-NOT-MAPPED for direct descriptor coverage.
+
+CURRICULUM DEPTH
+- Share a response to a specific character, setting, event, image or language choice.
+- Make a clear text-to-self connection: identify the story moment, name a relevant experience and explain the connection.
+- Ask and answer questions about literary elements and listen respectfully to different responses.
+- Recognise that readers may respond differently; a personal connection is defensible when it is relevant and explained.
+- Allow drawing, speaking, role-play and short writing so decoding/writing load does not mask literary response.
+
+REQUIRED REPRESENTATIONS
+- Read-aloud excerpts, picture books, response stems, connection maps, question cards, role-play prompts and drawing-plus-caption tasks.
+- Provide diverse, inclusive experiences without assuming every child has had a particular family, cultural or emotional experience.
+
+MISCONCEPTIONS TO ASSESS
+- Retelling the plot is automatically a personal connection.
+- Any memory is relevant.
+- Everyone should feel the same about a character.
+- A connection must describe exactly the same event.
+- Preference alone is a complete literary response.
+- A response can be judged only by whether the teacher agrees.
+
+AUTHORING REQUIREMENTS
+- Teach text detail → personal experience/feeling → explain the link.
+- Multiple-choice questions should assess relevance or evidence, not pretend to measure the learner's genuine experience.
+- Classroom View and worksheet must include open oral/drawn/written responses with flexible model answers.
+
+SOURCES
+- Australian Curriculum Year 1 work samples: https://www.australiancurriculum.edu.au/resources/work-samples/english/year-1
+- QCAA Prep–Year 6 English sequence: https://www.qcaa.qld.edu.au/downloads/aciqv9/english/curriculum/ac9_english_p-6_cd_sequence.pdf
+- Scootle curriculum resources: https://www.scootle.edu.au/
+- Reading Australia primary resources: https://readingaustralia.com.au/
+- IXL Year 1 mapping: https://au.ixl.com/standards/english/year-1
+
+============================================================
+CODE: AC9E1LE03
+DESCRIPTOR: Discuss plot, character and setting, which are features of stories.
+STATUS: AUTHORING-READY
+============================================================
+
+IXL EVIDENCE AND LIMIT
+- IXL directly maps "What is the picture about?" and "Use actions and dialogue to understand characters."
+- The inspected character worked example used stamping, shouting and dialogue as evidence for an inferred feeling; its teaching explicitly links what characters do and say to traits and feelings.
+- The inspected picture-main-idea example required selecting what the scene actually showed.
+- These tasks strongly support character evidence and central action, but do not fully teach setting or plot structure across a complete story.
+
+CURRICULUM DEPTH
+- Character is who participates and what the story shows about them; setting is where/when and may shape events; plot is the connected sequence of what happens.
+- Follow beginning, development/problem/change and ending/resolution without imposing one rigid story formula.
+- Use actions, dialogue, thoughts, description and images as evidence.
+- Compare similar characters or settings across traditional tales, narrative poems, fables and contemporary stories.
+- Distinguish realistic and imagined settings using textual/visual clues.
+
+REQUIRED REPRESENTATIONS
+- Brief complete stories, story maps, event-sequencing cards, character evidence charts, setting comparison images and problem–response–outcome chains.
+- A single isolated picture may support inference but cannot alone establish a full plot.
+
+MISCONCEPTIONS TO ASSESS
+- Plot is the same as topic.
+- Setting means place only.
+- The main character must be good or speak most.
+- A trait can be inferred from appearance alone.
+- Every story must contain an explicit problem.
+- One event card represents the complete plot.
+
+AUTHORING REQUIREMENTS
+- Ask who, where/when, what changes/happens, and what evidence supports the answer.
+- Include sequencing, comparison and explanation, not only vocabulary labels.
+- Use complete short narratives across the resource set so plot is genuinely assessable.
+
+SOURCES
+- IXL Year 1 mapping: https://au.ixl.com/standards/english/year-1
+- IXL inspected: Use actions and dialogue to understand characters; What is the picture about?
+- QCAA Prep–Year 6 English sequence: https://www.qcaa.qld.edu.au/downloads/aciqv9/english/curriculum/ac9_english_p-6_cd_sequence.pdf
+- Scootle English resources: https://www.scootle.edu.au/
+
+============================================================
+CODE: AC9E1LE04
+DESCRIPTOR: Listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme.
+STATUS: AUTHORING-READY
+============================================================
+
+IXL EVIDENCE AND LIMIT
+- Direct IXL mapping includes four rhyme skills: picture rhyme, odd-one-out rhyme, complete a rhyme and complete a poem with a rhyming word.
+- The inspected worked example taught final-sound matching and reread the completed poem.
+- IXL provides a useful rhyme progression but does not directly assess listening to varied performances, discussing effects, alliteration, imitation, invention or culturally contextualised poems/chants/songs.
+
+CURRICULUM DEPTH
+- Listen for and discuss rhyme, alliteration, repetition, rhythm, onomatopoeia and other accessible sound effects.
+- Imitate a demonstrated pattern, then invent a new line or phrase that preserves or deliberately varies it.
+- Explain a simple effect: playful sound, emphasis, memory, mood or audience participation.
+- Include poems, chants and songs from First Nations Australian and Asian creators only through accurate, attributed and culturally appropriate sources.
+- Sound is primary: spelling similarity does not guarantee rhyme or alliteration.
+
+REQUIRED REPRESENTATIONS
+- Audio/read-aloud poems, call-and-response chants, beat marks, alliterative phrase cards, rhyme families and open pattern-completion prompts.
+- Use original short texts for assessment and avoid reproducing copyrighted lyrics.
+
+MISCONCEPTIONS TO ASSESS
+- Alliteration means repeated letters rather than sounds.
+- Rhyme means identical spelling.
+- Every poem must rhyme.
+- Copying a complete line is invention.
+- Rhythm, rhyme and repetition are the same.
+- Any repeated sound improves the text regardless of meaning.
+
+AUTHORING REQUIREMENTS
+- Progress listen → identify → discuss → imitate → invent → perform.
+- Balance alliteration/invention with rhyme recognition.
+- Audio or teacher read-aloud access is essential; independent creation belongs in practical/worksheet evidence, not only selected response.
+
+SOURCES
+- IXL Year 1 mapping: https://au.ixl.com/standards/english/year-1
+- IXL inspected: Complete the poem with a word that rhymes.
+- QCAA Prep–Year 6 English sequence: https://www.qcaa.qld.edu.au/downloads/aciqv9/english/curriculum/ac9_english_p-6_cd_sequence.pdf
+- Scootle/Arc Year 1 rhyme and literature resources: https://www.scootle.edu.au/
+
+============================================================
+CODE: AC9E1LE05
+DESCRIPTOR: Orally retell or adapt a familiar story using plot and characters, language features including vocabulary, and structure of a familiar text, through role-play, writing, drawing or digital tools.
+STATUS: AUTHORING-READY
+============================================================
+
+IXL EVIDENCE AND LIMIT
+- IXL lists no mapped skill for AC9E1LE05.
+- Character evidence and main-idea tasks support prerequisites only. They do not assess sustained oral retelling, deliberate adaptation, structure, expressive language or multimodal creation.
+- IXL is SOURCE-NOT-MAPPED for direct descriptor coverage.
+
+CURRICULUM DEPTH
+- A retell preserves the recognisable characters, key events and order/causal links of a familiar story.
+- An adaptation deliberately changes one or more elements while retaining a clear relationship to the source.
+- Use suitable vocabulary, dialogue or repeated language patterns from the familiar text structure without copying protected text at length.
+- Students may demonstrate through oral storytelling, role-play, writing, drawing or appropriate digital tools.
+- Teach the difference between changing details purposefully and losing the story's coherence.
+
+REQUIRED REPRESENTATIONS
+- Story-spine maps, beginning/middle/end cards, character-and-event prompts, alternate-setting/character cards, storyboard frames and oral rehearsal cues.
+- Use public-domain, original or appropriately licensed familiar stories; culturally restricted stories must not be adapted without permission.
+
+MISCONCEPTIONS TO ASSESS
+- A retell includes every small detail.
+- Changing character names alone always creates a meaningful adaptation.
+- An adaptation must abandon the original plot.
+- Pictures need no sequence or explanation.
+- Memorising exact wording is better than preserving meaning.
+- Any three story events form a coherent retell.
+
+AUTHORING REQUIREMENTS
+- Teach remember story spine → select key events → order/connect → choose deliberate change if adapting → tell/create → check coherence.
+- Quizzes may assess sequence, relevance and deliberate change; mastery of the descriptor requires an independently created oral or multimodal performance.
+- Provide practical rubrics for plot/character retention, sequence, vocabulary and clarity without penalising limited handwriting.
+
+SOURCES
+- Australian Curriculum Year 1 work samples: https://www.australiancurriculum.edu.au/resources/work-samples/english/year-1
+- QCAA Prep–Year 6 English sequence: https://www.qcaa.qld.edu.au/downloads/aciqv9/english/curriculum/ac9_english_p-6_cd_sequence.pdf
+- Scootle English resources: https://www.scootle.edu.au/
+- Reading Australia primary resources: https://readingaustralia.com.au/
+- IXL Year 1 mapping: https://au.ixl.com/standards/english/year-1
+
+============================================================
+BATCH 3 CHECKPOINT — 2026-09-14
+============================================================
+- Completed: AC9E1LE01, AC9E1LE02, AC9E1LE03, AC9E1LE04, AC9E1LE05.
+- Authoring-ready in this master: 15 of 30 Year 1 English codes.
+- Literature strand research complete: 5 of 5 codes.
+- Next research batch: AC9E1LY01–AC9E1LY05.
+- Research only: no English production content, runtime, grading or completion behaviour was changed.
+
