@@ -1,0 +1,64 @@
+SKILLRHUB YEAR 1 ENGLISH — CURRICULUM RESEARCH MASTER
+Australian Curriculum v9
+Started: 2026-09-14
+Research only — no SkillrHub authoring in this file
+
+PURPOSE
+This cumulative master will record original, abstracted pedagogical evidence for later review or re-authoring of each Year 1 English Topic Page, HTML Classroom View, worksheet/homework, Practice Bank and genuinely separate Test Bank. Source wording, questions and artwork must not be copied.
+
+RESEARCH STANDARD
+- Australian Curriculum v9 is the authority for exact descriptor scope and Year 1 boundaries.
+- IXL is the primary external teaching and assessment benchmark where a relevant skill can be inspected.
+- Khan Academy and other reputable free resources are supplementary.
+- A catalogue title alone is not a completed source comparison.
+- Record inspected teaching/help, representative task progression, misconceptions, representations and access limits honestly.
+- Separate observed source evidence from proposed Skillr teaching ideas.
+- Research only in this phase; do not modify English content or the quiz runtime.
+
+CURRICULUM INVENTORY — 30 CODES
+
+LANGUAGE — 10
+- AC9E1LA01
+- AC9E1LA02
+- AC9E1LA03
+- AC9E1LA04
+- AC9E1LA05
+- AC9E1LA06
+- AC9E1LA07
+- AC9E1LA08
+- AC9E1LA09
+- AC9E1LA10
+
+LITERATURE — 5
+- AC9E1LE01
+- AC9E1LE02
+- AC9E1LE03
+- AC9E1LE04
+- AC9E1LE05
+
+LITERACY — 15
+- AC9E1LY01
+- AC9E1LY02
+- AC9E1LY03
+- AC9E1LY04
+- AC9E1LY05
+- AC9E1LY06
+- AC9E1LY07
+- AC9E1LY08
+- AC9E1LY09
+- AC9E1LY10
+- AC9E1LY11
+- AC9E1LY12
+- AC9E1LY13
+- AC9E1LY14
+- AC9E1LY15
+
+REPOSITORY INVENTORY CHECK
+- All 30 unique Year 1 English code routes are present in the existing year1/english and quiz/year-1/english inventories on main.
+- Existing pages and banks are evidence to inspect, not proof that a code is authoring-ready or currently content-verified.
+- No existing Year1_English_Curriculum_Research_Master.txt was found before this inventory was created.
+
+CURRENT STATUS
+- 0 of 30 codes independently researched in this master.
+- First research batch: AC9E1LA01–AC9E1LA05.
+- Each code remains PENDING until exact descriptor verification and source comparison are recorded.
