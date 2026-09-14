@@ -445,3 +445,49 @@ CONSISTENCY CHECKS PASSED
 FINAL DECISION
 - YEAR 1 SCIENCE RESEARCH COMPLETE: 10/10 codes AUTHORING-READY.
 - Recommended next phase: re-author in five-code batches using this master and the existing reviewed canonical banks, retaining strong material and filling only verified gaps.
+
+============================================================
+DEFERRED PRODUCT TASK NOTES — RECORDED 2026-09-14
+RESEARCH PHASE ONLY — NOT YET IMPLEMENTED
+============================================================
+
+PURPOSE
+Record agreed requirements for a later Skillr practice-framework task while Year 1 Science research continues. These notes are proposed product requirements, not evidence that the current runtime already supports them.
+
+MATCHING PUZZLES
+- Add a reusable, accessible matching-puzzle interaction for Year 1 Science Practice.
+- Prefer simple tap-to-select and tap-to-match controls suitable for young learners; do not require drag-and-drop as the only input method.
+- Use matching where it measures a genuine curriculum relationship, such as organism → need, habitat feature → need, observation → category, procedure step → position, or scientific word → evidence.
+- Auto-mark the completed set and clearly show which pairs need another attempt.
+- Keep language short, visual load controlled and every relationship unambiguous.
+- Use primarily in Practice; do not allow interaction novelty to distort Test comparability or first-attempt benchmarking.
+
+COLLECT DATA INTERACTION
+- Add a lightweight, reusable Practice interaction in which students record provided observations, sort them into named categories, order them when relevant, and/or build a one-to-one display.
+- Pilot curriculum fit: AC9S1I03 (make and record observations) and AC9S1I04 (sort, order and represent data).
+- Students should work with on-screen observations or teacher-provided/classroom observations. No photo, audio or file uploads are required.
+- Suitable actions include tapping an observation card, choosing a category, placing one observation once, preserving chronological order and checking a display against the source observations.
+- Auto-mark objective parts. Where independent observation or communication cannot be validly measured on-screen, direct the evidence to the worksheet/Classroom View or a parent/teacher completion tick.
+- Avoid unnecessary arithmetic, multi-unit graph keys, long typing and high-storage data collection.
+
+MASTERY, RETAKES AND REPORTING
+- Practice may be repeated without limit.
+- Incorrect Practice questions return only after the learner completes the full current round.
+- Practice is complete and receives its tick only when every question in that strand's Practice bank has been answered correctly: 100% mastery.
+- A learner may retake and eventually achieve 100%.
+- For grades and benchmarking, record only the learner's first Test-attempt result.
+- Later Test retakes are learning opportunities and must not overwrite, replace or improve the recorded first-attempt grade/benchmark.
+- The interface must distinguish clearly between Practice mastery, the recorded first Test result and later retake performance.
+
+RESEARCH QUESTIONS BEFORE IMPLEMENTATION
+- Compare how IXL, Khan Academy and relevant free primary-science resources structure matching, observation recording, sorting and one-to-one data displays for early learners.
+- Record which interactions are directly observed, which are inferred from public descriptions and which have no source match.
+- Check accessibility for keyboard, touch and screen readers; include a non-drag alternative.
+- Check whether feedback is immediate or round-based, how incomplete matches are handled, and whether retakes alter reported progress.
+- Map each proposed interaction to the exact Year 1 Science descriptor component before authoring.
+- Confirm that the existing Skillr runtime and reporting model can support the requirements without changing current content during the research phase.
+
+IMPLEMENTATION HOLD
+- Do not modify the quiz runtime, question banks, grading, benchmarking or completion-tick behaviour during this research phase.
+- Begin implementation only after the research findings are reviewed and the owner explicitly approves the build task.
+
