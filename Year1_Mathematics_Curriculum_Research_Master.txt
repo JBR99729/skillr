@@ -561,3 +561,308 @@ RESEARCH DECISION
 - The five-code batch remains AUTHORING-READY and is now more robust across explicit teaching, strategy flexibility, rich tasks, diagnostic assessment and explanation.
 - Next pending Year 1 Mathematics code remains AC9M1A02.
 
+
+============================================================
+CODE: AC9M1A02
+DESCRIPTOR: Recognise, continue and create repeating patterns with numbers, symbols, shapes and objects, identifying the repeating unit.
+STATUS: AUTHORING-READY
+============================================================
+
+IXL MAPPINGS
+- Year 1 DD.1–DD.4: introduction to patterns; find the next shape; complete a pattern; make a pattern.
+- DD.5–DD.7 are useful contrast material for distinguishing repeating patterns from growing patterns, but growing-pattern mastery belongs primarily with AC9M1A01.
+- Number-pattern connections also appear in the 0–9 digit cycle across decades and in skip-counting sequences.
+
+KHAN ACADEMY MAPPINGS
+- Khan Grade 1 has no sufficiently direct repeating-pattern strand in the current three-unit course.
+- Measurement/geometry shape materials can supply familiar objects and shape vocabulary, but not the repeating-unit concept itself. No false direct Khan alignment is claimed.
+
+AUTHENTIC EVIDENCE OBSERVED
+- IXL DD.3 presented a visual AB pattern with two blanks at the end and movable shape cards.
+- The worked explanation first isolated the shortest repeating block, stated that it repeats, and then used that block to fill both blanks.
+- The interface required ordered construction rather than selecting a single next item, which exposes whether a student understands the whole unit of repeat.
+- IXL progression separates copying/continuing from creating, supporting a move from recognition to production.
+
+FREE / OPEN EVIDENCE
+- Australian Curriculum v9 work samples explicitly retain recognising, continuing and creating patterns and identifying the repeating unit.
+- Mathematics Hub's Year 1 repeating-and-growing-pattern planning tool recommends recognising, copying and continuing patterns in varied contexts and observing patterns in the environment.
+- NRICH Repeating Patterns (ages 5–7) asks students to continue, describe and create triangle patterns and accepts different precise descriptions of the repetition.
+
+REPRESENTATIONS REQUIRED
+- Colours, symbols, shapes, objects, actions/sounds and small numbers.
+- Linear strips, circular/border patterns and grids, with the start point varied.
+- AB, AAB, ABB, ABC and more complex but age-appropriate units; do not restrict the bank to alternating pairs.
+- Same structural pattern translated across contexts, such as clap-clap-stamp and red-red-blue.
+
+QUESTION TYPES AND PROGRESSION
+- Recognise whether a sequence repeats.
+- Select or mark the complete repeating unit, including when more than one cycle is shown.
+- Continue one or several positions; fill a missing item inside the pattern, not only at its end.
+- Repair one incorrect item and explain the rule.
+- Match two patterns with the same structure but different materials.
+- Create a pattern from a stated unit or condition and verify that it repeats.
+- Distinguish a repeating pattern from a growing pattern.
+
+MISCONCEPTIONS / DISTRACTORS
+- Naming the whole displayed sequence instead of the shortest repeating unit.
+- Treating any visually attractive arrangement as a repeating pattern.
+- Continuing only the most recent item rather than the unit.
+- Assuming every pattern is AB.
+- Restarting the unit at the wrong position after an internal blank.
+- Confusing a growing sequence with a repeating one.
+
+AUTHORING COVERAGE DECISION
+- Sufficient for a full topic page, Classroom View, worksheet, 48 practice questions and 16 separate test questions.
+- At least one quarter of the bank should assess the unit of repeat directly; creation and error-analysis tasks must be included.
+
+SOURCE REFERENCES
+- IXL Australia Year 1 DD.1–DD.7; live review of DD.3 on 2026-09-14.
+- Australian Curriculum v9 AC9M1A02 work samples.
+- Mathematics Hub, Repeating and growing patterns: Year 1 planning tool.
+- NRICH, Repeating Patterns, ages 5–7.
+
+============================================================
+CODE: AC9M1M01
+DESCRIPTOR: Compare directly and indirectly and order objects and events using attributes of length, mass, capacity and duration, communicating reasoning.
+STATUS: AUTHORING-READY
+============================================================
+
+IXL MAPPINGS
+- Y.1–Y.8: long/short, tall/short, order length/height, indirect comparison, wide/narrow, light/heavy, holds more/less, and mixed size/weight/capacity comparisons.
+- Z and AA provide event order and familiar duration contexts, but formal clock reading is not required by this descriptor.
+
+KHAN ACADEMY MAPPINGS
+- Grade 1 Unit 3, Length and size: Ordering by length and Indirect measurement exercises plus an ordering video.
+- Khan supports transitive comparison and ordering by a shared reference. Mass, capacity and duration require other sources.
+
+AUTHENTIC EVIDENCE OBSERVED
+- IXL organises the learning sequence by attribute before mixing attributes, which helps diagnose whether students select the relevant property.
+- Direct comparison precedes ordering three or more objects and indirect comparison.
+- Khan separates visible ordering from indirect measurement, reinforcing that a common intermediary is needed when objects cannot be placed together.
+- Both platforms use pictures heavily; authored questions must also check verbal reasoning so students do not rely on visual guessing alone.
+
+FREE / OPEN EVIDENCE
+- Mathematics Hub's AC9M1M01 planning tool explicitly covers direct and indirect comparison of length, mass, capacity and duration; it recommends an intermediary such as string and comparative language for ordering three or more items.
+- NRICH Sizing Them Up (ages 5–7) is useful for asking students to decide what "size" means and justify an ordering, showing why the attribute must be named.
+
+REPRESENTATIONS REQUIRED
+- Side-by-side and aligned objects; balance scales; equal and unequal containers; event cards/timelines.
+- Indirect comparators: string, strip, balance reference object, identical cups or a benchmark event.
+- Realistic cases where perceptual appearance conflicts with the target attribute.
+
+QUESTION TYPES AND PROGRESSION
+- Identify the attribute being compared and use correct comparative language.
+- Directly compare two items, then order three or more.
+- Choose a valid tool/intermediary for objects that cannot be compared side by side.
+- Use two comparison facts to infer a third: if A is longer than B and B longer than C, order them.
+- Compare duration of familiar events without requiring exact clock calculation.
+- Explain and critique an ordering method; detect when different attributes have been mixed.
+
+MISCONCEPTIONS / DISTRACTORS
+- Bigger-looking means heavier, longer or greater capacity.
+- Taller containers always hold more.
+- Comparing objects from unaligned starting points.
+- Treating mass and size as interchangeable.
+- Assuming an event mentioned first lasts longer.
+- Using different intermediary units or changing the comparison attribute midway.
+
+AUTHORING COVERAGE DECISION
+- Authoring-ready across all four attributes.
+- Balance the bank so length does not crowd out mass, capacity and duration; include direct, indirect, ordering and reasoning tasks.
+
+SOURCE REFERENCES
+- IXL Australia Year 1 Y.1–Y.8.
+- Khan Academy Grade 1 Unit 3, Length and size.
+- Mathematics Hub, Direct and indirect comparisons: Year 1 planning tool.
+- NRICH, Sizing Them Up, ages 5–7.
+
+============================================================
+CODE: AC9M1M02
+DESCRIPTOR: Measure the length of shapes and objects using uniform informal units, recognising that units need to be uniform and used end to end.
+STATUS: AUTHORING-READY
+============================================================
+
+IXL MAPPINGS
+- Y.9–Y.11: measure length with objects; build cube models to measure length and height.
+- Y.13–Y.15 use centimetres and metric-unit selection and therefore sit beyond the core of AC9M1M02; they may inform future progression but must not define mastery here.
+
+KHAN ACADEMY MAPPINGS
+- Grade 1 Unit 3, Length and size: Measure lengths 1 and the Golden Statue measurement video.
+- The course sequence links ordering, indirect comparison and iterated equal units.
+
+AUTHENTIC EVIDENCE OBSERVED
+- IXL uses countable repeated objects/cubes as units, linking the endpoint of a tiled row to the numerical measurement.
+- The visual tasks make gaps, overlaps and mismatched unit sizes available as strong diagnostic distractors.
+- Khan's sequence positions measurement after direct and indirect comparison, supporting the conceptual progression from "longer" to "how many equal units long."
+- Formal centimetre skills are visibly available on IXL but are intentionally excluded from this code's mastery boundary.
+
+FREE / OPEN EVIDENCE
+- Mathematics Hub states that informal units such as equal paperclips, popsticks or counters should be the same size and placed end to end, and that the same-sized unit is necessary for comparison.
+- NSW Department of Education's Teaching Measurement resource distinguishes identifying the attribute, informal measurement and repeating a single unit; it emphasises unit iteration, estimation, recording and questioning.
+- NRICH Same Length Trains (ages 5–7) provides a rich comparison of equal total lengths made from different component rods, useful as extension without requiring formal units.
+
+REPRESENTATIONS REQUIRED
+- Rows of identical paperclips, cubes, counters, popsticks, handspans or footsteps.
+- Pre-tiled units and a single movable unit to test iteration.
+- Horizontal, vertical, curved-looking and rotated objects, while measuring the relevant straight span.
+- Correct and flawed measurement diagrams with visible gaps, overlaps or unequal units.
+
+QUESTION TYPES AND PROGRESSION
+- Choose an appropriate informal unit and estimate the count.
+- Count equal units already placed correctly.
+- Identify and repair gaps, overlaps, unequal units and misaligned endpoints.
+- Measure by iterating one unit and marking endpoints.
+- Compare two lengths only when the same unit is used, or explain why counts from different units cannot be compared directly.
+- Construct/draw an object of a specified informal-unit length.
+- Reason that smaller units generally produce a larger numerical count for the same length.
+
+MISCONCEPTIONS / DISTRACTORS
+- Counting boundary marks instead of spaces/units.
+- Starting away from the object's endpoint.
+- Leaving gaps or overlapping units.
+- Mixing unit sizes.
+- Believing a larger number always means a longer object even when units differ.
+- Measuring around an object when the question asks for length across it.
+
+AUTHORING COVERAGE DECISION
+- Authoring-ready with strong procedural and conceptual depth.
+- Questions must assess uniformity and end-to-end placement explicitly, not only counting prepared unit rows.
+
+SOURCE REFERENCES
+- IXL Australia Year 1 Y.9–Y.11; live review of Y.9 on 2026-09-14.
+- Khan Academy Grade 1 Unit 3, Measure lengths 1 and related instruction.
+- Mathematics Hub, Informal units: Year 1 planning tool.
+- NSW Department of Education, Teaching Measurement: Early Stage 1–Stage 1.
+- NRICH, Same Length Trains, ages 5–7.
+
+============================================================
+CODE: AC9M1M03
+DESCRIPTOR: Compare sequences and cycles of events and describe their duration using familiar units of time including years, months, weeks, days and hours.
+STATUS: AUTHORING-READY
+============================================================
+
+IXL MAPPINGS
+- AA.1–AA.4: days of the week, months of the year, seasons and reading a calendar.
+- Z.8 Times of everyday events and Z.9 Compare clocks provide contextual support.
+- Z.1–Z.7 formal analogue/digital clock reading and a.m./p.m. are useful extension/progression but are not the central mastery target for this descriptor.
+
+KHAN ACADEMY MAPPINGS
+- Grade 1 Unit 3 includes telling time to the hour and half-hour.
+- This is narrower and more clock-reading focused than AC9M1M03, so it is supporting evidence only. Khan does not supply the required breadth across years, months, weeks, days and event cycles.
+
+AUTHENTIC EVIDENCE OBSERVED
+- IXL separates ordered time vocabulary (days, months, seasons) from calendar lookup, enabling staged teaching.
+- Calendar tasks connect recurring seven-day weeks and variable month layouts.
+- Everyday-event items can test plausible duration and sequence without arithmetic on clocks.
+- The difference between cyclical order ("after Sunday comes Monday") and elapsed duration must be explicit in authored content.
+
+FREE / OPEN EVIDENCE
+- Mathematics Hub's Year 1 Time and duration planning tool recommends weekly timetables, calendars, the cyclic nature of months/years, familiar events matched to an hour/day/month/year, and estimation of task duration.
+- It identifies common misconceptions: knowing unit names without understanding their duration, misordering months, assuming all months have the same number of days, or that each month begins on the same weekday.
+- Scootle's free early-years time teacher guide provides background on intervals, timelines and timetables.
+
+REPRESENTATIONS REQUIRED
+- Daily routines, weekly timetables, monthly calendars, seasonal/year cycles and simple event timelines.
+- Familiar events whose duration is clearly closest to hours, days, weeks, months or years.
+- Both linear sequence models and circular cycle models.
+
+QUESTION TYPES AND PROGRESSION
+- Order parts of a familiar routine and name before/after.
+- Continue days, months and seasons across the cycle boundary.
+- Match events to sensible duration units and compare which lasts longer.
+- Use a calendar to locate a date, determine weekday sequence or count a small whole number of days/weeks.
+- Distinguish start order from duration.
+- Explain why a calendar pattern repeats and identify what varies between months.
+- Diagnose impossible duration claims.
+
+MISCONCEPTIONS / DISTRACTORS
+- Confusing sequence with duration.
+- Treating a month as shorter than a week because the word is encountered less often.
+- Thinking the week stops after Sunday or the year stops after December.
+- Assuming all months have equal days or identical weekday layout.
+- Selecting minutes/seconds when the descriptor calls for familiar larger units.
+- Importing clock-reading difficulty into a task intended to assess event duration.
+
+AUTHORING COVERAGE DECISION
+- Authoring-ready across cycles, sequence, calendar use and duration.
+- Do not let clock-face questions dominate; mastery evidence must cover years, months, weeks, days and hours.
+
+SOURCE REFERENCES
+- IXL Australia Year 1 Z.8–Z.9 and AA.1–AA.4.
+- Khan Academy Grade 1 Unit 3 Time, used as supporting progression only.
+- Mathematics Hub, Time and duration: Year 1 planning tool.
+- Scootle, TIMES Module 3: Measurement and Geometry — time teacher guide.
+
+============================================================
+CODE: AC9M1SP01
+DESCRIPTOR: Make, compare and classify familiar shapes; recognise familiar shapes and objects in the environment, identifying the similarities and differences between them.
+STATUS: AUTHORING-READY
+============================================================
+
+IXL MAPPINGS
+- EE.1–EE.14: name/select 2D shapes, real-world examples, count and compare sides/vertices, sort, identify square corners/equal sides, describe/compare attributes, explain identification and compose shapes.
+- FF.1–FF.13: distinguish 2D/3D, name/select 3D objects, identify faces and attributes, sort, compose and recognise real-world objects.
+- The descriptor requires both making and classifying, so naming-only coverage is insufficient.
+
+KHAN ACADEMY MAPPINGS
+- Grade 1 Unit 3 Shapes: Cousin Fal's shape collection, Recognizing shapes and Name shapes 3/attributes of shapes.
+- Khan supports identification using sides/corners and recognition despite changes in size or orientation. Composition and 3D/environment coverage need IXL and open sources.
+
+AUTHENTIC EVIDENCE OBSERVED
+- IXL's progression moves from naming and selecting to attribute comparison, explanation and composition.
+- Sorting tasks build classification from properties rather than appearance alone.
+- Real-world tasks connect abstract shapes and solid objects to the environment.
+- Khan's unit groups recognition and attribute language, helping prevent prototype-only identification.
+- Both sources justify including non-standard orientations, varied proportions and distractors sharing some—but not all—properties.
+
+FREE / OPEN EVIDENCE
+- Australian Curriculum v9 Year 1 work samples include making an equilateral triangle, recognising the shape and applying pattern knowledge.
+- Mathematics Hub's Year 1 Shapes and objects planning tool recommends physical sorting, explicit properties, comparing rectangles and squares, making shapes on geoboards and conducting an environmental shape hunt.
+- Victorian ARC's Exploring 2D faces of 3D objects asks students to draw, describe and compare faces of solid objects.
+- NRICH Data Shapes (ages 5–7) introduces overlapping classification rules, revealing that one item may belong to more than one group.
+
+REPRESENTATIONS REQUIRED
+- 2D shapes: circle, triangle, square, rectangle and oval, plus varied/non-prototypical examples.
+- Familiar 3D objects such as cube, rectangular prism, sphere, cylinder and cone where developmentally suitable.
+- Cut-outs, pattern blocks, geoboards, construction pieces, traced faces and real-world photographs.
+- Attribute tables, sorting hoops and simple overlapping categories.
+
+QUESTION TYPES AND PROGRESSION
+- Recognise/name shapes and objects in varied orientations and sizes.
+- Count/describe sides, corners/vertices, straight/curved boundaries and faces.
+- Compare two shapes: same and different.
+- Sort by a stated property; infer or explain an unknown sorting rule.
+- Identify items satisfying two properties.
+- Make/compose a named shape in more than one way and identify shapes within a composite.
+- Match environmental objects to shapes/solids and explain which property supports the match.
+- Reject a near-example and correct the reasoning.
+
+MISCONCEPTIONS / DISTRACTORS
+- A rotated square is "a diamond" and no longer a square.
+- Rectangles must be long; squares are not rectangles.
+- Shape name depends on colour, size or orientation.
+- Any three-sided-looking open figure is a triangle.
+- Confusing a 2D shape with a 3D object or a face with the whole object.
+- Classifying by one visual cue while ignoring the stated attribute.
+- Believing categories cannot overlap.
+
+AUTHORING COVERAGE DECISION
+- Authoring-ready across making, comparing, classifying and environmental recognition.
+- The bank must mix 2D and familiar 3D contexts and include construction, comparison and explanation—not 48 naming variants.
+
+SOURCE REFERENCES
+- IXL Australia Year 1 EE.1–EE.14 and FF.1–FF.13; live review of EE.6 on 2026-09-14.
+- Khan Academy Grade 1 Unit 3 Shapes.
+- Australian Curriculum v9 Year 1 work samples.
+- Mathematics Hub, Shapes and objects: Year 1 planning tool.
+- Victorian ARC, Exploring 2D faces of 3D objects — Level 1.
+- NRICH, Data Shapes, ages 5–7.
+
+============================================================
+BATCH CHECKPOINT — 2026-09-14 (SECOND FIVE-CODE BATCH)
+============================================================
+- Newly completed: AC9M1A02, AC9M1M01, AC9M1M02, AC9M1M03, AC9M1SP01.
+- Previously authoring-ready: AC9M1N01–AC9M1N06 and AC9M1A01.
+- Total authoring-ready: 12 of 16 Year 1 Mathematics codes.
+- Remaining: AC9M1SP02, AC9M1ST01, AC9M1ST02, plus final inventory/consistency verification.
+- Research combines authenticated IXL/Khan review with selected free/open sources. Source wording is not to be copied into SkillrHub.
