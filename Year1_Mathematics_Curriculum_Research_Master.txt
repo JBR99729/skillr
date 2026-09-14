@@ -8,7 +8,7 @@ PURPOSE
 This cumulative master records sufficient original, abstracted pedagogical evidence for later creation of a Topic Page, HTML Classroom View, Homework/Worksheet, 48 Practice questions and 16 genuinely separate Test questions for every Year 1 Mathematics code. Source-specific questions are not copied.
 
 CURRICULUM INVENTORY (16 codes)
-AC9M1N01–AC9M1N06; AC9M1A01–AC9M1A02; AC9M1M01–AC9M1M03; AC9M1SP01–AC9M1SP02; AC9M1ST01–AC9M1ST02.
+AC9M1N01–AC9M1N06; AC9M1A01–AC9M1A02; AC9M1M01–AC9M1M03; AC9M1SP01–AC9M1SP02; AC9M1ST01–AC9M1ST02; AC9M1P01.
 
 ============================================================
 CODE: AC9M1N01
@@ -866,3 +866,262 @@ BATCH CHECKPOINT — 2026-09-14 (SECOND FIVE-CODE BATCH)
 - Total authoring-ready: 12 of 16 Year 1 Mathematics codes.
 - Remaining: AC9M1SP02, AC9M1ST01, AC9M1ST02, plus final inventory/consistency verification.
 - Research combines authenticated IXL/Khan review with selected free/open sources. Source wording is not to be copied into SkillrHub.
+
+============================================================
+CODE: AC9M1SP02
+DESCRIPTOR: Give and follow directions to move people and objects to different locations within a space.
+STATUS: AUTHORING-READY
+============================================================
+
+IXL MAPPINGS
+- Year 1 GG Positions: left/middle/right; top/middle/bottom; above/below; beside/next to; and location in a grid.
+- GG.5 Location in a grid provides positional endpoints but must be extended into movement instructions to satisfy the Australian descriptor fully.
+
+KHAN ACADEMY MAPPINGS
+- No direct Grade 1 course unit for giving and following movement directions was found.
+- Khan geometry materials support shape/object vocabulary only; no direct mapping is claimed.
+
+AUTHENTIC EVIDENCE OBSERVED
+- IXL GG.5 displayed a 3 × 3 grid of familiar shapes and asked the learner to select an item at a named location such as top left.
+- Prerequisite links explicitly separate horizontal language (left, middle, right) and vertical language (top, middle, bottom).
+- This supports grid orientation and destination recognition, but authoring must add routes, turns and ordered multi-step directions.
+
+FREE / OPEN EVIDENCE
+- Australian Curriculum v9 and Scootle elaborations require interpreting, following and giving directions within a space.
+- Mathematics Hub's Year 1 Position and location planning tool recommends directions to and from places involving turns, direction and movement, alongside positional language.
+- Physical classroom routes and simple maps provide more valid evidence than static grid-location questions alone.
+
+REPRESENTATIONS REQUIRED
+- Real classroom/playground routes, tabletop object movement, simple picture maps, grids and maze paths.
+- Arrows plus oral/written direction words: forward, backward, left, right, turn, beside, between, above/below where appropriate.
+- Start marker, facing direction, destination and obstacles must be visually unambiguous.
+
+QUESTION TYPES AND PROGRESSION
+- Identify an object's position relative to another object.
+- Follow one movement instruction from a clear starting orientation.
+- Follow two- to four-step routes and identify the endpoint.
+- Choose the correct instruction sequence for a shown route.
+- Give directions from start to destination using ordered language.
+- Detect and repair an incorrect step.
+- Compare two valid routes and recognise that different routes may reach the same location.
+- Reverse a simple route with correct turns/order.
+
+MISCONCEPTIONS / DISTRACTORS
+- Treating left/right as fixed on the page rather than relative to the traveller's facing direction.
+- Ignoring the stated start point or orientation.
+- Performing steps in the wrong order.
+- Confusing a turn with a move.
+- Describing where an object is without giving a route.
+- Swapping top/bottom or row/column location.
+- Assuming only one valid route can exist.
+
+AUTHORING COVERAGE DECISION
+- Authoring-ready when IXL positional evidence is combined with explicit route/direction tasks.
+- Static location questions should be a minority; most mastery evidence must involve giving or following movement directions.
+
+SOURCE REFERENCES
+- IXL Australia Year 1 GG Positions; live review of GG.5 on 2026-09-14.
+- Australian Curriculum v9 AC9M1SP02.
+- Mathematics Hub, Position and location: Year 1 planning tool.
+- Scootle, Mathematics Year 1 Space resources.
+
+============================================================
+CODE: AC9M1ST01
+DESCRIPTOR: Acquire and record data for categorical variables in various ways including using digital tools, objects, images, drawings, lists, tally marks and symbols.
+STATUS: AUTHORING-READY
+============================================================
+
+IXL MAPPINGS
+- CC.1–CC.10 collectively support matching collections to picture graphs, constructing picture graphs, tallying, recording tables and translating between displays.
+- The acquisition step must be authored explicitly because many platform questions begin with already-collected data.
+
+KHAN ACADEMY MAPPINGS
+- Grade 1 Unit 3 includes bar-graph examples and problem solving.
+- These help with organised recording but do not fully cover learner-generated questions, collection methods, tallies and varied recording forms.
+
+AUTHENTIC EVIDENCE OBSERVED
+- IXL progression moves from selecting a correct picture display to building one, interpreting it, using symbols, tally marks and tables, and showing the same data in different ways.
+- CC.2 uses one picture per observation, supporting concrete one-to-one recording.
+- CC.10 explicitly links picture graphs, tally charts and tables, making translation between representations visible.
+- Authored content must begin earlier in the data cycle: pose a categorical question, decide categories, observe/ask, and record each response once.
+
+FREE / OPEN EVIDENCE
+- Mathematics Hub's Year 1 Acquire, record and represent data planning tool recommends creating, interpreting and discussing one-to-one displays using categorical data.
+- Australian Curriculum wording requires varied recording methods, including digital tools where appropriate.
+- Everyday class questions such as favourite fruit, transport to school or object colour provide meaningful categorical variables without introducing numerical measurement data.
+
+REPRESENTATIONS REQUIRED
+- Real objects sorted into groups; image cards; drawings; lists; tally marks; symbols; simple tables; digital drag-and-drop or selection.
+- Categories must be mutually understandable, with an explicit rule for ambiguous responses.
+- Small datasets suitable for one-to-one checking.
+
+QUESTION TYPES AND PROGRESSION
+- Identify a categorical question that can be answered by observation or asking.
+- Decide sensible categories and classify each response once.
+- Collect from a shown scene, survey or short list.
+- Record observations with objects, images, lists, tallies, symbols or a digital tool.
+- Complete a partially recorded dataset and identify omitted/duplicated entries.
+- Choose the recording method that best preserves every response.
+- Explain why a recording is incomplete or categories are unclear.
+
+MISCONCEPTIONS / DISTRACTORS
+- Counting an item in more than one category without a stated multi-response rule.
+- Missing or duplicating observations.
+- Using tally groups incorrectly.
+- Treating category labels as data values.
+- Asking a numerical-measurement question when categorical data are required.
+- Changing category definitions during collection.
+- Assuming a neat graph proves the source data were recorded accurately.
+
+AUTHORING COVERAGE DECISION
+- Authoring-ready across question formulation, acquisition and varied recording.
+- At least half the bank should assess collection/recording decisions rather than graph reading, which belongs mainly to ST02.
+
+SOURCE REFERENCES
+- IXL Australia Year 1 CC.1–CC.10; live review of CC.2 and CC.10 on 2026-09-14.
+- Khan Academy Grade 1 Unit 3 bar-graph materials, supporting only.
+- Australian Curriculum v9 AC9M1ST01.
+- Mathematics Hub, Acquire, record and represent data: Year 1 planning tool.
+
+============================================================
+CODE: AC9M1ST02
+DESCRIPTOR: Represent collected data for a categorical variable using one-to-one displays and digital tools where appropriate; compare data using frequencies and discuss findings.
+STATUS: AUTHORING-READY
+============================================================
+
+IXL MAPPINGS
+- CC.1–CC.4: identify, make and interpret picture graphs using pictures or symbols.
+- CC.5–CC.10: tally marks, tally charts, tables and representing the same data in different ways.
+- CC.11–CC.13 bar graphs are useful extension, but the required Year 1 core is one-to-one display and frequency comparison.
+
+KHAN ACADEMY MAPPINGS
+- Grade 1 Unit 3 includes reading bar graphs and solving simple graph problems.
+- Useful for comparison language and frequency questions; authored mastery should remain anchored in one symbol = one data value unless a key explicitly says otherwise.
+
+AUTHENTIC EVIDENCE OBSERVED
+- IXL makes learners select/build displays, not only answer questions about completed graphs.
+- The progression connects raw categories, one-to-one pictures, tallies and tables.
+- Interpretation links category frequency to most, least, same, how many and simple differences.
+- CC.10 supports checking whether two visually different representations preserve the same frequencies.
+
+FREE / OPEN EVIDENCE
+- Mathematics Hub recommends creating, interpreting and discussing one-to-one categorical displays.
+- The curriculum explicitly requires comparison using frequencies and discussion of findings, so an accurate display alone is not sufficient.
+- Digital tools are optional and appropriate only where they preserve the one-to-one relationship and category labels clearly.
+
+REPRESENTATIONS REQUIRED
+- Object graphs, picture graphs/pictographs with one picture per response, tally displays and simple tables.
+- Horizontal and vertical layouts; categories in different orders; zero-frequency categories where meaningful.
+- Equivalent displays of the same dataset.
+
+QUESTION TYPES AND PROGRESSION
+- Build or complete a one-to-one display from collected data.
+- Match a dataset to the only accurate display.
+- Read category frequencies and total number of observations.
+- Compare most/least/equal and quantify a simple difference.
+- State a supported finding and reject a claim not supported by the display.
+- Compare two equivalent representations and locate a representation error.
+- Add one new response and update the relevant frequency/display.
+
+MISCONCEPTIONS / DISTRACTORS
+- Counting labels, grid lines or decorative pictures as data.
+- Ignoring a category with zero observations.
+- Treating one symbol as more than one value without a key.
+- Comparing the physical height/size of pictures rather than frequency.
+- Confusing category order with frequency order.
+- Making claims about causes or preferences beyond what the collected data show.
+- Forgetting to update totals when a response is added.
+
+AUTHORING COVERAGE DECISION
+- Authoring-ready across construction, frequency comparison and discussion.
+- Include short-answer or selectable evidence statements so "discuss findings" is genuinely assessed, while retaining objective marking.
+
+SOURCE REFERENCES
+- IXL Australia Year 1 CC.1–CC.13; live review of CC.9–CC.10 on 2026-09-14.
+- Khan Academy Grade 1 Unit 3 bar-graph examples and exercises.
+- Australian Curriculum v9 AC9M1ST02.
+- Mathematics Hub, Acquire, record and represent data: Year 1 planning tool.
+
+============================================================
+CODE: AC9M1P01
+DESCRIPTOR: Identify outcomes of familiar events involving chance and describe them using everyday language such as "will happen", "won't happen" or "might happen".
+STATUS: AUTHORING-READY
+============================================================
+
+INVENTORY CORRECTION
+- AC9M1P01 was absent from the original typed inventory even though the master stated 16 codes.
+- It is a genuine Year 1 Australian Curriculum v9 Mathematics code and is included here so the full 16-code year level is complete.
+
+IXL MAPPINGS
+- JJ.1 More, less and equally likely.
+- JJ.2 Certain, probable, unlikely and impossible.
+- IXL terminology is useful supporting vocabulary, but authored core questions should foreground the curriculum's everyday language: will, won't and might happen.
+
+KHAN ACADEMY MAPPINGS
+- No direct probability unit appears in the current Khan Grade 1 three-unit course.
+- No false Khan alignment is claimed.
+
+AUTHENTIC EVIDENCE OBSERVED
+- IXL JJ.2 showed a bag/collection of coloured marbles and asked how likely a named colour was when selecting without looking.
+- The worked explanation inspected whether any target-colour outcomes existed, then concluded "impossible."
+- Answer choices span certain, probable, unlikely and impossible, enabling distribution-based reasoning as well as possibility.
+- The Australian descriptor is simpler: identify possible outcomes and use everyday chance language in familiar events.
+
+FREE / OPEN EVIDENCE
+- Australian Curriculum v9 elaboration suggests sorting familiar-event cards by whether events could, will or won't happen tomorrow and justifying decisions.
+- The elaboration stresses that chance language describes familiar outcomes, not guaranteed predictions about uncertain events.
+- Hands-on spinners, bags and simple games are useful when all possible outcomes are visible and small in number.
+
+REPRESENTATIONS REQUIRED
+- Familiar daily events; weather/event cards with enough context; bags of coloured counters; simple spinners and picture dice.
+- Clearly visible possible outcomes and unambiguous conditions.
+
+QUESTION TYPES AND PROGRESSION
+- List or select possible outcomes of a simple event.
+- Classify a familiar event as will, won't or might happen.
+- Match certain/impossible to "will/won't" and possible-but-uncertain to "might."
+- Compare simple outcomes as more, less or equally likely as enrichment.
+- Change the contents of a bag/spinner to make an outcome will, won't or might happen.
+- Explain a classification using the available outcomes.
+- Identify a claim that confuses possibility with certainty.
+
+MISCONCEPTIONS / DISTRACTORS
+- "Possible" means it will happen next.
+- A preferred outcome is more likely.
+- An outcome that did not happen last time cannot happen next.
+- One target item makes an event certain.
+- Impossible and unlikely mean the same thing.
+- Assuming hidden information not supplied by the scenario.
+
+AUTHORING COVERAGE DECISION
+- Authoring-ready, with core assessment centred on outcomes and everyday chance language.
+- Formal numerical probability, fractions and long-run experimental frequency are out of scope.
+
+SOURCE REFERENCES
+- IXL Australia Year 1 JJ.1–JJ.2; live review of JJ.2 on 2026-09-14.
+- Australian Curriculum v9 AC9M1P01 and elaborations.
+
+============================================================
+FINAL YEAR 1 MATHEMATICS RESEARCH AUDIT — 2026-09-14
+============================================================
+
+COMPLETE INVENTORY — 16 OF 16 AUTHORING-READY
+- Number: AC9M1N01, AC9M1N02, AC9M1N03, AC9M1N04, AC9M1N05, AC9M1N06.
+- Algebra: AC9M1A01, AC9M1A02.
+- Measurement: AC9M1M01, AC9M1M02, AC9M1M03.
+- Space: AC9M1SP01, AC9M1SP02.
+- Statistics: AC9M1ST01, AC9M1ST02.
+- Probability: AC9M1P01.
+
+CONSISTENCY CHECKS PASSED
+- Every Year 1 Mathematics v9 code is represented once as an authoring-ready research section.
+- Each code has a curriculum boundary, mappings, representations, question progression, misconceptions and an authoring decision.
+- IXL and Khan mappings are labelled honestly; gaps are supplemented with authoritative free/open resources rather than forced mappings.
+- Formal or later-year material seen on platforms is marked as extension/out of core scope.
+- Research is sufficient to create each topic page, HTML Classroom View, worksheet/homework, 48-question Practice Bank and 16 genuinely separate Test questions.
+- Source-specific wording must not be copied. All SkillrHub questions and teaching explanations must be newly authored.
+- Product assessment rule remains unchanged: practice may be repeated without limit until 100%; incorrect questions repeat only after the full round; the completion tick appears only at 100%; only the first test attempt is recorded for grades/benchmarking, although retakes remain available for learning.
+
+FINAL DECISION
+- YEAR 1 MATHEMATICS RESEARCH COMPLETE: 16/16 codes AUTHORING-READY.
+- Next recommended production phase: re-author in five-code batches using this master as the controlling research source.
