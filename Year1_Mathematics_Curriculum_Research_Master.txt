@@ -1,6 +1,6 @@
 SKILLRHUB YEAR 1 MATHEMATICS — CURRICULUM RESEARCH MASTER
 Australian Curriculum v9
-Sources restricted to IXL Australia and Khan Academy
+Core platform sources: IXL Australia and Khan Academy; strengthened with selected free/open teaching resources
 Research only — no SkillrHub authoring
 Started: 2026-09-13
 
@@ -474,4 +474,90 @@ BATCH CHECKPOINT — 2026-09-14
 - Total authoring-ready: 7 of 16 Year 1 Mathematics codes.
 - Next pending code: AC9M1A02.
 - Research remains source-based and pedagogical; no IXL or Khan wording is to be copied into SkillrHub.
+
+
+============================================================
+FREE / OPEN-SOURCE ENRICHMENT — 2026-09-14
+CODES: AC9M1N03, AC9M1N04, AC9M1N05, AC9M1N06, AC9M1A01
+============================================================
+
+PURPOSE AND SOURCE RULE
+- This supplement strengthens the five-code batch with free, publicly accessible pedagogy from Australian government-supported and established nonprofit/university resources.
+- Sources inform task architecture, representations, diagnostic prompts and misconceptions only. No source question wording should be copied.
+- The Australian Curriculum v9 descriptor remains the authority for scope. Overseas resources are used only where the mathematics matches that descriptor and Year 1 developmental level.
+
+AC9M1N03 — QUANTIFYING, COUNTING AND GROUPING COLLECTIONS
+Additional evidence
+- The Australian Mathematics Hub's Year 1 number-sequence planning guidance supports counting collections using structured skip-counting and recording the count, then noticing how the counted numbers form a pattern.
+New authoring implications
+- Include tasks in which students choose an efficient organisation before counting: loose objects, rows, pairs, fives or tens.
+- Require the student to connect the physical grouping, the spoken count sequence and the recorded numeral.
+- Add "Which arrangement is easiest to count, and why?" and error-analysis items, not only final-total items.
+- Preserve Year 1 scope: flexible counting and grouping, without requiring formal multiplication notation.
+
+AC9M1N04 — ADDITIVE STRATEGIES
+Additional evidence
+- Illustrative Mathematics Grade 1 Operations and Algebraic Thinking identifies a broad, coherent strategy set within 20: counting on, making ten, decomposing through ten, using addition/subtraction relationships and replacing a calculation with an equivalent easier one.
+- The New Zealand curriculum's free "Addition and subtraction pick n mix" resource reinforces that students can use a range of strategies and that more than one strategy may be equally efficient.
+New authoring implications
+- Mix strategy-selection, representation and explanation questions with computation.
+- Accept multiple mathematically valid methods where the prompt asks how to solve; assess whether the explanation matches the numbers.
+- Include counter models, ten frames, number lines, part-part-whole diagrams and equations, then ask students to translate between them.
+- Distractors should reflect real strategy errors: failing to compensate after making ten, counting the start twice, reversing a subtraction, or changing the total while regrouping.
+
+AC9M1N05 — ADDITION AND SUBTRACTION IN CONTEXT
+Additional evidence
+- Illustrative Mathematics Grade 1 covers add-to, take-from, put-together, take-apart and compare situations, with the unknown in different positions and representations using objects, drawings and equations.
+- Its free compare lesson demonstrates that the same difference-unknown story can be represented by both a subtraction equation and a missing-addend equation.
+New authoring implications
+- Do not let operation keywords determine every answer. Vary story structure and the location of the unknown.
+- Include "Which equation(s) match this story?" items where more than one equation may be valid.
+- Require students to explain what each number and the unknown represent in context.
+- Include story-to-model, model-to-equation, equation-to-story and incorrect-model diagnosis.
+- Benchmark conceptual interpretation as well as calculation accuracy.
+
+AC9M1N06 — EQUAL SHARING AND GROUPING
+Additional evidence
+- Victorian Curriculum ARC's free Level 1 task has students share collections with counters and diagrams, name the equal groups and explain whether a sharing is equal or unequal.
+- NRICH's free Share Bears task for ages 5–7 asks learners to test successive collection sizes, share them equally between two people, record results on a number line or number square, and explain the emerging pattern and leftovers.
+New authoring implications
+- Assess both division meanings informally: a known number of groups with unknown group size, and a known group size with unknown number of groups.
+- Include fair/not-fair classification, construct-a-fair-share, identify leftovers, and justify equality using one-to-one matching.
+- Add low-floor investigation items: test several totals, record which work, predict the next workable total and explain the pattern.
+- Keep formal odd/even terminology optional enrichment; mastery is equal sharing/grouping with concrete or pictorial evidence.
+
+AC9M1A01 — GROWING AND REPEATING PATTERNS
+Additional evidence
+- The Australian Mathematics Hub supports connecting skip-counting, recorded numbers and visible number-chart patterns.
+- NRICH Share Bears shows a productive bridge from repeated equal sharing to marking successful totals and noticing a regular number pattern.
+New authoring implications
+- Go beyond "continue the pattern": ask students to state the repeat or growth rule, locate and repair an error, compare two patterns, and create a pattern satisfying a condition.
+- Link concrete groups, rhythmic/skip counts, number lines and chart markings, while keeping the pattern itself—not computation speed—the assessment focus.
+- Include non-example discrimination: a sequence can look regular locally but fail to follow the stated rule.
+- Use explanation prompts such as "How do you know what comes next?" and "What stays the same; what changes?"
+
+CROSS-CODE QUALITY IMPROVEMENTS
+- Add explain/justify and error-analysis items across the bank, not only answer-selection.
+- Deliberately vary representations and unknown positions so success cannot come from one surface template.
+- Use low-floor/high-ceiling investigations in teaching and practice, while keeping scored items objectively markable.
+- Treat multiple valid strategies as evidence of flexibility; mark the mathematical result and reasoning rather than enforcing one method unless the prompt explicitly targets that method.
+- Maintain strict separation between practice mastery and benchmarking: these research additions do not change the product rule that only the first test attempt is recorded for grades.
+
+FREE SOURCE REFERENCES
+- Australian Mathematics Hub, funded by the Australian Government Department of Education and managed by Education Services Australia: Year 1 planning and number-sequence resources; site materials generally licensed CC BY 4.0 unless otherwise indicated.
+  https://www.mathematicshub.edu.au/
+- Victorian Curriculum and Assessment Authority, Assessment Resource Centre: "Sharing collections into equal groups — Level 1."
+  https://arc.educationapps.vic.gov.au/
+- Illustrative Mathematics task index, Grade 1 Operations and Algebraic Thinking.
+  https://tasks.illustrativemathematics.org/OA
+- Illustrative Mathematics Grade 1, Unit 2, Lesson 14: compare stories represented by addition and subtraction.
+  https://im.kendallhunt.com/k5/teachers/grade-1/unit-2/lesson-14/lesson.html
+- NRICH, University of Cambridge: "Share Bears" (ages 5–7).
+  https://nrich.maths.org/problems/share-bears
+- New Zealand Curriculum, Tāhūrangi: "Addition and subtraction pick n mix."
+  https://newzealandcurriculum.tahurangi.education.govt.nz/
+
+RESEARCH DECISION
+- The five-code batch remains AUTHORING-READY and is now more robust across explicit teaching, strategy flexibility, rich tasks, diagnostic assessment and explanation.
+- Next pending Year 1 Mathematics code remains AC9M1A02.
 
