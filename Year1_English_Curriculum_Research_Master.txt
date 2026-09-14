@@ -295,3 +295,229 @@ BATCH 1 CHECKPOINT — 2026-09-14
 - Next research batch: AC9E1LA06–AC9E1LA10.
 - Research remains frozen from production: no English page, question-bank, runtime, grading or completion behaviour was changed.
 
+============================================================
+BATCH 2 RESEARCH — AC9E1LA06–AC9E1LA10
+Completed: 2026-09-14
+============================================================
+
+SHARED SOURCE CHECK
+- Exact descriptors checked against the Australian Curriculum v9-aligned IXL page and QCAA Prep–Year 6 English content-description sequence.
+- The authenticated IXL Year 1 catalogue, mapped skill pages and opened worked examples were inspected.
+- IXL worked examples inspected for naming/action sentence parts, identifying nouns in sentences, picture-supported feeling, context clues and sentence-purpose punctuation.
+- Khan Academy authenticated search for "first grade nouns punctuation" produced no usable visible early-primary result. Khan is SOURCE-NOT-MAPPED for this batch.
+- Existing Skillr topic pages and bank inventories were checked as repository evidence: every code currently has 24 Practice + 16 separate Test items. Counts are not a substantive item-quality certification.
+
+============================================================
+CODE: AC9E1LA06
+DESCRIPTOR: Understand that a simple sentence consists of a single independent clause representing a single event or idea.
+STATUS: AUTHORING-READY
+============================================================
+
+IXL EVIDENCE AND LIMIT
+- IXL maps "Is it the naming or action part of the sentence?" to this code.
+- The inspected worked example splits a sentence into the participant/topic part and the part that tells what the participant does or is like.
+- This supports identifying who/what and what happens/is, but IXL's child-facing labels do not fully establish independent clause, completeness or the boundary between one event/idea and joined clauses.
+- Direct curriculum-led examples are required for complete sentences, fragments and over-joined ideas.
+
+CURRICULUM DEPTH
+- A simple sentence is one independent clause that can stand as a complete message.
+- Its single event or idea includes a participant (who/what) and a process, happening or state; useful circumstances may add where, when or how without creating another clause.
+- Distinguish a complete clause from fragments that name only a participant or give only an action/detail.
+- Distinguish one expanded simple sentence from two independent ideas incorrectly joined together.
+- Use meaning before terminology: students should build and check complete messages, not memorise a grammar definition alone.
+
+REQUIRED REPRESENTATIONS
+- Sentence/fragment pairs, participant–process cards, sentence-building strips, picture-to-sentence matches and one-idea/two-idea comparisons.
+- Include spoken rehearsal and punctuation without conflating sentence structure with punctuation alone.
+
+MISCONCEPTIONS TO ASSESS
+- Any group of words ending in a full stop is a sentence.
+- A long sentence must contain more than one idea.
+- An action phrase by itself is always complete.
+- Adding "and" always keeps a sentence simple.
+- Every sentence describes a visible action; states such as "is tired" also complete an idea.
+- Capitalisation alone fixes an incomplete clause.
+
+AUTHORING REQUIREMENTS
+- Teach choose the event/idea → name who/what → say what happens/is → check it stands alone.
+- Include recognition, completion, expansion and repair tasks.
+- Classroom/worksheet work must require students to orally compose and independently write complete simple sentences.
+
+SOURCES
+- IXL Australian Curriculum Year 1 mapping: https://au.ixl.com/standards/english/year-1
+- IXL inspected: Is it the naming or action part of the sentence?
+- QCAA Prep–Year 6 English sequence: https://www.qcaa.qld.edu.au/downloads/aciqv9/english/curriculum/ac9_english_p-6_cd_sequence.pdf
+- Australian Curriculum English overview: https://www.australiancurriculum.edu.au/curriculum-information/understand-this-learning-area/english
+
+============================================================
+CODE: AC9E1LA07
+DESCRIPTOR: Understand that words can represent people, places and things (nouns, including pronouns), happenings and states (verbs), qualities (adjectives) and details such as when, where and how (adverbs).
+STATUS: AUTHORING-READY
+============================================================
+
+IXL EVIDENCE AND LIMIT
+- IXL maps multiple noun, agreement, verb and adjective skills to this code, including classifying nouns, selecting nouns, identifying nouns in sentences, common/proper nouns, possessive nouns, subject–verb choices and adjective identification.
+- The inspected noun example required locating one noun in a complete question and classifying nouns as people, animals, places or things.
+- IXL provides strong noun/adjective/action-verb practice, but the descriptor also requires pronouns, verb states and adverbial details of when/where/how. These components must not be underrepresented because fewer directly mapped Year 1 tasks expose them.
+
+CURRICULUM DEPTH
+- Teach word classes through their job in a specific sentence; the same written word may have different jobs in different contexts.
+- Nouns and pronouns represent participants; verbs represent happenings, actions or states; adjectives express qualities; adverbs/adverb groups add when, where or how.
+- Include noun groups and short word groups where age-appropriate rather than implying every function is carried by one isolated word.
+- Show how precise word choices change meaning, not merely how to label terms.
+- Keep formal grammar within Year 1 scope; avoid advanced clause analysis or exhaustive exception rules.
+
+REQUIRED REPRESENTATIONS
+- Word-job cards, highlighted sentences, picture-supported sentence choices, replace-a-word tasks and sentence-expansion models.
+- Include actions and states, concrete and familiar abstract nouns, pronoun reference and details of time/place/manner.
+
+MISCONCEPTIONS TO ASSESS
+- Every noun is a visible object.
+- Every verb is a physical action.
+- Describing words always appear directly before nouns.
+- Any word ending in "-ly" is an adverb and every adverb ends in "-ly."
+- Pronouns do not represent people or things.
+- A word has one fixed class regardless of sentence context.
+
+AUTHORING REQUIREMENTS
+- Use sentence meaning → ask the word's job → identify class → explain its contribution.
+- Balance all descriptor categories rather than overproducing noun questions.
+- Include selecting, sorting, replacing and improving words in meaningful sentences.
+
+SOURCES
+- IXL Australian Curriculum Year 1 mapping: https://au.ixl.com/standards/english/year-1
+- IXL inspected: Identify nouns in a sentence.
+- QCAA Prep–Year 6 English sequence: https://www.qcaa.qld.edu.au/downloads/aciqv9/english/curriculum/ac9_english_p-6_cd_sequence.pdf
+
+============================================================
+CODE: AC9E1LA08
+DESCRIPTOR: Compare how images in different types of texts contribute to meaning.
+STATUS: AUTHORING-READY
+============================================================
+
+IXL EVIDENCE AND LIMIT
+- Direct IXL mapping: "Which feeling matches the picture?"
+- The inspected worked example required combining facial expression, action and situation to infer a character's feeling; audio and detailed image alternative text supported access.
+- IXL strongly models extracting meaning from one narrative-style image, but the descriptor requires comparison across different text types and explaining contribution, not only naming a feeling.
+
+CURRICULUM DEPTH
+- Compare what an image adds, emphasises, clarifies or suggests alongside words.
+- Include narrative illustrations, informative diagrams/photos, signs, posters and simple digital/multimodal texts.
+- Identify information shown only in the image, information repeated by words and image, and cases where the image changes mood or focus.
+- Compare two images of the same subject or two text types to explain different effects.
+- Use works by First Nations Australian authors/illustrators only with accurate attribution and appropriate contextual framing.
+
+REQUIRED REPRESENTATIONS
+- Word–image pairs, alternative covers/illustrations, labelled diagrams, posters, image sequences and same-subject/different-purpose comparisons.
+- Visual questions require equivalent meaningful alt text without revealing the answer.
+
+MISCONCEPTIONS TO ASSESS
+- Images are always decoration.
+- The words and image always communicate identical information.
+- Any feeling inferred from an image is equally supported.
+- A photograph is automatically more truthful or informative than an illustration.
+- One visual detail determines the whole meaning.
+- Image size alone determines importance.
+
+AUTHORING REQUIREMENTS
+- Ask: what do the words say, what does the image show, what meaning comes from combining them, and how would meaning change with another image?
+- Include evidence-based comparison, not preference-only responses.
+- Classroom/worksheet tasks should allow discussion and creation of alternative images for a text.
+
+SOURCES
+- IXL Australian Curriculum Year 1 mapping: https://au.ixl.com/standards/english/year-1
+- IXL inspected: Which feeling matches the picture?
+- Australian Curriculum Year 1 work samples: https://www.australiancurriculum.edu.au/resources/work-samples/english/year-1
+- QCAA Prep–Year 6 English sequence: https://www.qcaa.qld.edu.au/downloads/aciqv9/english/curriculum/ac9_english_p-6_cd_sequence.pdf
+
+============================================================
+CODE: AC9E1LA09
+DESCRIPTOR: Recognise the vocabulary of learning area topics.
+STATUS: AUTHORING-READY
+============================================================
+
+IXL EVIDENCE AND LIMIT
+- IXL maps sorting words into categories, identifying an out-of-category word, related-meaning tasks and using context to identify meaning.
+- The inspected context-clue example used contrast in a sentence to infer an unfamiliar word and explicitly taught nearby-word evidence.
+- These skills support semantic grouping and meaning, but the curriculum focus is vocabulary belonging to school learning areas and its precise use, not generic vocabulary enrichment alone.
+
+CURRICULUM DEPTH
+- Connect a word to a learning topic, explain its relevant meaning and use it accurately in context.
+- Draw examples from age-appropriate English, Mathematics, Science, HASS, Health/PE and Arts learning.
+- Distinguish everyday meanings from topic-specific meanings where useful and accessible.
+- Build networks of related words rather than memorising isolated labels.
+- Vocabulary for an Acknowledgement of Country must be respectful, locally informed and taught without treating a scripted formula as universal.
+
+REQUIRED REPRESENTATIONS
+- Topic/word sorting, labelled images and diagrams, word webs, sentence context, odd-one-out tasks and everyday-versus-topic meaning comparisons.
+- Include audio support for unfamiliar words and pronunciation where appropriate.
+
+MISCONCEPTIONS TO ASSESS
+- A topic word belongs to only one subject forever.
+- Recognising a word is the same as understanding or using it.
+- Any difficult word is scientific/technical vocabulary.
+- Context always gives one obvious meaning.
+- A word's everyday meaning always transfers unchanged to a learning topic.
+- Category membership can be decided by spelling alone.
+
+AUTHORING REQUIREMENTS
+- Teach hear/read → connect to topic → infer/check meaning → use precisely.
+- Assess recognition, grouping, meaning-in-context and application in short speech/writing.
+- Select vocabulary already within Year 1 content boundaries; do not introduce advanced terminology only to make items harder.
+
+SOURCES
+- IXL Australian Curriculum Year 1 mapping: https://au.ixl.com/standards/english/year-1
+- IXL inspected: Use context to identify the meaning of a word.
+- QCAA Prep–Year 6 English sequence: https://www.qcaa.qld.edu.au/downloads/aciqv9/english/curriculum/ac9_english_p-6_cd_sequence.pdf
+- Australian Curriculum English overview: https://www.australiancurriculum.edu.au/curriculum-information/understand-this-learning-area/english
+
+============================================================
+CODE: AC9E1LA10
+DESCRIPTOR: Understand that written language uses punctuation such as full stops, question marks and exclamation marks, and uses capital letters for familiar proper nouns.
+STATUS: AUTHORING-READY
+============================================================
+
+IXL EVIDENCE AND LIMIT
+- IXL maps statement, question, exclamation and command identification; choosing end marks; mixed sentence-purpose classification; and capitalising people/pet names, days/months, sentence starts and "I."
+- The inspected worked example taught four sentence purposes and linked statements to full stops, questions to question marks, exclamations to strong feeling and commands usually to full stops but sometimes exclamation marks.
+- The mapped capitalisation range is broader than the descriptor's familiar proper-noun focus. Authoring must retain the exact Year 1 boundary while using sentence-start capitals as relevant supporting knowledge.
+
+CURRICULUM DEPTH
+- Punctuation marks sentence boundaries and guides meaning, pausing and intonation.
+- Match full stops, question marks and exclamation marks to meaning and purpose, not merely to a cue word.
+- Recognise that commands can end with a full stop or exclamation mark depending on intended strength.
+- Capitalise familiar proper nouns such as names of people, pets, places, days or months where appropriate.
+- Distinguish a proper name from a common noun and avoid teaching that every important word receives a capital.
+
+REQUIRED REPRESENTATIONS
+- Unpunctuated sentences, speech/read-aloud comparisons, sentence-purpose sorts, editing tasks and familiar-name/common-noun contrasts.
+- Include examples where intonation changes after punctuation and where context determines the defensible end mark.
+
+MISCONCEPTIONS TO ASSESS
+- Every loud sentence needs an exclamation mark.
+- Every command ends with an exclamation mark.
+- A sentence containing a question word always needs a question mark.
+- Capital letters are used for any important object.
+- A full stop is only a signal to breathe.
+- Punctuation can be chosen without considering meaning.
+
+AUTHORING REQUIREMENTS
+- Teach determine meaning/purpose → choose boundary mark → check capitals → reread with suitable intonation.
+- Include recognition, editing, explanation and independent application.
+- Avoid ambiguous isolated sentences where more than one end mark is equally defensible without context.
+
+SOURCES
+- IXL Australian Curriculum Year 1 mapping: https://au.ixl.com/standards/english/year-1
+- IXL inspected: Statement, question, command or exclamation?
+- QCAA Prep–Year 6 English sequence: https://www.qcaa.qld.edu.au/downloads/aciqv9/english/curriculum/ac9_english_p-6_cd_sequence.pdf
+- Australian Curriculum English overview: https://www.australiancurriculum.edu.au/curriculum-information/understand-this-learning-area/english
+
+============================================================
+BATCH 2 CHECKPOINT — 2026-09-14
+============================================================
+- Completed: AC9E1LA06, AC9E1LA07, AC9E1LA08, AC9E1LA09, AC9E1LA10.
+- Authoring-ready in this master: 10 of 30 Year 1 English codes.
+- Language strand research complete: 10 of 10 codes.
+- Next research batch: AC9E1LE01–AC9E1LE05.
+- Research only: no English production content, runtime, grading or completion behaviour was changed.
+
