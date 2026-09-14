@@ -225,3 +225,223 @@ BATCH CHECKPOINT — 2026-09-14
 - Total authoring-ready in this master: 5 of 10 Year 1 Science codes.
 - Next: AC9S1I02, AC9S1I03, AC9S1I04, AC9S1I05, AC9S1I06.
 - Existing reviewed assessment banks are evidence, not automatically the final required bank architecture. Future re-authoring must follow the current SkillrHub practice mastery and first-test-attempt grading rules.
+
+============================================================
+CODE: AC9S1I02
+DESCRIPTOR: Suggest and follow safe procedures to investigate questions and test predictions.
+STATUS: AUTHORING-READY
+============================================================
+
+EXISTING IXL / REPOSITORY EVIDENCE
+- No direct IXL skill is listed for this code in the Year 1 Australian Curriculum mapping.
+- IXL's race-track design sequencing provides related procedural evidence only; no direct equivalence is claimed.
+- Existing reviewed bank contains 24 Practice + 16 separate Test questions and was runtime-validated across complete bank rotation.
+- Questions cover prepare → act → observe → finish, missing-step selection, procedure repair and safe responses to changed setups.
+
+CURRICULUM DEPTH
+- Students suggest and follow short, coherent procedures linked to a question or prediction.
+- Safety is contextual: clear workspace, suitable materials, gentle actions, hand hygiene, adult help where needed, stop/report hazards and protect living things.
+- A procedure should make the intended observation possible and preserve the relevant comparison.
+- Year 1 students use guided investigations; formal risk matrices and variable terminology are out of scope.
+
+REQUIRED REPRESENTATIONS
+- Ordered picture steps, partially completed procedures, safe/unsafe setup comparisons and simple investigation plans involving plants, weather, shade, objects or pushes/pulls.
+
+MISCONCEPTIONS TO ASSESS
+- A generic safety rule makes any procedure scientifically useful.
+- The steps can be followed in any order.
+- Observing before setting up records the intended change.
+- More force/material/time always improves a test.
+- Safety equipment replaces careful behaviour.
+- An unsafe step is acceptable if it produces a result quickly.
+
+AUTHORING REQUIREMENTS
+- Assess both safety and fitness-for-purpose.
+- Include choosing a missing step, sequencing, repairing a flawed plan, and adapting safely when conditions change.
+- Practical/Classroom View tasks must allow students to suggest and carry out procedures; quizzes can only recognise/select them.
+
+SOURCES
+- Repository: docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md.
+- Repository canonical sources: scripts/year1_science_ixl_review/batch2/.
+- Australian Curriculum v9 / QCAA Science P–6 content-description sequence.
+
+============================================================
+CODE: AC9S1I03
+DESCRIPTOR: Make and record observations, including informal measurements, using digital tools as appropriate.
+STATUS: AUTHORING-READY
+============================================================
+
+EXISTING IXL / REPOSITORY EVIDENCE
+- Direct IXL reference: What objects can a magnet pull? Learners observe an animation, select the observed action and identify the responding part.
+- Existing reviewed bank: 24 Practice + 16 separate Test questions with observation cards and informal-length diagrams.
+- Coverage includes observable features, counts, dates, order, equal informal units, useful photographs/labels and distinguishing observation from added explanation.
+
+CURRICULUM DEPTH
+- Record what was actually sensed or measured, with enough detail to be checked later.
+- Informal measurements require a named, consistent unit and count.
+- Records may use drawings, photographs, symbols, words, numbers, tables or appropriate digital tools.
+- Separate observation ("the car stopped at 6 blocks") from inference ("the rough surface slowed it").
+
+REQUIRED REPRESENTATIONS
+- Before/after images, labelled drawings, dated photo sequences, equal-unit length models, simple tables and competing record choices.
+
+MISCONCEPTIONS TO ASSESS
+- A guess or explanation is an observation.
+- Decorative detail makes a record more useful.
+- Units can be omitted or changed.
+- A photograph needs no date, label or context.
+- Counts can be estimated when the task requires recording observed items.
+- Digital automatically means more accurate.
+
+AUTHORING REQUIREMENTS
+- Include choosing, completing and correcting records.
+- Require time/place/feature/unit labels where they affect meaning.
+- Practical and worksheet evidence must include students independently making at least one observation record.
+
+SOURCES
+- Repository: docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md.
+- Repository canonical sources: scripts/year1_science_ixl_review/batch3/.
+- IXL Australia Year 1, What objects can a magnet pull?
+- Australian Curriculum v9 / QCAA Science P–6 sequence.
+
+============================================================
+CODE: AC9S1I04
+DESCRIPTOR: Sort and order data and information and represent patterns, including with provided tables and visual or physical models.
+STATUS: AUTHORING-READY
+============================================================
+
+EXISTING IXL / REPOSITORY EVIDENCE
+- Direct IXL reference: Identify plants and animals, sorting pictured and labelled living things into named groups.
+- Weather-pattern evidence supports ordering observations over time.
+- Existing reviewed bank: 24 Practice + 16 separate Test questions with one-to-one displays and sorting models.
+- Content removes unnecessary arithmetic and multi-unit graph keys.
+
+CURRICULUM DEPTH
+- Sort by one stated observable feature, preserve time/order where relevant and represent a simple pattern faithfully.
+- Students use provided templates, tables, visual models or physical models with guidance.
+- The representation must preserve every observation once and make the relevant pattern visible.
+- Scientific sorting uses evidence relevant to the question, not preference.
+
+REQUIRED REPRESENTATIONS
+- Sorting hoops/bins, chronological cards, one-to-one picture displays, simple tables, physical models and repeated observation sequences.
+
+MISCONCEPTIONS TO ASSESS
+- Changing the sorting rule midway.
+- Placing one item twice or omitting it.
+- Ordering by size when the required order is time.
+- Treating a decorative arrangement as a scientific pattern.
+- Assuming categories can never overlap when the rule allows it.
+- Altering data to make the pattern neater.
+
+AUTHORING REQUIREMENTS
+- Teach collect/observe → choose or follow rule → sort/order → represent → describe pattern.
+- Include rule inference, correction of misplaced items and checking representation against source data.
+- Avoid turning this into a standalone Year 1 mathematics graphing unit.
+
+SOURCES
+- Repository: docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md.
+- IXL Australia Year 1, Identify plants and animals and Weather patterns.
+- NSW Education K–6 science guidance on observation data and representation.
+- Australian Curriculum v9 / QCAA Science P–6 sequence.
+
+============================================================
+CODE: AC9S1I05
+DESCRIPTOR: Compare observations with predictions and others' observations, consider if investigations are fair and identify further questions with guidance.
+STATUS: AUTHORING-READY
+============================================================
+
+EXISTING IXL / REPOSITORY EVIDENCE
+- IXL mapping links design and weather investigations; the race-track task provides related goal/procedure evidence.
+- Fairness and further-question coverage is anchored to the official descriptor, not falsely attributed to an unseen IXL stage.
+- Existing reviewed bank: 24 Practice + 16 separate Test questions.
+- Coverage includes prediction/result comparison, comparing observers, recognising confounded comparisons in everyday language, retaining mixed evidence and selecting a related next question.
+
+CURRICULUM DEPTH
+- A mismatch between prediction and observation is useful evidence, not failure.
+- Compare reports by checking whether observers examined the same event, time, object and feature.
+- At this level, fairness means keeping relevant conditions the same and changing the intended factor; formal control-variable language is unnecessary.
+- A further question should arise from the actual result or uncertainty.
+
+REQUIRED REPRESENTATIONS
+- Prediction/result pairs, two-observer records, paired investigation setups, mixed-result tables and next-question choices.
+
+MISCONCEPTIONS TO ASSESS
+- Change the observation to match the prediction.
+- A correct prediction proves the procedure was fair.
+- Different observers must have one "wrong" answer even when conditions/times differ.
+- Changing several things gives stronger evidence.
+- Repeat until the preferred result appears.
+- Any science question is a useful follow-up.
+
+AUTHORING REQUIREMENTS
+- Include supported, unsupported and partly supported predictions.
+- Use age-appropriate fair-comparison language.
+- Require learners to identify what changed, what stayed the same and which further question follows.
+- Practical assessment should include discussion of an actual class investigation.
+
+SOURCES
+- Repository: docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md.
+- Australian Curriculum v9 / QCAA Science P–6 sequence.
+- NSW Education K–6 inquiry progression.
+
+============================================================
+CODE: AC9S1I06
+DESCRIPTOR: Write and create texts to communicate observations, findings and ideas using everyday and scientific vocabulary.
+STATUS: AUTHORING-READY
+============================================================
+
+EXISTING IXL / REPOSITORY EVIDENCE
+- IXL mapping links magnet and sunlight/shade investigations.
+- Revisited magnet example asks learners to connect an observed movement with accurate force language.
+- Existing reviewed bank: 24 Practice + 16 separate Test, six evidence SVGs and full runtime validation.
+- Coverage includes captions, labels, texture/force/absorption vocabulary, time order, measurement units, explicit comparisons, record correction, observation versus possible explanation and evidence-supported design suggestions.
+
+CURRICULUM DEPTH
+- Communication may be written, drawn, labelled, diagrammatic or multimodal.
+- Everyday vocabulary supports accessibility; scientific vocabulary adds precision when it is understood.
+- A useful text identifies what was observed/found and preserves relevant evidence, sequence and units.
+- Claims should not go beyond the evidence.
+
+REQUIRED REPRESENTATIONS
+- Labelled drawings, captions, simple reports, flow charts, before/after records, tables with accompanying sentences and audience-appropriate multimodal texts.
+
+MISCONCEPTIONS TO ASSESS
+- Scientific words make an unsupported claim correct.
+- A title alone communicates the finding.
+- Labels can contradict the diagram.
+- Predictions and results can be swapped.
+- Units, order or comparison details are optional.
+- Longer writing is automatically better science communication.
+
+AUTHORING REQUIREMENTS
+- Progress from selecting an accurate caption to improving precision and constructing an independent short scientific text.
+- Include matching text to evidence, correcting overclaims and choosing vocabulary suited to the observation and audience.
+- Critical boundary: selected responses assess recognition/improvement only. Topic, worksheet and Classroom View must require the child to independently write, draw, label or orally communicate.
+
+SOURCES
+- Repository: docs/question-bank-reviews/2026-09-06-year1-science-i06.md.
+- IXL Australia Year 1, What objects can a magnet pull? and Investigate sunlight and shade.
+- NSW Education K–6 guidance on labelled diagrams, simple/compound sentences and scientific vocabulary.
+- Australian Curriculum v9 / QCAA Science P–6 sequence.
+
+============================================================
+FINAL YEAR 1 SCIENCE RESEARCH AUDIT — 2026-09-14
+============================================================
+
+COMPLETE INVENTORY — 10 OF 10 AUTHORING-READY
+- Science understanding: AC9S1U01, AC9S1U02, AC9S1U03.
+- Science as a human endeavour: AC9S1H01.
+- Science inquiry: AC9S1I01, AC9S1I02, AC9S1I03, AC9S1I04, AC9S1I05, AC9S1I06.
+
+CONSISTENCY CHECKS PASSED
+- Every Year 1 Science v9 code is represented once in this master.
+- Every code includes scope, evidence, representations, misconceptions and authoring requirements.
+- Existing repository banks provide 24 Practice + 16 separate Test questions per code (400 reviewed items total), with source/live validation recorded.
+- IXL mappings are labelled honestly; codes without a direct mapping rely on the official descriptor and authoritative free sources.
+- Topic pages, Classroom Views and worksheets must supply practical and independently created evidence that multiple-choice quizzes cannot measure.
+- First Nations contexts require community-approved, specifically attributed sources and culturally safe use.
+- Future re-authoring must preserve the current product rules: unlimited practice, wrong answers returning after the full round, success/tick only at 100%, and only the first Test attempt recorded for grades/benchmarking.
+
+FINAL DECISION
+- YEAR 1 SCIENCE RESEARCH COMPLETE: 10/10 codes AUTHORING-READY.
+- Recommended next phase: re-author in five-code batches using this master and the existing reviewed canonical banks, retaining strong material and filling only verified gaps.
