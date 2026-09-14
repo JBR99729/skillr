@@ -62,3 +62,236 @@ CURRENT STATUS
 - 0 of 30 codes independently researched in this master.
 - First research batch: AC9E1LA01–AC9E1LA05.
 - Each code remains PENDING until exact descriptor verification and source comparison are recorded.
+
+============================================================
+BATCH 1 RESEARCH — AC9E1LA01–AC9E1LA05
+Completed: 2026-09-14
+============================================================
+
+SHARED SOURCE CHECK
+- Official scope checked against Australian Curriculum v9 work-sample/curriculum pages and the QCAA Prep–Year 6 English content-description sequence.
+- IXL Australia Year 1 English catalogue and its Australian Curriculum v9 alignment page were inspected in the authenticated parent session.
+- IXL worked examples were opened for related-meaning words, comparative/superlative adjectives, picture-supported feeling inference, picture main idea and completing a poem with a rhyming word.
+- Khan Academy authenticated searches for "rhyme" and "text features" returned no usable early-primary teaching or exercise results in the visible search interface. Khan is therefore SOURCE-NOT-MAPPED for this batch.
+- Supplementary evidence checked through Scootle version 9 listings and Australian Curriculum/QCAA materials. Existing Skillr pages and banks were inspected only as repository evidence.
+- Existing bank inventory for each code: 24 Practice + 16 separate Test questions. Counts do not certify item quality; later authoring/review must inspect every item.
+
+============================================================
+CODE: AC9E1LA01
+DESCRIPTOR: Understand how language, facial expressions and gestures are used to interact with others when asking for and providing information, making offers, exclaiming, requesting and giving commands.
+STATUS: AUTHORING-READY
+============================================================
+
+IXL EVIDENCE AND LIMIT
+- IXL maps three shades-of-meaning skills to this code: Find the words with related meanings, Describe the difference between related words, and Order related words based on meaning.
+- The inspected related-meaning example asked learners to select two words in the same semantic category and explained a difference in intensity using "smile" and "grin."
+- IXL's picture-feeling worked example, although officially mapped to AC9E1LA08 rather than this code, models attending to facial expression, action and situation together.
+- These tasks support vocabulary choice and reading non-verbal cues but do not cover the full interaction-purpose set. Offers, exclamations, requests, information exchanges and commands require direct curriculum-led teaching.
+
+CURRICULUM DEPTH
+- Coordinate words, voice, face, gesture and body position with the speaker's purpose and relationship.
+- Distinguish asking from providing information; making an offer from making a request; and a request from a command.
+- Show that the same words can be received differently when tone, expression or gesture changes.
+- Teach interpretation in context rather than treating one gesture as having one universal meaning.
+- First Nations signing, gesture or body-language examples require specific, authoritative and culturally appropriate sources; avoid pan-Indigenous rules.
+
+REQUIRED REPRESENTATIONS
+- Paired face/gesture scenes, speech bubbles, short audio-supported exchanges, purpose cards and same-words/different-delivery comparisons.
+- Include classroom, family and community interactions with varied speakers and respectful alternatives.
+
+MISCONCEPTIONS TO ASSESS
+- A smile always means the speaker agrees.
+- Loud speech automatically makes a command.
+- An offer and request are interchangeable.
+- Words alone determine meaning.
+- One gesture has the same meaning in every cultural and social context.
+- Any question asks for useful information.
+
+AUTHORING REQUIREMENTS
+- Use purpose → language/non-verbal cue → likely reception reasoning.
+- Include recognition, comparison, repair and choosing an appropriate response.
+- Selected-response tasks can assess interpretation; Classroom View/worksheet evidence must include students speaking, listening or role-playing.
+
+SOURCES
+- Australian Curriculum work sample, Year 1: https://www.australiancurriculum.edu.au/resources/work-samples/english/year-1/ws01-my-history-mystery-box
+- QCAA Prep–Year 6 English content-description sequence: https://www.qcaa.qld.edu.au/downloads/aciqv9/english/curriculum/ac9_english_p-6_cd_sequence.pdf
+- Scootle AC9E1LA01: https://www.scootle.edu.au/ec/search?accContentId=AC9E1LA01
+- IXL Year 1 Australian Curriculum mapping: https://au.ixl.com/standards/english/year-1
+- IXL inspected: Find the words with related meanings; picture-feeling worked example as partial adjacent evidence.
+
+============================================================
+CODE: AC9E1LA02
+DESCRIPTOR: Explore language to provide reasons for likes, dislikes and preferences.
+STATUS: AUTHORING-READY
+============================================================
+
+IXL EVIDENCE AND LIMIT
+- IXL maps Compare pictures using adjectives, Compare pictures using comparative and superlative adjectives, and Does the adjective compare two or more than two?
+- The inspected worked example contrasted two pictured objects using a comparative adjective, then explicitly separated comparative "-er" from superlative "-est."
+- This supports precise comparison language but does not directly require a personal preference plus a relevant reason.
+- The essential "I prefer ... because ..." relationship must therefore remain curriculum-led, not attributed to IXL.
+
+CURRICULUM DEPTH
+- State a like, dislike or preference and give a reason that logically explains it.
+- Use "because" and suitable alternatives orally and in short written responses.
+- Compare options using accessible words such as better, easier, faster, quieter or more interesting only when the evidence supports them.
+- Recognise that different people may hold different preferences and still give valid reasons.
+- Separate a reason from repetition: "I like it because I like it" does not add evidence.
+
+REQUIRED REPRESENTATIONS
+- Paired books, games, foods, activities, images or text excerpts; preference/reason matching; reason/no-reason sorting; short discussion prompts.
+- Provide visual and oral access without forcing unsupported reading load.
+
+MISCONCEPTIONS TO ASSESS
+- A preference needs no reason.
+- Repeating the preference counts as explaining it.
+- Any sentence beginning with "because" is a relevant reason.
+- A comparative word makes a preference objectively true.
+- A different preference must be wrong.
+- "Best" can be used without stating the comparison group or basis.
+
+AUTHORING REQUIREMENTS
+- Progress from recognising a reason to matching, repairing and independently giving one.
+- Keep answer options defensible by making the stated criterion visible.
+- Practical evidence should allow students to express and respond to genuine preferences.
+
+SOURCES
+- QCAA Prep–Year 6 English content-description sequence: https://www.qcaa.qld.edu.au/downloads/aciqv9/english/curriculum/ac9_english_p-6_cd_sequence.pdf
+- IXL Year 1 Australian Curriculum mapping: https://au.ixl.com/standards/english/year-1
+- IXL inspected: Compare pictures using comparative and superlative adjectives.
+- Reading Australia curriculum-summary example: https://readingaustralia.com.au/resources/curriculum-summary-come-down-cat/
+
+============================================================
+CODE: AC9E1LA03
+DESCRIPTOR: Explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain.
+STATUS: AUTHORING-READY
+============================================================
+
+IXL EVIDENCE AND LIMIT
+- IXL's Year 1 Australian Curriculum alignment page lists no mapped skill beneath AC9E1LA03.
+- The inspected "What is the picture about?" example asks for a picture's main idea and rejects an option not shown. It is useful adjacent evidence for using visible evidence, but it is mapped to a literature code and does not teach text organisation.
+- IXL is SOURCE-NOT-MAPPED for direct descriptor coverage.
+
+CURRICULUM DEPTH
+- Connect purpose to predictable organisation: recount events in time order; narrative builds characters/events/problem or change; opinion states a view and reasons; informative/report texts group facts; explanations show how or why.
+- Compare familiar texts that share a topic but have different purposes and structures.
+- Recognise that words, images, labels and diagrams can work together within the structure.
+- Teach purpose as what the text is trying to do, not simply its topic or format.
+- Year 1 learners explore typical patterns; they are not expected to memorise rigid genre templates.
+
+REQUIRED REPRESENTATIONS
+- Short paired texts on the same topic, mixed text-stage cards, purpose/feature matching, recount/procedure sequences, simple fact and opinion texts.
+- Include spoken, print, digital and multimodal examples.
+
+MISCONCEPTIONS TO ASSESS
+- Topic and purpose are the same.
+- Every story or information text has exactly one fixed layout.
+- A heading alone proves a text's purpose.
+- Time words belong only to narratives.
+- Pictures are decorative and never part of organisation.
+- A text cannot combine purposes.
+
+AUTHORING REQUIREMENTS
+- Require evidence: identify the purpose, point to organisational clues and explain the connection.
+- Cover all descriptor examples across the resource set without making every quiz item a terminology test.
+- Use creation/comparison tasks in the worksheet and Classroom View; multiple choice alone cannot show students can organise a text.
+
+SOURCES
+- IXL Year 1 Australian Curriculum mapping: https://au.ixl.com/standards/english/year-1
+- Scootle AC9E1LA03: https://www.scootle.edu.au/ec/search?accContentId=AC9E1LA03
+- Scootle Year 1 digital text examples: https://www.scootle.edu.au/ec/search?accContentId=AC9E1LA03
+- QCAA Prep–Year 6 English content-description sequence: https://www.qcaa.qld.edu.au/downloads/aciqv9/english/curriculum/ac9_english_p-6_cd_sequence.pdf
+
+============================================================
+CODE: AC9E1LA04
+DESCRIPTOR: Explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs.
+STATUS: AUTHORING-READY
+============================================================
+
+IXL EVIDENCE AND LIMIT
+- Direct IXL mapping: Choose the picture that rhymes with the word; Which word does not rhyme?; Complete the rhyme; Complete the poem with a word that rhymes.
+- The inspected poem-completion example required choosing an end word whose final sound matched the preceding line. The worked explanation compared rhyming and non-rhyming word endings, then reread the completed two-line poem.
+- IXL gives strong rhyme progression but does not directly cover repetition, beat/rhythm, performance or how all three devices connect a whole chant/song.
+
+CURRICULUM DEPTH
+- Rhyme depends on matching final sound patterns, not matching first letters or spelling alone.
+- Repetition can occur in words, phrases, whole lines or sentence patterns and helps parts feel connected.
+- Rhythm is the pattern of beats/stresses heard when the text is spoken or sung; it is not the same as rhyme.
+- Explore how the devices support prediction, memory, emphasis, participation and cohesion.
+- Include listening, speaking, clapping/tapping, performing and inventing—not only silent word matching.
+
+REQUIRED REPRESENTATIONS
+- Short original poems, call-and-response chants, refrain cards, beat marks, audio/read-aloud support, rhyming-picture sets and incomplete patterned lines.
+- Avoid reproducing copyrighted songs or long published poems.
+
+MISCONCEPTIONS TO ASSESS
+- Words rhyme because they start with the same sound.
+- Identical spelling is required for rhyme.
+- Rhythm and rhyme are synonyms.
+- Any repeated word creates a coherent poem.
+- Visual line endings determine rhyme without listening.
+- A poem must rhyme.
+
+AUTHORING REQUIREMENTS
+- Progress from hearing/identifying to completing, comparing, performing and inventing patterns.
+- Include repetition and rhythm in equal depth with rhyme across the full resource set.
+- Ensure audio or teacher read-aloud access where sound is essential.
+- Keep written examples original and short.
+
+SOURCES
+- IXL Year 1 Australian Curriculum mapping: https://au.ixl.com/standards/english/year-1
+- IXL inspected: Complete the poem with a word that rhymes.
+- Scootle AC9E1LA04: https://www.scootle.edu.au/ec/search?accContentId=AC9E1LA04
+- Victorian Arc rhyme/rhythm lesson evidence: https://arc.educationapps.vic.gov.au/
+- QCAA Prep–Year 6 English content-description sequence: https://www.qcaa.qld.edu.au/downloads/aciqv9/english/curriculum/ac9_english_p-6_cd_sequence.pdf
+
+============================================================
+CODE: AC9E1LA05
+DESCRIPTOR: Understand how print and screen texts are organised using features such as page numbers, tables of content, headings and titles, navigation buttons, swipe screens, verbal commands, links and images.
+STATUS: AUTHORING-READY
+============================================================
+
+IXL EVIDENCE AND LIMIT
+- IXL's Year 1 Australian Curriculum alignment page lists no mapped skill beneath AC9E1LA05.
+- The Year 1 catalogue contains general reading tasks but no inspected activity that directly compares print navigation with screen navigation.
+- IXL is SOURCE-NOT-MAPPED for this descriptor; coverage must be driven by the exact curriculum list and supported by authentic print/digital demonstrations.
+
+CURRICULUM DEPTH
+- Name a feature, explain its job and use it to locate or move to information.
+- Compare title (whole text) with heading (section), page number with table of contents, and static print navigation with screen buttons, links, swipe actions or verbal commands.
+- Treat images as organisational/meaning-making features when they guide, label or locate information—not automatically as decoration.
+- Recognise that print and screen texts can contain equivalent information organised differently.
+- Include accessibility-aware navigation such as descriptive link labels and verbal commands without implying every device works identically.
+
+REQUIRED REPRESENTATIONS
+- Realistic book spreads, contents pages, headings/page numbers, safe mock webpages or app screens, navigation paths and print-versus-screen comparison cards.
+- Questions must show the feature; asking from a decontextualised definition is insufficient.
+
+MISCONCEPTIONS TO ASSESS
+- Title and heading are interchangeable.
+- A table of contents gives the full information.
+- Page numbers and navigation buttons do the same job in the same way.
+- Every image is decoration.
+- A link always moves to the next page.
+- Swipe or voice commands work identically on every screen.
+
+AUTHORING REQUIREMENTS
+- Teach feature → job → navigation action → check result.
+- Include locating, comparing, choosing, repairing and explaining.
+- Use accessible mock interfaces rather than live external links for assessment stability.
+- Classroom View/worksheet tasks should require students to navigate an actual age-appropriate print and digital text.
+
+SOURCES
+- IXL Year 1 Australian Curriculum mapping: https://au.ixl.com/standards/english/year-1
+- QCAA Prep–Year 6 English content-description sequence: https://www.qcaa.qld.edu.au/downloads/aciqv9/english/curriculum/ac9_english_p-6_cd_sequence.pdf
+- Victorian Curriculum print/screen organisation reference: https://victoriancurriculum.vcaa.vic.edu.au/
+- Australian Curriculum English overview: https://www.australiancurriculum.edu.au/curriculum-information/understand-this-learning-area/english
+
+============================================================
+BATCH 1 CHECKPOINT — 2026-09-14
+============================================================
+- Completed: AC9E1LA01, AC9E1LA02, AC9E1LA03, AC9E1LA04, AC9E1LA05.
+- Authoring-ready in this master: 5 of 30 Year 1 English codes.
+- Next research batch: AC9E1LA06–AC9E1LA10.
+- Research remains frozen from production: no English page, question-bank, runtime, grading or completion behaviour was changed.
+
