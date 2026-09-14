@@ -491,3 +491,21 @@ IMPLEMENTATION HOLD
 - Do not modify the quiz runtime, question banks, grading, benchmarking or completion-tick behaviour during this research phase.
 - Begin implementation only after the research findings are reviewed and the owner explicitly approves the build task.
 
+============================================================
+YEAR 1 SCIENCE RESEARCH FREEZE — 2026-09-14
+============================================================
+
+FINAL COMPLETENESS PASS
+- Inventory confirmed: 10 unique codes — AC9S1U01–AC9S1U03, AC9S1H01 and AC9S1I01–AC9S1I06.
+- All 10 codes contain curriculum depth, required representations, assessable misconceptions, authoring requirements and recorded sources.
+- Direct IXL matches and partial/no-direct-match cases are distinguished; supplementary and official-curriculum evidence is not mislabelled as IXL evidence.
+- The research record contains enough pedagogical coverage to guide later Topic Page, Classroom View, worksheet, Practice and separate Test authoring.
+- Product ideas for matching puzzles and Collect Data remain clearly labelled as deferred requirements, not observed source evidence or implemented behaviour.
+- No material Year 1 Science research gap remains for authoring readiness.
+
+FREEZE DECISION
+- STATUS: FROZEN — AUTHORING-READY.
+- Preserve this snapshot as the approved Year 1 Science research basis.
+- Amend only if the official curriculum changes, stronger verified source evidence exposes a material gap, or the owner explicitly reopens Year 1 Science research.
+- This freeze does not certify current site content and does not authorise implementation; production content still requires the repository's independent review and release controls.
+
