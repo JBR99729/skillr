@@ -1212,3 +1212,231 @@ BATCH 5 CHECKPOINT — 2026-09-14
 - Next research batch: AC9E1LY11–AC9E1LY15.
 - Research only: no English production content, runtime, grading or completion behaviour was changed.
 
+
+============================================================
+CODE: AC9E1LY11
+DESCRIPTOR: Use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words.
+STATUS: AUTHORING-READY
+============================================================
+
+IXL EVIDENCE AND LIMIT
+- IXL maps a broad sequence: syllables; initial/final blends; consonant digraphs; short vowels; silent-e and common vowel-digraph long vowels; short/long sorting; two-syllable work; and some diphthongs.
+- The inspected "Complete the word with the right digraph" example used audio plus the incomplete word _ore, contrasted sh/ch, defined a digraph as two letters representing one sound and solved shore.
+- This is strong controlled-word practice, but no single mapped activity demonstrates the full code. Evidence must combine reading and spelling, one- and two-syllable words, and all named pattern classes.
+- IXL currently warns that its Year 1 skills are not yet formally aligned to Australian Curriculum v9; use the mapping as comparative evidence, not curriculum authority.
+
+CURRICULUM DEPTH
+- Read and write words with short vowel patterns, common long-vowel spellings, initial/final consonant blends and common consonant digraphs.
+- Blend through every grapheme or meaningful syllable rather than guessing from the first letter or picture.
+- Distinguish a blend, where constituent phonemes remain audible, from a digraph representing one phoneme.
+- Progress from one-syllable words to transparent two-syllable words; syllable division is a support, not a substitute for grapheme–phoneme blending.
+- Use Australian English pronunciation and avoid words whose target vowel is accent-unstable.
+
+REQUIRED REPRESENTATIONS
+- Audio-supported word/picture matching, sound buttons or grapheme frames, movable letter tiles, word building, dictated spelling and decodable sentences.
+- Include reading and writing trials, mixed pattern review and two-syllable items without picture clues in the final check.
+
+MISCONCEPTIONS TO ASSESS
+- Every two-letter sequence is a digraph.
+- A consonant blend makes one sound.
+- Long vowels are always written with silent e.
+- The picture or first letter is enough to identify the word.
+- Every syllable can be decoded as an isolated familiar word.
+- Correct reading alone proves spelling knowledge.
+
+AUTHORING REQUIREMENTS
+- Teach hear/say → segment → map phonemes to graphemes → blend → read/write → check in context.
+- Balance short vowels, common long vowels, blends and digraphs; include cumulative mixed review rather than isolated blocks only.
+- Require both decoding and encoding. Self-check typed answers should accept only predetermined valid spellings, with audio and accessible alternatives where needed.
+- Existing bank inventory is 24 Practice and 16 Test items; counts are not certification of balanced substantive coverage.
+
+SOURCES
+- Australian Curriculum / IXL Year 1 mapping: https://au.ixl.com/standards/english/year-1
+- IXL inspected: Complete the word with the right digraph.
+- Literacy Hub planning and phonics resources: https://www.literacyhub.edu.au/search/planning-resources/
+- Literacy Hub Year 1 Phonics Check: https://check.literacyhub.edu.au/
+- QCAA Prep–Year 6 English sequence: https://www.qcaa.qld.edu.au/downloads/aciqv9/english/curriculum/ac9_english_p-6_cd_sequence.pdf
+
+============================================================
+CODE: AC9E1LY12
+DESCRIPTOR: Understand that a letter can represent more than one sound and that a syllable must contain a vowel sound.
+STATUS: AUTHORING-READY
+============================================================
+
+IXL EVIDENCE AND LIMIT
+- IXL maps short-vowel identification, short/long vowel sorting, silent-e work and short/long picture matching.
+- The inspected short/long vowel sorting example contrasted cap/cape, bed/bead, pin/pine, on/cone and cub/cube, then sorted rat versus game/snail. It explicitly linked every syllable to one vowel sound in the related two-syllable example.
+- The mapping gives good vowel-sound contrasts but only partial evidence for a single letter representing multiple sounds; authoring must include explicit same-letter/different-sound comparisons in words.
+- Khan's focused authenticated search returned no visible early-primary result for this combined code; record Khan as SOURCE-NOT-MAPPED, not as contrary evidence.
+
+CURRICULUM DEPTH
+- Explain with examples that the same letter can represent different phonemes in different words.
+- Identify the vowel sound in each spoken syllable; understand that a syllable requires a vowel sound even when its spelling contains more than one vowel letter.
+- Separate vowel letters from vowel sounds: a digraph may spell one vowel sound, and a silent vowel letter need not add another syllable.
+- Use controlled contrasts before introducing less predictable pronunciations.
+
+REQUIRED REPRESENTATIONS
+- Same-letter/different-sound word sorts, short/long minimal contrasts, syllable clapping plus vowel-sound marking, spoken-word tasks and printed-word follow-up.
+- Include examples such as one vowel letter changing sound across words, vowel digraphs representing one sound and silent-e words remaining one syllable.
+
+MISCONCEPTIONS TO ASSESS
+- A letter always represents the same sound.
+- Every written vowel letter creates a separate syllable.
+- Every syllable must contain exactly one written vowel.
+- Silent e is a second spoken syllable.
+- Two vowel letters necessarily make two vowel sounds.
+- Counting letters is the same as hearing syllables.
+
+AUTHORING REQUIREMENTS
+- Teach say word → split into syllables → locate the vowel sound in each → inspect the spelling → compare what the letter(s) represent.
+- Assess both concepts explicitly; do not let short/long sorting stand in for the syllable requirement.
+- Use audio, Australian English pronunciation and avoid accent-dependent contrasts.
+- Existing bank inventory is 24 Practice and 16 Test items; counts are not certification of conceptual coverage.
+
+SOURCES
+- Australian Curriculum / IXL Year 1 mapping: https://au.ixl.com/standards/english/year-1
+- IXL inspected: Sort short and long vowel words; Complete the two-syllable words.
+- Literacy Hub planning and phonics resources: https://www.literacyhub.edu.au/search/planning-resources/
+- QCAA Prep–Year 6 English sequence: https://www.qcaa.qld.edu.au/downloads/aciqv9/english/curriculum/ac9_english_p-6_cd_sequence.pdf
+- Khan Academy authenticated search: SOURCE-NOT-MAPPED for this combined Year 1 outcome.
+
+============================================================
+CODE: AC9E1LY13
+DESCRIPTOR: Spell one- and two-syllable words with common letter patterns.
+STATUS: AUTHORING-READY
+============================================================
+
+IXL EVIDENCE AND LIMIT
+- IXL maps spelling and completion tasks for blends, digraphs, short vowels, silent e, common patterns and two-syllable words.
+- The inspected "Complete the two-syllable words" example completed seven and magnet, stated that each syllable contains one vowel sound, and modelled sounding each syllable before joining them.
+- This provides a useful scaffold, but completion with displayed chunks is easier than independently encoding a whole dictated word. Mastery needs whole-word spelling as well as recognition/completion.
+- IXL's mapping includes reading-adjacent tasks; only encoding responses count as direct spelling evidence.
+
+CURRICULUM DEPTH
+- Segment and spell one-syllable words with taught common vowel and consonant patterns.
+- Spell transparent two-syllable words by saying, segmenting and mapping each syllable, then checking the complete word.
+- Generalise a learned pattern to unfamiliar but age-appropriate words rather than memorising a fixed item list.
+- Distinguish plausible phonetic attempts from conventionally correct spelling when the task assesses mastery.
+
+REQUIRED REPRESENTATIONS
+- Picture-supported and audio dictation, sound-to-letter mapping, word building, pattern sorting, missing-pattern items and independent whole-word writing.
+- Include cumulative one-/two-syllable mixes, not only one pattern per screen.
+
+MISCONCEPTIONS TO ASSESS
+- Each syllable is spelled as a separate known word.
+- Any phonetic spelling is conventionally correct.
+- A familiar pattern works in every word with the same sound.
+- Doubling or silent e can be added arbitrarily.
+- Completing a supplied chunk proves independent spelling.
+- The number of syllables equals the number of vowel letters.
+
+AUTHORING REQUIREMENTS
+- Teach say → syllabify if needed → segment phonemes → choose taught patterns → write → reread and compare with known pattern.
+- Separate supported completion from independent dictation and use the latter in the mastery check.
+- Mark only targeted, unambiguous spellings correct; do not require obscure exceptions.
+- Existing bank inventory is 24 Practice and 16 Test items; counts are not certification of pattern breadth or independent encoding.
+
+SOURCES
+- Australian Curriculum / IXL Year 1 mapping: https://au.ixl.com/standards/english/year-1
+- IXL inspected: Complete the two-syllable words.
+- Literacy Hub planning and phonics resources: https://www.literacyhub.edu.au/search/planning-resources/
+- Literacy Hub Year 1 Phonics Check: https://check.literacyhub.edu.au/
+- QCAA Prep–Year 6 English sequence: https://www.qcaa.qld.edu.au/downloads/aciqv9/english/curriculum/ac9_english_p-6_cd_sequence.pdf
+
+============================================================
+CODE: AC9E1LY14
+DESCRIPTOR: Read and write an increasing number of high frequency words.
+STATUS: AUTHORING-READY
+============================================================
+
+IXL EVIDENCE AND LIMIT
+- IXL maps seven cumulative sight-word sets, reviews, sentence completion and sight-word spelling.
+- The inspected "Spell the sight word" example used an audio prompt and letter selection to spell him, then placed it in a sentence. Its explanation said these words occur often and noted that some do not follow expected spelling patterns.
+- IXL's staged sets model cumulative retrieval well, but the exact list is provider-specific and should not become the curriculum definition.
+- Recognition, contextual selection and spelling are different demands; authoring must sample both reading and writing and revisit words cumulatively.
+
+CURRICULUM DEPTH
+- Build automatic recognition and accurate spelling of an expanding, developmentally appropriate high-frequency word bank.
+- Connect regular parts of words to taught phonics and explicitly identify the unexpected part of less regular words; avoid presenting every word as visually memorised.
+- Read words in isolation and connected text, and write them from dictation and within meaningful sentences.
+- Track growth over time: "increasing number" requires cumulative retention, not one completed list.
+
+REQUIRED REPRESENTATIONS
+- Flash/rapid recognition with audio support where appropriate, sentence cloze, word-to-sentence matching, dictated spelling, short decodable/authentic passages and spaced cumulative review.
+- Keep font clear and avoid relying on picture cues for the final recognition check.
+
+MISCONCEPTIONS TO ASSESS
+- All high-frequency words are irregular.
+- Recognising a word proves the learner can spell it.
+- Copying a displayed word proves recall.
+- A word learned in one set will remain automatic without review.
+- Guessing from sentence context is the same as reading the word.
+- Only one provider's sight-word list is valid.
+
+AUTHORING REQUIREMENTS
+- Teach pronounce/read → map regular graphemes → mark the unexpected part if present → recall → spell → use in a sentence → revisit later.
+- Use cumulative interleaving and both isolated and contextual items; final checks must remove copying support.
+- Treat automaticity and spelling accuracy as separate observable outcomes.
+- Existing bank inventory is 24 Practice and 16 Test items; counts are not certification of cumulative breadth or automaticity.
+
+SOURCES
+- Australian Curriculum / IXL Year 1 mapping: https://au.ixl.com/standards/english/year-1
+- IXL inspected: Spell the sight word.
+- Literacy Hub planning and phonics resources: https://www.literacyhub.edu.au/search/planning-resources/
+- Australian Curriculum English overview: https://www.australiancurriculum.edu.au/curriculum-information/understand-this-learning-area/english
+- QCAA Prep–Year 6 English sequence: https://www.qcaa.qld.edu.au/downloads/aciqv9/english/curriculum/ac9_english_p-6_cd_sequence.pdf
+
+============================================================
+CODE: AC9E1LY15
+DESCRIPTOR: Recognise and know how to use grammatical morphemes to create word families.
+STATUS: AUTHORING-READY
+============================================================
+
+IXL EVIDENCE AND LIMIT
+- IXL maps prefix/suffix meaning, regular and irregular plurals, -s/-es formation, singular/plural use, heard verb endings, -ed/-ing picture matches and forms of be/have.
+- The inspected regular-plural example represented goat + s = goats and explained when -es follows nouns ending in s, ch, sh, x or z.
+- This directly models a base plus a grammatical morpheme, but the wider IXL mapping includes irregular plurals and auxiliary forms that do not by themselves demonstrate creation of a productive word family.
+- Authoring should prioritise transparent base-plus-morpheme relationships and meaning/function before irregular exceptions.
+
+CURRICULUM DEPTH
+- Recognise a base word and attach common grammatical morphemes to mark meanings such as number or tense/aspect.
+- Build and compare members of a word family while preserving the base meaning: for example play, plays, played, playing; cat, cats.
+- Explain what the added morpheme changes, not merely name or copy the ending.
+- Include common oral allomorphs where developmentally appropriate, while keeping spelling rules explicit and bounded.
+- Distinguish grammatical morphemes from unrelated final letter sequences and from derivational word-building that changes word class/meaning beyond this Year 1 focus.
+
+REQUIRED REPRESENTATIONS
+- Base + affix equation cards, word-family trees/tables, singular/plural pictures, before/now/past action scenes, sentence choice and word sorting by base and ending.
+- Include both recognition and productive construction, with the morpheme visually separable during teaching and unmarked in final items.
+
+MISCONCEPTIONS TO ASSESS
+- Any word ending in s is plural.
+- Add -s to every noun regardless of spelling or irregularity.
+- -ed always sounds exactly the same.
+- -ing or -ed can attach to any displayed letters without a meaningful base.
+- Words with similar endings belong to the same family.
+- The ending changes the base into an unrelated word.
+
+AUTHORING REQUIREMENTS
+- Teach identify base → choose meaning needed → add morpheme → read the new word → explain the grammatical change → use it in a sentence.
+- Focus core items on productive regular patterns; label irregular forms as contrasts rather than evidence of applying a regular morpheme.
+- Include word-family grouping and meaning questions, not suffix recognition alone.
+- Existing bank inventory is 24 Practice and 16 Test items; counts are not certification of productive morpheme use.
+
+SOURCES
+- Australian Curriculum / IXL Year 1 mapping: https://au.ixl.com/standards/english/year-1
+- IXL inspected: Form regular plurals with -s and -es.
+- Literacy Hub planning and morphology resources: https://www.literacyhub.edu.au/search/planning-resources/
+- QCAA Prep–Year 6 English sequence: https://www.qcaa.qld.edu.au/downloads/aciqv9/english/curriculum/ac9_english_p-6_cd_sequence.pdf
+
+============================================================
+BATCH 6 CHECKPOINT — 2026-09-14
+============================================================
+- Completed: AC9E1LY11, AC9E1LY12, AC9E1LY13, AC9E1LY14, AC9E1LY15.
+- Authoring-ready in this master: 30 of 30 Year 1 English codes.
+- Literacy strand complete: AC9E1LY01–AC9E1LY15 (15 of 15).
+- Year 1 English research coverage is complete across Language, Literature and Literacy.
+- IXL was checked at curriculum-map level and through representative authenticated worked examples; Khan was checked and recorded as no direct match where appropriate; Australian Curriculum/QCAA and free Literacy Hub resources remain the authority/supplement.
+- Existing banks for these five codes contain 24 Practice and 16 Test items per code. Inventory counts do not certify quality, breadth or assessment validity.
+- Research only: no English production content, runtime, grading, retake or completion behaviour was changed.
+- Freeze status: READY FOR FINAL COMPLETENESS PASS; not yet labelled frozen.
