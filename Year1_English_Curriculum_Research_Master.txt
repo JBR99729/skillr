@@ -981,3 +981,234 @@ BATCH 4 CHECKPOINT — 2026-09-14
 - Next research batch: AC9E1LY06–AC9E1LY10.
 - Research only: no English production content, runtime, grading or completion behaviour was changed.
 
+============================================================
+BATCH 5 RESEARCH — AC9E1LY06–AC9E1LY10
+Completed: 2026-09-14
+============================================================
+
+SHARED SOURCE CHECK
+- Exact descriptors checked against the Australian Curriculum v9-aligned IXL page and QCAA Prep–Year 6 English content-description sequence.
+- Authenticated IXL worked examples inspected for arranging words into a complete sentence, identifying individual phonemes and ordering phonemes.
+- IXL supplies many mapped component skills for AC9E1LY06, no mapped skills for AC9E1LY07 or AC9E1LY08, and broad but partly overlapping phonological/phonic mappings for AC9E1LY09–AC9E1LY10.
+- Khan Academy authenticated search for first-grade phoneme segmentation, writing and presentation returned no usable visible result. Khan is SOURCE-NOT-MAPPED for this batch.
+- Australian Government Literacy Hub phonics progression, lesson-pack and Year 1 Phonics Check resources provide stronger supplementary evidence for the phonological codes.
+- Existing repository inventory: each code has 24 Practice + 16 separate Test items. These counts cannot certify independent composition, oral delivery, letter formation or purely oral phoneme manipulation.
+
+============================================================
+CODE: AC9E1LY06
+DESCRIPTOR: Create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event, using grammatically correct simple sentences, some topic-specific vocabulary, sentence boundary punctuation and correct spelling of some one- and two-syllable words.
+STATUS: AUTHORING-READY
+============================================================
+
+IXL EVIDENCE AND LIMIT
+- IXL maps numerous component skills: consonant blends/digraphs, short vowels, one- and two-syllable spelling, end punctuation, sentence unscrambling, pronouns, agreement, past tense and articles.
+- The inspected sentence-unscrambling example required a complete thought with naming/action parts, capital start and end punctuation.
+- These tasks support conventions and sentence construction but do not demonstrate planning, creating, rereading and editing a coherent original report, opinion or recount.
+
+CURRICULUM DEPTH
+- Create short texts for three required purposes: report on a learnt topic, express an opinion, and recount a real or imagined event.
+- Use a small, purposeful structure: grouped information, opinion plus reason, or sequenced events.
+- Compose grammatically correct simple sentences with suitable topic vocabulary and boundary punctuation.
+- Apply known phoneme–grapheme patterns and common word knowledge to some one- and two-syllable words.
+- Reread for meaning, then add, delete, replace or reorder words/images and correct selected convention errors.
+- Multimodal texts may combine writing, image, label, caption or digital element; decoration alone does not make a text multimodal.
+
+REQUIRED REPRESENTATIONS
+- Planning frames, sentence and image sequences, opinion/reason organisers, report headings, recount timelines and before/after edits.
+- Include genuine blank-space creation tasks, not only correction of supplied sentences.
+
+MISCONCEPTIONS TO ASSESS
+- Editing means copying neatly without changing meaning.
+- A text is complete after one sentence regardless of purpose.
+- Correct spelling alone makes a coherent text.
+- An opinion needs no reason.
+- Every recount must be factual.
+- Adding more images automatically improves a multimodal text.
+
+AUTHORING REQUIREMENTS
+- Teach purpose → plan → compose → reread for meaning → edit structure/language/conventions → publish.
+- Quizzes may assess component decisions and editing; descriptor mastery requires an independently created and revised text.
+- Practical rubric should separately capture purpose/structure, ideas, simple sentences, vocabulary, punctuation, spelling and evidence of rereading/editing.
+
+SOURCES
+- IXL Year 1 mapping: https://au.ixl.com/standards/english/year-1
+- IXL inspected: Unscramble the words to make a complete sentence.
+- Australian Curriculum Year 1 work samples: https://www.australiancurriculum.edu.au/resources/work-samples/english/year-1
+- QCAA Prep–Year 6 English sequence: https://www.qcaa.qld.edu.au/downloads/aciqv9/english/curriculum/ac9_english_p-6_cd_sequence.pdf
+- Literacy Hub planning resources: https://www.literacyhub.edu.au/search/planning-resources/
+
+============================================================
+CODE: AC9E1LY07
+DESCRIPTOR: Create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement; some topic-specific vocabulary; and appropriate gesture, volume and pace.
+STATUS: AUTHORING-READY
+============================================================
+
+IXL EVIDENCE AND LIMIT
+- IXL lists no mapped skill for AC9E1LY07.
+- Vocabulary, sentence and interaction activities are prerequisites only. An individual selected-response screen cannot demonstrate an organised live presentation or appropriate delivery.
+- IXL is SOURCE-NOT-MAPPED for direct descriptor coverage.
+
+CURRICULUM DEPTH
+- Plan a short presentation on a personal or learnt topic with an identifiable opening, ordered middle and concluding statement.
+- Select a few accurate topic-specific words that help the audience understand.
+- Use gesture, volume and pace suited to purpose, audience and setting; variation may be appropriate across communication needs and cultures.
+- Multimodal support may include an object, drawing, image, labelled diagram or simple slide, but it should support rather than replace the spoken message.
+- Practise and improve clarity while keeping expectations age-appropriate.
+
+REQUIRED REPRESENTATIONS
+- Three-part planning cards, sequencing prompts, model/weak presentation comparisons, visual aid choices and teacher/parent observation rubrics.
+- Include demonstration, report, recount and simple persuasive presentation contexts.
+
+MISCONCEPTIONS TO ASSESS
+- A greeting alone is a complete opening.
+- Speaking loudly always improves clarity.
+- Faster delivery shows confidence.
+- More gestures are always better.
+- Reading every word from a visual is a multimodal presentation.
+- A conclusion must introduce a new main idea.
+
+AUTHORING REQUIREMENTS
+- Teach choose topic/purpose → plan opening/middle/conclusion → select vocabulary/visual → rehearse gesture/volume/pace → deliver/reflect.
+- Quizzes can assess organisation and suitable delivery choices only.
+- Completion requires an observed oral or multimodal presentation with a concise flexible rubric; do not disadvantage speech, language or communication differences.
+
+SOURCES
+- Australian Curriculum Year 1 work samples: https://www.australiancurriculum.edu.au/resources/work-samples/english/year-1
+- QCAA Prep–Year 6 English sequence: https://www.qcaa.qld.edu.au/downloads/aciqv9/english/curriculum/ac9_english_p-6_cd_sequence.pdf
+- Australian Curriculum English overview: https://www.australiancurriculum.edu.au/curriculum-information/understand-this-learning-area/english
+- IXL Year 1 mapping: https://au.ixl.com/standards/english/year-1
+
+============================================================
+CODE: AC9E1LY08
+DESCRIPTOR: Write words using unjoined lower-case and upper-case letters.
+STATUS: AUTHORING-READY
+============================================================
+
+IXL EVIDENCE AND LIMIT
+- IXL lists no mapped skill for AC9E1LY08.
+- Letter recognition, capitalisation and typed spelling tasks do not show handwriting formation, size, direction, placement or legibility.
+- IXL and Khan are SOURCE-NOT-MAPPED for direct handwriting evidence in this batch.
+
+CURRICULUM DEPTH
+- Form recognisable unjoined lower- and upper-case letters using an approved school handwriting model.
+- Write letters within words with consistent orientation, relative size and placement on the line.
+- Use spacing so word boundaries remain clear.
+- Develop an efficient, functional grasp and posture without enforcing one rigid grip where another functional grasp supports control.
+- Prioritise legibility and fluent movement over decorative perfection or speed.
+
+REQUIRED REPRESENTATIONS
+- Explicit formation models with start point/direction, trace–copy–independent progression, baseline/x-height guidance, word-copying and independent word writing.
+- Include visually confusable letters, mixed upper/lower case and age-appropriate spacing checks.
+
+MISCONCEPTIONS TO ASSESS
+- Typing a word demonstrates handwriting.
+- Any capital/lower-case mixture is acceptable within a word.
+- Bigger letters are automatically clearer.
+- Pencil grip has only one acceptable physical form.
+- Tracing alone proves independent formation.
+- Fast writing is more important than legibility.
+
+AUTHORING REQUIREMENTS
+- Teach observe formation → air/finger trace → guided write → independent word → reread for legibility.
+- Screen quizzes may recognise correct forms but cannot certify handwriting.
+- Worksheet/Classroom View must provide actual writing space and a teacher/parent observation check for formation and legibility.
+
+SOURCES
+- QCAA Prep–Year 6 English sequence: https://www.qcaa.qld.edu.au/downloads/aciqv9/english/curriculum/ac9_english_p-6_cd_sequence.pdf
+- Australian Curriculum Year 1 work samples: https://www.australiancurriculum.edu.au/resources/work-samples/english/year-1
+- Literacy Hub planning resources: https://www.literacyhub.edu.au/search/planning-resources/
+- IXL Year 1 mapping: https://au.ixl.com/standards/english/year-1
+
+============================================================
+CODE: AC9E1LY09
+DESCRIPTOR: Segment words into separate phonemes (sounds), including consonant blends or clusters at the beginnings and ends of words (phonological awareness).
+STATUS: AUTHORING-READY
+============================================================
+
+IXL EVIDENCE AND LIMIT
+- IXL maps syllable, rhyme, first/last sound, blend recognition and vowel-sound tasks to this code.
+- The inspected "Identify each sound in a word" example represented phoneme positions, modelled ordered sounds and asked for the initial phoneme.
+- IXL provides useful sound isolation and order, but some mapped activities operate at syllable, rhyme or letter level. Full segmentation requires the learner to orally produce every phoneme, including each sound within an initial/final cluster.
+
+CURRICULUM DEPTH
+- Segment a spoken one-syllable word into phonemes in order without depending on printed letters.
+- Treat blends/clusters as separate phonemes (for example, /f/ /r/... in a starting cluster), while a digraph may represent one phoneme.
+- Include initial and final clusters with developmentally suitable words and Australian English pronunciation.
+- Blend the segmented sounds back to check the original word.
+- Keep phoneme segmentation distinct from counting letters, syllables or onset–rime chunks.
+
+REQUIRED REPRESENTATIONS
+- Oral word/picture prompts, counters or sound boxes, tap/push tokens, teacher audio and no-print trials.
+- Printed graphemes may be added after oral segmentation but should not replace it.
+
+MISCONCEPTIONS TO ASSESS
+- One letter always equals one phoneme.
+- A consonant blend is one sound.
+- Digraphs must be split into two sounds.
+- Syllables and phonemes are the same.
+- Silent letters create spoken phonemes.
+- Counting boxes without saying sounds demonstrates segmentation.
+
+AUTHORING REQUIREMENTS
+- Teach hear word → stretch carefully → say/tap each phoneme → count/check order → blend back.
+- Quizzes require reliable audio and can check sound selection/order; mastery needs an observed oral segmentation check.
+- Include initial and final clusters and avoid accent-dependent ambiguous items.
+
+SOURCES
+- IXL Year 1 mapping: https://au.ixl.com/standards/english/year-1
+- IXL inspected: Identify each sound in a word.
+- Literacy Hub planning and phonics resources: https://www.literacyhub.edu.au/search/planning-resources/
+- Literacy Hub Year 1 Phonics Check: https://check.literacyhub.edu.au/
+- QCAA Prep–Year 6 English sequence: https://www.qcaa.qld.edu.au/downloads/aciqv9/english/curriculum/ac9_english_p-6_cd_sequence.pdf
+
+============================================================
+CODE: AC9E1LY10
+DESCRIPTOR: Orally manipulate phonemes in spoken words by addition, deletion and substitution of initial, medial and final phonemes to generate new words (phonological awareness).
+STATUS: AUTHORING-READY
+============================================================
+
+IXL EVIDENCE AND LIMIT
+- IXL maps blending, identifying sounds, ordering sounds and completing short-vowel words.
+- The inspected sound-order example required arranging three heard phonemes to form a pictured word; the solution explicitly stated phoneme count and order.
+- This supports sound sequencing but does not fully cover oral addition, deletion and substitution at initial, medial and final positions.
+- Printed letter tiles can support learning but must not replace spoken-word manipulation in the assessment evidence.
+
+CURRICULUM DEPTH
+- Add, remove or replace one phoneme in a spoken one-syllable word to generate and say a new word.
+- Work across initial, medial and final positions, including words of up to four phonemes where appropriate.
+- State both the change and result: what sound changed/was added/removed, where, and the new word.
+- Maintain phoneme—not letter—reasoning, including digraph spellings where the spoken change is one sound.
+- Use Australian English pronunciation and avoid changes whose answer varies by accent or produces obscure/non-age-appropriate vocabulary.
+
+REQUIRED REPRESENTATIONS
+- Oral minimal-pair chains, picture prompts, counters/Elkonin boxes, add/remove/change cards and teacher-led no-print trials.
+- Use printed letters only after the oral sound operation is secure.
+
+MISCONCEPTIONS TO ASSESS
+- Changing a letter always changes exactly one sound.
+- Addition means attach a sound only at the beginning.
+- Deleting a phoneme may leave the remaining sounds in a new order.
+- The new word need not be a real word when the prompt requires one.
+- Medial sound means the middle letter.
+- Blending supplied sounds is the same as independently manipulating a phoneme.
+
+AUTHORING REQUIREMENTS
+- Teach say source word → locate target sound → add/delete/substitute → blend → say/check new word.
+- Balance all three operations and all three positions across the resource set.
+- Screen tasks may check recognition/order with audio, but mastery requires the child to respond orally without being led by spellings.
+
+SOURCES
+- IXL Year 1 mapping: https://au.ixl.com/standards/english/year-1
+- IXL inspected: Put the sounds in order; Identify each sound in a word.
+- Literacy Hub planning and phonics resources: https://www.literacyhub.edu.au/search/planning-resources/
+- Literacy Hub Year 1 Phonics Check: https://check.literacyhub.edu.au/
+- QCAA Prep–Year 6 English sequence: https://www.qcaa.qld.edu.au/downloads/aciqv9/english/curriculum/ac9_english_p-6_cd_sequence.pdf
+
+============================================================
+BATCH 5 CHECKPOINT — 2026-09-14
+============================================================
+- Completed: AC9E1LY06, AC9E1LY07, AC9E1LY08, AC9E1LY09, AC9E1LY10.
+- Authoring-ready in this master: 25 of 30 Year 1 English codes.
+- Next research batch: AC9E1LY11–AC9E1LY15.
+- Research only: no English production content, runtime, grading or completion behaviour was changed.
+
