@@ -1,0 +1,227 @@
+SKILLRHUB YEAR 1 SCIENCE — CURRICULUM RESEARCH MASTER
+Australian Curriculum v9
+Started: 2026-09-14
+Research only — no SkillrHub authoring in this file
+
+PURPOSE
+This cumulative master records sufficient original, abstracted pedagogical evidence for later creation or re-authoring of the Topic Page, HTML Classroom View, worksheet/homework, Practice Bank and genuinely separate Test Bank for every Year 1 Science code. Existing repository research and reviewed banks are reused; source wording and artwork must not be copied.
+
+CURRICULUM INVENTORY — 10 CODES
+Science understanding: AC9S1U01–AC9S1U03.
+Science as a human endeavour: AC9S1H01.
+Science inquiry: AC9S1I01–AC9S1I06.
+
+EXISTING REPOSITORY EVIDENCE
+- All 10 codes already have topic pages, Classroom Views, worksheets and assessment banks.
+- Prior reference-review records exist for all 10 codes.
+- Existing reviewed bank sizes are 24 Practice + 16 Test per code, with visual evidence cards and runtime validation.
+- The current research task strengthens the pedagogical record and identifies future re-authoring requirements; it does not copy or inflate existing material automatically.
+
+============================================================
+CODE: AC9S1U01
+DESCRIPTOR: Identify the basic needs of plants and animals, including air, water, food or shelter, and describe how the places they live meet those needs.
+STATUS: AUTHORING-READY
+============================================================
+
+EXISTING IXL / REPOSITORY EVIDENCE
+- Mapped IXL skill: Plant needs and related Year 1 Australian Curriculum science mapping.
+- The reviewed repository bank contains 24 Practice and 16 separate Test questions.
+- Evidence spans food, water, air, light, shelter, room/space, habitat suitability, shared versus different needs, and habitats meeting several needs at once.
+- Questions progress from recognising one need to evaluating a habitat card, identifying a missing resource, and explaining why one resource cannot replace another.
+
+CURRICULUM DEPTH
+- Compare needs of plants, animals and humans without teaching that every organism needs the same food or shelter.
+- Connect habitat features to needs: pond water, food organisms, tree hollows, cover, suitable light and growing room.
+- Include care for pets, plants and local living things.
+- Treat a habitat as a system providing several resources and conditions, not simply "an animal's home."
+- Use local, community-approved knowledge when addressing First Nations Caring for Country; identify the specific Nation/community where known and avoid pan-Indigenous generalisations.
+
+REQUIRED REPRESENTATIONS
+- Habitat photographs/diagrams, need–feature matching, before/after habitat changes, plant setup cards and simple dioramas.
+- Examples across gardens, ponds, bush areas, homes and managed animal environments.
+
+MISCONCEPTIONS TO ASSESS
+- Plants get food from soil or "eat" sunlight.
+- Water replaces every other need.
+- All animals eat the same food.
+- Shelter is only a human-made house.
+- A place meeting one need is automatically a suitable habitat.
+- More of one resource compensates for a missing different resource.
+
+AUTHORING REQUIREMENTS
+- Retain need → habitat feature → evidence reasoning.
+- Include multi-need decisions, comparisons between organisms, habitat-change effects and care choices.
+- Avoid decorative animal trivia unrelated to needs.
+- Topic page must explicitly teach shared needs, different ways of meeting them, and why all required conditions matter.
+
+SOURCES
+- Repository: scripts/year1_science_ixl_review/u01.txt.
+- Repository review: docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md.
+- Australian Curriculum v9 AC9S1U01 and official teacher background information.
+
+============================================================
+CODE: AC9S1U02
+DESCRIPTOR: Describe daily and seasonal changes in the environment and explore how these changes affect everyday life.
+STATUS: AUTHORING-READY
+============================================================
+
+EXISTING IXL / REPOSITORY EVIDENCE
+- Mapped IXL skill: Weather patterns.
+- Reviewed bank: 24 Practice + 16 separate Test.
+- Evidence includes day/night, weather changing within/between days, wind/rain/temperature observations, tree and flower changes across seasons, daylight/shade patterns and practical responses.
+- The bank deliberately distinguishes a usual seasonal pattern from a guarantee about every day.
+
+CURRICULUM DEPTH
+- Daily changes: light/dark, weather, temperature, shade position and short-term effects on places and activities.
+- Seasonal changes: longer-term patterns in weather, daylight, plants and animal behaviour.
+- Effects on daily life: clothing, shelter, activity timing, safe routes, garden care and resource availability.
+- Observation records must preserve time order and distinguish direct observation from inference.
+- Australian seasonal patterns vary by location. First Nations seasonal calendars must be locally grounded, attributed and taught through approved sources.
+
+REQUIRED REPRESENTATIONS
+- Paired morning/afternoon scenes, short weather records, dated plant photographs, shade/daylight cards, local seasonal calendars and activity-choice scenarios.
+
+MISCONCEPTIONS TO ASSESS
+- One cold day means the season changed.
+- Every day in a season has identical weather.
+- Weather and season are synonyms.
+- All Australian places have the same four-season pattern.
+- Dark clouds prove rain occurred.
+- A pattern guarantees the next observation exactly.
+
+AUTHORING REQUIREMENTS
+- Balance daily and seasonal examples.
+- Ask what changed, what evidence supports it, the time scale involved and how people/plants/animals may respond.
+- Do not drift into formal astronomy or climate statistics.
+- Teach "common pattern" versus "always."
+
+SOURCES
+- Repository: scripts/year1_science_ixl_review/u02.txt.
+- Repository review: docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md.
+- Australian Curriculum v9 AC9S1U02 and official First Nations teacher background resources.
+
+============================================================
+CODE: AC9S1U03
+DESCRIPTOR: Describe pushes and pulls in terms of strength and direction and predict the effect of these forces on objects' motion and shape.
+STATUS: AUTHORING-READY
+============================================================
+
+EXISTING IXL / REPOSITORY EVIDENCE
+- Mapped IXL skill: Investigate pushes and pulls.
+- Reviewed bank: 24 Practice + 16 separate Test.
+- Evidence covers push versus pull, direction arrows, start/stop/speed/turn effects, stronger versus gentler forces, barriers, and shape changes in soft materials.
+- Existing visual cards make arrow direction and travel outcomes necessary evidence rather than decoration.
+
+CURRICULUM DEPTH
+- Contact pushes and pulls can start or stop motion, change speed or direction, or change shape.
+- Strength and direction must be described relative to a clearly identified object and starting state.
+- Predictions are conditional: the same object and setup should be compared when reasoning about stronger/gentler force.
+- Everyday contexts include doors, drawers, trolleys, balls, playdough, playground equipment, toys and suitable sporting equipment.
+- First Nations instructive toys/games may be used only with accurate, culturally appropriate source context.
+
+REQUIRED REPRESENTATIONS
+- Before/after motion cards, force arrows, path diagrams, equal-setup comparisons and soft-material shape changes.
+
+MISCONCEPTIONS TO ASSESS
+- A force must keep acting for an object ever to move.
+- A push always makes something faster.
+- Stronger always means farther regardless of surface/barrier/setup.
+- Direction belongs to the object rather than the applied force.
+- Shape change means the material became a new substance.
+- A visible arrow is the object's path when it actually represents the force.
+
+AUTHORING REQUIREMENTS
+- Teach force action → strength/direction → predicted motion/shape effect.
+- Include fair comparisons and cases where a barrier or opposing force changes the outcome.
+- Avoid formal force units, calculations and unnecessary friction terminology.
+
+SOURCES
+- Repository: scripts/year1_science_ixl_review/u03.txt.
+- Repository review: docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md.
+- Australian Curriculum v9 AC9S1U03 and official teacher background information.
+
+============================================================
+CODE: AC9S1H01
+DESCRIPTOR: Describe how people use science in their daily lives, including using patterns to make scientific predictions.
+STATUS: AUTHORING-READY
+============================================================
+
+EXISTING IXL / REPOSITORY EVIDENCE
+- IXL comparison evidence: Design a race car track; the curriculum mapping also links plant needs.
+- Reviewed bank: 24 Practice + 16 separate Test.
+- Existing questions connect observations and repeated results to practical choices, then require relevant evidence, changed-condition awareness and supported predictions.
+- IXL is a related task-design reference rather than complete descriptor coverage.
+
+CURRICULUM DEPTH
+- People use observations, tests and patterns when caring for living things, responding to weather, designing toys/equipment, cooking, building and solving everyday problems.
+- A scientific prediction uses an observed or experienced pattern and remains testable; it is not a guess based only on preference.
+- Science can inform a choice without guaranteeing an outcome.
+- The code must show use, not merely ask students to name a scientist or laboratory object.
+
+REQUIRED REPRESENTATIONS
+- Short observation records, repeated-result tables/picture sequences, everyday problem/solution cards and "evidence → prediction → action" chains.
+
+MISCONCEPTIONS TO ASSESS
+- Science happens only in laboratories.
+- Any future statement is a scientific prediction.
+- One observation always establishes a reliable pattern.
+- A prediction must be correct to be scientific.
+- A practical design succeeds because it looks attractive.
+- Changed conditions can be ignored.
+
+AUTHORING REQUIREMENTS
+- Use authentic Year 1 contexts and ask which evidence supports a practical prediction or solution.
+- Include plant/animal care, weather planning and pushes/pulls without duplicating the understanding-code questions.
+- Topic teaching should model observation → pattern → prediction → everyday decision.
+
+SOURCES
+- Repository review: docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md.
+- Repository quality audit: docs/year1-stem-quality-audit-2026-08.md.
+- Australian Curriculum v9 AC9S1H01 official background materials.
+
+============================================================
+CODE: AC9S1I01
+DESCRIPTOR: Pose questions and make predictions to explore observed simple patterns or relationships.
+STATUS: AUTHORING-READY
+============================================================
+
+EXISTING IXL / REPOSITORY EVIDENCE
+- IXL references: Investigate pushes and pulls and Investigate sunlight and shade.
+- Reviewed bank: 24 Practice + 16 separate Test.
+- Evidence progresses from identifying a prediction to matching a question to an observed relationship, selecting relevant prior experience and interpreting repeated comparisons.
+- Evaluation of completed investigations is kept mainly for AC9S1I05.
+
+CURRICULUM DEPTH
+- Begin with an observation, identify what could be compared, pose an answerable question and make a reasoned prediction.
+- Questions should focus on observable outcomes, not opinions such as "nicest."
+- Predictions may use personal experience or a simple observed pattern and should state a reason.
+- A prediction is made before checking and need not be correct.
+
+REQUIRED REPRESENTATIONS
+- Paired observations, small repeated-result sequences, question/prediction cards and simple comparative setups involving habitats, weather, shade or motion.
+
+MISCONCEPTIONS TO ASSESS
+- A question and prediction are the same thing.
+- A preference question is automatically investigable.
+- A prediction reports what already happened.
+- Cautious words such as "may" make any prediction evidence-based.
+- The prediction is wrong if the investigation has not happened yet.
+- An unrelated experience supports the prediction.
+
+AUTHORING REQUIREMENTS
+- Teach the sequence: notice → ask → predict with a reason → investigate later.
+- Include questions with measurable/observable outcomes and distractors that are plausible but investigate a different variable.
+- Avoid drifting into full procedural design, formal variables or judging fairness.
+
+SOURCES
+- Repository review: docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md.
+- Repository topic/Classroom View evidence for AC9S1I01.
+- Australian Curriculum v9 AC9S1I01.
+
+============================================================
+BATCH CHECKPOINT — 2026-09-14
+============================================================
+- Completed: AC9S1U01, AC9S1U02, AC9S1U03, AC9S1H01, AC9S1I01.
+- Total authoring-ready in this master: 5 of 10 Year 1 Science codes.
+- Next: AC9S1I02, AC9S1I03, AC9S1I04, AC9S1I05, AC9S1I06.
+- Existing reviewed assessment banks are evidence, not automatically the final required bank architecture. Future re-authoring must follow the current SkillrHub practice mastery and first-test-attempt grading rules.
