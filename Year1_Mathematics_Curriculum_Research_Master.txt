@@ -278,6 +278,18 @@ AUTHORING COVERAGE REQUIREMENTS
 - Include unknowns in different positions, not only at the end.
 - Practice and test questions must assess strategy understanding as well as final answers.
 
+TEXTBOOK / SEQUENCE CROSS-CHECK — 2026-09-16
+- Cross-checked the existing sequence against Australian Government Mathematics Hub guidance and textbook-style Year 1 progression (concrete → pictorial → symbolic).
+- No core concept is missing: the record already includes joining/separating, part-part-whole, bonds to 10, number lines, count on/back, doubles/near doubles, make-ten, related facts, inverse checking, equations and unknowns.
+- Add explicitly to the build: balanced-equation forms (for example, □ = 7 − 5 and 2 = 7 − □); commutative addition shown with materials; three-addend make-ten; and add-zero / subtract-zero examples.
+- Keep the subtraction sequence flexible: use count-back for a small subtraction and count-up/count-on for close numbers; ask children to explain why a chosen strategy works.
+- Include short story problems in multiple unknown structures (result, missing addend, change and start), with materials or diagrams before equations.
+- At each first introduction of a new strategy or representation, provide an answer-neutral visual. Use concrete objects/virtual counters first, then ten-frames, part-whole diagrams and number lines, and only then symbols.
+- Assessment must check representation, reasoning and equation interpretation—not only a final total. In particular, include equal-sign balance and zero misconceptions.
+
+TEXTBOOK / RESEARCH DECISION
+- Textbook-style progression confirms the pack is complete with the additions above. AC9M1N04 remains authoring-ready; no missing prerequisite warrants a new research cycle.
+
 RESEARCH DECISION
 - Authoring-ready; evidence is sufficient for all required deliverables and question-bank diversity.
 
