@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
     <loc>https://skillrhub.com/sitemap-site.xml</loc>
@@ -10,7 +10,7 @@
   </sitemap>
   <sitemap>
     <loc>https://skillrhub.com/sitemap-year1.xml</loc>
-    <lastmod>2026-09-12</lastmod>
+    <lastmod>2026-09-16</lastmod>
   </sitemap>
   <sitemap>
     <loc>https://skillrhub.com/sitemap-year2.xml</loc>
@@ -26,7 +26,7 @@
   </sitemap>
   <sitemap>
     <loc>https://skillrhub.com/sitemap-year5.xml</loc>
-    <lastmod>2026-09-12</lastmod>
+    <lastmod>2026-09-16</lastmod>
   </sitemap>
   <sitemap>
     <loc>https://skillrhub.com/sitemap-year6.xml</loc>
@@ -38,7 +38,7 @@
   </sitemap>
   <sitemap>
     <loc>https://skillrhub.com/sitemap-year8.xml</loc>
-    <lastmod>2026-09-12</lastmod>
+    <lastmod>2026-09-16</lastmod>
   </sitemap>
   <sitemap>
     <loc>https://skillrhub.com/sitemap-year9.xml</loc>
