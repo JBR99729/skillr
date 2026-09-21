@@ -19,8 +19,12 @@
     if (/^\/(?:privacy-policy|policy|404|offline|ai-|editorial-standards)/i.test(location.pathname)) return;
     // Practice, Test, retake, review and daily-drill banks stay assessment-only.
     if (ctx.activity) return;
-    let hidden = false;
-    try { hidden = localStorage.getItem(config.storageKey) === 'false'; } catch (_) { /* Storage is optional. */ }
+    // Ben & Vani start collapsed for new visitors. Respect an existing explicit preference.
+    let hidden = true;
+    try {
+      const savedVisibility = localStorage.getItem(config.storageKey);
+      hidden = savedVisibility === null ? true : savedVisibility === 'false';
+    } catch (_) { /* Storage is optional; default remains collapsed. */ }
     let guideIndex = -1, running = false, lastQuestion = '', previousTarget = null;
     const originalTabindex = new Map();
     const openState = new Map();
