@@ -748,5 +748,58 @@
       "Focused on AC9M3N02; not a complete Year 3 mathematics program",
       "Both resources are also sold individually; check previous purchases to avoid duplicates"
     ]
+  },
+  {
+    "id": "year-1-ac9m1n05-slides",
+    "title": "Year 1 Addition & Subtraction Problem Solving + Money Lesson Slides | AC9M1N05",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "addition",
+      "subtraction",
+      "problem solving",
+      "money",
+      "lesson slides"
+    ],
+    "curriculumCodes": [
+      "AC9M1N05"
+    ],
+    "description": "Ready-to-present Year 1 lesson slides for addition and subtraction stories, missing parts, comparison and simple whole-dollar money problems.",
+    "url": "/teach-and-explain/year1/maths/ac9m1n05-addition-subtraction-problem-solving-money/",
+    "image": "/icons/skillrhub-mark.svg",
+    "price": "5.00",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Addition-Subtraction-Problem-Solving-Money-Lesson-Slides-AC9M1N05-17670474"
+  },
+  {
+    "id": "year-1-ac9m1n06-slides",
+    "title": "Year 1 Equal Sharing & Grouping Lesson Slides + Worksheets | AC9M1N06",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "equal sharing",
+      "equal groups",
+      "grouping",
+      "early multiplication",
+      "early division",
+      "lesson slides"
+    ],
+    "curriculumCodes": [
+      "AC9M1N06"
+    ],
+    "description": "Visual Year 1 teaching slides for fair sharing, equal groups, grouping and early multiplication and division understanding.",
+    "url": "/teach-and-explain/year1/maths/ac9m1n06-equal-sharing-grouping/",
+    "image": "/icons/skillrhub-mark.svg",
+    "price": "5.00",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Equal-Sharing-Grouping-Lesson-Slides-Worksheets-AC9M1N06-17676629"
   }
 ]
