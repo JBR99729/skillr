@@ -1,5 +1,14 @@
 # Skillr Repository Instructions
 
+## Canonical product and business philosophy
+
+Before making product, UX, commercial, funnel, SEO, catalogue, curriculum-expansion or positioning decisions, read and preserve:
+
+`docs/SKILLRHUB_PRODUCT_BUSINESS_PHILOSOPHY.md`
+
+That document is the owner’s long-term SkillrHub philosophy and survives individual chats and implementation cycles. Where a proposed change conflicts with it, surface the conflict rather than silently changing the product direction.
+
+
 ## RED ALERT: preserve the complete site on every release
 
 On 2026-09-06, a changed-files-only Git tree replaced main and removed the site and CNAME. This caused a production outage. Site integrity takes precedence over content throughput.
