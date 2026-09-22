@@ -1,0 +1,49 @@
+name: Consolidate curriculum search index
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  consolidate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Consolidate satellite indexation
+        run: python3 scripts/consolidate_curriculum_search_index.py
+      - name: Verify topic landing pages were not noindexed
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+          bad=[]
+          roots=[Path('foundation')]+[Path(f'year{i}') for i in range(1,11)]
+          code=re.compile(r'^ac9',re.I)
+          for root in roots:
+              if not root.exists(): continue
+              for p in root.rglob('index.html'):
+                  if 'teacher-slides' in p.parts: continue
+                  if not any(code.match(part) for part in p.parts): continue
+                  text=p.read_text(encoding='utf-8')
+                  if re.search(r'<meta\s+name=["\']robots["\']\s+content=["\'][^"\']*noindex',text,re.I):
+                      bad.append(str(p))
+          if bad:
+              raise SystemExit('Authoritative topic pages unexpectedly noindexed:\n'+'\n'.join(bad[:50]))
+          print('Topic landing page safety check passed.')
+          PY
+      - name: Commit generated changes
+        run: |
+          git config user.name "skillrhub-automation"
+          git config user.email "actions@users.noreply.github.com"
+          git add quiz foundation year1 year2 year3 year4 year5 year6 year7 year8 year9 year10 reports/seo/curriculum-index-consolidation.md
+          if git diff --cached --quiet; then
+            echo "No generated changes."
+            exit 0
+          fi
+          git commit -m "Consolidate curriculum satellite pages to noindex"
+          git push origin main
