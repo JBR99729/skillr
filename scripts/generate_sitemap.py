@@ -10,14 +10,6 @@ from pathlib import Path
 from urllib.parse import quote,unquote,urlparse
 from zoneinfo import ZoneInfo
 ROOT=Path(__file__).resolve().parents[1]; BASE="https://skillrhub.com"
-SEARCH_QUALITY_HOLD_PATH=ROOT/"data"/"search-quality-hold.json"
-
-def search_quality_hold_urls():
- try:
-  data=json.loads(SEARCH_QUALITY_HOLD_PATH.read_text(encoding="utf-8"))
-  return {str(u).strip() for u in data.get("urls",[]) if str(u).strip().startswith("/")}
- except (FileNotFoundError,json.JSONDecodeError,TypeError):
-  return set()
 SKIP={"year1/maths/year-2-halves-quarters-and-eighths-in-everyday-life-activities-and-worksheets-ac9m2m02.html","quiz/grade-k/math/vocabulary/voabulary/index.html","quiz/year-2/math/addition-substraction-daily/index.html","year2/maths/addition-substraction-daily/index.html"}
 # Functional states have no independent search value. Keep the canonical learning entry points instead.
 FUNCTIONAL_PARTS={"result","results","review","retake"}
@@ -217,11 +209,8 @@ def main():
   if not is_canonical(source,url):continue
   if url in seen:raise ValueError(f"Duplicate sitemap route: {url}")
   seen.add(url);pages.append((url,page_title(source,rel),modified(rel,dates,dirty),source))
- hold_urls=search_quality_hold_urls()
  groups=defaultdict(list)
- for item in pages:
-  if item[0] in hold_urls: continue
-  groups[bucket(item[0])].append(item[:3])
+ for item in pages:groups[bucket(item[0])].append(item[:3])
  order=["site","foundation"]+[f"year{i}" for i in range(1,11)]+["practice","worksheets"]
  sitemap_files=[]
  for key in order:
@@ -255,5 +244,5 @@ def main():
 <body><div class="container"><nav class="main-nav" aria-label="Primary"><a href="/">Home</a><a href="/blogs/">Blogs</a><a href="/worksheets/">Worksheets</a><a href="/updates.html">Updates</a><a href="/sitemap.html" aria-current="page">Sitemap</a><a href="/about.html">About</a></nav><main><header class="sitemap-hero"><p class="eyebrow">Explore SkillrHub</p><h1>Australian Curriculum learning resources sitemap</h1><p>Jump to a Foundation–Year 10 Maths, Science or English curriculum hub, worksheets, guides or curriculum mappings. Individual topic pages are linked from each subject hub so this directory stays quick to scan.</p></header><div class="sitemap-directory">{''.join(blocks)}</div></main><footer><p>&copy; 2026 SkillrHub. All rights reserved.</p><p><a href="/privacy-policy.html">Privacy</a> · <a href="/contact.html">Contact</a></p></footer></div><script src="/pwa-register.js?v=7"></script></body></html>'''
  (ROOT/"sitemap.html").write_text(doc,encoding="utf-8")
  search_count=write_search_index(pages)
- print(f"Generated sitemap index with {len(sitemap_files)} child sitemaps, {len(pages)-len(hold_urls)} submitted URLs, {len(hold_urls)} quality-held URLs and {search_count} search entries.")
+ print(f"Generated sitemap index with {len(sitemap_files)} child sitemaps, {len(pages)} canonical indexable URLs and {search_count} search entries.")
 if __name__=="__main__":main()
