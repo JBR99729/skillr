@@ -250,5 +250,13 @@ Do not optimise for vanity market share. Optimise for:
 - expansion from one strong year/subject into adjacent demand;
 - sustainable margin.
 
-International expansion is optional upside after Australian product-market fit, not a prerequisite for success.
+International expansion, non-Australian curricula, generic global edtech features and markets outside Australian homeschool families plus Australian schools/teachers are **backlog only** until the owner explicitly promotes them into active scope.
+
+The active market scope is therefore:
+
+1. Australian homeschool families.
+2. Australian schools and teachers.
+3. Australian Curriculum-aligned learning and teaching needs.
+
+Work outside that scope must not displace active-market work.
 
