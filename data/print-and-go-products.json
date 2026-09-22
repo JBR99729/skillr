@@ -801,5 +801,34 @@
     "available": true,
     "resourceType": "teaching-slides",
     "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Equal-Sharing-Grouping-Lesson-Slides-Worksheets-AC9M1N06-17676629"
+  },
+  {
+    "id": "year-1-algebra-bundle",
+    "title": "Year 1 Algebra Bundle | Patterns, Skip Counting & Maths Lesson Slides | Aus V9.0",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "algebra",
+      "patterns",
+      "skip counting",
+      "repeating patterns",
+      "lesson slides",
+      "bundle"
+    ],
+    "curriculumCodes": [
+      "AC9M1A01",
+      "AC9M1A02"
+    ],
+    "description": "A growing Year 1 Algebra bundle with ready-to-use visual teaching slides and printable activities for skip-counting and repeating patterns.",
+    "url": "/teach-and-explain/year1/maths/year-1-algebra-bundle/",
+    "image": "/icons/skillrhub-mark.svg",
+    "price": "9.60",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Algebra-Bundle-Patterns-Skip-Counting-Maths-Lesson-Slides-Aus-V90-17678421",
+    "listPrice": "12.00"
   }
 ]
