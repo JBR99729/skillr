@@ -226,3 +226,29 @@ The intended identity is:
 > **A trusted Australian Curriculum teaching and learning system that saves adults preparation time and gives children a clear, purposeful path to understanding.**
 
 When a future decision conflicts with this philosophy, this document should be raised explicitly and the conflict resolved deliberately rather than silently changing the product direction.
+
+## 13. Australia-first commercial ambition
+
+SkillrHub does not need to dominate global education technology to become a large and valuable business.
+
+The primary commercial battlefield is **Australia**, with particular focus on:
+- Australian teachers who pay for resources that save preparation time;
+- homeschool families who need a clear curriculum-aligned teaching and learning system;
+- parents who want structured support without an overwhelming question-bank experience;
+- schools, tutors and education organisations where the same product system creates clear value.
+
+The goal is to win a **meaningful share of a focused market**, not chase every learner everywhere.
+
+Australia already contains millions of school students and hundreds of thousands of teachers, while home education is a substantial and growing state-regulated segment. A relatively small number of highly satisfied paying customers can therefore support a meaningful business if retention, pricing and product value are strong.
+
+Do not optimise for vanity market share. Optimise for:
+- paying households and teachers;
+- annual recurring or repeat revenue;
+- retention;
+- referrals;
+- repeat TPT purchase;
+- expansion from one strong year/subject into adjacent demand;
+- sustainable margin.
+
+International expansion is optional upside after Australian product-market fit, not a prerequisite for success.
+
