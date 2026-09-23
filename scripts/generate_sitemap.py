@@ -120,7 +120,14 @@ def norm(v):
 def is_canonical(source,url):
  t=canonical_path(source); return t is None or norm(t)==norm(url)
 def is_functional(path):
- return path.as_posix() in EXCLUDED_FILES or bool(set(path.parts)&(FUNCTIONAL_PARTS|EXCLUDED_PARTS|EXCLUDED_ROOT_PARTS|PAUSED_PARTS))
+ parts=path.parts
+ # Year 1 search discovery should land on useful topic/resource pages, not
+ # interactive launch, practice or assessment screens. Keep worksheets
+ # discoverable because they satisfy printable-resource search intent.
+ if len(parts)>=4 and parts[:3] in {("quiz","year-1","math"),("quiz","year-1","science")}:
+  if len(parts)<=5 or bool(set(parts[4:-1])&{"practice","test","quiz"}):
+   return True
+ return path.as_posix() in EXCLUDED_FILES or bool(set(parts)&(FUNCTIONAL_PARTS|EXCLUDED_PARTS|EXCLUDED_ROOT_PARTS|PAUSED_PARTS))
 
 def human_sitemap_page(url):
  """Keep the browser sitemap useful; XML sitemaps handle deep crawl discovery."""
