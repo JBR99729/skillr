@@ -1,0 +1,16 @@
+name: Archived Year 7 Maths final close v8
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  archived:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Explain archived workflow
+        run: |
+          echo "This one-time Year 7 closure workflow was retired after its release work completed."
+          echo "The original implementation remains recoverable from Git history."
