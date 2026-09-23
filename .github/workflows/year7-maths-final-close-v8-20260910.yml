@@ -1,8 +1,6 @@
 name: Year 7 Maths final close v8 2026-09-10
 on:
-  push:
-    branches: [main]
-    paths: ['.github/workflows/year7-maths-final-close-v8-20260910.yml']
+  workflow_dispatch:
 permissions:
   contents: write
 jobs:
