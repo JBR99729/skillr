@@ -1,0 +1,195 @@
+/* Commercial landing-page polish for canonical F-10 topic guides.
+   Curriculum content, metadata and resource routes remain authored in HTML. */
+.skillr-commercial-topic {
+  --commercial-blue: #1f5eea;
+  --commercial-navy: #123565;
+  --commercial-ink: #1d2d44;
+  --commercial-line: #d6e2f2;
+  --commercial-soft: #f3f7ff;
+  background:
+    radial-gradient(circle at 10% 0%, rgba(66, 133, 244, .13), transparent 30rem),
+    linear-gradient(180deg, #f7faff 0%, #eef4fb 100%);
+}
+
+.skillr-commercial-topic.skillr-resource .curriculum-page {
+  max-width: 1180px;
+  padding-top: 14px;
+  background: transparent;
+}
+
+.skillr-commercial-topic.skillr-resource .curriculum-hero {
+  position: relative;
+  overflow: hidden;
+  margin: 8px 0 28px;
+  padding: clamp(26px, 5vw, 48px);
+  border: 1px solid rgba(166, 188, 221, .78);
+  border-radius: 24px;
+  background:
+    radial-gradient(circle at 92% 12%, rgba(79, 140, 255, .16), transparent 17rem),
+    linear-gradient(135deg, #fff 0%, #f7faff 68%, #edf4ff 100%);
+  box-shadow: 0 22px 52px rgba(20, 53, 102, .10);
+}
+
+.skillr-commercial-topic.skillr-resource .curriculum-hero::before {
+  content: "";
+  position: absolute;
+  inset: 0 0 auto;
+  height: 5px;
+  background: linear-gradient(90deg, #1f5eea, #56a2ff 62%, #79c7a9);
+}
+
+.skillr-commercial-topic.skillr-resource .curriculum-hero h1 {
+  max-width: 28ch;
+  color: var(--commercial-navy);
+  font-size: clamp(2rem, 4.5vw, 3.35rem);
+  line-height: 1.08;
+  letter-spacing: -.025em;
+}
+
+.skillr-commercial-topic.skillr-resource .curriculum-hero__lead {
+  max-width: 68ch;
+  color: #344a67;
+  font-size: clamp(1rem, 1.5vw, 1.12rem);
+}
+
+.skillr-commercial-topic .skillr-quick-learning {
+  margin: 24px 0 14px;
+  padding: clamp(16px, 2.5vw, 22px);
+  border: 1px solid var(--commercial-line);
+  border-radius: 16px;
+  background: rgba(255, 255, 255, .88);
+  box-shadow: 0 10px 28px rgba(28, 63, 112, .07);
+}
+
+.skillr-commercial-topic .skillr-quick-learning h2 {
+  margin-bottom: 12px;
+  color: var(--commercial-navy);
+  font-size: 1.08rem;
+}
+
+.skillr-commercial-topic .skillr-quick-learning ul {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 9px;
+}
+
+.skillr-commercial-topic .skillr-quick-learning a {
+  min-height: 58px;
+  padding: 10px 12px;
+  border: 1px solid var(--commercial-line);
+  border-radius: 11px;
+  background: #fff;
+  color: var(--commercial-navy);
+  font-weight: 750;
+  line-height: 1.35;
+  text-decoration: none;
+}
+
+.skillr-commercial-topic .skillr-quick-learning li:last-child a {
+  border-color: var(--commercial-blue);
+  background: var(--commercial-blue);
+  color: #fff;
+}
+
+.skillr-commercial-topic .skillr-quick-learning a:hover {
+  border-color: #91afe5;
+  background: #eef4ff;
+}
+
+.skillr-commercial-topic .skillr-quick-learning li:last-child a:hover {
+  border-color: var(--commercial-navy);
+  background: var(--commercial-navy);
+  color: #fff;
+}
+
+.skillr-commercial-topic .skillr-quick-learning > p {
+  color: #52647d;
+  font-size: .9rem;
+}
+
+.skillr-commercial-topic .skillr-video-shortcut {
+  margin: 12px 0 18px;
+  padding: 12px 15px;
+  border: 1px solid #eadfb9;
+  border-radius: 11px;
+  background: #fffdf5;
+  color: #4d4530;
+}
+
+.skillr-commercial-topic .skillr-video-shortcut p {
+  display: inline;
+  margin-left: 5px;
+}
+
+.skillr-commercial-topic.skillr-resource .resource-actions {
+  margin-top: 18px;
+  padding-top: 16px;
+  border-top: 1px solid var(--commercial-line);
+}
+
+.skillr-commercial-topic.skillr-resource .resource-actions > a {
+  border-radius: 10px;
+}
+
+.skillr-commercial-topic.skillr-resource--topic .curriculum-topic-section {
+  border-color: var(--commercial-line);
+  border-radius: 14px;
+  box-shadow: 0 8px 24px rgba(28, 63, 112, .045);
+}
+
+.skillr-commercial-topic.skillr-resource--topic .curriculum-topic-section > summary {
+  border-radius: 14px;
+  background: linear-gradient(180deg, #f8faff 0%, #f1f6ff 100%);
+}
+
+.skillr-commercial-topic.skillr-resource--topic .curriculum-topic-section[open] > summary {
+  border-bottom: 1px solid var(--commercial-line);
+  border-radius: 14px 14px 0 0;
+}
+
+.skillr-commercial-topic .curriculum-footer-meta {
+  padding: 18px 0 6px;
+  color: #607089;
+  text-align: center;
+}
+
+@media (max-width: 860px) {
+  .skillr-commercial-topic .skillr-quick-learning ul {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 600px) {
+  .skillr-commercial-topic.skillr-resource .curriculum-page {
+    padding: 10px 12px 32px;
+  }
+
+  .skillr-commercial-topic.skillr-resource .curriculum-hero {
+    padding: 22px 17px;
+    border-radius: 18px;
+  }
+
+  .skillr-commercial-topic.skillr-resource .curriculum-hero h1 {
+    font-size: clamp(1.75rem, 9vw, 2.35rem);
+  }
+
+  .skillr-commercial-topic .skillr-quick-learning ul {
+    grid-template-columns: 1fr;
+  }
+
+  .skillr-commercial-topic .skillr-quick-learning a {
+    min-height: 50px;
+  }
+
+  .skillr-commercial-topic .skillr-video-shortcut p {
+    display: block;
+    margin-left: 0;
+  }
+}
+
+@media print {
+  .skillr-commercial-topic.skillr-resource .curriculum-hero,
+  .skillr-commercial-topic.skillr-resource--topic .curriculum-topic-section {
+    border-color: #bbb;
+    box-shadow: none;
+  }
+}

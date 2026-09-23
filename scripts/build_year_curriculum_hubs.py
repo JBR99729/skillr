@@ -167,6 +167,10 @@ def live_card_example(unit: dict) -> str:
     candidates = preferred or [question for question in questions if len(question) >= 18]
     candidates.sort(key=lambda question: (len(question) > 155, questions.index(question)))
     for question in candidates:
+        # Internal image-authoring directions are not meaningful on a compact
+        # curriculum card because the referenced visual is not displayed there.
+        if re.search(r"\[(?:show|display|insert|use)\b", question, flags=re.I):
+            continue
         lowered = question.casefold()
         if any(phrase in lowered for phrase in GENERIC_EXAMPLE_TEXT):
             continue
@@ -295,6 +299,8 @@ def validate_card_examples(units: list[dict]) -> None:
             continue
         value = html.unescape(strip_html(match.group(1))).strip()
         lowered = value.casefold()
+        if re.search(r"\[(?:show|display|insert|use)\b", value, flags=re.I):
+            errors.append(f"{unit['code']}: internal visual direction remains")
         if any(phrase in lowered for phrase in GENERIC_EXAMPLE_TEXT):
             errors.append(f"{unit['code']}: generic example remains")
         key = re.sub(r"\W+", " ", lowered).strip()

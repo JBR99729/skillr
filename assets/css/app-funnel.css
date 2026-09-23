@@ -1,0 +1,105 @@
+/* Static, crawlable pathways from public curriculum content into Skillr App. */
+.skillr-app-funnel {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 18px;
+  align-items: center;
+  margin: 22px 0 18px;
+  padding: clamp(17px, 3vw, 24px);
+  border: 1px solid #bcd0ef;
+  border-radius: 16px;
+  background:
+    radial-gradient(circle at 96% 8%, rgba(80, 179, 167, .18), transparent 13rem),
+    linear-gradient(135deg, #edf5ff 0%, #fff 74%);
+  box-shadow: 0 12px 30px rgba(21, 62, 117, .08);
+}
+
+.skillr-app-funnel__eyebrow {
+  margin: 0 0 5px;
+  color: #176f75;
+  font-size: .75rem;
+  font-weight: 900;
+  letter-spacing: .07em;
+  text-transform: uppercase;
+}
+
+.skillr-app-funnel h2,
+.skillr-app-funnel h3 {
+  margin: 0 0 7px;
+  color: #123565;
+  font-size: clamp(1.2rem, 2.5vw, 1.55rem);
+  line-height: 1.2;
+}
+
+.skillr-app-funnel__copy {
+  margin: 0;
+  max-width: 68ch;
+  color: #3c506c;
+  font-size: .95rem;
+  line-height: 1.5;
+}
+
+.skillr-app-funnel__proof {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 12px 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.skillr-app-funnel__proof li {
+  padding: 5px 8px;
+  border: 1px solid #cbd9ec;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, .86);
+  color: #425875;
+  font-size: .75rem;
+  font-weight: 750;
+}
+
+.skillr-app-funnel__action {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 48px;
+  max-width: 260px;
+  padding: 11px 16px;
+  border: 1px solid #174a86;
+  border-radius: 10px;
+  background: #174a86;
+  color: #fff !important;
+  font-size: .92rem;
+  font-weight: 850;
+  line-height: 1.35;
+  text-align: center;
+  text-decoration: none !important;
+  box-shadow: 0 8px 18px rgba(23, 74, 134, .19);
+}
+
+.skillr-app-funnel__action:hover {
+  border-color: #0f315c;
+  background: #0f315c;
+  color: #fff;
+}
+
+.skillr-app-funnel__action:focus-visible {
+  outline: 3px solid #4b8ee8;
+  outline-offset: 3px;
+}
+
+@media (max-width: 720px) {
+  .skillr-app-funnel {
+    grid-template-columns: 1fr;
+    gap: 14px;
+  }
+
+  .skillr-app-funnel__action {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+@media print {
+  .skillr-app-funnel { display: none !important; }
+}
