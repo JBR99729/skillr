@@ -95,11 +95,11 @@
       <section class="ux-hero ux-hero--beta" aria-labelledby="home-hero-title">
   <div class="beta-hero-grid">
     <div class="beta-hero-copy">
-      <p class="ux-eyebrow">New · Year 1 Maths + Science public beta</p>
-      <h1 id="home-hero-title">Year 1 Maths and Science, built for learning at home.</h1>
-      <p class="ux-hero__lead">Try SkillrHub's growing Australian Curriculum V9 Year 1 Maths and Science experience. Maths is available broadly, with selected Science topics now joining the app as they are completed and tested.</p>
-      <div class="beta-hero-actions"><a class="beta-primary" href="https://app.skillrhub.com/?utm_source=skillrhub&amp;utm_medium=homepage&amp;utm_campaign=year1_app_funnel&amp;utm_content=hero_beta">Try the free beta</a><a class="beta-secondary" href="https://app.skillrhub.com/student/maths/?year=1&amp;utm_source=skillrhub&amp;utm_medium=homepage&amp;utm_campaign=year1_app_funnel&amp;utm_content=hero_maths">Explore Year 1 Maths</a></div>
-      <p class="beta-signin-note">Free account required · Create a Year 1 learner profile to save progress.</p>
+      <p class="ux-eyebrow">Australian Curriculum V9 · Year 1 homeschool learning</p>
+      <h1 id="home-hero-title">Plan, teach, practise and assess Year 1 learning.</h1>
+      <p class="ux-hero__lead">SkillrHub gives Australian homeschool families a clear path from curriculum skill to teaching, practice, independent testing and saved evidence. Year 1 Maths is the most complete path today; selected Science topics are released only after review.</p>
+      <div class="beta-hero-actions"><a class="beta-primary" href="https://app.skillrhub.com/student/maths/?year=1&amp;code=AC9M1N01&amp;topic=1&amp;utm_source=skillrhub&amp;utm_medium=homepage&amp;utm_campaign=year1_app_funnel&amp;utm_content=hero_preview">Preview a real lesson</a><a class="beta-secondary" href="https://app.skillrhub.com/?utm_source=skillrhub&amp;utm_medium=homepage&amp;utm_campaign=year1_app_funnel&amp;utm_content=hero_account">Create a free account</a></div>
+      <p class="beta-signin-note">No account needed to preview · Create a learner profile when you are ready to save progress and evidence.</p>
     </div>
     <aside class="beta-product-card" aria-label="What is included in the Year 1 Maths and Science beta">
       <span class="beta-pill">EARLY ACCESS</span>
@@ -133,11 +133,11 @@
         <div class="ux-years" aria-label="Choose a year level">
           <button class="ux-year" type="button" data-year="foundation" aria-pressed="false">F</button><button class="ux-year" type="button" data-year="year1" aria-pressed="false">1</button><button class="ux-year" type="button" data-year="year2" aria-pressed="false">2</button><button class="ux-year" type="button" data-year="year3" aria-pressed="false">3</button><button class="ux-year" type="button" data-year="year4" aria-pressed="false">4</button><button class="ux-year" type="button" data-year="year5" aria-pressed="false">5</button><button class="ux-year" type="button" data-year="year6" aria-pressed="false">6</button><button class="ux-year" type="button" data-year="year7" aria-pressed="false">7</button><button class="ux-year" type="button" data-year="year8" aria-pressed="false">8</button><button class="ux-year" type="button" data-year="year9" aria-pressed="false">9</button><button class="ux-year" type="button" data-year="year10" aria-pressed="false">10</button>
         </div>
-        <div class="ux-selected-note"><span>Selected: <strong id="selected-year-label">Year 8</strong></span><a id="selected-year-link" href="/year8/curriculum/">Browse all Year 8 resources →</a></div>
+        <div class="ux-selected-note"><span>Selected: <strong id="selected-year-label">Year 1</strong></span><a id="selected-year-link" href="/year1/curriculum/">Browse all Year 1 resources →</a></div>
         <div class="ux-subjects" aria-label="Subjects for selected year">
-          <a id="subject-maths" class="ux-subject ux-subject--maths" href="/year8/curriculum/maths/"><span class="ux-subject__icon" aria-hidden="true">📐</span><span><strong>Year 8 Maths</strong><small>Number, algebra, measurement, space and statistics</small></span></a>
-          <a id="subject-science" class="ux-subject ux-subject--science" href="/year8/curriculum/science/"><span class="ux-subject__icon" aria-hidden="true">🧪</span><span><strong>Year 8 Science</strong><small>Biological, chemical, physical and Earth sciences</small></span></a>
-          <a id="subject-english" class="ux-subject ux-subject--english" href="/year8/curriculum/english/"><span class="ux-subject__icon" aria-hidden="true">📖</span><span><strong>Year 8 English</strong><small>Reading, writing, language and communication</small></span></a>
+          <a id="subject-maths" class="ux-subject ux-subject--maths" href="/year1/curriculum/maths/"><span class="ux-subject__icon" aria-hidden="true">📐</span><span><strong>Year 1 Maths</strong><small>Number, algebra, measurement, space and statistics</small></span></a>
+          <a id="subject-science" class="ux-subject ux-subject--science" href="/year1/curriculum/science/"><span class="ux-subject__icon" aria-hidden="true">🧪</span><span><strong>Year 1 Science</strong><small>Biological, chemical, physical and Earth sciences</small></span></a>
+          <a id="subject-english" class="ux-subject ux-subject--english" href="/year1/curriculum/english/"><span class="ux-subject__icon" aria-hidden="true">📖</span><span><strong>Year 1 English</strong><small>Reading, writing, language and communication</small></span></a>
         </div>
       </section>
 
@@ -184,7 +184,7 @@
       const browse=document.getElementById("selected-year-link");
       const subjects={maths:document.getElementById("subject-maths"),science:document.getElementById("subject-science"),english:document.getElementById("subject-english")};
       function setYear(key,save=true){
-        const year=years[key]||years.year8;
+        const year=years[key]||years.year1;
         buttons.forEach((button)=>{const active=button.dataset.year===key;button.classList.toggle("is-active",active);button.setAttribute("aria-pressed",active?"true":"false")});
         label.textContent=year.label;browse.textContent=`Browse all ${year.label} resources →`;browse.href=year.base;
         subjects.maths.href=year.base+"maths/";subjects.maths.querySelector("strong").textContent=`${year.label} Maths`;
@@ -193,7 +193,7 @@
         if(save){try{localStorage.setItem("skillrHomeYear",key)}catch(_){}}
       }
       buttons.forEach((button)=>button.addEventListener("click",()=>setYear(button.dataset.year)));
-      let saved="year8";try{saved=localStorage.getItem("skillrHomeYear")||saved}catch(_){}
+      let saved="year1";try{saved=localStorage.getItem("skillrHomeYear")||saved}catch(_){}
       setYear(saved,false);
     })();
   </script>
