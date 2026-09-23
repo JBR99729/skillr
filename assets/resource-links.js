@@ -8,7 +8,12 @@
   }
 
   function sameCode(product, code) {
-    return !!code && (product.curriculumCodes || []).some(c => String(c).toUpperCase() === code);
+    if (!code || !product) return false;
+    const exact = (product.curriculumCodes || []).some(c => String(c).toUpperCase() === code);
+    if (exact) return true;
+    const haystack = [product.id, product.title, product.description, ...(product.topics || [])]
+      .filter(Boolean).join(' ').toUpperCase();
+    return haystack.includes(code);
   }
 
   function isPaid(product) {
