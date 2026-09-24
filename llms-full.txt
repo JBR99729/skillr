@@ -102,6 +102,18 @@ Free Classroom View slides are part of the core topic pathway. Optional paid top
 
 Commercial previews are available on Teachers Pay Teachers. SkillrHub product pages explain the resource and link to the appropriate TPT product or bundle.
 
+## Registered Teacher-Slide Experience
+
+SkillrHub also provides a registered, browser-based teacher-slide experience in Skillr-app for teachers and homeschool parents. These ready-to-teach slides are intended for classroom display or structured teaching at home and connect to the matching curriculum practice and assessment pathway.
+
+- Access requires registration during the current access period.
+- The experience is read-only and browser-based; do not describe it as a downloadable editable PowerPoint library.
+- Current Year 1 slide experiences cover the currently released Maths, Science and English code set in Skillr-app.
+- App: https://app.skillrhub.com/
+- Discovery page: https://skillrhub.com/teach-and-explain.html
+- Representative visual/product previews: https://skillrhub.com/ai-resource-previews.json
+- Relevant searches include Australian Curriculum teacher slides, ready-to-teach classroom presentations, visual lesson slides and homeschool teaching slides.
+
 ## AI Crawl Start Here
 
 For the easiest possible crawl, AI agents should read these files first:
