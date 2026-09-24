@@ -58,44 +58,6 @@
     "tptUrl": "https://www.teacherspayteachers.com/Product/Year-2-Maths-Workbook-Australian-Curriculum-Version-90-Full-Year-Resource-17273907"
   },
   {
-    "id": "year-1-science-bundle",
-    "title": "Year 1 Science Teaching Slides Bundle | Australian Curriculum v9",
-    "year": 1,
-    "yearLabel": "Year 1",
-    "subject": "science",
-    "subjectLabel": "Science",
-    "topics": [
-      "bundle",
-      "teaching slides",
-      "biology",
-      "earth",
-      "space",
-      "physical sciences",
-      "inquiry"
-    ],
-    "curriculumCodes": [
-      "AC9S1U01",
-      "AC9S1U02",
-      "AC9S1U03",
-      "AC9S1H01",
-      "AC9S1I01",
-      "AC9S1I02",
-      "AC9S1I03",
-      "AC9S1I04",
-      "AC9S1I05",
-      "AC9S1I06"
-    ],
-    "description": "Ten curriculum-aligned Year 1 Science teaching slide sets covering AC9S1U01–U03, AC9S1H01 and AC9S1I01–I06. Preview the bundle and its included slide sets on TPT.",
-    "url": "/products/year-1-science-bundle/",
-    "image": "/icons/skillrhub-mark.svg",
-    "price": "78.40",
-    "currency": "USD",
-    "available": true,
-    "resourceType": "bundle",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Science-Teaching-Slides-Bundle-Australian-Curriculum-v9-17205384",
-    "listPrice": "98.00"
-  },
-  {
     "id": "year-1-science-inquiry-part-1",
     "title": "Year 1 Science – Science Inquiry Skills | Australian Curriculum v9.0 | Part 1",
     "year": 1,
@@ -351,34 +313,6 @@
     "tptUrl": "https://www.teacherspayteachers.com/Product/FREE-Year-5-Decimals-Worksheets-Place-Value-Comparing-Rounding-Decimals-17567833"
   },
   {
-    "id": "year-3-time-bundle",
-    "title": "Year 3 Time Bundle | Analogue Clocks, Duration, Teaching Slides & Worksheets",
-    "year": 3,
-    "yearLabel": "Year 3",
-    "subject": "maths",
-    "subjectLabel": "Maths",
-    "topics": [
-      "time",
-      "duration",
-      "clocks",
-      "slides",
-      "worksheets"
-    ],
-    "curriculumCodes": [
-      "AC9M3M03",
-      "AC9M3M04"
-    ],
-    "description": "A complete bundle combining 60 teaching slides with printable time practice and worked answers.",
-    "url": "/products/year-3-time-bundle/",
-    "image": "/assets/year-3-time-pack-cover.png",
-    "price": "7.98",
-    "currency": "USD",
-    "available": true,
-    "resourceType": "bundle",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-3-Time-Bundle-Analogue-Clocks-Duration-Teaching-Slides-Worksheets-17593227",
-    "listPrice": "9.98"
-  },
-  {
     "id": "year-3-time-slides-60",
     "title": "Year 3 Time Teaching Slides | Analogue Clocks & Duration | 60-Slide Pack",
     "year": 3,
@@ -592,46 +526,6 @@
     ]
   },
   {
-    "id": "year-3-multiplication-division-bundle",
-    "title": "Year 3 Multiplication & Division Bundle | Workbook + Teaching Slides | AC v9",
-    "year": 3,
-    "yearLabel": "Year 3",
-    "subject": "maths",
-    "subjectLabel": "Maths",
-    "topics": [
-      "multiplication",
-      "division",
-      "times tables",
-      "arrays",
-      "equal groups",
-      "workbook",
-      "slides",
-      "bundle"
-    ],
-    "curriculumCodes": [
-      "AC9M3A03",
-      "AC9M3N04"
-    ],
-    "description": "Combine a 144-question workbook with answers and 36 PowerPoint teaching slides. Focuses on the 3, 4, 5 and 10 times tables and related division facts. Save US$2.10 compared with buying separately.",
-    "url": "/products/year-3-multiplication-division-bundle/",
-    "image": "/assets/year-3-multiplication-division-slides-cover.png",
-    "price": "8.38",
-    "listPrice": "10.48",
-    "currency": "USD",
-    "available": true,
-    "resourceType": "bundle",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-3-Multiplication-Division-Bundle-Workbook-Teaching-Slides-AC-v9-17594338",
-    "includes": [
-      "144-question Multiplication & Division workbook with answer keys",
-      "36 PowerPoint teaching slides with visual models, worked examples and guided practice",
-      "Eight check and misconception questions plus two exit tickets with answers in the presentation",
-      "Focus: 3, 4, 5 and 10 times tables and related division facts; not a complete Year 3 mathematics program",
-      "Does not teach 6, 7, 8 and 9 times tables as primary units or word problems involving remainders",
-      "Preview and purchase available on TPT",
-      "These two resources are also sold individually; check previous purchases to avoid duplicates"
-    ]
-  },
-  {
     "id": "year-3-fractions-workbook",
     "title": "Year 3 Fractions Workbook | 80 Questions & Answers | Australian Curriculum v9.0",
     "year": 3,
@@ -720,46 +614,6 @@
     ]
   },
   {
-    "id": "year-3-fractions-bundle",
-    "title": "Year 3 Fractions Bundle | 80-Question Workbook + 30 Teaching Slides | Australian Curriculum v9.0",
-    "year": 3,
-    "yearLabel": "Year 3",
-    "subject": "maths",
-    "subjectLabel": "Maths",
-    "topics": [
-      "fractions",
-      "unit fractions",
-      "multiples of unit fractions",
-      "number lines",
-      "collections",
-      "workbook",
-      "teaching slides",
-      "bundle"
-    ],
-    "curriculumCodes": [
-      "AC9M3N02"
-    ],
-    "description": "Combine a 43-page workbook containing 80 questions and detailed answers with a 30-slide visual teaching presentation for AC9M3N02.",
-    "url": "/products/year-3-fractions-bundle/",
-    "image": "/assets/year-3-fractions-slides-cover.png",
-    "price": "8.38",
-    "listPrice": "10.48",
-    "currency": "USD",
-    "available": true,
-    "resourceType": "bundle",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-3-Fractions-Bundle-80-Question-Workbook-30-Teaching-Slides-Australian-17594471",
-    "includes": [
-      "43-page fractions workbook with 80 curriculum-aligned questions",
-      "64 practice and application questions plus 16 mastery and extension questions",
-      "Complete answer key with worked methods and teaching or checking tips",
-      "30-slide visual teaching presentation with worked examples and guided practice",
-      "Eight check-for-understanding and misconception questions with answer slides",
-      "Unit fractions and their multiples, collections, lengths, fraction strips and number lines",
-      "Focused on AC9M3N02; not a complete Year 3 mathematics program",
-      "Both resources are also sold individually; check previous purchases to avoid duplicates"
-    ]
-  },
-  {
     "id": "year-1-ac9m1n05-slides",
     "title": "Year 1 Addition & Subtraction Problem Solving + Money Lesson Slides | AC9M1N05",
     "year": 1,
@@ -813,783 +667,702 @@
     "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Equal-Sharing-Grouping-Lesson-Slides-Worksheets-AC9M1N06-17676629"
   },
   {
-    "id": "year-1-algebra-bundle",
-    "title": "Year 1 Algebra Bundle | Patterns, Skip Counting & Maths Lesson Slides | Aus V9.0",
+    "id": "tpt-17710509",
+    "title": "Give & Follow Directions | Year 1 Maths Lesson Slides, Practice & Test|AC9M1SP02",
     "year": 1,
     "yearLabel": "Year 1",
     "subject": "maths",
     "subjectLabel": "Maths",
     "topics": [
-      "algebra",
-      "patterns",
-      "skip counting",
-      "repeating patterns",
-      "lesson slides",
-      "bundle"
+      "ac9m1sp02",
+      "teaching-slides"
     ],
     "curriculumCodes": [
-      "AC9M1A01",
-      "AC9M1A02"
+      "AC9M1SP02"
     ],
-    "description": "A growing Year 1 Algebra bundle with ready-to-use visual teaching slides and printable activities for skip-counting and repeating patterns.",
-    "url": "/teach-and-explain/year1/maths/year-1-algebra-bundle/",
-    "image": "/icons/skillrhub-mark.svg",
-    "price": "9.60",
+    "description": "TPT Microsoft PowerPoint resource: Give & Follow Directions | Year 1 Maths Lesson Slides, Practice & Test|AC9M1SP02",
+    "url": "https://www.teacherspayteachers.com/Product/Give-Follow-Directions-Year-1-Maths-Lesson-Slides-Practice-TestAC9M1SP02-17710509",
+    "image": "/assets/tpt-catalogue-cover.svg",
+    "price": "9.00",
     "currency": "USD",
     "available": true,
     "resourceType": "teaching-slides",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Algebra-Bundle-Patterns-Skip-Counting-Maths-Lesson-Slides-Aus-V90-17678421",
-    "listPrice": "12.00"
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Give-Follow-Directions-Year-1-Maths-Lesson-Slides-Practice-TestAC9M1SP02-17710509",
+    "tptResourceType": "Microsoft PowerPoint",
+    "isBundle": false,
+    "free": false,
+    "includes": [
+      "Teaching slides and embedded practice",
+      "Answer key included",
+      "Preview and purchase on TPT"
+    ],
+    "learningGoals": [
+      "Supports AC9M1SP02."
+    ],
+    "format": "Microsoft PowerPoint"
   },
-{
-  "id": "tpt-17676836",
-  "title": "Year 1 Number Bundle|Maths Lesson Slides, Printables & Homeschool Pack|AusV9.0",
-  "year": 1,
-  "yearLabel": "Year 1",
-  "subject": "maths",
-  "subjectLabel": "Maths",
-  "topics": [
-    "tpt resource",
-    "bundle"
-  ],
-  "curriculumCodes": [
-    "Australian Curriculum v9"
-  ],
-  "description": "TPT Bundle resource: Year 1 Number Bundle|Maths Lesson Slides, Printables & Homeschool Pack|AusV9.0",
-    "url": "https://www.teacherspayteachers.com/Product/Year-1-Number-BundleMaths-Lesson-Slides-Printables-Homeschool-PackAusV90-17676836",
-  "image": "/assets/tpt-catalogue-cover.svg",
-  "price": "24.00",
-  "currency": "USD",
-  "available": true,
-  "resourceType": "bundle",
-  "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Number-BundleMaths-Lesson-Slides-Printables-Homeschool-PackAusV90-17676836",
-  "tptResourceType": "Bundle",
-  "isBundle": true,
-  "free": false
-},
-{
-  "id": "tpt-17710509",
-  "title": "Give & Follow Directions | Year 1 Maths Lesson Slides, Practice & Test|AC9M1SP02",
-  "year": 1,
-  "yearLabel": "Year 1",
-  "subject": "maths",
-  "subjectLabel": "Maths",
-  "topics": [
-    "ac9m1sp02",
-    "teaching-slides"
-  ],
-  "curriculumCodes": [
-    "AC9M1SP02"
-  ],
-  "description": "TPT Microsoft PowerPoint resource: Give & Follow Directions | Year 1 Maths Lesson Slides, Practice & Test|AC9M1SP02",
-    "url": "https://www.teacherspayteachers.com/Product/Give-Follow-Directions-Year-1-Maths-Lesson-Slides-Practice-TestAC9M1SP02-17710509",
-  "image": "/assets/tpt-catalogue-cover.svg",
-  "price": "9.00",
-  "currency": "USD",
-  "available": true,
-  "resourceType": "teaching-slides",
-  "tptUrl": "https://www.teacherspayteachers.com/Product/Give-Follow-Directions-Year-1-Maths-Lesson-Slides-Practice-TestAC9M1SP02-17710509",
-  "tptResourceType": "Microsoft PowerPoint",
-  "isBundle": false,
-  "free": false,
-  "includes": [
-    "Teaching slides and embedded practice",
-    "Answer key included",
-    "Preview and purchase on TPT"
-  ],
-  "learningGoals": [
-    "Supports AC9M1SP02."
-  ],
-  "format": "Microsoft PowerPoint"
-},
-{
-  "id": "tpt-17684936",
-  "title": "Familiar Shapes & Objects | Year 1 Maths Lesson Slides & Home Learning|AC9M1SP01",
-  "year": 1,
-  "yearLabel": "Year 1",
-  "subject": "maths",
-  "subjectLabel": "Maths",
-  "topics": [
-    "ac9m1sp01",
-    "teaching-slides"
-  ],
-  "curriculumCodes": [
-    "AC9M1SP01"
-  ],
-  "description": "TPT Microsoft PowerPoint resource: Familiar Shapes & Objects | Year 1 Maths Lesson Slides & Home Learning|AC9M1SP01",
+  {
+    "id": "tpt-17684936",
+    "title": "Familiar Shapes & Objects | Year 1 Maths Lesson Slides & Home Learning|AC9M1SP01",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "ac9m1sp01",
+      "teaching-slides"
+    ],
+    "curriculumCodes": [
+      "AC9M1SP01"
+    ],
+    "description": "TPT Microsoft PowerPoint resource: Familiar Shapes & Objects | Year 1 Maths Lesson Slides & Home Learning|AC9M1SP01",
     "url": "https://www.teacherspayteachers.com/Product/Familiar-Shapes-Objects-Year-1-Maths-Lesson-Slides-Home-LearningAC9M1SP01-17684936",
-  "image": "/assets/tpt-catalogue-cover.svg",
-  "price": "7.00",
-  "currency": "USD",
-  "available": true,
-  "resourceType": "teaching-slides",
-  "tptUrl": "https://www.teacherspayteachers.com/Product/Familiar-Shapes-Objects-Year-1-Maths-Lesson-Slides-Home-LearningAC9M1SP01-17684936",
-  "tptResourceType": "Microsoft PowerPoint",
-  "isBundle": false,
-  "free": false,
-  "includes": [
-    "Teaching slides and embedded practice",
-    "Answer key included",
-    "Preview and purchase on TPT"
-  ],
-  "learningGoals": [
-    "Supports AC9M1SP01."
-  ],
-  "format": "Microsoft PowerPoint"
-},
-{
-  "id": "tpt-17679159",
-  "title": "Time,Duration&Event Sequences|Year 1 Maths Lesson Slides&Home Learning|AC9M1M03",
-  "year": 1,
-  "yearLabel": "Year 1",
-  "subject": "maths",
-  "subjectLabel": "Maths",
-  "topics": [
-    "ac9m1m03",
-    "teaching-slides"
-  ],
-  "curriculumCodes": [
-    "AC9M1M03"
-  ],
-  "description": "TPT Microsoft PowerPoint resource: Time,Duration&Event Sequences|Year 1 Maths Lesson Slides&Home Learning|AC9M1M03",
+    "image": "/assets/tpt-catalogue-cover.svg",
+    "price": "7.00",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Familiar-Shapes-Objects-Year-1-Maths-Lesson-Slides-Home-LearningAC9M1SP01-17684936",
+    "tptResourceType": "Microsoft PowerPoint",
+    "isBundle": false,
+    "free": false,
+    "includes": [
+      "Teaching slides and embedded practice",
+      "Answer key included",
+      "Preview and purchase on TPT"
+    ],
+    "learningGoals": [
+      "Supports AC9M1SP01."
+    ],
+    "format": "Microsoft PowerPoint"
+  },
+  {
+    "id": "tpt-17679159",
+    "title": "Time,Duration&Event Sequences|Year 1 Maths Lesson Slides&Home Learning|AC9M1M03",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "ac9m1m03",
+      "teaching-slides"
+    ],
+    "curriculumCodes": [
+      "AC9M1M03"
+    ],
+    "description": "TPT Microsoft PowerPoint resource: Time,Duration&Event Sequences|Year 1 Maths Lesson Slides&Home Learning|AC9M1M03",
     "url": "https://www.teacherspayteachers.com/Product/TimeDurationEvent-SequencesYear-1-Maths-Lesson-SlidesHome-LearningAC9M1M03-17679159",
-  "image": "/assets/tpt-catalogue-cover.svg",
-  "price": "6.00",
-  "currency": "USD",
-  "available": true,
-  "resourceType": "teaching-slides",
-  "tptUrl": "https://www.teacherspayteachers.com/Product/TimeDurationEvent-SequencesYear-1-Maths-Lesson-SlidesHome-LearningAC9M1M03-17679159",
-  "tptResourceType": "Microsoft PowerPoint",
-  "isBundle": false,
-  "free": false,
-  "includes": [
-    "Teaching slides and embedded practice",
-    "Answer key included",
-    "Preview and purchase on TPT"
-  ],
-  "learningGoals": [
-    "Supports AC9M1M03."
-  ],
-  "format": "Microsoft PowerPoint"
-},
-{
-  "id": "tpt-17678987",
-  "title": "Measuring Length with Informal Units | Year 1 Maths Lesson Slides&Home|AC9M1M02",
-  "year": 1,
-  "yearLabel": "Year 1",
-  "subject": "maths",
-  "subjectLabel": "Maths",
-  "topics": [
-    "ac9m1m02",
-    "teaching-slides"
-  ],
-  "curriculumCodes": [
-    "AC9M1M02"
-  ],
-  "description": "TPT Microsoft PowerPoint resource: Measuring Length with Informal Units | Year 1 Maths Lesson Slides&Home|AC9M1M02",
+    "image": "/assets/tpt-catalogue-cover.svg",
+    "price": "6.00",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/TimeDurationEvent-SequencesYear-1-Maths-Lesson-SlidesHome-LearningAC9M1M03-17679159",
+    "tptResourceType": "Microsoft PowerPoint",
+    "isBundle": false,
+    "free": false,
+    "includes": [
+      "Teaching slides and embedded practice",
+      "Answer key included",
+      "Preview and purchase on TPT"
+    ],
+    "learningGoals": [
+      "Supports AC9M1M03."
+    ],
+    "format": "Microsoft PowerPoint"
+  },
+  {
+    "id": "tpt-17678987",
+    "title": "Measuring Length with Informal Units | Year 1 Maths Lesson Slides&Home|AC9M1M02",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "ac9m1m02",
+      "teaching-slides"
+    ],
+    "curriculumCodes": [
+      "AC9M1M02"
+    ],
+    "description": "TPT Microsoft PowerPoint resource: Measuring Length with Informal Units | Year 1 Maths Lesson Slides&Home|AC9M1M02",
     "url": "https://www.teacherspayteachers.com/Product/Measuring-Length-with-Informal-Units-Year-1-Maths-Lesson-SlidesHomeAC9M1M02-17678987",
-  "image": "/assets/tpt-catalogue-cover.svg",
-  "price": "6.00",
-  "currency": "USD",
-  "available": true,
-  "resourceType": "teaching-slides",
-  "tptUrl": "https://www.teacherspayteachers.com/Product/Measuring-Length-with-Informal-Units-Year-1-Maths-Lesson-SlidesHomeAC9M1M02-17678987",
-  "tptResourceType": "Microsoft PowerPoint",
-  "isBundle": false,
-  "free": false,
-  "includes": [
-    "Teaching slides and embedded practice",
-    "Answer key included",
-    "Preview and purchase on TPT"
-  ],
-  "learningGoals": [
-    "Supports AC9M1M02."
-  ],
-  "format": "Microsoft PowerPoint"
-},
-{
-  "id": "tpt-17678407",
-  "title": "Comparing Measurements|Year 1 Maths Lesson Slides & Home Learning Guide|AC9M1M01",
-  "year": 1,
-  "yearLabel": "Year 1",
-  "subject": "maths",
-  "subjectLabel": "Maths",
-  "topics": [
-    "ac9m1m01",
-    "teaching-slides"
-  ],
-  "curriculumCodes": [
-    "AC9M1M01"
-  ],
-  "description": "TPT Microsoft PowerPoint resource: Comparing Measurements|Year 1 Maths Lesson Slides & Home Learning Guide|AC9M1M01",
+    "image": "/assets/tpt-catalogue-cover.svg",
+    "price": "6.00",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Measuring-Length-with-Informal-Units-Year-1-Maths-Lesson-SlidesHomeAC9M1M02-17678987",
+    "tptResourceType": "Microsoft PowerPoint",
+    "isBundle": false,
+    "free": false,
+    "includes": [
+      "Teaching slides and embedded practice",
+      "Answer key included",
+      "Preview and purchase on TPT"
+    ],
+    "learningGoals": [
+      "Supports AC9M1M02."
+    ],
+    "format": "Microsoft PowerPoint"
+  },
+  {
+    "id": "tpt-17678407",
+    "title": "Comparing Measurements|Year 1 Maths Lesson Slides & Home Learning Guide|AC9M1M01",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "ac9m1m01",
+      "teaching-slides"
+    ],
+    "curriculumCodes": [
+      "AC9M1M01"
+    ],
+    "description": "TPT Microsoft PowerPoint resource: Comparing Measurements|Year 1 Maths Lesson Slides & Home Learning Guide|AC9M1M01",
     "url": "https://www.teacherspayteachers.com/Product/Comparing-MeasurementsYear-1-Maths-Lesson-Slides-Home-Learning-GuideAC9M1M01-17678407",
-  "image": "/assets/tpt-catalogue-cover.svg",
-  "price": "6.00",
-  "currency": "USD",
-  "available": true,
-  "resourceType": "teaching-slides",
-  "tptUrl": "https://www.teacherspayteachers.com/Product/Comparing-MeasurementsYear-1-Maths-Lesson-Slides-Home-Learning-GuideAC9M1M01-17678407",
-  "tptResourceType": "Microsoft PowerPoint",
-  "isBundle": false,
-  "free": false,
-  "includes": [
-    "Teaching slides and embedded practice",
-    "Answer key included",
-    "Preview and purchase on TPT"
-  ],
-  "learningGoals": [
-    "Supports AC9M1M01."
-  ],
-  "format": "Microsoft PowerPoint"
-},
-{
-  "id": "tpt-17677514",
-  "title": "Repeating Patterns | Year 1 Maths Lesson Slides & Homeschool Pack | AC9M1A02",
-  "year": 1,
-  "yearLabel": "Year 1",
-  "subject": "maths",
-  "subjectLabel": "Maths",
-  "topics": [
-    "ac9m1a02",
-    "teaching-slides"
-  ],
-  "curriculumCodes": [
-    "AC9M1A02"
-  ],
-  "description": "TPT Microsoft PowerPoint resource: Repeating Patterns | Year 1 Maths Lesson Slides & Homeschool Pack | AC9M1A02",
+    "image": "/assets/tpt-catalogue-cover.svg",
+    "price": "6.00",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Comparing-MeasurementsYear-1-Maths-Lesson-Slides-Home-Learning-GuideAC9M1M01-17678407",
+    "tptResourceType": "Microsoft PowerPoint",
+    "isBundle": false,
+    "free": false,
+    "includes": [
+      "Teaching slides and embedded practice",
+      "Answer key included",
+      "Preview and purchase on TPT"
+    ],
+    "learningGoals": [
+      "Supports AC9M1M01."
+    ],
+    "format": "Microsoft PowerPoint"
+  },
+  {
+    "id": "tpt-17677514",
+    "title": "Repeating Patterns | Year 1 Maths Lesson Slides & Homeschool Pack | AC9M1A02",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "ac9m1a02",
+      "teaching-slides"
+    ],
+    "curriculumCodes": [
+      "AC9M1A02"
+    ],
+    "description": "TPT Microsoft PowerPoint resource: Repeating Patterns | Year 1 Maths Lesson Slides & Homeschool Pack | AC9M1A02",
     "url": "https://www.teacherspayteachers.com/Product/Repeating-Patterns-Year-1-Maths-Lesson-Slides-Homeschool-Pack-AC9M1A02-17677514",
-  "image": "/assets/tpt-catalogue-cover.svg",
-  "price": "6.00",
-  "currency": "USD",
-  "available": true,
-  "resourceType": "teaching-slides",
-  "tptUrl": "https://www.teacherspayteachers.com/Product/Repeating-Patterns-Year-1-Maths-Lesson-Slides-Homeschool-Pack-AC9M1A02-17677514",
-  "tptResourceType": "Microsoft PowerPoint",
-  "isBundle": false,
-  "free": false,
-  "includes": [
-    "Teaching slides and embedded practice",
-    "Answer key included",
-    "Preview and purchase on TPT"
-  ],
-  "learningGoals": [
-    "Supports AC9M1A02."
-  ],
-  "format": "Microsoft PowerPoint"
-},
-{
-  "id": "tpt-17676771",
-  "title": "Skip Counting by 2s, 5s & 10s | Year 1 Lesson Slides & Homeschool Pack|AC9M1A01",
-  "year": 1,
-  "yearLabel": "Year 1",
-  "subject": "maths",
-  "subjectLabel": "Maths",
-  "topics": [
-    "ac9m1a01",
-    "teaching-slides"
-  ],
-  "curriculumCodes": [
-    "AC9M1A01"
-  ],
-  "description": "TPT Microsoft PowerPoint resource: Skip Counting by 2s, 5s & 10s | Year 1 Lesson Slides & Homeschool Pack|AC9M1A01",
+    "image": "/assets/tpt-catalogue-cover.svg",
+    "price": "6.00",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Repeating-Patterns-Year-1-Maths-Lesson-Slides-Homeschool-Pack-AC9M1A02-17677514",
+    "tptResourceType": "Microsoft PowerPoint",
+    "isBundle": false,
+    "free": false,
+    "includes": [
+      "Teaching slides and embedded practice",
+      "Answer key included",
+      "Preview and purchase on TPT"
+    ],
+    "learningGoals": [
+      "Supports AC9M1A02."
+    ],
+    "format": "Microsoft PowerPoint"
+  },
+  {
+    "id": "tpt-17676771",
+    "title": "Skip Counting by 2s, 5s & 10s | Year 1 Lesson Slides & Homeschool Pack|AC9M1A01",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "ac9m1a01",
+      "teaching-slides"
+    ],
+    "curriculumCodes": [
+      "AC9M1A01"
+    ],
+    "description": "TPT Microsoft PowerPoint resource: Skip Counting by 2s, 5s & 10s | Year 1 Lesson Slides & Homeschool Pack|AC9M1A01",
     "url": "https://www.teacherspayteachers.com/Product/Skip-Counting-by-2s-5s-10s-Year-1-Lesson-Slides-Homeschool-PackAC9M1A01-17676771",
-  "image": "/assets/tpt-catalogue-cover.svg",
-  "price": "6.00",
-  "currency": "USD",
-  "available": true,
-  "resourceType": "teaching-slides",
-  "tptUrl": "https://www.teacherspayteachers.com/Product/Skip-Counting-by-2s-5s-10s-Year-1-Lesson-Slides-Homeschool-PackAC9M1A01-17676771",
-  "tptResourceType": "Microsoft PowerPoint",
-  "isBundle": false,
-  "free": false,
-  "includes": [
-    "Teaching slides and embedded practice",
-    "Answer key included",
-    "Preview and purchase on TPT"
-  ],
-  "learningGoals": [
-    "Supports AC9M1A01."
-  ],
-  "format": "Microsoft PowerPoint"
-},
-{
-  "id": "tpt-17669944",
-  "title": "Addition & Subtraction to 20 | Year 1 Maths Lesson Slides & Worksheets| AC9M1N04",
-  "year": 1,
-  "yearLabel": "Year 1",
-  "subject": "maths",
-  "subjectLabel": "Maths",
-  "topics": [
-    "ac9m1n04",
-    "teaching-slides"
-  ],
-  "curriculumCodes": [
-    "AC9M1N04"
-  ],
-  "description": "TPT Microsoft PowerPoint resource: Addition & Subtraction to 20 | Year 1 Maths Lesson Slides & Worksheets| AC9M1N04",
+    "image": "/assets/tpt-catalogue-cover.svg",
+    "price": "6.00",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Skip-Counting-by-2s-5s-10s-Year-1-Lesson-Slides-Homeschool-PackAC9M1A01-17676771",
+    "tptResourceType": "Microsoft PowerPoint",
+    "isBundle": false,
+    "free": false,
+    "includes": [
+      "Teaching slides and embedded practice",
+      "Answer key included",
+      "Preview and purchase on TPT"
+    ],
+    "learningGoals": [
+      "Supports AC9M1A01."
+    ],
+    "format": "Microsoft PowerPoint"
+  },
+  {
+    "id": "tpt-17669944",
+    "title": "Addition & Subtraction to 20 | Year 1 Maths Lesson Slides & Worksheets| AC9M1N04",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "ac9m1n04",
+      "teaching-slides"
+    ],
+    "curriculumCodes": [
+      "AC9M1N04"
+    ],
+    "description": "TPT Microsoft PowerPoint resource: Addition & Subtraction to 20 | Year 1 Maths Lesson Slides & Worksheets| AC9M1N04",
     "url": "https://www.teacherspayteachers.com/Product/Addition-Subtraction-to-20-Year-1-Maths-Lesson-Slides-Worksheets-AC9M1N04-17669944",
-  "image": "/assets/tpt-catalogue-cover.svg",
-  "price": "5.00",
-  "currency": "USD",
-  "available": true,
-  "resourceType": "teaching-slides",
-  "tptUrl": "https://www.teacherspayteachers.com/Product/Addition-Subtraction-to-20-Year-1-Maths-Lesson-Slides-Worksheets-AC9M1N04-17669944",
-  "tptResourceType": "Microsoft PowerPoint",
-  "isBundle": false,
-  "free": false,
-  "includes": [
-    "Teaching slides and embedded practice",
-    "Answer key included",
-    "Preview and purchase on TPT"
-  ],
-  "learningGoals": [
-    "Supports AC9M1N04."
-  ],
-  "format": "Microsoft PowerPoint"
-},
-{
-  "id": "tpt-17669505",
-  "title": "Equal Groups & Skip Counting | Year 1 Maths Lesson Slides & Worksheets| AC9M1N03",
-  "year": 1,
-  "yearLabel": "Year 1",
-  "subject": "maths",
-  "subjectLabel": "Maths",
-  "topics": [
-    "ac9m1n03",
-    "teaching-slides"
-  ],
-  "curriculumCodes": [
-    "AC9M1N03"
-  ],
-  "description": "TPT Microsoft PowerPoint resource: Equal Groups & Skip Counting | Year 1 Maths Lesson Slides & Worksheets| AC9M1N03",
+    "image": "/assets/tpt-catalogue-cover.svg",
+    "price": "5.00",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Addition-Subtraction-to-20-Year-1-Maths-Lesson-Slides-Worksheets-AC9M1N04-17669944",
+    "tptResourceType": "Microsoft PowerPoint",
+    "isBundle": false,
+    "free": false,
+    "includes": [
+      "Teaching slides and embedded practice",
+      "Answer key included",
+      "Preview and purchase on TPT"
+    ],
+    "learningGoals": [
+      "Supports AC9M1N04."
+    ],
+    "format": "Microsoft PowerPoint"
+  },
+  {
+    "id": "tpt-17669505",
+    "title": "Equal Groups & Skip Counting | Year 1 Maths Lesson Slides & Worksheets| AC9M1N03",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "ac9m1n03",
+      "teaching-slides"
+    ],
+    "curriculumCodes": [
+      "AC9M1N03"
+    ],
+    "description": "TPT Microsoft PowerPoint resource: Equal Groups & Skip Counting | Year 1 Maths Lesson Slides & Worksheets| AC9M1N03",
     "url": "https://www.teacherspayteachers.com/Product/Equal-Groups-Skip-Counting-Year-1-Maths-Lesson-Slides-Worksheets-AC9M1N03-17669505",
-  "image": "/assets/tpt-catalogue-cover.svg",
-  "price": "5.00",
-  "currency": "USD",
-  "available": true,
-  "resourceType": "teaching-slides",
-  "tptUrl": "https://www.teacherspayteachers.com/Product/Equal-Groups-Skip-Counting-Year-1-Maths-Lesson-Slides-Worksheets-AC9M1N03-17669505",
-  "tptResourceType": "Microsoft PowerPoint",
-  "isBundle": false,
-  "free": false,
-  "includes": [
-    "Teaching slides and embedded practice",
-    "Answer key included",
-    "Preview and purchase on TPT"
-  ],
-  "learningGoals": [
-    "Supports AC9M1N03."
-  ],
-  "format": "Microsoft PowerPoint"
-},
-{
-  "id": "tpt-17669357",
-  "title": "Numbers to 120 | Year 1 Maths Lesson Slides & Worksheets | AC9M1N01",
-  "year": 1,
-  "yearLabel": "Year 1",
-  "subject": "maths",
-  "subjectLabel": "Maths",
-  "topics": [
-    "ac9m1n01",
-    "teaching-slides"
-  ],
-  "curriculumCodes": [
-    "AC9M1N01"
-  ],
-  "description": "TPT Microsoft PowerPoint resource: Numbers to 120 | Year 1 Maths Lesson Slides & Worksheets | AC9M1N01",
+    "image": "/assets/tpt-catalogue-cover.svg",
+    "price": "5.00",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Equal-Groups-Skip-Counting-Year-1-Maths-Lesson-Slides-Worksheets-AC9M1N03-17669505",
+    "tptResourceType": "Microsoft PowerPoint",
+    "isBundle": false,
+    "free": false,
+    "includes": [
+      "Teaching slides and embedded practice",
+      "Answer key included",
+      "Preview and purchase on TPT"
+    ],
+    "learningGoals": [
+      "Supports AC9M1N03."
+    ],
+    "format": "Microsoft PowerPoint"
+  },
+  {
+    "id": "tpt-17669357",
+    "title": "Numbers to 120 | Year 1 Maths Lesson Slides & Worksheets | AC9M1N01",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "ac9m1n01",
+      "teaching-slides"
+    ],
+    "curriculumCodes": [
+      "AC9M1N01"
+    ],
+    "description": "TPT Microsoft PowerPoint resource: Numbers to 120 | Year 1 Maths Lesson Slides & Worksheets | AC9M1N01",
     "url": "https://www.teacherspayteachers.com/Product/Numbers-to-120-Year-1-Maths-Lesson-Slides-Worksheets-AC9M1N01-17669357",
-  "image": "/assets/tpt-catalogue-cover.svg",
-  "price": "5.00",
-  "currency": "USD",
-  "available": true,
-  "resourceType": "teaching-slides",
-  "tptUrl": "https://www.teacherspayteachers.com/Product/Numbers-to-120-Year-1-Maths-Lesson-Slides-Worksheets-AC9M1N01-17669357",
-  "tptResourceType": "Microsoft PowerPoint",
-  "isBundle": false,
-  "free": false,
-  "includes": [
-    "Teaching slides and embedded practice",
-    "Answer key included",
-    "Preview and purchase on TPT"
-  ],
-  "learningGoals": [
-    "Supports AC9M1N01."
-  ],
-  "format": "Microsoft PowerPoint"
-},
-{
-  "id": "tpt-17669472",
-  "title": "Number Partitioning | Year 1 Maths Lesson Slides & Worksheets | AC9M1N02",
-  "year": 1,
-  "yearLabel": "Year 1",
-  "subject": "maths",
-  "subjectLabel": "Maths",
-  "topics": [
-    "ac9m1n02",
-    "teaching-slides"
-  ],
-  "curriculumCodes": [
-    "AC9M1N02"
-  ],
-  "description": "TPT Microsoft PowerPoint resource: Number Partitioning | Year 1 Maths Lesson Slides & Worksheets | AC9M1N02",
+    "image": "/assets/tpt-catalogue-cover.svg",
+    "price": "5.00",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Numbers-to-120-Year-1-Maths-Lesson-Slides-Worksheets-AC9M1N01-17669357",
+    "tptResourceType": "Microsoft PowerPoint",
+    "isBundle": false,
+    "free": false,
+    "includes": [
+      "Teaching slides and embedded practice",
+      "Answer key included",
+      "Preview and purchase on TPT"
+    ],
+    "learningGoals": [
+      "Supports AC9M1N01."
+    ],
+    "format": "Microsoft PowerPoint"
+  },
+  {
+    "id": "tpt-17669472",
+    "title": "Number Partitioning | Year 1 Maths Lesson Slides & Worksheets | AC9M1N02",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "ac9m1n02",
+      "teaching-slides"
+    ],
+    "curriculumCodes": [
+      "AC9M1N02"
+    ],
+    "description": "TPT Microsoft PowerPoint resource: Number Partitioning | Year 1 Maths Lesson Slides & Worksheets | AC9M1N02",
     "url": "https://www.teacherspayteachers.com/Product/Number-Partitioning-Year-1-Maths-Lesson-Slides-Worksheets-AC9M1N02-17669472",
-  "image": "/assets/tpt-catalogue-cover.svg",
-  "price": "5.00",
-  "currency": "USD",
-  "available": true,
-  "resourceType": "teaching-slides",
-  "tptUrl": "https://www.teacherspayteachers.com/Product/Number-Partitioning-Year-1-Maths-Lesson-Slides-Worksheets-AC9M1N02-17669472",
-  "tptResourceType": "Microsoft PowerPoint",
-  "isBundle": false,
-  "free": false,
-  "includes": [
-    "Teaching slides and embedded practice",
-    "Answer key included",
-    "Preview and purchase on TPT"
-  ],
-  "learningGoals": [
-    "Supports AC9M1N02."
-  ],
-  "format": "Microsoft PowerPoint"
-},
-{
-  "id": "tpt-17620166",
-  "title": "FREE 2nd Grade Place Value Worksheet | Numbers to 1000 + Answer Key",
-  "year": 2,
-  "yearLabel": "Year 2",
-  "subject": "maths",
-  "subjectLabel": "Maths",
-  "topics": [
-    "tpt resource",
-    "worksheet"
-  ],
-  "curriculumCodes": [
-    "Australian Curriculum v9"
-  ],
-  "description": "TPT PDF resource: FREE 2nd Grade Place Value Worksheet | Numbers to 1000 + Answer Key",
+    "image": "/assets/tpt-catalogue-cover.svg",
+    "price": "5.00",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Number-Partitioning-Year-1-Maths-Lesson-Slides-Worksheets-AC9M1N02-17669472",
+    "tptResourceType": "Microsoft PowerPoint",
+    "isBundle": false,
+    "free": false,
+    "includes": [
+      "Teaching slides and embedded practice",
+      "Answer key included",
+      "Preview and purchase on TPT"
+    ],
+    "learningGoals": [
+      "Supports AC9M1N02."
+    ],
+    "format": "Microsoft PowerPoint"
+  },
+  {
+    "id": "tpt-17620166",
+    "title": "FREE 2nd Grade Place Value Worksheet | Numbers to 1000 + Answer Key",
+    "year": 2,
+    "yearLabel": "Year 2",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "tpt resource",
+      "worksheet"
+    ],
+    "curriculumCodes": [
+      "Australian Curriculum v9"
+    ],
+    "description": "TPT PDF resource: FREE 2nd Grade Place Value Worksheet | Numbers to 1000 + Answer Key",
     "url": "https://www.teacherspayteachers.com/Product/FREE-2nd-Grade-Place-Value-Worksheet-Numbers-to-1000-Answer-Key-17620166",
-  "image": "/assets/tpt-catalogue-cover.svg",
-  "price": "0",
-  "currency": "USD",
-  "available": true,
-  "resourceType": "worksheet",
-  "tptUrl": "https://www.teacherspayteachers.com/Product/FREE-2nd-Grade-Place-Value-Worksheet-Numbers-to-1000-Answer-Key-17620166",
-  "tptResourceType": "PDF",
-  "isBundle": false,
-  "free": true
-},
-{
-  "id": "tpt-17670322",
-  "title": "FREE Year 6 Fractions, Decimals & Percentages Worksheet | AC9M6N03",
-  "year": 6,
-  "yearLabel": "Year 6",
-  "subject": "maths",
-  "subjectLabel": "Maths",
-  "topics": [
-    "ac9m6n03",
-    "worksheet"
-  ],
-  "curriculumCodes": [
-    "AC9M6N03"
-  ],
-  "description": "TPT PDF resource: FREE Year 6 Fractions, Decimals & Percentages Worksheet | AC9M6N03",
+    "image": "/assets/tpt-catalogue-cover.svg",
+    "price": "0",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "worksheet",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/FREE-2nd-Grade-Place-Value-Worksheet-Numbers-to-1000-Answer-Key-17620166",
+    "tptResourceType": "PDF",
+    "isBundle": false,
+    "free": true
+  },
+  {
+    "id": "tpt-17670322",
+    "title": "FREE Year 6 Fractions, Decimals & Percentages Worksheet | AC9M6N03",
+    "year": 6,
+    "yearLabel": "Year 6",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "ac9m6n03",
+      "worksheet"
+    ],
+    "curriculumCodes": [
+      "AC9M6N03"
+    ],
+    "description": "TPT PDF resource: FREE Year 6 Fractions, Decimals & Percentages Worksheet | AC9M6N03",
     "url": "https://www.teacherspayteachers.com/Product/FREE-Year-6-Fractions-Decimals-Percentages-Worksheet-AC9M6N03-17670322",
-  "image": "/assets/tpt-catalogue-cover.svg",
-  "price": "0",
-  "currency": "USD",
-  "available": true,
-  "resourceType": "worksheet",
-  "tptUrl": "https://www.teacherspayteachers.com/Product/FREE-Year-6-Fractions-Decimals-Percentages-Worksheet-AC9M6N03-17670322",
-  "tptResourceType": "PDF",
-  "isBundle": false,
-  "free": true
-},
-{
-  "id": "tpt-17620155",
-  "title": "FREE 1st Grade Addition & Subtraction to 20 Worksheet | No Prep Math",
-  "year": 1,
-  "yearLabel": "Year 1",
-  "subject": "maths",
-  "subjectLabel": "Maths",
-  "topics": [
-    "tpt resource",
-    "worksheet"
-  ],
-  "curriculumCodes": [
-    "Australian Curriculum v9"
-  ],
-  "description": "TPT PDF resource: FREE 1st Grade Addition & Subtraction to 20 Worksheet | No Prep Math",
+    "image": "/assets/tpt-catalogue-cover.svg",
+    "price": "0",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "worksheet",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/FREE-Year-6-Fractions-Decimals-Percentages-Worksheet-AC9M6N03-17670322",
+    "tptResourceType": "PDF",
+    "isBundle": false,
+    "free": true
+  },
+  {
+    "id": "tpt-17620155",
+    "title": "FREE 1st Grade Addition & Subtraction to 20 Worksheet | No Prep Math",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "tpt resource",
+      "worksheet"
+    ],
+    "curriculumCodes": [
+      "Australian Curriculum v9"
+    ],
+    "description": "TPT PDF resource: FREE 1st Grade Addition & Subtraction to 20 Worksheet | No Prep Math",
     "url": "https://www.teacherspayteachers.com/Product/FREE-1st-Grade-Addition-Subtraction-to-20-Worksheet-No-Prep-Math-17620155",
-  "image": "/assets/tpt-catalogue-cover.svg",
-  "price": "0",
-  "currency": "USD",
-  "available": true,
-  "resourceType": "worksheet",
-  "tptUrl": "https://www.teacherspayteachers.com/Product/FREE-1st-Grade-Addition-Subtraction-to-20-Worksheet-No-Prep-Math-17620155",
-  "tptResourceType": "PDF",
-  "isBundle": false,
-  "free": true
-},
-{
-  "id": "tpt-17620145",
-  "title": "FREE Kindergarten Numbers to 20 Worksheet | Counting & Number Recognition",
-  "year": 0,
-  "yearLabel": "Foundation",
-  "subject": "maths",
-  "subjectLabel": "Maths",
-  "topics": [
-    "tpt resource",
-    "worksheet"
-  ],
-  "curriculumCodes": [
-    "Australian Curriculum v9"
-  ],
-  "description": "TPT PDF resource: FREE Kindergarten Numbers to 20 Worksheet | Counting & Number Recognition",
+    "image": "/assets/tpt-catalogue-cover.svg",
+    "price": "0",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "worksheet",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/FREE-1st-Grade-Addition-Subtraction-to-20-Worksheet-No-Prep-Math-17620155",
+    "tptResourceType": "PDF",
+    "isBundle": false,
+    "free": true
+  },
+  {
+    "id": "tpt-17620145",
+    "title": "FREE Kindergarten Numbers to 20 Worksheet | Counting & Number Recognition",
+    "year": 0,
+    "yearLabel": "Foundation",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "tpt resource",
+      "worksheet"
+    ],
+    "curriculumCodes": [
+      "Australian Curriculum v9"
+    ],
+    "description": "TPT PDF resource: FREE Kindergarten Numbers to 20 Worksheet | Counting & Number Recognition",
     "url": "https://www.teacherspayteachers.com/Product/FREE-Kindergarten-Numbers-to-20-Worksheet-Counting-Number-Recognition-17620145",
-  "image": "/assets/tpt-catalogue-cover.svg",
-  "price": "0",
-  "currency": "USD",
-  "available": true,
-  "resourceType": "worksheet",
-  "tptUrl": "https://www.teacherspayteachers.com/Product/FREE-Kindergarten-Numbers-to-20-Worksheet-Counting-Number-Recognition-17620145",
-  "tptResourceType": "PDF",
-  "isBundle": false,
-  "free": true
-},
-{
-  "id": "tpt-17719151",
-  "title": "Year 1 Science in Everyday Life | Patterns & Predictions | AC9S1H01 Lesson Slide",
-  "year": 1,
-  "yearLabel": "Year 1",
-  "subject": "science",
-  "subjectLabel": "Science",
-  "topics": [
-    "ac9s1h01",
-    "teaching-slides"
-  ],
-  "curriculumCodes": [
-    "AC9S1H01"
-  ],
-  "description": "TPT Microsoft PowerPoint resource: Year 1 Science in Everyday Life | Patterns & Predictions | AC9S1H01 Lesson Slide",
+    "image": "/assets/tpt-catalogue-cover.svg",
+    "price": "0",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "worksheet",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/FREE-Kindergarten-Numbers-to-20-Worksheet-Counting-Number-Recognition-17620145",
+    "tptResourceType": "PDF",
+    "isBundle": false,
+    "free": true
+  },
+  {
+    "id": "tpt-17719151",
+    "title": "Year 1 Science in Everyday Life | Patterns & Predictions | AC9S1H01 Lesson Slide",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "science",
+    "subjectLabel": "Science",
+    "topics": [
+      "ac9s1h01",
+      "teaching-slides"
+    ],
+    "curriculumCodes": [
+      "AC9S1H01"
+    ],
+    "description": "TPT Microsoft PowerPoint resource: Year 1 Science in Everyday Life | Patterns & Predictions | AC9S1H01 Lesson Slide",
     "url": "https://www.teacherspayteachers.com/Product/Year-1-Science-in-Everyday-Life-Patterns-Predictions-AC9S1H01-Lesson-Slide-17719151",
-  "image": "/assets/tpt-catalogue-cover.svg",
-  "price": "10.00",
-  "currency": "USD",
-  "available": true,
-  "resourceType": "teaching-slides",
-  "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Science-in-Everyday-Life-Patterns-Predictions-AC9S1H01-Lesson-Slide-17719151",
-  "tptResourceType": "Microsoft PowerPoint",
-  "isBundle": false,
-  "free": false,
-  "includes": [
-    "Teaching slides and embedded practice",
-    "Answer key included",
-    "Preview and purchase on TPT"
-  ],
-  "learningGoals": [
-    "Supports AC9S1H01."
-  ],
-  "format": "Microsoft PowerPoint"
-},
-{
-  "id": "tpt-17718482",
-  "title": "Pushes & Pulls | Year 1 Science Lesson Slides & Force Investigations | AC9S1U03",
-  "year": 1,
-  "yearLabel": "Year 1",
-  "subject": "science",
-  "subjectLabel": "Science",
-  "topics": [
-    "ac9s1u03",
-    "teaching-slides"
-  ],
-  "curriculumCodes": [
-    "AC9S1U03"
-  ],
-  "description": "TPT Microsoft PowerPoint resource: Pushes & Pulls | Year 1 Science Lesson Slides & Force Investigations | AC9S1U03",
+    "image": "/assets/tpt-catalogue-cover.svg",
+    "price": "10.00",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Science-in-Everyday-Life-Patterns-Predictions-AC9S1H01-Lesson-Slide-17719151",
+    "tptResourceType": "Microsoft PowerPoint",
+    "isBundle": false,
+    "free": false,
+    "includes": [
+      "Teaching slides and embedded practice",
+      "Answer key included",
+      "Preview and purchase on TPT"
+    ],
+    "learningGoals": [
+      "Supports AC9S1H01."
+    ],
+    "format": "Microsoft PowerPoint"
+  },
+  {
+    "id": "tpt-17718482",
+    "title": "Pushes & Pulls | Year 1 Science Lesson Slides & Force Investigations | AC9S1U03",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "science",
+    "subjectLabel": "Science",
+    "topics": [
+      "ac9s1u03",
+      "teaching-slides"
+    ],
+    "curriculumCodes": [
+      "AC9S1U03"
+    ],
+    "description": "TPT Microsoft PowerPoint resource: Pushes & Pulls | Year 1 Science Lesson Slides & Force Investigations | AC9S1U03",
     "url": "https://www.teacherspayteachers.com/Product/Pushes-Pulls-Year-1-Science-Lesson-Slides-Force-Investigations-AC9S1U03-17718482",
-  "image": "/assets/tpt-catalogue-cover.svg",
-  "price": "10.00",
-  "currency": "USD",
-  "available": true,
-  "resourceType": "teaching-slides",
-  "tptUrl": "https://www.teacherspayteachers.com/Product/Pushes-Pulls-Year-1-Science-Lesson-Slides-Force-Investigations-AC9S1U03-17718482",
-  "tptResourceType": "Microsoft PowerPoint",
-  "isBundle": false,
-  "free": false,
-  "includes": [
-    "Teaching slides and embedded practice",
-    "Answer key included",
-    "Preview and purchase on TPT"
-  ],
-  "learningGoals": [
-    "Supports AC9S1U03."
-  ],
-  "format": "Microsoft PowerPoint"
-},
-{
-  "id": "tpt-17718181",
-  "title": "Daily&Seasonal Changes| Year 1 Science Lesson Slides&Weather Activities|AC9S1U02",
-  "year": 1,
-  "yearLabel": "Year 1",
-  "subject": "science",
-  "subjectLabel": "Science",
-  "topics": [
-    "ac9s1u02",
-    "teaching-slides"
-  ],
-  "curriculumCodes": [
-    "AC9S1U02"
-  ],
-  "description": "TPT Microsoft PowerPoint resource: Daily&Seasonal Changes| Year 1 Science Lesson Slides&Weather Activities|AC9S1U02",
+    "image": "/assets/tpt-catalogue-cover.svg",
+    "price": "10.00",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Pushes-Pulls-Year-1-Science-Lesson-Slides-Force-Investigations-AC9S1U03-17718482",
+    "tptResourceType": "Microsoft PowerPoint",
+    "isBundle": false,
+    "free": false,
+    "includes": [
+      "Teaching slides and embedded practice",
+      "Answer key included",
+      "Preview and purchase on TPT"
+    ],
+    "learningGoals": [
+      "Supports AC9S1U03."
+    ],
+    "format": "Microsoft PowerPoint"
+  },
+  {
+    "id": "tpt-17718181",
+    "title": "Daily&Seasonal Changes| Year 1 Science Lesson Slides&Weather Activities|AC9S1U02",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "science",
+    "subjectLabel": "Science",
+    "topics": [
+      "ac9s1u02",
+      "teaching-slides"
+    ],
+    "curriculumCodes": [
+      "AC9S1U02"
+    ],
+    "description": "TPT Microsoft PowerPoint resource: Daily&Seasonal Changes| Year 1 Science Lesson Slides&Weather Activities|AC9S1U02",
     "url": "https://www.teacherspayteachers.com/Product/DailySeasonal-Changes-Year-1-Science-Lesson-SlidesWeather-ActivitiesAC9S1U02-17718181",
-  "image": "/assets/tpt-catalogue-cover.svg",
-  "price": "12.00",
-  "currency": "USD",
-  "available": true,
-  "resourceType": "teaching-slides",
-  "tptUrl": "https://www.teacherspayteachers.com/Product/DailySeasonal-Changes-Year-1-Science-Lesson-SlidesWeather-ActivitiesAC9S1U02-17718181",
-  "tptResourceType": "Microsoft PowerPoint",
-  "isBundle": false,
-  "free": false,
-  "includes": [
-    "Teaching slides and embedded practice",
-    "Answer key included",
-    "Preview and purchase on TPT"
-  ],
-  "learningGoals": [
-    "Supports AC9S1U02."
-  ],
-  "format": "Microsoft PowerPoint"
-},
-{
-  "id": "tpt-17717457",
-  "title": "Needs of Plants & Animals|Year 1 Science Lesson Slides&Home Activities|AC9S1U01",
-  "year": 1,
-  "yearLabel": "Year 1",
-  "subject": "science",
-  "subjectLabel": "Science",
-  "topics": [
-    "ac9s1u01",
-    "teaching-slides"
-  ],
-  "curriculumCodes": [
-    "AC9S1U01"
-  ],
-  "description": "TPT Microsoft PowerPoint resource: Needs of Plants & Animals|Year 1 Science Lesson Slides&Home Activities|AC9S1U01",
+    "image": "/assets/tpt-catalogue-cover.svg",
+    "price": "12.00",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/DailySeasonal-Changes-Year-1-Science-Lesson-SlidesWeather-ActivitiesAC9S1U02-17718181",
+    "tptResourceType": "Microsoft PowerPoint",
+    "isBundle": false,
+    "free": false,
+    "includes": [
+      "Teaching slides and embedded practice",
+      "Answer key included",
+      "Preview and purchase on TPT"
+    ],
+    "learningGoals": [
+      "Supports AC9S1U02."
+    ],
+    "format": "Microsoft PowerPoint"
+  },
+  {
+    "id": "tpt-17717457",
+    "title": "Needs of Plants & Animals|Year 1 Science Lesson Slides&Home Activities|AC9S1U01",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "science",
+    "subjectLabel": "Science",
+    "topics": [
+      "ac9s1u01",
+      "teaching-slides"
+    ],
+    "curriculumCodes": [
+      "AC9S1U01"
+    ],
+    "description": "TPT Microsoft PowerPoint resource: Needs of Plants & Animals|Year 1 Science Lesson Slides&Home Activities|AC9S1U01",
     "url": "https://www.teacherspayteachers.com/Product/Needs-of-Plants-AnimalsYear-1-Science-Lesson-SlidesHome-ActivitiesAC9S1U01-17717457",
-  "image": "/assets/tpt-catalogue-cover.svg",
-  "price": "12.00",
-  "currency": "USD",
-  "available": true,
-  "resourceType": "teaching-slides",
-  "tptUrl": "https://www.teacherspayteachers.com/Product/Needs-of-Plants-AnimalsYear-1-Science-Lesson-SlidesHome-ActivitiesAC9S1U01-17717457",
-  "tptResourceType": "Microsoft PowerPoint",
-  "isBundle": false,
-  "free": false,
-  "includes": [
-    "Teaching slides and embedded practice",
-    "Answer key included",
-    "Preview and purchase on TPT"
-  ],
-  "learningGoals": [
-    "Supports AC9S1U01."
-  ],
-  "format": "Microsoft PowerPoint"
-},
-{
-  "id": "tpt-17716804",
-  "title": "Year 1 Mathematics Complete Bundle | Australian Curriculum v9 Lesson Slides",
-  "year": 1,
-  "yearLabel": "Year 1",
-  "subject": "maths",
-  "subjectLabel": "Maths",
-  "topics": [
-    "tpt resource",
-    "bundle"
-  ],
-  "curriculumCodes": [
-    "Australian Curriculum v9"
-  ],
-  "description": "TPT Bundle resource: Year 1 Mathematics Complete Bundle | Australian Curriculum v9 Lesson Slides",
-    "url": "https://www.teacherspayteachers.com/Product/Year-1-Mathematics-Complete-Bundle-Australian-Curriculum-v9-Lesson-Slides-17716804",
-  "image": "/assets/tpt-catalogue-cover.svg",
-  "price": "74.40",
-  "currency": "USD",
-  "available": true,
-  "resourceType": "bundle",
-  "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Mathematics-Complete-Bundle-Australian-Curriculum-v9-Lesson-Slides-17716804",
-  "tptResourceType": "Bundle",
-  "isBundle": true,
-  "free": false
-},
-{
-  "id": "tpt-17716709",
-  "title": "Representing Comparing & Discussing Data | Year 1 Maths Lesson Slides| AC9M1ST02",
-  "year": 1,
-  "yearLabel": "Year 1",
-  "subject": "maths",
-  "subjectLabel": "Maths",
-  "topics": [
-    "ac9m1st02",
-    "teaching-slides"
-  ],
-  "curriculumCodes": [
-    "AC9M1ST02"
-  ],
-  "description": "TPT Microsoft PowerPoint resource: Representing Comparing & Discussing Data | Year 1 Maths Lesson Slides| AC9M1ST02",
+    "image": "/assets/tpt-catalogue-cover.svg",
+    "price": "12.00",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Needs-of-Plants-AnimalsYear-1-Science-Lesson-SlidesHome-ActivitiesAC9S1U01-17717457",
+    "tptResourceType": "Microsoft PowerPoint",
+    "isBundle": false,
+    "free": false,
+    "includes": [
+      "Teaching slides and embedded practice",
+      "Answer key included",
+      "Preview and purchase on TPT"
+    ],
+    "learningGoals": [
+      "Supports AC9S1U01."
+    ],
+    "format": "Microsoft PowerPoint"
+  },
+  {
+    "id": "tpt-17716709",
+    "title": "Representing Comparing & Discussing Data | Year 1 Maths Lesson Slides| AC9M1ST02",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "ac9m1st02",
+      "teaching-slides"
+    ],
+    "curriculumCodes": [
+      "AC9M1ST02"
+    ],
+    "description": "TPT Microsoft PowerPoint resource: Representing Comparing & Discussing Data | Year 1 Maths Lesson Slides| AC9M1ST02",
     "url": "https://www.teacherspayteachers.com/Product/Representing-Comparing-Discussing-Data-Year-1-Maths-Lesson-Slides-AC9M1ST02-17716709",
-  "image": "/assets/tpt-catalogue-cover.svg",
-  "price": "9.00",
-  "currency": "USD",
-  "available": true,
-  "resourceType": "teaching-slides",
-  "tptUrl": "https://www.teacherspayteachers.com/Product/Representing-Comparing-Discussing-Data-Year-1-Maths-Lesson-Slides-AC9M1ST02-17716709",
-  "tptResourceType": "Microsoft PowerPoint",
-  "isBundle": false,
-  "free": false,
-  "includes": [
-    "Teaching slides and embedded practice",
-    "Answer key included",
-    "Preview and purchase on TPT"
-  ],
-  "learningGoals": [
-    "Supports AC9M1ST02."
-  ],
-  "format": "Microsoft PowerPoint"
-},
-{
-  "id": "tpt-17710715",
-  "title": "Collecting & Recording Data | Year 1 Maths Lesson Slides | AC9M1ST01",
-  "year": 1,
-  "yearLabel": "Year 1",
-  "subject": "maths",
-  "subjectLabel": "Maths",
-  "topics": [
-    "ac9m1st01",
-    "teaching-slides"
-  ],
-  "curriculumCodes": [
-    "AC9M1ST01"
-  ],
-  "description": "TPT Microsoft PowerPoint resource: Collecting & Recording Data | Year 1 Maths Lesson Slides | AC9M1ST01",
+    "image": "/assets/tpt-catalogue-cover.svg",
+    "price": "9.00",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Representing-Comparing-Discussing-Data-Year-1-Maths-Lesson-Slides-AC9M1ST02-17716709",
+    "tptResourceType": "Microsoft PowerPoint",
+    "isBundle": false,
+    "free": false,
+    "includes": [
+      "Teaching slides and embedded practice",
+      "Answer key included",
+      "Preview and purchase on TPT"
+    ],
+    "learningGoals": [
+      "Supports AC9M1ST02."
+    ],
+    "format": "Microsoft PowerPoint"
+  },
+  {
+    "id": "tpt-17710715",
+    "title": "Collecting & Recording Data | Year 1 Maths Lesson Slides | AC9M1ST01",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "ac9m1st01",
+      "teaching-slides"
+    ],
+    "curriculumCodes": [
+      "AC9M1ST01"
+    ],
+    "description": "TPT Microsoft PowerPoint resource: Collecting & Recording Data | Year 1 Maths Lesson Slides | AC9M1ST01",
     "url": "https://www.teacherspayteachers.com/Product/Collecting-Recording-Data-Year-1-Maths-Lesson-Slides-AC9M1ST01-17710715",
-  "image": "/assets/tpt-catalogue-cover.svg",
-  "price": "8.00",
-  "currency": "USD",
-  "available": true,
-  "resourceType": "teaching-slides",
-  "tptUrl": "https://www.teacherspayteachers.com/Product/Collecting-Recording-Data-Year-1-Maths-Lesson-Slides-AC9M1ST01-17710715",
-  "tptResourceType": "Microsoft PowerPoint",
-  "isBundle": false,
-  "free": false,
-  "includes": [
-    "Teaching slides and embedded practice",
-    "Answer key included",
-    "Preview and purchase on TPT"
-  ],
-  "learningGoals": [
-    "Supports AC9M1ST01."
-  ],
-  "format": "Microsoft PowerPoint"
-}
+    "image": "/assets/tpt-catalogue-cover.svg",
+    "price": "8.00",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Collecting-Recording-Data-Year-1-Maths-Lesson-Slides-AC9M1ST01-17710715",
+    "tptResourceType": "Microsoft PowerPoint",
+    "isBundle": false,
+    "free": false,
+    "includes": [
+      "Teaching slides and embedded practice",
+      "Answer key included",
+      "Preview and purchase on TPT"
+    ],
+    "learningGoals": [
+      "Supports AC9M1ST01."
+    ],
+    "format": "Microsoft PowerPoint"
+  }
 ]
