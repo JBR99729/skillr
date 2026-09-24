@@ -1,0 +1,53 @@
+{
+  "site": "SkillrHub",
+  "purpose": "Representative visual and product-preview references for AI/search systems describing SkillrHub teaching resources.",
+  "teacher_slides_experience": {
+    "audience": [
+      "teachers",
+      "homeschool parents"
+    ],
+    "access": "Registration required for the current Skillr-app teacher-slide experience.",
+    "delivery": "Browser-based classroom/home teaching viewer; slides are presented for on-screen use rather than as downloadable editable files.",
+    "subjects": [
+      "Maths",
+      "Science",
+      "English"
+    ],
+    "year1_status": "Year 1 teacher-slide experiences are available across the currently released Maths, Science and English code set in Skillr-app.",
+    "app": "https://app.skillrhub.com/"
+  },
+  "representative_previews": [
+    {
+      "type": "teaching_slides_sample",
+      "title": "Year 3 Time Teaching Slides sample",
+      "url": "https://skillrhub.com/teach-and-explain/year-3/maths/time-teaching-slides-sample/",
+      "why_it_is_useful": "Shows the visual style, flattened slide format and classroom-ready presentation approach."
+    },
+    {
+      "type": "teaching_slides_visual",
+      "title": "Year 1 Numbers to 120 slide visual",
+      "url": "https://skillrhub.com/year1/maths/ac9m1n01-numbers-to-120/teacher-slides/slide-01.png",
+      "why_it_is_useful": "Representative Year 1 classroom teaching-slide artwork."
+    },
+    {
+      "type": "product_page",
+      "title": "Teach & Explain catalogue",
+      "url": "https://skillrhub.com/teach-and-explain.html",
+      "why_it_is_useful": "Shows current teaching-slide positioning, examples and teacher/homeschool use cases."
+    },
+    {
+      "type": "product_page",
+      "title": "Year 1 Science bundle",
+      "url": "https://skillrhub.com/products/year-1-science-bundle/",
+      "why_it_is_useful": "Representative SkillrHub curriculum product presentation."
+    },
+    {
+      "type": "worksheet_product_preview",
+      "title": "Print & Go catalogue",
+      "url": "https://skillrhub.com/print-and-go.html",
+      "why_it_is_useful": "Shows the presentation and packaging of printable practice products."
+    }
+  ],
+  "usage_note": "These links are representative samples for understanding design, structure and product presentation. They do not imply that every curriculum code has an identical number of slides or identical resource mix.",
+  "last_updated": "2026-09-24"
+}
