@@ -17,6 +17,13 @@ EXCLUDED_FILES={"offline.html","product.html"}
 EXCLUDED_PARTS={"teacher-slides"}
 EXCLUDED_ROOT_PARTS={"node_modules","playwright-report","test-results","screenshots"}
 PAUSED_PARTS={"daily-drills"}
+# These Year 1 quiz entry pages are intentionally indexable landing/practice pages.
+INDEXABLE_QUIZ_ROUTES={
+ "quiz/year-1/math/ac9m1m03/practice/index.html",
+ "quiz/year-1/math/addition-subtraction-daily/index.html",
+ "quiz/year-1/math/data-collection-daily/index.html",
+ "quiz/year-1/math/measurement-comparison-daily/index.html",
+}
 SECTION_LABELS={"site":"Start here","learn":"Learn by year","teach":"Teach by year","products":"Products","homeschooling-australia":"Homeschooling Australia","foundation":"Foundation","year1":"Year 1","year2":"Year 2","year3":"Year 3","year4":"Year 4","year5":"Year 5","year6":"Year 6","year7":"Year 7","year8":"Year 8","year9":"Year 9","year10":"Year 10","mappings":"Curriculum mappings","help":"Help and information","quiz":"Practice, tests and worksheets","blogs":"Blogs","worksheets":"Worksheets"}
 HUMAN_SITE_LINKS={"/","/learn/","/teach/","/products/","/homeschooling-australia/","/worksheets/","/blogs/","/updates.html","/why-skillrhub.html","/how-to-use-skillr.html"}
 HUMAN_HELP_LINKS={"/faq.html","/about.html","/contact.html","/support-skillrhub.html","/privacy-policy.html"}
@@ -120,6 +127,8 @@ def norm(v):
 def is_canonical(source,url):
  t=canonical_path(source); return t is None or norm(t)==norm(url)
 def is_functional(path):
+ if path.as_posix() in INDEXABLE_QUIZ_ROUTES:
+  return False
  parts=path.parts
  # Year 1 search discovery should land on useful topic/resource pages, not
  # interactive launch, practice or assessment screens. Keep worksheets
