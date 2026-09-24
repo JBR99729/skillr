@@ -59,13 +59,14 @@
   },
   {
     "id": "year-1-science-bundle",
-    "title": "Year 1 Science Bundle | Australian Curriculum v9.0 | Teaching Slides + Worksheet",
+    "title": "Year 1 Science Teaching Slides Bundle | Australian Curriculum v9",
     "year": 1,
     "yearLabel": "Year 1",
     "subject": "science",
     "subjectLabel": "Science",
     "topics": [
       "bundle",
+      "teaching slides",
       "biology",
       "earth",
       "space",
@@ -73,17 +74,26 @@
       "inquiry"
     ],
     "curriculumCodes": [
-      "Australian Curriculum v9.0"
+      "AC9S1U01",
+      "AC9S1U02",
+      "AC9S1U03",
+      "AC9S1H01",
+      "AC9S1I01",
+      "AC9S1I02",
+      "AC9S1I03",
+      "AC9S1I04",
+      "AC9S1I05",
+      "AC9S1I06"
     ],
-    "description": "Six Year 1 Science products combining teacher explanations and matching student practice worksheets.",
+    "description": "Ten curriculum-aligned Year 1 Science teaching slide sets covering AC9S1U01–U03, AC9S1H01 and AC9S1I01–I06. Preview the bundle and its included slide sets on TPT.",
     "url": "/products/year-1-science-bundle/",
     "image": "/icons/skillrhub-mark.svg",
-    "price": "19.99",
+    "price": "78.40",
     "currency": "USD",
     "available": true,
     "resourceType": "bundle",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Science-Bundle-Australian-Curriculum-v90-Teaching-Slides-Worksheet-17205384",
-    "listPrice": "26.74"
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Science-Teaching-Slides-Bundle-Australian-Curriculum-v9-17205384",
+    "listPrice": "98.00"
   },
   {
     "id": "year-1-science-inquiry-part-1",

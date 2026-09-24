@@ -1,7 +1,7 @@
 const fs = require('node:fs');
 const rows = [
 ['year-2-maths-workbook',2,'maths','workbook','20.00','Year 2 Maths Workbook | Australian Curriculum Version 9.0 | Full-Year Resource','A complete Year 2 teaching and practice workbook with explanations, visual models, worksheets, assessments and answers.','Year-2-Maths-Workbook-Australian-Curriculum-Version-90-Full-Year-Resource-17273907','Australian Curriculum v9.0','full year,workbook,number,algebra,measurement,space,statistics'],
-['year-1-science-bundle',1,'science','bundle','19.99','Year 1 Science Bundle | Australian Curriculum v9.0 | Teaching Slides + Worksheet','Six Year 1 Science products combining teacher explanations and matching student practice worksheets.','Year-1-Science-Bundle-Australian-Curriculum-v90-Teaching-Slides-Worksheet-17205384','Australian Curriculum v9.0','bundle,biology,earth,space,physical sciences,inquiry'],
+['year-1-science-bundle',1,'science','bundle','78.40','Year 1 Science Teaching Slides Bundle | Australian Curriculum v9','Ten curriculum-aligned Year 1 Science teaching slide sets covering AC9S1U01–U03, AC9S1H01 and AC9S1I01–I06. Preview the bundle and its included slide sets on TPT.','Year-1-Science-Teaching-Slides-Bundle-Australian-Curriculum-v9-17205384','AC9S1U01,AC9S1U02,AC9S1U03,AC9S1H01,AC9S1I01,AC9S1I02,AC9S1I03,AC9S1I04,AC9S1I05,AC9S1I06','bundle,teaching slides,biology,earth,space,physical sciences,inquiry'],
 ['year-1-science-inquiry-part-1',1,'science','unit','6.99','Year 1 Science – Science Inquiry Skills | Australian Curriculum v9.0 | Part 1','Hands-on teaching and practice for observing, recording, analysing, evaluating and communicating.','Year-1-Science-Science-Inquiry-Skills-Australian-Curriculum-v90-Part-1-17204859','Australian Curriculum v9.0','inquiry,observing,recording,communicating'],
 ['year-1-science-inquiry-part-2',1,'science','unit','5.50','Year 1 Science Inquiry Skills | Questioning, Planning & Processing | Part 2','Inquiry activities for asking questions, making predictions, planning investigations and processing findings.','Year-1-Science-Inquiry-Skills-Questioning-Planning-Processing-Part-2-17204897','Australian Curriculum v9.0','inquiry,questions,predictions,planning,processing'],
 ['year-1-science-earth-space',1,'science','unit','4.75','Year 1 Science – Earth and Space Sciences | Australian Curriculum v9.0 | Lessons','Age-appropriate lessons, visuals and investigations exploring Earth, the Sun, weather and seasons.','Year-1-Science-Earth-and-Space-Sciences-Australian-Curriculum-v90-Lessons-17204732','Australian Curriculum v9.0','earth,space,sun,weather,seasons'],
@@ -26,7 +26,7 @@ const products = rows.map(([id,year,subject,resourceType,price,title,description
   price,currency:'USD',available:true,resourceType,...(Number(price) === 0 ? {free:true} : {}),
   tptUrl:`https://www.teacherspayteachers.com/Product/${slug}`
 }));
-products.find(p=>p.id==='year-1-science-bundle').listPrice='26.74';
+products.find(p=>p.id==='year-1-science-bundle').listPrice='98.00';
 products.find(p=>p.id==='year-3-time-bundle').listPrice='9.98';
 products.push({
   "id": "year-3-multiplication-division-slides",
