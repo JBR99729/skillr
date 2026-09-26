@@ -1,0 +1,44 @@
+name: Normalize curriculum hub SERP metadata
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/normalize_curriculum_hub_serp_metadata.mjs'
+      - '.github/workflows/normalize-curriculum-hub-serp-metadata.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: normalize-curriculum-hub-serp-metadata
+  cancel-in-progress: true
+
+jobs:
+  normalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: node scripts/normalize_curriculum_hub_serp_metadata.mjs --write
+      - run: node scripts/audit_search_ai_integrity.mjs
+      - name: Commit hub metadata improvements
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add foundation year1 year2 year3 year4 year5 year6 year7 year8 year9 year10
+          if git diff --cached --quiet; then
+            echo 'Curriculum hub metadata already normalized.'
+            exit 0
+          fi
+          git commit -m 'Strengthen Australian Curriculum search snippets on subject hubs'
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:main
