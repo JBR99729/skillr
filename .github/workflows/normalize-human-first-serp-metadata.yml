@@ -1,0 +1,46 @@
+name: Normalize human-first SERP metadata
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/normalize_human_first_serp_metadata.mjs'
+      - '.github/workflows/normalize-human-first-serp-metadata.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: normalize-human-first-serp-metadata
+  cancel-in-progress: true
+
+jobs:
+  normalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Rewrite generic code-first topic metadata
+        run: node scripts/normalize_human_first_serp_metadata.mjs --write
+      - name: Validate search and AI integrity
+        run: node scripts/audit_search_ai_integrity.mjs
+      - name: Commit metadata improvements
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add foundation year1 year2 year3 year4 year5 year6 year7 year8 year9 year10
+          if git diff --cached --quiet; then
+            echo 'SERP metadata already normalized.'
+            exit 0
+          fi
+          git commit -m 'Use human-first titles and descriptions on curriculum topics'
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:main
