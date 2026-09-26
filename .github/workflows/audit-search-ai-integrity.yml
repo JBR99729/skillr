@@ -1,0 +1,33 @@
+name: Audit search and AI integrity
+
+on:
+  pull_request:
+    paths:
+      - '**/*.html'
+      - 'robots.txt'
+      - 'sitemap*.xml'
+      - 'scripts/audit_search_ai_integrity.mjs'
+      - '.github/workflows/audit-search-ai-integrity.yml'
+  push:
+    branches: [main]
+    paths:
+      - '**/*.html'
+      - 'robots.txt'
+      - 'sitemap*.xml'
+      - 'scripts/audit_search_ai_integrity.mjs'
+      - '.github/workflows/audit-search-ai-integrity.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Audit canonical, sitemap and indexability integrity
+        run: node scripts/audit_search_ai_integrity.mjs
