@@ -3,6 +3,8 @@ name: Notify IndexNow
 on:
   push:
     branches: [main]
+  schedule:
+    - cron: '17 3 * * *'
   workflow_dispatch:
 
 permissions:
@@ -44,5 +46,5 @@ jobs:
         run: python3 scripts/submit_indexnow.py "${{ github.event.before }}" "${{ github.sha }}"
 
       - name: Reconcile all sitemap URLs
-        if: github.event_name == 'workflow_dispatch'
+        if: github.event_name == 'workflow_dispatch' || github.event_name == 'schedule'
         run: python3 scripts/submit_indexnow.py --all
