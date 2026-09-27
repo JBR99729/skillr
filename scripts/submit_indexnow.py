@@ -37,6 +37,13 @@ INDEXNOW_MACHINERY = {
     "scripts/submit_indexnow.py",
 }
 
+def sitemap_inventory_changed(paths: list[str]) -> bool:
+    return any(
+        path == "sitemap.xml"
+        or (path.startswith("sitemap-") and path.endswith(".xml"))
+        for path in paths
+    )
+
 EXCLUDED_PREFIXES = (
     ".git/",
     ".github/",
@@ -295,9 +302,12 @@ def main() -> None:
     paths = changed_paths(before, after)
     urls = sorted({url for path in paths for url in public_urls(path)})
 
-    if INDEXNOW_MACHINERY.intersection(paths):
+    if INDEXNOW_MACHINERY.intersection(paths) or sitemap_inventory_changed(paths):
         urls = sorted(set(urls).union(sitemap_urls()))
-        print("IndexNow machinery changed; including one authoritative sitemap backfill.")
+        if INDEXNOW_MACHINERY.intersection(paths):
+            print("IndexNow machinery changed; including one authoritative sitemap backfill.")
+        else:
+            print("Sitemap inventory changed; including one authoritative sitemap backfill.")
 
     if not urls:
         print("No changed indexable public URLs to submit to IndexNow.")
