@@ -36,14 +36,10 @@ RESEARCH_PATH_RE = re.compile(
 )
 
 CATEGORY_RULES = [
-    ("Source review", re.compile(r"SOURCE|SOURCES", re.I)),
-    ("Independent review", re.compile(r"INDEPENDENT", re.I)),
-    ("Authoring record", re.compile(r"AUTHOR", re.I)),
-    ("Validation record", re.compile(r"VALIDATION|RELEASE", re.I)),
-    ("Benchmark / coverage review", re.compile(r"IXL|KHAN|READINESS|COVERAGE", re.I)),
-    ("Curriculum research master", re.compile(r"Research_Master", re.I)),
-    ("Content verification", re.compile(r"Content_Verification", re.I)),
-    ("Quality audit", re.compile(r"AUDIT|QUALITY", re.I)),
+    ("Checked against curriculum source material", re.compile(r"SOURCE|SOURCES|Research_Master", re.I)),
+    ("Reviewed for curriculum alignment", re.compile(r"INDEPENDENT|Content_Verification|VALIDATION|RELEASE", re.I)),
+    ("Teaching sequence reviewed", re.compile(r"AUTHOR|READINESS", re.I)),
+    ("Practice and assessment coverage reviewed", re.compile(r"IXL|KHAN|COVERAGE|AUDIT|QUALITY", re.I)),
 ]
 
 def esc(v: str) -> str:
@@ -159,24 +155,20 @@ def make_block(unit, paths):
     visible_paths = public_records(paths)
     record_count = len(visible_paths)
     descriptor = str(unit.get("description") or "").strip().rstrip(".")
-    examples = sorted({p.name for p in visible_paths})[:3]
 
     cats = categories(visible_paths)
     evidence_bits = "".join(f"<li>{esc(x)}</li>" for x in cats)
-    file_bits = "".join(f"<li><code>{esc(x)}</code></li>" for x in examples)
     assessment = ""
     if practice is not None or test is not None:
-        assessment = f"<li><strong>Assessment bank:</strong> {practice or 0} Practice items and {test or 0} Test items are currently stored for this code.</li>"
+        assessment = f"<li><strong>Practice and test:</strong> this topic includes {practice or 0} practice questions and {test or 0} test questions.</li>"
 
     return (
         f"{START}<details class=\"curriculum-topic-section source-development-notes\" id=\"source-development-notes\">"
-        f"<summary><strong>Sources &amp; curriculum development</strong></summary><div class=\"curriculum-detail-body\">"
-        f"<h2>Sources used for {esc(code)}</h2>"
-        f"<p>This topic is aligned to the Australian Curriculum v9 content description: <q>{esc(descriptor)}</q>.</p>"
-        f"<h3>Source and quality checks</h3><ul>{evidence_bits}{assessment}</ul>"
-        f"<h3>Example source records</h3><ul>{file_bits}</ul>"
-        f"<p><small>These source records document curriculum interpretation, source checking, authoring or validation used to develop this topic. "
-        f"The official curriculum remains the authority for the curriculum description.</small></p>"
+        f"<summary><strong>How this lesson was checked</strong></summary><div class=\"curriculum-detail-body\">"
+        f"<h2>How this {esc(code)} lesson was checked</h2>"
+        f"<p>This lesson is built around the Australian Curriculum v9 content description: <q>{esc(descriptor)}</q>.</p>"
+        f"<ul>{evidence_bits}{assessment}</ul>"
+        f"<p><small>SkillrHub uses curriculum source material and code-specific review records to check that the teaching, examples and assessment stay focused on this curriculum outcome.</small></p>"
         f"</div></details>{END}"
     )
 
