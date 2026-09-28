@@ -54,15 +54,17 @@ function directTask(code, index, bank, context) {
       return task(`${context}, which evidence would best test whether this adaptation is useful in that habitat? The adaptation is ${example}.`, "repeated observations comparing access, protection or survival under relevant conditions", ["one photograph with no comparison", "a vote on which feature looks best"], "Repeated comparative observations provide stronger evidence than appearance or opinion.", "Look for repeated evidence tied to the proposed survival mechanism.", "evaluate adaptation evidence", "evidence");
     }
     case "AC9S5U02": {
-      const states = [
-        ["solid", "particles remain close in fixed relative positions", "keeps its own shape"],
-        ["liquid", "particles stay close but move past one another", "takes the container's shape"],
-        ["gas", "particles are widely spaced and move throughout the space", "fills and can be compressed in a container"],
+      const processes = [
+        ["rock cracks after repeated freezing and thawing", "weathering", "rock is broken down in place"],
+        ["rainwater removes loose soil from bare ground", "erosion", "weathered material is removed"],
+        ["a river carries sand downstream", "transportation", "moving water carries sediment"],
+        ["sand settles where a river enters a calm lake", "deposition", "slower water loses energy and sediment settles"],
+        ["wind carries dry dust across a plain", "transportation", "moving air carries loose particles"],
+        ["a delta grows at a river mouth", "deposition", "sediment builds up as flow slows"],
       ];
-      const [state, model, observation] = states[n % 3];
-      if (mode % 3 === 0) return task(`${context}, a sample ${observation}. Which state best matches the observation?`, state, states.filter(([s]) => s !== state).map(([s]) => s), `The observable behaviour matches a ${state}.`, "Compare whether shape and volume stay fixed and whether the sample can be compressed.", "classify a state of matter", "particles");
-      if (mode % 3 === 1) return task(`${context}, which particle explanation best represents a ${state}?`, model, states.filter(([s]) => s !== state).map(([,m]) => m), `The particle model links spacing and movement to the observed properties of a ${state}.`, "Use spacing, arrangement and motion; particles do not vanish or change size.", "use a particle model", "particles");
-      return task(`${context}, perfume scent spreads across a room. Which particle-model explanation is strongest?`, "gas particles move randomly and diffuse through the available air", ["the scent particles stop moving near the bottle", "air particles pull the scent in one straight line"], "Diffusion results from ongoing random particle motion.", "Think about particle movement in all directions over time.", "explain diffusion", "particles");
+      const [event, process, explanation] = processes[n % processes.length];
+      if (mode % 2 === 0) return task(`${context}, ${event}. Which geological process is occurring?`, process, processes.filter(([,p]) => p !== process).slice(0,2).map(([,p]) => p), `The event shows ${process}.`, "Decide whether material is breaking down, being removed, moving or settling.", "classify a geological process", "erosion");
+      return task(`${context}, which explanation best describes why ${event}?`, explanation, processes.filter(([,p]) => p !== process).slice(0,2).map(([, ,e]) => e), "The explanation connects the agent's energy with breakdown, movement or settling.", "Follow the sediment and identify what changes at this location.", "explain landscape change", "erosion");
     }
     case "AC9S5U03": {
       const interactions = [
@@ -78,17 +80,15 @@ function directTask(code, index, bank, context) {
       return task(`${context}, which explanation best accounts for why ${event}?`, explanation, interactions.filter(([,i]) => i !== interaction).slice(0,2).map(([, ,e]) => e), "The explanation traces the change in the light path or energy.", "Start with the source and follow the light to the material and observer.", "trace a light path", "rays");
     }
     case "AC9S5U04": {
-      const processes = [
-        ["rock cracks after repeated freezing and thawing", "weathering", "rock is broken down in place"],
-        ["rainwater removes loose soil from bare ground", "erosion", "weathered material is removed"],
-        ["a river carries sand downstream", "transportation", "moving water carries sediment"],
-        ["sand settles where a river enters a calm lake", "deposition", "slower water loses energy and sediment settles"],
-        ["wind carries dry dust across a plain", "transportation", "moving air carries loose particles"],
-        ["a delta grows at a river mouth", "deposition", "sediment builds up as flow slows"],
+      const states = [
+        ["solid", "particles remain close in fixed relative positions", "keeps its own shape"],
+        ["liquid", "particles stay close but move past one another", "takes the container's shape"],
+        ["gas", "particles are widely spaced and move throughout the space", "fills and can be compressed in a container"],
       ];
-      const [event, process, explanation] = processes[n % processes.length];
-      if (mode % 2 === 0) return task(`${context}, ${event}. Which geological process is occurring?`, process, processes.filter(([,p]) => p !== process).slice(0,2).map(([,p]) => p), `The event shows ${process}.`, "Decide whether material is breaking down, being removed, moving or settling.", "classify a geological process", "erosion");
-      return task(`${context}, which explanation best describes why ${event}?`, explanation, processes.filter(([,p]) => p !== process).slice(0,2).map(([, ,e]) => e), "The explanation connects the agent's energy with breakdown, movement or settling.", "Follow the sediment and identify what changes at this location.", "explain landscape change", "erosion");
+      const [state, model, observation] = states[n % 3];
+      if (mode % 3 === 0) return task(`${context}, a sample ${observation}. Which state best matches the observation?`, state, states.filter(([s]) => s !== state).map(([s]) => s), `The observable behaviour matches a ${state}.`, "Compare whether shape and volume stay fixed and whether the sample can be compressed.", "classify a state of matter", "particles");
+      if (mode % 3 === 1) return task(`${context}, which particle explanation best represents a ${state}?`, model, states.filter(([s]) => s !== state).map(([,m]) => m), `The particle model links spacing and movement to the observed properties of a ${state}.`, "Use spacing, arrangement and motion; particles do not vanish or change size.", "use a particle model", "particles");
+      return task(`${context}, perfume scent spreads across a room. Which particle-model explanation is strongest?`, "gas particles move randomly and diffuse through the available air", ["the scent particles stop moving near the bottle", "air particles pull the scent in one straight line"], "Diffusion results from ongoing random particle motion.", "Think about particle movement in all directions over time.", "explain diffusion", "particles");
     }
     case "AC9S5H01": {
       const cases = [
