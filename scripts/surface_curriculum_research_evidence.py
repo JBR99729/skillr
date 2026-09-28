@@ -21,6 +21,8 @@ REPORT = ROOT / "reports" / "curriculum-research-evidence-surface.json"
 
 START = "<!-- skillr-source-evidence:start -->"
 END = "<!-- skillr-source-evidence:end -->"
+LEGACY_START = "<!-- skillr-research-evidence:start -->"
+LEGACY_END = "<!-- skillr-research-evidence:end -->"
 CODE_RE = re.compile(r"\bAC9[EMS](?:F|\d+)[A-Z]+\d{2}\b", re.I)
 ROBOTS_RE = re.compile(r'<meta\s+name=["\']robots["\']\s+content=["\']([^"\']*)["\']', re.I)
 CANONICAL_RE = re.compile(r'<link\s+rel=["\']canonical["\']\s+href=["\']([^"\']+)["\']', re.I)
@@ -50,14 +52,18 @@ def esc(v: str) -> str:
 def canonical_path(url: str) -> str:
     return urlparse(url).path.rstrip("/") + "/"
 
-def remove_marked(text: str) -> str:
-    a = text.find(START)
+def remove_pair(text: str, start: str, end: str) -> str:
+    a = text.find(start)
     if a < 0:
         return text
-    b = text.find(END, a)
+    b = text.find(end, a)
     if b < 0:
-        raise RuntimeError("research evidence start marker without end marker")
-    return text[:a] + text[b + len(END):]
+        raise RuntimeError(f"{start} without matching end marker")
+    return text[:a] + text[b + len(end):]
+
+def remove_marked(text: str) -> str:
+    text = remove_pair(text, LEGACY_START, LEGACY_END)
+    return remove_pair(text, START, END)
 
 def is_primary(page: Path, raw: str) -> bool:
     robots = ROBOTS_RE.search(raw)
@@ -90,6 +96,25 @@ def build_research_index():
         for code in codes:
             by_code[code].append(p)
     return by_code
+
+def public_records(paths):
+    """Only expose substantive curriculum/source/review records to users."""
+    allow = re.compile(
+        r"(SOURCES|SOURCE-REVIEW|INDEPENDENT|AUTHOR|VALIDATION|RELEASE|READINESS|COVERAGE|"
+        r"Research_Master|Content_Verification|QUESTION-BANK-REVIEW|quality-audit|curriculum-components)",
+        re.I,
+    )
+    deny = re.compile(
+        r"(preview|asset|runtime|migration|workflow|sitemap|manifest|generated|export|cache|"
+        r"question[s]?\.js$|bank\.json$|assessment-banks/)",
+        re.I,
+    )
+    chosen = []
+    for p in paths:
+        rel = p.relative_to(ROOT).as_posix()
+        if allow.search(rel) and not deny.search(rel):
+            chosen.append(p)
+    return chosen
 
 def categories(paths):
     found = []
@@ -131,10 +156,12 @@ def make_block(unit, paths):
     code = unit["code"]
     cats = categories(paths)
     practice, test = bank_counts(code)
-    record_count = len(paths)
+    visible_paths = public_records(paths)
+    record_count = len(visible_paths)
     descriptor = str(unit.get("description") or "").strip().rstrip(".")
-    examples = sorted({p.name for p in paths})[:3]
+    examples = sorted({p.name for p in visible_paths})[:3]
 
+    cats = categories(visible_paths)
     evidence_bits = "".join(f"<li>{esc(x)}</li>" for x in cats)
     file_bits = "".join(f"<li><code>{esc(x)}</code></li>" for x in examples)
     assessment = ""
@@ -174,7 +201,7 @@ def main():
 
         cleaned = remove_marked(raw)
         records = by_code.get(code, [])
-        if not records:
+        if not public_records(records):
             # If an old generated block exists but the evidence disappeared, remove it.
             if cleaned != raw:
                 page.write_text(cleaned, encoding="utf-8")
@@ -187,9 +214,9 @@ def main():
             changed.append({
                 "code": code,
                 "page": page.relative_to(ROOT).as_posix(),
-                "research_records": len(records),
-                "evidence_types": categories(records),
-                "sample_records": [p.relative_to(ROOT).as_posix() for p in sorted(records)[:3]],
+                "source_records": len(public_records(records)),
+                "evidence_types": categories(public_records(records)),
+                "sample_records": [p.relative_to(ROOT).as_posix() for p in sorted(public_records(records))[:3]],
             })
 
     report = {
