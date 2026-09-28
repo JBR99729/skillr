@@ -1,0 +1,32 @@
+name: Enrich curriculum guide blogs
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/enrich_curriculum_blogs.py'
+      - 'data/curriculum-units.json'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  enrich:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Enrich year-subject curriculum blogs
+        run: python3 scripts/enrich_curriculum_blogs.py
+      - name: Commit enriched blogs
+        run: |
+          if git diff --quiet; then
+            echo "No blog changes required."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add blogs reports/curriculum-blog-enrichment.json
+          git commit -m "Enrich curriculum blogs with exact code data"
+          git push
