@@ -1,0 +1,209 @@
+{
+  "summary": {
+    "expected_guides": 33,
+    "guides_changed": 33,
+    "missing_guides": 0,
+    "curriculum_codes_represented": 676
+  },
+  "changed": [
+    {
+      "page": "blogs/foundation-english-curriculum-australia-guide.html",
+      "year": "Foundation",
+      "subject": "English",
+      "codes": 29
+    },
+    {
+      "page": "blogs/foundation-maths-curriculum-australia-guide.html",
+      "year": "Foundation",
+      "subject": "Maths",
+      "codes": 12
+    },
+    {
+      "page": "blogs/foundation-science-curriculum-australia-guide.html",
+      "year": "Foundation",
+      "subject": "Science",
+      "codes": 9
+    },
+    {
+      "page": "blogs/year1-english-curriculum-australia-guide.html",
+      "year": "Year 1",
+      "subject": "English",
+      "codes": 30
+    },
+    {
+      "page": "blogs/year1-maths-curriculum-australia-guide.html",
+      "year": "Year 1",
+      "subject": "Maths",
+      "codes": 15
+    },
+    {
+      "page": "blogs/year1-science-curriculum-australia-guide.html",
+      "year": "Year 1",
+      "subject": "Science",
+      "codes": 10
+    },
+    {
+      "page": "blogs/year2-english-curriculum-australia-guide.html",
+      "year": "Year 2",
+      "subject": "English",
+      "codes": 27
+    },
+    {
+      "page": "blogs/year2-maths-curriculum-australia-guide.html",
+      "year": "Year 2",
+      "subject": "Maths",
+      "codes": 18
+    },
+    {
+      "page": "blogs/year2-science-curriculum-australia-guide.html",
+      "year": "Year 2",
+      "subject": "Science",
+      "codes": 10
+    },
+    {
+      "page": "blogs/year3-english-curriculum-australia-guide.html",
+      "year": "Year 3",
+      "subject": "English",
+      "codes": 28
+    },
+    {
+      "page": "blogs/year3-maths-curriculum-australia-guide.html",
+      "year": "Year 3",
+      "subject": "Maths",
+      "codes": 23
+    },
+    {
+      "page": "blogs/year3-science-curriculum-australia-guide.html",
+      "year": "Year 3",
+      "subject": "Science",
+      "codes": 12
+    },
+    {
+      "page": "blogs/year4-english-curriculum-australia-guide.html",
+      "year": "Year 4",
+      "subject": "English",
+      "codes": 28
+    },
+    {
+      "page": "blogs/year4-maths-curriculum-australia-guide.html",
+      "year": "Year 4",
+      "subject": "Maths",
+      "codes": 23
+    },
+    {
+      "page": "blogs/year4-science-curriculum-australia-guide.html",
+      "year": "Year 4",
+      "subject": "Science",
+      "codes": 12
+    },
+    {
+      "page": "blogs/year5-english-curriculum-australia-guide.html",
+      "year": "Year 5",
+      "subject": "English",
+      "codes": 24
+    },
+    {
+      "page": "blogs/year5-maths-curriculum-australia-guide.html",
+      "year": "Year 5",
+      "subject": "Maths",
+      "codes": 24
+    },
+    {
+      "page": "blogs/year5-science-curriculum-australia-guide.html",
+      "year": "Year 5",
+      "subject": "Science",
+      "codes": 12
+    },
+    {
+      "page": "blogs/year6-english-curriculum-australia-guide.html",
+      "year": "Year 6",
+      "subject": "English",
+      "codes": 23
+    },
+    {
+      "page": "blogs/year6-maths-curriculum-australia-guide.html",
+      "year": "Year 6",
+      "subject": "Maths",
+      "codes": 24
+    },
+    {
+      "page": "blogs/year6-science-curriculum-australia-guide.html",
+      "year": "Year 6",
+      "subject": "Science",
+      "codes": 12
+    },
+    {
+      "page": "blogs/year7-english-curriculum-australia-guide.html",
+      "year": "Year 7",
+      "subject": "English",
+      "codes": 24
+    },
+    {
+      "page": "blogs/year7-maths-curriculum-australia-guide.html",
+      "year": "Year 7",
+      "subject": "Maths",
+      "codes": 30
+    },
+    {
+      "page": "blogs/year7-science-curriculum-australia-guide.html",
+      "year": "Year 7",
+      "subject": "Science",
+      "codes": 18
+    },
+    {
+      "page": "blogs/year8-english-curriculum-australia-guide.html",
+      "year": "Year 8",
+      "subject": "English",
+      "codes": 23
+    },
+    {
+      "page": "blogs/year8-maths-curriculum-australia-guide.html",
+      "year": "Year 8",
+      "subject": "Maths",
+      "codes": 27
+    },
+    {
+      "page": "blogs/year8-science-curriculum-australia-guide.html",
+      "year": "Year 8",
+      "subject": "Science",
+      "codes": 19
+    },
+    {
+      "page": "blogs/year9-english-curriculum-australia-guide.html",
+      "year": "Year 9",
+      "subject": "English",
+      "codes": 23
+    },
+    {
+      "page": "blogs/year9-maths-curriculum-australia-guide.html",
+      "year": "Year 9",
+      "subject": "Maths",
+      "codes": 23
+    },
+    {
+      "page": "blogs/year9-science-curriculum-australia-guide.html",
+      "year": "Year 9",
+      "subject": "Science",
+      "codes": 19
+    },
+    {
+      "page": "blogs/year10-english-curriculum-australia-guide.html",
+      "year": "Year 10",
+      "subject": "English",
+      "codes": 25
+    },
+    {
+      "page": "blogs/year10-maths-curriculum-australia-guide.html",
+      "year": "Year 10",
+      "subject": "Maths",
+      "codes": 21
+    },
+    {
+      "page": "blogs/year10-science-curriculum-australia-guide.html",
+      "year": "Year 10",
+      "subject": "Science",
+      "codes": 19
+    }
+  ],
+  "missing": []
+}
