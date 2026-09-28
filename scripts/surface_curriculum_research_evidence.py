@@ -19,8 +19,8 @@ ROOT = Path(__file__).resolve().parents[1]
 MANIFEST = ROOT / "data" / "curriculum-units.json"
 REPORT = ROOT / "reports" / "curriculum-research-evidence-surface.json"
 
-START = "<!-- skillr-research-evidence:start -->"
-END = "<!-- skillr-research-evidence:end -->"
+START = "<!-- skillr-source-evidence:start -->"
+END = "<!-- skillr-source-evidence:end -->"
 CODE_RE = re.compile(r"\bAC9[EMS](?:F|\d+)[A-Z]+\d{2}\b", re.I)
 ROBOTS_RE = re.compile(r'<meta\s+name=["\']robots["\']\s+content=["\']([^"\']*)["\']', re.I)
 CANONICAL_RE = re.compile(r'<link\s+rel=["\']canonical["\']\s+href=["\']([^"\']+)["\']', re.I)
@@ -142,15 +142,14 @@ def make_block(unit, paths):
         assessment = f"<li><strong>Assessment bank:</strong> {practice or 0} Practice items and {test or 0} Test items are currently stored for this code.</li>"
 
     return (
-        f"{START}<details class=\"curriculum-topic-section research-development-notes\" id=\"research-development-notes\">"
-        f"<summary><strong>Research &amp; development notes</strong></summary><div class=\"curriculum-detail-body\">"
-        f"<h2>How {esc(code)} was developed</h2>"
-        f"<p>This topic has <strong>{record_count} code-specific research/review record{'s' if record_count != 1 else ''}</strong> in the SkillrHub development repository. "
-        f"The exact Australian Curriculum v9 focus used for this lesson is: <q>{esc(descriptor)}</q>.</p>"
-        f"<h3>Development evidence on file</h3><ul>{evidence_bits}{assessment}</ul>"
-        f"<h3>Example research records</h3><ul>{file_bits}</ul>"
-        f"<p><small>These records document curriculum interpretation, source checking, authoring or validation work used to develop this code. "
-        f"They are development evidence; the official curriculum remains the authority for the curriculum description.</small></p>"
+        f"{START}<details class=\"curriculum-topic-section source-development-notes\" id=\"source-development-notes\">"
+        f"<summary><strong>Sources &amp; curriculum development</strong></summary><div class=\"curriculum-detail-body\">"
+        f"<h2>Sources used for {esc(code)}</h2>"
+        f"<p>This topic is aligned to the Australian Curriculum v9 content description: <q>{esc(descriptor)}</q>.</p>"
+        f"<h3>Source and quality checks</h3><ul>{evidence_bits}{assessment}</ul>"
+        f"<h3>Example source records</h3><ul>{file_bits}</ul>"
+        f"<p><small>These source records document curriculum interpretation, source checking, authoring or validation used to develop this topic. "
+        f"The official curriculum remains the authority for the curriculum description.</small></p>"
         f"</div></details>{END}"
     )
 
@@ -194,7 +193,7 @@ def main():
             })
 
     report = {
-        "method": "Evidence-gated visible research section; no page receives a research claim without an explicit code-specific repository record.",
+        "method": "Evidence-gated visible source section; no page receives a source/development claim without an explicit code-specific repository record.",
         "summary": {
             "curriculum_codes": len(units),
             "codes_with_research_evidence": sum(1 for c in units if by_code.get(c)),
