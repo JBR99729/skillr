@@ -4,11 +4,11 @@ window.skillrTestQuestions = [
     "id": "ac9s5u02-t-001",
     "curriculumCode": "AC9S5U02",
     "bank": "test",
-    "skill": "solids liquids and gases",
+    "skill": "weathering erosion and deposition",
     "printable": true,
     "type": "single",
-    "question": "Why does cordial take the shape of a jug?",
-    "audioPrompt": "Why does cordial take the shape of a jug?",
+    "question": "A granite outcrop cracks after repeated heating, cooling and rain, but the pieces remain in place. Which process is this?",
+    "audioPrompt": "A granite outcrop cracks after repeated heating, cooling and rain, but the pieces remain in place. Which process is this?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,19 +16,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Its particles are fixed in rows",
-      "It stops being matter",
-      "Its particles can move past each other while staying close",
-      "Its particles have no volume"
+      "Transportation",
+      "Refraction",
+      "Weathering",
+      "Deposition"
     ],
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 1,
     "correct": 2,
-    "explanation": "Liquid particles can move around one another, so liquids flow.\nHint: Liquid particle motion.",
+    "explanation": "Rock breaking down in place is weathering.\nHint: Breakdown in place.",
     "structuredExplanation": {
-      "summary": "Liquid particles can move around one another, so liquids flow.",
-      "hint": "Liquid particle motion."
+      "summary": "Rock breaking down in place is weathering.",
+      "hint": "Breakdown in place."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,11 +36,11 @@ window.skillrTestQuestions = [
     "id": "ac9s5u02-t-002",
     "curriculumCode": "AC9S5U02",
     "bank": "test",
-    "skill": "solids liquids and gases",
+    "skill": "weathering erosion and deposition",
     "printable": true,
     "type": "single",
-    "question": "Which statement about air in a sealed bottle is correct?",
-    "audioPrompt": "Which statement about air in a sealed bottle is correct?",
+    "question": "A wave drags sand away from the front of a dune. Which process removed the sand?",
+    "audioPrompt": "A wave drags sand away from the front of a dune. Which process removed the sand?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -48,19 +48,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The air has no particles",
-      "The air has mass and occupies space",
-      "The air has no mass because it is invisible",
-      "The air is not matter"
+      "Condensation",
+      "Erosion",
+      "Weathering only",
+      "Deposition"
     ],
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 2,
     "correct": 1,
-    "explanation": "Air is a gas, and gases are matter.\nHint: Invisible matter.",
+    "explanation": "Erosion removes material from a location.\nHint: Taken away.",
     "structuredExplanation": {
-      "summary": "Air is a gas, and gases are matter.",
-      "hint": "Invisible matter."
+      "summary": "Erosion removes material from a location.",
+      "hint": "Taken away."
     },
     "qualitySchema": "production-v1"
   },
@@ -68,11 +68,11 @@ window.skillrTestQuestions = [
     "id": "ac9s5u02-t-003",
     "curriculumCode": "AC9S5U02",
     "bank": "test",
-    "skill": "solids liquids and gases",
+    "skill": "weathering erosion and deposition",
     "printable": true,
     "type": "single",
-    "question": "A gas is easier to compress than water because:",
-    "audioPrompt": "A gas is easier to compress than water because:",
+    "question": "Fine silt settles on a riverbank after floodwater slows. Which process occurred?",
+    "audioPrompt": "Fine silt settles on a riverbank after floodwater slows. Which process occurred?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -80,19 +80,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "gas particles have larger spaces between them",
-      "gas particles are bigger than water particles",
-      "water has no particles",
-      "gas particles disappear when pushed"
+      "Deposition",
+      "Weathering",
+      "Absorption",
+      "Reflection"
     ],
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 3,
     "correct": 0,
-    "explanation": "Compression reduces spaces between gas particles.\nHint: Spaces in gas.",
+    "explanation": "Sediment settling from slower water is deposition.\nHint: Settling sediment.",
     "structuredExplanation": {
-      "summary": "Compression reduces spaces between gas particles.",
-      "hint": "Spaces in gas."
+      "summary": "Sediment settling from slower water is deposition.",
+      "hint": "Settling sediment."
     },
     "qualitySchema": "production-v1"
   },
@@ -100,11 +100,11 @@ window.skillrTestQuestions = [
     "id": "ac9s5u02-t-004",
     "curriculumCode": "AC9S5U02",
     "bank": "test",
-    "skill": "solids liquids and gases",
+    "skill": "weathering erosion and deposition",
     "printable": true,
     "type": "single",
-    "question": "Which model best explains a solid cube keeping its shape?",
-    "audioPrompt": "Which model best explains a solid cube keeping its shape?",
+    "question": "Which agent can transport sediment in an alpine area?",
+    "audioPrompt": "Which agent can transport sediment in an alpine area?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -112,19 +112,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Particles move freely to fill the container",
-      "Particles are absent",
-      "Particles are far apart",
-      "Particles stay close in fixed relative positions"
+      "A classroom magnet only",
+      "A shadow",
+      "A thermometer",
+      "Ice in a glacier"
     ],
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 4,
     "correct": 3,
-    "explanation": "Solids keep shape because particles are fixed relative to each other.\nHint: Solid model.",
+    "explanation": "Ice can move rock and sediment in cold mountain environments.\nHint: Moving ice.",
     "structuredExplanation": {
-      "summary": "Solids keep shape because particles are fixed relative to each other.",
-      "hint": "Solid model."
+      "summary": "Ice can move rock and sediment in cold mountain environments.",
+      "hint": "Moving ice."
     },
     "qualitySchema": "production-v1"
   },
@@ -132,11 +132,11 @@ window.skillrTestQuestions = [
     "id": "ac9s5u02-t-005",
     "curriculumCode": "AC9S5U02",
     "bank": "test",
-    "skill": "solids liquids and gases",
+    "skill": "weathering erosion and deposition",
     "printable": true,
     "type": "single",
-    "question": "A smell from cut lemons spreads through a kitchen. Which process is this?",
-    "audioPrompt": "A smell from cut lemons spreads through a kitchen. Which process is this?",
+    "question": "Why might soil under shrubs erode less than bare soil nearby?",
+    "audioPrompt": "Why might soil under shrubs erode less than bare soil nearby?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -144,19 +144,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Condensation only",
-      "Compression",
-      "Diffusion",
-      "Freezing"
+      "Bare soil is always heavier",
+      "Plants make erosion impossible",
+      "Roots hold soil and leaves reduce raindrop impact",
+      "Shrubs stop gravity forever"
     ],
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 5,
     "correct": 2,
-    "explanation": "Diffusion spreads particles through air.\nHint: Smell spreading.",
+    "explanation": "Vegetation can stabilise and protect soil.\nHint: Roots and cover.",
     "structuredExplanation": {
-      "summary": "Diffusion spreads particles through air.",
-      "hint": "Smell spreading."
+      "summary": "Vegetation can stabilise and protect soil.",
+      "hint": "Roots and cover."
     },
     "qualitySchema": "production-v1"
   },
@@ -164,11 +164,11 @@ window.skillrTestQuestions = [
     "id": "ac9s5u02-t-006",
     "curriculumCode": "AC9S5U02",
     "bank": "test",
-    "skill": "solids liquids and gases",
+    "skill": "weathering erosion and deposition",
     "printable": true,
     "type": "single",
-    "question": "Which statement is accurate when a substance is heated?",
-    "audioPrompt": "Which statement is accurate when a substance is heated?",
+    "question": "Where is a creek most likely to deposit heavier sand?",
+    "audioPrompt": "Where is a creek most likely to deposit heavier sand?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -176,19 +176,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Particles stop all movement",
-      "Particles generally move faster; they do not grow into larger particles",
-      "Particles become much larger objects",
-      "Particles vanish from the substance"
+      "Inside solid unweathered rock",
+      "Where the flow slows on a flatter section",
+      "Where water is fastest in a narrow channel",
+      "Where no sediment exists"
     ],
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 6,
     "correct": 1,
-    "explanation": "Heating increases motion and can increase spacing, not particle size.\nHint: Motion not size.",
+    "explanation": "Heavier sediment drops when water loses energy.\nHint: Slower water.",
     "structuredExplanation": {
-      "summary": "Heating increases motion and can increase spacing, not particle size.",
-      "hint": "Motion not size."
+      "summary": "Heavier sediment drops when water loses energy.",
+      "hint": "Slower water."
     },
     "qualitySchema": "production-v1"
   },
@@ -196,11 +196,11 @@ window.skillrTestQuestions = [
     "id": "ac9s5u02-t-007",
     "curriculumCode": "AC9S5U02",
     "bank": "test",
-    "skill": "solids liquids and gases",
+    "skill": "weathering erosion and deposition",
     "printable": true,
     "type": "single",
-    "question": "Which state has close particles that can slide past one another?",
-    "audioPrompt": "Which state has close particles that can slide past one another?",
+    "question": "Which sequence is correct for sediment reaching a beach?",
+    "audioPrompt": "Which sequence is correct for sediment reaching a beach?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -208,19 +208,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Liquid",
-      "Solid only",
-      "Gas only",
-      "Vacuum"
+      "weathering breaks rock, erosion removes it, water transports it, deposition settles it",
+      "deposition breaks rock, refraction moves it, weathering shines on it",
+      "erosion settles sediment, weathering transports it",
+      "light reflects sediment into the ocean"
     ],
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 7,
     "correct": 0,
-    "explanation": "Liquid particles are close but mobile.\nHint: Close and sliding.",
+    "explanation": "The correct sequence tracks breakdown, removal, movement and settling.\nHint: Four-process chain.",
     "structuredExplanation": {
-      "summary": "Liquid particles are close but mobile.",
-      "hint": "Close and sliding."
+      "summary": "The correct sequence tracks breakdown, removal, movement and settling.",
+      "hint": "Four-process chain."
     },
     "qualitySchema": "production-v1"
   },
@@ -228,11 +228,11 @@ window.skillrTestQuestions = [
     "id": "ac9s5u02-t-008",
     "curriculumCode": "AC9S5U02",
     "bank": "test",
-    "skill": "solids liquids and gases",
+    "skill": "weathering erosion and deposition",
     "printable": true,
     "type": "single",
-    "question": "Which state has widely spaced particles moving randomly through a container?",
-    "audioPrompt": "Which state has widely spaced particles moving randomly through a container?",
+    "question": "A stream-table model uses loose sand and a watering can. What is one limitation?",
+    "audioPrompt": "A stream-table model uses loose sand and a watering can. What is one limitation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -240,19 +240,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Solid",
-      "Liquid",
-      "Crystal only",
-      "Gas"
+      "It exactly matches all landscapes",
+      "It has no variables",
+      "It cannot show erosion at all",
+      "It simplifies real soil, rainfall, scale and time"
     ],
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 8,
     "correct": 3,
-    "explanation": "Gas particles are far apart and move freely.\nHint: Far apart.",
+    "explanation": "Models can show relationships but simplify real conditions.\nHint: Model limitation.",
     "structuredExplanation": {
-      "summary": "Gas particles are far apart and move freely.",
-      "hint": "Far apart."
+      "summary": "Models can show relationships but simplify real conditions.",
+      "hint": "Model limitation."
     },
     "qualitySchema": "production-v1"
   },
@@ -260,11 +260,11 @@ window.skillrTestQuestions = [
     "id": "ac9s5u02-t-009",
     "curriculumCode": "AC9S5U02",
     "bank": "test",
-    "skill": "solids liquids and gases",
+    "skill": "weathering erosion and deposition",
     "printable": true,
     "type": "single",
-    "question": "A syringe of water is much harder to compress than a syringe of air. Why?",
-    "audioPrompt": "A syringe of water is much harder to compress than a syringe of air. Why?",
+    "question": "Which statement is too strong?",
+    "audioPrompt": "Which statement is too strong?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -272,19 +272,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Air has no particles",
-      "Liquid particles are farther apart than gas particles",
-      "Liquid particles are already close together",
-      "Water particles disappear when pushed"
+      "Roots can help hold soil",
+      "Leaves can reduce raindrop impact",
+      "Vegetation prevents all erosion in every storm",
+      "Vegetation can reduce erosion"
     ],
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 9,
     "correct": 2,
-    "explanation": "Liquids have little empty space between particles compared with gases.\nHint: Close liquid particles.",
+    "explanation": "Vegetation reduces erosion risk but does not guarantee no erosion.\nHint: Avoid all.",
     "structuredExplanation": {
-      "summary": "Liquids have little empty space between particles compared with gases.",
-      "hint": "Close liquid particles."
+      "summary": "Vegetation reduces erosion risk but does not guarantee no erosion.",
+      "hint": "Avoid all."
     },
     "qualitySchema": "production-v1"
   },
@@ -292,11 +292,11 @@ window.skillrTestQuestions = [
     "id": "ac9s5u02-t-010",
     "curriculumCode": "AC9S5U02",
     "bank": "test",
-    "skill": "solids liquids and gases",
+    "skill": "weathering erosion and deposition",
     "printable": true,
     "type": "single",
-    "question": "Which observation supports that gas occupies space?",
-    "audioPrompt": "Which observation supports that gas occupies space?",
+    "question": "A cliff face is worn by salt spray and wind, then pieces fall and waves carry them away. Which pair of processes is shown?",
+    "audioPrompt": "A cliff face is worn by salt spray and wind, then pieces fall and waves carry them away. Which pair of processes is shown?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -304,19 +304,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Water is clear",
-      "A beach ball becomes larger as air is pumped into it",
-      "A coin stays round",
-      "Ice has corners"
+      "Condensation followed by evaporation",
+      "Weathering followed by erosion and transport",
+      "Deposition followed by freezing only",
+      "Reflection followed by absorption"
     ],
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 10,
     "correct": 1,
-    "explanation": "Air takes up space inside the ball.\nHint: Ball expands.",
+    "explanation": "The cliff material first breaks down, then is removed and moved.\nHint: Break then move.",
     "structuredExplanation": {
-      "summary": "Air takes up space inside the ball.",
-      "hint": "Ball expands."
+      "summary": "The cliff material first breaks down, then is removed and moved.",
+      "hint": "Break then move."
     },
     "qualitySchema": "production-v1"
   },
@@ -324,11 +324,11 @@ window.skillrTestQuestions = [
     "id": "ac9s5u02-t-011",
     "curriculumCode": "AC9S5U02",
     "bank": "test",
-    "skill": "solids liquids and gases",
+    "skill": "weathering erosion and deposition",
     "printable": true,
     "type": "single",
-    "question": "Which statement about particle diagrams is best?",
-    "audioPrompt": "Which statement about particle diagrams is best?",
+    "question": "Why can strong wind move dry sand across a playground more easily than wet soil?",
+    "audioPrompt": "Why can strong wind move dry sand across a playground more easily than wet soil?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -336,19 +336,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "They simplify matter and are not drawn to true scale",
-      "They show every particle exactly",
-      "They are useless in science",
-      "They prove particles are coloured circles"
+      "Loose dry particles are easier to lift and transport",
+      "Wet soil has no particles",
+      "Wind only works indoors",
+      "Dry sand is not matter"
     ],
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 11,
     "correct": 0,
-    "explanation": "Particle diagrams are models with strengths and limits.\nHint: Model limitation.",
+    "explanation": "Moisture and particle looseness affect wind transport.\nHint: Loose dry material.",
     "structuredExplanation": {
-      "summary": "Particle diagrams are models with strengths and limits.",
-      "hint": "Model limitation."
+      "summary": "Moisture and particle looseness affect wind transport.",
+      "hint": "Loose dry material."
     },
     "qualitySchema": "production-v1"
   },
@@ -356,11 +356,11 @@ window.skillrTestQuestions = [
     "id": "ac9s5u02-t-012",
     "curriculumCode": "AC9S5U02",
     "bank": "test",
-    "skill": "solids liquids and gases",
+    "skill": "weathering erosion and deposition",
     "printable": true,
     "type": "single",
-    "question": "A student says solids have no particle motion. What should be corrected?",
-    "audioPrompt": "A student says solids have no particle motion. What should be corrected?",
+    "question": "A river mouth slowly builds a fan-shaped deposit. What process is most responsible for the build-up?",
+    "audioPrompt": "A river mouth slowly builds a fan-shaped deposit. What process is most responsible for the build-up?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -368,19 +368,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Solid particles flow like gases",
-      "Solids have no particles",
-      "Only visible particles move",
-      "Solid particles vibrate about fixed positions"
+      "Weathering only",
+      "Magnetic attraction",
+      "Refraction",
+      "Deposition"
     ],
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 12,
     "correct": 3,
-    "explanation": "Particles in solids still vibrate.\nHint: Vibrate in place.",
+    "explanation": "Sediment builds up where a river slows and deposits material.\nHint: Build-up by settling.",
     "structuredExplanation": {
-      "summary": "Particles in solids still vibrate.",
-      "hint": "Vibrate in place."
+      "summary": "Sediment builds up where a river slows and deposits material.",
+      "hint": "Build-up by settling."
     },
     "qualitySchema": "production-v1"
   },
@@ -388,11 +388,11 @@ window.skillrTestQuestions = [
     "id": "ac9s5u02-t-013",
     "curriculumCode": "AC9S5U02",
     "bank": "test",
-    "skill": "solids liquids and gases",
+    "skill": "weathering erosion and deposition",
     "printable": true,
     "type": "single",
-    "question": "Why does water keep about the same volume when poured into a new cup?",
-    "audioPrompt": "Why does water keep about the same volume when poured into a new cup?",
+    "question": "Which observation best shows erosion rather than weathering?",
+    "audioPrompt": "Which observation best shows erosion rather than weathering?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -400,19 +400,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Liquid particles become bigger",
-      "Water stops being matter",
-      "Liquid particles remain close together",
-      "Liquid particles spread to fill the room"
+      "A boulder surface flakes but stays put",
+      "Water freezes inside a crack",
+      "Pebbles are carried downstream after being loosened",
+      "A rock cracks beside a path"
     ],
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 13,
     "correct": 2,
-    "explanation": "Liquids can change shape but keep volume because particles stay close.\nHint: Close particles.",
+    "explanation": "Carrying pebbles downstream involves removal and transport.\nHint: Movement away.",
     "structuredExplanation": {
-      "summary": "Liquids can change shape but keep volume because particles stay close.",
-      "hint": "Close particles."
+      "summary": "Carrying pebbles downstream involves removal and transport.",
+      "hint": "Movement away."
     },
     "qualitySchema": "production-v1"
   },
@@ -420,11 +420,11 @@ window.skillrTestQuestions = [
     "id": "ac9s5u02-t-014",
     "curriculumCode": "AC9S5U02",
     "bank": "test",
-    "skill": "solids liquids and gases",
+    "skill": "weathering erosion and deposition",
     "printable": true,
     "type": "single",
-    "question": "Which example is not matter?",
-    "audioPrompt": "Which example is not matter?",
+    "question": "Why is “landscape change only happens in disasters” incorrect?",
+    "audioPrompt": "Why is “landscape change only happens in disasters” incorrect?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -432,19 +432,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Ice",
-      "A shadow",
-      "Air",
-      "Water"
+      "Small changes cannot add up",
+      "Slow repeated processes can reshape landscapes over long periods",
+      "Rain and wind never change land",
+      "Only earthquakes affect sediment"
     ],
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 14,
     "correct": 1,
-    "explanation": "A shadow is not matter because it has no mass and does not occupy space.\nHint: No mass or volume.",
+    "explanation": "Everyday processes can accumulate into major changes over time.\nHint: Slow change matters.",
     "structuredExplanation": {
-      "summary": "A shadow is not matter because it has no mass and does not occupy space.",
-      "hint": "No mass or volume."
+      "summary": "Everyday processes can accumulate into major changes over time.",
+      "hint": "Slow change matters."
     },
     "qualitySchema": "production-v1"
   },
@@ -452,11 +452,11 @@ window.skillrTestQuestions = [
     "id": "ac9s5u02-t-015",
     "curriculumCode": "AC9S5U02",
     "bank": "test",
-    "skill": "solids liquids and gases",
+    "skill": "weathering erosion and deposition",
     "printable": true,
     "type": "single",
-    "question": "A student draws gas particles only at the bottom of a jar. What is wrong?",
-    "audioPrompt": "A student draws gas particles only at the bottom of a jar. What is wrong?",
+    "question": "A class tests bare soil and leaf-litter soil with equal water. What is the changed variable?",
+    "audioPrompt": "A class tests bare soil and leaf-litter soil with equal water. What is the changed variable?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -464,19 +464,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Gas particles should be spread throughout the available space",
-      "Gas particles are always in neat rows",
-      "Gases have no particles",
-      "Gas only sits at the bottom"
+      "Surface cover",
+      "Water amount",
+      "Slope if kept same",
+      "Measuring cup"
     ],
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 15,
     "correct": 0,
-    "explanation": "Gas particles move throughout the container.\nHint: Fill available space.",
+    "explanation": "Surface cover is deliberately changed between the trays.\nHint: What differs?",
     "structuredExplanation": {
-      "summary": "Gas particles move throughout the container.",
-      "hint": "Fill available space."
+      "summary": "Surface cover is deliberately changed between the trays.",
+      "hint": "What differs?"
     },
     "qualitySchema": "production-v1"
   },
@@ -484,11 +484,11 @@ window.skillrTestQuestions = [
     "id": "ac9s5u02-t-016",
     "curriculumCode": "AC9S5U02",
     "bank": "test",
-    "skill": "solids liquids and gases",
+    "skill": "weathering erosion and deposition",
     "printable": true,
     "type": "single",
-    "question": "Which explanation best compares melting and evaporation?",
-    "audioPrompt": "Which explanation best compares melting and evaporation?",
+    "question": "Which conclusion is best from a model where faster water carried more sand?",
+    "audioPrompt": "Which conclusion is best from a model where faster water carried more sand?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -496,19 +496,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Melting destroys particles but evaporation does not",
-      "Evaporation makes matter stop existing",
-      "Particles choose to leave because they want space",
-      "Both involve changes in particle arrangement or movement, not particles vanishing"
+      "All rivers always carry the same sand in five minutes",
+      "The model proves rock type never matters",
+      "Faster water cannot affect sediment",
+      "In this model, faster flow transported more sand, but real rivers need more evidence"
     ],
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 16,
     "correct": 3,
-    "explanation": "State changes keep particles but change arrangement, spacing or movement.\nHint: Particles remain.",
+    "explanation": "The conclusion uses the model evidence but states limits.\nHint: Cautious model claim.",
     "structuredExplanation": {
-      "summary": "State changes keep particles but change arrangement, spacing or movement.",
-      "hint": "Particles remain."
+      "summary": "The conclusion uses the model evidence but states limits.",
+      "hint": "Cautious model claim."
     },
     "qualitySchema": "production-v1"
   }
