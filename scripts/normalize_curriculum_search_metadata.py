@@ -18,6 +18,7 @@ from __future__ import annotations
 import html
 import json
 import re
+import subprocess
 from pathlib import Path
 from urllib.parse import urlparse
 
@@ -81,14 +82,36 @@ def is_primary(html_text: str, page: Path) -> tuple[bool, str]:
     return True, "primary"
 
 
-def seo_title(code: str, descriptor: str, year_label: str, subject_label: str) -> str:
-    return f"{code} | {descriptor} | {year_label} {subject_label}"
+def state_mappings() -> dict:
+    """Load the existing verified NSW/Victoria equivalence builder without duplicating its rules."""
+    command = [
+        "node", "--input-type=module", "-e",
+        "import { curriculumEquivalents as s } from './scripts/build_curriculum_equivalents.mjs'; "
+        "console.log(JSON.stringify(s.mappings));",
+    ]
+    payload = subprocess.check_output(command, cwd=ROOT, text=True)
+    return json.loads(payload)
 
 
-def seo_description(code: str, descriptor: str, year_label: str, subject_label: str) -> str:
+def compact_codes(value: str) -> str:
+    return str(value or "").replace(" + ", " / ").strip()
+
+
+def seo_title(code: str, topic: str, victoria_code: str, nsw_code: str) -> str:
+    # Deliberately code-forward: Search Console shows exact code queries are a
+    # major current discovery path. Every code here is a real on-page mapping.
+    codes = " | ".join(part for part in [code, compact_codes(victoria_code), compact_codes(nsw_code)] if part)
+    return f"{codes} | {topic}"
+
+
+def seo_description(code: str, descriptor: str, year_label: str, subject_label: str, victoria_code: str, nsw_code: str) -> str:
+    state_refs = "; ".join(part for part in [
+        f"Victoria {compact_codes(victoria_code)}" if victoria_code else "",
+        f"NSW {compact_codes(nsw_code)}" if nsw_code else "",
+    ] if part)
     return (
-        f"{code}: {descriptor}. {year_label} {subject_label} Australian Curriculum v9 "
-        f"topic guide with free worksheet, practice and test."
+        f"{code}: {descriptor}. {year_label} {subject_label} Australian Curriculum v9. "
+        f"{state_refs}. Free topic guide, worksheet, practice and test."
     )
 
 
@@ -106,6 +129,7 @@ def replace_or_insert_meta(text: str, regex: re.Pattern[str], replacement: str) 
 
 def main():
     units = {u["code"].upper(): u for u in json.loads(MANIFEST.read_text(encoding="utf-8"))["units"]}
+    mappings = state_mappings()
     changed = []
     skipped = []
     missing_manifest = []
@@ -130,8 +154,12 @@ def main():
 
         y = year_label(folder)
         s = SUBJECT_LABEL[subject]
-        title = seo_title(code, descriptor, y, s)
-        description = seo_description(code, descriptor, y, s)
+        mapping = mappings.get(code, {})
+        victoria_code = mapping.get("victoria", {}).get("code", "")
+        nsw_code = mapping.get("nsw", {}).get("code", "")
+        topic = str(unit.get("title") or descriptor).strip().rstrip(".")
+        title = seo_title(code, topic, victoria_code, nsw_code)
+        description = seo_description(code, descriptor, y, s, victoria_code, nsw_code)
 
         out = raw
         out = TITLE_RE.sub(f"<title>{esc(title)}</title>", out, count=1)
@@ -153,6 +181,8 @@ def main():
                 "title": title,
                 "description": description,
                 "descriptor": descriptor,
+                "victoria_code": victoria_code,
+                "nsw_code": nsw_code,
             })
         seen_primary.add(code)
 
@@ -166,7 +196,7 @@ def main():
                 "Year + subject + curriculum",
                 "Year + subject + topics",
             ],
-            "rule": "exact descriptor in title/H1; worksheet/practice/topic intent in meta description",
+            "rule": "code-forward title using AC v9 + verified Victoria + verified NSW identifiers; exact AC v9 descriptor remains the H1 and meta-description anchor; worksheet/practice/topic intent stays in the description",
         },
         "summary": {
             "manifest_codes": len(units),
