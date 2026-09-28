@@ -11,11 +11,11 @@ ADSENSE_CLIENT = "ca-pub-7734963540104771"
 
 
 def head(title, description, path):
-    return f'''<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="google-adsense-account" content="{ADSENSE_CLIENT}"><title>{title}</title><meta name="description" content="{description}"><meta name="robots" content="index, follow"><link rel="canonical" href="{SITE}{path}"><link rel="stylesheet" href="/style.css"><link rel="stylesheet" href="/quiz/assets/style.css?v=115"><script async src="https://www.googletagmanager.com/gtag/js?id={GA_ID}"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments)}}gtag("js",new Date());gtag("config","{GA_ID}");</script><!-- ADSENSE DISABLED PENDING APPROVAL: <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={ADSENSE_CLIENT}" crossorigin="anonymous"></script> --></head>'''
+    return f'''<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="google-adsense-account" content="{ADSENSE_CLIENT}"><title>{title}</title><meta name="description" content="{description}"><meta name="robots" content="noindex, follow"><link rel="canonical" href="{SITE}{path}"><link rel="stylesheet" href="/style.css"><link rel="stylesheet" href="/quiz/assets/style.css?v=115"><script async src="https://www.googletagmanager.com/gtag/js?id={GA_ID}"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments)}}gtag("js",new Date());gtag("config","{GA_ID}");</script><!-- ADSENSE DISABLED PENDING APPROVAL: <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={ADSENSE_CLIENT}" crossorigin="anonymous"></script> --></head>'''
 
 
 def nav():
-    return '''<nav class="quiz-breadcrumb" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/year1/curriculum/maths/">Year 1 Maths</a></li><li><a href="/year1/maths/ac9m1n01-numbers-to-120/">AC9M1N01</a></li></ol></nav>'''
+    return '''<nav class="quiz-breadcrumb" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/year1/">Year 1</a></li><li><a href="/year1/curriculum/maths/">Maths</a></li><li><a href="/year1/curriculum/maths/#number">Number</a></li><li><a href="/year1/maths/ac9m1n01-numbers-to-120/">AC9M1N01</a></li></ol></nav>'''
 
 
 def attempt(mode):
