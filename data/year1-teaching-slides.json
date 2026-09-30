@@ -1,0 +1,582 @@
+{
+  "updated": "2026-09-30",
+  "count": 55,
+  "items": [
+    {
+      "code": "AC9E1LA01",
+      "title": "Words, faces and gestures",
+      "subject": "english",
+      "subjectLabel": "English",
+      "topicGuide": "/year1/english/ac9e1la01-how-language-facial-expressions-and-gestures-are-used-to/",
+      "tptUrl": "https://www.teacherspayteachers.com/store/skillrhub",
+      "tptLinkType": "store",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9E1LA02",
+      "title": "I like it because…",
+      "subject": "english",
+      "subjectLabel": "English",
+      "topicGuide": "/year1/english/ac9e1la02-language-to-provide-reasons-for-likes-dislikes-and-preferences/",
+      "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-English-Preferences-Slides-AC9E1LA02-Australian-Curriculum-v9-17736411",
+      "tptLinkType": "direct",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9E1LA03",
+      "title": "Why do texts look different?",
+      "subject": "english",
+      "subjectLabel": "English",
+      "topicGuide": "/year1/english/ac9e1la03-how-texts-are-organised-according-to-their-purpose-such-as/",
+      "tptUrl": "https://www.teacherspayteachers.com/store/skillrhub",
+      "tptLinkType": "store",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9E1LA04",
+      "title": "Repeat, rhyme and rhythm",
+      "subject": "english",
+      "subjectLabel": "English",
+      "topicGuide": "/year1/english/ac9e1la04-how-repetition-rhyme-and-rhythm-create-cohesion-in-simple-poems/",
+      "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Rhyme-Rhythm-Slides-AC9E1LA04-Australian-Curriculum-v9-17736863",
+      "tptLinkType": "direct",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9E1LA05",
+      "title": "Finding your way through texts",
+      "subject": "english",
+      "subjectLabel": "English",
+      "topicGuide": "/year1/english/ac9e1la05-how-print-and-screen-texts-are-organised-using-features-such/",
+      "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Text-Features-Slides-AC9E1LA05-Print-Screen-Texts-17736971",
+      "tptLinkType": "direct",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9E1LA06",
+      "title": "Build a complete sentence",
+      "subject": "english",
+      "subjectLabel": "English",
+      "topicGuide": "/year1/english/ac9e1la06-that-a-simple-sentence-consists-of-a-single-independent-clause/",
+      "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Complete-Sentences-Slides-AC9E1LA06-Australian-Curriculum-v9-17737053",
+      "tptLinkType": "direct",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9E1LA07",
+      "title": "Words have jobs",
+      "subject": "english",
+      "subjectLabel": "English",
+      "topicGuide": "/year1/english/ac9e1la07-that-words-can-represent-people-places-and-things-nouns/",
+      "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Parts-of-Speech-Slides-AC9E1LA07-Australian-Curriculum-v9-17737193",
+      "tptLinkType": "direct",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9E1LA08",
+      "title": "Pictures help us understand",
+      "subject": "english",
+      "subjectLabel": "English",
+      "topicGuide": "/year1/english/ac9e1la08-how-images-in-different-types-of-texts-contribute-to-meaning/",
+      "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Visual-Literacy-Slides-AC9E1LA08-Australian-Curriculum-v9-17737343",
+      "tptLinkType": "direct",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9E1LA09",
+      "title": "Topic words help us learn",
+      "subject": "english",
+      "subjectLabel": "English",
+      "topicGuide": "/year1/english/ac9e1la09-the-vocabulary-of-learning-area-topics/",
+      "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Topic-Vocabulary-Slides-AC9E1LA09-Australian-Curriculum-v9-17737649",
+      "tptLinkType": "direct",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9E1LA10",
+      "title": "Punctuation gives us clues",
+      "subject": "english",
+      "subjectLabel": "English",
+      "topicGuide": "/year1/english/ac9e1la10-that-written-language-uses-punctuation-such-as-full-stops/",
+      "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Punctuation-Capital-Letters-Slides-AC9E1LA10-Curriculum-v9-17737657",
+      "tptLinkType": "direct",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9E1LE01",
+      "title": "Words and pictures build a story",
+      "subject": "english",
+      "subjectLabel": "English",
+      "topicGuide": "/year1/english/ac9e1le01-how-language-and-images-are-used-to-create-characters-settings/",
+      "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Story-Elements-Slides-AC9E1LE01-Australian-Curriculum-v9-17743951",
+      "tptLinkType": "direct",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9E1LE02",
+      "title": "Stories connect to our lives",
+      "subject": "english",
+      "subjectLabel": "English",
+      "topicGuide": "/year1/english/ac9e1le02-literary-texts-and-share-responses-by-making-connections-with/",
+      "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Story-Connections-Slides-AC9E1LE02-Australian-Curriculum-v9-17744486",
+      "tptLinkType": "direct",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9E1LE03",
+      "title": "Characters, settings and plot",
+      "subject": "english",
+      "subjectLabel": "English",
+      "topicGuide": "/year1/english/ac9e1le03-plot-character-and-setting-which-are-features-of-stories/",
+      "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Characters-Settings-Plot-Slides-AC9E1LE03-Curriculum-v9-17744721",
+      "tptLinkType": "direct",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9E1LE04",
+      "title": "Playing with sounds",
+      "subject": "english",
+      "subjectLabel": "English",
+      "topicGuide": "/year1/english/ac9e1le04-poems-chants-rhymes-and-songs-and-imitate-and-invent-sound/",
+      "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Rhyme-Rhythm-Alliteration-Slides-AC9E1LE04-17745214",
+      "tptLinkType": "direct",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9E1LE05",
+      "title": "Retell it, change it",
+      "subject": "english",
+      "subjectLabel": "English",
+      "topicGuide": "/year1/english/ac9e1le05-retell-or-adapt-a-familiar-story-using-plot-and-characters/",
+      "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Story-Retelling-Adaptation-Slides-AC9E1LE05-17745451",
+      "tptLinkType": "direct",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9E1LY01",
+      "title": "What is this text for?",
+      "subject": "english",
+      "subjectLabel": "English",
+      "topicGuide": "/year1/english/ac9e1ly01-different-texts-and-identify-some-features-that-indicate-their/",
+      "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Text-Purpose-Slides-AC9E1LY01-Australian-Curriculum-v9-17745803",
+      "tptLinkType": "direct",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9E1LY02",
+      "title": "Listen, take turns, join in",
+      "subject": "english",
+      "subjectLabel": "English",
+      "topicGuide": "/year1/english/ac9e1ly02-interaction-skills-including-turn-taking-speaking-clearly-using/",
+      "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Speaking-Listening-Slides-Turn-Taking-AC9E1LY02-17745962",
+      "tptLinkType": "direct",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9E1LY03",
+      "title": "Same or different texts",
+      "subject": "english",
+      "subjectLabel": "English",
+      "topicGuide": "/year1/english/ac9e1ly03-some-similarities-and-differences-between-imaginative/",
+      "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Compare-Text-Types-Slides-AC9E1LY03-Australian-Curriculum-v9-17746080",
+      "tptLinkType": "direct",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9E1LY04",
+      "title": "Read it, check it, make it make sense",
+      "subject": "english",
+      "subjectLabel": "English",
+      "topicGuide": "/year1/english/ac9e1ly04-decodable-and-authentic-texts-using-developing-phonic-knowledge/",
+      "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Phonics-Fluent-Reading-Slides-AC9E1LY04-17746230",
+      "tptLinkType": "direct",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9E1LY05",
+      "title": "Think while you read",
+      "subject": "english",
+      "subjectLabel": "English",
+      "topicGuide": "/year1/english/ac9e1ly05-comprehension-strategies-such-as-visualising-predicting/",
+      "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Reading-Comprehension-Strategies-Slides-AC9E1LY05-17746391",
+      "tptLinkType": "direct",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9E1LY06",
+      "title": "Plan It, Write It, Make It Better",
+      "subject": "english",
+      "subjectLabel": "English",
+      "topicGuide": "/year1/english/ac9e1ly06-and-re-read-to-edit-short-written-and-or-multimodal-texts-to/",
+      "tptUrl": "https://www.teacherspayteachers.com/store/skillrhub",
+      "tptLinkType": "store",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9E1LY07",
+      "title": "Speak so others can follow",
+      "subject": "english",
+      "subjectLabel": "English",
+      "topicGuide": "/year1/english/ac9e1ly07-and-deliver-short-oral-and-or-multimodal-presentations-on/",
+      "tptUrl": "https://www.teacherspayteachers.com/store/skillrhub",
+      "tptLinkType": "store",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9E1LY08",
+      "title": "Write clear words",
+      "subject": "english",
+      "subjectLabel": "English",
+      "topicGuide": "/year1/english/ac9e1ly08-words-using-unjoined-lower-case-and-upper-case-letters/",
+      "tptUrl": "https://www.teacherspayteachers.com/store/skillrhub",
+      "tptLinkType": "store",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9E1LY09",
+      "title": "Hear every sound",
+      "subject": "english",
+      "subjectLabel": "English",
+      "topicGuide": "/year1/english/ac9e1ly09-words-into-separate-phonemes-sounds-including-consonant-blends/",
+      "tptUrl": "https://www.teacherspayteachers.com/store/skillrhub",
+      "tptLinkType": "store",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9E1LY10",
+      "title": "Change a sound, make a new word",
+      "subject": "english",
+      "subjectLabel": "English",
+      "topicGuide": "/year1/english/ac9e1ly10-manipulate-phonemes-in-spoken-words-by-addition-deletion-and/",
+      "tptUrl": "https://www.teacherspayteachers.com/store/skillrhub",
+      "tptLinkType": "store",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9E1LY11",
+      "title": "Build it, read it, write it",
+      "subject": "english",
+      "subjectLabel": "English",
+      "topicGuide": "/year1/english/ac9e1ly11-short-vowels-common-long-vowels-consonant-blends-and-digraphs-to/",
+      "tptUrl": "https://www.teacherspayteachers.com/store/skillrhub",
+      "tptLinkType": "store",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9E1LY12",
+      "title": "Letters, sounds and syllables",
+      "subject": "english",
+      "subjectLabel": "English",
+      "topicGuide": "/year1/english/ac9e1ly12-that-a-letter-can-represent-more-than-one-sound-and/",
+      "tptUrl": "https://www.teacherspayteachers.com/store/skillrhub",
+      "tptLinkType": "store",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9E1LY13",
+      "title": "Spelling one- and two-syllable words",
+      "subject": "english",
+      "subjectLabel": "English",
+      "topicGuide": "/year1/english/ac9e1ly13-one-and-two-syllable-words-with-common-letter-patterns/",
+      "tptUrl": "https://www.teacherspayteachers.com/store/skillrhub",
+      "tptLinkType": "store",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9E1LY14",
+      "title": "Reading and writing high-frequency words",
+      "subject": "english",
+      "subjectLabel": "English",
+      "topicGuide": "/year1/english/ac9e1ly14-and-write-an-increasing-number-of-high-frequency-words/",
+      "tptUrl": "https://www.teacherspayteachers.com/store/skillrhub",
+      "tptLinkType": "store",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9E1LY15",
+      "title": "Word families and word parts",
+      "subject": "english",
+      "subjectLabel": "English",
+      "topicGuide": "/year1/english/ac9e1ly15-and-know-how-to-use-grammatical-morphemes-to-create-word/",
+      "tptUrl": "https://www.teacherspayteachers.com/store/skillrhub",
+      "tptLinkType": "store",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9M1A01",
+      "title": "Skip-counting patterns",
+      "subject": "maths",
+      "subjectLabel": "Maths",
+      "topicGuide": "/year1/maths/ac9m1a01-skip-counting-pattern-sequences/",
+      "tptUrl": "https://www.teacherspayteachers.com/Product/Skip-Counting-by-2s-5s-10s-Year-1-Lesson-Slides-Homeschool-PackAC9M1A01-17676771",
+      "tptLinkType": "direct",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9M1A02",
+      "title": "Repeating patterns",
+      "subject": "maths",
+      "subjectLabel": "Maths",
+      "topicGuide": "/year1/maths/ac9m1a02-repeating-patterns/",
+      "tptUrl": "https://www.teacherspayteachers.com/Product/Repeating-Patterns-Year-1-Maths-Lesson-Slides-Homeschool-Pack-AC9M1A02-17677514",
+      "tptLinkType": "direct",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9M1M01",
+      "title": "Comparing measurements",
+      "subject": "maths",
+      "subjectLabel": "Maths",
+      "topicGuide": "/year1/maths/ac9m1m01-comparing-length-mass-capacity-and-duration/",
+      "tptUrl": "https://www.teacherspayteachers.com/Product/Comparing-MeasurementsYear-1-Maths-Lesson-Slides-Home-Learning-GuideAC9M1M01-17678407",
+      "tptLinkType": "direct",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9M1M02",
+      "title": "Measuring length with informal units",
+      "subject": "maths",
+      "subjectLabel": "Maths",
+      "topicGuide": "/year1/maths/ac9m1m02-measuring-length-with-informal-units/",
+      "tptUrl": "https://www.teacherspayteachers.com/Product/Measuring-Length-with-Informal-Units-Year-1-Maths-Lesson-SlidesHomeAC9M1M02-17678987",
+      "tptLinkType": "direct",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9M1M03",
+      "title": "Time, duration and event sequences",
+      "subject": "maths",
+      "subjectLabel": "Maths",
+      "topicGuide": "/year1/maths/ac9m1m03-time-years-months-weeks-days-and-hours/",
+      "tptUrl": "https://www.teacherspayteachers.com/Product/TimeDurationEvent-SequencesYear-1-Maths-Lesson-SlidesHome-LearningAC9M1M03-17679159",
+      "tptLinkType": "direct",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9M1N01",
+      "title": "Numbers to 120",
+      "subject": "maths",
+      "subjectLabel": "Maths",
+      "topicGuide": "/year1/maths/ac9m1n01-numbers-to-120/",
+      "tptUrl": "https://www.teacherspayteachers.com/Product/Numbers-to-120-Year-1-Maths-Lesson-Slides-Worksheets-AC9M1N01-17669357",
+      "tptLinkType": "direct",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9M1N02",
+      "title": "Breaking numbers into parts",
+      "subject": "maths",
+      "subjectLabel": "Maths",
+      "topicGuide": "/year1/maths/ac9m1n02-partitioning-tens-and-ones/",
+      "tptUrl": "https://www.teacherspayteachers.com/Product/Number-Partitioning-Year-1-Maths-Lesson-Slides-Worksheets-AC9M1N02-17669472",
+      "tptLinkType": "direct",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9M1N03",
+      "title": "Equal groups and skip counting",
+      "subject": "maths",
+      "subjectLabel": "Maths",
+      "topicGuide": "/year1/maths/ac9m1n03-skip-counting-and-equal-groups/",
+      "tptUrl": "https://www.teacherspayteachers.com/Product/Equal-Groups-Skip-Counting-Year-1-Maths-Lesson-Slides-Worksheets-AC9M1N03-17669505",
+      "tptLinkType": "direct",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9M1N04",
+      "title": "Adding and taking away numbers to 20",
+      "subject": "maths",
+      "subjectLabel": "Maths",
+      "topicGuide": "/year1/maths/ac9m1n04-addition-and-subtraction-within-20/",
+      "tptUrl": "https://www.teacherspayteachers.com/Product/Addition-Subtraction-to-20-Year-1-Maths-Lesson-Slides-Worksheets-AC9M1N04-17669944",
+      "tptLinkType": "direct",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9M1N05",
+      "title": "Solving additive problems and simple money",
+      "subject": "maths",
+      "subjectLabel": "Maths",
+      "topicGuide": "/year1/maths/ac9m1n05-additive-problem-solving-and-money/",
+      "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Addition-Subtraction-Problem-Solving-Money-Lesson-Slides-AC9M1N05-17670474",
+      "tptLinkType": "direct",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9M1N06",
+      "title": "Equal sharing and grouping",
+      "subject": "maths",
+      "subjectLabel": "Maths",
+      "topicGuide": "/year1/maths/ac9m1n06-equal-sharing-and-grouping/",
+      "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Equal-Sharing-Grouping-Lesson-Slides-Worksheets-AC9M1N06-17676629",
+      "tptLinkType": "direct",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9M1SP01",
+      "title": "Familiar shapes and objects",
+      "subject": "maths",
+      "subjectLabel": "Maths",
+      "topicGuide": "/year1/maths/ac9m1sp01-familiar-shapes-and-objects/",
+      "tptUrl": "https://www.teacherspayteachers.com/Product/Familiar-Shapes-Objects-Year-1-Maths-Lesson-Slides-Home-LearningAC9M1SP01-17684936",
+      "tptLinkType": "direct",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9M1SP02",
+      "title": "Give and follow directions",
+      "subject": "maths",
+      "subjectLabel": "Maths",
+      "topicGuide": "/year1/maths/ac9m1sp02-directions-and-location/",
+      "tptUrl": "https://www.teacherspayteachers.com/Product/Give-Follow-Directions-Year-1-Maths-Lesson-Slides-Practice-TestAC9M1SP02-17710509",
+      "tptLinkType": "direct",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9M1ST01",
+      "title": "Collecting and recording data",
+      "subject": "maths",
+      "subjectLabel": "Maths",
+      "topicGuide": "/year1/maths/ac9m1st01-collecting-categorical-data/",
+      "tptUrl": "https://www.teacherspayteachers.com/Product/Collecting-Recording-Data-Year-1-Maths-Lesson-Slides-AC9M1ST01-17710715",
+      "tptLinkType": "direct",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9M1ST02",
+      "title": "Representing, comparing and discussing data",
+      "subject": "maths",
+      "subjectLabel": "Maths",
+      "topicGuide": "/year1/maths/ac9m1st02-representing-and-comparing-data/",
+      "tptUrl": "https://www.teacherspayteachers.com/Product/Representing-Comparing-Discussing-Data-Year-1-Maths-Lesson-Slides-AC9M1ST02-17716709",
+      "tptLinkType": "direct",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9S1H01",
+      "title": "Science in everyday life",
+      "subject": "science",
+      "subjectLabel": "Science",
+      "topicGuide": "/year1/science/ac9s1h01-science-in-daily-life/",
+      "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Science-in-Everyday-Life-Patterns-Predictions-AC9S1H01-Lesson-Slide-17719151",
+      "tptLinkType": "direct",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9S1I01",
+      "title": "Curious scientists: questions, patterns and predictions",
+      "subject": "science",
+      "subjectLabel": "Science",
+      "topicGuide": "/year1/science/ac9s1i01-questions-patterns-and-predictions/",
+      "tptUrl": "https://www.teacherspayteachers.com/store/skillrhub",
+      "tptLinkType": "store",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9S1I02",
+      "title": "Safe science investigations",
+      "subject": "science",
+      "subjectLabel": "Science",
+      "topicGuide": "/year1/science/ac9s1i02-safe-investigation-procedures/",
+      "tptUrl": "https://www.teacherspayteachers.com/store/skillrhub",
+      "tptLinkType": "store",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9S1I03",
+      "title": "Look, measure and record",
+      "subject": "science",
+      "subjectLabel": "Science",
+      "topicGuide": "/year1/science/ac9s1i03-making-and-recording-observations/",
+      "tptUrl": "https://www.teacherspayteachers.com/store/skillrhub",
+      "tptLinkType": "store",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9S1I04",
+      "title": "Sorting, ordering and showing patterns in science",
+      "subject": "science",
+      "subjectLabel": "Science",
+      "topicGuide": "/year1/science/ac9s1i04-sorting-data-and-representing-patterns/",
+      "tptUrl": "https://www.teacherspayteachers.com/store/skillrhub",
+      "tptLinkType": "store",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9S1I05",
+      "title": "Did it match? Thinking about science investigations",
+      "subject": "science",
+      "subjectLabel": "Science",
+      "topicGuide": "/year1/science/ac9s1i05-comparing-observations-and-predictions/",
+      "tptUrl": "https://www.teacherspayteachers.com/store/skillrhub",
+      "tptLinkType": "store",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9S1I06",
+      "title": "Show and explain your science",
+      "subject": "science",
+      "subjectLabel": "Science",
+      "topicGuide": "/year1/science/ac9s1i06-communicating-scientific-ideas/",
+      "tptUrl": "https://www.teacherspayteachers.com/store/skillrhub",
+      "tptLinkType": "store",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9S1U01",
+      "title": "Needs of plants and animals",
+      "subject": "science",
+      "subjectLabel": "Science",
+      "topicGuide": "/year1/science/ac9s1u01-needs-of-plants-and-animals/",
+      "tptUrl": "https://www.teacherspayteachers.com/Product/Needs-of-Plants-AnimalsYear-1-Science-Lesson-SlidesHome-ActivitiesAC9S1U01-17717457",
+      "tptLinkType": "direct",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9S1U02",
+      "title": "Daily and seasonal changes",
+      "subject": "science",
+      "subjectLabel": "Science",
+      "topicGuide": "/year1/science/ac9s1u02-daily-and-seasonal-changes/",
+      "tptUrl": "https://www.teacherspayteachers.com/Product/DailySeasonal-Changes-Year-1-Science-Lesson-SlidesWeather-ActivitiesAC9S1U02-17718181",
+      "tptLinkType": "direct",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    },
+    {
+      "code": "AC9S1U03",
+      "title": "Pushes and pulls",
+      "subject": "science",
+      "subjectLabel": "Science",
+      "topicGuide": "/year1/science/ac9s1u03-pushes-and-pulls/",
+      "tptUrl": "https://www.teacherspayteachers.com/Product/Pushes-Pulls-Year-1-Science-Lesson-Slides-Force-Investigations-AC9S1U03-17718482",
+      "tptLinkType": "direct",
+      "image": "/assets/tpt-catalogue-cover.svg"
+    }
+  ],
+  "bundles": [
+    {
+      "title": "Year 1 Number Bundle|Maths Lesson Slides, Printables & Homeschool Pack|AusV9.0",
+      "subjectLabel": "Arithmetic, Numbers, Other (Math)",
+      "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Number-BundleMaths-Lesson-Slides-Printables-Homeschool-PackAusV90-17676836",
+      "price": "24.00"
+    },
+    {
+      "title": "Year 1 Algebra Bundle | Patterns, Skip Counting & Maths Lesson Slides | Aus V9.0",
+      "subjectLabel": "Algebra, Math Test Prep, Other (Math)",
+      "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Algebra-Bundle-Patterns-Skip-Counting-Maths-Lesson-Slides-Aus-V90-17678421",
+      "price": "9.60"
+    },
+    {
+      "title": "Year 1 Science Bundle | Australian Curriculum v9.0 | Teaching Slides + Worksheet",
+      "subjectLabel": "Biology, General Science, Physical Science",
+      "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Science-Bundle-Australian-Curriculum-v90-Teaching-Slides-Worksheet-17205384",
+      "price": "19.99"
+    },
+    {
+      "title": "Year 1 Mathematics Complete Bundle | Australian Curriculum v9 Lesson Slides",
+      "subjectLabel": "Algebra, Measurement, Other (Math)",
+      "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Mathematics-Complete-Bundle-Australian-Curriculum-v9-Lesson-Slides-17716804",
+      "price": "74.40"
+    }
+  ]
+}
