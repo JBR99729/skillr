@@ -38,3 +38,31 @@
 @media(max-width:800px){.curriculum-skill-intro{grid-template-columns:1fr}.strand-jump-list{justify-content:flex-start}.curriculum-skill-grid{grid-template-columns:1fr}}
 @media(max-width:480px){.curriculum-skill-hub .curriculum-page{padding:10px}.curriculum-skill-hub .curriculum-panel{padding:14px}.curriculum-skill-hub .curriculum-unit-card{padding:16px}.strand-jump-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr))}.strand-jump-list a{justify-content:center;text-align:center}.curriculum-skill-group__header{align-items:start;flex-direction:column;gap:6px}.skill-card-actions{grid-template-columns:1fr}.resource-menu__links{grid-template-columns:1fr}}
 @media print{.strand-jump-list,.skill-card-actions{display:none}.official-wording>summary{display:none}.official-wording p{display:block}.curriculum-skill-grid{grid-template-columns:repeat(2,1fr)}}
+
+
+/* Resource pathway: keep long CTAs from squeezing the explanatory copy. */
+.curriculum-resource-pathway{
+  grid-template-columns:1fr;
+  align-items:start;
+}
+.curriculum-resource-pathway > div:first-child{
+  max-width:880px;
+}
+.curriculum-resource-pathway .curriculum-actions{
+  display:grid;
+  grid-template-columns:repeat(3,minmax(0,1fr));
+  width:100%;
+  margin-top:2px;
+}
+.curriculum-resource-pathway .curriculum-actions .curriculum-button{
+  width:100%;
+  min-width:0;
+  white-space:normal;
+  text-align:center;
+  line-height:1.3;
+}
+@media(max-width:1000px){
+  .curriculum-resource-pathway .curriculum-actions{
+    grid-template-columns:1fr;
+  }
+}
