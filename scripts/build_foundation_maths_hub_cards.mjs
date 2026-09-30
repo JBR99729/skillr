@@ -40,7 +40,7 @@ const card = (strand, [code, title, summary, example, official, slug]) => `<arti
   <p class="skill-summary">${esc(summary)}</p>
   <p class="skill-example"><strong>Example</strong><span>${esc(example)}</span></p>
   <div class="skill-card-actions">
-    <a href="/foundation/maths/${slug}/">Explore skill</a>
+    <a href="/foundation/maths/${slug}/">Topic guide</a>
     <details class="resource-menu"><summary>Resources</summary><div class="resource-menu__links">
       <a href="/foundation/maths/${slug}/teacher-slides/">Classroom View</a>
       <a href="/quiz/grade-k/math/${code.toLowerCase()}/worksheet/">Worksheet</a>
