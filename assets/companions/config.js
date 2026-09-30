@@ -3,7 +3,7 @@
   'use strict';
   const config = {
     version: '20260909-1',
-    enabled: true,
+    enabled: false, // Temporarily disabled; keep Ben & Vani code available for later restoration.
     storageKey: 'skillr.companions.visible.v1',
     atlas: '/assets/companions/approved-characters.png',
     artworkSize: [1024, 1536],
