@@ -375,7 +375,7 @@ def teacher_slide_url(unit: dict) -> str:
 
 def action_links(unit: dict) -> str:
     return f'''<div class="skill-card-actions">
-  <a href="{esc(unit['url'])}">Explore skill</a>
+  <a href="{esc(unit['url'])}">Topic guide</a>
   <details class="resource-menu"><summary>Resources</summary><div class="resource-menu__links">
     <a href="{esc(teacher_slide_url(unit))}" target="_blank" rel="noopener">Classroom View</a>
     <a href="{esc(unit['worksheetUrl'])}">Worksheet</a>
