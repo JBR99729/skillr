@@ -27,6 +27,9 @@ LANG_RE = re.compile(r'<html\b[^>]*\blang=["\'][^"\']+["\']', re.I)
 VIEWPORT_RE = re.compile(r'<meta\b[^>]*name=["\']viewport["\']', re.I)
 JSONLD_RE = re.compile(r'<script\b[^>]*type=["\']application/ld\+json["\'][^>]*>(.*?)</script>', re.I | re.S)
 HTTP_INTERNAL_RE = re.compile(r'https?://(?:www\.)?skillrhub\.com', re.I)
+CURRICULUM_TOPIC_URL_RE = re.compile(r"^/(?:foundation|year[1-9]|year10)/(?:maths|english|science)/ac9[a-z0-9]+(?:-[^/]+)?/+$", re.I)
+STATE_CODE_IN_TITLE_RE = re.compile(r"\b(?:VC\d[A-Z0-9]*|(?:MA|EN|SC)[A-Z0-9-]{4,})\b")
+MAX_CURRICULUM_TITLE_LENGTH = 70
 
 
 def local_html(url: str) -> Path | None:
@@ -78,8 +81,15 @@ def main() -> None:
 
         if NOINDEX_RE.search(head):
             warnings.append(f"noindex page listed in sitemap: {url}")
-        if not TITLE_RE.search(head):
+        title_match = TITLE_RE.search(head)
+        if not title_match:
             warnings.append(f"missing title: {url}")
+        elif CURRICULUM_TOPIC_URL_RE.match(urlparse(url).path):
+            title = re.sub(r"\s+", " ", title_match.group(1)).strip()
+            if len(title) > MAX_CURRICULUM_TITLE_LENGTH:
+                warnings.append(f"curriculum title exceeds {MAX_CURRICULUM_TITLE_LENGTH} characters ({len(title)}): {url}")
+            if STATE_CODE_IN_TITLE_RE.search(title):
+                warnings.append(f"curriculum title contains a state mapping code: {url}")
         if not DESC_RE.search(head):
             warnings.append(f"missing meta description: {url}")
         if not LANG_RE.search(head):

@@ -97,11 +97,41 @@ def compact_codes(value: str) -> str:
     return str(value or "").replace(" + ", " / ").strip()
 
 
-def seo_title(code: str, topic: str, victoria_code: str, nsw_code: str) -> str:
-    # Deliberately code-forward: Search Console shows exact code queries are a
-    # major current discovery path. Every code here is a real on-page mapping.
-    codes = " | ".join(part for part in [code, compact_codes(victoria_code), compact_codes(nsw_code)] if part)
-    return f"{codes} | {topic}"
+MAX_TITLE_LENGTH = 70
+
+
+def concise_topic(topic: str, available: int) -> str:
+    """Keep the human topic phrase, not a list of curriculum mappings.
+
+    Curriculum descriptions can be much longer than a search-result title.
+    Prefer a complete sequence of words, and only shorten when necessary.
+    """
+    text = re.sub(r"\s+", " ", str(topic or "")).strip(" .")
+    text = re.sub(r"^(?:and|or)\s+", "", text, flags=re.I)
+    text = text[:1].upper() + text[1:]
+    text = re.sub(r"^(?:recognise,? represent and solve problems involving|solve problems involving|mathematical modelling to solve practical problems involving)\s+", "", text, flags=re.I)
+    if len(text) <= available:
+        return text
+    words = text.split()
+    kept: list[str] = []
+    for word in words:
+        candidate = " ".join([*kept, word])
+        if len(candidate) > available:
+            break
+        kept.append(word)
+    while len(kept) > 1 and kept[-1].lower().strip(",;:-") in {"a", "an", "the", "and", "or", "of", "for", "to", "with", "in", "on"}:
+        kept.pop()
+    return " ".join(kept).rstrip(" ,;:-") or text[:available].rstrip(" ,;:-")
+
+
+def seo_title(code: str, topic: str, year_label: str, subject_label: str) -> str:
+    # Keep the exact AC code for code-led searches, but retain Victorian/NSW
+    # mappings in the description, visible alignment table and structured data.
+    prefix = f"{year_label} {subject_label}: "
+    # The site name is already shown by search engines. Leaving it out keeps
+    # enough room for a recognisable curriculum topic.
+    suffix = f" ({code})"
+    return f"{prefix}{concise_topic(topic, MAX_TITLE_LENGTH - len(prefix) - len(suffix))}{suffix}"
 
 
 def seo_description(code: str, descriptor: str, year_label: str, subject_label: str, victoria_code: str, nsw_code: str) -> str:
@@ -157,8 +187,8 @@ def main():
         mapping = mappings.get(code, {})
         victoria_code = mapping.get("victoria", {}).get("code", "")
         nsw_code = mapping.get("nsw", {}).get("code", "")
-        topic = str(unit.get("title") or descriptor).strip().rstrip(".")
-        title = seo_title(code, topic, victoria_code, nsw_code)
+        topic = descriptor
+        title = seo_title(code, topic, y, s)
         description = seo_description(code, descriptor, y, s, victoria_code, nsw_code)
 
         out = raw
@@ -196,7 +226,7 @@ def main():
                 "Year + subject + curriculum",
                 "Year + subject + topics",
             ],
-            "rule": "code-forward title using AC v9 + verified Victoria + verified NSW identifiers; exact AC v9 descriptor remains the H1 and meta-description anchor; worksheet/practice/topic intent stays in the description",
+            "rule": "human-readable Year + subject + concise Australian Curriculum v9 topic title with exact AC code; Victoria and NSW identifiers remain in the meta description, visible alignment table and structured data; exact AC v9 descriptor remains the H1 and meta-description anchor",
         },
         "summary": {
             "manifest_codes": len(units),
