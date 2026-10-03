@@ -1,0 +1,50 @@
+name: Repair Bing SEO reports
+on:
+  push:
+    branches: [main]
+    paths: ['scripts/repair_bing_seo.py']
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+concurrency:
+  group: repair-bing-seo
+  cancel-in-progress: false
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Apply metadata and worksheet heading repairs
+        run: |
+          python3 scripts/repair_bing_seo.py
+          python3 scripts/check_bing_seo.py
+          python3 scripts/audit_seo.py
+          git diff --check
+      - name: Publish validated repairs without deleting any site paths
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- '*.html' reports/bing-seo-repairs-2026-10-03.json
+          if git diff --cached --quiet; then exit 0; fi
+          base=$(git rev-parse HEAD)
+          git commit -m 'Fix Bing missing descriptions, long titles and duplicate metadata'
+          node scripts/check_release_integrity.mjs "$base" HEAD
+          git fetch origin main
+          if [ "$(git rev-parse origin/main)" != "$base" ]; then
+            git rebase origin/main
+            python3 scripts/check_bing_seo.py
+            node scripts/check_release_integrity.mjs origin/main HEAD
+          fi
+          git push origin HEAD:main
+
+      - name: Request Pages build for the repaired main commit
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api --method POST "repos/${{ github.repository }}/pages/builds"

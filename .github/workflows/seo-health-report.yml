@@ -11,6 +11,7 @@ on:
       - 'robots.txt'
       - 'sitemap*.xml'
       - 'scripts/audit_seo.py'
+      - 'scripts/check_bing_seo.py'
       - '.github/workflows/seo-health-report.yml'
 
 permissions:
@@ -36,3 +37,6 @@ jobs:
 
       - name: Run repository SEO health report
         run: python3 scripts/audit_seo.py
+
+      - name: Check Bing metadata and heading regressions
+        run: python3 scripts/check_bing_seo.py
