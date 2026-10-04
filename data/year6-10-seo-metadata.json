@@ -1,0 +1,1740 @@
+{
+  "version": 1,
+  "scope": "Canonical Year 6–10 topic pages; approved metadata-only maintenance, 2026-10-04",
+  "overrides": {
+    "AC9E7LA01": {
+      "topic": "Language and Personal Identity",
+      "url": "https://skillrhub.com/year7/english/ac9e7la01-how-language-expresses-and-creates-personal-and-social/",
+      "title": "Year 7 English: Language and Personal Identity | AC9E7LA01",
+      "description": "Language and Personal Identity: Year 7 English (AC9E7LA01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E7LA01; NSW EN4-URB-01."
+    },
+    "AC9E7LA02": {
+      "topic": "Evaluating Texts with Evidence",
+      "url": "https://skillrhub.com/year7/english/ac9e7la02-language-used-to-evaluate-texts-including-visual-and-multimodal/",
+      "title": "Year 7 English: Evaluating Texts with Evidence | AC9E7LA02",
+      "description": "Evaluating Texts with Evidence: Year 7 English (AC9E7LA02). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E7LA02; NSW EN4-URA-01."
+    },
+    "AC9E7LA03": {
+      "topic": "Text Structure and Purpose",
+      "url": "https://skillrhub.com/year7/english/ac9e7la03-and-describe-how-texts-are-structured-differently-depending-on/",
+      "title": "Year 7 English: Text Structure and Purpose | AC9E7LA03",
+      "description": "Text Structure and Purpose: Year 7 English (AC9E7LA03). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E7LA03; NSW EN4-URA-01."
+    },
+    "AC9E7LA04": {
+      "topic": "Text Cohesion and Reader Guidance",
+      "url": "https://skillrhub.com/year7/english/ac9e7la04-that-the-cohesion-of-texts-relies-on-devices-that-signal/",
+      "title": "Year 7 English: Text Cohesion and Reader Guidance | AC9E7LA04",
+      "description": "Text Cohesion and Reader Guidance: Year 7 English (AC9E7LA04). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E7LA04; NSW EN4-RVL-01 / EN4-URA-01."
+    },
+    "AC9E7LA05": {
+      "topic": "Complex and Compound-Complex Sentences",
+      "url": "https://skillrhub.com/year7/english/ac9e7la05-how-complex-and-compound-complex-sentences-can-be-used-to/",
+      "title": "Year 7 English: Complex and Compound-Complex Sentences | AC9E7LA05",
+      "description": "Complex and Compound-Complex Sentences: Year 7 English (AC9E7LA05). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E7LA05; NSW EN4-URA-01."
+    },
+    "AC9E7LA06": {
+      "topic": "Consistent Verb Tense",
+      "url": "https://skillrhub.com/year7/english/ac9e7la06-how-consistency-of-tense-through-verbs-and-verb-groups-achieves/",
+      "title": "Year 7 English: Consistent Verb Tense | AC9E7LA06",
+      "description": "Consistent Verb Tense: Year 7 English (AC9E7LA06). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E7LA06; NSW EN4-URA-01."
+    },
+    "AC9E7LA07": {
+      "topic": "Perspective in Visual Texts",
+      "url": "https://skillrhub.com/year7/english/ac9e7la07-analyse-how-techniques-such-as-vectors-angle-and-or-social/",
+      "title": "Year 7 English: Perspective in Visual Texts | AC9E7LA07",
+      "description": "Perspective in Visual Texts: Year 7 English (AC9E7LA07). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E7LA07; NSW EN4-URB-01."
+    },
+    "AC9E7LA08": {
+      "topic": "Specialist and Technical Vocabulary",
+      "url": "https://skillrhub.com/year7/english/ac9e7la08-investigate-the-role-of-vocabulary-in-building-specialist-and/",
+      "title": "Year 7 English: Specialist and Technical Vocabulary | AC9E7LA08",
+      "description": "Specialist and Technical Vocabulary: Year 7 English (AC9E7LA08). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E7LA08; NSW EN4-URA-01."
+    },
+    "AC9E7LA09": {
+      "topic": "Colons and Brackets",
+      "url": "https://skillrhub.com/year7/english/ac9e7la09-the-use-of-punctuation-including-colons-and-brackets-to-support/",
+      "title": "Year 7 English: Colons and Brackets | AC9E7LA09",
+      "description": "Colons and Brackets: Year 7 English (AC9E7LA09). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E7LA09; NSW EN4-URA-01."
+    },
+    "AC9E7LE01": {
+      "topic": "Literary Ideas, Viewpoints and Contexts",
+      "url": "https://skillrhub.com/year7/english/ac9e7le01-and-explore-ideas-points-of-view-characters-events-and-or-issues/",
+      "title": "Year 7 English: Literary Ideas, Viewpoints and Contexts | AC9E7LE01",
+      "description": "Literary Ideas, Viewpoints and Contexts: Year 7 English (AC9E7LE01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E7LE01; NSW EN4-RVL-01 / EN4-URA-01."
+    },
+    "AC9E7LE02": {
+      "topic": "Justifying Responses to Literature",
+      "url": "https://skillrhub.com/year7/english/ac9e7le02-form-an-opinion-about-characters-settings-and-events-in-texts/",
+      "title": "Year 7 English: Justifying Responses to Literature | AC9E7LE02",
+      "description": "Justifying Responses to Literature: Year 7 English (AC9E7LE02). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E7LE02; NSW EN4-URC-01 / EN4-URA-01."
+    },
+    "AC9E7LE03": {
+      "topic": "Character, Emotion and Literary Devices",
+      "url": "https://skillrhub.com/year7/english/ac9e7le03-explain-the-ways-that-literary-devices-and-language-features/",
+      "title": "Year 7 English: Character, Emotion and Literary Devices | AC9E7LE03",
+      "description": "Character, Emotion and Literary Devices: Year 7 English (AC9E7LE03). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E7LE03; NSW EN4-URC-01 / EN4-URA-01."
+    },
+    "AC9E7LE04": {
+      "topic": "Literary Texts: Aesthetic and Social Value",
+      "url": "https://skillrhub.com/year7/english/ac9e7le04-the-aesthetic-and-social-value-of-literary-texts-using-relevant/",
+      "title": "Year 7 English: Literary Texts: Aesthetic and Social Value | AC9E7LE04",
+      "description": "Literary Texts: Aesthetic and Social Value: Year 7 English (AC9E7LE04). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E7LE04; NSW EN4-URC-01 / EN4-URA-01."
+    },
+    "AC9E7LE05": {
+      "topic": "Characters, Settings and Narrative Meaning",
+      "url": "https://skillrhub.com/year7/english/ac9e7le05-and-explain-the-ways-that-characters-settings-and-events-combine/",
+      "title": "Year 7 English: Characters, Settings and Narrative Meaning | AC9E7LE05",
+      "description": "Characters, Settings and Narrative Meaning: Year 7 English (AC9E7LE05). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E7LE05; NSW EN4-URA-01."
+    },
+    "AC9E7LE06": {
+      "topic": "Literary Devices and Layers of Meaning",
+      "url": "https://skillrhub.com/year7/english/ac9e7le06-and-explain-how-literary-devices-create-layers-of-meaning-in/",
+      "title": "Year 7 English: Literary Devices and Layers of Meaning | AC9E7LE06",
+      "description": "Literary Devices and Layers of Meaning: Year 7 English (AC9E7LE06). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E7LE06; NSW EN4-URC-01 / EN4-URA-01."
+    },
+    "AC9E7LE07": {
+      "topic": "Creating and Editing Literary Texts",
+      "url": "https://skillrhub.com/year7/english/ac9e7le07-and-edit-literary-texts-that-experiment-with-language-features/",
+      "title": "Year 7 English: Creating and Editing Literary Texts | AC9E7LE07",
+      "description": "Creating and Editing Literary Texts: Year 7 English (AC9E7LE07). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E7LE06; NSW EN4-ECB-01 / EN4-ECA-01."
+    },
+    "AC9E7LY01": {
+      "topic": "Technology and Media Texts",
+      "url": "https://skillrhub.com/year7/english/ac9e7ly01-explain-the-effect-of-current-technology-on-reading-creating-and/",
+      "title": "Year 7 English: Technology and Media Texts | AC9E7LY01",
+      "description": "Technology and Media Texts: Year 7 English (AC9E7LY01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E7LY01; NSW EN4-RVL-01 / EN4-URA-01."
+    },
+    "AC9E7LY02": {
+      "topic": "Discussion and Presentation Skills",
+      "url": "https://skillrhub.com/year7/english/ac9e7ly02-interaction-skills-when-discussing-and-presenting-ideas-and/",
+      "title": "Year 7 English: Discussion and Presentation Skills | AC9E7LY02",
+      "description": "Discussion and Presentation Skills: Year 7 English (AC9E7LY02). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E7LY02; NSW EN4-ECA-01."
+    },
+    "AC9E7LY03": {
+      "topic": "Language, Audience and Purpose",
+      "url": "https://skillrhub.com/year7/english/ac9e7ly03-analyse-the-ways-in-which-language-features-shape-meaning-and/",
+      "title": "Year 7 English: Language, Audience and Purpose | AC9E7LY03",
+      "description": "Language, Audience and Purpose: Year 7 English (AC9E7LY03). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E7LY03; NSW EN4-URA-01."
+    },
+    "AC9E7LY04": {
+      "topic": "Organising Ideas in Texts",
+      "url": "https://skillrhub.com/year7/english/ac9e7ly04-explain-the-structure-of-ideas-such-as-the-use-of/",
+      "title": "Year 7 English: Organising Ideas in Texts | AC9E7LY04",
+      "description": "Organising Ideas in Texts: Year 7 English (AC9E7LY04). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E7LY04; NSW EN4-URA-01."
+    },
+    "AC9E7LY05": {
+      "topic": "Comprehension and Summarising Strategies",
+      "url": "https://skillrhub.com/year7/english/ac9e7ly05-comprehension-strategies-such-as-visualising-predicting/",
+      "title": "Year 7 English: Comprehension and Summarising Strategies | AC9E7LY05",
+      "description": "Comprehension and Summarising Strategies: Year 7 English (AC9E7LY05). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E7LY05; NSW EN4-RVL-01 / EN4-URA-01."
+    },
+    "AC9E7LY06": {
+      "topic": "Creating Written and Multimodal Texts",
+      "url": "https://skillrhub.com/year7/english/ac9e7ly06-plan-create-edit-and-publish-written-and-multimodal-texts/",
+      "title": "Year 7 English: Creating Written and Multimodal Texts | AC9E7LY06",
+      "description": "Creating Written and Multimodal Texts: Year 7 English (AC9E7LY06). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E7LY06; NSW EN4-ECB-01 / EN4-ECA-01."
+    },
+    "AC9E7LY07": {
+      "topic": "Planning and Delivering Presentations",
+      "url": "https://skillrhub.com/year7/english/ac9e7ly07-plan-create-rehearse-and-deliver-presentations-for-purposes-and/",
+      "title": "Year 7 English: Planning and Delivering Presentations | AC9E7LY07",
+      "description": "Planning and Delivering Presentations: Year 7 English (AC9E7LY07). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E7LY07; NSW EN4-ECB-01 / EN4-ECA-01."
+    },
+    "AC9E7LY08": {
+      "topic": "Spelling Rules and Word Origins",
+      "url": "https://skillrhub.com/year7/english/ac9e7ly08-how-to-use-spelling-rules-and-word-origins-for-example/",
+      "title": "Year 7 English: Spelling Rules and Word Origins | AC9E7LY08",
+      "description": "Spelling Rules and Word Origins: Year 7 English (AC9E7LY08). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E7LY08; NSW EN4-URA-01."
+    },
+    "AC9M7A01": {
+      "topic": "Variables, Formulas and Substitution",
+      "url": "https://skillrhub.com/year7/maths/ac9m7a01-and-use-variables-to-represent-everyday-formulas-algebraically/",
+      "title": "Year 7 Maths: Variables, Formulas and Substitution | AC9M7A01",
+      "description": "Variables, Formulas and Substitution: Year 7 Maths (AC9M7A01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M7A01; NSW MA4-EQU-C-01 / MA4-LIN-C-01."
+    },
+    "AC9M7A02": {
+      "topic": "Formulating Algebraic Expressions",
+      "url": "https://skillrhub.com/year7/maths/ac9m7a02-formulate-algebraic-expressions-using-constants-variables/",
+      "title": "Year 7 Maths: Formulating Algebraic Expressions | AC9M7A02",
+      "description": "Formulating Algebraic Expressions: Year 7 Maths (AC9M7A02). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M7A02; NSW MA4-ALG-C-01."
+    },
+    "AC9M7A03": {
+      "topic": "Solving One-variable Linear Equations",
+      "url": "https://skillrhub.com/year7/maths/ac9m7a03-solve-one-variable-linear-equations-with-natural-number/",
+      "title": "Year 7 Maths: Solving One-variable Linear Equations | AC9M7A03",
+      "description": "Solving One-variable Linear Equations: Year 7 Maths (AC9M7A03). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M7A03; NSW MA4-EQU-C-01 / MA4-LIN-C-01."
+    },
+    "AC9M7A04": {
+      "topic": "Graphs and Relationships Between Variables",
+      "url": "https://skillrhub.com/year7/maths/ac9m7a04-relationships-between-variables-represented-in-graphs-of/",
+      "title": "Year 7 Maths: Graphs and Relationships Between Variables | AC9M7A04",
+      "description": "Graphs and Relationships Between Variables: Year 7 Maths (AC9M7A04). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M7A04; NSW MA4-LIN-C-01."
+    },
+    "AC9M7A05": {
+      "topic": "Growing Patterns and Cartesian Graphs",
+      "url": "https://skillrhub.com/year7/maths/ac9m7a05-generate-tables-of-values-from-visually-growing-patterns-or-the/",
+      "title": "Year 7 Maths: Growing Patterns and Cartesian Graphs | AC9M7A05",
+      "description": "Growing Patterns and Cartesian Graphs: Year 7 Maths (AC9M7A05). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M7A05; NSW MA4-LIN-C-01."
+    },
+    "AC9M7A06": {
+      "topic": "Varying Variables in Formulas",
+      "url": "https://skillrhub.com/year7/maths/ac9m7a06-manipulate-formulas-involving-several-variables-using-digital/",
+      "title": "Year 7 Maths: Varying Variables in Formulas | AC9M7A06",
+      "description": "Varying Variables in Formulas: Year 7 Maths (AC9M7A06). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M7A06; NSW MA4-ALG-C-01."
+    },
+    "AC9M7M01": {
+      "topic": "Area of Triangles and Parallelograms",
+      "url": "https://skillrhub.com/year7/maths/ac9m7m01-solve-problems-involving-the-area-of-triangles-and/",
+      "title": "Year 7 Maths: Area of Triangles and Parallelograms | AC9M7M01",
+      "description": "Area of Triangles and Parallelograms: Year 7 Maths (AC9M7M01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M7M01; NSW MA4-ARE-C-01."
+    },
+    "AC9M7M02": {
+      "topic": "Volume of Right Prisms",
+      "url": "https://skillrhub.com/year7/maths/ac9m7m02-solve-problems-involving-the-volume-of-right-prisms-including/",
+      "title": "Year 7 Maths: Volume of Right Prisms | AC9M7M02",
+      "description": "Volume of Right Prisms: Year 7 Maths (AC9M7M02). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M7M02; NSW MA4-VOL-C-01."
+    },
+    "AC9M7M03": {
+      "topic": "Circle Features and Circumference",
+      "url": "https://skillrhub.com/year7/maths/ac9m7m03-the-relationship-between-and-the-features-of-circles-including/",
+      "title": "Year 7 Maths: Circle Features and Circumference | AC9M7M03",
+      "description": "Circle Features and Circumference: Year 7 Maths (AC9M7M03). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M7M03; NSW MA4-LEN-C-01."
+    },
+    "AC9M7M04": {
+      "topic": "Angles in Parallel Lines",
+      "url": "https://skillrhub.com/year7/maths/ac9m7m04-corresponding-alternate-and-co-interior-relationships-between/",
+      "title": "Year 7 Maths: Angles in Parallel Lines | AC9M7M04",
+      "description": "Angles in Parallel Lines: Year 7 Maths (AC9M7M04). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M7M04; NSW MA4-ANG-C-01."
+    },
+    "AC9M7M05": {
+      "topic": "Triangle and Polygon Angle Sums",
+      "url": "https://skillrhub.com/year7/maths/ac9m7m05-demonstrate-that-the-interior-angle-sum-of-a-triangle-in/",
+      "title": "Year 7 Maths: Triangle and Polygon Angle Sums | AC9M7M05",
+      "description": "Triangle and Polygon Angle Sums: Year 7 Maths (AC9M7M05). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M7M05; NSW MA4-ARE-C-01."
+    },
+    "AC9M7M06": {
+      "topic": "Practical Ratio Modelling",
+      "url": "https://skillrhub.com/year7/maths/ac9m7m06-mathematical-modelling-to-solve-practical-problems-involving/",
+      "title": "Year 7 Maths: Practical Ratio Modelling | AC9M7M06",
+      "description": "Practical Ratio Modelling: Year 7 Maths (AC9M7M06). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M7M06; NSW MA4-RAT-C-01."
+    },
+    "AC9M7N01": {
+      "topic": "Perfect Squares and Square Roots",
+      "url": "https://skillrhub.com/year7/maths/ac9m7n01-the-relationship-between-perfect-square-numbers-and-square/",
+      "title": "Year 7 Maths: Perfect Squares and Square Roots | AC9M7N01",
+      "description": "Perfect Squares and Square Roots: Year 7 Maths (AC9M7N01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M7N01; NSW MA4-IND-C-01."
+    },
+    "AC9M7N02": {
+      "topic": "Prime Factorisation with Exponent Notation",
+      "url": "https://skillrhub.com/year7/maths/ac9m7n02-represent-natural-numbers-as-products-of-powers-of-prime-numbers/",
+      "title": "Year 7 Maths: Prime Factorisation with Exponent Notation | AC9M7N02",
+      "description": "Prime Factorisation with Exponent Notation: Year 7 Maths (AC9M7N02). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M7N02; NSW MA4-IND-C-01."
+    },
+    "AC9M7N03": {
+      "topic": "Expanded Notation with Powers of 10",
+      "url": "https://skillrhub.com/year7/maths/ac9m7n03-represent-natural-numbers-in-expanded-notation-using-place/",
+      "title": "Year 7 Maths: Expanded Notation with Powers of 10 | AC9M7N03",
+      "description": "Expanded Notation with Powers of 10: Year 7 Maths (AC9M7N03). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M7N03; NSW MA4-FRC-C-01."
+    },
+    "AC9M7N04": {
+      "topic": "Equivalent Rational Numbers",
+      "url": "https://skillrhub.com/year7/maths/ac9m7n04-find-equivalent-representations-of-rational-numbers-and/",
+      "title": "Year 7 Maths: Equivalent Rational Numbers | AC9M7N04",
+      "description": "Equivalent Rational Numbers: Year 7 Maths (AC9M7N04). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M7N04; NSW MA4-FRC-C-01."
+    },
+    "AC9M7N05": {
+      "topic": "Rounding, Accuracy and Reasonableness",
+      "url": "https://skillrhub.com/year7/maths/ac9m7n05-round-decimals-to-a-given-accuracy-appropriate-to-the-context/",
+      "title": "Year 7 Maths: Rounding, Accuracy and Reasonableness | AC9M7N05",
+      "description": "Rounding, Accuracy and Reasonableness: Year 7 Maths (AC9M7N05). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M7N05; NSW MA4-FRC-C-01."
+    },
+    "AC9M7N06": {
+      "topic": "Operations with Positive Rational Numbers",
+      "url": "https://skillrhub.com/year7/maths/ac9m7n06-the-4-operations-with-positive-rational-numbers-including/",
+      "title": "Year 7 Maths: Operations with Positive Rational Numbers | AC9M7N06",
+      "description": "Operations with Positive Rational Numbers: Year 7 Maths (AC9M7N06). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M7N06; NSW MA4-FRC-C-01."
+    },
+    "AC9M7N07": {
+      "topic": "Comparing, Adding and Subtracting Integers",
+      "url": "https://skillrhub.com/year7/maths/ac9m7n07-compare-order-and-solve-problems-involving-addition-and/",
+      "title": "Year 7 Maths: Comparing, Adding and Subtracting Integers | AC9M7N07",
+      "description": "Comparing, Adding and Subtracting Integers: Year 7 Maths (AC9M7N07). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M7N07; NSW MA4-INT-C-01."
+    },
+    "AC9M7N08": {
+      "topic": "Ratios and Equivalent Relationships",
+      "url": "https://skillrhub.com/year7/maths/ac9m7n08-recognise-represent-and-solve-problems-involving-ratios/",
+      "title": "Year 7 Maths: Ratios and Equivalent Relationships | AC9M7N08",
+      "description": "Ratios and Equivalent Relationships: Year 7 Maths (AC9M7N08). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M7N08; NSW MA4-RAT-C-01."
+    },
+    "AC9M7N09": {
+      "topic": "Rational Numbers and Percentage Modelling",
+      "url": "https://skillrhub.com/year7/maths/ac9m7n09-mathematical-modelling-to-solve-practical-problems-involving/",
+      "title": "Year 7 Maths: Rational Numbers and Percentage Modelling | AC9M7N09",
+      "description": "Rational Numbers and Percentage Modelling: Year 7 Maths (AC9M7N09). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M7N09; NSW MA4-FRC-C-01."
+    },
+    "AC9M7P01": {
+      "topic": "Sample Spaces and Single-stage Probability",
+      "url": "https://skillrhub.com/year7/maths/ac9m7p01-the-sample-space-for-single-stage-events-assign-probabilities/",
+      "title": "Year 7 Maths: Sample Spaces and Single-stage Probability | AC9M7P01",
+      "description": "Sample Spaces and Single-stage Probability: Year 7 Maths (AC9M7P01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M7P01; NSW MA4-PRO-C-01."
+    },
+    "AC9M7P02": {
+      "topic": "Probability Experiments and Simulations",
+      "url": "https://skillrhub.com/year7/maths/ac9m7p02-conduct-repeated-chance-experiments-and-run-simulations-with-a/",
+      "title": "Year 7 Maths: Probability Experiments and Simulations | AC9M7P02",
+      "description": "Probability Experiments and Simulations: Year 7 Maths (AC9M7P02). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M7P02; NSW MA4-PRO-C-01."
+    },
+    "AC9M7SP01": {
+      "topic": "Representing 3D Objects in 2D",
+      "url": "https://skillrhub.com/year7/maths/ac9m7sp01-represent-objects-in-2-dimensions-discuss-and-reason-about-the/",
+      "title": "Year 7 Maths: Representing 3D Objects in 2D | AC9M7SP01",
+      "description": "Representing 3D Objects in 2D: Year 7 Maths (AC9M7SP01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M7SP01; NSW MA4-GEO-C-01 / MAO-WM-01."
+    },
+    "AC9M7SP02": {
+      "topic": "Classifying Polygons by Properties",
+      "url": "https://skillrhub.com/year7/maths/ac9m7sp02-classify-triangles-quadrilaterals-and-other-polygons-according/",
+      "title": "Year 7 Maths: Classifying Polygons by Properties | AC9M7SP02",
+      "description": "Classifying Polygons by Properties: Year 7 Maths (AC9M7SP02). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M7SP02; NSW MA4-GEO-C-01 / MAO-WM-01."
+    },
+    "AC9M7SP03": {
+      "topic": "Coordinate Transformations",
+      "url": "https://skillrhub.com/year7/maths/ac9m7sp03-transformations-of-a-set-of-points-using-coordinates-in-the/",
+      "title": "Year 7 Maths: Coordinate Transformations | AC9M7SP03",
+      "description": "Coordinate Transformations: Year 7 Maths (AC9M7SP03). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M7SP03; NSW MA4-LIN-C-01 / MA4-GEO-C-01."
+    },
+    "AC9M7SP04": {
+      "topic": "Spatial Algorithms and Decision Processes",
+      "url": "https://skillrhub.com/year7/maths/ac9m7sp04-design-and-create-algorithms-involving-a-sequence-of-steps-and/",
+      "title": "Year 7 Maths: Spatial Algorithms and Decision Processes | AC9M7SP04",
+      "description": "Spatial Algorithms and Decision Processes: Year 7 Maths (AC9M7SP04). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M7SP04; NSW MA4-GEO-C-01 / MAO-WM-01."
+    },
+    "AC9M7ST01": {
+      "topic": "Numerical Data and Measures of Centre",
+      "url": "https://skillrhub.com/year7/maths/ac9m7st01-acquire-data-sets-for-discrete-and-continuous-numerical/",
+      "title": "Year 7 Maths: Numerical Data and Measures of Centre | AC9M7ST01",
+      "description": "Numerical Data and Measures of Centre: Year 7 Maths (AC9M7ST01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M7ST01; NSW MA4-DAT-C-01 / MA4-DAT-C-02."
+    },
+    "AC9M7ST02": {
+      "topic": "Data Displays and Distribution Comparisons",
+      "url": "https://skillrhub.com/year7/maths/ac9m7st02-different-types-of-numerical-data-displays-including-stem-and/",
+      "title": "Year 7 Maths: Data Displays and Distribution Comparisons | AC9M7ST02",
+      "description": "Data Displays and Distribution Comparisons: Year 7 Maths (AC9M7ST02). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M7ST02; NSW MA4-DAT-C-01."
+    },
+    "AC9M7ST03": {
+      "topic": "Statistical Investigations and Sampling",
+      "url": "https://skillrhub.com/year7/maths/ac9m7st03-plan-and-conduct-statistical-investigations-involving-data-for/",
+      "title": "Year 7 Maths: Statistical Investigations and Sampling | AC9M7ST03",
+      "description": "Statistical Investigations and Sampling: Year 7 Maths (AC9M7ST03). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M7ST03; NSW MA4-DAT-C-01 / MA4-DAT-C-02."
+    },
+    "AC9S7H01": {
+      "topic": "How Evidence Changes Scientific Knowledge",
+      "url": "https://skillrhub.com/year7/science/ac9s7h01-explain-how-new-evidence-or-different-perspectives-can-lead-to/",
+      "title": "Year 7 Science: How Evidence Changes Scientific Knowledge | AC9S7H01",
+      "description": "How Evidence Changes Scientific Knowledge: Year 7 Science (AC9S7H01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S8H01; NSW SC4-DA1-01."
+    },
+    "AC9S7H02": {
+      "topic": "Culture and Scientific Knowledge",
+      "url": "https://skillrhub.com/year7/science/ac9s7h02-investigate-how-cultural-perspectives-and-world-views-influence/",
+      "title": "Year 7 Science: Culture and Scientific Knowledge | AC9S7H02",
+      "description": "Culture and Scientific Knowledge: Year 7 Science (AC9S7H02). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S8H02; NSW SC4-DA1-01."
+    },
+    "AC9S7H03": {
+      "topic": "Evaluating Scientific Responses",
+      "url": "https://skillrhub.com/year7/science/ac9s7h03-examine-how-proposed-scientific-responses-to-contemporary/",
+      "title": "Year 7 Science: Evaluating Scientific Responses | AC9S7H03",
+      "description": "Evaluating Scientific Responses: Year 7 Science (AC9S7H03). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S8H03; NSW SC4-DA1-01."
+    },
+    "AC9S7H04": {
+      "topic": "Science Communication and Policy",
+      "url": "https://skillrhub.com/year7/science/ac9s7h04-the-role-of-science-communication-in-informing-individual/",
+      "title": "Year 7 Science: Science Communication and Policy | AC9S7H04",
+      "description": "Science Communication and Policy: Year 7 Science (AC9S7H04). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S8H04; NSW SC4-DA1-01."
+    },
+    "AC9S7I01": {
+      "topic": "Questions, Predictions and Hypotheses",
+      "url": "https://skillrhub.com/year7/science/ac9s7i01-develop-investigable-questions-reasoned-predictions-and/",
+      "title": "Year 7 Science: Questions, Predictions and Hypotheses | AC9S7I01",
+      "description": "Questions, Predictions and Hypotheses: Year 7 Science (AC9S7I01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S8I01; NSW SC4-WS-02."
+    },
+    "AC9S7I02": {
+      "topic": "Planning Reproducible Investigations",
+      "url": "https://skillrhub.com/year7/science/ac9s7i02-plan-and-conduct-reproducible-investigations-to-answer/",
+      "title": "Year 7 Science: Planning Reproducible Investigations | AC9S7I02",
+      "description": "Planning Reproducible Investigations: Year 7 Science (AC9S7I02). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S8I02; NSW SC4-WS-03 / SC4-WS-04."
+    },
+    "AC9S7I03": {
+      "topic": "Equipment, Precision and Data",
+      "url": "https://skillrhub.com/year7/science/ac9s7i03-select-and-use-equipment-to-generate-and-record-data-with/",
+      "title": "Year 7 Science: Equipment, Precision and Data | AC9S7I03",
+      "description": "Equipment, Precision and Data: Year 7 Science (AC9S7I03). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S8I03; NSW SC4-WS-01 / SC4-WS-04."
+    },
+    "AC9S7I04": {
+      "topic": "Representing and Processing Data",
+      "url": "https://skillrhub.com/year7/science/ac9s7i04-select-and-construct-appropriate-representations-including/",
+      "title": "Year 7 Science: Representing and Processing Data | AC9S7I04",
+      "description": "Representing and Processing Data: Year 7 Science (AC9S7I04). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S8I04; NSW SC4-WS-05."
+    },
+    "AC9S7I05": {
+      "topic": "Patterns, Trends and Anomalies",
+      "url": "https://skillrhub.com/year7/science/ac9s7i05-analyse-data-and-information-to-describe-patterns-trends-and/",
+      "title": "Year 7 Science: Patterns, Trends and Anomalies | AC9S7I05",
+      "description": "Patterns, Trends and Anomalies: Year 7 Science (AC9S7I05). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S8I05; NSW SC4-WS-06."
+    },
+    "AC9S7I06": {
+      "topic": "Evaluating Methods and Claims",
+      "url": "https://skillrhub.com/year7/science/ac9s7i06-analyse-methods-conclusions-and-claims-for-assumptions-possible/",
+      "title": "Year 7 Science: Evaluating Methods and Claims | AC9S7I06",
+      "description": "Evaluating Methods and Claims: Year 7 Science (AC9S7I06). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S8I06; NSW SC4-WS-06."
+    },
+    "AC9S7I07": {
+      "topic": "Evidence-Based Scientific Arguments",
+      "url": "https://skillrhub.com/year7/science/ac9s7i07-construct-evidence-based-arguments-to-support-conclusions-or/",
+      "title": "Year 7 Science: Evidence-Based Scientific Arguments | AC9S7I07",
+      "description": "Evidence-Based Scientific Arguments: Year 7 Science (AC9S7I07). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S8I07; NSW SC4-DA1-01 / SC4-WS-06."
+    },
+    "AC9S7I08": {
+      "topic": "Communicating Scientific Findings",
+      "url": "https://skillrhub.com/year7/science/ac9s7i08-and-create-texts-to-communicate-ideas-findings-and-arguments-for/",
+      "title": "Year 7 Science: Communicating Scientific Findings | AC9S7I08",
+      "description": "Communicating Scientific Findings: Year 7 Science (AC9S7I08). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S8I08; NSW SC4-WS-08."
+    },
+    "AC9S7U01": {
+      "topic": "Classification and Dichotomous Keys",
+      "url": "https://skillrhub.com/year7/science/ac9s7u01-investigate-the-role-of-classification-in-ordering-and/",
+      "title": "Year 7 Science: Classification and Dichotomous Keys | AC9S7U01",
+      "description": "Classification and Dichotomous Keys: Year 7 Science (AC9S7U01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S8U01; NSW SC4-CLS-01 / SC4-LIV-01."
+    },
+    "AC9S7U02": {
+      "topic": "Food Webs, Energy and Ecosystem Change",
+      "url": "https://skillrhub.com/year7/science/ac9s7u02-models-including-food-webs-to-represent-matter-and-energy-flow/",
+      "title": "Year 7 Science: Food Webs, Energy and Ecosystem Change | AC9S7U02",
+      "description": "Food Webs, Energy and Ecosystem Change: Year 7 Science (AC9S7U02). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S8U04; NSW SC4-LIV-01."
+    },
+    "AC9S7U03": {
+      "topic": "Earth, Sun and Moon Cycles",
+      "url": "https://skillrhub.com/year7/science/ac9s7u03-model-cyclic-changes-in-the-relative-positions-of-the-earth/",
+      "title": "Year 7 Science: Earth, Sun and Moon Cycles | AC9S7U03",
+      "description": "Earth, Sun and Moon Cycles: Year 7 Science (AC9S7U03). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S8U12; NSW SC4-OTU-01."
+    },
+    "AC9S7U04": {
+      "topic": "Forces, Gravity and Simple Machines",
+      "url": "https://skillrhub.com/year7/science/ac9s7u04-investigate-and-represent-balanced-and-unbalanced-forces/",
+      "title": "Year 7 Science: Forces, Gravity and Simple Machines | AC9S7U04",
+      "description": "Forces, Gravity and Simple Machines: Year 7 Science (AC9S7U04). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S8U14; NSW SC4-FOR-01."
+    },
+    "AC9S7U05": {
+      "topic": "Particle Theory and States of Matter",
+      "url": "https://skillrhub.com/year7/science/ac9s7u05-particle-theory-to-describe-the-arrangement-of-particles-in-a/",
+      "title": "Year 7 Science: Particle Theory and States of Matter | AC9S7U05",
+      "description": "Particle Theory and States of Matter: Year 7 Science (AC9S7U05). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S8U05; NSW SC4-FOR-01."
+    },
+    "AC9S7U06": {
+      "topic": "Pure Substances, Mixtures and Separation",
+      "url": "https://skillrhub.com/year7/science/ac9s7u06-a-particle-model-to-describe-differences-between-pure/",
+      "title": "Year 7 Science: Pure Substances, Mixtures and Separation | AC9S7U06",
+      "description": "Pure Substances, Mixtures and Separation: Year 7 Science (AC9S7U06). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S8U06; NSW SC4-SOL-01."
+    },
+    "AC9E8LA01": {
+      "topic": "Language, Relationships and Roles",
+      "url": "https://skillrhub.com/year8/english/ac9e8la01-how-language-shapes-relationships-and-roles/",
+      "title": "Year 8 English: Language, Relationships and Roles | AC9E8LA01",
+      "description": "Language, Relationships and Roles: Year 8 English (AC9E8LA01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E8LA01; NSW EN4-URA-01."
+    },
+    "AC9E8LA02": {
+      "topic": "Simile, Metaphor and Evaluation",
+      "url": "https://skillrhub.com/year8/english/ac9e8la02-how-layers-of-meaning-can-be-created-when-evaluating-by/",
+      "title": "Year 8 English: Simile, Metaphor and Evaluation | AC9E8LA02",
+      "description": "Simile, Metaphor and Evaluation: Year 8 English (AC9E8LA02). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E8LA02; NSW EN4-URC-01 / EN4-URA-01."
+    },
+    "AC9E8LA03": {
+      "topic": "Text Structure and Hybrid Genres",
+      "url": "https://skillrhub.com/year8/english/ac9e8la03-explain-how-texts-are-structured-depending-on-their-purpose-and/",
+      "title": "Year 8 English: Text Structure and Hybrid Genres | AC9E8LA03",
+      "description": "Text Structure and Hybrid Genres: Year 8 English (AC9E8LA03). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E8LA03; NSW EN4-URA-01."
+    },
+    "AC9E8LA04": {
+      "topic": "Paragraph Cohesion and Supporting Evidence",
+      "url": "https://skillrhub.com/year8/english/ac9e8la04-how-cohesion-in-texts-is-improved-by-strengthening-the-internal/",
+      "title": "Year 8 English: Paragraph Cohesion and Supporting Evidence | AC9E8LA04",
+      "description": "Paragraph Cohesion and Supporting Evidence: Year 8 English (AC9E8LA04). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E8LA04; NSW EN4-URA-01."
+    },
+    "AC9E8LA05": {
+      "topic": "Clause Structures and Embedded Clauses",
+      "url": "https://skillrhub.com/year8/english/ac9e8la05-examine-a-variety-of-clause-structures-including-embedded/",
+      "title": "Year 8 English: Clause Structures and Embedded Clauses | AC9E8LA05",
+      "description": "Clause Structures and Embedded Clauses: Year 8 English (AC9E8LA05). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E8LA05; NSW EN4-URA-01."
+    },
+    "AC9E8LA06": {
+      "topic": "Nominalisation and Its Effects",
+      "url": "https://skillrhub.com/year8/english/ac9e8la06-the-effect-of-nominalisation-in-texts/",
+      "title": "Year 8 English: Nominalisation and Its Effects | AC9E8LA06",
+      "description": "Nominalisation and Its Effects: Year 8 English (AC9E8LA06). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E8LA06; NSW EN4-URA-01."
+    },
+    "AC9E8LA07": {
+      "topic": "Intertextual References in Visual Texts",
+      "url": "https://skillrhub.com/year8/english/ac9e8la07-investigate-how-visual-texts-use-intertextual-references-to/",
+      "title": "Year 8 English: Intertextual References in Visual Texts | AC9E8LA07",
+      "description": "Intertextual References in Visual Texts: Year 8 English (AC9E8LA07). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E8LA07; NSW EN4-URC-01 / EN4-URA-01."
+    },
+    "AC9E8LA08": {
+      "topic": "Academic Vocabulary",
+      "url": "https://skillrhub.com/year8/english/ac9e8la08-and-use-vocabulary-typical-of-academic-texts/",
+      "title": "Year 8 English: Academic Vocabulary | AC9E8LA08",
+      "description": "Academic Vocabulary: Year 8 English (AC9E8LA08). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E8LA08; NSW EN4-URA-01."
+    },
+    "AC9E8LA09": {
+      "topic": "Semicolons and Dashes",
+      "url": "https://skillrhub.com/year8/english/ac9e8la09-and-use-punctuation-conventions-including-semicolons-and-dashes/",
+      "title": "Year 8 English: Semicolons and Dashes | AC9E8LA09",
+      "description": "Semicolons and Dashes: Year 8 English (AC9E8LA09). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E8LA09; NSW EN4-URA-01."
+    },
+    "AC9E8LE01": {
+      "topic": "Values and Viewpoints in Literature",
+      "url": "https://skillrhub.com/year8/english/ac9e8le01-explain-the-ways-that-ideas-and-points-of-view-may/",
+      "title": "Year 8 English: Values and Viewpoints in Literature | AC9E8LE01",
+      "description": "Values and Viewpoints in Literature: Year 8 English (AC9E8LE01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E8LE01; NSW EN4-RVL-01 / EN4-URA-01."
+    },
+    "AC9E8LE02": {
+      "topic": "Discussing Literary Styles",
+      "url": "https://skillrhub.com/year8/english/ac9e8le02-share-opinions-about-the-language-features-literary-devices-and/",
+      "title": "Year 8 English: Discussing Literary Styles | AC9E8LE02",
+      "description": "Discussing Literary Styles: Year 8 English (AC9E8LE02). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E8LE02; NSW EN4-URC-01 / EN4-URA-01."
+    },
+    "AC9E8LE03": {
+      "topic": "How Texts Position Readers",
+      "url": "https://skillrhub.com/year8/english/ac9e8le03-explain-how-language-and-or-images-in-texts-position-readers-to/",
+      "title": "Year 8 English: How Texts Position Readers | AC9E8LE03",
+      "description": "How Texts Position Readers: Year 8 English (AC9E8LE03). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E8LE03; NSW EN4-RVL-01 / EN4-URA-01."
+    },
+    "AC9E8LE04": {
+      "topic": "Intertextuality and Literary Aesthetics",
+      "url": "https://skillrhub.com/year8/english/ac9e8le04-intertextual-references-in-literary-texts-and-explain-how-the/",
+      "title": "Year 8 English: Intertextuality and Literary Aesthetics | AC9E8LE04",
+      "description": "Intertextuality and Literary Aesthetics: Year 8 English (AC9E8LE04). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E8LE04; NSW EN4-URC-01 / EN4-URA-01."
+    },
+    "AC9E8LE05": {
+      "topic": "Sentence Patterns, Tone and Imagery",
+      "url": "https://skillrhub.com/year8/english/ac9e8le05-analyse-how-language-features-such-as-sentence-patterns-create/",
+      "title": "Year 8 English: Sentence Patterns, Tone and Imagery | AC9E8LE05",
+      "description": "Sentence Patterns, Tone and Imagery: Year 8 English (AC9E8LE05). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E8LE05; NSW EN4-URC-01 / EN4-URA-01."
+    },
+    "AC9E8LE06": {
+      "topic": "Creating Literary Effects",
+      "url": "https://skillrhub.com/year8/english/ac9e8le06-and-edit-literary-texts-that-experiment-with-language-features/",
+      "title": "Year 8 English: Creating Literary Effects | AC9E8LE06",
+      "description": "Creating Literary Effects: Year 8 English (AC9E8LE06). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E8LE06; NSW EN4-ECB-01 / EN4-ECA-01."
+    },
+    "AC9E8LY01": {
+      "topic": "Texts and Their Contexts",
+      "url": "https://skillrhub.com/year8/english/ac9e8ly01-how-texts-reflect-contexts/",
+      "title": "Year 8 English: Texts and Their Contexts | AC9E8LY01",
+      "description": "Texts and Their Contexts: Year 8 English (AC9E8LY01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E8LY01; NSW EN4-URB-01."
+    },
+    "AC9E8LY02": {
+      "topic": "Supporting and Challenging Spoken Ideas",
+      "url": "https://skillrhub.com/year8/english/ac9e8ly02-interaction-skills-for-identified-purposes-and-situations/",
+      "title": "Year 8 English: Supporting and Challenging Spoken Ideas | AC9E8LY02",
+      "description": "Supporting and Challenging Spoken Ideas: Year 8 English (AC9E8LY02). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E8LY02; NSW EN4-ECA-01."
+    },
+    "AC9E8LY03": {
+      "topic": "Language Choices, Sources and Quotations",
+      "url": "https://skillrhub.com/year8/english/ac9e8ly03-analyse-and-evaluate-the-ways-that-language-features-vary/",
+      "title": "Year 8 English: Language Choices, Sources and Quotations | AC9E8LY03",
+      "description": "Language Choices, Sources and Quotations: Year 8 English (AC9E8LY03). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E8LY03; NSW EN4-URA-01."
+    },
+    "AC9E8LY04": {
+      "topic": "Organising Ideas to Shape Meaning",
+      "url": "https://skillrhub.com/year8/english/ac9e8ly04-analyse-how-authors-organise-ideas-to-develop-and-shape-meaning/",
+      "title": "Year 8 English: Organising Ideas to Shape Meaning | AC9E8LY04",
+      "description": "Organising Ideas to Shape Meaning: Year 8 English (AC9E8LY04). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E8LY04; NSW EN4-URA-01."
+    },
+    "AC9E8LY05": {
+      "topic": "Interpreting and Evaluating Ideas",
+      "url": "https://skillrhub.com/year8/english/ac9e8ly05-comprehension-strategies-such-as-visualising-predicting/",
+      "title": "Year 8 English: Interpreting and Evaluating Ideas | AC9E8LY05",
+      "description": "Interpreting and Evaluating Ideas: Year 8 English (AC9E8LY05). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E8LY05; NSW EN4-RVL-01 / EN4-URA-01."
+    },
+    "AC9E8LY06": {
+      "topic": "Creating Written and Multimodal Texts",
+      "url": "https://skillrhub.com/year8/english/ac9e8ly06-plan-create-edit-and-publish-written-and-multimodal-texts/",
+      "title": "Year 8 English: Creating Written and Multimodal Texts | AC9E8LY06",
+      "description": "Creating Written and Multimodal Texts: Year 8 English (AC9E8LY06). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E8LY06; NSW EN4-ECB-01 / EN4-ECA-01."
+    },
+    "AC9E8LY07": {
+      "topic": "Spoken and Multimodal Presentations",
+      "url": "https://skillrhub.com/year8/english/ac9e8ly07-plan-create-rehearse-and-deliver-spoken-and-multimodal/",
+      "title": "Year 8 English: Spoken and Multimodal Presentations | AC9E8LY07",
+      "description": "Spoken and Multimodal Presentations: Year 8 English (AC9E8LY07). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E8LY07; NSW EN4-ECB-01 / EN4-ECA-01."
+    },
+    "AC9E8LY08": {
+      "topic": "Spelling Accurately and Learning New Words",
+      "url": "https://skillrhub.com/year8/english/ac9e8ly08-apply-learnt-knowledge-to-spell-accurately-and-to-learn-new/",
+      "title": "Year 8 English: Spelling Accurately and Learning New Words | AC9E8LY08",
+      "description": "Spelling Accurately and Learning New Words: Year 8 English (AC9E8LY08). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E8LY08; NSW EN4-URA-01."
+    },
+    "AC9M8A01": {
+      "topic": "Expanding and Factorising Linear Algebra",
+      "url": "https://skillrhub.com/year8/maths/ac9m8a01-create-expand-factorise-rearrange-and-simplify-linear/",
+      "title": "Year 8 Maths: Expanding and Factorising Linear Algebra | AC9M8A01",
+      "description": "Expanding and Factorising Linear Algebra: Year 8 Maths (AC9M8A01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M8A01; NSW MA4-ALG-C-01 / MAO-WM-01."
+    },
+    "AC9M8A02": {
+      "topic": "Linear Equations and Inequalities",
+      "url": "https://skillrhub.com/year8/maths/ac9m8a02-graph-linear-relations-on-the-cartesian-plane-using-digital/",
+      "title": "Year 8 Maths: Linear Equations and Inequalities | AC9M8A02",
+      "description": "Linear Equations and Inequalities: Year 8 Maths (AC9M8A02). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M8A02; NSW MA4-EQU-C-01 / MA4-LIN-C-01 / MAO-WM-01."
+    },
+    "AC9M8A03": {
+      "topic": "Modelling with Linear Relations",
+      "url": "https://skillrhub.com/year8/maths/ac9m8a03-mathematical-modelling-to-solve-applied-problems-involving/",
+      "title": "Year 8 Maths: Modelling with Linear Relations | AC9M8A03",
+      "description": "Modelling with Linear Relations: Year 8 Maths (AC9M8A03). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M8A03; NSW MA4-LIN-C-01 / MAO-WM-01."
+    },
+    "AC9M8A04": {
+      "topic": "Investigating Linear Functions",
+      "url": "https://skillrhub.com/year8/maths/ac9m8a04-experiment-with-linear-functions-and-relations-using-digital/",
+      "title": "Year 8 Maths: Investigating Linear Functions | AC9M8A04",
+      "description": "Investigating Linear Functions: Year 8 Maths (AC9M8A04). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M8A05; NSW MA4-LIN-C-01 / MAO-WM-01."
+    },
+    "AC9M8M01": {
+      "topic": "Area and Perimeter of Composite Shapes",
+      "url": "https://skillrhub.com/year8/maths/ac9m8m01-solve-problems-involving-the-area-and-perimeter-of-irregular-and/",
+      "title": "Year 8 Maths: Area and Perimeter of Composite Shapes | AC9M8M01",
+      "description": "Area and Perimeter of Composite Shapes: Year 8 Maths (AC9M8M01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M8M01; NSW MA4-ARE-C-01 / MA4-LEN-C-01 / MAO-WM-01."
+    },
+    "AC9M8M02": {
+      "topic": "Volume and Capacity of Right Prisms",
+      "url": "https://skillrhub.com/year8/maths/ac9m8m02-solve-problems-involving-the-volume-and-capacity-of-right-prisms/",
+      "title": "Year 8 Maths: Volume and Capacity of Right Prisms | AC9M8M02",
+      "description": "Volume and Capacity of Right Prisms: Year 8 Maths (AC9M8M02). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M8M02; NSW MA4-VOL-C-01 / MAO-WM-01."
+    },
+    "AC9M8M03": {
+      "topic": "Circumference and Area of Circles",
+      "url": "https://skillrhub.com/year8/maths/ac9m8m03-solve-problems-involving-the-circumference-and-area-of-a-circle/",
+      "title": "Year 8 Maths: Circumference and Area of Circles | AC9M8M03",
+      "description": "Circumference and Area of Circles: Year 8 Maths (AC9M8M03). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M8M03; NSW MA4-ARE-C-01 / MA4-LEN-C-01 / MAO-WM-01."
+    },
+    "AC9M8M04": {
+      "topic": "Duration, 12/24-Hour Time and Time Zones",
+      "url": "https://skillrhub.com/year8/maths/ac9m8m04-solve-problems-involving-duration-including-using-12-and-24/",
+      "title": "Year 8 Maths: Duration, 12/24-Hour Time and Time Zones | AC9M8M04",
+      "description": "Duration, 12/24-Hour Time and Time Zones: Year 8 Maths (AC9M8M04). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M8M04; NSW MA4-RAT-C-01 / MAO-WM-01."
+    },
+    "AC9M8M05": {
+      "topic": "Rates and Unit Rates",
+      "url": "https://skillrhub.com/year8/maths/ac9m8m05-and-use-rates-to-solve-problems-involving-the-comparison-of/",
+      "title": "Year 8 Maths: Rates and Unit Rates | AC9M8M05",
+      "description": "Rates and Unit Rates: Year 8 Maths (AC9M8M05). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M8M05; NSW MA4-RAT-C-01 / MAO-WM-01."
+    },
+    "AC9M8M06": {
+      "topic": "Pythagoras’ Theorem",
+      "url": "https://skillrhub.com/year8/maths/ac9m8m06-pythagoras-theorem-to-solve-problems-involving-the-side-lengths/",
+      "title": "Year 8 Maths: Pythagoras’ Theorem | AC9M8M06",
+      "description": "Pythagoras’ Theorem: Year 8 Maths (AC9M8M06). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M8M06; NSW MA4-PYT-C-01 / MAO-WM-01."
+    },
+    "AC9M8M07": {
+      "topic": "Modelling with Ratios and Rates",
+      "url": "https://skillrhub.com/year8/maths/ac9m8m07-mathematical-modelling-to-solve-practical-problems-involving/",
+      "title": "Year 8 Maths: Modelling with Ratios and Rates | AC9M8M07",
+      "description": "Modelling with Ratios and Rates: Year 8 Maths (AC9M8M07). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M8M07; NSW MA4-FRC-C-01 / MA4-RAT-C-01 / MAO-WM-01."
+    },
+    "AC9M8N01": {
+      "topic": "Irrational Numbers, Square Roots and π",
+      "url": "https://skillrhub.com/year8/maths/ac9m8n01-irrational-numbers-in-applied-contexts-including-square-roots/",
+      "title": "Year 8 Maths: Irrational Numbers, Square Roots and π | AC9M8N01",
+      "description": "Irrational Numbers, Square Roots and π: Year 8 Maths (AC9M8N01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M8N01; NSW MA4-IND-C-01 / MAO-WM-01."
+    },
+    "AC9M8N02": {
+      "topic": "Exponent Laws",
+      "url": "https://skillrhub.com/year8/maths/ac9m8n02-establish-and-apply-the-exponent-laws-with-positive-integer/",
+      "title": "Year 8 Maths: Exponent Laws | AC9M8N02",
+      "description": "Exponent Laws: Year 8 Maths (AC9M8N02). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M8N02; NSW MA4-IND-C-01 / MAO-WM-01."
+    },
+    "AC9M8N03": {
+      "topic": "Terminating and Recurring Decimals",
+      "url": "https://skillrhub.com/year8/maths/ac9m8n03-terminating-and-recurring-decimals-using-digital-tools-as/",
+      "title": "Year 8 Maths: Terminating and Recurring Decimals | AC9M8N03",
+      "description": "Terminating and Recurring Decimals: Year 8 Maths (AC9M8N03). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M8N03; NSW MA4-FRC-C-01 / MAO-WM-01."
+    },
+    "AC9M8N04": {
+      "topic": "Integer and Rational Number Operations",
+      "url": "https://skillrhub.com/year8/maths/ac9m8n04-the-4-operations-with-integers-and-with-rational-numbers/",
+      "title": "Year 8 Maths: Integer and Rational Number Operations | AC9M8N04",
+      "description": "Integer and Rational Number Operations: Year 8 Maths (AC9M8N04). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M8N04; NSW MA4-FRC-C-01 / MA4-INT-C-01 / MAO-WM-01."
+    },
+    "AC9M8N05": {
+      "topic": "Modelling Rational Numbers and Percentages",
+      "url": "https://skillrhub.com/year8/maths/ac9m8n05-mathematical-modelling-to-solve-practical-problems-involving/",
+      "title": "Year 8 Maths: Modelling Rational Numbers and Percentages | AC9M8N05",
+      "description": "Modelling Rational Numbers and Percentages: Year 8 Maths (AC9M8N05). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M8N06; NSW MA4-FRC-C-01 / MAO-WM-01."
+    },
+    "AC9M8P01": {
+      "topic": "Complementary Events and Probability",
+      "url": "https://skillrhub.com/year8/maths/ac9m8p01-that-complementary-events-have-a-combined-probability-of-one-use/",
+      "title": "Year 8 Maths: Complementary Events and Probability | AC9M8P01",
+      "description": "Complementary Events and Probability: Year 8 Maths (AC9M8P01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M8P01; NSW MA4-PRO-C-01 / MAO-WM-01."
+    },
+    "AC9M8P02": {
+      "topic": "Two Events: Tables, Trees and Venn Diagrams",
+      "url": "https://skillrhub.com/year8/maths/ac9m8p02-determine-all-possible-combinations-for-2-events-using-two-way/",
+      "title": "Year 8 Maths: Two Events: Tables, Trees and Venn Diagrams | AC9M8P02",
+      "description": "Two Events: Tables, Trees and Venn Diagrams: Year 8 Maths (AC9M8P02). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M8P02; NSW MA4-PRO-C-01 / MAO-WM-01."
+    },
+    "AC9M8P03": {
+      "topic": "Compound Events and Probability Simulation",
+      "url": "https://skillrhub.com/year8/maths/ac9m8p03-conduct-repeated-chance-experiments-and-simulations-using/",
+      "title": "Year 8 Maths: Compound Events and Probability Simulation | AC9M8P03",
+      "description": "Compound Events and Probability Simulation: Year 8 Maths (AC9M8P03). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M8P03; NSW MA4-PRO-C-01 / MAO-WM-01."
+    },
+    "AC9M8SP01": {
+      "topic": "Congruence and Similarity of Shapes",
+      "url": "https://skillrhub.com/year8/maths/ac9m8sp01-the-conditions-for-congruence-and-similarity-of-triangles-and/",
+      "title": "Year 8 Maths: Congruence and Similarity of Shapes | AC9M8SP01",
+      "description": "Congruence and Similarity of Shapes: Year 8 Maths (AC9M8SP01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M8SP01; NSW MA4-GEO-C-01 / MAO-WM-01."
+    },
+    "AC9M8SP02": {
+      "topic": "Properties of Quadrilaterals",
+      "url": "https://skillrhub.com/year8/maths/ac9m8sp02-establish-properties-of-quadrilaterals-using-congruent/",
+      "title": "Year 8 Maths: Properties of Quadrilaterals | AC9M8SP02",
+      "description": "Properties of Quadrilaterals: Year 8 Maths (AC9M8SP02). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M8SP02; NSW MA4-GEO-C-01 / MAO-WM-01."
+    },
+    "AC9M8SP03": {
+      "topic": "Position and Location in Three Dimensions",
+      "url": "https://skillrhub.com/year8/maths/ac9m8sp03-the-position-and-location-of-objects-in-3-dimensions-in/",
+      "title": "Year 8 Maths: Position and Location in Three Dimensions | AC9M8SP03",
+      "description": "Position and Location in Three Dimensions: Year 8 Maths (AC9M8SP03). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M8SP03; NSW MAO-WM-01."
+    },
+    "AC9M8SP04": {
+      "topic": "Algorithms for Congruence and Similarity",
+      "url": "https://skillrhub.com/year8/maths/ac9m8sp04-design-create-and-test-algorithms-involving-a-sequence-of-steps/",
+      "title": "Year 8 Maths: Algorithms for Congruence and Similarity | AC9M8SP04",
+      "description": "Algorithms for Congruence and Similarity: Year 8 Maths (AC9M8SP04). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M8SP04; NSW MA4-GEO-C-01 / MAO-WM-01."
+    },
+    "AC9M8ST01": {
+      "topic": "Data Collection Techniques",
+      "url": "https://skillrhub.com/year8/maths/ac9m8st01-investigate-techniques-for-data-collection-including-census/",
+      "title": "Year 8 Maths: Data Collection Techniques | AC9M8ST01",
+      "description": "Data Collection Techniques: Year 8 Maths (AC9M8ST01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M8ST01; NSW MA4-DAT-C-01 / MA4-DAT-C-02 / MAO-WM-01."
+    },
+    "AC9M8ST02": {
+      "topic": "Sampling Methods and Data Distributions",
+      "url": "https://skillrhub.com/year8/maths/ac9m8st02-analyse-and-report-on-the-distribution-of-data-from-primary/",
+      "title": "Year 8 Maths: Sampling Methods and Data Distributions | AC9M8ST02",
+      "description": "Sampling Methods and Data Distributions: Year 8 Maths (AC9M8ST02). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M8ST02; NSW MA4-DAT-C-01 / MA4-DAT-C-02 / MAO-WM-01."
+    },
+    "AC9M8ST03": {
+      "topic": "Sampling Variation and Sample Size",
+      "url": "https://skillrhub.com/year8/maths/ac9m8st03-variations-in-distributions-and-proportions-obtained-from/",
+      "title": "Year 8 Maths: Sampling Variation and Sample Size | AC9M8ST03",
+      "description": "Sampling Variation and Sample Size: Year 8 Maths (AC9M8ST03). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M8ST03; NSW MA4-DAT-C-02 / MAO-WM-01."
+    },
+    "AC9M8ST04": {
+      "topic": "Statistical Investigations and Inference",
+      "url": "https://skillrhub.com/year8/maths/ac9m8st04-plan-and-conduct-statistical-investigations-involving-samples/",
+      "title": "Year 8 Maths: Statistical Investigations and Inference | AC9M8ST04",
+      "description": "Statistical Investigations and Inference: Year 8 Maths (AC9M8ST04). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M8ST04; NSW MA4-DAT-C-01 / MA4-DAT-C-02 / MAO-WM-01."
+    },
+    "AC9S8H01": {
+      "topic": "How Evidence Changes Scientific Knowledge",
+      "url": "https://skillrhub.com/year8/science/ac9s8h01-explain-how-new-evidence-or-different-perspectives-can-lead-to/",
+      "title": "Year 8 Science: How Evidence Changes Scientific Knowledge | AC9S8H01",
+      "description": "How Evidence Changes Scientific Knowledge: Year 8 Science (AC9S8H01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S8H01; NSW SC4-DA1-01 / SC4-WS-06."
+    },
+    "AC9S8H02": {
+      "topic": "Culture and Scientific Knowledge",
+      "url": "https://skillrhub.com/year8/science/ac9s8h02-investigate-how-cultural-perspectives-and-world-views-influence/",
+      "title": "Year 8 Science: Culture and Scientific Knowledge | AC9S8H02",
+      "description": "Culture and Scientific Knowledge: Year 8 Science (AC9S8H02). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S8H02; NSW SC4-DA1-01 / SC4-WS-08."
+    },
+    "AC9S8H03": {
+      "topic": "Evaluating Scientific Responses",
+      "url": "https://skillrhub.com/year8/science/ac9s8h03-examine-how-proposed-scientific-responses-to-contemporary/",
+      "title": "Year 8 Science: Evaluating Scientific Responses | AC9S8H03",
+      "description": "Evaluating Scientific Responses: Year 8 Science (AC9S8H03). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S8H03; NSW SC4-WS-07 / SC4-WS-08."
+    },
+    "AC9S8H04": {
+      "topic": "Science Communication and Policy",
+      "url": "https://skillrhub.com/year8/science/ac9s8h04-the-role-of-science-communication-in-informing-individual/",
+      "title": "Year 8 Science: Science Communication and Policy | AC9S8H04",
+      "description": "Science Communication and Policy: Year 8 Science (AC9S8H04). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S8H04; NSW SC4-WS-08."
+    },
+    "AC9S8I01": {
+      "topic": "Questions, Predictions and Hypotheses",
+      "url": "https://skillrhub.com/year8/science/ac9s8i01-investigable-questions-predictions-hypotheses/",
+      "title": "Year 8 Science: Questions, Predictions and Hypotheses | AC9S8I01",
+      "description": "Questions, Predictions and Hypotheses: Year 8 Science (AC9S8I01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S8I01; NSW SC4-WS-02."
+    },
+    "AC9S8I02": {
+      "topic": "Planning Reproducible Investigations",
+      "url": "https://skillrhub.com/year8/science/ac9s8i02-plan-and-conduct-reproducible-investigations-to-answer/",
+      "title": "Year 8 Science: Planning Reproducible Investigations | AC9S8I02",
+      "description": "Planning Reproducible Investigations: Year 8 Science (AC9S8I02). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S8I02; NSW SC4-WS-03 / SC4-WS-04."
+    },
+    "AC9S8I03": {
+      "topic": "Equipment, Precision and Data",
+      "url": "https://skillrhub.com/year8/science/ac9s8i03-select-and-use-equipment-to-generate-and-record-data-with/",
+      "title": "Year 8 Science: Equipment, Precision and Data | AC9S8I03",
+      "description": "Equipment, Precision and Data: Year 8 Science (AC9S8I03). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S8I03; NSW SC4-WS-01 / SC4-WS-04 / SC4-WS-05."
+    },
+    "AC9S8I04": {
+      "topic": "Representing and Processing Data",
+      "url": "https://skillrhub.com/year8/science/ac9s8i04-select-and-construct-appropriate-representations-including/",
+      "title": "Year 8 Science: Representing and Processing Data | AC9S8I04",
+      "description": "Representing and Processing Data: Year 8 Science (AC9S8I04). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S8I04; NSW SC4-WS-05."
+    },
+    "AC9S8I05": {
+      "topic": "Patterns, Trends and Anomalies",
+      "url": "https://skillrhub.com/year8/science/ac9s8i05-analyse-data-and-information-to-describe-patterns-trends-and/",
+      "title": "Year 8 Science: Patterns, Trends and Anomalies | AC9S8I05",
+      "description": "Patterns, Trends and Anomalies: Year 8 Science (AC9S8I05). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S8I05; NSW SC4-WS-06."
+    },
+    "AC9S8I06": {
+      "topic": "Evaluating Methods and Claims",
+      "url": "https://skillrhub.com/year8/science/ac9s8i06-analyse-methods-conclusions-and-claims-for-assumptions-possible/",
+      "title": "Year 8 Science: Evaluating Methods and Claims | AC9S8I06",
+      "description": "Evaluating Methods and Claims: Year 8 Science (AC9S8I06). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S8I06; NSW SC4-DA1-01 / SC4-WS-06."
+    },
+    "AC9S8I07": {
+      "topic": "Evidence-Based Scientific Arguments",
+      "url": "https://skillrhub.com/year8/science/ac9s8i07-construct-evidence-based-arguments-to-support-conclusions-or/",
+      "title": "Year 8 Science: Evidence-Based Scientific Arguments | AC9S8I07",
+      "description": "Evidence-Based Scientific Arguments: Year 8 Science (AC9S8I07). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S8I07; NSW SC4-DA1-01 / SC4-WS-08."
+    },
+    "AC9S8I08": {
+      "topic": "Communicating Scientific Findings",
+      "url": "https://skillrhub.com/year8/science/ac9s8i08-and-create-texts-to-communicate-ideas-findings-and-arguments-for/",
+      "title": "Year 8 Science: Communicating Scientific Findings | AC9S8I08",
+      "description": "Communicating Scientific Findings: Year 8 Science (AC9S8I08). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S8I08; NSW SC4-WS-08."
+    },
+    "AC9S8U01": {
+      "topic": "Plant and Animal Cell Structure",
+      "url": "https://skillrhub.com/year8/science/ac9s8u01-cells-as-the-basic-units-of-living-things-compare-plant/",
+      "title": "Year 8 Science: Plant and Animal Cell Structure | AC9S8U01",
+      "description": "Plant and Animal Cell Structure: Year 8 Science (AC9S8U01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S8U02; NSW SC4-CLS-01 / SC4-LIV-01."
+    },
+    "AC9S8U02": {
+      "topic": "Cells, Tissues, Organs and Systems",
+      "url": "https://skillrhub.com/year8/science/ac9s8u02-analyse-the-relationship-between-structure-and-function-of/",
+      "title": "Year 8 Science: Cells, Tissues, Organs and Systems | AC9S8U02",
+      "description": "Cells, Tissues, Organs and Systems: Year 8 Science (AC9S8U02). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S8U03; NSW SC4-LIV-01."
+    },
+    "AC9S8U03": {
+      "topic": "Plate Tectonics and Plate Boundaries",
+      "url": "https://skillrhub.com/year8/science/ac9s8u03-investigate-tectonic-activity-including-the-formation-of/",
+      "title": "Year 8 Science: Plate Tectonics and Plate Boundaries | AC9S8U03",
+      "description": "Plate Tectonics and Plate Boundaries: Year 8 Science (AC9S8U03). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S8U10; NSW SC4-CHG-01."
+    },
+    "AC9S8U04": {
+      "topic": "Rock Cycle, Properties and Uses",
+      "url": "https://skillrhub.com/year8/science/ac9s8u04-the-key-processes-of-the-rock-cycle-including-the-timescales/",
+      "title": "Year 8 Science: Rock Cycle, Properties and Uses | AC9S8U04",
+      "description": "Rock Cycle, Properties and Uses: Year 8 Science (AC9S8U04). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S8U11; NSW SC4-CHG-01."
+    },
+    "AC9S8U05": {
+      "topic": "Energy Transfers and Transformations",
+      "url": "https://skillrhub.com/year8/science/ac9s8u05-classify-different-types-of-energy-as-kinetic-or-potential-and/",
+      "title": "Year 8 Science: Energy Transfers and Transformations | AC9S8U05",
+      "description": "Energy Transfers and Transformations: Year 8 Science (AC9S8U05). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S8U15; NSW SC4-CHG-01 / SC4-FOR-01."
+    },
+    "AC9S8U06": {
+      "topic": "Elements, Compounds and Mixtures",
+      "url": "https://skillrhub.com/year8/science/ac9s8u06-classify-matter-as-elements-compounds-or-mixtures-and-compare/",
+      "title": "Year 8 Science: Elements, Compounds and Mixtures | AC9S8U06",
+      "description": "Elements, Compounds and Mixtures: Year 8 Science (AC9S8U06). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S8U07; NSW SC4-PRT-01 / SC4-SOL-01."
+    },
+    "AC9S8U07": {
+      "topic": "Physical and Chemical Changes",
+      "url": "https://skillrhub.com/year8/science/ac9s8u07-physical-and-chemical-changes-and-identify-indicators-of-energy/",
+      "title": "Year 8 Science: Physical and Chemical Changes | AC9S8U07",
+      "description": "Physical and Chemical Changes: Year 8 Science (AC9S8U07). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S8U08; NSW SC4-CHG-01."
+    },
+    "AC9E9LA01": {
+      "topic": "Language, Power and Relationships",
+      "url": "https://skillrhub.com/year9/english/ac9e9la01-how-language-empowers-relationships-and-roles/",
+      "title": "Year 9 English: Language, Power and Relationships | AC9E9LA01",
+      "description": "Language, Power and Relationships: Year 9 English (AC9E9LA01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E9LA01; NSW EN5-URA-01."
+    },
+    "AC9E9LA02": {
+      "topic": "Direct and Indirect Evaluation",
+      "url": "https://skillrhub.com/year9/english/ac9e9la02-how-evaluation-can-be-expressed-directly-and-indirectly-using/",
+      "title": "Year 9 English: Direct and Indirect Evaluation | AC9E9LA02",
+      "description": "Direct and Indirect Evaluation: Year 9 English (AC9E9LA02). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E9LA02; NSW EN5-URA-01."
+    },
+    "AC9E9LA03": {
+      "topic": "Adapting and Subverting Text Structures",
+      "url": "https://skillrhub.com/year9/english/ac9e9la03-examine-how-authors-adapt-and-subvert-text-structures-and/",
+      "title": "Year 9 English: Adapting and Subverting Text Structures | AC9E9LA03",
+      "description": "Adapting and Subverting Text Structures: Year 9 English (AC9E9LA03). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E9LA03; NSW EN5-URA-01."
+    },
+    "AC9E9LA04": {
+      "topic": "Cohesion, Connectives and Nominalisation",
+      "url": "https://skillrhub.com/year9/english/ac9e9la04-investigate-a-range-of-cohesive-devices-that-condense/",
+      "title": "Year 9 English: Cohesion, Connectives and Nominalisation | AC9E9LA04",
+      "description": "Cohesion, Connectives and Nominalisation: Year 9 English (AC9E9LA04). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E9LA04; NSW EN5-URA-01."
+    },
+    "AC9E9LA05": {
+      "topic": "Creative Sentence Structures and Effects",
+      "url": "https://skillrhub.com/year9/english/ac9e9la05-how-authors-vary-sentence-structures-creatively-for-effects/",
+      "title": "Year 9 English: Creative Sentence Structures and Effects | AC9E9LA05",
+      "description": "Creative Sentence Structures and Effects: Year 9 English (AC9E9LA05). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E9LA05; NSW EN5-URA-01."
+    },
+    "AC9E9LA06": {
+      "topic": "Abstract Nouns and Nominalisation",
+      "url": "https://skillrhub.com/year9/english/ac9e9la06-how-abstract-nouns-and-nominalisation-can-be-used-to-summarise/",
+      "title": "Year 9 English: Abstract Nouns and Nominalisation | AC9E9LA06",
+      "description": "Abstract Nouns and Nominalisation: Year 9 English (AC9E9LA06). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E9LA06; NSW EN5-URA-01."
+    },
+    "AC9E9LA07": {
+      "topic": "Symbols in Still and Moving Images",
+      "url": "https://skillrhub.com/year9/english/ac9e9la07-analyse-how-symbols-in-still-and-moving-images-augment-meaning/",
+      "title": "Year 9 English: Symbols in Still and Moving Images | AC9E9LA07",
+      "description": "Symbols in Still and Moving Images: Year 9 English (AC9E9LA07). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E9LA07; NSW EN5-URA-01."
+    },
+    "AC9E9LA08": {
+      "topic": "Vocabulary, Style, Mood and Tone",
+      "url": "https://skillrhub.com/year9/english/ac9e9la08-analyse-how-vocabulary-choices-contribute-to-style-mood-and-tone/",
+      "title": "Year 9 English: Vocabulary, Style, Mood and Tone | AC9E9LA08",
+      "description": "Vocabulary, Style, Mood and Tone: Year 9 English (AC9E9LA08). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E9LA08; NSW EN5-URA-01."
+    },
+    "AC9E9LA09": {
+      "topic": "Punctuation for Referencing and Citation",
+      "url": "https://skillrhub.com/year9/english/ac9e9la09-punctuation-conventions-for-referencing-and-citing-others-for/",
+      "title": "Year 9 English: Punctuation for Referencing and Citation | AC9E9LA09",
+      "description": "Punctuation for Referencing and Citation: Year 9 English (AC9E9LA09). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E9LA09; NSW EN5-URA-01."
+    },
+    "AC9E9LE01": {
+      "topic": "Representing People and Places",
+      "url": "https://skillrhub.com/year9/english/ac9e9le01-analyse-the-representations-of-people-and-places-in-literary/",
+      "title": "Year 9 English: Representing People and Places | AC9E9LE01",
+      "description": "Representing People and Places: Year 9 English (AC9E9LE01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E9LE01; NSW EN5-URB-01."
+    },
+    "AC9E9LE02": {
+      "topic": "Personal Responses and Literary Analysis",
+      "url": "https://skillrhub.com/year9/english/ac9e9le02-present-a-personal-response-to-a-literary-text-comparing-initial/",
+      "title": "Year 9 English: Personal Responses and Literary Analysis | AC9E9LE02",
+      "description": "Personal Responses and Literary Analysis: Year 9 English (AC9E9LE02). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E9LE02; NSW EN5-URC-01 / EN5-URA-01."
+    },
+    "AC9E9LE03": {
+      "topic": "Literary Features and Reader Preferences",
+      "url": "https://skillrhub.com/year9/english/ac9e9le03-analyse-how-features-of-literary-texts-influence-readers/",
+      "title": "Year 9 English: Literary Features and Reader Preferences | AC9E9LE03",
+      "description": "Literary Features and Reader Preferences: Year 9 English (AC9E9LE03). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E9LE03; NSW EN5-RVL-01 / EN5-URA-01."
+    },
+    "AC9E9LE04": {
+      "topic": "Literary Style and Aesthetic Appeal",
+      "url": "https://skillrhub.com/year9/english/ac9e9le04-analyse-texts-and-evaluate-the-aesthetic-qualities-and-appeal-of/",
+      "title": "Year 9 English: Literary Style and Aesthetic Appeal | AC9E9LE04",
+      "description": "Literary Style and Aesthetic Appeal: Year 9 English (AC9E9LE04). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E9LE04; NSW EN5-URC-01 / EN5-URA-01."
+    },
+    "AC9E9LE05": {
+      "topic": "Literary Devices and Their Effects",
+      "url": "https://skillrhub.com/year9/english/ac9e9le05-analyse-the-effect-of-text-structures-language-features-and/",
+      "title": "Year 9 English: Literary Devices and Their Effects | AC9E9LE05",
+      "description": "Literary Devices and Their Effects: Year 9 English (AC9E9LE05). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E9LE05; NSW EN5-URC-01 / EN5-URA-01."
+    },
+    "AC9E9LE06": {
+      "topic": "Creating Experimental Literary Texts",
+      "url": "https://skillrhub.com/year9/english/ac9e9le06-and-edit-literary-texts-that-may-be-a-hybrid-that/",
+      "title": "Year 9 English: Creating Experimental Literary Texts | AC9E9LE06",
+      "description": "Creating Experimental Literary Texts: Year 9 English (AC9E9LE06). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E9LE06; NSW EN5-ECB-01 / EN5-ECA-01."
+    },
+    "AC9E9LY01": {
+      "topic": "Representation and Context in Texts",
+      "url": "https://skillrhub.com/year9/english/ac9e9ly01-analyse-how-representations-of-people-places-events-and/",
+      "title": "Year 9 English: Representation and Context in Texts | AC9E9LY01",
+      "description": "Representation and Context in Texts: Year 9 English (AC9E9LY01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E9LY01; NSW EN5-URB-01."
+    },
+    "AC9E9LY02": {
+      "topic": "Spoken Texts and Audience Positioning",
+      "url": "https://skillrhub.com/year9/english/ac9e9ly02-listen-to-spoken-texts-that-have-different-purposes-and/",
+      "title": "Year 9 English: Spoken Texts and Audience Positioning | AC9E9LY02",
+      "description": "Spoken Texts and Audience Positioning: Year 9 English (AC9E9LY02). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E9LY02; NSW EN5-ECA-01."
+    },
+    "AC9E9LY03": {
+      "topic": "Representing Perspectives through Language",
+      "url": "https://skillrhub.com/year9/english/ac9e9ly03-analyse-and-evaluate-how-language-features-are-used-to-represent/",
+      "title": "Year 9 English: Representing Perspectives through Language | AC9E9LY03",
+      "description": "Representing Perspectives through Language: Year 9 English (AC9E9LY03). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E9LY03; NSW EN5-URB-01."
+    },
+    "AC9E9LY04": {
+      "topic": "Organising Ideas and Shaping Meaning",
+      "url": "https://skillrhub.com/year9/english/ac9e9ly04-analyse-the-organisation-of-ideas-in-paragraphs-and-extended/",
+      "title": "Year 9 English: Organising Ideas and Shaping Meaning | AC9E9LY04",
+      "description": "Organising Ideas and Shaping Meaning: Year 9 English (AC9E9LY04). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E9LY04; NSW EN5-URA-01."
+    },
+    "AC9E9LY05": {
+      "topic": "Comparing Ideas and Opinions in Texts",
+      "url": "https://skillrhub.com/year9/english/ac9e9ly05-comprehension-strategies-such-as-visualising-predicting/",
+      "title": "Year 9 English: Comparing Ideas and Opinions in Texts | AC9E9LY05",
+      "description": "Comparing Ideas and Opinions in Texts: Year 9 English (AC9E9LY05). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E9LY05; NSW EN5-RVL-01 / EN5-URA-01."
+    },
+    "AC9E9LY06": {
+      "topic": "Creating Written and Multimodal Texts",
+      "url": "https://skillrhub.com/year9/english/ac9e9ly06-plan-create-edit-and-publish-written-and-multimodal-texts/",
+      "title": "Year 9 English: Creating Written and Multimodal Texts | AC9E9LY06",
+      "description": "Creating Written and Multimodal Texts: Year 9 English (AC9E9LY06). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E9LY06; NSW EN5-ECB-01 / EN5-ECA-01."
+    },
+    "AC9E9LY07": {
+      "topic": "Spoken and Multimodal Presentations",
+      "url": "https://skillrhub.com/year9/english/ac9e9ly07-plan-create-rehearse-and-deliver-spoken-and-multimodal/",
+      "title": "Year 9 English: Spoken and Multimodal Presentations | AC9E9LY07",
+      "description": "Spoken and Multimodal Presentations: Year 9 English (AC9E9LY07). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E9LY07; NSW EN5-ECB-01 / EN5-ECA-01."
+    },
+    "AC9E9LY08": {
+      "topic": "Spelling for Character, Humour and Voice",
+      "url": "https://skillrhub.com/year9/english/ac9e9ly08-how-spelling-is-used-in-texts-for-particular-effects-for/",
+      "title": "Year 9 English: Spelling for Character, Humour and Voice | AC9E9LY08",
+      "description": "Spelling for Character, Humour and Voice: Year 9 English (AC9E9LY08). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E9LY08; NSW EN5-URB-01."
+    },
+    "AC9M9A01": {
+      "topic": "Exponent Laws with Integer Exponents",
+      "url": "https://skillrhub.com/year9/maths/ac9m9a01-apply-the-exponent-laws-to-numerical-expressions-with-integer/",
+      "title": "Year 9 Maths: Exponent Laws with Integer Exponents | AC9M9A01",
+      "description": "Exponent Laws with Integer Exponents: Year 9 Maths (AC9M9A01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M9A01; NSW MA5-IND-C-01 / MA5-IND-P-01."
+    },
+    "AC9M9A02": {
+      "topic": "Binomial Expansion and Factorisation",
+      "url": "https://skillrhub.com/year9/maths/ac9m9a02-simplify-algebraic-expressions-expand-binomial-products-and/",
+      "title": "Year 9 Maths: Binomial Expansion and Factorisation | AC9M9A02",
+      "description": "Binomial Expansion and Factorisation: Year 9 Maths (AC9M9A02). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M9A02; NSW MA5-ALG-C-01 / MA5-ALG-P-01."
+    },
+    "AC9M9A03": {
+      "topic": "Gradient, Midpoint and Distance",
+      "url": "https://skillrhub.com/year9/maths/ac9m9a03-find-the-gradient-of-a-line-segment-the-midpoint-of/",
+      "title": "Year 9 Maths: Gradient, Midpoint and Distance | AC9M9A03",
+      "description": "Gradient, Midpoint and Distance: Year 9 Maths (AC9M9A03). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M9A03 / VC2M9A04; NSW MA5-LIN-C-01 / MA5-LIN-C-02."
+    },
+    "AC9M9A04": {
+      "topic": "Quadratic Functions, Graphs and Equations",
+      "url": "https://skillrhub.com/year9/maths/ac9m9a04-and-graph-quadratic-functions-solve-quadratic-equations/",
+      "title": "Year 9 Maths: Quadratic Functions, Graphs and Equations | AC9M9A04",
+      "description": "Quadratic Functions, Graphs and Equations: Year 9 Maths (AC9M9A04). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M9A05; NSW MA5-EQU-P-02 / MA5-NLI-C-01."
+    },
+    "AC9M9A05": {
+      "topic": "Linear and Quadratic Modelling",
+      "url": "https://skillrhub.com/year9/maths/ac9m9a05-mathematical-modelling-to-solve-applied-problems-involving/",
+      "title": "Year 9 Maths: Linear and Quadratic Modelling | AC9M9A05",
+      "description": "Linear and Quadratic Modelling: Year 9 Maths (AC9M9A05). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M9A06; NSW MA5-NLI-C-01 / MA5-NLI-C-02."
+    },
+    "AC9M9A06": {
+      "topic": "Parameters and Graph Transformations",
+      "url": "https://skillrhub.com/year9/maths/ac9m9a06-experiment-with-the-effects-of-the-variation-of-parameters-on/",
+      "title": "Year 9 Maths: Parameters and Graph Transformations | AC9M9A06",
+      "description": "Parameters and Graph Transformations: Year 9 Maths (AC9M9A06). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M9A07; NSW MA5-FNC-P-01 / MA5-NLI-P-01."
+    },
+    "AC9M9M01": {
+      "topic": "Surface Area and Volume: Prisms, Cylinders",
+      "url": "https://skillrhub.com/year9/maths/ac9m9m01-solve-problems-involving-the-volume-and-surface-area-of-right/",
+      "title": "Year 9 Maths: Surface Area and Volume: Prisms, Cylinders | AC9M9M01",
+      "description": "Surface Area and Volume: Prisms, Cylinders: Year 9 Maths (AC9M9M01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M9M01; NSW MA5-VOL-C-01 / MA5-ARE-C-01."
+    },
+    "AC9M9M02": {
+      "topic": "Scientific Notation and Measurements",
+      "url": "https://skillrhub.com/year9/maths/ac9m9m02-solve-problems-involving-very-small-and-very-large-measurements/",
+      "title": "Year 9 Maths: Scientific Notation and Measurements | AC9M9M02",
+      "description": "Scientific Notation and Measurements: Year 9 Maths (AC9M9M02). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M9M02; NSW MA5-MAG-C-01."
+    },
+    "AC9M9M03": {
+      "topic": "Similarity, Pythagoras and Trigonometry",
+      "url": "https://skillrhub.com/year9/maths/ac9m9m03-solve-spatial-problems-applying-angle-properties-scale/",
+      "title": "Year 9 Maths: Similarity, Pythagoras and Trigonometry | AC9M9M03",
+      "description": "Similarity, Pythagoras and Trigonometry: Year 9 Maths (AC9M9M03). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M9M03; NSW MA5-TRG-C-01 / MA5-TRG-C-02."
+    },
+    "AC9M9M04": {
+      "topic": "Absolute and Relative Measurement Error",
+      "url": "https://skillrhub.com/year9/maths/ac9m9m04-calculate-and-interpret-absolute-relative-and-percentage-errors/",
+      "title": "Year 9 Maths: Absolute and Relative Measurement Error | AC9M9M04",
+      "description": "Absolute and Relative Measurement Error: Year 9 Maths (AC9M9M04). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M9M04; NSW MA5-MAG-C-01."
+    },
+    "AC9M9M05": {
+      "topic": "Direct Proportion, Rates and Scale",
+      "url": "https://skillrhub.com/year9/maths/ac9m9m05-mathematical-modelling-to-solve-practical-problems-involving/",
+      "title": "Year 9 Maths: Direct Proportion, Rates and Scale | AC9M9M05",
+      "description": "Direct Proportion, Rates and Scale: Year 9 Maths (AC9M9M05). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M9M05; NSW MA5-RAT-P-01 / MA5-GEO-C-01."
+    },
+    "AC9M9N01": {
+      "topic": "Rational, Irrational and Real Numbers",
+      "url": "https://skillrhub.com/year9/maths/ac9m9n01-that-the-real-number-system-includes-the-rational-numbers-and/",
+      "title": "Year 9 Maths: Rational, Irrational and Real Numbers | AC9M9N01",
+      "description": "Rational, Irrational and Real Numbers: Year 9 Maths (AC9M9N01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M9N01; NSW MA5-IND-P-02 / MA5-MAG-C-01."
+    },
+    "AC9M9P01": {
+      "topic": "Two-Step Events and Sample Spaces",
+      "url": "https://skillrhub.com/year9/maths/ac9m9p01-list-all-outcomes-for-compound-events-both-with-and-without/",
+      "title": "Year 9 Maths: Two-Step Events and Sample Spaces | AC9M9P01",
+      "description": "Two-Step Events and Sample Spaces: Year 9 Maths (AC9M9P01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M9P01; NSW MA5-PRO-C-01."
+    },
+    "AC9M9P02": {
+      "topic": "Relative Frequency and AND/OR Events",
+      "url": "https://skillrhub.com/year9/maths/ac9m9p02-calculate-relative-frequencies-from-given-or-collected-data-to/",
+      "title": "Year 9 Maths: Relative Frequency and AND/OR Events | AC9M9P02",
+      "description": "Relative Frequency and AND/OR Events: Year 9 Maths (AC9M9P02). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M9P02; NSW MA5-PRO-C-01."
+    },
+    "AC9M9P03": {
+      "topic": "Probability Experiments and Simulations",
+      "url": "https://skillrhub.com/year9/maths/ac9m9p03-design-and-conduct-repeated-chance-experiments-and-simulations/",
+      "title": "Year 9 Maths: Probability Experiments and Simulations | AC9M9P03",
+      "description": "Probability Experiments and Simulations: Year 9 Maths (AC9M9P03). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M9P03; NSW MA5-PRO-C-01."
+    },
+    "AC9M9SP01": {
+      "topic": "Sine, Cosine and Tangent Ratios",
+      "url": "https://skillrhub.com/year9/maths/ac9m9sp01-the-constancy-of-the-sine-cosine-and-tangent-ratios-for/",
+      "title": "Year 9 Maths: Sine, Cosine and Tangent Ratios | AC9M9SP01",
+      "description": "Sine, Cosine and Tangent Ratios: Year 9 Maths (AC9M9SP01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M9SP01; NSW MA5-TRG-C-01."
+    },
+    "AC9M9SP02": {
+      "topic": "Enlargement, Similarity, Ratio and Scale",
+      "url": "https://skillrhub.com/year9/maths/ac9m9sp02-apply-the-enlargement-transformation-to-shapes-and-objects/",
+      "title": "Year 9 Maths: Enlargement, Similarity, Ratio and Scale | AC9M9SP02",
+      "description": "Enlargement, Similarity, Ratio and Scale: Year 9 Maths (AC9M9SP02). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M9SP02; NSW MA5-GEO-P-02 / MAO-WM-01."
+    },
+    "AC9M9SP03": {
+      "topic": "Geometric Algorithms and Constructions",
+      "url": "https://skillrhub.com/year9/maths/ac9m9sp03-design-test-and-refine-algorithms-involving-a-sequence-of-steps/",
+      "title": "Year 9 Maths: Geometric Algorithms and Constructions | AC9M9SP03",
+      "description": "Geometric Algorithms and Constructions: Year 9 Maths (AC9M9SP03). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M9SP03; NSW MA5-GEO-P-02 / MAO-WM-01."
+    },
+    "AC9M9ST01": {
+      "topic": "Survey Reports and Population Estimates",
+      "url": "https://skillrhub.com/year9/maths/ac9m9st01-analyse-reports-of-surveys-in-digital-media-and-elsewhere-for/",
+      "title": "Year 9 Maths: Survey Reports and Population Estimates | AC9M9ST01",
+      "description": "Survey Reports and Population Estimates: Year 9 Maths (AC9M9ST01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M9ST01; NSW MA5-DAT-P-01."
+    },
+    "AC9M9ST02": {
+      "topic": "Sampling Variation and Misleading Displays",
+      "url": "https://skillrhub.com/year9/maths/ac9m9st02-analyse-how-different-sampling-methods-can-affect-the-results-of/",
+      "title": "Year 9 Maths: Sampling Variation and Misleading Displays | AC9M9ST02",
+      "description": "Sampling Variation and Misleading Displays: Year 9 Maths (AC9M9ST02). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M9ST02; NSW MA5-DAT-P-01."
+    },
+    "AC9M9ST03": {
+      "topic": "Comparing Numerical Data Distributions",
+      "url": "https://skillrhub.com/year9/maths/ac9m9st03-represent-the-distribution-of-multiple-data-sets-for-numerical/",
+      "title": "Year 9 Maths: Comparing Numerical Data Distributions | AC9M9ST03",
+      "description": "Comparing Numerical Data Distributions: Year 9 Maths (AC9M9ST03). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M9ST03; NSW MA5-DAT-C-01."
+    },
+    "AC9M9ST04": {
+      "topic": "Choosing and Interpreting Data Displays",
+      "url": "https://skillrhub.com/year9/maths/ac9m9st04-choose-appropriate-forms-of-display-or-visualisation-for-a-given/",
+      "title": "Year 9 Maths: Choosing and Interpreting Data Displays | AC9M9ST04",
+      "description": "Choosing and Interpreting Data Displays: Year 9 Maths (AC9M9ST04). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M9ST04; NSW MA5-DAT-C-01."
+    },
+    "AC9M9ST05": {
+      "topic": "Planning Statistical Investigations",
+      "url": "https://skillrhub.com/year9/maths/ac9m9st05-plan-and-conduct-statistical-investigations-involving-the/",
+      "title": "Year 9 Maths: Planning Statistical Investigations | AC9M9ST05",
+      "description": "Planning Statistical Investigations: Year 9 Maths (AC9M9ST05). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M9ST05; NSW MA5-DAT-P-01."
+    },
+    "AC9S9H01": {
+      "topic": "Scientific Validation and Peer Review",
+      "url": "https://skillrhub.com/year9/science/ac9s9h01-scientific-validation-peer-review-evidence/",
+      "title": "Year 9 Science: Scientific Validation and Peer Review | AC9S9H01",
+      "description": "Scientific Validation and Peer Review: Year 9 Science (AC9S9H01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S10H01; NSW SC5-DA2-01."
+    },
+    "AC9S9H02": {
+      "topic": "Science and Technology Advances",
+      "url": "https://skillrhub.com/year9/science/ac9s9h02-technology-enables-scientific-advances/",
+      "title": "Year 9 Science: Science and Technology Advances | AC9S9H02",
+      "description": "Science and Technology Advances: Year 9 Science (AC9S9H02). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S10H02; NSW SC5-DA2-01."
+    },
+    "AC9S9H03": {
+      "topic": "Science Adoption and Social Factors",
+      "url": "https://skillrhub.com/year9/science/ac9s9h03-science-adoption-evidence-trust-values/",
+      "title": "Year 9 Science: Science Adoption and Social Factors | AC9S9H03",
+      "description": "Science Adoption and Social Factors: Year 9 Science (AC9S9H03). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S10H03; NSW SC5-DA2-01."
+    },
+    "AC9S9H04": {
+      "topic": "Society and Research Priorities",
+      "url": "https://skillrhub.com/year9/science/ac9s9h04-society-values-scientific-research-priorities/",
+      "title": "Year 9 Science: Society and Research Priorities | AC9S9H04",
+      "description": "Society and Research Priorities: Year 9 Science (AC9S9H04). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S10H04; NSW SC5-DA2-01 / SC5-EGY-01 / SC5-ENV-01."
+    },
+    "AC9S9I01": {
+      "topic": "Questions, Hypotheses and Predictions",
+      "url": "https://skillrhub.com/year9/science/ac9s9i01-investigable-questions-hypotheses-predictions/",
+      "title": "Year 9 Science: Questions, Hypotheses and Predictions | AC9S9I01",
+      "description": "Questions, Hypotheses and Predictions: Year 9 Science (AC9S9I01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S10I01; NSW SC5-WS-02."
+    },
+    "AC9S9I02": {
+      "topic": "Valid, Reproducible Investigations",
+      "url": "https://skillrhub.com/year9/science/ac9s9i02-plan-and-conduct-valid-reproducible-investigations-to-answer/",
+      "title": "Year 9 Science: Valid, Reproducible Investigations | AC9S9I02",
+      "description": "Valid, Reproducible Investigations: Year 9 Science (AC9S9I02). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S10I02; NSW SC5-WS-03 / SC5-WS-04."
+    },
+    "AC9S9I03": {
+      "topic": "Equipment, Precision and Replicable Data",
+      "url": "https://skillrhub.com/year9/science/ac9s9i03-select-and-use-equipment-to-generate-and-record-data-with/",
+      "title": "Year 9 Science: Equipment, Precision and Replicable Data | AC9S9I03",
+      "description": "Equipment, Precision and Replicable Data: Year 9 Science (AC9S9I03). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S10I03; NSW SC5-WS-01 / SC5-WS-04 / SC5-WS-05."
+    },
+    "AC9S9I04": {
+      "topic": "Representing and Processing Data",
+      "url": "https://skillrhub.com/year9/science/ac9s9i04-select-and-construct-appropriate-representations-including/",
+      "title": "Year 9 Science: Representing and Processing Data | AC9S9I04",
+      "description": "Representing and Processing Data: Year 9 Science (AC9S9I04). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S10I04; NSW SC5-WS-05."
+    },
+    "AC9S9I05": {
+      "topic": "Patterns, Relationships and Anomalies",
+      "url": "https://skillrhub.com/year9/science/ac9s9i05-analyse-and-connect-a-variety-of-data-and-information-to/",
+      "title": "Year 9 Science: Patterns, Relationships and Anomalies | AC9S9I05",
+      "description": "Patterns, Relationships and Anomalies: Year 9 Science (AC9S9I05). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S10I05; NSW SC5-WS-06."
+    },
+    "AC9S9I06": {
+      "topic": "Validity and Reproducibility",
+      "url": "https://skillrhub.com/year9/science/ac9s9i06-assess-the-validity-and-reproducibility-of-methods-and-evaluate/",
+      "title": "Year 9 Science: Validity and Reproducibility | AC9S9I06",
+      "description": "Validity and Reproducibility: Year 9 Science (AC9S9I06). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S10I06; NSW SC5-DA2-01 / SC5-WS-06."
+    },
+    "AC9S9I07": {
+      "topic": "Evidence-Based Scientific Arguments",
+      "url": "https://skillrhub.com/year9/science/ac9s9i07-construct-arguments-based-on-analysis-of-a-variety-of-evidence/",
+      "title": "Year 9 Science: Evidence-Based Scientific Arguments | AC9S9I07",
+      "description": "Evidence-Based Scientific Arguments: Year 9 Science (AC9S9I07). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S10I07; NSW SC5-DA2-01 / SC5-WS-08."
+    },
+    "AC9S9I08": {
+      "topic": "Communicating Scientific Arguments",
+      "url": "https://skillrhub.com/year9/science/ac9s9i08-and-create-texts-to-communicate-ideas-findings-and-arguments/",
+      "title": "Year 9 Science: Communicating Scientific Arguments | AC9S9I08",
+      "description": "Communicating Scientific Arguments: Year 9 Science (AC9S9I08). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S10I08; NSW SC5-WS-08."
+    },
+    "AC9S9U01": {
+      "topic": "Body Systems and Homeostasis",
+      "url": "https://skillrhub.com/year9/science/ac9s9u01-body-systems-homeostasis-coordination/",
+      "title": "Year 9 Science: Body Systems and Homeostasis | AC9S9U01",
+      "description": "Body Systems and Homeostasis: Year 9 Science (AC9S9U01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S10U02; NSW SC4-LIV-01 (supporting prior-stage alignment)."
+    },
+    "AC9S9U02": {
+      "topic": "Reproduction and Species Survival",
+      "url": "https://skillrhub.com/year9/science/ac9s9u02-reproductive-cells-organs-plants-animals/",
+      "title": "Year 9 Science: Reproduction and Species Survival | AC9S9U02",
+      "description": "Reproduction and Species Survival: Year 9 Science (AC9S9U02). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S10U01; NSW SC5-GEV-02."
+    },
+    "AC9S9U03": {
+      "topic": "Carbon Cycle and Earth Systems",
+      "url": "https://skillrhub.com/year9/science/ac9s9u03-carbon-cycle-processes-human-impacts/",
+      "title": "Year 9 Science: Carbon Cycle and Earth Systems | AC9S9U03",
+      "description": "Carbon Cycle and Earth Systems: Year 9 Science (AC9S9U03). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S10U10; NSW SC5-ENV-01."
+    },
+    "AC9S9U04": {
+      "topic": "Wave and Particle Models of Energy",
+      "url": "https://skillrhub.com/year9/science/ac9s9u04-wave-particle-models-energy-transfer/",
+      "title": "Year 9 Science: Wave and Particle Models of Energy | AC9S9U04",
+      "description": "Wave and Particle Models of Energy: Year 9 Science (AC9S9U04). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S10U14; NSW SC5-WAM-01."
+    },
+    "AC9S9U05": {
+      "topic": "Energy Conservation and Efficiency",
+      "url": "https://skillrhub.com/year9/science/ac9s9u05-conservation-energy-systems/",
+      "title": "Year 9 Science: Energy Conservation and Efficiency | AC9S9U05",
+      "description": "Energy Conservation and Efficiency: Year 9 Science (AC9S9U05). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S10U15; NSW SC5-EGY-01."
+    },
+    "AC9S9U06": {
+      "topic": "Atomic Models and Radioactive Decay",
+      "url": "https://skillrhub.com/year9/science/ac9s9u06-atomic-model-evidence-history/",
+      "title": "Year 9 Science: Atomic Models and Radioactive Decay | AC9S9U06",
+      "description": "Atomic Models and Radioactive Decay: Year 9 Science (AC9S9U06). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S10U06; NSW SC4-PRT-01 / SC5-MAT-01."
+    },
+    "AC9S9U07": {
+      "topic": "Reaction Equations and Mass Conservation",
+      "url": "https://skillrhub.com/year9/science/ac9s9u07-atoms-rearrange-chemical-reactions/",
+      "title": "Year 9 Science: Reaction Equations and Mass Conservation | AC9S9U07",
+      "description": "Reaction Equations and Mass Conservation: Year 9 Science (AC9S9U07). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S10U08; NSW SC5-RXN-01."
+    },
+    "AC9E10LA01": {
+      "topic": "Language, Inclusion and Social Power",
+      "url": "https://skillrhub.com/year10/english/ac9e10la01-how-language-can-have-inclusive-and-exclusive-social-effects-and/",
+      "title": "Year 10 English: Language, Inclusion and Social Power | AC9E10LA01",
+      "description": "Language, Inclusion and Social Power: Year 10 English (AC9E10LA01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E10LA01; NSW EN5-URA-01."
+    },
+    "AC9E10LA02": {
+      "topic": "Evaluative Language and Personal Values",
+      "url": "https://skillrhub.com/year10/english/ac9e10la02-that-language-used-to-evaluate-implicitly-or-explicitly-reveals/",
+      "title": "Year 10 English: Evaluative Language and Personal Values | AC9E10LA02",
+      "description": "Evaluative Language and Personal Values: Year 10 English (AC9E10LA02). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E10LA02; NSW EN5-URB-01."
+    },
+    "AC9E10LA03": {
+      "topic": "Evaluating Text Structure and Purpose",
+      "url": "https://skillrhub.com/year10/english/ac9e10la03-analyse-text-structures-and-language-features-and-evaluate/",
+      "title": "Year 10 English: Evaluating Text Structure and Purpose | AC9E10LA03",
+      "description": "Evaluating Text Structure and Purpose: Year 10 English (AC9E10LA03). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E10LA03; NSW EN5-URA-01."
+    },
+    "AC9E10LA04": {
+      "topic": "Cohesion in Paragraphs and Images",
+      "url": "https://skillrhub.com/year10/english/ac9e10la04-how-paragraph-structure-can-be-varied-to-create-cohesion-and/",
+      "title": "Year 10 English: Cohesion in Paragraphs and Images | AC9E10LA04",
+      "description": "Cohesion in Paragraphs and Images: Year 10 English (AC9E10LA04). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E10LA04; NSW EN5-URA-01."
+    },
+    "AC9E10LA05": {
+      "topic": "Sentence Structures and Crafted Ideas",
+      "url": "https://skillrhub.com/year10/english/ac9e10la05-analyse-and-evaluate-the-effectiveness-of-particular-sentence/",
+      "title": "Year 10 English: Sentence Structures and Crafted Ideas | AC9E10LA05",
+      "description": "Sentence Structures and Crafted Ideas: Year 10 English (AC9E10LA05). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E10LA05; NSW EN5-URA-01."
+    },
+    "AC9E10LA06": {
+      "topic": "Syntax, Meaning and Style",
+      "url": "https://skillrhub.com/year10/english/ac9e10la06-analyse-how-meaning-and-style-are-achieved-through-syntax/",
+      "title": "Year 10 English: Syntax, Meaning and Style | AC9E10LA06",
+      "description": "Syntax, Meaning and Style: Year 10 English (AC9E10LA06). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E10LA06; NSW EN5-URA-01."
+    },
+    "AC9E10LA07": {
+      "topic": "Visual Features and Representation",
+      "url": "https://skillrhub.com/year10/english/ac9e10la07-evaluate-the-features-of-still-and-moving-images-and-the/",
+      "title": "Year 10 English: Visual Features and Representation | AC9E10LA07",
+      "description": "Visual Features and Representation: Year 10 English (AC9E10LA07). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E10LA07; NSW EN5-URB-01."
+    },
+    "AC9E10LA08": {
+      "topic": "Technical and Academic Vocabulary",
+      "url": "https://skillrhub.com/year10/english/ac9e10la08-an-expanded-technical-and-academic-vocabulary-for-precision/",
+      "title": "Year 10 English: Technical and Academic Vocabulary | AC9E10LA08",
+      "description": "Technical and Academic Vocabulary: Year 10 English (AC9E10LA08). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E10LA08; NSW EN5-URA-01."
+    },
+    "AC9E10LA09": {
+      "topic": "Experimenting with Punctuation",
+      "url": "https://skillrhub.com/year10/english/ac9e10la09-how-authors-use-and-experiment-with-punctuation/",
+      "title": "Year 10 English: Experimenting with Punctuation | AC9E10LA09",
+      "description": "Experimenting with Punctuation: Year 10 English (AC9E10LA09). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E10LA09; NSW EN5-URA-01."
+    },
+    "AC9E10LE01": {
+      "topic": "Literary Representations and Context",
+      "url": "https://skillrhub.com/year10/english/ac9e10le01-analyse-representations-of-individuals-groups-and-places-and/",
+      "title": "Year 10 English: Literary Representations and Context | AC9E10LE01",
+      "description": "Literary Representations and Context: Year 10 English (AC9E10LE01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E10LE01; NSW EN5-URB-01."
+    },
+    "AC9E10LE02": {
+      "topic": "Extending Literary Interpretations",
+      "url": "https://skillrhub.com/year10/english/ac9e10le02-reflect-on-and-extend-others-interpretations-of-and-responses-to/",
+      "title": "Year 10 English: Extending Literary Interpretations | AC9E10LE02",
+      "description": "Extending Literary Interpretations: Year 10 English (AC9E10LE02). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E10LE02; NSW EN5-URC-01 / EN5-URA-01."
+    },
+    "AC9E10LE03": {
+      "topic": "Aesthetics and Audience Response",
+      "url": "https://skillrhub.com/year10/english/ac9e10le03-analyse-how-the-aesthetic-qualities-associated-with-text/",
+      "title": "Year 10 English: Aesthetics and Audience Response | AC9E10LE03",
+      "description": "Aesthetics and Audience Response: Year 10 English (AC9E10LE03). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E10LE03; NSW EN5-URB-01."
+    },
+    "AC9E10LE04": {
+      "topic": "Social, Moral and Ethical Positions",
+      "url": "https://skillrhub.com/year10/english/ac9e10le04-evaluate-the-social-moral-or-ethical-positions-represented-in/",
+      "title": "Year 10 English: Social, Moral and Ethical Positions | AC9E10LE04",
+      "description": "Social, Moral and Ethical Positions: Year 10 English (AC9E10LE04). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E10LE04; NSW EN5-URB-01."
+    },
+    "AC9E10LE05": {
+      "topic": "Text Choices and Literary Interpretation",
+      "url": "https://skillrhub.com/year10/english/ac9e10le05-analyse-how-text-structure-language-features-literary-devices/",
+      "title": "Year 10 English: Text Choices and Literary Interpretation | AC9E10LE05",
+      "description": "Text Choices and Literary Interpretation: Year 10 English (AC9E10LE05). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E10LE05; NSW EN5-URC-01 / EN5-URA-01."
+    },
+    "AC9E10LE06": {
+      "topic": "Literary Voice and Emotional Responses",
+      "url": "https://skillrhub.com/year10/english/ac9e10le06-and-evaluate-how-voice-as-a-literary-device-is-used/",
+      "title": "Year 10 English: Literary Voice and Emotional Responses | AC9E10LE06",
+      "description": "Literary Voice and Emotional Responses: Year 10 English (AC9E10LE06). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E10LE06; NSW EN5-URC-01 / EN5-URA-01."
+    },
+    "AC9E10LE07": {
+      "topic": "Evaluating Literary Aesthetics",
+      "url": "https://skillrhub.com/year10/english/ac9e10le07-analyse-and-evaluate-the-aesthetic-qualities-of-texts/",
+      "title": "Year 10 English: Evaluating Literary Aesthetics | AC9E10LE07",
+      "description": "Evaluating Literary Aesthetics: Year 10 English (AC9E10LE07). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E10LE04 / VC2E10LE05; NSW EN5-URC-01 / EN5-URA-01."
+    },
+    "AC9E10LE08": {
+      "topic": "Creating a Sustained Literary Voice",
+      "url": "https://skillrhub.com/year10/english/ac9e10le08-and-edit-literary-texts-with-a-sustained-voice-selecting-and/",
+      "title": "Year 10 English: Creating a Sustained Literary Voice | AC9E10LE08",
+      "description": "Creating a Sustained Literary Voice: Year 10 English (AC9E10LE08). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E10LE06; NSW EN5-ECB-01 / EN5-ECA-01."
+    },
+    "AC9E10LY01": {
+      "topic": "Representation and Context in Texts",
+      "url": "https://skillrhub.com/year10/english/ac9e10ly01-analyse-and-evaluate-how-people-places-events-and-concepts-are/",
+      "title": "Year 10 English: Representation and Context in Texts | AC9E10LY01",
+      "description": "Representation and Context in Texts: Year 10 English (AC9E10LY01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E10LY01; NSW EN5-URB-01."
+    },
+    "AC9E10LY02": {
+      "topic": "Spoken Texts and Their Effects",
+      "url": "https://skillrhub.com/year10/english/ac9e10ly02-listen-to-spoken-texts-and-explain-the-purposes-and-effects/",
+      "title": "Year 10 English: Spoken Texts and Their Effects | AC9E10LY02",
+      "description": "Spoken Texts and Their Effects: Year 10 English (AC9E10LY02). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E10LY02; NSW EN5-ECA-01."
+    },
+    "AC9E10LY03": {
+      "topic": "Language, Values, Beliefs and Attitudes",
+      "url": "https://skillrhub.com/year10/english/ac9e10ly03-analyse-and-evaluate-how-language-features-are-used-to/",
+      "title": "Year 10 English: Language, Values, Beliefs and Attitudes | AC9E10LY03",
+      "description": "Language, Values, Beliefs and Attitudes: Year 10 English (AC9E10LY03). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E10LY03; NSW EN5-URB-01."
+    },
+    "AC9E10LY04": {
+      "topic": "Organising Ideas for Purpose",
+      "url": "https://skillrhub.com/year10/english/ac9e10ly04-analyse-and-evaluate-how-authors-organise-ideas-in-texts-to/",
+      "title": "Year 10 English: Organising Ideas for Purpose | AC9E10LY04",
+      "description": "Organising Ideas for Purpose: Year 10 English (AC9E10LY04). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E10LY04; NSW EN5-URA-01."
+    },
+    "AC9E10LY05": {
+      "topic": "Comprehension of Complex Ideas",
+      "url": "https://skillrhub.com/year10/english/ac9e10ly05-integrate-comprehension-strategies-such-as-visualising/",
+      "title": "Year 10 English: Comprehension of Complex Ideas | AC9E10LY05",
+      "description": "Comprehension of Complex Ideas: Year 10 English (AC9E10LY05). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E10LY05; NSW EN5-RVL-01 / EN5-URA-01."
+    },
+    "AC9E10LY06": {
+      "topic": "Creating Written and Multimodal Texts",
+      "url": "https://skillrhub.com/year10/english/ac9e10ly06-plan-create-edit-and-publish-written-and-multimodal-texts/",
+      "title": "Year 10 English: Creating Written and Multimodal Texts | AC9E10LY06",
+      "description": "Creating Written and Multimodal Texts: Year 10 English (AC9E10LY06). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E10LY06; NSW EN5-ECB-01 / EN5-ECA-01."
+    },
+    "AC9E10LY07": {
+      "topic": "Rhetoric and Multimodal Presentations",
+      "url": "https://skillrhub.com/year10/english/ac9e10ly07-plan-create-rehearse-and-deliver-spoken-and-multimodal/",
+      "title": "Year 10 English: Rhetoric and Multimodal Presentations | AC9E10LY07",
+      "description": "Rhetoric and Multimodal Presentations: Year 10 English (AC9E10LY07). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E10LY07; NSW EN5-ECB-01 / EN5-ECA-01."
+    },
+    "AC9E10LY08": {
+      "topic": "Spelling Systems and Creative Effects",
+      "url": "https://skillrhub.com/year10/english/ac9e10ly08-knowledge-of-the-spelling-system-to-spell-words-and-to/",
+      "title": "Year 10 English: Spelling Systems and Creative Effects | AC9E10LY08",
+      "description": "Spelling Systems and Creative Effects: Year 10 English (AC9E10LY08). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2E10LY08; NSW EN5-URA-01."
+    },
+    "AC9M10A01": {
+      "topic": "Expanding, Factorising and Solving Algebra",
+      "url": "https://skillrhub.com/year10/maths/ac9m10a01-expand-factorise-and-simplify-expressions-and-solve-equations/",
+      "title": "Year 10 Maths: Expanding, Factorising and Solving Algebra | AC9M10A01",
+      "description": "Expanding, Factorising and Solving Algebra: Year 10 Maths (AC9M10A01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M10A01 / VC2M10A02 / VC2M10A04 / VC2M10A07 / VC2M10A12 / VC2M10A13; NSW MA5-ALG-C-01 / MA5-ALG-P-01 / MA5-EQU-C-01 / MA5-EQU-P-01 / MA5-IND-C-01 / MA5-IND-P-01 / MAO-WM-01."
+    },
+    "AC9M10A02": {
+      "topic": "Inequalities and Simultaneous Equations",
+      "url": "https://skillrhub.com/year10/maths/ac9m10a02-solve-linear-inequalities-and-simultaneous-linear-equations-in/",
+      "title": "Year 10 Maths: Inequalities and Simultaneous Equations | AC9M10A02",
+      "description": "Inequalities and Simultaneous Equations: Year 10 Maths (AC9M10A02). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M10A08 / VC2M10A09; NSW MA5-EQU-P-01 / MA5-EQU-P-02 / MA5-FNC-P-01 / MAO-WM-01."
+    },
+    "AC9M10A03": {
+      "topic": "Exponential Relations, Graphs and Equations",
+      "url": "https://skillrhub.com/year10/maths/ac9m10a03-the-connection-between-algebraic-and-graphical-representations/",
+      "title": "Year 10 Maths: Exponential Relations, Graphs and Equations | AC9M10A03",
+      "description": "Exponential Relations, Graphs and Equations: Year 10 Maths (AC9M10A03). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M10A11 / VC2M10A14 / VC2M10A16; NSW MA5-LOG-P-01 / MA5-NLI-C-01 / MA5-NLI-C-02 / MAO-WM-01."
+    },
+    "AC9M10A04": {
+      "topic": "Growth, Decay and Mathematical Modelling",
+      "url": "https://skillrhub.com/year10/maths/ac9m10a04-mathematical-modelling-to-solve-applied-problems-involving/",
+      "title": "Year 10 Maths: Growth, Decay and Mathematical Modelling | AC9M10A04",
+      "description": "Growth, Decay and Mathematical Modelling: Year 10 Maths (AC9M10A04). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M10A15; NSW MA5-FIN-C-02 / MA5-NLI-C-01 / MA5-NLI-C-02 / MAO-WM-01."
+    },
+    "AC9M10A05": {
+      "topic": "Functions and Digital Conjectures",
+      "url": "https://skillrhub.com/year10/maths/ac9m10a05-experiment-with-functions-and-relations-using-digital-tools/",
+      "title": "Year 10 Maths: Functions and Digital Conjectures | AC9M10A05",
+      "description": "Functions and Digital Conjectures: Year 10 Maths (AC9M10A05). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M10A11 / VC2M10A16; NSW MA5-FNC-P-01 / MA5-NLI-P-01."
+    },
+    "AC9M10M01": {
+      "topic": "Composite Surface Area and Volume",
+      "url": "https://skillrhub.com/year10/maths/ac9m10m01-solve-problems-involving-the-surface-area-and-volume-of/",
+      "title": "Year 10 Maths: Composite Surface Area and Volume | AC9M10M01",
+      "description": "Composite Surface Area and Volume: Year 10 Maths (AC9M10M01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M10M01; NSW MA5-VOL-C-01 / MA5-ARE-C-01."
+    },
+    "AC9M10M02": {
+      "topic": "Logarithmic Scales and Orders of Magnitude",
+      "url": "https://skillrhub.com/year10/maths/ac9m10m02-interpret-and-use-logarithmic-scales-in-applied-contexts/",
+      "title": "Year 10 Maths: Logarithmic Scales and Orders of Magnitude | AC9M10M02",
+      "description": "Logarithmic Scales and Orders of Magnitude: Year 10 Maths (AC9M10M02). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M10M02; NSW MA5-LOG-P-01 / MA5-MAG-C-01."
+    },
+    "AC9M10M03": {
+      "topic": "Pythagoras and Right-Triangle Trigonometry",
+      "url": "https://skillrhub.com/year10/maths/ac9m10m03-solve-practical-problems-applying-pythagoras-theorem-and/",
+      "title": "Year 10 Maths: Pythagoras and Right-Triangle Trigonometry | AC9M10M03",
+      "description": "Pythagoras and Right-Triangle Trigonometry: Year 10 Maths (AC9M10M03). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M10M03; NSW MA5-TRG-C-01 / MA5-TRG-C-02."
+    },
+    "AC9M10M04": {
+      "topic": "Measurement Error and Uncertainty",
+      "url": "https://skillrhub.com/year10/maths/ac9m10m04-the-impact-of-measurement-errors-on-the-accuracy-of-results/",
+      "title": "Year 10 Maths: Measurement Error and Uncertainty | AC9M10M04",
+      "description": "Measurement Error and Uncertainty: Year 10 Maths (AC9M10M04). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M10M04; NSW MA5-MAG-C-01."
+    },
+    "AC9M10M05": {
+      "topic": "Scale, Proportion and Practical Modelling",
+      "url": "https://skillrhub.com/year10/maths/ac9m10m05-mathematical-modelling-to-solve-practical-problems-involving/",
+      "title": "Year 10 Maths: Scale, Proportion and Practical Modelling | AC9M10M05",
+      "description": "Scale, Proportion and Practical Modelling: Year 10 Maths (AC9M10M05). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M10M04; NSW MA5-RAT-P-01 / MA5-GEO-C-01."
+    },
+    "AC9M10N01": {
+      "topic": "Exact Values, Approximation and Rounding",
+      "url": "https://skillrhub.com/year10/maths/ac9m10n01-the-effect-of-using-approximations-of-real-numbers-in-repeated/",
+      "title": "Year 10 Maths: Exact Values, Approximation and Rounding | AC9M10N01",
+      "description": "Exact Values, Approximation and Rounding: Year 10 Maths (AC9M10N01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M10N01; NSW MA5-IND-P-02 / MA5-MAG-C-01 / MAO-WM-01."
+    },
+    "AC9M10P01": {
+      "topic": "Conditional Probability Language",
+      "url": "https://skillrhub.com/year10/maths/ac9m10p01-the-language-of-if-then-given-of-knowing-that/",
+      "title": "Year 10 Maths: Conditional Probability Language | AC9M10P01",
+      "description": "Conditional Probability Language: Year 10 Maths (AC9M10P01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M10P01; NSW MA5-PRO-P-01."
+    },
+    "AC9M10P02": {
+      "topic": "Conditional Probability Simulations",
+      "url": "https://skillrhub.com/year10/maths/ac9m10p02-design-and-conduct-repeated-chance-experiments-and-simulations/",
+      "title": "Year 10 Maths: Conditional Probability Simulations | AC9M10P02",
+      "description": "Conditional Probability Simulations: Year 10 Maths (AC9M10P02). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M10P01 / VC2M10P02; NSW MA5-PRO-P-01."
+    },
+    "AC9M10SP01": {
+      "topic": "Geometric Proof and Deductive Reasoning",
+      "url": "https://skillrhub.com/year10/maths/ac9m10sp01-apply-deductive-reasoning-to-proofs-involving-shapes-in-the/",
+      "title": "Year 10 Maths: Geometric Proof and Deductive Reasoning | AC9M10SP01",
+      "description": "Geometric Proof and Deductive Reasoning: Year 10 Maths (AC9M10SP01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M10SP01; NSW MA5-GEO-P-02 / MAO-WM-01."
+    },
+    "AC9M10SP02": {
+      "topic": "Networks and Connectedness",
+      "url": "https://skillrhub.com/year10/maths/ac9m10sp02-interpret-networks-and-network-diagrams-used-to-represent/",
+      "title": "Year 10 Maths: Networks and Connectedness | AC9M10SP02",
+      "description": "Networks and Connectedness: Year 10 Maths (AC9M10SP02). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M10SP02; NSW MA5-NET-P-01."
+    },
+    "AC9M10SP03": {
+      "topic": "Spatial Algorithms and Design",
+      "url": "https://skillrhub.com/year10/maths/ac9m10sp03-design-test-and-refine-solutions-to-spatial-problems-using/",
+      "title": "Year 10 Maths: Spatial Algorithms and Design | AC9M10SP03",
+      "description": "Spatial Algorithms and Design: Year 10 Maths (AC9M10SP03). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M10ASP06; NSW MA5-GEO-P-02 / MAO-WM-01."
+    },
+    "AC9M10ST01": {
+      "topic": "Statistical Reports and Misleading Claims",
+      "url": "https://skillrhub.com/year10/maths/ac9m10st01-analyse-claims-inferences-and-conclusions-of-statistical/",
+      "title": "Year 10 Maths: Statistical Reports and Misleading Claims | AC9M10ST01",
+      "description": "Statistical Reports and Misleading Claims: Year 10 Maths (AC9M10ST01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M10ST04; NSW MA5-DAT-P-01."
+    },
+    "AC9M10ST02": {
+      "topic": "Boxplots and Comparing Distributions",
+      "url": "https://skillrhub.com/year10/maths/ac9m10st02-data-distributions-for-continuous-numerical-variables-using/",
+      "title": "Year 10 Maths: Boxplots and Comparing Distributions | AC9M10ST02",
+      "description": "Boxplots and Comparing Distributions: Year 10 Maths (AC9M10ST02). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M10ST01; NSW MA5-DAT-C-01."
+    },
+    "AC9M10ST03": {
+      "topic": "Scatterplots and Bivariate Association",
+      "url": "https://skillrhub.com/year10/maths/ac9m10st03-construct-scatterplots-and-comment-on-the-association-between/",
+      "title": "Year 10 Maths: Scatterplots and Bivariate Association | AC9M10ST03",
+      "description": "Scatterplots and Bivariate Association: Year 10 Maths (AC9M10ST03). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M10ST02; NSW MA5-DAT-C-02."
+    },
+    "AC9M10ST04": {
+      "topic": "Two-Way Tables and Data Relationships",
+      "url": "https://skillrhub.com/year10/maths/ac9m10st04-construct-two-way-tables-and-discuss-possible-relationship/",
+      "title": "Year 10 Maths: Two-Way Tables and Data Relationships | AC9M10ST04",
+      "description": "Two-Way Tables and Data Relationships: Year 10 Maths (AC9M10ST04). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M10ST03; NSW MA5-DAT-C-02."
+    },
+    "AC9M10ST05": {
+      "topic": "Bivariate Statistical Investigations",
+      "url": "https://skillrhub.com/year10/maths/ac9m10st05-plan-and-conduct-statistical-investigations-of-situations-that/",
+      "title": "Year 10 Maths: Bivariate Statistical Investigations | AC9M10ST05",
+      "description": "Bivariate Statistical Investigations: Year 10 Maths (AC9M10ST05). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2M10ST05; NSW MA5-DAT-C-02."
+    },
+    "AC9S10H01": {
+      "topic": "Scientific Validation and Peer Review",
+      "url": "https://skillrhub.com/year10/science/ac9s10h01-scientific-validation-peer-review-evidence/",
+      "title": "Year 10 Science: Scientific Validation and Peer Review | AC9S10H01",
+      "description": "Scientific Validation and Peer Review: Year 10 Science (AC9S10H01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S10H01; NSW SC5-DA2-01."
+    },
+    "AC9S10H02": {
+      "topic": "Science and Technology Advances",
+      "url": "https://skillrhub.com/year10/science/ac9s10h02-science-technology-engineering-advances/",
+      "title": "Year 10 Science: Science and Technology Advances | AC9S10H02",
+      "description": "Science and Technology Advances: Year 10 Science (AC9S10H02). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S10H02; NSW SC5-DA2-01."
+    },
+    "AC9S10H03": {
+      "topic": "Science Adoption and Social Factors",
+      "url": "https://skillrhub.com/year10/science/ac9s10h03-science-adoption-evidence-trust-values/",
+      "title": "Year 10 Science: Science Adoption and Social Factors | AC9S10H03",
+      "description": "Science Adoption and Social Factors: Year 10 Science (AC9S10H03). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S10H03; NSW SC5-DA2-01."
+    },
+    "AC9S10H04": {
+      "topic": "Society and Research Priorities",
+      "url": "https://skillrhub.com/year10/science/ac9s10h04-society-values-scientific-research-priorities/",
+      "title": "Year 10 Science: Society and Research Priorities | AC9S10H04",
+      "description": "Society and Research Priorities: Year 10 Science (AC9S10H04). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S10H04; NSW SC5-DA2-01 / SC5-EGY-01 / SC5-ENV-01."
+    },
+    "AC9S10I01": {
+      "topic": "Questions, Hypotheses and Predictions",
+      "url": "https://skillrhub.com/year10/science/ac9s10i01-investigable-questions-hypotheses-predictions/",
+      "title": "Year 10 Science: Questions, Hypotheses and Predictions | AC9S10I01",
+      "description": "Questions, Hypotheses and Predictions: Year 10 Science (AC9S10I01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S10I01; NSW SC5-WS-02."
+    },
+    "AC9S10I02": {
+      "topic": "Valid, Reproducible Investigations",
+      "url": "https://skillrhub.com/year10/science/ac9s10i02-valid-reproducible-investigations/",
+      "title": "Year 10 Science: Valid, Reproducible Investigations | AC9S10I02",
+      "description": "Valid, Reproducible Investigations: Year 10 Science (AC9S10I02). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S10I02; NSW SC5-WS-03 / SC5-WS-04."
+    },
+    "AC9S10I03": {
+      "topic": "Equipment, Precision and Replicable Data",
+      "url": "https://skillrhub.com/year10/science/ac9s10i03-precise-replicable-data/",
+      "title": "Year 10 Science: Equipment, Precision and Replicable Data | AC9S10I03",
+      "description": "Equipment, Precision and Replicable Data: Year 10 Science (AC9S10I03). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S10I03; NSW SC5-WS-01 / SC5-WS-04 / SC5-WS-05."
+    },
+    "AC9S10I04": {
+      "topic": "Representing and Processing Data",
+      "url": "https://skillrhub.com/year10/science/ac9s10i04-data-representations-models-statistics/",
+      "title": "Year 10 Science: Representing and Processing Data | AC9S10I04",
+      "description": "Representing and Processing Data: Year 10 Science (AC9S10I04). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S10I04; NSW SC5-WS-05."
+    },
+    "AC9S10I05": {
+      "topic": "Patterns, Relationships and Anomalies",
+      "url": "https://skillrhub.com/year10/science/ac9s10i05-analyse-patterns-relationships-evidence/",
+      "title": "Year 10 Science: Patterns, Relationships and Anomalies | AC9S10I05",
+      "description": "Patterns, Relationships and Anomalies: Year 10 Science (AC9S10I05). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S10I05; NSW SC5-WS-06."
+    },
+    "AC9S10I06": {
+      "topic": "Validity and Reproducibility",
+      "url": "https://skillrhub.com/year10/science/ac9s10i06-validity-reproducibility-evidence-quality/",
+      "title": "Year 10 Science: Validity and Reproducibility | AC9S10I06",
+      "description": "Validity and Reproducibility: Year 10 Science (AC9S10I06). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S10I06; NSW SC5-DA2-01 / SC5-WS-06."
+    },
+    "AC9S10I07": {
+      "topic": "Evidence-Based Scientific Arguments",
+      "url": "https://skillrhub.com/year10/science/ac9s10i07-evidence-based-scientific-arguments/",
+      "title": "Year 10 Science: Evidence-Based Scientific Arguments | AC9S10I07",
+      "description": "Evidence-Based Scientific Arguments: Year 10 Science (AC9S10I07). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S10I07; NSW SC5-DA2-01 / SC5-WS-08."
+    },
+    "AC9S10I08": {
+      "topic": "Communicating Scientific Arguments",
+      "url": "https://skillrhub.com/year10/science/ac9s10i08-scientific-communication-audience-purpose/",
+      "title": "Year 10 Science: Communicating Scientific Arguments | AC9S10I08",
+      "description": "Communicating Scientific Arguments: Year 10 Science (AC9S10I08). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S10I08; NSW SC5-WS-08."
+    },
+    "AC9S10U01": {
+      "topic": "DNA, Cell Division and Inheritance",
+      "url": "https://skillrhub.com/year10/science/ac9s10u01-genetics-meiosis-mitosis-heredity/",
+      "title": "Year 10 Science: DNA, Cell Division and Inheritance | AC9S10U01",
+      "description": "DNA, Cell Division and Inheritance: Year 10 Science (AC9S10U01). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S10U04; NSW SC5-GEV-02."
+    },
+    "AC9S10U02": {
+      "topic": "Evolution by Natural Selection",
+      "url": "https://skillrhub.com/year10/science/ac9s10u02-evolution-natural-selection-evidence/",
+      "title": "Year 10 Science: Evolution by Natural Selection | AC9S10U02",
+      "description": "Evolution by Natural Selection: Year 10 Science (AC9S10U02). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S10U05; NSW SC5-GEV-01."
+    },
+    "AC9S10U03": {
+      "topic": "Big Bang Theory and Universe Expansion",
+      "url": "https://skillrhub.com/year10/science/ac9s10u03-big-bang-evidence-expanding-universe/",
+      "title": "Year 10 Science: Big Bang Theory and Universe Expansion | AC9S10U03",
+      "description": "Big Bang Theory and Universe Expansion: Year 10 Science (AC9S10U03). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S10U13; NSW SC4-OTU-01 (supporting prior-stage alignment)."
+    },
+    "AC9S10U04": {
+      "topic": "Earth’s Energy Balance and Climate Change",
+      "url": "https://skillrhub.com/year10/science/ac9s10u04-earth-energy-balance-global-climate-change/",
+      "title": "Year 10 Science: Earth’s Energy Balance and Climate Change | AC9S10U04",
+      "description": "Earth’s Energy Balance and Climate Change: Year 10 Science (AC9S10U04). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S10U11; NSW SC5-EGY-01 / SC5-ENV-01."
+    },
+    "AC9S10U05": {
+      "topic": "Newton’s Laws, Force and Acceleration",
+      "url": "https://skillrhub.com/year10/science/ac9s10u05-newtons-laws-force-mass-acceleration/",
+      "title": "Year 10 Science: Newton’s Laws, Force and Acceleration | AC9S10U05",
+      "description": "Newton’s Laws, Force and Acceleration: Year 10 Science (AC9S10U05). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S10U17; NSW SC5-WAM-02."
+    },
+    "AC9S10U06": {
+      "topic": "Atomic Structure and Periodic Patterns",
+      "url": "https://skillrhub.com/year10/science/ac9s10u06-atomic-structure-periodic-table-patterns/",
+      "title": "Year 10 Science: Atomic Structure and Periodic Patterns | AC9S10U06",
+      "description": "Atomic Structure and Periodic Patterns: Year 10 Science (AC9S10U06). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S10U07; NSW SC4-PRT-01 / SC5-MAT-01."
+    },
+    "AC9S10U07": {
+      "topic": "Chemical Reaction Patterns and Rates",
+      "url": "https://skillrhub.com/year10/science/ac9s10u07-chemical-reaction-patterns-reaction-rates/",
+      "title": "Year 10 Science: Chemical Reaction Patterns and Rates | AC9S10U07",
+      "description": "Chemical Reaction Patterns and Rates: Year 10 Science (AC9S10U07). Free Australian Curriculum v9 guide, worksheet, practice and test. Victoria VC2S10U09; NSW SC5-RXN-01 / SC5-RXN-02."
+    },
+    "AC9E6LA04": {
+      "topic": "Cohesion and Word Associations",
+      "url": "https://skillrhub.com/year6/english/ac9e6la04-that-cohesion-can-be-created-by-the-intentional-use-of/",
+      "title": "Year 6 English: Cohesion and Word Associations | AC9E6LA04",
+      "description": "Year 6 English: Cohesion through Reference and Lexical Chains. Free topic guide, worksheets, practice and tests. Australian Curriculum v9 AC9E6LA04. Victoria VC2E6LA04; NSW EN3-CWT-01."
+    },
+    "AC9E6LA07": {
+      "topic": "Meaning in Images, Tables and Graphs",
+      "url": "https://skillrhub.com/year6/english/ac9e6la07-and-explain-how-images-figures-tables-diagrams-maps-and-graphs/",
+      "title": "Year 6 English: Meaning in Images, Tables and Graphs | AC9E6LA07",
+      "description": "Year 6 English: Images, Figures, Tables, Diagrams, Maps and Graphs. Free topic guide, worksheets, practice and tests. Australian Curriculum v9 AC9E6LA07. Victoria VC2E6LA07; NSW EN3-RECOM-01."
+    },
+    "AC9E6LE01": {
+      "topic": "Characters and Events across Contexts",
+      "url": "https://skillrhub.com/year6/english/ac9e6le01-responses-to-characters-and-events-in-literary-texts-drawn-from/",
+      "title": "Year 6 English: Characters and Events across Contexts | AC9E6LE01",
+      "description": "Year 6 English: Responses to Characters and Events across Contexts. Free topic guide, worksheets, practice and tests. Australian Curriculum v9 AC9E6LE01. Victoria VC2E6LE01; NSW EN3-UARL-01 / EN3-UARL-02."
+    },
+    "AC9E6LE05": {
+      "topic": "Adapting Plot, Character and Style",
+      "url": "https://skillrhub.com/year6/english/ac9e6le05-and-edit-literary-texts-that-adapt-plot-structure-characters/",
+      "title": "Year 6 English: Adapting Plot, Character and Style | AC9E6LE05",
+      "description": "Year 6 English: Adapting Plot, Character, Setting and Style. Free topic guide, worksheets, practice and tests. Australian Curriculum v9 AC9E6LE05. Victoria VC2E6LE05; NSW EN3-UARL-01 / EN3-UARL-02."
+    },
+    "AC9E6LY01": {
+      "topic": "Context and Representation in Media",
+      "url": "https://skillrhub.com/year6/english/ac9e6ly01-examine-texts-including-media-texts-that-represent-ideas-and/",
+      "title": "Year 6 English: Context and Representation in Media | AC9E6LY01",
+      "description": "Year 6 English: Representation and Influence in Media Texts. Free topic guide, worksheets, practice and tests. Australian Curriculum v9 AC9E6LY01. Victoria VC2E6LY01; NSW EN3-CWT-01."
+    },
+    "AC9E6LY05": {
+      "topic": "Comprehension and Critical Evaluation",
+      "url": "https://skillrhub.com/year6/english/ac9e6ly05-comprehension-strategies-such-as-visualising-predicting/",
+      "title": "Year 6 English: Comprehension and Critical Evaluation | AC9E6LY05",
+      "description": "Year 6 English: Comprehension, Inference and Critical Evaluation. Free topic guide, worksheets, practice and tests. Australian Curriculum v9 AC9E6LY05. Victoria VC2E6LY05; NSW EN3-RECOM-01."
+    },
+    "AC9E6LY09": {
+      "topic": "Word Origins and Spelling",
+      "url": "https://skillrhub.com/year6/english/ac9e6ly09-knowledge-of-known-words-word-origins-including-some-latin-and/",
+      "title": "Year 6 English: Word Origins and Spelling | AC9E6LY09",
+      "description": "Year 6 English: Word Origins, Morphemes and Unfamiliar Words. Free topic guide, worksheets, practice and tests. Australian Curriculum v9 AC9E6LY09. Victoria VC2E6LY09; NSW EN3-SPELL-01."
+    },
+    "AC9M6A02": {
+      "topic": "Unknown Values and Mixed Operations",
+      "url": "https://skillrhub.com/year6/maths/ac9m6a02-find-unknown-values-in-numerical-equations-involving-brackets/",
+      "title": "Year 6 Maths: Unknown Values and Mixed Operations | AC9M6A02",
+      "description": "Year 6 Maths: Unknown Values with Brackets and Mixed Operations. Free topic guide, worksheets, practice and tests. Australian Curriculum v9 AC9M6A02. Victoria VC2M6A02; NSW MA3-MR-02."
+    },
+    "AC9M6N01": {
+      "topic": "Integers and Cartesian Coordinates",
+      "url": "https://skillrhub.com/year6/maths/ac9m6n01-situations-including-financial-contexts-that-use-integers/",
+      "title": "Year 6 Maths: Integers and Cartesian Coordinates | AC9M6N01",
+      "description": "Year 6 Maths: Integers on Number Lines and the Cartesian Plane. Free topic guide, worksheets, practice and tests. Australian Curriculum v9 AC9M6N01. Victoria VC2M6N01; NSW MA3-RN-01."
+    },
+    "AC9M6N06": {
+      "topic": "Scaling Decimals by Powers of 10",
+      "url": "https://skillrhub.com/year6/maths/ac9m6n06-multiply-and-divide-decimals-by-multiples-of-powers-of-10/",
+      "title": "Year 6 Maths: Scaling Decimals by Powers of 10 | AC9M6N06",
+      "description": "Year 6 Maths: Multiplying and Dividing Decimals by Powers of 10. Free topic guide, worksheets, practice and tests. Australian Curriculum v9 AC9M6N06. Victoria VC2M6N06; NSW MA3-MR-01 / MA3-MR-02."
+    },
+    "AC9M6N07": {
+      "topic": "Fractions, Decimals and Percentages",
+      "url": "https://skillrhub.com/year6/maths/ac9m6n07-solve-problems-that-require-finding-a-familiar-fraction-decimal/",
+      "title": "Year 6 Maths: Fractions, Decimals and Percentages | AC9M6N07",
+      "description": "Year 6 Maths: Fractions, Decimals and Percentages of Quantities. Free topic guide, worksheets, practice and tests. Australian Curriculum v9 AC9M6N07. Victoria VC2M6N07; NSW MA3-RN-03."
+    },
+    "AC9M6N08": {
+      "topic": "Estimating Rational Numbers and Percentages",
+      "url": "https://skillrhub.com/year6/maths/ac9m6n08-approximate-numerical-solutions-to-problems-involving-rational/",
+      "title": "Year 6 Maths: Estimating Rational Numbers and Percentages | AC9M6N08",
+      "description": "Year 6 Maths: Estimating with Rational Numbers and Percentages. Free topic guide, worksheets, practice and tests. Australian Curriculum v9 AC9M6N08. Victoria VC2M6N08; NSW MA3-RN-03."
+    },
+    "AC9M6ST01": {
+      "topic": "Comparing Categorical and Numerical Data",
+      "url": "https://skillrhub.com/year6/maths/ac9m6st01-interpret-and-compare-data-sets-for-ordinal-and-nominal/",
+      "title": "Year 6 Maths: Comparing Categorical and Numerical Data | AC9M6ST01",
+      "description": "Year 6 Maths: Comparing Categorical and Numerical Data Sets. Free topic guide, worksheets, practice and tests. Australian Curriculum v9 AC9M6ST01. Victoria VC2M6ST01; NSW MA3-DATA-02."
+    },
+    "AC9M6ST03": {
+      "topic": "Planning Statistical Investigations",
+      "url": "https://skillrhub.com/year6/maths/ac9m6st03-plan-and-conduct-statistical-investigations-by-posing-and/",
+      "title": "Year 6 Maths: Planning Statistical Investigations | AC9M6ST03",
+      "description": "Year 6 Maths: Planning and Conducting Statistical Investigations. Free topic guide, worksheets, practice and tests. Australian Curriculum v9 AC9M6ST03. Victoria VC2M6ST03; NSW MA3-DATA-01 / MA3-DATA-02."
+    },
+    "AC9S6I01": {
+      "topic": "Questions and Reasoned Predictions",
+      "url": "https://skillrhub.com/year6/science/ac9s6i01-investigable-questions-to-identify-patterns-and-test/",
+      "title": "Year 6 Science: Questions and Reasoned Predictions | AC9S6I01",
+      "description": "Year 6 Science: Investigable Questions and Reasoned Predictions. Free topic guide, worksheets, practice and tests. Australian Curriculum v9 AC9S6I01. Victoria VC2S6I01; NSW ST3-PQU-01."
+    },
+    "AC9S6I04": {
+      "topic": "Representing and Processing Data",
+      "url": "https://skillrhub.com/year6/science/ac9s6i04-construct-and-use-appropriate-representations-including-tables/",
+      "title": "Year 6 Science: Representing and Processing Data | AC9S6I04",
+      "description": "Year 6 Science: Representing and Processing Scientific Evidence. Free topic guide, worksheets, practice and tests. Australian Curriculum v9 AC9S6I04. Victoria VC2S6I04; NSW ST3-DAT-01 / ST3-PQU-01."
+    },
+    "AC9S6I05": {
+      "topic": "Comparing Findings and Sources of Error",
+      "url": "https://skillrhub.com/year6/science/ac9s6i05-methods-and-findings-with-those-of-others-recognise-possible/",
+      "title": "Year 6 Science: Comparing Findings and Sources of Error | AC9S6I05",
+      "description": "Year 6 Science: Comparing Methods, Findings and Sources of Error. Free topic guide, worksheets, practice and tests. Australian Curriculum v9 AC9S6I05. Victoria VC2S6I05; NSW ST3-DAT-01 / ST3-PQU-01."
+    },
+    "AC9S6U03": {
+      "topic": "Energy Transfer in Electric Circuits",
+      "url": "https://skillrhub.com/year6/science/ac9s6u03-investigate-the-transfer-and-transformation-of-energy-in/",
+      "title": "Year 6 Science: Energy Transfer in Electric Circuits | AC9S6U03",
+      "description": "Year 6 Science: Energy Transfer and Transformation in Circuits. Free topic guide, worksheets, practice and tests. Australian Curriculum v9 AC9S6U03. Victoria VC2S6U09; NSW ST3-SCI-01."
+    }
+  }
+}

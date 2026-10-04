@@ -6,6 +6,8 @@ on:
     paths:
       - 'scripts/normalize_curriculum_search_metadata.py'
       - 'data/curriculum-units.json'
+      - 'data/year6-10-seo-metadata.json'
+      - 'scripts/repair_year6_10_seo_metadata.py'
   workflow_dispatch:
 
 permissions:
@@ -17,8 +19,24 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
       - name: Normalize canonical topic metadata
-        run: python3 scripts/normalize_curriculum_search_metadata.py
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          BASE_SHA: ${{ github.event.before }}
+        run: |
+          python3 - <<'PY'
+          import os, subprocess, sys
+          changed = set(subprocess.check_output(['git', 'diff', '--name-only', os.environ['BASE_SHA'], 'HEAD'], text=True).splitlines()) if os.environ['EVENT_NAME'] == 'push' else set()
+          scoped = {'data/year6-10-seo-metadata.json', 'scripts/repair_year6_10_seo_metadata.py'}
+          if changed & scoped and 'data/curriculum-units.json' not in changed:
+              # A scoped metadata maintenance release must not rewrite other years.
+              subprocess.check_call([sys.executable, 'scripts/repair_year6_10_seo_metadata.py'])
+          else:
+              subprocess.check_call([sys.executable, 'scripts/normalize_curriculum_search_metadata.py'])
+              subprocess.check_call([sys.executable, 'scripts/repair_year6_10_seo_metadata.py', '--write'])
+          PY
       - name: Commit normalized topic metadata
         run: |
           if git diff --quiet; then
@@ -27,6 +45,6 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add foundation year1 year2 year3 year4 year5 year6 year7 year8 year9 year10 reports/curriculum-search-metadata-audit.json
+          git add foundation year1 year2 year3 year4 year5 year6 year7 year8 year9 year10 reports/curriculum-search-metadata-audit.json reports/year6-10-seo-metadata-2026-10-04.json
           git commit -m "Align curriculum metadata with official descriptors and search demand"
           git push

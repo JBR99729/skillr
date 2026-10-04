@@ -26,6 +26,7 @@ ROOT = Path(__file__).resolve().parents[1]
 SITE = "https://skillrhub.com"
 MANIFEST = ROOT / "data" / "curriculum-units.json"
 REPORT = ROOT / "reports" / "curriculum-search-metadata-audit.json"
+SEO_OVERRIDES = ROOT / "data" / "year6-10-seo-metadata.json"
 
 CODE_RE = re.compile(r"^(ac9[a-z0-9]+)", re.I)
 TITLE_RE = re.compile(r"<title[^>]*>[\s\S]*?</title>", re.I)
@@ -159,6 +160,7 @@ def replace_or_insert_meta(text: str, regex: re.Pattern[str], replacement: str) 
 
 def main():
     units = {u["code"].upper(): u for u in json.loads(MANIFEST.read_text(encoding="utf-8"))["units"]}
+    seo_overrides = json.loads(SEO_OVERRIDES.read_text(encoding="utf-8"))["overrides"] if SEO_OVERRIDES.exists() else {}
     mappings = state_mappings()
     changed = []
     skipped = []
@@ -190,6 +192,13 @@ def main():
         topic = descriptor
         title = seo_title(code, topic, y, s)
         description = seo_description(code, descriptor, y, s, victoria_code, nsw_code)
+        # Retain explicitly reviewed, complete topic phrases and concise search
+        # copy during future rebuilds; URLs and full curriculum wording stay put.
+        override = seo_overrides.get(code)
+        if override:
+            assert override["url"] == SITE + expected_self_path(page), code
+            title = override["title"]
+            description = override["description"]
 
         out = raw
         out = TITLE_RE.sub(f"<title>{esc(title)}</title>", out, count=1)
