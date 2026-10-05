@@ -3,10 +3,91 @@
   "summary": {
     "curriculum_codes": 676,
     "codes_with_research_evidence": 676,
-    "canonical_pages_changed": 0,
+    "canonical_pages_changed": 6,
     "skipped": 32
   },
-  "changed": [],
+  "changed": [
+    {
+      "code": "AC9E4LY02",
+      "page": "year4/english/ac9e4ly02-listen-for-key-points-and-information-to-carry-out-tasks/index.html",
+      "source_records": 3,
+      "evidence_types": [
+        "Reviewed for curriculum alignment",
+        "Teaching sequence reviewed",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "reports/f10-revision-card-coverage.json",
+        "reports/year4-english-review/LE01-LY01-RELEASE.md",
+        "reports/year4-english-review/LY02-LY07-AUTHORING-CHECKPOINT.md"
+      ]
+    },
+    {
+      "code": "AC9E4LY03",
+      "page": "year4/english/ac9e4ly03-the-characteristic-features-used-in-imaginative-informative-and/index.html",
+      "source_records": 2,
+      "evidence_types": [
+        "Teaching sequence reviewed",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "reports/f10-revision-card-coverage.json",
+        "reports/year4-english-review/LY02-LY07-AUTHORING-CHECKPOINT.md"
+      ]
+    },
+    {
+      "code": "AC9E4LY04",
+      "page": "year4/english/ac9e4ly04-different-types-of-texts-integrating-phonic-semantic-and/index.html",
+      "source_records": 2,
+      "evidence_types": [
+        "Teaching sequence reviewed",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "reports/f10-revision-card-coverage.json",
+        "reports/year4-english-review/LY02-LY07-AUTHORING-CHECKPOINT.md"
+      ]
+    },
+    {
+      "code": "AC9E4LY05",
+      "page": "year4/english/ac9e4ly05-comprehension-strategies-such-as-visualising-predicting/index.html",
+      "source_records": 2,
+      "evidence_types": [
+        "Teaching sequence reviewed",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "reports/f10-revision-card-coverage.json",
+        "reports/year4-english-review/LY02-LY07-AUTHORING-CHECKPOINT.md"
+      ]
+    },
+    {
+      "code": "AC9E4LY06",
+      "page": "year4/english/ac9e4ly06-plan-create-edit-and-publish-written-and-multimodal-imaginative/index.html",
+      "source_records": 2,
+      "evidence_types": [
+        "Teaching sequence reviewed",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "reports/f10-revision-card-coverage.json",
+        "reports/year4-english-review/LY02-LY07-AUTHORING-CHECKPOINT.md"
+      ]
+    },
+    {
+      "code": "AC9E4LY07",
+      "page": "year4/english/ac9e4ly07-plan-create-rehearse-and-deliver-structured-oral-and-or/index.html",
+      "source_records": 2,
+      "evidence_types": [
+        "Teaching sequence reviewed",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "reports/f10-revision-card-coverage.json",
+        "reports/year4-english-review/LY02-LY07-AUTHORING-CHECKPOINT.md"
+      ]
+    }
+  ],
   "skipped": [
     {
       "code": "AC9S8I01",
