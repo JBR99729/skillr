@@ -1,5 +1,37 @@
 [
   {
+    "id": "year-1-collecting-recording-data",
+    "title": "Year 1 Maths: Collecting & Recording Data 6-Day Worksheets & Test | AC9M1ST01",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "statistics",
+      "data",
+      "data collection",
+      "recording data",
+      "categories",
+      "survey",
+      "lists",
+      "tally marks",
+      "symbols",
+      "practice",
+      "test"
+    ],
+    "curriculumCodes": [
+      "AC9M1ST01"
+    ],
+    "description": "A 43-page Year 1 maths pack with 60 practice questions, a separate 16-question test, illustrated vocabulary, dictation, worked examples and complete answer keys.",
+    "url": "/products/year-1-collecting-recording-data/",
+    "image": "/assets/year-1-collecting-recording-data-cover.svg",
+    "price": "4.00",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "worksheet",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Collecting-Recording-Data-6-Day-Worksheets-Test-AC9M1ST01-17867745"
+  },
+  {
     "id": "year-1-give-follow-directions",
     "title": "Year 1 Maths: Give & Follow Directions 6-Day Worksheets & Test | AC9M1SP02",
     "year": 1,
