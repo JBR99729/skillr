@@ -1,5 +1,38 @@
 [
   {
+    "id": "year-1-time-duration",
+    "title": "Year 1 Maths: Time & Duration 6-Day Worksheets & Test | AC9M1M03",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "measurement",
+      "time",
+      "duration",
+      "days",
+      "months",
+      "weeks",
+      "years",
+      "hours",
+      "calendar",
+      "sequence",
+      "practice",
+      "test"
+    ],
+    "curriculumCodes": [
+      "AC9M1M03"
+    ],
+    "description": "A 42-page Year 1 maths pack with 60 practice questions, a separate 16-question test, illustrated vocabulary, dictation, worked examples and complete answer keys.",
+    "url": "/products/year-1-time-duration/",
+    "image": "/assets/year-1-time-duration-cover.svg",
+    "price": "4.00",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "worksheet",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Time-Duration-6-Day-Worksheets-Test-AC9M1M03-17867276"
+  },
+  {
     "id": "year-1-measuring-length",
     "title": "Year 1 Maths: Measuring Length 6-Day Worksheets & Test | AC9M1M02",
     "year": 1,
