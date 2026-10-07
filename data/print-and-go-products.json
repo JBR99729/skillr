@@ -1,5 +1,37 @@
 [
   {
+    "id": "year-1-pictographs-data-displays",
+    "title": "Year 1 Maths: Pictographs & Data Displays 6-Day Worksheets & Test | AC9M1ST02",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "statistics",
+      "data",
+      "pictographs",
+      "data displays",
+      "graphs",
+      "frequency",
+      "categories",
+      "tally marks",
+      "comparison",
+      "practice",
+      "test"
+    ],
+    "curriculumCodes": [
+      "AC9M1ST02"
+    ],
+    "description": "A 58-page Year 1 maths pack with 60 practice questions, a separate 20-question test, illustrated vocabulary, dictation, worked examples and complete answer keys.",
+    "url": "/products/year-1-pictographs-data-displays/",
+    "image": "/assets/year-1-pictographs-data-displays-cover.svg",
+    "price": "4.00",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "worksheet",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Pictographs-Data-Displays-6-Day-Worksheets-Test-AC9M1ST02-17867818"
+  },
+  {
     "id": "year-1-collecting-recording-data",
     "title": "Year 1 Maths: Collecting & Recording Data 6-Day Worksheets & Test | AC9M1ST01",
     "year": 1,
