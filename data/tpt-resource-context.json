@@ -1,0 +1,2921 @@
+{
+  "observedAt": "2026-10-07",
+  "storefront": "https://www.teacherspayteachers.com/store/skillrhub",
+  "observedProductCount": 124,
+  "codeCount": 102,
+  "evidence": "All seven public store pages inspected. Existing catalogue names and code mappings retained; new listings copied from the live store. Prices and unsupported pack counts intentionally omitted.",
+  "unmappedProductIds": [
+    "17621276",
+    "17204859",
+    "17594338",
+    "17204897",
+    "17593227",
+    "17728088"
+  ],
+  "products": [
+    {
+      "productId": "17273907",
+      "name": "Year 2 Maths Workbook | Australian Curriculum Version 9.0 | Full-Year Resource",
+      "url": "https://www.teacherspayteachers.com/Product/Year-2-Maths-Workbook-Australian-Curriculum-Version-90-Full-Year-Resource-17273907",
+      "curriculumCodes": [
+        "AC9M2A01",
+        "AC9M2A02",
+        "AC9M2A03",
+        "AC9M2M01",
+        "AC9M2M02",
+        "AC9M2M03",
+        "AC9M2M04",
+        "AC9M2M05",
+        "AC9M2N01",
+        "AC9M2N02",
+        "AC9M2N03",
+        "AC9M2N04",
+        "AC9M2N05",
+        "AC9M2N06",
+        "AC9M2SP01",
+        "AC9M2SP02",
+        "AC9M2ST01",
+        "AC9M2ST02"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17710509",
+      "name": "Give & Follow Directions | Year 1 Maths Lesson Slides, Practice & Test|AC9M1SP02",
+      "url": "https://www.teacherspayteachers.com/Product/Give-Follow-Directions-Year-1-Maths-Lesson-Slides-Practice-TestAC9M1SP02-17710509",
+      "curriculumCodes": [
+        "AC9M1SP02"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17593166",
+      "name": "Year 3 Time Teaching Slides | Analogue Clocks & Duration | 60-Slide Pack",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Time-Teaching-Slides-Analogue-Clocks-Duration-60-Slide-Pack-17593166",
+      "curriculumCodes": [
+        "AC9M3M03",
+        "AC9M3M04"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17621276",
+      "name": "Year 1 Maths Practice & Assessment Pack | Handpicked High-Quality Questions",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Practice-Assessment-Pack-Handpicked-High-Quality-Questions--17621276",
+      "curriculumCodes": [],
+      "freeSample": false
+    },
+    {
+      "productId": "17684936",
+      "name": "Familiar Shapes & Objects | Year 1 Maths Lesson Slides & Home Learning|AC9M1SP01",
+      "url": "https://www.teacherspayteachers.com/Product/Familiar-Shapes-Objects-Year-1-Maths-Lesson-Slides-Home-LearningAC9M1SP01-17684936",
+      "curriculumCodes": [
+        "AC9M1SP01"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17679159",
+      "name": "Time,Duration&Event Sequences|Year 1 Maths Lesson Slides&Home Learning|AC9M1M03",
+      "url": "https://www.teacherspayteachers.com/Product/TimeDurationEvent-SequencesYear-1-Maths-Lesson-SlidesHome-LearningAC9M1M03-17679159",
+      "curriculumCodes": [
+        "AC9M1M03"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17678987",
+      "name": "Measuring Length with Informal Units | Year 1 Maths Lesson Slides&Home|AC9M1M02",
+      "url": "https://www.teacherspayteachers.com/Product/Measuring-Length-with-Informal-Units-Year-1-Maths-Lesson-SlidesHomeAC9M1M02-17678987",
+      "curriculumCodes": [
+        "AC9M1M02"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17678407",
+      "name": "Comparing Measurements|Year 1 Maths Lesson Slides & Home Learning Guide|AC9M1M01",
+      "url": "https://www.teacherspayteachers.com/Product/Comparing-MeasurementsYear-1-Maths-Lesson-Slides-Home-Learning-GuideAC9M1M01-17678407",
+      "curriculumCodes": [
+        "AC9M1M01"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17677514",
+      "name": "Repeating Patterns | Year 1 Maths Lesson Slides & Homeschool Pack | AC9M1A02",
+      "url": "https://www.teacherspayteachers.com/Product/Repeating-Patterns-Year-1-Maths-Lesson-Slides-Homeschool-Pack-AC9M1A02-17677514",
+      "curriculumCodes": [
+        "AC9M1A02"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17676771",
+      "name": "Skip Counting by 2s, 5s & 10s | Year 1 Lesson Slides & Homeschool Pack|AC9M1A01",
+      "url": "https://www.teacherspayteachers.com/Product/Skip-Counting-by-2s-5s-10s-Year-1-Lesson-Slides-Homeschool-PackAC9M1A01-17676771",
+      "curriculumCodes": [
+        "AC9M1A01"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17678421",
+      "name": "Year 1 Algebra Bundle | Patterns, Skip Counting & Maths Lesson Slides | Aus V9.0",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Algebra-Bundle-Patterns-Skip-Counting-Maths-Lesson-Slides-Aus-V90-17678421",
+      "curriculumCodes": [
+        "AC9M1A01",
+        "AC9M1A02"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17670474",
+      "name": "Year 1 Addition & Subtraction Problem Solving + Money Lesson Slides | AC9M1N05",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Addition-Subtraction-Problem-Solving-Money-Lesson-Slides-AC9M1N05-17670474",
+      "curriculumCodes": [
+        "AC9M1N05"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17669944",
+      "name": "Addition & Subtraction to 20 | Year 1 Maths Lesson Slides & Worksheets| AC9M1N04",
+      "url": "https://www.teacherspayteachers.com/Product/Addition-Subtraction-to-20-Year-1-Maths-Lesson-Slides-Worksheets-AC9M1N04-17669944",
+      "curriculumCodes": [
+        "AC9M1N04"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17669505",
+      "name": "Equal Groups & Skip Counting | Year 1 Maths Lesson Slides & Worksheets| AC9M1N03",
+      "url": "https://www.teacherspayteachers.com/Product/Equal-Groups-Skip-Counting-Year-1-Maths-Lesson-Slides-Worksheets-AC9M1N03-17669505",
+      "curriculumCodes": [
+        "AC9M1N03"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17669357",
+      "name": "Numbers to 120 | Year 1 Maths Lesson Slides & Worksheets | AC9M1N01",
+      "url": "https://www.teacherspayteachers.com/Product/Numbers-to-120-Year-1-Maths-Lesson-Slides-Worksheets-AC9M1N01-17669357",
+      "curriculumCodes": [
+        "AC9M1N01"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17676629",
+      "name": "Year 1 Equal Sharing & Grouping Lesson Slides + Worksheets | AC9M1N06",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Equal-Sharing-Grouping-Lesson-Slides-Worksheets-AC9M1N06-17676629",
+      "curriculumCodes": [
+        "AC9M1N06"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17669472",
+      "name": "Number Partitioning | Year 1 Maths Lesson Slides & Worksheets | AC9M1N02",
+      "url": "https://www.teacherspayteachers.com/Product/Number-Partitioning-Year-1-Maths-Lesson-Slides-Worksheets-AC9M1N02-17669472",
+      "curriculumCodes": [
+        "AC9M1N02"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17594445",
+      "name": "Year 3 Fractions Teaching Slides | Unit Fractions & Multiples | Australian Curriculum v9.0",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Fractions-Teaching-Slides-Unit-Fractions-Multiples-Australian-V90-17594445",
+      "curriculumCodes": [
+        "AC9M3N02"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17594247",
+      "name": "Year 3 Multiplication & Division Teaching Slides | Australian Curriculum v9",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Multiplication-Division-Teaching-Slides-Australian-Curriculum-v9-17594247",
+      "curriculumCodes": [
+        "AC9M3A03",
+        "AC9M3N04"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17593120",
+      "name": "Year 3 Time Teaching Slides | Analogue Clocks & Duration",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Time-Teaching-Slides-Analogue-Clocks-Duration-17593120",
+      "curriculumCodes": [
+        "AC9M3M03",
+        "AC9M3M04"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17594471",
+      "name": "Year 3 Fractions Bundle | Workbook & Lesson Slides | AC9M3N02 Australian v9",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Fractions-Bundle-Workbook-Lesson-Slides-AC9M3N02-Australian-v9-17594471",
+      "curriculumCodes": [
+        "AC9M3N02"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17204859",
+      "name": "Year 1 Science – Science Inquiry Skills | Australian Curriculum v9.0 | Part 1",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Science-Science-Inquiry-Skills-Australian-Curriculum-v90-Part-1-17204859",
+      "curriculumCodes": [],
+      "freeSample": false
+    },
+    {
+      "productId": "17594426",
+      "name": "Year 3 Fractions Workbook | 80 Questions & Answers | Australian Curriculum v9.0",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Fractions-Workbook-80-Questions-Answers-Australian-Curriculum-v90-17594426",
+      "curriculumCodes": [
+        "AC9M3N02"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17594338",
+      "name": "Year 3 Multiplication & Division Bundle | Workbook + Teaching Slides | AC v9",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Multiplication-Division-Bundle-Workbook-Teaching-Slides-AC-v9-17594338",
+      "curriculumCodes": [],
+      "freeSample": false
+    },
+    {
+      "productId": "17204897",
+      "name": "Year 1 Science Inquiry Skills | Questioning, Planning & Processing | Part 2",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Science-Inquiry-Skills-Questioning-Planning-Processing-Part-2-17204897",
+      "curriculumCodes": [],
+      "freeSample": false
+    },
+    {
+      "productId": "17593227",
+      "name": "Year 3 Time Bundle | Analogue Clocks, Duration, Teaching Slides & Worksheets",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Time-Bundle-Analogue-Clocks-Duration-Teaching-Slides-Worksheets-17593227",
+      "curriculumCodes": [],
+      "freeSample": false
+    },
+    {
+      "productId": "17204675",
+      "name": "Year 1 Science – Physical Sciences | Australian Curriculum v9.0 | Pushes & Pulls",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Science-Physical-Sciences-Australian-Curriculum-v90-Pushes-Pulls-17204675",
+      "curriculumCodes": [
+        "AC9S1U03"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17204777",
+      "name": "Year 1 – Science as a Human Endeavour | Australian Curriculum v9.0 | Lessons",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Science-as-a-Human-Endeavour-Australian-Curriculum-v90-Lessons-17204777",
+      "curriculumCodes": [
+        "AC9S1H01"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17204732",
+      "name": "Year 1 Science – Earth and Space Sciences | Australian Curriculum v9.0 | Lessons",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Science-Earth-and-Space-Sciences-Australian-Curriculum-v90-Lessons-17204732",
+      "curriculumCodes": [
+        "AC9S1U02"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17594291",
+      "name": "Year 3 Multiplication & Division Workbook | 144 Questions | Australian Curriculum v9.0",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Multiplication-Division-Workbook-144-Questions-Australian-V90-17594291",
+      "curriculumCodes": [
+        "AC9M3A03",
+        "AC9M3N04"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17592266",
+      "name": "Year 3 Time Practice Pack | Analogue Clocks & Duration | AC9M3M03 AC9M3M04",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Time-Practice-Pack-Analogue-Clocks-Duration-AC9M3M03-AC9M3M04-17592266",
+      "curriculumCodes": [
+        "AC9M3M03",
+        "AC9M3M04"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17620166",
+      "name": "FREE 2nd Grade Place Value Worksheet | Numbers to 1000 + Answer Key",
+      "url": "https://www.teacherspayteachers.com/Product/FREE-2nd-Grade-Place-Value-Worksheet-Numbers-to-1000-Answer-Key-17620166",
+      "curriculumCodes": [
+        "AC9M2N01"
+      ],
+      "freeSample": true
+    },
+    {
+      "productId": "17670322",
+      "name": "FREE Year 6 Fractions, Decimals & Percentages Worksheet | AC9M6N03",
+      "url": "https://www.teacherspayteachers.com/Product/FREE-Year-6-Fractions-Decimals-Percentages-Worksheet-AC9M6N03-17670322",
+      "curriculumCodes": [
+        "AC9M6N03"
+      ],
+      "freeSample": true
+    },
+    {
+      "productId": "17567833",
+      "name": "FREE Year 5 Decimals Worksheets | Place Value, Comparing & Rounding Decimals",
+      "url": "https://www.teacherspayteachers.com/Product/FREE-Year-5-Decimals-Worksheets-Place-Value-Comparing-Rounding-Decimals-17567833",
+      "curriculumCodes": [
+        "AC9M5N01"
+      ],
+      "freeSample": true
+    },
+    {
+      "productId": "17592010",
+      "name": "FREE Year 3 Time Duration Worksheets | Hours, Minutes, Seconds | AC9M3M03",
+      "url": "https://www.teacherspayteachers.com/Product/FREE-Year-3-Time-Duration-Worksheets-Hours-Minutes-Seconds-AC9M3M03-17592010",
+      "curriculumCodes": [
+        "AC9M3M03"
+      ],
+      "freeSample": true
+    },
+    {
+      "productId": "17620155",
+      "name": "FREE 1st Grade Addition & Subtraction to 20 Worksheet | No Prep Math",
+      "url": "https://www.teacherspayteachers.com/Product/FREE-1st-Grade-Addition-Subtraction-to-20-Worksheet-No-Prep-Math-17620155",
+      "curriculumCodes": [
+        "AC9M1N04"
+      ],
+      "freeSample": true
+    },
+    {
+      "productId": "17620145",
+      "name": "FREE Kindergarten Numbers to 20 Worksheet | Counting & Number Recognition",
+      "url": "https://www.teacherspayteachers.com/Product/FREE-Kindergarten-Numbers-to-20-Worksheet-Counting-Number-Recognition-17620145",
+      "curriculumCodes": [
+        "AC9MFN01"
+      ],
+      "freeSample": true
+    },
+    {
+      "productId": "17593083",
+      "name": "Year 3 Time Teaching Slides Sample Pack | Analogue Clocks & Duration",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Time-Teaching-Slides-Sample-Pack-Analogue-Clocks-Duration-17593083",
+      "curriculumCodes": [
+        "AC9M3M03",
+        "AC9M3M04"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17526065",
+      "name": "Year 4 Fractions FREE Worksheet Pack | Equivalent Fractions & Number Lines",
+      "url": "https://www.teacherspayteachers.com/Product/Year-4-Fractions-FREE-Worksheet-Pack-Equivalent-Fractions-Number-Lines--17526065",
+      "curriculumCodes": [
+        "AC9M4N03",
+        "AC9M4N04"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17492537",
+      "name": "Year 3 Telling Time FREE Worksheets | Analog Clocks | AC9M3M04",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Telling-Time-FREE-Worksheets-Analog-Clocks-AC9M3M04-17492537",
+      "curriculumCodes": [
+        "AC9M3M04"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17273749",
+      "name": "Year 2 Numbers to 1000 Free Lesson | Place Value Worksheets | AC9M2N01",
+      "url": "https://www.teacherspayteachers.com/Product/Year-2-Numbers-to-1000-Free-Lesson-Place-Value-Worksheets-AC9M2N01-17273749",
+      "curriculumCodes": [
+        "AC9M2N01"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17204521",
+      "name": "Year 1 Biological Sciences | Chapter 1: Introduction to Biological Sciences",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Biological-Sciences-Chapter-1-Introduction-to-Biological-Sciences-17204521",
+      "curriculumCodes": [
+        "AC9S1U01"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17719151",
+      "name": "Year 1 Science in Everyday Life | Patterns & Predictions | AC9S1H01 Lesson Slide",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Science-in-Everyday-Life-Patterns-Predictions-AC9S1H01-Lesson-Slide-17719151",
+      "curriculumCodes": [
+        "AC9S1H01"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17718482",
+      "name": "Pushes & Pulls | Year 1 Science Lesson Slides & Force Investigations | AC9S1U03",
+      "url": "https://www.teacherspayteachers.com/Product/Pushes-Pulls-Year-1-Science-Lesson-Slides-Force-Investigations-AC9S1U03-17718482",
+      "curriculumCodes": [
+        "AC9S1U03"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17718181",
+      "name": "Daily&Seasonal Changes| Year 1 Science Lesson Slides&Weather Activities|AC9S1U02",
+      "url": "https://www.teacherspayteachers.com/Product/DailySeasonal-Changes-Year-1-Science-Lesson-SlidesWeather-ActivitiesAC9S1U02-17718181",
+      "curriculumCodes": [
+        "AC9S1U02"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17717457",
+      "name": "Needs of Plants & Animals|Year 1 Science Lesson Slides&Home Activities|AC9S1U01",
+      "url": "https://www.teacherspayteachers.com/Product/Needs-of-Plants-AnimalsYear-1-Science-Lesson-SlidesHome-ActivitiesAC9S1U01-17717457",
+      "curriculumCodes": [
+        "AC9S1U01"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17716709",
+      "name": "Representing Comparing & Discussing Data | Year 1 Maths Lesson Slides| AC9M1ST02",
+      "url": "https://www.teacherspayteachers.com/Product/Representing-Comparing-Discussing-Data-Year-1-Maths-Lesson-Slides-AC9M1ST02-17716709",
+      "curriculumCodes": [
+        "AC9M1ST02"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17710715",
+      "name": "Collecting & Recording Data | Year 1 Maths Lesson Slides | AC9M1ST01",
+      "url": "https://www.teacherspayteachers.com/Product/Collecting-Recording-Data-Year-1-Maths-Lesson-Slides-AC9M1ST01-17710715",
+      "curriculumCodes": [
+        "AC9M1ST01"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17736411",
+      "name": "I like it because…",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-English-Preferences-Slides-AC9E1LA02-Australian-Curriculum-v9-17736411",
+      "curriculumCodes": [
+        "AC9E1LA02"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17736863",
+      "name": "Repeat, rhyme and rhythm",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Rhyme-Rhythm-Slides-AC9E1LA04-Australian-Curriculum-v9-17736863",
+      "curriculumCodes": [
+        "AC9E1LA04"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17736971",
+      "name": "Finding your way through texts",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Text-Features-Slides-AC9E1LA05-Print-Screen-Texts-17736971",
+      "curriculumCodes": [
+        "AC9E1LA05"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17737053",
+      "name": "Build a complete sentence",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Complete-Sentences-Slides-AC9E1LA06-Australian-Curriculum-v9-17737053",
+      "curriculumCodes": [
+        "AC9E1LA06"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17737193",
+      "name": "Words have jobs",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Parts-of-Speech-Slides-AC9E1LA07-Australian-Curriculum-v9-17737193",
+      "curriculumCodes": [
+        "AC9E1LA07"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17737343",
+      "name": "Pictures help us understand",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Visual-Literacy-Slides-AC9E1LA08-Australian-Curriculum-v9-17737343",
+      "curriculumCodes": [
+        "AC9E1LA08"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17737649",
+      "name": "Topic words help us learn",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Topic-Vocabulary-Slides-AC9E1LA09-Australian-Curriculum-v9-17737649",
+      "curriculumCodes": [
+        "AC9E1LA09"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17737657",
+      "name": "Punctuation gives us clues",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Punctuation-Capital-Letters-Slides-AC9E1LA10-Curriculum-v9-17737657",
+      "curriculumCodes": [
+        "AC9E1LA10"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17743951",
+      "name": "Words and pictures build a story",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Story-Elements-Slides-AC9E1LE01-Australian-Curriculum-v9-17743951",
+      "curriculumCodes": [
+        "AC9E1LE01"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17744486",
+      "name": "Stories connect to our lives",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Story-Connections-Slides-AC9E1LE02-Australian-Curriculum-v9-17744486",
+      "curriculumCodes": [
+        "AC9E1LE02"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17744721",
+      "name": "Characters, settings and plot",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Characters-Settings-Plot-Slides-AC9E1LE03-Curriculum-v9-17744721",
+      "curriculumCodes": [
+        "AC9E1LE03"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17745214",
+      "name": "Playing with sounds",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Rhyme-Rhythm-Alliteration-Slides-AC9E1LE04-17745214",
+      "curriculumCodes": [
+        "AC9E1LE04"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17745451",
+      "name": "Retell it, change it",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Story-Retelling-Adaptation-Slides-AC9E1LE05-17745451",
+      "curriculumCodes": [
+        "AC9E1LE05"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17745803",
+      "name": "What is this text for?",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Text-Purpose-Slides-AC9E1LY01-Australian-Curriculum-v9-17745803",
+      "curriculumCodes": [
+        "AC9E1LY01"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17745962",
+      "name": "Listen, take turns, join in",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Speaking-Listening-Slides-Turn-Taking-AC9E1LY02-17745962",
+      "curriculumCodes": [
+        "AC9E1LY02"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17746080",
+      "name": "Same or different texts",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Compare-Text-Types-Slides-AC9E1LY03-Australian-Curriculum-v9-17746080",
+      "curriculumCodes": [
+        "AC9E1LY03"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17746230",
+      "name": "Read it, check it, make it make sense",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Phonics-Fluent-Reading-Slides-AC9E1LY04-17746230",
+      "curriculumCodes": [
+        "AC9E1LY04"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17746391",
+      "name": "Think while you read",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Reading-Comprehension-Strategies-Slides-AC9E1LY05-17746391",
+      "curriculumCodes": [
+        "AC9E1LY05"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17869356",
+      "name": "Year 5 Decimals Worksheets, Test & Teaching PowerPoint | AC9M5N01",
+      "url": "https://www.teacherspayteachers.com/Product/Year-5-Decimals-Worksheets-Test-Teaching-PowerPoint-AC9M5N01-17869356",
+      "curriculumCodes": [
+        "AC9M5N01"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17869034",
+      "name": "Year 1 Science: Plants & Animals Needs 6-Day Worksheets & Test | AC9S1U01",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Science-Plants-Animals-Needs-6-Day-Worksheets-Test-AC9S1U01-17869034",
+      "curriculumCodes": [
+        "AC9S1U01"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17867818",
+      "name": "Year 1 Maths: Pictographs & Data Displays 6-Day Worksheets & Test | AC9M1ST02",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Pictographs-Data-Displays-6-Day-Worksheets-Test-AC9M1ST02-17867818",
+      "curriculumCodes": [
+        "AC9M1ST02"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17867745",
+      "name": "Year 1 Maths: Collecting & Recording Data 6-Day Worksheets & Test | AC9M1ST01",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Collecting-Recording-Data-6-Day-Worksheets-Test-AC9M1ST01-17867745",
+      "curriculumCodes": [
+        "AC9M1ST01"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17867511",
+      "name": "Year 1 Maths: Give & Follow Directions 6-Day Worksheets & Test | AC9M1SP02",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Give-Follow-Directions-6-Day-Worksheets-Test-AC9M1SP02-17867511",
+      "curriculumCodes": [
+        "AC9M1SP02"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17867400",
+      "name": "Year 1 Maths: Shapes & Objects 6-Day Worksheets & Test | AC9M1SP01",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Shapes-Objects-6-Day-Worksheets-Test-AC9M1SP01-17867400",
+      "curriculumCodes": [
+        "AC9M1SP01"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17867276",
+      "name": "Year 1 Maths: Time & Duration 6-Day Worksheets & Test | AC9M1M03",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Time-Duration-6-Day-Worksheets-Test-AC9M1M03-17867276",
+      "curriculumCodes": [
+        "AC9M1M03"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17867187",
+      "name": "Year 1 Maths: Measuring Length 6-Day Worksheets & Test | AC9M1M02",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Measuring-Length-6-Day-Worksheets-Test-AC9M1M02-17867187",
+      "curriculumCodes": [
+        "AC9M1M02"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17866956",
+      "name": "Year 1 Maths: Comparing Measurements 6-Day Worksheets & Test | AC9M1M01",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Comparing-Measurements-6-Day-Worksheets-Test-AC9M1M01-17866956",
+      "curriculumCodes": [
+        "AC9M1M01"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17865943",
+      "name": "Year 1 Maths: Repeating Patterns 6-Day Worksheets & Test | AC9M1A02",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Repeating-Patterns-6-Day-Worksheets-Test-AC9M1A02-17865943",
+      "curriculumCodes": [
+        "AC9M1A02"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17865797",
+      "name": "Year 1 Maths: Skip Counting Patterns 6-Day Worksheets & Test | AC9M1A01",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Skip-Counting-Patterns-6-Day-Worksheets-Test-AC9M1A01-17865797",
+      "curriculumCodes": [
+        "AC9M1A01"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17865685",
+      "name": "Year 1 Maths: Equal Sharing & Grouping 5-Day Worksheets & Test | AC9M1N06",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Equal-Sharing-Grouping-5-Day-Worksheets-Test-AC9M1N06-17865685",
+      "curriculumCodes": [
+        "AC9M1N06"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17865530",
+      "name": "Year 1 Maths: Word Problems & Money 6-Day Worksheets & Test | AC9M1N05",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Word-Problems-Money-6-Day-Worksheets-Test-AC9M1N05-17865530",
+      "curriculumCodes": [
+        "AC9M1N05"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17865364",
+      "name": "Year 1 Maths: Addition & Subtraction to 20 5-Day Worksheets & Test | AC9M1N04",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Addition-Subtraction-to-20-5-Day-Worksheets-Test-AC9M1N04-17865364",
+      "curriculumCodes": [
+        "AC9M1N04"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17865133",
+      "name": "Year 1 Maths: Equal Groups & Skip Counting 5-Day Worksheets & Test | AC9M1N03",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Equal-Groups-Skip-Counting-5-Day-Worksheets-Test-AC9M1N03-17865133",
+      "curriculumCodes": [
+        "AC9M1N03"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17864784",
+      "name": "Year 1 Place Value & Number Partitioning Worksheets | Tens and Ones | AC9M1N02",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Place-Value-Number-Partitioning-Worksheets-Tens-and-Ones-AC9M1N02-17864784",
+      "curriculumCodes": [
+        "AC9M1N02"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17720276",
+      "name": "Year 1 Science Inquiry Skills | Questioning & Predicting Slides | AC9S1I01",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Science-Inquiry-Skills-Questioning-Predicting-Slides-AC9S1I01-17720276",
+      "curriculumCodes": [
+        "AC9S1I01"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17792767",
+      "name": "Year 1 Handwriting Slides | AC9E1LY08 | Australian Curriculum v9",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Handwriting-Slides-AC9E1LY08-Australian-Curriculum-v9-17792767",
+      "curriculumCodes": [
+        "AC9E1LY08"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17856838",
+      "name": "Foundation English Oral Language Slides | AC9EFLA01 | Australian Curriculum v9",
+      "url": "https://www.teacherspayteachers.com/Product/Foundation-English-Oral-Language-Slides-AC9EFLA01-Australian-Curriculum-v9-17856838",
+      "curriculumCodes": [
+        "AC9EFLA01"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17842866",
+      "name": "Foundation Safe Science Investigations | AC9SFI02 | Australian Curriculum v9",
+      "url": "https://www.teacherspayteachers.com/Product/Foundation-Safe-Science-Investigations-AC9SFI02-Australian-Curriculum-v9-17842866",
+      "curriculumCodes": [
+        "AC9SFI02"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17842475",
+      "name": "Foundation Science Questions and Predictions Slides | AC9SFI01",
+      "url": "https://www.teacherspayteachers.com/Product/Foundation-Science-Questions-and-Predictions-Slides-AC9SFI01-17842475",
+      "curriculumCodes": [
+        "AC9SFI01"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17842350",
+      "name": "Foundation Nature Observation Slides | AC9SFH01 | Australian Curriculum v9",
+      "url": "https://www.teacherspayteachers.com/Product/Foundation-Nature-Observation-Slides-AC9SFH01-Australian-Curriculum-v9-17842350",
+      "curriculumCodes": [
+        "AC9SFH01"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17813656",
+      "name": "Foundation How Objects Move Slides | AC9SFU02 | Australian Curriculum v9",
+      "url": "https://www.teacherspayteachers.com/Product/Foundation-How-Objects-Move-Slides-AC9SFU02-Australian-Curriculum-v9-17813656",
+      "curriculumCodes": [
+        "AC9SFU02"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17812573",
+      "name": "Foundation Plants & Animals Slides | AC9SFU01 | Australian Curriculum v9",
+      "url": "https://www.teacherspayteachers.com/Product/Foundation-Plants-Animals-Slides-AC9SFU01-Australian-Curriculum-v9-17812573",
+      "curriculumCodes": [
+        "AC9SFU01"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17812026",
+      "name": "Foundation Data Sorting Slides | AC9MFST01 | Australian Curriculum v9",
+      "url": "https://www.teacherspayteachers.com/Product/Foundation-Data-Sorting-Slides-AC9MFST01-Australian-Curriculum-v9-17812026",
+      "curriculumCodes": [
+        "AC9MFST01"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17811759",
+      "name": "Foundation Position & Directions | AC9MFSP02 | Australian Curriculum v9",
+      "url": "https://www.teacherspayteachers.com/Product/Foundation-Position-Directions-AC9MFSP02-Australian-Curriculum-v9-17811759",
+      "curriculumCodes": [
+        "AC9MFSP02"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17811456",
+      "name": "Foundation Days and Times Slides | AC9MFM02 | Australian Curriculum v9",
+      "url": "https://www.teacherspayteachers.com/Product/Foundation-Days-and-Times-Slides-AC9MFM02-Australian-Curriculum-v9-17811456",
+      "curriculumCodes": [
+        "AC9MFM02"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17803594",
+      "name": "Foundation Counting & Comparing to 20 | AC9MFN03 | Australian Curriculum v9",
+      "url": "https://www.teacherspayteachers.com/Product/Foundation-Counting-Comparing-to-20-AC9MFN03-Australian-Curriculum-v9-17803594",
+      "curriculumCodes": [
+        "AC9MFN03"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17793855",
+      "name": "Year 1 Phoneme Manipulation Slides | AC9E1LY10 | Australian Curriculum v9",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Phoneme-Manipulation-Slides-AC9E1LY10-Australian-Curriculum-v9-17793855",
+      "curriculumCodes": [
+        "AC9E1LY10"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17811158",
+      "name": "Foundation Familiar Shapes Slides | AC9MFSP01 | Australian Curriculum v9",
+      "url": "https://www.teacherspayteachers.com/Product/Foundation-Familiar-Shapes-Slides-AC9MFSP01-Australian-Curriculum-v9-17811158",
+      "curriculumCodes": [
+        "AC9MFSP01"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17793696",
+      "name": "Year 1 Phoneme Segmentation Slides | AC9E1LY09 | Australian Curriculum v9",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Phoneme-Segmentation-Slides-AC9E1LY09-Australian-Curriculum-v9-17793696",
+      "curriculumCodes": [
+        "AC9E1LY09"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17792524",
+      "name": "Year 1 Oral Presentation Slides | AC9E1LY07 | Australian Curriculum v9",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Oral-Presentation-Slides-AC9E1LY07-Australian-Curriculum-v9-17792524",
+      "curriculumCodes": [
+        "AC9E1LY07"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17728279",
+      "name": "Year 1 Science Data & Patterns | Sorting and Ordering Slides | AC9S1I04",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Science-Data-Patterns-Sorting-and-Ordering-Slides-AC9S1I04-17728279",
+      "curriculumCodes": [
+        "AC9S1I04"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17727914",
+      "name": "Year 1 Science Investigations | Safety & Planning Slides | AC9S1I02",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Science-Investigations-Safety-Planning-Slides-AC9S1I02-17727914",
+      "curriculumCodes": [
+        "AC9S1I02"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17844340",
+      "name": "Foundation Science Communication Slides | AC9SFI05 | Australian Curriculum v9",
+      "url": "https://www.teacherspayteachers.com/Product/Foundation-Science-Communication-Slides-AC9SFI05-Australian-Curriculum-v9-17844340",
+      "curriculumCodes": [
+        "AC9SFI05"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17843715",
+      "name": "Foundation Science Predictions & Observations | AC9SFI04 | Australian v9",
+      "url": "https://www.teacherspayteachers.com/Product/Foundation-Science-Predictions-Observations-AC9SFI04-Australian-v9-17843715",
+      "curriculumCodes": [
+        "AC9SFI04"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17843349",
+      "name": "Foundation Science Observations & Patterns | AC9SFI03 | Australian v9",
+      "url": "https://www.teacherspayteachers.com/Product/Foundation-Science-Observations-Patterns-AC9SFI03-Australian-v9-17843349",
+      "curriculumCodes": [
+        "AC9SFI03"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17840189",
+      "name": "Foundation Materials and Properties Slides | AC9SFU03 | Australian Curriculum v9",
+      "url": "https://www.teacherspayteachers.com/Product/Foundation-Materials-and-Properties-Slides-AC9SFU03-Australian-Curriculum-v9-17840189",
+      "curriculumCodes": [
+        "AC9SFU03"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17810632",
+      "name": "Foundation Repeating Patterns Slides | AC9MFA01 | Australian Curriculum v9",
+      "url": "https://www.teacherspayteachers.com/Product/Foundation-Repeating-Patterns-Slides-AC9MFA01-Australian-Curriculum-v9-17810632",
+      "curriculumCodes": [
+        "AC9MFA01"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17804195",
+      "name": "Foundation Joining and Taking Away | AC9MFN05 | Australian Curriculum v9",
+      "url": "https://www.teacherspayteachers.com/Product/Foundation-Joining-and-Taking-Away-AC9MFN05-Australian-Curriculum-v9-17804195",
+      "curriculumCodes": [
+        "AC9MFN05"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17804874",
+      "name": "Foundation Measurement Comparisons | AC9MFM01 | Australian Curriculum v9",
+      "url": "https://www.teacherspayteachers.com/Product/Foundation-Measurement-Comparisons-AC9MFM01-Australian-Curriculum-v9-17804874",
+      "curriculumCodes": [
+        "AC9MFM01"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17804595",
+      "name": "Foundation Fair Shares & Equal Groups | AC9MFN06 | Australian Curriculum v9",
+      "url": "https://www.teacherspayteachers.com/Product/Foundation-Fair-Shares-Equal-Groups-AC9MFN06-Australian-Curriculum-v9-17804595",
+      "curriculumCodes": [
+        "AC9MFN06"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17803723",
+      "name": "Foundation Parts and Wholes to 10 | AC9MFN04 | Australian Curriculum v9",
+      "url": "https://www.teacherspayteachers.com/Product/Foundation-Parts-and-Wholes-to-10-AC9MFN04-Australian-Curriculum-v9-17803723",
+      "curriculumCodes": [
+        "AC9MFN04"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17802766",
+      "name": "Foundation Subitising 0–5 Slides | AC9MFN02 | Australian Curriculum v9",
+      "url": "https://www.teacherspayteachers.com/Product/Foundation-Subitising-05-Slides-AC9MFN02-Australian-Curriculum-v9-17802766",
+      "curriculumCodes": [
+        "AC9MFN02"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17802130",
+      "name": "Foundation Numbers 0–20 Slides | AC9MFN01 | Australian Curriculum v9",
+      "url": "https://www.teacherspayteachers.com/Product/Foundation-Numbers-020-Slides-AC9MFN01-Australian-Curriculum-v9-17802130",
+      "curriculumCodes": [
+        "AC9MFN01"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17795150",
+      "name": "Year 1 High-Frequency Word Slides | AC9E1LY14 | Australian Curriculum v9",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-High-Frequency-Word-Slides-AC9E1LY14-Australian-Curriculum-v9-17795150",
+      "curriculumCodes": [
+        "AC9E1LY14"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17730055",
+      "name": "Show & Explain Your Science | Year 1 Science Communication Lessons | AC9S1I06",
+      "url": "https://www.teacherspayteachers.com/Product/Show-Explain-Your-Science-Year-1-Science-Communication-Lessons-AC9S1I06-17730055",
+      "curriculumCodes": [
+        "AC9S1I06"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17729544",
+      "name": "Did It Match? | Year 1 Science Investigation Evaluation Slides | AC9S1I05",
+      "url": "https://www.teacherspayteachers.com/Product/Did-It-Match-Year-1-Science-Investigation-Evaluation-Slides-AC9S1I05-17729544",
+      "curriculumCodes": [
+        "AC9S1I05"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17728068",
+      "name": "Year 1 Science Observations | Measuring & Recording Slides | AC9S1I03",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Science-Observations-Measuring-Recording-Slides-AC9S1I03-17728068",
+      "curriculumCodes": [
+        "AC9S1I03"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17795280",
+      "name": "Year 1 Word Families Slides | AC9E1LY15 | Australian Curriculum v9",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Word-Families-Slides-AC9E1LY15-Australian-Curriculum-v9-17795280",
+      "curriculumCodes": [
+        "AC9E1LY15"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17794756",
+      "name": "Year 1 Spelling Slides | AC9E1LY13 | Australian Curriculum v9",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Spelling-Slides-AC9E1LY13-Australian-Curriculum-v9-17794756",
+      "curriculumCodes": [
+        "AC9E1LY13"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17794632",
+      "name": "Year 1 Letters, Sounds & Syllables | AC9E1LY12 | Australian Curriculum v9",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Letters-Sounds-Syllables-AC9E1LY12-Australian-Curriculum-v9-17794632",
+      "curriculumCodes": [
+        "AC9E1LY12"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17794524",
+      "name": "Year 1 Phonics Word Building Slides | AC9E1LY11 | Australian Curriculum v9",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Phonics-Word-Building-Slides-AC9E1LY11-Australian-Curriculum-v9-17794524",
+      "curriculumCodes": [
+        "AC9E1LY11"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17791625",
+      "name": "Year 1 Writing and Editing Slides | AC9E1LY06 | Australian Curriculum v9",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Writing-and-Editing-Slides-AC9E1LY06-Australian-Curriculum-v9-17791625",
+      "curriculumCodes": [
+        "AC9E1LY06"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17744877",
+      "name": "Year 1 Rhyme, Rhythm & Alliteration Slides | AC9E1LE04 | Curriculum v9",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Rhyme-Rhythm-Alliteration-Slides-AC9E1LE04-Curriculum-v9-17744877",
+      "curriculumCodes": [
+        "AC9E1LE04"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17839947",
+      "name": "Foundation Numbers to 20 Worksheets | AC9MFN01 | Australian Curriculum v9",
+      "url": "https://www.teacherspayteachers.com/Product/Foundation-Numbers-to-20-Worksheets-AC9MFN01-Australian-Curriculum-v9-17839947",
+      "curriculumCodes": [
+        "AC9MFN01"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17728088",
+      "name": "FREE Year 5 Reading Comprehension | Australian Curriculum v9 Starter Pack",
+      "url": "https://www.teacherspayteachers.com/Product/FREE-Year-5-Reading-Comprehension-Australian-Curriculum-v9-Starter-Pack-17728088",
+      "curriculumCodes": [],
+      "freeSample": true
+    },
+    {
+      "productId": "17864634",
+      "name": "Year 1 Maths: Numbers to 120 6-Day Worksheets & Test | AC9M1N01",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Numbers-to-120-6-Day-Worksheets-Test-AC9M1N01-17864634",
+      "curriculumCodes": [
+        "AC9M1N01"
+      ],
+      "freeSample": false
+    }
+  ],
+  "codes": [
+    {
+      "code": "AC9E1LA02",
+      "year": "Year 1",
+      "subject": "English",
+      "strand": "Language",
+      "descriptor": "explore language to provide reasons for likes, dislikes and preferences",
+      "topicUrl": "https://skillrhub.com/year1/english/ac9e1la02-language-to-provide-reasons-for-likes-dislikes-and-preferences/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/english/ac9e1la02/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/english/ac9e1la02/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/english/ac9e1la02/test/",
+        "Classroom View": "https://skillrhub.com/year1/english/ac9e1la02-language-to-provide-reasons-for-likes-dislikes-and-preferences/teacher-slides/"
+      },
+      "productIds": [
+        "17736411"
+      ]
+    },
+    {
+      "code": "AC9E1LA04",
+      "year": "Year 1",
+      "subject": "English",
+      "strand": "Language",
+      "descriptor": "explore how repetition, rhyme and rhythm create cohesion in simple poems, chants and songs",
+      "topicUrl": "https://skillrhub.com/year1/english/ac9e1la04-how-repetition-rhyme-and-rhythm-create-cohesion-in-simple-poems/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/english/ac9e1la04/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/english/ac9e1la04/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/english/ac9e1la04/test/",
+        "Classroom View": "https://skillrhub.com/year1/english/ac9e1la04-how-repetition-rhyme-and-rhythm-create-cohesion-in-simple-poems/teacher-slides/"
+      },
+      "productIds": [
+        "17736863"
+      ]
+    },
+    {
+      "code": "AC9E1LA05",
+      "year": "Year 1",
+      "subject": "English",
+      "strand": "Language",
+      "descriptor": "understand how print and screen texts are organised using features such as page numbers, tables of content, headings and titles, navigation buttons, swipe screens, verbal commands, links and images",
+      "topicUrl": "https://skillrhub.com/year1/english/ac9e1la05-how-print-and-screen-texts-are-organised-using-features-such/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/english/ac9e1la05/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/english/ac9e1la05/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/english/ac9e1la05/test/",
+        "Classroom View": "https://skillrhub.com/year1/english/ac9e1la05-how-print-and-screen-texts-are-organised-using-features-such/teacher-slides/"
+      },
+      "productIds": [
+        "17736971"
+      ]
+    },
+    {
+      "code": "AC9E1LA06",
+      "year": "Year 1",
+      "subject": "English",
+      "strand": "Language",
+      "descriptor": "understand that a simple sentence consists of a single independent clause representing a single event or idea",
+      "topicUrl": "https://skillrhub.com/year1/english/ac9e1la06-that-a-simple-sentence-consists-of-a-single-independent-clause/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/english/ac9e1la06/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/english/ac9e1la06/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/english/ac9e1la06/test/",
+        "Classroom View": "https://skillrhub.com/year1/english/ac9e1la06-that-a-simple-sentence-consists-of-a-single-independent-clause/teacher-slides/"
+      },
+      "productIds": [
+        "17737053"
+      ]
+    },
+    {
+      "code": "AC9E1LA07",
+      "year": "Year 1",
+      "subject": "English",
+      "strand": "Language",
+      "descriptor": "understand that words can represent people, places and things (nouns, including pronouns), happenings and states (verbs), qualities (adjectives) and details such as when, where and how (adverbs)",
+      "topicUrl": "https://skillrhub.com/year1/english/ac9e1la07-that-words-can-represent-people-places-and-things-nouns/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/english/ac9e1la07/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/english/ac9e1la07/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/english/ac9e1la07/test/",
+        "Classroom View": "https://skillrhub.com/year1/english/ac9e1la07-that-words-can-represent-people-places-and-things-nouns/teacher-slides/"
+      },
+      "productIds": [
+        "17737193"
+      ]
+    },
+    {
+      "code": "AC9E1LA08",
+      "year": "Year 1",
+      "subject": "English",
+      "strand": "Language",
+      "descriptor": "compare how images in different types of texts contribute to meaning",
+      "topicUrl": "https://skillrhub.com/year1/english/ac9e1la08-how-images-in-different-types-of-texts-contribute-to-meaning/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/english/ac9e1la08/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/english/ac9e1la08/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/english/ac9e1la08/test/",
+        "Classroom View": "https://skillrhub.com/year1/english/ac9e1la08-how-images-in-different-types-of-texts-contribute-to-meaning/teacher-slides/"
+      },
+      "productIds": [
+        "17737343"
+      ]
+    },
+    {
+      "code": "AC9E1LA09",
+      "year": "Year 1",
+      "subject": "English",
+      "strand": "Language",
+      "descriptor": "recognise the vocabulary of learning area topics",
+      "topicUrl": "https://skillrhub.com/year1/english/ac9e1la09-the-vocabulary-of-learning-area-topics/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/english/ac9e1la09/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/english/ac9e1la09/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/english/ac9e1la09/test/",
+        "Classroom View": "https://skillrhub.com/year1/english/ac9e1la09-the-vocabulary-of-learning-area-topics/teacher-slides/"
+      },
+      "productIds": [
+        "17737649"
+      ]
+    },
+    {
+      "code": "AC9E1LA10",
+      "year": "Year 1",
+      "subject": "English",
+      "strand": "Language",
+      "descriptor": "understand that written language uses punctuation such as full stops, question marks and exclamation marks, and uses capital letters for familiar proper nouns",
+      "topicUrl": "https://skillrhub.com/year1/english/ac9e1la10-that-written-language-uses-punctuation-such-as-full-stops/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/english/ac9e1la10/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/english/ac9e1la10/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/english/ac9e1la10/test/",
+        "Classroom View": "https://skillrhub.com/year1/english/ac9e1la10-that-written-language-uses-punctuation-such-as-full-stops/teacher-slides/"
+      },
+      "productIds": [
+        "17737657"
+      ]
+    },
+    {
+      "code": "AC9E1LE01",
+      "year": "Year 1",
+      "subject": "English",
+      "strand": "Literature",
+      "descriptor": "discuss how language and images are used to create characters, settings and events in literature by First Nations Australian, and wide-ranging Australian and world authors and illustrators",
+      "topicUrl": "https://skillrhub.com/year1/english/ac9e1le01-how-language-and-images-are-used-to-create-characters-settings/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/english/ac9e1le01/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/english/ac9e1le01/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/english/ac9e1le01/test/",
+        "Classroom View": "https://skillrhub.com/year1/english/ac9e1le01-how-language-and-images-are-used-to-create-characters-settings/teacher-slides/"
+      },
+      "productIds": [
+        "17743951"
+      ]
+    },
+    {
+      "code": "AC9E1LE02",
+      "year": "Year 1",
+      "subject": "English",
+      "strand": "Literature",
+      "descriptor": "discuss literary texts and share responses by making connections with students’ own experiences",
+      "topicUrl": "https://skillrhub.com/year1/english/ac9e1le02-literary-texts-and-share-responses-by-making-connections-with/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/english/ac9e1le02/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/english/ac9e1le02/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/english/ac9e1le02/test/",
+        "Classroom View": "https://skillrhub.com/year1/english/ac9e1le02-literary-texts-and-share-responses-by-making-connections-with/teacher-slides/"
+      },
+      "productIds": [
+        "17744486"
+      ]
+    },
+    {
+      "code": "AC9E1LE03",
+      "year": "Year 1",
+      "subject": "English",
+      "strand": "Literature",
+      "descriptor": "discuss plot, character and setting, which are features of stories",
+      "topicUrl": "https://skillrhub.com/year1/english/ac9e1le03-plot-character-and-setting-which-are-features-of-stories/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/english/ac9e1le03/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/english/ac9e1le03/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/english/ac9e1le03/test/",
+        "Classroom View": "https://skillrhub.com/year1/english/ac9e1le03-plot-character-and-setting-which-are-features-of-stories/teacher-slides/"
+      },
+      "productIds": [
+        "17744721"
+      ]
+    },
+    {
+      "code": "AC9E1LE04",
+      "year": "Year 1",
+      "subject": "English",
+      "strand": "Literature",
+      "descriptor": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
+      "topicUrl": "https://skillrhub.com/year1/english/ac9e1le04-poems-chants-rhymes-and-songs-and-imitate-and-invent-sound/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/english/ac9e1le04/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/english/ac9e1le04/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/english/ac9e1le04/test/",
+        "Classroom View": "https://skillrhub.com/year1/english/ac9e1le04-poems-chants-rhymes-and-songs-and-imitate-and-invent-sound/teacher-slides/"
+      },
+      "productIds": [
+        "17744877",
+        "17745214"
+      ]
+    },
+    {
+      "code": "AC9E1LE05",
+      "year": "Year 1",
+      "subject": "English",
+      "strand": "Literature",
+      "descriptor": "orally retell or adapt a familiar story using plot and characters, language features including vocabulary, and structure of a familiar text, through role-play, writing, drawing or digital tools",
+      "topicUrl": "https://skillrhub.com/year1/english/ac9e1le05-retell-or-adapt-a-familiar-story-using-plot-and-characters/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/english/ac9e1le05/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/english/ac9e1le05/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/english/ac9e1le05/test/"
+      },
+      "productIds": [
+        "17745451"
+      ]
+    },
+    {
+      "code": "AC9E1LY01",
+      "year": "Year 1",
+      "subject": "English",
+      "strand": "Literacy",
+      "descriptor": "discuss different texts and identify some features that indicate their purposes",
+      "topicUrl": "https://skillrhub.com/year1/english/ac9e1ly01-different-texts-and-identify-some-features-that-indicate-their/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/english/ac9e1ly01/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/english/ac9e1ly01/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/english/ac9e1ly01/test/"
+      },
+      "productIds": [
+        "17745803"
+      ]
+    },
+    {
+      "code": "AC9E1LY02",
+      "year": "Year 1",
+      "subject": "English",
+      "strand": "Literacy",
+      "descriptor": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+      "topicUrl": "https://skillrhub.com/year1/english/ac9e1ly02-interaction-skills-including-turn-taking-speaking-clearly-using/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/english/ac9e1ly02/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/english/ac9e1ly02/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/english/ac9e1ly02/test/",
+        "Classroom View": "https://skillrhub.com/year1/english/ac9e1ly02-interaction-skills-including-turn-taking-speaking-clearly-using/teacher-slides/"
+      },
+      "productIds": [
+        "17745962"
+      ]
+    },
+    {
+      "code": "AC9E1LY03",
+      "year": "Year 1",
+      "subject": "English",
+      "strand": "Literacy",
+      "descriptor": "describe some similarities and differences between imaginative, informative and persuasive texts",
+      "topicUrl": "https://skillrhub.com/year1/english/ac9e1ly03-some-similarities-and-differences-between-imaginative/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/english/ac9e1ly03/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/english/ac9e1ly03/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/english/ac9e1ly03/test/",
+        "Classroom View": "https://skillrhub.com/year1/english/ac9e1ly03-some-similarities-and-differences-between-imaginative/teacher-slides/"
+      },
+      "productIds": [
+        "17746080"
+      ]
+    },
+    {
+      "code": "AC9E1LY04",
+      "year": "Year 1",
+      "subject": "English",
+      "strand": "Literacy",
+      "descriptor": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
+      "topicUrl": "https://skillrhub.com/year1/english/ac9e1ly04-decodable-and-authentic-texts-using-developing-phonic-knowledge/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/english/ac9e1ly04/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/english/ac9e1ly04/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/english/ac9e1ly04/test/",
+        "Classroom View": "https://skillrhub.com/year1/english/ac9e1ly04-decodable-and-authentic-texts-using-developing-phonic-knowledge/teacher-slides/"
+      },
+      "productIds": [
+        "17746230"
+      ]
+    },
+    {
+      "code": "AC9E1LY05",
+      "year": "Year 1",
+      "subject": "English",
+      "strand": "Literacy",
+      "descriptor": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning when listening, viewing and reading to build literal and inferred meaning by drawing on vocabulary and growing knowledge of context and text structures",
+      "topicUrl": "https://skillrhub.com/year1/english/ac9e1ly05-comprehension-strategies-such-as-visualising-predicting/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/english/ac9e1ly05/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/english/ac9e1ly05/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/english/ac9e1ly05/test/",
+        "Classroom View": "https://skillrhub.com/year1/english/ac9e1ly05-comprehension-strategies-such-as-visualising-predicting/teacher-slides/"
+      },
+      "productIds": [
+        "17746391"
+      ]
+    },
+    {
+      "code": "AC9E1LY06",
+      "year": "Year 1",
+      "subject": "English",
+      "strand": "Literacy",
+      "descriptor": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event, using grammatically correct simple sentences, some topic-specific vocabulary, sentence boundary punctuation and correct spelling of some one- and two-syllable words",
+      "topicUrl": "https://skillrhub.com/year1/english/ac9e1ly06-and-re-read-to-edit-short-written-and-or-multimodal-texts-to/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/english/ac9e1ly06/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/english/ac9e1ly06/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/english/ac9e1ly06/test/",
+        "Classroom View": "https://skillrhub.com/year1/english/ac9e1ly06-and-re-read-to-edit-short-written-and-or-multimodal-texts-to/teacher-slides/"
+      },
+      "productIds": [
+        "17791625"
+      ]
+    },
+    {
+      "code": "AC9E1LY07",
+      "year": "Year 1",
+      "subject": "English",
+      "strand": "Literacy",
+      "descriptor": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement; some topic-specific vocabulary and appropriate gesture, volume and pace",
+      "topicUrl": "https://skillrhub.com/year1/english/ac9e1ly07-and-deliver-short-oral-and-or-multimodal-presentations-on/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/english/ac9e1ly07/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/english/ac9e1ly07/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/english/ac9e1ly07/test/",
+        "Classroom View": "https://skillrhub.com/year1/english/ac9e1ly07-and-deliver-short-oral-and-or-multimodal-presentations-on/teacher-slides/"
+      },
+      "productIds": [
+        "17792524"
+      ]
+    },
+    {
+      "code": "AC9E1LY08",
+      "year": "Year 1",
+      "subject": "English",
+      "strand": "Literacy",
+      "descriptor": "write words using unjoined lower-case and upper-case letters",
+      "topicUrl": "https://skillrhub.com/year1/english/ac9e1ly08-words-using-unjoined-lower-case-and-upper-case-letters/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/english/ac9e1ly08/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/english/ac9e1ly08/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/english/ac9e1ly08/test/",
+        "Classroom View": "https://skillrhub.com/year1/english/ac9e1ly08-words-using-unjoined-lower-case-and-upper-case-letters/teacher-slides/"
+      },
+      "productIds": [
+        "17792767"
+      ]
+    },
+    {
+      "code": "AC9E1LY09",
+      "year": "Year 1",
+      "subject": "English",
+      "strand": "Literacy",
+      "descriptor": "segment words into separate phonemes (sounds) including consonant blends or clusters at the beginnings and ends of words (phonological awareness)",
+      "topicUrl": "https://skillrhub.com/year1/english/ac9e1ly09-words-into-separate-phonemes-sounds-including-consonant-blends/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/english/ac9e1ly09/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/english/ac9e1ly09/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/english/ac9e1ly09/test/",
+        "Classroom View": "https://skillrhub.com/year1/english/ac9e1ly09-words-into-separate-phonemes-sounds-including-consonant-blends/teacher-slides/"
+      },
+      "productIds": [
+        "17793696"
+      ]
+    },
+    {
+      "code": "AC9E1LY10",
+      "year": "Year 1",
+      "subject": "English",
+      "strand": "Literacy",
+      "descriptor": "orally manipulate phonemes in spoken words by addition, deletion and substitution of initial, medial and final phonemes to generate new words (phonological awareness)",
+      "topicUrl": "https://skillrhub.com/year1/english/ac9e1ly10-manipulate-phonemes-in-spoken-words-by-addition-deletion-and/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/english/ac9e1ly10/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/english/ac9e1ly10/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/english/ac9e1ly10/test/",
+        "Classroom View": "https://skillrhub.com/year1/english/ac9e1ly10-manipulate-phonemes-in-spoken-words-by-addition-deletion-and/teacher-slides/"
+      },
+      "productIds": [
+        "17793855"
+      ]
+    },
+    {
+      "code": "AC9E1LY11",
+      "year": "Year 1",
+      "subject": "English",
+      "strand": "Literacy",
+      "descriptor": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
+      "topicUrl": "https://skillrhub.com/year1/english/ac9e1ly11-short-vowels-common-long-vowels-consonant-blends-and-digraphs-to/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/english/ac9e1ly11/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/english/ac9e1ly11/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/english/ac9e1ly11/test/",
+        "Classroom View": "https://skillrhub.com/year1/english/ac9e1ly11-short-vowels-common-long-vowels-consonant-blends-and-digraphs-to/teacher-slides/"
+      },
+      "productIds": [
+        "17794524"
+      ]
+    },
+    {
+      "code": "AC9E1LY12",
+      "year": "Year 1",
+      "subject": "English",
+      "strand": "Literacy",
+      "descriptor": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
+      "topicUrl": "https://skillrhub.com/year1/english/ac9e1ly12-that-a-letter-can-represent-more-than-one-sound-and/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/english/ac9e1ly12/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/english/ac9e1ly12/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/english/ac9e1ly12/test/",
+        "Classroom View": "https://skillrhub.com/year1/english/ac9e1ly12-that-a-letter-can-represent-more-than-one-sound-and/teacher-slides/"
+      },
+      "productIds": [
+        "17794632"
+      ]
+    },
+    {
+      "code": "AC9E1LY13",
+      "year": "Year 1",
+      "subject": "English",
+      "strand": "Literacy",
+      "descriptor": "spell one- and two-syllable words with common letter patterns",
+      "topicUrl": "https://skillrhub.com/year1/english/ac9e1ly13-one-and-two-syllable-words-with-common-letter-patterns/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/english/ac9e1ly13/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/english/ac9e1ly13/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/english/ac9e1ly13/test/",
+        "Classroom View": "https://skillrhub.com/year1/english/ac9e1ly13-one-and-two-syllable-words-with-common-letter-patterns/teacher-slides/"
+      },
+      "productIds": [
+        "17794756"
+      ]
+    },
+    {
+      "code": "AC9E1LY14",
+      "year": "Year 1",
+      "subject": "English",
+      "strand": "Literacy",
+      "descriptor": "read and write an increasing number of high-frequency words",
+      "topicUrl": "https://skillrhub.com/year1/english/ac9e1ly14-and-write-an-increasing-number-of-high-frequency-words/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/english/ac9e1ly14/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/english/ac9e1ly14/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/english/ac9e1ly14/test/",
+        "Classroom View": "https://skillrhub.com/year1/english/ac9e1ly14-and-write-an-increasing-number-of-high-frequency-words/teacher-slides/"
+      },
+      "productIds": [
+        "17795150"
+      ]
+    },
+    {
+      "code": "AC9E1LY15",
+      "year": "Year 1",
+      "subject": "English",
+      "strand": "Literacy",
+      "descriptor": "recognise and know how to use grammatical morphemes to create word families",
+      "topicUrl": "https://skillrhub.com/year1/english/ac9e1ly15-and-know-how-to-use-grammatical-morphemes-to-create-word/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/english/ac9e1ly15/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/english/ac9e1ly15/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/english/ac9e1ly15/test/",
+        "Classroom View": "https://skillrhub.com/year1/english/ac9e1ly15-and-know-how-to-use-grammatical-morphemes-to-create-word/teacher-slides/"
+      },
+      "productIds": [
+        "17795280"
+      ]
+    },
+    {
+      "code": "AC9EFLA01",
+      "year": "Foundation",
+      "subject": "English",
+      "strand": "Language",
+      "descriptor": "explore how language is used differently at home and school depending on the relationships between people",
+      "topicUrl": "https://skillrhub.com/foundation/english/ac9efla01-how-language-is-used-differently-at-home-and-school-depending/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/grade-k/english/ac9efla01/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/grade-k/english/ac9efla01/practice/",
+        "Test": "https://skillrhub.com/quiz/grade-k/english/ac9efla01/test/",
+        "Classroom View": "https://skillrhub.com/foundation/english/ac9efla01-how-language-is-used-differently-at-home-and-school-depending/teacher-slides/"
+      },
+      "productIds": [
+        "17856838"
+      ]
+    },
+    {
+      "code": "AC9M1A01",
+      "year": "Year 1",
+      "subject": "Maths",
+      "strand": "Algebra",
+      "descriptor": "recognise, continue and create pattern sequences, with numbers, symbols, shapes and objects, formed by skip counting, initially by twos, fives and tens",
+      "topicUrl": "https://skillrhub.com/year1/maths/ac9m1a01-skip-counting-pattern-sequences/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/math/ac9m1a01/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/math/ac9m1a01/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/math/ac9m1a01/test/",
+        "Classroom View": "https://skillrhub.com/year1/maths/ac9m1a01-skip-counting-pattern-sequences/teacher-slides/"
+      },
+      "productIds": [
+        "17865797",
+        "17676771",
+        "17678421"
+      ]
+    },
+    {
+      "code": "AC9M1A02",
+      "year": "Year 1",
+      "subject": "Maths",
+      "strand": "Algebra",
+      "descriptor": "recognise, continue and create repeating patterns with numbers, symbols, shapes and objects, identifying the repeating unit",
+      "topicUrl": "https://skillrhub.com/year1/maths/ac9m1a02-repeating-patterns/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/math/ac9m1a02/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/math/ac9m1a02/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/math/ac9m1a02/test/",
+        "Classroom View": "https://skillrhub.com/year1/maths/ac9m1a02-repeating-patterns/teacher-slides/"
+      },
+      "productIds": [
+        "17865943",
+        "17677514",
+        "17678421"
+      ]
+    },
+    {
+      "code": "AC9M1M01",
+      "year": "Year 1",
+      "subject": "Maths",
+      "strand": "Measurement",
+      "descriptor": "compare directly and indirectly and order objects and events using attributes of length, mass, capacity and duration, communicating reasoning",
+      "topicUrl": "https://skillrhub.com/year1/maths/ac9m1m01-comparing-length-mass-capacity-and-duration/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/math/ac9m1m01/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/math/ac9m1m01/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/math/ac9m1m01/test/",
+        "Classroom View": "https://skillrhub.com/year1/maths/ac9m1m01-comparing-length-mass-capacity-and-duration/teacher-slides/"
+      },
+      "productIds": [
+        "17866956",
+        "17678407"
+      ]
+    },
+    {
+      "code": "AC9M1M02",
+      "year": "Year 1",
+      "subject": "Maths",
+      "strand": "Measurement",
+      "descriptor": "measure the length of shapes and objects using informal units, recognising that units need to be uniform and used end-to-end",
+      "topicUrl": "https://skillrhub.com/year1/maths/ac9m1m02-measuring-length-with-informal-units/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/math/ac9m1m02/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/math/ac9m1m02/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/math/ac9m1m02/test/",
+        "Classroom View": "https://skillrhub.com/year1/maths/ac9m1m02-measuring-length-with-informal-units/teacher-slides/"
+      },
+      "productIds": [
+        "17867187",
+        "17678987"
+      ]
+    },
+    {
+      "code": "AC9M1M03",
+      "year": "Year 1",
+      "subject": "Maths",
+      "strand": "Measurement",
+      "descriptor": "describe the duration and sequence of events using years, months, weeks, days and hours",
+      "topicUrl": "https://skillrhub.com/year1/maths/ac9m1m03-time-years-months-weeks-days-and-hours/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/math/ac9m1m03/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/math/ac9m1m03/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/math/ac9m1m03/test/",
+        "Classroom View": "https://skillrhub.com/year1/maths/ac9m1m03-time-years-months-weeks-days-and-hours/teacher-slides/"
+      },
+      "productIds": [
+        "17867276",
+        "17679159"
+      ]
+    },
+    {
+      "code": "AC9M1N01",
+      "year": "Year 1",
+      "subject": "Maths",
+      "strand": "Number",
+      "descriptor": "recognise, represent and order numbers to at least 120 using physical and virtual materials, numerals, number lines and charts",
+      "topicUrl": "https://skillrhub.com/year1/maths/ac9m1n01-numbers-to-120/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/math/ac9m1n01/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/math/ac9m1n01/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/math/ac9m1n01/test/",
+        "Classroom View": "https://skillrhub.com/year1/maths/ac9m1n01-numbers-to-120/teacher-slides/"
+      },
+      "productIds": [
+        "17669357",
+        "17864634"
+      ]
+    },
+    {
+      "code": "AC9M1N02",
+      "year": "Year 1",
+      "subject": "Maths",
+      "strand": "Number",
+      "descriptor": "partition one- and two-digit numbers in different ways using physical and virtual materials, including partitioning two-digit numbers into tens and ones",
+      "topicUrl": "https://skillrhub.com/year1/maths/ac9m1n02-partitioning-tens-and-ones/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/math/ac9m1n02/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/math/ac9m1n02/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/math/ac9m1n02/test/",
+        "Classroom View": "https://skillrhub.com/year1/maths/ac9m1n02-partitioning-tens-and-ones/teacher-slides/"
+      },
+      "productIds": [
+        "17669472",
+        "17864784"
+      ]
+    },
+    {
+      "code": "AC9M1N03",
+      "year": "Year 1",
+      "subject": "Maths",
+      "strand": "Number",
+      "descriptor": "quantify sets of objects, to at least 120, by partitioning collections into equal groups using number knowledge and skip counting",
+      "topicUrl": "https://skillrhub.com/year1/maths/ac9m1n03-skip-counting-and-equal-groups/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/math/ac9m1n03/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/math/ac9m1n03/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/math/ac9m1n03/test/",
+        "Classroom View": "https://skillrhub.com/year1/maths/ac9m1n03-skip-counting-and-equal-groups/teacher-slides/"
+      },
+      "productIds": [
+        "17669505",
+        "17865133"
+      ]
+    },
+    {
+      "code": "AC9M1N04",
+      "year": "Year 1",
+      "subject": "Maths",
+      "strand": "Number",
+      "descriptor": "add and subtract numbers within 20, using physical and virtual materials, part-part-whole knowledge to 10 and a variety of calculation strategies",
+      "topicUrl": "https://skillrhub.com/year1/maths/ac9m1n04-addition-and-subtraction-within-20/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/math/ac9m1n04/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/math/ac9m1n04/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/math/ac9m1n04/test/",
+        "Classroom View": "https://skillrhub.com/year1/maths/ac9m1n04-addition-and-subtraction-within-20/teacher-slides/"
+      },
+      "productIds": [
+        "17669944",
+        "17865364",
+        "17620155"
+      ]
+    },
+    {
+      "code": "AC9M1N05",
+      "year": "Year 1",
+      "subject": "Maths",
+      "strand": "Number",
+      "descriptor": "use mathematical modelling to solve practical problems involving additive situations including simple money transactions; represent the situations with diagrams, physical and virtual materials, and use calculation strategies to solve the problem",
+      "topicUrl": "https://skillrhub.com/year1/maths/ac9m1n05-additive-problem-solving-and-money/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/math/ac9m1n05/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/math/ac9m1n05/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/math/ac9m1n05/test/",
+        "Classroom View": "https://skillrhub.com/year1/maths/ac9m1n05-additive-problem-solving-and-money/teacher-slides/"
+      },
+      "productIds": [
+        "17865530",
+        "17670474"
+      ]
+    },
+    {
+      "code": "AC9M1N06",
+      "year": "Year 1",
+      "subject": "Maths",
+      "strand": "Number",
+      "descriptor": "use mathematical modelling to solve practical problems involving equal sharing and grouping; represent the situations with diagrams, physical and virtual materials, and use calculation strategies to solve the problem",
+      "topicUrl": "https://skillrhub.com/year1/maths/ac9m1n06-equal-sharing-and-grouping/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/math/ac9m1n06/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/math/ac9m1n06/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/math/ac9m1n06/test/",
+        "Classroom View": "https://skillrhub.com/year1/maths/ac9m1n06-equal-sharing-and-grouping/teacher-slides/"
+      },
+      "productIds": [
+        "17676629",
+        "17865685"
+      ]
+    },
+    {
+      "code": "AC9M1SP01",
+      "year": "Year 1",
+      "subject": "Maths",
+      "strand": "Space",
+      "descriptor": "make, compare and classify familiar shapes; recognise familiar shapes and objects in the environment, identifying the similarities and differences between them",
+      "topicUrl": "https://skillrhub.com/year1/maths/ac9m1sp01-familiar-shapes-and-objects/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/math/ac9m1sp01/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/math/ac9m1sp01/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/math/ac9m1sp01/test/",
+        "Classroom View": "https://skillrhub.com/year1/maths/ac9m1sp01-familiar-shapes-and-objects/teacher-slides/"
+      },
+      "productIds": [
+        "17867400",
+        "17684936"
+      ]
+    },
+    {
+      "code": "AC9M1SP02",
+      "year": "Year 1",
+      "subject": "Maths",
+      "strand": "Space",
+      "descriptor": "give and follow directions to move people and objects to different locations within a space",
+      "topicUrl": "https://skillrhub.com/year1/maths/ac9m1sp02-directions-and-location/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/math/ac9m1sp02/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/math/ac9m1sp02/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/math/ac9m1sp02/test/",
+        "Classroom View": "https://skillrhub.com/year1/maths/ac9m1sp02-directions-and-location/teacher-slides/"
+      },
+      "productIds": [
+        "17867511",
+        "17710509"
+      ]
+    },
+    {
+      "code": "AC9M1ST01",
+      "year": "Year 1",
+      "subject": "Maths",
+      "strand": "Statistics",
+      "descriptor": "acquire and record data for categorical variables in various ways including using digital tools, objects, images, drawings, lists, tally marks and symbols",
+      "topicUrl": "https://skillrhub.com/year1/maths/ac9m1st01-collecting-categorical-data/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/math/ac9m1st01/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/math/ac9m1st01/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/math/ac9m1st01/test/",
+        "Classroom View": "https://skillrhub.com/year1/maths/ac9m1st01-collecting-categorical-data/teacher-slides/"
+      },
+      "productIds": [
+        "17867745",
+        "17710715"
+      ]
+    },
+    {
+      "code": "AC9M1ST02",
+      "year": "Year 1",
+      "subject": "Maths",
+      "strand": "Statistics",
+      "descriptor": "represent collected data for a categorical variable using one-to-one displays and digital tools where appropriate; compare the data using frequencies and discuss the findings",
+      "topicUrl": "https://skillrhub.com/year1/maths/ac9m1st02-representing-and-comparing-data/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/math/ac9m1st02/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/math/ac9m1st02/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/math/ac9m1st02/test/",
+        "Classroom View": "https://skillrhub.com/year1/maths/ac9m1st02-representing-and-comparing-data/teacher-slides/"
+      },
+      "productIds": [
+        "17867818",
+        "17716709"
+      ]
+    },
+    {
+      "code": "AC9M2A01",
+      "year": "Year 2",
+      "subject": "Maths",
+      "strand": "Algebra",
+      "descriptor": "recognise, describe and create additive patterns that increase or decrease by a constant amount, using numbers, shapes and objects, and identify missing elements in the pattern",
+      "topicUrl": "https://skillrhub.com/year2/maths/ac9m2a01-recognise-describe-and-create-additive-patterns-that-increase/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-2/math/ac9m2a01/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-2/math/ac9m2a01/practice/",
+        "Test": "https://skillrhub.com/quiz/year-2/math/ac9m2a01/test/",
+        "Classroom View": "https://skillrhub.com/year2/maths/ac9m2a01-recognise-describe-and-create-additive-patterns-that-increase/teacher-slides/"
+      },
+      "productIds": [
+        "17273907"
+      ]
+    },
+    {
+      "code": "AC9M2A02",
+      "year": "Year 2",
+      "subject": "Maths",
+      "strand": "Algebra",
+      "descriptor": "recall and demonstrate proficiency with addition facts to 20; extend and apply facts to develop related subtraction facts",
+      "topicUrl": "https://skillrhub.com/year2/maths/ac9m2a02-recall-and-demonstrate-proficiency-with-addition-facts-to-20/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-2/math/ac9m2a02/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-2/math/ac9m2a02/practice/",
+        "Test": "https://skillrhub.com/quiz/year-2/math/ac9m2a02/test/",
+        "Classroom View": "https://skillrhub.com/year2/maths/ac9m2a02-recall-and-demonstrate-proficiency-with-addition-facts-to-20/teacher-slides/"
+      },
+      "productIds": [
+        "17273907"
+      ]
+    },
+    {
+      "code": "AC9M2A03",
+      "year": "Year 2",
+      "subject": "Maths",
+      "strand": "Algebra",
+      "descriptor": "recall and demonstrate proficiency with multiplication facts for twos; extend and apply facts to develop the related division facts using doubling and halving",
+      "topicUrl": "https://skillrhub.com/year2/maths/ac9m2a03-recall-and-demonstrate-proficiency-with-multiplication-facts/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-2/math/ac9m2a03/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-2/math/ac9m2a03/practice/",
+        "Test": "https://skillrhub.com/quiz/year-2/math/ac9m2a03/test/",
+        "Classroom View": "https://skillrhub.com/year2/maths/ac9m2a03-recall-and-demonstrate-proficiency-with-multiplication-facts/teacher-slides/"
+      },
+      "productIds": [
+        "17273907"
+      ]
+    },
+    {
+      "code": "AC9M2M01",
+      "year": "Year 2",
+      "subject": "Maths",
+      "strand": "Measurement",
+      "descriptor": "measure and compare objects based on length, capacity and mass using appropriate uniform informal units and smaller units for accuracy when necessary",
+      "topicUrl": "https://skillrhub.com/year2/maths/ac9m2m01-measure-and-compare-objects-based-on-length-capacity-and-mass/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-2/math/ac9m2m01/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-2/math/ac9m2m01/practice/",
+        "Test": "https://skillrhub.com/quiz/year-2/math/ac9m2m01/test/",
+        "Classroom View": "https://skillrhub.com/year2/maths/ac9m2m01-measure-and-compare-objects-based-on-length-capacity-and-mass/teacher-slides/"
+      },
+      "productIds": [
+        "17273907"
+      ]
+    },
+    {
+      "code": "AC9M2M02",
+      "year": "Year 2",
+      "subject": "Maths",
+      "strand": "Measurement",
+      "descriptor": "identify common uses and represent halves, quarters and eighths in relation to shapes, objects and events",
+      "topicUrl": "https://skillrhub.com/year2/maths/ac9m2m02-common-uses-and-represent-halves-quarters-and-eighths-in/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-2/math/ac9m2m02/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-2/math/ac9m2m02/practice/",
+        "Test": "https://skillrhub.com/quiz/year-2/math/ac9m2m02/test/",
+        "Classroom View": "https://skillrhub.com/year2/maths/ac9m2m02-common-uses-and-represent-halves-quarters-and-eighths-in/teacher-slides/"
+      },
+      "productIds": [
+        "17273907"
+      ]
+    },
+    {
+      "code": "AC9M2M03",
+      "year": "Year 2",
+      "subject": "Maths",
+      "strand": "Measurement",
+      "descriptor": "identify the date and determine the number of days between events using calendars",
+      "topicUrl": "https://skillrhub.com/year2/maths/ac9m2m03-the-date-and-determine-the-number-of-days-between-events/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-2/math/ac9m2m03/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-2/math/ac9m2m03/practice/",
+        "Test": "https://skillrhub.com/quiz/year-2/math/ac9m2m03/test/",
+        "Classroom View": "https://skillrhub.com/year2/maths/ac9m2m03-the-date-and-determine-the-number-of-days-between-events/teacher-slides/"
+      },
+      "productIds": [
+        "17273907"
+      ]
+    },
+    {
+      "code": "AC9M2M04",
+      "year": "Year 2",
+      "subject": "Maths",
+      "strand": "Measurement",
+      "descriptor": "recognise and read the time represented on an analog clock to the hour, half-hour and quarter-hour",
+      "topicUrl": "https://skillrhub.com/year2/maths/ac9m2m04-and-read-the-time-represented-on-an-analog-clock-to/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-2/math/ac9m2m04/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-2/math/ac9m2m04/practice/",
+        "Test": "https://skillrhub.com/quiz/year-2/math/ac9m2m04/test/",
+        "Classroom View": "https://skillrhub.com/year2/maths/ac9m2m04-and-read-the-time-represented-on-an-analog-clock-to/teacher-slides/"
+      },
+      "productIds": [
+        "17273907"
+      ]
+    },
+    {
+      "code": "AC9M2M05",
+      "year": "Year 2",
+      "subject": "Maths",
+      "strand": "Measurement",
+      "descriptor": "identify, describe and demonstrate quarter, half, three-quarter and full measures of turn in everyday situations",
+      "topicUrl": "https://skillrhub.com/year2/maths/ac9m2m05-identify-describe-and-demonstrate-quarter-half-three-quarter/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-2/math/ac9m2m05/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-2/math/ac9m2m05/practice/",
+        "Test": "https://skillrhub.com/quiz/year-2/math/ac9m2m05/test/",
+        "Classroom View": "https://skillrhub.com/year2/maths/ac9m2m05-identify-describe-and-demonstrate-quarter-half-three-quarter/teacher-slides/"
+      },
+      "productIds": [
+        "17273907"
+      ]
+    },
+    {
+      "code": "AC9M2N01",
+      "year": "Year 2",
+      "subject": "Maths",
+      "strand": "Number",
+      "descriptor": "recognise, represent and order numbers to at least 1000 using physical and virtual materials, numerals and number lines",
+      "topicUrl": "https://skillrhub.com/year2/maths/ac9m2n01-recognise-represent-and-order-numbers-to-at-least-1000-using/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-2/math/ac9m2n01/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-2/math/ac9m2n01/practice/",
+        "Test": "https://skillrhub.com/quiz/year-2/math/ac9m2n01/test/",
+        "Classroom View": "https://skillrhub.com/year2/maths/ac9m2n01-recognise-represent-and-order-numbers-to-at-least-1000-using/teacher-slides/"
+      },
+      "productIds": [
+        "17273749",
+        "17620166",
+        "17273907"
+      ]
+    },
+    {
+      "code": "AC9M2N02",
+      "year": "Year 2",
+      "subject": "Maths",
+      "strand": "Number",
+      "descriptor": "partition, rearrange, regroup and rename two- and three-digit numbers using standard and non-standard groupings; recognise the role of a zero digit in place value notation",
+      "topicUrl": "https://skillrhub.com/year2/maths/ac9m2n02-partition-rearrange-regroup-and-rename-two-and-three-digit/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-2/math/ac9m2n02/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-2/math/ac9m2n02/practice/",
+        "Test": "https://skillrhub.com/quiz/year-2/math/ac9m2n02/test/",
+        "Classroom View": "https://skillrhub.com/year2/maths/ac9m2n02-partition-rearrange-regroup-and-rename-two-and-three-digit/teacher-slides/"
+      },
+      "productIds": [
+        "17273907"
+      ]
+    },
+    {
+      "code": "AC9M2N03",
+      "year": "Year 2",
+      "subject": "Maths",
+      "strand": "Number",
+      "descriptor": "recognise and describe one-half as one of 2 equal parts of a whole and connect halves, quarters and eighths through repeated halving",
+      "topicUrl": "https://skillrhub.com/year2/maths/ac9m2n03-and-describe-one-half-as-one-of-2-equal-parts-of/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-2/math/ac9m2n03/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-2/math/ac9m2n03/practice/",
+        "Test": "https://skillrhub.com/quiz/year-2/math/ac9m2n03/test/",
+        "Classroom View": "https://skillrhub.com/year2/maths/ac9m2n03-and-describe-one-half-as-one-of-2-equal-parts-of/teacher-slides/"
+      },
+      "productIds": [
+        "17273907"
+      ]
+    },
+    {
+      "code": "AC9M2N04",
+      "year": "Year 2",
+      "subject": "Maths",
+      "strand": "Number",
+      "descriptor": "add and subtract one- and two-digit numbers, representing problems using number sentences, and solve using part-part-whole reasoning and a variety of calculation strategies",
+      "topicUrl": "https://skillrhub.com/year2/maths/ac9m2n04-add-and-subtract-one-and-two-digit-numbers-representing/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-2/math/ac9m2n04/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-2/math/ac9m2n04/practice/",
+        "Test": "https://skillrhub.com/quiz/year-2/math/ac9m2n04/test/",
+        "Classroom View": "https://skillrhub.com/year2/maths/ac9m2n04-add-and-subtract-one-and-two-digit-numbers-representing/teacher-slides/"
+      },
+      "productIds": [
+        "17273907"
+      ]
+    },
+    {
+      "code": "AC9M2N05",
+      "year": "Year 2",
+      "subject": "Maths",
+      "strand": "Number",
+      "descriptor": "multiply and divide by one-digit numbers using repeated addition, equal grouping, arrays, and partitioning to support a variety of calculation strategies",
+      "topicUrl": "https://skillrhub.com/year2/maths/ac9m2n05-multiply-and-divide-by-one-digit-numbers-using-repeated/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-2/math/ac9m2n05/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-2/math/ac9m2n05/practice/",
+        "Test": "https://skillrhub.com/quiz/year-2/math/ac9m2n05/test/",
+        "Classroom View": "https://skillrhub.com/year2/maths/ac9m2n05-multiply-and-divide-by-one-digit-numbers-using-repeated/teacher-slides/"
+      },
+      "productIds": [
+        "17273907"
+      ]
+    },
+    {
+      "code": "AC9M2N06",
+      "year": "Year 2",
+      "subject": "Maths",
+      "strand": "Number",
+      "descriptor": "use mathematical modelling to solve practical problems involving additive and multiplicative situations, including money transactions; represent situations and choose calculation strategies; interpret and communicate solutions in terms of the situation",
+      "topicUrl": "https://skillrhub.com/year2/maths/ac9m2n06-mathematical-modelling-to-solve-practical-problems-involving/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-2/math/ac9m2n06/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-2/math/ac9m2n06/practice/",
+        "Test": "https://skillrhub.com/quiz/year-2/math/ac9m2n06/test/",
+        "Classroom View": "https://skillrhub.com/year2/maths/ac9m2n06-mathematical-modelling-to-solve-practical-problems-involving/teacher-slides/"
+      },
+      "productIds": [
+        "17273907"
+      ]
+    },
+    {
+      "code": "AC9M2SP01",
+      "year": "Year 2",
+      "subject": "Maths",
+      "strand": "Space",
+      "descriptor": "recognise, compare and classify shapes, referencing the number of sides and using spatial terms such as “opposite”, “parallel”, “curved” and “straight”",
+      "topicUrl": "https://skillrhub.com/year2/maths/ac9m2sp01-recognise-compare-and-classify-shapes-referencing-the-number-of/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-2/math/ac9m2sp01/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-2/math/ac9m2sp01/practice/",
+        "Test": "https://skillrhub.com/quiz/year-2/math/ac9m2sp01/test/",
+        "Classroom View": "https://skillrhub.com/year2/maths/ac9m2sp01-recognise-compare-and-classify-shapes-referencing-the-number-of/teacher-slides/"
+      },
+      "productIds": [
+        "17273907"
+      ]
+    },
+    {
+      "code": "AC9M2SP02",
+      "year": "Year 2",
+      "subject": "Maths",
+      "strand": "Space",
+      "descriptor": "locate positions in two-dimensional representations of a familiar space; move positions by following directions and pathways",
+      "topicUrl": "https://skillrhub.com/year2/maths/ac9m2sp02-locate-positions-in-two-dimensional-representations-of-a/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-2/math/ac9m2sp02/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-2/math/ac9m2sp02/practice/",
+        "Test": "https://skillrhub.com/quiz/year-2/math/ac9m2sp02/test/",
+        "Classroom View": "https://skillrhub.com/year2/maths/ac9m2sp02-locate-positions-in-two-dimensional-representations-of-a/teacher-slides/"
+      },
+      "productIds": [
+        "17273907"
+      ]
+    },
+    {
+      "code": "AC9M2ST01",
+      "year": "Year 2",
+      "subject": "Maths",
+      "strand": "Statistics",
+      "descriptor": "acquire data for categorical variables through surveys, observation, experiment and using digital tools; sort data into relevant categories and display data using lists and tables",
+      "topicUrl": "https://skillrhub.com/year2/maths/ac9m2st01-acquire-data-for-categorical-variables-through-surveys/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-2/math/ac9m2st01/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-2/math/ac9m2st01/practice/",
+        "Test": "https://skillrhub.com/quiz/year-2/math/ac9m2st01/test/",
+        "Classroom View": "https://skillrhub.com/year2/maths/ac9m2st01-acquire-data-for-categorical-variables-through-surveys/teacher-slides/"
+      },
+      "productIds": [
+        "17273907"
+      ]
+    },
+    {
+      "code": "AC9M2ST02",
+      "year": "Year 2",
+      "subject": "Maths",
+      "strand": "Statistics",
+      "descriptor": "create different graphical representations of data using software where appropriate; compare the different representations, identify and describe common and distinctive features in response to questions",
+      "topicUrl": "https://skillrhub.com/year2/maths/ac9m2st02-different-graphical-representations-of-data-using-software/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-2/math/ac9m2st02/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-2/math/ac9m2st02/practice/",
+        "Test": "https://skillrhub.com/quiz/year-2/math/ac9m2st02/test/",
+        "Classroom View": "https://skillrhub.com/year2/maths/ac9m2st02-different-graphical-representations-of-data-using-software/teacher-slides/"
+      },
+      "productIds": [
+        "17273907"
+      ]
+    },
+    {
+      "code": "AC9M3A03",
+      "year": "Year 3",
+      "subject": "Maths",
+      "strand": "Algebra",
+      "descriptor": "recall and demonstrate proficiency with multiplication facts for 3, 4, 5 and 10; extend and apply facts to develop the related division facts",
+      "topicUrl": "https://skillrhub.com/year3/maths/ac9m3a03-recall-and-demonstrate-proficiency-with-multiplication-facts/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-3/math/ac9m3a03/worksheet/",
+        "Practice": "https://skillrhub.com/year3/maths/ac9m3a03-recall-and-demonstrate-proficiency-with-multiplication-facts/#independent-practice",
+        "Test": "https://skillrhub.com/quiz/year-3/math/ac9m3a03/test/",
+        "Classroom View": "https://skillrhub.com/year3/maths/ac9m3a03-recall-and-demonstrate-proficiency-with-multiplication-facts/teacher-slides/"
+      },
+      "productIds": [
+        "17594247",
+        "17594291"
+      ]
+    },
+    {
+      "code": "AC9M3M03",
+      "year": "Year 3",
+      "subject": "Maths",
+      "strand": "Measurement",
+      "descriptor": "recognise and use the relationship between formal units of time including days, hours, minutes and seconds to estimate and compare the duration of events",
+      "topicUrl": "https://skillrhub.com/year3/maths/ac9m3m03-and-use-the-relationship-between-formal-units-of-time-including/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-3/math/ac9m3m03/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-3/math/ac9m3m03/practice/",
+        "Test": "https://skillrhub.com/quiz/year-3/math/ac9m3m03/test/",
+        "Classroom View": "https://skillrhub.com/year3/maths/ac9m3m03-and-use-the-relationship-between-formal-units-of-time-including/teacher-slides/"
+      },
+      "productIds": [
+        "17592010",
+        "17592266",
+        "17593083",
+        "17593120",
+        "17593166"
+      ]
+    },
+    {
+      "code": "AC9M3M04",
+      "year": "Year 3",
+      "subject": "Maths",
+      "strand": "Measurement",
+      "descriptor": "describe the relationship between the hours and minutes on analog and digital clocks, and read the time to the nearest minute",
+      "topicUrl": "https://skillrhub.com/year3/maths/ac9m3m04-the-relationship-between-the-hours-and-minutes-on-analog-and/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-3/math/ac9m3m04/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-3/math/ac9m3m04/practice/",
+        "Test": "https://skillrhub.com/quiz/year-3/math/ac9m3m04/test/",
+        "Classroom View": "https://skillrhub.com/year3/maths/ac9m3m04-the-relationship-between-the-hours-and-minutes-on-analog-and/teacher-slides/"
+      },
+      "productIds": [
+        "17492537",
+        "17592266",
+        "17593083",
+        "17593120",
+        "17593166"
+      ]
+    },
+    {
+      "code": "AC9M3N02",
+      "year": "Year 3",
+      "subject": "Maths",
+      "strand": "Number",
+      "descriptor": "recognise and represent unit fractions including 1/2, 1/3, 1/4, 1/5 and 1/10 and their multiples in different ways; combine fractions with the same denominator to complete the whole",
+      "topicUrl": "https://skillrhub.com/year3/maths/ac9m3n02-and-represent-unit-fractions-including-frac12-frac13-frac14/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-3/math/ac9m3n02/worksheet/",
+        "Practice": "https://skillrhub.com/year3/maths/ac9m3n02-and-represent-unit-fractions-including-frac12-frac13-frac14/#independent-practice",
+        "Test": "https://skillrhub.com/quiz/year-3/math/ac9m3n02/test/",
+        "Classroom View": "https://skillrhub.com/year3/maths/ac9m3n02-and-represent-unit-fractions-including-frac12-frac13-frac14/teacher-slides/"
+      },
+      "productIds": [
+        "17594426",
+        "17594445",
+        "17594471"
+      ]
+    },
+    {
+      "code": "AC9M3N04",
+      "year": "Year 3",
+      "subject": "Maths",
+      "strand": "Number",
+      "descriptor": "multiply and divide one- and two-digit numbers, representing problems using number sentences, diagrams and arrays, and using a variety of calculation strategies",
+      "topicUrl": "https://skillrhub.com/year3/maths/ac9m3n04-multiply-and-divide-one-and-two-digit-numbers-representing/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-3/math/ac9m3n04/worksheet/",
+        "Practice": "https://skillrhub.com/year3/maths/ac9m3n04-multiply-and-divide-one-and-two-digit-numbers-representing/#independent-practice",
+        "Test": "https://skillrhub.com/quiz/year-3/math/ac9m3n04/test/",
+        "Classroom View": "https://skillrhub.com/year3/maths/ac9m3n04-multiply-and-divide-one-and-two-digit-numbers-representing/teacher-slides/"
+      },
+      "productIds": [
+        "17594247",
+        "17594291"
+      ]
+    },
+    {
+      "code": "AC9M4N03",
+      "year": "Year 4",
+      "subject": "Maths",
+      "strand": "Number",
+      "descriptor": "find equivalent representations of fractions using related denominators and make connections between fractions and decimal notation",
+      "topicUrl": "https://skillrhub.com/year4/maths/ac9m4n03-find-equivalent-representations-of-fractions-using-related/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-4/math/ac9m4n03/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-4/math/ac9m4n03/practice/",
+        "Test": "https://skillrhub.com/quiz/year-4/math/ac9m4n03/test/",
+        "Classroom View": "https://skillrhub.com/year4/maths/ac9m4n03-find-equivalent-representations-of-fractions-using-related/teacher-slides/"
+      },
+      "productIds": [
+        "17526065"
+      ]
+    },
+    {
+      "code": "AC9M4N04",
+      "year": "Year 4",
+      "subject": "Maths",
+      "strand": "Number",
+      "descriptor": "count by fractions including mixed numerals; locate and represent these fractions as numbers on number lines",
+      "topicUrl": "https://skillrhub.com/year4/maths/ac9m4n04-count-by-fractions-including-mixed-numerals-locate-and/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-4/math/ac9m4n04/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-4/math/ac9m4n04/practice/",
+        "Test": "https://skillrhub.com/quiz/year-4/math/ac9m4n04/test/",
+        "Classroom View": "https://skillrhub.com/year4/maths/ac9m4n04-count-by-fractions-including-mixed-numerals-locate-and/teacher-slides/"
+      },
+      "productIds": [
+        "17526065"
+      ]
+    },
+    {
+      "code": "AC9M5N01",
+      "year": "Year 5",
+      "subject": "Maths",
+      "strand": "Number",
+      "descriptor": "interpret, compare and order numbers with more than 2 decimal places, including numbers greater than one, using place value understanding; represent these on a number line",
+      "topicUrl": "https://skillrhub.com/year5/maths/ac9m5n01-interpret-compare-and-order-numbers-with-more-than-2-decimal/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-5/math/ac9m5n01/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-5/math/ac9m5n01/practice/",
+        "Test": "https://skillrhub.com/quiz/year-5/math/ac9m5n01/test/",
+        "Classroom View": "https://skillrhub.com/year5/maths/ac9m5n01-interpret-compare-and-order-numbers-with-more-than-2-decimal/teacher-slides/"
+      },
+      "productIds": [
+        "17869356",
+        "17567833"
+      ]
+    },
+    {
+      "code": "AC9M6N03",
+      "year": "Year 6",
+      "subject": "Maths",
+      "strand": "Number",
+      "descriptor": "apply knowledge of equivalence to compare, order and represent common fractions including halves, thirds and quarters on the same number line and justify their order",
+      "topicUrl": "https://skillrhub.com/year6/maths/ac9m6n03-apply-knowledge-of-equivalence-to-compare-order-and-represent/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-6/math/ac9m6n03/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-6/math/ac9m6n03/practice/",
+        "Test": "https://skillrhub.com/quiz/year-6/math/ac9m6n03/test/",
+        "Classroom View": "https://skillrhub.com/year6/maths/ac9m6n03-apply-knowledge-of-equivalence-to-compare-order-and-represent/teacher-slides/"
+      },
+      "productIds": [
+        "17670322"
+      ]
+    },
+    {
+      "code": "AC9MFA01",
+      "year": "Foundation",
+      "subject": "Maths",
+      "strand": "Algebra",
+      "descriptor": "recognise, copy and continue repeating patterns represented in different ways",
+      "topicUrl": "https://skillrhub.com/foundation/maths/ac9mfa01-recognise-copy-and-continue-repeating-patterns-represented-in/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/grade-k/math/ac9mfa01/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/grade-k/math/ac9mfa01/practice/",
+        "Test": "https://skillrhub.com/quiz/grade-k/math/ac9mfa01/test/",
+        "Classroom View": "https://skillrhub.com/foundation/maths/ac9mfa01-recognise-copy-and-continue-repeating-patterns-represented-in/teacher-slides/"
+      },
+      "productIds": [
+        "17810632"
+      ]
+    },
+    {
+      "code": "AC9MFM01",
+      "year": "Foundation",
+      "subject": "Maths",
+      "strand": "Measurement",
+      "descriptor": "identify and compare attributes of objects and events, including length, capacity, mass and duration, using direct comparisons and communicating reasoning",
+      "topicUrl": "https://skillrhub.com/foundation/maths/ac9mfm01-and-compare-attributes-of-objects-and-events-including-length/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/grade-k/math/ac9mfm01/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/grade-k/math/ac9mfm01/practice/",
+        "Test": "https://skillrhub.com/quiz/grade-k/math/ac9mfm01/test/",
+        "Classroom View": "https://skillrhub.com/foundation/maths/ac9mfm01-and-compare-attributes-of-objects-and-events-including-length/teacher-slides/"
+      },
+      "productIds": [
+        "17804874"
+      ]
+    },
+    {
+      "code": "AC9MFM02",
+      "year": "Foundation",
+      "subject": "Maths",
+      "strand": "Measurement",
+      "descriptor": "sequence days of the week and times of the day including morning, lunchtime, afternoon and night time, and connect them to familiar events and actions",
+      "topicUrl": "https://skillrhub.com/foundation/maths/ac9mfm02-sequence-days-of-the-week-and-times-of-the-day/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/grade-k/math/ac9mfm02/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/grade-k/math/ac9mfm02/practice/",
+        "Test": "https://skillrhub.com/quiz/grade-k/math/ac9mfm02/test/",
+        "Classroom View": "https://skillrhub.com/foundation/maths/ac9mfm02-sequence-days-of-the-week-and-times-of-the-day/teacher-slides/"
+      },
+      "productIds": [
+        "17811456"
+      ]
+    },
+    {
+      "code": "AC9MFN01",
+      "year": "Foundation",
+      "subject": "Maths",
+      "strand": "Number",
+      "descriptor": "name, represent and order numbers including zero to at least 20, using physical and virtual materials and numerals",
+      "topicUrl": "https://skillrhub.com/foundation/maths/ac9mfn01-name-represent-and-order-numbers-including-zero-to-at-least/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/grade-k/math/ac9mfn01/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/grade-k/math/ac9mfn01/practice/",
+        "Test": "https://skillrhub.com/quiz/grade-k/math/ac9mfn01/test/",
+        "Classroom View": "https://skillrhub.com/foundation/maths/ac9mfn01-name-represent-and-order-numbers-including-zero-to-at-least/teacher-slides/"
+      },
+      "productIds": [
+        "17839947",
+        "17620145",
+        "17802130"
+      ]
+    },
+    {
+      "code": "AC9MFN02",
+      "year": "Foundation",
+      "subject": "Maths",
+      "strand": "Number",
+      "descriptor": "recognise and name the number of objects within a collection up to 5 using subitising",
+      "topicUrl": "https://skillrhub.com/foundation/maths/ac9mfn02-and-name-the-number-of-objects-within-a-collection-up/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/grade-k/math/ac9mfn02/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/grade-k/math/ac9mfn02/practice/",
+        "Test": "https://skillrhub.com/quiz/grade-k/math/ac9mfn02/test/",
+        "Classroom View": "https://skillrhub.com/foundation/maths/ac9mfn02-and-name-the-number-of-objects-within-a-collection-up/teacher-slides/"
+      },
+      "productIds": [
+        "17802766"
+      ]
+    },
+    {
+      "code": "AC9MFN03",
+      "year": "Foundation",
+      "subject": "Maths",
+      "strand": "Number",
+      "descriptor": "quantify and compare collections to at least 20 using counting and explain or demonstrate reasoning",
+      "topicUrl": "https://skillrhub.com/foundation/maths/ac9mfn03-and-compare-collections-to-at-least-20-using-counting-and/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/grade-k/math/ac9mfn03/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/grade-k/math/ac9mfn03/practice/",
+        "Test": "https://skillrhub.com/quiz/grade-k/math/ac9mfn03/test/",
+        "Classroom View": "https://skillrhub.com/foundation/maths/ac9mfn03-and-compare-collections-to-at-least-20-using-counting-and/teacher-slides/"
+      },
+      "productIds": [
+        "17803594"
+      ]
+    },
+    {
+      "code": "AC9MFN04",
+      "year": "Foundation",
+      "subject": "Maths",
+      "strand": "Number",
+      "descriptor": "partition and combine collections up to 10 using part-part-whole relationships and subitising to recognise and name the parts",
+      "topicUrl": "https://skillrhub.com/foundation/maths/ac9mfn04-partition-and-combine-collections-up-to-10-using-part-part/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/grade-k/math/ac9mfn04/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/grade-k/math/ac9mfn04/practice/",
+        "Test": "https://skillrhub.com/quiz/grade-k/math/ac9mfn04/test/",
+        "Classroom View": "https://skillrhub.com/foundation/maths/ac9mfn04-partition-and-combine-collections-up-to-10-using-part-part/teacher-slides/"
+      },
+      "productIds": [
+        "17803723"
+      ]
+    },
+    {
+      "code": "AC9MFN05",
+      "year": "Foundation",
+      "subject": "Maths",
+      "strand": "Number",
+      "descriptor": "represent practical situations involving addition, subtraction and quantification with physical and virtual materials and use counting or subitising strategies",
+      "topicUrl": "https://skillrhub.com/foundation/maths/ac9mfn05-represent-practical-situations-involving-addition-subtraction/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/grade-k/math/ac9mfn05/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/grade-k/math/ac9mfn05/practice/",
+        "Test": "https://skillrhub.com/quiz/grade-k/math/ac9mfn05/test/",
+        "Classroom View": "https://skillrhub.com/foundation/maths/ac9mfn05-represent-practical-situations-involving-addition-subtraction/teacher-slides/"
+      },
+      "productIds": [
+        "17804195"
+      ]
+    },
+    {
+      "code": "AC9MFN06",
+      "year": "Foundation",
+      "subject": "Maths",
+      "strand": "Number",
+      "descriptor": "represent practical situations that involve equal sharing and grouping with physical and virtual materials and use counting or subitising strategies",
+      "topicUrl": "https://skillrhub.com/foundation/maths/ac9mfn06-represent-practical-situations-that-involve-equal-sharing-and/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/grade-k/math/ac9mfn06/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/grade-k/math/ac9mfn06/practice/",
+        "Test": "https://skillrhub.com/quiz/grade-k/math/ac9mfn06/test/",
+        "Classroom View": "https://skillrhub.com/foundation/maths/ac9mfn06-represent-practical-situations-that-involve-equal-sharing-and/teacher-slides/"
+      },
+      "productIds": [
+        "17804595"
+      ]
+    },
+    {
+      "code": "AC9MFSP01",
+      "year": "Foundation",
+      "subject": "Maths",
+      "strand": "Space",
+      "descriptor": "sort, name and create familiar shapes; recognise and describe familiar shapes within objects in the environment, giving reasons",
+      "topicUrl": "https://skillrhub.com/foundation/maths/ac9mfsp01-sort-name-and-create-familiar-shapes-recognise-and-describe/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/grade-k/math/ac9mfsp01/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/grade-k/math/ac9mfsp01/practice/",
+        "Test": "https://skillrhub.com/quiz/grade-k/math/ac9mfsp01/test/",
+        "Classroom View": "https://skillrhub.com/foundation/maths/ac9mfsp01-sort-name-and-create-familiar-shapes-recognise-and-describe/teacher-slides/"
+      },
+      "productIds": [
+        "17811158"
+      ]
+    },
+    {
+      "code": "AC9MFSP02",
+      "year": "Foundation",
+      "subject": "Maths",
+      "strand": "Space",
+      "descriptor": "describe the position and location of themselves and objects in relation to other people and objects within a familiar space",
+      "topicUrl": "https://skillrhub.com/foundation/maths/ac9mfsp02-the-position-and-location-of-themselves-and-objects-in-relation/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/grade-k/math/ac9mfsp02/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/grade-k/math/ac9mfsp02/practice/",
+        "Test": "https://skillrhub.com/quiz/grade-k/math/ac9mfsp02/test/",
+        "Classroom View": "https://skillrhub.com/foundation/maths/ac9mfsp02-the-position-and-location-of-themselves-and-objects-in-relation/teacher-slides/"
+      },
+      "productIds": [
+        "17811759"
+      ]
+    },
+    {
+      "code": "AC9MFST01",
+      "year": "Foundation",
+      "subject": "Maths",
+      "strand": "Statistics",
+      "descriptor": "collect, sort and compare data represented by objects and images in response to given investigative questions that relate to familiar situations",
+      "topicUrl": "https://skillrhub.com/foundation/maths/ac9mfst01-collect-sort-and-compare-data-represented-by-objects-and-images/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/grade-k/math/ac9mfst01/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/grade-k/math/ac9mfst01/practice/",
+        "Test": "https://skillrhub.com/quiz/grade-k/math/ac9mfst01/test/",
+        "Classroom View": "https://skillrhub.com/foundation/maths/ac9mfst01-collect-sort-and-compare-data-represented-by-objects-and-images/teacher-slides/"
+      },
+      "productIds": [
+        "17812026"
+      ]
+    },
+    {
+      "code": "AC9S1H01",
+      "year": "Year 1",
+      "subject": "Science",
+      "strand": "Science as a human endeavour",
+      "descriptor": "describe how people use science in their daily lives, including using patterns to make scientific predictions",
+      "topicUrl": "https://skillrhub.com/year1/science/ac9s1h01-science-in-daily-life/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/science/ac9s1h01/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/science/ac9s1h01/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/science/ac9s1h01/test/",
+        "Classroom View": "https://skillrhub.com/year1/science/ac9s1h01-science-in-daily-life/teacher-slides/"
+      },
+      "productIds": [
+        "17204777",
+        "17719151"
+      ]
+    },
+    {
+      "code": "AC9S1I01",
+      "year": "Year 1",
+      "subject": "Science",
+      "strand": "Science inquiry",
+      "descriptor": "pose questions to explore observed simple patterns and relationships and make predictions based on experiences",
+      "topicUrl": "https://skillrhub.com/year1/science/ac9s1i01-questions-patterns-and-predictions/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/science/ac9s1i01/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/science/ac9s1i01/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/science/ac9s1i01/test/",
+        "Classroom View": "https://skillrhub.com/year1/science/ac9s1i01-questions-patterns-and-predictions/teacher-slides/"
+      },
+      "productIds": [
+        "17720276"
+      ]
+    },
+    {
+      "code": "AC9S1I02",
+      "year": "Year 1",
+      "subject": "Science",
+      "strand": "Science inquiry",
+      "descriptor": "suggest and follow safe procedures to investigate questions and test predictions",
+      "topicUrl": "https://skillrhub.com/year1/science/ac9s1i02-safe-investigation-procedures/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/science/ac9s1i02/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/science/ac9s1i02/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/science/ac9s1i02/test/",
+        "Classroom View": "https://skillrhub.com/year1/science/ac9s1i02-safe-investigation-procedures/teacher-slides/"
+      },
+      "productIds": [
+        "17727914"
+      ]
+    },
+    {
+      "code": "AC9S1I03",
+      "year": "Year 1",
+      "subject": "Science",
+      "strand": "Science inquiry",
+      "descriptor": "make and record observations, including informal measurements, using digital tools as appropriate",
+      "topicUrl": "https://skillrhub.com/year1/science/ac9s1i03-making-and-recording-observations/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/science/ac9s1i03/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/science/ac9s1i03/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/science/ac9s1i03/test/",
+        "Classroom View": "https://skillrhub.com/year1/science/ac9s1i03-making-and-recording-observations/teacher-slides/"
+      },
+      "productIds": [
+        "17728068"
+      ]
+    },
+    {
+      "code": "AC9S1I04",
+      "year": "Year 1",
+      "subject": "Science",
+      "strand": "Science inquiry",
+      "descriptor": "sort and order data and information and represent patterns, including with provided tables and visual or physical models",
+      "topicUrl": "https://skillrhub.com/year1/science/ac9s1i04-sorting-data-and-representing-patterns/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/science/ac9s1i04/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/science/ac9s1i04/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/science/ac9s1i04/test/",
+        "Classroom View": "https://skillrhub.com/year1/science/ac9s1i04-sorting-data-and-representing-patterns/teacher-slides/"
+      },
+      "productIds": [
+        "17728279"
+      ]
+    },
+    {
+      "code": "AC9S1I05",
+      "year": "Year 1",
+      "subject": "Science",
+      "strand": "Science inquiry",
+      "descriptor": "compare observations with predictions and others’ observations, consider if investigations are fair and identify further questions with guidance",
+      "topicUrl": "https://skillrhub.com/year1/science/ac9s1i05-comparing-observations-and-predictions/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/science/ac9s1i05/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/science/ac9s1i05/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/science/ac9s1i05/test/",
+        "Classroom View": "https://skillrhub.com/year1/science/ac9s1i05-comparing-observations-and-predictions/teacher-slides/"
+      },
+      "productIds": [
+        "17729544"
+      ]
+    },
+    {
+      "code": "AC9S1I06",
+      "year": "Year 1",
+      "subject": "Science",
+      "strand": "Science inquiry",
+      "descriptor": "write and create texts to communicate observations, findings and ideas, using everyday and scientific vocabulary",
+      "topicUrl": "https://skillrhub.com/year1/science/ac9s1i06-communicating-scientific-ideas/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/science/ac9s1i06/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/science/ac9s1i06/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/science/ac9s1i06/test/",
+        "Classroom View": "https://skillrhub.com/year1/science/ac9s1i06-communicating-scientific-ideas/teacher-slides/"
+      },
+      "productIds": [
+        "17730055"
+      ]
+    },
+    {
+      "code": "AC9S1U01",
+      "year": "Year 1",
+      "subject": "Science",
+      "strand": "Science understanding",
+      "descriptor": "identify the basic needs of plants and animals, including air, water, food or shelter, and describe how the places they live meet those needs",
+      "topicUrl": "https://skillrhub.com/year1/science/ac9s1u01-needs-of-plants-and-animals/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/science/ac9s1u01/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/science/ac9s1u01/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/science/ac9s1u01/test/",
+        "Classroom View": "https://skillrhub.com/year1/science/ac9s1u01-needs-of-plants-and-animals/teacher-slides/"
+      },
+      "productIds": [
+        "17869034",
+        "17204521",
+        "17717457"
+      ]
+    },
+    {
+      "code": "AC9S1U02",
+      "year": "Year 1",
+      "subject": "Science",
+      "strand": "Science understanding",
+      "descriptor": "describe daily and seasonal changes in the environment and explore how these changes affect everyday life",
+      "topicUrl": "https://skillrhub.com/year1/science/ac9s1u02-daily-and-seasonal-changes/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/science/ac9s1u02/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/science/ac9s1u02/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/science/ac9s1u02/test/",
+        "Classroom View": "https://skillrhub.com/year1/science/ac9s1u02-daily-and-seasonal-changes/teacher-slides/"
+      },
+      "productIds": [
+        "17204732",
+        "17718181"
+      ]
+    },
+    {
+      "code": "AC9S1U03",
+      "year": "Year 1",
+      "subject": "Science",
+      "strand": "Science understanding",
+      "descriptor": "describe pushes and pulls in terms of strength and direction and predict the effect of these forces on objects’ motion and shape",
+      "topicUrl": "https://skillrhub.com/year1/science/ac9s1u03-pushes-and-pulls/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/science/ac9s1u03/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/science/ac9s1u03/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/science/ac9s1u03/test/",
+        "Classroom View": "https://skillrhub.com/year1/science/ac9s1u03-pushes-and-pulls/teacher-slides/"
+      },
+      "productIds": [
+        "17204675",
+        "17718482"
+      ]
+    },
+    {
+      "code": "AC9SFH01",
+      "year": "Foundation",
+      "subject": "Science",
+      "strand": "Science as a human endeavour",
+      "descriptor": "explore the ways people make and use observations and questions to learn about the natural world",
+      "topicUrl": "https://skillrhub.com/foundation/science/ac9sfh01-the-ways-people-make-and-use-observations-and-questions-to/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/grade-k/science/ac9sfh01/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/grade-k/science/ac9sfh01/practice/",
+        "Test": "https://skillrhub.com/quiz/grade-k/science/ac9sfh01/test/",
+        "Classroom View": "https://skillrhub.com/foundation/science/ac9sfh01-the-ways-people-make-and-use-observations-and-questions-to/teacher-slides/"
+      },
+      "productIds": [
+        "17842350"
+      ]
+    },
+    {
+      "code": "AC9SFI01",
+      "year": "Foundation",
+      "subject": "Science",
+      "strand": "Science inquiry",
+      "descriptor": "pose questions and make predictions based on experiences",
+      "topicUrl": "https://skillrhub.com/foundation/science/ac9sfi01-questions-and-make-predictions-based-on-experiences/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/grade-k/science/ac9sfi01/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/grade-k/science/ac9sfi01/practice/",
+        "Test": "https://skillrhub.com/quiz/grade-k/science/ac9sfi01/test/",
+        "Classroom View": "https://skillrhub.com/foundation/science/ac9sfi01-questions-and-make-predictions-based-on-experiences/teacher-slides/"
+      },
+      "productIds": [
+        "17842475"
+      ]
+    },
+    {
+      "code": "AC9SFI02",
+      "year": "Foundation",
+      "subject": "Science",
+      "strand": "Science inquiry",
+      "descriptor": "engage in investigations safely and make observations using their senses",
+      "topicUrl": "https://skillrhub.com/foundation/science/ac9sfi02-engage-in-investigations-safely-and-make-observations-using/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/grade-k/science/ac9sfi02/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/grade-k/science/ac9sfi02/practice/",
+        "Test": "https://skillrhub.com/quiz/grade-k/science/ac9sfi02/test/",
+        "Classroom View": "https://skillrhub.com/foundation/science/ac9sfi02-engage-in-investigations-safely-and-make-observations-using/teacher-slides/"
+      },
+      "productIds": [
+        "17842866"
+      ]
+    },
+    {
+      "code": "AC9SFI03",
+      "year": "Foundation",
+      "subject": "Science",
+      "strand": "Science inquiry",
+      "descriptor": "represent observations in provided templates and identify patterns with guidance",
+      "topicUrl": "https://skillrhub.com/foundation/science/ac9sfi03-represent-observations-in-provided-templates-and-identify/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/grade-k/science/ac9sfi03/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/grade-k/science/ac9sfi03/practice/",
+        "Test": "https://skillrhub.com/quiz/grade-k/science/ac9sfi03/test/",
+        "Classroom View": "https://skillrhub.com/foundation/science/ac9sfi03-represent-observations-in-provided-templates-and-identify/teacher-slides/"
+      },
+      "productIds": [
+        "17843349"
+      ]
+    },
+    {
+      "code": "AC9SFI04",
+      "year": "Foundation",
+      "subject": "Science",
+      "strand": "Science inquiry",
+      "descriptor": "compare observations with predictions with guidance",
+      "topicUrl": "https://skillrhub.com/foundation/science/ac9sfi04-observations-with-predictions-with-guidance/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/grade-k/science/ac9sfi04/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/grade-k/science/ac9sfi04/practice/",
+        "Test": "https://skillrhub.com/quiz/grade-k/science/ac9sfi04/test/",
+        "Classroom View": "https://skillrhub.com/foundation/science/ac9sfi04-observations-with-predictions-with-guidance/teacher-slides/"
+      },
+      "productIds": [
+        "17843715"
+      ]
+    },
+    {
+      "code": "AC9SFI05",
+      "year": "Foundation",
+      "subject": "Science",
+      "strand": "Science inquiry",
+      "descriptor": "share questions, predictions, observations and ideas with others",
+      "topicUrl": "https://skillrhub.com/foundation/science/ac9sfi05-share-questions-predictions-observations-and-ideas-with-others/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/grade-k/science/ac9sfi05/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/grade-k/science/ac9sfi05/practice/",
+        "Test": "https://skillrhub.com/quiz/grade-k/science/ac9sfi05/test/",
+        "Classroom View": "https://skillrhub.com/foundation/science/ac9sfi05-share-questions-predictions-observations-and-ideas-with-others/teacher-slides/"
+      },
+      "productIds": [
+        "17844340"
+      ]
+    },
+    {
+      "code": "AC9SFU01",
+      "year": "Foundation",
+      "subject": "Science",
+      "strand": "Science understanding",
+      "descriptor": "observe external features of plants and animals and describe ways they can be grouped based on these features",
+      "topicUrl": "https://skillrhub.com/foundation/science/ac9sfu01-observe-external-features-of-plants-and-animals-and-describe/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/grade-k/science/ac9sfu01/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/grade-k/science/ac9sfu01/practice/",
+        "Test": "https://skillrhub.com/quiz/grade-k/science/ac9sfu01/test/",
+        "Classroom View": "https://skillrhub.com/foundation/science/ac9sfu01-observe-external-features-of-plants-and-animals-and-describe/teacher-slides/"
+      },
+      "productIds": [
+        "17812573"
+      ]
+    },
+    {
+      "code": "AC9SFU02",
+      "year": "Foundation",
+      "subject": "Science",
+      "strand": "Science understanding",
+      "descriptor": "describe how objects move and how factors including their size, shape or material influence their movement",
+      "topicUrl": "https://skillrhub.com/foundation/science/ac9sfu02-how-objects-move-and-how-factors-including-their-size-shape/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/grade-k/science/ac9sfu02/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/grade-k/science/ac9sfu02/practice/",
+        "Test": "https://skillrhub.com/quiz/grade-k/science/ac9sfu02/test/",
+        "Classroom View": "https://skillrhub.com/foundation/science/ac9sfu02-how-objects-move-and-how-factors-including-their-size-shape/teacher-slides/"
+      },
+      "productIds": [
+        "17813656"
+      ]
+    },
+    {
+      "code": "AC9SFU03",
+      "year": "Foundation",
+      "subject": "Science",
+      "strand": "Science understanding",
+      "descriptor": "recognise that objects can be composed of different materials and describe the observable properties of those materials",
+      "topicUrl": "https://skillrhub.com/foundation/science/ac9sfu03-that-objects-can-be-composed-of-different-materials-and-describe/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/grade-k/science/ac9sfu03/worksheet/",
+        "Practice": "https://skillrhub.com/foundation/science/ac9sfu03-that-objects-can-be-composed-of-different-materials-and-describe/#independent-practice",
+        "Test": "https://skillrhub.com/quiz/grade-k/science/ac9sfu03/test/",
+        "Classroom View": "https://skillrhub.com/foundation/science/ac9sfu03-that-objects-can-be-composed-of-different-materials-and-describe/teacher-slides/"
+      },
+      "productIds": [
+        "17840189"
+      ]
+    }
+  ]
+}
