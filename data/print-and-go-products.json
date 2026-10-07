@@ -1,5 +1,36 @@
 [
   {
+    "id": "year-1-comparing-measurements",
+    "title": "Year 1 Maths: Comparing Measurements 6-Day Worksheets & Test | AC9M1M01",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "measurement",
+      "length",
+      "mass",
+      "capacity",
+      "duration",
+      "direct comparison",
+      "indirect comparison",
+      "ordering",
+      "practice",
+      "test"
+    ],
+    "curriculumCodes": [
+      "AC9M1M01"
+    ],
+    "description": "A 44-page Year 1 maths pack with 60 practice questions, a separate 16-question test, illustrated vocabulary, dictation, worked examples and complete answer keys.",
+    "url": "/products/year-1-comparing-measurements/",
+    "image": "/assets/year-1-comparing-measurements-cover.svg",
+    "price": "4.00",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "worksheet",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Comparing-Measurements-6-Day-Worksheets-Test-AC9M1M01-17866956"
+  },
+  {
     "id": "year-1-repeating-patterns",
     "title": "Year 1 Maths: Repeating Patterns 6-Day Worksheets & Test | AC9M1A02",
     "year": 1,
