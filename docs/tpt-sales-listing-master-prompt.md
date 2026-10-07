@@ -30,6 +30,50 @@ We release **new FREE classroom samples regularly**, so follow the store to see 
 
 — SkillrHub Learning
 
+## Organic feedback in resource packs
+Apply this standard to every new pack and whenever an existing pack is otherwise being revised. Do not regenerate the frozen catalogue merely to add a feedback note.
+
+### Paid TPT packs
+Place this compact note on the existing teacher information page (normally page 2), outside student print ranges:
+
+**Thank you for choosing SkillrHub!**
+
+After using this resource, please consider leaving an honest review on TPT. Share what worked for your learners and what could be improved. Your feedback helps other teachers decide whether the resource suits their needs and helps us improve future packs.
+
+TPT awards credits for reviews of eligible paid purchases, which you can apply towards future TPT purchases. To review this resource, go to **My Purchases → Leave a Review**.
+
+### Free TPT samples
+Use this note on the existing teacher information or final adult-facing page:
+
+**Thank you for trying this free SkillrHub sample!**
+
+After using it, please consider leaving an honest review on TPT. Share what worked for your learners and what could be improved. Your feedback helps other teachers and guides our next resources. Follow the SkillrHub Learning TPT store for new classroom samples.
+
+Free downloads do not earn TPT review credits. Never promise credits, a discount, a gift or access to another resource in exchange for reviewing a free sample. Include a related paid-pack link only when the product is live and relevant; keep it separate from the review request.
+
+### Placement and delivery
+- Use one brief feedback note per pack; do not add marketing to every student worksheet or create a new page solely for it.
+- Preserve the student print ranges, page numbering, answer-key separation, teacher notes and existing content. Update advertised page counts only if the final file count actually changes.
+- Link to the exact TPT product when its live URL is known. Otherwise use the My Purchases instructions; never invent product or review links.
+- Credit wording applies only to eligible paid TPT purchases, not Payhip purchases or free downloads.
+- Request honest reviews without specifying a star rating, seeking only satisfied reviewers or guaranteeing search-ranking benefits.
+
+### Pre-publication quality check
+- Re-solve every question and match its answer to the final question number, diagram and instruction. Check reasonable alternative answers and teacher scripts.
+- Check Australian English, age suitability and the exact curriculum code.
+- Render the final student pages and answer pages; fix overlaps, clipping, broken symbols and unreadable labels, and confirm A4 printing.
+- Confirm that flattening preserves all required teacher/speaker notes and that student pages remain printable separately from answers.
+- Confirm that the feedback note matches the free/paid status and that every included link works.
+- Record only checks actually performed. A checklist does not establish that a product has passed QA.
+
+## Evidence-led monitoring and pricing
+During normal store reviews, record dated product views, free downloads, paid orders, conversion rate, revenue and new reviews using available TPT data. Compare like-for-like periods; do not assume a fixed review rate or free-to-paid conversion.
+Keep current prices until sales evidence supports a change. Any launch discount is a time-limited pricing experiment available independently of reviews; never make it conditional on feedback. Do not automatically raise prices after five reviews.
+
+Policy references (checked 7 October 2026):
+- [TPT credits](https://help.teacherspayteachers.com/hc/en-us/articles/360042304412-What-are-TPT-credits)
+- [Seller ratings and reviews guidelines](https://help.teacherspayteachers.com/hc/en-us/articles/360042243512-Ratings-Reviews-Guidelines-for-Sellers)
+
 ## Post-publication optimisation
 Monitor TPT search impressions, product views, search terms, free downloads, followers, paid orders, conversion rate, revenue and bundle performance. Use Search Analytics to revise weak listings and double down on demonstrated teacher demand.
 
