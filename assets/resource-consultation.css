@@ -1,0 +1,19 @@
+/* Adult-facing resource consultation; isolated from teaching layouts. */
+.skillr-consultation{box-sizing:border-box;margin:2rem 0;padding:clamp(1.3rem,3vw,2rem);background:#f3f8fc;border:1px solid #cedce9;border-radius:18px;color:#19304a}
+.skillr-consultation h2{margin:.25rem 0 .8rem;line-height:1.2;font-size:clamp(1.5rem,3vw,2rem)}
+.skillr-consultation p,.skillr-consultation li{line-height:1.6}
+.skillr-consultation__eyebrow{font-size:.8rem;font-weight:800;letter-spacing:.06em;text-transform:uppercase;color:#315976}
+.skillr-consultation--cta{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:1.5rem;align-items:center}
+.skillr-consultation__button,.skillr-consultation button{display:inline-block;box-sizing:border-box;padding:.85rem 1.15rem;min-height:48px;background:#193f65;color:#fff;border:0;border-radius:9px;font:inherit;font-weight:700;text-decoration:none;cursor:pointer;text-align:center}
+.skillr-consultation__button:hover,.skillr-consultation button:hover{background:#112f4c;color:#fff}
+.skillr-consultation__form{max-width:760px;background:#fff;padding:clamp(1rem,3vw,1.5rem);border:1px solid #d3dfea;border-radius:12px}
+.skillr-consultation__grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 1rem}
+.skillr-consultation label{display:block;font-weight:700;margin:1rem 0 .4rem}
+.skillr-consultation label span{font-weight:400}
+.skillr-consultation input,.skillr-consultation select,.skillr-consultation textarea{display:block;width:100%;box-sizing:border-box;min-height:48px;padding:.75rem;border:1px solid #71869b;border-radius:7px;background:#fff;color:#19304a;font:inherit;font-size:16px}
+.skillr-consultation textarea{resize:vertical;min-height:120px}
+.skillr-consultation__note{font-size:.9rem;color:#40576d}
+.skillr-consultation__updates{margin-top:1.3rem;padding-top:1rem;border-top:1px solid #cedce9}
+.skillr-consultation a:focus-visible,.skillr-consultation button:focus-visible,.skillr-consultation input:focus-visible,.skillr-consultation select:focus-visible,.skillr-consultation textarea:focus-visible{outline:3px solid #d8950a;outline-offset:3px}
+@media(max-width:760px){.skillr-consultation--cta,.skillr-consultation__grid{grid-template-columns:1fr}.skillr-consultation__button{width:100%}}
+@media print{.skillr-consultation{display:none}}
