@@ -1,5 +1,34 @@
 [
   {
+    "id": "year-1-equal-sharing-grouping",
+    "title": "Year 1 Maths: Equal Sharing & Grouping 5-Day Worksheets & Test | AC9M1N06",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "equal sharing",
+      "equal groups",
+      "grouping",
+      "arrays",
+      "mathematical modelling",
+      "word problems",
+      "practice",
+      "test"
+    ],
+    "curriculumCodes": [
+      "AC9M1N06"
+    ],
+    "description": "A 43-page Year 1 maths pack with 60 practice questions, a separate 16-question test, illustrated vocabulary, dictation, worked examples and complete answer keys.",
+    "url": "/products/year-1-equal-sharing-grouping/",
+    "image": "/assets/year-1-equal-sharing-grouping-cover.svg",
+    "price": "4.00",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "worksheet",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Equal-Sharing-Grouping-5-Day-Worksheets-Test-AC9M1N06-17865685"
+  },
+  {
     "id": "year-1-word-problems-money",
     "title": "Year 1 Maths: Word Problems & Money 6-Day Worksheets & Test | AC9M1N05",
     "year": 1,
