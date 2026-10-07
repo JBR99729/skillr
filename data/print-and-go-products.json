@@ -1,5 +1,35 @@
 [
   {
+    "id": "year-1-addition-subtraction-to-20",
+    "title": "Year 1 Maths: Addition & Subtraction to 20 5-Day Worksheets & Test | AC9M1N04",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "addition",
+      "subtraction",
+      "numbers to 20",
+      "number bonds",
+      "make ten",
+      "counting on",
+      "word problems",
+      "practice",
+      "test"
+    ],
+    "curriculumCodes": [
+      "AC9M1N04"
+    ],
+    "description": "A 46-page Year 1 maths pack with 60 practice questions, a separate 16-question test, illustrated vocabulary, dictation, worked examples and complete answer keys.",
+    "url": "/products/year-1-addition-subtraction-to-20/",
+    "image": "/assets/year-1-addition-subtraction-to-20-cover.svg",
+    "price": "4.00",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "worksheet",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Addition-Subtraction-to-20-5-Day-Worksheets-Test-AC9M1N04-17865364"
+  },
+  {
     "id": "year-1-equal-groups-skip-counting",
     "title": "Year 1 Maths: Equal Groups & Skip Counting 5-Day Worksheets & Test | AC9M1N03",
     "year": 1,
