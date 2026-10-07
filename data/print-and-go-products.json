@@ -1,5 +1,38 @@
 [
   {
+    "id": "year-1-shapes-objects",
+    "title": "Year 1 Maths: Shapes & Objects 6-Day Worksheets & Test | AC9M1SP01",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "space",
+      "geometry",
+      "shapes",
+      "objects",
+      "2D shapes",
+      "3D objects",
+      "sides",
+      "corners",
+      "classify",
+      "compare",
+      "practice",
+      "test"
+    ],
+    "curriculumCodes": [
+      "AC9M1SP01"
+    ],
+    "description": "A 47-page Year 1 maths pack with 60 practice questions, a separate 16-question test, illustrated vocabulary, dictation, worked examples and complete answer keys.",
+    "url": "/products/year-1-shapes-objects/",
+    "image": "/assets/year-1-shapes-objects-cover.svg",
+    "price": "4.00",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "worksheet",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Shapes-Objects-6-Day-Worksheets-Test-AC9M1SP01-17867400"
+  },
+  {
     "id": "year-1-time-duration",
     "title": "Year 1 Maths: Time & Duration 6-Day Worksheets & Test | AC9M1M03",
     "year": 1,
