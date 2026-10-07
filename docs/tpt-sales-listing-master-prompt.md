@@ -19,6 +19,17 @@ FREE SAMPLE -> SINGLE-SKILL PRODUCT -> TOPIC BUNDLE -> STRAND BUNDLE -> FULL-YEA
 
 Check every new resource for legitimate bundle membership. Do not wait for the whole year before creating coherent topic/strand bundles.
 
+## Required follow-store CTA in future descriptions
+End every future SkillrHub TPT product description (free, paid and bundle) with one brief follow-store invitation that gives teachers a concrete reason to follow. Do not use a bare "Follow my store!" request.
+
+Default maths wording:
+
+**Planning your Australian Curriculum v9.0 maths lessons?**
+
+Follow **SkillrHub Learning** on TPT to keep up with new curriculum-code packs, free classroom samples and strand bundles—ready-to-use resources that save you planning time.
+
+Adapt "maths" to English, science or the actual subject/subjects of the listing. Use Australian English. Mention specific year levels, seasonal resources or release schedules only when supported by the current catalogue and confirmed plans. Do not promise immediate notifications or describe a particular button colour/icon unless its current appearance has been verified. Keep following optional and separate from purchase, review requests and credit eligibility. For freebies, combine this invitation with the freebie CTA below so the description does not repeat the same request.
+
 ## Freebie CTA
 For free samples, include:
 
