@@ -67,3 +67,19 @@ References used to temper earlier GEO claims:
 Google does not require special AI markup and states that its search systems
 ignore llms.txt. There is no guarantee of recommendations, citations, ranking
 gains or unchanged rankings after adding page information.
+
+## Deployment verification
+
+The Pages deployment of commit 69d2fe8 succeeded. Live AC9S1U01 facts and the
+static catalogue were checked in the browser; the latter exposes all 102 topic
+links and 124 download links. Homepage and an affected practice route returned
+HTTP 200. Release integrity, search/AI integrity, topic layout/learning order,
+runtime ownership, question-bank quality, F–4 rollout, F–10 English and affected
+Year 1–6 Maths/Year 1 Science workflow checks passed.
+
+Seven broader failed checks were reproduced on both the original base commit
+96ea14f and the release candidate, with identical exit codes and diagnostic
+output: breadcrumb generation, Foundation Maths static pages, Foundation Science
+static pages, Foundation pre-module notes, Bing metadata, optional video output,
+and sitemap index quality. They are pre-existing and were left outside this
+resource-context-only maintenance change.

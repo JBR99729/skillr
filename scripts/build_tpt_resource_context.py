@@ -130,7 +130,7 @@ for code, packs in sorted(by_code.items()):
     body = f'''<details class="curriculum-topic-section" id="resource-facts"><summary><strong>About this resource: curriculum, worksheets and teaching packs</strong></summary><div class="curriculum-detail-body">
 <p>SkillrHub provides a {escape(level)} {escape(subject)} topic guide and learning resources for <strong>{code}</strong>, aligned with Australian Curriculum Version 9.0. The curriculum focus is: {escape(u['description'])}.</p>
 <div class="curriculum-table-wrap"><table class="curriculum-map-table"><caption>Resource facts for {code}</caption><tbody>{rows}</tbody></table></div>
-<h3>Where can I find a {code} worksheet?</h3><p>Open the {link(routes['Worksheet'], code + ' worksheet')} for student written work. The website worksheet, topic guide, online practice and test are free to access without a login.</p>
+<h3>Where can I find worksheets for {code}?</h3><p>Open the {link(routes['Worksheet'], code + ' worksheet')} for student written work. The website worksheet, topic guide, online practice and test are free to access without a login.</p>
 <p>{free_links}</p>
 <h3>Related SkillrHub downloads on Teachers Pay Teachers</h3><p>These separate TpT resources cover this curriculum code. Open the matching listing to check its preview, file format, included activities, answers and current price before choosing a pack.</p><ul>{choices}</ul>
 <p>For classroom teaching, start with the topic guide, use the worksheet or practice to consolidate learning, then use the test to check understanding. TpT downloads are optional resources with their own purchase or download conditions.</p>
