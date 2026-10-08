@@ -1,7 +1,7 @@
 {
   "observedAt": "2026-10-07",
   "storefront": "https://www.teacherspayteachers.com/store/skillrhub",
-  "observedProductCount": 124,
+  "observedProductCount": 125,
   "codeCount": 102,
   "evidence": "All seven public store pages inspected. Existing catalogue names and code mappings retained; new listings copied from the live store. Prices and unsupported pack counts intentionally omitted.",
   "unmappedProductIds": [
@@ -1141,6 +1141,16 @@
         "AC9M1N01"
       ],
       "freeSample": false
+    },
+    {
+      "productId": "17889013",
+      "name": "Year 1 English Likes, Dislikes & Preferences Worksheets | AC9E1LA02",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-English-Likes-Dislikes-Preferences-Worksheets-AC9E1LA02-17889013",
+      "curriculumCodes": [
+        "AC9E1LA02"
+      ],
+      "freeSample": false,
+      "evidence": "Owner supplied published listing URL on 2026-10-08; reviewed workbook counts."
     }
   ],
   "codes": [
@@ -1158,7 +1168,8 @@
         "Classroom View": "https://skillrhub.com/year1/english/ac9e1la02-language-to-provide-reasons-for-likes-dislikes-and-preferences/teacher-slides/"
       },
       "productIds": [
-        "17736411"
+        "17736411",
+        "17889013"
       ]
     },
     {

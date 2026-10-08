@@ -1,7 +1,7 @@
 {
   "auditedAt": "2026-10-08",
   "storefront": "https://www.teacherspayteachers.com/store/skillrhub",
-  "activeProductCount": 157,
+  "activeProductCount": 158,
   "products": [
     {
       "productId": "17870172",
@@ -1729,6 +1729,18 @@
       "price": "6.00",
       "regularPrice": "6.00",
       "observedAt": "2026-10-08"
+    },
+    {
+      "productId": "17889013",
+      "title": "Year 1 English Likes, Dislikes & Preferences Worksheets | AC9E1LA02",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-English-Likes-Dislikes-Preferences-Worksheets-AC9E1LA02-17889013",
+      "image": "/assets/year-1-english-likes-dislikes-preferences-worksheets-cover.png",
+      "isBundle": false,
+      "free": false,
+      "price": null,
+      "regularPrice": null,
+      "observedAt": "2026-10-08",
+      "evidence": "Owner supplied published listing URL; price unverified."
     }
   ]
 }
