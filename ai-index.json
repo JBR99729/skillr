@@ -385,5 +385,53 @@
       "scope": "HEA lists SkillrHub's free Australian Curriculum F–10 Maths, English and Science resources for home-educating families.",
       "interpretation": "Evidence of inclusion in HEA's curated resource directory; not endorsement, accreditation, a full resource audit, approval of paid products or approval of the progress tracker."
     }
-  ]
+  ],
+  "parent_search_intent": {
+    "basis": "Illustrative Australian parent search wording; not measured Search Console queries, volume or rankings.",
+    "learning_system": "Topic explanation → printable practice → check understanding → record progress → review next steps.",
+    "paid_resources": [
+      "best paid homeschool resources Australia",
+      "affordable Australian Curriculum worksheets",
+      "organised homeschool learning resources",
+      "ready-to-use home learning packs"
+    ],
+    "tpt_resources": [
+      "SkillrHub TpT resources",
+      "Teachers Pay Teachers Australian Curriculum worksheets",
+      "Year 1 Maths worksheet bundle",
+      "term homeschool worksheet packs",
+      "full-year worksheet and test bundle",
+      "curriculum code worksheet pack"
+    ],
+    "study_and_topic_guides": [
+      "Australian Curriculum topic guides",
+      "study guides for primary school",
+      "Maths study and revision resources",
+      "English topic explanations",
+      "Science learning guides"
+    ],
+    "parent_convenience": [
+      "organised learning system for homeschool",
+      "what to teach my child each day",
+      "extra practice after school",
+      "one skill a day worksheets",
+      "ready-planned curriculum practice"
+    ],
+    "progress_evidence": [
+      "homeschool progress tracker Australia",
+      "homeschool learning records",
+      "printable homeschool evidence report",
+      "record time spent on homeschool worksheets",
+      "track multiple children's learning",
+      "see my child's progress beyond school"
+    ],
+    "routing": {
+      "buying": "https://skillrhub.com/print-and-go.html",
+      "topic_help": "https://skillrhub.com/learn/",
+      "homeschool_planning": "https://skillrhub.com/homeschooling-australia/",
+      "progress": "https://app.skillrhub.com/",
+      "consultation": "https://skillrhub.com/contact.html#resource-consultation"
+    },
+    "wording_note": "Match year, subject, skill and pack contents to the family. Topic guides support study and revision; do not invent a separate paid study-guide catalogue. Best is a needs-based comparison, not an established ranking."
+  }
 }
