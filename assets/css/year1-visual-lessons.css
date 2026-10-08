@@ -1,0 +1,14 @@
+/* Scoped teaching models; preserve existing topic and classroom layouts. */
+.year1-visual-lesson { margin-block: 1rem; }
+.year1-visual-lesson .year1-visual-body { padding: clamp(14px, 3vw, 26px); }
+.year1-visual-lesson figure { margin: 1rem 0; padding: 12px; background: #fff; border: 1px solid #d5e4e1; border-radius: 12px; }
+.year1-visual-lesson img { display: block; width: 100%; max-width: 800px; height: auto; margin-inline: auto; }
+.year1-visual-lesson figcaption { margin-top: .6rem; color: #42566a; font-size: .95rem; line-height: 1.55; }
+.year1-visual-lesson li { margin-bottom: .65rem; line-height: 1.65; }
+.year1-visual-lesson .year1-teaching-note { padding: .85rem 1rem; border-left: 4px solid #28786f; background: #edf6f5; }
+.year1-visual-lesson .year1-example-answer { margin: .8rem 0; padding: .7rem 1rem; border: 1px solid #d5e4e1; border-radius: 8px; background: #fff; }
+.year1-visual-lesson .year1-example-answer summary { cursor: pointer; font-weight: 700; }
+.year1-visual-lesson .year1-adult-support { color: #42566a; font-size: .95rem; line-height: 1.55; }
+@media (max-width: 480px) {
+  .year1-visual-lesson figure { padding: 6px; }
+}

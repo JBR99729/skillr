@@ -1,0 +1,1531 @@
+[
+  {
+    "code": "AC9M1N01",
+    "topic": "year1/maths/ac9m1n01-numbers-to-120/index.html",
+    "classroom": "year1/maths/ac9m1n01-numbers-to-120/teacher-slides/index.html",
+    "model_file": "ac9m1n01.svg",
+    "title": "See where numbers belong",
+    "model": [
+      "numberline",
+      96,
+      104,
+      [
+        99,
+        100,
+        103
+      ]
+    ],
+    "steps": [
+      "Each space on this line adds one. Read across: 98, 99, 100, 101.",
+      "Crossing 99 does not restart the count. One more than 99 is 100.",
+      "103 is three steps after 100, so it is greater than 99."
+    ],
+    "task": "What number is one step before 102? What number is one step after it?",
+    "answer": "101 and 103. Each step changes the number by one.",
+    "caution": "Count the spaces between marks, not only the labelled marks."
+  },
+  {
+    "code": "AC9M1N02",
+    "topic": "year1/maths/ac9m1n02-partitioning-tens-and-ones/index.html",
+    "classroom": "year1/maths/ac9m1n02-partitioning-tens-and-ones/teacher-slides/index.html",
+    "model_file": "ac9m1n02.svg",
+    "title": "Keep the whole when you split it",
+    "model": [
+      "tens",
+      34
+    ],
+    "steps": [
+      "Three complete groups of ten and four ones make 34.",
+      "Exchange one ten for ten ones: now there are two tens and fourteen ones.",
+      "Both ways show the same whole: 30 + 4 = 20 + 14 = 34."
+    ],
+    "task": "Show 26 in two ways using tens and ones.",
+    "answer": "2 tens and 6 ones; or 1 ten and 16 ones. Both total 26.",
+    "caution": "Moving objects into new groups does not change how many there are."
+  },
+  {
+    "code": "AC9M1N03",
+    "topic": "year1/maths/ac9m1n03-skip-counting-and-equal-groups/index.html",
+    "classroom": "year1/maths/ac9m1n03-skip-counting-and-equal-groups/teacher-slides/index.html",
+    "model_file": "ac9m1n03.svg",
+    "title": "Count equal groups without missing any",
+    "model": [
+      "groups",
+      4,
+      5
+    ],
+    "steps": [
+      "There are four groups. Each group has five counters.",
+      "Count the groups of five: 5, 10, 15, 20.",
+      "There are twenty counters altogether. Counting each counter gives the same total."
+    ],
+    "task": "Make three groups of five counters. Count the groups, then check each counter.",
+    "answer": "5, 10, 15: fifteen counters in three equal groups.",
+    "caution": "Check that every group has the same number before skip-counting."
+  },
+  {
+    "code": "AC9M1N04",
+    "topic": "year1/maths/ac9m1n04-addition-and-subtraction-within-20/index.html",
+    "classroom": "year1/maths/ac9m1n04-addition-and-subtraction-within-20/teacher-slides/index.html",
+    "model_file": "ac9m1n04.svg",
+    "title": "Make ten and keep the remaining part",
+    "model": [
+      "tenframe",
+      8,
+      5
+    ],
+    "steps": [
+      "Start with eight counters. There are two empty spaces in the first ten-frame.",
+      "Move two of the five extra counters into those spaces. Three extra counters remain.",
+      "Now there is one full ten and three more: 8 + 5 = 10 + 3 = 13."
+    ],
+    "task": "Use the same idea to work out 9 + 5.",
+    "answer": "Move one of the five to make ten. Four remain, so 10 + 4 = 14.",
+    "caution": "The extra counters are split, not counted twice. Two and three still make five."
+  },
+  {
+    "code": "AC9M1N05",
+    "topic": "year1/maths/ac9m1n05-additive-problem-solving-and-money/index.html",
+    "classroom": "year1/maths/ac9m1n05-additive-problem-solving-and-money/teacher-slides/index.html",
+    "model_file": "ac9m1n05.svg",
+    "title": "Build the story before choosing the operation",
+    "model": [
+      "parts",
+      7,
+      5,
+      "dollars"
+    ],
+    "steps": [
+      "A child has 7 dollars and receives 5 more dollars.",
+      "The two amounts join. The parts are 7 dollars and 5 dollars.",
+      "7 + 5 = 12. The child now has 12 dollars. Check that the answer fits the story."
+    ],
+    "task": "You have 12 counters and give away 5. How many remain?",
+    "answer": "7 counters. Here the whole is 12 and the removed part is 5: 12 − 5 = 7.",
+    "caution": "Read what happens. The same numbers can belong to a joining or a taking-away story."
+  },
+  {
+    "code": "AC9M1N06",
+    "topic": "year1/maths/ac9m1n06-equal-sharing-and-grouping/index.html",
+    "classroom": "year1/maths/ac9m1n06-equal-sharing-and-grouping/teacher-slides/index.html",
+    "model_file": "ac9m1n06.svg",
+    "title": "Sharing and grouping ask different questions",
+    "model": [
+      "groups",
+      3,
+      4
+    ],
+    "steps": [
+      "The model contains twelve counters, arranged as three groups of four.",
+      "Sharing: twelve counters shared equally among three people gives four each.",
+      "Grouping: twelve counters put into groups of four makes three groups."
+    ],
+    "task": "Share eight counters between two people. Then make groups of two from eight counters.",
+    "answer": "Sharing gives four each. Grouping makes four groups of two.",
+    "caution": "Say whether the answer tells how many in each group or how many groups."
+  },
+  {
+    "code": "AC9M1A01",
+    "topic": "year1/maths/ac9m1a01-skip-counting-pattern-sequences/index.html",
+    "classroom": "year1/maths/ac9m1a01-skip-counting-pattern-sequences/teacher-slides/index.html",
+    "model_file": "ac9m1a01.svg",
+    "title": "Follow an equal counting step",
+    "model": [
+      "numberline",
+      0,
+      10,
+      [
+        0,
+        2,
+        4,
+        6,
+        8,
+        10
+      ]
+    ],
+    "steps": [
+      "Start at zero and move two spaces each time.",
+      "The landing numbers are 0, 2, 4, 6, 8 and 10.",
+      "Each new number is two more. Use the step to find a missing number or continue the sequence."
+    ],
+    "task": "Continue 3, 5, 7, __, __. Explain the step.",
+    "answer": "9 and 11. The sequence starts at 3 and adds two each time.",
+    "caution": "A counting sequence can start at a number other than zero."
+  },
+  {
+    "code": "AC9M1A02",
+    "topic": "year1/maths/ac9m1a02-repeating-patterns/index.html",
+    "classroom": "year1/maths/ac9m1a02-repeating-patterns/teacher-slides/index.html",
+    "model_file": "ac9m1a02.svg",
+    "title": "Find the smallest repeating unit",
+    "model": [
+      "pattern",
+      [
+        "triangle",
+        "circle",
+        "square",
+        "triangle",
+        "circle",
+        "square",
+        "triangle",
+        "circle",
+        "square"
+      ]
+    ],
+    "steps": [
+      "Read the shapes in order: triangle, circle, square.",
+      "The same three shapes appear again in the same order. This is the repeating unit.",
+      "After each square, the unit starts again with a triangle."
+    ],
+    "task": "Copy the pattern. Add the next three shapes and circle one smallest repeating unit.",
+    "answer": "Triangle, circle, square. One unit contains those three shapes in that order.",
+    "caution": "A repeating pattern repeats its unit; it does not keep adding a larger number."
+  },
+  {
+    "code": "AC9M1M01",
+    "topic": "year1/maths/ac9m1m01-comparing-length-mass-capacity-and-duration/index.html",
+    "classroom": "year1/maths/ac9m1m01-comparing-length-mass-capacity-and-duration/teacher-slides/index.html",
+    "model_file": "ac9m1m01.svg",
+    "title": "Compare the same feature",
+    "model": [
+      "lengths",
+      [
+        [
+          "Strip A",
+          4
+        ],
+        [
+          "Strip B",
+          6
+        ]
+      ]
+    ],
+    "steps": [
+      "The two strips begin at the same line.",
+      "Strip B reaches farther along the line, so it is longer than strip A.",
+      "This picture compares length. It does not tell which strip is heavier or holds more."
+    ],
+    "task": "Place two ribbons at the same starting point. Which is shorter? Explain how you know.",
+    "answer": "The shorter ribbon ends nearer the shared starting point. Judge length, not colour or width.",
+    "caution": "Longer does not automatically mean heavier. Choose the feature you are comparing."
+  },
+  {
+    "code": "AC9M1M02",
+    "topic": "year1/maths/ac9m1m02-measuring-length-with-informal-units/index.html",
+    "classroom": "year1/maths/ac9m1m02-measuring-length-with-informal-units/teacher-slides/index.html",
+    "model_file": "ac9m1m02.svg",
+    "title": "Measure with equal units and no gaps",
+    "model": [
+      "units",
+      5
+    ],
+    "steps": [
+      "Start the first block at the beginning of the strip.",
+      "Place five equal-sized blocks end to end. They reach the other end with no gaps or overlaps.",
+      "The strip is five blocks long. Record both the number and the unit."
+    ],
+    "task": "Why would gaps between the blocks make this measurement unreliable?",
+    "answer": "Some of the strip would not be covered by blocks. Put the equal blocks together and measure again.",
+    "caution": "The blocks must be the same size. A count of mixed-sized units is not a clear length."
+  },
+  {
+    "code": "AC9M1M03",
+    "topic": "year1/maths/ac9m1m03-time-years-months-weeks-days-and-hours/index.html",
+    "classroom": "year1/maths/ac9m1m03-time-years-months-weeks-days-and-hours/teacher-slides/index.html",
+    "model_file": "ac9m1m03.svg",
+    "title": "Read the order of days",
+    "model": [
+      "cards",
+      [
+        [
+          "First",
+          "Monday"
+        ],
+        [
+          "Next",
+          "Tuesday"
+        ],
+        [
+          "Then",
+          "Wednesday"
+        ]
+      ]
+    ],
+    "steps": [
+      "Read the days in order. Tuesday follows Monday; Wednesday follows Tuesday.",
+      "A week has seven days. The day after Sunday is Monday.",
+      "Use a calendar to connect dates to their days. Months do not all have the same number of days."
+    ],
+    "task": "What day comes before Friday? What day comes after Sunday?",
+    "answer": "Thursday comes before Friday. Monday comes after Sunday.",
+    "caution": "A new week continues the order; it does not stop after Sunday."
+  },
+  {
+    "code": "AC9M1SP01",
+    "topic": "year1/maths/ac9m1sp01-familiar-shapes-and-objects/index.html",
+    "classroom": "year1/maths/ac9m1sp01-familiar-shapes-and-objects/teacher-slides/index.html",
+    "model_file": "ac9m1sp01.svg",
+    "title": "A shape keeps its properties when it turns",
+    "model": [
+      "shapes"
+    ],
+    "steps": [
+      "Both triangles have three straight sides and three corners.",
+      "The second triangle is turned. Its position changes, but its sides and corners do not.",
+      "The circle has a curved edge and no corners. Describe what you can see before naming the shape."
+    ],
+    "task": "Turn a paper square. Is it still a square? Give a reason.",
+    "answer": "Yes. It still has four equal sides and four square corners.",
+    "caution": "Do not name a shape only by the way it points. A turned square is still a square."
+  },
+  {
+    "code": "AC9M1SP02",
+    "topic": "year1/maths/ac9m1sp02-directions-and-location/index.html",
+    "classroom": "year1/maths/ac9m1sp02-directions-and-location/teacher-slides/index.html",
+    "model_file": "ac9m1sp02.svg",
+    "title": "Use a clear start and facing direction",
+    "model": [
+      "route"
+    ],
+    "steps": [
+      "The start arrow points upwards. Forward means the way that arrow faces.",
+      "Move forward two squares. Turn right on the spot.",
+      "Move forward one square in the new direction. Follow the instructions in order."
+    ],
+    "task": "At the same start, move forward one square, turn right, then move forward two squares.",
+    "answer": "Finish two squares to the right and one square above the start, facing right.",
+    "caution": "A turn changes where you face; it is not an extra sideways step."
+  },
+  {
+    "code": "AC9M1ST01",
+    "topic": "year1/maths/ac9m1st01-collecting-categorical-data/index.html",
+    "classroom": "year1/maths/ac9m1st01-collecting-categorical-data/teacher-slides/index.html",
+    "model_file": "ac9m1st01.svg",
+    "title": "Give each response one place",
+    "model": [
+      "data",
+      [
+        [
+          "Apple",
+          3
+        ],
+        [
+          "Pear",
+          2
+        ]
+      ]
+    ],
+    "steps": [
+      "Five children each choose one fruit. Their answers are apple, pear, apple, apple, pear.",
+      "Make one record for each answer in its fruit row.",
+      "There are three apple responses and two pear responses. The total is five, matching the number of children."
+    ],
+    "task": "Record these four answers: pear, apple, pear, pear.",
+    "answer": "Apple: 1; pear: 3. Four responses altogether.",
+    "caution": "If the question asks for one favourite, agree that each person gives one answer."
+  },
+  {
+    "code": "AC9M1ST02",
+    "topic": "year1/maths/ac9m1st02-representing-and-comparing-data/index.html",
+    "classroom": "year1/maths/ac9m1st02-representing-and-comparing-data/teacher-slides/index.html",
+    "model_file": "ac9m1st02.svg",
+    "title": "Compare counts using the picture key",
+    "model": [
+      "data",
+      [
+        [
+          "Walking",
+          4
+        ],
+        [
+          "Cycling",
+          2
+        ]
+      ]
+    ],
+    "steps": [
+      "The key says one circle represents one child.",
+      "Count four walking responses and two cycling responses. Their first two circles line up.",
+      "Walking has two more responses. There are six children altogether."
+    ],
+    "task": "If another child cycles, what changes in the display?",
+    "answer": "Add one circle to cycling. There are then three cyclists and seven children altogether.",
+    "caution": "A bigger picture does not mean more children when each picture represents one."
+  },
+  {
+    "code": "AC9S1U01",
+    "topic": "year1/science/ac9s1u01-needs-of-plants-and-animals/index.html",
+    "classroom": "year1/science/ac9s1u01-needs-of-plants-and-animals/teacher-slides/index.html",
+    "model_file": "ac9s1u01.svg",
+    "title": "Connect a need to what the place provides",
+    "model": [
+      "cards",
+      [
+        [
+          "Need",
+          "Water"
+        ],
+        [
+          "Place feature",
+          "A water bowl"
+        ],
+        [
+          "Care",
+          "Refill it when needed"
+        ]
+      ]
+    ],
+    "steps": [
+      "A pet needs water. A filled water bowl can meet that need.",
+      "It also needs suitable food, air and a safe place to rest. Water alone does not meet every need.",
+      "Growing green plants need water, air and suitable light. Soil can support them and provide nutrients; it is not a meal."
+    ],
+    "task": "Name one feature of a garden that could meet a bird’s need. Explain the connection.",
+    "answer": "For example, a leafy shrub may provide shelter, or suitable seeds may provide food. Link the feature to the need.",
+    "caution": "Different living things have different needs. A place must meet the needs of the living thing being discussed."
+  },
+  {
+    "code": "AC9S1U02",
+    "topic": "year1/science/ac9s1u02-daily-and-seasonal-changes/index.html",
+    "classroom": "year1/science/ac9s1u02-daily-and-seasonal-changes/teacher-slides/index.html",
+    "model_file": "ac9s1u02.svg",
+    "title": "Use a record instead of guessing a season",
+    "model": [
+      "cards",
+      [
+        [
+          "Morning",
+          "Cloudy"
+        ],
+        [
+          "After lunch",
+          "Rainy"
+        ],
+        [
+          "Our choice",
+          "Use a raincoat"
+        ]
+      ]
+    ],
+    "steps": [
+      "This record describes two observations within one day.",
+      "The weather changed from cloudy to rainy. A raincoat is a useful choice for the rain.",
+      "A seasonal pattern needs observations across a longer time. One rainy day does not prove the season changed."
+    ],
+    "task": "What could you record each week to notice seasonal changes near your home?",
+    "answer": "For example, weather, daylight, plant changes or suitable clothing. Compare dated records over time.",
+    "caution": "Seasonal patterns differ across Australia. Do not assume every place has snowy winters."
+  },
+  {
+    "code": "AC9S1U03",
+    "topic": "year1/science/ac9s1u03-pushes-and-pulls/index.html",
+    "classroom": "year1/science/ac9s1u03-pushes-and-pulls/teacher-slides/index.html",
+    "model_file": "ac9s1u03.svg",
+    "title": "Show the force direction and observe its effect",
+    "model": [
+      "force"
+    ],
+    "steps": [
+      "The arrow shows a push towards the right. It shows the force direction, not a guaranteed travel distance.",
+      "A push can start, stop or change movement. A push can also change shape, such as pressing soft dough.",
+      "If an object is blocked, a push may act even when the object does not move. Watch what actually happens."
+    ],
+    "task": "With an adult, gently push a safe toy on a clear surface. Say which way you push and what changes.",
+    "answer": "Describe the observed change, such as starting to move or changing direction. No visible movement is also a possible result.",
+    "caution": "A force and its effect are different ideas. A push does not always make an object move."
+  },
+  {
+    "code": "AC9S1H01",
+    "topic": "year1/science/ac9s1h01-science-in-daily-life/index.html",
+    "classroom": "year1/science/ac9s1h01-science-in-daily-life/teacher-slides/index.html",
+    "model_file": "ac9s1h01.svg",
+    "title": "Use a pattern to make an everyday decision",
+    "model": [
+      "cards",
+      [
+        [
+          "We noticed",
+          "Soil often dries on warm days"
+        ],
+        [
+          "We predict",
+          "It may be dry today"
+        ],
+        [
+          "We check",
+          "Feel the soil with an adult"
+        ]
+      ]
+    ],
+    "steps": [
+      "Repeated observations can help us predict what may happen.",
+      "The gardener expects dry soil after another warm day, then checks before deciding to water.",
+      "The check matters: a prediction helps a decision but does not replace an observation."
+    ],
+    "task": "How could noticing dark clouds help someone plan a walk?",
+    "answer": "They might prepare for rain, for example by taking a raincoat, while checking the actual weather and adult advice.",
+    "caution": "A pattern can support a prediction without making the outcome certain."
+  },
+  {
+    "code": "AC9S1I01",
+    "topic": "year1/science/ac9s1i01-questions-patterns-and-predictions/index.html",
+    "classroom": "year1/science/ac9s1i01-questions-patterns-and-predictions/teacher-slides/index.html",
+    "model_file": "ac9s1i01.svg",
+    "title": "Keep noticing, wondering and predicting separate",
+    "model": [
+      "cards",
+      [
+        [
+          "I noticed",
+          "The car went farther on the board than on the rug"
+        ],
+        [
+          "I wonder",
+          "Will it happen again?"
+        ],
+        [
+          "I predict",
+          "It may go farther on the board than on the rug"
+        ]
+      ]
+    ],
+    "steps": [
+      "The observation tells what happened in the earlier trial.",
+      "The question asks something we can investigate with guidance.",
+      "The prediction says what may happen next and uses the earlier observation as a reason."
+    ],
+    "task": "Say a prediction for the next trial and explain what experience supports it.",
+    "answer": "For example, “I think the car may go farther on the board because it went farther there than on the rug in our first trial.” Accept another reasoned prediction.",
+    "caution": "Do not rewrite a prediction after seeing the outcome. A different result can still help us learn."
+  },
+  {
+    "code": "AC9S1I02",
+    "topic": "year1/science/ac9s1i02-safe-investigation-procedures/index.html",
+    "classroom": "year1/science/ac9s1i02-safe-investigation-procedures/teacher-slides/index.html",
+    "model_file": "ac9s1i02.svg",
+    "title": "Make a safe, useful plan with an adult",
+    "model": [
+      "cards",
+      [
+        [
+          "Prepare",
+          "Adult checks space and equipment"
+        ],
+        [
+          "Try",
+          "Release the toy safely"
+        ],
+        [
+          "Record",
+          "Observe, then pack away"
+        ]
+      ]
+    ],
+    "steps": [
+      "Agree on the question and prediction before choosing the steps.",
+      "An adult checks the equipment and clears a safe space. Use a low, stable ramp and large safe objects.",
+      "Release the toy from the agreed start, observe where it stops, record the result and pack away."
+    ],
+    "task": "A person steps into the toy’s path before release. What should you do?",
+    "answer": "Wait. Ask the adult to make the space safe before continuing.",
+    "caution": "A plan must match the question. Safety takes priority over finishing a trial quickly."
+  },
+  {
+    "code": "AC9S1I03",
+    "topic": "year1/science/ac9s1i03-making-and-recording-observations/index.html",
+    "classroom": "year1/science/ac9s1i03-making-and-recording-observations/teacher-slides/index.html",
+    "model_file": "ac9s1i03.svg",
+    "title": "Make a record someone else can understand",
+    "model": [
+      "units",
+      5
+    ],
+    "steps": [
+      "The strip is measured with five equal-sized blocks placed together from end to end.",
+      "Record “5 blocks long”. The number alone does not name the unit.",
+      "Add what was measured and when, if comparing changes over time. Record what was actually observed."
+    ],
+    "task": "An observation note says only “five”. What detail would make the measurement clear?",
+    "answer": "Name the unit and object, for example “The strip was 5 blocks long.” Do not invent a missing observation.",
+    "caution": "A picture without a scale cannot prove an object’s real length. Measure it or show the units."
+  },
+  {
+    "code": "AC9S1I04",
+    "topic": "year1/science/ac9s1i04-sorting-data-and-representing-patterns/index.html",
+    "classroom": "year1/science/ac9s1i04-sorting-data-and-representing-patterns/teacher-slides/index.html",
+    "model_file": "ac9s1i04.svg",
+    "title": "Keep counts matched to their labels",
+    "model": [
+      "data",
+      [
+        [
+          "Day 1",
+          2
+        ],
+        [
+          "Day 2",
+          4
+        ],
+        [
+          "Day 3",
+          4
+        ]
+      ]
+    ],
+    "steps": [
+      "This supplied record shows flower counts: two, four and four on three days.",
+      "Keep each day beside its count. Put the days in order before describing the change.",
+      "The count increased from Day 1 to Day 2, then stayed the same from Day 2 to Day 3."
+    ],
+    "task": "Does this record show that the count increased every day? Explain.",
+    "answer": "No. Days 2 and 3 both have four. Describe the whole record, including where it stays the same.",
+    "caution": "These symbols represent recorded counts. They do not explain why the flowers changed."
+  },
+  {
+    "code": "AC9S1I05",
+    "topic": "year1/science/ac9s1i05-comparing-observations-and-predictions/index.html",
+    "classroom": "year1/science/ac9s1i05-comparing-observations-and-predictions/teacher-slides/index.html",
+    "model_file": "ac9s1i05.svg",
+    "title": "Keep the prediction even when it does not match",
+    "model": [
+      "cards",
+      [
+        [
+          "Before the trial",
+          "I predict 3 blocks"
+        ],
+        [
+          "After the trial",
+          "We measured 5 blocks"
+        ],
+        [
+          "Compare",
+          "The distances do not match"
+        ]
+      ]
+    ],
+    "steps": [
+      "The prediction was three blocks. The observed result was five blocks, using the same-sized unit.",
+      "The distance did not match the prediction. Keep both records unchanged.",
+      "With guidance, compare the start, object, surface and measuring method before deciding what to try next."
+    ],
+    "task": "One trial gives 4 blocks and another gives 6. Can you report that both gave 6?",
+    "answer": "No. Keep both results. Check how each trial was carried out and consider another trial with guidance.",
+    "caution": "A surprising result is evidence, not a reason to erase or alter the record."
+  },
+  {
+    "code": "AC9S1I06",
+    "topic": "year1/science/ac9s1i06-communicating-scientific-ideas/index.html",
+    "classroom": "year1/science/ac9s1i06-communicating-scientific-ideas/teacher-slides/index.html",
+    "model_file": "ac9s1i06.svg",
+    "title": "Create a science message from the evidence",
+    "model": [
+      "data",
+      [
+        [
+          "Board",
+          6
+        ],
+        [
+          "Rug",
+          3
+        ]
+      ]
+    ],
+    "steps": [
+      "The supplied trial record shows six blocks on the board and three blocks on the rug.",
+      "A clear sentence is: “In this trial, the car travelled 6 blocks on the board and 3 blocks on the rug.”",
+      "Add a labelled drawing or table if useful. Share it with a listener and check that the message is clear."
+    ],
+    "task": "Write or dictate a sentence comparing the two recorded distances.",
+    "answer": "For example, “The car travelled farther on the board than on the rug in this trial.” Keep the named surfaces and the limit “in this trial”.",
+    "caution": "This record does not prove that every car always travels farther on a board. Report the evidence you have."
+  },
+  {
+    "code": "AC9E1LA01",
+    "topic": "year1/english/ac9e1la01-how-language-facial-expressions-and-gestures-are-used-to/index.html",
+    "classroom": "year1/english/ac9e1la01-how-language-facial-expressions-and-gestures-are-used-to/teacher-slides/index.html",
+    "model_file": "ac9e1la01.svg",
+    "title": "Choose words for the purpose",
+    "model": [
+      "cards",
+      [
+        [
+          "Ask for information",
+          "Where is the glue?"
+        ],
+        [
+          "Provide information",
+          "It is beside the paper."
+        ],
+        [
+          "Make a request",
+          "Please pass it to Sam."
+        ]
+      ]
+    ],
+    "steps": [
+      "The first speaker wants a place, so the reply gives a place.",
+      "A request asks someone to do something. It can help you or another person, such as Sam.",
+      "Words, expressions and gestures give clues. If clues seem mixed, ask rather than deciding how someone feels."
+    ],
+    "task": "Change “Can you help me?” into an offer to help someone else.",
+    "answer": "For example, “Can I help you?” The speaker now offers their own help.",
+    "caution": "Commands need not be angry or loud. Accept signing, AAC and home-language support; do not require eye contact or smiling."
+  },
+  {
+    "code": "AC9E1LA02",
+    "topic": "year1/english/ac9e1la02-language-to-provide-reasons-for-likes-dislikes-and-preferences/index.html",
+    "classroom": "year1/english/ac9e1la02-language-to-provide-reasons-for-likes-dislikes-and-preferences/teacher-slides/index.html",
+    "model_file": "ac9e1la02.svg",
+    "title": "Connect a preference to its reason",
+    "model": [
+      "cards",
+      [
+        [
+          "My preference",
+          "I prefer this game"
+        ],
+        [
+          "Link",
+          "because"
+        ],
+        [
+          "My reason",
+          "we can all take turns"
+        ]
+      ]
+    ],
+    "steps": [
+      "Say which choice you prefer.",
+      "Use because to connect the choice to a reason.",
+      "A different person may prefer something else and give a different reason. Listen respectfully."
+    ],
+    "task": "Tell a partner which book you prefer and give a reason.",
+    "answer": "Accept a clear preference with a relevant reason, such as liking its funny characters. There is no single correct preference.",
+    "caution": "Repeating “because I like it” does not explain what you like about it."
+  },
+  {
+    "code": "AC9E1LA03",
+    "topic": "year1/english/ac9e1la03-how-texts-are-organised-according-to-their-purpose-such-as/index.html",
+    "classroom": "year1/english/ac9e1la03-how-texts-are-organised-according-to-their-purpose-such-as/teacher-slides/index.html",
+    "model_file": "ac9e1la03.svg",
+    "title": "Notice how the purpose shapes the text",
+    "model": [
+      "cards",
+      [
+        [
+          "A procedure",
+          "1. Fold the paper."
+        ],
+        [
+          "Next step",
+          "2. Draw on the front."
+        ],
+        [
+          "Last step",
+          "3. Give it to a friend."
+        ]
+      ]
+    ],
+    "steps": [
+      "This text tells someone how to make a card.",
+      "Its numbered actions show the order to follow.",
+      "A recount would instead tell what already happened. A story may introduce characters and a problem."
+    ],
+    "task": "Why would changing the order of a procedure sometimes cause a problem?",
+    "answer": "Some actions depend on earlier steps. Explain a concrete example, such as folding before drawing the front of a card.",
+    "caution": "Purpose and organisation work together; a title alone is not always enough to identify the purpose."
+  },
+  {
+    "code": "AC9E1LA04",
+    "topic": "year1/english/ac9e1la04-how-repetition-rhyme-and-rhythm-create-cohesion-in-simple-poems/index.html",
+    "classroom": "year1/english/ac9e1la04-how-repetition-rhyme-and-rhythm-create-cohesion-in-simple-poems/teacher-slides/index.html",
+    "model_file": "ac9e1la04.svg",
+    "title": "Hear the rhyme and keep the beat",
+    "model": [
+      "cards",
+      [
+        [
+          "Line 1",
+          "Tap, tap, in the sun."
+        ],
+        [
+          "Line 2",
+          "Tap, tap, now we run."
+        ],
+        [
+          "Notice",
+          "sun / run"
+        ]
+      ]
+    ],
+    "steps": [
+      "Say the two lines aloud. Tap a steady beat.",
+      "Tap, tap repeats. Sun and run rhyme because their ending sounds match.",
+      "Repetition, rhyme and rhythm can help the lines sound connected."
+    ],
+    "task": "Which word could rhyme with run: fun or rain? Say the words aloud.",
+    "answer": "Fun. Listen to the matching ending sound, not only the spelling.",
+    "caution": "Rhyming words need matching ending sounds, not matching first letters."
+  },
+  {
+    "code": "AC9E1LA05",
+    "topic": "year1/english/ac9e1la05-how-print-and-screen-texts-are-organised-using-features-such/index.html",
+    "classroom": "year1/english/ac9e1la05-how-print-and-screen-texts-are-organised-using-features-such/teacher-slides/index.html",
+    "model_file": "ac9e1la05.svg",
+    "title": "Follow a contents entry to a page",
+    "model": [
+      "book"
+    ],
+    "steps": [
+      "The contents gives the name of each section and its starting page.",
+      "To find nests, read “Nests — page 4”, then turn to page 4.",
+      "A heading names that section. On a screen, a link or button can take you to a section."
+    ],
+    "task": "The contents says “Food — page 6”. Where would you look for the food section?",
+    "answer": "Page 6. Check its heading when you arrive.",
+    "caution": "A contents page helps you find information; it is not the whole information itself."
+  },
+  {
+    "code": "AC9E1LA06",
+    "topic": "year1/english/ac9e1la06-that-a-simple-sentence-consists-of-a-single-independent-clause/index.html",
+    "classroom": "year1/english/ac9e1la06-that-a-simple-sentence-consists-of-a-single-independent-clause/teacher-slides/index.html",
+    "model_file": "ac9e1la06.svg",
+    "title": "Build a complete idea",
+    "model": [
+      "cards",
+      [
+        [
+          "Who?",
+          "The bird"
+        ],
+        [
+          "What happened?",
+          "sang"
+        ],
+        [
+          "A detail",
+          "in the tree."
+        ]
+      ]
+    ],
+    "steps": [
+      "Join the parts: “The bird sang in the tree.” It makes sense by itself.",
+      "“In the tree” alone gives a place but not the whole idea.",
+      "A simple sentence can include useful details. It can also describe a state, such as “The bird is small.”"
+    ],
+    "task": "Make “sat on the mat” into a complete sentence.",
+    "answer": "For example, “The cat sat on the mat.” Accept another suitable naming part.",
+    "caution": "Sentence length alone does not tell you whether the idea is complete."
+  },
+  {
+    "code": "AC9E1LA07",
+    "topic": "year1/english/ac9e1la07-that-words-can-represent-people-places-and-things-nouns/index.html",
+    "classroom": "year1/english/ac9e1la07-that-words-can-represent-people-places-and-things-nouns/teacher-slides/index.html",
+    "model_file": "ac9e1la07.svg",
+    "title": "Use the job of a word in its sentence",
+    "model": [
+      "cards",
+      [
+        [
+          "Who or what?",
+          "bird"
+        ],
+        [
+          "What kind?",
+          "small"
+        ],
+        [
+          "What happened?",
+          "sang"
+        ]
+      ]
+    ],
+    "steps": [
+      "Read “The small bird sang.” Bird names the thing; small describes it; sang tells what happened.",
+      "Words can do different jobs in different sentences. Read the whole sentence first.",
+      "A verb may describe a state, not only movement: “The bird is small.”"
+    ],
+    "task": "In “The green frog jumps”, which word describes the frog?",
+    "answer": "Green. Frog names it; jumps tells what it does.",
+    "caution": "Do not decide a word’s job from its position alone."
+  },
+  {
+    "code": "AC9E1LA08",
+    "topic": "year1/english/ac9e1la08-how-images-in-different-types-of-texts-contribute-to-meaning/index.html",
+    "classroom": "year1/english/ac9e1la08-how-images-in-different-types-of-texts-contribute-to-meaning/teacher-slides/index.html",
+    "model_file": "ac9e1la08.svg",
+    "title": "An image can show information words leave out",
+    "model": [
+      "arrows"
+    ],
+    "steps": [
+      "Both signs say “This way”. The arrows point in different directions.",
+      "The words alone do not name the direction. The image adds that information.",
+      "In other texts, an image may show a setting, an action or a labelled feature. Explain the clue you can actually see."
+    ],
+    "task": "Which sign would guide you to the right? What does its image add?",
+    "answer": "The right-arrow sign. Its image shows which direction “this way” means.",
+    "caution": "An image supplies clues; it cannot establish every hidden feeling or cause."
+  },
+  {
+    "code": "AC9E1LA09",
+    "topic": "year1/english/ac9e1la09-the-vocabulary-of-learning-area-topics/index.html",
+    "classroom": "year1/english/ac9e1la09-the-vocabulary-of-learning-area-topics/teacher-slides/index.html",
+    "model_file": "ac9e1la09.svg",
+    "title": "Link a topic word to its meaning",
+    "model": [
+      "cards",
+      [
+        [
+          "Topic",
+          "Weather"
+        ],
+        [
+          "Word",
+          "rain"
+        ],
+        [
+          "Use it",
+          "Rain fell after lunch."
+        ]
+      ]
+    ],
+    "steps": [
+      "A topic word helps name something we are learning about.",
+      "Explain the word in familiar language, then use it in a sentence about that topic.",
+      "Check context. The same word can have different meanings in different situations."
+    ],
+    "task": "Use the word shelter in a sentence about an animal’s needs.",
+    "answer": "For example, “The rabbit needs a safe shelter.” Accept an accurate sentence and explanation.",
+    "caution": "Knowing a word means using it meaningfully, not only repeating it."
+  },
+  {
+    "code": "AC9E1LA10",
+    "topic": "year1/english/ac9e1la10-that-written-language-uses-punctuation-such-as-full-stops/index.html",
+    "classroom": "year1/english/ac9e1la10-that-written-language-uses-punctuation-such-as-full-stops/teacher-slides/index.html",
+    "model_file": "ac9e1la10.svg",
+    "title": "Let the message guide the end mark",
+    "model": [
+      "cards",
+      [
+        [
+          "Telling",
+          "Sam has the book."
+        ],
+        [
+          "Asking",
+          "Does Sam have the book?"
+        ],
+        [
+          "Strong reaction",
+          "What a huge book!"
+        ]
+      ]
+    ],
+    "steps": [
+      "A full stop ends this telling sentence.",
+      "A question mark shows that the second sentence asks a question.",
+      "An exclamation mark can show a strong reaction. A calm command can still end with a full stop."
+    ],
+    "task": "Fix this question: “where is sam”",
+    "answer": "“Where is Sam?” Start the sentence and the name with capitals; finish with a question mark.",
+    "caution": "An exclamation mark alone does not tell you whether the message is a command or a reaction."
+  },
+  {
+    "code": "AC9E1LE01",
+    "topic": "year1/english/ac9e1le01-how-language-and-images-are-used-to-create-characters-settings/index.html",
+    "classroom": "year1/english/ac9e1le01-how-language-and-images-are-used-to-create-characters-settings/teacher-slides/index.html",
+    "model_file": "ac9e1le01.svg",
+    "title": "Use story details to explain a character",
+    "model": [
+      "cards",
+      [
+        [
+          "Story words",
+          "Sam shared the last apple with a friend."
+        ],
+        [
+          "What happened?",
+          "Sam shared an apple with a friend."
+        ],
+        [
+          "Our idea",
+          "Sam may be kind."
+        ]
+      ]
+    ],
+    "steps": [
+      "The story tells an action: Sam shared the apple.",
+      "That detail supports the idea that Sam may be kind.",
+      "An illustration can add more clues about the character, place and event. Check the actual picture rather than imagining missing details."
+    ],
+    "task": "Which story detail supports “Sam may be kind”?",
+    "answer": "Sharing the last apple with a friend. Link the character idea to the action.",
+    "caution": "Describe a character using evidence from the story, rather than appearance alone."
+  },
+  {
+    "code": "AC9E1LE02",
+    "topic": "year1/english/ac9e1le02-literary-texts-and-share-responses-by-making-connections-with/index.html",
+    "classroom": "year1/english/ac9e1le02-literary-texts-and-share-responses-by-making-connections-with/teacher-slides/index.html",
+    "model_file": "ac9e1le02.svg",
+    "title": "Explain your connection to a story",
+    "model": [
+      "cards",
+      [
+        [
+          "In the story",
+          "A child lost a toy."
+        ],
+        [
+          "My experience",
+          "I lost my hat once."
+        ],
+        [
+          "My response",
+          "I understand feeling worried."
+        ]
+      ]
+    ],
+    "steps": [
+      "Name the story event you are responding to.",
+      "Connect it to something you have experienced or know about.",
+      "Explain how the connection helps you understand the story. You may respond differently from a partner."
+    ],
+    "task": "Share a connection to a familiar story, or explain why an event interests you.",
+    "answer": "Accept a relevant connection or thoughtful response, with a link to the text. Children need not disclose private experiences.",
+    "caution": "Your experience helps interpretation; it does not change what happened in the story."
+  },
+  {
+    "code": "AC9E1LE03",
+    "topic": "year1/english/ac9e1le03-plot-character-and-setting-which-are-features-of-stories/index.html",
+    "classroom": "year1/english/ac9e1le03-plot-character-and-setting-which-are-features-of-stories/teacher-slides/index.html",
+    "model_file": "ac9e1le03.svg",
+    "title": "Separate who, where and what happens",
+    "model": [
+      "cards",
+      [
+        [
+          "Character",
+          "Sam"
+        ],
+        [
+          "Setting",
+          "The park"
+        ],
+        [
+          "Plot event",
+          "Sam lost a ball."
+        ]
+      ]
+    ],
+    "steps": [
+      "The character is who the story is about.",
+      "The setting gives the place and may also tell when the story happens.",
+      "The plot follows what happens. Losing the ball could introduce a problem to be solved."
+    ],
+    "task": "Tell a possible next event that follows this problem.",
+    "answer": "For example, Sam looks beside the slide or asks a friend to help. Explain how the event follows losing the ball.",
+    "caution": "The setting is not the event; “the park” and “losing the ball” tell different parts."
+  },
+  {
+    "code": "AC9E1LE04",
+    "topic": "year1/english/ac9e1le04-poems-chants-rhymes-and-songs-and-imitate-and-invent-sound/index.html",
+    "classroom": "year1/english/ac9e1le04-poems-chants-rhymes-and-songs-and-imitate-and-invent-sound/teacher-slides/index.html",
+    "model_file": "ac9e1le04.svg",
+    "title": "Make a pattern with sounds",
+    "model": [
+      "cards",
+      [
+        [
+          "Beginning sound",
+          "big / blue / bag"
+        ],
+        [
+          "Ending sound",
+          "bee / tree"
+        ],
+        [
+          "Say it",
+          "Big blue bag. Bee in a tree."
+        ]
+      ]
+    ],
+    "steps": [
+      "Big, blue and bag begin with the same /b/ sound: this is alliteration.",
+      "Bee and tree have matching ending sounds: they rhyme.",
+      "Say a short pattern aloud, then choose new words that keep its sound pattern and meaning."
+    ],
+    "task": "Add a word that begins with /s/ to “silly, sunny, ___”.",
+    "answer": "For example, sandy or sleepy. Accept an appropriate word starting with /s/.",
+    "caution": "Alliteration uses beginning sounds; rhyme uses ending sounds. They are different patterns."
+  },
+  {
+    "code": "AC9E1LE05",
+    "topic": "year1/english/ac9e1le05-retell-or-adapt-a-familiar-story-using-plot-and-characters/index.html",
+    "classroom": "year1/english/ac9e1le05-retell-or-adapt-a-familiar-story-using-plot-and-characters/teacher-slides/index.html",
+    "model_file": "ac9e1le05.svg",
+    "title": "Retell first, then change one part",
+    "model": [
+      "cards",
+      [
+        [
+          "Beginning",
+          "Sam takes a ball to the park."
+        ],
+        [
+          "Problem",
+          "The ball rolls away."
+        ],
+        [
+          "Ending",
+          "A friend helps find it."
+        ]
+      ]
+    ],
+    "steps": [
+      "Retell the main events in their order.",
+      "To adapt the story, choose a part to change, such as the character or place.",
+      "Keep the changed events connected. If the place changes, some actions may need to change too."
+    ],
+    "task": "Retell this story with a different character. Keep the lost-ball problem.",
+    "answer": "Accept a clear retelling with the changed character and a connected ending.",
+    "caution": "An adaptation makes a deliberate change; a retelling preserves the important events."
+  },
+  {
+    "code": "AC9E1LY01",
+    "topic": "year1/english/ac9e1ly01-different-texts-and-identify-some-features-that-indicate-their/index.html",
+    "classroom": "year1/english/ac9e1ly01-different-texts-and-identify-some-features-that-indicate-their/teacher-slides/index.html",
+    "model_file": "ac9e1ly01.svg",
+    "title": "Use features to work out a text’s job",
+    "model": [
+      "cards",
+      [
+        [
+          "Feature",
+          "Numbered steps"
+        ],
+        [
+          "Example",
+          "1. Fold. 2. Draw."
+        ],
+        [
+          "Purpose",
+          "Tell how to do something"
+        ]
+      ]
+    ],
+    "steps": [
+      "Look at how the text is organised.",
+      "These numbered actions are a clue that the text gives instructions.",
+      "Check other clues too. A story can mention steps without being a procedure."
+    ],
+    "task": "What features might help you find facts about birds?",
+    "answer": "For example, headings, labels and factual sentences in an information text. Explain their use.",
+    "caution": "One feature is a clue, not always proof of the whole text’s purpose."
+  },
+  {
+    "code": "AC9E1LY02",
+    "topic": "year1/english/ac9e1ly02-interaction-skills-including-turn-taking-speaking-clearly-using/index.html",
+    "classroom": "year1/english/ac9e1ly02-interaction-skills-including-turn-taking-speaking-clearly-using/teacher-slides/index.html",
+    "model_file": "ac9e1ly02.svg",
+    "title": "Show that you heard the other person’s idea",
+    "model": [
+      "cards",
+      [
+        [
+          "Partner says",
+          "I liked the funny ending."
+        ],
+        [
+          "You respond",
+          "Which part made you laugh?"
+        ],
+        [
+          "Partner adds",
+          "When the hat fell off."
+        ]
+      ]
+    ],
+    "steps": [
+      "Listen to the idea and wait for a turn.",
+      "Ask a related question or add a connected comment.",
+      "Speak clearly in a way that works for the listener. Signing or communication tools can also support a conversation."
+    ],
+    "task": "A partner says, “I built a tall tower.” Ask a related question.",
+    "answer": "For example, “How did you keep it standing?” Accept a question connected to the tower.",
+    "caution": "Listening does not require compulsory eye contact. Check understanding through the response."
+  },
+  {
+    "code": "AC9E1LY03",
+    "topic": "year1/english/ac9e1ly03-some-similarities-and-differences-between-imaginative/index.html",
+    "classroom": "year1/english/ac9e1ly03-some-similarities-and-differences-between-imaginative/teacher-slides/index.html",
+    "model_file": "ac9e1ly03.svg",
+    "title": "Compare texts about the same subject",
+    "model": [
+      "cards",
+      [
+        [
+          "Story",
+          "A bird flew to the moon."
+        ],
+        [
+          "Information",
+          "Birds have feathers."
+        ],
+        [
+          "Persuasion",
+          "Please protect bird habitats."
+        ]
+      ]
+    ],
+    "steps": [
+      "The first example imagines a story event.",
+      "The second gives information about birds.",
+      "The third asks the reader to support an action. Texts can mix purposes, so explain the clues."
+    ],
+    "task": "Which example would best help you find a fact about a bird’s body?",
+    "answer": "“Birds have feathers.” It directly gives relevant information.",
+    "caution": "A text mentioning an animal is not automatically an information text."
+  },
+  {
+    "code": "AC9E1LY04",
+    "topic": "year1/english/ac9e1ly04-decodable-and-authentic-texts-using-developing-phonic-knowledge/index.html",
+    "classroom": "year1/english/ac9e1ly04-decodable-and-authentic-texts-using-developing-phonic-knowledge/teacher-slides/index.html",
+    "model_file": "ac9e1ly04.svg",
+    "title": "Check the letters when a word does not fit",
+    "model": [
+      "sounds",
+      [
+        "f",
+        "r",
+        "o",
+        "g"
+      ],
+      "frog"
+    ],
+    "steps": [
+      "In “The frog hops”, look through the letters in frog and blend the sounds in order.",
+      "If you read flag, the meaning may alert you to a problem. Return to the letters and re-blend.",
+      "Read the phrase again smoothly and check that it makes sense. A picture can support meaning, but it does not replace decoding."
+    ],
+    "task": "Read “The frog hops” aloud. Point to the letters while checking frog.",
+    "answer": "Hear the child read the word and sentence. Supply help with the taught letter–sound correspondences when needed.",
+    "caution": "Guessing a word from a picture is not the same as reading its spelling."
+  },
+  {
+    "code": "AC9E1LY05",
+    "topic": "year1/english/ac9e1ly05-comprehension-strategies-such-as-visualising-predicting/index.html",
+    "classroom": "year1/english/ac9e1ly05-comprehension-strategies-such-as-visualising-predicting/teacher-slides/index.html",
+    "model_file": "ac9e1ly05.svg",
+    "title": "Explain an inference with its clue",
+    "model": [
+      "cards",
+      [
+        [
+          "Text clue",
+          "Sam packed a raincoat."
+        ],
+        [
+          "My idea",
+          "Sam may expect rain."
+        ],
+        [
+          "Check",
+          "Read what happens next."
+        ]
+      ]
+    ],
+    "steps": [
+      "The text says that Sam packed a raincoat.",
+      "That clue supports an idea about expecting rain. It does not prove that rain will fall.",
+      "Keep reading and adjust the idea if new information changes it."
+    ],
+    "task": "Why is “Sam may expect rain” more careful than “It definitely rains”?",
+    "answer": "The raincoat is a clue about a possible expectation; the text has not yet said that it rained.",
+    "caution": "An inference uses clues and thinking. Keep it separate from a directly stated fact."
+  },
+  {
+    "code": "AC9E1LY06",
+    "topic": "year1/english/ac9e1ly06-and-re-read-to-edit-short-written-and-or-multimodal-texts-to/index.html",
+    "classroom": "year1/english/ac9e1ly06-and-re-read-to-edit-short-written-and-or-multimodal-texts-to/teacher-slides/index.html",
+    "model_file": "ac9e1ly06.svg",
+    "title": "Reread to check meaning and sentence boundaries",
+    "model": [
+      "cards",
+      [
+        [
+          "Draft",
+          "my dog run fast"
+        ],
+        [
+          "Reread",
+          "Who? My dog. What does it do?"
+        ],
+        [
+          "Edited",
+          "My dog runs fast."
+        ]
+      ]
+    ],
+    "steps": [
+      "Read the draft aloud and check what it means.",
+      "Change run to runs so it fits “my dog”. Add a capital and full stop.",
+      "Reread the edited sentence. Then check spelling and whether useful details are needed."
+    ],
+    "task": "Write a sentence about a pet or familiar object. Reread and edit it.",
+    "answer": "An adult checks a complete, meaningful sentence with appropriate capitals and end punctuation; support spelling as needed.",
+    "caution": "Editing means checking meaning as well as making the page look neat."
+  },
+  {
+    "code": "AC9E1LY07",
+    "topic": "year1/english/ac9e1ly07-and-deliver-short-oral-and-or-multimodal-presentations-on/index.html",
+    "classroom": "year1/english/ac9e1ly07-and-deliver-short-oral-and-or-multimodal-presentations-on/teacher-slides/index.html",
+    "model_file": "ac9e1ly07.svg",
+    "title": "Give a short talk a clear shape",
+    "model": [
+      "cards",
+      [
+        [
+          "Opening",
+          "I will tell you about frogs."
+        ],
+        [
+          "Middle",
+          "Frogs need suitable water and food."
+        ],
+        [
+          "Ending",
+          "That is why their habitat matters."
+        ]
+      ]
+    ],
+    "steps": [
+      "Introduce the topic so the listener knows what the talk is about.",
+      "Give one or two relevant details using words you understand.",
+      "End with a connected statement. Rehearse volume and pace with a listener; use a picture or gesture if helpful."
+    ],
+    "task": "Give a short talk about a familiar object with an opening, a detail and an ending.",
+    "answer": "A listener checks the actual talk for clear order and relevant details. Accept supported speaking, signing or AAC.",
+    "caution": "Choosing a good talk on a screen does not show that the child delivered a presentation."
+  },
+  {
+    "code": "AC9E1LY08",
+    "topic": "year1/english/ac9e1ly08-words-using-unjoined-lower-case-and-upper-case-letters/index.html",
+    "classroom": "year1/english/ac9e1ly08-words-using-unjoined-lower-case-and-upper-case-letters/teacher-slides/index.html",
+    "model_file": "ac9e1ly08.svg",
+    "title": "Make the space between words visible",
+    "model": [
+      "spacing"
+    ],
+    "steps": [
+      "Use the letter shapes taught at school and write the letters unjoined.",
+      "Leave a clear word space between cat and sat.",
+      "Reread the handwriting. Check that the letters are recognisable and the two words remain separate."
+    ],
+    "task": "Write “cat sat” on paper using your taught letter forms.",
+    "answer": "Check the actual handwriting: recognisable unjoined letters and a clear space between words. This screen model is not a stroke-order guide.",
+    "caution": "Typing or naming letters alone does not demonstrate handwriting."
+  },
+  {
+    "code": "AC9E1LY09",
+    "topic": "year1/english/ac9e1ly09-words-into-separate-phonemes-sounds-including-consonant-blends/index.html",
+    "classroom": "year1/english/ac9e1ly09-words-into-separate-phonemes-sounds-including-consonant-blends/teacher-slides/index.html",
+    "model_file": "ac9e1ly09.svg",
+    "title": "Count spoken sounds, not letters",
+    "model": [
+      "sounds",
+      [
+        "sh",
+        "o",
+        "p"
+      ],
+      "shop"
+    ],
+    "steps": [
+      "Say shop naturally. Say its sounds in order: /sh/, /o/, /p/.",
+      "There are three sounds. The two letters sh represent one sound.",
+      "Compare frog: /f/, /r/, /o/, /g/. The beginning blend has two separate sounds."
+    ],
+    "task": "With the spelling covered, ask an adult to say frog. Tap each sound, then blend it back.",
+    "answer": "Four sounds in order: /f/, /r/, /o/, /g/. Accept ordinary accent variation.",
+    "caution": "Letter counts, syllable claps and phoneme counts are different tasks. Do this check orally."
+  },
+  {
+    "code": "AC9E1LY10",
+    "topic": "year1/english/ac9e1ly10-manipulate-phonemes-in-spoken-words-by-addition-deletion-and/index.html",
+    "classroom": "year1/english/ac9e1ly10-manipulate-phonemes-in-spoken-words-by-addition-deletion-and/teacher-slides/index.html",
+    "model_file": "ac9e1ly10.svg",
+    "title": "Change a sound to change a spoken word",
+    "model": [
+      "cards",
+      [
+        [
+          "Say",
+          "mat"
+        ],
+        [
+          "Change",
+          "Replace /m/ with /s/"
+        ],
+        [
+          "Say the new word",
+          "sat"
+        ]
+      ]
+    ],
+    "steps": [
+      "An adult says mat. Listen to its three sounds.",
+      "Replace only the first sound with /s/. Keep the other sounds in order.",
+      "Blend the changed sounds to say sat. Practise adding or removing a sound in separate oral tasks too."
+    ],
+    "task": "Without showing the spelling, ask the child to change the /p/ in pin to /t/.",
+    "answer": "Tin. Listen for the sound change rather than a copied written answer.",
+    "caution": "Keep the sounds that were not changed. Sound manipulation is an oral skill, not just a letter swap."
+  },
+  {
+    "code": "AC9E1LY11",
+    "topic": "year1/english/ac9e1ly11-short-vowels-common-long-vowels-consonant-blends-and-digraphs-to/index.html",
+    "classroom": "year1/english/ac9e1ly11-short-vowels-common-long-vowels-consonant-blends-and-digraphs-to/teacher-slides/index.html",
+    "model_file": "ac9e1ly11.svg",
+    "title": "Blend a digraph as one sound",
+    "model": [
+      "sounds",
+      [
+        "sh",
+        "i",
+        "p"
+      ],
+      "ship"
+    ],
+    "steps": [
+      "The letters sh work together for one sound in ship.",
+      "Blend /sh/, /i/, /p/ to read ship. Do not add a separate /s/ and /h/.",
+      "A blend is different: the f and r in frog keep two sounds. Learn the particular spelling pattern in each word."
+    ],
+    "task": "Read ship, then spell it using the sounds and their letters.",
+    "answer": "Hear /sh/, /i/, /p/ and see the spelling s-h-i-p. Reading and spelling are checked separately.",
+    "caution": "Two letters sometimes represent one sound; they do not always do so."
+  },
+  {
+    "code": "AC9E1LY12",
+    "topic": "year1/english/ac9e1ly12-that-a-letter-can-represent-more-than-one-sound-and/index.html",
+    "classroom": "year1/english/ac9e1ly12-that-a-letter-can-represent-more-than-one-sound-and/teacher-slides/index.html",
+    "model_file": "ac9e1ly12.svg",
+    "title": "Hear the vowel sound in each syllable",
+    "model": [
+      "cards",
+      [
+        [
+          "Say it",
+          "sunset"
+        ],
+        [
+          "First syllable",
+          "sun"
+        ],
+        [
+          "Second syllable",
+          "set"
+        ]
+      ]
+    ],
+    "steps": [
+      "Say sunset naturally, then clap sun and set: two syllables.",
+      "Listen for a vowel sound in each part.",
+      "A vowel letter can represent different sounds in different words. Count what you hear, not only the written letters."
+    ],
+    "task": "Say robot. How many syllables do you hear?",
+    "answer": "Two: ro-bot. Accept the usual pronunciation in the child’s accent.",
+    "caution": "Two written vowel letters may represent one vowel sound, as ai does in rain."
+  },
+  {
+    "code": "AC9E1LY13",
+    "topic": "year1/english/ac9e1ly13-one-and-two-syllable-words-with-common-letter-patterns/index.html",
+    "classroom": "year1/english/ac9e1ly13-one-and-two-syllable-words-with-common-letter-patterns/teacher-slides/index.html",
+    "model_file": "ac9e1ly13.svg",
+    "title": "Use sounds and syllables when spelling",
+    "model": [
+      "cards",
+      [
+        [
+          "Hear the word",
+          "sunset"
+        ],
+        [
+          "Say its parts",
+          "sun / set"
+        ],
+        [
+          "Write and check",
+          "s-u-n-s-e-t"
+        ]
+      ]
+    ],
+    "steps": [
+      "An adult says the word while its spelling is hidden.",
+      "Say the syllables, then listen to the sounds in each part.",
+      "Write the word using known patterns. Compare with the correct spelling after trying, and discuss any correction."
+    ],
+    "task": "Ask an adult to dictate picnic with its spelling hidden.",
+    "answer": "Picnic: pic-nic. Check all six letters after the child writes the word.",
+    "caution": "Copying a displayed word is useful practice but is not independent spelling from dictation."
+  },
+  {
+    "code": "AC9E1LY14",
+    "topic": "year1/english/ac9e1ly14-and-write-an-increasing-number-of-high-frequency-words/index.html",
+    "classroom": "year1/english/ac9e1ly14-and-write-an-increasing-number-of-high-frequency-words/teacher-slides/index.html",
+    "model_file": "ac9e1ly14.svg",
+    "title": "Map the unusual part of a familiar word",
+    "model": [
+      "sounds",
+      [
+        "s",
+        "ai",
+        "d"
+      ],
+      "said"
+    ],
+    "steps": [
+      "In said, s and d have their familiar sounds.",
+      "The ai spelling represents the short /e/ sound in this word. This is the part to remember.",
+      "Read said in a sentence, cover it, write it, then check the complete spelling."
+    ],
+    "task": "Read “Sam said hello.” Then cover said, write it and check.",
+    "answer": "The word is said. Hear the child read it and check the written spelling; record any support.",
+    "caution": "Do not assume ai always has the same sound. Said is a word-specific spelling to learn."
+  },
+  {
+    "code": "AC9E1LY15",
+    "topic": "year1/english/ac9e1ly15-and-know-how-to-use-grammatical-morphemes-to-create-word/index.html",
+    "classroom": "year1/english/ac9e1ly15-and-know-how-to-use-grammatical-morphemes-to-create-word/teacher-slides/index.html",
+    "model_file": "ac9e1ly15.svg",
+    "title": "Keep the base meaning and notice the ending",
+    "model": [
+      "cards",
+      [
+        [
+          "Base",
+          "jump"
+        ],
+        [
+          "Before now",
+          "jump + ed → jumped"
+        ],
+        [
+          "Happening",
+          "jump + ing → jumping"
+        ]
+      ]
+    ],
+    "steps": [
+      "Jump is the shared meaningful base in these words.",
+      "In “Sam jumped”, ed helps show the action happened before now.",
+      "In “Sam is jumping”, ing is used with is to describe the action happening. Other endings have other jobs."
+    ],
+    "task": "Choose the word for “Yesterday Sam ___”: jump, jumped or jumping.",
+    "answer": "Jumped: “Yesterday Sam jumped.” Explain how yesterday and the ending fit the meaning.",
+    "caution": "A word family shares a meaningful base; rhyming words need not belong to the same family."
+  }
+]
