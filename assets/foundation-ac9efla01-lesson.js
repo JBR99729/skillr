@@ -665,7 +665,7 @@
     resourceLinks: {
       topic: "/foundation/english/ac9efla01-how-language-is-used-differently-at-home-and-school-depending/",
       slide: "/foundation/english/ac9efla01-how-language-is-used-differently-at-home-and-school-depending/teacher-slides/",
-      fullTeacherDeck: "https://app.skillrhub.com/resources/classroom-slides.html?manifest=https%3A%2F%2Fassets.skillrhub.com%2Ffoundation%2Fenglish%2FAC9EFLA01%2Fslides%2Fmanifest.json&title=Words%20That%20Fit%20Who%20We%20Are%20Talking%20To&back=https%3A%2F%2Fskillrhub.com%2Ffoundation%2Fenglish%2Fac9efla01-how-language-is-used-differently-at-home-and-school-depending%2F&backLabel=Back%20to%20Topic%20Guide&skill=AC9EFLA01",
+      fullTeacherDeck: "/foundation/english/ac9efla01-how-language-is-used-differently-at-home-and-school-depending/teacher-slides/",
       worksheet: "/quiz/grade-k/english/ac9efla01/worksheet/",
       practice: "/quiz/grade-k/english/ac9efla01/practice/",
       test: "/quiz/grade-k/english/ac9efla01/test/"
@@ -726,3 +726,4 @@
   window.SkillrFoundationCanonicalLessons = Object.assign(window.SkillrFoundationCanonicalLessons || {}, { [CODE]: spec });
   if (window.SkillrFoundationEnglishData) window.SkillrFoundationEnglishData[CODE] = unit;
 })();
+

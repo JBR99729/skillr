@@ -6,15 +6,16 @@
       "teachers",
       "homeschool parents"
     ],
-    "access": "Registration required for the current Skillr-app teacher-slide experience.",
-    "delivery": "Browser-based classroom/home teaching viewer; slides are presented for on-screen use rather than as downloadable editable files.",
+    "access": "Public topic guides link to available Teacher Slides without tracker registration.",
+    "delivery": "Fixed browser-based slide viewers on SkillrHub; no public editable download.",
     "subjects": [
       "Maths",
       "Science",
       "English"
     ],
-    "year1_status": "Year 1 teacher-slide experiences are available across the currently released Maths, Science and English code set in Skillr-app.",
-    "app": "https://app.skillrhub.com/"
+    "year1_status": "Available viewers are linked from the matching Year 1 topic guides.",
+    "discovery_page": "https://skillrhub.com/teach-and-explain.html",
+    "wording_note": "The progress tracker does not deliver teacher slides; use the public topic guide and its available slide viewer."
   },
   "representative_previews": [
     {
@@ -49,5 +50,19 @@
     }
   ],
   "usage_note": "These links are representative samples for understanding design, structure and product presentation. They do not imply that every curriculum code has an identical number of slides or identical resource mix.",
-  "last_updated": "2026-09-24"
+  "last_updated": "2026-10-08",
+  "progress_tracker": {
+    "name": "SkillrHub Parent & Tutor Progress Tracker",
+    "url": "https://app.skillrhub.com/",
+    "demo": "https://skillrhub.com/homeschool-app-demo/",
+    "years": "Foundation–Year 10",
+    "coded_subjects": [
+      "Maths",
+      "English",
+      "Science"
+    ],
+    "purpose": "Record paper worksheet learning and other activities, then print a supporting learning summary.",
+    "access": "Free account; printable purchases are separate on TpT.",
+    "limits": "Observations and minutes are entered by a parent or tutor. Not an official submission form or automatic assessment."
+  }
 }

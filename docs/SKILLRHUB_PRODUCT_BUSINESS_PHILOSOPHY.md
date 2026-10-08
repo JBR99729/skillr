@@ -10,7 +10,7 @@ SkillrHub is an **Australian Curriculum teaching and learning system** designed 
 
 - **save teachers preparation time** by giving them ready-to-use, curriculum-aligned teaching resources, explanations, practice and assessment;
 - **give homeschool parents a clear interface for what to teach, how to teach it, what to practise and what comes next**;
-- **make learning easier for students through Skillr-app**, using enough purposeful practice to build understanding without relying on endless repetitive questions.
+- **make paper learning easier to record through the free parent and tutor tracker**, while keeping useful topic guides, practice and tests on SkillrHub.
 
 The core learning loop is:
 
@@ -27,20 +27,15 @@ It should:
 - help a cold visitor understand the product quickly;
 - demonstrate real teaching and learning value rather than merely describe it;
 - route teachers toward teacher resources and TPT;
-- route homeschool families and learners toward Skillr-app;
+- route homeschool families and tutors toward worksheets and the free progress tracker;
 - use curriculum pages as useful destinations, not as search-engine filler;
 - earn search visibility through differentiated usefulness.
 
-### Skillr-app — the interactive learning product
-Skillr-app is the structured student/family learning experience.
+### Parent and tutor progress tracker — current app direction, 8 October 2026
 
-It should:
-- make the learning sequence obvious;
-- provide visual/explicit teaching before difficult practice where needed;
-- use purposeful practice, feedback, retry and assessment;
-- track real progress and active learning;
-- help an adult see what has been learned and what needs attention next;
-- avoid gamified or high-volume question production that does not improve learning.
+The owner explicitly prioritised a lean worksheet business and simple adult records over the earlier student practice app. The current app supports separate Foundation–Year 10 learner profiles, curriculum-linked paper-learning entries and printable supporting summaries. Parents and tutors record a session once; learners do not repeat the worksheet online. Use one clear printable buying link for the selected year/subject, linked topic help, optional session minutes and dated evidence-folder references. No payment integration or photo storage is needed. Tutor updates are reviewed email drafts, not automatic sending.
+
+Public teaching guides, slide viewers, Practice and Tests remain on SkillrHub. Do not promise these legacy student-app features in the current tracker or describe parent observations as automatic mastery. State and territory prompts help users prepare supporting records; they do not replace official forms, work samples or verified local syllabus mappings.
 
 ### Teachers Pay Teachers — the external commercial distribution channel
 TPT is a real sales channel and market signal for teacher-facing resources.
@@ -129,7 +124,7 @@ The benchmark includes:
 - teacher usefulness;
 - homeschool clarity;
 - visual teaching;
-- Skillr-app practice/test flow;
+- Worksheet-to-tracker-to-summary flow;
 - mobile usability;
 - TPT product quality;
 - search landing-page usefulness;
@@ -207,7 +202,7 @@ Traffic alone is not success.
 
 The funnel is:
 
-**Demand → SkillrHub → right user path → Skillr-app or TPT → conversion → repeat use/purchase → data → improvement**
+**Demand → SkillrHub → right user path → progress tracker or TPT → conversion → repeat use/purchase → data → improvement**
 
 ## 12. Non-negotiable product identity
 
@@ -259,4 +254,5 @@ The active market scope is therefore:
 3. Australian Curriculum-aligned learning and teaching needs.
 
 Work outside that scope must not displace active-market work.
+
 

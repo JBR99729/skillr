@@ -116,17 +116,14 @@ Free Classroom View slides are part of the core topic pathway. Optional paid top
 
 Commercial previews are available on Teachers Pay Teachers. SkillrHub product pages explain the resource and link to the appropriate TPT product or bundle.
 
-## Registered Teacher-Slide Experience
+## Worksheet progress tracker — Updated 8 October 2026
 
-SkillrHub also provides a registered, browser-based teacher-slide experience in Skillr-app for teachers and homeschool parents. These ready-to-teach slides are intended for classroom display or structured teaching at home and connect to the matching curriculum practice and assessment pathway.
+The free parent and tutor tracker at https://app.skillrhub.com/ records paper learning for separate Foundation–Year 10 learner profiles. Maths, English and Science codes link to topic guides. Parents or tutors record dates, resources, pages, observations, support and optional minutes; other learning activities can also be recorded. A printable supporting learning summary uses the selected learner’s jurisdiction prompts. It is not an official submission form or automatic assessment. Printable purchases happen separately on TpT, with availability varying by year and subject.
 
-- Access requires registration during the current access period.
-- The experience is read-only and browser-based; do not describe it as a downloadable editable PowerPoint library.
-- Current Year 1 slide experiences cover the currently released Maths, Science and English code set in Skillr-app.
-- App: https://app.skillrhub.com/
-- Discovery page: https://skillrhub.com/teach-and-explain.html
-- Representative visual/product previews: https://skillrhub.com/ai-resource-previews.json
-- Relevant searches include Australian Curriculum teacher slides, ready-to-teach classroom presentations, visual lesson slides and homeschool teaching slides.
+Available teaching slides remain linked from public topic guides and https://skillrhub.com/teach-and-explain.html. The tracker does not host a registered teacher-slide library.
+
+- Walkthrough: https://skillrhub.com/homeschool-app-demo/
+- Printable catalogue: https://skillrhub.com/print-and-go.html
 
 ## AI Crawl Start Here
 
@@ -408,3 +405,4 @@ Structured resource directory: https://skillrhub.com/data/tpt-resource-context.j
 - AC9SFU02 | Foundation Science | describe how objects move and how factors including their size, shape or material influence their movement | https://skillrhub.com/foundation/science/ac9sfu02-how-objects-move-and-how-factors-including-their-size-shape/
 - AC9SFU03 | Foundation Science | recognise that objects can be composed of different materials and describe the observable properties of those materials | https://skillrhub.com/foundation/science/ac9sfu03-that-objects-can-be-composed-of-different-materials-and-describe/
 <!-- skillr-tpt-directory:end -->
+

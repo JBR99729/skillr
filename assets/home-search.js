@@ -47,7 +47,7 @@
   function loadIndex() {
     if (indexPromise) return indexPromise;
 
-    indexPromise = fetch("/assets/site-search-index.json?v=1", { credentials: "same-origin" })
+    indexPromise = fetch("/assets/site-search-index.json?v=20261008-tracker", { credentials: "same-origin" })
       .then(function (response) {
         if (!response.ok) throw new Error("Search index unavailable");
         return response.json();
@@ -197,3 +197,4 @@
     if (!event.target.closest(".site-search")) closeResults();
   });
 })();
+

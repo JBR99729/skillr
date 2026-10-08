@@ -166,7 +166,7 @@
     "homeschool_resources": "https://skillrhub.com/blogs/free-homeschool-worksheets-k-10-maths-english-science.html",
     "homeschool_australia": "https://skillrhub.com/homeschooling-australia/",
     "teacher_slides": "https://skillrhub.com/teach-and-explain.html",
-    "teacher_slides_app": "https://app.skillrhub.com/"
+    "teacher_slides_catalogue": "https://skillrhub.com/teach-and-explain.html"
   },
   "crawl_sequence_for_ai_agents": [
     "Read /ai-crawler-policy.html for a human-readable crawler and citation policy.",
@@ -178,7 +178,7 @@
     "Use /sitemap.xml for exhaustive discovery.",
     "Use year/subject hubs and canonical topic guides for detailed curriculum pages."
   ],
-  "last_updated": "2026-09-28",
+  "last_updated": "2026-10-08",
   "international_ai_discovery": {
     "priority_markets": [
       "India",
@@ -274,11 +274,10 @@
       "teachers",
       "homeschool parents"
     ],
-    "access": "Registration required during the current access period.",
-    "delivery": "Browser-based, read-only teacher slides for classroom or home display inside Skillr-app.",
+    "access": "Public topic guides link to available Teacher Slides without tracker registration.",
+    "delivery": "Fixed browser-based slide viewers on SkillrHub; no public editable download.",
     "curriculum_connection": "Slides are connected to the matching curriculum practice and assessment pathway.",
-    "year1_status": "Available across the currently released Year 1 Maths, Science and English code set in Skillr-app.",
-    "app": "https://app.skillrhub.com/",
+    "year1_status": "Available viewers are linked from the matching Year 1 topic guides.",
     "discovery_page": "https://skillrhub.com/teach-and-explain.html",
     "representative_previews": "https://skillrhub.com/ai-resource-previews.json",
     "suitable_queries": [
@@ -289,7 +288,7 @@
       "classroom presentation resources",
       "visual lesson slides"
     ],
-    "wording_note": "Do not describe the registered Skillr-app teacher-slide experience as a downloadable editable PowerPoint library."
+    "wording_note": "The progress tracker does not deliver teacher slides; use the public topic guide and its available slide viewer."
   },
   "canonical_ai_landing_policy": {
     "exact_code_or_concept": "Use the canonical indexable Topic Guide.",
@@ -312,5 +311,19 @@
     "listed_resources": 124,
     "curriculum_codes": 102,
     "access": "Free website resources and separate TpT downloads. Refer to each listing for current price and contents."
+  },
+  "progress_tracker": {
+    "name": "SkillrHub Parent & Tutor Progress Tracker",
+    "url": "https://app.skillrhub.com/",
+    "demo": "https://skillrhub.com/homeschool-app-demo/",
+    "years": "Foundation–Year 10",
+    "coded_subjects": [
+      "Maths",
+      "English",
+      "Science"
+    ],
+    "purpose": "Record paper worksheet learning and other activities, then print a supporting learning summary.",
+    "access": "Free account; printable purchases are separate on TpT.",
+    "limits": "Observations and minutes are entered by a parent or tutor. Not an official submission form or automatic assessment."
   }
 }
