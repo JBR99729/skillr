@@ -256,3 +256,18 @@ The active market scope is therefore:
 Work outside that scope must not displace active-market work.
 
 
+
+
+## 14. Parent-first affordability and evidence positioning — 8 October 2026
+
+The owner prioritised Australian homeschool parents and parents supporting their children beyond public-school lessons as the commercial homepage audience. Lead with affordable purposeful paper practice, less time curating resources, and clearer progress records. Teacher and tutor paths remain available.
+
+Offer several entry points where the products exist: individual-code packs, related skill/strand groups, term packs and yearly bundles. Keep checkout on TpT, preserve free topic help and the free adult tracker, and make the existing free no-obligation consultation visible so parents can inspect actual worksheet pages, tests and answers before purchasing.
+
+The owner’s intended sub-A$300 annual pricing applied to lower grades only; the owner then explicitly requested **affordable pricing** without a numerical public promise. Do not publish a universal annual price cap. Publish actual confirmed pack counts and availability. Thousands of hands-on questions and tests for included codes are a catalogue ambition; do not imply every F–10 printable pack is finished or equate resources with a replacement school.
+
+Affordable positioning should emphasise neatly organised curriculum skills that remove the burden of searching for each skill online. Do not publish unverified "cheaper than most providers" comparisons; use actual current like-for-like pricing evidence before a comparative claim.
+
+The family promise is an enjoyable journey: **one skill at a time**, manageable daily practice, less preparation for parents and growing confidence for children. Packs should provide a clear teaching/practice/check sequence. Explain progression through the curriculum skills included in the chosen packs without guaranteeing effortless completion of the entire Australian Curriculum. Families can adjust the pace and revisit skills as needed.
+
+Progress summaries support homeschool reporting to education departments and parent review of extra practice. They reflect adult-entered evidence and must not promise department acceptance, certified achievement or that a child has completed sufficient learning. Keep detailed journal access and concise printable summaries. Multiple child profiles are a tracker convenience; product licensing remains governed by each listing.
