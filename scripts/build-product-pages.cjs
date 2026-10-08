@@ -33,6 +33,13 @@ let catalogue=read('print-and-go.html');
 const fallback=`<div data-browse><!-- PRODUCT-CARDS:START --><div class="product-grid">${cards.join('')}</div><!-- PRODUCT-CARDS:END --></div>`;
 catalogue=catalogue.replace(/<div data-browse(?: hidden)?>(?:<!-- PRODUCT-CARDS:START -->[\s\S]*?<!-- PRODUCT-CARDS:END -->)?<\/div>/,fallback);
 catalogue=catalogue.replace(/(<summary>Browse SkillrHub TpT downloads<\/summary>)<ul>[\s\S]*?<\/ul>/, (_, heading) => heading+'<ul>'+products.filter(p=>p.available).map(p=>`<li><a href="${esc(p.tptUrl)}">${esc(p.title)}</a></li>`).join('')+'</ul>');
+catalogue=catalogue.replace(/(<section[^>]*id="year-1-maths-worksheet-bundles"[\s\S]*?<\/section>)/, section => section.replace('Each bundle saves 10%', 'The full-year bundle saves 20%; strand and term bundles save 10%').replace(/<article class="product-card">[\s\S]*?<\/article>/g, card => {
+  const pid=card.match(/-(\d+)"/); const p=pid && products.find(p=>p.tptUrl.endsWith('-'+pid[1]));
+  if(!p)return card;
+  const saving=p.id.includes('full-year')?20:10;
+  return `<article class="product-card"><a href="${esc(p.url)}"><img src="${esc(p.image)}" alt="${esc(p.title)} cover" loading="lazy"><h3>${esc(p.title)}</h3></a><p>${esc(p.description)}</p><p class="small">${esc(p.curriculumCodes.join(' · '))}</p><p class="price">US$${Number(p.price).toFixed(2)} <span class="small">(save ${saving}%)</span></p><a class="button" href="${esc(p.tptUrl)}" target="_blank" rel="noopener noreferrer">View worksheet bundle on TpT</a></article>`;
+}));
+catalogue=catalogue.replace(/print-and-go-search\.js\?v=[^" ]+/g,'print-and-go-search.js?v=20261008-sync');
 write('print-and-go.html',catalogue);
 let sitemap=read('sitemap-site.xml');
 const date=new Date().toISOString().slice(0,10);

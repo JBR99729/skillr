@@ -216,8 +216,9 @@
     return response.json();
   }).then(data => {
     if (!Array.isArray(data)) throw new Error('Invalid catalogue');
-    const ids = new Set(data.map(item => item.id));
-    products = [...NEW_FREEBIES.filter(item => !ids.has(item.id)), ...data];
+    const listingKey = item => (item.tptUrl || item.url || '').match(/\d+$/)?.[0] || item.id;
+    const ids = new Set(data.map(listingKey));
+    products = [...NEW_FREEBIES.filter(item => !ids.has(listingKey(item))), ...data];
     if (products.length === 0) return;
     populateFilters(products);
     updateFilterUI();
