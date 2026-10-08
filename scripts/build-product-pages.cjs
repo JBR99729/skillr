@@ -13,7 +13,7 @@ for (const p of products.filter(p=>p.available)) {
   p.url = `/products/${p.id}/`;
   const url = 'https://skillrhub.com'+p.url;
   const image = 'https://skillrhub.com'+p.image;
-  const price = Number(p.price)===0 ? 'FREE' : 'US$'+Number(p.price).toFixed(2);
+  const price = p.price === undefined ? 'See current price on TPT' : Number(p.price)===0 ? 'FREE' : 'US$'+Number(p.price).toFixed(2);
   const title = p.title+' | SkillrHub';
   const description = p.description;
   const structured = {'@context':'https://schema.org','@graph':[

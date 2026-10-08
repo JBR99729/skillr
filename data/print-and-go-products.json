@@ -1,5 +1,46 @@
 [
   {
+    "id": "year-1-weather-seasons-worksheets",
+    "title": "Year 1 Weather & Seasons Worksheets and Test | Science AC9S1U02",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "science",
+    "subjectLabel": "Science",
+    "topics": [
+      "weather",
+      "seasons",
+      "daily changes",
+      "seasonal changes",
+      "observations",
+      "weather records",
+      "patterns",
+      "predictions",
+      "homeschool",
+      "practice",
+      "test"
+    ],
+    "curriculumCodes": [
+      "AC9S1U02"
+    ],
+    "description": "A 50-page Year 1 Science pack with 62 practice questions, a separate 20-question test, illustrated concepts, weather records, drawing tasks, vocabulary dictation and complete answer keys.",
+    "url": "/products/year-1-weather-seasons-worksheets/",
+    "image": "/assets/year-1-weather-seasons-worksheets-cover.png",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "worksheet",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Weather-Seasons-Worksheets-and-Test-Science-AC9S1U02-17877705",
+    "format": "A4 printable PDF",
+    "includes": [
+      "62 practice questions across six selectable teaching focuses",
+      "Separate 20-question test with fresh contexts",
+      "Illustrated concepts and a student vocabulary/dictation sheet",
+      "Weather records, comparisons, drawing and everyday decisions",
+      "Teacher guidance and complete practice, test and dictation keys",
+      "50-page A4 PDF; print at Actual Size (100%)",
+      "Preview, current price and purchase on Teachers Pay Teachers"
+    ]
+  },
+  {
     "id": "year-1-maths-number-worksheet-bundle",
     "title": "Year 1 Maths Number Worksheet & Test Bundle",
     "year": 1,
@@ -897,7 +938,7 @@
   },
   {
     "id": "year-1-science-inquiry-part-1",
-    "title": "Year 1 Science – Science Inquiry Skills | Australian Curriculum v9.0 | Part 1",
+    "title": "Year 1 Science \u2013 Science Inquiry Skills | Australian Curriculum v9.0 | Part 1",
     "year": 1,
     "yearLabel": "Year 1",
     "subject": "science",
@@ -948,7 +989,7 @@
   },
   {
     "id": "year-1-science-earth-space",
-    "title": "Year 1 Science – Earth and Space Sciences | Australian Curriculum v9.0 | Lessons",
+    "title": "Year 1 Science \u2013 Earth and Space Sciences | Australian Curriculum v9.0 | Lessons",
     "year": 1,
     "yearLabel": "Year 1",
     "subject": "science",
@@ -974,7 +1015,7 @@
   },
   {
     "id": "year-1-science-physical",
-    "title": "Year 1 Science – Physical Sciences | Australian Curriculum v9.0 | Pushes & Pulls",
+    "title": "Year 1 Science \u2013 Physical Sciences | Australian Curriculum v9.0 | Pushes & Pulls",
     "year": 1,
     "yearLabel": "Year 1",
     "subject": "science",
@@ -1000,7 +1041,7 @@
   },
   {
     "id": "year-1-science-human-endeavour",
-    "title": "Year 1 – Science as a Human Endeavour | Australian Curriculum v9.0 | Lessons",
+    "title": "Year 1 \u2013 Science as a Human Endeavour | Australian Curriculum v9.0 | Lessons",
     "year": 1,
     "yearLabel": "Year 1",
     "subject": "science",
@@ -1358,7 +1399,7 @@
       "36 slides in PowerPoint (.pptx) format",
       "Learning intentions, visual models, worked examples and guided practice",
       "Eight check and misconception questions with separate answer slides",
-      "Two exit tickets with answers and think–pair–share prompts",
+      "Two exit tickets with answers and think\u2013pair\u2013share prompts",
       "Times-table recall focus: 3, 4, 5 and 10, plus related division facts",
       "Product images and purchase available on TPT"
     ]

@@ -13,7 +13,7 @@
     const image = el('img'); image.src = product.image; image.alt = product.title + ' cover'; image.width = 637; image.height = 900;
     const copy = el('div'); copy.append(el('p', product.yearLabel + ' · ' + product.subjectLabel, 'eyebrow'), el('h1', product.title), el('p', product.description));
     if (product.curriculumCodes && product.curriculumCodes.length) copy.append(el('p', 'Australian Curriculum: ' + product.curriculumCodes.join(' · '), 'small'));
-    const price = product.free || Number(product.price) === 0 ? 'FREE' : 'US$' + Number(product.price).toFixed(2);
+    const price = product.price === undefined ? 'See current price on TPT' : product.free || Number(product.price) === 0 ? 'FREE' : 'US$' + Number(product.price).toFixed(2);
     copy.append(el('p', price, 'price'));
     if (product.includes && product.includes.length) { copy.append(el('h2', 'What’s included')); const list = el('ul'); product.includes.forEach(item => list.append(el('li', item))); copy.append(list); }
     const action = el('a', product.free || Number(product.price) === 0 ? 'Download free on TPT' : 'Purchase on TPT', 'button'); action.href = product.tptUrl; action.target = '_blank'; action.rel = 'noopener noreferrer';
