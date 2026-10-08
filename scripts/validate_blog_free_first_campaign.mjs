@@ -30,6 +30,15 @@ const files = fs.readdirSync(BLOG_DIR, { withFileTypes: true })
 const failures = [];
 for (const file of files) {
   const html = fs.readFileSync(file, "utf8");
+  // Practical homeschool articles use the current printable-to-adult-tracker pathway.
+  if (html.includes("data-homeschool-practical-guide")) {
+    const required = ['href="/worksheets/"', 'href="/print-and-go.html#curriculum-resource-directory"', 'href="https://app.skillrhub.com/"', 'data-email-signup="homeschool-blog"', 'method="POST"', 'name="EMAIL" type="email"', 'Subscribe now', 'https://www.facebook.com/1139028835969651'];
+    for (const text of required) if (!html.includes(text)) failures.push(`${file}: practical homeschool article missing ${text}`);
+    const body = html.match(/<div class="article-body">([\s\S]*?)<\/div>/)?.[1] || "";
+    const words = body.replace(/<[^>]*>/g, " ").trim().split(/\s+/).length;
+    if (words < 1000) failures.push(`${file}: practical homeschool article below 1000 words`);
+    continue;
+  }
   if (html.includes(DOWNLOAD_MARKER)) {
     const requiredDownloadElements = [
       'href="/downloads/free-resources/',
