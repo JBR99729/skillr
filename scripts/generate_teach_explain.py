@@ -50,16 +50,18 @@ def build():
     slides = [p for p in products if p.get('resourceType') in ('teaching-slides','teaching-sample') and p.get('available')]
     for p in slides:
         required = ('title','year','yearLabel','subject','subjectLabel','description','url','image','price','currency','curriculumCodes','includes','learningGoals','format')
-        if p.get('resourceType') == 'teaching-sample':
+        if p.get('resourceType') == 'teaching-sample' and not p['url'].startswith('/products/'):
             required = required + ('sampleUrl',)
         else:
             required = required + ('tptUrl',)
         if any(key not in p for key in required): raise ValueError('Incomplete published slide product')
         if not isinstance(p['year'], int) or not 0 <= p['year'] <= 10 or p['subject'] not in ('maths','science','english'): raise ValueError('Invalid year or subject')
         if p['currency']!='USD' or float(p['price'])<0: raise ValueError('Invalid price')
-        if not p['url'].startswith(BASE+'/') or '..' in p['url'] or not p['url'].endswith('/'): raise ValueError('Invalid product route')
+        if not p['url'].startswith((BASE+'/', '/products/')) or '..' in p['url'] or not p['url'].endswith('/'): raise ValueError('Invalid product route')
         if p.get('tptUrl') and urlparse(p['tptUrl']).hostname not in ('www.teacherspayteachers.com','teacherspayteachers.com'): raise ValueError('Use a verified TPT listing')
-        if not p['image'].startswith('/assets/') or '..' in p['image'] or not (ROOT/p['image'].lstrip('/')).is_file(): raise ValueError('Missing preview asset')
+        if p['image'].startswith('https://'):
+            if urlparse(p['image']).hostname != 'ecdn.teacherspayteachers.com': raise ValueError('Use the observed TpT cover')
+        elif '..' in p['image'] or not (ROOT/p['image'].lstrip('/')).is_file(): raise ValueError('Missing preview asset')
         if p.get('sampleUrl') and (not p['sampleUrl'].startswith(BASE+'/') or '..' in p['sampleUrl']): raise ValueError('Invalid sample URL')
         if p.get('samplePdf') and (not p['samplePdf'].startswith('/assets/samples/') or '..' in p['samplePdf'] or not (ROOT/p['samplePdf'].lstrip('/')).is_file()): raise ValueError('Missing sample PDF')
     crumbs = [('Home','/'),('Teach & Explain',HOME)]
@@ -73,18 +75,13 @@ def build():
     paths=[page(HOME,'Teach & Explain: Teaching Slides for Teachers and Parents','Browse optional SkillrHub teaching slides by year, subject and topic for classroom lessons and explanations at home. Request a free sample before buying.',crumbs,intro+empty+search()+'<section data-browse aria-label="Browse by year"><div class="category-grid">'+''.join(cards)+'</div></section>')]
     for year in sorted({p['year'] for p in slides}):
         year_products=[p for p in slides if p['year']==year]; yl=year_products[0]['yearLabel']; yp=f'{BASE}/year-{year}/'; yc=crumbs+[(yl,yp)]
-        subjects=''.join(f'<a class="category-card" href="{yp}{s}/"><h2>{label}</h2><span>Browse topics</span></a>' if any(p['subject']==s for p in year_products) else f'<div class="category-card unavailable" aria-disabled="true"><h2>{label}</h2><span>Coming soon</span></div>' for s,label in [('maths','Maths'),('science','Science')])
+        subjects=''.join(f'<a class="category-card" href="{yp}{s}/"><h2>{label}</h2><span>Browse topics</span></a>' if any(p['subject']==s for p in year_products) else f'<div class="category-card unavailable" aria-disabled="true"><h2>{label}</h2><span>Coming soon</span></div>' for s,label in [('maths','Maths'),('science','Science'),('english','English')])
         paths.append(page(yp,yl+' Teaching Slides','Browse '+yl+' slide packs for teachers and parents.',yc,f'<h1>{yl} teaching slides</h1>'+search()+'<section data-browse><div class="category-grid">'+subjects+'</div></section>',f'data-year="{year}"'))
         for subject in sorted({p['subject'] for p in year_products}):
             ps=[p for p in year_products if p['subject']==subject]; label=ps[0]['subjectLabel']; sp=yp+subject+'/'; sc=yc+[(label,sp)]
             paths.append(page(sp,yl+' '+label+' Teaching Slides','Choose a '+yl+' '+label+' topic to preview teaching slides.',sc,f'<h1>{yl} {label} teaching slides</h1>'+search()+'<section data-browse><div class="product-grid">'+''.join(card(p) for p in ps)+'</div></section>',f'data-year="{year}" data-subject="{subject}"'))
-            for p in ps:
-                if p.get('resourceType') == 'teaching-sample':
-                    action = f'<p class="price">Free sample · Full 60-slide pack US$6.99</p><a class="button" href="{e(p["sampleUrl"])}">View free preview</a> <a class="button" href="{e(p.get("samplePdf", p["sampleUrl"]))}">Download free preview PDF</a>'+ (f' <a class="button" href="{e(p["paidTptUrl"])}" target="_blank" rel="noopener noreferrer">Buy full pack on TPT — US$6.99</a>' if p.get('paidTptUrl') else '') + (f' <a class="button" href="{e(p["tptUrl"])}" target="_blank" rel="noopener noreferrer">Get free sample on TPT</a>' if p.get('tptUrl') else '') + '<p>The full 60-slide teaching pack is available on TPT for US$6.99. The matching worksheet pack is US$2.99.</p>'
-                else:
-                    action = f'<p class="price">US${float(p["price"]):.2f}</p><p>Preview available on TPT.</p><a class="button" href="{e(p["tptUrl"])}" target="_blank" rel="noopener noreferrer">View preview and buy on TPT</a>' + (f' <a class="button" href="{e(p["bundleTptUrl"])}" target="_blank" rel="noopener noreferrer">Bundle · US${float(p["bundlePrice"]):.2f} (save 20%)</a>' if p.get('bundleTptUrl') else '')
-                details=f'<section class="product-detail"><img src="{e(p["image"])}" alt="{e(p["title"])} preview"><div><h1>{e(p["title"])}</h1><p>{e(p["description"])}</p><p>{e(" · ".join(p["curriculumCodes"]))}</p>'+action+'<h2>What is included</h2><ul>'+''.join(f'<li>{e(x)}</li>' for x in p['includes'])+f'</ul><p>Format: {e(p["format"])}</p><h2>Learning goals</h2><ul>'+''.join(f'<li>{e(x)}</li>' for x in p['learningGoals'])+'</ul>'+('<p>Use the sample to preview the resource before buying the full pack.</p>' if p.get('resourceType') == 'teaching-sample' else '<p>Read the TPT listing for the classroom-use licence and full purchase details.</p>')+'</div></section>'
-                paths.append(page(p['url'],p['title'],p['description'],sc+[(p['title'],p['url'])],details))
+            # Detail pages and their Product/Offer metadata are rendered by
+            # build-product-pages.cjs for both current and legacy shop routes.
     print('Generated '+str(len(paths))+' Teach & Explain pages; '+str(len(slides))+' published slide packs.')
     return paths
 

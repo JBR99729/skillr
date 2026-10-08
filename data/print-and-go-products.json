@@ -45,7 +45,8 @@
       "Teacher/parent guide, marking support and Practice, Test and dictation answer keys",
       "49-page A4 flattened, non-editable printable PDF",
       "Year 1 vocabulary and adult read-aloud support; spoken, signed or AAC responses welcome"
-    ]
+    ],
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "year-1-science-data-patterns-worksheets",
@@ -85,11 +86,14 @@
       "Teacher guidance and complete practice, test and dictation keys",
       "53-page A4 PDF; print at Actual Size (100%)",
       "Preview, current price and purchase on Teachers Pay Teachers"
-    ]
+    ],
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "6.00"
   },
   {
     "id": "year-1-science-fair-tests-comparing-results-worksheets",
-    "title": "Year 1 Science Fair Tests & Comparing Results Worksheets and Test | AC9S1I05",
+    "title": "Year 1 Science Fair Tests & Comparing Results Worksheets | AC9S1I05",
     "year": 1,
     "yearLabel": "Year 1",
     "subject": "science",
@@ -125,7 +129,10 @@
       "Teacher guidance and complete practice, test and dictation keys",
       "52-page A4 PDF; print at Actual Size (100%)",
       "Preview, current price and purchase on Teachers Pay Teachers"
-    ]
+    ],
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "6.00"
   },
   {
     "id": "year-1-observations-informal-measurement-worksheets",
@@ -151,7 +158,7 @@
     ],
     "description": "A 50-page Year 1 Science pack with 60 practice questions, a separate 20-question test, illustrated concepts, careful observation, informal measurement, recording tables, drawings and adult-supported practical tasks, vocabulary dictation and complete answer keys.",
     "url": "/products/year-1-observations-informal-measurement-worksheets/",
-    "image": "/assets/year-1-observations-informal-measurement-worksheets-cover.jpg",
+    "image": "/assets/year-1-observations-informal-measurement-worksheets-cover.png",
     "currency": "USD",
     "available": true,
     "resourceType": "worksheet",
@@ -165,7 +172,10 @@
       "Teacher guidance and complete practice, test and dictation keys",
       "50-page A4 PDF; print at Actual Size (100%)",
       "Preview, current price and purchase on Teachers Pay Teachers"
-    ]
+    ],
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "6.00"
   },
   {
     "id": "year-1-safe-science-investigations-worksheets",
@@ -191,7 +201,7 @@
     ],
     "description": "A 49-page Year 1 Science pack with 60 practice questions, a separate 20-question test, illustrated concepts, safe procedures, planning and sequencing tasks, drawings, a supervised paper-and-water investigation, vocabulary dictation and complete answer keys.",
     "url": "/products/year-1-safe-science-investigations-worksheets/",
-    "image": "/assets/year-1-safe-science-investigations-worksheets-cover.jpg",
+    "image": "/assets/year-1-safe-science-investigations-worksheets-cover.png",
     "currency": "USD",
     "available": true,
     "resourceType": "worksheet",
@@ -205,7 +215,10 @@
       "Teacher guidance and complete practice, test and dictation keys",
       "49-page A4 PDF; print at Actual Size (100%)",
       "Preview, current price and purchase on Teachers Pay Teachers"
-    ]
+    ],
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "6.00"
   },
   {
     "id": "year-1-science-questions-predictions-worksheets",
@@ -230,7 +243,7 @@
     ],
     "description": "A 49-page Year 1 Science pack with 60 practice questions, a separate 20-question test, illustrated concepts, observation tables, original questions, predictions, drawing tasks, a supervised ball-roll activity, vocabulary dictation and complete answer keys.",
     "url": "/products/year-1-science-questions-predictions-worksheets/",
-    "image": "/assets/year-1-science-questions-predictions-worksheets-cover.jpg",
+    "image": "/assets/year-1-science-questions-predictions-worksheets-cover.png",
     "currency": "USD",
     "available": true,
     "resourceType": "worksheet",
@@ -244,7 +257,10 @@
       "Teacher guidance and complete practice, test and dictation keys",
       "49-page A4 PDF; print at Actual Size (100%)",
       "Preview, current price and purchase on Teachers Pay Teachers"
-    ]
+    ],
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "6.00"
   },
   {
     "id": "year-1-science-everyday-life-worksheets",
@@ -269,7 +285,7 @@
     ],
     "description": "A 49-page Year 1 Science pack with 60 practice questions, a separate 20-question test, illustrated concepts, observation records, predictions, drawing tasks, a supervised investigation, vocabulary dictation and complete answer keys.",
     "url": "/products/year-1-science-everyday-life-worksheets/",
-    "image": "/assets/year-1-science-everyday-life-worksheets-cover.jpg",
+    "image": "/assets/year-1-science-everyday-life-worksheets-cover.png",
     "currency": "USD",
     "available": true,
     "resourceType": "worksheet",
@@ -283,7 +299,10 @@
       "Teacher guidance and complete practice, test and dictation keys",
       "49-page A4 PDF; print at Actual Size (100%)",
       "Preview, current price and purchase on Teachers Pay Teachers"
-    ]
+    ],
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "6.00"
   },
   {
     "id": "year-1-pushes-pulls-worksheets",
@@ -310,7 +329,7 @@
     ],
     "description": "A 49-page Year 1 Science pack with 60 practice questions, a separate 20-question test, illustrated concepts, drawing tasks, a supervised investigation, vocabulary dictation and complete answer keys.",
     "url": "/products/year-1-pushes-pulls-worksheets/",
-    "image": "/assets/year-1-pushes-pulls-worksheets-cover.jpg",
+    "image": "/assets/year-1-pushes-pulls-worksheets-cover.png",
     "currency": "USD",
     "available": true,
     "resourceType": "worksheet",
@@ -324,7 +343,10 @@
       "Teacher guidance and complete practice, test and dictation keys",
       "49-page A4 PDF; print at Actual Size (100%)",
       "Preview, current price and purchase on Teachers Pay Teachers"
-    ]
+    ],
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "6.00"
   },
   {
     "id": "year-1-weather-seasons-worksheets",
@@ -351,7 +373,7 @@
     ],
     "description": "A 50-page Year 1 Science pack with 62 practice questions, a separate 20-question test, illustrated concepts, weather records, drawing tasks, vocabulary dictation and complete answer keys.",
     "url": "/products/year-1-weather-seasons-worksheets/",
-    "image": "/assets/year-1-weather-seasons-worksheets-cover.jpg",
+    "image": "/assets/year-1-weather-seasons-worksheets-cover.png",
     "currency": "USD",
     "available": true,
     "resourceType": "worksheet",
@@ -365,11 +387,14 @@
       "Teacher guidance and complete practice, test and dictation keys",
       "50-page A4 PDF; print at Actual Size (100%)",
       "Preview, current price and purchase on Teachers Pay Teachers"
-    ]
+    ],
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "4.00"
   },
   {
     "id": "year-1-maths-number-worksheet-bundle",
-    "title": "Year 1 Maths Number Worksheet & Test Bundle",
+    "title": "Year 1 Maths Number Bundle | Worksheets & Tests | Australian Curriculum v9",
     "year": 1,
     "yearLabel": "Year 1",
     "subject": "maths",
@@ -389,20 +414,32 @@
       "AC9M1N05",
       "AC9M1N06"
     ],
-    "description": "Counting to 120, place value, calculation, money problems, equal groups and sharing. 6 complete worksheet units with 360 practice questions, separate tests, vocabulary, dictation and answer keys. Save 10%.",
-    "url": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Number-Bundle-Worksheets-Tests-Australian-Curriculum-v9-17870089",
-    "image": "/icons/skillrhub-mark.svg",
+    "description": "6 complete Year 1 Maths worksheet packs with 456 questions: 360 practice + 96 separate test questions. Strands → Practice → Test, with vocabulary, teacher guidance and answer keys. Save 10% compared with the included resources purchased separately.",
+    "url": "/products/year-1-maths-number-worksheet-bundle/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Maths-Number-Bundle-Worksheets-Tests-Australian-Curriculum-v9-17870089-1791448498/original-17870089-1.jpg",
     "price": "21.60",
     "listPrice": "24.00",
     "currency": "USD",
     "available": true,
     "resourceType": "bundle",
     "bundleFormat": "worksheet",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Number-Bundle-Worksheets-Tests-Australian-Curriculum-v9-17870089"
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Number-Bundle-Worksheets-Tests-Australian-Curriculum-v9-17870089",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "packCount": 6,
+    "practiceQuestions": 360,
+    "testQuestions": 96,
+    "totalQuestions": 456,
+    "includes": [
+      "360 practice questions",
+      "96 separate test questions",
+      "Strands → Practice → Test structure",
+      "Teacher guidance and complete answer keys"
+    ]
   },
   {
     "id": "year-1-maths-algebra-worksheet-bundle",
-    "title": "Year 1 Maths Algebra Worksheet & Test Bundle",
+    "title": "Year 1 Maths Algebra Bundle | Patterns Worksheets & Tests | Australian v9",
     "year": 1,
     "yearLabel": "Year 1",
     "subject": "maths",
@@ -418,20 +455,32 @@
       "AC9M1A01",
       "AC9M1A02"
     ],
-    "description": "Skip-counting patterns and repeating patterns. 2 complete worksheet units with 120 practice questions, separate tests, vocabulary, dictation and answer keys. Save 10%.",
-    "url": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Algebra-Bundle-Patterns-Worksheets-Tests-Australian-v9-17870120",
-    "image": "/icons/skillrhub-mark.svg",
+    "description": "2 complete Year 1 Maths worksheet packs with 152 questions: 120 practice + 32 separate test questions. Strands → Practice → Test, with vocabulary, teacher guidance and answer keys. Save 10% compared with the included resources purchased separately.",
+    "url": "/products/year-1-maths-algebra-worksheet-bundle/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Maths-Algebra-Bundle-Patterns-Worksheets-Tests-Australian-v9-17870120-1791449056/original-17870120-1.jpg",
     "price": "3.60",
     "listPrice": "4.00",
     "currency": "USD",
     "available": true,
     "resourceType": "bundle",
     "bundleFormat": "worksheet",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Algebra-Bundle-Patterns-Worksheets-Tests-Australian-v9-17870120"
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Algebra-Bundle-Patterns-Worksheets-Tests-Australian-v9-17870120",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "packCount": 2,
+    "practiceQuestions": 120,
+    "testQuestions": 32,
+    "totalQuestions": 152,
+    "includes": [
+      "120 practice questions",
+      "32 separate test questions",
+      "Strands → Practice → Test structure",
+      "Teacher guidance and complete answer keys"
+    ]
   },
   {
     "id": "year-1-maths-measurement-worksheet-bundle",
-    "title": "Year 1 Maths Measurement Worksheet & Test Bundle",
+    "title": "Year 1 Maths Measurement Bundle | Worksheets & Tests | Australian v9",
     "year": 1,
     "yearLabel": "Year 1",
     "subject": "maths",
@@ -448,20 +497,32 @@
       "AC9M1M02",
       "AC9M1M03"
     ],
-    "description": "Comparing measurements, measuring length, and time and duration. 3 complete worksheet units with 180 practice questions, separate tests, vocabulary, dictation and answer keys. Save 10%.",
-    "url": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Measurement-Bundle-Worksheets-Tests-Australian-v9-17870135",
-    "image": "/icons/skillrhub-mark.svg",
+    "description": "3 complete Year 1 Maths worksheet packs with 228 questions: 180 practice + 48 separate test questions. Strands → Practice → Test, with vocabulary, teacher guidance and answer keys. Save 10% compared with the included resources purchased separately.",
+    "url": "/products/year-1-maths-measurement-worksheet-bundle/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Maths-Measurement-Bundle-Worksheets-Tests-Australian-v9-17870135-1791448754/original-17870135-1.jpg",
     "price": "10.80",
     "listPrice": "12.00",
     "currency": "USD",
     "available": true,
     "resourceType": "bundle",
     "bundleFormat": "worksheet",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Measurement-Bundle-Worksheets-Tests-Australian-v9-17870135"
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Measurement-Bundle-Worksheets-Tests-Australian-v9-17870135",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "packCount": 3,
+    "practiceQuestions": 180,
+    "testQuestions": 48,
+    "totalQuestions": 228,
+    "includes": [
+      "180 practice questions",
+      "48 separate test questions",
+      "Strands → Practice → Test structure",
+      "Teacher guidance and complete answer keys"
+    ]
   },
   {
     "id": "year-1-maths-space-worksheet-bundle",
-    "title": "Year 1 Maths Space Worksheet & Test Bundle",
+    "title": "Year 1 Maths Space Bundle | Shapes & Directions Worksheets & Tests | AC v9",
     "year": 1,
     "yearLabel": "Year 1",
     "subject": "maths",
@@ -477,20 +538,32 @@
       "AC9M1SP01",
       "AC9M1SP02"
     ],
-    "description": "Shapes and objects, plus giving and following directions. 2 complete worksheet units with 120 practice questions, separate tests, vocabulary, dictation and answer keys. Save 10%.",
-    "url": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Space-Bundle-Shapes-Directions-Worksheets-Tests-AC-v9-17870145",
-    "image": "/icons/skillrhub-mark.svg",
+    "description": "2 complete Year 1 Maths worksheet packs with 152 questions: 120 practice + 32 separate test questions. Strands → Practice → Test, with vocabulary, teacher guidance and answer keys. Save 10% compared with the included resources purchased separately.",
+    "url": "/products/year-1-maths-space-worksheet-bundle/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Maths-Space-Bundle-Shapes-Directions-Worksheets-Tests-AC-v9-17870145-1791448683/original-17870145-1.jpg",
     "price": "7.20",
     "listPrice": "8.00",
     "currency": "USD",
     "available": true,
     "resourceType": "bundle",
     "bundleFormat": "worksheet",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Space-Bundle-Shapes-Directions-Worksheets-Tests-AC-v9-17870145"
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Space-Bundle-Shapes-Directions-Worksheets-Tests-AC-v9-17870145",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "packCount": 2,
+    "practiceQuestions": 120,
+    "testQuestions": 32,
+    "totalQuestions": 152,
+    "includes": [
+      "120 practice questions",
+      "32 separate test questions",
+      "Strands → Practice → Test structure",
+      "Teacher guidance and complete answer keys"
+    ]
   },
   {
     "id": "year-1-maths-statistics-worksheet-bundle",
-    "title": "Year 1 Maths Statistics Worksheet & Test Bundle",
+    "title": "Year 1 Maths Statistics Bundle | Data & Pictographs Worksheets & Tests",
     "year": 1,
     "yearLabel": "Year 1",
     "subject": "maths",
@@ -506,20 +579,32 @@
       "AC9M1ST01",
       "AC9M1ST02"
     ],
-    "description": "Collecting and recording data, pictographs and data displays. 2 complete worksheet units with 120 practice questions, separate tests, vocabulary, dictation and answer keys. Save 10%.",
-    "url": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Statistics-Bundle-Data-Pictographs-Worksheets-Tests-17870161",
-    "image": "/icons/skillrhub-mark.svg",
+    "description": "2 complete Year 1 Maths worksheet packs with 156 questions: 120 practice + 36 separate test questions. Strands → Practice → Test, with vocabulary, teacher guidance and answer keys. Save 10% compared with the included resources purchased separately.",
+    "url": "/products/year-1-maths-statistics-worksheet-bundle/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Maths-Statistics-Bundle-Data-Pictographs-Worksheets-Tests-17870161-1791448999/original-17870161-1.jpg",
     "price": "7.20",
     "listPrice": "8.00",
     "currency": "USD",
     "available": true,
     "resourceType": "bundle",
     "bundleFormat": "worksheet",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Statistics-Bundle-Data-Pictographs-Worksheets-Tests-17870161"
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Statistics-Bundle-Data-Pictographs-Worksheets-Tests-17870161",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "packCount": 2,
+    "practiceQuestions": 120,
+    "testQuestions": 36,
+    "totalQuestions": 156,
+    "includes": [
+      "120 practice questions",
+      "36 separate test questions",
+      "Strands → Practice → Test structure",
+      "Teacher guidance and complete answer keys"
+    ]
   },
   {
     "id": "year-1-maths-full-year-worksheet-bundle",
-    "title": "Year 1 Maths Full year Worksheet & Test Bundle",
+    "title": "Year 1 Maths Full Year Worksheet & Test Bundle | 15 Codes | Australian v9",
     "year": 1,
     "yearLabel": "Year 1",
     "subject": "maths",
@@ -548,20 +633,32 @@
       "AC9M1ST01",
       "AC9M1ST02"
     ],
-    "description": "All 15 Year 1 maths codes across Number, Algebra, Measurement, Space and Statistics. 15 complete worksheet units with 900 practice questions, separate tests, vocabulary, dictation and answer keys. Save 10%.",
-    "url": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Full-Year-Worksheet-Test-Bundle-15-Codes-Australian-v9-17870172",
-    "image": "/icons/skillrhub-mark.svg",
-    "price": "50.40",
+    "description": "15 complete Year 1 Maths worksheet packs with 1,144 questions: 900 practice + 244 separate test questions. Strands → Practice → Test, with vocabulary, teacher guidance and answer keys. Save 20% compared with the included resources purchased separately.",
+    "url": "/products/year-1-maths-full-year-worksheet-bundle/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Maths-Full-Year-Worksheet-Test-Bundle-15-Codes-Australian-v9-17870172-1791448551/original-17870172-1.jpg",
+    "price": "44.80",
     "listPrice": "56.00",
     "currency": "USD",
     "available": true,
     "resourceType": "bundle",
     "bundleFormat": "worksheet",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Full-Year-Worksheet-Test-Bundle-15-Codes-Australian-v9-17870172"
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Full-Year-Worksheet-Test-Bundle-15-Codes-Australian-v9-17870172",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "packCount": 15,
+    "practiceQuestions": 900,
+    "testQuestions": 244,
+    "totalQuestions": 1144,
+    "includes": [
+      "900 practice questions",
+      "244 separate test questions",
+      "Strands → Practice → Test structure",
+      "Teacher guidance and complete answer keys"
+    ]
   },
   {
     "id": "year-1-maths-term-1-worksheet-bundle",
-    "title": "Year 1 Maths Term 1 Worksheet & Test Bundle",
+    "title": "Year 1 Maths Term 1 Bundle | Numbers, Patterns & Shapes Worksheets | AC v9",
     "year": 1,
     "yearLabel": "Year 1",
     "subject": "maths",
@@ -580,20 +677,32 @@
       "AC9M1A02",
       "AC9M1SP01"
     ],
-    "description": "Numbers to 120, place value, repeating patterns, and shapes and objects. 4 complete worksheet units with 240 practice questions, separate tests, vocabulary, dictation and answer keys. Save 10%.",
-    "url": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Term-1-Bundle-Numbers-Patterns-Shapes-Worksheets-AC-v9-17870186",
-    "image": "/icons/skillrhub-mark.svg",
+    "description": "4 complete Year 1 Maths worksheet packs with 304 questions: 240 practice + 64 separate test questions. Strands → Practice → Test, with vocabulary, teacher guidance and answer keys. Save 10% compared with the included resources purchased separately.",
+    "url": "/products/year-1-maths-term-1-worksheet-bundle/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Maths-Term-1-Bundle-Numbers-Patterns-Shapes-Worksheets-AC-v9-17870186-1791448852/original-17870186-1.jpg",
     "price": "14.40",
     "listPrice": "16.00",
     "currency": "USD",
     "available": true,
     "resourceType": "bundle",
     "bundleFormat": "worksheet",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Term-1-Bundle-Numbers-Patterns-Shapes-Worksheets-AC-v9-17870186"
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Term-1-Bundle-Numbers-Patterns-Shapes-Worksheets-AC-v9-17870186",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "packCount": 4,
+    "practiceQuestions": 240,
+    "testQuestions": 64,
+    "totalQuestions": 304,
+    "includes": [
+      "240 practice questions",
+      "64 separate test questions",
+      "Strands → Practice → Test structure",
+      "Teacher guidance and complete answer keys"
+    ]
   },
   {
     "id": "year-1-maths-term-2-worksheet-bundle",
-    "title": "Year 1 Maths Term 2 Worksheet & Test Bundle",
+    "title": "Year 1 Maths Term 2 Bundle | Counting, Calculations & Measurement | AC v9",
     "year": 1,
     "yearLabel": "Year 1",
     "subject": "maths",
@@ -612,20 +721,32 @@
       "AC9M1A01",
       "AC9M1M01"
     ],
-    "description": "Equal groups, addition and subtraction, skip-counting patterns and comparing measurements. 4 complete worksheet units with 240 practice questions, separate tests, vocabulary, dictation and answer keys. Save 10%.",
-    "url": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Term-2-Bundle-Counting-Calculations-Measurement-AC-v9-17870205",
-    "image": "/icons/skillrhub-mark.svg",
+    "description": "4 complete Year 1 Maths worksheet packs with 304 questions: 240 practice + 64 separate test questions. Strands → Practice → Test, with vocabulary, teacher guidance and answer keys. Save 10% compared with the included resources purchased separately.",
+    "url": "/products/year-1-maths-term-2-worksheet-bundle/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Maths-Term-2-Bundle-Counting-Calculations-Measurement-AC-v9-17870205-1791448797/original-17870205-1.jpg",
     "price": "10.80",
     "listPrice": "12.00",
     "currency": "USD",
     "available": true,
     "resourceType": "bundle",
     "bundleFormat": "worksheet",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Term-2-Bundle-Counting-Calculations-Measurement-AC-v9-17870205"
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Term-2-Bundle-Counting-Calculations-Measurement-AC-v9-17870205",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "packCount": 4,
+    "practiceQuestions": 240,
+    "testQuestions": 64,
+    "totalQuestions": 304,
+    "includes": [
+      "240 practice questions",
+      "64 separate test questions",
+      "Strands → Practice → Test structure",
+      "Teacher guidance and complete answer keys"
+    ]
   },
   {
     "id": "year-1-maths-term-3-worksheet-bundle",
-    "title": "Year 1 Maths Term 3 Worksheet & Test Bundle",
+    "title": "Year 1 Maths Term 3 Bundle | Word Problems, Sharing, Length & Directions",
     "year": 1,
     "yearLabel": "Year 1",
     "subject": "maths",
@@ -644,20 +765,32 @@
       "AC9M1M02",
       "AC9M1SP02"
     ],
-    "description": "Word problems and money, sharing and grouping, measuring length and directions. 4 complete worksheet units with 240 practice questions, separate tests, vocabulary, dictation and answer keys. Save 10%.",
-    "url": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Term-3-Bundle-Word-Problems-Sharing-Length-Directions-17870215",
-    "image": "/icons/skillrhub-mark.svg",
+    "description": "4 complete Year 1 Maths worksheet packs with 304 questions: 240 practice + 64 separate test questions. Strands → Practice → Test, with vocabulary, teacher guidance and answer keys. Save 10% compared with the included resources purchased separately.",
+    "url": "/products/year-1-maths-term-3-worksheet-bundle/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Maths-Term-3-Bundle-Word-Problems-Sharing-Length-Directions-17870215-1791448625/original-17870215-1.jpg",
     "price": "14.40",
     "listPrice": "16.00",
     "currency": "USD",
     "available": true,
     "resourceType": "bundle",
     "bundleFormat": "worksheet",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Term-3-Bundle-Word-Problems-Sharing-Length-Directions-17870215"
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Term-3-Bundle-Word-Problems-Sharing-Length-Directions-17870215",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "packCount": 4,
+    "practiceQuestions": 240,
+    "testQuestions": 64,
+    "totalQuestions": 304,
+    "includes": [
+      "240 practice questions",
+      "64 separate test questions",
+      "Strands → Practice → Test structure",
+      "Teacher guidance and complete answer keys"
+    ]
   },
   {
     "id": "year-1-maths-term-4-worksheet-bundle",
-    "title": "Year 1 Maths Term 4 Worksheet & Test Bundle",
+    "title": "Year 1 Maths Term 4 Bundle | Time, Data & Pictographs Worksheets | AC v9",
     "year": 1,
     "yearLabel": "Year 1",
     "subject": "maths",
@@ -675,16 +808,28 @@
       "AC9M1ST01",
       "AC9M1ST02"
     ],
-    "description": "Time and duration, collecting and recording data, pictographs and data displays. 3 complete worksheet units with 180 practice questions, separate tests, vocabulary, dictation and answer keys. Save 10%.",
-    "url": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Term-4-Bundle-Time-Data-Pictographs-Worksheets-AC-v9-17870226",
-    "image": "/icons/skillrhub-mark.svg",
+    "description": "3 complete Year 1 Maths worksheet packs with 232 questions: 180 practice + 52 separate test questions. Strands → Practice → Test, with vocabulary, teacher guidance and answer keys. Save 10% compared with the included resources purchased separately.",
+    "url": "/products/year-1-maths-term-4-worksheet-bundle/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Maths-Term-4-Bundle-Time-Data-Pictographs-Worksheets-AC-v9-17870226-1791448899/original-17870226-1.jpg",
     "price": "10.80",
     "listPrice": "12.00",
     "currency": "USD",
     "available": true,
     "resourceType": "bundle",
     "bundleFormat": "worksheet",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Term-4-Bundle-Time-Data-Pictographs-Worksheets-AC-v9-17870226"
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Term-4-Bundle-Time-Data-Pictographs-Worksheets-AC-v9-17870226",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "packCount": 3,
+    "practiceQuestions": 180,
+    "testQuestions": 52,
+    "totalQuestions": 232,
+    "includes": [
+      "180 practice questions",
+      "52 separate test questions",
+      "Strands → Practice → Test structure",
+      "Teacher guidance and complete answer keys"
+    ]
   },
   {
     "id": "year-5-decimals-teaching-worksheet-pack",
@@ -728,7 +873,8 @@
       "60-page flattened A4 worksheet PDF; print at Actual Size (100%)",
       "Flattened PowerPoint and PDF in one ZIP; content is not editable",
       "Preview, checkout and file delivery on TPT"
-    ]
+    ],
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "year-1-plants-animals-needs",
@@ -771,7 +917,9 @@
       "Picture choices, matching, fill-in-the-blank, drawing and short response activities",
       "53-page flattened A4 PDF; print at Actual Size (100%)",
       "Preview and file delivery available on TPT"
-    ]
+    ],
+    "free": false,
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "year-1-pictographs-data-displays",
@@ -803,7 +951,9 @@
     "currency": "USD",
     "available": true,
     "resourceType": "worksheet",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Pictographs-Data-Displays-6-Day-Worksheets-Test-AC9M1ST02-17867818"
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Pictographs-Data-Displays-6-Day-Worksheets-Test-AC9M1ST02-17867818",
+    "free": false,
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "year-1-collecting-recording-data",
@@ -835,7 +985,9 @@
     "currency": "USD",
     "available": true,
     "resourceType": "worksheet",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Collecting-Recording-Data-6-Day-Worksheets-Test-AC9M1ST01-17867745"
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Collecting-Recording-Data-6-Day-Worksheets-Test-AC9M1ST01-17867745",
+    "free": false,
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "year-1-give-follow-directions",
@@ -869,7 +1021,9 @@
     "currency": "USD",
     "available": true,
     "resourceType": "worksheet",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Give-Follow-Directions-6-Day-Worksheets-Test-AC9M1SP02-17867511"
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Give-Follow-Directions-6-Day-Worksheets-Test-AC9M1SP02-17867511",
+    "free": false,
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "year-1-shapes-objects",
@@ -902,7 +1056,9 @@
     "currency": "USD",
     "available": true,
     "resourceType": "worksheet",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Shapes-Objects-6-Day-Worksheets-Test-AC9M1SP01-17867400"
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Shapes-Objects-6-Day-Worksheets-Test-AC9M1SP01-17867400",
+    "free": false,
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "year-1-time-duration",
@@ -935,7 +1091,9 @@
     "currency": "USD",
     "available": true,
     "resourceType": "worksheet",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Time-Duration-6-Day-Worksheets-Test-AC9M1M03-17867276"
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Time-Duration-6-Day-Worksheets-Test-AC9M1M03-17867276",
+    "free": false,
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "year-1-measuring-length",
@@ -966,7 +1124,9 @@
     "currency": "USD",
     "available": true,
     "resourceType": "worksheet",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Measuring-Length-6-Day-Worksheets-Test-AC9M1M02-17867187"
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Measuring-Length-6-Day-Worksheets-Test-AC9M1M02-17867187",
+    "free": false,
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "year-1-comparing-measurements",
@@ -997,7 +1157,9 @@
     "currency": "USD",
     "available": true,
     "resourceType": "worksheet",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Comparing-Measurements-6-Day-Worksheets-Test-AC9M1M01-17866956"
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Comparing-Measurements-6-Day-Worksheets-Test-AC9M1M01-17866956",
+    "free": false,
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "year-1-repeating-patterns",
@@ -1026,7 +1188,9 @@
     "currency": "USD",
     "available": true,
     "resourceType": "worksheet",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Repeating-Patterns-6-Day-Worksheets-Test-AC9M1A02-17865943"
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Repeating-Patterns-6-Day-Worksheets-Test-AC9M1A02-17865943",
+    "free": false,
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "year-1-skip-counting-patterns",
@@ -1052,11 +1216,13 @@
     "description": "A 41-page Year 1 maths pack with 60 practice questions, a separate 16-question test, illustrated vocabulary, dictation, worked examples and complete answer keys.",
     "url": "/products/year-1-skip-counting-patterns/",
     "image": "/assets/year-1-skip-counting-patterns-cover.svg",
-    "price": "4.00",
+    "price": "0.00",
     "currency": "USD",
     "available": true,
     "resourceType": "worksheet",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Skip-Counting-Patterns-6-Day-Worksheets-Test-AC9M1A01-17865797"
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Skip-Counting-Patterns-6-Day-Worksheets-Test-AC9M1A01-17865797",
+    "free": true,
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "year-1-equal-sharing-grouping",
@@ -1085,7 +1251,9 @@
     "currency": "USD",
     "available": true,
     "resourceType": "worksheet",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Equal-Sharing-Grouping-5-Day-Worksheets-Test-AC9M1N06-17865685"
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Equal-Sharing-Grouping-5-Day-Worksheets-Test-AC9M1N06-17865685",
+    "free": false,
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "year-1-word-problems-money",
@@ -1115,7 +1283,9 @@
     "currency": "USD",
     "available": true,
     "resourceType": "worksheet",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Word-Problems-Money-6-Day-Worksheets-Test-AC9M1N05-17865530"
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Word-Problems-Money-6-Day-Worksheets-Test-AC9M1N05-17865530",
+    "free": false,
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "year-1-addition-subtraction-to-20",
@@ -1145,7 +1315,9 @@
     "currency": "USD",
     "available": true,
     "resourceType": "worksheet",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Addition-Subtraction-to-20-5-Day-Worksheets-Test-AC9M1N04-17865364"
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Addition-Subtraction-to-20-5-Day-Worksheets-Test-AC9M1N04-17865364",
+    "free": false,
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "year-1-equal-groups-skip-counting",
@@ -1174,7 +1346,9 @@
     "currency": "USD",
     "available": true,
     "resourceType": "worksheet",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Equal-Groups-Skip-Counting-5-Day-Worksheets-Test-AC9M1N03-17865133"
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Equal-Groups-Skip-Counting-5-Day-Worksheets-Test-AC9M1N03-17865133",
+    "free": false,
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "year-1-place-value-number-partitioning",
@@ -1203,11 +1377,13 @@
     "currency": "USD",
     "available": true,
     "resourceType": "worksheet",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Place-Value-Number-Partitioning-Worksheets-Tens-and-Ones-AC9M1N02-17864784"
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Place-Value-Number-Partitioning-Worksheets-Tens-and-Ones-AC9M1N02-17864784",
+    "free": false,
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "year-1-maths-practice-assessment",
-    "title": "Year 1 Maths Practice & Assessment Pack | Handpicked High-Quality Questions",
+    "title": "Year 1 Maths Assessment & Practice Pack | Australian Curriculum v9",
     "year": 1,
     "yearLabel": "Year 1",
     "subject": "maths",
@@ -1227,17 +1403,19 @@
       "Australian Curriculum v9.0"
     ],
     "description": "A 59-page black-and-white practice and assessment pack with 56 practice questions, 27 assessment questions, answer keys, marking notes and curriculum diagnostic tools.",
-    "url": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Practice-Assessment-Pack-Handpicked-High-Quality-Questions--17621276",
+    "url": "/products/year-1-maths-practice-assessment/",
     "image": "/icons/skillrhub-mark.svg",
     "price": "7.50",
     "currency": "USD",
     "available": true,
     "resourceType": "assessment-pack",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Practice-Assessment-Pack-Handpicked-High-Quality-Questions--17621276"
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Assessment-Practice-Pack-Australian-Curriculum-v9-17621276",
+    "free": false,
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "year-2-maths-workbook",
-    "title": "Year 2 Maths Workbook | Australian Curriculum Version 9.0 | Full-Year Resource",
+    "title": "Year 2 Maths Workbook | Full-Year Australian Curriculum v9 Resource",
     "year": 2,
     "yearLabel": "Year 2",
     "subject": "maths",
@@ -1261,11 +1439,13 @@
     "currency": "USD",
     "available": true,
     "resourceType": "workbook",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-2-Maths-Workbook-Australian-Curriculum-Version-90-Full-Year-Resource-17273907"
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-2-Maths-Workbook-Full-Year-Australian-Curriculum-v9-Resource-17273907",
+    "free": false,
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "year-1-science-inquiry-part-1",
-    "title": "Year 1 Science – Science Inquiry Skills | Australian Curriculum v9.0 | Part 1",
+    "title": "Year 1 Science Inquiry Skills | Observation & Recording | Australian v9 Part 1",
     "year": 1,
     "yearLabel": "Year 1",
     "subject": "science",
@@ -1286,7 +1466,9 @@
     "currency": "USD",
     "available": true,
     "resourceType": "unit",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Science-Science-Inquiry-Skills-Australian-Curriculum-v90-Part-1-17204859"
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Science-Inquiry-Skills-Observation-Recording-Australian-v9-Part-1-17204859",
+    "free": false,
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "year-1-science-inquiry-part-2",
@@ -1312,11 +1494,13 @@
     "currency": "USD",
     "available": true,
     "resourceType": "unit",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Science-Inquiry-Skills-Questioning-Planning-Processing-Part-2-17204897"
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Science-Inquiry-Skills-Questioning-Planning-Processing-Part-2-17204897",
+    "free": false,
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "year-1-science-earth-space",
-    "title": "Year 1 Science – Earth and Space Sciences | Australian Curriculum v9.0 | Lessons",
+    "title": "Year 1 Weather & Seasons Unit | Earth & Space Science | Australian v9",
     "year": 1,
     "yearLabel": "Year 1",
     "subject": "science",
@@ -1338,11 +1522,13 @@
     "currency": "USD",
     "available": true,
     "resourceType": "unit",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Science-Earth-and-Space-Sciences-Australian-Curriculum-v90-Lessons-17204732"
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Weather-Seasons-Unit-Earth-Space-Science-Australian-v9-17204732",
+    "free": false,
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "year-1-science-physical",
-    "title": "Year 1 Science – Physical Sciences | Australian Curriculum v9.0 | Pushes & Pulls",
+    "title": "Year 1 Pushes & Pulls Unit | Physical Science | Australian Curriculum v9",
     "year": 1,
     "yearLabel": "Year 1",
     "subject": "science",
@@ -1364,11 +1550,13 @@
     "currency": "USD",
     "available": true,
     "resourceType": "unit",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Science-Physical-Sciences-Australian-Curriculum-v90-Pushes-Pulls-17204675"
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Pushes-Pulls-Unit-Physical-Science-Australian-Curriculum-v9-17204675",
+    "free": false,
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "year-1-science-human-endeavour",
-    "title": "Year 1 – Science as a Human Endeavour | Australian Curriculum v9.0 | Lessons",
+    "title": "Year 1 Science in Everyday Life Unit | Australian Curriculum v9 Lessons",
     "year": 1,
     "yearLabel": "Year 1",
     "subject": "science",
@@ -1388,11 +1576,13 @@
     "currency": "USD",
     "available": true,
     "resourceType": "unit",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Science-as-a-Human-Endeavour-Australian-Curriculum-v90-Lessons-17204777"
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Science-in-Everyday-Life-Unit-Australian-Curriculum-v9-Lessons-17204777",
+    "free": false,
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "year-1-biological-sciences-free",
-    "title": "Year 1 Biological Sciences | Chapter 1: Introduction to Biological Sciences",
+    "title": "FREE Year 1 Living Things Unit | Biological Science | Australian Curriculum v9",
     "year": 1,
     "yearLabel": "Year 1",
     "subject": "science",
@@ -1408,16 +1598,17 @@
     "description": "A free introductory chapter about living things through observation, exploration and inquiry.",
     "url": "/products/year-1-biological-sciences-free/",
     "image": "/icons/skillrhub-mark.svg",
-    "price": "0",
+    "price": "0.00",
     "currency": "USD",
     "available": true,
     "resourceType": "unit",
     "free": true,
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Biological-Sciences-Chapter-1-Introduction-to-Biological-Sciences-17204521"
+    "tptUrl": "https://www.teacherspayteachers.com/Product/FREE-Year-1-Living-Things-Unit-Biological-Science-Australian-Curriculum-v9-17204521",
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "year-2-numbers-1000-free",
-    "title": "Year 2 Numbers to 1000 Free Lesson | Place Value Worksheets | AC9M2N01",
+    "title": "FREE Year 2 Place Value Lesson & Worksheets | Numbers to 1,000 | AC9M2N01",
     "year": 2,
     "yearLabel": "Year 2",
     "subject": "maths",
@@ -1433,16 +1624,17 @@
     "description": "A free teaching and practice pack for reading, representing, comparing and ordering numbers to 1000.",
     "url": "/products/year-2-numbers-1000-free/",
     "image": "/icons/skillrhub-mark.svg",
-    "price": "0",
+    "price": "0.00",
     "currency": "USD",
     "available": true,
     "resourceType": "worksheet",
     "free": true,
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-2-Numbers-to-1000-Free-Lesson-Place-Value-Worksheets-AC9M2N01-17273749"
+    "tptUrl": "https://www.teacherspayteachers.com/Product/FREE-Year-2-Place-Value-Lesson-Worksheets-Numbers-to-1000-AC9M2N01-17273749",
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "year-3-telling-time-free",
-    "title": "Year 3 Telling Time FREE Worksheets | Analog Clocks | AC9M3M04",
+    "title": "FREE Year 3 Telling Time Worksheets | Analogue Clocks | AC9M3M04",
     "year": 3,
     "yearLabel": "Year 3",
     "subject": "maths",
@@ -1459,16 +1651,17 @@
     "description": "A free mini-pack for identifying clock hands and reading analogue and digital time to the minute.",
     "url": "/products/year-3-telling-time-free/",
     "image": "/assets/year-3-time-pack-cover.png",
-    "price": "0",
+    "price": "0.00",
     "currency": "USD",
     "available": true,
     "resourceType": "worksheet",
     "free": true,
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-3-Telling-Time-FREE-Worksheets-Analog-Clocks-AC9M3M04-17492537"
+    "tptUrl": "https://www.teacherspayteachers.com/Product/FREE-Year-3-Telling-Time-Worksheets-Analogue-Clocks-AC9M3M04-17492537",
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "year-4-fractions-free",
-    "title": "Year 4 Fractions FREE Worksheet Pack | Equivalent Fractions & Number Lines",
+    "title": "FREE Year 4 Fractions Worksheets | Equivalent Fractions & Number Lines",
     "year": 4,
     "yearLabel": "Year 4",
     "subject": "maths",
@@ -1485,16 +1678,17 @@
     "description": "A free mini-pack with fraction models, number lines, reasoning, an exit ticket and answers.",
     "url": "/products/year-4-fractions-free/",
     "image": "/assets/free-resources/year-4-fractions-mini-pack-preview.png",
-    "price": "0",
+    "price": "0.00",
     "currency": "USD",
     "available": true,
     "resourceType": "worksheet",
     "free": true,
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-4-Fractions-FREE-Worksheet-Pack-Equivalent-Fractions-Number-Lines--17526065"
+    "tptUrl": "https://www.teacherspayteachers.com/Product/FREE-Year-4-Fractions-Worksheets-Equivalent-Fractions-Number-Lines-17526065",
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "year-5-decimals-free",
-    "title": "FREE Year 5 Decimals Worksheets | Place Value, Comparing & Rounding Decimals",
+    "title": "FREE Grade 5 Decimals Worksheets | Place Value, Comparing & Rounding",
     "year": 5,
     "yearLabel": "Year 5",
     "subject": "maths",
@@ -1511,12 +1705,13 @@
     "description": "A free decimal pack covering place value, comparing, ordering and rounding, with answers.",
     "url": "/products/year-5-decimals-free/",
     "image": "/icons/skillrhub-mark.svg",
-    "price": "0",
+    "price": "0.00",
     "currency": "USD",
     "available": true,
     "resourceType": "worksheet",
     "free": true,
-    "tptUrl": "https://www.teacherspayteachers.com/Product/FREE-Year-5-Decimals-Worksheets-Place-Value-Comparing-Rounding-Decimals-17567833"
+    "tptUrl": "https://www.teacherspayteachers.com/Product/FREE-Grade-5-Decimals-Worksheets-Place-Value-Comparing-Rounding-17567833",
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "year-3-time-slides-60",
@@ -1542,11 +1737,20 @@
     "currency": "USD",
     "available": true,
     "resourceType": "teaching-slides",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-3-Time-Teaching-Slides-Analogue-Clocks-Duration-60-Slide-Pack-17593166"
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-3-Time-Teaching-Slides-Analogue-Clocks-Duration-60-Slide-Pack-17593166",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Year 3 Time Teaching Slides"
+    ],
+    "format": "See the TpT listing for file format and full contents"
   },
   {
     "id": "year-3-time-slides",
-    "title": "Year 3 Time Teaching Slides | Analogue Clocks & Duration",
+    "title": "Year 3 Telling Time Lesson Slides | Analogue Clocks & Duration | AC9M3M04",
     "year": 3,
     "yearLabel": "Year 3",
     "subject": "maths",
@@ -1564,15 +1768,24 @@
     "description": "A classroom-ready PDF for analogue clocks, comparing times, elapsed time and duration problems.",
     "url": "/products/year-3-time-slides/",
     "image": "/assets/year-3-time-pack-cover.png",
-    "price": "6.98",
+    "price": "6.99",
     "currency": "USD",
     "available": true,
     "resourceType": "teaching-slides",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-3-Time-Teaching-Slides-Analogue-Clocks-Duration-17593120"
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-3-Telling-Time-Lesson-Slides-Analogue-Clocks-Duration-AC9M3M04-17593120",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Year 3 Telling Time Lesson Slides"
+    ],
+    "format": "See the TpT listing for file format and full contents"
   },
   {
     "id": "year-3-time-slides-sample",
-    "title": "Year 3 Time Teaching Slides Sample Pack | Analogue Clocks & Duration",
+    "title": "FREE Year 3 Time Teaching Slides Sample | Analogue Clocks & Duration",
     "year": 3,
     "yearLabel": "Year 3",
     "subject": "maths",
@@ -1590,16 +1803,24 @@
     "description": "A free 12-slide sample covering time units, duration, analogue clocks and common mistakes.",
     "url": "/products/year-3-time-slides-sample/",
     "image": "/assets/year-3-time-pack-cover.png",
-    "price": "0",
+    "price": "0.00",
     "currency": "USD",
     "available": true,
     "resourceType": "teaching-sample",
     "free": true,
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-3-Time-Teaching-Slides-Sample-Pack-Analogue-Clocks-Duration-17593083"
+    "tptUrl": "https://www.teacherspayteachers.com/Product/FREE-Year-3-Time-Teaching-Slides-Sample-Analogue-Clocks-Duration-17593083",
+    "tptObservedAt": "2026-10-08",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore FREE Year 3 Time Teaching Slides Sample"
+    ],
+    "format": "See the TpT listing for file format and full contents"
   },
   {
     "id": "year-3-time-practice",
-    "title": "Year 3 Time Practice Pack | Analogue Clocks & Duration | AC9M3M03 AC9M3M04",
+    "title": "Year 3 Time Worksheets | Duration & Analogue Clocks | AC9M3M03–AC9M3M04",
     "year": 3,
     "yearLabel": "Year 3",
     "subject": "maths",
@@ -1622,11 +1843,13 @@
     "currency": "USD",
     "available": true,
     "resourceType": "worksheet",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-3-Time-Practice-Pack-Analogue-Clocks-Duration-AC9M3M03-AC9M3M04-17592266"
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-3-Time-Worksheets-Duration-Analogue-Clocks-AC9M3M03AC9M3M04-17592266",
+    "free": false,
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "year-3-time-duration-free",
-    "title": "FREE Year 3 Time Duration Worksheets | Hours, Minutes, Seconds | AC9M3M03",
+    "title": "FREE Year 3 Time Duration Worksheets | Hours, Minutes & Seconds | AC9M3M03",
     "year": 3,
     "yearLabel": "Year 3",
     "subject": "maths",
@@ -1645,16 +1868,17 @@
     "description": "A free mini-pack for choosing time units, estimating and comparing duration, and reading timers.",
     "url": "/products/year-3-time-duration-free/",
     "image": "/assets/year-3-time-pack-cover.png",
-    "price": "0",
+    "price": "0.00",
     "currency": "USD",
     "available": true,
     "resourceType": "worksheet",
     "free": true,
-    "tptUrl": "https://www.teacherspayteachers.com/Product/FREE-Year-3-Time-Duration-Worksheets-Hours-Minutes-Seconds-AC9M3M03-17592010"
+    "tptUrl": "https://www.teacherspayteachers.com/Product/FREE-Year-3-Time-Duration-Worksheets-Hours-Minutes-Seconds-AC9M3M03-17592010",
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "year-3-multiplication-division-workbook",
-    "title": "Year 3 Multiplication & Division Workbook | 144 Questions | Australian Curriculum v9.0",
+    "title": "Year 3 Multiplication & Division Workbook | 144 Questions | Australian v9",
     "year": 3,
     "yearLabel": "Year 3",
     "subject": "maths",
@@ -1682,7 +1906,7 @@
     "currency": "USD",
     "available": true,
     "resourceType": "workbook",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-3-Multiplication-Division-Workbook-144-Questions-Australian-V90-17594291",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-3-Multiplication-Division-Workbook-144-Questions-Australian-v9-17594291",
     "includes": [
       "144 questions: 112 practice and application questions plus 32 mastery checks",
       "3, 4, 5 and 10 multiplication facts and related division facts",
@@ -1692,11 +1916,13 @@
       "Detailed answer sheets with methods and explanations",
       "Australian Curriculum v9.0 alignment: AC9M3A03 and AC9M3N04",
       "Digital PDF download; purchase and delivery are handled by TPT"
-    ]
+    ],
+    "free": false,
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "year-3-multiplication-division-slides",
-    "title": "Year 3 Multiplication & Division Teaching Slides | Australian Curriculum v9",
+    "title": "Year 3 Multiplication & Division Lesson Slides | Australian Curriculum v9",
     "year": 3,
     "yearLabel": "Year 3",
     "subject": "maths",
@@ -1721,7 +1947,7 @@
     "currency": "USD",
     "available": true,
     "resourceType": "teaching-slides",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-3-Multiplication-Division-Teaching-Slides-Australian-Curriculum-v9-17594247",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-3-Multiplication-Division-Lesson-Slides-Australian-Curriculum-v9-17594247",
     "includes": [
       "36 slides in PowerPoint (.pptx) format",
       "Learning intentions, visual models, worked examples and guided practice",
@@ -1729,11 +1955,17 @@
       "Two exit tickets with answers and think–pair–share prompts",
       "Times-table recall focus: 3, 4, 5 and 10, plus related division facts",
       "Product images and purchase available on TPT"
-    ]
+    ],
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "learningGoals": [
+      "Explore Year 3 Multiplication & Division Lesson Slides"
+    ],
+    "format": "See the TpT listing for file format and full contents"
   },
   {
     "id": "year-3-fractions-workbook",
-    "title": "Year 3 Fractions Workbook | 80 Questions & Answers | Australian Curriculum v9.0",
+    "title": "Year 3 Fractions Workbook | 80 Questions & Answers | AC9M3N02",
     "year": 3,
     "yearLabel": "Year 3",
     "subject": "maths",
@@ -1753,11 +1985,11 @@
     "description": "A 43-page printable fractions workbook with 80 questions, visual models, mastery checks and complete answers with worked methods and teaching tips.",
     "url": "/products/year-3-fractions-workbook/",
     "image": "/assets/year-3-fractions-workbook-cover.png",
-    "price": "3.49",
+    "price": "4.75",
     "currency": "USD",
     "available": true,
     "resourceType": "workbook",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-3-Fractions-Workbook-80-Questions-Answers-Australian-Curriculum-v90-17594426",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-3-Fractions-Workbook-80-Questions-Answers-AC9M3N02-17594426",
     "includes": [
       "64 written-response practice questions plus 16 mastery and extension questions",
       "Halves, thirds, quarters, fifths and tenths; unit fractions and their multiples",
@@ -1767,11 +1999,13 @@
       "Focused on AC9M3N02; not a complete Year 3 mathematics program",
       "43-page non-editable PDF; US Letter pages can be scaled to A4",
       "Preview, purchase and file delivery available on TPT"
-    ]
+    ],
+    "free": false,
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "year-3-fractions-slides",
-    "title": "Year 3 Fractions Teaching Slides | Unit Fractions & Multiples | Australian Curriculum v9.0",
+    "title": "Year 3 Fractions Lesson Slides | Unit Fractions | AC9M3N02 Australian v9",
     "year": 3,
     "yearLabel": "Year 3",
     "subject": "maths",
@@ -1793,11 +2027,11 @@
     "description": "A 30-slide visual teaching presentation for unit fractions and their multiples, with worked examples, guided practice, misconception checks and answers.",
     "url": "/products/year-3-fractions-slides/",
     "image": "/assets/year-3-fractions-slides-cover.png",
-    "price": "6.99",
+    "price": "7.99",
     "currency": "USD",
     "available": true,
     "resourceType": "teaching-slides",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-3-Fractions-Teaching-Slides-Unit-Fractions-Multiples-Australian-V90-17594445",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-3-Fractions-Lesson-Slides-Unit-Fractions-AC9M3N02-Australian-v9-17594445",
     "bundleTptUrl": "https://www.teacherspayteachers.com/Product/Year-3-Fractions-Bundle-80-Question-Workbook-30-Teaching-Slides-Australian-17594471",
     "bundlePrice": "8.38",
     "format": "30-slide flattened PDF in 16:9 landscape format",
@@ -1817,11 +2051,13 @@
       "Represent fractions with models, collections, lengths and number lines",
       "Compare unit fractions and explain the role of the denominator",
       "Count unit fractions to form multiples and complete a whole"
-    ]
+    ],
+    "free": false,
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "year-1-ac9m1n05-slides",
-    "title": "Year 1 Addition & Subtraction Problem Solving + Money Lesson Slides | AC9M1N05",
+    "title": "Year 1 Addition & Subtraction Word Problems + Money Slides | AC9M1N05",
     "year": 1,
     "yearLabel": "Year 1",
     "subject": "maths",
@@ -1843,11 +2079,20 @@
     "currency": "USD",
     "available": true,
     "resourceType": "teaching-slides",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Addition-Subtraction-Problem-Solving-Money-Lesson-Slides-AC9M1N05-17670474"
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Addition-Subtraction-Word-Problems-Money-Slides-AC9M1N05-17670474",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Year 1 Addition & Subtraction Word Problems + Money Slides"
+    ],
+    "format": "See the TpT listing for file format and full contents"
   },
   {
     "id": "year-1-ac9m1n06-slides",
-    "title": "Year 1 Equal Sharing & Grouping Lesson Slides + Worksheets | AC9M1N06",
+    "title": "Year 1 Equal Sharing & Grouping | Lesson Slides & Worksheets | AC9M1N06",
     "year": 1,
     "yearLabel": "Year 1",
     "subject": "maths",
@@ -1870,11 +2115,20 @@
     "currency": "USD",
     "available": true,
     "resourceType": "teaching-slides",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Equal-Sharing-Grouping-Lesson-Slides-Worksheets-AC9M1N06-17676629"
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Equal-Sharing-Grouping-Lesson-Slides-Worksheets-AC9M1N06-17676629",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Year 1 Equal Sharing & Grouping"
+    ],
+    "format": "See the TpT listing for file format and full contents"
   },
   {
     "id": "tpt-17710509",
-    "title": "Give & Follow Directions | Year 1 Maths Lesson Slides, Practice & Test|AC9M1SP02",
+    "title": "Year 1 Position & Direction | Maths Lesson Slides & Practice | AC9M1SP02",
     "year": 1,
     "yearLabel": "Year 1",
     "subject": "maths",
@@ -1887,13 +2141,13 @@
       "AC9M1SP02"
     ],
     "description": "TPT Microsoft PowerPoint resource: Give & Follow Directions | Year 1 Maths Lesson Slides, Practice & Test|AC9M1SP02",
-    "url": "https://www.teacherspayteachers.com/Product/Give-Follow-Directions-Year-1-Maths-Lesson-Slides-Practice-TestAC9M1SP02-17710509",
-    "image": "/assets/tpt-catalogue-cover.svg",
+    "url": "/products/tpt-17710509/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Give-Follow-Directions-Year-1-Maths-Lesson-Slides-Practice-Test-AC9M1SP02-17710509-1790324963/original-17710509-1.jpg",
     "price": "9.00",
     "currency": "USD",
     "available": true,
     "resourceType": "teaching-slides",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Give-Follow-Directions-Year-1-Maths-Lesson-Slides-Practice-TestAC9M1SP02-17710509",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Position-Direction-Maths-Lesson-Slides-Practice-AC9M1SP02-17710509",
     "tptResourceType": "Microsoft PowerPoint",
     "isBundle": false,
     "free": false,
@@ -1905,11 +2159,12 @@
     "learningGoals": [
       "Supports AC9M1SP02."
     ],
-    "format": "Microsoft PowerPoint"
+    "format": "Microsoft PowerPoint",
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "tpt-17684936",
-    "title": "Familiar Shapes & Objects | Year 1 Maths Lesson Slides & Home Learning|AC9M1SP01",
+    "title": "Year 1 2D Shapes & 3D Objects | Maths Lesson Slides | AC9M1SP01",
     "year": 1,
     "yearLabel": "Year 1",
     "subject": "maths",
@@ -1922,13 +2177,13 @@
       "AC9M1SP01"
     ],
     "description": "TPT Microsoft PowerPoint resource: Familiar Shapes & Objects | Year 1 Maths Lesson Slides & Home Learning|AC9M1SP01",
-    "url": "https://www.teacherspayteachers.com/Product/Familiar-Shapes-Objects-Year-1-Maths-Lesson-Slides-Home-LearningAC9M1SP01-17684936",
-    "image": "/assets/tpt-catalogue-cover.svg",
+    "url": "/products/tpt-17684936/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Familiar-Shapes-Objects-Year-1-Maths-Lesson-Slides-Home-Learning-AC9M1SP01-17684936-1790324968/original-17684936-1.jpg",
     "price": "7.00",
     "currency": "USD",
     "available": true,
     "resourceType": "teaching-slides",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Familiar-Shapes-Objects-Year-1-Maths-Lesson-Slides-Home-LearningAC9M1SP01-17684936",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-2D-Shapes-3D-Objects-Maths-Lesson-Slides-AC9M1SP01-17684936",
     "tptResourceType": "Microsoft PowerPoint",
     "isBundle": false,
     "free": false,
@@ -1940,11 +2195,12 @@
     "learningGoals": [
       "Supports AC9M1SP01."
     ],
-    "format": "Microsoft PowerPoint"
+    "format": "Microsoft PowerPoint",
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "tpt-17679159",
-    "title": "Time,Duration&Event Sequences|Year 1 Maths Lesson Slides&Home Learning|AC9M1M03",
+    "title": "Year 1 Time & Duration | Maths Lesson Slides & Activities | AC9M1M03",
     "year": 1,
     "yearLabel": "Year 1",
     "subject": "maths",
@@ -1957,13 +2213,13 @@
       "AC9M1M03"
     ],
     "description": "TPT Microsoft PowerPoint resource: Time,Duration&Event Sequences|Year 1 Maths Lesson Slides&Home Learning|AC9M1M03",
-    "url": "https://www.teacherspayteachers.com/Product/TimeDurationEvent-SequencesYear-1-Maths-Lesson-SlidesHome-LearningAC9M1M03-17679159",
-    "image": "/assets/tpt-catalogue-cover.svg",
+    "url": "/products/tpt-17679159/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Time-Duration-Event-Sequences-Year-1-Maths-Lesson-Slides-Home-Learning-AC9M1M03-17679159-1790324982/original-17679159-1.jpg",
     "price": "6.00",
     "currency": "USD",
     "available": true,
     "resourceType": "teaching-slides",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/TimeDurationEvent-SequencesYear-1-Maths-Lesson-SlidesHome-LearningAC9M1M03-17679159",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Time-Duration-Maths-Lesson-Slides-Activities-AC9M1M03-17679159",
     "tptResourceType": "Microsoft PowerPoint",
     "isBundle": false,
     "free": false,
@@ -1975,11 +2231,12 @@
     "learningGoals": [
       "Supports AC9M1M03."
     ],
-    "format": "Microsoft PowerPoint"
+    "format": "Microsoft PowerPoint",
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "tpt-17678987",
-    "title": "Measuring Length with Informal Units | Year 1 Maths Lesson Slides&Home|AC9M1M02",
+    "title": "Year 1 Length Measurement | Informal Units Lesson Slides | AC9M1M02",
     "year": 1,
     "yearLabel": "Year 1",
     "subject": "maths",
@@ -1992,13 +2249,13 @@
       "AC9M1M02"
     ],
     "description": "TPT Microsoft PowerPoint resource: Measuring Length with Informal Units | Year 1 Maths Lesson Slides&Home|AC9M1M02",
-    "url": "https://www.teacherspayteachers.com/Product/Measuring-Length-with-Informal-Units-Year-1-Maths-Lesson-SlidesHomeAC9M1M02-17678987",
-    "image": "/assets/tpt-catalogue-cover.svg",
+    "url": "/products/tpt-17678987/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Measuring-Length-with-Informal-Units-Year-1-Maths-Lesson-Slides-Home-AC9M1M02-17678987-1790324987/original-17678987-1.jpg",
     "price": "6.00",
     "currency": "USD",
     "available": true,
     "resourceType": "teaching-slides",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Measuring-Length-with-Informal-Units-Year-1-Maths-Lesson-SlidesHomeAC9M1M02-17678987",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Length-Measurement-Informal-Units-Lesson-Slides-AC9M1M02-17678987",
     "tptResourceType": "Microsoft PowerPoint",
     "isBundle": false,
     "free": false,
@@ -2010,11 +2267,12 @@
     "learningGoals": [
       "Supports AC9M1M02."
     ],
-    "format": "Microsoft PowerPoint"
+    "format": "Microsoft PowerPoint",
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "tpt-17678407",
-    "title": "Comparing Measurements|Year 1 Maths Lesson Slides & Home Learning Guide|AC9M1M01",
+    "title": "Year 1 Measurement Comparisons | Maths Lesson Slides | AC9M1M01",
     "year": 1,
     "yearLabel": "Year 1",
     "subject": "maths",
@@ -2027,13 +2285,13 @@
       "AC9M1M01"
     ],
     "description": "TPT Microsoft PowerPoint resource: Comparing Measurements|Year 1 Maths Lesson Slides & Home Learning Guide|AC9M1M01",
-    "url": "https://www.teacherspayteachers.com/Product/Comparing-MeasurementsYear-1-Maths-Lesson-Slides-Home-Learning-GuideAC9M1M01-17678407",
-    "image": "/assets/tpt-catalogue-cover.svg",
+    "url": "/products/tpt-17678407/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Comparing-Measurements-Year-1-Maths-Lesson-Slides-Home-Learning-Guide-AC9M1M01-17678407-1790324998/original-17678407-1.jpg",
     "price": "6.00",
     "currency": "USD",
     "available": true,
     "resourceType": "teaching-slides",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Comparing-MeasurementsYear-1-Maths-Lesson-Slides-Home-Learning-GuideAC9M1M01-17678407",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Measurement-Comparisons-Maths-Lesson-Slides-AC9M1M01-17678407",
     "tptResourceType": "Microsoft PowerPoint",
     "isBundle": false,
     "free": false,
@@ -2045,11 +2303,12 @@
     "learningGoals": [
       "Supports AC9M1M01."
     ],
-    "format": "Microsoft PowerPoint"
+    "format": "Microsoft PowerPoint",
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "tpt-17677514",
-    "title": "Repeating Patterns | Year 1 Maths Lesson Slides & Homeschool Pack | AC9M1A02",
+    "title": "Year 1 Repeating Patterns | Maths Lesson Slides | AC9M1A02",
     "year": 1,
     "yearLabel": "Year 1",
     "subject": "maths",
@@ -2062,13 +2321,13 @@
       "AC9M1A02"
     ],
     "description": "TPT Microsoft PowerPoint resource: Repeating Patterns | Year 1 Maths Lesson Slides & Homeschool Pack | AC9M1A02",
-    "url": "https://www.teacherspayteachers.com/Product/Repeating-Patterns-Year-1-Maths-Lesson-Slides-Homeschool-Pack-AC9M1A02-17677514",
-    "image": "/assets/tpt-catalogue-cover.svg",
+    "url": "/products/tpt-17677514/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Repeating-Patterns-Year-1-Maths-Lesson-Slides-Homeschool-Pack-AC9M1A02-17677514-1790325004/original-17677514-1.jpg",
     "price": "6.00",
     "currency": "USD",
     "available": true,
     "resourceType": "teaching-slides",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Repeating-Patterns-Year-1-Maths-Lesson-Slides-Homeschool-Pack-AC9M1A02-17677514",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Repeating-Patterns-Maths-Lesson-Slides-AC9M1A02-17677514",
     "tptResourceType": "Microsoft PowerPoint",
     "isBundle": false,
     "free": false,
@@ -2080,11 +2339,12 @@
     "learningGoals": [
       "Supports AC9M1A02."
     ],
-    "format": "Microsoft PowerPoint"
+    "format": "Microsoft PowerPoint",
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "tpt-17676771",
-    "title": "Skip Counting by 2s, 5s & 10s | Year 1 Lesson Slides & Homeschool Pack|AC9M1A01",
+    "title": "Year 1 Skip Counting by 2s, 5s & 10s | Lesson Slides | AC9M1A01",
     "year": 1,
     "yearLabel": "Year 1",
     "subject": "maths",
@@ -2097,13 +2357,13 @@
       "AC9M1A01"
     ],
     "description": "TPT Microsoft PowerPoint resource: Skip Counting by 2s, 5s & 10s | Year 1 Lesson Slides & Homeschool Pack|AC9M1A01",
-    "url": "https://www.teacherspayteachers.com/Product/Skip-Counting-by-2s-5s-10s-Year-1-Lesson-Slides-Homeschool-PackAC9M1A01-17676771",
-    "image": "/assets/tpt-catalogue-cover.svg",
+    "url": "/products/tpt-17676771/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Skip-Counting-by-2s-5s-10s-Year-1-Lesson-Slides-Homeschool-Pack-AC9M1A01-17676771-1790325020/original-17676771-1.jpg",
     "price": "6.00",
     "currency": "USD",
     "available": true,
     "resourceType": "teaching-slides",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Skip-Counting-by-2s-5s-10s-Year-1-Lesson-Slides-Homeschool-PackAC9M1A01-17676771",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Skip-Counting-by-2s-5s-10s-Lesson-Slides-AC9M1A01-17676771",
     "tptResourceType": "Microsoft PowerPoint",
     "isBundle": false,
     "free": false,
@@ -2115,11 +2375,12 @@
     "learningGoals": [
       "Supports AC9M1A01."
     ],
-    "format": "Microsoft PowerPoint"
+    "format": "Microsoft PowerPoint",
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "tpt-17669944",
-    "title": "Addition & Subtraction to 20 | Year 1 Maths Lesson Slides & Worksheets| AC9M1N04",
+    "title": "Year 1 Addition & Subtraction to 20 | Slides & Worksheets | AC9M1N04",
     "year": 1,
     "yearLabel": "Year 1",
     "subject": "maths",
@@ -2132,13 +2393,13 @@
       "AC9M1N04"
     ],
     "description": "TPT Microsoft PowerPoint resource: Addition & Subtraction to 20 | Year 1 Maths Lesson Slides & Worksheets| AC9M1N04",
-    "url": "https://www.teacherspayteachers.com/Product/Addition-Subtraction-to-20-Year-1-Maths-Lesson-Slides-Worksheets-AC9M1N04-17669944",
-    "image": "/assets/tpt-catalogue-cover.svg",
+    "url": "/products/tpt-17669944/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Addition-Subtraction-to-20-Year-1-Maths-Lesson-Slides-Worksheets-AC9M1N04-17669944-1790325037/original-17669944-1.jpg",
     "price": "5.00",
     "currency": "USD",
     "available": true,
     "resourceType": "teaching-slides",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Addition-Subtraction-to-20-Year-1-Maths-Lesson-Slides-Worksheets-AC9M1N04-17669944",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Addition-Subtraction-to-20-Slides-Worksheets-AC9M1N04-17669944",
     "tptResourceType": "Microsoft PowerPoint",
     "isBundle": false,
     "free": false,
@@ -2150,11 +2411,12 @@
     "learningGoals": [
       "Supports AC9M1N04."
     ],
-    "format": "Microsoft PowerPoint"
+    "format": "Microsoft PowerPoint",
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "tpt-17669505",
-    "title": "Equal Groups & Skip Counting | Year 1 Maths Lesson Slides & Worksheets| AC9M1N03",
+    "title": "Year 1 Equal Groups & Skip Counting | Slides & Worksheets | AC9M1N03",
     "year": 1,
     "yearLabel": "Year 1",
     "subject": "maths",
@@ -2167,13 +2429,13 @@
       "AC9M1N03"
     ],
     "description": "TPT Microsoft PowerPoint resource: Equal Groups & Skip Counting | Year 1 Maths Lesson Slides & Worksheets| AC9M1N03",
-    "url": "https://www.teacherspayteachers.com/Product/Equal-Groups-Skip-Counting-Year-1-Maths-Lesson-Slides-Worksheets-AC9M1N03-17669505",
-    "image": "/assets/tpt-catalogue-cover.svg",
+    "url": "/products/tpt-17669505/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Equal-Groups-Skip-Counting-Year-1-Maths-Lesson-Slides-Worksheets-AC9M1N03-17669505-1790325047/original-17669505-1.jpg",
     "price": "5.00",
     "currency": "USD",
     "available": true,
     "resourceType": "teaching-slides",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Equal-Groups-Skip-Counting-Year-1-Maths-Lesson-Slides-Worksheets-AC9M1N03-17669505",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Equal-Groups-Skip-Counting-Slides-Worksheets-AC9M1N03-17669505",
     "tptResourceType": "Microsoft PowerPoint",
     "isBundle": false,
     "free": false,
@@ -2185,11 +2447,12 @@
     "learningGoals": [
       "Supports AC9M1N03."
     ],
-    "format": "Microsoft PowerPoint"
+    "format": "Microsoft PowerPoint",
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "tpt-17669357",
-    "title": "Numbers to 120 | Year 1 Maths Lesson Slides & Worksheets | AC9M1N01",
+    "title": "Year 1 Numbers to 120 | Maths Lesson Slides & Worksheets | AC9M1N01",
     "year": 1,
     "yearLabel": "Year 1",
     "subject": "maths",
@@ -2202,13 +2465,13 @@
       "AC9M1N01"
     ],
     "description": "TPT Microsoft PowerPoint resource: Numbers to 120 | Year 1 Maths Lesson Slides & Worksheets | AC9M1N01",
-    "url": "https://www.teacherspayteachers.com/Product/Numbers-to-120-Year-1-Maths-Lesson-Slides-Worksheets-AC9M1N01-17669357",
-    "image": "/assets/tpt-catalogue-cover.svg",
+    "url": "/products/tpt-17669357/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Numbers-to-120-Year-1-Maths-Lesson-Slides-Worksheets-AC9M1N01-17669357-1790325061/original-17669357-1.jpg",
     "price": "5.00",
     "currency": "USD",
     "available": true,
     "resourceType": "teaching-slides",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Numbers-to-120-Year-1-Maths-Lesson-Slides-Worksheets-AC9M1N01-17669357",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Numbers-to-120-Maths-Lesson-Slides-Worksheets-AC9M1N01-17669357",
     "tptResourceType": "Microsoft PowerPoint",
     "isBundle": false,
     "free": false,
@@ -2220,11 +2483,12 @@
     "learningGoals": [
       "Supports AC9M1N01."
     ],
-    "format": "Microsoft PowerPoint"
+    "format": "Microsoft PowerPoint",
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "tpt-17669472",
-    "title": "Number Partitioning | Year 1 Maths Lesson Slides & Worksheets | AC9M1N02",
+    "title": "Year 1 Number Partitioning & Place Value | Slides & Worksheets | AC9M1N02",
     "year": 1,
     "yearLabel": "Year 1",
     "subject": "maths",
@@ -2237,13 +2501,13 @@
       "AC9M1N02"
     ],
     "description": "TPT Microsoft PowerPoint resource: Number Partitioning | Year 1 Maths Lesson Slides & Worksheets | AC9M1N02",
-    "url": "https://www.teacherspayteachers.com/Product/Number-Partitioning-Year-1-Maths-Lesson-Slides-Worksheets-AC9M1N02-17669472",
-    "image": "/assets/tpt-catalogue-cover.svg",
+    "url": "/products/tpt-17669472/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Number-Partitioning-Year-1-Maths-Lesson-Slides-Worksheets-AC9M1N02-17669472-1790325053/original-17669472-1.jpg",
     "price": "5.00",
     "currency": "USD",
     "available": true,
     "resourceType": "teaching-slides",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Number-Partitioning-Year-1-Maths-Lesson-Slides-Worksheets-AC9M1N02-17669472",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Number-Partitioning-Place-Value-Slides-Worksheets-AC9M1N02-17669472",
     "tptResourceType": "Microsoft PowerPoint",
     "isBundle": false,
     "free": false,
@@ -2255,11 +2519,12 @@
     "learningGoals": [
       "Supports AC9M1N02."
     ],
-    "format": "Microsoft PowerPoint"
+    "format": "Microsoft PowerPoint",
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "tpt-17620166",
-    "title": "FREE 2nd Grade Place Value Worksheet | Numbers to 1000 + Answer Key",
+    "title": "FREE 2nd Grade Place Value Worksheet | Numbers to 1,000 + Answer Key",
     "year": 2,
     "yearLabel": "Year 2",
     "subject": "maths",
@@ -2272,16 +2537,17 @@
       "Australian Curriculum v9"
     ],
     "description": "TPT PDF resource: FREE 2nd Grade Place Value Worksheet | Numbers to 1000 + Answer Key",
-    "url": "https://www.teacherspayteachers.com/Product/FREE-2nd-Grade-Place-Value-Worksheet-Numbers-to-1000-Answer-Key-17620166",
-    "image": "/assets/tpt-catalogue-cover.svg",
-    "price": "0",
+    "url": "/products/tpt-17620166/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/FREE-2nd-Grade-Place-Value-Worksheet-Numbers-to-1000-Answer-Key-17620166-1790145546/original-17620166-1.jpg",
+    "price": "0.00",
     "currency": "USD",
     "available": true,
     "resourceType": "worksheet",
     "tptUrl": "https://www.teacherspayteachers.com/Product/FREE-2nd-Grade-Place-Value-Worksheet-Numbers-to-1000-Answer-Key-17620166",
     "tptResourceType": "PDF",
     "isBundle": false,
-    "free": true
+    "free": true,
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "tpt-17670322",
@@ -2298,16 +2564,17 @@
       "AC9M6N03"
     ],
     "description": "TPT PDF resource: FREE Year 6 Fractions, Decimals & Percentages Worksheet | AC9M6N03",
-    "url": "https://www.teacherspayteachers.com/Product/FREE-Year-6-Fractions-Decimals-Percentages-Worksheet-AC9M6N03-17670322",
-    "image": "/assets/tpt-catalogue-cover.svg",
-    "price": "0",
+    "url": "/products/tpt-17670322/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/FREE-Year-6-Fractions-Decimals-Percentages-Worksheet-AC9M6N03-17670322-1789530566/original-17670322-1.jpg",
+    "price": "0.00",
     "currency": "USD",
     "available": true,
     "resourceType": "worksheet",
     "tptUrl": "https://www.teacherspayteachers.com/Product/FREE-Year-6-Fractions-Decimals-Percentages-Worksheet-AC9M6N03-17670322",
     "tptResourceType": "PDF",
     "isBundle": false,
-    "free": true
+    "free": true,
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "tpt-17620155",
@@ -2324,16 +2591,17 @@
       "Australian Curriculum v9"
     ],
     "description": "TPT PDF resource: FREE 1st Grade Addition & Subtraction to 20 Worksheet | No Prep Math",
-    "url": "https://www.teacherspayteachers.com/Product/FREE-1st-Grade-Addition-Subtraction-to-20-Worksheet-No-Prep-Math-17620155",
-    "image": "/assets/tpt-catalogue-cover.svg",
-    "price": "0",
+    "url": "/products/tpt-17620155/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/FREE-1st-Grade-Addition-Subtraction-to-20-Worksheet-No-Prep-Math-17620155-1789015164/original-17620155-1.jpg",
+    "price": "0.00",
     "currency": "USD",
     "available": true,
     "resourceType": "worksheet",
     "tptUrl": "https://www.teacherspayteachers.com/Product/FREE-1st-Grade-Addition-Subtraction-to-20-Worksheet-No-Prep-Math-17620155",
     "tptResourceType": "PDF",
     "isBundle": false,
-    "free": true
+    "free": true,
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "tpt-17620145",
@@ -2350,20 +2618,21 @@
       "Australian Curriculum v9"
     ],
     "description": "TPT PDF resource: FREE Kindergarten Numbers to 20 Worksheet | Counting & Number Recognition",
-    "url": "https://www.teacherspayteachers.com/Product/FREE-Kindergarten-Numbers-to-20-Worksheet-Counting-Number-Recognition-17620145",
-    "image": "/assets/tpt-catalogue-cover.svg",
-    "price": "0",
+    "url": "/products/tpt-17620145/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/FREE-Kindergarten-Numbers-to-20-Worksheet-Counting-Number-Recognition-17620145-1789015196/original-17620145-1.jpg",
+    "price": "0.00",
     "currency": "USD",
     "available": true,
     "resourceType": "worksheet",
     "tptUrl": "https://www.teacherspayteachers.com/Product/FREE-Kindergarten-Numbers-to-20-Worksheet-Counting-Number-Recognition-17620145",
     "tptResourceType": "PDF",
     "isBundle": false,
-    "free": true
+    "free": true,
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "tpt-17719151",
-    "title": "Year 1 Science in Everyday Life | Patterns & Predictions | AC9S1H01 Lesson Slide",
+    "title": "Year 1 Science in Everyday Life | Lesson Slides | AC9S1H01 Australian v9",
     "year": 1,
     "yearLabel": "Year 1",
     "subject": "science",
@@ -2376,13 +2645,13 @@
       "AC9S1H01"
     ],
     "description": "TPT Microsoft PowerPoint resource: Year 1 Science in Everyday Life | Patterns & Predictions | AC9S1H01 Lesson Slide",
-    "url": "https://www.teacherspayteachers.com/Product/Year-1-Science-in-Everyday-Life-Patterns-Predictions-AC9S1H01-Lesson-Slide-17719151",
-    "image": "/assets/tpt-catalogue-cover.svg",
+    "url": "/products/tpt-17719151/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Science-in-Everyday-Life-Patterns-Predictions-AC9S1H01-Lesson-Slide-17719151-1790324917/original-17719151-1.jpg",
     "price": "10.00",
     "currency": "USD",
     "available": true,
     "resourceType": "teaching-slides",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Science-in-Everyday-Life-Patterns-Predictions-AC9S1H01-Lesson-Slide-17719151",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Science-in-Everyday-Life-Lesson-Slides-AC9S1H01-Australian-v9-17719151",
     "tptResourceType": "Microsoft PowerPoint",
     "isBundle": false,
     "free": false,
@@ -2394,11 +2663,12 @@
     "learningGoals": [
       "Supports AC9S1H01."
     ],
-    "format": "Microsoft PowerPoint"
+    "format": "Microsoft PowerPoint",
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "tpt-17718482",
-    "title": "Pushes & Pulls | Year 1 Science Lesson Slides & Force Investigations | AC9S1U03",
+    "title": "Year 1 Pushes & Pulls | Force Investigation Slides | AC9S1U03",
     "year": 1,
     "yearLabel": "Year 1",
     "subject": "science",
@@ -2411,13 +2681,13 @@
       "AC9S1U03"
     ],
     "description": "TPT Microsoft PowerPoint resource: Pushes & Pulls | Year 1 Science Lesson Slides & Force Investigations | AC9S1U03",
-    "url": "https://www.teacherspayteachers.com/Product/Pushes-Pulls-Year-1-Science-Lesson-Slides-Force-Investigations-AC9S1U03-17718482",
-    "image": "/assets/tpt-catalogue-cover.svg",
+    "url": "/products/tpt-17718482/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Pushes-Pulls-Year-1-Science-Lesson-Slides-Force-Investigations-AC9S1U03-17718482-1790324922/original-17718482-1.jpg",
     "price": "10.00",
     "currency": "USD",
     "available": true,
     "resourceType": "teaching-slides",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Pushes-Pulls-Year-1-Science-Lesson-Slides-Force-Investigations-AC9S1U03-17718482",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Pushes-Pulls-Force-Investigation-Slides-AC9S1U03-17718482",
     "tptResourceType": "Microsoft PowerPoint",
     "isBundle": false,
     "free": false,
@@ -2429,11 +2699,12 @@
     "learningGoals": [
       "Supports AC9S1U03."
     ],
-    "format": "Microsoft PowerPoint"
+    "format": "Microsoft PowerPoint",
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "tpt-17718181",
-    "title": "Daily&Seasonal Changes| Year 1 Science Lesson Slides&Weather Activities|AC9S1U02",
+    "title": "Year 1 Weather & Seasons | Science Lesson Slides & Activities | AC9S1U02",
     "year": 1,
     "yearLabel": "Year 1",
     "subject": "science",
@@ -2446,13 +2717,13 @@
       "AC9S1U02"
     ],
     "description": "TPT Microsoft PowerPoint resource: Daily&Seasonal Changes| Year 1 Science Lesson Slides&Weather Activities|AC9S1U02",
-    "url": "https://www.teacherspayteachers.com/Product/DailySeasonal-Changes-Year-1-Science-Lesson-SlidesWeather-ActivitiesAC9S1U02-17718181",
-    "image": "/assets/tpt-catalogue-cover.svg",
+    "url": "/products/tpt-17718181/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Daily-Seasonal-Changes-Year-1-Science-Lesson-Slides-Weather-Activities-AC9S1U02-17718181-1790324927/original-17718181-1.jpg",
     "price": "12.00",
     "currency": "USD",
     "available": true,
     "resourceType": "teaching-slides",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/DailySeasonal-Changes-Year-1-Science-Lesson-SlidesWeather-ActivitiesAC9S1U02-17718181",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Weather-Seasons-Science-Lesson-Slides-Activities-AC9S1U02-17718181",
     "tptResourceType": "Microsoft PowerPoint",
     "isBundle": false,
     "free": false,
@@ -2464,11 +2735,12 @@
     "learningGoals": [
       "Supports AC9S1U02."
     ],
-    "format": "Microsoft PowerPoint"
+    "format": "Microsoft PowerPoint",
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "tpt-17717457",
-    "title": "Needs of Plants & Animals|Year 1 Science Lesson Slides&Home Activities|AC9S1U01",
+    "title": "Year 1 Needs of Plants & Animals | Science Lesson Slides | AC9S1U01",
     "year": 1,
     "yearLabel": "Year 1",
     "subject": "science",
@@ -2481,13 +2753,13 @@
       "AC9S1U01"
     ],
     "description": "TPT Microsoft PowerPoint resource: Needs of Plants & Animals|Year 1 Science Lesson Slides&Home Activities|AC9S1U01",
-    "url": "https://www.teacherspayteachers.com/Product/Needs-of-Plants-AnimalsYear-1-Science-Lesson-SlidesHome-ActivitiesAC9S1U01-17717457",
-    "image": "/assets/tpt-catalogue-cover.svg",
+    "url": "/products/tpt-17717457/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Needs-of-Plants-Animals-Year-1-Science-Lesson-Slides-Home-Activities-AC9S1U01-17717457-1790324933/original-17717457-1.jpg",
     "price": "12.00",
     "currency": "USD",
     "available": true,
     "resourceType": "teaching-slides",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Needs-of-Plants-AnimalsYear-1-Science-Lesson-SlidesHome-ActivitiesAC9S1U01-17717457",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Needs-of-Plants-Animals-Science-Lesson-Slides-AC9S1U01-17717457",
     "tptResourceType": "Microsoft PowerPoint",
     "isBundle": false,
     "free": false,
@@ -2499,11 +2771,12 @@
     "learningGoals": [
       "Supports AC9S1U01."
     ],
-    "format": "Microsoft PowerPoint"
+    "format": "Microsoft PowerPoint",
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "tpt-17716709",
-    "title": "Representing Comparing & Discussing Data | Year 1 Maths Lesson Slides| AC9M1ST02",
+    "title": "Year 1 Data Displays | Maths Lesson Slides & Activities | AC9M1ST02",
     "year": 1,
     "yearLabel": "Year 1",
     "subject": "maths",
@@ -2516,13 +2789,13 @@
       "AC9M1ST02"
     ],
     "description": "TPT Microsoft PowerPoint resource: Representing Comparing & Discussing Data | Year 1 Maths Lesson Slides| AC9M1ST02",
-    "url": "https://www.teacherspayteachers.com/Product/Representing-Comparing-Discussing-Data-Year-1-Maths-Lesson-Slides-AC9M1ST02-17716709",
-    "image": "/assets/tpt-catalogue-cover.svg",
+    "url": "/products/tpt-17716709/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Representing-Comparing-Discussing-Data-Year-1-Maths-Lesson-Slides-AC9M1ST02-17716709-1790324950/original-17716709-1.jpg",
     "price": "9.00",
     "currency": "USD",
     "available": true,
     "resourceType": "teaching-slides",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Representing-Comparing-Discussing-Data-Year-1-Maths-Lesson-Slides-AC9M1ST02-17716709",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Data-Displays-Maths-Lesson-Slides-Activities-AC9M1ST02-17716709",
     "tptResourceType": "Microsoft PowerPoint",
     "isBundle": false,
     "free": false,
@@ -2534,11 +2807,12 @@
     "learningGoals": [
       "Supports AC9M1ST02."
     ],
-    "format": "Microsoft PowerPoint"
+    "format": "Microsoft PowerPoint",
+    "tptObservedAt": "2026-10-08"
   },
   {
     "id": "tpt-17710715",
-    "title": "Collecting & Recording Data | Year 1 Maths Lesson Slides | AC9M1ST01",
+    "title": "Year 1 Data Collection | Maths Lesson Slides & Activities | AC9M1ST01",
     "year": 1,
     "yearLabel": "Year 1",
     "subject": "maths",
@@ -2551,13 +2825,13 @@
       "AC9M1ST01"
     ],
     "description": "TPT Microsoft PowerPoint resource: Collecting & Recording Data | Year 1 Maths Lesson Slides | AC9M1ST01",
-    "url": "https://www.teacherspayteachers.com/Product/Collecting-Recording-Data-Year-1-Maths-Lesson-Slides-AC9M1ST01-17710715",
-    "image": "/assets/tpt-catalogue-cover.svg",
+    "url": "/products/tpt-17710715/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Collecting-Recording-Data-Year-1-Maths-Lesson-Slides-AC9M1ST01-17710715-1790324955/original-17710715-1.jpg",
     "price": "8.00",
     "currency": "USD",
     "available": true,
     "resourceType": "teaching-slides",
-    "tptUrl": "https://www.teacherspayteachers.com/Product/Collecting-Recording-Data-Year-1-Maths-Lesson-Slides-AC9M1ST01-17710715",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Data-Collection-Maths-Lesson-Slides-Activities-AC9M1ST01-17710715",
     "tptResourceType": "Microsoft PowerPoint",
     "isBundle": false,
     "free": false,
@@ -2569,6 +2843,2782 @@
     "learningGoals": [
       "Supports AC9M1ST01."
     ],
-    "format": "Microsoft PowerPoint"
+    "format": "Microsoft PowerPoint",
+    "tptObservedAt": "2026-10-08"
+  },
+  {
+    "id": "tpt-17720276",
+    "title": "Year 1 Science Inquiry Skills | Questioning & Predicting Slides | AC9S1I01",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "science",
+    "subjectLabel": "Science",
+    "topics": [
+      "inquiry",
+      "predicting",
+      "questioning",
+      "science",
+      "skills",
+      "slides",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9S1I01"
+    ],
+    "description": "Build confident young scientists with this complete Year 1 Science inquiry unit aligned to Australian Curriculum v9 AC9S1I01: Questioning and Predicting. Students learn how scientists notice carefully, describe observations, ask useful questions, identify simple patterns and make predictions based on their experiences.",
+    "url": "/products/tpt-17720276/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Curious-Scientists-Year-1-Science-Questioning-Predicting-AC9S1I01-Lesson-17720276-1790324911/original-17720276-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Science-Inquiry-Skills-Questioning-Predicting-Slides-AC9S1I01-17720276",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "12.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Year 1 Science Inquiry Skills"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17792767",
+    "title": "Year 1 Handwriting Slides | AC9E1LY08 | Australian Curriculum v9",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "english",
+    "subjectLabel": "English",
+    "topics": [
+      "australian",
+      "curriculum",
+      "handwriting",
+      "slides",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9E1LY08"
+    ],
+    "description": "Build clear Year 1 handwriting with 151 presentation slides aligned to Australian Curriculum v9 code AC9E1LY08. Students practise comfortable writing setup, unjoined lower-case and upper-case letters, case choice, baseline placement, relative letter size, word spacing and independent word writing.",
+    "url": "/products/tpt-17792767/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Handwriting-Slides-AC9E1LY08-Australian-Curriculum-v9-17792767-1790755748/original-17792767-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Handwriting-Slides-AC9E1LY08-Australian-Curriculum-v9-17792767",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "10.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Year 1 Handwriting Slides"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17856838",
+    "title": "Foundation English Oral Language Slides | AC9EFLA01 | Australian Curriculum v9",
+    "year": 0,
+    "yearLabel": "Foundation",
+    "subject": "english",
+    "subjectLabel": "English",
+    "topics": [
+      "australian",
+      "curriculum",
+      "efla",
+      "english",
+      "foundation",
+      "language",
+      "oral",
+      "slides"
+    ],
+    "curriculumCodes": [
+      "AC9EFLA01"
+    ],
+    "description": "Help Foundation children explore how language choices at home and school relate to the people they communicate with. Aligned with Australian Curriculum v9 code AC9EFLA01, Words That Fit Who We Are Talking To supports clear, respectful communication through familiar fictional situations and guided role-play.",
+    "url": "/products/tpt-17856838/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Foundation-English-Oral-Language-Slides-AC9EFLA01-Australian-Curriculum-v9-17856838-1791269704/original-17856838-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Foundation-English-Oral-Language-Slides-AC9EFLA01-Australian-Curriculum-v9-17856838",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "9.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Foundation English Oral Language Slides"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17842866",
+    "title": "Foundation Safe Science Investigations | AC9SFI02 | Australian Curriculum v9",
+    "year": 0,
+    "yearLabel": "Foundation",
+    "subject": "science",
+    "subjectLabel": "Science",
+    "topics": [
+      "australian",
+      "curriculum",
+      "foundation",
+      "investigations",
+      "safe",
+      "science",
+      "sfi"
+    ],
+    "curriculumCodes": [
+      "AC9SFI02"
+    ],
+    "description": "Help Foundation students investigate safely, use their senses and record what they observe with this Australian Curriculum v9 science resource for AC9SFI02. The 76-slide presentation covers safe science actions, guided use of the senses, simple observation tools, following investigation steps and sharing observations.",
+    "url": "/products/tpt-17842866/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Foundation-Safe-Science-Investigations-AC9SFI02-Australian-Curriculum-v9-17842866-1791165510/original-17842866-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Foundation-Safe-Science-Investigations-AC9SFI02-Australian-Curriculum-v9-17842866",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "9.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Foundation Safe Science Investigations"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17842475",
+    "title": "Foundation Science Questions and Predictions Slides | AC9SFI01",
+    "year": 0,
+    "yearLabel": "Foundation",
+    "subject": "science",
+    "subjectLabel": "Science",
+    "topics": [
+      "and",
+      "foundation",
+      "predictions",
+      "questions",
+      "science",
+      "sfi",
+      "slides"
+    ],
+    "curriculumCodes": [
+      "AC9SFI01"
+    ],
+    "description": "Teach Foundation students to ask science questions and make predictions based on their experiences with this Australian Curriculum v9 resource for AC9SFI01. The 81-slide PowerPoint introduces questions, predictions, reasons and results through familiar objects and a supervised ramp investigation.",
+    "url": "/products/tpt-17842475/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Foundation-Science-Questions-and-Predictions-Slides-AC9SFI01-17842475-1791161849/original-17842475-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Foundation-Science-Questions-and-Predictions-Slides-AC9SFI01-17842475",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "9.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Foundation Science Questions and Predictions Slides"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17842350",
+    "title": "Foundation Nature Observation Slides | AC9SFH01 | Australian Curriculum v9",
+    "year": 0,
+    "yearLabel": "Foundation",
+    "subject": "science",
+    "subjectLabel": "Science",
+    "topics": [
+      "australian",
+      "curriculum",
+      "foundation",
+      "nature",
+      "observation",
+      "sfh",
+      "slides"
+    ],
+    "curriculumCodes": [
+      "AC9SFH01"
+    ],
+    "description": "Help Foundation students observe nature carefully, record what they notice and ask questions linked to their observations. This 85-slide classroom resource aligns with Australian Curriculum v9 code AC9SFH01.",
+    "url": "/products/tpt-17842350/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Foundation-Nature-Observation-Slides-AC9SFH01-Australian-Curriculum-v9-17842350-1791160830/original-17842350-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Foundation-Nature-Observation-Slides-AC9SFH01-Australian-Curriculum-v9-17842350",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "9.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Foundation Nature Observation Slides"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17678421",
+    "title": "Year 1 Algebra Bundle | Patterns & Skip Counting Slides | Australian v9",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "algebra",
+      "australian",
+      "bundle",
+      "counting",
+      "patterns",
+      "skip",
+      "slides",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9M1A01",
+      "AC9M1A02"
+    ],
+    "description": "Build early algebraic thinking with this Year 1 Algebra Bundle, aligned to the Australian Curriculum v9. This growing bundle supports students to recognise, continue and create patterns using numbers, shapes, objects, sounds and movements.",
+    "url": "/products/tpt-17678421/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Algebra-Bundle-Patterns-Skip-Counting-Maths-Lesson-Slides-Aus-V9-0-17678421-1790324992/original-17678421-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "bundle",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Algebra-Bundle-Patterns-Skip-Counting-Slides-Australian-v9-17678421",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "listPrice": "12.00",
+    "bundleFormat": "teaching-slides",
+    "packCount": 2
+  },
+  {
+    "id": "tpt-17813656",
+    "title": "Foundation How Objects Move Slides | AC9SFU02 | Australian Curriculum v9",
+    "year": 0,
+    "yearLabel": "Foundation",
+    "subject": "science",
+    "subjectLabel": "Science",
+    "topics": [
+      "australian",
+      "curriculum",
+      "foundation",
+      "how",
+      "move",
+      "objects",
+      "sfu",
+      "slides"
+    ],
+    "curriculumCodes": [
+      "AC9SFU02"
+    ],
+    "description": "Explore how objects roll, slide, bounce and rest with this illustrated, 136-slide Foundation Science resource aligned to Australian Curriculum v9 code AC9SFU02. Six strands cover observing movement; how shape, size and material affect movement; setting up fair toy tests; and using observations to explain and predict.",
+    "url": "/products/tpt-17813656/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Foundation-How-Objects-Move-Slides-AC9SFU02-Australian-Curriculum-v9-17813656-1790938654/original-17813656-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Foundation-How-Objects-Move-Slides-AC9SFU02-Australian-Curriculum-v9-17813656",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "9.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Foundation How Objects Move Slides"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17811158",
+    "title": "Foundation Familiar Shapes Slides | AC9MFSP01 | Australian Curriculum v9",
+    "year": 0,
+    "yearLabel": "Foundation",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "australian",
+      "curriculum",
+      "familiar",
+      "foundation",
+      "mfsp",
+      "shapes",
+      "slides"
+    ],
+    "curriculumCodes": [
+      "AC9MFSP01"
+    ],
+    "description": "Teach familiar shapes with 103 presentation slides aligned to Australian Curriculum v9 code AC9MFSP01. Children name and sort circles, triangles, squares and rectangles; describe sides, corners and curves; find shapes in everyday objects; make shapes; and explain their reasoning.",
+    "url": "/products/tpt-17811158/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Foundation-Familiar-Shapes-Slides-AC9MFSP01-Australian-Curriculum-v9-17811158-1790888758/original-17811158-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Foundation-Familiar-Shapes-Slides-AC9MFSP01-Australian-Curriculum-v9-17811158",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "9.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Foundation Familiar Shapes Slides"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17812573",
+    "title": "Foundation Plants & Animals Slides | AC9SFU01 | Australian Curriculum v9",
+    "year": 0,
+    "yearLabel": "Foundation",
+    "subject": "science",
+    "subjectLabel": "Science",
+    "topics": [
+      "animals",
+      "australian",
+      "curriculum",
+      "foundation",
+      "plants",
+      "sfu",
+      "slides"
+    ],
+    "curriculumCodes": [
+      "AC9SFU01"
+    ],
+    "description": "Help Foundation students observe the visible features of plants and animals with this photograph-rich, 103-slide resource aligned to Australian Curriculum v9 code AC9SFU01. Six strands teach children to look closely, name plant and animal features, compare what is the same and different, and group plants and animals using a visible rule.",
+    "url": "/products/tpt-17812573/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Foundation-Plants-Animals-Slides-AC9SFU01-Australian-Curriculum-v9-17812573-1790905778/original-17812573-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Foundation-Plants-Animals-Slides-AC9SFU01-Australian-Curriculum-v9-17812573",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "9.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Foundation Plants & Animals Slides"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17812026",
+    "title": "Foundation Data Sorting Slides | AC9MFST01 | Australian Curriculum v9",
+    "year": 0,
+    "yearLabel": "Foundation",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "australian",
+      "curriculum",
+      "data",
+      "foundation",
+      "mfst",
+      "slides",
+      "sorting"
+    ],
+    "curriculumCodes": [
+      "AC9MFST01"
+    ],
+    "description": "Help Foundation students collect, sort, display and compare simple data with this 103-slide resource aligned to Australian Curriculum v9 code AC9MFST01. The six strands teach students to identify a data question, sort objects using one rule, make rows and columns with one object or picture per response, compare groups using more, fewer and the same, collect yes or no class data, and answer questions using the results.",
+    "url": "/products/tpt-17812026/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Foundation-Data-Sorting-Slides-AC9MFST01-Australian-Curriculum-v9-17812026-1790896681/original-17812026-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Foundation-Data-Sorting-Slides-AC9MFST01-Australian-Curriculum-v9-17812026",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "9.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Foundation Data Sorting Slides"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17811759",
+    "title": "Foundation Position & Directions | AC9MFSP02 | Australian Curriculum v9",
+    "year": 0,
+    "yearLabel": "Foundation",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "australian",
+      "curriculum",
+      "directions",
+      "foundation",
+      "mfsp",
+      "position"
+    ],
+    "curriculumCodes": [
+      "AC9MFSP02"
+    ],
+    "description": "Teach Foundation students to describe position, follow routes and give clear directions with this 103-slide resource aligned to Australian Curriculum v9 code AC9MFSP02. Six strands cover position words such as in, on, under, beside, between, in front of and behind; left and right; moving and turning; following routes; giving directions; and fixing an incorrect route or instruction.",
+    "url": "/products/tpt-17811759/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Foundation-Position-Directions-AC9MFSP02-Australian-Curriculum-v9-17811759-1790893888/original-17811759-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Foundation-Position-Directions-AC9MFSP02-Australian-Curriculum-v9-17811759",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "9.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Foundation Position & Directions"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17811456",
+    "title": "Foundation Days and Times Slides | AC9MFM02 | Australian Curriculum v9",
+    "year": 0,
+    "yearLabel": "Foundation",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "and",
+      "australian",
+      "curriculum",
+      "days",
+      "foundation",
+      "mfm",
+      "slides",
+      "times"
+    ],
+    "curriculumCodes": [
+      "AC9MFM02"
+    ],
+    "description": "Help Foundation students order familiar events, name the days of the week, and connect daily routines with times of day. This 103-slide resource aligns with Australian Curriculum v9 code AC9MFM02.",
+    "url": "/products/tpt-17811456/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Foundation-Days-and-Times-Slides-AC9MFM02-Australian-Curriculum-v9-17811456-1790890782/original-17811456-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Foundation-Days-and-Times-Slides-AC9MFM02-Australian-Curriculum-v9-17811456",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "9.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Foundation Days and Times Slides"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17793696",
+    "title": "Year 1 Phoneme Segmentation Slides | AC9E1LY09 | Australian Curriculum v9",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "english",
+    "subjectLabel": "English",
+    "topics": [
+      "australian",
+      "curriculum",
+      "phoneme",
+      "segmentation",
+      "slides",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9E1LY09"
+    ],
+    "description": "Help Year 1 students hear and segment every sound in a spoken word with 136 slides aligned to Australian Curriculum v9 code AC9E1LY09. Students practise stretching words, tapping one counter per phoneme, keeping sounds in order, separating consonant clusters, recognising digraphs and blending sounds back into words.",
+    "url": "/products/tpt-17793696/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Phoneme-Segmentation-Slides-AC9E1LY09-Australian-Curriculum-v9-17793696-1790755742/original-17793696-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Phoneme-Segmentation-Slides-AC9E1LY09-Australian-Curriculum-v9-17793696",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "9.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Year 1 Phoneme Segmentation Slides"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17803594",
+    "title": "Foundation Counting & Comparing to 20 | AC9MFN03 | Australian Curriculum v9",
+    "year": 0,
+    "yearLabel": "Foundation",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "australian",
+      "comparing",
+      "counting",
+      "curriculum",
+      "foundation",
+      "mfn"
+    ],
+    "curriculumCodes": [
+      "AC9MFN03"
+    ],
+    "description": "Teach Foundation students to count collections to 20 accurately and compare collections using more, fewer and the same number. This 104-slide resource aligns with Australian Curriculum v9 code AC9MFN03.",
+    "url": "/products/tpt-17803594/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Foundation-Counting-Comparing-to-20-AC9MFN03-Australian-Curriculum-v9-17803594-1790817313/original-17803594-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Foundation-Counting-Comparing-to-20-AC9MFN03-Australian-Curriculum-v9-17803594",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "9.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Foundation Counting & Comparing to 20"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17793855",
+    "title": "Year 1 Phoneme Manipulation Slides | AC9E1LY10 | Australian Curriculum v9",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "english",
+    "subjectLabel": "English",
+    "topics": [
+      "australian",
+      "curriculum",
+      "manipulation",
+      "phoneme",
+      "slides",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9E1LY10"
+    ],
+    "description": "Teach Year 1 students to change one sound in a spoken word to make a new word. This 102-slide resource aligns with Australian Curriculum v9 code AC9E1LY10 and covers adding, removing and substituting initial, middle and final phonemes.",
+    "url": "/products/tpt-17793855/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Phoneme-Manipulation-Slides-AC9E1LY10-Australian-Curriculum-v9-17793855-1790755736/original-17793855-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Phoneme-Manipulation-Slides-AC9E1LY10-Australian-Curriculum-v9-17793855",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "9.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Year 1 Phoneme Manipulation Slides"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17792524",
+    "title": "Year 1 Oral Presentation Slides | AC9E1LY07 | Australian Curriculum v9",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "english",
+    "subjectLabel": "English",
+    "topics": [
+      "australian",
+      "curriculum",
+      "oral",
+      "presentation",
+      "slides",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9E1LY07"
+    ],
+    "description": "Help Year 1 students plan and deliver a short talk that listeners can follow. This 121-slide oral presentation pack is aligned to Australian Curriculum v9 code AC9E1LY07.",
+    "url": "/products/tpt-17792524/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Oral-Presentation-Slides-AC9E1LY07-Australian-Curriculum-v9-17792524-1790718294/original-17792524-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Oral-Presentation-Slides-AC9E1LY07-Australian-Curriculum-v9-17792524",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "9.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Year 1 Oral Presentation Slides"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17728279",
+    "title": "Year 1 Science Data & Patterns | Sorting and Ordering Slides | AC9S1I04",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "science",
+    "subjectLabel": "Science",
+    "topics": [
+      "and",
+      "data",
+      "ordering",
+      "patterns",
+      "science",
+      "slides",
+      "sorting",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9S1I04"
+    ],
+    "description": "Teach Year 1 students how scientists sort, order, organise and represent information to notice patterns with this Australian Curriculum v9 aligned teaching resource for AC9S1I04. Students follow a clear science routine: observe, sort, order, organise, represent and notice a pattern.",
+    "url": "/products/tpt-17728279/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Sorting-Ordering-Patterns-Year-1-Science-Lesson-Slides-AC9S1I04-17728279-1790324801/original-17728279-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Science-Data-Patterns-Sorting-and-Ordering-Slides-AC9S1I04-17728279",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "9.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Year 1 Science Data & Patterns"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17727914",
+    "title": "Year 1 Science Investigations | Safety & Planning Slides | AC9S1I02",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "science",
+    "subjectLabel": "Science",
+    "topics": [
+      "investigations",
+      "planning",
+      "safety",
+      "science",
+      "slides",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9S1I02"
+    ],
+    "description": "Teach Year 1 students how to plan, follow and safely carry out simple science investigations with this Australian Curriculum v9 aligned teaching resource for AC9S1I02. Students use a clear science routine: look, talk, predict, plan, do, observe and check.",
+    "url": "/products/tpt-17727914/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Safe-Science-Investigations-Year-1-Science-Lesson-Slides-AC9S1I02-17727914-1790324864/original-17727914-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Science-Investigations-Safety-Planning-Slides-AC9S1I02-17727914",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "9.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Year 1 Science Investigations"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17844340",
+    "title": "Foundation Science Communication Slides | AC9SFI05 | Australian Curriculum v9",
+    "year": 0,
+    "yearLabel": "Foundation",
+    "subject": "science",
+    "subjectLabel": "Science",
+    "topics": [
+      "australian",
+      "communication",
+      "curriculum",
+      "foundation",
+      "science",
+      "sfi",
+      "slides"
+    ],
+    "curriculumCodes": [
+      "AC9SFI05"
+    ],
+    "description": "Help Foundation students share science questions, predictions, observations and ideas with others. Aligned with Australian Curriculum v9 code AC9SFI05, this 75-slide resource uses familiar ramp, plant, weather and classroom scenes to support meaningful science communication.",
+    "url": "/products/tpt-17844340/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Foundation-Science-Communication-Slides-AC9SFI05-Australian-Curriculum-v9-17844340-1791180895/original-17844340-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Foundation-Science-Communication-Slides-AC9SFI05-Australian-Curriculum-v9-17844340",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "8.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Foundation Science Communication Slides"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17843715",
+    "title": "Foundation Science Predictions & Observations | AC9SFI04 | Australian v9",
+    "year": 0,
+    "yearLabel": "Foundation",
+    "subject": "science",
+    "subjectLabel": "Science",
+    "topics": [
+      "australian",
+      "foundation",
+      "observations",
+      "predictions",
+      "science",
+      "sfi"
+    ],
+    "curriculumCodes": [
+      "AC9SFI04"
+    ],
+    "description": "Teach Foundation students to compare predictions with observations using this Australian Curriculum v9 science resource for AC9SFI04. Children make a prediction before an event, record what they observe, then decide whether the two are the same or different.",
+    "url": "/products/tpt-17843715/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Foundation-Science-Predictions-Observations-AC9SFI04-Australian-v9-17843715-1791175193/original-17843715-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Foundation-Science-Predictions-Observations-AC9SFI04-Australian-v9-17843715",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "8.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Foundation Science Predictions & Observations"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17843349",
+    "title": "Foundation Science Observations & Patterns | AC9SFI03 | Australian v9",
+    "year": 0,
+    "yearLabel": "Foundation",
+    "subject": "science",
+    "subjectLabel": "Science",
+    "topics": [
+      "australian",
+      "foundation",
+      "observations",
+      "patterns",
+      "science",
+      "sfi"
+    ],
+    "curriculumCodes": [
+      "AC9SFI03"
+    ],
+    "description": "Help Foundation students record observations and find simple patterns with this Australian Curriculum v9 science resource for AC9SFI03. The 73-slide presentation includes 60 numbered practice questions, a 15-question final test, recording frames, sorting mats, answer keys and a 19-point marking guide.",
+    "url": "/products/tpt-17843349/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Foundation-Science-Observations-Patterns-AC9SFI03-Australian-v9-17843349-1791170916/original-17843349-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Foundation-Science-Observations-Patterns-AC9SFI03-Australian-v9-17843349",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "8.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Foundation Science Observations & Patterns"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17840189",
+    "title": "Foundation Materials and Properties Slides | AC9SFU03 | Australian Curriculum v9",
+    "year": 0,
+    "yearLabel": "Foundation",
+    "subject": "science",
+    "subjectLabel": "Science",
+    "topics": [
+      "and",
+      "australian",
+      "curriculum",
+      "foundation",
+      "materials",
+      "properties",
+      "sfu",
+      "slides"
+    ],
+    "curriculumCodes": [
+      "AC9SFU03"
+    ],
+    "description": "Teach Foundation students to identify everyday materials and describe their observable properties with these classroom slides aligned to Australian Curriculum v9 code AC9SFU03. The 59-slide lesson explores objects, materials and properties through examples, safe observations, sorting activities and a simple shelter investigation.",
+    "url": "/products/tpt-17840189/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Foundation-Materials-and-Properties-Slides-AC9SFU03-Australian-Curriculum-v9-17840189-1791168161/original-17840189-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Foundation-Materials-and-Properties-Slides-AC9SFU03-Australian-Curriculum-v9-17840189",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "8.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Foundation Materials and Properties Slides"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17804874",
+    "title": "Foundation Measurement Comparisons | AC9MFM01 | Australian Curriculum v9",
+    "year": 0,
+    "yearLabel": "Foundation",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "australian",
+      "comparisons",
+      "curriculum",
+      "foundation",
+      "measurement",
+      "mfm"
+    ],
+    "curriculumCodes": [
+      "AC9MFM01"
+    ],
+    "description": "Help Foundation students compare length, capacity, mass and duration directly. This 103-slide resource aligns with Australian Curriculum v9 code AC9MFM01.",
+    "url": "/products/tpt-17804874/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Foundation-Measurement-Comparisons-AC9MFM01-Australian-Curriculum-v9-17804874-1790838719/original-17804874-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Foundation-Measurement-Comparisons-AC9MFM01-Australian-Curriculum-v9-17804874",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "8.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Foundation Measurement Comparisons"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17804595",
+    "title": "Foundation Fair Shares & Equal Groups | AC9MFN06 | Australian Curriculum v9",
+    "year": 0,
+    "yearLabel": "Foundation",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "australian",
+      "curriculum",
+      "equal",
+      "fair",
+      "foundation",
+      "groups",
+      "mfn",
+      "shares"
+    ],
+    "curriculumCodes": [
+      "AC9MFN06"
+    ],
+    "description": "Teach Foundation students to share collections fairly and make equal groups. This 102-slide resource aligns with Australian Curriculum v9 code AC9MFN06.",
+    "url": "/products/tpt-17804595/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Foundation-Fair-Shares-Equal-Groups-AC9MFN06-Australian-Curriculum-v9-17804595-1790837506/original-17804595-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Foundation-Fair-Shares-Equal-Groups-AC9MFN06-Australian-Curriculum-v9-17804595",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "8.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Foundation Fair Shares & Equal Groups"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17810632",
+    "title": "Foundation Repeating Patterns Slides | AC9MFA01 | Australian Curriculum v9",
+    "year": 0,
+    "yearLabel": "Foundation",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "australian",
+      "curriculum",
+      "foundation",
+      "mfa",
+      "patterns",
+      "repeating",
+      "slides"
+    ],
+    "curriculumCodes": [
+      "AC9MFA01"
+    ],
+    "description": "Teach Foundation students to recognise, copy and continue repeating patterns. This 103-slide resource aligns with Australian Curriculum v9 code AC9MFA01.",
+    "url": "/products/tpt-17810632/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Foundation-Repeating-Patterns-Slides-AC9MFA01-Australian-Curriculum-v9-17810632-1790884209/original-17810632-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Foundation-Repeating-Patterns-Slides-AC9MFA01-Australian-Curriculum-v9-17810632",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "8.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Foundation Repeating Patterns Slides"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17804195",
+    "title": "Foundation Joining and Taking Away | AC9MFN05 | Australian Curriculum v9",
+    "year": 0,
+    "yearLabel": "Foundation",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "and",
+      "australian",
+      "away",
+      "curriculum",
+      "foundation",
+      "joining",
+      "mfn",
+      "taking"
+    ],
+    "curriculumCodes": [
+      "AC9MFN05"
+    ],
+    "description": "Help Foundation students model joining and taking away with objects, pictures, five frames, ten frames and a number line. This 102-slide resource aligns with Australian Curriculum v9 code AC9MFN05.",
+    "url": "/products/tpt-17804195/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Foundation-Joining-and-Taking-Away-AC9MFN05-Australian-Curriculum-v9-17804195-1790828277/original-17804195-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Foundation-Joining-and-Taking-Away-AC9MFN05-Australian-Curriculum-v9-17804195",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "8.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Foundation Joining and Taking Away"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17803723",
+    "title": "Foundation Parts and Wholes to 10 | AC9MFN04 | Australian Curriculum v9",
+    "year": 0,
+    "yearLabel": "Foundation",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "and",
+      "australian",
+      "curriculum",
+      "foundation",
+      "mfn",
+      "parts",
+      "wholes"
+    ],
+    "curriculumCodes": [
+      "AC9MFN04"
+    ],
+    "description": "Help Foundation students understand how a whole can be split into two parts and how those parts combine to make the whole. This 104-slide resource aligns with Australian Curriculum v9 code AC9MFN04.",
+    "url": "/products/tpt-17803723/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Foundation-Parts-and-Wholes-to-10-AC9MFN04-Australian-Curriculum-v9-17803723-1790819527/original-17803723-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Foundation-Parts-and-Wholes-to-10-AC9MFN04-Australian-Curriculum-v9-17803723",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "8.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Foundation Parts and Wholes to 10"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17802766",
+    "title": "Foundation Subitising 0–5 Slides | AC9MFN02 | Australian Curriculum v9",
+    "year": 0,
+    "yearLabel": "Foundation",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "australian",
+      "curriculum",
+      "foundation",
+      "mfn",
+      "slides",
+      "subitising"
+    ],
+    "curriculumCodes": [
+      "AC9MFN02"
+    ],
+    "description": "Help Foundation students recognise small collections from 0 to 5 at a quick look, without counting each object one by one. This 102-slide resource aligns with Australian Curriculum v9 code AC9MFN02.",
+    "url": "/products/tpt-17802766/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Foundation-Subitising-0-5-Slides-AC9MFN02-Australian-Curriculum-v9-17802766-1790809576/original-17802766-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Foundation-Subitising-05-Slides-AC9MFN02-Australian-Curriculum-v9-17802766",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "8.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Foundation Subitising 0–5 Slides"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17802130",
+    "title": "Foundation Numbers 0–20 Slides | AC9MFN01 | Australian Curriculum v9",
+    "year": 0,
+    "yearLabel": "Foundation",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "australian",
+      "curriculum",
+      "foundation",
+      "mfn",
+      "numbers",
+      "slides"
+    ],
+    "curriculumCodes": [
+      "AC9MFN01"
+    ],
+    "description": "Teach Foundation students to say, show, match and order numbers from 0 to 20 with 101 classroom slides aligned to Australian Curriculum v9 code AC9MFN01. Six strands cover zero and counting, matching number names and quantities, different representations, teen numbers, number order and numerals in everyday settings.",
+    "url": "/products/tpt-17802130/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Foundation-Numbers-0-20-Slides-AC9MFN01-Australian-Curriculum-v9-17802130-1790803695/original-17802130-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Foundation-Numbers-020-Slides-AC9MFN01-Australian-Curriculum-v9-17802130",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "8.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Foundation Numbers 0–20 Slides"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17795150",
+    "title": "Year 1 High-Frequency Word Slides | AC9E1LY14 | Australian Curriculum v9",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "english",
+    "subjectLabel": "English",
+    "topics": [
+      "australian",
+      "curriculum",
+      "frequency",
+      "high",
+      "slides",
+      "word",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9E1LY14"
+    ],
+    "description": "Teach Year 1 students to read and write high-frequency words through phonics, careful attention to tricky letter parts, sentence reading and proofreading. This 88-slide resource aligns with Australian Curriculum v9 code AC9E1LY14.",
+    "url": "/products/tpt-17795150/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-High-Frequency-Word-Slides-AC9E1LY14-Australian-Curriculum-v9-17795150-1790755563/original-17795150-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-High-Frequency-Word-Slides-AC9E1LY14-Australian-Curriculum-v9-17795150",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "8.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Year 1 High-Frequency Word Slides"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17730055",
+    "title": "Show & Explain Your Science | Year 1 Science Communication Lessons | AC9S1I06",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "science",
+    "subjectLabel": "Science",
+    "topics": [
+      "communication",
+      "explain",
+      "lessons",
+      "science",
+      "show",
+      "year",
+      "your"
+    ],
+    "curriculumCodes": [
+      "AC9S1I06"
+    ],
+    "description": "Teach Year 1 students how to communicate science observations, findings and ideas with this Australian Curriculum v9 aligned teaching resource for AC9S1I06. Students learn to choose important observations, use clear everyday and science words, create labelled drawings and diagrams, record findings in a science journal, consider their audience and share their ideas clearly.",
+    "url": "/products/tpt-17730055/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Show-Explain-Your-Science-Year-1-Science-Communication-Lessons-AC9S1I06-17730055-1790324777/original-17730055-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Show-Explain-Your-Science-Year-1-Science-Communication-Lessons-AC9S1I06-17730055",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "8.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Show & Explain Your Science"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17729544",
+    "title": "Did It Match? | Year 1 Science Investigation Evaluation Slides | AC9S1I05",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "science",
+    "subjectLabel": "Science",
+    "topics": [
+      "did",
+      "evaluation",
+      "investigation",
+      "match",
+      "science",
+      "slides",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9S1I05"
+    ],
+    "description": "Help Year 1 students think carefully about science investigation results with this Australian Curriculum v9 aligned teaching resource for AC9S1I05. Students learn how to compare predictions with observations, discuss whether results are the same or different, recognise a fair comparison, spot an unfair test and ask useful further questions.",
+    "url": "/products/tpt-17729544/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Did-It-Match-Year-1-Science-Investigation-Evaluation-Slides-AC9S1I05-17729544-1790324785/original-17729544-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Did-It-Match-Year-1-Science-Investigation-Evaluation-Slides-AC9S1I05-17729544",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "8.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Did It Match?"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17728068",
+    "title": "Year 1 Science Observations | Measuring & Recording Slides | AC9S1I03",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "science",
+    "subjectLabel": "Science",
+    "topics": [
+      "measuring",
+      "observations",
+      "recording",
+      "science",
+      "slides",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9S1I03"
+    ],
+    "description": "Teach Year 1 students how to make, measure and record science observations with this Australian Curriculum v9 aligned teaching resource for AC9S1I03. Students learn a clear science routine: look, notice, count or measure, record, and look again.",
+    "url": "/products/tpt-17728068/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Look-Measure-Record-Year-1-Science-Observations-Lesson-Slides-AC9S1I03-17728068-1790324810/original-17728068-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Science-Observations-Measuring-Recording-Slides-AC9S1I03-17728068",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "8.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Year 1 Science Observations"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17795280",
+    "title": "Year 1 Word Families Slides | AC9E1LY15 | Australian Curriculum v9",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "english",
+    "subjectLabel": "English",
+    "topics": [
+      "australian",
+      "curriculum",
+      "families",
+      "slides",
+      "word",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9E1LY15"
+    ],
+    "description": "Help Year 1 students find base words, build related words and explain what the endings -s, -ed and -ing mean. This 82-slide resource aligns with Australian Curriculum v9 code AC9E1LY15.",
+    "url": "/products/tpt-17795280/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Word-Families-Slides-AC9E1LY15-Australian-Curriculum-v9-17795280-1790755169/original-17795280-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Word-Families-Slides-AC9E1LY15-Australian-Curriculum-v9-17795280",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "7.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Year 1 Word Families Slides"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17794756",
+    "title": "Year 1 Spelling Slides | AC9E1LY13 | Australian Curriculum v9",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "english",
+    "subjectLabel": "English",
+    "topics": [
+      "australian",
+      "curriculum",
+      "slides",
+      "spelling",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9E1LY13"
+    ],
+    "description": "Help Year 1 students spell familiar one- and two-syllable words with 82 slides aligned to Australian Curriculum v9 code AC9E1LY13. Lessons cover short-vowel patterns, consonant blends, digraphs, common endings, two-syllable words and proofreading.",
+    "url": "/products/tpt-17794756/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Spelling-Slides-AC9E1LY13-Australian-Curriculum-v9-17794756-1790755607/original-17794756-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Spelling-Slides-AC9E1LY13-Australian-Curriculum-v9-17794756",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "7.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Year 1 Spelling Slides"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17794632",
+    "title": "Year 1 Letters, Sounds & Syllables | AC9E1LY12 | Australian Curriculum v9",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "english",
+    "subjectLabel": "English",
+    "topics": [
+      "australian",
+      "curriculum",
+      "letters",
+      "sounds",
+      "syllables",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9E1LY12"
+    ],
+    "description": "Teach Year 1 students how letters and sounds connect, how one letter can represent different sounds, and how every syllable contains a vowel sound. This 76-slide resource aligns with Australian Curriculum v9 code AC9E1LY12.",
+    "url": "/products/tpt-17794632/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Letters-Sounds-Syllables-AC9E1LY12-Australian-Curriculum-v9-17794632-1790755686/original-17794632-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Letters-Sounds-Syllables-AC9E1LY12-Australian-Curriculum-v9-17794632",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "7.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Year 1 Letters, Sounds & Syllables"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17794524",
+    "title": "Year 1 Phonics Word Building Slides | AC9E1LY11 | Australian Curriculum v9",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "english",
+    "subjectLabel": "English",
+    "topics": [
+      "australian",
+      "building",
+      "curriculum",
+      "phonics",
+      "slides",
+      "word",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9E1LY11"
+    ],
+    "description": "Build Year 1 reading and spelling skills with 78 slides aligned to Australian Curriculum v9 code AC9E1LY11. Students connect sounds to letters as they read and write words with short vowels, consonant blends, digraphs and common long-vowel patterns.",
+    "url": "/products/tpt-17794524/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Phonics-Word-Building-Slides-AC9E1LY11-Australian-Curriculum-v9-17794524-1790755716/original-17794524-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Phonics-Word-Building-Slides-AC9E1LY11-Australian-Curriculum-v9-17794524",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "7.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Year 1 Phonics Word Building Slides"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17791625",
+    "title": "Year 1 Writing and Editing Slides | AC9E1LY06 | Australian Curriculum v9",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "english",
+    "subjectLabel": "English",
+    "topics": [
+      "and",
+      "australian",
+      "curriculum",
+      "editing",
+      "slides",
+      "writing",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9E1LY06"
+    ],
+    "description": "Teach Year 1 students to plan, write, reread and improve short texts with 63 classroom slides aligned to Australian Curriculum v9 code AC9E1LY06. Students learn to write reports, opinions with reasons, and recounts of real or imagined events.",
+    "url": "/products/tpt-17791625/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Writing-and-Editing-Slides-AC9E1LY06-Australian-Curriculum-v9-17791625-1790711369/original-17791625-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Writing-and-Editing-Slides-AC9E1LY06-Australian-Curriculum-v9-17791625",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "7.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Year 1 Writing and Editing Slides"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17745803",
+    "title": "Year 1 Text Purpose Slides | AC9E1LY01 | Australian Curriculum v9",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "english",
+    "subjectLabel": "English",
+    "topics": [
+      "australian",
+      "curriculum",
+      "purpose",
+      "slides",
+      "text",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9E1LY01"
+    ],
+    "description": "Help Year 1 students work out what a text is trying to do. Aligned with Australian Curriculum v9 code AC9E1LY01, these 56 slides teach students to use features as clues to imaginative, informative, instructional and persuasive purposes.",
+    "url": "/products/tpt-17745803/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Text-Purpose-Slides-AC9E1LY01-Australian-Curriculum-v9-17745803-1790324381/original-17745803-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Text-Purpose-Slides-AC9E1LY01-Australian-Curriculum-v9-17745803",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "6.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Year 1 Text Purpose Slides"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17743951",
+    "title": "Year 1 Story Elements Slides | AC9E1LE01 | Australian Curriculum v9",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "english",
+    "subjectLabel": "English",
+    "topics": [
+      "australian",
+      "curriculum",
+      "elements",
+      "slides",
+      "story",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9E1LE01"
+    ],
+    "description": "Help Year 1 students discover how words and illustrations work together to tell a story. These 63 slides teach students to identify characters, settings and events, then use clues from both text and pictures to explain what they understand.",
+    "url": "/products/tpt-17743951/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Story-Elements-Slides-AC9E1LE01-Australian-Curriculum-v9-17743951-1790324428/original-17743951-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Story-Elements-Slides-AC9E1LE01-Australian-Curriculum-v9-17743951",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "6.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Year 1 Story Elements Slides"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17746391",
+    "title": "Year 1 Reading Comprehension Strategies Slides | AC9E1LY05",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "english",
+    "subjectLabel": "English",
+    "topics": [
+      "comprehension",
+      "reading",
+      "slides",
+      "strategies",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9E1LY05"
+    ],
+    "description": "Help Year 1 students think while they read with 66 presentation slides aligned to Australian Curriculum v9 code AC9E1LY05. Students practise predicting, visualising, making connections, asking questions and summarising, then use clues to distinguish literal from inferred meaning.",
+    "url": "/products/tpt-17746391/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Reading-Comprehension-Strategies-Slides-AC9E1LY05-17746391-1790324350/original-17746391-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Reading-Comprehension-Strategies-Slides-AC9E1LY05-17746391",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "6.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Year 1 Reading Comprehension Strategies Slides"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17746230",
+    "title": "Year 1 Phonics & Fluent Reading Slides | AC9E1LY04",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "english",
+    "subjectLabel": "English",
+    "topics": [
+      "fluent",
+      "phonics",
+      "reading",
+      "slides",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9E1LY04"
+    ],
+    "description": "Help Year 1 students decode words, read smoothly and check that what they read makes sense. Aligned with Australian Curriculum v9 code AC9E1LY04, these 66 slides teach blending, familiar word recognition, phrasing, punctuation, expression and self-correction.",
+    "url": "/products/tpt-17746230/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Phonics-Fluent-Reading-Slides-AC9E1LY04-17746230-1790324358/original-17746230-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Phonics-Fluent-Reading-Slides-AC9E1LY04-17746230",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "6.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Year 1 Phonics & Fluent Reading Slides"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17746080",
+    "title": "Year 1 Compare Text Types Slides | AC9E1LY03 | Australian Curriculum v9",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "english",
+    "subjectLabel": "English",
+    "topics": [
+      "australian",
+      "compare",
+      "curriculum",
+      "slides",
+      "text",
+      "types",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9E1LY03"
+    ],
+    "description": "Help Year 1 students work out what a text is trying to do. Aligned with Australian Curriculum v9 code AC9E1LY01, these 56 slides teach students to use features as clues to imaginative, informative, instructional and persuasive purposes.",
+    "url": "/products/tpt-17746080/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Compare-Text-Types-Slides-AC9E1LY03-Australian-Curriculum-v9-17746080-1790324366/original-17746080-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Compare-Text-Types-Slides-AC9E1LY03-Australian-Curriculum-v9-17746080",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "6.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Year 1 Compare Text Types Slides"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17745451",
+    "title": "Year 1 Story Retelling & Adaptation Slides | AC9E1LE05",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "english",
+    "subjectLabel": "English",
+    "topics": [
+      "adaptation",
+      "retelling",
+      "slides",
+      "story",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9E1LE05"
+    ],
+    "description": "Help Year 1 students retell familiar stories in their own words and adapt them by changing a story element on purpose. Aligned with Australian Curriculum v9 code AC9E1LE05, this 66-slide resource teaches students to identify key events, put them in order, connect their ideas and keep an adapted story recognisable.",
+    "url": "/products/tpt-17745451/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Story-Retelling-Adaptation-Slides-AC9E1LE05-17745451-1790324389/original-17745451-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Story-Retelling-Adaptation-Slides-AC9E1LE05-17745451",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "6.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Year 1 Story Retelling & Adaptation Slides"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17745214",
+    "title": "Year 1 Rhyme, Rhythm & Alliteration Slides | AC9E1LE04",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "english",
+    "subjectLabel": "English",
+    "topics": [
+      "alliteration",
+      "rhyme",
+      "rhythm",
+      "slides",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9E1LE04"
+    ],
+    "description": "Help Year 1 learners hear, imitate and invent sound patterns in poems, chants, rhymes and songs. Aligned with Australian Curriculum v9 code AC9E1LE04, these 66 classroom slides cover rhyme, alliteration, rhythm, repetition and sound words.",
+    "url": "/products/tpt-17745214/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Rhyme-Rhythm-Alliteration-Slides-AC9E1LE04-17745214-1790324397/original-17745214-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Rhyme-Rhythm-Alliteration-Slides-AC9E1LE04-17745214",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "6.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Year 1 Rhyme, Rhythm & Alliteration Slides"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17744877",
+    "title": "Year 1 Rhyme, Rhythm & Alliteration Slides | AC9E1LE04 | Curriculum v9",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "english",
+    "subjectLabel": "English",
+    "topics": [
+      "alliteration",
+      "curriculum",
+      "rhyme",
+      "rhythm",
+      "slides",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9E1LE04"
+    ],
+    "description": "Help Year 1 students hear, say and create sound patterns in poems, chants, rhymes and songs. These 62 slides teach rhythm, rhyming ending sounds and alliteration through spoken examples, movement, word matching and short creative activities.",
+    "url": "/products/tpt-17744877/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Rhyme-Rhythm-Alliteration-Slides-AC9E1LE04-Curriculum-v9-17744877-1790324404/original-17744877-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Rhyme-Rhythm-Alliteration-Slides-AC9E1LE04-Curriculum-v9-17744877",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "6.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Year 1 Rhyme, Rhythm & Alliteration Slides"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17744721",
+    "title": "Year 1 Characters, Settings & Plot Slides | AC9E1LE03 | Curriculum v9",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "english",
+    "subjectLabel": "English",
+    "topics": [
+      "characters",
+      "curriculum",
+      "plot",
+      "settings",
+      "slides",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9E1LE03"
+    ],
+    "description": "Teach Year 1 students to identify characters and settings, sequence important events, and explain what happens in a story. These 62 slides use short illustrated stories to show how a character’s choices and a story’s setting can shape the plot.",
+    "url": "/products/tpt-17744721/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Characters-Settings-Plot-Slides-AC9E1LE03-Curriculum-v9-17744721-1790324412/original-17744721-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Characters-Settings-Plot-Slides-AC9E1LE03-Curriculum-v9-17744721",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "6.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Year 1 Characters, Settings & Plot Slides"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17744486",
+    "title": "Year 1 Story Connections Slides | AC9E1LE02 | Australian Curriculum v9",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "english",
+    "subjectLabel": "English",
+    "topics": [
+      "australian",
+      "connections",
+      "curriculum",
+      "slides",
+      "story",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9E1LE02"
+    ],
+    "description": "Help Year 1 students respond to stories by connecting characters, events and settings with their own experiences. These 62 slides use Pip’s First Big Splash to show students how to notice a story detail, make a relevant connection and explain how that connection helps them understand.",
+    "url": "/products/tpt-17744486/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Story-Connections-Slides-AC9E1LE02-Australian-Curriculum-v9-17744486-1790324420/original-17744486-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Story-Connections-Slides-AC9E1LE02-Australian-Curriculum-v9-17744486",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "6.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Year 1 Story Connections Slides"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17737649",
+    "title": "Year 1 Topic Vocabulary Slides | AC9E1LA09 | Australian Curriculum v9",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "english",
+    "subjectLabel": "English",
+    "topics": [
+      "australian",
+      "curriculum",
+      "slides",
+      "topic",
+      "vocabulary",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9E1LA09"
+    ],
+    "description": "Teach Year 1 students how punctuation and capital letters give readers clues. These 56 slides cover full stops for statements, question marks for questions, exclamation marks for strong feeling or warnings, and capital letters for special names.",
+    "url": "/products/tpt-17737649/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Topic-Vocabulary-Slides-AC9E1LA09-Australian-Curriculum-v9-17737649-1790324444/original-17737649-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Topic-Vocabulary-Slides-AC9E1LA09-Australian-Curriculum-v9-17737649",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "5.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Year 1 Topic Vocabulary Slides"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17737193",
+    "title": "Year 1 Parts of Speech Slides | AC9E1LA07 | Australian Curriculum v9",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "english",
+    "subjectLabel": "English",
+    "topics": [
+      "australian",
+      "curriculum",
+      "parts",
+      "slides",
+      "speech",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9E1LA07"
+    ],
+    "description": "Teach Year 1 students that words have different jobs with this 59-slide English teaching PowerPoint, aligned with Australian Curriculum v9 AC9E1LA07. Students identify and use nouns, pronouns, verbs, adjectives and adverbs in simple, meaningful sentences.",
+    "url": "/products/tpt-17737193/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Parts-of-Speech-Slides-AC9E1LA07-Australian-Curriculum-v9-17737193-1790324459/original-17737193-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Parts-of-Speech-Slides-AC9E1LA07-Australian-Curriculum-v9-17737193",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "5.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Year 1 Parts of Speech Slides"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17737053",
+    "title": "Year 1 Complete Sentences Slides | AC9E1LA06 | Australian Curriculum v9",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "english",
+    "subjectLabel": "English",
+    "topics": [
+      "australian",
+      "complete",
+      "curriculum",
+      "sentences",
+      "slides",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9E1LA06"
+    ],
+    "description": "Help Year 1 students build complete simple sentences with this 59-slide English teaching PowerPoint, aligned with Australian Curriculum v9 AC9E1LA06. Students learn that a sentence communicates one complete idea.",
+    "url": "/products/tpt-17737053/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Complete-Sentences-Slides-AC9E1LA06-Australian-Curriculum-v9-17737053-1790324745/original-17737053-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Complete-Sentences-Slides-AC9E1LA06-Australian-Curriculum-v9-17737053",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "5.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Year 1 Complete Sentences Slides"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17736971",
+    "title": "Year 1 Text Features Slides | AC9E1LA05 | Print & Screen Texts",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "english",
+    "subjectLabel": "English",
+    "topics": [
+      "features",
+      "print",
+      "screen",
+      "slides",
+      "text",
+      "texts",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9E1LA05"
+    ],
+    "description": "Year 1 English teaching slides aligned with Australian Curriculum v9 AC9E1LA05. This 59-slide PowerPoint teaches students how print and screen texts are organised and how text features help readers find their way.",
+    "url": "/products/tpt-17736971/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Text-Features-Slides-AC9E1LA05-Print-Screen-Texts-17736971-1790324753/original-17736971-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Text-Features-Slides-AC9E1LA05-Print-Screen-Texts-17736971",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "5.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Year 1 Text Features Slides"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17736411",
+    "title": "Year 1 English Preferences Slides | AC9E1LA02 | Australian Curriculum v9",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "english",
+    "subjectLabel": "English",
+    "topics": [
+      "australian",
+      "curriculum",
+      "english",
+      "preferences",
+      "slides",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9E1LA02"
+    ],
+    "description": "Year 1 English teaching slides aligned with Australian Curriculum v9 AC9E1LA02. This 56-slide PowerPoint helps students express likes, dislikes and preferences, then explain their choices clearly using “because”.",
+    "url": "/products/tpt-17736411/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-English-Preferences-Slides-AC9E1LA02-Australian-Curriculum-v9-17736411-1790324769/original-17736411-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-English-Preferences-Slides-AC9E1LA02-Australian-Curriculum-v9-17736411",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "5.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Year 1 English Preferences Slides"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17737657",
+    "title": "Year 1 Punctuation & Capital Letters Slides | AC9E1LA10 | Curriculum v9",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "english",
+    "subjectLabel": "English",
+    "topics": [
+      "capital",
+      "curriculum",
+      "letters",
+      "punctuation",
+      "slides",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9E1LA10"
+    ],
+    "description": "Teach Year 1 students how punctuation and capital letters give readers clues. These 56 slides cover full stops for statements, question marks for questions, exclamation marks for strong feeling or warnings, and capital letters for special names.",
+    "url": "/products/tpt-17737657/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Punctuation-Capital-Letters-Slides-AC9E1LA10-Curriculum-v9-17737657-1790324436/original-17737657-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Punctuation-Capital-Letters-Slides-AC9E1LA10-Curriculum-v9-17737657",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "5.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Year 1 Punctuation & Capital Letters Slides"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17737343",
+    "title": "Year 1 Visual Literacy Slides | AC9E1LA08 | Australian Curriculum v9",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "english",
+    "subjectLabel": "English",
+    "topics": [
+      "australian",
+      "curriculum",
+      "literacy",
+      "slides",
+      "visual",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9E1LA08"
+    ],
+    "description": "Teach Year 1 students how pictures help readers understand meaning with this 58-slide English teaching PowerPoint, aligned with Australian Curriculum v9 AC9E1LA08. Students learn to notice what images show, compare images of the same subject, explain how images and words work together, find extra information in diagrams and follow image sequences.",
+    "url": "/products/tpt-17737343/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Visual-Literacy-Slides-AC9E1LA08-Australian-Curriculum-v9-17737343-1790324451/original-17737343-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Visual-Literacy-Slides-AC9E1LA08-Australian-Curriculum-v9-17737343",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "5.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Year 1 Visual Literacy Slides"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17736863",
+    "title": "Year 1 Rhyme & Rhythm Slides | AC9E1LA04 | Australian Curriculum v9",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "english",
+    "subjectLabel": "English",
+    "topics": [
+      "australian",
+      "curriculum",
+      "rhyme",
+      "rhythm",
+      "slides",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9E1LA04"
+    ],
+    "description": "Year 1 English teaching slides aligned with Australian Curriculum v9 AC9E1LA04. This 60-slide PowerPoint teaches students how repetition, rhyme and rhythm help poems, chants and songs sound connected.",
+    "url": "/products/tpt-17736863/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Rhyme-Rhythm-Slides-AC9E1LA04-Australian-Curriculum-v9-17736863-1790324761/original-17736863-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Rhyme-Rhythm-Slides-AC9E1LA04-Australian-Curriculum-v9-17736863",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "5.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Year 1 Rhyme & Rhythm Slides"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17864634",
+    "title": "Year 1 Maths: Numbers to 120 6-Day Worksheets & Test | AC9M1N01",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "day",
+      "maths",
+      "numbers",
+      "test",
+      "worksheets",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9M1N01"
+    ],
+    "description": "Plan your next number unit with this ready-to-print Year 1 maths pack. Help students read, represent and order numbers to 120 through illustrated vocabulary, worked examples, structured practice and a separate test.",
+    "url": "/products/tpt-17864634/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Numbers-to-120-Worksheets-Test-Australian-Curriculum-AC9M1N01-17864634-1791317933/original-17864634-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "worksheet",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Numbers-to-120-6-Day-Worksheets-Test-AC9M1N01-17864634",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "4.00"
+  },
+  {
+    "id": "tpt-17839947",
+    "title": "Foundation Numbers to 20 Worksheets | AC9MFN01 | Australian Curriculum v9",
+    "year": 0,
+    "yearLabel": "Foundation",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "australian",
+      "curriculum",
+      "foundation",
+      "mfn",
+      "numbers",
+      "worksheets"
+    ],
+    "curriculumCodes": [
+      "AC9MFN01"
+    ],
+    "description": "Build confidence with numbers to 20 using these printable Foundation maths worksheets aligned with Australian Curriculum v9 code AC9MFN01. The 15 student pages include 78 numbered questions and tasks: 60 practice questions and 18 quick-check questions.",
+    "url": "/products/tpt-17839947/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Foundation-Numbers-to-20-Worksheets-AC9MFN01-Australian-Curriculum-v9-17839947-1791317319/original-17839947-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "worksheet",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Foundation-Numbers-to-20-Worksheets-AC9MFN01-Australian-Curriculum-v9-17839947",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "3.50"
+  },
+  {
+    "id": "tpt-17594471",
+    "title": "Year 3 Fractions Bundle | Workbook & Lesson Slides | AC9M3N02 Australian v9",
+    "year": 3,
+    "yearLabel": "Year 3",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "australian",
+      "bundle",
+      "fractions",
+      "lesson",
+      "slides",
+      "workbook",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9M3N02"
+    ],
+    "description": "Teach, practise and assess Year 3 fractions with this complete workbook and teaching-slides bundle aligned to Australian Curriculum v9.0 content descriptor AC9M3N02. The bundle combines a 30-slide visual teaching presentation with a 43-page printable workbook containing 80 carefully sequenced questions and detailed answer sheets.",
+    "url": "/products/tpt-17594471/",
+    "image": "https://ecdn.teacherspayteachers.com/images/filetypes/new/bundle.png",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "bundle",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-3-Fractions-Bundle-Workbook-Lesson-Slides-AC9M3N02-Australian-v9-17594471",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "listPrice": "12.74",
+    "bundleFormat": "teaching-slides",
+    "packCount": 4
+  },
+  {
+    "id": "tpt-17594338",
+    "title": "Year 3 Multiplication & Division Bundle | Workbook & Slides | Australian v9",
+    "year": 3,
+    "yearLabel": "Year 3",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "australian",
+      "bundle",
+      "division",
+      "multiplication",
+      "slides",
+      "workbook",
+      "year"
+    ],
+    "curriculumCodes": [],
+    "description": "Support Year 3 multiplication and division learning with a workbook and matching PowerPoint teaching presentation. Introduce concepts together, model strategies and then consolidate learning through independent practice.",
+    "url": "/products/tpt-17594338/",
+    "image": "https://ecdn.teacherspayteachers.com/images/filetypes/new/bundle.png",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "bundle",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-3-Multiplication-Division-Bundle-Workbook-Slides-Australian-v9-17594338",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "listPrice": "10.48",
+    "bundleFormat": "teaching-slides",
+    "packCount": 2
+  },
+  {
+    "id": "tpt-17593227",
+    "title": "Year 3 Time Bundle | Telling Time & Duration Slides + Worksheets | Australian v9",
+    "year": 3,
+    "yearLabel": "Year 3",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "australian",
+      "bundle",
+      "duration",
+      "slides",
+      "telling",
+      "time",
+      "worksheets",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9M3M03",
+      "AC9M3M04"
+    ],
+    "description": "Save 20% with this complete Year 3 Time bundle, combining explicit teaching slides with printable student practice. This bundle gives teachers everything needed to introduce, model, practise and review analogue clocks, units of time and duration.",
+    "url": "/products/tpt-17593227/",
+    "image": "https://ecdn.teacherspayteachers.com/images/filetypes/new/bundle.png",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "bundle",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-3-Time-Bundle-Telling-Time-Duration-Slides-Worksheets-Australian-v9-17593227",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "7.98",
+    "listPrice": "9.98",
+    "bundleFormat": "teaching-slides",
+    "packCount": 2
+  },
+  {
+    "id": "tpt-17745962",
+    "title": "Year 1 Speaking & Listening Slides | Turn Taking | AC9E1LY02",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "english",
+    "subjectLabel": "English",
+    "topics": [
+      "listening",
+      "slides",
+      "speaking",
+      "taking",
+      "turn",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9E1LY02"
+    ],
+    "description": "Build Year 1 speaking and listening skills through guided classroom conversations. Aligned with Australian Curriculum v9 code AC9E1LY02, these 61 slides help students listen, take turns, speak clearly, respond to others, add relevant ideas and repair a conversation politely.",
+    "url": "/products/tpt-17745962/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Speaking-Listening-Slides-Turn-Taking-AC9E1LY02-17745962-1790324373/original-17745962-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Speaking-Listening-Slides-Turn-Taking-AC9E1LY02-17745962",
+    "free": true,
+    "tptObservedAt": "2026-10-08",
+    "price": "0.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore Year 1 Speaking & Listening Slides"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17728088",
+    "title": "FREE Year 5 Reading Comprehension | Australian Curriculum v9 Starter Pack",
+    "year": 5,
+    "yearLabel": "Year 5",
+    "subject": "english",
+    "subjectLabel": "English",
+    "topics": [
+      "australian",
+      "comprehension",
+      "curriculum",
+      "free",
+      "pack",
+      "reading",
+      "starter",
+      "year"
+    ],
+    "curriculumCodes": [],
+    "description": "Build confident Year 5 readers with this FREE reading comprehension PowerPoint starter pack aligned to Australian Curriculum v9. These ready-to-teach lesson slides help Year 5 / 5th Grade students practise literal comprehension, inference, vocabulary in context and concise summaries.",
+    "url": "/products/tpt-17728088/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-5-Reading-Comprehension-Starter-Pack-Australian-Curriculum-v9-17728088-1790146376/original-17728088-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/FREE-Year-5-Reading-Comprehension-Australian-Curriculum-v9-Starter-Pack-17728088",
+    "free": true,
+    "tptObservedAt": "2026-10-08",
+    "price": "0.00",
+    "includes": [
+      "Teaching resource; preview the complete contents on TpT"
+    ],
+    "learningGoals": [
+      "Explore FREE Year 5 Reading Comprehension"
+    ],
+    "format": "See the TpT listing for file format and full contents"
+  },
+  {
+    "id": "tpt-17881935",
+    "title": "FREE Year 1 Needs of Plants & Animals Worksheets | One-Day Sample",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "science",
+    "subjectLabel": "Science",
+    "topics": [
+      "animals",
+      "day",
+      "free",
+      "needs",
+      "one",
+      "plants",
+      "sample",
+      "worksheets",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9S1U01"
+    ],
+    "description": "Try a complete day of Year 1 practice on the needs of plants and animals. This 12-page A4 sample includes a parent/teacher guide, illustrated teaching pages, 10 questions on needs and living things, and matching answers.",
+    "url": "/products/tpt-17881935/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/FREE-Year-1-Needs-of-Plants-Animals-Worksheets-One-Day-Sample-17881935-1791447047/original-17881935-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "worksheet",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/FREE-Year-1-Needs-of-Plants-Animals-Worksheets-One-Day-Sample-17881935",
+    "free": true,
+    "tptObservedAt": "2026-10-08",
+    "price": "0.00"
+  },
+  {
+    "id": "tpt-17881918",
+    "title": "FREE Year 1 Observations & Informal Measurement Worksheets | One-Day Sample",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "science",
+    "subjectLabel": "Science",
+    "topics": [
+      "day",
+      "free",
+      "informal",
+      "measurement",
+      "observations",
+      "one",
+      "sample",
+      "worksheets",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9S1I03"
+    ],
+    "description": "Try a complete day of Year 1 observation practice. This 12-page A4 sample includes a parent/teacher guide, illustrated teaching pages, 10 questions on observing carefully, and matching answers.",
+    "url": "/products/tpt-17881918/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/FREE-Year-1-Observations-Informal-Measurement-Worksheets-One-Day-Sample-17881918-1791446924/original-17881918-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "worksheet",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/FREE-Year-1-Observations-Informal-Measurement-Worksheets-One-Day-Sample-17881918",
+    "free": true,
+    "tptObservedAt": "2026-10-08",
+    "price": "0.00"
+  },
+  {
+    "id": "tpt-17881902",
+    "title": "FREE Year 1 Pushes & Pulls Worksheets | One-Day Sample",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "science",
+    "subjectLabel": "Science",
+    "topics": [
+      "day",
+      "free",
+      "one",
+      "pulls",
+      "pushes",
+      "sample",
+      "worksheets",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9S1U03"
+    ],
+    "description": "Try a complete day of Year 1 pushes-and-pulls practice. This 12-page A4 sample includes a parent/teacher guide, illustrated teaching pages, 10 questions on pushes and pulls around us, and matching answers.",
+    "url": "/products/tpt-17881902/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/FREE-Year-1-Pushes-Pulls-Worksheets-One-Day-Sample-17881902-1791446798/original-17881902-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "worksheet",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/FREE-Year-1-Pushes-Pulls-Worksheets-One-Day-Sample-17881902",
+    "free": true,
+    "tptObservedAt": "2026-10-08",
+    "price": "0.00"
+  },
+  {
+    "id": "tpt-17881887",
+    "title": "FREE Year 1 Repeating Patterns Worksheets | One-Day Sample",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "day",
+      "free",
+      "one",
+      "patterns",
+      "repeating",
+      "sample",
+      "worksheets",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9M1A02"
+    ],
+    "description": "Try a complete day of Year 1 repeating-pattern practice. This 11-page A4 sample includes a parent/teacher guide, illustrated teaching pages, 10 questions on pattern words and repeats, and matching answers.",
+    "url": "/products/tpt-17881887/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/FREE-Year-1-Repeating-Patterns-Worksheets-One-Day-Sample-17881887-1791446668/original-17881887-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "worksheet",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/FREE-Year-1-Repeating-Patterns-Worksheets-One-Day-Sample-17881887",
+    "free": true,
+    "tptObservedAt": "2026-10-08",
+    "price": "0.00"
+  },
+  {
+    "id": "tpt-17881860",
+    "title": "FREE Year 1 Addition & Subtraction to 20 Worksheets | One-Day Sample",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "addition",
+      "day",
+      "free",
+      "one",
+      "sample",
+      "subtraction",
+      "worksheets",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9M1N04"
+    ],
+    "description": "Try a complete day of Year 1 addition and subtraction to 20 practice. This 14-page A4 sample includes a guide, illustrated teaching pages, 15 parts-and-wholes questions and matching answers.",
+    "url": "/products/tpt-17881860/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/FREE-Year-1-Addition-Subtraction-to-20-Worksheets-One-Day-Sample-17881860-1791446437/original-17881860-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "worksheet",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/FREE-Year-1-Addition-Subtraction-to-20-Worksheets-One-Day-Sample-17881860",
+    "free": true,
+    "tptObservedAt": "2026-10-08",
+    "price": "0.00"
+  },
+  {
+    "id": "tpt-17881847",
+    "title": "FREE Year 1 Numbers to 120 Worksheets | One-Day Sample",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "day",
+      "free",
+      "numbers",
+      "one",
+      "sample",
+      "worksheets",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9M1N01"
+    ],
+    "description": "Try a complete day of Year 1 numbers to 120 practice. This 10-page A4 sample includes teaching pages, 10 questions and matching answers.",
+    "url": "/products/tpt-17881847/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/FREE-Year-1-Numbers-to-120-Worksheets-One-Day-Sample-17881847-1791446341/original-17881847-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "worksheet",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/FREE-Year-1-Numbers-to-120-Worksheets-One-Day-Sample-17881847",
+    "free": true,
+    "tptObservedAt": "2026-10-08",
+    "price": "0.00"
+  },
+  {
+    "id": "tpt-17881728",
+    "title": "Year 1 Science Inquiry Bundle | Worksheets & Tests | AC9S1I01-I06",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "science",
+    "subjectLabel": "Science",
+    "topics": [
+      "bundle",
+      "inquiry",
+      "science",
+      "tests",
+      "worksheets",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9S1I01",
+      "AC9S1I02",
+      "AC9S1I03",
+      "AC9S1I04",
+      "AC9S1I05",
+      "AC9S1I06"
+    ],
+    "description": "Save 10% on six Year 1 Science Inquiry worksheet and test packs aligned to Australian Curriculum v9. Included: AC9S1I01 Questions and Predictions; AC9S1I02 Safe Investigations; AC9S1I03 Observations and Informal Measurement; AC9S1I04 Data and Patterns; AC9S1I05 Fair Tests and Comparing Results; AC9S1I06 Communicating Science.",
+    "url": "/products/tpt-17881728/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Science-Inquiry-Bundle-Worksheets-Tests-AC9S1I01-I06-17881728-1791449600/original-17881728-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "bundle",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Science-Inquiry-Bundle-Worksheets-Tests-AC9S1I01-I06-17881728",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "32.40",
+    "listPrice": "36.00",
+    "bundleFormat": "worksheet",
+    "packCount": 6
+  },
+  {
+    "id": "tpt-17881716",
+    "title": "Year 1 Science Term 4 Bundle | Everyday Science, Comparing & Communicating",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "science",
+    "subjectLabel": "Science",
+    "topics": [
+      "bundle",
+      "communicating",
+      "comparing",
+      "everyday",
+      "science",
+      "term",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9S1H01",
+      "AC9S1I05",
+      "AC9S1I06"
+    ],
+    "description": "Save 10% on three Year 1 Science worksheet and test packs aligned to Australian Curriculum v9. A suggested SkillrHub Term 4 focus: everyday science, comparing results and communicating findings.",
+    "url": "/products/tpt-17881716/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Science-Term-4-Bundle-Everyday-Science-Comparing-Communicating-17881716-1791449688/original-17881716-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "bundle",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Science-Term-4-Bundle-Everyday-Science-Comparing-Communicating-17881716",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "16.20",
+    "listPrice": "18.00",
+    "bundleFormat": "worksheet",
+    "packCount": 3
+  },
+  {
+    "id": "tpt-17881706",
+    "title": "Year 1 Science Term 3 Bundle | Pushes, Pulls, Data & Patterns",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "science",
+    "subjectLabel": "Science",
+    "topics": [
+      "bundle",
+      "data",
+      "patterns",
+      "pulls",
+      "pushes",
+      "science",
+      "term",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9S1U03",
+      "AC9S1I04"
+    ],
+    "description": "Save 10% on two Year 1 Science worksheet and test packs aligned to Australian Curriculum v9. A suggested SkillrHub Term 3 focus: pushes, pulls, data and patterns.",
+    "url": "/products/tpt-17881706/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Science-Term-3-Bundle-Pushes-Pulls-Data-Patterns-17881706-1791447269/original-17881706-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "bundle",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Science-Term-3-Bundle-Pushes-Pulls-Data-Patterns-17881706",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "10.80",
+    "listPrice": "12.00",
+    "bundleFormat": "worksheet",
+    "packCount": 2
+  },
+  {
+    "id": "tpt-17881702",
+    "title": "Year 1 Science Term 2 Bundle | Weather, Seasons, Observing & Measuring",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "science",
+    "subjectLabel": "Science",
+    "topics": [
+      "bundle",
+      "measuring",
+      "observing",
+      "science",
+      "seasons",
+      "term",
+      "weather",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9S1U02",
+      "AC9S1I03"
+    ],
+    "description": "Save 10% on two Year 1 Science worksheet and test packs aligned to Australian Curriculum v9. A suggested SkillrHub Term 2 focus: weather, seasons, observing and measuring.",
+    "url": "/products/tpt-17881702/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Science-Term-2-Bundle-Weather-Seasons-Observing-Measuring-17881702-1791447086/original-17881702-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "bundle",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Science-Term-2-Bundle-Weather-Seasons-Observing-Measuring-17881702",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "9.00",
+    "listPrice": "10.00",
+    "bundleFormat": "worksheet",
+    "packCount": 2
+  },
+  {
+    "id": "tpt-17881694",
+    "title": "Year 1 Science Term 1 Bundle | Living Things, Questions & Safe Investigations",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "science",
+    "subjectLabel": "Science",
+    "topics": [
+      "bundle",
+      "investigations",
+      "living",
+      "questions",
+      "safe",
+      "science",
+      "term",
+      "things",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9S1U01",
+      "AC9S1I01",
+      "AC9S1I02"
+    ],
+    "description": "Save 10% on three Year 1 Science worksheet and test packs aligned to Australian Curriculum v9. A suggested SkillrHub Term 1 focus: living things, asking questions and safe investigations.",
+    "url": "/products/tpt-17881694/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Science-Term-1-Bundle-Living-Things-Questions-Safe-Investigations-17881694-1791447010/original-17881694-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "bundle",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Science-Term-1-Bundle-Living-Things-Questions-Safe-Investigations-17881694",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "14.40",
+    "listPrice": "16.00",
+    "bundleFormat": "worksheet",
+    "packCount": 3
+  },
+  {
+    "id": "tpt-17881671",
+    "title": "Year 1 Science Full Year Worksheet & Test Bundle | 10 Codes | AC v9",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "science",
+    "subjectLabel": "Science",
+    "topics": [
+      "bundle",
+      "codes",
+      "full",
+      "science",
+      "test",
+      "worksheet",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9S1U01",
+      "AC9S1U02",
+      "AC9S1U03",
+      "AC9S1H01",
+      "AC9S1I01",
+      "AC9S1I02",
+      "AC9S1I03",
+      "AC9S1I04",
+      "AC9S1I05",
+      "AC9S1I06"
+    ],
+    "description": "Save 20% on ten Year 1 Science worksheet and test packs aligned to Australian Curriculum v9. Includes all ten Year 1 Science codes: AC9S1U01, AC9S1U02, AC9S1U03, AC9S1H01 and AC9S1I01–AC9S1I06.",
+    "url": "/products/tpt-17881671/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Science-Full-Year-Worksheet-Test-Bundle-10-Codes-AC-v9-17881671-1791446911/original-17881671-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "bundle",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Science-Full-Year-Worksheet-Test-Bundle-10-Codes-AC-v9-17881671",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "44.80",
+    "listPrice": "56.00",
+    "bundleFormat": "worksheet",
+    "packCount": 10
+  },
+  {
+    "id": "tpt-17881669",
+    "title": "Year 1 Science Understanding Bundle | Plants, Weather, Pushes & Pulls",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "science",
+    "subjectLabel": "Science",
+    "topics": [
+      "bundle",
+      "plants",
+      "pulls",
+      "pushes",
+      "science",
+      "understanding",
+      "weather",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9S1U01",
+      "AC9S1U02",
+      "AC9S1U03"
+    ],
+    "description": "Save 10% on three Year 1 Science worksheet and test packs aligned to Australian Curriculum v9. Included: AC9S1U01 (needs of plants and animals), AC9S1U02 (weather and seasons) and AC9S1U03 (pushes and pulls).",
+    "url": "/products/tpt-17881669/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Science-Understanding-Bundle-Plants-Weather-Pushes-Pulls-17881669-1791450455/original-17881669-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "bundle",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Science-Understanding-Bundle-Plants-Weather-Pushes-Pulls-17881669",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "12.60",
+    "listPrice": "14.00",
+    "bundleFormat": "worksheet",
+    "packCount": 3
+  },
+  {
+    "id": "tpt-17881633",
+    "title": "Year 1 Communicating Science Worksheets and Test| AC9S1I06",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "science",
+    "subjectLabel": "Science",
+    "topics": [
+      "and",
+      "communicating",
+      "science",
+      "test",
+      "worksheets",
+      "year"
+    ],
+    "curriculumCodes": [
+      "AC9S1I06"
+    ],
+    "description": "Help young learners turn what they notice into clear science messages with these Year 1 Communicating Science Worksheets and Test, aligned to Australian Curriculum v9.0 — AC9S1I06. This 52-page print-and-go resource includes 60 Practice questions and 20 separate Test questions, with teaching pages, completed examples and full teacher answer keys.",
+    "url": "/products/tpt-17881633/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-1-Communicating-Science-Worksheets-and-Test-AC9S1I06-17881633-1791444184/original-17881633-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "worksheet",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Communicating-Science-Worksheets-and-Test-AC9S1I06-17881633",
+    "free": false,
+    "tptObservedAt": "2026-10-08",
+    "price": "6.00"
   }
 ]

@@ -67,6 +67,6 @@ for product in products:
     target = ROOT / parsed.path.lstrip('/') / 'index.html'
     graph = Page(target.read_text()).schemas[0]['@graph']
     schema = next(item for item in graph if item['@type'] == 'Product')
-    assert schema['offers']['price'] == product['price']
+    assert schema['offers'].get('price') == product.get('price')
     assert schema['offers']['url'] == product['tptUrl']
 print(f'Checked {len(PAGES)} catalogue pages: links, canonicals, breadcrumbs, sitemap and product offers.')

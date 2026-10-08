@@ -121,7 +121,7 @@
     });
 
     years.forEach(year => {
-      const option = element('option', `Year ${year}`, '');
+      const option = element('option', String(year) === '0' ? 'Foundation' : `Year ${year}`, '');
       option.value = year;
       yearSelect.appendChild(option);
     });
