@@ -46,3 +46,22 @@ body.home-page { --ux-blue:#12695f; --ux-ink:#17344b; --ux-muted:#506577; --ux-l
 .home-page .home-hero { padding-bottom:24px; }
 @media(max-width:480px) { .home-page .home-tracker-action { width:100%; align-items:flex-start; } }
 .home-page .home-primary,.home-page .site-header__links a { gap:6px; }
+
+/* Visual learning journey: real links and static, accessible copy. */
+.home-page .home-hero { grid-template-columns:minmax(0,1.25fr) minmax(340px,1fr); gap:40px; align-items:center; }
+.home-page .home-journey { padding:24px; }
+.home-page .home-journey h2 { margin-bottom:20px; }
+.home-page .home-journey-steps { gap:0; }
+.home-page .home-journey-steps li { position:relative; padding-bottom:18px; gap:12px; }
+.home-page .home-journey-steps li:not(:last-child)::before { content:""; position:absolute; left:13px; top:30px; bottom:3px; width:2px; background:#b9cbd0; }
+.home-page .home-journey-steps li:last-child { padding-bottom:0; }
+.home-page .home-journey .home-step-number { position:relative; z-index:1; color:#fff; background:#12695f; border-color:#12695f; }
+.home-page .home-journey-heading { display:flex; align-items:center; gap:8px; flex-wrap:wrap; }
+.home-page .home-journey-heading strong,.home-page .home-journey-heading a { color:#17344b; font-size:.9rem; font-weight:750; }
+.home-page .home-journey-heading a { text-underline-offset:3px; }
+.home-page .home-journey-tag { display:inline-flex; padding:2px 6px; border-radius:4px; background:white; border:1px solid #d4e4da; font-size:.65rem; color:#12695f; font-weight:700; white-space:nowrap; }
+.home-page .home-journey-tag--paid { color:#72521e; background:#fff9ed; border-color:#e2d1af; }
+.home-page .home-journey-steps p { margin:5px 0 0; color:#506577; font-size:.8rem; line-height:1.5; }
+.home-page .home-journey-steps small { color:#506577; font-size:.7rem; margin-top:5px; line-height:1.45; }
+.home-page .home-journey-audience { font-size:.75rem; color:#506577; line-height:1.5; border-top:1px solid #d4e4da; padding-top:12px; margin:16px 0 0; }
+@media(max-width:800px) { .home-page .home-hero { grid-template-columns:1fr; gap:24px; } .home-page .home-journey { padding:20px; } }
