@@ -1,7 +1,7 @@
 {
   "auditedAt": "2026-10-08",
   "storefront": "https://www.teacherspayteachers.com/store/skillrhub",
-  "activeProductCount": 163,
+  "activeProductCount": 165,
   "products": [
     {
       "productId": "17870172",
@@ -445,7 +445,7 @@
     },
     {
       "productId": "17802766",
-      "title": "Foundation Subitising 0\u20135 Slides | AC9MFN02 | Australian Curriculum v9",
+      "title": "Foundation Subitising 0–5 Slides | AC9MFN02 | Australian Curriculum v9",
       "url": "https://www.teacherspayteachers.com/Product/Foundation-Subitising-05-Slides-AC9MFN02-Australian-Curriculum-v9-17802766",
       "image": "https://ecdn.teacherspayteachers.com/thumbitem/Foundation-Subitising-0-5-Slides-AC9MFN02-Australian-Curriculum-v9-17802766-1790809576/original-17802766-1.jpg",
       "isBundle": false,
@@ -456,7 +456,7 @@
     },
     {
       "productId": "17802130",
-      "title": "Foundation Numbers 0\u201320 Slides | AC9MFN01 | Australian Curriculum v9",
+      "title": "Foundation Numbers 0–20 Slides | AC9MFN01 | Australian Curriculum v9",
       "url": "https://www.teacherspayteachers.com/Product/Foundation-Numbers-020-Slides-AC9MFN01-Australian-Curriculum-v9-17802130",
       "image": "https://ecdn.teacherspayteachers.com/thumbitem/Foundation-Numbers-0-20-Slides-AC9MFN01-Australian-Curriculum-v9-17802130-1790803695/original-17802130-1.jpg",
       "isBundle": false,
@@ -1237,7 +1237,7 @@
     },
     {
       "productId": "17592266",
-      "title": "Year 3 Time Worksheets | Duration & Analogue Clocks | AC9M3M03\u2013AC9M3M04",
+      "title": "Year 3 Time Worksheets | Duration & Analogue Clocks | AC9M3M03–AC9M3M04",
       "url": "https://www.teacherspayteachers.com/Product/Year-3-Time-Worksheets-Duration-Analogue-Clocks-AC9M3M03AC9M3M04-17592266",
       "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-3-Time-Practice-Pack-Analogue-Clocks-Duration-AC9M3M03-AC9M3M04-17592266-1790145537/original-17592266-1.jpg",
       "isBundle": false,
@@ -1801,6 +1801,30 @@
       "regularPrice": null,
       "observedAt": "2026-10-09",
       "listingEvidence": "Owner supplied published TPT URL; price unverified."
+    },
+    {
+      "productId": "17892705",
+      "title": "Year 1 English Topic Vocabulary Worksheets | AC9E1LA09 | VIC VC2E1LA09",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-English-Topic-Vocabulary-Worksheets-AC9E1LA09-VC2E1LA09-17892705",
+      "image": "/assets/tpt-17892705-cover.svg",
+      "isBundle": false,
+      "free": false,
+      "price": null,
+      "regularPrice": null,
+      "listingConfirmedAt": "2026-10-09",
+      "listingEvidence": "Owner supplied the published TPT URL; contents verified from the reviewed final workbook. Current price not independently retrieved."
+    },
+    {
+      "productId": "17892724",
+      "title": "Year 1 English Punctuation & Capital Letters Worksheets | AC9E1LA10 | VIC VC2E1LA10",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Punctuation-Capital-Letters-Worksheets-AC9E1LA10-VC2E1LA10-17892724",
+      "image": "/assets/tpt-17892724-cover.svg",
+      "isBundle": false,
+      "free": false,
+      "price": null,
+      "regularPrice": null,
+      "listingConfirmedAt": "2026-10-09",
+      "listingEvidence": "Owner supplied the published TPT URL; contents verified from the reviewed final workbook. Current price not independently retrieved."
     }
   ]
 }

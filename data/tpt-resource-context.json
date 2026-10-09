@@ -1,7 +1,7 @@
 {
   "observedAt": "2026-10-07",
   "storefront": "https://www.teacherspayteachers.com/store/skillrhub",
-  "observedProductCount": 127,
+  "observedProductCount": 129,
   "codeCount": 103,
   "evidence": "All seven public store pages inspected. Existing catalogue names and code mappings retained; new listings copied from the live store. Prices and unsupported pack counts intentionally omitted.",
   "unmappedProductIds": [
@@ -1171,6 +1171,26 @@
       ],
       "freeSample": false,
       "evidence": "Owner supplied published listing URL on 2026-10-09; reviewed workbook counts."
+    },
+    {
+      "productId": "17892705",
+      "name": "Year 1 English Topic Vocabulary Worksheets | AC9E1LA09 | VIC VC2E1LA09",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-English-Topic-Vocabulary-Worksheets-AC9E1LA09-VC2E1LA09-17892705",
+      "curriculumCodes": [
+        "AC9E1LA09"
+      ],
+      "freeSample": false,
+      "listingConfirmedAt": "2026-10-09"
+    },
+    {
+      "productId": "17892724",
+      "name": "Year 1 English Punctuation & Capital Letters Worksheets | AC9E1LA10 | VIC VC2E1LA10",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Punctuation-Capital-Letters-Worksheets-AC9E1LA10-VC2E1LA10-17892724",
+      "curriculumCodes": [
+        "AC9E1LA10"
+      ],
+      "freeSample": false,
+      "listingConfirmedAt": "2026-10-09"
     }
   ],
   "codes": [
@@ -1292,7 +1312,8 @@
         "Classroom View": "https://skillrhub.com/year1/english/ac9e1la09-the-vocabulary-of-learning-area-topics/teacher-slides/"
       },
       "productIds": [
-        "17737649"
+        "17737649",
+        "17892705"
       ]
     },
     {
@@ -1309,7 +1330,8 @@
         "Classroom View": "https://skillrhub.com/year1/english/ac9e1la10-that-written-language-uses-punctuation-such-as-full-stops/teacher-slides/"
       },
       "productIds": [
-        "17737657"
+        "17737657",
+        "17892724"
       ]
     },
     {
