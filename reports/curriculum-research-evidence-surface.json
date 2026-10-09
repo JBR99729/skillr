@@ -3,88 +3,113 @@
   "summary": {
     "curriculum_codes": 676,
     "codes_with_research_evidence": 676,
-    "canonical_pages_changed": 6,
+    "canonical_pages_changed": 7,
     "skipped": 32
   },
   "changed": [
     {
-      "code": "AC9E4LY02",
-      "page": "year4/english/ac9e4ly02-listen-for-key-points-and-information-to-carry-out-tasks/index.html",
+      "code": "AC9E1LA01",
+      "page": "year1/english/ac9e1la01-how-language-facial-expressions-and-gestures-are-used-to/index.html",
+      "source_records": 4,
+      "evidence_types": [
+        "Checked against curriculum source material",
+        "Reviewed for curriculum alignment",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "Year1_English_Curriculum_Research_Master.txt",
+        "docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md",
+        "reports/f10-revision-card-coverage.json"
+      ]
+    },
+    {
+      "code": "AC9E1LA02",
+      "page": "year1/english/ac9e1la02-language-to-provide-reasons-for-likes-dislikes-and-preferences/index.html",
+      "source_records": 4,
+      "evidence_types": [
+        "Checked against curriculum source material",
+        "Reviewed for curriculum alignment",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "Year1_English_Curriculum_Research_Master.txt",
+        "docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md",
+        "reports/f10-revision-card-coverage.json"
+      ]
+    },
+    {
+      "code": "AC9E1LA03",
+      "page": "year1/english/ac9e1la03-how-texts-are-organised-according-to-their-purpose-such-as/index.html",
+      "source_records": 4,
+      "evidence_types": [
+        "Checked against curriculum source material",
+        "Reviewed for curriculum alignment",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "Year1_English_Curriculum_Research_Master.txt",
+        "docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md",
+        "reports/f10-revision-card-coverage.json"
+      ]
+    },
+    {
+      "code": "AC9E1LA04",
+      "page": "year1/english/ac9e1la04-how-repetition-rhyme-and-rhythm-create-cohesion-in-simple-poems/index.html",
+      "source_records": 4,
+      "evidence_types": [
+        "Checked against curriculum source material",
+        "Reviewed for curriculum alignment",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "Year1_English_Curriculum_Research_Master.txt",
+        "docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md",
+        "reports/f10-revision-card-coverage.json"
+      ]
+    },
+    {
+      "code": "AC9E1LA05",
+      "page": "year1/english/ac9e1la05-how-print-and-screen-texts-are-organised-using-features-such/index.html",
+      "source_records": 4,
+      "evidence_types": [
+        "Checked against curriculum source material",
+        "Reviewed for curriculum alignment",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "Year1_English_Curriculum_Research_Master.txt",
+        "docs/question-bank-reviews/2026-09-06-year1-english-la01-la05.md",
+        "reports/f10-revision-card-coverage.json"
+      ]
+    },
+    {
+      "code": "AC9E1LA06",
+      "page": "year1/english/ac9e1la06-that-a-simple-sentence-consists-of-a-single-independent-clause/index.html",
+      "source_records": 4,
+      "evidence_types": [
+        "Checked against curriculum source material",
+        "Reviewed for curriculum alignment",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "Year1_English_Curriculum_Research_Master.txt",
+        "docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md",
+        "reports/f10-revision-card-coverage.json"
+      ]
+    },
+    {
+      "code": "AC9E1LA07",
+      "page": "year1/english/ac9e1la07-that-words-can-represent-people-places-and-things-nouns/index.html",
       "source_records": 3,
       "evidence_types": [
+        "Checked against curriculum source material",
         "Reviewed for curriculum alignment",
-        "Teaching sequence reviewed",
         "Practice and assessment coverage reviewed"
       ],
       "sample_records": [
+        "Year1_English_Curriculum_Research_Master.txt",
         "reports/f10-revision-card-coverage.json",
-        "reports/year4-english-review/LE01-LY01-RELEASE.md",
-        "reports/year4-english-review/LY02-LY07-AUTHORING-CHECKPOINT.md"
-      ]
-    },
-    {
-      "code": "AC9E4LY03",
-      "page": "year4/english/ac9e4ly03-the-characteristic-features-used-in-imaginative-informative-and/index.html",
-      "source_records": 2,
-      "evidence_types": [
-        "Teaching sequence reviewed",
-        "Practice and assessment coverage reviewed"
-      ],
-      "sample_records": [
-        "reports/f10-revision-card-coverage.json",
-        "reports/year4-english-review/LY02-LY07-AUTHORING-CHECKPOINT.md"
-      ]
-    },
-    {
-      "code": "AC9E4LY04",
-      "page": "year4/english/ac9e4ly04-different-types-of-texts-integrating-phonic-semantic-and/index.html",
-      "source_records": 2,
-      "evidence_types": [
-        "Teaching sequence reviewed",
-        "Practice and assessment coverage reviewed"
-      ],
-      "sample_records": [
-        "reports/f10-revision-card-coverage.json",
-        "reports/year4-english-review/LY02-LY07-AUTHORING-CHECKPOINT.md"
-      ]
-    },
-    {
-      "code": "AC9E4LY05",
-      "page": "year4/english/ac9e4ly05-comprehension-strategies-such-as-visualising-predicting/index.html",
-      "source_records": 2,
-      "evidence_types": [
-        "Teaching sequence reviewed",
-        "Practice and assessment coverage reviewed"
-      ],
-      "sample_records": [
-        "reports/f10-revision-card-coverage.json",
-        "reports/year4-english-review/LY02-LY07-AUTHORING-CHECKPOINT.md"
-      ]
-    },
-    {
-      "code": "AC9E4LY06",
-      "page": "year4/english/ac9e4ly06-plan-create-edit-and-publish-written-and-multimodal-imaginative/index.html",
-      "source_records": 2,
-      "evidence_types": [
-        "Teaching sequence reviewed",
-        "Practice and assessment coverage reviewed"
-      ],
-      "sample_records": [
-        "reports/f10-revision-card-coverage.json",
-        "reports/year4-english-review/LY02-LY07-AUTHORING-CHECKPOINT.md"
-      ]
-    },
-    {
-      "code": "AC9E4LY07",
-      "page": "year4/english/ac9e4ly07-plan-create-rehearse-and-deliver-structured-oral-and-or/index.html",
-      "source_records": 2,
-      "evidence_types": [
-        "Teaching sequence reviewed",
-        "Practice and assessment coverage reviewed"
-      ],
-      "sample_records": [
-        "reports/f10-revision-card-coverage.json",
-        "reports/year4-english-review/LY02-LY07-AUTHORING-CHECKPOINT.md"
+        "reports/year1-english-topic-refresh/independent-review.md"
       ]
     }
   ],
