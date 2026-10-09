@@ -35,3 +35,14 @@ body.home-page { --ux-blue:#12695f; --ux-ink:#17344b; --ux-muted:#506577; --ux-l
 .home-page .curriculum-stage,.home-page .curriculum-year-row,.home-page .curriculum-subject-card { border-color:#dce5e9; background:#fff; }
 .home-page .curriculum-stage__header,.home-page .curriculum-year-row__mark { background:#eff6f2; color:#17344b; }
 .home-page .curriculum-subject-card:hover { border-color:#12695f; background:#eff6f2; }
+
+/* Keep tracker support with its action and name the reporting audience explicitly. */
+.home-page .home-actions { align-items:flex-start; }
+.home-page .home-tracker-action { display:flex; flex-direction:column; gap:8px; }
+.home-page .home-tracker-demo { display:block; padding:4px 0; min-height:32px; font-size:.8rem; color:#12695f; text-underline-offset:4px; }
+.home-page .home-audience-label { color:#12695f; font-size:.72rem; font-weight:750; letter-spacing:.06em; text-transform:uppercase; margin:0 0 10px; }
+.home-page .home-trust-note { padding:14px 0; margin:0 0 24px; border-block:1px solid #dce5e9; }
+.home-page .home-trust-note strong { color:#17344b; }
+.home-page .home-hero { padding-bottom:24px; }
+@media(max-width:480px) { .home-page .home-tracker-action { width:100%; align-items:flex-start; } }
+.home-page .home-primary,.home-page .site-header__links a { gap:6px; }
