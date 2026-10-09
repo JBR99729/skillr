@@ -1,0 +1,488 @@
+{
+  "catalogue": "data/print-and-go-products.json",
+  "topics": [
+    {
+      "code": "AC9MFN01",
+      "topicUrl": "/foundation/maths/ac9mfn01-name-represent-and-order-numbers-including-zero-to-at-least/",
+      "individual": "https://www.teacherspayteachers.com/Product/Foundation-Numbers-to-20-Worksheets-AC9MFN01-Australian-Curriculum-v9-17839947",
+      "bundles": []
+    },
+    {
+      "code": "AC9M1N01",
+      "topicUrl": "/year1/maths/ac9m1n01-numbers-to-120/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Numbers-to-120-6-Day-Worksheets-Test-AC9M1N01-17864634",
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-1-Maths-Number-Bundle-Worksheets-Tests-Australian-Curriculum-v9-17870089",
+        "https://www.teacherspayteachers.com/Product/Year-1-Maths-Full-Year-Worksheet-Test-Bundle-15-Codes-Australian-v9-17870172",
+        "https://www.teacherspayteachers.com/Product/Year-1-Maths-Term-1-Bundle-Numbers-Patterns-Shapes-Worksheets-AC-v9-17870186"
+      ]
+    },
+    {
+      "code": "AC9M1N02",
+      "topicUrl": "/year1/maths/ac9m1n02-partitioning-tens-and-ones/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-1-Place-Value-Number-Partitioning-Worksheets-Tens-and-Ones-AC9M1N02-17864784",
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-1-Maths-Number-Bundle-Worksheets-Tests-Australian-Curriculum-v9-17870089",
+        "https://www.teacherspayteachers.com/Product/Year-1-Maths-Full-Year-Worksheet-Test-Bundle-15-Codes-Australian-v9-17870172",
+        "https://www.teacherspayteachers.com/Product/Year-1-Maths-Term-1-Bundle-Numbers-Patterns-Shapes-Worksheets-AC-v9-17870186"
+      ]
+    },
+    {
+      "code": "AC9M1N03",
+      "topicUrl": "/year1/maths/ac9m1n03-skip-counting-and-equal-groups/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Equal-Groups-Skip-Counting-5-Day-Worksheets-Test-AC9M1N03-17865133",
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-1-Maths-Number-Bundle-Worksheets-Tests-Australian-Curriculum-v9-17870089",
+        "https://www.teacherspayteachers.com/Product/Year-1-Maths-Full-Year-Worksheet-Test-Bundle-15-Codes-Australian-v9-17870172",
+        "https://www.teacherspayteachers.com/Product/Year-1-Maths-Term-2-Bundle-Counting-Calculations-Measurement-AC-v9-17870205"
+      ]
+    },
+    {
+      "code": "AC9M1N04",
+      "topicUrl": "/year1/maths/ac9m1n04-addition-and-subtraction-within-20/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Addition-Subtraction-to-20-5-Day-Worksheets-Test-AC9M1N04-17865364",
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-1-Maths-Number-Bundle-Worksheets-Tests-Australian-Curriculum-v9-17870089",
+        "https://www.teacherspayteachers.com/Product/Year-1-Maths-Full-Year-Worksheet-Test-Bundle-15-Codes-Australian-v9-17870172",
+        "https://www.teacherspayteachers.com/Product/Year-1-Maths-Term-2-Bundle-Counting-Calculations-Measurement-AC-v9-17870205"
+      ]
+    },
+    {
+      "code": "AC9M1N05",
+      "topicUrl": "/year1/maths/ac9m1n05-additive-problem-solving-and-money/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Word-Problems-Money-6-Day-Worksheets-Test-AC9M1N05-17865530",
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-1-Maths-Number-Bundle-Worksheets-Tests-Australian-Curriculum-v9-17870089",
+        "https://www.teacherspayteachers.com/Product/Year-1-Maths-Full-Year-Worksheet-Test-Bundle-15-Codes-Australian-v9-17870172",
+        "https://www.teacherspayteachers.com/Product/Year-1-Maths-Term-3-Bundle-Word-Problems-Sharing-Length-Directions-17870215"
+      ]
+    },
+    {
+      "code": "AC9M1N06",
+      "topicUrl": "/year1/maths/ac9m1n06-equal-sharing-and-grouping/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Equal-Sharing-Grouping-5-Day-Worksheets-Test-AC9M1N06-17865685",
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-1-Maths-Number-Bundle-Worksheets-Tests-Australian-Curriculum-v9-17870089",
+        "https://www.teacherspayteachers.com/Product/Year-1-Maths-Full-Year-Worksheet-Test-Bundle-15-Codes-Australian-v9-17870172",
+        "https://www.teacherspayteachers.com/Product/Year-1-Maths-Term-3-Bundle-Word-Problems-Sharing-Length-Directions-17870215"
+      ]
+    },
+    {
+      "code": "AC9M1A01",
+      "topicUrl": "/year1/maths/ac9m1a01-skip-counting-pattern-sequences/",
+      "individual": null,
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-1-Maths-Algebra-Bundle-Patterns-Worksheets-Tests-Australian-v9-17870120",
+        "https://www.teacherspayteachers.com/Product/Year-1-Maths-Full-Year-Worksheet-Test-Bundle-15-Codes-Australian-v9-17870172",
+        "https://www.teacherspayteachers.com/Product/Year-1-Maths-Term-2-Bundle-Counting-Calculations-Measurement-AC-v9-17870205"
+      ]
+    },
+    {
+      "code": "AC9M1A02",
+      "topicUrl": "/year1/maths/ac9m1a02-repeating-patterns/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Repeating-Patterns-6-Day-Worksheets-Test-AC9M1A02-17865943",
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-1-Maths-Algebra-Bundle-Patterns-Worksheets-Tests-Australian-v9-17870120",
+        "https://www.teacherspayteachers.com/Product/Year-1-Maths-Full-Year-Worksheet-Test-Bundle-15-Codes-Australian-v9-17870172",
+        "https://www.teacherspayteachers.com/Product/Year-1-Maths-Term-1-Bundle-Numbers-Patterns-Shapes-Worksheets-AC-v9-17870186"
+      ]
+    },
+    {
+      "code": "AC9M1M01",
+      "topicUrl": "/year1/maths/ac9m1m01-comparing-length-mass-capacity-and-duration/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Comparing-Measurements-6-Day-Worksheets-Test-AC9M1M01-17866956",
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-1-Maths-Measurement-Bundle-Worksheets-Tests-Australian-v9-17870135",
+        "https://www.teacherspayteachers.com/Product/Year-1-Maths-Full-Year-Worksheet-Test-Bundle-15-Codes-Australian-v9-17870172",
+        "https://www.teacherspayteachers.com/Product/Year-1-Maths-Term-2-Bundle-Counting-Calculations-Measurement-AC-v9-17870205"
+      ]
+    },
+    {
+      "code": "AC9M1M02",
+      "topicUrl": "/year1/maths/ac9m1m02-measuring-length-with-informal-units/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Measuring-Length-6-Day-Worksheets-Test-AC9M1M02-17867187",
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-1-Maths-Measurement-Bundle-Worksheets-Tests-Australian-v9-17870135",
+        "https://www.teacherspayteachers.com/Product/Year-1-Maths-Full-Year-Worksheet-Test-Bundle-15-Codes-Australian-v9-17870172",
+        "https://www.teacherspayteachers.com/Product/Year-1-Maths-Term-3-Bundle-Word-Problems-Sharing-Length-Directions-17870215"
+      ]
+    },
+    {
+      "code": "AC9M1M03",
+      "topicUrl": "/year1/maths/ac9m1m03-time-years-months-weeks-days-and-hours/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Time-Duration-6-Day-Worksheets-Test-AC9M1M03-17867276",
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-1-Maths-Measurement-Bundle-Worksheets-Tests-Australian-v9-17870135",
+        "https://www.teacherspayteachers.com/Product/Year-1-Maths-Full-Year-Worksheet-Test-Bundle-15-Codes-Australian-v9-17870172",
+        "https://www.teacherspayteachers.com/Product/Year-1-Maths-Term-4-Bundle-Time-Data-Pictographs-Worksheets-AC-v9-17870226"
+      ]
+    },
+    {
+      "code": "AC9M1SP01",
+      "topicUrl": "/year1/maths/ac9m1sp01-familiar-shapes-and-objects/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Shapes-Objects-6-Day-Worksheets-Test-AC9M1SP01-17867400",
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-1-Maths-Space-Bundle-Shapes-Directions-Worksheets-Tests-AC-v9-17870145",
+        "https://www.teacherspayteachers.com/Product/Year-1-Maths-Full-Year-Worksheet-Test-Bundle-15-Codes-Australian-v9-17870172",
+        "https://www.teacherspayteachers.com/Product/Year-1-Maths-Term-1-Bundle-Numbers-Patterns-Shapes-Worksheets-AC-v9-17870186"
+      ]
+    },
+    {
+      "code": "AC9M1SP02",
+      "topicUrl": "/year1/maths/ac9m1sp02-directions-and-location/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Give-Follow-Directions-6-Day-Worksheets-Test-AC9M1SP02-17867511",
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-1-Maths-Space-Bundle-Shapes-Directions-Worksheets-Tests-AC-v9-17870145",
+        "https://www.teacherspayteachers.com/Product/Year-1-Maths-Full-Year-Worksheet-Test-Bundle-15-Codes-Australian-v9-17870172",
+        "https://www.teacherspayteachers.com/Product/Year-1-Maths-Term-3-Bundle-Word-Problems-Sharing-Length-Directions-17870215"
+      ]
+    },
+    {
+      "code": "AC9M1ST01",
+      "topicUrl": "/year1/maths/ac9m1st01-collecting-categorical-data/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Collecting-Recording-Data-6-Day-Worksheets-Test-AC9M1ST01-17867745",
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-1-Maths-Statistics-Bundle-Data-Pictographs-Worksheets-Tests-17870161",
+        "https://www.teacherspayteachers.com/Product/Year-1-Maths-Full-Year-Worksheet-Test-Bundle-15-Codes-Australian-v9-17870172",
+        "https://www.teacherspayteachers.com/Product/Year-1-Maths-Term-4-Bundle-Time-Data-Pictographs-Worksheets-AC-v9-17870226"
+      ]
+    },
+    {
+      "code": "AC9M1ST02",
+      "topicUrl": "/year1/maths/ac9m1st02-representing-and-comparing-data/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Pictographs-Data-Displays-6-Day-Worksheets-Test-AC9M1ST02-17867818",
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-1-Maths-Statistics-Bundle-Data-Pictographs-Worksheets-Tests-17870161",
+        "https://www.teacherspayteachers.com/Product/Year-1-Maths-Full-Year-Worksheet-Test-Bundle-15-Codes-Australian-v9-17870172",
+        "https://www.teacherspayteachers.com/Product/Year-1-Maths-Term-4-Bundle-Time-Data-Pictographs-Worksheets-AC-v9-17870226"
+      ]
+    },
+    {
+      "code": "AC9S1U01",
+      "topicUrl": "/year1/science/ac9s1u01-needs-of-plants-and-animals/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-1-Science-Plants-Animals-Needs-6-Day-Worksheets-Test-AC9S1U01-17869034",
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-1-Science-Term-1-Bundle-Living-Things-Questions-Safe-Investigations-17881694",
+        "https://www.teacherspayteachers.com/Product/Year-1-Science-Full-Year-Worksheet-Test-Bundle-10-Codes-AC-v9-17881671",
+        "https://www.teacherspayteachers.com/Product/Year-1-Science-Understanding-Bundle-Plants-Weather-Pushes-Pulls-17881669"
+      ]
+    },
+    {
+      "code": "AC9S1U02",
+      "topicUrl": "/year1/science/ac9s1u02-daily-and-seasonal-changes/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-1-Weather-Seasons-Worksheets-and-Test-Science-AC9S1U02-17877705",
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-1-Science-Term-2-Bundle-Weather-Seasons-Observing-Measuring-17881702",
+        "https://www.teacherspayteachers.com/Product/Year-1-Science-Full-Year-Worksheet-Test-Bundle-10-Codes-AC-v9-17881671",
+        "https://www.teacherspayteachers.com/Product/Year-1-Science-Understanding-Bundle-Plants-Weather-Pushes-Pulls-17881669"
+      ]
+    },
+    {
+      "code": "AC9S1U03",
+      "topicUrl": "/year1/science/ac9s1u03-pushes-and-pulls/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-1-Pushes-and-Pulls-Worksheets-and-Test-Science-AC9S1U03-17878639",
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-1-Science-Term-3-Bundle-Pushes-Pulls-Data-Patterns-17881706",
+        "https://www.teacherspayteachers.com/Product/Year-1-Science-Full-Year-Worksheet-Test-Bundle-10-Codes-AC-v9-17881671",
+        "https://www.teacherspayteachers.com/Product/Year-1-Science-Understanding-Bundle-Plants-Weather-Pushes-Pulls-17881669"
+      ]
+    },
+    {
+      "code": "AC9S1H01",
+      "topicUrl": "/year1/science/ac9s1h01-science-in-daily-life/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-1-Science-in-Everyday-Life-Worksheets-and-Test-AC9S1H01-17878868",
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-1-Science-Term-4-Bundle-Everyday-Science-Comparing-Communicating-17881716",
+        "https://www.teacherspayteachers.com/Product/Year-1-Science-Full-Year-Worksheet-Test-Bundle-10-Codes-AC-v9-17881671"
+      ]
+    },
+    {
+      "code": "AC9S1I01",
+      "topicUrl": "/year1/science/ac9s1i01-questions-patterns-and-predictions/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-1-Science-Questions-and-Predictions-Worksheets-and-Test-AC9S1I01-17879064",
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-1-Science-Inquiry-Bundle-Worksheets-Tests-AC9S1I01-I06-17881728",
+        "https://www.teacherspayteachers.com/Product/Year-1-Science-Term-1-Bundle-Living-Things-Questions-Safe-Investigations-17881694",
+        "https://www.teacherspayteachers.com/Product/Year-1-Science-Full-Year-Worksheet-Test-Bundle-10-Codes-AC-v9-17881671"
+      ]
+    },
+    {
+      "code": "AC9S1I02",
+      "topicUrl": "/year1/science/ac9s1i02-safe-investigation-procedures/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-1-Safe-Science-Investigations-Worksheets-and-Test-AC9S1I02-17879254",
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-1-Science-Inquiry-Bundle-Worksheets-Tests-AC9S1I01-I06-17881728",
+        "https://www.teacherspayteachers.com/Product/Year-1-Science-Term-1-Bundle-Living-Things-Questions-Safe-Investigations-17881694",
+        "https://www.teacherspayteachers.com/Product/Year-1-Science-Full-Year-Worksheet-Test-Bundle-10-Codes-AC-v9-17881671"
+      ]
+    },
+    {
+      "code": "AC9S1I03",
+      "topicUrl": "/year1/science/ac9s1i03-making-and-recording-observations/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-1-Observations-Informal-Measurement-Worksheets-and-Test-AC9S1I03-17879822",
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-1-Science-Inquiry-Bundle-Worksheets-Tests-AC9S1I01-I06-17881728",
+        "https://www.teacherspayteachers.com/Product/Year-1-Science-Term-2-Bundle-Weather-Seasons-Observing-Measuring-17881702",
+        "https://www.teacherspayteachers.com/Product/Year-1-Science-Full-Year-Worksheet-Test-Bundle-10-Codes-AC-v9-17881671"
+      ]
+    },
+    {
+      "code": "AC9S1I04",
+      "topicUrl": "/year1/science/ac9s1i04-sorting-data-and-representing-patterns/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-1-Science-Data-Patterns-Worksheets-and-Test-AC9S1I04-17881171",
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-1-Science-Inquiry-Bundle-Worksheets-Tests-AC9S1I01-I06-17881728",
+        "https://www.teacherspayteachers.com/Product/Year-1-Science-Term-3-Bundle-Pushes-Pulls-Data-Patterns-17881706",
+        "https://www.teacherspayteachers.com/Product/Year-1-Science-Full-Year-Worksheet-Test-Bundle-10-Codes-AC-v9-17881671"
+      ]
+    },
+    {
+      "code": "AC9S1I05",
+      "topicUrl": "/year1/science/ac9s1i05-comparing-observations-and-predictions/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-1-Science-Fair-Tests-Comparing-Results-Worksheets-AC9S1I05-17881184",
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-1-Science-Inquiry-Bundle-Worksheets-Tests-AC9S1I01-I06-17881728",
+        "https://www.teacherspayteachers.com/Product/Year-1-Science-Term-4-Bundle-Everyday-Science-Comparing-Communicating-17881716",
+        "https://www.teacherspayteachers.com/Product/Year-1-Science-Full-Year-Worksheet-Test-Bundle-10-Codes-AC-v9-17881671"
+      ]
+    },
+    {
+      "code": "AC9S1I06",
+      "topicUrl": "/year1/science/ac9s1i06-communicating-scientific-ideas/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-1-Communicating-Science-Worksheets-and-Test-AC9S1I06-17881633",
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-1-Science-Inquiry-Bundle-Worksheets-Tests-AC9S1I01-I06-17881728",
+        "https://www.teacherspayteachers.com/Product/Year-1-Science-Term-4-Bundle-Everyday-Science-Comparing-Communicating-17881716",
+        "https://www.teacherspayteachers.com/Product/Year-1-Science-Full-Year-Worksheet-Test-Bundle-10-Codes-AC-v9-17881671"
+      ]
+    },
+    {
+      "code": "AC9E1LA01",
+      "topicUrl": "/year1/english/ac9e1la01-how-language-facial-expressions-and-gestures-are-used-to/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-1-English-Words-Faces-Gestures-Worksheets-Test-AC9E1LA01-17882216",
+      "bundles": []
+    },
+    {
+      "code": "AC9E1LA02",
+      "topicUrl": "/year1/english/ac9e1la02-language-to-provide-reasons-for-likes-dislikes-and-preferences/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-1-English-Likes-Dislikes-Preferences-Worksheets-AC9E1LA02-17889013",
+      "bundles": []
+    },
+    {
+      "code": "AC9E1LA03",
+      "topicUrl": "/year1/english/ac9e1la03-how-texts-are-organised-according-to-their-purpose-such-as/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-1-English-Text-Purpose-Structure-Worksheets-AC9E1LA03-VIC-VC2E1LA03-17889508",
+      "bundles": []
+    },
+    {
+      "code": "AC9E1LA04",
+      "topicUrl": "/year1/english/ac9e1la04-how-repetition-rhyme-and-rhythm-create-cohesion-in-simple-poems/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-1-English-Rhyme-Rhythm-Repetition-Worksheets-AC9E1LA04-VIC-VC2E1LA04-17889835",
+      "bundles": []
+    },
+    {
+      "code": "AC9E1LA05",
+      "topicUrl": "/year1/english/ac9e1la05-how-print-and-screen-texts-are-organised-using-features-such/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-1-English-Print-Digital-Text-Features-Worksheets-AC9E1LA05-VIC-VC2E1L-17890516",
+      "bundles": []
+    },
+    {
+      "code": "AC9E1LA06",
+      "topicUrl": "/year1/english/ac9e1la06-that-a-simple-sentence-consists-of-a-single-independent-clause/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-1-English-Simple-Sentence-Worksheets-AC9E1LA06-VIC-VC2E1LA06-17890741",
+      "bundles": []
+    },
+    {
+      "code": "AC9E1LA07",
+      "topicUrl": "/year1/english/ac9e1la07-that-words-can-represent-people-places-and-things-nouns/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-1-Grammar-Worksheets-Nouns-Pronouns-Verbs-AdjectivesAdverbsAC9E1LA07-17891006",
+      "bundles": []
+    },
+    {
+      "code": "AC9M2N01",
+      "topicUrl": "/year2/maths/ac9m2n01-recognise-represent-and-order-numbers-to-at-least-1000-using/",
+      "individual": null,
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-2-Maths-Workbook-Full-Year-Australian-Curriculum-v9-Resource-17273907"
+      ]
+    },
+    {
+      "code": "AC9M2N02",
+      "topicUrl": "/year2/maths/ac9m2n02-partition-rearrange-regroup-and-rename-two-and-three-digit/",
+      "individual": null,
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-2-Maths-Workbook-Full-Year-Australian-Curriculum-v9-Resource-17273907"
+      ]
+    },
+    {
+      "code": "AC9M2N03",
+      "topicUrl": "/year2/maths/ac9m2n03-and-describe-one-half-as-one-of-2-equal-parts-of/",
+      "individual": null,
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-2-Maths-Workbook-Full-Year-Australian-Curriculum-v9-Resource-17273907"
+      ]
+    },
+    {
+      "code": "AC9M2N04",
+      "topicUrl": "/year2/maths/ac9m2n04-add-and-subtract-one-and-two-digit-numbers-representing/",
+      "individual": null,
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-2-Maths-Workbook-Full-Year-Australian-Curriculum-v9-Resource-17273907"
+      ]
+    },
+    {
+      "code": "AC9M2N05",
+      "topicUrl": "/year2/maths/ac9m2n05-multiply-and-divide-by-one-digit-numbers-using-repeated/",
+      "individual": null,
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-2-Maths-Workbook-Full-Year-Australian-Curriculum-v9-Resource-17273907"
+      ]
+    },
+    {
+      "code": "AC9M2N06",
+      "topicUrl": "/year2/maths/ac9m2n06-mathematical-modelling-to-solve-practical-problems-involving/",
+      "individual": null,
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-2-Maths-Workbook-Full-Year-Australian-Curriculum-v9-Resource-17273907"
+      ]
+    },
+    {
+      "code": "AC9M2A01",
+      "topicUrl": "/year2/maths/ac9m2a01-recognise-describe-and-create-additive-patterns-that-increase/",
+      "individual": null,
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-2-Maths-Workbook-Full-Year-Australian-Curriculum-v9-Resource-17273907"
+      ]
+    },
+    {
+      "code": "AC9M2A02",
+      "topicUrl": "/year2/maths/ac9m2a02-recall-and-demonstrate-proficiency-with-addition-facts-to-20/",
+      "individual": null,
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-2-Maths-Workbook-Full-Year-Australian-Curriculum-v9-Resource-17273907"
+      ]
+    },
+    {
+      "code": "AC9M2A03",
+      "topicUrl": "/year2/maths/ac9m2a03-recall-and-demonstrate-proficiency-with-multiplication-facts/",
+      "individual": null,
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-2-Maths-Workbook-Full-Year-Australian-Curriculum-v9-Resource-17273907"
+      ]
+    },
+    {
+      "code": "AC9M2M01",
+      "topicUrl": "/year2/maths/ac9m2m01-measure-and-compare-objects-based-on-length-capacity-and-mass/",
+      "individual": null,
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-2-Maths-Workbook-Full-Year-Australian-Curriculum-v9-Resource-17273907"
+      ]
+    },
+    {
+      "code": "AC9M2M02",
+      "topicUrl": "/year2/maths/ac9m2m02-common-uses-and-represent-halves-quarters-and-eighths-in/",
+      "individual": null,
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-2-Maths-Workbook-Full-Year-Australian-Curriculum-v9-Resource-17273907"
+      ]
+    },
+    {
+      "code": "AC9M2M03",
+      "topicUrl": "/year2/maths/ac9m2m03-the-date-and-determine-the-number-of-days-between-events/",
+      "individual": null,
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-2-Maths-Workbook-Full-Year-Australian-Curriculum-v9-Resource-17273907"
+      ]
+    },
+    {
+      "code": "AC9M2M04",
+      "topicUrl": "/year2/maths/ac9m2m04-and-read-the-time-represented-on-an-analog-clock-to/",
+      "individual": null,
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-2-Maths-Workbook-Full-Year-Australian-Curriculum-v9-Resource-17273907"
+      ]
+    },
+    {
+      "code": "AC9M2M05",
+      "topicUrl": "/year2/maths/ac9m2m05-identify-describe-and-demonstrate-quarter-half-three-quarter/",
+      "individual": null,
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-2-Maths-Workbook-Full-Year-Australian-Curriculum-v9-Resource-17273907"
+      ]
+    },
+    {
+      "code": "AC9M2SP01",
+      "topicUrl": "/year2/maths/ac9m2sp01-recognise-compare-and-classify-shapes-referencing-the-number-of/",
+      "individual": null,
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-2-Maths-Workbook-Full-Year-Australian-Curriculum-v9-Resource-17273907"
+      ]
+    },
+    {
+      "code": "AC9M2SP02",
+      "topicUrl": "/year2/maths/ac9m2sp02-locate-positions-in-two-dimensional-representations-of-a/",
+      "individual": null,
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-2-Maths-Workbook-Full-Year-Australian-Curriculum-v9-Resource-17273907"
+      ]
+    },
+    {
+      "code": "AC9M2ST01",
+      "topicUrl": "/year2/maths/ac9m2st01-acquire-data-for-categorical-variables-through-surveys/",
+      "individual": null,
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-2-Maths-Workbook-Full-Year-Australian-Curriculum-v9-Resource-17273907"
+      ]
+    },
+    {
+      "code": "AC9M2ST02",
+      "topicUrl": "/year2/maths/ac9m2st02-different-graphical-representations-of-data-using-software/",
+      "individual": null,
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-2-Maths-Workbook-Full-Year-Australian-Curriculum-v9-Resource-17273907"
+      ]
+    },
+    {
+      "code": "AC9M3N02",
+      "topicUrl": "/year3/maths/ac9m3n02-and-represent-unit-fractions-including-frac12-frac13-frac14/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-3-Fractions-Workbook-80-Questions-Answers-AC9M3N02-17594426",
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-3-Fractions-Bundle-Workbook-Lesson-Slides-AC9M3N02-Australian-v9-17594471"
+      ]
+    },
+    {
+      "code": "AC9M3N04",
+      "topicUrl": "/year3/maths/ac9m3n04-multiply-and-divide-one-and-two-digit-numbers-representing/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-3-Multiplication-Division-Workbook-144-Questions-Australian-v9-17594291",
+      "bundles": []
+    },
+    {
+      "code": "AC9M3A03",
+      "topicUrl": "/year3/maths/ac9m3a03-recall-and-demonstrate-proficiency-with-multiplication-facts/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-3-Multiplication-Division-Workbook-144-Questions-Australian-v9-17594291",
+      "bundles": []
+    },
+    {
+      "code": "AC9M3M03",
+      "topicUrl": "/year3/maths/ac9m3m03-and-use-the-relationship-between-formal-units-of-time-including/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-3-Time-Worksheets-Duration-Analogue-Clocks-AC9M3M03AC9M3M04-17592266",
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-3-Time-Bundle-Telling-Time-Duration-Slides-Worksheets-Australian-v9-17593227"
+      ]
+    },
+    {
+      "code": "AC9M3M04",
+      "topicUrl": "/year3/maths/ac9m3m04-the-relationship-between-the-hours-and-minutes-on-analog-and/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-3-Time-Worksheets-Duration-Analogue-Clocks-AC9M3M03AC9M3M04-17592266",
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-3-Time-Bundle-Telling-Time-Duration-Slides-Worksheets-Australian-v9-17593227"
+      ]
+    },
+    {
+      "code": "AC9M5N01",
+      "topicUrl": "/year5/maths/ac9m5n01-interpret-compare-and-order-numbers-with-more-than-2-decimal/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-5-Decimals-Worksheets-Test-Teaching-PowerPoint-AC9M5N01-17869356",
+      "bundles": []
+    }
+  ]
+}
