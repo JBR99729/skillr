@@ -14,7 +14,7 @@ for (const p of products.filter(p=>p.available)) {
   const url = 'https://skillrhub.com'+p.url;
   const image = p.image.startsWith('https://') ? p.image : 'https://skillrhub.com'+p.image;
   const price = p.price === undefined ? 'See current price on TPT' : Number(p.price)===0 ? 'FREE' : 'US$'+Number(p.price).toFixed(2);
-  const title = p.title+' | SkillrHub';
+  const title = p.seoTitle || p.title+' | SkillrHub';
   const description = p.description;
   const structured = {'@context':'https://schema.org','@graph':[
     {'@type':'Product','@id':url+'#product',name:p.title,description,image:[image],url,sku:p.id,brand:{'@type':'Brand',name:'SkillrHub'},offers:{'@type':'Offer',url:p.tptUrl,price:p.price,priceCurrency:p.currency,availability:'https://schema.org/InStock',seller:{'@type':'Organization',name:'Skillrhub Learning'}}},
