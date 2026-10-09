@@ -5727,5 +5727,60 @@
     "listingConfirmedAt": "2026-10-09",
     "listingEvidence": "Owner supplied the published TPT URL; contents verified from the reviewed final workbook. Current price not independently retrieved.",
     "seoTitle": "Year 1 Text Purpose Worksheets | AC9E1LA03 | SkillrHub"
+  },
+  {
+    "id": "year-1-english-rhyme-rhythm-repetition-worksheets",
+    "title": "Year 1 English Rhyme, Rhythm & Repetition Worksheets | AC9E1LA04 | VIC VC2E1LA04",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "english",
+    "subjectLabel": "English",
+    "topics": [
+      "repetition",
+      "rhyme",
+      "rhythm",
+      "poems",
+      "chants",
+      "songs",
+      "cohesion",
+      "poetry",
+      "homeschool",
+      "practice",
+      "test"
+    ],
+    "curriculumCodes": [
+      "AC9E1LA04"
+    ],
+    "description": "A 61-page Year 1 English printable pack with 60 practice questions, a separate 15-question test, illustrated concepts, beat diagrams, listening activities, teacher guidance and complete answers.",
+    "url": "/products/year-1-english-rhyme-rhythm-repetition-worksheets/",
+    "image": "/assets/year-1-english-rhyme-rhythm-repetition-worksheets-cover.png",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "worksheet",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-English-Rhyme-Rhythm-Repetition-Worksheets-AC9E1LA04-VIC-VC2E1LA04-17889835",
+    "tptResourceType": "PDF",
+    "isBundle": false,
+    "free": false,
+    "format": "A4 flattened printable PDF",
+    "includes": [
+      "60 practice questions: 10 in each of six teaching focuses",
+      "Six focuses: repetition, rhyme, rhythm, connected patterns, poems/chants/songs and creating your own",
+      "A separate 15-question test with fresh texts and contexts",
+      "Four concept pages, short instructions and guided Practice examples",
+      "Five additional vocabulary/dictation items with teacher sentences",
+      "Adult-led listening, equal beat boxes and performance delivery notes",
+      "Teacher/parent guide, flexible response options and complete answer keys",
+      "61-page A4 flattened printable PDF with black-and-white student activities",
+      "Curriculum planning: Australian Curriculum AC9E1LA04; VIC Level 1 VC2E1LA04",
+      "NSW Stage 1 related outcomes EN1-UARL-01 and EN1-OLC-01: selected skills, not complete outcome coverage",
+      "QLD: AC9E1LA04 (QCAA Australian Curriculum v9); SA: AC9E1LA04 national reference for locally adapted planning"
+    ],
+    "practiceQuestions": 60,
+    "testQuestions": 15,
+    "totalQuestions": 75,
+    "pageCount": 61,
+    "listingConfirmedAt": "2026-10-09",
+    "listingEvidence": "Owner supplied the published TPT URL; contents verified from the reviewed final workbook. Current price not independently retrieved.",
+    "seoTitle": "Year 1 Rhyme & Rhythm Worksheets | AC9E1LA04 | SkillrHub"
   }
 ]

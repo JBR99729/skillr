@@ -1,7 +1,7 @@
 {
   "observedAt": "2026-10-07",
   "storefront": "https://www.teacherspayteachers.com/store/skillrhub",
-  "observedProductCount": 126,
+  "observedProductCount": 127,
   "codeCount": 103,
   "evidence": "All seven public store pages inspected. Existing catalogue names and code mappings retained; new listings copied from the live store. Prices and unsupported pack counts intentionally omitted.",
   "unmappedProductIds": [
@@ -1161,6 +1161,16 @@
       ],
       "freeSample": false,
       "evidence": "Owner supplied published listing URL on 2026-10-09; reviewed workbook counts."
+    },
+    {
+      "productId": "17889835",
+      "name": "Year 1 English Rhyme, Rhythm & Repetition Worksheets | AC9E1LA04 | VIC VC2E1LA04",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-English-Rhyme-Rhythm-Repetition-Worksheets-AC9E1LA04-VIC-VC2E1LA04-17889835",
+      "curriculumCodes": [
+        "AC9E1LA04"
+      ],
+      "freeSample": false,
+      "evidence": "Owner supplied published listing URL on 2026-10-09; reviewed workbook counts."
     }
   ],
   "codes": [
@@ -1196,7 +1206,8 @@
         "Classroom View": "https://skillrhub.com/year1/english/ac9e1la04-how-repetition-rhyme-and-rhythm-create-cohesion-in-simple-poems/teacher-slides/"
       },
       "productIds": [
-        "17736863"
+        "17736863",
+        "17889835"
       ]
     },
     {
