@@ -45,7 +45,7 @@ for u in units:
     if individual: options.append(link(individual,'Individual worksheet pack','print-options__primary'))
     for p in sorted((p for p in found if category(p)!='individual'),key=lambda p:({'term':0,'year':1,'strand':2}[category(p)],p['title'])):
         kind=category(p)
-        label=(re.search(r'Term\s*[1-4]',p['title'],re.I).group(0)+' bundle') if kind=='term' else ('Full-year '+u['subject']+(' workbook' if p['resourceType']=='workbook' else ' bundle')) if kind=='year' else 'Related '+('worksheet bundle' if 'worksheet' in p['title'].lower() else 'workbook & slides bundle')
+        label=(re.search(r'Term\s*[1-4]',p['title'],re.I).group(0)+' bundle') if kind=='term' else ('Full-year '+u['subject']+(' workbook' if p['resourceType']=='workbook' else ' bundle')) if kind=='year' else 'Related '+('worksheet bundle' if 'worksheet' in p['title'].lower() else 'workbook & slides bundle' if 'slides' in p['title'].lower() else 'bundle')
         options.append(link(p,label))
     free=u['worksheetUrl']
     top='<!-- skillr-print-options:top:start --><aside class="print-options" aria-label="Print and Go buying options"><p class="print-options__heading">Print &amp; Go: choose your pack</p><p>Start with the <a href="'+escape(free)+'">free printable worksheet</a>, or choose a paid pack for more structured practice.</p><nav class="print-options__links" aria-label="Paid worksheet packs">'+''.join(options)+'</nav>'
