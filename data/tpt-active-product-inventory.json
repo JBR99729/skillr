@@ -1,7 +1,7 @@
 {
   "auditedAt": "2026-10-08",
   "storefront": "https://www.teacherspayteachers.com/store/skillrhub",
-  "activeProductCount": 158,
+  "activeProductCount": 159,
   "products": [
     {
       "productId": "17870172",
@@ -1740,6 +1740,18 @@
       "price": null,
       "regularPrice": null,
       "observedAt": "2026-10-08",
+      "evidence": "Owner supplied published listing URL; price unverified."
+    },
+    {
+      "productId": "17889508",
+      "title": "Year 1 English Text Purpose & Structure Worksheets | AC9E1LA03 | VIC VC2E1LA03",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-English-Text-Purpose-Structure-Worksheets-AC9E1LA03-VIC-VC2E1LA03-17889508",
+      "image": "/assets/year-1-english-text-purpose-structure-worksheets-cover.png",
+      "isBundle": false,
+      "free": false,
+      "price": null,
+      "regularPrice": null,
+      "observedAt": "2026-10-09",
       "evidence": "Owner supplied published listing URL; price unverified."
     }
   ]

@@ -5672,5 +5672,59 @@
     "free": false,
     "tptObservedAt": "2026-10-08",
     "price": "6.00"
+  },
+  {
+    "id": "year-1-english-text-purpose-structure-worksheets",
+    "title": "Year 1 English Text Purpose & Structure Worksheets | AC9E1LA03 | VIC VC2E1LA03",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "english",
+    "subjectLabel": "English",
+    "topics": [
+      "text purpose",
+      "text structure",
+      "recounts",
+      "stories",
+      "opinions",
+      "information",
+      "reports",
+      "explanations",
+      "reading comprehension",
+      "homeschool",
+      "practice",
+      "test"
+    ],
+    "curriculumCodes": [
+      "AC9E1LA03"
+    ],
+    "description": "A 58-page Year 1 English printable pack exploring text purpose and structure through 60 practice questions, a separate 15-question test, illustrated concepts, short familiar texts, teacher guidance and complete answer keys.",
+    "url": "/products/year-1-english-text-purpose-structure-worksheets/",
+    "image": "/assets/year-1-english-text-purpose-structure-worksheets-cover.png",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "worksheet",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-English-Text-Purpose-Structure-Worksheets-AC9E1LA03-VIC-VC2E1LA03-17889508",
+    "tptResourceType": "PDF",
+    "isBundle": false,
+    "free": false,
+    "format": "A4 flattened printable PDF",
+    "includes": [
+      "60 practice questions: 10 in each of six teaching focuses",
+      "Six focuses: recounts, stories, opinions, information texts, reports and explanations",
+      "A separate 15-question test with fresh texts and scenarios",
+      "Four illustrated concept pages, short instructions and scaffolded responses",
+      "Five additional vocabulary/dictation items with teacher sentences",
+      "Teacher/parent guide, read-aloud support and complete answer keys",
+      "58-page A4 flattened printable PDF with black-and-white student activities",
+      "Curriculum planning: Australian Curriculum AC9E1LA03; VIC Level 1 VC2E1LA03",
+      "NSW Stage 1 related outcomes EN1-CWT-01 and EN1-RECOM-01: supports relevant skills, not complete outcome coverage",
+      "QLD: AC9E1LA03 (QCAA Australian Curriculum v9); SA: AC9E1LA03 Australian Curriculum reference for local planning"
+    ],
+    "practiceQuestions": 60,
+    "testQuestions": 15,
+    "totalQuestions": 75,
+    "pageCount": 58,
+    "listingConfirmedAt": "2026-10-09",
+    "listingEvidence": "Owner supplied the published TPT URL; contents verified from the reviewed final workbook. Current price not independently retrieved."
   }
 ]

@@ -1,8 +1,8 @@
 {
   "observedAt": "2026-10-07",
   "storefront": "https://www.teacherspayteachers.com/store/skillrhub",
-  "observedProductCount": 125,
-  "codeCount": 102,
+  "observedProductCount": 126,
+  "codeCount": 103,
   "evidence": "All seven public store pages inspected. Existing catalogue names and code mappings retained; new listings copied from the live store. Prices and unsupported pack counts intentionally omitted.",
   "unmappedProductIds": [
     "17621276",
@@ -1151,6 +1151,16 @@
       ],
       "freeSample": false,
       "evidence": "Owner supplied published listing URL on 2026-10-08; reviewed workbook counts."
+    },
+    {
+      "productId": "17889508",
+      "name": "Year 1 English Text Purpose & Structure Worksheets | AC9E1LA03 | VIC VC2E1LA03",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-English-Text-Purpose-Structure-Worksheets-AC9E1LA03-VIC-VC2E1LA03-17889508",
+      "curriculumCodes": [
+        "AC9E1LA03"
+      ],
+      "freeSample": false,
+      "evidence": "Owner supplied published listing URL on 2026-10-09; reviewed workbook counts."
     }
   ],
   "codes": [
@@ -2926,6 +2936,23 @@
       },
       "productIds": [
         "17840189"
+      ]
+    },
+    {
+      "code": "AC9E1LA03",
+      "year": "Year 1",
+      "subject": "English",
+      "strand": "Language",
+      "descriptor": "explore how texts are organised according to their purpose, such as to recount, narrate, express opinion, inform, report and explain",
+      "topicUrl": "https://skillrhub.com/year1/english/ac9e1la03-how-texts-are-organised-according-to-their-purpose-such-as/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-1/english/ac9e1la03/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-1/english/ac9e1la03/practice/",
+        "Test": "https://skillrhub.com/quiz/year-1/english/ac9e1la03/test/",
+        "Classroom View": "https://skillrhub.com/year1/english/ac9e1la03-how-texts-are-organised-according-to-their-purpose-such-as/teacher-slides/"
+      },
+      "productIds": [
+        "17889508"
       ]
     }
   ]
