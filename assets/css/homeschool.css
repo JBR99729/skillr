@@ -1,5 +1,5 @@
 .homeschool-page {
-  background: #f6f8fc;
+  background: var(--site-page, #f8faf9);
 }
 
 .homeschool-container {
@@ -88,9 +88,9 @@
   display: block;
   min-height: 118px;
   padding: 14px;
-  border: 1px solid #d8e2ef;
+  border: 1px solid var(--site-line, #dce5e9);
   border-radius: 12px;
-  background: #fbfdff;
+  background: var(--site-page, #f8faf9);
   color: var(--ux-ink);
   text-decoration: none;
 }
@@ -212,7 +212,7 @@
   display: grid;
   place-items: center;
   padding: 8px;
-  border: 1px solid #d8e2ef;
+  border: 1px solid var(--site-line, #dce5e9);
   border-radius: 10px;
   background: #fff;
 }
@@ -256,7 +256,7 @@
   width: 100%;
   min-height: 40px;
   padding: 8px 10px;
-  border: 1px solid #c8d5e7;
+  border: 1px solid var(--site-line, #dce5e9);
   border-radius: 10px;
   background: #fff;
   color: var(--ux-ink);
@@ -271,7 +271,7 @@
   margin: 10px 0;
   padding: 10px 12px;
   border-radius: 12px;
-  background: #f7faff;
+  background: var(--site-soft, #eff6f2);
   color: var(--ux-muted);
 }
 
@@ -281,7 +281,7 @@
 
 .homeschool-table-wrap {
   overflow-x: auto;
-  border: 1px solid #dce5f1;
+  border: 1px solid var(--site-line, #dce5e9);
   border-radius: 12px;
 }
 
@@ -295,13 +295,13 @@
 .homeschool-table th,
 .homeschool-table td {
   padding: 10px;
-  border-bottom: 1px solid #e8eef7;
+  border-bottom: 1px solid var(--site-line, #dce5e9);
   text-align: left;
   vertical-align: top;
 }
 
 .homeschool-table th {
-  background: #f7faff;
+  background: var(--site-soft, #eff6f2);
   color: var(--ux-ink);
   font-size: 0.9rem;
 }
