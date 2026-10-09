@@ -74,6 +74,20 @@ body.topic-learning-page {
 .topic-learning-page .curriculum-detail-body > :first-child { margin-top: 0; }
 .topic-learning-page .curriculum-detail-body > :last-child { margin-bottom: 0; }
 .topic-learning-page .lesson-model, .topic-learning-page .curriculum-table-wrap { max-width: 100%; overflow-x: auto; }
+.topic-model { margin: 20px 0; padding: 16px; background: #f8fbf9; border: 1px solid var(--topic-line); border-radius: 10px; }
+.topic-model svg, .topic-model img { display: block; width: 100%; height: auto; }
+.topic-model figcaption { margin-top: 10px; font-size: .85rem; color: var(--topic-muted); }
+.topic-representation-row { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; margin: 20px 0; }
+.topic-representation-row > span { padding: 14px 10px; border: 1px solid var(--topic-line); border-radius: 8px; background: #f5faf7; text-align: center; }
+.topic-representation-row strong { display: block; font-size: 1.12rem; color: var(--topic-ink); }
+.topic-representation-row small { display: block; margin-top: 5px; font-size: .78rem; color: var(--topic-muted); }
+.topic-try { background: #eff6f2; border-left: 3px solid var(--topic-teal); padding: 14px 16px; }
+.topic-answer { margin-top: 16px; border: 1px solid var(--topic-line); border-radius: 8px; padding: 12px 16px; }
+.topic-answer summary { cursor: pointer; color: var(--topic-teal); font-weight: 700; }
+.topic-number-chart { display: grid; grid-template-columns: repeat(10,minmax(0,1fr)); border-top: 1px solid #c7d9d0; border-left: 1px solid #c7d9d0; margin: 20px 0; background: #fff; }
+.topic-number-chart > span { text-align: center; padding: 6px 0; font-size: .87rem; border-right: 1px solid #c7d9d0; border-bottom: 1px solid #c7d9d0; color: var(--topic-ink); }
+.topic-number-chart > .topic-number-chart__highlight { background: #12695f; color: white; font-weight: 750; }
+.topic-adult-note { font-size: .85rem; color: var(--topic-muted); margin-top: 24px; }
 .topic-learning-page .year1-visual-lesson figure { background: #fafcfb; padding: 18px; border-color: var(--topic-line); }
 .topic-learning-page .year1-visual-lesson figcaption { font-size: .8rem; color: var(--topic-muted); }
 .topic-learning-page .skillr-learning-strands { margin: 0; padding: 0; border: 0; box-shadow: none; background: none; }
@@ -128,6 +142,8 @@ body.topic-learning-page {
   .topic-pack { padding: 20px; }
   .topic-learning-page .curriculum-topic-section > summary { padding: 16px; }
   .topic-learning-page .curriculum-detail-body { padding: 16px; }
+  .topic-representation-row { grid-template-columns: 1fr; }
+  .topic-number-chart > span { font-size: .7rem; padding-block: 6px; }
 }
 @media print {
   .topic-section-nav, .topic-pack, .topic-hero__actions, .topic-bundle-strip, .topic-lesson-cta, .topic-record, .topic-footer { display: none !important; }
