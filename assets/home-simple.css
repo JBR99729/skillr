@@ -65,3 +65,18 @@ body.home-page { --ux-blue:#12695f; --ux-ink:#17344b; --ux-muted:#506577; --ux-l
 .home-page .home-journey-steps small { color:#506577; font-size:.7rem; margin-top:5px; line-height:1.45; }
 .home-page .home-journey-audience { font-size:.75rem; color:#506577; line-height:1.5; border-top:1px solid #d4e4da; padding-top:12px; margin:16px 0 0; }
 @media(max-width:800px) { .home-page .home-hero { grid-template-columns:1fr; gap:24px; } .home-page .home-journey { padding:20px; } }
+
+/* Show real contents before the external checkout. */
+.home-samples{scroll-margin-top:90px;padding:26px 0 30px;margin:0 0 28px;border-bottom:1px solid #dce5e9}
+.home-samples h2{font-size:clamp(23px,3vw,30px);color:#17344b;margin:0 0 12px;line-height:1.25}
+.home-samples>p{max-width:850px;font-size:15px;line-height:1.6;color:#506577}
+.home-sample-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:18px;margin:22px 0 12px}
+.home-sample-grid figure{margin:0;min-width:0}
+.home-sample-grid a{display:block;border:1px solid #d4e4da;border-radius:8px;overflow:hidden;background:white}
+.home-sample-grid img{display:block;width:100%;height:auto}
+.home-sample-grid figcaption{padding:12px 2px;line-height:1.5;font-size:13px}
+.home-sample-grid strong{display:block;color:#17344b;font-size:15px;margin-bottom:4px}
+.home-sample-grid span{color:#506577}
+.home-samples .home-sample-note{font-size:13px}
+@media(max-width:800px){.home-sample-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}}
+@media(max-width:480px){.home-samples{padding-top:18px}.home-sample-grid{gap:12px}.home-samples .home-actions{flex-direction:column;align-items:stretch}}

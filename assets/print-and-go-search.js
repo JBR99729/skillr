@@ -178,7 +178,7 @@
     pagination.hidden = true;
     browse.hidden = true;
     if (!query && !section.dataset.showAll) { status.textContent = ''; return; }
-    if (failed) { status.textContent = 'Search is unavailable. Please browse the categories below or reload to try again.'; return; }
+    if (failed) { browse.hidden = false; status.textContent = 'Search is unavailable. Please browse the categories below or reload to try again.'; return; }
     if (!products) { status.textContent = isSlides ? 'Loading teaching slides...' : 'Loading printables...'; return; }
     const filters = currentFilters();
     if (!activeTag || activeTag === 'all') {
