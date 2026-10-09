@@ -1,7 +1,7 @@
 {
   "auditedAt": "2026-10-08",
   "storefront": "https://www.teacherspayteachers.com/store/skillrhub",
-  "activeProductCount": 162,
+  "activeProductCount": 163,
   "products": [
     {
       "productId": "17870172",
@@ -1783,6 +1783,18 @@
       "title": "Year 1 English Simple Sentence Worksheets | AC9E1LA06 | VIC VC2E1LA06",
       "url": "https://www.teacherspayteachers.com/Product/Year-1-English-Simple-Sentence-Worksheets-AC9E1LA06-VIC-VC2E1LA06-17890741",
       "image": "/assets/year-1-english-simple-sentence-worksheets-cover.png",
+      "isBundle": false,
+      "free": false,
+      "price": null,
+      "regularPrice": null,
+      "observedAt": "2026-10-09",
+      "listingEvidence": "Owner supplied published TPT URL; price unverified."
+    },
+    {
+      "productId": "17891006",
+      "title": "Year 1 Grammar Worksheets | Nouns, Pronouns, Verbs, Adjectives & Adverbs | AC9E1LA07",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Grammar-Worksheets-Nouns-Pronouns-Verbs-AdjectivesAdverbsAC9E1LA07-17891006",
+      "image": "/assets/year-1-grammar-worksheets-parts-of-speech-cover.png",
       "isBundle": false,
       "free": false,
       "price": null,

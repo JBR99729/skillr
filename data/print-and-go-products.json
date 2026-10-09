@@ -5895,5 +5895,62 @@
     "listingConfirmedAt": "2026-10-09",
     "listingEvidence": "Owner supplied published TPT listing URL; contents verified from reviewed workbook, current price unverified.",
     "seoTitle": "Year 1 Simple Sentence Worksheets | SkillrHub"
+  },
+  {
+    "id": "year-1-grammar-worksheets-parts-of-speech",
+    "title": "Year 1 Grammar Worksheets | Nouns, Pronouns, Verbs, Adjectives & Adverbs | AC9E1LA07",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "english",
+    "subjectLabel": "English",
+    "topics": [
+      "grammar",
+      "parts of speech",
+      "nouns",
+      "pronouns",
+      "verbs",
+      "adjectives",
+      "adverbs",
+      "word jobs",
+      "when where how",
+      "precise word choices",
+      "homeschool",
+      "practice",
+      "test"
+    ],
+    "curriculumCodes": [
+      "AC9E1LA07"
+    ],
+    "description": "A 59-page Year 1 English printable pack with 60 practice questions, a separate 15-question test, illustrated word-job concepts, teacher guidance and complete answers.",
+    "url": "/products/year-1-grammar-worksheets-parts-of-speech/",
+    "image": "/assets/year-1-grammar-worksheets-parts-of-speech-cover.png",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "worksheet",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Grammar-Worksheets-Nouns-Pronouns-Verbs-AdjectivesAdverbsAC9E1LA07-17891006",
+    "tptResourceType": "PDF",
+    "isBundle": false,
+    "free": false,
+    "format": "A4 flattened printable PDF",
+    "includes": [
+      "60 practice questions: 10 in each of six teaching focuses",
+      "Six focuses: nouns, pronouns, verbs, adjectives, adverbs/details and making sentences more specific",
+      "A separate 15-question test with fresh contexts and complete answer keys",
+      "Four illustrated concept pages and completed Practice examples",
+      "Five additional vocabulary/dictation items with matching teacher sentences",
+      "Teacher/parent guidance, flexible response options and exact print index",
+      "59-page A4 flattened printable PDF with clean black-and-white student pages",
+      "Australian Curriculum v9 Year 1 AC9E1LA07",
+      "VIC Level 1 VC2E1LA07: shared noun/pronoun/verb/adjective/adverb components; additional prepositions not separately assessed",
+      "NSW Stage 1 EN1-VOCAB-01 and EN1-CWT-01: related vocabulary and sentence-composition skills, not complete outcome coverage",
+      "QLD: AC9E1LA07 (QCAA); SA: AC9E1LA07 national reference for locally adapted planning"
+    ],
+    "practiceQuestions": 60,
+    "testQuestions": 15,
+    "totalQuestions": 75,
+    "pageCount": 59,
+    "listingConfirmedAt": "2026-10-09",
+    "listingEvidence": "Owner supplied published TPT listing URL; contents verified from reviewed workbook, current price unverified.",
+    "seoTitle": "Year 1 Grammar & Parts of Speech Worksheets | SkillrHub"
   }
 ]
