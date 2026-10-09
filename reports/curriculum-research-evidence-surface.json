@@ -10,10 +10,9 @@
     {
       "code": "AC9E1LA01",
       "page": "year1/english/ac9e1la01-how-language-facial-expressions-and-gestures-are-used-to/index.html",
-      "source_records": 4,
+      "source_records": 3,
       "evidence_types": [
         "Checked against curriculum source material",
-        "Reviewed for curriculum alignment",
         "Practice and assessment coverage reviewed"
       ],
       "sample_records": [
@@ -25,10 +24,9 @@
     {
       "code": "AC9E1LA02",
       "page": "year1/english/ac9e1la02-language-to-provide-reasons-for-likes-dislikes-and-preferences/index.html",
-      "source_records": 4,
+      "source_records": 3,
       "evidence_types": [
         "Checked against curriculum source material",
-        "Reviewed for curriculum alignment",
         "Practice and assessment coverage reviewed"
       ],
       "sample_records": [
@@ -40,10 +38,9 @@
     {
       "code": "AC9E1LA03",
       "page": "year1/english/ac9e1la03-how-texts-are-organised-according-to-their-purpose-such-as/index.html",
-      "source_records": 4,
+      "source_records": 3,
       "evidence_types": [
         "Checked against curriculum source material",
-        "Reviewed for curriculum alignment",
         "Practice and assessment coverage reviewed"
       ],
       "sample_records": [
@@ -55,10 +52,9 @@
     {
       "code": "AC9E1LA04",
       "page": "year1/english/ac9e1la04-how-repetition-rhyme-and-rhythm-create-cohesion-in-simple-poems/index.html",
-      "source_records": 4,
+      "source_records": 3,
       "evidence_types": [
         "Checked against curriculum source material",
-        "Reviewed for curriculum alignment",
         "Practice and assessment coverage reviewed"
       ],
       "sample_records": [
@@ -70,10 +66,9 @@
     {
       "code": "AC9E1LA05",
       "page": "year1/english/ac9e1la05-how-print-and-screen-texts-are-organised-using-features-such/index.html",
-      "source_records": 4,
+      "source_records": 3,
       "evidence_types": [
         "Checked against curriculum source material",
-        "Reviewed for curriculum alignment",
         "Practice and assessment coverage reviewed"
       ],
       "sample_records": [
@@ -85,10 +80,9 @@
     {
       "code": "AC9E1LA06",
       "page": "year1/english/ac9e1la06-that-a-simple-sentence-consists-of-a-single-independent-clause/index.html",
-      "source_records": 4,
+      "source_records": 3,
       "evidence_types": [
         "Checked against curriculum source material",
-        "Reviewed for curriculum alignment",
         "Practice and assessment coverage reviewed"
       ],
       "sample_records": [
@@ -100,16 +94,14 @@
     {
       "code": "AC9E1LA07",
       "page": "year1/english/ac9e1la07-that-words-can-represent-people-places-and-things-nouns/index.html",
-      "source_records": 3,
+      "source_records": 2,
       "evidence_types": [
         "Checked against curriculum source material",
-        "Reviewed for curriculum alignment",
         "Practice and assessment coverage reviewed"
       ],
       "sample_records": [
         "Year1_English_Curriculum_Research_Master.txt",
-        "reports/f10-revision-card-coverage.json",
-        "reports/year1-english-topic-refresh/independent-review.md"
+        "reports/f10-revision-card-coverage.json"
       ]
     }
   ],
