@@ -67,3 +67,14 @@ body.year1-learning-hub { --hub-ink:#17344b; --hub-muted:#506577; --hub-teal:#12
 @media(max-width:650px) { .hub-header nav { padding:10px 16px; } .hub-header nav>div { gap:12px; font-size:.76rem; } .hub-brand { font-size:1rem; } .hub-page { padding:14px 16px 24px; } .hub-hero { grid-template-columns:1fr; gap:20px; padding:20px; } .hub-subject-grid,.hub-topic-grid,.hub-routine { grid-template-columns:1fr; } .hub-subject { padding:20px; } .hub-subject>p:not(.hub-eyebrow) { margin-bottom:12px; } .hub-routine { gap:14px; } .hub-hero h1 { font-size:2rem; } .hub-offer { padding:18px; } .hub-group>header { align-items:start; } .hub-topic { padding:16px; } }
 @media(max-width:360px) { .hub-header nav { gap:8px; padding-inline:12px; } .hub-brand img { width:26px; height:26px; } .hub-brand { gap:6px; } .hub-header nav>div { gap:8px; font-size:.7rem; } .hub-page { padding-inline:12px; } .hub-hero { padding:16px; } .hub-hero h1 { font-size:1.8rem; } }
 @media print { .hub-header,.hub-jumps,.hub-offer,.hub-topic__actions,.hub-more,.hub-footer { display:none; } .hub-hero { display:block; } .hub-topic-grid { grid-template-columns:repeat(2,1fr); } }
+/* Neutralise legacy mobile nav stacking on these opt-in hubs. */
+.year1-learning-hub .hub-header nav { flex-direction:row; flex-wrap:nowrap; }
+.year1-learning-hub .hub-header nav a { width:auto; margin:0; flex-shrink:0; }
+.year1-learning-hub .hub-header nav>div { flex-direction:row; flex-wrap:nowrap; }
+.year1-learning-hub .hub-breadcrumb { flex-direction:row; justify-content:flex-start; align-items:center; flex-wrap:wrap; padding:0; }
+.year1-learning-hub .hub-breadcrumb a { width:auto; margin:0; padding:0; }
+.year1-learning-hub .hub-breadcrumb span { margin:0; padding:0; }
+.year1-learning-hub .hub-header nav a { padding:0; }
+.year1-learning-hub .hub-header .hub-brand { display:inline-flex; }
+.year1-learning-hub .hub-header nav>div a { font-size:inherit; }
+.year1-learning-hub .hub-header nav>div a { flex-shrink:1; min-width:0; }

@@ -169,3 +169,10 @@ body.topic-learning-page {
 .topic-custom-packs { max-width:900px; margin:30px auto 0; padding:18px 0; border-top:1px solid var(--topic-line); color:var(--topic-muted); font-size:.85rem; }
 .topic-custom-packs p { margin:0; }
 .topic-custom-packs a { color:var(--topic-teal); }
+
+/* Existing topic videos play in the page without autoplay or a client lesson renderer. */
+.topic-video-player { margin:12px 0; border:1px solid var(--topic-line); border-radius:8px; overflow:hidden; background:#fff; }
+.topic-video-player > summary { padding:14px 16px; min-height:48px; cursor:pointer; font-size:.9rem; font-weight:700; color:var(--topic-teal); }
+.topic-video-frame { position:relative; aspect-ratio:16 / 9; width:100%; background:#17344b; }
+.topic-video-frame iframe { display:block; width:100%; height:100%; border:0; }
+@media print { .topic-video-player { display:none; } }
