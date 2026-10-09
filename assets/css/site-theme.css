@@ -1,0 +1,15 @@
+/* SkillrHub brand foundation, shared by public page shells and activity controls.
+   Subject keys, assessment feedback and fixed teaching artwork keep their meaning. */
+:root {
+  --site-ink: #17344b;
+  --site-muted: #506577;
+  --site-primary: #12695f;
+  --site-primary-hover: #0d5149;
+  --site-line: #dce5e9;
+  --site-soft: #eff6f2;
+  --site-page: #f8faf9;
+  --site-panel: #ffffff;
+  --site-focus: #b86b0c;
+  --site-font: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --site-control-radius: 9px;
+}

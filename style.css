@@ -1,3 +1,4 @@
+@import url("/assets/css/site-theme.css?v=20261009-1");
 /* =========================================================
    Skillr Education - Main Stylesheet
    Supports both table pages and blog-style topic pages.
@@ -13,9 +14,9 @@ html {
 
 body {
     margin: 0;
-    background: linear-gradient(180deg, #f4f7fb 0%, #eef4fb 100%);
-    color: #222;
-    font-family: "Segoe UI", Arial, Helvetica, sans-serif;
+    background: var(--site-page);
+    color: var(--site-ink);
+    font-family: var(--site-font);
     line-height: 1.6;
 }
 
@@ -56,8 +57,8 @@ nav a {
 
 .main-nav a:hover,
 nav a:hover {
-    background: #eef4ff;
-    color: #2457d6;
+    background: var(--site-soft);
+    color: var(--site-primary);
     text-decoration: none;
     transform: translateY(-1px);
 }
@@ -111,7 +112,7 @@ h3 {
 .page-hero {
     margin: 18px 0 24px;
     padding: 16px 18px;
-    border-left: 4px solid #1a3a72;
+    border-left: 4px solid var(--site-ink);
     border-radius: 8px;
     background: #f7faff;
 }
@@ -137,7 +138,7 @@ h3 {
 .page-hero h2 {
     margin: 0 0 6px;
     font-size: 1.08rem;
-    color: #1a3a72;
+    color: var(--site-ink);
 }
 
 .page-hero p {
@@ -156,7 +157,7 @@ h3 {
 .page-guide h2 {
     margin: 0 0 8px;
     font-size: 1.05rem;
-    color: #1a3a72;
+    color: var(--site-ink);
 }
 
 .page-guide ul {
@@ -180,7 +181,7 @@ h3 {
 .topic-progression h2 {
     margin: 0 0 8px;
     font-size: 1.02rem;
-    color: #1a3a72;
+    color: var(--site-ink);
 }
 
 .topic-progression p {
@@ -199,7 +200,7 @@ h3 {
     padding: 6px 10px;
     border-radius: 999px;
     background: #f2f7ff;
-    color: #1a3a72;
+    color: var(--site-ink);
     text-decoration: none;
     font-size: 0.92rem;
     font-weight: 600;
@@ -223,7 +224,7 @@ h3 {
     margin-bottom: 6px;
     padding: 2px 8px;
     border-radius: 999px;
-    background: #eef4ff;
+    background: var(--site-soft);
     color: #355b99;
     font-size: 0.72rem;
     font-weight: 700;
@@ -251,7 +252,7 @@ h3 {
 }
 
 .site-notice a {
-    color: #1a3a72;
+    color: var(--site-ink);
     font-weight: 600;
 }
 
@@ -367,7 +368,7 @@ footer .site-notice {
     margin: 0;
     font-size: 0.9rem;
     font-weight: 700;
-    color: #2457d6;
+    color: var(--site-primary);
 }
 
 .testimonial-cta {
@@ -531,7 +532,7 @@ textarea {
     border: 1px solid #222;
     border-radius: 6px;
     background: #fff;
-    color: #222;
+    color: var(--site-ink);
     text-decoration: none;
     font-weight: bold;
     margin: 6px 6px 6px 0;
@@ -565,7 +566,7 @@ textarea {
     }
 
     .download-button:hover {
-        background: #1a3a72;
+        background: var(--site-ink);
         color: #fff;
     }
 
@@ -639,7 +640,7 @@ textarea {
 /* Download buttons */
 
 .button--guide {
-    background: #f4f7fb;
+    background: var(--site-page);
     border-color: #0f4c81;
     color: #0f4c81;
 }
@@ -773,7 +774,7 @@ textarea {
 
 .homepage-hero h2 {
     margin: 0 0 6px;
-    color: #1a3a72;
+    color: var(--site-ink);
 }
 
 .homepage-hero p {
@@ -809,7 +810,7 @@ textarea {
 
 .homepage-card h3 {
     margin: 0 0 6px;
-    color: #1a3a72;
+    color: var(--site-ink);
 }
 
 .homepage-links {
@@ -825,7 +826,7 @@ textarea {
     padding: 6px 8px;
     border-radius: 8px;
     background: #f7faff;
-    color: #1a3a72;
+    color: var(--site-ink);
     font-size: 0.86rem;
     font-weight: 700;
     text-decoration: none;
@@ -851,7 +852,7 @@ textarea {
 
 .brand-panel__copy h2 {
     margin: 0 0 8px;
-    color: #1a3a72;
+    color: var(--site-ink);
     font-size: clamp(1.2rem, 2.3vw, 1.55rem);
     line-height: 1.25;
     letter-spacing: -0.01em;
@@ -870,7 +871,7 @@ textarea {
     padding: 4px 9px;
     border-radius: 999px;
     background: #eaf2ff;
-    color: #2457d6;
+    color: var(--site-primary);
     font-size: 0.72rem;
     font-weight: 800;
     letter-spacing: 0.08em;
@@ -890,7 +891,7 @@ textarea {
     justify-content: center;
     min-height: 42px;
     padding: 9px 14px;
-    border: 1px solid #2457d6;
+    border: 1px solid var(--site-primary);
     border-radius: 8px;
     font-size: 0.86rem;
     font-weight: 800;
@@ -901,14 +902,14 @@ textarea {
 }
 
 .brand-panel__action--primary {
-    background: #2457d6;
+    background: var(--site-primary);
     color: #fff;
     box-shadow: 0 6px 14px rgba(36, 87, 214, 0.2);
 }
 
 .brand-panel__action--secondary {
     background: #fff;
-    color: #1a3a72;
+    color: var(--site-ink);
 }
 
 .brand-panel__action:hover,
@@ -926,7 +927,7 @@ textarea {
 .brand-panel__action--secondary:hover,
 .brand-panel__action--secondary:focus-visible {
     background: #eef5ff;
-    color: #1a3a72;
+    color: var(--site-ink);
 }
 
 .brand-panel__new-badge {
@@ -935,7 +936,7 @@ textarea {
     padding: 2px 6px;
     border-radius: 999px;
     background: #eaf0ff;
-    color: #2457d6;
+    color: var(--site-primary);
     font-size: 0.72rem;
     font-weight: 700;
     letter-spacing: 0.04em;
@@ -978,7 +979,7 @@ textarea {
 
 .resource-quickstart__intro h2 {
     margin: 0;
-    color: #1a3a72;
+    color: var(--site-ink);
 }
 
 .resource-quickstart__intro p {
@@ -1137,7 +1138,7 @@ textarea {
     min-width: 0;
     padding: 14px;
     border: 1px solid #dbe3f4;
-    border-top: 4px solid #2563eb;
+    border-top: 4px solid var(--site-primary);
     border-radius: 12px;
     background: #fff;
     box-shadow: 0 4px 12px rgba(30, 64, 175, 0.06);
@@ -1356,14 +1357,14 @@ textarea {
     flex-direction: column;
     min-width: 0;
     padding: 9px;
-    border: 1px solid #dbe5f2;
+    border: 1px solid var(--site-line);
     border-radius: 6px;
     background: #fff;
     box-shadow: none;
 }
 
 .year-learning-card--available {
-    --year-card-accent: #2457d6;
+    --year-card-accent: var(--site-primary);
     --year-card-hover: #1d4ed8;
     border-top: 2px solid var(--year-card-accent);
 }
@@ -1379,7 +1380,7 @@ textarea {
 }
 
 .year-learning-card--available:nth-child(3n + 1) {
-    --year-card-accent: #2457d6;
+    --year-card-accent: var(--site-primary);
     --year-card-hover: #1d4ed8;
 }
 
@@ -1400,7 +1401,7 @@ textarea {
     border: 1px solid #d7e2f0;
     border-radius: 6px;
     background: #f8fafc;
-    color: var(--year-card-accent, #2457d6);
+    color: var(--year-card-accent, var(--site-primary));
     font-size: 1rem;
     font-weight: 900;
     line-height: 1;
@@ -1428,7 +1429,7 @@ textarea {
 }
 
 .year-learning-card__subjects a {
-    color: var(--year-card-accent, #2457d6);
+    color: var(--year-card-accent, var(--site-primary));
     text-decoration: none;
 }
 
@@ -1476,7 +1477,7 @@ textarea {
 .worksheet-column h3 {
     margin-top: 0;
     margin-bottom: 4px;
-    color: #1a3a72;
+    color: var(--site-ink);
     font-size: 0.84rem;
     line-height: 1.25;
 }
@@ -1506,7 +1507,7 @@ textarea {
     padding: 5px 8px;
     border: 1px solid #cfe0f7;
     border-radius: 8px;
-    background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
+    background: linear-gradient(135deg, var(--site-primary) 0%, #1d4ed8 100%);
     color: #fff;
     font-size: 0.72rem;
     font-weight: 700;
@@ -1527,7 +1528,7 @@ textarea {
 .worksheet-column h2 {
     margin-top: 0;
     margin-bottom: 5px;
-    color: #1a3a72;
+    color: var(--site-ink);
     font-size: 0.92rem;
     line-height: 1.25;
 }
@@ -1538,7 +1539,7 @@ textarea {
     height: 3px;
     margin-top: 8px;
     border-radius: 2px;
-    background: #1a3a72;
+    background: var(--site-ink);
     content: "";
 }
 
@@ -1600,7 +1601,7 @@ footer {
     padding: 0;
     border: 0;
     border-radius: 50%;
-    background: linear-gradient(135deg, #2457d6 0%, #1c3fa8 100%);
+    background: linear-gradient(135deg, var(--site-primary) 0%, #1c3fa8 100%);
     color: #fff;
     box-shadow: 0 12px 28px rgba(36, 87, 214, 0.28);
     text-decoration: none;
@@ -1653,8 +1654,8 @@ footer {
 }
 
 .install-confirmation-modal__button--primary {
-    border-color: #2457d6;
-    background: #2457d6;
+    border-color: var(--site-primary);
+    background: var(--site-primary);
     color: #fff;
 }
 
@@ -1709,7 +1710,7 @@ footer {
     gap: 8px;
     border: 1px solid #b9cdf8;
     border-radius: 999px;
-    background: linear-gradient(135deg, #1a3a72 0%, #2457d6 100%);
+    background: linear-gradient(135deg, var(--site-ink) 0%, var(--site-primary) 100%);
     box-shadow: 0 10px 24px rgba(26, 58, 114, 0.22);
     font-weight: 800;
 }
@@ -1763,7 +1764,7 @@ footer {
     border: 2px solid #dce7f2;
     border-radius: 50%;
     background: #fff;
-    color: #1f2937;
+    color: var(--site-ink);
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.16);
     text-decoration: none;
 }
@@ -2098,7 +2099,7 @@ footer {
     --slate-600: #475569;
     --slate-200: #e2e8f0;
     --slate-50: #f8fafc;
-    --maths: #2563eb;
+    --maths: var(--site-primary);
     --science: #059669;
     --english: #7c3aed;
     padding-top: 64px;
@@ -2565,7 +2566,7 @@ footer {
     text-decoration:none;
     cursor:pointer;
 }
-.home-hero-action-card .skillr-ui-icon { width:22px; height:22px; color:#2457d6; }
+.home-hero-action-card .skillr-ui-icon { width:22px; height:22px; color:var(--site-primary); }
 .home-hero-action-card strong,.home-hero-action-card small { display:block; min-width:0; }
 .home-hero-action-card strong { font-size:.78rem; line-height:1.2; }
 .home-hero-action-card small { margin-top:3px; color:#748297; font-size:.65rem; line-height:1.3; overflow-wrap:anywhere; }
@@ -2769,7 +2770,7 @@ footer {
 .about-section h2,
 .about-privacy-callout h2,
 .about-cta h2 {
-    color: #172033;
+    color: var(--site-ink);
     letter-spacing: -0.025em;
 }
 .about-hero h1 {
@@ -2803,7 +2804,7 @@ footer {
     text-decoration: none;
 }
 .about-button--primary {
-    background: #2457d6;
+    background: var(--site-primary);
     color: #fff;
 }
 .about-button--primary:hover {
@@ -2818,7 +2819,7 @@ footer {
 .about-button--secondary:hover {
     border-color: #7f9dcc;
     background: #f7faff;
-    color: #173968;
+    color: var(--site-ink);
 }
 .about-section {
     padding: clamp(4px, 1vw, 10px) 0;
@@ -3148,7 +3149,7 @@ footer {
 }
 
 .curriculum-subject-card--mathematics {
-    border-left-color: #2563eb;
+    border-left-color: var(--site-primary);
 }
 
 .curriculum-subject-card--science {
@@ -3208,7 +3209,7 @@ footer {
 
     .curriculum-year-row__title:hover,
     .curriculum-year-row__drill:hover {
-        color: #2563eb;
+        color: var(--site-primary);
         text-decoration: underline;
         transform: none;
     }
@@ -3316,7 +3317,7 @@ footer {
 }
 
 .curriculum-stage__header:focus-visible {
-    outline: 3px solid #2563eb;
+    outline: 3px solid var(--site-primary);
     outline-offset: -3px;
 }
 
@@ -3371,7 +3372,7 @@ footer {
 
 .home-page .footer-nav a:hover,
 .home-page .footer-nav a:focus-visible {
-    color: #2563eb;
+    color: var(--site-primary);
     text-decoration-color: currentColor;
     transform: none;
 }
@@ -3407,7 +3408,7 @@ footer {
     padding: 12px 16px;
     align-items: center;
     border: 1px solid #bfdbfe;
-    border-left: 4px solid #2563eb;
+    border-left: 4px solid var(--site-primary);
     border-radius: 8px;
     background: #eff6ff;
     color: #0f172a;
@@ -3452,7 +3453,7 @@ footer {
 }
 
 .learning-pathway__dashboard:focus-visible {
-    outline: 3px solid #2563eb;
+    outline: 3px solid var(--site-primary);
     outline-offset: 3px;
 }
 
@@ -3486,7 +3487,7 @@ footer {
     background: #fff;
 }
 .home-subject-card--no-login { --subject-color: #059669; }
-.home-subject-card--questions { --subject-color: #2563eb; }
+.home-subject-card--questions { --subject-color: var(--site-primary); }
 .home-subject-card--questions .home-subject-card__mark { font-size: 0.6875rem; }
 .home-privacy-note {
     display: inline-flex;
@@ -3537,7 +3538,7 @@ footer {
 }
 .contact-hero h1 { margin: 2px 0 6px; color: #102a56; font-size: clamp(1.8rem, 3.2vw, 2.55rem); line-height: 1.08; }
 .contact-hero > p:last-child { max-width: 800px; margin: 0; color: #41536e; font-size: .98rem; line-height: 1.5; }
-.contact-eyebrow { margin: 0 0 5px; color: #2457d6; font-size: .75rem; font-weight: 900; letter-spacing: .1em; text-transform: uppercase; }
+.contact-eyebrow { margin: 0 0 5px; color: var(--site-primary); font-size: .75rem; font-weight: 900; letter-spacing: .1em; text-transform: uppercase; }
 .contact-layout { display: grid; grid-template-columns: minmax(0, 1.2fr) minmax(280px, .8fr); gap: 14px; align-items: stretch; }
 .contact-help-card,.contact-email-card,.contact-commitment { border: 1px solid #dae3ef; border-radius: 14px; background: #fff; box-shadow: 0 6px 18px rgba(29, 51, 84, .05); }
 .contact-email-card--primary { display: flex; gap: 14px; align-items: flex-start; padding: clamp(18px, 2.4vw, 24px); background: #fff9e9; border-color: #f2d58b; }
@@ -3553,7 +3554,7 @@ footer {
 .contact-help-card a > span:first-child { font-size: 1.08rem; }
 .contact-help-card a strong,.contact-help-card a small { display: block; }
 .contact-help-card a small { margin-top: 1px; color: #6b7a90; font-size: .78rem; line-height: 1.3; }
-.contact-help-card a:hover strong { color: #2457d6; }
+.contact-help-card a:hover strong { color: var(--site-primary); }
 .contact-commitment { margin-top: 14px; padding: 16px 18px 18px; }
 .contact-section-heading { text-align: center; }
 .contact-commitment-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 8px; }
@@ -3575,15 +3576,15 @@ footer {
 .blog-hero { max-width: 820px; margin: 18px auto 26px; text-align: center; }
 .blog-hero h1 { margin: 5px 0 12px; color: #142c50; font-size: clamp(2rem, 4.5vw, 3.4rem); line-height: 1.08; }
 .blog-hero > p:last-child { margin: 0; color: #5a6a81; font-size: 1.05rem; line-height: 1.65; }
-.blog-eyebrow { margin: 0 0 5px; color: #2457d6; font-size: .73rem; font-weight: 900; letter-spacing: .11em; text-transform: uppercase; }
-.blog-featured { display: grid; grid-template-columns: 90px minmax(0, 1fr); gap: 24px; align-items: center; padding: clamp(24px, 4vw, 40px); border: 1px solid #bdd1f7; border-radius: 22px; background: linear-gradient(135deg,#eef4ff,#f9fbff 60%,#edfbf5); box-shadow: 0 14px 38px rgba(36,87,214,.09); }
+.blog-eyebrow { margin: 0 0 5px; color: var(--site-primary); font-size: .73rem; font-weight: 900; letter-spacing: .11em; text-transform: uppercase; }
+.blog-featured { display: grid; grid-template-columns: 90px minmax(0, 1fr); gap: 24px; align-items: center; padding: clamp(24px, 4vw, 40px); border: 1px solid #bdd1f7; border-radius: 22px; background: linear-gradient(135deg,var(--site-soft),#f9fbff 60%,#edfbf5); box-shadow: 0 14px 38px rgba(36,87,214,.09); }
 .blog-featured__icon { display: grid; width: 84px; height: 84px; place-items: center; border-radius: 22px; background: #fff; box-shadow: 0 8px 22px rgba(27,61,130,.12); font-size: 2.5rem; }
 .blog-featured h2 { margin: 8px 0 10px; color: #142c50; font-size: clamp(1.45rem, 3vw, 2.15rem); }
 .blog-featured p { max-width: 760px; margin: 0 0 18px; color: #53647b; line-height: 1.6; }
-.blog-read-button { display: inline-block; padding: 10px 15px; border-radius: 10px; background: #2457d6; color: #fff; font-weight: 900; text-decoration: none; }
+.blog-read-button { display: inline-block; padding: 10px 15px; border-radius: 10px; background: var(--site-primary); color: #fff; font-weight: 900; text-decoration: none; }
 .blog-read-button:hover,.blog-read-button:focus-visible { background: #173f9e; }
 .blog-card__meta { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; color: #768399; font-size: .72rem; font-weight: 800; }
-.blog-category { padding: 4px 8px; border-radius: 999px; background: #eaf1ff; color: #2457d6; letter-spacing: .04em; text-transform: uppercase; }
+.blog-category { padding: 4px 8px; border-radius: 999px; background: var(--site-soft); color: var(--site-primary); letter-spacing: .04em; text-transform: uppercase; }
 .blog-category--privacy { background: #e7f8ef; color: #14734b; }
 .blog-category--science { background: #e7f8f7; color: #08756d; }
 .blog-category--tools { background: #fff1df; color: #985106; }
@@ -3597,13 +3598,13 @@ footer {
 .blog-card__icon { display: grid; width: 42px; height: 42px; flex: 0 0 42px; place-items: center; border-radius: 11px; background: #f3f6fb; font-size: 1.35rem; }
 .blog-card h3 { margin: 17px 0 9px; color: #203858; font-size: 1.15rem; line-height: 1.35; }
 .blog-card h3 a { color: inherit; text-decoration: none; }
-.blog-card h3 a:hover { color: #2457d6; }
+.blog-card h3 a:hover { color: var(--site-primary); }
 .blog-card p { margin: 0 0 16px; color: #627086; font-size: .9rem; line-height: 1.55; }
-.blog-card__link { margin-top: auto; color: #2457d6; font-size: .86rem; font-weight: 900; text-decoration: none; }
+.blog-card__link { margin-top: auto; color: var(--site-primary); font-size: .86rem; font-weight: 900; text-decoration: none; }
 .worksheet-directory { margin: 38px 0 16px; padding: 22px; border: 1px solid #dbe4ef; border-radius: 16px; background: #f8fafc; }
 .worksheet-directory__chips { display: flex; flex-wrap: wrap; gap: 10px; }
 .worksheet-directory__chips a { padding: 10px 13px; border: 1px solid #cdd9e8; border-radius: 999px; background: #fff; color: #2e4769; font-size: .85rem; font-weight: 800; text-decoration: none; }
-.worksheet-directory__chips a:hover,.worksheet-directory__chips a:focus-visible { border-color: #7fa3e8; background: #eef4ff; color: #2457d6; }
+.worksheet-directory__chips a:hover,.worksheet-directory__chips a:focus-visible { border-color: #7fa3e8; background: var(--site-soft); color: var(--site-primary); }
 @media (max-width: 720px) {
     .blog-grid { grid-template-columns: 1fr; }
     .blog-featured { grid-template-columns: 1fr; gap: 15px; }
@@ -3615,8 +3616,8 @@ footer {
 .about-share-callout > span { font-size: 1.55rem; }
 .about-share-callout strong { color: #1b355b; }
 .about-share-callout p { margin: 3px 0 0; color: #64748b; font-size: .84rem; }
-.about-share-callout button { padding: 10px 14px; border: 1px solid #9cb9ec; border-radius: 10px; background: #fff; color: #2457d6; font-weight: 900; cursor: pointer; }
-.about-share-callout button:hover,.about-share-callout button:focus-visible { background: #eaf1ff; }
+.about-share-callout button { padding: 10px 14px; border: 1px solid #9cb9ec; border-radius: 10px; background: #fff; color: var(--site-primary); font-weight: 900; cursor: pointer; }
+.about-share-callout button:hover,.about-share-callout button:focus-visible { background: var(--site-soft); }
 @media(max-width:620px){.about-share-callout{grid-template-columns:auto 1fr}.about-share-callout button{grid-column:1/-1;width:100%}}
 
 /* Cross-device responsive safeguards */
@@ -3821,7 +3822,7 @@ pre { overflow-x: auto; }
     line-height:1;
     cursor:pointer;
 }
-.skillr-utility-button:hover,.skillr-utility-button:focus-visible,.skillr-qr-trigger:hover,.skillr-qr-trigger:focus-visible { border-color:#7197df; background:#eef4ff; color:#173f9e; }
+.skillr-utility-button:hover,.skillr-utility-button:focus-visible,.skillr-qr-trigger:hover,.skillr-qr-trigger:focus-visible { border-color:#7197df; background:var(--site-soft); color:#173f9e; }
 .skillr-qr-trigger { margin:4px 6px 8px 0; border-color:#8cb3f0; }
 .skillr-qr-trigger .skillr-ui-icon { width:14px; height:14px; }
 
@@ -3835,7 +3836,7 @@ pre { overflow-x: auto; }
 .skillr-modal-close { display:grid; width:36px; height:36px; flex:0 0 36px; place-items:center; border:0; border-radius:50%; background:#edf2f8; color:#17335f; font-size:1.4rem; cursor:pointer; }
 .skillr-modal-actions { display:flex; flex-wrap:wrap; gap:8px; margin-top:15px; }
 .skillr-primary-action,.skillr-secondary-action { min-height:40px; padding:9px 13px; border-radius:10px; font:inherit; font-weight:800; cursor:pointer; }
-.skillr-primary-action { border:1px solid #2457d6; background:#2457d6; color:#fff; }
+.skillr-primary-action { border:1px solid var(--site-primary); background:var(--site-primary); color:#fff; }
 .skillr-secondary-action { border:1px solid #bfd0e8; background:#fff; color:#294466; }
 .skillr-timer-field { display:grid; gap:6px; font-weight:800; }
 .skillr-timer-field select { min-height:42px; padding:8px 10px; border:1px solid #cbd8ea; border-radius:10px; background:#fff; font:inherit; }
@@ -3848,11 +3849,11 @@ pre { overflow-x: auto; }
 .skillr-install-banner span { margin-top:3px; color:#5d6e85; font-size:.78rem; }
 .skillr-install-banner>div:last-child { display:flex; gap:7px; flex:0 0 auto; }
 .skillr-install-banner button { min-height:38px; padding:8px 11px; border-radius:9px; font:inherit; font-size:.78rem; font-weight:800; cursor:pointer; }
-.skillr-banner-install { border:0; background:#2457d6; color:#fff; }
+.skillr-banner-install { border:0; background:var(--site-primary); color:#fff; }
 .skillr-banner-dismiss { border:1px solid #c5d2e4; background:#fff; color:#41536e; }
 .skillr-qr-panel { width:min(620px,100%); }
 .skillr-qr-print-card { display:grid; justify-items:center; gap:7px; padding:18px; border:2px solid #17335f; border-radius:15px; text-align:center; }
-.skillr-qr-brand { margin:0!important; color:#2457d6!important; font-weight:900; letter-spacing:.08em; text-transform:uppercase; }
+.skillr-qr-brand { margin:0!important; color:var(--site-primary)!important; font-weight:900; letter-spacing:.08em; text-transform:uppercase; }
 .skillr-qr-print-card h3 { max-width:470px; margin:0; color:#17335f; font-size:1.05rem; overflow-wrap:anywhere; }
 .skillr-qr-image { display:grid; width:228px; min-height:228px; place-items:center; padding:4px; background:#fff; }
 .skillr-qr-image img,.skillr-qr-image canvas { width:220px!important; height:220px!important; }
@@ -3865,7 +3866,7 @@ pre { overflow-x: auto; }
 .features-hero h1 { max-width:850px; margin:4px 0 9px; color:#142c50; font-size:clamp(2rem,4vw,3.2rem); line-height:1.08; }
 .features-hero>p:last-of-type { max-width:800px; margin:0; color:#56677e; line-height:1.6; }
 .features-hero__actions,.actions { display:flex; flex-wrap:wrap; gap:9px; margin-top:16px; }
-.button-link,.actions a { display:inline-flex; min-height:40px; align-items:center; padding:9px 13px; border:1px solid #2457d6; border-radius:10px; background:#2457d6; color:#fff; font-weight:800; text-decoration:none; }
+.button-link,.actions a { display:inline-flex; min-height:40px; align-items:center; padding:9px 13px; border:1px solid var(--site-primary); border-radius:10px; background:var(--site-primary); color:#fff; font-weight:800; text-decoration:none; }
 .button-link--secondary,.actions a { border-color:#c3d1e6; background:#fff; color:#294466; }
 .features-summary-container { padding:22px; border:1px solid #dae3ef; border-radius:18px; background:#fff; }
 .features-summary-heading { max-width:820px; margin-bottom:15px; }
@@ -3956,7 +3957,7 @@ pre { overflow-x: auto; }
     box-shadow:0 12px 26px rgba(15,23,42,.08)!important;
 }
 .display-shell:has(.display-board) details[open] summary {
-    border-bottom:1px solid var(--line,#d7e3f2)!important;
+    border-bottom:1px solid var(--line,var(--site-line))!important;
 }
 .display-shell:has(.display-board) summary {
     font-size:clamp(21px,2.05vw,34px)!important;
@@ -4022,8 +4023,8 @@ pre { overflow-x: auto; }
         display:block;
         margin:1in auto;
         max-width:7in;
-        color:#173968;
-        font:700 14pt/1.45 "Segoe UI", Arial, Helvetica, sans-serif;
+        color:var(--site-ink);
+        font:700 14pt/1.45 var(--site-font);
     }
 }
 
@@ -4055,13 +4056,13 @@ pre { overflow-x: auto; }
     height:42px;
     place-items:center;
     border-radius:11px;
-    background:#eaf1ff;
-    color:#2457d6;
+    background:var(--site-soft);
+    color:var(--site-primary);
     font-weight:900;
 }
 .worksheet-year-grid strong,.worksheet-year-grid small { display:block; min-width:0; overflow-wrap:anywhere; }
 .worksheet-year-grid small { color:#6a778a; font-size:.75rem; line-height:1.35; }
-.worksheet-year-grid a:hover,.worksheet-year-grid a:focus-visible { border-color:#7fa3e8; background:#f5f8ff; transform:translateY(-1px); }
+.worksheet-year-grid a:hover,.worksheet-year-grid a:focus-visible { border-color:#7fa3e8; background:var(--site-soft); transform:translateY(-1px); }
 @media(max-width:820px){ .worksheet-year-grid { grid-template-columns:repeat(2,minmax(0,1fr)); } }
 @media(max-width:520px){ .worksheet-year-grid { grid-template-columns:1fr; } .worksheet-year-grid a { min-height:70px; } }
 .sitemap-hero { margin:24px 0 20px; padding:clamp(20px,4vw,36px); border:1px solid #c9d8ee; border-radius:18px; background:linear-gradient(135deg,#eef5ff 0%,#f8fbff 62%,#fff8e7 100%); }
@@ -4091,7 +4092,7 @@ pre { overflow-x: auto; }
 .worksheet-paper .match-grid p,
 .worksheet-paper .fill-template,
 .worksheet-paper .response-lines {
-    color: #203047 !important;
+    color: var(--site-ink) !important;
 }
 
 /* SkillrHub worksheet/homework landing polish. */
@@ -4130,7 +4131,7 @@ pre { overflow-x: auto; }
 .worksheet-note-card h3,
 .worksheet-sample-card h3,
 .worksheet-route-card h3 {
-  color: #173968;
+  color: var(--site-ink);
   margin-top: 0;
 }
 
@@ -4162,7 +4163,7 @@ pre { overflow-x: auto; }
 
 .worksheet-route li::before {
   align-items: center;
-  background: #2457d6;
+  background: var(--site-primary);
   border-radius: 999px;
   color: #ffffff;
   content: counter(worksheet-route);
@@ -4175,7 +4176,7 @@ pre { overflow-x: auto; }
 }
 
 .worksheet-route strong {
-  color: #173968;
+  color: var(--site-ink);
   display: block;
 }
 
@@ -4199,7 +4200,7 @@ pre { overflow-x: auto; }
 }
 
 .worksheet-faq summary {
-  color: #173968;
+  color: var(--site-ink);
   cursor: pointer;
   font-weight: 800;
 }
@@ -4238,3 +4239,10 @@ pre { overflow-x: auto; }
     width: 100%;
   }
 }
+
+/* Shared control treatment for legacy public pages. */
+.container { border-color: var(--site-line); border-radius: 10px; background: var(--site-panel); box-shadow: none; }
+.button, .button-link { border-color: var(--site-line); border-radius: var(--site-control-radius); color: var(--site-primary); }
+.button--quiz, .button-link.button--quiz, .button--worksheet { background: var(--site-primary); border-color: var(--site-primary); color: white; box-shadow: none; }
+.button--guide { background: white; border-color: var(--site-line); color: var(--site-primary); }
+@media (hover: hover) { .button--quiz:hover, .button-link.button--quiz:hover, .button--worksheet:hover { background: var(--site-primary-hover); color: white; } }

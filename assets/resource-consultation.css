@@ -1,3 +1,4 @@
+@import url("/assets/css/site-theme.css?v=20261009-1");
 /* Adult-facing resource consultation; isolated from teaching layouts. */
 .skillr-consultation{box-sizing:border-box;margin:2rem 0;padding:clamp(1.3rem,3vw,2rem);background:#f3f8fc;border:1px solid #cedce9;border-radius:18px;color:#19304a}
 .skillr-consultation h2{margin:.25rem 0 .8rem;line-height:1.2;font-size:clamp(1.5rem,3vw,2rem)}

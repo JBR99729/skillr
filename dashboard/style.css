@@ -1,6 +1,7 @@
-:root { --dash-blue:#2457d6; --dash-ink:#172033; --dash-muted:#667085; --dash-line:#d8e0ea; }
+@import url("/assets/css/site-theme.css?v=20261009-1");
+:root { --dash-blue:var(--site-primary); --dash-ink:var(--site-ink); --dash-muted:var(--site-muted); --dash-line:var(--site-line); }
 * { box-sizing:border-box; }
-body.progress-page { margin:0; color:var(--dash-ink); background:#f3f7fb; font-family:Arial,Helvetica,sans-serif; }
+body.progress-page { margin:0; color:var(--dash-ink); background:var(--site-page); font-family:var(--site-font); }
 .progress-shell { width:min(1120px,calc(100% - 32px)); margin:auto; padding:36px 0 60px; }
 .progress-header,.install-callout,.profile-card,.stat-card,.panel { background:#fff; border:1px solid var(--dash-line); border-radius:20px; }
 .progress-header { display:flex; align-items:center; justify-content:space-between; gap:24px; padding:28px 32px; }
@@ -16,7 +17,7 @@ body.progress-page { margin:0; color:var(--dash-ink); background:#f3f7fb; font-f
 .profile-card .profile-name-wrap>div { display:flex; gap:10px; }
 .profile-card input { flex:1; min-width:0; padding:12px 14px; border:1px solid var(--dash-line); border-radius:12px; font:inherit; }
 .profile-avatar-wrap { display:grid; justify-items:center; gap:6px; }
-.profile-avatar { width:74px; height:74px; display:grid; place-items:center; border-radius:50%; background:#eaf1ff center/cover no-repeat; font-size:2.3rem; border:3px solid #fff; box-shadow:0 0 0 2px #b9cdfd; }
+.profile-avatar { width:74px; height:74px; display:grid; place-items:center; border-radius:50%; background:var(--site-soft) center/cover no-repeat; font-size:2.3rem; border:3px solid #fff; box-shadow:0 0 0 2px #b9cdfd; }
 .avatar-change { padding:4px!important; color:var(--dash-blue)!important; background:transparent!important; font-size:.76rem; }
 .avatar-panel,.filter-card,.skill-summary { background:#fff; border:1px solid var(--dash-line); border-radius:20px; }
 .avatar-panel { margin-top:18px; padding:22px 24px; }
@@ -63,7 +64,7 @@ body.progress-page { margin:0; color:var(--dash-ink); background:#f3f7fb; font-f
 .stat-card { padding:22px; }
 .stat-card span,.stat-card small { display:block; color:var(--dash-muted); }
 .stat-card strong { display:block; margin:10px 0 6px; color:var(--dash-blue); font-size:2rem; }
-.stat-card--time { background:linear-gradient(135deg,#2457d6,#4380ec); color:#fff; }
+.stat-card--time { background:linear-gradient(135deg,var(--site-primary),#4380ec); color:#fff; }
 .stat-card--time span,.stat-card--time small,.stat-card--time strong { color:#fff; }
 .dashboard-grid { display:grid; grid-template-columns:1.35fr 1fr; gap:18px; margin-top:18px; }
 .panel { padding:24px; }
@@ -82,18 +83,18 @@ body.progress-page { margin:0; color:var(--dash-ink); background:#f3f7fb; font-f
 @media(max-width:480px){.ad-safe-zone{min-height:118px}.ad-safe-zone__space{min-height:76px}}
 @media print{
   @page{size:A4 portrait;margin:12mm}
-  body.progress-page{background:#fff!important;color:#172033!important}
+  body.progress-page{background:#fff!important;color:var(--site-ink)!important}
   .progress-shell{width:100%!important;margin:0!important;padding:0!important}
   .dashboard-nav,.progress-header-actions,.dashboard-quick-tools,.avatar-panel,.filter-controls,.backup-actions,.ad-safe-zone,.dashboard-privacy-note{display:none!important}
-  .progress-header,.stat-card,.skill-summary,.overall-result,.panel{break-inside:avoid;box-shadow:none!important;background:#fff!important;color:#172033!important}
-  .progress-header{padding:12px 0!important;border:0!important;border-bottom:2px solid #2457d6!important}
+  .progress-header,.stat-card,.skill-summary,.overall-result,.panel{break-inside:avoid;box-shadow:none!important;background:#fff!important;color:var(--site-ink)!important}
+  .progress-header{padding:12px 0!important;border:0!important;border-bottom:2px solid var(--site-primary)!important}
   .profile-avatar-wrap{display:none!important}
   .progress-header::after{content:"SkillrHub • Latest learning scores • " attr(data-print-date);display:block;color:#52647d;font-size:9pt}
   .metrics-section{margin-top:10mm}
   .metrics-heading{display:block!important}
   .stat-grid,.skill-grid{grid-template-columns:repeat(4,1fr)!important;gap:5mm!important}
   .stat-card,.skill-summary{padding:5mm!important;border:1px solid #b9c8d8!important}
-  .stat-card span,.stat-card small,.stat-card strong,.skill-summary span,.skill-summary small,.skill-summary strong{color:#172033!important}
+  .stat-card span,.stat-card small,.stat-card strong,.skill-summary span,.skill-summary small,.skill-summary strong{color:var(--site-ink)!important}
   .overall-result{margin-top:6mm!important;padding:5mm!important;border:1px solid #b9c8d8!important}
   .dashboard-grid{display:block!important;margin-top:6mm!important}
   .dashboard-grid .panel{padding:5mm!important;border:1px solid #b9c8d8!important}
@@ -152,7 +153,7 @@ body.progress-page { margin:0; color:var(--dash-ink); background:#f3f7fb; font-f
 }
 .year-progress .panel-heading { gap:16px; }
 .year-progress__selector { display:grid; gap:4px; color:var(--dash-muted); font-size:.78rem; font-weight:800; }
-.year-progress__selector select { padding:8px 10px; border:1px solid var(--dash-line); border-radius:9px; background:#fff; color:#172033; font:inherit; }
+.year-progress__selector select { padding:8px 10px; border:1px solid var(--dash-line); border-radius:9px; background:#fff; color:var(--site-ink); font:inherit; }
 .year-progress__copy>p { margin:7px 0; }
 .year-progress__note { color:var(--dash-muted); font-size:.76rem; }
 .learning-battery-wrap { display:grid; justify-items:center; gap:8px; padding-right:14px; }
@@ -168,14 +169,14 @@ body.progress-page { margin:0; color:var(--dash-ink); background:#f3f7fb; font-f
 }
 .learning-battery::after { content:""; position:absolute; top:23px; right:-18px; width:12px; height:30px; border-radius:0 6px 6px 0; background:#263b57; }
 .learning-battery__fill { position:absolute; inset:0 auto 0 0; width:0; border-radius:5px; background:linear-gradient(90deg,#ef7e50 0%,#f5c84b 45%,#43c980 100%); transition:width .55s ease; }
-.learning-battery__percent { position:absolute; inset:0; display:grid; place-items:center; color:#172033; font-size:1.8rem; text-shadow:0 1px 2px #fff,0 0 5px #fff; }
+.learning-battery__percent { position:absolute; inset:0; display:grid; place-items:center; color:var(--site-ink); font-size:1.8rem; text-shadow:0 1px 2px #fff,0 0 5px #fff; }
 .learning-battery--complete .learning-battery__fill { background:linear-gradient(90deg,#25a96b,#61db91); }
 .learning-battery__count { color:#294466; font-size:.85rem; font-weight:900; }
 .year-subject-progress { display:grid; gap:6px; margin-top:10px; }
 .subject-charge { display:grid; grid-template-columns:58px minmax(90px,1fr) 48px; gap:8px; align-items:center; font-size:.78rem; }
 .subject-charge>span,.subject-charge>strong { font-weight:850; }
 .subject-charge>strong { text-align:right; }
-.subject-charge__track { height:8px; overflow:hidden; border-radius:99px; background:#dce5f1; }
+.subject-charge__track { height:8px; overflow:hidden; border-radius:99px; background:var(--site-line); }
 .subject-charge__track i { display:block; height:100%; border-radius:inherit; background:#3578e5; }
 .activity-list { margin-top:6px; }
 .activity-item { padding:7px 0; }
@@ -189,7 +190,7 @@ body.progress-page { margin:0; color:var(--dash-ink); background:#f3f7fb; font-f
 /* Unified profile hero and compact metric controls */
 .progress-header {
   align-items:center;
-  background:linear-gradient(135deg,#fff 0%,#f5f8ff 100%);
+  background:linear-gradient(135deg,#fff 0%,var(--site-soft) 100%);
 }
 .dashboard-profile-hero { display:flex; align-items:center; gap:12px; min-width:0; }
 .dashboard-profile-copy { min-width:0; }

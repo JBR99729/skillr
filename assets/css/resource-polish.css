@@ -1,13 +1,14 @@
+@import url("/assets/css/site-theme.css?v=20261009-1");
 /* Shared F-10 resource presentation. Lesson content and activity engines stay local. */
 .skillr-resource {
-  --resource-ink: #203047;
-  --resource-blue: #2457d6;
-  --resource-heading: #173968;
-  --resource-line: #d7e3f2;
-  --resource-soft: #f5f8ff;
-  background: #f4f7fb;
+  --resource-ink: var(--site-ink);
+  --resource-blue: var(--site-primary);
+  --resource-heading: var(--site-ink);
+  --resource-line: var(--site-line);
+  --resource-soft: var(--site-soft);
+  background: var(--site-page);
   color: var(--resource-ink);
-  font-family: "Segoe UI", Arial, Helvetica, sans-serif;
+  font-family: var(--site-font);
   font-size: 1rem;
   line-height: 1.6;
   letter-spacing: 0;
@@ -116,7 +117,7 @@
 .skillr-resource .worksheet-resource-actions a:hover,
 .skillr-resource .hero-actions .button:hover {
   border-color: var(--resource-blue);
-  background: #eaf1ff;
+  background: var(--site-soft);
   color: var(--resource-heading);
   transform: none;
 }

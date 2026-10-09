@@ -1,8 +1,9 @@
+@import url("/assets/css/site-theme.css?v=20261009-1");
 /* Year 1 only: compact discovery, static topic lists and a consistent worksheet path. */
-body.year1-learning-hub { --hub-ink:#17344b; --hub-muted:#506577; --hub-teal:#12695f; --hub-line:#dce5e9; margin:0; background:#f8faf9; color:var(--hub-ink); font:16px/1.55 Inter,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; }
+body.year1-learning-hub { --hub-ink:var(--site-ink); --hub-muted:var(--site-muted); --hub-teal:var(--site-primary); --hub-line:var(--site-line); margin:0; background:var(--site-page); color:var(--hub-ink); font:16px/1.55 var(--site-font); }
 .year1-learning-hub *, .year1-learning-hub *::before, .year1-learning-hub *::after { box-sizing:border-box; }
 .year1-learning-hub a { color:var(--hub-teal); text-underline-offset:3px; }
-.year1-learning-hub a:focus-visible,.year1-learning-hub summary:focus-visible { outline:3px solid #b86b0c; outline-offset:4px; }
+.year1-learning-hub a:focus-visible,.year1-learning-hub summary:focus-visible { outline:3px solid var(--site-focus); outline-offset:4px; }
 .year1-learning-hub h1,.year1-learning-hub h2,.year1-learning-hub h3 { color:var(--hub-ink); font-weight:750; line-height:1.2; }
 .hub-header { background:white; border-bottom:1px solid var(--hub-line); }
 .hub-header nav { max-width:1180px; margin:auto; padding:14px 28px; display:flex; align-items:center; justify-content:space-between; gap:16px; }
@@ -16,12 +17,12 @@ body.year1-learning-hub { --hub-ink:#17344b; --hub-muted:#506577; --hub-teal:#12
 .hub-eyebrow { color:var(--hub-teal); font-size:.72rem; font-weight:750; letter-spacing:.06em; text-transform:uppercase; margin:0 0 10px; }
 .hub-hero h1 { font-size:clamp(1.85rem,3.6vw,2.8rem); letter-spacing:-.035em; margin:0 0 14px; }
 .hub-hero>div>p:last-child { color:var(--hub-muted); max-width:57ch; margin:0; font-size:1rem; }
-.hub-offer { align-self:start; background:#eff6f2; padding:22px; border:1px solid #d4e4da; border-radius:12px; }
+.hub-offer { align-self:start; background:var(--site-soft); padding:22px; border:1px solid #d4e4da; border-radius:12px; }
 .hub-offer h2 { font-size:1.3rem; margin:0 0 10px; }
 .hub-offer>p:not(.hub-eyebrow) { color:var(--hub-muted); font-size:.88rem; margin:0 0 16px; }
 .year1-learning-hub .hub-button { display:inline-flex; min-height:44px; align-items:center; justify-content:center; padding:10px 16px; border-radius:8px; font-size:.88rem; font-weight:750; text-decoration:none; }
 .year1-learning-hub .hub-button--primary { background:var(--hub-teal); color:white; }
-.year1-learning-hub .hub-button--primary:hover { background:#0d5149; }
+.year1-learning-hub .hub-button--primary:hover { background:var(--site-primary-hover); }
 .hub-text-link { display:block; margin-top:12px; font-size:.8rem; font-weight:650; }
 .hub-list-heading { margin:0 0 16px; }
 .hub-list-heading h2 { font-size:1.4rem; margin:0 0 6px; }
@@ -37,7 +38,7 @@ body.year1-learning-hub { --hub-ink:#17344b; --hub-muted:#506577; --hub-teal:#12
 .hub-routine strong { display:block; color:var(--hub-ink); margin-bottom:4px; }
 .hub-jumps { display:flex; flex-wrap:wrap; gap:8px; margin:0 0 24px; }
 .hub-jumps a { display:inline-flex; align-items:center; min-height:44px; padding:8px 14px; border:1px solid var(--hub-line); border-radius:8px; background:white; text-decoration:none; font-size:.85rem; font-weight:650; }
-.hub-jumps a:hover { background:#eff6f2; border-color:var(--hub-teal); }
+.hub-jumps a:hover { background:var(--site-soft); border-color:var(--hub-teal); }
 .hub-group { margin:0 0 28px; scroll-margin-top:20px; }
 .hub-group>header { display:flex; justify-content:space-between; align-items:center; gap:16px; margin-bottom:12px; }
 .hub-group h2 { font-size:1.3rem; margin:0; }
