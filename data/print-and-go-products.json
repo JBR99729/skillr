@@ -6086,5 +6086,49 @@
     "pageCount": 71,
     "listingConfirmedAt": "2026-10-09",
     "listingEvidence": "Owner supplied the published TPT URL; contents verified from the independently reviewed final AC9E1LE01 workbook. Current price not independently retrieved."
+  },
+  {
+    "id": "tpt-17893389",
+    "title": "Year 1 English Story Connections Worksheets | AC9E1LE02 | VC2E1LE02",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "english",
+    "subjectLabel": "English",
+    "topics": [
+      "story connections",
+      "personal responses",
+      "own experiences",
+      "literature",
+      "guided discussion"
+    ],
+    "curriculumCodes": [
+      "AC9E1LE02"
+    ],
+    "description": "A 76-page Year 1 English printable pack with 60 practice questions, a separate 15-question test, Seven illustrated learning pages, five extra vocabulary/dictation items, teacher guidance and complete answer keys. Six practice texts and two fresh test stories are included. Designed for adult read-aloud and guided discussion.",
+    "url": "/product.html?id=tpt-17893389",
+    "image": "/assets/tpt-17893389-cover.svg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "worksheet",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-English-Story-Connections-Worksheets-AC9E1LE02-VC2E1LE02-17893389",
+    "tptResourceType": "PDF",
+    "isBundle": false,
+    "free": false,
+    "format": "A4 flattened printable PDF",
+    "includes": [
+      "60 practice questions: 10 in each of six teaching focuses",
+      "A separate 15-question test",
+      "Seven illustrated learning pages",
+      "Five additional vocabulary/dictation items",
+      "Teacher/parent guidance and complete answer keys",
+      "76-page A4 printable PDF",
+      "All assessed texts included; no extra books or online subscription required"
+    ],
+    "practiceQuestions": 60,
+    "testQuestions": 15,
+    "totalQuestions": 75,
+    "pageCount": 76,
+    "listingConfirmedAt": "2026-10-09",
+    "listingEvidence": "Owner supplied the published TPT URL; contents verified from the independently reviewed final AC9E1LE02 workbook. Current price not independently retrieved."
   }
 ]

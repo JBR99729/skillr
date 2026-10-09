@@ -1,7 +1,7 @@
 {
   "auditedAt": "2026-10-08",
   "storefront": "https://www.teacherspayteachers.com/store/skillrhub",
-  "activeProductCount": 166,
+  "activeProductCount": 167,
   "products": [
     {
       "productId": "17870172",
@@ -1837,6 +1837,18 @@
       "regularPrice": null,
       "listingConfirmedAt": "2026-10-09",
       "listingEvidence": "Owner supplied the published TPT URL; contents verified from the independently reviewed final AC9E1LE01 workbook. Current price not independently retrieved."
+    },
+    {
+      "productId": "17893389",
+      "title": "Year 1 English Story Connections Worksheets | AC9E1LE02 | VC2E1LE02",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-English-Story-Connections-Worksheets-AC9E1LE02-VC2E1LE02-17893389",
+      "image": "/assets/tpt-17893389-cover.svg",
+      "isBundle": false,
+      "free": false,
+      "price": null,
+      "regularPrice": null,
+      "listingConfirmedAt": "2026-10-09",
+      "listingEvidence": "Owner supplied the published TPT URL; contents verified from the independently reviewed final AC9E1LE02 workbook. Current price not independently retrieved."
     }
   ]
 }

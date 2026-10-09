@@ -1,7 +1,7 @@
 {
   "observedAt": "2026-10-07",
   "storefront": "https://www.teacherspayteachers.com/store/skillrhub",
-  "observedProductCount": 130,
+  "observedProductCount": 131,
   "codeCount": 103,
   "evidence": "All seven public store pages inspected. Existing catalogue names and code mappings retained; new listings copied from the live store. Prices and unsupported pack counts intentionally omitted.",
   "unmappedProductIds": [
@@ -1201,6 +1201,16 @@
       ],
       "freeSample": false,
       "listingConfirmedAt": "2026-10-09"
+    },
+    {
+      "productId": "17893389",
+      "name": "Year 1 English Story Connections Worksheets | AC9E1LE02 | VC2E1LE02",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-English-Story-Connections-Worksheets-AC9E1LE02-VC2E1LE02-17893389",
+      "curriculumCodes": [
+        "AC9E1LE02"
+      ],
+      "freeSample": false,
+      "listingConfirmedAt": "2026-10-09"
     }
   ],
   "codes": [
@@ -1376,7 +1386,8 @@
         "Classroom View": "https://skillrhub.com/year1/english/ac9e1le02-literary-texts-and-share-responses-by-making-connections-with/teacher-slides/"
       },
       "productIds": [
-        "17744486"
+        "17744486",
+        "17893389"
       ]
     },
     {
