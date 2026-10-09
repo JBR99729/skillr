@@ -1,7 +1,7 @@
 {
   "auditedAt": "2026-10-08",
   "storefront": "https://www.teacherspayteachers.com/store/skillrhub",
-  "activeProductCount": 160,
+  "activeProductCount": 161,
   "products": [
     {
       "productId": "17870172",
@@ -445,7 +445,7 @@
     },
     {
       "productId": "17802766",
-      "title": "Foundation Subitising 0–5 Slides | AC9MFN02 | Australian Curriculum v9",
+      "title": "Foundation Subitising 0\u20135 Slides | AC9MFN02 | Australian Curriculum v9",
       "url": "https://www.teacherspayteachers.com/Product/Foundation-Subitising-05-Slides-AC9MFN02-Australian-Curriculum-v9-17802766",
       "image": "https://ecdn.teacherspayteachers.com/thumbitem/Foundation-Subitising-0-5-Slides-AC9MFN02-Australian-Curriculum-v9-17802766-1790809576/original-17802766-1.jpg",
       "isBundle": false,
@@ -456,7 +456,7 @@
     },
     {
       "productId": "17802130",
-      "title": "Foundation Numbers 0–20 Slides | AC9MFN01 | Australian Curriculum v9",
+      "title": "Foundation Numbers 0\u201320 Slides | AC9MFN01 | Australian Curriculum v9",
       "url": "https://www.teacherspayteachers.com/Product/Foundation-Numbers-020-Slides-AC9MFN01-Australian-Curriculum-v9-17802130",
       "image": "https://ecdn.teacherspayteachers.com/thumbitem/Foundation-Numbers-0-20-Slides-AC9MFN01-Australian-Curriculum-v9-17802130-1790803695/original-17802130-1.jpg",
       "isBundle": false,
@@ -1237,7 +1237,7 @@
     },
     {
       "productId": "17592266",
-      "title": "Year 3 Time Worksheets | Duration & Analogue Clocks | AC9M3M03–AC9M3M04",
+      "title": "Year 3 Time Worksheets | Duration & Analogue Clocks | AC9M3M03\u2013AC9M3M04",
       "url": "https://www.teacherspayteachers.com/Product/Year-3-Time-Worksheets-Duration-Analogue-Clocks-AC9M3M03AC9M3M04-17592266",
       "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-3-Time-Practice-Pack-Analogue-Clocks-Duration-AC9M3M03-AC9M3M04-17592266-1790145537/original-17592266-1.jpg",
       "isBundle": false,
@@ -1759,6 +1759,18 @@
       "title": "Year 1 English Rhyme, Rhythm & Repetition Worksheets | AC9E1LA04 | VIC VC2E1LA04",
       "url": "https://www.teacherspayteachers.com/Product/Year-1-English-Rhyme-Rhythm-Repetition-Worksheets-AC9E1LA04-VIC-VC2E1LA04-17889835",
       "image": "/assets/year-1-english-rhyme-rhythm-repetition-worksheets-cover.png",
+      "isBundle": false,
+      "free": false,
+      "price": null,
+      "regularPrice": null,
+      "observedAt": "2026-10-09",
+      "evidence": "Owner supplied published listing URL; price unverified."
+    },
+    {
+      "productId": "17890516",
+      "title": "Year 1 English Print & Digital Text Features Worksheets | AC9E1LA05 | VIC VC2E1LA05",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-English-Print-Digital-Text-Features-Worksheets-AC9E1LA05-VIC-VC2E1L-17890516",
+      "image": "/assets/year-1-english-print-digital-text-features-worksheets-cover.png",
       "isBundle": false,
       "free": false,
       "price": null,
