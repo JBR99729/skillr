@@ -1,0 +1,387 @@
+{
+  "AC9E1LA01": {
+    "vocabulary": "Information tells us something. A gesture is a body movement that helps send a message. An offer says what we can do for someone. A request asks someone to do something.",
+    "focuses": [
+      {
+        "title": "Words, faces and gestures",
+        "teach": "Notice the words and other clues together. A face may give a clue about a feeling; it does not prove that feeling.",
+        "model": "At the classroom door, Ari waves and says, “Hello!” The wave helps send the greeting.",
+        "prompt": "Someone points and says, “Put it there.” What else might you need to know?",
+        "answer": "Which object and which place. Ask, “Do you mean this book, on that shelf?” Pointing helps only when the other person can see what it refers to."
+      },
+      {
+        "title": "Ask for information",
+        "teach": "Ask a question that helps you find out what you need. Listen to the reply.",
+        "model": "“Where is the lunch tub?” asks for a place. “When is lunch?” asks for a time.",
+        "prompt": "You need to know when the class goes to the library. What could you ask?",
+        "answer": "“When do we go to the library?” Accept another clear time question. A yes/no question such as “Is it library time?” answers a narrower question."
+      },
+      {
+        "title": "Give useful information",
+        "teach": "Reply to what was asked. Add a useful detail rather than an unrelated fact.",
+        "model": "“Where is my hat?” → “It is on the hook beside your bag.” The reply gives a place.",
+        "prompt": "A friend asks, “Who can help carry this box?” Give a useful reply.",
+        "answer": "For example, “I can help,” or name an available helper. A reply about the colour of the box does not answer who."
+      },
+      {
+        "title": "Offers and requests",
+        "teach": "An offer gives help. A request asks for an action. Either can be calm and respectful.",
+        "model": "Offer: “I can help you pack the blocks.” Request: “Could you help me pack the blocks?”",
+        "prompt": "Turn “Could you carry my books?” into an offer to carry someone else’s books.",
+        "answer": "“I can carry your books,” or “Would you like me to carry your books?” The speaker offers their own help. Requests can also ask for help for another person."
+      },
+      {
+        "title": "Exclamations and commands",
+        "teach": "An exclamation expresses a strong reaction. A command directs an action. Look at the purpose, not just loudness or the end mark.",
+        "model": "“Wow, that rainbow is bright!” shows a reaction. “Stand behind the line.” tells someone what to do.",
+        "prompt": "An adult calmly says, “Keep away from the road.” What is the message doing?",
+        "answer": "Directing an action to help keep someone safe. It can be a command even when spoken calmly. “Please” and punctuation alone do not decide the purpose."
+      },
+      {
+        "title": "Choose and check the message",
+        "teach": "Choose words that suit the situation. Ask again when words and other clues are unclear.",
+        "model": "Closed: “Is the book here?” can be answered yes or no. Open: “What happened in the story?” invites more information.",
+        "prompt": "Show a partner where to put a pencil. Check that your words or gesture were understood.",
+        "answer": "Observe the actual exchange: a clear place is named or indicated, and the partner can respond. Accept speech, signing or AAC. An unseen point alone may not give enough information."
+      }
+    ],
+    "watch": "Gestures and signs can mean different things in different communities. Do not require eye contact, smiling or a particular voice. Discuss a short, suitable film scene: what did the character say, what other clues were visible, and what could you ask to check? For First Nations Australian communication, use a named, community-endorsed account and its local guidance; do not invent, generalise or ask children to copy cultural signs.",
+    "check": "A partner asks where the glue is. Give a useful reply. Then ask one open question about the partner’s drawing.",
+    "answer": "The reply gives a clear location. The open question invites a description or explanation, such as “How did you make that picture?” Observe listening and the response rather than scoring only a written choice.",
+    "support": "Model one short exchange. Offer two purpose choices. Accept a pointed, signed, spoken or AAC response; an adult can scribe the child’s own words.",
+    "extend": "Keep the same message but change the audience: a friend, a teacher or someone who cannot see your pointing. Explain the words you changed.",
+    "sources": [
+      "la01.txt: dated workbook research 8 October 2026; IXL interaction-purpose example; Victorian conversation/role-play guidance; official QCAA descriptor."
+    ]
+  },
+  "AC9E1LA02": {
+    "vocabulary": "Like means enjoy. Dislike means not enjoy. Prefer means choose one thing over another. A reason tells why.",
+    "focuses": [
+      {
+        "title": "Likes and dislikes",
+        "teach": "Name the thing you like or dislike. Different people can have different views.",
+        "model": "“I like drawing.” “I dislike very loud music.” Neither person has to choose the same favourite.",
+        "prompt": "Choose reading or building. Say which you like.",
+        "answer": "Accept either choice, another genuine preference or not liking either. The child names the choice clearly."
+      },
+      {
+        "title": "Give a reason with because",
+        "teach": "Use because to connect your choice to a reason. Tell what you like about it.",
+        "model": "“I like drawing because I can make my own pictures.” The reason explains the choice.",
+        "prompt": "Finish: “I like this game because …”",
+        "answer": "Accept a relevant reason, such as “we take turns”. If the child says only “because I like it”, ask neutrally, “What do you like about it?”"
+      },
+      {
+        "title": "Prefer one of two choices",
+        "teach": "Say which you prefer and why. A preference is a personal choice, not a fact everyone must agree with.",
+        "model": "“I prefer the quiet corner because I can hear the story.”",
+        "prompt": "Two books are offered. One has funny animals; one shows how to make a kite. Which would you prefer, and why?",
+        "answer": "Accept either with a connected reason. The supplied descriptions give enough information; no unseen book knowledge is required."
+      },
+      {
+        "title": "Use comparison words",
+        "teach": "Compare a feature of two things when it helps explain your choice. Better needs a reason: better for what?",
+        "model": "“I prefer the bigger box because it holds all the blocks.” Bigger compares the boxes; holding the blocks explains the choice.",
+        "prompt": "A wide tray holds all six crayons. A small pot holds two. Which is better for carrying all six, and why?",
+        "answer": "The tray is better for this stated job because it holds all six. This practical reason does not prove it is everyone’s favourite."
+      },
+      {
+        "title": "Make the reason clear",
+        "teach": "Check that the reason matches the choice. Add one useful detail instead of repeating the same words.",
+        "model": "“I prefer this hat because its wide brim shades my face.” The detail explains the preference.",
+        "prompt": "Does “I like the puzzle because the bus is late” explain the puzzle choice? Repair it.",
+        "answer": "The reason is unrelated. For example, “I like the puzzle because I enjoy finding the pieces.” Accept another relevant reason."
+      },
+      {
+        "title": "Listen and respond",
+        "teach": "Say what you heard before agreeing or giving a different view. Disagree with the choice respectfully.",
+        "model": "“You prefer painting. I prefer building because I like making towers.”",
+        "prompt": "A partner likes running games. You prefer quiet games. What could you say?",
+        "answer": "For example, “You like running games. I prefer quiet games because I can think about my next move.” Accept a relevant respectful response; agreement is not required."
+      }
+    ],
+    "watch": "A comparison word describes a difference that can help explain a preference; it does not automatically show a stronger feeling. Better is a useful comparison word even though it does not end in -er. Do not judge a personal favourite as wrong or infer sound, taste or comfort from a picture alone.",
+    "check": "Choose between two familiar activities. Give your preference and one connected reason. Then listen to someone with a different preference.",
+    "answer": "Look for a named choice and a relevant reason, with because or another clear link. In the exchange, the child acknowledges the other view. Mark the explanation separately from spelling.",
+    "support": "Provide two familiar choices and the incomplete frame “I prefer ___ because ___.” Use a small word bank such as quiet, fun, fits or soft only when it suits the choices.",
+    "extend": "Compare two objects for a stated job, then explain why someone choosing for a different job might prefer the other object.",
+    "sources": [
+      "la02.txt: current accessibility revision; IXL two-object comparative worked example; Oak likes/dislikes, giving reasons and respectful response; both curriculum elaborations."
+    ]
+  },
+  "AC9E1LA03": {
+    "vocabulary": "A text has a job. Recount: tell what happened. Story: tell connected events. Opinion: say what you think. Facts: information we can check.",
+    "focuses": [
+      {
+        "title": "Recount: what happened",
+        "teach": "A recount often starts with who, when and where, then puts events in order.",
+        "model": "“On Monday our class went to the school garden. First we looked at the beds. Next we watered them. Last we went back inside.”",
+        "prompt": "Which happened before watering: looking at the beds or going back inside?",
+        "answer": "Looking at the beds. First and next help show the order. A recount can retell a real or imagined experience; do not use real-versus-made-up as the only test."
+      },
+      {
+        "title": "Narrative: a story",
+        "teach": "Follow who is in the story and how the events connect. Beginning, middle and end help us organise a short story.",
+        "model": "“A puppy found an empty bowl. It carried the bowl to Jo. Jo filled it with water.” Each event leads to the next.",
+        "prompt": "What could happen if the last event came first?",
+        "answer": "The reader would hear the bowl was filled before knowing why Jo filled it. Discuss the sequence; not every story needs the same problem-and-solution pattern."
+      },
+      {
+        "title": "Opinion: a view and a reason",
+        "teach": "State the view, then give a reason that explains it.",
+        "model": "“I think our garden needs a shady seat because we could sit there after watering.”",
+        "prompt": "Point to the view and the reason.",
+        "answer": "View: the garden needs a shady seat. Reason: people could sit there after watering. Because connects them."
+      },
+      {
+        "title": "Inform: share facts",
+        "teach": "A heading names the topic. Words, pictures and labels can work together to give information.",
+        "model": "An information card headed “Our garden” says: “The gate is beside the tap.” A labelled plan can show the same places.",
+        "prompt": "Would a labelled plan or a list of everyone’s favourite games help readers find the tap? Why?",
+        "answer": "The labelled plan helps show where the tap is. The game list does a different job."
+      },
+      {
+        "title": "Report: group related facts",
+        "teach": "A report is an information text. It often groups related facts under headings instead of telling one event in time order.",
+        "model": "“Tools: We use a trowel and a watering can. Jobs: We dig small holes and water the beds.”",
+        "prompt": "Under which heading would “We sweep the path” fit: Tools or Jobs?",
+        "answer": "Jobs. Sweeping is something people do. Headings help readers find a group of related information."
+      },
+      {
+        "title": "Explain and compare with instructions",
+        "teach": "An explanation tells how or why something happens. A procedure tells the reader how to do something. Both may use a sequence, but their jobs differ.",
+        "model": "Explanation: “Water freezes when it becomes cold enough. It changes into ice.” Procedure: “1. Put water in a tray. 2. Place it in the freezer.”",
+        "prompt": "Which text tells you what to do? Which tells you about the change?",
+        "answer": "The numbered procedure tells the reader what to do; the explanation describes the change. Steps, arrows and pictures can organise either, so check the message as well as the feature."
+      }
+    ],
+    "watch": "Topic and purpose differ: two texts about the same garden can have different jobs. A heading, a time word or a picture is a clue, not proof of one text type. Informing is a broad purpose; a report is one way to organise information. Use short texts and supplied pictures rather than relying on a child’s knowledge of an unfamiliar book.",
+    "check": "Compare the garden recount with the grouped Tools/Jobs report. Say one difference in their organisation and why it helps the reader.",
+    "answer": "The recount follows events in time order to tell what happened. The report groups related facts so readers can find information. Accept equivalent child language and a pointed example from each text.",
+    "support": "Read the text aloud, then offer two purpose choices. Use separate event cards to rehearse the order. Keep recount, report and explanation terms supported by the examples.",
+    "extend": "Keep one topic and change its job: write a two-sentence recount and an opinion with a reason. Explain what you changed.",
+    "sources": [
+      "la03.txt and worksheet/research-blueprint.json: IXL purpose examples; Oak recount/story/opinion/report guidance; ABC F–2 explanation transcript; three curriculum elaborations."
+    ]
+  },
+  "AC9E1LA04": {
+    "vocabulary": "Repeat means come back again. Rhyme means matching ending sounds, as in sun and run. Beat means steady taps. Rhythm is how we time the word sounds.",
+    "focuses": [
+      {
+        "title": "Hear repetition",
+        "teach": "Listen for a word, a phrase or a whole line that comes back.",
+        "model": "“Here comes rain. Here comes wind. Here comes sunshine.” Here comes repeats; the last word changes.",
+        "prompt": "Make another line that starts with “Here comes …”.",
+        "answer": "Accept a meaningful line such as “Here comes night.” Keep the repeated start; discuss the new ending."
+      },
+      {
+        "title": "Find rhyme",
+        "teach": "Say the words aloud. Listen to the ending sound, not just the letters.",
+        "model": "“A bird flew by. It crossed the sky.” By and sky rhyme.",
+        "prompt": "Which matches the ending sound of day: play or dog?",
+        "answer": "Play. Read both options naturally; accept pronunciation differences and discuss the sounds the child actually uses."
+      },
+      {
+        "title": "Feel beat and rhythm",
+        "teach": "Keep four steady taps. Fit the spoken sounds into those taps as shown in the model.",
+        "model": "Beat cells: tap | tap | lit-tle | tap. Say two quicker parts of little inside the third tap. The taps stay steady while the word sounds vary.",
+        "prompt": "Echo the model. Are the steady taps the same thing as the word sounds?",
+        "answer": "No. The beat is the steady pulse; rhythm is the timing of the word sounds. Observe the echo, not just a written choice. No rule says every word gets one beat."
+      },
+      {
+        "title": "Hear how the parts connect",
+        "teach": "Returning words and matching sounds can link the lines and help us join in.",
+        "model": "“Clap, clap, in the sun. Clap, clap, now we run.” Clap, clap returns; sun/run rhyme.",
+        "prompt": "What could a listener predict at the start of another line?",
+        "answer": "Clap, clap. The returning start links the lines and helps a listener join in. Other meaningful patterns are possible."
+      },
+      {
+        "title": "Compare poems, chants and songs",
+        "teach": "Listen to how each text uses a pattern. Some poems rhyme; some do not. Chants can repeat spoken patterns; songs use a tune.",
+        "model": "Compare “Rain on the roof. Rain on my coat.” with “Rain, rain, on the plain.” Both repeat rain; only the second example has a rhyming pair.",
+        "prompt": "Can a poem use repetition without rhyme?",
+        "answer": "Yes. Returning words can connect a poem even without matching ending sounds. Do not mark a poem wrong just because it does not rhyme."
+      },
+      {
+        "title": "Change and create a pattern",
+        "teach": "Keep one part of a pattern and change another. Check that the new line still makes sense.",
+        "model": "“Tap, tap, by the tree. Tap, tap, come with me.” Keep tap, tap; tree/me match.",
+        "prompt": "Create two short lines with a repeated start. Read or perform them.",
+        "answer": "Accept meaningful lines with a clearly returning start, with or without rhyme. If rhyme is requested, judge the spoken ending sounds. Observe the actual timing or performance when that is the goal."
+      }
+    ],
+    "watch": "Beat and rhythm are related but different. Syllable count alone does not tell us exactly how words are timed. Model slowly, then echo. Children can tap, point, move or use another accessible way to show the pattern; motor speed and spelling are separate from understanding.",
+    "check": "In “Look, look, at the light. Look, look, it is bright”, identify the repeated phrase and the rhyming endings. Show the pattern aloud or by pointing.",
+    "answer": "Look, look repeats; light and bright rhyme. Ask the child to show or explain how the returning words connect the lines. A written selection alone does not establish performance.",
+    "support": "Read one line at a time. Echo it together. Mark repeated words with matching shapes and practise rhyme using two spoken choices.",
+    "extend": "Compare two original short poems: explain how one uses a returning line and another uses rhyme. Create a new example without losing its meaning.",
+    "sources": [
+      "la04.txt and worksheet/research-blueprint.json: IXL rhyme example; ABC repetition/beat/rhythm guidance and Bim Bam transcript; Oak pattern and performance guidance."
+    ]
+  },
+  "AC9E1LA05": {
+    "vocabulary": "A title names the whole text. A heading names a section. Contents lists sections and where they start. A link can take you to another page or section.",
+    "focuses": [
+      {
+        "title": "Titles and headings",
+        "teach": "Use the title to find the topic. Use a heading to find a part of the text.",
+        "model": "Book title: “Our school garden”. Section headings: “Tools”, “Watering”, “Growing”.",
+        "prompt": "Which heading would help you find how the beds are watered?",
+        "answer": "Watering. The title names the whole book; the heading names the relevant part."
+      },
+      {
+        "title": "Page numbers and contents",
+        "teach": "Find the section in the contents, then turn to its starting page and check the heading.",
+        "model": "Contents: Tools — 2; Watering — 4; Growing — 6.",
+        "prompt": "Where does the Growing section start? How could you check you reached it?",
+        "answer": "Page 6; check the page number and Growing heading. A contents entry points to information rather than giving all the information itself."
+      },
+      {
+        "title": "Images and layout",
+        "teach": "Look at where words, pictures and labels are placed. Use them together.",
+        "model": "A page headed “Tools” places a picture beside the words “watering can”. A labelled diagram can show its handle and spout.",
+        "prompt": "How does placing the label beside the correct part help the reader?",
+        "answer": "It connects the name with the visible part. A picture is not always decoration; check what information it helps explain."
+      },
+      {
+        "title": "Buttons, menus and swipes",
+        "teach": "Read a control’s label and learn what it does on that screen. Swipe or scroll actions depend on the app or text.",
+        "model": "Model screen rules: Menu opens a list of sections. Next opens the next page. On this model, swiping left also opens the next page.",
+        "prompt": "You want to choose Tools from the section list. Which control would you use first?",
+        "answer": "Menu, then Tools. The stated model rules make the answer clear. Other screens may work differently; do not teach a universal swipe direction."
+      },
+      {
+        "title": "Links, icons and spoken commands",
+        "teach": "A link or icon has a job. A spoken command can work when a device supports it and the setting is enabled.",
+        "model": "Model rules: “Watering tips” opens those tips. A speaker button reads the page aloud. With voice control enabled, “Go back” returns to the previous screen.",
+        "prompt": "You want to hear the page, then return to the previous screen. Describe a route.",
+        "answer": "Use the speaker button to hear it; use the enabled Go back voice command to return. A visible Back button could be another supported route. Discuss paper models separately from actual device use."
+      },
+      {
+        "title": "Compare books and screens",
+        "teach": "Compare the information and the route, rather than saying one format is always better.",
+        "model": "In a book, contents says Watering starts on page 4. On the model screen, a Watering menu link opens the same section.",
+        "prompt": "Name one similar job and one different action.",
+        "answer": "Both routes locate the Watering section. Turning to page 4 is a print action; selecting the named menu link is a screen action. Some digital books also have page numbers and contents."
+      }
+    ],
+    "watch": "Define the rules of each model screen. Swipes, buttons, menus, icons and verbal commands can vary. Never assume a spoken command works on every device. A paper navigation answer shows understanding of the model; observe actual use separately if you want evidence of device navigation.",
+    "check": "Use the contents model to find Watering. Explain how you would reach the same section on the model screen.",
+    "answer": "Turn to page 4 and check its heading in print; open Menu and choose Watering on the screen. Ask why the chosen feature helps. Accept another route only when the screen rules support it.",
+    "support": "Use a familiar book and one simple model screen. Offer a single target section and two labelled controls. An adult can read the labels without choosing the route.",
+    "extend": "Give two possible routes to the same section. Compare the steps and explain which you would choose for that task.",
+    "sources": [
+      "la05.txt and worksheet/research-blueprint.json: IXL book parts example; PETAA print/screen route comparison; Oak heading guidance; Apple navigation and enabled voice-control references."
+    ]
+  },
+  "AC9E1LA06": {
+    "vocabulary": "A sentence gives a complete idea. In a statement, a naming part tells who or what; a happening part tells what happens or what something is like.",
+    "focuses": [
+      {
+        "title": "One complete idea",
+        "teach": "Read the whole group of words. Check that it makes sense as a statement by itself.",
+        "model": "“The cup is full.” is complete. “The full cup” only names something; it does not give the whole statement.",
+        "prompt": "Which gives a complete statement: “The little duck” or “The little duck swims”?",
+        "answer": "The little duck swims. It names the duck and tells what it does. A statement can also describe a state, as in The cup is full."
+      },
+      {
+        "title": "Who or what is involved",
+        "teach": "Keep the whole naming part, including any useful describing words.",
+        "model": "In “The small frog jumped”, The small frog tells who or what the statement is about.",
+        "prompt": "Find the naming part in “Our class planted seeds.”",
+        "answer": "Our class. Planted seeds tells what happened. Do not confuse the name of the naming part with a demand to identify every grammatical label."
+      },
+      {
+        "title": "What happens or what is",
+        "teach": "A sentence can tell an action, a happening or a state. A state does not need visible movement.",
+        "model": "“The dog runs.” tells an action. “The bag is heavy.” tells a state.",
+        "prompt": "Is “The gate is shut” complete even though nothing is moving?",
+        "answer": "Yes. The gate is the naming part; is shut tells its state. Not every sentence describes movement."
+      },
+      {
+        "title": "Repair and order words",
+        "teach": "Say the intended idea before writing. Add a missing part or put supplied words in a meaningful order.",
+        "model": "Recount fragment: “sat beside the fence” → “The child sat beside the fence.”",
+        "prompt": "Order these words into a statement: “the / bird / sings”.",
+        "answer": "The bird sings. Read it aloud to check the meaning. Capitals and end marks help the written boundary but do not supply missing meaning."
+      },
+      {
+        "title": "Add details without adding another clause",
+        "teach": "A sentence can be longer and still have one main event or idea. Add useful where, when or how details.",
+        "model": "“The duck swam.” → “The small duck swam slowly beside the reeds.” It still tells one event.",
+        "prompt": "Add a where detail to “The puppy rested.”",
+        "answer": "For example, The puppy rested on the mat. Accept another relevant place. Do not count words to decide whether a sentence is simple."
+      },
+      {
+        "title": "Check meaning and the written boundary",
+        "teach": "Read what you wrote. Check the complete idea first, then the capital and suitable end mark.",
+        "model": "“Is the gate shut?” is a complete question. “Close the gate.” is a complete command; the person being addressed is understood.",
+        "prompt": "Repair “the child smiled” as a written statement.",
+        "answer": "The child smiled. Start with a capital and end with a full stop. A question uses a question mark; some complete commands do not show the word you."
+      }
+    ],
+    "watch": "Single independent clause is the teacher term: one clause that can stand alone. Length is not the test. Do not teach that every sentence must contain a visible action, one written noun, exactly one verb word or a full stop. Model complete statements first, then acknowledge simple questions and commands.",
+    "check": "Compare “Under the bench” and “The puppy rested under the bench.” Explain which gives a complete statement, then add one useful detail to a new statement.",
+    "answer": "The puppy rested under the bench is complete: it names who or what and tells what happened. Under the bench supplies only a place in this context. Accept a relevant detail that preserves one main clause.",
+    "support": "Use two labelled card groups: who/what and what happens or is. Rehearse aloud, point to the parts, then write or dictate the child’s sentence.",
+    "extend": "Expand a short statement with two relevant details. Explain why the longer version still gives one main event or idea.",
+    "sources": [
+      "la06.txt and worksheet/research-blueprint.json: IXL naming/happening, ordering and completion examples; Oak doing/being and questions; PETAA one-clause sentence expansion; both elaborations."
+    ]
+  },
+  "AC9E1LA07": {
+    "vocabulary": "Nouns name people, places and things, including animals. Pronouns can refer to someone or something without repeating a name. Verbs tell happenings or states. Adjectives describe qualities. Adverbs can add when, where or how details.",
+    "focuses": [
+      {
+        "title": "Nouns: name what is involved",
+        "teach": "Find the naming word in its sentence. Animals are included among the things nouns can name.",
+        "model": "“The koala sleeps.” Koala names the animal. “We visit the library.” Library names a place.",
+        "prompt": "Find the two nouns in “The child carries a bag.”",
+        "answer": "Child and bag. Read the sentence rather than guessing from the word’s position."
+      },
+      {
+        "title": "Pronouns: keep the meaning clear",
+        "teach": "Use a clear person or thing for the pronoun to refer to. Do not guess someone’s pronouns from a name or picture.",
+        "model": "“Sam uses they. Sam waved. They smiled.” They refers to Sam. “The books fell. They landed on the mat.” They refers to the books.",
+        "prompt": "You and a friend are speaking together. Replace the repeated group name: “Mia and I are ready.”",
+        "answer": "We are ready. We includes the speaker and another person. Other pronouns depend on the supplied speaker, group or referent."
+      },
+      {
+        "title": "Verbs: happenings and states",
+        "teach": "Ask what happens or what something is like. Include doing, saying, thinking and being.",
+        "model": "“The bird hops.” Hops tells an action. “The bird is small.” Is is a being verb; small describes the bird.",
+        "prompt": "Find the verb in “The child thinks about lunch.”",
+        "answer": "Thinks. Thinking is a process even though the picture may not show movement. In “The box is empty”, is is the verb."
+      },
+      {
+        "title": "Adjectives: qualities",
+        "teach": "Ask which word describes the person or thing. Use visible or supplied information when describing a picture.",
+        "model": "“A soft blanket.” Soft tells a quality of the blanket. “The empty basket.” Empty describes the basket.",
+        "prompt": "In “The wide gate opened”, what does wide describe?",
+        "answer": "Gate. Wide is the adjective. A monochrome picture alone cannot prove a colour or that something feels soft or is heavy."
+      },
+      {
+        "title": "Adverbs and other details",
+        "teach": "Ask when, where or how. Some details are one adverb; others are groups of words. Not every adverb ends in -ly.",
+        "model": "“The ducks swim slowly outside today.” Slowly tells how, outside tells where, today tells when. “Beside the reeds” is a group of words giving a place detail.",
+        "prompt": "Which word tells when in “The class walks quietly outside today”?",
+        "answer": "Today. Quietly tells how and outside tells where. Do not label every detail phrase as one adverb word."
+      },
+      {
+        "title": "Make a sentence more specific",
+        "teach": "Choose useful qualities, details and a more exact verb. Keep the meaning sensible.",
+        "model": "“The child moved.” → “The child tiptoed quietly beside the cot.” Tiptoed is more exact; quietly tells how; beside the cot tells where.",
+        "prompt": "Improve “The dog went” with a more exact verb and one useful detail.",
+        "answer": "For example, The dog trotted outside. Accept another sensible precise verb and detail. Ask what the change helps the reader understand, not only which label it has."
+      }
+    ],
+    "watch": "A word’s job depends on its sentence. Compare “We water the garden” with “The water is cold”: water is a verb in the first and a noun in the second. Teach the familiar meanings first. Keep pronoun references clear, include being verbs, and judge added details by what they mean.",
+    "check": "In “The small bird sang softly outside”, identify the naming word, verb, describing word and two details. Then use a clear pronoun in a follow-up sentence.",
+    "answer": "Bird is the noun; sang the verb; small the adjective; softly tells how and outside where. For example, It flew away clearly refers to the bird. Accept another suitable follow-up and explain its reference.",
+    "support": "Read the whole sentence aloud. Ask one job question at a time. Use a short incomplete frame and a small word bank; accept pointing, oral answers or scribed sentence creation.",
+    "extend": "Compare a sentence before and after adding a useful quality or exact verb. Explain the new meaning, then check a word that changes its job between two sentences.",
+    "sources": [
+      "la07.txt and worksheet/research-blueprint.json: IXL nouns/pronouns/action/adjectives examples; Oak doing/being verbs; ABC how/where/when details; contextual word jobs and precise sentence creation."
+    ]
+  }
+}

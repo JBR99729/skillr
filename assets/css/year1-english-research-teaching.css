@@ -1,0 +1,12 @@
+.research-teaching__focus { padding: 1rem 0; border-top: 1px solid #dce6ed; }
+.research-teaching__focus h3 { margin: 0 0 .6rem; }
+.research-teaching__model { padding: .9rem 1rem; margin: .8rem 0; border-left: 4px solid #268a8c; border-radius: .3rem; background: #f2faf9; color: #193a45; }
+.research-teaching__model p { margin: .3rem 0; }
+.research-teaching__label { font-weight: 700; }
+.research-teaching__beats { display: grid; grid-template-columns: repeat(4,minmax(0,1fr)); gap: .35rem; max-width: 32rem; margin: .7rem 0; }
+.research-teaching__beats span { padding: .6rem .25rem; border: 1px solid #7fb2b4; background: white; text-align: center; font-weight: 700; }
+.research-teaching__access { font-size: .95em; color: #465a65; }
+.classroom-view-v2 .research-teaching > .curriculum-detail-body { padding: 1rem; }
+.research-teaching .year1-example-answer { margin: .6rem 0; }
+.research-teaching .year1-example-answer > summary { cursor: pointer; }
+@media (max-width:480px) { .research-teaching__model { padding: .75rem; } }
