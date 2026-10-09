@@ -6040,5 +6040,51 @@
     "pageCount": 62,
     "listingConfirmedAt": "2026-10-09",
     "listingEvidence": "Owner supplied the published TPT URL; contents verified from the reviewed final workbook. Current price not independently retrieved."
+  },
+  {
+    "id": "tpt-17893030",
+    "title": "Year 1 Story Elements Worksheets | Characters, Settings & Events | AC9E1LE01",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "english",
+    "subjectLabel": "English",
+    "topics": [
+      "story elements",
+      "characters",
+      "settings",
+      "events",
+      "picture clues",
+      "literature",
+      "story sequence"
+    ],
+    "curriculumCodes": [
+      "AC9E1LE01"
+    ],
+    "description": "A 71-page Year 1 English printable pack with 60 practice questions, a separate 15-question test, 10 illustrated learning pages, five extra vocabulary/dictation items, teacher guidance and complete answer keys. Guided literature activities require three adult-supplied picture books, which are not included.",
+    "url": "/product.html?id=tpt-17893030",
+    "image": "/assets/tpt-17893030-cover.svg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "worksheet",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Story-Elements-Worksheets-Characters-Settings-Events-AC9E1LE01-17893030",
+    "tptResourceType": "PDF",
+    "isBundle": false,
+    "free": false,
+    "format": "A4 flattened printable PDF",
+    "includes": [
+      "60 practice questions: 10 in each of six teaching focuses",
+      "A separate 15-question test",
+      "10 illustrated learning pages",
+      "Five additional vocabulary/dictation items",
+      "Teacher/parent guidance and complete answer keys",
+      "71-page A4 printable PDF",
+      "Three adult-supplied picture books required; books not included"
+    ],
+    "practiceQuestions": 60,
+    "testQuestions": 15,
+    "totalQuestions": 75,
+    "pageCount": 71,
+    "listingConfirmedAt": "2026-10-09",
+    "listingEvidence": "Owner supplied the published TPT URL; contents verified from the independently reviewed final AC9E1LE01 workbook. Current price not independently retrieved."
   }
 ]

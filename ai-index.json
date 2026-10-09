@@ -324,9 +324,10 @@
     "url": "https://skillrhub.com/data/tpt-resource-context.json",
     "html_catalogue": "https://skillrhub.com/print-and-go.html#curriculum-resource-directory",
     "observed_at": "2026-10-07",
-    "listed_resources": 124,
+    "listed_resources": 130,
     "curriculum_codes": 102,
-    "access": "Free website resources and separate TpT downloads. Refer to each listing for current price and contents."
+    "access": "Free website resources and separate TpT downloads. Refer to each listing for current price and contents.",
+    "latest_listing_confirmed_at": "2026-10-09"
   },
   "progress_tracker": {
     "name": "SkillrHub Parent & Tutor Progress Tracker",
