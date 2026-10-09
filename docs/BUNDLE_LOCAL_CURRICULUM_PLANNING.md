@@ -14,3 +14,9 @@ Official structure sources inspected:
 - https://victoriancurriculum.vcaa.vic.edu.au/mathematics/mathematics-version-2-0/curriculum/f-10
 
 This change updates SkillrHub pages only. It does not edit TpT listings. Prices, included codes, titles, descriptions, canonicals and existing resource content are preserved.
+
+## Second priority: individual worksheets
+
+The same planning wording was added to 54 available individual worksheet/workbook/assessment products, including free samples and mixed slide-and-worksheet resources explicitly labelled as such. Coverage spans Foundation–Year 6, Maths, Science and English. Pure slide products are excluded. NSW stages follow Kindergarten/Early Stage 1, Years 1–2/Stage 1, Years 3–4/Stage 2, Years 5–6/Stage 3. Victorian English and Mathematics levels follow Foundation and numbered levels; Science uses its level bands. All original product fields, curriculum codes and existing HTML remain unchanged apart from the planning note. This is website product planning copy, not an edit to worksheet PDF files or TpT listings.
+
+Additional official source: https://f10.vcaa.vic.edu.au/learning-areas/english/english/curriculum
