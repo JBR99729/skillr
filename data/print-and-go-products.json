@@ -5843,5 +5843,57 @@
     "listingConfirmedAt": "2026-10-09",
     "listingEvidence": "Owner supplied published TPT listing URL; contents verified from reviewed workbook, current price unverified.",
     "seoTitle": "Year 1 Print & Digital Text Features Worksheets | SkillrHub"
+  },
+  {
+    "id": "year-1-english-simple-sentence-worksheets",
+    "title": "Year 1 English Simple Sentence Worksheets | AC9E1LA06 | VIC VC2E1LA06",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "english",
+    "subjectLabel": "English",
+    "topics": [
+      "simple sentences",
+      "complete sentences",
+      "who or what",
+      "happenings",
+      "states",
+      "sentence meaning",
+      "sentence building",
+      "homeschool",
+      "practice",
+      "test"
+    ],
+    "curriculumCodes": [
+      "AC9E1LA06"
+    ],
+    "description": "A 59-page Year 1 English printable pack with 60 practice questions, a separate 15-question test, illustrated sentence models, teacher guidance and complete answers.",
+    "url": "/products/year-1-english-simple-sentence-worksheets/",
+    "image": "/assets/year-1-english-simple-sentence-worksheets-cover.png",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "worksheet",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-English-Simple-Sentence-Worksheets-AC9E1LA06-VIC-VC2E1LA06-17890741",
+    "tptResourceType": "PDF",
+    "isBundle": false,
+    "free": false,
+    "format": "A4 flattened printable PDF",
+    "includes": [
+      "60 practice questions: 10 in each of six teaching focuses",
+      "Complete simple sentences about happenings and states",
+      "A separate 15-question test with fresh contexts and complete answer keys",
+      "Illustrated concept pages and completed Practice examples",
+      "Five additional vocabulary/dictation items with matching teacher sentences",
+      "Teacher/parent guidance, flexible response options and exact print index",
+      "59-page A4 flattened printable PDF with clean black-and-white student pages",
+      "Australian Curriculum v9 AC9E1LA06; VIC Level 1 VC2E1LA06",
+      "QLD: AC9E1LA06 (QCAA); SA: AC9E1LA06 national reference for locally adapted planning"
+    ],
+    "practiceQuestions": 60,
+    "testQuestions": 15,
+    "totalQuestions": 75,
+    "pageCount": 59,
+    "listingConfirmedAt": "2026-10-09",
+    "listingEvidence": "Owner supplied published TPT listing URL; contents verified from reviewed workbook, current price unverified.",
+    "seoTitle": "Year 1 Simple Sentence Worksheets | SkillrHub"
   }
 ]
