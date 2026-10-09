@@ -149,3 +149,23 @@ body.topic-learning-page {
   .topic-section-nav, .topic-pack, .topic-hero__actions, .topic-bundle-strip, .topic-lesson-cta, .topic-record, .topic-footer { display: none !important; }
   .topic-learning-page .curriculum-hero.topic-hero { display: block; padding: 0; border: 0; }
 }
+/* Shared learning checks: retained quizzes and tests, separate from paid checkout. */
+.topic-online-checks { display:flex; flex-wrap:wrap; gap:12px 24px; align-items:center; padding:20px 0; margin:4px 0 24px; border-block:1px solid var(--topic-line); }
+.topic-online-checks span { color:var(--topic-muted); font-size:.88rem; }
+.topic-online-checks a { color:var(--topic-teal); font-weight:700; min-height:44px; display:inline-flex; align-items:center; gap:8px; }
+.topic-worked-card { padding:16px 18px; margin:18px 0; border:1px solid var(--topic-line); border-radius:8px; background:#f8fbf9; }
+.topic-worked-card > p:last-child { margin-bottom:0; }
+.topic-vocabulary { color:var(--topic-muted); font-size:.9rem; margin:0 0 22px; }
+.topic-learning-page .topic-hero h1 { max-width:18ch; }
+.topic-learning-page .topic-learning-main { overflow-wrap:break-word; }
+.topic-learning-page .topic-focus p { margin-block:0 16px; }
+.topic-learning-page .topic-focus .topic-answer p { margin-block:12px 0; }
+@media(max-width:400px) { .topic-online-checks > span { flex-basis:100%; } .topic-learning-page .topic-hero h1 { max-width:none; } }
+.topic-video-links { margin:30px 0; padding:22px 26px; border:1px solid var(--topic-line); border-radius:10px; background:#fff; }
+.topic-learning-page .topic-video-links h2 { font-size:1.2rem; margin:0 0 12px; }
+.topic-video-links ul { padding-left:20px; margin:0; }
+.topic-video-links a { color:var(--topic-teal); font-weight:650; }
+.topic-video-links p:last-child { color:var(--topic-muted); font-size:.85rem; margin-bottom:0; }
+.topic-custom-packs { max-width:900px; margin:30px auto 0; padding:18px 0; border-top:1px solid var(--topic-line); color:var(--topic-muted); font-size:.85rem; }
+.topic-custom-packs p { margin:0; }
+.topic-custom-packs a { color:var(--topic-teal); }
