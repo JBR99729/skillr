@@ -3,10 +3,361 @@
   "summary": {
     "curriculum_codes": 676,
     "codes_with_research_evidence": 676,
-    "canonical_pages_changed": 7,
+    "canonical_pages_changed": 42,
     "skipped": 32
   },
   "changed": [
+    {
+      "code": "AC9M1N01",
+      "page": "year1/maths/ac9m1n01-numbers-to-120/index.html",
+      "source_records": 4,
+      "evidence_types": [
+        "Checked against curriculum source material",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "Year1_Mathematics_Curriculum_Research_Master.txt",
+        "docs/question-bank-reviews/2026-09-06-year1-maths-drills-n01-n02.md",
+        "docs/year1-stem-quality-audit-2026-08.md"
+      ]
+    },
+    {
+      "code": "AC9M1N02",
+      "page": "year1/maths/ac9m1n02-partitioning-tens-and-ones/index.html",
+      "source_records": 4,
+      "evidence_types": [
+        "Checked against curriculum source material",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "Year1_Mathematics_Curriculum_Research_Master.txt",
+        "docs/question-bank-reviews/2026-09-06-year1-maths-drills-n01-n02.md",
+        "docs/year1-stem-quality-audit-2026-08.md"
+      ]
+    },
+    {
+      "code": "AC9M1N03",
+      "page": "year1/maths/ac9m1n03-skip-counting-and-equal-groups/index.html",
+      "source_records": 3,
+      "evidence_types": [
+        "Checked against curriculum source material",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "Year1_Mathematics_Curriculum_Research_Master.txt",
+        "docs/year1-stem-quality-audit-2026-08.md",
+        "reports/f10-revision-card-coverage.json"
+      ]
+    },
+    {
+      "code": "AC9M1N04",
+      "page": "year1/maths/ac9m1n04-addition-and-subtraction-within-20/index.html",
+      "source_records": 3,
+      "evidence_types": [
+        "Checked against curriculum source material",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "Year1_Mathematics_Curriculum_Research_Master.txt",
+        "docs/year1-stem-quality-audit-2026-08.md",
+        "reports/f10-revision-card-coverage.json"
+      ]
+    },
+    {
+      "code": "AC9M1N05",
+      "page": "year1/maths/ac9m1n05-additive-problem-solving-and-money/index.html",
+      "source_records": 3,
+      "evidence_types": [
+        "Checked against curriculum source material",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "Year1_Mathematics_Curriculum_Research_Master.txt",
+        "docs/year1-stem-quality-audit-2026-08.md",
+        "reports/f10-revision-card-coverage.json"
+      ]
+    },
+    {
+      "code": "AC9M1N06",
+      "page": "year1/maths/ac9m1n06-equal-sharing-and-grouping/index.html",
+      "source_records": 3,
+      "evidence_types": [
+        "Checked against curriculum source material",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "Year1_Mathematics_Curriculum_Research_Master.txt",
+        "docs/year1-stem-quality-audit-2026-08.md",
+        "reports/f10-revision-card-coverage.json"
+      ]
+    },
+    {
+      "code": "AC9M1A01",
+      "page": "year1/maths/ac9m1a01-skip-counting-pattern-sequences/index.html",
+      "source_records": 3,
+      "evidence_types": [
+        "Checked against curriculum source material",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "Year1_Mathematics_Curriculum_Research_Master.txt",
+        "docs/year1-stem-quality-audit-2026-08.md",
+        "reports/f10-revision-card-coverage.json"
+      ]
+    },
+    {
+      "code": "AC9M1A02",
+      "page": "year1/maths/ac9m1a02-repeating-patterns/index.html",
+      "source_records": 3,
+      "evidence_types": [
+        "Checked against curriculum source material",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "Year1_Mathematics_Curriculum_Research_Master.txt",
+        "docs/year1-stem-quality-audit-2026-08.md",
+        "reports/f10-revision-card-coverage.json"
+      ]
+    },
+    {
+      "code": "AC9M1M01",
+      "page": "year1/maths/ac9m1m01-comparing-length-mass-capacity-and-duration/index.html",
+      "source_records": 3,
+      "evidence_types": [
+        "Checked against curriculum source material",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "Year1_Mathematics_Curriculum_Research_Master.txt",
+        "docs/year1-stem-quality-audit-2026-08.md",
+        "reports/f10-revision-card-coverage.json"
+      ]
+    },
+    {
+      "code": "AC9M1M02",
+      "page": "year1/maths/ac9m1m02-measuring-length-with-informal-units/index.html",
+      "source_records": 3,
+      "evidence_types": [
+        "Checked against curriculum source material",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "Year1_Mathematics_Curriculum_Research_Master.txt",
+        "docs/year1-stem-quality-audit-2026-08.md",
+        "reports/f10-revision-card-coverage.json"
+      ]
+    },
+    {
+      "code": "AC9M1M03",
+      "page": "year1/maths/ac9m1m03-time-years-months-weeks-days-and-hours/index.html",
+      "source_records": 3,
+      "evidence_types": [
+        "Checked against curriculum source material",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "Year1_Mathematics_Curriculum_Research_Master.txt",
+        "docs/year1-stem-quality-audit-2026-08.md",
+        "reports/f10-revision-card-coverage.json"
+      ]
+    },
+    {
+      "code": "AC9M1SP01",
+      "page": "year1/maths/ac9m1sp01-familiar-shapes-and-objects/index.html",
+      "source_records": 3,
+      "evidence_types": [
+        "Checked against curriculum source material",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "Year1_Mathematics_Curriculum_Research_Master.txt",
+        "docs/year1-stem-quality-audit-2026-08.md",
+        "reports/f10-revision-card-coverage.json"
+      ]
+    },
+    {
+      "code": "AC9M1SP02",
+      "page": "year1/maths/ac9m1sp02-directions-and-location/index.html",
+      "source_records": 3,
+      "evidence_types": [
+        "Checked against curriculum source material",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "Year1_Mathematics_Curriculum_Research_Master.txt",
+        "docs/year1-stem-quality-audit-2026-08.md",
+        "reports/f10-revision-card-coverage.json"
+      ]
+    },
+    {
+      "code": "AC9M1ST01",
+      "page": "year1/maths/ac9m1st01-collecting-categorical-data/index.html",
+      "source_records": 3,
+      "evidence_types": [
+        "Checked against curriculum source material",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "Year1_Mathematics_Curriculum_Research_Master.txt",
+        "docs/year1-stem-quality-audit-2026-08.md",
+        "reports/f10-revision-card-coverage.json"
+      ]
+    },
+    {
+      "code": "AC9M1ST02",
+      "page": "year1/maths/ac9m1st02-representing-and-comparing-data/index.html",
+      "source_records": 3,
+      "evidence_types": [
+        "Checked against curriculum source material",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "Year1_Mathematics_Curriculum_Research_Master.txt",
+        "docs/year1-stem-quality-audit-2026-08.md",
+        "reports/f10-revision-card-coverage.json"
+      ]
+    },
+    {
+      "code": "AC9S1U01",
+      "page": "year1/science/ac9s1u01-needs-of-plants-and-animals/index.html",
+      "source_records": 4,
+      "evidence_types": [
+        "Checked against curriculum source material",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "Year1_Science_Curriculum_Research_Master.txt",
+        "docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md",
+        "docs/year1-stem-quality-audit-2026-08.md"
+      ]
+    },
+    {
+      "code": "AC9S1U02",
+      "page": "year1/science/ac9s1u02-daily-and-seasonal-changes/index.html",
+      "source_records": 5,
+      "evidence_types": [
+        "Checked against curriculum source material",
+        "Reviewed for curriculum alignment",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "Year1_Science_Curriculum_Research_Master.txt",
+        "docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md",
+        "docs/year1-stem-quality-audit-2026-08.md"
+      ]
+    },
+    {
+      "code": "AC9S1U03",
+      "page": "year1/science/ac9s1u03-pushes-and-pulls/index.html",
+      "source_records": 4,
+      "evidence_types": [
+        "Checked against curriculum source material",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "Year1_Science_Curriculum_Research_Master.txt",
+        "docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md",
+        "docs/year1-stem-quality-audit-2026-08.md"
+      ]
+    },
+    {
+      "code": "AC9S1H01",
+      "page": "year1/science/ac9s1h01-science-in-daily-life/index.html",
+      "source_records": 5,
+      "evidence_types": [
+        "Checked against curriculum source material",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "Year1_Science_Curriculum_Research_Master.txt",
+        "docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md",
+        "docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md"
+      ]
+    },
+    {
+      "code": "AC9S1I01",
+      "page": "year1/science/ac9s1i01-questions-patterns-and-predictions/index.html",
+      "source_records": 5,
+      "evidence_types": [
+        "Checked against curriculum source material",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "Year1_Science_Curriculum_Research_Master.txt",
+        "docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md",
+        "docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md"
+      ]
+    },
+    {
+      "code": "AC9S1I02",
+      "page": "year1/science/ac9s1i02-safe-investigation-procedures/index.html",
+      "source_records": 5,
+      "evidence_types": [
+        "Checked against curriculum source material",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "Year1_Science_Curriculum_Research_Master.txt",
+        "docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md",
+        "docs/question-bank-reviews/2026-09-06-year1-science-u01-u03.md"
+      ]
+    },
+    {
+      "code": "AC9S1I03",
+      "page": "year1/science/ac9s1i03-making-and-recording-observations/index.html",
+      "source_records": 6,
+      "evidence_types": [
+        "Checked against curriculum source material",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "Year1_Science_Curriculum_Research_Master.txt",
+        "docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md",
+        "docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md"
+      ]
+    },
+    {
+      "code": "AC9S1I04",
+      "page": "year1/science/ac9s1i04-sorting-data-and-representing-patterns/index.html",
+      "source_records": 5,
+      "evidence_types": [
+        "Checked against curriculum source material",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "Year1_Science_Curriculum_Research_Master.txt",
+        "docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md",
+        "docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md"
+      ]
+    },
+    {
+      "code": "AC9S1I05",
+      "page": "year1/science/ac9s1i05-comparing-observations-and-predictions/index.html",
+      "source_records": 6,
+      "evidence_types": [
+        "Checked against curriculum source material",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "Year1_Science_Curriculum_Research_Master.txt",
+        "docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md",
+        "docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md"
+      ]
+    },
+    {
+      "code": "AC9S1I06",
+      "page": "year1/science/ac9s1i06-communicating-scientific-ideas/index.html",
+      "source_records": 7,
+      "evidence_types": [
+        "Checked against curriculum source material",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "Year1_Science_Curriculum_Research_Master.txt",
+        "docs/question-bank-reviews/2026-09-06-year1-science-h01-i01-i02.md",
+        "docs/question-bank-reviews/2026-09-06-year1-science-i03-i04-i05.md"
+      ]
+    },
     {
       "code": "AC9E1LA01",
       "page": "year1/english/ac9e1la01-how-language-facial-expressions-and-gestures-are-used-to/index.html",
@@ -94,6 +445,138 @@
     {
       "code": "AC9E1LA07",
       "page": "year1/english/ac9e1la07-that-words-can-represent-people-places-and-things-nouns/index.html",
+      "source_records": 2,
+      "evidence_types": [
+        "Checked against curriculum source material",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "Year1_English_Curriculum_Research_Master.txt",
+        "reports/f10-revision-card-coverage.json"
+      ]
+    },
+    {
+      "code": "AC9E1LA08",
+      "page": "year1/english/ac9e1la08-how-images-in-different-types-of-texts-contribute-to-meaning/index.html",
+      "source_records": 2,
+      "evidence_types": [
+        "Checked against curriculum source material",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "Year1_English_Curriculum_Research_Master.txt",
+        "reports/f10-revision-card-coverage.json"
+      ]
+    },
+    {
+      "code": "AC9E1LA09",
+      "page": "year1/english/ac9e1la09-the-vocabulary-of-learning-area-topics/index.html",
+      "source_records": 2,
+      "evidence_types": [
+        "Checked against curriculum source material",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "Year1_English_Curriculum_Research_Master.txt",
+        "reports/f10-revision-card-coverage.json"
+      ]
+    },
+    {
+      "code": "AC9E1LA10",
+      "page": "year1/english/ac9e1la10-that-written-language-uses-punctuation-such-as-full-stops/index.html",
+      "source_records": 3,
+      "evidence_types": [
+        "Checked against curriculum source material",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "Year1_English_Curriculum_Research_Master.txt",
+        "docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md",
+        "reports/f10-revision-card-coverage.json"
+      ]
+    },
+    {
+      "code": "AC9E1LE01",
+      "page": "year1/english/ac9e1le01-how-language-and-images-are-used-to-create-characters-settings/index.html",
+      "source_records": 2,
+      "evidence_types": [
+        "Checked against curriculum source material",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "Year1_English_Curriculum_Research_Master.txt",
+        "reports/f10-revision-card-coverage.json"
+      ]
+    },
+    {
+      "code": "AC9E1LE02",
+      "page": "year1/english/ac9e1le02-literary-texts-and-share-responses-by-making-connections-with/index.html",
+      "source_records": 2,
+      "evidence_types": [
+        "Checked against curriculum source material",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "Year1_English_Curriculum_Research_Master.txt",
+        "reports/f10-revision-card-coverage.json"
+      ]
+    },
+    {
+      "code": "AC9E1LE03",
+      "page": "year1/english/ac9e1le03-plot-character-and-setting-which-are-features-of-stories/index.html",
+      "source_records": 2,
+      "evidence_types": [
+        "Checked against curriculum source material",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "Year1_English_Curriculum_Research_Master.txt",
+        "reports/f10-revision-card-coverage.json"
+      ]
+    },
+    {
+      "code": "AC9E1LE04",
+      "page": "year1/english/ac9e1le04-poems-chants-rhymes-and-songs-and-imitate-and-invent-sound/index.html",
+      "source_records": 2,
+      "evidence_types": [
+        "Checked against curriculum source material",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "Year1_English_Curriculum_Research_Master.txt",
+        "reports/f10-revision-card-coverage.json"
+      ]
+    },
+    {
+      "code": "AC9E1LE05",
+      "page": "year1/english/ac9e1le05-retell-or-adapt-a-familiar-story-using-plot-and-characters/index.html",
+      "source_records": 2,
+      "evidence_types": [
+        "Checked against curriculum source material",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "Year1_English_Curriculum_Research_Master.txt",
+        "reports/f10-revision-card-coverage.json"
+      ]
+    },
+    {
+      "code": "AC9E1LY01",
+      "page": "year1/english/ac9e1ly01-different-texts-and-identify-some-features-that-indicate-their/index.html",
+      "source_records": 3,
+      "evidence_types": [
+        "Checked against curriculum source material",
+        "Practice and assessment coverage reviewed"
+      ],
+      "sample_records": [
+        "Year1_English_Curriculum_Research_Master.txt",
+        "docs/question-bank-reviews/2026-09-06-year1-english-ly01-ly05.md",
+        "reports/f10-revision-card-coverage.json"
+      ]
+    },
+    {
+      "code": "AC9E1LY02",
+      "page": "year1/english/ac9e1ly02-interaction-skills-including-turn-taking-speaking-clearly-using/index.html",
       "source_records": 2,
       "evidence_types": [
         "Checked against curriculum source material",
