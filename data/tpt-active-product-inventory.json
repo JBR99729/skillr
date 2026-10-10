@@ -1,7 +1,7 @@
 {
   "auditedAt": "2026-10-08",
   "storefront": "https://www.teacherspayteachers.com/store/skillrhub",
-  "activeProductCount": 172,
+  "activeProductCount": 173,
   "products": [
     {
       "productId": "17870172",
@@ -1904,6 +1904,17 @@
       "price": "6.50",
       "regularPrice": "6.50",
       "observedAt": "2026-10-10"
+    },
+    {
+      "productId": "17903608",
+      "title": "Year 1 Speaking & Listening Worksheets | AC9E1LY02 | Turn Taking & Discussion",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Speaking-Listening-Worksheets-AC9E1LY02-Turn-Taking-Discussion-17903608",
+      "image": "/assets/tpt-17903608-cover.png",
+      "isBundle": false,
+      "free": false,
+      "price": "6.50",
+      "regularPrice": "6.50",
+      "observedAt": "2026-10-10"
     }
   ],
   "scopedUpdates": [
@@ -1921,6 +1932,13 @@
         "17902653"
       ],
       "note": "Added newly observed LY01 worksheet listing; full-inventory audit date retained."
+    },
+    {
+      "date": "2026-10-10",
+      "productIds": [
+        "17903608"
+      ],
+      "note": "Added newly observed LY02 worksheet listing; full-inventory audit date retained."
     }
   ]
 }
