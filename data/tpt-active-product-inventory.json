@@ -1,7 +1,7 @@
 {
   "auditedAt": "2026-10-08",
   "storefront": "https://www.teacherspayteachers.com/store/skillrhub",
-  "activeProductCount": 169,
+  "activeProductCount": 171,
   "products": [
     {
       "productId": "17870172",
@@ -1870,6 +1870,28 @@
       "free": false,
       "price": "6.00",
       "regularPrice": "6.00",
+      "observedAt": "2026-10-10"
+    },
+    {
+      "productId": "17901926",
+      "title": "Year 1 Story Retelling & Adaptation Worksheets | AC9E1LE05 | VC2E1LE05",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Story-Retelling-Adaptation-Worksheets-AC9E1LE05-VC2E1LE05-17901926",
+      "image": "/assets/tpt-17901926-cover.png",
+      "isBundle": false,
+      "free": false,
+      "price": "6.00",
+      "regularPrice": "6.00",
+      "observedAt": "2026-10-10"
+    },
+    {
+      "productId": "17902041",
+      "title": "Year 1 English Literature Worksheets & Tests Bundle | AC9E1LE01–LE05 | VIC",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-English-Literature-Worksheets-Tests-Bundle-AC9E1LE01LE05-VIC-17902041",
+      "image": "/assets/tpt-17902041-cover.png",
+      "isBundle": true,
+      "free": false,
+      "price": "27.45",
+      "regularPrice": "27.45",
       "observedAt": "2026-10-10"
     }
   ],

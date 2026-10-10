@@ -6220,5 +6220,100 @@
     ],
     "listingConfirmedAt": "2026-10-10",
     "listingEvidence": "Live TPT listing, price, cover and page count observed; final worksheet and preview uploaded and verified."
+  },
+  {
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "english",
+    "subjectLabel": "English",
+    "currency": "USD",
+    "available": true,
+    "free": false,
+    "format": "A4 printable PDF",
+    "tptResourceType": "PDF",
+    "listingConfirmedAt": "2026-10-10",
+    "listingEvidence": "Live TPT listing and price verified on 2026-10-10.",
+    "id": "tpt-17901926",
+    "title": "Year 1 Story Retelling & Adaptation Worksheets | AC9E1LE05 | VC2E1LE05",
+    "topics": [
+      "retell and adapt stories",
+      "literature",
+      "AC9E1LE05"
+    ],
+    "curriculumCodes": [
+      "AC9E1LE05"
+    ],
+    "description": "A 75-page A4 printable pack with 60 practice questions, a separate 15-question test, original stories, illustrated concept teaching, oral retelling and adaptation prompts, teacher guidance and complete answers.",
+    "url": "/products/tpt-17901926/",
+    "image": "/assets/tpt-17901926-cover.png",
+    "price": "6.00",
+    "resourceType": "worksheet",
+    "isBundle": false,
+    "practiceQuestions": 60,
+    "testQuestions": 15,
+    "totalQuestions": 75,
+    "pageCount": 75,
+    "previewPages": 13,
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Story-Retelling-Adaptation-Worksheets-AC9E1LE05-VC2E1LE05-17901926",
+    "includes": [
+      "60 practice questions across six teaching focuses",
+      "A separate 15-question test",
+      "Original stories, concept teaching and oral performance prompts",
+      "Teacher guidance and complete answers",
+      "75 A4 PDF pages",
+      "13-page product preview on TPT"
+    ]
+  },
+  {
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "english",
+    "subjectLabel": "English",
+    "currency": "USD",
+    "available": true,
+    "free": false,
+    "format": "A4 printable PDF",
+    "tptResourceType": "PDF",
+    "listingConfirmedAt": "2026-10-10",
+    "listingEvidence": "Live TPT listing and price verified on 2026-10-10.",
+    "id": "tpt-17902041",
+    "title": "Year 1 English Literature Worksheets & Tests Bundle | AC9E1LE01–LE05 | VIC",
+    "topics": [
+      "literature",
+      "stories",
+      "rhyme",
+      "alliteration",
+      "retelling",
+      "bundle"
+    ],
+    "curriculumCodes": [
+      "AC9E1LE01",
+      "AC9E1LE02",
+      "AC9E1LE03",
+      "AC9E1LE04",
+      "AC9E1LE05"
+    ],
+    "description": "Five Year 1 Literature worksheet packs: 375 pages, 300 practice questions and 75 separate test questions, with answers and teacher guidance. Covers story elements, personal connections, plot and characters, sound play, and retelling/adaptation. This is a Literature bundle, not a complete Year 1 English program. The LE01 pack requires three adult-supplied picture books; books are not included.",
+    "url": "/products/tpt-17902041/",
+    "image": "/assets/tpt-17902041-cover.png",
+    "price": "27.45",
+    "listPrice": "30.50",
+    "resourceType": "bundle",
+    "isBundle": true,
+    "practiceQuestions": 300,
+    "testQuestions": 75,
+    "totalQuestions": 375,
+    "pageCount": 375,
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-English-Literature-Worksheets-Tests-Bundle-AC9E1LE01LE05-VIC-17902041",
+    "includes": [
+      "Five complete worksheet packs for AC9E1LE01–LE05",
+      "375 A4 pages: 300 practice and 75 separate test questions",
+      "Concept teaching, original texts, teacher guidance and answers",
+      "Save US$3.05 (10%) against the five packs purchased separately",
+      "Australian, Victorian, NSW, Queensland and SA references; US standards have partial coverage only",
+      "The five packs are also sold separately; check previous purchases to avoid duplicates",
+      "Product previews and checkout on TPT",
+      "The LE01 pack requires three adult-supplied picture books; books are not included."
+    ]
   }
 ]
