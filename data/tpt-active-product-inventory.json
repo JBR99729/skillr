@@ -1,7 +1,7 @@
 {
   "auditedAt": "2026-10-08",
   "storefront": "https://www.teacherspayteachers.com/store/skillrhub",
-  "activeProductCount": 171,
+  "activeProductCount": 172,
   "products": [
     {
       "productId": "17870172",
@@ -1893,6 +1893,17 @@
       "price": "27.45",
       "regularPrice": "27.45",
       "observedAt": "2026-10-10"
+    },
+    {
+      "productId": "17902653",
+      "title": "Year 1 Text Purpose Worksheets | AC9E1LY01 | Australian Curriculum v9",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Text-Purpose-Worksheets-AC9E1LY01-Australian-Curriculum-v9-17902653",
+      "image": "/assets/tpt-17902653-cover.svg",
+      "isBundle": false,
+      "free": false,
+      "price": "6.50",
+      "regularPrice": "6.50",
+      "observedAt": "2026-10-10"
     }
   ],
   "scopedUpdates": [
@@ -1903,6 +1914,13 @@
         "17901393"
       ],
       "note": "Two newly published worksheet listings added; prior full-inventory audit date retained."
+    },
+    {
+      "date": "2026-10-10",
+      "productIds": [
+        "17902653"
+      ],
+      "note": "Added newly observed LY01 worksheet listing; full-inventory audit date retained."
     }
   ]
 }

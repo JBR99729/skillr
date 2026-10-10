@@ -6315,5 +6315,54 @@
       "Product previews and checkout on TPT",
       "The LE01 pack requires three adult-supplied picture books; books are not included."
     ]
+  },
+  {
+    "id": "tpt-17902653",
+    "title": "Year 1 Text Purpose Worksheets | AC9E1LY01 | Australian Curriculum v9",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "english",
+    "subjectLabel": "English",
+    "topics": [
+      "text purpose",
+      "text features",
+      "literacy",
+      "imaginative",
+      "informative",
+      "instructional",
+      "persuasive"
+    ],
+    "curriculumCodes": [
+      "AC9E1LY01"
+    ],
+    "description": "A 67-page A4 printable pack with 60 practice questions, a separate 15-question test, illustrated concept pages, five extra dictation items, original text examples, teacher guidance and complete answers.",
+    "url": "/products/tpt-17902653/",
+    "image": "/assets/tpt-17902653-cover.svg",
+    "price": "6.50",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "worksheet",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Text-Purpose-Worksheets-AC9E1LY01-Australian-Curriculum-v9-17902653",
+    "free": false,
+    "format": "A4 printable PDF",
+    "tptResourceType": "PDF",
+    "practiceQuestions": 60,
+    "testQuestions": 15,
+    "totalQuestions": 75,
+    "pageCount": 67,
+    "previewPages": 13,
+    "includes": [
+      "60 practice questions",
+      "Separate 15-question test",
+      "Illustrated concept pages and original text examples",
+      "Five extra dictation items",
+      "Teacher guidance and complete answers",
+      "67 A4 PDF pages",
+      "13-page product preview on TpT"
+    ],
+    "learningGoals": [
+      "Discuss different texts and identify features that indicate their purpose."
+    ],
+    "listingConfirmedAt": "2026-10-10"
   }
 ]
