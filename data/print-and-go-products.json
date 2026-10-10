@@ -6130,5 +6130,95 @@
     "pageCount": 76,
     "listingConfirmedAt": "2026-10-09",
     "listingEvidence": "Owner supplied the published TPT URL; contents verified from the independently reviewed final AC9E1LE02 workbook. Current price not independently retrieved."
+  },
+  {
+    "id": "tpt-17901544",
+    "title": "Year 1 Characters, Setting & Plot Worksheets | AC9E1LE03 | VC2E1LE03",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "english",
+    "subjectLabel": "English",
+    "topics": [
+      "story detectives: characters, setting and plot",
+      "literature",
+      "AC9E1LE03"
+    ],
+    "curriculumCodes": [
+      "AC9E1LE03"
+    ],
+    "description": "A 76-page A4 printable pack with 60 practice questions, a separate 15-question test, seven illustrated concept pages, five extra vocabulary/dictation items, original stories and poems, teacher guidance and complete answers.",
+    "url": "/products/tpt-17901544/",
+    "image": "/assets/tpt-17901544-cover.png",
+    "price": "6.00",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "worksheet",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Characters-Setting-Plot-Worksheets-AC9E1LE03-VC2E1LE03-17901544",
+    "free": false,
+    "format": "A4 printable PDF",
+    "tptResourceType": "PDF",
+    "practiceQuestions": 60,
+    "testQuestions": 15,
+    "totalQuestions": 75,
+    "pageCount": 76,
+    "previewPages": 13,
+    "includes": [
+      "60 practice questions across six teaching focuses",
+      "A separate 15-question test",
+      "Concept teaching pages and original texts",
+      "Teacher guidance and complete answers",
+      "76 A4 PDF pages",
+      "13-page product preview on TPT"
+    ],
+    "learningGoals": [
+      "Discuss who is in a story, where and when it happens, and how its events fit together."
+    ],
+    "listingConfirmedAt": "2026-10-10",
+    "listingEvidence": "Live TPT listing, price, cover and page count observed; final worksheet and preview uploaded and verified."
+  },
+  {
+    "id": "tpt-17901393",
+    "title": "Year 1 Rhyme & Alliteration Worksheets | AC9E1LE04 | VC2E1LE04",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "english",
+    "subjectLabel": "English",
+    "topics": [
+      "sound play: rhyme and alliteration",
+      "literature",
+      "AC9E1LE04"
+    ],
+    "curriculumCodes": [
+      "AC9E1LE04"
+    ],
+    "description": "A 77-page A4 printable pack with 60 practice questions, a separate 15-question test, concept teaching pages, original listening texts and a tune guide, teacher guidance, an observation sheet, supported dictation and complete answers.",
+    "url": "/products/tpt-17901393/",
+    "image": "/assets/tpt-17901393-cover.png",
+    "price": "6.00",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "worksheet",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Rhyme-Alliteration-Worksheets-AC9E1LE04-VC2E1LE04-17901393",
+    "free": false,
+    "format": "A4 printable PDF",
+    "tptResourceType": "PDF",
+    "practiceQuestions": 60,
+    "testQuestions": 15,
+    "totalQuestions": 75,
+    "pageCount": 77,
+    "previewPages": 13,
+    "includes": [
+      "60 practice questions across six teaching focuses",
+      "A separate 15-question test",
+      "Concept teaching pages and original texts",
+      "Teacher guidance and complete answers",
+      "77 A4 PDF pages",
+      "13-page product preview on TPT"
+    ],
+    "learningGoals": [
+      "Listen to and discuss poems, chants, rhymes and songs, then imitate and invent their sound patterns."
+    ],
+    "listingConfirmedAt": "2026-10-10",
+    "listingEvidence": "Live TPT listing, price, cover and page count observed; final worksheet and preview uploaded and verified."
   }
 ]

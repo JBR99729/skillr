@@ -1,7 +1,7 @@
 {
   "auditedAt": "2026-10-08",
   "storefront": "https://www.teacherspayteachers.com/store/skillrhub",
-  "activeProductCount": 167,
+  "activeProductCount": 169,
   "products": [
     {
       "productId": "17870172",
@@ -1849,6 +1849,38 @@
       "regularPrice": null,
       "listingConfirmedAt": "2026-10-09",
       "listingEvidence": "Owner supplied the published TPT URL; contents verified from the independently reviewed final AC9E1LE02 workbook. Current price not independently retrieved."
+    },
+    {
+      "productId": "17901544",
+      "title": "Year 1 Characters, Setting & Plot Worksheets | AC9E1LE03 | VC2E1LE03",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Characters-Setting-Plot-Worksheets-AC9E1LE03-VC2E1LE03-17901544",
+      "image": "/assets/tpt-17901544-cover.png",
+      "isBundle": false,
+      "free": false,
+      "price": "6.00",
+      "regularPrice": "6.00",
+      "observedAt": "2026-10-10"
+    },
+    {
+      "productId": "17901393",
+      "title": "Year 1 Rhyme & Alliteration Worksheets | AC9E1LE04 | VC2E1LE04",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Rhyme-Alliteration-Worksheets-AC9E1LE04-VC2E1LE04-17901393",
+      "image": "/assets/tpt-17901393-cover.png",
+      "isBundle": false,
+      "free": false,
+      "price": "6.00",
+      "regularPrice": "6.00",
+      "observedAt": "2026-10-10"
+    }
+  ],
+  "scopedUpdates": [
+    {
+      "date": "2026-10-10",
+      "productIds": [
+        "17901544",
+        "17901393"
+      ],
+      "note": "Two newly published worksheet listings added; prior full-inventory audit date retained."
     }
   ]
 }
