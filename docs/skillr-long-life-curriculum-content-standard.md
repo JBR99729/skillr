@@ -181,3 +181,15 @@ For every migrated curriculum code, verify:
 ## 11. Change control
 
 Static Curriculum Architecture v2 is the current locked delivery architecture. Any future structural change requires the explicit unlock phrase defined in `docs/static-curriculum-architecture-v2.md`.
+
+
+## Referenced visual evidence QA (owner feedback, 2026-10-10)
+
+- Every self-contained prompt referring to a picture, illustration, diagram, table, chart or passage must include the actual evidence, with matching labels and details. Describing an absent image is not a substitute.
+- Put the referenced visual in the same openable teaching section as its question. Do not depend on another collapsed section being open.
+- Prefer the matching worksheet artwork; otherwise use a realistic educational illustration. Monochrome is acceptable. Keep illustration style, framing and label treatment consistent within the lesson. Exact diagrams and labels may use deterministic SVG/HTML.
+- Check picture/question/answer agreement manually: subject, count, position, sequence, named parts and colour claims. Do not ask for colour evidence in a monochrome image.
+- An intentionally incorrect label must be explicitly identified as an error-check task, with the correct evidence available.
+- External-book activities must name the need for an adult-supplied book, rather than imply that its pages are included.
+- Check image paths, alternative text, unique diagram IDs, aspect ratio and legibility before publication.
+- Publication is blocked if illustrations mix inconsistent formats within a lesson: check rendering style, line weight/shading, framing, scale, captions and label treatment together. Use a consistent textbook illustration format, with matching worksheet artwork preferred. A deliberate comparison of cartoon versus realistic artwork is allowed only when that difference is the teaching objective and is explicitly labelled. Exact charts, arrows and diagrams may remain schematic.
