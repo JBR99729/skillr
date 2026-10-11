@@ -1,5 +1,60 @@
 [
   {
+    "id": "tpt-17911863",
+    "title": "Year 1 Reading Comprehension Strategies | AC9E1LY05 | 50 Practice + 15 Test Tasks",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "english",
+    "subjectLabel": "English",
+    "topics": [
+      "reading comprehension",
+      "visualising",
+      "predicting",
+      "connecting",
+      "summarising",
+      "questioning",
+      "inference",
+      "context clues",
+      "listening comprehension"
+    ],
+    "curriculumCodes": [
+      "AC9E1LY05"
+    ],
+    "description": "A 71-page A4 printable pack with 50 practice tasks, a separate 15-task test, five additional vocabulary and dictation items, complete answers and an eight-slide teaching PowerPoint with teaching notes.",
+    "url": "/products/tpt-17911863/",
+    "image": "/assets/tpt-17911863-cover.png",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "worksheet",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Reading-Comprehension-Strategies-AC9E1LY05-50-Practice-15-Test-Task-17911863",
+    "free": false,
+    "format": "A4 printable PDF + PowerPoint",
+    "tptResourceType": "PDF + PPTX",
+    "practiceQuestions": 50,
+    "testQuestions": 15,
+    "totalQuestions": 65,
+    "additionalItems": 5,
+    "pageCount": 71,
+    "previewPages": 16,
+    "slideCount": 8,
+    "includes": [
+      "50 practice tasks: 10 per strategy",
+      "Separate 15-task assessment",
+      "Five additional vocabulary and dictation items",
+      "Eight flattened teaching slides with teaching notes",
+      "Worked teaching examples and guided tries",
+      "Picture-based tasks, short texts, drawing and written responses",
+      "Adult listening scripts and read-aloud guidance",
+      "Complete answer keys, explanations and flexible marking notes",
+      "Teacher guide, assessment recording guidance and selective printing map",
+      "71-page A4 PDF and 16-page product preview"
+    ],
+    "learningGoals": [
+      "Visualise, predict and check, connect and infer, summarise, and ask questions using evidence."
+    ],
+    "listingConfirmedAt": "2026-10-11"
+  },
+  {
     "id": "tpt-17910617",
     "title": "Year 1 Reading Fluency & Phonics Worksheets | AC9E1LY04",
     "year": 1,

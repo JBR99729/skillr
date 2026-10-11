@@ -1,8 +1,17 @@
 {
   "auditedAt": "2026-10-08",
   "storefront": "https://www.teacherspayteachers.com/store/skillrhub",
-  "activeProductCount": 174,
+  "activeProductCount": 175,
   "products": [
+    {
+      "productId": "17911863",
+      "title": "Year 1 Reading Comprehension Strategies | AC9E1LY05 | 50 Practice + 15 Test Tasks",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Reading-Comprehension-Strategies-AC9E1LY05-50-Practice-15-Test-Task-17911863",
+      "image": "https://skillrhub.com/assets/tpt-17911863-cover.png",
+      "isBundle": false,
+      "free": false,
+      "observedAt": "2026-10-11"
+    },
     {
       "productId": "17870172",
       "title": "Year 1 Maths Full Year Worksheet & Test Bundle | 15 Codes | Australian v9",
