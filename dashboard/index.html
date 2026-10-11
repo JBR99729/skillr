@@ -20,6 +20,7 @@
   <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
   <link rel="stylesheet" href="/style.css?v=20260813-5">
   <link rel="stylesheet" href="/dashboard/style.css?v=20260905-1">
+<link rel="stylesheet" href="/assets/learning-promise.css?v=20261012">
 </head>
 <body class="progress-page">
   <main class="progress-shell">
@@ -56,6 +57,19 @@
       </div>
     </header>
 
+<section class="learning-promise" id="free-learning-promise" aria-labelledby="learning-promise-title">
+<p class="learning-promise-kicker">Our free-access promise</p><h2 id="learning-promise-title">Our first million answers are on us.</h2>
+<p><strong>Free Skillr-app access until we reach 1,000,000 answers together.</strong></p><p>Starting with Year 1. New skills added as we grow. Create a parent account, add your child’s Year 1 profile and start learning.</p>
+<p class="learning-promise-note">The milestone is the combined total for all users, not a limit for each child. Paid printable packs are sold separately.</p>
+<a class="learning-promise-cta" href="https://app.skillrhub.com/?signup=1">Create a free parent account →</a>
+<div class="learning-global-stats" data-learning-stats>
+<h3>Questions answered across Skillr-app</h3>
+<div class="learning-total"><strong data-stat="total">—</strong><span> questions answered</span></div>
+<progress data-stat="progress" max="1000000" value="0" aria-label="Progress towards one million answered questions" hidden></progress>
+<p data-stat="milestone">Our shared milestone: 1,000,000 answered questions.</p>
+<p class="learning-promise-note" data-stat="status" role="status">Loading the platform total…</p><button type="button" class="learning-stats-refresh" data-stats-refresh>Refresh statistics</button>
+<noscript><p>Enable JavaScript to load the latest global statistics.</p></noscript>
+</div></section>
     <section class="dashboard-quick-tools" aria-label="Quick classroom tools">
       <!-- Score print tool paused while this flow is reviewed. -->
       <button id="openReset" class="dashboard-tool-button dashboard-tool-button--reset" type="button">
@@ -128,5 +142,7 @@
   <script src="/dashboard/script.js?v=20260906-y1-original-v1"></script>
   <script src="/assets/first-visit-onboarding.js?v=20260814-dashboard1"></script>
   <script src="/pwa-register.js?v=5"></script>
+<script type="module" src="/assets/learning-stats.js?v=20261012"></script>
 </body>
 </html>
+
