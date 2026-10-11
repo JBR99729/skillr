@@ -105,3 +105,17 @@ Static Curriculum Architecture v2 is now locked. Cosmetic, accessibility, factua
 `Unlock Static Curriculum Architecture v2`
 
 Do not weaken or bypass these rules in bulk-generation scripts, validators or one-off topic rebuilds.
+
+
+## Mandatory topic-page parity and completion gate — 11 October 2026
+
+Owner instruction: because SkillrHub has many codes, a topic-page update must be correct by default and must not rely on the owner visiting each page to find mismatches.
+
+Before declaring any topic-page change complete:
+1. Select the approved Year 1 Maths topic-page reference and write the intended retained-section list for that task.
+2. Inspect the final source section inventory (headings, `details` summaries, CTAs and navigation). Compare it directly against the retained list.
+3. Remove every legacy, duplicate or competing block outside the approved pattern—not merely identify it. This includes legacy resource facts/option selectors, duplicated actions, research/checking/process disclosures, repeated curriculum metadata, feedback/promotional panels and obsolete equivalent/mapping blocks unless the owner explicitly asks to retain one.
+4. Verify one video-first entry point where appropriate, one clear matching-product CTA, concise teaching focuses/worked examples, and the required resource path. Verify there are no duplicate CTAs or old headings left.
+5. Record the comparison and pass/fail result in the update handoff. A page with any unexplained extra legacy block is **NOT COMPLETE** and must not be described as matching the Year 1 style.
+
+Apply this automatically to every future topic-page creation, refresh and revision. Do not treat a copied hero, shared CSS class or partial layout conversion as style parity.
