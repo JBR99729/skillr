@@ -6460,5 +6460,55 @@
       "Listen actively, take turns, speak clearly, respond and contribute ideas and questions."
     ],
     "listingConfirmedAt": "2026-10-10"
+  },
+  {
+    "id": "tpt-17911056",
+    "title": "Year 2 Maths Measurement Workbook | Length, Capacity & Mass | AC9M2M01",
+    "year": 2,
+    "yearLabel": "Year 2",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "measurement",
+      "length",
+      "capacity",
+      "mass",
+      "informal units",
+      "uniform units",
+      "accuracy",
+      "practice",
+      "test"
+    ],
+    "curriculumCodes": [
+      "AC9M2M01"
+    ],
+    "description": "A 45-page Year 2 measurement workbook with 50 practice questions, a separate 15-question test, 15 illustrated Learn from Example pages, teacher planning support and complete answers. Students measure, compare and explain length, capacity and mass using uniform informal units.",
+    "url": "/products/tpt-17911056/",
+    "image": "/icons/skillrhub-mark.svg",
+    "price": "6.00",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "workbook",
+    "free": false,
+    "format": "A4 printable PDF",
+    "tptResourceType": "PDF",
+    "practiceQuestions": 50,
+    "testQuestions": 15,
+    "totalQuestions": 65,
+    "pageCount": 45,
+    "previewPages": 9,
+    "includes": [
+      "15 illustrated Learn from Example pages",
+      "50 structured practice questions",
+      "Separate 15-question test",
+      "Teacher planning and assessment support",
+      "Complete answers",
+      "45 A4 printable PDF pages"
+    ],
+    "learningGoals": [
+      "Measure and compare length, capacity and mass using suitable uniform informal units, then explain how unit size affects the count."
+    ],
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-2-Maths-Measurement-Workbook-Length-Capacity-Mass-AC9M2M01-17911056",
+    "listingConfirmedAt": "2026-10-11"
   }
 ]
