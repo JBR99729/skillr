@@ -1,5 +1,94 @@
 [
   {
+    "id": "tpt-17915056",
+    "title": "Year 1 Oral Presentations | AC9E1LY07 | 50 Practice + 15 Test Tasks",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "english",
+    "subjectLabel": "English",
+    "topics": [
+      "oral presentations",
+      "speaking",
+      "multimodal presentations",
+      "gesture",
+      "volume",
+      "pace"
+    ],
+    "curriculumCodes": [
+      "AC9E1LY07"
+    ],
+    "description": "A 72-page A4 printable pack with 50 practice tasks, a separate 15-task test, teaching models, guided tries and teacher keys. Children plan and deliver short oral and multimodal presentations.",
+    "url": "/products/tpt-17915056/",
+    "image": "/assets/tpt-17915056-cover.png",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "worksheet",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Oral-Presentations-AC9E1LY07-50-Practice-15-Test-Tasks-17915056",
+    "free": false,
+    "isBundle": false,
+    "format": "A4 flattened printable PDF",
+    "tptResourceType": "PDF",
+    "practiceQuestions": 50,
+    "testQuestions": 15,
+    "totalQuestions": 65,
+    "additionalItems": 5,
+    "pageCount": 72,
+    "previewPages": 14,
+    "includes": [
+      "50 practice tasks across five teaching focuses",
+      "Separate 15-task test",
+      "Ten teaching models and five guided tries",
+      "Five additional vocabulary and dictation items",
+      "Teacher guidance, observation criteria and answer keys",
+      "72-page flattened A4 PDF; 14-page preview on TpT"
+    ],
+    "listingConfirmedAt": "2026-10-12"
+  },
+  {
+    "id": "tpt-17915083",
+    "title": "Year 1 Handwriting Worksheets | AC9E1LY08 | 20 Practice + 15 Test Tasks",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "english",
+    "subjectLabel": "English",
+    "topics": [
+      "handwriting",
+      "letter formation",
+      "lower-case letters",
+      "capital letters",
+      "word spacing"
+    ],
+    "curriculumCodes": [
+      "AC9E1LY08"
+    ],
+    "description": "A 26-page A4 printable pack with 20 practice tasks, a separate 15-task test, clear handwriting models and teacher keys. Children trace, copy and improve words using unjoined lower-case and capital letters.",
+    "url": "/products/tpt-17915083/",
+    "image": "/assets/tpt-17915083-cover.png",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "worksheet",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Handwriting-Worksheets-AC9E1LY08-20-Practice-15-Test-Tasks-17915083",
+    "free": false,
+    "isBundle": false,
+    "format": "A4 flattened printable PDF",
+    "tptResourceType": "PDF",
+    "practiceQuestions": 20,
+    "testQuestions": 15,
+    "totalQuestions": 35,
+    "additionalItems": 5,
+    "pageCount": 26,
+    "previewPages": 11,
+    "includes": [
+      "20 practice tasks: 10 per handwriting focus",
+      "Separate 15-task test",
+      "Worked handwriting models and guided practice",
+      "Five additional vocabulary and dictation items",
+      "Teacher guidance, observation record and answer keys",
+      "26-page flattened A4 PDF; 11-page preview on TpT"
+    ],
+    "listingConfirmedAt": "2026-10-12"
+  },
+  {
     "id": "tpt-17912990",
     "title": "Year 2 Numbers to 1000 Worksheets | Place Value | AC9M2N01",
     "year": 2,
