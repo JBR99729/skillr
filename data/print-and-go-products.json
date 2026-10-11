@@ -6631,5 +6631,49 @@
     ],
     "tptUrl": "https://www.teacherspayteachers.com/Product/Year-2-Maths-Measurement-Workbook-Length-Capacity-Mass-AC9M2M01-17911056",
     "listingConfirmedAt": "2026-10-11"
+  },
+  {
+    "id": "tpt-17913803",
+    "title": "Year 1 Writing Short Texts | AC9E1LY06 | 50 Practice + 15 Test Tasks",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "english",
+    "subjectLabel": "English",
+    "topics": [
+      "writing",
+      "reports",
+      "opinions and reasons",
+      "recounts",
+      "picture captions",
+      "rereading and editing"
+    ],
+    "curriculumCodes": [
+      "AC9E1LY06"
+    ],
+    "description": "A 53-page A4 printable workbook with 50 practice tasks, a separate 15-task test, five teaching focuses with models and guided tries, five additional vocabulary/dictation items, teacher guidance and complete answers.",
+    "url": "/products/tpt-17913803/",
+    "image": "/assets/tpt-17913803-cover.png",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "worksheet",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Writing-Short-Texts-AC9E1LY06-50-Practice-15-Test-Tasks-17913803",
+    "free": false,
+    "isBundle": false,
+    "format": "A4 flattened printable PDF",
+    "tptResourceType": "PDF",
+    "practiceQuestions": 50,
+    "testQuestions": 15,
+    "totalQuestions": 65,
+    "pageCount": 53,
+    "previewPages": 13,
+    "includes": [
+      "50 practice tasks across five writing focuses",
+      "Separate 15-task test",
+      "Models and guided tries for reports, opinions, recounts, captions and editing",
+      "Five additional vocabulary/dictation items",
+      "Teacher guidance and complete answers",
+      "53 A4 PDF pages; 13-page preview on TpT"
+    ],
+    "listingConfirmedAt": "2026-10-11"
   }
 ]
