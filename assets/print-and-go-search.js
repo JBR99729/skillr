@@ -100,7 +100,7 @@
     const priceText = product.price === undefined ? 'See current price on TPT' : product.free || Number(product.price) === 0 ? 'Free on TPT' : product.resourceType === 'teaching-sample' ? 'Free sample' : new Intl.NumberFormat('en-AU', {style: 'currency', currency: product.currency}).format(Number(product.price));
     article.append(link, element('p', product.curriculumCodes.join(' · '), 'small'), element('p', product.description), element('p', priceText, 'price'), details);
     const buyUrl = product.paidTptUrl || product.tptUrl || null;
-    if (buyUrl) { const buyLabel = product.free || Number(product.price) === 0 ? 'Get free pack on TPT' : isSlides ? 'Slides · US$' + Number(product.paidPrice || product.price || 0).toFixed(2) : 'View on TPT'; const buy = element('a', buyLabel, 'button'); buy.href = buyUrl; buy.target = '_blank'; buy.rel = 'noopener noreferrer'; article.append(buy); }
+    if (buyUrl) { const buyLabel = product.free || Number(product.price) === 0 ? 'Get free pack on TPT' : isSlides && (product.paidPrice !== undefined || product.price !== undefined) ? 'Slides · US$' + Number(product.paidPrice || product.price).toFixed(2) : 'View on TPT'; const buy = element('a', buyLabel, 'button'); buy.href = buyUrl; buy.target = '_blank'; buy.rel = 'noopener noreferrer'; article.append(buy); }
     if (product.bundleTptUrl) { const offer = element('a', 'Bundle · US$' + Number(product.bundlePrice || 0).toFixed(2) + ' (save 20%)', 'button bundle-button'); offer.href = product.bundleTptUrl; offer.target = '_blank'; offer.rel = 'noopener noreferrer'; article.append(offer); }
     return article;
   }
@@ -225,3 +225,4 @@
     render();
   }).catch(() => {failed = true; render();});
 }());
+

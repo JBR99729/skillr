@@ -1,5 +1,71 @@
 [
   {
+    "id": "tpt-17912990",
+    "title": "Year 2 Numbers to 1000 Worksheets | Place Value | AC9M2N01",
+    "year": 2,
+    "yearLabel": "Year 2",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "numbers to 1000",
+      "place value",
+      "number names",
+      "number lines",
+      "compare and order",
+      "number charts"
+    ],
+    "curriculumCodes": [
+      "AC9M2N01"
+    ],
+    "description": "37-page printable workbook with 50 practice questions, a separate 15-question test, five extra vocabulary/dictation prompts, worked teaching examples and complete answer keys.",
+    "url": "/products/tpt-17912990/",
+    "image": "/assets/tpt-17912990-cover.png",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "worksheet",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-2-Numbers-to-1000-Worksheets-Place-Value-AC9M2N01-17912990",
+    "free": false,
+    "format": "Flattened A4 PDF",
+    "listingConfirmedAt": "2026-10-11",
+    "practiceQuestions": 50,
+    "testQuestions": 15,
+    "totalQuestions": 65,
+    "additionalItems": 5,
+    "pageCount": 37,
+    "previewPages": 13
+  },
+  {
+    "id": "tpt-17913187",
+    "title": "Year 2 Numbers to 1000 PowerPoint | Place Value | AC9M2N01",
+    "year": 2,
+    "yearLabel": "Year 2",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "numbers to 1000",
+      "place value",
+      "number names",
+      "number lines",
+      "compare and order",
+      "number charts"
+    ],
+    "curriculumCodes": [
+      "AC9M2N01"
+    ],
+    "description": "23 standalone teaching slides with visible step-by-step examples, guided practice and worked answers. Flattened PowerPoint; no speaker notes. Worksheet sold separately.",
+    "url": "/products/tpt-17913187/",
+    "image": "/assets/tpt-17913187-cover.png",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-2-Numbers-to-1000-PowerPoint-Place-Value-AC9M2N01-17913187",
+    "free": false,
+    "format": "Flattened PPTX",
+    "listingConfirmedAt": "2026-10-11",
+    "slideCount": 23,
+    "previewPages": 8
+  },
+  {
     "id": "tpt-17911863",
     "title": "Year 1 Reading Comprehension Strategies | AC9E1LY05 | 50 Practice + 15 Test Tasks",
     "year": 1,
