@@ -1,5 +1,54 @@
 [
   {
+    "id": "tpt-17910617",
+    "title": "Year 1 Reading Fluency & Phonics Worksheets | AC9E1LY04",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "english",
+    "subjectLabel": "English",
+    "topics": [
+      "phonics",
+      "reading fluency",
+      "decodable texts",
+      "phrasing",
+      "punctuation",
+      "self correction"
+    ],
+    "curriculumCodes": [
+      "AC9E1LY04"
+    ],
+    "description": "A 75-page A4 printable pack with 60 practice tasks across six learning focuses, a separate 15-task test, five extra vocabulary/dictation items, illustrated teaching examples, adult listening guidance and complete answers.",
+    "url": "/products/tpt-17910617/",
+    "image": "/assets/tpt-17910617-cover.png",
+    "price": "6.50",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "worksheet",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Reading-Fluency-Phonics-Worksheets-AC9E1LY04-75-Tasks-17910617",
+    "free": false,
+    "format": "A4 printable PDF",
+    "tptResourceType": "PDF",
+    "practiceQuestions": 60,
+    "testQuestions": 15,
+    "totalQuestions": 75,
+    "pageCount": 75,
+    "previewPages": 16,
+    "includes": [
+      "60 practice tasks: 10 per learning focus",
+      "Separate 15-task test",
+      "Six illustrated Learn pages",
+      "Five extra vocabulary/dictation items",
+      "Teacher guidance, listening observations and complete answers",
+      "75 A4 PDF pages",
+      "16-page product preview on TpT",
+      "Editable eight-slide teaching brief"
+    ],
+    "learningGoals": [
+      "Decode with taught phonics, read meaningful phrases, use punctuation, check letters and meaning, and reread accurately with expression."
+    ],
+    "listingConfirmedAt": "2026-10-10"
+  },
+  {
     "id": "year-1-english-likes-dislikes-preferences-worksheets",
     "title": "Year 1 English Likes, Dislikes & Preferences Worksheets | AC9E1LA02",
     "year": 1,
