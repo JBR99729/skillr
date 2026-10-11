@@ -1,0 +1,16 @@
+/* Static oral-presentation models; shared topic shell remains authoritative. */
+.oral-plan { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:14px; margin:22px 0; }
+.oral-plan > div { padding:18px; border:1px solid var(--topic-line); border-top:4px solid var(--topic-teal); border-radius:8px; background:#f8fbf9; }
+.oral-step { display:block; color:var(--topic-teal); font-weight:750; margin-bottom:12px; }
+.oral-plan small { font-size:.85rem; line-height:1.55; display:block; }
+.oral-object { max-width:340px; margin:22px auto; padding:14px; border:1px solid var(--topic-line); border-radius:10px; background:#fff; }
+.oral-object img { display:block; width:100%; height:auto; }
+.oral-object figcaption { font-size:.9rem; margin-top:12px; }
+.oral-gestures { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:12px; margin:22px 0; }
+.oral-gestures figure { margin:0; padding:10px; border:1px solid var(--topic-line); border-radius:8px; background:#fff; }
+.oral-gestures img { display:block; width:100%; height:auto; }
+.oral-gestures figcaption { text-align:center; font-weight:650; margin-top:8px; }
+.oral-pause { padding:18px; border:1px solid var(--topic-line); border-radius:10px; text-align:center; margin:22px 0; }
+.oral-pause span { display:inline-block; background:var(--site-soft); color:var(--topic-teal); border-block:2px solid var(--topic-teal); padding:7px 14px; margin:4px 0 16px; font-size:.85rem; font-weight:700; }
+.topic-learning-page .topic-hero { padding-bottom:30px !important; }
+@media(max-width:650px) { .oral-plan { grid-template-columns:1fr; } .oral-gestures { grid-template-columns:1fr; max-width:290px; margin-inline:auto; } }
