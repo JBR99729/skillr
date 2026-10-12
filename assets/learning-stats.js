@@ -1,6 +1,6 @@
 const endpoint = 'https://pkmdzbmygbqgdrzqiids.supabase.co/rest/v1/rpc/public_learning_activity_summary';
 const key = 'sb_publishable_hLEut429BJkYV-k5jksjhA_23IYBa75';
-const goal = 1000000;
+const goal = 100000;
 let cached = null, pending = null;
 const format = value => value.toLocaleString('en-AU');
 function valid(data) {
@@ -29,7 +29,7 @@ export async function mountLearningStats(root=document,force=false) {
    const el=name=>host.querySelector(`[data-stat="${name}"]`);
    el('total').textContent=format(data.total_answered);
    el('progress').value=Math.min(goal,data.total_answered);el('progress').hidden=false;
-   el('milestone').textContent=data.total_answered>=goal?'Our community has reached 1,000,000 answered questions.':`${format(data.total_answered)} of ${format(goal)} answered questions · ${format(goal-data.total_answered)} to go`;
+   el('milestone').textContent=data.total_answered>=goal?'Our community has reached 100,000 answered questions.':`${format(data.total_answered)} of ${format(goal)} answered questions · ${format(goal-data.total_answered)} to go`;
    el('status').textContent=`Updated ${new Date(data.generated_at).toLocaleString('en-AU',{timeZone:'Australia/Sydney',dateStyle:'medium',timeStyle:'short'})} (Sydney time). Saved answers only; test accounts excluded.`;
   }
  } catch {
