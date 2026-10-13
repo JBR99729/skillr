@@ -7,6 +7,8 @@ on:
       - 'robots.txt'
       - 'sitemap*.xml'
       - 'scripts/audit_search_ai_integrity.mjs'
+      - 'scripts/audit_internal_links.py'
+      - 'scripts/tests/test_internal_links.py'
       - '.github/workflows/audit-search-ai-integrity.yml'
   push:
     branches: [main]
@@ -15,6 +17,8 @@ on:
       - 'robots.txt'
       - 'sitemap*.xml'
       - 'scripts/audit_search_ai_integrity.mjs'
+      - 'scripts/audit_internal_links.py'
+      - 'scripts/tests/test_internal_links.py'
       - '.github/workflows/audit-search-ai-integrity.yml'
   workflow_dispatch:
 
@@ -31,3 +35,8 @@ jobs:
           node-version: '22'
       - name: Audit canonical, sitemap and indexability integrity
         run: node scripts/audit_search_ai_integrity.mjs
+
+      - name: Check internal link destinations
+        run: python3 scripts/audit_internal_links.py
+      - name: Test internal link audit
+        run: python3 -m unittest discover -s scripts/tests -p test_internal_links.py
