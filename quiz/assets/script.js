@@ -28,7 +28,7 @@ if (window.quizConfig && /\/(?:practice|test)(?:\/index\.html|\/?)$/i.test(windo
   window.quizConfig.retakeUrl = `${activityPath}retake/`;
 }
 
-  document.write('<script src="/quiz/assets/script-runtime-v115.js?v=20260906-five-item-shuffle-v1"><\/script>');
+  document.write('<script src="/quiz/assets/script-runtime-v115.js?v=20261013-lazy-audio"><\/script>');
 
 // skillr-companions: shared brand and optional learning navigation
 (function () {

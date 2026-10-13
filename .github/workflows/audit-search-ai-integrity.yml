@@ -8,6 +8,11 @@ on:
       - 'sitemap*.xml'
       - 'scripts/audit_search_ai_integrity.mjs'
       - 'scripts/audit_internal_links.py'
+      - 'assets/resource-links.js'
+      - 'pwa-register.js'
+      - 'quiz/assets/script.js'
+      - 'quiz/assets/script-runtime-v115.js'
+      - 'scripts/tests/test_quiz_audio_loading.mjs'
       - 'scripts/tests/test_internal_links.py'
       - '.github/workflows/audit-search-ai-integrity.yml'
   push:
@@ -18,6 +23,11 @@ on:
       - 'sitemap*.xml'
       - 'scripts/audit_search_ai_integrity.mjs'
       - 'scripts/audit_internal_links.py'
+      - 'assets/resource-links.js'
+      - 'pwa-register.js'
+      - 'quiz/assets/script.js'
+      - 'quiz/assets/script-runtime-v115.js'
+      - 'scripts/tests/test_quiz_audio_loading.mjs'
       - 'scripts/tests/test_internal_links.py'
       - '.github/workflows/audit-search-ai-integrity.yml'
   workflow_dispatch:
@@ -40,3 +50,12 @@ jobs:
         run: python3 scripts/audit_internal_links.py
       - name: Test internal link audit
         run: python3 -m unittest discover -s scripts/tests -p test_internal_links.py
+
+      - name: Check shared navigation and quiz JavaScript syntax
+        run: |
+          node --check assets/resource-links.js
+          node --check pwa-register.js
+          node --check quiz/assets/script.js
+          node --check quiz/assets/script-runtime-v115.js
+      - name: Verify optional feedback audio loads lazily
+        run: node --test scripts/tests/test_quiz_audio_loading.mjs

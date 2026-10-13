@@ -4,19 +4,19 @@
    QUIZ SOUNDS
    ========================================================= */
 
-const correctSound =
-  new Audio("/quiz/assets/sounds/correct.wav");
-
-const wrongSound =
-  new Audio("/quiz/assets/sounds/wrong.wav");
-
-correctSound.preload = "auto";
-wrongSound.preload = "auto";
+// Optional feedback audio must not download before the learner needs it.
+function feedbackAudio(src) {
+  const sound = new Audio();
+  sound.preload = "none";
+  sound.src = src;
+  return sound;
+}
+const correctSound = feedbackAudio("/quiz/assets/sounds/correct.wav");
+const wrongSound = feedbackAudio("/quiz/assets/sounds/wrong.wav");
 
 correctSound.volume = 0.7;
 wrongSound.volume = 0.7;
-const proficientSound = new Audio("/quiz/assets/sounds/proficient.mp3");
-proficientSound.preload = "auto";
+const proficientSound = feedbackAudio("/quiz/assets/sounds/proficient.mp3");
 proficientSound.volume = 0.75;
 let proficientSoundCompletion = Promise.resolve();
 
