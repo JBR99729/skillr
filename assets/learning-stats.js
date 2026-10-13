@@ -1,6 +1,5 @@
 const endpoint = 'https://pkmdzbmygbqgdrzqiids.supabase.co/rest/v1/rpc/public_learning_activity_summary';
 const key = 'sb_publishable_hLEut429BJkYV-k5jksjhA_23IYBa75';
-const goal = 100000;
 let cached = null, pending = null;
 const format = value => value.toLocaleString('en-AU');
 function valid(data) {
@@ -28,12 +27,11 @@ export async function mountLearningStats(root=document,force=false) {
   for (const host of hosts) {
    const el=name=>host.querySelector(`[data-stat="${name}"]`);
    el('total').textContent=format(data.total_answered);
-   el('progress').value=Math.min(goal,data.total_answered);el('progress').hidden=false;
-   el('milestone').textContent=data.total_answered>=goal?'Our community has reached 100,000 answered questions.':`${format(data.total_answered)} of ${format(goal)} answered questions · ${format(goal-data.total_answered)} to go`;
+   el('milestone').textContent='Every answer is a step in our shared learning journey. Keep practising and help the counter grow!';
    el('status').textContent=`Updated ${new Date(data.generated_at).toLocaleString('en-AU',{timeZone:'Australia/Sydney',dateStyle:'medium',timeStyle:'short'})} (Sydney time). Saved answers only; test accounts excluded.`;
   }
  } catch {
-  for(const host of hosts){host.querySelector('[data-stat="status"]').textContent='Statistics are temporarily unavailable. Please try again.';host.querySelector('[data-stat="progress"]').hidden=true;}
+  for(const host of hosts){host.querySelector('[data-stat="status"]').textContent='Statistics are temporarily unavailable. Please try again.';}
  } finally {
   for(const host of hosts)host.querySelector('[data-stats-refresh]').disabled=false;
  }
