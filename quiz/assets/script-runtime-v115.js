@@ -387,7 +387,10 @@ document.addEventListener("DOMContentLoaded", () => {
         teacherSlideSummary.textContent;
     }
 
-    preparationNotes?.remove();
+    // Keep authored preparation in place; removing it causes a visible layout jump.
+    if (!preparationNotes?.hasAttribute("data-skillr-authored-preparation")) {
+      preparationNotes?.remove();
+    }
   }
 
   const passMarkLabel =

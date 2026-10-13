@@ -168,5 +168,35 @@
     "worksheets/year9/english/index.html",
     "worksheets/year9/maths/index.html",
     "worksheets/year9/science/index.html"
-  ]
+  ],
+  "follow_up": {
+    "finding": "Real live timing showed quiz runtime removed authored preparation before revision helper recreated it; QR/header utilities also shifted content.",
+    "correction": "Keep explicitly authored preparation in the quiz runtime and reserve space for existing utilities on AC9M10ST05 practice.",
+    "live_network_overlay_runs": [
+      {
+        "cls": 0,
+        "shifts": [],
+        "notes": 1,
+        "qr": 1,
+        "errors": []
+      },
+      {
+        "cls": 0,
+        "shifts": [],
+        "notes": 1,
+        "qr": 1,
+        "errors": []
+      },
+      {
+        "cls": 0,
+        "shifts": [],
+        "notes": 1,
+        "qr": 1,
+        "errors": []
+      }
+    ],
+    "indexing_policy": "Legacy seo-routing now preserves explicitly indexable, self-canonical current activities; noindex legacy pages and aliases retain their exclusions.",
+    "sitemap": "14 child maps and 3366 URLs remain valid; no URL additions/removals or further root date change needed on the same release date.",
+    "tests": "Four audio/indexing-policy tests passed; sitemap and Search/AI integrity checks passed."
+  }
 }

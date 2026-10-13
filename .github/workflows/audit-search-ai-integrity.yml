@@ -9,6 +9,8 @@ on:
       - 'scripts/audit_search_ai_integrity.mjs'
       - 'scripts/audit_internal_links.py'
       - 'assets/resource-links.js'
+      - 'assets/seo-routing.js'
+      - 'scripts/tests/test_seo_routing_policy.mjs'
       - 'pwa-register.js'
       - 'quiz/assets/script.js'
       - 'quiz/assets/script-runtime-v115.js'
@@ -24,6 +26,8 @@ on:
       - 'scripts/audit_search_ai_integrity.mjs'
       - 'scripts/audit_internal_links.py'
       - 'assets/resource-links.js'
+      - 'assets/seo-routing.js'
+      - 'scripts/tests/test_seo_routing_policy.mjs'
       - 'pwa-register.js'
       - 'quiz/assets/script.js'
       - 'quiz/assets/script-runtime-v115.js'
@@ -54,8 +58,12 @@ jobs:
       - name: Check shared navigation and quiz JavaScript syntax
         run: |
           node --check assets/resource-links.js
+          node --check assets/seo-routing.js
           node --check pwa-register.js
           node --check quiz/assets/script.js
           node --check quiz/assets/script-runtime-v115.js
       - name: Verify optional feedback audio loads lazily
         run: node --test scripts/tests/test_quiz_audio_loading.mjs
+
+      - name: Preserve authored activity indexing policy
+        run: node --test scripts/tests/test_seo_routing_policy.mjs
