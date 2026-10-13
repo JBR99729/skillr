@@ -209,6 +209,36 @@
     "Parse descriptions with HTMLParser",
     "Add five existing canonical commercial pages to sitemap-site.xml",
     "Refresh sitemap-site.xml index lastmod to actual release date",
-    "Correct Year 2 teaching Open Graph metadata and year filter"
-  ]
+    "Correct Year 2 teaching Open Graph metadata and year filter",
+    "Replace obsolete homepage offer metadata with current Australian Curriculum F\u201310 worksheet and topic-guide description"
+  ],
+  "reported_search_performance": {
+    "impressions": 10,
+    "period": "24 hours",
+    "source": "owner report; Search Console not accessed",
+    "interpretation": "Insufficient to establish a trend or diagnose root cause; recent data may be preliminary."
+  },
+  "priority_findings": [
+    {
+      "finding": "Homepage title, description and social tags advertised obsolete one-million-answer Year 1 offer while visible content described F\u201310 worksheets and topic help.",
+      "action": "Corrected to match existing F\u201310 offering; no layout or offer changes."
+    },
+    {
+      "finding": "22 Year 2 English quiz hubs link to nonexistent topic paths ending navigate-print-and-screen-texts-using-chapters-tables-of.",
+      "action": "Recorded for focused resource-route repair; not changed in this SEO release."
+    },
+    {
+      "finding": "Five sitemap pages have no incoming static anchor links in tracked HTML.",
+      "action": "Check JavaScript catalogue rendering and relevance before adding links."
+    },
+    {
+      "finding": "Three tracked case-colliding HTML paths are not faithfully represented by macOS checkout.",
+      "action": "Use Git object inventory for reliable audits; no curriculum alias changes made."
+    }
+  ],
+  "workflow_findings": {
+    "seo_health": "Bing checker flags title-length rules and missing descriptions including noindex reports/pilot; not evidence of Google exclusion.",
+    "optional_videos": "Check reports 676 topic pages need updating; no bulk regeneration performed.",
+    "sitemap_refresh": "Failed validation; detailed cause requires Actions logs."
+  }
 }
