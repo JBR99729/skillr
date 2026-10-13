@@ -11,6 +11,7 @@ on:
       - 'robots.txt'
       - 'sitemap*.xml'
       - 'scripts/audit_seo.py'
+      - 'scripts/public_learning_discovery.py'
       - 'scripts/check_bing_seo.py'
       - '.github/workflows/seo-health-report.yml'
 
@@ -35,6 +36,9 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
+
+      - name: Check public topic and quiz indexing policy
+        run: python3 scripts/public_learning_discovery.py
 
       - name: Run repository SEO health report
         run: python3 scripts/audit_seo.py

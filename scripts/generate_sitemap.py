@@ -130,12 +130,6 @@ def is_functional(path):
  if path.as_posix() in INDEXABLE_QUIZ_ROUTES:
   return False
  parts=path.parts
- # Year 1 search discovery should land on useful topic/resource pages, not
- # interactive launch, practice or assessment screens. Keep worksheets
- # discoverable because they satisfy printable-resource search intent.
- if len(parts)>=4 and parts[:3] in {("quiz","year-1","math"),("quiz","year-1","science")}:
-  if len(parts)<=5 or bool(set(parts[4:-1])&{"practice","test","quiz"}):
-   return True
  return path.as_posix() in EXCLUDED_FILES or bool(set(parts)&(FUNCTIONAL_PARTS|EXCLUDED_PARTS|EXCLUDED_ROOT_PARTS|PAUSED_PARTS))
 
 def human_sitemap_page(url):
@@ -234,7 +228,6 @@ def main():
   filename=f"sitemap-{key}.xml";write_urlset(filename,groups[key]);sitemap_files.append((filename,max(x[2] for x in groups[key])))
  idx=['<?xml version="1.0" encoding="UTF-8"?>','<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
  for filename,mod in sitemap_files:
-  if filename=="sitemap-practice.xml":continue
   idx += ["  <sitemap>",f"    <loc>{BASE}/{filename}</loc>",f"    <lastmod>{mod}</lastmod>","  </sitemap>"]
  idx.append("</sitemapindex>");(ROOT/"sitemap.xml").write_text("\n".join(idx)+"\n",encoding="utf-8")
  sections=defaultdict(list)

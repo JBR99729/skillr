@@ -21,6 +21,7 @@ import re
 import subprocess
 from pathlib import Path
 from urllib.parse import urlparse
+from public_learning_discovery import rewrite as preserve_discovery
 
 ROOT = Path(__file__).resolve().parents[1]
 SITE = "https://skillrhub.com"
@@ -208,7 +209,7 @@ def main():
 
         # Keep the visible main heading aligned where the page owns a static H1.
         if H1_RE.search(out):
-            out = H1_RE.sub(lambda m: f"<h1{m.group(1)}>{esc(code)}: {esc(descriptor)}</h1>", out, count=1)
+            out = preserve_discovery(out, code, expected_self_path(page))
         else:
             h1_not_static.append({"code": code, "page": str(page.relative_to(ROOT))})
 
@@ -235,7 +236,7 @@ def main():
                 "Year + subject + curriculum",
                 "Year + subject + topics",
             ],
-            "rule": "human-readable Year + subject + concise Australian Curriculum v9 topic title with exact AC code; Victoria and NSW identifiers remain in the meta description, visible alignment table and structured data; exact AC v9 descriptor remains the H1 and meta-description anchor",
+            "rule": "human-readable Year + subject + concise Australian Curriculum v9 topic title with exact AC code; Victoria and NSW identifiers remain in the meta description, visible alignment table and structured data; authored topic heading is retained with the exact AC v9 code; descriptor remains in teaching content",
         },
         "summary": {
             "manifest_codes": len(units),

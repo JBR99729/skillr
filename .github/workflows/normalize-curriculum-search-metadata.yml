@@ -30,7 +30,11 @@ jobs:
           import os, subprocess, sys
           changed = set(subprocess.check_output(['git', 'diff', '--name-only', os.environ['BASE_SHA'], 'HEAD'], text=True).splitlines()) if os.environ['EVENT_NAME'] == 'push' else set()
           scoped = {'data/year6-10-seo-metadata.json', 'scripts/repair_year6_10_seo_metadata.py'}
-          if changed & scoped and 'data/curriculum-units.json' not in changed:
+          if 'scripts/public_learning_discovery.py' in changed:
+              # Preserve authored headings and the explicit public quiz discovery release.
+              print('Public discovery workflow owns this scoped metadata release.')
+              sys.exit(0)
+          elif changed & scoped and 'data/curriculum-units.json' not in changed:
               # A scoped metadata maintenance release must not rewrite other years.
               subprocess.check_call([sys.executable, 'scripts/repair_year6_10_seo_metadata.py'])
           else:

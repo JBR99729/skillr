@@ -3,8 +3,8 @@
 
 The full site search index can still include quiz/practice utilities, but Google XML
 sitemap submissions should prioritise canonical curriculum/topic pages, hubs,
-blogs and worksheet content. The large practice/test utility sitemap is kept as a
-file for compatibility but is deliberately removed from the root sitemap index.
+blogs and worksheet content. Public practice, quiz and test entry pages are included in the root sitemap index.
+Personal result and review states remain excluded.
 """
 from __future__ import annotations
 
@@ -16,9 +16,7 @@ SITEMAP_NS = "http://www.sitemaps.org/schemas/sitemap/0.9"
 ET.register_namespace("", SITEMAP_NS)
 
 ROOT_INDEX = ROOT / "sitemap.xml"
-EXCLUDED_CHILDREN = {
-    "https://skillrhub.com/sitemap-practice.xml",
-}
+EXCLUDED_CHILDREN = set()  # Public quiz entry pages are search destinations.
 
 
 def main() -> None:
@@ -41,7 +39,7 @@ def main() -> None:
     ET.indent(tree, space="  ")
     tree.write(ROOT_INDEX, encoding="utf-8", xml_declaration=True)
 
-    # Validate the referenced sitemap set and guard against accidental quiz URLs.
+    # Validate the referenced sitemap set and guard against functional result/review URLs.
     referenced: list[Path] = []
     seen_urls: set[str] = set()
     duplicate_urls: list[str] = []
@@ -60,7 +58,7 @@ def main() -> None:
             url = (url_loc.text or "").strip()
             if not url.startswith("https://skillrhub.com/"):
                 raise SystemExit(f"Unexpected URL host in {child.name}: {url}")
-            if "/quiz/" in url:
+            if any(part in url for part in ("/result/", "/results/", "/review/", "/retake/", "/teacher-slides/")):
                 raise SystemExit(
                     f"Quiz/practice utility leaked into Google sitemap {child.name}: {url}"
                 )

@@ -1,0 +1,58 @@
+name: Publish public learning discovery
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/public_learning_discovery.py'
+      - '.github/workflows/public-learning-discovery.yml'
+permissions:
+  contents: write
+concurrency:
+  group: public-learning-discovery
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Apply public topic and quiz metadata
+        run: python3 scripts/public_learning_discovery.py --write
+      - name: Rebuild search discovery
+        run: |
+          python3 scripts/generate_sitemap.py
+          python3 scripts/prepare_google_sitemap.py
+          python3 scripts/tidy_sitemap_html.py
+      - name: Validate public discovery and sitemap integrity
+        run: |
+          python3 scripts/public_learning_discovery.py
+          python3 scripts/validate_sitemap_index_quality.py
+          python3 scripts/validate_google_sitemap_submission.py
+          git diff --check
+      - name: Publish the complete validated tree
+        run: |
+          release_base=$(git rev-parse HEAD)
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- foundation year1 year2 year3 year4 year5 year6 year7 year8 year9 year10 quiz assets/site-search-index.json sitemap.html sitemap.xml ':(glob)sitemap-*.xml'
+          if git diff --cached --quiet; then
+            echo 'Public discovery is already current.'
+            exit 0
+          fi
+          git commit -m 'Publish indexable learning pages with AC9 and state metadata'
+          node scripts/check_release_integrity.mjs "$release_base" HEAD
+          git fetch origin main
+          if [ "$(git rev-parse origin/main)" != "$release_base" ]; then
+            echo 'Main advanced during validation; rerun against the current complete tree.'
+            exit 1
+          fi
+          git push origin HEAD:main

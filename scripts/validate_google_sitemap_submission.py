@@ -15,10 +15,10 @@ EXPECTED_CHILDREN = [
     "sitemap-site.xml",
     "sitemap-foundation.xml",
     *[f"sitemap-year{i}.xml" for i in range(1, 11)],
+    "sitemap-practice.xml",
     "sitemap-worksheets.xml",
 ]
 FORBIDDEN_URL_PARTS = (
-    "/quiz/",
     "/teacher-slides/",
     "/result/",
     "/results/",
@@ -102,8 +102,6 @@ def main() -> None:
             "sitemap.xml: submitted child set/order is not the crawl-priority set; "
             f"found {child_names}, expected {EXPECTED_CHILDREN}"
         )
-    if "sitemap-practice.xml" in child_names:
-        errors.append("sitemap.xml: practice/test utility sitemap must remain outside the Search Console root index")
 
     human = (ROOT / "sitemap.html").read_text(encoding="utf-8", errors="replace")
     directory_match = re.search(r'<div class="sitemap-directory">(.*?)</div></main>', human, re.I | re.S)
