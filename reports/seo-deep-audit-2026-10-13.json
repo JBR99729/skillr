@@ -1,0 +1,214 @@
+{
+  "base": "3ef7c5172fe858342006032364018093a3d3eb2b",
+  "tracked_html": 9495,
+  "authoritative_sitemap_urls": 1211,
+  "indexable_html": 2623,
+  "case_collisions": {
+    "quiz/grade-k/math/ac9mfn01/index.html": [
+      "quiz/grade-k/math/ac9mfn01/index.html",
+      "quiz/grade-k/math/AC9MFN01/index.html"
+    ],
+    "teacher-slides/year3/maths/ac9m3m03/index.html": [
+      "teacher-slides/year3/maths/ac9m3m03/index.html",
+      "teacher-slides/year3/maths/AC9M3M03/index.html"
+    ],
+    "teacher-slides/year3/maths/ac9m3m04/index.html": [
+      "teacher-slides/year3/maths/ac9m3m04/index.html",
+      "teacher-slides/year3/maths/AC9M3M04/index.html"
+    ]
+  },
+  "canonical_nonquiz_pages_outside_main_sitemap": [
+    "/products/tpt-17912990/",
+    "/products/tpt-17913187/",
+    "/products/tpt-17915056/",
+    "/products/tpt-17915083/",
+    "/teach-and-explain/year-2/"
+  ],
+  "sitemap_urls_without_static_inbound_links": [
+    "/products/year-3-time-bundle/",
+    "/teach-and-explain/year-3/maths/time-teaching-slides-sample/",
+    "/year1/maths/ac9m1n03-skip-counting-and-equal-groups/quick-check/",
+    "/products/year-1-science-bundle/",
+    "/year1/blogs/"
+  ],
+  "duplicate_titles_in_main_sitemap": {},
+  "broken_internal_link_targets_by_source_count": [
+    {
+      "target": "/year2/english/ac9e2la06-navigate-print-and-screen-texts-using-chapters-tables-of/",
+      "source_count": 1,
+      "sample_sources": [
+        "/quiz/year-2/english/ac9e2la06/"
+      ]
+    },
+    {
+      "target": "/year2/english/ac9e2la07-navigate-print-and-screen-texts-using-chapters-tables-of/",
+      "source_count": 1,
+      "sample_sources": [
+        "/quiz/year-2/english/ac9e2la07/"
+      ]
+    },
+    {
+      "target": "/year2/english/ac9e2la08-navigate-print-and-screen-texts-using-chapters-tables-of/",
+      "source_count": 1,
+      "sample_sources": [
+        "/quiz/year-2/english/ac9e2la08/"
+      ]
+    },
+    {
+      "target": "/year2/english/ac9e2la09-navigate-print-and-screen-texts-using-chapters-tables-of/",
+      "source_count": 1,
+      "sample_sources": [
+        "/quiz/year-2/english/ac9e2la09/"
+      ]
+    },
+    {
+      "target": "/year2/english/ac9e2la10-navigate-print-and-screen-texts-using-chapters-tables-of/",
+      "source_count": 1,
+      "sample_sources": [
+        "/quiz/year-2/english/ac9e2la10/"
+      ]
+    },
+    {
+      "target": "/year2/english/ac9e2le01-navigate-print-and-screen-texts-using-chapters-tables-of/",
+      "source_count": 1,
+      "sample_sources": [
+        "/quiz/year-2/english/ac9e2le01/"
+      ]
+    },
+    {
+      "target": "/year2/english/ac9e2le02-navigate-print-and-screen-texts-using-chapters-tables-of/",
+      "source_count": 1,
+      "sample_sources": [
+        "/quiz/year-2/english/ac9e2le02/"
+      ]
+    },
+    {
+      "target": "/year2/english/ac9e2le03-navigate-print-and-screen-texts-using-chapters-tables-of/",
+      "source_count": 1,
+      "sample_sources": [
+        "/quiz/year-2/english/ac9e2le03/"
+      ]
+    },
+    {
+      "target": "/year2/english/ac9e2le04-navigate-print-and-screen-texts-using-chapters-tables-of/",
+      "source_count": 1,
+      "sample_sources": [
+        "/quiz/year-2/english/ac9e2le04/"
+      ]
+    },
+    {
+      "target": "/year2/english/ac9e2le05-navigate-print-and-screen-texts-using-chapters-tables-of/",
+      "source_count": 1,
+      "sample_sources": [
+        "/quiz/year-2/english/ac9e2le05/"
+      ]
+    },
+    {
+      "target": "/year2/english/ac9e2ly01-navigate-print-and-screen-texts-using-chapters-tables-of/",
+      "source_count": 1,
+      "sample_sources": [
+        "/quiz/year-2/english/ac9e2ly01/"
+      ]
+    },
+    {
+      "target": "/year2/english/ac9e2ly02-navigate-print-and-screen-texts-using-chapters-tables-of/",
+      "source_count": 1,
+      "sample_sources": [
+        "/quiz/year-2/english/ac9e2ly02/"
+      ]
+    },
+    {
+      "target": "/year2/english/ac9e2ly03-navigate-print-and-screen-texts-using-chapters-tables-of/",
+      "source_count": 1,
+      "sample_sources": [
+        "/quiz/year-2/english/ac9e2ly03/"
+      ]
+    },
+    {
+      "target": "/year2/english/ac9e2ly04-navigate-print-and-screen-texts-using-chapters-tables-of/",
+      "source_count": 1,
+      "sample_sources": [
+        "/quiz/year-2/english/ac9e2ly04/"
+      ]
+    },
+    {
+      "target": "/year2/english/ac9e2ly05-navigate-print-and-screen-texts-using-chapters-tables-of/",
+      "source_count": 1,
+      "sample_sources": [
+        "/quiz/year-2/english/ac9e2ly05/"
+      ]
+    },
+    {
+      "target": "/year2/english/ac9e2ly06-navigate-print-and-screen-texts-using-chapters-tables-of/",
+      "source_count": 1,
+      "sample_sources": [
+        "/quiz/year-2/english/ac9e2ly06/"
+      ]
+    },
+    {
+      "target": "/year2/english/ac9e2ly07-navigate-print-and-screen-texts-using-chapters-tables-of/",
+      "source_count": 1,
+      "sample_sources": [
+        "/quiz/year-2/english/ac9e2ly07/"
+      ]
+    },
+    {
+      "target": "/year2/english/ac9e2ly08-navigate-print-and-screen-texts-using-chapters-tables-of/",
+      "source_count": 1,
+      "sample_sources": [
+        "/quiz/year-2/english/ac9e2ly08/"
+      ]
+    },
+    {
+      "target": "/year2/english/ac9e2ly09-navigate-print-and-screen-texts-using-chapters-tables-of/",
+      "source_count": 1,
+      "sample_sources": [
+        "/quiz/year-2/english/ac9e2ly09/"
+      ]
+    },
+    {
+      "target": "/year2/english/ac9e2ly10-navigate-print-and-screen-texts-using-chapters-tables-of/",
+      "source_count": 1,
+      "sample_sources": [
+        "/quiz/year-2/english/ac9e2ly10/"
+      ]
+    },
+    {
+      "target": "/year2/english/ac9e2ly11-navigate-print-and-screen-texts-using-chapters-tables-of/",
+      "source_count": 1,
+      "sample_sources": [
+        "/quiz/year-2/english/ac9e2ly11/"
+      ]
+    },
+    {
+      "target": "/year2/english/ac9e2ly12-navigate-print-and-screen-texts-using-chapters-tables-of/",
+      "source_count": 1,
+      "sample_sources": [
+        "/quiz/year-2/english/ac9e2ly12/"
+      ]
+    },
+    {
+      "target": "/year5/maths/ac9m5n08-check-and-explain-the-reasonableness-of-solutions/",
+      "source_count": 1,
+      "sample_sources": [
+        "/year5/maths/ac9m5n08-check-and-explain-the-reasonableness-of-solutions/teacher-slides/"
+      ]
+    }
+  ],
+  "indexable_missing_description": [],
+  "main_sitemap_h1_issues": {},
+  "audit_date": "2026-10-13",
+  "limitations": [
+    "Repository static HTML audit, not Search Console or Google URL Inspection.",
+    "Static inbound-link counts exclude JavaScript-generated links.",
+    "Three case-colliding tracked paths can produce misleading macOS filesystem audit results.",
+    "Broken-link list includes one teacher slide source-only route; verify public deployment before changing it."
+  ],
+  "release_fixes": [
+    "Noindex experimental pilot",
+    "Parse descriptions with HTMLParser",
+    "Add five existing canonical commercial pages to sitemap-site.xml",
+    "Refresh sitemap-site.xml index lastmod to actual release date",
+    "Correct Year 2 teaching Open Graph metadata and year filter"
+  ]
+}

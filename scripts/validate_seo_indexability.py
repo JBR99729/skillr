@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import html
+from html.parser import HTMLParser
 import re
 import sys
 import xml.etree.ElementTree as ET
@@ -183,6 +184,19 @@ def file_for_route(value: str) -> Path:
     return ROOT / relative
 
 
+class DescriptionParser(HTMLParser):
+    """Read HTML attributes without truncating descriptions at apostrophes."""
+
+    def __init__(self) -> None:
+        super().__init__()
+        self.description: str | None = None
+
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        values = dict(attrs)
+        if tag == "meta" and (values.get("name") or "").lower() == "description":
+            self.description = values.get("content")
+
+
 def main() -> None:
     sitemap_urls: set[str] = set()
     for sitemap in ROOT.glob("sitemap-*.xml"):
@@ -250,14 +264,12 @@ def main() -> None:
 
         public_count += 1
         title = re.search(r"<title[^>]*>(.*?)</title>", source, re.I | re.S)
-        description = re.search(
-            r'<meta[^>]+name=["\']description["\'][^>]+content=["\']([^"\']*)',
-            source,
-            re.I,
-        )
+        metadata = DescriptionParser()
+        metadata.feed(source)
+        description = metadata.description
         if not title or not re.sub(r"<[^>]+>", "", title.group(1)).strip():
             errors.append(f"{url}: missing title")
-        if not description or len(description.group(1).strip()) < 30:
+        if not description or len(description.strip()) < 30:
             errors.append(f"{url}: missing or short description")
         if not canonical:
             errors.append(f"{url}: missing canonical")
