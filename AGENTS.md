@@ -1,5 +1,13 @@
 # Skillr Repository Instructions
 
+## Current QA reference standard — 14 October 2026
+
+For QA after building each skill (curriculum code) and before the nightly production build, follow [docs/QA_REFERENCE_STANDARD.md](docs/QA_REFERENCE_STANDARD.md).
+
+This owner-approved checklist supersedes older, broader QA procedures for these two stages, including conflicting review-round requirements below. Run per-code Software QA and Teacher QA only for the requested code; run the nightly checklist before the production build. Stop once applicable checks pass. Fix and retest failures, repeating related checks only where the fix could affect them. Do not add extra QA rounds or broader audits unless the owner requests them.
+
+**Any Critical Path failure blocks submission of the nightly build.**
+
 ## Canonical product and business philosophy
 
 Before making product, UX, commercial, funnel, SEO, catalogue, curriculum-expansion or positioning decisions, read and preserve:
