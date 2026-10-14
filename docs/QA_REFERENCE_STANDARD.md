@@ -31,29 +31,31 @@ Use only the applicable checklist below. This replaces older, broader QA procedu
 
 ## B. Before Nightly Production Build
 
-### Critical Path (Block if any fail)
+### Critical Path
 
 - [ ] All changed skills load without error
-- [ ] Login + dashboard work
-- [ ] Progress saves correctly
+- [ ] Login + session persists after refresh
+- [ ] Progress saves to Supabase and reloads correctly
 - [ ] Correct/Incorrect marking works
-- [ ] No console errors on main flows
-- [ ] No broken images on today's skills
+- [ ] No console errors (especially 401/403 from Supabase)
+- [ ] No broken images
 
-### Final Content Check
+### Stack Checks
 
-- [ ] Correct curriculum codes showing
-- [ ] No wrong answers or mismatched explanations
-- [ ] No placeholder / test text left
-- [ ] One previously working skill still functions
+- [ ] Cloudflare deployment succeeded
+- [ ] Production site shows the latest version (hard refresh)
+- [ ] Supabase env variables are correct in Cloudflare
+- [ ] New progress appears in Supabase table
 
-### Build Hygiene
+### Final Content
 
-- [ ] Production environment variables set
-- [ ] No test data visible
-- [ ] Version/build number updated
+- [ ] Correct curriculum codes
+- [ ] No wrong answers / placeholders
+- [ ] One old skill still works
 
 **Rule: Any Critical Path failure → Do not submit the nightly build.**
+
+The per-code checklist covers educational quality. The nightly checklist adds authentication, progress persistence and deployment verification for the Supabase + Cloudflare stack. Verify deployment success and the latest production version after deployment, before declaring the nightly release complete.
 
 ## Scope and stopping rule
 
