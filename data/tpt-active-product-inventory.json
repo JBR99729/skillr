@@ -1,8 +1,38 @@
 {
   "auditedAt": "2026-10-08",
   "storefront": "https://www.teacherspayteachers.com/store/skillrhub",
-  "activeProductCount": 183,
+  "activeProductCount": 186,
   "products": [
+    {
+      "productId": "17947772",
+      "title": "Foundation Number Worksheets & Tests Bundle | AC9MFN01-FN06 | NSW & VIC",
+      "url": "https://www.teacherspayteachers.com/Product/Foundation-Number-Worksheets-Tests-Bundle-AC9MFN01FN06-NSW-VIC-17947772",
+      "image": "https://skillrhub.com/assets/tpt-17947772-cover.svg",
+      "isBundle": true,
+      "free": false,
+      "metadataSource": "Owner-supplied published TPT URL; accepted pack details for A01 and M01",
+      "catalogueConfirmedAt": "2026-10-15"
+    },
+    {
+      "productId": "17953660",
+      "title": "Foundation Repeating Patterns Worksheets | AC9MFA01 | 30 Practice + 15 Test",
+      "url": "https://www.teacherspayteachers.com/Product/Foundation-Repeating-Patterns-Worksheets-AC9MFA01-30-Practice-15-Test-17953660",
+      "image": "https://skillrhub.com/assets/tpt-17953660-cover.png",
+      "isBundle": false,
+      "free": false,
+      "metadataSource": "Owner-supplied published TPT URL; accepted pack details for A01 and M01",
+      "catalogueConfirmedAt": "2026-10-15"
+    },
+    {
+      "productId": "17954204",
+      "title": "Kindergarten Measurement Worksheets | Length, Mass, Capacity & Duration | AC9MFM01",
+      "url": "https://www.teacherspayteachers.com/Product/Kindergarten-Measurement-Worksheets-Length-Mass-Capacity-DurationAC9MFM01-17954204",
+      "image": "https://skillrhub.com/assets/tpt-17954204-cover.png",
+      "isBundle": false,
+      "free": false,
+      "metadataSource": "Owner-supplied published TPT URL; accepted pack details for A01 and M01",
+      "catalogueConfirmedAt": "2026-10-15"
+    },
     {
       "productId": "17913803",
       "title": "Year 1 Writing Short Texts | AC9E1LY06 | 50 Practice + 15 Test Tasks",
@@ -2050,7 +2080,16 @@
         "17910617"
       ],
       "note": "Added verified published LY04 worksheet listing; prior full-inventory audit date retained."
+    },
+    {
+      "date": "2026-10-15",
+      "productIds": [
+        "17954204",
+        "17953660",
+        "17947772"
+      ],
+      "note": "Added three owner-supplied published Foundation listings. Existing audit date retained; unconfirmed live prices omitted."
     }
   ],
-  "updatedAt": "2026-10-14"
+  "updatedAt": "2026-10-15"
 }
