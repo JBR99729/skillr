@@ -1,8 +1,92 @@
 {
   "auditedAt": "2026-10-08",
   "storefront": "https://www.teacherspayteachers.com/store/skillrhub",
-  "activeProductCount": 175,
+  "activeProductCount": 183,
   "products": [
+    {
+      "productId": "17913803",
+      "title": "Year 1 Writing Short Texts | AC9E1LY06 | 50 Practice + 15 Test Tasks",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Writing-Short-Texts-AC9E1LY06-50-Practice-15-Test-Tasks-17913803",
+      "image": "https://skillrhub.com/assets/tpt-17913803-cover.png",
+      "isBundle": false,
+      "free": false,
+      "metadataSource": "Existing SkillrHub catalogue entry",
+      "catalogueConfirmedAt": "2026-10-11"
+    },
+    {
+      "productId": "17911056",
+      "title": "Year 2 Maths Measurement Workbook | Length, Capacity & Mass | AC9M2M01",
+      "url": "https://www.teacherspayteachers.com/Product/Year-2-Maths-Measurement-Workbook-Length-Capacity-Mass-AC9M2M01-17911056",
+      "image": "https://skillrhub.com/icons/skillrhub-mark.svg",
+      "isBundle": false,
+      "free": false,
+      "price": "6.00",
+      "regularPrice": "6.00",
+      "metadataSource": "Existing SkillrHub catalogue entry",
+      "catalogueConfirmedAt": "2026-10-11"
+    },
+    {
+      "productId": "17913187",
+      "title": "Year 2 Numbers to 1000 PowerPoint | Place Value | AC9M2N01",
+      "url": "https://www.teacherspayteachers.com/Product/Year-2-Numbers-to-1000-PowerPoint-Place-Value-AC9M2N01-17913187",
+      "image": "https://skillrhub.com/assets/tpt-17913187-cover.png",
+      "isBundle": false,
+      "free": false,
+      "metadataSource": "Existing SkillrHub catalogue entry",
+      "catalogueConfirmedAt": "2026-10-11"
+    },
+    {
+      "productId": "17912990",
+      "title": "Year 2 Numbers to 1000 Worksheets | Place Value | AC9M2N01",
+      "url": "https://www.teacherspayteachers.com/Product/Year-2-Numbers-to-1000-Worksheets-Place-Value-AC9M2N01-17912990",
+      "image": "https://skillrhub.com/assets/tpt-17912990-cover.png",
+      "isBundle": false,
+      "free": false,
+      "metadataSource": "Existing SkillrHub catalogue entry",
+      "catalogueConfirmedAt": "2026-10-11"
+    },
+    {
+      "productId": "17915083",
+      "title": "Year 1 Handwriting Worksheets | AC9E1LY08 | 20 Practice + 15 Test Tasks",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Handwriting-Worksheets-AC9E1LY08-20-Practice-15-Test-Tasks-17915083",
+      "image": "https://skillrhub.com/assets/tpt-17915083-cover.png",
+      "isBundle": false,
+      "free": false,
+      "metadataSource": "Existing SkillrHub catalogue entry",
+      "catalogueConfirmedAt": "2026-10-12"
+    },
+    {
+      "productId": "17915056",
+      "title": "Year 1 Oral Presentations | AC9E1LY07 | 50 Practice + 15 Test Tasks",
+      "url": "https://www.teacherspayteachers.com/Product/Year-1-Oral-Presentations-AC9E1LY07-50-Practice-15-Test-Tasks-17915056",
+      "image": "https://skillrhub.com/assets/tpt-17915056-cover.png",
+      "isBundle": false,
+      "free": false,
+      "metadataSource": "Existing SkillrHub catalogue entry",
+      "catalogueConfirmedAt": "2026-10-12"
+    },
+    {
+      "productId": "17936226",
+      "title": "Subitizing to 5 Worksheets | Kindergarten Math | Foundation AC9MFN02",
+      "url": "https://www.teacherspayteachers.com/Product/Subitizing-to-5-Worksheets-Kindergarten-Math-Foundation-AC9MFN02-17936226",
+      "image": "https://ecdn.teacherspayteachers.com/thumbitem/Subitizing-to-5-Worksheets-Kindergarten-Math-Foundation-AC9MFN02-17936226-1791921381/original-17936226-1.jpg",
+      "isBundle": false,
+      "free": false,
+      "price": "6.50",
+      "regularPrice": "6.50",
+      "observedAt": "2026-10-14"
+    },
+    {
+      "productId": "17943670",
+      "title": "Foundation Maths Numbers to 20 Worksheets & Test | AC9MFN01 | Prep",
+      "url": "https://www.teacherspayteachers.com/Product/Foundation-Maths-Numbers-to-20-Worksheets-Test-AC9MFN01-Prep-17943670",
+      "image": "https://ecdn.teacherspayteachers.com/thumbitem/Foundation-Maths-Numbers-to-20-Worksheets-Test-AC9MFN01-Prep-17943670-1791922670/original-17943670-1.jpg",
+      "isBundle": false,
+      "free": false,
+      "price": "7.00",
+      "regularPrice": "7.00",
+      "observedAt": "2026-10-14"
+    },
     {
       "productId": "17911863",
       "title": "Year 1 Reading Comprehension Strategies | AC9E1LY05 | 50 Practice + 15 Test Tasks",
@@ -1967,5 +2051,6 @@
       ],
       "note": "Added verified published LY04 worksheet listing; prior full-inventory audit date retained."
     }
-  ]
+  ],
+  "updatedAt": "2026-10-14"
 }
