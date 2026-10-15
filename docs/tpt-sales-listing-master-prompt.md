@@ -13,6 +13,19 @@ Maximise legitimate TPT discovery, followers, conversions, bundle sales and reve
 5. Description opening: naturally include primary keyword, Grade/Year, topic, resource type and classroom benefit.
 6. Keep copy teacher-scannable. Include contents, skills, classroom uses, curriculum alignment, answers and page/slide count when known.
 7. Select every truthful relevant TPT grade, subject, format, resource type and standards/curriculum filter.
+8. Apply the free/paid distinction and exact companion sentence below to every description, including free samples and bundles.
+
+## Required free/paid distinction and companion sentence
+
+Place this exact sentence near the beginning of every SkillrHub TPT description, after the opening benefit and before the contents list:
+
+> Pairs with free digital practice and teaching notes available at skillrhub.com
+
+Keep the distinction concrete: SkillrHub's digital practice and teaching notes are free; a paid TPT pack is an optional, separately purchased set of the files described in its listing. Explain the pack's paper-practice benefit and include worksheets, tests, answer keys or teacher/speaker notes only when those files are actually included. Do not imply that purchase unlocks the free website resources or that the free online practice is an identical copy of the paid questions.
+
+Label a free sample as free and identify its limited contents. Label a paid pack or bundle as paid and distinguish its contents from the free sample and website resources. Preserve verified question/page counts, bundle-overlap notices and all existing teacher/speaker notes.
+
+This is the standing description standard for new listings and listing revisions. Existing live TPT descriptions need an authenticated seller edit; updating this template does not update the marketplace. Keep this description copy separate from download contents; do not regenerate published packs merely to add it. Retain the follow-store invitation at the end.
 
 ## Commercial ladder
 FREE SAMPLE -> SINGLE-SKILL PRODUCT -> TOPIC BUNDLE -> STRAND BUNDLE -> FULL-YEAR BUNDLE.

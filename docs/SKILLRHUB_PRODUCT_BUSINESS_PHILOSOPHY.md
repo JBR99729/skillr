@@ -47,6 +47,18 @@ It should:
 - feed market evidence back into SkillrHub product decisions;
 - complement SkillrHub rather than become a disconnected catalogue.
 
+### Free and paid resource messaging — 15 October 2026
+
+Make the relationship explicit on the website and in TPT descriptions: SkillrHub's digital practice and teaching notes are free. Paid printable packs are optional, separately purchased resources for paper practice, tests and answer keys as included in each listing. Label free samples separately and keep actual pack contents visible. A purchase is not required to use the free website resources.
+
+Retain and promote the existing matching worksheet-pack card on free topic guides, with its verified cover, contents, preview link and clear paid/optional label. Preserve distinct bundle labels and free-worksheet cards.
+
+Every TPT description must include this exact sentence near the opening:
+
+> Pairs with free digital practice and teaching notes available at skillrhub.com
+
+Follow `docs/tpt-sales-listing-master-prompt.md` for listing copy. This requirement does not change prices, account access or product contents.
+
 ## 3. Customer promise
 
 ### Teachers
