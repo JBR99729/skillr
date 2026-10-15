@@ -41,3 +41,9 @@ Catalogue/index record, active-inventory record, static no-JS browse card, produ
 - Local browser preview unavailable: cloud browser cannot connect to the workspace localhost server. Live desktop verification follows publication. Phone/tablet/touch, defined slow-network and physical printer trials are not claimed.
 
 This record is author validation, not an independent teacher/tester sign-off or a Content Verified badge. Existing app-bank status/review gates and data are unchanged.
+
+## Live desktop verification and bounded correction
+
+Public Pages deployment `38819536365` succeeded (the initial deploy was superseded by the automatic sitemap commit). The live topic displayed the new hero, real cover, 30/15 counts and teaching guide; halves/quarters disclosures, static equal-part diagrams and resource links were inspected. Live QA identified an extra automatic Learning pathway panel from a shared loader. Marked the existing static Continue learning navigation with the loader's supported `data-skillr-learning-path` sentinel, preventing the duplicate without changing shared scripts. This is a single-page runtime parity fix.
+
+Main release integrity, F–10 layout, Foundation–Year 4 rollout, question-bank quality, search/AI integrity and AdSense guards passed. Broad checks retain existing failures outside the scoped content: Year 2 validator names only unchanged AC9M2M01; breadcrumb rebuild reports all 742 eligible pages stale; optional-video rebuild reports all 676 mapped pages stale. No site-wide regeneration was performed to conceal these baseline issues. The new page preserves one video-first entry and removes the superseded duplicate video blocks as the owner explicitly requested.
