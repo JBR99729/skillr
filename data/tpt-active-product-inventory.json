@@ -1,8 +1,20 @@
 {
   "auditedAt": "2026-10-08",
   "storefront": "https://www.teacherspayteachers.com/store/skillrhub",
-  "activeProductCount": 192,
+  "activeProductCount": 193,
   "products": [
+    {
+      "productId": "17959347",
+      "title": "Year 2 Place Value Teaching Slides | AC9M2N02 | 31 Slides + Teacher Notes",
+      "url": "https://www.teacherspayteachers.com/Product/Year-2-Place-Value-Teaching-Slides-AC9M2N02-31-Slides-Teacher-Notes-17959347",
+      "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-2-Place-Value-Teaching-Slides-AC9M2N02-31-Slides-Teacher-Notes-17959347-1792045802/large-17959347-1.jpg",
+      "isBundle": false,
+      "free": false,
+      "price": "8.00",
+      "regularPrice": "8.00",
+      "observedAt": "2026-10-15",
+      "metadataSource": "Directly inspected published TpT product listing"
+    },
     {
       "productId": "17957150",
       "title": "Foundation Data & Sorting Worksheets AC9MFST01 | 40 Practice + 15 Test",
