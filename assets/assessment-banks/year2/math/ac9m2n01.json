@@ -5,41 +5,42 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N01",
     "bank": "practice",
-    "skill": "read_place_value_model",
-    "question": "A model has 4 hundred flats, 5 ten rods and 6 one blocks. Which numeral does it show?",
-    "audio_prompt": "A model has 4 hundred flats, 5 ten rods and 6 one blocks. Which numeral does it show?",
+    "skill": "read_base_ten_model",
+    "question": "This base-ten model has 3 hundreds, 7 tens and 4 ones. Which numeral does it show?",
+    "audio_prompt": "This base-ten model has 3 hundreds, 7 tens and 4 ones. Which numeral does it show?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01.svg#ac9m2n01-p-017",
-      "alt_text": "A model has 4 hundred flats, 5 ten rods and 6 one blocks. Which numeral does it show?"
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01-research.svg#ac9m2n01-p-001",
+      "alt_text": "This base-ten model has 3 hundreds, 7 tens and 4 ones. Which numeral does it show?"
     },
     "answers": [
       {
-        "text": "456",
+        "text": "374",
         "is_correct": true
       },
       {
-        "text": "465",
+        "text": "347",
         "is_correct": false
       },
       {
-        "text": "406",
+        "text": "734",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Four hundreds, five tens and six ones make 456.",
-      "hint": "Read the model in hundreds, tens, ones order."
+      "summary": "It shows 3 hundreds, 7 tens and 4 ones, so the numeral is 374.",
+      "hint": "Read hundreds, then tens, then ones."
     },
     "difficulty": 1,
     "difficulty_tier": "recognise",
     "sequence_priority": 1,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
     "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
     }
   },
   {
@@ -48,40 +49,42 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N01",
     "bank": "practice",
-    "skill": "write_number_in_words",
-    "question": "Which is the correct way to write 308 in words?",
-    "audio_prompt": "Which is the correct way to write 308 in words?",
+    "skill": "match_materials_to_numeral",
+    "question": "Which collection could be used to show 506?",
+    "audio_prompt": "Which collection could be used to show 506?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01-research.svg#ac9m2n01-p-002",
+      "alt_text": "Which collection could be used to show 506?"
     },
     "answers": [
       {
-        "text": "three hundred and eighty",
+        "text": "5 hundreds, 6 tens and 0 ones",
         "is_correct": false
       },
       {
-        "text": "three hundred and eight",
+        "text": "5 hundreds, 0 tens and 6 ones",
         "is_correct": true
       },
       {
-        "text": "thirty-eight",
+        "text": "6 hundreds, 0 tens and 5 ones",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The zero shows there are no tens, so 308 is three hundred and eight.",
-      "hint": "Check whether the tens place is zero."
+      "summary": "506 has 5 hundreds, no tens and 6 ones.",
+      "hint": "Say each digit in its place."
     },
     "difficulty": 1,
     "difficulty_tier": "recognise",
     "sequence_priority": 2,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
     "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
     }
   },
   {
@@ -90,40 +93,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N01",
     "bank": "practice",
-    "skill": "number_line_missing_value",
-    "question": "The marks are equally spaced: 540, 560, ___, 600. Which number is missing?",
-    "audio_prompt": "The marks are equally spaced: 540, 560, ___, 600. Which number is missing?",
+    "skill": "read_place_value_table",
+    "question": "A place-value chart has 8 in Hundreds, 2 in Tens and 9 in Ones. Which numeral does it show?",
+    "audio_prompt": "A place-value chart has 8 in Hundreds, 2 in Tens and 9 in Ones. Which numeral does it show?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "570",
+        "text": "892",
         "is_correct": false
       },
       {
-        "text": "590",
+        "text": "809",
         "is_correct": false
       },
       {
-        "text": "580",
+        "text": "829",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The line increases by 20 each step: 540, 560, 580, 600.",
-      "hint": "Find the equal jump between labelled marks."
+      "summary": "The digits stay in hundreds–tens–ones order: 829.",
+      "hint": "Read the chart from left to right."
     },
     "difficulty": 1,
     "difficulty_tier": "recognise",
     "sequence_priority": 3,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
     "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
     }
   },
   {
@@ -132,40 +136,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N01",
     "bank": "practice",
-    "skill": "compare_numbers",
-    "question": "Complete the statement: 709 ___ 790.",
-    "audio_prompt": "Complete the statement: 709 ___ 790.",
+    "skill": "word_to_numeral",
+    "question": "Which numeral matches ‘six hundred and forty-three’?",
+    "audio_prompt": "Which numeral matches ‘six hundred and forty-three’?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "<",
+        "text": "643",
         "is_correct": true
       },
       {
-        "text": ">",
+        "text": "634",
         "is_correct": false
       },
       {
-        "text": "=",
+        "text": "603",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Both have 7 hundreds; 0 tens is less than 9 tens, so 709 < 790.",
-      "hint": "Compare hundreds first, then tens."
+      "summary": "Six hundreds, four tens and three ones make 643.",
+      "hint": "Listen for the tens word before the ones word."
     },
     "difficulty": 1,
     "difficulty_tier": "recognise",
     "sequence_priority": 4,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
     "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
     }
   },
   {
@@ -174,40 +179,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N01",
     "bank": "practice",
-    "skill": "order_numbers",
-    "question": "Put 615, 561 and 651 in order from smallest to largest.",
-    "audio_prompt": "Put 615, 561 and 651 in order from smallest to largest.",
+    "skill": "numeral_to_words",
+    "question": "Which words name 702?",
+    "audio_prompt": "Which words name 702?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "651, 615, 561",
+        "text": "seven hundred and twenty",
         "is_correct": false
       },
       {
-        "text": "561, 615, 651",
+        "text": "seven hundred and two",
         "is_correct": true
       },
       {
-        "text": "561, 651, 615",
+        "text": "seventy-two",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "561 has 5 hundreds. Of the two 600s, 615 comes before 651.",
-      "hint": "Compare the hundreds, then the tens and ones."
+      "summary": "702 has 7 hundreds, no tens and 2 ones.",
+      "hint": "Do not skip the hundreds place."
     },
     "difficulty": 1,
     "difficulty_tier": "recognise",
     "sequence_priority": 5,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
     "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
     }
   },
   {
@@ -216,40 +222,42 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N01",
     "bank": "practice",
-    "skill": "count_forwards",
-    "question": "Count forwards from 897. Which list continues correctly?",
-    "audio_prompt": "Count forwards from 897. Which list continues correctly?",
+    "skill": "read_base_ten_model",
+    "question": "This model has 2 hundred flats, 9 ten rods and 1 one. Which numeral is shown?",
+    "audio_prompt": "This model has 2 hundred flats, 9 ten rods and 1 one. Which numeral is shown?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01-research.svg#ac9m2n01-p-006",
+      "alt_text": "This model has 2 hundred flats, 9 ten rods and 1 one. Which numeral is shown?"
     },
     "answers": [
       {
-        "text": "898, 899, 990, 991",
+        "text": "219",
         "is_correct": false
       },
       {
-        "text": "907, 917, 927, 937",
+        "text": "921",
         "is_correct": false
       },
       {
-        "text": "898, 899, 900, 901",
+        "text": "291",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "After 899 comes 900, then 901.",
-      "hint": "Say each next whole number, including the new hundred."
+      "summary": "2 hundreds, 9 tens and 1 one make 291.",
+      "hint": "Keep the places in order."
     },
     "difficulty": 1,
     "difficulty_tier": "recognise",
     "sequence_priority": 6,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
     "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
     }
   },
   {
@@ -258,40 +266,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N01",
     "bank": "practice",
-    "skill": "locate_on_number_line",
-    "question": "A number line runs from 300 to 400 with marks every 10. Which number is on the seventh mark after 300?",
-    "audio_prompt": "A number line runs from 300 to 400 with marks every 10. Which number is on the seventh mark after 300?",
+    "skill": "select_matching_model",
+    "question": "Which description shows 480?",
+    "audio_prompt": "Which description shows 480?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "370",
+        "text": "4 hundreds and 8 tens",
         "is_correct": true
       },
       {
-        "text": "307",
+        "text": "4 hundreds and 8 ones",
         "is_correct": false
       },
       {
-        "text": "360",
+        "text": "8 hundreds and 4 tens",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Seven jumps of 10 from 300 land on 370.",
-      "hint": "Count jumps, not the starting mark."
+      "summary": "480 is 4 hundreds, 8 tens and no ones.",
+      "hint": "A missing ones digit means 0 ones."
     },
     "difficulty": 1,
     "difficulty_tier": "recognise",
     "sequence_priority": 7,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
     "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
     }
   },
   {
@@ -300,40 +309,42 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N01",
     "bank": "practice",
-    "skill": "word_to_numeral",
-    "question": "Which numeral matches ‘nine hundred and forty-two’?",
-    "audio_prompt": "Which numeral matches ‘nine hundred and forty-two’?",
+    "skill": "read_number_with_zero",
+    "question": "Which numeral matches 9 hundreds and 5 ones?",
+    "audio_prompt": "Which numeral matches 9 hundreds and 5 ones?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01-research.svg#ac9m2n01-p-008",
+      "alt_text": "Which numeral matches 9 hundreds and 5 ones?"
     },
     "answers": [
       {
-        "text": "924",
+        "text": "950",
         "is_correct": false
       },
       {
-        "text": "942",
+        "text": "905",
         "is_correct": true
       },
       {
-        "text": "902",
+        "text": "95",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Nine hundreds, four tens and two ones make 942.",
-      "hint": "Place each stated value in H, T and O."
+      "summary": "There are no tens, so the tens digit is 0: 905.",
+      "hint": "Keep a place for tens."
     },
     "difficulty": 1,
     "difficulty_tier": "recognise",
     "sequence_priority": 8,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
     "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
     }
   },
   {
@@ -342,40 +353,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N01",
     "bank": "practice",
-    "skill": "hundred_chart_pattern",
-    "question": "On a hundred chart, what is directly below 47?",
-    "audio_prompt": "On a hundred chart, what is directly below 47?",
+    "skill": "match_word_and_numeral",
+    "question": "Which pair names the same number?",
+    "audio_prompt": "Which pair names the same number?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "48",
+        "text": "381 and three hundred and eighteen",
         "is_correct": false
       },
       {
-        "text": "37",
+        "text": "318 and three hundred and eighty-one",
         "is_correct": false
       },
       {
-        "text": "57",
+        "text": "318 and three hundred and eighteen",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Moving down one row adds 10, so 47 + 10 = 57.",
-      "hint": "A row has ten numbers."
+      "summary": "Three hundred and eighteen is 318.",
+      "hint": "Match the tens word to the middle digit."
     },
-    "difficulty": 2,
-    "difficulty_tier": "apply",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
     "sequence_priority": 9,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
     "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
     }
   },
   {
@@ -384,40 +396,42 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N01",
     "bank": "practice",
-    "skill": "represent_with_materials",
-    "question": "Which collection represents 530?",
-    "audio_prompt": "Which collection represents 530?",
+    "skill": "read_base_ten_model",
+    "question": "What number has 1 hundred flat, 0 ten rods and 8 one blocks?",
+    "audio_prompt": "What number has 1 hundred flat, 0 ten rods and 8 one blocks?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01-research.svg#ac9m2n01-p-010",
+      "alt_text": "What number has 1 hundred flat, 0 ten rods and 8 one blocks?"
     },
     "answers": [
       {
-        "text": "5 hundreds, 3 tens, 0 ones",
+        "text": "108",
         "is_correct": true
       },
       {
-        "text": "5 hundreds, 0 tens, 3 ones",
+        "text": "180",
         "is_correct": false
       },
       {
-        "text": "3 hundreds, 5 tens, 0 ones",
+        "text": "18",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "530 is 5 hundreds, 3 tens and no ones.",
-      "hint": "Match each digit to its place."
+      "summary": "1 hundred, 0 tens and 8 ones make 108.",
+      "hint": "Use three places even when one place has none."
     },
-    "difficulty": 2,
-    "difficulty_tier": "apply",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
     "sequence_priority": 10,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
     "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
     }
   },
   {
@@ -426,40 +440,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N01",
     "bank": "practice",
-    "skill": "compare_using_number_line",
-    "question": "On a number line, 675 is left of 725. Which statement is true?",
-    "audio_prompt": "On a number line, 675 is left of 725. Which statement is true?",
+    "skill": "match_materials_to_numeral",
+    "question": "A student writes 672. Which materials should they use?",
+    "audio_prompt": "A student writes 672. Which materials should they use?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "675 is greater than 725",
+        "text": "6 hundreds, 2 tens and 7 ones",
         "is_correct": false
       },
       {
-        "text": "675 is less than 725",
+        "text": "6 hundreds, 7 tens and 2 ones",
         "is_correct": true
       },
       {
-        "text": "675 is equal to 725",
+        "text": "7 hundreds, 6 tens and 2 ones",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Numbers farther left are smaller, so 675 < 725.",
-      "hint": "Left means less on a number line."
+      "summary": "The numeral 672 tells you the hundreds, tens and ones counts.",
+      "hint": "Point to each digit from left to right."
     },
-    "difficulty": 2,
-    "difficulty_tier": "apply",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
     "sequence_priority": 11,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
     "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
     }
   },
   {
@@ -468,40 +483,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N01",
     "bank": "practice",
-    "skill": "order_using_bounds",
-    "question": "Which number belongs between 449 and 451?",
-    "audio_prompt": "Which number belongs between 449 and 451?",
+    "skill": "numeral_to_words",
+    "question": "Which words name 460?",
+    "audio_prompt": "Which words name 460?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "440",
+        "text": "four hundred and six",
         "is_correct": false
       },
       {
-        "text": "452",
+        "text": "four hundred and sixteen",
         "is_correct": false
       },
       {
-        "text": "450",
+        "text": "four hundred and sixty",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "450 comes after 449 and before 451.",
-      "hint": "Count forward one from 449."
+      "summary": "460 has 4 hundreds and 6 tens.",
+      "hint": "The 6 is in the tens place."
     },
-    "difficulty": 2,
-    "difficulty_tier": "apply",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
     "sequence_priority": 12,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
     "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
     }
   },
   {
@@ -510,40 +526,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N01",
     "bank": "practice",
-    "skill": "read_zero_places",
-    "question": "What number has 6 hundreds, no tens and 9 ones?",
-    "audio_prompt": "What number has 6 hundreds, no tens and 9 ones?",
+    "skill": "read_place_value_table",
+    "question": "A place-value chart has 4 in Hundreds, 0 in Tens and 3 in Ones. What number is shown?",
+    "audio_prompt": "A place-value chart has 4 in Hundreds, 0 in Tens and 3 in Ones. What number is shown?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "609",
+        "text": "403",
         "is_correct": true
       },
       {
-        "text": "690",
+        "text": "430",
         "is_correct": false
       },
       {
-        "text": "69",
+        "text": "43",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The zero must hold the tens place: 609.",
-      "hint": "Write H, T, O, including zero."
+      "summary": "The chart reads 4 hundreds, 0 tens and 3 ones: 403.",
+      "hint": "Keep the zero in the middle place."
     },
-    "difficulty": 2,
-    "difficulty_tier": "apply",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
     "sequence_priority": 13,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
     "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
     }
   },
   {
@@ -552,40 +569,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N01",
     "bank": "practice",
-    "skill": "number_line_scale",
-    "question": "A line has 200 at one end and 800 at the other. There are 6 equal jumps. What is each jump?",
-    "audio_prompt": "A line has 200 at one end and 800 at the other. There are 6 equal jumps. What is each jump?",
+    "skill": "word_to_numeral",
+    "question": "Which numeral matches ‘one hundred and ninety’?",
+    "audio_prompt": "Which numeral matches ‘one hundred and ninety’?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "60",
+        "text": "109",
         "is_correct": false
       },
       {
-        "text": "100",
+        "text": "190",
         "is_correct": true
       },
       {
-        "text": "200",
+        "text": "910",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The total change is 600; 600 split into 6 equal jumps is 100.",
-      "hint": "Subtract the endpoints, then share across the jumps."
+      "summary": "One hundred and ninety is 1 hundred, 9 tens and 0 ones.",
+      "hint": "Ninety tells you there are 9 tens."
     },
-    "difficulty": 2,
-    "difficulty_tier": "apply",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
     "sequence_priority": 14,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
     "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
     }
   },
   {
@@ -594,40 +612,42 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N01",
     "bank": "practice",
-    "skill": "compare_close_numbers",
-    "question": "Which number is greatest: 882, 828 or 880?",
-    "audio_prompt": "Which number is greatest: 882, 828 or 880?",
+    "skill": "read_base_ten_model",
+    "question": "Which numeral is represented by this model with 6 hundreds, 5 tens and 8 ones?",
+    "audio_prompt": "Which numeral is represented by this model with 6 hundreds, 5 tens and 8 ones?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01-research.svg#ac9m2n01-p-015",
+      "alt_text": "Which numeral is represented by this model with 6 hundreds, 5 tens and 8 ones?"
     },
     "answers": [
       {
-        "text": "880",
+        "text": "685",
         "is_correct": false
       },
       {
-        "text": "828",
+        "text": "568",
         "is_correct": false
       },
       {
-        "text": "882",
+        "text": "658",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "All have 8 hundreds. 882 and 880 have 8 tens, and 2 ones is greater than 0 ones.",
-      "hint": "Keep comparing until a place differs."
+      "summary": "It shows 6 hundreds, 5 tens and 8 ones, so it is 658.",
+      "hint": "Start with the hundreds flats."
     },
-    "difficulty": 2,
-    "difficulty_tier": "apply",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
     "sequence_priority": 15,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
     "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
     }
   },
   {
@@ -636,40 +656,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N01",
     "bank": "practice",
-    "skill": "descending_order",
-    "question": "Arrange 999, 909, 990 and 900 from largest to smallest.",
-    "audio_prompt": "Arrange 999, 909, 990 and 900 from largest to smallest.",
+    "skill": "choose_correct_representation",
+    "question": "Which number can be represented by 7 hundred flats, 3 ten rods and no one blocks?",
+    "audio_prompt": "Which number can be represented by 7 hundred flats, 3 ten rods and no one blocks?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "999, 990, 909, 900",
+        "text": "730",
         "is_correct": true
       },
       {
-        "text": "900, 909, 990, 999",
+        "text": "703",
         "is_correct": false
       },
       {
-        "text": "999, 909, 990, 900",
+        "text": "73",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "After 999, 990 has more tens than 909; 900 is smallest.",
-      "hint": "Compare hundreds, then tens, then ones."
+      "summary": "7 hundreds and 3 tens make 730.",
+      "hint": "No one blocks means the ones digit is 0."
     },
-    "difficulty": 2,
-    "difficulty_tier": "apply",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
     "sequence_priority": 16,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
     "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
     }
   },
   {
@@ -678,40 +699,42 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N01",
     "bank": "practice",
-    "skill": "count_by_tens",
-    "question": "Which number completes the count? 763, 773, 783, ___",
-    "audio_prompt": "Which number completes the count? 763, 773, 783, ___",
+    "skill": "missing_number_line",
+    "question": "The marks are equally spaced: 420, 430, ___, 450. Which number is missing?",
+    "audio_prompt": "The marks are equally spaced: 420, 430, ___, 450. Which number is missing?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01-research.svg#ac9m2n01-p-017",
+      "alt_text": "The marks are equally spaced: 420, 430, ___, 450. Which number is missing?"
     },
     "answers": [
       {
-        "text": "784",
+        "text": "435",
         "is_correct": false
       },
       {
-        "text": "793",
+        "text": "440",
         "is_correct": true
       },
       {
-        "text": "803",
+        "text": "460",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Each term is 10 more, so 783 + 10 = 793.",
-      "hint": "A jump of 10 changes the tens digit."
+      "summary": "The line increases by 10 each mark: 420, 430, 440, 450.",
+      "hint": "Find the equal jump first."
     },
-    "difficulty": 3,
-    "difficulty_tier": "reason",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
     "sequence_priority": 17,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
     "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
     }
   },
   {
@@ -720,40 +743,42 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N01",
     "bank": "practice",
-    "skill": "identify_misplaced_number",
-    "question": "Which number is misplaced in this increasing list: 268, 286, 278, 296?",
-    "audio_prompt": "Which number is misplaced in this increasing list: 268, 286, 278, 296?",
+    "skill": "locate_marked_number",
+    "question": "The arrow points to a mark on the number line. What number is it?",
+    "audio_prompt": "The arrow points to a mark on the number line. What number is it?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01-research.svg#ac9m2n01-p-018",
+      "alt_text": "The arrow points to a mark on the number line. What number is it?"
     },
     "answers": [
       {
-        "text": "278",
+        "text": "250",
         "is_correct": false
       },
       {
-        "text": "296",
+        "text": "270",
         "is_correct": false
       },
       {
-        "text": "286",
+        "text": "260",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "278 should come before 286, so 286 is the first misplaced number.",
-      "hint": "Check each neighbouring pair."
+      "summary": "The marks count by 10 from 220. The arrow is at 260.",
+      "hint": "Count the equal jumps from 220."
     },
-    "difficulty": 3,
-    "difficulty_tier": "reason",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
     "sequence_priority": 18,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
     "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
     }
   },
   {
@@ -762,40 +787,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N01",
     "bank": "practice",
-    "skill": "reason_about_range",
-    "question": "A mystery number has 8 hundreds, is greater than 850 and has 3 ones. Which number can it be?",
-    "audio_prompt": "A mystery number has 8 hundreds, is greater than 850 and has 3 ones. Which number can it be?",
+    "skill": "number_line_between",
+    "question": "Which number belongs between 676 and 678 on a number line?",
+    "audio_prompt": "Which number belongs between 676 and 678 on a number line?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "863",
+        "text": "677",
         "is_correct": true
       },
       {
-        "text": "843",
+        "text": "667",
         "is_correct": false
       },
       {
-        "text": "853",
+        "text": "679",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "863 has 8 hundreds, is above 850 and ends in 3.",
-      "hint": "Test every clue, not just one."
+      "summary": "677 is one more than 676 and one less than 678.",
+      "hint": "Count forward one step."
     },
-    "difficulty": 3,
-    "difficulty_tier": "reason",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
     "sequence_priority": 19,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
     "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
     }
   },
   {
@@ -804,9 +830,270 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N01",
     "bank": "practice",
-    "skill": "choose_number_line_point",
-    "question": "The midpoint between 600 and 700 is marked. Which number is it?",
-    "audio_prompt": "The midpoint between 600 and 700 is marked. Which number is it?",
+    "skill": "number_line_scale",
+    "question": "A number line starts at 300. Each mark is 20 more. What number is on the fourth mark after 300?",
+    "audio_prompt": "A number line starts at 300. Each mark is 20 more. What number is on the fourth mark after 300?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01-research.svg#ac9m2n01-p-020",
+      "alt_text": "A number line starts at 300. Each mark is 20 more. What number is on the fourth mark after 300?"
+    },
+    "answers": [
+      {
+        "text": "340",
+        "is_correct": false
+      },
+      {
+        "text": "380",
+        "is_correct": true
+      },
+      {
+        "text": "420",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Four jumps of 20 from 300 land on 380.",
+      "hint": "Count 320, 340, 360, 380."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
+    "review": {
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
+    }
+  },
+  {
+    "id": "AC9M2N01-P-021",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "locate_between_tens",
+    "question": "Where would 475 go on a number line marked 470, 480, 490?",
+    "audio_prompt": "Where would 475 go on a number line marked 470, 480, 490?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "on the 470 mark",
+        "is_correct": false
+      },
+      {
+        "text": "halfway between 480 and 490",
+        "is_correct": false
+      },
+      {
+        "text": "halfway between 470 and 480",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "475 is 5 more than 470 and 5 less than 480.",
+      "hint": "Find the two tens around 475."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
+    "review": {
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
+    }
+  },
+  {
+    "id": "AC9M2N01-P-022",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "successor_on_line",
+    "question": "What number comes immediately after 699 on a number line?",
+    "audio_prompt": "What number comes immediately after 699 on a number line?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "700",
+        "is_correct": true
+      },
+      {
+        "text": "690",
+        "is_correct": false
+      },
+      {
+        "text": "701",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "One more than 699 is 700.",
+      "hint": "Crossing into a new hundred does not change the one-step jump."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
+    "review": {
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
+    }
+  },
+  {
+    "id": "AC9M2N01-P-023",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "predecessor_on_line",
+    "question": "What number comes immediately before 500 on a number line?",
+    "audio_prompt": "What number comes immediately before 500 on a number line?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "490",
+        "is_correct": false
+      },
+      {
+        "text": "499",
+        "is_correct": true
+      },
+      {
+        "text": "501",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "One less than 500 is 499.",
+      "hint": "Step back one, not ten."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
+    "review": {
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
+    }
+  },
+  {
+    "id": "AC9M2N01-P-024",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "missing_number_line",
+    "question": "A line counts by 50: 550, 600, ___, 700. What is missing?",
+    "audio_prompt": "A line counts by 50: 550, 600, ___, 700. What is missing?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01-research.svg#ac9m2n01-p-024",
+      "alt_text": "A line counts by 50: 550, 600, ___, 700. What is missing?"
+    },
+    "answers": [
+      {
+        "text": "625",
+        "is_correct": false
+      },
+      {
+        "text": "750",
+        "is_correct": false
+      },
+      {
+        "text": "650",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Each jump is 50, so 600 + 50 = 650.",
+      "hint": "Use the first two labels to find the step."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
+    "review": {
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
+    }
+  },
+  {
+    "id": "AC9M2N01-P-025",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "read_number_line_interval",
+    "question": "On this number line, which value is at the arrow?",
+    "audio_prompt": "On this number line, which value is at the arrow?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01-research.svg#ac9m2n01-p-025",
+      "alt_text": "On this number line, which value is at the arrow?"
+    },
+    "answers": [
+      {
+        "text": "840",
+        "is_correct": true
+      },
+      {
+        "text": "820",
+        "is_correct": false
+      },
+      {
+        "text": "860",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The line starts at 800 and the marks increase by 20. The arrow is at 840.",
+      "hint": "Count two jumps of 20 from 800."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
+    "review": {
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
+    }
+  },
+  {
+    "id": "AC9M2N01-P-026",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "choose_number_line_position",
+    "question": "Which number would be closest to the middle of a number line from 600 to 700?",
+    "audio_prompt": "Which number would be closest to the middle of a number line from 600 to 700?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -821,326 +1108,421 @@
         "is_correct": true
       },
       {
-        "text": "750",
+        "text": "690",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "650 is 50 more than 600 and 50 less than 700.",
-      "hint": "A midpoint is equally far from both ends."
+      "summary": "650 is halfway between 600 and 700.",
+      "hint": "Half of a 100 jump is 50."
     },
-    "difficulty": 3,
-    "difficulty_tier": "reason",
-    "sequence_priority": 20,
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
     "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
     }
   },
   {
-    "id": "AC9M2N01-P-021",
+    "id": "AC9M2N01-P-027",
     "subject": "math",
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N01",
     "bank": "practice",
-    "skill": "digit_words_consistency",
-    "question": "Which pair names the same number?",
-    "audio_prompt": "Which pair names the same number?",
+    "skill": "read_equal_jumps",
+    "question": "A number line has equal marks: 150, 175, 200, 225. What is the size of each jump?",
+    "audio_prompt": "A number line has equal marks: 150, 175, 200, 225. What is the size of each jump?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "740 and seven hundred and four",
+        "text": "20",
         "is_correct": false
       },
       {
-        "text": "714 and seven hundred and forty",
+        "text": "50",
         "is_correct": false
       },
       {
-        "text": "704 and seven hundred and four",
+        "text": "25",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "704 has 7 hundreds, no tens and 4 ones.",
-      "hint": "Check the zero place carefully."
+      "summary": "175 − 150 = 25, so every equal jump is 25.",
+      "hint": "Subtract two neighbouring labels."
     },
-    "difficulty": 3,
-    "difficulty_tier": "reason",
-    "sequence_priority": 21,
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
     "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
     }
   },
   {
-    "id": "AC9M2N01-P-022",
+    "id": "AC9M2N01-P-028",
     "subject": "math",
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N01",
     "bank": "practice",
-    "skill": "order_with_equal_hundreds",
-    "question": "Three cards show 437, 473 and 347. Which card is in the middle when ordered?",
-    "audio_prompt": "Three cards show 437, 473 and 347. Which card is in the middle when ordered?",
+    "skill": "find_missing_before_after",
+    "question": "Which number completes this line: 897, 898, ___, 900?",
+    "audio_prompt": "Which number completes this line: 897, 898, ___, 900?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "437",
+        "text": "899",
         "is_correct": true
       },
       {
-        "text": "473",
+        "text": "890",
         "is_correct": false
       },
       {
-        "text": "347",
+        "text": "901",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "347 is smallest and 473 is largest, leaving 437 in the middle.",
-      "hint": "Order all three before choosing the middle."
+      "summary": "The numbers increase by 1, so 899 comes before 900.",
+      "hint": "Say the numbers in order."
     },
-    "difficulty": 3,
-    "difficulty_tier": "reason",
-    "sequence_priority": 22,
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
     "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
     }
   },
   {
-    "id": "AC9M2N01-P-023",
+    "id": "AC9M2N01-P-029",
     "subject": "math",
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N01",
     "bank": "practice",
-    "skill": "justify_comparison",
-    "question": "Why is 498 less than 501?",
-    "audio_prompt": "Why is 498 less than 501?",
+    "skill": "locate_hundred_benchmark",
+    "question": "A point is between 700 and 800 and is 30 more than 700. What number is the point?",
+    "audio_prompt": "A point is between 700 and 800 and is 30 more than 700. What number is the point?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "98 is less than 1",
+        "text": "703",
         "is_correct": false
       },
       {
-        "text": "498 has 4 hundreds while 501 has 5 hundreds",
+        "text": "730",
         "is_correct": true
       },
       {
-        "text": "498 has fewer digits",
+        "text": "770",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The hundreds place decides: 4 hundreds is less than 5 hundreds.",
-      "hint": "Use the highest place where the numbers differ."
+      "summary": "Starting at 700 and moving 30 lands on 730.",
+      "hint": "Use the hundreds digit, then add the tens."
     },
-    "difficulty": 3,
-    "difficulty_tier": "reason",
-    "sequence_priority": 23,
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
     "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
     }
   },
   {
-    "id": "AC9M2N01-P-024",
+    "id": "AC9M2N01-P-030",
     "subject": "math",
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N01",
     "bank": "practice",
-    "skill": "reason_from_multiple_representations",
-    "question": "A model shows 7 hundreds and 15 ones. Which numeral names its total?",
-    "audio_prompt": "A model shows 7 hundreds and 15 ones. Which numeral names its total?",
+    "skill": "number_line_scale",
+    "question": "The labels on a line are 100, 200, 300, 400. Which number would be halfway between 200 and 300?",
+    "audio_prompt": "The labels on a line are 100, 200, 300, 400. Which number would be halfway between 200 and 300?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "750",
-        "is_correct": false
-      },
-      {
-        "text": "705",
-        "is_correct": false
-      },
-      {
-        "text": "715",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Seven hundreds and fifteen ones total 700 + 15 = 715.",
-      "hint": "Combine the ones into the final two places."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "reason",
-    "sequence_priority": 24,
-    "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
-    }
-  },
-  {
-    "id": "AC9M2N01-T-001",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N01",
-    "bank": "test",
-    "skill": "read_place_value_model",
-    "question": "A virtual model shows 8 hundred tiles, no ten rods and 4 ones. What number is shown?",
-    "audio_prompt": "A virtual model shows 8 hundred tiles, no ten rods and 4 ones. What number is shown?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "804",
-        "is_correct": true
-      },
-      {
-        "text": "840",
-        "is_correct": false
-      },
-      {
-        "text": "84",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Eight hundreds, zero tens and four ones make 804.",
-      "hint": "Keep the zero as the tens placeholder."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "sequence_priority": 1,
-    "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
-    }
-  },
-  {
-    "id": "AC9M2N01-T-002",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N01",
-    "bank": "test",
-    "skill": "write_number_in_words",
-    "question": "Which wording names 671?",
-    "audio_prompt": "Which wording names 671?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "six hundred and seventeen",
-        "is_correct": false
-      },
-      {
-        "text": "six hundred and seventy-one",
-        "is_correct": true
-      },
-      {
-        "text": "seven hundred and sixty-one",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "671 has 6 hundreds, 7 tens and 1 one.",
-      "hint": "Read the places from left to right."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "sequence_priority": 2,
-    "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
-    }
-  },
-  {
-    "id": "AC9M2N01-T-003",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N01",
-    "bank": "test",
-    "skill": "number_line_missing_value",
-    "question": "Complete the equally spaced line: 250, 300, ___, 400.",
-    "audio_prompt": "Complete the equally spaced line: 250, 300, ___, 400.",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "325",
-        "is_correct": false
-      },
-      {
-        "text": "450",
+        "text": "225",
         "is_correct": false
       },
       {
         "text": "350",
+        "is_correct": false
+      },
+      {
+        "text": "250",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The marks increase by 50, so the missing value is 350.",
-      "hint": "Use the difference between the first two marks."
+      "summary": "250 is 50 more than 200 and 50 less than 300.",
+      "hint": "Find half of 100."
     },
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "sequence_priority": 3,
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
     "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
     }
   },
   {
-    "id": "AC9M2N01-T-004",
+    "id": "AC9M2N01-P-031",
     "subject": "math",
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N01",
-    "bank": "test",
-    "skill": "compare_numbers",
+    "bank": "practice",
+    "skill": "locate_close_number",
+    "question": "A line is marked every 10 from 520 to 570. Which mark is 3 marks after 520?",
+    "audio_prompt": "A line is marked every 10 from 520 to 570. Which mark is 3 marks after 520?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01-research.svg#ac9m2n01-p-031",
+      "alt_text": "A line is marked every 10 from 520 to 570. Which mark is 3 marks after 520?"
+    },
+    "answers": [
+      {
+        "text": "550",
+        "is_correct": true
+      },
+      {
+        "text": "530",
+        "is_correct": false
+      },
+      {
+        "text": "560",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Three jumps of 10 are 530, 540, 550.",
+      "hint": "Count the marks, not just the spaces."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
+    "review": {
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
+    }
+  },
+  {
+    "id": "AC9M2N01-P-032",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "compare_positions",
+    "question": "Mia says 425 is to the right of 452 on a number line. Is Mia correct?",
+    "audio_prompt": "Mia says 425 is to the right of 452 on a number line. Is Mia correct?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Yes, because 425 has a 5",
+        "is_correct": false
+      },
+      {
+        "text": "No, because 425 is less than 452",
+        "is_correct": true
+      },
+      {
+        "text": "Yes, because 425 is closer to 500",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Smaller numbers are to the left. Since 425 is less than 452, it is left of 452.",
+      "hint": "Compare the tens after the 4 hundreds."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
+    "review": {
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
+    }
+  },
+  {
+    "id": "AC9M2N01-P-033",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "compare_hundreds",
+    "question": "Complete the statement: 386 ___ 412.",
+    "audio_prompt": "Complete the statement: 386 ___ 412.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": ">",
+        "is_correct": false
+      },
+      {
+        "text": "=",
+        "is_correct": false
+      },
+      {
+        "text": "<",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "3 hundreds is less than 4 hundreds, so 386 < 412.",
+      "hint": "Compare hundreds first."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
+    "review": {
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
+    }
+  },
+  {
+    "id": "AC9M2N01-P-034",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "compare_tens",
+    "question": "Which number is greater: 563 or 593?",
+    "audio_prompt": "Which number is greater: 563 or 593?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "593",
+        "is_correct": true
+      },
+      {
+        "text": "563",
+        "is_correct": false
+      },
+      {
+        "text": "They are equal",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Both have 5 hundreds. 9 tens is greater than 6 tens.",
+      "hint": "When hundreds match, compare tens."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
+    "review": {
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
+    }
+  },
+  {
+    "id": "AC9M2N01-P-035",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "compare_ones",
+    "question": "Complete the statement: 728 ___ 723.",
+    "audio_prompt": "Complete the statement: 728 ___ 723.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "<",
+        "is_correct": false
+      },
+      {
+        "text": ">",
+        "is_correct": true
+      },
+      {
+        "text": "=",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The hundreds and tens match. 8 ones is greater than 3 ones.",
+      "hint": "Compare ones only after the other places match."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
+    "review": {
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
+    }
+  },
+  {
+    "id": "AC9M2N01-P-036",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "recognise_equal_numbers",
     "question": "Which comparison is true?",
     "audio_prompt": "Which comparison is true?",
     "visual": {
@@ -1149,31 +1531,724 @@
     },
     "answers": [
       {
-        "text": "906 > 869",
-        "is_correct": true
-      },
-      {
-        "text": "906 < 869",
+        "text": "667 > 676",
         "is_correct": false
       },
       {
-        "text": "906 = 869",
+        "text": "667 < 660",
+        "is_correct": false
+      },
+      {
+        "text": "667 = 667",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A number is equal to itself.",
+      "hint": "Check every digit in both numerals."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
+    "review": {
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
+    }
+  },
+  {
+    "id": "AC9M2N01-P-037",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "order_three_numbers",
+    "question": "Put 405, 450 and 504 in order from smallest to largest.",
+    "audio_prompt": "Put 405, 450 and 504 in order from smallest to largest.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01-research.svg#ac9m2n01-p-037",
+      "alt_text": "Put 405, 450 and 504 in order from smallest to largest."
+    },
+    "answers": [
+      {
+        "text": "405, 450, 504",
+        "is_correct": true
+      },
+      {
+        "text": "504, 450, 405",
+        "is_correct": false
+      },
+      {
+        "text": "450, 405, 504",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "906 has 9 hundreds; 869 has 8 hundreds.",
-      "hint": "Compare hundreds first."
+      "summary": "405 and 450 have 4 hundreds; 405 comes first. 504 has 5 hundreds.",
+      "hint": "Sort by hundreds, then tens."
     },
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "sequence_priority": 4,
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
     "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
+    }
+  },
+  {
+    "id": "AC9M2N01-P-038",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "order_four_numbers",
+    "question": "Which list is in order from greatest to least?",
+    "audio_prompt": "Which list is in order from greatest to least?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "809, 890, 908, 980",
+        "is_correct": false
+      },
+      {
+        "text": "980, 908, 890, 809",
+        "is_correct": true
+      },
+      {
+        "text": "980, 890, 908, 809",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Compare the hundreds, then tens: 980 is greatest and 809 is least.",
+      "hint": "Greatest to least moves from right to left on a number line."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
+    "review": {
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
+    }
+  },
+  {
+    "id": "AC9M2N01-P-039",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "find_middle_number",
+    "question": "Which number is in the middle when 318, 381 and 813 are ordered?",
+    "audio_prompt": "Which number is in the middle when 318, 381 and 813 are ordered?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "318",
+        "is_correct": false
+      },
+      {
+        "text": "813",
+        "is_correct": false
+      },
+      {
+        "text": "381",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "318 is smallest and 813 is greatest, so 381 is in the middle.",
+      "hint": "Find the smallest and greatest first."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
+    "review": {
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
+    }
+  },
+  {
+    "id": "AC9M2N01-P-040",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "find_greatest_number",
+    "question": "Which number is greatest: 699, 696 or 669?",
+    "audio_prompt": "Which number is greatest: 699, 696 or 669?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "699",
+        "is_correct": true
+      },
+      {
+        "text": "696",
+        "is_correct": false
+      },
+      {
+        "text": "669",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "All have 6 hundreds. 9 tens is greater than 6 tens.",
+      "hint": "Compare the first place that is different."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
+    "review": {
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
+    }
+  },
+  {
+    "id": "AC9M2N01-P-041",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "find_least_number",
+    "question": "Which number is least: 730, 703 or 370?",
+    "audio_prompt": "Which number is least: 730, 703 or 370?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "703",
+        "is_correct": false
+      },
+      {
+        "text": "370",
+        "is_correct": true
+      },
+      {
+        "text": "730",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "370 has 3 hundreds, while the other numbers have 7 hundreds.",
+      "hint": "The hundreds digit decides first."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 41,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
+    "review": {
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
+    }
+  },
+  {
+    "id": "AC9M2N01-P-042",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "order_equal_hundreds",
+    "question": "Put 846, 864 and 804 in order from smallest to largest.",
+    "audio_prompt": "Put 846, 864 and 804 in order from smallest to largest.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "864, 846, 804",
+        "is_correct": false
+      },
+      {
+        "text": "846, 804, 864",
+        "is_correct": false
+      },
+      {
+        "text": "804, 846, 864",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "All have 8 hundreds. Compare the tens: 0, 4, then 6.",
+      "hint": "Line up the hundreds, tens and ones."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 42,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
+    "review": {
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
+    }
+  },
+  {
+    "id": "AC9M2N01-P-043",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "compare_with_zero",
+    "question": "Which number is greater: 908 or 890?",
+    "audio_prompt": "Which number is greater: 908 or 890?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "908",
+        "is_correct": true
+      },
+      {
+        "text": "890",
+        "is_correct": false
+      },
+      {
+        "text": "They are equal",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Both have 8 hundreds. 0 tens is less than 9 tens, so 908 is greater.",
+      "hint": "Compare tens before ones."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 43,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
+    "review": {
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
+    }
+  },
+  {
+    "id": "AC9M2N01-P-044",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "identify_not_ordered",
+    "question": "Which number is out of order in this increasing list: 245, 254, 252, 260?",
+    "audio_prompt": "Which number is out of order in this increasing list: 245, 254, 252, 260?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "245",
+        "is_correct": false
+      },
+      {
+        "text": "252",
+        "is_correct": true
+      },
+      {
+        "text": "260",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "252 should come before 254, so it is out of order there.",
+      "hint": "Compare the tens, then the ones."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 44,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
+    "review": {
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
+    }
+  },
+  {
+    "id": "AC9M2N01-P-045",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "justify_comparison",
+    "question": "Why is 731 greater than 713?",
+    "audio_prompt": "Why is 731 greater than 713?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "731 has more digits",
+        "is_correct": false
+      },
+      {
+        "text": "1 one is greater than 3 tens",
+        "is_correct": false
+      },
+      {
+        "text": "731 has 3 tens and 713 has 1 ten",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Both have 7 hundreds. 3 tens is greater than 1 ten.",
+      "hint": "Use the first place where the digits differ."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 45,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
+    "review": {
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
+    }
+  },
+  {
+    "id": "AC9M2N01-P-046",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "order_from_bounds",
+    "question": "Which number belongs between 599 and 601?",
+    "audio_prompt": "Which number belongs between 599 and 601?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "600",
+        "is_correct": true
+      },
+      {
+        "text": "590",
+        "is_correct": false
+      },
+      {
+        "text": "610",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "600 is one more than 599 and one less than 601.",
+      "hint": "Use the numbers just before and after it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 46,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
+    "review": {
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
+    }
+  },
+  {
+    "id": "AC9M2N01-P-047",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "compare_number_line_positions",
+    "question": "On a number line, which number is farther right: 762 or 726?",
+    "audio_prompt": "On a number line, which number is farther right: 762 or 726?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "726",
+        "is_correct": false
+      },
+      {
+        "text": "762",
+        "is_correct": true
+      },
+      {
+        "text": "They are at the same place",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "762 is greater than 726, so it is farther right.",
+      "hint": "Greater numbers are farther right."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 47,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
+    "review": {
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
+    }
+  },
+  {
+    "id": "AC9M2N01-P-048",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "practice",
+    "skill": "order_numbers_with_same_tens",
+    "question": "Put 492, 429 and 494 in order from smallest to largest.",
+    "audio_prompt": "Put 492, 429 and 494 in order from smallest to largest.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01-research.svg#ac9m2n01-p-048",
+      "alt_text": "Put 492, 429 and 494 in order from smallest to largest."
+    },
+    "answers": [
+      {
+        "text": "494, 492, 429",
+        "is_correct": false
+      },
+      {
+        "text": "492, 429, 494",
+        "is_correct": false
+      },
+      {
+        "text": "429, 492, 494",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "All have 4 hundreds. 429 has 2 tens, then 492 and 494 have 9 tens; compare ones last.",
+      "hint": "Compare one place at a time."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 48,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
+    "review": {
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
+    }
+  },
+  {
+    "id": "AC9M2N01-T-001",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "test",
+    "skill": "read_base_ten_model",
+    "question": "A virtual base-ten model has 4 hundreds, 8 tens and 2 ones. Which numeral is shown?",
+    "audio_prompt": "A virtual base-ten model has 4 hundreds, 8 tens and 2 ones. Which numeral is shown?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01-research.svg#ac9m2n01-t-001",
+      "alt_text": "A virtual base-ten model has 4 hundreds, 8 tens and 2 ones. Which numeral is shown?"
+    },
+    "answers": [
+      {
+        "text": "482",
+        "is_correct": true
+      },
+      {
+        "text": "428",
+        "is_correct": false
+      },
+      {
+        "text": "842",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "It shows 4 hundreds, 8 tens and 2 ones: 482.",
+      "hint": "Read hundreds, tens and ones in that order."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
+    "review": {
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
+    }
+  },
+  {
+    "id": "AC9M2N01-T-002",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "test",
+    "skill": "word_to_numeral",
+    "question": "Which numeral matches ‘three hundred and seventy’?",
+    "audio_prompt": "Which numeral matches ‘three hundred and seventy’?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "307",
+        "is_correct": false
+      },
+      {
+        "text": "370",
+        "is_correct": true
+      },
+      {
+        "text": "730",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Three hundreds and seven tens make 370.",
+      "hint": "The ones digit is 0."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
+    "review": {
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
+    }
+  },
+  {
+    "id": "AC9M2N01-T-003",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "test",
+    "skill": "read_number_with_zero",
+    "question": "A model has 6 hundred flats, 0 ten rods and 4 one blocks. What number is shown?",
+    "audio_prompt": "A model has 6 hundred flats, 0 ten rods and 4 one blocks. What number is shown?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01-research.svg#ac9m2n01-t-003",
+      "alt_text": "A model has 6 hundred flats, 0 ten rods and 4 one blocks. What number is shown?"
+    },
+    "answers": [
+      {
+        "text": "640",
+        "is_correct": false
+      },
+      {
+        "text": "64",
+        "is_correct": false
+      },
+      {
+        "text": "604",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "6 hundreds, no tens and 4 ones make 604.",
+      "hint": "Keep the tens place even when there are no tens."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
+    "review": {
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
+    }
+  },
+  {
+    "id": "AC9M2N01-T-004",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2N01",
+    "bank": "test",
+    "skill": "numeral_to_words",
+    "question": "Which words name 815?",
+    "audio_prompt": "Which words name 815?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "eight hundred and fifteen",
+        "is_correct": true
+      },
+      {
+        "text": "eight hundred and fifty",
+        "is_correct": false
+      },
+      {
+        "text": "eight hundred and five",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "815 is 8 hundreds, 1 ten and 5 ones.",
+      "hint": "Read the tens and ones together."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
+    "review": {
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
     }
   },
   {
@@ -1182,40 +2257,42 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N01",
     "bank": "test",
-    "skill": "order_numbers",
-    "question": "Order 702, 720, 207 and 270 from smallest to largest.",
-    "audio_prompt": "Order 702, 720, 207 and 270 from smallest to largest.",
+    "skill": "missing_number_line",
+    "question": "The marks are equally spaced: 610, 630, ___, 670. What number is missing?",
+    "audio_prompt": "The marks are equally spaced: 610, 630, ___, 670. What number is missing?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01-research.svg#ac9m2n01-t-005",
+      "alt_text": "The marks are equally spaced: 610, 630, ___, 670. What number is missing?"
     },
     "answers": [
       {
-        "text": "270, 207, 720, 702",
+        "text": "640",
         "is_correct": false
       },
       {
-        "text": "207, 270, 702, 720",
+        "text": "650",
         "is_correct": true
       },
       {
-        "text": "207, 702, 270, 720",
+        "text": "660",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The 200s come before the 700s; then compare tens.",
-      "hint": "Group by hundreds before comparing tens."
+      "summary": "The line jumps by 20: 610, 630, 650, 670.",
+      "hint": "Find the equal jump."
     },
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
     "sequence_priority": 5,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
     "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
     }
   },
   {
@@ -1224,40 +2301,42 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N01",
     "bank": "test",
-    "skill": "count_forwards",
-    "question": "What comes next? 996, 997, 998, 999, ___",
-    "audio_prompt": "What comes next? 996, 997, 998, 999, ___",
+    "skill": "locate_marked_number",
+    "question": "This number line counts by 5 from 900. What value is at the arrow?",
+    "audio_prompt": "This number line counts by 5 from 900. What value is at the arrow?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01-research.svg#ac9m2n01-t-006",
+      "alt_text": "This number line counts by 5 from 900. What value is at the arrow?"
     },
     "answers": [
       {
-        "text": "990",
+        "text": "915",
         "is_correct": false
       },
       {
-        "text": "1001",
+        "text": "935",
         "is_correct": false
       },
       {
-        "text": "1000",
+        "text": "925",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The whole number after 999 is 1000.",
-      "hint": "Cross the hundreds boundary carefully."
+      "summary": "The line counts by 5. The arrow is at 925.",
+      "hint": "Count the equal jumps from 900."
     },
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
     "sequence_priority": 6,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
     "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
     }
   },
   {
@@ -1266,40 +2345,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N01",
     "bank": "test",
-    "skill": "locate_on_number_line",
-    "question": "A line is marked 420, 440, 460, 480. Where would 450 lie?",
-    "audio_prompt": "A line is marked 420, 440, 460, 480. Where would 450 lie?",
+    "skill": "number_line_scale",
+    "question": "A line starts at 400 and each mark is 25 more. What number is on the third mark after 400?",
+    "audio_prompt": "A line starts at 400 and each mark is 25 more. What number is on the third mark after 400?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "halfway between 440 and 460",
+        "text": "475",
         "is_correct": true
       },
       {
-        "text": "on the 460 mark",
+        "text": "425",
         "is_correct": false
       },
       {
-        "text": "halfway between 420 and 440",
+        "text": "500",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "450 is 10 from both 440 and 460.",
-      "hint": "Compare the distances to nearby labels."
+      "summary": "Three jumps of 25 are 425, 450, 475.",
+      "hint": "Count each equal jump."
     },
-    "difficulty": 1,
-    "difficulty_tier": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
     "sequence_priority": 7,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
     "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
     }
   },
   {
@@ -1308,40 +2388,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N01",
     "bank": "test",
-    "skill": "word_to_numeral",
-    "question": "Write ‘five hundred and ninety’ as a numeral.",
-    "audio_prompt": "Write ‘five hundred and ninety’ as a numeral.",
+    "skill": "number_line_between",
+    "question": "Which number would be halfway between 740 and 760?",
+    "audio_prompt": "Which number would be halfway between 740 and 760?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "509",
+        "text": "745",
         "is_correct": false
       },
       {
-        "text": "590",
+        "text": "750",
         "is_correct": true
       },
       {
-        "text": "950",
+        "text": "770",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Five hundreds and nine tens make 590.",
-      "hint": "There are no ones, so the ones digit is zero."
+      "summary": "750 is 10 more than 740 and 10 less than 760.",
+      "hint": "Half of 20 is 10."
     },
-    "difficulty": 1,
-    "difficulty_tier": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
     "sequence_priority": 8,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
     "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
     }
   },
   {
@@ -1350,40 +2431,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N01",
     "bank": "test",
-    "skill": "hundred_chart_pattern",
-    "question": "What is two rows below 36 on a hundred chart?",
-    "audio_prompt": "What is two rows below 36 on a hundred chart?",
+    "skill": "compare_hundreds",
+    "question": "Complete the statement: 799 ___ 801.",
+    "audio_prompt": "Complete the statement: 799 ___ 801.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "38",
+        "text": ">",
         "is_correct": false
       },
       {
-        "text": "46",
+        "text": "=",
         "is_correct": false
       },
       {
-        "text": "56",
+        "text": "<",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Each row down adds 10; two rows add 20: 36 + 20 = 56.",
-      "hint": "Add 10 for each row."
+      "summary": "7 hundreds is less than 8 hundreds, so 799 < 801.",
+      "hint": "Compare the hundreds first."
     },
-    "difficulty": 2,
-    "difficulty_tier": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
     "sequence_priority": 9,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
     "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
     }
   },
   {
@@ -1392,40 +2474,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N01",
     "bank": "test",
-    "skill": "compare_using_number_line",
-    "question": "Which number would appear farthest right: 325, 352 or 253?",
-    "audio_prompt": "Which number would appear farthest right: 325, 352 or 253?",
+    "skill": "compare_tens",
+    "question": "Which sign correctly completes 645 ___ 614?",
+    "audio_prompt": "Which sign correctly completes 645 ___ 614?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "352",
+        "text": ">",
         "is_correct": true
       },
       {
-        "text": "325",
+        "text": "<",
         "is_correct": false
       },
       {
-        "text": "253",
+        "text": "=",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "352 is the greatest, so it is farthest right.",
-      "hint": "Farther right means greater."
+      "summary": "Both have 6 hundreds; 4 tens is greater than 1 ten.",
+      "hint": "Compare the tens after equal hundreds."
     },
-    "difficulty": 2,
-    "difficulty_tier": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
     "sequence_priority": 10,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
     "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
     }
   },
   {
@@ -1434,40 +2517,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N01",
     "bank": "test",
-    "skill": "read_zero_places",
-    "question": "Which numeral has 4 hundreds, 0 tens and 7 ones?",
-    "audio_prompt": "Which numeral has 4 hundreds, 0 tens and 7 ones?",
+    "skill": "compare_ones",
+    "question": "Which number is greater: 857 or 852?",
+    "audio_prompt": "Which number is greater: 857 or 852?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "470",
+        "text": "852",
         "is_correct": false
       },
       {
-        "text": "407",
+        "text": "857",
         "is_correct": true
       },
       {
-        "text": "47",
+        "text": "They are equal",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A zero holds the tens place in 407.",
-      "hint": "Write all three places."
+      "summary": "The hundreds and tens are equal. 7 ones is greater than 2 ones.",
+      "hint": "Use the ones place last."
     },
-    "difficulty": 2,
-    "difficulty_tier": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
     "sequence_priority": 11,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
     "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
     }
   },
   {
@@ -1476,40 +2560,42 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N01",
     "bank": "test",
-    "skill": "reason_about_range",
-    "question": "A number is between 680 and 700 and has 9 ones. What is it?",
-    "audio_prompt": "A number is between 680 and 700 and has 9 ones. What is it?",
+    "skill": "order_three_numbers",
+    "question": "Put 698, 689 and 869 in order from smallest to largest.",
+    "audio_prompt": "Put 698, 689 and 869 in order from smallest to largest.",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01-research.svg#ac9m2n01-t-012",
+      "alt_text": "Put 698, 689 and 869 in order from smallest to largest."
     },
     "answers": [
       {
-        "text": "679",
+        "text": "869, 698, 689",
         "is_correct": false
       },
       {
-        "text": "699",
+        "text": "698, 689, 869",
         "is_correct": false
       },
       {
-        "text": "689",
+        "text": "689, 698, 869",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "689 is above 680, below 700 and ends in 9.",
-      "hint": "Check both bounds and the ones clue."
+      "summary": "689 and 698 both have 6 hundreds; compare their tens. 869 has 8 hundreds.",
+      "hint": "Order by hundreds, then tens, then ones."
     },
-    "difficulty": 2,
-    "difficulty_tier": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
     "sequence_priority": 12,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
     "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
     }
   },
   {
@@ -1518,40 +2604,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N01",
     "bank": "test",
-    "skill": "descending_order",
-    "question": "Which list is ordered greatest to least?",
-    "audio_prompt": "Which list is ordered greatest to least?",
+    "skill": "order_four_numbers",
+    "question": "Arrange 934, 893, 839 and 398 from greatest to least.",
+    "audio_prompt": "Arrange 934, 893, 839 and 398 from greatest to least.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "845, 805, 584, 548",
+        "text": "934, 893, 839, 398",
         "is_correct": true
       },
       {
-        "text": "548, 584, 805, 845",
+        "text": "398, 839, 893, 934",
         "is_correct": false
       },
       {
-        "text": "845, 584, 805, 548",
+        "text": "934, 839, 893, 398",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The 800s come first, then the 500s; tens order each pair.",
-      "hint": "Compare hundreds, then tens."
+      "summary": "934 has the most hundreds. Then 893, 839 and 398 follow in decreasing order.",
+      "hint": "Check the hundreds digit first."
     },
-    "difficulty": 2,
-    "difficulty_tier": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
     "sequence_priority": 13,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
     "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
     }
   },
   {
@@ -1560,40 +2647,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N01",
     "bank": "test",
-    "skill": "number_line_scale",
-    "question": "From 100 to 700 there are 3 equal jumps. What are the intermediate labels?",
-    "audio_prompt": "From 100 to 700 there are 3 equal jumps. What are the intermediate labels?",
+    "skill": "find_middle_number",
+    "question": "Which number is in the middle when 507, 570 and 705 are ordered?",
+    "audio_prompt": "Which number is in the middle when 507, 570 and 705 are ordered?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "200 and 400",
+        "text": "507",
         "is_correct": false
       },
       {
-        "text": "300 and 500",
+        "text": "570",
         "is_correct": true
       },
       {
-        "text": "400 and 600",
+        "text": "705",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The total change is 600, so each of 3 jumps is 200: 100, 300, 500, 700.",
-      "hint": "Divide the total change by the jump count."
+      "summary": "507 is smallest and 705 is greatest, leaving 570 in the middle.",
+      "hint": "Find the least and greatest first."
     },
-    "difficulty": 2,
-    "difficulty_tier": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
     "sequence_priority": 14,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
     "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
     }
   },
   {
@@ -1603,39 +2691,40 @@
     "curriculum_code": "AC9M2N01",
     "bank": "test",
     "skill": "justify_comparison",
-    "question": "A student says 620 is greater than 602 because 2 is greater than 0. What is the correct explanation?",
-    "audio_prompt": "A student says 620 is greater than 602 because 2 is greater than 0. What is the correct explanation?",
+    "question": "Why is 460 less than 496?",
+    "audio_prompt": "Why is 460 less than 496?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The student is wrong; 602 is greater",
+        "text": "460 has fewer digits",
         "is_correct": false
       },
       {
-        "text": "They are equal because both have 6 hundreds",
+        "text": "0 ones is less than 6 ones",
         "is_correct": false
       },
       {
-        "text": "620 is greater because it has 2 tens while 602 has 0 tens",
+        "text": "Both have 4 hundreds, but 6 tens is less than 9 tens",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "After equal hundreds, compare tens: 2 tens is greater than 0 tens.",
-      "hint": "Compare digits only when they are in the same place."
+      "summary": "The tens decide because both numbers have 4 hundreds.",
+      "hint": "Compare the first place that is different."
     },
-    "difficulty": 2,
-    "difficulty_tier": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
     "sequence_priority": 15,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
     "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
     }
   },
   {
@@ -1644,40 +2733,41 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9M2N01",
     "bank": "test",
-    "skill": "multiple_representations",
-    "question": "Which representation does not show 386?",
-    "audio_prompt": "Which representation does not show 386?",
+    "skill": "identify_not_ordered",
+    "question": "Which number is out of order in this increasing list: 806, 860, 850, 890?",
+    "audio_prompt": "Which number is out of order in this increasing list: 806, 860, 850, 890?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "3 hundreds, 6 tens and 8 ones",
+        "text": "850",
         "is_correct": true
       },
       {
-        "text": "three hundred and eighty-six",
+        "text": "806",
         "is_correct": false
       },
       {
-        "text": "300 + 80 + 6",
+        "text": "890",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "3 hundreds, 6 tens and 8 ones is 368, not 386.",
-      "hint": "Translate each representation into a numeral."
+      "summary": "850 should be before 860, so it is the number out of order.",
+      "hint": "Compare 850 and 860 one place at a time."
     },
-    "difficulty": 2,
-    "difficulty_tier": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
     "sequence_priority": 16,
+    "quality_schema": "skillr-ac9m2n01-research-v1",
     "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
+      "version": "20261015-ac9m2n01-research-v1",
+      "status": "author-review-complete",
+      "research_record": "JBR99729/research- year-2/maths/AC9M2N01/research/research.md",
+      "evidence_scope": "Original items derived from recorded task types; source wording and media were not copied. Formal partitioning/regrouping is excluded because it belongs to AC9M2N02."
     }
   }
 ]
