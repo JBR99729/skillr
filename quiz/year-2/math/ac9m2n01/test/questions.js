@@ -4,30 +4,31 @@ window.skillrTestQuestions = [
     "id": "ac9m2n01-t-001",
     "curriculumCode": "AC9M2N01",
     "bank": "test",
-    "skill": "read place value model",
+    "skill": "read base ten model",
     "printable": true,
     "type": "single",
-    "question": "A virtual model shows 8 hundred tiles, no ten rods and 4 ones. What number is shown?",
-    "audioPrompt": "A virtual model shows 8 hundred tiles, no ten rods and 4 ones. What number is shown?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A virtual base-ten model has 4 hundreds, 8 tens and 2 ones. Which numeral is shown?",
+    "audioPrompt": "A virtual base-ten model has 4 hundreds, 8 tens and 2 ones. Which numeral is shown?",
+    "visual": "A virtual base-ten model has 4 hundreds, 8 tens and 2 ones. Which numeral is shown?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A virtual base-ten model has 4 hundreds, 8 tens and 2 ones. Which numeral is shown?\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n01-research.svg#ac9m2n01-t-001\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01-research.svg#ac9m2n01-t-001",
+      "alt_text": "A virtual base-ten model has 4 hundreds, 8 tens and 2 ones. Which numeral is shown?"
     },
     "answers": [
-      "804",
-      "840",
-      "84"
+      "482",
+      "428",
+      "842"
     ],
-    "difficulty": 1,
-    "difficultyTier": "recognise",
+    "difficulty": 3,
+    "difficultyTier": "independent",
     "sequencePriority": 1,
     "correct": 0,
-    "explanation": "Eight hundreds, zero tens and four ones make 804.\nHint: Keep the zero as the tens placeholder.",
+    "explanation": "It shows 4 hundreds, 8 tens and 2 ones: 482.\nHint: Read hundreds, tens and ones in that order.",
     "structuredExplanation": {
-      "summary": "Eight hundreds, zero tens and four ones make 804.",
-      "hint": "Keep the zero as the tens placeholder."
+      "summary": "It shows 4 hundreds, 8 tens and 2 ones: 482.",
+      "hint": "Read hundreds, tens and ones in that order."
     },
     "qualitySchema": "production-v1"
   },
@@ -35,11 +36,11 @@ window.skillrTestQuestions = [
     "id": "ac9m2n01-t-002",
     "curriculumCode": "AC9M2N01",
     "bank": "test",
-    "skill": "write number in words",
+    "skill": "word to numeral",
     "printable": true,
     "type": "single",
-    "question": "Which wording names 671?",
-    "audioPrompt": "Which wording names 671?",
+    "question": "Which numeral matches ‘three hundred and seventy’?",
+    "audioPrompt": "Which numeral matches ‘three hundred and seventy’?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -47,18 +48,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "six hundred and seventeen",
-      "six hundred and seventy-one",
-      "seven hundred and sixty-one"
+      "307",
+      "370",
+      "730"
     ],
-    "difficulty": 1,
-    "difficultyTier": "recognise",
+    "difficulty": 3,
+    "difficultyTier": "independent",
     "sequencePriority": 2,
     "correct": 1,
-    "explanation": "671 has 6 hundreds, 7 tens and 1 one.\nHint: Read the places from left to right.",
+    "explanation": "Three hundreds and seven tens make 370.\nHint: The ones digit is 0.",
     "structuredExplanation": {
-      "summary": "671 has 6 hundreds, 7 tens and 1 one.",
-      "hint": "Read the places from left to right."
+      "summary": "Three hundreds and seven tens make 370.",
+      "hint": "The ones digit is 0."
     },
     "qualitySchema": "production-v1"
   },
@@ -66,30 +67,31 @@ window.skillrTestQuestions = [
     "id": "ac9m2n01-t-003",
     "curriculumCode": "AC9M2N01",
     "bank": "test",
-    "skill": "number line missing value",
+    "skill": "read number with zero",
     "printable": true,
     "type": "single",
-    "question": "Complete the equally spaced line: 250, 300, ___, 400.",
-    "audioPrompt": "Complete the equally spaced line: 250, 300, ___, 400.",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A model has 6 hundred flats, 0 ten rods and 4 one blocks. What number is shown?",
+    "audioPrompt": "A model has 6 hundred flats, 0 ten rods and 4 one blocks. What number is shown?",
+    "visual": "A model has 6 hundred flats, 0 ten rods and 4 one blocks. What number is shown?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A model has 6 hundred flats, 0 ten rods and 4 one blocks. What number is shown?\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n01-research.svg#ac9m2n01-t-003\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01-research.svg#ac9m2n01-t-003",
+      "alt_text": "A model has 6 hundred flats, 0 ten rods and 4 one blocks. What number is shown?"
     },
     "answers": [
-      "325",
-      "450",
-      "350"
+      "640",
+      "64",
+      "604"
     ],
-    "difficulty": 1,
-    "difficultyTier": "recognise",
+    "difficulty": 3,
+    "difficultyTier": "independent",
     "sequencePriority": 3,
     "correct": 2,
-    "explanation": "The marks increase by 50, so the missing value is 350.\nHint: Use the difference between the first two marks.",
+    "explanation": "6 hundreds, no tens and 4 ones make 604.\nHint: Keep the tens place even when there are no tens.",
     "structuredExplanation": {
-      "summary": "The marks increase by 50, so the missing value is 350.",
-      "hint": "Use the difference between the first two marks."
+      "summary": "6 hundreds, no tens and 4 ones make 604.",
+      "hint": "Keep the tens place even when there are no tens."
     },
     "qualitySchema": "production-v1"
   },
@@ -97,11 +99,11 @@ window.skillrTestQuestions = [
     "id": "ac9m2n01-t-004",
     "curriculumCode": "AC9M2N01",
     "bank": "test",
-    "skill": "compare numbers",
+    "skill": "numeral to words",
     "printable": true,
     "type": "single",
-    "question": "Which comparison is true?",
-    "audioPrompt": "Which comparison is true?",
+    "question": "Which words name 815?",
+    "audioPrompt": "Which words name 815?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -109,18 +111,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "906 > 869",
-      "906 < 869",
-      "906 = 869"
+      "eight hundred and fifteen",
+      "eight hundred and fifty",
+      "eight hundred and five"
     ],
-    "difficulty": 1,
-    "difficultyTier": "recognise",
+    "difficulty": 3,
+    "difficultyTier": "independent",
     "sequencePriority": 4,
     "correct": 0,
-    "explanation": "906 has 9 hundreds; 869 has 8 hundreds.\nHint: Compare hundreds first.",
+    "explanation": "815 is 8 hundreds, 1 ten and 5 ones.\nHint: Read the tens and ones together.",
     "structuredExplanation": {
-      "summary": "906 has 9 hundreds; 869 has 8 hundreds.",
-      "hint": "Compare hundreds first."
+      "summary": "815 is 8 hundreds, 1 ten and 5 ones.",
+      "hint": "Read the tens and ones together."
     },
     "qualitySchema": "production-v1"
   },
@@ -128,30 +130,31 @@ window.skillrTestQuestions = [
     "id": "ac9m2n01-t-005",
     "curriculumCode": "AC9M2N01",
     "bank": "test",
-    "skill": "order numbers",
+    "skill": "missing number line",
     "printable": true,
     "type": "single",
-    "question": "Order 702, 720, 207 and 270 from smallest to largest.",
-    "audioPrompt": "Order 702, 720, 207 and 270 from smallest to largest.",
-    "visual": "",
-    "visualHtml": "",
+    "question": "The marks are equally spaced: 610, 630, ___, 670. What number is missing?",
+    "audioPrompt": "The marks are equally spaced: 610, 630, ___, 670. What number is missing?",
+    "visual": "The marks are equally spaced: 610, 630, ___, 670. What number is missing?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The marks are equally spaced: 610, 630, ___, 670. What number is missing?\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n01-research.svg#ac9m2n01-t-005\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01-research.svg#ac9m2n01-t-005",
+      "alt_text": "The marks are equally spaced: 610, 630, ___, 670. What number is missing?"
     },
     "answers": [
-      "270, 207, 720, 702",
-      "207, 270, 702, 720",
-      "207, 702, 270, 720"
+      "640",
+      "650",
+      "660"
     ],
-    "difficulty": 1,
-    "difficultyTier": "recognise",
+    "difficulty": 3,
+    "difficultyTier": "independent",
     "sequencePriority": 5,
     "correct": 1,
-    "explanation": "The 200s come before the 700s; then compare tens.\nHint: Group by hundreds before comparing tens.",
+    "explanation": "The line jumps by 20: 610, 630, 650, 670.\nHint: Find the equal jump.",
     "structuredExplanation": {
-      "summary": "The 200s come before the 700s; then compare tens.",
-      "hint": "Group by hundreds before comparing tens."
+      "summary": "The line jumps by 20: 610, 630, 650, 670.",
+      "hint": "Find the equal jump."
     },
     "qualitySchema": "production-v1"
   },
@@ -159,30 +162,31 @@ window.skillrTestQuestions = [
     "id": "ac9m2n01-t-006",
     "curriculumCode": "AC9M2N01",
     "bank": "test",
-    "skill": "count forwards",
+    "skill": "locate marked number",
     "printable": true,
     "type": "single",
-    "question": "What comes next? 996, 997, 998, 999, ___",
-    "audioPrompt": "What comes next? 996, 997, 998, 999, ___",
-    "visual": "",
-    "visualHtml": "",
+    "question": "This number line counts by 5 from 900. What value is at the arrow?",
+    "audioPrompt": "This number line counts by 5 from 900. What value is at the arrow?",
+    "visual": "This number line counts by 5 from 900. What value is at the arrow?",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"This number line counts by 5 from 900. What value is at the arrow?\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n01-research.svg#ac9m2n01-t-006\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01-research.svg#ac9m2n01-t-006",
+      "alt_text": "This number line counts by 5 from 900. What value is at the arrow?"
     },
     "answers": [
-      "990",
-      "1001",
-      "1000"
+      "915",
+      "935",
+      "925"
     ],
-    "difficulty": 1,
-    "difficultyTier": "recognise",
+    "difficulty": 3,
+    "difficultyTier": "independent",
     "sequencePriority": 6,
     "correct": 2,
-    "explanation": "The whole number after 999 is 1000.\nHint: Cross the hundreds boundary carefully.",
+    "explanation": "The line counts by 5. The arrow is at 925.\nHint: Count the equal jumps from 900.",
     "structuredExplanation": {
-      "summary": "The whole number after 999 is 1000.",
-      "hint": "Cross the hundreds boundary carefully."
+      "summary": "The line counts by 5. The arrow is at 925.",
+      "hint": "Count the equal jumps from 900."
     },
     "qualitySchema": "production-v1"
   },
@@ -190,11 +194,11 @@ window.skillrTestQuestions = [
     "id": "ac9m2n01-t-007",
     "curriculumCode": "AC9M2N01",
     "bank": "test",
-    "skill": "locate on number line",
+    "skill": "number line scale",
     "printable": true,
     "type": "single",
-    "question": "A line is marked 420, 440, 460, 480. Where would 450 lie?",
-    "audioPrompt": "A line is marked 420, 440, 460, 480. Where would 450 lie?",
+    "question": "A line starts at 400 and each mark is 25 more. What number is on the third mark after 400?",
+    "audioPrompt": "A line starts at 400 and each mark is 25 more. What number is on the third mark after 400?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -202,18 +206,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "halfway between 440 and 460",
-      "on the 460 mark",
-      "halfway between 420 and 440"
+      "475",
+      "425",
+      "500"
     ],
-    "difficulty": 1,
-    "difficultyTier": "apply",
+    "difficulty": 3,
+    "difficultyTier": "independent",
     "sequencePriority": 7,
     "correct": 0,
-    "explanation": "450 is 10 from both 440 and 460.\nHint: Compare the distances to nearby labels.",
+    "explanation": "Three jumps of 25 are 425, 450, 475.\nHint: Count each equal jump.",
     "structuredExplanation": {
-      "summary": "450 is 10 from both 440 and 460.",
-      "hint": "Compare the distances to nearby labels."
+      "summary": "Three jumps of 25 are 425, 450, 475.",
+      "hint": "Count each equal jump."
     },
     "qualitySchema": "production-v1"
   },
@@ -221,11 +225,11 @@ window.skillrTestQuestions = [
     "id": "ac9m2n01-t-008",
     "curriculumCode": "AC9M2N01",
     "bank": "test",
-    "skill": "word to numeral",
+    "skill": "number line between",
     "printable": true,
     "type": "single",
-    "question": "Write ‘five hundred and ninety’ as a numeral.",
-    "audioPrompt": "Write ‘five hundred and ninety’ as a numeral.",
+    "question": "Which number would be halfway between 740 and 760?",
+    "audioPrompt": "Which number would be halfway between 740 and 760?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -233,18 +237,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "509",
-      "590",
-      "950"
+      "745",
+      "750",
+      "770"
     ],
-    "difficulty": 1,
-    "difficultyTier": "apply",
+    "difficulty": 3,
+    "difficultyTier": "independent",
     "sequencePriority": 8,
     "correct": 1,
-    "explanation": "Five hundreds and nine tens make 590.\nHint: There are no ones, so the ones digit is zero.",
+    "explanation": "750 is 10 more than 740 and 10 less than 760.\nHint: Half of 20 is 10.",
     "structuredExplanation": {
-      "summary": "Five hundreds and nine tens make 590.",
-      "hint": "There are no ones, so the ones digit is zero."
+      "summary": "750 is 10 more than 740 and 10 less than 760.",
+      "hint": "Half of 20 is 10."
     },
     "qualitySchema": "production-v1"
   },
@@ -252,11 +256,11 @@ window.skillrTestQuestions = [
     "id": "ac9m2n01-t-009",
     "curriculumCode": "AC9M2N01",
     "bank": "test",
-    "skill": "hundred chart pattern",
+    "skill": "compare hundreds",
     "printable": true,
     "type": "single",
-    "question": "What is two rows below 36 on a hundred chart?",
-    "audioPrompt": "What is two rows below 36 on a hundred chart?",
+    "question": "Complete the statement: 799 ___ 801.",
+    "audioPrompt": "Complete the statement: 799 ___ 801.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -264,18 +268,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "38",
-      "46",
-      "56"
+      ">",
+      "=",
+      "<"
     ],
-    "difficulty": 2,
-    "difficultyTier": "apply",
+    "difficulty": 3,
+    "difficultyTier": "independent",
     "sequencePriority": 9,
     "correct": 2,
-    "explanation": "Each row down adds 10; two rows add 20: 36 + 20 = 56.\nHint: Add 10 for each row.",
+    "explanation": "7 hundreds is less than 8 hundreds, so 799 < 801.\nHint: Compare the hundreds first.",
     "structuredExplanation": {
-      "summary": "Each row down adds 10; two rows add 20: 36 + 20 = 56.",
-      "hint": "Add 10 for each row."
+      "summary": "7 hundreds is less than 8 hundreds, so 799 < 801.",
+      "hint": "Compare the hundreds first."
     },
     "qualitySchema": "production-v1"
   },
@@ -283,11 +287,11 @@ window.skillrTestQuestions = [
     "id": "ac9m2n01-t-010",
     "curriculumCode": "AC9M2N01",
     "bank": "test",
-    "skill": "compare using number line",
+    "skill": "compare tens",
     "printable": true,
     "type": "single",
-    "question": "Which number would appear farthest right: 325, 352 or 253?",
-    "audioPrompt": "Which number would appear farthest right: 325, 352 or 253?",
+    "question": "Which sign correctly completes 645 ___ 614?",
+    "audioPrompt": "Which sign correctly completes 645 ___ 614?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -295,18 +299,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "352",
-      "325",
-      "253"
+      ">",
+      "<",
+      "="
     ],
-    "difficulty": 2,
-    "difficultyTier": "apply",
+    "difficulty": 3,
+    "difficultyTier": "independent",
     "sequencePriority": 10,
     "correct": 0,
-    "explanation": "352 is the greatest, so it is farthest right.\nHint: Farther right means greater.",
+    "explanation": "Both have 6 hundreds; 4 tens is greater than 1 ten.\nHint: Compare the tens after equal hundreds.",
     "structuredExplanation": {
-      "summary": "352 is the greatest, so it is farthest right.",
-      "hint": "Farther right means greater."
+      "summary": "Both have 6 hundreds; 4 tens is greater than 1 ten.",
+      "hint": "Compare the tens after equal hundreds."
     },
     "qualitySchema": "production-v1"
   },
@@ -314,11 +318,11 @@ window.skillrTestQuestions = [
     "id": "ac9m2n01-t-011",
     "curriculumCode": "AC9M2N01",
     "bank": "test",
-    "skill": "read zero places",
+    "skill": "compare ones",
     "printable": true,
     "type": "single",
-    "question": "Which numeral has 4 hundreds, 0 tens and 7 ones?",
-    "audioPrompt": "Which numeral has 4 hundreds, 0 tens and 7 ones?",
+    "question": "Which number is greater: 857 or 852?",
+    "audioPrompt": "Which number is greater: 857 or 852?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -326,18 +330,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "470",
-      "407",
-      "47"
+      "852",
+      "857",
+      "They are equal"
     ],
-    "difficulty": 2,
-    "difficultyTier": "apply",
+    "difficulty": 3,
+    "difficultyTier": "independent",
     "sequencePriority": 11,
     "correct": 1,
-    "explanation": "A zero holds the tens place in 407.\nHint: Write all three places.",
+    "explanation": "The hundreds and tens are equal. 7 ones is greater than 2 ones.\nHint: Use the ones place last.",
     "structuredExplanation": {
-      "summary": "A zero holds the tens place in 407.",
-      "hint": "Write all three places."
+      "summary": "The hundreds and tens are equal. 7 ones is greater than 2 ones.",
+      "hint": "Use the ones place last."
     },
     "qualitySchema": "production-v1"
   },
@@ -345,30 +349,31 @@ window.skillrTestQuestions = [
     "id": "ac9m2n01-t-012",
     "curriculumCode": "AC9M2N01",
     "bank": "test",
-    "skill": "reason about range",
+    "skill": "order three numbers",
     "printable": true,
     "type": "single",
-    "question": "A number is between 680 and 700 and has 9 ones. What is it?",
-    "audioPrompt": "A number is between 680 and 700 and has 9 ones. What is it?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Put 698, 689 and 869 in order from smallest to largest.",
+    "audioPrompt": "Put 698, 689 and 869 in order from smallest to largest.",
+    "visual": "Put 698, 689 and 869 in order from smallest to largest.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Put 698, 689 and 869 in order from smallest to largest.\"><use href=\"/assets/assessment-visuals/year2/math/ac9m2n01-research.svg#ac9m2n01-t-012\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2n01-research.svg#ac9m2n01-t-012",
+      "alt_text": "Put 698, 689 and 869 in order from smallest to largest."
     },
     "answers": [
-      "679",
-      "699",
-      "689"
+      "869, 698, 689",
+      "698, 689, 869",
+      "689, 698, 869"
     ],
-    "difficulty": 2,
-    "difficultyTier": "apply",
+    "difficulty": 3,
+    "difficultyTier": "independent",
     "sequencePriority": 12,
     "correct": 2,
-    "explanation": "689 is above 680, below 700 and ends in 9.\nHint: Check both bounds and the ones clue.",
+    "explanation": "689 and 698 both have 6 hundreds; compare their tens. 869 has 8 hundreds.\nHint: Order by hundreds, then tens, then ones.",
     "structuredExplanation": {
-      "summary": "689 is above 680, below 700 and ends in 9.",
-      "hint": "Check both bounds and the ones clue."
+      "summary": "689 and 698 both have 6 hundreds; compare their tens. 869 has 8 hundreds.",
+      "hint": "Order by hundreds, then tens, then ones."
     },
     "qualitySchema": "production-v1"
   },
@@ -376,11 +381,11 @@ window.skillrTestQuestions = [
     "id": "ac9m2n01-t-013",
     "curriculumCode": "AC9M2N01",
     "bank": "test",
-    "skill": "descending order",
+    "skill": "order four numbers",
     "printable": true,
     "type": "single",
-    "question": "Which list is ordered greatest to least?",
-    "audioPrompt": "Which list is ordered greatest to least?",
+    "question": "Arrange 934, 893, 839 and 398 from greatest to least.",
+    "audioPrompt": "Arrange 934, 893, 839 and 398 from greatest to least.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -388,18 +393,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "845, 805, 584, 548",
-      "548, 584, 805, 845",
-      "845, 584, 805, 548"
+      "934, 893, 839, 398",
+      "398, 839, 893, 934",
+      "934, 839, 893, 398"
     ],
-    "difficulty": 2,
-    "difficultyTier": "reason",
+    "difficulty": 3,
+    "difficultyTier": "independent",
     "sequencePriority": 13,
     "correct": 0,
-    "explanation": "The 800s come first, then the 500s; tens order each pair.\nHint: Compare hundreds, then tens.",
+    "explanation": "934 has the most hundreds. Then 893, 839 and 398 follow in decreasing order.\nHint: Check the hundreds digit first.",
     "structuredExplanation": {
-      "summary": "The 800s come first, then the 500s; tens order each pair.",
-      "hint": "Compare hundreds, then tens."
+      "summary": "934 has the most hundreds. Then 893, 839 and 398 follow in decreasing order.",
+      "hint": "Check the hundreds digit first."
     },
     "qualitySchema": "production-v1"
   },
@@ -407,11 +412,11 @@ window.skillrTestQuestions = [
     "id": "ac9m2n01-t-014",
     "curriculumCode": "AC9M2N01",
     "bank": "test",
-    "skill": "number line scale",
+    "skill": "find middle number",
     "printable": true,
     "type": "single",
-    "question": "From 100 to 700 there are 3 equal jumps. What are the intermediate labels?",
-    "audioPrompt": "From 100 to 700 there are 3 equal jumps. What are the intermediate labels?",
+    "question": "Which number is in the middle when 507, 570 and 705 are ordered?",
+    "audioPrompt": "Which number is in the middle when 507, 570 and 705 are ordered?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -419,18 +424,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "200 and 400",
-      "300 and 500",
-      "400 and 600"
+      "507",
+      "570",
+      "705"
     ],
-    "difficulty": 2,
-    "difficultyTier": "reason",
+    "difficulty": 3,
+    "difficultyTier": "independent",
     "sequencePriority": 14,
     "correct": 1,
-    "explanation": "The total change is 600, so each of 3 jumps is 200: 100, 300, 500, 700.\nHint: Divide the total change by the jump count.",
+    "explanation": "507 is smallest and 705 is greatest, leaving 570 in the middle.\nHint: Find the least and greatest first.",
     "structuredExplanation": {
-      "summary": "The total change is 600, so each of 3 jumps is 200: 100, 300, 500, 700.",
-      "hint": "Divide the total change by the jump count."
+      "summary": "507 is smallest and 705 is greatest, leaving 570 in the middle.",
+      "hint": "Find the least and greatest first."
     },
     "qualitySchema": "production-v1"
   },
@@ -441,8 +446,8 @@ window.skillrTestQuestions = [
     "skill": "justify comparison",
     "printable": true,
     "type": "single",
-    "question": "A student says 620 is greater than 602 because 2 is greater than 0. What is the correct explanation?",
-    "audioPrompt": "A student says 620 is greater than 602 because 2 is greater than 0. What is the correct explanation?",
+    "question": "Why is 460 less than 496?",
+    "audioPrompt": "Why is 460 less than 496?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -450,18 +455,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The student is wrong; 602 is greater",
-      "They are equal because both have 6 hundreds",
-      "620 is greater because it has 2 tens while 602 has 0 tens"
+      "460 has fewer digits",
+      "0 ones is less than 6 ones",
+      "Both have 4 hundreds, but 6 tens is less than 9 tens"
     ],
-    "difficulty": 2,
-    "difficultyTier": "reason",
+    "difficulty": 3,
+    "difficultyTier": "independent",
     "sequencePriority": 15,
     "correct": 2,
-    "explanation": "After equal hundreds, compare tens: 2 tens is greater than 0 tens.\nHint: Compare digits only when they are in the same place.",
+    "explanation": "The tens decide because both numbers have 4 hundreds.\nHint: Compare the first place that is different.",
     "structuredExplanation": {
-      "summary": "After equal hundreds, compare tens: 2 tens is greater than 0 tens.",
-      "hint": "Compare digits only when they are in the same place."
+      "summary": "The tens decide because both numbers have 4 hundreds.",
+      "hint": "Compare the first place that is different."
     },
     "qualitySchema": "production-v1"
   },
@@ -469,11 +474,11 @@ window.skillrTestQuestions = [
     "id": "ac9m2n01-t-016",
     "curriculumCode": "AC9M2N01",
     "bank": "test",
-    "skill": "multiple representations",
+    "skill": "identify not ordered",
     "printable": true,
     "type": "single",
-    "question": "Which representation does not show 386?",
-    "audioPrompt": "Which representation does not show 386?",
+    "question": "Which number is out of order in this increasing list: 806, 860, 850, 890?",
+    "audioPrompt": "Which number is out of order in this increasing list: 806, 860, 850, 890?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -481,18 +486,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "3 hundreds, 6 tens and 8 ones",
-      "three hundred and eighty-six",
-      "300 + 80 + 6"
+      "850",
+      "806",
+      "890"
     ],
-    "difficulty": 2,
-    "difficultyTier": "reason",
+    "difficulty": 3,
+    "difficultyTier": "independent",
     "sequencePriority": 16,
     "correct": 0,
-    "explanation": "3 hundreds, 6 tens and 8 ones is 368, not 386.\nHint: Translate each representation into a numeral.",
+    "explanation": "850 should be before 860, so it is the number out of order.\nHint: Compare 850 and 860 one place at a time.",
     "structuredExplanation": {
-      "summary": "3 hundreds, 6 tens and 8 ones is 368, not 386.",
-      "hint": "Translate each representation into a numeral."
+      "summary": "850 should be before 860, so it is the number out of order.",
+      "hint": "Compare 850 and 860 one place at a time."
     },
     "qualitySchema": "production-v1"
   }
