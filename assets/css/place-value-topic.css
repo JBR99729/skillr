@@ -1,0 +1,13 @@
+/* Keep exact number models legible in the two place-value guides. */
+.place-value-guide .topic-model { max-width:100%; overflow-x:auto; }
+.place-value-guide .topic-model svg { min-width:600px; }
+@media (max-width:650px) {
+  .place-value-guide .topic-model { padding:12px; }
+  .place-value-guide .topic-model::after {
+    content:"Swipe the model sideways if needed.";
+    display:block;
+    color:#415b6c;
+    font-size:.85rem;
+    margin-top:10px;
+  }
+}
