@@ -1,5 +1,62 @@
 [
   {
+    "id": "tpt-17959670",
+    "title": "Year 2 Place Value Worksheets & Test AC9M2N02 | 30 Practice + 15 Test",
+    "year": 2,
+    "yearLabel": "Year 2",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "place value",
+      "partitioning",
+      "rearranging",
+      "regrouping",
+      "renaming",
+      "equal exchanges",
+      "zero",
+      "hundreds",
+      "tens",
+      "ones",
+      "base ten",
+      "two-digit numbers",
+      "three-digit numbers",
+      "worksheets",
+      "test"
+    ],
+    "curriculumCodes": [
+      "AC9M2N02"
+    ],
+    "description": "38-page A4 place-value worksheet pack with 30 Practice questions, a separate 15-question Test, five additional vocabulary/dictation items, illustrated teaching examples and complete teacher answers. Covers partitioning and renaming, equal exchanges and zero in two- and three-digit numbers.",
+    "url": "/products/tpt-17959670/",
+    "image": "/assets/tpt-17959670-cover.png",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "worksheet",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-2-Place-Value-Worksheets-Test-AC9M2N02-30-Practice-15-Test-17959670",
+    "free": false,
+    "isBundle": false,
+    "format": "Flattened A4 PDF, 38 pages, with separate teacher answers",
+    "pageCount": 38,
+    "practiceQuestions": 30,
+    "testQuestions": 15,
+    "totalQuestions": 45,
+    "dictationItems": 5,
+    "listingConfirmedAt": "2026-10-15",
+    "includes": [
+      "30 Practice questions: 10 per teaching focus",
+      "15 separate Test questions: five per focus; 30 marks total",
+      "Five additional vocabulary/dictation items",
+      "Five illustrated concept pages with worked examples and guided tries",
+      "Base-ten models, place-value charts, drawing, matching and explanation tasks",
+      "Teacher guidance and complete separate answer keys with marking criteria",
+      "Flattened A4 PDF; black-and-white student pages"
+    ],
+    "learningGoals": [
+      "Partition, rearrange, regroup and rename two- and three-digit numbers using standard and non-standard groupings.",
+      "Make and explain equal exchanges, and explain zero in place-value notation."
+    ]
+  },
+  {
     "id": "tpt-17959347",
     "title": "Year 2 Place Value Teaching Slides | AC9M2N02 | 31 Slides + Teacher Notes",
     "year": 2,
