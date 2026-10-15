@@ -875,5 +875,11 @@
     }
   ],
   "result": "pass",
-  "validation": "13 topic pages, 6 product pages; all mappings exact, one link per new product per topic, reciprocal links present. Layout and learning-order validators and catalogue search tests pass."
+  "validation": "13 topic pages, 6 product pages; all mappings exact, one link per new product per topic, reciprocal links present. Layout and learning-order validators and catalogue search tests pass.",
+  "foundationTeachingFocusBlocksPreservedExactly": 52,
+  "existingValidationLimits": [
+    "Foundation static validator fails identically before and after on the unchanged AC9MFN02 teacher viewer.",
+    "Year 2 static validator fails identically before and after on unchanged AC9M2M01 layout and viewer links.",
+    "Broad product catalogue checker retains the existing product-schema failure recorded in PR #863."
+  ]
 }
