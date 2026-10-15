@@ -338,7 +338,7 @@
       "sourceChecks": "pass"
     }
   ],
-  "status": "source/content review pass; live deployment and desktop browser QA pending; phone/tablet browser QA unavailable",
+  "status": "content/source and live desktop Year2 review pass; Foundation hub header fix awaiting live recheck; phone/tablet browser QA unavailable",
   "preservedFoundationFocuses": 64,
   "sourceChecks": "pass",
   "independentReview": {
@@ -367,5 +367,9 @@
       "focus3": "B12/B14; K01\u201303; C01/C02; M07/M08; R01\u201306; W11/W12"
     }
   },
-  "preservationDetail": "52 numbered Foundation focuses plus 12 readiness panels; complete topic-guide DOMs identical to base."
+  "preservationDetail": "52 numbered Foundation focuses plus 12 readiness panels; complete topic-guide DOMs identical to base.",
+  "liveFindings": [
+    "Shared PWA chrome injected a duplicate header on hubs. Added existing skillr-site-header guard marker to each authored hub header; no global helper change.",
+    "Corrected singular one-topic group label."
+  ]
 }
