@@ -1,5 +1,57 @@
 [
   {
+    "id": "tpt-17967143",
+    "title": "Year 2 Fractions: Halves, Quarters & Eighths | AC9M2N03",
+    "year": 2,
+    "yearLabel": "Year 2",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "fractions",
+      "halves",
+      "quarters",
+      "eighths",
+      "equal parts",
+      "whole",
+      "repeated halving",
+      "equal sharing",
+      "worksheets",
+      "test"
+    ],
+    "curriculumCodes": [
+      "AC9M2N03"
+    ],
+    "description": "39-page A4 fractions workbook with 30 Practice questions, a separate 15-question Test, illustrated teaching examples, hands-on tasks, vocabulary and dictation, teacher guidance and complete answer keys. Recognise halves and connect halves, quarters and eighths through repeated halving.",
+    "url": "/products/tpt-17967143/",
+    "image": "/assets/tpt-17967143-cover.png",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "worksheet",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-2-Fractions-Halves-Quarters-Eighths-AC9M2N03-17967143",
+    "free": false,
+    "isBundle": false,
+    "format": "Flattened A4 PDF, 39 pages, with separate teacher answers",
+    "pageCount": 39,
+    "practiceQuestions": 30,
+    "testQuestions": 15,
+    "totalQuestions": 45,
+    "dictationItems": 5,
+    "listingConfirmedAt": "2026-10-16",
+    "includes": [
+      "30 Practice questions: 10 in each of three teaching focuses",
+      "15 separate Test questions: five per focus",
+      "Five additional vocabulary/dictation items",
+      "Four worked examples and three guided tries",
+      "Paper folding, equal sharing, length, mass and capacity tasks",
+      "Teacher guide, complete separate answer keys and practical observation record",
+      "39-page flattened A4 printable PDF; print at Actual Size / 100%"
+    ],
+    "learningGoals": [
+      "Recognise and describe one-half as one of two equal parts of a whole.",
+      "Connect halves, quarters and eighths through repeated halving of the same whole."
+    ]
+  },
+  {
     "id": "tpt-17959670",
     "title": "Year 2 Place Value Worksheets & Test AC9M2N02 | 30 Practice + 15 Test",
     "year": 2,

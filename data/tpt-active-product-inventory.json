@@ -1,8 +1,18 @@
 {
   "auditedAt": "2026-10-08",
   "storefront": "https://www.teacherspayteachers.com/store/skillrhub",
-  "activeProductCount": 194,
+  "activeProductCount": 195,
   "products": [
+    {
+      "productId": "17967143",
+      "title": "Year 2 Fractions: Halves, Quarters & Eighths | AC9M2N03",
+      "url": "https://www.teacherspayteachers.com/Product/Year-2-Fractions-Halves-Quarters-Eighths-AC9M2N03-17967143",
+      "image": "/assets/tpt-17967143-cover.png",
+      "isBundle": false,
+      "free": false,
+      "observedAt": "2026-10-16",
+      "metadataSource": "Owner-supplied published product link; counts and cover from accepted worksheet; live price not verified"
+    },
     {
       "productId": "17959670",
       "title": "Year 2 Place Value Worksheets & Test AC9M2N02 | 30 Practice + 15 Test",
@@ -2188,7 +2198,12 @@
         "17959670"
       ],
       "note": "Owner-supplied published AC9M2N02 worksheet added; accepted 38-page pack metadata and original cover used. Unconfirmed live price omitted; full-inventory audit date retained."
+    },
+    {
+      "date": "2026-10-16",
+      "productId": "17967143",
+      "change": "Added owner-supplied AC9M2N03 fractions worksheet listing. Contents and cover verified from accepted 39-page workbook; no live price asserted."
     }
   ],
-  "updatedAt": "2026-10-15"
+  "updatedAt": "2026-10-16"
 }
