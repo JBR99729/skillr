@@ -1,8 +1,18 @@
 {
   "auditedAt": "2026-10-08",
   "storefront": "https://www.teacherspayteachers.com/store/skillrhub",
-  "activeProductCount": 193,
+  "activeProductCount": 194,
   "products": [
+    {
+      "productId": "17959670",
+      "title": "Year 2 Place Value Worksheets & Test AC9M2N02 | 30 Practice + 15 Test",
+      "url": "https://www.teacherspayteachers.com/Product/Year-2-Place-Value-Worksheets-Test-AC9M2N02-30-Practice-15-Test-17959670",
+      "image": "/assets/tpt-17959670-cover.png",
+      "isBundle": false,
+      "free": false,
+      "observedAt": "2026-10-15",
+      "metadataSource": "Owner-supplied published product link; counts and cover from accepted worksheet; live price not verified"
+    },
     {
       "productId": "17959347",
       "title": "Year 2 Place Value Teaching Slides | AC9M2N02 | 31 Slides + Teacher Notes",
@@ -2171,6 +2181,13 @@
         "17947772"
       ],
       "note": "Added three owner-supplied published Foundation listings. Existing audit date retained; unconfirmed live prices omitted."
+    },
+    {
+      "date": "2026-10-15",
+      "productIds": [
+        "17959670"
+      ],
+      "note": "Owner-supplied published AC9M2N02 worksheet added; accepted 38-page pack metadata and original cover used. Unconfirmed live price omitted; full-inventory audit date retained."
     }
   ],
   "updatedAt": "2026-10-15"
