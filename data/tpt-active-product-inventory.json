@@ -1,8 +1,68 @@
 {
   "auditedAt": "2026-10-08",
   "storefront": "https://www.teacherspayteachers.com/store/skillrhub",
-  "activeProductCount": 187,
+  "activeProductCount": 192,
   "products": [
+    {
+      "productId": "17957150",
+      "title": "Foundation Data & Sorting Worksheets AC9MFST01 | 40 Practice + 15 Test",
+      "url": "https://www.teacherspayteachers.com/Product/Foundation-Data-Sorting-Worksheets-AC9MFST01-40-Practice-15-Test-17957150",
+      "image": "https://ecdn.teacherspayteachers.com/thumbitem/Foundation-Data-Sorting-Worksheets-AC9MFST01-40-Practice-15-Test-17957150-1792021267/large-17957150-1.jpg",
+      "isBundle": false,
+      "free": false,
+      "regularPrice": "8.00",
+      "price": "8.00",
+      "observedAt": "2026-10-15",
+      "metadataSource": "Directly inspected published TpT product listing"
+    },
+    {
+      "productId": "17957665",
+      "title": "Foundation Maths Unit 2 Worksheets Bundle | Counting, Parts & 2D Shapes",
+      "url": "https://www.teacherspayteachers.com/Product/Foundation-Maths-Unit-2-Worksheets-Bundle-Counting-Parts-2D-Shapes-17957665",
+      "image": "https://ecdn.teacherspayteachers.com/thumbitem/Foundation-Maths-Unit-2-Worksheets-Bundle-Counting-Parts-2D-Shapes-17957665-1792025161/large-17957665-1.jpg",
+      "isBundle": true,
+      "free": false,
+      "regularPrice": "19.80",
+      "price": "19.80",
+      "observedAt": "2026-10-15",
+      "metadataSource": "Directly inspected published TpT product listing"
+    },
+    {
+      "productId": "17957691",
+      "title": "Foundation Maths Unit 3 Worksheets Bundle | Operations, Sharing & Measurement",
+      "url": "https://www.teacherspayteachers.com/Product/Foundation-Maths-Unit-3-Worksheets-Bundle-Operations-Sharing-Measurement-17957691",
+      "image": "https://ecdn.teacherspayteachers.com/thumbitem/Foundation-Maths-Unit-3-Worksheets-Bundle-Operations-Sharing-Measurement-17957691-1792025410/large-17957691-1.jpg",
+      "isBundle": true,
+      "free": false,
+      "regularPrice": "18.90",
+      "price": "18.90",
+      "observedAt": "2026-10-15",
+      "metadataSource": "Directly inspected published TpT product listing"
+    },
+    {
+      "productId": "17957722",
+      "title": "Foundation Maths Unit 4 Worksheets Bundle | Days, Time, Position & Data",
+      "url": "https://www.teacherspayteachers.com/Product/Foundation-Maths-Unit-4-Worksheets-Bundle-Days-Time-Position-Data-17957722",
+      "image": "https://ecdn.teacherspayteachers.com/thumbitem/Foundation-Maths-Unit-4-Worksheets-Bundle-Days-Time-Position-Data-17957722-1792025649/large-17957722-1.jpg",
+      "isBundle": true,
+      "free": false,
+      "regularPrice": "20.25",
+      "price": "20.25",
+      "observedAt": "2026-10-15",
+      "metadataSource": "Directly inspected published TpT product listing"
+    },
+    {
+      "productId": "17957743",
+      "title": "Foundation Maths Full Year Worksheets & Tests Bundle | All 12 AC v9 Codes",
+      "url": "https://www.teacherspayteachers.com/Product/Foundation-Maths-Full-Year-Worksheets-Tests-Bundle-All-12-AC-v9-Codes-17957743",
+      "image": "https://ecdn.teacherspayteachers.com/thumbitem/Foundation-Maths-Full-Year-Worksheets-Tests-Bundle-All-12-AC-v9-Codes-17957743-1792025950/large-17957743-1.jpg",
+      "isBundle": true,
+      "free": false,
+      "regularPrice": "68.40",
+      "price": "68.40",
+      "observedAt": "2026-10-15",
+      "metadataSource": "Directly inspected published TpT product listing"
+    },
     {
       "productId": "17955316",
       "title": "Foundation Days & Time Worksheets AC9MFM02 | 40 Practice + 15 Test",
