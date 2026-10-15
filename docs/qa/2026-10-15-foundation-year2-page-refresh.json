@@ -1,0 +1,344 @@
+{
+  "referenceHubs": [
+    "year1/index.html",
+    "year1/curriculum/maths/index.html",
+    "year1/curriculum/science/index.html",
+    "year1/curriculum/english/index.html"
+  ],
+  "referenceTopic": "year1/maths/ac9m1n01-numbers-to-120/index.html",
+  "scope": "Foundation year/curriculum/subject hubs, 12 Foundation Maths topic guides, AC9M2N01 and AC9M2N02",
+  "pages": [
+    {
+      "path": "foundation/curriculum/maths/index.html",
+      "type": "hub",
+      "topicCount": 12,
+      "retainedSections": [
+        "breadcrumb",
+        "hero and paper-practice offer",
+        "subject/topic cards",
+        "existing resource links",
+        "contact and footer"
+      ],
+      "sourceChecks": "pass"
+    },
+    {
+      "path": "foundation/maths/index.html",
+      "type": "hub",
+      "topicCount": 12,
+      "retainedSections": [
+        "breadcrumb",
+        "hero and paper-practice offer",
+        "subject/topic cards",
+        "existing resource links",
+        "contact and footer"
+      ],
+      "sourceChecks": "pass"
+    },
+    {
+      "path": "foundation/curriculum/science/index.html",
+      "type": "hub",
+      "topicCount": 9,
+      "retainedSections": [
+        "breadcrumb",
+        "hero and paper-practice offer",
+        "subject/topic cards",
+        "existing resource links",
+        "contact and footer"
+      ],
+      "sourceChecks": "pass"
+    },
+    {
+      "path": "foundation/science/index.html",
+      "type": "hub",
+      "topicCount": 9,
+      "retainedSections": [
+        "breadcrumb",
+        "hero and paper-practice offer",
+        "subject/topic cards",
+        "existing resource links",
+        "contact and footer"
+      ],
+      "sourceChecks": "pass"
+    },
+    {
+      "path": "foundation/curriculum/english/index.html",
+      "type": "hub",
+      "topicCount": 29,
+      "retainedSections": [
+        "breadcrumb",
+        "hero and paper-practice offer",
+        "subject/topic cards",
+        "existing resource links",
+        "contact and footer"
+      ],
+      "sourceChecks": "pass"
+    },
+    {
+      "path": "foundation/index.html",
+      "type": "hub",
+      "topicCount": null,
+      "retainedSections": [
+        "breadcrumb",
+        "hero and paper-practice offer",
+        "subject/topic cards",
+        "existing resource links",
+        "contact and footer"
+      ],
+      "sourceChecks": "pass"
+    },
+    {
+      "path": "foundation/curriculum/index.html",
+      "type": "hub",
+      "topicCount": null,
+      "retainedSections": [
+        "breadcrumb",
+        "hero and paper-practice offer",
+        "subject/topic cards",
+        "existing resource links",
+        "contact and footer"
+      ],
+      "sourceChecks": "pass"
+    },
+    {
+      "path": "foundation/maths/ac9mfn01-name-represent-and-order-numbers-including-zero-to-at-least/index.html",
+      "type": "topic",
+      "code": "AC9MFN01",
+      "retainedSections": [
+        "video-lesson",
+        "topic hero",
+        "one matching-product card",
+        "related bundles where applicable",
+        "topic-guide and authored teaching focuses",
+        "worked examples and answer reveals",
+        "resources",
+        "next-topic navigation",
+        "contact and footer"
+      ],
+      "sourceChecks": "pass"
+    },
+    {
+      "path": "foundation/maths/ac9mfn02-and-name-the-number-of-objects-within-a-collection-up/index.html",
+      "type": "topic",
+      "code": "AC9MFN02",
+      "retainedSections": [
+        "video-lesson",
+        "topic hero",
+        "one matching-product card",
+        "related bundles where applicable",
+        "topic-guide and authored teaching focuses",
+        "worked examples and answer reveals",
+        "resources",
+        "next-topic navigation",
+        "contact and footer"
+      ],
+      "sourceChecks": "pass"
+    },
+    {
+      "path": "foundation/maths/ac9mfn03-and-compare-collections-to-at-least-20-using-counting-and/index.html",
+      "type": "topic",
+      "code": "AC9MFN03",
+      "retainedSections": [
+        "video-lesson",
+        "topic hero",
+        "one matching-product card",
+        "related bundles where applicable",
+        "topic-guide and authored teaching focuses",
+        "worked examples and answer reveals",
+        "resources",
+        "next-topic navigation",
+        "contact and footer"
+      ],
+      "sourceChecks": "pass"
+    },
+    {
+      "path": "foundation/maths/ac9mfn04-partition-and-combine-collections-up-to-10-using-part-part/index.html",
+      "type": "topic",
+      "code": "AC9MFN04",
+      "retainedSections": [
+        "video-lesson",
+        "topic hero",
+        "one matching-product card",
+        "related bundles where applicable",
+        "topic-guide and authored teaching focuses",
+        "worked examples and answer reveals",
+        "resources",
+        "next-topic navigation",
+        "contact and footer"
+      ],
+      "sourceChecks": "pass"
+    },
+    {
+      "path": "foundation/maths/ac9mfn05-represent-practical-situations-involving-addition-subtraction/index.html",
+      "type": "topic",
+      "code": "AC9MFN05",
+      "retainedSections": [
+        "video-lesson",
+        "topic hero",
+        "one matching-product card",
+        "related bundles where applicable",
+        "topic-guide and authored teaching focuses",
+        "worked examples and answer reveals",
+        "resources",
+        "next-topic navigation",
+        "contact and footer"
+      ],
+      "sourceChecks": "pass"
+    },
+    {
+      "path": "foundation/maths/ac9mfn06-represent-practical-situations-that-involve-equal-sharing-and/index.html",
+      "type": "topic",
+      "code": "AC9MFN06",
+      "retainedSections": [
+        "video-lesson",
+        "topic hero",
+        "one matching-product card",
+        "related bundles where applicable",
+        "topic-guide and authored teaching focuses",
+        "worked examples and answer reveals",
+        "resources",
+        "next-topic navigation",
+        "contact and footer"
+      ],
+      "sourceChecks": "pass"
+    },
+    {
+      "path": "foundation/maths/ac9mfa01-recognise-copy-and-continue-repeating-patterns-represented-in/index.html",
+      "type": "topic",
+      "code": "AC9MFA01",
+      "retainedSections": [
+        "video-lesson",
+        "topic hero",
+        "one matching-product card",
+        "related bundles where applicable",
+        "topic-guide and authored teaching focuses",
+        "worked examples and answer reveals",
+        "resources",
+        "next-topic navigation",
+        "contact and footer"
+      ],
+      "sourceChecks": "pass"
+    },
+    {
+      "path": "foundation/maths/ac9mfm01-and-compare-attributes-of-objects-and-events-including-length/index.html",
+      "type": "topic",
+      "code": "AC9MFM01",
+      "retainedSections": [
+        "video-lesson",
+        "topic hero",
+        "one matching-product card",
+        "related bundles where applicable",
+        "topic-guide and authored teaching focuses",
+        "worked examples and answer reveals",
+        "resources",
+        "next-topic navigation",
+        "contact and footer"
+      ],
+      "sourceChecks": "pass"
+    },
+    {
+      "path": "foundation/maths/ac9mfm02-sequence-days-of-the-week-and-times-of-the-day/index.html",
+      "type": "topic",
+      "code": "AC9MFM02",
+      "retainedSections": [
+        "video-lesson",
+        "topic hero",
+        "one matching-product card",
+        "related bundles where applicable",
+        "topic-guide and authored teaching focuses",
+        "worked examples and answer reveals",
+        "resources",
+        "next-topic navigation",
+        "contact and footer"
+      ],
+      "sourceChecks": "pass"
+    },
+    {
+      "path": "foundation/maths/ac9mfsp01-sort-name-and-create-familiar-shapes-recognise-and-describe/index.html",
+      "type": "topic",
+      "code": "AC9MFSP01",
+      "retainedSections": [
+        "video-lesson",
+        "topic hero",
+        "one matching-product card",
+        "related bundles where applicable",
+        "topic-guide and authored teaching focuses",
+        "worked examples and answer reveals",
+        "resources",
+        "next-topic navigation",
+        "contact and footer"
+      ],
+      "sourceChecks": "pass"
+    },
+    {
+      "path": "foundation/maths/ac9mfsp02-the-position-and-location-of-themselves-and-objects-in-relation/index.html",
+      "type": "topic",
+      "code": "AC9MFSP02",
+      "retainedSections": [
+        "video-lesson",
+        "topic hero",
+        "one matching-product card",
+        "related bundles where applicable",
+        "topic-guide and authored teaching focuses",
+        "worked examples and answer reveals",
+        "resources",
+        "next-topic navigation",
+        "contact and footer"
+      ],
+      "sourceChecks": "pass"
+    },
+    {
+      "path": "foundation/maths/ac9mfst01-collect-sort-and-compare-data-represented-by-objects-and-images/index.html",
+      "type": "topic",
+      "code": "AC9MFST01",
+      "retainedSections": [
+        "video-lesson",
+        "topic hero",
+        "one matching-product card",
+        "related bundles where applicable",
+        "topic-guide and authored teaching focuses",
+        "worked examples and answer reveals",
+        "resources",
+        "next-topic navigation",
+        "contact and footer"
+      ],
+      "sourceChecks": "pass"
+    },
+    {
+      "path": "year2/maths/ac9m2n01-recognise-represent-and-order-numbers-to-at-least-1000-using/index.html",
+      "type": "topic",
+      "code": "AC9M2N01",
+      "retainedSections": [
+        "video-lesson",
+        "topic hero",
+        "one matching-product card",
+        "related bundles where applicable",
+        "topic-guide and authored teaching focuses",
+        "worked examples and answer reveals",
+        "resources",
+        "next-topic navigation",
+        "contact and footer"
+      ],
+      "sourceChecks": "pass"
+    },
+    {
+      "path": "year2/maths/ac9m2n02-partition-rearrange-regroup-and-rename-two-and-three-digit/index.html",
+      "type": "topic",
+      "code": "AC9M2N02",
+      "retainedSections": [
+        "video-lesson",
+        "topic hero",
+        "one matching-product card",
+        "related bundles where applicable",
+        "topic-guide and authored teaching focuses",
+        "worked examples and answer reveals",
+        "resources",
+        "next-topic navigation",
+        "contact and footer"
+      ],
+      "sourceChecks": "pass"
+    }
+  ],
+  "status": "candidate; content and visual checks pending",
+  "preservedFoundationFocuses": 64,
+  "sourceChecks": "pass"
+}
