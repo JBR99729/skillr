@@ -1,5 +1,58 @@
 [
   {
+    "id": "tpt-17955316",
+    "title": "Foundation Days & Time Worksheets AC9MFM02 | 40 Practice + 15 Test",
+    "year": 0,
+    "yearLabel": "Foundation",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "curriculumCodes": [
+      "AC9MFM02"
+    ],
+    "url": "/products/tpt-17955316/",
+    "image": "/assets/tpt-17955316-cover.webp",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "worksheet",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Foundation-Days-Time-Worksheets-AC9MFM02-40-Practice-15-Test-17955316",
+    "free": false,
+    "isBundle": false,
+    "format": "A4 printable PDF",
+    "listingConfirmedAt": "2026-10-15",
+    "topics": [
+      "measurement",
+      "time",
+      "days of the week",
+      "weekly cycle",
+      "yesterday",
+      "today",
+      "tomorrow",
+      "morning",
+      "lunchtime",
+      "afternoon",
+      "night",
+      "event sequencing",
+      "daily routines",
+      "kindergarten",
+      "prep"
+    ],
+    "description": "62-page Foundation Maths pack with 40 Practice questions and a separate 15-question Test. Sequence days of the week, yesterday, today and tomorrow, day parts and familiar events, with illustrated teaching pages and complete teacher scripts and keys.",
+    "includes": [
+      "40 Practice questions: 10 per teaching focus",
+      "Separate 15-question Test across all four focuses",
+      "Four illustrated teaching pages with worked examples and guided tries",
+      "Five additional vocabulary/dictation sentences",
+      "Oral, drawing and movable-card activities with adult observation criteria",
+      "Reusable day-name cards, complete teacher answers and printing index",
+      "62-page A4 printable PDF; print at Actual Size (100%)"
+    ],
+    "practiceQuestions": 40,
+    "testQuestions": 15,
+    "totalQuestions": 55,
+    "additionalItems": 5,
+    "pageCount": 62
+  },
+  {
     "id": "tpt-17954204",
     "title": "Kindergarten Measurement Worksheets | Length, Mass, Capacity & Duration | AC9MFM01",
     "year": 0,

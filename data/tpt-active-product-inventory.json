@@ -1,8 +1,18 @@
 {
   "auditedAt": "2026-10-08",
   "storefront": "https://www.teacherspayteachers.com/store/skillrhub",
-  "activeProductCount": 186,
+  "activeProductCount": 187,
   "products": [
+    {
+      "productId": "17955316",
+      "title": "Foundation Days & Time Worksheets AC9MFM02 | 40 Practice + 15 Test",
+      "url": "https://www.teacherspayteachers.com/Product/Foundation-Days-Time-Worksheets-AC9MFM02-40-Practice-15-Test-17955316",
+      "image": "https://skillrhub.com/assets/tpt-17955316-cover.webp",
+      "isBundle": false,
+      "free": false,
+      "metadataSource": "Owner-supplied published TPT URL; accepted M02 worksheet pack details",
+      "catalogueConfirmedAt": "2026-10-15"
+    },
     {
       "productId": "17947772",
       "title": "Foundation Number Worksheets & Tests Bundle | AC9MFN01-FN06 | NSW & VIC",
