@@ -1,0 +1,1702 @@
+{
+  "code": "AC9M2N02",
+  "version": "20261015-ac9m2n02-research-v2",
+  "status": "candidate",
+  "year": 2,
+  "descriptor": "Partition, rearrange, regroup and rename two- and three-digit numbers using standard and non-standard groupings; recognise the role of a zero digit in place value notation.",
+  "researchRecord": "JBR99729/research-/year-2/maths/AC9M2N02/research/research.md",
+  "focuses": {
+    "PN": "Partition and rename numbers",
+    "EX": "Make equal exchanges",
+    "ZR": "Explain zero’s role"
+  },
+  "scope": "Year 2 core only. No invented next-year Stretch items: this website-bank build follows the agreed researched scope; app-specific adaptive/Stretch gates are not claimed.",
+  "counts": {
+    "practice": 30,
+    "test": 16
+  },
+  "teaching": {
+    "title": "Before you begin",
+    "unitKey": "A hundred flat is worth 100. A ten rod is worth 10. A one cube is worth 1. H means hundreds, T means tens and O means ones.",
+    "notes": [
+      "Partition means split a number into parts. Rearrange means move the whole parts into a different order. Keep each unit name with its number.",
+      "The usual grouping has fewer than 10 pieces in each place. Other equal groupings may have 10 or more tens or ones.",
+      "10 ones have the same value as 1 ten. 10 tens have the same value as 1 hundred. You can exchange in either direction.",
+      "Complete tens include the tens inside hundreds. Leftover ones are the ones left after making complete groups of ten.",
+      "A zero records an empty place in the usual numeral. No separate ten rods does not mean there are no tens inside the hundreds.",
+      "Use blocks, drawings or words for the tasks that ask you to show or explain. You may speak, sign or have someone write your explanation. These tasks wait for a grown-up’s check."
+    ],
+    "nestedTensModel": {
+      "kind": "equal-models",
+      "before": {
+        "kind": "blocks",
+        "hundreds": 1,
+        "tens": 6,
+        "ones": 5,
+        "label": "165 before the exchange"
+      },
+      "after": {
+        "kind": "blocks",
+        "hundreds": 0,
+        "tens": 16,
+        "ones": 5,
+        "label": "165 after opening the hundred"
+      },
+      "caption": "Open the hundred into 10 tens. Keep the 6 tens and 5 ones already there. Both models make 165: 16 complete tens and 5 leftover ones."
+    },
+    "examples": [
+      "41 = 4 tens + 1 one = 3 tens + 11 ones. All three names have the same value.",
+      "165 = 1 hundred + 6 tens + 5 ones = 16 tens + 5 ones.",
+      "203 = 2 hundreds + 0 tens + 3 ones = 20 tens + 3 ones."
+    ]
+  },
+  "items": [
+    {
+      "id": "AC9M2N02-V2-P-PN01",
+      "version": "20261015-ac9m2n02-research-v2",
+      "slot": "P-PN01",
+      "bank": "practice",
+      "focus": "PN",
+      "focusTitle": "Partition and rename numbers",
+      "concept": "read_model",
+      "type": "fill-blank",
+      "question": "Look at the model. Complete its usual tens-and-ones name and write the number.",
+      "correct": [
+        6,
+        4,
+        64
+      ],
+      "explanation": "6 tens are 60. 60 and 4 ones make 64.",
+      "hint": "A rod is 10; a small square is 1.",
+      "difficulty": 1,
+      "mastery": "Understand",
+      "evidence": [
+        "N02-B01",
+        "N02-B02"
+      ],
+      "visualSpec": {
+        "kind": "blocks",
+        "hundreds": 0,
+        "tens": 6,
+        "ones": 4,
+        "label": "Base-ten model"
+      },
+      "misconception": "Counts pieces without valuing hundreds/tens/ones, or swaps places.",
+      "status": "candidate",
+      "legacySource": null,
+      "template": "{{blank}} tens and {{blank}} ones make {{blank}}."
+    },
+    {
+      "id": "AC9M2N02-V2-P-PN02",
+      "version": "20261015-ac9m2n02-research-v2",
+      "slot": "P-PN02",
+      "bank": "practice",
+      "focus": "PN",
+      "focusTitle": "Partition and rename numbers",
+      "concept": "construct_model",
+      "type": "self-check",
+      "question": "Build or draw 83 using tens and ones. Label the parts.",
+      "correct": "8 tens and 3 ones: 80 + 3 = 83.",
+      "explanation": "Eight tens make 80; add 3 ones to keep the amount 83.",
+      "hint": "Count the value of every piece.",
+      "difficulty": 1,
+      "mastery": "Understand",
+      "evidence": [
+        "N02-B01",
+        "N02-B02",
+        "N02-B16"
+      ],
+      "visualSpec": {
+        "kind": "chart",
+        "values": [
+          "—",
+          "?",
+          "?"
+        ],
+        "label": "Build 83"
+      },
+      "misconception": "Copies a numeral without constructing a model of the requested value.",
+      "status": "candidate",
+      "legacySource": null,
+      "gradingMode": "adult-review",
+      "modelAnswer": "8 tens and 3 ones: 80 + 3 = 83.",
+      "acceptanceNote": "Require a model worth 83 with labelled tens and ones. Accept 8T3O or any equal non-standard grouping; drawing neatness is not assessed.",
+      "responseInstructions": "Write or say your answer. You may build with blocks or draw on paper. A grown-up checks your work after you finish.",
+      "completionLabel": "I have completed the task and shown or told a grown-up my answer."
+    },
+    {
+      "id": "AC9M2N02-V2-P-PN03",
+      "version": "20261015-ac9m2n02-research-v2",
+      "slot": "P-PN03",
+      "bank": "practice",
+      "focus": "PN",
+      "focusTitle": "Partition and rename numbers",
+      "concept": "read_model",
+      "type": "fill-blank",
+      "question": "Name the parts shown in this model. Then write the number.",
+      "correct": [
+        2,
+        3,
+        6,
+        236
+      ],
+      "explanation": "2 hundreds, 3 tens and 6 ones make 200 + 30 + 6 = 236.",
+      "hint": "Keep the three places in order.",
+      "difficulty": 1,
+      "mastery": "Understand",
+      "evidence": [
+        "N02-B13",
+        "N02-B15"
+      ],
+      "visualSpec": {
+        "kind": "blocks",
+        "hundreds": 2,
+        "tens": 3,
+        "ones": 6,
+        "label": "Base-ten model"
+      },
+      "misconception": "Counts pieces without valuing hundreds/tens/ones, or swaps places.",
+      "status": "candidate",
+      "legacySource": null,
+      "template": "{{blank}} hundreds, {{blank}} tens and {{blank}} ones make {{blank}}."
+    },
+    {
+      "id": "AC9M2N02-V2-P-PN04",
+      "version": "20261015-ac9m2n02-research-v2",
+      "slot": "P-PN04",
+      "bank": "practice",
+      "focus": "PN",
+      "focusTitle": "Partition and rename numbers",
+      "concept": "expanded_parts",
+      "type": "fill-blank",
+      "question": "Split 472 into hundreds, tens and ones. Write the value of each part.",
+      "correct": [
+        400,
+        70,
+        2
+      ],
+      "explanation": "472 = 400 + 70 + 2.",
+      "hint": "Write each part’s value, not just the digit.",
+      "difficulty": 2,
+      "mastery": "Apply",
+      "evidence": [
+        "N02-B10",
+        "N02-B11"
+      ],
+      "visualSpec": {
+        "kind": "parts",
+        "values": [
+          "472",
+          "? + ? + ?"
+        ],
+        "label": "Parts of the same number"
+      },
+      "misconception": "Records digits rather than the value of each whole part.",
+      "status": "candidate",
+      "legacySource": "AC9M2N02-P-001",
+      "template": "472 = {{blank}} + {{blank}} + {{blank}}."
+    },
+    {
+      "id": "AC9M2N02-V2-P-PN05",
+      "version": "20261015-ac9m2n02-research-v2",
+      "slot": "P-PN05",
+      "bank": "practice",
+      "focus": "PN",
+      "focusTitle": "Partition and rename numbers",
+      "concept": "rearrange_parts",
+      "type": "number",
+      "question": "What number is 9 ones + 6 hundreds + 2 tens?",
+      "correct": 629,
+      "explanation": "Rearrange the whole parts: 600 + 20 + 9 = 629.",
+      "hint": "Move whole parts, keeping each unit name with its number.",
+      "difficulty": 2,
+      "mastery": "Apply",
+      "evidence": [
+        "N02-B05",
+        "N02-K01",
+        "N02-B09"
+      ],
+      "visualSpec": {
+        "kind": "parts",
+        "values": [
+          "9 ones",
+          "6 hundreds",
+          "2 tens"
+        ],
+        "label": "Parts of the same number"
+      },
+      "misconception": "Moves digits or drops unit labels instead of rearranging whole equal parts.",
+      "status": "candidate",
+      "legacySource": "AC9M2N02-P-009"
+    },
+    {
+      "id": "AC9M2N02-V2-P-PN06",
+      "version": "20261015-ac9m2n02-research-v2",
+      "slot": "P-PN06",
+      "bank": "practice",
+      "focus": "PN",
+      "focusTitle": "Partition and rename numbers",
+      "concept": "construct_model",
+      "type": "self-check",
+      "question": "Build or draw 364. Write an equal number sentence for your model.",
+      "correct": "For example, 3 hundreds, 6 tens and 4 ones; 300 + 60 + 4 = 364.",
+      "explanation": "Each part contributes its value to the total.",
+      "hint": "Label hundreds, tens and ones clearly.",
+      "difficulty": 2,
+      "mastery": "Apply",
+      "evidence": [
+        "N02-B16"
+      ],
+      "visualSpec": {
+        "kind": "chart",
+        "values": [
+          "?",
+          "?",
+          "?"
+        ],
+        "label": "Represent 364"
+      },
+      "misconception": "Copies a numeral without constructing a model of the requested value.",
+      "status": "candidate",
+      "legacySource": null,
+      "gradingMode": "adult-review",
+      "modelAnswer": "For example, 3 hundreds, 6 tens and 4 ones; 300 + 60 + 4 = 364.",
+      "acceptanceNote": "Require a model worth 364 and a matching equality. Accept all correctly valued standard or non-standard models; a copied numeral alone does not meet the task.",
+      "responseInstructions": "Write or say your answer. You may build with blocks or draw on paper. A grown-up checks your work after you finish.",
+      "completionLabel": "I have completed the task and shown or told a grown-up my answer."
+    },
+    {
+      "id": "AC9M2N02-V2-P-PN07",
+      "version": "20261015-ac9m2n02-research-v2",
+      "slot": "P-PN07",
+      "bank": "practice",
+      "focus": "PN",
+      "focusTitle": "Partition and rename numbers",
+      "concept": "multiple_equal_names",
+      "type": "self-check",
+      "question": "A class has 68 sticks. Write two different tens-and-ones names for all 68 sticks.",
+      "correct": "For example, 6 tens and 8 ones; 5 tens and 18 ones. Both make 68.",
+      "explanation": "Opening 1 ten gives 10 ones, so the total stays 68.",
+      "hint": "The two names must have different numbers of tens.",
+      "difficulty": 2,
+      "mastery": "Apply",
+      "evidence": [
+        "N02-B01",
+        "N02-B02",
+        "N02-B17"
+      ],
+      "visualSpec": {
+        "kind": "parts",
+        "values": [
+          "68 sticks",
+          "? tens + ? ones",
+          "? tens + ? ones"
+        ],
+        "label": "Parts of the same number"
+      },
+      "misconception": "Repeats the same grouping or changes the total during renaming.",
+      "status": "candidate",
+      "legacySource": null,
+      "gradingMode": "adult-review",
+      "modelAnswer": "For example, 6 tens and 8 ones; 5 tens and 18 ones. Both make 68.",
+      "acceptanceNote": "Accept any two distinct non-negative whole-number pairs (t,o) with 10t+o=68. Require unit labels. Reordering the same pair does not make a different grouping.",
+      "responseInstructions": "Write or say your answer. You may build with blocks or draw on paper. A grown-up checks your work after you finish.",
+      "completionLabel": "I have completed the task and shown or told a grown-up my answer."
+    },
+    {
+      "id": "AC9M2N02-V2-P-PN08",
+      "version": "20261015-ac9m2n02-research-v2",
+      "slot": "P-PN08",
+      "bank": "practice",
+      "focus": "PN",
+      "focusTitle": "Partition and rename numbers",
+      "concept": "match_equal_names",
+      "type": "single",
+      "question": "Which name has the same value as 2 hundreds, 3 tens and 8 ones?",
+      "correct": 1,
+      "explanation": "1 hundred + 13 tens + 8 ones is 100 + 130 + 8 = 238.",
+      "hint": "An extra ten must be worth 10, not 1.",
+      "difficulty": 2,
+      "mastery": "Apply",
+      "evidence": [
+        "N02-M03",
+        "N02-M04"
+      ],
+      "visualSpec": {
+        "kind": "parts",
+        "values": [
+          "2 hundreds",
+          "3 tens",
+          "8 ones"
+        ],
+        "label": "Parts of the same number"
+      },
+      "misconception": "Accepts a changed tens count without an equal compensating exchange.",
+      "status": "candidate",
+      "legacySource": "AC9M2N02-P-005",
+      "answers": [
+        "1 hundred, 3 tens and 18 ones",
+        "1 hundred, 13 tens and 8 ones",
+        "2 hundreds, 13 tens and 8 ones"
+      ]
+    },
+    {
+      "id": "AC9M2N02-V2-P-PN09",
+      "version": "20261015-ac9m2n02-research-v2",
+      "slot": "P-PN09",
+      "bank": "practice",
+      "focus": "PN",
+      "focusTitle": "Partition and rename numbers",
+      "concept": "nested_units",
+      "type": "fill-blank",
+      "question": "Rename 615 using only complete tens and leftover ones.",
+      "correct": [
+        61,
+        5
+      ],
+      "explanation": "6 hundreds contain 60 tens. Add the other ten: 61 tens and 5 ones make 615.",
+      "hint": "Include the tens inside the hundreds.",
+      "difficulty": 3,
+      "mastery": "Analyse",
+      "evidence": [
+        "N02-M01",
+        "N02-M02",
+        "N02-M06"
+      ],
+      "visualSpec": {
+        "kind": "parts",
+        "values": [
+          "615",
+          "? complete tens",
+          "? leftover ones"
+        ],
+        "label": "Parts of the same number"
+      },
+      "misconception": "Counts only separate tens and omits tens contained in hundreds.",
+      "status": "candidate",
+      "legacySource": "AC9M2N02-P-021",
+      "template": "615 = {{blank}} tens + {{blank}} ones."
+    },
+    {
+      "id": "AC9M2N02-V2-P-PN10",
+      "version": "20261015-ac9m2n02-research-v2",
+      "slot": "P-PN10",
+      "bank": "practice",
+      "focus": "PN",
+      "focusTitle": "Partition and rename numbers",
+      "concept": "justify_equal_names",
+      "type": "self-check",
+      "question": "Sam says 451 = 4 hundreds + 5 tens + 1 one. Show a different equal name and explain why it still makes 451.",
+      "correct": "For example, 3 hundreds + 15 tens + 1 one. 300 + 150 + 1 = 451.",
+      "explanation": "Opening one hundred adds 10 tens while keeping the amount the same.",
+      "hint": "Check the total of the new parts.",
+      "difficulty": 3,
+      "mastery": "Analyse",
+      "evidence": [
+        "N02-B17",
+        "N02-M03",
+        "N02-M04",
+        "N02-M05",
+        "N02-M06"
+      ],
+      "visualSpec": {
+        "kind": "parts",
+        "values": [
+          "451",
+          "4 hundreds + 5 tens + 1 one",
+          "A different equal name: ?"
+        ],
+        "label": "Parts of the same number"
+      },
+      "misconception": "Gives a different-looking name without checking equal value.",
+      "status": "candidate",
+      "legacySource": "AC9M2N02-P-013",
+      "gradingMode": "adult-review",
+      "modelAnswer": "For example, 3 hundreds + 15 tens + 1 one. 300 + 150 + 1 = 451.",
+      "acceptanceNote": "Accept any equal, differently grouped non-negative whole-number name for 451 with a valid conserving explanation. Swapping digits does not meet the task. Spoken, signed, scribed or modelled reasoning is valid.",
+      "responseInstructions": "Write or say your answer. You may build with blocks or draw on paper. A grown-up checks your work after you finish.",
+      "completionLabel": "I have completed the task and shown or told a grown-up my answer."
+    },
+    {
+      "id": "AC9M2N02-V2-P-EX01",
+      "version": "20261015-ac9m2n02-research-v2",
+      "slot": "P-EX01",
+      "bank": "practice",
+      "focus": "EX",
+      "focusTitle": "Make equal exchanges",
+      "concept": "one_ten_exchange",
+      "type": "fill-blank",
+      "question": "Complete both equal exchanges.",
+      "correct": [
+        1,
+        10
+      ],
+      "explanation": "10 ones and 1 ten have equal value. You can exchange in either direction.",
+      "hint": "The unit changes; the total must stay the same.",
+      "difficulty": 1,
+      "mastery": "Understand",
+      "evidence": [
+        "N02-B04",
+        "N02-I01",
+        "N02-W07"
+      ],
+      "visualSpec": {
+        "kind": "blocks",
+        "hundreds": 0,
+        "tens": 0,
+        "ones": 10,
+        "label": "10 single units"
+      },
+      "misconception": "Treats one ten as one one or loses loose ones during an exchange.",
+      "status": "candidate",
+      "legacySource": null,
+      "template": "10 ones = {{blank}} ten. 1 ten = {{blank}} ones."
+    },
+    {
+      "id": "AC9M2N02-V2-P-EX02",
+      "version": "20261015-ac9m2n02-research-v2",
+      "slot": "P-EX02",
+      "bank": "practice",
+      "focus": "EX",
+      "focusTitle": "Make equal exchanges",
+      "concept": "one_hundred_exchange",
+      "type": "fill-blank",
+      "question": "Complete both equal exchanges.",
+      "correct": [
+        1,
+        10
+      ],
+      "explanation": "10 tens make 100, so they equal 1 hundred. A hundred can be opened into 10 tens.",
+      "hint": "A ten is worth 10; a hundred is worth 100.",
+      "difficulty": 1,
+      "mastery": "Understand",
+      "evidence": [
+        "N02-I04",
+        "N02-I05",
+        "N02-N01"
+      ],
+      "visualSpec": {
+        "kind": "blocks",
+        "hundreds": 0,
+        "tens": 10,
+        "ones": 0,
+        "label": "10 ten rods"
+      },
+      "misconception": "Treats one hundred as one ten or omits existing hundreds/tens.",
+      "status": "candidate",
+      "legacySource": null,
+      "template": "10 tens = {{blank}} hundred. 1 hundred = {{blank}} tens."
+    },
+    {
+      "id": "AC9M2N02-V2-P-EX03",
+      "version": "20261015-ac9m2n02-research-v2",
+      "slot": "P-EX03",
+      "bank": "practice",
+      "focus": "EX",
+      "focusTitle": "Make equal exchanges",
+      "concept": "missing_ones",
+      "type": "number",
+      "question": "Open 1 ten in 76. Complete: 76 = 6 tens + ___ ones.",
+      "correct": 16,
+      "explanation": "7 tens become 6 tens and 10 ones. Join the 6 ones: 16 ones.",
+      "hint": "Keep the original loose ones after the exchange.",
+      "difficulty": 2,
+      "mastery": "Apply",
+      "evidence": [
+        "N02-I01",
+        "N02-I02",
+        "N02-I03"
+      ],
+      "visualSpec": {
+        "kind": "parts",
+        "values": [
+          "7 tens + 6 ones",
+          "6 tens + ? ones"
+        ],
+        "label": "Parts of the same number"
+      },
+      "misconception": "Forgets the loose ones already present when opening a ten.",
+      "status": "candidate",
+      "legacySource": null
+    },
+    {
+      "id": "AC9M2N02-V2-P-EX04",
+      "version": "20261015-ac9m2n02-research-v2",
+      "slot": "P-EX04",
+      "bank": "practice",
+      "focus": "EX",
+      "focusTitle": "Make equal exchanges",
+      "concept": "missing_tens",
+      "type": "number",
+      "question": "A model has 2 hundreds, 6 tens and 7 ones. Open 1 hundred into tens. How many tens will the new model have?",
+      "correct": 16,
+      "explanation": "Opening 1 hundred gives 10 tens. The 6 tens already there remain: 16 tens.",
+      "hint": "Add the new tens to the tens already there.",
+      "difficulty": 2,
+      "mastery": "Apply",
+      "evidence": [
+        "N02-I04",
+        "N02-I05"
+      ],
+      "visualSpec": {
+        "kind": "blocks",
+        "hundreds": 2,
+        "tens": 6,
+        "ones": 7,
+        "label": "Base-ten model"
+      },
+      "misconception": "Counts only the new tens and omits existing tens.",
+      "status": "candidate",
+      "legacySource": "AC9M2N02-P-015"
+    },
+    {
+      "id": "AC9M2N02-V2-P-EX05",
+      "version": "20261015-ac9m2n02-research-v2",
+      "slot": "P-EX05",
+      "bank": "practice",
+      "focus": "EX",
+      "focusTitle": "Make equal exchanges",
+      "concept": "nonstandard_to_standard",
+      "type": "fill-blank",
+      "question": "Regroup 2 hundreds, 14 tens and 3 ones into the usual hundreds, tens and ones.",
+      "correct": [
+        3,
+        4,
+        3
+      ],
+      "explanation": "14 tens are 1 hundred and 4 tens. With the 2 hundreds already there, the result is 3 hundreds, 4 tens and 3 ones.",
+      "hint": "Each usual place has fewer than 10 pieces.",
+      "difficulty": 2,
+      "mastery": "Apply",
+      "evidence": [
+        "N02-B05",
+        "N02-N01",
+        "N02-N02"
+      ],
+      "visualSpec": {
+        "kind": "chart",
+        "values": [
+          2,
+          14,
+          3
+        ],
+        "label": "Before regrouping"
+      },
+      "misconception": "Concatenates a count greater than9 as if it were a single place digit.",
+      "status": "candidate",
+      "legacySource": "AC9M2N02-P-011",
+      "template": "{{blank}} hundreds, {{blank}} tens, {{blank}} ones."
+    },
+    {
+      "id": "AC9M2N02-V2-P-EX06",
+      "version": "20261015-ac9m2n02-research-v2",
+      "slot": "P-EX06",
+      "bank": "practice",
+      "focus": "EX",
+      "focusTitle": "Make equal exchanges",
+      "concept": "missing_part",
+      "type": "number",
+      "question": "Complete the equal name: 586 = 4 hundreds + ___ tens + 6 ones.",
+      "correct": 18,
+      "explanation": "586 = 400 + 180 + 6, so the missing count is 18 tens.",
+      "hint": "Work with the value of the missing units.",
+      "difficulty": 2,
+      "mastery": "Apply",
+      "evidence": [
+        "N02-B06",
+        "N02-I03"
+      ],
+      "visualSpec": {
+        "kind": "parts",
+        "values": [
+          "586",
+          "4 hundreds + ? tens + 6 ones"
+        ],
+        "label": "Parts of the same number"
+      },
+      "misconception": "Confuses the value of missing tens with the number of tens.",
+      "status": "candidate",
+      "legacySource": "AC9M2N02-P-012"
+    },
+    {
+      "id": "AC9M2N02-V2-P-EX07",
+      "version": "20261015-ac9m2n02-research-v2",
+      "slot": "P-EX07",
+      "bank": "practice",
+      "focus": "EX",
+      "focusTitle": "Make equal exchanges",
+      "concept": "combined_exchanges",
+      "type": "fill-blank",
+      "question": "A model has 2 hundreds, 9 tens and 24 ones. Make every place have fewer than 10 pieces.",
+      "correct": [
+        3,
+        1,
+        4
+      ],
+      "explanation": "24 ones become 2 tens and 4 ones. Now 11 tens become 1 hundred and 1 ten. The result is 3 hundreds, 1 ten and 4 ones.",
+      "hint": "Regroup the ones, then check the tens again.",
+      "difficulty": 3,
+      "mastery": "Analyse",
+      "evidence": [
+        "N02-B07",
+        "N02-B08",
+        "N02-N03",
+        "N02-N04"
+      ],
+      "visualSpec": {
+        "kind": "chart",
+        "values": [
+          2,
+          9,
+          24
+        ],
+        "label": "Before regrouping"
+      },
+      "misconception": "Stops after exchanging ones without checking the resulting tens.",
+      "status": "candidate",
+      "legacySource": null,
+      "template": "{{blank}} hundreds, {{blank}} tens, {{blank}} ones."
+    },
+    {
+      "id": "AC9M2N02-V2-P-EX08",
+      "version": "20261015-ac9m2n02-research-v2",
+      "slot": "P-EX08",
+      "bank": "practice",
+      "focus": "EX",
+      "focusTitle": "Make equal exchanges",
+      "concept": "check_conservation",
+      "type": "single",
+      "question": "There are 684 counters. Which trade keeps the total at 684?",
+      "correct": 2,
+      "explanation": "Trading 1 hundred for 10 tens exchanges 100 for 100.",
+      "hint": "Check the value of what leaves and what replaces it.",
+      "difficulty": 3,
+      "mastery": "Analyse",
+      "evidence": [
+        "N02-I01",
+        "N02-N01",
+        "N02-W07"
+      ],
+      "visualSpec": {
+        "kind": "blocks",
+        "hundreds": 6,
+        "tens": 8,
+        "ones": 4,
+        "label": "Starting collection"
+      },
+      "misconception": "Trades pieces one for one despite unequal unit values.",
+      "status": "candidate",
+      "legacySource": "AC9M2N02-P-019",
+      "answers": [
+        "Trade 1 ten for 1 one",
+        "Trade 1 hundred for 10 ones",
+        "Trade 1 hundred for 10 tens"
+      ]
+    },
+    {
+      "id": "AC9M2N02-V2-P-EX09",
+      "version": "20261015-ac9m2n02-research-v2",
+      "slot": "P-EX09",
+      "bank": "practice",
+      "focus": "EX",
+      "focusTitle": "Make equal exchanges",
+      "concept": "diagnose_unequal_exchange",
+      "type": "self-check",
+      "question": "Ella has 57 sticks. She renames them as 4 tens and 8 ones. Is her new name equal to 57? Explain, then fix it.",
+      "correct": "No. 4 tens and 8 ones make 48. With 4 tens, she needs 17 ones to keep 57.",
+      "explanation": "57 = 5 tens and 7 ones = 4 tens and 17 ones.",
+      "hint": "Check both totals before deciding whether a trade is equal.",
+      "difficulty": 3,
+      "mastery": "Analyse",
+      "evidence": [
+        "N02-W10",
+        "N02-I01",
+        "N02-N03"
+      ],
+      "visualSpec": {
+        "kind": "parts",
+        "values": [
+          "57 sticks",
+          "Ella: 4 tens + 8 ones"
+        ],
+        "label": "Check the two amounts"
+      },
+      "misconception": "Judges an exchange by appearance instead of comparing values.",
+      "status": "candidate",
+      "legacySource": null,
+      "gradingMode": "adult-review",
+      "modelAnswer": "No. 4 tens and 8 ones make 48. With 4 tens, she needs 17 ones to keep 57.",
+      "acceptanceNote": "Require recognition that 48 is not 57 and an equal correction, such as 4T17O or 5T7O. Accept any valid correction with total 57 and a value-based explanation. Do not award for only saying no.",
+      "responseInstructions": "Write or say your answer. You may build with blocks or draw on paper. A grown-up checks your work after you finish.",
+      "completionLabel": "I have completed the task and shown or told a grown-up my answer."
+    },
+    {
+      "id": "AC9M2N02-V2-P-EX10",
+      "version": "20261015-ac9m2n02-research-v2",
+      "slot": "P-EX10",
+      "bank": "practice",
+      "focus": "EX",
+      "focusTitle": "Make equal exchanges",
+      "concept": "context_exchange",
+      "type": "self-check",
+      "question": "A class packs 246 pencils. A box holds 100 and a bundle holds 10. There is 1 box, 14 bundles and 6 loose pencils. Make a new packing with fewer than 10 bundles. Explain your exchange.",
+      "correct": "Exchange 10 bundles for 1 box. The new packing is 2 boxes, 4 bundles and 6 loose pencils, still 246.",
+      "explanation": "10 bundles of 10 equal one box of 100.",
+      "hint": "Keep all the pencils while changing the packing.",
+      "difficulty": 3,
+      "mastery": "Analyse",
+      "evidence": [
+        "N02-W10",
+        "N02-M03",
+        "N02-N04"
+      ],
+      "visualSpec": {
+        "kind": "chart",
+        "values": [
+          1,
+          14,
+          6
+        ],
+        "label": "Boxes of 100 / bundles of 10 / loose pencils"
+      },
+      "misconception": "Changes the total when replacing ten bundles with a box.",
+      "status": "candidate",
+      "legacySource": null,
+      "gradingMode": "adult-review",
+      "modelAnswer": "Exchange 10 bundles for 1 box. The new packing is 2 boxes, 4 bundles and 6 loose pencils, still 246.",
+      "acceptanceNote": "Require a valid packing worth 246 with fewer than 10 bundles, including explanation of an equal exchange. 2 boxes/4 bundles/6 loose is the usual result. Accept other valid equal packings meeting the stated condition.",
+      "responseInstructions": "Write or say your answer. You may build with blocks or draw on paper. A grown-up checks your work after you finish.",
+      "completionLabel": "I have completed the task and shown or told a grown-up my answer."
+    },
+    {
+      "id": "AC9M2N02-V2-P-ZR01",
+      "version": "20261015-ac9m2n02-research-v2",
+      "slot": "P-ZR01",
+      "bank": "practice",
+      "focus": "ZR",
+      "focusTitle": "Explain zero’s role",
+      "concept": "internal_zero",
+      "type": "fill-blank",
+      "question": "Read the model into its usual hundreds, tens and ones. Write its number.",
+      "correct": [
+        4,
+        0,
+        6,
+        406
+      ],
+      "explanation": "4 hundreds, no separate tens and 6 ones are written 406.",
+      "hint": "Keep the empty tens place when writing the numeral.",
+      "difficulty": 1,
+      "mastery": "Understand",
+      "evidence": [
+        "N02-B14",
+        "N02-C01"
+      ],
+      "visualSpec": {
+        "kind": "blocks",
+        "hundreds": 4,
+        "tens": 0,
+        "ones": 6,
+        "label": "Base-ten model"
+      },
+      "misconception": "Deletes an empty tens place, changing hundreds into tens.",
+      "status": "candidate",
+      "legacySource": "AC9M2N02-P-008",
+      "template": "{{blank}} hundreds, {{blank}} tens, {{blank}} ones: {{blank}}."
+    },
+    {
+      "id": "AC9M2N02-V2-P-ZR02",
+      "version": "20261015-ac9m2n02-research-v2",
+      "slot": "P-ZR02",
+      "bank": "practice",
+      "focus": "ZR",
+      "focusTitle": "Explain zero’s role",
+      "concept": "trailing_zero",
+      "type": "fill-blank",
+      "question": "Read the model. Complete its usual place-value name.",
+      "correct": [
+        3,
+        2,
+        0
+      ],
+      "explanation": "The model has 3 hundreds and 2 tens, with no loose ones: 320.",
+      "hint": "An empty ones place is recorded as zero.",
+      "difficulty": 1,
+      "mastery": "Understand",
+      "evidence": [
+        "N02-M08",
+        "N02-K03"
+      ],
+      "visualSpec": {
+        "kind": "blocks",
+        "hundreds": 3,
+        "tens": 2,
+        "ones": 0,
+        "label": "Base-ten model"
+      },
+      "misconception": "Leaves out the empty ones place or reverses tens and ones.",
+      "status": "candidate",
+      "legacySource": "AC9M2N02-P-014",
+      "template": "320 = {{blank}} hundreds + {{blank}} tens + {{blank}} ones."
+    },
+    {
+      "id": "AC9M2N02-V2-P-ZR03",
+      "version": "20261015-ac9m2n02-research-v2",
+      "slot": "P-ZR03",
+      "bank": "practice",
+      "focus": "ZR",
+      "focusTitle": "Explain zero’s role",
+      "concept": "double_zero",
+      "type": "self-check",
+      "question": "Build or draw 700. Label its hundreds, tens and ones in the usual grouping.",
+      "correct": "7 hundreds, 0 separate tens and 0 loose ones.",
+      "explanation": "700 has 7 in the hundreds place and zero in both other places.",
+      "hint": "Record empty places even when no pieces are drawn there.",
+      "difficulty": 1,
+      "mastery": "Understand",
+      "evidence": [
+        "N02-C02",
+        "N02-M07"
+      ],
+      "visualSpec": {
+        "kind": "chart",
+        "values": [
+          "?",
+          "?",
+          "?"
+        ],
+        "label": "Build 700"
+      },
+      "misconception": "Does not record both empty places in an exact hundred.",
+      "status": "candidate",
+      "legacySource": null,
+      "gradingMode": "adult-review",
+      "modelAnswer": "7 hundreds, 0 separate tens and 0 loose ones.",
+      "acceptanceNote": "Require a model worth 700 and usual labels 7H0T0O. An alternate model is valid evidence of 700, but the requested usual grouping and empty-place labels must also be supplied.",
+      "responseInstructions": "Write or say your answer. You may build with blocks or draw on paper. A grown-up checks your work after you finish.",
+      "completionLabel": "I have completed the task and shown or told a grown-up my answer."
+    },
+    {
+      "id": "AC9M2N02-V2-P-ZR04",
+      "version": "20261015-ac9m2n02-research-v2",
+      "slot": "P-ZR04",
+      "bank": "practice",
+      "focus": "ZR",
+      "focusTitle": "Explain zero’s role",
+      "concept": "zero_addend",
+      "type": "number",
+      "question": "Complete the parts: 6 ones + ___ tens + 4 hundreds = 406.",
+      "correct": 0,
+      "explanation": "400 and 6 already make 406, so there are 0 separate tens in this name.",
+      "hint": "Keep the whole parts and their unit labels together.",
+      "difficulty": 2,
+      "mastery": "Apply",
+      "evidence": [
+        "N02-K01",
+        "N02-K02",
+        "N02-B12"
+      ],
+      "visualSpec": {
+        "kind": "parts",
+        "values": [
+          "6 ones",
+          "? tens",
+          "4 hundreds"
+        ],
+        "label": "Parts of the same number"
+      },
+      "misconception": "Adds a nonzero part although the other parts already make the stated total.",
+      "status": "candidate",
+      "legacySource": null
+    },
+    {
+      "id": "AC9M2N02-V2-P-ZR05",
+      "version": "20261015-ac9m2n02-research-v2",
+      "slot": "P-ZR05",
+      "bank": "practice",
+      "focus": "ZR",
+      "focusTitle": "Explain zero’s role",
+      "concept": "zero_addend",
+      "type": "number",
+      "question": "Complete the usual name: 530 = 5 hundreds + 3 tens + ___ ones.",
+      "correct": 0,
+      "explanation": "500 + 30 + 0 = 530.",
+      "hint": "The last digit records the loose ones.",
+      "difficulty": 2,
+      "mastery": "Apply",
+      "evidence": [
+        "N02-K03"
+      ],
+      "visualSpec": {
+        "kind": "parts",
+        "values": [
+          "530",
+          "5 hundreds + 3 tens + ? ones"
+        ],
+        "label": "Parts of the same number"
+      },
+      "misconception": "Adds a nonzero part although the other parts already make the stated total.",
+      "status": "candidate",
+      "legacySource": null
+    },
+    {
+      "id": "AC9M2N02-V2-P-ZR06",
+      "version": "20261015-ac9m2n02-research-v2",
+      "slot": "P-ZR06",
+      "bank": "practice",
+      "focus": "ZR",
+      "focusTitle": "Explain zero’s role",
+      "concept": "explain_placeholder",
+      "type": "self-check",
+      "question": "A model has 5 hundreds and 2 ones. Jo writes 52. Explain the mistake and write the correct numeral.",
+      "correct": "Jo left out the empty tens place. 5 hundreds and 2 ones is 502. 52 means 5 tens and 2 ones.",
+      "explanation": "The zero keeps the 5 in the hundreds place.",
+      "hint": "Compare what the 5 is worth in each numeral.",
+      "difficulty": 3,
+      "mastery": "Analyse",
+      "evidence": [
+        "N02-W12",
+        "N02-B14",
+        "N02-C01"
+      ],
+      "visualSpec": {
+        "kind": "blocks",
+        "hundreds": 5,
+        "tens": 0,
+        "ones": 2,
+        "label": "Base-ten model"
+      },
+      "misconception": "Says add a zero without explaining the represented place values.",
+      "status": "candidate",
+      "legacySource": "AC9M2N02-P-024",
+      "gradingMode": "adult-review",
+      "modelAnswer": "Jo left out the empty tens place. 5 hundreds and 2 ones is 502. 52 means 5 tens and 2 ones.",
+      "acceptanceNote": "Require 502 and an explanation of the empty tens place or the change from 500 to 50 when zero is deleted. Accept spoken/modelled evidence; saying only add zero is insufficient.",
+      "responseInstructions": "Write or say your answer. You may build with blocks or draw on paper. A grown-up checks your work after you finish.",
+      "completionLabel": "I have completed the task and shown or told a grown-up my answer."
+    },
+    {
+      "id": "AC9M2N02-V2-P-ZR07",
+      "version": "20261015-ac9m2n02-research-v2",
+      "slot": "P-ZR07",
+      "bank": "practice",
+      "focus": "ZR",
+      "focusTitle": "Explain zero’s role",
+      "concept": "zero_nested_units",
+      "type": "fill-blank",
+      "question": "Rename 704 using complete tens and leftover ones.",
+      "correct": [
+        70,
+        4
+      ],
+      "explanation": "7 hundreds contain 70 complete tens. There are 4 leftover ones.",
+      "hint": "A zero tens digit does not mean there are no complete tens inside the hundreds.",
+      "difficulty": 2,
+      "mastery": "Apply",
+      "evidence": [
+        "N02-R02",
+        "N02-R06",
+        "N02-M07"
+      ],
+      "visualSpec": {
+        "kind": "parts",
+        "values": [
+          "704",
+          "? complete tens",
+          "? leftover ones"
+        ],
+        "label": "Parts of the same number"
+      },
+      "misconception": "Confuses a zero tens digit with no complete tens inside hundreds.",
+      "status": "candidate",
+      "legacySource": null,
+      "template": "704 = {{blank}} tens + {{blank}} ones."
+    },
+    {
+      "id": "AC9M2N02-V2-P-ZR08",
+      "version": "20261015-ac9m2n02-research-v2",
+      "slot": "P-ZR08",
+      "bank": "practice",
+      "focus": "ZR",
+      "focusTitle": "Explain zero’s role",
+      "concept": "regroup_to_zero",
+      "type": "number",
+      "question": "A collection has 3 hundreds, 10 tens and 9 ones. What is its usual numeral?",
+      "correct": 409,
+      "explanation": "10 tens become 1 hundred. 3 hundreds and 1 hundred give 4 hundreds, with no separate tens and 9 ones: 409.",
+      "hint": "Complete the exchange before writing the numeral.",
+      "difficulty": 2,
+      "mastery": "Apply",
+      "evidence": [
+        "N02-R01",
+        "N02-R03",
+        "N02-R04"
+      ],
+      "visualSpec": {
+        "kind": "chart",
+        "values": [
+          3,
+          10,
+          9
+        ],
+        "label": "Before regrouping"
+      },
+      "misconception": "Writes a10+ tens count as extra digits instead of exchanging it.",
+      "status": "candidate",
+      "legacySource": null
+    },
+    {
+      "id": "AC9M2N02-V2-P-ZR09",
+      "version": "20261015-ac9m2n02-research-v2",
+      "slot": "P-ZR09",
+      "bank": "practice",
+      "focus": "ZR",
+      "focusTitle": "Explain zero’s role",
+      "concept": "digit_vs_nested_units",
+      "type": "single",
+      "question": "Which sentence correctly names the tens in 400?",
+      "correct": 0,
+      "explanation": "400 = 40 tens. In the usual grouping of 4 hundreds, 0 tens and 0 ones, there are no separate ten rods.",
+      "hint": "Distinguish the tens digit from all the complete tens inside the amount.",
+      "difficulty": 3,
+      "mastery": "Analyse",
+      "evidence": [
+        "N02-R05",
+        "N02-M07",
+        "N02-M08"
+      ],
+      "visualSpec": {
+        "kind": "chart",
+        "values": [
+          4,
+          0,
+          0
+        ],
+        "label": "Usual grouping of 400"
+      },
+      "misconception": "Treats the tens digit as the count of all complete tens.",
+      "status": "candidate",
+      "legacySource": null,
+      "answers": [
+        "The tens digit is 0, and 400 contains 40 complete tens.",
+        "The tens digit is 0, so 400 contains no complete tens.",
+        "400 has 4 complete tens because its first digit is 4."
+      ]
+    },
+    {
+      "id": "AC9M2N02-V2-P-ZR10",
+      "version": "20261015-ac9m2n02-research-v2",
+      "slot": "P-ZR10",
+      "bank": "practice",
+      "focus": "ZR",
+      "focusTitle": "Explain zero’s role",
+      "concept": "justify_zero_name",
+      "type": "self-check",
+      "question": "There are 600 paper squares. Write a different equal name that uses tens. Explain both zeros in 600.",
+      "correct": "For example, 60 tens; or 5 hundreds and 10 tens. In the usual grouping, 600 has 0 separate tens and 0 loose ones.",
+      "explanation": "The zeros describe empty places in the usual numeral. Equal non-standard names can use tens.",
+      "hint": "Check that your new parts still make 600.",
+      "difficulty": 3,
+      "mastery": "Analyse",
+      "evidence": [
+        "N02-R05",
+        "N02-R06",
+        "N02-C02"
+      ],
+      "visualSpec": {
+        "kind": "parts",
+        "values": [
+          "600 paper squares",
+          "A name using tens: ?"
+        ],
+        "label": "Parts of the same number"
+      },
+      "misconception": "Assumes a valid nonstandard name must contain the same zero places.",
+      "status": "candidate",
+      "legacySource": null,
+      "gradingMode": "adult-review",
+      "modelAnswer": "For example, 60 tens; or 5 hundreds and 10 tens. In the usual grouping, 600 has 0 separate tens and 0 loose ones.",
+      "acceptanceNote": "Require an equal name with at least 1 ten and a correct explanation of zero tens/ones in usual notation. Accept any valid non-negative whole-number name totalling 600, such as 60T0O or 5H10T0O. Do not require the tens count to be a single digit.",
+      "responseInstructions": "Write or say your answer. You may build with blocks or draw on paper. A grown-up checks your work after you finish.",
+      "completionLabel": "I have completed the task and shown or told a grown-up my answer."
+    },
+    {
+      "id": "AC9M2N02-V2-T01",
+      "version": "20261015-ac9m2n02-research-v2",
+      "slot": "T01",
+      "bank": "test",
+      "focus": "PN",
+      "focusTitle": "Partition and rename numbers",
+      "concept": "read_model",
+      "type": "fill-blank",
+      "question": "Read this new model. Write its usual parts and its number.",
+      "correct": [
+        4,
+        6,
+        3,
+        463
+      ],
+      "explanation": "400 + 60 + 3 = 463.",
+      "hint": "Read each place in order.",
+      "difficulty": 1,
+      "mastery": "Understand",
+      "evidence": [
+        "N02-B13",
+        "N02-B15"
+      ],
+      "visualSpec": {
+        "kind": "blocks",
+        "hundreds": 4,
+        "tens": 6,
+        "ones": 3,
+        "label": "Base-ten model"
+      },
+      "misconception": "Counts pieces without valuing hundreds/tens/ones, or swaps places.",
+      "status": "candidate",
+      "legacySource": null,
+      "template": "{{blank}} hundreds, {{blank}} tens, {{blank}} ones: {{blank}}."
+    },
+    {
+      "id": "AC9M2N02-V2-T02",
+      "version": "20261015-ac9m2n02-research-v2",
+      "slot": "T02",
+      "bank": "test",
+      "focus": "PN",
+      "focusTitle": "Partition and rename numbers",
+      "concept": "expanded_parts",
+      "type": "fill-blank",
+      "question": "Split 825 into the value of its hundreds, tens and ones.",
+      "correct": [
+        800,
+        20,
+        5
+      ],
+      "explanation": "825 = 800 + 20 + 5.",
+      "hint": "Each part must keep its place value.",
+      "difficulty": 2,
+      "mastery": "Apply",
+      "evidence": [
+        "N02-B10",
+        "N02-B11"
+      ],
+      "visualSpec": {
+        "kind": "parts",
+        "values": [
+          "825",
+          "? + ? + ?"
+        ],
+        "label": "Parts of the same number"
+      },
+      "misconception": "Records digits rather than the value of each whole part.",
+      "status": "candidate",
+      "legacySource": null,
+      "template": "825 = {{blank}} + {{blank}} + {{blank}}."
+    },
+    {
+      "id": "AC9M2N02-V2-T03",
+      "version": "20261015-ac9m2n02-research-v2",
+      "slot": "T03",
+      "bank": "test",
+      "focus": "PN",
+      "focusTitle": "Partition and rename numbers",
+      "concept": "rearrange_parts",
+      "type": "number",
+      "question": "What number is 4 ones + 3 tens + 7 hundreds?",
+      "correct": 734,
+      "explanation": "4 + 30 + 700 = 734. Reordering the parts keeps the total unchanged.",
+      "hint": "Keep each number with its unit name.",
+      "difficulty": 2,
+      "mastery": "Apply",
+      "evidence": [
+        "N02-B05",
+        "N02-K01",
+        "N02-B09"
+      ],
+      "visualSpec": {
+        "kind": "parts",
+        "values": [
+          "4 ones",
+          "3 tens",
+          "7 hundreds"
+        ],
+        "label": "Parts of the same number"
+      },
+      "misconception": "Moves digits or drops unit labels instead of rearranging whole equal parts.",
+      "status": "candidate",
+      "legacySource": null
+    },
+    {
+      "id": "AC9M2N02-V2-T04",
+      "version": "20261015-ac9m2n02-research-v2",
+      "slot": "T04",
+      "bank": "test",
+      "focus": "PN",
+      "focusTitle": "Partition and rename numbers",
+      "concept": "multiple_equal_names",
+      "type": "self-check",
+      "question": "Name 92 in two different ways using tens and ones.",
+      "correct": "For example, 9 tens and 2 ones; 8 tens and 12 ones.",
+      "explanation": "Both names have value 92.",
+      "hint": "Change the grouping while keeping the total.",
+      "difficulty": 2,
+      "mastery": "Apply",
+      "evidence": [
+        "N02-B01",
+        "N02-B02",
+        "N02-B17"
+      ],
+      "visualSpec": {
+        "kind": "parts",
+        "values": [
+          "92",
+          "? tens + ? ones",
+          "? tens + ? ones"
+        ],
+        "label": "Parts of the same number"
+      },
+      "misconception": "Repeats the same grouping or changes the total during renaming.",
+      "status": "candidate",
+      "legacySource": null,
+      "gradingMode": "adult-review",
+      "modelAnswer": "For example, 9 tens and 2 ones; 8 tens and 12 ones.",
+      "acceptanceNote": "Require two different non-negative whole-number pairs totalling 92, with unit labels. Reordered identical parts count only once.",
+      "responseInstructions": "Write or say your answer. You may build with blocks or draw on paper. A grown-up checks your work after you finish.",
+      "completionLabel": "I have completed the task and shown or told a grown-up my answer."
+    },
+    {
+      "id": "AC9M2N02-V2-T05",
+      "version": "20261015-ac9m2n02-research-v2",
+      "slot": "T05",
+      "bank": "test",
+      "focus": "PN",
+      "focusTitle": "Partition and rename numbers",
+      "concept": "check_equal_names",
+      "type": "self-check",
+      "question": "Noah says 6 hundreds and 12 ones is the same as 5 hundreds and 12 tens. Is he correct? Explain using both totals.",
+      "correct": "No. 6 hundreds and 12 ones is 612. 5 hundreds and 12 tens is 620. The totals are different.",
+      "explanation": "6 hundreds and 12 ones make 612. 5 hundreds and 12 tens make 620. The totals are different.",
+      "hint": "Unit names change the value of 12.",
+      "difficulty": 3,
+      "mastery": "Analyse",
+      "evidence": [
+        "N02-M03",
+        "N02-M04",
+        "N02-M05",
+        "N02-M06"
+      ],
+      "visualSpec": {
+        "kind": "parts",
+        "values": [
+          "6 hundreds + 12 ones",
+          "5 hundreds + 12 tens"
+        ],
+        "label": "Compare the two names"
+      },
+      "misconception": "Ignores unit names when comparing the same written count.",
+      "status": "candidate",
+      "legacySource": "AC9M2N02-T-013",
+      "gradingMode": "adult-review",
+      "modelAnswer": "No. 6 hundreds and 12 ones is 612. 5 hundreds and 12 tens is 620. The totals are different.",
+      "acceptanceNote": "Require no, both totals 612 and 620, and recognition that the names are unequal. Accept valid modelled or spoken evidence; no alone is insufficient.",
+      "responseInstructions": "Write or say your answer. You may build with blocks or draw on paper. A grown-up checks your work after you finish.",
+      "completionLabel": "I have completed the task and shown or told a grown-up my answer."
+    },
+    {
+      "id": "AC9M2N02-V2-T06",
+      "version": "20261015-ac9m2n02-research-v2",
+      "slot": "T06",
+      "bank": "test",
+      "focus": "EX",
+      "focusTitle": "Make equal exchanges",
+      "concept": "one_ten_exchange",
+      "type": "self-check",
+      "question": "Luca has 3 tens and 17 ones. Exchange 10 ones for 1 ten. Name the new grouping and explain why the amount stays the same.",
+      "correct": "4 tens and 7 ones. 10 ones and 1 ten both have value 10, so both groupings make 47.",
+      "explanation": "30 + 17 = 40 + 7 = 47.",
+      "hint": "Exchange equal values and keep the leftover ones.",
+      "difficulty": 2,
+      "mastery": "Apply",
+      "evidence": [
+        "N02-B04",
+        "N02-W07"
+      ],
+      "visualSpec": {
+        "kind": "blocks",
+        "hundreds": 0,
+        "tens": 3,
+        "ones": 17,
+        "label": "Base-ten model"
+      },
+      "misconception": "Treats one ten as one one or loses loose ones during an exchange.",
+      "status": "candidate",
+      "legacySource": null,
+      "gradingMode": "adult-review",
+      "modelAnswer": "4 tens and 7 ones. 10 ones and 1 ten both have value 10, so both groupings make 47.",
+      "acceptanceNote": "Require 4T7O and valid explanation/evidence that 10 ones equal 1 ten, so the amount is conserved. Computing 47 is optional. Accept oral, scribed or constructed responses.",
+      "responseInstructions": "Write or say your answer. You may build with blocks or draw on paper. A grown-up checks your work after you finish.",
+      "completionLabel": "I have completed the task and shown or told a grown-up my answer."
+    },
+    {
+      "id": "AC9M2N02-V2-T07",
+      "version": "20261015-ac9m2n02-research-v2",
+      "slot": "T07",
+      "bank": "test",
+      "focus": "EX",
+      "focusTitle": "Make equal exchanges",
+      "concept": "one_hundred_exchange",
+      "type": "fill-blank",
+      "question": "Regroup 4 hundreds, 19 tens and 2 ones into the usual grouping.",
+      "correct": [
+        5,
+        9,
+        2
+      ],
+      "explanation": "19 tens become 1 hundred and 9 tens; the total is 592.",
+      "hint": "Add the new hundred to the hundreds already there.",
+      "difficulty": 2,
+      "mastery": "Apply",
+      "evidence": [
+        "N02-N01",
+        "N02-N02"
+      ],
+      "visualSpec": {
+        "kind": "chart",
+        "values": [
+          4,
+          19,
+          2
+        ],
+        "label": "Before regrouping"
+      },
+      "misconception": "Treats one hundred as one ten or omits existing hundreds/tens.",
+      "status": "candidate",
+      "legacySource": "AC9M2N02-T-007",
+      "template": "{{blank}} hundreds, {{blank}} tens, {{blank}} ones."
+    },
+    {
+      "id": "AC9M2N02-V2-T08",
+      "version": "20261015-ac9m2n02-research-v2",
+      "slot": "T08",
+      "bank": "test",
+      "focus": "EX",
+      "focusTitle": "Make equal exchanges",
+      "concept": "missing_part",
+      "type": "number",
+      "question": "Complete the equal name: 842 = 7 hundreds + ___ tens + 2 ones.",
+      "correct": 14,
+      "explanation": "842 = 700 + 140 + 2, so the missing count is 14 tens.",
+      "hint": "The missing number counts tens.",
+      "difficulty": 2,
+      "mastery": "Apply",
+      "evidence": [
+        "N02-I01",
+        "N02-I02",
+        "N02-I03",
+        "N02-I04",
+        "N02-I05",
+        "N02-B06"
+      ],
+      "visualSpec": {
+        "kind": "parts",
+        "values": [
+          "842",
+          "7 hundreds + ? tens + 2 ones"
+        ],
+        "label": "Parts of the same number"
+      },
+      "misconception": "Confuses the value of missing tens with the number of tens.",
+      "status": "candidate",
+      "legacySource": "AC9M2N02-T-011"
+    },
+    {
+      "id": "AC9M2N02-V2-T09",
+      "version": "20261015-ac9m2n02-research-v2",
+      "slot": "T09",
+      "bank": "test",
+      "focus": "EX",
+      "focusTitle": "Make equal exchanges",
+      "concept": "combined_exchanges",
+      "type": "fill-blank",
+      "question": "Regroup 2 hundreds, 7 tens and 34 ones into the usual grouping.",
+      "correct": [
+        3,
+        0,
+        4
+      ],
+      "explanation": "34 ones become 3 tens and 4 ones. Now 10 tens become 1 hundred. The result is 3 hundreds, 0 tens and 4 ones.",
+      "hint": "After trading ones, check whether the tens can be traded.",
+      "difficulty": 3,
+      "mastery": "Analyse",
+      "evidence": [
+        "N02-B07",
+        "N02-B08",
+        "N02-N03",
+        "N02-N04"
+      ],
+      "visualSpec": {
+        "kind": "chart",
+        "values": [
+          2,
+          7,
+          34
+        ],
+        "label": "Before regrouping"
+      },
+      "misconception": "Stops after exchanging ones without checking the resulting tens.",
+      "status": "candidate",
+      "legacySource": "AC9M2N02-T-015",
+      "template": "{{blank}} hundreds, {{blank}} tens, {{blank}} ones."
+    },
+    {
+      "id": "AC9M2N02-V2-T10",
+      "version": "20261015-ac9m2n02-research-v2",
+      "slot": "T10",
+      "bank": "test",
+      "focus": "EX",
+      "focusTitle": "Make equal exchanges",
+      "concept": "diagnose_unequal_exchange",
+      "type": "self-check",
+      "question": "Tia has 3 tens and 15 ones. She trades 1 ten for 1 one and says she now has 2 tens and 16 ones. Is the trade equal? Repair it and explain why your new name keeps the same amount.",
+      "correct": "No. The first grouping is 45; 2 tens and 16 ones is 36. Trading 1 ten gives 10 ones, so an equal result is 2 tens and 25 ones.",
+      "explanation": "30 + 15 = 45 and 20 + 25 = 45.",
+      "hint": "Compare the value given away with the value received.",
+      "difficulty": 3,
+      "mastery": "Analyse",
+      "evidence": [
+        "N02-W10",
+        "N02-I01",
+        "N02-N03"
+      ],
+      "visualSpec": {
+        "kind": "parts",
+        "values": [
+          "3 tens + 15 ones",
+          "Tia: 2 tens + 16 ones"
+        ],
+        "label": "Check the two amounts"
+      },
+      "misconception": "Judges an exchange by appearance instead of comparing values.",
+      "status": "candidate",
+      "legacySource": null,
+      "gradingMode": "adult-review",
+      "modelAnswer": "No. The first grouping is 45; 2 tens and 16 ones is 36. Trading 1 ten gives 10 ones, so an equal result is 2 tens and 25 ones.",
+      "acceptanceNote": "Require an unequal-trade judgement supported by values or model and a valid equal repair to 45. Accept 2T25O, 3T15O or 4T5O with a conserving explanation. Do not require one unique grouping.",
+      "responseInstructions": "Write or say your answer. You may build with blocks or draw on paper. A grown-up checks your work after you finish.",
+      "completionLabel": "I have completed the task and shown or told a grown-up my answer."
+    },
+    {
+      "id": "AC9M2N02-V2-T11",
+      "version": "20261015-ac9m2n02-research-v2",
+      "slot": "T11",
+      "bank": "test",
+      "focus": "ZR",
+      "focusTitle": "Explain zero’s role",
+      "concept": "internal_zero",
+      "type": "number",
+      "question": "Write the numeral for this model.",
+      "correct": 803,
+      "explanation": "8 hundreds, no separate tens and 3 ones make 803.",
+      "hint": "Keep the empty tens place.",
+      "difficulty": 1,
+      "mastery": "Understand",
+      "evidence": [
+        "N02-B14",
+        "N02-C01"
+      ],
+      "visualSpec": {
+        "kind": "blocks",
+        "hundreds": 8,
+        "tens": 0,
+        "ones": 3,
+        "label": "Base-ten model"
+      },
+      "misconception": "Deletes an empty tens place, changing hundreds into tens.",
+      "status": "candidate",
+      "legacySource": "AC9M2N02-T-006"
+    },
+    {
+      "id": "AC9M2N02-V2-T12",
+      "version": "20261015-ac9m2n02-research-v2",
+      "slot": "T12",
+      "bank": "test",
+      "focus": "ZR",
+      "focusTitle": "Explain zero’s role",
+      "concept": "trailing_zero",
+      "type": "self-check",
+      "question": "Build or draw 640 in its usual grouping. Label the empty place.",
+      "correct": "6 hundreds, 4 tens and 0 ones. The ones place is empty.",
+      "explanation": "640 = 600 + 40 + 0.",
+      "hint": "Use zero to record the empty place.",
+      "difficulty": 2,
+      "mastery": "Apply",
+      "evidence": [
+        "N02-M07",
+        "N02-M08",
+        "N02-C02"
+      ],
+      "visualSpec": {
+        "kind": "chart",
+        "values": [
+          "?",
+          "?",
+          "?"
+        ],
+        "label": "Build 640"
+      },
+      "misconception": "Leaves out the empty ones place or reverses tens and ones.",
+      "status": "candidate",
+      "legacySource": null,
+      "gradingMode": "adult-review",
+      "modelAnswer": "6 hundreds, 4 tens and 0 ones. The ones place is empty.",
+      "acceptanceNote": "Require a model of 640 and usual labels 6H4T0O with the empty ones place identified. Alternative equal constructions must also connect to the requested usual grouping.",
+      "responseInstructions": "Write or say your answer. You may build with blocks or draw on paper. A grown-up checks your work after you finish.",
+      "completionLabel": "I have completed the task and shown or told a grown-up my answer."
+    },
+    {
+      "id": "AC9M2N02-V2-T13",
+      "version": "20261015-ac9m2n02-research-v2",
+      "slot": "T13",
+      "bank": "test",
+      "focus": "ZR",
+      "focusTitle": "Explain zero’s role",
+      "concept": "regroup_to_zero",
+      "type": "number",
+      "question": "A collection has 2 hundreds, 20 tens and 7 ones. Write its usual numeral.",
+      "correct": 407,
+      "explanation": "20 tens make 2 hundreds. Altogether there are 4 hundreds, no separate tens and 7 ones: 407.",
+      "hint": "Trade all complete groups of 10 tens.",
+      "difficulty": 2,
+      "mastery": "Apply",
+      "evidence": [
+        "N02-R01",
+        "N02-R02",
+        "N02-R03",
+        "N02-R04"
+      ],
+      "visualSpec": {
+        "kind": "chart",
+        "values": [
+          2,
+          20,
+          7
+        ],
+        "label": "Before regrouping"
+      },
+      "misconception": "Writes a10+ tens count as extra digits instead of exchanging it.",
+      "status": "candidate",
+      "legacySource": null
+    },
+    {
+      "id": "AC9M2N02-V2-T14",
+      "version": "20261015-ac9m2n02-research-v2",
+      "slot": "T14",
+      "bank": "test",
+      "focus": "ZR",
+      "focusTitle": "Explain zero’s role",
+      "concept": "explain_placeholder",
+      "type": "self-check",
+      "question": "Arun writes 809 as 89. Explain what the zero does in 809 and why 89 is a different amount.",
+      "correct": "In 809, zero records no separate tens and keeps 8 in the hundreds place. 809 is 8 hundreds and 9 ones; 89 is 8 tens and 9 ones.",
+      "explanation": "The 8 is worth 800 in 809 and 80 in 89.",
+      "hint": "Use the value of the 8 to compare the two numerals.",
+      "difficulty": 3,
+      "mastery": "Analyse",
+      "evidence": [
+        "N02-R05",
+        "N02-W12"
+      ],
+      "visualSpec": {
+        "kind": "parts",
+        "values": [
+          "809",
+          "89"
+        ],
+        "label": "Compare the two numerals"
+      },
+      "misconception": "Says add a zero without explaining the represented place values.",
+      "status": "candidate",
+      "legacySource": null,
+      "gradingMode": "adult-review",
+      "modelAnswer": "In 809, zero records no separate tens and keeps 8 in the hundreds place. 809 is 8 hundreds and 9 ones; 89 is 8 tens and 9 ones.",
+      "acceptanceNote": "Require explanation of the empty tens place and differing hundreds/tens values. Accept equivalent spoken, signed, scribed or modelled reasoning.",
+      "responseInstructions": "Write or say your answer. You may build with blocks or draw on paper. A grown-up checks your work after you finish.",
+      "completionLabel": "I have completed the task and shown or told a grown-up my answer."
+    },
+    {
+      "id": "AC9M2N02-V2-T15",
+      "version": "20261015-ac9m2n02-research-v2",
+      "slot": "T15",
+      "bank": "test",
+      "focus": "ZR",
+      "focusTitle": "Explain zero’s role",
+      "concept": "zero_nested_units",
+      "type": "self-check",
+      "question": "Rename 560 using only complete tens and leftover ones. Explain the zero in 560.",
+      "correct": "56 tens and 0 leftover ones. In the usual grouping, the zero shows that there are no loose ones.",
+      "explanation": "5 hundreds contain 50 tens. With 6 more tens there are 56 tens, and no leftover ones.",
+      "hint": "Count tens inside the hundreds as well as the separate tens.",
+      "difficulty": 3,
+      "mastery": "Analyse",
+      "evidence": [
+        "N02-M07",
+        "N02-M08",
+        "N02-R06"
+      ],
+      "visualSpec": {
+        "kind": "parts",
+        "values": [
+          "560",
+          "? complete tens",
+          "? leftover ones"
+        ],
+        "label": "Parts of the same number"
+      },
+      "misconception": "Confuses the empty ones place with the count of all complete tens inside560.",
+      "status": "candidate",
+      "legacySource": null,
+      "gradingMode": "adult-review",
+      "modelAnswer": "56 tens and 0 leftover ones. In the usual grouping, the zero shows that there are no loose ones.",
+      "acceptanceNote": "Require 56T0O and a correct empty-ones explanation. 5H6T0O alone does not meet the requested only-tens renaming.",
+      "responseInstructions": "Write or say your answer. You may build with blocks or draw on paper. A grown-up checks your work after you finish.",
+      "completionLabel": "I have completed the task and shown or told a grown-up my answer."
+    },
+    {
+      "id": "AC9M2N02-V2-T16",
+      "version": "20261015-ac9m2n02-research-v2",
+      "slot": "T16",
+      "bank": "test",
+      "focus": "EX",
+      "focusTitle": "Make equal exchanges",
+      "concept": "reverse_hundred_exchange",
+      "type": "fill-blank",
+      "question": "A model has 7 hundreds, 3 tens and 1 one. Open 2 hundreds into tens. Name the result.",
+      "correct": [
+        5,
+        23,
+        1
+      ],
+      "explanation": "2 hundreds become 20 tens. Keep 5 hundreds, add the original 3 tens, and keep 1 one: 5 hundreds, 23 tens and 1 one.",
+      "hint": "Both hundreds opened must be replaced with tens.",
+      "difficulty": 3,
+      "mastery": "Analyse",
+      "evidence": [
+        "N02-I04",
+        "N02-I05",
+        "N02-N01"
+      ],
+      "visualSpec": {
+        "kind": "chart",
+        "values": [
+          7,
+          3,
+          1
+        ],
+        "label": "Before opening 2 hundreds"
+      },
+      "misconception": "Opens only one of the two hundreds or discards existing tens.",
+      "status": "candidate",
+      "legacySource": "AC9M2N02-T-010",
+      "template": "{{blank}} hundreds, {{blank}} tens, {{blank}} ones."
+    }
+  ]
+}

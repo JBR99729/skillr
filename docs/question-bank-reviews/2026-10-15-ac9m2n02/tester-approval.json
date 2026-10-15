@@ -1,0 +1,36 @@
+{
+  "approved": true,
+  "reviewer": "independent tester /root/tester_review_n02",
+  "at": "2026-10-15T11:33:41.639565+00:00",
+  "scope": "Integrated AC9M2N02 dev website bank and affected local runtime flow; not production release",
+  "destination": "JBR99729/skillr:skillr-dev",
+  "candidateSHA256": "21cef9c153337ab45820d94aa1e72b65c5e8027b7f100e65d871d2e69ef6a52f",
+  "publicBankVersion": "20261015-ac9m2n02-v2",
+  "sourceManifestSHA256": "a80d4b6f7e0e53ddb4a438b0976a6b3bf20ad4a771ea567ca1e24a7f44f6339e",
+  "questionCount": 46,
+  "viewportCases": 138,
+  "pixelInspectedSheets": 18,
+  "completeTest": {
+    "total": 16,
+    "automatic": 9,
+    "adultPending": 7
+  },
+  "midAttemptReload": "returns to start; no in-flight resume",
+  "knownNonblockingLimitations": [
+    "Local Chromium viewport emulation, not real devices.",
+    "One generic helper load event during rapid navigation retained in raw sweep log; final normal-context Practice/Test result/review/progress flows each zero errors.",
+    "Production deployment, Supabase/auth and worksheet fidelity excluded."
+  ],
+  "evidence": [
+    "independent-test-report.md",
+    "final-source-hashes.json",
+    "visual-ledger.json",
+    "visual-ledger.csv",
+    "pixel-inspection.json",
+    "rendered-results.json",
+    "supplemental-results.json",
+    "supplemental-test-results.json",
+    "scaffold-recheck-results.json",
+    "throttled-load-results.json"
+  ]
+}

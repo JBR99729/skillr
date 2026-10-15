@@ -1,0 +1,31 @@
+{
+  "candidateSHA256": "21cef9c153337ab45820d94aa1e72b65c5e8027b7f100e65d871d2e69ef6a52f",
+  "publicBankVersion": "20261015-ac9m2n02-v2",
+  "destination": "JBR99729/skillr:skillr-dev",
+  "hashes": {
+    "quiz/assets/script.js": "17988c3ffd46be90a8ca8a52b4a39f6afc4036afc047f45953319df155c62c28",
+    "quiz/assets/script-runtime-v115.js": "99dcc0e66261d83a3e9605a2c79982800667ba02e40cd29476560dd89f73c01c",
+    "quiz/assets/production-question-ui.js": "2015730b0045ee57f10ad32171020673e14e7d5cf1e7eb5beea24c4aaa94ef8e",
+    "quiz/assets/year1-maths-support.js": "220bc7a4b8b4fa82b01771f3ca0fc60649705e0097a96a9cef5616d289663803",
+    "quiz/assets/separate-result.js": "3fa8e54b019fa8f80c6d78a1c11c0d6830f1879ec7771df47967896197a7cad9",
+    "quiz/assets/separate-review.js": "65ad9bd3a39753659967089cec3743cbd573224e48e2e178268610b42a5c9200",
+    "quiz/year-2/math/ac9m2n02/bank.css": "f8f28c5ca2021a210bf272f27c134780c9a89d77bf78ba9118773070535d12e2",
+    "quiz/year-2/math/ac9m2n02/bank-support.js": "73aa2227b7d5a228ca8b85f857b9b5be289e682966b8b1588f0880ac4ab44bf3",
+    "quiz/year-2/math/ac9m2n02/practice/questions.js": "3eba294c7e6aa6ed72485a5e7237e6fdbe5b4d2f02cbf168902af5c8069dd94d",
+    "quiz/year-2/math/ac9m2n02/test/questions.js": "6b0730701c96eb5097c66ca1a1e809a6c9adb836744258acc8ccc961f4f04b2c",
+    "assets/assessment-banks/year2/math/ac9m2n02.json": "ea8fccf351f93ba58d17e9797cc7d8d486820b84c827941f86af7f85b4c8139a",
+    "assets/curriculum-visual-layer-interactive.js": "58e26c1e87d6afaf27b49cde40e3947549274a4f4d12d887aa29ff8da818633f",
+    "assets/curriculum-visual-layer.js": "832da688b60a87419f683eccd3de8e7f04a708b2c5dbe8175fd22151ca749e50",
+    "assets/progress-store.js": "06d131f2a1f2a740abd1421a4e49629e3d18add57493833f3195c4eca2651a96",
+    "assets/year2-maths-practice-quick-read.js": "f26594ce5d0063747f71b8fe32708232e7471e6558923b162f34a7a0467fc955",
+    "assets/pwa-register-legacy.js": "b0a636227403ea4f030dc6a95a60e1cc3e3384027b21746683bd1c183900d193",
+    "quiz/year-2/math/ac9m2n02/practice/index.html": "275f9d7d2c6be9681e93ead96d02023af6c4106a6cb402bac5ebdb54ba9454de",
+    "quiz/year-2/math/ac9m2n02/test/index.html": "b826375845fd51521ee46bfad570377ccbfce72d280c6f13afc720edd2c10015",
+    "quiz/year-2/math/ac9m2n02/practice/result/index.html": "021aff2f916557c2aa187e7dae69e1bd02db400a92db9a5a32f634a694722710",
+    "quiz/year-2/math/ac9m2n02/practice/review/index.html": "b0a5f7ab110fa4a66b969ea33be1a859382a19bfea8b66a161eb54db3b6d8553",
+    "quiz/year-2/math/ac9m2n02/test/result/index.html": "0e817b102a7373a595f3ce8933e3593f9773e2a0998256a0427b9207d180f6e5",
+    "quiz/year-2/math/ac9m2n02/test/review/index.html": "e8394c0664cece9c32f7648ae096ea85cb8f1966546c4ae0f75ec768a1a16adc",
+    "quiz/year-2/math/ac9m2n02/worksheet/index.html": "3de8d39bceec319662398c0725aa7de4f024e9d98d5b0d1f3cc3578ec219a340",
+    "quiz/year-2/math/ac9m2n02/worksheet/legacy-questions.js": "9fe80c73d0c0f899ca9b9e5a9cc861c42a23193866e782aba8c20c6ab1e7e480"
+  }
+}

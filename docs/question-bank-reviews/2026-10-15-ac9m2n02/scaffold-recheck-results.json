@@ -1,0 +1,60 @@
+{
+  "at": "2026-10-15T11:22:26.120Z",
+  "checks": [
+    {
+      "mode": "practice",
+      "size": "desktop",
+      "authoredNotesExact": true,
+      "noLegacyOrDecimalInjection": true,
+      "learningCollapsed": true,
+      "launchContainment": true,
+      "noOverflow": true
+    },
+    {
+      "mode": "test",
+      "size": "desktop",
+      "authoredNotesExact": true,
+      "noLegacyOrDecimalInjection": true,
+      "learningCollapsed": true,
+      "launchContainment": true,
+      "noOverflow": true
+    },
+    {
+      "mode": "practice",
+      "size": "tablet",
+      "authoredNotesExact": true,
+      "noLegacyOrDecimalInjection": true,
+      "learningCollapsed": true,
+      "launchContainment": true,
+      "noOverflow": true
+    },
+    {
+      "mode": "test",
+      "size": "tablet",
+      "authoredNotesExact": true,
+      "noLegacyOrDecimalInjection": true,
+      "learningCollapsed": true,
+      "launchContainment": true,
+      "noOverflow": true
+    },
+    {
+      "mode": "practice",
+      "size": "phone",
+      "authoredNotesExact": true,
+      "noLegacyOrDecimalInjection": true,
+      "learningCollapsed": true,
+      "launchContainment": true,
+      "noOverflow": true
+    },
+    {
+      "mode": "test",
+      "size": "phone",
+      "authoredNotesExact": true,
+      "noLegacyOrDecimalInjection": true,
+      "learningCollapsed": true,
+      "launchContainment": true,
+      "noOverflow": true
+    }
+  ],
+  "errors": []
+}

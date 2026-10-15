@@ -1,0 +1,26 @@
+{
+  "inspected": true,
+  "method": "Independent reviewer opened and inspected all18 final contact sheets; full screenshots additionally inspected for identified fit failures and repairs. Counts/bounds also checked perexactitem in browser.",
+  "sheets": {
+    "contact-desktop-01.png": "9f5792b096ddaea75ce791cce160bef3ca4bb65d7de2542f4addcf6f214840d1",
+    "contact-desktop-02.png": "2d8391aea73c933ace68926cf4b254389932730e7357b59a6138e5f67e14e4d0",
+    "contact-desktop-03.png": "a8bfeb51e5649908e107794930a8f0b32f127a16075bc0972d5859de278f89f5",
+    "contact-desktop-04.png": "820f8b5a7287c9fbbe89379ec249cd97bc09e909f32eaa3efe7ec8e3640ac40f",
+    "contact-desktop-05.png": "49c2826a7ddbd291c2cfbf21679999edeec9cf1613f4fd53754de870576b812f",
+    "contact-desktop-06.png": "2b867b3092f63022ef81fbc5c9eb0a27ceaad802f87fa5a6aaadfbebfc646869",
+    "contact-tablet-01.png": "acb68db4bb2b88aad18591eabe90debed54024d0822d2bbf369b3e5604f091f4",
+    "contact-tablet-02.png": "a63856085b31033b404356d7961d1f2c34f9d6845cbbe878e0cb0c5a3827cf5f",
+    "contact-tablet-03.png": "ede4caa85bf881f2bdad738e815a7ea01ba4f0a6c23dc38a483abb09bceda955",
+    "contact-tablet-04.png": "2ff31e56ceac12dc00ebc11c8a26e8266b074cefab2696c7b362f1035adc5688",
+    "contact-tablet-05.png": "8a8438f42ce7ae398673b9782674c47ef2e74c502101ccfb14644df7abd203e8",
+    "contact-tablet-06.png": "6e79ae04dd8804182f18db21a2d050bd28e349aa5f7fa7d270accf0a5c801c71",
+    "contact-phone-01.png": "cb9b413eb95ea79815c9dd79144f90e21c660f64d83266efbc05cf766d4fcad9",
+    "contact-phone-02.png": "a28575d96ef4a12c6b7e9a09f3ac93d9d21c3df0866b30f5647f6b459bd1273a",
+    "contact-phone-03.png": "a85bde1ed858a669870c736abbc8ee6f076ef6c8aeaa45d4491fed0400e69cee",
+    "contact-phone-04.png": "8f76e4702e745a014c6aaa2cc432e9ee439899e7b7599e5fee748f2ae4671469",
+    "contact-phone-05.png": "90cb729ce77a7dab43ba59044b4b4d3eacb2dd164286c97c6983ee2b42eab4d2",
+    "contact-phone-06.png": "80841606baec56d91bb181eaf6ac4ca6258a4b8e53277a7d3e561ffe82f2b12f"
+  },
+  "totalQuestions": 46,
+  "viewportCases": 138
+}

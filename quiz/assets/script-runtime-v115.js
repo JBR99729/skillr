@@ -305,7 +305,11 @@ document.addEventListener("DOMContentLoaded", () => {
     /\/(practice|test)\/(?:index\.html)?$/i
   );
   const isStandardQuizActivity = questions.length > 0;
-  const standardAttemptQuestionCount = 5;
+  // Authored banks may opt into a complete, reviewed sitting; legacy pages keep five.
+  const authoredCount = Number(config.authoredAttemptCount);
+  const standardAttemptQuestionCount = Number.isInteger(authoredCount) && authoredCount > 0
+    ? Math.min(50, authoredCount)
+    : 5;
 
   // Year 7 legacy launch pages include some stale generated copy. Preserve the
   // authored banks and Topic Guides, but do not show unrelated English notes
@@ -3476,6 +3480,7 @@ function renderImageDragState(
     pendingReview: Boolean(result.pendingReview),
     acceptanceNote: question.acceptanceNote || "",
     visualModel: question.visualModel || null,
+    visualHtml: config.preserveQuestionVisuals ? question.visualHtml || "" : "",
     question:
       question.question,
 

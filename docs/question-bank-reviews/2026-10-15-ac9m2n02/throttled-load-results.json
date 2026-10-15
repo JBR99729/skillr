@@ -1,0 +1,27 @@
+{
+  "at": "2026-10-15T11:17:29.336Z",
+  "questionId": "ac9m2n02-v2-p-ex08",
+  "profile": {
+    "latencyPerResponseMs": 150,
+    "aggregateBytesPerSecond": 200000,
+    "tokenTickMs": 100,
+    "transport": "paced local HTTP server; no CDP",
+    "externalAnalytics": "empty success responses; excluded from timing profile"
+  },
+  "viewport": {
+    "width": 1280,
+    "height": 900
+  },
+  "browser": "153.0.8010.0",
+  "launchMs": 4531,
+  "readyMs": 4657,
+  "servedBytes": 784511,
+  "requests": 54,
+  "counts": {
+    "hundred": 6,
+    "ten": 8,
+    "one": 4
+  },
+  "errors": [],
+  "limitation": "Cold new browser context on local host. This is one defined emulated network test, not a real school/device measurement or universal loading SLA."
+}

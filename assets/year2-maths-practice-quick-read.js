@@ -82,6 +82,7 @@
     const unit = window.SkillrYear2MathsData?.[code];
     const card = document.querySelector("#startScreen .start-card");
     if (!unit || !card) return false;
+    if (card.querySelector('[data-skillr-authored-preparation="true"]')) return true;
     ensureStyle();
     ensureBrand(card);
 

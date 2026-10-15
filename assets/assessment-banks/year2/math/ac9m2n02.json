@@ -1,1682 +1,1569 @@
 [
   {
-    "id": "AC9M2N02-P-001",
+    "id": "AC9M2N02-V2-P-PN01",
+    "curriculum_code": "AC9M2N02",
     "subject": "math",
     "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
     "bank": "practice",
-    "skill": "standard_partition",
-    "question": "Which is the standard partition of 472?",
-    "audio_prompt": "Which is the standard partition of 472?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "4 hundreds + 7 tens + 2 ones",
-        "is_correct": true
-      },
-      {
-        "text": "4 hundreds + 2 tens + 7 ones",
-        "is_correct": false
-      },
-      {
-        "text": "47 hundreds + 2 ones",
-        "is_correct": false
-      }
+    "strand": "Partition and rename numbers",
+    "concept": "read_model",
+    "question": "Look at the model. Complete its usual tens-and-ones name and write the number.",
+    "audio_prompt": "Look at the model. Complete its usual tens-and-ones name and write the number.",
+    "type": "fill-blank",
+    "correct": [
+      6,
+      4,
+      64
     ],
-    "correct_index": 0,
+    "answers": [],
     "explanation": {
-      "summary": "The digits in 472 show 4 hundreds, 7 tens and 2 ones.",
-      "hint": "Match each digit to its place."
+      "summary": "6 tens are 60. 60 and 4 ones make 64.",
+      "hint": "A rod is 10; a small square is 1."
+    },
+    "visual": {
+      "type": "html",
+      "html": "<figure class=\"n02-visual\"><figcaption>Base-ten model</figcaption><div class=\"n02-blocks\"><section class=\"n02-unit\"><h3>Hundreds</h3><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 204 52\" role=\"img\" aria-label=\"0 hundreds pieces\"></svg></section><section class=\"n02-unit\"><h3>Tens</h3><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 204 83\" role=\"img\" aria-label=\"6 tens pieces\"><g data-unit=\"ten\"><rect x=\"12\" y=\"6\" width=\"13\" height=\"62\" fill=\"#d9eee5\" stroke=\"#205e4d\" stroke-width=\"1.4\"/><path d=\"M12 12.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 18.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 24.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 30.8h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 37.0h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 43.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 49.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 55.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 61.800000000000004h13\" stroke=\"#397b66\" stroke-width=\".7\"/></g><g data-unit=\"ten\"><rect x=\"36\" y=\"6\" width=\"13\" height=\"62\" fill=\"#d9eee5\" stroke=\"#205e4d\" stroke-width=\"1.4\"/><path d=\"M36 12.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 18.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 24.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 30.8h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 37.0h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 43.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 49.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 55.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 61.800000000000004h13\" stroke=\"#397b66\" stroke-width=\".7\"/></g><g data-unit=\"ten\"><rect x=\"60\" y=\"6\" width=\"13\" height=\"62\" fill=\"#d9eee5\" stroke=\"#205e4d\" stroke-width=\"1.4\"/><path d=\"M60 12.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 18.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 24.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 30.8h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 37.0h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 43.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 49.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 55.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 61.800000000000004h13\" stroke=\"#397b66\" stroke-width=\".7\"/></g><g data-unit=\"ten\"><rect x=\"84\" y=\"6\" width=\"13\" height=\"62\" fill=\"#d9eee5\" stroke=\"#205e4d\" stroke-width=\"1.4\"/><path d=\"M84 12.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M84 18.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M84 24.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M84 30.8h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M84 37.0h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M84 43.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M84 49.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M84 55.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M84 61.800000000000004h13\" stroke=\"#397b66\" stroke-width=\".7\"/></g><g data-unit=\"ten\"><rect x=\"108\" y=\"6\" width=\"13\" height=\"62\" fill=\"#d9eee5\" stroke=\"#205e4d\" stroke-width=\"1.4\"/><path d=\"M108 12.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M108 18.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M108 24.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M108 30.8h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M108 37.0h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M108 43.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M108 49.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M108 55.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M108 61.800000000000004h13\" stroke=\"#397b66\" stroke-width=\".7\"/></g><g data-unit=\"ten\"><rect x=\"132\" y=\"6\" width=\"13\" height=\"62\" fill=\"#d9eee5\" stroke=\"#205e4d\" stroke-width=\"1.4\"/><path d=\"M132 12.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M132 18.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M132 24.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M132 30.8h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M132 37.0h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M132 43.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M132 49.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M132 55.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M132 61.800000000000004h13\" stroke=\"#397b66\" stroke-width=\".7\"/></g></svg></section><section class=\"n02-unit\"><h3>Ones</h3><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 204 52\" role=\"img\" aria-label=\"4 ones pieces\"><rect data-unit=\"one\" x=\"15\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"38\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"61\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"84\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/></svg></section></div><p class=\"n02-key\">Hundred flat = 100 · Ten rod = 10 · One cube = 1</p></figure>",
+      "alt_text": "Base-ten model: 0 hundred flats, 6 ten rods, 4 one cubes."
     },
     "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "sequence_priority": 1,
-    "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
-    }
+    "quality_schema": "authored-v2",
+    "version": "20261015-ac9m2n02-v2",
+    "template": "{{blank}} tens and {{blank}} ones make {{blank}}.",
+    "acceptedAnswers": [
+      [
+        "6"
+      ],
+      [
+        "4"
+      ],
+      [
+        "64"
+      ]
+    ]
   },
   {
-    "id": "AC9M2N02-P-002",
+    "id": "AC9M2N02-V2-P-PN02",
+    "curriculum_code": "AC9M2N02",
     "subject": "math",
     "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
     "bank": "practice",
-    "skill": "value_of_digit",
-    "question": "What is the value of the 6 in 364?",
-    "audio_prompt": "What is the value of the 6 in 364?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "6",
-        "is_correct": false
-      },
-      {
-        "text": "60",
-        "is_correct": true
-      },
-      {
-        "text": "600",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
+    "strand": "Partition and rename numbers",
+    "concept": "construct_model",
+    "question": "Build or draw 83 using tens and ones. Label the parts.",
+    "audio_prompt": "Build or draw 83 using tens and ones. Label the parts.",
+    "type": "self-check",
+    "correct": "8 tens and 3 ones: 80 + 3 = 83.",
+    "answers": [],
     "explanation": {
-      "summary": "The 6 is in the tens place, so its value is 60.",
-      "hint": "A digit's value depends on its place."
+      "summary": "Eight tens make 80; add 3 ones to keep the amount 83.",
+      "hint": "Count the value of every piece."
+    },
+    "visual": {
+      "type": "html",
+      "html": "<figure class=\"n02-visual\"><figcaption>Build 83</figcaption><table class=\"n02-chart\"><thead><tr><th>Hundreds</th><th>Tens</th><th>Ones</th></tr></thead><tbody><tr><td>—</td><td>?</td><td>?</td></tr></tbody></table></figure>",
+      "alt_text": "Build 83: —, ?, ?"
     },
     "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "sequence_priority": 2,
-    "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
-    }
+    "quality_schema": "authored-v2",
+    "version": "20261015-ac9m2n02-v2",
+    "gradingMode": "adult-review",
+    "modelAnswer": "8 tens and 3 ones: 80 + 3 = 83.",
+    "acceptanceNote": "Require a model worth 83 with labelled tens and ones. Accept 8T3O or any equal non-standard grouping; drawing neatness is not assessed.",
+    "responseInstructions": "Write or say your answer. You may build with blocks or draw on paper. A grown-up checks your work after you finish.",
+    "completionLabel": "I have completed the task and shown or told a grown-up my answer."
   },
   {
-    "id": "AC9M2N02-P-003",
+    "id": "AC9M2N02-V2-P-PN03",
+    "curriculum_code": "AC9M2N02",
     "subject": "math",
     "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
     "bank": "practice",
-    "skill": "identify_place",
-    "question": "Which digit is in the hundreds place in 591?",
-    "audio_prompt": "Which digit is in the hundreds place in 591?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "9",
-        "is_correct": false
-      },
-      {
-        "text": "1",
-        "is_correct": false
-      },
-      {
-        "text": "5",
-        "is_correct": true
-      }
+    "strand": "Partition and rename numbers",
+    "concept": "read_model",
+    "question": "Name the parts shown in this model. Then write the number.",
+    "audio_prompt": "Name the parts shown in this model. Then write the number.",
+    "type": "fill-blank",
+    "correct": [
+      2,
+      3,
+      6,
+      236
     ],
-    "correct_index": 2,
+    "answers": [],
     "explanation": {
-      "summary": "The hundreds place is the third place from the right, containing 5.",
-      "hint": "Read ones, tens, hundreds from the right."
+      "summary": "2 hundreds, 3 tens and 6 ones make 200 + 30 + 6 = 236.",
+      "hint": "Keep the three places in order."
+    },
+    "visual": {
+      "type": "html",
+      "html": "<figure class=\"n02-visual\"><figcaption>Base-ten model</figcaption><div class=\"n02-blocks\"><section class=\"n02-unit\"><h3>Hundreds</h3><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 204 77\" role=\"img\" aria-label=\"2 hundreds pieces\"><g data-unit=\"hundred\"><rect x=\"12\" y=\"6\" width=\"55\" height=\"55\" fill=\"#d9ecef\" stroke=\"#1d5864\" stroke-width=\"1.5\"/><path d=\"M17.5 6v55 M12 11.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M23.0 6v55 M12 17.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M28.5 6v55 M12 22.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M34.0 6v55 M12 28.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M39.5 6v55 M12 33.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M45.0 6v55 M12 39.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M50.5 6v55 M12 44.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M56.0 6v55 M12 50.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M61.5 6v55 M12 55.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/></g><g data-unit=\"hundred\"><rect x=\"75\" y=\"6\" width=\"55\" height=\"55\" fill=\"#d9ecef\" stroke=\"#1d5864\" stroke-width=\"1.5\"/><path d=\"M80.5 6v55 M75 11.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M86.0 6v55 M75 17.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M91.5 6v55 M75 22.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M97.0 6v55 M75 28.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M102.5 6v55 M75 33.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M108.0 6v55 M75 39.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M113.5 6v55 M75 44.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M119.0 6v55 M75 50.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M124.5 6v55 M75 55.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/></g></svg></section><section class=\"n02-unit\"><h3>Tens</h3><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 204 83\" role=\"img\" aria-label=\"3 tens pieces\"><g data-unit=\"ten\"><rect x=\"12\" y=\"6\" width=\"13\" height=\"62\" fill=\"#d9eee5\" stroke=\"#205e4d\" stroke-width=\"1.4\"/><path d=\"M12 12.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 18.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 24.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 30.8h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 37.0h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 43.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 49.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 55.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 61.800000000000004h13\" stroke=\"#397b66\" stroke-width=\".7\"/></g><g data-unit=\"ten\"><rect x=\"36\" y=\"6\" width=\"13\" height=\"62\" fill=\"#d9eee5\" stroke=\"#205e4d\" stroke-width=\"1.4\"/><path d=\"M36 12.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 18.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 24.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 30.8h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 37.0h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 43.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 49.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 55.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 61.800000000000004h13\" stroke=\"#397b66\" stroke-width=\".7\"/></g><g data-unit=\"ten\"><rect x=\"60\" y=\"6\" width=\"13\" height=\"62\" fill=\"#d9eee5\" stroke=\"#205e4d\" stroke-width=\"1.4\"/><path d=\"M60 12.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 18.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 24.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 30.8h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 37.0h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 43.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 49.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 55.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 61.800000000000004h13\" stroke=\"#397b66\" stroke-width=\".7\"/></g></svg></section><section class=\"n02-unit\"><h3>Ones</h3><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 204 52\" role=\"img\" aria-label=\"6 ones pieces\"><rect data-unit=\"one\" x=\"15\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"38\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"61\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"84\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"107\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"130\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/></svg></section></div><p class=\"n02-key\">Hundred flat = 100 · Ten rod = 10 · One cube = 1</p></figure>",
+      "alt_text": "Base-ten model: 2 hundred flats, 3 ten rods, 6 one cubes."
     },
     "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "sequence_priority": 3,
-    "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
-    }
+    "quality_schema": "authored-v2",
+    "version": "20261015-ac9m2n02-v2",
+    "template": "{{blank}} hundreds, {{blank}} tens and {{blank}} ones make {{blank}}.",
+    "acceptedAnswers": [
+      [
+        "2"
+      ],
+      [
+        "3"
+      ],
+      [
+        "6"
+      ],
+      [
+        "236"
+      ]
+    ]
   },
   {
-    "id": "AC9M2N02-P-004",
+    "id": "AC9M2N02-V2-P-PN04",
+    "curriculum_code": "AC9M2N02",
     "subject": "math",
     "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
     "bank": "practice",
-    "skill": "regroup_ten_as_ones",
-    "question": "Complete the regrouping: 4 tens + 17 ones = ___ tens + 7 ones.",
-    "audio_prompt": "Complete the regrouping: 4 tens + 17 ones = ___ tens + 7 ones.",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "5",
-        "is_correct": true
-      },
-      {
-        "text": "4",
-        "is_correct": false
-      },
-      {
-        "text": "6",
-        "is_correct": false
-      }
+    "strand": "Partition and rename numbers",
+    "concept": "expanded_parts",
+    "question": "Split 472 into hundreds, tens and ones. Write the value of each part.",
+    "audio_prompt": "Split 472 into hundreds, tens and ones. Write the value of each part.",
+    "type": "fill-blank",
+    "correct": [
+      400,
+      70,
+      2
     ],
-    "correct_index": 0,
+    "answers": [],
     "explanation": {
-      "summary": "17 ones regroup as 1 ten and 7 ones; 4 tens + 1 ten = 5 tens.",
-      "hint": "Trade 10 ones for 1 ten."
+      "summary": "472 = 400 + 70 + 2.",
+      "hint": "Write each part’s value, not just the digit."
     },
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "sequence_priority": 4,
-    "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
-    }
+    "visual": {
+      "type": "html",
+      "html": "<figure class=\"n02-visual\"><figcaption>Parts of the same number</figcaption><div class=\"n02-parts\"><p>472</p><p>? + ? + ?</p></div></figure>",
+      "alt_text": "Parts of the same number: 472, ? + ? + ?"
+    },
+    "difficulty": 2,
+    "quality_schema": "authored-v2",
+    "version": "20261015-ac9m2n02-v2",
+    "template": "472 = {{blank}} + {{blank}} + {{blank}}.",
+    "acceptedAnswers": [
+      [
+        "400"
+      ],
+      [
+        "70"
+      ],
+      [
+        "2"
+      ]
+    ]
   },
   {
-    "id": "AC9M2N02-P-005",
+    "id": "AC9M2N02-V2-P-PN05",
+    "curriculum_code": "AC9M2N02",
     "subject": "math",
     "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
     "bank": "practice",
-    "skill": "nonstandard_partition",
-    "question": "Which is another way to make 238?",
-    "audio_prompt": "Which is another way to make 238?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
+    "strand": "Partition and rename numbers",
+    "concept": "rearrange_parts",
+    "question": "What number is 9 ones + 6 hundreds + 2 tens?",
+    "audio_prompt": "What number is 9 ones + 6 hundreds + 2 tens?",
+    "type": "number",
+    "correct": 629,
+    "answers": [],
+    "explanation": {
+      "summary": "Rearrange the whole parts: 600 + 20 + 9 = 629.",
+      "hint": "Move whole parts, keeping each unit name with its number."
     },
+    "visual": {
+      "type": "html",
+      "html": "<figure class=\"n02-visual\"><figcaption>Parts of the same number</figcaption><div class=\"n02-parts\"><p>9 ones</p><p>6 hundreds</p><p>2 tens</p></div></figure>",
+      "alt_text": "Parts of the same number: 9 ones, 6 hundreds, 2 tens"
+    },
+    "difficulty": 2,
+    "quality_schema": "authored-v2",
+    "version": "20261015-ac9m2n02-v2"
+  },
+  {
+    "id": "AC9M2N02-V2-P-PN06",
+    "curriculum_code": "AC9M2N02",
+    "subject": "math",
+    "year_level": "Year 2",
+    "bank": "practice",
+    "strand": "Partition and rename numbers",
+    "concept": "construct_model",
+    "question": "Build or draw 364. Write an equal number sentence for your model.",
+    "audio_prompt": "Build or draw 364. Write an equal number sentence for your model.",
+    "type": "self-check",
+    "correct": "For example, 3 hundreds, 6 tens and 4 ones; 300 + 60 + 4 = 364.",
+    "answers": [],
+    "explanation": {
+      "summary": "Each part contributes its value to the total.",
+      "hint": "Label hundreds, tens and ones clearly."
+    },
+    "visual": {
+      "type": "html",
+      "html": "<figure class=\"n02-visual\"><figcaption>Represent 364</figcaption><table class=\"n02-chart\"><thead><tr><th>Hundreds</th><th>Tens</th><th>Ones</th></tr></thead><tbody><tr><td>?</td><td>?</td><td>?</td></tr></tbody></table></figure>",
+      "alt_text": "Represent 364: ?, ?, ?"
+    },
+    "difficulty": 2,
+    "quality_schema": "authored-v2",
+    "version": "20261015-ac9m2n02-v2",
+    "gradingMode": "adult-review",
+    "modelAnswer": "For example, 3 hundreds, 6 tens and 4 ones; 300 + 60 + 4 = 364.",
+    "acceptanceNote": "Require a model worth 364 and a matching equality. Accept all correctly valued standard or non-standard models; a copied numeral alone does not meet the task.",
+    "responseInstructions": "Write or say your answer. You may build with blocks or draw on paper. A grown-up checks your work after you finish.",
+    "completionLabel": "I have completed the task and shown or told a grown-up my answer."
+  },
+  {
+    "id": "AC9M2N02-V2-P-PN07",
+    "curriculum_code": "AC9M2N02",
+    "subject": "math",
+    "year_level": "Year 2",
+    "bank": "practice",
+    "strand": "Partition and rename numbers",
+    "concept": "multiple_equal_names",
+    "question": "A class has 68 sticks. Write two different tens-and-ones names for all 68 sticks.",
+    "audio_prompt": "A class has 68 sticks. Write two different tens-and-ones names for all 68 sticks.",
+    "type": "self-check",
+    "correct": "For example, 6 tens and 8 ones; 5 tens and 18 ones. Both make 68.",
+    "answers": [],
+    "explanation": {
+      "summary": "Opening 1 ten gives 10 ones, so the total stays 68.",
+      "hint": "The two names must have different numbers of tens."
+    },
+    "visual": {
+      "type": "html",
+      "html": "<figure class=\"n02-visual\"><figcaption>Parts of the same number</figcaption><div class=\"n02-parts\"><p>68 sticks</p><p>? tens + ? ones</p><p>? tens + ? ones</p></div></figure>",
+      "alt_text": "Parts of the same number: 68 sticks, ? tens + ? ones, ? tens + ? ones"
+    },
+    "difficulty": 2,
+    "quality_schema": "authored-v2",
+    "version": "20261015-ac9m2n02-v2",
+    "gradingMode": "adult-review",
+    "modelAnswer": "For example, 6 tens and 8 ones; 5 tens and 18 ones. Both make 68.",
+    "acceptanceNote": "Accept any two distinct non-negative whole-number pairs (t,o) with 10t+o=68. Require unit labels. Reordering the same pair does not make a different grouping.",
+    "responseInstructions": "Write or say your answer. You may build with blocks or draw on paper. A grown-up checks your work after you finish.",
+    "completionLabel": "I have completed the task and shown or told a grown-up my answer."
+  },
+  {
+    "id": "AC9M2N02-V2-P-PN08",
+    "curriculum_code": "AC9M2N02",
+    "subject": "math",
+    "year_level": "Year 2",
+    "bank": "practice",
+    "strand": "Partition and rename numbers",
+    "concept": "match_equal_names",
+    "question": "Which name has the same value as 2 hundreds, 3 tens and 8 ones?",
+    "audio_prompt": "Which name has the same value as 2 hundreds, 3 tens and 8 ones?",
+    "type": "single",
+    "correct": 1,
     "answers": [
       {
-        "text": "2 hundreds + 3 tens + 18 ones",
+        "text": "1 hundred, 3 tens and 18 ones",
         "is_correct": false
       },
       {
-        "text": "1 hundred + 13 tens + 8 ones",
+        "text": "1 hundred, 13 tens and 8 ones",
         "is_correct": true
       },
       {
-        "text": "23 hundreds + 8 ones",
+        "text": "2 hundreds, 13 tens and 8 ones",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
       "summary": "1 hundred + 13 tens + 8 ones is 100 + 130 + 8 = 238.",
-      "hint": "Find the total value of each grouping."
+      "hint": "An extra ten must be worth 10, not 1."
     },
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "sequence_priority": 5,
-    "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
-    }
-  },
-  {
-    "id": "AC9M2N02-P-006",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
-    "bank": "practice",
-    "skill": "rename_hundred_as_tens",
-    "question": "3 hundreds are equal to how many tens?",
-    "audio_prompt": "3 hundreds are equal to how many tens?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "3 tens",
-        "is_correct": false
-      },
-      {
-        "text": "300 tens",
-        "is_correct": false
-      },
-      {
-        "text": "30 tens",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Each hundred is 10 tens, so 3 hundreds are 30 tens.",
-      "hint": "Use 1 hundred = 10 tens."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "sequence_priority": 6,
-    "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
-    }
-  },
-  {
-    "id": "AC9M2N02-P-007",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
-    "bank": "practice",
-    "skill": "rename_hundred_as_ones",
-    "question": "How many ones have the same value as 5 hundreds?",
-    "audio_prompt": "How many ones have the same value as 5 hundreds?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "500",
-        "is_correct": true
-      },
-      {
-        "text": "50",
-        "is_correct": false
-      },
-      {
-        "text": "5",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "One hundred is 100 ones; five hundreds are 500 ones.",
-      "hint": "Multiply the hundreds count by 100."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "sequence_priority": 7,
-    "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
-    }
-  },
-  {
-    "id": "AC9M2N02-P-008",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
-    "bank": "practice",
-    "skill": "zero_placeholder",
-    "question": "What does the zero do in 406?",
-    "audio_prompt": "What does the zero do in 406?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "It shows there are no ones",
-        "is_correct": false
-      },
-      {
-        "text": "It shows there are no tens and keeps 4 in the hundreds place",
-        "is_correct": true
-      },
-      {
-        "text": "It makes the number equal to 46",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The zero records 0 tens and preserves the place of the 4 hundreds.",
-      "hint": "Name the place occupied by zero."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "sequence_priority": 8,
-    "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
-    }
-  },
-  {
-    "id": "AC9M2N02-P-009",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
-    "bank": "practice",
-    "skill": "expanded_to_number",
-    "question": "What number is 600 + 20 + 9?",
-    "audio_prompt": "What number is 600 + 20 + 9?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "692",
-        "is_correct": false
-      },
-      {
-        "text": "609",
-        "is_correct": false
-      },
-      {
-        "text": "629",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "600 + 20 + 9 combines to 629.",
-      "hint": "Write the hundreds, tens and ones digits."
+      "type": "html",
+      "html": "<figure class=\"n02-visual\"><figcaption>Parts of the same number</figcaption><div class=\"n02-parts\"><p>2 hundreds</p><p>3 tens</p><p>8 ones</p></div></figure>",
+      "alt_text": "Parts of the same number: 2 hundreds, 3 tens, 8 ones"
     },
     "difficulty": 2,
-    "difficulty_tier": "apply",
-    "sequence_priority": 9,
-    "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
-    }
+    "quality_schema": "authored-v2",
+    "version": "20261015-ac9m2n02-v2"
   },
   {
-    "id": "AC9M2N02-P-010",
+    "id": "AC9M2N02-V2-P-PN09",
+    "curriculum_code": "AC9M2N02",
     "subject": "math",
     "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
     "bank": "practice",
-    "skill": "number_to_expanded",
-    "question": "Which expanded form equals 704?",
-    "audio_prompt": "Which expanded form equals 704?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "700 + 4",
-        "is_correct": true
-      },
-      {
-        "text": "70 + 4",
-        "is_correct": false
-      },
-      {
-        "text": "700 + 40",
-        "is_correct": false
-      }
+    "strand": "Partition and rename numbers",
+    "concept": "nested_units",
+    "question": "Rename 615 using only complete tens and leftover ones.",
+    "audio_prompt": "Rename 615 using only complete tens and leftover ones.",
+    "type": "fill-blank",
+    "correct": [
+      61,
+      5
     ],
-    "correct_index": 0,
+    "answers": [],
     "explanation": {
-      "summary": "704 has 7 hundreds, 0 tens and 4 ones.",
-      "hint": "Do not add tens that the zero excludes."
+      "summary": "6 hundreds contain 60 tens. Add the other ten: 61 tens and 5 ones make 615.",
+      "hint": "Include the tens inside the hundreds."
     },
-    "difficulty": 2,
-    "difficulty_tier": "apply",
-    "sequence_priority": 10,
-    "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
-    }
-  },
-  {
-    "id": "AC9M2N02-P-011",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
-    "bank": "practice",
-    "skill": "regroup_hundreds_tens_ones",
-    "question": "2 hundreds + 14 tens + 3 ones equals which standard grouping?",
-    "audio_prompt": "2 hundreds + 14 tens + 3 ones equals which standard grouping?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "2 hundreds + 4 tens + 3 ones",
-        "is_correct": false
-      },
-      {
-        "text": "3 hundreds + 4 tens + 3 ones",
-        "is_correct": true
-      },
-      {
-        "text": "4 hundreds + 1 ten + 3 ones",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "14 tens regroup as 1 hundred and 4 tens, giving 343.",
-      "hint": "Trade 10 tens for 1 hundred."
-    },
-    "difficulty": 2,
-    "difficulty_tier": "apply",
-    "sequence_priority": 11,
-    "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
-    }
-  },
-  {
-    "id": "AC9M2N02-P-012",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
-    "bank": "practice",
-    "skill": "find_missing_group",
-    "question": "5 hundreds + ___ tens + 6 ones = 586.",
-    "audio_prompt": "5 hundreds + ___ tens + 6 ones = 586.",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "80",
-        "is_correct": false
-      },
-      {
-        "text": "6",
-        "is_correct": false
-      },
-      {
-        "text": "8",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "586 contains 5 hundreds, 8 tens and 6 ones.",
-      "hint": "Read the tens digit."
-    },
-    "difficulty": 2,
-    "difficulty_tier": "apply",
-    "sequence_priority": 12,
-    "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
-    }
-  },
-  {
-    "id": "AC9M2N02-P-013",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
-    "bank": "practice",
-    "skill": "verify_equivalence",
-    "question": "Which grouping has the same value as 451?",
-    "audio_prompt": "Which grouping has the same value as 451?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "3 hundreds + 15 tens + 1 one",
-        "is_correct": true
-      },
-      {
-        "text": "4 hundreds + 5 tens + 11 ones",
-        "is_correct": false
-      },
-      {
-        "text": "4 hundreds + 15 tens + 1 one",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "300 + 150 + 1 = 451.",
-      "hint": "Calculate the value of every group."
-    },
-    "difficulty": 2,
-    "difficulty_tier": "apply",
-    "sequence_priority": 13,
-    "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
-    }
-  },
-  {
-    "id": "AC9M2N02-P-014",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
-    "bank": "practice",
-    "skill": "identify_non_equivalence",
-    "question": "Which does not equal 320?",
-    "audio_prompt": "Which does not equal 320?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "3 hundreds + 2 tens",
-        "is_correct": false
-      },
-      {
-        "text": "2 hundreds + 2 tens",
-        "is_correct": true
-      },
-      {
-        "text": "32 tens",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "2 hundreds + 2 tens is 220, not 320.",
-      "hint": "Convert each choice to a numeral."
-    },
-    "difficulty": 2,
-    "difficulty_tier": "apply",
-    "sequence_priority": 14,
-    "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
-    }
-  },
-  {
-    "id": "AC9M2N02-P-015",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
-    "bank": "practice",
-    "skill": "rearrange_partition",
-    "question": "A model for 267 has 2 hundred blocks, 6 ten rods and 7 ones. One hundred block is traded for tens. What remains?",
-    "audio_prompt": "A model for 267 has 2 hundred blocks, 6 ten rods and 7 ones. One hundred block is traded for tens. What remains?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "2 hundreds, 16 tens, 7 ones",
-        "is_correct": false
-      },
-      {
-        "text": "1 hundred, 6 tens, 17 ones",
-        "is_correct": false
-      },
-      {
-        "text": "1 hundred, 16 tens, 7 ones",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Trading 1 hundred adds 10 tens: 1 hundred, 16 tens, 7 ones.",
-      "hint": "Only the traded place changes."
-    },
-    "difficulty": 2,
-    "difficulty_tier": "apply",
-    "sequence_priority": 15,
-    "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
-    }
-  },
-  {
-    "id": "AC9M2N02-P-016",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
-    "bank": "practice",
-    "skill": "reason_from_clues",
-    "question": "I have 4 hundreds. After one ten is traded for ones, I have 2 tens and 15 ones. What number am I?",
-    "audio_prompt": "I have 4 hundreds. After one ten is traded for ones, I have 2 tens and 15 ones. What number am I?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "435",
-        "is_correct": true
-      },
-      {
-        "text": "425",
-        "is_correct": false
-      },
-      {
-        "text": "445",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Before the trade there were 3 tens and 5 ones, so the number is 435.",
-      "hint": "Reverse the trade: 2 tens + 15 ones = 3 tens + 5 ones."
-    },
-    "difficulty": 2,
-    "difficulty_tier": "apply",
-    "sequence_priority": 16,
-    "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
-    }
-  },
-  {
-    "id": "AC9M2N02-P-017",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
-    "bank": "practice",
-    "skill": "multiple_regroupings",
-    "question": "Which pair shows two equal amounts?",
-    "audio_prompt": "Which pair shows two equal amounts?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "6 hundreds + 2 tens; 7 hundreds + 2 tens",
-        "is_correct": false
-      },
-      {
-        "text": "6 hundreds + 12 tens; 7 hundreds + 2 tens",
-        "is_correct": true
-      },
-      {
-        "text": "5 hundreds + 12 tens; 7 hundreds + 12 tens",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "600 + 120 and 700 + 20 both equal 720.",
-      "hint": "Find each total before comparing."
+      "type": "html",
+      "html": "<figure class=\"n02-visual\"><figcaption>Parts of the same number</figcaption><div class=\"n02-parts\"><p>615</p><p>? complete tens</p><p>? leftover ones</p></div></figure>",
+      "alt_text": "Parts of the same number: 615, ? complete tens, ? leftover ones"
     },
     "difficulty": 3,
-    "difficulty_tier": "reason",
-    "sequence_priority": 17,
-    "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
-    }
+    "quality_schema": "authored-v2",
+    "version": "20261015-ac9m2n02-v2",
+    "template": "615 = {{blank}} tens + {{blank}} ones.",
+    "acceptedAnswers": [
+      [
+        "61"
+      ],
+      [
+        "5"
+      ]
+    ]
   },
   {
-    "id": "AC9M2N02-P-018",
+    "id": "AC9M2N02-V2-P-PN10",
+    "curriculum_code": "AC9M2N02",
     "subject": "math",
     "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
     "bank": "practice",
-    "skill": "zero_in_different_places",
-    "question": "How are 502 and 520 different?",
-    "audio_prompt": "How are 502 and 520 different?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "502 has no ones; 520 has no tens",
-        "is_correct": false
-      },
-      {
-        "text": "Both zeroes have the same place value",
-        "is_correct": false
-      },
-      {
-        "text": "502 has no tens; 520 has no ones",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "strand": "Partition and rename numbers",
+    "concept": "justify_equal_names",
+    "question": "Sam says 451 = 4 hundreds + 5 tens + 1 one. Show a different equal name and explain why it still makes 451.",
+    "audio_prompt": "Sam says 451 = 4 hundreds + 5 tens + 1 one. Show a different equal name and explain why it still makes 451.",
+    "type": "self-check",
+    "correct": "For example, 3 hundreds + 15 tens + 1 one. 300 + 150 + 1 = 451.",
+    "answers": [],
     "explanation": {
-      "summary": "The zero in 502 is in the tens place; the zero in 520 is in the ones place.",
-      "hint": "Locate the zero from the right."
+      "summary": "Opening one hundred adds 10 tens while keeping the amount the same.",
+      "hint": "Check the total of the new parts."
+    },
+    "visual": {
+      "type": "html",
+      "html": "<figure class=\"n02-visual\"><figcaption>Parts of the same number</figcaption><div class=\"n02-parts\"><p>451</p><p>4 hundreds + 5 tens + 1 one</p><p>A different equal name: ?</p></div></figure>",
+      "alt_text": "Parts of the same number: 451, 4 hundreds + 5 tens + 1 one, A different equal name: ?"
     },
     "difficulty": 3,
-    "difficulty_tier": "reason",
-    "sequence_priority": 18,
-    "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
-    }
+    "quality_schema": "authored-v2",
+    "version": "20261015-ac9m2n02-v2",
+    "gradingMode": "adult-review",
+    "modelAnswer": "For example, 3 hundreds + 15 tens + 1 one. 300 + 150 + 1 = 451.",
+    "acceptanceNote": "Accept any equal, differently grouped non-negative whole-number name for 451 with a valid conserving explanation. Swapping digits does not meet the task. Spoken, signed, scribed or modelled reasoning is valid.",
+    "responseInstructions": "Write or say your answer. You may build with blocks or draw on paper. A grown-up checks your work after you finish.",
+    "completionLabel": "I have completed the task and shown or told a grown-up my answer."
   },
   {
-    "id": "AC9M2N02-P-019",
+    "id": "AC9M2N02-V2-P-EX01",
+    "curriculum_code": "AC9M2N02",
     "subject": "math",
     "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
     "bank": "practice",
-    "skill": "correct_regrouping_process",
-    "question": "Which trade keeps the value of 684 unchanged?",
-    "audio_prompt": "Which trade keeps the value of 684 unchanged?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
+    "strand": "Make equal exchanges",
+    "concept": "one_ten_exchange",
+    "question": "Complete both equal exchanges.",
+    "audio_prompt": "Complete both equal exchanges.",
+    "type": "fill-blank",
+    "correct": [
+      1,
+      10
+    ],
+    "answers": [],
+    "explanation": {
+      "summary": "10 ones and 1 ten have equal value. You can exchange in either direction.",
+      "hint": "The unit changes; the total must stay the same."
     },
+    "visual": {
+      "type": "html",
+      "html": "<figure class=\"n02-visual\"><figcaption>10 single units</figcaption><div class=\"n02-blocks\"><section class=\"n02-unit\"><h3>Hundreds</h3><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 204 52\" role=\"img\" aria-label=\"0 hundreds pieces\"></svg></section><section class=\"n02-unit\"><h3>Tens</h3><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 204 52\" role=\"img\" aria-label=\"0 tens pieces\"></svg></section><section class=\"n02-unit\"><h3>Ones</h3><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 204 76\" role=\"img\" aria-label=\"10 ones pieces\"><rect data-unit=\"one\" x=\"15\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"38\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"61\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"84\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"107\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"130\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"153\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"176\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"15\" y=\"40\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"38\" y=\"40\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/></svg></section></div><p class=\"n02-key\">Hundred flat = 100 · Ten rod = 10 · One cube = 1</p></figure>",
+      "alt_text": "10 single units: 0 hundred flats, 0 ten rods, 10 one cubes."
+    },
+    "difficulty": 1,
+    "quality_schema": "authored-v2",
+    "version": "20261015-ac9m2n02-v2",
+    "template": "10 ones = {{blank}} ten. 1 ten = {{blank}} ones.",
+    "acceptedAnswers": [
+      [
+        "1"
+      ],
+      [
+        "10"
+      ]
+    ]
+  },
+  {
+    "id": "AC9M2N02-V2-P-EX02",
+    "curriculum_code": "AC9M2N02",
+    "subject": "math",
+    "year_level": "Year 2",
+    "bank": "practice",
+    "strand": "Make equal exchanges",
+    "concept": "one_hundred_exchange",
+    "question": "Complete both equal exchanges.",
+    "audio_prompt": "Complete both equal exchanges.",
+    "type": "fill-blank",
+    "correct": [
+      1,
+      10
+    ],
+    "answers": [],
+    "explanation": {
+      "summary": "10 tens make 100, so they equal 1 hundred. A hundred can be opened into 10 tens.",
+      "hint": "A ten is worth 10; a hundred is worth 100."
+    },
+    "visual": {
+      "type": "html",
+      "html": "<figure class=\"n02-visual\"><figcaption>10 ten rods</figcaption><div class=\"n02-blocks\"><section class=\"n02-unit\"><h3>Hundreds</h3><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 204 52\" role=\"img\" aria-label=\"0 hundreds pieces\"></svg></section><section class=\"n02-unit\"><h3>Tens</h3><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 204 154\" role=\"img\" aria-label=\"10 tens pieces\"><g data-unit=\"ten\"><rect x=\"12\" y=\"6\" width=\"13\" height=\"62\" fill=\"#d9eee5\" stroke=\"#205e4d\" stroke-width=\"1.4\"/><path d=\"M12 12.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 18.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 24.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 30.8h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 37.0h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 43.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 49.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 55.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 61.800000000000004h13\" stroke=\"#397b66\" stroke-width=\".7\"/></g><g data-unit=\"ten\"><rect x=\"36\" y=\"6\" width=\"13\" height=\"62\" fill=\"#d9eee5\" stroke=\"#205e4d\" stroke-width=\"1.4\"/><path d=\"M36 12.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 18.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 24.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 30.8h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 37.0h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 43.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 49.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 55.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 61.800000000000004h13\" stroke=\"#397b66\" stroke-width=\".7\"/></g><g data-unit=\"ten\"><rect x=\"60\" y=\"6\" width=\"13\" height=\"62\" fill=\"#d9eee5\" stroke=\"#205e4d\" stroke-width=\"1.4\"/><path d=\"M60 12.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 18.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 24.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 30.8h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 37.0h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 43.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 49.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 55.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 61.800000000000004h13\" stroke=\"#397b66\" stroke-width=\".7\"/></g><g data-unit=\"ten\"><rect x=\"84\" y=\"6\" width=\"13\" height=\"62\" fill=\"#d9eee5\" stroke=\"#205e4d\" stroke-width=\"1.4\"/><path d=\"M84 12.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M84 18.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M84 24.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M84 30.8h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M84 37.0h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M84 43.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M84 49.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M84 55.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M84 61.800000000000004h13\" stroke=\"#397b66\" stroke-width=\".7\"/></g><g data-unit=\"ten\"><rect x=\"108\" y=\"6\" width=\"13\" height=\"62\" fill=\"#d9eee5\" stroke=\"#205e4d\" stroke-width=\"1.4\"/><path d=\"M108 12.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M108 18.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M108 24.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M108 30.8h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M108 37.0h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M108 43.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M108 49.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M108 55.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M108 61.800000000000004h13\" stroke=\"#397b66\" stroke-width=\".7\"/></g><g data-unit=\"ten\"><rect x=\"132\" y=\"6\" width=\"13\" height=\"62\" fill=\"#d9eee5\" stroke=\"#205e4d\" stroke-width=\"1.4\"/><path d=\"M132 12.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M132 18.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M132 24.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M132 30.8h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M132 37.0h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M132 43.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M132 49.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M132 55.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M132 61.800000000000004h13\" stroke=\"#397b66\" stroke-width=\".7\"/></g><g data-unit=\"ten\"><rect x=\"156\" y=\"6\" width=\"13\" height=\"62\" fill=\"#d9eee5\" stroke=\"#205e4d\" stroke-width=\"1.4\"/><path d=\"M156 12.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M156 18.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M156 24.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M156 30.8h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M156 37.0h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M156 43.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M156 49.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M156 55.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M156 61.800000000000004h13\" stroke=\"#397b66\" stroke-width=\".7\"/></g><g data-unit=\"ten\"><rect x=\"180\" y=\"6\" width=\"13\" height=\"62\" fill=\"#d9eee5\" stroke=\"#205e4d\" stroke-width=\"1.4\"/><path d=\"M180 12.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M180 18.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M180 24.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M180 30.8h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M180 37.0h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M180 43.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M180 49.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M180 55.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M180 61.800000000000004h13\" stroke=\"#397b66\" stroke-width=\".7\"/></g><g data-unit=\"ten\"><rect x=\"12\" y=\"77\" width=\"13\" height=\"62\" fill=\"#d9eee5\" stroke=\"#205e4d\" stroke-width=\"1.4\"/><path d=\"M12 83.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 89.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 95.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 101.8h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 108.0h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 114.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 120.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 126.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 132.8h13\" stroke=\"#397b66\" stroke-width=\".7\"/></g><g data-unit=\"ten\"><rect x=\"36\" y=\"77\" width=\"13\" height=\"62\" fill=\"#d9eee5\" stroke=\"#205e4d\" stroke-width=\"1.4\"/><path d=\"M36 83.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 89.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 95.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 101.8h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 108.0h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 114.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 120.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 126.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 132.8h13\" stroke=\"#397b66\" stroke-width=\".7\"/></g></svg></section><section class=\"n02-unit\"><h3>Ones</h3><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 204 52\" role=\"img\" aria-label=\"0 ones pieces\"></svg></section></div><p class=\"n02-key\">Hundred flat = 100 · Ten rod = 10 · One cube = 1</p></figure>",
+      "alt_text": "10 ten rods: 0 hundred flats, 10 ten rods, 0 one cubes."
+    },
+    "difficulty": 1,
+    "quality_schema": "authored-v2",
+    "version": "20261015-ac9m2n02-v2",
+    "template": "10 tens = {{blank}} hundred. 1 hundred = {{blank}} tens.",
+    "acceptedAnswers": [
+      [
+        "1"
+      ],
+      [
+        "10"
+      ]
+    ]
+  },
+  {
+    "id": "AC9M2N02-V2-P-EX03",
+    "curriculum_code": "AC9M2N02",
+    "subject": "math",
+    "year_level": "Year 2",
+    "bank": "practice",
+    "strand": "Make equal exchanges",
+    "concept": "missing_ones",
+    "question": "Open 1 ten in 76. Complete: 76 = 6 tens + ___ ones.",
+    "audio_prompt": "Open 1 ten in 76. Complete: 76 = 6 tens + ___ ones.",
+    "type": "number",
+    "correct": 16,
+    "answers": [],
+    "explanation": {
+      "summary": "7 tens become 6 tens and 10 ones. Join the 6 ones: 16 ones.",
+      "hint": "Keep the original loose ones after the exchange."
+    },
+    "visual": {
+      "type": "html",
+      "html": "<figure class=\"n02-visual\"><figcaption>Parts of the same number</figcaption><div class=\"n02-parts\"><p>7 tens + 6 ones</p><p>6 tens + ? ones</p></div></figure>",
+      "alt_text": "Parts of the same number: 7 tens + 6 ones, 6 tens + ? ones"
+    },
+    "difficulty": 2,
+    "quality_schema": "authored-v2",
+    "version": "20261015-ac9m2n02-v2"
+  },
+  {
+    "id": "AC9M2N02-V2-P-EX04",
+    "curriculum_code": "AC9M2N02",
+    "subject": "math",
+    "year_level": "Year 2",
+    "bank": "practice",
+    "strand": "Make equal exchanges",
+    "concept": "missing_tens",
+    "question": "A model has 2 hundreds, 6 tens and 7 ones. Open 1 hundred into tens. How many tens will the new model have?",
+    "audio_prompt": "A model has 2 hundreds, 6 tens and 7 ones. Open 1 hundred into tens. How many tens will the new model have?",
+    "type": "number",
+    "correct": 16,
+    "answers": [],
+    "explanation": {
+      "summary": "Opening 1 hundred gives 10 tens. The 6 tens already there remain: 16 tens.",
+      "hint": "Add the new tens to the tens already there."
+    },
+    "visual": {
+      "type": "html",
+      "html": "<figure class=\"n02-visual\"><figcaption>Base-ten model</figcaption><div class=\"n02-blocks\"><section class=\"n02-unit\"><h3>Hundreds</h3><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 204 77\" role=\"img\" aria-label=\"2 hundreds pieces\"><g data-unit=\"hundred\"><rect x=\"12\" y=\"6\" width=\"55\" height=\"55\" fill=\"#d9ecef\" stroke=\"#1d5864\" stroke-width=\"1.5\"/><path d=\"M17.5 6v55 M12 11.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M23.0 6v55 M12 17.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M28.5 6v55 M12 22.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M34.0 6v55 M12 28.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M39.5 6v55 M12 33.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M45.0 6v55 M12 39.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M50.5 6v55 M12 44.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M56.0 6v55 M12 50.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M61.5 6v55 M12 55.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/></g><g data-unit=\"hundred\"><rect x=\"75\" y=\"6\" width=\"55\" height=\"55\" fill=\"#d9ecef\" stroke=\"#1d5864\" stroke-width=\"1.5\"/><path d=\"M80.5 6v55 M75 11.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M86.0 6v55 M75 17.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M91.5 6v55 M75 22.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M97.0 6v55 M75 28.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M102.5 6v55 M75 33.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M108.0 6v55 M75 39.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M113.5 6v55 M75 44.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M119.0 6v55 M75 50.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M124.5 6v55 M75 55.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/></g></svg></section><section class=\"n02-unit\"><h3>Tens</h3><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 204 83\" role=\"img\" aria-label=\"6 tens pieces\"><g data-unit=\"ten\"><rect x=\"12\" y=\"6\" width=\"13\" height=\"62\" fill=\"#d9eee5\" stroke=\"#205e4d\" stroke-width=\"1.4\"/><path d=\"M12 12.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 18.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 24.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 30.8h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 37.0h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 43.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 49.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 55.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 61.800000000000004h13\" stroke=\"#397b66\" stroke-width=\".7\"/></g><g data-unit=\"ten\"><rect x=\"36\" y=\"6\" width=\"13\" height=\"62\" fill=\"#d9eee5\" stroke=\"#205e4d\" stroke-width=\"1.4\"/><path d=\"M36 12.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 18.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 24.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 30.8h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 37.0h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 43.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 49.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 55.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 61.800000000000004h13\" stroke=\"#397b66\" stroke-width=\".7\"/></g><g data-unit=\"ten\"><rect x=\"60\" y=\"6\" width=\"13\" height=\"62\" fill=\"#d9eee5\" stroke=\"#205e4d\" stroke-width=\"1.4\"/><path d=\"M60 12.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 18.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 24.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 30.8h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 37.0h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 43.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 49.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 55.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 61.800000000000004h13\" stroke=\"#397b66\" stroke-width=\".7\"/></g><g data-unit=\"ten\"><rect x=\"84\" y=\"6\" width=\"13\" height=\"62\" fill=\"#d9eee5\" stroke=\"#205e4d\" stroke-width=\"1.4\"/><path d=\"M84 12.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M84 18.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M84 24.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M84 30.8h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M84 37.0h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M84 43.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M84 49.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M84 55.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M84 61.800000000000004h13\" stroke=\"#397b66\" stroke-width=\".7\"/></g><g data-unit=\"ten\"><rect x=\"108\" y=\"6\" width=\"13\" height=\"62\" fill=\"#d9eee5\" stroke=\"#205e4d\" stroke-width=\"1.4\"/><path d=\"M108 12.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M108 18.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M108 24.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M108 30.8h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M108 37.0h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M108 43.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M108 49.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M108 55.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M108 61.800000000000004h13\" stroke=\"#397b66\" stroke-width=\".7\"/></g><g data-unit=\"ten\"><rect x=\"132\" y=\"6\" width=\"13\" height=\"62\" fill=\"#d9eee5\" stroke=\"#205e4d\" stroke-width=\"1.4\"/><path d=\"M132 12.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M132 18.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M132 24.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M132 30.8h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M132 37.0h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M132 43.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M132 49.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M132 55.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M132 61.800000000000004h13\" stroke=\"#397b66\" stroke-width=\".7\"/></g></svg></section><section class=\"n02-unit\"><h3>Ones</h3><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 204 52\" role=\"img\" aria-label=\"7 ones pieces\"><rect data-unit=\"one\" x=\"15\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"38\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"61\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"84\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"107\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"130\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"153\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/></svg></section></div><p class=\"n02-key\">Hundred flat = 100 · Ten rod = 10 · One cube = 1</p></figure>",
+      "alt_text": "Base-ten model: 2 hundred flats, 6 ten rods, 7 one cubes."
+    },
+    "difficulty": 2,
+    "quality_schema": "authored-v2",
+    "version": "20261015-ac9m2n02-v2"
+  },
+  {
+    "id": "AC9M2N02-V2-P-EX05",
+    "curriculum_code": "AC9M2N02",
+    "subject": "math",
+    "year_level": "Year 2",
+    "bank": "practice",
+    "strand": "Make equal exchanges",
+    "concept": "nonstandard_to_standard",
+    "question": "Regroup 2 hundreds, 14 tens and 3 ones into the usual hundreds, tens and ones.",
+    "audio_prompt": "Regroup 2 hundreds, 14 tens and 3 ones into the usual hundreds, tens and ones.",
+    "type": "fill-blank",
+    "correct": [
+      3,
+      4,
+      3
+    ],
+    "answers": [],
+    "explanation": {
+      "summary": "14 tens are 1 hundred and 4 tens. With the 2 hundreds already there, the result is 3 hundreds, 4 tens and 3 ones.",
+      "hint": "Each usual place has fewer than 10 pieces."
+    },
+    "visual": {
+      "type": "html",
+      "html": "<figure class=\"n02-visual\"><figcaption>Before regrouping</figcaption><table class=\"n02-chart\"><thead><tr><th>Hundreds</th><th>Tens</th><th>Ones</th></tr></thead><tbody><tr><td>2</td><td>14</td><td>3</td></tr></tbody></table></figure>",
+      "alt_text": "Before regrouping: 2, 14, 3"
+    },
+    "difficulty": 2,
+    "quality_schema": "authored-v2",
+    "version": "20261015-ac9m2n02-v2",
+    "template": "{{blank}} hundreds, {{blank}} tens, {{blank}} ones.",
+    "acceptedAnswers": [
+      [
+        "3"
+      ],
+      [
+        "4"
+      ],
+      [
+        "3"
+      ]
+    ]
+  },
+  {
+    "id": "AC9M2N02-V2-P-EX06",
+    "curriculum_code": "AC9M2N02",
+    "subject": "math",
+    "year_level": "Year 2",
+    "bank": "practice",
+    "strand": "Make equal exchanges",
+    "concept": "missing_part",
+    "question": "Complete the equal name: 586 = 4 hundreds + ___ tens + 6 ones.",
+    "audio_prompt": "Complete the equal name: 586 = 4 hundreds + ___ tens + 6 ones.",
+    "type": "number",
+    "correct": 18,
+    "answers": [],
+    "explanation": {
+      "summary": "586 = 400 + 180 + 6, so the missing count is 18 tens.",
+      "hint": "Work with the value of the missing units."
+    },
+    "visual": {
+      "type": "html",
+      "html": "<figure class=\"n02-visual\"><figcaption>Parts of the same number</figcaption><div class=\"n02-parts\"><p>586</p><p>4 hundreds + ? tens + 6 ones</p></div></figure>",
+      "alt_text": "Parts of the same number: 586, 4 hundreds + ? tens + 6 ones"
+    },
+    "difficulty": 2,
+    "quality_schema": "authored-v2",
+    "version": "20261015-ac9m2n02-v2"
+  },
+  {
+    "id": "AC9M2N02-V2-P-EX07",
+    "curriculum_code": "AC9M2N02",
+    "subject": "math",
+    "year_level": "Year 2",
+    "bank": "practice",
+    "strand": "Make equal exchanges",
+    "concept": "combined_exchanges",
+    "question": "A model has 2 hundreds, 9 tens and 24 ones. Make every place have fewer than 10 pieces.",
+    "audio_prompt": "A model has 2 hundreds, 9 tens and 24 ones. Make every place have fewer than 10 pieces.",
+    "type": "fill-blank",
+    "correct": [
+      3,
+      1,
+      4
+    ],
+    "answers": [],
+    "explanation": {
+      "summary": "24 ones become 2 tens and 4 ones. Now 11 tens become 1 hundred and 1 ten. The result is 3 hundreds, 1 ten and 4 ones.",
+      "hint": "Regroup the ones, then check the tens again."
+    },
+    "visual": {
+      "type": "html",
+      "html": "<figure class=\"n02-visual\"><figcaption>Before regrouping</figcaption><table class=\"n02-chart\"><thead><tr><th>Hundreds</th><th>Tens</th><th>Ones</th></tr></thead><tbody><tr><td>2</td><td>9</td><td>24</td></tr></tbody></table></figure>",
+      "alt_text": "Before regrouping: 2, 9, 24"
+    },
+    "difficulty": 3,
+    "quality_schema": "authored-v2",
+    "version": "20261015-ac9m2n02-v2",
+    "template": "{{blank}} hundreds, {{blank}} tens, {{blank}} ones.",
+    "acceptedAnswers": [
+      [
+        "3"
+      ],
+      [
+        "1"
+      ],
+      [
+        "4"
+      ]
+    ]
+  },
+  {
+    "id": "AC9M2N02-V2-P-EX08",
+    "curriculum_code": "AC9M2N02",
+    "subject": "math",
+    "year_level": "Year 2",
+    "bank": "practice",
+    "strand": "Make equal exchanges",
+    "concept": "check_conservation",
+    "question": "There are 684 counters. Which trade keeps the total at 684?",
+    "audio_prompt": "There are 684 counters. Which trade keeps the total at 684?",
+    "type": "single",
+    "correct": 2,
     "answers": [
-      {
-        "text": "Trade 1 hundred for 10 tens",
-        "is_correct": true
-      },
-      {
-        "text": "Trade 1 hundred for 100 tens",
-        "is_correct": false
-      },
       {
         "text": "Trade 1 ten for 1 one",
         "is_correct": false
+      },
+      {
+        "text": "Trade 1 hundred for 10 ones",
+        "is_correct": false
+      },
+      {
+        "text": "Trade 1 hundred for 10 tens",
+        "is_correct": true
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "One hundred and 10 tens have equal value.",
-      "hint": "A valid trade must exchange equal amounts."
+      "summary": "Trading 1 hundred for 10 tens exchanges 100 for 100.",
+      "hint": "Check the value of what leaves and what replaces it."
+    },
+    "visual": {
+      "type": "html",
+      "html": "<figure class=\"n02-visual\"><figcaption>Starting collection</figcaption><div class=\"n02-blocks\"><section class=\"n02-unit\"><h3>Hundreds</h3><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 204 142\" role=\"img\" aria-label=\"6 hundreds pieces\"><g data-unit=\"hundred\"><rect x=\"12\" y=\"6\" width=\"55\" height=\"55\" fill=\"#d9ecef\" stroke=\"#1d5864\" stroke-width=\"1.5\"/><path d=\"M17.5 6v55 M12 11.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M23.0 6v55 M12 17.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M28.5 6v55 M12 22.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M34.0 6v55 M12 28.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M39.5 6v55 M12 33.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M45.0 6v55 M12 39.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M50.5 6v55 M12 44.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M56.0 6v55 M12 50.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M61.5 6v55 M12 55.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/></g><g data-unit=\"hundred\"><rect x=\"75\" y=\"6\" width=\"55\" height=\"55\" fill=\"#d9ecef\" stroke=\"#1d5864\" stroke-width=\"1.5\"/><path d=\"M80.5 6v55 M75 11.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M86.0 6v55 M75 17.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M91.5 6v55 M75 22.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M97.0 6v55 M75 28.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M102.5 6v55 M75 33.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M108.0 6v55 M75 39.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M113.5 6v55 M75 44.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M119.0 6v55 M75 50.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M124.5 6v55 M75 55.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/></g><g data-unit=\"hundred\"><rect x=\"138\" y=\"6\" width=\"55\" height=\"55\" fill=\"#d9ecef\" stroke=\"#1d5864\" stroke-width=\"1.5\"/><path d=\"M143.5 6v55 M138 11.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M149.0 6v55 M138 17.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M154.5 6v55 M138 22.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M160.0 6v55 M138 28.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M165.5 6v55 M138 33.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M171.0 6v55 M138 39.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M176.5 6v55 M138 44.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M182.0 6v55 M138 50.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M187.5 6v55 M138 55.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/></g><g data-unit=\"hundred\"><rect x=\"12\" y=\"71\" width=\"55\" height=\"55\" fill=\"#d9ecef\" stroke=\"#1d5864\" stroke-width=\"1.5\"/><path d=\"M17.5 71v55 M12 76.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M23.0 71v55 M12 82.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M28.5 71v55 M12 87.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M34.0 71v55 M12 93.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M39.5 71v55 M12 98.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M45.0 71v55 M12 104.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M50.5 71v55 M12 109.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M56.0 71v55 M12 115.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M61.5 71v55 M12 120.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/></g><g data-unit=\"hundred\"><rect x=\"75\" y=\"71\" width=\"55\" height=\"55\" fill=\"#d9ecef\" stroke=\"#1d5864\" stroke-width=\"1.5\"/><path d=\"M80.5 71v55 M75 76.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M86.0 71v55 M75 82.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M91.5 71v55 M75 87.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M97.0 71v55 M75 93.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M102.5 71v55 M75 98.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M108.0 71v55 M75 104.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M113.5 71v55 M75 109.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M119.0 71v55 M75 115.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M124.5 71v55 M75 120.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/></g><g data-unit=\"hundred\"><rect x=\"138\" y=\"71\" width=\"55\" height=\"55\" fill=\"#d9ecef\" stroke=\"#1d5864\" stroke-width=\"1.5\"/><path d=\"M143.5 71v55 M138 76.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M149.0 71v55 M138 82.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M154.5 71v55 M138 87.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M160.0 71v55 M138 93.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M165.5 71v55 M138 98.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M171.0 71v55 M138 104.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M176.5 71v55 M138 109.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M182.0 71v55 M138 115.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M187.5 71v55 M138 120.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/></g></svg></section><section class=\"n02-unit\"><h3>Tens</h3><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 204 83\" role=\"img\" aria-label=\"8 tens pieces\"><g data-unit=\"ten\"><rect x=\"12\" y=\"6\" width=\"13\" height=\"62\" fill=\"#d9eee5\" stroke=\"#205e4d\" stroke-width=\"1.4\"/><path d=\"M12 12.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 18.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 24.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 30.8h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 37.0h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 43.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 49.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 55.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 61.800000000000004h13\" stroke=\"#397b66\" stroke-width=\".7\"/></g><g data-unit=\"ten\"><rect x=\"36\" y=\"6\" width=\"13\" height=\"62\" fill=\"#d9eee5\" stroke=\"#205e4d\" stroke-width=\"1.4\"/><path d=\"M36 12.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 18.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 24.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 30.8h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 37.0h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 43.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 49.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 55.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 61.800000000000004h13\" stroke=\"#397b66\" stroke-width=\".7\"/></g><g data-unit=\"ten\"><rect x=\"60\" y=\"6\" width=\"13\" height=\"62\" fill=\"#d9eee5\" stroke=\"#205e4d\" stroke-width=\"1.4\"/><path d=\"M60 12.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 18.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 24.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 30.8h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 37.0h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 43.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 49.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 55.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 61.800000000000004h13\" stroke=\"#397b66\" stroke-width=\".7\"/></g><g data-unit=\"ten\"><rect x=\"84\" y=\"6\" width=\"13\" height=\"62\" fill=\"#d9eee5\" stroke=\"#205e4d\" stroke-width=\"1.4\"/><path d=\"M84 12.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M84 18.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M84 24.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M84 30.8h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M84 37.0h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M84 43.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M84 49.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M84 55.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M84 61.800000000000004h13\" stroke=\"#397b66\" stroke-width=\".7\"/></g><g data-unit=\"ten\"><rect x=\"108\" y=\"6\" width=\"13\" height=\"62\" fill=\"#d9eee5\" stroke=\"#205e4d\" stroke-width=\"1.4\"/><path d=\"M108 12.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M108 18.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M108 24.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M108 30.8h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M108 37.0h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M108 43.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M108 49.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M108 55.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M108 61.800000000000004h13\" stroke=\"#397b66\" stroke-width=\".7\"/></g><g data-unit=\"ten\"><rect x=\"132\" y=\"6\" width=\"13\" height=\"62\" fill=\"#d9eee5\" stroke=\"#205e4d\" stroke-width=\"1.4\"/><path d=\"M132 12.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M132 18.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M132 24.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M132 30.8h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M132 37.0h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M132 43.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M132 49.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M132 55.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M132 61.800000000000004h13\" stroke=\"#397b66\" stroke-width=\".7\"/></g><g data-unit=\"ten\"><rect x=\"156\" y=\"6\" width=\"13\" height=\"62\" fill=\"#d9eee5\" stroke=\"#205e4d\" stroke-width=\"1.4\"/><path d=\"M156 12.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M156 18.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M156 24.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M156 30.8h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M156 37.0h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M156 43.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M156 49.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M156 55.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M156 61.800000000000004h13\" stroke=\"#397b66\" stroke-width=\".7\"/></g><g data-unit=\"ten\"><rect x=\"180\" y=\"6\" width=\"13\" height=\"62\" fill=\"#d9eee5\" stroke=\"#205e4d\" stroke-width=\"1.4\"/><path d=\"M180 12.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M180 18.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M180 24.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M180 30.8h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M180 37.0h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M180 43.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M180 49.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M180 55.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M180 61.800000000000004h13\" stroke=\"#397b66\" stroke-width=\".7\"/></g></svg></section><section class=\"n02-unit\"><h3>Ones</h3><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 204 52\" role=\"img\" aria-label=\"4 ones pieces\"><rect data-unit=\"one\" x=\"15\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"38\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"61\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"84\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/></svg></section></div><p class=\"n02-key\">Hundred flat = 100 · Ten rod = 10 · One cube = 1</p></figure>",
+      "alt_text": "Starting collection: 6 hundred flats, 8 ten rods, 4 one cubes."
     },
     "difficulty": 3,
-    "difficulty_tier": "reason",
-    "sequence_priority": 19,
-    "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
-    }
+    "quality_schema": "authored-v2",
+    "version": "20261015-ac9m2n02-v2"
   },
   {
-    "id": "AC9M2N02-P-020",
+    "id": "AC9M2N02-V2-P-EX09",
+    "curriculum_code": "AC9M2N02",
     "subject": "math",
     "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
     "bank": "practice",
-    "skill": "diagnose_regrouping_error",
-    "question": "Mia writes 347 = 2 hundreds + 14 tens + 7 ones. What should be corrected?",
-    "audio_prompt": "Mia writes 347 = 2 hundreds + 14 tens + 7 ones. What should be corrected?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Use 13 tens instead of 14 tens",
-        "is_correct": false
-      },
-      {
-        "text": "Nothing; both sides equal 347",
-        "is_correct": true
-      },
-      {
-        "text": "Use 3 hundreds instead of 2 hundreds and keep 14 tens",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
+    "strand": "Make equal exchanges",
+    "concept": "diagnose_unequal_exchange",
+    "question": "Ella has 57 sticks. She renames them as 4 tens and 8 ones. Is her new name equal to 57? Explain, then fix it.",
+    "audio_prompt": "Ella has 57 sticks. She renames them as 4 tens and 8 ones. Is her new name equal to 57? Explain, then fix it.",
+    "type": "self-check",
+    "correct": "No. 4 tens and 8 ones make 48. With 4 tens, she needs 17 ones to keep 57.",
+    "answers": [],
     "explanation": {
-      "summary": "2 hundreds + 14 tens + 7 ones = 200 + 140 + 7 = 347.",
-      "hint": "Add the values before deciding there is an error."
+      "summary": "57 = 5 tens and 7 ones = 4 tens and 17 ones.",
+      "hint": "Check both totals before deciding whether a trade is equal."
+    },
+    "visual": {
+      "type": "html",
+      "html": "<figure class=\"n02-visual\"><figcaption>Check the two amounts</figcaption><div class=\"n02-parts\"><p>57 sticks</p><p>Ella: 4 tens + 8 ones</p></div></figure>",
+      "alt_text": "Check the two amounts: 57 sticks, Ella: 4 tens + 8 ones"
     },
     "difficulty": 3,
-    "difficulty_tier": "reason",
-    "sequence_priority": 20,
-    "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
-    }
+    "quality_schema": "authored-v2",
+    "version": "20261015-ac9m2n02-v2",
+    "gradingMode": "adult-review",
+    "modelAnswer": "No. 4 tens and 8 ones make 48. With 4 tens, she needs 17 ones to keep 57.",
+    "acceptanceNote": "Require recognition that 48 is not 57 and an equal correction, such as 4T17O or 5T7O. Accept any valid correction with total 57 and a value-based explanation. Do not award for only saying no.",
+    "responseInstructions": "Write or say your answer. You may build with blocks or draw on paper. A grown-up checks your work after you finish.",
+    "completionLabel": "I have completed the task and shown or told a grown-up my answer."
   },
   {
-    "id": "AC9M2N02-P-021",
+    "id": "AC9M2N02-V2-P-EX10",
+    "curriculum_code": "AC9M2N02",
     "subject": "math",
     "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
     "bank": "practice",
-    "skill": "partition_with_constraints",
-    "question": "Which partition of 615 uses no hundreds?",
-    "audio_prompt": "Which partition of 615 uses no hundreds?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "6 tens + 15 ones",
-        "is_correct": false
-      },
-      {
-        "text": "60 tens + 5 ones",
-        "is_correct": false
-      },
-      {
-        "text": "61 tens + 5 ones",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "strand": "Make equal exchanges",
+    "concept": "context_exchange",
+    "question": "A class packs 246 pencils. A box holds 100 and a bundle holds 10. There is 1 box, 14 bundles and 6 loose pencils. Make a new packing with fewer than 10 bundles. Explain your exchange.",
+    "audio_prompt": "A class packs 246 pencils. A box holds 100 and a bundle holds 10. There is 1 box, 14 bundles and 6 loose pencils. Make a new packing with fewer than 10 bundles. Explain your exchange.",
+    "type": "self-check",
+    "correct": "Exchange 10 bundles for 1 box. The new packing is 2 boxes, 4 bundles and 6 loose pencils, still 246.",
+    "answers": [],
     "explanation": {
-      "summary": "61 tens is 610; plus 5 ones makes 615.",
-      "hint": "Convert hundreds into tens."
+      "summary": "10 bundles of 10 equal one box of 100.",
+      "hint": "Keep all the pencils while changing the packing."
+    },
+    "visual": {
+      "type": "html",
+      "html": "<figure class=\"n02-visual\"><figcaption>Boxes of 100 / bundles of 10 / loose pencils</figcaption><table class=\"n02-chart\"><thead><tr><th>Hundreds</th><th>Tens</th><th>Ones</th></tr></thead><tbody><tr><td>1</td><td>14</td><td>6</td></tr></tbody></table></figure>",
+      "alt_text": "Boxes of 100 / bundles of 10 / loose pencils: 1, 14, 6"
     },
     "difficulty": 3,
-    "difficulty_tier": "reason",
-    "sequence_priority": 21,
-    "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
-    }
+    "quality_schema": "authored-v2",
+    "version": "20261015-ac9m2n02-v2",
+    "gradingMode": "adult-review",
+    "modelAnswer": "Exchange 10 bundles for 1 box. The new packing is 2 boxes, 4 bundles and 6 loose pencils, still 246.",
+    "acceptanceNote": "Require a valid packing worth 246 with fewer than 10 bundles, including explanation of an equal exchange. 2 boxes/4 bundles/6 loose is the usual result. Accept other valid equal packings meeting the stated condition.",
+    "responseInstructions": "Write or say your answer. You may build with blocks or draw on paper. A grown-up checks your work after you finish.",
+    "completionLabel": "I have completed the task and shown or told a grown-up my answer."
   },
   {
-    "id": "AC9M2N02-P-022",
+    "id": "AC9M2N02-V2-P-ZR01",
+    "curriculum_code": "AC9M2N02",
     "subject": "math",
     "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
     "bank": "practice",
-    "skill": "choose_all_standard_digits",
-    "question": "Regroup 7 hundreds + 3 tens + 26 ones so every place has a digit from 0 to 9.",
-    "audio_prompt": "Regroup 7 hundreds + 3 tens + 26 ones so every place has a digit from 0 to 9.",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "7 hundreds + 5 tens + 6 ones",
-        "is_correct": true
-      },
-      {
-        "text": "7 hundreds + 3 tens + 16 ones",
-        "is_correct": false
-      },
-      {
-        "text": "8 hundreds + 5 tens + 6 ones",
-        "is_correct": false
-      }
+    "strand": "Explain zero’s role",
+    "concept": "internal_zero",
+    "question": "Read the model into its usual hundreds, tens and ones. Write its number.",
+    "audio_prompt": "Read the model into its usual hundreds, tens and ones. Write its number.",
+    "type": "fill-blank",
+    "correct": [
+      4,
+      0,
+      6,
+      406
     ],
-    "correct_index": 0,
+    "answers": [],
     "explanation": {
-      "summary": "26 ones become 2 tens and 6 ones, so the standard form is 756.",
-      "hint": "Trade groups of 10 ones."
+      "summary": "4 hundreds, no separate tens and 6 ones are written 406.",
+      "hint": "Keep the empty tens place when writing the numeral."
     },
-    "difficulty": 3,
-    "difficulty_tier": "reason",
-    "sequence_priority": 22,
-    "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
-    }
-  },
-  {
-    "id": "AC9M2N02-P-023",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
-    "bank": "practice",
-    "skill": "inverse_rename",
-    "question": "How many hundreds can be made from 900 ones?",
-    "audio_prompt": "How many hundreds can be made from 900 ones?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "90",
-        "is_correct": false
-      },
-      {
-        "text": "9",
-        "is_correct": true
-      },
-      {
-        "text": "900",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Every 100 ones makes 1 hundred, so 900 ones make 9 hundreds.",
-      "hint": "Group the ones into sets of 100."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "reason",
-    "sequence_priority": 23,
-    "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
-    }
-  },
-  {
-    "id": "AC9M2N02-P-024",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
-    "bank": "practice",
-    "skill": "reason_about_zero",
-    "question": "A number has 8 hundreds and 7 ones. Why must its numeral include a zero?",
-    "audio_prompt": "A number has 8 hundreds and 7 ones. Why must its numeral include a zero?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "All three-digit numbers need a zero",
-        "is_correct": false
-      },
-      {
-        "text": "The zero shows 7 tens",
-        "is_correct": false
-      },
-      {
-        "text": "The zero shows the empty tens place",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Without the zero, 87 would mean 8 tens and 7 ones; 807 needs 0 tens.",
-      "hint": "Ask which place has no groups."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "reason",
-    "sequence_priority": 24,
-    "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
-    }
-  },
-  {
-    "id": "AC9M2N02-T-001",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
-    "bank": "test",
-    "skill": "standard_partition",
-    "question": "Which partition equals 639?",
-    "audio_prompt": "Which partition equals 639?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "6 hundreds + 3 tens + 9 ones",
-        "is_correct": true
-      },
-      {
-        "text": "6 hundreds + 9 tens + 3 ones",
-        "is_correct": false
-      },
-      {
-        "text": "63 hundreds + 9 ones",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "639 has 6 hundreds, 3 tens and 9 ones.",
-      "hint": "Match digits to places."
+      "type": "html",
+      "html": "<figure class=\"n02-visual\"><figcaption>Base-ten model</figcaption><div class=\"n02-blocks\"><section class=\"n02-unit\"><h3>Hundreds</h3><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 204 142\" role=\"img\" aria-label=\"4 hundreds pieces\"><g data-unit=\"hundred\"><rect x=\"12\" y=\"6\" width=\"55\" height=\"55\" fill=\"#d9ecef\" stroke=\"#1d5864\" stroke-width=\"1.5\"/><path d=\"M17.5 6v55 M12 11.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M23.0 6v55 M12 17.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M28.5 6v55 M12 22.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M34.0 6v55 M12 28.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M39.5 6v55 M12 33.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M45.0 6v55 M12 39.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M50.5 6v55 M12 44.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M56.0 6v55 M12 50.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M61.5 6v55 M12 55.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/></g><g data-unit=\"hundred\"><rect x=\"75\" y=\"6\" width=\"55\" height=\"55\" fill=\"#d9ecef\" stroke=\"#1d5864\" stroke-width=\"1.5\"/><path d=\"M80.5 6v55 M75 11.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M86.0 6v55 M75 17.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M91.5 6v55 M75 22.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M97.0 6v55 M75 28.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M102.5 6v55 M75 33.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M108.0 6v55 M75 39.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M113.5 6v55 M75 44.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M119.0 6v55 M75 50.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M124.5 6v55 M75 55.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/></g><g data-unit=\"hundred\"><rect x=\"138\" y=\"6\" width=\"55\" height=\"55\" fill=\"#d9ecef\" stroke=\"#1d5864\" stroke-width=\"1.5\"/><path d=\"M143.5 6v55 M138 11.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M149.0 6v55 M138 17.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M154.5 6v55 M138 22.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M160.0 6v55 M138 28.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M165.5 6v55 M138 33.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M171.0 6v55 M138 39.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M176.5 6v55 M138 44.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M182.0 6v55 M138 50.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M187.5 6v55 M138 55.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/></g><g data-unit=\"hundred\"><rect x=\"12\" y=\"71\" width=\"55\" height=\"55\" fill=\"#d9ecef\" stroke=\"#1d5864\" stroke-width=\"1.5\"/><path d=\"M17.5 71v55 M12 76.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M23.0 71v55 M12 82.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M28.5 71v55 M12 87.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M34.0 71v55 M12 93.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M39.5 71v55 M12 98.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M45.0 71v55 M12 104.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M50.5 71v55 M12 109.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M56.0 71v55 M12 115.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M61.5 71v55 M12 120.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/></g></svg></section><section class=\"n02-unit\"><h3>Tens</h3><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 204 52\" role=\"img\" aria-label=\"0 tens pieces\"></svg></section><section class=\"n02-unit\"><h3>Ones</h3><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 204 52\" role=\"img\" aria-label=\"6 ones pieces\"><rect data-unit=\"one\" x=\"15\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"38\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"61\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"84\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"107\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"130\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/></svg></section></div><p class=\"n02-key\">Hundred flat = 100 · Ten rod = 10 · One cube = 1</p></figure>",
+      "alt_text": "Base-ten model: 4 hundred flats, 0 ten rods, 6 one cubes."
     },
     "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "sequence_priority": 1,
-    "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
-    }
+    "quality_schema": "authored-v2",
+    "version": "20261015-ac9m2n02-v2",
+    "template": "{{blank}} hundreds, {{blank}} tens, {{blank}} ones: {{blank}}.",
+    "acceptedAnswers": [
+      [
+        "4"
+      ],
+      [
+        "0"
+      ],
+      [
+        "6"
+      ],
+      [
+        "406"
+      ]
+    ]
   },
   {
-    "id": "AC9M2N02-T-002",
+    "id": "AC9M2N02-V2-P-ZR02",
+    "curriculum_code": "AC9M2N02",
     "subject": "math",
     "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
-    "bank": "test",
-    "skill": "value_of_digit",
-    "question": "What is the value of the 7 in 275?",
-    "audio_prompt": "What is the value of the 7 in 275?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "7",
-        "is_correct": false
-      },
-      {
-        "text": "70",
-        "is_correct": true
-      },
-      {
-        "text": "700",
-        "is_correct": false
-      }
+    "bank": "practice",
+    "strand": "Explain zero’s role",
+    "concept": "trailing_zero",
+    "question": "Read the model. Complete its usual place-value name.",
+    "audio_prompt": "Read the model. Complete its usual place-value name.",
+    "type": "fill-blank",
+    "correct": [
+      3,
+      2,
+      0
     ],
-    "correct_index": 1,
+    "answers": [],
     "explanation": {
-      "summary": "The 7 is in the tens place, so it is worth 70.",
-      "hint": "Use the digit's place."
+      "summary": "The model has 3 hundreds and 2 tens, with no loose ones: 320.",
+      "hint": "An empty ones place is recorded as zero."
+    },
+    "visual": {
+      "type": "html",
+      "html": "<figure class=\"n02-visual\"><figcaption>Base-ten model</figcaption><div class=\"n02-blocks\"><section class=\"n02-unit\"><h3>Hundreds</h3><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 204 77\" role=\"img\" aria-label=\"3 hundreds pieces\"><g data-unit=\"hundred\"><rect x=\"12\" y=\"6\" width=\"55\" height=\"55\" fill=\"#d9ecef\" stroke=\"#1d5864\" stroke-width=\"1.5\"/><path d=\"M17.5 6v55 M12 11.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M23.0 6v55 M12 17.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M28.5 6v55 M12 22.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M34.0 6v55 M12 28.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M39.5 6v55 M12 33.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M45.0 6v55 M12 39.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M50.5 6v55 M12 44.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M56.0 6v55 M12 50.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M61.5 6v55 M12 55.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/></g><g data-unit=\"hundred\"><rect x=\"75\" y=\"6\" width=\"55\" height=\"55\" fill=\"#d9ecef\" stroke=\"#1d5864\" stroke-width=\"1.5\"/><path d=\"M80.5 6v55 M75 11.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M86.0 6v55 M75 17.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M91.5 6v55 M75 22.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M97.0 6v55 M75 28.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M102.5 6v55 M75 33.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M108.0 6v55 M75 39.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M113.5 6v55 M75 44.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M119.0 6v55 M75 50.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M124.5 6v55 M75 55.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/></g><g data-unit=\"hundred\"><rect x=\"138\" y=\"6\" width=\"55\" height=\"55\" fill=\"#d9ecef\" stroke=\"#1d5864\" stroke-width=\"1.5\"/><path d=\"M143.5 6v55 M138 11.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M149.0 6v55 M138 17.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M154.5 6v55 M138 22.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M160.0 6v55 M138 28.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M165.5 6v55 M138 33.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M171.0 6v55 M138 39.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M176.5 6v55 M138 44.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M182.0 6v55 M138 50.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M187.5 6v55 M138 55.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/></g></svg></section><section class=\"n02-unit\"><h3>Tens</h3><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 204 83\" role=\"img\" aria-label=\"2 tens pieces\"><g data-unit=\"ten\"><rect x=\"12\" y=\"6\" width=\"13\" height=\"62\" fill=\"#d9eee5\" stroke=\"#205e4d\" stroke-width=\"1.4\"/><path d=\"M12 12.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 18.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 24.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 30.8h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 37.0h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 43.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 49.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 55.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 61.800000000000004h13\" stroke=\"#397b66\" stroke-width=\".7\"/></g><g data-unit=\"ten\"><rect x=\"36\" y=\"6\" width=\"13\" height=\"62\" fill=\"#d9eee5\" stroke=\"#205e4d\" stroke-width=\"1.4\"/><path d=\"M36 12.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 18.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 24.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 30.8h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 37.0h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 43.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 49.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 55.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 61.800000000000004h13\" stroke=\"#397b66\" stroke-width=\".7\"/></g></svg></section><section class=\"n02-unit\"><h3>Ones</h3><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 204 52\" role=\"img\" aria-label=\"0 ones pieces\"></svg></section></div><p class=\"n02-key\">Hundred flat = 100 · Ten rod = 10 · One cube = 1</p></figure>",
+      "alt_text": "Base-ten model: 3 hundred flats, 2 ten rods, 0 one cubes."
     },
     "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "sequence_priority": 2,
-    "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
-    }
+    "quality_schema": "authored-v2",
+    "version": "20261015-ac9m2n02-v2",
+    "template": "320 = {{blank}} hundreds + {{blank}} tens + {{blank}} ones.",
+    "acceptedAnswers": [
+      [
+        "3"
+      ],
+      [
+        "2"
+      ],
+      [
+        "0"
+      ]
+    ]
   },
   {
-    "id": "AC9M2N02-T-003",
+    "id": "AC9M2N02-V2-P-ZR03",
+    "curriculum_code": "AC9M2N02",
     "subject": "math",
     "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
-    "bank": "test",
-    "skill": "regroup_ten_as_ones",
-    "question": "Regroup 6 tens + 24 ones into standard form.",
-    "audio_prompt": "Regroup 6 tens + 24 ones into standard form.",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "6 tens + 4 ones",
-        "is_correct": false
-      },
-      {
-        "text": "7 tens + 14 ones",
-        "is_correct": false
-      },
-      {
-        "text": "8 tens + 4 ones",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "bank": "practice",
+    "strand": "Explain zero’s role",
+    "concept": "double_zero",
+    "question": "Build or draw 700. Label its hundreds, tens and ones in the usual grouping.",
+    "audio_prompt": "Build or draw 700. Label its hundreds, tens and ones in the usual grouping.",
+    "type": "self-check",
+    "correct": "7 hundreds, 0 separate tens and 0 loose ones.",
+    "answers": [],
     "explanation": {
-      "summary": "24 ones make 2 tens and 4 ones; 6 + 2 = 8 tens.",
-      "hint": "Trade 20 ones for 2 tens."
+      "summary": "700 has 7 in the hundreds place and zero in both other places.",
+      "hint": "Record empty places even when no pieces are drawn there."
+    },
+    "visual": {
+      "type": "html",
+      "html": "<figure class=\"n02-visual\"><figcaption>Build 700</figcaption><table class=\"n02-chart\"><thead><tr><th>Hundreds</th><th>Tens</th><th>Ones</th></tr></thead><tbody><tr><td>?</td><td>?</td><td>?</td></tr></tbody></table></figure>",
+      "alt_text": "Build 700: ?, ?, ?"
     },
     "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "sequence_priority": 3,
-    "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
-    }
+    "quality_schema": "authored-v2",
+    "version": "20261015-ac9m2n02-v2",
+    "gradingMode": "adult-review",
+    "modelAnswer": "7 hundreds, 0 separate tens and 0 loose ones.",
+    "acceptanceNote": "Require a model worth 700 and usual labels 7H0T0O. An alternate model is valid evidence of 700, but the requested usual grouping and empty-place labels must also be supplied.",
+    "responseInstructions": "Write or say your answer. You may build with blocks or draw on paper. A grown-up checks your work after you finish.",
+    "completionLabel": "I have completed the task and shown or told a grown-up my answer."
   },
   {
-    "id": "AC9M2N02-T-004",
+    "id": "AC9M2N02-V2-P-ZR04",
+    "curriculum_code": "AC9M2N02",
     "subject": "math",
     "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
-    "bank": "test",
-    "skill": "nonstandard_partition",
-    "question": "Which non-standard grouping equals 507?",
-    "audio_prompt": "Which non-standard grouping equals 507?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
+    "bank": "practice",
+    "strand": "Explain zero’s role",
+    "concept": "zero_addend",
+    "question": "Complete the parts: 6 ones + ___ tens + 4 hundreds = 406.",
+    "audio_prompt": "Complete the parts: 6 ones + ___ tens + 4 hundreds = 406.",
+    "type": "number",
+    "correct": 0,
+    "answers": [],
+    "explanation": {
+      "summary": "400 and 6 already make 406, so there are 0 separate tens in this name.",
+      "hint": "Keep the whole parts and their unit labels together."
     },
+    "visual": {
+      "type": "html",
+      "html": "<figure class=\"n02-visual\"><figcaption>Parts of the same number</figcaption><div class=\"n02-parts\"><p>6 ones</p><p>? tens</p><p>4 hundreds</p></div></figure>",
+      "alt_text": "Parts of the same number: 6 ones, ? tens, 4 hundreds"
+    },
+    "difficulty": 2,
+    "quality_schema": "authored-v2",
+    "version": "20261015-ac9m2n02-v2"
+  },
+  {
+    "id": "AC9M2N02-V2-P-ZR05",
+    "curriculum_code": "AC9M2N02",
+    "subject": "math",
+    "year_level": "Year 2",
+    "bank": "practice",
+    "strand": "Explain zero’s role",
+    "concept": "zero_addend",
+    "question": "Complete the usual name: 530 = 5 hundreds + 3 tens + ___ ones.",
+    "audio_prompt": "Complete the usual name: 530 = 5 hundreds + 3 tens + ___ ones.",
+    "type": "number",
+    "correct": 0,
+    "answers": [],
+    "explanation": {
+      "summary": "500 + 30 + 0 = 530.",
+      "hint": "The last digit records the loose ones."
+    },
+    "visual": {
+      "type": "html",
+      "html": "<figure class=\"n02-visual\"><figcaption>Parts of the same number</figcaption><div class=\"n02-parts\"><p>530</p><p>5 hundreds + 3 tens + ? ones</p></div></figure>",
+      "alt_text": "Parts of the same number: 530, 5 hundreds + 3 tens + ? ones"
+    },
+    "difficulty": 2,
+    "quality_schema": "authored-v2",
+    "version": "20261015-ac9m2n02-v2"
+  },
+  {
+    "id": "AC9M2N02-V2-P-ZR06",
+    "curriculum_code": "AC9M2N02",
+    "subject": "math",
+    "year_level": "Year 2",
+    "bank": "practice",
+    "strand": "Explain zero’s role",
+    "concept": "explain_placeholder",
+    "question": "A model has 5 hundreds and 2 ones. Jo writes 52. Explain the mistake and write the correct numeral.",
+    "audio_prompt": "A model has 5 hundreds and 2 ones. Jo writes 52. Explain the mistake and write the correct numeral.",
+    "type": "self-check",
+    "correct": "Jo left out the empty tens place. 5 hundreds and 2 ones is 502. 52 means 5 tens and 2 ones.",
+    "answers": [],
+    "explanation": {
+      "summary": "The zero keeps the 5 in the hundreds place.",
+      "hint": "Compare what the 5 is worth in each numeral."
+    },
+    "visual": {
+      "type": "html",
+      "html": "<figure class=\"n02-visual\"><figcaption>Base-ten model</figcaption><div class=\"n02-blocks\"><section class=\"n02-unit\"><h3>Hundreds</h3><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 204 142\" role=\"img\" aria-label=\"5 hundreds pieces\"><g data-unit=\"hundred\"><rect x=\"12\" y=\"6\" width=\"55\" height=\"55\" fill=\"#d9ecef\" stroke=\"#1d5864\" stroke-width=\"1.5\"/><path d=\"M17.5 6v55 M12 11.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M23.0 6v55 M12 17.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M28.5 6v55 M12 22.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M34.0 6v55 M12 28.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M39.5 6v55 M12 33.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M45.0 6v55 M12 39.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M50.5 6v55 M12 44.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M56.0 6v55 M12 50.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M61.5 6v55 M12 55.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/></g><g data-unit=\"hundred\"><rect x=\"75\" y=\"6\" width=\"55\" height=\"55\" fill=\"#d9ecef\" stroke=\"#1d5864\" stroke-width=\"1.5\"/><path d=\"M80.5 6v55 M75 11.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M86.0 6v55 M75 17.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M91.5 6v55 M75 22.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M97.0 6v55 M75 28.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M102.5 6v55 M75 33.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M108.0 6v55 M75 39.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M113.5 6v55 M75 44.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M119.0 6v55 M75 50.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M124.5 6v55 M75 55.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/></g><g data-unit=\"hundred\"><rect x=\"138\" y=\"6\" width=\"55\" height=\"55\" fill=\"#d9ecef\" stroke=\"#1d5864\" stroke-width=\"1.5\"/><path d=\"M143.5 6v55 M138 11.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M149.0 6v55 M138 17.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M154.5 6v55 M138 22.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M160.0 6v55 M138 28.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M165.5 6v55 M138 33.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M171.0 6v55 M138 39.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M176.5 6v55 M138 44.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M182.0 6v55 M138 50.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M187.5 6v55 M138 55.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/></g><g data-unit=\"hundred\"><rect x=\"12\" y=\"71\" width=\"55\" height=\"55\" fill=\"#d9ecef\" stroke=\"#1d5864\" stroke-width=\"1.5\"/><path d=\"M17.5 71v55 M12 76.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M23.0 71v55 M12 82.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M28.5 71v55 M12 87.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M34.0 71v55 M12 93.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M39.5 71v55 M12 98.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M45.0 71v55 M12 104.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M50.5 71v55 M12 109.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M56.0 71v55 M12 115.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M61.5 71v55 M12 120.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/></g><g data-unit=\"hundred\"><rect x=\"75\" y=\"71\" width=\"55\" height=\"55\" fill=\"#d9ecef\" stroke=\"#1d5864\" stroke-width=\"1.5\"/><path d=\"M80.5 71v55 M75 76.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M86.0 71v55 M75 82.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M91.5 71v55 M75 87.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M97.0 71v55 M75 93.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M102.5 71v55 M75 98.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M108.0 71v55 M75 104.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M113.5 71v55 M75 109.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M119.0 71v55 M75 115.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M124.5 71v55 M75 120.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/></g></svg></section><section class=\"n02-unit\"><h3>Tens</h3><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 204 52\" role=\"img\" aria-label=\"0 tens pieces\"></svg></section><section class=\"n02-unit\"><h3>Ones</h3><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 204 52\" role=\"img\" aria-label=\"2 ones pieces\"><rect data-unit=\"one\" x=\"15\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"38\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/></svg></section></div><p class=\"n02-key\">Hundred flat = 100 · Ten rod = 10 · One cube = 1</p></figure>",
+      "alt_text": "Base-ten model: 5 hundred flats, 0 ten rods, 2 one cubes."
+    },
+    "difficulty": 3,
+    "quality_schema": "authored-v2",
+    "version": "20261015-ac9m2n02-v2",
+    "gradingMode": "adult-review",
+    "modelAnswer": "Jo left out the empty tens place. 5 hundreds and 2 ones is 502. 52 means 5 tens and 2 ones.",
+    "acceptanceNote": "Require 502 and an explanation of the empty tens place or the change from 500 to 50 when zero is deleted. Accept spoken/modelled evidence; saying only add zero is insufficient.",
+    "responseInstructions": "Write or say your answer. You may build with blocks or draw on paper. A grown-up checks your work after you finish.",
+    "completionLabel": "I have completed the task and shown or told a grown-up my answer."
+  },
+  {
+    "id": "AC9M2N02-V2-P-ZR07",
+    "curriculum_code": "AC9M2N02",
+    "subject": "math",
+    "year_level": "Year 2",
+    "bank": "practice",
+    "strand": "Explain zero’s role",
+    "concept": "zero_nested_units",
+    "question": "Rename 704 using complete tens and leftover ones.",
+    "audio_prompt": "Rename 704 using complete tens and leftover ones.",
+    "type": "fill-blank",
+    "correct": [
+      70,
+      4
+    ],
+    "answers": [],
+    "explanation": {
+      "summary": "7 hundreds contain 70 complete tens. There are 4 leftover ones.",
+      "hint": "A zero tens digit does not mean there are no complete tens inside the hundreds."
+    },
+    "visual": {
+      "type": "html",
+      "html": "<figure class=\"n02-visual\"><figcaption>Parts of the same number</figcaption><div class=\"n02-parts\"><p>704</p><p>? complete tens</p><p>? leftover ones</p></div></figure>",
+      "alt_text": "Parts of the same number: 704, ? complete tens, ? leftover ones"
+    },
+    "difficulty": 2,
+    "quality_schema": "authored-v2",
+    "version": "20261015-ac9m2n02-v2",
+    "template": "704 = {{blank}} tens + {{blank}} ones.",
+    "acceptedAnswers": [
+      [
+        "70"
+      ],
+      [
+        "4"
+      ]
+    ]
+  },
+  {
+    "id": "AC9M2N02-V2-P-ZR08",
+    "curriculum_code": "AC9M2N02",
+    "subject": "math",
+    "year_level": "Year 2",
+    "bank": "practice",
+    "strand": "Explain zero’s role",
+    "concept": "regroup_to_zero",
+    "question": "A collection has 3 hundreds, 10 tens and 9 ones. What is its usual numeral?",
+    "audio_prompt": "A collection has 3 hundreds, 10 tens and 9 ones. What is its usual numeral?",
+    "type": "number",
+    "correct": 409,
+    "answers": [],
+    "explanation": {
+      "summary": "10 tens become 1 hundred. 3 hundreds and 1 hundred give 4 hundreds, with no separate tens and 9 ones: 409.",
+      "hint": "Complete the exchange before writing the numeral."
+    },
+    "visual": {
+      "type": "html",
+      "html": "<figure class=\"n02-visual\"><figcaption>Before regrouping</figcaption><table class=\"n02-chart\"><thead><tr><th>Hundreds</th><th>Tens</th><th>Ones</th></tr></thead><tbody><tr><td>3</td><td>10</td><td>9</td></tr></tbody></table></figure>",
+      "alt_text": "Before regrouping: 3, 10, 9"
+    },
+    "difficulty": 2,
+    "quality_schema": "authored-v2",
+    "version": "20261015-ac9m2n02-v2"
+  },
+  {
+    "id": "AC9M2N02-V2-P-ZR09",
+    "curriculum_code": "AC9M2N02",
+    "subject": "math",
+    "year_level": "Year 2",
+    "bank": "practice",
+    "strand": "Explain zero’s role",
+    "concept": "digit_vs_nested_units",
+    "question": "Which sentence correctly names the tens in 400?",
+    "audio_prompt": "Which sentence correctly names the tens in 400?",
+    "type": "single",
+    "correct": 0,
     "answers": [
       {
-        "text": "4 hundreds + 10 tens + 7 ones",
+        "text": "The tens digit is 0, and 400 contains 40 complete tens.",
         "is_correct": true
       },
       {
-        "text": "5 hundreds + 7 tens",
+        "text": "The tens digit is 0, so 400 contains no complete tens.",
         "is_correct": false
       },
       {
-        "text": "50 hundreds + 7 ones",
+        "text": "400 has 4 complete tens because its first digit is 4.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "400 + 100 + 7 = 507.",
-      "hint": "Convert each group to its value."
+      "summary": "400 = 40 tens. In the usual grouping of 4 hundreds, 0 tens and 0 ones, there are no separate ten rods.",
+      "hint": "Distinguish the tens digit from all the complete tens inside the amount."
+    },
+    "visual": {
+      "type": "html",
+      "html": "<figure class=\"n02-visual\"><figcaption>Usual grouping of 400</figcaption><table class=\"n02-chart\"><thead><tr><th>Hundreds</th><th>Tens</th><th>Ones</th></tr></thead><tbody><tr><td>4</td><td>0</td><td>0</td></tr></tbody></table></figure>",
+      "alt_text": "Usual grouping of 400: 4, 0, 0"
+    },
+    "difficulty": 3,
+    "quality_schema": "authored-v2",
+    "version": "20261015-ac9m2n02-v2"
+  },
+  {
+    "id": "AC9M2N02-V2-P-ZR10",
+    "curriculum_code": "AC9M2N02",
+    "subject": "math",
+    "year_level": "Year 2",
+    "bank": "practice",
+    "strand": "Explain zero’s role",
+    "concept": "justify_zero_name",
+    "question": "There are 600 paper squares. Write a different equal name that uses tens. Explain both zeros in 600.",
+    "audio_prompt": "There are 600 paper squares. Write a different equal name that uses tens. Explain both zeros in 600.",
+    "type": "self-check",
+    "correct": "For example, 60 tens; or 5 hundreds and 10 tens. In the usual grouping, 600 has 0 separate tens and 0 loose ones.",
+    "answers": [],
+    "explanation": {
+      "summary": "The zeros describe empty places in the usual numeral. Equal non-standard names can use tens.",
+      "hint": "Check that your new parts still make 600."
+    },
+    "visual": {
+      "type": "html",
+      "html": "<figure class=\"n02-visual\"><figcaption>Parts of the same number</figcaption><div class=\"n02-parts\"><p>600 paper squares</p><p>A name using tens: ?</p></div></figure>",
+      "alt_text": "Parts of the same number: 600 paper squares, A name using tens: ?"
+    },
+    "difficulty": 3,
+    "quality_schema": "authored-v2",
+    "version": "20261015-ac9m2n02-v2",
+    "gradingMode": "adult-review",
+    "modelAnswer": "For example, 60 tens; or 5 hundreds and 10 tens. In the usual grouping, 600 has 0 separate tens and 0 loose ones.",
+    "acceptanceNote": "Require an equal name with at least 1 ten and a correct explanation of zero tens/ones in usual notation. Accept any valid non-negative whole-number name totalling 600, such as 60T0O or 5H10T0O. Do not require the tens count to be a single digit.",
+    "responseInstructions": "Write or say your answer. You may build with blocks or draw on paper. A grown-up checks your work after you finish.",
+    "completionLabel": "I have completed the task and shown or told a grown-up my answer."
+  },
+  {
+    "id": "AC9M2N02-V2-T01",
+    "curriculum_code": "AC9M2N02",
+    "subject": "math",
+    "year_level": "Year 2",
+    "bank": "test",
+    "strand": "Partition and rename numbers",
+    "concept": "read_model",
+    "question": "Read this new model. Write its usual parts and its number.",
+    "audio_prompt": "Read this new model. Write its usual parts and its number.",
+    "type": "fill-blank",
+    "correct": [
+      4,
+      6,
+      3,
+      463
+    ],
+    "answers": [],
+    "explanation": {
+      "summary": "400 + 60 + 3 = 463.",
+      "hint": "Read each place in order."
+    },
+    "visual": {
+      "type": "html",
+      "html": "<figure class=\"n02-visual\"><figcaption>Base-ten model</figcaption><div class=\"n02-blocks\"><section class=\"n02-unit\"><h3>Hundreds</h3><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 204 142\" role=\"img\" aria-label=\"4 hundreds pieces\"><g data-unit=\"hundred\"><rect x=\"12\" y=\"6\" width=\"55\" height=\"55\" fill=\"#d9ecef\" stroke=\"#1d5864\" stroke-width=\"1.5\"/><path d=\"M17.5 6v55 M12 11.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M23.0 6v55 M12 17.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M28.5 6v55 M12 22.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M34.0 6v55 M12 28.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M39.5 6v55 M12 33.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M45.0 6v55 M12 39.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M50.5 6v55 M12 44.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M56.0 6v55 M12 50.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M61.5 6v55 M12 55.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/></g><g data-unit=\"hundred\"><rect x=\"75\" y=\"6\" width=\"55\" height=\"55\" fill=\"#d9ecef\" stroke=\"#1d5864\" stroke-width=\"1.5\"/><path d=\"M80.5 6v55 M75 11.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M86.0 6v55 M75 17.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M91.5 6v55 M75 22.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M97.0 6v55 M75 28.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M102.5 6v55 M75 33.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M108.0 6v55 M75 39.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M113.5 6v55 M75 44.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M119.0 6v55 M75 50.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M124.5 6v55 M75 55.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/></g><g data-unit=\"hundred\"><rect x=\"138\" y=\"6\" width=\"55\" height=\"55\" fill=\"#d9ecef\" stroke=\"#1d5864\" stroke-width=\"1.5\"/><path d=\"M143.5 6v55 M138 11.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M149.0 6v55 M138 17.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M154.5 6v55 M138 22.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M160.0 6v55 M138 28.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M165.5 6v55 M138 33.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M171.0 6v55 M138 39.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M176.5 6v55 M138 44.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M182.0 6v55 M138 50.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M187.5 6v55 M138 55.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/></g><g data-unit=\"hundred\"><rect x=\"12\" y=\"71\" width=\"55\" height=\"55\" fill=\"#d9ecef\" stroke=\"#1d5864\" stroke-width=\"1.5\"/><path d=\"M17.5 71v55 M12 76.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M23.0 71v55 M12 82.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M28.5 71v55 M12 87.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M34.0 71v55 M12 93.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M39.5 71v55 M12 98.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M45.0 71v55 M12 104.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M50.5 71v55 M12 109.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M56.0 71v55 M12 115.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M61.5 71v55 M12 120.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/></g></svg></section><section class=\"n02-unit\"><h3>Tens</h3><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 204 83\" role=\"img\" aria-label=\"6 tens pieces\"><g data-unit=\"ten\"><rect x=\"12\" y=\"6\" width=\"13\" height=\"62\" fill=\"#d9eee5\" stroke=\"#205e4d\" stroke-width=\"1.4\"/><path d=\"M12 12.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 18.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 24.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 30.8h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 37.0h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 43.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 49.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 55.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 61.800000000000004h13\" stroke=\"#397b66\" stroke-width=\".7\"/></g><g data-unit=\"ten\"><rect x=\"36\" y=\"6\" width=\"13\" height=\"62\" fill=\"#d9eee5\" stroke=\"#205e4d\" stroke-width=\"1.4\"/><path d=\"M36 12.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 18.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 24.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 30.8h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 37.0h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 43.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 49.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 55.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 61.800000000000004h13\" stroke=\"#397b66\" stroke-width=\".7\"/></g><g data-unit=\"ten\"><rect x=\"60\" y=\"6\" width=\"13\" height=\"62\" fill=\"#d9eee5\" stroke=\"#205e4d\" stroke-width=\"1.4\"/><path d=\"M60 12.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 18.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 24.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 30.8h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 37.0h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 43.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 49.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 55.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 61.800000000000004h13\" stroke=\"#397b66\" stroke-width=\".7\"/></g><g data-unit=\"ten\"><rect x=\"84\" y=\"6\" width=\"13\" height=\"62\" fill=\"#d9eee5\" stroke=\"#205e4d\" stroke-width=\"1.4\"/><path d=\"M84 12.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M84 18.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M84 24.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M84 30.8h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M84 37.0h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M84 43.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M84 49.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M84 55.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M84 61.800000000000004h13\" stroke=\"#397b66\" stroke-width=\".7\"/></g><g data-unit=\"ten\"><rect x=\"108\" y=\"6\" width=\"13\" height=\"62\" fill=\"#d9eee5\" stroke=\"#205e4d\" stroke-width=\"1.4\"/><path d=\"M108 12.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M108 18.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M108 24.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M108 30.8h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M108 37.0h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M108 43.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M108 49.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M108 55.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M108 61.800000000000004h13\" stroke=\"#397b66\" stroke-width=\".7\"/></g><g data-unit=\"ten\"><rect x=\"132\" y=\"6\" width=\"13\" height=\"62\" fill=\"#d9eee5\" stroke=\"#205e4d\" stroke-width=\"1.4\"/><path d=\"M132 12.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M132 18.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M132 24.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M132 30.8h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M132 37.0h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M132 43.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M132 49.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M132 55.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M132 61.800000000000004h13\" stroke=\"#397b66\" stroke-width=\".7\"/></g></svg></section><section class=\"n02-unit\"><h3>Ones</h3><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 204 52\" role=\"img\" aria-label=\"3 ones pieces\"><rect data-unit=\"one\" x=\"15\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"38\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"61\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/></svg></section></div><p class=\"n02-key\">Hundred flat = 100 · Ten rod = 10 · One cube = 1</p></figure>",
+      "alt_text": "Base-ten model: 4 hundred flats, 6 ten rods, 3 one cubes."
     },
     "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "sequence_priority": 4,
-    "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
-    }
+    "quality_schema": "authored-v2",
+    "version": "20261015-ac9m2n02-v2",
+    "template": "{{blank}} hundreds, {{blank}} tens, {{blank}} ones: {{blank}}.",
+    "acceptedAnswers": [
+      [
+        "4"
+      ],
+      [
+        "6"
+      ],
+      [
+        "3"
+      ],
+      [
+        "463"
+      ]
+    ]
   },
   {
-    "id": "AC9M2N02-T-005",
+    "id": "AC9M2N02-V2-T02",
+    "curriculum_code": "AC9M2N02",
     "subject": "math",
     "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
     "bank": "test",
-    "skill": "rename_between_places",
-    "question": "7 hundreds equal how many tens?",
-    "audio_prompt": "7 hundreds equal how many tens?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "700",
-        "is_correct": false
-      },
-      {
-        "text": "70",
-        "is_correct": true
-      },
-      {
-        "text": "7",
-        "is_correct": false
-      }
+    "strand": "Partition and rename numbers",
+    "concept": "expanded_parts",
+    "question": "Split 825 into the value of its hundreds, tens and ones.",
+    "audio_prompt": "Split 825 into the value of its hundreds, tens and ones.",
+    "type": "fill-blank",
+    "correct": [
+      800,
+      20,
+      5
     ],
-    "correct_index": 1,
+    "answers": [],
     "explanation": {
-      "summary": "Each hundred contains 10 tens, so 7 hundreds contain 70 tens.",
-      "hint": "Use 1 hundred = 10 tens."
+      "summary": "825 = 800 + 20 + 5.",
+      "hint": "Each part must keep its place value."
     },
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "sequence_priority": 5,
-    "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
-    }
+    "visual": {
+      "type": "html",
+      "html": "<figure class=\"n02-visual\"><figcaption>Parts of the same number</figcaption><div class=\"n02-parts\"><p>825</p><p>? + ? + ?</p></div></figure>",
+      "alt_text": "Parts of the same number: 825, ? + ? + ?"
+    },
+    "difficulty": 2,
+    "quality_schema": "authored-v2",
+    "version": "20261015-ac9m2n02-v2",
+    "template": "825 = {{blank}} + {{blank}} + {{blank}}.",
+    "acceptedAnswers": [
+      [
+        "800"
+      ],
+      [
+        "20"
+      ],
+      [
+        "5"
+      ]
+    ]
   },
   {
-    "id": "AC9M2N02-T-006",
+    "id": "AC9M2N02-V2-T03",
+    "curriculum_code": "AC9M2N02",
     "subject": "math",
     "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
     "bank": "test",
-    "skill": "expanded_to_number",
-    "question": "What number is 800 + 3?",
-    "audio_prompt": "What number is 800 + 3?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "830",
-        "is_correct": false
-      },
-      {
-        "text": "83",
-        "is_correct": false
-      },
-      {
-        "text": "803",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "strand": "Partition and rename numbers",
+    "concept": "rearrange_parts",
+    "question": "What number is 4 ones + 3 tens + 7 hundreds?",
+    "audio_prompt": "What number is 4 ones + 3 tens + 7 hundreds?",
+    "type": "number",
+    "correct": 734,
+    "answers": [],
     "explanation": {
-      "summary": "There are 8 hundreds, no tens and 3 ones: 803.",
+      "summary": "4 + 30 + 700 = 734. Reordering the parts keeps the total unchanged.",
+      "hint": "Keep each number with its unit name."
+    },
+    "visual": {
+      "type": "html",
+      "html": "<figure class=\"n02-visual\"><figcaption>Parts of the same number</figcaption><div class=\"n02-parts\"><p>4 ones</p><p>3 tens</p><p>7 hundreds</p></div></figure>",
+      "alt_text": "Parts of the same number: 4 ones, 3 tens, 7 hundreds"
+    },
+    "difficulty": 2,
+    "quality_schema": "authored-v2",
+    "version": "20261015-ac9m2n02-v2"
+  },
+  {
+    "id": "AC9M2N02-V2-T04",
+    "curriculum_code": "AC9M2N02",
+    "subject": "math",
+    "year_level": "Year 2",
+    "bank": "test",
+    "strand": "Partition and rename numbers",
+    "concept": "multiple_equal_names",
+    "question": "Name 92 in two different ways using tens and ones.",
+    "audio_prompt": "Name 92 in two different ways using tens and ones.",
+    "type": "self-check",
+    "correct": "For example, 9 tens and 2 ones; 8 tens and 12 ones.",
+    "answers": [],
+    "explanation": {
+      "summary": "Both names have value 92.",
+      "hint": "Change the grouping while keeping the total."
+    },
+    "visual": {
+      "type": "html",
+      "html": "<figure class=\"n02-visual\"><figcaption>Parts of the same number</figcaption><div class=\"n02-parts\"><p>92</p><p>? tens + ? ones</p><p>? tens + ? ones</p></div></figure>",
+      "alt_text": "Parts of the same number: 92, ? tens + ? ones, ? tens + ? ones"
+    },
+    "difficulty": 2,
+    "quality_schema": "authored-v2",
+    "version": "20261015-ac9m2n02-v2",
+    "gradingMode": "adult-review",
+    "modelAnswer": "For example, 9 tens and 2 ones; 8 tens and 12 ones.",
+    "acceptanceNote": "Require two different non-negative whole-number pairs totalling 92, with unit labels. Reordered identical parts count only once.",
+    "responseInstructions": "Write or say your answer. You may build with blocks or draw on paper. A grown-up checks your work after you finish.",
+    "completionLabel": "I have completed the task and shown or told a grown-up my answer."
+  },
+  {
+    "id": "AC9M2N02-V2-T05",
+    "curriculum_code": "AC9M2N02",
+    "subject": "math",
+    "year_level": "Year 2",
+    "bank": "test",
+    "strand": "Partition and rename numbers",
+    "concept": "check_equal_names",
+    "question": "Noah says 6 hundreds and 12 ones is the same as 5 hundreds and 12 tens. Is he correct? Explain using both totals.",
+    "audio_prompt": "Noah says 6 hundreds and 12 ones is the same as 5 hundreds and 12 tens. Is he correct? Explain using both totals.",
+    "type": "self-check",
+    "correct": "No. 6 hundreds and 12 ones is 612. 5 hundreds and 12 tens is 620. The totals are different.",
+    "answers": [],
+    "explanation": {
+      "summary": "6 hundreds and 12 ones make 612. 5 hundreds and 12 tens make 620. The totals are different.",
+      "hint": "Unit names change the value of 12."
+    },
+    "visual": {
+      "type": "html",
+      "html": "<figure class=\"n02-visual\"><figcaption>Compare the two names</figcaption><div class=\"n02-parts\"><p>6 hundreds + 12 ones</p><p>5 hundreds + 12 tens</p></div></figure>",
+      "alt_text": "Compare the two names: 6 hundreds + 12 ones, 5 hundreds + 12 tens"
+    },
+    "difficulty": 3,
+    "quality_schema": "authored-v2",
+    "version": "20261015-ac9m2n02-v2",
+    "gradingMode": "adult-review",
+    "modelAnswer": "No. 6 hundreds and 12 ones is 612. 5 hundreds and 12 tens is 620. The totals are different.",
+    "acceptanceNote": "Require no, both totals 612 and 620, and recognition that the names are unequal. Accept valid modelled or spoken evidence; no alone is insufficient.",
+    "responseInstructions": "Write or say your answer. You may build with blocks or draw on paper. A grown-up checks your work after you finish.",
+    "completionLabel": "I have completed the task and shown or told a grown-up my answer."
+  },
+  {
+    "id": "AC9M2N02-V2-T06",
+    "curriculum_code": "AC9M2N02",
+    "subject": "math",
+    "year_level": "Year 2",
+    "bank": "test",
+    "strand": "Make equal exchanges",
+    "concept": "one_ten_exchange",
+    "question": "Luca has 3 tens and 17 ones. Exchange 10 ones for 1 ten. Name the new grouping and explain why the amount stays the same.",
+    "audio_prompt": "Luca has 3 tens and 17 ones. Exchange 10 ones for 1 ten. Name the new grouping and explain why the amount stays the same.",
+    "type": "self-check",
+    "correct": "4 tens and 7 ones. 10 ones and 1 ten both have value 10, so both groupings make 47.",
+    "answers": [],
+    "explanation": {
+      "summary": "30 + 17 = 40 + 7 = 47.",
+      "hint": "Exchange equal values and keep the leftover ones."
+    },
+    "visual": {
+      "type": "html",
+      "html": "<figure class=\"n02-visual\"><figcaption>Base-ten model</figcaption><div class=\"n02-blocks\"><section class=\"n02-unit\"><h3>Hundreds</h3><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 204 52\" role=\"img\" aria-label=\"0 hundreds pieces\"></svg></section><section class=\"n02-unit\"><h3>Tens</h3><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 204 83\" role=\"img\" aria-label=\"3 tens pieces\"><g data-unit=\"ten\"><rect x=\"12\" y=\"6\" width=\"13\" height=\"62\" fill=\"#d9eee5\" stroke=\"#205e4d\" stroke-width=\"1.4\"/><path d=\"M12 12.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 18.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 24.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 30.8h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 37.0h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 43.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 49.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 55.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M12 61.800000000000004h13\" stroke=\"#397b66\" stroke-width=\".7\"/></g><g data-unit=\"ten\"><rect x=\"36\" y=\"6\" width=\"13\" height=\"62\" fill=\"#d9eee5\" stroke=\"#205e4d\" stroke-width=\"1.4\"/><path d=\"M36 12.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 18.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 24.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 30.8h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 37.0h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 43.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 49.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 55.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M36 61.800000000000004h13\" stroke=\"#397b66\" stroke-width=\".7\"/></g><g data-unit=\"ten\"><rect x=\"60\" y=\"6\" width=\"13\" height=\"62\" fill=\"#d9eee5\" stroke=\"#205e4d\" stroke-width=\"1.4\"/><path d=\"M60 12.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 18.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 24.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 30.8h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 37.0h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 43.2h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 49.4h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 55.6h13\" stroke=\"#397b66\" stroke-width=\".7\"/><path d=\"M60 61.800000000000004h13\" stroke=\"#397b66\" stroke-width=\".7\"/></g></svg></section><section class=\"n02-unit\"><h3>Ones</h3><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 204 108\" role=\"img\" aria-label=\"17 ones pieces\"><rect data-unit=\"one\" x=\"15\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"38\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"61\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"84\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"107\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"130\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"153\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"176\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"15\" y=\"40\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"38\" y=\"40\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"61\" y=\"40\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"84\" y=\"40\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"107\" y=\"40\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"130\" y=\"40\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"153\" y=\"40\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"176\" y=\"40\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"15\" y=\"72\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/></svg></section></div><p class=\"n02-key\">Hundred flat = 100 · Ten rod = 10 · One cube = 1</p></figure>",
+      "alt_text": "Base-ten model: 0 hundred flats, 3 ten rods, 17 one cubes."
+    },
+    "difficulty": 2,
+    "quality_schema": "authored-v2",
+    "version": "20261015-ac9m2n02-v2",
+    "gradingMode": "adult-review",
+    "modelAnswer": "4 tens and 7 ones. 10 ones and 1 ten both have value 10, so both groupings make 47.",
+    "acceptanceNote": "Require 4T7O and valid explanation/evidence that 10 ones equal 1 ten, so the amount is conserved. Computing 47 is optional. Accept oral, scribed or constructed responses.",
+    "responseInstructions": "Write or say your answer. You may build with blocks or draw on paper. A grown-up checks your work after you finish.",
+    "completionLabel": "I have completed the task and shown or told a grown-up my answer."
+  },
+  {
+    "id": "AC9M2N02-V2-T07",
+    "curriculum_code": "AC9M2N02",
+    "subject": "math",
+    "year_level": "Year 2",
+    "bank": "test",
+    "strand": "Make equal exchanges",
+    "concept": "one_hundred_exchange",
+    "question": "Regroup 4 hundreds, 19 tens and 2 ones into the usual grouping.",
+    "audio_prompt": "Regroup 4 hundreds, 19 tens and 2 ones into the usual grouping.",
+    "type": "fill-blank",
+    "correct": [
+      5,
+      9,
+      2
+    ],
+    "answers": [],
+    "explanation": {
+      "summary": "19 tens become 1 hundred and 9 tens; the total is 592.",
+      "hint": "Add the new hundred to the hundreds already there."
+    },
+    "visual": {
+      "type": "html",
+      "html": "<figure class=\"n02-visual\"><figcaption>Before regrouping</figcaption><table class=\"n02-chart\"><thead><tr><th>Hundreds</th><th>Tens</th><th>Ones</th></tr></thead><tbody><tr><td>4</td><td>19</td><td>2</td></tr></tbody></table></figure>",
+      "alt_text": "Before regrouping: 4, 19, 2"
+    },
+    "difficulty": 2,
+    "quality_schema": "authored-v2",
+    "version": "20261015-ac9m2n02-v2",
+    "template": "{{blank}} hundreds, {{blank}} tens, {{blank}} ones.",
+    "acceptedAnswers": [
+      [
+        "5"
+      ],
+      [
+        "9"
+      ],
+      [
+        "2"
+      ]
+    ]
+  },
+  {
+    "id": "AC9M2N02-V2-T08",
+    "curriculum_code": "AC9M2N02",
+    "subject": "math",
+    "year_level": "Year 2",
+    "bank": "test",
+    "strand": "Make equal exchanges",
+    "concept": "missing_part",
+    "question": "Complete the equal name: 842 = 7 hundreds + ___ tens + 2 ones.",
+    "audio_prompt": "Complete the equal name: 842 = 7 hundreds + ___ tens + 2 ones.",
+    "type": "number",
+    "correct": 14,
+    "answers": [],
+    "explanation": {
+      "summary": "842 = 700 + 140 + 2, so the missing count is 14 tens.",
+      "hint": "The missing number counts tens."
+    },
+    "visual": {
+      "type": "html",
+      "html": "<figure class=\"n02-visual\"><figcaption>Parts of the same number</figcaption><div class=\"n02-parts\"><p>842</p><p>7 hundreds + ? tens + 2 ones</p></div></figure>",
+      "alt_text": "Parts of the same number: 842, 7 hundreds + ? tens + 2 ones"
+    },
+    "difficulty": 2,
+    "quality_schema": "authored-v2",
+    "version": "20261015-ac9m2n02-v2"
+  },
+  {
+    "id": "AC9M2N02-V2-T09",
+    "curriculum_code": "AC9M2N02",
+    "subject": "math",
+    "year_level": "Year 2",
+    "bank": "test",
+    "strand": "Make equal exchanges",
+    "concept": "combined_exchanges",
+    "question": "Regroup 2 hundreds, 7 tens and 34 ones into the usual grouping.",
+    "audio_prompt": "Regroup 2 hundreds, 7 tens and 34 ones into the usual grouping.",
+    "type": "fill-blank",
+    "correct": [
+      3,
+      0,
+      4
+    ],
+    "answers": [],
+    "explanation": {
+      "summary": "34 ones become 3 tens and 4 ones. Now 10 tens become 1 hundred. The result is 3 hundreds, 0 tens and 4 ones.",
+      "hint": "After trading ones, check whether the tens can be traded."
+    },
+    "visual": {
+      "type": "html",
+      "html": "<figure class=\"n02-visual\"><figcaption>Before regrouping</figcaption><table class=\"n02-chart\"><thead><tr><th>Hundreds</th><th>Tens</th><th>Ones</th></tr></thead><tbody><tr><td>2</td><td>7</td><td>34</td></tr></tbody></table></figure>",
+      "alt_text": "Before regrouping: 2, 7, 34"
+    },
+    "difficulty": 3,
+    "quality_schema": "authored-v2",
+    "version": "20261015-ac9m2n02-v2",
+    "template": "{{blank}} hundreds, {{blank}} tens, {{blank}} ones.",
+    "acceptedAnswers": [
+      [
+        "3"
+      ],
+      [
+        "0"
+      ],
+      [
+        "4"
+      ]
+    ]
+  },
+  {
+    "id": "AC9M2N02-V2-T10",
+    "curriculum_code": "AC9M2N02",
+    "subject": "math",
+    "year_level": "Year 2",
+    "bank": "test",
+    "strand": "Make equal exchanges",
+    "concept": "diagnose_unequal_exchange",
+    "question": "Tia has 3 tens and 15 ones. She trades 1 ten for 1 one and says she now has 2 tens and 16 ones. Is the trade equal? Repair it and explain why your new name keeps the same amount.",
+    "audio_prompt": "Tia has 3 tens and 15 ones. She trades 1 ten for 1 one and says she now has 2 tens and 16 ones. Is the trade equal? Repair it and explain why your new name keeps the same amount.",
+    "type": "self-check",
+    "correct": "No. The first grouping is 45; 2 tens and 16 ones is 36. Trading 1 ten gives 10 ones, so an equal result is 2 tens and 25 ones.",
+    "answers": [],
+    "explanation": {
+      "summary": "30 + 15 = 45 and 20 + 25 = 45.",
+      "hint": "Compare the value given away with the value received."
+    },
+    "visual": {
+      "type": "html",
+      "html": "<figure class=\"n02-visual\"><figcaption>Check the two amounts</figcaption><div class=\"n02-parts\"><p>3 tens + 15 ones</p><p>Tia: 2 tens + 16 ones</p></div></figure>",
+      "alt_text": "Check the two amounts: 3 tens + 15 ones, Tia: 2 tens + 16 ones"
+    },
+    "difficulty": 3,
+    "quality_schema": "authored-v2",
+    "version": "20261015-ac9m2n02-v2",
+    "gradingMode": "adult-review",
+    "modelAnswer": "No. The first grouping is 45; 2 tens and 16 ones is 36. Trading 1 ten gives 10 ones, so an equal result is 2 tens and 25 ones.",
+    "acceptanceNote": "Require an unequal-trade judgement supported by values or model and a valid equal repair to 45. Accept 2T25O, 3T15O or 4T5O with a conserving explanation. Do not require one unique grouping.",
+    "responseInstructions": "Write or say your answer. You may build with blocks or draw on paper. A grown-up checks your work after you finish.",
+    "completionLabel": "I have completed the task and shown or told a grown-up my answer."
+  },
+  {
+    "id": "AC9M2N02-V2-T11",
+    "curriculum_code": "AC9M2N02",
+    "subject": "math",
+    "year_level": "Year 2",
+    "bank": "test",
+    "strand": "Explain zero’s role",
+    "concept": "internal_zero",
+    "question": "Write the numeral for this model.",
+    "audio_prompt": "Write the numeral for this model.",
+    "type": "number",
+    "correct": 803,
+    "answers": [],
+    "explanation": {
+      "summary": "8 hundreds, no separate tens and 3 ones make 803.",
       "hint": "Keep the empty tens place."
     },
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "sequence_priority": 6,
-    "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
-    }
-  },
-  {
-    "id": "AC9M2N02-T-007",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
-    "bank": "test",
-    "skill": "regroup_hundreds_tens_ones",
-    "question": "4 hundreds + 19 tens + 2 ones equals:",
-    "audio_prompt": "4 hundreds + 19 tens + 2 ones equals:",
     "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "5 hundreds + 9 tens + 2 ones",
-        "is_correct": true
-      },
-      {
-        "text": "4 hundreds + 9 tens + 2 ones",
-        "is_correct": false
-      },
-      {
-        "text": "6 hundreds + 9 tens + 2 ones",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "19 tens become 1 hundred and 9 tens, giving 592.",
-      "hint": "Trade 10 tens for 1 hundred."
+      "type": "html",
+      "html": "<figure class=\"n02-visual\"><figcaption>Base-ten model</figcaption><div class=\"n02-blocks\"><section class=\"n02-unit\"><h3>Hundreds</h3><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 204 207\" role=\"img\" aria-label=\"8 hundreds pieces\"><g data-unit=\"hundred\"><rect x=\"12\" y=\"6\" width=\"55\" height=\"55\" fill=\"#d9ecef\" stroke=\"#1d5864\" stroke-width=\"1.5\"/><path d=\"M17.5 6v55 M12 11.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M23.0 6v55 M12 17.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M28.5 6v55 M12 22.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M34.0 6v55 M12 28.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M39.5 6v55 M12 33.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M45.0 6v55 M12 39.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M50.5 6v55 M12 44.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M56.0 6v55 M12 50.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M61.5 6v55 M12 55.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/></g><g data-unit=\"hundred\"><rect x=\"75\" y=\"6\" width=\"55\" height=\"55\" fill=\"#d9ecef\" stroke=\"#1d5864\" stroke-width=\"1.5\"/><path d=\"M80.5 6v55 M75 11.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M86.0 6v55 M75 17.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M91.5 6v55 M75 22.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M97.0 6v55 M75 28.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M102.5 6v55 M75 33.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M108.0 6v55 M75 39.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M113.5 6v55 M75 44.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M119.0 6v55 M75 50.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M124.5 6v55 M75 55.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/></g><g data-unit=\"hundred\"><rect x=\"138\" y=\"6\" width=\"55\" height=\"55\" fill=\"#d9ecef\" stroke=\"#1d5864\" stroke-width=\"1.5\"/><path d=\"M143.5 6v55 M138 11.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M149.0 6v55 M138 17.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M154.5 6v55 M138 22.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M160.0 6v55 M138 28.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M165.5 6v55 M138 33.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M171.0 6v55 M138 39.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M176.5 6v55 M138 44.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M182.0 6v55 M138 50.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M187.5 6v55 M138 55.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/></g><g data-unit=\"hundred\"><rect x=\"12\" y=\"71\" width=\"55\" height=\"55\" fill=\"#d9ecef\" stroke=\"#1d5864\" stroke-width=\"1.5\"/><path d=\"M17.5 71v55 M12 76.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M23.0 71v55 M12 82.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M28.5 71v55 M12 87.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M34.0 71v55 M12 93.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M39.5 71v55 M12 98.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M45.0 71v55 M12 104.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M50.5 71v55 M12 109.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M56.0 71v55 M12 115.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M61.5 71v55 M12 120.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/></g><g data-unit=\"hundred\"><rect x=\"75\" y=\"71\" width=\"55\" height=\"55\" fill=\"#d9ecef\" stroke=\"#1d5864\" stroke-width=\"1.5\"/><path d=\"M80.5 71v55 M75 76.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M86.0 71v55 M75 82.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M91.5 71v55 M75 87.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M97.0 71v55 M75 93.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M102.5 71v55 M75 98.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M108.0 71v55 M75 104.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M113.5 71v55 M75 109.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M119.0 71v55 M75 115.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M124.5 71v55 M75 120.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/></g><g data-unit=\"hundred\"><rect x=\"138\" y=\"71\" width=\"55\" height=\"55\" fill=\"#d9ecef\" stroke=\"#1d5864\" stroke-width=\"1.5\"/><path d=\"M143.5 71v55 M138 76.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M149.0 71v55 M138 82.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M154.5 71v55 M138 87.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M160.0 71v55 M138 93.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M165.5 71v55 M138 98.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M171.0 71v55 M138 104.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M176.5 71v55 M138 109.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M182.0 71v55 M138 115.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M187.5 71v55 M138 120.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/></g><g data-unit=\"hundred\"><rect x=\"12\" y=\"136\" width=\"55\" height=\"55\" fill=\"#d9ecef\" stroke=\"#1d5864\" stroke-width=\"1.5\"/><path d=\"M17.5 136v55 M12 141.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M23.0 136v55 M12 147.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M28.5 136v55 M12 152.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M34.0 136v55 M12 158.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M39.5 136v55 M12 163.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M45.0 136v55 M12 169.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M50.5 136v55 M12 174.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M56.0 136v55 M12 180.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M61.5 136v55 M12 185.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/></g><g data-unit=\"hundred\"><rect x=\"75\" y=\"136\" width=\"55\" height=\"55\" fill=\"#d9ecef\" stroke=\"#1d5864\" stroke-width=\"1.5\"/><path d=\"M80.5 136v55 M75 141.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M86.0 136v55 M75 147.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M91.5 136v55 M75 152.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M97.0 136v55 M75 158.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M102.5 136v55 M75 163.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M108.0 136v55 M75 169.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M113.5 136v55 M75 174.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M119.0 136v55 M75 180.0h55\" stroke=\"#4c7985\" stroke-width=\".55\"/><path d=\"M124.5 136v55 M75 185.5h55\" stroke=\"#4c7985\" stroke-width=\".55\"/></g></svg></section><section class=\"n02-unit\"><h3>Tens</h3><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 204 52\" role=\"img\" aria-label=\"0 tens pieces\"></svg></section><section class=\"n02-unit\"><h3>Ones</h3><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 204 52\" role=\"img\" aria-label=\"3 ones pieces\"><rect data-unit=\"one\" x=\"15\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"38\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/><rect data-unit=\"one\" x=\"61\" y=\"8\" width=\"15\" height=\"15\" fill=\"#eac66e\" stroke=\"#7f5b12\" stroke-width=\"1.3\"/></svg></section></div><p class=\"n02-key\">Hundred flat = 100 · Ten rod = 10 · One cube = 1</p></figure>",
+      "alt_text": "Base-ten model: 8 hundred flats, 0 ten rods, 3 one cubes."
     },
     "difficulty": 1,
-    "difficulty_tier": "apply",
-    "sequence_priority": 7,
-    "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
-    }
+    "quality_schema": "authored-v2",
+    "version": "20261015-ac9m2n02-v2"
   },
   {
-    "id": "AC9M2N02-T-008",
+    "id": "AC9M2N02-V2-T12",
+    "curriculum_code": "AC9M2N02",
     "subject": "math",
     "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
     "bank": "test",
-    "skill": "identify_non_equivalence",
-    "question": "Which is not another name for 460?",
-    "audio_prompt": "Which is not another name for 460?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "46 tens",
-        "is_correct": false
-      },
-      {
-        "text": "4 hundreds + 5 tens",
-        "is_correct": true
-      },
-      {
-        "text": "3 hundreds + 16 tens",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
+    "strand": "Explain zero’s role",
+    "concept": "trailing_zero",
+    "question": "Build or draw 640 in its usual grouping. Label the empty place.",
+    "audio_prompt": "Build or draw 640 in its usual grouping. Label the empty place.",
+    "type": "self-check",
+    "correct": "6 hundreds, 4 tens and 0 ones. The ones place is empty.",
+    "answers": [],
     "explanation": {
-      "summary": "4 hundreds + 5 tens equals 450, not 460.",
-      "hint": "Calculate each total."
+      "summary": "640 = 600 + 40 + 0.",
+      "hint": "Use zero to record the empty place."
     },
-    "difficulty": 1,
-    "difficulty_tier": "apply",
-    "sequence_priority": 8,
-    "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
-    }
-  },
-  {
-    "id": "AC9M2N02-T-009",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
-    "bank": "test",
-    "skill": "zero_placeholder",
-    "question": "Why is 9 hundreds and 2 ones written 902, not 92?",
-    "audio_prompt": "Why is 9 hundreds and 2 ones written 902, not 92?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The zero means 2 tens",
-        "is_correct": false
-      },
-      {
-        "text": "Every number above 100 ends with zero",
-        "is_correct": false
-      },
-      {
-        "text": "The zero holds the empty tens place",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "902 records 9 hundreds, 0 tens and 2 ones.",
-      "hint": "Write H, T and O."
+      "type": "html",
+      "html": "<figure class=\"n02-visual\"><figcaption>Build 640</figcaption><table class=\"n02-chart\"><thead><tr><th>Hundreds</th><th>Tens</th><th>Ones</th></tr></thead><tbody><tr><td>?</td><td>?</td><td>?</td></tr></tbody></table></figure>",
+      "alt_text": "Build 640: ?, ?, ?"
     },
     "difficulty": 2,
-    "difficulty_tier": "apply",
-    "sequence_priority": 9,
-    "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
-    }
+    "quality_schema": "authored-v2",
+    "version": "20261015-ac9m2n02-v2",
+    "gradingMode": "adult-review",
+    "modelAnswer": "6 hundreds, 4 tens and 0 ones. The ones place is empty.",
+    "acceptanceNote": "Require a model of 640 and usual labels 6H4T0O with the empty ones place identified. Alternative equal constructions must also connect to the requested usual grouping.",
+    "responseInstructions": "Write or say your answer. You may build with blocks or draw on paper. A grown-up checks your work after you finish.",
+    "completionLabel": "I have completed the task and shown or told a grown-up my answer."
   },
   {
-    "id": "AC9M2N02-T-010",
+    "id": "AC9M2N02-V2-T13",
+    "curriculum_code": "AC9M2N02",
     "subject": "math",
     "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
     "bank": "test",
-    "skill": "rearrange_partition",
-    "question": "Trade 2 hundreds in 731 for tens. Which grouping results?",
-    "audio_prompt": "Trade 2 hundreds in 731 for tens. Which grouping results?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "5 hundreds + 23 tens + 1 one",
-        "is_correct": true
-      },
-      {
-        "text": "7 hundreds + 21 tens + 1 one",
-        "is_correct": false
-      },
-      {
-        "text": "5 hundreds + 3 tens + 21 ones",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
+    "strand": "Explain zero’s role",
+    "concept": "regroup_to_zero",
+    "question": "A collection has 2 hundreds, 20 tens and 7 ones. Write its usual numeral.",
+    "audio_prompt": "A collection has 2 hundreds, 20 tens and 7 ones. Write its usual numeral.",
+    "type": "number",
+    "correct": 407,
+    "answers": [],
     "explanation": {
-      "summary": "Two hundreds add 20 tens; 7 hundreds becomes 5 hundreds.",
-      "hint": "Subtract the traded hundreds and add equivalent tens."
+      "summary": "20 tens make 2 hundreds. Altogether there are 4 hundreds, no separate tens and 7 ones: 407.",
+      "hint": "Trade all complete groups of 10 tens."
+    },
+    "visual": {
+      "type": "html",
+      "html": "<figure class=\"n02-visual\"><figcaption>Before regrouping</figcaption><table class=\"n02-chart\"><thead><tr><th>Hundreds</th><th>Tens</th><th>Ones</th></tr></thead><tbody><tr><td>2</td><td>20</td><td>7</td></tr></tbody></table></figure>",
+      "alt_text": "Before regrouping: 2, 20, 7"
     },
     "difficulty": 2,
-    "difficulty_tier": "apply",
-    "sequence_priority": 10,
-    "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
-    }
+    "quality_schema": "authored-v2",
+    "version": "20261015-ac9m2n02-v2"
   },
   {
-    "id": "AC9M2N02-T-011",
+    "id": "AC9M2N02-V2-T14",
+    "curriculum_code": "AC9M2N02",
     "subject": "math",
     "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
     "bank": "test",
-    "skill": "partition_with_constraints",
-    "question": "Which name for 842 uses exactly 7 hundreds?",
-    "audio_prompt": "Which name for 842 uses exactly 7 hundreds?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "7 hundreds + 4 tens + 2 ones",
-        "is_correct": false
-      },
-      {
-        "text": "7 hundreds + 14 tens + 2 ones",
-        "is_correct": true
-      },
-      {
-        "text": "7 hundreds + 142 ones",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
+    "strand": "Explain zero’s role",
+    "concept": "explain_placeholder",
+    "question": "Arun writes 809 as 89. Explain what the zero does in 809 and why 89 is a different amount.",
+    "audio_prompt": "Arun writes 809 as 89. Explain what the zero does in 809 and why 89 is a different amount.",
+    "type": "self-check",
+    "correct": "In 809, zero records no separate tens and keeps 8 in the hundreds place. 809 is 8 hundreds and 9 ones; 89 is 8 tens and 9 ones.",
+    "answers": [],
     "explanation": {
-      "summary": "700 + 140 + 2 = 842.",
-      "hint": "The missing hundred must be represented by 10 tens."
+      "summary": "The 8 is worth 800 in 809 and 80 in 89.",
+      "hint": "Use the value of the 8 to compare the two numerals."
     },
-    "difficulty": 2,
-    "difficulty_tier": "apply",
-    "sequence_priority": 11,
-    "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
-    }
+    "visual": {
+      "type": "html",
+      "html": "<figure class=\"n02-visual\"><figcaption>Compare the two numerals</figcaption><div class=\"n02-parts\"><p>809</p><p>89</p></div></figure>",
+      "alt_text": "Compare the two numerals: 809, 89"
+    },
+    "difficulty": 3,
+    "quality_schema": "authored-v2",
+    "version": "20261015-ac9m2n02-v2",
+    "gradingMode": "adult-review",
+    "modelAnswer": "In 809, zero records no separate tens and keeps 8 in the hundreds place. 809 is 8 hundreds and 9 ones; 89 is 8 tens and 9 ones.",
+    "acceptanceNote": "Require explanation of the empty tens place and differing hundreds/tens values. Accept equivalent spoken, signed, scribed or modelled reasoning.",
+    "responseInstructions": "Write or say your answer. You may build with blocks or draw on paper. A grown-up checks your work after you finish.",
+    "completionLabel": "I have completed the task and shown or told a grown-up my answer."
   },
   {
-    "id": "AC9M2N02-T-012",
+    "id": "AC9M2N02-V2-T15",
+    "curriculum_code": "AC9M2N02",
     "subject": "math",
     "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
     "bank": "test",
-    "skill": "reason_from_clues",
-    "question": "A number can be named 3 hundreds + 25 tens + 4 ones. What is its usual numeral?",
-    "audio_prompt": "A number can be named 3 hundreds + 25 tens + 4 ones. What is its usual numeral?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "354",
-        "is_correct": false
-      },
-      {
-        "text": "524",
-        "is_correct": false
-      },
-      {
-        "text": "554",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "strand": "Explain zero’s role",
+    "concept": "zero_nested_units",
+    "question": "Rename 560 using only complete tens and leftover ones. Explain the zero in 560.",
+    "audio_prompt": "Rename 560 using only complete tens and leftover ones. Explain the zero in 560.",
+    "type": "self-check",
+    "correct": "56 tens and 0 leftover ones. In the usual grouping, the zero shows that there are no loose ones.",
+    "answers": [],
     "explanation": {
-      "summary": "300 + 250 + 4 = 554.",
-      "hint": "Regroup 25 tens into hundreds and tens."
+      "summary": "5 hundreds contain 50 tens. With 6 more tens there are 56 tens, and no leftover ones.",
+      "hint": "Count tens inside the hundreds as well as the separate tens."
     },
-    "difficulty": 2,
-    "difficulty_tier": "apply",
-    "sequence_priority": 12,
-    "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
-    }
+    "visual": {
+      "type": "html",
+      "html": "<figure class=\"n02-visual\"><figcaption>Parts of the same number</figcaption><div class=\"n02-parts\"><p>560</p><p>? complete tens</p><p>? leftover ones</p></div></figure>",
+      "alt_text": "Parts of the same number: 560, ? complete tens, ? leftover ones"
+    },
+    "difficulty": 3,
+    "quality_schema": "authored-v2",
+    "version": "20261015-ac9m2n02-v2",
+    "gradingMode": "adult-review",
+    "modelAnswer": "56 tens and 0 leftover ones. In the usual grouping, the zero shows that there are no loose ones.",
+    "acceptanceNote": "Require 56T0O and a correct empty-ones explanation. 5H6T0O alone does not meet the requested only-tens renaming.",
+    "responseInstructions": "Write or say your answer. You may build with blocks or draw on paper. A grown-up checks your work after you finish.",
+    "completionLabel": "I have completed the task and shown or told a grown-up my answer."
   },
   {
-    "id": "AC9M2N02-T-013",
+    "id": "AC9M2N02-V2-T16",
+    "curriculum_code": "AC9M2N02",
     "subject": "math",
     "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
     "bank": "test",
-    "skill": "diagnose_error",
-    "question": "Noah says 6 hundreds + 12 ones = 612, so 5 hundreds + 12 tens also equals 612. Is he correct?",
-    "audio_prompt": "Noah says 6 hundreds + 12 ones = 612, so 5 hundreds + 12 tens also equals 612. Is he correct?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "No; 5 hundreds + 12 tens is 620",
-        "is_correct": true
-      },
-      {
-        "text": "Yes; both equal 612",
-        "is_correct": false
-      },
-      {
-        "text": "No; 6 hundreds + 12 ones is 602",
-        "is_correct": false
-      }
+    "strand": "Make equal exchanges",
+    "concept": "reverse_hundred_exchange",
+    "question": "A model has 7 hundreds, 3 tens and 1 one. Open 2 hundreds into tens. Name the result.",
+    "audio_prompt": "A model has 7 hundreds, 3 tens and 1 one. Open 2 hundreds into tens. Name the result.",
+    "type": "fill-blank",
+    "correct": [
+      5,
+      23,
+      1
     ],
-    "correct_index": 0,
+    "answers": [],
     "explanation": {
-      "summary": "500 + 120 = 620, while 600 + 12 = 612.",
-      "hint": "Calculate both expressions separately."
+      "summary": "2 hundreds become 20 tens. Keep 5 hundreds, add the original 3 tens, and keep 1 one: 5 hundreds, 23 tens and 1 one.",
+      "hint": "Both hundreds opened must be replaced with tens."
     },
-    "difficulty": 2,
-    "difficulty_tier": "reason",
-    "sequence_priority": 13,
-    "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
-    }
-  },
-  {
-    "id": "AC9M2N02-T-014",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
-    "bank": "test",
-    "skill": "multiple_regroupings",
-    "question": "Which chain keeps the same value throughout?",
-    "audio_prompt": "Which chain keeps the same value throughout?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "html",
+      "html": "<figure class=\"n02-visual\"><figcaption>Before opening 2 hundreds</figcaption><table class=\"n02-chart\"><thead><tr><th>Hundreds</th><th>Tens</th><th>Ones</th></tr></thead><tbody><tr><td>7</td><td>3</td><td>1</td></tr></tbody></table></figure>",
+      "alt_text": "Before opening 2 hundreds: 7, 3, 1"
     },
-    "answers": [
-      {
-        "text": "480 = 480 tens = 4 hundreds + 8 ones",
-        "is_correct": false
-      },
-      {
-        "text": "480 = 48 tens = 4 hundreds + 8 tens",
-        "is_correct": true
-      },
-      {
-        "text": "480 = 4 tens + 80 ones = 48 hundreds",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "480 equals 48 tens and also 4 hundreds + 8 tens.",
-      "hint": "Check the value at every equals sign."
-    },
-    "difficulty": 2,
-    "difficulty_tier": "reason",
-    "sequence_priority": 14,
-    "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
-    }
-  },
-  {
-    "id": "AC9M2N02-T-015",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
-    "bank": "test",
-    "skill": "standardise_large_ones",
-    "question": "2 hundreds + 7 tens + 34 ones in standard form is:",
-    "audio_prompt": "2 hundreds + 7 tens + 34 ones in standard form is:",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "2 hundreds + 10 tens + 4 ones",
-        "is_correct": false
-      },
-      {
-        "text": "3 hundreds + 4 tens + 0 ones",
-        "is_correct": false
-      },
-      {
-        "text": "3 hundreds + 0 tens + 4 ones",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "34 ones add 3 tens and 4 ones; 7 tens + 3 tens makes 1 hundred, leaving 304.",
-      "hint": "Regroup ones, then regroup tens if needed."
-    },
-    "difficulty": 2,
-    "difficulty_tier": "reason",
-    "sequence_priority": 15,
-    "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
-    }
-  },
-  {
-    "id": "AC9M2N02-T-016",
-    "subject": "math",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9M2N02",
-    "bank": "test",
-    "skill": "explain_place_value",
-    "question": "In 707, the two 7s have different values. Which statement is correct?",
-    "audio_prompt": "In 707, the two 7s have different values. Which statement is correct?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The first 7 is 700 and the last 7 is 7",
-        "is_correct": true
-      },
-      {
-        "text": "Both 7s are worth 7",
-        "is_correct": false
-      },
-      {
-        "text": "The first 7 is 70 and the last 7 is 700",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The left 7 is in the hundreds place; the right 7 is in the ones place.",
-      "hint": "Name each 7's place."
-    },
-    "difficulty": 2,
-    "difficulty_tier": "reason",
-    "sequence_priority": 16,
-    "review": {
-      "version": "20260906-year2-maths-ixl-review-1",
-      "status": "editorially-reviewed",
-      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
-      "evidence_scope": "All in-scope IXL pages mapped to this descriptor were inspected; task types and limitations are recorded in docs/question-bank-reviews/2026-09-06-year2-maths-n01-n03.md. No wording or media was copied."
-    }
+    "difficulty": 3,
+    "quality_schema": "authored-v2",
+    "version": "20261015-ac9m2n02-v2",
+    "template": "{{blank}} hundreds, {{blank}} tens, {{blank}} ones.",
+    "acceptedAnswers": [
+      [
+        "5"
+      ],
+      [
+        "23"
+      ],
+      [
+        "1"
+      ]
+    ]
   }
 ]

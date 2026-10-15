@@ -44,7 +44,12 @@ document.addEventListener("DOMContentLoaded", () => {
     const explanation = document.createElement("p");
     explanation.textContent = answer.explanation || "Review the topic guide and try again.";
     card.append(heading, status);
-    if (answer.visualModel && window.SkillrYear1Maths) {
+    if (answer.visualHtml) {
+      const model = document.createElement("div");
+      model.className = "question-visual production-question-visual";
+      model.innerHTML = answer.visualHtml;
+      card.appendChild(model);
+    } else if (answer.visualModel && window.SkillrYear1Maths) {
       const model = document.createElement("div");
       model.innerHTML = window.SkillrYear1Maths.visualMarkup(answer.visualModel);
       card.appendChild(model);

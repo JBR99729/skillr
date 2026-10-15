@@ -28,7 +28,7 @@ if (window.quizConfig && /\/(?:practice|test)(?:\/index\.html|\/?)$/i.test(windo
   window.quizConfig.retakeUrl = `${activityPath}retake/`;
 }
 
-  document.write('<script src="/quiz/assets/script-runtime-v115.js?v=20261013-authored-preparation"><\/script>');
+  document.write('<script src="/quiz/assets/script-runtime-v115.js?v=20261015-authored-count"><\/script>');
 
 // skillr-companions: shared brand and optional learning navigation
 (function () {

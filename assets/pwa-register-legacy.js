@@ -57,7 +57,7 @@
     "/assets/skillr-concept-svg.js?v=2",
     "/assets/curriculum-cluster-core.js?v=1",
     "/assets/curriculum-strand-coverage.js?v=2",
-    "/assets/curriculum-visual-layer.js?v=2",
+    "/assets/curriculum-visual-layer.js?v=20261015-n02-authored",
     "/assets/teacher-slide-clusters.js?v=1",
     "/assets/multi-strand-worksheet-pack.js?v=1",
     "/assets/qa-complete-ribbon.js?v=3"
@@ -166,7 +166,7 @@
     [/^\/quiz\/year-1\/english\/ac9e1[a-z0-9]+\/(practice|test)\/?$/i, [...year1EnglishData, "/assets/year1-english-practice-quick-read.js?v=2"]],
     [/^\/quiz\/year-1\/english\/ac9e1[a-z0-9]+\/worksheet\/?$/i, [...year1EnglishData, "/assets/year1-english-worksheet-page.js?v=2"]],
 
-    [/^\/quiz\/year-2\/math\/ac9m2[a-z0-9]+\/(practice|test)\/?$/i, [...year2MathsData, "/assets/year2-maths-practice-quick-read.js?v=3"]],
+    [/^\/quiz\/year-2\/math\/ac9m2[a-z0-9]+\/(practice|test)\/?$/i, [...year2MathsData, "/assets/year2-maths-practice-quick-read.js?v=20261015-authored-preparation"]],
     [/^\/quiz\/year-2\/math\/ac9m2[a-z0-9]+\/worksheet\/?$/i, [...year2MathsData, "/assets/year2-maths-worksheet-page.js?v=3"]],
     [/^\/year2\/science\/ac9s2/i, [...year2ScienceData, "/assets/year2-science-render.js?v=3"]],
     [/^\/quiz\/year-2\/science\/ac9s2u0[123]\/(practice|test)\/?$/i, [...year2ScienceData, "/assets/year2-science-practice-quick-read.js?v=2", "/assets/year2-science-authored-banks.js?v=20260813-qa1", "/assets/year2-science-bank-loader.js?v=20260813-qa1"]],

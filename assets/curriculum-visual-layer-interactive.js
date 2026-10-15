@@ -10,6 +10,11 @@
   const slideMatch = path.match(/^\/worksheets\/(foundation|year\d+)\/(maths|science|english)\/teacher-slides\/live\.html$/i);
   if (!topicMatch && !quizMatch && !slideMatch) return;
 
+  // AC9M2N02 has independently reviewed Year 2 preparation and worked models.
+  if (quizMatch?.[1]?.toLowerCase() === "year-2" && /^(math|maths)$/i.test(quizMatch[2]) &&
+      quizMatch[3].toLowerCase() === "ac9m2n02" &&
+      document.querySelector('[data-skillr-authored-preparation="true"]')) return;
+
   // Reviewed Year 4 resources already contain their topic-specific models.
   // Do not add a second model from the legacy curriculum data.
   if (quizMatch?.[1]?.toLowerCase() === "year-4" && /^(math|maths)$/i.test(quizMatch[2]) &&

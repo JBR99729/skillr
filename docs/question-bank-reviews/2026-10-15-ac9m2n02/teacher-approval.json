@@ -1,0 +1,10 @@
+{
+  "approved": true,
+  "version": "20261015-ac9m2n02-research-v2",
+  "candidateSHA256": "21cef9c153337ab45820d94aa1e72b65c5e8027b7f100e65d871d2e69ef6a52f",
+  "reviewer": "/root/teacher_review_n02",
+  "model": "gpt-6-astra",
+  "reviewedItems": 46,
+  "closedFindings": 8,
+  "scope": "Candidate content/specification approval only; runtime testing pending"
+}

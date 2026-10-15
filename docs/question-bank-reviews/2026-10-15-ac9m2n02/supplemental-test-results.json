@@ -1,0 +1,39 @@
+{
+  "at": "2026-10-15T11:33:05.616Z",
+  "errors": [],
+  "checks": [
+    {
+      "authoredScaffoldNetworkIdle": true,
+      "manualExpansion": true,
+      "learningCollapsedOnOpen": true,
+      "keyboardStart": true
+    },
+    {
+      "adultNeedsPracticePersistsAfterReviewAndResultReload": true,
+      "localProgressSaved": true,
+      "phoneReviewVisualRetained": true
+    },
+    {
+      "learningCollapsedAfterRetake": true
+    },
+    {
+      "keyboardSingleSelectionIncorrectFeedback": true
+    },
+    {
+      "keyboardMultiBlankTabAndSubmit": true
+    },
+    {
+      "testKeyboardStartAndSubmit": true,
+      "widgetHidden": true,
+      "min44Controls": true
+    },
+    {
+      "tabletCheckboxLabel": {
+        "x": 66.90625,
+        "y": 1110.609375,
+        "width": 634.1875,
+        "height": 26
+      }
+    }
+  ]
+}

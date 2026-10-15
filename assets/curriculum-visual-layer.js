@@ -9,7 +9,7 @@
   if (topicMatch) return;
 
   const script = document.createElement("script");
-  script.src = "/assets/curriculum-visual-layer-interactive.js?v=1";
+  script.src = "/assets/curriculum-visual-layer-interactive.js?v=20261015-n02-authored";
   script.async = false;
   document.head.appendChild(script);
 })();
