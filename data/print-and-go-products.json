@@ -1,5 +1,60 @@
 [
   {
+    "id": "tpt-17959347",
+    "title": "Year 2 Place Value Teaching Slides | AC9M2N02 | 31 Slides + Teacher Notes",
+    "year": 2,
+    "yearLabel": "Year 2",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "curriculumCodes": [
+      "AC9M2N02"
+    ],
+    "url": "/products/tpt-17959347/",
+    "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-2-Place-Value-Teaching-Slides-AC9M2N02-31-Slides-Teacher-Notes-17959347-1792045802/large-17959347-1.jpg",
+    "price": "8.00",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-2-Place-Value-Teaching-Slides-AC9M2N02-31-Slides-Teacher-Notes-17959347",
+    "free": false,
+    "isBundle": false,
+    "format": "Flattened PowerPoint (.pptx), 16:9, with teacher notes retained",
+    "tptResourceType": "Microsoft PowerPoint",
+    "slideCount": 31,
+    "teacherNotes": true,
+    "listingConfirmedAt": "2026-10-15",
+    "topics": [
+      "place value",
+      "partitioning",
+      "regrouping",
+      "renaming",
+      "equal exchanges",
+      "zero",
+      "hundreds",
+      "tens",
+      "ones",
+      "base ten",
+      "two-digit numbers",
+      "three-digit numbers",
+      "teacher notes",
+      "teaching slides"
+    ],
+    "description": "31 teaching slides across three lessons on partitioning and renaming two- and three-digit numbers, equal exchanges, and zero in place-value notation. Includes base-ten models, worked examples, guided and independent tasks, answer checks and teacher notes on every slide. Flattened 16:9 PowerPoint; printable workbook and separate test are not included.",
+    "includes": [
+      "31 widescreen teaching slides organised into three lessons",
+      "Partition and rename numbers using standard and non-standard groupings",
+      "Exchange 10 ones for 1 ten and 10 tens for 1 hundred in both directions",
+      "Explain internal and trailing zeros, and distinguish the tens digit from all complete tens",
+      "Worked I do examples, guided We do questions, independent You do tasks and answer explanations",
+      "Teacher notes on every slide: teaching script, misconceptions, observations, move-on guidance and acceptable answers",
+      "Flattened non-editable PowerPoint slide content, with teacher notes retained; Australian spelling"
+    ],
+    "learningGoals": [
+      "Partition, rearrange, regroup and rename two- and three-digit numbers using standard and non-standard groupings.",
+      "Explain equal base-ten exchanges and the role of zero in place-value notation."
+    ]
+  },
+  {
     "id": "tpt-17957743",
     "title": "Foundation Maths Full Year Worksheets & Tests Bundle | All 12 AC v9 Codes",
     "year": 0,
