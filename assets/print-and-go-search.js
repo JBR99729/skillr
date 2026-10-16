@@ -123,15 +123,16 @@
     years.forEach(year => {
       const option = element('option', String(year) === '0' ? 'Foundation' : `Year ${year}`, '');
       option.value = year;
-      yearSelect.appendChild(option);
+      yearSelect?.appendChild(option);
     });
 
     subjects.forEach(subject => {
       const option = element('option', subject.charAt(0).toUpperCase() + subject.slice(1), '');
       option.value = subject;
-      subjectSelect.appendChild(option);
+      subjectSelect?.appendChild(option);
     });
 
+    if (!tagRow) return;
     const sortedTags = Object.entries(allTags).sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
     sortedTags.slice(0, 16).forEach(([tag]) => {
       const chip = element('button', tag, 'tag-chip');
@@ -156,16 +157,16 @@
   }
 
   function updateFilterUI() {
-    tagRow.querySelectorAll('[data-tag-chip]').forEach(chip => {
+    (tagRow?.querySelectorAll('[data-tag-chip]') || []).forEach(chip => {
       chip.classList.toggle('is-active', chip.dataset.tagChip === activeTag);
     });
   }
 
   function currentFilters() {
     const filters = {
-      year: yearSelect ? yearSelect.value : '',
-      subject: subjectSelect ? subjectSelect.value : '',
-      resourceType: typeSelect ? typeSelect.value : 'all',
+      year: yearSelect ? yearSelect.value : (document.body.dataset.year || ''),
+      subject: subjectSelect ? subjectSelect.value : (document.body.dataset.subject || ''),
+      resourceType: typeSelect ? typeSelect.value : (isSlides ? 'teaching-slides' : 'all'),
       cost: costSelect ? costSelect.value : 'all'
     };
     return filters;
@@ -177,7 +178,7 @@
     results.hidden = true;
     pagination.hidden = true;
     browse.hidden = true;
-    if (!query && !section.dataset.showAll) { status.textContent = ''; return; }
+    if (!query && !section.dataset.showAll) { browse.hidden = false; status.textContent = ''; return; }
     if (failed) { browse.hidden = false; status.textContent = 'Search is unavailable. Please browse the categories below or reload to try again.'; return; }
     if (!products) { status.textContent = isSlides ? 'Loading teaching slides...' : 'Loading printables...'; return; }
     const filters = currentFilters();
@@ -197,11 +198,11 @@
   }
   form.addEventListener('submit', event => {event.preventDefault(); clearTimeout(timer); page = 1; render();});
   input.addEventListener('input', () => {clearTimeout(timer); page = 1; timer = setTimeout(render, 120);});
-  yearSelect.addEventListener('change', () => {page = 1; render();});
-  subjectSelect.addEventListener('change', () => {page = 1; render();});
-  typeSelect.addEventListener('change', () => {page = 1; render();});
-  costSelect.addEventListener('change', () => {page = 1; render();});
-  clearFilters.addEventListener('click', () => {
+  yearSelect?.addEventListener('change', () => {page = 1; render();});
+  subjectSelect?.addEventListener('change', () => {page = 1; render();});
+  typeSelect?.addEventListener('change', () => {page = 1; render();});
+  costSelect?.addEventListener('change', () => {page = 1; render();});
+  clearFilters?.addEventListener('click', () => {
     setFilterState({});
     activeTag = 'all';
     input.value = '';

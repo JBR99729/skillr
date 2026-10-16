@@ -8,6 +8,11 @@ on:
       - 'sitemap*.xml'
       - 'scripts/audit_search_ai_integrity.mjs'
       - 'scripts/audit_internal_links.py'
+      - 'data/print-and-go-products.json'
+      - 'scripts/audit_product_guide_links.py'
+      - 'assets/print-and-go-search.js'
+      - 'scripts/build-product-pages.cjs'
+      - 'scripts/lib/product-guide-links.cjs'
       - 'assets/resource-links.js'
       - 'assets/seo-routing.js'
       - 'scripts/tests/test_seo_routing_policy.mjs'
@@ -25,6 +30,11 @@ on:
       - 'sitemap*.xml'
       - 'scripts/audit_search_ai_integrity.mjs'
       - 'scripts/audit_internal_links.py'
+      - 'data/print-and-go-products.json'
+      - 'scripts/audit_product_guide_links.py'
+      - 'assets/print-and-go-search.js'
+      - 'scripts/build-product-pages.cjs'
+      - 'scripts/lib/product-guide-links.cjs'
       - 'assets/resource-links.js'
       - 'assets/seo-routing.js'
       - 'scripts/tests/test_seo_routing_policy.mjs'
@@ -59,6 +69,7 @@ jobs:
         run: |
           node --check assets/resource-links.js
           node --check assets/seo-routing.js
+          node --check assets/print-and-go-search.js
           node --check pwa-register.js
           node --check quiz/assets/script.js
           node --check quiz/assets/script-runtime-v115.js
@@ -67,3 +78,6 @@ jobs:
 
       - name: Preserve authored activity indexing policy
         run: node --test scripts/tests/test_seo_routing_policy.mjs
+
+      - name: Check product links to matching free guides
+        run: python3 scripts/audit_product_guide_links.py
