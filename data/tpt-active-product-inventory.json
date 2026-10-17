@@ -1,8 +1,107 @@
 {
   "auditedAt": "2026-10-08",
   "storefront": "https://www.teacherspayteachers.com/store/skillrhub",
-  "activeProductCount": 195,
+  "activeProductCount": 204,
   "products": [
+    {
+      "productId": "17968146",
+      "title": "Year 2 Fractions PowerPoint | Halves Quarters Eighths | AC9M2N03 | 36 Slides",
+      "url": "https://www.teacherspayteachers.com/Product/Year-2-Fractions-PowerPoint-Halves-Quarters-Eighths-AC9M2N03-36-Slides-17968146",
+      "image": "/assets/tpt-17968146-cover.jpg",
+      "isBundle": false,
+      "free": false,
+      "price": "8.00",
+      "regularPrice": "8.00",
+      "observedAt": "2026-10-17"
+    },
+    {
+      "productId": "17970718",
+      "title": "Year 2 Maths Word Problems & Money PowerPoint | 50 Teaching Slides | AC9M2N06",
+      "url": "https://www.teacherspayteachers.com/Product/Year-2-Maths-Word-Problems-Money-PowerPoint-50-Teaching-Slides-AC9M2N06-17970718",
+      "image": "/assets/tpt-17970718-cover.jpg",
+      "isBundle": false,
+      "free": false,
+      "price": "8.00",
+      "regularPrice": "8.00",
+      "observedAt": "2026-10-17"
+    },
+    {
+      "productId": "17979605",
+      "title": "Year 2 Growing & Shrinking Patterns PowerPoint | AC9M2A01 | 50 Teaching Slides",
+      "url": "https://www.teacherspayteachers.com/Product/Year-2-Growing-Shrinking-Patterns-PowerPoint-AC9M2A01-50-Teaching-Slides-17979605",
+      "image": "/assets/tpt-17979605-cover.jpg",
+      "isBundle": false,
+      "free": false,
+      "price": "8.00",
+      "regularPrice": "8.00",
+      "observedAt": "2026-10-17"
+    },
+    {
+      "productId": "17980541",
+      "title": "Addition & Subtraction Facts to 20 | Year 2 Maths Teaching PowerPoint",
+      "url": "https://www.teacherspayteachers.com/Product/Addition-Subtraction-Facts-to-20-Year-2-Maths-Teaching-PowerPoint-17980541",
+      "image": "/assets/tpt-17980541-cover.jpg",
+      "isBundle": false,
+      "free": false,
+      "price": "8.00",
+      "regularPrice": "8.00",
+      "observedAt": "2026-10-17"
+    },
+    {
+      "productId": "17981819",
+      "title": "Year 2 Doubling & Halving PowerPoint | Multiply & Divide by 2 | AC9M2A03",
+      "url": "https://www.teacherspayteachers.com/Product/Year-2-Doubling-Halving-PowerPoint-Multiply-Divide-by-2-AC9M2A03-17981819",
+      "image": "/assets/tpt-17981819-cover.jpg",
+      "isBundle": false,
+      "free": false,
+      "price": "8.00",
+      "regularPrice": "8.00",
+      "observedAt": "2026-10-17"
+    },
+    {
+      "productId": "17968975",
+      "title": "Year 2 Multiplication & Division Worksheets | 60 Practice + 15 Test | AC9M2N05",
+      "url": "https://www.teacherspayteachers.com/Product/Year-2-Multiplication-Division-Worksheets-60-Practice-15-Test-AC9M2N05-17968975",
+      "image": "/assets/tpt-17968975-cover.jpg",
+      "isBundle": false,
+      "free": false,
+      "price": "7.00",
+      "regularPrice": "7.00",
+      "observedAt": "2026-10-17"
+    },
+    {
+      "productId": "17970513",
+      "title": "Year 2 Maths Mathematical Modelling & Money | 60 Practice + 15 Test | AC9M2N06",
+      "url": "https://www.teacherspayteachers.com/Product/Year-2-Maths-Mathematical-Modelling-Money-60-Practice-15-Test-AC9M2N06-17970513",
+      "image": "/assets/tpt-17970513-cover.jpg",
+      "isBundle": false,
+      "free": false,
+      "price": "7.50",
+      "regularPrice": "7.50",
+      "observedAt": "2026-10-17"
+    },
+    {
+      "productId": "17972117",
+      "title": "Year 2 Addition & Subtraction to 20 | AC9M2A02 | 60 Practice + 15 Test",
+      "url": "https://www.teacherspayteachers.com/Product/Year-2-Addition-Subtraction-to-20-AC9M2A02-60-Practice-15-Test-17972117",
+      "image": "/assets/tpt-17972117-cover.jpg",
+      "isBundle": false,
+      "free": false,
+      "price": "7.00",
+      "regularPrice": "7.00",
+      "observedAt": "2026-10-17"
+    },
+    {
+      "productId": "17980957",
+      "title": "Year 2 Doubling & Halving Worksheets | Multiply & Divide by 2 | AC9M2A03",
+      "url": "https://www.teacherspayteachers.com/Product/Year-2-Doubling-Halving-Worksheets-Multiply-Divide-by-2-AC9M2A03-17980957",
+      "image": "/assets/tpt-17980957-cover.jpg",
+      "isBundle": false,
+      "free": false,
+      "price": "7.50",
+      "regularPrice": "7.50",
+      "observedAt": "2026-10-17"
+    },
     {
       "productId": "17967143",
       "title": "Year 2 Fractions: Halves, Quarters & Eighths | AC9M2N03",
@@ -670,7 +769,7 @@
     },
     {
       "productId": "17802766",
-      "title": "Foundation Subitising 0–5 Slides | AC9MFN02 | Australian Curriculum v9",
+      "title": "Foundation Subitising 0\u20135 Slides | AC9MFN02 | Australian Curriculum v9",
       "url": "https://www.teacherspayteachers.com/Product/Foundation-Subitising-05-Slides-AC9MFN02-Australian-Curriculum-v9-17802766",
       "image": "https://ecdn.teacherspayteachers.com/thumbitem/Foundation-Subitising-0-5-Slides-AC9MFN02-Australian-Curriculum-v9-17802766-1790809576/original-17802766-1.jpg",
       "isBundle": false,
@@ -681,7 +780,7 @@
     },
     {
       "productId": "17802130",
-      "title": "Foundation Numbers 0–20 Slides | AC9MFN01 | Australian Curriculum v9",
+      "title": "Foundation Numbers 0\u201320 Slides | AC9MFN01 | Australian Curriculum v9",
       "url": "https://www.teacherspayteachers.com/Product/Foundation-Numbers-020-Slides-AC9MFN01-Australian-Curriculum-v9-17802130",
       "image": "https://ecdn.teacherspayteachers.com/thumbitem/Foundation-Numbers-0-20-Slides-AC9MFN01-Australian-Curriculum-v9-17802130-1790803695/original-17802130-1.jpg",
       "isBundle": false,
@@ -1462,7 +1561,7 @@
     },
     {
       "productId": "17592266",
-      "title": "Year 3 Time Worksheets | Duration & Analogue Clocks | AC9M3M03–AC9M3M04",
+      "title": "Year 3 Time Worksheets | Duration & Analogue Clocks | AC9M3M03\u2013AC9M3M04",
       "url": "https://www.teacherspayteachers.com/Product/Year-3-Time-Worksheets-Duration-Analogue-Clocks-AC9M3M03AC9M3M04-17592266",
       "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-3-Time-Practice-Pack-Analogue-Clocks-Duration-AC9M3M03-AC9M3M04-17592266-1790145537/original-17592266-1.jpg",
       "isBundle": false,
@@ -2110,7 +2209,7 @@
     },
     {
       "productId": "17902041",
-      "title": "Year 1 English Literature Worksheets & Tests Bundle | AC9E1LE01–LE05 | VIC",
+      "title": "Year 1 English Literature Worksheets & Tests Bundle | AC9E1LE01\u2013LE05 | VIC",
       "url": "https://www.teacherspayteachers.com/Product/Year-1-English-Literature-Worksheets-Tests-Bundle-AC9E1LE01LE05-VIC-17902041",
       "image": "/assets/tpt-17902041-cover.png",
       "isBundle": true,
