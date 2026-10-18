@@ -6,7 +6,7 @@
   "retainedSectionComparison": {
     "AC9M2M01": {
       "intended": [
-        "Video entry",
+        "One video entry",
         "Hero + one matching resource card",
         "Focused worked examples",
         "Try it together",
@@ -27,11 +27,12 @@
       "legacyResourceSelectors": 0,
       "duplicatePaidCTAs": 0,
       "result": "PASS",
-      "sha256": "5b92ae002e120ebff8bae76d7ed57bfe83c30a0232ec4928a21c093a22799326"
+      "sha256": "5b92ae002e120ebff8bae76d7ed57bfe83c30a0232ec4928a21c093a22799326",
+      "videoEntryCount": 1
     },
     "AC9M2M02": {
       "intended": [
-        "No pre-existing video",
+        "One video entry",
         "Hero + one matching resource card",
         "Focused worked examples",
         "Try it together",
@@ -51,11 +52,12 @@
       "legacyResourceSelectors": 0,
       "duplicatePaidCTAs": 0,
       "result": "PASS",
-      "sha256": "3f46a0a03c4fb5223d1206fbd8469f098149225db69712ba6c13d76f73722c79"
+      "sha256": "81853cb2df3e83062fdf6b96c6a878e16dd92d4acffc04da6c7d503062c0cdfc",
+      "videoEntryCount": 1
     },
     "AC9M2M03": {
       "intended": [
-        "No pre-existing video",
+        "One video entry",
         "Hero + one matching resource card",
         "Focused worked examples",
         "Try it together",
@@ -75,11 +77,12 @@
       "legacyResourceSelectors": 0,
       "duplicatePaidCTAs": 0,
       "result": "PASS",
-      "sha256": "3e467bbd3c3d4ae3b02d4728e4fb1fc12a92d5aa20f0f9b52c72339c54398145"
+      "sha256": "81c0d6cb42459b6f69ad797f7ded0a1f7fe20566b9a55e34d4cf04d6f591bfaf",
+      "videoEntryCount": 1
     },
     "AC9M2M04": {
       "intended": [
-        "No pre-existing video",
+        "One video entry",
         "Hero + one matching resource card",
         "Focused worked examples",
         "Try it together",
@@ -99,7 +102,8 @@
       "legacyResourceSelectors": 0,
       "duplicatePaidCTAs": 0,
       "result": "PASS",
-      "sha256": "db72c548fb12520cf3bb3f5c8de6469ce90e82023add74c287992e1134b3941f"
+      "sha256": "43ddae15f27f0dfd241d6bf4863c2b18b4267a5d04966eeef3312c84315a36de",
+      "videoEntryCount": 1
     },
     "AC9M2M05": {
       "intended": [
@@ -123,11 +127,12 @@
       "legacyResourceSelectors": 0,
       "duplicatePaidCTAs": 0,
       "result": "PASS",
-      "sha256": "eef571c3d31c2a4d59496aebdd62e5d06390258806ab7cce7532d954650f411d"
+      "sha256": "eef571c3d31c2a4d59496aebdd62e5d06390258806ab7cce7532d954650f411d",
+      "videoEntryCount": 0
     },
     "AC9M2SP01": {
       "intended": [
-        "No pre-existing video",
+        "One video entry",
         "Hero + one matching resource card",
         "Focused worked examples",
         "Try it together",
@@ -147,11 +152,12 @@
       "legacyResourceSelectors": 0,
       "duplicatePaidCTAs": 0,
       "result": "PASS",
-      "sha256": "bea8f30dfa638f7de5ae13194a36bef35aaa871dfb2e6a1afe16aa75f7934c39"
+      "sha256": "bd5aa1735bab0a1354d926092a2bdadb0fbc866c9115286c8b6cbf18a9ac435f",
+      "videoEntryCount": 1
     },
     "AC9M2SP02": {
       "intended": [
-        "No pre-existing video",
+        "One video entry",
         "Hero + one matching resource card",
         "Focused worked examples",
         "Try it together",
@@ -171,11 +177,12 @@
       "legacyResourceSelectors": 0,
       "duplicatePaidCTAs": 0,
       "result": "PASS",
-      "sha256": "0c67cea38478290ea6922c11aefec908ae6f4868f9d8a3d1ac96717424902a59"
+      "sha256": "bc7f1528ecbd24bc344b1f9ec16f365afe3f9355a50a94f033f0fec9b26d73a4",
+      "videoEntryCount": 1
     },
     "AC9M2ST01": {
       "intended": [
-        "No pre-existing video",
+        "One video entry",
         "Hero + one matching resource card",
         "Focused worked examples",
         "Try it together",
@@ -195,11 +202,12 @@
       "legacyResourceSelectors": 0,
       "duplicatePaidCTAs": 0,
       "result": "PASS",
-      "sha256": "e8d6cd5fa2326821c4c311e536648297462785d690cadea6d43c15c2839fc364"
+      "sha256": "e952a0d9858adceefd803162512cd3e4da64ec181198f7ed9600438490eb3ae1",
+      "videoEntryCount": 1
     },
     "AC9M2ST02": {
       "intended": [
-        "No pre-existing video",
+        "One video entry",
         "Hero + one matching resource card",
         "Focused worked examples",
         "Try it together",
@@ -219,7 +227,8 @@
       "legacyResourceSelectors": 0,
       "duplicatePaidCTAs": 0,
       "result": "PASS",
-      "sha256": "afc301e96a9fd7aa19393f6266b27dbbe188f0776756bcd4214dca81dc31c1a0"
+      "sha256": "d464e86807c5b359eee54f9fbc472a394a24d9b8bb0241486e4d888656e0f0a4",
+      "videoEntryCount": 1
     }
   },
   "catalogue": {
@@ -239,7 +248,9 @@
   "compatibilityCorrections": [
     "Retained curriculum-layout class on main.",
     "Used clean local teacher-slides/ href.",
-    "Preserved load-on-request links for srcdoc video placeholders and added video notice."
+    "Preserved load-on-request links for srcdoc video placeholders and added video notice.",
+    "Restored the existing optional video as one video-first entry, with original iframe/load link and creator title.",
+    "New static catalogue cards sit inside the existing browse container so search hides the browse section instead of repeating products."
   ],
   "baselineCI": {
     "Validate optional topic videos": "Also failed before this batch: run 39005064810. Current global generator requests updates on 676 pages; not a scoped content defect.",
