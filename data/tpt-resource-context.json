@@ -1,8 +1,8 @@
 {
   "observedAt": "2026-10-07",
   "storefront": "https://www.teacherspayteachers.com/store/skillrhub",
-  "observedProductCount": 131,
-  "codeCount": 103,
+  "observedProductCount": 149,
+  "codeCount": 104,
   "evidence": "All seven public store pages inspected. Existing catalogue names and code mappings retained; new listings copied from the live store. Prices and unsupported pack counts intentionally omitted.",
   "unmappedProductIds": [
     "17621276",
@@ -1211,6 +1211,168 @@
       ],
       "freeSample": false,
       "listingConfirmedAt": "2026-10-09"
+    },
+    {
+      "productId": "17982037",
+      "name": "Year 2 Measurement Worksheets Length Capacity Mass AC9M2M01",
+      "url": "https://www.teacherspayteachers.com/Product/Year-2-Measurement-Worksheets-Length-Capacity-Mass-AC9M2M01-17982037",
+      "curriculumCodes": [
+        "AC9M2M01"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17983112",
+      "name": "Year 2 Fractions Worksheets Halves Quarters Eighths AC9M2M02",
+      "url": "https://www.teacherspayteachers.com/Product/Year-2-Fractions-Worksheets-Halves-Quarters-Eighths-AC9M2M02-17983112",
+      "curriculumCodes": [
+        "AC9M2M02"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17989593",
+      "name": "Year 2 Calendar Worksheets AC9M2M03 60 Practice 15 Test",
+      "url": "https://www.teacherspayteachers.com/Product/Year-2-Calendar-Worksheets-AC9M2M03-60-Practice-15-Test-17989593",
+      "curriculumCodes": [
+        "AC9M2M03"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17990357",
+      "name": "Year 2 Telling Time Worksheets AC9M2M04 60 Practice 15 Test Questions",
+      "url": "https://www.teacherspayteachers.com/Product/Year-2-Telling-Time-Worksheets-AC9M2M04-60-Practice-15-Test-Questions-17990357",
+      "curriculumCodes": [
+        "AC9M2M04"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17991230",
+      "name": "Year 2 Turns Worksheets AC9M2M05 60 Practice 15 Test Questions",
+      "url": "https://www.teacherspayteachers.com/Product/Year-2-Turns-Worksheets-AC9M2M05-60-Practice-15-Test-Questions-17991230",
+      "curriculumCodes": [
+        "AC9M2M05"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17991816",
+      "name": "Year 2 2D Shapes Worksheets Properties Classification AC9M2SP01",
+      "url": "https://www.teacherspayteachers.com/Product/Year-2-2D-Shapes-Worksheets-Properties-Classification-AC9M2SP01-17991816",
+      "curriculumCodes": [
+        "AC9M2SP01"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17992207",
+      "name": "Year 2 Maps Directions Worksheets AC9M2SP02 60 Practice 15 Test",
+      "url": "https://www.teacherspayteachers.com/Product/Year-2-Maps-Directions-Worksheets-AC9M2SP02-60-Practice-15-Test-17992207",
+      "curriculumCodes": [
+        "AC9M2SP02"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17992656",
+      "name": "Year 2 Data Collection Worksheets Surveys Tallies Tables AC9M2ST01",
+      "url": "https://www.teacherspayteachers.com/Product/Year-2-Data-Collection-Worksheets-Surveys-Tallies-Tables-AC9M2ST01-17992656",
+      "curriculumCodes": [
+        "AC9M2ST01"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17992853",
+      "name": "Year 3 Place Value AC9M3N01 Large Numbers 60 Practice 15 Test",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Place-Value-AC9M3N01-Large-Numbers-60-Practice-15-Test-17992853",
+      "curriculumCodes": [
+        "AC9M3N01"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17992921",
+      "name": "Year 2 Data Graphing Worksheets Picture Bar Graphs AC9M2ST02",
+      "url": "https://www.teacherspayteachers.com/Product/Year-2-Data-Graphing-Worksheets-Picture-Bar-Graphs-AC9M2ST02-17992921",
+      "curriculumCodes": [
+        "AC9M2ST02"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17993326",
+      "name": "Year 3 Fractions Worksheets AC9M3N02 60 Practice 15 Test",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Fractions-Worksheets-AC9M3N02-60-Practice-15-Test-17993326",
+      "curriculumCodes": [
+        "AC9M3N02"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17982339",
+      "name": "Year 2 Measurement PowerPoint Length Capacity Mass AC9M2M01",
+      "url": "https://www.teacherspayteachers.com/Product/Year-2-Measurement-PowerPoint-Length-Capacity-Mass-AC9M2M01-17982339",
+      "curriculumCodes": [
+        "AC9M2M01"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17989547",
+      "name": "Year 2 Fractions PowerPoint Halves Quarters Eighths AC9M2M02",
+      "url": "https://www.teacherspayteachers.com/Product/Year-2-Fractions-PowerPoint-Halves-Quarters-Eighths-AC9M2M02-17989547",
+      "curriculumCodes": [
+        "AC9M2M02"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17990874",
+      "name": "Year 2 Telling Time PowerPoint AC9M2M04 74 Teaching Slides",
+      "url": "https://www.teacherspayteachers.com/Product/Year-2-Telling-Time-PowerPoint-AC9M2M04-74-Teaching-Slides-17990874",
+      "curriculumCodes": [
+        "AC9M2M04"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17991721",
+      "name": "Year 2 Turns Directions Teaching Slides AC9M2M05 79 Slide PowerPoint",
+      "url": "https://www.teacherspayteachers.com/Product/Year-2-Turns-Directions-Teaching-Slides-AC9M2M05-79-Slide-PowerPoint-17991721",
+      "curriculumCodes": [
+        "AC9M2M05"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17992472",
+      "name": "Year 2 Position Direction PowerPoint AC9M2SP02 93 Teaching Slides",
+      "url": "https://www.teacherspayteachers.com/Product/Year-2-Position-Direction-PowerPoint-AC9M2SP02-93-Teaching-Slides-17992472",
+      "curriculumCodes": [
+        "AC9M2SP02"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17993354",
+      "name": "Year 2 Data Graphing PowerPoint Teaching Slides AC9M2ST02",
+      "url": "https://www.teacherspayteachers.com/Product/Year-2-Data-Graphing-PowerPoint-Teaching-Slides-AC9M2ST02-17993354",
+      "curriculumCodes": [
+        "AC9M2ST02"
+      ],
+      "freeSample": false
+    },
+    {
+      "productId": "17993012",
+      "name": "Year 2 Data Collection PowerPoint Surveys Tallies Tables AC9M2ST01",
+      "url": "https://www.teacherspayteachers.com/Product/Year-2-Data-Collection-PowerPoint-Surveys-Tallies-Tables-AC9M2ST01-17993012",
+      "curriculumCodes": [
+        "AC9M2ST01"
+      ],
+      "freeSample": false
     }
   ],
   "codes": [
@@ -2050,7 +2212,9 @@
         "Classroom View": "https://skillrhub.com/year2/maths/ac9m2m01-measure-and-compare-objects-based-on-length-capacity-and-mass/teacher-slides/"
       },
       "productIds": [
-        "17273907"
+        "17273907",
+        "17982037",
+        "17982339"
       ]
     },
     {
@@ -2067,7 +2231,9 @@
         "Classroom View": "https://skillrhub.com/year2/maths/ac9m2m02-common-uses-and-represent-halves-quarters-and-eighths-in/teacher-slides/"
       },
       "productIds": [
-        "17273907"
+        "17273907",
+        "17983112",
+        "17989547"
       ]
     },
     {
@@ -2084,7 +2250,8 @@
         "Classroom View": "https://skillrhub.com/year2/maths/ac9m2m03-the-date-and-determine-the-number-of-days-between-events/teacher-slides/"
       },
       "productIds": [
-        "17273907"
+        "17273907",
+        "17989593"
       ]
     },
     {
@@ -2101,7 +2268,9 @@
         "Classroom View": "https://skillrhub.com/year2/maths/ac9m2m04-and-read-the-time-represented-on-an-analog-clock-to/teacher-slides/"
       },
       "productIds": [
-        "17273907"
+        "17273907",
+        "17990357",
+        "17990874"
       ]
     },
     {
@@ -2118,7 +2287,9 @@
         "Classroom View": "https://skillrhub.com/year2/maths/ac9m2m05-identify-describe-and-demonstrate-quarter-half-three-quarter/teacher-slides/"
       },
       "productIds": [
-        "17273907"
+        "17273907",
+        "17991230",
+        "17991721"
       ]
     },
     {
@@ -2239,7 +2410,8 @@
         "Classroom View": "https://skillrhub.com/year2/maths/ac9m2sp01-recognise-compare-and-classify-shapes-referencing-the-number-of/teacher-slides/"
       },
       "productIds": [
-        "17273907"
+        "17273907",
+        "17991816"
       ]
     },
     {
@@ -2256,7 +2428,9 @@
         "Classroom View": "https://skillrhub.com/year2/maths/ac9m2sp02-locate-positions-in-two-dimensional-representations-of-a/teacher-slides/"
       },
       "productIds": [
-        "17273907"
+        "17273907",
+        "17992207",
+        "17992472"
       ]
     },
     {
@@ -2273,7 +2447,9 @@
         "Classroom View": "https://skillrhub.com/year2/maths/ac9m2st01-acquire-data-for-categorical-variables-through-surveys/teacher-slides/"
       },
       "productIds": [
-        "17273907"
+        "17273907",
+        "17992656",
+        "17993012"
       ]
     },
     {
@@ -2290,7 +2466,9 @@
         "Classroom View": "https://skillrhub.com/year2/maths/ac9m2st02-different-graphical-representations-of-data-using-software/teacher-slides/"
       },
       "productIds": [
-        "17273907"
+        "17273907",
+        "17992921",
+        "17993354"
       ]
     },
     {
@@ -2369,7 +2547,8 @@
       "productIds": [
         "17594426",
         "17594445",
-        "17594471"
+        "17594471",
+        "17993326"
       ]
     },
     {
@@ -3009,6 +3188,24 @@
       "productIds": [
         "17889508"
       ]
+    },
+    {
+      "code": "AC9M3N01",
+      "year": "Year 3",
+      "subject": "Maths",
+      "strand": "Number",
+      "descriptor": "recognise, represent and order natural numbers using naming and writing conventions for numerals beyond 10 000",
+      "topicUrl": "https://skillrhub.com/year3/maths/ac9m3n01-recognise-represent-and-order-natural-numbers-using-naming-and/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-3/math/ac9m3n01/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-3/math/ac9m3n01/practice/",
+        "Test": "https://skillrhub.com/quiz/year-3/math/ac9m3n01/test/",
+        "Classroom View": "https://skillrhub.com/year3/maths/ac9m3n01-recognise-represent-and-order-natural-numbers-using-naming-and/teacher-slides/"
+      },
+      "productIds": [
+        "17992853"
+      ]
     }
-  ]
+  ],
+  "ownerSuppliedLinksUpdatedAt": "2026-10-18"
 }

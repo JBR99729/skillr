@@ -1,0 +1,239 @@
+{
+  "date": "2026-10-18",
+  "scope": "Year 2 Maths landing routes, nine pending topic guides and owner-supplied TpT resources",
+  "reference": "year1/curriculum/maths/index.html hub + year1/maths/ac9m1n01-numbers-to-120/index.html learning shell; legacy extras excluded per AGENTS completion gate",
+  "research": "JBR99729/research- main, year-2/maths/AC9M2*/research/research.md; latest status/production sections used over historical checkpoints",
+  "retainedSectionComparison": {
+    "AC9M2M01": {
+      "intended": [
+        "Video entry",
+        "Hero + one matching resource card",
+        "Focused worked examples",
+        "Try it together",
+        "Teaching tips and common mistakes",
+        "Curriculum code and learning goal",
+        "Free Classroom View / worksheet / Practice / Test",
+        "Year 2 navigation"
+      ],
+      "actualCoreSections": [
+        "1. Length and height",
+        "2. Capacity",
+        "3. Mass",
+        "4. Fair methods, suitable units and accuracy",
+        "Try it together",
+        "Teaching tips and common mistakes",
+        "Curriculum code and learning goal"
+      ],
+      "legacyResourceSelectors": 0,
+      "duplicatePaidCTAs": 0,
+      "result": "PASS",
+      "sha256": "609a29c3d23204a9882928e3ead613bd36f276d00be16838987e4463e1b98bae"
+    },
+    "AC9M2M02": {
+      "intended": [
+        "No pre-existing video",
+        "Hero + one matching resource card",
+        "Focused worked examples",
+        "Try it together",
+        "Teaching tips and common mistakes",
+        "Curriculum code and learning goal",
+        "Free Classroom View / worksheet / Practice / Test",
+        "Year 2 navigation"
+      ],
+      "actualCoreSections": [
+        "1. Equal parts and folding",
+        "2. Everyday objects and measures",
+        "3. Lengths, positions and events",
+        "Try it together",
+        "Teaching tips and common mistakes",
+        "Curriculum code and learning goal"
+      ],
+      "legacyResourceSelectors": 0,
+      "duplicatePaidCTAs": 0,
+      "result": "PASS",
+      "sha256": "319e71617da98a9ed03b25ac7bcc4a38145a0951f6a2890d3a5a7c1b8ac50c01"
+    },
+    "AC9M2M03": {
+      "intended": [
+        "No pre-existing video",
+        "Hero + one matching resource card",
+        "Focused worked examples",
+        "Try it together",
+        "Teaching tips and common mistakes",
+        "Curriculum code and learning goal",
+        "Free Classroom View / worksheet / Practice / Test",
+        "Year 2 navigation"
+      ],
+      "actualCoreSections": [
+        "1. Read a date and use calendar patterns",
+        "2. Count days between events and cross boundaries",
+        "3. Create, update and use an event calendar",
+        "Try it together",
+        "Teaching tips and common mistakes",
+        "Curriculum code and learning goal"
+      ],
+      "legacyResourceSelectors": 0,
+      "duplicatePaidCTAs": 0,
+      "result": "PASS",
+      "sha256": "a356a73899b63d20dda5daa0ed2bf7dd3571886dc295d26cc1c26e39b65409e5"
+    },
+    "AC9M2M04": {
+      "intended": [
+        "No pre-existing video",
+        "Hero + one matching resource card",
+        "Focused worked examples",
+        "Try it together",
+        "Teaching tips and common mistakes",
+        "Curriculum code and learning goal",
+        "Free Classroom View / worksheet / Practice / Test",
+        "Year 2 navigation"
+      ],
+      "actualCoreSections": [
+        "1. Whole hours and half past",
+        "2. Quarter past and quarter to",
+        "3. Build, represent and check a clock",
+        "Try it together",
+        "Teaching tips and common mistakes",
+        "Curriculum code and learning goal"
+      ],
+      "legacyResourceSelectors": 0,
+      "duplicatePaidCTAs": 0,
+      "result": "PASS",
+      "sha256": "626f73d2b47419319fb40e88be7110216f28da15a40d44bc95a55c50fa5a011e"
+    },
+    "AC9M2M05": {
+      "intended": [
+        "No pre-existing video",
+        "Hero + one matching resource card",
+        "Focused worked examples",
+        "Try it together",
+        "Teaching tips and common mistakes",
+        "Curriculum code and learning goal",
+        "Free Classroom View / worksheet / Practice / Test",
+        "Year 2 navigation"
+      ],
+      "actualCoreSections": [
+        "1. Amount, direction and starting position",
+        "2. Everyday objects and clock-hand turns",
+        "3. Demonstrate body turns and robot routes",
+        "Try it together",
+        "Teaching tips and common mistakes",
+        "Curriculum code and learning goal"
+      ],
+      "legacyResourceSelectors": 0,
+      "duplicatePaidCTAs": 0,
+      "result": "PASS",
+      "sha256": "f49e7e99c4e77e1135f8489b3b300b3d32efdc627658118e93a28c64b6fc372d"
+    },
+    "AC9M2SP01": {
+      "intended": [
+        "No pre-existing video",
+        "Hero + one matching resource card",
+        "Focused worked examples",
+        "Try it together",
+        "Teaching tips and common mistakes",
+        "Curriculum code and learning goal",
+        "Free Classroom View / worksheet / Practice / Test",
+        "Year 2 navigation"
+      ],
+      "actualCoreSections": [
+        "1. Trace boundaries and classify by sides",
+        "2. Equal, opposite and parallel sides",
+        "3. Create, move and change shapes",
+        "Try it together",
+        "Teaching tips and common mistakes",
+        "Curriculum code and learning goal"
+      ],
+      "legacyResourceSelectors": 0,
+      "duplicatePaidCTAs": 0,
+      "result": "PASS",
+      "sha256": "8ec4ef1532297e3875496a21fd193509e3e587ea6d4f1932beeb4dde05f7e549"
+    },
+    "AC9M2SP02": {
+      "intended": [
+        "No pre-existing video",
+        "Hero + one matching resource card",
+        "Focused worked examples",
+        "Try it together",
+        "Teaching tips and common mistakes",
+        "Curriculum code and learning goal",
+        "Free Classroom View / worksheet / Practice / Test",
+        "Year 2 navigation"
+      ],
+      "actualCoreSections": [
+        "1. Read a plan and describe relative positions",
+        "2. Follow ordered grid moves",
+        "3. Track facing, follow paths and repair instructions",
+        "Try it together",
+        "Teaching tips and common mistakes",
+        "Curriculum code and learning goal"
+      ],
+      "legacyResourceSelectors": 0,
+      "duplicatePaidCTAs": 0,
+      "result": "PASS",
+      "sha256": "bdc2fb7939f2e29965cd9b7d1277fbd2cc9d635495a83ab06614111163ad2c73"
+    },
+    "AC9M2ST01": {
+      "intended": [
+        "No pre-existing video",
+        "Hero + one matching resource card",
+        "Focused worked examples",
+        "Try it together",
+        "Teaching tips and common mistakes",
+        "Curriculum code and learning goal",
+        "Free Classroom View / worksheet / Practice / Test",
+        "Year 2 navigation"
+      ],
+      "actualCoreSections": [
+        "1. Plan a question and choose categories",
+        "2. Collect by survey, observation and experiment",
+        "3. Organise lists, tallies and tables; check digital records",
+        "Try it together",
+        "Teaching tips and common mistakes",
+        "Curriculum code and learning goal"
+      ],
+      "legacyResourceSelectors": 0,
+      "duplicatePaidCTAs": 0,
+      "result": "PASS",
+      "sha256": "333304bab8a1f855c7f669db1125f62dec498b0828549237332e9b4934f240d2"
+    },
+    "AC9M2ST02": {
+      "intended": [
+        "No pre-existing video",
+        "Hero + one matching resource card",
+        "Focused worked examples",
+        "Try it together",
+        "Teaching tips and common mistakes",
+        "Curriculum code and learning goal",
+        "Free Classroom View / worksheet / Practice / Test",
+        "Year 2 navigation"
+      ],
+      "actualCoreSections": [
+        "1. Create one-to-one picture, sticker and dot displays",
+        "2. Create column and horizontal bar graphs",
+        "3. Compare, explain, choose and check displays",
+        "Try it together",
+        "Teaching tips and common mistakes",
+        "Curriculum code and learning goal"
+      ],
+      "legacyResourceSelectors": 0,
+      "duplicatePaidCTAs": 0,
+      "result": "PASS",
+      "sha256": "bd1f1e50468a7c60aacb26f6cd62f610ea17b58c90c9521c1c93122170cefd4e"
+    }
+  },
+  "catalogue": {
+    "newOwnerSuppliedListings": 18,
+    "worksheets": 11,
+    "teachingSlides": 7,
+    "year3Worksheets": 2,
+    "duplicateProductIds": 0,
+    "prices": "Not invented; preview/current price links used",
+    "images": "Existing generic catalogue artwork used in search; no unverified product cover claims"
+  },
+  "verificationLimits": [
+    "No new question banks or teacher slide assets were authored. Existing free resource routes retained.",
+    "Teacher content was reviewed against the saved research; this is not independent classroom testing.",
+    "Live deployment and browser checks recorded separately after publication."
+  ]
+}
