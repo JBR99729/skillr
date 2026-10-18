@@ -27,7 +27,7 @@
       "legacyResourceSelectors": 0,
       "duplicatePaidCTAs": 0,
       "result": "PASS",
-      "sha256": "609a29c3d23204a9882928e3ead613bd36f276d00be16838987e4463e1b98bae"
+      "sha256": "5b92ae002e120ebff8bae76d7ed57bfe83c30a0232ec4928a21c093a22799326"
     },
     "AC9M2M02": {
       "intended": [
@@ -51,7 +51,7 @@
       "legacyResourceSelectors": 0,
       "duplicatePaidCTAs": 0,
       "result": "PASS",
-      "sha256": "319e71617da98a9ed03b25ac7bcc4a38145a0951f6a2890d3a5a7c1b8ac50c01"
+      "sha256": "3f46a0a03c4fb5223d1206fbd8469f098149225db69712ba6c13d76f73722c79"
     },
     "AC9M2M03": {
       "intended": [
@@ -75,7 +75,7 @@
       "legacyResourceSelectors": 0,
       "duplicatePaidCTAs": 0,
       "result": "PASS",
-      "sha256": "a356a73899b63d20dda5daa0ed2bf7dd3571886dc295d26cc1c26e39b65409e5"
+      "sha256": "3e467bbd3c3d4ae3b02d4728e4fb1fc12a92d5aa20f0f9b52c72339c54398145"
     },
     "AC9M2M04": {
       "intended": [
@@ -99,7 +99,7 @@
       "legacyResourceSelectors": 0,
       "duplicatePaidCTAs": 0,
       "result": "PASS",
-      "sha256": "626f73d2b47419319fb40e88be7110216f28da15a40d44bc95a55c50fa5a011e"
+      "sha256": "db72c548fb12520cf3bb3f5c8de6469ce90e82023add74c287992e1134b3941f"
     },
     "AC9M2M05": {
       "intended": [
@@ -123,7 +123,7 @@
       "legacyResourceSelectors": 0,
       "duplicatePaidCTAs": 0,
       "result": "PASS",
-      "sha256": "f49e7e99c4e77e1135f8489b3b300b3d32efdc627658118e93a28c64b6fc372d"
+      "sha256": "eef571c3d31c2a4d59496aebdd62e5d06390258806ab7cce7532d954650f411d"
     },
     "AC9M2SP01": {
       "intended": [
@@ -147,7 +147,7 @@
       "legacyResourceSelectors": 0,
       "duplicatePaidCTAs": 0,
       "result": "PASS",
-      "sha256": "8ec4ef1532297e3875496a21fd193509e3e587ea6d4f1932beeb4dde05f7e549"
+      "sha256": "bea8f30dfa638f7de5ae13194a36bef35aaa871dfb2e6a1afe16aa75f7934c39"
     },
     "AC9M2SP02": {
       "intended": [
@@ -171,7 +171,7 @@
       "legacyResourceSelectors": 0,
       "duplicatePaidCTAs": 0,
       "result": "PASS",
-      "sha256": "bdc2fb7939f2e29965cd9b7d1277fbd2cc9d635495a83ab06614111163ad2c73"
+      "sha256": "0c67cea38478290ea6922c11aefec908ae6f4868f9d8a3d1ac96717424902a59"
     },
     "AC9M2ST01": {
       "intended": [
@@ -195,7 +195,7 @@
       "legacyResourceSelectors": 0,
       "duplicatePaidCTAs": 0,
       "result": "PASS",
-      "sha256": "333304bab8a1f855c7f669db1125f62dec498b0828549237332e9b4934f240d2"
+      "sha256": "e8d6cd5fa2326821c4c311e536648297462785d690cadea6d43c15c2839fc364"
     },
     "AC9M2ST02": {
       "intended": [
@@ -219,7 +219,7 @@
       "legacyResourceSelectors": 0,
       "duplicatePaidCTAs": 0,
       "result": "PASS",
-      "sha256": "bd1f1e50468a7c60aacb26f6cd62f610ea17b58c90c9521c1c93122170cefd4e"
+      "sha256": "afc301e96a9fd7aa19393f6266b27dbbe188f0776756bcd4214dca81dc31c1a0"
     }
   },
   "catalogue": {
@@ -235,5 +235,14 @@
     "No new question banks or teacher slide assets were authored. Existing free resource routes retained.",
     "Teacher content was reviewed against the saved research; this is not independent classroom testing.",
     "Live deployment and browser checks recorded separately after publication."
-  ]
+  ],
+  "compatibilityCorrections": [
+    "Retained curriculum-layout class on main.",
+    "Used clean local teacher-slides/ href.",
+    "Preserved load-on-request links for srcdoc video placeholders and added video notice."
+  ],
+  "baselineCI": {
+    "Validate optional topic videos": "Also failed before this batch: run 39005064810. Current global generator requests updates on 676 pages; not a scoped content defect.",
+    "Audit static curriculum site": "Also failed before this batch: run 39005064791. Breadcrumb generator requests updates on 742 pages; no missing/invalid breadcrumb JSON-LD reported."
+  }
 }
