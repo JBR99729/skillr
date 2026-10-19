@@ -9,7 +9,10 @@
   // legacy bank-loader config to resolve and the existing live bank must not be
   // replaced by an older generated bank.
   if (!code) return;
-  if (code === "AC9S2U01" && Array.isArray(window.quizQuestions) && window.quizQuestions.some((item) => item?.qualitySchema === "production-v2")) return;
+  const hasAuthoredBank = Array.isArray(window.quizQuestions) && window.quizQuestions.some((item) =>
+    item?.qualitySchema === "production-v2" || String(item?.qualitySchema || "").startsWith("skillr-reviewed-")
+  );
+  if (hasAuthoredBank) return;
 
   const questions = window.SkillrYear2ScienceBanks?.[code]?.[bank];
   if (!Array.isArray(questions)) {

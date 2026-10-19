@@ -1,5 +1,8 @@
 (() => {
   "use strict";
+  // This legacy extra-quiz renderer must never replace an authored Practice,
+  // Test or Worksheet page supplied by the route's own HTML and bank.
+  if (!/^\/quiz\/year-2\/science\/ac9s2[a-z0-9]+\/quiz\/?$/i.test(location.pathname)) return;
   const code = (location.pathname.match(/(ac9s2(?:u0[123]|h01|i0[1-5]))/i)?.[1] || "").toUpperCase();
   const titles = { AC9S2U01:"Earth and Patterns in the Sky", AC9S2U02:"Sound and Vibration", AC9S2U03:"Physical Changes to Materials", AC9S2H01:"Science in Daily Life", AC9S2I01:"Scientific Questions and Predictions", AC9S2I02:"Planning Safe Investigations", AC9S2I03:"Making and Recording Observations", AC9S2I04:"Sorting and Representing Data", AC9S2I05:"Comparing Predictions and Investigations", AC9S2I06:"Communicating Science Clearly" };
   if (!titles[code]) return;
@@ -8,5 +11,5 @@
   window.quizConfig = { storageKey:`${code}QuizBest`, skillCode:code, maxQuestions:5, shuffleQuestions:true, shuffleAnswers:true, questionCycle:false, passingPercent:75, resultStorageKey:`skillr${code}QuizResult` };
   window.skillrYear2ScienceBankConfig = { code, bank:"quiz" };
   const load = (src, next) => { const script=document.createElement("script"); script.src=src; script.onload=next || null; document.body.appendChild(script); };
-  load("/assets/year2-science-authored-banks.js?v=20260813-qa1", () => load("/assets/year2-science-authored-banks-batch2.js?v=20260813-qa2", () => load("/assets/year2-science-authored-banks-batch3.js?v=20260813-qa3", () => load("/assets/year2-science-authored-banks-batch4.js?v=20260813-qa4", () => load("/assets/year2-science-bank-loader.js?v=20260813-qa4", () => load("/quiz/assets/script.js?v=117"))))));
+  load("/assets/year2-science-authored-banks.js?v=20260813-qa1", () => load("/assets/year2-science-authored-banks-batch2.js?v=20260813-qa2", () => load("/assets/year2-science-authored-banks-batch3.js?v=20260813-qa3", () => load("/assets/year2-science-authored-banks-batch4.js?v=20260813-qa4", () => load("/assets/year2-science-bank-loader.js?v=20260813-qa4&guard=20261019", () => load("/quiz/assets/script.js?v=117"))))));
 })();

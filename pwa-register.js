@@ -105,7 +105,7 @@
   // verifies the real route remains present in assets/pwa-register-legacy.js:
   // ac9e2la0[1-3]\/quiz
   const legacy = document.createElement("script");
-  legacy.src = "/assets/pwa-register-legacy.js?v=20260908-navigation";
+  legacy.src = "/assets/pwa-register-legacy.js?v=20260908-navigation&guard=20261019";
   legacy.async = false;
   document.head.appendChild(legacy);
 
