@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-19",
+  "files": [
+    "year1/curriculum/science/index.html",
+    "year1/curriculum/english/index.html",
+    "year1/curriculum/maths/index.html",
+    "foundation/curriculum/science/index.html",
+    "foundation/curriculum/english/index.html",
+    "foundation/curriculum/maths/index.html",
+    "year2/curriculum/maths/index.html",
+    "year6/curriculum/english/index.html",
+    "quiz/year-6/english/ac9e6ly05/index.html",
+    "products/tpt-17746080/index.html",
+    "products/tpt-17737649/index.html",
+    "data/print-and-go-products.json"
+  ],
+  "scope": "Seven subject-hub H1 corrections; Year 6 English query-led title/H1 experiment; one malformed activity title; two conflicting product descriptions in HTML and catalogue data.",
+  "limits": "No mass topic rewrites or index-status claims. Product source listing mismatch remains on TPT; no external marketplace edit performed.",
+  "validation": [
+    "All 11 edited HTML pages retain identical links, canonical URLs and H1 counts",
+    "Product descriptions match catalogue source",
+    "Mobile Chromium checks pass on Year 1 Science, Year 6 English and AC9E6LY05 activity hub"
+  ]
+}
