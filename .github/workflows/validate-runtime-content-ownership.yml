@@ -9,6 +9,7 @@ on:
       - "quiz/year-3/math/**"
       - "assets/foundation-v1.1-render.js"
       - "assets/year3-maths-render.js"
+      - "assets/year3-maths-practice-quick-read.js"
       - "assets/year3-maths-v11-canonical.js"
       - "assets/year3-maths-v11-render.js"
       - "scripts/validate_runtime_content_ownership.mjs"
@@ -17,6 +18,7 @@ on:
       - "assets/pwa-register-legacy.js"
       - "pwa-register.js"
       - "scripts/tests/test_year2_science_runtime_ownership.mjs"
+      - "scripts/tests/test_year3_authored_preparation.mjs"
       - ".github/workflows/validate-runtime-content-ownership.yml"
   push:
     branches: [main]
@@ -27,6 +29,7 @@ on:
       - "quiz/year-3/math/**"
       - "assets/foundation-v1.1-render.js"
       - "assets/year3-maths-render.js"
+      - "assets/year3-maths-practice-quick-read.js"
       - "assets/year3-maths-v11-canonical.js"
       - "assets/year3-maths-v11-render.js"
       - "scripts/validate_runtime_content_ownership.mjs"
@@ -35,6 +38,7 @@ on:
       - "assets/pwa-register-legacy.js"
       - "pwa-register.js"
       - "scripts/tests/test_year2_science_runtime_ownership.mjs"
+      - "scripts/tests/test_year3_authored_preparation.mjs"
       - ".github/workflows/validate-runtime-content-ownership.yml"
   workflow_dispatch:
 
@@ -57,3 +61,7 @@ jobs:
         run: node scripts/validate_runtime_content_ownership.mjs
       - name: Preserve authored Year 2 Science modes and question banks
         run: node --test scripts/tests/test_year2_science_runtime_ownership.mjs
+
+      - name: Preserve authored Year 3 activity preparation
+        run: node --test scripts/tests/test_year3_authored_preparation.mjs
+

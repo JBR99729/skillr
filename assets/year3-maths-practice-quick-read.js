@@ -53,6 +53,8 @@
     const unit = window.SkillrYear3MathsData?.[code];
     const card = document.querySelector("#startScreen .start-card");
     if (!unit || !card) return false;
+    // Authored launch guidance owns its content and introduction.
+    if (card.querySelector('[data-skillr-authored-preparation="true"]')) return true;
     ensureStyle(); ensureBrand(card);
 
     const title = card.querySelector("#quizTitle");

@@ -20,7 +20,7 @@ Owner requested repairs to Bing's flagged URLs and publication to public `JBR997
 | AC9M6SP01 Topic Guide + Classroom View | Generic success criteria and instructional filler instead of cross-section reasoning. | Explicit base/plane/congruence teaching, two original diagrams, three worked comparisons, checked answers and purposeful application. |
 | AC9E7LA07 Topic Guide + Classroom View | Wrong-concept examples about polite language/formality on a visual-perspective lesson. | Actual original visual texts, vectors/angle/social-distance/salience teaching, evidence-based comparisons and storyboard transfer. |
 
-The four activity preparations use the existing `data-skillr-authored-preparation="true"` contract. The existing revision-card and quiz-runtime scripts already respect that contract. No shared runtime or question-bank changes are required. Practice preparation uses labelled paragraphs so the old first-list-item intro shim cannot replace the authored introduction.
+The four activity preparations use the existing `data-skillr-authored-preparation="true"` contract. The existing revision-card and quiz-runtime scripts already respect that contract. No assessment runtime or question-bank change is required. The separate legacy Quick Read helper required an ownership guard after live testing (see below). Practice preparation uses labelled paragraphs so the old first-list-item intro shim cannot replace the authored introduction.
 
 ## Topic preservation, layout and Classroom View parity
 
@@ -68,3 +68,7 @@ The other 14 URLs in Bing's 20-URL sample remain on the review list; they are no
 The first publication `8831b5c364035c6bb6b1ddf86b5d5254e92fe1fe` exposed three changed-page validation errors: recognisable learning-goal labels on the two Topic Guides and the exact local Teacher Slides href on the Year 6 guide. Both guides and their Classroom Views now use explicit Learning goals labels and local `teacher-slides/` resource links. The unchanged architecture validator accepts Learning goal wording.
 
 Separate existing site-wide checks report nine Year 7 Science slide-viewer architecture mismatches on untouched codes, 676 optional-video output differences and 740 breadcrumb formatting differences (down from 742 after this batch corrected its two guides). These checks are not described as passing and are not bypassed.
+
+## Live-test ownership correction
+
+The live AC9M3ST03 Test launch revealed that `assets/year3-maths-practice-quick-read.js` replaces the authored preparation, title and introduction after loading. Its apply function now returns before mutation when the launch card contains `data-skillr-authored-preparation="true"`. The Year 3 helper and shared-loader cache versions are updated. Regression tests exercise the actual helper in authored Practice/Test modes and legacy Practice/Test modes, so generated legacy notes remain supported. Existing mandatory pre-module notes, launch buttons, question banks, attempt length and scoring are unchanged.
