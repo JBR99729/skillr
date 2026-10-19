@@ -62,3 +62,9 @@ Sources:
 ## Remaining work
 
 The other 14 URLs in Bing's 20-URL sample remain on the review list; they are not marked fixed merely because they return 200 or have substantial content. Full curriculum-code review, where needed, must preserve strong authored content and use the normal scoped workflow. The 61 unexposed URLs require a usable Bing export or an expanded sample. Bing needs to recrawl/reprocess changed resources before its quality/indexing status can be reassessed.
+
+## Release validation correction
+
+The first publication `8831b5c364035c6bb6b1ddf86b5d5254e92fe1fe` exposed three changed-page validation errors: recognisable learning-goal labels on the two Topic Guides and the exact local Teacher Slides href on the Year 6 guide. Both guides and their Classroom Views now use explicit Learning goals labels and local `teacher-slides/` resource links. The unchanged architecture validator accepts Learning goal wording.
+
+Separate existing site-wide checks report nine Year 7 Science slide-viewer architecture mismatches on untouched codes, 676 optional-video output differences and 740 breadcrumb formatting differences (down from 742 after this batch corrected its two guides). These checks are not described as passing and are not bypassed.
