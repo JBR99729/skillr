@@ -1,0 +1,320 @@
+{
+  "date": "2026-10-20",
+  "scope": "Nine TPT links only; no teaching-content regeneration or app changes",
+  "newProducts": [
+    {
+      "productId": "17993507",
+      "code": "AC9M3N03",
+      "kind": "worksheet",
+      "title": "Year 3 Addition & Subtraction Worksheets AC9M3N03 | 60 Practice + 15 Test",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Addition-Subtraction-Worksheets-AC9M3N03-60-Practice-15-Test-17993507",
+      "contents": "65-page printable PDF; 60 Practice + 15 separate Test questions."
+    },
+    {
+      "productId": "18003412",
+      "code": "AC9M3N05",
+      "kind": "worksheet",
+      "title": "Year 3 Estimation & Reasonableness Worksheets | AC9M3N05",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Estimation-Reasonableness-Worksheets-AC9M3N05-18003412",
+      "contents": "68-page printable PDF; 60 Practice + 15 separate Test questions."
+    },
+    {
+      "productId": "18004077",
+      "code": "AC9M3N06",
+      "kind": "worksheet",
+      "title": "Year 3 Maths Word Problems | AC9M3N06 | 60 Practice + 15 Test",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Maths-Word-Problems-AC9M3N06-60-Practice-15-Test-18004077",
+      "contents": "68-page printable PDF; 60 Practice + 15 separate Test questions."
+    },
+    {
+      "productId": "18004349",
+      "code": "AC9M3N07",
+      "kind": "worksheet",
+      "title": "Year 3 Maths Algorithms & Patterns Worksheets | AC9M3N07 | 72 Practice + 15 Test",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Maths-Algorithms-Patterns-Worksheets-AC9M3N07-72-Practice-15-Test-18004349",
+      "contents": "63-page printable PDF; 72 Practice + 15 separate Test questions."
+    },
+    {
+      "productId": "17993615",
+      "code": "AC9M3N02",
+      "kind": "teaching-slides",
+      "title": "Year 3 Fractions PowerPoint | 77 Learning Slides | AC9M3N02",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Fractions-PowerPoint-77-Learning-Slides-AC9M3N02-17993615",
+      "contents": "77 learning slides in PowerPoint format."
+    },
+    {
+      "productId": "17993791",
+      "code": "AC9M3N03",
+      "kind": "teaching-slides",
+      "title": "Year 3 Addition & Subtraction Learning Slides | 94 Slides | AC9M3N03",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Addition-Subtraction-Learning-Slides-94-Slides-AC9M3N03-17993791",
+      "contents": "94 learning slides in PowerPoint format."
+    },
+    {
+      "productId": "18004014",
+      "code": "AC9M3N04",
+      "kind": "teaching-slides",
+      "title": "Year 3 Multiplication & Division Teaching Slides | AC9M3N04 | 57 Slides",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Multiplication-Division-Teaching-Slides-AC9M3N04-57-Slides-18004014",
+      "contents": "57 learning slides in PowerPoint format."
+    },
+    {
+      "productId": "18004987",
+      "code": "AC9M3N06",
+      "kind": "teaching-slides",
+      "title": "Year 3 Maths Word Problems & Money | Teaching Slides | AC9M3N06",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Maths-Word-Problems-Money-Teaching-Slides-AC9M3N06-18004987",
+      "contents": "108 learning slides; 25 student try/check pairs."
+    },
+    {
+      "productId": "18005473",
+      "code": "AC9M3N07",
+      "kind": "teaching-slides",
+      "title": "Number Algorithms & Patterns | Year 3 Maths Slides | AC9M3N07",
+      "url": "https://www.teacherspayteachers.com/Product/Number-Algorithms-Patterns-Year-3-Maths-Slides-AC9M3N07-18005473",
+      "contents": "95 learning slides; 20 student try/check pairs."
+    }
+  ],
+  "topics": [
+    {
+      "code": "AC9M3N02",
+      "path": "year3/maths/ac9m3n02-and-represent-unit-fractions-including-frac12-frac13-frac14/index.html",
+      "resourceHeadings": [
+        "Teaching slides · optional paid PowerPoint"
+      ],
+      "productIds": [
+        "17993615"
+      ],
+      "retainedTeachingOutsideOwnedBlock": true,
+      "placement": "Paid Print and go link in existing matching-pack card; paid slides in existing next-learning-step resources section, when supplied",
+      "finalSectionInventory": [
+        "Menu",
+        "Watch the idea in action",
+        "Watch: What Are Fractions? - Math Antics",
+        "Unit fractions and multiples (AC9M3N02)",
+        "Unit fractions and multiples worksheet pack",
+        "Small steps, clear examples",
+        "1. Find the whole and equal parts",
+        "Check the answer and explanation",
+        "2. Count multiples of one part",
+        "Check the answer and explanation",
+        "3. Show fractions as lengths and positions",
+        "Check the answer and explanation",
+        "4. Find one equal fraction of a collection",
+        "Check the answer and explanation",
+        "5. Find several equal fractions of a collection",
+        "Check the answer and explanation",
+        "6. Complete one whole",
+        "Check the answer and explanation",
+        "Common mistakes and quick fixes",
+        "Check understanding and choose the next step",
+        "Answers and next step",
+        "Choose the next learning step",
+        "Unit fractions and multiples learning slides"
+      ]
+    },
+    {
+      "code": "AC9M3N03",
+      "path": "year3/maths/ac9m3n03-add-and-subtract-two-and-three-digit-numbers-using-place-value/index.html",
+      "resourceHeadings": [
+        "Print and go · optional paid worksheets",
+        "Teaching slides · optional paid PowerPoint"
+      ],
+      "productIds": [
+        "17993507",
+        "17993791"
+      ],
+      "retainedTeachingOutsideOwnedBlock": true,
+      "placement": "Paid Print and go link in existing matching-pack card; paid slides in existing next-learning-step resources section, when supplied",
+      "finalSectionInventory": [
+        "Menu",
+        "Watch the idea in action",
+        "Watch: Solving 3-digit addition in your head | 2nd grade | Khan Academy",
+        "Add and subtract two- and three-digit numbers (AC9M3N03)",
+        "Add and subtract two- and three-digit numbers worksheets",
+        "Small steps, clear examples",
+        "1. Partition and rearrange to add",
+        "Check the answer and explanation",
+        "2. Subtract parts or count up",
+        "Check the answer and explanation",
+        "3. Regroup when adding",
+        "Check the answer and explanation",
+        "4. Regroup to subtract, including through zero",
+        "Check the answer and explanation",
+        "5. Adjust to friendly numbers and correct",
+        "Check the answer and explanation",
+        "6. Choose, explain and check a strategy",
+        "Check the answer and explanation",
+        "Common mistakes and quick fixes",
+        "Check understanding and choose the next step",
+        "Answers and next step",
+        "Choose the next learning step",
+        "Add and subtract two- and three-digit numbers learning slides"
+      ]
+    },
+    {
+      "code": "AC9M3N04",
+      "path": "year3/maths/ac9m3n04-multiply-and-divide-one-and-two-digit-numbers-representing/index.html",
+      "resourceHeadings": [
+        "Teaching slides · optional paid PowerPoint"
+      ],
+      "productIds": [
+        "18004014"
+      ],
+      "retainedTeachingOutsideOwnedBlock": true,
+      "placement": "Paid Print and go link in existing matching-pack card; paid slides in existing next-learning-step resources section, when supplied",
+      "finalSectionInventory": [
+        "Menu",
+        "Watch the idea in action",
+        "Watch: The idea of division | Multiplication and division | Arithmetic | Khan Academy",
+        "Multiplication and division strategies (AC9M3N04)",
+        "Year 3 Multiplication & Division Workbook | 144 Questions | Australian v9",
+        "Small steps, clear examples",
+        "1. Connect equal groups with multiplication",
+        "Check the answer and explanation",
+        "2. Turn and split arrays",
+        "Check the answer and explanation",
+        "3. Distinguish sharing from grouping",
+        "Check the answer and explanation",
+        "4. Use related facts to find an unknown",
+        "Check the answer and explanation",
+        "5. Partition two-digit numbers",
+        "Check the answer and explanation",
+        "6. Choose a model and create a story",
+        "Check the answer and explanation",
+        "Common mistakes and quick fixes",
+        "Check understanding and choose the next step",
+        "Answers and next step",
+        "Choose the next learning step",
+        "Multiplication and division strategies learning slides"
+      ]
+    },
+    {
+      "code": "AC9M3N05",
+      "path": "year3/maths/ac9m3n05-estimate-the-quantity-of-objects-in-collections-and-make/index.html",
+      "resourceHeadings": [
+        "Print and go · optional paid worksheets"
+      ],
+      "productIds": [
+        "18003412"
+      ],
+      "retainedTeachingOutsideOwnedBlock": true,
+      "placement": "Paid Print and go link in existing matching-pack card; paid slides in existing next-learning-step resources section, when supplied",
+      "finalSectionInventory": [
+        "Menu",
+        "Watch the idea in action",
+        "Watch: Estimating! | Mini Math Movies | Scratch Garden",
+        "Estimation and reasonable answers (AC9M3N05)",
+        "Estimation and reasonable answers worksheets",
+        "Small steps, clear examples",
+        "1. Use a known small collection",
+        "Check the answer and explanation",
+        "2. Scale a representative part",
+        "Check the answer and explanation",
+        "3. Choose useful nearby numbers",
+        "Check the answer and explanation",
+        "4. Estimate a sum",
+        "Check the answer and explanation",
+        "5. Estimate a difference",
+        "Check the answer and explanation",
+        "6. Judge a claim and know when to check exactly",
+        "Check the answer and explanation",
+        "Common mistakes and quick fixes",
+        "Check understanding and choose the next step",
+        "Answers and next step",
+        "Choose the next learning step"
+      ]
+    },
+    {
+      "code": "AC9M3N06",
+      "path": "year3/maths/ac9m3n06-mathematical-modelling-to-solve-practical-problems-involving/index.html",
+      "resourceHeadings": [
+        "Print and go · optional paid worksheets",
+        "Teaching slides · optional paid PowerPoint"
+      ],
+      "productIds": [
+        "18004077",
+        "18004987"
+      ],
+      "retainedTeachingOutsideOwnedBlock": true,
+      "placement": "Paid Print and go link in existing matching-pack card; paid slides in existing next-learning-step resources section, when supplied",
+      "finalSectionInventory": [
+        "Menu",
+        "Watch the idea in action",
+        "Watch: Multiplying by tens word problem | Math | 3rd grade | Khan Academy",
+        "Model practical and money problems (AC9M3N06)",
+        "Model practical and money problems worksheets",
+        "Small steps, clear examples",
+        "1. Understand and represent the question",
+        "Check the answer and explanation",
+        "2. Model joining, separating and comparing",
+        "Check the answer and explanation",
+        "3. Model equal groups",
+        "Check the answer and explanation",
+        "4. Model sharing and grouping",
+        "Check the answer and explanation",
+        "5. Make a money decision",
+        "Check the answer and explanation",
+        "6. Connect steps, use tools and check the answer",
+        "Check the answer and explanation",
+        "Common mistakes and quick fixes",
+        "Check understanding and choose the next step",
+        "Answers and next step",
+        "Choose the next learning step",
+        "Model practical and money problems learning slides"
+      ]
+    },
+    {
+      "code": "AC9M3N07",
+      "path": "year3/maths/ac9m3n07-follow-and-create-algorithms-involving-a-sequence-of-steps-and/index.html",
+      "resourceHeadings": [
+        "Print and go · optional paid worksheets",
+        "Teaching slides · optional paid PowerPoint"
+      ],
+      "productIds": [
+        "18004349",
+        "18005473"
+      ],
+      "retainedTeachingOutsideOwnedBlock": true,
+      "placement": "Paid Print and go link in existing matching-pack card; paid slides in existing next-learning-step resources section, when supplied",
+      "finalSectionInventory": [
+        "Menu",
+        "Watch the idea in action",
+        "Watch: Sequencing | Coding & Computer Science Song",
+        "Number algorithms and patterns (AC9M3N07)",
+        "Number algorithms and patterns worksheets",
+        "Small steps, clear examples",
+        "1. Follow steps in order",
+        "Check the answer and explanation",
+        "2. Repeat with a stopping rule",
+        "Check the answer and explanation",
+        "3. Choose the correct decision branch",
+        "Check the answer and explanation",
+        "4. Create instructions someone else can follow",
+        "Check the answer and explanation",
+        "5. Find the first error, repair and retest",
+        "Check the answer and explanation",
+        "6. Investigate and describe an emerging pattern",
+        "Check the answer and explanation",
+        "Common mistakes and quick fixes",
+        "Check understanding and choose the next step",
+        "Answers and next step",
+        "Choose the next learning step",
+        "Number algorithms and patterns learning slides"
+      ]
+    }
+  ],
+  "baseline": {
+    "catalogueCount": 221,
+    "inventoryCount": 204,
+    "existingCatalogueInventoryDifference": 17
+  },
+  "reference": "Latest main already uses the approved Year1-style topic layout. Retain video-first introduction, hero and single matching-pack card, six focus accordions and visible example/check content, misconception and mastery checks, next-step resource navigation and footer. Only populate the matching paid worksheet card and add a separate paid-slide link within resources. No legacy resource-facts, print-options, process disclosure or competing CTA blocks added.",
+  "qa": {
+    "sourceLinkMapping": "passed after adapting to the latest main topic layout",
+    "teachingPreservation": "passed: exact source outside existing worksheet card and new owned slide block",
+    "mobileDesktop": "pending",
+    "releaseIntegrity": "pending",
+    "deployment": "pending"
+  }
+}

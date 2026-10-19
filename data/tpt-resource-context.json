@@ -1,8 +1,8 @@
 {
   "observedAt": "2026-10-07",
   "storefront": "https://www.teacherspayteachers.com/store/skillrhub",
-  "observedProductCount": 149,
-  "codeCount": 104,
+  "observedProductCount": 158,
+  "codeCount": 108,
   "evidence": "All seven public store pages inspected. Existing catalogue names and code mappings retained; new listings copied from the live store. Prices and unsupported pack counts intentionally omitted.",
   "unmappedProductIds": [
     "17621276",
@@ -1373,6 +1373,96 @@
         "AC9M2ST01"
       ],
       "freeSample": false
+    },
+    {
+      "productId": "17993507",
+      "name": "Year 3 Addition & Subtraction Worksheets AC9M3N03 | 60 Practice + 15 Test",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Addition-Subtraction-Worksheets-AC9M3N03-60-Practice-15-Test-17993507",
+      "curriculumCodes": [
+        "AC9M3N03"
+      ],
+      "freeSample": false,
+      "listingConfirmedAt": "2026-10-20"
+    },
+    {
+      "productId": "18003412",
+      "name": "Year 3 Estimation & Reasonableness Worksheets | AC9M3N05",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Estimation-Reasonableness-Worksheets-AC9M3N05-18003412",
+      "curriculumCodes": [
+        "AC9M3N05"
+      ],
+      "freeSample": false,
+      "listingConfirmedAt": "2026-10-20"
+    },
+    {
+      "productId": "18004077",
+      "name": "Year 3 Maths Word Problems | AC9M3N06 | 60 Practice + 15 Test",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Maths-Word-Problems-AC9M3N06-60-Practice-15-Test-18004077",
+      "curriculumCodes": [
+        "AC9M3N06"
+      ],
+      "freeSample": false,
+      "listingConfirmedAt": "2026-10-20"
+    },
+    {
+      "productId": "18004349",
+      "name": "Year 3 Maths Algorithms & Patterns Worksheets | AC9M3N07 | 72 Practice + 15 Test",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Maths-Algorithms-Patterns-Worksheets-AC9M3N07-72-Practice-15-Test-18004349",
+      "curriculumCodes": [
+        "AC9M3N07"
+      ],
+      "freeSample": false,
+      "listingConfirmedAt": "2026-10-20"
+    },
+    {
+      "productId": "17993615",
+      "name": "Year 3 Fractions PowerPoint | 77 Learning Slides | AC9M3N02",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Fractions-PowerPoint-77-Learning-Slides-AC9M3N02-17993615",
+      "curriculumCodes": [
+        "AC9M3N02"
+      ],
+      "freeSample": false,
+      "listingConfirmedAt": "2026-10-20"
+    },
+    {
+      "productId": "17993791",
+      "name": "Year 3 Addition & Subtraction Learning Slides | 94 Slides | AC9M3N03",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Addition-Subtraction-Learning-Slides-94-Slides-AC9M3N03-17993791",
+      "curriculumCodes": [
+        "AC9M3N03"
+      ],
+      "freeSample": false,
+      "listingConfirmedAt": "2026-10-20"
+    },
+    {
+      "productId": "18004014",
+      "name": "Year 3 Multiplication & Division Teaching Slides | AC9M3N04 | 57 Slides",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Multiplication-Division-Teaching-Slides-AC9M3N04-57-Slides-18004014",
+      "curriculumCodes": [
+        "AC9M3N04"
+      ],
+      "freeSample": false,
+      "listingConfirmedAt": "2026-10-20"
+    },
+    {
+      "productId": "18004987",
+      "name": "Year 3 Maths Word Problems & Money | Teaching Slides | AC9M3N06",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Maths-Word-Problems-Money-Teaching-Slides-AC9M3N06-18004987",
+      "curriculumCodes": [
+        "AC9M3N06"
+      ],
+      "freeSample": false,
+      "listingConfirmedAt": "2026-10-20"
+    },
+    {
+      "productId": "18005473",
+      "name": "Number Algorithms & Patterns | Year 3 Maths Slides | AC9M3N07",
+      "url": "https://www.teacherspayteachers.com/Product/Number-Algorithms-Patterns-Year-3-Maths-Slides-AC9M3N07-18005473",
+      "curriculumCodes": [
+        "AC9M3N07"
+      ],
+      "freeSample": false,
+      "listingConfirmedAt": "2026-10-20"
     }
   ],
   "codes": [
@@ -2548,7 +2638,8 @@
         "17594426",
         "17594445",
         "17594471",
-        "17993326"
+        "17993326",
+        "17993615"
       ]
     },
     {
@@ -2566,7 +2657,8 @@
       },
       "productIds": [
         "17594247",
-        "17594291"
+        "17594291",
+        "18004014"
       ]
     },
     {
@@ -3205,7 +3297,74 @@
       "productIds": [
         "17992853"
       ]
+    },
+    {
+      "code": "AC9M3N03",
+      "year": "Year 3",
+      "subject": "Maths",
+      "strand": "Number",
+      "descriptor": "add and subtract two- and three-digit numbers using place value to partition, rearrange and regroup numbers to assist in calculations without a calculator",
+      "topicUrl": "https://skillrhub.com/year3/maths/ac9m3n03-add-and-subtract-two-and-three-digit-numbers-using-place-value/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-3/math/ac9m3n03/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-3/math/ac9m3n03/practice/",
+        "Test": "https://skillrhub.com/quiz/year-3/math/ac9m3n03/test/"
+      },
+      "productIds": [
+        "17993507",
+        "17993791"
+      ]
+    },
+    {
+      "code": "AC9M3N05",
+      "year": "Year 3",
+      "subject": "Maths",
+      "strand": "Number",
+      "descriptor": "estimate the quantity of objects in collections and make estimates when solving problems to determine the reasonableness of calculations",
+      "topicUrl": "https://skillrhub.com/year3/maths/ac9m3n05-estimate-the-quantity-of-objects-in-collections-and-make/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-3/math/ac9m3n05/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-3/math/ac9m3n05/practice/",
+        "Test": "https://skillrhub.com/quiz/year-3/math/ac9m3n05/test/"
+      },
+      "productIds": [
+        "18003412"
+      ]
+    },
+    {
+      "code": "AC9M3N06",
+      "year": "Year 3",
+      "subject": "Maths",
+      "strand": "Number",
+      "descriptor": "use mathematical modelling to solve practical problems involving additive and multiplicative situations including financial contexts; formulate problems using number sentences and choose calculation strategies, using digital tools where appropriate; interpret and communicate solutions in terms of the situation",
+      "topicUrl": "https://skillrhub.com/year3/maths/ac9m3n06-mathematical-modelling-to-solve-practical-problems-involving/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-3/math/ac9m3n06/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-3/math/ac9m3n06/practice/",
+        "Test": "https://skillrhub.com/quiz/year-3/math/ac9m3n06/test/"
+      },
+      "productIds": [
+        "18004077",
+        "18004987"
+      ]
+    },
+    {
+      "code": "AC9M3N07",
+      "year": "Year 3",
+      "subject": "Maths",
+      "strand": "Number",
+      "descriptor": "follow and create algorithms involving a sequence of steps and decisions to investigate numbers; describe any emerging patterns",
+      "topicUrl": "https://skillrhub.com/year3/maths/ac9m3n07-follow-and-create-algorithms-involving-a-sequence-of-steps-and/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-3/math/ac9m3n07/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-3/math/ac9m3n07/practice/",
+        "Test": "https://skillrhub.com/quiz/year-3/math/ac9m3n07/test/"
+      },
+      "productIds": [
+        "18004349",
+        "18005473"
+      ]
     }
   ],
-  "ownerSuppliedLinksUpdatedAt": "2026-10-18"
+  "ownerSuppliedLinksUpdatedAt": "2026-10-20"
 }

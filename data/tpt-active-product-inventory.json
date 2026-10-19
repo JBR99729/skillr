@@ -1,7 +1,7 @@
 {
   "auditedAt": "2026-10-08",
   "storefront": "https://www.teacherspayteachers.com/store/skillrhub",
-  "activeProductCount": 204,
+  "activeProductCount": 213,
   "products": [
     {
       "productId": "17968146",
@@ -769,7 +769,7 @@
     },
     {
       "productId": "17802766",
-      "title": "Foundation Subitising 0\u20135 Slides | AC9MFN02 | Australian Curriculum v9",
+      "title": "Foundation Subitising 0–5 Slides | AC9MFN02 | Australian Curriculum v9",
       "url": "https://www.teacherspayteachers.com/Product/Foundation-Subitising-05-Slides-AC9MFN02-Australian-Curriculum-v9-17802766",
       "image": "https://ecdn.teacherspayteachers.com/thumbitem/Foundation-Subitising-0-5-Slides-AC9MFN02-Australian-Curriculum-v9-17802766-1790809576/original-17802766-1.jpg",
       "isBundle": false,
@@ -780,7 +780,7 @@
     },
     {
       "productId": "17802130",
-      "title": "Foundation Numbers 0\u201320 Slides | AC9MFN01 | Australian Curriculum v9",
+      "title": "Foundation Numbers 0–20 Slides | AC9MFN01 | Australian Curriculum v9",
       "url": "https://www.teacherspayteachers.com/Product/Foundation-Numbers-020-Slides-AC9MFN01-Australian-Curriculum-v9-17802130",
       "image": "https://ecdn.teacherspayteachers.com/thumbitem/Foundation-Numbers-0-20-Slides-AC9MFN01-Australian-Curriculum-v9-17802130-1790803695/original-17802130-1.jpg",
       "isBundle": false,
@@ -1561,7 +1561,7 @@
     },
     {
       "productId": "17592266",
-      "title": "Year 3 Time Worksheets | Duration & Analogue Clocks | AC9M3M03\u2013AC9M3M04",
+      "title": "Year 3 Time Worksheets | Duration & Analogue Clocks | AC9M3M03–AC9M3M04",
       "url": "https://www.teacherspayteachers.com/Product/Year-3-Time-Worksheets-Duration-Analogue-Clocks-AC9M3M03AC9M3M04-17592266",
       "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-3-Time-Practice-Pack-Analogue-Clocks-Duration-AC9M3M03-AC9M3M04-17592266-1790145537/original-17592266-1.jpg",
       "isBundle": false,
@@ -2209,7 +2209,7 @@
     },
     {
       "productId": "17902041",
-      "title": "Year 1 English Literature Worksheets & Tests Bundle | AC9E1LE01\u2013LE05 | VIC",
+      "title": "Year 1 English Literature Worksheets & Tests Bundle | AC9E1LE01–LE05 | VIC",
       "url": "https://www.teacherspayteachers.com/Product/Year-1-English-Literature-Worksheets-Tests-Bundle-AC9E1LE01LE05-VIC-17902041",
       "image": "/assets/tpt-17902041-cover.png",
       "isBundle": true,
@@ -2250,6 +2250,87 @@
       "price": "6.50",
       "regularPrice": "6.50",
       "observedAt": "2026-10-10"
+    },
+    {
+      "productId": "17993507",
+      "title": "Year 3 Addition & Subtraction Worksheets AC9M3N03 | 60 Practice + 15 Test",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Addition-Subtraction-Worksheets-AC9M3N03-60-Practice-15-Test-17993507",
+      "image": "https://ecdn.teacherspayteachers.com/cdn-cgi/image/format=avif,quality=70,onerror=redirect/thumbitem/Year-3-Addition-Subtraction-Worksheets-AC9M3N03-60-Practice-15-Test-17993507-1792300518/750f-17993507-1.jpg",
+      "isBundle": false,
+      "free": false,
+      "observedAt": "2026-10-20"
+    },
+    {
+      "productId": "18003412",
+      "title": "Year 3 Estimation & Reasonableness Worksheets | AC9M3N05",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Estimation-Reasonableness-Worksheets-AC9M3N05-18003412",
+      "image": "https://ecdn.teacherspayteachers.com/cdn-cgi/image/format=avif,quality=70,onerror=redirect/thumbitem/Year-3-Estimation-Reasonableness-Worksheets-AC9M3N05-18003412-1792377661/750f-18003412-1.jpg",
+      "isBundle": false,
+      "free": false,
+      "observedAt": "2026-10-20"
+    },
+    {
+      "productId": "18004077",
+      "title": "Year 3 Maths Word Problems | AC9M3N06 | 60 Practice + 15 Test",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Maths-Word-Problems-AC9M3N06-60-Practice-15-Test-18004077",
+      "image": "https://ecdn.teacherspayteachers.com/cdn-cgi/image/format=avif,quality=70,onerror=redirect/thumbitem/Year-3-Maths-Word-Problems-AC9M3N06-60-Practice-15-Test-18004077-1792387567/750f-18004077-1.jpg",
+      "isBundle": false,
+      "free": false,
+      "observedAt": "2026-10-20"
+    },
+    {
+      "productId": "18004349",
+      "title": "Year 3 Maths Algorithms & Patterns Worksheets | AC9M3N07 | 72 Practice + 15 Test",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Maths-Algorithms-Patterns-Worksheets-AC9M3N07-72-Practice-15-Test-18004349",
+      "image": "https://ecdn.teacherspayteachers.com/cdn-cgi/image/format=avif,quality=70,onerror=redirect/thumbitem/Year-3-Maths-Algorithms-Patterns-Worksheets-AC9M3N07-72-Practice-15-Test-18004349-1792391282/750f-18004349-1.jpg",
+      "isBundle": false,
+      "free": false,
+      "observedAt": "2026-10-20"
+    },
+    {
+      "productId": "17993615",
+      "title": "Year 3 Fractions PowerPoint | 77 Learning Slides | AC9M3N02",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Fractions-PowerPoint-77-Learning-Slides-AC9M3N02-17993615",
+      "image": "https://ecdn.teacherspayteachers.com/cdn-cgi/image/format=avif,quality=70,onerror=redirect/thumbitem/Year-3-Fractions-PowerPoint-77-Learning-Slides-AC9M3N02-17993615-1792302145/750f-17993615-1.jpg",
+      "isBundle": false,
+      "free": false,
+      "observedAt": "2026-10-20"
+    },
+    {
+      "productId": "17993791",
+      "title": "Year 3 Addition & Subtraction Learning Slides | 94 Slides | AC9M3N03",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Addition-Subtraction-Learning-Slides-94-Slides-AC9M3N03-17993791",
+      "image": "https://ecdn.teacherspayteachers.com/cdn-cgi/image/format=avif,quality=70,onerror=redirect/thumbitem/Year-3-Addition-Subtraction-Learning-Slides-94-Slides-AC9M3N03-17993791-1792304671/750f-17993791-1.jpg",
+      "isBundle": false,
+      "free": false,
+      "observedAt": "2026-10-20"
+    },
+    {
+      "productId": "18004014",
+      "title": "Year 3 Multiplication & Division Teaching Slides | AC9M3N04 | 57 Slides",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Multiplication-Division-Teaching-Slides-AC9M3N04-57-Slides-18004014",
+      "image": "https://ecdn.teacherspayteachers.com/cdn-cgi/image/format=avif,quality=70,onerror=redirect/thumbitem/Year-3-Multiplication-Division-Teaching-Slides-AC9M3N04-57-Slides-18004014-1792386907/750f-18004014-1.jpg",
+      "isBundle": false,
+      "free": false,
+      "observedAt": "2026-10-20"
+    },
+    {
+      "productId": "18004987",
+      "title": "Year 3 Maths Word Problems & Money | Teaching Slides | AC9M3N06",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Maths-Word-Problems-Money-Teaching-Slides-AC9M3N06-18004987",
+      "image": "https://ecdn.teacherspayteachers.com/cdn-cgi/image/format=avif,quality=70,onerror=redirect/thumbitem/Year-3-Maths-Word-Problems-Money-Teaching-Slides-AC9M3N06-18004987-1792397741/750f-18004987-1.jpg",
+      "isBundle": false,
+      "free": false,
+      "observedAt": "2026-10-20"
+    },
+    {
+      "productId": "18005473",
+      "title": "Number Algorithms & Patterns | Year 3 Maths Slides | AC9M3N07",
+      "url": "https://www.teacherspayteachers.com/Product/Number-Algorithms-Patterns-Year-3-Maths-Slides-AC9M3N07-18005473",
+      "image": "https://ecdn.teacherspayteachers.com/cdn-cgi/image/format=avif,quality=70,onerror=redirect/thumbitem/Number-Algorithms-Patterns-Year-3-Maths-Slides-AC9M3N07-18005473-1792401496/750f-18005473-1.jpg",
+      "isBundle": false,
+      "free": false,
+      "observedAt": "2026-10-20"
     }
   ],
   "scopedUpdates": [
@@ -2302,7 +2383,22 @@
       "date": "2026-10-16",
       "productId": "17967143",
       "change": "Added owner-supplied AC9M2N03 fractions worksheet listing. Contents and cover verified from accepted 39-page workbook; no live price asserted."
+    },
+    {
+      "date": "2026-10-20",
+      "productIds": [
+        "17993507",
+        "18003412",
+        "18004077",
+        "18004349",
+        "17993615",
+        "17993791",
+        "18004014",
+        "18004987",
+        "18005473"
+      ],
+      "note": "Nine owner-supplied Year 3 Maths listings opened on their live TPT pages. Covers and displayed contents checked. Existing full-store audit date retained; live prices intentionally omitted."
     }
   ],
-  "updatedAt": "2026-10-16"
+  "updatedAt": "2026-10-20"
 }
