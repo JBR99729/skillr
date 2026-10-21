@@ -1,0 +1,167 @@
+{
+  "reviewer": "/root/review_topics",
+  "review_type": "independent teacher/content source review",
+  "status": "PASS",
+  "scope": "14 Year 4 Maths topic HTML pages; all 84 new Try prompts/answers independently solved; preserved model explanations and cultural scope reviewed. Browser rendering/asset pixels not independently certified in this review.",
+  "positive_findings": [
+    "All 84 new Try answers mathematically correct and original explanations within defined Year 4 scope.",
+    "N05 correctly distinguishes scaling dividend alone from scaling dividend and divisor together, preserves internal zeros, and uses exact whole-number quotients.",
+    "M02 attributes specific Mimal Ranger public source and labels classroom map invented; does not infer real burn decisions from area alone.",
+    "M03 community-specific public sources retained; am/pm, day changes, elapsed intervals and conversion reasoning correct.",
+    "Static six-focus teaching, child-readable checks and same-code worksheet/Classroom View/practice/test path retained."
+  ],
+  "findings": [
+    {
+      "id": "T01",
+      "severity": "medium",
+      "codes": [
+        "M01",
+        "M02"
+      ],
+      "location": "Elaboration grouping/assignment across .topic-focus sections",
+      "issue": "Paragraph-by-paragraph redistribution splits an elaboration descriptor from its method and puts methods into unrelated focuses. M01 focus2 refers to scale above but the scale is later in focus4. M02 E2 descriptor sits in focus4 while Create paddocks method is focus5; E3/E4 methods end in focus6.",
+      "required_correction": "Group each E descriptor with all following teaching/method/evidence paragraphs until the next E descriptor. M02 E1→2,E2→3,E3→4,E4→5,E5→6. Group M01 E1 mass→4,E2 choose attributes→1,E3 instrument measures→4 or suitable focus,E4/E5/E6→6,E7 attributed context→5/6. Replace above/below references if distribution changes.",
+      "status": "CLOSED",
+      "recheck": "Verified corrected in final HTML source."
+    },
+    {
+      "id": "T02",
+      "severity": "medium",
+      "codes": [
+        "N06",
+        "N07"
+      ],
+      "location": "Retained elaboration descriptions and learning-support activity",
+      "issue": "Retained numbered Model references lost their numeric targets when models were redistributed into new six-focus accordions. N06 Model8 activity also lacks an identifiable visible Model8 heading.",
+      "required_correction": "Replace numeric references with visible model titles, ideally links to stable model anchors, and verify each required datum remains supplied.",
+      "status": "CLOSED",
+      "recheck": "Verified corrected in final HTML source."
+    },
+    {
+      "id": "T03",
+      "severity": "medium",
+      "codes": [
+        "N09"
+      ],
+      "location": "#focus-3 > .curriculum-detail-body > .topic-try",
+      "issue": "For the same rule is ambiguous because a different preserved even/odd branching model intervenes between the intended start5/add5 rule and Try prompt.",
+      "required_correction": "Restate start=5, update=add5, and before-output upper-bound test explicitly in the prompt.",
+      "status": "CLOSED",
+      "recheck": "Verified corrected in final HTML source."
+    },
+    {
+      "id": "T04",
+      "severity": "low",
+      "codes": [
+        "A01",
+        "N05"
+      ],
+      "location": "Retained .curriculum-worked-example h3",
+      "issue": "Legacy numbered model headings conflict visually with six-focus numbers, e.g. A01 focus2 includes old models1 and6; focus6 includes old model3.",
+      "required_correction": "Strip numeric prefixes and use Worked example: title, or use named model anchors without competing numbering.",
+      "status": "CLOSED",
+      "recheck": "Verified corrected in final HTML source."
+    },
+    {
+      "id": "T05",
+      "severity": "low",
+      "codes": [
+        "A02"
+      ],
+      "location": "Curriculum reference and related topics",
+      "issue": "Retained Next Generation Science Standards external link is irrelevant to a Maths topic and adds competing curriculum metadata.",
+      "required_correction": "Remove unrelated NGSS reference. Prefer Australian curriculum references and relevant Year4 Maths related topics only in this scoped update.",
+      "status": "CLOSED",
+      "recheck": "Verified corrected in final HTML source."
+    }
+  ],
+  "artifacts": [
+    {
+      "path": "year4/maths/ac9m4a01-find-unknown-values-in-numerical-equations-involving-addition/index.html",
+      "sha256": "e25621830a02d1d15533a762d34e7b9f0ad64ad59ee2896ee41ce330af1b7da2",
+      "new_checks_reviewed": 6,
+      "status": "PASS source teacher review"
+    },
+    {
+      "path": "year4/maths/ac9m4a02-recall-and-demonstrate-proficiency-with-multiplication-facts-up/index.html",
+      "sha256": "4f25b4175f416f80af31d061240509bbffb20022260186700fd3e82386d3b99b",
+      "new_checks_reviewed": 6,
+      "status": "PASS source teacher review"
+    },
+    {
+      "path": "year4/maths/ac9m4m01-interpret-unmarked-and-partial-units-when-measuring-and/index.html",
+      "sha256": "c61e3e44ae8580fb9b524260fbc5f2f393562599a063bc62f2e9eaab7b50d161",
+      "new_checks_reviewed": 6,
+      "status": "PASS source teacher review"
+    },
+    {
+      "path": "year4/maths/ac9m4m02-ways-of-measuring-and-approximating-the-perimeter-and-area-of/index.html",
+      "sha256": "2fc1b48d4f8732b72f5024a060b0d39d18edcab3f32bf8175ebb885773b4a2dd",
+      "new_checks_reviewed": 6,
+      "status": "PASS source teacher review"
+    },
+    {
+      "path": "year4/maths/ac9m4m03-solve-problems-involving-the-duration-of-time-including/index.html",
+      "sha256": "6c6bd0efad3d1b12f143841fb582468f10f7a1fbc63b088ba78bd229c20aa7a3",
+      "new_checks_reviewed": 6,
+      "status": "PASS source teacher review"
+    },
+    {
+      "path": "year4/maths/ac9m4n01-and-extend-the-application-of-place-value-to-tenths-and/index.html",
+      "sha256": "570c85bcb0af1f9c8a90d2c997eefc43f20abd176ebec93ef3b6d97f682d3774",
+      "new_checks_reviewed": 6,
+      "status": "PASS source teacher review"
+    },
+    {
+      "path": "year4/maths/ac9m4n02-explain-and-use-the-properties-of-odd-and-even-numbers/index.html",
+      "sha256": "74c540bf5433c9057b8e5cd001478ec53fb51361312ae6c37319f3ce02099f94",
+      "new_checks_reviewed": 6,
+      "status": "PASS source teacher review"
+    },
+    {
+      "path": "year4/maths/ac9m4n03-find-equivalent-representations-of-fractions-using-related/index.html",
+      "sha256": "172f778dfb2d29fe001a31ba90611943c703825914b850f997169dc2ae6c2dda",
+      "new_checks_reviewed": 6,
+      "status": "PASS source teacher review"
+    },
+    {
+      "path": "year4/maths/ac9m4n04-count-by-fractions-including-mixed-numerals-locate-and/index.html",
+      "sha256": "5f331db7ef49583feb57676723a22c5e5aa9eb41b3c9e65c46eba1d4af8b43ac",
+      "new_checks_reviewed": 6,
+      "status": "PASS source teacher review"
+    },
+    {
+      "path": "year4/maths/ac9m4n05-solve-problems-involving-multiplying-or-dividing-natural/index.html",
+      "sha256": "2fc8ca4ef9fc4701c1640ea42b7bb198c03fe93e20547f8e66047b3674846592",
+      "new_checks_reviewed": 6,
+      "status": "PASS source teacher review"
+    },
+    {
+      "path": "year4/maths/ac9m4n06-develop-efficient-strategies-and-use-appropriate-digital-tools/index.html",
+      "sha256": "d84ac849bf7db5eb9f0baf71e984ca0eb108e3ec160f9ba11dd2a360cf0cae29",
+      "new_checks_reviewed": 6,
+      "status": "PASS source teacher review"
+    },
+    {
+      "path": "year4/maths/ac9m4n07-choose-and-use-estimation-and-rounding-to-check-and-explain/index.html",
+      "sha256": "b2a3f95584eb8f2aa2749b99ad26f03c5d71d6bf1006f0dd3c1e54bc9dd3f14a",
+      "new_checks_reviewed": 6,
+      "status": "PASS source teacher review"
+    },
+    {
+      "path": "year4/maths/ac9m4n08-mathematical-modelling-to-solve-practical-problems-involving/index.html",
+      "sha256": "3d0ef1bcb53de14d045354ae2ae897b7018c2679d3adf57ff78600825d824e26",
+      "new_checks_reviewed": 6,
+      "status": "PASS source teacher review"
+    },
+    {
+      "path": "year4/maths/ac9m4n09-follow-and-create-algorithms-involving-a-sequence-of-steps-and/index.html",
+      "sha256": "4da56a8a9cd81894d5dae13eb6689d37ccddc635a43dbaf7777301047150310b",
+      "new_checks_reviewed": 6,
+      "status": "PASS source teacher review"
+    }
+  ],
+  "recheck_required": [],
+  "recheck_outcome": "All five findings closed against exact current HTML. Rechecked full M01/M02 elaboration group and context allocation, M01 named mass-model reference, N06/N07 named worked references including N06 support activity, independently stated N09 comparison prompt, removed legacy numbered model headings and removed NGSS reference. No mathematical content changes in fixes; all 84 original new checks remain correct.",
+  "final_regeneration_recheck": "PASS: exact current 14 page hashes refreshed following SEO/head-preserving serialization, Learning goal label addition and equivalent relative Classroom View links. All six focuses and six Try/check pairs per page remain, with prior issue closures preserved. No content regression found."
+}
