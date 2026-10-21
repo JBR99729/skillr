@@ -1,8 +1,8 @@
 {
   "observedAt": "2026-10-07",
   "storefront": "https://www.teacherspayteachers.com/store/skillrhub",
-  "observedProductCount": 158,
-  "codeCount": 108,
+  "observedProductCount": 179,
+  "codeCount": 121,
   "evidence": "All seven public store pages inspected. Existing catalogue names and code mappings retained; new listings copied from the live store. Prices and unsupported pack counts intentionally omitted.",
   "unmappedProductIds": [
     "17621276",
@@ -1463,6 +1463,227 @@
       ],
       "freeSample": false,
       "listingConfirmedAt": "2026-10-20"
+    },
+    {
+      "productId": "18015139",
+      "name": "Year 3 Inverse Operations Worksheets AC9M3A01 60 Practice 15 Test",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Inverse-Operations-Worksheets-AC9M3A01-60-Practice-15-Test-18015139",
+      "curriculumCodes": [
+        "AC9M3A01"
+      ],
+      "freeSample": false,
+      "source": "Owner supplied, 21 October 2026"
+    },
+    {
+      "productId": "18015286",
+      "name": "Year 3 Mental Addition Subtraction Worksheets AC9M3A02",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Mental-Addition-Subtraction-Worksheets-AC9M3A02-18015286",
+      "curriculumCodes": [
+        "AC9M3A02"
+      ],
+      "freeSample": false,
+      "source": "Owner supplied, 21 October 2026"
+    },
+    {
+      "productId": "18016203",
+      "name": "Year 3 Multiplication Division Worksheets AC9M3A03 60 Practice 15 Test",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Multiplication-Division-Worksheets-AC9M3A03-60-Practice-15-Test-18016203",
+      "curriculumCodes": [
+        "AC9M3A03"
+      ],
+      "freeSample": false,
+      "source": "Owner supplied, 21 October 2026"
+    },
+    {
+      "productId": "18016244",
+      "name": "Year 3 Metric Units Estimation Worksheets AC9M3M01 60 Practice 15 Test",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Metric-Units-Estimation-Worksheets-AC9M3M01-60-Practice-15-Test-18016244",
+      "curriculumCodes": [
+        "AC9M3M01"
+      ],
+      "freeSample": false,
+      "source": "Owner supplied, 21 October 2026"
+    },
+    {
+      "productId": "18016287",
+      "name": "Year 3 Measurement Worksheets AC9M3M02 60 Practice 15 Test",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Measurement-Worksheets-AC9M3M02-60-Practice-15-Test-18016287",
+      "curriculumCodes": [
+        "AC9M3M02"
+      ],
+      "freeSample": false,
+      "source": "Owner supplied, 21 October 2026"
+    },
+    {
+      "productId": "18016405",
+      "name": "Year 3 Time Duration Worksheets AC9M3M03 60 Practice 15 Test",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Time-Duration-Worksheets-AC9M3M03-60-Practice-15-Test-18016405",
+      "curriculumCodes": [
+        "AC9M3M03"
+      ],
+      "freeSample": false,
+      "source": "Owner supplied, 21 October 2026"
+    },
+    {
+      "productId": "18016704",
+      "name": "Year 3 Telling Time Worksheets AC9M3M04 60 Practice 15 Test",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Telling-Time-Worksheets-AC9M3M04-60-Practice-15-Test-18016704",
+      "curriculumCodes": [
+        "AC9M3M04"
+      ],
+      "freeSample": false,
+      "source": "Owner supplied, 21 October 2026"
+    },
+    {
+      "productId": "18017031",
+      "name": "Year 3 3D Objects Worksheets AC9M3SP01 60 Practice 15 Test",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-3D-Objects-Worksheets-AC9M3SP01-60-Practice-15-Test-18017031",
+      "curriculumCodes": [
+        "AC9M3SP01"
+      ],
+      "freeSample": false,
+      "source": "Owner supplied, 21 October 2026"
+    },
+    {
+      "productId": "18024378",
+      "name": "Year 3 Maps Plans Worksheets AC9M3SP02 60 Practice 15 Test",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Maps-Plans-Worksheets-AC9M3SP02-60-Practice-15-Test-18024378",
+      "curriculumCodes": [
+        "AC9M3SP02"
+      ],
+      "freeSample": false,
+      "source": "Owner supplied, 21 October 2026"
+    },
+    {
+      "productId": "18024689",
+      "name": "Year 3 Data Collection Worksheets AC9M3ST01 60 Practice 15 Test",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Data-Collection-Worksheets-AC9M3ST01-60-Practice-15-Test-18024689",
+      "curriculumCodes": [
+        "AC9M3ST01"
+      ],
+      "freeSample": false,
+      "source": "Owner supplied, 21 October 2026"
+    },
+    {
+      "productId": "18026386",
+      "name": "Year 3 Picture Bar Graphs Worksheets AC9M3ST02 60 Practice 15 Test",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Picture-Bar-Graphs-Worksheets-AC9M3ST02-60-Practice-15-Test-18026386",
+      "curriculumCodes": [
+        "AC9M3ST02"
+      ],
+      "freeSample": false,
+      "source": "Owner supplied, 21 October 2026"
+    },
+    {
+      "productId": "18026511",
+      "name": "Year 3 Angles Turns Worksheets AC9M3M05 60 Practice 15 Test",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Angles-Turns-Worksheets-AC9M3M05-60-Practice-15-Test-18026511",
+      "curriculumCodes": [
+        "AC9M3M05"
+      ],
+      "freeSample": false,
+      "source": "Owner supplied, 21 October 2026"
+    },
+    {
+      "productId": "18026670",
+      "name": "Year 3 Australian Money Worksheets AC9M3M06 60 Practice 15 Test",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Australian-Money-Worksheets-AC9M3M06-60-Practice-15-Test-18026670",
+      "curriculumCodes": [
+        "AC9M3M06"
+      ],
+      "freeSample": false,
+      "source": "Owner supplied, 21 October 2026"
+    },
+    {
+      "productId": "18027141",
+      "name": "Year 3 Statistical Investigations Worksheets AC9M3ST03 60 Practice 15 Test",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Statistical-Investigations-Worksheets-AC9M3ST03-60-Practice-15-Test-18027141",
+      "curriculumCodes": [
+        "AC9M3ST03"
+      ],
+      "freeSample": false,
+      "source": "Owner supplied, 21 October 2026"
+    },
+    {
+      "productId": "18027637",
+      "name": "Year 3 Chance Probability Worksheets AC9M3P01 60 Practice 15 Test",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Chance-Probability-Worksheets-AC9M3P01-60-Practice-15-Test-18027637",
+      "curriculumCodes": [
+        "AC9M3P01"
+      ],
+      "freeSample": false,
+      "source": "Owner supplied, 21 October 2026"
+    },
+    {
+      "productId": "18027830",
+      "name": "Year 3 Probability Worksheets AC9M3P02 Chance Experiments 60 Practice 15 T",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Probability-Worksheets-AC9M3P02-Chance-Experiments-60-Practice-15-T-18027830",
+      "curriculumCodes": [
+        "AC9M3P02"
+      ],
+      "freeSample": false,
+      "source": "Owner supplied, 21 October 2026"
+    },
+    {
+      "productId": "18028311",
+      "name": "Foundation Maths Yearly Workbook All 12 AC9 Codes 136 Pages",
+      "url": "https://www.teacherspayteachers.com/Product/Foundation-Maths-Yearly-Workbook-All-12-AC9-Codes-136-Pages-18028311",
+      "curriculumCodes": [
+        "AC9MFN01",
+        "AC9MFN02",
+        "AC9MFN03",
+        "AC9MFN04",
+        "AC9MFN05",
+        "AC9MFN06",
+        "AC9MFA01",
+        "AC9MFM01",
+        "AC9MFM02",
+        "AC9MFSP01",
+        "AC9MFSP02",
+        "AC9MFST01"
+      ],
+      "freeSample": false,
+      "source": "Owner supplied, 21 October 2026"
+    },
+    {
+      "productId": "18015380",
+      "name": "Year 3 Inverse Operations PowerPoint AC9M3A01 79 Learning Slides",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Inverse-Operations-PowerPoint-AC9M3A01-79-Learning-Slides-18015380",
+      "curriculumCodes": [
+        "AC9M3A01"
+      ],
+      "freeSample": false,
+      "source": "Owner supplied, 21 October 2026"
+    },
+    {
+      "productId": "18016841",
+      "name": "Year 3 Multiplication Division PowerPoint AC9M3A03 69 Learning Slides",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Multiplication-Division-PowerPoint-AC9M3A03-69-Learning-Slides-18016841",
+      "curriculumCodes": [
+        "AC9M3A03"
+      ],
+      "freeSample": false,
+      "source": "Owner supplied, 21 October 2026"
+    },
+    {
+      "productId": "18025616",
+      "name": "Year 3 Metric Measurement Estimation PowerPoint AC9M3M01 64 Slides",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Metric-Measurement-Estimation-PowerPoint-AC9M3M01-64-Slides-18025616",
+      "curriculumCodes": [
+        "AC9M3M01"
+      ],
+      "freeSample": false,
+      "source": "Owner supplied, 21 October 2026"
+    },
+    {
+      "productId": "18026634",
+      "name": "Year 3 Metric Measurement PowerPoint Length Mass Capacity AC9M3M02",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Metric-Measurement-PowerPoint-Length-Mass-Capacity-AC9M3M02-18026634",
+      "curriculumCodes": [
+        "AC9M3M02"
+      ],
+      "freeSample": false,
+      "source": "Owner supplied, 21 October 2026"
     }
   ],
   "codes": [
@@ -2576,7 +2797,9 @@
       },
       "productIds": [
         "17594247",
-        "17594291"
+        "17594291",
+        "18016203",
+        "18016841"
       ]
     },
     {
@@ -2597,7 +2820,8 @@
         "17592266",
         "17593083",
         "17593120",
-        "17593166"
+        "17593166",
+        "18016405"
       ]
     },
     {
@@ -2618,7 +2842,8 @@
         "17592266",
         "17593083",
         "17593120",
-        "17593166"
+        "17593166",
+        "18016704"
       ]
     },
     {
@@ -2744,7 +2969,8 @@
         "Classroom View": "https://skillrhub.com/foundation/maths/ac9mfa01-recognise-copy-and-continue-repeating-patterns-represented-in/teacher-slides/"
       },
       "productIds": [
-        "17810632"
+        "17810632",
+        "18028311"
       ]
     },
     {
@@ -2761,7 +2987,8 @@
         "Classroom View": "https://skillrhub.com/foundation/maths/ac9mfm01-and-compare-attributes-of-objects-and-events-including-length/teacher-slides/"
       },
       "productIds": [
-        "17804874"
+        "17804874",
+        "18028311"
       ]
     },
     {
@@ -2778,7 +3005,8 @@
         "Classroom View": "https://skillrhub.com/foundation/maths/ac9mfm02-sequence-days-of-the-week-and-times-of-the-day/teacher-slides/"
       },
       "productIds": [
-        "17811456"
+        "17811456",
+        "18028311"
       ]
     },
     {
@@ -2797,7 +3025,8 @@
       "productIds": [
         "17839947",
         "17620145",
-        "17802130"
+        "17802130",
+        "18028311"
       ]
     },
     {
@@ -2814,7 +3043,8 @@
         "Classroom View": "https://skillrhub.com/foundation/maths/ac9mfn02-and-name-the-number-of-objects-within-a-collection-up/teacher-slides/"
       },
       "productIds": [
-        "17802766"
+        "17802766",
+        "18028311"
       ]
     },
     {
@@ -2831,7 +3061,8 @@
         "Classroom View": "https://skillrhub.com/foundation/maths/ac9mfn03-and-compare-collections-to-at-least-20-using-counting-and/teacher-slides/"
       },
       "productIds": [
-        "17803594"
+        "17803594",
+        "18028311"
       ]
     },
     {
@@ -2848,7 +3079,8 @@
         "Classroom View": "https://skillrhub.com/foundation/maths/ac9mfn04-partition-and-combine-collections-up-to-10-using-part-part/teacher-slides/"
       },
       "productIds": [
-        "17803723"
+        "17803723",
+        "18028311"
       ]
     },
     {
@@ -2865,7 +3097,8 @@
         "Classroom View": "https://skillrhub.com/foundation/maths/ac9mfn05-represent-practical-situations-involving-addition-subtraction/teacher-slides/"
       },
       "productIds": [
-        "17804195"
+        "17804195",
+        "18028311"
       ]
     },
     {
@@ -2882,7 +3115,8 @@
         "Classroom View": "https://skillrhub.com/foundation/maths/ac9mfn06-represent-practical-situations-that-involve-equal-sharing-and/teacher-slides/"
       },
       "productIds": [
-        "17804595"
+        "17804595",
+        "18028311"
       ]
     },
     {
@@ -2899,7 +3133,8 @@
         "Classroom View": "https://skillrhub.com/foundation/maths/ac9mfsp01-sort-name-and-create-familiar-shapes-recognise-and-describe/teacher-slides/"
       },
       "productIds": [
-        "17811158"
+        "17811158",
+        "18028311"
       ]
     },
     {
@@ -2916,7 +3151,8 @@
         "Classroom View": "https://skillrhub.com/foundation/maths/ac9mfsp02-the-position-and-location-of-themselves-and-objects-in-relation/teacher-slides/"
       },
       "productIds": [
-        "17811759"
+        "17811759",
+        "18028311"
       ]
     },
     {
@@ -2933,7 +3169,8 @@
         "Classroom View": "https://skillrhub.com/foundation/maths/ac9mfst01-collect-sort-and-compare-data-represented-by-objects-and-images/teacher-slides/"
       },
       "productIds": [
-        "17812026"
+        "17812026",
+        "18028311"
       ]
     },
     {
@@ -3364,7 +3601,231 @@
         "18004349",
         "18005473"
       ]
+    },
+    {
+      "code": "AC9M3A01",
+      "year": "Year 3",
+      "subject": "Mathematics",
+      "strand": "Algebra",
+      "descriptor": "recognise and explain the connection between addition and subtraction as inverse operations, apply to partition numbers and find unknown values in number sentences",
+      "topicUrl": "https://skillrhub.com/year3/maths/ac9m3a01-and-explain-the-connection-between-addition-and-subtraction-as/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-3/math/ac9m3a01/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-3/math/ac9m3a01/practice/",
+        "Test": "https://skillrhub.com/quiz/year-3/math/ac9m3a01/test/",
+        "Classroom View": "https://skillrhub.com/year3/maths/ac9m3a01-and-explain-the-connection-between-addition-and-subtraction-as/teacher-slides/"
+      },
+      "productIds": [
+        "18015139",
+        "18015380"
+      ]
+    },
+    {
+      "code": "AC9M3A02",
+      "year": "Year 3",
+      "subject": "Mathematics",
+      "strand": "Algebra",
+      "descriptor": "extend and apply knowledge of addition and subtraction facts to 20 to develop efficient mental strategies for computation with larger numbers without a calculator",
+      "topicUrl": "https://skillrhub.com/year3/maths/ac9m3a02-extend-and-apply-knowledge-of-addition-and-subtraction-facts-to/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-3/math/ac9m3a02/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-3/math/ac9m3a02/practice/",
+        "Test": "https://skillrhub.com/quiz/year-3/math/ac9m3a02/test/",
+        "Classroom View": "https://skillrhub.com/year3/maths/ac9m3a02-extend-and-apply-knowledge-of-addition-and-subtraction-facts-to/teacher-slides/"
+      },
+      "productIds": [
+        "18015286"
+      ]
+    },
+    {
+      "code": "AC9M3M01",
+      "year": "Year 3",
+      "subject": "Mathematics",
+      "strand": "Measurement",
+      "descriptor": "identify which metric units are used to measure everyday items; use measurements of familiar items and known units to make estimates",
+      "topicUrl": "https://skillrhub.com/year3/maths/ac9m3m01-which-metric-units-are-used-to-measure-everyday-items-use/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-3/math/ac9m3m01/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-3/math/ac9m3m01/practice/",
+        "Test": "https://skillrhub.com/quiz/year-3/math/ac9m3m01/test/",
+        "Classroom View": "https://skillrhub.com/year3/maths/ac9m3m01-which-metric-units-are-used-to-measure-everyday-items-use/teacher-slides/"
+      },
+      "productIds": [
+        "18016244",
+        "18025616"
+      ]
+    },
+    {
+      "code": "AC9M3M02",
+      "year": "Year 3",
+      "subject": "Mathematics",
+      "strand": "Measurement",
+      "descriptor": "measure and compare objects using familiar metric units of length, mass and capacity, and instruments with labelled markings",
+      "topicUrl": "https://skillrhub.com/year3/maths/ac9m3m02-measure-and-compare-objects-using-familiar-metric-units-of/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-3/math/ac9m3m02/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-3/math/ac9m3m02/practice/",
+        "Test": "https://skillrhub.com/quiz/year-3/math/ac9m3m02/test/",
+        "Classroom View": "https://skillrhub.com/year3/maths/ac9m3m02-measure-and-compare-objects-using-familiar-metric-units-of/teacher-slides/"
+      },
+      "productIds": [
+        "18016287",
+        "18026634"
+      ]
+    },
+    {
+      "code": "AC9M3SP01",
+      "year": "Year 3",
+      "subject": "Mathematics",
+      "strand": "Space",
+      "descriptor": "make, compare and classify objects, identifying key features and explaining why these features make them suited to their uses",
+      "topicUrl": "https://skillrhub.com/year3/maths/ac9m3sp01-make-compare-and-classify-objects-identifying-key-features-and/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-3/math/ac9m3sp01/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-3/math/ac9m3sp01/practice/",
+        "Test": "https://skillrhub.com/quiz/year-3/math/ac9m3sp01/test/",
+        "Classroom View": "https://skillrhub.com/year3/maths/ac9m3sp01-make-compare-and-classify-objects-identifying-key-features-and/teacher-slides/"
+      },
+      "productIds": [
+        "18017031"
+      ]
+    },
+    {
+      "code": "AC9M3SP02",
+      "year": "Year 3",
+      "subject": "Mathematics",
+      "strand": "Space",
+      "descriptor": "interpret and create two-dimensional representations of familiar environments, locating key landmarks and objects relative to each other",
+      "topicUrl": "https://skillrhub.com/year3/maths/ac9m3sp02-interpret-and-create-two-dimensional-representations-of/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-3/math/ac9m3sp02/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-3/math/ac9m3sp02/practice/",
+        "Test": "https://skillrhub.com/quiz/year-3/math/ac9m3sp02/test/",
+        "Classroom View": "https://skillrhub.com/year3/maths/ac9m3sp02-interpret-and-create-two-dimensional-representations-of/teacher-slides/"
+      },
+      "productIds": [
+        "18024378"
+      ]
+    },
+    {
+      "code": "AC9M3ST01",
+      "year": "Year 3",
+      "subject": "Mathematics",
+      "strand": "Statistics",
+      "descriptor": "acquire data for categorical and discrete numerical variables to address a question of interest or purpose by observing, collecting and accessing data sets; record the data using appropriate methods including frequency tables and spreadsheets",
+      "topicUrl": "https://skillrhub.com/year3/maths/ac9m3st01-acquire-data-for-categorical-and-discrete-numerical-variables/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-3/math/ac9m3st01/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-3/math/ac9m3st01/practice/",
+        "Test": "https://skillrhub.com/quiz/year-3/math/ac9m3st01/test/",
+        "Classroom View": "https://skillrhub.com/year3/maths/ac9m3st01-acquire-data-for-categorical-and-discrete-numerical-variables/teacher-slides/"
+      },
+      "productIds": [
+        "18024689"
+      ]
+    },
+    {
+      "code": "AC9M3ST02",
+      "year": "Year 3",
+      "subject": "Mathematics",
+      "strand": "Statistics",
+      "descriptor": "create and compare different graphical representations of data sets including using software where appropriate; interpret the data in terms of the context",
+      "topicUrl": "https://skillrhub.com/year3/maths/ac9m3st02-and-compare-different-graphical-representations-of-data-sets/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-3/math/ac9m3st02/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-3/math/ac9m3st02/practice/",
+        "Test": "https://skillrhub.com/quiz/year-3/math/ac9m3st02/test/",
+        "Classroom View": "https://skillrhub.com/year3/maths/ac9m3st02-and-compare-different-graphical-representations-of-data-sets/teacher-slides/"
+      },
+      "productIds": [
+        "18026386"
+      ]
+    },
+    {
+      "code": "AC9M3M05",
+      "year": "Year 3",
+      "subject": "Mathematics",
+      "strand": "Measurement",
+      "descriptor": "identify angles as measures of turn and compare angles with right angles in everyday situations",
+      "topicUrl": "https://skillrhub.com/year3/maths/ac9m3m05-angles-as-measures-of-turn-and-compare-angles-with-right/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-3/math/ac9m3m05/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-3/math/ac9m3m05/practice/",
+        "Test": "https://skillrhub.com/quiz/year-3/math/ac9m3m05/test/",
+        "Classroom View": "https://skillrhub.com/year3/maths/ac9m3m05-angles-as-measures-of-turn-and-compare-angles-with-right/teacher-slides/"
+      },
+      "productIds": [
+        "18026511"
+      ]
+    },
+    {
+      "code": "AC9M3M06",
+      "year": "Year 3",
+      "subject": "Mathematics",
+      "strand": "Measurement",
+      "descriptor": "recognise the relationships between dollars and cents and represent money values in different ways",
+      "topicUrl": "https://skillrhub.com/year3/maths/ac9m3m06-the-relationships-between-dollars-and-cents-and-represent-money/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-3/math/ac9m3m06/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-3/math/ac9m3m06/practice/",
+        "Test": "https://skillrhub.com/quiz/year-3/math/ac9m3m06/test/",
+        "Classroom View": "https://skillrhub.com/year3/maths/ac9m3m06-the-relationships-between-dollars-and-cents-and-represent-money/teacher-slides/"
+      },
+      "productIds": [
+        "18026670"
+      ]
+    },
+    {
+      "code": "AC9M3ST03",
+      "year": "Year 3",
+      "subject": "Mathematics",
+      "strand": "Statistics",
+      "descriptor": "conduct guided statistical investigations involving the collection, representation and interpretation of data for categorical and discrete numerical variables with respect to questions of interest",
+      "topicUrl": "https://skillrhub.com/year3/maths/ac9m3st03-conduct-guided-statistical-investigations-involving-the/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-3/math/ac9m3st03/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-3/math/ac9m3st03/practice/",
+        "Test": "https://skillrhub.com/quiz/year-3/math/ac9m3st03/test/",
+        "Classroom View": "https://skillrhub.com/year3/maths/ac9m3st03-conduct-guided-statistical-investigations-involving-the/teacher-slides/"
+      },
+      "productIds": [
+        "18027141"
+      ]
+    },
+    {
+      "code": "AC9M3P01",
+      "year": "Year 3",
+      "subject": "Mathematics",
+      "strand": "Probability",
+      "descriptor": "identify practical activities and everyday events involving chance; describe possible outcomes and events as ‘likely’ or ‘unlikely’ and identify some events as ‘certain’ or ‘impossible’ explaining reasoning",
+      "topicUrl": "https://skillrhub.com/year3/maths/ac9m3p01-practical-activities-and-everyday-events-involving-chance/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-3/math/ac9m3p01/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-3/math/ac9m3p01/practice/",
+        "Test": "https://skillrhub.com/quiz/year-3/math/ac9m3p01/test/",
+        "Classroom View": "https://skillrhub.com/year3/maths/ac9m3p01-practical-activities-and-everyday-events-involving-chance/teacher-slides/"
+      },
+      "productIds": [
+        "18027637"
+      ]
+    },
+    {
+      "code": "AC9M3P02",
+      "year": "Year 3",
+      "subject": "Mathematics",
+      "strand": "Probability",
+      "descriptor": "conduct repeated chance experiments; identify and describe possible outcomes, record the results, recognise and discuss the variation",
+      "topicUrl": "https://skillrhub.com/year3/maths/ac9m3p02-conduct-repeated-chance-experiments-identify-and-describe/",
+      "resources": {
+        "Worksheet": "https://skillrhub.com/quiz/year-3/math/ac9m3p02/worksheet/",
+        "Practice": "https://skillrhub.com/quiz/year-3/math/ac9m3p02/practice/",
+        "Test": "https://skillrhub.com/quiz/year-3/math/ac9m3p02/test/",
+        "Classroom View": "https://skillrhub.com/year3/maths/ac9m3p02-conduct-repeated-chance-experiments-identify-and-describe/teacher-slides/"
+      },
+      "productIds": [
+        "18027830"
+      ]
     }
   ],
-  "ownerSuppliedLinksUpdatedAt": "2026-10-20"
+  "ownerSuppliedLinksUpdatedAt": "2026-10-21"
 }
