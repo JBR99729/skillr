@@ -178,13 +178,14 @@
     "hub_artifacts": [
       {
         "path": "year4/index.html",
-        "sha256": "9c8199efea844c51b7c3b87656f48b5a8404a328e6ae561a8cee95d6b830d68b"
+        "sha256": "14f3cef40e455e11f5364774f9044c439f218e616a38be60bad44f466a74034a"
       },
       {
         "path": "year4/curriculum/maths/index.html",
-        "sha256": "b9db8020411e084b2e002cdf99d80c1fd69ce1efa0e0baec0d442ff08769361b"
+        "sha256": "f8c0f04d73cb4e377c16de252c93d6eb4875f18ea895c99777670272f8122a13"
       }
     ],
-    "compatibility_recheck": "PASS: exact final Maths hub has 23 Topic guide link labels with unique unchanged same-code Year4 hrefs and all23 curriculum codes. This label-only adjustment introduces no lesson-content or semantic regression."
+    "compatibility_recheck": "PASS: exact final Maths hub has 23 Topic guide link labels with unique unchanged same-code Year4 hrefs and all23 curriculum codes. This label-only adjustment introduces no lesson-content or semantic regression.",
+    "pwa_header_footer_recheck": "PASS source review: both hubs now have one hub-header with shared skillr-site-header ownership class and one explicit contentinfo region preserving About/Contact/Privacy/Editorial standards. Existing same-code links, 23 Maths cards and subject counts preserved. Nine shortened headings/descriptions are mathematically faithful concise summaries. No Year1 links/claims introduced. Browser confirmation of duplicate prevention belongs to owning agent."
   }
 }
