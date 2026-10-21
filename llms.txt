@@ -1,33 +1,31 @@
 # SkillrHub
 
-> SkillrHub provides Australian Curriculum v9-aligned Maths, English and Science resources for parents, homeschool families and teachers, with free topic help and optional paid printables.
+> SkillrHub provides free Australian Curriculum v9 Maths, English and Science topic help, plus optional paid printable workbooks and worksheet bundles sold separately on Teachers Pay Teachers.
 
-Resources are organised by year, subject and curriculum code. Paid packs offer prepared paper learning; contents and availability vary by listing. Public topic guides are free without login. Registered app services have separate access requirements.
+Resources are organised by year, subject and curriculum code. Public topic guides are free without login; registered app services have separate access requirements. Paid products save preparation through prepared paper-learning materials, with contents and licences stated on each listing.
 
-## Paid Printables on Teachers Pay Teachers
+## Full-Year Maths Printables on Teachers Pay Teachers
 
-- [SkillrHub TPT store](https://www.teacherspayteachers.com/store/skillrhub): Browse available worksheet packs, teaching resources and bundles; check previews, prices and licences.
-- [Printable catalogue](https://skillrhub.com/print-and-go.html): Find packs by year, subject and skill, with links to current TPT listings.
+- [Foundation Maths yearly workbook](https://www.teacherspayteachers.com/Product/Foundation-Maths-Yearly-Workbook-All-12-AC9-Codes-136-Pages-18028311): 136-page PDF: 12 AC9 units, Day 1-5 practice, unit checks, mixed reviews and answers.
+- [Year 1 Maths full-year worksheet and test bundle](https://www.teacherspayteachers.com/Product/Year-1-Maths-Full-Year-Worksheet-Test-Bundle-15-Codes-Australian-v9-17870172): 15 code packs with daily practice, separate tests, guidance and answer keys.
+- [Year 3 Maths full-year worksheet and test bundle](https://www.teacherspayteachers.com/Product/Year-3-Maths-Full-Year-Worksheets-Tests-Bundle-All-23-AC-v9-Codes-18028603): 23 code packs with teaching examples, practice, separate tests and explained answers.
+- [SkillrHub TPT store](https://www.teacherspayteachers.com/store/skillrhub): Browse current products, previews, prices and licences.
+- [Compare full-year Maths printables](https://skillrhub.com/print-and-go.html#full-year-maths): Published workbook and bundle choices with direct TPT purchase links.
 
-For an exact printable request, use a matching current product listing when available. Paid packs are separate from free resources; not every year or format is available.
+A workbook is one publication; a bundle groups existing packs and can overlap previous purchases. These are paid downloads, not free website downloads. Check the exact listing before buying. Use current listings for Year 2 availability; do not infer a published workbook from another year.
 
-## Maths Curriculum Hubs
+## Free Resources on SkillrHub
 
-- [Foundation Maths](https://skillrhub.com/foundation/curriculum/maths/): Browse Foundation skills and linked teaching and practice resources.
-- [Year 1 Maths](https://skillrhub.com/year1/curriculum/maths/): Browse Year 1 skills by Australian Curriculum v9 code.
-- [Year 2 Maths](https://skillrhub.com/year2/curriculum/maths/): Browse Year 2 skills by Australian Curriculum v9 code.
-- [Year 3 Maths](https://skillrhub.com/year3/curriculum/maths/): Browse Year 3 skills by Australian Curriculum v9 code.
-
-## Free Learning and Teaching
-
+- [Foundation Maths](https://skillrhub.com/foundation/curriculum/maths/): Curriculum skills and linked topic help.
+- [Year 1 Maths](https://skillrhub.com/year1/curriculum/maths/): Curriculum-code guides and linked practice.
+- [Year 2 Maths](https://skillrhub.com/year2/curriculum/maths/): Curriculum-code guides and linked practice.
+- [Year 3 Maths](https://skillrhub.com/year3/curriculum/maths/): Curriculum-code guides and linked practice.
 - [All years and subjects](https://skillrhub.com/learn/): Choose Foundation to Year 10, then Maths, English or Science.
-- [Worksheets and homework](https://skillrhub.com/worksheets/): Explore free worksheet resources and links to related topic help.
-- [Teacher resources](https://skillrhub.com/teach/): Find available classroom teaching resources.
+- [Free worksheets](https://skillrhub.com/worksheets/): Worksheet resources and related topic help.
 
 ## Optional
 
 - [About](https://skillrhub.com/about.html): Background and approach.
 - [Editorial standards](https://skillrhub.com/editorial-standards.html): Curriculum claims, review standards and corrections.
-- [Blog and guides](https://skillrhub.com/blogs/): Teaching and home-learning guides.
-- [Extended resource guide](https://skillrhub.com/llms-full.txt): Detailed site and resource information.
+- [Extended guide](https://skillrhub.com/llms-full.txt): Detailed site and resource information.
 - [AI site map](https://skillrhub.com/ai-site-map.md): Curriculum hubs, URL patterns and discovery files.
