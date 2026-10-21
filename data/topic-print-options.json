@@ -449,27 +449,41 @@
       "topicUrl": "/year3/maths/ac9m3n02-and-represent-unit-fractions-including-frac12-frac13-frac14/",
       "individual": "https://www.teacherspayteachers.com/Product/Year-3-Fractions-Worksheets-AC9M3N02-60-Practice-15-Test-17993326",
       "bundles": [
-        "https://www.teacherspayteachers.com/Product/Year-3-Fractions-Bundle-Workbook-Lesson-Slides-AC9M3N02-Australian-v9-17594471"
+        "https://www.teacherspayteachers.com/Product/Year-3-Fractions-Bundle-Workbook-Lesson-Slides-AC9M3N02-Australian-v9-17594471",
+        "https://www.teacherspayteachers.com/Product/Year-3-Number-Worksheets-Tests-Bundle-AC9M3N01-N07-537-Questions-18005922",
+        "https://www.teacherspayteachers.com/Product/Year-3-Maths-Term-2-Worksheets-Tests-Bundle-Fractions-Facts-Measurement-18028549",
+        "https://www.teacherspayteachers.com/Product/Year-3-Maths-Full-Year-Worksheets-Tests-Bundle-All-23-AC-v9-Codes-18028603"
       ]
     },
     {
       "code": "AC9M3N04",
       "topicUrl": "/year3/maths/ac9m3n04-multiply-and-divide-one-and-two-digit-numbers-representing/",
-      "individual": "https://www.teacherspayteachers.com/Product/Year-3-Multiplication-Division-Workbook-144-Questions-Australian-v9-17594291",
-      "bundles": []
+      "individual": "https://www.teacherspayteachers.com/Product/Year-3-Multiplication-Division-Worksheets-AC9M3N04-60-Practice-15-Test-17993675",
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-3-Number-Worksheets-Tests-Bundle-AC9M3N01-N07-537-Questions-18005922",
+        "https://www.teacherspayteachers.com/Product/Year-3-Maths-Term-2-Worksheets-Tests-Bundle-Fractions-Facts-Measurement-18028549",
+        "https://www.teacherspayteachers.com/Product/Year-3-Maths-Full-Year-Worksheets-Tests-Bundle-All-23-AC-v9-Codes-18028603"
+      ]
     },
     {
       "code": "AC9M3A03",
       "topicUrl": "/year3/maths/ac9m3a03-recall-and-demonstrate-proficiency-with-multiplication-facts/",
       "individual": "https://www.teacherspayteachers.com/Product/Year-3-Multiplication-Division-Worksheets-AC9M3A03-60-Practice-15-Test-18016203",
-      "bundles": []
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-3-Algebra-Worksheets-Tests-Bundle-AC9M3A01-A03-225-Questions-18028481",
+        "https://www.teacherspayteachers.com/Product/Year-3-Maths-Term-2-Worksheets-Tests-Bundle-Fractions-Facts-Measurement-18028549",
+        "https://www.teacherspayteachers.com/Product/Year-3-Maths-Full-Year-Worksheets-Tests-Bundle-All-23-AC-v9-Codes-18028603"
+      ]
     },
     {
       "code": "AC9M3M03",
       "topicUrl": "/year3/maths/ac9m3m03-and-use-the-relationship-between-formal-units-of-time-including/",
       "individual": "https://www.teacherspayteachers.com/Product/Year-3-Time-Duration-Worksheets-AC9M3M03-60-Practice-15-Test-18016405",
       "bundles": [
-        "https://www.teacherspayteachers.com/Product/Year-3-Time-Bundle-Telling-Time-Duration-Slides-Worksheets-Australian-v9-17593227"
+        "https://www.teacherspayteachers.com/Product/Year-3-Time-Bundle-Telling-Time-Duration-Slides-Worksheets-Australian-v9-17593227",
+        "https://www.teacherspayteachers.com/Product/Year-3-Measurement-Worksheets-Tests-Bundle-AC9M3M01-M06-450-Questions-18028503",
+        "https://www.teacherspayteachers.com/Product/Year-3-Maths-Term-3-Worksheets-Tests-Bundle-Estimation-Time-Money-18028572",
+        "https://www.teacherspayteachers.com/Product/Year-3-Maths-Full-Year-Worksheets-Tests-Bundle-All-23-AC-v9-Codes-18028603"
       ]
     },
     {
@@ -477,7 +491,10 @@
       "topicUrl": "/year3/maths/ac9m3m04-the-relationship-between-the-hours-and-minutes-on-analog-and/",
       "individual": "https://www.teacherspayteachers.com/Product/Year-3-Telling-Time-Worksheets-AC9M3M04-60-Practice-15-Test-18016704",
       "bundles": [
-        "https://www.teacherspayteachers.com/Product/Year-3-Time-Bundle-Telling-Time-Duration-Slides-Worksheets-Australian-v9-17593227"
+        "https://www.teacherspayteachers.com/Product/Year-3-Time-Bundle-Telling-Time-Duration-Slides-Worksheets-Australian-v9-17593227",
+        "https://www.teacherspayteachers.com/Product/Year-3-Measurement-Worksheets-Tests-Bundle-AC9M3M01-M06-450-Questions-18028503",
+        "https://www.teacherspayteachers.com/Product/Year-3-Maths-Term-3-Worksheets-Tests-Bundle-Estimation-Time-Money-18028572",
+        "https://www.teacherspayteachers.com/Product/Year-3-Maths-Full-Year-Worksheets-Tests-Bundle-All-23-AC-v9-Codes-18028603"
       ]
     },
     {
@@ -513,86 +530,142 @@
     {
       "code": "AC9M3N01",
       "topicUrl": "/year3/maths/ac9m3n01-recognise-represent-and-order-natural-numbers-using-naming-and/",
-      "bundles": [],
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-3-Number-Worksheets-Tests-Bundle-AC9M3N01-N07-537-Questions-18005922",
+        "https://www.teacherspayteachers.com/Product/Year-3-Maths-Term-1-Worksheets-Tests-Bundle-Number-Strategies-3D-18028537",
+        "https://www.teacherspayteachers.com/Product/Year-3-Maths-Full-Year-Worksheets-Tests-Bundle-All-23-AC-v9-Codes-18028603"
+      ],
       "individual": "https://www.teacherspayteachers.com/Product/Year-3-Place-Value-AC9M3N01-Large-Numbers-60-Practice-15-Test-17992853"
     },
     {
       "code": "AC9M3A01",
       "topicUrl": "/year3/maths/ac9m3a01-and-explain-the-connection-between-addition-and-subtraction-as/",
       "individual": "https://www.teacherspayteachers.com/Product/Year-3-Inverse-Operations-Worksheets-AC9M3A01-60-Practice-15-Test-18015139",
-      "bundles": []
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-3-Algebra-Worksheets-Tests-Bundle-AC9M3A01-A03-225-Questions-18028481",
+        "https://www.teacherspayteachers.com/Product/Year-3-Maths-Term-1-Worksheets-Tests-Bundle-Number-Strategies-3D-18028537",
+        "https://www.teacherspayteachers.com/Product/Year-3-Maths-Full-Year-Worksheets-Tests-Bundle-All-23-AC-v9-Codes-18028603"
+      ]
     },
     {
       "code": "AC9M3A02",
       "topicUrl": "/year3/maths/ac9m3a02-extend-and-apply-knowledge-of-addition-and-subtraction-facts-to/",
       "individual": "https://www.teacherspayteachers.com/Product/Year-3-Mental-Addition-Subtraction-Worksheets-AC9M3A02-18015286",
-      "bundles": []
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-3-Algebra-Worksheets-Tests-Bundle-AC9M3A01-A03-225-Questions-18028481",
+        "https://www.teacherspayteachers.com/Product/Year-3-Maths-Term-1-Worksheets-Tests-Bundle-Number-Strategies-3D-18028537",
+        "https://www.teacherspayteachers.com/Product/Year-3-Maths-Full-Year-Worksheets-Tests-Bundle-All-23-AC-v9-Codes-18028603"
+      ]
     },
     {
       "code": "AC9M3M01",
       "topicUrl": "/year3/maths/ac9m3m01-which-metric-units-are-used-to-measure-everyday-items-use/",
       "individual": "https://www.teacherspayteachers.com/Product/Year-3-Metric-Units-Estimation-Worksheets-AC9M3M01-60-Practice-15-Test-18016244",
-      "bundles": []
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-3-Measurement-Worksheets-Tests-Bundle-AC9M3M01-M06-450-Questions-18028503",
+        "https://www.teacherspayteachers.com/Product/Year-3-Maths-Term-1-Worksheets-Tests-Bundle-Number-Strategies-3D-18028537",
+        "https://www.teacherspayteachers.com/Product/Year-3-Maths-Full-Year-Worksheets-Tests-Bundle-All-23-AC-v9-Codes-18028603"
+      ]
     },
     {
       "code": "AC9M3M02",
       "topicUrl": "/year3/maths/ac9m3m02-measure-and-compare-objects-using-familiar-metric-units-of/",
       "individual": "https://www.teacherspayteachers.com/Product/Year-3-Measurement-Worksheets-AC9M3M02-60-Practice-15-Test-18016287",
-      "bundles": []
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-3-Measurement-Worksheets-Tests-Bundle-AC9M3M01-M06-450-Questions-18028503",
+        "https://www.teacherspayteachers.com/Product/Year-3-Maths-Term-2-Worksheets-Tests-Bundle-Fractions-Facts-Measurement-18028549",
+        "https://www.teacherspayteachers.com/Product/Year-3-Maths-Full-Year-Worksheets-Tests-Bundle-All-23-AC-v9-Codes-18028603"
+      ]
     },
     {
       "code": "AC9M3SP01",
       "topicUrl": "/year3/maths/ac9m3sp01-make-compare-and-classify-objects-identifying-key-features-and/",
       "individual": "https://www.teacherspayteachers.com/Product/Year-3-3D-Objects-Worksheets-AC9M3SP01-60-Practice-15-Test-18017031",
-      "bundles": []
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-3-Space-Worksheets-Tests-Bundle-3D-Objects-Maps-Plans-18028516",
+        "https://www.teacherspayteachers.com/Product/Year-3-Maths-Term-1-Worksheets-Tests-Bundle-Number-Strategies-3D-18028537",
+        "https://www.teacherspayteachers.com/Product/Year-3-Maths-Full-Year-Worksheets-Tests-Bundle-All-23-AC-v9-Codes-18028603"
+      ]
     },
     {
       "code": "AC9M3SP02",
       "topicUrl": "/year3/maths/ac9m3sp02-interpret-and-create-two-dimensional-representations-of/",
       "individual": "https://www.teacherspayteachers.com/Product/Year-3-Maps-Plans-Worksheets-AC9M3SP02-60-Practice-15-Test-18024378",
-      "bundles": []
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-3-Space-Worksheets-Tests-Bundle-3D-Objects-Maps-Plans-18028516",
+        "https://www.teacherspayteachers.com/Product/Year-3-Maths-Term-2-Worksheets-Tests-Bundle-Fractions-Facts-Measurement-18028549",
+        "https://www.teacherspayteachers.com/Product/Year-3-Maths-Full-Year-Worksheets-Tests-Bundle-All-23-AC-v9-Codes-18028603"
+      ]
     },
     {
       "code": "AC9M3ST01",
       "topicUrl": "/year3/maths/ac9m3st01-acquire-data-for-categorical-and-discrete-numerical-variables/",
       "individual": "https://www.teacherspayteachers.com/Product/Year-3-Data-Collection-Worksheets-AC9M3ST01-60-Practice-15-Test-18024689",
-      "bundles": []
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-3-Statistics-Worksheets-Tests-Bundle-AC9M3ST01-ST03-18028523",
+        "https://www.teacherspayteachers.com/Product/Year-3-Maths-Term-4-Worksheets-Tests-Bundle-Data-Chance-Patterns-18028589",
+        "https://www.teacherspayteachers.com/Product/Year-3-Maths-Full-Year-Worksheets-Tests-Bundle-All-23-AC-v9-Codes-18028603"
+      ]
     },
     {
       "code": "AC9M3ST02",
       "topicUrl": "/year3/maths/ac9m3st02-and-compare-different-graphical-representations-of-data-sets/",
       "individual": "https://www.teacherspayteachers.com/Product/Year-3-Picture-Bar-Graphs-Worksheets-AC9M3ST02-60-Practice-15-Test-18026386",
-      "bundles": []
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-3-Statistics-Worksheets-Tests-Bundle-AC9M3ST01-ST03-18028523",
+        "https://www.teacherspayteachers.com/Product/Year-3-Maths-Term-4-Worksheets-Tests-Bundle-Data-Chance-Patterns-18028589",
+        "https://www.teacherspayteachers.com/Product/Year-3-Maths-Full-Year-Worksheets-Tests-Bundle-All-23-AC-v9-Codes-18028603"
+      ]
     },
     {
       "code": "AC9M3M05",
       "topicUrl": "/year3/maths/ac9m3m05-angles-as-measures-of-turn-and-compare-angles-with-right/",
       "individual": "https://www.teacherspayteachers.com/Product/Year-3-Angles-Turns-Worksheets-AC9M3M05-60-Practice-15-Test-18026511",
-      "bundles": []
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-3-Measurement-Worksheets-Tests-Bundle-AC9M3M01-M06-450-Questions-18028503",
+        "https://www.teacherspayteachers.com/Product/Year-3-Maths-Term-2-Worksheets-Tests-Bundle-Fractions-Facts-Measurement-18028549",
+        "https://www.teacherspayteachers.com/Product/Year-3-Maths-Full-Year-Worksheets-Tests-Bundle-All-23-AC-v9-Codes-18028603"
+      ]
     },
     {
       "code": "AC9M3M06",
       "topicUrl": "/year3/maths/ac9m3m06-the-relationships-between-dollars-and-cents-and-represent-money/",
       "individual": "https://www.teacherspayteachers.com/Product/Year-3-Australian-Money-Worksheets-AC9M3M06-60-Practice-15-Test-18026670",
-      "bundles": []
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-3-Measurement-Worksheets-Tests-Bundle-AC9M3M01-M06-450-Questions-18028503",
+        "https://www.teacherspayteachers.com/Product/Year-3-Maths-Term-3-Worksheets-Tests-Bundle-Estimation-Time-Money-18028572",
+        "https://www.teacherspayteachers.com/Product/Year-3-Maths-Full-Year-Worksheets-Tests-Bundle-All-23-AC-v9-Codes-18028603"
+      ]
     },
     {
       "code": "AC9M3ST03",
       "topicUrl": "/year3/maths/ac9m3st03-conduct-guided-statistical-investigations-involving-the/",
       "individual": "https://www.teacherspayteachers.com/Product/Year-3-Statistical-Investigations-Worksheets-AC9M3ST03-60-Practice-15-Test-18027141",
-      "bundles": []
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-3-Statistics-Worksheets-Tests-Bundle-AC9M3ST01-ST03-18028523",
+        "https://www.teacherspayteachers.com/Product/Year-3-Maths-Term-4-Worksheets-Tests-Bundle-Data-Chance-Patterns-18028589",
+        "https://www.teacherspayteachers.com/Product/Year-3-Maths-Full-Year-Worksheets-Tests-Bundle-All-23-AC-v9-Codes-18028603"
+      ]
     },
     {
       "code": "AC9M3P01",
       "topicUrl": "/year3/maths/ac9m3p01-practical-activities-and-everyday-events-involving-chance/",
       "individual": "https://www.teacherspayteachers.com/Product/Year-3-Chance-Probability-Worksheets-AC9M3P01-60-Practice-15-Test-18027637",
-      "bundles": []
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-3-Probability-Worksheets-Tests-Bundle-AC9M3P01-P02-18028530",
+        "https://www.teacherspayteachers.com/Product/Year-3-Maths-Term-4-Worksheets-Tests-Bundle-Data-Chance-Patterns-18028589",
+        "https://www.teacherspayteachers.com/Product/Year-3-Maths-Full-Year-Worksheets-Tests-Bundle-All-23-AC-v9-Codes-18028603"
+      ]
     },
     {
       "code": "AC9M3P02",
       "topicUrl": "/year3/maths/ac9m3p02-conduct-repeated-chance-experiments-identify-and-describe/",
       "individual": "https://www.teacherspayteachers.com/Product/Year-3-Probability-Worksheets-AC9M3P02-Chance-Experiments-60-Practice-15-T-18027830",
-      "bundles": []
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-3-Probability-Worksheets-Tests-Bundle-AC9M3P01-P02-18028530",
+        "https://www.teacherspayteachers.com/Product/Year-3-Maths-Term-4-Worksheets-Tests-Bundle-Data-Chance-Patterns-18028589",
+        "https://www.teacherspayteachers.com/Product/Year-3-Maths-Full-Year-Worksheets-Tests-Bundle-All-23-AC-v9-Codes-18028603"
+      ]
     },
     {
       "code": "AC9MFN02",
@@ -681,6 +754,46 @@
       "bundles": [
         "https://www.teacherspayteachers.com/Product/Foundation-Maths-Yearly-Workbook-All-12-AC9-Codes-136-Pages-18028311"
       ]
+    },
+    {
+      "code": "AC9M3N03",
+      "topicUrl": "/year3/maths/ac9m3n03-add-and-subtract-two-and-three-digit-numbers-using-place-value/",
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-3-Number-Worksheets-Tests-Bundle-AC9M3N01-N07-537-Questions-18005922",
+        "https://www.teacherspayteachers.com/Product/Year-3-Maths-Term-1-Worksheets-Tests-Bundle-Number-Strategies-3D-18028537",
+        "https://www.teacherspayteachers.com/Product/Year-3-Maths-Full-Year-Worksheets-Tests-Bundle-All-23-AC-v9-Codes-18028603"
+      ],
+      "individual": "https://www.teacherspayteachers.com/Product/Year-3-Addition-Subtraction-Worksheets-AC9M3N03-60-Practice-15-Test-17993507"
+    },
+    {
+      "code": "AC9M3N05",
+      "topicUrl": "/year3/maths/ac9m3n05-estimate-the-quantity-of-objects-in-collections-and-make/",
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-3-Number-Worksheets-Tests-Bundle-AC9M3N01-N07-537-Questions-18005922",
+        "https://www.teacherspayteachers.com/Product/Year-3-Maths-Term-3-Worksheets-Tests-Bundle-Estimation-Time-Money-18028572",
+        "https://www.teacherspayteachers.com/Product/Year-3-Maths-Full-Year-Worksheets-Tests-Bundle-All-23-AC-v9-Codes-18028603"
+      ],
+      "individual": "https://www.teacherspayteachers.com/Product/Year-3-Estimation-Reasonableness-Worksheets-AC9M3N05-18003412"
+    },
+    {
+      "code": "AC9M3N06",
+      "topicUrl": "/year3/maths/ac9m3n06-mathematical-modelling-to-solve-practical-problems-involving/",
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-3-Number-Worksheets-Tests-Bundle-AC9M3N01-N07-537-Questions-18005922",
+        "https://www.teacherspayteachers.com/Product/Year-3-Maths-Term-3-Worksheets-Tests-Bundle-Estimation-Time-Money-18028572",
+        "https://www.teacherspayteachers.com/Product/Year-3-Maths-Full-Year-Worksheets-Tests-Bundle-All-23-AC-v9-Codes-18028603"
+      ],
+      "individual": "https://www.teacherspayteachers.com/Product/Year-3-Maths-Word-Problems-AC9M3N06-60-Practice-15-Test-18004077"
+    },
+    {
+      "code": "AC9M3N07",
+      "topicUrl": "/year3/maths/ac9m3n07-follow-and-create-algorithms-involving-a-sequence-of-steps-and/",
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Year-3-Number-Worksheets-Tests-Bundle-AC9M3N01-N07-537-Questions-18005922",
+        "https://www.teacherspayteachers.com/Product/Year-3-Maths-Term-4-Worksheets-Tests-Bundle-Data-Chance-Patterns-18028589",
+        "https://www.teacherspayteachers.com/Product/Year-3-Maths-Full-Year-Worksheets-Tests-Bundle-All-23-AC-v9-Codes-18028603"
+      ],
+      "individual": "https://www.teacherspayteachers.com/Product/Year-3-Maths-Algorithms-Patterns-Worksheets-AC9M3N07-72-Practice-15-Test-18004349"
     }
   ]
 }

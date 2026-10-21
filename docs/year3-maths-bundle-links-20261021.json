@@ -1,0 +1,325 @@
+{
+  "date": "2026-10-21",
+  "scope": "Owner requested all Year 3 Maths strand, term and full-year worksheet bundles and links on SkillrHub.",
+  "publicationBase": "b14e319e554ae94f13f0a28bfb8d1a2ecfd3b096",
+  "bundles": [
+    {
+      "key": "number",
+      "title": "Year 3 Number Worksheets & Tests Bundle | AC9M3N01-N07 | 537 Questions",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Number-Worksheets-Tests-Bundle-AC9M3N01-N07-537-Questions-18005922",
+      "codes": [
+        "AC9M3N01",
+        "AC9M3N02",
+        "AC9M3N03",
+        "AC9M3N04",
+        "AC9M3N05",
+        "AC9M3N06",
+        "AC9M3N07"
+      ],
+      "listPrice": 52.5,
+      "price": 47.25,
+      "practice": 432,
+      "test": 105,
+      "intro": "Seven Number packs covering place value, fractions, operations, estimation, word problems and algorithms.",
+      "id": "18005922",
+      "count": 7,
+      "label": "Number"
+    },
+    {
+      "key": "algebra",
+      "title": "Year 3 Algebra Worksheets & Tests Bundle | AC9M3A01-A03 | 225 Questions",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Algebra-Worksheets-Tests-Bundle-AC9M3A01-A03-225-Questions-18028481",
+      "codes": [
+        "AC9M3A01",
+        "AC9M3A02",
+        "AC9M3A03"
+      ],
+      "listPrice": 22.5,
+      "price": 20.25,
+      "standards": [
+        "3.NBT.A.2",
+        "3.OA.B.5",
+        "3.OA.B.6",
+        "3.OA.C.7"
+      ],
+      "practice": 180,
+      "test": 45,
+      "id": "18028481",
+      "count": 3,
+      "label": "Algebra",
+      "intro": "Three Algebra packs covering inverse operations, mental addition and subtraction, and multiplication and division facts."
+    },
+    {
+      "key": "measurement",
+      "title": "Year 3 Measurement Worksheets & Tests Bundle | AC9M3M01-M06 | 450 Questions",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Measurement-Worksheets-Tests-Bundle-AC9M3M01-M06-450-Questions-18028503",
+      "codes": [
+        "AC9M3M01",
+        "AC9M3M02",
+        "AC9M3M03",
+        "AC9M3M04",
+        "AC9M3M05",
+        "AC9M3M06"
+      ],
+      "listPrice": 45,
+      "price": 40.5,
+      "standards": [
+        "3.MD.A.1",
+        "3.MD.A.2"
+      ],
+      "practice": 360,
+      "test": 90,
+      "intro": "Teach metric measurement, time, angles and Australian money with six connected Year 3 Measurement packs.",
+      "id": "18028503",
+      "count": 6,
+      "label": "Measurement"
+    },
+    {
+      "key": "space",
+      "title": "Year 3 Space Worksheets & Tests Bundle | 3D Objects, Maps & Plans",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Space-Worksheets-Tests-Bundle-3D-Objects-Maps-Plans-18028516",
+      "codes": [
+        "AC9M3SP01",
+        "AC9M3SP02"
+      ],
+      "listPrice": 15,
+      "price": 13.5,
+      "standards": [
+        "2.G.A.1",
+        "MP.4",
+        "MP.6"
+      ],
+      "practice": 120,
+      "test": 30,
+      "intro": "Explore three-dimensional objects and represent familiar environments with two Year 3 Space packs.",
+      "id": "18028516",
+      "count": 2,
+      "label": "Space"
+    },
+    {
+      "key": "statistics",
+      "title": "Year 3 Statistics Worksheets & Tests Bundle | AC9M3ST01-ST03",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Statistics-Worksheets-Tests-Bundle-AC9M3ST01-ST03-18028523",
+      "codes": [
+        "AC9M3ST01",
+        "AC9M3ST02",
+        "AC9M3ST03"
+      ],
+      "listPrice": 15,
+      "price": 13.5,
+      "standards": [
+        "3.MD.B.3",
+        "MP.4",
+        "MP.6"
+      ],
+      "practice": 180,
+      "test": 45,
+      "intro": "Collect data, compare graphs and conduct guided statistical investigations with three Year 3 Statistics packs.",
+      "id": "18028523",
+      "count": 3,
+      "label": "Statistics"
+    },
+    {
+      "key": "probability",
+      "title": "Year 3 Probability Worksheets & Tests Bundle | AC9M3P01-P02",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Probability-Worksheets-Tests-Bundle-AC9M3P01-P02-18028530",
+      "codes": [
+        "AC9M3P01",
+        "AC9M3P02"
+      ],
+      "listPrice": 14.5,
+      "price": 13.05,
+      "standards": [
+        "MP.1",
+        "MP.4",
+        "MP.5"
+      ],
+      "practice": 120,
+      "test": 30,
+      "intro": "Investigate chance language, possible outcomes and repeated experiments with two Year 3 Probability packs.",
+      "id": "18028530",
+      "count": 2,
+      "label": "Probability"
+    },
+    {
+      "key": "term-1",
+      "title": "Year 3 Maths Term 1 Worksheets & Tests Bundle | Number, Strategies & 3D",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Maths-Term-1-Worksheets-Tests-Bundle-Number-Strategies-3D-18028537",
+      "codes": [
+        "AC9M3N01",
+        "AC9M3N03",
+        "AC9M3A01",
+        "AC9M3A02",
+        "AC9M3M01",
+        "AC9M3SP01"
+      ],
+      "listPrice": 45.5,
+      "price": 40.95,
+      "standards": [
+        "3.NBT.A.2",
+        "2.G.A.1",
+        "MP.6"
+      ],
+      "practice": 360,
+      "test": 90,
+      "intro": "A suggested Term 1 focus on large numbers, addition and subtraction, inverse relationships, mental strategies, metric units and 3D objects.",
+      "id": "18028537",
+      "count": 6,
+      "label": "Term 1"
+    },
+    {
+      "key": "term-2",
+      "title": "Year 3 Maths Term 2 Worksheets & Tests Bundle | Fractions, Facts & Measurement",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Maths-Term-2-Worksheets-Tests-Bundle-Fractions-Facts-Measurement-18028549",
+      "codes": [
+        "AC9M3N02",
+        "AC9M3N04",
+        "AC9M3A03",
+        "AC9M3M02",
+        "AC9M3M05",
+        "AC9M3SP02"
+      ],
+      "listPrice": 45,
+      "price": 40.5,
+      "standards": [
+        "3.NF.A.1",
+        "3.NF.A.2",
+        "3.OA.A.1",
+        "3.OA.A.2",
+        "3.OA.B.6",
+        "3.OA.C.7",
+        "3.MD.A.2"
+      ],
+      "practice": 360,
+      "test": 90,
+      "intro": "A suggested Term 2 focus on fractions, multiplication and division, metric measurement, angles and maps.",
+      "id": "18028549",
+      "count": 6,
+      "label": "Term 2"
+    },
+    {
+      "key": "term-3",
+      "title": "Year 3 Maths Term 3 Worksheets & Tests Bundle | Estimation, Time & Money",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Maths-Term-3-Worksheets-Tests-Bundle-Estimation-Time-Money-18028572",
+      "codes": [
+        "AC9M3N05",
+        "AC9M3N06",
+        "AC9M3M03",
+        "AC9M3M04",
+        "AC9M3M06"
+      ],
+      "listPrice": 37,
+      "price": 33.3,
+      "standards": [
+        "3.OA.D.8",
+        "3.MD.A.1",
+        "MP.4"
+      ],
+      "practice": 300,
+      "test": 75,
+      "intro": "A suggested Term 3 focus on estimation, word problems, units of time, analogue and digital clocks, and Australian money.",
+      "id": "18028572",
+      "count": 5,
+      "label": "Term 3"
+    },
+    {
+      "key": "term-4",
+      "title": "Year 3 Maths Term 4 Worksheets & Tests Bundle | Data, Chance & Patterns",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Maths-Term-4-Worksheets-Tests-Bundle-Data-Chance-Patterns-18028589",
+      "codes": [
+        "AC9M3N07",
+        "AC9M3ST01",
+        "AC9M3ST02",
+        "AC9M3ST03",
+        "AC9M3P01",
+        "AC9M3P02"
+      ],
+      "listPrice": 37,
+      "price": 33.3,
+      "standards": [
+        "3.OA.D.9",
+        "3.MD.B.3",
+        "MP.1",
+        "MP.4",
+        "MP.5"
+      ],
+      "practice": 372,
+      "test": 90,
+      "intro": "A suggested Term 4 focus on algorithms, number patterns, collecting and representing data, investigations and chance experiments.",
+      "id": "18028589",
+      "count": 6,
+      "label": "Term 4"
+    },
+    {
+      "key": "full-year",
+      "title": "Year 3 Maths Full Year Worksheets & Tests Bundle | All 23 AC v9 Codes",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Maths-Full-Year-Worksheets-Tests-Bundle-All-23-AC-v9-Codes-18028603",
+      "codes": [
+        "AC9M3N01",
+        "AC9M3N02",
+        "AC9M3N03",
+        "AC9M3N04",
+        "AC9M3N05",
+        "AC9M3N06",
+        "AC9M3N07",
+        "AC9M3A01",
+        "AC9M3A02",
+        "AC9M3A03",
+        "AC9M3M01",
+        "AC9M3M02",
+        "AC9M3M03",
+        "AC9M3M04",
+        "AC9M3M05",
+        "AC9M3M06",
+        "AC9M3SP01",
+        "AC9M3SP02",
+        "AC9M3ST01",
+        "AC9M3ST02",
+        "AC9M3ST03",
+        "AC9M3P01",
+        "AC9M3P02"
+      ],
+      "listPrice": 164.5,
+      "price": 148.05,
+      "standards": [
+        "3.NBT.A.2",
+        "3.NF.A.1",
+        "3.NF.A.2",
+        "3.OA.A.1",
+        "3.OA.A.2",
+        "3.OA.A.3",
+        "3.OA.B.6",
+        "3.OA.C.7",
+        "3.OA.D.8",
+        "3.OA.D.9",
+        "3.MD.A.1",
+        "3.MD.A.2",
+        "3.MD.B.3"
+      ],
+      "practice": 1392,
+      "test": 345,
+      "intro": "Bring together all 23 Australian Curriculum v9 Year 3 Maths code packs across Number, Algebra, Measurement, Space, Statistics and Probability.",
+      "id": "18028603",
+      "count": 23,
+      "label": "Full-year Maths"
+    }
+  ],
+  "reference": "year1/maths/ac9m1n01-numbers-to-120/index.html",
+  "retainedSections": [
+    "video-first introduction",
+    "hero and one matching worksheet pack card",
+    "six teaching focus accordions and examples",
+    "common mistakes",
+    "mastery check and answers",
+    "Teaching Slides, free practice sheet, digital practice and Test navigation",
+    "existing optional teaching-slide card",
+    "next topic navigation and footer"
+  ],
+  "comparison": "Seven Number topic pages preserve the existing approved layout. Only the requested related bundle paragraph is added and the current N04 worksheet card is corrected. No curriculum teaching content or free resource routes changed.",
+  "qa": {
+    "sourceMapping": "passed: all 11 bundle IDs and published URLs, 23 code mappings, exact 10% prices and disjoint term coverage verified",
+    "topicParity": "passed: seven Number pages retain exact teaching content, native details, navigation and metadata outside the new related bundle paragraph and corrected N04 pack card",
+    "releaseIntegrity": "verified separately against the exact latest main tree before publication",
+    "liveDeployment": "verify after publication"
+  }
+}
