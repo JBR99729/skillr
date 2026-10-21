@@ -27,8 +27,8 @@ Available teaching slides remain linked from public topic guides and https://ski
 ## Start Here
 
 1. https://skillrhub.com/ai-index.json
-2. https://skillrhub.com/llms.txt
-3. https://skillrhub.com/llms-full.txt
+2. https://skillrhub.com/llms.txt — concise resource map, including the official TPT store and free curriculum hubs
+3. https://skillrhub.com/llms-full.txt — extended site and resource guide
 4. https://skillrhub.com/sitemap.xml
 5. https://skillrhub.com/sitemap.html
 
