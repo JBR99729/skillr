@@ -5,7 +5,9 @@
       "code": "AC9MFN01",
       "topicUrl": "/foundation/maths/ac9mfn01-name-represent-and-order-numbers-including-zero-to-at-least/",
       "individual": "https://www.teacherspayteachers.com/Product/Foundation-Numbers-to-20-Worksheets-AC9MFN01-Australian-Curriculum-v9-17839947",
-      "bundles": []
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Foundation-Maths-Yearly-Workbook-All-12-AC9-Codes-136-Pages-18028311"
+      ]
     },
     {
       "code": "AC9M1N01",
@@ -459,13 +461,13 @@
     {
       "code": "AC9M3A03",
       "topicUrl": "/year3/maths/ac9m3a03-recall-and-demonstrate-proficiency-with-multiplication-facts/",
-      "individual": "https://www.teacherspayteachers.com/Product/Year-3-Multiplication-Division-Workbook-144-Questions-Australian-v9-17594291",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-3-Multiplication-Division-Worksheets-AC9M3A03-60-Practice-15-Test-18016203",
       "bundles": []
     },
     {
       "code": "AC9M3M03",
       "topicUrl": "/year3/maths/ac9m3m03-and-use-the-relationship-between-formal-units-of-time-including/",
-      "individual": "https://www.teacherspayteachers.com/Product/Year-3-Time-Worksheets-Duration-Analogue-Clocks-AC9M3M03AC9M3M04-17592266",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-3-Time-Duration-Worksheets-AC9M3M03-60-Practice-15-Test-18016405",
       "bundles": [
         "https://www.teacherspayteachers.com/Product/Year-3-Time-Bundle-Telling-Time-Duration-Slides-Worksheets-Australian-v9-17593227"
       ]
@@ -473,7 +475,7 @@
     {
       "code": "AC9M3M04",
       "topicUrl": "/year3/maths/ac9m3m04-the-relationship-between-the-hours-and-minutes-on-analog-and/",
-      "individual": "https://www.teacherspayteachers.com/Product/Year-3-Time-Worksheets-Duration-Analogue-Clocks-AC9M3M03AC9M3M04-17592266",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-3-Telling-Time-Worksheets-AC9M3M04-60-Practice-15-Test-18016704",
       "bundles": [
         "https://www.teacherspayteachers.com/Product/Year-3-Time-Bundle-Telling-Time-Duration-Slides-Worksheets-Australian-v9-17593227"
       ]
@@ -513,6 +515,172 @@
       "topicUrl": "/year3/maths/ac9m3n01-recognise-represent-and-order-natural-numbers-using-naming-and/",
       "bundles": [],
       "individual": "https://www.teacherspayteachers.com/Product/Year-3-Place-Value-AC9M3N01-Large-Numbers-60-Practice-15-Test-17992853"
+    },
+    {
+      "code": "AC9M3A01",
+      "topicUrl": "/year3/maths/ac9m3a01-and-explain-the-connection-between-addition-and-subtraction-as/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-3-Inverse-Operations-Worksheets-AC9M3A01-60-Practice-15-Test-18015139",
+      "bundles": []
+    },
+    {
+      "code": "AC9M3A02",
+      "topicUrl": "/year3/maths/ac9m3a02-extend-and-apply-knowledge-of-addition-and-subtraction-facts-to/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-3-Mental-Addition-Subtraction-Worksheets-AC9M3A02-18015286",
+      "bundles": []
+    },
+    {
+      "code": "AC9M3M01",
+      "topicUrl": "/year3/maths/ac9m3m01-which-metric-units-are-used-to-measure-everyday-items-use/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-3-Metric-Units-Estimation-Worksheets-AC9M3M01-60-Practice-15-Test-18016244",
+      "bundles": []
+    },
+    {
+      "code": "AC9M3M02",
+      "topicUrl": "/year3/maths/ac9m3m02-measure-and-compare-objects-using-familiar-metric-units-of/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-3-Measurement-Worksheets-AC9M3M02-60-Practice-15-Test-18016287",
+      "bundles": []
+    },
+    {
+      "code": "AC9M3SP01",
+      "topicUrl": "/year3/maths/ac9m3sp01-make-compare-and-classify-objects-identifying-key-features-and/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-3-3D-Objects-Worksheets-AC9M3SP01-60-Practice-15-Test-18017031",
+      "bundles": []
+    },
+    {
+      "code": "AC9M3SP02",
+      "topicUrl": "/year3/maths/ac9m3sp02-interpret-and-create-two-dimensional-representations-of/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-3-Maps-Plans-Worksheets-AC9M3SP02-60-Practice-15-Test-18024378",
+      "bundles": []
+    },
+    {
+      "code": "AC9M3ST01",
+      "topicUrl": "/year3/maths/ac9m3st01-acquire-data-for-categorical-and-discrete-numerical-variables/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-3-Data-Collection-Worksheets-AC9M3ST01-60-Practice-15-Test-18024689",
+      "bundles": []
+    },
+    {
+      "code": "AC9M3ST02",
+      "topicUrl": "/year3/maths/ac9m3st02-and-compare-different-graphical-representations-of-data-sets/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-3-Picture-Bar-Graphs-Worksheets-AC9M3ST02-60-Practice-15-Test-18026386",
+      "bundles": []
+    },
+    {
+      "code": "AC9M3M05",
+      "topicUrl": "/year3/maths/ac9m3m05-angles-as-measures-of-turn-and-compare-angles-with-right/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-3-Angles-Turns-Worksheets-AC9M3M05-60-Practice-15-Test-18026511",
+      "bundles": []
+    },
+    {
+      "code": "AC9M3M06",
+      "topicUrl": "/year3/maths/ac9m3m06-the-relationships-between-dollars-and-cents-and-represent-money/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-3-Australian-Money-Worksheets-AC9M3M06-60-Practice-15-Test-18026670",
+      "bundles": []
+    },
+    {
+      "code": "AC9M3ST03",
+      "topicUrl": "/year3/maths/ac9m3st03-conduct-guided-statistical-investigations-involving-the/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-3-Statistical-Investigations-Worksheets-AC9M3ST03-60-Practice-15-Test-18027141",
+      "bundles": []
+    },
+    {
+      "code": "AC9M3P01",
+      "topicUrl": "/year3/maths/ac9m3p01-practical-activities-and-everyday-events-involving-chance/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-3-Chance-Probability-Worksheets-AC9M3P01-60-Practice-15-Test-18027637",
+      "bundles": []
+    },
+    {
+      "code": "AC9M3P02",
+      "topicUrl": "/year3/maths/ac9m3p02-conduct-repeated-chance-experiments-identify-and-describe/",
+      "individual": "https://www.teacherspayteachers.com/Product/Year-3-Probability-Worksheets-AC9M3P02-Chance-Experiments-60-Practice-15-T-18027830",
+      "bundles": []
+    },
+    {
+      "code": "AC9MFN02",
+      "topicUrl": "/foundation/maths/ac9mfn02-and-name-the-number-of-objects-within-a-collection-up/",
+      "individual": null,
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Foundation-Maths-Yearly-Workbook-All-12-AC9-Codes-136-Pages-18028311"
+      ]
+    },
+    {
+      "code": "AC9MFN03",
+      "topicUrl": "/foundation/maths/ac9mfn03-and-compare-collections-to-at-least-20-using-counting-and/",
+      "individual": null,
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Foundation-Maths-Yearly-Workbook-All-12-AC9-Codes-136-Pages-18028311"
+      ]
+    },
+    {
+      "code": "AC9MFN04",
+      "topicUrl": "/foundation/maths/ac9mfn04-partition-and-combine-collections-up-to-10-using-part-part/",
+      "individual": null,
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Foundation-Maths-Yearly-Workbook-All-12-AC9-Codes-136-Pages-18028311"
+      ]
+    },
+    {
+      "code": "AC9MFN05",
+      "topicUrl": "/foundation/maths/ac9mfn05-represent-practical-situations-involving-addition-subtraction/",
+      "individual": null,
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Foundation-Maths-Yearly-Workbook-All-12-AC9-Codes-136-Pages-18028311"
+      ]
+    },
+    {
+      "code": "AC9MFN06",
+      "topicUrl": "/foundation/maths/ac9mfn06-represent-practical-situations-that-involve-equal-sharing-and/",
+      "individual": null,
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Foundation-Maths-Yearly-Workbook-All-12-AC9-Codes-136-Pages-18028311"
+      ]
+    },
+    {
+      "code": "AC9MFA01",
+      "topicUrl": "/foundation/maths/ac9mfa01-recognise-copy-and-continue-repeating-patterns-represented-in/",
+      "individual": null,
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Foundation-Maths-Yearly-Workbook-All-12-AC9-Codes-136-Pages-18028311"
+      ]
+    },
+    {
+      "code": "AC9MFM01",
+      "topicUrl": "/foundation/maths/ac9mfm01-and-compare-attributes-of-objects-and-events-including-length/",
+      "individual": null,
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Foundation-Maths-Yearly-Workbook-All-12-AC9-Codes-136-Pages-18028311"
+      ]
+    },
+    {
+      "code": "AC9MFM02",
+      "topicUrl": "/foundation/maths/ac9mfm02-sequence-days-of-the-week-and-times-of-the-day/",
+      "individual": null,
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Foundation-Maths-Yearly-Workbook-All-12-AC9-Codes-136-Pages-18028311"
+      ]
+    },
+    {
+      "code": "AC9MFSP01",
+      "topicUrl": "/foundation/maths/ac9mfsp01-sort-name-and-create-familiar-shapes-recognise-and-describe/",
+      "individual": null,
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Foundation-Maths-Yearly-Workbook-All-12-AC9-Codes-136-Pages-18028311"
+      ]
+    },
+    {
+      "code": "AC9MFSP02",
+      "topicUrl": "/foundation/maths/ac9mfsp02-the-position-and-location-of-themselves-and-objects-in-relation/",
+      "individual": null,
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Foundation-Maths-Yearly-Workbook-All-12-AC9-Codes-136-Pages-18028311"
+      ]
+    },
+    {
+      "code": "AC9MFST01",
+      "topicUrl": "/foundation/maths/ac9mfst01-collect-sort-and-compare-data-represented-by-objects-and-images/",
+      "individual": null,
+      "bundles": [
+        "https://www.teacherspayteachers.com/Product/Foundation-Maths-Yearly-Workbook-All-12-AC9-Codes-136-Pages-18028311"
+      ]
     }
   ]
 }
