@@ -182,8 +182,9 @@
       },
       {
         "path": "year4/curriculum/maths/index.html",
-        "sha256": "4c4641ef6459af4abbfab4065b5a2fc081cb4f092487d116611f9d5c693b20a6"
+        "sha256": "b9db8020411e084b2e002cdf99d80c1fd69ce1efa0e0baec0d442ff08769361b"
       }
-    ]
+    ],
+    "compatibility_recheck": "PASS: exact final Maths hub has 23 Topic guide link labels with unique unchanged same-code Year4 hrefs and all23 curriculum codes. This label-only adjustment introduces no lesson-content or semantic regression."
   }
 }
