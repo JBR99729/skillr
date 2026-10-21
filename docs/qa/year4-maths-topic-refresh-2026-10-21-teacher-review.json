@@ -78,90 +78,112 @@
   "artifacts": [
     {
       "path": "year4/maths/ac9m4a01-find-unknown-values-in-numerical-equations-involving-addition/index.html",
-      "sha256": "e25621830a02d1d15533a762d34e7b9f0ad64ad59ee2896ee41ce330af1b7da2",
+      "sha256": "543965662bbd6751b958eb513e747ea4f57183bad56b8b76be4333913ffbf6d9",
       "new_checks_reviewed": 6,
       "status": "PASS source teacher review"
     },
     {
       "path": "year4/maths/ac9m4a02-recall-and-demonstrate-proficiency-with-multiplication-facts-up/index.html",
-      "sha256": "4f25b4175f416f80af31d061240509bbffb20022260186700fd3e82386d3b99b",
+      "sha256": "e75e856ae66023ce20b3822dc23873c596aa7a61098d8a1e01ab787a82c0b828",
       "new_checks_reviewed": 6,
       "status": "PASS source teacher review"
     },
     {
       "path": "year4/maths/ac9m4m01-interpret-unmarked-and-partial-units-when-measuring-and/index.html",
-      "sha256": "c61e3e44ae8580fb9b524260fbc5f2f393562599a063bc62f2e9eaab7b50d161",
+      "sha256": "9be1722b672f13f8c9f75a667b9b0b09b8855e499d0baf4c93b31d271f7912aa",
       "new_checks_reviewed": 6,
       "status": "PASS source teacher review"
     },
     {
       "path": "year4/maths/ac9m4m02-ways-of-measuring-and-approximating-the-perimeter-and-area-of/index.html",
-      "sha256": "2fc1b48d4f8732b72f5024a060b0d39d18edcab3f32bf8175ebb885773b4a2dd",
+      "sha256": "6fc1f2a0b63afd4077c9f89e8a5d7701d14e01ca9960588468fbbe02c9651a91",
       "new_checks_reviewed": 6,
       "status": "PASS source teacher review"
     },
     {
       "path": "year4/maths/ac9m4m03-solve-problems-involving-the-duration-of-time-including/index.html",
-      "sha256": "6c6bd0efad3d1b12f143841fb582468f10f7a1fbc63b088ba78bd229c20aa7a3",
+      "sha256": "f934c498d63eee8471ee83df013e2dced4d9c199a456d7f2ef291b70b52794eb",
       "new_checks_reviewed": 6,
       "status": "PASS source teacher review"
     },
     {
       "path": "year4/maths/ac9m4n01-and-extend-the-application-of-place-value-to-tenths-and/index.html",
-      "sha256": "570c85bcb0af1f9c8a90d2c997eefc43f20abd176ebec93ef3b6d97f682d3774",
+      "sha256": "dde2b59ffbc68d1b6dff10722a7a065ada112a64078bbcae5a8c43301149e6db",
       "new_checks_reviewed": 6,
       "status": "PASS source teacher review"
     },
     {
       "path": "year4/maths/ac9m4n02-explain-and-use-the-properties-of-odd-and-even-numbers/index.html",
-      "sha256": "74c540bf5433c9057b8e5cd001478ec53fb51361312ae6c37319f3ce02099f94",
+      "sha256": "ba6293ac1c7afbfcd35b4fb87477de997de8d3a14e6c643589ad70998183d1cb",
       "new_checks_reviewed": 6,
       "status": "PASS source teacher review"
     },
     {
       "path": "year4/maths/ac9m4n03-find-equivalent-representations-of-fractions-using-related/index.html",
-      "sha256": "172f778dfb2d29fe001a31ba90611943c703825914b850f997169dc2ae6c2dda",
+      "sha256": "952ea5fc1768b0d40126269c83f28c962308104b60e9a9cd7fe8ca6f963b25bf",
       "new_checks_reviewed": 6,
       "status": "PASS source teacher review"
     },
     {
       "path": "year4/maths/ac9m4n04-count-by-fractions-including-mixed-numerals-locate-and/index.html",
-      "sha256": "5f331db7ef49583feb57676723a22c5e5aa9eb41b3c9e65c46eba1d4af8b43ac",
+      "sha256": "6d9aeff473d399e41b5956c670b60d4ee7ff0a71449604dabc06a804064f0561",
       "new_checks_reviewed": 6,
       "status": "PASS source teacher review"
     },
     {
       "path": "year4/maths/ac9m4n05-solve-problems-involving-multiplying-or-dividing-natural/index.html",
-      "sha256": "2fc8ca4ef9fc4701c1640ea42b7bb198c03fe93e20547f8e66047b3674846592",
+      "sha256": "c8eff90f346c0cf18e8cab956583d45b9c6f46d93f8e26147526180a6c5364bb",
       "new_checks_reviewed": 6,
       "status": "PASS source teacher review"
     },
     {
       "path": "year4/maths/ac9m4n06-develop-efficient-strategies-and-use-appropriate-digital-tools/index.html",
-      "sha256": "d84ac849bf7db5eb9f0baf71e984ca0eb108e3ec160f9ba11dd2a360cf0cae29",
+      "sha256": "b24e0f395d291358f3ae3a51650cf9d8e8e49d8866cc17ed4129107d8d52e59f",
       "new_checks_reviewed": 6,
       "status": "PASS source teacher review"
     },
     {
       "path": "year4/maths/ac9m4n07-choose-and-use-estimation-and-rounding-to-check-and-explain/index.html",
-      "sha256": "b2a3f95584eb8f2aa2749b99ad26f03c5d71d6bf1006f0dd3c1e54bc9dd3f14a",
+      "sha256": "6f70febb566c9ad37c06bee919b7463324cfc7a7bbbbf93adf66160ba794b220",
       "new_checks_reviewed": 6,
       "status": "PASS source teacher review"
     },
     {
       "path": "year4/maths/ac9m4n08-mathematical-modelling-to-solve-practical-problems-involving/index.html",
-      "sha256": "3d0ef1bcb53de14d045354ae2ae897b7018c2679d3adf57ff78600825d824e26",
+      "sha256": "f92c510fe5dc27570eea80b1216afb79d55cc852327acd13b08a7d3f93e91bae",
       "new_checks_reviewed": 6,
       "status": "PASS source teacher review"
     },
     {
       "path": "year4/maths/ac9m4n09-follow-and-create-algorithms-involving-a-sequence-of-steps-and/index.html",
-      "sha256": "4da56a8a9cd81894d5dae13eb6689d37ccddc635a43dbaf7777301047150310b",
+      "sha256": "197e2796a91c04bce6adb99d9c89a73318348e6199b5e28dee7b3cb00c3c70a2",
       "new_checks_reviewed": 6,
       "status": "PASS source teacher review"
     }
   ],
   "recheck_required": [],
   "recheck_outcome": "All five findings closed against exact current HTML. Rechecked full M01/M02 elaboration group and context allocation, M01 named mass-model reference, N06/N07 named worked references including N06 support activity, independently stated N09 comparison prompt, removed legacy numbered model headings and removed NGSS reference. No mathematical content changes in fixes; all 84 original new checks remain correct.",
-  "final_regeneration_recheck": "PASS: exact current 14 page hashes refreshed following SEO/head-preserving serialization, Learning goal label addition and equivalent relative Classroom View links. All six focuses and six Try/check pairs per page remain, with prior issue closures preserved. No content regression found."
+  "final_regeneration_recheck": "PASS: exact current 14 page hashes refreshed following SEO/head-preserving serialization, Learning goal label addition and equivalent relative Classroom View links. All six focuses and six Try/check pairs per page remain, with prior issue closures preserved. No content regression found.",
+  "final_hub_and_navigation_review": {
+    "status": "PASS",
+    "scope": "16 exact final pages: 14 topic pages plus Year4 landing and Maths hub",
+    "observations": [
+      "Year4 landing and Maths hub contain no Year1 links, AC9M1 codes or Year1 claims.",
+      "Maths hub preserves all 23 original AC9M4 codes and all linked local topic/Classroom View/worksheet/practice/test paths exist.",
+      "Subject counts verified as 23 Maths, 12 Science and 28 English unique curriculum codes.",
+      "Original 84 Try prompts and answers match approved handoff exactly.",
+      "Each topic has exactly one data-skillr-learning-path marker; N08/N09 E markers are semantic strong wrappers with unchanged text.",
+      "No source semantic regression from simplified topic navigation."
+    ],
+    "hub_artifacts": [
+      {
+        "path": "year4/index.html",
+        "sha256": "9c8199efea844c51b7c3b87656f48b5a8404a328e6ae561a8cee95d6b830d68b"
+      },
+      {
+        "path": "year4/curriculum/maths/index.html",
+        "sha256": "4c4641ef6459af4abbfab4065b5a2fc081cb4f092487d116611f9d5c693b20a6"
+      }
+    ]
+  }
 }

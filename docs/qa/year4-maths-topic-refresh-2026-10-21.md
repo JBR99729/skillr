@@ -29,3 +29,12 @@ Final inventory compared against that retained list: PASS for all fourteen pages
 - Release must use the complete latest remote main tree, change only this batch plus its QA record, preserve CNAME and all existing paths, and reject any unexpected deletion. Research-only and unrelated local commits must not be included.
 
 This review does not claim learner trials, classroom validation, formal accessibility certification, completed N01–N07 current research audits, updated question banks or updated slides.
+
+
+## Owner-requested Year 1 appearance and overview follow-up
+
+The owner explicitly requested Year 1 style and appearance, including the Year 4 topic entry page. Added `year4/index.html` and `year4/curriculum/maths/index.html` using the exact approved Year 1 hub structure and shared stylesheet. The entry page has three subject cards with actual Year 4 counts; the Maths overview preserves all 23 curriculum topics, six strand groups and every same-code Learn/Quiz/Test/Classroom View/Worksheet link. It introduces no new research-completion claims. Lesson navigation is compact. The existing related-topic section declares ownership of its learning-path links to prevent the shared helper from injecting a second, automatically inferred pathway.
+
+The initial Pages build was superseded by the normal sitemap follow-up commit; that successor deployment succeeded. Live M02 confirmed the new static six-focus guide, diagrams and resource path. The first content workflow required strong-marked E labels on N08/N09; these labels are restored without changing the elaboration content. The exact content workflow now passes locally with 107 elaborations, as do the Year 4 static-page and F–10 layout/learning-order checks. The independent reviewer rechecked all sixteen pages and refreshed hashes.
+
+Two existing site-wide drift checks remain separate: optional-video generation reports 676 pages needing its older generated pattern, and breadcrumb schema reports 740 formatting differences. These same known baselines are documented in the earlier Bing-quality repair record; this scoped update does not run their bulk writers or claim those workflows pass. The topic pages deliberately use the owner-approved Year 1 video-first presentation.
