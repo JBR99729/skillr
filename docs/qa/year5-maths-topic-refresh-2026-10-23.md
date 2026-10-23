@@ -29,3 +29,9 @@ Independent teacher review covers the final 96 new worked examples/checks, retai
 Full browser desktop/mobile rendering is not claimed at this checkpoint: local Playwright's browser download returned empty archives, no connected extension was available, and the cloud browser could not reach the local server. This limitation must remain explicit until live browser verification succeeds. Static and SVG checks do not substitute for an unperformed browser check.
 
 Release must preserve the complete latest main tree, reject unexpected deletions, preserve CNAME, and move main non-forcibly only after rechecking its latest head. Deployment and live-page checks are separate from a successful source commit. No learner trial, classroom validation, new Content Verified badge, updated bank or updated teacher-deck claim is made.
+
+## Live browser follow-up
+
+Pages deployment succeeded. Live desktop rendering confirmed the new landing-page layout and working topic entry. A live M04 check found that the shared learning-path helper appended a competing panel with an unrelated Year 6 decimal recommendation. All 24 guides now declare their existing navigation as the learning-path owner using the supported data-skillr-learning-path attribute, preventing that injected panel without changing shared code. This follows the existing Year 4 ownership pattern. The exact fix is independently rechecked before its follow-up publication. Desktop-only browser checks do not establish mobile/tablet rendering.
+
+Existing global workflow baselines remain: breadcrumb formatting check reports 740 changed/0 missing/0 invalid, and the older video generator reports 676 pages requiring its generated format. The same counts were recorded before this change; no bulk writer or unrelated global repair was run. Year 5 static validation, release integrity, F–10 layout, search/AI and question-bank quality workflows passed.

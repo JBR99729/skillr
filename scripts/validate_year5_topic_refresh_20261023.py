@@ -27,6 +27,7 @@ for p in paths:
   if resolved.fragment and f.suffix=='.html':
    dest=html.fromstring(f.read_text());assert resolved.fragment in dest.xpath('//@id'),(rel,target)
  if '/maths/ac9' in rel:
+  assert len(tree.xpath('//*[@data-skillr-learning-path]'))==1,rel
   fs=tree.xpath('//details[contains(concat(" ",normalize-space(@class)," ")," topic-focus ")]');assert len(fs)==4,rel
   assert len(tree.xpath('//p[@class="topic-try"]'))==4,rel
   assert len(tree.xpath('//details[@id="learning-support"]'))==1,rel
