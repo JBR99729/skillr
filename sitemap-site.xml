@@ -410,7 +410,7 @@
   </url>
   <url>
     <loc>https://skillrhub.com/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-23</lastmod>
   </url>
   <url>
     <loc>https://skillrhub.com/learn/foundation/</loc>
@@ -498,7 +498,7 @@
   </url>
   <url>
     <loc>https://skillrhub.com/products/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-10-23</lastmod>
   </url>
   <url>
     <loc>https://skillrhub.com/products/tpt-17593227/</loc>
@@ -1449,6 +1449,10 @@
     <lastmod>2026-10-08</lastmod>
   </url>
   <url>
+    <loc>https://skillrhub.com/us-resources/</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
     <loc>https://skillrhub.com/victoria/mathematics/</loc>
     <lastmod>2026-09-07</lastmod>
   </url>
@@ -1560,5 +1564,4 @@
     <loc>https://skillrhub.com/year-6-maths/fractions-decimals-percentages-worksheets/</loc>
     <lastmod>2026-10-03</lastmod>
   </url>
-  <url><loc>https://skillrhub.com/us-resources/</loc><lastmod>2026-10-23</lastmod></url>
 </urlset>
