@@ -283,3 +283,8 @@ Affordable positioning should emphasise neatly organised curriculum skills that 
 The family promise is an enjoyable journey: **one skill at a time**, manageable daily practice, less preparation for parents and growing confidence for children. Packs should provide a clear teaching/practice/check sequence. Explain progression through the curriculum skills included in the chosen packs without guaranteeing effortless completion of the entire Australian Curriculum. Families can adjust the pace and revisit skills as needed.
 
 Progress summaries support homeschool reporting to education departments and parent review of extra practice. They reflect adult-entered evidence and must not promise department acceptance, certified achievement or that a child has completed sufficient learning. Keep detailed journal access and concise printable summaries. Multiple child profiles are a tracker convenience; product licensing remains governed by each listing.
+
+
+## 15. Bounded US resource discovery — 23 October 2026
+
+The owner explicitly promoted a US resources section within the existing SkillrHub website into active scope. Preserve Australia-first positioning, one brand and the existing TPT checkout. Provide a useful, indexable US landing page and additional catalogue filter. Distinguish US-labelled samples from Australian supplementary packs; do not claim complete US/Common Core coverage or a finished US question bank. Explain the organized workbook/visual-slide sequence and time-saving value for teachers, parents, tutors and homeschoolers. State that digital learning is currently free and the question bank is still developing; do not invent a release date or future pricing.

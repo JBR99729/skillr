@@ -3843,7 +3843,9 @@
       "Supports AC9M1N02."
     ],
     "format": "Microsoft PowerPoint",
-    "tptObservedAt": "2026-10-08"
+    "tptObservedAt": "2026-10-08",
+    "usGrade": "1",
+    "usUseNote": "Explore number bonds and tens-and-ones models. Australian Year 1 pack; selected place-value skills only."
   },
   {
     "id": "tpt-17620166",
@@ -3870,7 +3872,9 @@
     "tptResourceType": "PDF",
     "isBundle": false,
     "free": true,
-    "tptObservedAt": "2026-10-08"
+    "tptObservedAt": "2026-10-08",
+    "usGrade": "2",
+    "usUseNote": "Explore hundreds, tens and ones with this free sample. Check the preview for the exact tasks included."
   },
   {
     "id": "tpt-17670322",
@@ -3924,7 +3928,9 @@
     "tptResourceType": "PDF",
     "isBundle": false,
     "free": true,
-    "tptObservedAt": "2026-10-08"
+    "tptObservedAt": "2026-10-08",
+    "usGrade": "1",
+    "usUseNote": "Practice addition and subtraction within 20 with this free sample."
   },
   {
     "id": "tpt-17620145",
@@ -3951,7 +3957,9 @@
     "tptResourceType": "PDF",
     "isBundle": false,
     "free": true,
-    "tptObservedAt": "2026-10-08"
+    "tptObservedAt": "2026-10-08",
+    "usGrade": "k",
+    "usUseNote": "Count, recognize and order numbers to 20. Use the free sample to check the level before choosing more practice."
   },
   {
     "id": "tpt-17719151",
@@ -5232,7 +5240,9 @@
     "learningGoals": [
       "Explore Foundation Subitising 0–5 Slides"
     ],
-    "format": "See the TpT listing for file format and full contents"
+    "format": "See the TpT listing for file format and full contents",
+    "usGrade": "k",
+    "usUseNote": "Use dot patterns, five frames and finger patterns to recognize small quantities. Australian Foundation pack; selected early number skills only."
   },
   {
     "id": "tpt-17802130",
@@ -5268,7 +5278,9 @@
     "learningGoals": [
       "Explore Foundation Numbers 0–20 Slides"
     ],
-    "format": "See the TpT listing for file format and full contents"
+    "format": "See the TpT listing for file format and full contents",
+    "usGrade": "k",
+    "usUseNote": "Visual models and guided practice for numbers 0–20. Australian Foundation pack; selected early number skills only."
   },
   {
     "id": "tpt-17795150",

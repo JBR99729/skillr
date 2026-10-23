@@ -39,6 +39,8 @@
     const terms = query.toLowerCase().trim().split(/\s+/).filter(Boolean);
     return products.filter(product => {
       const wantedType = scope.resourceType || 'all';
+      if (scope.curriculum === 'us' && !product.usGrade) return false;
+      if (scope.curriculum === 'au' && !(product.curriculumCodes || []).some(code => /^AC9/.test(code))) return false;
       const wantedCost = scope.cost || 'all';
       const productType = product.resourceType || 'worksheet';
 
@@ -78,6 +80,7 @@
   const subjectSelect = section.querySelector('[data-filter-subject]');
   const typeSelect = section.querySelector('[data-filter-type]');
   const costSelect = section.querySelector('[data-filter-cost]');
+  const curriculumSelect = section.querySelector('[data-filter-curriculum]');
   const clearFilters = section.querySelector('[data-filter-clear]');
   const tagRow = section.querySelector('[data-tag-row]');
   const form = section.querySelector('form');
@@ -99,6 +102,7 @@
     const details = element('a', 'View pack details'); details.href = product.url;
     const priceText = product.price === undefined ? 'See current price on TPT' : product.free || Number(product.price) === 0 ? 'Free on TPT' : product.resourceType === 'teaching-sample' ? 'Free sample' : new Intl.NumberFormat('en-AU', {style: 'currency', currency: product.currency}).format(Number(product.price));
     article.append(link, element('p', product.curriculumCodes.join(' · '), 'small'), element('p', product.description), element('p', priceText, 'price'), details);
+    if (product.usUseNote) article.append(element('p', product.usUseNote, 'small'));
     const buyUrl = product.paidTptUrl || product.tptUrl || null;
     if (buyUrl) { const buyLabel = product.free || Number(product.price) === 0 ? 'Get free pack on TPT' : isSlides && (product.paidPrice !== undefined || product.price !== undefined) ? 'Slides · US$' + Number(product.paidPrice || product.price).toFixed(2) : 'View on TPT'; const buy = element('a', buyLabel, 'button'); buy.href = buyUrl; buy.target = '_blank'; buy.rel = 'noopener noreferrer'; article.append(buy); }
     if (product.bundleTptUrl) { const offer = element('a', 'Bundle · US$' + Number(product.bundlePrice || 0).toFixed(2) + ' (save 20%)', 'button bundle-button'); offer.href = product.bundleTptUrl; offer.target = '_blank'; offer.rel = 'noopener noreferrer'; article.append(offer); }
@@ -149,11 +153,12 @@
     });
   }
 
-  function setFilterState({year = '', subject = '', resourceType = 'all', cost = 'all'} = {}) {
+  function setFilterState({year = '', subject = '', resourceType = 'all', cost = 'all', curriculum = 'all'} = {}) {
     if (yearSelect) yearSelect.value = String(year || '');
     if (subjectSelect) subjectSelect.value = subject || '';
     if (typeSelect) typeSelect.value = resourceType || 'all';
     if (costSelect) costSelect.value = cost || 'all';
+    if (curriculumSelect) curriculumSelect.value = curriculum;
   }
 
   function updateFilterUI() {
@@ -167,7 +172,8 @@
       year: yearSelect ? yearSelect.value : (document.body.dataset.year || ''),
       subject: subjectSelect ? subjectSelect.value : (document.body.dataset.subject || ''),
       resourceType: typeSelect ? typeSelect.value : (isSlides ? 'teaching-slides' : 'all'),
-      cost: costSelect ? costSelect.value : 'all'
+      cost: costSelect ? costSelect.value : 'all',
+      curriculum: curriculumSelect ? curriculumSelect.value : 'all'
     };
     return filters;
   }
@@ -202,6 +208,7 @@
   subjectSelect?.addEventListener('change', () => {page = 1; render();});
   typeSelect?.addEventListener('change', () => {page = 1; render();});
   costSelect?.addEventListener('change', () => {page = 1; render();});
+  curriculumSelect?.addEventListener('change', () => {page = 1; render();});
   clearFilters?.addEventListener('click', () => {
     setFilterState({});
     activeTag = 'all';
