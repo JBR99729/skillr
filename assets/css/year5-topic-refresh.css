@@ -1,0 +1,20 @@
+/* Year 5 opts in to the approved Year 1 presentation without shared changes. */
+.year5-maths-learning .topic-hero h1{max-width:none;font-size:clamp(2rem,3.3vw,3rem);overflow-wrap:anywhere}
+.year5-maths-learning .topic-video-lesson{margin:0 0 24px;padding:22px;border:1px solid #d4e4da;border-radius:14px;background:white}
+.year5-maths-learning .topic-video-lesson h2{margin:0 0 12px;font-size:1.25rem}
+.year5-maths-learning .topic-video-player>summary{cursor:pointer;font-weight:700;min-height:44px;padding:10px 0}
+.year5-maths-learning .topic-video-frame{position:relative;aspect-ratio:16/9;max-width:800px;margin:14px auto}
+.year5-maths-learning .topic-video-frame iframe{width:100%;height:100%;border:0}
+.year5-maths-learning table{width:100%;border-collapse:collapse;font-size:.9rem}
+.year5-maths-learning td,.year5-maths-learning th{border:1px solid #d4e4da;padding:8px;overflow-wrap:anywhere}
+.year5-maths-learning .curriculum-worked-example{margin:18px 0;padding:16px;border:1px solid #d4e4da;border-radius:10px;background:#fafcfb}
+.year5-maths-learning .topic-answer .curriculum-worked-example{border:0;padding:0}
+.year5-maths-learning .math-model-board{overflow-x:auto;max-width:100%}
+.year5-maths-learning .topic-pack__contents img{max-width:88px;height:auto}
+.year5-maths-learning .topic-resources .topic-free-links{grid-template-columns:repeat(2,minmax(0,1fr))}
+@media(max-width:600px){.year5-maths-learning .topic-resources .topic-free-links{grid-template-columns:1fr}.year5-maths-learning .curriculum-detail-body{padding:18px 16px}.year5-maths-learning .topic-section-nav a{flex-basis:40%}.year5-maths-learning .topic-model{padding:8px}}
+/* Keep mathematical labels readable; a wide diagram scrolls within its figure. */
+.year5-maths-learning .topic-model{overflow-x:auto;max-width:100%}
+.year5-maths-learning .topic-model>img{min-width:560px}
+.year5-maths-learning .topic-model>img[src$="aligned-protractor.svg"]{min-width:640px}
+.year5-maths-learning .topic-model:focus-visible{outline:3px solid #12695f;outline-offset:3px}

@@ -1,0 +1,268 @@
+{
+  "date": "2026-10-23",
+  "reviewer": "independent model agent /root/year5_independent_review",
+  "reviewType": "Independent static curriculum/content and mathematical-figure review; not human teacher or learner validation",
+  "status": "PASS_SCOPED_CONTENT_REVIEW",
+  "scope": {
+    "topicPages": 24,
+    "hubs": 2,
+    "authoredWorkedExampleSections": 96,
+    "tryChecksAndAnswers": 96,
+    "retainedModelArticles": 35,
+    "originalSvgFigures": 12
+  },
+  "reference": "year1/maths/ac9m1n01-numbers-to-120/index.html",
+  "reviewed": [
+    "All new worked-example reasoning and short-check answers; arithmetic, units, conditions and scope",
+    "All retained mathematical model text, fraction quantities, number-line positions and grid counts",
+    "New12 mathematical SVGs: XML validity plus rendered-pixel visual inspection; final protractor rerendered after label fixes",
+    "24 topic source inventories against approved retained pattern; existing free resource routes remain code-aligned",
+    "Two landing-page inventories,24-topic organisation and subject navigation"
+  ],
+  "findings": [
+    {
+      "id": "T01",
+      "location": "AC9M5M03",
+      "issue": "Clock SVG duplicated stroke-width attributes, blocking XML rendering.",
+      "resolutionAndRecheck": "Duplicate attributes removed; lxml parsing and rendered clock hands rechecked.",
+      "status": "CLOSED"
+    },
+    {
+      "id": "T02",
+      "location": "AC9M5N09 focus4",
+      "issue": "Ticket-plan validation relied on context in a separate closed focus.",
+      "resolutionAndRecheck": "$3 ticket price, $45 fixed costs, 40 tickets and $80 target repeated locally; 40→75, 41→78 and42→81 rechecked.",
+      "status": "CLOSED"
+    },
+    {
+      "id": "T03",
+      "location": "AC9M5ST01 focus4; AC9M5ST02 focuses2,4",
+      "issue": "Mode/line-graph examples depended on evidence in another closed focus.",
+      "resolutionAndRecheck": "Pet records repeated locally; line graph included in each relevant focus; values and conclusions rechecked.",
+      "status": "CLOSED"
+    },
+    {
+      "id": "T04",
+      "location": "AC9M5N03 focus2",
+      "issue": "Quarter/eighth graphic did not match worked thirds/sixths example.",
+      "resolutionAndRecheck": "Figure changed to thirds/sixths with2/3=4/6 and5/6 marked; rendered pixels rechecked.",
+      "status": "CLOSED"
+    },
+    {
+      "id": "T05",
+      "location": "AC9M5M04 focus3",
+      "issue": "Protractor scale-choice explanation lacked the instrument model.",
+      "resolutionAndRecheck": "Aligned original protractor added with 5-degree ticks and dual scales;50/130 readings and zero choice rechecked.",
+      "status": "CLOSED"
+    },
+    {
+      "id": "T06",
+      "location": "Decimal/fraction/protractor figures",
+      "issue": "Dense labels would shrink too far at narrow content widths.",
+      "resolutionAndRecheck": "Endpoint labels simplified/enlarged; scrollable figures retain minimum drawing widths and keyboard focus. CSS/source checked; browser behavior remains unverified.",
+      "status": "CLOSED"
+    },
+    {
+      "id": "T07",
+      "location": "AC9M5M04 protractor",
+      "issue": "The50-degree ray and baseline obscured scale numerals.",
+      "resolutionAndRecheck": "Inner50 label offset and four endpoint labels placed below baseline; final Cairo-rendered pixels rechecked.",
+      "status": "CLOSED"
+    },
+    {
+      "id": "T08",
+      "location": "AC9M5SP01 focus1",
+      "issue": "Rectangular side-face assertion needed the right-prism qualification.",
+      "resolutionAndRecheck": "Changed to right triangular prism; face inventory and net reasoning rechecked.",
+      "status": "CLOSED"
+    },
+    {
+      "id": "T09",
+      "location": "AC9M5A02 focus3",
+      "issue": "Division-associativity counterexample introduced a decimal divisor unnecessarily.",
+      "resolutionAndRecheck": "Changed to (24÷6)÷2=2 versus24÷(6÷2)=8; both equations and Year5 demand rechecked.",
+      "status": "CLOSED"
+    },
+    {
+      "id": "T10",
+      "location": "AC9M5N05 retained model",
+      "issue": "Result11/8 was depicted by only one completely shaded8-cell bar.",
+      "resolutionAndRecheck": "Now two equal whole bars contain8+3 shaded eighths; final HTML counts checked as6/8,5/8,8/8,3/8. Mathematical representation corrected; browser pixels unavailable.",
+      "status": "CLOSED"
+    }
+  ],
+  "additionalAuthorCorrectionRechecked": "M02 retained8m×6m rectangle with3m×2m corner removed has42m² area and28m perimeter.",
+  "blockingContentFindings": 0,
+  "limitations": [
+    "No browser rendering/interaction pass: local Chromium unavailable after failed downloads, connected browser extension unavailable and cloud browser could not reach localhost. Static CSS/source and CairoSVG pixels are distinct from browser QA.",
+    "Legacy HTML/CSS models reviewed for content and exact quantities; actual browser pixels unavailable.",
+    "No question banks, teacher viewers or printable files reviewed or certified by this task.",
+    "Earlier research/audit limitations remain; no new external-source inspection, classroom trial, human teacher review, learner outcome or accessibility certification claimed."
+  ],
+  "artifacts": [
+    {
+      "path": "year5/maths/ac9m5a01-and-explain-the-connection-between-multiplication-and-division/index.html",
+      "sha256": "7bf4a43822219d3780786f603c59d23c9b883a7970fe6df7c4265597e801a57b"
+    },
+    {
+      "path": "year5/maths/ac9m5a02-find-unknown-values-in-numerical-equations-involving/index.html",
+      "sha256": "720bbd8f7b2368e0e9c27573146651705ce2f929f409c6ecb6fe2e774ee2c3c4"
+    },
+    {
+      "path": "year5/maths/ac9m5m01-choose-appropriate-metric-units-when-measuring-the-length-mass/index.html",
+      "sha256": "88ecb08b724d96471c6ea6e1eae1667b0ae6a73b19af050fdac965ecdba9f994"
+    },
+    {
+      "path": "year5/maths/ac9m5m02-solve-practical-problems-involving-the-perimeter-and-area-of/index.html",
+      "sha256": "02bd1498f761e25d59255b21ea4a89ec7994c70d4627626fdc0250500187bd79"
+    },
+    {
+      "path": "year5/maths/ac9m5m03-12-and-24-hour-time-systems-and-solve-practical-problems/index.html",
+      "sha256": "14de3d8aeed3b3b8cce580aaa76652787d244f0cb4ebb62c3460244e52592eb6"
+    },
+    {
+      "path": "year5/maths/ac9m5m04-estimate-construct-and-measure-angles-in-degrees-using/index.html",
+      "sha256": "1b645959b9c205ff33ca89bc65622be8859f0e0f0a628475b6b1bab434dbfbaf"
+    },
+    {
+      "path": "year5/maths/ac9m5n01-interpret-compare-and-order-numbers-with-more-than-2-decimal/index.html",
+      "sha256": "3a9630027392ce5dfdffdca831b147e41e765ce453fbeb2bb060da267e076046"
+    },
+    {
+      "path": "year5/maths/ac9m5n02-express-natural-numbers-as-products-of-their-factors-recognise/index.html",
+      "sha256": "e7321bd2f26f89cf855df10e9cacc463349a3ea2cbe27df581da9f531610b235"
+    },
+    {
+      "path": "year5/maths/ac9m5n03-and-order-fractions-with-the-same-and-related-denominators/index.html",
+      "sha256": "3ad94cdc80257a0c0ec9b9c1629b6027db783ba7cebb8ceff5efe604b1594f0a"
+    },
+    {
+      "path": "year5/maths/ac9m5n04-that-100-represents-the-complete-whole-and-use-percentages-to/index.html",
+      "sha256": "c7110b26cd7c93bf9c50eb458ddd5909e63c37934278f20b9ed8f94d1d19ce1c"
+    },
+    {
+      "path": "year5/maths/ac9m5n05-solve-problems-involving-addition-and-subtraction-of-fractions/index.html",
+      "sha256": "0144d948ffd4cd23f11a23ac688b31b61680b891354517903d1279a0eb5ceeae"
+    },
+    {
+      "path": "year5/maths/ac9m5n06-solve-problems-involving-multiplication-of-larger-numbers-by/index.html",
+      "sha256": "f7c19bd4ee0ef14f076d441baa638123e38012fc6276b4986288dc7791e6ee48"
+    },
+    {
+      "path": "year5/maths/ac9m5n07-solve-problems-involving-division-choosing-efficient-strategies/index.html",
+      "sha256": "501ff685d6aed6d61c4156b51c98054cae2bd4343dfcfd28dbe0e8e406d98dff"
+    },
+    {
+      "path": "year5/maths/ac9m5n08-check-and-explain-the-reasonableness-of-solutions-to-problems/index.html",
+      "sha256": "0673e3b3b094aad6e89d1a63a503a65805c57069cbf9a0459a90bd83b13d998f"
+    },
+    {
+      "path": "year5/maths/ac9m5n09-mathematical-modelling-to-solve-practical-problems-involving/index.html",
+      "sha256": "19c38c1409ea2f64c522a25daea55d6a259a15375dc706374c11276da3f179df"
+    },
+    {
+      "path": "year5/maths/ac9m5n10-and-use-algorithms-involving-a-sequence-of-steps-and-decisions/index.html",
+      "sha256": "a7227ff19ab25c9a17f0af7107967c3637c1670e0c7d74103d8f66dccf3b2e32"
+    },
+    {
+      "path": "year5/maths/ac9m5p01-list-the-possible-outcomes-of-chance-experiments-involving/index.html",
+      "sha256": "48e7b86365b524ea1a2c1219b70425082f5318b388b20cb50f093465dfc6641c"
+    },
+    {
+      "path": "year5/maths/ac9m5p02-conduct-repeated-chance-experiments-including-those-with-and/index.html",
+      "sha256": "02d36b57c165114ae62036674f0acb09408c085936854452089aaf3521923bd9"
+    },
+    {
+      "path": "year5/maths/ac9m5sp01-connect-objects-to-their-nets-and-build-objects-from-their/index.html",
+      "sha256": "e791e41849ded0454f8b7c6fad01b9e672d36dcbdced60f183cf6d5daf1c04c9"
+    },
+    {
+      "path": "year5/maths/ac9m5sp02-construct-a-grid-coordinate-system-that-uses-coordinates-to/index.html",
+      "sha256": "901101581702482350e25dd822c0206945f6e94cc5cda12ba4aa381bbe193c3d"
+    },
+    {
+      "path": "year5/maths/ac9m5sp03-and-perform-translations-reflections-and-rotations-of-shapes/index.html",
+      "sha256": "9e12f567adf736d104000ca16a2c9b636b524ec3e142827d94916b5a14592ffe"
+    },
+    {
+      "path": "year5/maths/ac9m5st01-acquire-validate-and-represent-data-for-nominal-and-ordinal/index.html",
+      "sha256": "aa0aebe01c5a4cad0250d4e60f67520bea46cb56ce39c07953c1f90d8d6a5f19"
+    },
+    {
+      "path": "year5/maths/ac9m5st02-interpret-line-graphs-representing-change-over-time-discuss-the/index.html",
+      "sha256": "167e9bc76e523504a1aa3abba73f695cfda8b732361911f24c856cb1a919bc3e"
+    },
+    {
+      "path": "year5/maths/ac9m5st03-plan-and-conduct-statistical-investigations-by-posing-questions/index.html",
+      "sha256": "84f32748b5a3ba42088691fd84f3a904567effcd1048df2072bd8a8f2fb340d2"
+    },
+    {
+      "path": "year5/curriculum/maths/index.html",
+      "sha256": "0b591622a2dbf9a9523b64925df968afd1190d15a80ee761994da43cee344930"
+    },
+    {
+      "path": "year5/index.html",
+      "sha256": "f2e0aeaf4d4a7d1ad293f7f25238be1bf4938d8b18e65ba6273a7db983c4dceb"
+    },
+    {
+      "path": "assets/teaching-models/year5/aligned-protractor.svg",
+      "sha256": "495db95509532f781d3bf40b321bd2635b4d2640bb294d1fa64aa2861fc590ff"
+    },
+    {
+      "path": "assets/teaching-models/year5/angle-opening.svg",
+      "sha256": "c87ddfb020780a488b9618ac4bc9a7bc11044b20d01e7b885cb52663fd321760"
+    },
+    {
+      "path": "assets/teaching-models/year5/decimal-thousandths.svg",
+      "sha256": "8281e0fe2a7ab1cba81fd3bca97d90f23a10aa728d0937d41c58cb3f9d0802be"
+    },
+    {
+      "path": "assets/teaching-models/year5/irregular-area.svg",
+      "sha256": "3a4b6a97adcbd17ef542f818b5781a1f1ae3cffccc6b37a2babd898f3b1b3a30"
+    },
+    {
+      "path": "assets/teaching-models/year5/labelled-cube-net.svg",
+      "sha256": "8d51e494e2e852861440718eb5ef3b7c5a38ce30ace77bbfa6058b96f7d5355b"
+    },
+    {
+      "path": "assets/teaching-models/year5/ordered-coordinates.svg",
+      "sha256": "e8bf7297af67a537203c6d4bf061609b6017c6cf98c194f1b18a0a9bfd5319f6"
+    },
+    {
+      "path": "assets/teaching-models/year5/pet-count-frequencies.svg",
+      "sha256": "0e003658c75c1d1b743259eba3fc21115e3247e69653af4fdfd8264626bbf275"
+    },
+    {
+      "path": "assets/teaching-models/year5/reflection-in-vertical-line.svg",
+      "sha256": "cc1f7452df67190561ec8638c7e569d0f4bc00d61c51598458312194b3f33b73"
+    },
+    {
+      "path": "assets/teaching-models/year5/related-fraction-lines.svg",
+      "sha256": "eae988d4776b3359a7b77d6801af15e957e7df866612de3376f4bec142c0fe68"
+    },
+    {
+      "path": "assets/teaching-models/year5/tank-volume-over-time.svg",
+      "sha256": "cd0955761541349be7707fa3b7a7fee4dba450d55d78d6742b9cec2663bfb8be"
+    },
+    {
+      "path": "assets/teaching-models/year5/thirty-five-percent.svg",
+      "sha256": "a6df2248185087f54aceabc0afedbfa3842ad8fb2486b6ff2c8eb0092f0ff7a1"
+    },
+    {
+      "path": "assets/teaching-models/year5/time-four-thirty.svg",
+      "sha256": "0ab02c02608cb7ec3817e8f8507c1c8d555710a900e15bfd2ae9cb3879a778c7"
+    },
+    {
+      "path": "assets/css/year5-topic-refresh.css",
+      "sha256": "730195dedb24681f24efb2744309c3cb5720f180a14f96b03adeece8fc5697ea"
+    },
+    {
+      "path": "data/topic-guides/year5-maths-20261023.json",
+      "sha256": "6bab12d75d43921ac3d604052b5fdcf074b367584c32e8c4c972e9eaf8bb8774"
+    },
+    {
+      "path": "scripts/refresh_year5_maths_topics_20261023.py",
+      "sha256": "dd6cc2d1fc0018c9d2022f80af7cd5cbec7c71008702040890d365f18651a329"
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "sourceRepository": "JBR99729/research-",
+  "use": "Saved research reused within its recorded scope; loaded records are not a fresh external audit.",
+  "files": [
+    {
+      "path": "year-5/maths/AC9M5A01/AC9M5A01-RESEARCH.md",
+      "blob": "537f4eea69413b301e16ee58f390ce42bc0feff8"
+    },
+    {
+      "path": "year-5/maths/AC9M5A01/research/2026-10-23-research-only/TEACHING-AND-LANGUAGE.md",
+      "blob": "c3dd9a0d8565131e095474dedc9d85f41a09916f"
+    },
+    {
+      "path": "year-5/maths/AC9M5A01/research/2026-10-23-research-only/coverage-and-stopping.json",
+      "blob": "d40453e89d1018a443beeae1c4505300a0016bd4"
+    },
+    {
+      "path": "year-5/maths/AC9M5A02/AC9M5A02-RESEARCH.md",
+      "blob": "6c271e595d97a77ec265f697e2c1fe71d4f51c11"
+    },
+    {
+      "path": "year-5/maths/AC9M5A02/research/2026-10-23-research-only/TEACHING-AND-LANGUAGE.md",
+      "blob": "2cfd08837ad5b0979f0d8d05d576959414a5c4dd"
+    },
+    {
+      "path": "year-5/maths/AC9M5A02/research/2026-10-23-research-only/coverage-and-stopping.json",
+      "blob": "ce1d1b2b371e92ac1bdd6a46e20e15861d6f7bbd"
+    },
+    {
+      "path": "year-5/maths/AC9M5M01/AC9M5M01-RESEARCH.md",
+      "blob": "e33063fd849dc789117ca31c107b15ebd217d5cf"
+    },
+    {
+      "path": "year-5/maths/AC9M5M01/research/2026-10-23-research-only/TEACHING-AND-LANGUAGE.md",
+      "blob": "308b0e4811cc184198d44115ed782ec5f77552a0"
+    },
+    {
+      "path": "year-5/maths/AC9M5M01/research/2026-10-23-research-only/coverage-and-stopping.json",
+      "blob": "e9333dbbb4721313217cc8b2944dcc977daa527f"
+    },
+    {
+      "path": "year-5/maths/AC9M5M02/AC9M5M02-RESEARCH.md",
+      "blob": "2a1c8c0f8b96a379263530ac70120d6ba92ad82d"
+    },
+    {
+      "path": "year-5/maths/AC9M5M02/research/2026-10-23-research-only/TEACHING-AND-LANGUAGE.md",
+      "blob": "98b4682bb00924e916edb0a0b8fe38dacd4d5845"
+    },
+    {
+      "path": "year-5/maths/AC9M5M02/research/2026-10-23-research-only/coverage-and-stopping.json",
+      "blob": "f746cc275c8c2c354456ec7fb03d92411899fa9b"
+    },
+    {
+      "path": "year-5/maths/AC9M5M03/AC9M5M03-RESEARCH.md",
+      "blob": "c757630dfc641efc278222e1f6a6875497cb8616"
+    },
+    {
+      "path": "year-5/maths/AC9M5M03/research/2026-10-23-research-only/TEACHING-AND-LANGUAGE.md",
+      "blob": "ec4db0f6b4c416aa19249a1c99991cd9f2b778ee"
+    },
+    {
+      "path": "year-5/maths/AC9M5M03/research/2026-10-23-research-only/coverage-and-stopping.json",
+      "blob": "5233bb7635e09e86c4bc6befc182520dd508402d"
+    },
+    {
+      "path": "year-5/maths/AC9M5M04/AC9M5M04-RESEARCH.md",
+      "blob": "1789b8feed63809be88506ba8e118c49bc776d42"
+    },
+    {
+      "path": "year-5/maths/AC9M5M04/research/2026-10-23-research-only/TEACHING-AND-LANGUAGE.md",
+      "blob": "8f73a5112672038d63bdb1768aba6fd4a717963a"
+    },
+    {
+      "path": "year-5/maths/AC9M5M04/research/2026-10-23-research-only/coverage-and-stopping.json",
+      "blob": "6ca0ab7bcd5e12004bec9a65a389178e4b329dca"
+    },
+    {
+      "path": "year-5/maths/AC9M5N01/AC9M5N01-RESEARCH.md",
+      "blob": "2c39e43f4e9a849c050d8f0c53faa2f92fcdb81c"
+    },
+    {
+      "path": "year-5/maths/AC9M5N01/research/2026-10-23-continuation/current-focus-and-status.json",
+      "blob": "049b27d7417923317fcf0f8eb6b644eccadb45c9"
+    },
+    {
+      "path": "year-5/maths/AC9M5N01/research/worked-teaching-ledger-2026-10-20.json",
+      "blob": "61b91d582d538816f57e0e5ebfd0d72e24c668ab"
+    },
+    {
+      "path": "year-5/maths/AC9M5N02/AC9M5N02-RESEARCH.md",
+      "blob": "066401cfe49fd299f10061f54d338bb4e870aa87"
+    },
+    {
+      "path": "year-5/maths/AC9M5N02/research/2026-10-23-completion/original-teaching-models.json",
+      "blob": "8072d261eb2f3385390aaaaef730c52cec8eb41e"
+    },
+    {
+      "path": "year-5/maths/AC9M5N02/research/worked-teaching-ledger-2026-10-20.json",
+      "blob": "2b22835f3d26c3c379f084813db3c63b8fd59017"
+    },
+    {
+      "path": "year-5/maths/AC9M5N03/AC9M5N03-RESEARCH.md",
+      "blob": "176fd5f3b43500415b7cbf1a686e939c19ff51cc"
+    },
+    {
+      "path": "year-5/maths/AC9M5N03/research/2026-10-23-completion/original-teaching-models.json",
+      "blob": "339f75e9a5c9aeb20eb6ffb560e5587460f1591b"
+    },
+    {
+      "path": "year-5/maths/AC9M5N03/research/2026-10-23-completion/source-coverage-and-stopping.json",
+      "blob": "d3bdf2285e5f0ff71d987e39b5305060bb6debb2"
+    },
+    {
+      "path": "year-5/maths/AC9M5N03/research/worked-teaching-ledger-2026-10-20.json",
+      "blob": "de74e59e9c51a3f8de0371c04e42e4f984ce64ad"
+    },
+    {
+      "path": "year-5/maths/AC9M5N04/AC9M5N04-RESEARCH.md",
+      "blob": "dcc0d33396563a3c76a705bca597657dd4f93555"
+    },
+    {
+      "path": "year-5/maths/AC9M5N04/research/2026-10-23-completion/original-teaching-models.json",
+      "blob": "dc16ee659f42b9ac72cdbacd0d0f62c9ef7145a3"
+    },
+    {
+      "path": "year-5/maths/AC9M5N05/AC9M5N05-RESEARCH.md",
+      "blob": "018bdb6a2cac36134c10c11837b7833e3aae216f"
+    },
+    {
+      "path": "year-5/maths/AC9M5N06/AC9M5N06-RESEARCH.md",
+      "blob": "1f66ecf02afb7aab72ecf04d5f36bd24fd5af785"
+    },
+    {
+      "path": "year-5/maths/AC9M5N06/research/2026-10-23-research-only/TEACHING-AND-LANGUAGE.md",
+      "blob": "d0e5e49ad4156a3be49160d4dc7b44790be417f1"
+    },
+    {
+      "path": "year-5/maths/AC9M5N06/research/2026-10-23-research-only/coverage-and-stopping.json",
+      "blob": "ec5d6c58f2d50460bf097401f6a34c56ef84c6c0"
+    },
+    {
+      "path": "year-5/maths/AC9M5N07/AC9M5N07-RESEARCH.md",
+      "blob": "1d4ab8a79727b592792aef99b1d5ee329b9085e6"
+    },
+    {
+      "path": "year-5/maths/AC9M5N07/research/2026-10-23-research-only/TEACHING-AND-LANGUAGE.md",
+      "blob": "5450d225f28c3896684bccb05e75fb49d62e656f"
+    },
+    {
+      "path": "year-5/maths/AC9M5N07/research/2026-10-23-research-only/coverage-and-stopping.json",
+      "blob": "ae484059bb489ce8f76ea0ce09f7ef595573e5e0"
+    },
+    {
+      "path": "year-5/maths/AC9M5N08/AC9M5N08-RESEARCH.md",
+      "blob": "e7fae65e4a84b1facff95f622d0ae078c12d24fa"
+    },
+    {
+      "path": "year-5/maths/AC9M5N08/research/2026-10-23-research-only/TEACHING-AND-LANGUAGE.md",
+      "blob": "a8662d032f9763e3bb6bec78f8902a5bf8fdf27e"
+    },
+    {
+      "path": "year-5/maths/AC9M5N08/research/2026-10-23-research-only/coverage-and-stopping.json",
+      "blob": "d87c55baa158f5f8cd4e71cd6bc6677c1f8d2c0a"
+    },
+    {
+      "path": "year-5/maths/AC9M5N09/AC9M5N09-RESEARCH.md",
+      "blob": "73ed59e476a5394c65b17f9659bf0e1c157a7335"
+    },
+    {
+      "path": "year-5/maths/AC9M5N09/research/2026-10-23-research-only/TEACHING-AND-LANGUAGE.md",
+      "blob": "cf9d51419cebc990d816842fdcb60d66acd8f1b4"
+    },
+    {
+      "path": "year-5/maths/AC9M5N09/research/2026-10-23-research-only/coverage-and-stopping.json",
+      "blob": "ad52267d3f52c936801374e7293f26ac5eb7c97f"
+    },
+    {
+      "path": "year-5/maths/AC9M5N10/AC9M5N10-RESEARCH.md",
+      "blob": "6478a447fca22a7c9519f4a78a2804ea12c9e5a8"
+    },
+    {
+      "path": "year-5/maths/AC9M5N10/research/2026-10-23-research-only/TEACHING-AND-LANGUAGE.md",
+      "blob": "78432ae87315885902fe4520478898df0dc9e202"
+    },
+    {
+      "path": "year-5/maths/AC9M5N10/research/2026-10-23-research-only/coverage-and-stopping.json",
+      "blob": "acf030590a0a88589b60368d924df0fbe14d78ec"
+    },
+    {
+      "path": "year-5/maths/AC9M5P01/AC9M5P01-RESEARCH.md",
+      "blob": "f994dbd806b30a43b4d11b0b7d8d8424ae83f50d"
+    },
+    {
+      "path": "year-5/maths/AC9M5P02/AC9M5P02-RESEARCH.md",
+      "blob": "61b5df389a392fc59e9435b6c0885435e06e4b6e"
+    },
+    {
+      "path": "year-5/maths/AC9M5SP01/AC9M5SP01-RESEARCH.md",
+      "blob": "978f5de4e7b5c891c1adbd991923e149d075a585"
+    },
+    {
+      "path": "year-5/maths/AC9M5SP01/research/2026-10-23-research-only/TEACHING-AND-LANGUAGE.md",
+      "blob": "3a4538c081c5e7129272f7e297a9b7bfc3ddd836"
+    },
+    {
+      "path": "year-5/maths/AC9M5SP01/research/2026-10-23-research-only/coverage-and-stopping.json",
+      "blob": "f583d0b5739ffd126aff2bf252313db464579ffe"
+    },
+    {
+      "path": "year-5/maths/AC9M5SP02/AC9M5SP02-RESEARCH.md",
+      "blob": "4f4504ac654100aa5cb52bc73317445bd72e5eda"
+    },
+    {
+      "path": "year-5/maths/AC9M5SP02/research/2026-10-23-research-only/TEACHING-AND-LANGUAGE.md",
+      "blob": "26c91619d6564fafc3cee66838ff0ed7ff2ce481"
+    },
+    {
+      "path": "year-5/maths/AC9M5SP02/research/2026-10-23-research-only/coverage-and-stopping.json",
+      "blob": "174dd752c4eeee42afff39a50f8eaac4b09d225c"
+    },
+    {
+      "path": "year-5/maths/AC9M5SP03/AC9M5SP03-RESEARCH.md",
+      "blob": "cf2fc634d079d06aca11fe2083673c3f184df3a1"
+    },
+    {
+      "path": "year-5/maths/AC9M5ST01/AC9M5ST01-RESEARCH.md",
+      "blob": "36e67b894c22069d09117b80be9c1257804078fc"
+    },
+    {
+      "path": "year-5/maths/AC9M5ST02/AC9M5ST02-RESEARCH.md",
+      "blob": "c6c53814b1ec94081bd1bbd5d4c048aef94b0b03"
+    },
+    {
+      "path": "year-5/maths/AC9M5ST03/AC9M5ST03-RESEARCH.md",
+      "blob": "d0846b511ee81a5907395c75ff4b906bb9fd0d98"
+    }
+  ]
+}

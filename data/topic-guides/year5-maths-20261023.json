@@ -1,0 +1,1503 @@
+{
+  "AC9M5N01": {
+    "title": "Decimals beyond hundredths",
+    "lead": "Read, compare and locate decimals by naming the value of each digit, including thousandths.",
+    "before": "Know tenths and hundredths, whole-number place value and equal number-line intervals.",
+    "focuses": [
+      {
+        "title": "Name each decimal place",
+        "explain": "Each place to the right is one tenth of the place before it. One hundredth is ten thousandths. The whole must stay the same when a model is subdivided.",
+        "example": "Read 4.307 using place value.",
+        "steps": [
+          "4 ones + 3 tenths + 0 hundredths + 7 thousandths.",
+          "The 7 is worth 0.007, not 0.07. Say “four point three zero seven”."
+        ],
+        "watch": "A zero inside the numeral holds a place; 4.307 and 4.037 are different.",
+        "tryit": "What is the value of 8 in 2.086?",
+        "answer": "Eight hundredths: 0.08.",
+        "visual": null
+      },
+      {
+        "title": "Rename without changing the amount",
+        "explain": "Splitting a unit makes more, smaller pieces of the same amount. Appending a zero after the final decimal digit changes its name, not its value.",
+        "example": "Explain 0.4 = 0.40 = 0.400.",
+        "steps": [
+          "Four tenths are forty hundredths or four hundred thousandths.",
+          "To divide 0.4 by ten, share 40 hundredths into ten equal groups: 4 hundredths = 0.04."
+        ],
+        "watch": "Dividing by ten makes the amount smaller; do not just erase or add a zero.",
+        "tryit": "Write 0.7 ÷ 10.",
+        "answer": "0.07; seven tenths shared into ten groups gives seven hundredths.",
+        "visual": null
+      },
+      {
+        "title": "Compare and order using common places",
+        "explain": "Compare the ones first, then tenths, hundredths and thousandths until the first difference. Trailing zeros can help align the places.",
+        "example": "Order 2.58, 2.508 and 2.580.",
+        "steps": [
+          "Write 2.580, 2.508 and 2.580.",
+          "Ones and tenths agree. At hundredths, 0 < 8, so 2.508 < 2.58 = 2.580."
+        ],
+        "watch": "More decimal digits do not automatically mean a larger number.",
+        "tryit": "Which is larger: 1.709 kg or 1.79 kg?",
+        "answer": "1.79 kg = 1.790 kg; nine hundredths is greater than zero hundredths.",
+        "visual": null
+      },
+      {
+        "title": "Locate a decimal between close endpoints",
+        "explain": "Zoom in on a number line. Ten equal intervals from 2.33 to 2.34 are thousandths because the total gap is one hundredth.",
+        "example": "Locate 2.335.",
+        "steps": [
+          "The left endpoint is 2.330 and the right is 2.340.",
+          "2.335 is five thousandths after 2.330, halfway through the interval."
+        ],
+        "watch": "Count intervals, not tick marks. A diagram of a length needs its unit as well as its number.",
+        "tryit": "Where is 2.338 between these endpoints?",
+        "answer": "Eight of the ten equal intervals after 2.330; it is closer to 2.34.",
+        "visual": "decimal-line"
+      }
+    ]
+  },
+  "AC9M5N02": {
+    "title": "Factors, multiples and divisibility",
+    "lead": "Build factor pairs, recognise multiples and explain why a number divides exactly.",
+    "before": "Recall multiplication facts and distinguish a whole group from a remainder.",
+    "focuses": [
+      {
+        "title": "Build all the factor pairs",
+        "explain": "A factor divides a positive whole number exactly. Arrays connect the factors to the number of rows and the number in each row.",
+        "example": "Find the factors of 24.",
+        "steps": [
+          "Arrange 24 counters as 1 × 24, 2 × 12, 3 × 8 and 4 × 6.",
+          "Check candidate row sizes systematically. After 4, 5 fails and 6 repeats the 4 × 6 pair.",
+          "List both numbers from every pair: 1, 2, 3, 4, 6, 8, 12, 24."
+        ],
+        "watch": "Listing only small factors misses their partners. Square pairs such as 6 × 6 contribute the factor 6 once.",
+        "tryit": "List the factor pairs of 18.",
+        "answer": "1 × 18, 2 × 9, 3 × 6; factors 1, 2, 3, 6, 9, 18.",
+        "visual": null
+      },
+      {
+        "title": "Generate and combine multiples",
+        "explain": "A positive multiple is a number multiplied by 1, 2, 3 and so on. Equal groups can be split without changing their total.",
+        "example": "Build multiples of 7 from groups of 5 and 2.",
+        "steps": [
+          "4 × 7 = 4 × (5 + 2).",
+          "Combine 4 × 5 = 20 and 4 × 2 = 8: the total is 28.",
+          "The first five positive multiples are 7, 14, 21, 28, 35."
+        ],
+        "watch": "A factor belongs to the number’s factor set; its multiples continue without a last positive multiple.",
+        "tryit": "Use groups of 5 and 2 to find 6 × 7.",
+        "answer": "30 + 12 = 42.",
+        "visual": null
+      },
+      {
+        "title": "Explain tests for 2, 5 and 10",
+        "explain": "Base-ten groups explain the last-digit tests. Every full ten can be split into pairs or groups of five, so the ones decide whether anything is left over.",
+        "example": "Is 340 divisible by 2, 5 and 10?",
+        "steps": [
+          "The ones digit 0 leaves no extra ones after its 34 tens.",
+          "It is even, ends in 0 or 5, and ends in 0: all three tests pass.",
+          "Check: 340 = 2 × 170 = 5 × 68 = 10 × 34."
+        ],
+        "watch": "A divisibility test means no remainder, not merely a close answer.",
+        "tryit": "Which of 2, 5 and 10 divide 135?",
+        "answer": "Only 5. The last digit is odd and is not zero.",
+        "visual": null
+      },
+      {
+        "title": "Use digit sums and check the result",
+        "explain": "For 3 and 9, sum the digits. Each ten is one more than a multiple of 9, so replacing tens by ones leaves the same remainder for these tests.",
+        "example": "Test 4 572 for divisibility by 3 and 9.",
+        "steps": [
+          "4 + 5 + 7 + 2 = 18, which is divisible by both 3 and 9.",
+          "4 572 = 3 × 1 524 and 9 × 508 confirm both tests."
+        ],
+        "watch": "The digit-sum rule for 3 or 9 is not a rule for every divisor.",
+        "tryit": "Is 2 314 divisible by 3?",
+        "answer": "No: 2 + 3 + 1 + 4 = 10, which is not a multiple of 3.",
+        "visual": null
+      }
+    ]
+  },
+  "AC9M5N03": {
+    "title": "Comparing and ordering fractions",
+    "lead": "Use equal-sized wholes, equivalent fractions and number lines to compare fractions and mixed numbers.",
+    "before": "Know equal parts, numerator, denominator and multiplication facts.",
+    "focuses": [
+      {
+        "title": "Keep the whole and the fractional unit clear",
+        "explain": "A fraction wall shows parts of an area or strip. A number line shows a point measured from zero. Equal fractions share a line position when the whole unit is fixed.",
+        "example": "Compare 3/8 and 5/8.",
+        "steps": [
+          "Both count eighths of the same whole.",
+          "Five of these equal parts are more than three, so 3/8 < 5/8."
+        ],
+        "watch": "Different-sized source wholes can make a picture comparison misleading.",
+        "tryit": "Which is greater: 7/10 or 4/10?",
+        "answer": "7/10, because seven tenths exceed four tenths.",
+        "visual": null
+      },
+      {
+        "title": "Rename related denominators",
+        "explain": "Use a multiple of the smaller denominator to make the units match. Multiply numerator and denominator by the same number.",
+        "example": "Compare 2/3 and 5/6.",
+        "steps": [
+          "Each third splits into two sixths: 2/3 = 4/6.",
+          "Compare 4/6 with 5/6: 2/3 < 5/6."
+        ],
+        "watch": "Changing only the denominator changes the amount.",
+        "tryit": "Compare 3/4 and 7/8.",
+        "answer": "3/4 = 6/8, so 3/4 < 7/8.",
+        "visual": "fraction-lines"
+      },
+      {
+        "title": "Move between mixed numbers and improper fractions",
+        "explain": "An improper fraction can include complete wholes. A mixed number records the complete wholes and the remaining fractional part.",
+        "example": "Locate 11/4.",
+        "steps": [
+          "Eight quarters make two wholes; three quarters remain.",
+          "11/4 = 2 3/4, three quarter-steps after 2 and before 3."
+        ],
+        "watch": "A mixed number such as 2 3/4 means 2 + 3/4, not 2 × 3/4.",
+        "tryit": "Write 3 2/5 as an improper fraction.",
+        "answer": "17/5: three wholes are fifteen fifths, then add two fifths.",
+        "visual": null
+      },
+      {
+        "title": "Order a mixed set and justify the positions",
+        "explain": "Compare whole-number parts first. When these match, compare the fractional parts with common units.",
+        "example": "Order 1 1/2, 7/4 and 1 1/4.",
+        "steps": [
+          "Rename in quarters: 6/4, 7/4 and 5/4.",
+          "From least to greatest: 1 1/4, 1 1/2, 7/4.",
+          "All lie between 1 and 2; 7/4 = 1 3/4 is furthest right."
+        ],
+        "watch": "Keep the original labels in the final ordered list so the answer matches the question.",
+        "tryit": "Order 2 1/3, 2 5/6 and 2 1/6.",
+        "answer": "2 1/6 < 2 1/3 < 2 5/6, using 1/3 = 2/6.",
+        "visual": null
+      }
+    ]
+  },
+  "AC9M5N04": {
+    "title": "Percentages, fractions and decimals",
+    "lead": "Treat one complete whole as 100%, then connect familiar proportions and compare their relative size.",
+    "before": "Recognise halves, quarters, tenths and hundredths of a stated whole.",
+    "focuses": [
+      {
+        "title": "Identify the whole and show percent",
+        "explain": "Percent means “per hundred”. A complete hundred-cell grid represents 100%; each equal cell represents 1%.",
+        "example": "Read a grid with 35 of its 100 cells shaded.",
+        "steps": [
+          "The whole is all 100 cells.",
+          "35 shaded cells represent 35/100 = 35%.",
+          "The 65 unshaded cells represent 65%; 35% + 65% = 100%."
+        ],
+        "watch": "Two different-sized complete containers are both 100% full; they need not contain the same amount.",
+        "tryit": "If 20% of the original juice is used, what percentage remains?",
+        "answer": "80%, because used and remaining portions make the same original 100%.",
+        "visual": "percent-grid"
+      },
+      {
+        "title": "Connect familiar fractions to percentages",
+        "explain": "Rename a fraction in hundredths, or subdivide a grid into equal groups. The proportion stays the same.",
+        "example": "Write 3/4 as a percentage.",
+        "steps": [
+          "Divide 100 cells into four equal groups of 25.",
+          "Three groups contain 75 cells: 3/4 = 75/100 = 75%."
+        ],
+        "watch": "The denominator does not tell you the percentage on its own.",
+        "tryit": "Write 2/5 as a percentage.",
+        "answer": "40%, because 2/5 = 40/100.",
+        "visual": null
+      },
+      {
+        "title": "Connect percentages and decimal place value",
+        "explain": "A decimal names parts of one whole. Hundredths link it directly with a percentage.",
+        "example": "Connect 0.6, 6/10 and a percentage.",
+        "steps": [
+          "0.6 = 6/10 = 60/100.",
+          "Sixty per hundred is 60%. Similarly, 0.25 = 25% = 1/4."
+        ],
+        "watch": "0.05 is 5%, while 0.5 is 50%. The zero matters.",
+        "tryit": "Write 75% as a decimal.",
+        "answer": "0.75, because seventy-five per hundred is seventy-five hundredths.",
+        "visual": null
+      },
+      {
+        "title": "Compare proportions and read everyday claims",
+        "explain": "Use a common representation when fractions, decimals and percentages are mixed. A larger proportion does not guarantee a larger actual amount if the wholes differ.",
+        "example": "Compare 50%, 0.7 and 3/4.",
+        "steps": [
+          "Write 50%, 70% and 75%.",
+          "The order is 50% < 0.7 < 3/4.",
+          "On the same device, a 70% indicator represents a greater proportion of capacity than 50%."
+        ],
+        "watch": "A sale sign saying 25% off describes a proportion of the original price; it does not mean $25 off.",
+        "tryit": "Which is the greater proportion: 0.4 or 45%?",
+        "answer": "45%, because 0.4 = 40%.",
+        "visual": null
+      }
+    ]
+  },
+  "AC9M5N05": {
+    "title": "Adding and subtracting fractions",
+    "lead": "Name common fractional units before combining or removing amounts.",
+    "before": "Know equivalent fractions, related denominators and mixed numbers.",
+    "focuses": [
+      {
+        "title": "Add or remove the same-sized parts",
+        "explain": "The denominator names the fractional unit; the numerator counts how many of those units you have.",
+        "example": "Work out 5/8 − 2/8.",
+        "steps": [
+          "Remove two eighths from five eighths.",
+          "Three eighths remain: 5/8 − 2/8 = 3/8.",
+          "For addition, 3/8 + 4/8 = 7/8 uses the same eighth-sized unit."
+        ],
+        "watch": "Adding denominators would change the size of the parts.",
+        "tryit": "Find 2/7 + 4/7.",
+        "answer": "6/7: two sevenths plus four sevenths is six sevenths.",
+        "visual": null
+      },
+      {
+        "title": "Rename related units before calculating",
+        "explain": "Split each larger fractional part into smaller equal parts of the same whole. Use strips, a number line or equivalent fractions.",
+        "example": "Find 1/2 + 3/8.",
+        "steps": [
+          "One half is four eighths: 1/2 = 4/8.",
+          "Combine 4/8 + 3/8 = 7/8.",
+          "A jump of four eighths followed by three eighths reaches seven eighths."
+        ],
+        "watch": "Only rename when needed: related denominators already have an efficient common unit.",
+        "tryit": "Find 5/6 − 1/3.",
+        "answer": "5/6 − 2/6 = 3/6 = 1/2.",
+        "visual": null
+      },
+      {
+        "title": "Cross a whole with fractions and mixed numbers",
+        "explain": "A whole can be regrouped into fractional parts without changing the total.",
+        "example": "Cut 3/4 m from a 2 1/4 m strip.",
+        "steps": [
+          "Rename 2 1/4 m as 1 5/4 m.",
+          "Remove 3/4 m: 1 5/4 − 3/4 = 1 2/4 m = 1 1/2 m.",
+          "Check by adding the cut piece back: 1 1/2 + 3/4 = 2 1/4 m."
+        ],
+        "watch": "Keep the measurement unit. Equivalent unsimplified fractions are valid unless simplest form is requested.",
+        "tryit": "Find 3/4 + 1/2.",
+        "answer": "5/4 = 1 1/4, because 1/2 = 2/4.",
+        "visual": null
+      },
+      {
+        "title": "Choose a model for the situation",
+        "explain": "A clock can model fractional hours, a marked strip can model length and a cup can model capacity. The whole and operation must match the context.",
+        "example": "Add half an hour and three-quarters of an hour.",
+        "steps": [
+          "Half an hour is two quarters of an hour.",
+          "2/4 + 3/4 = 5/4 hours = 1 1/4 hours.",
+          "Each quarter-hour is 15 minutes, so this is 75 minutes."
+        ],
+        "watch": "“Subtract a from b” means b − a. Do not automatically subtract in the order the quantities appear.",
+        "tryit": "A recipe uses 3/4 cup, then another 1/4 cup. What is the total?",
+        "answer": "One cup: four quarters make one whole cup.",
+        "visual": null
+      }
+    ]
+  },
+  "AC9M5N06": {
+    "title": "Multiplying larger numbers",
+    "lead": "Choose a useful multiplication strategy, connect it to place value and check the size of the answer.",
+    "before": "Recall multiplication facts and partition whole numbers into hundreds, tens and ones.",
+    "focuses": [
+      {
+        "title": "Use doubling and factor regrouping",
+        "explain": "Multiplying by four is doubling twice. Reordering and regrouping factors can make a product easier without changing it.",
+        "example": "Find 246 × 4.",
+        "steps": [
+          "246 × 2 = 492.",
+          "Double again: 492 × 2 = 984.",
+          "For 25 × 16, regroup 25 × 4 × 4 = 100 × 4 = 400."
+        ],
+        "watch": "Doubling both original factors makes the product four times as large.",
+        "tryit": "Use doubling to find 132 × 4.",
+        "answer": "132 → 264 → 528.",
+        "visual": null
+      },
+      {
+        "title": "Partition every place-value contribution",
+        "explain": "An area model splits a product into smaller rectangles. Each partial product must be included exactly once.",
+        "example": "Find 324 × 8.",
+        "steps": [
+          "300 × 8 = 2 400; 20 × 8 = 160; 4 × 8 = 32.",
+          "Add the contributions: 2 400 + 160 + 32 = 2 592.",
+          "These are the same place-value contributions combined by a written multiplication algorithm."
+        ],
+        "watch": "A tens digit represents tens, not ones.",
+        "tryit": "Find 213 × 6 using partial products.",
+        "answer": "1 200 + 60 + 18 = 1 278.",
+        "visual": null
+      },
+      {
+        "title": "Multiply by a two-digit number",
+        "explain": "Split the two-digit factor into tens and ones. Written rows record those two contributions.",
+        "example": "Find 146 × 23.",
+        "steps": [
+          "146 × 3 = 438.",
+          "146 × 20 = 2 920, because twenty means two tens.",
+          "438 + 2 920 = 3 358."
+        ],
+        "watch": "The tens row is 2 920, not 292; its place-value shift is essential.",
+        "tryit": "Work out 125 × 12.",
+        "answer": "1 250 + 250 = 1 500.",
+        "visual": null
+      },
+      {
+        "title": "Choose efficiency and check with an estimate",
+        "explain": "Number features suggest a strategy. Compensation adjusts the full amount added by a convenient change. Use a calculator when the context makes it useful, after predicting the scale.",
+        "example": "Find the cost of 7 items at $198 each.",
+        "steps": [
+          "Use 7 × 200 = 1 400.",
+          "The convenient price adds $2 for each of seven items, so subtract $14: total $1 386.",
+          "The estimate about $1 400 makes $13 860 implausible; it does not prove every digit is correct."
+        ],
+        "watch": "State whether you are giving an estimate or the exact product.",
+        "tryit": "Use compensation to find 6 × 49.",
+        "answer": "6 × 50 − 6 = 300 − 6 = 294.",
+        "visual": null
+      }
+    ]
+  },
+  "AC9M5N07": {
+    "title": "Division and remainders",
+    "lead": "Choose an efficient division method, then decide what the remainder means in the situation.",
+    "before": "Use multiplication facts, place value and equal sharing/grouping.",
+    "focuses": [
+      {
+        "title": "Use multiplication to reason about division",
+        "explain": "A division asks for a group size or a number of groups. The related multiplication checks the result.",
+        "example": "Find 84 ÷ 7.",
+        "steps": [
+          "Ask how many sevens make 84.",
+          "Ten sevens make 70; two more make 14.",
+          "There are 12 sevens, so 84 ÷ 7 = 12."
+        ],
+        "watch": "The dividend is the total; the divisor gives the group size or group count.",
+        "tryit": "Find 96 ÷ 8.",
+        "answer": "12, checked by 12 × 8 = 96.",
+        "visual": null
+      },
+      {
+        "title": "Partition or scale both numbers",
+        "explain": "Split a dividend into convenient multiples, or divide both dividend and divisor by the same nonzero factor to preserve the quotient.",
+        "example": "Find 468 ÷ 6.",
+        "steps": [
+          "420 ÷ 6 = 70 and 48 ÷ 6 = 8.",
+          "Add the group counts: 70 + 8 = 78.",
+          "For 240 ÷ 20, divide both numbers by 10 to get 24 ÷ 2 = 12."
+        ],
+        "watch": "Dividing only one number by ten changes the quotient.",
+        "tryit": "Simplify 360 ÷ 30 by scaling both numbers.",
+        "answer": "36 ÷ 3 = 12.",
+        "visual": null
+      },
+      {
+        "title": "Round the group count in the right direction",
+        "explain": "A remainder cannot be ignored until the practical question is answered. Full containers, enough seats and shared lengths need different interpretations.",
+        "example": "Transport 127 people in vehicles seating 20 each.",
+        "steps": [
+          "127 ÷ 20 = 6 remainder 7.",
+          "Six vehicles seat only 120, so seven people still need seats.",
+          "Seven vehicles are needed. For complete packs of 20 made from 127 objects, only six complete packs can be filled."
+        ],
+        "watch": "The same quotient can require rounding up, rounding down or keeping a fraction, depending on the context.",
+        "tryit": "How many 8-seat vehicles are needed for 35 people?",
+        "answer": "Five; four vehicles seat 32 people and leave three without seats.",
+        "visual": null
+      },
+      {
+        "title": "Share a remainder as a fraction or decimal",
+        "explain": "When the quantity can be subdivided, share the remainder as well. Retain exact fractions when the decimal does not terminate.",
+        "example": "Share 17 m equally among four people.",
+        "steps": [
+          "17 ÷ 4 = 4 remainder 1.",
+          "Share the remaining metre into four equal parts: 1/4 m each.",
+          "Each receives 4 1/4 m = 4.25 m. Check: 4 × 4.25 = 17."
+        ],
+        "watch": "A calculator display such as 0.333333 is an approximation to one third, not an exact terminating decimal.",
+        "tryit": "Share 13 litres equally into five containers.",
+        "answer": "2 3/5 L = 2.6 L in each container.",
+        "visual": null
+      }
+    ]
+  },
+  "AC9M5N08": {
+    "title": "Estimation and reasonableness",
+    "lead": "Choose an estimate that answers the practical question, then explain what it can and cannot establish.",
+    "before": "Round whole numbers and familiar decimal amounts; know the four operations.",
+    "focuses": [
+      {
+        "title": "Decide whether the answer can be approximate",
+        "explain": "An estimate is useful for planning or spotting an implausible answer. An exact payment or an exact number of tickets needs more precision.",
+        "example": "Check a claimed cost of $1 450 for 6 items at $24 each.",
+        "steps": [
+          "Use $25 per item: 6 × 25 = 150.",
+          "The total should be near $150, so $1 450 is much too high.",
+          "The estimate rejects the claim without giving the exact cost."
+        ],
+        "watch": "A close estimate is not proof of an exact answer.",
+        "tryit": "Is 8 × 49 closer to 40, 400 or 4 000?",
+        "answer": "400, using 8 × 50 = 400.",
+        "visual": null
+      },
+      {
+        "title": "Use compatible values and explain the choice",
+        "explain": "Choose nearby numbers that are easy for the operation. Keep any rounding place specified in the question.",
+        "example": "Estimate 398 ÷ 8.",
+        "steps": [
+          "400 is close to 398 and divisible by 8.",
+          "400 ÷ 8 = 50, so the answer is about 50.",
+          "Because the dividend was increased and the divisor stayed fixed, this is a little high."
+        ],
+        "watch": "Rounding both numbers is not always more helpful than changing just one.",
+        "tryit": "Estimate 1 198 ÷ 6 using a nearby compatible dividend.",
+        "answer": "About 200, using 1 200 ÷ 6.",
+        "visual": null
+      },
+      {
+        "title": "Track the direction of a rounding change",
+        "explain": "For positive numbers, increasing an addend increases a sum; increasing a factor increases a product. For subtraction, increasing the amount removed makes the result smaller.",
+        "example": "Compare estimates for 502 − 198.",
+        "steps": [
+          "500 − 200 = 300: the first amount went down while the amount removed went up, so this estimate is low.",
+          "For division, increasing the dividend raises the quotient, while increasing the divisor lowers it.",
+          "If both numbers change, inspect the effects; do not assume they cancel."
+        ],
+        "watch": "Both-up or both-down rounding has no universal direction for differences or quotients.",
+        "tryit": "Is 600 − 200 above or below the exact value of 598 − 203?",
+        "answer": "Above: the first amount increased and the amount removed decreased.",
+        "visual": null
+      },
+      {
+        "title": "Use conservative budgets and sensible payment rounding",
+        "explain": "Rounding prices upwards gives a cautious shopping budget. This planning choice is different from the final amount charged.",
+        "example": "Four items each cost less than $5. Is $20 enough?",
+        "steps": [
+          "Their total is less than 4 × $5 = $20, so $20 is sufficient.",
+          "For Australian cash settlement, round the final total to the nearest 5c; a $12.42 total becomes $12.40.",
+          "A card payment remains $12.42. Do not round each item as a charging rule."
+        ],
+        "watch": "An estimate must be labelled as an estimate, not as the receipt total.",
+        "tryit": "Three items each cost less than $8. Is $24 enough?",
+        "answer": "Yes; their combined cost is less than $24.",
+        "visual": null
+      }
+    ]
+  },
+  "AC9M5N09": {
+    "title": "Solving practical problems with models",
+    "lead": "Turn a practical goal into a mathematical plan, calculate, then check and explain the result in context.",
+    "before": "Select addition, subtraction, multiplication or division from equal-group and comparison situations.",
+    "focuses": [
+      {
+        "title": "State the goal and the missing information",
+        "explain": "A model is a mathematical description of a situation. Identify what must be found, relevant quantities, units and constraints before choosing operations.",
+        "example": "Plan enough notebooks for 28 students, sold in packs of 6.",
+        "steps": [
+          "Assume each student needs one notebook and no spare notebooks are already available.",
+          "4 packs contain only 24; 5 packs contain 30.",
+          "The model requires five packs, with two notebooks spare."
+        ],
+        "watch": "A supplied expression alone does not show how the situation was formulated.",
+        "tryit": "What extra information is needed to calculate the purchase cost?",
+        "answer": "The price per pack, and whether any delivery or other charges apply.",
+        "visual": null
+      },
+      {
+        "title": "Represent the relationships and choose operations",
+        "explain": "Use an equal-group diagram, bar model, table or number sentence to show why each calculation is needed.",
+        "example": "Six groups need 4 markers each; 7 usable markers are already available.",
+        "steps": [
+          "Six groups of four require 6 × 4 = 24 markers.",
+          "Subtract the 7 already available: 24 − 7 = 17 more.",
+          "The sentence 6 × 4 − 7 = 17 records the situation."
+        ],
+        "watch": "The word “each” describes a relationship; read the whole problem before choosing an operation.",
+        "tryit": "Five tables need six pencils each, with eight pencils already available. How many more?",
+        "answer": "5 × 6 − 8 = 22 more pencils.",
+        "visual": null
+      },
+      {
+        "title": "Build a budget and use a spreadsheet",
+        "explain": "Distinguish sales income, expenses and money remaining after expenses. A spreadsheet can make changing assumptions visible.",
+        "example": "A class sells 40 tickets at $3 each and spends $45 on materials.",
+        "steps": [
+          "Income: 40 × $3 = $120.",
+          "Net proceeds after materials: $120 − $45 = $75.",
+          "In a spreadsheet put ticket count in B2, price in C2 and expenses in D2; =B2*C2-D2 computes net proceeds."
+        ],
+        "watch": "This model assumes all 40 tickets sell and there are no other costs. A digital calculation still needs a checked model.",
+        "tryit": "If only 30 tickets sell with the same price and expenses, what remains?",
+        "answer": "$45: 30 × $3 − $45.",
+        "visual": null
+      },
+      {
+        "title": "Validate, communicate and revise",
+        "explain": "Check units, arithmetic and whether the answer meets the original goal. Change assumptions when the practical evidence changes.",
+        "example": "At $3 per ticket and fixed costs of $45, does selling 40 tickets raise at least $80 after costs?",
+        "steps": [
+          "The original plan gives $75, below the $80 target.",
+          "At 42 tickets the net is $126 − $45 = $81; at 41 it is $78.",
+          "If capacity allows, 42 ticket sales meet the target under the stated assumptions. Communicate the minimum and the assumptions."
+        ],
+        "watch": "An open plan may have several valid solutions; justify one rather than claiming it is universally best.",
+        "tryit": "What happens to the 42-ticket plan if expenses rise by $5?",
+        "answer": "Net proceeds become $76, so the plan no longer meets the $80 target.",
+        "visual": null
+      }
+    ]
+  },
+  "AC9M5N10": {
+    "title": "Algorithms for factors and multiples",
+    "lead": "Write clear steps and decisions, test them with digital tools and explain the patterns you find.",
+    "before": "Understand factors, multiples, exact division and multiplication facts.",
+    "focuses": [
+      {
+        "title": "Make the decision rule explicit",
+        "explain": "An algorithm states the input, ordered steps, decisions, output and when to stop. A flowchart shows which branch to follow.",
+        "example": "Test whether 126 is divisible by 6.",
+        "steps": [
+          "Add its digits: 1 + 2 + 6 = 9, a multiple of 3.",
+          "Its last digit is even, so it is divisible by both 2 and 3.",
+          "Output “divisible by 6”. If either test fails, output “not divisible by 6”, then stop."
+        ],
+        "watch": "For this rule the tests are joined by AND, not OR.",
+        "tryit": "Use the algorithm for 123.",
+        "answer": "Not divisible by 6: its digit sum is divisible by 3 but it is odd.",
+        "visual": null
+      },
+      {
+        "title": "Create a systematic factor search",
+        "explain": "For a positive input number, test possible divisors in order. If division leaves no remainder, record the divisor and its partner.",
+        "example": "Design a search for the factors of 20.",
+        "steps": [
+          "Start a candidate at 1; divide 20 by it. Record 1 and 20.",
+          "Increase the candidate by 1 and repeat up to 20, recording exact divisors only.",
+          "Remove duplicate entries or store each factor once: 1, 2, 4, 5, 10, 20."
+        ],
+        "watch": "The process needs a stopping rule. A correct factor guess is not a complete algorithm.",
+        "tryit": "What should the algorithm output for input 9?",
+        "answer": "1, 3 and 9, with 3 recorded once.",
+        "visual": null
+      },
+      {
+        "title": "Generate multiples in a spreadsheet",
+        "explain": "Keep the chosen number in one cell and multiply it by a changing whole-number index. Use fill down to repeat the rule.",
+        "example": "Make a multiples-of-8 column.",
+        "steps": [
+          "Enter 8 in B1. Put 1, 2, 3, 4 … in A2, A3, A4, A5 …",
+          "In B2 enter =$B$1*A2 and fill down. The dollar signs fix B1 while the A-row changes.",
+          "The first results are 8, 16, 24, 32 … Change B1 to 6 and check that the whole column updates."
+        ],
+        "watch": "Reading a supplied column is useful practice; actually creating and changing the spreadsheet is part of this investigation.",
+        "tryit": "What is the fifth positive multiple when B1 contains 6?",
+        "answer": "30. Check by creating the column and reading its fifth result.",
+        "visual": null
+      },
+      {
+        "title": "Compare common values and test a pattern",
+        "explain": "A common multiple appears in every list; the least positive one is the LCM. A common factor divides every input; the largest is the HCF.",
+        "example": "Compare 6 and 9.",
+        "steps": [
+          "Multiples of 6: 6, 12, 18 …; multiples of 9: 9, 18 …; LCM = 18.",
+          "Factors of 6: 1, 2, 3, 6; of 9: 1, 3, 9; HCF = 3.",
+          "For 3, 4 and 5, the HCF is 1 and the LCM is 60. Extend the spreadsheet far enough to see it."
+        ],
+        "watch": "A short list can miss the first common multiple; no overlap yet does not mean none exists.",
+        "tryit": "Find the LCM and HCF of 4 and 6.",
+        "answer": "LCM 12; HCF 2. Test both results against each input.",
+        "visual": null
+      }
+    ]
+  },
+  "AC9M5A01": {
+    "title": "Multiplication and division fact families",
+    "lead": "Use one equal-group model to explain related multiplication and division facts.",
+    "before": "Know groups, rows, columns, a total and multiplication facts.",
+    "focuses": [
+      {
+        "title": "Identify the total and the two factors",
+        "explain": "Multiplication combines equal groups. Division can recover the size of a group or the number of groups from that total.",
+        "example": "Model 4 groups of 6 counters.",
+        "steps": [
+          "4 × 6 = 24 gives the total.",
+          "24 ÷ 4 = 6 shares that total among four groups.",
+          "24 ÷ 6 = 4 asks how many groups of six fit."
+        ],
+        "watch": "Swapping factors is commutativity; using division to undo multiplication is the inverse relationship.",
+        "tryit": "Five groups contain 7 objects each. What division facts match?",
+        "answer": "35 ÷ 5 = 7 and 35 ÷ 7 = 5.",
+        "visual": null
+      },
+      {
+        "title": "Write a connected family of facts",
+        "explain": "Turning an array swaps rows and columns while keeping the total. Connect both multiplication orders to their division facts.",
+        "example": "Write the family for 3, 8 and 24.",
+        "steps": [
+          "3 × 8 = 24 and 8 × 3 = 24.",
+          "24 ÷ 3 = 8 and 24 ÷ 8 = 3.",
+          "Every statement describes the same 24 objects."
+        ],
+        "watch": "When the two factors are equal, some statements repeat: 6 × 6 = 36 and 36 ÷ 6 = 6 give only two distinct equations.",
+        "tryit": "How many distinct equations are in the 5, 5, 25 fact family?",
+        "answer": "Two: 5 × 5 = 25 and 25 ÷ 5 = 5.",
+        "visual": null
+      },
+      {
+        "title": "Use inverse facts to calculate efficiently",
+        "explain": "A friendly multiplication can reveal a division without repeated subtraction. Think about the sizes of the groups.",
+        "example": "Find 240 ÷ 20.",
+        "steps": [
+          "12 × 2 = 24, so 12 × 20 = 240.",
+          "Therefore 240 ÷ 20 = 12.",
+          "Check by recombining twelve groups of twenty."
+        ],
+        "watch": "Do not change the total while switching between related facts.",
+        "tryit": "Use 14 × 6 = 84 to find 84 ÷ 14.",
+        "answer": "6, because fourteen groups of six make 84.",
+        "visual": null
+      },
+      {
+        "title": "Explain halving and the zero boundary",
+        "explain": "Halving twice divides into four equal parts. Multiplication checks the shared result. Zero cannot be a divisor.",
+        "example": "Find 68 ÷ 4 by halving.",
+        "steps": [
+          "Half of 68 is 34; half of 34 is 17.",
+          "Four seventeens make 68, so the answer is 17.",
+          "0 × 5 = 0 connects to 0 ÷ 5 = 0, but not to 0 ÷ 0."
+        ],
+        "watch": "Dividing by zero is undefined; do not manufacture a four-equation family with zero.",
+        "tryit": "Use halving twice to find 92 ÷ 4.",
+        "answer": "46, then 23. Check 4 × 23 = 92.",
+        "visual": null
+      }
+    ]
+  },
+  "AC9M5A02": {
+    "title": "Unknown values in multiplication and division",
+    "lead": "Identify the missing quantity and use inverse operations and number properties to keep equations balanced.",
+    "before": "Know multiplication/division facts and that an equals sign means “has the same value”.",
+    "focuses": [
+      {
+        "title": "Identify what the missing number represents",
+        "explain": "An unknown can be a factor, a total or a divisor. Its position determines the related calculation.",
+        "example": "Find the blank in 72 ÷ □ = 8.",
+        "steps": [
+          "The blank is the group size when eight groups make 72.",
+          "Use 8 × □ = 72, giving □ = 9.",
+          "Substitute: 72 ÷ 9 = 8."
+        ],
+        "watch": "72 ÷ □ = 8 and □ ÷ 8 = 72 are different equations.",
+        "tryit": "Find □ in □ × 7 = 91.",
+        "answer": "13; 13 × 7 = 91.",
+        "visual": null
+      },
+      {
+        "title": "Use equality as a balance",
+        "explain": "Both sides of an equation can contain calculations. Find a value that makes both sides equal rather than treating the equals sign as “write the answer next”.",
+        "example": "Solve 4 × 6 = 48 ÷ □.",
+        "steps": [
+          "The left side is 24.",
+          "48 ÷ 2 = 24, so the blank is 2.",
+          "Check the original equation: both sides have value 24."
+        ],
+        "watch": "Scaling dividend and divisor together preserves a quotient: 15 ÷ 3 = 30 ÷ 6.",
+        "tryit": "Solve 5 × 4 = □ × 2.",
+        "answer": "10, because 5 × 4 = 20 and 10 × 2 = 20.",
+        "visual": null
+      },
+      {
+        "title": "Use order and grouping carefully",
+        "explain": "Multiplication permits swapping factors and regrouping them. Division does not generally permit the same changes.",
+        "example": "Explain 3 × 8 = 6 × 4.",
+        "steps": [
+          "Replace 8 by 2 × 4.",
+          "3 × (2 × 4) = (3 × 2) × 4 = 6 × 4.",
+          "Compare division: (24 ÷ 6) ÷ 2 = 2, but 24 ÷ (6 ÷ 2) = 8. The grouping matters."
+        ],
+        "watch": "The multiplication properties are not permission to swap or regroup division at will.",
+        "tryit": "Complete 5 × 12 = 10 × □.",
+        "answer": "6: split 12 into 2 × 6 and regroup 5 × 2.",
+        "visual": null
+      },
+      {
+        "title": "Distribute over parts and check the unknown",
+        "explain": "A partitioned array lets you multiply each part and combine the products. This explains the distributive property.",
+        "example": "Solve 7 × 14 = 7 × 10 + 7 × □.",
+        "steps": [
+          "Split 14 into 10 + 4.",
+          "7 × 14 = 70 + 28, so the blank is 4.",
+          "Both sides equal 98."
+        ],
+        "watch": "Every part must be multiplied: 7 × (10 + 4) is not 70 + 4.",
+        "tryit": "Find □ in 6 × 18 = 6 × 20 − 6 × □.",
+        "answer": "2, because 18 = 20 − 2; both sides equal 108.",
+        "visual": null
+      }
+    ]
+  },
+  "AC9M5M01": {
+    "title": "Choosing metric units and measuring accurately",
+    "lead": "Choose a suitable unit and instrument, then use smaller units when the measurement needs finer detail.",
+    "before": "Recognise metres, centimetres, millimetres, grams, kilograms, litres and millilitres.",
+    "focuses": [
+      {
+        "title": "Match the attribute and the scale of the object",
+        "explain": "Length measures distance, mass measures how much matter and capacity measures how much a container can hold. Choose a unit that makes the result useful.",
+        "example": "Choose units for a pencil, a schoolbag and a drink bottle.",
+        "steps": [
+          "Centimetres or millimetres suit the pencil’s length.",
+          "Kilograms suit the loaded bag’s mass; millilitres suit a small bottle’s capacity.",
+          "For length: kilometre > metre > centimetre > millimetre."
+        ],
+        "watch": "Amount currently in a container is not necessarily its full capacity.",
+        "tryit": "Which unit suits the distance between towns: millimetres or kilometres?",
+        "answer": "Kilometres; they suit the large distance.",
+        "visual": null
+      },
+      {
+        "title": "Read intervals and align the instrument",
+        "explain": "Check the labelled unit and the size of each interval. Align a ruler’s zero with the start, or subtract the two endpoint readings.",
+        "example": "An object starts at 2 cm and ends at 8.4 cm on a ruler.",
+        "steps": [
+          "Its length is the difference, not the final reading.",
+          "8.4 − 2 = 6.4 cm.",
+          "Read a scale with 10 equal intervals between 100 g and 200 g as 10 g per interval."
+        ],
+        "watch": "The physical edge of the ruler may not be its zero mark.",
+        "tryit": "What is the length from 3 cm to 9.7 cm?",
+        "answer": "6.7 cm, the difference between the endpoints.",
+        "visual": null
+      },
+      {
+        "title": "Combine units to show finer detail",
+        "explain": "A metre contains 100 centimetres; a centimetre contains 10 millimetres. One kilogram is 1 000 grams and one litre is 1 000 millilitres.",
+        "example": "Record a jump of 2 m and 37 cm.",
+        "steps": [
+          "The two complete metres are 200 cm.",
+          "200 cm + 37 cm = 237 cm, or 2.37 m.",
+          "A mass of 1 kg 80 g similarly means 1 080 g, not 180 g."
+        ],
+        "watch": "Mixed units cannot simply be joined as digit strings.",
+        "tryit": "Write 1 L 250 mL in millilitres.",
+        "answer": "1 250 mL.",
+        "visual": null
+      },
+      {
+        "title": "Measure, compare and explain the needed accuracy",
+        "explain": "Use a tool whose graduations suit the job, and repeat a careful measurement. Smaller units can record finer detail; they do not fix poor technique.",
+        "example": "Measure a book’s width to decide whether it fits a shelf space.",
+        "steps": [
+          "Estimate its width, then align a ruler correctly.",
+          "Read centimetres and remaining millimetres, keeping your viewing angle consistent.",
+          "Compare with the actual shelf gap, leaving any required clearance."
+        ],
+        "watch": "Writing extra decimal digits does not create a more accurate observation.",
+        "tryit": "Why might millimetres be useful for a 1 cm-wide shelf clearance?",
+        "answer": "They show small differences that whole-centimetre readings can miss; careful alignment is still necessary.",
+        "visual": null
+      }
+    ]
+  },
+  "AC9M5M02": {
+    "title": "Perimeter and area of regular and irregular shapes",
+    "lead": "Trace the boundary for perimeter and cover the region for area, using the right units.",
+    "before": "Measure lengths and count equal square units; know rows and columns.",
+    "focuses": [
+      {
+        "title": "Trace every outside edge",
+        "explain": "Perimeter is the total distance around a boundary, including inward turns in an irregular outline. Internal dividing lines are not part of the outside perimeter.",
+        "example": "Find the perimeter of a 7 m by 4 m rectangular garden.",
+        "steps": [
+          "Trace 7 + 4 + 7 + 4 = 22 m.",
+          "Equivalently, double one length plus one width: 2 × (7 + 4) = 22.",
+          "A regular polygon has equal sides and equal angles; a rectangle need not be regular."
+        ],
+        "watch": "Perimeter uses length units such as metres, not square metres.",
+        "tryit": "What is the perimeter of a 6 cm by 3 cm rectangle?",
+        "answer": "18 cm: 6 + 3 + 6 + 3.",
+        "visual": null
+      },
+      {
+        "title": "Cover the inside with square units",
+        "explain": "Area measures how much surface is covered. Count equal squares without gaps or overlaps. Rows and columns make counting efficient.",
+        "example": "Cover a 7 m by 4 m rectangular floor.",
+        "steps": [
+          "Imagine four rows, each containing seven 1 m² tiles.",
+          "There are 4 × 7 = 28 square metres.",
+          "The 22 m boundary and 28 m² region are different kinds of measure."
+        ],
+        "watch": "A bare comparison such as “28 is bigger than 22” does not compare area and perimeter as the same quantity.",
+        "tryit": "How many 1 cm² squares cover a 6 cm by 3 cm rectangle?",
+        "answer": "18 squares, so 18 cm².",
+        "visual": null
+      },
+      {
+        "title": "Split an irregular region or count grid cells",
+        "explain": "Decompose a shape into non-overlapping parts, or complete a rectangle and remove a missing region. Count partial squares to estimate curved boundaries.",
+        "example": "Find the area of a 6 m by 4 m rectangle with a 2 m by 1 m corner removed.",
+        "steps": [
+          "The complete rectangle contains 24 m².",
+          "The missing corner contains 2 m².",
+          "The remaining area is 24 − 2 = 22 m²."
+        ],
+        "watch": "Do not count a region twice, and do not assume a dotted partition is a hole.",
+        "tryit": "What remains if a 3 m by 2 m corner is removed from an 8 m by 5 m rectangle?",
+        "answer": "40 − 6 = 34 m².",
+        "visual": "irregular-area"
+      },
+      {
+        "title": "Compare designs for a practical purpose",
+        "explain": "The same perimeter can enclose different areas. State whether you are buying boundary material or covering a surface.",
+        "example": "Compare 7 m × 4 m and 6 m × 5 m garden beds.",
+        "steps": [
+          "Both perimeters are 22 m.",
+          "Their areas are 28 m² and 30 m².",
+          "The second provides 2 m² more planting space with the same boundary length. A real design must also allow paths."
+        ],
+        "watch": "Equal perimeter does not imply equal area.",
+        "tryit": "Two 1 m² squares touch along one full side. Find the combined area and perimeter.",
+        "answer": "Area 2 m²; perimeter 6 m. The shared side is internal.",
+        "visual": null
+      }
+    ]
+  },
+  "AC9M5M03": {
+    "title": "12-hour and 24-hour time",
+    "lead": "Connect clock faces, AM/PM times and 24-hour timetables, including noon and midnight.",
+    "before": "Read an analogue clock and know that one hour contains 60 minutes.",
+    "focuses": [
+      {
+        "title": "Match the same time in two systems",
+        "explain": "The 12-hour clock repeats twice each day. The 24-hour clock numbers the hours from 00 to 23. Minutes keep the same meaning.",
+        "example": "Match 16:30 to a 12-hour time and clock face.",
+        "steps": [
+          "16 − 12 = 4, so 16:30 is 4:30 PM.",
+          "The minute hand is at 6 and the hour hand is halfway between 4 and 5.",
+          "The same face could show 4:30 AM; the day period distinguishes them."
+        ],
+        "watch": "The hour hand moves continuously; at half past it is not exactly on the hour numeral.",
+        "tryit": "Write 08:15 in 12-hour time.",
+        "answer": "8:15 AM.",
+        "visual": "clock"
+      },
+      {
+        "title": "Convert in both directions",
+        "explain": "For PM hours 1 to 11, add 12 to get 24-hour time. For AM hours 1 to 11, keep the hour and use a leading zero when needed.",
+        "example": "Convert 7:45 PM and 21:05.",
+        "steps": [
+          "7:45 PM → 19:45, because 7 + 12 = 19.",
+          "21:05 → 9:05 PM, because 21 − 12 = 9."
+        ],
+        "watch": "Add or subtract 12 hours, not 12 minutes; minutes are not decimal fractions of an hour.",
+        "tryit": "Convert 6:08 PM to 24-hour time.",
+        "answer": "18:08.",
+        "visual": null
+      },
+      {
+        "title": "Handle noon and midnight explicitly",
+        "explain": "Noon is 12:00 PM or 12:00. Midnight at the start of a stated day is 12:00 AM or 00:00. These are exceptions to a simple “add 12” rule.",
+        "example": "Convert 12:20 AM and 12:20 PM.",
+        "steps": [
+          "12:20 AM is twenty minutes after midnight: 00:20.",
+          "12:20 PM is twenty minutes after noon: 12:20."
+        ],
+        "watch": "12 AM is midnight; 12 PM is noon. State the day when a journey crosses midnight.",
+        "tryit": "What is 00:35 in 12-hour time?",
+        "answer": "12:35 AM.",
+        "visual": null
+      },
+      {
+        "title": "Use a timetable and check the date",
+        "explain": "Read the correct service and day, then convert as needed. A clock time is a position in the day; duration is the time between positions.",
+        "example": "A bus leaves Monday at 23:40 and arrives Tuesday at 00:15.",
+        "steps": [
+          "Departure is 11:40 PM Monday; arrival is 12:15 AM Tuesday.",
+          "There are 20 minutes to midnight and 15 more to arrival.",
+          "The journey lasts 35 minutes."
+        ],
+        "watch": "Subtracting the displayed hours without the day change can produce a meaningless negative duration.",
+        "tryit": "A service leaves at 13:25 and arrives at 14:05 on the same day. How long?",
+        "answer": "40 minutes: 35 minutes to 14:00 and 5 more.",
+        "visual": null
+      }
+    ]
+  },
+  "AC9M5M04": {
+    "title": "Estimating, measuring and constructing angles",
+    "lead": "Use turn benchmarks, align a protractor and construct a requested angle with a ruler.",
+    "before": "Recognise quarter, half and full turns and a common vertex.",
+    "focuses": [
+      {
+        "title": "Connect angle names with degree measures",
+        "explain": "An angle measures a turn between rays meeting at a vertex. A right angle is 90°, a straight angle 180° and a full turn 360°.",
+        "example": "Classify 40°, 125° and 240°.",
+        "steps": [
+          "40° is acute: greater than 0° and less than 90°.",
+          "125° is obtuse: greater than 90° and less than 180°.",
+          "240° is reflex: greater than 180° and less than 360°."
+        ],
+        "watch": "A straight angle and a full turn are not reflex angles. Longer rays do not make a wider angle.",
+        "tryit": "Classify 90° and 180°.",
+        "answer": "Right angle and straight angle, respectively.",
+        "visual": "angle"
+      },
+      {
+        "title": "Estimate against familiar turns",
+        "explain": "Compare the marked opening with a right angle or half turn before measuring. State whether you mean the smaller or the reflex opening.",
+        "example": "Estimate an opening halfway between a right and a straight angle.",
+        "steps": [
+          "90° is a quarter turn and 180° is a half turn.",
+          "Halfway is about 135°, an obtuse angle.",
+          "A quarter-turn is not an estimate for an opening visibly wider than a right angle."
+        ],
+        "watch": "An estimate is approximate; a rough picture alone does not establish an exact measure.",
+        "tryit": "A turn is three right angles. How many degrees is it?",
+        "answer": "270°, a three-quarter turn and a reflex angle.",
+        "visual": null
+      },
+      {
+        "title": "Measure from the correct zero",
+        "explain": "Put the protractor centre on the vertex and its baseline on the starting ray. Follow the scale beginning at zero on that ray.",
+        "example": "One ray follows the right-hand zero; the other crosses the 50°/130° pair.",
+        "steps": [
+          "Start at the right-hand zero and follow that scale.",
+          "It reads 50°, agreeing with an acute opening.",
+          "130° belongs to the opposite scale and would describe an obtuse opening."
+        ],
+        "watch": "Do not always use the inside scale; the starting ray determines the scale.",
+        "tryit": "Which reading fits a marked obtuse opening at a 40°/140° pair?",
+        "answer": "140°; verify that this is the scale beginning at the aligned zero.",
+        "visual": "protractor"
+      },
+      {
+        "title": "Construct, then check the intended angle",
+        "explain": "A construction needs a chosen vertex, a starting ray, a correctly aligned tool and a second ray drawn through the degree mark.",
+        "example": "Construct a 60° angle on paper.",
+        "steps": [
+          "Draw ray AB with a ruler; A is the vertex.",
+          "Centre the protractor at A, align its zero with AB and mark 60° on that scale.",
+          "Remove the tool and draw a ray from A through the mark. Label the 60° opening and remeasure.",
+          "For a reflex 240° angle, construct the smaller 120° opening and mark the outside turn: 360° − 120° = 240°."
+        ],
+        "watch": "A label alone is not a construction. Changing the starting direction is fine if the requested angle size remains correct.",
+        "tryit": "Construct and check 110° on paper.",
+        "answer": "The two rays share a vertex and the marked obtuse opening measures 110° with your aligned protractor.",
+        "visual": null
+      }
+    ]
+  },
+  "AC9M5SP01": {
+    "title": "Nets and 3D objects",
+    "lead": "Connect faces to an object, predict folds and build a net that closes correctly.",
+    "before": "Recognise faces, edges, vertices, prisms and pyramids.",
+    "focuses": [
+      {
+        "title": "Connect each face to the object",
+        "explain": "A net is a connected flat arrangement of faces that folds into a three-dimensional object. Count hidden faces too.",
+        "example": "Compare a triangular prism and a square pyramid.",
+        "steps": [
+          "A right triangular prism has two matching triangular ends and three rectangular side faces.",
+          "A square pyramid has one square base and four triangles meeting at an apex.",
+          "The base is one of the faces, not an additional component."
+        ],
+        "watch": "Having the correct number of faces is necessary but does not prove that an arrangement will fold.",
+        "tryit": "What faces does a cube need?",
+        "answer": "Six equal squares.",
+        "visual": null
+      },
+      {
+        "title": "Track folds and opposite faces",
+        "explain": "Faces fold along shared edges. Imagine one face as the base, then lift neighbouring faces one at a time and check for overlap.",
+        "example": "Fold the labelled cube cross shown.",
+        "steps": [
+          "Use B as a base. Its neighbours A, C, E and F become four side faces.",
+          "D folds over to close the remaining face opposite B.",
+          "Opposite pairs are A–C, B–D and E–F. Six squares in one straight row cannot close a cube."
+        ],
+        "watch": "Faces touching only at a point do not provide an edge to fold along.",
+        "tryit": "In this cross, which face is opposite E?",
+        "answer": "F; they fold from opposite sides of B.",
+        "visual": "cube-net"
+      },
+      {
+        "title": "Sketch, cut, fold and test",
+        "explain": "Use compatible edge lengths. Distinguish the outside cut boundary from internal fold lines. Joining tabs help assembly but are not extra faces.",
+        "example": "Build a cube from the cross net.",
+        "steps": [
+          "Choose a square side length, such as 3 cm, and draw all six squares to that size.",
+          "Add small joining tabs where needed, cut the outside boundary and score or crease the shared edges.",
+          "Fold, join and check that every edge closes without overlap or gaps; revise the drawing if it fails."
+        ],
+        "watch": "An adult can help with safe cutting while the learner makes the spatial decisions.",
+        "tryit": "How would you check a proposed net before adding glue?",
+        "answer": "Fold it dry, match the free edges and check that every required face is present and closes correctly.",
+        "visual": null
+      },
+      {
+        "title": "Design packaging for a purpose",
+        "explain": "A useful package must fit its contents and have a workable way to open and join. Label the dimensions before constructing it.",
+        "example": "Plan a rectangular box for an item 6 cm long, 4 cm wide and 2 cm high.",
+        "steps": [
+          "Use two 6 × 4 faces, two 6 × 2 faces and two 4 × 2 faces as the minimum mathematical face sizes.",
+          "Arrange a connected net with matching shared edges; allow practical clearance for the item and material thickness.",
+          "Make a paper trial and decide which face becomes the lid."
+        ],
+        "watch": "A face list is not a finished net; test the arrangement and opening.",
+        "tryit": "What must change if a cardboard trial is too tight?",
+        "answer": "Increase the relevant inside dimensions or clearance and revise the matching faces and edges together.",
+        "visual": null
+      }
+    ]
+  },
+  "AC9M5SP02": {
+    "title": "Grid coordinates and movement",
+    "lead": "Construct numbered axes, locate exact intersections and describe a route from a stated start.",
+    "before": "Read equal number-line intervals and distinguish horizontal from vertical.",
+    "focuses": [
+      {
+        "title": "Construct the coordinate system",
+        "explain": "Draw two perpendicular number lines meeting at zero. Number equal intervals on the lines, not the spaces. The shared zero is the origin.",
+        "example": "Make a grid from 0 to 6 on each axis.",
+        "steps": [
+          "Draw a horizontal axis and a vertical axis with a shared zero.",
+          "Mark each unit the same distance apart along its axis, then extend the grid lines.",
+          "A cell reference names an area; a coordinate pair names an exact intersection."
+        ],
+        "watch": "Letter/number cell references and ordered coordinates are different locating systems.",
+        "tryit": "Where is the origin?",
+        "answer": "At the shared zero: (0, 0).",
+        "visual": null
+      },
+      {
+        "title": "Read and plot the horizontal value first",
+        "explain": "Write an ordered pair in brackets with a comma. Move along the horizontal axis first, then vertically.",
+        "example": "Plot P(2, 4) and Q(4, 2).",
+        "steps": [
+          "P is two units right and four up from the origin.",
+          "Q is four right and two up.",
+          "The points differ even though they use the same two numbers."
+        ],
+        "watch": "(5, 0) lies on the horizontal axis; (0, 3) lies on the vertical axis.",
+        "tryit": "Which labelled point is two units up and four units right?",
+        "answer": "Q(4, 2), because horizontal is written first.",
+        "visual": "coordinate-grid"
+      },
+      {
+        "title": "Describe a route from its current position",
+        "explain": "Name the start, grid units and direction. Each instruction acts on the latest point.",
+        "example": "Start at (2, 1), move three units right, then two up.",
+        "steps": [
+          "Three right changes the horizontal coordinate to 5: (5, 1).",
+          "Two up changes the vertical coordinate to 3: (5, 3).",
+          "To return, reverse the order and directions: two down, then three left."
+        ],
+        "watch": "Count spaces between lines, not the number of lines crossed including the start.",
+        "tryit": "Start at (5, 4), move two left and three down. Where do you finish?",
+        "answer": "(3, 1).",
+        "visual": null
+      },
+      {
+        "title": "Communicate and check a drawing",
+        "explain": "List vertices in the order they should be joined. A partner needs the same axes, scale and join instructions to reproduce the shape.",
+        "example": "Re-create A(1, 1), B(4, 1), C(4, 3), D(1, 3), joining A–B–C–D–A.",
+        "steps": [
+          "Plot each exact intersection and label it.",
+          "Join in the stated order to form a rectangle three units wide and two high.",
+          "Compare with a partner’s drawing and use the coordinates to locate any disagreement."
+        ],
+        "watch": "A correct list without joining instructions may not determine the intended picture.",
+        "tryit": "How would moving every vertex one unit up change this rectangle?",
+        "answer": "Its vertical coordinates all increase by one; its width and height remain the same.",
+        "visual": null
+      }
+    ]
+  },
+  "AC9M5SP03": {
+    "title": "Translations, reflections and rotations",
+    "lead": "Perform and describe shape movements, then test what stays the same and whether the shape has symmetry.",
+    "before": "Recognise a shape’s vertices, equal lengths and quarter/half turns.",
+    "focuses": [
+      {
+        "title": "Translate every point by the same move",
+        "explain": "A translation slides a shape without turning or flipping it. Every point moves the same distance in the same direction.",
+        "example": "Move a triangle three grid units right.",
+        "steps": [
+          "Choose a vertex and count three equal spaces right.",
+          "Move each remaining vertex three spaces right, then join corresponding vertices.",
+          "Lengths, angles, size and orientation stay the same; position changes."
+        ],
+        "watch": "Moving different vertices by different amounts distorts the shape instead of translating it.",
+        "tryit": "A shape moves two units up. What happens to its side lengths?",
+        "answer": "They stay unchanged. Every vertex moves the same two-unit displacement.",
+        "visual": null
+      },
+      {
+        "title": "Reflect across a stated mirror line",
+        "explain": "A reflection flips a shape. Corresponding points lie on opposite sides of the mirror line at equal perpendicular distances.",
+        "example": "Reflect the triangle in the vertical dashed line.",
+        "steps": [
+          "For each vertex, count its horizontal distance to this vertical mirror line.",
+          "Mark a point the same distance across the line at the same height.",
+          "Join the new vertices. The shape is the same size but its orientation is reversed."
+        ],
+        "watch": "The nearest edge of the drawing is not automatically the mirror line; use the stated line.",
+        "tryit": "What happens to a vertex exactly on the mirror line?",
+        "answer": "It stays in the same position.",
+        "visual": "reflection"
+      },
+      {
+        "title": "Rotate about a stated centre",
+        "explain": "A rotation turns every point around the same centre by a stated amount and direction. Distances from the centre stay fixed.",
+        "example": "Turn a paper arrow a quarter-turn clockwise about its tail.",
+        "steps": [
+          "Pin or mark the tail as the centre.",
+          "Rotate through 90° clockwise; an arrow initially pointing up now points right.",
+          "Keep the centre fixed and trace the image. A further clockwise quarter-turn points down."
+        ],
+        "watch": "“Rotate 90°” is incomplete if the centre or direction is missing.",
+        "tryit": "An up-pointing arrow makes a half-turn about its tail. Which way does it point?",
+        "answer": "Down. A half-turn is 180° in either direction.",
+        "visual": null
+      },
+      {
+        "title": "Compare sequences and test symmetries",
+        "explain": "A symmetry maps a shape exactly onto itself. Reflection symmetry uses a mirror line; rotational symmetry uses a turn smaller than 360°.",
+        "example": "Test a non-square rectangle.",
+        "steps": [
+          "It has two mirror lines through the midpoints of opposite sides.",
+          "A 180° turn about its centre matches it to itself; a 90° turn does not.",
+          "Two successive half-turns about the same centre return any shape to its start, as do two reflections in the same line. Use tracing or geometry software to test."
+        ],
+        "watch": "A transformation and a symmetry are different ideas: a move may produce a new position without matching the original.",
+        "tryit": "How many mirror lines does an unmarked square have?",
+        "answer": "Four: two through opposite side midpoints and two diagonals. It also matches after 90°, 180° and 270° centre turns.",
+        "visual": null
+      }
+    ]
+  },
+  "AC9M5ST01": {
+    "title": "Collecting, displaying and describing data",
+    "lead": "Choose a variable, check the records and use tables or graphs to explain the distribution.",
+    "before": "Read a tally, a labelled scale and a simple column graph.",
+    "focuses": [
+      {
+        "title": "Identify what kind of data is needed",
+        "explain": "A variable is the feature recorded. Nominal categories have no natural order; ordinal categories do; discrete numerical data counts things.",
+        "example": "Classify a travel survey.",
+        "steps": [
+          "Travel mode (walk, bus, car) is nominal categorical.",
+          "Satisfaction (poor, fair, good) is ordinal categorical. Ratings 1–5 can label ordered categories too.",
+          "Number of journeys is discrete numerical: it counts whole journeys."
+        ],
+        "watch": "Number labels do not automatically turn a rating category into a measured quantity.",
+        "tryit": "Is the number of pets nominal categorical or discrete numerical?",
+        "answer": "Discrete numerical; it counts pets.",
+        "visual": null
+      },
+      {
+        "title": "Collect and validate the records",
+        "explain": "Use consistent categories and one record per intended observation. Check missing values, impossible counts and accidental duplicate entries.",
+        "example": "Validate a spreadsheet column for number of pets.",
+        "steps": [
+          "Accept nonnegative whole numbers such as 0, 1 and 2.",
+          "Check an entry of −2 or 1.5 against the original response instead of silently using it.",
+          "Keep the column in a number format; use an agreed category for missing responses rather than treating them as zero."
+        ],
+        "watch": "Two people may genuinely give the same answer; equal values are not automatically duplicate records.",
+        "tryit": "A blank response is entered as zero pets. Why check it?",
+        "answer": "Blank means not recorded; zero states that the person has no pets.",
+        "visual": null
+      },
+      {
+        "title": "Create a frequency table and suitable graph",
+        "explain": "Frequency counts how often a value occurs. A column graph displays category or count frequencies with a consistent scale.",
+        "example": "Display these illustrative pet-count records: 0, 1, 1, 2, 2, 2, 3, 4.",
+        "steps": [
+          "Tally the values: 0→1, 1→2, 2→3, 3→1, 4→1. Frequencies total 8.",
+          "Enter values in spreadsheet column A and frequencies in B; select both columns and insert a column chart.",
+          "Label the axes “Number of pets” and “Number of respondents”; use a zero-based frequency scale."
+        ],
+        "watch": "Do not graph the list positions as though they were the pet values.",
+        "tryit": "What height should the bar for two pets have?",
+        "answer": "3 respondents.",
+        "visual": "frequency-graph"
+      },
+      {
+        "title": "Describe mode and shape in context",
+        "explain": "The mode is the value or category with the highest frequency. For ordered numerical data, discuss where results cluster, spread and have gaps. Nominal category order cannot support a numerical shape claim.",
+        "example": "Describe these illustrative pet counts: 0, 1, 1, 2, 2, 2, 3, 4.",
+        "steps": [
+          "Two pets is the mode, occurring three times. Four is the largest count but not the mode.",
+          "Most responses are one or two pets; counts run from zero to four, with fewer at the high end.",
+          "In 1, 1, 2, 3, 3 there are two modes: 1 and 3."
+        ],
+        "watch": "The highest frequency is a count; the mode is the value or category having that frequency.",
+        "tryit": "For 0, 1, 1, 2, 4, 4, name all modes.",
+        "answer": "1 and 4; each occurs twice.",
+        "visual": null
+      }
+    ]
+  },
+  "AC9M5ST02": {
+    "title": "Interpreting line graphs",
+    "lead": "Read time and value scales, compare changes and distinguish observations from estimates and predictions.",
+    "before": "Read labelled axes and subtract to compare measurements.",
+    "focuses": [
+      {
+        "title": "Read the axes, units and plotted values",
+        "explain": "A line graph connects measurements over time. Identify the time unit, quantity unit and intervals before reading a point.",
+        "example": "Read the illustrative tank-volume graph.",
+        "steps": [
+          "The horizontal axis is time in hours; the vertical axis is volume in litres.",
+          "At 0, 1, 2, 3 and 4 hours the plotted volumes are 10, 14, 14, 8 and 12 litres.",
+          "The line passes through each labelled observation."
+        ],
+        "watch": "The graph’s height represents the quantity, not elapsed time.",
+        "tryit": "What volume was recorded at 2 hours?",
+        "answer": "14 litres.",
+        "visual": "line-graph"
+      },
+      {
+        "title": "Compare changes over equal periods",
+        "explain": "Rising sections show increases, falling sections decreases and horizontal sections no change. Compare numerical changes over equal time intervals.",
+        "example": "Compare the first three one-hour intervals.",
+        "steps": [
+          "From hour 0 to 1, volume increases by 4 L.",
+          "From 1 to 2, it stays at 14 L.",
+          "From 2 to 3, it decreases by 6 L: the largest change in magnitude among these intervals."
+        ],
+        "watch": "A steep-looking line can mislead if axes or time intervals differ; check both scales.",
+        "tryit": "How much does the volume increase from hour 3 to 4?",
+        "answer": "4 L: 12 − 8.",
+        "visual": "line-graph"
+      },
+      {
+        "title": "Estimate between observations carefully",
+        "explain": "A point on a connecting segment can give an estimate between recorded times. The actual quantity may have changed differently between observations.",
+        "example": "Estimate the volume at 3.5 hours.",
+        "steps": [
+          "The segment rises from 8 L at hour 3 to 12 L at hour 4.",
+          "Halfway on this straight segment is about 10 L.",
+          "This is an estimate, not an additional measured observation."
+        ],
+        "watch": "A line does not guarantee that real change was constant between the recorded points.",
+        "tryit": "Was 10 L at 3.5 hours directly measured in the example?",
+        "answer": "No; only whole-hour values were supplied.",
+        "visual": null
+      },
+      {
+        "title": "Match stories and limit conclusions",
+        "explain": "Use a graph’s pattern to support a story, then check whether the labels and context allow the conclusion.",
+        "example": "What could explain the tank graph?",
+        "steps": [
+          "An increase could show filling; a level section could show no net change; a decrease could show water leaving.",
+          "These are plausible explanations, not proven causes.",
+          "The graph stops at 4 hours and does not determine the volume at 10 hours. Predictions from past trends can fail if conditions change."
+        ],
+        "watch": "A larger final value does not mean the quantity increased throughout.",
+        "tryit": "Can you conclude the tank was always filling from hour 0 to 4?",
+        "answer": "No. The graph has a constant section and a falling section.",
+        "visual": "line-graph"
+      }
+    ]
+  },
+  "AC9M5ST03": {
+    "title": "Planning a statistical investigation",
+    "lead": "Ask a useful question, collect relevant data, choose a display and communicate a conclusion with limits.",
+    "before": "Sort categories, tally counts and interpret a labelled graph.",
+    "focuses": [
+      {
+        "title": "Pose a question and define the group",
+        "explain": "A statistical question anticipates variation. Decide whose answers or which observations are relevant and what each record will mean.",
+        "example": "Investigate preferred lunchtime activities in one class.",
+        "steps": [
+          "Ask “Which activity would you most like offered at lunch?”",
+          "Define the target as this class and one response per student.",
+          "Offer balanced options such as games, reading, drawing, sport and another activity."
+        ],
+        "watch": "“Don’t you agree sport is best?” leads respondents and does not give a balanced choice.",
+        "tryit": "Why define the group before collecting responses?",
+        "answer": "It determines who should be included and how far the conclusion can apply.",
+        "visual": null
+      },
+      {
+        "title": "Plan and collect consistently",
+        "explain": "Choose a survey, observation or experiment suited to the question. Set a recording rule, gather the data and check the total.",
+        "example": "Conduct the class activity survey.",
+        "steps": [
+          "Ask the same neutral question and offer the same choices to each participant.",
+          "Record one choice per person; allow “no preference” or nonresponse to be recorded clearly.",
+          "Check that frequency totals match the valid response count. Do not invent missing responses."
+        ],
+        "watch": "A worked example table is not evidence that you conducted the investigation.",
+        "tryit": "Carry out a small survey with an agreed group. What should your record include?",
+        "answer": "The question, group, date, method, actual responses, category definitions and any missing responses.",
+        "visual": null
+      },
+      {
+        "title": "Choose a display that answers the question",
+        "explain": "A frequency table or column graph compares category counts. A line graph suits measured change over time, not unordered favourite activities.",
+        "example": "Display illustrative results: games 7, reading 4, drawing 5 and sport 8.",
+        "steps": [
+          "The 24 responses can be organised in a frequency table.",
+          "Draw four separated equal-width bars with a consistent scale, title and category/count axis labels.",
+          "Sport has the most responses, but 16 respondents chose something else."
+        ],
+        "watch": "The most frequent choice does not necessarily have more than half of the responses.",
+        "tryit": "Does sport have a majority of these 24 responses?",
+        "answer": "No. Eight is the largest category, but it is less than half of 24.",
+        "visual": null
+      },
+      {
+        "title": "Interpret, communicate and improve",
+        "explain": "Answer the original question using actual evidence. State limitations and a sensible next action; do not generalise beyond the group studied.",
+        "example": "Report the illustrative survey.",
+        "steps": [
+          "“Sport was the most selected option in this class: 8 of 24 responses.”",
+          "“Other classes may prefer different activities; absent students were not represented.”",
+          "To plan for the whole school, gather broader, relevant responses before deciding."
+        ],
+        "watch": "A graph alone is not a complete conclusion; explain its meaning in the investigation.",
+        "tryit": "What would you change if many students selected “another activity”?",
+        "answer": "Ask a follow-up neutral question to identify those activities, then revise categories and gather suitable evidence.",
+        "visual": null
+      }
+    ]
+  },
+  "AC9M5P01": {
+    "title": "Equally and unequally likely outcomes",
+    "lead": "List possible results systematically and use the chance setup to judge whether the results are equally likely.",
+    "before": "Know a coin, die, spinner and drawing from a mixed collection.",
+    "focuses": [
+      {
+        "title": "Define what counts as an outcome",
+        "explain": "An outcome is one possible recorded result. The same experiment can have different outcome lists depending on what is recorded.",
+        "example": "Draw one card from a well-shuffled standard 52-card deck.",
+        "steps": [
+          "Recording the exact card gives 52 possible outcomes.",
+          "Recording the suit gives four outcomes; recording its colour gives red or black.",
+          "These outcome descriptions answer different questions about the same draw."
+        ],
+        "watch": "Do not mix exact cards and colours in one inconsistent outcome list.",
+        "tryit": "List the outcomes when recording a fair six-sided die’s top number.",
+        "answer": "1, 2, 3, 4, 5 and 6, each listed once.",
+        "visual": null
+      },
+      {
+        "title": "Explain an equal-chance setup",
+        "explain": "Equally likely means each specified outcome has the same chance. Justify it from the physical setup or stated fair model.",
+        "example": "Draw one of five different names from a hat.",
+        "steps": [
+          "Use one same-sized folded slip per person and mix the slips thoroughly.",
+          "With no way to favour a slip, each person has the same chance.",
+          "Two slips for one person would change the name chances even if every slip is mixed fairly."
+        ],
+        "watch": "Possible does not mean equally likely. A random procedure can still produce unequal category chances.",
+        "tryit": "A fair coin has which equally likely face outcomes?",
+        "answer": "Heads and tails.",
+        "visual": null
+      },
+      {
+        "title": "Distinguish individual objects from colour outcomes",
+        "explain": "Individual matching counters can have equal chances while repeated colours have unequal chances. Spinner colour chances depend on the coloured shares of the whole.",
+        "example": "Draw from a bag containing three red and one blue matching counter.",
+        "steps": [
+          "There are four individual counters, with one blue opportunity and three red opportunities.",
+          "The possible colour results are red and blue, but red is more likely.",
+          "A fair spinner with four equal sectors, three red and one blue, models the same colour comparison."
+        ],
+        "watch": "Two colour names do not create equal chances.",
+        "tryit": "Four equal spinner sectors are red, red, blue and green. Which colour is most likely?",
+        "answer": "Red, because two of the four equal sectors are red.",
+        "visual": null
+      },
+      {
+        "title": "Judge fairness and keep evidence separate",
+        "explain": "A game is fair between players when their winning rules give equal chances under the stated setup. A small run of wins does not prove the setup is biased.",
+        "example": "On a fair die, one player wins on 1 or 2; another on 3, 4, 5 or 6.",
+        "steps": [
+          "The first player has two equally likely number outcomes.",
+          "The second has four, so the rules favour the second player.",
+          "Giving each player three different numbers would balance their chances."
+        ],
+        "watch": "Promotional collections or computer recommendations should not be assumed unbiased merely because several labels are possible; ask how selections are made.",
+        "tryit": "Player A wins on odd and player B on even. Is this fair on a fair six-sided die?",
+        "answer": "Yes: each has three equally likely number outcomes.",
+        "visual": null
+      }
+    ]
+  },
+  "AC9M5P02": {
+    "title": "Repeated chance experiments",
+    "lead": "Repeat a clear experiment, record every valid result and use frequencies to compare and estimate chances.",
+    "before": "List possible outcomes and distinguish a predicted chance from a recorded result.",
+    "focuses": [
+      {
+        "title": "Set a repeatable protocol and predict",
+        "explain": "A trial is one repetition. State what is recorded, how the setup stays consistent and how many trials you will perform.",
+        "example": "Plan draws from a bag with three red and one blue matching counter.",
+        "steps": [
+          "Predict red will occur more often because there are more red counters.",
+          "Draw without looking, record the colour, replace the counter and mix before the next draw.",
+          "Repeat 20 times and record every valid draw. Replacement keeps the same colour mix."
+        ],
+        "watch": "Without replacement, later draws use a changed collection; it is a different experiment.",
+        "tryit": "Why replace the counter after each draw in this plan?",
+        "answer": "To keep three red and one blue counter available on every trial.",
+        "visual": null
+      },
+      {
+        "title": "Conduct and record actual results",
+        "explain": "Use a tally as each trial happens. Convert tallies to frequencies and check that the total equals the number of valid trials.",
+        "example": "Read an illustrative 20-draw record: red 14, blue 6.",
+        "steps": [
+          "14 + 6 = 20, so the record accounts for all 20 draws.",
+          "Red occurred 14 out of 20 times; blue occurred 6 out of 20.",
+          "These are example data for learning. Your own actual 20 draws may differ."
+        ],
+        "watch": "Do not discard an unexpected result to make the table fit a prediction.",
+        "tryit": "Conduct your own 20 replacement draws. What must the two colour counts total?",
+        "answer": "20; keep and report the actual counts rather than copying the illustrative record.",
+        "visual": null
+      },
+      {
+        "title": "Use relative frequency to estimate likelihood",
+        "explain": "Relative frequency compares an outcome count with the total trial count. It allows comparison when experiment lengths differ.",
+        "example": "Compare red 14 out of 20 with red 32 out of 40.",
+        "steps": [
+          "14/20 = 7/10; 32/40 = 8/10.",
+          "The second record has a larger red proportion, even after accounting for its extra trials.",
+          "In a spreadsheet put counts 14 and 6 in B2:B3. =SUM(B2:B3) gives 20; =B2/SUM($B$2:$B$3) gives the red proportion."
+        ],
+        "watch": "A larger raw count alone does not establish a greater relative frequency.",
+        "tryit": "Which is the larger blue proportion: 5/20 or 8/40?",
+        "answer": "5/20 = 1/4 is larger than 8/40 = 1/5.",
+        "visual": null
+      },
+      {
+        "title": "Compare setups and discuss variation",
+        "explain": "Repeat both an equal-chance and an unequal-chance experiment. Compare their records with the physical setups and with other groups.",
+        "example": "Compare a fair die labelled 1–6 with a fair cube labelled 1, 1, 1, 2, 2, 3.",
+        "steps": [
+          "Each face is equally likely on either fair cube.",
+          "Number outcomes 1, 2 and 3 on the second cube are not equally likely: their face counts differ.",
+          "Roll each cube repeatedly, record number frequencies and compare. Larger trial totals can make proportions more informative but never guarantee exact expected counts."
+        ],
+        "watch": "A short-run difference can be chance variation; it does not alone prove cheating or predict the next result.",
+        "tryit": "Can ten fair coin tosses give seven heads?",
+        "answer": "Yes. Equal long-run chances do not force an exact five–five split in ten trials.",
+        "visual": null
+      }
+    ]
+  }
+}
