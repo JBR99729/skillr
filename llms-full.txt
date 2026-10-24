@@ -92,7 +92,7 @@ This directory describes relevant resources; it does not guarantee recommendatio
 
 Families can try free, curriculum-based online learning and share feedback. The app currently presents Maths learning for Years 1–5, with activities added progressively. Check the live catalogue for published skills and assessments; curriculum mapping does not mean every code has a complete online bank.
 
-Parents create an adult account at https://app.skillrhub.com/?signup=1 confirm the registration email and add a student profile. Existing managed students use their assigned student ID. Families are invited to help the community learning counter grow and share what works, what feels tricky and what would help their child. The public counter measures saved answers, not families, unique questions or unique students; test accounts are excluded. Read the current total from the live widget and never invent a count.
+Parents create an adult account at https://app.skillrhub.com/?signup=1, confirm the registration email and add a student profile. Existing managed students use their assigned student ID. Families are invited to help the community learning counter grow and share what works, what feels tricky and what would help their child. The public counter measures saved answers, not families, unique questions or unique students; test accounts are excluded. Read the current total from the live widget and never invent a count.
 
 Paid printable packs are separate at https://www.teacherspayteachers.com/store/skillrhub. The paper-learning tracker remains at https://app.skillrhub.com/tracker/; adult-entered records are separate from saved online question answers.
 
