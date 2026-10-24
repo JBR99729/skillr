@@ -1,7 +1,7 @@
 {
   "auditedAt": "2026-10-08",
   "storefront": "https://www.teacherspayteachers.com/store/skillrhub",
-  "activeProductCount": 234,
+  "activeProductCount": 262,
   "products": [
     {
       "productId": "17968146",
@@ -2663,6 +2663,134 @@
       "price": "7.50",
       "regularPrice": "7.50",
       "observedAt": "2026-10-21"
+    },
+    {
+      "productId": "18058457",
+      "title": "Kindergarten Add & Subtract Within 5 | K.OA.A.5 | 60 Practice + 15 Test",
+      "url": "https://www.teacherspayteachers.com/Product/Kindergarten-Add-Subtract-Within-5-KOAA5-60-Practice-15-Test-18058457",
+      "isBundle": false,
+      "free": false,
+      "linkSource": "Owner supplied, 24 October 2026"
+    },
+    {
+      "productId": "18060238",
+      "title": "Kindergarten Addition & Subtraction Worksheets Bundle | K.OA.A.1–5",
+      "url": "https://www.teacherspayteachers.com/Product/Kindergarten-Addition-Subtraction-Worksheets-Bundle-KOAA15-18060238",
+      "isBundle": true,
+      "free": false,
+      "linkSource": "Owner supplied, 24 October 2026"
+    },
+    {
+      "productId": "18060653",
+      "title": "Kindergarten Teen Numbers 11–19 Worksheets | K.NBT.A.1 | 60 Practice + 15 Test",
+      "url": "https://www.teacherspayteachers.com/Product/Kindergarten-Teen-Numbers-1119-Worksheets-KNBTA1-60-Practice-15-Test-18060653",
+      "isBundle": false,
+      "free": false,
+      "linkSource": "Owner supplied, 24 October 2026"
+    },
+    {
+      "productId": "18061284",
+      "title": "Kindergarten Measurement Worksheets: Measurable Attributes | K.MD.A.1",
+      "url": "https://www.teacherspayteachers.com/Product/Kindergarten-Measurement-Worksheets-Measurable-Attributes-KMDA1-18061284",
+      "isBundle": false,
+      "free": false,
+      "linkSource": "Owner supplied, 24 October 2026"
+    },
+    {
+      "productId": "18061408",
+      "title": "Kindergarten Measurement Worksheets: Compare Two Objects | K.MD.A.2",
+      "url": "https://www.teacherspayteachers.com/Product/Kindergarten-Measurement-Worksheets-Compare-Two-Objects-KMDA2-18061408",
+      "isBundle": false,
+      "free": false,
+      "linkSource": "Owner supplied, 24 October 2026"
+    },
+    {
+      "productId": "18061675",
+      "title": "Kindergarten Sorting & Counting Worksheets | K.MD.B.3 | 60 Practice + 15 Test",
+      "url": "https://www.teacherspayteachers.com/Product/Kindergarten-Sorting-and-Counting-Worksheets-KMDB3-60-Practice-15-Test-18061675",
+      "isBundle": false,
+      "free": false,
+      "linkSource": "Owner supplied, 24 October 2026"
+    },
+    {
+      "productId": "18058610",
+      "title": "Unknown Values in Equations | Year 4 Maths Worksheets | AC9M4A01",
+      "url": "https://www.teacherspayteachers.com/Product/Unknown-Values-in-Equations-Year-4-Maths-Worksheets-AC9M4A01-18058610",
+      "isBundle": false,
+      "free": false,
+      "linkSource": "Owner supplied, 24 October 2026"
+    },
+    {
+      "productId": "18060084",
+      "title": "Year 4 Multiplication & Division Worksheets | AC9M4A02 | 90 Practice + 15 Test",
+      "url": "https://www.teacherspayteachers.com/Product/Year-4-Multiplication-Division-Worksheets-AC9M4A02-90-Practice-15-Test-18060084",
+      "isBundle": false,
+      "free": false,
+      "linkSource": "Owner supplied, 24 October 2026"
+    },
+    {
+      "productId": "18060451",
+      "title": "Year 4 Measurement Worksheets: Reading Scales & Units | AC9M4M01",
+      "url": "https://www.teacherspayteachers.com/Product/Year-4-Measurement-Worksheets-Reading-Scales-Units-AC9M4M01-18060451",
+      "isBundle": false,
+      "free": false,
+      "linkSource": "Owner supplied, 24 October 2026"
+    },
+    {
+      "productId": "18060575",
+      "title": "Year 4 Perimeter & Area Worksheets | AC9M4M02 | 90 Practice + 15 Test",
+      "url": "https://www.teacherspayteachers.com/Product/Year-4-Perimeter-and-Area-Worksheets-AC9M4M02-90-Practice-15-Test-18060575",
+      "isBundle": false,
+      "free": false,
+      "linkSource": "Owner supplied, 24 October 2026"
+    },
+    {
+      "productId": "18061229",
+      "title": "Year 4 Time & Duration Worksheets | AC9M4M03 | 90 Practice + 15 Test",
+      "url": "https://www.teacherspayteachers.com/Product/Year-4-Time-and-Duration-Worksheets-AC9M4M03-90-Practice-15-Test-18061229",
+      "isBundle": false,
+      "free": false,
+      "linkSource": "Owner supplied, 24 October 2026"
+    },
+    {
+      "productId": "18061512",
+      "title": "Year 4 Angles Worksheets: Acute, Obtuse & Reflex Angles | AC9M4M04",
+      "url": "https://www.teacherspayteachers.com/Product/Year-4-Angles-Worksheets-Acute-Obtuse-Reflex-Angles-AC9M4M04-18061512",
+      "isBundle": false,
+      "free": false,
+      "linkSource": "Owner supplied, 24 October 2026"
+    },
+    {
+      "productId": "18060036",
+      "title": "Year 3 Data Investigations Teaching Slides | Statistics | AC9M3ST03",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Data-Investigations-Teaching-Slides-Statistics-AC9M3ST03-18060036",
+      "isBundle": false,
+      "free": false,
+      "linkSource": "Owner supplied, 24 October 2026"
+    },
+    {
+      "productId": "18060345",
+      "title": "Year 3 Chance & Probability Teaching Slides | AC9M3P01 | PowerPoint & PDF",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Chance-Probability-Teaching-Slides-AC9M3P01-PowerPoint-PDF-18060345",
+      "isBundle": false,
+      "free": false,
+      "linkSource": "Owner supplied, 24 October 2026"
+    },
+    {
+      "productId": "18060614",
+      "title": "Year 3 Chance Experiments Teaching Slides | AC9M3P02 | PowerPoint & PDF",
+      "url": "https://www.teacherspayteachers.com/Product/Year-3-Chance-Experiments-Teaching-Slides-AC9M3P02-PowerPoint-PDF-18060614",
+      "isBundle": false,
+      "free": false,
+      "linkSource": "Owner supplied, 24 October 2026"
+    },
+    {
+      "productId": "18061697",
+      "title": "Year 4 Decimals: Tenths & Hundredths | 94 Teaching Slides | AC9M4N01",
+      "url": "https://www.teacherspayteachers.com/Product/Year-4-Decimals-Tenths-Hundredths-94-Teaching-Slides-AC9M4N01-18061697",
+      "isBundle": false,
+      "free": false,
+      "linkSource": "Owner supplied, 24 October 2026"
     }
   ],
   "scopedUpdates": [
@@ -2748,7 +2876,29 @@
         "17993675"
       ],
       "note": "Added the Year 3 Number bundle and ten newly published Year 3 Maths worksheet bundles, plus the current N04 pack. Bundle selections and 10% prices inspected. Prior full-store audit date and count retained."
+    },
+    {
+      "date": "2026-10-24",
+      "productIds": [
+        "18058457",
+        "18060238",
+        "18060653",
+        "18061284",
+        "18061408",
+        "18061675",
+        "18058610",
+        "18060084",
+        "18060451",
+        "18060575",
+        "18061229",
+        "18061512",
+        "18060036",
+        "18060345",
+        "18060614",
+        "18061697"
+      ],
+      "note": "Six US listings, six Year 4 worksheets and four teaching-slide listings supplied by owner. Exact URLs retained. Prices and covers not independently verified; prior full-audit date retained."
     }
   ],
-  "updatedAt": "2026-10-21"
+  "updatedAt": "2026-10-24"
 }
