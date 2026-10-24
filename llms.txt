@@ -4,6 +4,21 @@
 
 Resources are organised by year, subject and curriculum code. Public topic guides are free without login; registered app services have separate access requirements. Paid products save preparation through prepared paper-learning materials, with contents and licences stated on each listing.
 
+## Free online learning and progress tracking
+
+- [Start free online learning](https://app.skillrhub.com/): Self-paced, Australian Curriculum V9.0-aligned learning, practice and skill assessments for published activities.
+- [Create a free family account](https://app.skillrhub.com/?signup=1): Register, confirm the email address, then create or select a student profile to save progress.
+- [Browse public curriculum guides](https://skillrhub.com/learn/): Free topic explanations organised by year, subject and curriculum code; these public guides do not require an account.
+- [Paper-learning tracker](https://app.skillrhub.com/tracker/): Separate adult-entered records for worksheets and other paper learning.
+
+The online app currently presents free Maths learning for Years 1–5. Use its current catalogue to check which skills, practice activities and tests are published. Curriculum mapping and the wider Foundation–Year 10 topic-guide directory do not mean every curriculum code has a complete online assessment. New activities are added progressively.
+
+Families can work at their own pace, revisit skills and view saved progress for each student profile. The dashboard supports today, this week, this month and custom dates, with questions answered, recorded active learning time and subject activity. Answer totals include retries and retests; they are not counts of unique questions or proof of complete curriculum mastery.
+
+SkillrHub supports homeschooling and extra practice alongside school. Younger learners and practical activities may need adult help. Online results reflect saved activities; paper-tracker entries reflect adult records. Neither guarantees school marks or official acceptance of homeschool evidence.
+
+Digital learning and public teaching notes are currently free. Optional paid printable packs, teaching-slide products and bundles are sold separately on Teachers Pay Teachers; buying a pack is not required for free digital learning. Check each listing for contents, price and licence.
+
 ## Full-Year Maths Printables on Teachers Pay Teachers
 
 - [Foundation Maths yearly workbook](https://www.teacherspayteachers.com/Product/Foundation-Maths-Yearly-Workbook-All-12-AC9-Codes-136-Pages-18028311): 136-page PDF: 12 AC9 units, Day 1-5 practice, unit checks, mixed reviews and answers.
