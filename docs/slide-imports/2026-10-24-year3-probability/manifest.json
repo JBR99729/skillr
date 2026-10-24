@@ -1,0 +1,18 @@
+[
+  {
+    "code": "AC9M3P01",
+    "source": "SkillrHub_AC9M3P01_Flattened_Teaching_Slides(3).pptx",
+    "source_sha256": "227a70ff3bb27acde1d5525591374c1309212310a4126f5288ca5f21ec1b73b8",
+    "slides": 83,
+    "route": "/year3/maths/ac9m3p01-practical-activities-and-everyday-events-involving-chance/teacher-slides/",
+    "total_webp_bytes": 6628790
+  },
+  {
+    "code": "AC9M3P02",
+    "source": "SkillrHub_AC9M3P02_Flattened_Teaching_Slides(1).pdf",
+    "source_sha256": "f20ed77f6da3b8cac4205732d6a9e9246e272a14bc5687a871f02098f1475902",
+    "slides": 83,
+    "route": "/year3/maths/ac9m3p02-conduct-repeated-chance-experiments-identify-and-describe/teacher-slides/",
+    "total_webp_bytes": 5761142
+  }
+]
