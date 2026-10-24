@@ -190,6 +190,59 @@
 @media(max-width:1000px){.home-page .home-hero{gap:28px;padding:32px 28px}}
 @media(max-width:800px){.home-page .home-hero{grid-template-columns:1fr;gap:26px;padding:30px}.home-page .home-product-proof{display:grid;grid-template-columns:1fr 160px;gap:0 20px}.home-page .home-product-proof__pages{grid-column:2;grid-row:1 / 4;align-self:center;padding:10px;gap:8px}.home-page .home-product-proof__caption{margin:2px 0 8px}.home-page .home-product-proof__head>p:last-child{margin-bottom:12px}}
 @media(max-width:480px){.home-page .home-hero{padding:26px 20px;gap:24px}.home-page .home-hero h1{font-size:38px;margin-bottom:20px}.home-page .home-lead{font-size:15px;line-height:1.65;margin-bottom:20px}.home-page .home-product-proof{grid-template-columns:1fr 106px;gap:0 12px;padding:16px}.home-page .home-product-proof h2{font-size:21px}.home-page .home-product-proof__head>p:last-child{font-size:11px}.home-page .home-product-proof__pages{padding:8px;gap:6px}.home-page .home-product-proof__caption{font-size:10px}.home-page .home-product-proof__link{font-size:12px}.home-page .home-coming{margin-top:12px;font-size:11px}.home-page .home-how{margin-bottom:10px}}
+
+/* Mobile entry: one clear start, visible help, then readable product evidence. */
+.home-page .home-engage{display:flex;flex-direction:column;align-items:flex-start;gap:0;margin:16px 0 0;padding:12px 0 0;border:0;border-top:1px solid #d8e4dc}
+.home-page .home-engage__chat{display:inline-flex;align-items:center;gap:5px;min-height:44px;color:#146654;font-size:13px;font-weight:700;text-underline-offset:4px}
+.home-page .home-engage__follow{display:inline-flex;align-items:center;gap:5px;min-height:44px;font-size:12px;font-weight:500;text-underline-offset:4px}
+.home-page .home-sample-swipe{display:none}
+.home-page .home-samples{margin-top:32px}
+.home-page .home-samples .home-actions{margin:20px 0 24px}
+@media(max-width:800px){
+.home-page .site-header .skillr-header-tools{display:none}
+.home-page .site-header__menu{margin-left:auto}
+.home-page .site-header__nav{justify-content:space-between}
+.home-page .home-hero{display:block;padding:28px}
+.home-page .home-product-proof{display:none}
+.home-page .home-hero h1{font-size:clamp(34px,6.8vw,48px);line-height:1.1}
+.home-page .home-hero .home-secondary{display:none}
+.home-page .home-hero .home-actions{display:block}
+.home-page .home-hero .home-primary{display:flex;width:100%;min-height:48px}
+.home-page .home-hero .home-lead{max-width:560px;font-size:16px;line-height:1.6;margin-bottom:20px}
+.home-page .home-engage{margin-top:12px;padding-top:10px}
+.home-page .home-engage__chat{font-size:13px;line-height:1.5;min-height:44px}
+.home-page .home-engage__follow{font-size:12px;line-height:1.5;min-height:44px}
+.home-page .home-coming{margin-top:10px}
+.home-page #skillr-messenger-bubble{display:none}
+.home-page .home-samples{margin-top:24px}
+}
+@media(max-width:600px){
+.home-page .container{padding-inline:16px}
+.home-page .home-hero{padding:24px 20px}
+.home-page .home-hero h1{font-size:clamp(32px,8.8vw,40px);margin-bottom:18px}
+.home-page .home-hero .home-kicker{font-size:10px;margin-bottom:14px}
+.home-page .home-hero .home-lead{font-size:15px;line-height:1.65;margin-bottom:18px}
+.home-page .home-account-note{font-size:11px;margin-top:10px}
+.home-page .home-engage__chat{font-size:12px}
+.home-page .home-engage__follow{font-size:12px}
+.home-page .home-coming{font-size:11px;gap:6px}
+.home-page .home-samples{padding:24px 18px;margin-bottom:28px}
+.home-page .home-samples h2{font-size:27px;line-height:1.2}
+.home-page .home-samples>p{font-size:14px;line-height:1.6}
+.home-page .home-samples .home-actions{flex-direction:column;align-items:stretch;gap:10px;margin:18px 0 22px}
+.home-page .home-samples .home-actions a{min-height:44px;line-height:1.4}
+.home-page .home-sample-grid{display:grid;grid-template-columns:none;grid-auto-flow:column;grid-auto-columns:88%;gap:14px;overflow-x:auto;overscroll-behavior-inline:contain;scroll-snap-type:x mandatory;scroll-padding:3px;margin:0;padding:3px 3px 12px}
+.home-page .home-sample-grid figure{scroll-snap-align:start;min-width:0}
+.home-page .home-sample-grid a{border-radius:8px}
+.home-page .home-sample-grid figcaption{padding:12px 1px 0}
+.home-page .home-sample-grid strong{font-size:15px}
+.home-page .home-sample-grid span{font-size:13px}
+.home-page .home-sample-swipe{display:inline}
+.home-page .home-samples .home-sample-note{font-size:12px;line-height:1.6}
+.home-page .ux-start{padding-top:8px}
+.home-page .home-testers .home-tester-actions{align-items:stretch}
+.home-page .home-testers .home-tester-actions a{min-height:44px;justify-content:center}
+}
 </style>
 </head>
 <body class="home-page skillr-shared-navigation">
@@ -204,9 +257,16 @@
   <div class="container">
     <main>
 <section class="home-hero" aria-labelledby="home-hero-title">
-<div class="home-hero-copy"><p class="home-kicker">Australian Curriculum V9</p><h1 id="home-hero-title">Practise a skill.<br><span>Build confidence.</span></h1><p class="home-lead">Free Years 1–5 Maths practice, with a family dashboard to follow progress. Add optional printable packs for learning on paper.</p><div class="home-actions"><a class="home-primary" href="https://app.skillrhub.com/?signup=1" data-home-conversion="practice_registration" data-home-placement="hero">Try free Maths practice <span aria-hidden="true">→</span></a><a class="home-secondary" href="#see-worksheets">Explore printable packs</a></div><p class="home-account-note">Free account · No credit card needed</p><p class="home-coming">Science &amp; English practice <span>Coming soon</span></p></div>
-<aside class="home-product-proof" aria-labelledby="home-product-proof-title"><div class="home-product-proof__head"><p class="home-kicker">Optional printable packs</p><h2 id="home-product-proof-title">See what’s inside.</h2><p>Teaching, paper practice, a separate test and answers.</p></div><a class="home-product-proof__pages" href="/product.html?id=tpt-17893389" data-home-conversion="product_details" data-home-placement="hero_preview" aria-label="Preview Year 1 English Story Connections printable pack"><img src="/assets/home-sample-practice.webp" alt="Story Connections practice page" width="900" height="1273" fetchpriority="high" decoding="async"><img src="/assets/home-sample-answers.webp" alt="Story Connections answer guidance" width="900" height="1273" decoding="async"></a><p class="home-product-proof__caption">Year 1 English · Story Connections</p><a class="home-product-proof__link" href="/product.html?id=tpt-17893389" data-home-conversion="product_details" data-home-placement="hero_preview">Preview this pack <span aria-hidden="true">→</span></a></aside></section>
-<div class="home-engage" aria-label="Connect with SkillrHub"><p>Need a hand getting started? <a href="https://m.me/61591597270383" target="_blank" rel="noopener noreferrer" data-home-conversion="messenger" data-home-placement="hero_support">Chat with us on Messenger <span aria-hidden="true">↗</span></a></p><a class="home-engage__follow" href="https://www.facebook.com/1139028835969651" target="_blank" rel="noopener noreferrer" data-home-conversion="facebook_follow" data-home-placement="hero_support">Follow us on Facebook <span aria-hidden="true">↗</span></a></div>
+<div class="home-hero-copy"><p class="home-kicker">Australian Curriculum V9</p><h1 id="home-hero-title">Practise a skill.<br><span>Build confidence.</span></h1><p class="home-lead">Free Years 1–5 Maths practice. Follow your child’s progress in one family dashboard.</p><div class="home-actions"><a class="home-primary" href="https://app.skillrhub.com/?signup=1" data-home-conversion="practice_registration" data-home-placement="hero">Try free Maths practice <span aria-hidden="true">→</span></a><a class="home-secondary" href="#see-worksheets">Explore printable packs</a></div><p class="home-account-note">Free account · No credit card needed</p><div class="home-engage" aria-label="Connect with SkillrHub"><a class="home-engage__chat" href="https://m.me/61591597270383" target="_blank" rel="noopener noreferrer" data-home-conversion="messenger" data-home-placement="hero_support">Need help? Chat with us on Messenger <span aria-hidden="true">↗</span></a><a class="home-engage__follow" href="https://www.facebook.com/1139028835969651" target="_blank" rel="noopener noreferrer" data-home-conversion="facebook_follow" data-home-placement="hero_support">Follow SkillrHub on Facebook <span aria-hidden="true">↗</span></a></div><p class="home-coming">Science &amp; English practice <span>Coming soon</span></p></div>
+<aside class="home-product-proof" aria-labelledby="home-product-proof-title"><div class="home-product-proof__head"><p class="home-kicker">Optional printable packs</p><h2 id="home-product-proof-title">See what’s inside.</h2><p>Teaching, paper practice, a separate test and answers.</p></div><a class="home-product-proof__pages" href="/product.html?id=tpt-17893389" data-home-conversion="product_details" data-home-placement="hero_preview" aria-label="Preview Year 1 English Story Connections printable pack"><img src="/assets/home-sample-practice.webp" alt="Story Connections practice page" width="900" height="1273" loading="lazy" decoding="async"><img src="/assets/home-sample-answers.webp" alt="Story Connections answer guidance" width="900" height="1273" loading="lazy" decoding="async"></a><p class="home-product-proof__caption">Year 1 English · Story Connections</p><a class="home-product-proof__link" href="/product.html?id=tpt-17893389" data-home-conversion="product_details" data-home-placement="hero_preview">Preview this pack <span aria-hidden="true">→</span></a></aside></section>
+<section class="home-samples" id="see-worksheets" aria-labelledby="home-samples-title">
+<p class="home-kicker">Optional printable packs</p><h2 id="home-samples-title">Less prep. More time learning.</h2>
+<p>Prepared pages for paper practice, a separate test and answer guidance. Preview <strong>Year 1 English: Story Connections</strong> below.</p>
+<div class="home-actions"><a class="home-primary" href="https://www.teacherspayteachers.com/store/skillrhub" target="_blank" rel="noopener noreferrer" data-home-conversion="tpt_store" data-home-placement="product_preview">Shop our TPT store <span aria-hidden="true">↗</span></a><a class="home-secondary" href="/product.html?id=tpt-17893389" data-home-conversion="product_details" data-home-placement="product_preview">See this pack’s contents</a></div>
+<div class="home-sample-grid" role="group" aria-label="Printable sample pages"><figure><a href="/assets/home-sample-read.webp" target="_blank" rel="noopener" aria-label="Enlarge read together sample page (opens a new tab)"><img src="/assets/home-sample-read.webp" alt="Watermarked Story Connections read together sample page" width="900" height="1273" loading="lazy" decoding="async"></a><figcaption><strong>Read together</strong><span>An included story to discuss with an adult.</span></figcaption></figure><figure><a href="/assets/home-sample-practice.webp" target="_blank" rel="noopener" aria-label="Enlarge practise the skill sample page (opens a new tab)"><img src="/assets/home-sample-practice.webp" alt="Watermarked Story Connections practise the skill sample page" width="900" height="1273" loading="lazy" decoding="async"></a><figcaption><strong>Practise the skill</strong><span>Short questions with room for a child’s response.</span></figcaption></figure><figure><a href="/assets/home-sample-test.webp" target="_blank" rel="noopener" aria-label="Enlarge check understanding sample page (opens a new tab)"><img src="/assets/home-sample-test.webp" alt="Watermarked Story Connections check understanding sample page" width="900" height="1273" loading="lazy" decoding="async"></a><figcaption><strong>Check understanding</strong><span>A separate test after practice.</span></figcaption></figure><figure><a href="/assets/home-sample-answers.webp" target="_blank" rel="noopener" aria-label="Enlarge support the learner sample page (opens a new tab)"><img src="/assets/home-sample-answers.webp" alt="Watermarked Story Connections support the learner sample page" width="900" height="1273" loading="lazy" decoding="async"></a><figcaption><strong>Support the learner</strong><span>Answer guidance helps adults explain and review.</span></figcaption></figure></div><p class="home-sample-note"><span class="home-sample-swipe">Swipe to see the pages. </span>Select a page to enlarge it. This pack supports adult read-aloud and guided discussion. Contents and question counts vary by pack.</p>
+
+<p class="home-sample-note">Explore here first. Buy and download on Teachers Pay Teachers when you’re ready.</p></section>
+
 
 
 
@@ -223,19 +283,14 @@
           <a id="subject-english" class="ux-subject ux-subject--english" href="/year1/curriculum/english/"><span class="ux-subject__icon" aria-hidden="true">📖</span><span><strong>Year 1 English</strong><small>Reading, writing, language and communication</small></span></a>
         </div>
       </section>
-<section class="home-samples" id="see-worksheets" aria-labelledby="home-samples-title">
-<p class="home-kicker">Optional printable packs</p><h2 id="home-samples-title">Less prep. More time learning.</h2>
-<p>Prepared pages for paper practice, a separate test and answer guidance. Preview <strong>Year 1 English: Story Connections</strong> below.</p>
-<div class="home-sample-grid"><figure><a href="/assets/home-sample-read.webp" target="_blank" rel="noopener" aria-label="Enlarge read together sample page (opens a new tab)"><img src="/assets/home-sample-read.webp" alt="Watermarked Story Connections read together sample page" width="900" height="1273" loading="lazy" decoding="async"></a><figcaption><strong>Read together</strong><span>An included story to discuss with an adult.</span></figcaption></figure><figure><a href="/assets/home-sample-practice.webp" target="_blank" rel="noopener" aria-label="Enlarge practise the skill sample page (opens a new tab)"><img src="/assets/home-sample-practice.webp" alt="Watermarked Story Connections practise the skill sample page" width="900" height="1273" loading="lazy" decoding="async"></a><figcaption><strong>Practise the skill</strong><span>Short questions with room for a child’s response.</span></figcaption></figure><figure><a href="/assets/home-sample-test.webp" target="_blank" rel="noopener" aria-label="Enlarge check understanding sample page (opens a new tab)"><img src="/assets/home-sample-test.webp" alt="Watermarked Story Connections check understanding sample page" width="900" height="1273" loading="lazy" decoding="async"></a><figcaption><strong>Check understanding</strong><span>A separate test after practice.</span></figcaption></figure><figure><a href="/assets/home-sample-answers.webp" target="_blank" rel="noopener" aria-label="Enlarge support the learner sample page (opens a new tab)"><img src="/assets/home-sample-answers.webp" alt="Watermarked Story Connections support the learner sample page" width="900" height="1273" loading="lazy" decoding="async"></a><figcaption><strong>Support the learner</strong><span>Answer guidance helps adults explain and review.</span></figcaption></figure></div><p class="home-sample-note">Select a page to enlarge it. This pack supports adult read-aloud and guided discussion. Contents and question counts vary by pack.</p>
-<div class="home-actions"><a class="home-primary" href="https://www.teacherspayteachers.com/store/skillrhub" target="_blank" rel="noopener noreferrer" data-home-conversion="tpt_store" data-home-placement="product_preview">Shop our TPT store <span aria-hidden="true">↗</span></a><a class="home-secondary" href="/product.html?id=tpt-17893389" data-home-conversion="product_details" data-home-placement="product_preview">See this pack’s contents</a></div>
-<p class="home-sample-note">Explore here first. Buy and download on Teachers Pay Teachers when you’re ready.</p></section>
+
 <section class="home-family-value" aria-label="Learning that fits your family">
 <div><strong>Less preparation. More time learning.</strong><p>Spend less time finding resources and creating activities. Use prepared teaching, practice, checks and answers as included in your chosen pack.</p></div>
 <div><strong>Curriculum aligned. Clearly organised.</strong><p>Find the year, subject and Australian Curriculum v9 code you need, then follow an organised learning sequence at your child’s pace.</p></div>
 <div><strong>Research-informed, purposeful questions.</strong><p>Build understanding, reasoning and problem-solving through questions informed by curriculum and teaching research.</p></div>
 </section>
 
-<section class="home-consultation home-testers" aria-labelledby="home-consult-title"><div><p class="home-kicker">Help shape SkillrHub</p><h2 id="home-consult-title">Try a skill. Tell us what you think.</h2><p>We’re inviting families and teachers to try our question bank. Create a free account, complete a Maths practice session and share what worked—or what could be clearer.</p><p class="home-tester-help">Choosing printables? <a href="/contact.html#resource-consultation">Request a sample or a free consultation</a>.</p></div><div class="home-tester-actions"><a class="home-primary" href="https://app.skillrhub.com/?signup=1" data-home-conversion="practice_registration" data-home-placement="tester_invitation">Try free practice <span aria-hidden="true">→</span></a><a href="/contact.html" data-home-conversion="feedback" data-home-placement="tester_invitation">Already tried it? Send feedback</a></div></section>
+<section class="home-consultation home-testers" aria-labelledby="home-consult-title"><div><p class="home-kicker">Help shape SkillrHub</p><h2 id="home-consult-title">Try a skill. Tell us what you think.</h2><p>We’re inviting families and teachers to try our question bank. Create a free account, complete a Maths practice session and share what worked—or what could be clearer.</p><p class="home-tester-help">Choosing printables? <a href="/contact.html#resource-consultation">Request a sample or a free consultation</a>.</p></div><div class="home-tester-actions"><a class="home-primary" href="https://app.skillrhub.com/?signup=1" data-home-conversion="practice_registration" data-home-placement="tester_invitation">Try free practice <span aria-hidden="true">→</span></a><a href="https://m.me/61591597270383" target="_blank" rel="noopener noreferrer" data-home-conversion="messenger" data-home-placement="tester_invitation">Already tried it? Tell us on Messenger <span aria-hidden="true">↗</span></a></div></section>
 <details class="home-family-details"><summary>What’s included, costs and reporting</summary><div><p><strong>Purposeful practice, with a clear path:</strong> the Year 1 Maths full-year worksheet bundle includes 900 practice questions and separate tests across all 15 codes. Pack sizes, subjects and year-level availability vary; see each listing for what is included.</p><p><strong>Affordable, flexible learning:</strong> start with the worksheet packs you need and use free topic help and progress tracking alongside them. TpT prices are in US dollars; check the listing for current pricing. Work through the curriculum skills included in your chosen packs, one manageable step at a time.</p><p><strong>Useful learning evidence:</strong> create separate child profiles, record dated sessions and print summaries to support your education department reporting. For children attending school, use the same records to review extra practice and next steps. Summaries reflect your entries; they do not certify achievement, sufficient learning or department approval.</p><p><strong>Buy only what you need:</strong> term, yearly and skill-group bundles may contain the same individual packs. Check previous purchases and the listing’s household or classroom licence before buying.</p></div></details>
 
 <details class="home-how" id="how-to-use-skillrhub"><summary>How free practice works</summary><ol><li>Create a free account and choose your child’s year.</li><li>Choose a Maths skill and try a practice session.</li><li>Review progress in your family dashboard.</li></ol></details>
