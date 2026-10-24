@@ -164,6 +164,27 @@
 @media(max-width:1000px){.home-page .container{padding:0 24px}.home-page .home-hero{padding:36px 28px;gap:28px}.home-page .home-hero h1{font-size:42px}.home-page .home-discovery-heading{gap:24px}.home-page .home-journey{padding:24px}.home-page .home-samples{padding:28px}}
 @media(max-width:800px){.home-page .container{margin-top:20px}.home-page .home-hero{grid-template-columns:1fr;padding:32px;gap:32px}.home-page .home-hero h1{font-size:clamp(36px,6.8vw,52px);max-width:650px}.home-page .home-lead{max-width:580px}.home-page .home-journey{box-shadow:none}.home-page .home-discovery-heading{grid-template-columns:1fr;gap:24px}.home-page .ux-start{padding:36px 0}.home-page .home-sample-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.home-page .home-samples h2{font-size:30px}.home-page .learning-global-stats [data-stat="milestone"]{display:none}}
 @media(max-width:480px){.home-page .container{padding:0 16px;margin-top:16px}.home-page .home-hero{padding:28px 20px;border-radius:18px;gap:28px}.home-page .home-hero h1{font-size:36px}.home-page .home-lead{font-size:16px;line-height:1.65;margin-bottom:24px}.home-page .home-actions{align-items:stretch;flex-direction:column}.home-page .home-actions a{width:100%;font-size:14px}.home-page .home-account-note{font-size:11px}.home-page .home-journey{padding:22px 18px}.home-page .home-journey h2{font-size:25px}.home-page .learning-global-stats{gap:8px}.home-page .learning-stats-label{flex-basis:100%}.home-page .learning-promise .learning-stats-refresh{margin-left:auto}.home-page .ux-start__head h2{font-size:27px}.home-page .ux-years{gap:7px}.home-page .ux-year{min-width:43px;min-height:44px}.home-page .ux-subjects{grid-template-columns:1fr}.home-page .home-samples{padding:24px 18px;border-radius:16px;margin-bottom:28px}.home-page .home-samples h2{font-size:28px}.home-page .home-sample-grid{gap:14px}.home-page .home-family-value{grid-template-columns:1fr;gap:24px}.home-page .home-consultation{padding:22px}.home-page .skillr-email-signup{padding:22px}.home-page .skillr-email-signup h2{font-size:23px}}
+
+/* Prioritise useful choices and actual product evidence in the first screen. */
+.home-page .home-hero{padding:36px 40px;gap:48px;grid-template-columns:minmax(0,1.2fr) minmax(0,.8fr)}
+.home-page .home-hero h1{font-size:clamp(38px,4.3vw,56px)}
+.home-page .home-lead{max-width:510px;font-size:17px;line-height:1.65;margin-bottom:24px}
+.home-page .home-product-proof{padding:22px;background:#fff;border:1px solid #dbe5dd;border-radius:16px;box-shadow:0 8px 28px #233b2410;min-width:0}
+.home-page .home-product-proof .home-kicker{margin:0 0 7px;font-size:10px}
+.home-page .home-product-proof h2{font-size:24px;letter-spacing:-.035em;line-height:1.2;margin:0 0 8px;color:var(--home-ink)}
+.home-page .home-product-proof__head>p:last-child{font-size:12px;line-height:1.5;color:var(--home-muted);margin:0 0 16px}
+.home-page .home-product-proof__pages{display:grid;grid-template-columns:1fr 1fr;gap:12px;max-width:290px;margin:auto;padding:12px 18px;background:#f6f5ef;border-radius:10px}
+.home-page .home-product-proof__pages img{width:100%;height:auto;display:block;border:1px solid #e2e5dc;box-shadow:0 3px 8px #172d2410}
+.home-page .home-product-proof__caption{font-size:11px;margin:12px 0 6px;color:var(--home-muted)}
+.home-page .home-product-proof__link{font-size:13px;font-weight:700;text-decoration:none}
+.home-page .home-product-proof__link:hover{text-decoration:underline}
+.home-page .ux-start{padding:36px 0}
+.home-page .home-how{margin:0 0 12px;border-bottom:1px solid #e1e8e2;padding-bottom:12px}
+.home-page .home-how summary{font-size:14px;padding:12px 0;min-height:44px;box-sizing:border-box;cursor:pointer;color:var(--home-green)}
+.home-page .home-how ol{font-size:14px;line-height:1.8;color:var(--home-muted);padding-left:22px}
+@media(max-width:1000px){.home-page .home-hero{gap:28px;padding:32px 28px}}
+@media(max-width:800px){.home-page .home-hero{grid-template-columns:1fr;gap:26px;padding:30px}.home-page .home-product-proof{display:grid;grid-template-columns:1fr 160px;gap:0 20px}.home-page .home-product-proof__pages{grid-column:2;grid-row:1 / 4;align-self:center;padding:10px;gap:8px}.home-page .home-product-proof__caption{margin:2px 0 8px}.home-page .home-product-proof__head>p:last-child{margin-bottom:12px}}
+@media(max-width:480px){.home-page .home-hero{padding:26px 20px;gap:24px}.home-page .home-hero h1{font-size:38px;margin-bottom:20px}.home-page .home-lead{font-size:15px;line-height:1.65;margin-bottom:20px}.home-page .home-product-proof{grid-template-columns:1fr 106px;gap:0 12px;padding:16px}.home-page .home-product-proof h2{font-size:21px}.home-page .home-product-proof__head>p:last-child{font-size:11px}.home-page .home-product-proof__pages{padding:8px;gap:6px}.home-page .home-product-proof__caption{font-size:10px}.home-page .home-product-proof__link{font-size:12px}.home-page .home-coming{margin-top:12px;font-size:11px}.home-page .home-how{margin-bottom:10px}}
 </style>
 </head>
 <body class="home-page skillr-shared-navigation">
@@ -178,20 +199,11 @@
   <div class="container">
     <main>
 <section class="home-hero" aria-labelledby="home-hero-title">
-<div class="home-hero-copy"><p class="home-kicker">Australian Curriculum V9</p><h1 id="home-hero-title">Build confidence.<br><span>One skill at a time.</span></h1><p class="home-lead">Start with free Years 1–5 Maths practice. Follow learning and keep homeschool records in your family dashboard.</p><div class="home-actions"><a class="home-primary" href="https://app.skillrhub.com/?signup=1" data-home-conversion="practice_registration" data-home-placement="hero">Create free account <span aria-hidden="true">→</span></a><a class="home-secondary" href="#see-worksheets">Explore printable packs</a></div><p class="home-account-note">No credit card needed · Optional printable packs sold separately</p><p class="home-coming">Science &amp; English practice <span>Coming soon</span></p></div>
-<aside class="home-flow home-journey" id="how-to-use-skillrhub" aria-labelledby="how-title"><p class="home-audience-label">Start in minutes</p><h2 id="how-title">A little practice.<br>A clear next step.</h2><ol class="home-journey-steps"><li><span class="home-step-number" aria-hidden="true">01</span><div><div class="home-journey-heading"><a href="https://app.skillrhub.com/?signup=1" data-home-conversion="practice_registration" data-home-placement="journey">Choose a year</a></div><p>Start with Years 1–5 Maths.</p></div></li><li><span class="home-step-number" aria-hidden="true">02</span><div><div class="home-journey-heading"><strong>Practise one skill</strong></div><p>Short, purposeful maths practice.</p></div></li><li><span class="home-step-number" aria-hidden="true">03</span><div><div class="home-journey-heading"><a href="https://app.skillrhub.com/">See progress &amp; reports</a></div><p>Keep dated records and prepare homeschool summaries.</p></div></li></ol><p class="home-journey-audience">Made for everyday learning at home.</p></aside></section>
+<div class="home-hero-copy"><p class="home-kicker">Australian Curriculum V9</p><h1 id="home-hero-title">Practise a skill.<br><span>Build confidence.</span></h1><p class="home-lead">Free Years 1–5 Maths practice, with a family dashboard to follow progress. Add optional printable packs for learning on paper.</p><div class="home-actions"><a class="home-primary" href="https://app.skillrhub.com/?signup=1" data-home-conversion="practice_registration" data-home-placement="hero">Try free Maths practice <span aria-hidden="true">→</span></a><a class="home-secondary" href="#see-worksheets">Explore printable packs</a></div><p class="home-account-note">Free account · No credit card needed</p><p class="home-coming">Science &amp; English practice <span>Coming soon</span></p></div>
+<aside class="home-product-proof" aria-labelledby="home-product-proof-title"><div class="home-product-proof__head"><p class="home-kicker">Optional printable packs</p><h2 id="home-product-proof-title">See what’s inside.</h2><p>Teaching, paper practice, a separate test and answers.</p></div><a class="home-product-proof__pages" href="/product.html?id=tpt-17893389" data-home-conversion="product_details" data-home-placement="hero_preview" aria-label="Preview Year 1 English Story Connections printable pack"><img src="/assets/home-sample-practice.webp" alt="Story Connections practice page" width="900" height="1273" fetchpriority="high" decoding="async"><img src="/assets/home-sample-answers.webp" alt="Story Connections answer guidance" width="900" height="1273" decoding="async"></a><p class="home-product-proof__caption">Year 1 English · Story Connections</p><a class="home-product-proof__link" href="/product.html?id=tpt-17893389" data-home-conversion="product_details" data-home-placement="hero_preview">Preview this pack <span aria-hidden="true">→</span></a></aside></section>
 
-<section class="learning-promise" id="free-learning-promise" aria-label="Community learning and support">
 
-<div class="learning-global-stats" data-learning-stats>
-<span class="learning-stats-label">Our learning community</span>
-<div class="learning-total"><strong data-stat="total">—</strong><span> questions answered</span></div>
-<p data-stat="milestone">Every answer adds to the shared total.</p>
-<button type="button" class="learning-stats-refresh" data-stats-refresh aria-label="Refresh community learning total" title="Refresh total">↻</button>
-<p class="learning-stats-status" data-stat="status" role="status">Loading community total…</p>
-<noscript><p class="learning-promise-note">Enable JavaScript to load the community total.</p></noscript>
-</div></section>
-<!-- skillr-hea-directory:start --><p class="home-trust-note"><strong>For homeschool families:</strong> find our free learning resources in the <a href="https://www.hea.edu.au/free" target="_blank" rel="noopener noreferrer">Home Education Association’s Free Resources directory</a>.</p><!-- skillr-hea-directory:end -->
+
 
 <section class="ux-start" id="choose-year" aria-labelledby="choose-year-title">
         <div class="home-discovery-heading"><div class="ux-start__head"><p class="home-kicker">Explore the curriculum</p><h2 id="choose-year-title">What are we learning today?</h2><p>Free topic guides across Foundation–Year 10. No login needed.</p></div><section class="site-search home-site-search" role="search" aria-label="Find a topic or curriculum code"><label class="site-search__label" for="site-search-input">Find a topic or curriculum code</label><form action="/" role="search"><div class="site-search__control"><span class="site-search__icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="6"></circle><path d="m16 16 5 5"></path></svg></span><input class="site-search__input" id="site-search-input" name="q" type="search" autocomplete="off" placeholder="Try fractions, place value or AC9M3N01" aria-describedby="site-search-help" aria-controls="site-search-results"></div><p id="site-search-help" class="sr-only">Type at least two letters to find a SkillrHub topic.</p><div class="site-search__results" id="site-search-results" role="status" aria-live="polite" hidden></div></form></section></div>
@@ -222,6 +234,7 @@
 
 </div>
         
+<details class="home-how" id="how-to-use-skillrhub"><summary>How free practice works</summary><ol><li>Create a free account and choose your child’s year.</li><li>Choose a Maths skill and try a practice session.</li><li>Review progress in your family dashboard.</li></ol></details>
 <details class="home-curriculum-more"><summary>Browse all year levels</summary><section class="resource-quickstart" id="curriculum" aria-labelledby="curriculum-title">
         <div class="ux-curriculum-head"><h2 id="curriculum-title">Browse the curriculum</h2><p>Open any year level below to jump directly into a subject.</p></div>
         <div class="curriculum-stage-list">
@@ -249,6 +262,17 @@
 <!-- Hidden by owner request: secondary More ways to teach promotion.
 <section class="home-more-resources" id="free-first-highlight" aria-labelledby="home-more-title"><h2 id="home-more-title">More ways to teach</h2><nav aria-label="More teaching resources"><a href="/teach-and-explain.html">Teaching slides &amp; guides <span aria-hidden="true">↗</span></a><a href="/teach/">For teachers <span aria-hidden="true">↗</span></a><a href="/amazon-resources/">Physical books <span aria-hidden="true">↗</span></a></nav></section>
 -->
+<section class="learning-promise" id="free-learning-promise" aria-label="Community learning and support">
+
+<div class="learning-global-stats" data-learning-stats>
+<span class="learning-stats-label">Our learning community</span>
+<div class="learning-total"><strong data-stat="total">—</strong><span> questions answered</span></div>
+<p data-stat="milestone">Every answer adds to the shared total.</p>
+<button type="button" class="learning-stats-refresh" data-stats-refresh aria-label="Refresh community learning total" title="Refresh total">↻</button>
+<p class="learning-stats-status" data-stat="status" role="status">Loading community total…</p>
+<noscript><p class="learning-promise-note">Enable JavaScript to load the community total.</p></noscript>
+</div></section>
+<!-- skillr-hea-directory:start --><p class="home-trust-note"><strong>For homeschool families:</strong> find our free learning resources in the <a href="https://www.hea.edu.au/free" target="_blank" rel="noopener noreferrer">Home Education Association’s Free Resources directory</a>.</p><!-- skillr-hea-directory:end -->
 <!-- skillr-email-signup:start -->
 <section class="skillr-email-signup" id="freebies-updates" aria-labelledby="freebies-updates-title" data-email-placement="homepage-resources">
 <div class="skillr-email-signup__copy"><p class="skillr-email-signup__eyebrow">Stay in the loop</p><h2 id="freebies-updates-title">Fresh resources, straight to your inbox.</h2><p>Get occasional freebies, new packs and resource updates.</p><p class="home-follow"><a href="https://www.facebook.com/1139028835969651" target="_blank" rel="noopener noreferrer">Follow SkillrHub on Facebook <span aria-hidden="true">↗</span></a></p><a class="skillr-email-signup__free" href="/worksheets/">Browse free resources now →</a></div>
