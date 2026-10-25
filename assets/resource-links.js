@@ -180,11 +180,14 @@
   function init() {
     if (!document.body || document.getElementById('skillr-resource-links')) return;
     const css = document.createElement('link');
-    css.rel = 'stylesheet'; css.href = '/assets/resource-links.css?v=3';
+    css.rel = 'stylesheet'; css.href = '/assets/resource-links.css?v=20261026-practice';
     document.head.appendChild(css);
-    const menu = document.createElement('details');
+    const menu = document.createElement('a');
     menu.id = 'skillr-resource-links';
-    menu.innerHTML = '<summary>Teaching resources</summary><nav aria-label="Teaching resource shortcuts"><a href="/print-and-go.html">Print &amp; Go<span>Printable practice packs</span></a><a href="/teach-and-explain.html">Teach &amp; Explain<span>Slides for teachers &amp; parents</span></a><a class="skillr-amazon-link" href="/amazon-resources/">Amazon Skillr educational resources</a></nav>';
+    menu.className = 'skillr-free-practice-bubble';
+    menu.href = 'https://app.skillrhub.com/?try=1';
+    menu.textContent = 'Try free practice';
+    menu.setAttribute('aria-label', 'Try free practice on SkillrHub');
     document.body.appendChild(menu);
     topicPacks();
 
@@ -221,12 +224,8 @@
     document.addEventListener('click', event => {
       const tpt = event.target.closest && event.target.closest('[data-tpt-outbound]');
       if (tpt) fireTptEvent(tpt);
-      if (menu.open && !menu.contains(event.target)) menu.open = false;
     });
-    document.addEventListener('keydown', event => {
-      if (event.key === 'Escape' && menu.open) { menu.open = false; menu.querySelector('summary').focus(); }
-    });
-    document.addEventListener('fullscreenchange', () => { menu.open = false; menu.hidden = !!document.fullscreenElement; });
+    document.addEventListener('fullscreenchange', () => { menu.hidden = !!document.fullscreenElement; });
   }
 
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init, {once: true});
