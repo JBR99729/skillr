@@ -1,0 +1,3 @@
+AC9M4N01: all 94 images load in browser; navigation, keyboard, fullscreen and 3 viewport bounds PASS
+AC9M4N02: all 98 images load in browser; navigation, keyboard, fullscreen and 3 viewport bounds PASS
+Collection responsive; no JavaScript page errors. Chromium 153.0.8010.0
