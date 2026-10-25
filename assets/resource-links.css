@@ -42,6 +42,7 @@ body:has(>#skillr-resource-links){padding-bottom:calc(62px + env(safe-area-inset
 
 /* One direct, keyboard-accessible entry to premium guest practice. */
 #skillr-resource-links.skillr-free-practice-bubble{display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;min-height:44px;padding:12px 18px;border:1px solid #fff;border-radius:999px;background:#2457d6;color:#fff;text-decoration:none;white-space:nowrap;box-shadow:0 3px 12px #18324f26}
+#skillr-resource-links.skillr-free-practice-bubble[hidden]{display:none!important}
 #skillr-resource-links.skillr-free-practice-bubble:hover{background:#1c48b7}
 #skillr-resource-links.skillr-free-practice-bubble:focus-visible{outline:3px solid #d78c09;outline-offset:3px}
 @media(max-width:480px){#skillr-resource-links.skillr-free-practice-bubble{min-height:44px;padding:10px 15px;font-size:13px}}
