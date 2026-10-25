@@ -180,7 +180,7 @@
   function init() {
     if (!document.body || document.getElementById('skillr-resource-links')) return;
     const css = document.createElement('link');
-    css.rel = 'stylesheet'; css.href = '/assets/resource-links.css?v=20261026-practice';
+    css.rel = 'stylesheet'; css.href = '/assets/resource-links.css?v=20261026-practice-2';
     document.head.appendChild(css);
     const menu = document.createElement('a');
     menu.id = 'skillr-resource-links';
