@@ -39,3 +39,9 @@ body:has(>#skillr-resource-links){padding-bottom:calc(62px + env(safe-area-inset
 .skillr-tpt-funnel__note{font-size:.85rem;color:#62748a!important}
 @media(max-width:600px){.skillr-tpt-funnel{padding:15px}.skillr-tpt-funnel__actions{display:grid}.skillr-tpt-funnel__button{width:100%;box-sizing:border-box}.skillr-tpt-funnel__proof{display:grid;gap:7px}}
 @media print{.skillr-tpt-funnel{display:none!important}}
+
+/* One direct, keyboard-accessible entry to premium guest practice. */
+#skillr-resource-links.skillr-free-practice-bubble{display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;min-height:44px;padding:12px 18px;border:1px solid #fff;border-radius:999px;background:#2457d6;color:#fff;text-decoration:none;white-space:nowrap;box-shadow:0 3px 12px #18324f26}
+#skillr-resource-links.skillr-free-practice-bubble:hover{background:#1c48b7}
+#skillr-resource-links.skillr-free-practice-bubble:focus-visible{outline:3px solid #d78c09;outline-offset:3px}
+@media(max-width:480px){#skillr-resource-links.skillr-free-practice-bubble{min-height:44px;padding:10px 15px;font-size:13px}}

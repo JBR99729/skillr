@@ -123,7 +123,7 @@
   if (window.__skillrResourceLinksLoading) return;
   window.__skillrResourceLinksLoading = true;
   var script = document.createElement('script');
-  script.src = '/assets/resource-links.js?v=20261013-repair';
+  script.src = '/assets/resource-links.js?v=20261026-practice';
   script.defer = true;
   document.head.appendChild(script);
 }());
