@@ -39,7 +39,7 @@ export async function mountLearningStats(root=document,force=false) {
   for(const host of hosts)host.querySelector('[data-stats-refresh]').disabled=false;
  }
 }
-document.addEventListener('click',event=>{const button=event.target.closest('[data-stats-refresh]');if(button&&!button.disabled){event.stopPropagation();mountLearningStats(button.closest('.learning-promise'),true);}},true);
+document.addEventListener('click',event=>{const button=event.target.closest('[data-stats-refresh]');if(button&&!button.disabled){event.stopPropagation();mountLearningStats(document,true);}},true);
 setInterval(()=>{if(!document.hidden)mountLearningStats(document,true);},180000);
 document.addEventListener('visibilitychange',()=>{if(!document.hidden)mountLearningStats(document,false);});
 mountLearningStats();
