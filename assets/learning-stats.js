@@ -3,10 +3,10 @@ const key = 'sb_publishable_hLEut429BJkYV-k5jksjhA_23IYBa75';
 let cached = null, pending = null;
 const format = value => value.toLocaleString('en-AU');
 function valid(data) {
- return data?.source === 'learning_work_v1' && Number.isSafeInteger(data.total_answered) && data.total_answered>=0 && Number.isFinite(Date.parse(data.generated_at));
+ return ['learning_work_v1','learning_work_guest_v2'].includes(data?.source) && Number.isSafeInteger(data.total_answered) && data.total_answered>=0 && Number.isFinite(Date.parse(data.generated_at));
 }
 async function summary(force) {
- if (!force && cached && Date.now()-cached.at<60000) return cached.data;
+ if (!force && cached && Date.now()-cached.at<180000) return cached.data;
  if (!pending) pending = (async()=>{
   const controller = new AbortController(), timer = setTimeout(()=>controller.abort(),10000);
   try {
@@ -27,8 +27,11 @@ export async function mountLearningStats(root=document,force=false) {
   for (const host of hosts) {
    const el=name=>host.querySelector(`[data-stat="${name}"]`);
    el('total').textContent=format(data.total_answered);
-   el('milestone').textContent='Every answer is a step in our shared learning journey. Keep practising and help the counter grow!';
-   el('status').textContent=`Updated ${new Date(data.generated_at).toLocaleString('en-AU',{timeZone:'Australia/Sydney',dateStyle:'medium',timeStyle:'short'})} (Sydney time). Saved answers only; test accounts excluded.`;
+   const total=data.total_answered,remaining=Math.max(0,1000000-total);
+   const proportion=Math.min(100,total/10000);
+   el('milestone').textContent=remaining?format(remaining)+' more genuinely submitted answers towards 1,000,000 ('+proportion.toFixed(2)+'%).':'One million genuinely submitted answers reached!';
+   const bar=host.querySelector('[data-free-progress]');if(bar){bar.value=Math.min(1000000,total);bar.setAttribute('aria-valuetext',format(total)+' of 1,000,000 submitted answers');}
+   el('status').textContent=`Updated ${new Date(data.generated_at).toLocaleString('en-AU',{timeZone:'Australia/Sydney',dateStyle:'medium',timeStyle:'short'})} (Sydney time). ${data.source==='learning_work_guest_v2'?'Registered and no-login submitted answers':'Registered submissions only (guest tracking upgrade pending)'}; test accounts excluded. This measures answer events, not unique learners or mastery.`;
   }
  } catch {
   for(const host of hosts){host.querySelector('[data-stat="status"]').textContent='Statistics are temporarily unavailable. Please try again.';}
@@ -37,6 +40,6 @@ export async function mountLearningStats(root=document,force=false) {
  }
 }
 document.addEventListener('click',event=>{const button=event.target.closest('[data-stats-refresh]');if(button&&!button.disabled){event.stopPropagation();mountLearningStats(button.closest('.learning-promise'),true);}},true);
-setInterval(()=>{if(!document.hidden)mountLearningStats(document,true);},60000);
-document.addEventListener('visibilitychange',()=>{if(!document.hidden)mountLearningStats(document,true);});
+setInterval(()=>{if(!document.hidden)mountLearningStats(document,true);},180000);
+document.addEventListener('visibilitychange',()=>{if(!document.hidden)mountLearningStats(document,false);});
 mountLearningStats();
