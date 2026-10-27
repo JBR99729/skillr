@@ -1,0 +1,624 @@
+{
+  "generated_on": "2026-10-27",
+  "source": "Supabase published practice question_bank_items (approved availability snapshot); no bank content copied",
+  "skills": [
+    {
+      "code": "AC9MFA01",
+      "title": "Recognise, copy and continue repeating patterns",
+      "year": 0,
+      "question_count": 30
+    },
+    {
+      "code": "AC9MFM01",
+      "title": "Compare length, mass, capacity and duration",
+      "year": 0,
+      "question_count": 40
+    },
+    {
+      "code": "AC9MFM02",
+      "title": "Days, daily events and sequences",
+      "year": 0,
+      "question_count": 40
+    },
+    {
+      "code": "AC9MFN01",
+      "title": "Numbers to 20",
+      "year": 0,
+      "question_count": 60
+    },
+    {
+      "code": "AC9MFN02",
+      "title": "Subitise quantities to 5",
+      "year": 0,
+      "question_count": 34
+    },
+    {
+      "code": "AC9MFN03",
+      "title": "Count and compare groups to 20",
+      "year": 0,
+      "question_count": 50
+    },
+    {
+      "code": "AC9MFN04",
+      "title": "Make and split numbers to 10",
+      "year": 0,
+      "question_count": 50
+    },
+    {
+      "code": "AC9MFN05",
+      "title": "Model adding and taking away",
+      "year": 0,
+      "question_count": 50
+    },
+    {
+      "code": "AC9MFN06",
+      "title": "Share and group objects equally",
+      "year": 0,
+      "question_count": 40
+    },
+    {
+      "code": "AC9MFST01",
+      "title": "Collect, sort and compare data",
+      "year": 0,
+      "question_count": 40
+    },
+    {
+      "code": "AC9M1A01",
+      "title": "Skip-counting patterns",
+      "year": 1,
+      "question_count": 60
+    },
+    {
+      "code": "AC9M1A02",
+      "title": "Repeating patterns",
+      "year": 1,
+      "question_count": 66
+    },
+    {
+      "code": "AC9M1M01",
+      "title": "Comparing measurements",
+      "year": 1,
+      "question_count": 50
+    },
+    {
+      "code": "AC9M1M02",
+      "title": "Measuring with equal units",
+      "year": 1,
+      "question_count": 50
+    },
+    {
+      "code": "AC9M1M03",
+      "title": "Time and duration",
+      "year": 1,
+      "question_count": 50
+    },
+    {
+      "code": "AC9M1N01",
+      "title": "Numbers to 120",
+      "year": 1,
+      "question_count": 63
+    },
+    {
+      "code": "AC9M1N02",
+      "title": "Partitioning tens and ones",
+      "year": 1,
+      "question_count": 56
+    },
+    {
+      "code": "AC9M1N03",
+      "title": "Skip counting and equal groups",
+      "year": 1,
+      "question_count": 50
+    },
+    {
+      "code": "AC9M1N04",
+      "title": "Adding and taking away to 20",
+      "year": 1,
+      "question_count": 61
+    },
+    {
+      "code": "AC9M1N05",
+      "title": "Solving additive problems and simple money",
+      "year": 1,
+      "question_count": 60
+    },
+    {
+      "code": "AC9M1N06",
+      "title": "Equal sharing and grouping",
+      "year": 1,
+      "question_count": 60
+    },
+    {
+      "code": "AC9M1SP01",
+      "title": "Familiar shapes and objects",
+      "year": 1,
+      "question_count": 50
+    },
+    {
+      "code": "AC9M1SP02",
+      "title": "Position and directions",
+      "year": 1,
+      "question_count": 50
+    },
+    {
+      "code": "AC9M1ST01",
+      "title": "Collect and record data",
+      "year": 1,
+      "question_count": 50
+    },
+    {
+      "code": "AC9M1ST02",
+      "title": "Represent and compare data",
+      "year": 1,
+      "question_count": 50
+    },
+    {
+      "code": "AC9M2A01",
+      "title": "Growing and shrinking patterns",
+      "year": 2,
+      "question_count": 60
+    },
+    {
+      "code": "AC9M2A02",
+      "title": "Addition facts to 20 and related subtraction",
+      "year": 2,
+      "question_count": 60
+    },
+    {
+      "code": "AC9M2A03",
+      "title": "Twos, doubling and halving",
+      "year": 2,
+      "question_count": 60
+    },
+    {
+      "code": "AC9M2M01",
+      "title": "Measure and compare with informal units",
+      "year": 2,
+      "question_count": 50
+    },
+    {
+      "code": "AC9M2M02",
+      "title": "Halves, quarters and eighths in measurement",
+      "year": 2,
+      "question_count": 60
+    },
+    {
+      "code": "AC9M2M03",
+      "title": "Read calendars and determine durations",
+      "year": 2,
+      "question_count": 60
+    },
+    {
+      "code": "AC9M2M04",
+      "title": "Read and represent time",
+      "year": 2,
+      "question_count": 60
+    },
+    {
+      "code": "AC9M2M05",
+      "title": "Turns and directions",
+      "year": 2,
+      "question_count": 60
+    },
+    {
+      "code": "AC9M2N01",
+      "title": "Numbers to 1000",
+      "year": 2,
+      "question_count": 50
+    },
+    {
+      "code": "AC9M2N02",
+      "title": "Partition, regroup and rename numbers",
+      "year": 2,
+      "question_count": 30
+    },
+    {
+      "code": "AC9M2N03",
+      "title": "Halves, quarters and eighths",
+      "year": 2,
+      "question_count": 39
+    },
+    {
+      "code": "AC9M2N04",
+      "title": "Addition and subtraction strategies",
+      "year": 2,
+      "question_count": 30
+    },
+    {
+      "code": "AC9M2N05",
+      "title": "Multiplication and division",
+      "year": 2,
+      "question_count": 30
+    },
+    {
+      "code": "AC9M2N06",
+      "title": "Practical mathematical modelling",
+      "year": 2,
+      "question_count": 60
+    },
+    {
+      "code": "AC9M2SP01",
+      "title": "Recognise, compare and classify shapes",
+      "year": 2,
+      "question_count": 60
+    },
+    {
+      "code": "AC9M2SP02",
+      "title": "Position, pathways and plans",
+      "year": 2,
+      "question_count": 60
+    },
+    {
+      "code": "AC9M2ST01",
+      "title": "Collect, sort and record data",
+      "year": 2,
+      "question_count": 60
+    },
+    {
+      "code": "AC9M2ST02",
+      "title": "Represent and interpret data",
+      "year": 2,
+      "question_count": 60
+    },
+    {
+      "code": "AC9M3A01",
+      "title": "Addition and subtraction undo each other",
+      "year": 3,
+      "question_count": 75
+    },
+    {
+      "code": "AC9M3A02",
+      "title": "Use known facts for efficient mental calculation",
+      "year": 3,
+      "question_count": 75
+    },
+    {
+      "code": "AC9M3A03",
+      "title": "Multiplication facts and related division",
+      "year": 3,
+      "question_count": 60
+    },
+    {
+      "code": "AC9M3M01",
+      "title": "Choose metric units and make estimates",
+      "year": 3,
+      "question_count": 60
+    },
+    {
+      "code": "AC9M3M02",
+      "title": "Measure and compare with metric instruments",
+      "year": 3,
+      "question_count": 60
+    },
+    {
+      "code": "AC9M3M03",
+      "title": "Duration, units and time plans",
+      "year": 3,
+      "question_count": 60
+    },
+    {
+      "code": "AC9M3M04",
+      "title": "Read, connect and construct clocks",
+      "year": 3,
+      "question_count": 60
+    },
+    {
+      "code": "AC9M3M05",
+      "title": "Angles, right-angle turns and comparisons",
+      "year": 3,
+      "question_count": 60
+    },
+    {
+      "code": "AC9M3M06",
+      "title": "Represent, exchange and use Australian money",
+      "year": 3,
+      "question_count": 60
+    },
+    {
+      "code": "AC9M3N01",
+      "title": "Large numbers and place value",
+      "year": 3,
+      "question_count": 60
+    },
+    {
+      "code": "AC9M3N02",
+      "title": "Unit fractions, multiples and one whole",
+      "year": 3,
+      "question_count": 72
+    },
+    {
+      "code": "AC9M3N03",
+      "title": "Add and subtract with place value",
+      "year": 3,
+      "question_count": 60
+    },
+    {
+      "code": "AC9M3N04",
+      "title": "Multiply and divide with models and strategies",
+      "year": 3,
+      "question_count": 60
+    },
+    {
+      "code": "AC9M3N05",
+      "title": "Estimate quantities and check calculations",
+      "year": 3,
+      "question_count": 60
+    },
+    {
+      "code": "AC9M3N06",
+      "title": "Maths in everyday life",
+      "year": 3,
+      "question_count": 60
+    },
+    {
+      "code": "AC9M3N07",
+      "title": "Follow, create and investigate number algorithms",
+      "year": 3,
+      "question_count": 72
+    },
+    {
+      "code": "AC9M3P01",
+      "title": "Chance, possible outcomes and predictions",
+      "year": 3,
+      "question_count": 60
+    },
+    {
+      "code": "AC9M3P02",
+      "title": "Repeated chance experiments and variation",
+      "year": 3,
+      "question_count": 60
+    },
+    {
+      "code": "AC9M3SP01",
+      "title": "Make, compare and use three-dimensional objects",
+      "year": 3,
+      "question_count": 60
+    },
+    {
+      "code": "AC9M3SP02",
+      "title": "Read and create familiar-place maps",
+      "year": 3,
+      "question_count": 60
+    },
+    {
+      "code": "AC9M3ST01",
+      "title": "Collect and record data",
+      "year": 3,
+      "question_count": 60
+    },
+    {
+      "code": "AC9M3ST02",
+      "title": "Create and read data displays",
+      "year": 3,
+      "question_count": 60
+    },
+    {
+      "code": "AC9M3ST03",
+      "title": "Carry out a data investigation",
+      "year": 3,
+      "question_count": 60
+    },
+    {
+      "code": "AC9M4A01",
+      "title": "Find unknown values in addition and subtraction equations",
+      "year": 4,
+      "question_count": 105
+    },
+    {
+      "code": "AC9M4A02",
+      "title": "Recall multiplication facts and extend them mentally",
+      "year": 4,
+      "question_count": 105
+    },
+    {
+      "code": "AC9M4M01",
+      "title": "Interpret scaled measuring instruments and partial units",
+      "year": 4,
+      "question_count": 96
+    },
+    {
+      "code": "AC9M4M02",
+      "title": "Measure and estimate perimeter and area",
+      "year": 4,
+      "question_count": 105
+    },
+    {
+      "code": "AC9M4M03",
+      "title": "Calculate duration and convert time units",
+      "year": 4,
+      "question_count": 105
+    },
+    {
+      "code": "AC9M4M04",
+      "title": "Estimate and compare angles",
+      "year": 4,
+      "question_count": 105
+    },
+    {
+      "code": "AC9M4N01",
+      "title": "Tenths and hundredths",
+      "year": 4,
+      "question_count": 90
+    },
+    {
+      "code": "AC9M4N02",
+      "title": "Odd and even number patterns",
+      "year": 4,
+      "question_count": 90
+    },
+    {
+      "code": "AC9M4N03",
+      "title": "Equivalent fractions and decimals",
+      "year": 4,
+      "question_count": 90
+    },
+    {
+      "code": "AC9M4N04",
+      "title": "Count and locate fractions",
+      "year": 4,
+      "question_count": 90
+    },
+    {
+      "code": "AC9M4N05",
+      "title": "Multiply and divide by tens",
+      "year": 4,
+      "question_count": 90
+    },
+    {
+      "code": "AC9M4N06",
+      "title": "Choose efficient calculation strategies",
+      "year": 4,
+      "question_count": 90
+    },
+    {
+      "code": "AC9M4N07",
+      "title": "Estimate and check sensible answers",
+      "year": 4,
+      "question_count": 90
+    },
+    {
+      "code": "AC9M4N08",
+      "title": "Mathematical modelling in practical and financial situations",
+      "year": 4,
+      "question_count": 105
+    },
+    {
+      "code": "AC9M4N09",
+      "title": "Follow and create algorithms to generate number sets",
+      "year": 4,
+      "question_count": 105
+    },
+    {
+      "code": "AC9M4P01",
+      "title": "Describe and compare chance events",
+      "year": 4,
+      "question_count": 105
+    },
+    {
+      "code": "AC9M4P02",
+      "title": "Conduct repeated chance experiments",
+      "year": 4,
+      "question_count": 100
+    },
+    {
+      "code": "AC9M4SP01",
+      "title": "Represent and approximate composite shapes and objects",
+      "year": 4,
+      "question_count": 105
+    },
+    {
+      "code": "AC9M4SP02",
+      "title": "Grid references and pathways",
+      "year": 4,
+      "question_count": 105
+    },
+    {
+      "code": "AC9M4SP03",
+      "title": "Recognise symmetry and create symmetrical patterns",
+      "year": 4,
+      "question_count": 105
+    },
+    {
+      "code": "AC9M4ST01",
+      "title": "Acquire, represent and interpret data",
+      "year": 4,
+      "question_count": 100
+    },
+    {
+      "code": "AC9M4ST02",
+      "title": "Compare data displays and distributions",
+      "year": 4,
+      "question_count": 105
+    },
+    {
+      "code": "AC9M4ST03",
+      "title": "Investigate, record and communicate data",
+      "year": 4,
+      "question_count": 92
+    },
+    {
+      "code": "AC9M5A01",
+      "title": "Multiplication and division connections",
+      "year": 5,
+      "question_count": 45
+    },
+    {
+      "code": "AC9M5A02",
+      "title": "Unknown values and operation properties",
+      "year": 5,
+      "question_count": 90
+    },
+    {
+      "code": "AC9M5M01",
+      "title": "Metric units and accurate measurement",
+      "year": 5,
+      "question_count": 77
+    },
+    {
+      "code": "AC9M5N01",
+      "title": "Decimal place value and number lines",
+      "year": 5,
+      "question_count": 69
+    },
+    {
+      "code": "AC9M5N02",
+      "title": "Factors, multiples and divisibility",
+      "year": 5,
+      "question_count": 105
+    },
+    {
+      "code": "AC9M5N03",
+      "title": "Compare and order fractions and mixed numerals",
+      "year": 5,
+      "question_count": 105
+    },
+    {
+      "code": "AC9M5N04",
+      "title": "Connect percentages, fractions and decimals",
+      "year": 5,
+      "question_count": 105
+    },
+    {
+      "code": "AC9M5N05",
+      "title": "Add and subtract fractions",
+      "year": 5,
+      "question_count": 105
+    },
+    {
+      "code": "AC9M5N06",
+      "title": "Choose efficient multiplication strategies",
+      "year": 5,
+      "question_count": 105
+    },
+    {
+      "code": "AC9M5N07",
+      "title": "Divide and interpret remainders",
+      "year": 5,
+      "question_count": 105
+    },
+    {
+      "code": "AC9M5N08",
+      "title": "Estimate and check reasonableness",
+      "year": 5,
+      "question_count": 52
+    },
+    {
+      "code": "AC9M5N09",
+      "title": "Model practical situations and money",
+      "year": 5,
+      "question_count": 88
+    },
+    {
+      "code": "AC9M5N10",
+      "title": "Algorithms, factors and divisibility",
+      "year": 5,
+      "question_count": 68
+    },
+    {
+      "code": "AC9M6N01",
+      "title": "Integers and Cartesian coordinates",
+      "year": 6,
+      "question_count": 150
+    }
+  ]
+}
