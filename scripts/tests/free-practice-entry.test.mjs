@@ -7,8 +7,8 @@ import {parseHTML} from 'linkedom';
 test('homepage leads with free value, year shortcuts and installation, with sales only in footer',async()=>{
  const {document}=parseHTML(await readFile('index.html','utf8'));
  const hero=document.querySelector('main>section');assert(hero.classList.contains('home-free-practice'));
- assert.match(hero.textContent,/20 free/);assert.equal(hero.querySelectorAll('.home-practice-years a').length,6);
- for(const a of hero.querySelectorAll('.home-practice-years a')){const u=new URL(a.href);assert.equal(u.searchParams.get('quick'),'1');assert.match(u.searchParams.get('year'),/^[0-5]$/);}
+ assert.match(hero.textContent,/free Maths questions/);assert.equal(hero.querySelectorAll('.home-practice-years a').length,6);
+ for(const a of hero.querySelectorAll('.home-practice-years a')){const u=new URL(a.href);assert.match(u.searchParams.get('skill'),/^AC9M(?:F|[1-5])N01$/);}
  assert(hero.querySelector('a[href*="install=1"]'));assert.equal(document.querySelector('main .home-product-proof'),null);assert.equal(document.querySelector('main .home-samples'),null);
  assert.equal(document.querySelectorAll('main a[href*="product.html"],main a[href*="teacherspayteachers"],main a[href="/print-and-go.html"]').length,0);
  assert(document.querySelector('footer a[href*="teacherspayteachers"]'));assert(!document.querySelector('header a[href="/print-and-go.html"]'));
