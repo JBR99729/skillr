@@ -19,3 +19,7 @@ Source comparison passes: one H1; self-canonical/index-follow; unchanged Google/
 Full-tree release integrity and live deployment/browser checks are performed separately before reporting publication complete. Search appearance and rankings remain Google's decision; this change does not establish a measured traffic gain.
 
 Reference: `docs/SKILLRHUB_PRODUCT_BUSINESS_PHILOSOPHY.md`; Google's title-link, site-name and descriptive internal-link guidance. The work extends the existing useful homepage rather than creating a separate keyword landing page.
+
+## Live verification follow-up
+
+The first live check found the new topic panel had been placed inside the existing hidden promotion comment. The panel is moved outside that comment; the archived promotion remains hidden. Validation now explicitly strips comments and requires exactly eight visible topic links, rather than only validating the destinations of links found. The six practice-year shortcuts are unchanged. Homepage title, description, H1, WebPage graph and canonical were verified live; representative desktop rendering has no horizontal overflow.
