@@ -1,0 +1,1021 @@
+{
+  "date": "2026-10-28",
+  "scope": "48 existing curriculum topic guides, selected from the 676 guides in the current manifest. Owner expectation of 687 remains unreconciled.",
+  "selection_method": "Prioritise prior Search Console visibility, focused parent/teacher topic intent, coherent primary-school clusters, existing useful static teaching and actual resource availability. External search results validate vocabulary/resource intent only; no keyword-volume data or claim of the 48 highest-volume codes.",
+  "sources": [
+    "docs/qa/seo-study-2026-10-19/catalogue-visibility.json",
+    "data/curriculum-units.json",
+    "Google Search Console native comparison: 2026-09-01–28 versus 2026-09-29–10-26; AC9M3M04 450→10, AC9M3M03 355→2, AC9M4N02 118→4, AC9M1SP01 118→6",
+    "Search intent observations on 2026-10-28: year 3 time/fractions/multiplication, year 5–6 fractions/decimals/percentages; existing educational resource results, not volume estimates."
+  ],
+  "codes": [
+    {
+      "code": "AC9MFN01",
+      "title": "Foundation Counting and Numbers to 20",
+      "link_label": "Foundation: counting and numbers to 20",
+      "topic": "Counting and Numbers to 20",
+      "primary_search_phrase": "foundation counting and numbers to 20",
+      "description": "Foundation counting and numbers to 20: clear teaching, worked examples and free learning resources for AC9MFN01. Optional printable packs are separate.",
+      "introduction": "Count objects once each, match quantities to numerals and put numbers to 20 in order. Connect the written number 14 to fourteen objects, then locate it between 13 and 15.",
+      "related_codes": [
+        "AC9MFN02",
+        "AC9MFN04"
+      ],
+      "guide_url": "/foundation/maths/ac9mfn01-name-represent-and-order-numbers-including-zero-to-at-least/",
+      "subject": "Maths",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 1,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9MFN02",
+      "title": "Foundation Subitising to 5",
+      "link_label": "Foundation: subitising to 5",
+      "topic": "Subitising to 5",
+      "primary_search_phrase": "foundation subitising to 5",
+      "description": "Foundation subitising to 5: clear teaching, worked examples and free learning resources for AC9MFN02. Optional printable packs are separate.",
+      "introduction": "Subitising means recognising how many objects are in a small group without counting them one at a time. Learn to recognise amounts up to 5, even when the same objects are arranged differently.",
+      "related_codes": [
+        "AC9MFN01",
+        "AC9MFN04"
+      ],
+      "guide_url": "/foundation/maths/ac9mfn02-and-name-the-number-of-objects-within-a-collection-up/",
+      "subject": "Maths",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 1,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9MFN04",
+      "title": "Foundation Number Bonds to 10",
+      "link_label": "Foundation: number bonds to 10",
+      "topic": "Number Bonds to 10",
+      "primary_search_phrase": "foundation number bonds to 10",
+      "description": "Foundation number bonds to 10: clear teaching, worked examples and free learning resources for AC9MFN04. Optional printable packs are separate.",
+      "introduction": "Explore how a number can be split into parts and put back together. Five objects and three objects make eight altogether: the parts change, but the whole stays eight.",
+      "related_codes": [
+        "AC9MFN02",
+        "AC9M1N04"
+      ],
+      "guide_url": "/foundation/maths/ac9mfn04-partition-and-combine-collections-up-to-10-using-part-part/",
+      "subject": "Maths",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 1,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9MFA01",
+      "title": "Foundation Repeating Patterns",
+      "link_label": "Foundation: repeating patterns",
+      "topic": "Repeating Patterns",
+      "primary_search_phrase": "foundation repeating patterns",
+      "description": "Foundation repeating patterns: clear teaching, worked examples and free learning resources for AC9MFA01. Optional printable packs are separate.",
+      "introduction": "Find the repeating unit before continuing a pattern. In red, blue, red, blue, the unit is red-blue; recognising that whole unit helps children copy, extend and create patterns.",
+      "related_codes": [
+        "AC9M1A02",
+        "AC9MFSP01"
+      ],
+      "guide_url": "/foundation/maths/ac9mfa01-recognise-copy-and-continue-repeating-patterns-represented-in/",
+      "subject": "Maths",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 1,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9MFSP01",
+      "title": "Foundation Recognising and Sorting Shapes",
+      "link_label": "Foundation: recognising and sorting shapes",
+      "topic": "Recognising and Sorting Shapes",
+      "primary_search_phrase": "foundation recognising and sorting shapes",
+      "description": "Foundation recognising and sorting shapes: clear teaching, worked examples and free learning resources for AC9MFSP01. Optional printable packs are separate.",
+      "introduction": "Name and sort familiar shapes by their features, rather than by their colour or size. Turn a triangle around and it still has three straight sides and three corners.",
+      "related_codes": [
+        "AC9M1SP01",
+        "AC9MFA01"
+      ],
+      "guide_url": "/foundation/maths/ac9mfsp01-sort-name-and-create-familiar-shapes-recognise-and-describe/",
+      "subject": "Maths",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 2,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9M1N01",
+      "title": "Year 1 Numbers to 120",
+      "link_label": "Year 1: numbers to 120",
+      "topic": "Numbers to 120",
+      "primary_search_phrase": "year 1 numbers to 120",
+      "description": "Year 1 numbers to 120: clear teaching, worked examples and free learning resources for AC9M1N01. Optional printable packs are separate.",
+      "introduction": "Read, build and order numbers to 120 using tens and ones, number lines and a 120 chart. For example, 103 is one hundred and three ones; its zero shows that there are no extra tens.",
+      "related_codes": [
+        "AC9M1N02",
+        "AC9M1N03"
+      ],
+      "guide_url": "/year1/maths/ac9m1n01-numbers-to-120/",
+      "subject": "Maths",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 2,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9M1N02",
+      "title": "Year 1 Tens and Ones Place Value",
+      "link_label": "Year 1: tens and ones place value",
+      "topic": "Tens and Ones Place Value",
+      "primary_search_phrase": "year 1 tens and ones place value",
+      "description": "Year 1 tens and ones place value: clear teaching, worked examples and free learning resources for AC9M1N02. Optional printable packs are separate.",
+      "introduction": "Partition two-digit numbers into tens and ones, then explore different ways to make the same quantity. For example, 47 can be shown as 4 tens and 7 ones, or 3 tens and 17 ones.",
+      "related_codes": [
+        "AC9M1N01",
+        "AC9M2N02"
+      ],
+      "guide_url": "/year1/maths/ac9m1n02-partitioning-tens-and-ones/",
+      "subject": "Maths",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 10,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9M1N03",
+      "title": "Year 1 Skip Counting and Equal Groups",
+      "link_label": "Year 1: skip counting and equal groups",
+      "topic": "Skip Counting and Equal Groups",
+      "primary_search_phrase": "year 1 skip counting and equal groups",
+      "description": "Year 1 skip counting and equal groups: clear teaching, worked examples and free learning resources for AC9M1N03. Optional printable packs are separate.",
+      "introduction": "Count collections efficiently by making equal groups, then skip count to find the total. Six groups of five contain 30 objects; the group size must stay the same when counting by fives.",
+      "related_codes": [
+        "AC9M1A01",
+        "AC9M1N06"
+      ],
+      "guide_url": "/year1/maths/ac9m1n03-skip-counting-and-equal-groups/",
+      "subject": "Maths",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 12,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9M1N04",
+      "title": "Year 1 Addition and Subtraction to 20",
+      "link_label": "Year 1: addition and subtraction to 20",
+      "topic": "Addition and Subtraction to 20",
+      "primary_search_phrase": "year 1 addition and subtraction to 20",
+      "description": "Year 1 addition and subtraction to 20: clear teaching, worked examples and free learning resources for AC9M1N04. Optional printable packs are separate.",
+      "introduction": "Add and subtract within 20 using objects, number bonds and strategies such as making ten. To work out 8 + 5, move 2 from the 5 to make 10, then add the remaining 3: 13.",
+      "related_codes": [
+        "AC9MFN04",
+        "AC9M2N04"
+      ],
+      "guide_url": "/year1/maths/ac9m1n04-addition-and-subtraction-within-20/",
+      "subject": "Maths",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 0,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9M1N06",
+      "title": "Year 1 Equal Sharing and Grouping",
+      "link_label": "Year 1: equal sharing and grouping",
+      "topic": "Equal Sharing and Grouping",
+      "primary_search_phrase": "year 1 equal sharing and grouping",
+      "description": "Year 1 equal sharing and grouping: clear teaching, worked examples and free learning resources for AC9M1N06. Optional printable packs are separate.",
+      "introduction": "Use objects and diagrams to solve sharing and grouping problems. Sharing 12 counters equally between 3 children gives 4 each; making groups of 3 from 12 counters gives 4 groups.",
+      "related_codes": [
+        "AC9M1N03",
+        "AC9M2N05"
+      ],
+      "guide_url": "/year1/maths/ac9m1n06-equal-sharing-and-grouping/",
+      "subject": "Maths",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 4,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9M1A01",
+      "title": "Year 1 Skip Counting by 2s, 5s and 10s",
+      "link_label": "Year 1: skip counting by 2s, 5s and 10s",
+      "topic": "Skip Counting by 2s, 5s and 10s",
+      "primary_search_phrase": "year 1 skip counting by 2s, 5s and 10s",
+      "description": "Year 1 skip counting by 2s, 5s and 10s: clear teaching, worked examples and free learning resources for AC9M1A01. Optional printable packs are separate.",
+      "introduction": "Continue number patterns by finding the equal jump between terms. In 15, 20, 25, each step adds 5, so 30 comes next; connect those jumps to groups of five objects.",
+      "related_codes": [
+        "AC9M1N03",
+        "AC9M2A03"
+      ],
+      "guide_url": "/year1/maths/ac9m1a01-skip-counting-pattern-sequences/",
+      "subject": "Maths",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 38,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9M1A02",
+      "title": "Year 1 Repeating Patterns and Pattern Units",
+      "link_label": "Year 1: repeating patterns and pattern units",
+      "topic": "Repeating Patterns and Pattern Units",
+      "primary_search_phrase": "year 1 repeating patterns and pattern units",
+      "description": "Year 1 repeating patterns and pattern units: clear teaching, worked examples and free learning resources for AC9M1A02. Optional printable packs are separate.",
+      "introduction": "Identify the complete repeating unit, then copy, continue and create a pattern. In circle, circle, square, circle, circle, square, the three-shape unit repeats as a group.",
+      "related_codes": [
+        "AC9MFA01",
+        "AC9M1SP01"
+      ],
+      "guide_url": "/year1/maths/ac9m1a02-repeating-patterns/",
+      "subject": "Maths",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 20,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9M1SP01",
+      "title": "Year 1 2D Shapes and 3D Objects",
+      "link_label": "Year 1: 2d shapes and 3d objects",
+      "topic": "2D Shapes and 3D Objects",
+      "primary_search_phrase": "year 1 2d shapes and 3d objects",
+      "description": "Year 1 2d shapes and 3d objects: clear teaching, worked examples and free learning resources for AC9M1SP01. Optional printable packs are separate.",
+      "introduction": "Compare familiar flat shapes and objects using their features. A square has four equal straight sides, while a cube is an object with flat square faces; turning either does not change what it is.",
+      "related_codes": [
+        "AC9MFSP01",
+        "AC9M1A02"
+      ],
+      "guide_url": "/year1/maths/ac9m1sp01-familiar-shapes-and-objects/",
+      "subject": "Maths",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 55,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9M1M02",
+      "title": "Year 1 Measuring Length with Informal Units",
+      "link_label": "Year 1: measuring length with informal units",
+      "topic": "Measuring Length with Informal Units",
+      "primary_search_phrase": "year 1 measuring length with informal units",
+      "description": "Year 1 measuring length with informal units: clear teaching, worked examples and free learning resources for AC9M1M02. Optional printable packs are separate.",
+      "introduction": "Measure length with equal-sized units placed end-to-end, without gaps or overlaps. If a pencil is six identical blocks long, those six blocks describe its length in that chosen unit.",
+      "related_codes": [
+        "AC9M2M01",
+        "AC9M1N03"
+      ],
+      "guide_url": "/year1/maths/ac9m1m02-measuring-length-with-informal-units/",
+      "subject": "Maths",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 2,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9M2N01",
+      "title": "Year 2 Numbers to 1000 and Place Value",
+      "link_label": "Year 2: numbers to 1000 and place value",
+      "topic": "Numbers to 1000 and Place Value",
+      "primary_search_phrase": "year 2 numbers to 1000 and place value",
+      "description": "Year 2 numbers to 1000 and place value: clear teaching, worked examples and free learning resources for AC9M2N01. Optional printable packs are separate.",
+      "introduction": "Read, represent and order numbers to 1000 using hundreds, tens, ones and number lines. In 406, the zero keeps the tens place empty; 406 is greater than 399 because it has four hundreds.",
+      "related_codes": [
+        "AC9M2N02",
+        "AC9M3N01"
+      ],
+      "guide_url": "/year2/maths/ac9m2n01-recognise-represent-and-order-numbers-to-at-least-1000-using/",
+      "subject": "Maths",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 3,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9M2N02",
+      "title": "Year 2 Regrouping Hundreds, Tens and Ones",
+      "link_label": "Year 2: regrouping hundreds, tens and ones",
+      "topic": "Regrouping Hundreds, Tens and Ones",
+      "primary_search_phrase": "year 2 regrouping hundreds, tens and ones",
+      "description": "Year 2 regrouping hundreds, tens and ones: clear teaching, worked examples and free learning resources for AC9M2N02. Optional printable packs are separate.",
+      "introduction": "Rename two- and three-digit numbers while keeping the quantity unchanged. For example, 326 is 3 hundreds, 2 tens and 6 ones, or 2 hundreds, 12 tens and 6 ones.",
+      "related_codes": [
+        "AC9M1N02",
+        "AC9M2N04"
+      ],
+      "guide_url": "/year2/maths/ac9m2n02-partition-rearrange-regroup-and-rename-two-and-three-digit/",
+      "subject": "Maths",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 4,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9M2N03",
+      "title": "Year 2 Halves, Quarters and Eighths",
+      "link_label": "Year 2: halves, quarters and eighths",
+      "topic": "Halves, Quarters and Eighths",
+      "primary_search_phrase": "year 2 halves, quarters and eighths",
+      "description": "Year 2 halves, quarters and eighths: clear teaching, worked examples and free learning resources for AC9M2N03. Optional printable packs are separate.",
+      "introduction": "Make halves, quarters and eighths by repeatedly halving the same whole into equal parts. Halving each half makes quarters; halving each quarter makes eighths. The parts become smaller as their number increases.",
+      "related_codes": [
+        "AC9M3N02",
+        "AC9M2M04"
+      ],
+      "guide_url": "/year2/maths/ac9m2n03-and-describe-one-half-as-one-of-2-equal-parts-of/",
+      "subject": "Maths",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 0,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9M2N04",
+      "title": "Year 2 Two-Digit Addition and Subtraction",
+      "link_label": "Year 2: two-digit addition and subtraction",
+      "topic": "Two-Digit Addition and Subtraction",
+      "primary_search_phrase": "year 2 two-digit addition and subtraction",
+      "description": "Year 2 two-digit addition and subtraction: clear teaching, worked examples and free learning resources for AC9M2N04. Optional printable packs are separate.",
+      "introduction": "Add and subtract one- and two-digit numbers using place value, part-part-whole reasoning and clear representations. For 46 + 27, combine 40 + 20 and 6 + 7 to make 60 + 13 = 73.",
+      "related_codes": [
+        "AC9M1N04",
+        "AC9M2N02"
+      ],
+      "guide_url": "/year2/maths/ac9m2n04-add-and-subtract-one-and-two-digit-numbers-representing/",
+      "subject": "Maths",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 3,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9M2N05",
+      "title": "Year 2 Multiplication Arrays and Division",
+      "link_label": "Year 2: multiplication arrays and division",
+      "topic": "Multiplication Arrays and Division",
+      "primary_search_phrase": "year 2 multiplication arrays and division",
+      "description": "Year 2 multiplication arrays and division: clear teaching, worked examples and free learning resources for AC9M2N05. Optional printable packs are separate.",
+      "introduction": "Connect repeated addition, equal groups and arrays to multiplication and division. An array of 3 rows with 4 counters in each row shows 3 groups of 4 and a total of 12.",
+      "related_codes": [
+        "AC9M1N06",
+        "AC9M2A03"
+      ],
+      "guide_url": "/year2/maths/ac9m2n05-multiply-and-divide-by-one-digit-numbers-using-repeated/",
+      "subject": "Maths",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 1,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9M2A03",
+      "title": "Year 2 Two Times Tables, Doubling and Halving",
+      "link_label": "Year 2: two times tables, doubling and halving",
+      "topic": "Two Times Tables, Doubling and Halving",
+      "primary_search_phrase": "year 2 two times tables, doubling and halving",
+      "description": "Year 2 two times tables, doubling and halving: clear teaching, worked examples and free learning resources for AC9M2A03. Optional printable packs are separate.",
+      "introduction": "Connect the two times table with doubling and related division facts. Double 7 is 14, so 2 × 7 = 14 and sharing 14 equally into 2 groups gives 7 in each group.",
+      "related_codes": [
+        "AC9M1A01",
+        "AC9M2N05"
+      ],
+      "guide_url": "/year2/maths/ac9m2a03-recall-and-demonstrate-proficiency-with-multiplication-facts/",
+      "subject": "Maths",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 9,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9M2M04",
+      "title": "Year 2 Telling Time: Hour, Half Past and Quarter Past",
+      "link_label": "Year 2: telling time: hour, half past and quarter past",
+      "topic": "Telling Time: Hour, Half Past and Quarter Past",
+      "primary_search_phrase": "year 2 telling time: hour, half past and quarter past",
+      "description": "Year 2 telling time: hour, half past and quarter past: clear teaching, worked examples and free learning resources for AC9M2M04. Optional printable packs are separate.",
+      "introduction": "Read analogue clocks to the hour, half-hour and quarter-hour. At quarter past 3, the minute hand points to 3 and the hour hand has moved a little beyond 3.",
+      "related_codes": [
+        "AC9M3M04",
+        "AC9M2N03"
+      ],
+      "guide_url": "/year2/maths/ac9m2m04-and-read-the-time-represented-on-an-analog-clock-to/",
+      "subject": "Maths",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 0,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9M3N01",
+      "title": "Year 3 Place Value Beyond 10,000",
+      "link_label": "Year 3: place value beyond 10,000",
+      "topic": "Place Value Beyond 10,000",
+      "primary_search_phrase": "year 3 place value beyond 10,000",
+      "description": "Year 3 place value beyond 10,000: clear teaching, worked examples and free learning resources for AC9M3N01. Optional printable packs are separate.",
+      "introduction": "Read, write and order natural numbers beyond 10,000 by comparing place values from left to right. In 24,508, the 4 represents 4,000 and the zero holds the tens place.",
+      "related_codes": [
+        "AC9M2N01",
+        "AC9M4N01"
+      ],
+      "guide_url": "/year3/maths/ac9m3n01-recognise-represent-and-order-natural-numbers-using-naming-and/",
+      "subject": "Maths",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 2,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9M3N02",
+      "title": "Year 3 Unit Fractions and Fraction Number Lines",
+      "link_label": "Year 3: unit fractions and fraction number lines",
+      "topic": "Unit Fractions and Fraction Number Lines",
+      "primary_search_phrase": "year 3 unit fractions and fraction number lines",
+      "description": "Year 3 unit fractions and fraction number lines: clear teaching, worked examples and free learning resources for AC9M3N02. Optional printable packs are separate.",
+      "introduction": "Represent unit fractions and their multiples with equal parts and number lines. Three one-quarter parts make three-quarters; four one-quarter parts combine to make one whole.",
+      "related_codes": [
+        "AC9M2N03",
+        "AC9M4N03"
+      ],
+      "guide_url": "/year3/maths/ac9m3n02-and-represent-unit-fractions-including-frac12-frac13-frac14/",
+      "subject": "Maths",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 2,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9M3N03",
+      "title": "Year 3 Three-Digit Addition and Subtraction",
+      "link_label": "Year 3: three-digit addition and subtraction",
+      "topic": "Three-Digit Addition and Subtraction",
+      "primary_search_phrase": "year 3 three-digit addition and subtraction",
+      "description": "Year 3 three-digit addition and subtraction: clear teaching, worked examples and free learning resources for AC9M3N03. Optional printable packs are separate.",
+      "introduction": "Use place value to partition and regroup two- and three-digit numbers. To calculate 352 - 178, rename 352 as 2 hundreds, 14 tens and 12 ones, then subtract each part to get 174.",
+      "related_codes": [
+        "AC9M2N04",
+        "AC9M2N02"
+      ],
+      "guide_url": "/year3/maths/ac9m3n03-add-and-subtract-two-and-three-digit-numbers-using-place-value/",
+      "subject": "Maths",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 3,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9M3N04",
+      "title": "Year 3 Multiplication and Division Strategies",
+      "link_label": "Year 3: multiplication and division strategies",
+      "topic": "Multiplication and Division Strategies",
+      "primary_search_phrase": "year 3 multiplication and division strategies",
+      "description": "Year 3 multiplication and division strategies: clear teaching, worked examples and free learning resources for AC9M3N04. Optional printable packs are separate.",
+      "introduction": "Solve multiplication and division problems with equal groups, arrays and number sentences. For 6 groups of 14, split each 14 into 10 and 4: 60 + 24 = 84.",
+      "related_codes": [
+        "AC9M2N05",
+        "AC9M3A03"
+      ],
+      "guide_url": "/year3/maths/ac9m3n04-multiply-and-divide-one-and-two-digit-numbers-representing/",
+      "subject": "Maths",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 2,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9M3A03",
+      "title": "Year 3 Times Tables: 3s, 4s, 5s and 10s",
+      "link_label": "Year 3: times tables: 3s, 4s, 5s and 10s",
+      "topic": "Times Tables: 3s, 4s, 5s and 10s",
+      "primary_search_phrase": "year 3 times tables: 3s, 4s, 5s and 10s",
+      "description": "Year 3 times tables: 3s, 4s, 5s and 10s: clear teaching, worked examples and free learning resources for AC9M3A03. Optional printable packs are separate.",
+      "introduction": "Build fluency with multiplication facts for 3, 4, 5 and 10 and their related division facts. If 4 × 6 = 24, then 24 ÷ 4 = 6 and 24 ÷ 6 = 4.",
+      "related_codes": [
+        "AC9M2A03",
+        "AC9M4A02"
+      ],
+      "guide_url": "/year3/maths/ac9m3a03-recall-and-demonstrate-proficiency-with-multiplication-facts/",
+      "subject": "Maths",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 2,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9M3M03",
+      "title": "Year 3 Units of Time and Duration",
+      "link_label": "Year 3: units of time and duration",
+      "topic": "Units of Time and Duration",
+      "primary_search_phrase": "year 3 units of time and duration",
+      "description": "Year 3 units of time and duration: clear teaching, worked examples and free learning resources for AC9M3M03. Optional printable packs are separate.",
+      "introduction": "Choose sensible time units and use the relationships between days, hours, minutes and seconds. Two minutes is 120 seconds, not 200; estimate an event's duration before measuring and comparing it.",
+      "related_codes": [
+        "AC9M3M04",
+        "AC9M4M03"
+      ],
+      "guide_url": "/year3/maths/ac9m3m03-and-use-the-relationship-between-formal-units-of-time-including/",
+      "subject": "Maths",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 220,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9M3M04",
+      "title": "Year 3 Telling Time to the Nearest Minute",
+      "link_label": "Year 3: telling time to the nearest minute",
+      "topic": "Telling Time to the Nearest Minute",
+      "primary_search_phrase": "year 3 telling time to the nearest minute",
+      "description": "Year 3 telling time to the nearest minute: clear teaching, worked examples and free learning resources for AC9M3M04. Optional printable packs are separate.",
+      "introduction": "Read analogue and digital clocks to the nearest minute, using both hands together. At 4:38, the minute hand shows 38 minutes and the hour hand is between 4 and 5, beyond halfway.",
+      "related_codes": [
+        "AC9M2M04",
+        "AC9M3M03"
+      ],
+      "guide_url": "/year3/maths/ac9m3m04-the-relationship-between-the-hours-and-minutes-on-analog-and/",
+      "subject": "Maths",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 64,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9M4N01",
+      "title": "Year 4 Decimal Place Value: Tenths and Hundredths",
+      "link_label": "Year 4: decimal place value: tenths and hundredths",
+      "topic": "Decimal Place Value: Tenths and Hundredths",
+      "primary_search_phrase": "year 4 decimal place value: tenths and hundredths",
+      "description": "Year 4 decimal place value: tenths and hundredths: clear teaching, worked examples and free learning resources for AC9M4N01. Optional printable packs are separate.",
+      "introduction": "Extend place value to tenths and hundredths using models and number lines. The number 2.35 is 2 ones, 3 tenths and 5 hundredths; the value of a digit depends on its place.",
+      "related_codes": [
+        "AC9M3N01",
+        "AC9M5N01"
+      ],
+      "guide_url": "/year4/maths/ac9m4n01-and-extend-the-application-of-place-value-to-tenths-and/",
+      "subject": "Maths",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 2,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9M4N02",
+      "title": "Year 4 Odd and Even Numbers",
+      "link_label": "Year 4: odd and even numbers",
+      "topic": "Odd and Even Numbers",
+      "primary_search_phrase": "year 4 odd and even numbers",
+      "description": "Year 4 odd and even numbers: clear teaching, worked examples and free learning resources for AC9M4N02. Optional printable packs are separate.",
+      "introduction": "Explain odd and even numbers using pairs and groups of two. An even collection can be paired without a leftover; combining two odd collections pairs their leftover objects to make an even total.",
+      "related_codes": [
+        "AC9M2A03",
+        "AC9M4A02"
+      ],
+      "guide_url": "/year4/maths/ac9m4n02-explain-and-use-the-properties-of-odd-and-even-numbers/",
+      "subject": "Maths",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 90,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9M4N03",
+      "title": "Year 4 Equivalent Fractions and Decimals",
+      "link_label": "Year 4: equivalent fractions and decimals",
+      "topic": "Equivalent Fractions and Decimals",
+      "primary_search_phrase": "year 4 equivalent fractions and decimals",
+      "description": "Year 4 equivalent fractions and decimals: clear teaching, worked examples and free learning resources for AC9M4N03. Optional printable packs are separate.",
+      "introduction": "Find equivalent fractions using related denominators, then connect fractions with decimal notation. One-half, five-tenths and 0.5 describe the same amount of the same whole.",
+      "related_codes": [
+        "AC9M3N02",
+        "AC9M5N03"
+      ],
+      "guide_url": "/year4/maths/ac9m4n03-find-equivalent-representations-of-fractions-using-related/",
+      "subject": "Maths",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 5,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9M4A02",
+      "title": "Year 4 Times Tables to 10 × 10 and Division Facts",
+      "link_label": "Year 4: times tables to 10 × 10 and division facts",
+      "topic": "Times Tables to 10 × 10 and Division Facts",
+      "primary_search_phrase": "year 4 times tables to 10 × 10 and division facts",
+      "description": "Year 4 times tables to 10 × 10 and division facts: clear teaching, worked examples and free learning resources for AC9M4A02. Optional printable packs are separate.",
+      "introduction": "Recall multiplication facts to 10 × 10 and connect them to division facts. Use a known fact to find another: 7 × 8 is 5 × 8 plus 2 × 8, which is 40 + 16 = 56.",
+      "related_codes": [
+        "AC9M3A03",
+        "AC9M5N06"
+      ],
+      "guide_url": "/year4/maths/ac9m4a02-recall-and-demonstrate-proficiency-with-multiplication-facts-up/",
+      "subject": "Maths",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 6,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9M4M02",
+      "title": "Year 4 Area and Perimeter",
+      "link_label": "Year 4: area and perimeter",
+      "topic": "Area and Perimeter",
+      "primary_search_phrase": "year 4 area and perimeter",
+      "description": "Year 4 area and perimeter: clear teaching, worked examples and free learning resources for AC9M4M02. Optional printable packs are separate.",
+      "introduction": "Distinguish the distance around a shape from the space it covers. A rectangle 5 cm long and 3 cm wide has a perimeter of 16 cm and covers 15 one-square-centimetre tiles.",
+      "related_codes": [
+        "AC9M5M02",
+        "AC9M1M02"
+      ],
+      "guide_url": "/year4/maths/ac9m4m02-ways-of-measuring-and-approximating-the-perimeter-and-area-of/",
+      "subject": "Maths",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 1,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9M4M03",
+      "title": "Year 4 Elapsed Time, am and pm",
+      "link_label": "Year 4: elapsed time, am and pm",
+      "topic": "Elapsed Time, am and pm",
+      "primary_search_phrase": "year 4 elapsed time, am and pm",
+      "description": "Year 4 elapsed time, am and pm: clear teaching, worked examples and free learning resources for AC9M4M03. Optional printable packs are separate.",
+      "introduction": "Work out durations using am, pm and conversions between time units. From 10:45 am to 12:15 pm is 1 hour 30 minutes: count to the next hour, then continue to the finish time.",
+      "related_codes": [
+        "AC9M3M03",
+        "AC9M5M03"
+      ],
+      "guide_url": "/year4/maths/ac9m4m03-solve-problems-involving-the-duration-of-time-including/",
+      "subject": "Maths",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 7,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9M5N01",
+      "title": "Year 5 Ordering Decimals and Decimal Place Value",
+      "link_label": "Year 5: ordering decimals and decimal place value",
+      "topic": "Ordering Decimals and Decimal Place Value",
+      "primary_search_phrase": "year 5 ordering decimals and decimal place value",
+      "description": "Year 5 ordering decimals and decimal place value: clear teaching, worked examples and free learning resources for AC9M5N01. Optional printable packs are separate.",
+      "introduction": "Compare and order decimals beyond two decimal places using place value and number lines. The number 0.6 equals 0.600, so it is greater than 0.58 even though it has fewer written digits.",
+      "related_codes": [
+        "AC9M4N01",
+        "AC9M5N04"
+      ],
+      "guide_url": "/year5/maths/ac9m5n01-interpret-compare-and-order-numbers-with-more-than-2-decimal/",
+      "subject": "Maths",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 2,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9M5N02",
+      "title": "Year 5 Factors, Multiples and Divisibility",
+      "link_label": "Year 5: factors, multiples and divisibility",
+      "topic": "Factors, Multiples and Divisibility",
+      "primary_search_phrase": "year 5 factors, multiples and divisibility",
+      "description": "Year 5 factors, multiples and divisibility: clear teaching, worked examples and free learning resources for AC9M5N02. Optional printable packs are separate.",
+      "introduction": "Find factor pairs and recognise multiples by connecting multiplication with exact division. The factor pairs of 24 are 1 and 24, 2 and 12, 3 and 8, and 4 and 6.",
+      "related_codes": [
+        "AC9M4A02",
+        "AC9M5N03"
+      ],
+      "guide_url": "/year5/maths/ac9m5n02-express-natural-numbers-as-products-of-their-factors-recognise/",
+      "subject": "Maths",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 2,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9M5N03",
+      "title": "Year 5 Comparing Fractions and Mixed Numbers",
+      "link_label": "Year 5: comparing fractions and mixed numbers",
+      "topic": "Comparing Fractions and Mixed Numbers",
+      "primary_search_phrase": "year 5 comparing fractions and mixed numbers",
+      "description": "Year 5 comparing fractions and mixed numbers: clear teaching, worked examples and free learning resources for AC9M5N03. Optional printable packs are separate.",
+      "introduction": "Compare and order fractions with the same or related denominators, including mixed numbers. Rename three-quarters as six-eighths to see why three-quarters is greater than five-eighths.",
+      "related_codes": [
+        "AC9M4N03",
+        "AC9M5N05"
+      ],
+      "guide_url": "/year5/maths/ac9m5n03-and-order-fractions-with-the-same-and-related-denominators/",
+      "subject": "Maths",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 1,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9M5N04",
+      "title": "Year 5 Percentages, Fractions and Decimals",
+      "link_label": "Year 5: percentages, fractions and decimals",
+      "topic": "Percentages, Fractions and Decimals",
+      "primary_search_phrase": "year 5 percentages, fractions and decimals",
+      "description": "Year 5 percentages, fractions and decimals: clear teaching, worked examples and free learning resources for AC9M5N04. Optional printable packs are separate.",
+      "introduction": "Treat one complete whole as 100%, then connect familiar fractions, decimals and percentages. One-quarter is 25% or 0.25 of the same whole; compare proportions while keeping the whole clear.",
+      "related_codes": [
+        "AC9M5N01",
+        "AC9M5N03"
+      ],
+      "guide_url": "/year5/maths/ac9m5n04-that-100-represents-the-complete-whole-and-use-percentages-to/",
+      "subject": "Maths",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 1,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9M5N05",
+      "title": "Year 5 Adding and Subtracting Fractions",
+      "link_label": "Year 5: adding and subtracting fractions",
+      "topic": "Adding and Subtracting Fractions",
+      "primary_search_phrase": "year 5 adding and subtracting fractions",
+      "description": "Year 5 adding and subtracting fractions: clear teaching, worked examples and free learning resources for AC9M5N05. Optional printable packs are separate.",
+      "introduction": "Add and subtract fractions with the same or related denominators by working with equal-sized parts. For one-half plus one-quarter, rename one-half as two-quarters: the total is three-quarters.",
+      "related_codes": [
+        "AC9M5N03",
+        "AC9M4N03"
+      ],
+      "guide_url": "/year5/maths/ac9m5n05-solve-problems-involving-addition-and-subtraction-of-fractions/",
+      "subject": "Maths",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 2,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9M5N06",
+      "title": "Year 5 Long Multiplication and Efficient Strategies",
+      "link_label": "Year 5: long multiplication and efficient strategies",
+      "topic": "Long Multiplication and Efficient Strategies",
+      "primary_search_phrase": "year 5 long multiplication and efficient strategies",
+      "description": "Year 5 long multiplication and efficient strategies: clear teaching, worked examples and free learning resources for AC9M5N06. Optional printable packs are separate.",
+      "introduction": "Multiply larger numbers by one- or two-digit numbers using strategies that make place value clear. For 24 × 13, combine 24 × 10 and 24 × 3 to get 240 + 72 = 312.",
+      "related_codes": [
+        "AC9M4A02",
+        "AC9M5N07"
+      ],
+      "guide_url": "/year5/maths/ac9m5n06-solve-problems-involving-multiplication-of-larger-numbers-by/",
+      "subject": "Maths",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 5,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9M5N07",
+      "title": "Year 5 Division with Remainders",
+      "link_label": "Year 5: division with remainders",
+      "topic": "Division with Remainders",
+      "primary_search_phrase": "year 5 division with remainders",
+      "description": "Year 5 division with remainders: clear teaching, worked examples and free learning resources for AC9M5N07. Optional printable packs are separate.",
+      "introduction": "Choose a division strategy and interpret the remainder in context. If 29 people need vans with 8 seats each, 29 ÷ 8 gives 3 remainder 5, so 4 vans are needed.",
+      "related_codes": [
+        "AC9M5N06",
+        "AC9M2N05"
+      ],
+      "guide_url": "/year5/maths/ac9m5n07-solve-problems-involving-division-choosing-efficient-strategies/",
+      "subject": "Maths",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 2,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9M5M03",
+      "title": "Year 5 Converting 12-Hour and 24-Hour Time",
+      "link_label": "Year 5: converting 12-hour and 24-hour time",
+      "topic": "Converting 12-Hour and 24-Hour Time",
+      "primary_search_phrase": "year 5 converting 12-hour and 24-hour time",
+      "description": "Year 5 converting 12-hour and 24-hour time: clear teaching, worked examples and free learning resources for AC9M5M03. Optional printable packs are separate.",
+      "introduction": "Convert between 12-hour and 24-hour time, including noon and midnight. For an afternoon time such as 3:25 pm, add 12 to the hour to get 15:25; noon is 12:00.",
+      "related_codes": [
+        "AC9M4M03",
+        "AC9M3M04"
+      ],
+      "guide_url": "/year5/maths/ac9m5m03-12-and-24-hour-time-systems-and-solve-practical-problems/",
+      "subject": "Maths",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 1,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9M5M04",
+      "title": "Year 5 Measuring Angles with a Protractor",
+      "link_label": "Year 5: measuring angles with a protractor",
+      "topic": "Measuring Angles with a Protractor",
+      "primary_search_phrase": "year 5 measuring angles with a protractor",
+      "description": "Year 5 measuring angles with a protractor: clear teaching, worked examples and free learning resources for AC9M5M04. Optional printable packs are separate.",
+      "introduction": "Estimate, measure and construct angles in degrees with a protractor. Align its centre with the vertex and its baseline with one arm, then read the scale starting from that arm's zero.",
+      "related_codes": [
+        "AC9M4M04",
+        "AC9M4M02"
+      ],
+      "guide_url": "/year5/maths/ac9m5m04-estimate-construct-and-measure-angles-in-degrees-using/",
+      "subject": "Maths",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 3,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9E1LA06",
+      "title": "Year 1 Simple Sentences",
+      "link_label": "Year 1: simple sentences",
+      "topic": "Simple Sentences",
+      "primary_search_phrase": "year 1 simple sentences",
+      "description": "Year 1 simple sentences: clear teaching, worked examples and free learning resources for AC9E1LA06. Optional printable packs are separate.",
+      "introduction": "Build a simple sentence that expresses one complete event or idea. In 'The dog runs', the words tell us who the sentence is about and what happens; a capital letter and full stop mark its written boundary.",
+      "related_codes": [
+        "AC9E1LA07",
+        "AC9E1LA10"
+      ],
+      "guide_url": "/year1/english/ac9e1la06-that-a-simple-sentence-consists-of-a-single-independent-clause/",
+      "subject": "English",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 0,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9E1LA07",
+      "title": "Year 1 Nouns, Verbs and Adjectives",
+      "link_label": "Year 1: nouns, verbs and adjectives",
+      "topic": "Nouns, Verbs and Adjectives",
+      "primary_search_phrase": "year 1 nouns, verbs and adjectives",
+      "description": "Year 1 nouns, verbs and adjectives: clear teaching, worked examples and free learning resources for AC9E1LA07. Optional printable packs are separate.",
+      "introduction": "Explore words for people, places and things, happenings and states, and qualities. In 'The small dog runs', 'dog' names the animal, 'small' adds a quality and 'runs' tells what happens.",
+      "related_codes": [
+        "AC9E1LA06",
+        "AC9E1LA09"
+      ],
+      "guide_url": "/year1/english/ac9e1la07-that-words-can-represent-people-places-and-things-nouns/",
+      "subject": "English",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 3,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9S1U01",
+      "title": "Year 1 Needs of Plants and Animals",
+      "link_label": "Year 1: needs of plants and animals",
+      "topic": "Needs of Plants and Animals",
+      "primary_search_phrase": "year 1 needs of plants and animals",
+      "description": "Year 1 needs of plants and animals: clear teaching, worked examples and free learning resources for AC9S1U01. Optional printable packs are separate.",
+      "introduction": "Identify the basic needs of plants and animals and connect those needs to where living things are found. Plants need water and light to grow; a suitable place must provide what the living thing needs.",
+      "related_codes": [
+        "AC9S1U02",
+        "AC9S1U03"
+      ],
+      "guide_url": "/year1/science/ac9s1u01-needs-of-plants-and-animals/",
+      "subject": "Science",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 6,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9S1U02",
+      "title": "Year 1 Daily and Seasonal Changes",
+      "link_label": "Year 1: daily and seasonal changes",
+      "topic": "Daily and Seasonal Changes",
+      "primary_search_phrase": "year 1 daily and seasonal changes",
+      "description": "Year 1 daily and seasonal changes: clear teaching, worked examples and free learning resources for AC9S1U02. Optional printable packs are separate.",
+      "introduction": "Observe daily and seasonal changes in the environment and how they affect everyday life. Compare observations over time, such as daylight, weather and clothing choices, rather than treating one day's weather as a whole season.",
+      "related_codes": [
+        "AC9S1U01",
+        "AC9S1U03"
+      ],
+      "guide_url": "/year1/science/ac9s1u02-daily-and-seasonal-changes/",
+      "subject": "Science",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 2,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    },
+    {
+      "code": "AC9S1U03",
+      "title": "Year 1 Pushes and Pulls",
+      "link_label": "Year 1: pushes and pulls",
+      "topic": "Pushes and Pulls",
+      "primary_search_phrase": "year 1 pushes and pulls",
+      "description": "Year 1 pushes and pulls: clear teaching, worked examples and free learning resources for AC9S1U03. Optional printable packs are separate.",
+      "introduction": "Investigate how pushes and pulls change an object's movement or shape. When comparing a gentle push with a stronger push, use the same object and surface so the comparison is meaningful.",
+      "related_codes": [
+        "AC9S1U01",
+        "AC9S1U02"
+      ],
+      "guide_url": "/year1/science/ac9s1u03-pushes-and-pulls/",
+      "subject": "Science",
+      "selection_basis": "Observed historical impressions plus concrete topic intent and existing authored teaching/resources; not measured keyword search volume.",
+      "historical_global_guide_impressions": 3,
+      "historical_period": [
+        "2026-09-20",
+        "2026-10-17"
+      ]
+    }
+  ]
+}
