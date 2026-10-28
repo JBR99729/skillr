@@ -193,7 +193,7 @@
     if(skip)skip.after(panel);else if(breadcrumb)breadcrumb.after(panel);else content.prepend(panel);
     const controller=new AbortController(),timer=setTimeout(()=>controller.abort(),4000);
     fetch('https://app.skillrhub.com/api/public-practice',{credentials:'omit',signal:controller.signal}).then(r=>r.ok?r.json():null).then(data=>{
-      if((data?.codes||[]).some(c=>String(c.code).toUpperCase()===code)){practice.textContent='Practise this topic →';copy.textContent='Open this topic’s free practice questions. No email to start.';}
+      if((data?.codes||[]).some(c=>String(c.code).toUpperCase()===code)){practice.textContent='Practise this topic →';const sticky=document.querySelector('.skillr-practice-bar__button');if(sticky){sticky.textContent='Practise this skill →';}copy.textContent='Open this topic’s free practice questions. No email to start.';}
     }).catch(()=>{}).finally(()=>clearTimeout(timer));
   }
 
@@ -202,13 +202,15 @@
     const css = document.createElement('link');
     css.rel = 'stylesheet'; css.href = '/assets/resource-links.css?v=free-practice-entry-20261028';
     document.head.appendChild(css);
-    const menu = document.createElement('a');
-    menu.id = 'skillr-resource-links';
-    menu.className = 'skillr-free-practice-bubble';
-    menu.href = 'https://app.skillrhub.com/?try=1';
-    menu.textContent = 'Try free practice';
-    menu.setAttribute('aria-label', 'Try free practice on SkillrHub');
-    document.body.appendChild(menu);
+    const menu=document.createElement('section');menu.id='skillr-resource-links';menu.className='skillr-practice-bar';menu.setAttribute('aria-label','Free practice');
+    const intro=document.createElement('div');intro.className='skillr-practice-bar__intro';intro.innerHTML='<strong>Free practice questions</strong><span>No email to start</span>';
+    const practice=document.createElement('a');practice.className='skillr-practice-bar__button';practice.href='https://app.skillrhub.com/?try=1';practice.textContent='Try free practice →';practice.dataset.practicePlacement='sticky_bar';
+    const code=pageCode(window.location.pathname),isTopic=/^\/(?:foundation|year(?:[1-9]|10))\/(?:maths|science|english)\/ac9[^/]+\/(?:index\.html)?$/i.test(window.location.pathname);
+    if(isTopic&&code){practice.href+='&skill='+encodeURIComponent(code);practice.dataset.curriculumCode=code;}
+    const close=document.createElement('button');close.type='button';close.className='skillr-practice-bar__close';close.textContent='×';close.setAttribute('aria-label','Dismiss free practice bar');
+    let dismissed=false;try{dismissed=window.sessionStorage?.getItem('skillr-practice-bar-dismissed-v1')==='1';}catch{}
+    menu.hidden=dismissed;menu.append(intro,practice,close);document.body.appendChild(menu);
+    close.addEventListener('click',()=>{dismissed=true;menu.hidden=true;try{window.sessionStorage?.setItem('skillr-practice-bar-dismissed-v1','1');}catch{}});
     topicPracticeEntry();
     topicPacks();
 
@@ -248,7 +250,7 @@
       const practice=event.target.closest?.('[data-practice-placement]');
       if(practice&&typeof window.gtag==='function')window.gtag('event','practice_start_click',{placement:practice.dataset.practicePlacement,curriculum_code:practice.dataset.curriculumCode});
     });
-    document.addEventListener('fullscreenchange', () => { menu.hidden = !!document.fullscreenElement; });
+    document.addEventListener('fullscreenchange', () => { menu.hidden = dismissed || !!document.fullscreenElement; });
   }
 
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init, {once: true});
