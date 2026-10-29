@@ -103,7 +103,7 @@
   root.querySelectorAll('[data-guide-year]').forEach(function(button){button.addEventListener('click',function(){setGuideYear(button.dataset.guideYear,true);});});
   var saved='year1';try{saved=localStorage.getItem('skillrHomeYear') || saved;}catch(_){}
   setGuideYear(saved==='foundation' ? '0' : saved.replace('year',''),false);
-  root.querySelector('.sp-quick-search').addEventListener('click',function(event){event.preventDefault();input.focus();});
+  root.querySelector('.sp-quick-search').addEventListener('click',function(event){event.preventDefault();input.focus({preventScroll:true});root.querySelector('#topic-search').scrollIntoView({block:'start',behavior:window.matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'});});
   var menu=root.querySelector('.sp-mobile-menu');
   menu.addEventListener('keydown',function(event){if(event.key==='Escape'){menu.open=false;menu.querySelector('summary').focus();}});
   menu.querySelectorAll('a').forEach(function(link){link.addEventListener('click',function(){menu.open=false;});});
