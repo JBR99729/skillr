@@ -93,10 +93,20 @@
       link.querySelector('strong').textContent=label+' '+names[link.dataset.guideSubject];
     });
     root.querySelector('#guide-year-label').textContent='Showing '+label+' topic guides';
-    if(save) try {localStorage.setItem('skillrHomeYear',base);} catch (_) {}
+    if(save) {
+      yearFilter.value=String(year);
+      input.placeholder='Search '+label+' topics or curriculum codes';
+      if(normalise(input.value).length>=2 || !results.hidden) runSearch();
+      try {localStorage.setItem('skillrHomeYear',base);} catch (_) {}
+    }
   }
   root.querySelectorAll('[data-guide-year]').forEach(function(button){button.addEventListener('click',function(){setGuideYear(button.dataset.guideYear,true);});});
   var saved='year1';try{saved=localStorage.getItem('skillrHomeYear') || saved;}catch(_){}
   setGuideYear(saved==='foundation' ? '0' : saved.replace('year',''),false);
+  root.querySelector('.sp-quick-search').addEventListener('click',function(event){event.preventDefault();input.focus();});
+  var menu=root.querySelector('.sp-mobile-menu');
+  menu.addEventListener('keydown',function(event){if(event.key==='Escape'){menu.open=false;menu.querySelector('summary').focus();}});
+  menu.querySelectorAll('a').forEach(function(link){link.addEventListener('click',function(){menu.open=false;});});
+  document.addEventListener('click',function(event){if(menu.open&&!menu.contains(event.target))menu.open=false;});
   var query=new URLSearchParams(location.search).get('q'); if(query){input.value=query;runSearch();}
 })();

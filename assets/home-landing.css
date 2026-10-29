@@ -143,3 +143,30 @@ body.home-page #skillr-resource-links{display:none!important}
 #skillr-home .skillr-site-header{position:static}
 /* Preserve the authored footer when the older shared helper adds its menu. */
 #skillr-home .sp-footer>.footer-nav{display:none}
+/* A clear starting point, with community progress as supporting encouragement. */
+#skillr-home .sp-year-heading{font-size:18px}
+#skillr-home .sp-year-grid a{background:#e8f3ec;border-color:#a9cbb7;transition:background .18s,box-shadow .18s,transform .18s}
+#skillr-home .sp-year-grid a:hover,#skillr-home .sp-subject:hover{background:#dfefe5;box-shadow:0 5px 12px #143e3012;transform:translateY(-2px)}
+#skillr-home .sp-subject{transition:background .18s,box-shadow .18s,transform .18s}
+#skillr-home .sp-account-badge{margin-left:auto;background:#fff0bc;color:#594414;font-size:12px;font-weight:700;padding:3px 9px;border-radius:20px;white-space:nowrap}
+#skillr-home .sp-quick-search{display:inline-flex;align-items:center;min-height:44px;font-size:14px;font-weight:650;color:#175d46}
+#skillr-home .sg-cta{background:#ffffff0c;border:1px solid #d1e5d5;color:#ffe3a0;min-height:46px;padding:10px 14px}
+#skillr-home .sg-cta:hover{background:#ffffff1a;transform:none}
+#skillr-home .sg-kicker{display:block}
+#skillr-home .sg-kicker>.sp-icon{margin-right:7px}
+#skillr-home .sg-fill{transition:width .65s ease-out}
+#skillr-home .sp-section{padding-bottom:24px}
+#skillr-home .sp-values{margin-top:8px;padding-top:24px;padding-bottom:24px}
+#skillr-home .sp-feedback-actions{display:flex;align-items:flex-start;flex-direction:column;gap:10px;flex-shrink:0}
+#skillr-home .sp-feedback .sp-chat-link{background:none;color:#175d46;padding:0;font-size:13px;min-height:44px;text-decoration:underline;white-space:normal;text-align:left}
+#skillr-home .sp-mobile-menu{display:none;position:relative}
+#skillr-home .sp-mobile-menu summary{display:flex;align-items:center;gap:7px;min-height:44px;padding:8px 12px;border:1px solid #d7e4da;border-radius:9px;font-weight:650;list-style:none;cursor:pointer}
+#skillr-home .sp-mobile-menu summary::-webkit-details-marker{display:none}
+#skillr-home .sp-mobile-menu nav{position:absolute;right:0;top:calc(100% + 8px);width:250px;padding:8px;border:1px solid #d7e4da;border-radius:12px;box-shadow:0 8px 28px #183e3120;background:#fff;z-index:50}
+#skillr-home .sp-mobile-menu nav a{display:flex;align-items:center;min-height:44px;padding:9px 12px;text-decoration:none;font-weight:650}
+#skillr-home .sp-mobile-menu nav a:hover{background:#e8f3ec;border-radius:7px}
+/* Chat remains available in the feedback section without floating over controls. */
+body.home-page #skillr-messenger-bubble{display:none!important}
+@media(max-width:700px){#skillr-home .sp-nav{flex-wrap:nowrap}#skillr-home .sp-links{display:none}#skillr-home .sp-mobile-menu{display:block}#skillr-home .sg-card{padding:18px 20px}#skillr-home .sg-kicker{font-size:11px;margin-bottom:10px}#skillr-home .sg-kicker-extra,#skillr-home .sg-title{display:none}#skillr-home .sg-goal{margin-bottom:12px}#skillr-home .sg-value{font-size:56px}#skillr-home .sg-unit{margin:4px 0 12px}#skillr-home .sg-cta{margin-top:12px}#skillr-home .sg-reassurance{flex-direction:row;gap:8px;padding:10px 8px}#skillr-home .sg-reassurance span{font-size:14px}#skillr-home .sg-reassurance .sp-icon{width:16px;height:16px}#skillr-home .sg-progress>span{font-size:11px}#skillr-home .sg-status{font-size:11px}#skillr-home .sp-feedback-actions{margin-top:14px}#skillr-home .sp-feedback-actions a{margin-top:0}#skillr-home .sp-footer{padding-bottom:28px}}
+@media(max-width:360px){#skillr-home .sp-account-badge{font-size:11px;padding:3px 7px}#skillr-home .sg-reassurance{flex-direction:column;align-items:flex-start}#skillr-home .sg-reassurance span{font-size:15px}}
+@media(prefers-reduced-motion:reduce){#skillr-home .sg-fill,#skillr-home .sp-year-grid a,#skillr-home .sp-subject{transition:none}#skillr-home .sp-year-grid a:hover,#skillr-home .sp-subject:hover{transform:none}}
