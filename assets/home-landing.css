@@ -1,0 +1,139 @@
+
+#skillr-home{font-family:Inter,Arial,sans-serif;color-scheme:light;--sp-bg:light-dark(#fff,#101e18);--sp-ink:light-dark(#183e31,#e7f3eb);--sp-muted:light-dark(#53685e,#b6ccbe);--sp-soft:light-dark(#f2f7f3,#1a3024);--sp-panel:light-dark(#fff,#203b2c);--sp-line:light-dark(#d7e4da,#3c5947);--sp-green:light-dark(#175d46,#b4dec1);background:var(--sp-bg);color:var(--sp-ink);font-size:16px;line-height:1.6}
+#skillr-home *{box-sizing:border-box}
+#skillr-home a{color:inherit;text-underline-offset:4px}
+#skillr-home .sp-wrap{max-width:1180px;margin:auto;padding:0 32px}
+#skillr-home .sp-nav{display:flex;align-items:center;justify-content:space-between;gap:20px;padding-top:20px;padding-bottom:20px;border-bottom:1px solid var(--sp-line)}
+#skillr-home .sp-brand{display:flex;align-items:center;gap:9px;text-decoration:none;font-weight:800;font-size:18px;letter-spacing:-.4px}
+#skillr-home .sp-mark{display:grid;place-items:center;width:33px;height:33px;border-radius:10px;background:#185c45;color:#f7d778;font-size:23px;font-weight:800}
+#skillr-home .sp-links{display:flex;align-items:center;flex-wrap:wrap;gap:22px;font-size:14px;font-weight:650}
+#skillr-home .sp-links a{text-decoration:none}
+#skillr-home .sp-nav-cta{padding:9px 15px;border-radius:9px;background:#185d45;color:#fff}
+#skillr-home .sp-hero{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);align-items:center;gap:40px;padding-top:42px;padding-bottom:42px}
+#skillr-home .sp-eyebrow{font-size:14px;font-weight:750;letter-spacing:.13em;text-transform:uppercase;color:var(--sp-muted);margin:0 0 16px}
+#skillr-home .sp-title{font-size:clamp(34px,4.5vw,52px);font-weight:800;line-height:1.08;letter-spacing:-1.7px;margin:0 0 22px}
+#skillr-home .sp-title span{color:var(--sp-green)}
+#skillr-home .sp-lead{font-size:16px;line-height:1.7;color:var(--sp-muted);margin:0 0 25px;max-width:480px}
+#skillr-home .sp-year-heading{font-size:16px;font-weight:750;margin:0 0 12px}
+#skillr-home .sp-year-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}
+#skillr-home .sp-year-grid a{display:flex;align-items:center;justify-content:space-between;gap:10px;min-height:48px;padding:11px 14px;border:1px solid var(--sp-line);border-radius:10px;background:var(--sp-soft);color:var(--sp-green);text-decoration:none;font-size:14px;font-weight:750;transition:background .15s}
+#skillr-home .sp-year-grid a:hover{background:light-dark(#e3f0e7,#2c4d37)}
+#skillr-home .sp-year-grid a:last-child{grid-column:1/-1}
+#skillr-home .sp-year-grid .sp-icon{width:16px;height:16px}
+#skillr-home .sp-year-note{font-size:14px;color:var(--sp-muted);margin:12px 0 0;line-height:1.6}
+#skillr-home .sp-install{display:inline-flex;align-items:center;gap:7px;min-height:44px;font-size:14px;color:var(--sp-green)}
+#skillr-home .sp-install .sp-icon{width:15px;height:15px}
+#skillr-home .sg-card{padding:27px;border-radius:23px;background:linear-gradient(125deg,#103f33,#155a44 58%,#237b58);color:#fff;box-shadow:0 12px 30px #123e3015}
+#skillr-home .sg-kicker{display:flex;align-items:center;gap:8px;color:#d5ecde;font-size:14px;font-weight:750;line-height:1.6;letter-spacing:.06em;text-transform:uppercase;margin:0 0 18px}
+#skillr-home .sg-kicker .sp-icon{width:18px;height:18px;flex-shrink:0;color:#f7d778}
+#skillr-home .sg-goal{display:inline-flex;align-items:center;gap:8px;padding:8px 11px;border-radius:20px;background:#f7dc8f;color:#30472d;font-size:14px;font-weight:750;line-height:1.5;margin-bottom:20px}
+#skillr-home .sg-goal .sp-icon{width:16px;height:16px;flex-shrink:0}
+#skillr-home .sg-row{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
+#skillr-home .sg-value{font-size:66px;font-weight:800;letter-spacing:-3px;line-height:1;color:#F7D778;font-variant-numeric:tabular-nums}
+#skillr-home .sg-target{font-size:18px;color:#c6dfd0}
+#skillr-home .sg-unit{font-size:14px;color:#e0f0e6;margin:8px 0 21px}
+#skillr-home .sg-track{height:11px;border-radius:20px;overflow:hidden;background:#ffffff25}
+#skillr-home .sg-fill{height:100%;width:0;background:linear-gradient(90deg,#d6eec7,#f8db85);border-radius:20px}
+#skillr-home .sg-progress{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-top:9px;color:#d0e8d9;font-size:14px}
+#skillr-home .sg-progress strong{font-size:14px;color:#ffe3a0}
+#skillr-home .sg-title{font-size:25px;font-weight:800;line-height:1.2;letter-spacing:-.6px;color:#fff;margin:24px 0 9px}
+#skillr-home .sg-copy{font-size:14px;color:#d4eadd;line-height:1.6;margin:0}
+#skillr-home .sg-cta{display:flex;align-items:center;justify-content:space-between;gap:15px;min-height:54px;padding:15px 17px;background:#f9d779;color:#143e30;border-radius:12px;text-decoration:none;font-size:15px;font-weight:800;margin-top:22px;transition:transform .15s,background .15s}
+#skillr-home .sg-cta:hover{background:#ffe5a0;transform:translateY(-2px)}
+#skillr-home .sg-cta .sp-icon{width:20px;height:20px}
+#skillr-home .sg-reassurance{display:flex;justify-content:center;gap:14px;flex-wrap:wrap;padding:14px 12px;margin-top:13px;border-radius:11px;background:#edf6e9;color:#174b36}
+#skillr-home .sg-reassurance span{display:flex;align-items:center;gap:6px;font-size:17px;line-height:1.4;font-weight:750}
+#skillr-home .sg-reassurance .sp-icon{width:17px;height:17px;flex-shrink:0}
+#skillr-home .sp-values{display:grid;grid-template-columns:repeat(3,1fr);gap:25px;padding-top:30px;padding-bottom:35px;border-top:1px solid var(--sp-line);border-bottom:1px solid var(--sp-line)}
+#skillr-home .sp-value .sp-icon{width:23px;height:23px;color:var(--sp-green);margin-bottom:10px}
+#skillr-home .sp-value h3{font-size:14px;margin:0 0 7px;font-weight:750}
+#skillr-home .sp-value p{font-size:14px;line-height:1.65;color:var(--sp-muted);margin:0}
+#skillr-home .sp-section{padding-top:38px;padding-bottom:38px}
+#skillr-home .sp-section h2{font-size:26px;line-height:1.2;letter-spacing:-.6px;font-weight:800;margin:0 0 12px}
+#skillr-home .sp-section>p{font-size:14px;color:var(--sp-muted);margin:0 0 20px;max-width:690px}
+#skillr-home .sp-year-tabs{display:flex;gap:7px;flex-wrap:wrap;margin:22px 0 16px}
+#skillr-home .sp-year-tabs button{background:var(--sp-panel);color:var(--sp-green);border:1px solid var(--sp-line);font:650 15px Inter,Arial,sans-serif;padding:10px;min-width:44px;min-height:44px;border-radius:9px}
+#skillr-home .sp-year-tabs button[aria-pressed="true"]{background:#185d45;color:#fff;border-color:#185d45}
+#skillr-home .sp-subjects{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+#skillr-home .sp-subject{display:flex;align-items:center;gap:12px;padding:18px 15px;border:1px solid var(--sp-line);border-radius:12px;background:var(--sp-soft);text-decoration:none;min-height:86px}
+#skillr-home .sp-subject .sp-icon{width:22px;height:22px;flex-shrink:0;color:var(--sp-green)}
+#skillr-home .sp-subject strong{display:block;font-size:14px;font-weight:750}
+#skillr-home .sp-subject small{display:block;font-size:14px;line-height:1.5;color:var(--sp-muted);margin-top:3px}
+#skillr-home .sp-feedback{display:flex;align-items:center;justify-content:space-between;gap:28px;padding:26px;border-radius:18px;background:var(--sp-soft);margin:0 0 32px}
+#skillr-home .sp-feedback h2{font-size:23px;line-height:1.25;margin:0 0 8px;letter-spacing:-.4px}
+#skillr-home .sp-feedback p{font-size:14px;line-height:1.6;color:var(--sp-muted);max-width:560px;margin:0}
+#skillr-home .sp-feedback a{display:inline-flex;align-items:center;justify-content:center;gap:10px;white-space:nowrap;min-height:48px;border-radius:11px;padding:12px 17px;text-decoration:none;background:#185d45;color:#fff;font-size:14px;font-weight:750}
+#skillr-home .sp-faq{padding-bottom:30px}
+#skillr-home .sp-faq details{border-bottom:1px solid var(--sp-line);padding:16px 0;font-size:14px}
+#skillr-home .sp-faq summary{font-weight:650;min-height:30px}
+#skillr-home .sp-faq p{color:var(--sp-muted);max-width:760px;line-height:1.7}
+#skillr-home .sp-footer{border-top:1px solid var(--sp-line);padding-top:24px;padding-bottom:24px;display:flex;align-items:flex-start;justify-content:space-between;gap:24px;color:var(--sp-muted);font-size:14px}
+#skillr-home .sp-footer strong{font-size:15px;color:var(--sp-ink)}
+#skillr-home .sp-footer p{margin:5px 0 0}
+#skillr-home .sp-footer nav{display:flex;gap:15px;flex-wrap:wrap;max-width:430px}
+@media(max-width:760px){#skillr-home .sp-wrap{padding-left:22px;padding-right:22px}#skillr-home .sp-links{gap:13px}#skillr-home .sp-links .sp-secondary-nav{display:none}#skillr-home .sp-hero{grid-template-columns:1fr;gap:28px;padding-top:30px}#skillr-home .sp-title{font-size:44px}#skillr-home .sg-card{max-width:none}#skillr-home .sg-reassurance span{font-size:16px}#skillr-home .sp-values{gap:18px}#skillr-home .sp-subjects{grid-template-columns:1fr}#skillr-home .sp-feedback{display:block}#skillr-home .sp-feedback a{margin-top:18px}#skillr-home .sp-footer{display:block}#skillr-home .sp-footer nav{margin-top:16px}}
+@media(max-width:420px){#skillr-home .sp-wrap{padding-left:17px;padding-right:17px}#skillr-home .sp-brand{font-size:16px}#skillr-home .sp-links{font-size:14px;gap:12px}#skillr-home .sp-links a[href*="login"]{display:none}#skillr-home .sp-title{font-size:39px}#skillr-home .sg-card{padding:23px 20px}#skillr-home .sg-value{font-size:64px}#skillr-home .sg-reassurance{justify-content:flex-start;gap:10px}#skillr-home .sg-reassurance span{font-size:15px}#skillr-home .sp-values{grid-template-columns:1fr;gap:24px}#skillr-home .sp-value{display:grid;grid-template-columns:28px 1fr;column-gap:13px}#skillr-home .sp-value .sp-icon{grid-row:1/3;margin-top:3px}#skillr-home .sp-section h2{font-size:24px}}
+@media(prefers-reduced-motion:reduce){#skillr-home .sg-cta{transition:none}}
+
+body.home-page{margin:0;background:#fff;color:#183e31}
+#skillr-home{border-radius:0}
+#skillr-home .sp-icon{display:inline-block;width:20px;height:20px;flex-shrink:0;vertical-align:middle;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+#skillr-home .sp-section .sp-eyebrow{font-size:12px}
+#skillr-home .sg-value{font-size:clamp(54px,6.3vw,82px);overflow-wrap:anywhere;font-variant-numeric:tabular-nums}
+#skillr-home .sg-target{white-space:nowrap}
+#skillr-home .sg-status{display:flex;align-items:center;justify-content:space-between;gap:12px;color:#d4eadd;font-size:12px;margin-top:12px}
+#skillr-home .sg-status button{border:1px solid #ffffff55;background:transparent;color:#fff;border-radius:50%;min-height:44px;min-width:44px;font-size:22px;cursor:pointer}
+#skillr-home .sg-status button:disabled{opacity:.55;cursor:wait}
+#skillr-home .sp-search{padding:30px 0 8px;border-top:1px solid var(--sp-line)}
+#skillr-home .sp-search label{display:block;font-size:18px;font-weight:750;margin-bottom:12px}
+#skillr-home .sp-search-field{display:flex;align-items:center;gap:12px;border:2px solid #a9c7b5;border-radius:14px;padding:6px 8px 6px 18px;background:#fff}
+#skillr-home .sp-search-field:focus-within{outline:3px solid #f7d778;outline-offset:3px}
+#skillr-home .sp-search input{min-width:0;flex:1;border:0;background:transparent;color:#183e31;min-height:48px;font:400 16px/1.4 Inter,Arial,sans-serif;box-shadow:none;padding:0}
+#skillr-home .sp-search input:focus{outline:none}
+#skillr-home .sp-search-field button{background:#185d45;color:white;border:0;border-radius:9px;min-height:46px;padding:10px 20px;font:650 15px Inter,Arial,sans-serif;cursor:pointer}
+#skillr-home .sp-search-hint{color:var(--sp-muted);font-size:14px;margin:10px 0 0}
+#skillr-home .sp-filters{display:flex;gap:16px;flex-wrap:wrap;margin:18px 0}
+#skillr-home .sp-filters label{font-size:14px;font-weight:650;display:flex;align-items:center;gap:10px}
+#skillr-home .sp-filters select{max-width:100%;padding:10px 32px 10px 12px;min-height:44px;border:1px solid var(--sp-line);border-radius:9px;background:#fff;color:#183e31;font:400 16px Inter,Arial,sans-serif}
+#skillr-home .sp-results{margin-top:20px}
+#skillr-home .sp-results ul{list-style:none;padding:0;margin:0}
+#skillr-home .sp-results li{padding:18px 0;border-bottom:1px solid var(--sp-line)}
+#skillr-home .sp-result-title{font-size:17px;font-weight:750;text-decoration:none}
+#skillr-home .sp-result-meta{font-size:14px;color:var(--sp-muted);margin:4px 0 10px}
+#skillr-home .sp-result-actions{display:flex;gap:12px;flex-wrap:wrap}
+#skillr-home .sp-result-actions a{font-weight:650;font-size:14px;min-height:44px;display:inline-flex;align-items:center;padding:9px 13px;background:var(--sp-soft);border-radius:8px}
+#skillr-home .sp-result-actions .sp-result-practice{background:#185d45;color:white;text-decoration:none}
+#skillr-home .sp-guide-year{font-size:14px;color:var(--sp-muted);margin:0 0 12px}
+#skillr-home .sp-values{margin-top:25px}
+#skillr-home .sp-catalogue-link{display:inline-block;min-height:44px;font-weight:650;font-size:14px;margin-top:6px}
+#skillr-home .sp-section{scroll-margin-top:24px}
+@media(max-width:760px){#skillr-home .sp-hero{align-items:stretch}#skillr-home .sp-title{font-size:42px}#skillr-home .sg-value{font-size:76px}#skillr-home .sp-values{grid-template-columns:1fr}#skillr-home .sp-footer{padding-bottom:90px}}
+@media(max-width:420px){#skillr-home .sp-title{font-size:36px}#skillr-home .sg-value{font-size:62px}#skillr-home .sp-search-field{padding-left:12px;gap:8px}#skillr-home .sp-search-field button{padding:10px 12px}#skillr-home .sp-filters{display:grid;grid-template-columns:1fr}#skillr-home .sp-filters label{justify-content:space-between}#skillr-home .sp-year-tabs{gap:6px}#skillr-home .sg-reassurance{flex-direction:column;gap:10px}}
+/* Keep both entry points visible together on tablet and laptop screens. */
+#skillr-home .sp-wrap{max-width:1180px;padding-left:28px;padding-right:28px}
+#skillr-home .sp-nav{padding-top:14px;padding-bottom:14px}
+#skillr-home .sp-hero{align-items:center;gap:28px;padding-top:24px;padding-bottom:26px}
+#skillr-home .sp-title{font-size:clamp(32px,3.7vw,48px);margin-bottom:14px}
+#skillr-home .sp-lead{font-size:15px;line-height:1.55;margin-bottom:18px}
+#skillr-home .sp-eyebrow{font-size:11px;letter-spacing:.09em;margin-bottom:10px}
+#skillr-home .sp-year-heading{font-size:16px;margin-bottom:10px}
+#skillr-home .sp-year-grid{gap:7px}
+#skillr-home .sp-year-grid a{min-height:44px;padding:8px 12px;font-size:15px}
+#skillr-home .sp-year-note{font-size:12px;line-height:1.45;margin-top:10px}
+#skillr-home .sg-card{padding:22px 24px;border-radius:20px}
+#skillr-home .sg-kicker{font-size:11px;margin-bottom:12px;letter-spacing:.06em}
+#skillr-home .sg-goal{font-size:12px;padding:6px 10px;margin-bottom:14px;flex-wrap:wrap;gap:5px}
+#skillr-home .sg-value{font-size:clamp(56px,6vw,76px)}
+#skillr-home .sg-unit{font-size:14px;margin:6px 0 14px}
+#skillr-home .sg-track{height:9px}
+#skillr-home .sg-progress{font-size:12px;margin-top:7px;gap:6px}
+#skillr-home .sg-progress strong{font-size:13px}
+#skillr-home .sg-title{font-size:24px;margin:18px 0 0;line-height:1.2}
+#skillr-home .sg-cta{min-height:48px;padding:12px 15px;margin-top:16px;font-size:16px}
+#skillr-home .sg-reassurance{padding:11px 10px;margin-top:10px;gap:12px}
+#skillr-home .sg-reassurance span{font-size:16px;line-height:1.3}
+#skillr-home .sg-status{font-size:11px;margin-top:9px}
+#skillr-home .sp-search{padding-top:23px}
+@media(min-width:701px) and (max-width:1000px){#skillr-home .sp-hero{grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:20px}#skillr-home .sp-title{font-size:34px}#skillr-home .sg-card{padding:20px}#skillr-home .sg-title{font-size:21px}#skillr-home .sg-reassurance{gap:8px;padding:10px 7px}#skillr-home .sg-reassurance span{font-size:14px}#skillr-home .sp-year-grid a{font-size:14px;padding:8px 10px}}
+@media(max-width:700px){#skillr-home .sp-wrap{padding-left:20px;padding-right:20px}#skillr-home .sp-hero{grid-template-columns:1fr;gap:22px}#skillr-home .sp-title{font-size:38px}#skillr-home .sg-card{padding:22px}#skillr-home .sg-reassurance span{font-size:16px}#skillr-home .sp-nav{flex-wrap:wrap;gap:10px}#skillr-home .sp-links{gap:16px}#skillr-home .sp-values{padding-top:24px;padding-bottom:24px}#skillr-home .sp-section{padding-top:28px;padding-bottom:28px}}
+@media(max-width:360px){#skillr-home .sp-wrap{padding-left:16px;padding-right:16px}#skillr-home .sp-title{font-size:34px}#skillr-home .sg-card{padding:20px 18px}#skillr-home .sg-value{font-size:58px}}
