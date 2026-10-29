@@ -4,6 +4,7 @@ on:
     paths:
       - 'data/topic-videos.csv'
       - 'scripts/build_topic_video_sections.py'
+      - 'scripts/normalize_topic_entry_order.py'
       - 'scripts/tests/test_topic_video_sections.py'
       - 'assets/css/topic-videos.css'
       - '**/ac9*/index.html'
@@ -13,6 +14,7 @@ on:
     paths:
       - 'data/topic-videos.csv'
       - 'scripts/build_topic_video_sections.py'
+      - 'scripts/normalize_topic_entry_order.py'
       - 'scripts/tests/test_topic_video_sections.py'
       - 'assets/css/topic-videos.css'
       - '**/ac9*/index.html'
@@ -28,6 +30,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.x'
+      - name: Verify topic heading and actions precede optional videos
+        run: python scripts/normalize_topic_entry_order.py
       - name: Verify mapping and static output
         run: python scripts/build_topic_video_sections.py --check
       - name: Check preservation and invalid-input safeguards

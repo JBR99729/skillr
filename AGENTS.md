@@ -1,3 +1,7 @@
+## Topic entry order — owner instruction, 30 October 2026
+
+Across existing topic pages, retain authored content and use heading → introduction → learning actions → optional video → detailed lesson. This supersedes the earlier video-first preference. Run `python scripts/normalize_topic_entry_order.py` to check, or add `--write` to normalize presentation order without rebuilding lessons. Preserve all lesson and video content.
+
 ## Topic-page links and free-learning discovery — owner instruction, 29 October 2026
 
 Every new or revised question-bank delivery includes its Practice and separate Test banks. Check the matching public topic page during DEV QA, and update that same code's links when the verified bank is promoted to app.skillrhub.com. A DEV-only bank must not be advertised as live.
@@ -131,7 +135,7 @@ Before declaring any topic-page change complete:
 1. Select the approved Year 1 Maths topic-page reference and write the intended retained-section list for that task.
 2. Inspect the final source section inventory (headings, `details` summaries, CTAs and navigation). Compare it directly against the retained list.
 3. Remove every legacy, duplicate or competing block outside the approved pattern—not merely identify it. This includes legacy resource facts/option selectors, duplicated actions, research/checking/process disclosures, repeated curriculum metadata, feedback/promotional panels and obsolete equivalent/mapping blocks unless the owner explicitly asks to retain one.
-4. Verify one video-first entry point where appropriate, one clear matching-product CTA, concise teaching focuses/worked examples, and the required resource path. Verify there are no duplicate CTAs or old headings left.
+4. Verify the topic heading, short introduction and learning actions appear before the optional video, followed by the detailed lesson, one clear matching-product CTA, concise teaching focuses/worked examples, and the required resource path. Verify there are no duplicate CTAs or old headings left.
 5. Record the comparison and pass/fail result in the update handoff. A page with any unexplained extra legacy block is **NOT COMPLETE** and must not be described as matching the Year 1 style.
 
 Apply this automatically to every future topic-page creation, refresh and revision. Do not treat a copied hero, shared CSS class or partial layout conversion as style parity.

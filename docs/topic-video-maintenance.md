@@ -70,3 +70,7 @@ Inspect an updated page on desktop and phone, including keyboard access, the loa
 Follow `AGENTS.md` for the full Git-tree release checks. Preserve every existing path and `CNAME`, use the latest remote main as the complete base, and use a non-forced update. The video builder is not permission to rebuild teaching pages or question banks. After release, check Pages deployment and the live homepage and affected lesson/Practice route.
 
 For an unavailable or reported video, remove or replace its row and rebuild. Keep the page live. Video availability is not a reason to delete or noindex a useful lesson. No scheduled API service is needed; source checks can be performed during normal content maintenance or after a report.
+
+## Topic entry order — 30 October 2026
+
+Place the topic heading, short introduction and learning actions before the optional video, then retain the detailed lesson. Run `python scripts/normalize_topic_entry_order.py` after any topic generator; `--write` moves existing video blocks without reauthoring content. The shared video builder applies this order automatically.

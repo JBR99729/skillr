@@ -17,6 +17,9 @@ from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import parse_qs, quote, urlencode, urljoin, urlsplit
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from normalize_topic_entry_order import reorder
+
 ROOT = Path(__file__).resolve().parents[1]
 START = "<!-- skillr-topic-videos:start -->"
 END = "<!-- skillr-topic-videos:end -->"
@@ -303,7 +306,7 @@ def update_source(source, block, include_quick=False):
         result = result.replace("</head>", STYLE + "</head>", 1)
     if without_owned_block(result) != clean:
         raise ValueError("Content preservation check failed")
-    return result
+    return reorder(result)
 
 
 def main():
