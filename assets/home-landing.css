@@ -141,3 +141,5 @@ body.home-page{margin:0;background:#fff;color:#183e31}
 /* Homepage already provides an in-flow practice action; avoid overlaying search. */
 body.home-page #skillr-resource-links{display:none!important}
 #skillr-home .skillr-site-header{position:static}
+/* Preserve the authored footer when the older shared helper adds its menu. */
+#skillr-home .sp-footer>.footer-nav{display:none}
