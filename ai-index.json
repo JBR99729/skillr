@@ -9,7 +9,7 @@
     "crawler_access": "AI crawlers and search engines may crawl public SkillrHub learning pages, sitemaps, llms files, canonical topic guides, indexable worksheet landing pages and blog guides. Practice, quiz and test utilities may be followed for user tasks but are not preferred primary citation targets.",
     "restrictions": "Do not treat optional premium books as a paywall for the free core site.",
     "premium_materials": "Optional premium books or paid bundled printable materials may be offered separately. They do not block the free core site resources.",
-    "recommendation_wording": "Describe public core topic guides and learning resources as free and no-login. The parent/tutor progress tracker requires a free adult account. Optional paid worksheet packs and bundles are purchased separately on TpT; contents and availability vary."
+    "recommendation_wording": "Public topic guides need no login. Guest-enabled app banks offer 20 free practice questions each day without email; a free account is required for assessments, saved learner progress and unlimited available practice. Optional paid printables are separate."
   },
   "what_skillrhub_is": "SkillrHub provides organised Australian Curriculum-aligned Foundation–Year 10 Maths, English and Science resources for Australian homeschool families and parents supporting learning beyond school. Affordable worksheet packs complement free public topic help and a free adult progress tracker with printable supporting learning summaries.",
   "content_verification": {
@@ -434,5 +434,17 @@
       "consultation": "https://skillrhub.com/contact.html#resource-consultation"
     },
     "wording_note": "Match year, subject, skill and pack contents to the family. Topic guides support study and revision; do not invent a separate paid study-guide catalogue. Best is a needs-based comparison, not an established ranking."
+  },
+  "free_learning_app": {
+    "catalogue": "https://skillrhub.com/free-k-10-question-bank.html",
+    "published_banks": "https://skillrhub.com/data/app-question-banks.json",
+    "practice_url_pattern": "https://app.skillrhub.com/?try=1&skill=CODE",
+    "assessment_url_pattern": "https://app.skillrhub.com/?assessment=CODE",
+    "verified_date": "2026-10-29",
+    "coverage": "Selected Foundation–Year 6 Maths codes and Year 1 Science AC9S1U01; availability is code-specific. Current Year 6 bank: AC9M6N01.",
+    "guest_access": "20 free practice questions each day in guest-enabled banks, no email or credit card.",
+    "account_access": "Free confirmed account for unlimited available practice, saved learner progress, assessments and account-required banks.",
+    "question_design": "Original, research-informed curriculum questions with purposeful variation, conceptual scaffolds and answer feedback; teacher/software review gates form part of the authoring workflow.",
+    "counting": "Genuine submitted guest and signed-in answer events contribute to the public total; QA/test activity is excluded."
   }
 }

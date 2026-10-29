@@ -1,3 +1,11 @@
+## Topic-page links and free-learning discovery — owner instruction, 29 October 2026
+
+Every new or revised question-bank delivery includes its Practice and separate Test banks. Check the matching public topic page during DEV QA, and update that same code's links when the verified bank is promoted to app.skillrhub.com. A DEV-only bank must not be advertised as live.
+
+On public topic pages, Practice/Quiz becomes **Free practice**, linking to `https://app.skillrhub.com/?try=1&skill=CODE` where guest practice is supported, or `?login=1&skill=CODE` for a bank requiring a free account. Test becomes **Assessment**, linking to `https://app.skillrhub.com/?assessment=CODE` only when its published Test bank exists. Preserve authentication, test agreement and explicit student-profile selection. Never silently choose another code or learner. Suppress unavailable activity links.
+
+Update `JBR99729/skillr/data/app-question-banks.json` from verified production availability, then run `python scripts/sync_topic_bank_links.py --code CODE --write` in that repository. Verify static HTML with JavaScript disabled, the actual matching practice and assessment destinations, correct/incorrect feedback, saved progress and contribution to the global questions-answered summary (including genuine guests, excluding QA). Record this evidence in the code release handoff; links, bank availability and counting are part of completion. Maintain free-learning catalogue and llms.txt descriptions when availability/access changes. Existing content and independent review/release gates remain in force.
+
 # Skillr Repository Instructions
 
 ## Current QA reference standard — 14 October 2026
