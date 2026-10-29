@@ -137,3 +137,7 @@ body.home-page{margin:0;background:#fff;color:#183e31}
 @media(min-width:701px) and (max-width:1000px){#skillr-home .sp-hero{grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:20px}#skillr-home .sp-title{font-size:34px}#skillr-home .sg-card{padding:20px}#skillr-home .sg-title{font-size:21px}#skillr-home .sg-reassurance{gap:8px;padding:10px 7px}#skillr-home .sg-reassurance span{font-size:14px}#skillr-home .sp-year-grid a{font-size:14px;padding:8px 10px}}
 @media(max-width:700px){#skillr-home .sp-wrap{padding-left:20px;padding-right:20px}#skillr-home .sp-hero{grid-template-columns:1fr;gap:22px}#skillr-home .sp-title{font-size:38px}#skillr-home .sg-card{padding:22px}#skillr-home .sg-reassurance span{font-size:16px}#skillr-home .sp-nav{flex-wrap:wrap;gap:10px}#skillr-home .sp-links{gap:16px}#skillr-home .sp-values{padding-top:24px;padding-bottom:24px}#skillr-home .sp-section{padding-top:28px;padding-bottom:28px}}
 @media(max-width:360px){#skillr-home .sp-wrap{padding-left:16px;padding-right:16px}#skillr-home .sp-title{font-size:34px}#skillr-home .sg-card{padding:20px 18px}#skillr-home .sg-value{font-size:58px}}
+
+/* Homepage already provides an in-flow practice action; avoid overlaying search. */
+body.home-page #skillr-resource-links{display:none!important}
+#skillr-home .skillr-site-header{position:static}
