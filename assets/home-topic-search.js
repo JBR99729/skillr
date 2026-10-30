@@ -34,7 +34,7 @@
     return cataloguePromise;
   }
   function loadBanks() {
-    if (!banksPromise) banksPromise = fetch('/data/app-question-banks.json?v=20261029', {credentials:'same-origin'})
+    if (!banksPromise) banksPromise = fetch('/data/app-question-banks.json?v=20261031', {credentials:'same-origin'})
       .then(function (response) { if (!response.ok) throw Error('Banks unavailable'); return response.json(); })
       .then(function (payload) { return new Map((payload.codes || []).map(function (bank) { return [bank.code, bank]; })); })
       .catch(function () { banksPromise = null; return new Map(); });

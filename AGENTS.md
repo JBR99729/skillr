@@ -1,3 +1,7 @@
+## Main-card navigation — owner instruction, 31 October 2026
+
+Across Foundation–Year6 Maths, English and Science topic pages, hide Quiz/Practice and Test/Assessment links on the main card and retain one floating **Practice now** button. Link it to the matching verified published app bank, using guest practice only where supported and the existing account route otherwise. Keep Topic Guide, Classroom View, worksheets, authored lessons and assessment access within the app. Unpublished app banks must not be advertised as available. The targeted link synchronizer must preserve this layout and native HTML navigation.
+
 ## Topic entry order — owner instruction, 30 October 2026
 
 Across existing topic pages, retain authored content and use heading → introduction → learning actions → optional video → detailed lesson. This supersedes the earlier video-first preference. Run `python scripts/normalize_topic_entry_order.py` to check, or add `--write` to normalize presentation order without rebuilding lessons. Preserve all lesson and video content.

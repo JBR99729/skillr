@@ -28,25 +28,26 @@ def activity(anchor,code):
  return False
 
 def rewrite(source,code,bank):
+ # Keep authored content and supporting links; refresh only matching activities.
  def part(text):
   if text.startswith('<!--'):return text
-  text=ANCHOR.sub(lambda m:'' if activity(m.group(),code) else m.group(),text)
-  return re.sub(r'<li\b[^>]*>\s*</li>','',text,flags=re.I)
+  text=re.sub(r'<a\b(?=[^>]*\bid=["\']skillr-topic-practice-now["\'])[^>]*>[\s\S]*?</a>\n?', '', text, flags=re.I)
+  def update(match):
+   anchor=match.group()
+   if not activity(anchor,code):return anchor
+   u=urlparse(href(anchor));params=parse_qs(u.query)
+   assessment=params.get('assessment',[None])[0]==code or bool(re.search(r'/test/?(?:index\.html)?$',u.path,re.I))
+   if not bank or not bank.get('assessment' if assessment else 'practice'):return ''
+   query='assessment='+code if assessment else ('try=1&skill='+code if bank.get('guestPractice') else 'login=1&skill='+code)
+   destination='https://app.skillrhub.com/?'+query
+   return re.sub(r'\bhref\s*=\s*(["\'])(.*?)\1', lambda m:'href="'+html.escape(destination,quote=True)+'"', anchor, count=1, flags=re.I|re.S)
+  return ANCHOR.sub(update,text)
  out=''.join(part(p) for p in COMMENTS.split(source))
- # One pair of actions, directly in the authored HTML, including without JS.
- m=re.search(r'<(?:div|nav)\b[^>]*class=[\"\'][^\"\']*(?:topic-hero__actions|static-topic-actions|resource-actions|curriculum-actions)[^\"\']*[\"\'][^>]*>',out,re.I)
  if bank and bank.get('practice'):
-  modern=bool(m and 'topic-hero__actions' in m.group())
-  cls='topic-button topic-button--outline' if modern else 'primary'
   query='try=1&amp;skill='+code if bank.get('guestPractice') else 'login=1&amp;skill='+code
-  links=f'<a class="{cls}" data-free-practice="{code}" data-guest-practice="{code}" href="https://app.skillrhub.com/?{query}">Free practice</a>'
-  if bank.get('assessment'):
-   links+=f'<a class="'+('topic-button topic-button--outline' if modern else '')+f'" data-assessment="{code}" href="https://app.skillrhub.com/?assessment={code}">Assessment</a>'
-  if m:out=out[:m.end()]+links+out[m.end():]
-  else:
-   h=re.search(r'</h1>',out,re.I)
-   if not h:raise ValueError('Topic has no heading: '+code)
-   out=out[:h.end()]+f'<nav class="static-topic-actions" aria-label="Learning activities">{links}</nav>'+out[h.end():]
+  link=f'<a id="skillr-topic-practice-now" class="skillr-topic-practice-now" data-floating-practice="{code}" data-practice-placement="floating_button" data-curriculum-code="{code}" href="https://app.skillrhub.com/?{query}">Practice now →</a>\n'
+  if not re.search(r'</body>',out,re.I):raise ValueError('Topic has no body: '+code)
+  out=re.sub(r'</body>',lambda m:link+m.group(),out,count=1,flags=re.I)
  return out
 
 def main():
