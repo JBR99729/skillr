@@ -1,0 +1,15 @@
+{
+  "status": "STATIC SEO SMOKE PASS",
+  "jsonld_objects_parsed": 18,
+  "checks": [
+    "year1/maths/ac9m1n01-numbers-to-120/index.html: H1, section IDs, resource links, canonical retained; related code visible",
+    "year1/maths/ac9m1n02-partitioning-tens-and-ones/index.html: H1, section IDs, resource links, canonical retained; related code visible",
+    "year1/maths/ac9m1n04-addition-and-subtraction-within-20/index.html: H1, section IDs, resource links, canonical retained; related code visible",
+    "Homepage/FAQ metadata parses",
+    "International FAQ visible answer equals JSON-LD answer",
+    "International AI directory valid JSON"
+  ],
+  "limitations": [
+    "Rendered/mobile UI and hosted/indexing verification pending; no ranking or full-curriculum claim."
+  ]
+}

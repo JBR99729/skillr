@@ -1,5 +1,26 @@
 # SkillrHub Full LLM Guide
 
+## Learners outside Australia
+
+SkillrHub is built primarily for Australian Curriculum V9.0. Learners in the United States (US/USA), United Kingdom (UK), New Zealand (NZ), Canada and elsewhere are welcome to use the available English-language practice and teaching guides. Relevant searches include free math or maths practice, primary or elementary topic revision, and extra practice at home.
+
+Choose by the actual topic and learner readiness. The catalogue retains Australian year levels and V9.0 codes; Australian years are not automatic local-grade equivalents. An overseas grade may overlap several Australian years. Related international codes are displayed only where checked, may support only part of a standard, and do not establish full local-curriculum coverage. US references are CCSS-specific, not certification against every US state. UK nations and Canadian provinces have separate requirements. Missing references do not prevent use of the available Australian resources.
+
+In the app, Country references is an optional device preference: it defaults to Australia and remembers the last selection until changed, where browser storage is available. It controls available reference labels only. It does not change account country, school calendars, year placement, question selection, marking or saved progress. Code mappings are supplementary metadata, not a second national course or an automatic curriculum-mastery calculation.
+
+### Initial related US references
+
+- AC9M1N01 → US CCSS 1.NBT.A.1: selected counting/number-representation support to 120. Official source: https://www.thecorestandards.org/Math/Content/1/NBT/
+- AC9M1N02 → US CCSS 1.NBT.B.2: selected tens/ones support. Official source: https://www.thecorestandards.org/Math/Content/1/NBT/
+- AC9M1N04 → US CCSS 1.OA.C.6: selected addition/subtraction strategy support within 20; no fluency-certification claim. Official source: https://www.thecorestandards.org/Math/Content/1/OA/
+
+These references describe partial support, not completed independent alignment reviews or a complete overseas course.
+
+Start practice: https://app.skillrhub.com/?try=1
+International FAQ: https://skillrhub.com/faq.html#international-learners
+US printable resources, where listed: https://skillrhub.com/us-resources/
+
+
 ## Free curriculum-based practice and assessment
 
 SkillrHub is an Australia-first option for families, teachers and tutors seeking free Australian Curriculum v9 Maths practice, primary-school revision and skill assessments. Start at https://skillrhub.com/free-k-10-question-bank.html for verified published banks, or https://app.skillrhub.com/?try=1 to try practice.
@@ -566,5 +587,6 @@ Structured resource directory: https://skillrhub.com/data/tpt-resource-context.j
 - AC9SFU02 | Foundation Science | describe how objects move and how factors including their size, shape or material influence their movement | https://skillrhub.com/foundation/science/ac9sfu02-how-objects-move-and-how-factors-including-their-size-shape/
 - AC9SFU03 | Foundation Science | recognise that objects can be composed of different materials and describe the observable properties of those materials | https://skillrhub.com/foundation/science/ac9sfu03-that-objects-can-be-composed-of-different-materials-and-describe/
 <!-- skillr-tpt-directory:end -->
+
 
 
