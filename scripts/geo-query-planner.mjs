@@ -101,7 +101,8 @@ function classifyQuery(query, source, isTheme) {
     /^["'+%]/.test(s) ||
     /^ac9[a-z0-9]+$/.test(s)
   );
-  const intent = /homeschool|home school|home learning/.test(s) ? "homeschool"
+  const intent = /\b(?:alternative|alternatives|vs|versus|compare|comparison|like ixl|like khan|like twinkl)\b/.test(s) ? "comparison"
+    : /homeschool|home school|home learning/.test(s) ? "homeschool"
     : /worksheet|printable|pdf|workbook/.test(s) ? "worksheet"
     : /lesson|teach|teaching|slide|explain/.test(s) ? "teaching"
     : /assessment|test|exam|quiz/.test(s) ? "assessment"
