@@ -1007,7 +1007,7 @@ a[href^="/quiz/year-7/science/"][href*="/worksheet/"] {
   html:has(link[rel="canonical"][href*="/year4/"]),
   html:has(link[rel="canonical"][href*="/year5/"]),
   html:has(link[rel="canonical"][href*="/year6/"])
-) :is(.curriculum-hero,.topic-hero) :is(a[href*="/quiz/"]:not([href*="/worksheet/"]),a[data-free-practice],a[data-assessment],a[href*="app.skillrhub.com/"][href*="skill="],a[href*="app.skillrhub.com/"][href*="assessment="]),
+) :is(.curriculum-hero,.topic-hero,.static-topic-hero) :is(a[href*="/quiz/"]:not([href*="/worksheet/"]),a[data-free-practice],a[data-assessment],a[href*="app.skillrhub.com/"][href*="skill="],a[href*="app.skillrhub.com/"][href*="assessment="]),
 :is(
   html:has(link[rel="canonical"][href*="/foundation/"]),
   html:has(link[rel="canonical"][href*="/year1/"]),
@@ -1016,7 +1016,7 @@ a[href^="/quiz/year-7/science/"][href*="/worksheet/"] {
   html:has(link[rel="canonical"][href*="/year4/"]),
   html:has(link[rel="canonical"][href*="/year5/"]),
   html:has(link[rel="canonical"][href*="/year6/"])
-) :is(.curriculum-hero,.topic-hero) li:has(> :is(a[href*="/quiz/"]:not([href*="/worksheet/"]),a[data-free-practice],a[data-assessment],a[href*="app.skillrhub.com/"][href*="skill="],a[href*="app.skillrhub.com/"][href*="assessment="])){display:none!important}
+) :is(.curriculum-hero,.topic-hero,.static-topic-hero) li:has(> :is(a[href*="/quiz/"]:not([href*="/worksheet/"]),a[data-free-practice],a[data-assessment],a[href*="app.skillrhub.com/"][href*="skill="],a[href*="app.skillrhub.com/"][href*="assessment="])){display:none!important}
 
 /* A single topic action, including when JavaScript is disabled. */
 #skillr-topic-practice-now{position:fixed;right:max(12px,env(safe-area-inset-right));bottom:max(12px,env(safe-area-inset-bottom));z-index:901;display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;min-height:44px;max-width:calc(100vw - 24px);padding:11px 18px;border:1px solid #fff;border-radius:999px;background:#2457d6;color:#fff;font:750 15px/1.35 system-ui,sans-serif;text-decoration:none;white-space:nowrap;box-shadow:0 3px 12px #18324f26}
