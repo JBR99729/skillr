@@ -28,20 +28,10 @@ def activity(anchor,code):
  return False
 
 def rewrite(source,code,bank):
- # Keep authored content and supporting links; refresh only matching activities.
+ # Main-card visibility is shared CSS. Preserve every existing supporting link.
  def part(text):
   if text.startswith('<!--'):return text
-  text=re.sub(r'<a\b(?=[^>]*\bid=["\']skillr-topic-practice-now["\'])[^>]*>[\s\S]*?</a>\n?', '', text, flags=re.I)
-  def update(match):
-   anchor=match.group()
-   if not activity(anchor,code):return anchor
-   u=urlparse(href(anchor));params=parse_qs(u.query)
-   assessment=params.get('assessment',[None])[0]==code or bool(re.search(r'/test/?(?:index\.html)?$',u.path,re.I))
-   if not bank or not bank.get('assessment' if assessment else 'practice'):return ''
-   query='assessment='+code if assessment else ('try=1&skill='+code if bank.get('guestPractice') else 'login=1&skill='+code)
-   destination='https://app.skillrhub.com/?'+query
-   return re.sub(r'\bhref\s*=\s*(["\'])(.*?)\1', lambda m:'href="'+html.escape(destination,quote=True)+'"', anchor, count=1, flags=re.I|re.S)
-  return ANCHOR.sub(update,text)
+  return re.sub(r'<a\b(?=[^>]*\bid=["\']skillr-topic-practice-now["\'])[^>]*>[\s\S]*?</a>\n?', '', text, flags=re.I)
  out=''.join(part(p) for p in COMMENTS.split(source))
  if bank and bank.get('practice'):
   query='try=1&amp;skill='+code if bank.get('guestPractice') else 'login=1&amp;skill='+code
