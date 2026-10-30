@@ -48,6 +48,17 @@ Accept multiple `--google`, `--bing`, and `--ai` arguments for sharded exports; 
 - The selected 48 topic guides were already SEO-enhanced on 28 October. Treat them as recently modified, with potential confounding effects and insufficient post-change observation.
 - The six-month full-fidelity Google/Bing exports have **not** been read into this branch. This work must not be described as a six-month keyword rollout.
 
+## Comparison-intent acquisition experiment
+
+The owner has authorised describing SkillrHub as an **independent Australian Curriculum-focused alternative** to IXL, Khan Academy, Twinkl and comparable resources when this is accurate for the *specific* user need. The legitimate search-intent cluster includes phrases such as "IXL alternative Australia", "Khan Academy alternative for Australian homeschooling", and "Twinkl alternative for Australian worksheets". These are **proposed variants**, not verified past search queries until their exact wording appears in six-month exports. Avoid competitor names on unrelated curriculum pages or auto-generating individual doorway pages for brand permutations.
+
+- The **existing** `/blogs/best-free-education-websites-for-k-10-students.html` is the single comparison destination for the pilot. It offers a fair explanation of provider strengths, the distinct SkillrHub use case, clearly described access and product availability, official provider links, and an explicit non-affiliation note.
+- Label a query `comparison` only if it uses an actual comparison or alternatives term; retain each source query exactly. Cluster natural variations for analysis without discarding the original rows.
+- In each provider-branded segment, record six-month impressions, clicks, CTR, search visibility and landing page. Measure which competitor comparison pages are actually visited and whether they lead to curriculum topic pages or practice/worksheet starts. No conversion tracking claim unless measurements exist.
+- Never suggest that Khan Academy requires payment (its core learning content is free), that Twinkl is not Australian Curriculum-aligned, or that IXL lacks teacher features or diagnostic tools. Do not claim SkillrHub replaces all three products or has every skill, free printed pack, grade equivalence or demonstrated efficacy.
+- Link to independent provider official pages for attribution, not to imply endorsement. Relevant competitors may be named accurately in editorial text, but do not use confusing branding, logos or fake independent reviews.
+- The comparison page and `llms.txt` are amended **on this feature branch only**; no live deployment, indexing or traffic improvement has been demonstrated.
+
 ## Ranking and editorial queue
 
 Group search rows by question intent (explain, teach, troubleshoot, visualise, compare, practise, printable, assess, homeschool planning) and by closest established curriculum destination. Prefer one existing page serving several *natural variants of the same intent*; a query phrase does not justify a new URL.
