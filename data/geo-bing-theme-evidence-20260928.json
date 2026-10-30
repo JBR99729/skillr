@@ -1,0 +1,60 @@
+{
+  "source": "Saved SkillrHub SEO Growth Review, 28 September 2026",
+  "source_period": "2026-09 (exact reporting dates not supplied)",
+  "measurement": "AI citation theme report, not exact user query export",
+  "notes": "Themes are reported group labels, not verbatim user queries. Citation share is not search volume.",
+  "themes": [
+    {
+      "theme": "Year 5 percentages",
+      "citations": 10,
+      "citation_share_pct": 33.33,
+      "codes": [
+        "AC9M5N04"
+      ]
+    },
+    {
+      "theme": "Grid coordinates Year 5",
+      "citations": 6,
+      "citation_share_pct": 28.57,
+      "codes": [
+        "AC9M5SP02"
+      ]
+    },
+    {
+      "theme": "Year 10 questions across subjects",
+      "citations": 24,
+      "citation_share_pct": 25.26,
+      "codes": []
+    },
+    {
+      "theme": "Year 1 maths addition",
+      "citations": 21,
+      "citation_share_pct": 25,
+      "codes": [
+        "AC9M1N04"
+      ]
+    },
+    {
+      "theme": "Pattern activity for Grade/Year 1",
+      "citations": 25,
+      "citation_share_pct": 24.27,
+      "codes": [
+        "AC9M1A02"
+      ]
+    },
+    {
+      "theme": "Multiplication Year 2",
+      "citations": 9,
+      "citation_share_pct": 20.93,
+      "codes": [
+        "AC9M2N05"
+      ]
+    },
+    {
+      "theme": "Maths for Year 1",
+      "citations": 30,
+      "citation_share_pct": 16.22,
+      "codes": []
+    }
+  ]
+}
