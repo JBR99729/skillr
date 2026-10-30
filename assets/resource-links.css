@@ -72,3 +72,24 @@ body:has(>#skillr-resource-links.skillr-practice-bar:not([hidden])){padding-bott
 body:has(>#skillr-topic-practice-now:not([hidden])){padding-bottom:80px}
 @media(max-width:480px){#skillr-topic-practice-now{padding:10px 15px;font-size:14px}}
 @media print{#skillr-topic-practice-now{display:none!important}body:has(>#skillr-topic-practice-now){padding-bottom:0}}
+
+/* Owner navigation: F–6 main cards omit Quiz/Test; one floating Practice now action remains. */
+:is(
+  html:has(link[rel="canonical"][href*="/foundation/"]),
+  html:has(link[rel="canonical"][href*="/year1/"]),
+  html:has(link[rel="canonical"][href*="/year2/"]),
+  html:has(link[rel="canonical"][href*="/year3/"]),
+  html:has(link[rel="canonical"][href*="/year4/"]),
+  html:has(link[rel="canonical"][href*="/year5/"]),
+  html:has(link[rel="canonical"][href*="/year6/"])
+) :is(.curriculum-hero,.topic-hero,.static-topic-hero) :is(a[href*="/quiz/"]:not([href*="/worksheet/"]),a[data-free-practice],a[data-assessment],a[href*="app.skillrhub.com/"][href*="skill="],a[href*="app.skillrhub.com/"][href*="assessment="]),
+:is(
+  html:has(link[rel="canonical"][href*="/foundation/"]),
+  html:has(link[rel="canonical"][href*="/year1/"]),
+  html:has(link[rel="canonical"][href*="/year2/"]),
+  html:has(link[rel="canonical"][href*="/year3/"]),
+  html:has(link[rel="canonical"][href*="/year4/"]),
+  html:has(link[rel="canonical"][href*="/year5/"]),
+  html:has(link[rel="canonical"][href*="/year6/"])
+) :is(.curriculum-hero,.topic-hero,.static-topic-hero) li:has(> :is(a[href*="/quiz/"]:not([href*="/worksheet/"]),a[data-free-practice],a[data-assessment],a[href*="app.skillrhub.com/"][href*="skill="],a[href*="app.skillrhub.com/"][href*="assessment="])){display:none!important}
+
