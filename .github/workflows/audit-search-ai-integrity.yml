@@ -7,6 +7,8 @@ on:
       - 'robots.txt'
       - 'sitemap*.xml'
       - 'scripts/audit_search_ai_integrity.mjs'
+      - 'scripts/geo-query-planner.mjs'
+      - 'data/geo-bing-theme-evidence-20260928.json'
       - 'scripts/audit_internal_links.py'
       - 'data/print-and-go-products.json'
       - 'scripts/audit_product_guide_links.py'
@@ -29,6 +31,8 @@ on:
       - 'robots.txt'
       - 'sitemap*.xml'
       - 'scripts/audit_search_ai_integrity.mjs'
+      - 'scripts/geo-query-planner.mjs'
+      - 'data/geo-bing-theme-evidence-20260928.json'
       - 'scripts/audit_internal_links.py'
       - 'data/print-and-go-products.json'
       - 'scripts/audit_product_guide_links.py'
@@ -59,6 +63,12 @@ jobs:
           node-version: '22'
       - name: Audit canonical, sitemap and indexability integrity
         run: node scripts/audit_search_ai_integrity.mjs
+
+      - name: Smoke-test GEO query planner with dated repository samples
+        run: |
+          node --check scripts/geo-query-planner.mjs
+          node scripts/geo-query-planner.mjs --out /tmp/skillr-geo-smoke.json
+          node --input-type=module -e 'import fs from "node:fs"; const p=JSON.parse(fs.readFileSync("/tmp/skillr-geo-smoke.json","utf8")); if(p.summary.exact_query_rows!==38 || p.summary.theme_only_rows!==7 || p.summary.australia_rows!==38 || p.mode.indexOf("LIMITED HISTORICAL SAMPLE")<0) process.exit(1); console.log("GEO query smoke PASS",p.summary);'
 
       - name: Check internal link destinations
         run: python3 scripts/audit_internal_links.py
