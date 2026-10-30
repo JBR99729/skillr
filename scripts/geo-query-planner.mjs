@@ -122,10 +122,11 @@ for (const [source, files] of Object.entries(inputs)) {
       const parsed = parseFile(name, source);
       sources.push({ source, filename: path.basename(name), period: parsed.period, rows: parsed.rows.length, exactQueries: !parsed.themes });
       for (const row of parsed.rows) {
-        const isTheme = Boolean(parsed.themes) || source === "ai" && value(row, "theme") && !value(row, "query", "grounding_query");
+        const isTheme = Boolean(parsed.themes) || source === "ai"; // AI grounding phrases are NOT exact user prompts.
         const query = String(value(row, "query", "top_queries", "keyword", "keywords", "search_term", "grounding_query", "query_theme", "theme")).trim();
         if (!query) continue;
         const page = canonicalPage(value(row, "page", "url", "landing_page", "landingpage", "page_url"));
+        const country = String(value(row, "country", "country_name", "countryname")).trim();
         const impressions = asNumber(value(row, "impressions", "impression"));
         const clicks = asNumber(value(row, "clicks", "click"));
         const citations = asNumber(value(row, "citations", "cited", "citationcount"));
@@ -133,7 +134,7 @@ for (const [source, files] of Object.entries(inputs)) {
         const tags = classifyQuery(query, source, isTheme);
         records.push({
           source, query, exact_query: !isTheme,
-          page, impressions, clicks, position: position || null,
+          page, country, impressions, clicks, position: position || null,
           citations, citation_share_pct: asNumber(value(row, "citation_share_pct", "citationshare")),
           codes: Array.isArray(row.codes) ? row.codes : [],
           ...tags
@@ -145,7 +146,7 @@ for (const [source, files] of Object.entries(inputs)) {
 if (errors.length) { console.error(JSON.stringify(errors, null, 2)); process.exit(1); }
 const merged = new Map();
 for (const rec of records) {
-  const key = [rec.source, rec.exact_query, rec.query.toLowerCase().replace(/\s+/g, " "), rec.page].join("\u0000");
+  const key = [rec.source, rec.exact_query, rec.query.toLowerCase().replace(/\s+/g, " "), rec.page, rec.country].join("\u0000");
   const old = merged.get(key);
   if (!old) { merged.set(key, { ...rec }); continue; }
   const total = old.impressions + rec.impressions;
@@ -161,7 +162,7 @@ const items = [...merged.values()].map(x => {
   const score = (Math.log1p(x.impressions) * 3 + Math.log1p(x.clicks) * 5 + Math.log1p(x.citations) * 7)
     * rankOpportunity * (x.diagnostic ? 0.08 : 1);
   return { ...x, opportunity_score: Math.round(score * 100) / 100,
-    review_status: x.diagnostic ? "exclude diagnostic from demand KPI" : x.exact_query ? "verify page and answer fit" : "theme only: obtain exact Bing query" };
+    review_status: x.diagnostic ? "diagnostic-like: manual review before excluding from demand KPI" : x.exact_query ? "verify page and answer fit" : "Bing AI grouped grounding phrase, not exact user prompt" };
 }).sort((a, b) => b.opportunity_score - a.opportunity_score || a.query.localeCompare(b.query));
 const output = {
   generated_at: new Date().toISOString(),
@@ -174,7 +175,8 @@ const output = {
     theme_only_rows: items.filter(x => !x.exact_query).length,
     diagnostic_rows: items.filter(x => x.diagnostic).length,
     unique_exact_queries: new Set(items.filter(x => x.exact_query).map(x => x.query.toLowerCase())).size,
-    page_specific_rows: items.filter(x => x.page).length
+    page_specific_rows: items.filter(x => x.page).length,
+    australia_rows: items.filter(x => /^(australia|au)$/i.test(x.country)).length
   },
   queue: items
 };
