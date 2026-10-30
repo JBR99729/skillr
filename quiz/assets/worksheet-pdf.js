@@ -614,6 +614,23 @@
   }
 
   function setup() {
+    // Existing topic Worksheet links keep their URLs. F–6 generation now
+    // continues in the authenticated app; paid packs and higher years are unchanged.
+    const code = getSkillCode();
+    if (/^AC9[MES][F1-6][A-Z]+\d+$/.test(code)) {
+      const existing = $("#downloadPdfButton");
+      if (!existing) return;
+      const link = document.createElement("a");
+      link.className = existing.className;
+      link.id = "downloadPdfButton";
+      link.href = "https://app.skillrhub.com/?worksheet=" + encodeURIComponent(code);
+      link.textContent = "Generate 5-question worksheet";
+      existing.replaceWith(link);
+      const note = document.createElement("p");
+      note.textContent = "Free account required. Sign in, choose your student profile, then save five questions and a separate answer key. Printable formats depend on the topic.";
+      link.insertAdjacentElement("beforebegin", note);
+      return;
+    }
     let button = $("#downloadPdfButton");
 
     if (!button) {
