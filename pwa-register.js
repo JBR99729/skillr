@@ -123,7 +123,7 @@
   if (window.__skillrResourceLinksLoading) return;
   window.__skillrResourceLinksLoading = true;
   var script = document.createElement('script');
-  script.src = '/assets/resource-links.js?v=topic-bank-links-20261029';
+  script.src = '/assets/resource-links.js?v=topic-floating-practice-20261031';
   script.defer = true;
   document.head.appendChild(script);
 }());

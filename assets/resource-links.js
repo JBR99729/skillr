@@ -177,10 +177,37 @@
     }).catch(() => {});
   }
 
+  function mountTopicPracticeLink(code) {
+    let link = document.getElementById('skillr-topic-practice-now');
+    const visibility = () => { if (link) link.hidden = !!document.fullscreenElement; };
+    document.addEventListener('fullscreenchange', visibility);
+    visibility();
+    fetch('/data/app-question-banks.json?v=20261031', {cache: 'no-cache'})
+      .then(response => response.ok ? response.json() : Promise.reject(new Error('Practice catalogue unavailable')))
+      .then(data => {
+        const bank = (data.codes || []).find(item => item.code === code);
+        if (!bank?.practice) { link?.remove(); return; }
+        if (!link) {
+          link = document.createElement('a');
+          link.id = 'skillr-topic-practice-now';
+          link.className = 'skillr-topic-practice-now';
+          document.body.appendChild(link);
+        }
+        link.href = 'https://app.skillrhub.com/?' + (bank.guestPractice ? 'try=1&skill=' : 'login=1&skill=') + encodeURIComponent(code);
+        link.textContent = 'Practice now →';
+        link.dataset.floatingPractice = code;
+        link.dataset.practicePlacement = 'floating_button';
+        link.dataset.curriculumCode = code;
+        link.setAttribute('aria-label', 'Practice ' + code + (bank.guestPractice ? '' : ' — free account needed'));
+        visibility();
+      })
+      .catch(() => {}); // A verified static link remains usable if the catalogue cannot be refreshed.
+  }
+
   function init() {
     if (!document.body || document.getElementById('skillr-resource-links')) return;
     const css = document.createElement('link');
-    css.rel = 'stylesheet'; css.href = '/assets/resource-links.css?v=free-practice-entry-20261028';
+    css.rel = 'stylesheet'; css.href = '/assets/resource-links.css?v=topic-floating-practice-20261031';
     document.head.appendChild(css);
     const menu=document.createElement('section');menu.id='skillr-resource-links';menu.className='skillr-practice-bar';menu.setAttribute('aria-label','Free practice');
     const intro=document.createElement('div');intro.className='skillr-practice-bar__intro';intro.innerHTML='<strong>Free practice questions</strong><span>No email to start</span>';
@@ -191,8 +218,9 @@
     let dismissed=false;try{dismissed=window.sessionStorage?.getItem('skillr-practice-bar-dismissed-v1')==='1';}catch{}
     menu.hidden=dismissed;menu.append(intro,practice,close);document.body.appendChild(menu);
     close.addEventListener('click',()=>{dismissed=true;menu.hidden=true;try{window.sessionStorage?.setItem('skillr-practice-bar-dismissed-v1','1');}catch{}});
-    // Topic pages own their single static, code-matched activity links.
+    // Topic pages retain one code-matched floating action; the main card stays compact.
     if(isTopic)menu.remove();
+    if(isTopic && /^\/(?:foundation|year[1-6])\//i.test(window.location.pathname)) mountTopicPracticeLink(code);
     topicPacks();
 
     if (window.location.pathname === '/teach-and-explain.html') {

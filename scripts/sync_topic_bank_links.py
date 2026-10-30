@@ -28,25 +28,16 @@ def activity(anchor,code):
  return False
 
 def rewrite(source,code,bank):
+ # Main-card visibility is shared CSS. Preserve every existing supporting link.
  def part(text):
   if text.startswith('<!--'):return text
-  text=ANCHOR.sub(lambda m:'' if activity(m.group(),code) else m.group(),text)
-  return re.sub(r'<li\b[^>]*>\s*</li>','',text,flags=re.I)
+  return re.sub(r'<a\b(?=[^>]*\bid=["\']skillr-topic-practice-now["\'])[^>]*>[\s\S]*?</a>\n?', '', text, flags=re.I)
  out=''.join(part(p) for p in COMMENTS.split(source))
- # One pair of actions, directly in the authored HTML, including without JS.
- m=re.search(r'<(?:div|nav)\b[^>]*class=[\"\'][^\"\']*(?:topic-hero__actions|static-topic-actions|resource-actions|curriculum-actions)[^\"\']*[\"\'][^>]*>',out,re.I)
  if bank and bank.get('practice'):
-  modern=bool(m and 'topic-hero__actions' in m.group())
-  cls='topic-button topic-button--outline' if modern else 'primary'
   query='try=1&amp;skill='+code if bank.get('guestPractice') else 'login=1&amp;skill='+code
-  links=f'<a class="{cls}" data-free-practice="{code}" data-guest-practice="{code}" href="https://app.skillrhub.com/?{query}">Free practice</a>'
-  if bank.get('assessment'):
-   links+=f'<a class="'+('topic-button topic-button--outline' if modern else '')+f'" data-assessment="{code}" href="https://app.skillrhub.com/?assessment={code}">Assessment</a>'
-  if m:out=out[:m.end()]+links+out[m.end():]
-  else:
-   h=re.search(r'</h1>',out,re.I)
-   if not h:raise ValueError('Topic has no heading: '+code)
-   out=out[:h.end()]+f'<nav class="static-topic-actions" aria-label="Learning activities">{links}</nav>'+out[h.end():]
+  link=f'<a id="skillr-topic-practice-now" class="skillr-topic-practice-now" data-floating-practice="{code}" data-practice-placement="floating_button" data-curriculum-code="{code}" href="https://app.skillrhub.com/?{query}">Practice now →</a>\n'
+  if not re.search(r'</body>',out,re.I):raise ValueError('Topic has no body: '+code)
+  out=re.sub(r'</body>',lambda m:link+m.group(),out,count=1,flags=re.I)
  return out
 
 def main():
