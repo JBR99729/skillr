@@ -82,7 +82,7 @@ function parseFile(name, source) {
   const raw = fs.readFileSync(full, "utf8");
   const parsed = name.toLowerCase().endsWith(".json") ? JSON.parse(raw) : csvParse(raw);
   if (Array.isArray(parsed)) return { rows: parsed, period: "unspecified" };
-  if (Array.isArray(parsed.rows)) return { rows: parsed.rows, period: [parsed.start, parsed.end].filter(Boolean).join(" to ") || "unspecified" };
+  if (Array.isArray(parsed.rows)) return { rows: parsed.rows, period: [parsed.start, parsed.end].filter(Boolean).join(" to ") || "unspecified", country: parsed.country || "" };
   if (Array.isArray(parsed.themes)) return { rows: parsed.themes, period: parsed.source_period || "unspecified", themes: true };
   throw Error("Unsupported file layout: " + name);
 }
@@ -127,7 +127,7 @@ for (const [source, files] of Object.entries(inputs)) {
         const query = String(value(row, "query", "top_queries", "keyword", "keywords", "search_term", "grounding_query", "query_theme", "theme")).trim();
         if (!query) continue;
         const page = canonicalPage(value(row, "page", "url", "landing_page", "landingpage", "page_url"));
-        const country = String(value(row, "country", "country_name", "countryname")).trim();
+        const country = String(value(row, "country", "country_name", "countryname") || parsed.country || "").trim();
         const impressions = asNumber(value(row, "impressions", "impression"));
         const clicks = asNumber(value(row, "clicks", "click"));
         const citations = asNumber(value(row, "citations", "cited", "citationcount"));
