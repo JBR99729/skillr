@@ -48,3 +48,34 @@ test("Year 2 hub links to its previously published detailed equal-groups guide",
   assert.match(discovery, /AC9M2N05/i);
   assert.match(discovery, /<link[^>]+rel=["']canonical["']/i);
 });
+
+test("Bing-priority Year 8, Year 1 shapes and Year 10 periodic answers are public and curriculum-specific", () => {
+  const checks = [
+    {
+      page: "year8/curriculum/index.html",
+      snippet: "Where should I start Year 8 revision?",
+      code: "Australian Curriculum",
+      answerId: "year8-revision-start",
+    },
+    {
+      page: "year1/maths/ac9m1sp01-familiar-shapes-and-objects/index.html",
+      snippet: "What is the difference between a 2D shape and a 3D object?",
+      code: "AC9M1SP01",
+      answerId: "year1-shapes-quick-answer",
+    },
+    {
+      page: "year10/science/ac9s10u06-atomic-structure-periodic-table-patterns/index.html",
+      snippet: "How do groups and periods work in the periodic table?",
+      code: "AC9S10U06",
+      answerId: "year10-periodic-answer",
+    },
+  ];
+  for (const { page, snippet, code, answerId } of checks) {
+    const html = read(page);
+    assert.ok(html.includes(snippet), page + ": missing visible answer heading");
+    assert.ok(html.includes(code), page + ": missing year/code context");
+    assert.equal((html.match(new RegExp('id="' + answerId + '"', "g")) || []).length, 1, page + ": duplicate answer block");
+    assert.ok(html.includes('rel="canonical"'), page + ": missing canonical");
+    assert.ok(!/<meta[^>]*name=["']robots["'][^>]*noindex/i.test(html), page + ": noindex answer");
+  }
+});

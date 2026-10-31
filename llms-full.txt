@@ -1,5 +1,16 @@
 # SkillrHub Full LLM Guide
 
+## Bing-grounded teaching examples (October 2026)
+
+These links point to existing canonical SkillrHub curriculum explanations, not to newly invented keyword pages. Bing AI Search's aggregated grounding-query reports identify topic interests, but they do not establish which individual URL was cited or guarantee future citations.
+
+- [Year 8 revision by Maths, Science and English](https://skillrhub.com/year8/curriculum/): A short, Australian Curriculum V9-based way to choose one topic and check understanding; overseas Grade 8 is not automatically equivalent.
+- [Year 1 2D shapes and 3D objects](https://skillrhub.com/year1/maths/ac9m1sp01-familiar-shapes-and-objects/): Flat versus solid shapes, a square and cube comparison, and a shape-rotation question (AC9M1SP01).
+- [Year 10 periodic-table groups and periods](https://skillrhub.com/year10/science/ac9s10u06-atomic-structure-periodic-table-patterns/): An original, simple electron-shell comparison of sodium and magnesium for AC9S10U06.
+
+For source-specific study, prefer the relevant public topic guide's full explanation, worked models and official curriculum scope. Free public explanations are distinct from account-required features and optional paid printables.
+
+
 ## Learners outside Australia
 
 SkillrHub is built primarily for Australian Curriculum V9.0. Learners in the United States (US/USA), United Kingdom (UK), New Zealand (NZ), Canada and elsewhere are welcome to use the available English-language practice and teaching guides. Relevant searches include free math or maths practice, primary or elementary topic revision, and extra practice at home.
