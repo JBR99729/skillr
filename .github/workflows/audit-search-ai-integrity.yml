@@ -8,6 +8,8 @@ on:
       - 'sitemap*.xml'
       - 'scripts/audit_search_ai_integrity.mjs'
       - 'scripts/geo-query-planner.mjs'
+      - 'scripts/geo-chatgpt-scorecard.mjs'
+      - 'data/geo-chatgpt-neutral-prompts.json'
       - 'llms.txt'
       - 'scripts/tests/geo-answer-map.test.mjs'
       - 'data/geo-bing-theme-evidence-20260928.json'
@@ -34,6 +36,8 @@ on:
       - 'sitemap*.xml'
       - 'scripts/audit_search_ai_integrity.mjs'
       - 'scripts/geo-query-planner.mjs'
+      - 'scripts/geo-chatgpt-scorecard.mjs'
+      - 'data/geo-chatgpt-neutral-prompts.json'
       - 'llms.txt'
       - 'scripts/tests/geo-answer-map.test.mjs'
       - 'data/geo-bing-theme-evidence-20260928.json'
@@ -76,6 +80,12 @@ jobs:
 
       - name: Verify GEO canonical answer map and existing resources
         run: node --test scripts/tests/geo-answer-map.test.mjs
+
+      - name: Verify untested ChatGPT Search prompts cannot be reported as zero citations
+        run: |
+          node --check scripts/geo-chatgpt-scorecard.mjs
+          node scripts/geo-chatgpt-scorecard.mjs > /tmp/chatgpt-geo-scorecard.json
+          node --input-type=module -e 'import fs from "node:fs"; const r=JSON.parse(fs.readFileSync("/tmp/chatgpt-geo-scorecard.json","utf8")); if(r.status!=="UNTESTED" || r.questions_in_set!==12 || r.inspected_answer_runs!==0 || r.observed_inclusion_rate!==null) process.exit(1); console.log("ChatGPT citation scorecard correctly remains UNTESTED");'
 
       - name: Check internal link destinations
         run: python3 scripts/audit_internal_links.py
