@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "created": "2026-10-31",
+  "purpose": "Neutral, repeatable user-question checks for ChatGPT Search or other separately identified AI search interfaces; prompts do NOT mention SkillrHub. An observation must be a real answer from a distinct tested session. No results have been collected in this file.",
+  "provenance": "Curated natural-language questions inspired by Bing AI grounding themes and SkillrHub's teaching scope. NOT transcripts of real user prompts.",
+  "questions": [
+    {
+      "id": "Y8SCI",
+      "question": "Where can I find free Australian Curriculum Year 8 Science lessons and worksheets for learning at home?",
+      "target": "https://skillrhub.com/year8/curriculum/science/"
+    },
+    {
+      "id": "Y1MATH",
+      "question": "What free Australian Curriculum Year 1 Maths activities can a parent use at home?",
+      "target": "https://skillrhub.com/year1/maths/"
+    },
+    {
+      "id": "Y1ADD",
+      "question": "How do I teach addition to 20 to a Year 1 child using make-ten?",
+      "target": "https://skillrhub.com/year1/maths/ac9m1n04-addition-and-subtraction-within-20/"
+    },
+    {
+      "id": "Y1PAT",
+      "question": "Where can I find Year 1 repeating pattern activities that explain the pattern unit?",
+      "target": "https://skillrhub.com/year1/maths/ac9m1a02-repeating-patterns/"
+    },
+    {
+      "id": "Y2MULT",
+      "question": "What free Year 2 multiplication and division examples use equal groups and arrays?",
+      "target": "https://skillrhub.com/year2/maths/"
+    },
+    {
+      "id": "Y4MATH",
+      "question": "What are good Year 4 Maths questions about odd and even numbers and fractions?",
+      "target": "https://skillrhub.com/year4/curriculum/maths/"
+    },
+    {
+      "id": "Y5PCT",
+      "question": "How can I teach Year 5 percentages with hundred grids?",
+      "target": "https://skillrhub.com/year5/maths/ac9m5n04-that-100-represents-the-complete-whole-and-use-percentages-to/"
+    },
+    {
+      "id": "Y10ALG",
+      "question": "Where can I find Year 10 algebra examples for expanding, factorising and simplifying expressions?",
+      "target": "https://skillrhub.com/year10/maths/ac9m10a01-expand-factorise-and-simplify-expressions-and-solve-equations/"
+    },
+    {
+      "id": "Y1SCI",
+      "question": "What simple Year 1 science investigations and worksheets follow the Australian Curriculum?",
+      "target": "https://skillrhub.com/year1/science/"
+    },
+    {
+      "id": "Y6ENG",
+      "question": "Where can I find Year 6 English lessons about formal language and objective versus subjective statements?",
+      "target": "https://skillrhub.com/year6/curriculum/english/"
+    },
+    {
+      "id": "HOMESCHOOL",
+      "question": "What free Australian Curriculum teaching resources are available for homeschooling families?",
+      "target": "https://skillrhub.com/homeschooling-australia/"
+    },
+    {
+      "id": "ALTERNATIVE",
+      "question": "What Australian Curriculum resources are alternatives to IXL, Khan Academy or Twinkl?",
+      "target": "https://skillrhub.com/blogs/best-free-education-websites-for-k-10-students.html"
+    }
+  ],
+  "observations": []
+}
