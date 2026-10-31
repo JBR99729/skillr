@@ -225,7 +225,8 @@
 
     if (window.location.pathname === '/teach-and-explain.html') {
       fetch('/data/print-and-go-products.json?v=20260923-tpt-funnel', {cache: 'no-cache'}).then(response => response.ok ? response.json() : []).then(products => {
-        const slides = Array.isArray(products) ? products.filter(product => product.available && product.resourceType === 'teaching-slides' && product.id.indexOf('tpt-') === 0) : [];
+        const listedIds = new Set(Array.from(document.querySelectorAll('[data-product-id]'), node => node.getAttribute('data-product-id').replace(/^tpt-/, '')));
+        const slides = Array.isArray(products) ? products.filter(product => product.available && product.resourceType === 'teaching-slides' && product.id.indexOf('tpt-') === 0 && !listedIds.has(product.id.replace(/^tpt-/, ''))) : [];
         if (!slides.length || document.getElementById('tpt-active-slide-catalogue')) return;
         const section = document.createElement('section');
         section.id = 'tpt-active-slide-catalogue';
@@ -233,7 +234,7 @@
         section.setAttribute('aria-labelledby', 'tpt-active-slide-catalogue-title');
         const heading = document.createElement('div');
         heading.className = 'section-heading';
-        heading.innerHTML = '<p class="eyebrow">EXPANDED RANGE</p><h2 id="tpt-active-slide-catalogue-title">Year 1 Maths and Science teaching resources</h2><p>Additional active SkillrHub teaching-slide resources, including measurement, space, statistics and science topics.</p>';
+        heading.innerHTML = '<p class="eyebrow">EXPANDED RANGE</p><h2 id="tpt-active-slide-catalogue-title">More teaching resources</h2><p>Additional SkillrHub teaching-slide resources. Check each pack’s year level, curriculum code and preview.</p>';
         const grid = document.createElement('div');
         grid.className = 'product-grid product-grid--featured';
         slides.forEach(product => {
@@ -242,7 +243,7 @@
           const title = document.createElement('h3'); title.textContent = product.title;
           const description = document.createElement('p'); description.textContent = product.description;
           const details = document.createElement('p'); details.className = 'small'; details.textContent = product.curriculumCodes.join(' · ') + ' · ' + product.yearLabel + ' ' + product.subjectLabel;
-          const price = document.createElement('p'); price.className = 'price'; price.textContent = 'US$' + Number(product.price).toFixed(2);
+          const price = document.createElement('p'); price.className = 'price'; price.textContent = product.price == null || product.price === '' || !Number.isFinite(Number(product.price)) ? 'See current price on TPT' : 'US$' + Number(product.price).toFixed(2);
           const action = makeTptLink(product, (product.curriculumCodes || [])[0] || '', 'teach_catalogue', 'View on TPT');
           action.classList.add('button');
           card.append(title, description, details, price, action); grid.appendChild(card);
