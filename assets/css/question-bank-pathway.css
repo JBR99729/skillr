@@ -1,0 +1,21 @@
+/* Supplementary learning pathway for legacy topic pages and subject hubs.
+   Uses the restrained, responsive card language of Year 1 Maths. */
+.bank-learning-path,.bank-hub{font-family:inherit;box-sizing:border-box;border:1px solid #dbe5f3;border-radius:18px;background:#f8fbff;padding:clamp(16px,3vw,28px);margin:18px 0 26px;color:#183354}
+.bank-learning-path *,.bank-hub *{box-sizing:border-box}
+.bank-learning-path__eyebrow{color:#315a94;font-size:.78rem;font-weight:800;letter-spacing:.06em;text-transform:uppercase;margin:0 0 8px}
+.bank-learning-path h2,.bank-hub h2{color:#163867;font-size:clamp(1.22rem,2.2vw,1.65rem);line-height:1.3;margin:0 0 9px}
+.bank-learning-path>p:not(.bank-learning-path__eyebrow),.bank-hub>p{line-height:1.6;max-width:72ch}
+.bank-learning-path__actions{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0 10px}
+.bank-learning-path__actions a,.bank-hub-topic nav a{display:inline-flex;align-items:center;justify-content:center;text-decoration:none;border:1px solid #c6d7ef;border-radius:10px;background:#fff;padding:11px 14px;font-weight:700;color:#184b85;min-height:44px}
+.bank-learning-path__actions a:nth-child(2),.bank-hub-topic nav a:nth-child(2){background:#1c5299;border-color:#1c5299;color:#fff}
+.bank-learning-path__actions a:hover,.bank-hub-topic nav a:hover{box-shadow:0 2px 9px #17437b24;transform:translateY(-1px)}
+.bank-learning-path__actions a:focus-visible,.bank-hub-topic a:focus-visible{outline:3px solid #e5a937;outline-offset:2px}
+.bank-learning-path .bank-learning-path__note{font-size:.9rem;color:#526780;margin-bottom:0}
+.bank-hub-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,250px),1fr));gap:14px;margin:18px 0}
+.bank-hub-topic{border:1px solid #d7e2f1;background:#fff;border-radius:14px;padding:16px;min-width:0}
+.bank-hub-topic>p{font-size:.77rem;font-weight:800;letter-spacing:.04em;color:#4f6490;margin:0 0 8px}
+.bank-hub-topic h3{font-size:1rem;line-height:1.4;margin:0 0 16px}
+.bank-hub-topic h3 a{text-decoration:none;color:#173c72}
+.bank-hub-topic nav{display:flex;flex-wrap:wrap;gap:8px}
+.bank-hub-topic nav a{font-size:.84rem;padding:8px 10px;min-height:38px}
+@media(max-width:520px){.bank-learning-path,.bank-hub{padding:16px}.bank-learning-path__actions{flex-direction:column}.bank-learning-path__actions a{width:100%}}
