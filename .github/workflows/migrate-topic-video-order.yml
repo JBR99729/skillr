@@ -1,0 +1,44 @@
+name: Migrate topic videos to lesson end (review branch)
+on:
+  push:
+    branches:
+      - fix/topic-videos-after-lessons-20261101
+    paths:
+      - '.github/workflows/migrate-topic-video-order.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  migrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 1
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Move static video sections without rewriting lessons
+        run: python scripts/normalize_topic_entry_order.py --write
+      - name: Verify idempotence
+        run: python scripts/normalize_topic_entry_order.py
+      - name: Verify syntax and unchanged content
+        run: |
+          python -m py_compile scripts/normalize_topic_entry_order.py
+          git diff --check
+          python - <<'PY'
+          import subprocess
+          paths = subprocess.check_output(['git','diff','--name-only'],text=True).splitlines()
+          assert paths, 'Expected topic HTML changes'
+          assert all(p.endswith('/index.html') and p.split('/')[0] in ('foundation',*[f'year{i}' for i in range(1,11)]) and p.split('/')[1] in ('maths','english','science') for p in paths),paths
+          assert not subprocess.check_output(['git','diff','--name-only','--diff-filter=D'],text=True).strip()
+          print('Validated HTML-only topic order changes:', len(paths))
+          PY
+      - name: Commit to review branch only
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- 'foundation/**/index.html' 'year*/**/index.html'
+          git commit -m "Apply video-last order to static curriculum topic pages"
+          git push origin HEAD:fix/topic-videos-after-lessons-20261101
