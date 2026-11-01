@@ -32,7 +32,10 @@ jobs:
           python - <<'PY'
           import re, subprocess
           from pathlib import Path
-          from scripts.experiment_hide_topic_videos import strip, video_ranges
+          import sys
+          from pathlib import Path
+          sys.path.insert(0, str(Path.cwd() / 'scripts'))
+          from experiment_hide_topic_videos import strip, video_ranges
           paths = subprocess.check_output(['git','diff','--name-only'], text=True).splitlines()
           expected = re.compile(r'^(foundation|year\d+)/(maths|science|english)/[^/]+/index\.html$')
           assert paths and all(expected.fullmatch(p) for p in paths), paths[:15]
