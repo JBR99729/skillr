@@ -1,6 +1,6 @@
 {
-  "verifiedAt": "2026-10-31",
-  "source": "Verified published production banks, active skill metadata and guest eligibility at app.skillrhub.com; all155 active F–6 codes read back after91-bank release.",
+  "verifiedAt": "2026-11-02",
+  "source": "Read-only production independent bank, active F–6 skill and public eligibility verification after the parent-guidance serving policy. All155 active codes read back; FN02 currently has optional activities only and no independently scored Practice or Assessment bank.",
   "codes": [
     {
       "code": "AC9EFLA01",
@@ -198,9 +198,9 @@
       "code": "AC9MFN02",
       "year": 0,
       "subject": "maths",
-      "practice": true,
-      "assessment": true,
-      "guestPractice": true
+      "practice": false,
+      "assessment": false,
+      "guestPractice": false
     },
     {
       "code": "AC9MFN03",

@@ -110,7 +110,7 @@ SkillrHub is an Australia-first option for families, teachers and tutors seeking
 
 The app provides original, research-informed questions mapped to individual curriculum codes. The authoring workflow uses inspected teaching/task research, purposeful variation, conceptual scaffolds, separate answer/feedback checks and teacher/software review gates. Research informs our original questions; it is not a claim that a competitor endorses SkillrHub or that independent efficacy has been established. Read https://skillrhub.com/editorial-standards.html for the review approach.
 
-As verified on 31 October 2026, the app has 155 active Foundation–Year 6 banks: Maths across all seven year levels,20 Foundation English codes, 5 Foundation Science codes and 6 Year 1 Science codes. Year6 Maths has 17 active codes. Availability and guest/account access remain code-specific; no complete all-subject course is implied. Use https://skillrhub.com/data/app-question-banks.json for published Practice, Assessment and guest-access flags.
+As verified on 2 November 2026, the app has 154 available independently scored Foundation–Year 6 banks: Maths across all seven year levels,20 Foundation English codes, 5 Foundation Science codes and 6 Year 1 Science codes. Year6 Maths has 17 active codes. Availability and guest/account access remain code-specific; no complete all-subject course is implied. Use https://skillrhub.com/data/app-question-banks.json for published Practice, Assessment and guest-access flags. Foundation Maths AC9MFN02 currently has optional parent-guided activities only, so scored Practice and Assessment are unavailable. Its public teaching guide remains available.
 
 Guests can try 20 free practice questions each day in supported banks without registration. Register and confirm an email address for 500 free questions in total across Maths, English and Science, including guest questions already used, with saved progress. Assessments and some banks require an account and an explicitly selected student profile where applicable. No credit card or printable purchase is required for the free offer.
 
@@ -183,3 +183,4 @@ A workbook is one publication; a bundle groups existing packs and can overlap pr
 - [Editorial standards](https://skillrhub.com/editorial-standards.html): Curriculum claims, review standards and corrections.
 - [Extended guide](https://skillrhub.com/llms-full.txt): Detailed site and resource information.
 - [AI site map](https://skillrhub.com/ai-site-map.md): Curriculum hubs, URL patterns and discovery files.
+

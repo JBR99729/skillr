@@ -31,7 +31,18 @@ def rewrite(source,code,bank):
  # Main-card visibility is shared CSS. Preserve every existing supporting link.
  def part(text):
   if text.startswith('<!--'):return text
-  return re.sub(r'<a\b(?=[^>]*\bid=["\']skillr-topic-practice-now["\'])[^>]*>[\s\S]*?</a>\n?', '', text, flags=re.I)
+  text=re.sub(r'<a\b(?=[^>]*\bid=["\']skillr-topic-practice-now["\'])[^>]*>[\s\S]*?</a>\n?', '', text, flags=re.I)
+  # A verified unavailable bank must not retain hidden/native action links.
+  # Preserve teaching, slides, worksheets, comments and every unrelated code.
+  if bank is not None:
+   def available_action(match):
+    anchor=match.group(0)
+    if not activity(anchor,code):return anchor
+    u=urlparse(href(anchor));params=parse_qs(u.query)
+    assessment='assessment' in params or bool(re.search(r'/test/?(?:index\.html)?$',u.path,re.I))
+    return anchor if bank.get('assessment' if assessment else 'practice') else ''
+   text=ANCHOR.sub(available_action,text)
+  return text
  out=''.join(part(p) for p in COMMENTS.split(source))
  if bank and bank.get('practice'):
   query='try=1&amp;skill='+code if bank.get('guestPractice') else 'login=1&amp;skill='+code
@@ -60,3 +71,4 @@ def main():
  print(json.dumps({'checked':checked,'changed':len(changed),'write':args.write,'paths':changed}))
  if changed and not args.write:raise SystemExit(1)
 if __name__=='__main__':main()
+
