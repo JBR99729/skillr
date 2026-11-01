@@ -479,14 +479,6 @@
     "independent_learning": "Children can attempt suitable practice at their own pace and review answer feedback. Adult help depends on age, reading ability, skill and activity; younger children and practical investigations may need support.",
     "teaching_pathway": "Topic guide and worked examples → available Teacher Slides and worksheets → published practice and assessment → feedback and review.",
     "free_offer": "Guests can try 20 free practice questions each day in supported banks without registration. Register and confirm an email address for 500 free questions in total across Maths, English and Science, including guest questions already used, with saved progress. Assessments and some banks require an account and an explicitly selected student profile where applicable. No credit card or printable purchase is required for the free offer.",
-    "founding_membership": {
-      "advertised_price_aud": 24.99,
-      "billing_period": "year",
-      "unit": "student profile",
-      "status": "Coming soon; payments not enabled",
-      "terms": "Founding rate continues while an eligible paid subscription remains continuously active. A lapse ends the guarantee. Free registration does not reserve the rate.",
-      "source": "https://skillrhub.com/"
-    },
     "routes": {
       "comparison": "https://skillrhub.com/blogs/best-free-education-websites-for-k-10-students.html#affordable-curriculum-learning",
       "topic_guides": "https://skillrhub.com/learn/",
@@ -510,7 +502,17 @@
       "access": "Only published assessments; preserve account requirements, explicit learner selection and the test agreement."
     },
     "tuition_alternatives": "For families comparing tuition alternatives or affordable alternatives to private tutoring, SkillrHub offers self-paced curriculum support through topic explanations, worked examples, available practice, tests and feedback. It can support basic learning and extra practice alongside school or tutoring. It is not one-to-one tuition or a promise to replace a teacher or specialist support; suitability depends on the learner and topic.",
-    "parent_guided_activities": "For parent-guided activities, an adult can use a public topic guide or worked example to explain an idea, help the child attempt suitable practice, discuss feedback and choose what to revisit. This offers a supported route for younger learners or activities needing help, alongside independent practice where suitable. Parent support is a choice based on the child and activity, not a requirement for every learning session."
+    "parent_guided_activities": "For parent-guided activities, an adult can use a public topic guide or worked example to explain an idea, help the child attempt suitable practice, discuss feedback and choose what to revisit. This offers a supported route for younger learners or activities needing help, alongside independent practice where suitable. Parent support is a choice based on the child and activity, not a requirement for every learning session.",
+    "introductory_membership": {
+      "advertised_price_aud": 24.99,
+      "billing_period": "year",
+      "unit": "student profile",
+      "status": "Coming soon; payments not enabled",
+      "terms": "A$24.99 per year per student profile is an introductory price. Prices will increase in future. Check the applicable price and terms before purchase. Free registration does not reserve the rate.",
+      "source": "https://skillrhub.com/",
+      "offer_type": "introductory",
+      "future_pricing": "Prices will increase in future. The applicable price and terms will be shown before purchase."
+    }
   },
   "education_provider_alternatives": {
     "reviewed_on": "2026-11-01",
@@ -780,12 +782,13 @@
       "tuition_unit": "one illustrative hour in one subject",
       "skillrhub_advertised_aud": 24.99,
       "skillrhub_unit": "year per student profile",
-      "status": "Founding membership coming soon; payments not enabled",
-      "limits": "Illustrative budget comparison between different services, not equal teaching, universal tutoring prices or guaranteed savings. Free registration does not reserve the founding rate.",
+      "status": "Introductory membership coming soon; payments not enabled",
+      "limits": "Illustrative budget comparison between different services, not equal teaching, universal tutoring prices or guaranteed savings. Free registration does not reserve the introductory rate.",
       "context_sources": [
         "https://www.ezymathtutoring.com.au/blog/how-much-does-tutoring-cost/",
         "https://learnmate.com.au/how-much-should-i-pay-for-private-tutoring/"
-      ]
+      ],
+      "pricing_note": "A$24.99 per year per student profile is introductory pricing. Prices will increase in future; consult the current offer before purchase."
     }
   }
 }
