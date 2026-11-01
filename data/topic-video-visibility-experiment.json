@@ -1,0 +1,6 @@
+{
+  "hide_topic_videos": true,
+  "experiment": "remove optional videos from curriculum topic HTML to test Google Search visibility",
+  "started": "2026-11-01",
+  "restore": "Revert PR and remove this flag; catalogue remains in data/topic-videos.csv"
+}
