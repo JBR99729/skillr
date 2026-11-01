@@ -206,3 +206,13 @@ body.home-page #skillr-messenger-bubble{display:none!important}
 #skillr-home .sp-conversion-nav a[href*="login"]{display:inline-flex;align-items:center;min-height:44px}
 
 @media(max-width:760px){#skillr-home .sp-hero--conversion .sp-support-note,#skillr-home .sp-trial-card>p:not(.sp-eyebrow):not(.sp-offer-terms){display:none}#skillr-home .sp-hero--conversion{padding-top:22px}#skillr-home .sp-trial-card h2 strong{font-size:52px}}
+
+/* Upcoming founding membership: clear distinction from today's free signup. */
+#skillr-home .sp-founding-teaser{margin-top:22px;padding:20px 22px;border:1px solid #c8d9e8;border-radius:18px;background:#f2f8ff}
+#skillr-home .sp-founding-teaser h2{font-size:clamp(20px,2.3vw,27px);line-height:1.22;margin:.4rem 0 .7rem;color:#153858}
+#skillr-home .sp-founding-teaser p{margin:.55rem 0;line-height:1.5}
+#skillr-home .sp-founding-teaser .sp-founding-price{display:flex;flex-wrap:wrap;align-items:baseline;gap:.45rem;color:#173968}
+#skillr-home .sp-founding-price strong{font-size:clamp(23px,3vw,33px)}
+#skillr-home .sp-founding-price span{font-size:14px;font-weight:600}
+#skillr-home .sp-founding-teaser .sp-founding-clarity{font-size:13px;color:#465a70}
+@media(max-width:760px){#skillr-home .sp-founding-teaser{padding:16px}}
