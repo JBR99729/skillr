@@ -1,5 +1,7 @@
 name: Check existing video-catalogue baseline
 on:
+  pull_request:
+    paths: [.github/workflows/check-video-baseline.yml]
   push:
     branches: [fix/topic-videos-after-lessons-20261101]
     paths: [.github/workflows/check-video-baseline.yml]
