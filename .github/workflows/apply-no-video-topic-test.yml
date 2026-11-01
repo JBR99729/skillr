@@ -1,0 +1,56 @@
+name: Apply reversible no-video SEO test to topic pages
+on:
+  push:
+    branches:
+      - experiment/temporarily-remove-topic-videos-20261101
+    paths:
+      - .github/workflows/apply-no-video-topic-test.yml
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  remove-topic-videos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Remove optional videos and dead anchors from static topic HTML
+        run: python scripts/experiment_hide_topic_videos.py --write
+      - name: Validate suppression and repeatability
+        run: |
+          python scripts/experiment_hide_topic_videos.py
+          python scripts/build_topic_video_sections.py --check
+          python -m py_compile scripts/experiment_hide_topic_videos.py scripts/build_topic_video_sections.py
+          git diff --check
+      - name: Validate preservation and file boundaries
+        run: |
+          python - <<'PY'
+          import re, subprocess
+          from pathlib import Path
+          from scripts.experiment_hide_topic_videos import strip, video_ranges
+          paths = subprocess.check_output(['git','diff','--name-only'], text=True).splitlines()
+          expected = re.compile(r'^(foundation|year\d+)/(maths|science|english)/[^/]+/index\.html$')
+          assert paths and all(expected.fullmatch(p) for p in paths), paths[:15]
+          assert not subprocess.check_output(['git','diff','--name-only','--diff-filter=D'],text=True).strip()
+          for p in paths:
+              old = subprocess.check_output(['git','show','HEAD:'+p],text=True)
+              new = Path(p).read_text(encoding='utf-8')
+              assert new == strip(old), p
+              assert not video_ranges(new), p
+              assert old.count('<h1') == new.count('<h1'), p
+              for tag in (r'<link[^>]+rel="canonical"[^>]*>', r'<meta[^>]+name="robots"[^>]*>', r'<title>.*?</title>'):
+                  assert re.findall(tag,old,re.S) == re.findall(tag,new,re.S),p
+          print('Validated video-only removal on',len(paths),'topic pages; metadata and H1 counts preserved')
+          PY
+      - name: Commit changes to experiment branch only
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -u
+          git commit -m "Temporarily remove optional video UI from static topic pages"
+          git push origin HEAD:experiment/temporarily-remove-topic-videos-20261101
