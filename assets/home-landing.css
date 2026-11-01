@@ -231,16 +231,14 @@ body.home-page #skillr-messenger-bubble{display:none!important}
 #skillr-home .sp-registration-journey>.sp-offer-terms{text-align:center;max-width:690px;margin:10px auto 0}
 @media(max-width:700px){#skillr-home .sp-registration-steps{grid-template-columns:1fr}#skillr-home .sp-registration-steps li{padding:12px 15px}}
 
-/* Registration funnel cards: visible separation, icon tiles and responsive layout. */
-#skillr-home .sp-registration-journey{background:linear-gradient(135deg,#f4f8ff,#eff8f4);border-color:#d0e0ed;box-shadow:0 10px 28px rgba(24,56,90,.06)}
-#skillr-home .sp-registration-steps{gap:16px;align-items:stretch}
-#skillr-home .sp-registration-steps>.sp-journey-card{display:flex;flex-direction:column;min-height:190px;padding:22px;border:1px solid #d5e2ed;border-radius:18px;background:white;box-shadow:0 7px 18px rgba(25,53,87,.08)}
-#skillr-home .sp-registration-steps>.sp-journey-card::before{display:none;content:none}
-#skillr-home .sp-journey-card-top{display:flex;align-items:center;justify-content:space-between;margin-bottom:17px}
-#skillr-home .sp-journey-icon{display:inline-flex;align-items:center;justify-content:center;width:46px;height:46px;border-radius:14px;background:#e7f0ff;color:#1a5cb5;font-size:25px}
-#skillr-home .sp-journey-card:nth-child(2) .sp-journey-icon{background:#e8f7ef;color:#16744b}
-#skillr-home .sp-journey-card:nth-child(3) .sp-journey-icon{background:#fff3dc;color:#a05a0c}
-#skillr-home .sp-journey-number{font-size:13px;font-weight:800;letter-spacing:.08em;color:#8293a5}
-#skillr-home .sp-registration-steps>.sp-journey-card h3{margin:0 0 8px;font-size:19px;line-height:1.3;color:#173968}
-#skillr-home .sp-registration-steps>.sp-journey-card p{margin:0;color:#486078;font-size:14px;line-height:1.5}
-@media(max-width:700px){#skillr-home .sp-registration-steps>.sp-journey-card{min-height:auto;padding:17px}#skillr-home .sp-journey-card-top{margin-bottom:10px}}
+
+/* Approved minimalist registration journey: one containing panel, no inner boxes. */
+#skillr-home .sp-registration-journey{background:#fafafa;border:1px solid #dedede;box-shadow:none;border-radius:22px;text-align:center}
+#skillr-home .sp-registration-steps{gap:18px;align-items:start}
+#skillr-home .sp-registration-steps li{background:transparent;border:0;box-shadow:none;border-radius:0;padding:10px 8px;min-height:unset;text-align:center}
+#skillr-home .sp-registration-steps li:before{content:none;display:none}
+#skillr-home .sp-registration-steps .sp-step-symbol{display:block;font-size:27px;color:#656565;line-height:1.3;margin:0 auto 12px}
+#skillr-home .sp-registration-steps strong{font-size:20px;line-height:1.3;color:#151515;font-weight:700}
+#skillr-home .sp-registration-steps span:not(.sp-step-symbol){margin-top:10px;font-size:15px;color:#666;line-height:1.5}
+#skillr-home .sp-registration-journey>.sp-primary-action{display:block;width:100%;max-width:none;text-align:center;border-radius:999px;background:#111;color:#fff;padding:14px 20px}
+@media(max-width:700px){#skillr-home .sp-registration-steps{grid-template-columns:repeat(3,minmax(0,1fr));gap:4px}#skillr-home .sp-registration-steps li{padding:8px 3px}#skillr-home .sp-registration-steps strong{font-size:14px}#skillr-home .sp-registration-steps span:not(.sp-step-symbol){font-size:12px}#skillr-home .sp-registration-journey{padding:18px 10px}}
