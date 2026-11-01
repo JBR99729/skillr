@@ -18,7 +18,7 @@
 #skillr-home .sp-year-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}
 #skillr-home .sp-year-grid a{display:flex;align-items:center;justify-content:space-between;gap:10px;min-height:48px;padding:11px 14px;border:1px solid var(--sp-line);border-radius:10px;background:var(--sp-soft);color:var(--sp-green);text-decoration:none;font-size:14px;font-weight:750;transition:background .15s}
 #skillr-home .sp-year-grid a:hover{background:light-dark(#e3f0e7,#2c4d37)}
-#skillr-home .sp-year-grid a:last-child{grid-column:1/-1}
+#skillr-home .sp-year-grid a:last-child:nth-child(odd){grid-column:1/-1}
 #skillr-home .sp-year-grid .sp-icon{width:16px;height:16px}
 #skillr-home .sp-year-note{font-size:14px;color:var(--sp-muted);margin:12px 0 0;line-height:1.6}
 #skillr-home .sp-install{display:inline-flex;align-items:center;gap:7px;min-height:44px;font-size:14px;color:var(--sp-green)}
@@ -179,3 +179,4 @@ body.home-page #skillr-messenger-bubble{display:none!important}
 
 /* With the community counter removed, keep practice choices centred without an empty column. */
 #skillr-home .sp-hero--practice{grid-template-columns:minmax(0,1fr);max-width:780px;margin-inline:auto}
+

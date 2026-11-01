@@ -1,0 +1,9 @@
+# Year 7 homepage and registration entry — 1 November 2026
+
+Adds Year 7 to the existing homepage year grid, linking to the independently verified working Year 7 Maths guide catalogue at https://skillrhub.com/year7/curriculum/maths/. Existing topic guides, worksheets, practice and tests are preserved. The public app's generic Year 7 link currently shows unavailable. Authenticated production bank readiness is unknown: the current Supabase connection exposes DEV only and the public guest catalogue excludes years above6. Do not treat guest absence as proof of no authenticated bank, or merge draft PR890's generic redirect. Exact code-specific Practice and separate Assessment links require verified production availability first.
+
+The existing save-progress message now links directly to the supported app signup route, also available below the hero. Homepage click tracking labels these as signup clicks, not confirmed registrations; Year6/7 entries are explicitly tracked. The eight-link grid uses four balanced two-column rows, with full-width final tiles only for odd counts.
+
+Independent Sol review inspected 320/390/desktop source-derived previews and clicked the candidate signup CTA through to the real app signup form without entering or submitting personal data. Existing login behavior, consent and account handlers remain unchanged. This is UX/route evidence, not a conversion-rate measurement or a completed test registration. A separate app-only copy/layout change supplies password/country/email-confirmation help and groups consent text correctly on phones.
+
+Publication checks: base the complete candidate on fresh main; verify only intended files changed, no deleted paths, unchanged CNAME/core subtrees, parse structured data, then verify Pages and live destinations. No app bank, payment, account, learning-history or question data is changed by this website patch.
