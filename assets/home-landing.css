@@ -242,3 +242,63 @@ body.home-page #skillr-messenger-bubble{display:none!important}
 #skillr-home .sp-registration-steps span:not(.sp-step-symbol){margin-top:10px;font-size:15px;color:#666;line-height:1.5}
 #skillr-home .sp-registration-journey>.sp-primary-action{display:block;width:100%;max-width:none;text-align:center;border-radius:999px;background:#111;color:#fff;padding:14px 20px}
 @media(max-width:700px){#skillr-home .sp-registration-steps{grid-template-columns:repeat(3,minmax(0,1fr));gap:4px}#skillr-home .sp-registration-steps li{padding:8px 3px}#skillr-home .sp-registration-steps strong{font-size:14px}#skillr-home .sp-registration-steps span:not(.sp-step-symbol){font-size:12px}#skillr-home .sp-registration-journey{padding:18px 10px}}
+
+/* Approved parent-first homepage trial — November 2026 */
+#skillr-home .sp-home-intro{align-items:center;gap:32px}
+#skillr-home .sp-intro-actions{display:flex;gap:12px;flex-wrap:wrap;margin:23px 0 12px}
+#skillr-home .sp-outline-action{display:inline-flex;align-items:center;justify-content:center;min-height:46px;padding:12px 20px;border:1px solid #c5d2df;border-radius:999px;color:#173968;background:#fff;text-decoration:none;font-weight:700}
+#skillr-home .sp-small-reassurance{font-size:12px;line-height:1.5;color:#5e7080}
+#skillr-home .sp-learning-preview{background:white;border:1px solid #d8e5f3;border-radius:22px;padding:20px;box-shadow:0 10px 30px rgba(28,58,98,.07)}
+#skillr-home .sp-preview-head{display:flex;align-items:center;gap:12px;margin-bottom:15px}
+#skillr-home .sp-preview-icon{width:43px;height:43px;display:inline-flex;align-items:center;justify-content:center;background:#e8f0fe;border-radius:13px;color:#2457d6;font-size:24px}
+#skillr-home .sp-preview-head strong,#skillr-home .sp-preview-head small{display:block}
+#skillr-home .sp-preview-head small{font-size:12px;color:#637286;margin-top:3px}
+#skillr-home .sp-preview-question{background:#f7f9fc;border-radius:15px;padding:19px}
+#skillr-home .sp-preview-labels{display:flex;gap:12px;justify-content:space-between;font-size:11px;color:#546b87;margin-bottom:12px}
+#skillr-home .sp-preview-labels span:first-child{background:#e6edf9;border-radius:999px;padding:5px 10px;color:#244f83;font-weight:700}
+#skillr-home .sp-preview-question h2{font-size:17px;line-height:1.45;margin:0 0 10px}
+#skillr-home .sp-fraction-picture{display:block;width:min(240px,100%);height:auto;margin:auto}
+#skillr-home .sp-preview-answers{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:9px;margin:10px 0}
+#skillr-home .sp-preview-answers button{background:white;color:#193954;border:1px solid #d2dce9;border-radius:9px;font-size:16px;font-weight:700;min-height:44px;cursor:pointer}
+#skillr-home .sp-preview-answers button:hover,#skillr-home .sp-preview-answers button.is-selected{background:#dcecff;border:2px solid #2457d6}
+#skillr-home .sp-preview-feedback{font-size:12px;color:#566f84;line-height:1.45;min-height:18px;margin:6px 0 0}
+#skillr-home .sp-preview-real{display:block;text-align:center;font-weight:700;color:#2457d6;margin-top:15px}
+#skillr-home .sp-parent-benefits,#skillr-home .sp-parent-progress,#skillr-home .sp-founding-section{padding:32px 0}
+#skillr-home .sp-section-heading{text-align:center;max-width:750px;margin:0 auto 22px}
+#skillr-home .sp-section-heading h2{font-size:clamp(23px,3vw,32px);line-height:1.25;color:#173968;margin:5px 0 8px}
+#skillr-home .sp-section-heading p{color:#5d7180;line-height:1.55;margin:5px 0}
+#skillr-home .sp-benefit-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:13px}
+#skillr-home .sp-benefit-grid article{border-radius:15px;background:#f5f7fb;padding:18px;min-height:185px}
+#skillr-home .sp-benefit-icon{display:inline-block;font-size:24px;color:#2457d6;line-height:1.3;margin-bottom:10px}
+#skillr-home .sp-benefit-grid h3{font-size:16px;line-height:1.35;margin:0 0 7px}
+#skillr-home .sp-benefit-grid p{font-size:13px;line-height:1.5;color:#607080;margin:0}
+#skillr-home .sp-registration-journey{margin:26px 0;padding:30px}
+#skillr-home .sp-parent-progress{background:#f4f7fb;border-radius:20px;padding:32px 22px;text-align:center}
+#skillr-home .sp-progress-card{background:white;border:1px solid #dce4ef;border-radius:17px;padding:22px;max-width:680px;margin:0 auto 20px;text-align:left}
+#skillr-home .sp-progress-card-heading{display:flex;justify-content:space-between;gap:12px;align-items:center}
+#skillr-home .sp-progress-card-heading span{font-size:11px;color:#718091}
+#skillr-home .sp-progress-numbers{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin:18px 0}
+#skillr-home .sp-progress-numbers>div{border-radius:12px;background:#f3f6fa;padding:14px;text-align:center}
+#skillr-home .sp-progress-numbers strong{display:block;font-size:30px;color:#173968}
+#skillr-home .sp-progress-numbers span{font-size:12px;color:#53677d}
+#skillr-home .sp-progress-line{margin:13px 0}
+#skillr-home .sp-progress-line>div{display:flex;justify-content:space-between;font-size:13px}
+#skillr-home .sp-progress-line progress{width:100%;height:10px;accent-color:#3574c8}
+#skillr-home .sp-progress-card>p{font-size:11px;color:#687b8b}
+#skillr-home .sp-founding-section{background:#f8fbff;border-radius:20px;padding:32px 24px}
+#skillr-home .sp-founding-offer{background:#fff;border:1px solid #d9e3ef;border-radius:17px;max-width:650px;margin:auto;padding:26px;text-align:center}
+#skillr-home .sp-founding-amount{font-size:clamp(32px,5vw,46px);font-weight:800;line-height:1.15;color:#173968;margin:0}
+#skillr-home .sp-founding-amount span{font-size:18px;color:#67798d;font-weight:500}
+#skillr-home .sp-founding-per{font-size:14px;color:#64778a}
+#skillr-home .sp-founding-offer h3{font-size:20px;margin:15px 0}
+#skillr-home .sp-founding-offer>p:not(.sp-founding-amount){line-height:1.6}
+#skillr-home .sp-founding-offer .sp-primary-action{max-width:430px;margin:18px auto}
+#skillr-home .sp-founding-offer .sp-offer-terms{font-size:12px;color:#607080}
+#skillr-home .sp-final-start{padding:34px 18px;text-align:center}
+#skillr-home .sp-final-start h2{font-size:clamp(23px,3vw,30px);margin:0 0 10px}
+#skillr-home .sp-final-start p{color:#657689}
+#skillr-home .sp-final-start>div{display:flex;flex-wrap:wrap;justify-content:center;gap:10px;margin-top:19px}
+#skillr-home :is(.sp-preview-answers button,.sp-outline-action,.sp-primary-action):focus-visible{outline:3px solid #e4ab34;outline-offset:3px}
+@media(max-width:900px){#skillr-home .sp-benefit-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:700px){#skillr-home .sp-home-intro{grid-template-columns:1fr}#skillr-home .sp-benefit-grid{grid-template-columns:repeat(2,minmax(0,1fr))}#skillr-home .sp-intro-actions .sp-primary-action,#skillr-home .sp-intro-actions .sp-outline-action{flex:1 1 160px}#skillr-home .sp-parent-progress,#skillr-home .sp-founding-section{padding:25px 15px}}
+@media(max-width:410px){#skillr-home .sp-benefit-grid{gap:8px}#skillr-home .sp-benefit-grid article{padding:12px}#skillr-home .sp-benefit-grid h3{font-size:14px}#skillr-home .sp-preview-question{padding:12px}#skillr-home .sp-preview-labels{font-size:10px}}
