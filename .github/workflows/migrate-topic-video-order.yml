@@ -5,6 +5,7 @@ on:
       - fix/topic-videos-after-lessons-20261101
     paths:
       - '.github/workflows/migrate-topic-video-order.yml'
+      - 'scripts/normalize_topic_entry_order.py'
   workflow_dispatch:
 permissions:
   contents: write
