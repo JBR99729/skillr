@@ -1,0 +1,50 @@
+name: Refresh existing topic and subject pages (dev)
+on:
+  push:
+    branches: [skillr-dev]
+    paths:
+      - 'scripts/refresh_existing_question_bank_pages.py'
+      - 'assets/css/question-bank-pathway.css'
+      - '.github/workflows/refresh-existing-topic-pages-dev.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: refresh-existing-topic-pages-dev
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out dev
+        uses: actions/checkout@v4
+        with:
+          ref: skillr-dev
+          persist-credentials: true
+      - name: Validate generator syntax
+        run: python -m py_compile scripts/refresh_existing_question_bank_pages.py
+      - name: Apply refresh to existing question-linked topics and subject hubs
+        run: python scripts/refresh_existing_question_bank_pages.py | tee /tmp/skillr-page-refresh.log
+      - name: Verify idempotence
+        run: |
+          git diff --name-only > /tmp/skillr-first-pass
+          python scripts/refresh_existing_question_bank_pages.py > /tmp/skillr-second-pass.log
+          diff -u /tmp/skillr-first-pass <(git diff --name-only)
+      - name: Ensure protected Year 1 Maths reference pages are unchanged
+        run: |
+          if git diff --name-only | grep -E '^year1/maths/'; then
+            echo "Year 1 Maths reference would be changed" >&2
+            exit 1
+          fi
+      - name: Commit updated dev pages only
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No legacy pages require updating."
+            exit 0
+          fi
+          git config user.name "skillr-topic-refresh[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add foundation year{1..10} 2>/dev/null || true
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "Refresh legacy topic learning pathways and subject landing pages in dev"
+          git push origin HEAD:skillr-dev
