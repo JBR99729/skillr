@@ -313,6 +313,20 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--check", action="store_true")
     args = parser.parse_args()
+    visibility = ROOT / "data/topic-video-visibility-experiment.json"
+    if visibility.exists() and json.loads(visibility.read_text(encoding="utf-8")).get("hide_topic_videos", False):
+        from experiment_hide_topic_videos import pages, strip
+        updates = []
+        for p in pages():
+            source = p.read_text(encoding="utf-8")
+            updated = strip(source)
+            if source != updated:
+                updates.append((p, updated))
+        if not args.check:
+            for p, updated in updates:
+                p.write_text(updated, encoding="utf-8")
+        print(f"SEO experiment: topic videos suppressed; {len(updates)} pages {'still contain video UI' if args.check else 'cleaned'}.")
+        return 1 if args.check and updates else 0
     by_code, videos = load_rows()
     outputs = []
     for code, unit in by_code.items():
