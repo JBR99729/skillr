@@ -180,3 +180,29 @@ body.home-page #skillr-messenger-bubble{display:none!important}
 /* With the community counter removed, keep practice choices centred without an empty column. */
 #skillr-home .sp-hero--practice{grid-template-columns:minmax(0,1fr);max-width:780px;margin-inline:auto}
 
+
+/* Registration is the main family action; guest practice stays a clear alternative. */
+#skillr-home .sp-hero--conversion{grid-template-columns:minmax(0,1.15fr) minmax(0,1fr);gap:48px;padding:48px 0 36px;max-width:none}
+#skillr-home .sp-hero--conversion .sp-title{font-size:clamp(34px,4vw,52px);line-height:1.12}
+#skillr-home .sp-hero--conversion .sp-lead{font-size:17px;max-width:52ch}
+#skillr-home .sp-support-note{font-size:15px;color:var(--sp-muted)}
+#skillr-home .sp-trial-card{border:1px solid #bdd4c5;border-radius:20px;padding:28px;background:#f2f7f3}
+#skillr-home .sp-trial-card h2{margin:0 0 14px;font-size:25px;line-height:1.2;letter-spacing:-.5px}
+#skillr-home .sp-trial-card h2 strong{display:block;font-size:64px;line-height:1.1;color:#175d46;letter-spacing:-2px}
+#skillr-home .sp-trial-card>p:not(.sp-eyebrow){font-size:15px;color:var(--sp-muted);line-height:1.55}
+#skillr-home .sp-primary-action{display:flex;align-items:center;justify-content:center;min-height:52px;padding:13px 16px;border-radius:10px;background:#175d46;color:white;text-decoration:none;font-size:17px;font-weight:750;text-align:center}
+#skillr-home .sp-primary-action:hover{background:#104632}
+#skillr-home .sp-trial-card .sp-offer-terms{font-size:12px;margin:12px 0}
+#skillr-home .sp-guest-link{display:flex;align-items:center;justify-content:center;min-height:44px;font-size:14px;text-align:center}
+#skillr-home .sp-guest-choice{padding:18px 0 24px;border-bottom:1px solid var(--sp-line);scroll-margin-top:20px}
+#skillr-home .sp-guest-choice summary{cursor:pointer;min-height:44px;font-weight:700;align-content:center}
+#skillr-home .sp-guest-choice>p{font-size:14px;color:var(--sp-muted);max-width:70ch}
+#skillr-home .sp-guest-choice .sp-year-grid{max-width:660px}
+#skillr-home .sp-conversion-nav{display:flex;flex-wrap:nowrap;gap:16px}
+#skillr-home :is(.sp-primary-action,.sp-guest-link,.sp-conversion-nav a,.sp-guest-choice summary):focus-visible{outline:3px solid #bb7e08;outline-offset:4px}
+@media(max-width:760px){#skillr-home .sp-hero--conversion{grid-template-columns:1fr;gap:18px;padding-top:28px}#skillr-home .sp-trial-card{padding:22px}#skillr-home .sp-hero--conversion .sp-title{font-size:37px}#skillr-home .sp-hero--conversion .sp-lead{font-size:16px}#skillr-home .sp-value{display:block}}
+@media(max-width:380px){#skillr-home .sp-brand{font-size:16px}#skillr-home .sp-brand img{width:28px;height:28px}#skillr-home .sp-conversion-nav{gap:10px;font-size:12px}#skillr-home .sp-nav-cta{padding:9px}#skillr-home .sp-hero--conversion .sp-title{font-size:32px}}
+
+#skillr-home .sp-conversion-nav a[href*="login"]{display:inline-flex;align-items:center;min-height:44px}
+
+@media(max-width:760px){#skillr-home .sp-hero--conversion .sp-support-note,#skillr-home .sp-trial-card>p:not(.sp-eyebrow):not(.sp-offer-terms){display:none}#skillr-home .sp-hero--conversion{padding-top:22px}#skillr-home .sp-trial-card h2 strong{font-size:52px}}
