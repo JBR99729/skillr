@@ -4,7 +4,7 @@ Across Foundation–Year6 Maths, English and Science topic pages, hide Quiz/Prac
 
 ## Topic entry order — owner instruction, 30 October 2026
 
-Across existing topic pages, retain authored content and use heading → introduction → learning actions → optional video → detailed lesson. This supersedes the earlier video-first preference. Run `python scripts/normalize_topic_entry_order.py` to check, or add `--write` to normalize presentation order without rebuilding lessons. Preserve all lesson and video content.
+Across existing topic pages, retain authored content and use heading → introduction → detailed lesson → practice and assessment actions → optional video at the end of the topic content. This supersedes earlier video-first and video-before-lesson preferences. Run `python scripts/normalize_topic_entry_order.py` to check, or add `--write` to normalize presentation order without rebuilding lessons. Preserve all lesson and video content.
 
 ## Topic-page links and free-learning discovery — owner instruction, 29 October 2026
 
