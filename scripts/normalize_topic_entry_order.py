@@ -45,9 +45,14 @@ def reorder(s):
   siblings=[n for n in p.nodes if n['tag']=='footer' and n['end'] and ('topic-footer' in n['attrs'].get('class','').split()) and ((parent is None) or (parent in n['parents']))]
   point=siblings[0]['start'] if siblings else main['end']
  else:
-  footer=next((n for n in p.nodes if n['tag']=='footer' and n['end'] and 'topic-footer' in n['attrs'].get('class','').split()),None)
-  if not footer:raise ValueError('Cannot place topic video: missing main and footer')
-  point=footer['start']
+  # Legacy pages may use a plain <main>, a generic footer or no footer.
+  footer=next((n for n in p.nodes if n['tag']=='footer' and n['end']),None)
+  plain_main=next((n for n in p.nodes if n['tag']=='main' and n['end']),None)
+  body=next((n for n in p.nodes if n['tag']=='body' and n['end']),None)
+  if footer:point=footer['start']
+  elif plain_main:point=plain_main['end']
+  elif body:point=clean.rfind('</body>')
+  else:raise ValueError('Cannot place topic video: no safe HTML boundary')
  result=clean[:point]+''.join(blocks)+clean[point:]
  # Moving blocks must preserve every byte of the remainder and every video.
  remainder=result
