@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Keep authored topic intros/actions before optional videos without rewriting content."""
+"""Keep optional videos after the authored lesson and practice actions."""
 from html.parser import HTMLParser
 from pathlib import Path
 import argparse, re, json
@@ -37,25 +37,22 @@ def reorder(s):
  blocks=[s[a:b] for a,b in ranges]
  clean=s
  for a,b in reversed(ranges):clean=clean[:a]+clean[b:]
- p=Elements(clean); h=next((n for n in p.nodes if n['tag']=='h1'),None)
- if not h:raise ValueError('Missing topic H1')
- heroes=[n for n in h['parents'] if n['end'] and ('curriculum-hero' in n['attrs'].get('class','').split() or 'topic-hero' in n['attrs'].get('class','').split())]
- hero=heroes[-1] if heroes else next((n for n in reversed(h['parents']) if n['tag']=='header' and n['end']),None)
- point=hero['end'] if hero else h['end']
- if not point:raise ValueError('Unclosed topic heading')
- if not hero:
-  # Older topics: retain their immediately following intro and resource actions.
-  for n in p.nodes:
-   if n['start']<point or not n['end']:continue
-   gap=clean[point:n['start']]
-   if re.sub(r'<!--.*?-->','',gap,flags=re.S).strip():break
-   cl=n['attrs'].get('class','').split()
-   if n['tag']=='p' or n['tag']=='nav' or any(x in cl for x in ['topic-action-row','topic-section-nav','skillr-quick-learning']):point=n['end']
-   else:break
- # Preserve the compact section navigation immediately after an authored hero.
- for n in p.nodes:
-  if n['start']>=point and n['end'] and n['tag']=='nav' and 'topic-section-nav' in n['attrs'].get('class','').split() and not clean[point:n['start']].strip():
-   point=n['end'];break
+ # Insert videos after the learning content, immediately before the footer when available.
+ p=Elements(clean)
+ main=next((n for n in p.nodes if n['tag']=='main' and n['end'] and ('topic-learning-main' in n['attrs'].get('class','').split() or n['attrs'].get('id')=='main-content')),None)
+ if main:
+  parent=main['parents'][-1] if main['parents'] else None
+  siblings=[n for n in p.nodes if n['tag']=='footer' and n['end'] and ('topic-footer' in n['attrs'].get('class','').split()) and ((parent is None) or (parent in n['parents']))]
+  point=siblings[0]['start'] if siblings else main['end']
+ else:
+  # Legacy pages may use a plain <main>, a generic footer or no footer.
+  footer=next((n for n in p.nodes if n['tag']=='footer' and n['end']),None)
+  plain_main=next((n for n in p.nodes if n['tag']=='main' and n['end']),None)
+  body=next((n for n in p.nodes if n['tag']=='body' and n['end']),None)
+  if footer:point=footer['start']
+  elif plain_main:point=plain_main['end']
+  elif body:point=clean.rfind('</body>')
+  else:raise ValueError('Cannot place topic video: no safe HTML boundary')
  result=clean[:point]+''.join(blocks)+clean[point:]
  # Moving blocks must preserve every byte of the remainder and every video.
  remainder=result

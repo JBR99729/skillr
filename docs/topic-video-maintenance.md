@@ -55,7 +55,7 @@ A small “Need another explanation? Watch a video” link appears after the exi
 
 The curriculum inventory includes some older addresses that redirect to newer topic pages. The builder follows only existing, agreeing canonical and immediate-redirect metadata within the same curriculum code, year and subject. It places videos on the destination lesson and removes only its own obsolete supplement from redirect stubs. It does not change a redirect, canonical URL or lesson. Conflicting destinations, different codes and loops stop the build before any writes.
 
-The main video control targets the embedded frame inside the lesson. Do not add a separate YouTube watch link: the owner requested playback within SkillrHub. YouTube's own player still contains its branding and external links; do not hide these or promise that all navigation outside SkillrHub can be prevented.
+The main video control targets the embedded frame on the topic page. Do not add a separate YouTube watch link: the owner requested playback within SkillrHub. YouTube's own player still contains its branding and external links; do not hide these or promise that all navigation outside SkillrHub can be prevented.
 
 Keep `referrerpolicy="strict-origin-when-cross-origin"` on the load link and frame. YouTube requires a site Referer; suppressing it can cause error 153. Do not hide or cover the player's controls, branding, advertising or links. `rel=0` limits related videos to the same channel; it does not remove recommendations.
 
@@ -73,4 +73,4 @@ For an unavailable or reported video, remove or replace its row and rebuild. Kee
 
 ## Topic entry order — 30 October 2026
 
-Place the topic heading, short introduction and learning actions before the optional video, then retain the detailed lesson. Run `python scripts/normalize_topic_entry_order.py` after any topic generator; `--write` moves existing video blocks without reauthoring content. The shared video builder applies this order automatically.
+Place the topic heading, short introduction, detailed lesson and practice/test actions before the optional video. The video comes last, immediately before the topic footer where present. Run `python scripts/normalize_topic_entry_order.py` after any topic generator; `--write` moves existing video blocks without reauthoring content. The shared video builder applies this order automatically.
