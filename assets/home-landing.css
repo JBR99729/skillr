@@ -302,3 +302,38 @@ body.home-page #skillr-messenger-bubble{display:none!important}
 @media(max-width:900px){#skillr-home .sp-benefit-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:700px){#skillr-home .sp-home-intro{grid-template-columns:1fr}#skillr-home .sp-benefit-grid{grid-template-columns:repeat(2,minmax(0,1fr))}#skillr-home .sp-intro-actions .sp-primary-action,#skillr-home .sp-intro-actions .sp-outline-action{flex:1 1 160px}#skillr-home .sp-parent-progress,#skillr-home .sp-founding-section{padding:25px 15px}}
 @media(max-width:410px){#skillr-home .sp-benefit-grid{gap:8px}#skillr-home .sp-benefit-grid article{padding:12px}#skillr-home .sp-benefit-grid h3{font-size:14px}#skillr-home .sp-preview-question{padding:12px}#skillr-home .sp-preview-labels{font-size:10px}}
+
+/* Compact homepage spacing: reduce whitespace and excessive inset on desktop and mobile. */
+#skillr-home .sp-wrap{max-width:1240px;padding-left:clamp(14px,2vw,24px);padding-right:clamp(14px,2vw,24px)}
+#skillr-home .sp-home-intro{gap:clamp(14px,2vw,24px);padding-top:22px;padding-bottom:18px}
+#skillr-home .sp-learning-preview{padding:16px}
+#skillr-home .sp-preview-question{padding:15px}
+#skillr-home .sp-parent-benefits{padding:18px 0}
+#skillr-home .sp-section-heading{margin-bottom:14px}
+#skillr-home .sp-benefit-grid{gap:10px}
+#skillr-home .sp-benefit-grid article{padding:14px;min-height:0}
+#skillr-home .sp-registration-journey{margin:14px 0;padding:20px 18px}
+#skillr-home .sp-registration-intro{margin-bottom:10px}
+#skillr-home .sp-registration-steps{gap:8px;margin-bottom:12px}
+#skillr-home .sp-registration-steps li{padding:8px 5px}
+#skillr-home .sp-parent-progress{padding:22px 18px}
+#skillr-home .sp-progress-card{padding:17px;margin-bottom:14px}
+#skillr-home .sp-founding-section{padding:22px 18px}
+#skillr-home .sp-founding-offer{padding:20px}
+#skillr-home .sp-final-start{padding:24px 10px}
+#skillr-home .sp-section{padding-top:22px;padding-bottom:22px}
+#skillr-home .sp-values{margin:12px 0;padding:16px}
+@media(max-width:700px){
+ #skillr-home .sp-wrap{padding-left:14px;padding-right:14px}
+ #skillr-home .sp-home-intro{gap:14px;padding-top:16px;padding-bottom:14px}
+ #skillr-home .sp-learning-preview{padding:13px}
+ #skillr-home .sp-preview-question{padding:12px}
+ #skillr-home .sp-parent-benefits{padding:14px 0}
+ #skillr-home .sp-benefit-grid{gap:8px}
+ #skillr-home .sp-benefit-grid article{padding:12px}
+ #skillr-home .sp-registration-journey{margin:12px 0;padding:16px 10px}
+ #skillr-home .sp-parent-progress,#skillr-home .sp-founding-section{padding:18px 12px}
+ #skillr-home .sp-progress-card,#skillr-home .sp-founding-offer{padding:14px}
+ #skillr-home .sp-final-start{padding:18px 6px}
+ #skillr-home .sp-section{padding-top:18px;padding-bottom:18px}
+}
