@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-11-02",
-  "source": "Read-only production independent bank, active F–6 skill and public eligibility verification after the parent-guidance serving policy. All155 active codes read back; FN02 currently has optional activities only and no independently scored Practice or Assessment bank.",
+  "source": "Production readback after the owner-approved 68-code promotion: 222 independently scored banks across Foundation–Year 8; Practice/Test availability verified through learning_workspace_bank and learner_catalogue_payload. New banks require sign-in; FN02 remains unavailable for scored activities.",
   "codes": [
     {
       "code": "AC9EFLA01",
@@ -283,6 +283,94 @@
       "guestPractice": false
     },
     {
+      "code": "AC9E1LA01",
+      "year": 1,
+      "subject": "english",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9E1LA02",
+      "year": 1,
+      "subject": "english",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9E1LA03",
+      "year": 1,
+      "subject": "english",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9E1LA04",
+      "year": 1,
+      "subject": "english",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9E1LA05",
+      "year": 1,
+      "subject": "english",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9E1LA06",
+      "year": 1,
+      "subject": "english",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9E1LA07",
+      "year": 1,
+      "subject": "english",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9E1LA08",
+      "year": 1,
+      "subject": "english",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9E1LA09",
+      "year": 1,
+      "subject": "english",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9E1LA10",
+      "year": 1,
+      "subject": "english",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9E1LE01",
+      "year": 1,
+      "subject": "english",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
       "code": "AC9M1A01",
       "year": 1,
       "subject": "maths",
@@ -420,6 +508,38 @@
     },
     {
       "code": "AC9S1I02",
+      "year": 1,
+      "subject": "science",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9S1I03",
+      "year": 1,
+      "subject": "science",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9S1I04",
+      "year": 1,
+      "subject": "science",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9S1I05",
+      "year": 1,
+      "subject": "science",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9S1I06",
       "year": 1,
       "subject": "science",
       "practice": true,
@@ -593,6 +713,30 @@
       "practice": true,
       "assessment": true,
       "guestPractice": true
+    },
+    {
+      "code": "AC9S2U01",
+      "year": 2,
+      "subject": "science",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9S2U02",
+      "year": 2,
+      "subject": "science",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9S2U03",
+      "year": 2,
+      "subject": "science",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
     },
     {
       "code": "AC9M3A01",
@@ -1091,6 +1235,22 @@
       "guestPractice": true
     },
     {
+      "code": "AC9M5P01",
+      "year": 5,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M5P02",
+      "year": 5,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
       "code": "AC9M5SP01",
       "year": 5,
       "subject": "maths",
@@ -1105,6 +1265,38 @@
       "practice": true,
       "assessment": true,
       "guestPractice": true
+    },
+    {
+      "code": "AC9M5SP03",
+      "year": 5,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M5ST01",
+      "year": 5,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M5ST02",
+      "year": 5,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M5ST03",
+      "year": 5,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
     },
     {
       "code": "AC9M6A01",
@@ -1235,8 +1427,360 @@
       "guestPractice": false
     },
     {
+      "code": "AC9M6P01",
+      "year": 6,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M6P02",
+      "year": 6,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
       "code": "AC9M6SP01",
       "year": 6,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M6SP02",
+      "year": 6,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M6SP03",
+      "year": 6,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M6ST01",
+      "year": 6,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M6ST02",
+      "year": 6,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M6ST03",
+      "year": 6,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M7A01",
+      "year": 7,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M7A02",
+      "year": 7,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M7A03",
+      "year": 7,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M7A04",
+      "year": 7,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M7A05",
+      "year": 7,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M7A06",
+      "year": 7,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M7M01",
+      "year": 7,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M7M02",
+      "year": 7,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M7M03",
+      "year": 7,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M7M04",
+      "year": 7,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M7M05",
+      "year": 7,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M7M06",
+      "year": 7,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M7N01",
+      "year": 7,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M7N02",
+      "year": 7,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M7N03",
+      "year": 7,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M7N04",
+      "year": 7,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M7N05",
+      "year": 7,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M7N06",
+      "year": 7,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M7N07",
+      "year": 7,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M7N08",
+      "year": 7,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M7N09",
+      "year": 7,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M7P01",
+      "year": 7,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M7P02",
+      "year": 7,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M7SP01",
+      "year": 7,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M7SP02",
+      "year": 7,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M7SP03",
+      "year": 7,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M7SP04",
+      "year": 7,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M7ST01",
+      "year": 7,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M7ST02",
+      "year": 7,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M7ST03",
+      "year": 7,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M8A03",
+      "year": 8,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M8A04",
+      "year": 8,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M8M01",
+      "year": 8,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M8N01",
+      "year": 8,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M8N02",
+      "year": 8,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M8N03",
+      "year": 8,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M8N04",
+      "year": 8,
       "subject": "maths",
       "practice": true,
       "assessment": true,
@@ -1244,3 +1788,4 @@
     }
   ]
 }
+

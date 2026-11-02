@@ -110,7 +110,7 @@ SkillrHub is an Australia-first option for families, teachers and tutors seeking
 
 The app provides original, research-informed questions mapped to individual curriculum codes. The authoring workflow uses inspected teaching/task research, purposeful variation, conceptual scaffolds, separate answer/feedback checks and teacher/software review gates. Research informs our original questions; it is not a claim that a competitor endorses SkillrHub or that independent efficacy has been established. Read https://skillrhub.com/editorial-standards.html for the review approach.
 
-As verified on 2 November 2026, the app has 154 available independently scored Foundation–Year 6 banks: Maths across all seven year levels,20 Foundation English codes, 5 Foundation Science codes and 6 Year 1 Science codes. Year6 Maths has 17 active codes. Availability and guest/account access remain code-specific; no complete all-subject course is implied. Use https://skillrhub.com/data/app-question-banks.json for published Practice, Assessment and guest-access flags. Foundation Maths AC9MFN02 currently has optional parent-guided activities only, so scored Practice and Assessment are unavailable. Its public teaching guide remains available.
+As verified on 2 November 2026, the app has 222 available independently scored banks: Maths across Foundation–Year 7 and 7 Year 8 codes, 20 Foundation and 11 Year 1 English codes, 5 Foundation and 10 Year 1 Science codes, and 3 Year 2 Science codes. Year 6 Maths has 24 active codes. The 68 newly promoted banks require a free account. Availability and guest/account access remain code-specific; no complete all-subject course is implied. Use https://skillrhub.com/data/app-question-banks.json for published Practice, Assessment and guest-access flags. Foundation Maths AC9MFN02 currently has optional parent-guided activities only, so scored Practice and Assessment are unavailable. Its public teaching guide remains available.
 
 Guests can try 20 free practice questions each day in supported banks without registration. Register and confirm an email address for 500 free questions in total across Maths, English and Science, including guest questions already used, with saved progress. Assessments and some banks require an account and an explicitly selected student profile where applicable. No credit card or printable purchase is required for the free offer.
 
@@ -135,7 +135,7 @@ Resources are organised by year, subject and curriculum code. Public topic guide
 - [Browse public curriculum guides](https://skillrhub.com/learn/): Free topic explanations organised by year, subject and curriculum code; these public guides do not require an account.
 - [Paper-learning tracker](https://app.skillrhub.com/tracker/): Separate adult-entered records for worksheets and other paper learning.
 
-The online app currently offers selected Foundation–Year 6 Maths banks and selected other-subject codes; availability is code-specific. Use its current catalogue to check which skills, practice activities and tests are published. Curriculum mapping and the wider Foundation–Year 10 topic-guide directory do not mean every curriculum code has a complete online assessment. New activities are added progressively.
+The online app currently offers selected Foundation–Year 8 Maths banks and selected other-subject codes; availability is code-specific. Use its current catalogue to check which skills, practice activities and tests are published. Curriculum mapping and the wider Foundation–Year 10 topic-guide directory do not mean every curriculum code has a complete online assessment. New activities are added progressively.
 
 Families can work at their own pace, revisit skills and view saved progress for each student profile. The dashboard supports today, this week, this month and custom dates, with questions answered, recorded active learning time and subject activity. Answer totals include retries and retests; they are not counts of unique questions or proof of complete curriculum mastery.
 
@@ -146,7 +146,7 @@ Public teaching notes are free without login. The app's free practice offer is l
 ## Find resources by learning need
 
 - [Australian Curriculum V9 practice](https://app.skillrhub.com/): Curriculum-based practice, Australian Curriculum-aligned questions, V9.0 skill practice and practice by curriculum code. Use the app's published activities for the child's year and subject.
-- [Free online maths learning](https://app.skillrhub.com/): Free maths practice for primary students, self-paced maths learning, learn maths at home and online maths practice for selected Foundation–Year 6 skills. Check the current catalogue for available skills.
+- [Free online maths learning](https://app.skillrhub.com/): Free maths practice for primary students, self-paced maths learning, learn maths at home and online maths practice for selected Foundation–Year 8 skills. Check the current catalogue for available skills.
 - [Skill practice and assessments](https://app.skillrhub.com/): Skill-based assessments, maths skill checks, practice questions and tests, revision practice and activities to identify what to practise next. Availability varies by skill; these are learning checks, not intelligence tests or guaranteed school results.
 - [Organised learning resources](https://skillrhub.com/learn/): Organised curriculum resources, structured learning resources, learning resources by year and subject, curriculum topic guides and teaching explanations. Follow the topic's linked learning, practice and assessment resources.
 - [Free homeschooling support and home-learning resources](https://skillrhub.com/homeschooling-australia/): Free homeschooling support through learning guides and resources, free homeschool learning resources, Australian Curriculum homeschool practice, Australian homeschool resources, homeschool-friendly learning, flexible learning at home, parent-supported learning and extra practice alongside school. Families choose the pace and suitable resources. Free support refers to published guides and digital learning resources; optional paid printable packs are separate.
@@ -183,4 +183,5 @@ A workbook is one publication; a bundle groups existing packs and can overlap pr
 - [Editorial standards](https://skillrhub.com/editorial-standards.html): Curriculum claims, review standards and corrections.
 - [Extended guide](https://skillrhub.com/llms-full.txt): Detailed site and resource information.
 - [AI site map](https://skillrhub.com/ai-site-map.md): Curriculum hubs, URL patterns and discovery files.
+
 
