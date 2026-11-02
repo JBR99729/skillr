@@ -1,0 +1,59 @@
+name: Move legacy quiz routes to app practice
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/retire_legacy_quiz_routes.py'
+      - 'data/app-question-banks.json'
+      - '.github/workflows/migrate-legacy-quiz-to-app.yml'
+permissions:
+  contents: write
+concurrency:
+  group: legacy-quiz-app-migration
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Verify exact-code routing and retained paper resources
+        run: python3 scripts/test_retire_legacy_quiz_routes.py
+      - name: Retire old players and replace native navigation
+        run: python3 scripts/retire_legacy_quiz_routes.py --write
+      - name: Validate redirects, sitemaps and unchanged source formatting
+        run: |
+          python3 scripts/retire_legacy_quiz_routes.py
+          python3 scripts/validate_sitemap_index_quality.py
+          python3 scripts/validate_google_sitemap_submission.py
+          git diff --check
+      - name: Publish the complete current tree without deletions
+        run: |
+          release_base=$(git rev-parse HEAD)
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          # The transformer changes tracked public resources only. Never stage
+          # Python caches, local artifacts, or a partial directory tree.
+          git add -u
+          if git diff --cached --quiet; then
+            echo 'Legacy routes already lead to the app.'
+            exit 0
+          fi
+          git commit -m 'Route legacy quiz and test entry points to app practice'
+          node scripts/check_release_integrity.mjs "$release_base" HEAD
+          git fetch origin main
+          if [ "$(git rev-parse origin/main)" != "$release_base" ]; then
+            echo 'Main advanced; rerun this idempotent migration against current main.'
+            exit 1
+          fi
+          git push origin HEAD:main
