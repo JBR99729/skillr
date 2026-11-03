@@ -39,8 +39,10 @@
     const terms = query.toLowerCase().trim().split(/\s+/).filter(Boolean);
     return products.filter(product => {
       const wantedType = scope.resourceType || 'all';
-      if (scope.curriculum === 'us' && !product.usGrade) return false;
-      if (scope.curriculum === 'au' && !(product.curriculumCodes || []).some(code => /^AC9/.test(code))) return false;
+      if (scope.curriculum === 'us' && product.market !== 'us') return false;
+      if (scope.curriculum === 'au' && product.market === 'us') return false;
+      if (scope.catalogue === 'printables' && !product.hasPrintables) return false;
+      if (scope.catalogue === 'slides' && !product.hasSlides) return false;
       const wantedCost = scope.cost || 'all';
       const productType = product.resourceType || 'worksheet';
 
@@ -96,16 +98,15 @@
   }
   function card(product) {
     const article = element('article', '', 'product-card');
-    const link = element('a'); link.href = product.url;
-    const image = element('img'); image.src = product.image; image.alt = product.title + ' cover'; image.width = 637; image.height = 900; image.loading = 'lazy';
-    link.append(image, element('h2', product.title));
-    const details = element('a', 'View pack details'); details.href = product.url;
-    const priceText = product.price === undefined ? 'See current price on TPT' : product.free || Number(product.price) === 0 ? 'Free on TPT' : product.resourceType === 'teaching-sample' ? 'Free sample' : new Intl.NumberFormat('en-AU', {style: 'currency', currency: product.currency}).format(Number(product.price));
-    article.append(link, element('p', product.curriculumCodes.join(' · '), 'small'), element('p', product.description), element('p', priceText, 'price'), details);
-    if (product.usUseNote) article.append(element('p', product.usUseNote, 'small'));
-    const buyUrl = product.paidTptUrl || product.tptUrl || null;
-    if (buyUrl) { const buyLabel = product.free || Number(product.price) === 0 ? 'Get free pack on TPT' : isSlides && (product.paidPrice !== undefined || product.price !== undefined) ? 'Slides · US$' + Number(product.paidPrice || product.price).toFixed(2) : 'View on TPT'; const buy = element('a', buyLabel, 'button'); buy.href = buyUrl; buy.target = '_blank'; buy.rel = 'noopener noreferrer'; article.append(buy); }
-    if (product.bundleTptUrl) { const offer = element('a', 'Bundle · US$' + Number(product.bundlePrice || 0).toFixed(2) + ' (save 20%)', 'button bundle-button'); offer.href = product.bundleTptUrl; offer.target = '_blank'; offer.rel = 'noopener noreferrer'; article.append(offer); }
+    article.dataset.productId = product.tptUrl.match(/\d+$/)?.[0] || product.id;
+    const link = element('a'); link.href = product.tptUrl; link.target = '_blank'; link.rel = 'noopener noreferrer';
+    const image = element('img'); image.src = product.image; image.alt = product.title + ' cover'; image.width = 525; image.height = 525; image.loading = 'lazy';
+    image.style.cssText = 'height:auto;aspect-ratio:1;object-fit:contain';
+    link.append(image, element('h3', product.title));
+    const kind = product.isBundle && product.hasSlides && product.hasPrintables ? 'Slides + worksheets bundle' : product.isBundle ? 'Bundle' : product.hasSlides ? 'Teaching slides' : 'Printable pack';
+    const action = element('a', product.free ? 'Free sample on TpT ↗' : 'View price on TpT ↗', 'button');
+    action.href = product.tptUrl; action.target = '_blank'; action.rel = 'noopener noreferrer';
+    article.append(link, element('p', product.yearLabel + ' · ' + kind, 'small'), action);
     return article;
   }
 
@@ -171,9 +172,10 @@
     const filters = {
       year: yearSelect ? yearSelect.value : (document.body.dataset.year || ''),
       subject: subjectSelect ? subjectSelect.value : (document.body.dataset.subject || ''),
-      resourceType: typeSelect ? typeSelect.value : (isSlides ? 'teaching-slides' : 'all'),
+      resourceType: typeSelect ? typeSelect.value : (section.dataset.catalogue ? 'all' : (isSlides ? 'teaching-slides' : 'all')),
       cost: costSelect ? costSelect.value : 'all',
-      curriculum: curriculumSelect ? curriculumSelect.value : 'all'
+      curriculum: curriculumSelect ? curriculumSelect.value : 'au',
+      catalogue: section.dataset.catalogue || ''
     };
     return filters;
   }
@@ -210,7 +212,7 @@
   costSelect?.addEventListener('change', () => {page = 1; render();});
   curriculumSelect?.addEventListener('change', () => {page = 1; render();});
   clearFilters?.addEventListener('click', () => {
-    setFilterState({});
+    setFilterState({curriculum: 'au'});
     activeTag = 'all';
     input.value = '';
     page = 1;
@@ -219,18 +221,19 @@
   });
   previous.addEventListener('click', () => {page--; render();});
   next.addEventListener('click', () => {page++; render();});
-  fetch('/data/print-and-go-products.json?v=20260907-bundle', { cache: 'no-cache' }).then(response => {
+  fetch('/data/print-and-go-products.json?v=20261103-tpt-sync', { cache: 'no-cache' }).then(response => {
     if (!response.ok) throw new Error('Catalogue unavailable');
     return response.json();
   }).then(data => {
     if (!Array.isArray(data)) throw new Error('Invalid catalogue');
     const listingKey = item => (item.tptUrl || item.url || '').match(/\d+$/)?.[0] || item.id;
     const ids = new Set(data.map(listingKey));
-    products = [...NEW_FREEBIES.filter(item => !ids.has(listingKey(item))), ...data];
+    products = [...new Map(data.map(item => [listingKey(item), item])).values()];
     if (products.length === 0) return;
     populateFilters(products);
     updateFilterUI();
     render();
   }).catch(() => {failed = true; render();});
 }());
+
 
