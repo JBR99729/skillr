@@ -1,7 +1,7 @@
 {
-  "auditedAt": "2026-11-03",
+  "auditedAt": "2026-11-04",
   "storefront": "https://www.teacherspayteachers.com/store/skillrhub",
-  "activeProductCount": 460,
+  "activeProductCount": 461,
   "products": [
     {
       "productId": "17968146",
@@ -3221,6 +3221,13 @@
       "title": "Telling Time to the Hour & Half Hour | 1st Grade Math Slides | 1.MD.B.3",
       "url": "https://www.teacherspayteachers.com/Product/Telling-Time-to-the-Hour-Half-Hour-1st-Grade-Math-Slides-1MDB3-18178153",
       "image": "https://ecdn.teacherspayteachers.com/thumbitem/Telling-Time-to-the-Hour-Half-Hour-1st-Grade-Math-Slides-1-MD-B-3-18178153-1793687647/large-18178153-1.jpg",
+      "market": "us"
+    },
+    {
+      "productId": "18179192",
+      "title": "1st Grade Graphing & Data Math Slides | Picture Graphs | 1.MD.C.4",
+      "url": "https://www.teacherspayteachers.com/Product/1st-Grade-Graphing-Data-Math-Slides-Picture-Graphs-1MDC4-18179192",
+      "image": "https://ecdn.teacherspayteachers.com/cdn-cgi/image/format=avif,quality=70,onerror=redirect/thumbitem/1st-Grade-Graphing-Data-Math-Slides-Picture-Graphs-1-MD-C-4-18179192-1793694835/750f-18179192-1.jpg",
       "market": "us"
     }
   ]

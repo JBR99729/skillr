@@ -17501,5 +17501,40 @@
       "1.MD.B.3"
     ],
     "usGrade": "1"
+  },
+  {
+    "id": "tpt-18179192",
+    "title": "1st Grade Graphing & Data Math Slides | Picture Graphs | 1.MD.C.4",
+    "year": 1,
+    "yearLabel": "Grade 1",
+    "subject": "maths",
+    "subjectLabel": "Math",
+    "topics": [
+      "graphing",
+      "data",
+      "picture graphs",
+      "categories",
+      "totals",
+      "more and fewer"
+    ],
+    "curriculumCodes": [
+      "1.MD.C.4"
+    ],
+    "description": "97 teaching slides for organizing, representing and interpreting data with up to three categories. Includes worked examples, guided attempts, independent practice, exit checks and explained answers.",
+    "url": "https://www.teacherspayteachers.com/Product/1st-Grade-Graphing-Data-Math-Slides-Picture-Graphs-1MDC4-18179192",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/1st-Grade-Graphing-Data-Math-Slides-Picture-Graphs-1MDC4-18179192",
+    "image": "https://ecdn.teacherspayteachers.com/cdn-cgi/image/format=avif,quality=70,onerror=redirect/thumbitem/1st-Grade-Graphing-Data-Math-Slides-Picture-Graphs-1-MD-C-4-18179192-1793694835/750f-18179192-1.jpg",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "free": false,
+    "isBundle": false,
+    "hasSlides": true,
+    "hasPrintables": false,
+    "market": "us",
+    "usGrade": "1",
+    "tptObservedAt": "2026-11-04",
+    "format": "Flattened PowerPoint and matching PDF",
+    "slideCount": 97
   }
 ]
