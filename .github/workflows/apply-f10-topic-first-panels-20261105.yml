@@ -56,9 +56,9 @@ jobs:
           import path from 'node:path';
           import {execFileSync} from 'node:child_process';
           const report=JSON.parse(fs.readFileSync('docs/qa/2026-11-05-topic-first-panel-rollout.json','utf8'));
-          if(report.examined<600||report.updated<500)throw Error('Unexpectedly small coverage '+JSON.stringify(report));
-          if(report.realQuestions<25)throw Error('Too few verified real-question previews: '+report.realQuestions);
-          if(report.comingSoon<100)throw Error('Coming-soon placeholders missing: '+report.comingSoon);
+          if(report.examined<600||report.coverage?.total<600)throw Error('Unexpectedly small total coverage '+JSON.stringify(report));
+          if(report.coverage.questions<100)throw Error('Too few verified real-question previews: '+report.coverage.questions);
+          if(report.coverage.comingSoon<400)throw Error('Coming-soon placeholders missing: '+report.coverage.comingSoon);
           const edited=execFileSync('git',['diff','--name-only'],{encoding:'utf8'}).trim().split('\n').filter(Boolean);
           const topics=edited.filter(p=>/^(foundation|year(?:[1-9]|10))\/(maths|science|english)\/ac9[^/]+\/index\.html$/i.test(p));
           if(topics.length!==report.updated)throw Error('Changed topic count mismatch '+topics.length+' vs '+report.updated);
@@ -83,7 +83,7 @@ jobs:
           }
           const home=execFileSync('git',['diff','--','index.html'],{encoding:'utf8'}).trim();
           if(home)throw Error('Homepage was modified');
-          console.log(JSON.stringify({topicPages:topics.length,realQuestions:report.realQuestions,appOnly:report.appOnly,comingSoon:report.comingSoon,skipped:report.skipped},null,2));
+          console.log(JSON.stringify({newlyUpdatedPages:topics.length,overallCoverage:report.coverage,skipped:report.skipped,skippedExamples:report.skippedExamples},null,2));
           JS
 
       - name: Verify diff whitespace
