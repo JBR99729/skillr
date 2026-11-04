@@ -1,0 +1,154 @@
+{
+  "examined": 708,
+  "updated": 613,
+  "realQuestions": 158,
+  "appOnly": 4,
+  "comingSoon": 451,
+  "skipped": {
+    "already-designed": 1,
+    "duplicate-id-conflict": 39,
+    "redirect": 32,
+    "no-curriculum-hero": 23
+  },
+  "examples": [
+    {
+      "path": "foundation/english/ac9efla01-how-language-is-used-differently-at-home-and-school-depending/index.html",
+      "mode": "questions"
+    },
+    {
+      "path": "foundation/english/ac9efla02-different-ways-of-using-language-to-express-preferences-likes/index.html",
+      "mode": "questions"
+    },
+    {
+      "path": "foundation/english/ac9efla03-that-texts-can-take-many-forms-such-as-signs-books/index.html",
+      "mode": "questions"
+    },
+    {
+      "path": "foundation/english/ac9efla04-conventions-of-print-and-screen-including-how-books-and-simple/index.html",
+      "mode": "questions"
+    },
+    {
+      "path": "foundation/english/ac9efla05-that-sentences-are-key-units-for-expressing-ideas/index.html",
+      "mode": "questions"
+    },
+    {
+      "path": "foundation/english/ac9efla06-that-sentences-are-made-up-of-groups-of-words-that/index.html",
+      "mode": "questions"
+    },
+    {
+      "path": "foundation/english/ac9efla07-the-contribution-of-images-and-words-to-meaning-in-stories/index.html",
+      "mode": "questions"
+    },
+    {
+      "path": "foundation/english/ac9efla08-and-develop-awareness-of-vocabulary-used-in-familiar-contexts/index.html",
+      "mode": "questions"
+    },
+    {
+      "path": "foundation/english/ac9efla09-punctuation-as-a-feature-of-written-text-different-from-letters/index.html",
+      "mode": "questions"
+    },
+    {
+      "path": "foundation/english/ac9efle01-share-ideas-about-stories-poems-and-images-in-literature/index.html",
+      "mode": "questions"
+    },
+    {
+      "path": "foundation/english/ac9efle02-respond-to-stories-and-share-feelings-and-thoughts-about-their/index.html",
+      "mode": "questions"
+    },
+    {
+      "path": "foundation/english/ac9efle03-different-types-of-literary-texts-and-identify-features/index.html",
+      "mode": "questions"
+    },
+    {
+      "path": "foundation/english/ac9efle04-and-replicate-the-rhythms-and-sound-patterns-of-literary-texts/index.html",
+      "mode": "questions"
+    },
+    {
+      "path": "foundation/english/ac9efle05-retell-and-adapt-familiar-literary-texts-through-play/index.html",
+      "mode": "questions"
+    },
+    {
+      "path": "foundation/english/ac9efly01-some-familiar-texts-such-as-stories-and-informative-texts-and/index.html",
+      "mode": "questions"
+    }
+  ],
+  "byYear": {
+    "foundation": {
+      "examined": 50,
+      "updated": 49,
+      "realQuestions": 33,
+      "appOnly": 0,
+      "comingSoon": 16
+    },
+    "year1": {
+      "examined": 55,
+      "updated": 20,
+      "realQuestions": 4,
+      "appOnly": 0,
+      "comingSoon": 16
+    },
+    "year10": {
+      "examined": 84,
+      "updated": 65,
+      "realQuestions": 0,
+      "appOnly": 0,
+      "comingSoon": 65
+    },
+    "year2": {
+      "examined": 55,
+      "updated": 51,
+      "realQuestions": 16,
+      "appOnly": 1,
+      "comingSoon": 34
+    },
+    "year3": {
+      "examined": 63,
+      "updated": 63,
+      "realQuestions": 22,
+      "appOnly": 1,
+      "comingSoon": 40
+    },
+    "year4": {
+      "examined": 63,
+      "updated": 63,
+      "realQuestions": 23,
+      "appOnly": 0,
+      "comingSoon": 40
+    },
+    "year5": {
+      "examined": 60,
+      "updated": 60,
+      "realQuestions": 22,
+      "appOnly": 2,
+      "comingSoon": 36
+    },
+    "year6": {
+      "examined": 59,
+      "updated": 36,
+      "realQuestions": 1,
+      "appOnly": 0,
+      "comingSoon": 35
+    },
+    "year7": {
+      "examined": 72,
+      "updated": 72,
+      "realQuestions": 30,
+      "appOnly": 0,
+      "comingSoon": 42
+    },
+    "year8": {
+      "examined": 70,
+      "updated": 69,
+      "realQuestions": 7,
+      "appOnly": 0,
+      "comingSoon": 62
+    },
+    "year9": {
+      "examined": 77,
+      "updated": 65,
+      "realQuestions": 0,
+      "appOnly": 0,
+      "comingSoon": 65
+    }
+  }
+}
