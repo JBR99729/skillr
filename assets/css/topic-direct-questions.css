@@ -1,0 +1,30 @@
+/* AC9MFN01 trial: topic-local direct questions. Homepage and other topic pages untouched. */
+.topic-learning-page .topic-direct-questions{margin:0 0 30px;padding:clamp(18px,3.5vw,30px);border:1px solid var(--topic-line,#d6e4e0);border-radius:16px;background:#fff;box-shadow:0 8px 25px rgba(16,40,62,.04)}
+.topic-direct-questions__header{margin-bottom:20px}
+.topic-learning-page .topic-direct-questions h2{font-size:clamp(1.4rem,3vw,1.8rem);margin:0 0 6px;color:var(--topic-ink,#17344b)}
+.topic-direct-questions__header>p:last-child{margin:0;color:var(--topic-muted,#526c78)}
+.topic-direct-questions__columns{display:grid;grid-template-columns:minmax(0,1.3fr) minmax(240px,.9fr);gap:20px;align-items:start}
+.topic-direct-questions__activity{min-width:0;padding:20px;border:1px solid var(--topic-line,#d6e4e0);border-radius:12px;background:#f9fcfa}
+.topic-direct-questions__counter{margin:0 0 10px;font-size:.82rem;font-weight:750;color:var(--topic-teal,#13795b)}
+.topic-direct-questions__activity fieldset{padding:0;border:0;margin:0;min-width:0}
+.topic-direct-questions__activity legend{padding:0;margin-bottom:16px;color:var(--topic-ink,#17344b);font-size:1.08rem;font-weight:750;line-height:1.5}
+.topic-direct-questions__options{display:grid;gap:9px}
+.topic-direct-questions__options label{display:flex;align-items:center;gap:12px;padding:11px 14px;min-height:48px;border:1px solid #cbded6;border-radius:9px;background:#fff;cursor:pointer;font-weight:650}
+.topic-direct-questions__options label:has(input:checked){border-color:var(--topic-teal,#13795b);background:#eff8f3}
+.topic-direct-questions__options input{width:20px;height:20px;flex:none;accent-color:#13795b}
+.topic-direct-questions__controls{display:flex;gap:10px;flex-wrap:wrap;margin-top:18px}
+.topic-direct-questions__controls button,.topic-direct-questions__primary,.topic-direct-questions__secondary{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:10px 15px;border-radius:9px;text-decoration:none;font:inherit;font-size:.9rem;font-weight:750;cursor:pointer}
+.topic-direct-questions__controls button[type=submit],.topic-direct-questions__primary{background:#13795b;border:1px solid #13795b;color:#fff}
+.topic-direct-questions__controls button[type=button]{background:#fff;border:1px solid #b9d3c8;color:#105b45}
+.topic-direct-questions__controls button[hidden]{display:none}
+.topic-direct-questions__feedback{margin:14px 0 0;padding:13px 15px;border-radius:9px;border:1px solid #c9ded2;background:#eff8f3;font-size:.91rem;line-height:1.55}
+.topic-direct-questions__feedback.is-incorrect{background:#fff8ee;border-color:#eacb93;color:#654111}
+.topic-direct-questions__dashboard{min-width:0;padding:20px;border-radius:12px;background:#edf6f2;border:1px solid #cbded5}
+.topic-direct-questions__dashboard h3{margin:0 0 10px;font-size:1.18rem;color:#173f39}
+.topic-direct-questions__dashboard #direct-questions-preview-score{font-weight:750;color:#173f39;margin:0 0 12px}
+.topic-direct-questions__dashboard a{display:flex;width:100%;margin-top:10px}
+.topic-direct-questions__secondary{background:#fff;border:1px solid #b9d3c8;color:#105b45}
+.topic-direct-questions__note{font-size:.81rem;color:#3e5c54;line-height:1.55;margin:10px 0 0}
+.topic-direct-questions__dashboard .topic-kicker{margin:0 0 8px}
+@media(max-width:720px){.topic-direct-questions__columns{grid-template-columns:1fr}.topic-direct-questions__activity,.topic-direct-questions__dashboard{padding:16px}}
+@media(prefers-reduced-motion:reduce){.topic-direct-questions__options label{transition:none}}
