@@ -9,13 +9,13 @@
 #skillr-home .clean-header-actions a{text-decoration:none}
 #skillr-home .clean-header-actions .clean-join{background:var(--clean-blue);color:#fff;padding:12px 17px;border-radius:11px;min-height:44px;display:inline-flex;align-items:center}
 #skillr-home .clean-header-actions a:hover,#skillr-home .clean-footer a:hover{text-decoration:underline}
-#skillr-home .clean-hero{background:linear-gradient(160deg,#f5f9ff 0%,#f7fcfa 72%,#fff 100%);padding:44px 0 36px}
-#skillr-home .clean-intro{max-width:820px;margin:0 auto;text-align:center}
+#skillr-home .clean-hero{background:linear-gradient(160deg,#f5f9ff 0%,#f7fcfa 72%,#fff 100%);padding:32px 0 24px}
+#skillr-home .clean-intro{max-width:1040px;margin:0 auto;text-align:center}
 #skillr-home .clean-eyebrow{text-transform:uppercase;letter-spacing:.16em;color:var(--clean-green);font-size:12px;font-weight:850;margin:0 0 16px}
 #skillr-home h1,#skillr-home h2,#skillr-home h3{color:var(--clean-navy);letter-spacing:-.035em}
-#skillr-home .clean-intro h1{font-size:clamp(38px,6vw,67px);line-height:1.07;margin:0 0 19px;font-weight:840}
+#skillr-home .clean-intro h1{font-size:clamp(32px,5vw,52px);line-height:1.07;margin:0 0 12px;font-weight:840}
 #skillr-home .clean-intro h1 span{color:var(--clean-blue)}
-#skillr-home .clean-lead{font-size:clamp(16px,2vw,19px);line-height:1.65;color:#456374;margin:0 auto 28px;max-width:700px}
+#skillr-home .clean-lead{font-size:clamp(16px,2vw,19px);line-height:1.65;color:#456374;margin:0 auto 18px;max-width:700px}
 #skillr-home .clean-search{max-width:790px;margin:0 auto;border:0;padding:20px;background:#fff;border-radius:20px;box-shadow:0 20px 48px #193b6414;border:1px solid #d8e5ed;text-align:left}
 #skillr-home .clean-search form>label{display:block;font-size:17px;margin:0 0 12px;font-weight:800}
 #skillr-home .clean-search .sp-search-field{display:flex;gap:9px;align-items:center;border:2px solid #aac9e9;padding:5px 6px 5px 18px;border-radius:13px}
@@ -38,12 +38,12 @@
 #skillr-home .clean-search .sp-result-actions a{border:1px solid #d2e0ee;border-radius:8px;padding:9px 11px;min-height:44px;display:inline-flex;align-items:center;text-decoration:none;font-size:12px;font-weight:750;color:#164c7b}
 #skillr-home .clean-search .sp-result-actions .sp-result-practice{background:#e8f5ee;border-color:#c0e1ce;color:#10563e}
 #skillr-home .clean-search .sp-result-actions .sp-result-paid{background:#fff7ed;border-color:#f2d7b4;color:#8a4b0c}
-#skillr-home .clean-paths{padding:28px 0 36px}
+#skillr-home .clean-paths{padding:20px 0 36px}
 #skillr-home .clean-path-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:22px}
 #skillr-home .clean-path{border:1px solid var(--clean-border);background:#fff;border-radius:22px;padding:30px;display:flex;flex-direction:column;align-items:flex-start;min-height:262px;box-shadow:0 12px 26px #13334b08}
 #skillr-home .clean-path--student{background:linear-gradient(170deg,#ecf5ff,#fff 60%);border-color:#cadef4}
 #skillr-home .clean-path--teacher{background:linear-gradient(170deg,#eef8f1,#fff 60%);border-color:#cce4d4}
-#skillr-home .clean-path-icon{display:grid;place-items:center;font-size:28px;width:62px;height:62px;border-radius:17px;background:#d9eafa;margin-bottom:18px}
+#skillr-home .clean-path-icon{display:grid;place-items:center;font-size:28px;width:46px;height:46px;border-radius:12px;background:#d9eafa;margin-bottom:12px}
 #skillr-home .clean-path--teacher .clean-path-icon{background:#d6efde}
 #skillr-home .clean-path h3{font-size:27px;margin:0 0 10px}
 #skillr-home .clean-path p{font-size:15px;line-height:1.65;color:#506b7b;margin:0 0 16px;max-width:470px}
@@ -81,7 +81,7 @@
 #skillr-home .clean-footer nav{display:flex;gap:13px 20px;flex-wrap:wrap;max-width:700px}
 #skillr-home .clean-footer a{color:#e9f4ff;text-decoration:none;font-size:13px}
 #skillr-home a:focus-visible,#skillr-home button:focus-visible,#skillr-home select:focus-visible,#skillr-home summary:focus-visible{outline:3px solid #2162d1;outline-offset:3px}
-@media(max-width:760px){#skillr-home .clean-wrap{width:min(100% - 28px,1140px)}#skillr-home .clean-header{min-height:70px}#skillr-home .clean-brand{font-size:21px}#skillr-home .clean-header-actions{gap:10px;font-size:13px}#skillr-home .clean-header-actions .sp-quick-search{display:none}#skillr-home .clean-header-actions .clean-join{padding:10px 12px}#skillr-home .clean-hero{padding:44px 0 34px}#skillr-home .clean-search{padding:16px}#skillr-home .clean-search .sp-search-field{flex-wrap:wrap;padding:8px}#skillr-home .clean-search .sp-search-field button{width:100%}#skillr-home .clean-paths{padding:35px 0 24px}#skillr-home .clean-path-grid{grid-template-columns:1fr;gap:16px}#skillr-home .clean-path{padding:25px;min-height:280px}#skillr-home .clean-guide{padding:35px 0}#skillr-home .clean-subjects{grid-template-columns:1fr}#skillr-home .clean-footer nav{gap:12px}}
+@media(max-width:760px){#skillr-home .clean-wrap{width:min(100% - 28px,1140px)}#skillr-home .clean-header{min-height:70px}#skillr-home .clean-brand{font-size:21px}#skillr-home .clean-header-actions{gap:10px;font-size:13px}#skillr-home .clean-header-actions .sp-quick-search{display:none}#skillr-home .clean-header-actions .clean-join{padding:10px 12px}#skillr-home .clean-hero{padding:24px 0 20px}#skillr-home .clean-search{padding:16px}#skillr-home .clean-search .sp-search-field{padding:6px 6px 6px 10px}#skillr-home .clean-search .sp-search-field button{padding-inline:12px}#skillr-home .clean-paths{padding:16px 0 24px}#skillr-home .clean-path-grid{grid-template-columns:1fr;gap:16px}#skillr-home .clean-path{padding:25px;min-height:280px}#skillr-home .clean-guide{padding:35px 0}#skillr-home .clean-subjects{grid-template-columns:1fr}#skillr-home .clean-footer nav{gap:12px}}
 @media(prefers-reduced-motion:no-preference){#skillr-home .clean-path{transition:transform .16s ease,box-shadow .16s ease}#skillr-home .clean-path:hover{transform:translateY(-3px);box-shadow:0 17px 35px #13334b16}}
 
 
