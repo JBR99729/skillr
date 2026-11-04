@@ -1,11 +1,11 @@
 {
   "examined": 708,
-  "updated": 62,
-  "realQuestions": 58,
-  "appOnly": 1,
-  "comingSoon": 3,
+  "updated": 0,
+  "realQuestions": 0,
+  "appOnly": 0,
+  "comingSoon": 0,
   "skipped": {
-    "already-designed": 614,
+    "already-designed": 676,
     "redirect": 32
   },
   "skippedExamples": [
@@ -145,68 +145,7 @@
     "comingSoon": 454,
     "existingBlueprint": 1
   },
-  "examples": [
-    {
-      "path": "year1/english/ac9e1la01-how-language-facial-expressions-and-gestures-are-used-to/index.html",
-      "mode": "questions"
-    },
-    {
-      "path": "year1/english/ac9e1la02-language-to-provide-reasons-for-likes-dislikes-and-preferences/index.html",
-      "mode": "questions"
-    },
-    {
-      "path": "year1/english/ac9e1la03-how-texts-are-organised-according-to-their-purpose-such-as/index.html",
-      "mode": "questions"
-    },
-    {
-      "path": "year1/english/ac9e1la04-how-repetition-rhyme-and-rhythm-create-cohesion-in-simple-poems/index.html",
-      "mode": "questions"
-    },
-    {
-      "path": "year1/english/ac9e1la05-how-print-and-screen-texts-are-organised-using-features-such/index.html",
-      "mode": "questions"
-    },
-    {
-      "path": "year1/english/ac9e1la06-that-a-simple-sentence-consists-of-a-single-independent-clause/index.html",
-      "mode": "questions"
-    },
-    {
-      "path": "year1/english/ac9e1la07-that-words-can-represent-people-places-and-things-nouns/index.html",
-      "mode": "questions"
-    },
-    {
-      "path": "year1/english/ac9e1la08-how-images-in-different-types-of-texts-contribute-to-meaning/index.html",
-      "mode": "questions"
-    },
-    {
-      "path": "year1/english/ac9e1la10-that-written-language-uses-punctuation-such-as-full-stops/index.html",
-      "mode": "questions"
-    },
-    {
-      "path": "year1/english/ac9e1le01-how-language-and-images-are-used-to-create-characters-settings/index.html",
-      "mode": "questions"
-    },
-    {
-      "path": "year1/english/ac9e1le02-literary-texts-and-share-responses-by-making-connections-with/index.html",
-      "mode": "coming-soon"
-    },
-    {
-      "path": "year1/english/ac9e1le03-plot-character-and-setting-which-are-features-of-stories/index.html",
-      "mode": "coming-soon"
-    },
-    {
-      "path": "year1/english/ac9e1le04-poems-chants-rhymes-and-songs-and-imitate-and-invent-sound/index.html",
-      "mode": "coming-soon"
-    },
-    {
-      "path": "year1/maths/ac9m1a01-skip-counting-pattern-sequences/index.html",
-      "mode": "questions"
-    },
-    {
-      "path": "year1/maths/ac9m1a02-repeating-patterns/index.html",
-      "mode": "questions"
-    }
-  ],
+  "examples": [],
   "byYear": {
     "foundation": {
       "examined": 50,
@@ -217,10 +156,10 @@
     },
     "year1": {
       "examined": 55,
-      "updated": 35,
-      "realQuestions": 32,
+      "updated": 0,
+      "realQuestions": 0,
       "appOnly": 0,
-      "comingSoon": 3
+      "comingSoon": 0
     },
     "year10": {
       "examined": 84,
@@ -231,8 +170,8 @@
     },
     "year2": {
       "examined": 55,
-      "updated": 4,
-      "realQuestions": 4,
+      "updated": 0,
+      "realQuestions": 0,
       "appOnly": 0,
       "comingSoon": 0
     },
@@ -259,9 +198,9 @@
     },
     "year6": {
       "examined": 59,
-      "updated": 23,
-      "realQuestions": 22,
-      "appOnly": 1,
+      "updated": 0,
+      "realQuestions": 0,
+      "appOnly": 0,
       "comingSoon": 0
     },
     "year7": {
