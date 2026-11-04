@@ -9,7 +9,7 @@
   var status = root.querySelector('#site-search-status');
   var yearFilter = root.querySelector('#search-year');
   var subjectFilter = root.querySelector('#search-subject');
-  var cataloguePromise, banksPromise, request = 0;
+  var cataloguePromise, banksPromise, productsPromise, request = 0;
   var names = {maths: 'Maths', science: 'Science', english: 'English'};
   function normalise(value) {
     return String(value || '').toLowerCase().replace(/\bmathematics\b/g, 'maths').replace(/[^a-z0-9]+/g, ' ').trim();
@@ -40,6 +40,26 @@
       .catch(function () { banksPromise = null; return new Map(); });
     return banksPromise;
   }
+  // Optional paid products are public listing metadata, not downloadable resources.
+  function loadPaidProducts() {
+    if (!productsPromise) productsPromise = fetch('/data/print-and-go-products.json?v=20261104', {credentials:'same-origin'})
+      .then(function (response) { if (!response.ok) throw Error('Products unavailable'); return response.json(); })
+      .then(function (products) {
+        var found = new Map(), rank = {worksheet:0, 'assessment-pack':1, workbook:2, bundle:3, unit:4, 'teaching-slides':5};
+        (Array.isArray(products) ? products : []).forEach(function (product) {
+          if (!product.available || product.free || !product.hasPrintables ||
+              !product.tptUrl || !/^https:\/\/www\.teacherspayteachers\.com\/Product\//.test(product.tptUrl) ||
+              !Array.isArray(product.curriculumCodes)) return;
+          product.curriculumCodes.forEach(function (code) {
+            var key = String(code).toUpperCase(), previous = found.get(key);
+            if (!previous || (rank[product.resourceType] ?? 10) < (rank[previous.resourceType] ?? 10))
+              found.set(key, product);
+          });
+        });
+        return found;
+      }).catch(function () { productsPromise = null; return new Map(); });
+    return productsPromise;
+  }
   function message(text) { results.hidden = false; status.textContent = text; list.replaceChildren(); }
   function action(row, text, href, primary) {
     var link = document.createElement('a'); link.textContent = text; link.href = href;
@@ -55,7 +75,7 @@
     if (query.length < 2 && !yearFilter.value && !subjectFilter.value) { results.hidden = true; list.replaceChildren(); return; }
     message('Finding matching topics…');
     try {
-      var data = await Promise.all([loadCatalogue(), loadBanks()]);
+      var codeSearch = /^ac9[a-z0-9]+$/.test(query); var data = await Promise.all([loadCatalogue(), loadBanks(), codeSearch ? loadPaidProducts() : Promise.resolve(new Map())]);
       if (ticket !== request) return;
       var matches = data[0].filter(function (item) {
         return (!yearFilter.value || yearFilter.value === item.year) && (!subjectFilter.value || subjectFilter.value === item.subject) && terms.every(function (term) {
@@ -75,6 +95,8 @@
         actions.className='sp-result-actions';
         if (bank?.practice) action(actions, bank.guestPractice ? 'Free practice' : 'Free practice · free account', 'https://app.skillrhub.com/?'+(bank.guestPractice ? 'try=1' : 'login=1')+'&skill='+encodeURIComponent(item.code), true);
         if (bank?.assessment) action(actions, 'Assessment', 'https://app.skillrhub.com/?assessment='+encodeURIComponent(item.code));
+        var paid = codeSearch && data[2].get(item.code);
+        if (paid) { action(actions, 'Paid worksheet pack · TpT', paid.tptUrl); actions.lastElementChild.classList.add('sp-result-paid'); }
         action(actions, 'Topic guide', item.url); row.append(title,meta,actions); list.append(row);
       });
     } catch (_) { if(ticket === request) message('Search is temporarily unavailable. Browse the topic guides by year below.'); }
