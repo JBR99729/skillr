@@ -14,7 +14,9 @@
   const next=document.getElementById('direct-question-next');
   const feedback=document.getElementById('direct-question-feedback');
   const score=document.getElementById('direct-questions-preview-score');
-  if (![fieldset,legend,options,counter,check,next,feedback,score].every(Boolean)) return;
+  const previewBar=document.getElementById('direct-preview-progress');
+  const previewFraction=document.getElementById('direct-preview-fraction');
+  if (![fieldset,legend,options,counter,check,next,feedback,score,previewBar,previewFraction].every(Boolean)) return;
   let index=0, checked=0, correct=0, marked=false;
   function report(event, data) {
     if(typeof window.gtag==='function')window.gtag('event',event,{curriculum_code:'AC9MFN01',placement:'topic_inline_preview',...data});
@@ -55,6 +57,8 @@
     feedback.hidden=false;
     feedback.classList.toggle('is-incorrect',!isCorrect);
     feedback.textContent=(isCorrect?'Correct! ':'Not quite. The correct answer is '+q.choices[q.correct]+'. ')+q.explanation;
+    previewBar.value=checked;
+    previewFraction.textContent=checked+' / '+questions.length;
     score.textContent='Preview: '+checked+' of '+questions.length+' checked · '+correct+' correct (not saved)';
     next.hidden=index===questions.length-1;
     if(index===questions.length-1){
