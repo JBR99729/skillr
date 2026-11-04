@@ -1,7 +1,7 @@
 /* AC9MFN01 trial: topic-local direct questions. Homepage and other topic pages untouched. */
 .topic-learning-page .topic-direct-questions{margin:0 0 30px;padding:clamp(18px,3.5vw,30px);border:1px solid var(--topic-line,#d6e4e0);border-radius:16px;background:#fff;box-shadow:0 8px 25px rgba(16,40,62,.04)}
 .topic-direct-questions__header{margin-bottom:20px}
-.topic-learning-page .topic-direct-questions h2{font-size:clamp(1.4rem,3vw,1.8rem);margin:0 0 6px;color:var(--topic-ink,#17344b)}
+.topic-learning-page .topic-direct-questions__title{font-size:clamp(1.4rem,3vw,1.8rem);font-weight:750;line-height:1.25;margin:0 0 6px;color:var(--topic-ink,#17344b)}
 .topic-direct-questions__header>p:last-child{margin:0;color:var(--topic-muted,#526c78)}
 .topic-direct-questions__columns{display:grid;grid-template-columns:minmax(0,1.3fr) minmax(240px,.9fr);gap:20px;align-items:start}
 .topic-direct-questions__activity{min-width:0;padding:20px;border:1px solid var(--topic-line,#d6e4e0);border-radius:12px;background:#f9fcfa}
