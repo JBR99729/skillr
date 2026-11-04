@@ -1,31 +1,22 @@
 /*
- * SkillrHub web brand colours v1.1
- * Approved reference: search-first homepage and Numbers to 120 topic mock.
- * Required across skillrhub.com and app.skillrhub.com: every webpage uses
- * these exact tokens for its UI, including each curriculum code/topic page,
- * the curriculum index, search, practice, dashboards, account screens,
- * teacher and tutor resources, support, About and blogs.
- * Reuse these tokens in shared styles. Avoid page-specific colour overrides.
- * Product previews, teaching slides and instructional graphics retain their
- * original artwork.
- * Blue is for links and primary actions. Green is for progress and success.
- * Use the stronger border for search fields and controls, and the softer
- * border for topic panels. Keep dark mode paired with the same colour roles.
- * Treat changes to these values as a brand revision for owner review.
+ * Homepage-only visual rollback, 2026-11-05.
+ * Restore the established light/slate palette with Maths blue, Science green,
+ * and English purple. The search-first structure, navigation, and interactions
+ * are unchanged. Do not change shared site/app brand tokens here.
  */
-:root {
-  color-scheme: light dark;
-  --skillr-surface: light-dark(#FFFFFF, #152434);
-  --skillr-soft-surface: light-dark(#F2F7FF, #202F43);
-  --skillr-text: light-dark(#16324A, #EDF5FF);
-  --skillr-text-secondary: light-dark(#486279, #BACDDD);
-  --skillr-primary: light-dark(#205DC1, #A3C8FF);
-  --skillr-on-primary: light-dark(#FFFFFF, #14253A);
-  --skillr-progress: light-dark(#187553, #7BDDB3);
-  --skillr-control-border: light-dark(#B7C9DC, #56708E);
-  --skillr-panel-border: light-dark(#D8E5F1, #40536A);
+#skillr-home {
+  color-scheme: light;
+  --skillr-surface: #f8fafc;
+  --skillr-soft-surface: #eff6ff;
+  --skillr-text: #0f172a;
+  --skillr-text-secondary: #475569;
+  --skillr-primary: #2563eb;
+  --skillr-on-primary: #ffffff;
+  --skillr-progress: #059669;
+  --skillr-english: #7c3aed;
+  --skillr-control-border: #cbd5e1;
+  --skillr-panel-border: #e2e8f0;
 }
-
 body.home-page{margin:0}
 #skillr-home{min-height:100vh;background:var(--skillr-surface);color:var(--skillr-text);font:16px/1.55 Inter,system-ui,sans-serif}
 #skillr-home *{box-sizing:border-box}
@@ -42,6 +33,9 @@ body.home-page{margin:0}
 #skillr-home h1{font-size:clamp(27px,5vw,40px);line-height:1.14;letter-spacing:-.03em;margin:0 0 10px}
 #skillr-home p{color:var(--skillr-text-secondary)}
 #skillr-home .clean-main>p{margin:0 0 20px}
+#skillr-home .clean-main h1{color:#1e40af}
+#skillr-home .clean-search{padding:16px;border:1px solid #dbeafe;border-radius:14px;background:linear-gradient(135deg,#eff6ff,#ffffff)}
+#skillr-home .sp-search-field{background:#ffffff}
 #skillr-home .clean-search label{display:block;margin-bottom:7px;font-weight:650}
 #skillr-home .sp-search-field{display:flex;gap:7px;align-items:center;border:1px solid var(--skillr-control-border);border-radius:10px;padding:4px 5px 4px 10px}
 #skillr-home .sp-search-field input{flex:1;min-width:0;min-height:44px;border:0;background:transparent;color:var(--skillr-text);font:inherit}
