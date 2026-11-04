@@ -71,6 +71,7 @@ body:has(.skillr-topic-first) {
   font-size:1.06rem;
   line-height:1.45;
   font-weight:750;
+  white-space:pre-line;
   padding:0;
   margin:0 0 12px;
 }
