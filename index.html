@@ -150,120 +150,46 @@
   ]
 }
 </script>
-<link rel="stylesheet" href="/assets/home-landing.css?v=compact-layout-20261101">
-<link rel="stylesheet" href="/assets/home-clean.css?v=20261104-3">
+<link rel="stylesheet" href="/assets/home-clean.css?v=search-first-1">
 </head>
 <body class="home-page">
 <div id="skillr-home" class="clean-home">
 <a class="clean-skip" href="#main-content">Skip to content</a>
 <header class="clean-wrap clean-header">
-  <a class="clean-brand" href="/" aria-label="SkillrHub homepage"><img src="/icons/skillrhub-mark.svg" width="36" height="36" alt="">SkillrHub</a>
-  <nav class="clean-header-actions" aria-label="Main navigation">
-    <a class="sp-quick-search" href="#topic-search">Search topics</a>
-    <a href="https://app.skillrhub.com/?login=1" data-home-conversion="login_click" data-home-placement="header">Log in</a>
-    <a class="clean-join" href="https://app.skillrhub.com/?signup=1" data-home-conversion="signup_click" data-home-placement="header">Register free</a>
+  <a class="clean-brand" href="/"><img src="/icons/skillrhub-mark.svg" width="32" height="32" alt="">SkillrHub</a>
+  <nav aria-label="Account access">
+    <a href="/teach/">Teacher &amp; tutor resources</a>
+    <a href="https://app.skillrhub.com/?login=1" data-home-conversion="login_click" data-home-placement="header">Student practice login</a>
   </nav>
 </header>
-<main id="main-content" tabindex="-1">
-  <section class="clean-hero" aria-labelledby="home-title">
-    <div class="clean-wrap">
-      <div class="clean-intro">
-        <p class="clean-eyebrow">Australian Curriculum V9 · Foundation to Year 10</p>
-        <h1 id="home-title">Free practice and <span>teacher resources</span></h1>
-        <p class="clean-lead">Find Maths, English and Science topic guides, digital practice and classroom resources by curriculum code, topic or year.</p>
+<main id="main-content" class="clean-wrap clean-main" tabindex="-1">
+  <h1>Australian Curriculum practice and teaching resources</h1>
+  <p>Explore free topic guides and practice. Create a free student account to save your progress.</p>
+  <section id="topic-search" class="clean-search" role="search" aria-label="Curriculum search">
+    <form id="home-topic-search" action="/" method="get">
+      <label for="site-search-input">Search by topic or code</label>
+      <div class="sp-search-field">
+        <input id="site-search-input" name="q" type="search" placeholder="e.g. numbers to 120 or AC9M1N01" aria-controls="site-search-results" autocomplete="off">
+        <button type="submit">Search</button>
       </div>
-      <section id="topic-search" class="sp-search site-search clean-search" role="search" aria-label="Curriculum search">
-        <form id="home-topic-search" action="/" method="get">
-          <label for="site-search-input">Search the curriculum</label>
-          <div class="sp-search-field">
-            <input id="site-search-input" name="q" type="search" placeholder="e.g. AC9M1N01 or fractions" aria-describedby="site-search-help" aria-controls="site-search-results" autocomplete="off">
-            <button type="submit">Search</button>
-          </div>
-          <p class="sp-search-hint" id="site-search-help">Find free topic guides, published digital practice and matching paid worksheet packs.</p>
-          <div class="sp-filters">
-            <label for="search-year">Year <select id="search-year"><option value="">All years</option><option value="0">Foundation</option><option value="1">Year 1</option><option value="2">Year 2</option><option value="3">Year 3</option><option value="4">Year 4</option><option value="5">Year 5</option><option value="6">Year 6</option><option value="7">Year 7</option><option value="8">Year 8</option><option value="9">Year 9</option><option value="10">Year 10</option></select></label>
-            <label for="search-subject">Subject <select id="search-subject"><option value="">All subjects</option><option value="maths">Maths</option><option value="english">English</option><option value="science">Science</option></select></label>
-          </div>
-        </form>
-        <div id="site-search-results" class="sp-results" hidden><p id="site-search-status" role="status" aria-live="polite"></p><ul id="site-search-list"></ul></div>
-        <noscript><p>JavaScript is needed for instant search. <a href="/sitemap.html">Browse the curriculum site map</a> or <a href="/teach/">browse teacher resources by year</a>.</p></noscript>
-      </section>
-    </div>
-  </section>
-
-  <section class="clean-wrap clean-paths" aria-labelledby="choose-path-title">
-    <h2 id="choose-path-title" class="clean-visually-hidden">Choose how to use SkillrHub</h2>
-    <div class="clean-path-grid">
-      <article class="clean-path clean-path--student">
-        <span class="clean-path-icon" aria-hidden="true"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M7 20H4v-3L16 5l3 3L7 20Zm7-13 3 3M11 20h9"/></svg></span>
-        <h3>Student Digital Practice</h3>
-        <p>Choose your year, subject and skill. Answer real questions and get feedback as you go.</p>
-        <div class="clean-actions">
-          <a class="clean-action clean-action--blue" href="/?year=1&amp;subject=maths#topic-search" data-home-conversion="browse_topics" data-home-placement="student_card">Choose a Year 1 Maths skill →</a>
-          <a class="clean-action clean-action--outline" href="https://app.skillrhub.com/" data-home-conversion="practice_trial" data-home-placement="student_app">All practice years</a>
-        </div>
-        <p class="clean-small">Free guest practice where available. A free account lets you continue and save progress.</p>
-      </article>
-      <article class="clean-path clean-path--teacher">
-        <span class="clean-path-icon" aria-hidden="true"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="3" width="14" height="18" rx="2"/><path d="M9 8h6m-6 4h6m-6 4h4"/></svg></span>
-        <h3>Teacher Resources</h3>
-        <p>Browse free topic guides and classroom teaching resources by curriculum code. Explore optional worksheets, workbooks and answer keys as separately purchased packs.</p>
-        <div class="clean-actions">
-          <a class="clean-action clean-action--green" href="/teach/" data-home-conversion="teacher_resources" data-home-placement="teacher_card">Explore teacher resources →</a>
-          <a class="clean-action clean-action--outline" href="/print-and-go.html" data-home-conversion="teacher_resources" data-home-placement="teacher_printables">Worksheet packs &amp; previews</a>
-        </div>
-        <p class="clean-small">Topic guides are free. Buy optional full worksheet packs and included answer keys through Teachers Pay Teachers.</p>
-      </article>
-    </div>
-  </section>
-
-  <section class="clean-guide" id="choose-year" aria-labelledby="choose-year-title">
-    <div class="clean-wrap">
-      <p class="clean-eyebrow">Free topic guides · No sign-in required</p>
-      <h2 id="choose-year-title">Explore by year and subject</h2>
-      <p>Choose a year to browse Maths, English and Science topic guides.</p>
-      <details class="clean-year-picker">
-        <summary>Change year (Foundation–Year 10)</summary>
-        <div class="sp-year-tabs" role="group" aria-label="Choose curriculum year"><button type="button" data-guide-year="0" aria-label="Foundation" aria-pressed="false">F</button><button type="button" data-guide-year="1" aria-label="Year 1" aria-pressed="true">1</button><button type="button" data-guide-year="2" aria-label="Year 2" aria-pressed="false">2</button><button type="button" data-guide-year="3" aria-label="Year 3" aria-pressed="false">3</button><button type="button" data-guide-year="4" aria-label="Year 4" aria-pressed="false">4</button><button type="button" data-guide-year="5" aria-label="Year 5" aria-pressed="false">5</button><button type="button" data-guide-year="6" aria-label="Year 6" aria-pressed="false">6</button><button type="button" data-guide-year="7" aria-label="Year 7" aria-pressed="false">7</button><button type="button" data-guide-year="8" aria-label="Year 8" aria-pressed="false">8</button><button type="button" data-guide-year="9" aria-label="Year 9" aria-pressed="false">9</button><button type="button" data-guide-year="10" aria-label="Year 10" aria-pressed="false">10</button></div>
-      </details>
-      <p id="guide-year-label" class="clean-guide-label" aria-live="polite">Showing Year 1 topic guides</p>
-      <div class="clean-subjects">
-        <a data-guide-subject="maths" href="/year1/curriculum/maths/"><strong>Year 1 Maths</strong><small>Numbers, patterns, measurement and more →</small></a>
-        <a data-guide-subject="english" href="/year1/curriculum/english/"><strong>Year 1 English</strong><small>Reading, language and writing →</small></a>
-        <a data-guide-subject="science" href="/year1/curriculum/science/"><strong>Year 1 Science</strong><small>Inquiry, living things and physical science →</small></a>
-      </div>
-    </div>
-  </section>
-
-  <section class="clean-wrap clean-topics" aria-labelledby="topic-guide-title">
-    <h2 id="topic-guide-title">Start with a useful topic guide</h2>
-    <p>Read free explanations and worked examples for these curriculum topics.</p>
-    <nav class="clean-topic-links" aria-label="Popular curriculum topic guides">
-      <a href="/year1/maths/ac9m1n01-numbers-to-120/">Year 1 · Numbers to 120</a>
-      <a href="/year1/maths/ac9m1n04-addition-and-subtraction-within-20/">Year 1 · Addition and subtraction</a>
-      <a href="/year1/english/ac9e1la06-that-a-simple-sentence-consists-of-a-single-independent-clause/">Year 1 · Simple sentences</a>
-      <a href="/year1/science/ac9s1u03-pushes-and-pulls/">Year 1 · Pushes and pulls</a>
-      <a href="/us-resources/">US curriculum resources</a>
-    </nav>
-    <details class="clean-year-picker"><summary>More topic guides</summary>
-      <nav class="clean-topic-links" aria-label="More curriculum topic guides">
-        <a href="/year3/curriculum/english/">Year 3 · Reading and comprehension</a>
-        <a href="/year2/maths/ac9m2n03-and-describe-one-half-as-one-of-2-equal-parts-of/">Year 2 · Fractions</a>
-        <a href="/year3/maths/ac9m3m04-the-relationship-between-the-hours-and-minutes-on-analog-and/">Year 3 · Telling time</a>
-        <a href="/year4/maths/ac9m4a02-recall-and-demonstrate-proficiency-with-multiplication-facts-up/">Year 4 · Times tables</a>
-        <a href="/year5/maths/ac9m5n01-interpret-compare-and-order-numbers-with-more-than-2-decimal/">Year 5 · Decimal place value</a>
-        <a href="/year5/maths/ac9m5n04-that-100-represents-the-complete-whole-and-use-percentages-to/">Year 5 · Fractions and percentages</a>
-      </nav>
-    </details>
-  </section>
-  <section class="clean-wrap clean-faq" aria-labelledby="faq-title">
-    <h2 id="faq-title">Good to know</h2>
-    <details><summary>Can students start without an account?</summary><p>Yes. Guest practice is available for supported curriculum banks, including the Year 1 Maths starting activity. Other banks may require free registration.</p></details>
-    <details><summary>Do teachers need to pay to access topic guides?</summary><p>No. Free topic guides and digital practice are separate from optional paid teaching and printable packs. You can register for an account without buying a worksheet.</p></details>
-    <details><summary>Where are full worksheets and answer keys?</summary><p>Paid printable resources are sold through Teachers Pay Teachers. Search a curriculum code for matching listings and use the listing preview before purchase. Full paid packs and answer keys are not provided by this homepage.</p></details>
+      <input type="hidden" id="search-year">
+      <input type="hidden" id="search-subject">
+    </form>
+    <div id="site-search-results" class="sp-results" hidden><p id="site-search-status" role="status" aria-live="polite"></p><ul id="site-search-list"></ul></div>
+    <noscript><p><a href="/curriculum-index/">Browse the curriculum index</a>.</p></noscript>
   </section>
 </main>
-<footer class="clean-footer"><div class="clean-wrap clean-footer-inner"><div><strong>SkillrHub</strong><p>Learn. Practise. Grow.</p><p>© 2026 SkillrHub</p></div><nav aria-label="Footer navigation"><a href="/about.html">About</a><a href="/faq.html">FAQ</a><a href="/teach/">For teachers</a><a href="/print-and-go.html">Print &amp; Go</a><a href="/sitemap.html">Sitemap</a><a href="/free-k-10-question-bank.html">Practice catalogue</a><a href="/editorial-standards.html">Editorial standards</a><a href="/contact.html">Contact</a><a href="/privacy-policy.html">Privacy</a><a href="/homeschooling-australia/">Homeschooling</a></nav></div></footer>
+<footer class="clean-wrap clean-footer">
+  <nav aria-label="Community and support">
+    <a href="/curriculum-index/">Curriculum index</a>
+    <a href="/blogs/">Useful blogs</a>
+    <a href="/about.html">About</a>
+    <a href="/contact.html">Contact us</a>
+    <a href="https://www.facebook.com/1139028835969651">Follow us on Facebook</a>
+    <details><summary>Need help?</summary><ul><li><a href="/faq.html">FAQs</a></li><li><a href="/contact.html">Contact us</a></li><li><a href="https://m.me/61591597270383">Chat on Messenger</a></li></ul></details>
+  </nav>
+  <a class="clean-chat" href="https://m.me/61591597270383" aria-label="Chat with us on Facebook Messenger">Chat with us</a>
+</footer>
 </div>
 <script>
 (function(){function loadDeferred(){if(window.__skillrDeferredScriptsLoaded)return;window.__skillrDeferredScriptsLoaded=true;window.dataLayer=window.dataLayer||[];window.gtag=window.gtag||function(){window.dataLayer.push(arguments)};window.gtag("js",new Date());window.gtag("config","G-8P22BET45N");var s=document.createElement("script");s.src="https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N";s.async=true;document.head.appendChild(s)}if(document.readyState==="complete"||document.readyState==="interactive")setTimeout(loadDeferred,1200);else window.addEventListener("load",function(){setTimeout(loadDeferred,1200)},{once:true})})();
@@ -271,6 +197,6 @@ document.addEventListener('click',function(event){var link=event.target.closest&
 </script>
 <script src="/pwa-register.js?v=7"></script>
 <script src="/share-button.js?v=20260912-5"></script>
-<script src="/assets/home-topic-search.js?v=clean-home-20261104-2" defer></script>
+<script src="/assets/home-topic-search.js?v=search-first-1" defer></script>
 </body>
 </html>

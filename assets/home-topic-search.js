@@ -106,7 +106,7 @@
       }).sort(function (a,b) { return b.score-a.score || Number(a.item.year)-Number(b.item.year) || a.item.title.localeCompare(b.item.title); });
       var limit = yearFilter.value && subjectFilter.value ? 20 : 8;
       list.replaceChildren();
-      status.textContent = matches.length ? (matches.length > limit ? 'Showing '+limit+' of '+matches.length+' matching topics. Refine your search for more.' : matches.length+' matching topic'+(matches.length === 1 ? '' : 's')+'.') : 'No matching topics. Try fewer words, another year or a curriculum code.';
+      status.textContent = matches.length ? (matches.length > limit ? 'Showing '+limit+' of '+matches.length+' matching topics. Refine your search for more.' : matches.length+' matching topic'+(matches.length === 1 ? '' : 's')+'.') : 'No matching topics. Try fewer words or a curriculum code.';
       matches.slice(0,limit).forEach(function (match) {
         var item=match.item, bank=data[1].get(item.code);
         var row=document.createElement('li'), title=document.createElement('a'), meta=document.createElement('p'), actions=document.createElement('div');
@@ -124,30 +124,12 @@
         title.setAttribute('aria-label', item.title+' · free topic guide');
         row.append(title,meta,actions); list.append(row);
       });
-    } catch (_) { if(ticket === request) message('Search is temporarily unavailable. Browse the topic guides by year below.'); }
+    } catch (_) { if(ticket === request) message('Search is temporarily unavailable. Use the curriculum index in the footer.'); }
   }
   input.addEventListener('input', runSearch);
   input.addEventListener('focus', function () { loadCatalogue().catch(function () {}); });
   input.addEventListener('keydown', function (event) { if(event.key==='Escape'){++request;results.hidden=true;} });
   form.addEventListener('submit', function (event) { event.preventDefault(); runSearch(); });
-  yearFilter.addEventListener('change', runSearch); subjectFilter.addEventListener('change', runSearch);
-  function setGuideYear(year, save) {
-    if (!/^([0-9]|10)$/.test(String(year))) year='1';
-    var label=String(year)==='0' ? 'Foundation' : 'Year '+year, base=String(year)==='0' ? 'foundation' : 'year'+year;
-    root.querySelectorAll('[data-guide-year]').forEach(function (button) { button.setAttribute('aria-pressed',String(button.dataset.guideYear===String(year))); });
-    root.querySelectorAll('[data-guide-subject]').forEach(function (link) {
-      link.href='/'+base+'/curriculum/'+link.dataset.guideSubject+'/';
-      link.querySelector('strong').textContent=label+' '+names[link.dataset.guideSubject];
-    });
-    root.querySelector('#guide-year-label').textContent='Showing '+label+' topic guides';
-    if(save) {
-      try {localStorage.setItem('skillrHomeYear',base);} catch (_) {}
-    }
-  }
-  root.querySelectorAll('[data-guide-year]').forEach(function(button){button.addEventListener('click',function(){setGuideYear(button.dataset.guideYear,true);});});
-  var saved='year1';try{saved=localStorage.getItem('skillrHomeYear') || saved;}catch(_){}
-  setGuideYear(saved==='foundation' ? '0' : saved.replace('year',''),false);
-  root.querySelector('.sp-quick-search').addEventListener('click',function(event){event.preventDefault();input.focus({preventScroll:true});root.querySelector('#topic-search').scrollIntoView({block:'start',behavior:window.matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'});});
   var params = new URLSearchParams(location.search);
   var year = params.get('year'), subject = params.get('subject');
   if (/^(?:[0-9]|10)$/.test(year || '')) yearFilter.value = year;
