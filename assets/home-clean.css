@@ -66,3 +66,37 @@ body.home-page:has(#skillr-home .clean-header) > .skillr-site-header{display:non
 #skillr-home .resource-request input,#skillr-home .resource-request select,#skillr-home .resource-request textarea{display:block;width:100%;min-height:44px;border:1px solid var(--skillr-control-border);border-radius:8px;background:var(--skillr-surface);color:var(--skillr-text);font:inherit;padding:8px 10px}
 #skillr-home .resource-request button{margin:10px 8px 8px 0}
 #skillr-home #request-copy{min-height:44px;border:1px solid var(--skillr-control-border);border-radius:8px;background:var(--skillr-surface);color:var(--skillr-primary);font:inherit;padding:8px 12px}
+
+/* Compact Messenger contact entry point; no iframe, SDK, or intrusive popup. */
+#skillr-home .clean-messenger-float {
+  position: fixed;
+  right: max(16px, env(safe-area-inset-right));
+  bottom: max(18px, env(safe-area-inset-bottom));
+  z-index: 60;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 9px;
+  min-height: 50px;
+  padding: 10px 15px;
+  border-radius: 100px;
+  background: var(--skillr-primary);
+  color: var(--skillr-on-primary);
+  box-shadow: 0 5px 20px #16324a29;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 700;
+}
+#skillr-home .clean-messenger-float svg { width: 24px; height: 24px; flex: none; fill: currentColor; }
+#skillr-home .clean-messenger-float:hover { filter: brightness(.94); }
+#skillr-home .clean-messenger-float:focus-visible { outline: 3px solid var(--skillr-text); outline-offset: 3px; }
+@media (max-width: 540px) {
+  #skillr-home .clean-messenger-float {
+    right: max(12px, env(safe-area-inset-right));
+    bottom: max(12px, env(safe-area-inset-bottom));
+    min-width: 52px;
+    min-height: 52px;
+    padding: 13px;
+  }
+  #skillr-home .clean-messenger-float span { display: none; }
+}
