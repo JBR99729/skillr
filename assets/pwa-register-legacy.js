@@ -282,7 +282,6 @@
   };
 
   function normalizeSharedChrome() {
-    if (document.querySelector("#skillr-home .clean-header")) return;
     const currentPath = path.replace(/index\.html$/, "");
     // One site-wide menu. Breadcrumbs and lesson/activity controls remain local.
     if (!document.querySelector(".skillr-site-header")) {
