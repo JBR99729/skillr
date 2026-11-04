@@ -138,18 +138,31 @@ function transform(source,info) {
   if(/<meta\b[^>]*http-equiv=["']refresh["']/i.test(source)||/data-legacy-quiz-retired/i.test(source))return {reason:'redirect'};
   if(!/<\/head>/i.test(source)||!/<\/body>/i.test(source)||!/<body\b/i.test(source))return {reason:'not-html-page'};
   const hero=/<header\b[^>]*class=["'][^"']*\bcurriculum-hero\b[^"']*["'][^>]*>/i.exec(source);
-  if(!hero)return {reason:'no-curriculum-hero'};
+  // Some authored F–10 pages use a plain main element rather than the
+  // standard hero. Add the same static first-screen panel before main.
+  const plainMain=/<main\b[^>]*>/i.exec(source);
+  const insertion=hero||plainMain;
+  if(!insertion||!/<h1\b/i.test(source))return {reason:'no-page-insertion-point'};
   const bank=available.get(info.code);
   const questions=bank?.practice?sample(info.year,info.subject,info.code):[];
   const mode=questions.length===3&&bank?.practice?'questions':bank?.practice?'app-only':'coming-soon';
   const oldH1=/<h1\b[^>]*>([\s\S]*?)<\/h1>/i.exec(source)?.[1]||'';
   const title=plain(oldH1)||info.code;
   const html=firstPanel({...info,title,bank,questions});
-  let out=source.slice(0,hero.index)+html+source.slice(hero.index);
+  let out=source.slice(0,insertion.index)+html+source.slice(insertion.index);
   if(!out.includes('topic-first-panels.css'))out=out.replace(/<\/head>/i,stylesheet+'</head>');
   if(!out.includes('topic-first-panels.js'))out=out.replace(/<\/body>/i,loader+'</body>');
-  const attrs=[...out.matchAll(/\bid=["']([^"']+)["']/g)].map(m=>m[1]);
-  if(new Set(attrs).size!==attrs.length)return {reason:'duplicate-id-conflict'};
+  const countIds=txt=>{
+    const counts=new Map();
+    for(const m of txt.matchAll(/\bid=["']([^"']+)["']/g))counts.set(m[1],(counts.get(m[1])||0)+1);
+    return counts;
+  };
+  const oldIds=countIds(source),newIds=countIds(out);
+  // Never add a new duplicate; pre-existing duplicate IDs are recorded
+  // separately and are not grounds for withholding a purely additive panel.
+  for(const [id,count] of newIds){
+    if(count>Math.max(1,oldIds.get(id)||0))return {reason:'new-duplicate-id-conflict'};
+  }
   if(!out.includes('<h1')||!out.includes('skillr-topic-first__signup'))return {reason:'structure-check'};
   if(!out.includes('https://app.skillrhub.com/?signup=1'))return {reason:'signup-missing'};
   return {html:out,mode};
@@ -170,7 +183,7 @@ function topicFiles() {
   }
   return result.sort((a,b)=>a.file.localeCompare(b.file));
 }
-const stats={examined:0,updated:0,realQuestions:0,appOnly:0,comingSoon:0,skipped:{},examples:[],byYear:{}};
+const stats={examined:0,updated:0,realQuestions:0,appOnly:0,comingSoon:0,skipped:{},skippedExamples:[],coverage:{total:0,questions:0,appOnly:0,comingSoon:0,existingBlueprint:0},examples:[],byYear:{}};
 for(const item of topicFiles()){
   stats.examined++;
   const current=fs.readFileSync(item.file,'utf8');
@@ -187,6 +200,19 @@ for(const item of topicFiles()){
   }else{
     const reason=changed.reason||'unchanged';
     stats.skipped[reason]=(stats.skipped[reason]||0)+1;
+    if(reason!=='already-designed'&&stats.skippedExamples.length<100){
+      stats.skippedExamples.push({path:path.relative(ROOT,item.file).replaceAll(path.sep,'/'),reason});
+    }
+  }
+  const page=changed.html||current;
+  if(page.includes(startMarker)){
+    stats.coverage.total++;
+    const mode=page.match(/data-topic-state=["']([^"']+)["']/)?.[1];
+    if(mode==='questions')stats.coverage.questions++;
+    else if(mode==='app-only')stats.coverage.appOnly++;
+    else if(mode==='coming-soon')stats.coverage.comingSoon++;
+  }else if(page.includes('id="try-questions"')){
+    stats.coverage.total++;stats.coverage.existingBlueprint++;
   }
   stats.byYear[item.year]=yr;
 }
