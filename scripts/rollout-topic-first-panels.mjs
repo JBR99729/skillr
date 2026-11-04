@@ -4,7 +4,7 @@
  * authored lessons or inventing questions. Uses only verified published app
  * catalogue entries and the repository's own practice questions.
  *
- * Use: node scripts/rollout-topic-first-panels.mjs [--write] [--year=year1]
+ * Use: node scripts/rollout-topic-first-panels.mjs [--write] [--year=year1] [--code=AC9M1N01]
  * Default is dry-run. Idempotent on repeated runs.
  */
 import fs from 'node:fs';
@@ -14,6 +14,8 @@ import vm from 'node:vm';
 const ROOT = process.cwd();
 const WRITE = process.argv.includes('--write');
 const YEAR_ARG = process.argv.find(x => x.startsWith('--year='))?.slice(7);
+const CODE_ARG = process.argv.find(x => x.startsWith('--code='))?.slice(7)?.toUpperCase();
+if(CODE_ARG && !/^AC9[A-Z0-9]+$/.test(CODE_ARG))throw new Error('Invalid curriculum code '+CODE_ARG);
 const YEARS = ['foundation', ...Array.from({length:10},(_,i)=>'year'+(i+1))];
 const SUBJECTS = ['maths','science','english'];
 if (YEAR_ARG && !YEARS.includes(YEAR_ARG)) throw new Error('Unknown year '+YEAR_ARG);
@@ -134,7 +136,11 @@ function firstPanel({year,subject,code,title,bank,questions}) {
     '<a class="skillr-topic-first__signup" href="https://app.skillrhub.com/?signup=1">Create your free account →</a></div>'+data+'</section>'+endMarker;
 }
 function transform(source,info) {
-  if(source.includes(startMarker)||source.includes('id="try-questions"')||source.includes('id="skillr-topic-first"'))return {reason:'already-designed'};
+  // The original Numbers to 20 blueprint remains bespoke.
+  // All generated panels are upgradeable: once a code's verified bank is
+  // published, rerun --code=CODE --write to replace only its placeholder.
+  const existingStart=source.indexOf(startMarker);
+  if(existingStart<0&&(source.includes('id="try-questions"')||source.includes('id="skillr-topic-first"')))return {reason:'already-designed'};
   if(/<meta\b[^>]*http-equiv=["']refresh["']/i.test(source)||/data-legacy-quiz-retired/i.test(source))return {reason:'redirect'};
   if(!/<\/head>/i.test(source)||!/<\/body>/i.test(source)||!/<body\b/i.test(source))return {reason:'not-html-page'};
   const hero=/<header\b[^>]*class=["'][^"']*\bcurriculum-hero\b[^"']*["'][^>]*>/i.exec(source);
@@ -142,14 +148,23 @@ function transform(source,info) {
   // standard hero. Add the same static first-screen panel before main.
   const plainMain=/<main\b[^>]*>/i.exec(source);
   const insertion=hero||plainMain;
-  if(!insertion||!/<h1\b/i.test(source))return {reason:'no-page-insertion-point'};
+  if(existingStart<0&&(!insertion||!/<h1\b/i.test(source)))return {reason:'no-page-insertion-point'};
   const bank=available.get(info.code);
   const questions=bank?.practice?sample(info.year,info.subject,info.code):[];
   const mode=questions.length===3&&bank?.practice?'questions':bank?.practice?'app-only':'coming-soon';
   const oldH1=/<h1\b[^>]*>([\s\S]*?)<\/h1>/i.exec(source)?.[1]||'';
   const title=plain(oldH1)||info.code;
   const html=firstPanel({...info,title,bank,questions});
-  let out=source.slice(0,insertion.index)+html+source.slice(insertion.index);
+  let out;
+  if(existingStart>=0){
+    const oldEnd=source.indexOf(endMarker,existingStart);
+    if(oldEnd<0)return {reason:'unclosed-existing-panel'};
+    const afterOld=oldEnd+endMarker.length;
+    if(source.slice(existingStart,afterOld)===html)return {reason:'already-designed'};
+    out=source.slice(0,existingStart)+html+source.slice(afterOld);
+  }else{
+    out=source.slice(0,insertion.index)+html+source.slice(insertion.index);
+  }
   if(!out.includes('topic-first-panels.css'))out=out.replace(/<\/head>/i,stylesheet+'</head>');
   if(!out.includes('topic-first-panels.js'))out=out.replace(/<\/body>/i,loader+'</body>');
   const countIds=txt=>{
@@ -177,7 +192,7 @@ function topicFiles() {
       for(const entry of fs.readdirSync(dir,{withFileTypes:true})){
         if(!entry.isDirectory()||!/^ac9[a-z0-9]+(?:-|$)/i.test(entry.name))continue;
         const file=path.join(dir,entry.name,'index.html');
-        if(fs.existsSync(file))result.push({file,year,subject,code:entry.name.split('-')[0].toUpperCase()});
+        if(fs.existsSync(file)&&(!CODE_ARG||entry.name.split('-')[0].toUpperCase()===CODE_ARG))result.push({file,year,subject,code:entry.name.split('-')[0].toUpperCase()});
       }
     }
   }
@@ -217,7 +232,7 @@ for(const item of topicFiles()){
   stats.byYear[item.year]=yr;
 }
 const output=JSON.stringify(stats,null,2);
-if(WRITE){
+if(WRITE&&!CODE_ARG){
   const report=path.join(ROOT,'docs','qa','2026-11-05-topic-first-panel-rollout.json');
   fs.mkdirSync(path.dirname(report),{recursive:true});
   fs.writeFileSync(report,output+'\n');
