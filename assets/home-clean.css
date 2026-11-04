@@ -1,0 +1,59 @@
+/*
+ * SkillrHub web brand colours v1.1
+ * Approved reference: search-first homepage and Numbers to 120 topic mock.
+ * Required across skillrhub.com and app.skillrhub.com: every webpage uses
+ * these exact tokens for its UI, including each curriculum code/topic page,
+ * the curriculum index, search, practice, dashboards, account screens,
+ * teacher and tutor resources, support, About and blogs.
+ * Reuse these tokens in shared styles. Avoid page-specific colour overrides.
+ * Product previews, teaching slides and instructional graphics retain their
+ * original artwork.
+ * Blue is for links and primary actions. Green is for progress and success.
+ * Use the stronger border for search fields and controls, and the softer
+ * border for topic panels. Keep dark mode paired with the same colour roles.
+ * Treat changes to these values as a brand revision for owner review.
+ */
+:root {
+  color-scheme: light dark;
+  --skillr-surface: light-dark(#FFFFFF, #152434);
+  --skillr-soft-surface: light-dark(#F2F7FF, #202F43);
+  --skillr-text: light-dark(#16324A, #EDF5FF);
+  --skillr-text-secondary: light-dark(#486279, #BACDDD);
+  --skillr-primary: light-dark(#205DC1, #A3C8FF);
+  --skillr-on-primary: light-dark(#FFFFFF, #14253A);
+  --skillr-progress: light-dark(#187553, #7BDDB3);
+  --skillr-control-border: light-dark(#B7C9DC, #56708E);
+  --skillr-panel-border: light-dark(#D8E5F1, #40536A);
+}
+
+body.home-page{margin:0}
+#skillr-home{min-height:100vh;background:var(--skillr-surface);color:var(--skillr-text);font:16px/1.55 Inter,system-ui,sans-serif}
+#skillr-home *{box-sizing:border-box}
+#skillr-home [hidden],#skillr-home .clean-footer>.footer-nav,#skillr-messenger-bubble,#skillr-resource-links{display:none!important}
+#skillr-home a{color:var(--skillr-primary);text-underline-offset:3px}
+#skillr-home :focus-visible{outline:2px solid var(--skillr-primary);outline-offset:3px}
+#skillr-home .clean-wrap{width:min(1080px,calc(100% - 32px));margin-inline:auto}
+#skillr-home .clean-header,#skillr-home .clean-footer{display:flex;justify-content:space-between;align-items:flex-start;gap:10px 20px;flex-wrap:wrap;padding:12px 0}
+#skillr-home .clean-header{border-bottom:1px solid var(--skillr-panel-border)}
+#skillr-home .clean-header nav,#skillr-home .clean-footer nav{display:flex;gap:0 18px;align-items:flex-start;flex-wrap:wrap}
+#skillr-home .clean-header a,#skillr-home .clean-footer a,#skillr-home summary{display:inline-flex;align-items:center;min-height:44px;font-size:14px}
+#skillr-home a.clean-brand{gap:8px;color:var(--skillr-text);font-size:20px;font-weight:750;text-decoration:none}
+#skillr-home .clean-main{max-width:650px;padding:44px 0 40px}
+#skillr-home h1{font-size:clamp(27px,5vw,40px);line-height:1.14;letter-spacing:-.03em;margin:0 0 10px}
+#skillr-home p{color:var(--skillr-text-secondary)}
+#skillr-home .clean-main>p{margin:0 0 20px}
+#skillr-home .clean-search label{display:block;margin-bottom:7px;font-weight:650}
+#skillr-home .sp-search-field{display:flex;gap:7px;align-items:center;border:1px solid var(--skillr-control-border);border-radius:10px;padding:4px 5px 4px 10px}
+#skillr-home .sp-search-field input{flex:1;min-width:0;min-height:44px;border:0;background:transparent;color:var(--skillr-text);font:inherit}
+#skillr-home input::placeholder{color:var(--skillr-text-secondary)}
+#skillr-home .sp-search-field button,#skillr-home .clean-chat{min-height:44px;background:var(--skillr-primary);color:var(--skillr-on-primary);border:0;border-radius:8px;padding:8px 12px;font:inherit;text-decoration:none}
+#skillr-home .sp-results ul{list-style:none;padding:0}
+#skillr-home .sp-results li{border-top:1px solid var(--skillr-panel-border);padding:12px 0}
+#skillr-home .sp-result-meta{font-size:14px;margin:4px 0}
+#skillr-home .sp-result-actions{display:flex;gap:8px 14px;flex-wrap:wrap;font-size:14px}
+#skillr-home .sp-result-actions a{display:inline-flex;align-items:center;min-height:44px}
+#skillr-home .clean-footer{border-top:1px solid var(--skillr-panel-border)}
+#skillr-home .clean-footer ul{margin:0;padding-left:16px}
+#skillr-home summary{color:var(--skillr-primary);text-decoration:underline;cursor:pointer}
+#skillr-home .clean-skip{position:absolute;left:12px;top:8px;padding:10px;background:var(--skillr-surface)}
+#skillr-home .clean-skip:not(:focus){clip-path:inset(50%)}
