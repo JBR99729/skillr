@@ -40,18 +40,6 @@
     feedback.classList.remove('is-incorrect');
     feedback.textContent='';
   }
-  function finish(){
-    fieldset.disabled=true;
-    check.hidden=true;
-    next.hidden=true;
-    feedback.hidden=false;
-    feedback.classList.remove('is-incorrect');
-    feedback.textContent='Preview complete: '+correct+' of '+questions.length+' correct. Continue free practice in the app to record your learning on the dashboard.';
-    counter.textContent='All '+questions.length+' preview questions checked';
-    score.textContent='Preview: '+correct+' correct out of '+questions.length+' (not saved)';
-    const primary=section.querySelector('[data-preview-destination=practice]');
-    primary?.focus();
-  }
   form.addEventListener('submit',event=>{
     event.preventDefault();
     if(marked)return;
@@ -70,14 +58,14 @@
     score.textContent='Preview: '+checked+' of '+questions.length+' checked · '+correct+' correct (not saved)';
     next.hidden=index===questions.length-1;
     if(index===questions.length-1){
-      counter.textContent='Question '+questions.length+' of '+questions.length+' checked';
-      check.hidden=true;
+      counter.textContent='All '+questions.length+' preview questions checked';
+      feedback.textContent+=' Preview complete: '+correct+' of '+questions.length+' correct. Open free practice to save new answers on your learner dashboard.';
       const primary=section.querySelector('[data-preview-destination=practice]');
       if(primary)primary.textContent='Continue with free questions →';
     }
     report('topic_preview_answer',{question_id:q.id,correct:isCorrect});
   });
-  next.addEventListener('click',()=>{if(!marked || index>=questions.length-1)return;index+=1;draw();legend.focus?.();});
+  next.addEventListener('click',()=>{if(!marked || index>=questions.length-1)return;index+=1;draw();legend.focus();});
   for(const link of section.querySelectorAll('a[data-preview-destination]')){
     link.addEventListener('click',()=>report('topic_preview_navigation',{destination:link.dataset.previewDestination}));
   }
