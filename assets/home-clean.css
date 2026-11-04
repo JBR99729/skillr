@@ -57,3 +57,6 @@ body.home-page{margin:0}
 #skillr-home summary{color:var(--skillr-primary);text-decoration:underline;cursor:pointer}
 #skillr-home .clean-skip{position:absolute;left:12px;top:8px;padding:10px;background:var(--skillr-surface)}
 #skillr-home .clean-skip:not(:focus){clip-path:inset(50%)}
+
+/* The homepage owns its header, including with a cached navigation helper. */
+body.home-page:has(#skillr-home .clean-header) > .skillr-site-header{display:none!important}
