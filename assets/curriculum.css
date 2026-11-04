@@ -1026,3 +1026,18 @@ a[href^="/quiz/year-7/science/"][href*="/worksheet/"] {
 body:has(>#skillr-topic-practice-now:not([hidden])){padding-bottom:80px}
 @media(max-width:480px){#skillr-topic-practice-now{padding:10px 15px;font-size:14px}}
 @media print{#skillr-topic-practice-now{display:none!important}body:has(>#skillr-topic-practice-now){padding-bottom:0}}
+
+/* Topic guides offer one published practice entry. Assessments stay in the app. */
+body:is(.skillr-resource--topic, .topic-learning-page) :is(
+  a[data-assessment],
+  a[href*="app.skillrhub.com/"][href*="assessment="],
+  a[href="#online-checks"],
+  a[href*="/quiz/"]:not([href*="/worksheet"], [href*="/homework"], [href*="/assets/"])
+),
+body:is(.skillr-resource--topic, .topic-learning-page):has(a#skillr-topic-practice-now:not([hidden])) :is(
+  a[data-free-practice],
+  a[href*="app.skillrhub.com/"][href*="skill="]
+):not(#skillr-topic-practice-now),
+body:is(.skillr-resource--topic, .topic-learning-page):has(a#skillr-topic-practice-now:not([hidden])) .topic-online-checks {
+  display: none !important;
+}
