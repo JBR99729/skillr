@@ -1,154 +1,289 @@
 {
   "examined": 708,
-  "updated": 613,
-  "realQuestions": 158,
-  "appOnly": 4,
-  "comingSoon": 451,
+  "updated": 62,
+  "realQuestions": 58,
+  "appOnly": 1,
+  "comingSoon": 3,
   "skipped": {
-    "already-designed": 1,
-    "duplicate-id-conflict": 39,
-    "redirect": 32,
-    "no-curriculum-hero": 23
+    "already-designed": 614,
+    "redirect": 32
+  },
+  "skippedExamples": [
+    {
+      "path": "year10/science/ac9s10h01-explain-how-scientific-knowledge-is-validated-and-refined/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year10/science/ac9s10h02-investigate-how-advances-in-technologies-enable-advances-in/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year10/science/ac9s10h03-analyse-the-key-factors-that-contribute-to-science-knowledge-and/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year10/science/ac9s10h04-examine-how-the-values-and-needs-of-society-influence-the/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year10/science/ac9s10i01-develop-investigable-questions-reasoned-predictions-and/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year10/science/ac9s10i02-plan-and-conduct-valid-reproducible-investigations-to-answer/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year10/science/ac9s10i03-select-and-use-equipment-to-generate-and-record-data-with/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year10/science/ac9s10i04-select-and-construct-appropriate-representations-including/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year10/science/ac9s10i05-analyse-and-connect-a-variety-of-data-and-information-to/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year10/science/ac9s10i06-assess-the-validity-and-reproducibility-of-methods-and-evaluate/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year10/science/ac9s10i07-construct-arguments-based-on-analysis-of-a-variety-of-evidence/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year10/science/ac9s10i08-and-create-texts-to-communicate-ideas-findings-and-arguments/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year10/science/ac9s10u01-explain-the-role-of-meiosis-and-mitosis-and-the-function/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year10/science/ac9s10u02-the-theory-of-evolution-by-natural-selection-to-explain-past/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year10/science/ac9s10u03-how-the-big-bang-theory-models-the-origin-and-evolution/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year10/science/ac9s10u04-models-of-energy-flow-between-the-geosphere-biosphere/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year10/science/ac9s10u05-investigate-newton-s-laws-of-motion-and-quantitatively-analyse/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year10/science/ac9s10u06-explain-how-the-structure-and-properties-of-atoms-relate-to/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year10/science/ac9s10u07-patterns-in-synthesis-decomposition-and-displacement-reactions/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year8/science/ac9s8i01-develop-investigable-questions-reasoned-predictions-and/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year9/science/ac9s9h01-explain-how-scientific-knowledge-is-validated-and-refined/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year9/science/ac9s9h02-investigate-how-advances-in-technologies-enable-advances-in/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year9/science/ac9s9h03-analyse-the-key-factors-that-contribute-to-science-knowledge-and/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year9/science/ac9s9h04-examine-how-the-values-and-needs-of-society-influence-the/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year9/science/ac9s9i01-develop-investigable-questions-reasoned-predictions-and/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year9/science/ac9s9u01-the-role-of-body-systems-in-regulating-and-coordinating-the/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year9/science/ac9s9u02-the-form-and-function-of-reproductive-cells-and-organs-in/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year9/science/ac9s9u03-represent-the-carbon-cycle-and-examine-how-key-processes/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year9/science/ac9s9u04-wave-and-particle-models-to-describe-energy-transfer-through/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year9/science/ac9s9u05-apply-the-law-of-conservation-of-energy-to-analyse-system/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year9/science/ac9s9u06-explain-how-the-model-of-the-atom-changed-following-the/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year9/science/ac9s9u07-model-the-rearrangement-of-atoms-in-chemical-reactions-using-a/index.html",
+      "reason": "redirect"
+    }
+  ],
+  "coverage": {
+    "total": 676,
+    "questions": 216,
+    "appOnly": 5,
+    "comingSoon": 454,
+    "existingBlueprint": 1
   },
   "examples": [
     {
-      "path": "foundation/english/ac9efla01-how-language-is-used-differently-at-home-and-school-depending/index.html",
+      "path": "year1/english/ac9e1la01-how-language-facial-expressions-and-gestures-are-used-to/index.html",
       "mode": "questions"
     },
     {
-      "path": "foundation/english/ac9efla02-different-ways-of-using-language-to-express-preferences-likes/index.html",
+      "path": "year1/english/ac9e1la02-language-to-provide-reasons-for-likes-dislikes-and-preferences/index.html",
       "mode": "questions"
     },
     {
-      "path": "foundation/english/ac9efla03-that-texts-can-take-many-forms-such-as-signs-books/index.html",
+      "path": "year1/english/ac9e1la03-how-texts-are-organised-according-to-their-purpose-such-as/index.html",
       "mode": "questions"
     },
     {
-      "path": "foundation/english/ac9efla04-conventions-of-print-and-screen-including-how-books-and-simple/index.html",
+      "path": "year1/english/ac9e1la04-how-repetition-rhyme-and-rhythm-create-cohesion-in-simple-poems/index.html",
       "mode": "questions"
     },
     {
-      "path": "foundation/english/ac9efla05-that-sentences-are-key-units-for-expressing-ideas/index.html",
+      "path": "year1/english/ac9e1la05-how-print-and-screen-texts-are-organised-using-features-such/index.html",
       "mode": "questions"
     },
     {
-      "path": "foundation/english/ac9efla06-that-sentences-are-made-up-of-groups-of-words-that/index.html",
+      "path": "year1/english/ac9e1la06-that-a-simple-sentence-consists-of-a-single-independent-clause/index.html",
       "mode": "questions"
     },
     {
-      "path": "foundation/english/ac9efla07-the-contribution-of-images-and-words-to-meaning-in-stories/index.html",
+      "path": "year1/english/ac9e1la07-that-words-can-represent-people-places-and-things-nouns/index.html",
       "mode": "questions"
     },
     {
-      "path": "foundation/english/ac9efla08-and-develop-awareness-of-vocabulary-used-in-familiar-contexts/index.html",
+      "path": "year1/english/ac9e1la08-how-images-in-different-types-of-texts-contribute-to-meaning/index.html",
       "mode": "questions"
     },
     {
-      "path": "foundation/english/ac9efla09-punctuation-as-a-feature-of-written-text-different-from-letters/index.html",
+      "path": "year1/english/ac9e1la10-that-written-language-uses-punctuation-such-as-full-stops/index.html",
       "mode": "questions"
     },
     {
-      "path": "foundation/english/ac9efle01-share-ideas-about-stories-poems-and-images-in-literature/index.html",
+      "path": "year1/english/ac9e1le01-how-language-and-images-are-used-to-create-characters-settings/index.html",
       "mode": "questions"
     },
     {
-      "path": "foundation/english/ac9efle02-respond-to-stories-and-share-feelings-and-thoughts-about-their/index.html",
+      "path": "year1/english/ac9e1le02-literary-texts-and-share-responses-by-making-connections-with/index.html",
+      "mode": "coming-soon"
+    },
+    {
+      "path": "year1/english/ac9e1le03-plot-character-and-setting-which-are-features-of-stories/index.html",
+      "mode": "coming-soon"
+    },
+    {
+      "path": "year1/english/ac9e1le04-poems-chants-rhymes-and-songs-and-imitate-and-invent-sound/index.html",
+      "mode": "coming-soon"
+    },
+    {
+      "path": "year1/maths/ac9m1a01-skip-counting-pattern-sequences/index.html",
       "mode": "questions"
     },
     {
-      "path": "foundation/english/ac9efle03-different-types-of-literary-texts-and-identify-features/index.html",
-      "mode": "questions"
-    },
-    {
-      "path": "foundation/english/ac9efle04-and-replicate-the-rhythms-and-sound-patterns-of-literary-texts/index.html",
-      "mode": "questions"
-    },
-    {
-      "path": "foundation/english/ac9efle05-retell-and-adapt-familiar-literary-texts-through-play/index.html",
-      "mode": "questions"
-    },
-    {
-      "path": "foundation/english/ac9efly01-some-familiar-texts-such-as-stories-and-informative-texts-and/index.html",
+      "path": "year1/maths/ac9m1a02-repeating-patterns/index.html",
       "mode": "questions"
     }
   ],
   "byYear": {
     "foundation": {
       "examined": 50,
-      "updated": 49,
-      "realQuestions": 33,
+      "updated": 0,
+      "realQuestions": 0,
       "appOnly": 0,
-      "comingSoon": 16
+      "comingSoon": 0
     },
     "year1": {
       "examined": 55,
-      "updated": 20,
-      "realQuestions": 4,
+      "updated": 35,
+      "realQuestions": 32,
       "appOnly": 0,
-      "comingSoon": 16
+      "comingSoon": 3
     },
     "year10": {
       "examined": 84,
-      "updated": 65,
+      "updated": 0,
       "realQuestions": 0,
       "appOnly": 0,
-      "comingSoon": 65
+      "comingSoon": 0
     },
     "year2": {
       "examined": 55,
-      "updated": 51,
-      "realQuestions": 16,
-      "appOnly": 1,
-      "comingSoon": 34
+      "updated": 4,
+      "realQuestions": 4,
+      "appOnly": 0,
+      "comingSoon": 0
     },
     "year3": {
       "examined": 63,
-      "updated": 63,
-      "realQuestions": 22,
-      "appOnly": 1,
-      "comingSoon": 40
+      "updated": 0,
+      "realQuestions": 0,
+      "appOnly": 0,
+      "comingSoon": 0
     },
     "year4": {
       "examined": 63,
-      "updated": 63,
-      "realQuestions": 23,
+      "updated": 0,
+      "realQuestions": 0,
       "appOnly": 0,
-      "comingSoon": 40
+      "comingSoon": 0
     },
     "year5": {
       "examined": 60,
-      "updated": 60,
-      "realQuestions": 22,
-      "appOnly": 2,
-      "comingSoon": 36
+      "updated": 0,
+      "realQuestions": 0,
+      "appOnly": 0,
+      "comingSoon": 0
     },
     "year6": {
       "examined": 59,
-      "updated": 36,
-      "realQuestions": 1,
-      "appOnly": 0,
-      "comingSoon": 35
+      "updated": 23,
+      "realQuestions": 22,
+      "appOnly": 1,
+      "comingSoon": 0
     },
     "year7": {
       "examined": 72,
-      "updated": 72,
-      "realQuestions": 30,
+      "updated": 0,
+      "realQuestions": 0,
       "appOnly": 0,
-      "comingSoon": 42
+      "comingSoon": 0
     },
     "year8": {
       "examined": 70,
-      "updated": 69,
-      "realQuestions": 7,
+      "updated": 0,
+      "realQuestions": 0,
       "appOnly": 0,
-      "comingSoon": 62
+      "comingSoon": 0
     },
     "year9": {
       "examined": 77,
-      "updated": 65,
+      "updated": 0,
       "realQuestions": 0,
       "appOnly": 0,
-      "comingSoon": 65
+      "comingSoon": 0
     }
   }
 }
