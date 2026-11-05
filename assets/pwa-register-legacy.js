@@ -602,7 +602,7 @@
     if (headerHost && !headerHost.querySelector(".skillr-header-tools")) {
       const tools = document.createElement("div");
       tools.className = "skillr-header-tools";
-      tools.appendChild(makeUtilityButton("install", "App", "install"));
+      tools.appendChild(makeUtilityButton("install", "Install", "install"));
       tools.append(makeUtilityButton("timer", "Timer", "timer"));
       headerHost.appendChild(tools);
     }

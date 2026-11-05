@@ -1,0 +1,8 @@
+.skillr-topic-breadcrumb{max-width:1160px;margin:.5rem auto;overflow-wrap:anywhere}
+.skillr-topic-breadcrumb ol{display:flex;flex-wrap:wrap;align-items:center;gap:.25rem .75rem;list-style:none;padding:0;margin:0}
+.skillr-topic-breadcrumb li{min-width:0;max-width:100%}
+.skillr-topic-breadcrumb a{display:inline-flex;align-items:center;min-height:44px;line-height:1.4}
+.skillr-topic-breadcrumb a:focus-visible{outline:3px solid #1a73e8;outline-offset:3px}
+.verified-curriculum-context{overflow-wrap:anywhere;line-height:1.6}
+.verified-curriculum-context p{margin:.75rem 0}
+@media(max-width:600px){.skillr-topic-breadcrumb{padding:0 1rem}}

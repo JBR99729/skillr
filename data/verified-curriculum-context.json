@@ -1,0 +1,41 @@
+{
+  "checked_on": "2026-11-05",
+  "relationship": "Related published content, not identical curriculum coverage or an official endorsement of SkillrHub.",
+  "sources": {
+    "qcaa5": "https://www.qcaa.qld.edu.au/downloads/aciqv9/mathematics/curriculum/ac9_maths_yr5_comp.pdf",
+    "qcaa2": "https://www.qcaa.qld.edu.au/downloads/aciqv9/mathematics/curriculum/ac9_maths_yr2_comp.pdf",
+    "qcaa3": "https://www.qcaa.qld.edu.au/downloads/aciqv9/mathematics/curriculum/ac9_maths_yr3_comp.pdf",
+    "qcaa4": "https://www.qcaa.qld.edu.au/downloads/aciqv9/mathematics/curriculum/ac9_maths_yr4_comp.pdf",
+    "ccss5": "https://www.thecorestandards.org/Math/Content/5/NBT/",
+    "england": "https://www.gov.uk/government/publications/national-curriculum-in-england-mathematics-programmes-of-study/national-curriculum-in-england-mathematics-programmes-of-study"
+  },
+  "topics": {
+    "AC9M5N01": {"source":"qcaa5","page":1,"v84":["ACMNA104","ACMNA105"],"note":"Decimal place value, comparison and ordering.","international":[{"label":"US Grade 5 · CCSS 5.NBT.A.3","source":"ccss5","note":"Related decimal reading and comparison to thousandths; the Australian outcome also explicitly includes number-line representation."},{"label":"England Year 5 · decimals","source":"england","note":"Related thousandths and decimal comparison to three places; this is not a claim of full curriculum equivalence."}]},
+    "AC9M5N02": {"source":"qcaa5","page":1,"v84":["ACMNA098"],"note":"Factors, multiples and divisibility."},
+    "AC9M5N03": {"source":"qcaa5","page":1,"v84":["ACMNA102"],"note":"Fraction comparison scope is expanded."},
+    "AC9M5N04": {"source":"qcaa5","page":1,"v84":[],"note":"Percentage content moved from Year 6; compare scope."},
+    "AC9M5N05": {"source":"qcaa5","page":1,"v84":["ACMNA103"],"note":"Addition and subtraction include related denominators."},
+    "AC9M5N06": {"source":"qcaa5","page":1,"v84":["ACMNA100","ACMNA291"],"note":"Multiplication strategies and checking reasonableness.","international":[{"label":"US Grade 5 · CCSS 5.NBT.B.5","source":"ccss5","note":"Related multi-digit multiplication. CCSS specifies fluency with the standard algorithm; AC9M5N06 allows strategy choice and requires a reasonableness check."},{"label":"England Year 5 · multiplication","source":"england","note":"Related multiplication of up to four-digit numbers by one- or two-digit numbers using formal written methods. Scope and method expectations differ."}]},
+    "AC9M5N07": {"source":"qcaa5","page":1,"v84":["ACMNA101","ACMNA291"],"note":"Remainders are interpreted in context."},
+    "AC9M5N08": {"source":"qcaa5","page":1,"v84":["ACMNA099"],"note":"Estimation checks solutions, including financial situations."},
+    "AC9M5N09": {"source":"qcaa5","page":1,"additional_pages":[2],"v84":["ACMNA106","ACMNA080"],"note":"Related financial content; modelling requirements differ."},
+    "AC9M5N10": {"source":"qcaa5","page":1,"v84":[],"note":"Algorithm outcome; no direct counterpart asserted."},
+    "AC9M5A01": {"source":"qcaa5","page":2,"v84":[],"note":"Inverse-operation outcome; no direct counterpart asserted."},
+    "AC9M5A02": {"source":"qcaa5","page":2,"v84":["ACMNA121"],"note":"Unknown multiplication and division values."},
+    "AC9M5M01": {"source":"qcaa5","page":2,"v84":["ACMMG108"],"note":"Metric measurement and more accurate measures."},
+    "AC9M5M02": {"source":"qcaa5","page":2,"v84":["ACMMG109"],"note":"Perimeter and area extend beyond rectangles."},
+    "AC9M5M03": {"source":"qcaa5","page":2,"v84":["ACMMG110"],"note":"12-hour and 24-hour time problems."},
+    "AC9M5M04": {"source":"qcaa5","page":2,"v84":["ACMMG112"],"note":"Angle coverage reorganised across year levels."},
+    "AC9M5SP01": {"source":"qcaa5","page":2,"v84":["ACMMG111"],"note":"Nets and their three-dimensional objects."},
+    "AC9M5SP02": {"source":"qcaa5","page":2,"v84":["ACMMG113"],"note":"Grid coordinates extend earlier grid references."},
+    "AC9M5SP03": {"source":"qcaa5","page":2,"v84":["ACMMG114"],"note":"Transformations and symmetry; enlargement not assumed."},
+    "AC9M5ST01": {"source":"qcaa5","page":2,"v84":["ACMSP119"],"note":"Data categories and distribution interpretation expanded."},
+    "AC9M5ST02": {"source":"qcaa5","page":2,"v84":[],"note":"Line-graph outcome; no direct counterpart asserted."},
+    "AC9M5ST03": {"source":"qcaa5","page":2,"v84":["ACMSP118","ACMSP120"],"note":"Investigations connect collection, displays and interpretation."},
+    "AC9M5P01": {"source":"qcaa5","page":2,"v84":["ACMSP116"],"note":"Compare equally and unequally likely outcomes."},
+    "AC9M5P02": {"source":"qcaa5","page":2,"v84":[],"note":"Repeated-experiment outcome; no direct counterpart asserted."},
+    "AC9M2M04": {"source":"qcaa2","page":2,"v84":["ACMMG020","ACMMG039"],"note":"Combines earlier half-hour and quarter-hour work."},
+    "AC9M3M04": {"source":"qcaa3","page":2,"v84":["ACMMG062"],"note":"Clock relationships and reading to the minute."},
+    "AC9M4M03": {"source":"qcaa4","page":2,"v84":["ACMMG085","ACMMG086"],"note":"Duration, conversions and earlier am/pm work."}
+  }
+}
