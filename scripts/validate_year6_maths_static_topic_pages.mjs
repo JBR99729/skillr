@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 import fs from 'node:fs';
 import path from 'node:path';
+import { validateTopicActivities } from './lib/published_activity_navigation.mjs';
 
 const root = process.cwd();
 const failures = [];
@@ -33,11 +34,8 @@ for (const topicFile of topicFiles) {
   if (/id=["'](?:topicRoot|year6Topic)["'][^>]*>\s*(?:<p[^>]*>)?\s*Loading/i.test(html) || /year6-curriculum-render\.js|topic-modules-render|lesson-render/i.test(html)) failures.push(`${code}: topic page must not depend on runtime curriculum rendering`);
   if (!/What students learn|Learning intention|Learning goal|Key concept|Curriculum coverage/i.test(text)) failures.push(`${code}: static teaching content marker missing`);
 
+  failures.push(...validateTopicActivities(html, code, root));
   const links = hrefs(html);
-  for (const route of [`/quiz/year-6/math/${lowerCode}/practice/`, `/quiz/year-6/math/${lowerCode}/test/`]) {
-    if (!links.includes(route)) failures.push(`${code}: missing protected journey link ${route}`);
-    if (!exists(routeFile(route))) failures.push(`${code}: broken protected journey route ${route}`);
-  }
   if (!links.some(href => /^(?:\.\/)?teacher-slides\/$/i.test(href))) failures.push(`${code}: topic page must link to clean local teacher-slides/ viewer`);
   if (links.some(href => /\/worksheets\/year6\/maths\/teacher-slides\/viewer\//i.test(href))) failures.push(`${code}: topic page must not point Teacher Slides at shared viewer route`);
 

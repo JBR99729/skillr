@@ -15,6 +15,22 @@ ROOT = Path(__file__).resolve().parents[1]
 VIDEO_NAV = re.compile(r'<a\b(?=[^>]*\bhref=["\x27]#(?:video-lesson|topic-videos|skillr-video-explanation)["\x27])[^>]*>.*?</a>', re.I | re.S)
 VIDEO_SHORTCUT = re.compile(r'<!-- skillr-video-shortcut:start -->.*?<!-- skillr-video-shortcut:end -->', re.S)
 VIDEO_STYLESHEET = re.compile(r'<link\b[^>]*href=["\x27]/assets/css/topic-videos\.css(?:\?[^"\x27]*)?["\x27][^>]*>', re.I)
+OWNED_BLOCK = re.compile(
+    r'<!-- skillr-(?P<name>[a-z0-9-]+):start -->.*?<!-- skillr-(?P=name):end -->',
+    re.S,
+)
+
+
+def preserve_nonvideo_blocks(removed):
+    """Retain unrelated resource/navigation blocks inside malformed video HTML.
+
+    Examine the inner video wrapper too: an outer video marker must not hide
+    resource-facts or discovery markers from the scan.
+    """
+    inner = removed.replace('<!-- skillr-topic-videos:start -->', '').replace(
+        '<!-- skillr-topic-videos:end -->', '')
+    return ''.join(match.group() for match in OWNED_BLOCK.finditer(inner)
+                   if match.group('name') not in {'topic-videos', 'video-shortcut'})
 
 
 # Some legacy pages contain an additional unmarked video details/section whose
@@ -38,7 +54,7 @@ def remove_unmarked_videos(source):
                 break
         if end is None:
             raise ValueError('Unclosed legacy video block; refusing destructive edit')
-        clean = clean[:match.start()] + clean[end:]
+        clean = clean[:match.start()] + preserve_nonvideo_blocks(clean[match.start():end]) + clean[end:]
         count += 1
         if count > 12:
             raise ValueError('Unexpected repeated video blocks')
@@ -47,7 +63,7 @@ def remove_unmarked_videos(source):
 def strip(source):
     clean = source
     for a,b in reversed(video_ranges(clean)):
-        clean = clean[:a] + clean[b:]
+        clean = clean[:a] + preserve_nonvideo_blocks(clean[a:b]) + clean[b:]
     clean = remove_unmarked_videos(clean)
     clean = VIDEO_SHORTCUT.sub('', clean)
     clean = VIDEO_NAV.sub('', clean)

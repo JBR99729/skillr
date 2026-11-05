@@ -21,6 +21,8 @@ on:
       - "pwa-register.js"
       - "worksheets/year2/**"
       - "year2/curriculum/**"
+      - "scripts/lib/published_activity_navigation.mjs"
+      - "scripts/tests/test_published_activity_navigation.mjs"
       - ".github/workflows/validate-year2-content.yml"
   pull_request:
     branches: [main]
@@ -42,6 +44,8 @@ on:
       - "pwa-register.js"
       - "worksheets/year2/**"
       - "year2/curriculum/**"
+      - "scripts/lib/published_activity_navigation.mjs"
+      - "scripts/tests/test_published_activity_navigation.mjs"
       - ".github/workflows/validate-year2-content.yml"
   workflow_dispatch:
 
@@ -125,3 +129,5 @@ jobs:
 
           console.log('Year 2 Science and English content validation passed.');
           NODE
+      - name: Verify published activity navigation safeguards
+        run: node --test scripts/tests/test_published_activity_navigation.mjs

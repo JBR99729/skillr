@@ -57,6 +57,19 @@ for (const file of files) {
   }
   const start = html.indexOf(START);
   const end = html.indexOf(END);
+  // Authored resource guides are not all members of the older promotional
+  // campaign. Check their useful content and native resource path instead of
+  // requiring a second, generic sales block beneath an existing article.
+  if (start < 0 && end < 0) {
+    const article = html.match(/<article\b[^>]*>([\s\S]*?)<\/article>/i)?.[1] || '';
+    const text = article.replace(/<script\b[\s\S]*?<\/script>|<style\b[\s\S]*?<\/style>|<[^>]*>/gi, ' ');
+    if (!/"@type"\s*:\s*"BlogPosting"/.test(html) || !/<h1\b/i.test(article) || (article.match(/<h2\b/gi) || []).length < 2 || text.trim().split(/\s+/).length < 200) {
+      failures.push(`${file}: missing substantive authored resource guide or campaign block`);
+    }
+    if (!/href=["']\/(?:worksheets|foundation|year\d+|products|homeschooling-australia)(?:\/|#)|href=["']\/#curriculum/i.test(article)) failures.push(`${file}: authored guide has no native learning-resource path`);
+    for (const pattern of FORBIDDEN) if (pattern.test(text)) failures.push(`${file}: authored guide contains overstrong claim: ${pattern}`);
+    continue;
+  }
   if (start < 0 || end < 0 || end < start) {
     failures.push(`${file}: missing or invalid campaign markers`);
     continue;

@@ -32,6 +32,14 @@ test("a heading, missing elaboration or script/comment cannot substitute for sta
   assert.equal(hasStaticCurriculumCoverage(`<script>${section(article)}</script>`, 1), false);
 });
 
+test('current teaching focuses require authored examples, explanations and answer disclosures', () => {
+  const unit = JSON.parse(fs.readFileSync('data/curriculum-units.json', 'utf8')).units.find(unit => unit.code === 'AC9MFN03');
+  const page = fs.readFileSync(`.${unit.url}index.html`, 'utf8').replace(/<!--[\s\S]*?-->/g, '');
+  assert.equal(hasStaticCurriculumCoverage(page), true);
+  assert.equal(hasStaticCurriculumCoverage(page.replaceAll('Worked example:', 'Example heading removed:')), false);
+  assert.equal(hasStaticCurriculumCoverage(page.replaceAll('class="topic-answer"', 'class="empty"')), false);
+});
+
 test("bank versions have explicit counts and selection rules; metadata and unknown/mixed formats fail", () => {
   const current = year2EnglishBankProfile([{quality_schema:"student-facing-v3"}]);
   assert.equal(current.practiceCount, 40);

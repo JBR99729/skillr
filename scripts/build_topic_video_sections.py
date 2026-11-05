@@ -329,6 +329,7 @@ def main():
         return 1 if args.check and updates else 0
     by_code, videos = load_rows()
     outputs = []
+    video_pages = 0
     for code, unit in by_code.items():
         sources = topic_sources(unit)
         for alias, alias_source in sources[:-1]:
@@ -338,6 +339,14 @@ def main():
             if cleaned != alias_source:
                 outputs.append((alias, cleaned))
         path, source = sources[-1]
+        # Current topic-first lessons have authored native video sections and
+        # intentionally omit the former Quick Learning action list. Preserve
+        # that layout and audit approved video identities instead of comparing
+        # against an obsolete template or moving stylesheets on every run.
+        if args.check or 'topic-first-panels.css' in source or START not in source:
+            validate_authored_videos(source, videos[code], code)
+            video_pages += bool(re.search(r'youtube(?:-nocookie)?\.com/embed/', re.sub(r'<!--[\s\S]*?-->', '', source)))
+            continue
         result = update_source(source, section(code, videos[code], source) if videos[code] else "", include_quick=True)
         if source != result:
             outputs.append((path, result))
@@ -346,10 +355,26 @@ def main():
         for path, result in outputs:
             path.write_bytes(result.encode("utf-8"))
     count = sum(bool(videos[code]) for code in by_code)
-    print(f"{count}/{len(by_code)} curriculum codes have selected videos; {len(outputs)} pages {'need updating' if args.check else 'updated'}.")
+    print(f"{count}/{len(by_code)} curriculum codes have selected videos; {video_pages} authored video pages verified; {len(outputs)} legacy pages {'need updating' if args.check else 'updated'}.")
     if args.check and outputs:
         return 1
     return 0
+
+
+def validate_authored_videos(source, selected, code):
+    """Videos are optional; embedded videos must remain selected and static."""
+    active = re.sub(r'<!--[\s\S]*?-->', '', source)
+    approved = {row['id'] for row in selected}
+    embedded = set(re.findall(r'youtube(?:-nocookie)?\.com/embed/([\w-]{11})', active))
+    if embedded - approved:
+        raise ValueError(f"{code}: unreviewed video IDs {sorted(embedded - approved)}")
+    if re.search(r'youtube(?:-nocookie)?\.com/embed/[^"\s<>]*[?&](?:amp;)?autoplay=1', active):
+        raise ValueError(f"{code}: optional video must not autoplay")
+    if embedded and not re.search(r'<details\b[\s\S]*?<summary\b', active, re.I):
+        raise ValueError(f"{code}: video lesson needs native disclosure controls")
+    for frame in re.findall(r'<iframe\b[^>]*>', active, re.I):
+        if not re.search(r'\btitle=["\'][^"\']+["\']', frame, re.I):
+            raise ValueError(f"{code}: video frame needs an accessible title")
 
 
 if __name__ == "__main__":

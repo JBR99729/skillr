@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 import fs from 'node:fs';
 import path from 'node:path';
+import { validateTopicActivities } from './lib/published_activity_navigation.mjs';
 
 const root = process.cwd();
 const failures = [];
@@ -41,8 +42,9 @@ for (const unit of units) {
   if (!/What students learn|Learning intention|Learning goal|Key concept|Curriculum coverage|Core idea/i.test(text)) failures.push(`${code}: static teaching content marker missing`);
   if (!legacyStaticSectionPage && !/\/assets\/year3-maths-visuals\.css\?v=\d+/i.test(html)) failures.push(`${code}: missing Year 3 Maths visuals stylesheet`);
 
+  failures.push(...validateTopicActivities(html, code, root));
   const links = hrefs(html);
-  for (const route of [`/quiz/year-3/math/${lowerCode}/worksheet/`, `/quiz/year-3/math/${lowerCode}/practice/`, `/quiz/year-3/math/${lowerCode}/test/`]) {
+  for (const route of [`/quiz/year-3/math/${lowerCode}/worksheet/`]) {
     if (!links.includes(route)) failures.push(`${code}: missing protected journey link ${route}`);
     if (!exists(routeFile(route))) failures.push(`${code}: broken protected journey route ${route}`);
   }

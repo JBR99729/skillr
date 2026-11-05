@@ -15,6 +15,7 @@ if (checkOnly && recordCode) throw new Error("Use either --check or --record, no
 
 const status = JSON.parse(fs.readFileSync(STATUS_FILE, "utf8"));
 const reviewed = new Set(status.reviewedCodes || []);
+const curriculumUnits = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/curriculum-units.json'), 'utf8')).units;
 const yearDirectories = ["foundation", ...Array.from({ length: 10 }, (_, index) => `year${index + 1}`)];
 const subjectMeta = {
   maths: { label: "Mathematics", route: "math" },
@@ -37,7 +38,12 @@ function findGroups() {
       const hub = path.join(ROOT, yearDirectory, "curriculum", subject, "index.html");
       if (!fs.existsSync(hub)) continue;
       const html = fs.readFileSync(hub, "utf8");
-      const codes = unique([...html.matchAll(/<span class="curriculum-badge">([^<]+)<\/span>/g)].map((match) => match[1].trim().toUpperCase()));
+      // Badge CSS classes are presentation, not a curriculum inventory. Current
+      // hubs use several authored card formats; keep the release ledger tied to
+      // the canonical code inventory and verify those codes are present on hub.
+      const yearNumber = yearDirectory === 'foundation' ? 0 : Number(yearDirectory.slice(4));
+      const codes = unique(curriculumUnits.filter(unit => unit.yearNumber === yearNumber && unit.subjectSlug === subject).map(unit => unit.code));
+      for (const code of codes) if (!html.includes(code)) throw new Error(`${code} is missing from ${yearDirectory}/${subject} hub`);
       if (!codes.length) continue;
       groups.push({ yearDirectory, yearLabel: displayYear(yearDirectory), subject, subjectLabel: meta.label, subjectRoute: meta.route, hub, codes });
     }
@@ -79,7 +85,9 @@ function desiredHub(group, source) {
   const key = `${group.yearDirectory}/${group.subject}`;
   const complete = completedKeys.has(key);
   const hasManagedBadge = source.includes(startMarker);
-  const hasLegacyBadge = source.includes('class="curriculum-verified-label"');
+  const active = source.replace(/<!--[\s\S]*?-->|<script\b[\s\S]*?<\/script>/gi, '');
+  const hasLegacyBadge = active.includes('class="curriculum-verified-label"');
+  if (!recordCode && !hasManagedBadge && !hasLegacyBadge) return source;
   if (!complete && !hasManagedBadge && !hasLegacyBadge) return source;
   let output = source;
   if ((complete || hasManagedBadge || hasLegacyBadge) && !output.includes("/assets/verification-status.css")) {
@@ -137,7 +145,10 @@ for (const llmName of ["llms.txt", "llms-full.txt"]) {
   if (text.includes("<!-- skillr-verification-summary:start -->")) {
     text = replaceMarked(text, "<!-- skillr-verification-summary:start -->", "<!-- skillr-verification-summary:end -->", block);
   } else {
-    text = text.replace(/(^#[^\n]+\n\n[^\n]+\n)/, `$1\n${block}\n`);
+    // An SEO refresh may intentionally replace the optional summary with
+    // evidence-led resource descriptions. Reintroduce it only on a reviewed
+    // bank release, not as a side effect of a read-only status check.
+    if (recordCode) text = text.replace(/(^#[^\n]+\n\n[^\n]+\n)/, `$1\n${block}\n`);
   }
   generated.set(file, text);
 }

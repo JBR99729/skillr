@@ -12,6 +12,10 @@ on:
       - 'quiz/year-1/science/ac9s1i0[123456]/**'
       - 'scripts/year1_science_ixl_review/**'
       - 'scripts/validate-year1-science-review.cjs'
+      - 'scripts/update_content_verification_status.mjs'
+      - 'scripts/tests/test_verification_status_preservation.mjs'
+      - "scripts/lib/published_activity_navigation.mjs"
+      - "scripts/tests/test_published_activity_navigation.mjs"
       - '.github/workflows/validate-year1-science-reviewed-banks.yml'
   pull_request:
     paths:
@@ -24,6 +28,10 @@ on:
       - 'quiz/year-1/science/ac9s1i0[123456]/**'
       - 'scripts/year1_science_ixl_review/**'
       - 'scripts/validate-year1-science-review.cjs'
+      - 'scripts/update_content_verification_status.mjs'
+      - 'scripts/tests/test_verification_status_preservation.mjs'
+      - "scripts/lib/published_activity_navigation.mjs"
+      - "scripts/tests/test_published_activity_navigation.mjs"
       - '.github/workflows/validate-year1-science-reviewed-banks.yml'
 permissions:
   contents: read
@@ -37,7 +45,7 @@ jobs:
           node-version: '22'
       - name: Install test-only DOM dependency
         run: npm install --prefix "$RUNNER_TEMP/science-bank-qa" --no-audit --no-fund jsdom@26.1.0
-      - name: Check complete bank journeys
+      - name: Check retained bank sources and retired launch safety
         run: |
           NODE_PATH="$RUNNER_TEMP/science-bank-qa/node_modules" node scripts/validate-year1-science-review.cjs
           NODE_PATH="$RUNNER_TEMP/science-bank-qa/node_modules" node scripts/validate-year1-science-review.cjs --batch2
@@ -47,3 +55,6 @@ jobs:
         run: |
           node scripts/validate_year1_science_static_topic_pages.mjs
           node scripts/update_content_verification_status.mjs --check
+          node --test scripts/tests/test_verification_status_preservation.mjs
+      - name: Verify published activity navigation safeguards
+        run: node --test scripts/tests/test_published_activity_navigation.mjs
