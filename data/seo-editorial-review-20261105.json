@@ -1,0 +1,719 @@
+{
+  "scope": "676 canonical topic guides; source pattern audit only",
+  "signals": {
+    "generic_english_model": "Repeated instructions about explaining a choice, without necessarily supplying a code-specific model.",
+    "unsupplied_comparison": "Asks the teacher to show two versions without necessarily supplying those texts."
+  },
+  "pages": [
+    {
+      "code": "AC9E10LA02",
+      "path": "year10/english/ac9e10la02-that-language-used-to-evaluate-implicitly-or-explicitly-reveals/index.html",
+      "signals": [
+        "generic_english_model",
+        "unsupplied_comparison"
+      ],
+      "source_sha256": "02bb67bd3e4bdb2afff0a0f35c1c5fdfa11fab732df09fa0783f32454f1a018a",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E10LA03",
+      "path": "year10/english/ac9e10la03-analyse-text-structures-and-language-features-and-evaluate/index.html",
+      "signals": [
+        "generic_english_model"
+      ],
+      "source_sha256": "4c6646b45da720addb8632bb712191c9255571a9f4750b6d4a34232cc8909b75",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E10LA04",
+      "path": "year10/english/ac9e10la04-how-paragraph-structure-can-be-varied-to-create-cohesion-and/index.html",
+      "signals": [
+        "generic_english_model"
+      ],
+      "source_sha256": "ce2b2ff0be444ce898f6ca4913e67ce38d97e0f58cce4ca5037a1e1c78ba1ba5",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E10LA05",
+      "path": "year10/english/ac9e10la05-analyse-and-evaluate-the-effectiveness-of-particular-sentence/index.html",
+      "signals": [
+        "generic_english_model"
+      ],
+      "source_sha256": "d1df63d6e1799223ea741ebc6dd86ba9c0b7176daa2c5990827394abe7403667",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E10LA06",
+      "path": "year10/english/ac9e10la06-analyse-how-meaning-and-style-are-achieved-through-syntax/index.html",
+      "signals": [
+        "generic_english_model"
+      ],
+      "source_sha256": "a7ef715dbf722033a7649a09a8f80b0693ba70a3cd0e00e7049697c922639737",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E10LA08",
+      "path": "year10/english/ac9e10la08-an-expanded-technical-and-academic-vocabulary-for-precision/index.html",
+      "signals": [
+        "generic_english_model",
+        "unsupplied_comparison"
+      ],
+      "source_sha256": "1e55f26154df429f9a36ecf0e048c158f097bc3e8549d074290230632dfb00a5",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E10LA09",
+      "path": "year10/english/ac9e10la09-how-authors-use-and-experiment-with-punctuation/index.html",
+      "signals": [
+        "generic_english_model"
+      ],
+      "source_sha256": "8a6d5380afe6c4f80bdd2dc0d52a1625f70c9a4c02faa09fb0e39853b52d0eeb",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E10LE02",
+      "path": "year10/english/ac9e10le02-reflect-on-and-extend-others-interpretations-of-and-responses-to/index.html",
+      "signals": [
+        "generic_english_model"
+      ],
+      "source_sha256": "6159b85d722ffc5b7554dd5034d5120d935f93f8861d965f44d5991ebc23f932",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E10LE03",
+      "path": "year10/english/ac9e10le03-analyse-how-the-aesthetic-qualities-associated-with-text/index.html",
+      "signals": [
+        "generic_english_model",
+        "unsupplied_comparison"
+      ],
+      "source_sha256": "221aa41989f2695e49dfb7c9344558cb9fe4368faa16b663fa7caa4ab113981b",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E10LE04",
+      "path": "year10/english/ac9e10le04-evaluate-the-social-moral-or-ethical-positions-represented-in/index.html",
+      "signals": [
+        "generic_english_model",
+        "unsupplied_comparison"
+      ],
+      "source_sha256": "3e007b125a4bd56e3eaa79d2102a6280c188c6d063772e33f8f59ecb268675e2",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E10LE05",
+      "path": "year10/english/ac9e10le05-analyse-how-text-structure-language-features-literary-devices/index.html",
+      "signals": [
+        "generic_english_model",
+        "unsupplied_comparison"
+      ],
+      "source_sha256": "005d4f891df1338b4178d72ac02882945a7486083f71d6d739944bc2d09ee8c4",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E10LE06",
+      "path": "year10/english/ac9e10le06-and-evaluate-how-voice-as-a-literary-device-is-used/index.html",
+      "signals": [
+        "generic_english_model",
+        "unsupplied_comparison"
+      ],
+      "source_sha256": "4bc354455311a177180551adb9069e05cbf849cbb6d451b898612f55581315e0",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E10LE07",
+      "path": "year10/english/ac9e10le07-analyse-and-evaluate-the-aesthetic-qualities-of-texts/index.html",
+      "signals": [
+        "generic_english_model",
+        "unsupplied_comparison"
+      ],
+      "source_sha256": "434d9c224d4ee8ce81f2748fe16d81ef65a9510b25ceb1b9c049f73289129130",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E10LE08",
+      "path": "year10/english/ac9e10le08-and-edit-literary-texts-with-a-sustained-voice-selecting-and/index.html",
+      "signals": [
+        "generic_english_model"
+      ],
+      "source_sha256": "15f9299f294eca9e462edcb420f8f95b80f367119aaebfe968eec8fd45bbcba2",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E10LY01",
+      "path": "year10/english/ac9e10ly01-analyse-and-evaluate-how-people-places-events-and-concepts-are/index.html",
+      "signals": [
+        "generic_english_model",
+        "unsupplied_comparison"
+      ],
+      "source_sha256": "0c16f2b057a784f6f46902ad40b391e8c2b24edb77295d4e9d8e30f20203236c",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E10LY02",
+      "path": "year10/english/ac9e10ly02-listen-to-spoken-texts-and-explain-the-purposes-and-effects/index.html",
+      "signals": [
+        "generic_english_model",
+        "unsupplied_comparison"
+      ],
+      "source_sha256": "7a72e9ec877f1be4c30292dc52420203988cdd1b01322c8a2bae00b485e147dc",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E10LY03",
+      "path": "year10/english/ac9e10ly03-analyse-and-evaluate-how-language-features-are-used-to/index.html",
+      "signals": [
+        "generic_english_model",
+        "unsupplied_comparison"
+      ],
+      "source_sha256": "337cdb48478a58dc48e0eb82c736acdae6128e1258a5e8e197f014cd07c8b46a",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E10LY04",
+      "path": "year10/english/ac9e10ly04-analyse-and-evaluate-how-authors-organise-ideas-in-texts-to/index.html",
+      "signals": [
+        "generic_english_model"
+      ],
+      "source_sha256": "d748c52e58eba26ea8fa3163af17b44f3ac22c7b5169c80d453549687223f504",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E10LY05",
+      "path": "year10/english/ac9e10ly05-integrate-comprehension-strategies-such-as-visualising/index.html",
+      "signals": [
+        "generic_english_model"
+      ],
+      "source_sha256": "d28ce01e8ca50544d8f9f1d89d89a922aa8d593f0901e6c94f21c3383deef395",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E10LY06",
+      "path": "year10/english/ac9e10ly06-plan-create-edit-and-publish-written-and-multimodal-texts/index.html",
+      "signals": [
+        "generic_english_model"
+      ],
+      "source_sha256": "2c8ad69e76b83955208635dcce5c2c58c4d020d326828ac260c7a381e8ef0564",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E10LY07",
+      "path": "year10/english/ac9e10ly07-plan-create-rehearse-and-deliver-spoken-and-multimodal/index.html",
+      "signals": [
+        "generic_english_model"
+      ],
+      "source_sha256": "3b9e7c587be654ead47b1248cfec1eb8ac1b474dc0ae9aaed1bef2230835184a",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E10LY08",
+      "path": "year10/english/ac9e10ly08-knowledge-of-the-spelling-system-to-spell-words-and-to/index.html",
+      "signals": [
+        "generic_english_model",
+        "unsupplied_comparison"
+      ],
+      "source_sha256": "54354f62ab8daa7ce1ee9b10639c54356390e9983045ebccaaa27937dfcbfdcd",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E8LA02",
+      "path": "year8/english/ac9e8la02-how-layers-of-meaning-can-be-created-when-evaluating-by/index.html",
+      "signals": [
+        "generic_english_model",
+        "unsupplied_comparison"
+      ],
+      "source_sha256": "b6559af4753cf3d074b891443aba040436de6d9ca426553649c7762731dfc395",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E8LA03",
+      "path": "year8/english/ac9e8la03-explain-how-texts-are-structured-depending-on-their-purpose-and/index.html",
+      "signals": [
+        "generic_english_model"
+      ],
+      "source_sha256": "056f72563695e76660a1f78abab39edfef7b00577c9a101d881ab7c9b50d1ffe",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E8LA04",
+      "path": "year8/english/ac9e8la04-how-cohesion-in-texts-is-improved-by-strengthening-the-internal/index.html",
+      "signals": [
+        "generic_english_model",
+        "unsupplied_comparison"
+      ],
+      "source_sha256": "9a486606781b4560763f3d81dd55f3287a593d21f407502ed6e00438b84e8a9d",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E8LA05",
+      "path": "year8/english/ac9e8la05-examine-a-variety-of-clause-structures-including-embedded/index.html",
+      "signals": [
+        "generic_english_model",
+        "unsupplied_comparison"
+      ],
+      "source_sha256": "a28c7b04821141e3e11ca66d895da4d94b956cdc08df7bf1cfdec898ea8ab570",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E8LA06",
+      "path": "year8/english/ac9e8la06-the-effect-of-nominalisation-in-texts/index.html",
+      "signals": [
+        "generic_english_model",
+        "unsupplied_comparison"
+      ],
+      "source_sha256": "cd1de63ba5475de923a046b8b931b6234310c3e04508f218ece1447d96ad63b4",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E8LA07",
+      "path": "year8/english/ac9e8la07-investigate-how-visual-texts-use-intertextual-references-to/index.html",
+      "signals": [
+        "generic_english_model",
+        "unsupplied_comparison"
+      ],
+      "source_sha256": "aa3a702676ac81010057fb4d5bc29ecffb8f0915698c658e97445b7f7fe1c3d3",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E8LA08",
+      "path": "year8/english/ac9e8la08-and-use-vocabulary-typical-of-academic-texts/index.html",
+      "signals": [
+        "generic_english_model",
+        "unsupplied_comparison"
+      ],
+      "source_sha256": "24d8d151971105d8815c44595fecce7b99a20a7e3666e777ec08aa05d9feaa78",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E8LA09",
+      "path": "year8/english/ac9e8la09-and-use-punctuation-conventions-including-semicolons-and-dashes/index.html",
+      "signals": [
+        "generic_english_model",
+        "unsupplied_comparison"
+      ],
+      "source_sha256": "92eb4b8b9d5bc1fa8f288e64c1994da733cdacfa66accd60ce0e82e8fe16246b",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E8LE01",
+      "path": "year8/english/ac9e8le01-explain-the-ways-that-ideas-and-points-of-view-may/index.html",
+      "signals": [
+        "generic_english_model"
+      ],
+      "source_sha256": "d0a55596f41fd8fb507b221b15d69f48584f1bdf6fd3dd9a9abf725e3fb0a607",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E8LE02",
+      "path": "year8/english/ac9e8le02-share-opinions-about-the-language-features-literary-devices-and/index.html",
+      "signals": [
+        "generic_english_model",
+        "unsupplied_comparison"
+      ],
+      "source_sha256": "28cba2833edffd3b6e17f9a9bb9682172b2be2454bf77482bc676ccae2b9c8a0",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E8LE03",
+      "path": "year8/english/ac9e8le03-explain-how-language-and-or-images-in-texts-position-readers-to/index.html",
+      "signals": [
+        "generic_english_model",
+        "unsupplied_comparison"
+      ],
+      "source_sha256": "524ee0d5c5fcfbf98ad2e61d252f3025d2238fd787f8d04250db54500b697401",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E8LE04",
+      "path": "year8/english/ac9e8le04-intertextual-references-in-literary-texts-and-explain-how-the/index.html",
+      "signals": [
+        "generic_english_model",
+        "unsupplied_comparison"
+      ],
+      "source_sha256": "09f0be2a7c753b35cd571bbf883f6144536ef2aaf38ab0b4e4e46b9762a40d6e",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E8LE05",
+      "path": "year8/english/ac9e8le05-analyse-how-language-features-such-as-sentence-patterns-create/index.html",
+      "signals": [
+        "generic_english_model"
+      ],
+      "source_sha256": "25f4ba98913ec5f6739e21e15de4c771f31cdf9e5c433fd7fcf563ca92a73355",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E8LE06",
+      "path": "year8/english/ac9e8le06-and-edit-literary-texts-that-experiment-with-language-features/index.html",
+      "signals": [
+        "generic_english_model"
+      ],
+      "source_sha256": "8cc69d8c0d7ced1c17503f2f291e8f8a01112b418406bba96b7dbf2fb738a6e2",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E8LY01",
+      "path": "year8/english/ac9e8ly01-how-texts-reflect-contexts/index.html",
+      "signals": [
+        "generic_english_model",
+        "unsupplied_comparison"
+      ],
+      "source_sha256": "e027fe3dc2f32db0581c513a6e91923039ec0ee5c8b5291c7cf12dff82880d13",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E8LY02",
+      "path": "year8/english/ac9e8ly02-interaction-skills-for-identified-purposes-and-situations/index.html",
+      "signals": [
+        "generic_english_model"
+      ],
+      "source_sha256": "f962aa6bc7499f6be86f974c564bd20810a43f3ca74035556a3a50fc45cd0718",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E8LY03",
+      "path": "year8/english/ac9e8ly03-analyse-and-evaluate-the-ways-that-language-features-vary/index.html",
+      "signals": [
+        "generic_english_model",
+        "unsupplied_comparison"
+      ],
+      "source_sha256": "f8080b30c08b0fe107f3a456e9368ca5676a566d16b5ef79bdb325fe7204a539",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E8LY04",
+      "path": "year8/english/ac9e8ly04-analyse-how-authors-organise-ideas-to-develop-and-shape-meaning/index.html",
+      "signals": [
+        "generic_english_model"
+      ],
+      "source_sha256": "7e946fe01100dfac6d9756a54b1a90dd0beaccae1238a101f66c0668908991b0",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E8LY05",
+      "path": "year8/english/ac9e8ly05-comprehension-strategies-such-as-visualising-predicting/index.html",
+      "signals": [
+        "generic_english_model"
+      ],
+      "source_sha256": "fa36917c50c47fe0442bc7e19985c3dded579076eede13e90882ebcaf8d07c92",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E8LY06",
+      "path": "year8/english/ac9e8ly06-plan-create-edit-and-publish-written-and-multimodal-texts/index.html",
+      "signals": [
+        "generic_english_model"
+      ],
+      "source_sha256": "0149295cb46a6fddbcab62498edff323ea3b9395a8781c9604d31abcb106b890",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E8LY07",
+      "path": "year8/english/ac9e8ly07-plan-create-rehearse-and-deliver-spoken-and-multimodal/index.html",
+      "signals": [
+        "generic_english_model"
+      ],
+      "source_sha256": "2216c50451411e94bb85c9d4020364b23c51bfaf3d44e296b995e795d6d7dc24",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E8LY08",
+      "path": "year8/english/ac9e8ly08-apply-learnt-knowledge-to-spell-accurately-and-to-learn-new/index.html",
+      "signals": [
+        "generic_english_model",
+        "unsupplied_comparison"
+      ],
+      "source_sha256": "84a76a66d75f258bac2814bc07831e067bbb0fccb4f793decbb485cb616d483c",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E9LA01",
+      "path": "year9/english/ac9e9la01-how-language-empowers-relationships-and-roles/index.html",
+      "signals": [
+        "generic_english_model",
+        "unsupplied_comparison"
+      ],
+      "source_sha256": "4048b6763e77be96899c9ebde53dac8cee043a9ec6aacd5096d52ca4e52bcd18",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E9LA02",
+      "path": "year9/english/ac9e9la02-how-evaluation-can-be-expressed-directly-and-indirectly-using/index.html",
+      "signals": [
+        "generic_english_model",
+        "unsupplied_comparison"
+      ],
+      "source_sha256": "032086fc0b090b2c9ca54be036a377bacc3f4a0843ad834bec06fee59524b20c",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E9LA03",
+      "path": "year9/english/ac9e9la03-examine-how-authors-adapt-and-subvert-text-structures-and/index.html",
+      "signals": [
+        "generic_english_model",
+        "unsupplied_comparison"
+      ],
+      "source_sha256": "0b602e29a7b3774b863f712a69368eacc56bb39b54dc0308d40d12198242a56e",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E9LA04",
+      "path": "year9/english/ac9e9la04-investigate-a-range-of-cohesive-devices-that-condense/index.html",
+      "signals": [
+        "generic_english_model",
+        "unsupplied_comparison"
+      ],
+      "source_sha256": "50123f008361af5900786baff6c8440d933fd6dcb230d0883c39303b903ef256",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E9LA05",
+      "path": "year9/english/ac9e9la05-how-authors-vary-sentence-structures-creatively-for-effects/index.html",
+      "signals": [
+        "generic_english_model",
+        "unsupplied_comparison"
+      ],
+      "source_sha256": "045d03a96644c643bd91e2458faab889a3bdc83fbef4733ac1037a5550152644",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E9LA06",
+      "path": "year9/english/ac9e9la06-how-abstract-nouns-and-nominalisation-can-be-used-to-summarise/index.html",
+      "signals": [
+        "generic_english_model",
+        "unsupplied_comparison"
+      ],
+      "source_sha256": "6a33e0625aa235e2a3e06d9cbfd24d85d91a62ae29e6a32279a56a06db262c71",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E9LA07",
+      "path": "year9/english/ac9e9la07-analyse-how-symbols-in-still-and-moving-images-augment-meaning/index.html",
+      "signals": [
+        "generic_english_model",
+        "unsupplied_comparison"
+      ],
+      "source_sha256": "e7a234dfb5f3d1c667b4a7b9c9b10702974fce4102ea336340012b4c7ae792b3",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E9LA08",
+      "path": "year9/english/ac9e9la08-analyse-how-vocabulary-choices-contribute-to-style-mood-and-tone/index.html",
+      "signals": [
+        "generic_english_model",
+        "unsupplied_comparison"
+      ],
+      "source_sha256": "d92b1e39ca12632af683f63557b906861711dfe70fd30d85817a3b20096d8893",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E9LA09",
+      "path": "year9/english/ac9e9la09-punctuation-conventions-for-referencing-and-citing-others-for/index.html",
+      "signals": [
+        "generic_english_model",
+        "unsupplied_comparison"
+      ],
+      "source_sha256": "5d80ed1aecc6dac43d409b4f80ea48e56cbc535219f09ecd599240b9c72ecd9d",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E9LE01",
+      "path": "year9/english/ac9e9le01-analyse-the-representations-of-people-and-places-in-literary/index.html",
+      "signals": [
+        "generic_english_model"
+      ],
+      "source_sha256": "a788bb8e235238393083b27eaa950af2e39679f384113f6eec232303ccdc5b1b",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E9LE02",
+      "path": "year9/english/ac9e9le02-present-a-personal-response-to-a-literary-text-comparing-initial/index.html",
+      "signals": [
+        "generic_english_model",
+        "unsupplied_comparison"
+      ],
+      "source_sha256": "073cc822e58210e4f2261a69b62e451e014fa53a57cba369bd472799fa661659",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E9LE03",
+      "path": "year9/english/ac9e9le03-analyse-how-features-of-literary-texts-influence-readers/index.html",
+      "signals": [
+        "generic_english_model",
+        "unsupplied_comparison"
+      ],
+      "source_sha256": "c125f1057593ef486dec71efb5bb72d4a4e88ff53ffd8336cf717a3de4e5aff1",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E9LE04",
+      "path": "year9/english/ac9e9le04-analyse-texts-and-evaluate-the-aesthetic-qualities-and-appeal-of/index.html",
+      "signals": [
+        "generic_english_model",
+        "unsupplied_comparison"
+      ],
+      "source_sha256": "676aac977614c2c2211d1d64a735c7eee7e7face6af8ef551f7416f88f10f1ac",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E9LE05",
+      "path": "year9/english/ac9e9le05-analyse-the-effect-of-text-structures-language-features-and/index.html",
+      "signals": [
+        "generic_english_model",
+        "unsupplied_comparison"
+      ],
+      "source_sha256": "d5553fdb5669ad0978c5da603f9e7575f4f6eabf81d1e6d6876fbb88393a06c5",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E9LE06",
+      "path": "year9/english/ac9e9le06-and-edit-literary-texts-that-may-be-a-hybrid-that/index.html",
+      "signals": [
+        "generic_english_model"
+      ],
+      "source_sha256": "821c6e2d0a417f2fb2ca4310047d6e950c348c59732d923b2a7579812988d82a",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E9LY01",
+      "path": "year9/english/ac9e9ly01-analyse-how-representations-of-people-places-events-and/index.html",
+      "signals": [
+        "generic_english_model"
+      ],
+      "source_sha256": "75851e527d975cf6deb0612fe994e1d2596094f4579a0799eee1437f9a708ccb",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E9LY02",
+      "path": "year9/english/ac9e9ly02-listen-to-spoken-texts-that-have-different-purposes-and/index.html",
+      "signals": [
+        "generic_english_model",
+        "unsupplied_comparison"
+      ],
+      "source_sha256": "36891ba6e5c7299644574bdf08bd346751d9ca5bfecb9d9e88e84acd86b1525c",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E9LY03",
+      "path": "year9/english/ac9e9ly03-analyse-and-evaluate-how-language-features-are-used-to-represent/index.html",
+      "signals": [
+        "generic_english_model"
+      ],
+      "source_sha256": "4657c60a96d0108bd0786784b9f0c55c523301c933bc6d5d495ded35c69cda82",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E9LY04",
+      "path": "year9/english/ac9e9ly04-analyse-the-organisation-of-ideas-in-paragraphs-and-extended/index.html",
+      "signals": [
+        "generic_english_model",
+        "unsupplied_comparison"
+      ],
+      "source_sha256": "4698c071c6e81d0ef74f3ebccaacbbfe79fac3b847799057cf9a3212f133e5b3",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E9LY05",
+      "path": "year9/english/ac9e9ly05-comprehension-strategies-such-as-visualising-predicting/index.html",
+      "signals": [
+        "generic_english_model"
+      ],
+      "source_sha256": "c4b88ec9b77a15d1761dde65a1016f6e14fbccb5f981e1b607e4c477a069f702",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E9LY06",
+      "path": "year9/english/ac9e9ly06-plan-create-edit-and-publish-written-and-multimodal-texts/index.html",
+      "signals": [
+        "generic_english_model"
+      ],
+      "source_sha256": "c74bb12d63cc76f4fb60b957aed03ba2ac30dc1d9223f4b496e3b6e0c4a8947a",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E9LY07",
+      "path": "year9/english/ac9e9ly07-plan-create-rehearse-and-deliver-spoken-and-multimodal/index.html",
+      "signals": [
+        "generic_english_model"
+      ],
+      "source_sha256": "81c4ba295acdf2843c2cc681432b6af055fa3193db4e18338769aecb73273f8d",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    },
+    {
+      "code": "AC9E9LY08",
+      "path": "year9/english/ac9e9ly08-how-spelling-is-used-in-texts-for-particular-effects-for/index.html",
+      "signals": [
+        "generic_english_model",
+        "unsupplied_comparison"
+      ],
+      "source_sha256": "888381e0ac1f64a41342cca98c810e23dbd5b496c63e8dd2da04862493d477da",
+      "status": "editorial_review_required",
+      "note": "Pattern evidence, not a Google penalty or a completed teacher review."
+    }
+  ]
+}
