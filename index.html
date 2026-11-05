@@ -193,6 +193,49 @@
 #skillr-home .clean-resume-divider:last-of-type{display:none}
 }
 </style>
+<style id="home-learning-showcase-layout">
+#skillr-home .clean-wrap{width:min(1040px,calc(100% - 32px))}
+#skillr-home .clean-main{max-width:1040px}
+#skillr-home .clean-main>h1{max-width:780px;margin-inline:auto}
+#skillr-home .clean-main>p:first-of-type{max-width:690px;margin-inline:auto}
+#skillr-home .clean-progress-preview{max-width:780px;margin-inline:auto}
+#skillr-home .clean-years{text-align:center}
+#skillr-home .clean-years ul{justify-content:center}
+#skillr-home .home-learning-showcase{display:grid;grid-template-columns:1fr 1fr;gap:28px;margin:32px 0;align-items:stretch}
+#skillr-home .home-routine{padding:26px 12px 26px 0}
+#skillr-home .home-eyebrow{font-size:13px;font-weight:650;color:var(--skillr-primary);margin:0 0 8px;letter-spacing:.015em}
+#skillr-home .home-learning-showcase h2{font-size:25px;line-height:1.25;letter-spacing:-.02em;margin:0 0 18px;color:var(--skillr-text)}
+#skillr-home .home-routine-steps{list-style:none;padding:0;margin:24px 0}
+#skillr-home .home-routine-steps li{display:flex;align-items:flex-start;gap:14px;margin:0 0 22px}
+#skillr-home .home-step-number{display:inline-flex;align-items:center;justify-content:center;flex:none;width:34px;height:34px;border-radius:50%;background:#dbeafe;color:#1e40af;font-weight:700}
+#skillr-home .home-routine-steps h3{font-size:16px;margin:0 0 4px}
+#skillr-home .home-routine-steps p{font-size:14px;margin:0;max-width:350px}
+#skillr-home .home-routine-link,#skillr-home .home-demo-link{display:inline-flex;align-items:center;min-height:44px;font-size:14px;font-weight:600}
+#skillr-home .home-practice-demo{background:#fff;border:1px solid #dbeafe;border-radius:18px;padding:24px;box-shadow:0 7px 24px #2457d60a;min-width:0}
+#skillr-home .home-demo-heading{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap;margin-bottom:12px}
+#skillr-home .home-demo-heading .home-eyebrow{margin:0}
+#skillr-home .home-demo-subject{font-size:12px;padding:4px 9px;border-radius:20px;background:var(--skillr-soft-surface);color:#1e40af}
+#skillr-home .home-practice-demo h2{font-size:21px;margin-bottom:12px}
+#skillr-home .home-demo-question{font-size:15px;margin:0 0 16px}
+#skillr-home .home-demo-visual{display:flex;justify-content:center;align-items:center;gap:14px;background:var(--skillr-soft-surface);padding:15px;border-radius:10px;margin:0 0 16px;font-size:25px;font-weight:650;color:#1e40af}
+#skillr-home .home-demo-unknown{display:inline-flex;justify-content:center;align-items:center;min-width:40px;min-height:40px;border:1px dashed #93b4ed;border-radius:8px;background:#fff}
+#skillr-home .home-demo-options{display:grid;grid-template-columns:1fr 1fr;gap:9px}
+#skillr-home .home-demo-options button{min-height:44px;padding:10px;border:1px solid var(--skillr-control-border);border-radius:8px;background:#fff;font:inherit;font-size:14px;color:var(--skillr-text);cursor:pointer}
+#skillr-home .home-demo-options button:hover{background:var(--skillr-soft-surface);border-color:var(--skillr-primary)}
+#skillr-home .home-demo-options button[aria-pressed="true"]{background:#dbeafe;border-color:var(--skillr-primary);color:#1e40af;font-weight:650}
+#skillr-home .home-demo-feedback{min-height:91px;padding:12px 14px;margin-top:14px;border-radius:10px;background:#f1f5f9;font-size:14px}
+#skillr-home .home-demo-feedback p{margin:3px 0 0}
+#skillr-home .home-demo-feedback[data-result="correct"]{background:#ecfdf5;color:#065f46}
+#skillr-home .home-demo-feedback[data-result="correct"] p{color:#065f46}
+#skillr-home .home-demo-feedback[data-result="retry"]{background:#eff6ff;color:#1e40af}
+#skillr-home .home-demo-feedback[data-result="retry"] p{color:#1e40af}
+@media(max-width:700px){
+#skillr-home .home-learning-showcase{grid-template-columns:1fr;gap:16px}
+#skillr-home .home-routine{padding:10px 0}
+#skillr-home .home-practice-demo{padding:20px}
+#skillr-home .home-routine-steps p{max-width:none}
+}
+</style>
 </head>
 <body class="home-page">
 <div id="skillr-home" class="clean-home">
@@ -273,6 +316,33 @@
     <div id="site-search-results" class="sp-results" hidden><p id="site-search-status" role="status" aria-live="polite"></p><ul id="site-search-list"></ul></div>
     <noscript><p><a href="/sitemap.html">Browse the curriculum index</a>.</p></noscript>
   </section>
+  <section class="home-learning-showcase" aria-labelledby="home-learning-title">
+    <div class="home-routine">
+      <p class="home-eyebrow">A little practice. Growing confidence.</p>
+      <h2 id="home-learning-title">A simple routine to return to</h2>
+      <ol class="home-routine-steps">
+        <li><span class="home-step-number" aria-hidden="true">1</span><div><h3>Find your next topic</h3><p>Choose a year and a skill your child is ready to practise.</p></div></li>
+        <li><span class="home-step-number" aria-hidden="true">2</span><div><h3>Learn from each answer</h3><p>Use clear explanations and helpful feedback to build understanding.</p></div></li>
+        <li><span class="home-step-number" aria-hidden="true">3</span><div><h3>Come back and build on it</h3><p>Save practice with a free parent account and review progress in your dashboard.</p></div></li>
+      </ol>
+      <a class="home-routine-link" href="https://app.skillrhub.com/?login=1" data-home-conversion="login_click" data-home-placement="learning-routine">Open your learning dashboard →</a>
+    </div>
+    <div class="home-practice-demo" id="home-practice-demo">
+      <div class="home-demo-heading"><span class="home-eyebrow">Try a practice preview</span><span class="home-demo-subject">Year 3 Maths</span></div>
+      <h2>Small steps towards understanding</h2>
+      <p class="home-demo-question">Mia shares 24 stickers equally between 4 friends. How many stickers does each friend get?</p>
+      <div class="home-demo-visual" aria-label="24 divided by 4 equals how many?"><span>24</span><span>÷</span><span>4</span><span>=</span><span class="home-demo-unknown">?</span></div>
+      <div class="home-demo-options" role="group" aria-label="Choose the number of stickers each friend gets">
+        <button type="button" data-preview-answer="6" aria-pressed="false">6 stickers</button>
+        <button type="button" data-preview-answer="8" aria-pressed="false">8 stickers</button>
+        <button type="button" data-preview-answer="20" aria-pressed="false">20 stickers</button>
+        <button type="button" data-preview-answer="28" aria-pressed="false">28 stickers</button>
+      </div>
+      <div class="home-demo-feedback" id="home-demo-feedback" role="status" aria-live="polite"><strong>Try an answer.</strong><p>See how helpful feedback explains the next step.</p></div>
+      <noscript><p>Each friend gets 6 stickers: 24 ÷ 4 = 6. Check: 4 × 6 = 24.</p></noscript>
+      <a class="home-demo-link" href="https://app.skillrhub.com/?try=1" data-home-conversion="practice_trial" data-home-placement="practice-preview">Explore more practice →</a>
+    </div>
+  </section>
   <nav class="clean-years" aria-label="Browse curriculum by year">
     <h2>Browse by year</h2>
     <p>Choose a year, then Maths, English or Science.</p>
@@ -322,5 +392,25 @@ document.addEventListener('click',function(event){var link=event.target.closest&
 <script src="/share-button.js?v=20260912-5"></script>
 <script src="/assets/home-topic-search.js?v=year-navigation-20261105" defer></script>
 
+<script id="home-practice-preview-behaviour">
+(function(){
+  var demo=document.getElementById('home-practice-demo');
+  if(!demo)return;
+  var feedback=document.getElementById('home-demo-feedback');
+  var answers=demo.querySelectorAll('button[data-preview-answer]');
+  var title=feedback.querySelector('strong'),message=feedback.querySelector('p');
+  answers.forEach(function(button){
+    button.addEventListener('click',function(){
+      answers.forEach(function(other){other.setAttribute('aria-pressed',String(other===button));});
+      var correct=button.dataset.previewAnswer==='6';
+      feedback.dataset.result=correct?'correct':'retry';
+      title.textContent=correct?'That’s right — 6 stickers each.':'Try sharing the stickers into 4 equal groups.';
+      message.textContent=correct?'24 ÷ 4 = 6. Check your answer: 4 × 6 = 24.':'Each group must have the same number. Find the number that gives 24 when multiplied by 4, then try again.';
+      if(correct)demo.querySelector('.home-demo-unknown').textContent='6';
+      else demo.querySelector('.home-demo-unknown').textContent='?';
+    });
+  });
+})();
+</script>
 </body>
 </html>
