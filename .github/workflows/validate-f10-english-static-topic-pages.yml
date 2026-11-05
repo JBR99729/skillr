@@ -8,6 +8,8 @@ on:
       - 'assets/curriculum.css'
       - 'data/curriculum-units.json'
       - 'scripts/validate_f10_english_static_topic_pages.mjs'
+      - "scripts/lib/published_activity_navigation.mjs"
+      - "scripts/tests/test_published_activity_navigation.mjs"
       - '.github/workflows/validate-f10-english-static-topic-pages.yml'
   push:
     branches: [ main ]
@@ -17,6 +19,8 @@ on:
       - 'assets/curriculum.css'
       - 'data/curriculum-units.json'
       - 'scripts/validate_f10_english_static_topic_pages.mjs'
+      - "scripts/lib/published_activity_navigation.mjs"
+      - "scripts/tests/test_published_activity_navigation.mjs"
       - '.github/workflows/validate-f10-english-static-topic-pages.yml'
   workflow_dispatch:
 
@@ -30,3 +34,5 @@ jobs:
       - uses: actions/checkout@v4
       - name: Validate F-10 English static topic pages
         run: node scripts/validate_f10_english_static_topic_pages.mjs
+      - name: Verify published activity navigation safeguards
+        run: node --test scripts/tests/test_published_activity_navigation.mjs

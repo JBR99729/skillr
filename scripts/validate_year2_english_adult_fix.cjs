@@ -1,4 +1,5 @@
 const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict');
+const { validateRetiredActivity } = require('./lib/published_activity_navigation.mjs');
 const read=p=>fs.readFileSync(p,'utf8');
 const status=/^(Adult review required|Response not yet reviewed|Revise with an adult)$/;
 let total=0,adult=0;
@@ -17,6 +18,8 @@ for(let n=1;n<=5;n++)for(const bank of ['practice','test']){
  const result=support.evaluateAdultResponse(q);assert.equal(result.isCorrect,null);assert.equal(result.pendingReview,true);assert.equal(support.summarise([{isCorrect:true},result],75).passed,false);
  }else{assert.equal(q.correct,s.correct_index);assert.equal(q.answers[q.correct],s.answers[s.correct_index].text)}
  }
- const html=read(route+'index.html');assert(html.includes('requireAdultReviewSupport":true'));assert(html.includes('data-adult-review-note'));assert(html.includes('20260907-english-adult-fix'));
+ const html=read(route+'index.html');
+ if(html.includes('data-legacy-quiz-retired='))assert.deepEqual(validateRetiredActivity(html,`AC9E2LA0${n}`),[]);
+ else{assert(html.includes('requireAdultReviewSupport":true'));assert(html.includes('data-adult-review-note'));assert(html.includes('20260907-english-adult-fix'));}
 }
 assert.equal(adult,20);console.log({status:'PASS',total,adult,checks:'source parity, no status answers, adult response renderer, no automatic credit or pass'});

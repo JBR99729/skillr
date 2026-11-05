@@ -10,6 +10,8 @@ on:
       - 'scripts/year8_science_static_v2_manifest.mjs'
       - 'scripts/validate_year8_science_static_v2.mjs'
       - 'scripts/validate_f10_topic_learning_order.mjs'
+      - "scripts/lib/published_activity_navigation.mjs"
+      - "scripts/tests/test_published_activity_navigation.mjs"
       - '.github/workflows/validate-year8-science-static-v2.yml'
   push:
     branches: [main]
@@ -44,3 +46,5 @@ jobs:
         run: node scripts/audit_static_teacher_slides.mjs
       - name: Sitewide zero-runtime curriculum audit
         run: node scripts/audit_static_curriculum_site.mjs --fail-on-runtime-topics --json=artifacts/year8-science-static-audit.json
+      - name: Verify published activity navigation safeguards
+        run: node --test scripts/tests/test_published_activity_navigation.mjs

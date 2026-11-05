@@ -7,6 +7,8 @@ on:
       - 'quiz/year-3/science/**'
       - 'assets/year3-subject-visuals.css'
       - 'scripts/validate_year3_science_static_topic_pages.mjs'
+      - "scripts/lib/published_activity_navigation.mjs"
+      - "scripts/tests/test_published_activity_navigation.mjs"
       - '.github/workflows/validate-year3-science-static-topic-pages.yml'
   push:
     branches: [ main ]
@@ -15,6 +17,8 @@ on:
       - 'quiz/year-3/science/**'
       - 'assets/year3-subject-visuals.css'
       - 'scripts/validate_year3_science_static_topic_pages.mjs'
+      - "scripts/lib/published_activity_navigation.mjs"
+      - "scripts/tests/test_published_activity_navigation.mjs"
       - '.github/workflows/validate-year3-science-static-topic-pages.yml'
   workflow_dispatch:
 
@@ -28,3 +32,5 @@ jobs:
       - uses: actions/checkout@v4
       - name: Validate Year 3 Science static topic pages
         run: node scripts/validate_year3_science_static_topic_pages.mjs
+      - name: Verify published activity navigation safeguards
+        run: node --test scripts/tests/test_published_activity_navigation.mjs

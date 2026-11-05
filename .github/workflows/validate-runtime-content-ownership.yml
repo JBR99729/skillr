@@ -19,6 +19,8 @@ on:
       - "pwa-register.js"
       - "scripts/tests/test_year2_science_runtime_ownership.mjs"
       - "scripts/tests/test_year3_authored_preparation.mjs"
+      - "scripts/lib/published_activity_navigation.mjs"
+      - "scripts/tests/test_published_activity_navigation.mjs"
       - ".github/workflows/validate-runtime-content-ownership.yml"
   push:
     branches: [main]
@@ -39,6 +41,8 @@ on:
       - "pwa-register.js"
       - "scripts/tests/test_year2_science_runtime_ownership.mjs"
       - "scripts/tests/test_year3_authored_preparation.mjs"
+      - "scripts/lib/published_activity_navigation.mjs"
+      - "scripts/tests/test_published_activity_navigation.mjs"
       - ".github/workflows/validate-runtime-content-ownership.yml"
   workflow_dispatch:
 
@@ -65,3 +69,5 @@ jobs:
       - name: Preserve authored Year 3 activity preparation
         run: node --test scripts/tests/test_year3_authored_preparation.mjs
 
+      - name: Verify published activity navigation safeguards
+        run: node --test scripts/tests/test_published_activity_navigation.mjs

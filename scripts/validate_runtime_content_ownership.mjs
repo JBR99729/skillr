@@ -1,6 +1,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import vm from "node:vm";
+import { validateRetiredActivity } from './lib/published_activity_navigation.mjs';
 
 const root = process.cwd();
 const errors = [];
@@ -12,6 +13,12 @@ function loadAssembledBank(code, bank) {
   const html = read(path.join(route, "index.html"));
   const scripts = [...html.matchAll(/<script[^>]+src=["']([^"']*questions[^"']*\.js[^"']*)["'][^>]*>/gi)]
     .map((match) => match[1].split("?")[0].replace(/^\//, ""));
+  if (html.includes('data-legacy-quiz-retired=')) {
+    validateRetiredActivity(html, code, root).forEach(fail);
+    // Preserve archived bank identity checks without expecting the retired
+    // player to execute those scripts in a visitor's browser.
+    scripts.push(path.join(route, 'questions.js'));
+  }
   const sandbox = { window: {}, console };
   vm.createContext(sandbox);
   for (const script of scripts) {

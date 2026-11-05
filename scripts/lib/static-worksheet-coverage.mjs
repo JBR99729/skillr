@@ -1,4 +1,5 @@
 // Static worksheet release checks: content, numbering, tiers and print delivery.
+import { validateTopicActivities } from './published_activity_navigation.mjs';
 export function hasCompleteStaticWorksheet(source, code, expectedCount = 9) {
   const html = source.replace(/<!--[\s\S]*?-->/g, "").replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi, "");
   const text = (s) => s.replace(/<[^>]*>/g, " ").replace(/\s+/g, " ").trim();
@@ -9,8 +10,7 @@ export function hasCompleteStaticWorksheet(source, code, expectedCount = 9) {
     && tasks.every((task, i) => text(task).startsWith(`${i + 1}. `) && text(task).length > 10)
     && answers.every((answer, i) => Number(answer[1]) === i + 1 && text(answer[2]).length > 10)
     && ["Warm-up", "Core", "Challenge"].every((tier, i) => tasks.filter((t) => t.includes(`>${tier}<`)).length === [3, 4, 2][i])
-    && key.includes(code) && html.includes(`/math/${code.toLowerCase()}/practice/`)
-    && html.includes(`/math/${code.toLowerCase()}/test/`)
+    && key.includes(code) && validateTopicActivities(html, code).length === 0
     && /<button\b[^>]*onclick="[^"]*classList\.remove\('print-answers'\);window\.print\(\)"/.test(html)
     && /<button\b[^>]*onclick="[^"]*classList\.add\('print-answers'\);window\.print\(\)"/.test(html)
     && /<link\b[^>]*href="\/assets\/foundation-three-packages\.css\?/.test(html);

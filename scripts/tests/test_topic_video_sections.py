@@ -26,6 +26,18 @@ class Tags(HTMLParser):
 
 
 class VideoSections(unittest.TestCase):
+    def test_authored_sections_keep_selected_videos_without_restoring_old_navigation(self):
+        video = {'id': 'OinudV2LWlo'}
+        source = ('<details><summary>Optional video</summary>'
+                  '<iframe title="Count to ten" src="https://www.youtube-nocookie.com/embed/OinudV2LWlo"></iframe></details>')
+        builder.validate_authored_videos(source, [video], 'AC9MFN01')
+        builder.validate_authored_videos('<h1>Written lesson only</h1>', [video], 'AC9MFN01')
+        for invalid in [source.replace('OinudV2LWlo', 'xxxxxxxxxxx'),
+                        source.replace('OinudV2LWlo"', 'OinudV2LWlo?autoplay=1"'),
+                        source.replace('title="Count to ten"', '')]:
+            with self.assertRaises(ValueError):
+                builder.validate_authored_videos(invalid, [video], 'AC9MFN01')
+
     def setUp(self):
         self.row = dict(zip(builder.FIELDS, [
             "AC9MFN01", "https://www.youtube.com/watch?v=OinudV2LWlo", "Count to 10",

@@ -2,6 +2,7 @@
 const hasClass = (html, token) => [...html.matchAll(/\bclass=["']([^"']*)["']/g)].some((match) => match[1].split(/\s+/).includes(token));
 import fs from 'node:fs';
 import path from 'node:path';
+import { validateTopicActivities } from './lib/published_activity_navigation.mjs';
 
 const root = process.cwd();
 const failures = [];
@@ -40,8 +41,9 @@ for (const unit of units) {
   if (/id=["'](?:topicRoot|year4Topic)["'][^>]*>\s*(?:<p[^>]*>)?\s*Loading/i.test(html)) failures.push(`${code}: topic page must not depend on runtime curriculum rendering`);
   if (!/What students learn|Learning intention|Learning goal|Key concept|Curriculum coverage/i.test(text)) failures.push(`${code}: static teaching content marker missing`);
 
+  failures.push(...validateTopicActivities(html, code, root));
   const links = hrefs(html);
-  for (const route of [`/quiz/year-4/science/${lowerCode}/worksheet/`, `/quiz/year-4/science/${lowerCode}/practice/`, `/quiz/year-4/science/${lowerCode}/test/`]) {
+  for (const route of [`/quiz/year-4/science/${lowerCode}/worksheet/`]) {
     if (!links.includes(route)) failures.push(`${code}: missing protected journey link ${route}`);
     if (!exists(routeFile(route))) failures.push(`${code}: broken protected journey route ${route}`);
   }
