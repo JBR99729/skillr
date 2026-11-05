@@ -4,7 +4,7 @@
 .cb-kicker{font-size:.875rem;color:var(--cb-muted);margin:0}
 .curriculum-browser h1,.cb-topic-intro h1{margin:4px 0 16px}
 .cb-offer,.cb-model{display:flex;align-items:center;gap:12px}
-.cb-toolbar{display:grid;grid-template-columns:auto minmax(0,1fr);align-items:center;gap:8px;border-bottom:1px solid var(--cb-line);padding-bottom:10px;margin-bottom:16px}
+.cb-toolbar{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));align-items:center;gap:8px;border-bottom:1px solid var(--cb-line);padding-bottom:10px;margin-bottom:16px}
 .cb-subjects{display:grid;grid-template-columns:repeat(3,1fr)}
 .cb-strands{flex-wrap:wrap}
 .cb-search{position:relative;display:block;min-width:0}
