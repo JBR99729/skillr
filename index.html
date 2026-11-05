@@ -156,6 +156,12 @@
 @keyframes skillr-free-offer-blink{0%,35%,100%{opacity:1}65%{opacity:.65}}
 @media(prefers-reduced-motion:reduce){#skillr-home .clean-free-offer{animation:none}}
 </style>
+<style id="home-practice-actions-layout">
+#skillr-home .clean-start{flex-direction:column;align-items:center;justify-content:center;gap:6px}
+#skillr-home .clean-start>a.clean-chat{width:288px;max-width:100%;justify-content:center}
+#skillr-home .clean-start>a:not(.clean-chat){font-size:14px}
+@media(max-width:540px){#skillr-home .clean-start>a.clean-chat{width:100%}}
+</style>
 </head>
 <body class="home-page">
 <div id="skillr-home" class="clean-home">
