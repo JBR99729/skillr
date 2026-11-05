@@ -151,6 +151,11 @@
 }
 </script>
 <link rel="stylesheet" href="/assets/home-clean.css?v=centered-contact-20261105">
+<style id="home-free-offer-animation">
+#skillr-home .clean-free-offer{color:var(--skillr-primary);animation:skillr-free-offer-blink 2.8s ease-in-out infinite}
+@keyframes skillr-free-offer-blink{0%,35%,100%{opacity:1}65%{opacity:.65}}
+@media(prefers-reduced-motion:reduce){#skillr-home .clean-free-offer{animation:none}}
+</style>
 </head>
 <body class="home-page">
 <div id="skillr-home" class="clean-home">
@@ -169,7 +174,7 @@
     <a class="clean-chat" href="https://app.skillrhub.com/?try=1" data-home-conversion="practice_trial" data-home-placement="hero">Try free practice</a>
     <a href="#choose-year">Find a topic by year</a>
   </div>
-  <p class="clean-allowance"><strong>500 free practice questions</strong><br><strong>Create a free parent account</strong> to save your practice progress.<br>No card required.</p>
+  <p class="clean-allowance"><strong class="clean-free-offer">500 free practice questions</strong><br><strong>Create a free parent account</strong> to save your practice progress.<br>No card required.</p>
   <section id="topic-search" class="clean-search" role="search" aria-label="Curriculum search">
     <form id="home-topic-search" action="/" method="get">
       <label for="site-search-input">Search by topic or code</label>
