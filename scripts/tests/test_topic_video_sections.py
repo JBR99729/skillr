@@ -2,6 +2,7 @@
 import csv
 import importlib.util
 import json
+import sys
 from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import parse_qs, urlsplit
@@ -13,6 +14,8 @@ SPEC = importlib.util.spec_from_file_location(
     "topic_videos", Path(__file__).resolve().parents[1] / "build_topic_video_sections.py")
 builder = importlib.util.module_from_spec(SPEC)
 SPEC.loader.exec_module(builder)
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+import experiment_hide_topic_videos as experiment
 
 
 class Tags(HTMLParser):
@@ -26,6 +29,24 @@ class Tags(HTMLParser):
 
 
 class VideoSections(unittest.TestCase):
+    def test_experiment_preserves_resources_inside_malformed_video_markup(self):
+        resources = ('<!-- skillr-tpt-resource-facts:start -->'
+                     '<details><summary>Resources</summary><a href="/about.html">About</a>'
+                     '<a href="/editorial-standards.html">Editorial standards</a></details>'
+                     '<!-- skillr-tpt-resource-facts:end -->')
+        discovery = ('<!-- skillr-discovery:start --><nav>Related lessons</nav>'
+                     '<!-- skillr-discovery:end -->')
+        for wrapper in (
+            '<!-- skillr-topic-videos:start --><details class="skillr-topic-videos">'
+            '<summary>Optional video</summary>{}</details><!-- skillr-topic-videos:end -->',
+            '<details class="skillr-topic-videos"><summary>Optional video</summary>{}</details>',
+        ):
+            with self.subTest(wrapper=wrapper):
+                source = '<h1>Teaching</h1>' + wrapper.format(resources + discovery) + '<p>Worked example</p>'
+                expected = '<h1>Teaching</h1>' + resources + discovery + '<p>Worked example</p>'
+                self.assertEqual(experiment.strip(source), expected)
+                self.assertEqual(experiment.strip(expected), expected)
+
     def test_authored_sections_keep_selected_videos_without_restoring_old_navigation(self):
         video = {'id': 'OinudV2LWlo'}
         source = ('<details><summary>Optional video</summary>'
