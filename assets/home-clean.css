@@ -23,7 +23,7 @@ body.home-page{margin:0}
 #skillr-home [hidden],#skillr-home .clean-footer>.footer-nav,#skillr-messenger-bubble,#skillr-resource-links{display:none!important}
 #skillr-home a{color:var(--skillr-primary);text-underline-offset:3px}
 #skillr-home :focus-visible{outline:2px solid var(--skillr-primary);outline-offset:3px}
-#skillr-home .clean-wrap{width:min(1080px,calc(100% - 32px));margin-inline:auto}
+#skillr-home .clean-wrap{width:min(650px,calc(100% - 32px));margin-inline:auto}
 #skillr-home .clean-header,#skillr-home .clean-footer{display:flex;justify-content:space-between;align-items:flex-start;gap:10px 20px;flex-wrap:wrap;padding:12px 0}
 #skillr-home .clean-header{border-bottom:1px solid var(--skillr-panel-border)}
 #skillr-home .clean-header nav,#skillr-home .clean-footer nav{display:flex;gap:0 18px;align-items:flex-start;flex-wrap:wrap}
@@ -52,7 +52,8 @@ body.home-page{margin:0}
 #skillr-home .sp-result-meta{font-size:14px;margin:4px 0}
 #skillr-home .sp-result-actions{display:flex;gap:8px 14px;flex-wrap:wrap;font-size:14px}
 #skillr-home .sp-result-actions a{display:inline-flex;align-items:center;min-height:44px}
-#skillr-home .clean-footer{border-top:1px solid var(--skillr-panel-border)}
+#skillr-home .clean-footer{border-top:1px solid var(--skillr-panel-border);justify-content:center}
+#skillr-home .clean-footer nav{justify-content:center}
 #skillr-home .clean-footer ul{margin:0;padding-left:16px}
 #skillr-home summary{color:var(--skillr-primary);text-decoration:underline;cursor:pointer}
 #skillr-home .clean-skip{position:absolute;left:12px;top:8px;padding:10px;background:var(--skillr-surface)}
@@ -61,11 +62,11 @@ body.home-page{margin:0}
 /* The homepage owns its header, including with a cached navigation helper. */
 body.home-page:has(#skillr-home .clean-header) > .skillr-site-header{display:none!important}
 
-#skillr-home .resource-request{margin-top:20px;border-top:1px solid var(--skillr-panel-border);padding-top:8px}
-#skillr-home .resource-request label{display:block;margin:10px 0 4px;font-weight:600}
-#skillr-home .resource-request input,#skillr-home .resource-request select,#skillr-home .resource-request textarea{display:block;width:100%;min-height:44px;border:1px solid var(--skillr-control-border);border-radius:8px;background:var(--skillr-surface);color:var(--skillr-text);font:inherit;padding:8px 10px}
-#skillr-home .resource-request button{margin:10px 8px 8px 0}
-#skillr-home #request-copy{min-height:44px;border:1px solid var(--skillr-control-border);border-radius:8px;background:var(--skillr-surface);color:var(--skillr-primary);font:inherit;padding:8px 12px}
+/* Keep contact actions direct and aligned with the shared content column. */
+#skillr-home .resource-request{margin-top:20px;border-top:1px solid var(--skillr-panel-border);padding-top:16px}
+#skillr-home .resource-request h2{font-size:20px;line-height:1.3;margin:0 0 8px}
+#skillr-home .clean-contact-options{display:flex;flex-wrap:wrap;align-items:center;gap:8px 18px}
+#skillr-home .clean-contact-options a{display:inline-flex;align-items:center;min-height:44px;overflow-wrap:anywhere}
 
 /* Compact Messenger contact entry point; no iframe, SDK, or intrusive popup. */
 #skillr-home .clean-messenger-float {
