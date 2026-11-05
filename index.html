@@ -151,89 +151,110 @@
 }
 </script>
 <link rel="stylesheet" href="/assets/home-clean.css?v=centered-contact-20261105">
-<style id="home-free-offer-animation">
-#skillr-home .clean-free-offer{color:var(--skillr-primary);animation:skillr-free-offer-blink 2.8s ease-in-out infinite}
+<style id="home-reference-design">
+#skillr-home{font-family:Arial,Helvetica,sans-serif;background:#f9fafc;color:#081323}
+#skillr-home .clean-wrap{width:min(1120px,calc(100% - 116px));margin-inline:auto}
+#skillr-home .clean-header{width:calc(100% - 40px);max-width:1440px;align-items:center;padding:12px 0;border:0;min-height:60px}
+#skillr-home a.clean-brand{font-size:24px;font-weight:700;gap:9px}
+#skillr-home .clean-brand img{width:38px;height:38px}
+#skillr-home .clean-header nav{align-items:center;gap:0}
+#skillr-home .clean-header nav>a{font-size:14px;min-height:24px;color:#14181f;text-decoration:none;padding:0 15px}
+#skillr-home .clean-header nav>a+a{border-left:1px solid #777}
+#skillr-home .clean-main{max-width:1120px;padding:12px 0 26px}
+#skillr-home .clean-main>h1{color:#07111f;font-size:clamp(32px,4.8vw,56px);font-weight:700;line-height:1.04;letter-spacing:-1.7px;text-align:center;margin:0 auto 14px;max-width:1050px}
+#skillr-home .clean-main>.clean-hero-intro{font-size:18px;line-height:1.4;text-align:center;margin:0 auto 20px;color:#363c43}
+#skillr-home .clean-start{display:flex;flex-direction:row;flex-wrap:nowrap;justify-content:center;align-items:center;gap:24px;margin:0 0 23px}
+#skillr-home .clean-start>a.clean-chat{display:inline-flex;justify-content:center;align-items:center;width:274px;max-width:60%;min-height:50px;padding:10px 20px;border-radius:10px;background:#0759e8;font-size:20px;font-weight:600;box-shadow:0 1px 2px #0759e81a}
+#skillr-home .clean-start>a:not(.clean-chat){font-size:15px;min-height:44px;color:#084083;text-decoration:none;gap:9px;white-space:nowrap}
+#skillr-home .clean-start>a:not(.clean-chat)>span{font-size:23px;font-weight:400}
+#skillr-home .home-benefits{display:grid;grid-template-columns:1fr 1.35fr 1.05fr;gap:20px;margin:0 0 20px}
+#skillr-home .home-benefit{display:flex;align-items:center;gap:13px;min-width:0}
+#skillr-home .home-benefit:first-child{border-right:1px solid #d4d6dc;padding-right:18px}
+#skillr-home .home-benefit-icon{display:inline-flex;align-items:center;justify-content:center;flex:none;width:52px;height:52px;border-radius:50%;background:#eaf2fd;color:#0c5bc7}
+#skillr-home .home-benefit-icon svg{width:31px;height:31px}
+#skillr-home .home-benefit>div{min-width:0}
+#skillr-home .home-benefit strong{font-size:14px;line-height:1.35;font-weight:600;display:block;color:#15191f}
+#skillr-home .home-benefit p{font-size:12px;line-height:1.4;margin:5px 0 0;color:#161b22}
+#skillr-home .home-benefit p>a{color:inherit;text-decoration:none}
+#skillr-home .home-benefit-saved .home-benefit-icon{color:#15883c;background:#eaf5e9}
+#skillr-home .home-benefit-saved strong{color:#287c31}
+#skillr-home .clean-free-offer{animation:skillr-free-offer-blink 2.8s ease-in-out infinite}
 @keyframes skillr-free-offer-blink{0%,35%,100%{opacity:1}65%{opacity:.65}}
 @media(prefers-reduced-motion:reduce){#skillr-home .clean-free-offer{animation:none}}
-</style>
-<style id="home-practice-actions-layout">
-#skillr-home .clean-start{flex-direction:row;flex-wrap:nowrap;align-items:center;justify-content:center;gap:12px 20px}
-#skillr-home .clean-start>a.clean-chat{width:288px;max-width:100%;justify-content:center;flex-shrink:1}
-#skillr-home .clean-start>a:not(.clean-chat){font-size:14px;flex-shrink:0}
-@media(max-width:540px){
-#skillr-home .clean-start{gap:12px}
-#skillr-home .clean-start>a.clean-chat{width:60%}
+#skillr-home .clean-progress-preview{margin:0 0 12px}
+#skillr-home .clean-resume-card{position:relative;padding:7px 18px;background:#fff;border:1px solid #eceef2;border-radius:12px;box-shadow:0 2px 6px #152c4510}
+#skillr-home .clean-preview-label{position:absolute;right:9px;top:4px;font-size:11px;color:#657180}
+#skillr-home .clean-resume-row{display:flex;align-items:center;justify-content:flex-start;flex-wrap:wrap;gap:10px 24px;font-size:15px;min-height:42px}
+#skillr-home .clean-resume-icon{display:inline-flex;align-items:center;justify-content:center;width:42px;height:42px;flex:none;border-radius:50%;background:#edf5fc;color:#0e5ec7}
+#skillr-home .clean-resume-icon svg{width:24px;height:24px;fill:currentColor}
+#skillr-home .clean-resume-divider{font-size:21px;color:#92979e}
+#skillr-home .clean-resume-row>a{display:inline-flex;align-items:center;min-height:38px;font-size:15px;color:#064480;text-decoration:none}
+#skillr-home .clean-search{padding:15px 22px 10px;border:1px solid #e3eaf4;border-radius:13px;box-shadow:0 2px 5px #16324a08;background:linear-gradient(130deg,#f6faff,#f3f6fd)}
+#skillr-home .clean-search label{font-size:18px;font-weight:600;margin-bottom:7px;color:#14191f}
+#skillr-home .sp-search-field{display:grid;grid-template-columns:minmax(0,1fr) 164px;gap:14px;padding:0;border:0;border-radius:0;background:transparent;position:relative}
+#skillr-home .sp-search-field input{width:100%;min-width:0;min-height:42px;padding:8px 12px 8px 47px;border:1px solid #d8dde5;border-radius:8px;background:#fff;font-size:16px;color:#18222d}
+#skillr-home input::placeholder{color:#404b57}
+#skillr-home .home-search-icon{position:absolute;left:14px;top:11px;width:21px;height:21px;pointer-events:none;color:#101820}
+#skillr-home .home-search-icon svg{display:block;width:21px;height:21px}
+#skillr-home .sp-search-field button{min-height:42px;padding:8px 18px;border-radius:8px;background:#0759e8;font-size:17px;font-weight:500}
+#skillr-home .clean-filters{grid-template-columns:minmax(0,260px) minmax(0,244px);gap:32px;margin-top:12px;padding-top:11px;border-top:1px solid #d9dfe7}
+#skillr-home .clean-filters label{font-size:14px;font-weight:400;margin-bottom:4px}
+#skillr-home .clean-filters select{min-height:38px;padding:6px 10px;border-radius:6px;font-size:14px}
+#skillr-home .clean-years{margin:10px 0 0;text-align:left}
+#skillr-home .clean-years h2{font-size:20px;font-weight:600;margin:0 0 7px;color:#101820}
+#skillr-home .clean-years ul{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:8px 12px}
+#skillr-home .clean-years li{min-width:0}
+#skillr-home .clean-years a{display:flex;width:100%;min-width:0;min-height:38px;padding:6px 9px;border:1px solid #eef0f3;border-radius:9px;box-shadow:0 2px 4px #17253808;color:#101820;font-size:15px}
+#skillr-home .resource-request{margin-top:34px}
+#skillr-home .clean-footer{padding-bottom:24px}
+@media(min-width:1400px){#skillr-home .clean-main{padding-top:18px}}
+@media(max-width:1000px){
+#skillr-home .clean-wrap{width:calc(100% - 48px)}
+#skillr-home .home-benefits{gap:14px}
+#skillr-home .home-benefit{gap:9px}
+#skillr-home .home-benefit-icon{width:44px;height:44px}
+#skillr-home .home-benefit-icon svg{width:27px;height:27px}
+#skillr-home .home-benefit strong{font-size:13px}
+#skillr-home .home-benefit p{font-size:11px}
+#skillr-home .clean-resume-row{gap:8px 18px}
+}
+@media(max-width:760px){
+#skillr-home .clean-wrap{width:calc(100% - 32px)}
+#skillr-home .clean-header{width:calc(100% - 32px);gap:4px}
+#skillr-home .clean-header nav>a{font-size:12px;padding:0 8px}
+#skillr-home a.clean-brand{font-size:21px}
+#skillr-home .clean-brand img{width:32px;height:32px}
+#skillr-home .clean-main{padding-top:16px}
+#skillr-home .clean-main>h1{font-size:clamp(30px,5.4vw,42px);letter-spacing:-1px;line-height:1.08}
+#skillr-home .clean-main>.clean-hero-intro{font-size:16px}
+#skillr-home .home-benefits{grid-template-columns:1fr;gap:12px}
+#skillr-home .home-benefit:first-child{border-right:0;padding-right:0}
+#skillr-home .home-benefit strong{font-size:14px}
+#skillr-home .home-benefit p{font-size:12px}
+#skillr-home .clean-resume-row{gap:7px 12px;font-size:14px}
+#skillr-home .clean-resume-row>a{font-size:14px}
+#skillr-home .clean-search{padding:14px}
+#skillr-home .sp-search-field{grid-template-columns:minmax(0,1fr) 90px;gap:9px}
+#skillr-home .sp-search-field button{font-size:15px;padding:8px 10px}
+#skillr-home .clean-filters{grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:15px}
+#skillr-home .clean-years ul{grid-template-columns:repeat(4,minmax(0,1fr));gap:8px}
+}
+@media(max-width:480px){
+#skillr-home .clean-header{flex-direction:column;align-items:flex-start;padding-bottom:8px}
+#skillr-home .clean-header nav{width:100%;justify-content:flex-end}
+#skillr-home .clean-header nav>a:first-child{padding-left:0}
+#skillr-home .clean-start{gap:14px;margin-bottom:22px}
+#skillr-home .clean-start>a.clean-chat{width:60%;min-height:48px;padding:9px 10px;font-size:16px}
 #skillr-home .clean-start>a:not(.clean-chat){font-size:13px}
-}
-</style>
-<style id="home-welcome-layout">
-#skillr-home .clean-main>h1{text-wrap:balance}
-#skillr-home .clean-main>h1,#skillr-home .clean-main>p:first-of-type{text-align:center}
-#skillr-home .clean-welcome{text-align:center;margin:20px auto 28px}
-#skillr-home .clean-welcome p{margin:0}
-#skillr-home .clean-welcome .clean-allowance{font-size:18px;line-height:1.5;margin-bottom:4px}
-#skillr-home .clean-welcome .clean-account{font-size:14px}
-#skillr-home .clean-welcome .clean-progress{font-size:14px;margin-top:9px}
-#skillr-home .clean-welcome .clean-paid-options{font-size:13px;margin-top:6px}
-</style>
-<style id="home-progress-preview-layout">
-#skillr-home .clean-progress-preview{margin:0 0 24px}
-#skillr-home .clean-save-reassurance{display:flex;align-items:center;justify-content:center;gap:9px;margin:0 0 12px;color:var(--skillr-progress);font-size:15px;text-align:center}
-#skillr-home .clean-save-reassurance>svg{width:27px;height:27px;flex:none}
-#skillr-home .clean-resume-card{padding:12px 16px;background:#fff;border:1px solid var(--skillr-panel-border);border-radius:12px;box-shadow:0 2px 7px #16324a0a}
-#skillr-home .clean-resume-card .clean-preview-label{font-size:12px;margin:0 0 8px;color:var(--skillr-text-secondary)}
-#skillr-home .clean-resume-row{display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:6px 10px;font-size:14px}
-#skillr-home .clean-resume-row>a{display:inline-flex;align-items:center;min-height:44px;font-weight:600}
-#skillr-home .clean-resume-icon{display:inline-flex;align-items:center;justify-content:center;flex:none;width:34px;height:34px;border-radius:50%;background:var(--skillr-soft-surface);color:var(--skillr-primary)}
-#skillr-home .clean-resume-icon>svg{width:22px;height:22px;fill:currentColor}
-@media(max-width:540px){
+#skillr-home .clean-start>a:not(.clean-chat)>span{font-size:19px}
 #skillr-home .clean-resume-card{padding:12px}
-#skillr-home .clean-resume-row{gap:6px 8px}
+#skillr-home .clean-resume-row{gap:5px 9px}
 #skillr-home .clean-resume-row>a{flex-basis:100%;justify-content:center}
-#skillr-home .clean-resume-divider:last-of-type{display:none}
-}
-</style>
-<style id="home-learning-showcase-layout">
-#skillr-home .clean-wrap{width:min(1040px,calc(100% - 32px))}
-#skillr-home .clean-main{max-width:1040px}
-#skillr-home .clean-main>h1{max-width:780px;margin-inline:auto}
-#skillr-home .clean-main>p:first-of-type{max-width:690px;margin-inline:auto}
-#skillr-home .clean-progress-preview{max-width:780px;margin-inline:auto}
-#skillr-home .clean-years{text-align:center}
-#skillr-home .clean-years ul{justify-content:center}
-#skillr-home .home-learning-showcase{display:grid;grid-template-columns:1fr 1fr;gap:28px;margin:32px 0;align-items:stretch}
-#skillr-home .home-routine{padding:26px 12px 26px 0}
-#skillr-home .home-eyebrow{font-size:13px;font-weight:650;color:var(--skillr-primary);margin:0 0 8px;letter-spacing:.015em}
-#skillr-home .home-learning-showcase h2{font-size:25px;line-height:1.25;letter-spacing:-.02em;margin:0 0 18px;color:var(--skillr-text)}
-#skillr-home .home-routine-steps{list-style:none;padding:0;margin:24px 0}
-#skillr-home .home-routine-steps li{display:flex;align-items:flex-start;gap:14px;margin:0 0 22px}
-#skillr-home .home-step-number{display:inline-flex;align-items:center;justify-content:center;flex:none;width:34px;height:34px;border-radius:50%;background:#dbeafe;color:#1e40af;font-weight:700}
-#skillr-home .home-routine-steps h3{font-size:16px;margin:0 0 4px}
-#skillr-home .home-routine-steps p{font-size:14px;margin:0;max-width:350px}
-#skillr-home .home-routine-link,#skillr-home .home-demo-link{display:inline-flex;align-items:center;min-height:44px;font-size:14px;font-weight:600}
-#skillr-home .home-practice-demo{background:#fff;border:1px solid #dbeafe;border-radius:18px;padding:24px;box-shadow:0 7px 24px #2457d60a;min-width:0}
-#skillr-home .home-demo-heading{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap;margin-bottom:12px}
-#skillr-home .home-demo-heading .home-eyebrow{margin:0}
-#skillr-home .home-demo-subject{font-size:12px;padding:4px 9px;border-radius:20px;background:var(--skillr-soft-surface);color:#1e40af}
-#skillr-home .home-practice-demo h2{font-size:21px;margin-bottom:12px}
-#skillr-home .home-demo-question{font-size:15px;margin:0 0 16px}
-#skillr-home .home-demo-visual{display:flex;justify-content:center;align-items:center;gap:14px;background:var(--skillr-soft-surface);padding:15px;border-radius:10px;margin:0 0 16px;font-size:25px;font-weight:650;color:#1e40af}
-#skillr-home .home-demo-unknown{display:inline-flex;justify-content:center;align-items:center;min-width:40px;min-height:40px;border:1px dashed #93b4ed;border-radius:8px;background:#fff}
-#skillr-home .home-demo-options{display:grid;grid-template-columns:1fr 1fr;gap:9px}
-#skillr-home .home-demo-options button{min-height:44px;padding:10px;border:1px solid var(--skillr-control-border);border-radius:8px;background:#fff;font:inherit;font-size:14px;color:var(--skillr-text);cursor:pointer}
-#skillr-home .home-demo-options button:hover{background:var(--skillr-soft-surface);border-color:var(--skillr-primary)}
-#skillr-home .home-demo-options button[aria-pressed="true"]{background:#dbeafe;border-color:var(--skillr-primary);color:#1e40af;font-weight:650}
-#skillr-home .home-demo-feedback{min-height:91px;padding:12px 14px;margin-top:14px;border-radius:10px;background:#f1f5f9;font-size:14px}
-#skillr-home .home-demo-feedback p{margin:3px 0 0}
-#skillr-home .home-demo-feedback[data-result="correct"]{background:#ecfdf5;color:#065f46}
-#skillr-home .home-demo-feedback[data-result="correct"] p{color:#065f46}
-#skillr-home .home-demo-feedback[data-result="retry"]{background:#eff6ff;color:#1e40af}
-#skillr-home .home-demo-feedback[data-result="retry"] p{color:#1e40af}
-@media(max-width:700px){
-#skillr-home .home-learning-showcase{grid-template-columns:1fr;gap:16px}
-#skillr-home .home-routine{padding:10px 0}
-#skillr-home .home-practice-demo{padding:20px}
-#skillr-home .home-routine-steps p{max-width:none}
+#skillr-home .clean-resume-row>.clean-resume-divider:last-of-type{display:none}
+#skillr-home .clean-resume-icon{width:30px;height:30px}
+#skillr-home .clean-resume-icon svg{width:20px;height:20px}
+#skillr-home .clean-years ul{grid-template-columns:repeat(3,minmax(0,1fr))}
+#skillr-home .clean-years a{font-size:14px;min-height:42px}
 }
 </style>
 </head>
@@ -248,32 +269,34 @@
   </nav>
 </header>
 <main id="main-content" class="clean-wrap clean-main" tabindex="-1">
-  <h1>Australian Curriculum practice made simple</h1>
-  <p>Spend less time searching and more time learning—with organised topics, clear explanations and helpful feedback.</p>
+  <h1>Australian Curriculum practice<br>made simple</h1>
+  <p class="clean-hero-intro">Clear explanations and helpful feedback. Start free in seconds.</p>
   <div class="clean-start">
     <a class="clean-chat" href="https://app.skillrhub.com/?try=1" data-home-conversion="practice_trial" data-home-placement="hero">Start free practice</a>
-    <a href="#choose-year">Browse by year →</a>
+    <a href="#choose-year">Browse by year <span aria-hidden="true">→</span></a>
   </div>
-  <div class="clean-welcome">
-    <p class="clean-allowance"><strong class="clean-free-offer">500 free practice questions</strong></p>
-    <p class="clean-account"><strong>Create a free parent account</strong> · No card required.</p>
-    <p class="clean-progress">Save progress and view your dashboard. Come back anytime.</p>
-    <p class="clean-paid-options">Explore at your own pace. Paid options when you’re ready.</p>
-  </div>
+  <section class="home-benefits" aria-label="Free practice and saved progress">
+    <div class="home-benefit">
+      <span class="home-benefit-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 8h18v4H3zM5 12v9h14v-9M12 8v13"/><path d="M12 8H8a3 3 0 1 1 3-3l1 3Zm0 0h4a3 3 0 1 0-3-3l-1 3Z"/></svg></span>
+      <div><strong class="clean-free-offer">500 free practice questions</strong><p><a href="https://app.skillrhub.com/?login=1" data-home-conversion="login_click" data-home-placement="benefits">Free parent account</a> · No card needed</p></div>
+    </div>
+    <div class="home-benefit">
+      <span class="home-benefit-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M20 7A8 8 0 0 0 6 5L3 8M3 3v5h5M4 17a8 8 0 0 0 14 2l3-3M21 21v-5h-5"/></svg></span>
+      <div><strong>Your progress is saved. Come back anytime.</strong><p>Start free. Pay only if it becomes part of your routine.</p></div>
+    </div>
+    <div class="home-benefit home-benefit-saved">
+      <span class="home-benefit-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M12 2 3 6v6c0 5 9 10 9 10s9-5 9-10V6Z" fill="currentColor"/><path d="m8 12 3 3 5-6" fill="none" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+      <div><strong>Progress saved with free account</strong><p>Your practice. Your progress. Your dashboard.</p></div>
+    </div>
+  </section>
   <section class="clean-progress-preview" aria-label="Example learning dashboard">
-    <p class="clean-save-reassurance">
-      <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 2 3 6v6c0 5 9 10 9 10s9-5 9-10V6Z" fill="currentColor"/><path d="m8 12 3 3 5-6" fill="none" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
-      <strong>Progress saved with a free account</strong>
-    </p>
     <div class="clean-resume-card">
-      <p class="clean-preview-label">Example progress</p>
+      <span class="clean-preview-label">Example</span>
       <div class="clean-resume-row">
         <span class="clean-resume-icon" aria-hidden="true"><svg viewBox="0 0 24 24" focusable="false"><rect x="3" y="14" width="4" height="7" rx="1"/><rect x="10" y="9" width="4" height="12" rx="1"/><rect x="17" y="3" width="4" height="18" rx="1"/></svg></span>
-        <strong>Year 3 Maths</strong>
-        <span class="clean-resume-divider" aria-hidden="true">·</span>
-        <span>8 skills practised</span>
-        <span class="clean-resume-divider" aria-hidden="true">·</span>
-        <a href="https://app.skillrhub.com/?login=1" data-home-conversion="login_click" data-home-placement="progress-preview">Continue where you left off →</a>
+        <strong>Year 3 Maths</strong><span class="clean-resume-divider" aria-hidden="true">·</span>
+        <span>8 skills practised</span><span class="clean-resume-divider" aria-hidden="true">·</span>
+        <a href="https://app.skillrhub.com/?login=1" data-home-conversion="login_click" data-home-placement="progress-preview">Continue where you left off</a>
       </div>
     </div>
   </section>
@@ -281,14 +304,15 @@
     <form id="home-topic-search" action="/" method="get">
       <label for="site-search-input">Search by topic or code</label>
       <div class="sp-search-field">
-        <input id="site-search-input" name="q" type="search" placeholder="e.g. numbers to 120 or AC9M1N01" aria-controls="site-search-results" autocomplete="off">
+        <span class="home-search-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m15.5 15.5 5 5"/></svg></span>
+        <input id="site-search-input" name="q" type="search" placeholder="e.g. fractions, algebra, AC9M7N01" aria-controls="site-search-results" autocomplete="off">
         <button type="submit">Search</button>
       </div>
       <div id="choose-year" class="clean-filters" tabindex="-1">
         <div>
           <label for="search-year">Year level</label>
           <select id="search-year" name="year">
-            <option value="">All years</option>
+            <option value="">Any year</option>
             <option value="0">Foundation</option>
             <option value="1">Year 1</option>
             <option value="2">Year 2</option>
@@ -305,7 +329,7 @@
         <div>
           <label for="search-subject">Subject</label>
           <select id="search-subject" name="subject">
-            <option value="">All subjects</option>
+            <option value="">Any subject</option>
             <option value="maths">Maths</option>
             <option value="english">English</option>
             <option value="science">Science</option>
@@ -316,36 +340,8 @@
     <div id="site-search-results" class="sp-results" hidden><p id="site-search-status" role="status" aria-live="polite"></p><ul id="site-search-list"></ul></div>
     <noscript><p><a href="/sitemap.html">Browse the curriculum index</a>.</p></noscript>
   </section>
-  <section class="home-learning-showcase" aria-labelledby="home-learning-title">
-    <div class="home-routine">
-      <p class="home-eyebrow">A little practice. Growing confidence.</p>
-      <h2 id="home-learning-title">A simple routine to return to</h2>
-      <ol class="home-routine-steps">
-        <li><span class="home-step-number" aria-hidden="true">1</span><div><h3>Find your next topic</h3><p>Choose a year and a skill your child is ready to practise.</p></div></li>
-        <li><span class="home-step-number" aria-hidden="true">2</span><div><h3>Learn from each answer</h3><p>Use clear explanations and helpful feedback to build understanding.</p></div></li>
-        <li><span class="home-step-number" aria-hidden="true">3</span><div><h3>Come back and build on it</h3><p>Save practice with a free parent account and review progress in your dashboard.</p></div></li>
-      </ol>
-      <a class="home-routine-link" href="https://app.skillrhub.com/?login=1" data-home-conversion="login_click" data-home-placement="learning-routine">Open your learning dashboard →</a>
-    </div>
-    <div class="home-practice-demo" id="home-practice-demo">
-      <div class="home-demo-heading"><span class="home-eyebrow">Try a practice preview</span><span class="home-demo-subject">Year 3 Maths</span></div>
-      <h2>Small steps towards understanding</h2>
-      <p class="home-demo-question">Mia shares 24 stickers equally between 4 friends. How many stickers does each friend get?</p>
-      <div class="home-demo-visual" aria-label="24 divided by 4 equals how many?"><span>24</span><span>÷</span><span>4</span><span>=</span><span class="home-demo-unknown">?</span></div>
-      <div class="home-demo-options" role="group" aria-label="Choose the number of stickers each friend gets">
-        <button type="button" data-preview-answer="6" aria-pressed="false">6 stickers</button>
-        <button type="button" data-preview-answer="8" aria-pressed="false">8 stickers</button>
-        <button type="button" data-preview-answer="20" aria-pressed="false">20 stickers</button>
-        <button type="button" data-preview-answer="28" aria-pressed="false">28 stickers</button>
-      </div>
-      <div class="home-demo-feedback" id="home-demo-feedback" role="status" aria-live="polite"><strong>Try an answer.</strong><p>See how helpful feedback explains the next step.</p></div>
-      <noscript><p>Each friend gets 6 stickers: 24 ÷ 4 = 6. Check: 4 × 6 = 24.</p></noscript>
-      <a class="home-demo-link" href="https://app.skillrhub.com/?try=1" data-home-conversion="practice_trial" data-home-placement="practice-preview">Explore more practice →</a>
-    </div>
-  </section>
   <nav class="clean-years" aria-label="Browse curriculum by year">
     <h2>Browse by year</h2>
-    <p>Choose a year, then Maths, English or Science.</p>
     <ul>
       <li><a href="/foundation/">Foundation</a></li>
       <li><a href="/year1/">Year 1</a></li>
@@ -392,25 +388,5 @@ document.addEventListener('click',function(event){var link=event.target.closest&
 <script src="/share-button.js?v=20260912-5"></script>
 <script src="/assets/home-topic-search.js?v=year-navigation-20261105" defer></script>
 
-<script id="home-practice-preview-behaviour">
-(function(){
-  var demo=document.getElementById('home-practice-demo');
-  if(!demo)return;
-  var feedback=document.getElementById('home-demo-feedback');
-  var answers=demo.querySelectorAll('button[data-preview-answer]');
-  var title=feedback.querySelector('strong'),message=feedback.querySelector('p');
-  answers.forEach(function(button){
-    button.addEventListener('click',function(){
-      answers.forEach(function(other){other.setAttribute('aria-pressed',String(other===button));});
-      var correct=button.dataset.previewAnswer==='6';
-      feedback.dataset.result=correct?'correct':'retry';
-      title.textContent=correct?'That’s right — 6 stickers each.':'Try sharing the stickers into 4 equal groups.';
-      message.textContent=correct?'24 ÷ 4 = 6. Check your answer: 4 × 6 = 24.':'Each group must have the same number. Find the number that gives 24 when multiplied by 4, then try again.';
-      if(correct)demo.querySelector('.home-demo-unknown').textContent='6';
-      else demo.querySelector('.home-demo-unknown').textContent='?';
-    });
-  });
-})();
-</script>
 </body>
 </html>
