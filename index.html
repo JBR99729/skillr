@@ -157,10 +157,14 @@
 @media(prefers-reduced-motion:reduce){#skillr-home .clean-free-offer{animation:none}}
 </style>
 <style id="home-practice-actions-layout">
-#skillr-home .clean-start{flex-direction:column;align-items:center;justify-content:center;gap:6px}
-#skillr-home .clean-start>a.clean-chat{width:288px;max-width:100%;justify-content:center}
-#skillr-home .clean-start>a:not(.clean-chat){font-size:14px}
-@media(max-width:540px){#skillr-home .clean-start>a.clean-chat{width:100%}}
+#skillr-home .clean-start{flex-direction:row;flex-wrap:nowrap;align-items:center;justify-content:center;gap:12px 20px}
+#skillr-home .clean-start>a.clean-chat{width:288px;max-width:100%;justify-content:center;flex-shrink:1}
+#skillr-home .clean-start>a:not(.clean-chat){font-size:14px;flex-shrink:0}
+@media(max-width:540px){
+#skillr-home .clean-start{gap:12px}
+#skillr-home .clean-start>a.clean-chat{width:60%}
+#skillr-home .clean-start>a:not(.clean-chat){font-size:13px}
+}
 </style>
 </head>
 <body class="home-page">
