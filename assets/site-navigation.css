@@ -178,3 +178,8 @@ body.skillr-shared-navigation { padding-top: 0; }
 @media print {
   .skillr-site-header, .skillr-site-breadcrumb { display: none !important; }
 }
+
+/* Temporarily hide Updates from the primary navigation. */
+:is(.main-nav, .site-header__links, .site-header__menu-panel) a:is([href="/updates.html"], [href="https://skillrhub.com/updates.html"], .updates-link) {
+  display: none !important;
+}

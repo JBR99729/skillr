@@ -4246,3 +4246,8 @@ pre { overflow-x: auto; }
 .button--quiz, .button-link.button--quiz, .button--worksheet { background: var(--site-primary); border-color: var(--site-primary); color: white; box-shadow: none; }
 .button--guide { background: white; border-color: var(--site-line); color: var(--site-primary); }
 @media (hover: hover) { .button--quiz:hover, .button-link.button--quiz:hover, .button--worksheet:hover { background: var(--site-primary-hover); color: white; } }
+
+/* Temporarily hide Updates from the primary navigation. */
+:is(.main-nav, .site-header__links, .site-header__menu-panel) a:is([href="/updates.html"], [href="https://skillrhub.com/updates.html"], .updates-link) {
+  display: none !important;
+}
