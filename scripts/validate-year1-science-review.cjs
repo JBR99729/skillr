@@ -4,6 +4,7 @@ const fs = require('node:fs');
 const path = require('node:path');
 const vm = require('node:vm');
 const {JSDOM, VirtualConsole} = require('jsdom');
+const {validateRetiredActivity} = require('./lib/published_activity_navigation.mjs');
 const root = path.resolve(__dirname, '..');
 const read = p => fs.readFileSync(path.join(root,p),'utf8');
 const tick = () => new Promise(r=>setImmediate(r));
@@ -12,7 +13,7 @@ const batch3 = process.argv.includes('--batch3');
 const batch4 = process.argv.includes('--batch4');
 const codes = batch4 ? ['ac9s1i06'] : batch3 ? ['ac9s1i03','ac9s1i04','ac9s1i05'] : batch2 ? ['ac9s1h01','ac9s1i01','ac9s1i02'] : ['ac9s1u01','ac9s1u02','ac9s1u03'];
 const tag = batch4 ? 'r4' : batch3 ? 'r3' : batch2 ? 'r2' : 'r1';
-let rendered = 0, visualCount = 0;
+let rendered = 0, visualCount = 0, retiredLaunches = 0;
 (async()=>{
  for(const code of codes) {
   const canonical=JSON.parse(read(`assets/assessment-banks/year1/science/${code}.json`));
@@ -21,12 +22,16 @@ let rendered = 0, visualCount = 0;
   for(const mode of ['practice','test']) {
    const route=`quiz/year-1/science/${code}/${mode}/`;
    const html=read(route+'index.html');
-   const cfg=JSON.parse(html.match(/window.quizConfig=(\{.*?\});/s)[1]);
+   const retired=html.includes('data-legacy-quiz-retired=');
+   if(retired)assert.deepEqual(validateRetiredActivity(html,code.toUpperCase(),root),[]);
+   const cfg=retired ? null : JSON.parse(html.match(/window.quizConfig=(\{.*?\});/s)[1]);
    const source=canonical.filter(q=>q.bank===mode);
    assert.equal(source.length,mode==='practice'?24:16);
-   assert(cfg.resultStorageKey.endsWith('Science'+tag.toUpperCase()));
-   for(const page of ['result','review']) assert(read(route+page+'/index.html').includes(cfg.resultStorageKey));
-   assert(html.includes('questions.js?v=20260906-science-'+tag));
+   if(!retired){
+    assert(cfg.resultStorageKey.endsWith('Science'+tag.toUpperCase()));
+    for(const page of ['result','review']) assert(read(route+page+'/index.html').includes(cfg.resultStorageKey));
+    assert(html.includes('questions.js?v=20260906-science-'+tag));
+   }
    const sandbox={window:{}};vm.runInNewContext(read(route+'questions.js'),sandbox);
    const live=sandbox.window.quizQuestions;
    assert.equal(live.length,source.length);
@@ -47,6 +52,7 @@ let rendered = 0, visualCount = 0;
      doc.defaultView.close();
     }
    }
+   if(retired){retiredLaunches++;continue;}
    let saved={},seen=new Set();
    for(let round=0;round<(mode==='practice'?3:2);round++) {
     const errors=[],vc=new VirtualConsole();
@@ -86,5 +92,5 @@ let rendered = 0, visualCount = 0;
    assert.equal(seen.size,source.length,code+' '+mode+' coverage');
   }
  }
- console.log(`PASS: ${codes.length*40} source questions; ${visualCount} visual assets; ${rendered} answers through ${codes.length*5} real-runtime attempts; complete bank coverage; scoring, answer shuffle, rotation, and result-key isolation.`);
+ console.log(`PASS: ${codes.length*40} retained source questions with answer parity; ${visualCount} visual assets; ${retiredLaunches} retired launches safely redirect to published availability. ${rendered} answers exercised through any remaining active legacy players; archived players are not reactivated.`);
 })().catch(e=>{console.error(e);process.exitCode=1;});

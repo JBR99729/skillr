@@ -35,6 +35,19 @@ The baseline for this repair is main `3d4ef2257bd7e1f0be849c1a9ba249227e044adb`.
   title, description, canonical and indexability are unchanged.
 - Workflow path filters include the shared activity contract and regression
   tests. No failing workflow is disabled or configured to ignore errors.
+- The PR-only Years 1–7 resource audit now follows the authoritative canonical
+  topic inventory, recognizes existing Classroom View and fixed-image formats,
+  and distinguishes retained compatibility paths from active viewers. Its old
+  six-item legacy exception list is removed: all 427 codes must pass.
+- PR validation also exposed the same retired-launch assumption in the reviewed
+  Year 1 Science checks. Source question/answer parity and SVG safety checks
+  remain active; retired routes must safely redirect rather than run a removed
+  player. Scoring claims are limited to any remaining active legacy players.
+- Verification-status maintenance now reads the canonical curriculum inventory
+  rather than an obsolete badge CSS class. Read-only checks preserve intentionally
+  absent badges and optional summaries, ignore archived badge markup and check
+  existing published claims against the unchanged review ledger. No new code is
+  recorded as reviewed and no badge is activated by this repair.
 
 ## Validation
 
