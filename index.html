@@ -150,7 +150,7 @@
   ]
 }
 </script>
-<link rel="stylesheet" href="/assets/home-clean.css?v=curriculum-links-20261105">
+<link rel="stylesheet" href="/assets/home-clean.css?v=centered-contact-20261105">
 </head>
 <body class="home-page">
 <div id="skillr-home" class="clean-home">
@@ -226,29 +226,14 @@
       <li><a href="/year10/">Year 10</a></li>
     </ul>
   </nav>
-  <details class="resource-request">
-    <summary>Need custom teaching slides or worksheets?</summary>
-    <p>Tell us what you need and send your request on Messenger.</p>
-    <form id="resource-request-form" hidden>
-      <label for="request-format">What do you need?</label>
-      <select id="request-format" name="format" required>
-        <option>Teaching slides</option>
-        <option>Worksheets</option>
-        <option>Teaching slides and worksheets</option>
-      </select>
-      <label for="request-topic">Year level and topic or curriculum code</label>
-      <input id="request-topic" name="topic" maxlength="160" placeholder="e.g. Year 1 Maths, AC9M1N01" required>
-      <button class="clean-chat" type="submit">Prepare message</button>
-    </form>
-    <div id="resource-request-preview" hidden>
-      <label for="request-message">Your message</label>
-      <textarea id="request-message" rows="3" readonly></textarea>
-      <button type="button" id="request-copy">Copy message</button>
-      <a href="https://m.me/61591597270383?ref=skillrhub_web" target="_blank" rel="noopener">Open Messenger</a>
-      <p id="request-status" role="status">Copy your message, then paste and send it in Messenger.</p>
+  <section class="resource-request" aria-labelledby="custom-resources-title">
+    <h2 id="custom-resources-title">Need custom teaching slides or worksheets?</h2>
+    <p>Message us on Messenger with the year level, topic and resource you need. You can also contact us by email.</p>
+    <div class="clean-contact-options">
+      <a class="clean-chat" href="https://m.me/61591597270383?ref=skillrhub_web" target="_blank" rel="noopener noreferrer" data-home-conversion="messenger_click" data-home-placement="custom-resources">Message us on Messenger</a>
+      <a href="mailto:skillrhublearning@gmail.com">Email skillrhublearning@gmail.com</a>
     </div>
-    <noscript><p><a href="https://m.me/61591597270383?ref=skillrhub_web">Message us on Messenger</a> with your resource type, year level and topic.</p></noscript>
-  </details>
+  </section>
 </main>
 <footer class="clean-wrap clean-footer">
   <nav aria-label="Community and support">
@@ -273,40 +258,6 @@ document.addEventListener('click',function(event){var link=event.target.closest&
 <script src="/pwa-register.js?v=7"></script>
 <script src="/share-button.js?v=20260912-5"></script>
 <script src="/assets/home-topic-search.js?v=year-navigation-20261105" defer></script>
-<script>
-(() => {
-  const form = document.getElementById('resource-request-form');
-  const preview = document.getElementById('resource-request-preview');
-  const message = document.getElementById('request-message');
-  const status = document.getElementById('request-status');
 
-  form.hidden = false;
-  form.elements.topic.addEventListener('input', () => form.elements.topic.setCustomValidity(''));
-  form.addEventListener('submit', event => {
-    event.preventDefault();
-    const topic = form.elements.topic.value.trim();
-    if (!topic) {
-      form.elements.topic.setCustomValidity('Enter a year level and topic or curriculum code.');
-      form.elements.topic.reportValidity();
-      return;
-    }
-    message.value = `Hi SkillrHub, could you help with custom ${form.elements.format.value.toLowerCase()} for ${topic}?`;
-    status.textContent = 'Copy your message, then paste and send it in Messenger.';
-    preview.hidden = false;
-    message.focus();
-  });
-
-  document.getElementById('request-copy').addEventListener('click', async () => {
-    try {
-      await navigator.clipboard.writeText(message.value);
-      status.textContent = 'Copied. Open Messenger, then paste and send your message.';
-    } catch {
-      message.focus();
-      message.select();
-      status.textContent = 'Copy the selected text, then paste and send it in Messenger.';
-    }
-  });
-})();
-</script>
 </body>
 </html>
