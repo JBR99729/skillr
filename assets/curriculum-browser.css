@@ -1,0 +1,38 @@
+.curriculum-browser,.cb-topic-intro{--cb-blue:#245bd5;--cb-ink:#142c48;--cb-muted:#425c78;--cb-line:#d6e2ef;--cb-wash:#eef4ff;color:var(--cb-ink)}
+.curriculum-browser{max-width:1240px;margin:auto;padding:24px clamp(12px,4vw,36px)}
+.curriculum-browser [hidden]{display:none!important}
+.cb-kicker{font-size:.875rem;color:var(--cb-muted);margin:0}
+.curriculum-browser h1,.cb-topic-intro h1{margin:4px 0 16px}
+.cb-toolbar,.cb-subjects,.cb-offer,.cb-model{display:flex;align-items:center;gap:12px}
+.cb-toolbar{justify-content:space-between;border-bottom:1px solid var(--cb-line);padding-bottom:10px;margin-bottom:16px}
+.cb-subjects,.cb-strands{flex-wrap:wrap}
+.cb-search{display:grid;gap:4px;font-weight:600}
+.cb-search input{font:inherit;font-size:16px;min-height:44px;width:100%;border:1px solid var(--cb-line);border-radius:8px;padding:8px 10px}
+.curriculum-browser button,.cb-years a{font:inherit;min-height:44px;padding:8px 12px;border:1px solid var(--cb-line);border-radius:8px;background:white;color:var(--cb-ink);text-decoration:none}
+.curriculum-browser button[aria-pressed=true],.cb-years a[aria-current=true]{background:var(--cb-wash);color:#1946ad;border-color:var(--cb-blue);font-weight:700}
+.cb-layout{display:flex;align-items:flex-start;gap:18px}
+.cb-years{display:grid;gap:6px;min-width:110px}
+.cb-years a{display:flex;align-items:center}
+.cb-topics{min-width:0;flex:1}
+.cb-offer{justify-content:space-between;flex-wrap:wrap;background:var(--cb-wash);border:1px solid var(--cb-line);border-radius:10px;padding:14px;margin:0 0 14px}
+.cb-offer p{margin:4px 0 0;color:var(--cb-muted)}
+.cb-action{display:inline-flex;align-items:center;min-height:44px;padding:8px 14px;border-radius:8px;background:var(--cb-blue);color:white!important;text-decoration:none;font-weight:700}
+.cb-strands{display:flex;gap:6px}
+.cb-count{color:var(--cb-muted)}
+.cb-group ul{padding:0;list-style:none;border:1px solid var(--cb-line);border-radius:10px}
+.cb-group li{padding:12px 14px}
+.cb-group li+li{border-top:1px solid var(--cb-line)}
+.cb-group a{color:#1746aa;font-weight:700;display:inline-flex;align-items:center;min-height:36px}
+.cb-group small{display:block;color:var(--cb-muted)}
+.cb-topic-intro{margin-bottom:18px}
+.cb-example{border:1px solid var(--cb-line);border-radius:12px;padding:16px;margin:14px 0;background:white}
+.cb-example h2{margin:4px 0 12px}
+.cb-model{justify-content:center;flex-wrap:wrap}
+.cb-model>div{display:grid;text-align:center;color:var(--cb-blue)}
+.cb-model strong{font-size:3.3rem;line-height:1.1}
+.cb-model figure{max-width:min(100%,220px);margin:0}
+.cb-model svg{display:block;max-width:100%;height:auto}
+.cb-takeaway{padding:10px 12px;background:var(--cb-wash);border-radius:8px;font-weight:700}
+@media(max-width:680px){.cb-toolbar,.cb-layout{display:grid;gap:10px}.cb-years{display:flex;flex-wrap:wrap}.cb-topics{width:100%}}
+.cb-lesson-bar{position:sticky;top:0;z-index:5;display:flex;align-items:center;justify-content:space-between;gap:10px;background:#fff;padding:8px 12px;margin-bottom:16px;border-bottom:1px solid #d6e2ef}
+.cb-lesson-bar #skillr-topic-practice-now{position:static;inset:auto;display:inline-flex;align-items:center;min-height:44px;border-radius:8px;padding:7px 12px;background:#245bd5;color:#fff;text-decoration:none;white-space:nowrap}
