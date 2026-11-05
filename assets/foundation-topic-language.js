@@ -14,7 +14,7 @@
   }
   if (!document.querySelector('script[src*="/assets/multi-audience-ux.js"]')) {
     const uxScript = document.createElement("script");
-    uxScript.src = "/assets/multi-audience-ux.js?v=1";
+    uxScript.src = "/assets/multi-audience-ux.js?v=20261106-no-audience-strip";
     uxScript.async = false;
     document.head.appendChild(uxScript);
   }
