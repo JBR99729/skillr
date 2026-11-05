@@ -2,6 +2,7 @@
 import { execFileSync, execSync } from 'node:child_process';
 import fs from 'node:fs';
 import { hasTeacherDisplayPage } from './lib/static_teacher_display.mjs';
+import { hasUnapprovedTopicDownload } from './lib/topic_reference_downloads.mjs';
 
 const base = process.env.GITHUB_BASE_REF ? `origin/${process.env.GITHUB_BASE_REF}` : 'HEAD~1';
 let changed = [];
@@ -73,7 +74,7 @@ for (const file of changed) {
     if (/(?:year\d+-(?:maths|science|english)-(?:render|topic)|topic-modules-render|lesson-render|lower-materials-render|foundation-.*render)\.js/i.test(html)) errors.push(`${file}: canonical topic teaching content must not depend on a curriculum renderer`);
     const text = html.replace(/<script[\s\S]*?<\/script>/gi, '').replace(/<style[\s\S]*?<\/style>/gi, '');
     if (!/What students learn|Key concept|Learning intention|Learning goal|Teaching Lesson|Core learning|Response model/i.test(text)) errors.push(`${file}: static teaching content appears to be missing`);
-    if (publicDownload.test(html)) errors.push(`${file}: Teacher Slides must not expose direct PPTX/PDF download links`);
+    if (hasUnapprovedTopicDownload(html)) errors.push(`${file}: Teacher Slides must not expose direct PPTX/PDF download links`);
     if (!/href=["'][^"']*(?:teacher-deck|teacher-slides)[^"']*\/(?:[?#][^"']*)?["']/i.test(html)) errors.push(`${file}: migrated topic page must link to a fixed page-by-page Teacher Slides viewer`);
   }
 

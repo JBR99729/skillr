@@ -41,10 +41,10 @@ def main():
         legacy=', '.join(item['v84'])
         paragraphs=[f'<p><strong>Australian Curriculum v8.4 to v9.0:</strong> '+
             (f'Related v8.4 content: {escape(legacy)}. ' if legacy else '')+
-            escape(item['note'])+f' <a href="{escape(url,quote=True)}">Read QCAA’s year-level comparison</a>.</p>']
+            escape(item['note'])+f' <a data-curriculum-reference="true" href="{escape(url,quote=True)}">Read QCAA’s year-level comparison</a>.</p>']
         for page in item.get('additional_pages',[]):
             extra=evidence['sources'][item['source']]+f'#page={page}'
-            paragraphs.append(f'<p><a href="{escape(extra,quote=True)}">QCAA implementation considerations, page {page}</a>.</p>')
+            paragraphs.append(f'<p><a data-curriculum-reference="true" href="{escape(extra,quote=True)}">QCAA implementation considerations, page {page}</a>.</p>')
         for mapping in item.get('international',[]):
             paragraphs.append(f'<p><strong>{escape(mapping["label"])}:</strong> {escape(mapping["note"])} '
                 f'<a href="{escape(evidence["sources"][mapping["source"]],quote=True)}">Official curriculum reference</a>.</p>')

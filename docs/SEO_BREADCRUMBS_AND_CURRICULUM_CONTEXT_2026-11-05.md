@@ -50,6 +50,15 @@ are stated on the pages. No global keyword-stuffing or URL migration is included
 Official source locators and the checked date are retained in
 `data/verified-curriculum-context.json`.
 
+The architecture validator originally misclassified every PDF citation as a
+Teacher Slides download. Topic pages now distinguish explicitly labelled HTTPS
+reference PDFs on the inspected QCAA and National Museum hosts. The existing
+National Museum citation receives this reference label too; its URL and text
+are retained. First-party PDFs, unapproved external PDFs and all PPTX files
+remain blocked. Teacher viewers keep their blanket PDF/PPTX prohibition.
+Regression tests cover the reference exception, first-party files, unapproved
+hosts, host impersonation, HTTP and encoded extensions. No check is disabled.
+
 ## Fresh mobile performance evidence
 
 Google PageSpeed Insights, mobile, 5 November 2026 (Australia/Sydney):
