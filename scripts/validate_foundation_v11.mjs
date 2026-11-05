@@ -8,6 +8,7 @@ import { hasStaticCurriculumCoverage } from "./lib/static-curriculum-coverage.mj
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const errors = [];
+const liveTopicUrls = new Map(JSON.parse(fs.readFileSync(path.join(root,"data/curriculum-units.json"),"utf8")).units.map(unit => [unit.code,unit.url]));
 // Keep this validator in the Foundation workflow trigger list because the
 // pre-module release gate re-runs the canonical v1.1 rollout checks.
 
@@ -126,7 +127,7 @@ for (const subject of subjects) {
       summary.elaborationModels += 1;
     }
 
-    const topicPath = path.join(root, "foundation", subject.pathSegment, spec.resourceLinks.topic.split("/").filter(Boolean).at(-1), "index.html");
+    const topicPath = path.join(root, (liveTopicUrls.get(code) || spec.resourceLinks.topic).replace(/^\//,""), "index.html");
     if (!fs.existsSync(topicPath)) {
       errors.push(`${code}: missing topic page ${path.relative(root, topicPath)}`);
       continue;

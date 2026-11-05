@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 import fs from 'node:fs';
 import path from 'node:path';
+import { validateTopicActivities } from './lib/published_activity_navigation.mjs';
 
 const root = process.cwd();
 const failures = [];
@@ -41,8 +42,9 @@ for (const unit of units) {
   if (!/What students learn|Learning intention|Learning goal|Key concept|Curriculum coverage|Core idea/i.test(text)) failures.push(`${code}: static teaching content marker missing`);
   if (!legacyStaticSectionPage && !/<details\b/i.test(html)) failures.push(`${code}: migrated topic pages must keep native details/summary sections`);
 
+  failures.push(...validateTopicActivities(html, code, root));
   const links = hrefs(html);
-  for (const route of [`/quiz/year-2/science/${lowerCode}/worksheet/`, `/quiz/year-2/science/${lowerCode}/practice/`, `/quiz/year-2/science/${lowerCode}/test/`]) {
+  for (const route of [`/quiz/year-2/science/${lowerCode}/worksheet/`]) {
     if (!links.includes(route)) failures.push(`${code}: missing protected journey link ${route}`);
     if (!exists(routeFile(route))) failures.push(`${code}: broken protected journey route ${route}`);
   }

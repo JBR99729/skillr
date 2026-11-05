@@ -14,6 +14,7 @@ on:
       - 'scripts/audit_static_teacher_slides.mjs'
       - 'scripts/validate_static_curriculum_architecture.mjs'
       - 'scripts/inject_static_breadcrumb_schema.mjs'
+      - 'scripts/tests/test_breadcrumb_preservation.mjs'
       - 'scripts/normalize_google_entity_graph.mjs'
       - 'scripts/audit_google_entity_graph.mjs'
       - 'scripts/lib/static_teacher_display.mjs'
@@ -33,6 +34,7 @@ on:
       - 'scripts/audit_static_teacher_slides.mjs'
       - 'scripts/validate_static_curriculum_architecture.mjs'
       - 'scripts/inject_static_breadcrumb_schema.mjs'
+      - 'scripts/tests/test_breadcrumb_preservation.mjs'
       - 'scripts/normalize_google_entity_graph.mjs'
       - 'scripts/audit_google_entity_graph.mjs'
       - 'scripts/lib/static_teacher_display.mjs'
@@ -52,6 +54,8 @@ jobs:
         with:
           node-version: '22'
       - run: node --test scripts/tests/test_static_teacher_display.mjs
+      - name: Verify breadcrumb preservation safeguards
+        run: node --test scripts/tests/test_breadcrumb_preservation.mjs
       - name: Validate static breadcrumb schema
         run: node scripts/inject_static_breadcrumb_schema.mjs --check
       - name: Validate Google entity graph

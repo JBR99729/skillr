@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 import fs from 'node:fs';
 import path from 'node:path';
+import { validateTopicActivities } from './lib/published_activity_navigation.mjs';
 import {YEAR8_SCIENCE_EXPECTED_CODES,YEAR8_SCIENCE_V2_MIGRATED} from './year8_science_static_v2_manifest.mjs';
 
 const ROOT=process.cwd();
@@ -46,8 +47,9 @@ for(const item of YEAR8_SCIENCE_V2_MIGRATED){
   if(!html.includes(item.victoria.code)||!html.includes(item.victoria.relationship))errors.push(`${item.code}: Victoria mapping missing`);
   for(const c of item.nsw.code.split(';').map(s=>s.trim()))if(!html.includes(c))errors.push(`${item.code}: NSW mapping ${c} missing`);
   if(!html.includes(item.nsw.relationship))errors.push(`${item.code}: NSW relationship missing`);
-  for(const label of ['Teacher Slides','Homework','Practice','Test'])if(!html.includes(`>${label}<`))errors.push(`${item.code}: ${label} link missing`);
+  for(const label of ['Teacher Slides','Homework'])if(!html.includes(`>${label}<`))errors.push(`${item.code}: ${label} link missing`);
   if(/>Practice Sheet<|>Worksheet</i.test(html))errors.push(`${item.code}: duplicate worksheet/practice-sheet CTA detected`);
+  errors.push(...validateTopicActivities(html,item.code,ROOT));
   if(!html.includes('data-report-issue')||!html.includes('/assets/report-issue.js'))errors.push(`${item.code}: Report Issue missing`);
   if(!html.includes('G-8P22BET45N'))errors.push(`${item.code}: analytics missing`);
   if(!html.includes('ca-pub-7734963540104771'))errors.push(`${item.code}: AdSense readiness missing`);

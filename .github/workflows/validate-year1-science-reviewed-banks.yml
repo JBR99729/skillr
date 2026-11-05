@@ -12,6 +12,8 @@ on:
       - 'quiz/year-1/science/ac9s1i0[123456]/**'
       - 'scripts/year1_science_ixl_review/**'
       - 'scripts/validate-year1-science-review.cjs'
+      - "scripts/lib/published_activity_navigation.mjs"
+      - "scripts/tests/test_published_activity_navigation.mjs"
       - '.github/workflows/validate-year1-science-reviewed-banks.yml'
   pull_request:
     paths:
@@ -24,6 +26,8 @@ on:
       - 'quiz/year-1/science/ac9s1i0[123456]/**'
       - 'scripts/year1_science_ixl_review/**'
       - 'scripts/validate-year1-science-review.cjs'
+      - "scripts/lib/published_activity_navigation.mjs"
+      - "scripts/tests/test_published_activity_navigation.mjs"
       - '.github/workflows/validate-year1-science-reviewed-banks.yml'
 permissions:
   contents: read
@@ -47,3 +51,5 @@ jobs:
         run: |
           node scripts/validate_year1_science_static_topic_pages.mjs
           node scripts/update_content_verification_status.mjs --check
+      - name: Verify published activity navigation safeguards
+        run: node --test scripts/tests/test_published_activity_navigation.mjs

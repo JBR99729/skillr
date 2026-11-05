@@ -3,6 +3,7 @@ import fs from "node:fs";
 import path from "node:path";
 import vm from "node:vm";
 import { hasCompleteStaticWorksheet } from "./lib/static-worksheet-coverage.mjs";
+import { hasStaticCurriculumCoverage } from './lib/static-curriculum-coverage.mjs';
 
 const root = path.resolve(import.meta.dirname, "..");
 const errors = [];
@@ -20,6 +21,7 @@ const data = context.window.SkillrFoundationMathsData;
 const canonical = context.window.SkillrFoundationCanonical;
 const specs = canonical.buildCollection(data, { subject: "Maths", year: "Foundation", pathSegment: "maths", quizSubject: "math" });
 const banks = context.window.SkillrFoundationWorksheetData;
+const liveTopicUrls = new Map(JSON.parse(read("data/curriculum-units.json")).units.map(unit => [unit.code, unit.url]));
 const codes = Object.keys(data).filter((code) => /^AC9MF/.test(code)).sort();
 assert(codes.length === 12, `Expected 12 Maths codes, found ${codes.length}`);
 
@@ -45,11 +47,11 @@ for (const code of codes) {
     assert(q.summary.includes(q.alignment?.method || "__missing__"), `${code} Q${index + 1}: worked-model method parity`);
   });
   assert(Array.isArray(bank?.preservedOptionalQuestions), `${code}: preserved legacy content not recorded`);
-  const topicRoute = spec?.resourceLinks?.topic?.replace(/^\//, "").replace(/\/$/, "/index.html");
+  const topicRoute = (liveTopicUrls.get(code) || spec?.resourceLinks?.topic)?.replace(/^\//, "").replace(/\/$/, "/index.html");
   assert(topicRoute && fs.existsSync(path.join(root, topicRoute)), `${code}: topic route missing`);
   if (topicRoute) {
     const topicHtml = read(topicRoute);
-    assert(topicHtml.includes("Revision Notes") && topicHtml.includes("teacher-slides/"), `${code}: static topic lesson or fixed slide link missing`);
+    assert((topicHtml.includes("Revision Notes") || hasStaticCurriculumCoverage(topicHtml)) && topicHtml.includes("teacher-slides/"), `${code}: static topic lesson or fixed slide link missing`);
     assert(!topicHtml.includes("foundation-maths-render.js") && !topicHtml.includes("foundation-v1.1-render.js"), `${code}: obsolete runtime curriculum renderer loaded`);
   }
   const worksheetRoute = `quiz/grade-k/math/${code.toLowerCase()}/worksheet/index.html`;

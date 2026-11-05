@@ -7,6 +7,8 @@ on:
       - 'quiz/year-7/math/**'
       - 'assets/year7-curriculum.css'
       - 'scripts/validate_year7_maths_static_topic_pages.mjs'
+      - "scripts/lib/published_activity_navigation.mjs"
+      - "scripts/tests/test_published_activity_navigation.mjs"
       - '.github/workflows/validate-year7-maths-static-topic-pages.yml'
   push:
     branches: [main]
@@ -15,6 +17,8 @@ on:
       - 'quiz/year-7/math/**'
       - 'assets/year7-curriculum.css'
       - 'scripts/validate_year7_maths_static_topic_pages.mjs'
+      - "scripts/lib/published_activity_navigation.mjs"
+      - "scripts/tests/test_published_activity_navigation.mjs"
       - '.github/workflows/validate-year7-maths-static-topic-pages.yml'
 
 permissions:
@@ -30,3 +34,5 @@ jobs:
           node-version: '22'
       - name: Validate Year 7 Maths topic pages
         run: node scripts/validate_year7_maths_static_topic_pages.mjs
+      - name: Verify published activity navigation safeguards
+        run: node --test scripts/tests/test_published_activity_navigation.mjs

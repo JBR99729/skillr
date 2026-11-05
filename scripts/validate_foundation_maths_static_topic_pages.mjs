@@ -1,6 +1,8 @@
 #!/usr/bin/env node
 import fs from 'node:fs';
 import path from 'node:path';
+import { hasTeacherDisplayPage } from './lib/static_teacher_display.mjs';
+import { validateTopicActivities } from './lib/published_activity_navigation.mjs';
 
 const root = process.cwd();
 const failures = [];
@@ -11,19 +13,7 @@ const routeFile = href => {
   return route.endsWith('/') ? `${route}index.html` : route;
 };
 const hrefs = html => [...html.matchAll(/<a\b[^>]*href=["']([^"']+)["']/gi)].map(match => match[1]);
-const teacherDisplayPage = html => {
-  const legacy = /data-single-open/i.test(html) && /Clean visual examples/i.test(html);
-  const topicFirst = /name=["']lesson["']/i.test(html)
-    && /id=["']curriculum-mapping["']/i.test(html)
-    && /\/assets\/css\/classroom-view\.css/i.test(html)
-    && /We do/i.test(html);
-  return /Teacher Display Page/i.test(html)
-    && (legacy || topicFirst)
-    && /<details\b/i.test(html)
-    && /<summary\b/i.test(html)
-    && !/class=["'][^"']*\bexample-icon\b[^"']*["']/i.test(html)
-    && /skillrhublearning@gmail\.com/i.test(html);
-};
+const teacherDisplayPage = hasTeacherDisplayPage;
 
 const units = JSON.parse(read('data/curriculum-units.json')).units
   .filter(unit => unit.yearNumber === 0 && unit.subjectSlug === 'maths')
@@ -48,13 +38,14 @@ for (const unit of units) {
   if (!/<meta\b[^>]*name=["']robots["'][^>]*content=["']index,\s*follow["']/i.test(html)) failures.push(`${code}: topic page must be index,follow`);
   if (!html.includes(`<link rel="canonical" href="${expectedCanonical}">`)) failures.push(`${code}: topic page must self-canonicalise to clean folder URL`);
   if (!/<body\b[^>]*class=["'][^"']*\bfoundation-maths-topic\b/i.test(html)) failures.push(`${code}: topic page must keep Foundation Maths scope class`);
-  if (!/<main\b[^>]*class=["'][^"']*\bcurriculum-layout\b/i.test(html)) failures.push(`${code}: topic page must keep the shared curriculum layout wrapper`);
+  if (!/<main\b[^>]*class=["'][^"']*\b(?:curriculum-layout|static-topic-grid|topic-content-main)\b/i.test(html)) failures.push(`${code}: topic page must keep the shared curriculum layout wrapper`);
   if (!/<details\b/i.test(html) && !/<section\b[^>]*class=["'][^"']*\bcurriculum-topic-section\b/i.test(html)) failures.push(`${code}: topic page must keep static teaching sections`);
   if (/id=["'](?:topicRoot|year2Topic)["'][^>]*>\s*(?:<p[^>]*>)?\s*Loading/i.test(html)) failures.push(`${code}: topic page must not depend on runtime curriculum rendering`);
   if (!/What students learn|Learning intention|Learning goal|Key concept|Curriculum coverage|Core idea/i.test(text)) failures.push(`${code}: static teaching content marker missing`);
 
+  failures.push(...validateTopicActivities(html, code, root));
   const links = hrefs(html);
-  for (const route of [`/quiz/grade-k/math/${lowerCode}/worksheet/`, `/quiz/grade-k/math/${lowerCode}/practice/`, `/quiz/grade-k/math/${lowerCode}/test/`]) {
+  for (const route of [`/quiz/grade-k/math/${lowerCode}/worksheet/`]) {
     if (!links.includes(route)) failures.push(`${code}: missing protected journey link ${route}`);
     if (!exists(routeFile(route))) failures.push(`${code}: broken protected journey route ${route}`);
   }
