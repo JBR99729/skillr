@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 import fs from 'node:fs';
 import path from 'node:path';
+import { validateTopicActivities } from './lib/published_activity_navigation.mjs';
 
 const root='year9/science';
 const expected=[...Array.from({length:7},(_,i)=>`AC9S9U0${i+1}`),...Array.from({length:4},(_,i)=>`AC9S9H0${i+1}`),...Array.from({length:8},(_,i)=>`AC9S9I0${i+1}`)];
@@ -25,7 +26,7 @@ for(const entry of fs.readdirSync(root,{withFileTypes:true})){
  if(!/Australian Curriculum v9\.0/i.test(html)||!/Victorian Curriculum F/i.test(html)||!/NSW Science 7/i.test(html))p.push('missing visible Australian/Victoria/NSW alignment');
  if(!/(Exact|Partial|Supporting)/i.test(sectionBlock(html,'alignment')))p.push('alignment relationship strength not stated');
  for(const id of requiredIds){if(!new RegExp(`\\bid=["']${id}["']`,'i').test(html))p.push(`missing #${id}`);}
- if(!/href=["'][^"']*teacher-slides[^"']*\//i.test(html))p.push('missing Teacher Slides route');if(!/href=["'][^"']*\/homework\//i.test(html))p.push('missing Homework route');if(!/href=["'][^"']*\/practice\//i.test(html))p.push('missing Practice route');if(!/href=["'][^"']*\/test\//i.test(html))p.push('missing Test route');if(/href=["'][^"']*\/worksheet\//i.test(html))p.push('duplicate Worksheet CTA reintroduced');
+ if(!/href=["'][^"']*teacher-slides[^"']*\//i.test(html))p.push('missing Teacher Slides route');if(!/href=["'][^"']*\/homework\//i.test(html))p.push('missing Homework route');p.push(...validateTopicActivities(html,code));if(/href=["'][^"']*\/worksheet\//i.test(html))p.push('duplicate Worksheet CTA reintroduced');
  if(!/data-report-issue/i.test(html)||!/report-issue\.js/i.test(html))p.push('missing Report issue control');if(!/G-8P22BET45N/.test(html))p.push('analytics regression');if(!/ca-pub-7734963540104771/.test(html))p.push('AdSense integration regression');
  if(liCount(sectionBlock(html,'learn'))<3)p.push('learning goals too thin');if((sectionBlock(html,'examples').match(/worked-example/gi)||[]).length<3)p.push('fewer than 3 worked/modelled examples');if(liCount(sectionBlock(html,'misconceptions'))<2)p.push('misconceptions too thin');if(liCount(sectionBlock(html,'independent-practice'))<5)p.push('independent practice too thin');if(liCount(sectionBlock(html,'assessment'))<3)p.push('assessment practice too thin');if(liCount(sectionBlock(html,'important-questions'))<3)p.push('important Q&A too thin');
  if(bannedRuntime.test(html))p.push('runtime curriculum renderer detected');if(/<script[^>]+src=["'][^"']*(?:content|lesson|curriculum)[^"']*\.js/i.test(html))p.push('core curriculum appears runtime-loaded');

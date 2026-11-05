@@ -2,6 +2,10 @@
 
 Baseline: `3d4ef2257bd7e1f0be849c1a9ba249227e044adb`.
 
+Integration baseline: `9d61746fbb32bee543fb8be87a1e6d689086f058` (PR #913).
+Its validation safeguards and Year 1 comprehension schema correction are retained.
+The final preservation and complete-tree checks use this newer baseline.
+
 The latest discovery repair already supplies subject-hub backlinks and related
 lesson links. This change preserves that work and does not add a second related
 navigation system. Titles, H1s, canonicals, sitemap choices and practice/assessment

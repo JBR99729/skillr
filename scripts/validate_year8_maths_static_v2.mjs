@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 import fs from 'node:fs';
 import path from 'node:path';
+import { validateTopicActivities } from './lib/published_activity_navigation.mjs';
 import {YEAR8_MATHS_EXPECTED_CODES,YEAR8_MATHS_V2_MIGRATED} from './year8_maths_static_v2_manifest.mjs';
 
 const ROOT=process.cwd();
@@ -50,13 +51,12 @@ for(const item of YEAR8_MATHS_V2_MIGRATED){
   if(!html.includes(item.nsw.relationship))errors.push(`${item.code}: NSW relationship missing`);
   const resourceLabelGroups=[
     ['Teacher Slides','Classroom View'],
-    ['Homework','Practice Sheet','Worksheet'],
-    ['Practice'],
-    ['Test']
+    ['Homework','Practice Sheet','Worksheet']
   ];
   for(const labels of resourceLabelGroups){
     if(!labels.some(label=>html.includes(`>${label}<`)))errors.push(`${item.code}: ${labels.join(' / ')} link missing`);
   }
+  errors.push(...validateTopicActivities(html,item.code,ROOT));
   if(!html.includes('data-report-issue')||!html.includes('/assets/report-issue.js'))errors.push(`${item.code}: Report Issue missing`);
   if(!html.includes('G-8P22BET45N'))errors.push(`${item.code}: analytics missing`);
   if(!html.includes('ca-pub-7734963540104771'))errors.push(`${item.code}: AdSense readiness missing`);

@@ -23,6 +23,8 @@ on:
       - "scripts/validate_curriculum_read_aloud.mjs"
       - "scripts/build_foundation_maths_live_routes.py"
       - "service-worker.js"
+      - "scripts/lib/published_activity_navigation.mjs"
+      - "scripts/tests/test_published_activity_navigation.mjs"
       - ".github/workflows/validate-foundation-pre-module-notes.yml"
   push:
     branches: [main]
@@ -47,6 +49,8 @@ on:
       - "scripts/validate_curriculum_read_aloud.mjs"
       - "scripts/build_foundation_maths_live_routes.py"
       - "service-worker.js"
+      - "scripts/lib/published_activity_navigation.mjs"
+      - "scripts/tests/test_published_activity_navigation.mjs"
       - ".github/workflows/validate-foundation-pre-module-notes.yml"
   workflow_dispatch:
 
@@ -87,3 +91,5 @@ jobs:
           node scripts/validate_foundation_maths_topic_modules.mjs
           node scripts/validate_foundation_v11.mjs
           node scripts/validate_foundation_classroom_rollout.mjs
+      - name: Verify published activity navigation safeguards
+        run: node --test scripts/tests/test_published_activity_navigation.mjs

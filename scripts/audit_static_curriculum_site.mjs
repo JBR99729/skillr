@@ -57,6 +57,16 @@ const runtimeDeckPatterns = [
   /(?:lower-materials-render|foundation-[^"']*render|year\d+[^"']*slides)\.js/i,
 ];
 
+function hasDirectTeacherDownload(html, teacherHost = false) {
+  for (const anchor of html.replace(/<!--[\s\S]*?-->/g, '').matchAll(/<a\b[^>]*href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi)) {
+    const url = new URL(anchor[1], 'https://skillrhub.com/');
+    if (!['skillrhub.com', 'www.skillrhub.com'].includes(url.hostname)) continue;
+    if (!/\.(?:pptx|pdf)$/i.test(url.pathname)) continue;
+    if (teacherHost || /\.pptx$/i.test(url.pathname) || /teacher|slides|deck/i.test(url.pathname + ' ' + anchor[2])) return true;
+  }
+  return false;
+}
+
 for (const year of YEAR_ROOTS) {
   for (const file of walk(path.join(ROOT, year))) {
     if (!file.endsWith('.html')) continue;
@@ -72,7 +82,7 @@ for (const year of YEAR_ROOTS) {
         totals.runtimeTopicPages++;
         add('topic-runtime-renderer', file, 'Canonical topic teaching content still depends on a runtime renderer/loading shell.');
       }
-      if (/href=["'][^"']+\.(?:pptx|pdf)(?:[?#][^"']*)?["']/i.test(html) && /teacher/i.test(html)) {
+      if (hasDirectTeacherDownload(html)) {
         totals.directTeacherDownloads++;
         add('teacher-direct-download-link', file, 'Topic page exposes a direct teacher PPTX/PDF file link instead of the protected slide viewer.');
       }

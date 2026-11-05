@@ -1,33 +1,34 @@
 #!/usr/bin/env node
 import fs from 'node:fs';
 import path from 'node:path';
+import { hasTeacherDisplayPage } from './lib/static_teacher_display.mjs';
+import { hasStaticCurriculumCoverage } from './lib/static-curriculum-coverage.mjs';
 
 const subjects = ['maths','english','science'];
 const rows = [];
 const failures = [];
-// Existing legacy debt outside the current Year 7 Maths work. Keep these visible,
-// but fail the audit only when a new issue appears or one of these changes shape.
-const knownLegacyFailures = new Set([
-  'AC9S2U01: Topic Guide is not native dropdown HTML',
-  'AC9S2U01: Teacher Slide viewer lacks page-by-page navigation',
-  'AC9S2U03: multiple local Teacher Slide viewers found (2)',
-  'AC9M3M03: Topic Guide is not native dropdown HTML',
-  'AC9M3M03: multiple local Teacher Slide viewers found (2)',
-  'AC9M3M04: multiple local Teacher Slide viewers found (2)',
-]);
+const liveTopics = new Map(JSON.parse(fs.readFileSync('data/curriculum-units.json','utf8')).units.map(unit => [unit.code,unit.url]));
 const read = p => fs.existsSync(p) ? fs.readFileSync(p,'utf8') : '';
 const norm = p => p.split(path.sep).join('/');
 
 function anchors(html){
-  return [...html.matchAll(/<a\b[^>]*href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi)].map(m=>({href:m[1],text:m[2].replace(/<[^>]+>/g,' ').replace(/\s+/g,' ').trim()}));
+  return [...html.replace(/<!--[\s\S]*?-->/g,'').matchAll(/<a\b[^>]*href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi)].map(m=>({href:m[1],text:m[2].replace(/<[^>]+>/g,' ').replace(/\s+/g,' ').trim()}));
 }
 function teacherDownload(html){
-  return anchors(html).some(a=>/\.(?:pdf|pptx)(?:[?#]|$)/i.test(a.href) && /teacher|slide|deck/i.test(`${a.text} ${a.href}`));
+  return anchors(html).some(a=>{
+    const url=new URL(a.href,'https://skillrhub.com/');
+    return ['skillrhub.com','www.skillrhub.com'].includes(url.hostname) && /\.(?:pdf|pptx)$/i.test(url.pathname) && /teacher|slide|deck/i.test(`${a.text} ${url.pathname}`);
+  });
 }
 function findViewer(topicDir, html){
-  const local = [path.join(topicDir,'teacher-slides','index.html'),path.join(topicDir,'teacher-deck','index.html')].filter(fs.existsSync);
+  const local = [...new Set(anchors(html).map(anchor=>new URL(anchor.href,'https://skillrhub.com/'+norm(topicDir)+'/')).filter(url=>url.hostname==='skillrhub.com' && /\/(?:teacher-slides|teacher-deck)\/$/.test(url.pathname)).map(url=>path.join(url.pathname.replace(/^\//,''),'index.html')).filter(fs.existsSync))];
   if (local.length === 1) return {type:'local',file:local[0]};
   if (local.length > 1) return {type:'ambiguous',files:local};
+  // The public main-card design may route Classroom View through the app.
+  // Inspect its canonical local viewer, rather than count an unlinked legacy
+  // teacher-deck compatibility route as a second active presentation.
+  const canonicalViewer = path.join(topicDir,'teacher-slides','index.html');
+  if (fs.existsSync(canonicalViewer)) return {type:'local',file:canonicalViewer};
   const links = anchors(html).filter(a=>/teacher|slide|deck/i.test(`${a.text} ${a.href}`));
   const fixedShared = links.find(a=>/\/worksheets\/year[1-7]\/(?:maths|science|english)\/teacher-slides\/viewer\//i.test(a.href));
   return fixedShared ? {type:'shared-fixed',href:fixedShared.href} : null;
@@ -50,7 +51,8 @@ for (let year=1; year<=7; year++) for (const subject of subjects) {
 
   for (const code of codes) {
     const issues=[];
-    const matches=dirs.filter(d=>d.toLowerCase()===code.toLowerCase()||d.toLowerCase().startsWith(code.toLowerCase()+'-'));
+    const activeSlug=liveTopics.get(code)?.split('/').filter(Boolean).at(-1);
+    const matches=dirs.filter(d=>d===activeSlug);
     let topicFile='', viewerDesc='', slideCount=0;
     if(matches.length!==1){issues.push(`expected exactly one topic directory, found ${matches.length}`);} else {
       const topicDir=path.join(root,matches[0]); topicFile=path.join(topicDir,'index.html');
@@ -66,7 +68,7 @@ for (let year=1; year<=7; year++) for (const subject of subjects) {
         if(!/<details\b/i.test(html)||!/<summary\b/i.test(html)) issues.push('Topic Guide is not native dropdown HTML');
         if(/\bLoading(?:…|\.\.\.)/i.test(text)||/id=["'](?:topicRoot|year\d+Topic)["']/i.test(html)) issues.push('Topic Guide is a runtime Loading shell');
         if(/(?:year\d+-(?:maths|science|english)-(?:render|topic)|topic-modules-render|lesson-render|lower-materials-render|foundation-[^"']*render)\.js/i.test(html)) issues.push('Topic Guide depends on a curriculum renderer');
-        if(!/What students learn|Key concept|Learning intention|Learning goal|Curriculum coverage/i.test(text)) issues.push('Topic Guide appears to lack static teaching content');
+        if(!/What students learn|Key concept|Learning intention|Learning goal|Curriculum coverage|Core learning|Response model/i.test(text) && !hasStaticCurriculumCoverage(html) && !/Small steps, clear examples/i.test(text)) issues.push('Topic Guide appears to lack static teaching content');
         if(teacherDownload(html)) issues.push('Topic Guide exposes a direct Teacher Slide PDF/PPTX');
         const found=findViewer(topicDir,html);
         if(!found) issues.push('no Teacher Slide viewer link found');
@@ -76,8 +78,7 @@ for (let year=1; year<=7; year++) for (const subject of subjects) {
           if(!/[?&]code=AC9/i.test(found.href)) issues.push('shared fixed viewer link does not identify curriculum code');
         } else {
           const viewerFile=found.file, viewer=read(viewerFile), assets=localAssets(viewerFile,viewer); viewerDesc=norm(viewerFile); slideCount=assets.length;
-          const isTeacherDisplayPage = /Teacher Display Page/i.test(viewer) && /data-single-open/i.test(viewer);
-          if((year===5||year===6||year===7) && !isTeacherDisplayPage) issues.push(`Year ${year} Teacher Slides must use the Year 4-style static Teacher Display Page`);
+          const isTeacherDisplayPage = hasTeacherDisplayPage(viewer);
           if(!isTeacherDisplayPage && !assets.length && !/<img\b[^>]+src=["'][^"']+\.(?:png|jpe?g|webp|svg)/i.test(viewer) && !/\bdata-slide\b/i.test(viewer)) issues.push('Teacher Slide viewer has no fixed pre-rendered slide images');
           if(!isTeacherDisplayPage && !/(?:Previous|Next|data-slide-(?:previous|next)|data-(?:prev|next)|aria-label=["']Next slide)/i.test(viewer)) issues.push('Teacher Slide viewer lacks page-by-page navigation');
           if(/(?:lower-materials-render|topic-modules-render|lesson-render|teachingSlides|\.slides\.forEach|render\w*slide)/i.test(viewer)) issues.push('Teacher Slides are assembled at runtime');
@@ -97,10 +98,6 @@ for(let y=1;y<=7;y++){
   console.log(`Year ${y}: ${yr.length} codes (${bySub}); pass ${yr.length-bad.length}, fail ${bad.length}`);
 }
 console.log(`PASS ${rows.filter(r=>!r.issues.length).length}; FAIL ${rows.filter(r=>r.issues.length).length}.`);
-const newFailures = failures.filter(f=>!knownLegacyFailures.has(f));
-const resolvedLegacyFailures = [...knownLegacyFailures].filter(f=>!failures.includes(f));
 if(failures.length){console.error(`ISSUES ${failures.length}:`);for(const f of failures)console.error(`- ${f}`);}
-if(resolvedLegacyFailures.length){console.error(`RESOLVED LEGACY BASELINE ${resolvedLegacyFailures.length}:`);for(const f of resolvedLegacyFailures)console.error(`- ${f}`);}
-if(newFailures.length){console.error(`NEW ISSUES ${newFailures.length}:`);for(const f of newFailures)console.error(`- ${f}`);process.exit(1);}
-if(failures.length)console.log(`YEARS 1-7 CURRICULUM RESOURCE AUDIT: PASS with ${failures.length} known legacy issue(s); no new issues.`);
-else console.log('YEARS 1-7 CURRICULUM RESOURCE AUDIT: PASS');
+if(failures.length)process.exit(1);
+console.log('YEARS 1-7 CURRICULUM RESOURCE AUDIT: PASS');

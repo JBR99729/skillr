@@ -2,6 +2,7 @@
 
 import fs from "node:fs";
 import path from "node:path";
+import { validateTopicActivities, hrefs } from "./lib/published_activity_navigation.mjs";
 
 const root = path.resolve(import.meta.dirname, "..");
 const units = JSON.parse(fs.readFileSync(path.join(root, "data/curriculum-units.json"), "utf8"))
@@ -36,10 +37,11 @@ for (const unit of units) {
   if (!/(?:What students learn|Learning intention|Learning target|Learning goal|Teaching Lesson|Key concept|Core learning|Response model|Outcome Overview|Core Concepts|Australian Curriculum target)/i.test(html)) fail(`${label}: recognisable static teaching content is missing`);
   if (/\/homework\//i.test(html)) fail(`${label}: legacy Homework route remains`);
   if (/>\s*Homework\s*</i.test(html)) fail(`${label}: legacy Homework label remains`);
-  for (const [kind, url] of [["worksheet", unit.worksheetUrl], ["practice", unit.practiceUrl], ["test", unit.testUrl]]) {
-    if (!html.includes(`href="${url}"`) && !html.includes(`href='${url}'`)) fail(`${label}: ${kind} link is missing`);
+  for (const [kind, url] of [["worksheet", unit.worksheetUrl]]) {
+    if (!hrefs(html).includes(url)) fail(`${label}: ${kind} link is missing`);
     if (!exists(url)) fail(`${label}: linked ${kind} route does not exist (${url})`);
   }
+  validateTopicActivities(html, unit.code, root).forEach(fail);
   const wrongPractice = new RegExp(`href=(['"])${unit.worksheetUrl.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}\\1[^>]*>Practice<`, "i");
   if (wrongPractice.test(html)) fail(`${label}: Practice button incorrectly points to the worksheet`);
 }

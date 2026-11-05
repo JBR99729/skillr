@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 import fs from 'node:fs';
 import path from 'node:path';
+import { validateTopicActivities } from './lib/published_activity_navigation.mjs';
 
 const root = process.cwd();
 const failures = [];
@@ -48,8 +49,9 @@ for (const unit of units) {
   if (!/What students learn|Learning intention|Learning goal|Teaching Lesson|Key concept|Curriculum coverage|Core idea/i.test(text)) failures.push(`${code}: static teaching content marker missing`);
   if (!/<details\b/i.test(html)) failures.push(`${code}: migrated topic pages must keep native details/summary sections`);
 
+  failures.push(...validateTopicActivities(html, code, root));
   const links = hrefs(html);
-  for (const route of [`/quiz/grade-k/science/${lowerCode}/worksheet/`, `/quiz/grade-k/science/${lowerCode}/practice/`, `/quiz/grade-k/science/${lowerCode}/test/`]) {
+  for (const route of [`/quiz/grade-k/science/${lowerCode}/worksheet/`]) {
     if (!links.includes(route)) failures.push(`${code}: missing protected journey link ${route}`);
     if (!exists(routeFile(route))) failures.push(`${code}: broken protected journey route ${route}`);
   }
@@ -60,8 +62,8 @@ for (const unit of units) {
   if (!exists(teacherViewer)) failures.push(`${code}: missing clean teacher-slides viewer`);
   else {
     const viewer = read(teacherViewer);
-    if (!/<meta\b[^>]*name=["']robots["'][^>]*content=["']noindex,\s*follow["']/i.test(viewer)) failures.push(`${code}: teacher-slides viewer must be noindex,follow`);
-    if (!viewer.includes(`<link rel="canonical" href="${expectedCanonical}">`)) failures.push(`${code}: teacher-slides viewer must canonicalise to parent topic URL`);
+    if (!/<meta\b(?=[^>]*name=["']robots["'])(?=[^>]*content=["']noindex,\s*follow["'])/i.test(viewer)) failures.push(`${code}: teacher-slides viewer must be noindex,follow`);
+    if (![...viewer.matchAll(/<link\b[^>]*>/gi)].some(m => /rel=["']canonical["']/i.test(m[0]) && (m[0].match(/href=["']([^"']+)/i)?.[1] === expectedCanonical))) failures.push(`${code}: teacher-slides viewer must canonicalise to parent topic URL`);
     if (/http-equiv=["']refresh["']|location\.replace\(/i.test(viewer)) failures.push(`${code}: teacher-slides viewer must not be a redirect`);
     const displayPage = teacherDisplayPage(viewer);
     if (!displayPage && (!(/<img\b[^>]+slide-/i.test(viewer) || /\bdata-slide\b/i.test(viewer)) || !/(?:Previous|data-prev|data-slide-previous|id=["']prev["'])/i.test(viewer) || !/(?:Next|data-next|data-slide-next|id=["']next["'])/i.test(viewer))) failures.push(`${code}: teacher resource must expose fixed slide pages/navigation or a static Teacher Display Page`);

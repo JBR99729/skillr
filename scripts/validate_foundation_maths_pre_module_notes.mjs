@@ -2,6 +2,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import vm from "node:vm";
+import { validateRetiredActivity } from './lib/published_activity_navigation.mjs';
 
 const root = path.resolve(import.meta.dirname, "..");
 const read = (relativePath) => fs.readFileSync(path.join(root, relativePath), "utf8");
@@ -134,6 +135,10 @@ for (const code of codes) {
   for (const mode of ["practice", "test"]) {
     const route = `quiz/grade-k/math/${code.toLowerCase()}/${mode}/index.html`;
     const html = read(route);
+    if (html.includes('data-legacy-quiz-retired=')) {
+      validateRetiredActivity(html, code, root).forEach(message => errors.push(message));
+      continue;
+    }
     const configMatch = html.match(/window\.quizConfig=(\{.*?\});<\/script>/s);
     assert(configMatch, `${code} ${mode}: quiz config missing`);
     if (!configMatch) continue;
@@ -228,4 +233,4 @@ if (errors.length) {
 
 console.log(`Foundation Maths pre-module notes: ${codes.length}/${codes.length} passing`);
 console.log(`Prose word counts: ${Object.entries(counts).map(([code, count]) => `${code} ${count}`).join(", ")}`);
-console.log("PASS: schema, 120–160 words, 60–75 seconds, final-deck source ids, shared Practice/Test source, mandatory no-timer gate, preserved live bank selection, read-aloud parity, responsive markers, worksheet exclusion and service-worker freshness.");
+console.log("PASS: schema, 120–160 words, 60–75 seconds, final-deck source ids, shared Practice/Test source, archived no-timer gate, safe retired redirects, preserved bank data, read-aloud parity, responsive markers, worksheet exclusion and service-worker freshness.");

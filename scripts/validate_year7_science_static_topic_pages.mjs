@@ -1,6 +1,8 @@
 #!/usr/bin/env node
 import fs from 'node:fs';
 import path from 'node:path';
+import { hasTeacherDisplayPage } from './lib/static_teacher_display.mjs';
+import { validateTopicActivities } from './lib/published_activity_navigation.mjs';
 
 const root = process.cwd();
 const units = JSON.parse(fs.readFileSync(path.join(root, 'data/curriculum-units.json'), 'utf8')).units
@@ -37,11 +39,8 @@ for (const unit of units) {
   if (/id=["'](?:topicRoot|year7Topic)["'][^>]*>\s*(?:<p[^>]*>)?\s*Loading/i.test(html) || /year7-curriculum-render\.js|topic-modules-render|lesson-render/i.test(html)) failures.push(`${unit.code}: topic page must not depend on runtime curriculum rendering`);
   if (!/Key concept|Core idea|Worked example|Common misconception|Exam tip|Retrieval question/i.test(text)) failures.push(`${unit.code}: static teaching content marker missing`);
 
+  failures.push(...validateTopicActivities(html, unit.code, root));
   const links = hrefs(html);
-  for (const route of [`/quiz/year-7/science/${lowerCode}/practice/`, `/quiz/year-7/science/${lowerCode}/test/`]) {
-    if (!links.includes(route)) failures.push(`${unit.code}: missing protected journey link ${route}`);
-    if (!exists(routeFile(route))) failures.push(`${unit.code}: broken protected journey route ${route}`);
-  }
 
   if (!links.some(href => /^(?:\.\/)?teacher-slides\/$/i.test(href))) failures.push(`${unit.code}: topic page must link to clean local teacher-slides/ viewer`);
   const teacherViewer = path.posix.join(path.posix.dirname(topicFile), 'teacher-slides/index.html');
@@ -49,7 +48,7 @@ for (const unit of units) {
   else {
     const viewer = read(teacherViewer);
     if (!/<meta\b[^>]*name=["']robots["'][^>]*content=["']noindex,\s*follow["']/i.test(viewer)) failures.push(`${unit.code}: teacher-slides viewer must be noindex,follow`);
-    if (!/Teacher Display Page/i.test(viewer) || !/data-single-open/i.test(viewer)) failures.push(`${unit.code}: teacher-slides viewer must use the Year 4-style static Teacher Display Page`);
+    if (!hasTeacherDisplayPage(viewer)) failures.push(`${unit.code}: teacher-slides viewer must use the Year 4-style static Teacher Display Page`);
     if (/href=["'][^"']+\.(?:pptx|pdf)(?:[?#][^"']*)?["']/i.test(viewer)) failures.push(`${unit.code}: teacher-slides viewer must not expose PPTX/PDF downloads`);
   }
 }
