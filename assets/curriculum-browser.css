@@ -3,13 +3,20 @@
 .curriculum-browser [hidden]{display:none!important}
 .cb-kicker{font-size:.875rem;color:var(--cb-muted);margin:0}
 .curriculum-browser h1,.cb-topic-intro h1{margin:4px 0 16px}
-.cb-toolbar,.cb-subjects,.cb-offer,.cb-model{display:flex;align-items:center;gap:12px}
-.cb-toolbar{justify-content:space-between;border-bottom:1px solid var(--cb-line);padding-bottom:10px;margin-bottom:16px}
-.cb-subjects,.cb-strands{flex-wrap:wrap}
-.cb-search{display:grid;gap:4px;font-weight:600}
-.cb-search input{font:inherit;font-size:16px;min-height:44px;width:100%;border:1px solid var(--cb-line);border-radius:8px;padding:8px 10px}
+.cb-offer,.cb-model{display:flex;align-items:center;gap:12px}
+.cb-toolbar{display:grid;grid-template-columns:auto minmax(0,1fr);align-items:end;gap:12px;border-bottom:1px solid var(--cb-line);padding-bottom:10px;margin-bottom:16px}
+.cb-subjects{display:grid;grid-template-columns:repeat(3,1fr)}
+.cb-strands{flex-wrap:wrap}
+.cb-search{display:grid;min-width:0;gap:4px;font-weight:600}
+.cb-search input{font:inherit;font-size:16px;min-height:44px;width:100%;min-width:0;box-sizing:border-box;border:1px solid var(--cb-blue);border-radius:8px;padding:8px 10px}
 .curriculum-browser button,.cb-years a{font:inherit;min-height:44px;padding:8px 12px;border:1px solid var(--cb-line);border-radius:8px;background:white;color:var(--cb-ink);text-decoration:none}
 .curriculum-browser button[aria-pressed=true],.cb-years a[aria-current=true]{background:var(--cb-wash);color:#1946ad;border-color:var(--cb-blue);font-weight:700}
+.curriculum-browser .cb-subjects button{border-radius:0}
+.curriculum-browser .cb-subjects button+button{border-left:0}
+.curriculum-browser .cb-subjects button:first-child{border-radius:8px 0 0 8px}
+.curriculum-browser .cb-subjects button:last-child{border-radius:0 8px 8px 0}
+.curriculum-browser .cb-subjects button[aria-pressed=true]{background:var(--cb-blue);color:white}
+.curriculum-browser .cb-subjects button:focus-visible{position:relative;z-index:1}
 .cb-layout{display:flex;align-items:flex-start;gap:18px}
 .cb-years{display:grid;gap:6px;min-width:110px}
 .cb-years a{display:flex;align-items:center}
@@ -33,6 +40,6 @@
 .cb-model figure{max-width:min(100%,220px);margin:0}
 .cb-model svg{display:block;max-width:100%;height:auto}
 .cb-takeaway{padding:10px 12px;background:var(--cb-wash);border-radius:8px;font-weight:700}
-@media(max-width:680px){.cb-toolbar,.cb-layout{display:grid;gap:10px}.cb-years{display:flex;flex-wrap:wrap}.cb-topics{width:100%}}
+@media(max-width:680px){.cb-toolbar,.cb-layout{display:grid;gap:10px}.cb-toolbar{grid-template-columns:minmax(0,1fr)}.cb-years{display:flex;flex-wrap:wrap}.cb-topics{width:100%}}
 .cb-lesson-bar{position:sticky;top:0;z-index:5;display:flex;align-items:center;justify-content:space-between;gap:10px;background:#fff;padding:8px 12px;margin-bottom:16px;border-bottom:1px solid #d6e2ef}
 .cb-lesson-bar #skillr-topic-practice-now{position:static;inset:auto;display:inline-flex;align-items:center;min-height:44px;border-radius:8px;padding:7px 12px;background:#245bd5;color:#fff;text-decoration:none;white-space:nowrap}
