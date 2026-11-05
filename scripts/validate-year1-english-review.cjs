@@ -14,7 +14,28 @@ const batch5 = process.argv.includes('--batch5');
 const batch6 = process.argv.includes('--batch6');
 const codes = batch6 ? ['ac9e1ly11','ac9e1ly12','ac9e1ly13','ac9e1ly14','ac9e1ly15'] : batch5 ? ['ac9e1ly06','ac9e1ly07','ac9e1ly08','ac9e1ly09','ac9e1ly10'] : batch4 ? ['ac9e1ly01','ac9e1ly02','ac9e1ly03','ac9e1ly04','ac9e1ly05'] : batch3 ? ['ac9e1le01','ac9e1le02','ac9e1le03','ac9e1le04','ac9e1le05'] : batch2 ? ['ac9e1la06','ac9e1la07','ac9e1la08','ac9e1la09','ac9e1la10'] : ['ac9e1la01','ac9e1la02','ac9e1la03','ac9e1la04','ac9e1la05'];
 const tag = batch6 ? 'er6' : batch5 ? 'er5' : batch4 ? 'er4' : batch3 ? 'er3' : batch2 ? 'er2' : 'er1';
-let rendered = 0, visualCount = 0;
+let rendered = 0, visualCount = 0, retiredRoutes = 0;
+const availability = JSON.parse(read('data/app-question-banks.json')).codes;
+// Retired URLs are navigation contracts now. Keep auditing their archived
+// question payloads, but never resurrect the removed local player to test it.
+function checkRetiredRoute(html, code) {
+ const bank = availability.find(b=>b.code===code.toUpperCase());
+ const target = bank && bank.practice
+  ? 'https://app.skillrhub.com/'+(bank.guestPractice?'?try=1&skill=':'?login=1&skill=')+code.toUpperCase()
+  : 'https://app.skillrhub.com/';
+ const dom = new JSDOM(html), d=dom.window.document;
+ try {
+  assert(d.documentElement.hasAttribute('data-legacy-quiz-retired'),'Missing retirement marker: '+code);
+  assert.equal(d.querySelector('meta[http-equiv="refresh"]')?.getAttribute('content'),'0;url='+target,'Wrong retirement destination: '+code);
+  assert.equal(d.querySelector('link[rel="canonical"]')?.getAttribute('href'),target);
+  assert.equal(d.querySelector('a')?.getAttribute('href'),target,'Native fallback must match');
+  assert(html.includes('location.replace('+JSON.stringify(target)+')'),'JavaScript fallback must match');
+  assert(!d.querySelector('#startButton,#submitButton,#answerList'),'Retired player controls returned');
+  assert(!/window\.quizConfig\s*=|script-runtime-v115\.js/.test(html),'Retired player runtime returned');
+ } finally { dom.window.close(); }
+ retiredRoutes++;
+}
+
 (async()=>{
  for(const code of codes) {
   const canonical=JSON.parse(read(`assets/assessment-banks/year1/english/${code}.json`));
@@ -31,12 +52,18 @@ let rendered = 0, visualCount = 0;
    const route=`quiz/year-1/english/${code}/${mode}/`;
    const html=read(route+'index.html');
    assert(!/40-question practice bank|40 progressive curriculum-aligned/.test(html),'Stale bank count');
-   const cfg=JSON.parse(html.match(/window.quizConfig=(\{.*?\});/s)[1]);
+   const retired=html.includes('data-legacy-quiz-retired=');
+   const cfg=retired?null:JSON.parse(html.match(/window.quizConfig=(\{.*?\});/s)[1]);
    const source=canonical.filter(q=>q.bank===mode);
    assert.equal(source.length,mode==='practice'?24:16);
-   assert(cfg.resultStorageKey.endsWith('English'+tag.toUpperCase()));
-   for(const page of ['result','review']) assert(read(route+page+'/index.html').includes(cfg.resultStorageKey));
-   assert(html.includes('questions.js?v=20260906-english-'+tag));
+   if(retired) {
+    checkRetiredRoute(html,code);
+    for(const page of ['result','review','retake']) checkRetiredRoute(read(route+page+'/index.html'),code);
+   } else {
+    assert(cfg.resultStorageKey.endsWith('English'+tag.toUpperCase()));
+    for(const page of ['result','review']) assert(read(route+page+'/index.html').includes(cfg.resultStorageKey));
+    assert(html.includes('questions.js?v=20260906-english-'+tag));
+   }
    const sandbox={window:{}};vm.runInNewContext(read(route+'questions.js'),sandbox);
    const live=sandbox.window.quizQuestions;
    assert.equal(live.length,source.length);
@@ -71,6 +98,7 @@ let rendered = 0, visualCount = 0;
      doc.defaultView.close();
     }
    }
+   if(retired) continue; // The app repository owns current learner/player runtime QA.
    let saved={},seen=new Set();
    for(let round=0;round<(mode==='practice'?3:2);round++) {
     const errors=[],vc=new VirtualConsole();
@@ -142,5 +170,5 @@ let rendered = 0, visualCount = 0;
    assert.equal(seen.size,source.length,code+' '+mode+' coverage');
   }
  }
- console.log(`PASS: ${codes.length*40} source questions; ${visualCount} visual assets; ${rendered} responses through ${codes.length*5} real-runtime attempts; complete bank coverage; scoring, answer shuffle, rotation, and result-key isolation.`);
+ console.log(`PASS: ${codes.length*40} archived source questions and payload fidelity; ${visualCount} visual assets; ${retiredRoutes} retired-route contracts; ${rendered} responses through retained local players. Current app runtime QA is separate.`);
 })().catch(e=>{console.error(e);process.exitCode=1;});
