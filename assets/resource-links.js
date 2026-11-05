@@ -207,7 +207,7 @@
   function init() {
     if (!document.body || document.getElementById('skillr-resource-links')) return;
     const css = document.createElement('link');
-    css.rel = 'stylesheet'; css.href = '/assets/resource-links.css?v=topic-floating-practice-20261031';
+    css.rel = 'stylesheet'; css.href = '/assets/resource-links.css?v=corner-prompt-20261106';
     document.head.appendChild(css);
     const menu=document.createElement('section');menu.id='skillr-resource-links';menu.className='skillr-practice-bar';menu.setAttribute('aria-label','Free practice');
     const intro=document.createElement('div');intro.className='skillr-practice-bar__intro';intro.innerHTML='<strong>Free practice questions</strong><span>No email to start</span>';

@@ -28,6 +28,15 @@
     <!-- ADSENSE DISABLED PENDING APPROVAL: <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7734963540104771" crossorigin="anonymous"></script> -->
   <link rel="stylesheet" href="/assets/site-navigation.css?v=20260908-landing1">
 <link rel="stylesheet" href="/assets/css/year1-learning-hubs.css?v=20261009-2">
+<style id="year-landing-navigation-cleanup">
+/* Preserve the year landing layout while older shared scripts expire from cache. */
+.skillr-audience-strip{display:none!important}
+#skillr-resource-links.skillr-practice-bar{left:auto!important;right:max(16px,env(safe-area-inset-right))!important;bottom:max(16px,env(safe-area-inset-bottom));transform:none!important;max-width:calc(100vw - 32px)}
+@media(max-width:767px){
+#skillr-resource-links.skillr-practice-bar{display:none!important}
+body:has(>#skillr-resource-links.skillr-practice-bar){padding-bottom:0}
+}
+</style>
 </head>
 <body class="year1-learning-hub">
 <a class="hub-skip" href="#hub-main">Skip to topics</a>
