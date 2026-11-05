@@ -1,0 +1,109 @@
+name: Build shared F-10 topic-first pages (staging branch only)
+
+on:
+  push:
+    branches:
+      - feature/f10-topic-first-uniform-panels-20261105
+    paths:
+      - scripts/rollout-topic-first-panels.mjs
+      - assets/css/topic-first-panels.css
+      - assets/topic-first-panels.js
+      - .github/workflows/apply-f10-topic-first-panels-20261105.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: f10-topic-first-staging
+  cancel-in-progress: false
+
+jobs:
+  generate-and-verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - name: Checkout full staging branch
+        uses: actions/checkout@v4
+        with:
+          ref: feature/f10-topic-first-uniform-panels-20261105
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Validate source and client script syntax
+        run: |
+          node --check scripts/rollout-topic-first-panels.mjs
+          node --check assets/topic-first-panels.js
+
+      - name: Check Foundation dry run
+        run: node scripts/rollout-topic-first-panels.mjs --year=foundation
+
+      - name: Generate topic pages from verified repository banks
+        run: node scripts/rollout-topic-first-panels.mjs --write
+
+      - name: Validate idempotent repeat run
+        run: |
+          node scripts/rollout-topic-first-panels.mjs > /tmp/topic-repeat-report.json
+          node --input-type=module -e "import fs from 'node:fs';const r=JSON.parse(fs.readFileSync('/tmp/topic-repeat-report.json','utf8'));if(r.updated!==0){throw Error('Rollout not idempotent: '+r.updated+' pages');}console.log('Idempotent across '+r.examined+' topic pages');"
+
+      - name: Inspect preservation and readiness report
+        run: |
+          node --input-type=module <<'JS'
+          import fs from 'node:fs';
+          import path from 'node:path';
+          import {execFileSync} from 'node:child_process';
+          const report=JSON.parse(fs.readFileSync('docs/qa/2026-11-05-topic-first-panel-rollout.json','utf8'));
+          if(report.examined<600||report.coverage?.total<600)throw Error('Unexpectedly small total coverage '+JSON.stringify(report));
+          if(report.coverage.questions<100)throw Error('Too few verified real-question previews: '+report.coverage.questions);
+          if(report.coverage.comingSoon<400)throw Error('Coming-soon placeholders missing: '+report.coverage.comingSoon);
+          const edited=execFileSync('git',['diff','--name-only'],{encoding:'utf8'}).trim().split('\n').filter(Boolean);
+          const topics=edited.filter(p=>/^(foundation|year(?:[1-9]|10))\/(maths|science|english)\/ac9[^/]+\/index\.html$/i.test(p));
+          if(topics.length!==report.updated)throw Error('Changed topic count mismatch '+topics.length+' vs '+report.updated);
+          for(const file of topics){
+            const after=fs.readFileSync(file,'utf8');
+            const before=execFileSync('git',['show','HEAD:'+file],{encoding:'utf8',maxBuffer:10_000_000});
+            if(!after.includes('<!-- skillr-topic-first:start -->'))throw Error('Panel missing '+file);
+            if(before.match(/<title[^>]*>([\s\S]*?)<\/title>/i)?.[0]!==after.match(/<title[^>]*>([\s\S]*?)<\/title>/i)?.[0])throw Error('Page title changed '+file);
+            if(before.match(/<link rel="canonical"[^>]+>/i)?.[0]!==after.match(/<link rel="canonical"[^>]+>/i)?.[0])throw Error('Canonical changed '+file);
+            if(before.match(/<h1\b[^>]*>[\s\S]*?<\/h1>/i)?.[0]!==after.match(/<h1\b[^>]*>[\s\S]*?<\/h1>/i)?.[0])throw Error('Authored heading changed '+file);
+            const oldLinks=[...before.matchAll(/<a\b[^>]*href=["']([^"']+)["']/gi)].map(m=>m[1]);
+            const newLinks=[...after.matchAll(/<a\b[^>]*href=["']([^"']+)["']/gi)].map(m=>m[1]);
+            let at=0;
+            for(const href of oldLinks){
+              while(at<newLinks.length&&newLinks[at]!==href)at++;
+              if(at===newLinks.length)throw Error('Original link lost '+file+' '+href);
+              at++;
+            }
+            const published=after.includes('data-topic-state="questions"');
+            if(published&&!after.includes('data-preview-questions'))throw Error('Preview lacks source data '+file);
+            if(!published&&after.includes('data-preview-questions'))throw Error('Placeholder includes question data '+file);
+          }
+          const home=execFileSync('git',['diff','--','index.html'],{encoding:'utf8'}).trim();
+          if(home)throw Error('Homepage was modified');
+          console.log(JSON.stringify({newlyUpdatedPages:topics.length,overallCoverage:report.coverage,skipped:report.skipped,skippedExamples:report.skippedExamples},null,2));
+          JS
+
+      - name: Verify diff whitespace
+        run: git diff --check
+
+      - name: Commit generated pages to staging branch
+        shell: bash
+        run: |
+          set -euo pipefail
+          original="$(git rev-parse HEAD)"
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -u -- foundation year1 year2 year3 year4 year5 year6 year7 year8 year9 year10
+          git add docs/qa/2026-11-05-topic-first-panel-rollout.json
+          if git diff --cached --quiet; then
+            echo 'No changes to commit'
+            exit 0
+          fi
+          git commit -m 'Apply verified question-first and coming-soon topic panels across F-10'
+          node scripts/check_release_integrity.mjs "$original" HEAD
+          git fetch origin feature/f10-topic-first-uniform-panels-20261105
+          test "$(git rev-parse FETCH_HEAD)" = "$original"
+          git push origin HEAD:feature/f10-topic-first-uniform-panels-20261105

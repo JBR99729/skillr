@@ -10,7 +10,10 @@ const routeFile = href => {
   const route = String(href || '').split(/[?#]/, 1)[0].replace(/^\//, '');
   return route.endsWith('/') ? `${route}index.html` : route;
 };
-const hrefs = html => [...html.matchAll(/<a\b[^>]*href=["']([^"']+)["']/gi)].map(match => match[1]);
+const hrefs = html => [...html.matchAll(/<a\b[^>]*href=["']([^"']+)["']/gi)]
+  .map(match => match[1].replaceAll('&amp;', '&'));
+const appBanks = new Map(JSON.parse(read('data/app-question-banks.json')).codes
+  .map(bank => [bank.code, bank]));
 
 const units = JSON.parse(read('data/curriculum-units.json')).units
   .filter(unit => unit.yearNumber === 2 && unit.subjectSlug === 'maths')
@@ -30,7 +33,7 @@ for (const unit of units) {
   }
 
   const html = read(topicFile);
-  const text = html.replace(/<script[\s\S]*?<\/script>/gi, '').replace(/<style[\s\S]*?<\/style>/gi, '');
+  const text = html.replace(/<!--[\s\S]*?-->|<script[\s\S]*?<\/script>|<style[\s\S]*?<\/style>/gi, '');
 
   if (!/<meta\b[^>]*name=["']robots["'][^>]*content=["']index,\s*follow["']/i.test(html)) failures.push(`${code}: topic page must be index,follow`);
   if (!html.includes(`<link rel="canonical" href="${expectedCanonical}">`)) failures.push(`${code}: topic page must self-canonicalise to clean folder URL`);
@@ -39,10 +42,24 @@ for (const unit of units) {
   if (/id=["'](?:topicRoot|year2Topic)["'][^>]*>\s*(?:<p[^>]*>)?\s*Loading/i.test(html)) failures.push(`${code}: topic page must not depend on runtime curriculum rendering`);
   if (!/What students learn|Learning intention|Learning goal|Key concept|Curriculum coverage|Core idea/i.test(text)) failures.push(`${code}: static teaching content marker missing`);
 
-  const links = hrefs(html);
-  for (const route of [`/quiz/year-2/math/${lowerCode}/worksheet/`, `/quiz/year-2/math/${lowerCode}/practice/`, `/quiz/year-2/math/${lowerCode}/test/`]) {
-    if (!links.includes(route)) failures.push(`${code}: missing protected journey link ${route}`);
-    if (!exists(routeFile(route))) failures.push(`${code}: broken protected journey route ${route}`);
+  const links = hrefs(text);
+  const worksheet = `/quiz/year-2/math/${lowerCode}/worksheet/`;
+  if (!links.includes(worksheet) || !exists(routeFile(worksheet))) failures.push(`${code}: missing or broken free worksheet`);
+  const bank = appBanks.get(code);
+  if (!bank) failures.push(`${code}: missing app availability record`);
+  const practice = `https://app.skillrhub.com/?${bank?.guestPractice ? 'try' : 'login'}=1&skill=${code}`;
+  const assessment = `https://app.skillrhub.com/?assessment=${code}`;
+  const floating = [...text.matchAll(/<a\b[^>]*\bdata-floating-practice=["']([^"']+)["'][^>]*>/gi)];
+  if (bank?.practice) {
+    if (floating.length !== 1 || floating[0][1] !== code || hrefs(floating[0][0])[0] !== practice) {
+      failures.push(`${code}: expected one floating Practice link to ${practice}`);
+    }
+  } else if (floating.length || links.includes(practice)) {
+    failures.push(`${code}: links to unavailable app practice`);
+  }
+  if (Boolean(bank?.assessment) !== links.includes(assessment)) failures.push(`${code}: assessment link does not match app availability`);
+  if (links.some(href => new RegExp(`^/quiz/year-2/math/${lowerCode}/(?:practice|test)/`).test(href))) {
+    failures.push(`${code}: topic links to a retired quiz or test route`);
   }
   if (!links.some(href => /^(?:\.\/)?teacher-slides\/$/i.test(href))) failures.push(`${code}: topic page must link to clean local teacher-slides/ viewer`);
   if (links.some(href => /\/teacher-deck\/|\/worksheets\/year2\/maths\/teacher-slides\/viewer\//i.test(href))) failures.push(`${code}: topic page must not point Teacher Slides at legacy/shared viewer route`);
@@ -67,7 +84,9 @@ const compatibilityFile = 'year2/maths/addition-substraction-daily/index.html';
 if (exists(compatibilityFile)) {
   const html = read(compatibilityFile);
   if (!/<meta\b[^>]*name=["']robots["'][^>]*content=["']noindex,\s*follow["']/i.test(html)) failures.push(`${compatibilityFile}: compatibility/practice page must remain noindex,follow`);
-  if (!html.includes('<link rel="canonical" href="https://skillrhub.com/quiz/year-2/math/addition-subtraction-daily/">')) failures.push(`${compatibilityFile}: compatibility/practice page must canonicalise to quiz route`);
+  if (!html.includes('<link rel="canonical" href="https://app.skillrhub.com/">') || !hrefs(html).includes('https://app.skillrhub.com/')) {
+    failures.push(`${compatibilityFile}: retired daily-practice page must point to the app`);
+  }
 }
 
 const css = read('assets/curriculum.css');

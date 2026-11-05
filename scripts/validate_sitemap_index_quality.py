@@ -177,6 +177,15 @@ def main() -> None:
         robots = robots_content(source)
         canonical = canonical_path(source)
         owners = route_sitemaps.get(page_route, [])
+        if 'data-legacy-quiz-retired="2026-11-02"' in source:
+            # These URLs now intentionally leave the old player. The migration
+            # guard verifies the exact code-specific app target for every route.
+            if 'noindex' not in robots or 'follow' not in robots or owners:
+                errors.append(f"{page_route}: retired redirect must be noindex,follow and absent from sitemaps")
+            if not re.search(r'<link rel="canonical" href="https://app\.skillrhub\.com/', source):
+                errors.append(f"{page_route}: retired redirect must point to the app")
+            noindex_count += 1
+            continue
         variant_canonical = topic_variant_canonical(relative)
         if variant_canonical is not None:
             if "noindex" not in robots or "follow" not in robots:

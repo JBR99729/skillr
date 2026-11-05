@@ -1,0 +1,228 @@
+{
+  "examined": 708,
+  "updated": 0,
+  "realQuestions": 0,
+  "appOnly": 0,
+  "comingSoon": 0,
+  "skipped": {
+    "already-designed": 676,
+    "redirect": 32
+  },
+  "skippedExamples": [
+    {
+      "path": "year10/science/ac9s10h01-explain-how-scientific-knowledge-is-validated-and-refined/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year10/science/ac9s10h02-investigate-how-advances-in-technologies-enable-advances-in/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year10/science/ac9s10h03-analyse-the-key-factors-that-contribute-to-science-knowledge-and/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year10/science/ac9s10h04-examine-how-the-values-and-needs-of-society-influence-the/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year10/science/ac9s10i01-develop-investigable-questions-reasoned-predictions-and/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year10/science/ac9s10i02-plan-and-conduct-valid-reproducible-investigations-to-answer/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year10/science/ac9s10i03-select-and-use-equipment-to-generate-and-record-data-with/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year10/science/ac9s10i04-select-and-construct-appropriate-representations-including/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year10/science/ac9s10i05-analyse-and-connect-a-variety-of-data-and-information-to/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year10/science/ac9s10i06-assess-the-validity-and-reproducibility-of-methods-and-evaluate/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year10/science/ac9s10i07-construct-arguments-based-on-analysis-of-a-variety-of-evidence/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year10/science/ac9s10i08-and-create-texts-to-communicate-ideas-findings-and-arguments/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year10/science/ac9s10u01-explain-the-role-of-meiosis-and-mitosis-and-the-function/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year10/science/ac9s10u02-the-theory-of-evolution-by-natural-selection-to-explain-past/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year10/science/ac9s10u03-how-the-big-bang-theory-models-the-origin-and-evolution/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year10/science/ac9s10u04-models-of-energy-flow-between-the-geosphere-biosphere/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year10/science/ac9s10u05-investigate-newton-s-laws-of-motion-and-quantitatively-analyse/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year10/science/ac9s10u06-explain-how-the-structure-and-properties-of-atoms-relate-to/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year10/science/ac9s10u07-patterns-in-synthesis-decomposition-and-displacement-reactions/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year8/science/ac9s8i01-develop-investigable-questions-reasoned-predictions-and/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year9/science/ac9s9h01-explain-how-scientific-knowledge-is-validated-and-refined/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year9/science/ac9s9h02-investigate-how-advances-in-technologies-enable-advances-in/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year9/science/ac9s9h03-analyse-the-key-factors-that-contribute-to-science-knowledge-and/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year9/science/ac9s9h04-examine-how-the-values-and-needs-of-society-influence-the/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year9/science/ac9s9i01-develop-investigable-questions-reasoned-predictions-and/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year9/science/ac9s9u01-the-role-of-body-systems-in-regulating-and-coordinating-the/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year9/science/ac9s9u02-the-form-and-function-of-reproductive-cells-and-organs-in/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year9/science/ac9s9u03-represent-the-carbon-cycle-and-examine-how-key-processes/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year9/science/ac9s9u04-wave-and-particle-models-to-describe-energy-transfer-through/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year9/science/ac9s9u05-apply-the-law-of-conservation-of-energy-to-analyse-system/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year9/science/ac9s9u06-explain-how-the-model-of-the-atom-changed-following-the/index.html",
+      "reason": "redirect"
+    },
+    {
+      "path": "year9/science/ac9s9u07-model-the-rearrangement-of-atoms-in-chemical-reactions-using-a/index.html",
+      "reason": "redirect"
+    }
+  ],
+  "coverage": {
+    "total": 676,
+    "questions": 216,
+    "appOnly": 5,
+    "comingSoon": 454,
+    "existingBlueprint": 1
+  },
+  "examples": [],
+  "byYear": {
+    "foundation": {
+      "examined": 50,
+      "updated": 0,
+      "realQuestions": 0,
+      "appOnly": 0,
+      "comingSoon": 0
+    },
+    "year1": {
+      "examined": 55,
+      "updated": 0,
+      "realQuestions": 0,
+      "appOnly": 0,
+      "comingSoon": 0
+    },
+    "year10": {
+      "examined": 84,
+      "updated": 0,
+      "realQuestions": 0,
+      "appOnly": 0,
+      "comingSoon": 0
+    },
+    "year2": {
+      "examined": 55,
+      "updated": 0,
+      "realQuestions": 0,
+      "appOnly": 0,
+      "comingSoon": 0
+    },
+    "year3": {
+      "examined": 63,
+      "updated": 0,
+      "realQuestions": 0,
+      "appOnly": 0,
+      "comingSoon": 0
+    },
+    "year4": {
+      "examined": 63,
+      "updated": 0,
+      "realQuestions": 0,
+      "appOnly": 0,
+      "comingSoon": 0
+    },
+    "year5": {
+      "examined": 60,
+      "updated": 0,
+      "realQuestions": 0,
+      "appOnly": 0,
+      "comingSoon": 0
+    },
+    "year6": {
+      "examined": 59,
+      "updated": 0,
+      "realQuestions": 0,
+      "appOnly": 0,
+      "comingSoon": 0
+    },
+    "year7": {
+      "examined": 72,
+      "updated": 0,
+      "realQuestions": 0,
+      "appOnly": 0,
+      "comingSoon": 0
+    },
+    "year8": {
+      "examined": 70,
+      "updated": 0,
+      "realQuestions": 0,
+      "appOnly": 0,
+      "comingSoon": 0
+    },
+    "year9": {
+      "examined": 77,
+      "updated": 0,
+      "realQuestions": 0,
+      "appOnly": 0,
+      "comingSoon": 0
+    }
+  }
+}
