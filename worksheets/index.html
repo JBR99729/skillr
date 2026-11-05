@@ -23,6 +23,8 @@
   <!-- ADSENSE DISABLED PENDING APPROVAL: <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7734963540104771" crossorigin="anonymous"></script> -->
 <link rel="stylesheet" href="/assets/css/resource-polish.css?v=20260907-f10" data-resource-presentation>
   <link rel="stylesheet" href="/assets/site-navigation.css?v=20260908-primary1">
+  <link rel="stylesheet" href="/assets/resource-browser.css">
+  <script src="/assets/resource-browser.js" defer></script>
 </head>
 <body class="skillr-resource skillr-resource--worksheet skillr-shared-navigation">
   <div class="container">
@@ -47,6 +49,25 @@
       <h1>Free Worksheets &amp; Homework Sheets</h1>
       <p>Choose a year level, then open Maths, Science or English to find the matching curriculum topic. SkillrHub connects worksheets, quizzes, practice and tests across a <a href="/free-k-10-question-bank.html">large question bank</a>. Core resources stay free; optional books are separate premium bundles.</p>
     </header>
+
+    <section class="content-section resource-browser-panel" hidden aria-labelledby="resource-browser-title">
+      <h2 id="resource-browser-title">Find worksheets and teaching slides</h2>
+      <form id="resource-browser">
+        <div class="resource-filters">
+          <label>Year<select name="year"><option value="foundation">Foundation</option><option value="year1">Year 1</option><option value="year2">Year 2</option><option value="year3">Year 3</option><option value="year4">Year 4</option><option value="year5">Year 5</option><option value="year6">Year 6</option><option value="year7">Year 7</option><option value="year8">Year 8</option><option value="year9">Year 9</option><option value="year10">Year 10</option></select></label>
+          <label>Subject<select name="subject"><option value="maths">Maths</option><option value="science">Science</option><option value="english">English</option></select></label>
+          <label>Topic or curriculum code<input name="topic" type="search" maxlength="160"></label>
+        </div>
+        <div class="resource-types" role="group" aria-label="Resource type">
+          <button type="button" data-format="worksheets" aria-pressed="true">Worksheets</button>
+          <button type="button" data-format="slides" aria-pressed="false">Teaching slides</button>
+          <button type="button" data-format="packs" aria-pressed="false">Printable packs</button>
+        </div>
+      </form>
+      <p id="resource-status" role="status"></p>
+      <ul id="resource-results"></ul>
+      <a id="resource-folder" href="/worksheets/foundation/maths/">Open the selected worksheet folder</a>
+    </section>
 
     <section class="content-section" aria-labelledby="worksheets-heading">
       <p class="eyebrow">Foundation–Year 5</p>
