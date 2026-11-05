@@ -150,7 +150,7 @@
   ]
 }
 </script>
-<link rel="stylesheet" href="/assets/home-clean.css?v=palette-rollback-20261105-1">
+<link rel="stylesheet" href="/assets/home-clean.css?v=year-navigation-20261105">
 </head>
 <body class="home-page">
 <div id="skillr-home" class="clean-home">
@@ -164,7 +164,12 @@
 </header>
 <main id="main-content" class="clean-wrap clean-main" tabindex="-1">
   <h1>Australian Curriculum practice and teaching resources</h1>
-  <p>Explore free topic guides and practice. Create a free student account to save your progress.</p>
+  <p>Choose your child’s year and a topic, then try a question with helpful feedback.</p>
+  <div class="clean-start">
+    <a class="clean-chat" href="https://app.skillrhub.com/?try=1" data-home-conversion="practice_trial" data-home-placement="hero">Try free practice</a>
+    <a href="#choose-year">Find a topic by year</a>
+  </div>
+  <p class="clean-allowance">No email or card needed to try. Guests can answer up to 20 questions a day. A free adult account includes 500 questions in total, including the first 20 guest questions, and saves your app progress.</p>
   <section id="topic-search" class="clean-search" role="search" aria-label="Curriculum search">
     <form id="home-topic-search" action="/" method="get">
       <label for="site-search-input">Search by topic or code</label>
@@ -172,8 +177,34 @@
         <input id="site-search-input" name="q" type="search" placeholder="e.g. numbers to 120 or AC9M1N01" aria-controls="site-search-results" autocomplete="off">
         <button type="submit">Search</button>
       </div>
-      <input type="hidden" id="search-year">
-      <input type="hidden" id="search-subject">
+      <div id="choose-year" class="clean-filters" tabindex="-1">
+        <div>
+          <label for="search-year">Year level</label>
+          <select id="search-year" name="year">
+            <option value="">All years</option>
+            <option value="0">Foundation</option>
+            <option value="1">Year 1</option>
+            <option value="2">Year 2</option>
+            <option value="3">Year 3</option>
+            <option value="4">Year 4</option>
+            <option value="5">Year 5</option>
+            <option value="6">Year 6</option>
+            <option value="7">Year 7</option>
+            <option value="8">Year 8</option>
+            <option value="9">Year 9</option>
+            <option value="10">Year 10</option>
+          </select>
+        </div>
+        <div>
+          <label for="search-subject">Subject</label>
+          <select id="search-subject" name="subject">
+            <option value="">All subjects</option>
+            <option value="maths">Maths</option>
+            <option value="english">English</option>
+            <option value="science">Science</option>
+          </select>
+        </div>
+      </div>
     </form>
     <div id="site-search-results" class="sp-results" hidden><p id="site-search-status" role="status" aria-live="polite"></p><ul id="site-search-list"></ul></div>
     <noscript><p><a href="/sitemap.html">Browse the curriculum index</a>.</p></noscript>
@@ -224,7 +255,7 @@ document.addEventListener('click',function(event){var link=event.target.closest&
 </script>
 <script src="/pwa-register.js?v=7"></script>
 <script src="/share-button.js?v=20260912-5"></script>
-<script src="/assets/home-topic-search.js?v=search-first-1" defer></script>
+<script src="/assets/home-topic-search.js?v=year-navigation-20261105" defer></script>
 <script>
 (() => {
   const form = document.getElementById('resource-request-form');

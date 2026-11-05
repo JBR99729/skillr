@@ -127,6 +127,8 @@
     } catch (_) { if(ticket === request) message('Search is temporarily unavailable. Use the curriculum index in the footer.'); }
   }
   input.addEventListener('input', runSearch);
+  yearFilter.addEventListener('change', runSearch);
+  subjectFilter.addEventListener('change', runSearch);
   input.addEventListener('focus', function () { loadCatalogue().catch(function () {}); });
   input.addEventListener('keydown', function (event) { if(event.key==='Escape'){++request;results.hidden=true;} });
   form.addEventListener('submit', function (event) { event.preventDefault(); runSearch(); });
