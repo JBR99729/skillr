@@ -101,3 +101,11 @@ body.home-page:has(#skillr-home .clean-header) > .skillr-site-header{display:non
   }
   #skillr-home .clean-messenger-float span { display: none; }
 }
+
+/* Native year links keep curriculum hubs reachable without search scripts. */
+#skillr-home .clean-years{margin:24px 0}
+#skillr-home .clean-years h2{font-size:20px;margin:0 0 6px}
+#skillr-home .clean-years p{font-size:14px;margin:0 0 12px}
+#skillr-home .clean-years ul{display:flex;flex-wrap:wrap;gap:8px;list-style:none;padding:0;margin:0}
+#skillr-home .clean-years a{display:inline-flex;align-items:center;justify-content:center;min-height:44px;min-width:76px;padding:8px 12px;background:#fff;border:1px solid var(--skillr-control-border);border-radius:8px;text-decoration:none}
+#skillr-home .clean-years a:hover{background:var(--skillr-soft-surface)}
