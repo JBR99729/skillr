@@ -176,6 +176,23 @@
 #skillr-home .clean-welcome .clean-progress{font-size:14px;margin-top:9px}
 #skillr-home .clean-welcome .clean-paid-options{font-size:13px;margin-top:6px}
 </style>
+<style id="home-progress-preview-layout">
+#skillr-home .clean-progress-preview{margin:0 0 24px}
+#skillr-home .clean-save-reassurance{display:flex;align-items:center;justify-content:center;gap:9px;margin:0 0 12px;color:var(--skillr-progress);font-size:15px;text-align:center}
+#skillr-home .clean-save-reassurance>svg{width:27px;height:27px;flex:none}
+#skillr-home .clean-resume-card{padding:12px 16px;background:#fff;border:1px solid var(--skillr-panel-border);border-radius:12px;box-shadow:0 2px 7px #16324a0a}
+#skillr-home .clean-resume-card .clean-preview-label{font-size:12px;margin:0 0 8px;color:var(--skillr-text-secondary)}
+#skillr-home .clean-resume-row{display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:6px 10px;font-size:14px}
+#skillr-home .clean-resume-row>a{display:inline-flex;align-items:center;min-height:44px;font-weight:600}
+#skillr-home .clean-resume-icon{display:inline-flex;align-items:center;justify-content:center;flex:none;width:34px;height:34px;border-radius:50%;background:var(--skillr-soft-surface);color:var(--skillr-primary)}
+#skillr-home .clean-resume-icon>svg{width:22px;height:22px;fill:currentColor}
+@media(max-width:540px){
+#skillr-home .clean-resume-card{padding:12px}
+#skillr-home .clean-resume-row{gap:6px 8px}
+#skillr-home .clean-resume-row>a{flex-basis:100%;justify-content:center}
+#skillr-home .clean-resume-divider:last-of-type{display:none}
+}
+</style>
 </head>
 <body class="home-page">
 <div id="skillr-home" class="clean-home">
@@ -200,6 +217,23 @@
     <p class="clean-progress">Save progress and view your dashboard. Come back anytime.</p>
     <p class="clean-paid-options">Explore at your own pace. Paid options when you’re ready.</p>
   </div>
+  <section class="clean-progress-preview" aria-label="Example learning dashboard">
+    <p class="clean-save-reassurance">
+      <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 2 3 6v6c0 5 9 10 9 10s9-5 9-10V6Z" fill="currentColor"/><path d="m8 12 3 3 5-6" fill="none" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      <strong>Progress saved with a free account</strong>
+    </p>
+    <div class="clean-resume-card">
+      <p class="clean-preview-label">Example progress</p>
+      <div class="clean-resume-row">
+        <span class="clean-resume-icon" aria-hidden="true"><svg viewBox="0 0 24 24" focusable="false"><rect x="3" y="14" width="4" height="7" rx="1"/><rect x="10" y="9" width="4" height="12" rx="1"/><rect x="17" y="3" width="4" height="18" rx="1"/></svg></span>
+        <strong>Year 3 Maths</strong>
+        <span class="clean-resume-divider" aria-hidden="true">·</span>
+        <span>8 skills practised</span>
+        <span class="clean-resume-divider" aria-hidden="true">·</span>
+        <a href="https://app.skillrhub.com/?login=1" data-home-conversion="login_click" data-home-placement="progress-preview">Continue where you left off →</a>
+      </div>
+    </div>
+  </section>
   <section id="topic-search" class="clean-search" role="search" aria-label="Curriculum search">
     <form id="home-topic-search" action="/" method="get">
       <label for="site-search-input">Search by topic or code</label>
