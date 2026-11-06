@@ -20,21 +20,85 @@
   <link rel="stylesheet" href="/assets/css/ux-portals.css?v=20260907-1">
   <script type="application/ld+json">{"@context":"https://schema.org","@type":"CollectionPage","name":"Australian Curriculum Teaching Resources","url":"https://skillrhub.com/teach/","description":"Find free Australian Curriculum teaching resources from Foundation to Year 10: Maths, Science and English guides for teachers, homeschool families and parents.","isPartOf":{"@type":"WebSite","name":"SkillrHub","url":"https://skillrhub.com/","@id":"https://skillrhub.com/#website","publisher":{"@id":"https://skillrhub.com/#organization"}}}</script>
   <link rel="stylesheet" href="/assets/site-navigation.css?v=20260908-primary1">
+  <style>
+    .teacher-offer { padding: clamp(1rem, 3vw, 2rem); background: #eff5ff; border: 1px solid #c9dcfa; border-radius: 1rem; margin-block-end: 1rem; color: #142b4a; }
+    .teacher-offer h1, .teacher-offer h2 { margin: .25rem 0 .5rem; }
+    .teacher-offer-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr)); gap: 1rem; margin-top: 1rem; }
+    .teacher-offer-grid > div { background: white; border: 1px solid #c9dcfa; border-radius: .75rem; padding: 1rem; }
+    .teacher-offer details { margin-block: .5rem; }
+    .teacher-offer summary { font-weight: 650; padding: .5rem 0; cursor: pointer; }
+    .teacher-request-form { display: grid; gap: .65rem; margin-block: .75rem; }
+    .teacher-request-form label { display: grid; gap: .25rem; }
+    .teacher-request-form input, .teacher-request-form select { width: 100%; min-height: 2.75rem; padding: .5rem; font: inherit; }
+    .teacher-request-form button { justify-self: start; border: 0; font: inherit; cursor: pointer; }
+    .teacher-offer-actions { display: flex; flex-wrap: wrap; gap: .75rem; align-items: center; }
+    .teacher-offer-request { background: #1952ae; color: white; border-radius: .5rem; padding: .7rem 1rem; display: inline-block; }
+    .teacher-offer-request:hover { color: white; background: #153d83; }
+  </style>
 </head>
 <body class="home-page portal-page skillr-shared-navigation">
 <header class="site-header skillr-site-header">
   <nav class="site-header__nav" aria-label="Main navigation">
     <a class="site-header__brand" href="/" aria-label="SkillrHub F–10 home"><img src="/icons/skillrhub-mark.svg" alt="" width="38" height="38"><strong>SkillrHub</strong> <span>F–10</span></a>
-    <div class="site-header__links"><a href="/learn/">Learn</a><a href="/teach/" aria-current="page">Teach</a><a href="/products/">Products</a><a href="/homeschooling-australia/">Homeschool</a><a href="/worksheets/">Worksheets &amp; Homework</a><a href="/dashboard/">Dashboard</a><a href="/print-and-go.html">Print &amp; Go</a><a href="/teach-and-explain.html">Teach &amp; Explain</a><a href="/updates.html">Updates</a></div>
-    <details class="site-header__menu"><summary>Menu</summary><div class="site-header__menu-panel"><a href="/learn/">Learn</a><a href="/teach/" aria-current="page">Teach</a><a href="/products/">Products</a><a href="/homeschooling-australia/">Homeschool</a><a href="/worksheets/">Worksheets &amp; Homework</a><a href="/dashboard/">Dashboard</a><a href="/print-and-go.html">Print &amp; Go</a><a href="/teach-and-explain.html">Teach &amp; Explain</a><a href="/updates.html">Updates</a></div></details>
+    <div class="site-header__links"><a href="/learn/">Learn</a><a href="/teach/" aria-current="page">Teach</a><a href="/homeschooling-australia/">Homeschool</a><a href="/worksheets/">Worksheets &amp; Homework</a><a href="/dashboard/">Dashboard</a><a href="/updates.html">Updates</a></div>
+    <details class="site-header__menu"><summary>Menu</summary><div class="site-header__menu-panel"><a href="/learn/">Learn</a><a href="/teach/" aria-current="page">Teach</a><a href="/homeschooling-australia/">Homeschool</a><a href="/worksheets/">Worksheets &amp; Homework</a><a href="/dashboard/">Dashboard</a><a href="/updates.html">Updates</a></div></details>
   </nav>
 </header>
 <main class="container portal-container">
+  <section class="teacher-offer" id="free-teacher-lessons" aria-labelledby="teacher-offer-title">
+    <p class="ux-eyebrow">Australia &amp; United States</p>
+    <h1 id="teacher-offer-title">Free lesson slides and worksheets</h1>
+    <p>Preview a lesson, then request free access for classroom use.</p>
+    <div class="teacher-offer-grid">
+      <div>
+        <p class="ux-eyebrow">Public preview</p>
+        <h2>Elapsed time</h2>
+        <p>Australia · Year 3 Maths (AC9M3M03)<br>United States · Grade 3 Math</p>
+        <details open>
+          <summary>Sample slide</summary>
+          <p>A lesson starts at 9:45 am and ends at 10:15 am. How long does it last?</p>
+          <p>9:45 am → 10:00 am → 10:15 am<br><strong>15 min + 15 min = 30 min</strong></p>
+        </details>
+        <details>
+          <summary>Worksheet sample</summary>
+          <ol>
+            <li>Reading starts at 10:50 am and finishes at 11:15 am. How long did it last?</li>
+            <li>Sport starts at 1:35 pm and lasts 40 minutes. What time does it finish?</li>
+          </ol>
+        </details>
+      </div>
+      <div>
+        <p class="ux-eyebrow">Free teacher access</p>
+        <h2>Request classroom resources</h2>
+        <p>Ask for teaching slides and a matching five-page question worksheet with a separate answer key.</p>
+        <details>
+          <summary>Request free teacher access</summary>
+          <form class="teacher-request-form" action="mailto:skillrhublearning@gmail.com?subject=Free%20teacher%20access%20request" method="post" enctype="text/plain" aria-describedby="teacher-request-note">
+            <label>Country
+              <select name="Country" required>
+                <option value="">Choose a country</option>
+                <option>Australia</option>
+                <option>United States</option>
+              </select>
+            </label>
+            <label>School name <input name="School" required></label>
+            <label>School email <input type="email" name="Email" required></label>
+            <label>Year or grade <input name="Year or grade" required></label>
+            <p id="teacher-request-note">Use your school email if you have one. Requests from personal emails are reviewed manually. This opens a draft in your email app. Press Send there to submit your request.</p>
+            <button class="teacher-offer-request" type="submit">Open email draft</button>
+          </form>
+        </details>
+        <div class="teacher-offer-actions">
+          <a href="mailto:?subject=Free%20SkillrHub%20lesson%20preview&amp;body=https%3A%2F%2Fskillrhub.com%2Fteach%2F%23free-teacher-lessons">Share lesson preview</a>
+          <a href="mailto:?subject=Elapsed-time%20practice&amp;body=https%3A%2F%2Fapp.skillrhub.com%2F%3Ftry%3D1%26skill%3DAC9M3M03">Share Australian student practice</a>
+        </div>
+      </div>
+    </div>
+  </section>
   <section class="portal-hero">
     <p class="ux-eyebrow">Foundation to Year 10</p>
-    <h1>Australian Curriculum teaching resources by year</h1>
+    <h2>Australian Curriculum teaching resources by year</h2>
     <p>Choose a year to find free Maths, Science and English topic guides, classroom views, worksheets and assessment practice. Australian Curriculum pathways help teachers plan lessons, homeschool families explain each skill, and parents support learning at home.</p>
-    <p>Need ready-made extras? Browse <a href="/teach-and-explain.html">teaching slides and explanation packs</a> or <a href="/print-and-go.html">printable worksheets and practice packs</a>. For learning at home, explore the <a href="/homeschooling-australia/">Australian homeschool planners</a>.</p>
   </section>
   <section class="portal-band" aria-labelledby="choose-year">
     <h2 id="choose-year">Choose a year</h2>
@@ -75,9 +139,8 @@
   </section>
 </main>
 <footer>
-  <nav class="footer-nav" aria-label="Footer navigation"><a href="/">Home</a><a href="/learn/">Learn</a><a href="/teach/">Teach</a><a href="/products/">Products</a><a href="/worksheets/">Worksheets</a><a href="/about.html">About</a><a href="/contact.html">Contact</a></nav>
+  <nav class="footer-nav" aria-label="Footer navigation"><a href="/">Home</a><a href="/learn/">Learn</a><a href="/teach/">Teach</a><a href="/worksheets/">Worksheets</a><a href="/about.html">About</a><a href="/contact.html">Contact</a></nav>
   <p>© 2026 SkillrHub. All rights reserved.</p>
-  <p>Digital practice and teaching notes are free. Optional paid printable packs are sold separately on Teachers Pay Teachers.</p>
 </footer>
 <!-- skillr-companions: shared utility only -->
 <script defer src="/assets/companions/loader.js?v=20260909-1"></script>
