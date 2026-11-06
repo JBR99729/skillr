@@ -1,0 +1,95 @@
+/* Shared compact presentation for the public, static curriculum lessons. */
+.compact-topic-page .compact-topic-bar {
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 8px 12px;
+  margin: 0 0 8px;
+  background: #fff;
+  border-bottom: 1px solid #d6e2ef;
+  color: #142c48;
+}
+.compact-topic-bar strong {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.compact-topic-page .compact-topic-bar #skillr-topic-practice-now,
+.compact-topic-page .compact-topic-offer a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  padding: 0 12px;
+  border-radius: 8px;
+  background: #245bd5;
+  color: #fff;
+  font-weight: 700;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.compact-topic-page .compact-topic-bar #skillr-topic-practice-now {
+  position: static;
+  border: 0;
+  box-shadow: none;
+}
+.compact-topic-page .curriculum-hero,
+.compact-topic-page .static-topic-hero {
+  margin-block: 0 8px;
+  padding: clamp(12px, 2vw, 20px);
+  border-radius: 12px;
+  background: #f3f7fa;
+  color: #142c48;
+}
+.compact-topic-page .curriculum-hero h1,
+.compact-topic-page .static-topic-hero h1 { margin-block: 2px 6px; }
+.compact-topic-page .compact-topic-offer,
+.compact-topic-page .compact-topic-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px 12px;
+  margin: 0 0 8px;
+  padding: 6px 12px;
+  border: 1px solid #d6e2ef;
+  border-radius: 10px;
+  background: #fff;
+  color: #142c48;
+}
+.compact-topic-page .compact-topic-offer { justify-content: space-between; }
+.compact-topic-page .compact-topic-links a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  color: #1848ac;
+}
+.compact-topic-page main details > summary {
+  box-sizing: border-box;
+  min-height: 44px;
+  padding-block: 9px;
+}
+.compact-topic-page main [id] { scroll-margin-top: 64px; }
+.compact-topic-page main details { margin-block: 8px; }
+.compact-topic-page .topic-section-nav:empty { display: none; }
+@media (max-width: 480px) {
+  .compact-topic-page .compact-topic-offer a { justify-content: center; }
+}
+
+.compact-topic-discovery { margin: 0 0 8px; }
+.compact-topic-discovery > summary {
+  width: fit-content;
+  cursor: pointer;
+  color: #425c78;
+  padding: 8px 12px;
+}
+.compact-topic-discovery > nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 12px;
+  padding: 0 12px 8px;
+}
+.compact-topic-discovery a { color: #1848ac; }
