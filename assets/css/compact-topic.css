@@ -78,3 +78,18 @@
 @media (max-width: 480px) {
   .compact-topic-page .compact-topic-offer a { justify-content: center; }
 }
+
+.compact-topic-discovery { margin: 0 0 8px; }
+.compact-topic-discovery > summary {
+  width: fit-content;
+  cursor: pointer;
+  color: #425c78;
+  padding: 8px 12px;
+}
+.compact-topic-discovery > nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 12px;
+  padding: 0 12px 8px;
+}
+.compact-topic-discovery a { color: #1848ac; }
