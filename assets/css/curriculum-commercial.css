@@ -194,3 +194,31 @@
     box-shadow: none;
   }
 }
+
+/* Compact spacing for the shared static curriculum topic layout. */
+.skillr-commercial-topic.skillr-resource--topic .curriculum-hero {
+  margin-block: 8px 14px;
+  padding: clamp(14px, 3vw, 28px);
+}
+.skillr-commercial-topic.skillr-resource--topic .skillr-quick-learning {
+  margin-block: 12px;
+  padding: 12px;
+}
+.skillr-commercial-topic.skillr-resource--topic .resource-actions {
+  margin-top: 10px;
+  padding-top: 8px;
+}
+.skillr-commercial-topic.skillr-resource--topic .curriculum-topic-section > summary {
+  box-sizing: border-box;
+  min-height: 44px;
+  padding-block: 9px;
+}
+.skillr-commercial-topic.skillr-resource--topic .skillr-topic-first {
+  margin-block: 8px 14px;
+  padding: clamp(12px, 2vw, 18px);
+}
+.skillr-commercial-topic.skillr-resource--topic .skillr-topic-first__cta {
+  gap: 8px;
+  margin-top: 8px;
+  padding: 8px 12px;
+}
