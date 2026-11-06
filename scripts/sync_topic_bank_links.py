@@ -46,9 +46,17 @@ def rewrite(source,code,bank):
  out=''.join(part(p) for p in COMMENTS.split(source))
  if bank and bank.get('practice'):
   query='try=1&amp;skill='+code if bank.get('guestPractice') else 'login=1&amp;skill='+code
-  link=f'<a id="skillr-topic-practice-now" class="skillr-topic-practice-now" data-floating-practice="{code}" data-practice-placement="floating_button" data-curriculum-code="{code}" href="https://app.skillrhub.com/?{query}">Practice now →</a>\n'
-  if not re.search(r'</body>',out,re.I):raise ValueError('Topic has no body: '+code)
-  out=re.sub(r'</body>',lambda m:link+m.group(),out,count=1,flags=re.I)
+  bar=re.search(r'<div class="(?:compact-topic-bar|cb-lesson-bar numbers-bar)">[\s\S]*?</strong>',out)
+  compact=bar and 'compact-topic-bar' in bar.group()
+  css_class='compact-topic-practice' if compact else 'skillr-topic-practice-now'
+  placement='lesson_bar' if bar else 'floating_button'
+  label='Practise →' if bar else 'Practice now →'
+  link=f'<a id="skillr-topic-practice-now" class="{css_class}" data-floating-practice="{code}" data-practice-placement="{placement}" data-curriculum-code="{code}" href="https://app.skillrhub.com/?{query}">{label}</a>'
+  if bar:
+   out=out[:bar.end()]+link+out[bar.end():]
+  else:
+   if not re.search(r'</body>',out,re.I):raise ValueError('Topic has no body: '+code)
+   out=re.sub(r'</body>',lambda m:link+'\n'+m.group(),out,count=1,flags=re.I)
  return out
 
 def main():

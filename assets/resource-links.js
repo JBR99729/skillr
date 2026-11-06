@@ -178,6 +178,7 @@
   }
 
   function mountTopicPracticeLink(code) {
+    const lessonBar = document.querySelector('.compact-topic-bar, .numbers-bar');
     let link = document.getElementById('skillr-topic-practice-now');
     const visibility = () => { if (link) link.hidden = !!document.fullscreenElement; };
     document.addEventListener('fullscreenchange', visibility);
@@ -190,13 +191,13 @@
         if (!link) {
           link = document.createElement('a');
           link.id = 'skillr-topic-practice-now';
-          link.className = 'skillr-topic-practice-now';
-          document.body.appendChild(link);
+          link.className = lessonBar?.classList.contains('compact-topic-bar') ? 'compact-topic-practice' : 'skillr-topic-practice-now';
+          (lessonBar || document.body).appendChild(link);
         }
         link.href = 'https://app.skillrhub.com/?' + (bank.guestPractice ? 'try=1&skill=' : 'login=1&skill=') + encodeURIComponent(code);
-        link.textContent = 'Practice now →';
+        link.textContent = lessonBar ? 'Practise →' : 'Practice now →';
         link.dataset.floatingPractice = code;
-        link.dataset.practicePlacement = 'floating_button';
+        link.dataset.practicePlacement = lessonBar ? 'lesson_bar' : 'floating_button';
         link.dataset.curriculumCode = code;
         link.setAttribute('aria-label', 'Practice ' + code + (bank.guestPractice ? '' : ' — free account needed'));
         visibility();
