@@ -1,0 +1,26 @@
+name: Stage compact topic introductions
+on:
+  push:
+    branches: [fix/compact-topic-intros]
+    paths: [.github/workflows/stage-compact-topic-intros.yml]
+permissions:
+  contents: write
+jobs:
+  stage:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - run: |
+          set -euo pipefail
+          python scripts/stage-compact-topic-intros.py
+          git diff --check
+          node scripts/audit_curriculum_route_integrity.mjs
+          python scripts/validate_discovery_navigation.py
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- foundation year{1..10}
+          git commit -m "Move paid worksheet panels out of lesson introductions"
+          node scripts/check_release_integrity.mjs HEAD^ HEAD
+          git push origin HEAD:refs/heads/fix/compact-topic-intros
