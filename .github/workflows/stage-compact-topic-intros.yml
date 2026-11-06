@@ -14,6 +14,7 @@ jobs:
           fetch-depth: 0
       - run: |
           set -euo pipefail
+          git restore --source=9e7d1041f59310d83f502817e8799fab6c4c1b22 --worktree -- foundation year{1..10}
           python scripts/stage-compact-topic-intros.py
           git diff --check
           node scripts/audit_curriculum_route_integrity.mjs
