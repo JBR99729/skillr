@@ -12,7 +12,7 @@ for name in subprocess.check_output(['git','diff','--name-only',BASE,'HEAD'], te
     path = Path(name)
     source = path.read_text()
     before = subprocess.check_output(['git','show',f'{BASE}:{name}'], text=True)
-    existing = {match[1] for match in anchor.finditer(source)}
+    existing = {match[1] for match in anchor.finditer(re.sub(r'<!--[\s\S]*?-->', '', source))}
     links = {}
     for block in legacy_links.finditer(before):
         for match in anchor.finditer(block[1]):

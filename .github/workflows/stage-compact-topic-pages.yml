@@ -2,7 +2,7 @@ name: Stage compact topic navigation fixes
 on:
   push:
     branches: [fix/f10-compact-topic-pages]
-    paths: [.github/workflows/stage-compact-topic-pages.yml]
+    paths: [.github/workflows/stage-compact-topic-pages.yml, scripts/stage-compact-topic-pages.py]
 permissions:
   contents: write
 jobs:
