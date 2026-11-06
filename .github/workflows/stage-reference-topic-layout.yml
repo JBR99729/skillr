@@ -2,7 +2,7 @@ name: Stage reference layout across topics
 on:
   push:
     branches: [fix/numbers-reference-topic-preview]
-    paths: [.github/workflows/stage-reference-topic-layout.yml]
+    paths: [.github/workflows/stage-reference-topic-layout.yml, scripts/stage-reference-topic-layout.py]
 permissions:
   contents: write
 jobs:

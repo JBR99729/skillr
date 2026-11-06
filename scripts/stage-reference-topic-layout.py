@@ -50,7 +50,7 @@ class Inventory(HTMLParser):
 
 PREVIEW_HEAD = '<link rel="stylesheet" href="/assets/css/lesson-preview.css">'
 EXAMPLE = re.compile(r'^(?:(?:worked|modelled|modeled|sample|guided)\s+(?:example|model|response)|example\b|model text)', re.I)
-PROMPT = re.compile(r'^(?:try|question|check|answer|activity|task|practice|assessment|read aloud|teacher|parent|worksheet|related|curriculum|video|what students learn|what you will learn)\b', re.I)
+PROMPT = re.compile(r'^(?:try|question|check|answer|activity|task|practice|assessment|read aloud|teacher|parent|worksheet|related|curriculum|video|open one|open the|start with the first focus|learn the skill|small steps|before this lesson|resources|what students learn|what you will learn)\b', re.I)
 TAKEAWAY = re.compile(r'^(?:why (?:it|this) works|key (?:idea|point)|takeaway|remember|check by|this shows|so\b)', re.I)
 
 def body(source, node):
@@ -72,16 +72,18 @@ def teaching(source, nodes, main):
     choices = []
     for p in paragraphs:
         line = cleaned(source,p)
-        if 24 <= len(line) <= 550 and (EXAMPLE.match(line) or re.match(r'^(?:for example|model|scenario)[: ,]',line,re.I)):
+        if 24 <= len(line) <= 550 and not line.endswith('?') and (EXAMPLE.match(line) or re.match(r'^(?:for example|model|scenario)[: ,]',line,re.I)):
             content = re.sub(r'^(?:(?:worked|modelled|modeled|sample|guided)\s+)?example\s*[:—–]\s*','',line,flags=re.I)
             choices.append((0 if content != line else 2,p,'Worked example',content))
     for heading in headings:
         title = label(source,heading)
+        if re.search(r'^(?:worked |modelled |guided )?examples(?:\s|$)', title, re.I):
+            continue
         if not EXAMPLE.search(title) and not re.search(r'worked examples?|model and|see it, then try|model text|demonstrat',title,re.I):
             continue
         limit = heading.parent.end if heading.parent and heading.parent.tag in {'details','article','section'} else min(main.end, heading.end+2500)
         p = next((p for p in paragraphs if heading.end <= p.start < limit and 24 <= len(cleaned(source,p)) <= 550),None)
-        if p:
+        if p and not cleaned(source,p).endswith('?'):
             choices.append((1,p,title,cleaned(source,p)))
     for index,p in enumerate(paragraphs[:-1]):
         line=cleaned(source,p)
@@ -92,14 +94,15 @@ def teaching(source, nodes, main):
                 choices.append((0,next_p,'Worked example',example))
         if re.match(r'^(?:read it|show it|say it|look at this|model it|example|worked example):',line,re.I) and 24<=len(line)<=550:
             choices.append((1,p,'Worked example',line.split(':',1)[1].strip()))
-        if p.parent and p.parent.classes & {'topic-answer','learn-answer','unit-answer'}:
+        if p.parent and (p.parent.classes & {'topic-answer','learn-answer','unit-answer'} or
+                         p.parent.tag == 'details' and any(h.parent is p.parent and re.match(r'(?:check|see) (?:the )?answer',label(source,h),re.I) for h in headings)):
             previous=paragraphs[index-1] if index else None
             answer=cleaned(source,p)
             if previous:
                 question=cleaned(source,previous)
                 if re.match(r'^(?:try it|question|quick check)[: ]',question,re.I) and 28<=len(answer)<=400:
                     question=re.sub(r'^(?:try it|question|quick check)\s*:\s*','',question,flags=re.I)
-                    choices.append((3,p,'Worked example',question+' '+answer))
+                    choices.append((3,p,'Worked example',answer if re.search(r'\b(?:this|shown|pictured|the picture|the diagram)\b',question,re.I) else question+' '+answer))
     chosen = min(choices,key=lambda v:(v[0],v[1].start)) if choices else None
     notes = []
     for heading in sorted(headings,key=lambda h: (not (h.parent and 'topic-focus' in h.parent.classes),h.start)):
@@ -178,6 +181,7 @@ def build(source, path, practice):
     original=original[:h1.start-hero.start]+original[h1.end-hero.start:]
     original=original.replace(hero.opening,hero.opening.replace('<header','<div',1),1)
     original=original[:original.rfind('</header>')]+'</div>'
+    original=re.sub(r'[ \t]+(?=\n)', '', original)
     extras='<details class="lesson-preview-extras"><summary>More topic information and resources</summary>'+original+'</details>'
     out=source[:hero.start]+preview+extras+source[hero.end:]
     if practice:
