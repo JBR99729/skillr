@@ -1,0 +1,14 @@
+name: Audit topic preview diagrams
+on:
+  push:
+    branches: [audit/topic-preview-diagrams]
+permissions:
+  contents: read
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - run: python scripts/audit-preview-diagrams-once.py . 7d21e2dca54bacb6a8e1b83db4c86cbcaa1120bc
