@@ -1,0 +1,39 @@
+.compact-topic-bar strong:has(> span) {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.compact-topic-bar strong > span {
+  display: grid;
+  place-items: center;
+  flex: 0 0 34px;
+  height: 34px;
+  border-radius: 50%;
+  color: white;
+  background: #245bd5;
+}
+.lesson-reference-preview h1 {
+  color: #142c48;
+  font-size: clamp(1.8rem, 4vw, 2.9rem);
+  line-height: 1.1;
+  margin: 12px 0 16px;
+}
+.lesson-reference-preview .cb-example h2,
+.lesson-reference-preview .numbers-note h2 {
+  color: #142c48;
+  font-size: clamp(1.2rem, 3vw, 1.8rem);
+}
+.lesson-preview-table { overflow-x: auto; }
+.lesson-preview-table table {
+  border-collapse: collapse;
+  margin: 0 auto;
+  text-align: center;
+}
+.lesson-preview-table th,
+.lesson-preview-table td {
+  padding: 6px 10px;
+  border: 1px solid #d6e2ef;
+}
+.lesson-preview-table th { background: #eef4ff; }
+.lesson-preview-table td { color: #1946ad; font-size: 1.25rem; font-weight: 700; }
+.lesson-reference-preview .cb-action { box-sizing: border-box; }
