@@ -3,6 +3,14 @@
    follow-up questions. The actual app owns saved learner results. */
 (() => {
   'use strict';
+  // Close lesson disclosures at entry while keeping a linked section visible.
+  if (/^\/(?:foundation|year(?:[1-9]|10))\/(?:maths|english|science)\/ac9[^/]+\/(?:index\.html)?$/i.test(location.pathname)) {
+    const target = location.hash ? document.getElementById(location.hash.slice(1)) : null;
+    for (const section of document.querySelectorAll('main details.curriculum-topic-section[open]')) {
+      if (!target || !section.contains(target)) section.open = false;
+    }
+  }
+
   const panels=document.querySelectorAll('.skillr-topic-first[data-topic-state="questions"]');
   for(const root of panels){
     const data=root.querySelector('script[data-preview-questions]');
