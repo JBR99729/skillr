@@ -56,9 +56,20 @@
 #skillr-topic-variants .shortcuts a{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:6px 10px;font-size:13px;text-decoration:none}
 #skillr-topic-variants .shortcuts .primary{border-color:#245bd5}
 
-/* Match the shared site navigation and breadcrumb content edges. */
-body:has(#skillr-topic-variants){margin:0}
-#skillr-topic-variants main{box-sizing:border-box;width:calc(100% - 36px);max-width:1144px;margin-inline:auto;padding-inline:0}
+/* Use one content grid even when the shared navigation CSS loads later. */
+body:has(#skillr-topic-variants){
+  --topic-page-gutter:18px;
+  margin:0;
+}
+body:has(#skillr-topic-variants) > .skillr-site-header .site-header__nav,
+body:has(#skillr-topic-variants) > .skillr-site-breadcrumb,
+#skillr-topic-variants main{
+  box-sizing:border-box;
+  width:calc(100% - 2 * var(--topic-page-gutter));
+  max-width:1144px;
+  margin-inline:auto;
+  padding-inline:0 !important;
+}
 @media(max-width:420px){
-  #skillr-topic-variants main,body:has(#skillr-topic-variants) > .skillr-site-breadcrumb{width:calc(100% - 20px)}
+  body:has(#skillr-topic-variants){--topic-page-gutter:10px}
 }
