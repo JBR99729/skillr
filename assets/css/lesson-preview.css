@@ -47,8 +47,11 @@
 .lesson-preview-notes { display: grid; grid-template-columns: repeat(2, minmax(0,1fr)); gap: 12px; margin-top: 10px; }
 .lesson-preview-notes > div { border-top: 1px solid #d6e2ef; padding-top: 8px; }
 .lesson-preview-notes p { margin: 0; color: #425c78; }
-.lesson-preview-extras { margin-bottom: 8px; }
-.lesson-preview-extras > summary { width: fit-content; padding: 8px 12px; color: #425c78; cursor: pointer; }
+.lesson-preview-extras,
+.compact-topic-page .compact-topic-links,
+.curriculum-shell .topic-section-nav {
+  display: none !important;
+}
 .compact-topic-bar strong:has(> .lesson-preview-mark) { display: flex; align-items: center; gap: 10px; }
 .lesson-preview-mark {
   display: grid;
