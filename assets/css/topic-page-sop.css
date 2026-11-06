@@ -1,0 +1,60 @@
+#skillr-topic-variants .sh-page{color-scheme:light dark;--paper:light-dark(#fff,#142237);--ink:light-dark(#142c48,#e4efff);--sub:light-dark(#425c78,#b8cce5);--line:light-dark(#d6e2ef,#3a5270);--wash:light-dark(#eef4ff,#203955);--link:light-dark(#1952ae,#a9ccff);background:var(--paper);color:var(--ink);font:15px/1.55 system-ui,sans-serif}
+#skillr-topic-variants .sh-page *{box-sizing:border-box}
+#skillr-topic-variants header{display:flex;align-items:center;gap:16px;padding:13px 24px;border-bottom:1px solid var(--line);color:var(--sub)}
+#skillr-topic-variants header strong{font-size:19px;color:var(--link)}
+#skillr-topic-variants main{padding:18px clamp(12px,4vw,36px)}
+#skillr-topic-variants .crumb{font-size:13px;color:var(--sub);margin-bottom:14px}
+#skillr-topic-variants .hero,#skillr-topic-variants .actions,#skillr-topic-variants footer,#skillr-topic-variants .shortcuts{display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+#skillr-topic-variants .hero{justify-content:space-between;margin-bottom:16px}
+#skillr-topic-variants h1{font-size:clamp(26px,4vw,38px);line-height:1.15;margin:3px 0}
+#skillr-topic-variants h2{font-size:19px;line-height:1.25;margin:0 0 8px}
+#skillr-topic-variants p{margin:4px 0 8px}
+#skillr-topic-variants .kicker{font-size:12px;letter-spacing:.06em;color:var(--link);font-weight:700}
+#skillr-topic-variants a{color:var(--link)}
+#skillr-topic-variants .primary{display:inline-block;background:#245bd5;color:white;border-radius:8px;padding:10px 15px;text-decoration:none;font-weight:700}
+#skillr-topic-variants .example,#skillr-topic-variants .block{border:1px solid var(--line);border-radius:12px;padding:14px;margin-bottom:12px}
+#skillr-topic-variants .example,#skillr-topic-variants .practice{background:var(--wash)}
+#skillr-topic-variants .model{display:flex;align-items:center;justify-content:center;gap:14px;flex-wrap:wrap}
+#skillr-topic-variants .numeral{display:grid;text-align:center}
+#skillr-topic-variants .numeral strong{font-size:42px;line-height:1}
+#skillr-topic-variants figure{margin:0;text-align:center;font-size:13px}
+#skillr-topic-variants .frame{display:grid;grid-template-columns:repeat(5,1fr);width:clamp(90px,16vw,140px);border-top:1px solid var(--line);border-left:1px solid var(--line);background:var(--paper)}
+#skillr-topic-variants .frame span{display:grid;place-items:center;aspect-ratio:1;border-right:1px solid var(--line);border-bottom:1px solid var(--line)}
+#skillr-topic-variants .filled::before{content:"";width:63%;aspect-ratio:1;border-radius:100%;background:#3770ed}
+#skillr-topic-variants .takeaway{text-align:center;margin:10px 0 0}
+#skillr-topic-variants ol{padding-left:22px;margin:0 0 8px}
+#skillr-topic-variants li+li{margin-top:4px}
+#skillr-topic-variants details{padding:6px 0}
+#skillr-topic-variants summary{color:var(--link);font-weight:600}
+#skillr-topic-variants .support,#skillr-topic-variants .end{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+#skillr-topic-variants .columns{display:grid;grid-template-columns:minmax(0,3fr) minmax(0,2fr);gap:12px}
+#skillr-topic-variants .shortcuts{margin:0 0 12px}
+#skillr-topic-variants .shortcuts a{padding:5px 10px;border:1px solid var(--line);border-radius:8px}
+#skillr-topic-variants .note{color:var(--sub)}
+#skillr-topic-variants footer{border-top:1px solid var(--line);padding-top:9px;font-size:13px}
+@media(max-width:650px){#skillr-topic-variants .columns,#skillr-topic-variants .support,#skillr-topic-variants .end{grid-template-columns:1fr}}
+#skillr-topic-variants .mini-lesson article{border-top:1px solid var(--line);padding:10px 0 6px}
+#skillr-topic-variants .mini-lesson h3{margin:0;font-size:16px}
+#skillr-topic-variants .mini-model{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin:8px 0}
+#skillr-topic-variants .mini-line{padding:8px 12px 24px}
+#skillr-topic-variants .mini-line div{display:grid;grid-template-columns:repeat(21,minmax(0,1fr));border-top:2px solid var(--line)}
+#skillr-topic-variants .tick{height:8px;position:relative;text-align:center;color:var(--link);font-size:12px;font-weight:700;padding-top:11px}
+#skillr-topic-variants .tick::before{content:"";height:6px;border-left:1px solid var(--sub);position:absolute;top:-1px;left:50%}
+#skillr-topic-variants .tick.labelled::before{height:9px;border-width:2px;border-color:var(--link)}
+
+#skillr-topic-variants main{padding:12px clamp(12px,3vw,26px)}
+#skillr-topic-variants header{padding:9px 20px}
+#skillr-topic-variants .hero{margin-bottom:8px}
+#skillr-topic-variants .crumb,#skillr-topic-variants .shortcuts{margin-bottom:8px}
+#skillr-topic-variants .example,#skillr-topic-variants .block{padding:10px 12px;margin-bottom:8px}
+#skillr-topic-variants .steps{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+#skillr-topic-variants .mini-lesson article{display:flex;flex-direction:column;padding-top:7px}
+#skillr-topic-variants .steps article details{margin-top:auto}
+#skillr-topic-variants .mini-model{gap:8px}
+#skillr-topic-variants .mini-model .frame{width:clamp(66px,9vw,94px)}
+#skillr-topic-variants .support{gap:8px}
+#skillr-topic-variants .support .block{min-width:0}
+@media(max-width:650px){#skillr-topic-variants .steps{grid-template-columns:1fr;gap:4px}}
+#skillr-topic-variants .shortcuts{gap:6px}
+#skillr-topic-variants .shortcuts a{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:6px 10px;font-size:13px;text-decoration:none}
+#skillr-topic-variants .shortcuts .primary{border-color:#245bd5}
