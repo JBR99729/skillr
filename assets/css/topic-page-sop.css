@@ -1,7 +1,5 @@
 #skillr-topic-variants .sh-page{color-scheme:light dark;--paper:light-dark(#fff,#142237);--ink:light-dark(#142c48,#e4efff);--sub:light-dark(#425c78,#b8cce5);--line:light-dark(#d6e2ef,#3a5270);--wash:light-dark(#eef4ff,#203955);--link:light-dark(#1952ae,#a9ccff);background:var(--paper);color:var(--ink);font:15px/1.55 system-ui,sans-serif}
 #skillr-topic-variants .sh-page *{box-sizing:border-box}
-#skillr-topic-variants header{display:flex;align-items:center;gap:16px;padding:13px 24px;border-bottom:1px solid var(--line);color:var(--sub)}
-#skillr-topic-variants header strong{font-size:19px;color:var(--link)}
 #skillr-topic-variants main{padding:18px clamp(12px,4vw,36px)}
 #skillr-topic-variants .crumb{font-size:13px;color:var(--sub);margin-bottom:14px}
 #skillr-topic-variants .hero,#skillr-topic-variants .actions,#skillr-topic-variants footer,#skillr-topic-variants .shortcuts{display:flex;align-items:center;gap:12px;flex-wrap:wrap}
@@ -43,7 +41,6 @@
 #skillr-topic-variants .tick.labelled::before{height:9px;border-width:2px;border-color:var(--link)}
 
 #skillr-topic-variants main{padding:12px clamp(12px,3vw,26px)}
-#skillr-topic-variants header{padding:9px 20px}
 #skillr-topic-variants .hero{margin-bottom:8px}
 #skillr-topic-variants .crumb,#skillr-topic-variants .shortcuts{margin-bottom:8px}
 #skillr-topic-variants .example,#skillr-topic-variants .block{padding:10px 12px;margin-bottom:8px}
@@ -58,3 +55,10 @@
 #skillr-topic-variants .shortcuts{gap:6px}
 #skillr-topic-variants .shortcuts a{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:6px 10px;font-size:13px;text-decoration:none}
 #skillr-topic-variants .shortcuts .primary{border-color:#245bd5}
+
+/* Match the shared site navigation and breadcrumb content edges. */
+body:has(#skillr-topic-variants){margin:0}
+#skillr-topic-variants main{box-sizing:border-box;width:calc(100% - 36px);max-width:1144px;margin-inline:auto;padding-inline:0}
+@media(max-width:420px){
+  #skillr-topic-variants main,body:has(#skillr-topic-variants) > .skillr-site-breadcrumb{width:calc(100% - 20px)}
+}
