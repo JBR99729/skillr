@@ -202,3 +202,8 @@ body.compact-topic-page > :is(.curriculum-page, .static-topic-page, .repair-topi
 @media (max-width: 420px) {
   body.compact-topic-page { --topic-page-gutter: 10px; }
 }
+
+/* The approved lesson footer contains only its two authored actions. */
+#skillr-topic-variants footer > .footer-nav {
+  display: none;
+}
