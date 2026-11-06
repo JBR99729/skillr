@@ -178,3 +178,27 @@ body.skillr-shared-navigation { padding-top: 0; }
 @media print {
   .skillr-site-header, .skillr-site-breadcrumb { display: none !important; }
 }
+
+/* Keep canonical topic pages on the same grid as the approved lesson pilot. */
+body.compact-topic-page {
+  --topic-page-gutter: 18px;
+  margin: 0;
+}
+body.compact-topic-page > .skillr-site-header .site-header__nav,
+body.compact-topic-page > .skillr-site-breadcrumb,
+body.compact-topic-page > :is(.curriculum-page, .static-topic-page, .repair-topic) {
+  box-sizing: border-box;
+  width: calc(100% - 2 * var(--topic-page-gutter));
+  max-width: 1144px;
+  margin-inline: auto;
+  padding-inline: 0 !important;
+}
+body.compact-topic-page > :is(.curriculum-page, .static-topic-page, .repair-topic)
+  > :is(.breadcrumb, .skillr-site-breadcrumb) {
+  width: 100%;
+  margin-inline: 0;
+  padding-inline: 0;
+}
+@media (max-width: 420px) {
+  body.compact-topic-page { --topic-page-gutter: 10px; }
+}
