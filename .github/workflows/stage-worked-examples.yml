@@ -1,0 +1,26 @@
+name: Stage complete topic examples
+on:
+  push:
+    branches: [fix/numbers-reference-topic-preview]
+    paths: [.github/workflows/stage-worked-examples.yml, scripts/stage-worked-examples.mjs]
+permissions:
+  contents: write
+jobs:
+  stage:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - run: |
+          set -euo pipefail
+          node scripts/stage-worked-examples.mjs --write
+          git diff --check
+          node scripts/audit_curriculum_route_integrity.mjs
+          node scripts/audit_years1_7_curriculum_resources.mjs
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- foundation year{1..10}
+          git commit -m "Replace excerpt previews with complete authored examples"
+          node scripts/check_release_integrity.mjs HEAD^ HEAD
+          git push origin HEAD:refs/heads/fix/numbers-reference-topic-preview
