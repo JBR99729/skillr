@@ -1,0 +1,32 @@
+.compact-topic-page .curriculum-hero.topic-hero.compact-topic-intro {
+  display: block;
+  margin: 0 0 8px;
+  padding: clamp(12px, 2vw, 20px);
+  border-radius: 12px;
+  background: #f3f7fa;
+  box-shadow: none;
+}
+.compact-topic-page .topic-hero.compact-topic-intro h1 {
+  max-width: none;
+  margin: 4px 0 8px;
+  font-size: clamp(1.5rem, 3vw, 2.25rem);
+  letter-spacing: -.025em;
+}
+.compact-topic-page .topic-hero.compact-topic-intro .curriculum-hero__lead {
+  max-width: 72ch;
+  margin: 6px 0 8px;
+  line-height: 1.5;
+}
+.compact-topic-page .topic-paid-options {
+  margin: 0 0 8px;
+}
+.compact-topic-page .topic-paid-options > summary {
+  width: fit-content;
+  padding: 8px 12px;
+  color: #425c78;
+  cursor: pointer;
+}
+.compact-topic-page .topic-paid-options .topic-pack {
+  max-width: 42rem;
+  margin: 4px 0 8px;
+}
