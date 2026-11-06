@@ -1,0 +1,65 @@
+.lesson-preview {
+  color: #142c48;
+  background: #f3f7fa;
+  border-radius: 12px;
+  padding: clamp(10px, 2vw, 18px);
+  margin: 0 0 12px;
+}
+.lesson-preview-kicker { margin: 0 0 8px; color: #425c78; font-size: .875rem; }
+.lesson-preview .lesson-preview-title h1 {
+  color: #142c48;
+  font-size: clamp(1.8rem, 4vw, 2.9rem);
+  line-height: 1.1;
+  margin: 4px 0 12px;
+}
+.lesson-preview-lead { margin: 0; }
+.lesson-preview-example,
+.lesson-preview-offer {
+  border: 1px solid #d6e2ef;
+  border-radius: 12px;
+  background: white;
+  padding: 12px;
+  margin-top: 10px;
+}
+.lesson-preview h2 { color: #142c48; font-size: clamp(1.2rem, 3vw, 1.8rem); margin: 0 0 8px; }
+.lesson-preview-example p { margin: 0; }
+.lesson-preview-example .lesson-preview-takeaway {
+  background: #eef4ff;
+  border-radius: 8px;
+  padding: 6px 10px;
+  margin-top: 8px;
+  font-weight: 700;
+}
+.lesson-preview-offer { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px; }
+.lesson-preview-offer p { margin: 2px 0 0; color: #425c78; }
+.lesson-preview-offer a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  box-sizing: border-box;
+  padding: 8px 14px;
+  border-radius: 8px;
+  background: #245bd5;
+  color: white;
+  text-decoration: none;
+  font-weight: 700;
+}
+.lesson-preview-notes { display: grid; grid-template-columns: repeat(2, minmax(0,1fr)); gap: 12px; margin-top: 10px; }
+.lesson-preview-notes > div { border-top: 1px solid #d6e2ef; padding-top: 8px; }
+.lesson-preview-notes p { margin: 0; color: #425c78; }
+.lesson-preview-extras { margin-bottom: 8px; }
+.lesson-preview-extras > summary { width: fit-content; padding: 8px 12px; color: #425c78; cursor: pointer; }
+.compact-topic-bar strong:has(> .lesson-preview-mark) { display: flex; align-items: center; gap: 10px; }
+.lesson-preview-mark {
+  display: grid;
+  place-items: center;
+  flex: 0 0 34px;
+  height: 34px;
+  border-radius: 50%;
+  color: white;
+  background: #245bd5;
+}
+@media (max-width: 480px) {
+  .lesson-preview-notes { grid-template-columns: 1fr; gap: 8px; }
+  .lesson-preview-offer a { justify-content: center; width: 100%; }
+}
