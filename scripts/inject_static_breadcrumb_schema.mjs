@@ -35,7 +35,9 @@ function routeFromFile(file) {
 
 function topicContext(file) {
   const match = rel(file).match(/^(foundation|year(?:[1-9]|10))\/(maths|science|english)\/(?:[^/]+\/index\.html|(?!index\.html$)[^/]+\.html)$/i);
-  return match && { year: match[1].toLowerCase(), subject: match[2].toLowerCase(), url: ORIGIN + routeFromFile(file) };
+  const hub = rel(file).match(/^(foundation|year(?:[1-9]|10))\/curriculum\/(maths|science|english)\/index\.html$/i);
+  const context = match || hub;
+  return context && { year: context[1].toLowerCase(), subject: context[2].toLowerCase(), url: ORIGIN + routeFromFile(file), hub: Boolean(hub) };
 }
 
 function learnRoute(year, subject) {
@@ -48,7 +50,7 @@ function topicBreadcrumbUrl(value, context) {
   if (target.origin !== ORIGIN) return value;
   const route = target.pathname.replace(/index\.html$/i, '').replace(/\/$/, '');
   if ([`/${context.year}`, `/${context.year}/curriculum`].includes(route)) {
-    return `${learnRoute(context.year)}${target.hash}`;
+    return `${learnRoute(context.year, context.hub ? context.subject : undefined)}${target.hash}`;
   }
   if ([`/${context.year}/curriculum/${context.subject}`, `/${context.year}/${context.subject}`].includes(route)) {
     return `${learnRoute(context.year, context.subject)}${target.hash}`;
@@ -136,7 +138,7 @@ function schemaFor(file, html) {
   const subject = SUBJECTS[subjectSlug];
   const items = [
     { name: 'Home', url: `${ORIGIN}/` },
-    { name: year, url: topic ? ORIGIN + learnRoute(yearSlug) : `${ORIGIN}/${yearSlug}/` },
+    { name: year, url: ORIGIN + learnRoute(yearSlug, topic ? undefined : subjectSlug) },
     { name: subject, url: topic ? ORIGIN + learnRoute(yearSlug, subjectSlug) : `${ORIGIN}/${yearSlug}/curriculum/${subjectSlug}/` },
   ];
   if (topic) {

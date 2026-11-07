@@ -52,6 +52,9 @@ test('all years and subjects return to Learn in static HTML and nested breadcrum
       for (const subject of ['maths', 'science', 'english']) {
         const folder = year === 0 ? 'foundation' : `year${year}`;
         const route = `/${folder}/${subject}/example/`;
+        const hubFile = path.join(dir, folder, 'curriculum', subject, 'index.html');
+        fs.mkdirSync(path.dirname(hubFile), { recursive: true });
+        fs.writeFileSync(hubFile, `<html><head><title>Subject hub</title></head><body><main><nav class="hub-breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a><a href="/${folder}/">Year</a><span aria-current="page">${subject}</span></nav></main></body></html>`);
         const url = `https://skillrhub.com${route}`;
         const items = ['/', `/${folder}/`, `/${folder}/curriculum/${subject}/`, route];
         const graph = { '@graph': [
@@ -82,6 +85,9 @@ test('all years and subjects return to Learn in static HTML and nested breadcrum
       const items = data['@graph'][1].itemListElement;
       assert.equal(items[2].item['@id'], `https://skillrhub.com/learn/?year=${year}&subject=${subject}`);
       assert.equal(items.at(-1).item['@id'], url);
+      const folder = year === 0 ? 'foundation' : `year${year}`;
+      const hubHtml = fs.readFileSync(path.join(dir, folder, 'curriculum', subject, 'index.html'), 'utf8');
+      assert.ok(hubHtml.includes(`href="/learn/?year=${year}&amp;subject=${subject}"`));
     }
     assert.ok(fs.readFileSync(legacy, 'utf8').includes('href="/learn/?year=0&amp;subject=maths"'));
     assert.ok(fs.readFileSync(legacy, 'utf8').includes('href="/learn/?year=0"'));
