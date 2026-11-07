@@ -16,6 +16,9 @@ for (const row of plan.pages) {
   const html = fs.readFileSync(file, 'utf8');
   const head = html.match(/<head\b[^>]*>[\s\S]*?<\/head>/i);
   if (!head) throw new Error(`Missing head: ${row.path}`);
+  // Consolidated aliases keep their migration title and canonical destination.
+  if (/<meta\b[^>]*name=["']robots["'][^>]*content=["'][^"']*noindex/i.test(head[0])
+    || /http-equiv=["']refresh["']/i.test(head[0])) continue;
   const title = head[0].match(/<title\b[^>]*>([\s\S]*?)<\/title>/i);
   const current = title && decode(title[1]).trim();
   if (![row.previousTitle, row.title].includes(current)) throw new Error(`Title changed since review: ${row.path}`);
