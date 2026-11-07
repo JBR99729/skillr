@@ -1,0 +1,3 @@
+/* Leave focus/anchor targets clear of the persistent app entrance. */
+html{scroll-padding-block:100px 120px}
+#skillr-topic-variants summary{min-height:44px;padding-block:10px;scroll-margin-block:100px 120px}

@@ -11,6 +11,7 @@ fs.mkdirSync(out, {recursive:true});
   const results = [], problems = [];
   try {
     for (const width of [1440,768,390]) {
+      console.log(`Checking ${inventory.length} pages at ${width}px`);
       const context = await browser.newContext({viewport:{width,height:1000}, javaScriptEnabled:false, colorScheme:'light'});
       await context.route('**/*', route => new URL(route.request().url()).origin === origin ? route.continue() : route.abort());
       const page = await context.newPage();
@@ -36,9 +37,15 @@ fs.mkdirSync(out, {recursive:true});
         const summaries=page.locator('.steps article details > summary');
         assert.equal(await summaries.count(),3,item.code);
         for(let i=0;i<3;i++){
-          await summaries.nth(i).click();
+          // A learner scrolls an answer above the fixed app entrance before tapping.
+          await summaries.nth(i).evaluate(e=>e.scrollIntoView({block:'center'}));
+          assert((await summaries.nth(i).boundingBox()).height >= 44, item.code+': answer touch target');
+          await summaries.nth(i).click({timeout:5000});
           assert(await summaries.nth(i).evaluate(e=>e.parentElement.open),item.code);
-          await summaries.nth(i).click();
+          // A learner scrolls an answer above the fixed app entrance before tapping.
+          await summaries.nth(i).evaluate(e=>e.scrollIntoView({block:'center'}));
+          assert((await summaries.nth(i).boundingBox()).height >= 44, item.code+': answer touch target');
+          await summaries.nth(i).click({timeout:5000});
           assert.equal(await summaries.nth(i).evaluate(e=>e.parentElement.open),false,item.code);
         }
         if (['AC9SFH01','AC9S1U01','AC9S2U01','AC9S3I06'].includes(item.code)) {
@@ -50,6 +57,7 @@ fs.mkdirSync(out, {recursive:true});
         results.push({code:item.code,width,...check});
         } catch (error) {
           problems.push({code:item.code,width,error:error.message});
+          console.error(item.code, width, error.message);
           await page.screenshot({path:path.join(out,`${item.code}-${width}-failure.png`)});
           const overflow = await page.evaluate(()=>[...document.querySelectorAll('main *')].filter(e=>{const r=e.getBoundingClientRect();return r.width>0&&(r.right>innerWidth+1||r.left < -1)}).slice(0,25).map(e=>({tag:e.tagName,class:e.className,text:e.textContent.slice(0,100),right:e.getBoundingClientRect().right})));
           fs.writeFileSync(path.join(out,`${item.code}-${width}-failure.json`),JSON.stringify(overflow,null,2));
