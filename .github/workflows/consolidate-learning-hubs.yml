@@ -3,6 +3,7 @@ on:
   push:
     branches: [main]
     paths:
+      - scripts/consolidate_learning_hubs.py
       - .github/learning-navigation.patch
       - .github/workflows/consolidate-learning-hubs.yml
   workflow_dispatch:
@@ -27,7 +28,9 @@ jobs:
           node-version: '22'
       - name: Apply reviewed navigation implementation
         run: |
-          if git apply --reverse --check .github/learning-navigation.patch; then
+          if [ -f scripts/consolidate_learning_hubs.py ]; then
+            echo "Navigation implementation is installed; run its current maintenance script."
+          elif git apply --reverse --check .github/learning-navigation.patch; then
             echo 'Navigation implementation is already applied.'
           else
             git apply --3way .github/learning-navigation.patch

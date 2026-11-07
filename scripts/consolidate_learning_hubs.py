@@ -172,6 +172,22 @@ def consolidate(root=ROOT, write=False):
         # Some authored worksheets/guides were linked only from retired hubs.
         # Reconnect them from the matching lesson, or from Learn for general guides.
         from discovery_navigation import inventory, graph, sitemap_urls
+        general_guides = {
+            'resources/year-5-english-curriculum-code-guide.html': 'AC9E5LA01',
+            'resources/year-5-english-free-resources.html': 'AC9E5LY04',
+            'resources/year-5-reading-comprehension-resources.html': 'AC9E5LY05',
+            'resources/year-5-writing-grammar-resources.html': 'AC9E5LY06',
+        }
+        # A previous maintenance pass put these five supporting links on Learn.
+        # Keep year/subject browsing focused by moving each to its matching topic.
+        contextual = set(general_guides) | {'foundation/maths/foundation-position-location-and-spatial-language-activities.html'}
+        index = root / 'learn/index.html'
+        source = index.read_text(encoding='utf-8')
+        revised = re.sub(r'<p><a href="/([^"?]+)">[^<]+</a></p>\n?',
+                         lambda match: '' if match[1] in contextual else match[0], source)
+        if source != revised:
+            index.write_text(revised, encoding='utf-8')
+            changed.append('learn/index.html')
         docs = inventory(root)
         _, depth = graph(docs)
         lessons = {doc.code: doc for doc in docs.values() if doc.code and doc.indexable}
@@ -179,8 +195,10 @@ def consolidate(root=ROOT, write=False):
             doc = docs.get(url)
             if not doc or not doc.indexable or url in depth:
                 continue
-            code = re.search(r'ac9[a-z0-9]+', doc.relative, re.I)
-            parent = lessons.get(code[0].upper()) if code else None
+            codes = re.findall(r'\bac9[a-z0-9]+\b', doc.relative + ' ' + doc.name, re.I)
+            parent = next((lessons[code.upper()] for code in codes if code.upper() in lessons), None)
+            if not parent and doc.relative in general_guides:
+                parent = lessons.get(general_guides[doc.relative])
             relative = parent.relative if parent else 'learn/index.html'
             page = root / relative
             source = page.read_text(encoding='utf-8')

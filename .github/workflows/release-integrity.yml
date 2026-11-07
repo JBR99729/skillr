@@ -25,6 +25,9 @@ jobs:
         run: |
           python3 scripts/test_retire_legacy_quiz_routes.py
           python3 scripts/retire_legacy_quiz_routes.py
+      - name: Keep retired learning hubs consolidated
+        run: python3 scripts/consolidate_learning_hubs.py
+
       - name: Check static learning and resource discovery
         run: python3 scripts/validate_discovery_navigation.py
 
