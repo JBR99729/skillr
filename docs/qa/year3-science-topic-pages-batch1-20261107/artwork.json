@@ -1,0 +1,18 @@
+[
+  {
+    "path": "assets/images/year3-science/living-things-earth-materials.webp",
+    "method": "Built-in image generation; WebP asset",
+    "prompt": "Use case: scientific-educational. Asset type: Year 3 science textbook illustration for a teaching website. A realistic gently hand-painted coloured-pencil and watercolour illustration on warm off-white paper, landscape 3:2. On a pale wooden observation table sit a healthy green bean seedling in a small pot, a brown dry fallen leaf, a smooth rounded river stone, a rough speckled granite specimen, a clear quartz crystal sample, and a shallow tray of dark garden soil with visible small particles and plant fragments. Clear separation and realistic proportions and textures, a magnifying glass lying beside the tray. These are contextual objects for classifying living/once-living/never-living and comparing Earth materials. No people, hands, animals, labels, text, arrows, numbers, faces, logos, diagrams or life-cycle stages. No claims or diagrams encoded in the artwork."
+  },
+  {
+    "path": "assets/images/year3-science/heat-measurement-investigation.webp",
+    "method": "Built-in image generation; WebP asset",
+    "prompt": "Use case: scientific-educational. Asset type: Year 3 science textbook illustration for a teaching website. A realistic gently hand-painted coloured-pencil and watercolour illustration on warm off-white paper, landscape 3:2. A clean pale wooden classroom bench holds two identical transparent sturdy laboratory cups with a little clear water in each. One cup has a neat soft fabric sleeve around its outside, and the other is unwrapped. A classroom digital probe thermometer with a blank unreadable screen rests beside the cups, with its sensor probe on the table. A plain stopwatch and folded towel lie nearby. Calm adult-supervised investigation context for heat transfer, insulation and recording temperature. Accurate objects with no claim that the illustration supplies measurements. No steam, fire, heaters, hotplates, boiling water, people, hands, text, scale marks, labels, numbers, arrows or logos."
+  },
+  {
+    "path": "assets/images/year3-science/physical-changes.webp",
+    "method": "Reused unchanged artwork from the Year 2 review build",
+    "source_commit": "06e3afb7d4d64bb8074ade6fd3af6fcb8831b404",
+    "source_path": "assets/images/year2-science/physical-changes.webp"
+  }
+]
