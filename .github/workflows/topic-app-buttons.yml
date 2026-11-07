@@ -1,0 +1,61 @@
+name: Publish every topic app button
+on:
+  push:
+    branches: [main]
+    paths:
+      - scripts/sync_topic_bank_links.py
+      - scripts/validate_topic_app_buttons.py
+      - assets/topic-practice-link.css
+      - .github/workflows/topic-app-buttons.yml
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: topic-app-buttons
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Add static app entrances and refresh discovery
+        run: |
+          python3 scripts/sync_topic_bank_links.py --all --write
+          python3 scripts/generate_sitemap.py
+          python3 scripts/prepare_google_sitemap.py
+          python3 scripts/tidy_sitemap_html.py
+      - name: Validate every canonical topic and navigation
+        run: |
+          python3 scripts/validate_topic_app_buttons.py
+          python3 scripts/validate_discovery_navigation.py
+          python3 scripts/validate_sitemap_index_quality.py
+          python3 scripts/validate_google_sitemap_submission.py
+          node --check assets/resource-links.js
+          git diff --check
+      - name: Publish complete validated site
+        run: |
+          release_base=$(git rev-parse HEAD)
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- foundation year1 year2 year3 year4 year5 year6 year7 year8 year9 year10 assets/site-search-index.json sitemap.html sitemap.xml ':(glob)sitemap-*.xml'
+          if git diff --cached --quiet; then
+            echo 'All topic app buttons are current.'
+            exit 0
+          fi
+          git commit -m 'Add a consistent app practice entrance to every curriculum topic'
+          node scripts/check_release_integrity.mjs "$release_base" HEAD
+          git fetch origin main
+          git rebase origin/main
+          python3 scripts/validate_topic_app_buttons.py
+          python3 scripts/validate_discovery_navigation.py
+          node scripts/check_release_integrity.mjs origin/main HEAD
+          git push origin HEAD:main

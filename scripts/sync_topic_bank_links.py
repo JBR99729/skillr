@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Synchronise only topic navigation with verified published app banks.
+"""Synchronise topic app entrances and verified published bank navigation.
 
 No teaching content is generated. Update data/app-question-banks.json from the
 production bank/catalogue, then use --code CODE for a single bank release.
@@ -7,7 +7,7 @@ production bank/catalogue, then use --code CODE for a single bank release.
 """
 import argparse,html,json,re
 from pathlib import Path
-from urllib.parse import urlparse,parse_qs
+from urllib.parse import urlparse,parse_qs,urlencode
 ROOT=Path(__file__).resolve().parents[1]
 TOPIC=re.compile(r'^(foundation|year(?:[1-9]|10))/(maths|science|english)/(ac9[a-z0-9]+)[^/]*/index\.html$',re.I)
 ANCHOR=re.compile(r'<a\b[^>]*>[\s\S]*?</a>',re.I)
@@ -44,19 +44,34 @@ def rewrite(source,code,bank):
    text=ANCHOR.sub(available_action,text)
   return text
  out=''.join(part(p) for p in COMMENTS.split(source))
- if bank and bank.get('practice'):
-  query='try=1&amp;skill='+code if bank.get('guestPractice') else 'login=1&amp;skill='+code
-  bar=re.search(r'<div class="(?:compact-topic-bar|cb-lesson-bar numbers-bar)">[\s\S]*?</strong>',out)
-  compact=bar and 'compact-topic-bar' in bar.group()
-  css_class='compact-topic-practice' if compact else 'skillr-topic-practice-now'
-  placement='lesson_bar' if bar else 'floating_button'
-  label='Practise →' if bar else 'Practice now →'
-  link=f'<a id="skillr-topic-practice-now" class="{css_class}" data-floating-practice="{code}" data-practice-placement="{placement}" data-curriculum-code="{code}" href="https://app.skillrhub.com/?{query}">{label}</a>'
-  if bar:
-   out=out[:bar.end()]+link+out[bar.end():]
-  else:
-   if not re.search(r'</body>',out,re.I):raise ValueError('Topic has no body: '+code)
-   out=re.sub(r'</body>',lambda m:link+'\n'+m.group(),out,count=1,flags=re.I)
+ # Every topic has an app entrance. Only verified banks get a direct skill link.
+ match=re.match(r'^AC9([MES])(F|\d+)',code)
+ if not match:raise ValueError('Unsupported curriculum code: '+code)
+ year='0' if match[2]=='F' else match[2]
+ subject={'M':'maths','E':'english','S':'science'}[match[1]]
+ published=bool(bank and bank.get('practice'))
+ entry='try' if not published or bank.get('guestPractice') else 'login'
+ params={entry:'1'}
+ if published:params['skill']=code
+ else:params.update(year=year,subject=subject)
+ canonical=re.search(r'<link\b[^>]*rel=["\']canonical["\'][^>]*href=["\']([^"\']+)',source,re.I)
+ if canonical:params['returnTo']=html.unescape(canonical[1])
+ target='https://app.skillrhub.com/?'+urlencode(params)
+ bar=re.search(r'<div class="(?:compact-topic-bar|cb-lesson-bar numbers-bar)">[\s\S]*?</strong>',out)
+ compact=bar and 'compact-topic-bar' in bar.group()
+ css_class='compact-topic-practice' if compact else 'skillr-topic-practice-now'
+ placement='lesson_bar' if bar else 'floating_button'
+ year_label='Foundation' if year=='0' else 'Year '+year
+ note='' if published else '<small>Choose available '+year_label+' '+subject.title()+' practice</small>'
+ label='Practise this on the app →'
+ link=f'<a id="skillr-topic-practice-now" class="{css_class}" data-topic-app-link data-skillr-app-cta data-floating-practice="{code}" data-practice-placement="{placement}" data-funnel-location="{placement}" data-curriculum-code="{code}" data-curriculum-subject="{subject}" data-practice-availability="{"published" if published else "catalogue"}" href="{html.escape(target,quote=True)}"><span>{label}</span>{note}</a>'
+ if bar:out=out[:bar.end()]+link+out[bar.end():]
+ else:
+  if not re.search(r'</body>',out,re.I):raise ValueError('Topic has no body: '+code)
+  out=re.sub(r'</body>',lambda m:link+'\n'+m.group(),out,count=1,flags=re.I)
+ css='<link rel="stylesheet" href="/assets/topic-practice-link.css?v=20261107-all-topics">'
+ if css not in out:out=re.sub(r'</head>',lambda m:css+'\n'+m.group(),out,count=1,flags=re.I)
+
  return out
 
 def main():
@@ -70,8 +85,8 @@ def main():
    if not m:continue
    code=m[3].upper();source=path.read_text();active=COMMENTS.sub('',source)
    if re.search(r'http-equiv=[\"\']refresh',active,re.I):continue
+   if re.search(r'<meta\b[^>]*name=[\"\']robots[\"\'][^>]*content=[\"\'][^\"\']*noindex',active,re.I):continue
    if selected and code not in selected:continue
-   if not selected and not (m[2]=='maths' and (m[1]=='foundation' or int(m[1][4:])<=6)) and code not in banks:continue
    checked+=1;out=rewrite(source,code,banks.get(code))
    if out!=source:
     changed.append(rel)
@@ -79,4 +94,5 @@ def main():
  print(json.dumps({'checked':checked,'changed':len(changed),'write':args.write,'paths':changed}))
  if changed and not args.write:raise SystemExit(1)
 if __name__=='__main__':main()
+
 

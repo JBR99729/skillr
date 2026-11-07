@@ -183,6 +183,8 @@
     const visibility = () => { if (link) link.hidden = !!document.fullscreenElement; };
     document.addEventListener('fullscreenchange', visibility);
     visibility();
+    // The static, code-aware entrance also covers topics awaiting a practice bank.
+    if (link?.hasAttribute('data-topic-app-link')) return;
     fetch('/data/app-question-banks.json?v=20261031', {cache: 'no-cache'})
       .then(response => response.ok ? response.json() : Promise.reject(new Error('Practice catalogue unavailable')))
       .then(data => {
@@ -221,7 +223,7 @@
     close.addEventListener('click',()=>{dismissed=true;menu.hidden=true;try{window.sessionStorage?.setItem('skillr-practice-bar-dismissed-v1','1');}catch{}});
     // Topic pages retain one code-matched floating action; the main card stays compact.
     if(isTopic)menu.remove();
-    if(isTopic && /^\/(?:foundation|year[1-6])\//i.test(window.location.pathname)) mountTopicPracticeLink(code);
+    if(isTopic) mountTopicPracticeLink(code);
     topicPacks();
 
     if (window.location.pathname === '/teach-and-explain.html') {
@@ -277,3 +279,4 @@
   script.defer = true;
   document.head.appendChild(script);
 }());
+
