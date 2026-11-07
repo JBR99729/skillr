@@ -216,6 +216,9 @@ for (const file of files) {
 
   const context = topicContext(file);
   if (context) html = migrateTopicBreadcrumbs(html, context, schema);
+  // Fetch the corrected shared helper even in browsers holding the old loader.
+  html = html.replace(/(<script\b[^>]*\bsrc=["'])\/pwa-register\.js(?:\?[^"']*)?(["'][^>]*>)/gi,
+    '$1/pwa-register.js?v=20261107-seo-navigation$2');
 
   const existing = existingBreadcrumb(html, schema);
   if (existing.valid) {

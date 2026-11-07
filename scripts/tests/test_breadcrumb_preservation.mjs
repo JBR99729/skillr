@@ -54,7 +54,7 @@ test('all years and subjects return to Learn in static HTML and nested breadcrum
         const route = `/${folder}/${subject}/example/`;
         const hubFile = path.join(dir, folder, 'curriculum', subject, 'index.html');
         fs.mkdirSync(path.dirname(hubFile), { recursive: true });
-        fs.writeFileSync(hubFile, `<html><head><title>Subject hub</title></head><body><main><nav class="hub-breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a><a href="/${folder}/">Year</a><span aria-current="page">${subject}</span></nav></main></body></html>`);
+        fs.writeFileSync(hubFile, `<html><head><title>Subject hub</title></head><body><main><nav class="hub-breadcrumb" aria-label="Breadcrumb"><a href="/">Home</a><a href="/${folder}/">Year</a><span aria-current="page">${subject}</span></nav></main><script src="/pwa-register.js?v=1"></script></body></html>`);
         const url = `https://skillrhub.com${route}`;
         const items = ['/', `/${folder}/`, `/${folder}/curriculum/${subject}/`, route];
         const graph = { '@graph': [
@@ -88,6 +88,7 @@ test('all years and subjects return to Learn in static HTML and nested breadcrum
       const folder = year === 0 ? 'foundation' : `year${year}`;
       const hubHtml = fs.readFileSync(path.join(dir, folder, 'curriculum', subject, 'index.html'), 'utf8');
       assert.ok(hubHtml.includes(`href="/learn/?year=${year}&amp;subject=${subject}"`));
+      assert.ok(hubHtml.includes('/pwa-register.js?v=20261107-seo-navigation'));
     }
     assert.ok(fs.readFileSync(legacy, 'utf8').includes('href="/learn/?year=0&amp;subject=maths"'));
     assert.ok(fs.readFileSync(legacy, 'utf8').includes('href="/learn/?year=0"'));

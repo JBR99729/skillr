@@ -56,7 +56,7 @@
   loadGeoSchemaHelper();
 
   const seoRouting = document.createElement("script");
-  seoRouting.src = "/assets/seo-routing.js?v=20261013-authored-policy";
+  seoRouting.src = "/assets/seo-routing.js?v=20261107-authored-worksheet";
   seoRouting.defer = true;
   document.head.appendChild(seoRouting);
 
