@@ -8,7 +8,7 @@ const out = 'artifacts/science-release-browser';
 fs.mkdirSync(out, {recursive:true});
 (async () => {
   const browser = await chromium.launch({executablePath:process.env.CHROME_BIN || '/usr/bin/google-chrome', headless:true});
-  const results = [];
+  const results = [], problems = [];
   try {
     for (const width of [1440,768,390]) {
       const context = await browser.newContext({viewport:{width,height:1000}, javaScriptEnabled:false, colorScheme:'light'});
@@ -18,6 +18,7 @@ fs.mkdirSync(out, {recursive:true});
         const failures = [];
         const listener = response => { if (response.url().startsWith(origin) && response.status() >= 400) failures.push(response.url()); };
         page.on('response',listener);
+        try {
         const response = await page.goto(origin+'/'+item.path.replace(/index\.html$/,''), {waitUntil:'networkidle'});
         assert.equal(response.status(),200,item.code);
         const check = await page.evaluate(() => ({
@@ -46,7 +47,13 @@ fs.mkdirSync(out, {recursive:true});
           await page.locator('.mini-lesson').scrollIntoViewIfNeeded();
           await page.screenshot({path:path.join(out,`${item.code}-${width}-lesson.png`)});
         }
-        page.off('response',listener);results.push({code:item.code,width,...check});
+        results.push({code:item.code,width,...check});
+        } catch (error) {
+          problems.push({code:item.code,width,error:error.message});
+          await page.screenshot({path:path.join(out,`${item.code}-${width}-failure.png`)});
+          const overflow = await page.evaluate(()=>[...document.querySelectorAll('main *')].filter(e=>{const r=e.getBoundingClientRect();return r.width>0&&(r.right>innerWidth+1||r.left < -1)}).slice(0,25).map(e=>({tag:e.tagName,class:e.className,text:e.textContent.slice(0,100),right:e.getBoundingClientRect().right})));
+          fs.writeFileSync(path.join(out,`${item.code}-${width}-failure.json`),JSON.stringify(overflow,null,2));
+        } finally {page.off('response',listener);}
       }
       await context.close();
     }
@@ -55,7 +62,8 @@ fs.mkdirSync(out, {recursive:true});
     const page=await context.newPage();const errors=[];page.on('pageerror',error=>errors.push(error.message));
     for(const item of inventory){await page.goto(origin+'/'+item.path.replace(/index\.html$/,''),{waitUntil:'networkidle'});assert.equal(await page.locator('#skillr-topic-practice-now').count(),1,item.code);}
     assert.deepEqual(errors,[],'page JavaScript errors');await context.close();
-    fs.writeFileSync(path.join(out,'results.json'),JSON.stringify({pages:inventory.length,viewports:[1440,768,390],javascriptDisabled:true,javascriptEnabledSmoke:inventory.length,results},null,2));
+    fs.writeFileSync(path.join(out,'results.json'),JSON.stringify({pages:inventory.length,viewports:[1440,768,390],javascriptDisabled:true,javascriptEnabledSmoke:inventory.length,results,problems},null,2));
+    assert.deepEqual(problems,[], 'Rendered science page failures');
     console.log(`PASS ${inventory.length} science pages at desktop, tablet and mobile; native answer toggles, images, app targets and JavaScript smoke.`);
   } finally {await browser.close();}
 })().catch(error=>{console.error(error);process.exitCode=1});

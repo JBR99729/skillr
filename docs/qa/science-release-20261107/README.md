@@ -18,3 +18,19 @@ The activity validator now accepts the site's canonical `returnTo` parameter onl
 - Rendered verification runs separately in the scoped PR browser job at 1440, 768 and 390 pixels, with JavaScript disabled and a JavaScript-enabled smoke pass. Local Chromium cannot start (`socket(): Operation not permitted`); the connected browser cannot reach the local server. These local limitations are not reported as browser passes.
 
 `pages.json` records the final integrated HTML fingerprints. Historical batch reports describe the artifacts at their original review commits; this release record and the scoped browser artifact describe integration changes. Production deployment and live checks must be verified after the main ref is updated. The previous main Pages deployment timed out during file synchronisation; this is distinct from publishing a Git commit.
+
+## Pre-existing CI failures reproduced on unchanged main
+
+On the isolated baseline checkout at `4023119cc0224ea924886cbdb5b5e8ad50c9a91a`, the following commands fail before this Science release:
+
+| CI job | Baseline reproduction | Observed failure |
+|---|---|---|
+| Audit search and AI integrity | `node --test scripts/tests/geo-answer-map.test.mjs` | Three assertions expect public answer content on retired hub routes. |
+| Validate reviewed Year 1 Science banks | `node scripts/update_content_verification_status.mjs --check` | Expects AC9MFN01 in retired Foundation Maths hub. The separate Science source/bank checks pass. |
+| Audit Years 1–7 curriculum resources | `node scripts/audit_years1_7_curriculum_resources.mjs` | Discovers zero codes by reading 21 retired hub pages. |
+| Validate Year 8 Science static v2 | `node scripts/validate_year8_science_static_v2.mjs` | Retired hub inventory: zero rather than 19. |
+| Validate Year 8 Maths static v2 | `node scripts/validate_year8_maths_static_v2.mjs` | Retired hub inventory: zero rather than 27; baseline also rejects the new canonical-return app links, corrected by the navigation-helper change here. |
+
+No workflow or assertion was disabled to hide these failures. No changes to unrelated hub content or verification badges are included. The current discovery audit independently finds 676 code lessons at click depth two, with zero discovery errors and zero missing internal targets. The failing baseline jobs are reported as failures, not as passes.
+
+The first scoped browser run identified real overflow in AC9SFI04 at 768 pixels. Foundation table layout and cell wrapping were corrected without changing lesson text; source/DOM preservation was rerun successfully. The next browser artifact verifies the corrected candidate.
