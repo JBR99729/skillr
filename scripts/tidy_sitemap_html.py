@@ -20,6 +20,7 @@ SUBJECTS = [("maths", "Maths"), ("science", "Science"), ("english", "English")]
 
 
 def file_for_route(route: str) -> Path:
+    route = urlparse(html.unescape(route)).path
     relative = route.lstrip("/")
     if not relative:
         return ROOT / "index.html"
@@ -99,12 +100,13 @@ def main() -> None:
     ]))
 
     for slug, year_label in YEARS:
+        year = '0' if slug == 'foundation' else slug[4:]
         items = [
-            link(f"/{slug}/curriculum/", f"{year_label} Australian Curriculum", required=True),
+            link(f"/learn/?year={year}", f"{year_label} Australian Curriculum", required=True),
         ]
         for subject_slug, subject_label in SUBJECTS:
             items.append(link(
-                f"/{slug}/curriculum/{subject_slug}/",
+                f"/learn/?year={year}&subject={subject_slug}",
                 f"{year_label} {subject_label} curriculum resources",
                 required=True,
             ))

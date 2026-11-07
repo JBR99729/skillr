@@ -234,6 +234,13 @@ def main():
  for item in pages:
   if human_sitemap_page(item[0]):
    sections[human_sitemap_key(item[0])].append((item[0],human_sitemap_label(item[0],item[1]),item[2],item[3]))
+ # Human navigation retains year/subject choices; XML submits only /learn/.
+ for year in range(11):
+  key='foundation' if year==0 else f'year{year}'
+  label=SECTION_LABELS[key]
+  sections[key].append((f'/learn/?year={year}',f'{label} Australian Curriculum','',''))
+  for subject in ('maths','science','english'):
+   sections[key].append((f'/learn/?year={year}&subject={subject}',f'{label} {subject.title()} curriculum resources','',''))
  html_order=["site","learn","teach","products","homeschooling-australia","foundation"]+[f"year{i}" for i in range(1,11)]+["mappings","help"]
  keys=[k for k in html_order if k in sections]+sorted(set(sections)-set(html_order))
  blocks=[]

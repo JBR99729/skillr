@@ -119,7 +119,7 @@
 
       const hub = document.createElement("p");
       const hubLink = document.createElement("a");
-      hubLink.href = `/${current.yearFolder}/curriculum/${current.subjectSlug}/`;
+      hubLink.href = `/learn/?year=${current.yearNumber}&subject=${current.subjectSlug}`;
       hubLink.textContent = `Browse all ${yearLabel(current)} ${subjectLabel(current)} curriculum topics`;
       hub.appendChild(hubLink);
       section.append(title, intro, list, hub);
