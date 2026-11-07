@@ -7022,7 +7022,17 @@
     "isBundle": true,
     "hasSlides": true,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "includes": [
+      "43-page fractions workbook with 80 curriculum-aligned questions",
+      "64 practice and application questions plus 16 mastery and extension questions",
+      "Complete answer key with worked methods and teaching or checking tips",
+      "30-slide visual teaching presentation with worked examples and guided practice",
+      "Eight check-for-understanding and misconception questions with answer slides",
+      "Unit fractions and their multiples, collections, lengths, fraction strips and number lines",
+      "Focused on AC9M3N02; not a complete Year 3 mathematics program",
+      "Both resources are also sold individually; check previous purchases to avoid duplicates"
+    ]
   },
   {
     "id": "tpt-17594338",
@@ -7040,7 +7050,10 @@
       "workbook",
       "year"
     ],
-    "curriculumCodes": [],
+    "curriculumCodes": [
+      "AC9M3A03",
+      "AC9M3N04"
+    ],
     "description": "Support Year 3 multiplication and division learning with a workbook and matching PowerPoint teaching presentation. Introduce concepts together, model strategies and then consolidate learning through independent practice.",
     "url": "/products/tpt-17594338/",
     "image": "https://ecdn.teacherspayteachers.com/thumbitem/Year-3-Multiplication-Division-Bundle-Workbook-Teaching-Slides-AC-v9-17594338-1791539898/original-17594338-1.jpg",
@@ -7057,7 +7070,16 @@
     "isBundle": true,
     "hasSlides": true,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "includes": [
+      "144-question Multiplication & Division workbook with answer keys",
+      "36 PowerPoint teaching slides with visual models, worked examples and guided practice",
+      "Eight check and misconception questions plus two exit tickets with answers in the presentation",
+      "Focus: 3, 4, 5 and 10 times tables and related division facts; not a complete Year 3 mathematics program",
+      "Does not teach 6, 7, 8 and 9 times tables as primary units or word problems involving remainders",
+      "Preview and purchase available on TPT",
+      "These two resources are also sold individually; check previous purchases to avoid duplicates"
+    ]
   },
   {
     "id": "tpt-17593227",
@@ -7075,7 +7097,8 @@
       "year"
     ],
     "curriculumCodes": [
-      "AC9M3M03"
+      "AC9M3M03",
+      "AC9M3M04"
     ],
     "description": "Save 20% with this complete Year 3 Time bundle, combining explicit teaching slides with printable student practice. This bundle gives teachers everything needed to introduce, model, practise and review analogue clocks, units of time and duration.",
     "url": "/products/tpt-17593227/",
