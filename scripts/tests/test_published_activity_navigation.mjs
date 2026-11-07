@@ -5,6 +5,15 @@ import { validateTopicActivities, validateRetiredActivity } from '../lib/publish
 
 const code = 'AC9M1N01';
 const practice = '<a href="https://app.skillrhub.com/?try=1&amp;skill=AC9M1N01">Practice now</a>';
+test('topic return links preserve the exact canonical topic and verified access', () => {
+  const canonical = 'https://skillrhub.com/year1/maths/ac9m1n01-number/';
+  const head = `<link rel="canonical" href="${canonical}">`;
+  const returned = practice.replace('skill=AC9M1N01', `skill=AC9M1N01&amp;returnTo=${encodeURIComponent(canonical)}`);
+  assert.deepEqual(validateTopicActivities(head + returned, code), []);
+  for (const invalid of [returned, head + returned.replace('try=1', 'login=1'), head + returned.replace('number%2F', 'other%2F'), head + returned.replace('returnTo=', 'unrecognised=')]) {
+    assert.ok(validateTopicActivities(invalid, code).length);
+  }
+});
 test('published navigation enforces matching code, guest access and availability', () => {
   assert.deepEqual(validateTopicActivities(practice, code), []);
   for (const invalid of [

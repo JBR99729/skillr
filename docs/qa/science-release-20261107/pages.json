@@ -1,0 +1,207 @@
+[
+  {
+    "code": "AC9SFH01",
+    "path": "foundation/science/ac9sfh01-the-ways-people-make-and-use-observations-and-questions-to/index.html",
+    "sha256": "d0e7006241c7b9ee55cc8999fcb0f5513eea7331182dcd5738d4b9b6625c62c0"
+  },
+  {
+    "code": "AC9SFI01",
+    "path": "foundation/science/ac9sfi01-questions-and-make-predictions-based-on-experiences/index.html",
+    "sha256": "4fd9a8dc893f9aed03708694cb965e5912bf9a2e4dbd906b183a20c6459b1a3f"
+  },
+  {
+    "code": "AC9SFI02",
+    "path": "foundation/science/ac9sfi02-engage-in-investigations-safely-and-make-observations-using/index.html",
+    "sha256": "15dc783b2d93a5b2477e41bcb1d58fce978bdb6ed84713115ac4c7025be6efc9"
+  },
+  {
+    "code": "AC9SFI03",
+    "path": "foundation/science/ac9sfi03-represent-observations-in-provided-templates-and-identify/index.html",
+    "sha256": "9e56f74f1fd6e61e9693ba95f1d46cf237b3bec8ba0dd40aad530ea7f6548060"
+  },
+  {
+    "code": "AC9SFI04",
+    "path": "foundation/science/ac9sfi04-observations-with-predictions-with-guidance/index.html",
+    "sha256": "a3af9a2a249a715238c0b604b0191b3340b59341eac228960ae07544be44b439"
+  },
+  {
+    "code": "AC9SFI05",
+    "path": "foundation/science/ac9sfi05-share-questions-predictions-observations-and-ideas-with-others/index.html",
+    "sha256": "11273fc68cc1378b910e24f61af1f9955b3dc6ee26f8b7bcf98433d65879d25e"
+  },
+  {
+    "code": "AC9SFU01",
+    "path": "foundation/science/ac9sfu01-observe-external-features-of-plants-and-animals-and-describe/index.html",
+    "sha256": "e2d26d9fbed3d39e84b72edcfa62ddc52675baee420d01346a440e349475a510"
+  },
+  {
+    "code": "AC9SFU02",
+    "path": "foundation/science/ac9sfu02-how-objects-move-and-how-factors-including-their-size-shape/index.html",
+    "sha256": "36bf0204ce1343ae07d4f4f4805eb82182ccdc4e009992abff4b57d4876b8c57"
+  },
+  {
+    "code": "AC9SFU03",
+    "path": "foundation/science/ac9sfu03-that-objects-can-be-composed-of-different-materials-and-describe/index.html",
+    "sha256": "87d55363d53e91289212c54ffb54bc179431f40397cea0a8dc5d4c57a4a7999e"
+  },
+  {
+    "code": "AC9S1H01",
+    "path": "year1/science/ac9s1h01-science-in-daily-life/index.html",
+    "sha256": "8ba89049b5086d4493b0cad8f0f688344a6725303de0ee6b63183edef1e4e0b1"
+  },
+  {
+    "code": "AC9S1I01",
+    "path": "year1/science/ac9s1i01-questions-patterns-and-predictions/index.html",
+    "sha256": "de4d9862eb94b875244634e03d3c4435092e6e4533223e028b7355dabd0b2209"
+  },
+  {
+    "code": "AC9S1I02",
+    "path": "year1/science/ac9s1i02-safe-investigation-procedures/index.html",
+    "sha256": "cd7731d2214e81100e7f9bcef492092893f4c77e49c325b72076b78f52483275"
+  },
+  {
+    "code": "AC9S1I03",
+    "path": "year1/science/ac9s1i03-making-and-recording-observations/index.html",
+    "sha256": "85a3ad30b9d25d74db7b72d1adfeae4c9dce6a5dacb258259466584d3507e4ea"
+  },
+  {
+    "code": "AC9S1I04",
+    "path": "year1/science/ac9s1i04-sorting-data-and-representing-patterns/index.html",
+    "sha256": "4917e679c29394e0c30d4747255c09e583a0582186291069a56809d442b02afc"
+  },
+  {
+    "code": "AC9S1I05",
+    "path": "year1/science/ac9s1i05-comparing-observations-and-predictions/index.html",
+    "sha256": "24284cc6c60f9990b3f106aff5136d4c0c8696b32654af8f4eefeb40b156a1aa"
+  },
+  {
+    "code": "AC9S1I06",
+    "path": "year1/science/ac9s1i06-communicating-scientific-ideas/index.html",
+    "sha256": "16c8a2e3cd4a5e323d96018afebdb64b697caad04ffa5e8b998f233e36e57cb2"
+  },
+  {
+    "code": "AC9S1U01",
+    "path": "year1/science/ac9s1u01-needs-of-plants-and-animals/index.html",
+    "sha256": "e7a5788b6526d568fa098c6ff1bd2235ccbcf5f3b5936f93d7485ee4d29aa051"
+  },
+  {
+    "code": "AC9S1U02",
+    "path": "year1/science/ac9s1u02-daily-and-seasonal-changes/index.html",
+    "sha256": "d3abd62e9a2ffbba32377e3e8d5be76cb1c4020e8e734886d19be2f5e59f3f38"
+  },
+  {
+    "code": "AC9S1U03",
+    "path": "year1/science/ac9s1u03-pushes-and-pulls/index.html",
+    "sha256": "088833ca4aefecc69ef13e7adc3232bd493a91260263eb0176660f2eac3c3b41"
+  },
+  {
+    "code": "AC9S2H01",
+    "path": "year2/science/ac9s2h01-how-people-use-science-in-their-daily-lives-including-using/index.html",
+    "sha256": "1015c15ae294b93a9d0749176eebf886ec3eb5c5ec9a224feaff37f46b0b5341"
+  },
+  {
+    "code": "AC9S2I01",
+    "path": "year2/science/ac9s2i01-questions-to-explore-observed-simple-patterns-and-relationships/index.html",
+    "sha256": "653ac0e6810bb349a6b9fc07628d85d66b323fce023905ea32821bf52fea5af7"
+  },
+  {
+    "code": "AC9S2I02",
+    "path": "year2/science/ac9s2i02-and-follow-safe-procedures-to-investigate-questions-and-test/index.html",
+    "sha256": "e8581f367ce269b74b0148dadd73a4f71ff37d77fadb64c09f185c8f0d916448"
+  },
+  {
+    "code": "AC9S2I03",
+    "path": "year2/science/ac9s2i03-and-record-observations-including-informal-measurements-using/index.html",
+    "sha256": "483418896aec887710c3a7077e69b5a0933f389a01b316cd035a7a42e818d4a4"
+  },
+  {
+    "code": "AC9S2I04",
+    "path": "year2/science/ac9s2i04-and-order-data-and-information-and-represent-patterns-including/index.html",
+    "sha256": "91bbdf23582ef7f3cdaf9b29617def045338267b55de3b9f6ed6c783af89529e"
+  },
+  {
+    "code": "AC9S2I05",
+    "path": "year2/science/ac9s2i05-observations-with-predictions-and-others-observations-consider/index.html",
+    "sha256": "94b2a47c822677e36e82fe1e9d962eceaf04f9f188e959dfdc7a9907afc17ba5"
+  },
+  {
+    "code": "AC9S2I06",
+    "path": "year2/science/ac9s2i06-and-create-texts-to-communicate-observations-findings-and-ideas/index.html",
+    "sha256": "f1f181369e6340317c24e3b29a458bb150110ce3decf457f1dddbd4f8dd7000c"
+  },
+  {
+    "code": "AC9S2U01",
+    "path": "year2/science/ac9s2u01-earth-is-a-planet-in-the-solar-system-and-identify/index.html",
+    "sha256": "f63da3d7b0029aae9b90e9a9e4b14546b96dc49b5ca5c1ff929f6bc4020f03d5"
+  },
+  {
+    "code": "AC9S2U02",
+    "path": "year2/science/ac9s2u02-different-actions-to-make-sounds-and-how-to-make-a/index.html",
+    "sha256": "04f676b27b9d2a4437cca8f286fa778d9c5fe1010693a911c9a01f403cef1860"
+  },
+  {
+    "code": "AC9S2U03",
+    "path": "year2/science/ac9s2u03-that-materials-can-be-changed-physically-without-changing-their/index.html",
+    "sha256": "3531db9e0a65d48ee0e932cd9941e2de5a02cdb84ac9190531e75f49d4164e4d"
+  },
+  {
+    "code": "AC9S3H01",
+    "path": "year3/science/ac9s3h01-examine-how-people-use-data-to-develop-scientific-explanations/index.html",
+    "sha256": "27e8def7d7aac0a700d8e8b3dab6dadb078da9fbfc8158eaf26af6b3f65388e0"
+  },
+  {
+    "code": "AC9S3H02",
+    "path": "year3/science/ac9s3h02-consider-how-people-use-scientific-explanations-to-meet-a-need/index.html",
+    "sha256": "914dfb34cb3ff5119165b6fdf59fd738785b05e84a8d7d7dc8f33ef4ae6d9d16"
+  },
+  {
+    "code": "AC9S3I01",
+    "path": "year3/science/ac9s3i01-questions-to-explore-observed-patterns-and-relationships-and/index.html",
+    "sha256": "be4a74f867410ac23a52ac2c00ae7cb9de7223d0fd82a2e190bd6418f406f977"
+  },
+  {
+    "code": "AC9S3I02",
+    "path": "year3/science/ac9s3i02-provided-scaffolds-to-plan-and-conduct-investigations-to-answer/index.html",
+    "sha256": "437a4b875a0df99c2afe2a36594a232aeeedd854f7b7b50d47bd2221d4c2a8f6"
+  },
+  {
+    "code": "AC9S3I03",
+    "path": "year3/science/ac9s3i03-follow-procedures-to-make-and-record-observations-including/index.html",
+    "sha256": "73dc16875f698df28c01cb041e1e8f52c561b5dab8acc44608ed678726785476"
+  },
+  {
+    "code": "AC9S3I04",
+    "path": "year3/science/ac9s3i04-construct-and-use-representations-including-tables-simple/index.html",
+    "sha256": "5b85b18a2767fd968fd46c93c248a110ff32aa51e0ea1b45f526afd77cf120ab"
+  },
+  {
+    "code": "AC9S3I05",
+    "path": "year3/science/ac9s3i05-findings-with-those-of-others-consider-if-investigations-were/index.html",
+    "sha256": "8aabeeac9f98afd6f0cccf7166995631048c2697c74492f7ac95f4f1d81ecd47"
+  },
+  {
+    "code": "AC9S3I06",
+    "path": "year3/science/ac9s3i06-and-create-texts-to-communicate-findings-and-ideas-for/index.html",
+    "sha256": "e79cc4a438eaa7621bcaaed678b2dde12c3bd241ddf7f80ab61de905c94f41cd"
+  },
+  {
+    "code": "AC9S3U01",
+    "path": "year3/science/ac9s3u01-characteristics-of-living-and-non-living-things-and-examine-the/index.html",
+    "sha256": "b13ce53be2c46c3c87b3b02b143d5de8304c8f2c0b3d254f001691987a825554"
+  },
+  {
+    "code": "AC9S3U02",
+    "path": "year3/science/ac9s3u02-the-observable-properties-of-soils-rocks-and-minerals-and/index.html",
+    "sha256": "46d30de9f389e312dd98bd7f6d63fc00c185463ddd1b468ce06590318f384ea3"
+  },
+  {
+    "code": "AC9S3U03",
+    "path": "year3/science/ac9s3u03-sources-of-heat-energy-and-examine-how-temperature-changes-when/index.html",
+    "sha256": "ca2ba5119ee8631244a23c407c3455cffd2bc8fd5bb096e3ec47348d7055f687"
+  },
+  {
+    "code": "AC9S3U04",
+    "path": "year3/science/ac9s3u04-investigate-the-observable-properties-of-solids-and-liquids-and/index.html",
+    "sha256": "5a208c1deca755aecb70275ab97a4ea473df28f2492a525074b23cb90e9467df"
+  }
+]

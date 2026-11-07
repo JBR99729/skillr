@@ -1,0 +1,712 @@
+[
+  {
+    "code": "AC9S3U01",
+    "title": "Living things change through life cycles",
+    "short": "Living things and life cycles",
+    "intro": "Compare living and non-living characteristics. Explain similarities and differences between plant and animal life cycles.",
+    "art": "nature",
+    "exampleTitle": "A living seedling, a dead leaf and a stone",
+    "example": "The seedling is living: it takes in resources and grows through life processes. The dried fallen leaf was part of a living plant but is now dead. The stone was never alive. Movement alone is not enough evidence: a wind-up toy can move without being living.",
+    "evidence": "<table><thead><tr><th scope=\"col\">Example</th><th scope=\"col\">Classification in this task</th><th scope=\"col\">Reason</th></tr></thead><tbody><tr><td>Healthy seedling</td><td>Living</td><td>Grows and carries out life processes</td></tr><tr><td>Dead fallen leaf</td><td>Once living</td><td>Was part of a living plant</td></tr><tr><td>Stone</td><td>Never living</td><td>Does not carry out life processes</td></tr></tbody></table>",
+    "steps": [
+      [
+        "Use several characteristics",
+        "Living things need resources and energy, grow and develop, and belong to kinds that reproduce. Not every living individual reproduces or shows every characteristic at every moment.",
+        "<div class=\"evidence\"><strong>Evidence check</strong><p>A toy moves, but it does not grow through life processes. A dormant viable seed can be living even when no movement is visible.</p></div>",
+        "Does not moving prove that a plant is non-living?",
+        "No. Movement from place to place is not a requirement for a plant to be living."
+      ],
+      [
+        "Follow a flowering plant’s cycle",
+        "A bean seed can germinate into a seedling. It grows into a mature plant that can flower and produce new seeds. New seeds begin another generation.",
+        "<ol class=\"cycle\"><li><span>Seed</span></li><li><span>Germination and seedling</span></li><li><span>Mature flowering plant</span></li><li><span>Fruit containing new seeds</span></li></ol>",
+        "Does the adult bean plant turn back into its original seed?",
+        "No. It can produce new seeds. The cycle continues through new plants."
+      ],
+      [
+        "Compare animal life cycles",
+        "A butterfly changes greatly during metamorphosis. A human develops from baby to child to adult without a caterpillar or pupa stage. Plants and animals both grow and can produce a new generation, but their stages differ.",
+        "<table><thead><tr><th scope=\"col\">Organism</th><th scope=\"col\">Example stages</th></tr></thead><tbody><tr><td>Butterfly</td><td>Egg → caterpillar → pupa → adult; adults can lay eggs</td></tr><tr><td>Human</td><td>Baby → child → adult; adults may have babies</td></tr></tbody></table>",
+        "Does every animal pass through a pupa stage?",
+        "No. Butterflies do, but humans and many other animals do not."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Anything that moves is living.”",
+        "Use several life characteristics. Toys, clouds and water can move without being organisms."
+      ],
+      [
+        "“All life cycles have the same stages.”",
+        "Compare the actual plant or animal. Do not add butterfly stages to every animal."
+      ]
+    ],
+    "activityTitle": "Build and compare two cycles",
+    "activity": "2 minutes: classify the seedling and stone using a reason. 5 minutes: arrange the supplied bean and butterfly stages into two cycles. 3 minutes: explain one shared feature and one difference.",
+    "adjust": "Support: use stage cards and read them aloud. Extend: compare butterfly development with human development and explain why the stages differ.",
+    "safety": "Observe without harming organisms. Do not disturb nests or remove living things to make a model.",
+    "tricky": [
+      [
+        "A viable seed has not sprouted today. Must it be dead?",
+        "No. It may be dormant. Suitable observations and conditions are needed."
+      ],
+      [
+        "A sponge gets bigger when it absorbs water. Does that alone prove it is living?",
+        "No. Swelling with water is not the same as biological growth."
+      ],
+      [
+        "Does a caterpillar become a different species when it becomes a butterfly?",
+        "No. It is a different life stage of the same organism."
+      ]
+    ],
+    "faq": [
+      [
+        "What does once living mean here?",
+        "Material that was living, or part of a living organism, but is now dead, such as a dead fallen leaf."
+      ],
+      [
+        "Can local First Nations knowledge support life-cycle learning?",
+        "Yes. Use accurate, community-authorised knowledge from particular Peoples and Countries, respecting restrictions on sharing."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S3U02",
+    "title": "What can Earth materials tell us?",
+    "short": "Soils, rocks and minerals",
+    "intro": "Compare observable properties of soils, rocks and minerals. Explain why these Earth resources matter.",
+    "art": "nature",
+    "exampleTitle": "Same water, different drainage",
+    "example": "In this supplied example, equal volumes of three soil samples receive 60 mL of water in matching drainage setups. After two minutes, different volumes have collected below. Describe the observed difference; these results do not establish that one soil is best for every plant or purpose.",
+    "evidence": "<table><thead><tr><th scope=\"col\">Soil sample</th><th scope=\"col\">Observed features</th><th scope=\"col\">Water collected after 2 min</th></tr></thead><tbody><tr><td>A</td><td>Mostly coarse grains</td><td>48 mL</td></tr><tr><td>B</td><td>Mixed grains and plant fragments</td><td>36 mL</td></tr><tr><td>C</td><td>Mostly fine particles</td><td>24 mL</td></tr></tbody></table>",
+    "steps": [
+      [
+        "Observe properties carefully",
+        "Compare colour, texture, grain or crystal size and other safely observable features. Soil can contain mineral particles, water, air, organic material and living organisms.",
+        "<table><thead><tr><th scope=\"col\">Sample</th><th scope=\"col\">Useful observation</th></tr></thead><tbody><tr><td>Rock</td><td>Rough surface with visible grains</td></tr><tr><td>Soil</td><td>Different particle sizes and plant fragments</td></tr><tr><td>Mineral sample</td><td>Crystal shape and surface appearance</td></tr></tbody></table>",
+        "Can colour alone identify every mineral reliably?",
+        "No. Different minerals can share a colour. More evidence is needed."
+      ],
+      [
+        "Connect rocks and minerals",
+        "Rocks are made from one or more minerals. Minerals can contribute to a rock’s visible grains and properties. Soil is a mixture, not one pure mineral.",
+        "<div class=\"evidence\"><strong>Part and whole</strong><p>A speckled rock may contain several different mineral grains. A single mineral and a rock are not always the same thing.</p></div>",
+        "Does every rock contain only one mineral?",
+        "No. Some contain several minerals."
+      ],
+      [
+        "Explain why a property is useful",
+        "Soil supports plant growth and habitats. Rocks and minerals provide building materials and many useful products. Match a use to a relevant property, while considering care for places and resources.",
+        "<table><thead><tr><th scope=\"col\">Resource</th><th scope=\"col\">Example use</th></tr></thead><tbody><tr><td>Soil</td><td>Growing crops and providing habitat</td></tr><tr><td>Hard, durable rock</td><td>Suitable building material</td></tr><tr><td>Graphite mineral</td><td>Making marks in pencils</td></tr></tbody></table>",
+        "Does soil A’s greater drainage prove it is best for every garden plant?",
+        "No. Different plants have different needs; drainage is only one property to consider."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“All soils are the same.”",
+        "Compare their particles, organic material and water behaviour."
+      ],
+      [
+        "“A rock and a mineral mean exactly the same thing.”",
+        "A rock can be made from several minerals."
+      ]
+    ],
+    "activityTitle": "Make a property-and-use card",
+    "activity": "2 minutes: an adult supplies safe samples or the illustrated examples. 5 minutes: record two observable properties and suggest a use linked to one property. 3 minutes: explain what further evidence would help choose a material.",
+    "adjust": "Support: choose from property words. Extend: identify a trade-off, such as drainage versus retaining water for a particular plant.",
+    "safety": "Do not taste samples or inhale dust. Use adult-approved specimens, wash hands and obtain permission before collecting. Never use collected drainage water for drinking.",
+    "tricky": [
+      [
+        "A shiny sample is attractive. Is that enough reason to use it for a bridge?",
+        "No. The use needs relevant evidence such as strength and durability."
+      ],
+      [
+        "Does the soil illustration prove which sample drains fastest?",
+        "No. Use the supplied investigation records; a picture does not measure drainage."
+      ],
+      [
+        "Should a culturally important stone be taken for a classroom collection without permission?",
+        "No. Respect Country, ownership, cultural authority and collecting rules."
+      ]
+    ],
+    "faq": [
+      [
+        "What is an Earth resource?",
+        "A material from Earth that living things depend on or people use."
+      ],
+      [
+        "Can a soil contain living and non-living parts?",
+        "Yes. It may contain organisms as well as mineral particles, air, water and dead organic material."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S3U03",
+    "title": "Follow the heat, read the temperature",
+    "short": "Heat sources and transfer",
+    "intro": "Identify heat sources. Use temperature changes to explain heat-energy transfer between objects.",
+    "art": "heat",
+    "exampleTitle": "A cool spoon in warmer water",
+    "example": "An adult places a cooler spoon in warmer water. In the supplied example, the spoon’s temperature rises while the water’s temperature falls. Heat energy transfers from the warmer water towards the cooler spoon. The numbers describe this example, not measurements from the illustration.",
+    "evidence": "<table><thead><tr><th scope=\"col\">Record</th><th scope=\"col\">Water temperature</th><th scope=\"col\">Spoon temperature</th></tr></thead><tbody><tr><td>Before contact</td><td>36°C</td><td>20°C</td></tr><tr><td>Later</td><td>33°C</td><td>29°C</td></tr></tbody></table>",
+    "steps": [
+      [
+        "Identify a heat source",
+        "The Sun, a fire and operating heating devices can supply heat energy. Friction can also warm objects. Identifying a source does not make it safe to touch.",
+        "<table><thead><tr><th scope=\"col\">Example</th><th scope=\"col\">Heat-energy source or transfer</th></tr></thead><tbody><tr><td>Sunlight warms a surface</td><td>Energy arrives from the Sun</td></tr><tr><td>An operating heater warms nearby objects</td><td>Electrical energy supplies heating</td></tr><tr><td>Hands rubbed together</td><td>Rubbing can warm them</td></tr></tbody></table>",
+        "Is a blanket normally a heater that makes its own heat?",
+        "No. It mainly reduces heat transfer between the body and surroundings."
+      ],
+      [
+        "Track the transfer direction",
+        "For objects at different temperatures, heat energy transfers from warmer to cooler. In the example, the water loses energy while the cooler spoon gains some.",
+        "<div class=\"evidence\"><strong>Direction in this example</strong><p>Water at 36°C → heat energy → spoon initially at 20°C.</p></div>",
+        "Did “cold” flow out of the spoon and make the water cooler?",
+        "No. Explain the transfer of heat energy from the warmer water."
+      ],
+      [
+        "Use a thermometer as evidence",
+        "A thermometer measures temperature, commonly in degrees Celsius. Temperature and heat energy are different ideas. Read both objects’ records and keep the units.",
+        "<table><thead><tr><th scope=\"col\">Measured change</th><th scope=\"col\">Interpretation</th></tr></thead><tbody><tr><td>Spoon: 20°C to 29°C</td><td>It became warmer</td></tr><tr><td>Water: 36°C to 33°C</td><td>It became cooler</td></tr></tbody></table>",
+        "Must touching objects reach the same temperature immediately?",
+        "No. Temperature changes can take time, and surroundings may also affect them."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Heat and temperature are identical.”",
+        "Temperature describes how hot or cold something is; heat is energy transferred because of a temperature difference."
+      ],
+      [
+        "“Cold energy moves into the warmer object.”",
+        "Use warmer-to-cooler heat transfer to explain the change."
+      ]
+    ],
+    "activityTitle": "Explain both temperature changes",
+    "activity": "2 minutes: read the supplied table. 5 minutes: draw and label a heat-transfer arrow, then describe what happened to each object. 3 minutes: explain which measurements support your account.",
+    "adjust": "Support: compare only the starting temperatures first. Extend: explain why a later measurement might be useful before claiming the objects have reached the same temperature.",
+    "safety": "Use supplied data or teacher-prepared comfortably warm water. An adult handles equipment and checks temperature; never touch hot surfaces or use boiling water.",
+    "tricky": [
+      [
+        "The spoon warmed. Does the water have to stay at its original temperature?",
+        "No. The water may cool as it transfers energy to the spoon and surroundings."
+      ],
+      [
+        "A metal and wooden object are in the same room. Does feeling different prove different temperatures?",
+        "No. Materials transfer heat differently; use suitable temperature measurements."
+      ],
+      [
+        "Can an insulating sleeve stop every bit of heat transfer forever?",
+        "No. It can reduce heat transfer; it does not provide perfect permanent insulation."
+      ]
+    ],
+    "faq": [
+      [
+        "What does °C mean?",
+        "Degrees Celsius, a unit used to report temperature."
+      ],
+      [
+        "Does this lesson require heat-energy calculations?",
+        "No. Use source, transfer direction and observed temperature changes to explain the examples."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S3U04",
+    "title": "Solids, liquids and changes of state",
+    "short": "Solids, liquids, melting and freezing",
+    "intro": "Compare solids and liquids using observable properties. Explain melting and freezing through adding or removing heat energy.",
+    "art": "materials",
+    "exampleTitle": "A new shape is not always a new state",
+    "example": "A paper sheet can fold without melting. Ice can melt into liquid water when it gains enough heat energy. Shape change alone does not identify melting: look at whether the material has changed from solid to liquid.",
+    "evidence": "<table><thead><tr><th scope=\"col\">Action</th><th scope=\"col\">Observation</th><th scope=\"col\">Change of state?</th></tr></thead><tbody><tr><td>Fold paper</td><td>Still a solid sheet</td><td>No</td></tr><tr><td>Melt ice</td><td>Solid ice becomes liquid water</td><td>Yes</td></tr><tr><td>Freeze water</td><td>Liquid water becomes solid ice</td><td>Yes</td></tr></tbody></table>",
+    "steps": [
+      [
+        "Compare observable properties",
+        "A solid usually keeps its own shape. A liquid flows and takes the shape of the part of its container it occupies. A liquid still has an amount and takes up space.",
+        "<table><thead><tr><th scope=\"col\">Material</th><th scope=\"col\">Useful evidence</th></tr></thead><tbody><tr><td>Ice block</td><td>Keeps a shape unless it melts or is broken</td></tr><tr><td>Liquid water</td><td>Flows when poured and settles in the container</td></tr></tbody></table>",
+        "Does water have no volume because it changes shape when poured?",
+        "No. It still takes up space and has a measurable volume."
+      ],
+      [
+        "Add heat energy: melting",
+        "Melting is a change from solid to liquid. A material can gain heat energy from warmer surroundings; melting does not require a visible flame.",
+        "<div class=\"evidence\"><strong>Melting model</strong><p>Solid ice + heat energy gained → liquid water.</p></div>",
+        "Is cutting a solid into smaller pieces the same as melting it?",
+        "No. The pieces can remain solid."
+      ],
+      [
+        "Remove heat energy: freezing",
+        "When water loses enough heat energy in suitable conditions, it freezes. Ice and liquid water are the same substance in different states.",
+        "<div class=\"evidence\"><strong>Freezing model</strong><p>Liquid water − heat energy transferred away → solid ice.</p></div>",
+        "Does water disappear when it becomes ice?",
+        "No. It changes state. Its shape and volume may change, but it has not vanished."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Every liquid fills the entire container.”",
+        "It takes the shape of the part it occupies, rather than expanding to fill all empty space like a gas."
+      ],
+      [
+        "“Melting destroys the material.”",
+        "Track the material before and after; melted ice is liquid water."
+      ]
+    ],
+    "activityTitle": "Sort actions and explain the energy change",
+    "activity": "2 minutes: read the action table. 5 minutes: make labelled solid → liquid and liquid → solid models. 3 minutes: explain why folding paper does not belong on either state-change arrow.",
+    "adjust": "Support: use ice/water picture cards. Extend: explain how a sealed, undamaged bag can help keep track of the water as it changes state.",
+    "safety": "Use supplied examples or adult-supervised ice observations. An adult handles freezers and any warming equipment. Do not heat wax, glass or plastics yourself; avoid spills.",
+    "tricky": [
+      [
+        "Can a tiny grain of sand be a solid even if a pile pours?",
+        "Yes. Each grain remains a solid; many grains can move past each other."
+      ],
+      [
+        "Must melting need a cooker?",
+        "No. Warmer surroundings can transfer heat energy to ice."
+      ],
+      [
+        "Can we assume freezing water keeps exactly the same volume?",
+        "No. Water expands when it freezes; do not use a full sealed rigid container."
+      ]
+    ],
+    "faq": [
+      [
+        "Is every physical change reversible?",
+        "No. Melting and freezing water can be reversed, but tearing a sheet is a different kind of physical change."
+      ],
+      [
+        "Are particle calculations needed here?",
+        "No. Focus on observable properties, heat-energy transfer and the solid/liquid state change."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S3H01",
+    "title": "Use data to build an explanation",
+    "short": "Data and scientific explanations",
+    "intro": "Explain how people use observations and measurements to develop and check scientific explanations.",
+    "art": "heat",
+    "exampleTitle": "Why did one cup cool less?",
+    "example": "A class compares matching cups holding equal volumes of water at the same starting temperature. One has a fabric sleeve and the other does not. In the same room after ten minutes, the wrapped cup has cooled less. The data support an explanation that the sleeve reduced heat transfer in this setup.",
+    "evidence": "<table><thead><tr><th scope=\"col\">Cup</th><th scope=\"col\">Start</th><th scope=\"col\">After 10 min</th><th scope=\"col\">Temperature decrease</th></tr></thead><tbody><tr><td>Fabric sleeve</td><td>36°C</td><td>33°C</td><td>3°C</td></tr><tr><td>No sleeve</td><td>36°C</td><td>28°C</td><td>8°C</td></tr></tbody></table>",
+    "steps": [
+      [
+        "Find the relevant data",
+        "Data are recorded observations or measurements. A preference about which sleeve looks nicer is different from temperature evidence.",
+        "<table><thead><tr><th scope=\"col\">Statement</th><th scope=\"col\">Role</th></tr></thead><tbody><tr><td>Wrapped cup fell by 3°C</td><td>Recorded numerical evidence</td></tr><tr><td>I like the blue sleeve</td><td>A preference</td></tr></tbody></table>",
+        "Which better supports a claim about cooling: colour preference or temperature measurements?",
+        "The temperature measurements."
+      ],
+      [
+        "Connect claim, evidence and reasoning",
+        "State what the records show, cite the values and explain the scientific connection. Do not simply repeat a result and call it a cause.",
+        "<div class=\"evidence\"><strong>A supported explanation</strong><p>The sleeve reduced cooling in this test: the wrapped cup dropped 3°C compared with 8°C without a sleeve. Insulation can reduce heat transfer to the cooler surroundings.</p></div>",
+        "Does one comparison prove every fabric works equally well?",
+        "No. The evidence is limited to the material and conditions tested."
+      ],
+      [
+        "Check, compare and revise",
+        "People strengthen explanations by checking methods, repeating observations and comparing other evidence. Unexpected observations should be retained and investigated.",
+        "<table><thead><tr><th scope=\"col\">Evidence issue</th><th scope=\"col\">Useful response</th></tr></thead><tbody><tr><td>Another trial gives a different result</td><td>Compare setup and measurement procedure</td></tr><tr><td>A measurement was not recorded</td><td>Mark it missing; do not invent it</td></tr></tbody></table>",
+        "Can a scientific explanation change when better data become available?",
+        "Yes. Revising an explanation in response to evidence is part of science."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“An opinion is enough evidence.”",
+        "Use observations relevant to the scientific claim."
+      ],
+      [
+        "“Repeating a claim is explaining it.”",
+        "Connect the claim to specific evidence and scientific reasoning."
+      ]
+    ],
+    "activityTitle": "Write a claim–evidence–reasoning explanation",
+    "activity": "2 minutes: compare the two temperature decreases. 5 minutes: write a claim, quote the relevant values and explain the heat-transfer connection. 3 minutes: name an observation that would make you check the explanation again.",
+    "adjust": "Support: use “The data show… because…”. Extend: suggest another trial and say which parts of the explanation it could test.",
+    "safety": "Use supplied records. An adult supervises any real water-temperature comparison; experimental water is not for drinking.",
+    "tricky": [
+      [
+        "Should an unexpected reading be deleted to make the explanation neat?",
+        "No. Keep the reading and investigate its cause."
+      ],
+      [
+        "A wrapped cup starts warmer than the bare cup. Is final temperature alone a clear comparison?",
+        "No. Different starting temperatures can confuse the explanation."
+      ],
+      [
+        "Can a labelled drawing be scientific data?",
+        "Yes, if it records relevant observations accurately and includes the needed context."
+      ]
+    ],
+    "faq": [
+      [
+        "What is reasoning?",
+        "The explanation of why the evidence supports a claim."
+      ],
+      [
+        "Do scientists only use numbers?",
+        "No. Relevant descriptions, images and other systematic observations can also be evidence."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S3H02",
+    "title": "Use science to solve a real problem",
+    "short": "Science, needs and solutions",
+    "intro": "Connect scientific explanations to practical needs. Use evidence and criteria to compare and improve solutions.",
+    "art": "heat",
+    "exampleTitle": "Choose a sleeve for a warm-water cup",
+    "example": "The design need is to keep a cup’s water at or above 32°C after ten minutes, starting at 36°C in the same room. The cup must also be stable. In the supplied comparison, sleeve B meets both requirements but is heavier. Choosing a solution means checking the criteria and any trade-offs.",
+    "evidence": "<table><thead><tr><th scope=\"col\">Design</th><th scope=\"col\">After 10 min</th><th scope=\"col\">Stable?</th><th scope=\"col\">Carrying weight</th></tr></thead><tbody><tr><td>Sleeve A</td><td>29°C</td><td>Yes</td><td>Lighter</td></tr><tr><td>Sleeve B</td><td>33°C</td><td>Yes</td><td>Heavier</td></tr></tbody></table>",
+    "steps": [
+      [
+        "Define the need and criteria",
+        "A criterion is something used to judge a solution. Make the important criteria observable or measurable rather than just saying “best”.",
+        "<table><thead><tr><th scope=\"col\">Need</th><th scope=\"col\">Checkable criterion</th></tr></thead><tbody><tr><td>Keep water warm</td><td>At least 32°C after 10 min</td></tr><tr><td>Avoid tipping</td><td>Cup remains stable</td></tr></tbody></table>",
+        "Does “looks great” alone show that a sleeve meets the warm-water target?",
+        "No. Check temperature and stability."
+      ],
+      [
+        "Explain how science informs the design",
+        "Insulation can reduce heat transfer. Designers use that explanation to propose a sleeve, then test whether the actual design works.",
+        "<div class=\"evidence\"><strong>Need → science → design</strong><p>Keep water warm → reduce heat transfer to the surroundings → try an insulating sleeve.</p></div>",
+        "Does calling a material “insulating” guarantee the finished design will work?",
+        "No. The design still needs a suitable test."
+      ],
+      [
+        "Use evidence to improve",
+        "Compare results against the criteria. A design can work well in one respect but need improvement in another.",
+        "<table><thead><tr><th scope=\"col\">Design B result</th><th scope=\"col\">Possible next improvement</th></tr></thead><tbody><tr><td>Meets temperature and stability criteria</td><td>Try reducing weight while keeping those criteria</td></tr></tbody></table>",
+        "Which design meets the temperature criterion in the supplied results?",
+        "B, because 33°C is at least 32°C. A at 29°C does not meet it."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Choose a product before stating the problem.”",
+        "Define the need and criteria first."
+      ],
+      [
+        "“A failed test should be hidden.”",
+        "Record the result and use it to improve the solution."
+      ]
+    ],
+    "activityTitle": "Recommend and improve a design",
+    "activity": "2 minutes: read the criteria. 5 minutes: compare both designs and recommend one using the supplied data. 3 minutes: name one trade-off and propose a change to test next.",
+    "adjust": "Support: tick each criterion in a comparison table. Extend: propose an improved design and explain how you would check that it still meets the original criteria.",
+    "safety": "Use supplied records or an adult-approved, comfortably warm setup. Do not drink experimental water or use unstable containers.",
+    "tricky": [
+      [
+        "A design is lighter but misses the temperature target. Does lightness erase the failure?",
+        "No. Check each criterion separately."
+      ],
+      [
+        "Must the first working design be the final design?",
+        "No. It may be improved for weight, cost, accessibility or another stated need."
+      ],
+      [
+        "Can soil and life-cycle knowledge also help solve practical problems?",
+        "Yes. For example, relevant science can guide crop care or pest-management decisions, with suitable local advice."
+      ]
+    ],
+    "faq": [
+      [
+        "What is a trade-off?",
+        "Improving one feature may make another less suitable, so the priorities need to be considered."
+      ],
+      [
+        "Can scientific explanations alone settle every design decision?",
+        "No. Evidence, user needs, safety, available materials and other criteria also matter."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S3I01",
+    "title": "Ask a question the evidence can answer",
+    "short": "Questions and evidence-based predictions",
+    "intro": "Pose questions about observed patterns and relationships. Make predictions supported by observations.",
+    "art": "nature",
+    "exampleTitle": "Will the drainage pattern repeat?",
+    "example": "Earlier fair comparisons used matching setups, equal soil volumes and 60 mL of added water. After two minutes, soil A allowed more water to collect below than soil C in both trials. A useful new question asks whether that relationship will repeat under similar conditions.",
+    "evidence": "<table><thead><tr><th scope=\"col\">Earlier trial</th><th scope=\"col\">Water collected from A</th><th scope=\"col\">Water collected from C</th></tr></thead><tbody><tr><td>1</td><td>46 mL</td><td>25 mL</td></tr><tr><td>2</td><td>48 mL</td><td>24 mL</td></tr></tbody></table>",
+    "steps": [
+      [
+        "Describe the observed pattern",
+        "Name the compared conditions and measured outcome. Read all recorded trials, including variation.",
+        "<div class=\"evidence\"><strong>Pattern in these records</strong><p>A allowed more water to collect than C in both trials; the exact volumes varied.</p></div>",
+        "Do these records show exactly the same A result each time?",
+        "No. A gave 46 mL and 48 mL."
+      ],
+      [
+        "Turn the pattern into a testable question",
+        "State what you will compare and what you will observe or measure. Clarify vague words such as “better”.",
+        "<table><thead><tr><th scope=\"col\">Vague question</th><th scope=\"col\">Clearer investigation question</th></tr></thead><tbody><tr><td>Which soil is best?</td><td>Which sample lets more water drain through in 2 min under the same setup?</td></tr></tbody></table>",
+        "Would asking which soil colour you prefer test the drainage pattern?",
+        "No. Preference is different from measured drainage."
+      ],
+      [
+        "Predict and give the evidence",
+        "Predict before testing. Link the expected outcome to the earlier observations without guaranteeing an exact value.",
+        "<div class=\"evidence\"><strong>Prediction frame</strong><p>If we repeat the same comparison, A may allow more water to drain than C, because that happened in both earlier trials.</p></div>",
+        "Does the evidence guarantee A will give exactly 48 mL next time?",
+        "No. The earlier volumes varied, and the next trial may vary too."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“A prediction is a result already measured.”",
+        "Keep the predicted outcome separate from the later observation."
+      ],
+      [
+        "“Any reason is relevant evidence.”",
+        "Use the observations connected to the outcome being predicted."
+      ]
+    ],
+    "activityTitle": "Improve a question and justify a prediction",
+    "activity": "2 minutes: read both trials. 5 minutes: improve “Which soil is better?” and write a prediction with a reason. 3 minutes: identify a condition that should stay similar when the question is tested.",
+    "adjust": "Support: use compare/measure sentence frames. Extend: suggest a different question that uses the same samples but needs a different measurement.",
+    "safety": "Use supplied records. Any real soil work requires adult-approved samples and handwashing; never taste soil or drainage water.",
+    "tricky": [
+      [
+        "If a third trial differs, was asking the question pointless?",
+        "No. Keep the result; it may lead to a better explanation or further question."
+      ],
+      [
+        "Does a picture of dark soil alone support a precise drainage prediction?",
+        "No. Use relevant observations and measurements."
+      ],
+      [
+        "Can a question be explored by repeated observation instead of changing something?",
+        "Yes. For example, observing stages of an organism’s life cycle can answer some questions."
+      ]
+    ],
+    "faq": [
+      [
+        "Must a question contain a scientific word?",
+        "No. It needs a clear, observable meaning. Use precise vocabulary where it helps."
+      ],
+      [
+        "What is the difference between a question and a prediction?",
+        "The question asks what to find out. The prediction states what you think may happen and why."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S3I02",
+    "title": "Use a scaffold to plan a fair test",
+    "short": "Planning safe, fair investigations",
+    "intro": "Use a provided plan to investigate a question or prediction. Identify fair-test features and safe procedures.",
+    "art": "heat",
+    "exampleTitle": "Plan before comparing cup sleeves",
+    "example": "Question: does adding a fabric sleeve reduce cooling over ten minutes? Use the scaffold below before testing. Change the sleeve condition, measure temperature change, and keep the water volume, starting temperature, cup type, place and timing similar.",
+    "evidence": "<table><thead><tr><th scope=\"col\">Planning prompt</th><th scope=\"col\">Example plan</th></tr></thead><tbody><tr><td>Change</td><td>Sleeve or no sleeve</td></tr><tr><td>Measure</td><td>Water temperature at start and after 10 min</td></tr><tr><td>Keep similar</td><td>Cup, 100 mL water, 36°C start, room and timing</td></tr><tr><td>Safety</td><td>Adult-prepared comfortably warm water; stable cups</td></tr><tr><td>Repeat and record</td><td>Repeat each condition; keep all readings</td></tr></tbody></table>",
+    "steps": [
+      [
+        "Identify what changes and what is measured",
+        "The changed factor is deliberately varied. The measured outcome is the observation used to answer the question.",
+        "<table><thead><tr><th scope=\"col\">Role</th><th scope=\"col\">In this investigation</th></tr></thead><tbody><tr><td>Change</td><td>Whether there is a sleeve</td></tr><tr><td>Measure</td><td>Temperature change over the same time</td></tr></tbody></table>",
+        "Should the water volume also change just because a sleeve is added?",
+        "No. That would make the sleeve comparison harder to interpret."
+      ],
+      [
+        "Plan the sequence and safety",
+        "Agree on the steps, equipment and response to hazards before starting. Follow the adult-approved procedure.",
+        "<div class=\"evidence\"><strong>Procedure scaffold</strong><p>Prepare matching cups → check starting conditions → start together → measure at agreed times → record → clean up.</p></div>",
+        "A spill happens near the equipment. Should recording come first?",
+        "No. Stop, tell the adult and make the area safe."
+      ],
+      [
+        "Conduct, repeat and keep the record",
+        "Use the same procedure for repeats. Repeats help reveal variation; they do not guarantee identical results or permit unwanted results to be deleted.",
+        "<table><thead><tr><th scope=\"col\">Trial issue</th><th scope=\"col\">Honest response</th></tr></thead><tbody><tr><td>A reading differs</td><td>Keep it and check procedure</td></tr><tr><td>Timing was missed</td><td>Record the problem rather than inventing a value</td></tr></tbody></table>",
+        "Should a trial be erased because it does not support the prediction?",
+        "No. Keep the observation and describe any genuine method problem."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“A fair test changes several important conditions together.”",
+        "Change the intended factor while keeping relevant conditions similar."
+      ],
+      [
+        "“Safety is only checked after something goes wrong.”",
+        "Plan safety first and keep checking throughout."
+      ]
+    ],
+    "activityTitle": "Complete the planning scaffold",
+    "activity": "2 minutes: read the question. 5 minutes: fill in change, measure, keep similar, equipment and safety boxes. 3 minutes: ask a partner to identify one missing step before the plan is used.",
+    "adjust": "Support: use provided choices for each box. Extend: explain how a poor control could produce a misleading result.",
+    "safety": "An adult prepares and checks comfortably warm water and stable equipment. No boiling water, mains electrical experiments or unsupervised heating.",
+    "tricky": [
+      [
+        "Both cups have sleeves, but different water volumes. Does that test sleeve versus no sleeve?",
+        "No. The intended comparison is missing, and another condition changes."
+      ],
+      [
+        "Do three repeats guarantee the prediction will be supported?",
+        "No. Repeats help evaluate evidence; they do not choose the result."
+      ],
+      [
+        "Can a drawing be part of the planning scaffold?",
+        "Yes. Label equipment and positions, and keep the steps clear."
+      ]
+    ],
+    "faq": [
+      [
+        "What is a control condition here?",
+        "A relevant condition kept similar, such as the starting water volume."
+      ],
+      [
+        "Is taking turns the whole meaning of a fair test?",
+        "No. Taking turns is fair behaviour; scientific fairness also concerns the comparison and its conditions."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S3I03",
+    "title": "Read the scale, record the unit",
+    "short": "Formal measurements and observations",
+    "intro": "Follow procedures to measure with familiar scaled instruments. Record observations and use digital tools appropriately.",
+    "art": "heat",
+    "exampleTitle": "Three small intervals above 25°C",
+    "example": "The model has labelled marks at 20, 25, 30 and 35°C. There are five equal intervals from 25 to 30, so each interval represents 1°C. The top of the red column is three intervals above 25: the reading is 28°C.",
+    "evidence": "<figure class=\"concept-figure thermometer-model\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 320\" role=\"img\" aria-labelledby=\"temp-scale-title temp-scale-desc\"><title id=\"temp-scale-title\">Thermometer model reading 28 degrees Celsius</title><desc id=\"temp-scale-desc\">The scale has labelled marks at 20, 25, 30 and 35 degrees Celsius. Five equal intervals lie between each pair of labelled marks. The red column ends three small intervals above 25, at 28.</desc><rect width=\"300\" height=\"320\" rx=\"16\" fill=\"#eef4ff\"/><g font-family=\"system-ui,sans-serif\" fill=\"#142c48\"><text x=\"110\" y=\"30\" font-size=\"19\">°C</text><rect x=\"96\" y=\"40\" width=\"26\" height=\"240\" rx=\"13\" fill=\"white\" stroke=\"#62778e\" stroke-width=\"2\"/><rect x=\"102\" y=\"148\" width=\"14\" height=\"130\" fill=\"#be4853\"/><circle cx=\"109\" cy=\"280\" r=\"20\" fill=\"#be4853\" stroke=\"#62778e\" stroke-width=\"2\"/><line x1=\"125\" y1=\"260\" x2=\"145\" y2=\"260\" stroke=\"#142c48\" stroke-width=\"2\"/><text x=\"157\" y=\"266\" font-size=\"18\">20</text><line x1=\"125\" y1=\"246\" x2=\"137\" y2=\"246\" stroke=\"#142c48\" stroke-width=\"2\"/><line x1=\"125\" y1=\"232\" x2=\"137\" y2=\"232\" stroke=\"#142c48\" stroke-width=\"2\"/><line x1=\"125\" y1=\"218\" x2=\"137\" y2=\"218\" stroke=\"#142c48\" stroke-width=\"2\"/><line x1=\"125\" y1=\"204\" x2=\"137\" y2=\"204\" stroke=\"#142c48\" stroke-width=\"2\"/><line x1=\"125\" y1=\"190\" x2=\"145\" y2=\"190\" stroke=\"#142c48\" stroke-width=\"2\"/><text x=\"157\" y=\"196\" font-size=\"18\">25</text><line x1=\"125\" y1=\"176\" x2=\"137\" y2=\"176\" stroke=\"#142c48\" stroke-width=\"2\"/><line x1=\"125\" y1=\"162\" x2=\"137\" y2=\"162\" stroke=\"#142c48\" stroke-width=\"2\"/><line x1=\"125\" y1=\"148\" x2=\"137\" y2=\"148\" stroke=\"#142c48\" stroke-width=\"2\"/><line x1=\"125\" y1=\"134\" x2=\"137\" y2=\"134\" stroke=\"#142c48\" stroke-width=\"2\"/><line x1=\"125\" y1=\"120\" x2=\"145\" y2=\"120\" stroke=\"#142c48\" stroke-width=\"2\"/><text x=\"157\" y=\"126\" font-size=\"18\">30</text><line x1=\"125\" y1=\"106\" x2=\"137\" y2=\"106\" stroke=\"#142c48\" stroke-width=\"2\"/><line x1=\"125\" y1=\"92\" x2=\"137\" y2=\"92\" stroke=\"#142c48\" stroke-width=\"2\"/><line x1=\"125\" y1=\"78\" x2=\"137\" y2=\"78\" stroke=\"#142c48\" stroke-width=\"2\"/><line x1=\"125\" y1=\"64\" x2=\"137\" y2=\"64\" stroke=\"#142c48\" stroke-width=\"2\"/><line x1=\"125\" y1=\"50\" x2=\"145\" y2=\"50\" stroke=\"#142c48\" stroke-width=\"2\"/><text x=\"157\" y=\"56\" font-size=\"18\">35</text></g></svg><figcaption>Teaching-scale model. Read the top of the red column, not the blank-screen thermometer in the contextual illustration.</figcaption></figure><table><thead><tr><th scope=\"col\">Scale feature</th><th scope=\"col\">Meaning</th></tr></thead><tbody><tr><td>25 to 30°C</td><td>A difference of 5°C</td></tr><tr><td>Five equal intervals</td><td>Each interval is 1°C</td></tr><tr><td>Three intervals above 25°C</td><td>28°C</td></tr></tbody></table>",
+    "steps": [
+      [
+        "Match instrument to measurement",
+        "Choose a tool with a suitable scale. Follow its procedure and record what it actually measures.",
+        "<table><thead><tr><th scope=\"col\">Quantity</th><th scope=\"col\">Suitable familiar tool</th></tr></thead><tbody><tr><td>Length</td><td>Ruler, using cm or mm</td></tr><tr><td>Water volume</td><td>Measuring jug or cylinder, using mL</td></tr><tr><td>Temperature</td><td>Thermometer, using °C</td></tr><tr><td>Elapsed time</td><td>Timer, using s or min</td></tr></tbody></table>",
+        "Can a thermometer tell you a strip’s length?",
+        "No. Choose a suitable length-measuring tool."
+      ],
+      [
+        "Work out the intervals",
+        "Find the difference between labelled values and count the equal spaces, not just the tick marks. Read the indicated level from the correct viewing position.",
+        "<div class=\"evidence\"><strong>Scale check</strong><p>25°C → five equal spaces → 30°C. Each space is 1°C.</p></div>",
+        "If there are five spaces from 20 to 30, is each space 1°C?",
+        "No. That gap is 10°C, so each of the five equal spaces represents 2°C."
+      ],
+      [
+        "Record value, unit and context",
+        "A useful record names the object, time, value and unit. Keep descriptive observations too; a description is not automatically less useful than a number.",
+        "<table><thead><tr><th scope=\"col\">Time</th><th scope=\"col\">Measurement</th><th scope=\"col\">Description</th></tr></thead><tbody><tr><td>After 2 min</td><td>Water: 28°C</td><td>Water remains clear</td></tr></tbody></table>",
+        "Should a missing reading be filled with a likely number in a digital table?",
+        "No. Mark it missing and remeasure if appropriate."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“A measurement does not need a unit.”",
+        "A number such as 28 is unclear without the quantity and unit."
+      ],
+      [
+        "“Every small division means one unit.”",
+        "Calculate the interval from the actual scale."
+      ]
+    ],
+    "activityTitle": "Make a complete record from a model",
+    "activity": "2 minutes: inspect the thermometer scale. 5 minutes: explain its interval and write a complete reading with object, time and unit. 3 minutes: choose an instrument for one other measurement and justify it.",
+    "adjust": "Support: count spaces between two labelled values. Extend: explain how the answer changes when the same number of spaces spans 10 units instead of 5.",
+    "safety": "Use the supplied scale or an adult-approved classroom instrument. An adult checks thermometers and liquids; avoid glass damage, hot water and sharp probes.",
+    "tricky": [
+      [
+        "Does a side-on view always give the same reading as a face-on view?",
+        "No. Viewing angle can affect a scale reading; follow the instrument’s reading procedure."
+      ],
+      [
+        "A ruler’s zero mark is not aligned with the start. Can the end number alone be called the length?",
+        "No. Align correctly or account for the starting mark."
+      ],
+      [
+        "Can a photograph help preserve a scale reading?",
+        "Yes, if the scale, level and context are clear. It does not replace correct measurement procedure."
+      ]
+    ],
+    "faq": [
+      [
+        "What is a formal measurement?",
+        "A measurement using standard units and an appropriate scaled instrument, such as 28°C or 6 cm."
+      ],
+      [
+        "Can digital tools still give wrong records?",
+        "Yes. Wrong units, labels or entries can make a digital record misleading; check them against observations."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S3I04",
+    "title": "Turn a table into a faithful graph",
+    "short": "Tables, column graphs and models",
+    "intro": "Construct tables, column graphs and models that organise data, show relationships and reveal patterns.",
+    "art": "nature",
+    "exampleTitle": "Three soils, one consistent graph scale",
+    "example": "Matching setups each receive 60 mL of water. The supplied data show the collected drainage water after two minutes. The column graph uses a zero baseline and equal 10 mL intervals. Its column heights must agree with the table.",
+    "evidence": "<table><thead><tr><th scope=\"col\">Soil sample</th><th scope=\"col\">Water collected after 2 min (mL)</th></tr></thead><tbody><tr><td>A</td><td>48</td></tr><tr><td>B</td><td>36</td></tr><tr><td>C</td><td>24</td></tr></tbody></table><figure class=\"chart-wrap\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 600 310\" role=\"img\" aria-labelledby=\"drainage-title drainage-desc\"><title id=\"drainage-title\">Collected drainage water from three soil samples</title><desc id=\"drainage-desc\">Column graph with a zero baseline and equal 10 millilitre intervals. Soil A: 48 millilitres, soil B: 36 millilitres, soil C: 24 millilitres, each collected after two minutes.</desc><rect width=\"600\" height=\"310\" rx=\"16\" fill=\"#eef4ff\"/><g font-family=\"system-ui,sans-serif\" fill=\"#142c48\"><text x=\"70\" y=\"30\" font-size=\"18\">Water collected after 2 min (mL)</text><line x1=\"70\" y1=\"240.0\" x2=\"530\" y2=\"240.0\" stroke=\"#cfdeed\"/><text x=\"58\" y=\"245.0\" text-anchor=\"end\" font-size=\"16\">0</text><line x1=\"70\" y1=\"206.0\" x2=\"530\" y2=\"206.0\" stroke=\"#cfdeed\"/><text x=\"58\" y=\"211.0\" text-anchor=\"end\" font-size=\"16\">10</text><line x1=\"70\" y1=\"172.0\" x2=\"530\" y2=\"172.0\" stroke=\"#cfdeed\"/><text x=\"58\" y=\"177.0\" text-anchor=\"end\" font-size=\"16\">20</text><line x1=\"70\" y1=\"138.0\" x2=\"530\" y2=\"138.0\" stroke=\"#cfdeed\"/><text x=\"58\" y=\"143.0\" text-anchor=\"end\" font-size=\"16\">30</text><line x1=\"70\" y1=\"104.0\" x2=\"530\" y2=\"104.0\" stroke=\"#cfdeed\"/><text x=\"58\" y=\"109.0\" text-anchor=\"end\" font-size=\"16\">40</text><line x1=\"70\" y1=\"70.0\" x2=\"530\" y2=\"70.0\" stroke=\"#cfdeed\"/><text x=\"58\" y=\"75.0\" text-anchor=\"end\" font-size=\"16\">50</text><line x1=\"70\" y1=\"70\" x2=\"70\" y2=\"240\" stroke=\"#142c48\" stroke-width=\"2\"/><line x1=\"70\" y1=\"240\" x2=\"530\" y2=\"240\" stroke=\"#142c48\" stroke-width=\"2\"/><rect class=\"data-column\" data-label=\"A\" data-value=\"48\" x=\"120\" y=\"76.80000000000001\" width=\"72\" height=\"163.2\" fill=\"#3775b5\"/><text x=\"156\" y=\"67.80000000000001\" text-anchor=\"middle\" font-size=\"18\">48</text><text x=\"156\" y=\"268\" text-anchor=\"middle\" font-size=\"18\">A</text><rect class=\"data-column\" data-label=\"B\" data-value=\"36\" x=\"265\" y=\"117.60000000000001\" width=\"72\" height=\"122.39999999999999\" fill=\"#3775b5\"/><text x=\"301\" y=\"108.60000000000001\" text-anchor=\"middle\" font-size=\"18\">36</text><text x=\"301\" y=\"268\" text-anchor=\"middle\" font-size=\"18\">B</text><rect class=\"data-column\" data-label=\"C\" data-value=\"24\" x=\"410\" y=\"158.4\" width=\"72\" height=\"81.6\" fill=\"#3775b5\"/><text x=\"446\" y=\"149.4\" text-anchor=\"middle\" font-size=\"18\">24</text><text x=\"446\" y=\"268\" text-anchor=\"middle\" font-size=\"18\">C</text><text x=\"300\" y=\"296\" text-anchor=\"middle\" font-size=\"17\">Soil sample</text></g></svg><figcaption>All columns use the same scale. A, B and C are sample labels, not times. The exact values are also supplied in the table.</figcaption></figure>",
+    "steps": [
+      [
+        "Keep labels with their values",
+        "A table organises the sample, measurement and unit. Choose an order that helps answer the question without changing the records.",
+        "<table><thead><tr><th scope=\"col\">Table heading</th><th scope=\"col\">Why it matters</th></tr></thead><tbody><tr><td>Soil sample</td><td>Identifies the compared category</td></tr><tr><td>Water collected after 2 min (mL)</td><td>States the outcome, time and unit</td></tr></tbody></table>",
+        "May we attach A’s 48 mL to C to make an attractive pattern?",
+        "No. Keep every value with its correct sample."
+      ],
+      [
+        "Construct equal-scale columns",
+        "Label both axes, include units, use equal intervals and make column heights proportional to the data. Here the vertical scale begins at zero.",
+        "<div class=\"evidence\"><strong>Graph check</strong><p>A = 48 mL, B = 36 mL, C = 24 mL. A’s column is twice C’s height on this zero-based scale.</p></div>",
+        "Would equal-height columns show these three values faithfully?",
+        "No. The values differ, so equal heights would misrepresent them."
+      ],
+      [
+        "Describe a pattern and a model’s limit",
+        "In this example, A collected the most water and C the least. A physical model could use one counter for 12 mL: four counters for A, three for B and two for C.",
+        "<table><thead><tr><th scope=\"col\">Sample</th><th scope=\"col\">Model: 1 counter = 12 mL</th></tr></thead><tbody><tr><td>A</td><td>4 counters</td></tr><tr><td>B</td><td>3 counters</td></tr><tr><td>C</td><td>2 counters</td></tr></tbody></table>",
+        "Does a drainage model show every property of the soil?",
+        "No. It represents selected measurements, not all soil features or causes."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“A graph can change the data to look smoother.”",
+        "Its values must agree with the source record."
+      ],
+      [
+        "“A model is the complete real system.”",
+        "State what the model shows and what it leaves out."
+      ]
+    ],
+    "activityTitle": "Build and check a representation",
+    "activity": "2 minutes: read the table headings. 5 minutes: draw a labelled column graph or make the 12 mL-per-counter model. 3 minutes: check each value and explain one pattern and one limitation.",
+    "adjust": "Support: use provided axes or counters. Extend: identify how a misleading scale or changed key could distort the message.",
+    "safety": "Use supplied data and age-appropriate counters. Never drink water used in soil investigations.",
+    "tricky": [
+      [
+        "Does A, B, C on the horizontal axis mean the samples were measured at three different times?",
+        "No. They are sample labels. All three records use the same two-minute collection period."
+      ],
+      [
+        "Is C exactly half of A in these supplied records?",
+        "Yes. 24 mL is half of 48 mL."
+      ],
+      [
+        "If a record is missing, should its column be drawn as zero?",
+        "No. Missing and zero mean different things; mark the missing observation clearly."
+      ]
+    ],
+    "faq": [
+      [
+        "Why use a column graph?",
+        "It can make comparisons between categories easy to see while retaining the table for exact values."
+      ],
+      [
+        "What makes a model useful?",
+        "It shows a chosen idea or relationship clearly, with an accurate key and stated limits."
+      ]
+    ]
+  }
+]

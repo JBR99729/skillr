@@ -17,7 +17,16 @@ export function validateTopicActivities(html, code, root = process.cwd()) {
   const bank = appBanks(root).get(code);
   const links = hrefs(html);
   const expected = `https://app.skillrhub.com/?${bank?.guestPractice ? 'try' : 'login'}=1&skill=${code}`;
-  if (bank?.practice && !links.includes(expected)) errors.push(`${code}: missing published app practice link ${expected}`);
+  const canonical = html.match(/<link\b[^>]*rel=["']canonical["'][^>]*href=["']([^"']+)/i)?.[1]?.replaceAll('&amp;', '&');
+  const matchingPractice = href => {
+    const url = new URL(href, 'https://skillrhub.com/');
+    if (url.searchParams.has('returnTo')) {
+      if (!canonical || url.searchParams.getAll('returnTo').length !== 1 || url.searchParams.get('returnTo') !== canonical) return false;
+      url.searchParams.delete('returnTo');
+    }
+    return url.href === expected;
+  };
+  if (bank?.practice && !links.some(matchingPractice)) errors.push(`${code}: missing published app practice link ${expected}`);
   for (const href of links) {
     const url = new URL(href, 'https://skillrhub.com/');
     if (url.hostname === 'skillrhub.com' && /^\/quiz\/[^/]+\/[^/]+\/ac9[a-z0-9]+\/(practice|test|quiz)(?:\/|$)/i.test(url.pathname)) {
@@ -29,7 +38,7 @@ export function validateTopicActivities(html, code, root = process.cwd()) {
     if (target !== code) { errors.push(`${code}: app activity points to another code (${target})`); continue; }
     if (url.searchParams.has('assessment')) {
       if (!bank?.assessment) errors.push(`${code}: advertises an unavailable assessment`);
-    } else if (!bank?.practice || href !== expected) errors.push(`${code}: practice access does not match published availability (${href})`);
+    } else if (!bank?.practice || !matchingPractice(href)) errors.push(`${code}: practice access does not match published availability (${href})`);
   }
   return errors;
 }
