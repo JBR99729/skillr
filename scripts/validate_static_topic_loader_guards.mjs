@@ -32,9 +32,13 @@ if (
 }
 
 const legacyPwaPath = 'assets/pwa-register-legacy.js';
-const legacyPwa = read(legacyPwaPath);
+const compatPath = 'assets/pwa-curriculum-compat.mjs';
+const legacyPwa = read(compatPath);
+if (!read(legacyPwaPath).includes('window.__skillrStaticCurriculumTopic')) {
+  errors.push(`${legacyPwaPath}: canonical topic pages must skip the legacy curriculum module`);
+}
 if (!/ac9e2la0\[1-3\]\\\/quiz/.test(legacyPwa)) {
-  errors.push(`${legacyPwaPath}: delegated Year 2 LA01-03 Quiz loader route is missing`);
+  errors.push(`${compatPath}: delegated Year 2 LA01-03 Quiz loader route is missing`);
 }
 
 const visualPath = 'assets/curriculum-visual-layer.js';
@@ -49,7 +53,7 @@ if (!/curriculum-visual-layer-interactive\.js/.test(visual)) {
   errors.push(`${visualPath}: interactive-resource implementation must remain separated from canonical topic pages`);
 }
 
-for (const required of [legacyPwaPath, 'assets/curriculum-visual-layer-interactive.js']) {
+for (const required of [legacyPwaPath, compatPath, 'assets/curriculum-visual-layer-interactive.js']) {
   if (!fs.existsSync(required)) errors.push(`${required}: required internal interactive utility asset is missing`);
 }
 

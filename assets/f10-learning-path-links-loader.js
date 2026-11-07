@@ -7,7 +7,7 @@
   css.href = "/assets/f10-learning-path-links.css?v=1";
   document.head.appendChild(css);
   const script = document.createElement("script");
-  script.src = "/assets/f10-learning-path-links.js?v=1";
+  script.src = "/assets/f10-learning-path-links.js?v=2";
   script.defer = true;
   document.head.appendChild(script);
 })();
