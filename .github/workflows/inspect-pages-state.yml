@@ -1,0 +1,38 @@
+name: Inspect Pages backend state
+on:
+  push:
+    branches: [ops/inspect-pages-state-20261108]
+permissions:
+  contents: read
+  pages: read
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - name: Read Pages deployment states without changing them
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          node <<'NODE'
+          const repo = process.env.GITHUB_REPOSITORY;
+          const checks = [
+            ["latest_timeout", "07dcb6f478f009722bf30deb2f22daab28f16753"],
+            ["previous_timeout", "f66fe6c6b45e641e7403a620a249e9d299f7d155"],
+            ["first_timeout", "4023119cc0224ea924886cbdb5b5e8ad50c9a91a"],
+            ["last_success", "a8df4b6cf7fcc6f1f88e85b637b02094535e3114"]
+          ];
+          for (const [label, id] of checks) {
+            const response = await fetch("https://api.github.com/repos/" + repo + "/pages/deployments/" + id, {
+              method: "GET",
+              headers: {
+                Accept: "application/vnd.github+json",
+                Authorization: "Bearer " + process.env.GH_TOKEN,
+                "X-GitHub-Api-Version": "2026-03-10"
+              },
+              signal: AbortSignal.timeout(20000)
+            });
+            const body = await response.json();
+            console.log(JSON.stringify({label, deployment: id, http_status: response.status, body}));
+          }
+          NODE
