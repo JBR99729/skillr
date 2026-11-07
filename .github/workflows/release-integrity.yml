@@ -27,3 +27,6 @@ jobs:
           python3 scripts/retire_legacy_quiz_routes.py
       - name: Check static learning and resource discovery
         run: python3 scripts/validate_discovery_navigation.py
+
+      - name: Check static and shared breadcrumb preservation
+        run: node --test scripts/tests/test_breadcrumb_preservation.mjs scripts/tests/test_geo_breadcrumbs.mjs
