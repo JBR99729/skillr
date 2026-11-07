@@ -85,6 +85,17 @@ def visible_search_text(source):
  parser=VisibleTextParser();parser.feed(source)
  return search_words(" ".join(parser.parts))
 
+def write_home_topic_index(items):
+ seen=set()
+ topics=[]
+ for item in items:
+  url=item["u"]
+  if item.get("e") or url in seen or not re.fullmatch(r"/(foundation|year[0-9]+)/(maths|english|science)/ac9[^/]+/",url,re.I):
+   continue
+  seen.add(url)
+  topics.append(item)
+ (ROOT/"assets"/"home-topic-index.json").write_text(json.dumps({"items":topics},ensure_ascii=False,separators=(",",":"))+"\n",encoding="utf-8")
+
 def write_search_index(pages):
  items=[{"t":title,"u":url,"x":visible_search_text(source)} for url,title,_,source in pages]
  manifest=ROOT/"data"/"curriculum-units.json"
@@ -99,6 +110,7 @@ def write_search_index(pages):
     items.append({"t":title,"u":unit.get("url",""),"x":search_words(searchable),"e":1})
  items=[item for item in items if item["t"] and item["u"]]
  (ROOT/"assets"/"site-search-index.json").write_text(json.dumps({"items":items},ensure_ascii=False,separators=(",",":"))+"\n",encoding="utf-8")
+ write_home_topic_index(items)
  return len(items)
 def route(path):
  v=path.as_posix()

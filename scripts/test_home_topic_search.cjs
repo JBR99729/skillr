@@ -8,7 +8,7 @@ const root = path.join(__dirname, '..');
 const source = fs.readFileSync(path.join(root, 'assets/home-topic-search.js'), 'utf8');
 const json = filename => JSON.parse(fs.readFileSync(path.join(root, filename), 'utf8'));
 const catalogue = {
-  '/assets/site-search-index.json': json('assets/site-search-index.json'),
+  '/assets/home-topic-index.json': json('assets/home-topic-index.json'),
   '/data/app-question-banks.json': json('data/app-question-banks.json'),
   '/data/print-and-go-products.json': json('data/print-and-go-products.json'),
 };
@@ -25,7 +25,7 @@ function element() {
   };
 }
 
-async function search(query, data = catalogue) {
+async function search(query, data = catalogue, onReady) {
   const elements = new Map();
   const find = id => {
     if (!elements.has(id)) elements.set(id, element());
@@ -38,16 +38,21 @@ async function search(query, data = catalogue) {
     },
     location: { search: query }, URL, URLSearchParams,
     fetch: async url => {
-      const payload = data[url.split('?')[0]];
+      const payload = await data[url.split('?')[0]];
       return { ok: Boolean(payload), json: async () => payload };
     },
   });
-  await new Promise(resolve => setImmediate(resolve));
-  return find('#site-search-list').children.map(row => ({
+  const results = () => find('#site-search-list').children.map(row => ({
     guide: row.children[0].href,
     meta: row.children[1].textContent,
     actions: row.children[2].children.map(link => link.href),
   }));
+  await new Promise(resolve => setImmediate(resolve));
+  if (onReady) {
+    onReady(results());
+    await new Promise(resolve => setImmediate(resolve));
+  }
+  return results();
 }
 
 test('Year 1 Maths preset includes the published Numbers to 120 practice', async () => {
@@ -83,4 +88,19 @@ test('Unavailable banks and untrusted product URLs yield only a topic guide', as
   });
   assert.equal(rows.length, 1);
   assert.deepEqual(rows[0].actions, []);
+});
+
+test('Topic guides and practice appear while paid products are still loading', async () => {
+  let finishProducts;
+  const products = new Promise(resolve => { finishProducts = resolve; });
+  const rows = await search('?q=AC9M1N01', {
+    ...catalogue,
+    '/data/print-and-go-products.json': products,
+  }, ready => {
+    assert.equal(ready.length, 1);
+    assert.ok(ready[0].actions.includes('https://app.skillrhub.com/?try=1&skill=AC9M1N01'));
+    assert.equal(ready[0].actions.some(link => link.includes('teacherspayteachers')), false);
+    finishProducts(catalogue['/data/print-and-go-products.json']);
+  });
+  assert.ok(rows[0].actions.some(link => link.includes('teacherspayteachers')));
 });
