@@ -35,7 +35,7 @@ function routeFromFile(file) {
 
 function topicContext(file) {
   const match = rel(file).match(/^(foundation|year(?:[1-9]|10))\/(maths|science|english)\/(?:[^/]+\/index\.html|(?!index\.html$)[^/]+\.html)$/i);
-  return match && { year: match[1].toLowerCase(), subject: match[2].toLowerCase() };
+  return match && { year: match[1].toLowerCase(), subject: match[2].toLowerCase(), url: ORIGIN + routeFromFile(file) };
 }
 
 function learnRoute(year, subject) {
@@ -44,7 +44,7 @@ function learnRoute(year, subject) {
 }
 
 function topicBreadcrumbUrl(value, context) {
-  const target = new URL(value.replaceAll('&amp;', '&'), ORIGIN);
+  const target = new URL(value.replaceAll('&amp;', '&'), context.url);
   if (target.origin !== ORIGIN) return value;
   const route = target.pathname.replace(/index\.html$/i, '').replace(/\/$/, '');
   if ([`/${context.year}`, `/${context.year}/curriculum`].includes(route)) {
@@ -61,10 +61,24 @@ function migrateTopicBreadcrumbs(html, context, schema) {
   let found = false;
   let next = html.replace(breadcrumb, block => {
     found = true;
-    return block.replace(/(\bhref\s*=\s*)(["'])([^"']*)\2/gi, (attribute, prefix, quote, value) => {
+    let updated = block.replace(/(\bhref\s*=\s*)(["'])([^"']*)\2/gi, (attribute, prefix, quote, value) => {
       const destination = topicBreadcrumbUrl(value, context);
       return destination === value ? attribute : `${prefix}${quote}${destination.replaceAll('&', '&amp;')}${quote}`;
     });
+    const subjectRoute = learnRoute(context.year, context.subject);
+    const links = [...updated.matchAll(/\bhref\s*=\s*["']([^"']*)["']/gi)];
+    if (!links.some(link => link[1].replaceAll('&amp;', '&').split('#')[0] === subjectRoute)) {
+      const link = `<a href="${subjectRoute.replaceAll('&', '&amp;')}">${yearLabel(context.year)} ${SUBJECTS[context.subject]}</a>`;
+      if (/<ol\b/i.test(updated)) {
+        const item = `<li>${link}</li>`;
+        const current = /<li\b[^>]*aria-current=["']page["'][^>]*>/i;
+        updated = current.test(updated) ? updated.replace(current, opening => item + opening) : updated.replace(/<\/ol>/i, item + '</ol>');
+      } else {
+        const current = /<span\b[^>]*aria-current=["']page["'][^>]*>/i;
+        updated = current.test(updated) ? updated.replace(current, opening => `${link} &rsaquo; ${opening}`) : updated.replace(/(<\/(?:nav|div|p)>\s*)$/i, ` &rsaquo; ${link}$1`);
+      }
+    }
+    return updated;
   });
   if (!found) {
     const links = schema.itemListElement.slice(0, -1).map(item =>

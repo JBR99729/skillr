@@ -58,7 +58,7 @@ test('all years and subjects return to Learn in static HTML and nested breadcrum
           { '@type': 'LearningResource', name: 'Preserve this exact lesson' },
           { '@type': 'BreadcrumbList', itemListElement: items.map((item, i) => ({ '@type': 'ListItem', position: i + 1, name: `Step ${i}`, item: { '@id': 'https://skillrhub.com' + item } })) },
         ] };
-        const crumb = subject === 'english' ? '' : `<nav class="crumb"><a href="https://skillrhub.com/${folder}/">Year</a><a href="/${folder}/curriculum/${subject}/">Subject</a></nav>`;
+        const crumb = subject === 'english' ? '' : subject === 'science' ? '<nav aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li aria-current="page">Current topic</li></ol></nav>' : `<nav class="crumb"><a href="https://skillrhub.com/${folder}/">Year</a><a href="/${folder}/curriculum/${subject}/">Subject</a></nav>`;
         const file = path.join(dir, route, 'index.html');
         fs.mkdirSync(path.dirname(file), { recursive: true });
         fs.writeFileSync(file, `<html><head><title>Example</title><script type="application/ld+json">${JSON.stringify(graph)}</script></head><body><main>${crumb}<h1>Keep all teaching content</h1></main></body></html>`);
@@ -66,7 +66,7 @@ test('all years and subjects return to Learn in static HTML and nested breadcrum
       }
     }
     const legacy = path.join(dir, 'foundation/maths/legacy-topic.html');
-    fs.writeFileSync(legacy, '<html><head><title>AC9MFN01</title></head><body><main><nav class="breadcrumb"><a href="/foundation/curriculum/maths/">Maths</a></nav><h1>Legacy lesson</h1></main></body></html>');
+    fs.writeFileSync(legacy, '<html><head><title>AC9MFN01</title></head><body><main><nav class="breadcrumb"><a href="../../">Home</a><a href="../">Foundation</a><a href="./">Maths</a></nav><h1>Legacy lesson</h1></main></body></html>');
     const excluded = path.join(dir, 'foundation/maths/retired.html');
     const excludedHtml = '<html><head><meta name="robots" content="noindex,follow"></head><body>Retired route</body></html>';
     fs.writeFileSync(excluded, excludedHtml);
@@ -84,6 +84,8 @@ test('all years and subjects return to Learn in static HTML and nested breadcrum
       assert.equal(items.at(-1).item['@id'], url);
     }
     assert.ok(fs.readFileSync(legacy, 'utf8').includes('href="/learn/?year=0&amp;subject=maths"'));
+    assert.ok(fs.readFileSync(legacy, 'utf8').includes('href="/learn/?year=0"'));
+    assert.ok(fs.readFileSync(legacy, 'utf8').includes('href="../../">Home</a>'));
     assert.equal(fs.readFileSync(excluded, 'utf8'), excludedHtml);
     assert.equal(spawnSync(process.execPath, [script, '--check'], { cwd: dir }).status, 0);
   } finally { fs.rmSync(dir, { recursive: true, force: true }); }

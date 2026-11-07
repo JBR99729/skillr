@@ -5,11 +5,18 @@ on:
     branches: [main]
     paths:
       - 'scripts/inject_static_breadcrumb_schema.mjs'
+      - 'scripts/tests/test_breadcrumb_preservation.mjs'
       - '.github/workflows/migrate-static-breadcrumb-schema.yml'
+      - 'foundation/**/*.html'
+      - 'year*/**/*.html'
   workflow_dispatch:
 
 permissions:
   contents: write
+
+concurrency:
+  group: static-breadcrumbs
+  cancel-in-progress: true
 
 jobs:
   migrate:
