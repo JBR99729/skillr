@@ -20,7 +20,7 @@ function walk(dir, out = []) {
   for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
     const full = path.join(dir, entry.name);
     if (entry.isDirectory()) walk(full, out);
-    else if (entry.isFile() && entry.name === 'index.html') out.push(full);
+    else if (entry.isFile() && entry.name.endsWith('.html')) out.push(full);
   }
   return out;
 }
@@ -31,6 +31,66 @@ function rel(file) {
 
 function routeFromFile(file) {
   return `/${rel(file).replace(/index\.html$/i, '')}`;
+}
+
+function topicContext(file) {
+  const match = rel(file).match(/^(foundation|year(?:[1-9]|10))\/(maths|science|english)\/(?:[^/]+\/index\.html|(?!index\.html$)[^/]+\.html)$/i);
+  return match && { year: match[1].toLowerCase(), subject: match[2].toLowerCase() };
+}
+
+function learnRoute(year, subject) {
+  const number = year === 'foundation' ? '0' : year.slice(4);
+  return `/learn/?year=${number}${subject ? `&subject=${subject}` : ''}`;
+}
+
+function topicBreadcrumbUrl(value, context) {
+  const target = new URL(value.replaceAll('&amp;', '&'), ORIGIN);
+  if (target.origin !== ORIGIN) return value;
+  const route = target.pathname.replace(/index\.html$/i, '').replace(/\/$/, '');
+  if ([`/${context.year}`, `/${context.year}/curriculum`].includes(route)) {
+    return `${learnRoute(context.year)}${target.hash}`;
+  }
+  if ([`/${context.year}/curriculum/${context.subject}`, `/${context.year}/${context.subject}`].includes(route)) {
+    return `${learnRoute(context.year, context.subject)}${target.hash}`;
+  }
+  return value;
+}
+
+function migrateTopicBreadcrumbs(html, context, schema) {
+  const breadcrumb = /<(nav|ol|div|p)\b(?=[^>]*(?:\baria-label\s*=\s*["']breadcrumbs?["']|\bclass\s*=\s*["'][^"']*\b(?:crumb|breadcrumbs?)\b))[^>]*>[\s\S]*?<\/\1>/gi;
+  let found = false;
+  let next = html.replace(breadcrumb, block => {
+    found = true;
+    return block.replace(/(\bhref\s*=\s*)(["'])([^"']*)\2/gi, (attribute, prefix, quote, value) => {
+      const destination = topicBreadcrumbUrl(value, context);
+      return destination === value ? attribute : `${prefix}${quote}${destination.replaceAll('&', '&amp;')}${quote}`;
+    });
+  });
+  if (!found) {
+    const links = schema.itemListElement.slice(0, -1).map(item =>
+      `<a href="${item.item.replace(ORIGIN, '').replaceAll('&', '&amp;')}">${item.name}</a>`
+    );
+    const crumb = `<nav class="breadcrumb" aria-label="Breadcrumb">${links.join(' &rsaquo; ')} &rsaquo; <span aria-current="page">${schema.itemListElement.at(-1).name}</span></nav>`;
+    const container = /<(?:main\b[^>]*|div\b[^>]*class=["'][^"']*\bcurriculum-page\b[^"']*["'][^>]*)>/i;
+    next = next.replace(container, opening => `${opening}\n${crumb}`);
+  }
+  return next.replace(/(<script\b[^>]*type=["']application\/ld\+json["'][^>]*>)([\s\S]*?)(<\/script>)/gi, (block, opening, source, closing) => {
+    let value;
+    try { value = JSON.parse(source); } catch { return block; }
+    let changed = false;
+    for (const node of breadcrumbNodes(value)) {
+      for (const item of node.itemListElement || []) {
+        const url = typeof item.item === 'string' ? item.item : item.item?.['@id'];
+        if (typeof url !== 'string') continue;
+        const destination = topicBreadcrumbUrl(url, context);
+        if (destination === url) continue;
+        if (typeof item.item === 'string') item.item = ORIGIN + destination;
+        else item.item['@id'] = ORIGIN + destination;
+        changed = true;
+      }
+    }
+    return changed ? `${opening}${JSON.stringify(value)}${closing}` : block;
+  });
 }
 
 function extractCode(html, route) {
@@ -51,7 +111,7 @@ function extractCode(html, route) {
 function schemaFor(file, html) {
   const r = rel(file);
   const route = routeFromFile(file);
-  const topic = r.match(/^(foundation|year(?:[1-9]|10))\/(maths|science|english)\/([^/]+)\/index\.html$/i);
+  const topic = r.match(/^(foundation|year(?:[1-9]|10))\/(maths|science|english)\/(?:[^/]+\/index\.html|(?!index\.html$)[^/]+\.html)$/i);
   const hub = r.match(/^(foundation|year(?:[1-9]|10))\/curriculum\/(maths|science|english)\/index\.html$/i);
   const match = topic || hub;
   if (!match) return null;
@@ -62,8 +122,8 @@ function schemaFor(file, html) {
   const subject = SUBJECTS[subjectSlug];
   const items = [
     { name: 'Home', url: `${ORIGIN}/` },
-    { name: year, url: `${ORIGIN}/${yearSlug}/` },
-    { name: subject, url: `${ORIGIN}/${yearSlug}/curriculum/${subjectSlug}/` },
+    { name: year, url: topic ? ORIGIN + learnRoute(yearSlug) : `${ORIGIN}/${yearSlug}/` },
+    { name: subject, url: topic ? ORIGIN + learnRoute(yearSlug, subjectSlug) : `${ORIGIN}/${yearSlug}/curriculum/${subjectSlug}/` },
   ];
   if (topic) {
     const code = extractCode(html, route);
@@ -132,13 +192,23 @@ let invalid = 0;
 
 for (const file of files) {
   let html = fs.readFileSync(file, 'utf8');
+  const originalHtml = html;
   if (/<meta\b[^>]*name=["']robots["'][^>]*content=["'][^"']*noindex/i.test(html)) continue;
   const schema = schemaFor(file, html);
   if (!schema) continue;
   eligible += 1;
 
+  const context = topicContext(file);
+  if (context) html = migrateTopicBreadcrumbs(html, context, schema);
+
   const existing = existingBreadcrumb(html, schema);
-  if (existing.valid) continue;
+  if (existing.valid) {
+    if (html !== originalHtml) {
+      changed += 1;
+      if (!CHECK) fs.writeFileSync(file, html, 'utf8');
+    }
+    continue;
+  }
   if (existing.malformed) {
     invalid += 1;
     console.error(`${rel(file)}: invalid JSON-LD; leave the enclosing document untouched`);
@@ -169,7 +239,7 @@ for (const file of files) {
   }
 
   if (!next.includes('id="skillrhub-breadcrumb-jsonld"')) missing += 1;
-  if (next !== html) {
+  if (next !== originalHtml) {
     changed += 1;
     if (!CHECK) fs.writeFileSync(file, next, 'utf8');
   }

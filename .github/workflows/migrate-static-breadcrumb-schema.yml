@@ -26,7 +26,9 @@ jobs:
           node-version: '22'
 
       - name: Embed BreadcrumbList in static HTML
-        run: node scripts/inject_static_breadcrumb_schema.mjs
+        run: |
+          node --test scripts/tests/test_breadcrumb_preservation.mjs
+          node scripts/inject_static_breadcrumb_schema.mjs
 
       - name: Validate generated breadcrumb schema
         run: node scripts/inject_static_breadcrumb_schema.mjs --check
@@ -45,6 +47,7 @@ jobs:
             exit 0
           fi
           git commit -m 'Embed static breadcrumb schema'
+          node scripts/check_release_integrity.mjs "$base" HEAD
           git fetch origin main
           if [ "$(git rev-parse origin/main)" != "$base" ]; then
             echo 'Main advanced during breadcrumb migration; rerun on current main.'
