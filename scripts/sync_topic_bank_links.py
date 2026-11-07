@@ -69,8 +69,10 @@ def rewrite(source,code,bank):
  else:
   if not re.search(r'</body>',out,re.I):raise ValueError('Topic has no body: '+code)
   out=re.sub(r'</body>',lambda m:link+'\n'+m.group(),out,count=1,flags=re.I)
- css='<link rel="stylesheet" href="/assets/topic-practice-link.css?v=20261107-all-topics">'
- if css not in out:out=re.sub(r'</head>',lambda m:css+'\n'+m.group(),out,count=1,flags=re.I)
+ css='<link rel="stylesheet" href="/assets/topic-practice-link.css?v=20261107-all-topics-2">'
+ old_css=r'<link\b[^>]*href=["\']/assets/topic-practice-link\.css(?:\?[^"\']*)?["\'][^>]*>'
+ if re.search(old_css,out,re.I):out=re.sub(old_css,lambda m:css,out,flags=re.I)
+ else:out=re.sub(r'</head>',lambda m:css+'\n'+m.group(),out,count=1,flags=re.I)
 
  return out
 
