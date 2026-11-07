@@ -1,6 +1,6 @@
 # Year 3 Science illustrated topic pages, batch 1 — 7 November 2026
 
-Status: review build; not a production release.
+Status: historical ten-page batch snapshot; not a production release. The full twelve-page content set is now recorded in [the completion handoff](../year3-science-topic-pages-complete-20261107/README.md).
 Baseline: `4023119cc0224ea924886cbdb5b5e8ad50c9a91a` in JBR99729/skillr.
 
 ## Scope and next work

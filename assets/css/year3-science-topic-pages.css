@@ -70,3 +70,6 @@
 #skillr-topic-variants .chart-wrap{max-width:680px;margin:12px auto}#skillr-topic-variants .chart-wrap svg{width:100%;height:auto;display:block}#skillr-topic-variants .cycle{display:grid;gap:8px;grid-template-columns:repeat(auto-fit,minmax(130px,1fr))}#skillr-topic-variants .cycle span{padding:8px;background:var(--wash);border:1px solid var(--line);border-radius:8px}
 
 #skillr-topic-variants .thermometer-model{max-width:280px}
+
+/* The retained report diagram uses a content div, not a nested page main. */
+#skillr-topic-variants .y3-layout .report-model-body{border:1px solid #d9e5f5;border-radius:8px;background:#fff;padding:8px;display:flex;flex-wrap:wrap;gap:6px;align-content:flex-start}#skillr-topic-variants .y3-layout .report-model-body span{border-radius:8px;background:#f7faff;padding:6px;border:1px solid #d9e5f5}
