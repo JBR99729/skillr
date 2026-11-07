@@ -3,6 +3,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 
 const root = 'year9/maths';
+const appBanks = new Map(JSON.parse(fs.readFileSync('data/app-question-banks.json', 'utf8')).codes.map(bank => [bank.code, bank]));
 const expected = [
   'AC9M9N01',
   ...Array.from({length:6},(_,i)=>`AC9M9A0${i+1}`),
@@ -48,9 +49,29 @@ for(const entry of fs.readdirSync(root,{withFileTypes:true})){
   for(const id of requiredIds){if(!new RegExp(`\\bid=["']${id}["']`,'i').test(html)) problems.push(`missing #${id}`);}
   if(!/href=["'][^"']*teacher-slides[^"']*\//i.test(html)) problems.push('missing Teacher Slides route');
   if(!/href=["'][^"']*\/worksheet\//i.test(html)) problems.push('missing Practice Sheet/worksheet route');
-  if(!/href=["'][^"']*\/homework\//i.test(html)) problems.push('missing Homework route');
-  if(!/href=["'][^"']*\/practice\//i.test(html)) problems.push('missing Practice route');
-  if(!/href=["'][^"']*\/test\//i.test(html)) problems.push('missing Test route');
+  const hrefs = [...html.matchAll(/href=["']([^"']+)["']/gi)].map(match => match[1].replaceAll('&amp;', '&'));
+  const homework = `/quiz/year-9/math/${code.toLowerCase()}/homework/`;
+  const homeworkPath = `.${homework}index.html`;
+  if (!hrefs.includes(homework) || !fs.existsSync(homeworkPath) || isRedirect(fs.readFileSync(homeworkPath, 'utf8'))) {
+    problems.push('missing authored Homework destination');
+  }
+  const bank = appBanks.get(code);
+  const app = 'https://app.skillrhub.com/';
+  const practice = `${app}?${bank?.guestPractice ? 'try' : 'login'}=1&skill=${code}`;
+  const test = `${app}?assessment=${code}`;
+  for (const [label, enabled, destination] of [
+    ['Practice', bank?.practice, practice],
+    ['Test', bank?.assessment, test],
+  ]) {
+    if (enabled && !hrefs.includes(destination)) problems.push(`missing published ${label} link`);
+    const alternativePractice = `${app}?${bank?.guestPractice ? 'login' : 'try'}=1&skill=${code}`;
+    if (!enabled && (hrefs.includes(destination) || (label === 'Practice' && hrefs.includes(alternativePractice)))) {
+      problems.push(`unpublished ${label} linked`);
+    }
+  }
+  if (hrefs.some(href => /\/quiz\/year-9\/math\/[^/]+\/(practice|test)\//i.test(href))) {
+    problems.push('retired Practice or Test route linked');
+  }
   if(!/data-report-issue/i.test(html)||!/report-issue\.js/i.test(html)) problems.push('missing Report issue control');
   if(!/G-8P22BET45N/.test(html)) problems.push('analytics regression');
   if(liCount(sectionBlock(html,'learn'))<4) problems.push('learning goals too thin');
