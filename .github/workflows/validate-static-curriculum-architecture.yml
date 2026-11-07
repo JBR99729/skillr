@@ -7,6 +7,7 @@ on:
       - 'year*/**/index.html'
       - 'pwa-register.js'
       - 'assets/pwa-register-legacy.js'
+      - 'assets/pwa-curriculum-compat.mjs'
       - 'assets/curriculum-visual-layer.js'
       - 'assets/curriculum-visual-layer-interactive.js'
       - 'assets/year7-router.js'
