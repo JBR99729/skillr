@@ -14,7 +14,7 @@ function loadAssembledBank(code, bank) {
   const scripts = [...html.matchAll(/<script[^>]+src=["']([^"']*questions[^"']*\.js[^"']*)["'][^>]*>/gi)]
     .map((match) => match[1].split("?")[0].replace(/^\//, ""));
   if (html.includes('data-legacy-quiz-retired=')) {
-    validateRetiredActivity(html, code, root).forEach(fail);
+    validateRetiredActivity(html, code, bank, root).forEach(fail);
     // Preserve archived bank identity checks without expecting the retired
     // player to execute those scripts in a visitor's browser.
     scripts.push(path.join(route, 'questions.js'));

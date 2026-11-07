@@ -9,13 +9,16 @@ from retire_legacy_quiz_routes import APP, destination, legacy_path, moved_page,
 
 BANKS = {
     'AC9M1N01': {'practice': True, 'guestPractice': True},
-    'AC9M7P01': {'practice': True, 'guestPractice': False},
+    'AC9M7P01': {'practice': True, 'guestPractice': False, 'assessment': True},
     'AC9M9N01': {'practice': False},
 }
 
 class RoutingTests(unittest.TestCase):
     def test_exact_code_and_access_route(self):
-        self.assertEqual(destination('/quiz/year-1/math/ac9m1n01/test/result/',BANKS),APP+'?try=1&skill=AC9M1N01')
+        self.assertEqual(destination('/quiz/year-1/math/ac9m1n01/practice/',BANKS),APP+'?try=1&skill=AC9M1N01')
+        self.assertEqual(destination('/quiz/year-1/math/ac9m1n01/test/result/',BANKS),APP)
+        self.assertEqual(destination('/quiz/year-7/math/ac9m7p01/test/result/',BANKS),APP+'?assessment=AC9M7P01')
+        self.assertEqual(destination('/quiz/year-7/math/ac9m7p01/test.html',BANKS),APP+'?assessment=AC9M7P01')
         self.assertEqual(destination('/quiz/year-7/math/ac9m7p01/practice/',BANKS),APP+'?login=1&skill=AC9M7P01')
         self.assertEqual(destination('/quiz/year-9/math/ac9m9n01/',BANKS),APP)
         self.assertEqual(destination('/quiz/year-10/science/ac9s10u01/test/',BANKS),APP)
@@ -29,8 +32,8 @@ class RoutingTests(unittest.TestCase):
     def test_native_links_comments_scripts_and_teaching(self):
         source='''<h1>Original lesson</h1><p>Original model and worked example.</p><a href="../../quiz/year-7/math/ac9m7p01/test/?score=5#name">Test</a><a href="https://other.example/quiz/code/">Other</a><!-- <a href="/quiz/old/">archive</a> --><script>const href="/quiz/old/";</script>'''
         result=rewrite_html(source,'year7/maths/index.html',BANKS)
-        self.assertIn('href="https://app.skillrhub.com/?login=1&amp;skill=AC9M7P01"',result)
-        self.assertIn('>Practice now →</a>',result)
+        self.assertIn('href="https://app.skillrhub.com/?assessment=AC9M7P01"',result)
+        self.assertIn('>Open assessment →</a>',result)
         self.assertIn('<h1>Original lesson</h1><p>Original model and worked example.</p>',result)
         self.assertIn('https://other.example/quiz/code/',result)
         self.assertIn('<!-- <a href="/quiz/old/">archive</a> -->',result)

@@ -35,8 +35,10 @@ def destination(path, banks):
     if not legacy_path(path): return None
     match = re.search(r'/(ac9[a-z0-9]+)(?:/|$)', unquote(path), re.I)
     code = match[1].upper() if match else None
-    bank = banks.get(code)
-    if bank and bank.get('practice'):
+    bank = banks.get(code, {})
+    if re.search(r'/test(?:/|\.html$|$)', unquote(path), re.I):
+        return APP + '?assessment=' + code if bank.get('assessment') else APP
+    if bank.get('practice'):
         return APP + ('?try=1&skill=' if bank.get('guestPractice') else '?login=1&skill=') + code
     return APP
 
@@ -45,17 +47,21 @@ def moved_page(path, banks):
     escaped = html.escape(target, quote=True)
     match = re.search(r'/(ac9[a-z0-9]+)(?:/|$)', '/'+path, re.I)
     code = match[1].upper() if match else ''
-    message = ('Continue to the matching practice in the SkillrHub app.' if target != APP
+    assessment = target.startswith(APP + '?assessment=')
+    activity = 'assessment' if assessment else 'practice'
+    message = (f'Continue to the matching {activity} in the SkillrHub app.' if target != APP
                else 'This older activity has retired. Browse the currently available practice in the SkillrHub app.')
+    title = f'{activity.title()} has moved'
+    heading = 'Open your assessment in the SkillrHub app' if assessment else 'Continue practising in the SkillrHub app'
     label = html.escape((' — '+code) if code else '')
     return f'''<!doctype html>
 <html lang="en-AU" data-legacy-quiz-retired="2026-11-02"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="robots" content="noindex,follow"><meta http-equiv="refresh" content="0;url={escaped}">
-<link rel="canonical" href="{escaped}"><title>Practice has moved{label} | SkillrHub</title>
+<link rel="canonical" href="{escaped}"><title>{title}{label} | SkillrHub</title>
 <style>body{{font-family:Arial,sans-serif;line-height:1.6;max-width:42rem;margin:12vh auto;padding:1.5rem;color:#173968}}a{{display:inline-block;padding:.8rem 1.2rem;background:#173968;color:white;border-radius:.5rem}}</style>
-</head><body><main><h1>Continue practising in the SkillrHub app</h1><p>{message}</p>
-<a href="{escaped}">Open practice</a></main>
+</head><body><main><h1>{heading}</h1><p>{message}</p>
+<a href="{escaped}">Open {activity}</a></main>
 <script>location.replace({json.dumps(target)});</script></body></html>
 '''
 
@@ -75,10 +81,15 @@ def rewrite_html(source, relative, banks):
             link = re.search(r'\bhref\s*=\s*(["\'])(.*?)\1',opening,re.I|re.S)
             if link and rewrite_url(link[2],relative,banks)!=link[2]:
                 plain=html.unescape(re.sub('<[^>]+>','',label)).strip()
-                # Rename action buttons, not linked lesson/card headings.
+                target = html.unescape(rewrite_url(link[2],relative,banks))
+                assessment = target.startswith(APP + '?assessment=')
+                action = 'assessment' if assessment else 'practice'
+                # Preserve linked lesson/card headings.
                 if re.fullmatch(r'(?:start |take |open |free |go to )?(?:practice|quiz|test|assessment|retake)(?: now)?\s*[→↗]?',plain,re.I):
-                    label='Browse app practice →' if rewrite_url(link[2],relative,banks)==APP else 'Practice now →'
-                opening=re.sub(r'aria-label=(["\']).*?\1','aria-label="Open practice in SkillrHub"',opening,flags=re.I)
+                    label = 'Open assessment →' if assessment else 'Practice now →'
+                    if target == APP:
+                        label = 'Browse app practice →'
+                opening=re.sub(r'aria-label=(["\']).*?\1',f'aria-label="Open {action} in SkillrHub"',opening,flags=re.I)
             return opening+label+closing
         text=ANCHOR.sub(anchor,text)
         return ATTR.sub(lambda m:m['lead']+m['q']+rewrite_url(m['url'],relative,banks)+m['q'],text)

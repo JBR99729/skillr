@@ -136,7 +136,7 @@ for (const code of codes) {
     const route = `quiz/grade-k/math/${code.toLowerCase()}/${mode}/index.html`;
     const html = read(route);
     if (html.includes('data-legacy-quiz-retired=')) {
-      validateRetiredActivity(html, code, root).forEach(message => errors.push(message));
+      validateRetiredActivity(html, code, mode, root).forEach(message => errors.push(message));
       continue;
     }
     const configMatch = html.match(/window\.quizConfig=(\{.*?\});<\/script>/s);
