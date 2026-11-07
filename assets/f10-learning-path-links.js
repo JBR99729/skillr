@@ -5,6 +5,8 @@
   const topicMatch = path.match(/^\/(year(?:10|[1-9]))\/(maths|science|english)\/(ac9[a-z0-9]+-[^/]+)$/i);
   if (!topicMatch) return;
   if (document.querySelector('[data-skillr-learning-path]')) return;
+  // Static topic footers already provide accessible related-topic navigation.
+  if (document.querySelector('[data-learning-navigation-links]')) return;
 
   const STOP = new Set([
     "and","the","a","an","of","to","in","on","for","with","using","use","used","from","by","as","at","is","are","be","or","that","this","these","their","its","into","including","through","within","between","different","variety","ways","situations","contexts","objects","events","students","student","recognise","identify","describe","explore","explain","compare","create","apply","investigate","represent"
