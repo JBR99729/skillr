@@ -1,0 +1,12 @@
+[
+  {
+    "path": "assets/images/year2-science/sound-investigation.webp",
+    "method": "Built-in image generation; converted to WebP for deployment",
+    "prompt": "Realistic coloured-pencil and watercolour textbook illustration on warm off-white paper. Landscape 3:2, clean classroom table, hand drum with taut drumhead, soft-ended mallet, sturdy open cardboard box with one broad elastic band secured over its top, folded tea towel. Objects separate and clear. No people, hands, text, labels, arrows, numbers, vibration lines or volume/pitch encoded in artwork. Contextual scene, not a data diagram."
+  },
+  {
+    "path": "assets/images/year2-science/physical-changes.webp",
+    "method": "Built-in image generation; converted to WebP for deployment",
+    "prompt": "Realistic coloured-pencil and watercolour textbook illustration on warm off-white paper. Landscape 3:2, pale classroom table with flat and folded blue paper, rounded and flattened purple modelling dough, shallow transparent dish with partly melted ice and clear water. Objects separate, realistic textures. No tools, heat sources, people, hands, labels, arrows, words, numbers or logos. Contextual illustration, not a measured before-after diagram."
+  }
+]
