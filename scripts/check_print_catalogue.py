@@ -6,13 +6,15 @@ from urllib.parse import urlsplit
 import xml.etree.ElementTree as ET
 
 ROOT = Path(__file__).resolve().parents[1]
-PAGES = [ROOT / 'print-and-go.html', *sorted((ROOT / 'print-and-go').rglob('index.html'))]
+CATALOGUE = ROOT / 'products/index.html'
+PAGES = [CATALOGUE, *sorted((ROOT / 'print-and-go').rglob('index.html'))]
 
 
 class Page(HTMLParser):
     def __init__(self, text):
         super().__init__()
         self.links, self.schemas, self.canonicals = [], [], []
+        self.refreshes = []
         self.schema = None
         self.headings = 0
         self.feed(text)
@@ -25,6 +27,8 @@ class Page(HTMLParser):
             self.schema = ''
         if tag == 'link' and attrs.get('rel') == 'canonical':
             self.canonicals.append(attrs['href'])
+        if tag == 'meta' and attrs.get('http-equiv', '').lower() == 'refresh':
+            self.refreshes.append(attrs.get('content'))
         if tag in ('a', 'link', 'script', 'img'):
             self.links.append(attrs.get('href', attrs.get('src', '')))
         if 'unavailable' in attrs.get('class', '').split():
@@ -41,6 +45,10 @@ class Page(HTMLParser):
 
 
 sitemap = {node.text for node in ET.parse(ROOT / 'sitemap-site.xml').iter('{http://www.sitemaps.org/schemas/sitemap/0.9}loc')}
+legacy = Page((ROOT / 'print-and-go.html').read_text())
+assert legacy.canonicals == ['https://skillrhub.com/products/']
+assert legacy.refreshes == ['0; url=/products/']
+assert 'https://skillrhub.com/print-and-go.html' not in sitemap
 for path in PAGES:
     page = Page(path.read_text())
     url = 'https://skillrhub.com/' + str(path.relative_to(ROOT)).replace('/index.html', '/')
@@ -48,7 +56,7 @@ for path in PAGES:
     assert url in sitemap, url
     payload = page.schemas[0]
     graph = payload.get('@graph', [payload])
-    if path != ROOT / 'print-and-go.html':
+    if path != CATALOGUE:
         assert any(item['@type'] == 'BreadcrumbList' for item in graph)
     for link in page.links:
         parsed = urlsplit(link)
