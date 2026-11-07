@@ -1,0 +1,408 @@
+diff --git a/.github/workflows/release-integrity.yml b/.github/workflows/release-integrity.yml
+index 75354010f..3b4cd255a 100644
+--- a/.github/workflows/release-integrity.yml
++++ b/.github/workflows/release-integrity.yml
+@@ -28,5 +28,8 @@ jobs:
+       - name: Check static learning and resource discovery
+         run: python3 scripts/validate_discovery_navigation.py
+ 
++      - name: Keep retired learning hubs consolidated
++        run: python3 scripts/consolidate_learning_hubs.py
++
+       - name: Check static and shared breadcrumb preservation
+         run: node --test scripts/tests/test_breadcrumb_preservation.mjs scripts/tests/test_geo_breadcrumbs.mjs
+diff --git a/assets/f10-learning-path-links.js b/assets/f10-learning-path-links.js
+index fd8ce4118..d4782b726 100644
+--- a/assets/f10-learning-path-links.js
++++ b/assets/f10-learning-path-links.js
+@@ -119,7 +119,7 @@
+ 
+       const hub = document.createElement("p");
+       const hubLink = document.createElement("a");
+-      hubLink.href = `/${current.yearFolder}/curriculum/${current.subjectSlug}/`;
++      hubLink.href = `/learn/?year=${current.yearNumber}&subject=${current.subjectSlug}`;
+       hubLink.textContent = `Browse all ${yearLabel(current)} ${subjectLabel(current)} curriculum topics`;
+       hub.appendChild(hubLink);
+       section.append(title, intro, list, hub);
+diff --git a/scripts/generate_sitemap.py b/scripts/generate_sitemap.py
+index c74bda070..7f65fad93 100644
+--- a/scripts/generate_sitemap.py
++++ b/scripts/generate_sitemap.py
+@@ -234,6 +234,13 @@ def main():
+  for item in pages:
+   if human_sitemap_page(item[0]):
+    sections[human_sitemap_key(item[0])].append((item[0],human_sitemap_label(item[0],item[1]),item[2],item[3]))
++ # Human navigation retains year/subject choices; XML submits only /learn/.
++ for year in range(11):
++  key='foundation' if year==0 else f'year{year}'
++  label=SECTION_LABELS[key]
++  sections[key].append((f'/learn/?year={year}',f'{label} Australian Curriculum','',''))
++  for subject in ('maths','science','english'):
++   sections[key].append((f'/learn/?year={year}&subject={subject}',f'{label} {subject.title()} curriculum resources','',''))
+  html_order=["site","learn","teach","products","homeschooling-australia","foundation"]+[f"year{i}" for i in range(1,11)]+["mappings","help"]
+  keys=[k for k in html_order if k in sections]+sorted(set(sections)-set(html_order))
+  blocks=[]
+diff --git a/scripts/tidy_sitemap_html.py b/scripts/tidy_sitemap_html.py
+index 3fbd6bd01..0df624f8a 100644
+--- a/scripts/tidy_sitemap_html.py
++++ b/scripts/tidy_sitemap_html.py
+@@ -20,6 +20,7 @@ SUBJECTS = [("maths", "Maths"), ("science", "Science"), ("english", "English")]
+ 
+ 
+ def file_for_route(route: str) -> Path:
++    route = urlparse(html.unescape(route)).path
+     relative = route.lstrip("/")
+     if not relative:
+         return ROOT / "index.html"
+@@ -99,12 +100,13 @@ def main() -> None:
+     ]))
+ 
+     for slug, year_label in YEARS:
++        year = '0' if slug == 'foundation' else slug[4:]
+         items = [
+-            link(f"/{slug}/curriculum/", f"{year_label} Australian Curriculum", required=True),
++            link(f"/learn/?year={year}", f"{year_label} Australian Curriculum", required=True),
+         ]
+         for subject_slug, subject_label in SUBJECTS:
+             items.append(link(
+-                f"/{slug}/curriculum/{subject_slug}/",
++                f"/learn/?year={year}&subject={subject_slug}",
+                 f"{year_label} {subject_label} curriculum resources",
+                 required=True,
+             ))
+diff --git a/scripts/validate_google_sitemap_submission.py b/scripts/validate_google_sitemap_submission.py
+index 227444f14..7e327965e 100644
+--- a/scripts/validate_google_sitemap_submission.py
++++ b/scripts/validate_google_sitemap_submission.py
+@@ -3,6 +3,7 @@
+ from __future__ import annotations
+ 
+ import re
++import html
+ import sys
+ import xml.etree.ElementTree as ET
+ from pathlib import Path
+@@ -110,7 +111,7 @@ def main() -> None:
+         directory = human
+     else:
+         directory = directory_match.group(1)
+-    hrefs = re.findall(r'<a[^>]+href=["\']([^"\']+)', directory, re.I)
++    hrefs = [html.unescape(value) for value in re.findall(r'<a[^>]+href=["\']([^"\']+)', directory, re.I)]
+     if len(hrefs) != len(set(hrefs)):
+         errors.append("sitemap.html: duplicate curated links")
+     for href in hrefs:
+@@ -121,10 +122,10 @@ def main() -> None:
+             errors.append(f"sitemap.html: individual blog article makes the human directory too long: {href}")
+ 
+     required_human = {"/", "/worksheets/", "/blogs/", "/updates.html"}
+-    for slug, _label in [("foundation", "Foundation"), *[(f"year{i}", f"Year {i}") for i in range(1, 11)]]:
+-        required_human.add(f"/{slug}/curriculum/")
++    for year in range(11):
++        required_human.add(f"/learn/?year={year}")
+         for subject in ("maths", "science", "english"):
+-            required_human.add(f"/{slug}/curriculum/{subject}/")
++            required_human.add(f"/learn/?year={year}&subject={subject}")
+     missing = sorted(required_human - set(hrefs))
+     if missing:
+         errors.append(f"sitemap.html: missing required F–10 hub links: {', '.join(missing)}")
+diff --git a/scripts/consolidate_learning_hubs.py b/scripts/consolidate_learning_hubs.py
+new file mode 100644
+index 000000000..6601310f1
+--- /dev/null
++++ b/scripts/consolidate_learning_hubs.py
+@@ -0,0 +1,204 @@
++#!/usr/bin/env python3
++"""Keep retired learning entrances on the single filtered Learn catalogue.
++
++Owner-authorised consolidation, 7 November 2026. GitHub Pages cannot set server
++redirect rules; zero-second meta refresh is Google's permanent HTML redirect.
++Teaching topic pages, worksheets, blogs and teacher/product catalogues stay intact.
++"""
++import argparse
++import html
++import json
++import re
++import subprocess
++from pathlib import Path
++from html.parser import HTMLParser
++from urllib.parse import urljoin, urlsplit
++
++ROOT = Path(__file__).resolve().parents[1]
++ORIGIN = 'https://skillrhub.com'
++MARKER = 'data-learning-hub-retired="2026-11-07"'
++ARCHIVES = {'backup', 'reports', 'exports', 'docs', 'tests', 'scripts', 'artifacts',
++            'screenshots', '.github', 'curriculum-question-banks', 'node_modules'}
++PROTECTED = re.compile(r'(<!--[\s\S]*?-->|<script\b[^>]*>[\s\S]*?</script>|<style\b[^>]*>[\s\S]*?</style>)', re.I)
++ANCHOR = re.compile(r'<a\b[^>]*>', re.I)
++HREF = re.compile(r'(\bhref\s*=\s*)(["\'])(.*?)\2', re.I | re.S)
++FOOTER = re.compile(r'<!-- learning-navigation:start -->[\s\S]*?<!-- learning-navigation:end -->\s*')
++NAV_SCRIPT = '<script defer src="/assets/learning-navigation.js?v=20261107-flow"></script>'
++
++
++class Anchors(HTMLParser):
++    def __init__(self):
++        super().__init__()
++        self.links, self.href, self.label = [], None, []
++    def handle_starttag(self, tag, attrs):
++        if tag == 'a':
++            self.href, self.label = dict(attrs).get('href'), []
++    def handle_data(self, text):
++        if self.href:
++            self.label.append(text)
++    def handle_endtag(self, tag):
++        if tag == 'a' and self.href:
++            self.links.append((self.href, ' '.join(' '.join(self.label).split())))
++            self.href = None
++
++
++def topic_navigation(root):
++    from discovery_navigation import inventory, normalize
++    docs = inventory(root)
++    topics = {url: doc for url, doc in docs.items() if doc.code and doc.indexable}
++    changed = []
++    for url, doc in topics.items():
++        source = FOOTER.sub('', doc.source)
++        anchors = Anchors(); anchors.feed(source)
++        related = []
++        for href, label in anchors.links:
++            target = normalize(urljoin(url, href))
++            other = topics.get(target)
++            if not other or other.code == doc.code or other.relative.split('/')[1] != doc.relative.split('/')[1]:
++                continue
++            if target not in [item[0] for item in related]:
++                related.append((target, label or other.name))
++            if len(related) == 3:
++                break
++        level, subject = doc.relative.split('/')[:2]
++        year = '0' if level == 'foundation' else level[4:]
++        target = html.escape(f'/learn/?year={year}&subject={subject}', quote=True)
++        links = ''.join(f'<li><a href="{html.escape(urlsplit(u).path, quote=True)}">{html.escape(label)}</a></li>' for u, label in related)
++        block = f'''<!-- learning-navigation:start --><section data-learning-navigation-links aria-label="Useful topic links"><h2>Keep learning</h2><nav class="learning-return-links" aria-label="Return to learning"><a href="/">Home</a><a data-learning-return href="{target}">Back to your topic index</a></nav><p>Related topics</p><ul>{links}</ul></section><!-- learning-navigation:end -->\n'''
++        source = source.replace('</main>', block + '</main>', 1)
++        if NAV_SCRIPT not in source:
++            source = source.replace('</body>', NAV_SCRIPT + '\n</body>', 1)
++        stylesheet = '<link rel="stylesheet" href="/assets/learning-navigation.css?v=20261107-flow">'
++        if stylesheet not in source:
++            source = source.replace('</head>', stylesheet + '\n</head>', 1)
++        if source != doc.source:
++            (root / doc.relative).write_text(source, encoding='utf-8')
++            changed.append(doc.relative)
++    for relative in ['index.html', 'learn/index.html']:
++        page = root / relative
++        source = page.read_text(encoding='utf-8')
++        if NAV_SCRIPT not in source:
++            page.write_text(source.replace('</body>', NAV_SCRIPT + '\n</body>', 1), encoding='utf-8')
++            changed.append(relative)
++    return changed
++
++
++def destinations(root=ROOT):
++    routes = {}
++    for year in range(11):
++        level = 'foundation' if year == 0 else f'year{year}'
++        learn_level = 'foundation' if year == 0 else f'year-{year}'
++        year_target = f'/learn/?year={year}'
++        candidates = {f'/{level}/': year_target,
++                      f'/{level}/curriculum/': year_target,
++                      f'/learn/{learn_level}/': year_target}
++        for subject in ('maths', 'science', 'english'):
++            target = year_target + '&subject=' + subject
++            candidates[f'/{level}/curriculum/{subject}/'] = target
++            candidates[f'/{level}/{subject}/'] = target
++        for route, target in candidates.items():
++            if (root / route.lstrip('/') / 'index.html').is_file():
++                routes[route] = target
++    return routes
++
++
++def target_for(value, relative, routes):
++    parsed = urlsplit(urljoin(ORIGIN + '/' + relative, html.unescape(value)))
++    if parsed.netloc.lower() not in ('skillrhub.com', 'www.skillrhub.com'):
++        return None
++    path = parsed.path
++    if path.endswith('/index.html'):
++        path = path[:-10]
++    target = routes.get(path.rstrip('/') + '/')
++    # Old hub fragments name sections that do not exist on the catalogue.
++    return target
++
++
++def moved_page(target):
++    escaped = html.escape(ORIGIN + target, quote=True)
++    # The filtered destination and the shared catalogue agree on /learn/ as canonical.
++    return f'''<!doctype html>
++<html lang="en-AU" {MARKER}><head>
++<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
++<meta name="robots" content="noindex,follow">
++<meta http-equiv="refresh" content="0;url={escaped}">
++<link rel="canonical" href="{ORIGIN}/learn/">
++<title>Find your learning topic | SkillrHub</title>
++</head><body><main><h1>Find your learning topic</h1>
++<p>The learning catalogue now keeps all years and subjects together.</p>
++<a href="{escaped}">Continue to your selected year and subject</a>
++</main><script>location.replace({json.dumps(ORIGIN + target)});</script></body></html>
++'''
++
++
++def rewrite_links(source, relative, routes):
++    def part(value):
++        if value.startswith('<!--') or re.match(r'<(?:script|style)\b', value, re.I):
++            # Breadcrumb schema is navigation too. Leave other scripts untouched.
++            if re.match(r'<script\b[^>]*type=["\']application/ld\+json', value, re.I):
++                def literal(match):
++                    try:
++                        original = json.loads(match[0])
++                    except ValueError:
++                        return match[0]
++                    target = target_for(original, relative, routes) if isinstance(original, str) and original.startswith(('/', ORIGIN)) else None
++                    return json.dumps(ORIGIN + target) if target else match[0]
++                return re.sub(r'"(?:[^"\\]|\\.)*"', literal, value)
++            return value
++        def anchor(match):
++            def href(attr):
++                target = target_for(attr[3], relative, routes)
++                return attr[1] + attr[2] + html.escape(target, quote=True) + attr[2] if target else attr[0]
++            return HREF.sub(href, match[0])
++        return ANCHOR.sub(anchor, value)
++    return ''.join(part(value) for value in PROTECTED.split(source))
++
++
++def consolidate(root=ROOT, write=False):
++    routes = destinations(root)
++    changed = []
++    for relative in subprocess.check_output(['git', 'ls-files', '*.html'], cwd=root, text=True).splitlines():
++        if relative.split('/')[0] in ARCHIVES:
++            continue
++        page = root / relative
++        source = page.read_text(encoding='utf-8')
++        route = '/' + relative.removesuffix('index.html') if relative.endswith('/index.html') else '/' + relative
++        output = moved_page(routes[route]) if route in routes else rewrite_links(source, relative, routes)
++        if source != output:
++            changed.append(relative)
++            if write:
++                page.write_text(output, encoding='utf-8')
++    if write:
++        # Some authored worksheets/guides were linked only from retired hubs.
++        # Reconnect them from the matching lesson, or from Learn for general guides.
++        from discovery_navigation import inventory, graph, sitemap_urls
++        docs = inventory(root)
++        _, depth = graph(docs)
++        lessons = {doc.code: doc for doc in docs.values() if doc.code and doc.indexable}
++        for url in sorted(sitemap_urls(root)):
++            doc = docs.get(url)
++            if not doc or not doc.indexable or url in depth:
++                continue
++            code = re.search(r'ac9[a-z0-9]+', doc.relative, re.I)
++            parent = lessons.get(code[0].upper()) if code else None
++            relative = parent.relative if parent else 'learn/index.html'
++            page = root / relative
++            source = page.read_text(encoding='utf-8')
++            link = f'<p><a href="{html.escape(urlsplit(url).path, quote=True)}">{html.escape(doc.name)}</a></p>\n'
++            page.write_text(source.replace('</main>', link + '</main>', 1), encoding='utf-8')
++            if relative not in changed:
++                changed.append(relative)
++        for relative in topic_navigation(root):
++            if relative not in changed:
++                changed.append(relative)
++    return {'retired_hubs': len(routes), 'changed_files': len(changed), 'paths': changed}
++
++
++if __name__ == '__main__':
++    parser = argparse.ArgumentParser()
++    parser.add_argument('--write', action='store_true')
++    args = parser.parse_args()
++    result = consolidate(write=args.write)
++    print(json.dumps({k: v for k, v in result.items() if k != 'paths'}))
++    if result['changed_files'] and not args.write:
++        raise SystemExit(1)
+diff --git a/assets/learning-navigation.js b/assets/learning-navigation.js
+new file mode 100644
+index 000000000..314f0d6c9
+--- /dev/null
++++ b/assets/learning-navigation.js
+@@ -0,0 +1,73 @@
++(() => {
++  'use strict';
++  const key = 'skillrhub.topicReturn';
++  const normalise = path => path.replace(/\/index\.html$/i, '/');
++  const topic = path => /^\/(foundation|year(?:[1-9]|10))\/(maths|science|english)\/ac9[^/]+\/$/i.test(normalise(path));
++  const current = normalise(location.pathname);
++  function read() {
++    try { return JSON.parse(sessionStorage.getItem(key)) || {}; } catch { return {}; }
++  }
++  function valid(value) {
++    try {
++      const url = new URL(value, location.origin);
++      return url.origin === location.origin && ['/', '/learn/'].includes(url.pathname) ? url : null;
++    } catch { return null; }
++  }
++  function remember(path, href) {
++    const url = valid(href);
++    if (!url) return;
++    try {
++      const entries = read();
++      entries[normalise(path)] = { href: url.pathname + url.search + url.hash, at: Date.now() };
++      const recent = Object.entries(entries).sort((a, b) => b[1].at - a[1].at).slice(0, 50);
++      sessionStorage.setItem(key, JSON.stringify(Object.fromEntries(recent)));
++    } catch { /* Static Home and catalogue links also work without storage. */ }
++  }
++  function originResults() {
++    if (current === '/learn/') return location.pathname + location.search + location.hash;
++    if (current !== '/') return null;
++    const form = document.getElementById('home-topic-search');
++    if (!form) return null;
++    const params = new URLSearchParams();
++    for (const name of ['q', 'year', 'subject']) {
++      const field = form.querySelector(`[name="${name}"]`);
++      if (field?.value) params.set(name, field.value);
++    }
++    return '/?' + params.toString() + '#topic-search';
++  }
++  const saved = read()[current];
++  const returnUrl = saved && Date.now() - saved.at < 24 * 60 * 60 * 1000 ? valid(saved.href) : null;
++  document.addEventListener('click', event => {
++    const link = event.target.closest?.('a[href]');
++    if (!link) return;
++    const url = new URL(link.href, location.href);
++    if (topic(current) && url.origin === 'https://app.skillrhub.com') {
++      // Send only the public lesson URL, never a learner ID or search history.
++      const code = current.match(/\/(ac9[a-z0-9]+)-/i)?.[1]?.toUpperCase();
++      const requested = url.searchParams.get('assessment') || url.searchParams.get('skill');
++      if (!requested || requested.toUpperCase() === code) {
++        url.searchParams.set('returnTo', 'https://skillrhub.com' + current);
++        link.href = url.href;
++      }
++      return;
++    }
++    if (url.origin !== location.origin || !topic(url.pathname)) return;
++    const results = originResults() || (topic(current) && returnUrl ? returnUrl.href : null);
++    if (results) remember(url.pathname, results);
++  }, true);
++  if (!topic(current) || !returnUrl) return;
++  const href = returnUrl.pathname + returnUrl.search + returnUrl.hash;
++  const name = returnUrl.pathname === '/' || returnUrl.searchParams.has('q') ? 'Search results' : 'Topic index';
++  document.querySelectorAll('[data-learning-return]').forEach(link => {
++    link.href = href;
++    link.textContent = 'Back to your ' + (name === 'Search results' ? 'search results' : 'topic index');
++  });
++  const crumb = document.querySelector('nav[aria-label="Breadcrumb"], .breadcrumb, .breadcrumbs, .crumb');
++  if (!crumb) return;
++  const home = document.createElement('a'); home.href = '/'; home.textContent = 'Home';
++  const back = document.createElement('a'); back.href = href; back.textContent = name;
++  const here = document.createElement('span');
++  here.setAttribute('aria-current', 'page');
++  here.textContent = document.querySelector('h1')?.textContent.trim() || 'Current topic';
++  crumb.replaceChildren(home, document.createTextNode(' › '), back, document.createTextNode(' › '), here);
++})();
+diff --git a/assets/learning-navigation.css b/assets/learning-navigation.css
+new file mode 100644
+index 000000000..3fdb97b44
+--- /dev/null
++++ b/assets/learning-navigation.css
+@@ -0,0 +1,6 @@
++[data-learning-navigation-links]{margin:2rem auto 0;padding:1.25rem 0;border-top:1px solid #d9e2ed;max-width:72rem;color:inherit}
++[data-learning-navigation-links] h2{font-size:1.2rem;margin:0 0 .75rem}
++[data-learning-navigation-links] .learning-return-links{display:flex;flex-wrap:wrap;gap:.75rem 1.25rem;margin:0 0 1rem}
++[data-learning-navigation-links] ul{display:grid;gap:.6rem;padding-left:1.25rem;margin:.5rem 0}
++[data-learning-navigation-links] a{color:#173968;text-decoration:underline;text-underline-offset:.15em;line-height:1.5}
++[data-learning-navigation-links] a:focus-visible{outline:3px solid #3178c6;outline-offset:4px}

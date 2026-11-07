@@ -1,0 +1,69 @@
+name: Consolidate retired learning hubs
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/learning-navigation.patch
+      - .github/workflows/consolidate-learning-hubs.yml
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: consolidate-learning-hubs
+  cancel-in-progress: false
+jobs:
+  consolidate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Apply reviewed navigation implementation
+        run: |
+          if git apply --reverse --check .github/learning-navigation.patch; then
+            echo 'Navigation implementation is already applied.'
+          else
+            git apply --3way .github/learning-navigation.patch
+          fi
+      - name: Consolidate entrances and retain authored resource discovery
+        run: |
+          python3 scripts/consolidate_learning_hubs.py --write
+          python3 scripts/generate_sitemap.py
+          python3 scripts/prepare_google_sitemap.py
+          python3 scripts/tidy_sitemap_html.py
+      - name: Validate navigation and indexing
+        run: |
+          python3 scripts/consolidate_learning_hubs.py
+          python3 scripts/validate_sitemap_index_quality.py
+          python3 scripts/validate_google_sitemap_submission.py
+          python3 scripts/validate_discovery_navigation.py
+          python3 scripts/test_retire_legacy_quiz_routes.py
+          node --test scripts/tests/test_breadcrumb_preservation.mjs scripts/tests/test_geo_breadcrumbs.mjs
+          git diff --check
+      - name: Preserve complete current site and commit consolidation
+        run: |
+          release_base=$(git rev-parse HEAD)
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- '*.html' sitemap.xml 'sitemap-*.xml' assets/site-search-index.json scripts/consolidate_learning_hubs.py scripts/generate_sitemap.py scripts/tidy_sitemap_html.py scripts/validate_google_sitemap_submission.py assets/f10-learning-path-links.js assets/learning-navigation.js assets/learning-navigation.css .github/workflows/release-integrity.yml
+          if git diff --cached --quiet; then
+            echo 'Learning hubs already consolidated.'
+            exit 0
+          fi
+          git commit -m 'Simplify Home to topic navigation and consolidate 73 retired learning hubs'
+          node scripts/check_release_integrity.mjs "$release_base" HEAD
+          git fetch origin main
+          git rebase origin/main
+          python3 scripts/consolidate_learning_hubs.py
+          python3 scripts/validate_sitemap_index_quality.py
+          python3 scripts/validate_google_sitemap_submission.py
+          python3 scripts/validate_discovery_navigation.py
+          node scripts/check_release_integrity.mjs origin/main HEAD
+          git push origin HEAD:main
