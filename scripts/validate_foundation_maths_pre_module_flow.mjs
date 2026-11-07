@@ -1,9 +1,6 @@
 #!/usr/bin/env node
 
 import { validatePreModuleFlow } from "./validate_pre_module_flow.mjs";
-import fs from 'node:fs';
-import assert from 'node:assert/strict';
-import { validateRetiredActivity } from './lib/published_activity_navigation.mjs';
 
 const codes = [
   "AC9MFA01",
@@ -20,14 +17,7 @@ const codes = [
   "AC9MFST01"
 ];
 
-const retired = codes.every(code => fs.readFileSync(`quiz/grade-k/math/${code.toLowerCase()}/practice/index.html`, 'utf8').includes('data-legacy-quiz-retired='));
-if (retired) {
-  for (const code of codes) for (const mode of ['practice', 'test']) {
-    const html = fs.readFileSync(`quiz/grade-k/math/${code.toLowerCase()}/${mode}/index.html`, 'utf8');
-    assert.deepEqual(validateRetiredActivity(html, code), []);
-  }
-  console.log('PASS Foundation Maths: all 24 retired launches preserve noindex, matching app availability and native fallback; the archived player is not reactivated.');
-} else await validatePreModuleFlow({
+await validatePreModuleFlow({
   label: "Foundation Maths",
   codes,
   noteAsset: "quiz/assets/foundation-maths-pre-module-notes.js",

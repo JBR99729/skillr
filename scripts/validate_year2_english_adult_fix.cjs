@@ -19,7 +19,7 @@ for(let n=1;n<=5;n++)for(const bank of ['practice','test']){
  }else{assert.equal(q.correct,s.correct_index);assert.equal(q.answers[q.correct],s.answers[s.correct_index].text)}
  }
  const html=read(route+'index.html');
- if(html.includes('data-legacy-quiz-retired='))assert.deepEqual(validateRetiredActivity(html,`AC9E2LA0${n}`),[]);
+ if(html.includes('data-legacy-quiz-retired='))assert.deepEqual(validateRetiredActivity(html,`AC9E2LA0${n}`,bank),[]);
  else{assert(html.includes('requireAdultReviewSupport":true'));assert(html.includes('data-adult-review-note'));assert(html.includes('20260907-english-adult-fix'));}
 }
 assert.equal(adult,20);console.log({status:'PASS',total,adult,checks:'source parity, no status answers, adult response renderer, no automatic credit or pass'});

@@ -4,6 +4,7 @@ const fs = require('node:fs');
 const path = require('node:path');
 const vm = require('node:vm');
 const {JSDOM, VirtualConsole} = require('jsdom');
+const { validateRetiredActivity } = require('./lib/published_activity_navigation.mjs');
 const root = path.resolve(__dirname, '..');
 const read = p => fs.readFileSync(path.join(root,p),'utf8');
 const tick = () => new Promise(r=>setImmediate(r));
@@ -15,21 +16,11 @@ const batch6 = process.argv.includes('--batch6');
 const codes = batch6 ? ['ac9e1ly11','ac9e1ly12','ac9e1ly13','ac9e1ly14','ac9e1ly15'] : batch5 ? ['ac9e1ly06','ac9e1ly07','ac9e1ly08','ac9e1ly09','ac9e1ly10'] : batch4 ? ['ac9e1ly01','ac9e1ly02','ac9e1ly03','ac9e1ly04','ac9e1ly05'] : batch3 ? ['ac9e1le01','ac9e1le02','ac9e1le03','ac9e1le04','ac9e1le05'] : batch2 ? ['ac9e1la06','ac9e1la07','ac9e1la08','ac9e1la09','ac9e1la10'] : ['ac9e1la01','ac9e1la02','ac9e1la03','ac9e1la04','ac9e1la05'];
 const tag = batch6 ? 'er6' : batch5 ? 'er5' : batch4 ? 'er4' : batch3 ? 'er3' : batch2 ? 'er2' : 'er1';
 let rendered = 0, visualCount = 0, retiredRoutes = 0;
-const availability = JSON.parse(read('data/app-question-banks.json')).codes;
-// Retired URLs are navigation contracts now. Keep auditing their archived
-// question payloads, but never resurrect the removed local player to test it.
-function checkRetiredRoute(html, code) {
- const bank = availability.find(b=>b.code===code.toUpperCase());
- const target = bank && bank.practice
-  ? 'https://app.skillrhub.com/'+(bank.guestPractice?'?try=1&skill=':'?login=1&skill=')+code.toUpperCase()
-  : 'https://app.skillrhub.com/';
+// The archive tests still verify question payloads and the current app handoff.
+function checkRetiredRoute(html, code, mode) {
+ assert.deepEqual(validateRetiredActivity(html, code.toUpperCase(), mode, root), []);
  const dom = new JSDOM(html), d=dom.window.document;
  try {
-  assert(d.documentElement.hasAttribute('data-legacy-quiz-retired'),'Missing retirement marker: '+code);
-  assert.equal(d.querySelector('meta[http-equiv="refresh"]')?.getAttribute('content'),'0;url='+target,'Wrong retirement destination: '+code);
-  assert.equal(d.querySelector('link[rel="canonical"]')?.getAttribute('href'),target);
-  assert.equal(d.querySelector('a')?.getAttribute('href'),target,'Native fallback must match');
-  assert(html.includes('location.replace('+JSON.stringify(target)+')'),'JavaScript fallback must match');
   assert(!d.querySelector('#startButton,#submitButton,#answerList'),'Retired player controls returned');
   assert(!/window\.quizConfig\s*=|script-runtime-v115\.js/.test(html),'Retired player runtime returned');
  } finally { dom.window.close(); }
@@ -57,8 +48,8 @@ function checkRetiredRoute(html, code) {
    const source=canonical.filter(q=>q.bank===mode);
    assert.equal(source.length,mode==='practice'?24:16);
    if(retired) {
-    checkRetiredRoute(html,code);
-    for(const page of ['result','review','retake']) checkRetiredRoute(read(route+page+'/index.html'),code);
+    checkRetiredRoute(html,code,mode);
+    for(const page of ['result','review','retake']) checkRetiredRoute(read(route+page+'/index.html'),code,mode);
    } else {
     assert(cfg.resultStorageKey.endsWith('English'+tag.toUpperCase()));
     for(const page of ['result','review']) assert(read(route+page+'/index.html').includes(cfg.resultStorageKey));

@@ -36,12 +36,13 @@ export function validateTopicActivities(html, code, root = process.cwd()) {
 
 // Retired URLs remain accessible as safe, noindex compatibility shims. Do not
 // resurrect the old JS player merely to satisfy a historical runtime test.
-export function validateRetiredActivity(html, code, root = process.cwd()) {
+export function validateRetiredActivity(html, code, mode, root = process.cwd()) {
   const errors = [];
   const bank = appBanks(root).get(code);
-  const target = bank?.practice
-    ? `https://app.skillrhub.com/?${bank.guestPractice ? 'try' : 'login'}=1&skill=${code}`
-    : 'https://app.skillrhub.com/';
+  const app = 'https://app.skillrhub.com/';
+  let target = app;
+  if (mode === 'test' && bank?.assessment) target += `?assessment=${code}`;
+  if (mode === 'practice' && bank?.practice) target += `?${bank.guestPractice ? 'try' : 'login'}=1&skill=${code}`;
   const decoded = html.replaceAll('&amp;', '&');
   if (!/data-legacy-quiz-retired=/.test(html)) errors.push(`${code}: missing retirement marker`);
   if (!/<meta\b[^>]*name=["']robots["'][^>]*content=["']noindex,\s*follow["']/i.test(html)) errors.push(`${code}: retired player must remain noindex,follow`);
