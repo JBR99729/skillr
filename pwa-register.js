@@ -42,7 +42,7 @@
   const loadGeoSchemaHelper = () => {
     if (document.querySelector('script[data-skillr-geo-schema-loader]')) return;
     const script = document.createElement("script");
-    script.src = "/assets/geo-schema.js?v=20260904";
+    script.src = "/assets/geo-schema.js?v=20261107-learn-breadcrumb";
     script.defer = true;
     script.dataset.skillrGeoSchemaLoader = "true";
     document.head.appendChild(script);
