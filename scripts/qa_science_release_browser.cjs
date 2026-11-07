@@ -38,12 +38,12 @@ fs.mkdirSync(out, {recursive:true});
         assert.equal(await summaries.count(),3,item.code);
         for(let i=0;i<3;i++){
           // A learner scrolls an answer above the fixed app entrance before tapping.
-          await summaries.nth(i).evaluate(e=>e.scrollIntoView({block:'center'}));
+          await summaries.nth(i).evaluate(e=>e.scrollIntoView({block:'center',behavior:'instant'}));
           assert((await summaries.nth(i).boundingBox()).height >= 44, item.code+': answer touch target');
           await summaries.nth(i).click({timeout:5000});
           assert(await summaries.nth(i).evaluate(e=>e.parentElement.open),item.code);
           // A learner scrolls an answer above the fixed app entrance before tapping.
-          await summaries.nth(i).evaluate(e=>e.scrollIntoView({block:'center'}));
+          await summaries.nth(i).evaluate(e=>e.scrollIntoView({block:'center',behavior:'instant'}));
           assert((await summaries.nth(i).boundingBox()).height >= 44, item.code+': answer touch target');
           await summaries.nth(i).click({timeout:5000});
           assert.equal(await summaries.nth(i).evaluate(e=>e.parentElement.open),false,item.code);
