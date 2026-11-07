@@ -44,6 +44,30 @@ async function render(source, relative, suffix='') {
   }});
   await Promise.race([new Promise(resolve=>dom.window.addEventListener('load',resolve,{once:true})),wait(4000)]);
   await wait(150);
+  // The shared production loader reloads the Foundation English topic modules
+  // after page-specific legacy banks. Capture that final public bank, rather
+  // than the transient ten-question bank rendered earlier during page load.
+  if (/^quiz\/grade-k\/english\//.test(relative)) {
+    const loaderPath='assets/pwa-register-legacy.js';
+    const loader=fs.readFileSync(path.join(ROOT,loaderPath),'utf8');
+    sourceFiles.set(loaderPath,sha(loader));
+    const modules=loader.match(/const foundationEnglishWorksheetModules = \[([\s\S]*?)\];/);
+    if(!modules)throw Error('Production Foundation English module list was not found');
+    // Browsers ignore document.write from the asynchronously injected scripts.
+    // JSDOM otherwise executes those writes and restores obsolete legacy banks.
+    const originalWrite=dom.window.document.write;
+    dom.window.document.write=()=>{};
+    try {
+      for(const match of modules[1].matchAll(/"([^"]+)"/g)) {
+        const relativeAsset=new URL(match[1],ORIGIN).pathname.slice(1);
+        const body=fs.readFileSync(path.join(ROOT,relativeAsset),'utf8');
+        sourceFiles.set(relativeAsset,sha(body));
+        dom.window.eval(body);
+      }
+      await dom.window.SkillrFoundationEnglishWorksheetPageInit();
+      await wait(150);
+    } finally {dom.window.document.write=originalWrite;}
+  }
   if(missing.size){dom.window.close();throw Error(`Missing local worksheet assets: ${[...missing].join(', ')}`);}
   const {window:w}=dom,d=w.document,code=relative.match(/ac9[a-z0-9]+/i)[0].toUpperCase();
   let questions=bankFor(w,code);
@@ -84,6 +108,7 @@ async function prepare(relative) {
   // Ignore the previous snapshot while exercising the current authored renderer.
   const clean=source.replace(marker,'').replace(/<script\b[^>]*id="skillr-static-worksheet-questions"[^>]*>[\s\S]*?<\/script>/,'').replace(/<script[^>]*src="\/assets\/static-worksheet-print\.js[^>]*><\/script>/,'');
   const first=await render(clean,relative),{code}=first;
+  if(relative.startsWith('quiz/grade-k/english/')) source=source.replace(/(?:9|10) (curriculum-aligned )?questions/g,`${first.questions.length} $1questions`);
   let questions=first.questions,content,alternate;
   if(first.main && first.main.querySelectorAll('.question-prompt').length) {
     content=first.main.innerHTML;

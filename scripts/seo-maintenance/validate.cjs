@@ -35,6 +35,7 @@ function validate() {
     const page=dom(row.path),d=page.window.document,staticSheet=d.querySelector('[data-static-worksheet]');
     assert.equal(staticSheet?.getAttribute('data-static-worksheet'),row.code,row.path);
     assert.equal(Number(staticSheet.getAttribute('data-static-question-count')),row.questions);
+    if(['AC9EFLA01','AC9EFLA02'].includes(row.code))assert.equal(row.questions,9,`Use the final public two-sheet bank: ${row.path}`);
     assert.equal(staticSheet.getAttribute('data-source-question-sha'),row.sourceQuestionSha);
     assert.ok(staticSheet.textContent.trim().split(/\s+/).length>120,row.path);
     assert.equal(d.querySelectorAll('h1').length,1,row.path);
