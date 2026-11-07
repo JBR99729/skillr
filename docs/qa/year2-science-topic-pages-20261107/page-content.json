@@ -1,0 +1,712 @@
+[
+  {
+    "code": "AC9S2U01",
+    "title": "Our planet and the changing sky",
+    "short": "Earth and sky patterns",
+    "intro": "Recognise Earth as a planet. Use repeated observations to describe how the Sun, Moon, planets and stars appear to change position.",
+    "art": "space",
+    "exampleTitle": "One shadow, three observations",
+    "example": "A class observes the shadow of the same fixed post from the same marked place. Its supplied records show a long shadow in the morning, a shorter one near midday and a longer one later. The changing shadow is evidence that the Sun’s apparent position changes. Never look directly at the Sun.",
+    "evidence": "<table><thead><tr><th scope=\"col\">Time on the same day</th><th scope=\"col\">Shadow length, using identical blocks</th></tr></thead><tbody><tr><td>Morning</td><td>7 block lengths</td></tr><tr><td>Near midday</td><td>3 block lengths</td></tr><tr><td>Afternoon</td><td>6 block lengths</td></tr></tbody></table>",
+    "steps": [
+      [
+        "Identify the sky object",
+        "The Sun is a star. Earth is one of eight planets orbiting the Sun. The Moon is Earth’s natural satellite and goes around Earth.",
+        "<table><thead><tr><th scope=\"col\">Object</th><th scope=\"col\">What it is</th></tr></thead><tbody><tr><td>Sun</td><td>A star</td></tr><tr><td>Earth</td><td>A planet</td></tr><tr><td>Moon</td><td>Earth’s natural satellite</td></tr></tbody></table>",
+        "Is Earth a star because we can see it in a space photograph?",
+        "No. Earth is a planet. The Sun is a star."
+      ],
+      [
+        "Compare positions, not just pictures",
+        "Observe from the same place and record the time and direction. Earth’s rotation helps explain the daily apparent movement of the Sun and stars.",
+        "<table><thead><tr><th scope=\"col\">Record</th><th scope=\"col\">What to compare</th></tr></thead><tbody><tr><td>Sun or shadow, during a day</td><td>Position at different times</td></tr><tr><td>Stars, during an evening</td><td>Position relative to the horizon</td></tr></tbody></table>",
+        "Does a cloud hiding the Sun mean the Sun has disappeared?",
+        "No. Record “hidden by cloud”, not “the Sun disappeared”."
+      ],
+      [
+        "Look for longer patterns",
+        "The Moon changes position and the visible sunlit shape repeats over about a month. Planets can change position against background stars across many nights. Not every object is visible every night.",
+        "<table><thead><tr><th scope=\"col\">Object</th><th scope=\"col\">Useful record</th></tr></thead><tbody><tr><td>Moon</td><td>Dated shape and position sketches</td></tr><tr><td>Planet</td><td>Its position beside the same star pattern on different dates</td></tr></tbody></table>",
+        "Can the Moon be visible in daylight?",
+        "Yes. Depending on its position, the Moon can be visible in the daytime as well as at night."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“The Moon makes its own light.”",
+        "The Moon reflects sunlight. Its changing appearance does not mean the whole Moon changes shape."
+      ],
+      [
+        "“One sky picture proves a pattern.”",
+        "Use records from several times or dates, with the viewing place and direction noted."
+      ]
+    ],
+    "activityTitle": "Read a sky record safely",
+    "activity": "2 minutes: read the supplied shadow table. 5 minutes: make three labelled rows using drawings or equal counters. 3 minutes: describe what changed and suggest another time to record.",
+    "adjust": "Support: compare morning with midday only. Extend: explain why a cloudy record should be marked “not observed”, rather than given a guessed length.",
+    "safety": "Use supplied records or adult-supervised shadow observations. Never look at the Sun, including through binoculars or a telescope. Night observations need adult supervision.",
+    "tricky": [
+      [
+        "A planet is not visible tonight. Has it left the solar system?",
+        "No. Visibility depends on its position, daylight, weather and the viewing place."
+      ],
+      [
+        "Does this shadow table prove every day has exactly these lengths?",
+        "No. It describes one example day and setup. Compare repeated records before predicting."
+      ],
+      [
+        "Do stars disappear when daytime begins?",
+        "No. The bright daytime sky usually prevents us seeing them."
+      ]
+    ],
+    "faq": [
+      [
+        "Is a solar-system picture drawn to real size?",
+        "Usually not. Check whether sizes and distances are to scale."
+      ],
+      [
+        "Can First Nations sky knowledge be one shared national story?",
+        "No. Knowledge is diverse and connected to particular Peoples and Countries. Learn through appropriate, authorised sources."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S2U02",
+    "title": "Make a sound. Find the vibration.",
+    "short": "Sound and vibrations",
+    "intro": "Explore actions that make different sounds. Recognise that sound sources vibrate and that sound energy can make another object vibrate.",
+    "art": "sound",
+    "exampleTitle": "Pluck, tap, then notice what moves",
+    "example": "An adult checks a broad elastic band secured across a sturdy open box. A gentle pluck makes the band move back and forth and a sound is heard. A gentle tap starts the drumhead vibrating. The action starts the vibration; the sound is not a separate substance hidden inside the object.",
+    "evidence": "<table><thead><tr><th scope=\"col\">Action</th><th scope=\"col\">Vibrating part</th><th scope=\"col\">Observation</th></tr></thead><tbody><tr><td>Pluck the secured band</td><td>The band</td><td>A twanging sound</td></tr><tr><td>Tap the drum gently</td><td>The drumhead</td><td>A short drum sound</td></tr></tbody></table>",
+    "steps": [
+      [
+        "Use different actions",
+        "Striking, shaking, plucking, rubbing and blowing can start vibrations. When blowing across an instrument, vibrating air helps produce its sound.",
+        "<table><thead><tr><th scope=\"col\">Action</th><th scope=\"col\">Example vibrating source</th></tr></thead><tbody><tr><td>Pluck</td><td>A secured elastic band</td></tr><tr><td>Strike</td><td>A drumhead</td></tr><tr><td>Blow</td><td>Air in a suitable wind instrument</td></tr></tbody></table>",
+        "Must a sound come from something you can see wobbling?",
+        "No. The vibrations may be too small or fast to see easily."
+      ],
+      [
+        "Separate loudness from pitch",
+        "Loud/soft describes loudness. High/low describes pitch. A sound can be high and soft, or low and loud. Use comfortable volumes when comparing.",
+        "<table><thead><tr><th scope=\"col\">Sound description</th><th scope=\"col\">Loudness</th><th scope=\"col\">Pitch</th></tr></thead><tbody><tr><td>Soft, high whistle</td><td>Soft</td><td>High</td></tr><tr><td>Loud, low drum sound</td><td>Loud</td><td>Low</td></tr></tbody></table>",
+        "If a sound becomes louder, must it become higher?",
+        "No. Loudness and pitch describe different features."
+      ],
+      [
+        "Follow the sound energy",
+        "Vibrations transfer sound energy through the surroundings. Sound reaching your ear makes your eardrum vibrate; sound energy can therefore make another object vibrate.",
+        "<div class=\"evidence\"><strong>Source → receiver</strong><p>Vibrating drumhead → sound travels through air → eardrum vibrates.</p></div>",
+        "Does hearing a drum mean a piece of the drumhead travelled into your ear?",
+        "No. Sound energy is transferred through the air. The drumhead stays with the drum."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Only the thing being hit vibrates.”",
+        "Sound can make a receiving object, such as the eardrum, vibrate too."
+      ],
+      [
+        "“A loud sound is always a high sound.”",
+        "Describe loudness and pitch separately."
+      ]
+    ],
+    "activityTitle": "Describe two quiet sounds",
+    "activity": "2 minutes: an adult checks the drum or secured-band setup. 5 minutes: make two gentle sounds and say which part vibrates. 3 minutes: describe how the sounds differ without turning the volume up.",
+    "adjust": "Support: point to the vibrating part. Extend: give two words that describe different sound features and explain each one.",
+    "safety": "Keep sounds comfortable and away from ears. An adult secures and inspects elastic bands; stop if a band is damaged. Do not stretch bands towards faces.",
+    "tricky": [
+      [
+        "You stop a vibrating band gently and its sound dies away. What does that suggest?",
+        "The sound depended on the band’s vibration."
+      ],
+      [
+        "A quiet sound is heard. Is its source necessarily not vibrating?",
+        "No. Even a quiet sound has a vibrating source."
+      ],
+      [
+        "Can sound energy affect an object that was not struck by the mallet?",
+        "Yes. For example, sound reaching an ear makes its eardrum vibrate."
+      ]
+    ],
+    "faq": [
+      [
+        "Do we need to calculate sound frequency?",
+        "No. Explore actions, sounds and vibrations using everyday observations."
+      ],
+      [
+        "Can we learn about First Nations instruments?",
+        "Yes. Use accurate, culturally authorised examples from particular Peoples; do not invent or imitate restricted practices."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S2U03",
+    "title": "Change the shape, keep the material",
+    "short": "Physical changes to materials",
+    "intro": "Explore bending, twisting, stretching and breaking materials. Explain what changes and what can stay the same.",
+    "art": "materials",
+    "exampleTitle": "A torn sheet is still paper",
+    "example": "A whole paper sheet is torn into smaller pieces. Its shape and the number of pieces change, but each piece is still paper. Some physical changes are easy to undo; others are not. Difficulty putting it back together does not by itself show that a new material formed.",
+    "evidence": "<table><thead><tr><th scope=\"col\">Action</th><th scope=\"col\">What changed?</th><th scope=\"col\">Material afterwards</th></tr></thead><tbody><tr><td>Bend a paper strip</td><td>Shape</td><td>Paper</td></tr><tr><td>Twist modelling dough</td><td>Shape</td><td>Modelling dough</td></tr><tr><td>Tear paper</td><td>Size and number of pieces</td><td>Paper</td></tr></tbody></table>",
+    "steps": [
+      [
+        "Name the material first",
+        "Identify what the object is made from before describing the action. “Paper” names a material; “sheet” names one possible form.",
+        "<table><thead><tr><th scope=\"col\">Object</th><th scope=\"col\">Material</th></tr></thead><tbody><tr><td>Paper strip</td><td>Paper</td></tr><tr><td>Dough ball</td><td>Modelling dough</td></tr></tbody></table>",
+        "If a paper strip is bent, has it automatically become a new material?",
+        "No. It can remain paper even though its shape changes."
+      ],
+      [
+        "Describe the action and effect",
+        "Bending makes a curve or fold; twisting turns parts around; stretching makes something longer; breaking divides it into pieces. Materials respond differently.",
+        "<table><thead><tr><th scope=\"col\">Action</th><th scope=\"col\">Possible observation</th></tr></thead><tbody><tr><td>Stretch suitable dough gently</td><td>It becomes longer</td></tr><tr><td>Break a dry paper strip</td><td>It separates into smaller pieces</td></tr></tbody></table>",
+        "Must every material stretch like dough?",
+        "No. A material may bend, break or barely change under the same gentle action."
+      ],
+      [
+        "Check what stayed the same",
+        "Ask whether the material is still the same, rather than deciding only by appearance. Unfolding may be easy; joining torn paper perfectly is difficult.",
+        "<div class=\"evidence\"><strong>Compare two changes</strong><p>Fold paper: still paper. Tear paper: still paper, even when the tear is hard to undo.</p></div>",
+        "Is every physical change easy to reverse?",
+        "No. Tearing paper is a physical change that is difficult to undo."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“New shape means new material.”",
+        "Describe shape and material separately."
+      ],
+      [
+        "“More pieces means more material was created.”",
+        "If all pieces are kept, splitting a sheet does not create extra paper."
+      ]
+    ],
+    "activityTitle": "Make a change-and-material record",
+    "activity": "2 minutes: an adult chooses safe paper and suitable modelling dough. 5 minutes: bend, twist or gently stretch a sample, then tear a paper strip. 3 minutes: name the action, visible change and material afterwards.",
+    "adjust": "Support: use action picture cards. Extend: compare two materials under one gentle action and explain why the results may differ.",
+    "safety": "Use adult-approved materials. Avoid sharp fragments, glass, heat and unknown substances. Do not eat modelling dough. An adult handles any ice or water demonstration.",
+    "tricky": [
+      [
+        "A sheet becomes four pieces. Have four new materials been made?",
+        "No. There are more pieces, but they can all remain paper."
+      ],
+      [
+        "A strip keeps a crease after unfolding. Does that prove a new substance formed?",
+        "No. A lasting change in shape can still be a physical change."
+      ],
+      [
+        "Must a material return to its old shape when the force stops?",
+        "No. Some keep their changed shape."
+      ]
+    ],
+    "faq": [
+      [
+        "What does physical change mean here?",
+        "A change such as shape or size while the material remains the same."
+      ],
+      [
+        "What about the ice in the illustration?",
+        "Melting changes solid ice into liquid water. Both are water; changing state is another physical change."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S2H01",
+    "title": "Use a pattern to make a useful choice",
+    "short": "Science in daily life",
+    "intro": "Describe everyday uses of science. Explain how observations and patterns can support predictions and decisions.",
+    "art": "materials",
+    "exampleTitle": "Predict before choosing where ice will stay solid",
+    "example": "In two earlier comparisons with similar ice pieces and the same containers, ice near a sunny window had less solid ice left than ice in a cooler place after the same time. A family uses that pattern to predict a cooler place may slow melting in a similar trial. They check what happens instead of treating the prediction as certain.",
+    "evidence": "<table><thead><tr><th scope=\"col\">Earlier comparison</th><th scope=\"col\">Sunny window</th><th scope=\"col\">Cooler place</th></tr></thead><tbody><tr><td>Trial 1, after equal time</td><td>Less solid ice left</td><td>More solid ice left</td></tr><tr><td>Trial 2, after equal time</td><td>Less solid ice left</td><td>More solid ice left</td></tr></tbody></table>",
+    "steps": [
+      [
+        "Connect science to a need",
+        "People use knowledge of materials, sound, weather and living things to solve everyday problems.",
+        "<table><thead><tr><th scope=\"col\">Need</th><th scope=\"col\">Useful scientific idea</th></tr></thead><tbody><tr><td>Make a bendable model</td><td>Materials respond differently to forces</td></tr><tr><td>Choose a quiet activity</td><td>Sounds differ in loudness</td></tr><tr><td>Keep ice solid longer</td><td>Warmer surroundings can make ice melt faster</td></tr></tbody></table>",
+        "Is science only used by people wearing lab coats?",
+        "No. Families, gardeners, designers and many other people use it."
+      ],
+      [
+        "Give a relevant reason",
+        "A prediction should connect to the observed pattern. A favourite colour is not evidence about melting.",
+        "<div class=\"evidence\"><strong>Pattern → prediction</strong><p>Less ice remained in the warmer place before, so it may happen again under similar conditions.</p></div>",
+        "Does saying “maybe” make a random guess evidence-based?",
+        "No. Give a relevant observation or experience as the reason."
+      ],
+      [
+        "Check and update",
+        "New observations can strengthen a prediction or make us revise it. Ask whether conditions changed before applying an old pattern.",
+        "<table><thead><tr><th scope=\"col\">New condition</th><th scope=\"col\">Question to ask</th></tr></thead><tbody><tr><td>A much larger ice piece</td><td>Is the comparison still similar?</td></tr><tr><td>A different container</td><td>Could the container affect the result?</td></tr></tbody></table>",
+        "Must the family ignore a new result that disagrees with its prediction?",
+        "No. Keep the result and use the new evidence to improve a later prediction."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“A useful prediction is a promise.”",
+        "A pattern helps us predict; it does not guarantee the outcome."
+      ],
+      [
+        "“One rule works in every place.”",
+        "Check the situation and learn from appropriate local knowledge and experts."
+      ]
+    ],
+    "activityTitle": "Explain one everyday science choice",
+    "activity": "2 minutes: choose an everyday need with an adult. 5 minutes: draw the need, a relevant observation and a prediction. 3 minutes: explain the decision and what evidence could change it.",
+    "adjust": "Support: use “I noticed… so I predict…”. Extend: name a condition that could make an earlier pattern less useful.",
+    "safety": "Use supplied records or safe household observations. An adult makes decisions about food storage, weather hazards and tools.",
+    "tricky": [
+      [
+        "A prediction was useful yesterday. Must it be correct today?",
+        "No. Check whether the conditions and new evidence support it."
+      ],
+      [
+        "Is “I like the blue box” evidence that ice melts more slowly in it?",
+        "No. Compare observations under suitable conditions."
+      ],
+      [
+        "Can local sky patterns help people plan activities?",
+        "Yes. People can use repeated observations and appropriate local knowledge to make plans, without treating them as guarantees."
+      ]
+    ],
+    "faq": [
+      [
+        "What makes a scientific prediction useful?",
+        "A clear claim about what may happen, supported by relevant experience or a pattern."
+      ],
+      [
+        "How should First Nations knowledge be used?",
+        "Respect cultural authority and diverse, place-specific knowledge. Use appropriate community-approved sources."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S2I01",
+    "title": "Notice a pattern, ask a question",
+    "short": "Questions and predictions",
+    "intro": "Turn observed patterns into questions that can be explored. Make a prediction with a reason based on experience.",
+    "art": "materials",
+    "exampleTitle": "Which paper strip will hold more counters?",
+    "example": "A class compared equal paper strips bridging the same gap. In two earlier trials, the folded strip held more identical counters before bending down than the flat strip. The class asks whether that pattern will happen in another similar trial, and predicts the folded strip may hold more.",
+    "evidence": "<table><thead><tr><th scope=\"col\">Earlier trial</th><th scope=\"col\">Flat strip</th><th scope=\"col\">Folded strip</th></tr></thead><tbody><tr><td>1</td><td>1 counter before bending down</td><td>3 counters before bending down</td></tr><tr><td>2</td><td>1 counter before bending down</td><td>4 counters before bending down</td></tr></tbody></table>",
+    "steps": [
+      [
+        "Say what was observed",
+        "An observation reports what happened. Read the records before deciding what to investigate.",
+        "<div class=\"evidence\"><strong>What the records show</strong><p>The folded strip held more counters in both recorded trials.</p></div>",
+        "Did the folded strip hold exactly the same number in both trials?",
+        "No. It held 3 in the first and 4 in the second."
+      ],
+      [
+        "Ask about something observable",
+        "A useful question identifies what to compare and what to observe. An opinion question may need to be changed for this investigation.",
+        "<table><thead><tr><th scope=\"col\">Question</th><th scope=\"col\">What it asks</th></tr></thead><tbody><tr><td>Which strip holds more identical counters before bending down?</td><td>An observable comparison</td></tr><tr><td>Which strip is nicest?</td><td>A preference</td></tr></tbody></table>",
+        "Could “Which colour do I like?” answer the paper-strength question?",
+        "No. It asks about preference rather than the number held."
+      ],
+      [
+        "Predict with a reason",
+        "Make the prediction before the new trial. Use the pattern, and allow the result to differ.",
+        "<div class=\"evidence\"><strong>A reasoned prediction</strong><p>I predict the folded strip may hold more counters because it held more in both earlier trials.</p></div>",
+        "Can we predict the next folded strip will hold exactly 4 counters with certainty?",
+        "No. Earlier counts differed, and a new trial may differ too."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“A question and prediction are the same.”",
+        "The question asks what to find out; the prediction says what may happen."
+      ],
+      [
+        "“My prediction is my result.”",
+        "Keep the before-trial prediction separate from the observed result."
+      ]
+    ],
+    "activityTitle": "Write a question from evidence",
+    "activity": "2 minutes: read the paper-strip table. 5 minutes: write or dictate one observation, one question and one prediction with a reason. 3 minutes: point to the record that supports your reason.",
+    "adjust": "Support: choose between two questions. Extend: explain what the variation between 3 and 4 tells you about an exact-number prediction.",
+    "safety": "The activity uses supplied records. If testing later, an adult must check supports and age-appropriate counters in a low, clear workspace.",
+    "tricky": [
+      [
+        "Is “It will hold 10 because I want it to” supported by these records?",
+        "No. A wish is not relevant evidence."
+      ],
+      [
+        "Can a question be worthwhile before we know the answer?",
+        "Yes. It guides the next observation or investigation."
+      ],
+      [
+        "If the next result differs, should we pretend the earlier pattern never happened?",
+        "No. Keep all records and consider what changed."
+      ]
+    ],
+    "faq": [
+      [
+        "Must a question be answered by an experiment?",
+        "No. Some questions are explored through careful repeated observations."
+      ],
+      [
+        "Does a prediction have to be correct?",
+        "No. It must be made honestly before checking and supported by a relevant reason."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S2I02",
+    "title": "Plan the steps. Check the risks.",
+    "short": "Safe investigation procedures",
+    "intro": "Suggest and follow safe procedures that answer a question and test a prediction. Explain why the steps are useful.",
+    "art": "sound",
+    "exampleTitle": "A plan for comparing two gentle drum taps",
+    "example": "Question: does the same drum sound different after a very light tap and a slightly firmer, comfortable tap? Predict first. An adult checks the drum, mallet and listening level. Keep the drum, mallet and listener’s place the same, change the tap, and record the observation.",
+    "evidence": "<table><thead><tr><th scope=\"col\">Order</th><th scope=\"col\">Procedure</th><th scope=\"col\">Purpose</th></tr></thead><tbody><tr><td>1</td><td>Agree on the question and prediction</td><td>Know what is being tested</td></tr><tr><td>2</td><td>Adult checks equipment, space and volume</td><td>Make the investigation safe</td></tr><tr><td>3</td><td>Compare two gentle taps; record and pack away</td><td>Collect relevant observations</td></tr></tbody></table>",
+    "steps": [
+      [
+        "Match the steps to the question",
+        "Choose observations that answer the question. Looking only at the drum’s colour does not compare its sounds.",
+        "<div class=\"evidence\"><strong>Relevant observation</strong><p>Listen for a difference in loudness after each safe tap.</p></div>",
+        "Would weighing the mallet alone answer which tap sounds louder?",
+        "No. The plan needs observations of the sounds."
+      ],
+      [
+        "Check hazards before starting",
+        "An adult checks for damage, loose parts and comfortable sound levels. Stop if the sound is uncomfortable or equipment breaks.",
+        "<table><thead><tr><th scope=\"col\">Problem</th><th scope=\"col\">Safer response</th></tr></thead><tbody><tr><td>Drum too close to an ear</td><td>Move it away before testing</td></tr><tr><td>Damaged band or mallet</td><td>Stop and tell an adult</td></tr></tbody></table>",
+        "Should a child keep increasing the volume until a difference is obvious?",
+        "No. Keep the comparison comfortable; use supplied observations if a safe demonstration is unclear."
+      ],
+      [
+        "Follow and record in order",
+        "Change the intended action while keeping other important conditions similar. A partner should be able to follow the same written or drawn steps.",
+        "<table><thead><tr><th scope=\"col\">Keep similar</th><th scope=\"col\">Change</th></tr></thead><tbody><tr><td>Drum, mallet, place and listener’s position</td><td>Gentle tap strength</td></tr></tbody></table>",
+        "Could moving the listener much farther away confuse the comparison?",
+        "Yes. The listening position changed as well as the tap."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“A safe plan must answer the question automatically.”",
+        "It must be safe and collect relevant evidence."
+      ],
+      [
+        "“We can write a prediction after the test.”",
+        "Make and keep the prediction before observing the result."
+      ]
+    ],
+    "activityTitle": "Improve a procedure card",
+    "activity": "2 minutes: read the example plan. 5 minutes: arrange question → prediction → safety check → compare → record cards. 3 minutes: identify one unsafe or unhelpful change and improve it.",
+    "adjust": "Support: use five picture cards. Extend: add an instruction that helps a second group repeat the comparison.",
+    "safety": "Use comfortable sounds well away from ears. An adult supervises any real demonstration. Do not use loud alarms or headphones for testing.",
+    "tricky": [
+      [
+        "The equipment is undamaged but the sound hurts. Should testing continue?",
+        "No. Stop immediately and tell the adult."
+      ],
+      [
+        "A friend skips the prediction step. Can it be honestly added as a before-test prediction later?",
+        "No. Record that it was not made before the test."
+      ],
+      [
+        "Can a labelled drawing make a plan clearer?",
+        "Yes. It can show the setup and positions, alongside the ordered steps."
+      ]
+    ],
+    "faq": [
+      [
+        "What is a procedure?",
+        "An ordered set of steps that someone can follow."
+      ],
+      [
+        "Can a child suggest a better step?",
+        "Yes. Discuss it with the adult and check safety before trying it."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S2I03",
+    "title": "Observe, measure, record clearly",
+    "short": "Observations and informal measurement",
+    "intro": "Make and record observations, including informal measurements. Choose appropriate labels and digital tools when useful.",
+    "art": "materials",
+    "exampleTitle": "The number needs a unit",
+    "example": "In a supplied record, strip A exactly spans six identical square tiles placed end to end. Strip B spans four of those same tiles. Record the object and unit, rather than writing only 6 or 4. The illustration is contextual; these measurements come from the table.",
+    "evidence": "<table><thead><tr><th scope=\"col\">Object</th><th scope=\"col\">Measured length</th><th scope=\"col\">Method</th></tr></thead><tbody><tr><td>Strip A</td><td>6 tile lengths</td><td>Identical tiles, no gaps or overlaps</td></tr><tr><td>Strip B</td><td>4 tile lengths</td><td>The same-size tiles</td></tr></tbody></table>",
+    "steps": [
+      [
+        "Separate noticing from explaining",
+        "Record what can be observed. A possible cause needs additional evidence.",
+        "<table><thead><tr><th scope=\"col\">Observation</th><th scope=\"col\">Possible explanation</th></tr></thead><tbody><tr><td>The dough has a flat side</td><td>Someone may have pressed it</td></tr></tbody></table>",
+        "Does a flat side prove exactly who pressed the dough?",
+        "No. Record the flat side; the person and cause are not established by that alone."
+      ],
+      [
+        "Keep the units consistent",
+        "Align the first unit with the start. Use equal-sized units with no gaps or overlaps and name the unit.",
+        "<table><thead><tr><th scope=\"col\">Clear record</th><th scope=\"col\">Unclear record</th></tr></thead><tbody><tr><td>Strip A: 6 tile lengths</td><td>Strip A: 6</td></tr></tbody></table>",
+        "Can two strips both measure 6 units but have different lengths?",
+        "Yes, if different-sized units were used."
+      ],
+      [
+        "Make the record understandable",
+        "A dated table, labelled drawing, photograph, audio or video can preserve observations. Choose a format that shows the information needed.",
+        "<div class=\"evidence\"><strong>Digital-record check</strong><p>A photograph shows the strip and units; its caption names the object, date and measurement.</p></div>",
+        "Can a photograph with no scale reveal an exact length?",
+        "Not by itself. Include a suitable unit or an actual measurement record."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“A guess is a measurement.”",
+        "If the measurement is missing, measure again or mark it as not recorded."
+      ],
+      [
+        "“A larger unit must give a larger count.”",
+        "For the same length, larger units generally fit fewer times."
+      ]
+    ],
+    "activityTitle": "Make a labelled measurement record",
+    "activity": "2 minutes: choose a safe paper strip and identical large tiles with an adult. 5 minutes: measure, draw and label the object and unit. 3 minutes: ask a partner to explain the record; add any missing information.",
+    "adjust": "Support: use a strip that spans whole tiles. Extend: explain how a different-sized unit could change the count without changing the strip.",
+    "safety": "Use age-appropriate units and adult-approved devices. Keep photographs focused on objects and avoid other people’s private information.",
+    "tricky": [
+      [
+        "A tile is missing in the middle of the measuring line. Is the count a reliable length?",
+        "No. Close the gap and measure again."
+      ],
+      [
+        "The object is partly hidden in a photo. Should we invent its hidden measurement?",
+        "No. Take a clearer record or measure directly."
+      ],
+      [
+        "A strip ends between unit marks. Must we pretend it is a whole number?",
+        "No. Describe the in-between position or use a more suitable unit with guidance."
+      ]
+    ],
+    "faq": [
+      [
+        "Does an observation have to be written?",
+        "No. Labelled drawings, dictated records and suitable digital records can also communicate it."
+      ],
+      [
+        "What is an informal unit?",
+        "An everyday repeated unit, such as an identical tile, rather than a standard unit such as a centimetre."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S2I04",
+    "title": "Sort the records. Show the pattern.",
+    "short": "Sorting and representing data",
+    "intro": "Sort and order observations. Use provided tables and visual or physical models to represent patterns faithfully.",
+    "art": "materials",
+    "exampleTitle": "More folds does not always mean more pieces",
+    "example": "A class counts separate paper pieces after actions in order. Folding does not split the sheet. Tearing can increase the number of pieces. The supplied sequence is 1, 1, 2, 4. Keep the action labels and order with their counts.",
+    "evidence": "<table><thead><tr><th scope=\"col\">Action in this example</th><th scope=\"col\">Separate paper pieces</th></tr></thead><tbody><tr><td>Start with one sheet</td><td>1</td></tr><tr><td>Fold it</td><td>1</td></tr><tr><td>Tear into two</td><td>2</td></tr><tr><td>Tear each piece into two</td><td>4</td></tr></tbody></table>",
+    "steps": [
+      [
+        "Choose a clear sorting rule",
+        "Say what each group means. One rule might be “still one piece” versus “more than one piece”. A different sort could use material type.",
+        "<table><thead><tr><th scope=\"col\">Record</th><th scope=\"col\">Group</th></tr></thead><tbody><tr><td>Folded sheet</td><td>One piece</td></tr><tr><td>Sheet torn into four</td><td>More than one piece</td></tr></tbody></table>",
+        "If the rule is number of pieces, should blue colour decide the group?",
+        "No. Apply the stated rule consistently."
+      ],
+      [
+        "Order for the question",
+        "To explain change during an investigation, preserve the real sequence. Sorting the counts from largest to smallest answers a different question.",
+        "<div class=\"evidence\"><strong>Action order</strong><p>Start → fold → tear into two → tear each piece into two.</p></div>",
+        "Should we rearrange the actions just to make the numbers decrease?",
+        "No. Keep the recorded action order when showing what happened over time."
+      ],
+      [
+        "Keep the model faithful",
+        "In a one-to-one display, one counter represents one piece. Check every row against the source record.",
+        "<table><thead><tr><th scope=\"col\">Action</th><th scope=\"col\">One counter = one piece</th></tr></thead><tbody><tr><td>Start</td><td>●</td></tr><tr><td>Fold</td><td>●</td></tr><tr><td>First tear</td><td>● ●</td></tr><tr><td>Second tear</td><td>● ● ● ●</td></tr></tbody></table>",
+        "Did the number of pieces increase when the paper was only folded?",
+        "No. The count stayed at one."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Every pattern keeps increasing.”",
+        "Data can stay the same or decrease. Describe the actual record."
+      ],
+      [
+        "“Bigger pictures must mean more objects.”",
+        "Read the count or key. Picture size alone does not show the number."
+      ]
+    ],
+    "activityTitle": "Build and check a four-row model",
+    "activity": "2 minutes: read the paper-action table. 5 minutes: draw one circle for each piece in each row. 3 minutes: compare your display with the table and describe where the count stayed the same.",
+    "adjust": "Support: begin with the first two rows. Extend: represent the same data another way and explain why the message should stay unchanged.",
+    "safety": "Use supplied data and drawings. If using physical counters, choose ones suitable for the child’s age.",
+    "tricky": [
+      [
+        "Can one counter mean one piece in one row and two in the next without a new key?",
+        "No. That changes the representation and can mislead the reader."
+      ],
+      [
+        "A row was not recorded. May we add a likely count as an observation?",
+        "No. Mark the observation as missing."
+      ],
+      [
+        "Does folding the paper four times mean it must be four separate pieces?",
+        "No. Folds and separate pieces are different things to count."
+      ]
+    ],
+    "faq": [
+      [
+        "What is data?",
+        "Recorded observations or information."
+      ],
+      [
+        "Can data be ordered in different ways?",
+        "Yes. Choose and label an order that helps answer the question, while keeping values attached to the correct records."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S2I05",
+    "title": "Compare honestly. Improve the test.",
+    "short": "Comparing results and fairness",
+    "intro": "Compare observations with predictions and others’ records. With guidance, consider fairness and ask a useful further question.",
+    "art": "materials",
+    "exampleTitle": "The prediction partly matched",
+    "example": "Ava predicted that a folded paper strip would hold exactly 4 counters before bending down. It held 3, while her flat strip held 1. “Folded holds more” matched her expectation, but the exact prediction of 4 did not. Another group recorded 5 on a folded strip; they compare setups before explaining the difference.",
+    "evidence": "<table><thead><tr><th scope=\"col\">Record</th><th scope=\"col\">Counters held before bending down</th></tr></thead><tbody><tr><td>Ava’s exact prediction: folded strip</td><td>4</td></tr><tr><td>Ava’s observed folded strip</td><td>3</td></tr><tr><td>Ava’s observed flat strip</td><td>1</td></tr><tr><td>Another group’s folded strip</td><td>5</td></tr></tbody></table>",
+    "steps": [
+      [
+        "Compare the actual claim",
+        "Read the whole prediction. A result can support one part of an idea without matching an exact-number prediction.",
+        "<div class=\"evidence\"><strong>Two comparisons</strong><p>Folded versus flat: 3 is more than 1. Exact prediction versus result: 4 is not 3.</p></div>",
+        "Should Ava rewrite her original prediction as 3?",
+        "No. Keep both the original prediction and the measured result."
+      ],
+      [
+        "Compare methods before blaming",
+        "Different observations may come from different materials, gaps, counter sizes or methods, as well as real variation.",
+        "<table><thead><tr><th scope=\"col\">Our group</th><th scope=\"col\">Other group</th><th scope=\"col\">What to check</th></tr></thead><tbody><tr><td>3 counters</td><td>5 counters</td><td>Same paper, gap and counter size?</td></tr></tbody></table>",
+        "Does a result of 5 prove the other group measured badly?",
+        "No. Check their setup and records before drawing that conclusion."
+      ],
+      [
+        "Ask a connected next question",
+        "To compare folding fairly, keep paper size and type, gap, counter type and placement similar. Change the intended feature and repeat with guidance.",
+        "<div class=\"evidence\"><strong>Next question</strong><p>Will a folded strip still hold more than a flat strip if we repeat the comparison using the same paper and gap?</p></div>",
+        "Is “Which music do you like?” a useful follow-up to these paper results?",
+        "It is not connected to this evidence. Ask about the paper setup or result."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“A prediction must match or the experiment is useless.”",
+        "A different result can help improve the next question."
+      ],
+      [
+        "“Fair test only means taking turns.”",
+        "Taking turns is fair behaviour. A fair comparison also needs comparable test conditions."
+      ]
+    ],
+    "activityTitle": "Keep both records and compare",
+    "activity": "2 minutes: read Ava’s table. 5 minutes: explain what matched and what differed. 3 minutes: suggest one setup check and one connected further question.",
+    "adjust": "Support: use prediction/result cards. Extend: explain why the exact-number prediction and the broader folded-versus-flat idea need separate judgements.",
+    "safety": "Use supplied records. Any real test needs adult-approved supports, suitable counters and a low workspace.",
+    "tricky": [
+      [
+        "Both groups used paper, but their gaps were different. Could that matter?",
+        "Yes. The gap may affect how many counters a strip holds."
+      ],
+      [
+        "Should a surprising result be erased?",
+        "No. Keep the observation and investigate possible reasons."
+      ],
+      [
+        "Does one repetition proving different settle the explanation?",
+        "No. Compare methods and gather more evidence with guidance."
+      ]
+    ],
+    "faq": [
+      [
+        "What does compare mean?",
+        "Describe similarities and differences using the records."
+      ],
+      [
+        "What is a useful further question?",
+        "One connected to what happened and suitable for another observation or safe investigation."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S2I06",
+    "title": "Make the evidence clear to a reader",
+    "short": "Communicating scientific findings",
+    "intro": "Create texts that communicate observations, findings and ideas. Use clear labels and accurate everyday and scientific vocabulary.",
+    "art": "materials",
+    "exampleTitle": "A report needs the unit and the comparison",
+    "example": "Supplied records show a flat strip held 1 counter and a folded strip held 3 before bending down. A useful finding says: “In our test, the folded strip held more counters than the flat strip.” A clear report also names the paper, gap and unit. It does not claim every folded material is always stronger.",
+    "evidence": "<table><thead><tr><th scope=\"col\">Strip</th><th scope=\"col\">Counters held before bending down</th></tr></thead><tbody><tr><td>Flat paper strip</td><td>1</td></tr><tr><td>Folded paper strip</td><td>3</td></tr></tbody></table>",
+    "steps": [
+      [
+        "Separate the parts of the report",
+        "A question says what was investigated. Observations report what happened. A finding explains what the evidence shows.",
+        "<table><thead><tr><th scope=\"col\">Part</th><th scope=\"col\">Example</th></tr></thead><tbody><tr><td>Question</td><td>Which strip holds more counters?</td></tr><tr><td>Observation</td><td>Folded: 3 counters; flat: 1 counter</td></tr><tr><td>Finding</td><td>The folded strip held more in this test</td></tr></tbody></table>",
+        "Is “Will thicker paper change the result?” an observation?",
+        "No. It is a further question."
+      ],
+      [
+        "Use helpful words and labels",
+        "Name the object, action and unit. Everyday words are useful; scientific words such as material and observation help when used accurately.",
+        "<table><thead><tr><th scope=\"col\">Unclear</th><th scope=\"col\">Clearer</th></tr></thead><tbody><tr><td>It did better</td><td>The folded paper strip held more counters</td></tr><tr><td>It held 3</td><td>It held 3 identical counters before bending down</td></tr></tbody></table>",
+        "Must a report use long science words to be clear?",
+        "No. Use accurate words the audience understands."
+      ],
+      [
+        "Choose a format and check it",
+        "Use a short report, labelled drawing or table. A partner should be able to find the question, results and finding. Digital audio or video may help when suitable.",
+        "<div class=\"evidence\"><strong>Reader check</strong><p>Can someone tell which strip was tested, what was counted and what the records show?</p></div>",
+        "May a neat drawing replace the count of 3 with 4 to look more balanced?",
+        "No. Every text and visual must match the observation record."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“A finding can go beyond every recorded condition.”",
+        "Limit the claim to the evidence from the actual test."
+      ],
+      [
+        "“A picture does not need labels.”",
+        "Labels and a caption can explain objects, actions, units and results."
+      ]
+    ],
+    "activityTitle": "Write a mini investigation report",
+    "activity": "2 minutes: read the supplied results. 5 minutes: create a labelled drawing, table or three-sentence report. 3 minutes: ask a partner to identify the observation and finding, then improve an unclear word.",
+    "adjust": "Support: dictate sentences and add labels. Extend: add a clearly labelled further question without presenting it as a finding.",
+    "safety": "Use supplied records. Share photographs, audio and video only with adult guidance and permission from people recorded.",
+    "tricky": [
+      [
+        "Can a finding be correct without saying “always”?",
+        "Yes. A finding limited to the actual test is often more accurate."
+      ],
+      [
+        "The table says 3, but the report says 4. Which needs checking?",
+        "Check the original observation record and correct the mismatch."
+      ],
+      [
+        "Can a report include a prediction as well as a finding?",
+        "Yes. Label them so the reader knows what was expected and what was observed."
+      ]
+    ],
+    "faq": [
+      [
+        "What is scientific vocabulary?",
+        "Words used accurately to describe scientific ideas and evidence, such as material, vibration and observation."
+      ],
+      [
+        "Are spoken explanations useful?",
+        "Yes. This code also asks students to write and create texts; a spoken explanation can support a labelled drawing or dictated report."
+      ]
+    ]
+  }
+]

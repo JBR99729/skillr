@@ -1,0 +1,61 @@
+const {chromium} = require('@playwright/test');
+const fs = require('node:fs');
+const assert = require('node:assert/strict');
+const path = require('node:path');
+const inventory = JSON.parse(fs.readFileSync('docs/qa/science-release-20261107/pages.json'));
+const origin = process.env.QA_ORIGIN || 'http://127.0.0.1:8765';
+const out = 'artifacts/science-release-browser';
+fs.mkdirSync(out, {recursive:true});
+(async () => {
+  const browser = await chromium.launch({executablePath:process.env.CHROME_BIN || '/usr/bin/google-chrome', headless:true});
+  const results = [];
+  try {
+    for (const width of [1440,768,390]) {
+      const context = await browser.newContext({viewport:{width,height:1000}, javaScriptEnabled:false, colorScheme:'light'});
+      await context.route('**/*', route => new URL(route.request().url()).origin === origin ? route.continue() : route.abort());
+      const page = await context.newPage();
+      for (const item of inventory) {
+        const failures = [];
+        const listener = response => { if (response.url().startsWith(origin) && response.status() >= 400) failures.push(response.url()); };
+        page.on('response',listener);
+        const response = await page.goto(origin+'/'+item.path.replace(/index\.html$/,''), {waitUntil:'networkidle'});
+        assert.equal(response.status(),200,item.code);
+        const check = await page.evaluate(() => ({
+          overflow:document.documentElement.scrollWidth > innerWidth + 1,
+          broken:[...document.images].filter(e => e.currentSrc.startsWith(location.origin) && (!e.complete || !e.naturalWidth)).map(e=>e.src),
+          main:document.querySelectorAll('main').length,
+          heading:document.querySelectorAll('h1').length,
+          app:document.querySelectorAll('#skillr-topic-practice-now').length,
+          button: (()=>{const r=document.querySelector('#skillr-topic-practice-now').getBoundingClientRect();return {x:r.x,y:r.y,width:r.width,height:r.height,right:r.right,bottom:r.bottom}})()
+        }));
+        assert.equal(check.main,1,item.code); assert.equal(check.heading,1,item.code);assert.equal(check.app,1,item.code);
+        assert.equal(check.overflow,false,`${item.code} at ${width}px: page overflows`);
+        assert.deepEqual(check.broken,[],`${item.code}: broken images`); assert.deepEqual(failures,[],`${item.code}: failed local requests`);
+        assert(check.button.height>=44 && check.button.x>=0 && check.button.right<=width && check.button.bottom<=1000,`${item.code}: app button touch target/placement`);
+        const summaries=page.locator('.steps article details > summary');
+        assert.equal(await summaries.count(),3,item.code);
+        for(let i=0;i<3;i++){
+          await summaries.nth(i).click();
+          assert(await summaries.nth(i).evaluate(e=>e.parentElement.open),item.code);
+          await summaries.nth(i).click();
+          assert.equal(await summaries.nth(i).evaluate(e=>e.parentElement.open),false,item.code);
+        }
+        if (['AC9SFH01','AC9S1U01','AC9S2U01','AC9S3I06'].includes(item.code)) {
+          await page.locator('h1').scrollIntoViewIfNeeded();
+          await page.screenshot({path:path.join(out,`${item.code}-${width}-top.png`)});
+          await page.locator('.mini-lesson').scrollIntoViewIfNeeded();
+          await page.screenshot({path:path.join(out,`${item.code}-${width}-lesson.png`)});
+        }
+        page.off('response',listener);results.push({code:item.code,width,...check});
+      }
+      await context.close();
+    }
+    const context=await browser.newContext({viewport:{width:1440,height:1000}});
+    await context.route('**/*',route=>new URL(route.request().url()).origin===origin?route.continue():route.abort());
+    const page=await context.newPage();const errors=[];page.on('pageerror',error=>errors.push(error.message));
+    for(const item of inventory){await page.goto(origin+'/'+item.path.replace(/index\.html$/,''),{waitUntil:'networkidle'});assert.equal(await page.locator('#skillr-topic-practice-now').count(),1,item.code);}
+    assert.deepEqual(errors,[],'page JavaScript errors');await context.close();
+    fs.writeFileSync(path.join(out,'results.json'),JSON.stringify({pages:inventory.length,viewports:[1440,768,390],javascriptDisabled:true,javascriptEnabledSmoke:inventory.length,results},null,2));
+    console.log(`PASS ${inventory.length} science pages at desktop, tablet and mobile; native answer toggles, images, app targets and JavaScript smoke.`);
+  } finally {await browser.close();}
+})().catch(error=>{console.error(error);process.exitCode=1});

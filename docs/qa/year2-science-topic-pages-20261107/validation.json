@@ -1,0 +1,241 @@
+{
+  "pages": 10,
+  "checks_per_page": 15,
+  "passed": 10,
+  "results": [
+    {
+      "code": "AC9S2U01",
+      "checks": {
+        "one_h1": true,
+        "metadata_preserved": true,
+        "structured_data_preserved": true,
+        "three_steps": true,
+        "step_evidence": true,
+        "three_tricky_answers": true,
+        "all_image_alts": true,
+        "unique_ids": true,
+        "fragments_resolve": true,
+        "column_headers": true,
+        "samecode_worksheet": true,
+        "teacher_viewer": true,
+        "home_and_index": true,
+        "no_curriculum_renderer": true,
+        "retained_section_count": true
+      },
+      "status": "PASS",
+      "sha256": "3ce6e4635b9809bfe7509845f03137b5700aad691abdc9a9f8cf2cbffc50b7d0"
+    },
+    {
+      "code": "AC9S2U02",
+      "checks": {
+        "one_h1": true,
+        "metadata_preserved": true,
+        "structured_data_preserved": true,
+        "three_steps": true,
+        "step_evidence": true,
+        "three_tricky_answers": true,
+        "all_image_alts": true,
+        "unique_ids": true,
+        "fragments_resolve": true,
+        "column_headers": true,
+        "samecode_worksheet": true,
+        "teacher_viewer": true,
+        "home_and_index": true,
+        "no_curriculum_renderer": true,
+        "retained_section_count": true
+      },
+      "status": "PASS",
+      "sha256": "6cd1b92b2012fa43fa967edfb869471da4fb01efe387f0ac80bcc498c638744d"
+    },
+    {
+      "code": "AC9S2U03",
+      "checks": {
+        "one_h1": true,
+        "metadata_preserved": true,
+        "structured_data_preserved": true,
+        "three_steps": true,
+        "step_evidence": true,
+        "three_tricky_answers": true,
+        "all_image_alts": true,
+        "unique_ids": true,
+        "fragments_resolve": true,
+        "column_headers": true,
+        "samecode_worksheet": true,
+        "teacher_viewer": true,
+        "home_and_index": true,
+        "no_curriculum_renderer": true,
+        "retained_section_count": true
+      },
+      "status": "PASS",
+      "sha256": "73b3beaf2c872cfaa5ebf992d453d112bd2727f7db88b158c41bd9af861cc965"
+    },
+    {
+      "code": "AC9S2H01",
+      "checks": {
+        "one_h1": true,
+        "metadata_preserved": true,
+        "structured_data_preserved": true,
+        "three_steps": true,
+        "step_evidence": true,
+        "three_tricky_answers": true,
+        "all_image_alts": true,
+        "unique_ids": true,
+        "fragments_resolve": true,
+        "column_headers": true,
+        "samecode_worksheet": true,
+        "teacher_viewer": true,
+        "home_and_index": true,
+        "no_curriculum_renderer": true,
+        "retained_section_count": true
+      },
+      "status": "PASS",
+      "sha256": "0e24a263a23053a0337e7fe3da61994baa8c247f4c90ac08f390a9832a29fac2"
+    },
+    {
+      "code": "AC9S2I01",
+      "checks": {
+        "one_h1": true,
+        "metadata_preserved": true,
+        "structured_data_preserved": true,
+        "three_steps": true,
+        "step_evidence": true,
+        "three_tricky_answers": true,
+        "all_image_alts": true,
+        "unique_ids": true,
+        "fragments_resolve": true,
+        "column_headers": true,
+        "samecode_worksheet": true,
+        "teacher_viewer": true,
+        "home_and_index": true,
+        "no_curriculum_renderer": true,
+        "retained_section_count": true
+      },
+      "status": "PASS",
+      "sha256": "6ec9a342dbea8baa6559a9b797ebe493cbae8e8cb345bb2e80ac01ca379794be"
+    },
+    {
+      "code": "AC9S2I02",
+      "checks": {
+        "one_h1": true,
+        "metadata_preserved": true,
+        "structured_data_preserved": true,
+        "three_steps": true,
+        "step_evidence": true,
+        "three_tricky_answers": true,
+        "all_image_alts": true,
+        "unique_ids": true,
+        "fragments_resolve": true,
+        "column_headers": true,
+        "samecode_worksheet": true,
+        "teacher_viewer": true,
+        "home_and_index": true,
+        "no_curriculum_renderer": true,
+        "retained_section_count": true
+      },
+      "status": "PASS",
+      "sha256": "ea9eedc847581d184541658fa0ffc1a7783f093058e399a9854e6f1fb009b009"
+    },
+    {
+      "code": "AC9S2I03",
+      "checks": {
+        "one_h1": true,
+        "metadata_preserved": true,
+        "structured_data_preserved": true,
+        "three_steps": true,
+        "step_evidence": true,
+        "three_tricky_answers": true,
+        "all_image_alts": true,
+        "unique_ids": true,
+        "fragments_resolve": true,
+        "column_headers": true,
+        "samecode_worksheet": true,
+        "teacher_viewer": true,
+        "home_and_index": true,
+        "no_curriculum_renderer": true,
+        "retained_section_count": true
+      },
+      "status": "PASS",
+      "sha256": "d202a1cd1c8769f82fe580971bc47b868538034a1dc75a2e5a8b8b975a7f4313"
+    },
+    {
+      "code": "AC9S2I04",
+      "checks": {
+        "one_h1": true,
+        "metadata_preserved": true,
+        "structured_data_preserved": true,
+        "three_steps": true,
+        "step_evidence": true,
+        "three_tricky_answers": true,
+        "all_image_alts": true,
+        "unique_ids": true,
+        "fragments_resolve": true,
+        "column_headers": true,
+        "samecode_worksheet": true,
+        "teacher_viewer": true,
+        "home_and_index": true,
+        "no_curriculum_renderer": true,
+        "retained_section_count": true
+      },
+      "status": "PASS",
+      "sha256": "9eb25f38af17ed1db6a8292ec2f418a9333e8340b0ceaad81861a676fccc80f7"
+    },
+    {
+      "code": "AC9S2I05",
+      "checks": {
+        "one_h1": true,
+        "metadata_preserved": true,
+        "structured_data_preserved": true,
+        "three_steps": true,
+        "step_evidence": true,
+        "three_tricky_answers": true,
+        "all_image_alts": true,
+        "unique_ids": true,
+        "fragments_resolve": true,
+        "column_headers": true,
+        "samecode_worksheet": true,
+        "teacher_viewer": true,
+        "home_and_index": true,
+        "no_curriculum_renderer": true,
+        "retained_section_count": true
+      },
+      "status": "PASS",
+      "sha256": "58b8860fe36d692ad7b0728736277ef1d48e6ba1efabbe50939b42b8c151f1ab"
+    },
+    {
+      "code": "AC9S2I06",
+      "checks": {
+        "one_h1": true,
+        "metadata_preserved": true,
+        "structured_data_preserved": true,
+        "three_steps": true,
+        "step_evidence": true,
+        "three_tricky_answers": true,
+        "all_image_alts": true,
+        "unique_ids": true,
+        "fragments_resolve": true,
+        "column_headers": true,
+        "samecode_worksheet": true,
+        "teacher_viewer": true,
+        "home_and_index": true,
+        "no_curriculum_renderer": true,
+        "retained_section_count": true
+      },
+      "status": "PASS",
+      "sha256": "caa21e0fd80498cb8011cb884d8d2eefa3065d567b606c8ed27af61508793d0a"
+    }
+  ],
+  "dom_smoke": {
+    "status": "PASS",
+    "pages": 10,
+    "preserved_teaching_sections": 75,
+    "local_image_references": 9,
+    "native_disclosure_checks": 175
+  },
+  "limits": [
+    "Author teacher-style review; no independent sign-off claimed.",
+    "Browser preview connection was refused; desktop/mobile layout remains unverified.",
+    "Native disclosure toggles were exercised in jsdom, not a real rendered browser.",
+    "App authentication, marking and learner-progress persistence were not exercised.",
+    "Existing slide/worksheet/bank content was not rewritten or recertified."
+  ]
+}
