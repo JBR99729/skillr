@@ -1,6 +1,6 @@
 {
-  "verifiedAt": "2026-11-05",
-  "source": "Production availability readback after the owner-authorised DEV promotion on 5 November 2026. Nineteen Year 1 English banks add 813 reviewed questions; AC9S1U01 adds 17 separate Test questions. Existing availability is retained. New English topic links use free-account entry.",
+  "verifiedAt": "2026-11-08",
+  "source": "Production availability readback after the owner-authorised DEV promotion on 5 November 2026. Nineteen Year 1 English banks add 813 reviewed questions; AC9S1U01 adds 17 separate Test questions. Existing availability is retained. New English topic links use free-account entry. Production readback on 8 November 2026 adds AC9M8M03\u2013M06: each has 80 Practice and 15 Test questions, with account entry and no guest availability. Prior entries retained.",
   "codes": [
     {
       "code": "AC9EFLA01",
@@ -1934,6 +1934,38 @@
       "code": "AC9E1LY15",
       "year": 1,
       "subject": "english",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M8M03",
+      "year": 8,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M8M04",
+      "year": 8,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M8M05",
+      "year": 8,
+      "subject": "maths",
+      "practice": true,
+      "assessment": true,
+      "guestPractice": false
+    },
+    {
+      "code": "AC9M8M06",
+      "year": 8,
+      "subject": "maths",
       "practice": true,
       "assessment": true,
       "guestPractice": false
