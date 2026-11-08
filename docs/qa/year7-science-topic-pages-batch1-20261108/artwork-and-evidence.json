@@ -1,0 +1,62 @@
+{
+  "images": [
+    {
+      "path": "assets/images/year7-science/garden-ecosystem.webp",
+      "sha256": "23368311e131d89a1142ce87a7cadbedad8c042d7638a6e19bfa091b5d99a758",
+      "kind": "Original generated contextual textbook illustration",
+      "limits": "Not measured field or laboratory evidence; no species-level or quantitative question relies on these pixels."
+    },
+    {
+      "path": "assets/images/year7-science/separating-mixtures.webp",
+      "sha256": "5dff4194d13301e3a2b0d9d8c02b816f93ec0a8d431f0e0b8378be8035acca02",
+      "kind": "Original generated contextual textbook illustration",
+      "limits": "Not measured field or laboratory evidence; no species-level or quantitative question relies on these pixels."
+    }
+  ],
+  "prompts": [
+    {
+      "asset": "garden-ecosystem.webp",
+      "design": "Original realistic watercolour/pencil garden pond with frog, snail and grasshopper, warm off-white, no labels; classification traits supplied separately in cards."
+    },
+    {
+      "asset": "separating-mixtures.webp",
+      "design": "Original matching lab bench with beakers, safely supported filter funnel, sand-water and salt; no flames, labels or quantitative results."
+    }
+  ],
+  "exact_models": [
+    "U02sixfood-to-eaterlinks",
+    "U03paralleltiltedaxesandJuneDecemberhemispheres",
+    "U04sixSVGunitspernewton; 12right/8left/20up/20down",
+    "U05same-sizedmovingparticlesstatecomparison",
+    "U06identicalABunitsversusseparateAandB"
+  ],
+  "originality": "New independently expressed prose, symbolic diagrams and fictional scenarios. No copied source art or seasonal-calendar derivative. H02usespublicprojectmetadataonly.",
+  "source_limit": "No fresh IXLsession, source pixels/media playback, practical measurements, cultural permission or learnerperformance claimed.",
+  "corrected_retained_diagrams": [
+    {
+      "path": "assets/images/year7-science/classification-key-corrected.svg",
+      "sha256": "a934cef31ac3c9134195666900fbb6d4782a706ee92722525a80c7ec0655ccca",
+      "kind": "Original deterministic scientific SVG; exact visible geometry and equivalent alt description"
+    },
+    {
+      "path": "assets/images/year7-science/machines-corrected.svg",
+      "sha256": "a333fed5cee24550d35974ce53f72d315bc098da8d597b3c2c3cfecdf21b5d4e",
+      "kind": "Original deterministic scientific SVG; exact visible geometry and equivalent alt description"
+    },
+    {
+      "path": "assets/images/year7-science/orbital-gravity-corrected.svg",
+      "sha256": "18840ac42903b0489329d63d386509c7d301ba79ae3a6793ee7280041813785c",
+      "kind": "Original deterministic scientific SVG; exact visible geometry and equivalent alt description"
+    },
+    {
+      "path": "assets/images/year7-science/seasons-corrected.svg",
+      "sha256": "89675530f8365d88d45d0816087ef8ccdae0a1cecc835204826e741d55827ae0",
+      "kind": "Original deterministic scientific SVG; exact visible geometry and equivalent alt description"
+    },
+    {
+      "path": "assets/images/year7-science/tides-corrected.svg",
+      "sha256": "3dc24f8e00c9c32943185dbf1e98c2fce7d7dbdfeddd578832c47336ff7f6d76",
+      "kind": "Original deterministic scientific SVG; exact visible geometry and equivalent alt description"
+    }
+  ]
+}

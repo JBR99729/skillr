@@ -1,0 +1,93 @@
+[
+  {
+    "code": "AC9S7U01",
+    "section": "Dichotomous keys — E2 & E6",
+    "before": "Each pair should use contrasting, observable statements.",
+    "after": "Each pair should use contrasting, observable statements. The table below is a restricted four-card practice key: card A has feathers and no fur; card B has fur and no feathers; card C has no feathers or fur, six jointed legs and an exoskeleton; card D has no feathers or fur, four legs and dry scales. It is not a complete key for all animals.",
+    "reason": "Bound the existing table to a supplied set that every terminal resolves, rather than implying universal animal identification."
+  },
+  {
+    "code": "AC9S7U01",
+    "section": "Apply and transfer",
+    "before": "Create the first two paired statements for four leaves that differ in margin shape and vein pattern.",
+    "after": "Use these four hypothetical leaf cards: A has a toothed margin and netted veins; B has a smooth margin and netted veins; C has a toothed margin and parallel veins; D has a smooth margin and parallel veins. Create the first two paired decisions of a key. For example, start with toothed margin → step 2 / smooth margin → step 3, then split the toothed group by netted veins → A / parallel veins → C. A final matching split would resolve B and D.",
+    "reason": "Supply the missing four traits and an independently checkable model, preserving the original key-construction aim."
+  },
+  {
+    "code": "AC9S7U02",
+    "section": "Apply and transfer",
+    "before": "A drought reduces grass biomass. Predict two direct and two indirect food-web effects.",
+    "after": "Using the worked food-web model in “Food webs and feeding relationships — E1”, suppose a drought reduces grass biomass. Predict two direct and two indirect food-web effects. State your assumptions and qualify the outcomes.",
+    "reason": "Identify which of the retained and new food-web models supplies the relationships for this existing transfer task."
+  },
+  {
+    "code": "AC9S7H01",
+    "section": "First Nations ecological knowledge and caring for Country",
+    "before": "traditional ecological and zoological knowledges can include rules about when, where and how species are harvested. Protecting breeding areas, avoiding pregnant animals and taking only what is needed can support population sustainability.",
+    "after": "locally held ecological knowledge can reflect sustained observation. To evaluate a harvesting example, identify its particular knowledge holders, Country/Place, public source and permitted use; do not assume one set of rules applies to every community or species.",
+    "reason": "Replace an unsupported generic species/practice claim with bounded source-evaluation and knowledge-governance reasoning; preserve the cultural-perspectives learning aim."
+  },
+  {
+    "code": "AC9S7H01",
+    "section": "10 Important Questions & Answers",
+    "before": "Sustainable harvesting — How do First Nations harvesting rules for dugongs and turtles demonstrate scientific thinking?",
+    "after": "Cultural knowledge and evidence — What information is needed before evaluating a First Nations harvesting example?",
+    "reason": "Replace an unsupported generic species/practice claim with bounded source-evaluation and knowledge-governance reasoning; preserve the cultural-perspectives learning aim."
+  },
+  {
+    "code": "AC9S7H01",
+    "section": "10 Important Questions & Answers",
+    "before": "These rules—such as avoiding pregnant females and protecting breeding areas—are based on long-term observation of population cycles. They help species remain sustainable, showing an evidence-based approach to resource management.",
+    "after": "Identify the particular People or community, Country/Place, authorised public source and permitted use. Explain which documented observations informed the knowledge or application, and what evidence supports any outcome. Do not invent a generic rule or assume it applies to all communities.",
+    "reason": "Replace an unsupported generic species/practice claim with bounded source-evaluation and knowledge-governance reasoning; preserve the cultural-perspectives learning aim."
+  },
+  {
+    "code": "AC9S7H01",
+    "section": "Revision Notes",
+    "before": "Traditional ecological and zoological knowledges can guide sustainable harvesting of species such as dugongs and turtles.",
+    "after": "Evaluate a particular publicly documented harvesting case in its cultural and ecological context. Questions to ask include:",
+    "reason": "Replace an unsupported generic species/practice claim with bounded source-evaluation and knowledge-governance reasoning; preserve the cultural-perspectives learning aim."
+  },
+  {
+    "code": "AC9S7H01",
+    "section": "Revision Notes",
+    "before": "Avoiding pregnant females.",
+    "after": "Who holds the knowledge, and which Country/Place and species does the source concern?",
+    "reason": "Replace an unsupported generic species/practice claim with bounded source-evaluation and knowledge-governance reasoning; preserve the cultural-perspectives learning aim."
+  },
+  {
+    "code": "AC9S7H01",
+    "section": "Revision Notes",
+    "before": "Protecting breeding areas.",
+    "after": "Which observations and management purposes are actually documented?",
+    "reason": "Replace an unsupported generic species/practice claim with bounded source-evaluation and knowledge-governance reasoning; preserve the cultural-perspectives learning aim."
+  },
+  {
+    "code": "AC9S7H01",
+    "section": "Revision Notes",
+    "before": "Taking only what is needed.",
+    "after": "What evidence supports the claimed population effect, and what limits remain?",
+    "reason": "Replace an unsupported generic species/practice claim with bounded source-evaluation and knowledge-governance reasoning; preserve the cultural-perspectives learning aim."
+  },
+  {
+    "code": "AC9S7H01",
+    "section": "Revision Notes",
+    "before": "Managing when, where and how harvesting occurs.",
+    "after": "What attribution, permission and sharing conditions apply to the intended use?",
+    "reason": "Replace an unsupported generic species/practice claim with bounded source-evaluation and knowledge-governance reasoning; preserve the cultural-perspectives learning aim."
+  },
+  {
+    "code": "AC9S7H01",
+    "section": "Revision Notes",
+    "before": "These practices can help maintain healthy populations over time.",
+    "after": "A supported explanation links documented observations and decisions to evidence of outcomes; it does not treat one case as a universal rule.",
+    "reason": "Replace an unsupported generic species/practice claim with bounded source-evaluation and knowledge-governance reasoning; preserve the cultural-perspectives learning aim."
+  },
+  {
+    "code": "AC9S7H01",
+    "section": "Revision Notes",
+    "before": "Explain how sustainable harvesting practices protect populations.",
+    "after": "Explain what evidence and cultural context are needed to evaluate a particular documented harvesting practice.",
+    "reason": "Replace an unsupported generic species/practice claim with bounded source-evaluation and knowledge-governance reasoning; preserve the cultural-perspectives learning aim."
+  }
+]

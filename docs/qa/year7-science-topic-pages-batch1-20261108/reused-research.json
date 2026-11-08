@@ -1,0 +1,133 @@
+{
+  "inspection_date": "2026-11-08",
+  "scope": "Saved text and methods reused; no fresh IXL/media/practical/cultural permission claimed. Later accepted per-code fields control older immutable collection proposals.",
+  "official_rechecked": "https://www.qcaa.qld.edu.au/downloads/aciqv9/science/curriculum/ac9_science_yr7_as_cd_alignment.pdf",
+  "records": [
+    {
+      "repository": "JBR99729/research-",
+      "path": "shared-research/science/2026-11-03-penicillin-collaboration-case.json",
+      "git_blob_sha": "9a85cbd3f3e2004e6514f2f9ad5557b164d28ec8",
+      "sha256": "ec3a05639303478529b6996da29207ac266c1e69e30b4a1961c4685c593d9bac",
+      "bytes": 7069
+    },
+    {
+      "repository": "JBR99729/research-",
+      "path": "shared-research/science/2026-11-04-earth-motion-daylength-evidence.json",
+      "git_blob_sha": "f8bb0262fc3879873e3ed61446b3fcd99a7b8e22",
+      "sha256": "21989a6d249d076090ab6c1be395f97c63082f6c48277b3e01d11470bc0fcf82",
+      "bytes": 11917
+    },
+    {
+      "repository": "JBR99729/research-",
+      "path": "shared-research/science/2026-11-04-six-omitted-science-particle-separation-argument-communication-source-ledger.json",
+      "git_blob_sha": "acab77dcb8be60a35cf9cabfcd3a9734ed4e2089",
+      "sha256": "a11cdad48b4854dd2ee81035063d2916d57dcc1333dc684155a7c2ae7e8c0a3f",
+      "bytes": 41481
+    },
+    {
+      "repository": "JBR99729/research-",
+      "path": "shared-research/science/2026-11-04-year7-classification-foodweb-source-ledger.json",
+      "git_blob_sha": "2cff8553ea4cb1f0717a5af621fe4401ecf33bb0",
+      "sha256": "7c6134e230ccd4323b65213133a940fa5c8c6764bb02ed4fd68a1bef38772ca6",
+      "bytes": 17669
+    },
+    {
+      "repository": "JBR99729/research-",
+      "path": "shared-research/science/2026-11-04-year7-eclipses-tides-source-ledger.json",
+      "git_blob_sha": "0fc516cdae4a4d0e7bc28eb69d1bcda36b9bcbf8",
+      "sha256": "605978d7360776c8874ed660f6b9343f7e3a729b27699fcb7a26255aeae851a2",
+      "bytes": 20290
+    },
+    {
+      "repository": "JBR99729/research-",
+      "path": "shared-research/science/2026-11-04-year7-forces-mass-gravity-source-ledger.json",
+      "git_blob_sha": "2667871de325e83c854d9f16b33f7519dd28eddb",
+      "sha256": "789b6ea5efc49dab5af60dcad1b91842b6677feea6485358be38d2dddf4c7c4d",
+      "bytes": 21272
+    },
+    {
+      "repository": "JBR99729/research-",
+      "path": "shared-research/science/2026-11-04-year7-science-perspectives-responses-source-ledger.json",
+      "git_blob_sha": "11cd250460a74be2b5245e020711d4af9b608539",
+      "sha256": "dd09c604416f564f450a2bdd4a5ea57ef2625c91f1e19cf82b32469f1e21699a",
+      "bytes": 23907
+    },
+    {
+      "repository": "JBR99729/research-",
+      "path": "year-7/science/AC9S7H01/research/2026-11-04-source-gap-candidate.json",
+      "git_blob_sha": "0ecef872f37d65d85260b760fab966e353aa28a7",
+      "sha256": "7908adf68cf786ee6dbb8d74be4c8d2efba161a0acbab27ac1546aebe3f485ed",
+      "bytes": 5438
+    },
+    {
+      "repository": "JBR99729/research-",
+      "path": "year-7/science/AC9S7H02/research/2026-11-04-source-gap-candidate.json",
+      "git_blob_sha": "4eb37f5a76f0e37df7b89228ea8c41bf2c1b5ac0",
+      "sha256": "971bcbbfd54f5d421272a2555e988bcf2c542e48db4c8437660f59c5ece54c13",
+      "bytes": 5608
+    },
+    {
+      "repository": "JBR99729/research-",
+      "path": "year-7/science/AC9S7H03/research/2026-11-04-source-gap-candidate.json",
+      "git_blob_sha": "9e5d8ad91a137b5b15f6fa3e2eac782f0aa1d116",
+      "sha256": "be8199fce5b1a8bab222007e8d5d3fa6794366bd5985a97c6c8655a1595bb02c",
+      "bytes": 5658
+    },
+    {
+      "repository": "JBR99729/research-",
+      "path": "year-7/science/AC9S7H04/research/2026-11-04-source-gap-candidate.json",
+      "git_blob_sha": "927f09341bfc275e7a280227a9b70007b5e1dcff",
+      "sha256": "e82e288d4fe3ad6fdcbad7e6b82d8f02d54f985bbc11b85f17e586538e8b2207",
+      "bytes": 5650
+    },
+    {
+      "repository": "JBR99729/research-",
+      "path": "year-7/science/AC9S7U01/research/2026-11-04-source-gap-candidate.json",
+      "git_blob_sha": "ebc01d15cb18d18dec922c01e166c5cfac15ed4e",
+      "sha256": "8452962651d00211f5cf4efc13a25b95d731e2b2ecaa78450671d75bb63102c7",
+      "bytes": 5577
+    },
+    {
+      "repository": "JBR99729/research-",
+      "path": "year-7/science/AC9S7U02/research/2026-11-04-source-gap-candidate.json",
+      "git_blob_sha": "959ca524ecfe990074310f8e236ebc6ec960a23e",
+      "sha256": "002a792bd456212896a39d7f13dbfa222145f63fab01dcff65b57a623328b642",
+      "bytes": 5738
+    },
+    {
+      "repository": "JBR99729/research-",
+      "path": "year-7/science/AC9S7U03/research/2026-11-04-source-gap-candidate.json",
+      "git_blob_sha": "6fb61dc3f243e8d62c6f0158261e762b7d1b12e9",
+      "sha256": "960a464df813df29390926f584bcf81123cfd0cac4938b99d2cda6d3fce8f555",
+      "bytes": 6797
+    },
+    {
+      "repository": "JBR99729/research-",
+      "path": "year-7/science/AC9S7U04/research/2026-11-04-source-gap-candidate.json",
+      "git_blob_sha": "373dda8082132526610a6035cd5130dde44cb3c9",
+      "sha256": "e8be74751b61fc4373e508533470ecdd3baafa672f10dbb83ef43e4d4826ed67",
+      "bytes": 5893
+    },
+    {
+      "repository": "JBR99729/research-",
+      "path": "year-7/science/AC9S7U05/research/2026-11-04-source-gap-candidate.json",
+      "git_blob_sha": "71465b58524ae08f80d11f2fe48177bce86da605",
+      "sha256": "10b5e3f4a6465375b138b28f4818b06a75620861d50900cc8bd1b469b5fbeb69",
+      "bytes": 7281
+    },
+    {
+      "repository": "JBR99729/research-",
+      "path": "year-7/science/AC9S7U06/research/2026-11-04-source-gap-candidate.json",
+      "git_blob_sha": "0e2b940e4feb6c7d28d445c89c24b57ec3daebaf",
+      "sha256": "acf6a77cf4040ceb12627acb6852efc95d3215c4de05ca6816e0c1c3af30264b",
+      "bytes": 7435
+    },
+    {
+      "repository": "JBR99729/research-",
+      "path": "year-7/science/Year7_Science_Curriculum_Research_Master.txt",
+      "git_blob_sha": "cfcdf1160e9e6eec3cdb7eb8abb128d0cb8b48d9",
+      "sha256": "421989356e87d5d73171c7ff374a12c8d21622dda62fe240ec403d7c15194cb0",
+      "bytes": 68451
+    }
+  ]
+}

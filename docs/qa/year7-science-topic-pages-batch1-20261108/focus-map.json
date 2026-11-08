@@ -1,0 +1,504 @@
+[
+  {
+    "code": "AC9S7H01",
+    "descriptor": "explain how new evidence or different perspectives can lead to changes in scientific knowledge",
+    "source_status": "SUFFICIENT — BOUNDED CORE",
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "Compare prior and revised models",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "PENICILLIN:OXFORD-PEN/FLOREY1945/NMA-PEN"
+        ],
+        "basis": "F1 prior accepted penicillin case reuse preserved;old evidence/new workable methods distinguished.",
+        "material_source_gap_identified_by_author": null,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      },
+      {
+        "id": "F2",
+        "learning_intention": "Link specific new evidence to revision",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "PENICILLIN:OXFORD-PEN/FLOREY1945",
+          "O-HISTORY"
+        ],
+        "basis": "F2 prior accepted link between specific evidence and changed interpretation preserved.",
+        "material_source_gap_identified_by_author": null,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      },
+      {
+        "id": "F3",
+        "learning_intention": "Explain perspective, testing and uncertainty",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "PENICILLIN:OXFORD-PEN/NLA-TEAM/FLOREY1945",
+          "O-HISTORY"
+        ],
+        "basis": "Complementary perspectives,competing proposals,assay/crystallographic testing and provisional conclusions support uncertainty focus;no chemistry diagram required.",
+        "material_source_gap_identified_by_author": null,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      }
+    ]
+  },
+  {
+    "code": "AC9S7H02",
+    "descriptor": "investigate how cultural perspectives and world views influence the development of scientific knowledge",
+    "source_status": "SUFFICIENT — BOUNDED CORE",
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "Identify how perspective shapes questions/methods",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "CSIRO-CALENDAR-METHOD",
+          "CSIRO-LARRAKIA-PROVENANCE",
+          "VCAA-CULTURAL-INQUIRY"
+        ],
+        "basis": "Specific local purposes and observation/category choices plus actual comparison/reflection routine.",
+        "material_source_gap_identified_by_author": null,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      },
+      {
+        "id": "F2",
+        "learning_intention": "Investigate a specific authorised cultural case",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "CSIRO-LARRAKIA-PROVENANCE",
+          "CSIRO-CALENDAR-METHOD",
+          "VCAA-CULTURAL-INQUIRY",
+          "O-CULTURE"
+        ],
+        "basis": "Named Larrakia-led co-production with dates/roles/locality and public applications;not generic cultural slogan.",
+        "material_source_gap_identified_by_author": null,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      },
+      {
+        "id": "F3",
+        "learning_intention": "Apply consent, attribution and knowledge governance",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "CSIRO-ICIP-TERMS",
+          "PERMISSIONS:ILALC-DJEERA-PROTOCOL",
+          "O-CULTURE"
+        ],
+        "basis": "Exact ICIP/public-versus-commercial conditions,attribution and locally appropriate consent;no consent obtained or calendar derivative.",
+        "material_source_gap_identified_by_author": null,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      }
+    ]
+  },
+  {
+    "code": "AC9S7H03",
+    "descriptor": "examine how proposed scientific responses to contemporary issues may impact on society and explore ethical, environmental, social and economic considerations",
+    "source_status": "SUFFICIENT — BOUNDED CORE",
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "Identify response, mechanism and evidence",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "CSIRO-PLASTIC-RELEASE",
+          "CSIRO-PUBLIC-PLASTICS",
+          "QLD-CONSULTATION"
+        ],
+        "basis": "Actual response(defined plastic-item supply reduction),mechanism(less circulation/litter) and attributed bounded evidence;not issue-only recall.",
+        "material_source_gap_identified_by_author": null,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      },
+      {
+        "id": "F2",
+        "learning_intention": "Examine four impact lenses/stakeholders",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "QLD-CONSULTATION",
+          "QLD-ACCESS-MESSAGE",
+          "BTN-PLASTIC-TASKS",
+          "O-FOUR-LENSES"
+        ],
+        "basis": "Four distinct lenses grounded in real environmental,rights/access,social adjustment and cost/transition information.",
+        "material_source_gap_identified_by_author": null,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      },
+      {
+        "id": "F3",
+        "learning_intention": "Weigh trade-offs in a conditional recommendation",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "QLD-CONSULTATION",
+          "BTN-PLASTIC-TASKS",
+          "O-FOUR-LENSES"
+        ],
+        "basis": "Actual argument/compare tasks plus missing-cost/selection caveats support conditional alternatives;no mandated political conclusion.",
+        "material_source_gap_identified_by_author": null,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      }
+    ]
+  },
+  {
+    "code": "AC9S7H04",
+    "descriptor": "explore the role of science communication in informing individual viewpoints and community policies and regulations",
+    "source_status": "SUFFICIENT — BOUNDED CORE",
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "Analyse source/message/audience",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "CSIRO-PLASTIC-RELEASE",
+          "CSIRO-PUBLIC-PLASTICS",
+          "BTN-PLASTIC-TRANSCRIPT",
+          "BTN-PLASTIC-TASKS"
+        ],
+        "basis": "Actual agency/public/young-audience messages and source-language/authority/audience teaching tasks.",
+        "material_source_gap_identified_by_author": null,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      },
+      {
+        "id": "F2",
+        "learning_intention": "Trace influence on viewpoints",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "BTN-PLASTIC-TRANSCRIPT",
+          "QLD-CONSULTATION",
+          "O-COMMUNICATION"
+        ],
+        "basis": "Documented petitions/feedback and government consultation pathway;effect distinguished from exposure/self-report and causal certainty.",
+        "material_source_gap_identified_by_author": null,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      },
+      {
+        "id": "F3",
+        "learning_intention": "Compare policy/regulation communication",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "QLD-CURRENT-RULE-MESSAGE",
+          "QLD-ACCESS-MESSAGE",
+          "QLD-CONSULTATION",
+          "BTN-PLASTIC-TRANSCRIPT",
+          "O-COMMUNICATION"
+        ],
+        "basis": "Actual corporate policy versus government restriction messages,implemented accessibility guidance and historical proposals distinguished.",
+        "material_source_gap_identified_by_author": null,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      }
+    ]
+  },
+  {
+    "code": "AC9S7U01",
+    "descriptor": "investigate the role of classification in ordering and organising the diversity of life on Earth and use and develop classification tools including dichotomous keys",
+    "source_status": "SUFFICIENT — BOUNDED CORE",
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "Observable classification criteria",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "ABC-PASTA-KEY",
+          "OXFORD-CLASS-KEY",
+          "ESA-BIOKEY-PROJECT"
+        ],
+        "basis": "Actual observable-feature choices and role of classification;simple vertebrate key bounds and observation bias explicit.",
+        "material_source_gap_identified_by_author": null,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      },
+      {
+        "id": "F2",
+        "learning_intention": "Use and repair a dichotomous key",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "ABC-PASTA-KEY",
+          "OXFORD-CLASS-KEY",
+          "O-KEY-PATHS"
+        ],
+        "basis": "Exact5-terminal pasta path and complete tabular vertebrate key,plus stability/ambiguity repair criteria;no image-specific labels inferred.",
+        "material_source_gap_identified_by_author": null,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      },
+      {
+        "id": "F3",
+        "learning_intention": "Construct and test alternative keys",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "ESA-BIOKEY-PROJECT",
+          "OXFORD-CLASS-KEY",
+          "ABC-PASTA-KEY"
+        ],
+        "basis": "Actual alternative-order construction,peer testing and organism collection rubric;original keys must test all included specimens.",
+        "material_source_gap_identified_by_author": null,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      }
+    ]
+  },
+  {
+    "code": "AC9S7U02",
+    "descriptor": "use models, including food webs, to represent matter and energy flow in ecosystems and predict the impact of changing abiotic and biotic factors on populations",
+    "source_status": "SUFFICIENT — BOUNDED CORE",
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "Trace matter and energy through food webs",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "QCAA-FOODWEB-METHOD",
+          "FLBS-FOODWEB-CARDS",
+          "VEDANTU-WEB-CHECK",
+          "O-WEB-FLOW"
+        ],
+        "basis": "Complete textual feeding stimulus/method and checked multipath matter/energy explanation;source artwork not necessary for adopted text relations.",
+        "material_source_gap_identified_by_author": null,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      },
+      {
+        "id": "F2",
+        "learning_intention": "Predict abiotic and biotic population effects",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "QCAA-FOODWEB-METHOD",
+          "NPS-CHANGE-MODEL",
+          "GROWTH:PC-HABITAT-SURVEY/PC-DUCKWEED-GROWTH",
+          "O-WEB-CHANGE"
+        ],
+        "basis": "Actual biotic removal/predation/habitat and abiotic drought/pollution scenarios;conditional direct/indirect reasoning.",
+        "material_source_gap_identified_by_author": null,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      },
+      {
+        "id": "F3",
+        "learning_intention": "Explain model limitations and indirect effects",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "QCAA-FOODWEB-METHOD",
+          "FLBS-FOODWEB-CARDS",
+          "NPS-CHANGE-MODEL",
+          "O-WEB-CHANGE"
+        ],
+        "basis": "Multiple food/resource routes,competition/life-stage differences and omitted nonfeeding/inorganic/heat flows;no exact population forecast.",
+        "material_source_gap_identified_by_author": null,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      }
+    ]
+  },
+  {
+    "code": "AC9S7U03",
+    "descriptor": "model cyclic changes in the relative positions of the Earth, sun and moon and explain how these cycles cause eclipses and influence predictable phenomena on Earth, including seasons and tides",
+    "source_status": "SUFFICIENT — BOUNDED CORE",
+    "focuses": [
+      {
+        "id": "F1",
+        "focus": "Model seasons using tilt and revolution",
+        "source_sufficiency": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "author_recommendation": "Review the newly available source basis for sufficiency; this is not self-independent acceptance.",
+        "evidence": [
+          "Accepted batch-5 earth-motion/daylength ledger; PC daylength method, NASA axial orientation, Vedantu grouped seasons questions"
+        ],
+        "scope_and_limits": "Bounded cross-year reuse; no new full Year7 product acceptance."
+      },
+      {
+        "id": "F2",
+        "focus": "Explain solar and lunar eclipses",
+        "source_sufficiency": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "author_recommendation": "Review the newly available source basis for sufficiency; this is not self-independent acceptance.",
+        "evidence": [
+          "JPL-SOLAR",
+          "JPL-LUNAR",
+          "NASA-ECLIPSE-GEOMETRY"
+        ],
+        "scope_and_limits": "Complete spatial-model procedures, actual prompts and causal/node/phase/apparent-size checks; no source pixels or local forecast."
+      },
+      {
+        "id": "F3",
+        "focus": "Model spring/neap tides and limitations",
+        "source_sufficiency": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "author_recommendation": "Review the newly available source basis for sufficiency; this is not self-independent acceptance.",
+        "evidence": [
+          "LJMU-TIDES-WORKSHEET",
+          "LJMU-TIDES-KEY",
+          "NOAA-TIDE-REVIEW",
+          "NOAA-TIDE-ALIGNMENT",
+          "NOAA-TIDE-PATTERNS",
+          "NASA-TIDES",
+          "BOM-TIDES",
+          "NOAA-TIDE-DATA-METHOD"
+        ],
+        "scope_and_limits": "Full model construction/daily/monthly protocols and checked question breadth. Exact printed diagram keys not visually verified; no real Australian station series."
+      }
+    ]
+  },
+  {
+    "code": "AC9S7U04",
+    "descriptor": "investigate and represent balanced and unbalanced forces, including gravitational force, acting on objects, and relate changes in an object’s motion to its mass and the magnitude and direction of forces acting on it",
+    "source_status": "SUFFICIENT — BOUNDED CORE",
+    "focuses": [
+      {
+        "id": "F1",
+        "focus": "Represent and combine forces on one object",
+        "source_sufficiency": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "author_recommendation": "Review the newly available source basis for sufficiency; this is not self-independent acceptance.",
+        "evidence": [
+          "Retained250−180=70N",
+          "AAS-FBD",
+          "AAS-BALANCE",
+          "AAS-FRICTION"
+        ],
+        "scope_and_limits": "Single-object, two-axis text representations and actual balanced/unbalanced protocols; motion and force direction distinguished."
+      },
+      {
+        "id": "F2",
+        "focus": "Relate net force and mass to motion change",
+        "source_sufficiency": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "author_recommendation": "Review the newly available source basis for sufficiency; this is not self-independent acceptance.",
+        "evidence": [
+          "AAS-MASS",
+          "AAS-FORCE",
+          "AAS-FBD"
+        ],
+        "scope_and_limits": "Fixed-force/fixed-time mass protocol and independently calibrated changing launcher; distance alone cannot establish constant-force acceleration law."
+      },
+      {
+        "id": "F3",
+        "focus": "Investigate gravity and distinguish mass/weight",
+        "source_sufficiency": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "author_recommendation": "Review the newly available source basis for sufficiency; this is not self-independent acceptance.",
+        "evidence": [
+          "AAS-GRAVITY",
+          "IAU-GRAVITY-METHOD",
+          "IAU-MASS-QUESTIONS",
+          "IAU-MASS-KEY",
+          "VEDANTU-FORCES"
+        ],
+        "scope_and_limits": "Actual gravity investigation and hanging-mass method, checked field/mass questions and flight explanation; ramp has contact forces and is not free fall."
+      }
+    ]
+  },
+  {
+    "code": "AC9S7U05",
+    "descriptor": "use particle theory to describe the arrangement of particles in a substance, including the motion of and attraction between particles, and relate this to the properties of the substance",
+    "source_status": "SUFFICIENT — BOUNDED CORE",
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "Compare arrangement, motion and attraction",
+        "baseline_status": "SPECIFIC GAP",
+        "baseline_required_collection": "Collect complete particle diagrams and modelled spacing/motion/attraction-to-property reasoning, actual heating/cooling/diffusion/compressibility tasks and accepted explanations. Do not treat solid ordered lattice or simple weak-gas-attraction heuristics as universal substance-level absolutes.",
+        "author_proposed_status": "SUFFICIENT_PROPOSED",
+        "evidence_ids": [
+          "B17-ACS-LIQUID",
+          "B17-ACS-SOLID",
+          "B17-ACS-GAS"
+        ],
+        "author_reason": "Actual complete textual circle/motion-line construction criteria for all three states, plus comparative questions/answers, now support representation and arrangement/motion/attraction. No unobserved diagram-specific key is passed.",
+        "independent_source_gate": "PENDING SEPARATE REVIEW",
+        "reviewer_may_retain_specific_gap": true,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      },
+      {
+        "id": "F2",
+        "learning_intention": "Explain macroscopic properties from particles",
+        "baseline_status": "SPECIFIC GAP",
+        "baseline_required_collection": "Collect complete particle diagrams and modelled spacing/motion/attraction-to-property reasoning, actual heating/cooling/diffusion/compressibility tasks and accepted explanations. Do not treat solid ordered lattice or simple weak-gas-attraction heuristics as universal substance-level absolutes.",
+        "author_proposed_status": "SUFFICIENT_PROPOSED",
+        "evidence_ids": [
+          "B17-PEARSON-COMPRESSION",
+          "B17-ACS-LIQUID-HEAT",
+          "B17-ACS-GAS"
+        ],
+        "author_reason": "Complete compression and heating/cooling activities link properties to spacing/motion, with convection and near-incompressibility qualifications.",
+        "independent_source_gate": "PENDING SEPARATE REVIEW",
+        "reviewer_may_retain_specific_gap": true,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      },
+      {
+        "id": "F3",
+        "learning_intention": "Predict change and critique particle models",
+        "baseline_status": "SPECIFIC GAP",
+        "baseline_required_collection": "Collect complete particle diagrams and modelled spacing/motion/attraction-to-property reasoning, actual heating/cooling/diffusion/compressibility tasks and accepted explanations. Do not treat solid ordered lattice or simple weak-gas-attraction heuristics as universal substance-level absolutes.",
+        "author_proposed_status": "SUFFICIENT_PROPOSED",
+        "evidence_ids": [
+          "B17-ACS-LIQUID-HEAT",
+          "B17-ACS-SOLID",
+          "B17-OS-PARTICLE-REPRESENTATIONS",
+          "B17-OWN-MODEL-CRITIQUE"
+        ],
+        "author_reason": "Heating/cooling applications and exact symbolic conservation examples support prediction/model criticism. State, temperature, particle identity, geometry conventions and substance-specific limitations are explicit.",
+        "independent_source_gate": "PENDING SEPARATE REVIEW",
+        "reviewer_may_retain_specific_gap": true,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      }
+    ]
+  },
+  {
+    "code": "AC9S7U06",
+    "descriptor": "use a particle model to describe differences between pure substances and mixtures and apply understanding of properties of substances to separate mixtures",
+    "source_status": "SUFFICIENT — BOUNDED CORE",
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "Distinguish pure substance/mixture in particle models",
+        "baseline_status": "SPECIFIC GAP",
+        "baseline_required_collection": "Collect complete particle-classification stimuli plus actual filtration/evaporation/chromatography/distillation decision/sequence questions. Record property, retained/recovered component and full method rationale; distinguish evaporation from crystallisation rather than one generic solubility/boiling rule.",
+        "author_proposed_status": "SUFFICIENT_PROPOSED",
+        "evidence_ids": [
+          "reuse:MATTER",
+          "B17-OS-PARTICLE-REPRESENTATIONS"
+        ],
+        "author_reason": "Complete accessible particle-model descriptions of separate Cu/O2, CuO composition and symbolic units plus accepted actual classification tasks distinguish pure substances/mixtures. One compound can contain different atom types; not all compounds are discrete molecules.",
+        "independent_source_gate": "PENDING SEPARATE REVIEW",
+        "reviewer_may_retain_specific_gap": true,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      },
+      {
+        "id": "F2",
+        "learning_intention": "Select separation by a physical property",
+        "baseline_status": "SPECIFIC GAP",
+        "baseline_required_collection": "Collect complete particle-classification stimuli plus actual filtration/evaporation/chromatography/distillation decision/sequence questions. Record property, retained/recovered component and full method rationale; distinguish evaporation from crystallisation rather than one generic solubility/boiling rule.",
+        "author_proposed_status": "SUFFICIENT_PROPOSED",
+        "evidence_ids": [
+          "B17-RSC-SEPARATION-SEQUENCE",
+          "B17-RSC-DISTILLATION",
+          "B17-ACS-CHROMATOGRAPHY",
+          "B17-LOWER-SEPARATION-METHOD"
+        ],
+        "author_reason": "Complete separation sequence/methods and actual open questions specify physical property, desired fraction, recovery and limitations for filtration, evaporation/crystallisation, chromatography and distillation.",
+        "independent_source_gate": "PENDING SEPARATE REVIEW",
+        "reviewer_may_retain_specific_gap": true,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      },
+      {
+        "id": "F3",
+        "learning_intention": "Sequence and justify a separation process",
+        "baseline_status": "SPECIFIC GAP",
+        "baseline_required_collection": "Collect complete particle-classification stimuli plus actual filtration/evaporation/chromatography/distillation decision/sequence questions. Record property, retained/recovered component and full method rationale; distinguish evaporation from crystallisation rather than one generic solubility/boiling rule.",
+        "author_proposed_status": "SUFFICIENT_PROPOSED",
+        "evidence_ids": [
+          "B17-RSC-SEPARATION-SEQUENCE",
+          "B17-RSC-DISTILLATION",
+          "B17-LOWER-SEPARATION-METHOD",
+          "B17-OWN-SEPARATION-REVIEW"
+        ],
+        "author_reason": "Full sand/salt procedure with contamination/purity questions supports sequence evaluation; distillation solvent recovery contrasts with open evaporation. Original transfer remains separate.",
+        "independent_source_gate": "PENDING SEPARATE REVIEW",
+        "reviewer_may_retain_specific_gap": true,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      }
+    ]
+  }
+]
