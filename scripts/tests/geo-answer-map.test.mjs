@@ -6,7 +6,8 @@ import { test } from "node:test";
 const root = path.resolve(import.meta.dirname, "../..");
 const read = rel => fs.readFileSync(path.join(root, rel), "utf8");
 const llms = read("llms.txt");
-const y2 = read("year2/maths/index.html");
+const catalogue = read("learn/index.html");
+const answerMap = JSON.parse(read("data/geo-answer-routes.json"));
 const discovery = read("year2/maths/year-2-multiplication-division-arrays-and-equal-groups-activities-and-worksheets-ac9m2n05.html");
 
 const itemUrlToFile = url => {
@@ -39,12 +40,10 @@ test("first answer-map links resolve to real canonical public learning files", (
   }
 });
 
-test("Year 2 hub links to its previously published detailed equal-groups guide", () => {
+test("Year 2 discovery retains the detailed equal-groups guide and a native catalogue topic link", () => {
   const target = "/year2/maths/year-2-multiplication-division-arrays-and-equal-groups-activities-and-worksheets-ac9m2n05.html";
-  const sectionStart = y2.indexOf('id="year2-multiplication-explained"');
-  const sectionEnd = y2.indexOf('<div class="hub-list-heading">', sectionStart);
-  assert.ok(sectionStart >= 0 && sectionEnd > sectionStart);
-  assert.ok(y2.slice(sectionStart, sectionEnd).includes('href="' + target + '"'));
+  assert.ok(answerMap.routes.some(r => r.id === "Y2MULT" && new URL(r.url).pathname === target));
+  assert.match(catalogue, /href="\/year2\/maths\/ac9m2n05-[^"]+"/);
   assert.match(discovery, /AC9M2N05/i);
   assert.match(discovery, /<link[^>]+rel=["']canonical["']/i);
 });
@@ -52,10 +51,10 @@ test("Year 2 hub links to its previously published detailed equal-groups guide",
 test("Bing-priority Year 8, Year 1 shapes and Year 10 periodic answers are public and curriculum-specific", () => {
   const checks = [
     {
-      page: "year8/curriculum/index.html",
-      snippet: "Where should I start Year 8 revision?",
+      page: "blogs/year8-science-curriculum-australia-guide.html",
+      snippet: "How can I revise Year 8 Science with examples?",
       code: "Australian Curriculum",
-      answerId: "year8-revision-start",
+      answerId: "year8-science-faq",
     },
     {
       page: "year1/maths/ac9m1sp01-familiar-shapes-and-objects/index.html",
@@ -77,5 +76,49 @@ test("Bing-priority Year 8, Year 1 shapes and Year 10 periodic answers are publi
     assert.equal((html.match(new RegExp('id="' + answerId + '"', "g")) || []).length, 1, page + ": duplicate answer block");
     assert.ok(html.includes('rel="canonical"'), page + ": missing canonical");
     assert.ok(!/<meta[^>]*name=["']robots["'][^>]*noindex/i.test(html), page + ": noindex answer");
+  }
+});
+
+test("structured answer routes and neutral benchmark targets resolve to current indexable canonical pages", () => {
+  const aiIndex = JSON.parse(read("ai-index.json"));
+  assert.deepEqual(aiIndex.answer_routes, answerMap.routes);
+  assert.equal(new Set(answerMap.routes.map(r => r.id)).size, answerMap.routes.length);
+  assert.equal(new Set(answerMap.routes.map(r => r.url)).size, answerMap.routes.length);
+  const targets = [...answerMap.routes.map(r => r.url), ...JSON.parse(read("data/geo-chatgpt-neutral-prompts.json")).questions.map(q => q.target)];
+  for (const href of targets) {
+    const url = new URL(href);
+    const html = fs.readFileSync(itemUrlToFile(href), "utf8");
+    const canonical = html.match(/<link\b[^>]*rel=["']canonical["'][^>]*href=["']([^"']+)/i)?.[1];
+    assert.equal(canonical, url.origin + url.pathname, "Incorrect canonical for " + href);
+    assert.ok(!/<meta[^>]*name=["']robots["'][^>]*noindex/i.test(html), "Noindex target " + href);
+    assert.ok(!/http-equiv=["']refresh/i.test(html), "Redirect target " + href);
+    if (url.pathname === "/learn/") {
+      assert.ok(Number(url.searchParams.get("year")) >= 0 && Number(url.searchParams.get("year")) <= 10);
+      assert.ok([null, "maths", "science", "english"].includes(url.searchParams.get("subject")));
+    }
+  }
+});
+
+test("active discovery files no longer link to retired learning hubs", () => {
+  for (const name of ["llms.txt", "llms-full.txt", "ai-site-map.md", "ai-index.json"]) {
+    const urls = [...read(name).matchAll(/https:\/\/skillrhub\.com\/[^\s<>"\)\]\|,]+/g)].map(m => m[0]);
+    for (const href of urls) {
+      const file = itemUrlToFile(href);
+      if (!fs.existsSync(file) || !file.endsWith(".html")) continue;
+      assert.ok(!read(path.relative(root, file)).includes("data-learning-hub-retired="), name + ": stale hub " + href);
+    }
+  }
+});
+
+test("Year 8 Science FAQ schema matches its native visible answers", () => {
+  const html = read("blogs/year8-science-curriculum-australia-guide.html");
+  const faq = html.split('id="year8-science-faq"')[1].split("</section>")[0];
+  const schema = JSON.parse(html.match(/<script[^>]*id="skillrhub-faq-jsonld"[^>]*>([\s\S]*?)<\/script>/)[1]);
+  const pairs = [...faq.matchAll(/<summary>(.*?)<\/summary><p>(.*?)<\/p>/g)];
+  assert.equal(pairs.length, 3);
+  assert.equal(schema.mainEntity.length, pairs.length);
+  for (const [i, pair] of pairs.entries()) {
+    assert.equal(schema.mainEntity[i].name, pair[1]);
+    assert.equal(schema.mainEntity[i].acceptedAnswer.text, pair[2]);
   }
 });

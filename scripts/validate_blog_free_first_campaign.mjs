@@ -30,6 +30,18 @@ const files = fs.readdirSync(BLOG_DIR, { withFileTypes: true })
 const failures = [];
 for (const file of files) {
   const html = fs.readFileSync(file, "utf8");
+  // Retired articles must have a real, indexable local destination; a redirect
+  // is not an authored article and should not acquire a second campaign block.
+  const moved = html.match(/<meta[^>]*http-equiv=["']refresh["'][^>]*content=["'][^"']*url=([^"']+)/i)?.[1];
+  if (moved) {
+    const url = new URL(moved.replace(/&amp;/g, "&"), "https://skillrhub.com");
+    const filePath = url.pathname.replace(/^\//, "") + (url.pathname.endsWith("/") ? "index.html" : "");
+    const destination = fs.existsSync(filePath) ? fs.readFileSync(filePath, "utf8") : "";
+    if (url.origin !== "https://skillrhub.com" || !destination || /<meta[^>]*name=["']robots["'][^>]*noindex/i.test(destination) || /http-equiv=["']refresh/i.test(destination)) failures.push(`${file}: invalid article redirect destination`);
+    if (!/<meta[^>]*name=["']robots["'][^>]*noindex/i.test(html)) failures.push(`${file}: moved article must be noindex`);
+    if (url.hash && !destination.includes('id="' + url.hash.slice(1) + '"')) failures.push(`${file}: missing redirect fragment`);
+    continue;
+  }
   // Practical homeschool articles use the current printable-to-adult-tracker pathway.
   if (html.includes("data-homeschool-practical-guide")) {
     const required = ['href="/worksheets/"', 'href="/print-and-go.html#curriculum-resource-directory"', 'href="https://app.skillrhub.com/"', 'data-email-signup="homeschool-blog"', 'method="POST"', 'name="EMAIL" type="email"', 'Subscribe now', 'https://www.facebook.com/1139028835969651'];
@@ -66,7 +78,7 @@ for (const file of files) {
     if (!/"@type"\s*:\s*"BlogPosting"/.test(html) || !/<h1\b/i.test(article) || (article.match(/<h2\b/gi) || []).length < 2 || text.trim().split(/\s+/).length < 200) {
       failures.push(`${file}: missing substantive authored resource guide or campaign block`);
     }
-    if (!/href=["']\/(?:worksheets|foundation|year\d+|products|homeschooling-australia)(?:\/|#)|href=["']\/#curriculum/i.test(article)) failures.push(`${file}: authored guide has no native learning-resource path`);
+    if (!/href=["']\/(?:learn|worksheets|foundation|year\d+|products|homeschooling-australia)(?:\/|#)|href=["']\/#curriculum/i.test(article)) failures.push(`${file}: authored guide has no native learning-resource path`);
     for (const pattern of FORBIDDEN) if (pattern.test(text)) failures.push(`${file}: authored guide contains overstrong claim: ${pattern}`);
     continue;
   }
@@ -81,7 +93,7 @@ for (const file of files) {
   for (const text of REQUIRED) {
     if (!block.includes(text)) failures.push(`${file}: campaign block missing required wording: ${text}`);
   }
-  if (!/href="\/(?:foundation|year(?:10|[1-9])|#curriculum)/.test(block) && !block.includes('href="/#curriculum"')) {
+  if (!/href="\/(?:learn\/(?:[?"#])|foundation|year(?:10|[1-9])|#curriculum)/.test(block) && !block.includes('href="/#curriculum"')) {
     failures.push(`${file}: campaign block missing free curriculum link`);
   }
   if (!block.includes('href="/dashboard/"')) failures.push(`${file}: campaign block missing progress link`);

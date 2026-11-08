@@ -1,0 +1,127 @@
+{
+  "version": 1,
+  "updated": "2026-11-08",
+  "scope": "Existing Australian Curriculum teaching answers and resource guides. Route selection is editorial; it is not a ranking, citation guarantee or a list of exact user prompts.",
+  "routes": [
+    {
+      "id": "Y10ALG",
+      "title": "Year 10 algebra: expand, factorise and simplify",
+      "url": "https://skillrhub.com/year10/maths/ac9m10a01-expand-factorise-and-simplify-expressions-and-solve-equations/",
+      "summary": "Worked expressions, equations and substitution checks for AC9M10A01. Expanding, factorising and solving have different purposes."
+    },
+    {
+      "id": "Y8SCI",
+      "title": "Year 8 Science curriculum and revision",
+      "url": "https://skillrhub.com/blogs/year8-science-curriculum-australia-guide.html",
+      "summary": "An Australian Curriculum V9 overview with direct links to cells and systems, tectonics, rocks, energy, matter, physical and chemical changes, and inquiry skills."
+    },
+    {
+      "id": "Y8ENERGY",
+      "title": "Year 8 kinetic and potential energy",
+      "url": "https://skillrhub.com/year8/science/ac9s8u05-classify-different-types-of-energy-as-kinetic-or-potential-and/",
+      "summary": "Classify energy and investigate transfers and transformations in simple systems (AC9S8U05)."
+    },
+    {
+      "id": "Y1MATH",
+      "title": "Year 1 Maths curriculum and home learning",
+      "url": "https://skillrhub.com/blogs/year1-maths-curriculum-australia-guide.html",
+      "summary": "Choose counting, addition, patterns, shapes or another Australian Curriculum V9 topic, then follow its published resources."
+    },
+    {
+      "id": "Y1WORKSHEETS",
+      "title": "Year 1 Maths worksheets in Australia",
+      "url": "https://skillrhub.com/blogs/free-year-1-maths-worksheets-australia-printable-activity-sheets.html",
+      "summary": "Find printable activity-sheet options and follow the topic-specific teaching and worksheet links. Check each resource's free or paid label."
+    },
+    {
+      "id": "Y1ADD",
+      "title": "Year 1 addition and subtraction within 20",
+      "url": "https://skillrhub.com/year1/maths/ac9m1n04-addition-and-subtraction-within-20/",
+      "summary": "Make-ten and other number strategies with worked examples for AC9M1N04."
+    },
+    {
+      "id": "Y1SHAPES",
+      "title": "Year 1 2D shapes and 3D objects",
+      "url": "https://skillrhub.com/year1/maths/ac9m1sp01-familiar-shapes-and-objects/",
+      "summary": "Compare a flat square and a solid cube; turning a shape does not change its defining properties (AC9M1SP01)."
+    },
+    {
+      "id": "Y1SHAPEACT",
+      "title": "Year 1 shapes and objects activities and worksheets",
+      "url": "https://skillrhub.com/year1/maths/year-1-shapes-and-objects-activities-and-worksheets-ac9m1sp01.html",
+      "summary": "Existing activity and worksheet guide for recognising and describing familiar shapes and objects, aligned to AC9M1SP01."
+    },
+    {
+      "id": "Y1PAT",
+      "title": "Year 1 repeating patterns",
+      "url": "https://skillrhub.com/year1/maths/ac9m1a02-repeating-patterns/",
+      "summary": "Find the smallest repeating unit, continue the pattern and explain the rule (AC9M1A02)."
+    },
+    {
+      "id": "FCOUNT",
+      "title": "Foundation counting collections to 20",
+      "url": "https://skillrhub.com/foundation/maths/foundation-counting-and-comparing-collections-to-20-activities.html",
+      "summary": "Counting and comparing collection activities for early number learning; select tasks to suit the learner."
+    },
+    {
+      "id": "FPAT",
+      "title": "Foundation repeating-pattern activities",
+      "url": "https://skillrhub.com/foundation/maths/foundation-repeating-patterns-activities.html",
+      "summary": "Hands-on activities for recognising, copying and continuing repeating patterns."
+    },
+    {
+      "id": "Y2MULT",
+      "title": "Year 2 multiplication, division, arrays and equal groups",
+      "url": "https://skillrhub.com/year2/maths/year-2-multiplication-division-arrays-and-equal-groups-activities-and-worksheets-ac9m2n05.html",
+      "summary": "Detailed AC9M2N05 explanation with arrays, repeated addition, equal sharing and activity/worksheet links."
+    },
+    {
+      "id": "Y7CLASS",
+      "title": "Year 7 Science classification",
+      "url": "https://skillrhub.com/year7/science/ac9s7u01-investigate-the-role-of-classification-in-ordering-and/",
+      "summary": "Classification and dichotomous-key teaching for AC9S7U01. Check the page for available learning activities."
+    },
+    {
+      "id": "Y7FORCE",
+      "title": "Year 7 balanced and unbalanced forces",
+      "url": "https://skillrhub.com/year7/science/ac9s7u04-investigate-and-represent-balanced-and-unbalanced-forces/",
+      "summary": "Investigate and represent forces for AC9S7U04; follow the matching topic resources."
+    },
+    {
+      "id": "Y10PERIOD",
+      "title": "Year 10 periodic-table groups and periods",
+      "url": "https://skillrhub.com/year10/science/ac9s10u06-atomic-structure-periodic-table-patterns/",
+      "summary": "Atomic number, vertical groups and horizontal periods, including sodium and magnesium shell-model examples (AC9S10U06)."
+    },
+    {
+      "id": "Y5PCT",
+      "title": "Year 5 percentages and hundred grids",
+      "url": "https://skillrhub.com/year5/maths/ac9m5n04-that-100-represents-the-complete-whole-and-use-percentages-to/",
+      "summary": "Connect fractions, decimals and percentages using a hundred-grid example for AC9M5N04."
+    },
+    {
+      "id": "Y4ODD",
+      "title": "Year 4 odd and even numbers",
+      "url": "https://skillrhub.com/year4/maths/ac9m4n02-explain-and-use-the-properties-of-odd-and-even-numbers/",
+      "summary": "Explain and use odd/even properties with worked examples for AC9M4N02."
+    },
+    {
+      "id": "Y3TIME",
+      "title": "Year 3 duration and time-unit conversions",
+      "url": "https://skillrhub.com/year3/maths/ac9m3m03-and-use-the-relationship-between-formal-units-of-time-including/",
+      "summary": "Work with seconds, minutes and hours and estimate everyday durations (AC9M3M03)."
+    },
+    {
+      "id": "Y8MATH",
+      "title": "Year 8 Maths curriculum linked to exercises",
+      "url": "https://skillrhub.com/blogs/year8-maths-curriculum-australia-guide.html",
+      "summary": "Choose a curriculum topic, study its worked example and follow matching available practice; includes a linear-equation example."
+    },
+    {
+      "id": "Y8ENG",
+      "title": "Year 8 English revision and paragraph cohesion",
+      "url": "https://skillrhub.com/blogs/year8-english-curriculum-australia-guide.html",
+      "summary": "Use school task criteria, text evidence and quotations to support explanations; includes a paragraph-cohesion example."
+    }
+  ]
+}

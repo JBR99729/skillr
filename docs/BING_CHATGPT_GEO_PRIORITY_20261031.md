@@ -1,5 +1,7 @@
 # Bing and ChatGPT Search: SkillrHub GEO measurement and content pilot
 
+> Historical hub experiment. The former hubs were retired on 7 November 2026. Current routes and measurement decisions are documented in [GEO refresh — 8 November](GEO_REFRESH_20261108.md). Do not restore a retired hub from these instructions.
+
 **31 October 2026 | Primary channels: Bing/Copilot + ChatGPT Search | Release scope: six existing public curriculum hubs.**
 
 ## Goal and decision rule
