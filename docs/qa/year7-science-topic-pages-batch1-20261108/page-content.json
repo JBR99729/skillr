@@ -1,0 +1,712 @@
+[
+  {
+    "code": "AC9S7U01",
+    "short": "Classification and keys",
+    "title": "Identify living things with a tested key",
+    "intro": "Organise living things by shared features, follow paired choices and build a key that identifies every supplied specimen.",
+    "art": "U01",
+    "exampleTitle": "Which route identifies the grasshopper?",
+    "example": "The card says six legs and no feathers. At step 1 choose legs present, which sends us to step 3. At step 3 choose feathers absent: grasshopper. We used two observable decisions, not a guess based on where the animal lives.",
+    "evidence": "<div class=\"evidence\"><table><caption>Four specimen cards: use these descriptions, rather than counting parts in the illustration</caption><thead><tr><th scope=\"col\">Specimen</th><th scope=\"col\">Given observable features</th></tr></thead><tbody><tr><td>Snail</td><td>No legs; external coiled shell; no feathers</td></tr><tr><td>Earthworm</td><td>No legs; no external shell; no feathers</td></tr><tr><td>Grasshopper</td><td>Six legs; no feathers</td></tr><tr><td>Sparrow</td><td>Two legs; feathers</td></tr></tbody></table></div><div class=\"evidence\"><table><caption>Key A: valid for the four supplied specimen cards</caption><thead><tr><th scope=\"col\">Step</th><th scope=\"col\">Choice A</th><th scope=\"col\">Choice B</th></tr></thead><tbody><tr><td>1</td><td>Legs absent → step 2</td><td>Legs present → step 3</td></tr><tr><td>2</td><td>External coiled shell present → snail</td><td>External coiled shell absent → earthworm</td></tr><tr><td>3</td><td>Feathers present → sparrow</td><td>Feathers absent → grasshopper</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Choose useful features",
+        "Classification makes diversity easier to describe, compare and investigate. A nested classification groups shared characteristics; an identification key follows decisions to a name. A feature must be observable and defined for the specimens being compared.",
+        "<p class=\"note\"><strong>Compare</strong> Six legs is more reliable here than “looks friendly”. A broken leg can make a real specimen hard to identify; use several features and a suitable guide.</p>",
+        "Why is “large / small” a weak pair without a boundary?",
+        "Different observers may disagree. Specify a measured boundary, such as length at least 8 cm / less than 8 cm, when that measurement is suitable."
+      ],
+      [
+        "Follow one choice at a time",
+        "A dichotomous key offers two alternatives at each decision. Read the destination, then continue until one identification is reached. A key for these four cards is not a key for every animal.",
+        "<div class=\"evidence\"><table><caption>Key A: valid for the four supplied specimen cards</caption><thead><tr><th scope=\"col\">Step</th><th scope=\"col\">Choice A</th><th scope=\"col\">Choice B</th></tr></thead><tbody><tr><td>1</td><td>Legs absent → step 2</td><td>Legs present → step 3</td></tr><tr><td>2</td><td>External coiled shell present → snail</td><td>External coiled shell absent → earthworm</td></tr><tr><td>3</td><td>Feathers present → sparrow</td><td>Feathers absent → grasshopper</td></tr></tbody></table></div>",
+        "A card has no legs and no external coiled shell. What is its full route?",
+        "Step 1: legs absent → step 2. Step 2: shell absent → earthworm."
+      ],
+      [
+        "Build, test and repair",
+        "An alternative order can also work. Test every supplied specimen: each must finish once, and no decision may leave it without a route.",
+        "<div class=\"evidence\"><table><caption>Key B: the same four cards, a different first decision</caption><thead><tr><th scope=\"col\">Step</th><th scope=\"col\">Choice A</th><th scope=\"col\">Choice B</th></tr></thead><tbody><tr><td>1</td><td>Feathers present → sparrow</td><td>Feathers absent → step 2</td></tr><tr><td>2</td><td>Legs present → grasshopper</td><td>Legs absent → step 3</td></tr><tr><td>3</td><td>External coiled shell present → snail</td><td>External coiled shell absent → earthworm</td></tr></tbody></table></div>",
+        "Does changing the first decision to feathers make the key wrong?",
+        "No. Sparrow ends at step 1; grasshopper at step 2; snail and earthworm at step 3. All four finish uniquely, so both keys work for the supplied cards."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“A key is the taxonomic hierarchy.”",
+        "A key is an identification tool. A hierarchy places organisms in nested groups, which may be revised with new evidence."
+      ],
+      [
+        "“Habitat proves close relationship.”",
+        "Different groups can share a habitat. Use diagnostic features and appropriate biological evidence."
+      ]
+    ],
+    "activityTitle": "Test all four routes",
+    "activity": "Copy the four cards. Make a paired-choice key beginning with shell present / shell absent. Ask a partner to trace every card and mark any ambiguous or missing branch.",
+    "adjust": "Support: use Key A and colour each complete path. Extend: explain a real-life limitation, such as a damaged specimen or a key that excludes young animals.",
+    "safety": "Use descriptions or photographs. Observe animals without handling, collecting or disturbing habitats; obtain permission for any field visit.",
+    "tricky": [
+      [
+        "A key first offers “has legs” and “has feathers”. What is wrong for a sparrow?",
+        "Both choices fit. Replace the pair with legs present / legs absent, or feathers present / feathers absent."
+      ],
+      [
+        "Does a key identify an organism that is not included in its intended set?",
+        "It may misidentify it. Check the key’s scope and compare the identification with other reliable features."
+      ],
+      [
+        "Can genetic evidence change classification even if appearance stays the same?",
+        "Yes. Evidence of relationships can justify revised grouping; an appearance-based key may then need updating."
+      ]
+    ],
+    "faq": [
+      [
+        "Must a key begin with the largest group?",
+        "No. The first split must be useful for the supplied specimens; several orders can work."
+      ],
+      [
+        "Are common names always unique?",
+        "No. Scientific names help people communicate precisely across languages and local common names."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S7U02",
+    "short": "Food webs and change",
+    "title": "Trace food-web effects without guessing",
+    "intro": "Use a model to trace matter and energy, predict direct and indirect population effects, and explain what the model leaves out.",
+    "art": "U02",
+    "exampleTitle": "What could happen after a drought?",
+    "example": "Assume drought reduces grass growth in this model. Grasshoppers and snails may have less food: those are direct resource effects. Frogs may then have fewer grasshoppers to eat, an indirect effect of reduced grass. Birds have several foods, so their response depends on how those populations and other conditions change. The web alone cannot give an exact percentage decline.",
+    "evidence": "<div class=\"evidence\"><table><caption>Complete feeding records for our simplified garden model: arrows go from food to eater</caption><thead><tr><th scope=\"col\">Food or source</th><th scope=\"col\">Eaten by</th></tr></thead><tbody><tr><td>Grass</td><td>Grasshopper; snail</td></tr><tr><td>Grasshopper</td><td>Frog; bird</td></tr><tr><td>Snail</td><td>Bird</td></tr><tr><td>Frog</td><td>Bird</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Trace feeding pathways",
+        "A food arrow points to the organism receiving eaten matter and stored chemical energy. Producers build organic matter using energy, usually from sunlight. A web contains several linked pathways.",
+        "<div class=\"evidence\"><table><caption>Complete feeding records for our simplified garden model: arrows go from food to eater</caption><thead><tr><th scope=\"col\">Food or source</th><th scope=\"col\">Eaten by</th></tr></thead><tbody><tr><td>Grass</td><td>Grasshopper; snail</td></tr><tr><td>Grasshopper</td><td>Frog; bird</td></tr><tr><td>Snail</td><td>Bird</td></tr><tr><td>Frog</td><td>Bird</td></tr></tbody></table></div>",
+        "Give two paths by which matter from grass could reach the bird.",
+        "Grass → snail → bird, and grass → grasshopper → bird. A longer path is grass → grasshopper → frog → bird."
+      ],
+      [
+        "Separate matter from energy",
+        "Matter moves through feeding, waste, decomposition and the environment. Decomposers help return nutrients that producers can use. Energy transfers through the system and is dispersed as heat during life processes; it does not cycle like matter.",
+        "<p class=\"note\"><strong>Beyond the feeding arrows</strong> Sunlight enters; heat leaves. Dead material and waste from all feeding levels can enter decomposer pathways. Water, carbon dioxide and minerals also move through the environment.</p>",
+        "Why is “decomposers recycle all the energy back into grass” incorrect?",
+        "Decomposers transfer matter and use energy, releasing heat. Producers need an energy input; matter cycling does not restore all that energy."
+      ],
+      [
+        "Predict and qualify",
+        "Abiotic factors include rainfall and temperature. Biotic factors include predation, competition and disease. Follow each relevant link and consider alternatives rather than treating one path as the whole ecosystem.",
+        "<p class=\"note\"><strong>Changed factor</strong> In the given web, suppose a disease reduces grasshoppers while other factors initially stay similar.</p>",
+        "Explain one possible frog effect and one possible grass effect.",
+        "Frogs may lose food and decline unless other food is available. Grass may face less feeding by grasshoppers, but snails, water and other conditions still affect its growth."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Arrows show what the predator chases.”",
+        "They show the direction of transfer from food to consumer; label the convention."
+      ],
+      [
+        "“One fewer prey species means immediate predator extinction.”",
+        "Alternative food, movement, time and competing effects can change the outcome. Make a conditional prediction."
+      ]
+    ],
+    "activityTitle": "Change one link",
+    "activity": "Draw all six arrows from the feeding table. Circle the populations directly affected if snails decrease. Trace one further possible effect and add a sentence about uncertainty.",
+    "adjust": "Support: follow grass → snail → bird. Extend: compare drought with an increase in bird numbers; identify both food loss and reduced predation as possible influences.",
+    "safety": "This is a paper model, not an instruction to remove organisms. Outdoor observations need supervision and site permission.",
+    "tricky": [
+      [
+        "Would a bird increase or decrease after frogs decline?",
+        "The web alone cannot settle it. Birds lose one food but may have other foods; changes in grasshoppers and other conditions can offset the loss."
+      ],
+      [
+        "Is lack of rainfall biotic or abiotic?",
+        "Abiotic: it is a non-living environmental factor. The resulting change in food availability also affects living populations."
+      ],
+      [
+        "Does the absence of decomposers from a feeding diagram mean they are absent from the ecosystem?",
+        "No. A simplified diagram may omit them. State the omission and add waste/dead material and nutrient pathways when explaining matter cycling."
+      ]
+    ],
+    "faq": [
+      [
+        "Does a food web show population sizes?",
+        "Not unless it includes labelled population data. Feeding arrows alone give relationships."
+      ],
+      [
+        "Does every ecosystem begin with grass?",
+        "No. Other producers, including algae and other plants, can supply food; use the organisms and evidence appropriate to that ecosystem."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S7U03",
+    "short": "Earth, Sun and Moon cycles",
+    "title": "Explain seasons, eclipses and tides",
+    "intro": "Connect repeating relative positions with sunlight, shadows and tidal range, and recognise the limits of a classroom model.",
+    "art": "U03",
+    "exampleTitle": "Why can Australia have summer while the north has winter?",
+    "example": "Earth’s axis stays approximately parallel to itself as Earth orbits the Sun. Near December, the Southern Hemisphere tilts toward the Sun: southern mid-latitudes receive longer daylight and sunlight at a higher angle. At the same time the Northern Hemisphere tilts away. Earth–Sun distance cannot explain opposite seasons occurring together.",
+    "evidence": "<div class=\"evidence\"><table><caption>Position is the cause: these are conceptual configurations, not a scale drawing or local forecast</caption><thead><tr><th scope=\"col\">Cycle or position</th><th scope=\"col\">Cause and prediction</th></tr></thead><tbody><tr><td>June solstice: Southern Hemisphere tilted away from Sun</td><td>Shorter daylight and lower midday Sun at southern mid-latitudes; winter season</td></tr><tr><td>December solstice: Southern Hemisphere tilted toward Sun</td><td>Longer daylight and higher midday Sun at southern mid-latitudes; summer season</td></tr><tr><td>Sun–Moon–Earth aligned near an orbital node</td><td>Solar eclipse possible at new Moon</td></tr><tr><td>Sun–Earth–Moon aligned near an orbital node</td><td>Lunar eclipse possible at full Moon</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Keep the axis direction fixed",
+        "Earth rotates roughly once each day and orbits the Sun roughly once each year. Axial tilt and revolution change day length and sunlight angle over the year. Do not turn the axis to face the Sun throughout the orbit.",
+        "<p class=\"note\"><strong>Southern comparison</strong> Near June solstice: shorter daylight at southern mid-latitudes. Near December solstice: longer daylight. The Northern Hemisphere has the opposite seasonal pattern.</p>",
+        "Would an unchanging Sun-facing tilt correctly model opposite seasonal positions?",
+        "No. Keep the axis approximately parallel in space; otherwise the model incorrectly keeps the same hemisphere tilted toward the Sun."
+      ],
+      [
+        "Distinguish the shadow alignments",
+        "A solar eclipse needs the Moon between Sun and Earth. A lunar eclipse needs Earth between Sun and Moon. The Moon’s orbit is tilted, so most new and full moons miss the required shadow alignment.",
+        "<div class=\"evidence\"><table><caption>An eclipse is not the ordinary cause of lunar phases</caption><thead><tr><th scope=\"col\">Event</th><th scope=\"col\">Order along the sunlight direction</th></tr></thead><tbody><tr><td>Solar eclipse</td><td>Sun → Moon → Earth</td></tr><tr><td>Lunar eclipse</td><td>Sun → Earth → Moon</td></tr></tbody></table></div>",
+        "Why is a full Moon not a lunar eclipse every month?",
+        "At most full moons the Moon passes above or below Earth’s shadow. Full phase is necessary for a lunar eclipse, but suitable near-node alignment is also needed."
+      ],
+      [
+        "Compare tidal range",
+        "Differences in the Moon’s gravitational pull across Earth produce tides; the Sun also contributes. Aligned Sun–Earth–Moon positions tend to give larger spring ranges. Quarter phases tend to give smaller neap ranges.",
+        "<div class=\"evidence\"><table><caption>Real coasts can lag the phase; depth, coast shape and weather also matter</caption><thead><tr><th scope=\"col\">Moon phase</th><th scope=\"col\">Simple tidal-range model</th></tr></thead><tbody><tr><td>New or full</td><td>Spring: larger high-to-low range</td></tr><tr><td>First or third quarter</td><td>Neap: smaller high-to-low range</td></tr></tbody></table></div>",
+        "Does neap tide mean the Moon stops pulling?",
+        "No. Lunar and solar tidal patterns partly offset, giving a smaller range. Gravity and tides continue."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Summer means Earth is closest to the Sun.”",
+        "Tilt changes sunlight angle and daylight duration, and seasons are opposite in the hemispheres."
+      ],
+      [
+        "“The far-side tide means the Moon repels water.”",
+        "The Moon attracts all parts of Earth. Its pull differs between the near side, centre and far side; relative motion creates the two-sided tidal effect."
+      ]
+    ],
+    "activityTitle": "Three model cards",
+    "activity": "Make separate cards for December seasons, solar eclipse and full-Moon spring tide. Label positions and arrows. Under each card write what the model explains and one thing it cannot predict.",
+    "adjust": "Support: use the supplied position table. Extend: explain why a full Moon can correspond to a spring-tide pattern without a lunar eclipse.",
+    "safety": "Use paper or an artificial lamp target. Never look at the Sun or use an ordinary telescope to observe it. A model does not replace official local tide or eclipse safety information.",
+    "tricky": [
+      [
+        "Do spring tides happen only in the spring season?",
+        "No. “Spring” names a larger tidal range around new and full phases, not a season."
+      ],
+      [
+        "Is the Sun’s total gravitational pull on Earth weaker than the Moon’s?",
+        "No. The Sun’s total pull is greater, while the nearby Moon has the stronger tide-generating effect. Total pull and its difference across Earth are different comparisons."
+      ],
+      [
+        "Does the model guarantee two equal high tides every 24 hours at every coast?",
+        "No. Local geography and other factors produce different daily patterns; the lunar day is also about 24 hours 50 minutes."
+      ]
+    ],
+    "faq": [
+      [
+        "Are lunar phases Earth’s shadow?",
+        "No. Normally we see different portions of the Moon’s sunlit half. Earth’s shadow is involved in a lunar eclipse."
+      ],
+      [
+        "Can this diagram predict a beach’s safe crossing time?",
+        "No. Use current official local predictions and safety guidance; a conceptual model has no port-specific times or heights."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S7U04",
+    "short": "Forces and motion",
+    "title": "Find the net force, then explain the change",
+    "intro": "Represent all forces on one object and relate motion changes to net force, mass and gravity.",
+    "art": "U04",
+    "exampleTitle": "A rightward net force on a cart moving left",
+    "example": "The horizontal forces combine to 12 − 8 = 4 N right. The vertical forces cancel: 20 N up and 20 N down. The cart initially moves left but accelerates right, so it initially slows. A force diagram tells us how velocity changes; it does not automatically tell us which way the cart is already travelling.",
+    "evidence": "<div class=\"evidence\"><table><caption>Given forces: cart initially moving left on a level surface</caption><thead><tr><th scope=\"col\">Force on the same cart</th><th scope=\"col\">Magnitude and direction</th></tr></thead><tbody><tr><td>Applied pull</td><td>12 N right</td></tr><tr><td>Opposing pull</td><td>8 N left</td></tr><tr><td>Support</td><td>20 N up</td></tr><tr><td>Gravity</td><td>20 N down</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Combine forces on one object",
+        "Label each interaction and use arrow length for magnitude. Add forces in the same direction and subtract opposing forces. Check each direction separately.",
+        "<div class=\"evidence\"><table><caption>Given forces: cart initially moving left on a level surface</caption><thead><tr><th scope=\"col\">Force on the same cart</th><th scope=\"col\">Magnitude and direction</th></tr></thead><tbody><tr><td>Applied pull</td><td>12 N right</td></tr><tr><td>Opposing pull</td><td>8 N left</td></tr><tr><td>Support</td><td>20 N up</td></tr><tr><td>Gravity</td><td>20 N down</td></tr></tbody></table></div>",
+        "If the opposing pull becomes 12 N left, what is the horizontal net force?",
+        "Zero: 12 N right and 12 N left balance. The already left-moving cart continues left at constant velocity if the forces stay balanced. An object initially at rest could remain at rest under zero net force; zero net force does not mean no forces."
+      ],
+      [
+        "Compare mass and force fairly",
+        "From the same initial state and over the same time, a larger net force gives a greater change in velocity for the same mass. With the same net force, a larger total mass changes velocity less.",
+        "<div class=\"evidence\"><table><caption>Controlled thought experiments; not measured simulator results</caption><thead><tr><th scope=\"col\">Ideal comparison</th><th scope=\"col\">Prediction</th></tr></thead><tbody><tr><td>2 kg versus 4 kg; both initially at rest; same 4 N net force and duration</td><td>2 kg cart has the greater speed change</td></tr><tr><td>Same 2 kg cart; 8 N versus 4 N net force; same initial state and duration</td><td>8 N gives the greater speed change</td></tr></tbody></table></div>",
+        "Does a more massive moving object always move more slowly?",
+        "No. Compare velocity changes only when net force, duration and starting conditions are controlled. Mass alone does not fix speed."
+      ],
+      [
+        "Distinguish mass from weight",
+        "Mass is measured in kilograms. Weight is gravitational force, measured in newtons. The same object has the same mass on Earth and the Moon, but a different weight.",
+        "<div class=\"evidence\"><table><caption>Illustrative calculation: weight = mass × supplied field strength</caption><thead><tr><th scope=\"col\">Location and supplied field</th><th scope=\"col\">Mass</th><th scope=\"col\">Predicted weight</th></tr></thead><tbody><tr><td>Earth: rounded 10 N per kg</td><td>2 kg</td><td>20 N</td></tr><tr><td>Moon: 1.6 N per kg</td><td>2 kg</td><td>3.2 N</td></tr></tbody></table></div>",
+        "A stationary bag hangs from a force-meter on the Moon. Which forces balance?",
+        "Upward tension from the meter balances downward lunar gravity. For the supplied 2 kg bag, both have magnitude 3.2 N."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Balanced forces mean stationary.”",
+        "Balanced forces mean no change in velocity. A moving object can continue at constant speed in a straight line."
+      ],
+      [
+        "“Gravity disappears at the top of a throw.”",
+        "Neglecting air resistance, gravity acts downward while the ball rises, pauses vertically and falls."
+      ]
+    ],
+    "activityTitle": "Draw force and motion separately",
+    "activity": "Draw the given cart with four force arrows. Draw a separate leftward velocity arrow. Explain why the cart initially slows. Change the two horizontal forces to 8 N each and explain the new result.",
+    "adjust": "Support: cancel up/down before comparing left/right. Extend: describe what a persistent rightward net force could do after the leftward motion has stopped.",
+    "safety": "Use paper models. Any physical trolley trial needs a clear level path, gentle forces, suitable equipment and adult supervision; do not launch objects.",
+    "tricky": [
+      [
+        "An object moves upward at constant velocity. Must the net force point up?",
+        "No. Constant velocity means zero net force. Upward acceleration would require an upward net force."
+      ],
+      [
+        "Are the book’s weight and the table’s support an action–reaction pair?",
+        "No. Both act on the book. Each has its own equal-and-opposite interaction force acting on a different object."
+      ],
+      [
+        "Is the Moon weight of the supplied 2 kg object 3.2 kg?",
+        "No. Its weight is 3.2 N. Its mass remains 2 kg."
+      ]
+    ],
+    "faq": [
+      [
+        "Does friction always point opposite the direction of travel?",
+        "It opposes relative slipping or the tendency to slip at a contact. For a sliding block it commonly opposes sliding; in other situations it can help an object accelerate forward."
+      ],
+      [
+        "Is an elastic band stretched twice as far always pulling twice as hard?",
+        "No. That relationship needs checking or calibration over the range used. Stretch alone is not a force reading."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S7U05",
+    "short": "Particle theory and properties",
+    "title": "Explain properties with moving particles",
+    "intro": "Connect arrangement, motion and attraction to the behaviour of solids, liquids and gases, and critique particle models.",
+    "art": "U05",
+    "exampleTitle": "Why does trapped air compress more than water?",
+    "example": "Imagine two needle-free syringes with sealed outlets, one containing air and one containing water. Under comparable gentle pressure, air can decrease in volume much more because its particles begin much farther apart. The water particles are already close. Compression reduces the gaps; particles do not shrink or disappear. This is a predicted comparison, not a reported experiment.",
+    "evidence": "<div class=\"evidence\"><table><caption>A simplified model of one substance under ordinary classroom conditions</caption><thead><tr><th scope=\"col\">State</th><th scope=\"col\">Arrangement, motion and attraction</th><th scope=\"col\">Property explained</th></tr></thead><tbody><tr><td>Solid</td><td>Particles close; vibrate about fixed positions; attractions maintain the structure</td><td>Keeps shape and is hard to compress</td></tr><tr><td>Liquid</td><td>Particles close; move past one another; attractions keep them close</td><td>Flows while keeping nearly the same volume</td></tr><tr><td>Gas</td><td>Particles far apart; move randomly; interactions are relatively small in a dilute gas</td><td>Fills available space and can be compressed</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Describe more than spacing",
+        "Arrangement, motion and attraction work together. Solid particles vibrate; liquid particles change neighbours; gas particles travel between collisions. An ordered solid drawing is a useful example, but not every solid has a regular lattice.",
+        "<div class=\"evidence\"><table><caption>A simplified model of one substance under ordinary classroom conditions</caption><thead><tr><th scope=\"col\">State</th><th scope=\"col\">Arrangement, motion and attraction</th><th scope=\"col\">Property explained</th></tr></thead><tbody><tr><td>Solid</td><td>Particles close; vibrate about fixed positions; attractions maintain the structure</td><td>Keeps shape and is hard to compress</td></tr><tr><td>Liquid</td><td>Particles close; move past one another; attractions keep them close</td><td>Flows while keeping nearly the same volume</td></tr><tr><td>Gas</td><td>Particles far apart; move randomly; interactions are relatively small in a dilute gas</td><td>Fills available space and can be compressed</td></tr></tbody></table></div>",
+        "Which state can flow while remaining difficult to compress, and why?",
+        "A liquid. Close particles leave little room for compression but can move past one another, allowing flow."
+      ],
+      [
+        "Explain a visible property",
+        "A gas fills a container as moving particles spread through it. A liquid has nearly fixed volume because its particles remain close. In a solid, attractions and structure keep particles around fixed positions.",
+        "<p class=\"note\"><strong>Gas pressure</strong> Collisions with the container walls produce pressure. In a sealed rigid container, warming a gas generally raises pressure as average particle motion increases.</p>",
+        "Why can a balloon containing air have mass even when air is invisible?",
+        "Air is made of particles with mass. Visibility does not decide whether something is matter."
+      ],
+      [
+        "Predict heating and check the model",
+        "For a substance warming within one state, average particle kinetic energy increases. Expansion commonly involves a slight increase in average spacing, not bigger particles. During melting, energy can change arrangement without a rise in temperature.",
+        "<p class=\"note\"><strong>Model limits</strong> Circles, colours, motion marks and gaps are symbols. The gaps are not a hidden layer of air. The drawings are not to scale; temperature does not give every particle exactly the same speed.</p>",
+        "A drawing makes each metal particle twice as wide after heating. How would you repair it?",
+        "Keep the particle symbols the same size. Show stronger vibration and, for ordinary thermal expansion, slightly greater average separation."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Particles stop in a solid.”",
+        "They vibrate about positions; a fixed shape does not mean motionless particles."
+      ],
+      [
+        "“All liquids are completely incompressible.”",
+        "Liquids are difficult to compress under ordinary hand pressure, rather than absolutely incompressible."
+      ]
+    ],
+    "activityTitle": "Explain one property twice",
+    "activity": "Sketch the same substance as a solid, liquid and gas. Use equal-sized particle symbols, label motion and attraction, then write a particle explanation for a gas filling a container and a liquid changing shape.",
+    "adjust": "Support: use the three-row table as a checklist. Extend: explain why heating a sealed rigid gas container and heating a flexible balloon need different volume/pressure descriptions.",
+    "safety": "Use paper models. Do not heat sealed containers, pressurise glassware or use needles. Any syringe demonstration must be adult-supervised and gentle.",
+    "tricky": [
+      [
+        "Does a liquid-to-gas change create a new substance?",
+        "Not by itself. In a physical change of state the substance remains the same; arrangement and separation change."
+      ],
+      [
+        "Must particles grow for a metal rail to expand?",
+        "No. Greater vibration and increased average spacing can make the rail expand while particle size stays effectively unchanged in this model."
+      ],
+      [
+        "Can a colour-spreading demonstration alone prove all movement is molecular diffusion?",
+        "No. Diffusion contributes, but currents and convection can also move colour. A valid explanation must consider the conditions."
+      ]
+    ],
+    "faq": [
+      [
+        "Is gas always less dense than every solid?",
+        "No universal comparison across all substances follows from these drawings. The simple model compares states of the same substance under suitable conditions."
+      ],
+      [
+        "Does every warming substance expand at every temperature?",
+        "No. There are exceptions, including water over a small temperature range. State the substance and conditions rather than making an absolute rule."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S7U06",
+    "short": "Pure substances and separation",
+    "title": "Choose a separation method for a reason",
+    "intro": "Read particle models of pure substances and mixtures, then select and sequence physical separation methods using property differences.",
+    "art": "U06",
+    "exampleTitle": "How can we recover sand, salt and water?",
+    "example": "First filter the mixture: insoluble sand remains on the paper while saltwater passes through. To recover water as well as salt, distil the filtrate with suitable teacher-operated equipment: water vaporises, cools and condenses into a receiver while nonvolatile salt remains. Simply leaving the solution to evaporate can recover salt, but does not collect the water. Recovered fractions are not automatically perfectly pure.",
+    "evidence": "<div class=\"evidence\"><table><caption>Given mixture: sand and ordinary table salt in water; salt treated as nonvolatile under the model conditions</caption><thead><tr><th scope=\"col\">Given component or goal</th><th scope=\"col\">Property and method</th></tr></thead><tbody><tr><td>Sand in saltwater</td><td>Sand is insoluble: filter it as residue</td></tr><tr><td>Salt dissolved in water</td><td>Salt passes through ordinary filter paper with the solution</td></tr><tr><td>Recover salt only</td><td>Remove water by controlled evaporation/crystallisation</td></tr><tr><td>Recover water as well</td><td>Use teacher-operated distillation: vaporise, cool and collect water</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Read composition, not colour alone",
+        "A pure substance has one chemical substance throughout. It can be an element or a compound. A mixture contains two or more substances; changing their proportions does not make a new compound.",
+        "<p class=\"note\"><strong>Particle symbols</strong> Identical bonded A–B units alone represent one pure molecular compound in our model. Separate A particles and separate B particles together represent a mixture of two elements.</p>",
+        "Can a model with two element colours represent a pure substance?",
+        "Yes. If every particle is the same compound unit, it represents one substance. Count substance types and grouping, not colours alone."
+      ],
+      [
+        "Match a property difference",
+        "A method works because components behave differently: size for sieving; magnetic response for a magnet; insolubility for filtration; volatility for distillation. A dissolved substance has not disappeared.",
+        "<div class=\"evidence\"><table><caption>Each choice needs the stated property difference</caption><thead><tr><th scope=\"col\">Mixture</th><th scope=\"col\">Reasoned choice</th></tr></thead><tbody><tr><td>Iron pieces and dry sand</td><td>Magnet: iron responds strongly, sand does not</td></tr><tr><td>Sand and water</td><td>Filtration: sand is insoluble and retained by suitable paper</td></tr><tr><td>Several dissolved dyes</td><td>Chromatography: different interactions with paper and solvent</td></tr></tbody></table></div>",
+        "Why does ordinary filter paper fail to recover dissolved salt?",
+        "Dissolved salt remains in the solution passing through the paper. It is not a suspended sand-sized solid."
+      ],
+      [
+        "Sequence and check recovery",
+        "Write what enters each step and where every component goes. If starting with dry sand and salt, first add enough water to dissolve the salt, then filter. Washing and drying fractions may improve recovery.",
+        "<div class=\"evidence\"><table><caption>Given mixture: sand and ordinary table salt in water; salt treated as nonvolatile under the model conditions</caption><thead><tr><th scope=\"col\">Given component or goal</th><th scope=\"col\">Property and method</th></tr></thead><tbody><tr><td>Sand in saltwater</td><td>Sand is insoluble: filter it as residue</td></tr><tr><td>Salt dissolved in water</td><td>Salt passes through ordinary filter paper with the solution</td></tr><tr><td>Recover salt only</td><td>Remove water by controlled evaporation/crystallisation</td></tr><tr><td>Recover water as well</td><td>Use teacher-operated distillation: vaporise, cool and collect water</td></tr></tbody></table></div>",
+        "A student filters saltwater and says the clear filtrate is pure water. What must change?",
+        "Clear does not mean pure. Salt is still dissolved. A suitable further separation, such as distillation when water is wanted, is needed; purity still requires checking."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“A compound is a mixture because it has two elements.”",
+        "A compound is one substance with chemically combined elements in a fixed composition. A mixture contains more than one substance."
+      ],
+      [
+        "“One chromatography spot proves purity.”",
+        "Different components can travel together or be undetected. Several resolved components support a mixture; one spot alone is not proof of purity."
+      ]
+    ],
+    "activityTitle": "Make a recovery flow chart",
+    "activity": "Begin with a dry mixture of iron pieces, sand and salt. On paper plan how to collect each solid. Label the property at every step and explain where the water goes if the final step is evaporation.",
+    "adjust": "Support: magnet → dissolve salt → filter → evaporate filtrate. Extend: replace evaporation with suitable distillation if recovering water is also a goal, then identify a possible source of contamination.",
+    "safety": "This is a paper-planning task. Heating and distillation require trained adult supervision, suitable apparatus and risk assessment. Never taste recovered substances or assume distillate is safe to drink.",
+    "tricky": [
+      [
+        "Is clear tap water necessarily a pure substance?",
+        "No. It can contain dissolved substances that are not visible."
+      ],
+      [
+        "Why use a pencil baseline above the solvent in paper chromatography?",
+        "The pencil mark should remain as a reference, and keeping the sample above the solvent prevents it washing straight into the solvent pool."
+      ],
+      [
+        "Can any two liquids be perfectly separated by one simple distillation?",
+        "No. The outcome depends on their properties and conditions. A simple distillate can be enriched in a more volatile component without being perfectly pure."
+      ]
+    ],
+    "faq": [
+      [
+        "Is filtration a chemical reaction?",
+        "It is a physical separation: components are separated by their properties rather than deliberately changed into new substances."
+      ],
+      [
+        "What is the filtrate?",
+        "The material that passes through the filter. Residue is what remains on the filter."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S7H01",
+    "short": "Evidence changes knowledge",
+    "title": "Show exactly why a scientific claim changes",
+    "intro": "Compare an earlier claim with later evidence and explain how new methods or perspectives can refine scientific knowledge.",
+    "art": "H01",
+    "exampleTitle": "From inhibition to a much broader claim",
+    "example": "Seeing bacterial growth inhibited near a mould was an important observation. It did not, on its own, show that a usable, safe and effective treatment was ready. Later Oxford work combined chemical preparation, sensitive assays and biological testing, enabling stronger, more specific conclusions. The knowledge grew because new evidence addressed questions the first observation could not answer. This does not mean Fleming claimed his first observation proved everything.",
+    "evidence": "<div class=\"evidence\"><table><caption>Historical synthesis from Oxford’s penicillin account and Florey’s 1945 Nobel lecture</caption><thead><tr><th scope=\"col\">Evidence or method</th><th scope=\"col\">What it supports — and what it does not</th></tr></thead><tbody><tr><td>Fleming’s 1928 observation of inhibited bacterial growth near mould</td><td>A narrow finding about growth inhibition; not proof of a ready clinical medicine</td></tr><tr><td>Later Oxford preparation, sensitive assays and biological testing</td><td>Stronger evidence for investigating penicillin as a useful treatment; different tests address different claims</td></tr><tr><td>Competing proposed structures investigated with crystallography</td><td>Specific evidence can discriminate between explanations rather than settling them by preference</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Separate observation from interpretation",
+        "An observation is recorded evidence; an interpretation explains what it could mean. A claim must fit what the evidence actually tests. New evidence can add detail, reveal a limitation or challenge an explanation.",
+        "<div class=\"evidence\"><table><caption>Historical synthesis from Oxford’s penicillin account and Florey’s 1945 Nobel lecture</caption><thead><tr><th scope=\"col\">Evidence or method</th><th scope=\"col\">What it supports — and what it does not</th></tr></thead><tbody><tr><td>Fleming’s 1928 observation of inhibited bacterial growth near mould</td><td>A narrow finding about growth inhibition; not proof of a ready clinical medicine</td></tr><tr><td>Later Oxford preparation, sensitive assays and biological testing</td><td>Stronger evidence for investigating penicillin as a useful treatment; different tests address different claims</td></tr><tr><td>Competing proposed structures investigated with crystallography</td><td>Specific evidence can discriminate between explanations rather than settling them by preference</td></tr></tbody></table></div>",
+        "Does bacterial inhibition on a plate alone establish safe human treatment?",
+        "No. It does not test preparation, dose, safety or clinical effectiveness. Those require other evidence; this history is not a medical instruction."
+      ],
+      [
+        "Name the evidence that matters",
+        "Improved methods can make a previously untestable question testable. In the Oxford account, preparation and quick biological assays helped researchers investigate the substance more effectively.",
+        "<p class=\"note\"><strong>A useful response frame</strong> Earlier evidence supported __. The new method or evidence showed __. Therefore the claim could be refined to __, while __ remained uncertain.</p>",
+        "Why is “scientists worked together, so knowledge changed” incomplete?",
+        "It names teamwork but not the evidence–claim link. Explain which contribution made what test possible and what conclusion that test supported."
+      ],
+      [
+        "Use perspectives without replacing testing",
+        "Different expertise can suggest different questions and methods. Competing explanations still need evidence. In the penicillin history, crystallographic evidence helped resolve competing structure proposals.",
+        "<p class=\"note\"><strong>Reliable and revisable</strong> A well-supported explanation is useful while remaining open to refinement. One surprising result should be checked, not automatically treated as the end of an established explanation.</p>",
+        "Would a more popular proposed structure automatically be the best-supported one?",
+        "No. Prefer the proposal that accounts for the relevant evidence, considering method quality, alternative explanations and uncertainty."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Revision means all earlier science was worthless.”",
+        "An earlier observation may remain valid while its interpretation becomes more precise or its limits clearer."
+      ],
+      [
+        "“A different perspective makes every claim equally good.”",
+        "Perspectives guide questions and methods; evidence still constrains which explanations are supported."
+      ]
+    ],
+    "activityTitle": "Write an evidence–revision chain",
+    "activity": "Use the historical table to write three sentences: a narrow earlier finding; the later method or evidence; a broader but qualified conclusion. Underline the words linking evidence to the change.",
+    "adjust": "Support: use the response frame. Extend: explain what additional evidence would be needed before adopting an unfamiliar scientific claim.",
+    "safety": "Use the written case only. Do not grow mould, culture microbes or attempt antibiotic experiments.",
+    "tricky": [
+      [
+        "Does one conflicting result always overturn a scientific explanation?",
+        "No. Check its reliability, repeatability and alternatives, and consider it with the wider evidence."
+      ],
+      [
+        "Can a better instrument change knowledge without the object itself changing?",
+        "Yes. It can reveal previously undetected features that support a revised interpretation."
+      ],
+      [
+        "What makes a revision evidence-based rather than a change of taste?",
+        "A clear link from relevant, checked evidence to the claim being retained, narrowed, refined or replaced."
+      ]
+    ],
+    "faq": [
+      [
+        "Must scientific change mean a complete replacement?",
+        "No. Often a model is refined or its useful conditions are clarified."
+      ],
+      [
+        "Did one person do every part of the penicillin development?",
+        "No. The historical account records distinct contributions; explain their roles without making every contributor’s work identical."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S7H02",
+    "short": "Culture and scientific knowledge",
+    "title": "Investigate whose questions and knowledge matter",
+    "intro": "Explain how perspectives influence questions, observations and uses of knowledge, using a specific public case and respecting knowledge governance.",
+    "art": "H02",
+    "exampleTitle": "A particular community, place and purpose",
+    "example": "CSIRO’s public account describes the Gulumoerrgin (Larrakia) seasonal-calendar project as a partnership with named Larrakia knowledge holders in the Darwin region. Long-term local observations and community purposes helped shape what was documented; collaboration supported its representation and use. This shows a link between perspective, method and knowledge development. It does not authorise us to recreate the calendar or generalise its knowledge to all First Nations peoples.",
+    "evidence": "<div class=\"evidence\"><table><caption>Public project metadata only: no seasonal calendar artwork, ecological entries or harvesting knowledge reproduced</caption><thead><tr><th scope=\"col\">Public case information</th><th scope=\"col\">Why it matters for the knowledge process</th></tr></thead><tbody><tr><td>2012 Gulumoerrgin (Larrakia) seasonal-calendar project in the Darwin region</td><td>Knowledge is connected to a particular community and place, not one universal calendar</td></tr><tr><td>Larrakia members Lorraine Williams, Judith Williams, Maureen Ogden, Keith Risk and Anne Risk worked with CSIRO’s Emma Woodward</td><td>Knowledge-holder leadership and scientific documentation contributed different roles</td></tr><tr><td>Public CSIRO description identifies local observation, documentation and applications</td><td>Purpose and locally meaningful relationships influence what is recorded and how it is represented</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Trace purpose to method",
+        "People’s world views and practical purposes can influence which questions they investigate, what relationships they notice and which categories are useful. All researchers work in human contexts.",
+        "<p class=\"note\"><strong>Original comparison</strong> A school weather team asks when rain is most frequent and records daily totals. A gardening team asks when seedlings establish and also records growth and soil conditions. Different questions lead to different observations.</p>",
+        "Must the two school teams collect exactly the same data?",
+        "No. Their purposes differ. They can compare overlapping evidence while explaining why other observations are relevant to their own questions."
+      ],
+      [
+        "Use a named, bounded case",
+        "A cultural case needs a particular community or source, a place, a purpose and a clear knowledge contribution. Public project metadata can support analysis without reproducing culturally governed content.",
+        "<div class=\"evidence\"><table><caption>Public project metadata only: no seasonal calendar artwork, ecological entries or harvesting knowledge reproduced</caption><thead><tr><th scope=\"col\">Public case information</th><th scope=\"col\">Why it matters for the knowledge process</th></tr></thead><tbody><tr><td>2012 Gulumoerrgin (Larrakia) seasonal-calendar project in the Darwin region</td><td>Knowledge is connected to a particular community and place, not one universal calendar</td></tr><tr><td>Larrakia members Lorraine Williams, Judith Williams, Maureen Ogden, Keith Risk and Anne Risk worked with CSIRO’s Emma Woodward</td><td>Knowledge-holder leadership and scientific documentation contributed different roles</td></tr><tr><td>Public CSIRO description identifies local observation, documentation and applications</td><td>Purpose and locally meaningful relationships influence what is recorded and how it is represented</td></tr></tbody></table></div>",
+        "What is more precise than “Indigenous people have a different calendar”?",
+        "Identify the Gulumoerrgin (Larrakia) project, Darwin region and named partnership, then explain how local purposes and observations shaped documentation. Avoid claiming that one example represents everyone."
+      ],
+      [
+        "Respect authority and permitted use",
+        "Reading a public description is different from permission to copy, adapt or commercialise knowledge or artwork. A respectful partnership recognises who can decide what is shared, how and for whose benefit.",
+        "<p class=\"note\"><strong>Before a proposed reuse</strong> Identify the intended material and use; find the knowledge holders and relevant conditions; seek appropriate permission where needed; attribute accurately and honour restrictions.</p>",
+        "Does adding a citation automatically permit a new calendar derivative?",
+        "No. Attribution and permission are different. A citation recognises the source; it does not grant rights or community authority to adapt the knowledge."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“All First Nations knowledge is one system.”",
+        "Knowledge is diverse and place-based. Name the particular people, place and authorised public source."
+      ],
+      [
+        "“Cultural influence means knowledge has no evidence.”",
+        "Perspectives can guide sustained observation and questions. Examine the actual method and evidence without ranking cultures through stereotypes."
+      ]
+    ],
+    "activityTitle": "Map the knowledge process",
+    "activity": "Using only the public case table, make four boxes: who; where; purpose and observation process; contribution of the partnership. Add one sentence about the limits of what you may reuse.",
+    "adjust": "Support: distinguish public project information from calendar content. Extend: compare the questions of the two fictional school teams without inventing cultural knowledge.",
+    "safety": "No consultation or cultural permission is implied. Do not invent local words, seasonal indicators, harvesting advice or a community calendar; use authorised public descriptions within their conditions.",
+    "tricky": [
+      [
+        "Can permission from one community be applied to another community’s knowledge?",
+        "No. Authority and conditions are specific to the relevant knowledge holders and intended use."
+      ],
+      [
+        "Can a different perspective change what scientists investigate?",
+        "Yes. It can change the questions, observations, categories and applications considered important. Explain a specific link rather than only saying “culture matters”."
+      ],
+      [
+        "Does collaboration require treating every method as identical?",
+        "No. Partners can recognise different methods, purposes and authority while working on shared questions respectfully."
+      ]
+    ],
+    "faq": [
+      [
+        "Is the calendar itself included here?",
+        "No. This lesson uses public project metadata and general reasoning about perspective and governance."
+      ],
+      [
+        "Is comparing perspectives a contest to find the best culture?",
+        "No. Compare evidence, purposes, methods and applications in context, avoiding stereotypes and universal rankings."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S7H03",
+    "short": "Evaluate scientific responses",
+    "title": "Weigh a response through four impact lenses",
+    "intro": "Explain how a proposed response could work, examine its wider effects, and make a recommendation that acknowledges trade-offs.",
+    "art": "H03",
+    "exampleTitle": "Should a school introduce reusable cups?",
+    "example": "The proposed mechanism is to use each durable cup repeatedly, reducing the need for new disposable cups. That benefit depends on actual reuse and what happens during manufacture, washing and disposal. A defensible recommendation could support a monitored trial with accessible alternatives, a workable washing system and a cost review. A different recommendation can also be valid if it explains the evidence and trade-offs; the lesson does not supply measured savings.",
+    "evidence": "<div class=\"evidence\"><table><caption>Original hypothetical proposal: school supplies reusable cups and washing facilities instead of routine disposable cups; no measured outcomes supplied</caption><thead><tr><th scope=\"col\">Lens</th><th scope=\"col\">Question for the proposed reusable-cup system</th></tr></thead><tbody><tr><td>Environmental</td><td>Could repeated use reduce waste after accounting for manufacture, washing and eventual disposal?</td></tr><tr><td>Ethical</td><td>Is access fair, and who bears the costs or risks?</td></tr><tr><td>Social</td><td>Can people with different access needs use it, and how will routines change?</td></tr><tr><td>Economic</td><td>Who pays for cups, washing, replacements and staff time?</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Explain the response and mechanism",
+        "An issue is the problem; a response is a proposed action. State how the action could produce an effect, then identify evidence needed to check it.",
+        "<p class=\"note\"><strong>Issue → response → test</strong> Cup waste → provide reusable cups and washing → compare purchases, actual reuse, waste, water/energy use and practical access before and during a trial.</p>",
+        "Why is “plastic waste is bad” not yet an evaluation of a response?",
+        "It names an issue but gives no proposed action, mechanism, evidence or trade-off. Specify the response and how it would be assessed."
+      ],
+      [
+        "Use four distinct lenses",
+        "Environmental questions concern ecosystems and resource effects. Ethical questions concern duties, rights and fairness. Social questions concern people’s access, routines and participation. Economic questions concern resources, costs and who pays. One impact can connect several lenses.",
+        "<div class=\"evidence\"><table><caption>Original hypothetical proposal: school supplies reusable cups and washing facilities instead of routine disposable cups; no measured outcomes supplied</caption><thead><tr><th scope=\"col\">Lens</th><th scope=\"col\">Question for the proposed reusable-cup system</th></tr></thead><tbody><tr><td>Environmental</td><td>Could repeated use reduce waste after accounting for manufacture, washing and eventual disposal?</td></tr><tr><td>Ethical</td><td>Is access fair, and who bears the costs or risks?</td></tr><tr><td>Social</td><td>Can people with different access needs use it, and how will routines change?</td></tr><tr><td>Economic</td><td>Who pays for cups, washing, replacements and staff time?</td></tr></tbody></table></div>",
+        "Why can an option with lower total cost still raise an ethical concern?",
+        "Costs or burdens may fall unfairly on a particular group. Total cost alone does not show whether people have fair access or carry disproportionate risks."
+      ],
+      [
+        "Make the recommendation conditional",
+        "Compare alternatives using stated criteria. Explain what would change your recommendation. Missing evidence should become a monitoring question rather than an invented number.",
+        "<p class=\"note\"><strong>Conditional conclusion</strong> “Trial the system if accessible alternatives and washing capacity are in place. Review actual reuse, environmental burdens and cost before extending it.”</p>",
+        "Does this proposal prove reusable cups always have the lowest environmental impact?",
+        "No. Impact depends on material, number of reuses, washing, transport, loss and disposal. Check the relevant conditions."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Scientific means automatically ethical.”",
+        "Technical effectiveness does not settle fairness, consent, access or distribution of harms."
+      ],
+      [
+        "“The cheapest option must be best.”",
+        "Cost is one criterion. Consider environmental performance, rights and practical social consequences too."
+      ]
+    ],
+    "activityTitle": "Hold a four-lens review",
+    "activity": "Give each lens one column. For the hypothetical cup system, write a possible benefit, a concern and an unanswered question. End with a recommendation that includes one condition and one measure to review.",
+    "adjust": "Support: use the table’s questions. Extend: compare a reusable system with a waste-reduction alternative and explain which evidence would distinguish them.",
+    "safety": "Use a paper discussion, not a hygiene trial. Do not share drinking vessels or treat a proposal as permission to change school procedures.",
+    "tricky": [
+      [
+        "Must a reasoned answer support the proposal?",
+        "No. Support, rejection or a conditional trial can be defensible when tied to evidence, stated criteria and affected groups."
+      ],
+      [
+        "Does replacing one material remove every environmental impact?",
+        "No. Production, transport, use and disposal can create different impacts. Compare the full relevant process."
+      ],
+      [
+        "What is missing from “this will save exactly $500” in this scenario?",
+        "Cost data and a justified calculation. No such measurements or prices were supplied; state what information is needed."
+      ]
+    ],
+    "faq": [
+      [
+        "Can one concern fit two lenses?",
+        "Yes. Explain each aspect clearly: affordability can be economic, while unequal access raises ethical and social questions."
+      ],
+      [
+        "Why include monitoring?",
+        "Predicted benefits and unintended effects need checking against actual evidence after implementation."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S7H04",
+    "short": "Science communication and decisions",
+    "title": "Follow a message from evidence to decision",
+    "intro": "Analyse source, purpose and audience, then explain how communication can inform viewpoints, policies and regulations without overstating its effects.",
+    "art": "H04",
+    "exampleTitle": "What does 94% support actually tell us?",
+    "example": "The July 2020 Queensland single-use-plastics consultation report recorded 19,622 submissions and 94% support among submitters. That communicates the views of people who chose to respond. It does not establish that 94% of the whole population agreed or that reading the campaign changed everyone’s view. The report gives a concrete feedback channel into public decisions, with selection and causality limits.",
+    "evidence": "<div class=\"evidence\"><table><caption>Historical communication case, not current legal guidance or a claim about the rules now in force</caption><thead><tr><th scope=\"col\">Historical evidence: Queensland consultation report, July 2020</th><th scope=\"col\">Sound interpretation</th></tr></thead><tbody><tr><td>19,622 submissions; 94% support among submitters</td><td>Strong support in this self-selected response group; not a random survey of all Queenslanders</td></tr><tr><td>Campaign impressions, clicks and page visits reported</td><td>Evidence of communication reach or interaction, not a measured count of people persuaded</td></tr><tr><td>Feedback discussed scope, timing and access needs</td><td>A documented route by which community communication could inform decisions; not proof that evidence alone determined them</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Identify source, purpose and audience",
+        "A useful message makes the evidence and its limits visible. A research summary, an advocacy message and official guidance can address different readers and purposes. Check whether two articles report the same study before treating them as independent confirmation.",
+        "<p class=\"note\"><strong>Original school messages</strong> Message A: “Join our cup trial: help us compare waste and washing needs.” Message B: “Our trial will end all waste forever.” Both address the same proposed school trial.</p>",
+        "Which school message is better supported before the trial, and why?",
+        "A. It describes a test and invites participation. B promises a universal result without evidence and hides uncertainty."
+      ],
+      [
+        "Trace influence without assuming it",
+        "A message can provide information, prompt discussion and invite feedback. Views also reflect experience, values and practical needs. Reach, agreement and a change of view are different outcomes.",
+        "<div class=\"evidence\"><table><caption>Historical communication case, not current legal guidance or a claim about the rules now in force</caption><thead><tr><th scope=\"col\">Historical evidence: Queensland consultation report, July 2020</th><th scope=\"col\">Sound interpretation</th></tr></thead><tbody><tr><td>19,622 submissions; 94% support among submitters</td><td>Strong support in this self-selected response group; not a random survey of all Queenslanders</td></tr><tr><td>Campaign impressions, clicks and page visits reported</td><td>Evidence of communication reach or interaction, not a measured count of people persuaded</td></tr><tr><td>Feedback discussed scope, timing and access needs</td><td>A documented route by which community communication could inform decisions; not proof that evidence alone determined them</td></tr></tbody></table></div>",
+        "Do 10,000 page views establish 10,000 people changed their opinion?",
+        "No. Views may include repeat visits and do not measure a change in opinion. A suitable before/after design and other evidence would be needed."
+      ],
+      [
+        "Distinguish viewpoints, policies and regulations",
+        "An individual may revise a viewpoint after considering evidence. An organisation may adopt a policy, such as its own cup procedure. Government regulations are enforceable rules within a jurisdiction. Scientific information can inform all three, alongside consultation, values and other considerations.",
+        "<p class=\"note\"><strong>Different authority</strong> An original school poster inviting a trial does not create a government regulation. Historical consultation proposals must not be presented as current rules.</p>",
+        "What should an official compliance message explain that an advocacy poster might not?",
+        "The relevant authority, who and what the rule covers, when it applies and where to find current detailed guidance. Verify the source rather than using an old campaign as law."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Popular means scientifically reliable.”",
+        "Judge the source, method, evidence and qualifications, not only likes or agreement."
+      ],
+      [
+        "“Evidence automatically becomes law.”",
+        "Evidence is communicated, interpreted and considered with other factors through decision processes; the pathway is not automatic."
+      ]
+    ],
+    "activityTitle": "Repair a misleading headline",
+    "activity": "Rewrite “94% of Queenslanders agreed, so the campaign proved the ban was best.” Use the historical table to correct the group, remove unsupported causation and mention a missing impact consideration.",
+    "adjust": "Support: begin “94% of submitters…”. Extend: design a clear message for students and a separate evidence summary for school decision-makers about the fictional cup trial.",
+    "safety": "This is analysis of a dated public report and fictional messages. Do not submit feedback, contact people or interpret historical examples as current legal advice.",
+    "tricky": [
+      [
+        "Are a press release and a public article about the same study two independent replications?",
+        "No. They may communicate the same evidence in different formats. Look for genuinely independent studies or data."
+      ],
+      [
+        "Can communication influence policy without proving that it caused the policy?",
+        "Yes. A documented feedback route supports a role in the process, while other factors and contributors prevent a simple sole-cause claim."
+      ],
+      [
+        "How could a careful message still be persuasive?",
+        "Explain relevant evidence clearly, connect it to the audience’s concerns and acknowledge limits and alternatives without exaggeration."
+      ]
+    ],
+    "faq": [
+      [
+        "Does simplifying science mean removing every qualification?",
+        "No. Keep qualifications that change the meaning while using accessible words and a suitable format."
+      ],
+      [
+        "Why date a policy case?",
+        "Proposals and rules can change. A date helps readers distinguish historical evidence from current requirements."
+      ]
+    ]
+  }
+]
