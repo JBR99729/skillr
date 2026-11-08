@@ -1,0 +1,854 @@
+[
+  {
+    "code": "AC9S6U01",
+    "short": "Physical conditions, growth and survival",
+    "title": "Investigate how habitat conditions affect living things",
+    "intro": "Measure physical conditions, compare changes in growth and survival, and explain what evidence can and cannot establish.",
+    "art": "plants",
+    "exampleTitle": "More water did not mean taller plants at every setting",
+    "example": "This invented model starts with twelve already-emerged seedlings of the same species, each 20 mm tall. Four plants receive each daily water amount. Pot, soil, drainage, light, temperature and duration are matched; the pots are assigned to groups and their positions are randomised. Heights are measured from soil level to the shoot tip in the same way on day 9. These are teaching records, not a real class experiment or measurements from the illustration. Mean height was greatest in the 6 mL group, but all plants were alive in every group. The model supports a difference in measured growth under these conditions; it does not show a survival difference or a universal best watering amount.",
+    "evidence": "<table><caption>Invented model records: 12 already-emerged seedlings, each initially 20 mm tall; day 9 results</caption><thead><tr><th scope=\"col\">Water per pot each day (mL)</th><th scope=\"col\">Final heights: four plants (mm)</th><th scope=\"col\">Mean final height (mm)</th><th scope=\"col\">Alive at day 9</th></tr></thead><tbody><tr><td>2</td><td>30, 32, 31, 31</td><td>31</td><td>4 of 4</td></tr><tr><td>6</td><td>42, 44, 43, 43</td><td>43</td><td>4 of 4</td></tr><tr><td>12</td><td>36, 35, 37, 36</td><td>36</td><td>4 of 4</td></tr></tbody></table>",
+    "steps": [
+      [
+        "Identify and measure physical conditions",
+        "Light, temperature, water availability and substrate are physical conditions. Record what was measured, where and when. Food organisms and predators are living factors, although they interact with physical conditions.",
+        "<table><thead><tr><th scope=\"col\">Record</th><th scope=\"col\">What it describes</th></tr></thead><tbody><tr><td>Air temperature in shade: 22°C</td><td>A physical condition at the stated place/time</td></tr><tr><td>Soil moisture category: damp</td><td>A qualitative physical-condition record</td></tr><tr><td>Number of insects present</td><td>Living organisms, not the same as a moisture reading</td></tr></tbody></table>",
+        "Does one temperature reading describe the habitat throughout the year?",
+        "No. It describes the measurement place and time. Daily and seasonal conditions may differ."
+      ],
+      [
+        "Separate growth from survival",
+        "Growth is change in a suitable size or quantity measure; survival concerns whether organisms remain alive. Here each seedling started at 20 mm, so mean height increases are 11, 23 and 16 mm. Height alone is not a complete measure of plant health.",
+        "<div class=\"evidence\"><strong>Use the correct outcome</strong><p>All three groups have 4 of 4 plants alive. Different final heights do not establish different survival in these records.</p></div>",
+        "Can the taller 6 mL group be described as the only group that survived?",
+        "No. Every group has all four plants alive. Its measured height increase was greater; survival was the same in the supplied record."
+      ],
+      [
+        "Analyse the comparison and its limits",
+        "A matched comparison can investigate a changed condition more clearly than two different habitats where many conditions differ. Limit the conclusion to the species, range, duration and outcomes tested.",
+        "<div class=\"evidence\"><strong>A bounded conclusion</strong><p>In this model, the 6 mL group had the greatest mean height increase over nine days. Testing other amounts or species is needed before claiming a general optimum.</p></div>",
+        "Do these data establish that 6 mL is best for every plant?",
+        "No. Species, pot size, soil, drainage, weather and time affect water needs. The dataset does not establish a universal dose."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Any environmental change must be harmful.”",
+        "An effect depends on the organism, condition and amount of change. Use relevant evidence."
+      ],
+      [
+        "“Taller means healthier and more likely to survive.”",
+        "Height, health indicators and survival are different outcomes. State what was measured."
+      ]
+    ],
+    "activityTitle": "Write three linked evidence statements",
+    "activity": "2 minutes: identify the changed condition and measured outcomes. 4 minutes: calculate height increases from the 20 mm baseline. 2 minutes: compare the survival records. 2 minutes: write a conclusion and a limit.",
+    "adjust": "Support: use final height minus starting height. Extend: propose a different measure of growth and explain why it could add useful evidence.",
+    "safety": "Use supplied records or an adult-approved plant study. Do not collect unknown organisms, introduce plants to wild habitats or deliberately harm living things.",
+    "tricky": [
+      [
+        "Can a habitat survey alone prove moisture caused a growth difference?",
+        "Not usually. Light, temperature, soil and other conditions may also differ. Identify the possible alternative explanations."
+      ],
+      [
+        "Why compare change from baseline rather than final height alone?",
+        "Different starting sizes can affect final heights. Here the shared 20 mm baseline makes height increases directly comparable."
+      ],
+      [
+        "Could a plant grow less yet still survive for the observation period?",
+        "Yes. Growth and survival are separate outcomes; the supplied records illustrate that distinction."
+      ]
+    ],
+    "faq": [
+      [
+        "Are qualitative observations useful?",
+        "Yes. Defined descriptions such as shade categories or moisture classes can be useful when their method and limitations are clear."
+      ],
+      [
+        "Must habitat investigations change conditions deliberately?",
+        "No. Surveys can compare existing conditions. A controlled test is useful when investigating a particular proposed cause."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S6U02",
+    "short": "Earth’s movement and changing daylight",
+    "title": "Connect Earth’s movements to observable cycles",
+    "intro": "Distinguish rotation from revolution and use a consistently tilted-axis model to explain changing daylight through the year.",
+    "art": "earth",
+    "exampleTitle": "The same tilt points a different way relative to the Sun",
+    "example": "Earth and the other planets orbit the Sun. Earth also rotates on its axis. In the two-position model, the axes remain parallel: around June the Southern Hemisphere tilts away from the Sun, and around December it tilts towards it. At ordinary southern temperate latitudes, daylight is generally shorter around June and longer around December.",
+    "evidence": "<table><thead><tr><th scope=\"col\">Motion or relationship</th><th scope=\"col\">Observable link</th></tr></thead><tbody><tr><td>Earth rotates on its axis</td><td>A solar day is about 24 hours; most locations cycle through light and darkness</td></tr><tr><td>Earth revolves around the Sun</td><td>One orbit takes about a year</td></tr><tr><td>Tilt keeps approximately the same direction during the orbit</td><td>Sunlight angle and daylight duration change with latitude and season</td></tr></tbody></table>",
+    "steps": [
+      [
+        "Describe orbits and model limits",
+        "Planets revolve around the Sun at different distances and with different orbital periods. A drawn orbit is a representation of a path, not a physical track. A diagram rarely scales size, distance and time all at once.",
+        "<div class=\"evidence\"><strong>Different things to compare</strong><p>Planet diameter is not orbital distance. A planet’s rotation period is not its year. Read quantity labels and units before comparing.</p></div>",
+        "If planets are drawn in one straight line, must they stay lined up as they orbit?",
+        "No. The arrangement may help display distances, but planets have different orbital positions and periods."
+      ],
+      [
+        "Explain the daily cycle with rotation",
+        "At most latitudes, rotation carries a place into and out of the sunlit part of Earth. The Sun does not need to circle Earth each day to explain the cycle. Polar regions can have continuous daylight or darkness at some times.",
+        "<div class=\"evidence\"><strong>State the viewpoint</strong><p>Earth’s eastward rotation appears anticlockwise from above the North Pole and clockwise from above the South Pole. The physical motion is the same.</p></div>",
+        "Are clouds or the Moon required to cause night?",
+        "No. A place is in night when it is on the side facing away from the Sun. Clouds can reduce daylight but do not cause the daily cycle."
+      ],
+      [
+        "Combine tilt, revolution and latitude",
+        "Keep the model axis pointing approximately the same way in space as Earth travels around the Sun. Its tilt changes how long different latitudes spend in sunlight and the angle of incoming sunlight.",
+        "<div class=\"evidence\"><strong>Southern Hemisphere comparison</strong><p>Around December, southern temperate places generally have longer daylight than around June. The Northern Hemisphere has the opposite astronomical seasonal pattern.</p></div>",
+        "Does daylight saving create an extra hour of sunlight?",
+        "No. It changes clock labels, not Earth’s tilt or the duration of sunlight. Compare records using a consistent time basis."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Earth’s tilt turns to point at the Sun throughout the orbit.”",
+        "Keep the axis approximately parallel to itself over the year; its direction relative to the Sun then changes."
+      ],
+      [
+        "“Summer happens because Earth is closer to the Sun.”",
+        "Distance alone cannot explain opposite seasons in the hemispheres. Tilt changes sunlight angle and duration."
+      ]
+    ],
+    "activityTitle": "Explain two positions of Earth",
+    "activity": "2 minutes: locate the Sun and parallel axes in the model. 4 minutes: describe which hemisphere tilts towards it at each position. 2 minutes: connect that to daylight length at southern temperate latitudes. 2 minutes: state one model limitation.",
+    "adjust": "Support: use towards/away and longer/shorter labels. Extend: explain why a model with a pole always aimed at the Sun gives a misleading yearly cycle.",
+    "safety": "Use the supplied drawing or a cool battery-light model with adult guidance. Never look directly at the Sun or aim a light at eyes.",
+    "tricky": [
+      [
+        "Does one complete orbit around the Sun cause each daily sunrise?",
+        "No. Earth’s rotation is the main motion explaining the daily light/dark cycle; revolution is the yearly motion."
+      ],
+      [
+        "Can we say every place has exactly 12 hours of day and 12 hours of night all year?",
+        "No. Daylight varies with latitude and date, including polar exceptions. The simple half-lit globe does not imply equal local time in each half."
+      ],
+      [
+        "Why should the axes be parallel in the two-position diagram?",
+        "Over one annual orbit the direction is approximately unchanged in space. This allows the tilt towards or away from the Sun to change with orbital position."
+      ]
+    ],
+    "faq": [
+      [
+        "Do all Australian places follow identical four-season weather patterns?",
+        "No. The astronomical model explains sunlight patterns; local weather and recognised seasonal patterns also depend on latitude and environment."
+      ],
+      [
+        "Are the diagram’s sizes and distances to scale?",
+        "No. Earth is greatly enlarged and the two positions are shown together for comparison, not as two real Earths."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S6U03",
+    "short": "Circuits, energy and materials",
+    "title": "Trace a complete circuit and its energy transfers",
+    "intro": "Explain component roles, energy transfer and transformation, and the evidence for conductors and insulators in a simple circuit.",
+    "art": "circuit",
+    "exampleTitle": "A lamp needs a continuous conducting path",
+    "example": "The labelled model connects one cell, a closed switch and a suitable intact incandescent lamp. A conducting path runs from one cell terminal through the lamp filament to the other terminal. The cell supplies energy; the lamp transforms transferred electrical energy into light and heating. The model is not a wiring instruction for household electricity.",
+    "evidence": "<table><thead><tr><th scope=\"col\">Component</th><th scope=\"col\">Role</th></tr></thead><tbody><tr><td>Cell</td><td>Supplies energy through chemical processes</td></tr><tr><td>Conducting wires</td><td>Provide connections in the circuit</td></tr><tr><td>Switch</td><td>Completes or breaks the intended path</td></tr><tr><td>Incandescent lamp</td><td>Produces light and heating when the suitable circuit operates</td></tr></tbody></table>",
+    "steps": [
+      [
+        "Check the actual connections",
+        "Trace the loop through each component and both cell terminals. Nearby objects or wires touching only plastic coating do not establish a conducting connection. An open switch breaks this simple path.",
+        "<div class=\"evidence\"><strong>A diagnostic question</strong><p>If the lamp does not light, inspect the path, contacts, cell and lamp. A gap is one possible cause, not the only explanation.</p></div>",
+        "If both leads connect to one lamp contact and the other contact is unconnected, is there a path through the filament?",
+        "No. The intended circuit must connect through the filament between the lamp’s two contacts. Do not test a shorted arrangement physically."
+      ],
+      [
+        "Separate energy from charge",
+        "Energy is transferred from the cell to components. A lamp gives light and heating; a motor can produce movement and heating; a buzzer can produce sound and heating. Charge is not used up by a lamp.",
+        "<div class=\"evidence\"><strong>An energy chain</strong><p>Stored chemical energy → electrical transfer in the circuit → light and heating at the lamp. A simple loop model does not explain every microscopic detail.</p></div>",
+        "Does a switch create a fresh supply of energy when it closes?",
+        "No. It completes the intended conducting path. The source supplies energy; the switch controls the connection."
+      ],
+      [
+        "Test materials and interpret the evidence",
+        "Check a working reference circuit before replacing one link with a test sample. Keep contacts, cell and lamp the same. A metal core can conduct while dry plastic coating provides insulation under ordinary intended conditions.",
+        "<table><thead><tr><th scope=\"col\">Hypothetical observation</th><th scope=\"col\">Supported interpretation</th></tr></thead><tbody><tr><td>Clean copper link: lamp lights</td><td>Suitable conductor in this setup</td></tr><tr><td>Dry plastic link: lamp does not light</td><td>Not a suitable conducting link in this setup</td></tr><tr><td>Reference also stops working</td><td>Apparatus or contact problem needs checking</td></tr></tbody></table>",
+        "Does a lamp failing to light prove a material has zero conductivity in every situation?",
+        "No. Poor contacts, failed equipment or the sensitivity of the setup can affect the result. Limit the claim to the tested conditions."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“The lamp uses up the current.”",
+        "The lamp transforms energy; charge is not consumed by the component."
+      ],
+      [
+        "“Low voltage means there is no hazard.”",
+        "Use only teacher-selected matched school equipment. Short circuits, damaged cells and hot components can still be hazardous."
+      ]
+    ],
+    "activityTitle": "Explain and diagnose a circuit model",
+    "activity": "2 minutes: trace the supplied closed loop. 4 minutes: explain each component’s role and one energy transformation. 2 minutes: identify what opening the switch changes. 2 minutes: suggest a reference check for a material test.",
+    "adjust": "Support: follow source → connections → lamp → return. Extend: distinguish a broken circuit from an intact circuit with a depleted cell.",
+    "safety": "Paper analysis is sufficient. Any practical must use teacher-approved matched school cells and components; never mains, damaged batteries, deliberate short circuits or live household wiring.",
+    "tricky": [
+      [
+        "Can an intact incandescent lamp usually operate with the cell reversed?",
+        "Yes, with suitable matched equipment. Do not generalise this to LEDs or every electronic component, which may need a particular polarity and protection."
+      ],
+      [
+        "Why can a wire have both metal and plastic?",
+        "The metal core provides a conducting path, while the dry insulating covering helps keep unintended contacts apart in its designed use."
+      ],
+      [
+        "If a test lamp is off, why restore the reference link?",
+        "It checks whether the circuit still works. A failed reference weakens a claim that the test material alone caused the result."
+      ]
+    ],
+    "faq": [
+      [
+        "Does a cell contain a fixed supply of current to pour out?",
+        "No. It supplies energy through chemical processes. Current describes charge flow when a suitable circuit operates."
+      ],
+      [
+        "Must we calculate current or resistance here?",
+        "No. Focus on conducting paths, component functions, materials and qualitative energy transfers."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S6U04",
+    "short": "Reversible and irreversible changes",
+    "title": "Compare changes using substance and recovery evidence",
+    "intro": "Explain state changes and salt recovery, then contrast changes such as cooking and rusting that form new substances.",
+    "art": "changes",
+    "exampleTitle": "Recovering salt differs from scraping off rust",
+    "example": "Ice can melt and water can freeze again. In ordinary table-salt dissolving, salt remains present even when individual dissolved particles cannot be seen; evaporation can recover it. Rusting forms different substances from iron in the presence of water and oxygen. Scraping rust off does not simply reverse that reaction or restore the lost iron.",
+    "evidence": "<table><thead><tr><th scope=\"col\">Change</th><th scope=\"col\">Evidence or recovery reasoning</th></tr></thead><tbody><tr><td>Ice melts; liquid water freezes</td><td>Same substance; a reversible state change</td></tr><tr><td>Table salt dissolves in water</td><td>Salt can be recovered by evaporation</td></tr><tr><td>Bread is toasted</td><td>Food reactions create new substances; cooling does not restore the original bread</td></tr><tr><td>Iron rusts</td><td>New rust forms; removal does not undo the metal’s reaction</td></tr></tbody></table>",
+    "steps": [
+      [
+        "Explain reversible changes of state",
+        "Melting and freezing change state without changing the substance’s identity. Evaporation and condensation can also be paired. A change caused by heating is not automatically irreversible.",
+        "<div class=\"evidence\"><strong>Direction matters</strong><p>Ice → liquid water is melting; liquid water → ice is freezing. Water vapour → liquid water is condensation.</p></div>",
+        "Does an ice cube become a new substance when it melts?",
+        "No. It remains water in a different state. Cooling under suitable conditions can freeze it again."
+      ],
+      [
+        "Distinguish dissolving from disappearing",
+        "When ordinary table salt dissolves, its particles disperse in water. It has not vanished and it has not melted. A filter does not normally remove dissolved salt; removing water by evaporation can leave salt behind.",
+        "<div class=\"evidence\"><strong>What is recovered?</strong><p>Open evaporation can recover the salt, but it does not collect the water vapour. Recovering water as well requires an appropriate collection and condensation process.</p></div>",
+        "If a clear solution leaves salt crystals after evaporation, did new salt have to be created?",
+        "No. The salt was already present in the solution. The recovery supports that it had not disappeared."
+      ],
+      [
+        "Use evidence for new substances",
+        "Cooking and rusting include changes that form new substances. Some events combine physical and chemical changes. Colour, gas or temperature changes may be clues, but a single clue does not prove every unknown change is a reaction.",
+        "<div class=\"evidence\"><strong>Avoid an unreliable rule</strong><p>Tearing paper is hard to undo, yet it need not form a new substance. Difficulty reversing alone does not identify a chemical change.</p></div>",
+        "Does cooling toasted bread restore it to the original bread?",
+        "No. Cooling removes heat but does not reverse the food reactions that formed new substances."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“All bubbles prove a new gas substance was made.”",
+        "Boiling water also produces bubbles of water vapour. Use the specific process and evidence."
+      ],
+      [
+        "“Every metal forms rust.”",
+        "Rust is associated with iron-containing materials; other metals can have different corrosion products."
+      ]
+    ],
+    "activityTitle": "Write evidence-based comparisons",
+    "activity": "2 minutes: sort the four supplied cases. 4 minutes: explain one state-change pair and one salt-recovery method. 2 minutes: contrast rusting with melting. 2 minutes: explain why tearing paper challenges an oversimple reversal rule.",
+    "adjust": "Support: use same substance/new substances and a specific recovery process. Extend: identify a familiar event containing both physical and chemical changes.",
+    "safety": "Use supplied observations or teacher-selected samples. Do not taste solutions, handle rusty sharp objects, heat materials or operate cooking equipment without an approved adult-led procedure.",
+    "tricky": [
+      [
+        "Is salt required for iron to rust?",
+        "No. Iron, oxygen and water are involved. Salt can accelerate rusting under some conditions but is not a required ingredient."
+      ],
+      [
+        "Would an ordinary filter separate dissolved salt from its solution?",
+        "Not normally. Dissolved particles pass through an ordinary classroom filter; evaporation can recover the salt."
+      ],
+      [
+        "Does irreversible mean no advanced process could ever recover iron?",
+        "No. Here it means ordinary classroom reversal does not restore the original material. Later chemical processing is a different process, not scraping the rust away."
+      ]
+    ],
+    "faq": [
+      [
+        "Is every dissolving process identical?",
+        "No. This example concerns ordinary table salt in water. Some other substances can react when mixed."
+      ],
+      [
+        "Can heating cause more than one kind of change at once?",
+        "Yes. Toasting can involve physical water loss and chemical food reactions. Describe the particular change you are explaining."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S6H01",
+    "short": "Collaboration and building on evidence",
+    "title": "Explain how connected contributions advance science",
+    "intro": "Analyse a historical case to show how different expertise, earlier findings and shared methods can support a scientific advance.",
+    "art": "history",
+    "exampleTitle": "An observation, a preparation and a trustworthy test",
+    "example": "Fleming’s 1928 observation of a mould-associated antibacterial effect was an important lead. Later Oxford work linked chemical preparation with biological investigation. Chain and colleagues contributed chemical work; Heatley developed sensitive tests and useful apparatus; Florey coordinated biological investigations. These selected contributions explain a connection between tasks, not a complete list of everyone involved.",
+    "evidence": "<table><thead><tr><th scope=\"col\">Contribution</th><th scope=\"col\">What it enables</th><th scope=\"col\">What it does not establish alone</th></tr></thead><tbody><tr><td>Promising observation</td><td>A question worth investigating</td><td>A finished practical medicine</td></tr><tr><td>Preparation of material</td><td>Samples for further study</td><td>Effectiveness and safety by appearance</td></tr><tr><td>Sensitive activity testing</td><td>Evidence to compare preparations</td><td>Every later clinical question</td></tr><tr><td>Coordinated expertise</td><td>Connected methods and evidence</td><td>Automatic correctness of every claim</td></tr></tbody></table>",
+    "steps": [
+      [
+        "Explain why complementary roles matter",
+        "Find the obstacle, the contribution and the task it enables. A preparation method is more useful when a reliable test can show whether the preparation retains the relevant activity.",
+        "<div class=\"evidence\"><strong>Connect the tasks</strong><p>Preparing material and testing its activity answer different questions. The output of one stage supports another stage.</p></div>",
+        "Would a list of famous names alone explain the advance?",
+        "No. Explain what each selected contribution made possible and how the tasks depended on one another."
+      ],
+      [
+        "Distinguish an earlier finding from later additions",
+        "Later work may develop a new preparation, instrument or test as well as follow up an observation. A date sequence helps organise the story, but chronology alone does not explain how knowledge advanced.",
+        "<div class=\"evidence\"><strong>A stronger explanation</strong><p>An earlier effect suggested a possibility; later preparation and testing methods addressed questions that the observation could not answer.</p></div>",
+        "If later researchers build on an earlier test, have they contributed nothing new?",
+        "No. They can use an existing method to answer a new question or improve a preparation. Identify what they retained and what they added."
+      ],
+      [
+        "Evaluate claims about credit and checking",
+        "Use evidence about roles and methods to judge a headline. Independent checking can strengthen confidence when methods and findings are examined; neither an award nor agreement alone proves a claim.",
+        "<div class=\"evidence\"><strong>Compare the accounts</strong><p>One account may emphasise apparatus and another coordination. Different emphasis is not by itself a contradiction; compare the specific claims and evidence.</p></div>",
+        "Does a prestigious award prove that its recipients performed every task alone?",
+        "No. Awards recognise selected contributions. Records of the work are needed to evaluate a sole-contributor claim."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Collaboration means everyone does the same experiment.”",
+        "Different specialist work can contribute to a shared scientific problem."
+      ],
+      [
+        "“Agreement in a team proves the explanation.”",
+        "Evaluate methods and evidence, including opportunities for checking and challenge."
+      ]
+    ],
+    "activityTitle": "Build and challenge a contribution map",
+    "activity": "2 minutes: choose three supplied contributions. 4 minutes: connect each to a task it enables. 2 minutes: explain one later addition to earlier work. 2 minutes: challenge a headline claiming that one observation completed the whole advance.",
+    "adjust": "Support: use contribution → evidence or capability → next task. Extend: explain how a source’s purpose might affect which contributions it highlights.",
+    "safety": "Use historical records only. Do not culture mould, test medicines or handle biological samples.",
+    "tricky": [
+      [
+        "Why can sharing a method be as important as sharing a conclusion?",
+        "Others need enough method detail to test, compare or extend a claim rather than simply repeat its wording."
+      ],
+      [
+        "Do different roles have to contribute equally to be valuable?",
+        "No. Explain the actual contribution and its connection to the advance; equal participation is not established by this short record."
+      ],
+      [
+        "Can a later investigation challenge earlier work and still build on it?",
+        "Yes. It may use an earlier finding or method as a starting point while correcting, testing or limiting the earlier claim."
+      ]
+    ],
+    "faq": [
+      [
+        "What does a sensitive activity test add?",
+        "It can detect or compare an effect in prepared material, giving evidence that appearance alone cannot provide."
+      ],
+      [
+        "Is this the complete history of penicillin?",
+        "No. It is a bounded example selected to explain connected contributions, prior work and evidence checking."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S6H02",
+    "short": "Evidence-informed community decisions",
+    "title": "Compare responses before choosing an action",
+    "intro": "Use scientific knowledge, relevant evidence and practical criteria to justify a decision and plan how to review its effects.",
+    "art": "plants",
+    "exampleTitle": "Should a hypothetical school simply double the water?",
+    "example": "This invented model starts with twelve already-emerged seedlings of the same species, each 20 mm tall. Four plants receive each daily water amount. Pot, soil, drainage, light, temperature and duration are matched; the pots are assigned to groups and their positions are randomised. Heights are measured from soil level to the shoot tip in the same way on day 9. These are teaching records, not a real class experiment or measurements from the illustration. The school’s stated goal is to support these seedlings’ growth while using water carefully. The model does not support “more water always means more growth”. A real decision would also need suitable species, weather, drainage, maintenance and community priorities to be checked.",
+    "evidence": "<table><caption>Invented model records: 12 already-emerged seedlings, each initially 20 mm tall; day 9 results</caption><thead><tr><th scope=\"col\">Water per pot each day (mL)</th><th scope=\"col\">Final heights: four plants (mm)</th><th scope=\"col\">Mean final height (mm)</th><th scope=\"col\">Alive at day 9</th></tr></thead><tbody><tr><td>2</td><td>30, 32, 31, 31</td><td>31</td><td>4 of 4</td></tr><tr><td>6</td><td>42, 44, 43, 43</td><td>43</td><td>4 of 4</td></tr><tr><td>12</td><td>36, 35, 37, 36</td><td>36</td><td>4 of 4</td></tr></tbody></table>",
+    "steps": [
+      [
+        "Define the problem and criteria",
+        "State what needs improving and who is affected. Separate a measured outcome from a preferred response. Scientific knowledge about water availability helps identify a testable mechanism.",
+        "<table><thead><tr><th scope=\"col\">Criterion</th><th scope=\"col\">Relevant evidence or question</th></tr></thead><tbody><tr><td>Growth in the stated study</td><td>Height increases from a common baseline</td></tr><tr><td>Water use</td><td>Daily volume per pot</td></tr><tr><td>Practical care</td><td>Who can water consistently?</td></tr><tr><td>Actual site suitability</td><td>Species, conditions and drainage checks</td></tr></tbody></table>",
+        "Is “use the most water” itself evidence that a response meets the goal?",
+        "No. It is a proposed action. Compare its outcomes and water use against the stated criteria."
+      ],
+      [
+        "Compare options and trade-offs",
+        "Select evidence for each criterion. In this model, the 6 mL group has the largest mean height increase while using less water than the 12 mL group. This does not make it a universal instruction for every garden.",
+        "<div class=\"evidence\"><strong>Use the full evidence</strong><p>All three groups have the same survival record over nine days. Do not invent a survival benefit to strengthen a recommendation.</p></div>",
+        "Would the 12 mL choice be best simply because it doubles the 6 mL dose?",
+        "No. Its supplied mean height is lower, not double. Judge outcomes and relevant criteria rather than the amount alone."
+      ],
+      [
+        "Make a conditional decision and monitor it",
+        "Explain the response, evidence, limits and a check after implementation. People also consider costs, cultural guidance and environmental or access requirements relevant to the real place.",
+        "<div class=\"evidence\"><strong>A justified recommendation</strong><p>For another controlled trial with these model conditions, compare settings near 6 mL more closely. Before any real watering recommendation, check actual plant needs and monitor growth, health and water use.</p></div>",
+        "Does uncertainty mean no decision can ever be made?",
+        "No. Make a proportionate decision using the available evidence, state uncertainties and plan monitoring or further investigation."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Science chooses everyone’s priorities for them.”",
+        "Evidence informs likely effects; people also decide which needs and trade-offs matter."
+      ],
+      [
+        "“One dataset proves the best response everywhere.”",
+        "State the tested conditions and check whether they fit the actual problem."
+      ]
+    ],
+    "activityTitle": "Write a recommendation with a review plan",
+    "activity": "2 minutes: state the goal and two criteria. 4 minutes: compare two model settings using exact evidence. 2 minutes: recommend a next step conditionally. 2 minutes: identify what should be monitored or checked before a real decision.",
+    "adjust": "Support: use option → evidence → criterion → limitation. Extend: explain how a different community priority could change a decision without changing the scientific data.",
+    "safety": "Use the hypothetical case. Actual garden changes need adult guidance and any relevant site or community permission; these data are not a universal plant-care dose.",
+    "tricky": [
+      [
+        "Which comparison challenges “doubling water doubles height”?",
+        "The 6 mL group mean is 43 mm, while the 12 mL group mean is 36 mm. Doubling the dose did not double final height in the model."
+      ],
+      [
+        "Can two groups agree on the data but prefer different actions?",
+        "Yes. They may weigh cost, resources, access or other criteria differently. They should explain those choices without changing the evidence."
+      ],
+      [
+        "Why review an action after choosing it?",
+        "Actual conditions and unintended effects may differ from the model. Monitoring helps decide whether to maintain, adjust or stop the response."
+      ]
+    ],
+    "faq": [
+      [
+        "Can individuals use the same reasoning?",
+        "Yes. Define a problem, seek relevant evidence, compare options and check the outcome of a chosen action."
+      ],
+      [
+        "What makes a scientific fact relevant to a decision?",
+        "It helps evaluate a criterion or likely effect for that particular problem and context."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S6I01",
+    "short": "Questions and reasoned predictions",
+    "title": "Ask what the available investigation can answer",
+    "intro": "Pose a measurable question about a relationship and justify a prediction using relevant evidence while keeping it distinct from a result.",
+    "art": "plants",
+    "exampleTitle": "A growth question is different from a survival question",
+    "example": "This invented model starts with twelve already-emerged seedlings of the same species, each 20 mm tall. Four plants receive each daily water amount. Pot, soil, drainage, light, temperature and duration are matched; the pots are assigned to groups and their positions are randomised. Heights are measured from soil level to the shoot tip in the same way on day 9. These are teaching records, not a real class experiment or measurements from the illustration. The records can compare height change and the number alive at day 9. They do not tell us which plants will live longest or what happens beyond the tested water range.",
+    "evidence": "<table><caption>Invented model records: 12 already-emerged seedlings, each initially 20 mm tall; day 9 results</caption><thead><tr><th scope=\"col\">Water per pot each day (mL)</th><th scope=\"col\">Final heights: four plants (mm)</th><th scope=\"col\">Mean final height (mm)</th><th scope=\"col\">Alive at day 9</th></tr></thead><tbody><tr><td>2</td><td>30, 32, 31, 31</td><td>31</td><td>4 of 4</td></tr><tr><td>6</td><td>42, 44, 43, 43</td><td>43</td><td>4 of 4</td></tr><tr><td>12</td><td>36, 35, 37, 36</td><td>36</td><td>4 of 4</td></tr></tbody></table>",
+    "steps": [
+      [
+        "Identify the observed pattern",
+        "Read the measured quantity and baseline. The mean final heights are 31, 43 and 36 mm; the corresponding mean increases are 11, 23 and 16 mm. That pattern is not “more water always gives more height”.",
+        "<div class=\"evidence\"><strong>Record versus expectation</strong><p>“The 6 mL group mean was 43 mm” is supplied model data. A statement about an untested 8 mL setting is a prediction, not a recorded result.</p></div>",
+        "Can “all seedlings will survive for a year” be read from the day 9 survival column?",
+        "No. That column describes the stated period only; it does not establish future survival."
+      ],
+      [
+        "Match the question to a possible method",
+        "Name the changed condition, measured outcome and key controls. A question about water volume and height increase can be investigated with matched seedlings, measured doses and consistent height readings.",
+        "<div class=\"evidence\"><strong>A precise question</strong><p>How does daily water volume affect nine-day height increase in matched seedlings under the same pot, soil, light, temperature and drainage conditions?</p></div>",
+        "Would a question about soil type be answered if only water volume changes?",
+        "No. A soil comparison was not made. The question must match the variables and evidence available."
+      ],
+      [
+        "Make a reasoned prediction for a new comparison",
+        "Use relevant plant needs and the observed pattern, but do not invent an exact optimum or assume a straight-line trend. A new test might compare settings within a narrower range while preserving controls.",
+        "<div class=\"evidence\"><strong>An appropriately limited prediction</strong><p>I predict an 8 mL setting may produce more height increase than the 2 mL setting under matched conditions, because water availability can affect growth and the supplied 6 and 12 mL groups both exceeded 2 mL. The outcome still needs testing.</p></div>",
+        "Does a justified prediction become an observation before the new test?",
+        "No. It remains an expectation with a reason. A suitable investigation may support or challenge it."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“A prediction must be a random guess.”",
+        "Use relevant prior evidence or scientific knowledge and show the connection."
+      ],
+      [
+        "“A yes/no question cannot be investigable.”",
+        "Wording alone does not decide it. Ask whether a suitable observable comparison can answer the question."
+      ]
+    ],
+    "activityTitle": "Improve a question and its prediction",
+    "activity": "2 minutes: state a pattern and its tested range. 3 minutes: write a question naming changed and measured variables. 3 minutes: predict a new comparison with a reason. 2 minutes: name evidence that would challenge your prediction.",
+    "adjust": "Support: use “How does ___ affect ___ when ___ stays the same?” Extend: explain why the present data do not identify the exact best water amount.",
+    "safety": "Use the supplied records. Any new living-thing study needs an adult-approved plan that avoids unnecessary harm.",
+    "tricky": [
+      [
+        "Why specify height increase rather than just plant size?",
+        "It defines an outcome that can be measured consistently and compared with the starting value."
+      ],
+      [
+        "Can an investigation compare patterns without deliberately changing a variable?",
+        "Yes. An observational survey may reveal patterns; be cautious about attributing a cause when several conditions differ."
+      ],
+      [
+        "Does a failed prediction make a well-planned investigation useless?",
+        "No. Evidence that challenges a prediction can improve the explanation or reveal a method issue to investigate."
+      ]
+    ],
+    "faq": [
+      [
+        "How much numerical detail must a prediction include?",
+        "Use only detail justified by the evidence. A reasoned comparison may be more defensible than an exact untested value."
+      ],
+      [
+        "What makes a question practical to investigate?",
+        "A suitable safe method, available materials and an observable or measurable outcome within the available time."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S6I02",
+    "short": "Repeatable and safe investigations",
+    "title": "Plan a comparison another group can repeat",
+    "intro": "Choose variables and measurements, state a repeatable procedure, manage risks and identify required Country/Place permissions.",
+    "art": "plants",
+    "exampleTitle": "“Water some plants more” is not a complete plan",
+    "example": "This invented model starts with twelve already-emerged seedlings of the same species, each 20 mm tall. Four plants receive each daily water amount. Pot, soil, drainage, light, temperature and duration are matched; the pots are assigned to groups and their positions are randomised. Heights are measured from soil level to the shoot tip in the same way on day 9. These are teaching records, not a real class experiment or measurements from the illustration. A usable method must specify dose, schedule, measurement reference points, recording and care arrangements. Replicate plants help reveal variation; they do not repair an unfair setup.",
+    "evidence": "<table><thead><tr><th scope=\"col\">Plan element</th><th scope=\"col\">Detail needed</th></tr></thead><tbody><tr><td>Change</td><td>2, 6 or 12 mL per pot per day in the model</td></tr><tr><td>Measure</td><td>Height change; number alive at the stated endpoint</td></tr><tr><td>Control</td><td>Species, starting size, pot, soil, drainage, light, temperature and time</td></tr><tr><td>Replicate</td><td>Four matched plants per setting; record each separately</td></tr><tr><td>Reduce position bias</td><td>Randomly assign matched plants; randomise positions without changing other conditions</td></tr></tbody></table>",
+    "steps": [
+      [
+        "Choose variables that answer the question",
+        "Identify the deliberately changed variable, measured outcomes and conditions to keep comparable. A controlled variable is not the dependent outcome.",
+        "<div class=\"evidence\"><strong>Two outcomes, one comparison</strong><p>Daily water volume changes. Height increase and the number alive are outcomes. Initial height, duration and environmental conditions are controlled.</p></div>",
+        "If one group also receives a different soil, can height differences isolate water volume?",
+        "No. Soil and water both differ, so their separate effects cannot be identified from that comparison."
+      ],
+      [
+        "Specify procedure, recording and safety",
+        "State volumes, timing, reference points, equipment and repeat records. Decide how to handle spills, a moved pot or a missed dose, and record deviations honestly rather than silently correcting results.",
+        "<table><thead><tr><th scope=\"col\">Potential problem</th><th scope=\"col\">Plan response</th></tr></thead><tbody><tr><td>Spilled water or wet floor</td><td>Stable tray; wipe spills with adult guidance</td></tr><tr><td>Soil handling</td><td>Use approved material and wash hands</td></tr><tr><td>Missed dose</td><td>Record the deviation and consider its effect</td></tr><tr><td>Inconsistent height endpoint</td><td>Use soil level to shoot tip every time</td></tr></tbody></table>",
+        "Does recording the same number four times replace four separate plant measurements?",
+        "No. Measure and record each plant. Copying a preferred value would hide variation rather than create replication."
+      ],
+      [
+        "Plan permissions before work on Country/Place",
+        "Before field investigation, use school and appropriate local First Nations and land-manager guidance to establish where and what is permitted. Respect refusals and restrictions; do not treat consultation as automatic consent.",
+        "<div class=\"evidence\"><strong>Check each activity</strong><p>Access, collecting, recording a knowledge holder and publicly sharing knowledge may require different permissions. Identify the relevant authority through local guidance before proceeding.</p></div>",
+        "If access to a path is approved, is collecting plants automatically allowed?",
+        "No. Check the proposed collecting activity separately through the appropriate teacher and local authority, or use an approved non-invasive alternative."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“More repeats remove every kind of error.”",
+        "They cannot remove a consistent setup bias or a confounding variable."
+      ],
+      [
+        "“A repeatable procedure must produce identical values.”",
+        "It provides enough detail to repeat the method; biological and measurement variation can remain."
+      ]
+    ],
+    "activityTitle": "Audit a short investigation plan",
+    "activity": "2 minutes: list changed, measured and controlled variables. 4 minutes: add exact dose timing, reference points and separate records. 2 minutes: pair one risk with a control. 2 minutes: explain a permission check needed if the study moves to Country/Place.",
+    "adjust": "Support: use the supplied plan headings. Extend: distinguish replication from repeating a reading of the same plant and explain why each can be useful.",
+    "safety": "A paper plan is sufficient. Actual studies need adult-approved plant care, equipment, hygiene and required local permissions before starting.",
+    "tricky": [
+      [
+        "Why randomly assign matched plants to groups?",
+        "It helps avoid systematically placing stronger plants in one treatment group. It does not guarantee every starting difference is removed."
+      ],
+      [
+        "Should a missed watering be hidden so the method looks consistent?",
+        "No. Record what happened and assess its effect on the evidence or follow-up plan."
+      ],
+      [
+        "Does a downloaded cultural resource grant permission to publish any local knowledge?",
+        "No. Use the resource within its terms and check relevant local authority and knowledge-holder permissions for recording or sharing."
+      ]
+    ],
+    "faq": [
+      [
+        "Must every investigation use this fair-test design?",
+        "No. Select observation, survey, modelling or a controlled comparison according to the question."
+      ],
+      [
+        "What details help someone repeat a measurement?",
+        "Define the quantity, equipment, unit, reference points, timing, conditions and how each reading is recorded."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S6I03",
+    "short": "Equipment, precision and records",
+    "title": "Choose, read and check a measurement",
+    "intro": "Select suitable equipment, read its scale and baseline correctly, and keep records with units and precision supported by the method.",
+    "art": "cylinder",
+    "exampleTitle": "Read the water level, not the top of the curve",
+    "example": "The supplied measuring-cylinder model has labelled 10 mL steps, each divided into five equal intervals. Each interval is 2 mL. Looking level with the bottom of this water meniscus gives 36 mL: three intervals above 30 mL. This is a scale-reading example, separate from the small daily doses in the plant model.",
+    "evidence": "<table><thead><tr><th scope=\"col\">Reading step</th><th scope=\"col\">Reasoning</th></tr></thead><tbody><tr><td>Label difference</td><td>40 − 30 = 10 mL</td></tr><tr><td>Equal intervals in that span</td><td>5</td></tr><tr><td>Value of one interval</td><td>10 ÷ 5 = 2 mL</td></tr><tr><td>Bottom of water meniscus</td><td>30 + 3 × 2 = 36 mL</td></tr></tbody></table>",
+    "steps": [
+      [
+        "Choose range and resolution for the task",
+        "Match the quantity, expected value and needed detail. A plant-height study may use a millimetre ruler; a small water dose needs equipment with appropriately fine volume markings.",
+        "<div class=\"evidence\"><strong>A tool can be too coarse</strong><p>A 2 mL-graduated cylinder can support the pictured 36 mL reading. It would not directly measure a requested 1 mL dose to the same stated method; choose suitable finer-volume equipment.</p></div>",
+        "Is any large jug suitable for measuring a 2 mL plant dose?",
+        "No. Its markings and usable range may be too coarse. Choose an adult-approved tool that can resolve the intended small volume."
+      ],
+      [
+        "Read intervals and check the baseline",
+        "Place water-measuring equipment on a stable level surface and read the bottom of the concave water meniscus at eye level. For lengths, align agreed reference points; for a balance, check zero or tare as appropriate.",
+        "<div class=\"evidence\"><strong>Read the supplied scale</strong><p>There are five spaces from 30 to 40 mL, not ten. Three 2 mL intervals after 30 give 36 mL.</p></div>",
+        "Would counting each pictured interval as 1 mL give the correct volume?",
+        "No. Use the label difference divided by the number of equal intervals. Here one interval represents 2 mL."
+      ],
+      [
+        "Record justified detail and use digital tools thoughtfully",
+        "Record value, unit, sample, time and relevant method details. Recheck unstable readings, units, baseline and transcription. A fine digital display does not by itself establish accuracy.",
+        "<div class=\"evidence\"><strong>A useful record</strong><p>Water volume: 36 mL; cylinder intervals 2 mL; level surface and eye-level bottom-meniscus reading checked.</p></div>",
+        "Would 36.000 mL be justified by the supplied drawing?",
+        "No. Those extra decimal places imply detail not supported by this scale model. Record the unit and supported precision."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Digital equipment must be perfectly accurate.”",
+        "Check suitability, calibration/zero where appropriate, conditions, units and reading stability."
+      ],
+      [
+        "“More decimal places always improve a record.”",
+        "Unsupported digits can mislead. Match the record to the instrument and task."
+      ]
+    ],
+    "activityTitle": "Explain a measurement from start to record",
+    "activity": "2 minutes: determine the interval value. 3 minutes: explain the 36 mL reading. 3 minutes: write a complete record with unit and method checks. 2 minutes: select better equipment for a much smaller dose.",
+    "adjust": "Support: count spaces between 30 and 40 first. Extend: explain the distinction between adjusting a balance to zero and checking it against a known standard.",
+    "safety": "Use the supplied diagram or teacher-approved plastic equipment with plain water. Keep the surface stable and dry; do not taste samples or use medical needles.",
+    "tricky": [
+      [
+        "A cylinder has five equal intervals between 20 and 30 mL. What is each worth?",
+        "2 mL, because the 10 mL span is divided into five equal parts."
+      ],
+      [
+        "If every height reading starts 5 mm below the soil level, will averaging remove that offset?",
+        "No. A consistent reference-point error can shift all readings. Check and correct the method."
+      ],
+      [
+        "Why label whether temperature is air or soil temperature?",
+        "They are different quantities measured in different conditions. Without the label, comparisons may be misleading."
+      ]
+    ],
+    "faq": [
+      [
+        "Is the bottom-meniscus rule universal for every liquid?",
+        "No. This model concerns clear water with a concave meniscus. Follow the method appropriate to the liquid and equipment."
+      ],
+      [
+        "When are digital tools useful?",
+        "When they help measure, organise or check the intended quantity. Units, setup and faithful recording still matter."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S6I04",
+    "short": "Tables, graphs and models",
+    "title": "Process and represent data faithfully",
+    "intro": "Construct clear tables, calculate a useful summary, plot an appropriate graph and explain the patterns and limits it shows.",
+    "art": "graph",
+    "exampleTitle": "A mean summarises four records without replacing them",
+    "example": "This invented model starts with twelve already-emerged seedlings of the same species, each 20 mm tall. Four plants receive each daily water amount. Pot, soil, drainage, light, temperature and duration are matched; the pots are assigned to groups and their positions are randomised. Heights are measured from soil level to the shoot tip in the same way on day 9. These are teaching records, not a real class experiment or measurements from the illustration. For the 6 mL group, (42 + 44 + 43 + 43) ÷ 4 = 43 mm. The columns compare mean final height at the three tested water settings; the full table keeps individual values and survival records. The graph does not show a time series or an exact optimum.",
+    "evidence": "<table><caption>Invented model records: 12 already-emerged seedlings, each initially 20 mm tall; day 9 results</caption><thead><tr><th scope=\"col\">Water per pot each day (mL)</th><th scope=\"col\">Final heights: four plants (mm)</th><th scope=\"col\">Mean final height (mm)</th><th scope=\"col\">Alive at day 9</th></tr></thead><tbody><tr><td>2</td><td>30, 32, 31, 31</td><td>31</td><td>4 of 4</td></tr><tr><td>6</td><td>42, 44, 43, 43</td><td>43</td><td>4 of 4</td></tr><tr><td>12</td><td>36, 35, 37, 36</td><td>36</td><td>4 of 4</td></tr></tbody></table>",
+    "steps": [
+      [
+        "Organise exact records and calculate a summary",
+        "Use quantity headings and units; preserve individual records. Calculate the mean by adding the four heights and dividing by four, then check that it lies within the group’s range.",
+        "<div class=\"evidence\"><strong>Check all three means</strong><p>2 mL: 124 ÷ 4 = 31 mm. 6 mL: 172 ÷ 4 = 43 mm. 12 mL: 144 ÷ 4 = 36 mm.</p></div>",
+        "Does the 31 mm mean say every plant in that group was exactly 31 mm tall?",
+        "No. The individual heights are 30, 32, 31 and 31 mm. A mean summarises them but does not erase their variation."
+      ],
+      [
+        "Construct a graph for the comparison",
+        "Label the tested settings and the measured summary, including units. The supplied column graph uses equal-width separated categories for the three water settings and a vertical scale starting at zero.",
+        "<div class=\"evidence\"><strong>What the columns mean</strong><p>The categories are 2, 6 and 12 mL per pot per day; heights are 31, 43 and 36 mm. Horizontal spacing between these categories is not a numeric distance scale.</p></div>",
+        "Can the equal gaps between categories be read as equal increases in water volume?",
+        "No. This is a categorical column comparison. The setting changes are 4 mL and 6 mL, so a numeric horizontal axis would need different spacing."
+      ],
+      [
+        "Interpret patterns and model limitations",
+        "The middle tested setting has the largest mean height here; the pattern is not steadily increasing. A mean-height graph does not display all observations or survival information.",
+        "<div class=\"evidence\"><strong>Choose another view when needed</strong><p>Use the full table for individual values and survival. Use a time-based graph only when suitable records over time are actually supplied.</p></div>",
+        "May we infer a day 5 height by reading between these columns?",
+        "No. The horizontal axis is water setting, not time, and no day 5 measurements are supplied."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Every dataset needs a line graph.”",
+        "Choose a representation for the variables and question. Do not imply a time series or measured in-between points."
+      ],
+      [
+        "“A mean is the original observation.”",
+        "It is a calculated summary. Keep its method and underlying records available."
+      ]
+    ],
+    "activityTitle": "Build and audit a data display",
+    "activity": "2 minutes: check all table headings and units. 4 minutes: calculate one mean and draw the three labelled columns. 2 minutes: describe the non-monotonic pattern in plain language. 2 minutes: name information the graph leaves out.",
+    "adjust": "Support: use the supplied sums and a zero-based scale. Extend: explain a useful way to show individual plant variation alongside the means.",
+    "safety": "Use the explicitly invented records. In a spreadsheet, verify formulas, source ranges, labels and whether the chart treats settings as categories or numeric positions.",
+    "tricky": [
+      [
+        "What is the mean increase in the 12 mL group from the shared baseline?",
+        "36 − 20 = 16 mm. The graph shows final height, so subtract the starting height before calling it growth."
+      ],
+      [
+        "Does the tallest column prove the exact best water amount?",
+        "No. Only three settings were compared under one model’s conditions; values between or outside them were not tested."
+      ],
+      [
+        "Why does a mean-height graph not establish which group survived best?",
+        "It displays height, not survival. The table shows all four plants alive in each group."
+      ]
+    ],
+    "faq": [
+      [
+        "Is it valid to use columns for numeric treatment settings?",
+        "Yes, if they are clearly treated as separate categories and the spacing is not presented as a numeric interval scale."
+      ],
+      [
+        "Can a physical model replace a data table?",
+        "It may explain a relationship, but it does not preserve all numerical records. Choose representations for distinct purposes."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S6I05",
+    "short": "Comparing methods and conclusions",
+    "title": "Judge claims using methods and evidence",
+    "intro": "Compare findings, identify possible errors or confounding variables and draw a reasoned conclusion with a focused next question.",
+    "art": "plants",
+    "exampleTitle": "Different results need a method comparison",
+    "example": "This invented model starts with twelve already-emerged seedlings of the same species, each 20 mm tall. Four plants receive each daily water amount. Pot, soil, drainage, light, temperature and duration are matched; the pots are assigned to groups and their positions are randomised. Heights are measured from soil level to the shoot tip in the same way on day 9. These are teaching records, not a real class experiment or measurements from the illustration. A hypothetical Group B repeats the comparison with a different pot size and drainage. If its findings differ, method differences must be examined before claiming that a group made an error or that water had no effect.",
+    "evidence": "<table><caption>Invented model records: 12 already-emerged seedlings, each initially 20 mm tall; day 9 results</caption><thead><tr><th scope=\"col\">Water per pot each day (mL)</th><th scope=\"col\">Final heights: four plants (mm)</th><th scope=\"col\">Mean final height (mm)</th><th scope=\"col\">Alive at day 9</th></tr></thead><tbody><tr><td>2</td><td>30, 32, 31, 31</td><td>31</td><td>4 of 4</td></tr><tr><td>6</td><td>42, 44, 43, 43</td><td>43</td><td>4 of 4</td></tr><tr><td>12</td><td>36, 35, 37, 36</td><td>36</td><td>4 of 4</td></tr></tbody></table><div class=\"evidence\"><strong>Group B information</strong><p>Only the different pot/drainage method is supplied; there is no numerical Group B result table to reconstruct.</p></div>",
+    "steps": [
+      [
+        "Compare the full findings",
+        "Use individual records, summaries and baselines. The four final heights at 6 mL are all greater than those at 2 or 12 mL. Survival remains the same in each group during the stated period.",
+        "<div class=\"evidence\"><strong>Separate the claims</strong><p>The model supports a height-growth comparison over nine days. It does not demonstrate longer life, greater health on every measure or a universal optimum.</p></div>",
+        "If one group’s final heights vary by 2 mm, must some readings be dishonest?",
+        "No. Living things and measurements can vary. Check the method and evidence rather than assuming dishonesty."
+      ],
+      [
+        "Distinguish errors from deliberate method differences",
+        "A different pot size can change water retention or root space. An accidentally skipped dose is a procedural deviation. A ruler misaligned in every reading can introduce a consistent offset. Explain the particular possible effect.",
+        "<table><thead><tr><th scope=\"col\">Issue</th><th scope=\"col\">Why it matters</th></tr></thead><tbody><tr><td>Different drainage between compared treatments</td><td>Another relevant condition changes</td></tr><tr><td>Missed daily dose</td><td>Actual treatment differs from the plan</td></tr><tr><td>Wrong height reference point</td><td>Recorded heights may be systematically shifted</td></tr></tbody></table>",
+        "Would adding more plants remove a wrong reference point used in every reading?",
+        "No. More data do not automatically remove systematic error. Repair the reference method and assess affected readings."
+      ],
+      [
+        "Select evidence and design a useful follow-up",
+        "Answer the original question using specific relevant records, then state a limitation. A follow-up should address an uncertainty rather than simply demand more of the same.",
+        "<div class=\"evidence\"><strong>A reasoned conclusion</strong><p>Under the model conditions, the 6 mL group had the largest mean height increase, 23 mm, while all groups had 4 of 4 alive. Compare nearby water settings with matched methods to investigate the pattern more closely.</p></div>",
+        "Does this evidence establish that water was the only influence on real plant growth everywhere?",
+        "No. The claim must stay within the specified comparison and model assumptions; actual investigations require those controls to be checked."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Delete an unusual reading automatically.”",
+        "Keep honest records, investigate a possible cause and explain any supported decision about analysis."
+      ],
+      [
+        "“A conclusion is only “my prediction was right”.”",
+        "State the finding, supporting evidence, reasoning and limits."
+      ]
+    ],
+    "activityTitle": "Write an evidence-and-method review",
+    "activity": "2 minutes: compare ranges and means. 3 minutes: identify one possible confound and one measurement error. 3 minutes: write a bounded conclusion. 2 minutes: propose a specific follow-up and the condition it would control.",
+    "adjust": "Support: use claim → evidence → reasoning → limitation. Extend: explain when repeating a reading and using more independent plants address different uncertainties.",
+    "safety": "Use supplied records. Do not invent missing Group B results or change inconvenient numbers to match an expectation.",
+    "tricky": [
+      [
+        "Are a different pot size and an incorrectly copied number the same kind of issue?",
+        "No. Pot size is a method or condition difference; a copied number is a recording error. Each needs an appropriate response."
+      ],
+      [
+        "Would “investigate more” identify a focused next question?",
+        "No. Specify a variable or uncertainty, an outcome and a suitable comparison."
+      ],
+      [
+        "Can a method be useful even if it has a limitation?",
+        "Yes. Explain what it can support and where the limitation restricts the conclusion, then improve the relevant part if needed."
+      ]
+    ],
+    "faq": [
+      [
+        "Why compare methods as well as results?",
+        "Conditions and procedures affect what a result means and whether two groups tested comparable questions."
+      ],
+      [
+        "Does a mean remove every source of uncertainty?",
+        "No. It summarises values but does not repair unfair design, systematic error, missing records or unsupported assumptions."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S6I06",
+    "short": "Audience and scientific communication",
+    "title": "Choose how to communicate accurate findings",
+    "intro": "Select language, structure and representations for a specific audience and purpose while keeping evidence, method and limitations intact.",
+    "art": "plants",
+    "exampleTitle": "A family summary and a repeatable report need different detail",
+    "example": "For a family audience, explain that water amount can affect a plant’s growth and that more was not always better in the supplied model. For classmates repeating the study, include doses, controls, reference points and each record. Both versions must state that the dataset is invented and avoid promising a universal watering rule.",
+    "evidence": "<table><thead><tr><th scope=\"col\">Purpose and audience</th><th scope=\"col\">Useful choice</th><th scope=\"col\">Scientific meaning to preserve</th></tr></thead><tbody><tr><td>Families: understand a finding</td><td>Plain-language summary and labelled comparison</td><td>Greatest mean increase at 6 mL under these model conditions</td></tr><tr><td>Classmates: repeat a method</td><td>Numbered steps, quantities, controls and record table</td><td>Same baseline, duration and measurement rule</td></tr><tr><td>School group: consider a response</td><td>Evidence against criteria, limits and monitoring</td><td>No observed survival difference; no universal best dose</td></tr></tbody></table>",
+    "steps": [
+      [
+        "Define audience and purpose before format",
+        "State who needs the information and what they should understand or do. Then choose a report, diagram, table or presentation that serves that purpose.",
+        "<div class=\"evidence\"><strong>A format is not a purpose</strong><p>“Make a poster” does not identify the scientific message. “Explain why this model does not support more water always giving more growth” does.</p></div>",
+        "Should a repeatable-method report omit water volumes simply to make it shorter?",
+        "No. Those quantities are essential for its purpose. Remove unnecessary wording while keeping required information."
+      ],
+      [
+        "Connect clear language to faithful evidence",
+        "Define useful terms such as mean and height increase. Preserve units, ranges, data status and limits when simplifying. Avoid persuasive wording that overstates what the records establish.",
+        "<div class=\"evidence\"><strong>Two accurate sentences</strong><p>In this invented model, mean height increased by 11, 23 and 16 mm at 2, 6 and 12 mL per day. All four plants in each group were alive after nine days; the model does not establish a universal plant-care dose.</p></div>",
+        "May a simplified version claim that the 6 mL plants were the only survivors?",
+        "No. Every group had 4 of 4 alive. Changing the audience does not permit changing the finding."
+      ],
+      [
+        "Justify and check visual or digital choices",
+        "Use a table for exact records, columns for the mean comparison and a labelled setup model for method. Check numbers, formulas, units, labels, permissions and readability after editing or importing into a digital tool.",
+        "<div class=\"evidence\"><strong>A useful review question</strong><p>Does this representation help this audience answer the intended question without suggesting results we did not collect?</p></div>",
+        "Would an attractive graph excuse leaving its vertical quantity unnamed?",
+        "No. Readers need to know that it shows mean final height in millimetres, rather than growth, health or survival."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Technical language always sounds more scientific.”",
+        "Use terms that add meaning and explain them for the audience."
+      ],
+      [
+        "“A digital chart must be correct.”",
+        "Check its data range, calculations, axis settings and labels against the original records."
+      ]
+    ],
+    "activityTitle": "Create two versions and defend a choice",
+    "activity": "2 minutes: choose one supported finding. 3 minutes: write a plain-language family summary. 3 minutes: write a classmate version with evidence and method details. 2 minutes: justify a table or graph choice and check both versions for identical facts.",
+    "adjust": "Support: use the two model sentences. Extend: identify a misleading headline and replace it with an accurate, engaging claim.",
+    "safety": "Do not include real learner names, photographs, voices or work without appropriate permission. A paper communication task is equally valid.",
+    "tricky": [
+      [
+        "Can a shorter version leave out every limitation?",
+        "It still needs enough qualification to avoid a misleading claim. Keep the tested context and relevant uncertainty."
+      ],
+      [
+        "Why identify the data as invented teaching records?",
+        "Readers should not mistake an illustration or worked model for measured class evidence or a real published study."
+      ],
+      [
+        "How can feedback improve a report without changing its result?",
+        "It can clarify vocabulary, structure, labels and links between evidence and conclusion while preserving the underlying data and method."
+      ]
+    ],
+    "faq": [
+      [
+        "Must every audience receive the same amount of detail?",
+        "No. Detail and organisation depend on purpose, but scientific meaning, evidence and honesty stay consistent."
+      ],
+      [
+        "What should I check after a digital revision?",
+        "Verify copied values, units, formulas, headings, diagrams, data status, limitations and the audience’s ability to understand the message."
+      ]
+    ]
+  }
+]
