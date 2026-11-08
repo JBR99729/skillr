@@ -1,0 +1,77 @@
+const {chromium} = require('@playwright/test');
+const fs = require('node:fs');
+const assert = require('node:assert/strict');
+const path = require('node:path');
+const inventory = JSON.parse(fs.readFileSync('docs/qa/year4-science-topic-pages-20261108/inventory.json'));
+const origin = process.env.QA_ORIGIN || 'http://127.0.0.1:8765';
+const out = 'artifacts/year4-science-topic-pages-browser';
+fs.mkdirSync(out, {recursive:true});
+(async () => {
+  const browser = await chromium.launch({executablePath:process.env.CHROME_BIN || '/usr/bin/google-chrome', headless:true});
+  const results = [], problems = [];
+  try {
+    for (const width of [1440,768,390]) {
+      console.log(`Checking ${inventory.length} pages at ${width}px`);
+      const context = await browser.newContext({viewport:{width,height:1000}, javaScriptEnabled:false, colorScheme:'light'});
+      await context.route('**/*', route => new URL(route.request().url()).origin === origin ? route.continue() : route.abort());
+      const page = await context.newPage();
+      for (const item of inventory) {
+        const failures = [];
+        const listener = response => { if (response.url().startsWith(origin) && response.status() >= 400) failures.push(response.url()); };
+        page.on('response',listener);
+        try {
+        const response = await page.goto(origin+'/'+item.path.replace(/index\.html$/,''), {waitUntil:'networkidle'});
+        assert.equal(response.status(),200,item.code);
+        const check = await page.evaluate(() => ({
+          overflow:document.documentElement.scrollWidth > innerWidth + 1,
+          broken:[...document.images].filter(e => e.currentSrc.startsWith(location.origin) && (!e.complete || !e.naturalWidth)).map(e=>e.src),
+          main:document.querySelectorAll('main').length,
+          heading:document.querySelectorAll('h1').length,
+          app:document.querySelectorAll('#skillr-topic-practice-now').length,
+          button: (()=>{const r=document.querySelector('#skillr-topic-practice-now').getBoundingClientRect();return {x:r.x,y:r.y,width:r.width,height:r.height,right:r.right,bottom:r.bottom}})()
+        }));
+        assert.equal(check.main,1,item.code); assert.equal(check.heading,1,item.code);assert.equal(check.app,1,item.code);
+        assert.equal(check.overflow,false,`${item.code} at ${width}px: page overflows`);
+        assert.deepEqual(check.broken,[],`${item.code}: broken images`); assert.deepEqual(failures,[],`${item.code}: failed local requests`);
+        assert(check.button.height>=44 && check.button.x>=0 && check.button.right<=width && check.button.bottom<=1000,`${item.code}: app button touch target/placement`);
+        const summaries=page.locator('.steps article details > summary');
+        assert.equal(await summaries.count(),3,item.code);
+        for(let i=0;i<3;i++){
+          // A learner scrolls an answer above the fixed app entrance before tapping.
+          await summaries.nth(i).evaluate(e=>e.scrollIntoView({block:'center',behavior:'instant'}));
+          assert((await summaries.nth(i).boundingBox()).height >= 44, item.code+': answer touch target');
+          await summaries.nth(i).click({timeout:5000});
+          assert(await summaries.nth(i).evaluate(e=>e.parentElement.open),item.code);
+          // A learner scrolls an answer above the fixed app entrance before tapping.
+          await summaries.nth(i).evaluate(e=>e.scrollIntoView({block:'center',behavior:'instant'}));
+          assert((await summaries.nth(i).boundingBox()).height >= 44, item.code+': answer touch target');
+          await summaries.nth(i).click({timeout:5000});
+          assert.equal(await summaries.nth(i).evaluate(e=>e.parentElement.open),false,item.code);
+        }
+        if (true) {
+          await page.locator('h1').scrollIntoViewIfNeeded();
+          await page.screenshot({path:path.join(out,`${item.code}-${width}-top.png`)});
+          await page.locator('.mini-lesson').scrollIntoViewIfNeeded();
+          await page.screenshot({path:path.join(out,`${item.code}-${width}-lesson.png`)});
+        }
+        results.push({code:item.code,width,...check});
+        } catch (error) {
+          problems.push({code:item.code,width,error:error.message});
+          console.error(item.code, width, error.message);
+          await page.screenshot({path:path.join(out,`${item.code}-${width}-failure.png`)});
+          const overflow = await page.evaluate(()=>[...document.querySelectorAll('main *')].filter(e=>{const r=e.getBoundingClientRect();return r.width>0&&(r.right>innerWidth+1||r.left < -1)}).slice(0,25).map(e=>({tag:e.tagName,class:e.className,text:e.textContent.slice(0,100),right:e.getBoundingClientRect().right})));
+          fs.writeFileSync(path.join(out,`${item.code}-${width}-failure.json`),JSON.stringify(overflow,null,2));
+        } finally {page.off('response',listener);}
+      }
+      await context.close();
+    }
+    const context=await browser.newContext({viewport:{width:1440,height:1000}});
+    await context.route('**/*',route=>new URL(route.request().url()).origin===origin?route.continue():route.abort());
+    const page=await context.newPage();const errors=[];page.on('pageerror',error=>errors.push(error.message));
+    for(const item of inventory){await page.goto(origin+'/'+item.path.replace(/index\.html$/,''),{waitUntil:'networkidle'});assert.equal(await page.locator('#skillr-topic-practice-now').count(),1,item.code);}
+    assert.deepEqual(errors,[],'page JavaScript errors');await context.close();
+    fs.writeFileSync(path.join(out,'results.json'),JSON.stringify({pages:inventory.length,viewports:[1440,768,390],javascriptDisabled:true,javascriptEnabledSmoke:inventory.length,results,problems},null,2));
+    assert.deepEqual(problems,[], 'Rendered science page failures');
+    console.log(`PASS ${inventory.length} Year 4 Science pages at desktop, tablet and mobile; native answer toggles, images, app targets and JavaScript smoke.`);
+  } finally {await browser.close();}
+})().catch(error=>{console.error(error);process.exitCode=1});

@@ -1,0 +1,24 @@
+{
+  "generatedOn": "2026-11-08",
+  "workflow": "Built-in image generation; deployment WebP encoding at original 1536\u00d71024 dimensions",
+  "assets": [
+    {
+      "path": "assets/images/year4-science/garden-feeding-habitat.webp",
+      "prompt": "Use case: scientific-educational. Asset type: contextual illustration for Australian Year 4 science topic pages. Create a polished realistic textbook watercolour and coloured-pencil illustration on a clean white background, landscape 3:2. A small Australian garden habitat: green grass and a leafy native shrub, one green caterpillar resting on a leaf, one small superb fairy-wren perched on a low branch, fallen brown leaves with a few small fungi near damp soil. Show natural plant, animal and decomposing-leaf details clearly, with gentle daylight, restrained natural colours and blue accents, crisp enough for a school science book. This is a habitat scene for discussion, not a diagram of measured quantities. No labels, no text, no numbers, no arrows, no logos, no border, no fantasy anatomy, no floating organisms, no food-chain arrows. Calm, accurate, uncluttered, age 9\u201310.",
+      "role": "Habitat context; exact feeding-role evidence is supplied in the lesson records."
+    },
+    {
+      "path": "assets/images/year4-science/materials-forces-workbench.webp",
+      "prompt": "Use case: scientific-educational. Asset type: contextual illustration for Australian Year 4 science investigations. Create a polished realistic textbook watercolour and coloured-pencil illustration on a clean white background, landscape 3:2. A tidy school science workbench with a small rectangular wooden sliding block with cotton pulling cord attached, a smooth wooden test board beside a strip of textured felt, a large classroom horseshoe magnet resting safely aside, rounded swatches of cotton fabric, rubber and nylon, a short aluminium strip, a clear unmarked plastic measuring jug and a blank notebook. An adult hand gently holds the pulling cord; no children or faces. Gentle daylight, blue and natural wood tones, crisp scientific-book detail consistent with realistic watercolour textbook illustration. Objects are contextual props; do not show exact measurements or pretend a force reading. No labels, no legible text, no numbers, no arrows, no measurement markings, no logos, no glass shards, no tiny loose magnets, no dangerous tools. Uncluttered, age 9\u201310.",
+      "role": "Materials and investigation context; no measurements are read from the artwork."
+    }
+  ],
+  "researchLog": {
+    "name": "svgSkillrHub-IXL-Research-Log.md",
+    "version": "27",
+    "modified": "2026-09-08T22:43:57.883241Z",
+    "lines": 401,
+    "hasMore": true
+  },
+  "base": "91a8cbea83cf34708581d8689c91b45ccad0ed52"
+}
