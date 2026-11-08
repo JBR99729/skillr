@@ -10,3 +10,13 @@
 /* Keep evidence tables readable on tablets rather than squeezing three lessons. */
 @media(max-width:1000px){#skillr-topic-variants .steps{grid-template-columns:1fr;gap:4px}}
 #skillr-topic-variants .history-trail{display:grid;gap:12px;margin:14px 0;padding-left:24px}
+/* Keep scientific labels readable on phones; each figure scrolls independently. */
+@media(max-width:600px){
+ #skillr-topic-variants .concept-figure,
+ #skillr-topic-variants .retained-teaching .science-premium-diagram:has(img[src$="-corrected.svg"]){max-width:100%;min-width:0;overflow-x:auto;text-align:left}
+ #skillr-topic-variants .concept-figure svg{width:600px;min-width:600px;max-width:none}
+ #skillr-topic-variants .retained-teaching .science-premium-diagram img[src$="-corrected.svg"]{width:640px;min-width:640px;max-width:none}
+ #skillr-topic-variants .concept-figure::after,
+ #skillr-topic-variants .retained-teaching .science-premium-diagram:has(img[src$="-corrected.svg"])::after{content:"Swipe sideways to see the full diagram.";display:block;position:sticky;left:0;font-size:14px;line-height:1.5;color:#425c78;padding:8px 0}
+}
+#skillr-topic-variants figure[tabindex="0"]:focus-visible{outline:3px solid #da9c20;outline-offset:3px}

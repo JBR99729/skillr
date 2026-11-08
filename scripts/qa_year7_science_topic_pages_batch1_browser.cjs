@@ -31,6 +31,14 @@ fs.mkdirSync(out, {recursive:true});
           await img.evaluate(e=>e.complete && e.naturalWidth ? Promise.resolve() : new Promise((resolve,reject)=>{e.addEventListener('load',resolve,{once:true});e.addEventListener('error',()=>reject(new Error('Retained image failed: '+e.src)),{once:true})}));
         }
         assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1),false,item.code+': expanded retained teaching overflows');
+        if(width<600){
+          for(const figure of await page.locator('.concept-figure, .retained-teaching .science-premium-diagram:has(img[src$="-corrected.svg"])').all()){
+            const result=await figure.evaluate(e=>{const art=e.querySelector('svg,img');return {width:art.getBoundingClientRect().width,focusable:e.tabIndex===0,scrollable:e.scrollWidth>e.clientWidth,initial:e.scrollLeft}});
+            assert(result.width>=600 && result.focusable && result.scrollable,item.code+': phone diagram must remain readable and scrollable');
+            await figure.evaluate(e=>e.scrollLeft=e.scrollWidth);assert(await figure.evaluate(e=>e.scrollLeft>0),item.code+': diagram scroll');await figure.evaluate(e=>e.scrollLeft=0);
+          }
+        }
+
         for(const img of await retained.locator('img[src$="-corrected.svg"]').all()){
           const name=await img.getAttribute('src');
           await img.scrollIntoViewIfNeeded();
