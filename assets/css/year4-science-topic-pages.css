@@ -7,3 +7,5 @@
 #skillr-topic-variants .evidence{overflow-wrap:anywhere}
 #skillr-topic-variants .retained-teaching .y4-subject-flow{display:flex;gap:8px;flex-wrap:wrap}
 #skillr-topic-variants .retained-teaching .y4-subject-compare{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(220px,100%),1fr));gap:12px}
+/* Keep evidence tables readable on tablets rather than squeezing three lessons. */
+@media(max-width:1000px){#skillr-topic-variants .steps{grid-template-columns:1fr;gap:4px}}
