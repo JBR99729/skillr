@@ -1,0 +1,854 @@
+[
+  {
+    "code": "AC9S5U01",
+    "short": "Features, behaviours and habitats",
+    "title": "Explain how living things survive in their habitats",
+    "intro": "Link a particular body or plant feature, or a behaviour, to how it helps survival under specific habitat conditions.",
+    "art": "landscape",
+    "exampleTitle": "A feature needs a function and a habitat",
+    "example": "Mulga has narrow, leaf-like structures called phyllodes. Their features can help conserve water in dry conditions. Compare this structural feature with a bogong moth moving to cool alpine shelters for summer: movement is a behaviour. Each explanation must connect the feature or action to the conditions it helps the organism manage.",
+    "evidence": "<table><thead><tr><th scope=\"col\">Example</th><th scope=\"col\">Feature or behaviour</th><th scope=\"col\">Survival link</th></tr></thead><tbody><tr><td>Mulga in a dry habitat</td><td>Narrow, leaf-like phyllodes</td><td>Features that limit water loss help conserve scarce water</td></tr><tr><td>Little penguin in cold water</td><td>Insulating feather layer</td><td>Slows heat loss to cold surroundings</td></tr><tr><td>Bogong moth in summer</td><td>Moves to cool alpine shelters</td><td>Avoids hotter conditions at lower elevations</td></tr></tbody></table>",
+    "steps": [
+      [
+        "Explain a structural feature",
+        "A structural feature is part of an organism’s body. Explain what it does before saying it helps survival. Useful explanations follow feature → function → benefit in the named habitat.",
+        "<div class=\"evidence\"><strong>A mechanism matters</strong><p>An insulating feather layer slows heat transfer from a warm penguin to colder surroundings. It does not produce heat.</p></div>",
+        "Would “a penguin has feathers” fully explain survival?",
+        "No. Explain that the insulating layer slows heat loss in cold conditions. Naming a feature alone leaves out its function."
+      ],
+      [
+        "Explain a behaviour in context",
+        "A behaviour is an action. Seasonal movement can take animals to places with more suitable conditions or resources. Not every species migrates or becomes dormant.",
+        "<div class=\"evidence\"><strong>Seasonal contrast</strong><p>Bogong moths spend summer in cool alpine shelters. Mountain pygmy-possums hibernate through winter. The behaviours respond to different seasonal challenges.</p></div>",
+        "Are summer sheltering and winter hibernation the same action?",
+        "No. Both can support survival, but the species, season and behaviour differ. Describe the particular action and condition."
+      ],
+      [
+        "Compare benefits and limits",
+        "A useful feature in one habitat is not automatically best everywhere. Compare the challenge, mechanism and trade-off. A model can help test an idea, but it cannot establish an animal’s survival on its own.",
+        "<table><thead><tr><th scope=\"col\">Model</th><th scope=\"col\">What it may show</th><th scope=\"col\">What it cannot show alone</th></tr></thead><tbody><tr><td>Wet folded and spread cloths</td><td>Effect of exposed wet area under matched conditions</td><td>Every feature of water loss from real plants</td></tr><tr><td>Covered and uncovered warm containers</td><td>A layer can slow cooling</td><td>How long a living penguin will survive</td></tr></tbody></table>",
+        "Does a wet-cloth model prove how much water every mulga loses?",
+        "No. Cloth lacks living plant structures and regulation. It models one influence on water loss under the tested conditions."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“The plant chose to grow this feature today.”",
+        "A useful feature is not a deliberate instant invention. Describe the feature and its function without giving the plant a conscious plan."
+      ],
+      [
+        "“Every animal in a cold place hibernates.”",
+        "Species use different structures and behaviours. Check the particular animal and seasonal conditions."
+      ]
+    ],
+    "activityTitle": "Build three survival explanations",
+    "activity": "2 minutes: choose mulga, little penguin or bogong moth from the supplied table. 4 minutes: write feature/action → function → habitat benefit. 2 minutes: compare a second example. 2 minutes: name one limit of a cloth or container model.",
+    "adjust": "Support: use the three-part sentence frame. Extend: explain why a helpful feature does not guarantee survival after a major habitat change.",
+    "safety": "Use pictures and supplied information. Do not handle wildlife, disturb shelters or remove plant material.",
+    "tricky": [
+      [
+        "Is thick insulation always the best feature in every habitat?",
+        "No. It slows heat transfer and can be useful in cold conditions, but heat loss can be helpful in hot conditions. The habitat and other ways the animal manages temperature matter."
+      ],
+      [
+        "A moth moves to a cooler shelter. Is the movement a structural feature?",
+        "No. Movement is a behaviour. A wing is a structural feature that can support that movement."
+      ],
+      [
+        "Does a useful survival feature make food and water unnecessary?",
+        "No. Features and behaviours help organisms meet needs; they do not remove those needs or guarantee survival."
+      ]
+    ],
+    "faq": [
+      [
+        "Can plants have adaptations?",
+        "Yes. Plant structures such as water-conserving surfaces can support survival in particular conditions."
+      ],
+      [
+        "Must I explain evolution in detail here?",
+        "No. Focus on the particular feature or behaviour, its function and the habitat benefit. Do not suggest individuals invent inherited traits because they need them."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S5U02",
+    "short": "Weathering, erosion and deposition",
+    "title": "Trace how Earth’s surface changes",
+    "intro": "Distinguish breakdown, removal, movement and settling, and explain how these processes can produce slow or rapid surface change.",
+    "art": "landscape",
+    "exampleTitle": "Follow a fragment from rock to river bank",
+    "example": "A root widens a crack and rock fragments loosen: weathering has broken material down in place. Rainwater removes loose pieces: erosion. Flow carries them downstream: transportation. Some sediment settles where the flow can no longer carry it: deposition. These processes can overlap; the sequence is a useful explanation, not a rule that every fragment must follow.",
+    "evidence": "<table><thead><tr><th scope=\"col\">Given change</th><th scope=\"col\">Process</th><th scope=\"col\">What happened</th></tr></thead><tbody><tr><td>Cracked rock breaks into pieces</td><td>Weathering</td><td>Breakdown in place</td></tr><tr><td>Water lifts loose sediment from a bank</td><td>Erosion</td><td>Removal from its original place</td></tr><tr><td>Sediment travels downstream</td><td>Transportation</td><td>Movement</td></tr><tr><td>Sand settles as the current slows</td><td>Deposition</td><td>Material is left in a new place</td></tr></tbody></table>",
+    "steps": [
+      [
+        "Identify weathering in place",
+        "Weathering breaks down or changes rock at Earth’s surface. Growing roots, repeated freezing of water in cracks, and reactions between some rocks and acidic water can contribute. Conditions and rock type matter.",
+        "<div class=\"evidence\"><strong>Freeze–thaw reasoning</strong><p>Water enters a crack. If it freezes, expansion can widen the crack. Repeated suitable freezing and thawing can help loosen fragments.</p></div>",
+        "If a rock cracks but the pieces stay there, must erosion have occurred?",
+        "No. Breakdown in place is weathering. Erosion involves removal; it may happen later or alongside the breakdown."
+      ],
+      [
+        "Separate removal from transport",
+        "Erosion removes material. Transportation carries it elsewhere by moving water, wind or ice. Name the material and the moving agent instead of calling all changes weathering.",
+        "<div class=\"evidence\"><strong>One event, two descriptions</strong><p>A flow lifts sand from a bank and carries it downstream. Lifting it away is erosion; the downstream journey is transportation.</p></div>",
+        "Is sediment a process like erosion?",
+        "No. Sediment is material such as sand, mud or rock fragments. Erosion, transportation and deposition describe processes affecting it."
+      ],
+      [
+        "Explain settling and time scale",
+        "Deposition occurs when transported material is left behind. Small changes can accumulate over years; a powerful flow can move and deposit material quickly. A process name alone does not determine its speed.",
+        "<table><thead><tr><th scope=\"col\">Evidence supplied</th><th scope=\"col\">Supported description</th></tr></thead><tbody><tr><td>A bank loses a little soil after many showers over years</td><td>Slow cumulative surface change</td></tr><tr><td>A flood shifts a sand bar during one afternoon</td><td>Rapid change during that event</td></tr></tbody></table>",
+        "Must all erosion be rapid and all weathering be slow?",
+        "No. Rates depend on conditions and materials. Use evidence about duration and amount of change; do not assign one speed to each process."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Weathering and erosion mean exactly the same thing.”",
+        "Distinguish breakdown in place from removal, while recognising they can occur together."
+      ],
+      [
+        "“All landscape change is destruction.”",
+        "Removal in one place can supply deposition elsewhere. Describe the change and its effects rather than assuming every change is harmful."
+      ]
+    ],
+    "activityTitle": "Annotate a landscape story",
+    "activity": "2 minutes: read the four supplied observations. 4 minutes: draw four simple panels and label each process. 2 minutes: add arrows for sediment movement. 2 minutes: state which extra time evidence would distinguish slow change from a rapid event.",
+    "adjust": "Support: match process cards to the table first. Extend: describe a location where erosion and deposition occur at different times.",
+    "safety": "Use a paper model. Do not visit floodwater, unstable banks or rock faces, or perform freezing or acid experiments without a teacher-approved plan.",
+    "tricky": [
+      [
+        "A river leaves a pile of sand behind. Is the pile evidence only of erosion?",
+        "No. The pile is evidence of deposition. The sand may have been eroded and transported earlier, but the supplied observation is settling."
+      ],
+      [
+        "Can the same stretch of river lose sediment and gain sediment?",
+        "Yes. Flow conditions and positions change. Some material can be removed while other material settles, or the processes can occur at different times."
+      ],
+      [
+        "Does a two-minute tray model establish the natural rate of river erosion?",
+        "No. It can model a process, but the tray materials, flow, size and time scale differ from a river."
+      ]
+    ],
+    "faq": [
+      [
+        "Does weathering always break rock into visible pieces?",
+        "No. Chemical weathering can change rock substances, and some changes are too small to see immediately."
+      ],
+      [
+        "Why record before and after?",
+        "The comparison shows what changed and where material went. Add time and condition information to support explanations of rate."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S5U03",
+    "short": "Light paths, shadows and refraction",
+    "title": "Follow light from its source",
+    "intro": "Identify emitters, trace straight paths, explain shadows and distinguish reflected from refracted light.",
+    "art": "light",
+    "exampleTitle": "A torch, a card and a screen",
+    "example": "A switched-on torch emits light. The opaque card blocks some direct light, leaving a darker region on the screen. We can see the lit equipment because light reflects from its surfaces into our eyes. The illustration shows a possible setup; use the stated conditions and labelled models for reasoning.",
+    "evidence": "<table><thead><tr><th scope=\"col\">Situation</th><th scope=\"col\">Light behaviour</th></tr></thead><tbody><tr><td>Light reaches a card through air</td><td>Straight paths through uniform air</td></tr><tr><td>Opaque card is between torch and screen</td><td>Some direct paths are blocked; a shadow forms</td></tr><tr><td>Light meets a mirror</td><td>It can reflect back from the surface</td></tr><tr><td>Light enters water at an angle</td><td>It can change direction by refraction</td></tr></tbody></table>",
+    "steps": [
+      [
+        "Distinguish sources from reflectors",
+        "A light source produces and emits light. A lit torch and the Sun are sources. A book and the Moon can be visible because they reflect light from a source.",
+        "<div class=\"evidence\"><strong>Trace the direction</strong><p>Torch → book → eye. Each arrow follows the light. The eye receives light; it does not send a seeing ray out.</p></div>",
+        "Is the bright Moon producing the visible light we usually see from it?",
+        "No. It reflects sunlight. Bright appearance alone does not make an object an emitter."
+      ],
+      [
+        "Explain a shadow using blocked paths",
+        "In a simple one-source setup, an opaque object blocks direct light. The shadow is on the side away from the source. Its outline and size depend on the positions, orientation and shape, not the object’s surface details.",
+        "<div class=\"evidence\"><strong>A controlled comparison</strong><p>Keep the same card and card-to-screen distance. Move only the torch and compare shadow heights. State which distance changes before predicting a size change.</p></div>",
+        "Would red and blue opaque cards of the same shape necessarily make differently coloured shadows?",
+        "No. If both block the light similarly, their colours do not determine shadow colour. A shadow is reduced illumination, not a coloured copy of the object."
+      ],
+      [
+        "Contrast reflection and refraction",
+        "Reflection redirects light back from a surface. Refraction occurs as light crosses between materials where its speed changes; an angled path can bend. It continues straight within a uniform material.",
+        "<div class=\"evidence\"><strong>Boundary check</strong><p>A ray crossing straight along the normal into water changes speed but not direction. “Every entry into water bends” is too broad.</p></div>",
+        "Does light reflected by a mirror have to pass through the mirror first?",
+        "No. The reflected path turns back from the reflecting surface. A refracted transmitted path crosses into another material."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Our eyes send light out to see.”",
+        "Trace light from a source, to an object if needed, and then into the eye."
+      ],
+      [
+        "“A shadow is the object’s reflection.”",
+        "A shadow is a region receiving less light because paths are blocked. Reflection sends light away from a surface."
+      ]
+    ],
+    "activityTitle": "Explain a safe shadow comparison",
+    "activity": "2 minutes: sketch torch → card → screen. 4 minutes: use an adult-approved battery torch to compare two torch positions while the card and screen stay fixed, or predict with a paper model. 2 minutes: label blocked and unblocked paths. 2 minutes: explain one limit of your model.",
+    "adjust": "Support: use the supplied path words. Extend: explain why changing both the torch position and card height would make the comparison difficult to interpret.",
+    "safety": "Never point light at eyes. Do not look at the Sun or use lasers, candles or mains-powered equipment. Keep stands stable and walkways clear.",
+    "tricky": [
+      [
+        "Can an opaque object still reflect light?",
+        "Yes. Opaque means it does not transmit the light through it. Many opaque surfaces reflect some incident light, allowing us to see them."
+      ],
+      [
+        "Will a shadow always be exactly the same size as its object?",
+        "No. Source size and the relative positions and orientation of source, object and screen affect the shadow."
+      ],
+      [
+        "A ray enters water straight along the normal. Must its direction change?",
+        "No. Its speed changes but its direction need not. At an angled boundary a transmitted ray can bend."
+      ]
+    ],
+    "faq": [
+      [
+        "Why does a straw in water appear bent?",
+        "Light from the submerged part changes direction as it crosses material boundaries on its way to the eye, changing its apparent position."
+      ],
+      [
+        "Do rays show every detail of light?",
+        "No. Straight arrows are a useful model for paths and direction. They do not show every property of light."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S5U04",
+    "short": "Particles and states of matter",
+    "title": "Explain states of matter with particles",
+    "intro": "Use particle arrangement and motion to explain the observable shape, volume, flow and compressibility of solids, liquids and gases.",
+    "art": "particles",
+    "exampleTitle": "Same-sized model particles, different arrangements",
+    "example": "The dots represent particles of one substance at different states. In a solid they stay close and vibrate about positions; in a liquid they remain close but move past one another; in a gas they are widely spaced and move throughout the available space. The dots and arrows are a simplified model, not a photograph or a scale drawing.",
+    "evidence": "<table><thead><tr><th scope=\"col\">State</th><th scope=\"col\">Observable property</th><th scope=\"col\">Particle explanation</th></tr></thead><tbody><tr><td>Solid</td><td>Keeps its own shape under ordinary conditions</td><td>Close particles vibrate about positions</td></tr><tr><td>Liquid</td><td>Changes shape; volume is approximately fixed</td><td>Close particles can rearrange</td></tr><tr><td>Gas</td><td>Fills available space and compresses readily</td><td>Large gaps can become smaller</td></tr></tbody></table>",
+    "steps": [
+      [
+        "Use several observable properties",
+        "Compare shape, volume and behaviour under a gentle safe test. Being hard is not the definition of solid, and being pourable is not enough to establish liquid.",
+        "<div class=\"evidence\"><strong>Rice is a useful counterexample</strong><p>A pile of rice changes outline when poured. Each grain remains a solid with its own shape; a moving collection is not the same as a liquid.</p></div>",
+        "Does a soft rubber eraser have to be liquid?",
+        "No. A solid can be soft or flexible. Use several properties rather than hardness alone."
+      ],
+      [
+        "Connect arrangement and motion to properties",
+        "Solid particles are not motionless. They vibrate about positions. Liquid particles remain close while moving past one another, so the liquid flows without needing the large gaps of a gas.",
+        "<div class=\"evidence\"><strong>Keep the model consistent</strong><p>Use the same dot size for the same substance. Show movement with a key: vibration about a position, close rearrangement, or widely spaced movement.</p></div>",
+        "Should liquid particles be drawn far apart to explain pouring?",
+        "No. They remain close. Their ability to move past one another explains the changing shape."
+      ],
+      [
+        "Explain compression and critique the model",
+        "A gas can occupy a smaller volume mainly because gaps between its particles decrease. A liquid has much less empty space between particles and is difficult to compress in an ordinary classroom comparison.",
+        "<div class=\"evidence\"><strong>What changes?</strong><p>For a closed gas sample under the stated comparison, keep the same particle count and dot size. Draw smaller gaps in a smaller container region.</p></div>",
+        "Does compressing a gas mean each particle becomes smaller?",
+        "No. In this model the particles retain their size; the spaces between them decrease."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Solid particles never move.”",
+        "They vibrate about positions; fixed overall shape does not mean no particle motion."
+      ],
+      [
+        "“Heating makes individual gas particles swell.”",
+        "The simple model changes motion and spacing, not particle size. The boundary conditions affect the sample’s response."
+      ]
+    ],
+    "activityTitle": "Draw, explain and repair a particle model",
+    "activity": "2 minutes: compare the three supplied models. 4 minutes: draw solid and liquid arrangements using equal-size dots. 2 minutes: add a movement key. 2 minutes: sketch a gas before and after compression, keeping particle number and size the same.",
+    "adjust": "Support: start with supplied dot positions. Extend: explain why a sponge can contain a solid framework and gas-filled spaces.",
+    "safety": "Use drawings or large counters. Do not heat sealed containers, inhale materials or perform pressure experiments without a teacher-approved setup.",
+    "tricky": [
+      [
+        "Why can both a solid and a liquid be hard to compress?",
+        "Their particles are already close, leaving little space to reduce in an ordinary comparison. A liquid can still flow because its particles can rearrange."
+      ],
+      [
+        "An empty-looking cup is lowered upside down into water. What may stop water entering fully?",
+        "Trapped air occupies space. Tilting can let bubbles escape and allow water to enter. The exact outcome depends on the setup and leaks."
+      ],
+      [
+        "Does drawing particles blue prove that the substance is blue at particle scale?",
+        "No. Dot colour is a model convention. State what the dots represent and do not treat every drawing feature as a real particle property."
+      ]
+    ],
+    "faq": [
+      [
+        "Can one object contain more than one state?",
+        "Yes. A sponge can contain a solid framework and gas spaces; a fizzy drink can contain liquid and visible gas bubbles."
+      ],
+      [
+        "Are the particle drawings to scale?",
+        "No. They deliberately enlarge particles and simplify arrangement and motion to explain observable properties."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S5H01",
+    "short": "Collaboration and scientific advances",
+    "title": "Explain how scientific work builds on others",
+    "intro": "Use a real historical example to connect different contributions, earlier findings and shared evidence to an advance in science.",
+    "art": "history",
+    "exampleTitle": "Penicillin needed connected contributions",
+    "example": "In 1928 Alexander Fleming noticed a mould associated with an area where bacteria did not grow. Later, an Oxford team investigated preparation and biological effects. Ernst Chain and colleagues contributed chemical work; Norman Heatley developed sensitive tests and useful apparatus; Howard Florey coordinated biological investigations. These are selected connected contributions, not a complete list or an equal division of all work.",
+    "evidence": "<table><thead><tr><th scope=\"col\">Stage or role</th><th scope=\"col\">Contribution</th><th scope=\"col\">Why it mattered</th></tr></thead><tbody><tr><td>Fleming’s observation</td><td>A promising antibacterial effect</td><td>Gave later researchers a lead to investigate</td></tr><tr><td>Preparation and chemical work</td><td>Obtain and study useful material</td><td>Made further testing possible</td></tr><tr><td>Testing and apparatus</td><td>Compare activity of prepared material</td><td>Helped researchers judge preparations</td></tr><tr><td>Coordinated biological work</td><td>Connect methods and evidence</td><td>Supported investigation across different tasks</td></tr></tbody></table>",
+    "steps": [
+      [
+        "Link complementary expertise",
+        "Collaboration is more than several people being present. Explain how one contribution makes another task possible, or answers a different necessary question.",
+        "<div class=\"evidence\"><strong>Preparation and testing</strong><p>A preparation method supplies material. A sensitive activity test checks whether the prepared material still has the useful effect. Both kinds of work are needed.</p></div>",
+        "Would naming four scientists explain why collaboration mattered?",
+        "No. Link their different contributions: for example, preparation supplies material and a test gives evidence about its activity."
+      ],
+      [
+        "Explain what later work added",
+        "Building on earlier work can mean following up a finding or improving a method. A promising observation does not automatically answer preparation, effectiveness and safety questions.",
+        "<div class=\"evidence\"><strong>An advance needs a link</strong><p>Earlier observation → new question → additional preparation and testing. The arrows show a connection between work, not a guarantee of success.</p></div>",
+        "Did Fleming’s first observation by itself establish a ready-to-use medicine?",
+        "No. More work on preparation and appropriate testing was needed. The observation was a valuable lead rather than every later stage."
+      ],
+      [
+        "Use evidence when giving credit",
+        "Check what people actually contributed. Awards and headlines may recognise selected people while leaving out other contributions. Different emphasis in two accounts does not by itself prove a contradiction.",
+        "<div class=\"evidence\"><strong>Check the claim</strong><p>“One person did every part” needs evidence about every stage. The supplied role record supports several linked contributions instead.</p></div>",
+        "Does winning an award prove a scientist worked alone?",
+        "No. Recognition does not establish sole contribution. Use records of methods, evidence and roles to evaluate the claim."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Collaboration means everyone does the same job.”",
+        "Different expertise and methods can complement one another."
+      ],
+      [
+        "“A later discovery makes earlier work unimportant.”",
+        "Later work can depend on an earlier observation, instrument or method while also adding something new."
+      ]
+    ],
+    "activityTitle": "Map contribution to advance",
+    "activity": "2 minutes: read the supplied role table. 4 minutes: make three contribution cards and connect them with “helps because” arrows. 2 minutes: explain what later work added to the early observation. 2 minutes: repair an inaccurate one-person headline.",
+    "adjust": "Support: use preparation → test → evidence as a frame. Extend: distinguish recognition in an award from a complete historical contribution record.",
+    "safety": "This is a history and reasoning activity. Do not grow mould, handle cultures or make or test medicines.",
+    "tricky": [
+      [
+        "Two accounts highlight different contributors. Must one be false?",
+        "No. They may have different purposes and select different parts of a larger story. Check their specific claims against evidence."
+      ],
+      [
+        "How could sharing a reliable test help another team?",
+        "Another team could use the method to compare preparations or check a claim, provided the procedure and conditions are clear."
+      ],
+      [
+        "Is teamwork alone evidence that a scientific claim is correct?",
+        "No. Collaboration can improve methods and checking, but claims still require suitable evidence and critical examination."
+      ]
+    ],
+    "faq": [
+      [
+        "What is an assay?",
+        "It is a test used to measure or compare a particular activity. Here it means checking the biological activity of a preparation."
+      ],
+      [
+        "Were only the people named here involved?",
+        "No. This short example selects some contributions to explain collaboration; it is not a complete history."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S5H02",
+    "short": "Science-informed decisions",
+    "title": "Use science to compare practical responses",
+    "intro": "Identify a problem, use relevant scientific evidence, compare responses and explain a decision for an individual or community.",
+    "art": "landscape",
+    "exampleTitle": "Choose a response to muddy runoff",
+    "example": "A hypothetical school finds sediment washing from a bare garden slope onto a path after rain. Scientific knowledge suggests that water flow can detach and transport soil. Covering exposed soil and slowing runoff may reduce sediment movement. A decision also needs evidence about safety, access, cost and maintenance; no one response is automatically best everywhere.",
+    "evidence": "<table><thead><tr><th scope=\"col\">Possible response</th><th scope=\"col\">Scientific reason to consider it</th><th scope=\"col\">Question before deciding</th></tr></thead><tbody><tr><td>Suitable ground cover</td><td>Can protect soil and slow surface flow</td><td>Will it suit the site and be maintained?</td></tr><tr><td>An approved flow-slowing design</td><td>Can reduce sediment movement</td><td>Will it redirect water safely?</td></tr><tr><td>Leave the bare slope unchanged</td><td>Provides a comparison</td><td>Would continued runoff cause avoidable problems?</td></tr></tbody></table>",
+    "steps": [
+      [
+        "Define a problem using evidence",
+        "Describe what happened, where and under what conditions. Separate an observation from a guess about its cause. Science helps identify a mechanism that can be checked.",
+        "<div class=\"evidence\"><strong>Observation and explanation</strong><p>Observation: sediment appears on the path after rain. Possible explanation: runoff carries material from the bare slope. Check where the water and sediment come from.</p></div>",
+        "Does a photograph of a muddy path prove which slope supplied the sediment?",
+        "No. It records the condition at that time. You need evidence about the flow path and sediment source."
+      ],
+      [
+        "Compare responses against criteria",
+        "Use scientific knowledge to predict how a response may work, then compare relevant practical criteria. A solution that slows erosion but creates a trip hazard needs redesign.",
+        "<table><thead><tr><th scope=\"col\">Criterion</th><th scope=\"col\">Evidence to seek</th></tr></thead><tbody><tr><td>Sediment reduction</td><td>Comparable before/after or model records</td></tr><tr><td>Safe access</td><td>Adult site and route check</td></tr><tr><td>Maintenance</td><td>Who will maintain the response and how?</td></tr></tbody></table>",
+        "Is the most expensive option automatically the most scientific choice?",
+        "No. Compare how the mechanism works and evidence against the agreed criteria, including cost and safety."
+      ],
+      [
+        "Make a bounded decision and monitor it",
+        "State the response, evidence and reasons. Identify uncertainties and a way to check whether it helps. A classroom model can inform a decision without proving every outcome at the real site.",
+        "<div class=\"evidence\"><strong>Decision frame</strong><p>Choose ___ because the evidence suggests ___. It must also meet ___. We will check ___ and revise if ___.</p></div>",
+        "Can a successful tray model guarantee a real slope will never erode?",
+        "No. Real rain, soil, roots, slopes and scale differ. Use the model as one source of evidence and monitor the actual approved response."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Scientific knowledge makes every decision for us.”",
+        "Science informs likely effects; people also consider needs, practical limits and values."
+      ],
+      [
+        "“One successful test proves the solution always works.”",
+        "State the tested conditions and monitor the chosen response."
+      ]
+    ],
+    "activityTitle": "Write an evidence-based recommendation",
+    "activity": "2 minutes: identify the runoff problem. 4 minutes: compare two responses using mechanism and two criteria. 2 minutes: write a recommendation. 2 minutes: state one uncertainty and one monitoring action.",
+    "adjust": "Support: use the decision frame. Extend: explain a trade-off between two otherwise useful responses.",
+    "safety": "Use the hypothetical case. Do not change drainage, enter runoff water, disturb soil or install structures without adult site approval.",
+    "tricky": [
+      [
+        "Can two communities reasonably choose different responses to similar problems?",
+        "Yes. Conditions, resources, priorities and evidence may differ. Each decision should explain its reasons and likely effects."
+      ],
+      [
+        "Why should a response be checked after it is chosen?",
+        "Monitoring can show whether it helps under real conditions and reveal unintended effects or a need for maintenance."
+      ],
+      [
+        "Is a personal preference enough to claim that a method reduces erosion?",
+        "No. A scientific effect needs relevant evidence. Preferences may affect the final choice but do not establish the effect."
+      ]
+    ],
+    "faq": [
+      [
+        "Can an individual use scientific knowledge?",
+        "Yes. An individual can use evidence to choose an action, just as a community can compare responses to a shared problem."
+      ],
+      [
+        "Does a model count as evidence?",
+        "It can provide evidence about the model under its conditions. Explain its relevance and limits before applying it to a real setting."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S5I01",
+    "short": "Investigable questions and predictions",
+    "title": "Turn observations into testable questions",
+    "intro": "Use observations to ask a question about a pattern or relationship, then predict an outcome with a scientific reason.",
+    "art": "light",
+    "exampleTitle": "From a shadow pattern to a new test",
+    "example": "The same upright card stays 10 cm from the screen. Only the torch-to-card distance changes. The supplied numbers are invented model records, not measurements from the illustration or an actual class. Across these model runs, shadow heights are smaller when the torch is farther from the card. That pattern can guide a new investigable question, but a prediction for an untested distance remains a prediction.",
+    "evidence": "<table><caption>Invented model data: same card, fixed card-to-screen distance, same torch and alignment; shadow height to nearest centimetre</caption><thead><tr><th scope=\"col\">Torch to card (cm)</th><th scope=\"col\">Run 1: shadow (cm)</th><th scope=\"col\">Run 2: shadow (cm)</th><th scope=\"col\">Run 3: shadow (cm)</th></tr></thead><tbody><tr><td>10</td><td>20</td><td>21</td><td>19</td></tr><tr><td>20</td><td>15</td><td>14</td><td>16</td></tr><tr><td>30</td><td>13</td><td>14</td><td>13</td></tr></tbody></table>",
+    "steps": [
+      [
+        "Separate observation from prediction",
+        "An observation describes what was recorded. A prediction describes an outcome expected before a new test. Keep preference and explanation distinct from both.",
+        "<div class=\"evidence\"><strong>What is supplied?</strong><p>At 10 cm the model shadow heights are 20, 21 and 19 cm. At 30 cm they are 13, 14 and 13 cm. These are records in the supplied invented dataset.</p></div>",
+        "Is “I think the next shadow will be shorter” already an observation?",
+        "No. It is a prediction about a future or untested result. The observation is what was actually recorded in the supplied data."
+      ],
+      [
+        "Specify a relationship that can be investigated",
+        "Name what changes, what you measure and relevant conditions. “What happens to shadow height when torch-to-card distance changes, with the same card and card-to-screen distance?” can guide a comparison.",
+        "<div class=\"evidence\"><strong>Make the question useful</strong><p>Changed: torch-to-card distance. Measured: shadow height in centimetres. Controlled: card, screen distance, torch, alignment and room lighting.</p></div>",
+        "Does “Which shadow is nicest?” test the same scientific relationship?",
+        "No. It asks about preference and does not define a measurable relationship between torch distance and shadow height."
+      ],
+      [
+        "Give a reasoned, bounded prediction",
+        "Use a relevant pattern or model to justify an expected outcome. Do not claim a new result is already known, or invent an exact value without enough support.",
+        "<div class=\"evidence\"><strong>Prediction for a new position</strong><p>With the same setup, I predict the shadow at 25 cm will be shorter than at 10 cm, because the supplied distance pattern and spreading light-path model support that direction.</p></div>",
+        "Must a reasoned prediction always be correct?",
+        "No. It should have a relevant reason and be testable. New evidence may require you to revise the explanation."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“A prediction is a measured fact.”",
+        "State whether a value is recorded or expected before testing."
+      ],
+      [
+        "“A question must begin with why to be scientific.”",
+        "Many useful investigations ask what happens when a named variable changes."
+      ]
+    ],
+    "activityTitle": "Write a question–prediction pair",
+    "activity": "2 minutes: read the model table. 3 minutes: write one observable pattern. 3 minutes: pose a question using one changed variable and one measured outcome. 2 minutes: make a prediction with a reason and a stated condition.",
+    "adjust": "Support: use “What happens to ___ when ___?” Extend: name evidence that would challenge your prediction.",
+    "safety": "This activity can use supplied data only. For a practical, use a stable battery torch under adult guidance and never point it at eyes.",
+    "tricky": [
+      [
+        "Can a prediction be useful without an exact number?",
+        "Yes. A justified direction or comparison can be useful when the evidence does not support an exact value."
+      ],
+      [
+        "Would changing card height as well as torch distance answer the proposed fair-test question?",
+        "It would make the effect of torch distance difficult to isolate. Keep relevant conditions controlled."
+      ],
+      [
+        "Can one pattern prove what will happen at every possible distance?",
+        "No. State the tested range and setup. Other distances or arrangements may need investigation."
+      ]
+    ],
+    "faq": [
+      [
+        "Do investigations always change a variable deliberately?",
+        "No. Some investigate patterns through observations. Match the method to the question."
+      ],
+      [
+        "Where does a scientific reason come from?",
+        "Use relevant prior observations, evidence or a scientific model, and show the connection to the prediction."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S5I02",
+    "short": "Repeatable and safe investigations",
+    "title": "Plan a test another group can repeat",
+    "intro": "State a clear procedure, choose appropriate variables and repeats, manage risks and identify permissions before investigations on Country/Place.",
+    "art": "light",
+    "exampleTitle": "A shadow test needs more than equipment",
+    "example": "The same upright card stays 10 cm from the screen. Only the torch-to-card distance changes. The supplied numbers are invented model records, not measurements from the illustration or an actual class. A repeatable plan must also state how to set the torch distances, read shadow height, keep alignment and record each run. Repeating a procedure does not mean every reading will be identical.",
+    "evidence": "<table><thead><tr><th scope=\"col\">Plan feature</th><th scope=\"col\">Specific instruction</th></tr></thead><tbody><tr><td>Change</td><td>Torch front to card plane: 10, 20 and 30 cm</td></tr><tr><td>Measure</td><td>Shadow top to bottom on the screen, nearest centimetre</td></tr><tr><td>Keep the same</td><td>Card and its orientation; card-to-screen distance 10 cm; torch, alignment and lighting</td></tr><tr><td>Repeat</td><td>Reset and record three runs at each distance</td></tr><tr><td>Safety</td><td>Stable equipment; no torch beam towards eyes; clear walkway</td></tr></tbody></table>",
+    "steps": [
+      [
+        "Specify changed, measured and controlled variables",
+        "Choose variables that match the question. In a fair comparison, change the torch-to-card distance and measure shadow height. Keep other relevant conditions the same.",
+        "<div class=\"evidence\"><strong>Endpoint precision</strong><p>Measure torch distance from the same front reference point to the card plane. Use the same shadow top-to-bottom rule in every run.</p></div>",
+        "Would “put the torch a bit farther away” make the procedure repeatable?",
+        "No. Give distances, reference points and a measurement rule so another group can reconstruct the setup."
+      ],
+      [
+        "Plan repeats and manage risks",
+        "Describe setup, steps, recording and reset actions. Repeats reveal variation; they cannot fix a method that changes several relevant variables together. Match each hazard to a control and a stop or change decision.",
+        "<table><thead><tr><th scope=\"col\">Hazard</th><th scope=\"col\">Control or decision</th></tr></thead><tbody><tr><td>Equipment can fall</td><td>Stable bases; stop and reset if a stand moves</td></tr><tr><td>Beam could enter an eye</td><td>Aim at screen below eye level; adult supervises</td></tr><tr><td>Trip on setup</td><td>Keep the route clear; relocate if needed</td></tr></tbody></table>",
+        "If all three runs use a different card height, do repeats repair the unfair method?",
+        "No. The card change remains a confounding variable. Repair the procedure, then collect comparable repeat records."
+      ],
+      [
+        "Check Country/Place permissions before fieldwork",
+        "For an investigation on Country/Place, use school and local community guidance to identify the appropriate First Nations authority and land-manager requirements before access. Explain the proposed activity and respect conditions or refusal.",
+        "<div class=\"evidence\"><strong>Different actions need checking</strong><p>Permission to walk an approved route does not automatically permit collecting, recording a knowledge holder or sharing knowledge. Ask through the appropriate teacher and local authority before those actions.</p></div>",
+        "If a park route is public, may we assume permission to collect plants or publish cultural knowledge?",
+        "No. Public access is not blanket permission for collecting, recording or sharing. Check the relevant local requirements and use an approved alternative if needed."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Repeatable means all results must match.”",
+        "The procedure can be repeated even when observations vary. Record the variation honestly."
+      ],
+      [
+        "“School approval covers every cultural and access permission.”",
+        "Identify the relevant permissions and local protocols separately; do not invent consent."
+      ]
+    ],
+    "activityTitle": "Audit and improve a plan",
+    "activity": "2 minutes: read the supplied shadow plan. 4 minutes: add a reset step, exact reference points and a recording table. 2 minutes: pair a risk with a control. 2 minutes: explain what extra permissions would need checking for a proposed field investigation.",
+    "adjust": "Support: use the changed/measured/controlled headings. Extend: explain why adding more runs cannot remove a systematic setup error.",
+    "safety": "Paper planning is enough. Actual experiments or field visits need teacher-approved equipment, supervision and required local permissions before starting.",
+    "tricky": [
+      [
+        "Does every investigation have to be a fair test?",
+        "No. Observation, surveying and modelling may be appropriate. Where a fair test is used, choose the variables and controls that answer its question."
+      ],
+      [
+        "Why record an unexpected result instead of replacing it with the prediction?",
+        "It is evidence about what happened. Record it and investigate possible causes without inventing a preferred measurement."
+      ],
+      [
+        "A walk is approved but collecting samples is not. What should the plan say?",
+        "Stay within the approved activity. Seek the relevant permission through the teacher or omit collecting and use an approved non-invasive alternative."
+      ]
+    ],
+    "faq": [
+      [
+        "What makes a procedure repeatable?",
+        "It provides enough detail about materials, quantities, positions, steps, conditions and measurements for another group to follow it."
+      ],
+      [
+        "Who grants permission on Country/Place?",
+        "It depends on the place and proposed activity. Work through school and appropriate local community and land-manager guidance; no person speaks for every Country."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S5I03",
+    "short": "Equipment, precision and records",
+    "title": "Measure carefully and record useful data",
+    "intro": "Choose suitable equipment, read its intervals and reference points, and record values and units with reasonable precision.",
+    "art": "ruler",
+    "exampleTitle": "A reading is not always a length",
+    "example": "A card edge begins at 12.0 cm on a ruler and ends at 18.4 cm. Its length is 18.4 − 12.0 = 6.4 cm. The enlarged scale section shows only the end position; the starting reading is supplied separately. Each small interval is 0.2 cm, so the stated reading is supported by the scale.",
+    "evidence": "<table><thead><tr><th scope=\"col\">Quantity or record</th><th scope=\"col\">Value</th><th scope=\"col\">Meaning</th></tr></thead><tbody><tr><td>Start position</td><td>12.0 cm</td><td>Supplied reference reading</td></tr><tr><td>End position</td><td>18.4 cm</td><td>Shown on the enlarged scale</td></tr><tr><td>Distance between positions</td><td>6.4 cm</td><td>End reading minus start reading</td></tr><tr><td>Smallest marked interval</td><td>0.2 cm</td><td>Two millimetres</td></tr></tbody></table>",
+    "steps": [
+      [
+        "Choose a tool for the quantity and range",
+        "Match the quantity, expected size and precision to the equipment. Use a ruler or tape for distance, a balance for mass and suitable timing or temperature equipment when needed.",
+        "<table><thead><tr><th scope=\"col\">Question</th><th scope=\"col\">Suitable choice</th></tr></thead><tbody><tr><td>How tall is the shadow?</td><td>A ruler/tape covering its full height</td></tr><tr><td>What is the mass of a sample?</td><td>A balance with suitable range and resolution</td></tr><tr><td>How long does an event take?</td><td>An appropriate timer</td></tr></tbody></table>",
+        "Is a finer digital display alone proof of a more accurate measurement?",
+        "No. Check suitability, units, zero, stability and method. Extra displayed digits do not guarantee accuracy."
+      ],
+      [
+        "Find intervals and use reference points",
+        "Work out the value of each interval, align the agreed edge and look straight at the scale. If the start is not zero, find the difference between the two positions.",
+        "<div class=\"evidence\"><strong>Reading the supplied scale</strong><p>Between 18 and 19 cm are five equal intervals, each 0.2 cm. Two intervals after 18 cm give 18.4 cm. Subtract the supplied 12.0 cm starting reading to obtain 6.4 cm.</p></div>",
+        "If the last reading is 18.4 cm, must the object be 18.4 cm long?",
+        "No. That is a position reading. Here the starting position is 12.0 cm, so the length is 6.4 cm."
+      ],
+      [
+        "Record supported precision and recheck",
+        "State the value, unit, trial and conditions. A digital tool can help organise or measure, but check that the reading is stable and that the right unit and zero/tare were used.",
+        "<div class=\"evidence\"><strong>A useful record</strong><p>Card length: 6.4 cm; start 12.0 cm, end 18.4 cm; ruler intervals 0.2 cm; edges and viewing position checked.</p></div>",
+        "Would recording 6.40000 cm be justified by this supplied scale?",
+        "No. It suggests more detail than the model supports. Use the stated measurement precision and report the unit."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“The last number always gives the length.”",
+        "Use the span between agreed start and end reference points."
+      ],
+      [
+        "“All repeats remove a zero error.”",
+        "A consistent zero or setup error can affect every repeat. Check the method and instrument."
+      ]
+    ],
+    "activityTitle": "Audit a measurement record",
+    "activity": "2 minutes: read the enlarged scale and supplied start. 3 minutes: explain the 0.2 cm interval and calculate the length. 3 minutes: write a unit-labelled record. 2 minutes: name one equipment check and one method check.",
+    "adjust": "Support: count the intervals between 18 and 19 first. Extend: explain why a stable display and repeated identical values do not alone guarantee accuracy.",
+    "safety": "Use the supplied drawing or a safe classroom ruler. Keep equipment stable; use liquids, balances and thermometers only with an approved method.",
+    "tricky": [
+      [
+        "A ruler has five equal intervals from 18 to 19 cm. Is each interval 1 cm?",
+        "No. The 1 cm span is divided into five equal parts, so each is 0.2 cm."
+      ],
+      [
+        "Why state whether shadow height is read to the top of a fuzzy edge?",
+        "Different edge rules can produce different readings. A shared rule improves consistency and makes uncertainty visible."
+      ],
+      [
+        "A balance reads 12 g before a container is added. Can you ignore the zero check?",
+        "No. Investigate and correct the setup or zero as appropriate before measuring. Do not assume the displayed mass represents only the intended sample."
+      ]
+    ],
+    "faq": [
+      [
+        "What is reasonable precision?",
+        "Detail that the equipment, conditions and task can support. It is not simply the greatest number of decimal places."
+      ],
+      [
+        "Can digital tools help?",
+        "Yes. They can measure or organise records, but users must check units, setup, stable readings and faithful data entry."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S5I04",
+    "short": "Tables, graphs and models",
+    "title": "Represent data without changing its meaning",
+    "intro": "Choose tables, graphs and models that organise evidence clearly and reveal patterns while preserving values, units and limitations.",
+    "art": "graph",
+    "exampleTitle": "One dataset, different useful views",
+    "example": "The same upright card stays 10 cm from the screen. Only the torch-to-card distance changes. The supplied numbers are invented model records, not measurements from the illustration or an actual class. The graph shows Run 1 only: at torch distances 10, 20 and 30 cm, shadow heights are 20, 15 and 13 cm. The table preserves all three runs. A line joins the plotted records to show the pattern between tested positions; it does not add measured results.",
+    "evidence": "<table><caption>Invented model data: same card, fixed card-to-screen distance, same torch and alignment; shadow height to nearest centimetre</caption><thead><tr><th scope=\"col\">Torch to card (cm)</th><th scope=\"col\">Run 1: shadow (cm)</th><th scope=\"col\">Run 2: shadow (cm)</th><th scope=\"col\">Run 3: shadow (cm)</th></tr></thead><tbody><tr><td>10</td><td>20</td><td>21</td><td>19</td></tr><tr><td>20</td><td>15</td><td>14</td><td>16</td></tr><tr><td>30</td><td>13</td><td>14</td><td>13</td></tr></tbody></table>",
+    "steps": [
+      [
+        "Organise complete records in a table",
+        "Use clear headings and units. Keep the changed variable and measured outcome distinct. Preserve all valid records, including values that differ from the others.",
+        "<div class=\"evidence\"><strong>Read the row and column</strong><p>At torch-to-card distance 20 cm, Run 2 shadow height is 14 cm. The 20 cm is an input distance; the 14 cm is a measured outcome in the model record.</p></div>",
+        "May we copy the Run 1 graph value into every run in the table?",
+        "No. The runs differ. A representation must preserve the actual supplied values, not replace them with a preferred example."
+      ],
+      [
+        "Choose and label a useful graph",
+        "For this numeric-distance relationship, put torch-to-card distance on the horizontal axis and shadow height on the vertical axis. Use equal intervals and make clear which runs are plotted.",
+        "<div class=\"evidence\"><strong>Check the supplied graph</strong><p>The graph plots Run 1: (10,20), (20,15), (30,13), with both quantities in centimetres. Read labels before interpreting the descending line.</p></div>",
+        "Does the line supply an actual measurement at 25 cm?",
+        "No. It links measured-position records to reveal a pattern. A value between them would be an estimate or prediction, not a recorded result."
+      ],
+      [
+        "Explain a pattern and a model’s limits",
+        "Describe how the measured quantity changes with the changed variable. A path model can help explain the pattern, while a graph displays supplied data. They answer different questions.",
+        "<div class=\"evidence\"><strong>A bounded pattern</strong><p>In Run 1, shadow height decreases as torch-to-card distance increases from 10 to 30 cm in this setup. The graph does not describe every possible torch or screen arrangement.</p></div>",
+        "Does a descending line mean that time passed from left to right?",
+        "No. The horizontal axis is torch-to-card distance, not time. Interpret the named quantities."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Any downward graph means the object moved downward.”",
+        "Read the axes. Here the graph compares distances with shadow heights."
+      ],
+      [
+        "“Models show every real-world detail.”",
+        "Models select useful relationships and leave other details out."
+      ]
+    ],
+    "activityTitle": "Cross-check a graph and table",
+    "activity": "2 minutes: identify both graph axes and units. 4 minutes: locate the three Run 1 pairs in the table and graph. 2 minutes: describe the trend with its tested range. 2 minutes: name something the line does not establish.",
+    "adjust": "Support: highlight Run 1 before plotting. Extend: explain a clear way to display repeat variation without erasing the original records.",
+    "safety": "Use the supplied invented dataset. If using a spreadsheet, check copied values, labels, scales and which series is displayed.",
+    "tricky": [
+      [
+        "Why is Run 2 at 20 cm equal to 14 cm, while the graph shows 15 cm?",
+        "The graph is explicitly Run 1 only. The table shows separate runs; different values are not automatically a copying error."
+      ],
+      [
+        "Could a graph with no units communicate this comparison adequately?",
+        "It would be incomplete. Readers need to know which quantities and units the numbers represent."
+      ],
+      [
+        "Is a ray diagram a replacement for the recorded results table?",
+        "No. It can explain a light-path mechanism but does not retain every supplied trial record."
+      ]
+    ],
+    "faq": [
+      [
+        "Are line graphs always the right choice?",
+        "No. Choose a representation for the variables and purpose. Categories may suit columns; a numeric relationship can suit plotted points or a line."
+      ],
+      [
+        "Why keep a table as well?",
+        "A table preserves exact records and run identities that may be harder to retrieve from a simplified graph."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S5I05",
+    "short": "Methods, errors and conclusions",
+    "title": "Use evidence to judge a conclusion",
+    "intro": "Compare findings and methods, identify possible errors, select relevant evidence and propose a useful next investigation.",
+    "art": "light",
+    "exampleTitle": "Different findings need a method check",
+    "example": "Group A’s invented records are the supplied shadow table. A second hypothetical group used a card-to-screen distance of 20 cm, while Group A used 10 cm. Their shadow heights differ. The method difference is relevant: the comparison does not establish that either group fabricated its results.",
+    "evidence": "<table><caption>Invented model data: same card, fixed card-to-screen distance, same torch and alignment; shadow height to nearest centimetre</caption><thead><tr><th scope=\"col\">Torch to card (cm)</th><th scope=\"col\">Run 1: shadow (cm)</th><th scope=\"col\">Run 2: shadow (cm)</th><th scope=\"col\">Run 3: shadow (cm)</th></tr></thead><tbody><tr><td>10</td><td>20</td><td>21</td><td>19</td></tr><tr><td>20</td><td>15</td><td>14</td><td>16</td></tr><tr><td>30</td><td>13</td><td>14</td><td>13</td></tr></tbody></table><div class=\"evidence\"><strong>Second group’s method</strong><p>Group B kept its card 20 cm from the screen. Other method details would also need checking. No numerical Group B dataset is supplied.</p></div>",
+    "steps": [
+      [
+        "Compare the findings fairly",
+        "Compare records for the same conditions, not just one favourite number. Describe agreements, differences and variation without assuming any difference proves a mistake.",
+        "<div class=\"evidence\"><strong>Pattern across repeats</strong><p>In Group A’s supplied records, every 10 cm torch-distance shadow is taller than every 30 cm torch-distance shadow. The runs also vary within each setting.</p></div>",
+        "Do slightly different repeat readings automatically mean one is wrong?",
+        "No. Measurements can vary. Record them and examine the setup, reading method and size of the differences."
+      ],
+      [
+        "Check errors and method differences",
+        "Compare equipment, reference points, controls and recording. An accidentally shifted screen can affect the result; a deliberately different screen distance answers a different comparison and is not automatically an error.",
+        "<table><thead><tr><th scope=\"col\">Method issue</th><th scope=\"col\">Why it matters</th></tr></thead><tbody><tr><td>Screen shifts during runs</td><td>More than the intended variable changes</td></tr><tr><td>Different top-edge reading rules</td><td>Heights may not be measured consistently</td></tr><tr><td>A value is copied into the wrong row</td><td>The data representation changes its meaning</td></tr></tbody></table>",
+        "Does doing more runs fix a screen that is wrongly positioned in every run?",
+        "No. A systematic setup issue can affect every repeat. Check and repair the method rather than relying on repetition alone."
+      ],
+      [
+        "Draw a reasoned conclusion and ask what next",
+        "Select evidence that answers the question and link it to a relevant explanation. State the tested conditions and a remaining uncertainty. A follow-up should change or observe something specific.",
+        "<div class=\"evidence\"><strong>A supported conclusion</strong><p>For Group A’s fixed setup, greater torch-to-card distance from 10 to 30 cm was associated with shorter shadows across the supplied runs. A follow-up could test card-to-screen distance while holding the torch-to-card distance fixed.</p></div>",
+        "Can these records prove that every torch arrangement gives the same heights?",
+        "No. The evidence applies to the stated apparatus, distances and reading method. Other arrangements require appropriate evidence."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Different findings prove another group cheated.”",
+        "First compare methods, conditions and records; variation and method differences can have valid explanations."
+      ],
+      [
+        "“A conclusion is just my prediction repeated.”",
+        "Use relevant collected or supplied evidence, even if it challenges the prediction."
+      ]
+    ],
+    "activityTitle": "Hold an evidence conference",
+    "activity": "2 minutes: state Group A’s repeated pattern. 3 minutes: compare the two screen-distance methods. 3 minutes: write a conclusion supported by specific records. 2 minutes: name a possible error and a useful follow-up.",
+    "adjust": "Support: use evidence → reason → limit. Extend: distinguish a deliberate method difference from an accidental procedural error.",
+    "safety": "Use the hypothetical records and stated methods. Do not invent missing Group B readings or remove inconvenient Group A results.",
+    "tricky": [
+      [
+        "Should an unusual result always be deleted?",
+        "No. Keep an honest record, check for a supported reason and explain any decision about using it. Unusual does not automatically mean invalid."
+      ],
+      [
+        "Would “investigate more” be a sufficiently precise follow-up?",
+        "It is too vague. Name a variable, outcome or uncertainty and a suitable way to investigate it."
+      ],
+      [
+        "Why compare both methods and findings?",
+        "A difference in results can arise from a difference in procedure or conditions. Results alone may not explain the cause."
+      ]
+    ],
+    "faq": [
+      [
+        "What is a possible source of error?",
+        "An equipment, method, reading or recording issue that could make evidence less reliable. Identify its likely effect rather than merely saying “human error”."
+      ],
+      [
+        "Must a conclusion include every number?",
+        "No. Select enough relevant evidence to support the claim while preserving the complete records for checking."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S5I06",
+    "short": "Communicating scientific findings",
+    "title": "Explain the same science to different audiences",
+    "intro": "Choose language, structure and visual or digital tools for a clear purpose and audience while keeping findings accurate.",
+    "art": "light",
+    "exampleTitle": "Two audiences, one unchanged result",
+    "example": "A younger reader may need “a dark area where the card blocks some light”. A classmate may use “shadow” and a labelled path model. Both versions must preserve the same evidence: in the invented dataset, greater torch-to-card distance from 10 to 30 cm is associated with shorter shadows in the fixed setup.",
+    "evidence": "<table><thead><tr><th scope=\"col\">Audience and purpose</th><th scope=\"col\">Useful choice</th><th scope=\"col\">Keep accurate</th></tr></thead><tbody><tr><td>Younger class: explain a shadow</td><td>Short sentences; define the term; clear labelled picture</td><td>A card blocks some light; it does not create darkness as a substance</td></tr><tr><td>Classmates: report a comparison</td><td>Question, method, unit-labelled records, conclusion and limit</td><td>State changed and controlled distances</td></tr><tr><td>Teacher: share the evidence</td><td>Complete table and checkable explanation</td><td>Preserve all runs and state the dataset is invented</td></tr></tbody></table>",
+    "steps": [
+      [
+        "Choose audience, purpose and structure",
+        "State who will read or hear the text and what they should understand. A poster, short report or spoken explanation can work if its structure serves that purpose.",
+        "<div class=\"evidence\"><strong>A specific brief</strong><p>Explain to a younger class why a card makes a shadow. Introduce the torch and card, define the shadow and use one labelled picture.</p></div>",
+        "Does “make a slideshow” identify an audience or scientific purpose?",
+        "No. It identifies a format. State who it is for and what scientific idea or finding it should communicate."
+      ],
+      [
+        "Use useful vocabulary and faithful evidence",
+        "Define unfamiliar terms and connect a claim to relevant records. Simpler words should keep the scientific meaning and limits. Technical words alone do not make an explanation better.",
+        "<div class=\"evidence\"><strong>A short report model</strong><p>In the supplied model, shadows at a torch distance of 10 cm were 19–21 cm high; at 30 cm they were 13–14 cm. The card stayed 10 cm from the screen. These records support shorter shadows at greater torch distances in this setup.</p></div>",
+        "May a younger-audience version say “the card makes light vanish” to sound simpler?",
+        "No. Say it blocks some light from reaching the screen. Simplification must preserve the mechanism."
+      ],
+      [
+        "Select and review visual or digital tools",
+        "Choose a labelled diagram for paths, a table for exact records or a graph for a pattern. Check labels, units, copied values and whether the tool helps the audience understand.",
+        "<table><thead><tr><th scope=\"col\">Tool</th><th scope=\"col\">Meaning check</th></tr></thead><tbody><tr><td>Annotated setup picture</td><td>Positions and labels match the stated method</td></tr><tr><td>Graph</td><td>Correct axes, units and data series</td></tr><tr><td>Digital report</td><td>Readable text, faithful values and clear data status</td></tr></tbody></table>",
+        "Would an attractive animation excuse changing a table value?",
+        "No. The evidence must stay faithful. Check every displayed value and label against the source records."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“More technical words always means clearer science.”",
+        "Use terms that help the audience, and explain unfamiliar ones."
+      ],
+      [
+        "“Different audiences need different facts.”",
+        "Adapt language and organisation while preserving the same evidence and accurate scientific meaning."
+      ]
+    ],
+    "activityTitle": "Explain it twice and compare",
+    "activity": "2 minutes: choose a scientific finding from the supplied model. 3 minutes: write two sentences for a younger class. 3 minutes: write a short evidence-based report for classmates. 2 minutes: compare meanings, numbers and limitations.",
+    "adjust": "Support: use the report model and define one term. Extend: justify choosing a diagram instead of a graph for an explanation of blocked paths.",
+    "safety": "Do not identify real learners or share photographs, voices or work without the appropriate permission. A paper report is an equally valid option.",
+    "tricky": [
+      [
+        "Can an everyday word be appropriate in a scientific explanation?",
+        "Yes, if its meaning is clear and accurate in the context. Define a scientific term when it adds useful precision."
+      ],
+      [
+        "Why label the supplied dataset as invented?",
+        "Readers should not mistake a teaching model for an experiment actually conducted by a class or for measured evidence from the illustration."
+      ],
+      [
+        "How should feedback improve a science report?",
+        "Check whether the audience understands the idea, whether evidence supports the claim and whether wording, labels or values need correction."
+      ]
+    ],
+    "faq": [
+      [
+        "Must I always use a computer?",
+        "No. Choose digital tools when they help the purpose; a clear paper diagram or spoken explanation may be suitable."
+      ],
+      [
+        "How can I check two audience versions?",
+        "Compare the scientific claim, data, units, method and limits. Then check that the language and organisation suit each audience."
+      ]
+    ]
+  }
+]
