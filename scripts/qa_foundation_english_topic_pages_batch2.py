@@ -28,9 +28,14 @@ for x in inv:
    if a['code']==c and a['section']==label:prev.append(html.fromstring(a['html']))
   expected=normalize(prev)
   for p in repairs:
-   if p['code']==c and p['section']==label:
-    assert expected.count(p['before'])==1,c+' correction identity';expected=expected.replace(p['before'],p['after'])
+   if p['code']==c and p['section']==label and not p.get('attribute'):
+    assert expected.count(p['before'])==p.get('occurrences',1),c+' correction identity';expected=expected.replace(p['before'],p['after'])
   assert normalize(e)==expected,c+' preserved teaching '+label;sections+=1
+ for repair in repairs:
+  if repair['code']==c and repair.get('attribute'):
+   attr=repair['attribute'];before=repair['before'];after=repair['after'];count=repair.get('occurrences',1)
+   assert sum(before in (e.get(attr)or'')for e in old.iter())==count,c+' original attribute identity'
+   assert sum(after in (e.get(attr)or'')for e in now.iter())==count and not any(before in (e.get(attr)or'')for e in now.iter()),c+' corrected attribute identity'
  previous=old.xpath('//section[contains(@class,"lesson-preview")]//div[@class="lesson-preview-example"]')[0]
  expected=' '.join(' '.join(normalize(e)for e in previous if e.tag!='h2').split())
  earlier=now.xpath('//section[@class="earlier-worked-model"]')[0]
@@ -47,7 +52,7 @@ for x in inv:
  for e in now.xpath('//details'):assert len(e.xpath('./summary'))==1,c+' disclosure name';disclosures+=1
  for e in now.xpath('//*[@aria-labelledby or @aria-describedby]'):
   for attr in ['aria-labelledby','aria-describedby']:
-   for ident in e.get(attr,'').split():assert ident in ids,c+' ARIA target '+ident
+   for ident in (e.get(attr)or'').split():assert ident in ids,c+' ARIA target '+ident
  for a in now.xpath('//a[@href]'):
   u=urlparse(urljoin(x['canonical'],a.get('href')))
   if u.netloc in ['skillrhub.com','www.skillrhub.com']:

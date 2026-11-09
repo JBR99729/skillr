@@ -54,5 +54,22 @@
     "before": "In Sam fed the cat, point to the capital beginning, the name capital and the ending mark.",
     "after": "In “Sam fed the cat.”, point to the capital beginning and the ending mark. Explain how the same S also starts the name Sam.",
     "reason": "Display required full stop and distinguish one capital doing two jobs"
+  },
+  {
+    "code": "AC9EFLY01",
+    "section": "See it, then try it",
+    "before": "Clue: arrow to doorway",
+    "after": "Clue: arrow and doorway",
+    "occurrences": 2,
+    "reason": "The supplied left-pointing exit-route arrow and right-hand doorway pictogram are separate visible clues; do not claim the arrow points towards that pictogram."
+  },
+  {
+    "code": "AC9EFLY01",
+    "section": "See it, then try it",
+    "before": "notice the arrow toward a door",
+    "after": "notice the arrow and doorway",
+    "occurrences": 2,
+    "attribute": "aria-label",
+    "reason": "Match both accessible figure descriptions to the actual supplied sign."
   }
 ]
