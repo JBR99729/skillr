@@ -1,0 +1,206 @@
+{
+  "approved_reference": "year1/maths/ac9m1n01-numbers-to-120/index.html",
+  "reference_sha256": "13606ed2485957dd3d823a866a295860f9f8bbdd0eb27ac6c67b2ae38b300395",
+  "codes": [
+    {
+      "code": "AC9E1LA01",
+      "sections": [
+        "1. Words, faces and gestures",
+        "2. Ask for information",
+        "3. Give useful information",
+        "4. Offers and requests",
+        "5. Exclamations and commands",
+        "6. Choose and check the message",
+        "Try a worked example together",
+        "Check learning and offer support",
+        "Use this guide with your worksheet pack"
+      ],
+      "retained_beyond_details": "Useful vocabulary/learning goal and complete earlier preview children except duplicate heading.",
+      "removed_outer_blocks": [
+        "Repeated resource selectors and online-check panels",
+        "duplicate promotional/feedback/equivalence blocks"
+      ],
+      "paid_resource": "One matching optional paid resource with existing cover when present."
+    },
+    {
+      "code": "AC9E1LA02",
+      "sections": [
+        "1. Likes and dislikes",
+        "2. Give a reason with because",
+        "3. Prefer one of two choices",
+        "4. Use comparison words",
+        "5. Make the reason clear",
+        "6. Listen and respond",
+        "Try a worked example together",
+        "Check learning and offer support",
+        "Use this guide with your worksheet pack"
+      ],
+      "retained_beyond_details": "Useful vocabulary/learning goal and complete earlier preview children except duplicate heading.",
+      "removed_outer_blocks": [
+        "Repeated resource selectors and online-check panels",
+        "duplicate promotional/feedback/equivalence blocks"
+      ],
+      "paid_resource": "One matching optional paid resource with existing cover when present."
+    },
+    {
+      "code": "AC9E1LA03",
+      "sections": [
+        "1. Recount: what happened",
+        "2. Narrative: a story",
+        "3. Opinion: a view and a reason",
+        "4. Inform: share facts",
+        "5. Report: group related facts",
+        "6. Explain and compare with instructions",
+        "Try a worked example together",
+        "Check learning and offer support",
+        "Use this guide with your worksheet pack"
+      ],
+      "retained_beyond_details": "Useful vocabulary/learning goal and complete earlier preview children except duplicate heading.",
+      "removed_outer_blocks": [
+        "Repeated resource selectors and online-check panels",
+        "duplicate promotional/feedback/equivalence blocks"
+      ],
+      "paid_resource": "One matching optional paid resource with existing cover when present."
+    },
+    {
+      "code": "AC9E1LA04",
+      "sections": [
+        "1. Hear repetition",
+        "2. Find rhyme",
+        "3. Feel beat and rhythm",
+        "4. Hear how the parts connect",
+        "5. Compare poems, chants and songs",
+        "6. Change and create a pattern",
+        "Try a worked example together",
+        "Check learning and offer support",
+        "Use this guide with your worksheet pack"
+      ],
+      "retained_beyond_details": "Useful vocabulary/learning goal and complete earlier preview children except duplicate heading.",
+      "removed_outer_blocks": [
+        "Repeated resource selectors and online-check panels",
+        "duplicate promotional/feedback/equivalence blocks"
+      ],
+      "paid_resource": "One matching optional paid resource with existing cover when present."
+    },
+    {
+      "code": "AC9E1LA05",
+      "sections": [
+        "1. Titles and headings",
+        "2. Page numbers and contents",
+        "3. Images and layout",
+        "4. Buttons, menus and swipes",
+        "5. Links, icons and spoken commands",
+        "6. Compare books and screens",
+        "Try a worked example together",
+        "Check learning and offer support",
+        "Use this guide with your worksheet pack"
+      ],
+      "retained_beyond_details": "Useful vocabulary/learning goal and complete earlier preview children except duplicate heading.",
+      "removed_outer_blocks": [
+        "Repeated resource selectors and online-check panels",
+        "duplicate promotional/feedback/equivalence blocks"
+      ],
+      "paid_resource": "One matching optional paid resource with existing cover when present."
+    },
+    {
+      "code": "AC9E1LA06",
+      "sections": [
+        "1. One complete idea",
+        "2. Who or what is involved",
+        "3. What happens or what is",
+        "4. Repair and order words",
+        "5. Add details without adding another clause",
+        "6. Check meaning and the written boundary",
+        "Try a worked example together",
+        "Check learning and offer support",
+        "Use this guide with your worksheet pack"
+      ],
+      "retained_beyond_details": "Useful vocabulary/learning goal and complete earlier preview children except duplicate heading.",
+      "removed_outer_blocks": [
+        "Repeated resource selectors and online-check panels",
+        "duplicate promotional/feedback/equivalence blocks"
+      ],
+      "paid_resource": "One matching optional paid resource with existing cover when present."
+    },
+    {
+      "code": "AC9E1LA07",
+      "sections": [
+        "1. Nouns: name what is involved",
+        "2. Pronouns: keep the meaning clear",
+        "3. Verbs: happenings and states",
+        "4. Adjectives: qualities",
+        "5. Adverbs and other details",
+        "6. Make a sentence more specific",
+        "Try a worked example together",
+        "Check learning and offer support",
+        "Use this guide with your worksheet pack"
+      ],
+      "retained_beyond_details": "Useful vocabulary/learning goal and complete earlier preview children except duplicate heading.",
+      "removed_outer_blocks": [
+        "Repeated resource selectors and online-check panels",
+        "duplicate promotional/feedback/equivalence blocks"
+      ],
+      "paid_resource": "One matching optional paid resource with existing cover when present."
+    },
+    {
+      "code": "AC9E1LA08",
+      "sections": [
+        "1. Look closely before guessing",
+        "2. Compare pictures of the same subject",
+        "3. Read the words and picture together",
+        "4. Explain what a diagram or sign adds",
+        "5. Follow a sequence of pictures",
+        "6. Match the image to the text’s job",
+        "Try a worked example together",
+        "Check learning and offer support",
+        "Use this guide with your worksheet pack"
+      ],
+      "retained_beyond_details": "Useful vocabulary/learning goal and complete earlier preview children except duplicate heading.",
+      "removed_outer_blocks": [
+        "Repeated resource selectors and online-check panels",
+        "duplicate promotional/feedback/equivalence blocks"
+      ],
+      "paid_resource": "One matching optional paid resource with existing cover when present."
+    },
+    {
+      "code": "AC9E1LA09",
+      "sections": [
+        "1. What are topic words?",
+        "2. Science topic words",
+        "3. Geography topic words",
+        "4. Group and connect related words",
+        "5. Use topic words precisely",
+        "6. Topic words across subjects",
+        "See the idea: Link a topic word to its meaning",
+        "Check learning and offer support",
+        "Use this guide with your worksheet pack"
+      ],
+      "retained_beyond_details": "Useful vocabulary/learning goal and complete earlier preview children except duplicate heading.",
+      "removed_outer_blocks": [
+        "Repeated resource selectors and online-check panels",
+        "duplicate promotional/feedback/equivalence blocks"
+      ],
+      "paid_resource": "One matching optional paid resource with existing cover when present."
+    },
+    {
+      "code": "AC9E1LA10",
+      "sections": [
+        "1. Sentences need end punctuation",
+        "2. Full stops for statements",
+        "3. Question marks for questions",
+        "4. Exclamation marks",
+        "5. Capital letters for proper nouns",
+        "6. Read, choose and edit punctuation",
+        "See the idea: Let the message guide the end mark",
+        "Check learning and offer support",
+        "Use this guide with your worksheet pack"
+      ],
+      "retained_beyond_details": "Useful vocabulary/learning goal and complete earlier preview children except duplicate heading.",
+      "removed_outer_blocks": [
+        "Repeated resource selectors and online-check panels",
+        "duplicate promotional/feedback/equivalence blocks"
+      ],
+      "paid_resource": "One matching optional paid resource with existing cover when present."
+    }
+  ]
+}

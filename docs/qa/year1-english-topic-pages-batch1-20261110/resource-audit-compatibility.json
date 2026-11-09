@@ -1,0 +1,32 @@
+{
+  "old_script_sha256": "3d188e75b2e903e1b322dde0bd2f0fb9d17d9f530d32bc666e494b5cdd597f10",
+  "baseline": "9beb8926fe3e5aebad07c8b73d3dfda1be60a242",
+  "all_21_retired_hubs_and_audit_script_byte_unchanged": true,
+  "observed_failure": "DISCOVERED 0 unique curriculum codes across Years 1-7.\nYear 1: 0 codes (maths:0 english:0 science:0); pass 0, fail 0\nYear 2: 0 codes (maths:0 english:0 science:0); pass 0, fail 0\nYear 3: 0 codes (maths:0 english:0 science:0); pass 0, fail 0\nYear 4: 0 codes (maths:0 english:0 science:0); pass 0, fail 0\nYear 5: 0 codes (maths:0 english:0 science:0); pass 0, fail 0\nYear 6: 0 codes (maths:0 english:0 science:0); pass 0, fail 0\nYear 7: 0 codes (maths:0 english:0 science:0); pass 0, fail 0\nPASS 0; FAIL 0.\nISSUES 21:\n- NO curriculum codes found: year1/curriculum/maths/index.html\n- NO curriculum codes found: year1/curriculum/english/index.html\n- NO curriculum codes found: year1/curriculum/science/index.html\n- NO curriculum codes found: year2/curriculum/maths/index.html\n- NO curriculum codes found: year2/curriculum/english/index.html\n- NO curriculum codes found: year2/curriculum/science/index.html\n- NO curriculum codes found: year3/curriculum/maths/index.html\n- NO curriculum codes found: year3/curriculum/english/index.html\n- NO curriculum codes found: year3/curriculum/science/index.html\n- NO curriculum codes found: year4/curriculum/maths/index.html\n- NO curriculum codes found: year4/curriculum/english/index.html\n- NO curriculum codes found: year4/curriculum/science/index.html\n- NO curriculum codes found: year5/curriculum/maths/index.html\n- NO curriculum codes found: year5/curriculum/english/index.html\n- NO curriculum codes found: year5/curriculum/science/index.html\n- NO curriculum codes found: year6/curriculum/maths/index.html\n- NO curriculum codes found: year6/curriculum/english/index.html\n- NO curriculum codes found: year6/curriculum/science/index.html\n- NO curriculum codes found: year7/curriculum/maths/index.html\n- NO curriculum codes found: year7/curriculum/english/index.html\n- NO curriculum codes found: year7/curriculum/science/index.html\n",
+  "cause": "Legacy discovery searched code lists inside21retiredLearnredirectshims and never reached actual topic/viewer checks.",
+  "repair": "For explicitly retired indices only, validate the exact selected-year/subject Learn destination and discover codes from the existing authoritative curriculum catalogue. Preserve ordinary live-index discovery and all topic/viewer/no-download guards. Retired shims do not need individual viewer links; each topic still needs its fixed viewer.",
+  "status": "PASS",
+  "result": "DISCOVERED 427 unique curriculum codes across Years 1-7.\nYear 1: 55 codes (maths:15 english:30 science:10); pass 55, fail 0\nYear 2: 55 codes (maths:18 english:27 science:10); pass 55, fail 0\nYear 3: 63 codes (maths:23 english:28 science:12); pass 63, fail 0\nYear 4: 63 codes (maths:23 english:28 science:12); pass 63, fail 0\nYear 5: 60 codes (maths:24 english:24 science:12); pass 60, fail 0\nYear 6: 59 codes (maths:24 english:23 science:12); pass 59, fail 0\nYear 7: 72 codes (maths:30 english:24 science:18); pass 72, fail 0\nPASS 427; FAIL 0.\nYEARS 1-7 CURRICULUM RESOURCE AUDIT: PASS\n",
+  "repaired_script_sha256": "f8734edc3c23278d38c09480c25d739ac47853da6ba81a47bf5309121d17343e",
+  "negative_checks": [
+    {
+      "name": "Wrong retired-index destination",
+      "expected": "FAIL",
+      "observed_exit": 1,
+      "detected": "Retired curriculum index has incorrect Learn destination"
+    },
+    {
+      "name": "Missing catalogue group cannot pass with zero codes",
+      "expected": "FAIL",
+      "observed_exit": 1,
+      "detected": "NO curriculum codes found: year1/curriculum/english/index.html"
+    },
+    {
+      "name": "Broken topic still fails resource guards",
+      "expected": "FAIL",
+      "observed_exit": 1,
+      "detected": "Topic Guide is a runtime Loading shell"
+    }
+  ],
+  "scope": "Audit discovery compatibility only; no hub, catalogue, viewer or unrelated topic file changes. Temporary negative fixtures restored in finally blocks."
+}

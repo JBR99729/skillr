@@ -1,0 +1,411 @@
+{
+  "browser_head": "045a3c1e88594b69525838d93a6659c7989057a4",
+  "dependencies": [
+    {
+      "path": ".github/workflows/year1-english-topic-pages-batch1-browser-qa.yml",
+      "browser_head_bytes": 1464,
+      "browser_head_sha256": "5d122ee94619b227dda26f32405d73f0f4ad7a3c0f8b7b36a2fe0442d51c3e9e",
+      "git_blob": "d1b312aeee8dbd592c7bdbabd1ff0c91dc53bc52",
+      "current_sha256": "5d122ee94619b227dda26f32405d73f0f4ad7a3c0f8b7b36a2fe0442d51c3e9e",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "assets/css/foundation-english-topic-pages.css",
+      "browser_head_bytes": 6178,
+      "browser_head_sha256": "e6864419fb7478108ae0bf76f3e46f5cb33a27e86784856b4419343f5cac9346",
+      "git_blob": "d6150a46301092e099ae182d357d8629134e6136",
+      "current_sha256": "e6864419fb7478108ae0bf76f3e46f5cb33a27e86784856b4419343f5cac9346",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "assets/css/science-topic-release.css",
+      "browser_head_bytes": 209,
+      "browser_head_sha256": "41284b9009408203275beb157601f7b8b870a44b6820da61bd96770c1eab280c",
+      "git_blob": "6a6bb91383d29dedf2ffb1cac54f09d40875e7a0",
+      "current_sha256": "41284b9009408203275beb157601f7b8b870a44b6820da61bd96770c1eab280c",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "assets/css/site-theme.css",
+      "browser_head_bytes": 532,
+      "browser_head_sha256": "4da4f88936efbca78b0b03ef54d3a34ef26832b452fa51ac7f9808b0f3bacdbc",
+      "git_blob": "60a022eec535fcd18472b075f88f7ff8c49f4669",
+      "current_sha256": "4da4f88936efbca78b0b03ef54d3a34ef26832b452fa51ac7f9808b0f3bacdbc",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "assets/css/year1-english-topic-pages.css",
+      "browser_head_bytes": 2145,
+      "browser_head_sha256": "ac8b008c723d1a3b53d9770337d8f47b2487b8e7a53d8aad0c94e6d53f3530f2",
+      "git_blob": "77c24d315e64aa270729e9d25da6a0b188f83fa8",
+      "current_sha256": "ac8b008c723d1a3b53d9770337d8f47b2487b8e7a53d8aad0c94e6d53f3530f2",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "assets/css/year3-science-topic-pages.css",
+      "browser_head_bytes": 8721,
+      "browser_head_sha256": "9f9a698f33023163f2ae4508b0fd52c82a9ceeec5ed8520daa6d181ed8e86480",
+      "git_blob": "9bc058ff23a17af8e0e720270c1b02a26035257d",
+      "current_sha256": "9f9a698f33023163f2ae4508b0fd52c82a9ceeec5ed8520daa6d181ed8e86480",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "assets/curriculum.css",
+      "browser_head_bytes": 25387,
+      "browser_head_sha256": "c65198923858734e005d9e6ad76d55156e8f39a3cdc8f08524e62fdda8e2d9f2",
+      "git_blob": "7382c6d8e5feb5f1f022617d0c24f7d2662ae4d9",
+      "current_sha256": "c65198923858734e005d9e6ad76d55156e8f39a3cdc8f08524e62fdda8e2d9f2",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "assets/learning-navigation.js",
+      "browser_head_bytes": 3721,
+      "browser_head_sha256": "89e543a284bcf8b0539fb7cf8dbfd713fd37cb33124d715ddf28bbf01fe563b8",
+      "git_blob": "314f0d6c9a2ac17cd39b1462e15519dec7de1ea6",
+      "current_sha256": "89e543a284bcf8b0539fb7cf8dbfd713fd37cb33124d715ddf28bbf01fe563b8",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "assets/report-issue.js",
+      "browser_head_bytes": 3484,
+      "browser_head_sha256": "50f7f758183d698fbe2002f67ccfc73ced626664feafce157f8aef2c44aa536b",
+      "git_blob": "7f96576f3b3b4cdfd26c06b6dbccc6b7718dbea8",
+      "current_sha256": "50f7f758183d698fbe2002f67ccfc73ced626664feafce157f8aef2c44aa536b",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "assets/teaching-models/year1/ac9e1la01.svg",
+      "browser_head_bytes": 1573,
+      "browser_head_sha256": "36d4cd42cc4bd1aa9d34064dc3d19e9a6019a7ec1e7bd92793acf4465954be6c",
+      "git_blob": "0ca3105d28667b93f5882115c66ffb546570cef8",
+      "current_sha256": "36d4cd42cc4bd1aa9d34064dc3d19e9a6019a7ec1e7bd92793acf4465954be6c",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "assets/teaching-models/year1/ac9e1la02.svg",
+      "browser_head_bytes": 1493,
+      "browser_head_sha256": "4f019e733b9db81b43a750e94b048f39ee1a8433e087884ffad6f9dd7946b47b",
+      "git_blob": "00a346520cd81b1305ea7a4e9f35695a440f99a4",
+      "current_sha256": "4f019e733b9db81b43a750e94b048f39ee1a8433e087884ffad6f9dd7946b47b",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "assets/teaching-models/year1/ac9e1la03.svg",
+      "browser_head_bytes": 1535,
+      "browser_head_sha256": "4dafdb75e42f7d111fb197f109b342ec9ba9d39c914e5bba286a23d8c3bdfff3",
+      "git_blob": "5fbdb093ad563b0247a99b65118847d87960eef9",
+      "current_sha256": "4dafdb75e42f7d111fb197f109b342ec9ba9d39c914e5bba286a23d8c3bdfff3",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "assets/teaching-models/year1/ac9e1la04.svg",
+      "browser_head_bytes": 1485,
+      "browser_head_sha256": "153cc80f674796d907c6d049d79c3e56483f8549417858493ebbd052d03d6f5a",
+      "git_blob": "25a8c86afb802587cd228f4ff41faf06a1138e64",
+      "current_sha256": "153cc80f674796d907c6d049d79c3e56483f8549417858493ebbd052d03d6f5a",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "assets/teaching-models/year1/ac9e1la05.svg",
+      "browser_head_bytes": 1511,
+      "browser_head_sha256": "154a1ecd0a68c181ebafac5f7c76a7e9db87cf52c9e29124d3e2c777ecca5c8b",
+      "git_blob": "cbb4945b3ec132df4744547d648c982487dfd6ba",
+      "current_sha256": "154a1ecd0a68c181ebafac5f7c76a7e9db87cf52c9e29124d3e2c777ecca5c8b",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "assets/teaching-models/year1/ac9e1la06.svg",
+      "browser_head_bytes": 1436,
+      "browser_head_sha256": "577eeb41214eafd2b50798b8f38fdbdc7a6686ff7046180fd5c54fd3171a2a5e",
+      "git_blob": "8a38408ca0c624867d22f709e9230775e33e3313",
+      "current_sha256": "577eeb41214eafd2b50798b8f38fdbdc7a6686ff7046180fd5c54fd3171a2a5e",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "assets/teaching-models/year1/ac9e1la07.svg",
+      "browser_head_bytes": 1450,
+      "browser_head_sha256": "a303da0cdf767adb7653a8ef8bace8f410c4e94f06fdf9c754a14f5192a2523c",
+      "git_blob": "6763fc88731aeaf564e83a1e0a0f41a10223f73f",
+      "current_sha256": "a303da0cdf767adb7653a8ef8bace8f410c4e94f06fdf9c754a14f5192a2523c",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "assets/teaching-models/year1/ac9e1la08.svg",
+      "browser_head_bytes": 1113,
+      "browser_head_sha256": "8f75d4d2691feecf062ecaa5bc181063ff725f6f1a0c177eee32678d73e53938",
+      "git_blob": "fdf77d7d108400b3dbfd1c6151de606e3b3b142a",
+      "current_sha256": "1676898035cc6642ec35075329c1f932f61d8ffa405c2a1590fa8c7b126699cb",
+      "current_equals_browser_head": false
+    },
+    {
+      "path": "assets/teaching-models/year1/ac9e1la09.svg",
+      "browser_head_bytes": 1443,
+      "browser_head_sha256": "014bcc8a8535cc2ed3fde3b4b11b262eff789d03bf0f34499b078b9afbac747f",
+      "git_blob": "87eeefd8096815c0d04fa7046d4b9d1600ee651c",
+      "current_sha256": "014bcc8a8535cc2ed3fde3b4b11b262eff789d03bf0f34499b078b9afbac747f",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "assets/teaching-models/year1/ac9e1la10.svg",
+      "browser_head_bytes": 1519,
+      "browser_head_sha256": "8935a830226e729666d6851e803e690efe78ccf4a6419f71ee816601734755bb",
+      "git_blob": "20db0159b3ce30c7f4a6604c56c1bc56d8faa89b",
+      "current_sha256": "8935a830226e729666d6851e803e690efe78ccf4a6419f71ee816601734755bb",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "assets/topic-practice-link.css",
+      "browser_head_bytes": 1912,
+      "browser_head_sha256": "55b40419f335610abc5aa5adc3549af4c4105ea9ada9ea7f151f1d53539d47dc",
+      "git_blob": "ee6bba366d28e3488a4605ecb16bc24671b58862",
+      "current_sha256": "55b40419f335610abc5aa5adc3549af4c4105ea9ada9ea7f151f1d53539d47dc",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "assets/topic-visuals/reused/growing-plants.webp",
+      "browser_head_bytes": 431468,
+      "browser_head_sha256": "952c3062cf3aaa351934b721ea2ae842194487b1d03476e0ddc63bb1bdf54e4c",
+      "git_blob": "f7a233bbe7023fda8f191ba458bc7410e2acc021",
+      "current_sha256": "952c3062cf3aaa351934b721ea2ae842194487b1d03476e0ddc63bb1bdf54e4c",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "assets/topic-visuals/year1/la05-watering-can.png",
+      "browser_head_bytes": 54074,
+      "browser_head_sha256": "74411af6efd5b414f8c4139a457ae64c348abbed0a1b006cbdd5bef1b004e4e1",
+      "git_blob": "b2723af27c06c5fa51ed244550a1b8e5443ca3fb",
+      "current_sha256": "74411af6efd5b414f8c4139a457ae64c348abbed0a1b006cbdd5bef1b004e4e1",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "assets/topic-visuals/year1/la08-duck-comparison.png",
+      "browser_head_bytes": 177642,
+      "browser_head_sha256": "295814c5d0c910a2a76b4f2f746ec27212539faf313686619632192ae907458f",
+      "git_blob": "021b0d731c6736eb8833ee0dbd559521f95044fe",
+      "current_sha256": "295814c5d0c910a2a76b4f2f746ec27212539faf313686619632192ae907458f",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "assets/topic-visuals/year1/la08-flower-labels.png",
+      "browser_head_bytes": 81874,
+      "browser_head_sha256": "55d3d30aa51b94bfa29f082c78783ecc0f5306c097b0fb5ffccc24c7d5ce59fe",
+      "git_blob": "9c25bdb8905da420efba738317d3869163a86f45",
+      "current_sha256": "55d3d30aa51b94bfa29f082c78783ecc0f5306c097b0fb5ffccc24c7d5ce59fe",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "assets/topic-visuals/year1/la08-kitten-under-chair.png",
+      "browser_head_bytes": 2830756,
+      "browser_head_sha256": "ab5c4762f0f6e209020ce66f6b5f042e946ea875bfb80713dcb75fe048ae39a7",
+      "git_blob": "214a11715a3192add48e579ae77c84b4ecfce428",
+      "current_sha256": "ab5c4762f0f6e209020ce66f6b5f042e946ea875bfb80713dcb75fe048ae39a7",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "assets/topic-visuals/year1/la08-picture-jobs.png",
+      "browser_head_bytes": 255281,
+      "browser_head_sha256": "432b060d1deb0f544dac6c738cd4b4f9173f99f9febce11797439ca7902b5ae5",
+      "git_blob": "26aed18ce8ddf61db7989d3ceb79f5817381865f",
+      "current_sha256": "432b060d1deb0f544dac6c738cd4b4f9173f99f9febce11797439ca7902b5ae5",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "assets/topic-visuals/year1/la08-plant-sequence.png",
+      "browser_head_bytes": 185630,
+      "browser_head_sha256": "77c99924c3fb9c2ccc023adc2be30f157d972a409df713e1ed27f794bddef69a",
+      "git_blob": "a6ae165ecb2a65ff37a060ec618e45585045817f",
+      "current_sha256": "77c99924c3fb9c2ccc023adc2be30f157d972a409df713e1ed27f794bddef69a",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "assets/year-1-english-likes-dislikes-preferences-worksheets-cover.png",
+      "browser_head_bytes": 202410,
+      "browser_head_sha256": "79fba9468fa1142e6a85a49ca86980c2a59c5a97609ce26586ca178318e203ad",
+      "git_blob": "028fb91c334c7807e65d73da5c598a6d83da694b",
+      "current_sha256": "79fba9468fa1142e6a85a49ca86980c2a59c5a97609ce26586ca178318e203ad",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "assets/year-1-english-print-digital-text-features-worksheets-cover.png",
+      "browser_head_bytes": 135071,
+      "browser_head_sha256": "488b941b8cb95d9818852ebf8bf8a5199037a9254d63fd331e5accf9ba2f6643",
+      "git_blob": "d6ccb2f016b67976db21babe9a7d557ffefc1104",
+      "current_sha256": "488b941b8cb95d9818852ebf8bf8a5199037a9254d63fd331e5accf9ba2f6643",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "assets/year-1-english-rhyme-rhythm-repetition-worksheets-cover.png",
+      "browser_head_bytes": 176462,
+      "browser_head_sha256": "00e703380236b210fe5cab9455dfca700bd2485fed674b002a9968eae5b55a90",
+      "git_blob": "dd2b7293688e6a369a6d055453772c9b801ccf3b",
+      "current_sha256": "00e703380236b210fe5cab9455dfca700bd2485fed674b002a9968eae5b55a90",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "assets/year-1-english-simple-sentence-worksheets-cover.png",
+      "browser_head_bytes": 94342,
+      "browser_head_sha256": "514115ea3f4d85db8a15caec088e32248703ddd11dcfc6ffec4049cecb435cab",
+      "git_blob": "a2bcfb6abd195353c68b65c91dcabbda23bbfdf7",
+      "current_sha256": "514115ea3f4d85db8a15caec088e32248703ddd11dcfc6ffec4049cecb435cab",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "assets/year-1-english-text-purpose-structure-worksheets-cover.png",
+      "browser_head_bytes": 152876,
+      "browser_head_sha256": "770d966c6db92f9b19627d445e2a3d234c40ac66fb4d2dde6c61c59eac62e114",
+      "git_blob": "343a43fdbc0aa1582617ad649dc6f3ee2d1af860",
+      "current_sha256": "770d966c6db92f9b19627d445e2a3d234c40ac66fb4d2dde6c61c59eac62e114",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "assets/year-1-english-words-faces-gestures-worksheets-cover.jpg",
+      "browser_head_bytes": 114959,
+      "browser_head_sha256": "b3ed03ea3cdd7d810d1a120ae59714389e76c38050b63bd2788c49a2c0c1cbb4",
+      "git_blob": "5b0945dde6dba4d8dd142b9aa73a40c6484a9f49",
+      "current_sha256": "b3ed03ea3cdd7d810d1a120ae59714389e76c38050b63bd2788c49a2c0c1cbb4",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "assets/year-1-grammar-worksheets-parts-of-speech-cover.png",
+      "browser_head_bytes": 96868,
+      "browser_head_sha256": "ba39b517f6176ae2823bfbb7acecf1b593eb195b9c9a2bf1fb6069a3d7264cb2",
+      "git_blob": "6ea07af85e866376325da4c8730b5b79dbd9a680",
+      "current_sha256": "ba39b517f6176ae2823bfbb7acecf1b593eb195b9c9a2bf1fb6069a3d7264cb2",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "docs/qa/year1-english-topic-pages-batch1-20261110/inventory.json",
+      "browser_head_bytes": 7785,
+      "browser_head_sha256": "9cfd8c63dbdb31189f7c6c67455fb93ed582ebf89ea937346b9112e195a16515",
+      "git_blob": "e4f37439366ca41bf6283f6c7c33c9ce96026dd2",
+      "current_sha256": "9cfd8c63dbdb31189f7c6c67455fb93ed582ebf89ea937346b9112e195a16515",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "package-lock.json",
+      "browser_head_bytes": 2965,
+      "browser_head_sha256": "8633f2a54dc536b233231bdaa4dbc74acc38bc212fdb0861adc20b93cab08780",
+      "git_blob": "97494ba4b1223b0501b03902eabc00bff49d4d81",
+      "current_sha256": "8633f2a54dc536b233231bdaa4dbc74acc38bc212fdb0861adc20b93cab08780",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "package.json",
+      "browser_head_bytes": 627,
+      "browser_head_sha256": "988838674bc4e8ad3543e0bde8a6f6d7b5f484bf77ec3187eaf3db09ccf8cdc2",
+      "git_blob": "279c418ea1b6eba7036b26ee8c3a3edc3d0a1866",
+      "current_sha256": "988838674bc4e8ad3543e0bde8a6f6d7b5f484bf77ec3187eaf3db09ccf8cdc2",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "pwa-register.js",
+      "browser_head_bytes": 6198,
+      "browser_head_sha256": "ce15b45896dc2ff29e83cc0cb4ca6c98bc3e9bf4dc5b17b72009c4ab3707d22d",
+      "git_blob": "a6722b570107fdb5b7c434eed55e135b407533fb",
+      "current_sha256": "ce15b45896dc2ff29e83cc0cb4ca6c98bc3e9bf4dc5b17b72009c4ab3707d22d",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "scripts/qa_year1_english_topic_pages_batch1_browser.cjs",
+      "browser_head_bytes": 12636,
+      "browser_head_sha256": "e8ead92b8196645ec6060673b23425baaf06f77ef53aee18ee1c10e478e8e38e",
+      "git_blob": "6463907ab7656631eadceb357d61bc08e1706582",
+      "current_sha256": "e8ead92b8196645ec6060673b23425baaf06f77ef53aee18ee1c10e478e8e38e",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "style.css",
+      "browser_head_bytes": 105418,
+      "browser_head_sha256": "ae989b9bfe20db6ac741e2df4cc0dbeeffd3d8fcf8d8e1d0e5ffd5dd05821fae",
+      "git_blob": "08cc59e74479fce7b164a1420b620fb85d735c66",
+      "current_sha256": "ae989b9bfe20db6ac741e2df4cc0dbeeffd3d8fcf8d8e1d0e5ffd5dd05821fae",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "year1/english/ac9e1la01-how-language-facial-expressions-and-gestures-are-used-to/index.html",
+      "browser_head_bytes": 32597,
+      "browser_head_sha256": "20270fd4b0474ada0c31580f407fba47e769fd892ae931dc1e0e23df076524f9",
+      "git_blob": "ccb33ea0aed14ecac264e0775f80ea15b7dd10f2",
+      "current_sha256": "20270fd4b0474ada0c31580f407fba47e769fd892ae931dc1e0e23df076524f9",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "year1/english/ac9e1la02-language-to-provide-reasons-for-likes-dislikes-and-preferences/index.html",
+      "browser_head_bytes": 32881,
+      "browser_head_sha256": "08a662c8a69f3ad208b4393bdf08f2ec7b6a60b37e994ce4caea2884dd582f96",
+      "git_blob": "1d771978957e04732a1e0e41159882e9fbc59e1c",
+      "current_sha256": "08a662c8a69f3ad208b4393bdf08f2ec7b6a60b37e994ce4caea2884dd582f96",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "year1/english/ac9e1la03-how-texts-are-organised-according-to-their-purpose-such-as/index.html",
+      "browser_head_bytes": 30233,
+      "browser_head_sha256": "db721ae9d5a17de9f50b03f8af9b6badb1accd7a4a630821936d87a622f3a699",
+      "git_blob": "7641a71673ea3f1a760ad711186dd9617b94d5e5",
+      "current_sha256": "db721ae9d5a17de9f50b03f8af9b6badb1accd7a4a630821936d87a622f3a699",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "year1/english/ac9e1la04-how-repetition-rhyme-and-rhythm-create-cohesion-in-simple-poems/index.html",
+      "browser_head_bytes": 30655,
+      "browser_head_sha256": "4ed1bff5f4f6a6129e18d38ba3354b5905c9d1b423a0e52420d516c56004a9aa",
+      "git_blob": "66d452eaaa6471d5c23412ff53b24ee4ce5ba4ac",
+      "current_sha256": "4ed1bff5f4f6a6129e18d38ba3354b5905c9d1b423a0e52420d516c56004a9aa",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "year1/english/ac9e1la05-how-print-and-screen-texts-are-organised-using-features-such/index.html",
+      "browser_head_bytes": 32641,
+      "browser_head_sha256": "5a4ed816cea9ae998d4fd6aed0cd62fc2c5d680004aed0fe97d1e0e083c2858b",
+      "git_blob": "77c8a050851cc4ccab10d8116d8d035db4df6af0",
+      "current_sha256": "5a4ed816cea9ae998d4fd6aed0cd62fc2c5d680004aed0fe97d1e0e083c2858b",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "year1/english/ac9e1la06-that-a-simple-sentence-consists-of-a-single-independent-clause/index.html",
+      "browser_head_bytes": 30528,
+      "browser_head_sha256": "e913c29935762a1967a3d74032d79db9158bca223af0e4412c10902b427648c2",
+      "git_blob": "74c43f4d756fdd7eafbd49c065751a96112fbc21",
+      "current_sha256": "e913c29935762a1967a3d74032d79db9158bca223af0e4412c10902b427648c2",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "year1/english/ac9e1la07-that-words-can-represent-people-places-and-things-nouns/index.html",
+      "browser_head_bytes": 30983,
+      "browser_head_sha256": "123952046f0d96bba794941bebfdc7bf2b141111ee0d83373802659ce500023a",
+      "git_blob": "b835ef156df62bf2361a293f871f7cbdb24affae",
+      "current_sha256": "123952046f0d96bba794941bebfdc7bf2b141111ee0d83373802659ce500023a",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "year1/english/ac9e1la08-how-images-in-different-types-of-texts-contribute-to-meaning/index.html",
+      "browser_head_bytes": 37898,
+      "browser_head_sha256": "2dc8c6ddde8b68b84808caf27fc543a040006a032ef0c1ea4bab3f9c8db450db",
+      "git_blob": "ddab4a3d22dcf3183f64ba99f6c6ad9581ef5a8e",
+      "current_sha256": "2dc8c6ddde8b68b84808caf27fc543a040006a032ef0c1ea4bab3f9c8db450db",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "year1/english/ac9e1la09-the-vocabulary-of-learning-area-topics/index.html",
+      "browser_head_bytes": 32208,
+      "browser_head_sha256": "9be5ae21a1ef8f6a59c3cdd5087bd94878611879cfad4e432d9504dc04c9ced2",
+      "git_blob": "64494d23b3faefaae3dba5e768436dd6a3330a80",
+      "current_sha256": "9be5ae21a1ef8f6a59c3cdd5087bd94878611879cfad4e432d9504dc04c9ced2",
+      "current_equals_browser_head": true
+    },
+    {
+      "path": "year1/english/ac9e1la10-that-written-language-uses-punctuation-such-as-full-stops/index.html",
+      "browser_head_bytes": 31881,
+      "browser_head_sha256": "671a62c747d95212f8b66f3a3317edd9cfc121178b7284a35900c44b9a7539cd",
+      "git_blob": "a8a95f93dc3640c4b56608a18ab630effe502b4e",
+      "current_sha256": "671a62c747d95212f8b66f3a3317edd9cfc121178b7284a35900c44b9a7539cd",
+      "current_equals_browser_head": true
+    }
+  ],
+  "external_dependencies_blocked_by_browser_harness": [
+    "https://www.googletagmanager.com/gtag/js"
+  ],
+  "changed_dependencies": [
+    "assets/teaching-models/year1/ac9e1la08.svg"
+  ]
+}

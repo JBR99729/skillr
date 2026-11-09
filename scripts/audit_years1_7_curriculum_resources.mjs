@@ -7,7 +7,8 @@ import { hasStaticCurriculumCoverage } from './lib/static-curriculum-coverage.mj
 const subjects = ['maths','english','science'];
 const rows = [];
 const failures = [];
-const liveTopics = new Map(JSON.parse(fs.readFileSync('data/curriculum-units.json','utf8')).units.map(unit => [unit.code,unit.url]));
+const curriculumUnits = JSON.parse(fs.readFileSync('data/curriculum-units.json','utf8')).units;
+const liveTopics = new Map(curriculumUnits.map(unit => [unit.code,unit.url]));
 const read = p => fs.existsSync(p) ? fs.readFileSync(p,'utf8') : '';
 const norm = p => p.split(path.sep).join('/');
 
@@ -44,7 +45,20 @@ for (let year=1; year<=7; year++) for (const subject of subjects) {
   if (!fs.existsSync(curriculumIndex)) { failures.push(`MISSING curriculum index: ${curriculumIndex}`); continue; }
   const idx = read(curriculumIndex);
   const re = subject==='maths' ? new RegExp(`AC9M${year}[A-Z]{1,2}[0-9]{2}`,'gi') : subject==='english' ? new RegExp(`AC9E${year}[A-Z]{2}[0-9]{2}`,'gi') : new RegExp(`AC9S${year}[A-Z][0-9]{2}`,'gi');
-  const codes = [...new Set((idx.match(re)||[]).map(x=>x.toUpperCase()))].sort();
+  const retiredIndex = /\bdata-learning-hub-retired=["'][^"']+["']/i.test(idx);
+  if (retiredIndex) {
+    const expected = `https://skillrhub.com/learn/?year=${year}&subject=${subject}`;
+    const decode = value => value.replace(/&amp;/g,'&');
+    const refresh = idx.match(/<meta\b(?=[^>]*http-equiv=["']refresh["'])[^>]*content=["']([^"']+)["']/i)?.[1];
+    if (!refresh || decode(refresh).replace(/^0;url=/i,'') !== expected || !anchors(idx).some(a=>decode(a.href)===expected)) {
+      failures.push(`Retired curriculum index has incorrect Learn destination: ${curriculumIndex}`);
+    }
+  }
+  // Retired indices are redirect shims. The same catalogue that supplies Learn
+  // supplies their code inventory; every discovered topic/viewer is still checked.
+  const codes = [...new Set((retiredIndex
+    ? curriculumUnits.filter(unit=>unit.yearNumber===year && unit.subjectSlug===subject).map(unit=>unit.code)
+    : idx.match(re)||[]).map(x=>x.toUpperCase()))].sort();
   if (!codes.length) failures.push(`NO curriculum codes found: ${curriculumIndex}`);
   const root = path.join(`year${year}`,subject);
   const dirs = fs.existsSync(root) ? fs.readdirSync(root,{withFileTypes:true}).filter(x=>x.isDirectory()).map(x=>x.name) : [];
@@ -61,7 +75,7 @@ for (let year=1; year<=7; year++) for (const subject of subjects) {
         const legacyViewer=`/worksheets/year${year}/${subject}/teacher-slides/viewer/?code=${code}`;
         const expectedDisplay=`/year${year}/${subject}/${matches[0]}/teacher-slides/`;
         if(idx.includes(legacyPdf)||idx.includes(legacyViewer)) issues.push(`Year ${year} curriculum hub exposes a legacy Teacher Slide route`);
-        if(!anchors(idx).some(a=>a.href===expectedDisplay)) issues.push(`Year ${year} curriculum hub does not link its Teacher Display Page`);
+        if(!retiredIndex && !anchors(idx).some(a=>a.href===expectedDisplay)) issues.push(`Year ${year} curriculum hub does not link its Teacher Display Page`);
       }
       if(!fs.existsSync(topicFile)) issues.push('missing Topic Guide index.html'); else {
         const html=read(topicFile); const text=html.replace(/<script[\s\S]*?<\/script>/gi,'').replace(/<style[\s\S]*?<\/style>/gi,'');
