@@ -1,0 +1,94 @@
+{
+  "reviewer": "/root/english_batch3_review",
+  "browser_head": "25628f94df2ef7b80f824670e0d09e39e40811f2",
+  "dependencies": [
+    {
+      "path": ".github/workflows/foundation-english-topic-pages-batch3-browser-qa.yml",
+      "sha256": "e45428fb0772fe5d0f61d342f24ec816d8955296dc58455f84e6e9bc9a034d0c"
+    },
+    {
+      "path": "assets/css/foundation-english-topic-pages-batch3.css",
+      "sha256": "75403d20fa41a67389549fee89ac3d43ef4415575da6dde0763878ef198675a6"
+    },
+    {
+      "path": "assets/css/foundation-english-topic-pages.css",
+      "sha256": "e6864419fb7478108ae0bf76f3e46f5cb33a27e86784856b4419343f5cac9346"
+    },
+    {
+      "path": "assets/css/science-topic-release.css",
+      "sha256": "41284b9009408203275beb157601f7b8b870a44b6820da61bd96770c1eab280c"
+    },
+    {
+      "path": "assets/css/year3-science-topic-pages.css",
+      "sha256": "9f9a698f33023163f2ae4508b0fd52c82a9ceeec5ed8520daa6d181ed8e86480"
+    },
+    {
+      "path": "assets/curriculum.css",
+      "sha256": "c65198923858734e005d9e6ad76d55156e8f39a3cdc8f08524e62fdda8e2d9f2"
+    },
+    {
+      "path": "assets/learning-navigation.js",
+      "sha256": "89e543a284bcf8b0539fb7cf8dbfd713fd37cb33124d715ddf28bbf01fe563b8"
+    },
+    {
+      "path": "assets/report-issue.js",
+      "sha256": "50f7f758183d698fbe2002f67ccfc73ced626664feafce157f8aef2c44aa536b"
+    },
+    {
+      "path": "assets/topic-practice-link.css",
+      "sha256": "55b40419f335610abc5aa5adc3549af4c4105ea9ada9ea7f151f1d53539d47dc"
+    },
+    {
+      "path": "docs/qa/foundation-english-topic-pages-batch3-20261110/inventory.json",
+      "sha256": "d873f3ec77efb9a412f9b6aa37cf0aeb69043b7666a4122c4ba99a636db63a10"
+    },
+    {
+      "path": "foundation/english/ac9efly07-and-deliver-short-spoken-texts-to-report-ideas-and-events/index.html",
+      "sha256": "72353b50c83221cc6c74ddcb45232cc4d7318836105ebea657d8d85862909f3b"
+    },
+    {
+      "path": "foundation/english/ac9efly08-form-most-lower-case-and-upper-case-letters-using-learnt-letter/index.html",
+      "sha256": "9bbaa53f4094a748c48b475f671a9a0b71b206301e7f5e133e8a267e90bebfd1"
+    },
+    {
+      "path": "foundation/english/ac9efly09-and-generate-rhyming-words-alliteration-patterns-syllables-and/index.html",
+      "sha256": "b7ac0af0fbde0013f00102407f1ba5f222d2a155498cd86af29afc7aa7b7d0d6"
+    },
+    {
+      "path": "foundation/english/ac9efly10-sentences-into-individual-words-orally-blend-and-segment-single/index.html",
+      "sha256": "8d559e14596b7d27f86a40070d10cd6dc52ccd0b8085e8e3d188d0e5bf38c291"
+    },
+    {
+      "path": "foundation/english/ac9efly11-and-name-all-upper-and-lower-case-letters-graphs-and-know/index.html",
+      "sha256": "55705849690cc9717b3b2bbc66238bf6ff4b939f1a93d6c141317baa635ab6fb"
+    },
+    {
+      "path": "foundation/english/ac9efly12-consonant-vowel-consonant-cvc-words-by-representing-sounds-with/index.html",
+      "sha256": "2a8f2617e4a92dfdfff5e2785f35ed3e2c807e835f687a009aee139d2cc39886"
+    },
+    {
+      "path": "foundation/english/ac9efly13-knowledge-of-letters-and-sounds-to-spell-words/index.html",
+      "sha256": "f3b1d13baef6e93eb9691f5efedf3d20922946a3f0c13ce2234f0046d95da020"
+    },
+    {
+      "path": "foundation/english/ac9efly14-and-write-some-high-frequency-words-and-other-familiar-words/index.html",
+      "sha256": "01e63cf5e2cfde7f4d12881aa8e32af2689f9f4683ea752719f015e5e0edd020"
+    },
+    {
+      "path": "foundation/english/ac9efly15-that-words-are-units-of-meaning-and-can-be-made/index.html",
+      "sha256": "b618db7bd442cc3eeae846e9c38d5c8f86877251d78718992513e0240de6934a"
+    },
+    {
+      "path": "pwa-register.js",
+      "sha256": "ce15b45896dc2ff29e83cc0cb4ca6c98bc3e9bf4dc5b17b72009c4ab3707d22d"
+    },
+    {
+      "path": "scripts/qa_foundation_english_topic_pages_batch3_browser.cjs",
+      "sha256": "00897fa8d55094a8d525254f34fdb0c3956761d56b23157a15f7b7dbe0054dad"
+    },
+    {
+      "path": "style.css",
+      "sha256": "ae989b9bfe20db6ac741e2df4cc0dbeeffd3d8fcf8d8e1d0e5ffd5dd05821fae"
+    }
+  ]
+}

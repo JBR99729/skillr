@@ -1,0 +1,209 @@
+{
+  "reviewer": "/root/english_batch3_review — independent AI reviewer",
+  "date": "2026-11-10",
+  "scope": "All nine unscored public Topic Guides: full semantic content/answer/model-source review; no app-bank or linked-product certification. This is not a blind scored bank solve.",
+  "status": "PASS SOURCE/CONTENT; BROWSER PIXELS PENDING",
+  "coverage": {
+    "pages": 9,
+    "authored_scalar_fields": 360,
+    "meaningful_focuses": 27,
+    "retained_sections": 72,
+    "retained_addition_instances": 54,
+    "distinct_addition_packets": 27,
+    "inline_svg_instances": 11,
+    "native_html_model_instances": 29
+  },
+  "files": [
+    {
+      "code": "AC9EFLY07",
+      "path": "foundation/english/ac9efly07-and-deliver-short-spoken-texts-to-report-ideas-and-events/index.html",
+      "sha256": "72353b50c83221cc6c74ddcb45232cc4d7318836105ebea657d8d85862909f3b"
+    },
+    {
+      "code": "AC9EFLY08",
+      "path": "foundation/english/ac9efly08-form-most-lower-case-and-upper-case-letters-using-learnt-letter/index.html",
+      "sha256": "9bbaa53f4094a748c48b475f671a9a0b71b206301e7f5e133e8a267e90bebfd1"
+    },
+    {
+      "code": "AC9EFLY09",
+      "path": "foundation/english/ac9efly09-and-generate-rhyming-words-alliteration-patterns-syllables-and/index.html",
+      "sha256": "b7ac0af0fbde0013f00102407f1ba5f222d2a155498cd86af29afc7aa7b7d0d6"
+    },
+    {
+      "code": "AC9EFLY10",
+      "path": "foundation/english/ac9efly10-sentences-into-individual-words-orally-blend-and-segment-single/index.html",
+      "sha256": "8d559e14596b7d27f86a40070d10cd6dc52ccd0b8085e8e3d188d0e5bf38c291"
+    },
+    {
+      "code": "AC9EFLY11",
+      "path": "foundation/english/ac9efly11-and-name-all-upper-and-lower-case-letters-graphs-and-know/index.html",
+      "sha256": "55705849690cc9717b3b2bbc66238bf6ff4b939f1a93d6c141317baa635ab6fb"
+    },
+    {
+      "code": "AC9EFLY12",
+      "path": "foundation/english/ac9efly12-consonant-vowel-consonant-cvc-words-by-representing-sounds-with/index.html",
+      "sha256": "2a8f2617e4a92dfdfff5e2785f35ed3e2c807e835f687a009aee139d2cc39886"
+    },
+    {
+      "code": "AC9EFLY13",
+      "path": "foundation/english/ac9efly13-knowledge-of-letters-and-sounds-to-spell-words/index.html",
+      "sha256": "f3b1d13baef6e93eb9691f5efedf3d20922946a3f0c13ce2234f0046d95da020"
+    },
+    {
+      "code": "AC9EFLY14",
+      "path": "foundation/english/ac9efly14-and-write-some-high-frequency-words-and-other-familiar-words/index.html",
+      "sha256": "01e63cf5e2cfde7f4d12881aa8e32af2689f9f4683ea752719f015e5e0edd020"
+    },
+    {
+      "code": "AC9EFLY15",
+      "path": "foundation/english/ac9efly15-that-words-are-units-of-meaning-and-can-be-made/index.html",
+      "sha256": "b618db7bd442cc3eeae846e9c38d5c8f86877251d78718992513e0240de6934a"
+    }
+  ],
+  "support_file_sha256": {
+    "page-content.json": "f98fa55b596f030beac322bce02af9068ec88d98c13ff1cf6234a449da9df33b",
+    "plan.json": "00247c8a4c595884a39814032ae1d0ce6160fec87029b6c6eaacd5321abf9ccf",
+    "retained-additions.json": "58942ff1803c399e0843911b01472953a3d6705dd98a272f88a5f01aa38b5718",
+    "retained-corrections.json": "40fe82bec17486c0a260c0d7f3e75360201f8431875570d86ba853e695abdd36",
+    "retained-inventory-plan.json": "b50ab347f75d415429c10710b0db30f76b2a2ac3ecc09c2a5450d09e01943757",
+    "artwork-and-evidence.json": "82b937a286dc9f9d1330dd722a360fe0a176b46ac000c96d163bce58b87ee3bb"
+  },
+  "independent_response_checks": {
+    "AC9EFLY07": {
+      "checks": [
+        "Snail trail/shell are relevant; blue shoes are not.",
+        "Empty pot→plant seed→shoot is coherent event order; alternative accurate connected reports accepted.",
+        "A whisper unheard by listener requires comfortable audibility, not shouting.",
+        "Seed/chips report drifts off topic.",
+        "Niko text supplies lost boot→found under bench→home; relief is evidence-connected, not the only accepted personal response.",
+        "Caterpillar green body/tiny legs fits topic; supplied opening, class volume and finding→looking→telling order all have specified alternatives.",
+        "Real report/activity must have one topic, relevant ordered details and actual listener delivery; AAC/support recorded separately."
+      ],
+      "retained_sections": 8
+    },
+    "AC9EFLY08": {
+      "checks": [
+        "c model must show actual taught start/direction, open right curve; screen glyph is identification only.",
+        "t/T compare each school model independently, not an enlarged lowercase glyph.",
+        "Fresh n after demonstration/trace is checked by actual movement, orientation and comfort.",
+        "Functional grip can vary; pressure/strain and exact-font matching are not attainment criteria.",
+        "A–a and M–m are valid case partners; start/movement options answer the supplied checks.",
+        "Full52screen case samples are all present; writing sequence revisits school models across sessions, not all52in one sitting.",
+        "Independent writing observations distinguished from naming, selecting, tracing and physical support."
+      ],
+      "retained_sections": 8
+    },
+    "AC9EFLY09": {
+      "checks": [
+        "boat/goat, cake/lake/make, hat/mat/cat and hen/pen/ten rhyme by vowel-to-end sound; dog/fish/sun are contrasted where supplied.",
+        "Busy bee, Sam sees seals, silly snake, helpful Henry and Mia makes maps share beginning sounds. Sam/jam rhyme but differ initially.",
+        "Sun/dog one syllable; rabbit two; banana three. Sun has3phonemes /s ʌ n/; dog final /g/; moon initial /m/; fish initial /ʃ/.",
+        "Blue/shoe rhyme despite spelling; cat/kite alliterate /k/ but do not rhyme.",
+        "Dog/log rhyme and dancing dog provide a new generated rhyme/alliteration response.",
+        "Two corrected ARIA labels now describe actual written cues, not nonexistent source images/audio.",
+        "Oral adult stimulus and locally valid pronunciations are explicit; reading is not prerequisite."
+      ],
+      "retained_sections": 8
+    },
+    "AC9EFLY10": {
+      "checks": [
+        "My|raincoat|is|wet=4words while raincoat has2syllables. The|rabbit|hops=3words; rabbit2syllables. I|can|hop and The|dog|ran each3words.",
+        "/s ʌ n/→sun; ship=/ʃ ɪ p/3sounds; can=/k æ n/; lip=/l ɪ p/; cat=/k æ t/. Frog=/f r ɒ g/4sounds/1syllable.",
+        "at+initial/m/→mat; mat−initial/m/→at; mat final/t/→/p/→map.",
+        "lip+initial/s/→slip; best−internal/s/→bet; pin middle/ɪ/→/e/→pen.",
+        "tea+final/m/→team; smile−initial/s/→mile; mop initial/m/→/t/→top. Corrected activity explicitly puts /m/ at end.",
+        "cap+internal/l/after/k/→clap4phonemes; cheap final/p/→/t/→cheat.",
+        "retained run→fun→fan changes first then middle; sit→sip changes final; shop→shot final; map/can/mat/sat/lip clean cue-word methods checked.",
+        "All manipulation changes preserve other sounds/order; print hidden, real adult speech, supported production distinguished."
+      ],
+      "retained_sections": 8
+    },
+    "AC9EFLY11": {
+      "checks": [
+        "B/b=bee, D/d=dee; M/m=em; A/a=ay; R/r=ar; E/e=ee; T/t=tee. Full26name/case/common-cue reference individually checked.",
+        "P/p named pee but common /p/ in pet; C/c named see but /k/ in cup; no always-one-sound universal.",
+        "m-a-t blends /m æ t/→mat; names em-ay-tee do not blend to mat.",
+        "Final x in fox/mix represents /k/+/s/; q supplied in qu team /k/+/w/; y named why versus initial sound yes.",
+        "Preferred name supplied with actual distractor cards and checked spelling; naming/case/sound sampled separately over sessions.",
+        "A lower a, m upper M, m humming /m/ and s hissing /s/ answer the supplied checks; recognition not oral naming certification."
+      ],
+      "retained_sections": 8
+    },
+    "AC9EFLY12": {
+      "checks": [
+        "hen=/h e n/ writes h-e-n; hn misses middle e, not final n.",
+        "map=/m æ p/ ordered blending; bed=b-e-d dictated before print.",
+        "sit→sat changes middle; sat→mat changes first, preserving other2positions at each step.",
+        "dog=d-o-g for writing, cup=c-u-p for different-word reading; cat, sun, map, pen, sit and bed retained checks independently checked.",
+        "can→man changes c to m, keeping a/n. cat/cta and dog/dgo contrast ordered complete spelling with reordering.",
+        "hen/hot differ in vowel and final consonant, explicitly not a one-position change; hen→pen is one initial change.",
+        "CVC examples all simple taught correspondences; letter/sound counts, copying and dictation distinctions accurate."
+      ],
+      "retained_sections": 8
+    },
+    "AC9EFLY13": {
+      "checks": [
+        "fish=f|i|sh,3phonemes/4letters; shop=sh|o|p,3phonemes/4letters.",
+        "bag=b-a-g; bg misses a, ag misses b, ba misses g.",
+        "Intended plan written pan misses /l/ after /p/; plan→pan is omission, not a new accepted full spelling.",
+        "dog+s→dogs preserves animal meaning and adds number; s pronounced /z/ here.",
+        "map/mp/pam, sun/sn/nus, fish/fih/fsh options first fully represents taught sound sequence; say/segment before choosing.",
+        "Drum readback and letter-team checks preserve allsounds/order; plausible developing spelling distinguished from fully conventional spelling."
+      ],
+      "retained_sections": 8
+    },
+    "AC9EFLY14": {
+      "checks": [
+        "the exact spelling t-h-e, often weak vowel in context; th team plus context-dependent vowel taught explicitly.",
+        "is=i-s with final /z/; conventional i-z is rejected; and/my/is whole printed choices compared.",
+        "My versus me: my before mat/bag, me after with; final y/e changes form and grammatical use.",
+        "go=g-o with o pronounced as its name; covered-model writing distinguished from copying.",
+        "The dog ____ here with is/and/my uniquely takes is. Teh/si repair to The/is.",
+        "Shared text supplies2My and2is; capitals discussed. Four formerly vague common-word prompts now each ask definite adult target matching, all8occurrences corrected.",
+        "and/ant, my/mud, is/ink, the/ten select named target, not inferred frequency category. Preferred name spelling checked; no universal list/speed gate."
+      ],
+      "retained_sections": 8
+    },
+    "AC9EFLY15": {
+      "checks": [
+        "cup names drinking object; c/u/p are not separate object meanings.",
+        "cup one versus cups3; s more-than-one; /s/ in cups/cats versus /z/ in dogs.",
+        "dogs one word,2meaningfulparts dog+s; s not separate syllable/word.",
+        "rain+coat→raincoat one written word with2meaningfulwords, sunny-use sun+hat→sunhat; meaning split independent of syllable count.",
+        "cat/cats share cat base; cat/hat rhyme but do not share cat base; bus final s is base, not plural ending.",
+        "dog animal not colour; cats more-than-onecat; spoon/spoons with actual objects check same meaning contrast.",
+        "Read-aloud access allowed; formal suffix taxonomy, all-s endings plural and independent decoding demands not imposed."
+      ],
+      "retained_sections": 8
+    }
+  },
+  "closed_findings": [
+    {
+      "id": "LY10-LIP-VOWEL",
+      "fix": "Retained /i/→/ɪ/ in2occurrences; lip sound order independently rechecked."
+    },
+    {
+      "id": "LY10-ADD-POSITION",
+      "fix": "Activity now places /m/, beginning sound of moon, at end of tea to produce team."
+    },
+    {
+      "id": "LY14-TARGET-STEM",
+      "fix": "All8retained ambiguous frequency stems replaced by explicit adult target matching; named targets/alternatives individually checked."
+    },
+    {
+      "id": "LY09-RHYME-ARIA",
+      "fix": "Describes actual written cake/lake/make cue cards; no nonexistent pictures/waves."
+    },
+    {
+      "id": "LY09-BEAT-ARIA",
+      "fix": "Describes actual three written banana beat cues; no nonexistent audio/comparison."
+    }
+  ],
+  "unresolved_confirmed_content_defects": [],
+  "limitations": [
+    "Browser rendered pixels and interaction review pending and reported separately.",
+    "No child speech, sound hearing, handwriting movement or learner response observed; adult staging/performance criteria are explicit.",
+    "No source audio/video playback or hidden progression.",
+    "No Practice/Test bank, fixed Teacher Slides asset, worksheet content, import/database, deployment or publication certification."
+  ]
+}

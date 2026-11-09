@@ -46,6 +46,8 @@ for x in inv:
    attrs={k.lower():v.replace('retained-'+c.lower()+'-','')for k,v in node.attrib.items()};node.attrib.clear();node.attrib.update(sorted(attrs.items()))
   return html.tostring(e,encoding='unicode',method='html',with_tail=False)
  assert [svg_identity(e)for e in previous.xpath('.//svg')]==[svg_identity(e)for e in now.xpath('//section[@class="earlier-worked-model"]//svg')],c+' earlier exact SVG geometry'
+ prior_retained_svgs=old.xpath('//main//details[not(ancestor::details)]/descendant::svg[not(ancestor::details/summary[normalize-space()="Resources"])]')
+ assert [svg_identity(e)for e in prior_retained_svgs]==[svg_identity(e)for e in now.xpath('//div[@class="retained-teaching"]/details//svg')],c+' all retained SVG geometry'
  assert len(now.xpath('//div[@class="steps"]/article'))==3 and len(now.xpath('//section[contains(@class,"tricky-questions")]/details'))==3,c+' teaching focuses'
  ids=now.xpath('//@id');assert len(ids)==len(set(ids)),c+' duplicate ids'
  for e in now.xpath('//details'):assert len(e.xpath('./summary'))==1,c+' disclosure name';disclosures+=1
