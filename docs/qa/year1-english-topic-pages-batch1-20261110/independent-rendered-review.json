@@ -1,0 +1,1694 @@
+{
+  "reviewer": "/root/year1_english_review, independent AI",
+  "scope": "Individual inspection of all 43 model captures; root separately inspects all 60 viewport captures. Public static guides only.",
+  "status": "PASS all 43 hosted model captures; final markup-only rerender remains a separate root gate",
+  "browser_head": "5b7e6eb92920840468837ec81b1b79e6d71f725f",
+  "run_id": 42712916912,
+  "artifact_id": 13717335593,
+  "zip_sha256": "ff99e56e7e10672a2f57ced26f2881e35da6fc2848003cf3398d0b1b0035c577",
+  "results_sha256": "d046de35152d6bf9304387d0b8040bf41a015492dc6882123d585b0f25eb619a",
+  "model_inspections": [
+    {
+      "file": "AC9E1LA01-1440-native-1.png",
+      "bytes": 12682,
+      "sha256": "2190975850b22e1e066a785329b99fe720a4529a4c40610f2b26100805bcb341",
+      "dimensions": [
+        1042,
+        86
+      ],
+      "individually_opened": true,
+      "result": "PASS",
+      "observation": "Question, useful location reply and context-bound pointing are readable.",
+      "initial_sha256": "2190975850b22e1e066a785329b99fe720a4529a4c40610f2b26100805bcb341",
+      "basis": "Previously individually inspected capture is byte-identical"
+    },
+    {
+      "file": "AC9E1LA01-1440-native-2.png",
+      "bytes": 38169,
+      "sha256": "34e7a0e7f192e4ad59403e836bdb3ab8af45dd1dff42290ff15818f653810f16",
+      "dimensions": [
+        745,
+        392
+      ],
+      "individually_opened": true,
+      "result": "PASS",
+      "observation": "Ask/provide/request labels match their messages.",
+      "initial_sha256": "34e7a0e7f192e4ad59403e836bdb3ab8af45dd1dff42290ff15818f653810f16",
+      "basis": "Previously individually inspected capture is byte-identical"
+    },
+    {
+      "file": "AC9E1LA01-1440-retained-1.png",
+      "bytes": 14670,
+      "sha256": "2dcabd7f26fa1d755084a8740b7094a1ecbe68c55f1fbe79f6cb36193e37ce04",
+      "dimensions": [
+        720,
+        297
+      ],
+      "individually_opened": true,
+      "result": "PASS",
+      "observation": "Visible wave and greeting agree; complete hand and speech geometry.",
+      "initial_sha256": "2dcabd7f26fa1d755084a8740b7094a1ecbe68c55f1fbe79f6cb36193e37ce04",
+      "basis": "Previously individually inspected capture is byte-identical"
+    },
+    {
+      "file": "AC9E1LA02-1440-native-1.png",
+      "bytes": 10330,
+      "sha256": "ed3fd836f5d2f4a570183eca3449245df06f2aec4a62b51b3d5b30a52fb33c57",
+      "dimensions": [
+        1042,
+        86
+      ],
+      "individually_opened": true,
+      "result": "PASS",
+      "observation": "Preference/because/reason are legible and coherent.",
+      "initial_sha256": "ed3fd836f5d2f4a570183eca3449245df06f2aec4a62b51b3d5b30a52fb33c57",
+      "basis": "Previously individually inspected capture is byte-identical"
+    },
+    {
+      "file": "AC9E1LA02-1440-native-2.png",
+      "bytes": 27084,
+      "sha256": "e7273b00c27ff4de1a6b234f6177ea46c4355798bdee427e479a53af92f314bd",
+      "dimensions": [
+        745,
+        369
+      ],
+      "individually_opened": true,
+      "result": "PASS",
+      "observation": "Preference, connection and turn-taking reason are complete.",
+      "initial_sha256": "e7273b00c27ff4de1a6b234f6177ea46c4355798bdee427e479a53af92f314bd",
+      "basis": "Previously individually inspected capture is byte-identical"
+    },
+    {
+      "file": "AC9E1LA02-1440-retained-1.png",
+      "bytes": 16261,
+      "sha256": "4abde6f13abb660da7d228d62e2aaaad50cbe08014382e35149fbdace9036b9e",
+      "dimensions": [
+        720,
+        297
+      ],
+      "individually_opened": true,
+      "result": "PASS",
+      "observation": "Like/dislike comparison and drawing reason match labels.",
+      "initial_sha256": "4abde6f13abb660da7d228d62e2aaaad50cbe08014382e35149fbdace9036b9e",
+      "basis": "Previously individually inspected capture is byte-identical"
+    },
+    {
+      "file": "AC9E1LA03-1440-native-1.png",
+      "bytes": 12070,
+      "sha256": "82da2ef5f3c3cc18312794570405cac3e3356d09f36446ee50a3488850e58bb8",
+      "dimensions": [
+        1042,
+        86
+      ],
+      "individually_opened": true,
+      "result": "PASS",
+      "observation": "Recount time ordering and report grouping comparison is readable.",
+      "initial_sha256": "82da2ef5f3c3cc18312794570405cac3e3356d09f36446ee50a3488850e58bb8",
+      "basis": "Previously individually inspected capture is byte-identical"
+    },
+    {
+      "file": "AC9E1LA03-1440-native-2.png",
+      "bytes": 29173,
+      "sha256": "e927173fd4d159f98ba89fbffbe187eeeb8683488a18f4da798db6a5455510fe",
+      "dimensions": [
+        745,
+        369
+      ],
+      "individually_opened": true,
+      "result": "PASS",
+      "observation": "Three complete procedure steps appear in order.",
+      "initial_sha256": "e927173fd4d159f98ba89fbffbe187eeeb8683488a18f4da798db6a5455510fe",
+      "basis": "Previously individually inspected capture is byte-identical"
+    },
+    {
+      "file": "AC9E1LA03-1440-retained-1.png",
+      "bytes": 21588,
+      "sha256": "ec8ccc37467e9cf42a94785c5320e34ebd4c2100a6673dddd9d17d4b93494181",
+      "dimensions": [
+        720,
+        297
+      ],
+      "individually_opened": true,
+      "result": "PASS",
+      "observation": "First/Next/Last garden events agree with recount caption.",
+      "initial_sha256": "ec8ccc37467e9cf42a94785c5320e34ebd4c2100a6673dddd9d17d4b93494181",
+      "basis": "Previously individually inspected capture is byte-identical"
+    },
+    {
+      "file": "AC9E1LA04-1440-native-1.png",
+      "bytes": 17499,
+      "sha256": "464a49d9479825b063b888bfddf7bcaceb68d54b4b93041e0084debc594ac3a4",
+      "dimensions": [
+        1042,
+        146
+      ],
+      "individually_opened": true,
+      "result": "PASS",
+      "observation": "Returning Tap tap and tree/me rhyme are readable.",
+      "initial_sha256": "464a49d9479825b063b888bfddf7bcaceb68d54b4b93041e0084debc594ac3a4",
+      "basis": "Previously individually inspected capture is byte-identical"
+    },
+    {
+      "file": "AC9E1LA04-1440-native-2.png",
+      "bytes": 22118,
+      "sha256": "647d297fae9554e3dc8c9ab3da6653b36fc264ea80d84389f861c149a16b82d4",
+      "dimensions": [
+        745,
+        369
+      ],
+      "individually_opened": true,
+      "result": "PASS",
+      "observation": "Both repeated starts and sun/run endings are visible.",
+      "initial_sha256": "647d297fae9554e3dc8c9ab3da6653b36fc264ea80d84389f861c149a16b82d4",
+      "basis": "Previously individually inspected capture is byte-identical"
+    },
+    {
+      "file": "AC9E1LA04-1440-retained-1.png",
+      "bytes": 20706,
+      "sha256": "59207572cd3dc6ae4b5c5ea117651182a66fea5ff1e4265156eb2952c1a7d0ab",
+      "dimensions": [
+        720,
+        297
+      ],
+      "individually_opened": true,
+      "result": "PASS",
+      "observation": "Repeated Here comes links three weather lines.",
+      "initial_sha256": "59207572cd3dc6ae4b5c5ea117651182a66fea5ff1e4265156eb2952c1a7d0ab",
+      "basis": "Previously individually inspected capture is byte-identical"
+    },
+    {
+      "file": "AC9E1LA05-1440-native-1.png",
+      "bytes": 12542,
+      "sha256": "24d8e2b34d1a556b9a4fe60b9d9a8b5e8a96264e1004d9fe0e1b472f7927fd99",
+      "dimensions": [
+        1042,
+        86
+      ],
+      "individually_opened": true,
+      "result": "PASS",
+      "observation": "Model contents entries and starting page numbers are readable.",
+      "initial_sha256": "24d8e2b34d1a556b9a4fe60b9d9a8b5e8a96264e1004d9fe0e1b472f7927fd99",
+      "basis": "Previously individually inspected capture is byte-identical"
+    },
+    {
+      "file": "AC9E1LA05-1440-native-2.png",
+      "bytes": 61664,
+      "sha256": "b1f4832e6c6533adfe9ebac07398f8753b7fa1c2fd239bac325f3abc28769a95",
+      "dimensions": [
+        745,
+        241
+      ],
+      "individually_opened": true,
+      "result": "PASS",
+      "observation": "Actual watering-can drawing matches the noun and Watering caption.",
+      "initial_sha256": "b1f4832e6c6533adfe9ebac07398f8753b7fa1c2fd239bac325f3abc28769a95",
+      "basis": "Previously individually inspected capture is byte-identical"
+    },
+    {
+      "file": "AC9E1LA05-1440-native-3.png",
+      "bytes": 26033,
+      "sha256": "7b2a78685226ac71fe150bc4f35deab322b58c1ba5efcba9a02fe025ad839515",
+      "dimensions": [
+        745,
+        338
+      ],
+      "individually_opened": true,
+      "result": "PASS",
+      "observation": "Contents Nests 4/Food 6 leads to headed Nests page 4.",
+      "initial_sha256": "7b2a78685226ac71fe150bc4f35deab322b58c1ba5efcba9a02fe025ad839515",
+      "basis": "Previously individually inspected capture is byte-identical"
+    },
+    {
+      "file": "AC9E1LA05-1440-retained-1.png",
+      "bytes": 20295,
+      "sha256": "6d7b24274e7a8f188f5fa9b6e66e7e262c1903ad415062b72b8df0494e0e506e",
+      "dimensions": [
+        720,
+        297
+      ],
+      "individually_opened": true,
+      "result": "PASS",
+      "observation": "Book title and Tools/Watering/Growing section labels are legible.",
+      "initial_sha256": "6d7b24274e7a8f188f5fa9b6e66e7e262c1903ad415062b72b8df0494e0e506e",
+      "basis": "Previously individually inspected capture is byte-identical"
+    },
+    {
+      "file": "AC9E1LA06-1440-native-1.png",
+      "bytes": 12845,
+      "sha256": "6c8ca17b8f2f15d5964b7a8819c29c86c78ae832e9a4772df5244162b9b722ac",
+      "dimensions": [
+        1042,
+        85
+      ],
+      "individually_opened": true,
+      "result": "PASS",
+      "observation": "Who/what, happening, how and where form one complete clause.",
+      "initial_sha256": "6c8ca17b8f2f15d5964b7a8819c29c86c78ae832e9a4772df5244162b9b722ac",
+      "basis": "Previously individually inspected capture is byte-identical"
+    },
+    {
+      "file": "AC9E1LA06-1440-native-2.png",
+      "bytes": 21293,
+      "sha256": "986ac54f41f90a0136c32edb865fdc2b69e9c58f2aa2b620712ce4961f2ec858",
+      "dimensions": [
+        745,
+        370
+      ],
+      "individually_opened": true,
+      "result": "PASS",
+      "observation": "Bird/sang/in the tree correspond to complete sentence model.",
+      "initial_sha256": "986ac54f41f90a0136c32edb865fdc2b69e9c58f2aa2b620712ce4961f2ec858",
+      "basis": "Previously individually inspected capture is byte-identical"
+    },
+    {
+      "file": "AC9E1LA06-1440-retained-1.png",
+      "bytes": 19039,
+      "sha256": "ff4c3276837f218218432aa86a52ce09dbe99278f960f562a969dec04bf79e94",
+      "dimensions": [
+        720,
+        297
+      ],
+      "individually_opened": true,
+      "result": "PASS",
+      "observation": "Complete copular statement is distinguishable from the full cup word group.",
+      "initial_sha256": "ff4c3276837f218218432aa86a52ce09dbe99278f960f562a969dec04bf79e94",
+      "basis": "Previously individually inspected capture is byte-identical"
+    },
+    {
+      "file": "AC9E1LA07-1440-native-1.png",
+      "bytes": 17699,
+      "sha256": "a3cd7bc7857d5e0138acde82482254568b9565c2fff4590c7e7f79da7119d1cb",
+      "dimensions": [
+        1042,
+        146
+      ],
+      "individually_opened": true,
+      "result": "PASS",
+      "observation": "Bird/sang/small and manner/place details match the sentence.",
+      "initial_sha256": "a3cd7bc7857d5e0138acde82482254568b9565c2fff4590c7e7f79da7119d1cb",
+      "basis": "Previously individually inspected capture is byte-identical"
+    },
+    {
+      "file": "AC9E1LA07-1440-native-2.png",
+      "bytes": 22808,
+      "sha256": "a22c05fccc083cdb1b4471c8f4463e526cc908984c5e1785d00fcfce2e06c620",
+      "dimensions": [
+        745,
+        370
+      ],
+      "individually_opened": true,
+      "result": "PASS",
+      "observation": "Bird noun, small quality and sang event are labelled correctly.",
+      "initial_sha256": "a22c05fccc083cdb1b4471c8f4463e526cc908984c5e1785d00fcfce2e06c620",
+      "basis": "Previously individually inspected capture is byte-identical"
+    },
+    {
+      "file": "AC9E1LA07-1440-retained-1.png",
+      "bytes": 17528,
+      "sha256": "1f569e652635182905251792f8bb54808b0eeaab4004290de422e2d11ddc3494",
+      "dimensions": [
+        720,
+        297
+      ],
+      "individually_opened": true,
+      "result": "PASS",
+      "observation": "Animal/place examples koala/library match naming-word caption.",
+      "initial_sha256": "1f569e652635182905251792f8bb54808b0eeaab4004290de422e2d11ddc3494",
+      "basis": "Previously individually inspected capture is byte-identical"
+    },
+    {
+      "file": "AC9E1LA08-1440-native-1.png",
+      "bytes": 100374,
+      "sha256": "6e3a244c36cf0d64a92e6c2761044f2b1c4abc865b5b473b9da40324b28ef3fc",
+      "dimensions": [
+        1042,
+        331
+      ],
+      "individually_opened": true,
+      "result": "PASS",
+      "observation": "Careful duck and scarf-wearing cartoon are both drawings; labels and differences visible.",
+      "initial_sha256": "6e3a244c36cf0d64a92e6c2761044f2b1c4abc865b5b473b9da40324b28ef3fc",
+      "basis": "Previously individually inspected capture is byte-identical"
+    },
+    {
+      "file": "AC9E1LA08-1440-native-2.png",
+      "bytes": 99082,
+      "sha256": "c00973796f0df3b7eca1868ac7b591a802c8820c48a12cd91389281b1cf55f93",
+      "dimensions": [
+        1042,
+        331
+      ],
+      "individually_opened": true,
+      "result": "PASS",
+      "observation": "Repeated actual duck comparison remains clear and correctly captioned.",
+      "initial_sha256": "c00973796f0df3b7eca1868ac7b591a802c8820c48a12cd91389281b1cf55f93",
+      "basis": "Previously individually inspected capture is byte-identical"
+    },
+    {
+      "file": "AC9E1LA08-1440-native-3.png",
+      "bytes": 414511,
+      "sha256": "f034030f8065f06c441fe6105409e16574d0fa8b4570f4d93fabd09d3253845b",
+      "dimensions": [
+        1042,
+        530
+      ],
+      "individually_opened": true,
+      "result": "PASS",
+      "observation": "Kitten is visibly under chair, challenging empty-room story words.",
+      "initial_sha256": "f034030f8065f06c441fe6105409e16574d0fa8b4570f4d93fabd09d3253845b",
+      "basis": "Previously individually inspected capture is byte-identical"
+    },
+    {
+      "file": "AC9E1LA08-1440-native-4.png",
+      "bytes": 99766,
+      "sha256": "f6decd68c2c85a003a10c6e6cfd40e0897e9326bcd463b86986c812b947a122e",
+      "dimensions": [
+        1042,
+        363
+      ],
+      "individually_opened": true,
+      "result": "PASS",
+      "observation": "Flower/leaf/stem leaders terminate on intended parts.",
+      "initial_sha256": "f6decd68c2c85a003a10c6e6cfd40e0897e9326bcd463b86986c812b947a122e",
+      "basis": "Previously individually inspected capture is byte-identical"
+    },
+    {
+      "file": "AC9E1LA08-1440-native-5.png",
+      "bytes": 97777,
+      "sha256": "413417164454b415a334c7a707138ac44f19d71bb81b05cc05ca2b297fdf333a",
+      "dimensions": [
+        1042,
+        311
+      ],
+      "individually_opened": true,
+      "result": "PASS",
+      "observation": "First seed, Next sprout, Last flowering plant show order without supplied elapsed time.",
+      "initial_sha256": "413417164454b415a334c7a707138ac44f19d71bb81b05cc05ca2b297fdf333a",
+      "basis": "Previously individually inspected capture is byte-identical"
+    },
+    {
+      "file": "AC9E1LA08-1440-native-6.png",
+      "bytes": 44088,
+      "sha256": "4a158e7eb41a79f5b5b1d8430ba8226d49a650cc37b1463baee648266a31d08c",
+      "dimensions": [
+        504,
+        210
+      ],
+      "individually_opened": true,
+      "result": "PASS",
+      "observation": "Three actual duck pictures and distinct headings show contrasting text jobs.",
+      "initial_sha256": "4a158e7eb41a79f5b5b1d8430ba8226d49a650cc37b1463baee648266a31d08c",
+      "basis": "Previously individually inspected capture is byte-identical"
+    },
+    {
+      "file": "AC9E1LA08-1440-native-7.png",
+      "bytes": 18387,
+      "sha256": "3a3b62e0e7d8a2025b9bd4e5c5a512f15be7784f9fd483c68e70e90793f0ef4d",
+      "dimensions": [
+        745,
+        375
+      ],
+      "individually_opened": true,
+      "result": "PASS",
+      "observation": "Actual left arrowhead now visibly points left; right arrow points right. Both complete signs, labels and caption agree; no clipping or overlap.",
+      "initial_sha256": "27d9728697b2afcadc97745380ec78f74d62e1f664c9d337b5740710ff48b84f",
+      "basis": "Corrected replacement hosted PNG individually opened"
+    },
+    {
+      "file": "AC9E1LA08-1440-native-8.png",
+      "bytes": 54517,
+      "sha256": "ee3d42e7960d0d48df6e8bc696e277692a0137266ef80eb458aba624374420f4",
+      "dimensions": [
+        745,
+        241
+      ],
+      "individually_opened": true,
+      "result": "PASS",
+      "observation": "Retained careful/cartoon comparison visibly supports shape/scarf/smile comparison.",
+      "initial_sha256": "ee3d42e7960d0d48df6e8bc696e277692a0137266ef80eb458aba624374420f4",
+      "basis": "Previously individually inspected capture is byte-identical"
+    },
+    {
+      "file": "AC9E1LA08-1440-native-9.png",
+      "bytes": 391632,
+      "sha256": "e095c011e4aa65024a6d3ee05aa16020d812aa4a6fd348180b4d7f3424488ead",
+      "dimensions": [
+        745,
+        511
+      ],
+      "individually_opened": true,
+      "result": "PASS",
+      "observation": "Retained actual kitten under chair contradicts empty-room story words.",
+      "initial_sha256": "e095c011e4aa65024a6d3ee05aa16020d812aa4a6fd348180b4d7f3424488ead",
+      "basis": "Previously individually inspected capture is byte-identical"
+    },
+    {
+      "file": "AC9E1LA08-1440-native-10.png",
+      "bytes": 74025,
+      "sha256": "cd55177f864f20f5bd49c41bed85ca050b40937f2b4776afec654335605c7ba3",
+      "dimensions": [
+        745,
+        314
+      ],
+      "individually_opened": true,
+      "result": "PASS",
+      "observation": "Retained flower leaders and all three labels are readable and correct.",
+      "initial_sha256": "cd55177f864f20f5bd49c41bed85ca050b40937f2b4776afec654335605c7ba3",
+      "basis": "Previously individually inspected capture is byte-identical"
+    },
+    {
+      "file": "AC9E1LA08-1440-native-11.png",
+      "bytes": 55723,
+      "sha256": "1b17680ff50402fa93b04b34ae7c890311fb2af755d8846f1ff010d063af10de",
+      "dimensions": [
+        745,
+        228
+      ],
+      "individually_opened": true,
+      "result": "PASS",
+      "observation": "Retained plant sequence ordering and changing stages visible.",
+      "initial_sha256": "1b17680ff50402fa93b04b34ae7c890311fb2af755d8846f1ff010d063af10de",
+      "basis": "Previously individually inspected capture is byte-identical"
+    },
+    {
+      "file": "AC9E1LA08-1440-native-12.png",
+      "bytes": 75810,
+      "sha256": "2954e2520cfaa5429e3a958f3c160393aa994b3c6291c1343762cae899890809",
+      "dimensions": [
+        745,
+        234
+      ],
+      "individually_opened": true,
+      "result": "PASS",
+      "observation": "Retained three picture jobs preserve actual drawings and headings.",
+      "initial_sha256": "2954e2520cfaa5429e3a958f3c160393aa994b3c6291c1343762cae899890809",
+      "basis": "Previously individually inspected capture is byte-identical"
+    },
+    {
+      "file": "AC9E1LA08-1440-native-13.png",
+      "bytes": 16324,
+      "sha256": "899e4da7174b66fabd15f683eee05a3e447101761ed7cfb76facf38be279a3c1",
+      "dimensions": [
+        745,
+        338
+      ],
+      "individually_opened": true,
+      "result": "PASS",
+      "observation": "Actual left arrowhead now visibly points left; right arrow points right. Both complete signs, labels and caption agree; no clipping or overlap.",
+      "initial_sha256": "f0adc9c2cd1ed677295f3067bdf5b2bb0c3b041ff8a97b117d928a6c32e0cc45",
+      "basis": "Corrected replacement hosted PNG individually opened"
+    },
+    {
+      "file": "AC9E1LA08-1440-retained-1.png",
+      "bytes": 12202,
+      "sha256": "e84b86ac61032690b32ea48a796229d7c1478f14fe6fcf2574dd812ca2c1dcdd",
+      "dimensions": [
+        720,
+        297
+      ],
+      "individually_opened": true,
+      "result": "PASS",
+      "observation": "Earlier retained inline SVG correctly shows left and right arrows.",
+      "initial_sha256": "e84b86ac61032690b32ea48a796229d7c1478f14fe6fcf2574dd812ca2c1dcdd",
+      "basis": "Previously individually inspected capture is byte-identical"
+    },
+    {
+      "file": "AC9E1LA09-1440-native-1.png",
+      "bytes": 13171,
+      "sha256": "3395ff6d9f3ba01c255f2ae745eb7b015cb68d853277f9bfdbd9ff601595afb6",
+      "dimensions": [
+        1042,
+        86
+      ],
+      "individually_opened": true,
+      "result": "PASS",
+      "observation": "Plant words, observe definition and meaningful use are readable.",
+      "initial_sha256": "3395ff6d9f3ba01c255f2ae745eb7b015cb68d853277f9bfdbd9ff601595afb6",
+      "basis": "Previously individually inspected capture is byte-identical"
+    },
+    {
+      "file": "AC9E1LA09-1440-native-2.png",
+      "bytes": 494677,
+      "sha256": "0d8d01882ccc9e3c2c15b6b7ea4231267c2b5d4bec9722f8308ce600d19b4ac9",
+      "dimensions": [
+        745,
+        554
+      ],
+      "individually_opened": true,
+      "result": "PASS",
+      "observation": "Actual cutaway roots, stem, leaves and potted plant support pointing task.",
+      "initial_sha256": "0d8d01882ccc9e3c2c15b6b7ea4231267c2b5d4bec9722f8308ce600d19b4ac9",
+      "basis": "Previously individually inspected capture is byte-identical"
+    },
+    {
+      "file": "AC9E1LA09-1440-native-3.png",
+      "bytes": 19027,
+      "sha256": "112c237353f0d6892cda9c560f871759358cdcf13020d162bf955108e26862f1",
+      "dimensions": [
+        745,
+        369
+      ],
+      "individually_opened": true,
+      "result": "PASS",
+      "observation": "Weather/rain/sentence model correctly connects topic and use.",
+      "initial_sha256": "112c237353f0d6892cda9c560f871759358cdcf13020d162bf955108e26862f1",
+      "basis": "Previously individually inspected capture is byte-identical"
+    },
+    {
+      "file": "AC9E1LA09-1440-retained-1.png",
+      "bytes": 10607,
+      "sha256": "56164d85762c2375279abefe8f7fa47aa1f546fd2175bb36822f85999fa01654",
+      "dimensions": [
+        720,
+        297
+      ],
+      "individually_opened": true,
+      "result": "PASS",
+      "observation": "Schematic stem/leaf/root and rectangle corner/side label intended features.",
+      "initial_sha256": "56164d85762c2375279abefe8f7fa47aa1f546fd2175bb36822f85999fa01654",
+      "basis": "Previously individually inspected capture is byte-identical"
+    },
+    {
+      "file": "AC9E1LA10-1440-native-1.png",
+      "bytes": 12340,
+      "sha256": "be6a85f01ecf4c8fe2b274a043ff728a7f033b9ec63f7c054a6fbce619c185f6",
+      "dimensions": [
+        1042,
+        85
+      ],
+      "individually_opened": true,
+      "result": "PASS",
+      "observation": "Named people, statement/question and final punctuation visible.",
+      "initial_sha256": "be6a85f01ecf4c8fe2b274a043ff728a7f033b9ec63f7c054a6fbce619c185f6",
+      "basis": "Previously individually inspected capture is byte-identical"
+    },
+    {
+      "file": "AC9E1LA10-1440-native-2.png",
+      "bytes": 33631,
+      "sha256": "c9946a95b4c5a1c5f2cb702fdfe5d286ed220a5a566f712b56784226cadbb6ff",
+      "dimensions": [
+        745,
+        392
+      ],
+      "individually_opened": true,
+      "result": "PASS",
+      "observation": "Telling, asking and strong-reaction models carry correct end marks.",
+      "initial_sha256": "c9946a95b4c5a1c5f2cb702fdfe5d286ed220a5a566f712b56784226cadbb6ff",
+      "basis": "Previously individually inspected capture is byte-identical"
+    },
+    {
+      "file": "AC9E1LA10-1440-retained-1.png",
+      "bytes": 18975,
+      "sha256": "566ef6ba6aedb261b75b4c2158aae5aaeb72b6e9acc3c2fe99d074dc688b2503",
+      "dimensions": [
+        720,
+        297
+      ],
+      "individually_opened": true,
+      "result": "PASS",
+      "observation": "Two complete statements visibly terminate in full stops.",
+      "initial_sha256": "566ef6ba6aedb261b75b4c2158aae5aaeb72b6e9acc3c2fe99d074dc688b2503",
+      "basis": "Previously individually inspected capture is byte-identical"
+    }
+  ],
+  "all_png_identities": [
+    {
+      "file": "AC9E1LA01-1440-lesson.png",
+      "bytes": 251260,
+      "sha256": "64ea7164d1478cdfb893d5c496cd5eff4be1a972145a3e81dedc2a084143d077"
+    },
+    {
+      "file": "AC9E1LA01-1440-native-1.png",
+      "bytes": 12682,
+      "sha256": "2190975850b22e1e066a785329b99fe720a4529a4c40610f2b26100805bcb341"
+    },
+    {
+      "file": "AC9E1LA01-1440-native-2.png",
+      "bytes": 38169,
+      "sha256": "34e7a0e7f192e4ad59403e836bdb3ab8af45dd1dff42290ff15818f653810f16"
+    },
+    {
+      "file": "AC9E1LA01-1440-retained-1.png",
+      "bytes": 14670,
+      "sha256": "2dcabd7f26fa1d755084a8740b7094a1ecbe68c55f1fbe79f6cb36193e37ce04"
+    },
+    {
+      "file": "AC9E1LA01-1440-top.png",
+      "bytes": 180802,
+      "sha256": "0ddddf143359593ddb463a85e0eb903d36150b611f6118da0db2a8592c172d63"
+    },
+    {
+      "file": "AC9E1LA01-390-lesson.png",
+      "bytes": 106969,
+      "sha256": "d20828392ef024352610f0a888dd51d937f0b53a5355086a103be631ecad5229"
+    },
+    {
+      "file": "AC9E1LA01-390-top.png",
+      "bytes": 81665,
+      "sha256": "c8fe5fb3beb52c75011fba379a9a8fdf5a8b73cf1a9a35857e2740e25c6d9152"
+    },
+    {
+      "file": "AC9E1LA01-768-lesson.png",
+      "bytes": 165164,
+      "sha256": "dcf5aaf8a667db5fa924378c397215182fb6f96bd5669feb9c189528198eeed1"
+    },
+    {
+      "file": "AC9E1LA01-768-top.png",
+      "bytes": 124813,
+      "sha256": "7b5464ac5859c36dd107cf34c45fdca01b51fc1f32b822addef1366550f46314"
+    },
+    {
+      "file": "AC9E1LA02-1440-lesson.png",
+      "bytes": 227752,
+      "sha256": "e28fc7f2f219db44492f94204ad56b31773380996ad8cca8a26e90ffdf20d416"
+    },
+    {
+      "file": "AC9E1LA02-1440-native-1.png",
+      "bytes": 10330,
+      "sha256": "ed3fd836f5d2f4a570183eca3449245df06f2aec4a62b51b3d5b30a52fb33c57"
+    },
+    {
+      "file": "AC9E1LA02-1440-native-2.png",
+      "bytes": 27084,
+      "sha256": "e7273b00c27ff4de1a6b234f6177ea46c4355798bdee427e479a53af92f314bd"
+    },
+    {
+      "file": "AC9E1LA02-1440-retained-1.png",
+      "bytes": 16261,
+      "sha256": "4abde6f13abb660da7d228d62e2aaaad50cbe08014382e35149fbdace9036b9e"
+    },
+    {
+      "file": "AC9E1LA02-1440-top.png",
+      "bytes": 155547,
+      "sha256": "9f4d0435cceb361a20ab4e32913292b59189ed2a16b29b94ccc0003073d6f975"
+    },
+    {
+      "file": "AC9E1LA02-390-lesson.png",
+      "bytes": 97009,
+      "sha256": "ac155f22356de4130a617bc620e2e6ef00709d2d9af8e41b2c8265b6da9a5b7d"
+    },
+    {
+      "file": "AC9E1LA02-390-top.png",
+      "bytes": 83574,
+      "sha256": "6f405d6667c4c94cdb69f03869ef1f85d494d5cca29bc2819f6a92562749468c"
+    },
+    {
+      "file": "AC9E1LA02-768-lesson.png",
+      "bytes": 155744,
+      "sha256": "65d495c1377a15a67feb5afb65519b160d741e50667cc528c0aadeb0f947a5dd"
+    },
+    {
+      "file": "AC9E1LA02-768-top.png",
+      "bytes": 120525,
+      "sha256": "f043fa862e19a72a7134669cbb618e765f2c00b2076e2bf85ac259d01de2e973"
+    },
+    {
+      "file": "AC9E1LA03-1440-lesson.png",
+      "bytes": 251315,
+      "sha256": "9741c3c9c7d2b3ad454f13576fed2c3544fee6db64dac1e8d46e86112da6de86"
+    },
+    {
+      "file": "AC9E1LA03-1440-native-1.png",
+      "bytes": 12070,
+      "sha256": "82da2ef5f3c3cc18312794570405cac3e3356d09f36446ee50a3488850e58bb8"
+    },
+    {
+      "file": "AC9E1LA03-1440-native-2.png",
+      "bytes": 29173,
+      "sha256": "e927173fd4d159f98ba89fbffbe187eeeb8683488a18f4da798db6a5455510fe"
+    },
+    {
+      "file": "AC9E1LA03-1440-retained-1.png",
+      "bytes": 21588,
+      "sha256": "ec8ccc37467e9cf42a94785c5320e34ebd4c2100a6673dddd9d17d4b93494181"
+    },
+    {
+      "file": "AC9E1LA03-1440-top.png",
+      "bytes": 187378,
+      "sha256": "f9058f01b6600154216fce7ade48b779bdbb30da9002279de2d8e9ca573fdd88"
+    },
+    {
+      "file": "AC9E1LA03-390-lesson.png",
+      "bytes": 107463,
+      "sha256": "9af1552dee68747030a434efdcab37ec36b9cec5d9c83c6f6ea5576d7cd6c27d"
+    },
+    {
+      "file": "AC9E1LA03-390-top.png",
+      "bytes": 88928,
+      "sha256": "c82b767ac200614859ae3783df22f3815a8be784654ac57b90d0d14e55c326e5"
+    },
+    {
+      "file": "AC9E1LA03-768-lesson.png",
+      "bytes": 164333,
+      "sha256": "d0aa936e69d55886732a30854e8218ed03de9d3cb5db83d9c669d6d34337df4c"
+    },
+    {
+      "file": "AC9E1LA03-768-top.png",
+      "bytes": 133971,
+      "sha256": "c7302960d8f7e7ccc961ab8846a1c88b3b3729818ad65aabb2ecaa243200333c"
+    },
+    {
+      "file": "AC9E1LA04-1440-lesson.png",
+      "bytes": 228145,
+      "sha256": "374432fd7cae47b403f970b9aea6cf74c856396aea3f6ceb0430dbff083f866d"
+    },
+    {
+      "file": "AC9E1LA04-1440-native-1.png",
+      "bytes": 17499,
+      "sha256": "464a49d9479825b063b888bfddf7bcaceb68d54b4b93041e0084debc594ac3a4"
+    },
+    {
+      "file": "AC9E1LA04-1440-native-2.png",
+      "bytes": 22118,
+      "sha256": "647d297fae9554e3dc8c9ab3da6653b36fc264ea80d84389f861c149a16b82d4"
+    },
+    {
+      "file": "AC9E1LA04-1440-retained-1.png",
+      "bytes": 20706,
+      "sha256": "59207572cd3dc6ae4b5c5ea117651182a66fea5ff1e4265156eb2952c1a7d0ab"
+    },
+    {
+      "file": "AC9E1LA04-1440-top.png",
+      "bytes": 166953,
+      "sha256": "d48695cba5375967c9393fc70dccd9bf3e4b050801d6452d3d8ff72b73f0a3b0"
+    },
+    {
+      "file": "AC9E1LA04-390-lesson.png",
+      "bytes": 97457,
+      "sha256": "d5a2f20ae8421402b7d48998d9c58f685dcc9d6575010762c825e4b11159c9d6"
+    },
+    {
+      "file": "AC9E1LA04-390-top.png",
+      "bytes": 75806,
+      "sha256": "39c2a58131e307c5409a4265a925908a8216d65b6a92b8e8f1ba14655fbb31ec"
+    },
+    {
+      "file": "AC9E1LA04-768-lesson.png",
+      "bytes": 159613,
+      "sha256": "062a5999a67f07a916e729df688626ce766c8ab226e0bce1ac6d5ee4ca38ea03"
+    },
+    {
+      "file": "AC9E1LA04-768-top.png",
+      "bytes": 121082,
+      "sha256": "492f7373f5ae5d4d6be0f1fc874c3029d9b2ca85d559775dee5a62472bbf1d7a"
+    },
+    {
+      "file": "AC9E1LA05-1440-lesson.png",
+      "bytes": 243890,
+      "sha256": "11b50b152f4143840a3fe57e16f9bca0f1954ce128fe7c7ceea808dc450d3031"
+    },
+    {
+      "file": "AC9E1LA05-1440-native-1.png",
+      "bytes": 12542,
+      "sha256": "24d8e2b34d1a556b9a4fe60b9d9a8b5e8a96264e1004d9fe0e1b472f7927fd99"
+    },
+    {
+      "file": "AC9E1LA05-1440-native-2.png",
+      "bytes": 61664,
+      "sha256": "b1f4832e6c6533adfe9ebac07398f8753b7fa1c2fd239bac325f3abc28769a95"
+    },
+    {
+      "file": "AC9E1LA05-1440-native-3.png",
+      "bytes": 26033,
+      "sha256": "7b2a78685226ac71fe150bc4f35deab322b58c1ba5efcba9a02fe025ad839515"
+    },
+    {
+      "file": "AC9E1LA05-1440-retained-1.png",
+      "bytes": 20295,
+      "sha256": "6d7b24274e7a8f188f5fa9b6e66e7e262c1903ad415062b72b8df0494e0e506e"
+    },
+    {
+      "file": "AC9E1LA05-1440-top.png",
+      "bytes": 178870,
+      "sha256": "83f2b1a4c72e53ab9cd1dcf77a385cc25c8e0965be613e346887b3e8c9157550"
+    },
+    {
+      "file": "AC9E1LA05-390-lesson.png",
+      "bytes": 108486,
+      "sha256": "b734e35f5b11d7c02ca196a39bd3b39bc54185309f8e046cad9f5482fa98bf79"
+    },
+    {
+      "file": "AC9E1LA05-390-top.png",
+      "bytes": 83273,
+      "sha256": "38381cda68452002b3e0afd308602c344a84dbbde4efbeb734db53ee23647e05"
+    },
+    {
+      "file": "AC9E1LA05-768-lesson.png",
+      "bytes": 172680,
+      "sha256": "4c66d2bb6c0f1a989ea843da008486c208514f8e8992e3030b7d7ee3a2f02740"
+    },
+    {
+      "file": "AC9E1LA05-768-top.png",
+      "bytes": 129529,
+      "sha256": "db5a9913a66ed0bcfcbfce550dee129b1fd959a92136cb93b16acedb657ee598"
+    },
+    {
+      "file": "AC9E1LA06-1440-lesson.png",
+      "bytes": 238460,
+      "sha256": "de6995a9163bae05fdbcfcc8eed8af437650104066280f407416e668c590c33e"
+    },
+    {
+      "file": "AC9E1LA06-1440-native-1.png",
+      "bytes": 12845,
+      "sha256": "6c8ca17b8f2f15d5964b7a8819c29c86c78ae832e9a4772df5244162b9b722ac"
+    },
+    {
+      "file": "AC9E1LA06-1440-native-2.png",
+      "bytes": 21293,
+      "sha256": "986ac54f41f90a0136c32edb865fdc2b69e9c58f2aa2b620712ce4961f2ec858"
+    },
+    {
+      "file": "AC9E1LA06-1440-retained-1.png",
+      "bytes": 19039,
+      "sha256": "ff4c3276837f218218432aa86a52ce09dbe99278f960f562a969dec04bf79e94"
+    },
+    {
+      "file": "AC9E1LA06-1440-top.png",
+      "bytes": 170507,
+      "sha256": "57cccd513ff7bf34f8a9099c315584d4d265d9671bdcabc9d7b722d4ef4a56ab"
+    },
+    {
+      "file": "AC9E1LA06-390-lesson.png",
+      "bytes": 99006,
+      "sha256": "c93e86afc34e6c3a6d03d387d5051294b0aaf4b644f38b2e026aaf61f300e811"
+    },
+    {
+      "file": "AC9E1LA06-390-top.png",
+      "bytes": 72784,
+      "sha256": "cfe87c8d73eea15e58cdaa8d30f18b8a1b778d2ef6753f4498df100b767abcab"
+    },
+    {
+      "file": "AC9E1LA06-768-lesson.png",
+      "bytes": 158579,
+      "sha256": "748248a67cf220741d8ef54fc1fd856ca6aa39ca2caf865c0aa1b1ee4ef7f88f"
+    },
+    {
+      "file": "AC9E1LA06-768-top.png",
+      "bytes": 117110,
+      "sha256": "38782c2b28e1e54826cc3ac3350bbe1ffc2d19a49ba03aa412380c27fd5d4c9b"
+    },
+    {
+      "file": "AC9E1LA07-1440-lesson.png",
+      "bytes": 231995,
+      "sha256": "4d5b6789dc995bee6f6af58b04c2798493a1fbfd4941df5023a82fb1458feedc"
+    },
+    {
+      "file": "AC9E1LA07-1440-native-1.png",
+      "bytes": 17699,
+      "sha256": "a3cd7bc7857d5e0138acde82482254568b9565c2fff4590c7e7f79da7119d1cb"
+    },
+    {
+      "file": "AC9E1LA07-1440-native-2.png",
+      "bytes": 22808,
+      "sha256": "a22c05fccc083cdb1b4471c8f4463e526cc908984c5e1785d00fcfce2e06c620"
+    },
+    {
+      "file": "AC9E1LA07-1440-retained-1.png",
+      "bytes": 17528,
+      "sha256": "1f569e652635182905251792f8bb54808b0eeaab4004290de422e2d11ddc3494"
+    },
+    {
+      "file": "AC9E1LA07-1440-top.png",
+      "bytes": 166910,
+      "sha256": "2e8d4d6a76e9a69d2d77853fe0fb43ea4c2b4e9a295f856a9a8dfb1234d2f9a3"
+    },
+    {
+      "file": "AC9E1LA07-390-lesson.png",
+      "bytes": 93742,
+      "sha256": "557ba67e709377417703b5467274cbc0555994c3b85051a31604db721ae8f52d"
+    },
+    {
+      "file": "AC9E1LA07-390-top.png",
+      "bytes": 73812,
+      "sha256": "4fa31c1fb07b2d7111bb9c8fd62560273ed3ba60b17c243e85fa8d673a953b6d"
+    },
+    {
+      "file": "AC9E1LA07-768-lesson.png",
+      "bytes": 157738,
+      "sha256": "3ec64f59ff5447cdb6469b6c1b30e439f9ed816f027d92dfe81f3e163e2cfa06"
+    },
+    {
+      "file": "AC9E1LA07-768-top.png",
+      "bytes": 127071,
+      "sha256": "fe925df13b60b75be32fafdddc98e901e00220a6e4f9c5704027936001e6b0b0"
+    },
+    {
+      "file": "AC9E1LA08-1440-lesson.png",
+      "bytes": 509586,
+      "sha256": "1ea60e7bdc54b008d38a75b5b5e2c4413077917c0ee51f245aa66539f8632ed6"
+    },
+    {
+      "file": "AC9E1LA08-1440-native-1.png",
+      "bytes": 100374,
+      "sha256": "6e3a244c36cf0d64a92e6c2761044f2b1c4abc865b5b473b9da40324b28ef3fc"
+    },
+    {
+      "file": "AC9E1LA08-1440-native-10.png",
+      "bytes": 74025,
+      "sha256": "cd55177f864f20f5bd49c41bed85ca050b40937f2b4776afec654335605c7ba3"
+    },
+    {
+      "file": "AC9E1LA08-1440-native-11.png",
+      "bytes": 55723,
+      "sha256": "1b17680ff50402fa93b04b34ae7c890311fb2af755d8846f1ff010d063af10de"
+    },
+    {
+      "file": "AC9E1LA08-1440-native-12.png",
+      "bytes": 75810,
+      "sha256": "2954e2520cfaa5429e3a958f3c160393aa994b3c6291c1343762cae899890809"
+    },
+    {
+      "file": "AC9E1LA08-1440-native-13.png",
+      "bytes": 16324,
+      "sha256": "899e4da7174b66fabd15f683eee05a3e447101761ed7cfb76facf38be279a3c1"
+    },
+    {
+      "file": "AC9E1LA08-1440-native-2.png",
+      "bytes": 99082,
+      "sha256": "c00973796f0df3b7eca1868ac7b591a802c8820c48a12cd91389281b1cf55f93"
+    },
+    {
+      "file": "AC9E1LA08-1440-native-3.png",
+      "bytes": 414511,
+      "sha256": "f034030f8065f06c441fe6105409e16574d0fa8b4570f4d93fabd09d3253845b"
+    },
+    {
+      "file": "AC9E1LA08-1440-native-4.png",
+      "bytes": 99766,
+      "sha256": "f6decd68c2c85a003a10c6e6cfd40e0897e9326bcd463b86986c812b947a122e"
+    },
+    {
+      "file": "AC9E1LA08-1440-native-5.png",
+      "bytes": 97777,
+      "sha256": "413417164454b415a334c7a707138ac44f19d71bb81b05cc05ca2b297fdf333a"
+    },
+    {
+      "file": "AC9E1LA08-1440-native-6.png",
+      "bytes": 44088,
+      "sha256": "4a158e7eb41a79f5b5b1d8430ba8226d49a650cc37b1463baee648266a31d08c"
+    },
+    {
+      "file": "AC9E1LA08-1440-native-7.png",
+      "bytes": 18387,
+      "sha256": "3a3b62e0e7d8a2025b9bd4e5c5a512f15be7784f9fd483c68e70e90793f0ef4d"
+    },
+    {
+      "file": "AC9E1LA08-1440-native-8.png",
+      "bytes": 54517,
+      "sha256": "ee3d42e7960d0d48df6e8bc696e277692a0137266ef80eb458aba624374420f4"
+    },
+    {
+      "file": "AC9E1LA08-1440-native-9.png",
+      "bytes": 391632,
+      "sha256": "e095c011e4aa65024a6d3ee05aa16020d812aa4a6fd348180b4d7f3424488ead"
+    },
+    {
+      "file": "AC9E1LA08-1440-retained-1.png",
+      "bytes": 12202,
+      "sha256": "e84b86ac61032690b32ea48a796229d7c1478f14fe6fcf2574dd812ca2c1dcdd"
+    },
+    {
+      "file": "AC9E1LA08-1440-top.png",
+      "bytes": 191669,
+      "sha256": "88854ecb3e9731b72b9b53f3ba87909c7e39452f060ae4f7aadeb9c04125f36c"
+    },
+    {
+      "file": "AC9E1LA08-390-lesson.png",
+      "bytes": 155333,
+      "sha256": "5318f2e017aa9cab420bdaaa42abe58653af57beaeccb28e6c7c4224bbeb1671"
+    },
+    {
+      "file": "AC9E1LA08-390-top.png",
+      "bytes": 83948,
+      "sha256": "e402c179d7517f1af5fcbd0271dce3fa486ac3c8f4347cb29681820d1860cf3f"
+    },
+    {
+      "file": "AC9E1LA08-768-lesson.png",
+      "bytes": 473144,
+      "sha256": "bb038af4e77e9f5dbea18f6c36f26f8327d20df5b757f642c6078555634a4de2"
+    },
+    {
+      "file": "AC9E1LA08-768-top.png",
+      "bytes": 147335,
+      "sha256": "4e3b991859ba55c6ebc05f93000ab30a75034f38e70ac3bc0d276d225c66924c"
+    },
+    {
+      "file": "AC9E1LA09-1440-lesson.png",
+      "bytes": 239797,
+      "sha256": "0422bad9207888532cd8714501e210231e53656618fa378961fa85a764d240b5"
+    },
+    {
+      "file": "AC9E1LA09-1440-native-1.png",
+      "bytes": 13171,
+      "sha256": "3395ff6d9f3ba01c255f2ae745eb7b015cb68d853277f9bfdbd9ff601595afb6"
+    },
+    {
+      "file": "AC9E1LA09-1440-native-2.png",
+      "bytes": 494677,
+      "sha256": "0d8d01882ccc9e3c2c15b6b7ea4231267c2b5d4bec9722f8308ce600d19b4ac9"
+    },
+    {
+      "file": "AC9E1LA09-1440-native-3.png",
+      "bytes": 19027,
+      "sha256": "112c237353f0d6892cda9c560f871759358cdcf13020d162bf955108e26862f1"
+    },
+    {
+      "file": "AC9E1LA09-1440-retained-1.png",
+      "bytes": 10607,
+      "sha256": "56164d85762c2375279abefe8f7fa47aa1f546fd2175bb36822f85999fa01654"
+    },
+    {
+      "file": "AC9E1LA09-1440-top.png",
+      "bytes": 176202,
+      "sha256": "2f45e3d69613c8ea849f1aa16a5dfa5f9a108db0b8f3549382a4565417a68a9b"
+    },
+    {
+      "file": "AC9E1LA09-390-lesson.png",
+      "bytes": 101113,
+      "sha256": "fd77b411942c89f9afc7354ba8b08094e2e1edc3ce907ed34f62d8c924775d9f"
+    },
+    {
+      "file": "AC9E1LA09-390-top.png",
+      "bytes": 84575,
+      "sha256": "d69b7ab1a2f164565cc69b85bb1191839e2a287e14c8893f6a188f512d21bb1c"
+    },
+    {
+      "file": "AC9E1LA09-768-lesson.png",
+      "bytes": 160386,
+      "sha256": "1f90fdcbfa1571a7a27f6b71ca37e99a38764aaaf31d24bd5fba7473a2a65fbd"
+    },
+    {
+      "file": "AC9E1LA09-768-top.png",
+      "bytes": 125381,
+      "sha256": "a7d6027c466ca785b6548b91d5ce6d09f52f6ad966c97672d67a8ac124068eb1"
+    },
+    {
+      "file": "AC9E1LA10-1440-lesson.png",
+      "bytes": 238855,
+      "sha256": "47ecb627328f3415f08e9e2df3834477da2ec5bd7e2f3ce2e4118e13ac234e12"
+    },
+    {
+      "file": "AC9E1LA10-1440-native-1.png",
+      "bytes": 12340,
+      "sha256": "be6a85f01ecf4c8fe2b274a043ff728a7f033b9ec63f7c054a6fbce619c185f6"
+    },
+    {
+      "file": "AC9E1LA10-1440-native-2.png",
+      "bytes": 33631,
+      "sha256": "c9946a95b4c5a1c5f2cb702fdfe5d286ed220a5a566f712b56784226cadbb6ff"
+    },
+    {
+      "file": "AC9E1LA10-1440-retained-1.png",
+      "bytes": 18975,
+      "sha256": "566ef6ba6aedb261b75b4c2158aae5aaeb72b6e9acc3c2fe99d074dc688b2503"
+    },
+    {
+      "file": "AC9E1LA10-1440-top.png",
+      "bytes": 174709,
+      "sha256": "9e3c8dc932cac6dc0f9a0d5c37e3f536dbd559958fa9dd25a1370b7f9fde3cf8"
+    },
+    {
+      "file": "AC9E1LA10-390-lesson.png",
+      "bytes": 102805,
+      "sha256": "36453a6d8728716afc02693c09acb6e29700d0fad74b3eb48a6d722a87266aed"
+    },
+    {
+      "file": "AC9E1LA10-390-top.png",
+      "bytes": 74551,
+      "sha256": "af90293626ee31967a49634196c8bb77cbe07697e64b7c0c506f1b825b69a1bc"
+    },
+    {
+      "file": "AC9E1LA10-768-lesson.png",
+      "bytes": 161241,
+      "sha256": "b2f92bdd359aa34e7034f3d38402473e30152c3f3de46074e04a94533c101cb2"
+    },
+    {
+      "file": "AC9E1LA10-768-top.png",
+      "bytes": 126422,
+      "sha256": "4cb2aed3234a0ef00e486fecc18148a7b191daaa6c1770bc8faa50115f0bc6ff"
+    }
+  ],
+  "dependencies_file": "independent-browser2-dependencies.json",
+  "dependency_count": 50,
+  "source_semantics_identical_to_prior_review": true,
+  "results_verified": {
+    "visits": 30,
+    "viewports": [
+      1440,
+      768,
+      390
+    ],
+    "javascript_disabled": true,
+    "javascript_smoke": 10,
+    "problems": [],
+    "keyboard_answers": true,
+    "keyboard_phone_diagram_pan": true
+  },
+  "open_findings": [],
+  "limits": [
+    "Actual individual model pixels inspected; automation success alone did not establish visual correctness.",
+    "No human, pupil, audio, app marking/login/save or linked-product testing/certification.",
+    "Google Tag Manager request blocked by harness; no external navigation tested.",
+    "All model findings closed on actual hosted replacement pixels. Subsequent ten-page wrapper removal independently verified as body/metadata-preserving; root is handling final hosted rerender."
+  ],
+  "initial_review": {
+    "browser_head": "045a3c1e88594b69525838d93a6659c7989057a4",
+    "run_id": 42711579768,
+    "artifact_id": 13715703931,
+    "zip_sha256": "1a57c32349b6950ecfa667f53a3645f6d59060e9cbb1196710c773ffd78d74c5",
+    "results_sha256": "d046de35152d6bf9304387d0b8040bf41a015492dc6882123d585b0f25eb619a",
+    "findings": [
+      "AC9E1LA08-1440-native-7.png: left sign lacks left arrowhead.",
+      "AC9E1LA08-1440-native-13.png: same worked-model defect."
+    ],
+    "all_png_identities": [
+      {
+        "file": "AC9E1LA01-1440-lesson.png",
+        "bytes": 251260,
+        "sha256": "64ea7164d1478cdfb893d5c496cd5eff4be1a972145a3e81dedc2a084143d077"
+      },
+      {
+        "file": "AC9E1LA01-1440-native-1.png",
+        "bytes": 12682,
+        "sha256": "2190975850b22e1e066a785329b99fe720a4529a4c40610f2b26100805bcb341"
+      },
+      {
+        "file": "AC9E1LA01-1440-native-2.png",
+        "bytes": 38169,
+        "sha256": "34e7a0e7f192e4ad59403e836bdb3ab8af45dd1dff42290ff15818f653810f16"
+      },
+      {
+        "file": "AC9E1LA01-1440-retained-1.png",
+        "bytes": 14670,
+        "sha256": "2dcabd7f26fa1d755084a8740b7094a1ecbe68c55f1fbe79f6cb36193e37ce04"
+      },
+      {
+        "file": "AC9E1LA01-1440-top.png",
+        "bytes": 180802,
+        "sha256": "0ddddf143359593ddb463a85e0eb903d36150b611f6118da0db2a8592c172d63"
+      },
+      {
+        "file": "AC9E1LA01-390-lesson.png",
+        "bytes": 106969,
+        "sha256": "d20828392ef024352610f0a888dd51d937f0b53a5355086a103be631ecad5229"
+      },
+      {
+        "file": "AC9E1LA01-390-top.png",
+        "bytes": 81665,
+        "sha256": "c8fe5fb3beb52c75011fba379a9a8fdf5a8b73cf1a9a35857e2740e25c6d9152"
+      },
+      {
+        "file": "AC9E1LA01-768-lesson.png",
+        "bytes": 165164,
+        "sha256": "dcf5aaf8a667db5fa924378c397215182fb6f96bd5669feb9c189528198eeed1"
+      },
+      {
+        "file": "AC9E1LA01-768-top.png",
+        "bytes": 124813,
+        "sha256": "7b5464ac5859c36dd107cf34c45fdca01b51fc1f32b822addef1366550f46314"
+      },
+      {
+        "file": "AC9E1LA02-1440-lesson.png",
+        "bytes": 227752,
+        "sha256": "e28fc7f2f219db44492f94204ad56b31773380996ad8cca8a26e90ffdf20d416"
+      },
+      {
+        "file": "AC9E1LA02-1440-native-1.png",
+        "bytes": 10330,
+        "sha256": "ed3fd836f5d2f4a570183eca3449245df06f2aec4a62b51b3d5b30a52fb33c57"
+      },
+      {
+        "file": "AC9E1LA02-1440-native-2.png",
+        "bytes": 27084,
+        "sha256": "e7273b00c27ff4de1a6b234f6177ea46c4355798bdee427e479a53af92f314bd"
+      },
+      {
+        "file": "AC9E1LA02-1440-retained-1.png",
+        "bytes": 16261,
+        "sha256": "4abde6f13abb660da7d228d62e2aaaad50cbe08014382e35149fbdace9036b9e"
+      },
+      {
+        "file": "AC9E1LA02-1440-top.png",
+        "bytes": 155547,
+        "sha256": "9f4d0435cceb361a20ab4e32913292b59189ed2a16b29b94ccc0003073d6f975"
+      },
+      {
+        "file": "AC9E1LA02-390-lesson.png",
+        "bytes": 97009,
+        "sha256": "ac155f22356de4130a617bc620e2e6ef00709d2d9af8e41b2c8265b6da9a5b7d"
+      },
+      {
+        "file": "AC9E1LA02-390-top.png",
+        "bytes": 83574,
+        "sha256": "6f405d6667c4c94cdb69f03869ef1f85d494d5cca29bc2819f6a92562749468c"
+      },
+      {
+        "file": "AC9E1LA02-768-lesson.png",
+        "bytes": 155744,
+        "sha256": "65d495c1377a15a67feb5afb65519b160d741e50667cc528c0aadeb0f947a5dd"
+      },
+      {
+        "file": "AC9E1LA02-768-top.png",
+        "bytes": 120525,
+        "sha256": "f043fa862e19a72a7134669cbb618e765f2c00b2076e2bf85ac259d01de2e973"
+      },
+      {
+        "file": "AC9E1LA03-1440-lesson.png",
+        "bytes": 251315,
+        "sha256": "9741c3c9c7d2b3ad454f13576fed2c3544fee6db64dac1e8d46e86112da6de86"
+      },
+      {
+        "file": "AC9E1LA03-1440-native-1.png",
+        "bytes": 12070,
+        "sha256": "82da2ef5f3c3cc18312794570405cac3e3356d09f36446ee50a3488850e58bb8"
+      },
+      {
+        "file": "AC9E1LA03-1440-native-2.png",
+        "bytes": 29173,
+        "sha256": "e927173fd4d159f98ba89fbffbe187eeeb8683488a18f4da798db6a5455510fe"
+      },
+      {
+        "file": "AC9E1LA03-1440-retained-1.png",
+        "bytes": 21588,
+        "sha256": "ec8ccc37467e9cf42a94785c5320e34ebd4c2100a6673dddd9d17d4b93494181"
+      },
+      {
+        "file": "AC9E1LA03-1440-top.png",
+        "bytes": 187378,
+        "sha256": "f9058f01b6600154216fce7ade48b779bdbb30da9002279de2d8e9ca573fdd88"
+      },
+      {
+        "file": "AC9E1LA03-390-lesson.png",
+        "bytes": 107463,
+        "sha256": "9af1552dee68747030a434efdcab37ec36b9cec5d9c83c6f6ea5576d7cd6c27d"
+      },
+      {
+        "file": "AC9E1LA03-390-top.png",
+        "bytes": 88928,
+        "sha256": "c82b767ac200614859ae3783df22f3815a8be784654ac57b90d0d14e55c326e5"
+      },
+      {
+        "file": "AC9E1LA03-768-lesson.png",
+        "bytes": 164333,
+        "sha256": "d0aa936e69d55886732a30854e8218ed03de9d3cb5db83d9c669d6d34337df4c"
+      },
+      {
+        "file": "AC9E1LA03-768-top.png",
+        "bytes": 133971,
+        "sha256": "c7302960d8f7e7ccc961ab8846a1c88b3b3729818ad65aabb2ecaa243200333c"
+      },
+      {
+        "file": "AC9E1LA04-1440-lesson.png",
+        "bytes": 228145,
+        "sha256": "374432fd7cae47b403f970b9aea6cf74c856396aea3f6ceb0430dbff083f866d"
+      },
+      {
+        "file": "AC9E1LA04-1440-native-1.png",
+        "bytes": 17499,
+        "sha256": "464a49d9479825b063b888bfddf7bcaceb68d54b4b93041e0084debc594ac3a4"
+      },
+      {
+        "file": "AC9E1LA04-1440-native-2.png",
+        "bytes": 22118,
+        "sha256": "647d297fae9554e3dc8c9ab3da6653b36fc264ea80d84389f861c149a16b82d4"
+      },
+      {
+        "file": "AC9E1LA04-1440-retained-1.png",
+        "bytes": 20706,
+        "sha256": "59207572cd3dc6ae4b5c5ea117651182a66fea5ff1e4265156eb2952c1a7d0ab"
+      },
+      {
+        "file": "AC9E1LA04-1440-top.png",
+        "bytes": 166953,
+        "sha256": "d48695cba5375967c9393fc70dccd9bf3e4b050801d6452d3d8ff72b73f0a3b0"
+      },
+      {
+        "file": "AC9E1LA04-390-lesson.png",
+        "bytes": 97457,
+        "sha256": "d5a2f20ae8421402b7d48998d9c58f685dcc9d6575010762c825e4b11159c9d6"
+      },
+      {
+        "file": "AC9E1LA04-390-top.png",
+        "bytes": 75806,
+        "sha256": "39c2a58131e307c5409a4265a925908a8216d65b6a92b8e8f1ba14655fbb31ec"
+      },
+      {
+        "file": "AC9E1LA04-768-lesson.png",
+        "bytes": 159613,
+        "sha256": "062a5999a67f07a916e729df688626ce766c8ab226e0bce1ac6d5ee4ca38ea03"
+      },
+      {
+        "file": "AC9E1LA04-768-top.png",
+        "bytes": 121082,
+        "sha256": "492f7373f5ae5d4d6be0f1fc874c3029d9b2ca85d559775dee5a62472bbf1d7a"
+      },
+      {
+        "file": "AC9E1LA05-1440-lesson.png",
+        "bytes": 243890,
+        "sha256": "11b50b152f4143840a3fe57e16f9bca0f1954ce128fe7c7ceea808dc450d3031"
+      },
+      {
+        "file": "AC9E1LA05-1440-native-1.png",
+        "bytes": 12542,
+        "sha256": "24d8e2b34d1a556b9a4fe60b9d9a8b5e8a96264e1004d9fe0e1b472f7927fd99"
+      },
+      {
+        "file": "AC9E1LA05-1440-native-2.png",
+        "bytes": 61664,
+        "sha256": "b1f4832e6c6533adfe9ebac07398f8753b7fa1c2fd239bac325f3abc28769a95"
+      },
+      {
+        "file": "AC9E1LA05-1440-native-3.png",
+        "bytes": 26033,
+        "sha256": "7b2a78685226ac71fe150bc4f35deab322b58c1ba5efcba9a02fe025ad839515"
+      },
+      {
+        "file": "AC9E1LA05-1440-retained-1.png",
+        "bytes": 20295,
+        "sha256": "6d7b24274e7a8f188f5fa9b6e66e7e262c1903ad415062b72b8df0494e0e506e"
+      },
+      {
+        "file": "AC9E1LA05-1440-top.png",
+        "bytes": 178870,
+        "sha256": "83f2b1a4c72e53ab9cd1dcf77a385cc25c8e0965be613e346887b3e8c9157550"
+      },
+      {
+        "file": "AC9E1LA05-390-lesson.png",
+        "bytes": 108486,
+        "sha256": "b734e35f5b11d7c02ca196a39bd3b39bc54185309f8e046cad9f5482fa98bf79"
+      },
+      {
+        "file": "AC9E1LA05-390-top.png",
+        "bytes": 83273,
+        "sha256": "38381cda68452002b3e0afd308602c344a84dbbde4efbeb734db53ee23647e05"
+      },
+      {
+        "file": "AC9E1LA05-768-lesson.png",
+        "bytes": 172680,
+        "sha256": "4c66d2bb6c0f1a989ea843da008486c208514f8e8992e3030b7d7ee3a2f02740"
+      },
+      {
+        "file": "AC9E1LA05-768-top.png",
+        "bytes": 129529,
+        "sha256": "db5a9913a66ed0bcfcbfce550dee129b1fd959a92136cb93b16acedb657ee598"
+      },
+      {
+        "file": "AC9E1LA06-1440-lesson.png",
+        "bytes": 238460,
+        "sha256": "de6995a9163bae05fdbcfcc8eed8af437650104066280f407416e668c590c33e"
+      },
+      {
+        "file": "AC9E1LA06-1440-native-1.png",
+        "bytes": 12845,
+        "sha256": "6c8ca17b8f2f15d5964b7a8819c29c86c78ae832e9a4772df5244162b9b722ac"
+      },
+      {
+        "file": "AC9E1LA06-1440-native-2.png",
+        "bytes": 21293,
+        "sha256": "986ac54f41f90a0136c32edb865fdc2b69e9c58f2aa2b620712ce4961f2ec858"
+      },
+      {
+        "file": "AC9E1LA06-1440-retained-1.png",
+        "bytes": 19039,
+        "sha256": "ff4c3276837f218218432aa86a52ce09dbe99278f960f562a969dec04bf79e94"
+      },
+      {
+        "file": "AC9E1LA06-1440-top.png",
+        "bytes": 170507,
+        "sha256": "57cccd513ff7bf34f8a9099c315584d4d265d9671bdcabc9d7b722d4ef4a56ab"
+      },
+      {
+        "file": "AC9E1LA06-390-lesson.png",
+        "bytes": 99006,
+        "sha256": "c93e86afc34e6c3a6d03d387d5051294b0aaf4b644f38b2e026aaf61f300e811"
+      },
+      {
+        "file": "AC9E1LA06-390-top.png",
+        "bytes": 72784,
+        "sha256": "cfe87c8d73eea15e58cdaa8d30f18b8a1b778d2ef6753f4498df100b767abcab"
+      },
+      {
+        "file": "AC9E1LA06-768-lesson.png",
+        "bytes": 158579,
+        "sha256": "748248a67cf220741d8ef54fc1fd856ca6aa39ca2caf865c0aa1b1ee4ef7f88f"
+      },
+      {
+        "file": "AC9E1LA06-768-top.png",
+        "bytes": 117110,
+        "sha256": "38782c2b28e1e54826cc3ac3350bbe1ffc2d19a49ba03aa412380c27fd5d4c9b"
+      },
+      {
+        "file": "AC9E1LA07-1440-lesson.png",
+        "bytes": 231995,
+        "sha256": "4d5b6789dc995bee6f6af58b04c2798493a1fbfd4941df5023a82fb1458feedc"
+      },
+      {
+        "file": "AC9E1LA07-1440-native-1.png",
+        "bytes": 17699,
+        "sha256": "a3cd7bc7857d5e0138acde82482254568b9565c2fff4590c7e7f79da7119d1cb"
+      },
+      {
+        "file": "AC9E1LA07-1440-native-2.png",
+        "bytes": 22808,
+        "sha256": "a22c05fccc083cdb1b4471c8f4463e526cc908984c5e1785d00fcfce2e06c620"
+      },
+      {
+        "file": "AC9E1LA07-1440-retained-1.png",
+        "bytes": 17528,
+        "sha256": "1f569e652635182905251792f8bb54808b0eeaab4004290de422e2d11ddc3494"
+      },
+      {
+        "file": "AC9E1LA07-1440-top.png",
+        "bytes": 166910,
+        "sha256": "2e8d4d6a76e9a69d2d77853fe0fb43ea4c2b4e9a295f856a9a8dfb1234d2f9a3"
+      },
+      {
+        "file": "AC9E1LA07-390-lesson.png",
+        "bytes": 93742,
+        "sha256": "557ba67e709377417703b5467274cbc0555994c3b85051a31604db721ae8f52d"
+      },
+      {
+        "file": "AC9E1LA07-390-top.png",
+        "bytes": 73812,
+        "sha256": "4fa31c1fb07b2d7111bb9c8fd62560273ed3ba60b17c243e85fa8d673a953b6d"
+      },
+      {
+        "file": "AC9E1LA07-768-lesson.png",
+        "bytes": 157738,
+        "sha256": "3ec64f59ff5447cdb6469b6c1b30e439f9ed816f027d92dfe81f3e163e2cfa06"
+      },
+      {
+        "file": "AC9E1LA07-768-top.png",
+        "bytes": 127071,
+        "sha256": "fe925df13b60b75be32fafdddc98e901e00220a6e4f9c5704027936001e6b0b0"
+      },
+      {
+        "file": "AC9E1LA08-1440-lesson.png",
+        "bytes": 509586,
+        "sha256": "1ea60e7bdc54b008d38a75b5b5e2c4413077917c0ee51f245aa66539f8632ed6"
+      },
+      {
+        "file": "AC9E1LA08-1440-native-1.png",
+        "bytes": 100374,
+        "sha256": "6e3a244c36cf0d64a92e6c2761044f2b1c4abc865b5b473b9da40324b28ef3fc"
+      },
+      {
+        "file": "AC9E1LA08-1440-native-10.png",
+        "bytes": 74025,
+        "sha256": "cd55177f864f20f5bd49c41bed85ca050b40937f2b4776afec654335605c7ba3"
+      },
+      {
+        "file": "AC9E1LA08-1440-native-11.png",
+        "bytes": 55723,
+        "sha256": "1b17680ff50402fa93b04b34ae7c890311fb2af755d8846f1ff010d063af10de"
+      },
+      {
+        "file": "AC9E1LA08-1440-native-12.png",
+        "bytes": 75810,
+        "sha256": "2954e2520cfaa5429e3a958f3c160393aa994b3c6291c1343762cae899890809"
+      },
+      {
+        "file": "AC9E1LA08-1440-native-13.png",
+        "bytes": 16132,
+        "sha256": "f0adc9c2cd1ed677295f3067bdf5b2bb0c3b041ff8a97b117d928a6c32e0cc45"
+      },
+      {
+        "file": "AC9E1LA08-1440-native-2.png",
+        "bytes": 99082,
+        "sha256": "c00973796f0df3b7eca1868ac7b591a802c8820c48a12cd91389281b1cf55f93"
+      },
+      {
+        "file": "AC9E1LA08-1440-native-3.png",
+        "bytes": 414511,
+        "sha256": "f034030f8065f06c441fe6105409e16574d0fa8b4570f4d93fabd09d3253845b"
+      },
+      {
+        "file": "AC9E1LA08-1440-native-4.png",
+        "bytes": 99766,
+        "sha256": "f6decd68c2c85a003a10c6e6cfd40e0897e9326bcd463b86986c812b947a122e"
+      },
+      {
+        "file": "AC9E1LA08-1440-native-5.png",
+        "bytes": 97777,
+        "sha256": "413417164454b415a334c7a707138ac44f19d71bb81b05cc05ca2b297fdf333a"
+      },
+      {
+        "file": "AC9E1LA08-1440-native-6.png",
+        "bytes": 44088,
+        "sha256": "4a158e7eb41a79f5b5b1d8430ba8226d49a650cc37b1463baee648266a31d08c"
+      },
+      {
+        "file": "AC9E1LA08-1440-native-7.png",
+        "bytes": 18024,
+        "sha256": "27d9728697b2afcadc97745380ec78f74d62e1f664c9d337b5740710ff48b84f"
+      },
+      {
+        "file": "AC9E1LA08-1440-native-8.png",
+        "bytes": 54517,
+        "sha256": "ee3d42e7960d0d48df6e8bc696e277692a0137266ef80eb458aba624374420f4"
+      },
+      {
+        "file": "AC9E1LA08-1440-native-9.png",
+        "bytes": 391632,
+        "sha256": "e095c011e4aa65024a6d3ee05aa16020d812aa4a6fd348180b4d7f3424488ead"
+      },
+      {
+        "file": "AC9E1LA08-1440-retained-1.png",
+        "bytes": 12202,
+        "sha256": "e84b86ac61032690b32ea48a796229d7c1478f14fe6fcf2574dd812ca2c1dcdd"
+      },
+      {
+        "file": "AC9E1LA08-1440-top.png",
+        "bytes": 191669,
+        "sha256": "88854ecb3e9731b72b9b53f3ba87909c7e39452f060ae4f7aadeb9c04125f36c"
+      },
+      {
+        "file": "AC9E1LA08-390-lesson.png",
+        "bytes": 155333,
+        "sha256": "5318f2e017aa9cab420bdaaa42abe58653af57beaeccb28e6c7c4224bbeb1671"
+      },
+      {
+        "file": "AC9E1LA08-390-top.png",
+        "bytes": 84095,
+        "sha256": "7c19b552904fe4cee4f44ac732af6899bbe13fe7dcccca8d74e6e909e48cf3db"
+      },
+      {
+        "file": "AC9E1LA08-768-lesson.png",
+        "bytes": 473144,
+        "sha256": "bb038af4e77e9f5dbea18f6c36f26f8327d20df5b757f642c6078555634a4de2"
+      },
+      {
+        "file": "AC9E1LA08-768-top.png",
+        "bytes": 147335,
+        "sha256": "4e3b991859ba55c6ebc05f93000ab30a75034f38e70ac3bc0d276d225c66924c"
+      },
+      {
+        "file": "AC9E1LA09-1440-lesson.png",
+        "bytes": 239797,
+        "sha256": "0422bad9207888532cd8714501e210231e53656618fa378961fa85a764d240b5"
+      },
+      {
+        "file": "AC9E1LA09-1440-native-1.png",
+        "bytes": 13171,
+        "sha256": "3395ff6d9f3ba01c255f2ae745eb7b015cb68d853277f9bfdbd9ff601595afb6"
+      },
+      {
+        "file": "AC9E1LA09-1440-native-2.png",
+        "bytes": 494677,
+        "sha256": "0d8d01882ccc9e3c2c15b6b7ea4231267c2b5d4bec9722f8308ce600d19b4ac9"
+      },
+      {
+        "file": "AC9E1LA09-1440-native-3.png",
+        "bytes": 19027,
+        "sha256": "112c237353f0d6892cda9c560f871759358cdcf13020d162bf955108e26862f1"
+      },
+      {
+        "file": "AC9E1LA09-1440-retained-1.png",
+        "bytes": 10607,
+        "sha256": "56164d85762c2375279abefe8f7fa47aa1f546fd2175bb36822f85999fa01654"
+      },
+      {
+        "file": "AC9E1LA09-1440-top.png",
+        "bytes": 176202,
+        "sha256": "2f45e3d69613c8ea849f1aa16a5dfa5f9a108db0b8f3549382a4565417a68a9b"
+      },
+      {
+        "file": "AC9E1LA09-390-lesson.png",
+        "bytes": 101113,
+        "sha256": "fd77b411942c89f9afc7354ba8b08094e2e1edc3ce907ed34f62d8c924775d9f"
+      },
+      {
+        "file": "AC9E1LA09-390-top.png",
+        "bytes": 84575,
+        "sha256": "d69b7ab1a2f164565cc69b85bb1191839e2a287e14c8893f6a188f512d21bb1c"
+      },
+      {
+        "file": "AC9E1LA09-768-lesson.png",
+        "bytes": 160386,
+        "sha256": "1f90fdcbfa1571a7a27f6b71ca37e99a38764aaaf31d24bd5fba7473a2a65fbd"
+      },
+      {
+        "file": "AC9E1LA09-768-top.png",
+        "bytes": 125381,
+        "sha256": "a7d6027c466ca785b6548b91d5ce6d09f52f6ad966c97672d67a8ac124068eb1"
+      },
+      {
+        "file": "AC9E1LA10-1440-lesson.png",
+        "bytes": 238855,
+        "sha256": "47ecb627328f3415f08e9e2df3834477da2ec5bd7e2f3ce2e4118e13ac234e12"
+      },
+      {
+        "file": "AC9E1LA10-1440-native-1.png",
+        "bytes": 12340,
+        "sha256": "be6a85f01ecf4c8fe2b274a043ff728a7f033b9ec63f7c054a6fbce619c185f6"
+      },
+      {
+        "file": "AC9E1LA10-1440-native-2.png",
+        "bytes": 33631,
+        "sha256": "c9946a95b4c5a1c5f2cb702fdfe5d286ed220a5a566f712b56784226cadbb6ff"
+      },
+      {
+        "file": "AC9E1LA10-1440-retained-1.png",
+        "bytes": 18975,
+        "sha256": "566ef6ba6aedb261b75b4c2158aae5aaeb72b6e9acc3c2fe99d074dc688b2503"
+      },
+      {
+        "file": "AC9E1LA10-1440-top.png",
+        "bytes": 174709,
+        "sha256": "9e3c8dc932cac6dc0f9a0d5c37e3f536dbd559958fa9dd25a1370b7f9fde3cf8"
+      },
+      {
+        "file": "AC9E1LA10-390-lesson.png",
+        "bytes": 102805,
+        "sha256": "36453a6d8728716afc02693c09acb6e29700d0fad74b3eb48a6d722a87266aed"
+      },
+      {
+        "file": "AC9E1LA10-390-top.png",
+        "bytes": 74551,
+        "sha256": "af90293626ee31967a49634196c8bb77cbe07697e64b7c0c506f1b825b69a1bc"
+      },
+      {
+        "file": "AC9E1LA10-768-lesson.png",
+        "bytes": 161241,
+        "sha256": "b2f92bdd359aa34e7034f3d38402473e30152c3f3de46074e04a94533c101cb2"
+      },
+      {
+        "file": "AC9E1LA10-768-top.png",
+        "bytes": 126422,
+        "sha256": "4cb2aed3234a0ef00e486fecc18148a7b191daaa6c1770bc8faa50115f0bc6ff"
+      }
+    ]
+  },
+  "closure": {
+    "targeted_replacement_pngs_individually_opened": 2,
+    "unchanged_model_pngs_byte_identical": 41,
+    "results_byte_identical_to_initial": true,
+    "only_changed_pngs": [
+      "AC9E1LA08-1440-native-7.png",
+      "AC9E1LA08-1440-native-13.png",
+      "AC9E1LA08-390-top.png"
+    ],
+    "source_change": "Only the compound SVG arrow path was split into two paths; labels, dimensions and other geometry exactly preserved.",
+    "root_viewport_scope": "Root reports inspecting all 60 initial viewport captures and changed LA08 phone top; this agent does not claim that separate individual inspection."
+  }
+}

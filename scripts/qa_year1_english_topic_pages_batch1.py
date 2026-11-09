@@ -12,6 +12,7 @@ banks={x['code']:x for x in json.loads((R/'data/app-question-banks.json').read_t
 tracked=set(subprocess.check_output(['git','ls-tree','-r','--name-only',base],cwd=R,text=True).splitlines());sections=fields=disclosures=0
 for x in inv:
  c=x['code'];src=(R/x['path']).read_text();now=html.fromstring(src);old=html.fromstring(subprocess.check_output(['git','show',base+':'+x['path']],cwd=R,text=True))
+ assert len(re.findall(r'<html\b',src))==len(re.findall(r'</html>',src))==1,c+' one document root'
  assert len(now.xpath('//main'))==len(now.xpath('//h1'))==1,c+' main/h1'
  assert c in now.xpath('string(//h1)') and now.xpath('string(//div[@class="hero"]//p[@class="kicker"])')=='YEAR 1 ENGLISH',c+' hero'
  assert len(now.xpath('//script[contains(@src,"/pwa-register.js")]'))==1,c+' shared loader'
