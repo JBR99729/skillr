@@ -1,0 +1,578 @@
+{
+  "scope": "Ten public static Year1English TopicGuides; no live app/linked-product/media/pupil/human certification.",
+  "browser_head": "e8071f86c273a628a70c9693bf588bf4826a5320",
+  "run_id": 42718064111,
+  "artifact_id": 13718772592,
+  "zip_bytes": 14603332,
+  "zip_sha256": "910f7c6ba7fc467b30cfd5eb3f6ec6b64300eab892d78b55988434d4c640c822",
+  "results_sha256": "fc61401b9489234fe7a848f0d57afa5e391880271d89f3c2e6d9a797b2b44f7e",
+  "result_summary": {
+    "pages": 10,
+    "viewports": [
+      1440,
+      768,
+      390
+    ],
+    "javascriptDisabled": true,
+    "javascriptEnabledSmoke": 10,
+    "keyboardAnswers": true,
+    "keyboardPhoneDiagramPan": true,
+    "problems": []
+  },
+  "visited_pages": 30,
+  "pngs": [
+    {
+      "file": "AC9E1LE01-1440-lesson.png",
+      "sha256": "2bde2853099486e0c6fa5c6f69b262a21c864dd6276413314c2f5c7a601bb789"
+    },
+    {
+      "file": "AC9E1LE01-1440-native-1.png",
+      "sha256": "4abd1f557b338b816b0cd0b31992bb7ae472569e2cda2e940f9cd15ff08b9335"
+    },
+    {
+      "file": "AC9E1LE01-1440-native-2.png",
+      "sha256": "e53730c4d7333d94d5f75c0aafb50726fb0225157f257f8d2d59c4981bc836e7"
+    },
+    {
+      "file": "AC9E1LE01-1440-native-3.png",
+      "sha256": "6a10e9d8d6286cc2b8d75f092caab5ec9662825754a3cafaf4eb79bc4f979aa9"
+    },
+    {
+      "file": "AC9E1LE01-1440-native-4.png",
+      "sha256": "93e9418fbaceb749f5e715c32b0a8476021274bb2ebccbec7b9cadb70584a240"
+    },
+    {
+      "file": "AC9E1LE01-1440-native-5.png",
+      "sha256": "e9728bf3ce0580cd7a28ebf7bbace00426e2c7178b07c1620955a0301d59602b"
+    },
+    {
+      "file": "AC9E1LE01-1440-native-6.png",
+      "sha256": "1134ff258860c1af2b03bf7a0ca887f605d70c8daba479727811032125564149"
+    },
+    {
+      "file": "AC9E1LE01-1440-native-7.png",
+      "sha256": "5b1793fe676cbf9faf50d533b9f54eb8add1e2acd0415e00876f654d5db3312d"
+    },
+    {
+      "file": "AC9E1LE01-1440-native-8.png",
+      "sha256": "500f3d3e21d3d266cb5125658a7e8a57eee186269e70738d93ea4f77cf9c7c7f"
+    },
+    {
+      "file": "AC9E1LE01-1440-retained-1.png",
+      "sha256": "3bc0f50550c9cbe385a2990c16d4b221ae9db444b17db6c0a0651c267c0b993b"
+    },
+    {
+      "file": "AC9E1LE01-1440-top.png",
+      "sha256": "19ff3db449ec13102d4ff983128a1a00daa33c4b3c81617ee6a0447c07b8c79a"
+    },
+    {
+      "file": "AC9E1LE01-390-lesson.png",
+      "sha256": "5d312e5a322f69d9c6035c40dfffd563036644ff39c5b3cefe176e9b0543349b"
+    },
+    {
+      "file": "AC9E1LE01-390-top.png",
+      "sha256": "1eea71364fd8dcf53d70d230c8588e7b6547d011db55fd8e1e98f8d6aa74d37c"
+    },
+    {
+      "file": "AC9E1LE01-768-lesson.png",
+      "sha256": "860dd015cfdd9c4380ae10b80ab8b7b51c5486cb99d71168b9e73f6fd4321fd2"
+    },
+    {
+      "file": "AC9E1LE01-768-top.png",
+      "sha256": "495fa4d2d834378fa3cd35f408676a9b332307f27d7fe89a85e4b208ec64a163"
+    },
+    {
+      "file": "AC9E1LE02-1440-lesson.png",
+      "sha256": "d90ccdae25462d1980edd75e596c43b0a10d99a89998d853dfa7bafaec87d0bc"
+    },
+    {
+      "file": "AC9E1LE02-1440-native-1.png",
+      "sha256": "c69b4f4eae184a9cb5a5cb83fce4f83858f5c0f9c637b6f7641d8a3839e340e9"
+    },
+    {
+      "file": "AC9E1LE02-1440-native-2.png",
+      "sha256": "323a6aea5aa970fcc5248d20d6d2458e5d87f96e78bed42ad92998cd31d45269"
+    },
+    {
+      "file": "AC9E1LE02-1440-retained-1.png",
+      "sha256": "efe27b1bf20f73d9c7bbfbd38d5c3e2ba6179136d84cd2873f6b411ee61e4b84"
+    },
+    {
+      "file": "AC9E1LE02-1440-top.png",
+      "sha256": "ac817d6fc1b1d2ee51d666ab925f9134c2e4e929f2a45b5b7ada91f0181e6013"
+    },
+    {
+      "file": "AC9E1LE02-390-lesson.png",
+      "sha256": "b9cc1de026b73b8bdc4eff69db8a3083eb9642f039f00fdc32a7610e28c51e63"
+    },
+    {
+      "file": "AC9E1LE02-390-top.png",
+      "sha256": "1de1bb36a09b971fcb1ec8c4ec9e52f842ca2c5134716a14bdab954c45ab3c61"
+    },
+    {
+      "file": "AC9E1LE02-768-lesson.png",
+      "sha256": "d5d89d5f0fa658ed86550d4f9e1f825278b1bbf9a34df697f140e98a26a08b32"
+    },
+    {
+      "file": "AC9E1LE02-768-top.png",
+      "sha256": "0540cd58a0b54d3b763e5df24828585158d615b10c8143c63fc489bf35dd15ce"
+    },
+    {
+      "file": "AC9E1LE03-1440-lesson.png",
+      "sha256": "2148cf1551219c8bfe86f4cda59134231fb4f755ac85f52aea4a2a1fd0bdea57"
+    },
+    {
+      "file": "AC9E1LE03-1440-native-1.png",
+      "sha256": "26dbb6753f9e751fb9ea191e193b5aa1407f41e0ee5845a15d2ac60345738380"
+    },
+    {
+      "file": "AC9E1LE03-1440-native-2.png",
+      "sha256": "5641144675439cc7eb4a79c6c344d2c44927c7e487daf99f43a16aad87732aef"
+    },
+    {
+      "file": "AC9E1LE03-1440-retained-1.png",
+      "sha256": "be8073f2418ca53ab59df2e81508e4ec05da1cc74bdaaeafbff5b1391381841c"
+    },
+    {
+      "file": "AC9E1LE03-1440-top.png",
+      "sha256": "e9199c64909bcd07c89caff13a8fcf74afbd79f5b6174c56efc1c852a9defbcb"
+    },
+    {
+      "file": "AC9E1LE03-390-lesson.png",
+      "sha256": "1354c4d43c1e77985fbf599d97799e8a8d9239649b24e209923653ab7aaa9544"
+    },
+    {
+      "file": "AC9E1LE03-390-top.png",
+      "sha256": "1f4280ead3b451c4741fafa3973aa57793fa1ed5b1010694755638ea98dcfdda"
+    },
+    {
+      "file": "AC9E1LE03-768-lesson.png",
+      "sha256": "0607686f6d00827d3362d9233254e15694c38af86a1f82df508294d6fec680e9"
+    },
+    {
+      "file": "AC9E1LE03-768-top.png",
+      "sha256": "96fd67426c6edcf41b7980a3f622c457c494b038aca0a2460c89cb08d182f2f4"
+    },
+    {
+      "file": "AC9E1LE04-1440-lesson.png",
+      "sha256": "18844407ed90eeda0ad64c0c90eb23d3ad8776b8f70e8f32b9b080dd7f0784b8"
+    },
+    {
+      "file": "AC9E1LE04-1440-native-1.png",
+      "sha256": "b428adb4cf4c1e4af412e06c545eb25bce7c2eba036431fb27176fea8d896cc8"
+    },
+    {
+      "file": "AC9E1LE04-1440-native-2.png",
+      "sha256": "3137f06118c5b599b17020aa2d1f541ad39fd106568929686d9fa794d72e7132"
+    },
+    {
+      "file": "AC9E1LE04-1440-retained-1.png",
+      "sha256": "388145bfd81c1f9428c0667359195eef321f142534e2e45ee5db697fc7fa4c8e"
+    },
+    {
+      "file": "AC9E1LE04-1440-top.png",
+      "sha256": "2c739271458ef4dcd594496a1c9e6b88758e1ff93931690e889a276626702ac5"
+    },
+    {
+      "file": "AC9E1LE04-390-lesson.png",
+      "sha256": "8172978bc62784ee8e6c36cdaffd0a12472f086ba40da7604cae6ac6276000c2"
+    },
+    {
+      "file": "AC9E1LE04-390-top.png",
+      "sha256": "8814198310f789db9e365fed085ce2663f0ac35a35eeeb7cfae3003e7f295d92"
+    },
+    {
+      "file": "AC9E1LE04-768-lesson.png",
+      "sha256": "9b789467f2d9d616c947a6b909861a3fc2f98573d43e2727455ebc24a8eff235"
+    },
+    {
+      "file": "AC9E1LE04-768-top.png",
+      "sha256": "3f1714fa0401610a8c22425de0c4e03e16524cfb380b1c092f80f92fe40cd27b"
+    },
+    {
+      "file": "AC9E1LE05-1440-lesson.png",
+      "sha256": "c97c9ac61d1d7529362b080973c7fdbe51e797046e9336c81fde98784c3ab663"
+    },
+    {
+      "file": "AC9E1LE05-1440-native-1.png",
+      "sha256": "8deadac4f7cb71584938aff2fbcc86aa238f9ddf2e255daf3037b48ea2001bb0"
+    },
+    {
+      "file": "AC9E1LE05-1440-native-2.png",
+      "sha256": "e112edf16ac844d0fc7476005053b4a7a6c9a47e3e182d5f7f36aeca474c0d6a"
+    },
+    {
+      "file": "AC9E1LE05-1440-retained-1.png",
+      "sha256": "ebc8b62d7d470f92296bbc1f2b6ee81822757774bc93809fe66e8de70155e4da"
+    },
+    {
+      "file": "AC9E1LE05-1440-top.png",
+      "sha256": "a58dd58ddbee35ae558bce347618b48b58530e171590c7e1a01bb2109e0fe2c0"
+    },
+    {
+      "file": "AC9E1LE05-390-lesson.png",
+      "sha256": "53f0138cd80dbf6400dfa436d0d024dfb205cd87ee1ed7bd8f8ba3650d7d4797"
+    },
+    {
+      "file": "AC9E1LE05-390-top.png",
+      "sha256": "a0c7b379210c211385ef2f8f351fcc1bb4cf9d9f47d3802452ca13c4b7693cd5"
+    },
+    {
+      "file": "AC9E1LE05-768-lesson.png",
+      "sha256": "2b9784559d149f6190de7e262f443323dff0c9c20b13e0c69cee499049a504cd"
+    },
+    {
+      "file": "AC9E1LE05-768-top.png",
+      "sha256": "7b9b68610c4144eac6646f2757dee8181e7668d62c534b3aab1870a14cdc4342"
+    },
+    {
+      "file": "AC9E1LY01-1440-lesson.png",
+      "sha256": "71d4dda625fd65bcd3895021560c312d7e6925584722fbbb21c8fa34e503bb2d"
+    },
+    {
+      "file": "AC9E1LY01-1440-native-1.png",
+      "sha256": "8957ca98f45f0a3a6ffd5f84b05d1f2328e334ceddceda6d360dab788e727a31"
+    },
+    {
+      "file": "AC9E1LY01-1440-native-2.png",
+      "sha256": "f6757e03f81c60d6a8f0b81017f9be1635135c5acf9c70f556be7270bb6b9a46"
+    },
+    {
+      "file": "AC9E1LY01-1440-native-3.png",
+      "sha256": "ab858d9ae1aed493a1c92894ec58051492ee094a0d1f633990f79086e87a9426"
+    },
+    {
+      "file": "AC9E1LY01-1440-retained-1.png",
+      "sha256": "1edbffaa3bef5f41a1a4fa91955b5d99c28a8616fdc1f1696eaaf75eeea2f552"
+    },
+    {
+      "file": "AC9E1LY01-1440-top.png",
+      "sha256": "19c73c3dd1325555413f4bec34625e60674dc3224767a15ccdbcafde1feb4df7"
+    },
+    {
+      "file": "AC9E1LY01-390-lesson.png",
+      "sha256": "4e454e31d09d9ab2926283bc53cc3f7d3c408a8eff885080d15d79f7c89a120d"
+    },
+    {
+      "file": "AC9E1LY01-390-top.png",
+      "sha256": "854b956a7cd73d345732a9d4fae4c8e32deb6955aeac2dbf5273317b56135935"
+    },
+    {
+      "file": "AC9E1LY01-768-lesson.png",
+      "sha256": "9310717eed4b44f7210208a9d6c6939365d7332f4910387eec861e2e151fcf6e"
+    },
+    {
+      "file": "AC9E1LY01-768-top.png",
+      "sha256": "e4bfd9b257da29a7b07baa4fb679e3db7c0c45cbb65b850441751ca665663022"
+    },
+    {
+      "file": "AC9E1LY02-1440-lesson.png",
+      "sha256": "2ae08b002acc8f2ac12105b4295c22d018d5ef0a01af15e1b1654e3312e7d605"
+    },
+    {
+      "file": "AC9E1LY02-1440-native-1.png",
+      "sha256": "6b1ceb86a2087de4ea86d38f57552302fb1f6ab0ee679128fb021e470cb1ce66"
+    },
+    {
+      "file": "AC9E1LY02-1440-native-2.png",
+      "sha256": "514b591504eca61456c030987a6f849fd7efd520a6376e48698eccad87194510"
+    },
+    {
+      "file": "AC9E1LY02-1440-retained-1.png",
+      "sha256": "f74bb10bc527d5b50218273f490f018fb3c839458c78e1d7e7622070bec7d253"
+    },
+    {
+      "file": "AC9E1LY02-1440-top.png",
+      "sha256": "e8feedd6f8eff85c3b2fe0b90c7dfe666b7b5aaa867f6679b7d00128d4b4433a"
+    },
+    {
+      "file": "AC9E1LY02-390-lesson.png",
+      "sha256": "91aa16343b3e9b94b022748f4dd398796ade3bbce9538f565a818be229c46e77"
+    },
+    {
+      "file": "AC9E1LY02-390-top.png",
+      "sha256": "dc80c690308231fa8beb4869a3d0d304253911f550bd7eb6bf613de908b3efd8"
+    },
+    {
+      "file": "AC9E1LY02-768-lesson.png",
+      "sha256": "fe7194d3f07d9eb7396007db9cd9b3a29bcaa11fa63b8306ddfc12faaa6dba16"
+    },
+    {
+      "file": "AC9E1LY02-768-top.png",
+      "sha256": "cda733ec3d3cf137410c9ad3218ff71590983a8b9553be995b156d25c5fcdf52"
+    },
+    {
+      "file": "AC9E1LY03-1440-lesson.png",
+      "sha256": "8b875722de69312cd42cf1efc788b5fa55a899eea528d972ff1cc9565e25592b"
+    },
+    {
+      "file": "AC9E1LY03-1440-native-1.png",
+      "sha256": "5df15cb358b9af6b645401c47485a53852d6ba335fa6e82b0856dff8fa9161d1"
+    },
+    {
+      "file": "AC9E1LY03-1440-native-2.png",
+      "sha256": "af1444a4ac26a8d2ddd453b76bb5885f5168e2137a22a9b96c4429f8dceffbe1"
+    },
+    {
+      "file": "AC9E1LY03-1440-native-3.png",
+      "sha256": "c45c73eba8ecf8c536a25b5496cd9fea76a8d567e252dfef08b532d7f74842bb"
+    },
+    {
+      "file": "AC9E1LY03-1440-native-4.png",
+      "sha256": "ccc97a6936ea5a4501295d2a72c583c6615b95c77a97d0641fb231ca02d48ebf"
+    },
+    {
+      "file": "AC9E1LY03-1440-native-5.png",
+      "sha256": "f14d915939d29d51eedbd27c31f67fbe4200ab00eff23460fa98598adcc664d4"
+    },
+    {
+      "file": "AC9E1LY03-1440-retained-1.png",
+      "sha256": "7df9a8f43eb69c71e52f9683e59552ef14121784d4a87bacad577d4a9b509965"
+    },
+    {
+      "file": "AC9E1LY03-1440-top.png",
+      "sha256": "c6e987875f37833086cfcdeed3f8f22784e60f10923a49aa2d403e1b1d19c612"
+    },
+    {
+      "file": "AC9E1LY03-390-lesson.png",
+      "sha256": "894123188edb8ace9767b0d634f620d0ea3464b9f8d350963da98b7d613a0be8"
+    },
+    {
+      "file": "AC9E1LY03-390-top.png",
+      "sha256": "34aa9d94fa00c8ec7be77ee1eeb868fd2a70d653c8fbc869657bf90b0ecda9f3"
+    },
+    {
+      "file": "AC9E1LY03-768-lesson.png",
+      "sha256": "41748b52a78f6f8490951e3f1328acb8731c2cae87f1294295423167dc21a865"
+    },
+    {
+      "file": "AC9E1LY03-768-top.png",
+      "sha256": "3e20c7fd66d0d7965707e91000b177de932377d593b7108efc8c37e13e477a2b"
+    },
+    {
+      "file": "AC9E1LY04-1440-lesson.png",
+      "sha256": "23ea38063701814be3ffea407c35c0394a148991efbbe36b405ed3d54ea63440"
+    },
+    {
+      "file": "AC9E1LY04-1440-native-1.png",
+      "sha256": "e254349ac71d0fe623e452b1c960b174a918a4da7d0d8438381ad4e56cc0cdf0"
+    },
+    {
+      "file": "AC9E1LY04-1440-native-2.png",
+      "sha256": "3ceb372db0a550030371c62a3378b6930bf216fbf91c4714b1db20701d52b5eb"
+    },
+    {
+      "file": "AC9E1LY04-1440-native-3.png",
+      "sha256": "4fb908c8dee6978791314284799de0e827a67dfb3959741ce786243c70926886"
+    },
+    {
+      "file": "AC9E1LY04-1440-native-4.png",
+      "sha256": "291a374a31c593f72317de2ea9dffe1b3ed4bf8d9e87597c25ed4e1c22c1daab"
+    },
+    {
+      "file": "AC9E1LY04-1440-retained-1.png",
+      "sha256": "d5bfd7b5356b08dfbdbd5ff5003d26babda5b3a990454472a74775537d27b17d"
+    },
+    {
+      "file": "AC9E1LY04-1440-top.png",
+      "sha256": "612120fcbc6a51871acc3269a64d9c496fb2c0840baad02d539b50b200454bc0"
+    },
+    {
+      "file": "AC9E1LY04-390-lesson.png",
+      "sha256": "5c6b16d5e4b3ac6299876a0d9a468c0d4956334ad34023e109db996543cfa036"
+    },
+    {
+      "file": "AC9E1LY04-390-top.png",
+      "sha256": "50c5303ff62ccf96b7b6a2fde6404a548fa2935f6553d19802778fb448c5a8a9"
+    },
+    {
+      "file": "AC9E1LY04-768-lesson.png",
+      "sha256": "08280503b5b347ecce599f451474c9b7eb10c08bb25e2598c3fb87fc8e1be65d"
+    },
+    {
+      "file": "AC9E1LY04-768-top.png",
+      "sha256": "eed966aa15eae9bf1c170cf833cae624156e5698d618d93fa6063f085f78f672"
+    },
+    {
+      "file": "AC9E1LY05-1440-lesson.png",
+      "sha256": "373a0c66104ce9d94f3d1d4c0a72f7b52f7a3f7de12f37e48ba1b75212e18064"
+    },
+    {
+      "file": "AC9E1LY05-1440-native-1.png",
+      "sha256": "233624b88a23696e9f689eb3aea28abd3c7f6723de2657baa5fa7e24a5bacdbe"
+    },
+    {
+      "file": "AC9E1LY05-1440-native-2.png",
+      "sha256": "b743e3a8e60a2b7b6305c3e11f23e7fd9020ab528b4b26357b0e0d13af27bec4"
+    },
+    {
+      "file": "AC9E1LY05-1440-native-3.png",
+      "sha256": "38d321b18ffc9c1eecac9319cd210d031014c581c0a1c46b93feab22dae88e4f"
+    },
+    {
+      "file": "AC9E1LY05-1440-native-4.png",
+      "sha256": "cf7bd9f36281675200764258cd04a1a280825ed60bc9ae405d5019ae637c6438"
+    },
+    {
+      "file": "AC9E1LY05-1440-retained-1.png",
+      "sha256": "9e442ae864c1436810a9a7e43a828ef2a3f27f554b44b35dd85949a51a3a560d"
+    },
+    {
+      "file": "AC9E1LY05-1440-top.png",
+      "sha256": "bc30e78e0f09aa2dd480fc55f640a9ffc5d4e35278dfcea1ebad0008b74277b4"
+    },
+    {
+      "file": "AC9E1LY05-390-lesson.png",
+      "sha256": "c5a461b70f5527bfd4c2d4699ea9fd253534eb1a46aa9c74bfad8d58b7c0d9f0"
+    },
+    {
+      "file": "AC9E1LY05-390-top.png",
+      "sha256": "e942337cffee9a64cf7ae3b9b47833c3b026e3fa4f2de6a02813d8967a617989"
+    },
+    {
+      "file": "AC9E1LY05-768-lesson.png",
+      "sha256": "cf80cf908ffc4dcae2986ae53ec7d1137760c0a929fdb23487cf1b66f9c09bb1"
+    },
+    {
+      "file": "AC9E1LY05-768-top.png",
+      "sha256": "4f8426a6ca66bbdd6fdf6f3f9067881bd40f6fc9c898fce0db4852b681ce13ee"
+    }
+  ],
+  "root_visual_review": {
+    "reviewer": "/root",
+    "date": "2026-11-10 Australia/Sydney",
+    "actual_inspection": "Individually inspected all60top/lesson PNGs via30labelled paired contact sheets at readable source size: all10codes\u00d71440/768/390px. Also separately reopened full LY03native3 plant CardB when reviewer display initially showed only its differing caption region.",
+    "result": "PASS for the inspected viewport layouts: readable wrapping/headings, actual entry stimuli, no confirmed page-wide overflow or clipped content. Tablet/phone focuses stack. Fixed app CTA is inviewport; controls are exercised after scrolling into view.",
+    "contacts": [
+      {
+        "file": "AC9E1LE01-1440.jpg",
+        "sha256": "05b29aeb3e59a0649ec863531e6a00ccb5cc34ac768daba61411477c7be79c11"
+      },
+      {
+        "file": "AC9E1LE01-390.jpg",
+        "sha256": "3463e425c9761adcefb7e04ba1b308bcd5dba976fc7bb9c81cc873e90bf77813"
+      },
+      {
+        "file": "AC9E1LE01-768.jpg",
+        "sha256": "f603e45a8e9108cde9387b014f298dddccda4f22a6b08e7fd6e533a9f80e37c8"
+      },
+      {
+        "file": "AC9E1LE02-1440.jpg",
+        "sha256": "49c7973ff4e5d2c1ef6aa40d3c30d361ead47e5c8aca59aae5d89f9af67d735e"
+      },
+      {
+        "file": "AC9E1LE02-390.jpg",
+        "sha256": "92242a86c6beca275b87de1ad3a11cd30845d19b38a3f59dba26ebb8f0e5bc56"
+      },
+      {
+        "file": "AC9E1LE02-768.jpg",
+        "sha256": "5792374bf4a510b5026f4d95da7eb3223a8d476964382f212f6e27c86e74325c"
+      },
+      {
+        "file": "AC9E1LE03-1440.jpg",
+        "sha256": "2dc426f89658337054edeca2d08be74851ddfaf47130e9a1eca52d23684ea04d"
+      },
+      {
+        "file": "AC9E1LE03-390.jpg",
+        "sha256": "11ab03739e1b5980b28187de9ea06bb36896ab6cc6f38db7cf48cb9e9f5f9940"
+      },
+      {
+        "file": "AC9E1LE03-768.jpg",
+        "sha256": "3fd66cd7356cfdad56ad822a820316bdef9f93a3d2ee5d08bf07d53fe11f5733"
+      },
+      {
+        "file": "AC9E1LE04-1440.jpg",
+        "sha256": "18732e411f94bdf8c16d9dfee242cb4330c3f8f80aff06eafdc8db0c4d7e3ba2"
+      },
+      {
+        "file": "AC9E1LE04-390.jpg",
+        "sha256": "39f7d00c753046b3b0b5fa1e7f8050d4bfcafe662d755e1aff2c8d1a9699c387"
+      },
+      {
+        "file": "AC9E1LE04-768.jpg",
+        "sha256": "25721bf325edf3ea4142d1a2df858bc0b265947e1904bcc0eb0c1d63ce811e26"
+      },
+      {
+        "file": "AC9E1LE05-1440.jpg",
+        "sha256": "464881b3e81458fe086ab73b233e6b5e1d0d8bfc03559994bfca3a02a8b4dd59"
+      },
+      {
+        "file": "AC9E1LE05-390.jpg",
+        "sha256": "d4488f1985b41d8f8755c335f497df505e67e09de1605d2e06da788b4a0f4bba"
+      },
+      {
+        "file": "AC9E1LE05-768.jpg",
+        "sha256": "625049f24d1f164c2c22d92da1e3e8579ea9b987e152362bafd9a37563a01dfd"
+      },
+      {
+        "file": "AC9E1LY01-1440.jpg",
+        "sha256": "a64a1a4eb9552f3b934ab39991534905cbe5b172424be13ca7f2273fe7b5b8df"
+      },
+      {
+        "file": "AC9E1LY01-390.jpg",
+        "sha256": "c2b556e767b6f450a7f7873a64807bfd06177481a8179eaa4b27898e29c8b82f"
+      },
+      {
+        "file": "AC9E1LY01-768.jpg",
+        "sha256": "50f54f353d00ff5202ed09ce804ee802c480aeb698b2139c1724ca5f1fd92eb8"
+      },
+      {
+        "file": "AC9E1LY02-1440.jpg",
+        "sha256": "73574c3446f102ce16a2ea68fc4f40b60db7ad04c4749a527c9c86fa9575ba8d"
+      },
+      {
+        "file": "AC9E1LY02-390.jpg",
+        "sha256": "f1f799b5164c8bd8bb2208696baf7c91f87238a1fbc6ac21a1faf7bffa337cb7"
+      },
+      {
+        "file": "AC9E1LY02-768.jpg",
+        "sha256": "15dd9503042db09a001de3fbdd3052f0fd828722fe53f877c05b26be280abac5"
+      },
+      {
+        "file": "AC9E1LY03-1440.jpg",
+        "sha256": "c80d3afc15b26d5312a0161d4787b3e74de77e5e871f12a3d6bdc6dbbbea59b2"
+      },
+      {
+        "file": "AC9E1LY03-390.jpg",
+        "sha256": "82781dd63044c91e1d82f5c3a4be65a167b4d30905bb8e87f4e4fd710a716f50"
+      },
+      {
+        "file": "AC9E1LY03-768.jpg",
+        "sha256": "463e18e50c2f9098c795b3d6fbc57032f08dc66a66d7be9f0dbb905faaf22d17"
+      },
+      {
+        "file": "AC9E1LY04-1440.jpg",
+        "sha256": "aca07798ed808c68a7e64e2c625742120ca27c30f2f851744c6bdf1c4478a72f"
+      },
+      {
+        "file": "AC9E1LY04-390.jpg",
+        "sha256": "e0a7c11e1322010247b26a0a9d6e2c7b84dc0e645497325059eee8633e5d8280"
+      },
+      {
+        "file": "AC9E1LY04-768.jpg",
+        "sha256": "bb5cddee886b374990d997d46a9a153601bc19ab1893f455426c70232067bfaa"
+      },
+      {
+        "file": "AC9E1LY05-1440.jpg",
+        "sha256": "331bfe06dce9f00525c2dc22aeb9f130a75f12abae79ca2ef03fd69cbcf7d1c2"
+      },
+      {
+        "file": "AC9E1LY05-390.jpg",
+        "sha256": "9852a7717137f9732ac12b62d4f8cf32babdc79e278ffd798230576b85f2f6f5"
+      },
+      {
+        "file": "AC9E1LY05-768.jpg",
+        "sha256": "9573e72160ceb72fe0096c397a2a00634da1679e489190fbf238a9982343bbda"
+      }
+    ]
+  },
+  "independent_model_review": "All34native and10retained models assigned for actual independent pixel review; see final independent-rendered-review.*.",
+  "source_change_after_browser": "Only officialreference anchors/labels inall10pages+inventory hashes changed; exact literal exception in curriculum-reference-repair.json. No teaching, CSS, model, image or harness changes.",
+  "ci_initial_result": "Browser success;10of12PRworkflows pass. Two fail the same architecture guard because of officialPDFreference anchors. Narrow reference-link repair passes local affected31path guard; final exact-head CI and replacement artifact must be checked.",
+  "limitations": [
+    "Browser blocks cross-origin traffic; no external app/auth/save/marking claims.",
+    "Keyboard/pointer accessibility and source names/ARIA checked; no full screen-reader session or conformance certification.",
+    "All image bytes and same-section semantics checked separately; automation alone is not visual approval."
+  ],
+  "final_closure": "After final evidence commit, exact-head CI/artifact comparison recorded in PR983, avoiding self-referential commit claims."
+}

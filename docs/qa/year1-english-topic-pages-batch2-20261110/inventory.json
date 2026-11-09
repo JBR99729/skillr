@@ -15,7 +15,7 @@
       "Use this guide with your worksheet pack"
     ],
     "retained_section_count": 9,
-    "sha256": "3738ab94449ee81018d88f092515729f76b2a8b76280b7083606bd8190188e16"
+    "sha256": "84d8969efd8b361ecd3f64962834ec220f4fc359b25cc4526bb1164070e6bef6"
   },
   {
     "code": "AC9E1LE02",
@@ -33,7 +33,7 @@
       "Use this guide with your worksheet pack"
     ],
     "retained_section_count": 9,
-    "sha256": "316d4a5c33eed5fe5b7705228da4e1f5dc2d956a9171d232325ce712003eaa12"
+    "sha256": "e33fb156cc33b25156eef6bf0c1a03dcd62ad1b7761d2c0bc59528ec65938fd4"
   },
   {
     "code": "AC9E1LE03",
@@ -58,7 +58,7 @@
       "Check your understanding"
     ],
     "retained_section_count": 16,
-    "sha256": "444300d2f535788fba7a93d953c191edbe41ce840f0445c21821941315d43730"
+    "sha256": "ea03ab30803deb8586075a16fcd221fb21029567d3f4bbfb5ab91b0a9351a2ef"
   },
   {
     "code": "AC9E1LE04",
@@ -84,7 +84,7 @@
       "Check your understanding"
     ],
     "retained_section_count": 17,
-    "sha256": "d98bf55fe0840cf5c722576b6db73cb660322844f4333ef4c71693cb5a859f1a"
+    "sha256": "1abed4292bbb0ff74c371eeaaf8a1e32f778c9b43b5f41f49a4c1af9a4b4b0da"
   },
   {
     "code": "AC9E1LE05",
@@ -107,7 +107,7 @@
       "Check your understanding"
     ],
     "retained_section_count": 14,
-    "sha256": "3176f2802fba589ebd78a7d9ef196eb8ba258a692fd30ef062f7db212c6bc6b0"
+    "sha256": "c88413d9b8329bdc6fa9804f28c72884dc4565da706367a04bde591f18a58738"
   },
   {
     "code": "AC9E1LY01",
@@ -130,7 +130,7 @@
       "Check your understanding"
     ],
     "retained_section_count": 14,
-    "sha256": "26df55ab479a2b5ae8c39ab070c2e5090957dbf1c1024d4866b0bf88f2626193"
+    "sha256": "e24a863b3c18ce5c4dd3243bdf7c2628be3177ef28f35ba07bfb261f315ff664"
   },
   {
     "code": "AC9E1LY02",
@@ -153,7 +153,7 @@
       "Check your understanding"
     ],
     "retained_section_count": 14,
-    "sha256": "cf11cae2f02000ea53a8c21bc1a08de2240dc3bb4358166ace7706fb1275a2f1"
+    "sha256": "1192dd92d6944012dd57a7a0b55b3d4b704f37cd67d7733f7a6cbfd5e0a6b0d7"
   },
   {
     "code": "AC9E1LY03",
@@ -176,7 +176,7 @@
       "Check your understanding"
     ],
     "retained_section_count": 14,
-    "sha256": "43ddf89c98d9b04182756846a6837ca7222ba6a3e635683afe96e7bab76ce767"
+    "sha256": "3b7b61583f97b3f5b2de5af9a435986d98e52fc1f6eae96f714769073d70e3f5"
   },
   {
     "code": "AC9E1LY04",
@@ -193,7 +193,7 @@
       "Check your understanding"
     ],
     "retained_section_count": 8,
-    "sha256": "3f845bdb0c7c07694d6b7bd3c149a125693890cc483ed98a21b9d15384b94591"
+    "sha256": "76a2dca470ff748d9f2e8c577c0f5dd519586778e5811bc8704d4bb3d17b3aec"
   },
   {
     "code": "AC9E1LY05",
@@ -208,6 +208,6 @@
       "Quick check: explain your thinking"
     ],
     "retained_section_count": 6,
-    "sha256": "2907e5886eb214254b4f9f2a3d8333b0d3356f96af888a45b4d05fabd7c86324"
+    "sha256": "8dec009e9593e1415fed6f2c0d65f8eca1fd04c2a87579982f04ef069e4c77ea"
   }
 ]
