@@ -1,0 +1,15 @@
+[
+  {
+    "path": "assets/teaching-models/year1/ac9e1la08.svg",
+    "before_sha256": "8f75d4d2691feecf062ecaa5bc181063ff725f6f1a0c177eee32678d73e53938",
+    "after_sha256": "1676898035cc6642ec35075329c1f932f61d8ffa405c2a1590fa8c7b126699cb",
+    "before_fragment": "<path d=\"M260 155H125M440 155H575\" fill=\"none\" stroke=\"#28786f\" stroke-width=\"7\" marker-end=\"url(#arrow)\"/>",
+    "after_fragment": "<path d=\"M260 155H125\" fill=\"none\" stroke=\"#28786f\" stroke-width=\"7\" marker-end=\"url(#arrow)\"/><path d=\"M440 155H575\" fill=\"none\" stroke=\"#28786f\" stroke-width=\"7\" marker-end=\"url(#arrow)\"/>",
+    "reason": "Independent hosted pixels native-7 and native-13 showed no left arrowhead: SVG marker-end applies only to the final compound subpath. Split the two existing arrow lines into separate paths so both existing directions render. Labels, caption, dimensions and all other geometry remain identical.",
+    "affected_captures": [
+      "AC9E1LA08-1440-native-7.png",
+      "AC9E1LA08-1440-native-13.png"
+    ],
+    "status": "Corrected; hosted rerender and independent pixel recheck pending."
+  }
+]

@@ -306,9 +306,9 @@
     },
     {
       "path": "/assets/teaching-models/year1/ac9e1la08.svg",
-      "bytes": 1113,
-      "sha256": "8f75d4d2691feecf062ecaa5bc181063ff725f6f1a0c177eee32678d73e53938",
-      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained."
+      "bytes": 1196,
+      "sha256": "1676898035cc6642ec35075329c1f932f61d8ffa405c2a1590fa8c7b126699cb",
+      "origin": "Existing teaching model with recorded bounded arrowhead correction; see visual-corrections.json."
     },
     {
       "path": "/assets/teaching-models/year1/ac9e1la09.svg",

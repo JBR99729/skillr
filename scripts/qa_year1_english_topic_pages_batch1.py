@@ -91,9 +91,18 @@ for x in inv:
  natives=doc.xpath('//main//figure[not(.//svg)]');records=[m for m in art['native_models']if m['code']==x['code']]
  assert len(natives)==len(records),x['code']+' native model inventory'
  for e,record in zip(natives,records):assert hashlib.sha256(html.tostring(e,encoding='unicode',method='html').encode()).hexdigest()==record['html_sha256'],x['code']+' native model identity'
+visual_repairs=json.loads((Q/'visual-corrections.json').read_text())
 for item in art['image_assets']:
  data=(R/item['path'].lstrip('/')).read_bytes();assert hashlib.sha256(data).hexdigest()==item['sha256'],'asset identity '+item['path']
- assert not subprocess.check_output(['git','diff','--name-only',base,'--',item['path'].lstrip('/')],cwd=R,text=True).strip(),'existing asset changed'
+ repair=next((v for v in visual_repairs if v['path']==item['path'].lstrip('/')),None)
+ if repair:
+  previous_asset=subprocess.check_output(['git','show',base+':'+repair['path']],cwd=R).decode()
+  assert hashlib.sha256(previous_asset.encode()).hexdigest()==repair['before_sha256'],'exact asset correction baseline'
+  assert previous_asset.count(repair['before_fragment'])==1,'exact original arrow geometry'
+  assert data.decode()==previous_asset.replace(repair['before_fragment'],repair['after_fragment']),'only recorded arrow correction'
+  assert hashlib.sha256(data).hexdigest()==repair['after_sha256'],'corrected asset identity'
+ else:
+  assert not subprocess.check_output(['git','diff','--name-only',base,'--',item['path'].lstrip('/')],cwd=R,text=True).strip(),'existing asset changed'
 for x in inv:
  doc=html.parse(str(R/x['path']));old=html.fromstring(subprocess.check_output(['git','show',base+':'+x['path']],cwd=R,text=True))
  pre=next(a for a in json.loads((Q/'retained-preludes.json').read_text())if a['code']==x['code']);assert normalize(doc.xpath('//section[@class="earlier-vocabulary"]')[0])==pre['text'],'retained vocabulary'
