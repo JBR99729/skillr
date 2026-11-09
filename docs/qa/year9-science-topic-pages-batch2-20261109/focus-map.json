@@ -1,0 +1,293 @@
+[
+  {
+    "code": "AC9S9H04",
+    "descriptor": "examine how the values and needs of society influence the focus of scientific research",
+    "source_basis_decision": "SUFFICIENT — BOUNDED CORE",
+    "product_status": "READY TO DRAFT subject to separate plan review",
+    "focuses": [
+      {
+        "id": "F1",
+        "intention": "Identify societal needs/values shaping questions",
+        "status": "SUFFICIENT — bounded accepted methods",
+        "evidence": [
+          "AU-RESEARCH-PRIORITIES2024",
+          "CCDMD-FUNDING-SIMULATION"
+        ],
+        "basis": "Dated Australian needs→named critical-research questions and consultation case show values shaping priorities. Actual proposal/public-position routine supports selecting questions/benefits, not manipulating findings."
+      },
+      {
+        "id": "F2",
+        "intention": "Examine funding priorities and stakeholder influence",
+        "status": "SUFFICIENT — bounded accepted methods",
+        "evidence": [
+          "AU-RESEARCH-PRIORITIES2024",
+          "RSC-RESEARCH-FUND2024",
+          "CCDMD-FUNDING-SIMULATION"
+        ],
+        "basis": "Community/expert/industry/government input and actual grant feasibility/access/impact criteria explain stakeholder and funding influences. National priorities guide but do not exclusively determine all investment; historical grant case explicitly2024."
+      },
+      {
+        "id": "F3",
+        "intention": "Weigh research trade-offs without distorting evidence",
+        "status": "SUFFICIENT — bounded accepted methods",
+        "evidence": [
+          "CCDMD-FUNDING-SIMULATION",
+          "CCDMD-PROPOSAL-CRITERIA",
+          "RSC-RESEARCH-FUND2024",
+          "O-PRIORITY-BUDGET"
+        ],
+        "basis": "Complete finite-$1m proposal/judging/public critique routine and explicit criteria/weights support transparent opportunity-cost decisions. Original indivisible-project budget feasibility checks are separate from source observations; multiple evidence-supported allocations accepted, no distortion of data."
+      }
+    ],
+    "original_model_title": "Societal priorities and finite research resources",
+    "original_model_plan": "Original fictional budget100units: water-monitoring project60, shade-material study40, insulation study55; projects indivisible. Water+shade100 and shade+insulation95 feasible; water+insulation115 not. Need/value→stakeholder→question→criteria→allocation→evidence protection. Different justified priorities accepted; not real grant prices/current policy."
+  },
+  {
+    "code": "AC9S9I01",
+    "descriptor": "develop investigable questions, reasoned predictions and hypotheses to test relationships and develop explanatory models",
+    "source_basis_decision": "SUFFICIENT — BOUNDED CORE",
+    "product_status": "READY TO DRAFT subject to separate plan review",
+    "focuses": [
+      {
+        "id": "F1",
+        "intention": "Develop feasible operational questions",
+        "status": "SUFFICIENT — bounded accepted methods",
+        "evidence": "Y7INQUIRY:ASU-HYPOTHESES;Y8INQUIRY:ABC-FIELDWORK-REPRESENTATION;FORCE:AAS-MASS",
+        "basis": "Actual operational question generation precedes selected variables; full50kg-step/100N/10s method and40/80kg prediction/test prompts give a testable relationship. State initial rest/net-force/time and total-mass assumptions, not mass determines arbitrary speed."
+      },
+      {
+        "id": "F2",
+        "intention": "Generate reasoned hypotheses/predictions",
+        "status": "SUFFICIENT — bounded accepted methods",
+        "evidence": "Y7INQUIRY:ASU-HYPOTHESES;FORCE:AAS-MASS;Y8EARTH:JR-NANNO-STUDENT",
+        "basis": "Hypothesis explains mechanism, prediction specifies observable conditional result. Flashlight two-fault counterexample prevents unsupported one-fault inference; mass controls and eight age-distance rows allow reasoned predictive tests. No unseen simulator readings invented."
+      },
+      {
+        "id": "F3",
+        "intention": "Refine explanatory models after testing",
+        "status": "SUFFICIENT — bounded accepted methods",
+        "evidence": "Y8INQUIRY:ABC-GRAPEFRUIT-CRITIQUE;Y8EARTH:JR-NANNO-STUDENT,JR-NANNO-TEACHER,ELI-WEGENER-REVISION",
+        "basis": "Actual grapefruit observed transcript conflicts with simplistic hollow/solid rule; refine density explanation and propose discriminating followup without claiming single changed variable. Full age-distance data/model-fit/extrapolation tasks and earlier/later evidence sorting extend explanatory revision quantitatively; actual source data are published, not collected here."
+      }
+    ],
+    "original_model_title": "Generate and test an explanatory relationship",
+    "original_model_plan": "Original fictional matched cup record insulation0/4/8mm loses9/6/5°C after12minutes from50°C in22°Croom, identical cups/lids/water volume/material. Hypothesis insulation reduces thermal energy transfer, prediction longer thickness less cooling; diminishing benefit refines constant3°C-per4mm prediction (would predict3°C at8mm, actual5). No claim of measured conductivity or verified universal law. Generate original operational question, distinguish hypothesis/prediction, consider controls and revise model."
+  },
+  {
+    "code": "AC9S9I02",
+    "descriptor": "plan and conduct valid, reproducible investigations to answer questions and test hypotheses, including identifying and controlling for possible sources of error and, as appropriate, developing and following risk assessments, considering ethical issues, and addressing key considerations regarding heritage sites and artefacts on Country/Place",
+    "source_basis_decision": "SUFFICIENT — BOUNDED CORE",
+    "product_status": "READY TO DRAFT subject to separate plan review",
+    "focuses": [
+      {
+        "id": "F1",
+        "intention": "Design valid reproducible controls and error reduction",
+        "status": "SUFFICIENT — bounded accepted methods",
+        "evidence": "FORCE:AAS-FORCE,AAS-FRICTION;B22-UMB-CALIBRATE;YEAR9REVIEW:RSC-REVIEW-CASE",
+        "basis": "Complete controlled launcher/friction procedure plus planned repeated delivery protocol specifies apparatus/variables/endpoints/raw records. Critique launcher changing-force/energy confound and extract-study absent controls; reproduce a method requires reported details, not desired agreement."
+      },
+      {
+        "id": "F2",
+        "intention": "Justify repeats/sample and specific risk controls",
+        "status": "SUFFICIENT — bounded accepted methods",
+        "evidence": "FORCE:AAS-FORCE;Y7INQUIRY:OPENSTAX-SAMPLING,OHIO-NEW-RISK-TASK;PERMISSIONS:PC-FIELD-RISK-REUSE;B22-GDX-TMP",
+        "basis": "Three trials per force and planned20deliveries contrast repeat counts with independent sampling; biased larger convenience sample does not become representative. Link elastic-eye/launch-path, glass-pipette-aid and hot-probe/flame hazards to specific controls; no numerical risk score or classroom safety approval invented."
+      },
+      {
+        "id": "F3",
+        "intention": "Address ethics and local Country/Place responsibilities",
+        "status": "SUFFICIENT — bounded accepted methods",
+        "evidence": "Y7INQUIRY:ACARA-Y7-HERITAGE;PERMISSIONS:ACARA-Y5-COUNTRY,ACARA-Y6-COUNTRY,ILALC-DJEERA-PROTOCOL;PERSPECTIVES:CSIRO-ICIP-TERMS",
+        "basis": "Published field-planning/local-holder protocols distinguish access, handling, recording and publication consent; avoid disturbance and redesign if access refused. Heritage artefact response is context/jurisdiction-specific. Public knowledge-use terms permit analysis of ethical responsibilities without claiming actual cultural consultation or permission."
+      }
+    ],
+    "original_model_title": "Plan, document and conduct responsibly",
+    "original_model_plan": "Original paper-only spinner plan: same paper grade/no clips; each template20mm wide,60mm body with two10mm-wide blades30or50mm long, folded90degrees inoppositedirections; blade-length configurations also differpaperarea/mass, so noisolatedaerodynamicclaim; release at1.0m in still air, no push, endpoint first floor contact, five repeated drops of eachoneconstructedspinner, notfiveindependentspecimens; alternating order. No outcome invented. Document raw trial IDs, timing/reaction variation, calibration/controls; justified safety avoiding chairs/obstacles and stopping unsafe conditions, teacher approval required before any later practical. Separate fictional proposed Country/Place visit: establish local authority/access/recording/handling/publication permissions before action; leave artefacts undisturbed and follow relevant local reporting; no universal law/permission claimed."
+  },
+  {
+    "code": "AC9S9I03",
+    "descriptor": "select and use equipment to generate and record data with precision to obtain useful sample sizes and replicable data, using digital tools as appropriate",
+    "source_basis_decision": "SUFFICIENT — BOUNDED CORE",
+    "product_status": "READY TO DRAFT subject to separate plan review",
+    "focuses": [
+      {
+        "id": "F1",
+        "intention": "Select/use equipment for range/resolution",
+        "status": "SUFFICIENT — bounded accepted methods",
+        "evidence": "B22-GDX-TMP;B22-BRAND-VOLUME;Y8INQUIRY:GTAC-CALIBRATION,RICE-OCULAR-SCALE;METERS:WISC-CYL,NPL-MASS,WA-MEASURE1",
+        "basis": "Actual model specifications and full TC/TD methods justify range/resolution/tool selection; one flask contains nominal fixed volume. Independent magnification/field calibration/ocular examples extend comparison beyond a scale-recognition question. Accuracy, resolution and repeatability remain different."
+      },
+      {
+        "id": "F2",
+        "intention": "Record precision and replicable raw data",
+        "status": "SUFFICIENT — bounded accepted methods",
+        "evidence": "B22-UMB-CALIBRATE;B22-AURARIA-BURET;B22-KHAN-SIGFIG;B22-VED-MEASURE;PRECISION:OS-PHYS",
+        "basis": "Full measurement record structure/procedure and actual published illustrative four-addition table support units, endpoints, subtraction, raw-versus-derived fields and precision critique. Original cumulative-error correction is separate from source table. Repeated11.1/11.2/10.9in with11.0reference illustrates scatter versus offset; no fabricated20mass series or pixel-reading."
+      },
+      {
+        "id": "F3",
+        "intention": "Justify useful samples and digital settings",
+        "status": "SUFFICIENT — bounded accepted methods",
+        "evidence": "B22-GA-SETTINGS;B22-GDX-TMP;B22-UMB-CALIBRATE;Y7INQUIRY:OPENSTAX-SAMPLING;Y8INQUIRY:ARGO-QUALITY-METHOD",
+        "basis": "Actual digital mode/rate/interval/start/stop documentation plus sensor-response and twenty-delivery/two-operator plan support replicable settings and useful samples. Choose representative independent units, repeat IDs and rate suited to timescale; no universal n. Argo flags/adjustment fields show quality controls, not actual downloaded profile or code run."
+      }
+    ],
+    "original_model_title": "Measurement chain and independent samples",
+    "original_model_plan": "Original fictional balance record resolution0.01g, range200g; container tared once, cumulative readings0.00,9.98,19.99,29.97,39.98g; successive delivery differences9.98,10.01,9.98,10.01g; mean9.995g reportedabout10.00g, total39.98g. Do not sum cumulative readings or claim certified accuracy/density conversion. Time-based hypothetical sensor1reading/2s =0.5Hz,0–20s inclusive11points; same sensor series not11 independent objects. Range/resolution/accuracy/repeatability, raw vs derived/metadata and useful sampling."
+  },
+  {
+    "code": "AC9S9I04",
+    "descriptor": "select and construct appropriate representations, including tables, graphs, descriptive statistics, models and mathematical relationships, to organise and process data and information",
+    "source_basis_decision": "SUFFICIENT — BOUNDED CORE",
+    "product_status": "READY TO DRAFT subject to separate plan review",
+    "focuses": [
+      {
+        "id": "F1",
+        "intention": "Choose and construct fit-for-purpose representations",
+        "status": "SUFFICIENT — bounded accepted methods",
+        "evidence": "B22-NASA-CONSTRUCT;Y7INQUIRY:SCIENCEBUDDIES-GRAPHS,PEARSON-DATA-MODELS;Y8EARTH:JR-NANNO-STUDENT",
+        "basis": "Actual21row line-graph construction and eight-row seafloor scatter/slope task provide complete construction families. Retain proportional irregular time spacing, units, axes, source, purpose and uncertainty; no dependence on unobserved source graph pixels."
+      },
+      {
+        "id": "F2",
+        "intention": "Calculate appropriate descriptive summaries",
+        "status": "SUFFICIENT — bounded accepted methods",
+        "evidence": "Y7INQUIRY:PEARSON-DATA-MODELS,OPENSTAX-OUTLIER,OPENSTAX-SAMPLING,MICROSOFT-AVERAGE;B22-NOAA-ANNUAL;B22-NASA-ANNUAL",
+        "basis": "Actual repeated sugar times/sample/outlier arrays plus new annual data support appropriate mean/median/range and explicit outlier retention decisions. New original checked summaries include CO₂mean365.873125ppm/median365.36/range25.53 and anomalymean.4525°C/median.45/range.46; not all calculator digits are justified report precision."
+      },
+      {
+        "id": "F3",
+        "intention": "Link models/equations/data and diagnose misleading displays",
+        "status": "SUFFICIENT — bounded accepted methods",
+        "evidence": "Y8EARTH:JR-NANNO-STUDENT,JR-NANNO-TEACHER;B22-AURARIA-BURET;B22-NASA-ANNUAL;B22-O-CLIMATE",
+        "basis": "Actual fit/extrapolate/model tasks link mathematical slope to one-side spreading rate, with model assumptions. Original cumulative burette-error repair contrasts local/cumulative models; aligned two-panel/scatter construction prevents scale-driven agreement. Fifteen elapsed years is correct endpoint-rate denominator; endpoint rate is not fitted trend."
+      }
+    ],
+    "original_model_title": "Representations must agree",
+    "original_model_plan": "Original illustrative mass record at0/2/5/9min =100/98/95/91g. Unequal time intervals plotted proportionally on numeric xaxis, simple model m=100−t with units g andmin, supportedonly0–9min and idealised1g/min loss; not universal evaporation or conservation failure. Separate fourrepeatrecord4.0/4.1/4.2/8.1s givesmean5.1s median4.15s range4.1s; retain8.1pendinginvestigation, do not declareautomaticerror. Choose/construct table, graph, statistics, equation/model and limits."
+  },
+  {
+    "code": "AC9S9I05",
+    "descriptor": "analyse and connect a variety of data and information to identify and explain patterns, trends, relationships and anomalies",
+    "source_basis_decision": "SUFFICIENT — BOUNDED CORE",
+    "product_status": "READY TO DRAFT subject to separate plan review",
+    "focuses": [
+      {
+        "id": "F1",
+        "intention": "Connect comparable data across representations",
+        "status": "SUFFICIENT — bounded accepted methods",
+        "evidence": "B22-NOAA-ANNUAL;B22-NASA-ANNUAL;B22-NOAA-METHOD;B22-NASA-METHOD;B22-NASA-CONSTRUCT",
+        "basis": "Actual16same-calendar-year paired series and metadata now fill named multisource numerical gap; compare tables/two-panel lines/scatter preserving distinct station CO₂ versus global anomaly units and baseline. Siple21rows supply historical contrasting method, not overlapping replicate data."
+      },
+      {
+        "id": "F2",
+        "intention": "Explain quantified relationships using science",
+        "status": "SUFFICIENT — bounded accepted methods",
+        "evidence": "B22-O-CLIMATE;B22-GREENHOUSE-MECHANISM;B22-PINATUBO;B22-ENSO",
+        "basis": "Checked endpoint changes+25.53ppm and+.23°C in1990–2005, window summaries and countertrends support quantified explanation. Infrared energy-balance mechanism, aerosol influence and ENSO heat redistribution explain why an overall tendency need not be year-by-year monotonic; no isolated causal coefficient inferred."
+      },
+      {
+        "id": "F3",
+        "intention": "Investigate anomalies and qualify uncertainty",
+        "status": "SUFFICIENT — bounded accepted methods",
+        "evidence": "B22-O-CLIMATE;B22-NOAA-ANNUAL;B22-NASA-METHOD;B22-PINATUBO;B22-ENSO;Y7INQUIRY:OPENSTAX-OUTLIER",
+        "basis": "Retain1992/1999 declines:1991→92CO₂+.84ppm/temp−.19°C,1998→99+1.70ppm/−.23°C. Investigate metadata/other influences, not remove genuine variation. NOAA uncertainty definition preserved; NASA table lacks annual numeric uncertainty. Neither cooling year proves greenhouse physics false nor this window alone proves quantitative attribution."
+      }
+    ],
+    "original_model_title": "Quantified multisource trends and exceptions",
+    "original_model_plan": "Use exact accepted saved NOAA MaunaLoa annual CO2 and NASA global land-ocean J-D anomaly1990–2005 (1951–1980baseline). All16pairedrows and sourceattribution/metadata. Original two-panel plot sharedcalendar xaxis, separatelabelled units, no dualaxis or causal slope. Endpoint+25.53ppm and+.23°C over15elapsedyears;1998→99CO2+1.70ppm while anomaly−.23°C. NASA greenhouse mechanism plus possibleENSO/aerosolcontext, notnumericalattribution. NOAA uncertainty SD ofindependentseriesdifferences not95%CI; NASA annual numeric uncertainty absent. Snapshotnotfreshlatestdata; no uninspected sourcepixels or physical/climateperformance."
+  },
+  {
+    "code": "AC9S9I06",
+    "descriptor": "assess the validity and reproducibility of methods and evaluate the validity of conclusions and claims, including by identifying assumptions, conflicting evidence and areas of uncertainty",
+    "source_basis_decision": "SUFFICIENT — BOUNDED CORE",
+    "product_status": "READY TO DRAFT subject to separate plan review",
+    "focuses": [
+      {
+        "id": "F1",
+        "intention": "Assess validity and reproducibility of methods",
+        "status": "SUFFICIENT — bounded accepted methods",
+        "evidence": "YEAR9REVIEW:RSC-REVIEW-CASE,RSC-REVIEW-CHECKLIST,NASEM-CHECKING-TERMS;B22-UMB-CALIBRATE;FORCE:AAS-FORCE",
+        "basis": "Actual full fictional study report+teacher peer-review decisions supplies complete critique stimulus: daily dosing is given, but n,dose/form/control and quantified outcomes missing. Owner mobility report is not direct swelling measure. Reproducibility requires details; same-data recomputation/new-data replication conventions explicitly qualified."
+      },
+      {
+        "id": "F2",
+        "intention": "Evaluate assumption/uncertainty effects on conclusions",
+        "status": "SUFFICIENT — bounded accepted methods",
+        "evidence": "Y8INQUIRY:ABC-GRAPEFRUIT-CRITIQUE;Y8EARTH:JR-NANNO-STUDENT,JR-NANNO-TEACHER;B22-AURARIA-BURET;B22-GDX-TMP",
+        "basis": "Actual peeling multi-variable comparison, alternative seafloor fits, local-versus-cumulative calibration and response/resolution distinctions support assumption→effect→qualified conclusion. Missing metadata limits interpretation rather than proving instrument failure. No certainty from small spread or more serial readings."
+      },
+      {
+        "id": "F3",
+        "intention": "Compare conflicting evidence and improve claims",
+        "status": "SUFFICIENT — bounded accepted methods",
+        "evidence": "YEAR9REVIEW:RSC-REVIEW-CASE;Y8INQUIRY:ABC-GRAPEFRUIT-CRITIQUE;B22-NOAA-ANNUAL;B22-NASA-ANNUAL;B22-PINATUBO;B22-ENSO",
+        "basis": "Actual counterexamples and independently specified climate observables contradict overstrong monotonic claims. Retain conflicts, distinguish observables and offer discriminating tests/control or expanded evidence. RSC qualified rejection does not establish fraud/ineffectiveness; climate paired records do not isolate causation."
+      }
+    ],
+    "original_model_title": "Method, reproducibility and claims separately",
+    "original_model_plan": "Original fictional cooling report: blackcupinshadedroom and whitecupinsun, differentlocations; recordedendtemperatures28vs32°C after10min; claimsblackcolouralwayscoolsbetter. Missinginitialtemperatures,volume/cupmaterial andreplicates; cannotisolatecolour. Explicitlyreported10minmustnotbecalledmissing. Revisionplanmatchedinitialtemperature/volume/material, sameexposure, randompositions, repeatedindependentcups, operationalendpoint, rawdata/uncertainty; noactualnewoutcome. Distinguishsame-datarecompute, newdatacollection, differentcontexts; reproduciblebiaspossible."
+  },
+  {
+    "code": "AC9S9I07",
+    "descriptor": "construct arguments based on analysis of a variety of evidence to support conclusions or evaluate claims, and consider any ethical issues and cultural protocols associated with accessing, using or citing secondary data or information",
+    "source_basis_decision": "SUFFICIENT — BOUNDED CORE",
+    "product_status": "READY TO DRAFT subject to separate plan review",
+    "focuses": [
+      {
+        "id": "F1",
+        "intention": "Synthesize varied evidence and scientific warrants",
+        "status": "SUFFICIENT — bounded accepted methods",
+        "evidence": "ARGUMENT:B17-LHS-REASONING,B17-LHS-EVIDENCE;PERSPECTIVES:BTN-PLASTIC-TASKS,CSIRO-PLASTIC-RELEASE,CSIRO-PUBLIC-PLASTICS;B22-O-CLIMATE",
+        "basis": "Complete external argument samples/rubrics judge relevance/sufficiency and scientific warrants rather than count citations. BTN actual construction plus agency/public evidence/trade-offs supply production. New actual climate numbers and mechanism offer Year9 quantitative synthesis; new written arguments remain future original authoring."
+      },
+      {
+        "id": "F2",
+        "intention": "Evaluate alternatives and calibrated conclusions",
+        "status": "SUFFICIENT — bounded accepted methods",
+        "evidence": "ARGUMENT:B17-LHS-REASONING;YEAR9REVIEW:RSC-REVIEW-CASE;PERSPECTIVES:QLD-CONSULTATION;B22-O-CLIMATE",
+        "basis": "Actual contrasting student arguments and flawed-report review train calibrated alternatives. Self-selected consultation94% is not a population estimate; numerical climate countertrends do not by themselves refute mechanism. Rubric requires scoped claim,evidence,warrant,contrary/missing evidence and qualified judgement, no preferred policy conclusion."
+      },
+      {
+        "id": "F3",
+        "intention": "Apply data provenance/ethics/cultural access protocols",
+        "status": "SUFFICIENT — bounded accepted methods",
+        "evidence": "PERSPECTIVES:CSIRO-ICIP-TERMS,VCAA-CULTURAL-INQUIRY;PERMISSIONS:ILALC-DJEERA-PROTOCOL;B22-NOAA-ANNUAL;B22-NASA-METHOD",
+        "basis": "Actual source-access/publication terms and local knowledge-holder protocol distinguish attribution from authorisation. Record creator/title/date/URL/access/variable/units/method and restrictions; honour refusal and use original permitted alternatives. Data citation requests retained; no commercial cultural permission or source-art licence acquired."
+      }
+    ],
+    "original_model_title": "Construct qualified arguments with ethical provenance",
+    "original_model_plan": "Reuse exact saved16-yearclimatepack/metadata and namedmechanism fromI05 as secondaryevidence, notnewobservations. Original claim–quantitativeevidence–scientificwarrant–counterevidence–qualifiedscopechain;1998→99declinecounterexampletoannualmonotonicclaim, notautomaticrefutationofgreenhouseinfluence. Require creator/dataset/variables/units/baseline/window/snapshot/access/citation; publicdata≠allunrestricteduse. Separatefictionalculturalknowledgedatascenariowithpublicationrefused: respectauthorityandrefusal, usepermittedalternative, citationnotconsent. No actualculturalcontent oracquiredpermission."
+  },
+  {
+    "code": "AC9S9I08",
+    "descriptor": "write and create texts to communicate ideas, findings and arguments effectively for identified purposes and audiences, including selection of appropriate content, language and text features, using digital tools as appropriate",
+    "source_basis_decision": "SUFFICIENT — BOUNDED CORE",
+    "product_status": "READY TO DRAFT subject to separate plan review",
+    "focuses": [
+      {
+        "id": "F1",
+        "intention": "Select accurate content for purpose/audience",
+        "status": "SUFFICIENT — bounded accepted methods",
+        "evidence": "AUDIENCE:VIC-SCI-LANGUAGE,NASA-TEACHER-STUDENT,HISTORY-EXPERT-PUBLIC;PERSPECTIVES:CSIRO-PLASTIC-RELEASE,CSIRO-PUBLIC-PLASTICS;B22-NASA-ANNUAL",
+        "basis": "Actual complete teacher/student and expert/public text pairs expose audience/purpose differences; Victorian children-TV/newsletter activities require creation, not just reading. At Year9 retain measured quantity,units,baseline and limits when adapting explanation; no source-publisher revision chronology claimed."
+      },
+      {
+        "id": "F2",
+        "intention": "Integrate meaningful language/figures and evidence",
+        "status": "SUFFICIENT — bounded accepted methods",
+        "evidence": "WATER:NASA-WATER-CAPTURE,NASA-WATER-GUIDE;AUDIENCE:VIC-SCI-LANGUAGE;B22-NASA-CONSTRUCT;B22-O-CLIMATE",
+        "basis": "Actual captioned poster/comic criteria and graph construction methods support coherent claims/figures/captions, defined terms and attribution. New climate dataset supports a quantitative peer report and accessible public explanation planned with the same evidence; these two exact new versions are author extensions, not newly observed source tasks."
+      },
+      {
+        "id": "F3",
+        "intention": "Create/revise accessible attributed communication",
+        "status": "SUFFICIENT — bounded accepted methods",
+        "evidence": "AUDIENCE:VIC-SCI-LANGUAGE;PERSPECTIVES:BTN-PLASTIC-TASKS;WATER:NASA-WATER-CAPTURE;ARGUMENT:science_communication_methods,argument_method_and_ethics",
+        "basis": "Actual inaccurate-cartoon repair, audience-specific composition and full communication rubric support create→check scientific meaning/evidence→revise for audience. Future digital or paper form must include legibility,caption/alt description and provenance where appropriate. No actual software output, accessibility performance, audience testing or finished product promoted."
+      }
+    ],
+    "original_model_title": "Create different texts preserving the same result",
+    "original_model_plan": "Original fictional schoolpavingpairedrecord: threeindependentmatchedblocks atsametime/conditions, shaded28/29/30°C versusunshaded35/36/37°C; means29vs36°C,7°Cdifference. Infraredinstrumentsettings/emissivity/position documentedinbrief, notdirectbodytemperature orcityclimate measurement. Original twoaudience versions schoolcommittee vsYear6 preservingquantity/condition/limit. Labels/headings/caption/alternative-description, usefuldigitaltoolchoice andexportcheck. Create/reviseactualstudenttextfromsuppliedpacket; no realaudiencetesting/policyrecommendation."
+  }
+]
