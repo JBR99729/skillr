@@ -78,9 +78,9 @@
       "index": 1,
       "png": "AC9S10U05-1.png",
       "kind": "retained",
-      "literal_svg_sha256": "824f29d72b5cd44ec731c673f7c147ec0cf1692781a49a7caedc2b933a66f6fc",
-      "prepared_render_svg_sha256": "83c4015911afdb5a0b732ea7c6d037f25346b12b6d7ae2e086c8020cbbf4e478",
-      "png_sha256": "736e52cae60c5907a89cd955dec3f9b769742535cb6cd618f6b7a13d65c2f9d6"
+      "literal_svg_sha256": "a5a6451aad80bbbd2bfc56ad7573506cd0cd17603fe4610491e3d22d201c9ca5",
+      "prepared_render_svg_sha256": "75c2fd687708fa889fc69a57ef5fbb8158bb11f532f8284315bc8e302c1bf044",
+      "png_sha256": "f91f1ef2ebefdd27e2f27810fba0daedc2af3d4c8befb104f44d55b4c26b720e"
     },
     {
       "code": "AC9S10U06",

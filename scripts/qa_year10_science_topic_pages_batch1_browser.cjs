@@ -40,6 +40,10 @@ fs.mkdirSync(out, {recursive:true});
           }
         }
 
+        if(width<600 && item.code==='AC9S10U05'){
+          const object=await retained.locator('svg text').filter({hasText:/^object$/}).boundingBox();
+          assert(object && object.x>=0 && object.x+object.width<=width,item.code+': chosen object must be visible before diagram panning');
+        }
         let htmlIndex=0;
         for(const model of await retained.locator('div.science-flow[role=img]').all()){await model.scrollIntoViewIfNeeded();await model.screenshot({path:path.join(out,`${item.code}-${width}-native-${++htmlIndex}.png`)});}
         let retainedIndex=0;

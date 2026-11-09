@@ -9,6 +9,15 @@
     "original_identity_definition": "SHA256 of original lxml HTML SVG serialization; final literal/prepared/PNG identities are separately bound."
   },
   {
+    "code": "AC9S10U05",
+    "section": "Worked examples",
+    "label": "d-AC9S10U05",
+    "original_literal_svg_sha256": "5ab5fc985ccb62e8e6bb03afc994833314b78c17c6c1e4b5eec0e409873220e0",
+    "after_svg": "<svg viewbox=\"350 0 470 300\" role=\"img\" aria-labelledby=\"d-AC9S10U05\"><title id=\"d-AC9S10U05\">Free-body diagram showing balanced vertical forces and an unbalanced horizontal force</title><rect x=\"385\" y=\"110\" width=\"150\" height=\"100\" rx=\"12\" fill=\"#eef5ff\" stroke=\"#2457d6\" stroke-width=\"3\"></rect><text x=\"460\" y=\"166\" text-anchor=\"middle\" class=\"science-diagram-label\" font-size=\"23\" font-weight=\"700\">object</text><line x1=\"460\" y1=\"110\" x2=\"460\" y2=\"30\" stroke=\"#0f172a\" stroke-width=\"5\"></line><polygon points=\"460,18 447,42 473,42\" fill=\"#0f172a\"></polygon><text x=\"480\" y=\"45\" class=\"science-diagram-label\" font-size=\"19\">normal</text><line x1=\"460\" y1=\"210\" x2=\"460\" y2=\"285\" stroke=\"#0f172a\" stroke-width=\"5\"></line><polygon points=\"460,293 447,269 473,269\" fill=\"#0f172a\"></polygon><text x=\"480\" y=\"275\" class=\"science-diagram-label\" font-size=\"19\">weight</text><line x1=\"535\" y1=\"160\" x2=\"760\" y2=\"160\" stroke=\"#2457d6\" stroke-width=\"7\"></line><polygon points=\"775,160 747,146 747,174\" fill=\"#2457d6\"></polygon><text x=\"610\" y=\"140\" class=\"science-diagram-label\" font-size=\"20\" font-weight=\"700\">net force</text><text x=\"610\" y=\"190\" class=\"science-diagram-label\" font-size=\"20\">acceleration →</text></svg>",
+    "reason": "Hosted phone capture initially showed only the original empty left margin. Crop unused whitespace from the viewBox only, keeping every object, arrow and label, so the chosen object is visible before horizontal scrolling.",
+    "original_identity_definition": "SHA256 of original lxml HTML SVG serialization; final literal/prepared/PNG identities are separately bound."
+  },
+  {
     "code": "AC9S10U06",
     "section": "Worked examples",
     "label": "d-AC9S10U06",

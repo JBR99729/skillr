@@ -1,6 +1,6 @@
 # Independent Year10 Science batch1 teacher-style content review
 
-**Final content/model decision: PASS — all420 authored scalar fields,120 retained educational sections plus the relocated U06 FAQ, and all17 teaching models (16 SVGs plus1 native HTML model) reviewed; zero unresolved confirmed content/model defects.**
+**Final content/model decision: PASS — all420 authored scalar fields,120 retained educational sections plus the relocated U06 FAQ, and all17 teaching models (16 SVGs plus1 native HTML model) reviewed; no unresolved science/content defect. Targeted U05 repaired-phone rendering remains pending as described below.**
 
 Whole-page final-head browser/software and release verification remain separate and pending. This content/model PASS is not a final-head browser or publication PASS.
 
@@ -8,7 +8,7 @@ Reviewer: `/root/science_teacher_review`, a separate AI reviewer from page autho
 
 ## All-item coverage
 
-Read every one of the420 scalar strings in `page-content.json` and checked their presence in the actual shipped HTML; this is a count of author fields, not420 questions. Reviewed all ten worked examples/evidence tables,30 guided teaching steps and their30 distinct question/answer pairs,30 tricky question/answer pairs,20 FAQs,30 misconception/repair pairs, ten paper activities, all Support/Core/Extend and safety text. Independently recalculated the numerical/model answers and evaluated open-response criteria. Read every one of the120 retained educational sections from the actual final HTML, including nested questions, answer keys, independent/assessment prompts, optional examples, boundaries and teacher/parent guidance. Read the full relocated U06 FAQ and all eight addition records, four retained-text repairs, three retained-SVG repair records, model captions, accessible names and SVG textual content. This was complete coverage, not sampling.
+Read every one of the420 scalar strings in `page-content.json` and checked their presence in the actual shipped HTML; this is a count of author fields, not420 questions. Reviewed all ten worked examples/evidence tables,30 guided teaching steps and their30 distinct question/answer pairs,30 tricky question/answer pairs,20 FAQs,30 misconception/repair pairs, ten paper activities, all Support/Core/Extend and safety text. Independently recalculated the numerical/model answers and evaluated open-response criteria. Read every one of the120 retained educational sections from the actual final HTML, including nested questions, answer keys, independent/assessment prompts, optional examples, boundaries and teacher/parent guidance. Read the full relocated U06 FAQ and all eight addition records, four retained-text repairs, four retained-SVG repair records, model captions, accessible names and SVG textual content. This was complete coverage, not sampling.
 
 The accepted plan report binds the41 source archives and19 immutable dependencies. Its bounded source decisions, current official Year10 descriptor mapping, dated source limits and originality/rights restrictions remain valid. The unopened Florey lecture has not become a new acceptance basis. No source art, performed practical, learner performance, audio/video experience, cultural consultation/permission or medical outcome is claimed. Newly authored records are explicitly fictional except the attributed saved climate and historical evidence. No restricted cultural knowledge is newly invented.
 
@@ -38,11 +38,19 @@ Activities are differentiated paper tasks with supplied data or original represe
 
 The author’s earlier U04 central-text and H01 arrow-order corrections were present before this review; the current actual PNGs were inspected directly, without claiming independent observation of their earlier states. No unresolved confirmed textual or SVG defect remains. Unchanged questions/models were not needlessly reviewed again after these narrow prose repairs.
 
+## Targeted U05 crop delta — source/standalone PASS; phone capture OPEN
+
+After the initial final-head browser automation passed, the author found a real phone presentation problem. This reviewer independently opened the actual `final-browser/AC9S10U05-390-retained-1.png`: its initial view is blank apart from the swipe prompt because the original drawing begins near x385 within a viewBox starting at0. Automated no-overflow/pan checks had not established a useful initial view.
+
+Independently compared the original and repaired retained SVG. Apart from normal retained reference/case treatment, its sole change is `viewBox="0 0 920 300"` → `viewBox="350 0 470 300"`. The new bounds span x350–820,y0–300. The object begins x385; arrowheads lie within x447–775/y18–293, and every text label remains inside the crop. No object, arrow, coordinate, label, force relationship or answer changed. The new actual `reviewer-models/AC9S10U05-1.png` was individually opened: all teaching elements are clear, readable and unclipped. Literal, prepared-input and actual PNG hashes were independently recomputed; the other15 SVG/PNG triples match the prior reviewed report exactly. The native U02 literal and seven CSS dependencies are unchanged.
+
+The fourth retained-SVG correction ledger row records this exact viewBox-only crop. This targeted delta and its standalone rendering PASS. **The repaired phone’s actual browser pixels have not yet been observed by this reviewer.** A third hosted run/targeted phone capture is still required; no first-head/final-head automation pass is being substituted for that missing observation. This does not restart unchanged science/answer review.
+
 ## Model inspection and identity
 
 Opened each of the16 individual actual white-background1000px PNGs, not just a contact sheet: ten originals plus six retained. All labels, counts, sequences, direction arrows, formulae, curves and captions were checked against the actual SVG/source and relevant questions. No visible clipping, broken glyph, collision or misleading relationship was found at this standalone inspection size. U05 caption explicitly says arrows show direction, not force scale; U04 caption similarly disclaims quantitative arrow widths. U07 interval boxes are not misrepresented as instantaneous-rate points.
 
-Retained repairs were narrowly checked: U04 greenhouse annotation clear of the infrared path; U06 explanatory text clear and semantically unchanged; U07 legend/curve labels clear with common reactant/product endpoints and lower catalyst barrier. The other three retained SVGs preserve their baseline tree apart from standard reference-prefix/case preparation. No retained raster teaching images exist.
+Retained repairs were narrowly checked: U04 greenhouse annotation clear of the infrared path; U05 empty-margin crop preserves every graphical/text element; U06 explanatory text clear and semantically unchanged; U07 legend/curve labels clear with common reactant/product endpoints and lower catalyst barrier. The other two retained SVGs preserve their baseline tree apart from standard reference-prefix/case preparation. No retained raster teaching images exist.
 
 Independently recomputed all48 identity bindings: exact literal SVG substrings from final HTML, standalone prepared SVG inputs using the stated retained styles/font, and actual PNG bytes. The manifest definitions correctly distinguish these identities; prepared-render hash is not falsely labelled literal source. The exact triples below bind the inspected pixels.
 
@@ -56,7 +64,7 @@ Independently recomputed all48 identity bindings: exact literal SVG substrings f
 | AC9S10U04-0.png | new | `2877835c4b66180d38aaff51d067c8e2d4ba0a108e7e729a3b2cdb7d4ac59f10` | `2877835c4b66180d38aaff51d067c8e2d4ba0a108e7e729a3b2cdb7d4ac59f10` | `dd823b57ba0027825fce726c60c5d6aabc824172c3ad6df7279fa02e3f444ae7` |
 | AC9S10U04-1.png | retained | `dd962b264bc947102098182ad7b1330d21962b9668ba708e02bd4781885928ef` | `63ca10365a181804847813fc418dc601579008b73facbf4446a321cd64ccf4a5` | `2087676df304913440176d10194b3df7486bcc2ee10e40c686af1355273fbab5` |
 | AC9S10U05-0.png | new | `ceb8e5028bbc20608f17a6935d0b38a3b004387a5ad9cb95bcb7474e602c5751` | `ceb8e5028bbc20608f17a6935d0b38a3b004387a5ad9cb95bcb7474e602c5751` | `66dab4cc449b8a296335cc8eacd6dfbf288e38ace35a9e77eb7a23b439c48f99` |
-| AC9S10U05-1.png | retained | `824f29d72b5cd44ec731c673f7c147ec0cf1692781a49a7caedc2b933a66f6fc` | `83c4015911afdb5a0b732ea7c6d037f25346b12b6d7ae2e086c8020cbbf4e478` | `736e52cae60c5907a89cd955dec3f9b769742535cb6cd618f6b7a13d65c2f9d6` |
+| AC9S10U05-1.png | retained | `a5a6451aad80bbbd2bfc56ad7573506cd0cd17603fe4610491e3d22d201c9ca5` | `75c2fd687708fa889fc69a57ef5fbb8158bb11f532f8284315bc8e302c1bf044` | `f91f1ef2ebefdd27e2f27810fba0daedc2af3d4c8befb104f44d55b4c26b720e` |
 | AC9S10U06-0.png | new | `c6893bc260de3077c137de0d249ccf8b7951d38697f78684dc7a599efc4a57c1` | `c6893bc260de3077c137de0d249ccf8b7951d38697f78684dc7a599efc4a57c1` | `6100abff0d758a11af0ecd24ba57a46029f90acad270a245ad88199b6193b2b3` |
 | AC9S10U06-1.png | retained | `5d91acf487ad936b3037aeb85f7412e5a1d89b58f8f6c5bf9f349b039b7a7813` | `f076126e8100fcf71d018c6327c117d23b1c1678c2a77db60265f4fe35a52a22` | `ace235ebfcef0cedac0773a1875726d015c21ce0a7b335925571cfcadd3e68a8` |
 | AC9S10U07-0.png | new | `e78fc941c35343e815b11734800724eb9a68757b6d7a30475e5aa582ec1ec147` | `e78fc941c35343e815b11734800724eb9a68757b6d7a30475e5aa582ec1ec147` | `d3be4e365f075ec94ccea2e14269d7b8eeb6dca44dc038519a0ef9f86379149e` |
@@ -85,13 +93,13 @@ The manifest’s `browser_render` block records exact source head/page/literal/s
 
 Independently reran `python scripts/qa_year10_science_topic_pages_batch1.py 472ab5f1537356b48568aa0222595548f2817e9b`: PASS10pages/120retained educational sections/0raster image references/265named native disclosures. Inspected that gate’s scope: actual authored strings, exact title/description/robots/canonical and all meta attributes, all JSON-LD, section inventory, native IDs/ARIA references, exact retained text with only declared additions/corrections, retained visual/SVG identity, native U02 markup, aliases, static routes and matching app return. Structural counts are supporting evidence, not the content decision.
 
-The original U06 FAQ’s complete text remains identical, now nested under retained Key concept. Its macro class changes to a nested-FAQ class; original public answer ID `year10-periodic-answer`, heading ID `year10-periodic-question` and matching ARIA reference are preserved exactly. The sixteen main educational/resource IDs retain their locked identity/order. Seven other addition blocks supply missing stimuli/checked responses within their existing sections. The four U04 text ledger repairs and three SVG layout repairs are the only declared retained changes beyond those additions/standard wrappers.
+The original U06 FAQ’s complete text remains identical, now nested under retained Key concept. Its macro class changes to a nested-FAQ class; original public answer ID `year10-periodic-answer`, heading ID `year10-periodic-question` and matching ARIA reference are preserved exactly. The sixteen main educational/resource IDs retain their locked identity/order. Seven other addition blocks supply missing stimuli/checked responses within their existing sections. The four U04 text ledger repairs and four SVG layout repairs are the only declared retained changes beyond those additions/standard wrappers.
 
 Actual teacher viewer and `/quiz/year-10/science/CODE/worksheet/` destinations are retained for each same code. One catalogue CTA uses Year10 Science and the exact canonical return; no unavailable code bank is advertised as published. Ten active canonicals/metadata and ten compatibility redirect byte hashes are preserved. There is no runtime lesson assembler or changed app bank. No obsolete broader validator failure is represented here as a pass; their baseline comparison and the author’s other software checks remain separately recorded.
 
 ## Exact reviewed candidate identities
 
-All hashes below describe actual local final bytes after the U04/U07 targeted repairs, restored U06 public IDs and ten corrected year labels, with the native-model pixel gate closed through unchanged dependency identities. A later unrelated commit does not by itself invalidate unchanged reviewed content, but any relevant file change requires an identity/delta recheck.
+All hashes below describe actual local final bytes after the U04/U07 targeted repairs, restored U06 public IDs, ten corrected year labels and the U05 viewBox-only crop. The U02 native-model pixel gate is closed through unchanged dependency identities; observed U05 repaired-phone closure remains pending. A later unrelated commit does not by itself invalidate unchanged reviewed content, but any relevant file change requires an identity/delta recheck.
 
 | Code | Final HTML path | SHA256 |
 |---|---|---|
@@ -99,7 +107,7 @@ All hashes below describe actual local final bytes after the U04/U07 targeted re
 | AC9S10U02 | `year10/science/ac9s10u02-evolution-natural-selection-evidence/index.html` | `54eff9d2777e44fb60f060c3c21001c1944ee68e39df406e093333b6e214f0a2` |
 | AC9S10U03 | `year10/science/ac9s10u03-big-bang-evidence-expanding-universe/index.html` | `46cba3109c5caea748afee1ecb44ba8efd622166da70e789ab78f8ccec4df4fc` |
 | AC9S10U04 | `year10/science/ac9s10u04-earth-energy-balance-global-climate-change/index.html` | `64f79cd7c20c77c9078cfa97f874e5c70a0845eee764627fbfdb2f98be8c0945` |
-| AC9S10U05 | `year10/science/ac9s10u05-newtons-laws-force-mass-acceleration/index.html` | `4e7ac45ce54080f7c998047f2dcbd9ca3b110a3ce11548f13592e5f6703115b3` |
+| AC9S10U05 | `year10/science/ac9s10u05-newtons-laws-force-mass-acceleration/index.html` | `9d07f02f699af238b6373f3a6217be03d552e33bcd7117fa4a7e15b220848191` |
 | AC9S10U06 | `year10/science/ac9s10u06-atomic-structure-periodic-table-patterns/index.html` | `44b60b3705e5105e7951a5d117ca82bc81646c61216660939fd6abdc3298c298` |
 | AC9S10U07 | `year10/science/ac9s10u07-chemical-reaction-patterns-reaction-rates/index.html` | `5b30c09bb9f68e7c8f2070f6293372f1de8dca5564a756f86ff0afd6e5ca7c79` |
 | AC9S10H01 | `year10/science/ac9s10h01-scientific-validation-peer-review-evidence/index.html` | `c6fcd6995a7b05058d12f7f3bf17fd1e9048c94216abeccd2ed60124d17e43ae` |
@@ -108,13 +116,13 @@ All hashes below describe actual local final bytes after the U04/U07 targeted re
 
 | Supporting input | SHA256 |
 |---|---|
-| `docs/qa/year10-science-topic-pages-batch1-20261109/inventory.json` | `5ca6f778916d2ff56c3d75373fe201b1d831b2d803a3b024ef2c793b0bbd9504` |
+| `docs/qa/year10-science-topic-pages-batch1-20261109/inventory.json` | `5e2d12007de548f28f9714ebde8f7cbeb855f25a3bc87c72e4dc33f36d2322f8` |
 | `docs/qa/year10-science-topic-pages-batch1-20261109/page-content.json` | `a11c48c3c258f7036a792659580abc1e5f49c3e42a083d5d1ce73b6b53062b3b` |
-| `docs/qa/year10-science-topic-pages-batch1-20261109/artwork-and-evidence.json` | `9d792131f34609c53fef4c91d27e22a59592a3d1efd2c0b44271dae8008fac9c` |
+| `docs/qa/year10-science-topic-pages-batch1-20261109/artwork-and-evidence.json` | `1526bb04fef95e0a6e3afc7c8754b0e4a89a6af2bd207eec43de7646ec2ce9ca` |
 | `docs/qa/year10-science-topic-pages-batch1-20261109/browser-evidence.json` | `e537f8c64fc50d90c257fa5dcd7fcdd3dbd5d046a50a9c420f5fcd79254670d6` |
 | `docs/qa/year10-science-topic-pages-batch1-20261109/retained-corrections.json` | `0ee3683f05fc6586a3b1d2eb4b4ab4b719b5bbfcb07aeebc5d22e17cf7659556` |
 | `docs/qa/year10-science-topic-pages-batch1-20261109/retained-additions.json` | `4a47a179a3e465d0f31941e0f8b9a7e82153a8295d93e605efcb9e1b58ad26db` |
-| `docs/qa/year10-science-topic-pages-batch1-20261109/retained-svg-corrections.json` | `1641470f4748d2e53c7c5301d0f3815aeeab5f3d9ae50359a3fda89b6c2245ea` |
+| `docs/qa/year10-science-topic-pages-batch1-20261109/retained-svg-corrections.json` | `85e646b738d4e6658a3eeca2f5cbfb98e8535df589996b4f643bb9b201238ab9` |
 | `docs/qa/year10-science-topic-pages-batch1-20261109/retained-visual-corrections.json` | `37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570` |
 | `docs/qa/year10-science-topic-pages-batch1-20261109/canonical-aliases.json` | `d97d494f3e04854935bed40e6bc31f53fd477215f23aac145164bb08f120c3d6` |
 | `docs/qa/year10-science-topic-pages-batch1-20261109/reused-research.json` | `7795450382177c344b83619ad85dafbf1b7bc1ad03db4988f8ac3b0249c0c634` |
@@ -132,4 +140,4 @@ All hashes below describe actual local final bytes after the U04/U07 targeted re
 |---|---|
 | Scratch `render_models.py` | `3e5e9e556c66fade26b266d5361b68d67941ae048d76a2dd722f8de2950aa62c` |
 
-This review does not merge, deploy, verify production, approve source pixels never inspected or replace final-head whole-page browser/software checks. The all-item content and all17-model scope has PASS with zero unresolved confirmed defects; final-head browser and production verification are still separately required.
+This review does not merge, deploy, verify production, approve source pixels never inspected or replace final-head whole-page browser/software checks. The all-item science/content and standalone model checks remain PASS. Actual repaired U05 phone rendering, final-head whole-page browser/software and production verification remain separately required; no repaired-phone visual PASS is claimed yet.
