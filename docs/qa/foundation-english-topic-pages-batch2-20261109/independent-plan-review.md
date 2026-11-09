@@ -83,16 +83,16 @@ Conditional actual-material prerequisites are legitimate for these classroom ext
 
 | Saved code acceptance record | SHA256 |
 |---|---|
-| `qa/all-codes/english-f3/foundation/AC9EFLE02.json` | `7f7d4635272729a1de251a46e426c94bb957f60140dcd0c81bffc1a33727180d` |
-| `qa/all-codes/english-f3/foundation/AC9EFLE03.json` | `bd3b72f0ada57209c7c8a40a3aef3e54545aff9c65e8f1af9a34226f9af0d356` |
-| `qa/all-codes/english-f3/foundation/AC9EFLE04.json` | `13df48ffdb39d1ad8283be44c3c3596e4f20cba9e03761038943eebcdcc44ec3` |
-| `qa/all-codes/english-f3/foundation/AC9EFLE05.json` | `b5c901ebd2b5832856c7e61a1887c32a4f38dd6ade0d6ce21a86babbb0597c12` |
-| `qa/all-codes/english-f3/foundation/AC9EFLY01.json` | `efb44934704939ab98a6ee6b40730d07d311ab390d92e18f60f1144cc50631f5` |
-| `qa/all-codes/english-f3/foundation/AC9EFLY02.json` | `67c2b1c5f0297ca8d6d52a4df5e97e38d8754cad2988bf74e922618d46f9f100` |
-| `qa/all-codes/english-f3/foundation/AC9EFLY03.json` | `9bc7e54ce0f16941a141f070a7524e4fdbca7dff2a54fe469e86fe5c33b61825` |
-| `qa/all-codes/english-f3/foundation/AC9EFLY04.json` | `a70dae89cb69a2d64b7e6794649c1f03856c953d90b8bc055e515fba6b404592` |
-| `qa/all-codes/english-f3/foundation/AC9EFLY05.json` | `f313f1e9a5ffda6fedbb1a42185c70bc83a024a41bbc74156e9a96ab82437573` |
-| `qa/all-codes/english-f3/foundation/AC9EFLY06.json` | `3faca505acd7363c5f40d637a376282d4b074c00cd1ffa2628f0ecba4cdf009f` |
+| `qa/all-codes/english-f3/foundation/AC9EFLE02.json` | `e50cef90649cd77d9a30d68efd3fc7d8beabf09a196c241cb2c753986d3f462c` |
+| `qa/all-codes/english-f3/foundation/AC9EFLE03.json` | `acff2da419dd6f4dd8ee9e89c9f4bac3b1b600703a995dbf843f8553de4282e5` |
+| `qa/all-codes/english-f3/foundation/AC9EFLE04.json` | `1a597db4b3a72f91c6c4ec43db01f302c43f89c3e706980c5caff4ea4d7bfe41` |
+| `qa/all-codes/english-f3/foundation/AC9EFLE05.json` | `0f5d738235319f3b2be834d05e3f43d6dc719d6d0e3f76c1203210d6f781be24` |
+| `qa/all-codes/english-f3/foundation/AC9EFLY01.json` | `52ec9667b220e7981bb73e7d27291979de7b98c25563554bb389c5878cc69753` |
+| `qa/all-codes/english-f3/foundation/AC9EFLY02.json` | `6b8c479d76e6eff91b3ce88ec4839715e8267d473440f8b9cd0cbaf7310fcc23` |
+| `qa/all-codes/english-f3/foundation/AC9EFLY03.json` | `97f6c6212f771ce4e1141e3e37cc5d8fd47812f042d725baf3079d8200ffb3b7` |
+| `qa/all-codes/english-f3/foundation/AC9EFLY04.json` | `1de336a2bb6d2870264d706bb359ebadb1c1dea9d31cfd496805729eac9324b2` |
+| `qa/all-codes/english-f3/foundation/AC9EFLY05.json` | `046084b6afc08a0f40a3b99c8387d742a59011982b4da1765d819e2ae7e38f2e` |
+| `qa/all-codes/english-f3/foundation/AC9EFLY06.json` | `0bf7e3fbc40ed32523c5851a5e96371abb3357452348b6656bf19a728700e87e` |
 
 All accepted unique dependency identities independently verified:
 
@@ -139,3 +139,7 @@ Draft the scoped original teaching and exact retained repairs. Then independentl
 The initial plan-report shorthand that My seed grew had no CVC target was too broad. Seed has three phonemes /s/ /ee/ /d/; its vowel digraph ee, rather than an extra sound, distinguishes it from the intended initial single-letter short-vowel model cat. Grew begins with /g/ /r/ and uses ew. The active repair wording above is qualified accordingly. The final author has independently repaired the relevant question/key and all three material-packet copies. This corrects the reviewer’s earlier imprecision; the READY TO DRAFT decision and required final all-item gate are unchanged.
 
 Original report SHA256 before this transparent correction: `a177cb8b9497f9ab4aa2527b48393a3b9c5469cd0ae85ab414dc09cbfa54a8f0`. Current author plan SHA256 after its matching boundary precision: `8f3cc1de112bb433b7df6a7c2ed34531080cbd339ff0be7cfa2be6c540cf0b30`.
+
+## QA archive byte normalisation — 9 November 2026
+
+The ten saved code-QA JSON archives originally had one extra final LF introduced by the file writer. The author restored their exact pinned remote Git-blob bytes. Independently verified all ten corrected byte lengths, SHA256s and Git-blob SHA1s against `qa-remote-identities.json`, reconstructed each previously recorded digest by appending exactly one LF, and confirmed parsed JSON equality. The ten QA rows above now bind exact restored bytes; source judgments and all 31 accepted dependency pins are unchanged. Pre-normalisation report SHA256: `4b3f80708a6600d55393195b99e8cb5e6b9ca529945711801bb875202882e01b`. Correction ledger SHA256: `3610ae5df57d54c907f2dd4f9a14bdb8d7bcaebaacfea1ce3dbdb6b5cea551b9`; remote-identity list SHA256: `8a3f206d9c1ffb87cd9fc3cb88e5d80fb52d25fe14fa14c397242eeb78d83c3e`. These bookkeeping changes do not create new source observations.

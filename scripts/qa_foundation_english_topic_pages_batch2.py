@@ -42,6 +42,7 @@ for x in inv:
   return html.tostring(e,encoding='unicode',method='html',with_tail=False)
  assert [svg_identity(e)for e in previous.xpath('.//svg')]==[svg_identity(e)for e in now.xpath('//section[@class="earlier-worked-model"]//svg')],c+' earlier exact SVG geometry'
  assert len(now.xpath('//div[@class="steps"]/article'))==3 and len(now.xpath('//section[contains(@class,"tricky-questions")]/details'))==3,c+' teaching focuses'
+ assert not now.xpath('//*[contains(@class,"concept-figure")]//*[contains(@class,"concept-figure")]'),c+' nested diagram scroll containers'
  ids=now.xpath('//@id');assert len(ids)==len(set(ids)),c+' duplicate ids'
  for e in now.xpath('//details'):assert len(e.xpath('./summary'))==1,c+' disclosure name';disclosures+=1
  for e in now.xpath('//*[@aria-labelledby or @aria-describedby]'):
