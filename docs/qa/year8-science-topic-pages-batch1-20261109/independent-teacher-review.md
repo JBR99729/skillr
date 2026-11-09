@@ -48,6 +48,14 @@ Independently ran `python scripts/qa_year8_science_topic_pages_batch1.py f6b3931
 
 Reviewed the dedicated Year 8 validator compatibility change. For a retired hub it now checks actual refresh and fixed JavaScript destinations, the single native fallback, Learn canonical and `noindex,follow`, not mere presence of the right URL somewhere in the page. Only that verified retirement path derives inventory from the authoritative Year 8 Science catalogue. The active-hub badge path is retained; duplicate rejection, exact nineteen-code inventory and the original nineteen per-page gates remain. The earlier URL-presence-only check could miss a wrong redirect with a correct fallback; that specific weakness was fixed. Independently ran the current validator: **PASS for the full nineteen-code inventory and nineteen page gates**. The author's isolated mutation fixtures are additional author-reported evidence, not independently claimed executions by this reviewer. No validation gate was disabled to obtain a pass.
 
+## Scoped navigation-spacing delta — PASS
+
+After the all-item review, the author reported the initial hosted run passing eleven CI checks, thirty viewport checks and ten JavaScript smoke checks, with 84 PNGs. Manual inspection then identified overly tall phone breadcrumbs and shortcuts. Those browser results/screenshots are author-reported evidence; this reviewer did not execute or independently inspect that hosted run.
+
+Independently inspected only the four added CSS rules and the corresponding phone-height assertions. The Year 8 wrapper now lays out its breadcrumb as a block with inline-flex links of at least 44 px height; shortcuts retain the existing wrapping flex layout and at-least-44-px link targets, with row direction and automatic widths. No navigation text, destination, focus behavior or teaching content is removed. The rules are scoped to these pages and apply at all widths, addressing the shared phone cascade without changing the lesson/model rules. The added browser assertions bound phone breadcrumb height to 110 px and shortcut height to 120 px; their affected hosted execution and visual confirmation remain pending separate browser QA.
+
+Verified all ten actual HTML fingerprints still equal the final inventory and teacher-review identities, and all eighteen literal SVG fingerprints still match the reviewed artwork manifest. Inventory and model assets are unchanged. The CSS fingerprint below is refreshed; content PASS remains valid without repeating the unchanged all-item review.
+
 ## Limits and final identity
 
 This is an independent AI teaching-content review of the ten Topic Guides. It does not certify banks, six-pass bank QA, slide/worksheet teaching, actual pupil mastery, medical/chemical procedures, cultural permissions, human teacher judgement, hosted browser layouts or deployment. The author's local Chromium attempt was blocked; it is not a browser PASS. Separate hosted desktop/tablet/phone and no-JavaScript verification remains required and is being handled by the author. Standalone diagram render inspection does not substitute for those browser checks.
@@ -79,7 +87,7 @@ Supporting artifact identities:
 | `docs/qa/year8-science-topic-pages-batch1-20261109/retained-additions.json` | `37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570` |
 | `docs/qa/year8-science-topic-pages-batch1-20261109/retained-visual-corrections.json` | `37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570` |
 | `docs/qa/year8-science-topic-pages-batch1-20261109/reused-research.json` | `7eb8a1629675ab8f813ac628508d8a21d51b9c982fc0f7d46a6b98cf28e2b5dc` |
-| `assets/css/year8-science-topic-pages.css` | `f1a51bea32fd3ed0957aad085f7bc16d525196a10d3f830c18348c7e3f69f2d8` |
+| `assets/css/year8-science-topic-pages.css` | `3005875931c634ffacd4f9b822f0013000406b46c659c5a2046c32acdd1ec792` |
 | `scripts/qa_year8_science_topic_pages_batch1.py` | `4718b6fd166064ab1a3ab969b66230ec0e14904e18f3b89032434d1b949bdb45` |
 | `scripts/validate_year8_science_static_v2.mjs` | `5b91f8458214e389dc510df527858626a2f83833f22cf29edc4204a649160711` |
 

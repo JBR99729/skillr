@@ -61,6 +61,12 @@ fs.mkdirSync(out, {recursive:true});
           app:document.querySelectorAll('#skillr-topic-practice-now').length,
           button: (()=>{const r=document.querySelector('#skillr-topic-practice-now').getBoundingClientRect();return {x:r.x,y:r.y,width:r.width,height:r.height,right:r.right,bottom:r.bottom}})()
         }));
+        if(width<600){
+          const trail=await page.locator('.crumb').boundingBox();
+          const nav=await page.locator('.shortcuts').boundingBox();
+          assert(trail.height<=110,item.code+': compact phone breadcrumb');
+          assert(nav.height<=120,item.code+': compact phone shortcuts');
+        }
         assert.equal(check.main,1,item.code); assert.equal(check.heading,1,item.code);assert.equal(check.app,1,item.code);
         assert.equal(check.overflow,false,`${item.code} at ${width}px: page overflows`);
         assert.deepEqual(check.broken,[],`${item.code}: broken images`); assert.deepEqual(failures,[],`${item.code}: failed local requests`);

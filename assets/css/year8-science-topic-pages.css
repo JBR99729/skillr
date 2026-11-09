@@ -38,3 +38,8 @@
 
 #skillr-topic-variants .topic-code{font-size:14px;white-space:nowrap;color:#425c78;font-weight:500}
 #skillr-topic-variants .topic-report-issue{min-height:44px;padding:8px 10px;background:white;border:1px solid #d6e2ef;border-radius:7px;color:#1952ae;cursor:pointer}
+/* Keep the shared mobile navigation rules from expanding this compact trail. */
+#skillr-topic-variants .crumb{display:block;margin:4px 0 10px;padding:0;line-height:1.5}
+#skillr-topic-variants .crumb a{display:inline-flex;align-items:center;min-height:44px;width:auto;max-width:100%;margin:0;padding:5px 6px;vertical-align:middle}
+#skillr-topic-variants .shortcuts{flex-direction:row}
+#skillr-topic-variants .shortcuts a{width:auto;flex:0 1 auto}
