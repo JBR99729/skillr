@@ -1,0 +1,560 @@
+[
+  {
+    "code": "AC9S8U01",
+    "descriptor": "recognise cells as the basic units of living things, compare plant and animal cells, and describe the functions of specialised cell structures and organelles",
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "Explain cell theory from evidence",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "OS-CELL-EVIDENCE",
+          "OS-CELL-REVIEW"
+        ],
+        "basis": "Historical observations, cell-based tissue comparisons and instrument/contrast limits support cell theory from converging evidence; exact micrograph identification is outside this bounded text experience.",
+        "material_source_gap_identified_by_author": null,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      },
+      {
+        "id": "F2",
+        "learning_intention": "Compare typical plant/animal structures",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "VED-CELLS",
+          "OS-SPECIALISED-CELLS",
+          "OS-CELL-REVIEW"
+        ],
+        "basis": "Actual structure/function matches and contrasts support typical plant/animal comparison with shared structures, specialised exceptions and accurate respiration/photosynthesis distinctions.",
+        "material_source_gap_identified_by_author": null,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      },
+      {
+        "id": "F3",
+        "learning_intention": "Relate specialised cell structures to function",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "OS-SPECIALISED-CELLS",
+          "VED-CELLS",
+          "O-BIO-1",
+          "O-BIO-2"
+        ],
+        "basis": "At least three distinct structure-demand mechanisms support specialisation: absorption surface, protein production and ATP demand, plus root-storage/leaf-photosynthesis contrast. Original checks are explicitly not external questions.",
+        "material_source_gap_identified_by_author": null,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      }
+    ],
+    "design": {
+      "model": "Two original labelled typical-cell schematics: leaf cell has wall, membrane, cytoplasm, nucleus, chloroplasts, large vacuole and mitochondria; animal cell has membrane, cytoplasm, nucleus and mitochondria. Not to scale; colours are a legend, not observation. Root-cell counterexample uses supplied textual features, not a claimed micrograph.",
+      "worked": "Compare photosynthetic leaf cell L with root cell R: R has wall/membrane/nucleus/mitochondria but no chloroplasts. Explain why both are plant cells and why mitochondria matter to both. Add intestinal microvilli and muscle mitochondrial abundance for structure-to-function reasoning.",
+      "boundary": "No senior biochemical pathways, universal all-cells-have-nucleus claims or source-pixel identification."
+    },
+    "page_readiness": "READY FOR INDEPENDENT PLAN REVIEW"
+  },
+  {
+    "code": "AC9S8U02",
+    "descriptor": "analyse the relationship between structure and function of cells, tissues and organs in a plant and an animal organ system and explain how these systems enable survival of the individual",
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "Trace cell–tissue–organ–system hierarchy",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "OS-PLANT-HIERARCHY",
+          "OS-ANIMAL-HIERARCHY",
+          "OS-CIRCULATION"
+        ],
+        "basis": "Complete plant and animal cell-to-tissue-to-organ-to-system examples establish levels and interacting functions; multiple tissues form organs, not a list of organ names.",
+        "material_source_gap_identified_by_author": null,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      },
+      {
+        "id": "F2",
+        "learning_intention": "Explain a plant structure/function survival pathway",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "OS-PLANT-HIERARCHY",
+          "VED-TRANSPORT",
+          "OS-SPECIALISED-CELLS",
+          "OS-ROOT-AREA",
+          "OS-VASCULAR-STRUCTURE",
+          "VED-PLANT-STRUCTURE-TASKS",
+          "O-PLANT-STRUCTURE"
+        ],
+        "basis": "Reviewer identified missing explicit structural mechanism in initial role/flow list. Narrow extension now retains root-hair area, connected conducting elements/perforations/lignified walls and guard-cell pores, with actual dead-xylem/living-leaf explanation and damage-assumption tasks. Whole pathway links these capacities to root/stem/leaf survival; independent recheck pending.",
+        "material_source_gap_identified_by_author": null,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      },
+      {
+        "id": "F3",
+        "learning_intention": "Explain an animal pathway and coordinated survival",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "OS-CIRCULATION",
+          "VED-TRANSPORT",
+          "OS-ANIMAL-HIERARCHY",
+          "O-BIO-3"
+        ],
+        "basis": "Cardiac muscle/endothelial tissue structures, heart/lung/body circulation and cell exchange form a complete coordinated animal survival path, with urinary hierarchy as a contrasting example.",
+        "material_source_gap_identified_by_author": null,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      }
+    ],
+    "design": {
+      "model": "Original paired transport paths: soil→root hair→root/stem xylem→leaf; human right heart→lungs→left heart→body→right heart. Cell/tissue/organ/system hierarchy explicitly mapped. Flow model, not anatomy or scale.",
+      "worked": "Root hair extension increases exchange area; hollow strengthened conducting xylem links organs. Cardiac muscle cells→cardiac tissue→heart→circulatory system; capillary thin walls permit exchange. Compare a damaged xylem pathway with reduced heart pumping without diagnosing illness.",
+      "boundary": "No all-xylem-dead or all-veins-deoxygenated shortcut; plant source-to-sink phloem; retained optional artificial-organ example must be scientifically checked."
+    },
+    "page_readiness": "READY FOR INDEPENDENT PLAN REVIEW"
+  },
+  {
+    "code": "AC9S8U03",
+    "descriptor": "investigate tectonic activity including the formation of geological features at divergent, convergent and transform plate boundaries and describe the scientific evidence for the theory of plate tectonics",
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "Model divergent/convergent/transform interactions",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "NOAA-BOUNDARIES",
+          "USGS-SOLID-MANTLE",
+          "ELI-HAND-MARGINS"
+        ],
+        "basis": "Five boundary configurations have full verbal relative-motion and mechanism criteria for original sectional/arrow models. Exact source photograph imitation is excluded.",
+        "material_source_gap_identified_by_author": null,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      },
+      {
+        "id": "F2",
+        "learning_intention": "Connect boundary motion to features",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "NOAA-BOUNDARIES",
+          "ELI-PLATE-PLENARY",
+          "JR-NANNO-STUDENT"
+        ],
+        "basis": "Boundary motion predicts ridges/new crust, trench/subduction/volcanic arcs, collision mountains and transform offsets/earthquakes; published tasks require connecting process and observable feature.",
+        "material_source_gap_identified_by_author": null,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      },
+      {
+        "id": "F3",
+        "learning_intention": "Evaluate multiple tectonic evidence lines",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "JR-NANNO-STUDENT",
+          "JR-NANNO-TEACHER",
+          "ELI-MAGNETIC-METHOD",
+          "ELI-MAGNETIC-SCRIPT",
+          "ELI-WEGENER-REVISION",
+          "O-EARTH-DSDP"
+        ],
+        "basis": "Complete sediment-age data, a remanence/symmetry mechanism and actual historical evidence sorting support multiple independent kinds of observations. GPS is explanatory reference only, not a newly analysed station dataset. Model-generated symmetry is not independent field measurement.",
+        "material_source_gap_identified_by_author": null,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      }
+    ],
+    "design": {
+      "model": "Three independent relative-motion panels: divergence arrows apart with ridge; oceanic subduction arrows together with descending oceanic plate/trench; transform opposed lateral arrows in plan view. Solid slowly deforming mantle, no global magma ocean.",
+      "worked": "Original hypothetical symmetric seafloor records: distance from ridge 0,40,80 km each side, age 0,2,4 Ma. Age increases away, supporting spreading; same-age magnetic bands on either side plus earthquake/volcano belts are converging evidence. Distinguish collision mountains from subduction volcanism.",
+      "boundary": "Do not infer a particular real location/map, use dataset to claim measured rate, or represent every convergence as volcanic."
+    },
+    "page_readiness": "READY FOR INDEPENDENT PLAN REVIEW"
+  },
+  {
+    "code": "AC9S8U04",
+    "descriptor": "describe the key processes of the rock cycle, including the timescales over which they occur, and examine how the properties of sedimentary, igneous and metamorphic rocks reflect their formation and influence their use",
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "Trace branching rock-cycle processes",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "ELI-ROCK-PROCESS-RATES",
+          "VED-ROCKS",
+          "WEATHERING",
+          "O-EARTH-PATHS"
+        ],
+        "basis": "Actual linked-process sorting with full textual keys and accepted weathering/deposition methods supports branching routes, solid-state metamorphism versus melt and explicit crystallisation.",
+        "material_source_gap_identified_by_author": null,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      },
+      {
+        "id": "F2",
+        "learning_intention": "Compare process timescales",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "ELI-ROCK-PROCESS-RATES",
+          "USGS-LAVA-TIMES",
+          "WEATHERING"
+        ],
+        "basis": "Relative geological-rate sort plus complete thickness/solidification estimates supports rapid/slow/variable comparisons and factors. Source bins qualified: no universal cycle time, all lava instant cooling, or model duration as natural rate.",
+        "material_source_gap_identified_by_author": null,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      },
+      {
+        "id": "F3",
+        "learning_intention": "Link formation to rock properties and use",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "ELI-IGNEOUS-USE",
+          "ELI-SEDIMENTARY-USE",
+          "ELI-METAMORPHIC-USE",
+          "O-EARTH-USE"
+        ],
+        "basis": "Three full teacher text task/response families connect formation, texture/composition, weathering/durability and appropriate use. Core can use original fully stated properties; exact source photo-identification tasks remain excluded.",
+        "material_source_gap_identified_by_author": null,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      }
+    ],
+    "design": {
+      "model": "Original branching rock-process map with explicit paths magma→cooling→igneous→weathering/transport/deposition→sediment→compaction/cementation→sedimentary; either solid rock→heat/pressure without melting→metamorphic; all rock may weather or melt. Arrows are processes, not a compulsory sequence.",
+      "worked": "Choose sample A interlocking coarse crystals for an abrasion-resistant path when tested suitability supports it; sample B carbonate marble unsuitable for an acid-exposed feature despite polish. Compare seconds-long fragment transport with long sediment accumulation and variable thick-lava cooling, without assigning universal rock ages. Supply hypothetical controlled abrasion comparison: equal samples under same test, A loses 1 g and B loses 6 g; match use to stated test and inspect other requirements, not crystal size alone.",
+      "boundary": "No universal igneous strength, all sedimentary weak or all metamorphic banded claims; no pupil acid/heating/chipping practical."
+    },
+    "page_readiness": "READY FOR INDEPENDENT PLAN REVIEW"
+  },
+  {
+    "code": "AC9S8U05",
+    "descriptor": "classify different types of energy as kinetic or potential and investigate energy transfer and transformations in simple systems",
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "Classify kinetic and potential stores",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "VED-ENERGY",
+          "NASA-ROLLER-METHOD"
+        ],
+        "basis": "Actual stationary elastic, changing-height gravitational and moving-object contrasts support meaningful kinetic/potential classification, including stored chemical energy and reference height.",
+        "material_source_gap_identified_by_author": null,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      },
+      {
+        "id": "F2",
+        "learning_intention": "Trace transfer/transformation and surroundings",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "VED-ENERGY",
+          "NASA-ROLLER-METHOD",
+          "O-ENERGY-1"
+        ],
+        "basis": "Multiple actual transformation contexts and explicit surroundings distinguish transfer, transformation and dissipation; thermal/rotational stores prevent a misleading all-energy-is-translation account.",
+        "material_source_gap_identified_by_author": null,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      },
+      {
+        "id": "F3",
+        "learning_intention": "Investigate a simple system and model limits",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "NASA-ROLLER-METHOD",
+          "FORCE-INVESTIGATION"
+        ],
+        "basis": "Complete three-hill build/test/modify and height-labelled energy questions support simple-system investigation; accepted force/ramp methods provide repeated-measurement controls. No actual apparatus outcomes, source speed dataset or prescribed digital run claimed.",
+        "material_source_gap_identified_by_author": null,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      }
+    ],
+    "design": {
+      "model": "Original energy-accounting diagram for a hypothetical ramp run: initial gravitational store 80 J; bottom combined translational/rotational kinetic 60 J, transfer to surroundings 20 J. Total 80 J; no energy disappearance. Simple store/pathways model. Bottom is the zero gravitational reference; ball+Earth initial mechanical account 80 J, final motion 60 J and 20 J transferred to track/air surroundings. Expanded ball+Earth+track+air account conserves 80 J.",
+      "worked": "Classify moving ball kinetic, raised stationary ball gravitational potential, stretched stationary band elastic potential. Compare ramp runs released from rest at matched heights; repeated safe tabletop model records, not an assertion that NASA experiment was performed. Higher later hill requires input or suitable starting height; include friction/rotation.",
+      "boundary": "No KE/GPE equations required; thermal energy is store, heating transfer; light/sound/electrical are pathways in explanation; no launch/explosion activity."
+    },
+    "page_readiness": "READY FOR INDEPENDENT PLAN REVIEW"
+  },
+  {
+    "code": "AC9S8U06",
+    "descriptor": "classify matter as elements, compounds or mixtures and compare different representations of these, including 2-dimensional and 3-dimensional models, symbols for elements and formulas for molecules and compounds",
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "Classify elements/compounds/mixtures",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "KHAN-MATTER-TASKS",
+          "VED-MATTER",
+          "OS-MATTER-CLASSIFY",
+          "O-MATTER-1"
+        ],
+        "basis": "Actual pure-substance/element/compound/mixture contrasts plus explicit particle grouping rules support classification, including molecular elements and uniform mixtures; ambiguous source questions are excluded.",
+        "material_source_gap_identified_by_author": null,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      },
+      {
+        "id": "F2",
+        "learning_intention": "Translate symbols/formulas and 2D/3D models",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "OS-FORMULA-MODELS",
+          "OS-FORMULA-TASKS",
+          "ACS-WATER-MODEL",
+          "UW-MOLECULE-MODELS",
+          "OU-REPRESENTATION"
+        ],
+        "basis": "Fully specified textual atom inventories/connectivity, coefficients/subscripts and an explicit bent water model link words/symbols/formulas to two- and three-dimensional models. No unseen image formula-key inferred.",
+        "material_source_gap_identified_by_author": null,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      },
+      {
+        "id": "F3",
+        "learning_intention": "Explain model conventions and limitations",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "OS-FORMULA-MODELS",
+          "ACS-WATER-MODEL",
+          "UW-MOLECULE-MODELS",
+          "OU-REPRESENTATION",
+          "O-MODEL-TRANSLATION"
+        ],
+        "basis": "Actual model-comparison/construction methods explain symbol/colour/bond/size conventions and what each representation omits, including network compounds versus discrete molecules.",
+        "material_source_gap_identified_by_author": null,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      }
+    ],
+    "design": {
+      "model": "Original atom-labelled particles: A three O2 pairs (one element); B two H2O groups (one compound); C one O2 pair plus one H2O group (mixture). H/O explicit letter legend; circles and joining lines are conventions. Separate labelled sketch for a 3D physical model described by formula, not a formula-implies-shape claim.",
+      "worked": "Count atoms: 2H2O has 4 H and 2 O. O2 has two atoms but one element; H2O has two element types but one compound. NaCl denotes a crystal ratio, not a required discrete molecule. Formula alone does not show 3D geometry; physical clay/paper model preserves atom inventory, limitations explicit.",
+      "boundary": "No stoichiometry/moles, molecular bond-order recall or claim every compound molecular; no copied source model art."
+    },
+    "page_readiness": "READY FOR INDEPENDENT PLAN REVIEW"
+  },
+  {
+    "code": "AC9S8U07",
+    "descriptor": "compare physical and chemical changes and identify indicators of energy change in chemical reactions",
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "Distinguish identity-preserving and chemical changes",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "PHYSICAL-CHEMICAL",
+          "VED-MATTER",
+          "OS-FORMULA-MODELS",
+          "ACS-WATER-MODEL"
+        ],
+        "basis": "Accepted dissolving/recovery, cooking/rusting, wax/tearing and mixture-versus-new-compound methods support substance-identity reasoning and simultaneous changes; reversibility is not the defining criterion.",
+        "material_source_gap_identified_by_author": null,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      },
+      {
+        "id": "F2",
+        "learning_intention": "Interpret multiple reaction indicators",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "PHYSICAL-CHEMICAL",
+          "ACS-ENERGY-REACTIONS",
+          "ACS-REACTION-TASK-KEY",
+          "O-CHEM-ENERGY"
+        ],
+        "basis": "Gas, precipitate, colour, temperature and recovery evidence are interpreted jointly with alternative physical causes; published second mixture explicitly separates dissolution heating from reaction evidence.",
+        "material_source_gap_identified_by_author": null,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      },
+      {
+        "id": "F3",
+        "learning_intention": "Explain qualitative energy changes",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "ACS-ENERGY-REACTIONS",
+          "ACS-REACTION-TASK-KEY",
+          "VED-ENERGY",
+          "O-CHEM-ENERGY"
+        ],
+        "basis": "Complete paired temperature protocols/actual response demands support qualitative endothermic/exothermic accounts, initial/final measurements and energy direction. Inconsistent numerical key excluded; no advanced bond-enthalpy calculation required.",
+        "material_source_gap_identified_by_author": null,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      }
+    ],
+    "design": {
+      "model": "Original evidence comparison cards: ice melts retaining water identity; iron rusts producing different substances; bubbles alone could be boiling or reaction. Energy arrows use system boundary.",
+      "worked": "Original hypothetical, separately controlled teacher-run records: mixture X 22→17°C with independently established new gas product; mixture Y 22→28°C with independently established new solid. Explain net energy absorption/release, with surroundings and multiple evidence; temperature alone cannot prove reaction. No adopted ACS expected values as measured results. Net temperature change represents the combined mixing/reaction process and heat exchange; dissolution may contribute. Do not isolate chemical reaction energy from this alone.",
+      "boundary": "No actual chemicals/procedure prescribed, no bond-breaking-releases-energy claim; reversibility alone insufficient; no hazard demonstration."
+    },
+    "page_readiness": "READY FOR INDEPENDENT PLAN REVIEW"
+  },
+  {
+    "code": "AC9S8H01",
+    "descriptor": "explain how new evidence or different perspectives can lead to changes in scientific knowledge",
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "Compare an earlier and revised explanation",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "ELI-WEGENER-REVISION",
+          "OS-CELL-EVIDENCE",
+          "PENICILLIN-PRIOR"
+        ],
+        "basis": "Actual continental-drift versus lithospheric-plate evidence-sort and contrasting microscopy chronology distinguish earlier model, retained insight and revised explanatory framework.",
+        "material_source_gap_identified_by_author": null,
+        "prior_status": "SUFFICIENT — prior independent Year8 penicillin acceptance retained; new topic-extension mapping pending",
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      },
+      {
+        "id": "F2",
+        "learning_intention": "Connect new observations/technology to revision",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "ELI-WEGENER-REVISION",
+          "JR-NANNO-STUDENT",
+          "JR-NANNO-TEACHER",
+          "ELI-MAGNETIC-METHOD",
+          "PENICILLIN-PRIOR"
+        ],
+        "basis": "Dated 1968 drilling data and later magnetic/geodetic evidence types show technology revealing new tests; source approximate dates corrected and no single-inventor account adopted.",
+        "material_source_gap_identified_by_author": null,
+        "prior_status": "SUFFICIENT — prior independent Year8 penicillin acceptance retained; new topic-extension mapping pending",
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      },
+      {
+        "id": "F3",
+        "learning_intention": "Evaluate evidence, debate and model limits",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "ELI-WEGENER-REVISION",
+          "JR-NANNO-STUDENT",
+          "JR-NANNO-TEACHER",
+          "ELI-MAGNETIC-SCRIPT",
+          "O-EARTH-MODEL-CRITIQUE"
+        ],
+        "basis": "Actual debate, rate/model-limit and further-drilling prompts require evidence evaluation, limitations and testable alternatives. Explanatory mechanism and converging evidence distinguish revision from opinion change.",
+        "material_source_gap_identified_by_author": null,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      }
+    ],
+    "design": {
+      "model": "Original evidence timeline separating earlier continental drift, later seafloor/polarity evidence and modern GPS. Concept links and approximate periods; no sole-inventor claim. Contrast inference versus observation.",
+      "worked": "Earlier outline/fossil matches suggest past connection but do not settle mechanism. Later ocean ages increasing away from ridges and magnetic symmetry support moving lithospheric plates; GPS tests movement now, not in Wegener's era. A hypothetical contrary local age prompts sampling/method checks, not automatic erasure of all evidence.",
+      "boundary": "No fake historical quote/date, public-source model pixels or equal-weight-every-opinion framing; cell microscopy as contrasting example retained."
+    },
+    "page_readiness": "READY FOR INDEPENDENT PLAN REVIEW"
+  },
+  {
+    "code": "AC9S8H02",
+    "descriptor": "investigate how cultural perspectives and world views influence the development of scientific knowledge",
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "Identify cultural/social influences on science",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "Y7-HUMAN-ENDEAVOUR:CSIRO-LARRAKIA-PROVENANCE",
+          "Y7-HUMAN-ENDEAVOUR:CSIRO-CALENDAR-METHOD"
+        ],
+        "basis": "Exact accepted public co-production case shows local perspectives shaping question priorities, categories and applications. Reuse public process/provenance only; no specific calendar knowledge/art adaptation.",
+        "material_source_gap_identified_by_author": null,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      },
+      {
+        "id": "F2",
+        "learning_intention": "Investigate participation and recognition evidence",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "Y7-HUMAN-ENDEAVOUR:CSIRO-LARRAKIA-PROVENANCE",
+          "Y7-HUMAN-ENDEAVOUR:VCAA-CULTURAL-INQUIRY"
+        ],
+        "basis": "Named knowledge-holder/CSIRO roles and actual comparative inquiry routine support participation/recognition analysis grounded in documented contribution, not generic culture labels.",
+        "material_source_gap_identified_by_author": null,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      },
+      {
+        "id": "F3",
+        "learning_intention": "Apply context-specific respectful knowledge protocols",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "Y7-HUMAN-ENDEAVOUR:CSIRO-ICIP-TERMS",
+          "Y7-HUMAN-ENDEAVOUR:VCAA-CULTURAL-INQUIRY"
+        ],
+        "basis": "Context-specific public ownership and other-use conditions establish consent/attribution boundaries; source educational permissions do not transfer as commercial authorisation.",
+        "material_source_gap_identified_by_author": null,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      }
+    ],
+    "design": {
+      "model": "Original semantic co-production route: locally defined purpose→knowledge-holder-led observations/categories→agreed documentation→authorised use/credit. Public Gulumoerrgin/Larrakia/CSIRO project metadata only; no seasonal knowledge, calendar, motifs, art or invented Indigenous names.",
+      "worked": "Explain how locality, priorities, who participates and who is credited influence questions/methods. Compare long-term local ecological relationships for local management with a school temperature log whose purpose is instrument comparison; neither represents all knowledge. Case questions ask leadership/locality/purpose and explicit permission-scope reasoning, not reproduction of knowledge.",
+      "boundary": "No commercial calendar derivative, consultation, permission or cultural endorsement claimed; publicly visible does not imply reproduction authority. No legal procedural deadlines."
+    },
+    "page_readiness": "READY FOR INDEPENDENT PLAN REVIEW"
+  },
+  {
+    "code": "AC9S8H03",
+    "descriptor": "examine how proposed scientific responses to contemporary issues may impact on society and explore ethical, environmental, social and economic considerations",
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "Define a scientific response and evidence",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "Y7-HUMAN-ENDEAVOUR:CSIRO-PLASTIC-RELEASE",
+          "Y7-HUMAN-ENDEAVOUR:CSIRO-PUBLIC-PLASTICS",
+          "Y7-HUMAN-ENDEAVOUR:QLD-CONSULTATION"
+        ],
+        "basis": "Defined plastic-supply response, mechanism and attributed observational evidence form a complete response case; release/article metric nuance and lack of isolated causal proof retained.",
+        "material_source_gap_identified_by_author": null,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      },
+      {
+        "id": "F2",
+        "learning_intention": "Examine ethical/environmental/social/economic consequences",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "Y7-HUMAN-ENDEAVOUR:QLD-CONSULTATION",
+          "Y7-HUMAN-ENDEAVOUR:QLD-ACCESS-MESSAGE",
+          "Y7-HUMAN-ENDEAVOUR:BTN-PLASTIC-TASKS"
+        ],
+        "basis": "Actual evidence/task families cover all four named lenses, stakeholders, disability rights/access and business/consumer transition costs without forcing one preferred conclusion.",
+        "material_source_gap_identified_by_author": null,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      },
+      {
+        "id": "F3",
+        "learning_intention": "Weigh stakeholder trade-offs and uncertainty",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "Y7-HUMAN-ENDEAVOUR:QLD-CONSULTATION",
+          "Y7-HUMAN-ENDEAVOUR:BTN-PLASTIC-TASKS"
+        ],
+        "basis": "Actual argument/decision tasks with self-selection, uncertain costs and alternative constraints support conditional recommendations. No invented universal cost/benefit totals.",
+        "material_source_gap_identified_by_author": null,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      }
+    ],
+    "design": {
+      "model": "Original four-lens decision matrix for a hypothetical school reusable-foodware proposal: environmental production/washing/litter; ethical access/future generations; social convenience/inclusion; economic purchase/washing/labour costs. No invented exact real-policy costs or legal claims.",
+      "worked": "Compare reduce-supply-only with reusable option plus accessible alternatives and measured review. Original hypothetical pilot: 100 baseline single-use pieces per lunch vs 30 pilot pieces, 70 fewer/70% lower count, does not prove 70% lower total impact. Public historical 2020 Queensland consultation used only as attributed method case: self-selection, distribution of impacts, unknown costs, distinguish proposals from current rules.",
+      "boundary": "No current ban/compliance guidance or unsupported causal percentages; recommendations conditional, alternatives accepted with reasoning."
+    },
+    "page_readiness": "READY FOR INDEPENDENT PLAN REVIEW"
+  }
+]
