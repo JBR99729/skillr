@@ -1,0 +1,23 @@
+[
+  {
+    "code": "AC9S10I01",
+    "section": "Guided practice",
+    "before": "From a motion graph, write one question, one hypothesis and one quantitative prediction.",
+    "after": "From the supplied motion record, write one question, one hypothesis and one quantitative prediction.",
+    "reason": "An actual table/record replaces the absent graph without changing the inquiry demand."
+  },
+  {
+    "code": "AC9S10I04",
+    "section": "Guided practice",
+    "before": "Redesign a misleading graph and calculate one useful descriptive statistic.",
+    "after": "Redesign the described misleading graph and calculate one useful descriptive statistic.",
+    "reason": "Align the ask with the complete supplied graph specification and repeated-volume values."
+  },
+  {
+    "code": "AC9S10I08",
+    "section": "Guided practice",
+    "before": "Draft a 60-word policy brief and choose one data visual.",
+    "after": "Draft a concise policy brief and choose one data visual.",
+    "reason": "Remove the obsolete fixed word cap while preserving purposeful concise composition and its visual choice."
+  }
+]
