@@ -1,0 +1,143 @@
+{
+  "inspection_date": "2026-11-09",
+  "records": [
+    {
+      "repository": "JBR99729/research-",
+      "commit": "3dbd9be103af8a585edc4fb3e1a14c7ccebd67cc",
+      "path": "shared-research/maths/2026-11-03-metric-instrument-evidence.json",
+      "git_blob_sha": "75c4471c8b6788f64c0dcdcd704148c411df173b",
+      "sha256": "07793cea6567d0e752498dfa26b85b8b3f1933dcfb1ff14b561f87ca874520a3",
+      "bytes": 9336
+    },
+    {
+      "repository": "JBR99729/research-",
+      "commit": "3dbd9be103af8a585edc4fb3e1a14c7ccebd67cc",
+      "path": "shared-research/science/2026-11-04-habitat-conditions-growth-evidence.json",
+      "git_blob_sha": "2838450984410cca7fa0d78961a0f5a2f2324f99",
+      "sha256": "bb8ca325b09777e91c0f8c9c76525608a13e12001e9dd11693b5efe8e3bc1f29",
+      "bytes": 7025
+    },
+    {
+      "repository": "JBR99729/research-",
+      "commit": "3dbd9be103af8a585edc4fb3e1a14c7ccebd67cc",
+      "path": "shared-research/science/2026-11-04-investigation-country-permissions-evidence.json",
+      "git_blob_sha": "bdc8f826cfaa1cc42f921abc72296e34027cda14",
+      "sha256": "2d4a08df53f6f54c217e5cb75896e307c7273e9b9f15c42b797834b3a06561d8",
+      "bytes": 8023
+    },
+    {
+      "repository": "JBR99729/research-",
+      "commit": "3dbd9be103af8a585edc4fb3e1a14c7ccebd67cc",
+      "path": "shared-research/science/2026-11-04-scientific-audience-language-evidence.json",
+      "git_blob_sha": "1d5d95211862ef08014dca0da1df404f03e79c76",
+      "sha256": "772bf849550b9dad1c006e13c7106fb403acb444334b413255590d011bbe250f",
+      "bytes": 6335
+    },
+    {
+      "repository": "JBR99729/research-",
+      "commit": "3dbd9be103af8a585edc4fb3e1a14c7ccebd67cc",
+      "path": "shared-research/science/2026-11-04-six-omitted-science-particle-separation-argument-communication-source-ledger.json",
+      "git_blob_sha": "acab77dcb8be60a35cf9cabfcd3a9734ed4e2089",
+      "sha256": "a11cdad48b4854dd2ee81035063d2916d57dcc1333dc684155a7c2ae7e8c0a3f",
+      "bytes": 41481
+    },
+    {
+      "repository": "JBR99729/research-",
+      "commit": "3dbd9be103af8a585edc4fb3e1a14c7ccebd67cc",
+      "path": "shared-research/science/2026-11-04-year7-forces-mass-gravity-source-ledger.json",
+      "git_blob_sha": "2667871de325e83c854d9f16b33f7519dd28eddb",
+      "sha256": "789b6ea5efc49dab5af60dcad1b91842b6677feea6485358be38d2dddf4c7c4d",
+      "bytes": 21272
+    },
+    {
+      "repository": "JBR99729/research-",
+      "commit": "3dbd9be103af8a585edc4fb3e1a14c7ccebd67cc",
+      "path": "shared-research/science/2026-11-04-year7-inquiry-methods-data-source-ledger.json",
+      "git_blob_sha": "3c7a470458fc2f58fe3f748fb81519839bb0e3de",
+      "sha256": "0be01b04497620c01e29cf39591d41aac4149f7fc6996d0fd4b6dd005e0e8411",
+      "bytes": 30596
+    },
+    {
+      "repository": "JBR99729/research-",
+      "commit": "3dbd9be103af8a585edc4fb3e1a14c7ccebd67cc",
+      "path": "shared-research/science/2026-11-04-year7-science-perspectives-responses-source-ledger.json",
+      "git_blob_sha": "11cd250460a74be2b5245e020711d4af9b608539",
+      "sha256": "dd09c604416f564f450a2bdd4a5ea57ef2625c91f1e19cf82b32469f1e21699a",
+      "bytes": 23907
+    },
+    {
+      "repository": "JBR99729/research-",
+      "commit": "3dbd9be103af8a585edc4fb3e1a14c7ccebd67cc",
+      "path": "year-7/science/AC9S7I01/research/2026-11-04-source-gap-candidate.json",
+      "git_blob_sha": "84c226137cc0ca3a490a808abe6ad9a791d5d956",
+      "sha256": "13870ccab53e9c498d066453abcdcf0b9444e585cc09a9112f785f23eaef8822",
+      "bytes": 6283
+    },
+    {
+      "repository": "JBR99729/research-",
+      "commit": "3dbd9be103af8a585edc4fb3e1a14c7ccebd67cc",
+      "path": "year-7/science/AC9S7I02/research/2026-11-04-source-gap-candidate.json",
+      "git_blob_sha": "50942ea2b3c196ecd1dab238cb2624af9727a2f1",
+      "sha256": "b9c6543e71a9b183db4d6ef4d67d07191e752cccfaf84ca6cb4cec8534707649",
+      "bytes": 6630
+    },
+    {
+      "repository": "JBR99729/research-",
+      "commit": "3dbd9be103af8a585edc4fb3e1a14c7ccebd67cc",
+      "path": "year-7/science/AC9S7I03/research/2026-11-04-source-gap-candidate.json",
+      "git_blob_sha": "3de02fdc6611bbb3647c635fe4d77cd2fe4001ec",
+      "sha256": "10118e424daca113ca7fb9c803377ef92efe292760534d209f99cc34f3c39c01",
+      "bytes": 6430
+    },
+    {
+      "repository": "JBR99729/research-",
+      "commit": "3dbd9be103af8a585edc4fb3e1a14c7ccebd67cc",
+      "path": "year-7/science/AC9S7I04/research/2026-11-04-source-gap-candidate.json",
+      "git_blob_sha": "6755d9dfa70ff96f6b131b361dc361cf3ee96812",
+      "sha256": "d2e78b5bc7a892b11142f36a0707dee9a6c76fe770507e5e59bf20b8d4e4e0de",
+      "bytes": 6534
+    },
+    {
+      "repository": "JBR99729/research-",
+      "commit": "3dbd9be103af8a585edc4fb3e1a14c7ccebd67cc",
+      "path": "year-7/science/AC9S7I05/research/2026-11-04-source-gap-candidate.json",
+      "git_blob_sha": "9f5804de45b3d94eb41230eae204d02b901311c3",
+      "sha256": "27b4b07539614a61d81a96fffc6d1743d4f27c61a2dadbe36e299cb8edd68e7b",
+      "bytes": 6422
+    },
+    {
+      "repository": "JBR99729/research-",
+      "commit": "3dbd9be103af8a585edc4fb3e1a14c7ccebd67cc",
+      "path": "year-7/science/AC9S7I06/research/2026-11-04-source-gap-candidate.json",
+      "git_blob_sha": "a50d8e58fae18a48fce6739b9797342e426fafad",
+      "sha256": "60c57febaf3b3aca60aaffd24fdebf4fb188293537e0d5d4f67982bef3a2099a",
+      "bytes": 6551
+    },
+    {
+      "repository": "JBR99729/research-",
+      "commit": "3dbd9be103af8a585edc4fb3e1a14c7ccebd67cc",
+      "path": "year-7/science/AC9S7I07/research/2026-11-04-source-gap-candidate.json",
+      "git_blob_sha": "16c4151fed1dce167573de194ecd32bc20c50878",
+      "sha256": "3dd87b44287d52c9b3ef755a60323b501229f5a42ebccbf3dfbc0aa70a8abcf5",
+      "bytes": 7007
+    },
+    {
+      "repository": "JBR99729/research-",
+      "commit": "3dbd9be103af8a585edc4fb3e1a14c7ccebd67cc",
+      "path": "year-7/science/AC9S7I08/research/2026-11-04-source-gap-candidate.json",
+      "git_blob_sha": "99e4189752386db649d2e65fc94f2a6013c62a32",
+      "sha256": "24e14171a44186dca47360facbdecfa2e171bf6a941a691231143adcb6a5b25f",
+      "bytes": 7060
+    },
+    {
+      "repository": "JBR99729/research-",
+      "commit": "3dbd9be103af8a585edc4fb3e1a14c7ccebd67cc",
+      "path": "year-7/science/Year7_Science_Curriculum_Research_Master.txt",
+      "git_blob_sha": "cfcdf1160e9e6eec3cdb7eb8abb128d0cb8b48d9",
+      "sha256": "421989356e87d5d73171c7ff374a12c8d21622dda62fe240ec403d7c15194cb0",
+      "bytes": 68451
+    }
+  ],
+  "limits": "Reused actual saved text/methods and effective independent source-only acceptance. No new IXL session, source-image/media inspection, practical, spreadsheet run, learner results or cultural permissions. Older master has obsolete 16-code total; actual catalogue has18Year7Sciencecodes; thisbatchremaining8Inquiry. No app/slides/worksheetproductcertification.",
+  "official_rechecked": "https://www.qcaa.qld.edu.au/downloads/aciqv9/science/curriculum/ac9_science_yr7_as_cd_alignment.pdf"
+}

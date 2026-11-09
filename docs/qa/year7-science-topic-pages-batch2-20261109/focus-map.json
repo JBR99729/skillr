@@ -1,0 +1,398 @@
+[
+  {
+    "code": "AC9S7I01",
+    "descriptor": "develop investigable questions, reasoned predictions and hypotheses to explore scientific models, identify patterns and test relationships",
+    "effective_source_decision": "SUFFICIENT — BOUNDED CORE",
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "Develop feasible investigable questions",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "LIGHT:LIGHT5/MATTER5",
+          "FORCES:AAS-FRICTION/AAS-MASS"
+        ],
+        "basis": "Question/materials/variable-grid generation already accepted forF1 in cross-year delta. Keep feasibility/safe measurable outcomes; AAS adds full Year7 mass/force contexts.",
+        "material_source_gap_identified_by_author": null
+      },
+      {
+        "id": "F2",
+        "learning_intention": "Distinguish hypotheses from predictions",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "ASU-HYPOTHESES",
+          "FORCES:AAS-MASS",
+          "O-HYP"
+        ],
+        "basis": "Explanatory hypothesis→observable intervention prediction→test/revision; explicit multi-fault/assumption correction prevents false rejection.",
+        "material_source_gap_identified_by_author": null
+      },
+      {
+        "id": "F3",
+        "learning_intention": "Test a model/pattern/relationship",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "SPACE:JPL-LUNAR/JPL-SOLAR",
+          "FORCES:AAS-MASS",
+          "GROWTH:OHIO-GROWTH-DATA",
+          "BOM-SEASONAL-DATA"
+        ],
+        "basis": "Actual model-position prediction, controlled mass relationship, double-water prediction and historical seasonal-pattern test. Distinguish observational pattern from causal intervention.",
+        "material_source_gap_identified_by_author": null
+      }
+    ]
+  },
+  {
+    "code": "AC9S7I02",
+    "descriptor": "plan and conduct reproducible investigations to answer questions and test hypotheses, including identifying variables and assumptions and, as appropriate, recognising and managing risks, considering ethical issues and recognising key considerations regarding heritage sites and artefacts on Country/Place",
+    "effective_source_decision": "SUFFICIENT — BOUNDED CORE",
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "Plan reproducible controls and repeats",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "FORCES:AAS-BALANCE/AAS-FORCE/AAS-MASS",
+          "GROWTH:PC-DUCKWEED-GROWTH"
+        ],
+        "basis": "Complete quantities/positions/controls and repeated measurements. Independent biological replicates are different from repeated readings of one specimen.",
+        "material_source_gap_identified_by_author": null
+      },
+      {
+        "id": "F2",
+        "learning_intention": "Identify assumptions and manage risks/ethics",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "GROWTH:VEDANTU-GERMINATION-PLAN",
+          "OHIO-NEW-RISK-TASK",
+          "FORCES:AAS-FORCE/AAS-GRAVITY",
+          "PERMISSIONS:ILALC-DJEERA-PROTOCOL",
+          "O-METHOD"
+        ],
+        "basis": "Actual confounded method and hazard/control prompts; compare assumption to testability and harm. Safe measurement, living-material/site care and knowledge-consent limits applied as appropriate.",
+        "material_source_gap_identified_by_author": null
+      },
+      {
+        "id": "F3",
+        "learning_intention": "Address Country/Place heritage responsibilities",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "ACARA-Y7-HERITAGE",
+          "ACT-HERITAGE-PROCEDURE",
+          "PERMISSIONS:ACARA-Y6-COUNTRY/ILALC-DJEERA-PROTOCOL",
+          "O-PERMISSION"
+        ],
+        "basis": "Year7-specific published field-planning method plus jurisdiction-specific found-object procedure. No real Country/Place authority, artefact identification or consent invented.",
+        "material_source_gap_identified_by_author": null
+      }
+    ]
+  },
+  {
+    "code": "AC9S7I03",
+    "descriptor": "select and use equipment to generate and record data with precision, using digital tools as appropriate",
+    "effective_source_decision": "SUFFICIENT — BOUNDED CORE",
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "Select equipment for range and resolution",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "FORCES:AAS-FORCE",
+          "METERS:WA-MEASURE1/WISC-CYL"
+        ],
+        "basis": "Actual5N versus20N force-meter selection for maximum5N; zero/calibration, ruler baseline and cylinder interval/meniscus examples. Match range and useful resolution, not largest capacity.",
+        "material_source_gap_identified_by_author": null
+      },
+      {
+        "id": "F2",
+        "learning_intention": "Generate and record justified precision",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "METERS:WISC-CYL/NPL-MASS",
+          "PRECISION:OS-PHYS",
+          "FORCES:IAU-GRAVITY-METHOD"
+        ],
+        "basis": "Full6.62mL text reading sequence, balance zero/tare/difference/drift and repeated/reference measurements. Recording precision/uncertainty distinct from repeatability/accuracy; no universal decimal-place rule.",
+        "material_source_gap_identified_by_author": null
+      },
+      {
+        "id": "F3",
+        "learning_intention": "Use/check digital measurement tools",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "METERS:NPL-MASS",
+          "FORCES:IAU-GRAVITY-METHOD/AAS-MASS",
+          "GROWTH:PC-HABITAT-SURVEY",
+          "MICROSOFT-AVERAGE"
+        ],
+        "basis": "Digital balance/known-load checking and published light-gate method with known dimensions/time; actual PhET speed record protocol and field sensor limitations. Formula checks support records, not proof of sensor calibration. No digital run claimed.",
+        "material_source_gap_identified_by_author": null
+      }
+    ]
+  },
+  {
+    "code": "AC9S7I04",
+    "descriptor": "select and construct appropriate representations, including tables, graphs, models and mathematical relationships, to organise and process data and information",
+    "effective_source_decision": "SUFFICIENT — BOUNDED CORE",
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "Choose representations by purpose/data type",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "PEARSON-DATA-MODELS",
+          "SCIENCEBUDDIES-GRAPHS",
+          "BOM-SEASONAL-DATA",
+          "LIGHT:MATTER6"
+        ],
+        "basis": "Exact categorical counts versus numeric paired/time data; select column/scatter/ordered line, raw tables or particle model for purpose. Do not impose numeric→join every point rule.",
+        "material_source_gap_identified_by_author": null
+      },
+      {
+        "id": "F2",
+        "learning_intention": "Construct accurate tables/graphs/models",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "PEARSON-DATA-MODELS",
+          "SCIENCEBUDDIES-GRAPHS",
+          "SPACE:JPL-LUNAR/LJMU-TIDES-WORKSHEET",
+          "O-TABLE"
+        ],
+        "basis": "Explicit quantities/units/trial table, suitable scale and exact paired coordinate construction; complete physical-model protocols with limitations. Original finished diagrams remain production work.",
+        "material_source_gap_identified_by_author": null
+      },
+      {
+        "id": "F3",
+        "learning_intention": "Process and translate mathematical information",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "MICROSOFT-AVERAGE",
+          "PEARSON-DATA-MODELS",
+          "SPACE:NOAA-TIDE-DATA-METHOD",
+          "FORCES:IAU-MASS-QUESTIONS/IAU-MASS-KEY",
+          "O-DIGITAL"
+        ],
+        "basis": "Actual complete mean formulas/checks; arithmetic range/period and mass/weight relationships; preserve raw data and same-unit conversions. No spreadsheet execution or pixel keys claimed.",
+        "material_source_gap_identified_by_author": null
+      }
+    ]
+  },
+  {
+    "code": "AC9S7I05",
+    "descriptor": "analyse data and information to describe patterns, trends and relationships and identify anomalies",
+    "effective_source_decision": "SUFFICIENT — BOUNDED CORE",
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "Describe quantified trends/relationships",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "PEARSON-DATA-MODELS",
+          "BOM-SEASONAL-DATA",
+          "GROWTH:OHIO-GROWTH-DATA",
+          "O-TABLE/O-CYCLE"
+        ],
+        "basis": "Full noisy3-temperature/3-trial table, near-linear mass/force data, historical12-month cycle and5-week paired growth. Quantify evidence and explain limits, not just read one value.",
+        "material_source_gap_identified_by_author": null
+      },
+      {
+        "id": "F2",
+        "learning_intention": "Identify and investigate anomalies",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "OPENSTAX-OUTLIER",
+          "PRECISION:OS-PHYS",
+          "FORCES:AAS-GRAVITY",
+          "O-OUTLIER"
+        ],
+        "basis": "Explicit21-value dataset and published candidate anomaly, raw repeated spread and source reaction-time discussion. Check transcription/context, retain/flag until justified; anomaly not automatically wrong.",
+        "material_source_gap_identified_by_author": null
+      },
+      {
+        "id": "F3",
+        "learning_intention": "Qualify predictions and avoid unsupported causation",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "OPENSTAX-SAMPLING",
+          "GROWTH:OHIO-GROWTH-DATA",
+          "BOM-SEASONAL-DATA",
+          "O-SAMPLE"
+        ],
+        "basis": "Complete selection/sample-data conflict, failed exact doubling prediction and climatic-average limits. Restrict predictions to range/context; sampling or association does not establish intervention causality.",
+        "material_source_gap_identified_by_author": null
+      }
+    ]
+  },
+  {
+    "code": "AC9S7I06",
+    "descriptor": "analyse methods, conclusions and claims for assumptions, possible sources of error, conflicting evidence and unanswered questions",
+    "effective_source_decision": "SUFFICIENT — BOUNDED CORE",
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "Identify assumptions and sources of error",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "FORCES:AAS-FORCE/AAS-GRAVITY",
+          "GROWTH:VEDANTU-GERMINATION-PLAN",
+          "METERS:NPL-MASS",
+          "O-METHOD"
+        ],
+        "basis": "Specific source setup/measurement errors and confounds→effect→targeted repair. Repeats reduce random spread, not shared zero bias; contact forces remain on ramp.",
+        "material_source_gap_identified_by_author": null
+      },
+      {
+        "id": "F2",
+        "learning_intention": "Link method quality to conclusion strength",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "ASU-HYPOTHESES",
+          "OPENSTAX-SAMPLING",
+          "GROWTH:OHIO-GROWTH-DATA",
+          "PEARSON-DATA-MODELS",
+          "O-HYP/O-SAMPLE"
+        ],
+        "basis": "Actual full test outcomes and paired/contrasting sample methods/data support conclusion critique. Control changes, incomplete methods/replicate counts and sample selection restrict what evidence establishes.",
+        "material_source_gap_identified_by_author": null
+      },
+      {
+        "id": "F3",
+        "learning_intention": "Compare conflicting evidence and unanswered questions",
+        "source_method_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW",
+        "acceptance": "COMPLETED — INDEPENDENT SOURCE QA",
+        "evidence": [
+          "OPENSTAX-SAMPLING",
+          "ASU-HYPOTHESES",
+          "SPACE:BOM-TIDES/NOAA-TIDE-DATA-METHOD",
+          "O-HYP/O-SAMPLE"
+        ],
+        "basis": "Compare three complete published samples and reasons differing findings need not imply one arithmetic error. Distinguish model/local response, ask discriminating component test or improved sampling question. No fabricated laboratory study pair.",
+        "material_source_gap_identified_by_author": null
+      }
+    ]
+  },
+  {
+    "code": "AC9S7I07",
+    "descriptor": "construct evidence-based arguments to support conclusions or evaluate claims and consider any ethical issues and cultural protocols associated with using or citing secondary data or information",
+    "effective_source_decision": "SUFFICIENT — BOUNDED CORE",
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "Construct a claim–evidence–reasoning argument",
+        "baseline_status": "SPECIFIC GAP",
+        "baseline_required_collection": "Collect full source/data set and actual argument/rebuttal tasks with an open-response rubric, plus exact ethical/cultural access and citation case; do not equate a source citation with evidence validity.",
+        "author_proposed_status": "SUFFICIENT_PROPOSED",
+        "evidence_ids": [
+          "B17-LHS-EVIDENCE",
+          "B17-LHS-REASONING",
+          "reuse:ARGUMENT_ETHICS"
+        ],
+        "author_reason": "Full actual argument texts, supplied illustrative table, two explicit rubrics and accepted whole-argument composition protocol now support productive evidence-based argument rather than recognition only.",
+        "independent_source_gate": "PENDING SEPARATE REVIEW",
+        "reviewer_may_retain_specific_gap": true,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      },
+      {
+        "id": "F2",
+        "learning_intention": "Evaluate strength, limitations and counterevidence",
+        "baseline_status": "SPECIFIC GAP",
+        "baseline_required_collection": "Collect full source/data set and actual argument/rebuttal tasks with an open-response rubric, plus exact ethical/cultural access and citation case; do not equate a source citation with evidence validity.",
+        "author_proposed_status": "SUFFICIENT_PROPOSED",
+        "evidence_ids": [
+          "B17-LHS-EVIDENCE",
+          "B17-LHS-REASONING",
+          "B17-OWN-SOURCE-CLAIM"
+        ],
+        "author_reason": "Actual weak/strong sample arguments and source-pack constraints support relevance/sufficiency, contrary evidence and calibrated inference. Rubric source errors are identified rather than inherited.",
+        "independent_source_gate": "PENDING SEPARATE REVIEW",
+        "reviewer_may_retain_specific_gap": true,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      },
+      {
+        "id": "F3",
+        "learning_intention": "Apply secondary-source ethics/cultural protocols",
+        "baseline_status": "SPECIFIC GAP",
+        "baseline_required_collection": "Collect full source/data set and actual argument/rebuttal tasks with an open-response rubric, plus exact ethical/cultural access and citation case; do not equate a source citation with evidence validity.",
+        "author_proposed_status": "SUFFICIENT_PROPOSED",
+        "evidence_ids": [
+          "reuse:ARGUMENT_ETHICS",
+          "B17-OWN-ETHICS-APPLICATION"
+        ],
+        "author_reason": "Complete real ownership/use/citation conditions provide a bounded secondary-data/ICIP case; proposed different use is an explicitly original scenario. Citation and permission are separate; no consent invented.",
+        "independent_source_gate": "PENDING SEPARATE REVIEW",
+        "reviewer_may_retain_specific_gap": true,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      }
+    ]
+  },
+  {
+    "code": "AC9S7I08",
+    "descriptor": "write and create texts to communicate ideas, findings and arguments for specific purposes and audiences, including selection of appropriate language and text features, using digital tools as appropriate",
+    "effective_source_decision": "SUFFICIENT — BOUNDED CORE",
+    "focuses": [
+      {
+        "id": "F1",
+        "learning_intention": "Plan content for purpose and audience",
+        "baseline_status": "SPECIFIC GAP",
+        "baseline_required_collection": "Collect actual two-audience science communication source models and creation/revision activity, full evidence/source stimulus and teacher acceptance rubric. Receptive passage questions do not substitute for productive communication.",
+        "author_proposed_status": "SUFFICIENT_PROPOSED",
+        "evidence_ids": [
+          "reuse:COMMUNICATION",
+          "reuse:ARGUMENT_ETHICS"
+        ],
+        "author_reason": "Accepted complete scientific texts for different readers and actual audience creation/adaptation activities provide the source method; compare shared core meaning without asserting identical claims.",
+        "independent_source_gate": "PENDING SEPARATE REVIEW",
+        "reviewer_may_retain_specific_gap": true,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      },
+      {
+        "id": "F2",
+        "learning_intention": "Select accurate text and multimodal features",
+        "baseline_status": "SPECIFIC GAP",
+        "baseline_required_collection": "Collect actual two-audience science communication source models and creation/revision activity, full evidence/source stimulus and teacher acceptance rubric. Receptive passage questions do not substitute for productive communication.",
+        "author_proposed_status": "SUFFICIENT_PROPOSED",
+        "evidence_ids": [
+          "reuse:COMMUNICATION",
+          "B17-LHS-EVIDENCE"
+        ],
+        "author_reason": "Actual report/text/caption/poster/comic task, science terminology guidance and full evidence pack support purposeful features and accurate data language. No image-pixel interpretation key is inferred.",
+        "independent_source_gate": "PENDING SEPARATE REVIEW",
+        "reviewer_may_retain_specific_gap": true,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      },
+      {
+        "id": "F3",
+        "learning_intention": "Create, revise and source accessible communication",
+        "baseline_status": "SPECIFIC GAP",
+        "baseline_required_collection": "Collect actual two-audience science communication source models and creation/revision activity, full evidence/source stimulus and teacher acceptance rubric. Receptive passage questions do not substitute for productive communication.",
+        "author_proposed_status": "SUFFICIENT_PROPOSED",
+        "evidence_ids": [
+          "reuse:COMMUNICATION",
+          "reuse:ARGUMENT_ETHICS",
+          "B17-LHS-REASONING"
+        ],
+        "author_reason": "Actual productive creation, peer/self checking and repair protocols plus source conditions support revise/share responsibly using appropriate digital formats. No finished multimodal artefact or media operation claimed.",
+        "independent_source_gate": "PENDING SEPARATE REVIEW",
+        "reviewer_may_retain_specific_gap": true,
+        "source_decision": "SUFFICIENT — INDEPENDENT SOURCE REVIEW"
+      }
+    ]
+  }
+]

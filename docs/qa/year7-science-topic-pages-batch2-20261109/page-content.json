@@ -1,0 +1,570 @@
+[
+  {
+    "code": "AC9S7I01",
+    "art": "01",
+    "short": "Questions and hypotheses",
+    "title": "Turn a model into a testable question",
+    "intro": "Develop feasible questions, explain a hypothesis and make a prediction that evidence could support or challenge.",
+    "exampleTitle": "Would doubling the mass halve the speed change?",
+    "example": "The given model suggests a relationship: when total mass doubles from 1.5 kg to 3.0 kg, the speed change halves from 6.0 to 3.0 m/s. An investigable question is “How does total cart mass affect its speed change under the same net force for the same time?” The hypothesis is that greater mass resists a change in motion more strongly. The prediction is that a 6.0 kg cart would change speed by 1.5 m/s if the model continues to apply. Testing needs suitable equipment and control of net force, duration and starting motion.",
+    "evidence": "<div class=\"evidence\"><table><caption>Supplied ideal model: same 3 N net force acts for 3 s; both given carts start at rest. These are model values, not measured classroom results.</caption><thead><tr><th scope=\"col\">Total cart mass (kg)</th><th scope=\"col\">Change in speed from rest (m/s)</th><th scope=\"col\">Status</th></tr></thead><tbody><tr><td>1.5</td><td>6.0</td><td>Given ideal-model result</td></tr><tr><td>3.0</td><td>3.0</td><td>Given ideal-model result</td></tr><tr><td>6.0</td><td>1.5</td><td>Prediction to test</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Make the question feasible",
+        "A useful investigation question identifies what will be compared and what evidence can answer it. Check materials, time, safety and measurable outcomes. Observational questions can find patterns without deliberately changing a cause.",
+        "<p class=\"note\"><strong>Available equipment</strong> A block, felt and smooth plastic, a suitable force meter and a ruler can compare steady pulling force on those two surfaces. They cannot directly test every possible surface.</p>",
+        "Write one question that this equipment could answer.",
+        "For example: “How does felt versus smooth plastic affect the steady horizontal pulling force on the same block?” Specify equal motion and other controls in the method."
+      ],
+      [
+        "Separate explanation from expected result",
+        "A hypothesis proposes a testable explanation or relationship. A prediction states an observable result expected under particular test conditions. A reason connects the prediction to the hypothesis.",
+        "<p class=\"note\"><strong>Different roles</strong> Hypothesis: this felt resists sliding more than this plastic for the chosen block. Prediction: the force-meter reading will be higher on felt when the same block is pulled steadily under matched conditions.</p>",
+        "Is “the meter will read a larger force on felt” the explanation or the expected observation?",
+        "It is the prediction. The proposed greater sliding resistance is the hypothesis; the test must check the expected difference rather than assume it."
+      ],
+      [
+        "Ask what would challenge the model",
+        "A model helps generate predictions. Plan evidence that could disagree with it as well as evidence that could fit. A mismatch may reveal a model limit, a failed assumption or a measurement problem.",
+        "<div class=\"evidence\"><table><caption>Supplied ideal model: same 3 N net force acts for 3 s; both given carts start at rest. These are model values, not measured classroom results.</caption><thead><tr><th scope=\"col\">Total cart mass (kg)</th><th scope=\"col\">Change in speed from rest (m/s)</th><th scope=\"col\">Status</th></tr></thead><tbody><tr><td>1.5</td><td>6.0</td><td>Given ideal-model result</td></tr><tr><td>3.0</td><td>3.0</td><td>Given ideal-model result</td></tr><tr><td>6.0</td><td>1.5</td><td>Prediction to test</td></tr></tbody></table></div>",
+        "A 6.0 kg cart gives a different speed change from 1.5 m/s. Must the model immediately be discarded?",
+        "No. Check actual net force, elapsed time, starting motion and measurements first. If a well-controlled repeated test still disagrees, refine or question the model."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“A hypothesis is just a guess.”",
+        "It is a testable proposition or explanation with a reason that evidence can examine."
+      ],
+      [
+        "“One matching result proves the model forever.”",
+        "It supports the model under the tested conditions; other explanations and limits still need attention."
+      ]
+    ],
+    "activityTitle": "Write a linked investigation brief",
+    "activity": "Use a block, two named surfaces and a force meter as your available materials. Write a measurable question, a reasoned hypothesis and a different sentence predicting the result. Add one observation that would challenge your hypothesis.",
+    "adjust": "Support: begin “How does… affect…?” and “If…, then… because…”. Extend: turn a garden observation into a pattern question and explain why it would not alone establish causation.",
+    "safety": "This is a planning task. Any cart or pulling test needs adult approval, gentle forces, suitable instruments and a clear level path; do not launch heavy objects.",
+    "tricky": [
+      [
+        "A new-battery test fails, then a new bulb works with those new batteries. Does that prove the old batteries were good?",
+        "No. Both old batteries and old bulb could have failed. Test each old component separately against a known-working baseline, checking contacts and orientation."
+      ],
+      [
+        "Can a survey of shade and plant numbers answer a pattern question?",
+        "Yes, if the observations are suitable. It can identify an association, but other differences between sites prevent a simple causal claim."
+      ],
+      [
+        "The ideal model gives 3.0 m/s at 3.0 kg. What does the halving pattern predict at 6.0 kg under the same conditions?",
+        "1.5 m/s. It is a model prediction to test, not an observation already collected."
+      ]
+    ],
+    "faq": [
+      [
+        "Must every science question involve an experiment?",
+        "No. Observations, comparisons and model investigations can answer suitable questions. Match the evidence and wording to the type of inquiry."
+      ],
+      [
+        "What makes a prediction reasoned?",
+        "It follows from a stated explanation, pattern or model and specifies what would be observed under the planned conditions."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S7I02",
+    "art": "02",
+    "short": "Reproducible investigations",
+    "title": "Write a plan another group can repeat",
+    "intro": "Specify variables, measurements, assumptions, repeats and appropriate risk, ethical and Country/Place responsibilities.",
+    "exampleTitle": "“Pull the block” is not a reproducible method",
+    "example": "Two groups could follow “pull the block” using different loads, speeds and reading points. The plan below makes those choices explicit. Because the question concerns steady sliding, read through the middle of the path after the motion has settled, rather than recording the starting peak. Keep a record of departures from the plan. Three pulls of one block help check repeatability; they do not represent every block or brand of material.",
+    "evidence": "<div class=\"evidence\"><table><caption>A supplied planning model. A pilot must confirm the selected meter is suitable; no force results are supplied.</caption><thead><tr><th scope=\"col\">Planning decision</th><th scope=\"col\">Specified method</th></tr></thead><tbody><tr><td>Question</td><td>How does felt versus smooth plastic affect steady pulling force for the same block?</td></tr><tr><td>Changed / measured</td><td>Surface / steady horizontal pulling force in N</td></tr><tr><td>Held consistent</td><td>Total 200 g block, contact face, level path, horizontal pull and target speed</td></tr><tr><td>Movement and reading</td><td>Move 40 cm in about 4 s; read steady force through the central 20 cm, not the starting peak</td></tr><tr><td>Equipment check</td><td>Suitable 0–5 N meter with 0.1 N divisions; zero and adult-approved gentle pilot before use</td></tr><tr><td>Repeats and record</td><td>Reset and make three pulls per surface; vary order; record all raw readings in N</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Align the method with the question",
+        "Identify the independent variable, dependent variable and relevant controls. Choose enough procedural detail for someone else to repeat the comparison without guessing key quantities or measurement steps.",
+        "<div class=\"evidence\"><table><caption>A supplied planning model. A pilot must confirm the selected meter is suitable; no force results are supplied.</caption><thead><tr><th scope=\"col\">Planning decision</th><th scope=\"col\">Specified method</th></tr></thead><tbody><tr><td>Question</td><td>How does felt versus smooth plastic affect steady pulling force for the same block?</td></tr><tr><td>Changed / measured</td><td>Surface / steady horizontal pulling force in N</td></tr><tr><td>Held consistent</td><td>Total 200 g block, contact face, level path, horizontal pull and target speed</td></tr><tr><td>Movement and reading</td><td>Move 40 cm in about 4 s; read steady force through the central 20 cm, not the starting peak</td></tr><tr><td>Equipment check</td><td>Suitable 0–5 N meter with 0.1 N divisions; zero and adult-approved gentle pilot before use</td></tr><tr><td>Repeats and record</td><td>Reset and make three pulls per surface; vary order; record all raw readings in N</td></tr></tbody></table></div>",
+        "Why must both the block and the way it is pulled be kept consistent?",
+        "Changing the block, contact face, load, speed or pull angle could change the reading. Those differences would weaken the intended comparison of surfaces."
+      ],
+      [
+        "Check assumptions and control risks",
+        "An assumption is something the method relies on, not a fact guaranteed by writing it down. Check the meter zero, a level path and a steady horizontal pull. Link each hazard to a practical control.",
+        "<div class=\"evidence\"><table><caption>A control must address the stated risk; “be careful” alone is incomplete</caption><thead><tr><th scope=\"col\">Hazard or concern</th><th scope=\"col\">Specific response</th></tr></thead><tbody><tr><td>Block falls from bench</td><td>Use a clear stable path away from the edge</td></tr><tr><td>Meter is overloaded</td><td>Check range in an approved gentle pilot; stop before exceeding capacity</td></tr><tr><td>Unnecessary disturbance of living things</td><td>Use an approved non-invasive alternative and minimise harm</td></tr></tbody></table></div>",
+        "Would repeating every pull remove a common uncorrected meter-zero error?",
+        "No. Repeats can reveal spread, but a shared offset can remain. Check zero and an appropriate reference rather than relying on repeats alone."
+      ],
+      [
+        "Plan access and knowledge use appropriately",
+        "Field planning on Country/Place requires appropriate local guidance and permissions, including consideration of heritage sites, artefacts and sensitive knowledge. Approval for one activity does not cover every other activity.",
+        "<p class=\"note\"><strong>Hypothetical field case</strong> A school has permission to walk an approved route. A learner notices an object that might be an artefact; collecting objects and recording local knowledge were not authorised.</p>",
+        "What should the group do before treating the object or knowledge as investigation data?",
+        "Stop any disturbing activity, leave the object and place unchanged, inform the teacher and follow the relevant local Custodian, site, school and heritage process. Do not handle, collect, record or publish on the assumption that walking permission covers it."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Three readings mean three independent biological samples.”",
+        "Repeated readings of one specimen are different from measurements on separate specimens. State what was repeated."
+      ],
+      [
+        "“A public path gives permission for every scientific activity.”",
+        "Access, sampling, cultural knowledge, recording and publication may have different authorities and conditions. Establish the appropriate scope first."
+      ]
+    ],
+    "activityTitle": "Rehearse and record the procedure",
+    "activity": "On paper, turn the supplied friction plan into numbered instructions and a raw-data table with three trial columns for each surface. Mark where to check safety, zero, movement and reading. If a teacher approves a practical version, follow the approved method and record actual departures and results without filling blanks by guessing.",
+    "adjust": "Support: label changed, measured and controlled variables first. Extend: add independent blocks or material samples and explain how that changes the question you can answer.",
+    "safety": "Practical work and field visits require school/adult approval and appropriate supervision. Do not disturb possible heritage material or seek restricted knowledge for this activity.",
+    "tricky": [
+      [
+        "The first pull is unexpectedly large. Can you erase it to make the results agree?",
+        "No. Retain the raw record, note what happened and investigate whether the reading included starting friction or another departure. Any exclusion needs a documented reason."
+      ],
+      [
+        "Why vary the order of felt and plastic trials?",
+        "It helps reveal or reduce a time/order effect, such as wear, fatigue or instrument drift, that could otherwise follow the surface order."
+      ],
+      [
+        "A community agrees to a visit. Does that automatically permit uploading an interview?",
+        "No. Permission to visit and permission to record or share knowledge are separate; follow the specific authorised conditions."
+      ]
+    ],
+    "faq": [
+      [
+        "Does reproducible mean every result will be identical?",
+        "No. The procedure is sufficiently specified to repeat; natural and measurement variation can still produce different results."
+      ],
+      [
+        "What if an assumption cannot be checked adequately?",
+        "Record it as a limitation and consider redesigning the method or narrowing the conclusion."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S7I03",
+    "art": "03",
+    "short": "Equipment and precision",
+    "title": "Choose a tool, then check the reading",
+    "intro": "Select equipment for quantity, range and resolution, record justified precision and check analogue and digital measurements.",
+    "exampleTitle": "Which force meter is useful for a 2–4 N reading?",
+    "example": "Instrument A covers the expected range and has 0.1 N divisions; B has a much larger range but only 1 N divisions. A is the more useful choice for distinguishing small differences in this task, provided it is used within its capacity. On the labelled model, the pointer is at 2.6 N. Record 2.6 N for the stated 0.1 N reading task, with the unit. Extra zeros would not establish extra measurement precision.",
+    "evidence": "<div class=\"evidence\"><table><caption>Expected force for this task is between 2 and 4 N. Both ranges cover it, but A has finer useful divisions.</caption><thead><tr><th scope=\"col\">Instrument</th><th scope=\"col\">Range</th><th scope=\"col\">Smallest marked division</th></tr></thead><tbody><tr><td>A</td><td>0–5 N</td><td>0.1 N</td></tr><tr><td>B</td><td>0–50 N</td><td>1 N</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Match quantity, range and resolution",
+        "First decide what must be measured. A balance records mass, a force meter force, a thermometer temperature and a timer elapsed time. Check expected range, useful graduation, safe use and the measurement conditions.",
+        "<div class=\"evidence\"><table><caption>Expected force for this task is between 2 and 4 N. Both ranges cover it, but A has finer useful divisions.</caption><thead><tr><th scope=\"col\">Instrument</th><th scope=\"col\">Range</th><th scope=\"col\">Smallest marked division</th></tr></thead><tbody><tr><td>A</td><td>0–5 N</td><td>0.1 N</td></tr><tr><td>B</td><td>0–50 N</td><td>1 N</td></tr></tbody></table></div>",
+        "Would the largest-capacity instrument always be the best choice?",
+        "No. It must cover the range, but very coarse divisions may hide useful differences. Choose adequate capacity and useful resolution together."
+      ],
+      [
+        "Read and record a defensible value",
+        "Check zero and scale intervals, view an analogue scale appropriately and keep raw readings with units. The task’s required detail must be supported by the instrument; avoid invented digits.",
+        "<p class=\"note\"><strong>Given reading task</strong> A 0–5 N scale has ten equal intervals between each pair of whole-newton labels. The pointer is six intervals beyond 2 N. Read to 0.1 N.</p>",
+        "Calculate the interval and the reading.",
+        "Each interval is 1 N ÷ 10 = 0.1 N. Six intervals add 0.6 N, so the reading is 2.6 N."
+      ],
+      [
+        "Check digital outputs against the setup",
+        "A stable digital display can repeat the same biased value. Zero/tare, appropriate reference checks, units, placement and a suitable sampling interval still matter.",
+        "<div class=\"evidence\"><table><caption>Supplied instrument-check data, not a certificate of calibration</caption><thead><tr><th scope=\"col\">Reference and digital readings</th><th scope=\"col\">Interpretation</th></tr></thead><tbody><tr><td>Accepted reference mass: 50.0 g</td><td>A comparison value for this task</td></tr><tr><td>Readings: 50.4, 50.4, 50.4 g</td><td>Repeatable, but each is 0.4 g above the reference</td></tr></tbody></table></div>",
+        "Do these three identical readings establish accuracy?",
+        "No. They show repeatability here, but disagree with the reference. Check zero, setup and calibration using the approved procedure; do not merely add more decimal places."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Digital means automatically accurate.”",
+        "A wrong unit, zero offset, placement or unsuitable sensor setup can produce misleading digital readings."
+      ],
+      [
+        "“A missing reading is zero.”",
+        "A blank means missing information unless a valid zero was actually recorded. Flag it rather than inventing a measurement."
+      ]
+    ],
+    "activityTitle": "Build an equipment decision record",
+    "activity": "For a 2–4 N force comparison, choose A or B and justify range and division size. Record the supplied 2.6 N reading, then write a check you would make before trusting a digital instrument. Use a heading containing quantity and unit.",
+    "adjust": "Support: compare “fits the range” with “shows small differences”. Extend: explain when a data logger could capture a fast-changing quantity better than infrequent manual readings, and why its sampling interval still needs checking.",
+    "safety": "Use supplied records or adult-approved equipment. Do not exceed instrument limits or treat the diagrams as calibrated physical apparatus.",
+    "tricky": [
+      [
+        "A ruler’s object starts at 3 cm and ends at 11 cm. Is its length 11 cm?",
+        "No. Its length is 11 − 3 = 8 cm. The endpoint difference matters when the baseline is not zero."
+      ],
+      [
+        "A sensor reports 20.000 °C. Does the display prove it is closer to the true temperature than a 20.0 °C reading?",
+        "No. More displayed digits do not prove calibration or accuracy. Check the instrument and uncertainty appropriate to the task."
+      ],
+      [
+        "A stopwatch displays hundredths of a second. Does that eliminate a person’s reaction-time variation?",
+        "No. Display resolution and human timing variation are different limitations. Choose a more suitable triggering method if the task needs it."
+      ]
+    ],
+    "faq": [
+      [
+        "Is zero adjustment the same as full calibration?",
+        "No. Zero adjustment sets a baseline; calibration checks how indications relate to reference values over the relevant range."
+      ],
+      [
+        "Can an identification app replace checking an organism’s features?",
+        "No. Treat its suggestion as something to verify against observable features and an appropriate reliable guide."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S7I04",
+    "art": "04",
+    "short": "Tables, graphs and models",
+    "title": "Choose a representation that answers the question",
+    "intro": "Construct accurate tables, graphs and models, then process information while retaining the raw records.",
+    "exampleTitle": "Three records need the right spacing",
+    "example": "Plot time on the horizontal axis and distance on the vertical axis. Place the records at (0, 0.0), (2, 0.4) and (5, 1.0), using equal-sized units along each axis. The rule distance = 0.20 × time fits these supplied pairs when distance is in metres and time in seconds. A line can show their chronological pattern, but the three points alone do not prove exactly what happened at every moment between them.",
+    "evidence": "<div class=\"evidence\"><table><caption>Hypothetical trolley records. Time is numerical: the 2-to-5 s gap is larger than the 0-to-2 s gap.</caption><thead><tr><th scope=\"col\">Elapsed time (s)</th><th scope=\"col\">Distance from start (m)</th></tr></thead><tbody><tr><td>0</td><td>0.0</td></tr><tr><td>2</td><td>0.4</td></tr><tr><td>5</td><td>1.0</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Choose by purpose and data type",
+        "Use a table for exact values, separate columns for categories, and a numerical scatter or ordered-time graph for paired numerical data. A model can represent relationships that a graph does not: food transfers, identification choices or particle arrangements.",
+        "<div class=\"evidence\"><table><caption>A representation is chosen for what it needs to explain</caption><thead><tr><th scope=\"col\">Information</th><th scope=\"col\">Suitable representation</th></tr></thead><tbody><tr><td>Sighting events: magpie 5, honeyeater 3, wren 2</td><td>Separate columns: named categories</td></tr><tr><td>Trolley positions at 0, 2 and 5 s</td><td>Numerical time–distance graph</td></tr><tr><td>Which organism eats which food</td><td>Food web with a clear arrow convention</td></tr></tbody></table></div>",
+        "Why should a line not connect magpie, honeyeater and wren as a numerical time sequence?",
+        "They are categories, not successive times or positions along a continuous numerical variable. Separate columns make the comparison clearer."
+      ],
+      [
+        "Construct before decorating",
+        "Give a title, label quantities and units, choose suitable even scales and plot every pair accurately. Preserve actual numerical gaps; a spreadsheet’s default category spacing can be misleading.",
+        "<div class=\"evidence\"><table><caption>Hypothetical trolley records. Time is numerical: the 2-to-5 s gap is larger than the 0-to-2 s gap.</caption><thead><tr><th scope=\"col\">Elapsed time (s)</th><th scope=\"col\">Distance from start (m)</th></tr></thead><tbody><tr><td>0</td><td>0.0</td></tr><tr><td>2</td><td>0.4</td></tr><tr><td>5</td><td>1.0</td></tr></tbody></table></div>",
+        "Should the gaps from 0 to 2 s and 2 to 5 s have the same width?",
+        "No. They represent 2 s and 3 s. On an even numerical axis, the latter gap is one and a half times as wide."
+      ],
+      [
+        "Process without losing the originals",
+        "A summary can make a pattern easier to compare, but keep raw trials so spread and missing values remain visible. Check spreadsheet formulas against simple arithmetic.",
+        "<div class=\"evidence wide-evidence\" tabindex=\"0\" aria-label=\"Data table; scroll horizontally if needed.\"><table><caption>If these three times occupy B2:D2, =AVERAGE(B2:D2) gives 1.3. The raw sum is 3.9 s.</caption><thead><tr><th scope=\"col\">Trial 1 (s)</th><th scope=\"col\">Trial 2 (s)</th><th scope=\"col\">Trial 3 (s)</th><th scope=\"col\">Mean (s)</th></tr></thead><tbody><tr><td>1.2</td><td>1.4</td><td>1.3</td><td>1.3</td></tr></tbody></table></div>",
+        "Why keep the three trial values after calculating 1.3 s?",
+        "The mean alone hides the 1.2–1.4 s spread and cannot reveal every recording problem. Keeping raw trials allows checking and reinterpretation."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“All numerical data must be joined by lines.”",
+        "The purpose and meaning of the variables matter. Scatter points can show a relationship without claiming a path between unrelated observations."
+      ],
+      [
+        "“An automatic graph is already correct.”",
+        "Check axes, units, numerical spacing, plotted values and the meaning of the chosen graph type."
+      ]
+    ],
+    "activityTitle": "Translate the same records",
+    "activity": "Draw a table and a time–distance graph for 0, 2 and 5 s with distances 0.0, 0.4 and 1.0 m. Mark the unequal time gaps correctly. Write a sentence using the fitting rule and a sentence explaining a limit of the model.",
+    "adjust": "Support: choose an x-axis from 0 to 5 s with equal 1 s intervals. Extend: explain why a food web or identification key would be better than a graph for a different scientific question.",
+    "safety": "Use paper or a suitable graphing tool. Preserve originals and verify digital output rather than submitting an unchecked default chart.",
+    "tricky": [
+      [
+        "Do five bird sightings necessarily mean five different birds?",
+        "No. A bird might be seen more than once. Label them as sighting events unless the method establishes individual identity."
+      ],
+      [
+        "Does connecting the three trolley points prove constant speed at every instant?",
+        "No. The straight line fits the sampled positions; unrecorded motion between them needs more evidence."
+      ],
+      [
+        "A spreadsheet average ignores one blank trial cell. Can you describe the mean as three measured trials?",
+        "No. Report the actual number of valid measurements and flag the missing trial. A blank is not a measured zero."
+      ]
+    ],
+    "faq": [
+      [
+        "Can a useful model omit details?",
+        "Yes. State what it represents and the important limits; a model is not a complete copy of reality."
+      ],
+      [
+        "Where do the units belong in a raw-data table?",
+        "Put each quantity and its unit clearly in the column heading, using consistent units for the entries."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S7I05",
+    "art": "05",
+    "short": "Patterns and anomalies",
+    "title": "Describe the pattern, then check the exception",
+    "intro": "Use numerical evidence to describe trends and relationships, investigate anomalies and qualify predictions.",
+    "exampleTitle": "More shade and a higher moisture reading: what can we conclude?",
+    "example": "Across these four sites, greater shade is associated with higher soil-moisture readings: from 18% at 20% shade to 34% at 80% shade. The moisture reading rises by 16 percentage points across those observations. This is a positive relationship in the supplied data. It does not establish that shade alone caused the difference: soil, recent watering, drainage or sampling conditions may also vary.",
+    "evidence": "<div class=\"evidence\"><table><caption>Hypothetical observations at four different garden sites, using the same stated instrument scale. These are not a controlled change of shade at one site.</caption><thead><tr><th scope=\"col\">Site</th><th scope=\"col\">Shade (%)</th><th scope=\"col\">Soil-moisture instrument reading (%)</th></tr></thead><tbody><tr><td>A</td><td>20</td><td>18</td></tr><tr><td>B</td><td>40</td><td>23</td></tr><tr><td>C</td><td>60</td><td>29</td></tr><tr><td>D</td><td>80</td><td>34</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "State the pattern with evidence",
+        "A trend is an overall direction through ordered data. A relationship describes how variables vary together. A repeated rise and fall can form a cyclic pattern. Use values and units rather than only saying “it goes up”.",
+        "<div class=\"evidence\"><table><caption>Hypothetical observations at four different garden sites, using the same stated instrument scale. These are not a controlled change of shade at one site.</caption><thead><tr><th scope=\"col\">Site</th><th scope=\"col\">Shade (%)</th><th scope=\"col\">Soil-moisture instrument reading (%)</th></tr></thead><tbody><tr><td>A</td><td>20</td><td>18</td></tr><tr><td>B</td><td>40</td><td>23</td></tr><tr><td>C</td><td>60</td><td>29</td></tr><tr><td>D</td><td>80</td><td>34</td></tr></tbody></table></div>",
+        "Write a supported comparison between sites B and D.",
+        "Site D has 80% shade and a 34% moisture reading, compared with 40% shade and 23% moisture at B: the moisture reading is 11 percentage points higher at D."
+      ],
+      [
+        "Flag an anomaly without inventing its cause",
+        "An unusual value may be a recording error, a method problem or a genuine event. Keep it in the raw record while checking units, transcription, instrument and sampling context.",
+        "<div class=\"evidence wide-evidence\" tabindex=\"0\" aria-label=\"Data table; scroll horizontally if needed.\"><table><caption>Separate hypothetical moisture-check records. The mean of all four is (22 + 23 + 61 + 22) ÷ 4 = 32%.</caption><thead><tr><th scope=\"col\">Reading 1 (%)</th><th scope=\"col\">Reading 2 (%)</th><th scope=\"col\">Reading 3 (%)</th><th scope=\"col\">Reading 4 (%)</th></tr></thead><tbody><tr><td>22</td><td>23</td><td>61</td><td>22</td></tr></tbody></table></div>",
+        "Is 61% automatically a mistake, and can you delete it now?",
+        "No. It is a candidate anomaly relative to the other readings. Check the record and sampling conditions and flag it; do not invent a typo or remove it only to make the mean smaller."
+      ],
+      [
+        "Predict within the evidence",
+        "Interpolation estimates between observed values under a stated pattern assumption; extrapolation goes beyond the tested range. Neither guarantees an exact future reading. Observational association alone does not isolate a cause.",
+        "<p class=\"note\"><strong>Prediction limit</strong> For another comparable site near 50% shade, a moisture reading between the supplied 23% and 29% may be a tentative estimate if the pattern and context continue.</p>",
+        "Why can we not promise exactly 26% moisture at every 50%-shaded site?",
+        "Only four different sites were observed; the relationship may not be exactly linear and other conditions can differ. State the assumption and uncertainty."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“The largest number is always an error.”",
+        "Judge it against the pattern, raw record and context. An unusual observation can be real."
+      ],
+      [
+        "“Association proves the cause.”",
+        "A relationship can suggest a question, but confounding factors and a suitable design must be considered before making a causal claim."
+      ]
+    ],
+    "activityTitle": "Write an evidence paragraph",
+    "activity": "Using the four-site shade table, write the overall relationship, two supporting values and one plausible alternative explanation. Then flag the unusual value in 22, 23, 61, 22% and write the first check you would make.",
+    "adjust": "Support: use “In these records… from… to…”. Extend: design a controlled shade comparison that would address one alternative explanation, without claiming it has already been performed.",
+    "safety": "Use the supplied data or supervised observations on an approved route. Do not enter planted areas, dig soil or disturb habitats without appropriate permission.",
+    "tricky": [
+      [
+        "From 18% to 34%, is the increase 16 percentage points or necessarily 16 percent?",
+        "It is 16 percentage points. A relative percentage increase is a different calculation; do not use the phrases interchangeably."
+      ],
+      [
+        "Two variables fluctuate with no consistent relationship in a suitable dataset. Must you draw an increasing trend?",
+        "No. Report that the supplied data show no clear relationship rather than forcing a preferred pattern."
+      ],
+      [
+        "Could the mean 32% of 22, 23, 61, 22% hide an important feature?",
+        "Yes. Three readings cluster near 22–23%, while 61% is unusual. The mean is arithmetically correct but should be accompanied by the raw values and anomaly discussion."
+      ]
+    ],
+    "faq": [
+      [
+        "Does an anomaly make the whole investigation worthless?",
+        "Not automatically. Investigate its cause and explain how it affects the pattern and strength of the conclusion."
+      ],
+      [
+        "Can a monthly seasonal pattern predict one particular day exactly?",
+        "No. Monthly summaries and individual days are different; day-to-day variation and other evidence matter."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S7I06",
+    "art": "06",
+    "short": "Evaluate methods and claims",
+    "title": "Connect a method weakness to its consequence",
+    "intro": "Examine assumptions, errors, conflicting findings and unanswered questions before judging a conclusion.",
+    "exampleTitle": "“Warmer means five centimetres taller” goes beyond the evidence",
+    "example": "Report A’s warm group ends 5 cm taller than its cool group, but the warm group also receives brighter light. The method cannot isolate temperature as the only explanation. Report B, with light matched, shows a 1 cm difference instead. Those findings challenge a universal “5 cm” claim; they do not require one group to have invented its data. Compare methods, samples and conditions, then propose a test that separates the competing explanations.",
+    "evidence": "<div class=\"evidence wide-evidence\" tabindex=\"0\" aria-label=\"Data table; scroll horizontally if needed.\"><table><caption>Both reports: six separate seedlings per group, same variety and starting mean height 5 cm, 7 days and 10 mL water per seedling daily. Assume other stated conditions match within each report.</caption><thead><tr><th scope=\"col\">Fictional report</th><th scope=\"col\">Warm group</th><th scope=\"col\">Cool group</th><th scope=\"col\">Key comparison limit</th></tr></thead><tbody><tr><td>A</td><td>Bright light; mean final height 14 cm</td><td>Dim light; mean final height 9 cm</td><td>Both temperature and light differ</td></tr><tr><td>B</td><td>Matched light; mean final height 11 cm</td><td>Matched light; mean final height 10 cm</td><td>Light held alike; small study remains limited</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Identify the problem and its effect",
+        "A useful evaluation names a specific weakness, explains what it could change and proposes a matching repair. “Human error” gives no such explanation. An assumption should be checked or stated as a limit.",
+        "<p class=\"note\"><strong>Ruler example</strong> The stem begins at the 1 cm ruler mark and ends at 15 cm. Its length is 15 − 1 = 14 cm. Recording 15 cm overestimates it by 1 cm.</p>",
+        "Would ten repeats using the same wrong endpoint-only method remove that 1 cm overestimate?",
+        "No. The same method can preserve the same offset. Align zero correctly or subtract the starting reading, then remeasure as appropriate."
+      ],
+      [
+        "Match the conclusion to the method",
+        "Independent seedlings help examine biological variation, but they do not remove a shared confound. The relevant outcome is also important: final height and growth from baseline are different quantities.",
+        "<div class=\"evidence wide-evidence\" tabindex=\"0\" aria-label=\"Data table; scroll horizontally if needed.\"><table><caption>Both reports: six separate seedlings per group, same variety and starting mean height 5 cm, 7 days and 10 mL water per seedling daily. Assume other stated conditions match within each report.</caption><thead><tr><th scope=\"col\">Fictional report</th><th scope=\"col\">Warm group</th><th scope=\"col\">Cool group</th><th scope=\"col\">Key comparison limit</th></tr></thead><tbody><tr><td>A</td><td>Bright light; mean final height 14 cm</td><td>Dim light; mean final height 9 cm</td><td>Both temperature and light differ</td></tr><tr><td>B</td><td>Matched light; mean final height 11 cm</td><td>Matched light; mean final height 10 cm</td><td>Light held alike; small study remains limited</td></tr></tbody></table></div>",
+        "How much did Report A’s warm group grow on average, and can temperature alone explain it?",
+        "Its mean height rose from 5 to 14 cm, a growth of 9 cm. Temperature alone cannot be isolated because light also differs between groups."
+      ],
+      [
+        "Use disagreement to ask a better question",
+        "Different findings can arise from methods, contexts, sampling or an incomplete model. Compare evidence quality before choosing a favourite. Identify a follow-up that could discriminate between explanations.",
+        "<p class=\"note\"><strong>A discriminating follow-up</strong> Compare warm and cool groups under the same measured light conditions, with comparable starting seedlings, consistent water, repeated independent samples and a defined measurement method.</p>",
+        "Why is “add more seedlings but keep warm/bright and cool/dim” an incomplete repair?",
+        "A larger sample can improve information about variability, but temperature and light still change together. The confound remains."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“A supported hypothesis is finally proven.”",
+        "The evidence supports a conclusion within its method, range and uncertainty; further questions and alternatives may remain."
+      ],
+      [
+        "“Conflicting results mean both studies are useless.”",
+        "First compare what was actually measured and how. Differences can expose a limitation and guide a stronger test."
+      ]
+    ],
+    "activityTitle": "Repair a conclusion and its method",
+    "activity": "Rewrite “warming always makes seedlings 5 cm taller” using the two fictional reports. Identify one confound, its possible effect and a specific improvement. Add a follow-up question that could distinguish temperature from light.",
+    "adjust": "Support: use “problem → possible effect → improvement”. Extend: explain the separate value of more independent samples, better controls and a checked measuring instrument.",
+    "safety": "This is a paper evaluation. Any plant study needs adult-approved conditions and care; do not harm living things to create an extreme result.",
+    "tricky": [
+      [
+        "Do six seedlings in each group automatically control the light conditions?",
+        "No. Sample size and controlling a confounding variable solve different problems."
+      ],
+      [
+        "Why can repeated readings be close together yet inaccurate?",
+        "A shared offset or unsuitable setup can shift every reading similarly. Small spread does not by itself establish closeness to a reference value."
+      ],
+      [
+        "Does Report B’s 1 cm difference establish that Report A’s 5 cm difference was an arithmetic error?",
+        "No. Their light conditions differ and other contextual variation can matter. Check records and methods before assigning a cause to the disagreement."
+      ]
+    ],
+    "faq": [
+      [
+        "Is random variation the same as a data-entry blunder?",
+        "No. Check an apparent transcription error against the raw record; do not automatically classify every mistake as natural random variation."
+      ],
+      [
+        "Must every unanswered question invalidate current results?",
+        "No. A bounded result can be useful while leaving other causes, conditions or applications unresolved."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S7I07",
+    "art": "07",
+    "short": "Evidence-based arguments",
+    "title": "Build a claim that the evidence can carry",
+    "intro": "Construct an argument with relevant evidence and reasoning, consider limits and use secondary information ethically.",
+    "exampleTitle": "Two cover layers lost less water in these trials",
+    "example": "A bounded claim is that the two-layer group had lower water loss than the one-layer group under the supplied conditions. The mean losses were 9 g and 12 g over 24 h, a 3 g difference. Water leaving as vapour reduces the recorded mass, under the stated assumptions. Covering may affect energy input or air movement, but this design does not isolate those mechanisms. These records do not establish that every crop or container will save the same amount of water.",
+    "evidence": "<div class=\"evidence wide-evidence\" tabindex=\"0\" aria-label=\"Data table; scroll horizontally if needed.\"><table><caption>Hypothetical water-loss records over 24 h: three separate cups per group, matched containers, starting water, location and interval. Assume the recorded mass loss is water leaving as vapour, with no spill, leak or changing cover mass.</caption><thead><tr><th scope=\"col\">Cover group</th><th scope=\"col\">Cup 1 loss (g)</th><th scope=\"col\">Cup 2 loss (g)</th><th scope=\"col\">Cup 3 loss (g)</th><th scope=\"col\">Mean loss (g)</th></tr></thead><tbody><tr><td>None</td><td>18</td><td>19</td><td>17</td><td>18</td></tr><tr><td>One layer</td><td>12</td><td>13</td><td>11</td><td>12</td></tr><tr><td>Two layers</td><td>9</td><td>10</td><td>8</td><td>9</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Connect claim, evidence and reasoning",
+        "The claim answers the question. Evidence gives relevant, accurately reported observations. Reasoning explains how the evidence bears on the claim using an appropriate science idea. A list of numbers without the connection is incomplete.",
+        "<div class=\"evidence wide-evidence\" tabindex=\"0\" aria-label=\"Data table; scroll horizontally if needed.\"><table><caption>Hypothetical water-loss records over 24 h: three separate cups per group, matched containers, starting water, location and interval. Assume the recorded mass loss is water leaving as vapour, with no spill, leak or changing cover mass.</caption><thead><tr><th scope=\"col\">Cover group</th><th scope=\"col\">Cup 1 loss (g)</th><th scope=\"col\">Cup 2 loss (g)</th><th scope=\"col\">Cup 3 loss (g)</th><th scope=\"col\">Mean loss (g)</th></tr></thead><tbody><tr><td>None</td><td>18</td><td>19</td><td>17</td><td>18</td></tr><tr><td>One layer</td><td>12</td><td>13</td><td>11</td><td>12</td></tr><tr><td>Two layers</td><td>9</td><td>10</td><td>8</td><td>9</td></tr></tbody></table></div>",
+        "Give a claim and one numerical comparison for two layers versus no cover.",
+        "In the supplied conditions, two-layer cups lost less water on average: 9 g versus 18 g over 24 h. The comparison concerns these groups, not every possible container."
+      ],
+      [
+        "Consider limits and counterevidence",
+        "Ask whether the method and sample support the claim’s scope. Relevant contrary evidence needs examination. Repeating the same study in two news articles is not independent confirmation.",
+        "<p class=\"note\"><strong>Compare claims</strong> “Lower mean water loss in these cups over 24 h” fits the records. “Two layers always double plant growth” introduces an unmeasured outcome and a universal claim.</p>",
+        "Why does the plant-growth claim fail even though the table has several readings?",
+        "Plant growth was not measured. More water-loss numbers cannot supply missing growth evidence or justify a claim about all plants."
+      ],
+      [
+        "Check source meaning and permitted use",
+        "For secondary information, identify creator, title/date, original evidence, source and relevant limits. A citation does not automatically make a claim valid or grant permission to reproduce culturally governed knowledge.",
+        "<p class=\"note\"><strong>Knowledge-governance case</strong> A public project description names a particular First Nations community and knowledge holders, with specific conditions for using its material. A proposed public adaptation has not been authorised.</p>",
+        "Does adding the source name permit the adaptation?",
+        "No. Check the relevant knowledge holders’ authority and actual conditions for that intended use. Respect restrictions, avoid sensitive disclosure and seek appropriate permission or choose a permitted alternative."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“A citation makes any claim scientific.”",
+        "Check what the source actually establishes, the evidence quality and whether the claim preserves its scope."
+      ],
+      [
+        "“More sources always mean more independent evidence.”",
+        "Several sources may repeat the same underlying study or weak claim. Trace the evidence rather than just counting links."
+      ]
+    ],
+    "activityTitle": "Write and qualify an argument",
+    "activity": "Use the supplied cup data to argue whether two layers reduced water loss compared with one. Include the mean comparison, a scientific connection, one limitation and a condition you would check before applying the result elsewhere. Then identify one source-use or cultural-permission check for a secondary source.",
+    "adjust": "Support: use “My claim… The evidence… This matters because… A limit is…”. Extend: write a counterargument to a universal crop-growth claim without dismissing the useful cup result.",
+    "safety": "Use the supplied data. Do not taste liquids, heat sealed containers or reproduce cultural knowledge or artwork on the assumption that a public source grants unrestricted use.",
+    "tricky": [
+      [
+        "Is lower water loss in these cups evidence that plants in them would grow faster?",
+        "Not by itself. Plant growth, species needs and other conditions would need investigation. Keep the claim tied to the measured water-loss outcome."
+      ],
+      [
+        "Could a reputable secondary review be useful evidence?",
+        "Yes. Judge its methods, relevance, original evidence and limitations. Being primary or secondary alone does not settle quality for every question."
+      ],
+      [
+        "Should you hide an inconvenient independent result to make your argument stronger?",
+        "No. Explain the relevant counterevidence and compare methods or scope. A qualified, honest judgement is stronger than selective reporting."
+      ]
+    ],
+    "faq": [
+      [
+        "Does evidence-based argument mean everyone must choose the same policy?",
+        "No. People may weigh justified criteria differently, but the scientific evidence and its limits must be represented accurately."
+      ],
+      [
+        "Is public access the same as permission to share cultural material?",
+        "No. Access, attribution, adaptation and publication conditions can differ. Follow the relevant knowledge holders and the intended-use conditions."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S7I08",
+    "art": "08",
+    "short": "Communicate science",
+    "title": "Keep the evidence while changing the audience",
+    "intro": "Write and create accurate science texts for specific readers and purposes, selecting useful language, features and digital tools.",
+    "exampleTitle": "One investigation, two useful explanations",
+    "example": "A family reader may need “fall time” explained as the time taken to reach the ground. A peer report needs the measured comparison, method context and limits in a more structured form. Both versions must preserve the 0.5 s mean difference and the fact that only two configurations were compared. Changing the audience is not permission to change the evidence.",
+    "evidence": "<div class=\"evidence wide-evidence\" tabindex=\"0\" aria-label=\"Data table; scroll horizontally if needed.\"><table><caption>Fictional classroom records: same 1.5 m release height, matched mass and release conditions; three reset drops of each configuration, not three independently made rotor specimens.</caption><thead><tr><th scope=\"col\">Rotor length (cm)</th><th scope=\"col\">Drop 1 (s)</th><th scope=\"col\">Drop 2 (s)</th><th scope=\"col\">Drop 3 (s)</th><th scope=\"col\">Mean fall time (s)</th></tr></thead><tbody><tr><td>12</td><td>1.1</td><td>1.2</td><td>1.3</td><td>1.2</td></tr><tr><td>20</td><td>1.6</td><td>1.7</td><td>1.8</td><td>1.7</td></tr></tbody></table></div><section class=\"report-model\"><h3>Model for a family reader</h3><p>In our supplied paper-spinner records, the longer rotor took more time to reach the ground. The 20 cm rotor averaged 1.7 seconds, compared with 1.2 seconds for the 12 cm rotor. Only two sizes and these conditions were compared.</p></section><section class=\"report-model\"><h3>Model for a peer investigation report</h3><p>Mean fall time was 1.7 s for the 20 cm rotor and 1.2 s for the 12 cm rotor, a difference of 0.5 s. Each configuration had three reset drops from 1.5 m under matched mass and release conditions. The records support this comparison; they do not establish a rule for every rotor length or independently made spinner.</p></section>",
+    "steps": [
+      [
+        "Plan purpose before choosing words",
+        "Decide who will read the text, what they already know and what they need to understand or do. Select the core claim and evidence before choosing a format. A report, explanation and persuasive letter serve different purposes.",
+        "<p class=\"note\"><strong>Reader needs</strong> A younger reader may need “fall time” defined. Classmates comparing methods need rotor sizes, units, release height, repeat structure and a limitation.</p>",
+        "Write one accurate sentence for a younger reader using 12 cm/1.2 s and 20 cm/1.7 s.",
+        "For example: “In these records, the 20 cm paper rotor took 1.7 seconds to reach the ground on average, longer than the 1.2 seconds for the 12 cm rotor.” Explain that these are the tested sizes."
+      ],
+      [
+        "Make features explain the science",
+        "A table preserves exact records; a labelled graph highlights a comparison; a caption states what the reader should notice. A diagram or animation should explain a relationship or process, rather than only decorate it.",
+        "<div class=\"evidence wide-evidence\" tabindex=\"0\" aria-label=\"Data table; scroll horizontally if needed.\"><table><caption>Fictional classroom records: same 1.5 m release height, matched mass and release conditions; three reset drops of each configuration, not three independently made rotor specimens.</caption><thead><tr><th scope=\"col\">Rotor length (cm)</th><th scope=\"col\">Drop 1 (s)</th><th scope=\"col\">Drop 2 (s)</th><th scope=\"col\">Drop 3 (s)</th><th scope=\"col\">Mean fall time (s)</th></tr></thead><tbody><tr><td>12</td><td>1.1</td><td>1.2</td><td>1.3</td><td>1.2</td></tr><tr><td>20</td><td>1.6</td><td>1.7</td><td>1.8</td><td>1.7</td></tr></tbody></table></div>",
+        "Write a useful caption for a graph of the two mean fall times.",
+        "For example: “Mean fall time for two rotor lengths under the supplied conditions: 1.2 s at 12 cm and 1.7 s at 20 cm, based on three reset drops per configuration.”"
+      ],
+      [
+        "Create, check and revise",
+        "Write a first version, check it against the source data and ask for specific feedback about meaning, audience and evidence. Use digital tools where they help; verify charts, units, captions, source information and accessibility.",
+        "<p class=\"note\"><strong>Revision checklist</strong> Accurate claim and values; relevant units; defined unfamiliar terms; useful structure and caption; visible limitations; appropriate source/use conditions; readable layout and alternative text for meaningful images.</p>",
+        "Repair “Long wings always make every spinner fall exactly half as fast.”",
+        "A suitable revision is: “In the supplied records, the 20 cm rotor had a longer mean fall time than the 12 cm rotor: 1.7 s versus 1.2 s. Other sizes and spinners were not tested.” The original also confuses fall time with an unsupported exact speed claim."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Simpler language means dropping important limits.”",
+        "Use clear words while preserving qualifications that change the scientific meaning."
+      ],
+      [
+        "“A polished digital chart must be correct.”",
+        "Check the input values, axes, units and message. Software presentation does not validate the evidence."
+      ]
+    ],
+    "activityTitle": "Create two versions and revise one",
+    "activity": "Using the spinner table, write a short explanation for a family reader and a results paragraph for classmates. Add a graph caption or a simple storyboard panel that explains the comparison. Ask a partner to identify one unclear term or unsupported claim, then revise that exact part.",
+    "adjust": "Support: use the same values in both versions and define fall time. Extend: justify a useful digital format and write alternative text that preserves the graph’s main comparison and limitation.",
+    "safety": "Use paper or an appropriate tool with supplied data. Do not climb to perform drops. Do not include personal information, unauthorised photographs or restricted cultural material in a public text.",
+    "tricky": [
+      [
+        "Do these records prove a 30 cm rotor would have an even longer fall time?",
+        "No. Only 12 cm and 20 cm configurations were supplied; a new size needs evidence. State a tentative prediction as such rather than reporting it as a finding."
+      ],
+      [
+        "Why can “fell slower” be less precise than a measured fall-time statement here?",
+        "The records directly give elapsed times for a set height. Reporting those times with units and conditions is clearer than implying a detailed speed measurement throughout the fall."
+      ],
+      [
+        "Write an informative comparison that includes the difference and a limitation.",
+        "For example: “The 20 cm rotor’s mean fall time was 0.5 s longer than the 12 cm rotor’s in these three reset drops per configuration; this does not establish a result for all spinner designs.”"
+      ]
+    ],
+    "faq": [
+      [
+        "Must every science text be a full laboratory report?",
+        "No. Use a genre suited to the purpose and audience while keeping the scientific meaning accurate."
+      ],
+      [
+        "Does alternative text need to name every decorative detail?",
+        "No. Describe the important information or relationship the image contributes. For a data chart, include its main comparison and relevant limits."
+      ]
+    ]
+  }
+]

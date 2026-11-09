@@ -1,0 +1,15 @@
+/* Scoped additions for the eight inquiry guides; published U/H guides are unchanged. */
+#skillr-topic-variants .report-model{padding:12px 16px;margin:12px 0;background:#f7faf4;border:1px solid #d6e2df;border-radius:8px}
+#skillr-topic-variants .report-model h3{margin-top:0}
+#skillr-topic-variants .steps:has(th:nth-child(4)){grid-template-columns:1fr}
+#skillr-topic-variants .wide-evidence{min-width:0;max-width:100%;overflow-x:auto}
+#skillr-topic-variants .wide-evidence:focus-visible{outline:3px solid #da9c20;outline-offset:3px}
+#skillr-topic-variants .retained-teaching .diagram{max-width:100%;min-width:0}
+#skillr-topic-variants .retained-teaching .concept-figure svg{display:block}
+@media(max-width:600px){
+ #skillr-topic-variants .wide-evidence table{min-width:520px}
+ #skillr-topic-variants .wide-evidence::after{content:"Swipe sideways to see all columns.";display:block;position:sticky;left:0;font-size:14px;line-height:1.5;color:#425c78;padding:8px 0}
+ #skillr-topic-variants .retained-teaching .retained-model{max-width:100%;min-width:0;overflow-x:auto}
+ #skillr-topic-variants .retained-teaching .retained-model svg{width:800px;min-width:800px;max-width:none}
+}
+#skillr-topic-variants .retained-teaching svg text{font-family:Arial,sans-serif}

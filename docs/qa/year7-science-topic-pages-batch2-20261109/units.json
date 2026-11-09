@@ -1,0 +1,858 @@
+[
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 7",
+    "levelLabel": "Year 7",
+    "yearNumber": 7,
+    "yearFolder": "year7",
+    "quizYearSegment": "year-7",
+    "code": "AC9S7I01",
+    "title": "Develop investigable questions, reasoned predictions and hypotheses to explore scientific...",
+    "unitSlug": "ac9s7i01-develop-investigable-questions-reasoned-predictions-and",
+    "sourceOrder": 612,
+    "strand": "Science inquiry",
+    "subStrand": "Questioning and predicting",
+    "description": "develop investigable questions, reasoned predictions and hypotheses to explore scientific models, identify patterns and test relationships",
+    "levelDescription": "In Year 7 students explore the diversity of life on Earth and continue to develop their understanding of the role of classification in ordering and organising information. They use and develop models to represent and analyse the flow of energy and matter through ecosystems and explore the impact of changing components within these systems. They investigate relationships in the Earth-sun-moon system and use models to predict and explain events. They extend their understanding of the particulate nature of matter and explore how interactions of matter and energy at the sub-microscopic scale determine macroscopic properties. They consider the effects of multiple forces when explaining changes in an object’s motion. Students make accurate measurements and analyse relationships between system components. They construct and use models to test hypotheses about phenomena at scales that are difficult to study directly and use these observations and other evidence to draw conclusions. They begin to understand the relationship between science and society and appreciate the need for ethical and cultural considerations when acquiring data. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Mosquitoes are so annoying! What would the impact be if we got rid of them? What would Australian ecosystems look like without fire? How do simple machines make our lives easier? Why is being able to separate mixtures important? How have systems of classification changed over time? How do they differ across cultures?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S7I01_E1",
+        "number": "E1",
+        "text": "discussing the features of investigable and non-investigable questions, including consideration of school and web-based resources available, and examining their own and others’ questions",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I01_E2",
+        "number": "E2",
+        "text": "consulting with First Nations Australians to clarify questions based on their traditional ecological knowledges, such as predictions regarding the impact of invasive species",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S7I01_E3",
+        "number": "E3",
+        "text": "developing investigable questions to explore scientific models, such as: ‘How does particle theory explain the properties of substances?’",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I01_E4",
+        "number": "E4",
+        "text": "developing investigable questions to test relationships, such as: ‘How does the volume of a balloon change as it is heated and cooled? What happens to the height of the tide at different points of the lunar cycle?’",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I01_E5",
+        "number": "E5",
+        "text": "discussing the relationship between a reasoned prediction and a hypothesis, identifying essential elements of a hypothesis and using a provided scaffold to develop hypotheses",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I01_E6",
+        "number": "E6",
+        "text": "formulating hypotheses such as: ‘If the surface area of the parachute is decreased, the parachute will descend more quickly because there will be less air resistance’",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year7/science/ac9s7i01-develop-investigable-questions-reasoned-predictions-and/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-7/science/ac9s7i01/worksheet/",
+    "teacherSlideUrl": "/worksheets/year7/science/teacher-slides/ac9s7i01-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S7I01",
+        "label": "Content description",
+        "text": "develop investigable questions, reasoned predictions and hypotheses to explore scientific models, identify patterns and test relationships",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I01_E1",
+        "number": "E1",
+        "text": "discussing the features of investigable and non-investigable questions, including consideration of school and web-based resources available, and examining their own and others’ questions",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I01_E2",
+        "number": "E2",
+        "text": "consulting with First Nations Australians to clarify questions based on their traditional ecological knowledges, such as predictions regarding the impact of invasive species",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S7I01_E3",
+        "number": "E3",
+        "text": "developing investigable questions to explore scientific models, such as: ‘How does particle theory explain the properties of substances?’",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I01_E4",
+        "number": "E4",
+        "text": "developing investigable questions to test relationships, such as: ‘How does the volume of a balloon change as it is heated and cooled? What happens to the height of the tide at different points of the lunar cycle?’",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I01_E5",
+        "number": "E5",
+        "text": "discussing the relationship between a reasoned prediction and a hypothesis, identifying essential elements of a hypothesis and using a provided scaffold to develop hypotheses",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I01_E6",
+        "number": "E6",
+        "text": "formulating hypotheses such as: ‘If the surface area of the parachute is decreased, the parachute will descend more quickly because there will be less air resistance’",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 7",
+    "levelLabel": "Year 7",
+    "yearNumber": 7,
+    "yearFolder": "year7",
+    "quizYearSegment": "year-7",
+    "code": "AC9S7I02",
+    "title": "Plan and conduct reproducible investigations to answer questions and test...",
+    "unitSlug": "ac9s7i02-plan-and-conduct-reproducible-investigations-to-answer",
+    "sourceOrder": 613,
+    "strand": "Science inquiry",
+    "subStrand": "Planning and conducting",
+    "description": "plan and conduct reproducible investigations to answer questions and test hypotheses, including identifying variables and assumptions and, as appropriate, recognising and managing risks, considering ethical issues and recognising key considerations regarding heritage sites and artefacts on Country/Place",
+    "levelDescription": "In Year 7 students explore the diversity of life on Earth and continue to develop their understanding of the role of classification in ordering and organising information. They use and develop models to represent and analyse the flow of energy and matter through ecosystems and explore the impact of changing components within these systems. They investigate relationships in the Earth-sun-moon system and use models to predict and explain events. They extend their understanding of the particulate nature of matter and explore how interactions of matter and energy at the sub-microscopic scale determine macroscopic properties. They consider the effects of multiple forces when explaining changes in an object’s motion. Students make accurate measurements and analyse relationships between system components. They construct and use models to test hypotheses about phenomena at scales that are difficult to study directly and use these observations and other evidence to draw conclusions. They begin to understand the relationship between science and society and appreciate the need for ethical and cultural considerations when acquiring data. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Mosquitoes are so annoying! What would the impact be if we got rid of them? What would Australian ecosystems look like without fire? How do simple machines make our lives easier? Why is being able to separate mixtures important? How have systems of classification changed over time? How do they differ across cultures?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S7I02_E1",
+        "number": "E1",
+        "text": "comparing the method with the hypothesis and examining the reasonableness of the method for testing that hypothesis",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I02_E2",
+        "number": "E2",
+        "text": "discussing why it is important to identify variables and assumptions when planning an investigation",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I02_E3",
+        "number": "E3",
+        "text": "examining the features of reproducible investigations, constructing methods and reviewing other students’ methods",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I02_E4",
+        "number": "E4",
+        "text": "identifying assumptions relating to variables that are assumed to be constant, such as ambient temperature, properties of materials used or purity of substances",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I02_E5",
+        "number": "E5",
+        "text": "identifying risks to themselves and others in investigations and considering actions that can be taken to avoid or manage those risks",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I02_E6",
+        "number": "E6",
+        "text": "considering ethical issues relating to interactions with living things",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I02_E7",
+        "number": "E7",
+        "text": "recognising state and territory laws as they relate to First Nations Australians’ heritage sites and artefacts",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S7I02_E8",
+        "number": "E8",
+        "text": "collaborating with First Nations Australians communities and organisations to conduct investigations about ecosystems, ensuring mutually beneficial outcomes",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S7I02_E9",
+        "number": "E9",
+        "text": "acknowledging and recognising First Nations Australians’ artefacts and heritage sites, such as human stonework and scatter sites in comparison with rocks changed by natural processes, and understanding not to harm or disturb sites",
+        "questionEligible": false
+      }
+    ],
+    "url": "/year7/science/ac9s7i02-plan-and-conduct-reproducible-investigations-to-answer/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-7/science/ac9s7i02/worksheet/",
+    "teacherSlideUrl": "/worksheets/year7/science/teacher-slides/ac9s7i02-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S7I02",
+        "label": "Content description",
+        "text": "plan and conduct reproducible investigations to answer questions and test hypotheses, including identifying variables and assumptions and, as appropriate, recognising and managing risks, considering ethical issues and recognising key considerations regarding heritage sites and artefacts on Country/Place",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I02_E1",
+        "number": "E1",
+        "text": "comparing the method with the hypothesis and examining the reasonableness of the method for testing that hypothesis",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I02_E2",
+        "number": "E2",
+        "text": "discussing why it is important to identify variables and assumptions when planning an investigation",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I02_E3",
+        "number": "E3",
+        "text": "examining the features of reproducible investigations, constructing methods and reviewing other students’ methods",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I02_E4",
+        "number": "E4",
+        "text": "identifying assumptions relating to variables that are assumed to be constant, such as ambient temperature, properties of materials used or purity of substances",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I02_E5",
+        "number": "E5",
+        "text": "identifying risks to themselves and others in investigations and considering actions that can be taken to avoid or manage those risks",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I02_E6",
+        "number": "E6",
+        "text": "considering ethical issues relating to interactions with living things",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I02_E7",
+        "number": "E7",
+        "text": "recognising state and territory laws as they relate to First Nations Australians’ heritage sites and artefacts",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S7I02_E8",
+        "number": "E8",
+        "text": "collaborating with First Nations Australians communities and organisations to conduct investigations about ecosystems, ensuring mutually beneficial outcomes",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S7I02_E9",
+        "number": "E9",
+        "text": "acknowledging and recognising First Nations Australians’ artefacts and heritage sites, such as human stonework and scatter sites in comparison with rocks changed by natural processes, and understanding not to harm or disturb sites",
+        "questionEligible": false
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 7",
+    "levelLabel": "Year 7",
+    "yearNumber": 7,
+    "yearFolder": "year7",
+    "quizYearSegment": "year-7",
+    "code": "AC9S7I03",
+    "title": "Select and use equipment to generate and record data with...",
+    "unitSlug": "ac9s7i03-select-and-use-equipment-to-generate-and-record-data-with",
+    "sourceOrder": 614,
+    "strand": "Science inquiry",
+    "subStrand": "Planning and conducting",
+    "description": "select and use equipment to generate and record data with precision, using digital tools as appropriate",
+    "levelDescription": "In Year 7 students explore the diversity of life on Earth and continue to develop their understanding of the role of classification in ordering and organising information. They use and develop models to represent and analyse the flow of energy and matter through ecosystems and explore the impact of changing components within these systems. They investigate relationships in the Earth-sun-moon system and use models to predict and explain events. They extend their understanding of the particulate nature of matter and explore how interactions of matter and energy at the sub-microscopic scale determine macroscopic properties. They consider the effects of multiple forces when explaining changes in an object’s motion. Students make accurate measurements and analyse relationships between system components. They construct and use models to test hypotheses about phenomena at scales that are difficult to study directly and use these observations and other evidence to draw conclusions. They begin to understand the relationship between science and society and appreciate the need for ethical and cultural considerations when acquiring data. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Mosquitoes are so annoying! What would the impact be if we got rid of them? What would Australian ecosystems look like without fire? How do simple machines make our lives easier? Why is being able to separate mixtures important? How have systems of classification changed over time? How do they differ across cultures?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S7I03_E1",
+        "number": "E1",
+        "text": "selecting and using equipment appropriate to the investigation, such as ensuring a selected thermometer can measure within the range of temperatures expected, or selecting an appropriate-capacity measuring cylinder for the volume of liquid needed",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I03_E2",
+        "number": "E2",
+        "text": "examining how the use of digital tools such as stopwatches and digital scales can enable the generation of more precise data",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I03_E3",
+        "number": "E3",
+        "text": "constructing tables, spreadsheets and graphic organisers to collect data and information",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I03_E4",
+        "number": "E4",
+        "text": "using appropriate standard units and performing simple unit conversions when recording data",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I03_E5",
+        "number": "E5",
+        "text": "using digital tools such as sensors to measure abiotic factors and apps that use image or call recognition to make field identifications",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year7/science/ac9s7i03-select-and-use-equipment-to-generate-and-record-data-with/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-7/science/ac9s7i03/worksheet/",
+    "teacherSlideUrl": "/worksheets/year7/science/teacher-slides/ac9s7i03-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S7I03",
+        "label": "Content description",
+        "text": "select and use equipment to generate and record data with precision, using digital tools as appropriate",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I03_E1",
+        "number": "E1",
+        "text": "selecting and using equipment appropriate to the investigation, such as ensuring a selected thermometer can measure within the range of temperatures expected, or selecting an appropriate-capacity measuring cylinder for the volume of liquid needed",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I03_E2",
+        "number": "E2",
+        "text": "examining how the use of digital tools such as stopwatches and digital scales can enable the generation of more precise data",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I03_E3",
+        "number": "E3",
+        "text": "constructing tables, spreadsheets and graphic organisers to collect data and information",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I03_E4",
+        "number": "E4",
+        "text": "using appropriate standard units and performing simple unit conversions when recording data",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I03_E5",
+        "number": "E5",
+        "text": "using digital tools such as sensors to measure abiotic factors and apps that use image or call recognition to make field identifications",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 7",
+    "levelLabel": "Year 7",
+    "yearNumber": 7,
+    "yearFolder": "year7",
+    "quizYearSegment": "year-7",
+    "code": "AC9S7I04",
+    "title": "Select and construct appropriate representations, including tables, graphs, models and...",
+    "unitSlug": "ac9s7i04-select-and-construct-appropriate-representations-including",
+    "sourceOrder": 615,
+    "strand": "Science inquiry",
+    "subStrand": "Processing, modelling and analysing",
+    "description": "select and construct appropriate representations, including tables, graphs, models and mathematical relationships, to organise and process data and information",
+    "levelDescription": "In Year 7 students explore the diversity of life on Earth and continue to develop their understanding of the role of classification in ordering and organising information. They use and develop models to represent and analyse the flow of energy and matter through ecosystems and explore the impact of changing components within these systems. They investigate relationships in the Earth-sun-moon system and use models to predict and explain events. They extend their understanding of the particulate nature of matter and explore how interactions of matter and energy at the sub-microscopic scale determine macroscopic properties. They consider the effects of multiple forces when explaining changes in an object’s motion. Students make accurate measurements and analyse relationships between system components. They construct and use models to test hypotheses about phenomena at scales that are difficult to study directly and use these observations and other evidence to draw conclusions. They begin to understand the relationship between science and society and appreciate the need for ethical and cultural considerations when acquiring data. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Mosquitoes are so annoying! What would the impact be if we got rid of them? What would Australian ecosystems look like without fire? How do simple machines make our lives easier? Why is being able to separate mixtures important? How have systems of classification changed over time? How do they differ across cultures?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S7I04_E1",
+        "number": "E1",
+        "text": "using spreadsheets to aid the presentation and analysis of data",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I04_E2",
+        "number": "E2",
+        "text": "constructing food webs to represent feeding relationships and flows of energy and matter in an ecosystem",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I04_E3",
+        "number": "E3",
+        "text": "constructing representations of dichotomous keys, such as a creating a visual key or an interactive presentation, or coding a simple program",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I04_E4",
+        "number": "E4",
+        "text": "analysing data, including secondary data, to determine mathematical relationships, such as tidal variations over the course of a lunar cycle",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I04_E5",
+        "number": "E5",
+        "text": "distinguishing between discrete and continuous data and selecting appropriate data representations",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I04_E6",
+        "number": "E6",
+        "text": "acknowledging, analysing and interpreting data and information from First Nations Australians’ astronomical observations",
+        "questionEligible": false
+      }
+    ],
+    "url": "/year7/science/ac9s7i04-select-and-construct-appropriate-representations-including/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-7/science/ac9s7i04/worksheet/",
+    "teacherSlideUrl": "/worksheets/year7/science/teacher-slides/ac9s7i04-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S7I04",
+        "label": "Content description",
+        "text": "select and construct appropriate representations, including tables, graphs, models and mathematical relationships, to organise and process data and information",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I04_E1",
+        "number": "E1",
+        "text": "using spreadsheets to aid the presentation and analysis of data",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I04_E2",
+        "number": "E2",
+        "text": "constructing food webs to represent feeding relationships and flows of energy and matter in an ecosystem",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I04_E3",
+        "number": "E3",
+        "text": "constructing representations of dichotomous keys, such as a creating a visual key or an interactive presentation, or coding a simple program",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I04_E4",
+        "number": "E4",
+        "text": "analysing data, including secondary data, to determine mathematical relationships, such as tidal variations over the course of a lunar cycle",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I04_E5",
+        "number": "E5",
+        "text": "distinguishing between discrete and continuous data and selecting appropriate data representations",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I04_E6",
+        "number": "E6",
+        "text": "acknowledging, analysing and interpreting data and information from First Nations Australians’ astronomical observations",
+        "questionEligible": false
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 7",
+    "levelLabel": "Year 7",
+    "yearNumber": 7,
+    "yearFolder": "year7",
+    "quizYearSegment": "year-7",
+    "code": "AC9S7I05",
+    "title": "Analyse data and information to describe patterns, trends and relationships...",
+    "unitSlug": "ac9s7i05-analyse-data-and-information-to-describe-patterns-trends-and",
+    "sourceOrder": 616,
+    "strand": "Science inquiry",
+    "subStrand": "Processing, modelling and analysing",
+    "description": "analyse data and information to describe patterns, trends and relationships and identify anomalies",
+    "levelDescription": "In Year 7 students explore the diversity of life on Earth and continue to develop their understanding of the role of classification in ordering and organising information. They use and develop models to represent and analyse the flow of energy and matter through ecosystems and explore the impact of changing components within these systems. They investigate relationships in the Earth-sun-moon system and use models to predict and explain events. They extend their understanding of the particulate nature of matter and explore how interactions of matter and energy at the sub-microscopic scale determine macroscopic properties. They consider the effects of multiple forces when explaining changes in an object’s motion. Students make accurate measurements and analyse relationships between system components. They construct and use models to test hypotheses about phenomena at scales that are difficult to study directly and use these observations and other evidence to draw conclusions. They begin to understand the relationship between science and society and appreciate the need for ethical and cultural considerations when acquiring data. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Mosquitoes are so annoying! What would the impact be if we got rid of them? What would Australian ecosystems look like without fire? How do simple machines make our lives easier? Why is being able to separate mixtures important? How have systems of classification changed over time? How do they differ across cultures?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S7I05_E1",
+        "number": "E1",
+        "text": "analysing change in predator and prey numbers over time to identify predator-prey cycles",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I05_E2",
+        "number": "E2",
+        "text": "identifying patterns and relationships in data sets such as identifying qualitative relationships between the mass of a planet and its gravity",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I05_E3",
+        "number": "E3",
+        "text": "analysing data to identify patterns in the proportions of a day spent in sunlight and in darkness and relating these patterns to the seasons",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I05_E4",
+        "number": "E4",
+        "text": "identifying anomalies in data and investigating their effect on observed patterns or relationships",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I05_E5",
+        "number": "E5",
+        "text": "collaborating with First Nations Australians communities to create a calendar as a representation of seasonal patterns and relationships using digital tools",
+        "questionEligible": false
+      }
+    ],
+    "url": "/year7/science/ac9s7i05-analyse-data-and-information-to-describe-patterns-trends-and/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-7/science/ac9s7i05/worksheet/",
+    "teacherSlideUrl": "/worksheets/year7/science/teacher-slides/ac9s7i05-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S7I05",
+        "label": "Content description",
+        "text": "analyse data and information to describe patterns, trends and relationships and identify anomalies",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I05_E1",
+        "number": "E1",
+        "text": "analysing change in predator and prey numbers over time to identify predator-prey cycles",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I05_E2",
+        "number": "E2",
+        "text": "identifying patterns and relationships in data sets such as identifying qualitative relationships between the mass of a planet and its gravity",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I05_E3",
+        "number": "E3",
+        "text": "analysing data to identify patterns in the proportions of a day spent in sunlight and in darkness and relating these patterns to the seasons",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I05_E4",
+        "number": "E4",
+        "text": "identifying anomalies in data and investigating their effect on observed patterns or relationships",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I05_E5",
+        "number": "E5",
+        "text": "collaborating with First Nations Australians communities to create a calendar as a representation of seasonal patterns and relationships using digital tools",
+        "questionEligible": false
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 7",
+    "levelLabel": "Year 7",
+    "yearNumber": 7,
+    "yearFolder": "year7",
+    "quizYearSegment": "year-7",
+    "code": "AC9S7I06",
+    "title": "Analyse methods, conclusions and claims for assumptions, possible sources of...",
+    "unitSlug": "ac9s7i06-analyse-methods-conclusions-and-claims-for-assumptions-possible",
+    "sourceOrder": 617,
+    "strand": "Science inquiry",
+    "subStrand": "Evaluating",
+    "description": "analyse methods, conclusions and claims for assumptions, possible sources of error, conflicting evidence and unanswered questions",
+    "levelDescription": "In Year 7 students explore the diversity of life on Earth and continue to develop their understanding of the role of classification in ordering and organising information. They use and develop models to represent and analyse the flow of energy and matter through ecosystems and explore the impact of changing components within these systems. They investigate relationships in the Earth-sun-moon system and use models to predict and explain events. They extend their understanding of the particulate nature of matter and explore how interactions of matter and energy at the sub-microscopic scale determine macroscopic properties. They consider the effects of multiple forces when explaining changes in an object’s motion. Students make accurate measurements and analyse relationships between system components. They construct and use models to test hypotheses about phenomena at scales that are difficult to study directly and use these observations and other evidence to draw conclusions. They begin to understand the relationship between science and society and appreciate the need for ethical and cultural considerations when acquiring data. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Mosquitoes are so annoying! What would the impact be if we got rid of them? What would Australian ecosystems look like without fire? How do simple machines make our lives easier? Why is being able to separate mixtures important? How have systems of classification changed over time? How do they differ across cultures?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S7I06_E1",
+        "number": "E1",
+        "text": "identifying and considering indicators of the quality of the data when analysing results to identify unanswered questions",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I06_E2",
+        "number": "E2",
+        "text": "evaluating the method used in an investigation, identifying assumptions made about variables that should be controlled, suggesting ways it could be improved and giving reasons for the suggested changes",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I06_E3",
+        "number": "E3",
+        "text": "analysing conclusions and claims to identify facts or premises that are taken for granted to be true, and considering their relevance to conclusions",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I06_E4",
+        "number": "E4",
+        "text": "considering the spread of repeated measurements and observations",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I06_E5",
+        "number": "E5",
+        "text": "identifying possible sources of error in the method used and describing how the method could be improved to remove these sources of error",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I06_E6",
+        "number": "E6",
+        "text": "identifying the evidence being cited to support a claim and evaluating conflicting evidence",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year7/science/ac9s7i06-analyse-methods-conclusions-and-claims-for-assumptions-possible/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-7/science/ac9s7i06/worksheet/",
+    "teacherSlideUrl": "/worksheets/year7/science/teacher-slides/ac9s7i06-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S7I06",
+        "label": "Content description",
+        "text": "analyse methods, conclusions and claims for assumptions, possible sources of error, conflicting evidence and unanswered questions",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I06_E1",
+        "number": "E1",
+        "text": "identifying and considering indicators of the quality of the data when analysing results to identify unanswered questions",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I06_E2",
+        "number": "E2",
+        "text": "evaluating the method used in an investigation, identifying assumptions made about variables that should be controlled, suggesting ways it could be improved and giving reasons for the suggested changes",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I06_E3",
+        "number": "E3",
+        "text": "analysing conclusions and claims to identify facts or premises that are taken for granted to be true, and considering their relevance to conclusions",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I06_E4",
+        "number": "E4",
+        "text": "considering the spread of repeated measurements and observations",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I06_E5",
+        "number": "E5",
+        "text": "identifying possible sources of error in the method used and describing how the method could be improved to remove these sources of error",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I06_E6",
+        "number": "E6",
+        "text": "identifying the evidence being cited to support a claim and evaluating conflicting evidence",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 7",
+    "levelLabel": "Year 7",
+    "yearNumber": 7,
+    "yearFolder": "year7",
+    "quizYearSegment": "year-7",
+    "code": "AC9S7I07",
+    "title": "Construct evidence-based arguments to support conclusions or evaluate claims and...",
+    "unitSlug": "ac9s7i07-construct-evidence-based-arguments-to-support-conclusions-or",
+    "sourceOrder": 618,
+    "strand": "Science inquiry",
+    "subStrand": "Evaluating",
+    "description": "construct evidence-based arguments to support conclusions or evaluate claims and consider any ethical issues and cultural protocols associated with using or citing secondary data or information",
+    "levelDescription": "In Year 7 students explore the diversity of life on Earth and continue to develop their understanding of the role of classification in ordering and organising information. They use and develop models to represent and analyse the flow of energy and matter through ecosystems and explore the impact of changing components within these systems. They investigate relationships in the Earth-sun-moon system and use models to predict and explain events. They extend their understanding of the particulate nature of matter and explore how interactions of matter and energy at the sub-microscopic scale determine macroscopic properties. They consider the effects of multiple forces when explaining changes in an object’s motion. Students make accurate measurements and analyse relationships between system components. They construct and use models to test hypotheses about phenomena at scales that are difficult to study directly and use these observations and other evidence to draw conclusions. They begin to understand the relationship between science and society and appreciate the need for ethical and cultural considerations when acquiring data. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Mosquitoes are so annoying! What would the impact be if we got rid of them? What would Australian ecosystems look like without fire? How do simple machines make our lives easier? Why is being able to separate mixtures important? How have systems of classification changed over time? How do they differ across cultures?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S7I07_E1",
+        "number": "E1",
+        "text": "constructing an argument supported by evidence and reasoning to support or reject a hypothesis",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I07_E2",
+        "number": "E2",
+        "text": "drawing a logical conclusion in consideration of the method of data collection, quality of evidence and limitations or significance of a claim",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I07_E3",
+        "number": "E3",
+        "text": "exploring how to determine credibility of a source",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I07_E4",
+        "number": "E4",
+        "text": "investigating the cultural, historical and archaeological evidence used in the scientific debate about the role of early First Nations Australians in the extinction of Australian megafauna",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S7I07_E5",
+        "number": "E5",
+        "text": "researching the development of commercial products that are founded on the traditional knowledges and practices of First Nations Australians and discussing related ethical considerations associated with biopiracy and intellectual property rights",
+        "questionEligible": false
+      }
+    ],
+    "url": "/year7/science/ac9s7i07-construct-evidence-based-arguments-to-support-conclusions-or/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-7/science/ac9s7i07/worksheet/",
+    "teacherSlideUrl": "/worksheets/year7/science/teacher-slides/ac9s7i07-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S7I07",
+        "label": "Content description",
+        "text": "construct evidence-based arguments to support conclusions or evaluate claims and consider any ethical issues and cultural protocols associated with using or citing secondary data or information",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I07_E1",
+        "number": "E1",
+        "text": "constructing an argument supported by evidence and reasoning to support or reject a hypothesis",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I07_E2",
+        "number": "E2",
+        "text": "drawing a logical conclusion in consideration of the method of data collection, quality of evidence and limitations or significance of a claim",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I07_E3",
+        "number": "E3",
+        "text": "exploring how to determine credibility of a source",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I07_E4",
+        "number": "E4",
+        "text": "investigating the cultural, historical and archaeological evidence used in the scientific debate about the role of early First Nations Australians in the extinction of Australian megafauna",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S7I07_E5",
+        "number": "E5",
+        "text": "researching the development of commercial products that are founded on the traditional knowledges and practices of First Nations Australians and discussing related ethical considerations associated with biopiracy and intellectual property rights",
+        "questionEligible": false
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 7",
+    "levelLabel": "Year 7",
+    "yearNumber": 7,
+    "yearFolder": "year7",
+    "quizYearSegment": "year-7",
+    "code": "AC9S7I08",
+    "title": "And create texts to communicate ideas, findings and arguments for...",
+    "unitSlug": "ac9s7i08-and-create-texts-to-communicate-ideas-findings-and-arguments-for",
+    "sourceOrder": 619,
+    "strand": "Science inquiry",
+    "subStrand": "Communicating",
+    "description": "write and create texts to communicate ideas, findings and arguments for specific purposes and audiences, including selection of appropriate language and text features, using digital tools as appropriate",
+    "levelDescription": "In Year 7 students explore the diversity of life on Earth and continue to develop their understanding of the role of classification in ordering and organising information. They use and develop models to represent and analyse the flow of energy and matter through ecosystems and explore the impact of changing components within these systems. They investigate relationships in the Earth-sun-moon system and use models to predict and explain events. They extend their understanding of the particulate nature of matter and explore how interactions of matter and energy at the sub-microscopic scale determine macroscopic properties. They consider the effects of multiple forces when explaining changes in an object’s motion. Students make accurate measurements and analyse relationships between system components. They construct and use models to test hypotheses about phenomena at scales that are difficult to study directly and use these observations and other evidence to draw conclusions. They begin to understand the relationship between science and society and appreciate the need for ethical and cultural considerations when acquiring data. Inquiry questions can help excite students’ curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Mosquitoes are so annoying! What would the impact be if we got rid of them? What would Australian ecosystems look like without fire? How do simple machines make our lives easier? Why is being able to separate mixtures important? How have systems of classification changed over time? How do they differ across cultures?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S7I08_E1",
+        "number": "E1",
+        "text": "examining a range of scientific texts, inferring the purpose of the text and target audience, and identifying specific language and text features that support that inference",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I08_E2",
+        "number": "E2",
+        "text": "reporting on a scientific investigation, incorporating diagrams, graphical representations and data as appropriate, and including examination of the accuracy and reproducibility of the data",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I08_E3",
+        "number": "E3",
+        "text": "developing a prototype for a dichotomous key app to enable community members to classify plants or animals in a local park or reserve",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I08_E4",
+        "number": "E4",
+        "text": "writing a letter to the editor to express a view about an environmental issue affecting local ecosystems",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I08_E5",
+        "number": "E5",
+        "text": "creating an informative text for a younger audience to show how the tilt of Earth’s axis, rotation of Earth on that axis, and the revolution of Earth around the sun cause the seasons",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I08_E6",
+        "number": "E6",
+        "text": "creating an animation that explains particle theory to a peer audience",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year7/science/ac9s7i08-and-create-texts-to-communicate-ideas-findings-and-arguments-for/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-7/science/ac9s7i08/worksheet/",
+    "teacherSlideUrl": "/worksheets/year7/science/teacher-slides/ac9s7i08-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S7I08",
+        "label": "Content description",
+        "text": "write and create texts to communicate ideas, findings and arguments for specific purposes and audiences, including selection of appropriate language and text features, using digital tools as appropriate",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I08_E1",
+        "number": "E1",
+        "text": "examining a range of scientific texts, inferring the purpose of the text and target audience, and identifying specific language and text features that support that inference",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I08_E2",
+        "number": "E2",
+        "text": "reporting on a scientific investigation, incorporating diagrams, graphical representations and data as appropriate, and including examination of the accuracy and reproducibility of the data",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I08_E3",
+        "number": "E3",
+        "text": "developing a prototype for a dichotomous key app to enable community members to classify plants or animals in a local park or reserve",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I08_E4",
+        "number": "E4",
+        "text": "writing a letter to the editor to express a view about an environmental issue affecting local ecosystems",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I08_E5",
+        "number": "E5",
+        "text": "creating an informative text for a younger audience to show how the tilt of Earth’s axis, rotation of Earth on that axis, and the revolution of Earth around the sun cause the seasons",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S7I08_E6",
+        "number": "E6",
+        "text": "creating an animation that explains particle theory to a peer audience",
+        "questionEligible": true
+      }
+    ]
+  }
+]
