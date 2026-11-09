@@ -151,12 +151,46 @@
       "index": 0,
       "literal_html_sha256": "af7f44eaf3a7821c02d19e4d42140954419e630abe71674c1e48625e3b027ec2",
       "kind": "retained native HTML comparison",
-      "render_status": "PENDING hosted browser; no local pixel certification",
+      "render_status": "Observed hosted Chrome at1440/768/390; actualPNG and source/style identities below; review decision recorded separately",
       "expected_browser_files": [
         "AC9S9U02-1440-native-1.png",
         "AC9S9U02-768-native-1.png",
         "AC9S9U02-390-native-1.png"
-      ]
+      ],
+      "browser_render": {
+        "run_id": 42582587353,
+        "artifact_id": 13658146015,
+        "head": "03017a9229dcac583d2d90e145741f86dcc48a59",
+        "zip_sha256": "ac3f3da4608d4b597b0644e156250f4dada655baf5bf39c105ff373965117923",
+        "page_sha256": "089bc1de3f1370c5371c19b2ce5d8307972ffb49bf4bd4f6106315b6024d6298",
+        "stylesheets_sha256": {
+          "style.css": "ae989b9bfe20db6ac741e2df4cc0dbeeffd3d8fcf8d8e1d0e5ffd5dd05821fae",
+          "assets/curriculum.css": "c65198923858734e005d9e6ad76d55156e8f39a3cdc8f08524e62fdda8e2d9f2",
+          "assets/year9-science-topic-v2.css": "ee1f9ea2399073a39985b074b75d3d931766e98066554273ac0d67778d87c2d4",
+          "assets/css/year3-science-topic-pages.css": "9f9a698f33023163f2ae4508b0fd52c82a9ceeec5ed8520daa6d181ed8e86480",
+          "assets/css/science-topic-release.css": "41284b9009408203275beb157601f7b8b870a44b6820da61bd96770c1eab280c",
+          "assets/css/year9-science-topic-pages.css": "11fd820aa10569dbf8235e46e7d7922219518abdb40bcaa69063c8ff8af15d6e",
+          "assets/topic-practice-link.css": "55b40419f335610abc5aa5adc3549af4c4105ea9ada9ea7f151f1d53539d47dc"
+        },
+        "screens": [
+          {
+            "viewport": 1440,
+            "file": "AC9S9U02-1440-native-1.png",
+            "sha256": "60197b91ea538c91f5a620ab684aff608ac3d26fbb6596a4a5e35cd5d243aa93"
+          },
+          {
+            "viewport": 768,
+            "file": "AC9S9U02-768-native-1.png",
+            "sha256": "d95af3d0976785b66701aef39f87f62df0c8dd566ae144b9c06e294d4d7a3c1d"
+          },
+          {
+            "viewport": 390,
+            "file": "AC9S9U02-390-native-1.png",
+            "sha256": "853be72fc0ae2727fafcebe99213511c8c2ed89feaa579cad98922c54ff0eb52"
+          }
+        ],
+        "scope": "Actual retained HTML model rendered in hosted Chrome, JavaScript disabled; source/styles unchanged by the separate U06 sentence clarification."
+      }
     }
   ],
   "policy": "Ten original code-native SVGs, six retained SVGs with four precise repairs, and one retained semantic U02 HTML model. Exact literal/prepared/PNG hashes distinguish source, rendering inputs and observed pixels. No source artwork copied.",

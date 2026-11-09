@@ -29,8 +29,11 @@ visible-SVG text changes. `retained-svg-corrections.json` records four precise
 repairs: directed/noncrossing carbon routes, separated wave title, exact70:30
 energy-band proportions and the O2 connection/direct atom labels. Other retained
 content is preserved. `artwork-and-evidence.json` binds16 literal/prepared/PNG SVG
-identities and one unchanged native HTML comparison model. Its actual browser
-pixels remain a separate observed gate until the hosted artifact is inspected.
+identities and one unchanged native HTML comparison model. Its native HTML browser
+pixels have now been independently inspected at all three viewport widths.
+`independent-teacher-review.md` records all420 authored fields,120 retained
+sections and17models PASS. `new-content-corrections.json` records the one
+reviewer-requested U06 proton-evidence clarification and its targeted recheck.
 
 Local QA: ten pages,120 retained sections,250 native disclosures, all metadata,
 links, aliases, IDs, ARIA and model preservation pass. All19Year9 static pages,
@@ -41,11 +44,16 @@ architecture regression evidence, not content certification of those resources.
 
 Local Chromium was actually attempted and failed before opening a page:
 `Singleton socket() failed: Operation not permitted` and ptrace denial. No local
-browser pass is claimed. Hosted Chrome must cover10pages at1440/768/390 with
-JavaScript disabled, actual native answer toggles, diagram/table scrolling, all
-retained models and10JavaScript smoke loads. Final evidence must name the exact
-reviewed source and run/artifact identities. Native HTML model pixels must be
-independently inspected before final teacher-review closure.
+browser pass is claimed. Initial hosted Chrome run42582587353 on
+03017a9229dcac583d2d90e145741f86dcc48a59 passed30 viewport checks and10 JavaScript
+smoke loads, covering native answer toggles, diagram/table scrolling and all
+retained models. Artifact13658146015 ZIP SHA-256
+ac3f3da4608d4b597b0644e156250f4dada655baf5bf39c105ff373965117923
+contains81 PNGs. The author inspected all top/lesson/retained contact sheets
+at1440/768/390 and all three native HTML PNGs; no material layout finding.
+This initial run predates the U06 prose correction. Its unchanged U02 page/CSS
+identities support the separate native-model review. Final-head whole-batch
+browser and CI evidence will be recorded in PR975 after the correction push.
 
 Complete-tree publication preserves the latest main tree, every existing path,
 core files and CNAME. No structural/semantic validation gate is waived.

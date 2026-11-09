@@ -1,0 +1,10 @@
+[
+  {
+    "code": "AC9S9U06",
+    "field": "example",
+    "before": "Later proton evidence and Chadwick’s evidence for a neutral particle of about proton mass refined the nuclear model.",
+    "after": "Later hydrogen-nucleus evidence identified the proton as a positive nuclear constituent, allowing the nucleus’s positive charge to be attributed to protons. Chadwick’s evidence for a neutral particle of about proton mass then refined the nuclear model further.",
+    "reason": "Independently identified descriptor-completeness gap: explain what proton identification added, distinct from gold-foil nuclear evidence.",
+    "source": "OS-ATOMIC-EVIDENCE in pinned Year9 atomic ledger"
+  }
+]
