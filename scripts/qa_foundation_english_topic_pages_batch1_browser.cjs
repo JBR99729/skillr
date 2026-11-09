@@ -67,6 +67,14 @@ fs.mkdirSync(out, {recursive:true});
           }
         }
         await retained.evaluate(e=>{e.open=false;e.querySelectorAll('details').forEach(d=>d.open=false)});
+        // Capture the actual literary illustration in its page layout at every width.
+        let bookIndex=0;
+        for(const book of await page.locator('.reading-packet figure:has(img)').all()){
+          const image=book.locator('img');await image.evaluate(e=>e.loading='eager');
+          await image.evaluate(e=>e.complete && e.naturalWidth ? Promise.resolve() : new Promise((resolve,reject)=>{e.addEventListener('load',resolve,{once:true});e.addEventListener('error',()=>reject(new Error('Book illustration failed: '+e.src)),{once:true})}));
+          await book.evaluate(e=>e.scrollIntoView({block:'center',behavior:'instant'}));
+          await book.screenshot({path:path.join(out,`${item.code}-${width}-book-${++bookIndex}.png`)});
+        }
         await page.locator('h1').evaluate(e=>e.scrollIntoView({block:'center',behavior:'instant'}));
         const check = await page.evaluate(() => ({
           overflow:document.documentElement.scrollWidth > innerWidth + 1,
