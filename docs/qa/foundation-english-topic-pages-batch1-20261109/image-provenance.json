@@ -1,0 +1,15 @@
+{
+  "path": "assets/images/foundation-english/peter-rabbit-family-1902.jpg",
+  "sha256": "690baa2d2e36d33d51814143ef47c7d281875a46238f05829f71f459ac45a901",
+  "git_blob_sha": "aca7cf1672e1f15669bda26c0f5164caf1b5e53f",
+  "bytes": 50878,
+  "dimensions": [
+    487,
+    575
+  ],
+  "source": "https://www.gutenberg.org/files/14838/14838-h/images/peter08.jpg",
+  "work": "The Tale of Peter Rabbit,1902",
+  "creator": "Beatrix Potter",
+  "modification": "Unmodified source JPEG. Actual opening family image viewed.",
+  "credit": "Visible caption retains creator/year/source; no Skillr-original label."
+}

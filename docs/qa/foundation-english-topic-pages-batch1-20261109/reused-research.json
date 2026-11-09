@@ -1,0 +1,353 @@
+{
+  "repository": "JBR99729/research-",
+  "commit": "5adc96ecb95e238d61401b564ac47f507d544354",
+  "complete_root_tree": "7fc63dc95052a1f9a06f0d168e8e88e96dd503eb",
+  "archives": [
+    {
+      "path": "qa/all-codes/english-f3/foundation/AC9EFLA01.json",
+      "git_blob_sha": "452dd8323c2df1e80a87c7dd43fb672eadd57eea",
+      "sha256": "0d1b05c0a401019d23d01fc25a075449e5474235618aa8a9a855a3c6a731b93e",
+      "bytes": 7315
+    },
+    {
+      "path": "qa/all-codes/english-f3/foundation/AC9EFLA03.json",
+      "git_blob_sha": "54b39509dadbbe4af0cea5af858d78489312dac7",
+      "sha256": "1563b60e3bfd4636a22a5947b1c9510d472ec8c7eb799033c1282cb30eb711a7",
+      "bytes": 6320
+    },
+    {
+      "path": "qa/all-codes/english-f3/foundation/AC9EFLA04.json",
+      "git_blob_sha": "47786ff3311277aa6b711d236f954e568dc150d9",
+      "sha256": "b3ad6fa58736ca4d075dc264665b8b6c5f0ad16cef2e2630e8af08c923a98c91",
+      "bytes": 5300
+    },
+    {
+      "path": "qa/all-codes/english-f3/foundation/AC9EFLA02.json",
+      "git_blob_sha": "899519e7b40331e654504f97827fa07a83c2c2f4",
+      "sha256": "bb896f7989c38278a61ea30954c7fdabb347a2c186565eb192762c03755fce31",
+      "bytes": 11886
+    },
+    {
+      "path": "qa/all-codes/english-f3/foundation/AC9EFLA05.json",
+      "git_blob_sha": "a3069fa1691f310d436f420b7b02961581045fc5",
+      "sha256": "09334a3018dd2faad7324eb5bb5a81338822170353a28900098c470faee3eb14",
+      "bytes": 4621
+    },
+    {
+      "path": "qa/all-codes/english-f3/foundation/AC9EFLA08.json",
+      "git_blob_sha": "69f6d712e7df9cd9e16cb540290a2d1fcf6d9a9a",
+      "sha256": "b5395506ecbdf431b8d150c03ac00be09adc9e730515649b0bd7d7d81abb03dc",
+      "bytes": 4816
+    },
+    {
+      "path": "qa/all-codes/english-f3/foundation/AC9EFLA06.json",
+      "git_blob_sha": "3dda68cd7c9ce39444f174e033c675f5c118d92e",
+      "sha256": "dfa104aad565fe14bf687f60e44c8bcdaa1c5c720ff0656263c674144cdd5f87",
+      "bytes": 5499
+    },
+    {
+      "path": "qa/all-codes/english-f3/foundation/AC9EFLA07.json",
+      "git_blob_sha": "80a87b9ed5de6582fd70c9ebdcfbb28c0cb7a02d",
+      "sha256": "26a4fe1980f61a084db9013a7882dddddad8369f670def13d22b245122db08e0",
+      "bytes": 5837
+    },
+    {
+      "path": "qa/all-codes/english-f3/foundation/AC9EFLE01.json",
+      "git_blob_sha": "faadb919695676693b21c6499320d2c286bcfb50",
+      "sha256": "eedb96698ba5e56eca5a5967aa8420d41280e07a2d4c1279a897183ce11ba1e0",
+      "bytes": 5687
+    },
+    {
+      "path": "qa/all-codes/english-f3/foundation/AC9EFLA09.json",
+      "git_blob_sha": "8dcd7611234bcf92cfdd8b073a141920b98908cf",
+      "sha256": "e3ccf1aa1a9172f796796cc3f146ee2f1fae80cb47d529cd9f4d83688d8d7724",
+      "bytes": 4784
+    },
+    {
+      "path": "foundation/english/AC9EFLA01/research/2026-10-26-fresh-dev-r2/README.md",
+      "git_blob_sha": "2d90a18e85e157784b17d5aa4d84a10bf7d03892",
+      "sha256": "0fc832d0e86fb383e0cced57bfa9517a1a9977e01769f260c26618e3751e4b0d",
+      "bytes": 4527
+    },
+    {
+      "path": "foundation/english/AC9EFLA01/research/2026-10-26-fresh-dev-r2/focus-map.md",
+      "git_blob_sha": "a31f736f938a7fb698a5b0c41a227b70b4a63a45",
+      "sha256": "65b6893c5adbd7179f77a542794b61294e012497a0c73b33bd383321e0a1c149",
+      "bytes": 2794
+    },
+    {
+      "path": "foundation/english/AC9EFLA01/research/2026-10-26-fresh-dev-r2/source-ledger-v12.json",
+      "git_blob_sha": "9cc439327e3d6261f11b049755b21290aea067f9",
+      "sha256": "17c82574af5fb9319354045d6e5bffe0adbb1c2af031bc8c913f6855c8874b3a",
+      "bytes": 39431
+    },
+    {
+      "path": "foundation/english/AC9EFLA01/research/2026-10-26-fresh-dev-r2/teaching-guide.json",
+      "git_blob_sha": "e6e3fb4cdc5af3530dc6f99b0ac3055d0ec5b1cc",
+      "sha256": "9376c7e1c0777f57f39879abd57620a98bea23fca67eac456d03993e3df17e6a",
+      "bytes": 7031
+    },
+    {
+      "path": "foundation/english/AC9EFLA01/research/2026-10-26-fresh-dev-r2/teacher-qa/independent-teacher-final-v203.md",
+      "git_blob_sha": "629ff6260b7167e2721be20a13731d6ef4ea71ae",
+      "sha256": "9df9af852b9bf917bd5889d92682de312d4fcee51e6aef27865d69b9edf14044",
+      "bytes": 2349
+    },
+    {
+      "path": "year-1/english/AC9E1LY02/ly02.txt",
+      "git_blob_sha": "c5deeba483f87d1557fd0c8d0c55351dd27cd801",
+      "sha256": "225e4cf634323773582b9009847d0fdeb2562684294239223b46eb10ae95c33a",
+      "bytes": 72285
+    },
+    {
+      "path": "year-1/english/AC9E1LA01/la01.txt",
+      "git_blob_sha": "d122c7e6528ba726e3713eacbe1ce5d859f4499d",
+      "sha256": "0198e958f2b51b79a459039e27dc2cce6108292a7bad4505377303c1e413688f",
+      "bytes": 35567
+    },
+    {
+      "path": "foundation/english/AC9EFLA03/research/2026-10-30-source-first/observations.json",
+      "git_blob_sha": "5bced91c804b99f7ecf03ed82f36e725167a74cd",
+      "sha256": "bcae28391f9cb09fe65d03cec5c6d716bcc70cf5d9b1e0552fe1d430e8a2718c",
+      "bytes": 10920
+    },
+    {
+      "path": "year-1/english/AC9E1LA03/la03.txt",
+      "git_blob_sha": "adf30c1ee5787ce4d7072f56cfb1f043e92d5524",
+      "sha256": "1bca99fdd9ac7d2bf5b8a6ce9831baa1e398b34b8bdcea7679926d5d5881c640",
+      "bytes": 30328
+    },
+    {
+      "path": "year-1/english/AC9E1LY03/ly03.txt",
+      "git_blob_sha": "975850a1b6e8eff764830280f40cff6d6421627d",
+      "sha256": "2047895927fc50cfccc0a64aa687a50215b28b874d9dddf9fd215c04e4f63698",
+      "bytes": 59821
+    },
+    {
+      "path": "year-1/english/AC9E1LA03/round1-research-2026-11-01.json",
+      "git_blob_sha": "988b7e38cba85ce4215069c4ef63b09d600d7568",
+      "sha256": "c823667e374203609346746730f2809419d0897c821d0f327c234bc7edbf552e",
+      "bytes": 27543
+    },
+    {
+      "path": "year-1/english/AC9E1LY01/ly01.txt",
+      "git_blob_sha": "d36c9ba968f2ef3ebcbaaeff25727b156a398dcb",
+      "sha256": "d3b451269c8262a8e968b37d8ee6d651723d404664202195650fec8af6b77cb9",
+      "bytes": 51121
+    },
+    {
+      "path": "foundation/english/AC9EFLA02/README.md",
+      "git_blob_sha": "7d9491fe06a56a9317655534e2c2b6e270eff808",
+      "sha256": "b921b0d73a4881228aa9ca9a5ff5786e3f3d28309264d9c17b08ca8d4d678ac9",
+      "bytes": 1921
+    },
+    {
+      "path": "foundation/english/AC9EFLA02/current-status.json",
+      "git_blob_sha": "6570b15b540e5167902bd0a0ab57b4e1566f11b3",
+      "sha256": "60b3339d64dc300ac2219cb4a4d9f430acffd254c26b8c990b390473bf1e09ea",
+      "bytes": 1333
+    },
+    {
+      "path": "year-1/english/AC9E1LA05/la05.txt",
+      "git_blob_sha": "d924e243e1177d6ce8f10c865c0998f87635c03c",
+      "sha256": "27f5d7ab20bcf69e29f5369ea17ee511fecea53439d2b16e9f7ff913b321be18",
+      "bytes": 28788
+    },
+    {
+      "path": "year-1/english/AC9E1LA05/round1-research-2026-11-01.json",
+      "git_blob_sha": "50918c89b28a9661738c3b3d8a9ebdc879d1223d",
+      "sha256": "6247290e8c5e96c37b5ec1acc1ce6da46ff2a4109cf7a4b81a814539f60b422e",
+      "bytes": 63066
+    },
+    {
+      "path": "foundation/english/AC9EFLA02/research/2026-10-27/README.md",
+      "git_blob_sha": "3cef9eed8d1614011c063364ea870c66ccff912b",
+      "sha256": "31ed544549196094d62a8aa76d0f097f56193d5c7a406ac16583f1823e9b4e8a",
+      "bytes": 1745
+    },
+    {
+      "path": "foundation/english/AC9EFLA02/research/2026-10-27/focus-map.json",
+      "git_blob_sha": "77c432825c4b929916a812f7aaee7eb246ceae27",
+      "sha256": "ff235849dd4a88c1c37f291ce2cb3b724b05dc317fe1ca49ba62cb3789e16d65",
+      "bytes": 5259
+    },
+    {
+      "path": "foundation/english/AC9EFLA02/research/2026-10-27/focus-map.md",
+      "git_blob_sha": "176b60dcf1be2eb421879471bb8cc88ec2d678c5",
+      "sha256": "84728fef863b7681459e7d3fd7626610b89cc772494be08f66e82f43b4b335b2",
+      "bytes": 1603
+    },
+    {
+      "path": "foundation/english/AC9EFLA02/research/2026-10-27/preflight.json",
+      "git_blob_sha": "3eadda17f405e2fb451c1824e78b5507be125cb3",
+      "sha256": "2d9f111e61ed79aa5198884f52f8ce11f5a4ed6663f899173726e3ff1b62ac49",
+      "bytes": 1201
+    },
+    {
+      "path": "foundation/english/AC9EFLA02/research/2026-10-27/review-history/qa-v1.2.md",
+      "git_blob_sha": "79d8dbd66ce3986b33e5f25af78145c7383be1e6",
+      "sha256": "a57882ec7b5d059b4c12d51db839e522efa865473f906644129cac76dd8ae4a3",
+      "bytes": 5888
+    },
+    {
+      "path": "foundation/english/AC9EFLA02/research/2026-10-27/review-history/qa-v1.2.json",
+      "git_blob_sha": "5fddc68cafc45c6255e927a065ea330f8e6b016c",
+      "sha256": "6b27c0f7aff530198da91d6de0dc880e9a7f72a2f7cb7d5e6f0a0a398f7d2db0",
+      "bytes": 13454
+    },
+    {
+      "path": "foundation/english/AC9EFLA02/research/2026-10-27/source-ledger.json",
+      "git_blob_sha": "9537069be7a5a41925f83cbcb6674612bdf161b8",
+      "sha256": "62002491dbb420d5247b792882bcb1e7f8d583745bd005cbd0b4a1e5386bd1a5",
+      "bytes": 46339
+    },
+    {
+      "path": "foundation/english/AC9EFLA02/research/2026-10-27/research-readiness.json",
+      "git_blob_sha": "656aaf9078301f08be7d9ffd52bcbc9f0121fd98",
+      "sha256": "0cf7ba92473beef30b242d3b2aab6d8639ed6cd484d8189f23c2a2a3c9a1aea5",
+      "bytes": 844
+    },
+    {
+      "path": "foundation/english/AC9EFLA02/research/2026-10-27/visual-inspection.json",
+      "git_blob_sha": "d9952a102e368551aa7c2ad5e2ecc020f0dbf0a9",
+      "sha256": "7ce7b4fa0df0e608ab33d1d228ec2f6114612a4b0030339b4223ecf9a734faf6",
+      "bytes": 4555
+    },
+    {
+      "path": "foundation/english/AC9EFLA02/research/2026-10-27/teaching-guide.json",
+      "git_blob_sha": "b42c891119fe0e8d09f9d4242ad9c7271246d50f",
+      "sha256": "3e1706caa563b05a23ea21a29dbc67763b3c85bd5b6fd7b00c061242f2d9bb43",
+      "bytes": 16213
+    },
+    {
+      "path": "foundation/english/AC9EFLA02/research/2026-10-27/status.json",
+      "git_blob_sha": "5e09dbae23235f519e4604fd51eaf0bc2639506d",
+      "sha256": "5a6ac9f02e9d6345e7e8c40c3324e250f22c0d501e69b9abc0426b4e6e4893ad",
+      "bytes": 3013
+    },
+    {
+      "path": "year-1/english/AC9E1LA02/la02.txt",
+      "git_blob_sha": "30aff7558986b8a73f330caf614ac735ad0a6b70",
+      "sha256": "34dfea7b31c371dfe2f87dbf1bd6d1b2f3f0c7554301d384b9ff1adc7a102fb0",
+      "bytes": 76889
+    },
+    {
+      "path": "year-1/english/AC9E1LA06/la06.txt",
+      "git_blob_sha": "121994feb789a736656d911a503621aa761a6193",
+      "sha256": "30520d285cc5981771c087f79e3502e99de3c86e5089553ce4406818f28806a7",
+      "bytes": 38083
+    },
+    {
+      "path": "year-1/english/AC9E1LA02/round1-research-2026-11-01.json",
+      "git_blob_sha": "1ba7736198ed596ff9af9440325d7439cf4dd713",
+      "sha256": "370ee15d275f5ec1ed0aaeee4ed298d8026569dd571f8ba4c87ce07c82656ffc",
+      "bytes": 27483
+    },
+    {
+      "path": "year-1/english/AC9E1LE02/le02.txt",
+      "git_blob_sha": "23716f85efdaf58b26ad52fbe3e43456a1bb0d7c",
+      "sha256": "f791160eaec37a99d891136f155f7c5987e94c6704496592b7e70bbd2d881a8f",
+      "bytes": 60345
+    },
+    {
+      "path": "year-1/english/AC9E1LA06/round1-research-2026-11-01.json",
+      "git_blob_sha": "acfecf88765501ffdc007b43c967780900d498d8",
+      "sha256": "befed064f5cc20ae1a8fdc7b6d32ece9ac7d86feb28f830a69b4bf7395792805",
+      "bytes": 64221
+    },
+    {
+      "path": "year-1/english/AC9E1LA07/la07.txt",
+      "git_blob_sha": "5b43931db1bea175677afbae72a38b53dad8c05a",
+      "sha256": "8464bfad462787bcfd1c1659c7ac85e9517406e1565d446ab8305a02e96a77da",
+      "bytes": 40084
+    },
+    {
+      "path": "year-1/english/AC9E1LA09/round1-app-2026-11-01.json",
+      "git_blob_sha": "2082d4d9a568775bc73cfcad789f16fc5d434981",
+      "sha256": "f5fe66f1f6d8965e04189311741bd6a6edb6e9867aace20977670b304fe5ac16",
+      "bytes": 152596
+    },
+    {
+      "path": "year-1/english/AC9E1LA09/la09.txt",
+      "git_blob_sha": "97c98b0476de239d03a346641d2868cd133f9a59",
+      "sha256": "e9b61765027e96e4a34c2d688cd12dd553f9d8a1efa9fcb34302fef899fdcf52",
+      "bytes": 40178
+    },
+    {
+      "path": "year-1/english/AC9E1LA07/round1-research-2026-11-01.json",
+      "git_blob_sha": "8796639ae472e5dda557a17bcc50f230496039fd",
+      "sha256": "ef62d9b2b81fbd264a29d3f058972e4f580b4dc9bf0584b41dbb5a24ca2732b3",
+      "bytes": 73377
+    },
+    {
+      "path": "year-1/english/AC9E1LE01/le01.txt",
+      "git_blob_sha": "539f9af150178207e8ad8ad42549ec0b9da32054",
+      "sha256": "962b71f3a3164745f6694ad5bdebceedd69b8da4ddd5e357cee7a84f4efa01ab",
+      "bytes": 50840
+    },
+    {
+      "path": "year-1/english/AC9E1LA08/round1-research-2026-11-01.json",
+      "git_blob_sha": "0169bfa5cb1d93b4fcf686315f22a9e06e42ac51",
+      "sha256": "0f2fda9c13d36fabf2b0d2a8c5f4f1f50217c74d9d8fe53a5da932d201d8a63d",
+      "bytes": 81778
+    },
+    {
+      "path": "year-1/english/AC9E1LA08/la08.txt",
+      "git_blob_sha": "64b7724c0e4b4e977c2b0163263d9d28636f76b7",
+      "sha256": "979f75868c630a6e9ad2876227a893ee9e51740f79b68ecd1fbeb72f932986ef",
+      "bytes": 19087
+    },
+    {
+      "path": "year-1/english/AC9E1LE01/round1-app-2026-11-01.json",
+      "git_blob_sha": "c45a1d1379a5a526c12437f85b691c3a685eba04",
+      "sha256": "9ff6acb81aaa805ebcd88ecb2645ff0959c966f8b88af61bcc657fd032093b99",
+      "bytes": 235628
+    },
+    {
+      "path": "TEACHING_PRODUCT_RESEARCH_PREFLIGHT_SOP.md",
+      "git_blob_sha": "24863d3f993c2bb41e12b0aa03edc47a4a95c15e",
+      "sha256": "e212289e5399ad9eaffa9e0de406968d106f77cfe1a97fbdb5233939e8ad6ead",
+      "bytes": 12741
+    },
+    {
+      "path": "year-3/english/AC9E3LE01/ac9e3le01.json",
+      "git_blob_sha": "4f16813e3e25b7e29654f70b320fb8954b6bdb8e",
+      "sha256": "9913294bfbf41fbe5a62ff6208b59af42ec8dfdc3ed7d313b82a65f714fb665a",
+      "bytes": 128654
+    },
+    {
+      "path": "year-1/english/AC9E1LA10/round1-app-2026-11-01.json",
+      "git_blob_sha": "7f905cdcad3a3d80b54596744056b78c91d72236",
+      "sha256": "b1566c8fc16e4f77ba92039e9075b6832456bbc1db15d34da1c3cb761b67e51d",
+      "bytes": 191678
+    },
+    {
+      "path": "year-1/english/AC9E1LA10/la10.txt",
+      "git_blob_sha": "70b8de514d0e1282d95dd8223d07dd4b6ae7b220",
+      "sha256": "86944a7b99a7be173a538872b11bfceda3622770d0092b5fc7fc668ed89f9168",
+      "bytes": 60381
+    },
+    {
+      "path": "shared-research/english/2026-11-04-immutable-inputs/CURRENT_RESEARCH_SOP.md",
+      "git_blob_sha": "9604d0312ab2997af6f507cc1e87a3512c113873",
+      "sha256": "7ac2ff226292944099537fb20c09a17e0fb9e53090f3a48c57c17d91e9f9c226",
+      "bytes": 10547
+    },
+    {
+      "path": "qa/all-codes/english-f3/README.md",
+      "git_blob_sha": "6c68097a6e4b7b22100da3b1243d03ed78d9bc19",
+      "sha256": "92ea9109ca5c7ccc6d768b7b1a73b2e0733128a060f6fb78aaf000cec7b28c5f",
+      "bytes": 5035
+    },
+    {
+      "path": "qa/all-codes/english-f3/residual-methods-delta-review.md",
+      "git_blob_sha": "6c488f8830e5f4d8ccadc24aff0b890f811f5e58",
+      "sha256": "f83584ba3579e1a3508e678cbc6604578f3481b685fcb6836e9591bc87a083dd",
+      "bytes": 5432
+    }
+  ],
+  "unique_accepted_dependencies": 43,
+  "accepted_pin_checks": "PASS: every accepted dependency current Git blob, SHA256 and byte count exactly matches its independent code report.",
+  "external_observations_added": 0,
+  "limits": "Saved methods and actual source evidence reused; no fresh IXL, media playback, student answer, source-pixel or practical observation inferred. Supplemental authentic LE01 primary texts separately reopened."
+}
