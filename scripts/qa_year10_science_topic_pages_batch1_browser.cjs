@@ -37,6 +37,9 @@ fs.mkdirSync(out, {recursive:true});
             const result=await figure.evaluate(e=>{const art=e.querySelector('svg,img');return {width:art.getBoundingClientRect().width,focusable:e.tabIndex===0,scrollable:e.scrollWidth>e.clientWidth,initial:e.scrollLeft}});
             assert(result.width>=600 && result.focusable && result.scrollable,item.code+': phone diagram must remain readable and scrollable');
             await figure.evaluate(e=>e.scrollLeft=e.scrollWidth);assert(await figure.evaluate(e=>e.scrollLeft>0),item.code+': diagram scroll');await figure.evaluate(e=>e.scrollLeft=0);
+            await figure.focus();await page.keyboard.press('ArrowRight');
+            await page.waitForFunction(()=>document.activeElement.scrollLeft>0);
+            await figure.evaluate(e=>e.scrollLeft=0);
           }
         }
 
@@ -85,6 +88,9 @@ fs.mkdirSync(out, {recursive:true});
         }
         const summaries=page.locator('.steps article details > summary');
         assert.equal(await summaries.count(),3,item.code);
+        await summaries.nth(0).focus();await page.keyboard.press('Space');
+        assert(await summaries.nth(0).evaluate(e=>e.parentElement.open),item.code+': keyboard answer open');
+        await page.keyboard.press('Enter');assert.equal(await summaries.nth(0).evaluate(e=>e.parentElement.open),false,item.code+': keyboard answer close');
         for(let i=0;i<3;i++){
           // A learner scrolls an answer above the fixed app entrance before tapping.
           await summaries.nth(i).evaluate(e=>e.scrollIntoView({block:'center',behavior:'instant'}));
@@ -119,7 +125,7 @@ fs.mkdirSync(out, {recursive:true});
     const page=await context.newPage();const errors=[];page.on('pageerror',error=>errors.push(error.message));
     for(const item of inventory){await page.goto(origin+'/'+item.path.replace(/index\.html$/,''),{waitUntil:'networkidle'});assert.equal(await page.locator('#skillr-topic-practice-now').count(),1,item.code);}
     assert.deepEqual(errors,[],'page JavaScript errors');await context.close();
-    fs.writeFileSync(path.join(out,'results.json'),JSON.stringify({pages:inventory.length,viewports:[1440,768,390],javascriptDisabled:true,javascriptEnabledSmoke:inventory.length,results,problems},null,2));
+    fs.writeFileSync(path.join(out,'results.json'),JSON.stringify({pages:inventory.length,viewports:[1440,768,390],javascriptDisabled:true,javascriptEnabledSmoke:inventory.length,keyboardAnswers:true,keyboardPhoneDiagramPan:true,results,problems},null,2));
     assert.deepEqual(problems,[], 'Rendered science page failures');
     console.log(`PASS ${inventory.length} Year 10 batch 1 Science pages at desktop, tablet and mobile; native answer toggles, images, app targets and JavaScript smoke.`);
   } finally {await browser.close();}
