@@ -1,0 +1,60 @@
+[
+  {
+    "code": "AC9S9U01",
+    "section": "Practice and review",
+    "before": "A graph shows a regulated variable and a delayed corrective response. Decide whether the evidence supports negative feedback and justify your conclusion.",
+    "after": "Use the supplied warm-body pathway model to decide whether it describes negative feedback and justify your conclusion. Identify how the response changes the original deviation; a delay alone would not establish the feedback direction.",
+    "reason": "Replace an absent graph stimulus with the complete supplied pathway model."
+  },
+  {
+    "code": "AC9S9U02",
+    "section": "Guided practice",
+    "before": "Classify runners, budding, seed formation and external fertilisation as sexual or asexual.",
+    "after": "Classify runners, budding, seed formation following gamete fusion, and external fertilisation as sexual or asexual.",
+    "reason": "Seed formation alone does not universally establish gamete fusion; make intended process explicit."
+  },
+  {
+    "code": "AC9S9U04",
+    "section": "Guided practice",
+    "before": "Identify amplitude and frequency on two wave sketches.",
+    "after": "Use the supplied P and Q wave-sketch descriptions to compare amplitude and relative frequency, with their equal propagation speed stated.",
+    "reason": "Supply complete wave stimuli through the new P/Q descriptions rather than absent sketches."
+  },
+  {
+    "code": "AC9S9U05",
+    "section": "Independent practice",
+    "before": "Compare two devices with different inputs and useful outputs using percentages.",
+    "after": "Use the supplied device A and B records to compare their efficiencies for the same 270 J useful output.",
+    "reason": "Identify the actual complete device records for the comparison."
+  },
+  {
+    "code": "AC9S9U07",
+    "section": "Independent practice",
+    "before": "Write a word equation from a described reaction.",
+    "after": "Write a word equation for the supplied reaction in which carbon monoxide and oxygen form carbon dioxide.",
+    "reason": "Identify the supplied reaction instead of leaving the described reaction absent."
+  },
+  {
+    "code": "AC9S9H01",
+    "section": "Independent practice",
+    "before": "Rank three evidence scenarios by confidence and justify.",
+    "after": "Use the supplied P, Q and R evidence packets to compare confidence in a consistent effect under their stated conditions, and justify using method quality, relevance and consistency.",
+    "reason": "Link the task to three complete evidence packets and prevent a paper-count-only ranking."
+  },
+  {
+    "code": "AC9S9U03",
+    "section": "Worked examples",
+    "before": "Atmosphere CO₂BiosphereHydrosphereGeospherephotosynthesisrespiration / combustionocean exchangefeeding / decayburial / sedimentscombustion",
+    "after": "Atmosphere CO₂BiospherephotosynthesisBiosphereAtmosphere CO₂respiration / biomass combustionAtmosphere CO₂HydrospheredissolutionHydrosphereAtmosphere CO₂outgassingBiosphere materialGeosphereburial / sedimentsGeosphere fossilcarbonAtmosphere CO₂combustionFeeding stays within the biosphere; decay can transfer carbon to air, water or soil.",
+    "reason": "Original connections had no arrowheads, labels crossed paths and feeding was ambiguously drawn between spheres. Use directed process rows and correct within-biosphere feeding explanation.",
+    "applied_by": "svg"
+  },
+  {
+    "code": "AC9S9U07",
+    "section": "Worked examples",
+    "before": "ReactantsProducts→2H₂ + O₂ → 2H₂O",
+    "after": "ReactantsProducts→2H₂ + O₂ → 2H₂OHHHHOOOOHHHHH: hydrogen; O: oxygen. Grouping only, not scale or geometry.",
+    "reason": "Join the previously disconnected O2 pair and label atom types directly, with explicit grouping/geometry limits.",
+    "applied_by": "svg"
+  }
+]

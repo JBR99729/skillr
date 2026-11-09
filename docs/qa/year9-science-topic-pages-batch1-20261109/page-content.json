@@ -1,0 +1,742 @@
+[
+  {
+    "code": "AC9S9U01",
+    "short": "Body coordination and feedback",
+    "title": "Explain how a response reduces a disturbance",
+    "intro": "Compare nervous and endocrine coordination, trace stimulus–response pathways, and explain how negative feedback regulates a changing internal variable.",
+    "exampleTitle": "A cooling response can become smaller as the body recovers",
+    "example": "In this simplified warm-body model, temperature rises above its usual regulated range. Temperature receptors provide information to the brain’s temperature-control centre. Sweat glands and skin blood vessels act as effectors: sweat evaporation and increased skin blood flow can increase heat loss when conditions allow. As the deviation becomes smaller, the drive for these corrective responses decreases. This is negative feedback because the response opposes the original rise, not because the response is harmful. It is an explanatory model, not a person’s medical record.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Role</th><th scope=\"col\">Warm-body model</th><th scope=\"col\">Contribution</th></tr></thead><tbody><tr><td>Stimulus</td><td>Temperature above usual range</td><td>Change to be opposed</td></tr><tr><td>Receptors and coordinator</td><td>Temperature receptors; brain temperature-control centre</td><td>Detect and coordinate</td></tr><tr><td>Effectors</td><td>Sweat glands; skin blood vessels</td><td>Increase evaporation and heat transfer under suitable conditions</td></tr><tr><td>Feedback</td><td>Deviation reduces</td><td>Corrective drive decreases rather than increasing without limit</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Compare signalling systems",
+        "Nervous signals travel electrically along neurons and chemically across many synapses; they commonly produce rapid, targeted responses. Endocrine glands release hormones into blood, reaching cells with suitable receptors; many effects develop more slowly and last longer. These are general patterns with exceptions, not absolute timing rules. Circulation, nerves, glands and muscles cooperate.",
+        "<div class=\"evidence\">Case A: a rapid withdrawal from a harmful stimulus. Case B: insulin carried in blood changes uptake and storage of glucose in target tissues.</div>",
+        "Which signalling route is central in each case?",
+        "A mainly uses neural pathways to coordinate muscle action. B is endocrine signalling via blood to responsive tissues. Nervous and endocrine systems can interact, so classification does not mean either acts without other systems."
+      ],
+      [
+        "Trace the full response pathway",
+        "Name the detected variable, sensor, coordinator, effector and response. Effectors do the work; receptors detect change. In the cold, reduced skin blood flow can conserve heat and muscle shivering can increase heat production. A complete account explains how those actions affect the original temperature deviation.",
+        "<div class=\"evidence\">Cold model: temperature falls, receptors detect the change, the brain coordinates shivering and reduced skin blood flow.</div>",
+        "Which are the effectors, and how do their actions help?",
+        "Skeletal muscles produce shivering and skin blood vessels change blood flow. These actions increase heat production or reduce heat loss, opposing the fall. They do not make internal conditions match the colder air."
+      ],
+      [
+        "Explain the direction of feedback",
+        "Negative feedback opposes deviation and reduces its own stimulus as regulation improves. In a simplified glucose loop, high blood glucose stimulates pancreatic insulin release; uptake by responsive tissues and storage help lower glucose, reducing the stimulus for insulin release. Low glucose can stimulate glucagon, promoting liver glucose release. No clinical threshold or treatment decision follows from this model.",
+        "<div class=\"evidence\">Faulty proposed loop: glucose is already high → more glucagon → liver releases more glucose → glucose rises further.</div>",
+        "Why is the proposed response not corrective negative feedback?",
+        "It amplifies the original high-glucose deviation. A suitable high-glucose model instead uses insulin-mediated uptake/storage and shows the corrective stimulus decreasing as glucose returns toward range."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Negative means harmful.”",
+        "Here it means opposing the original change."
+      ],
+      [
+        "“Homeostasis fixes one exact number forever.”",
+        "Regulated variables fluctuate within suitable ranges."
+      ],
+      [
+        "“Hormones affect every cell equally.”",
+        "Responses depend on suitable receptors and other conditions."
+      ]
+    ],
+    "activityTitle": "Build and repair a feedback loop",
+    "activity": "Draw the warm-body pathway with five named roles. Add a return arrow explaining how the original deviation and corrective drive change. Then rewrite the faulty glucose loop using the supplied explanation.",
+    "adjust": "Support: sort role cards before connecting them. Core: explain every arrow. Extend: compare the consequences of a detection failure and an effector failure without diagnosing a real person.",
+    "safety": "Use paper models only. No temperature exposure, exercise test, blood measurement or medical decision is part of this activity.",
+    "tricky": [
+      [
+        "If sweating increases but little sweat evaporates, is cooling guaranteed?",
+        "No. Evaporation and environmental conditions affect heat loss. Sweat production alone does not guarantee the model’s expected cooling."
+      ],
+      [
+        "Does every hormone act slowly?",
+        "No. Timing varies; some hormone responses are rapid. Use the general comparison without treating it as a universal rule."
+      ],
+      [
+        "Can a downward graph alone establish negative feedback?",
+        "No. Explain the stimulus, response and causal direction. A falling variable might have other causes, and a response must oppose the original deviation."
+      ]
+    ],
+    "faq": [
+      [
+        "Why include the circulatory system?",
+        "It carries hormones and redistributes thermal energy, helping effectors and control pathways work together."
+      ],
+      [
+        "Can one organ belong to more than one functional system?",
+        "Yes. For example, some reproductive organs also produce hormones. System labels organise functions rather than place organs into exclusive boxes."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S9U02",
+    "short": "Reproduction and species survival",
+    "title": "Use gamete fusion to identify the strategy",
+    "intro": "Connect reproductive cells and organs to their functions in animals and plants, and analyse how sexual and asexual strategies affect species survival under different conditions.",
+    "exampleTitle": "One plant can participate in sexual reproduction",
+    "example": "A self-pollinating flowering plant transfers pollen to a suitable stigma on the same plant. Pollen-tube growth can deliver sperm to an egg within an ovule; fusion forms a zygote. This is sexual reproduction even though only one parent individual is involved. A strawberry runner forms a new plant without gamete fusion, so that process is asexual. The distinction is the process, not simply parent count. Both can contribute to a species continuing, but neither guarantees survival in every environment.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Structure or process</th><th scope=\"col\">Function in the supplied examples</th></tr></thead><tbody><tr><td>Animal sperm head, mitochondria and flagellum</td><td>Carry genetic material and support movement in many animals</td></tr><tr><td>Human testes / ovaries</td><td>Produce sperm / develop eggs</td></tr><tr><td>Human oviduct / uterus</td><td>Usual fertilisation site and transport / support embryo development</td></tr><tr><td>Flower anther / stigma / style</td><td>Pollen production / pollen reception / pollen-tube pathway</td></tr><tr><td>Ovary containing ovules</td><td>Ovules contain egg-bearing structures; fertilised ovules develop into seeds, ovary usually fruit</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Relate animal form to function",
+        "Animal gametes carry one chromosome set; fusion restores the combined set in a zygote. In the human example, sperm have a genetic-material-containing head and a flagellum supported by energy transfers involving mitochondria. The larger egg provides cytoplasm and materials for early development. Reproductive organs produce, transport or support gametes and developing offspring; these are functional explanations, not medical instructions.",
+        "<div class=\"evidence\">A sperm has a flagellum, while an egg contains much more cytoplasm. Testes, ovaries, oviducts and uterus have different roles.</div>",
+        "Connect one cell feature and one organ to a reproductive function.",
+        "For example, the flagellum supports sperm movement; the oviduct transports the egg and is the usual site of human fertilisation. Alternatively, egg cytoplasm supports early development and testes produce sperm. Do not assign every animal exactly the same anatomy."
+      ],
+      [
+        "Distinguish pollen transfer from fusion",
+        "Pollination transfers pollen from anther to stigma. A pollen grain is not a seed or simply one sperm cell. A pollen tube can grow through the style toward an ovule, allowing sperm delivery and fertilisation. The fertilised ovule develops into a seed; the ovary usually develops into fruit. Pollination alone does not prove that fertilisation succeeded.",
+        "<div class=\"evidence\">Pollen reaches a stigma, but no pollen tube develops and no gametes fuse in this fictional case.</div>",
+        "Which process occurred, and which did not?",
+        "Pollination occurred. Fertilisation did not occur because the gametes did not fuse. Pollen arrival alone is not equivalent to seed formation."
+      ],
+      [
+        "Analyse strategy trade-offs",
+        "Asexual methods such as budding or vegetative runners can establish offspring quickly without finding a mate or pollinator, retaining a successful inherited combination. Sexual reproduction can create new genetic combinations that may help some offspring under change. Costs, dispersal, environment and existing variation matter. Mutation can introduce variation in asexual lineages; clones need not be identical in every trait.",
+        "<div class=\"evidence\">Case P has a stable local habitat and an established plant that can form runners. Case Q faces a new disease; its seedlings have varied inherited traits.</div>",
+        "What possible advantage can each case illustrate?",
+        "P illustrates rapid local establishment while retaining successful traits. Q illustrates that inherited variation may include some disease-tolerant individuals. Neither case establishes guaranteed success or a universally superior reproductive mode."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“One parent always means asexual.”",
+        "Self-fertilisation can still involve gamete fusion."
+      ],
+      [
+        "“Pollen is a seed.”",
+        "Pollen supports delivery of male gametes; a fertilised ovule develops into a seed."
+      ],
+      [
+        "“Sexual reproduction guarantees survival.”",
+        "Variation changes possible responses to conditions; survival still depends on context."
+      ]
+    ],
+    "activityTitle": "Connect structure, process and consequence",
+    "activity": "Draw one animal pathway and one flower pathway using the supplied structures. Label where gametes form or travel and where fusion occurs. Compare self-pollination with a runner, then write one conditional survival advantage and one limitation of each strategy.",
+    "adjust": "Support: use the structure/function table. Core: distinguish pollination and fertilisation. Extend: explain why seed formation without evidence of gamete fusion is not a universal diagnostic of sexual reproduction.",
+    "safety": "Use drawings and supplied examples. No dissection, specimen collection, propagation or reproductive-health decision is required.",
+    "tricky": [
+      [
+        "Must sexual reproduction involve two separate individuals?",
+        "No. Some organisms can self-fertilise; the defining event is gamete fusion."
+      ],
+      [
+        "Are all plant spores evidence of asexual reproduction?",
+        "No. Life cycles differ, and some spores arise through processes in sexual life cycles. Use evidence of the actual process rather than the label alone."
+      ],
+      [
+        "Can lower inherited diversity ever be useful?",
+        "Retaining a successful combination can help rapid establishment in suitable conditions. Shared susceptibility can become a disadvantage if conditions change."
+      ]
+    ],
+    "faq": [
+      [
+        "Does an individual reproduce in order to stay alive?",
+        "Reproduction produces offspring and contributes to continuation of a population or species; it does not necessarily improve that individual’s survival."
+      ],
+      [
+        "Are the two pathways anatomical drawings?",
+        "No. They are functional models highlighting roles and sequence, with simplified positions and omitted detail."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S9U03",
+    "short": "Carbon cycle and Earth spheres",
+    "title": "Trace carbon through a connected network",
+    "intro": "Represent carbon stores and transfers across the atmosphere, biosphere, hydrosphere and geosphere, and explain how changed process rates affect the network.",
+    "exampleTitle": "An atmospheric gain does not create new carbon",
+    "example": "In this original toy model, the atmospheric carbon store receives 11 arbitrary units from fossil-fuel combustion and 6 from respiration during one time step. Photosynthesis removes 9 units and net ocean uptake removes 5. The atmospheric change is 11 + 6 − 9 − 5 = +3 units. Other stores supply or receive that carbon, so the whole stated system can conserve carbon while the atmospheric store grows. These are invented model transfers, not measured Earth fluxes or current climate figures.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Transfer during one equal time step</th><th scope=\"col\">Effect on atmospheric store</th><th scope=\"col\">Linked sphere</th></tr></thead><tbody><tr><td>Combustion: 11 units</td><td>+11</td><td>Geosphere → atmosphere</td></tr><tr><td>Respiration: 6 units</td><td>+6</td><td>Biosphere → atmosphere in this model</td></tr><tr><td>Photosynthesis: 9 units</td><td>−9</td><td>Atmosphere → biosphere</td></tr><tr><td>Net ocean uptake: 5 units</td><td>−5</td><td>Atmosphere → hydrosphere, net of two-way exchange</td></tr><tr><td>Net change</td><td>+3 units</td><td>Other transfers excluded from this toy atmospheric account</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Identify stores and their spheres",
+        "A store holds carbon; a process transfers it. Atmospheric carbon dioxide, living biomass, dissolved ocean carbon and fossil fuels illustrate the four spheres. Living algae are part of the biosphere even though they live in water. A store amount and a transfer per time step are different quantities.",
+        "<div class=\"evidence\">Items: dissolved carbon dioxide; an algal cell; a limestone rock; carbon dioxide in air.</div>",
+        "Assign each to the sphere relevant to its carbon store.",
+        "Dissolved carbon dioxide: hydrosphere. Algal cell: biosphere. Limestone rock: geosphere. Carbon dioxide in air: atmosphere. Location in water alone does not make every item a hydrospheric carbon store."
+      ],
+      [
+        "Label processes and conserve atoms",
+        "Photosynthesis incorporates carbon from carbon dioxide into organic molecules. Respiration returns carbon dioxide to air or water; plants also respire. Feeding moves organic carbon between organisms. Combustion rapidly transfers fuel carbon to products including carbon dioxide. Burial and geological processes connect to longer-term stores; carbon does not follow one compulsory circle.",
+        "<div class=\"evidence\">Trace: dissolved carbon dioxide → algal sugars → snail tissue → dissolved carbon dioxide → air.</div>",
+        "Name the four transfers in order.",
+        "Photosynthesis, feeding, respiration and outgassing. The first crosses hydrosphere to biosphere, feeding stays within the biosphere, respiration returns carbon to water, and outgassing moves it to the atmosphere."
+      ],
+      [
+        "Explain changed rates and model limits",
+        "A reservoir changes when its total inflow differs from its outflow. Increased fossil-carbon combustion can move carbon out of geological stores faster, while other processes also vary. Ocean exchange can run in both directions; “net uptake” already subtracts outgassing. Toy tokens help trace conservation but cannot establish actual global quantities, timescales or policy effects.",
+        "<div class=\"evidence\">Keep the toy inflows at 17 units. Increase photosynthesis from 9 to 12 units while net ocean uptake remains 5.</div>",
+        "What happens to the toy atmospheric store?",
+        "Outflow becomes 12 + 5 = 17 units, matching inflow, so its net change is zero for that step. This is conditional bookkeeping, not evidence that a particular real intervention will exactly balance Earth’s carbon cycle."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Combustion creates carbon.”",
+        "It rearranges carbon atoms already present in fuel."
+      ],
+      [
+        "“Plants only take carbon dioxide in.”",
+        "Plants also respire and release carbon dioxide."
+      ],
+      [
+        "“Net ocean uptake means no outgassing.”",
+        "Net is the balance of opposing transfers."
+      ]
+    ],
+    "activityTitle": "Audit and redraw a carbon account",
+    "activity": "Draw four sphere-labelled stores and at least five process-labelled arrows. Calculate the toy atmospheric change and identify which other stores lose or gain carbon. Explain one limitation of the chosen boundary and why energy does not cycle in the same way as these carbon tokens.",
+    "adjust": "Support: distinguish boxes from arrows first. Core: trace two different routes for one carbon atom. Extend: explain why a balanced atmospheric step does not mean every reservoir has an unchanged size.",
+    "safety": "Use paper tokens and supplied model quantities. No burning, field sampling or current emissions calculation is required.",
+    "tricky": [
+      [
+        "Can carbon stay in a store for many steps?",
+        "Yes. Different stores and processes have different residence times; a useful network includes storage as well as movement."
+      ],
+      [
+        "Should respiration from marine organisms always point straight to air?",
+        "No. Carbon dioxide can first enter surrounding water. Label the relevant medium and any later exchange."
+      ],
+      [
+        "Does a +3 atmospheric change violate conservation?",
+        "No. Carbon can enter that selected store from other stores. Check the complete boundary before judging total conservation."
+      ]
+    ],
+    "faq": [
+      [
+        "Why use arbitrary units?",
+        "They make the original model’s accounting explicit without pretending to supply measured Earth quantities."
+      ],
+      [
+        "Is the cycle only photosynthesis and respiration?",
+        "No. Combustion, feeding, decomposition, ocean exchange and geological pathways also connect stores."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S9U04",
+    "short": "Wave and particle transfer models",
+    "title": "Choose the model that explains the transfer",
+    "intro": "Use wave and particle models to explain energy transfer through materials and vacuum, and evaluate what each model reveals and leaves out.",
+    "exampleTitle": "A wave travels while a marked point moves locally",
+    "example": "In an ideal transverse-string model, a marked point moves up and down while the disturbance travels along the string. A hypothetical periodic wave has frequency 4 Hz and wavelength 0.75 m, so its speed is 4 × 0.75 = 3 m/s and its period is 1/4 = 0.25 s. These describe the travelling pattern, not a material particle moving 3 m every second along the string. Sound in air instead involves longitudinal particle motion and pressure variations. A transverse drawing must not be mistaken for the path of an air particle.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Supplied ideal string model</th><th scope=\"col\">Meaning</th></tr></thead><tbody><tr><td>Frequency: 4 Hz</td><td>Four cycles pass a fixed point each second</td></tr><tr><td>Wavelength: 0.75 m</td><td>Distance between adjacent equivalent points of the wave</td></tr><tr><td>Speed: 3 m/s</td><td>Propagation speed: frequency × wavelength</td></tr><tr><td>Period: 0.25 s</td><td>Time for one complete cycle; not the travel time across every string</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Separate oscillation from propagation",
+        "Mechanical waves transfer energy through interacting matter. In a transverse wave, local displacement is perpendicular to travel; in a longitudinal wave it is parallel. For an ideal sound wave, neighbouring air particles oscillate and create compressions and rarefactions. The disturbance can reach a microphone without the same parcel of air travelling from speaker to microphone.",
+        "<div class=\"evidence\">Two ideal transverse sketches are described completely: P has amplitude 2 mm and wavelength 40 cm; Q has amplitude 4 mm and wavelength 20 cm. Both propagate at the same speed.</div>",
+        "Which has greater amplitude, and which has higher frequency?",
+        "Q has greater amplitude. At the same speed, its half-sized wavelength corresponds to twice the frequency. Amplitude and frequency are separate quantities; the stated equal speed is necessary for the frequency comparison."
+      ],
+      [
+        "Explain the medium and mechanism",
+        "Particle interactions explain conduction through matter, with mobile electrons contributing in metals. Convection carries internal energy with moving fluid; it involves bulk matter movement. Sound requires a material medium. Electromagnetic radiation can cross vacuum, so a collision-only material-particle model cannot explain sunlight reaching Earth. More than one transfer mechanism may occur together.",
+        "<div class=\"evidence\">Cases: a metal handle warming; warm fluid circulating; sound crossing air; sunlight crossing space.</div>",
+        "Choose a useful transfer explanation for each.",
+        "Conduction through local particle/electron interactions; convection with fluid motion; a longitudinal mechanical pressure wave; electromagnetic radiation across vacuum. Do not require material particles to carry sunlight across space."
+      ],
+      [
+        "Evaluate usefulness and limitations",
+        "A rope model makes pulse travel and local transverse motion visible, but it does not reproduce longitudinal sound motion or electromagnetic fields. A particle model can explain material interactions yet omit wavelength or a complete temperature distribution. State a model’s question, useful prediction and limitation; no model is a literal picture of every feature.",
+        "<div class=\"evidence\">A learner draws a vertical sine-like curve and says it proves air particles move vertically when sound travels horizontally.</div>",
+        "How should the explanation be repaired?",
+        "Use the curve only for a specified quantity, such as pressure variation or an ideal transverse string. For sound in air, show local particle oscillations parallel to travel and distinguish the graph’s vertical axis from a literal particle path."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“The material must travel with the wave.”",
+        "An ideal mechanical wave can propagate through local oscillations."
+      ],
+      [
+        "“Every wave needs matter.”",
+        "Electromagnetic radiation can travel through vacuum."
+      ],
+      [
+        "“Convection is just particles vibrating in place.”",
+        "Convection includes bulk fluid motion; conduction can transfer energy without that flow."
+      ]
+    ],
+    "activityTitle": "Annotate two models and their limits",
+    "activity": "Draw an ideal transverse-string wave and a longitudinal sound model. Label energy-travel and local-motion directions separately. Use the supplied frequency and wavelength to calculate propagation speed, then explain why the same diagram cannot show conduction or sunlight accurately without changes.",
+    "adjust": "Support: label the direction arrows first. Core: link a model to a mechanism. Extend: explain why real ocean currents or breaking waves can move matter even though an ideal small-amplitude wave model emphasises local oscillation.",
+    "safety": "Use paper diagrams. No heating, loud sound, lasers, stretched equipment or real wave practical is required.",
+    "tricky": [
+      [
+        "If the source doubles frequency in the same ideal nondispersive medium, must wave speed double?",
+        "No. With the same wave type and conditions, speed can remain unchanged while wavelength halves. State the model assumptions."
+      ],
+      [
+        "Does the 3 m/s value describe sound speed in ordinary air?",
+        "No. It belongs to the supplied hypothetical string wave. Different media and wave types have different propagation speeds."
+      ],
+      [
+        "Can conduction, convection and radiation happen together?",
+        "Yes. For example, different parts of a thermal system can transfer energy by different mechanisms. A useful explanation identifies the relevant pathway rather than forcing one mechanism for the whole situation."
+      ]
+    ],
+    "faq": [
+      [
+        "Does a wave graph always show displacement?",
+        "No. Read the axis label: it might show pressure, electric field or another changing quantity."
+      ],
+      [
+        "Do I need quantum wave–particle duality here?",
+        "No. The focus is useful wave and material-particle models for energy transfer, with their stated limits."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S9U05",
+    "short": "Energy conservation and efficiency",
+    "title": "Account for every output before judging efficiency",
+    "intro": "Apply conservation of energy to a defined system and analyse efficiency using consistent inputs, useful outputs and other transfers.",
+    "exampleTitle": "Seventy-five per cent useful still means all energy is accounted for",
+    "example": "Fictional device A receives 360 J during a stated operating interval and transfers 270 J to its intended useful output, 72 J through heating and 18 J through sound. Assume no net increase in stored energy within the device during that interval. The outputs total 360 J, so energy is conserved. Efficiency is 270/360 × 100% = 75%. The other 90 J is transferred elsewhere; it has not vanished. Useful output depends on purpose: sound can be useful from a speaker but unwanted from a lifting motor.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Device A account</th><th scope=\"col\">Energy over the same interval</th><th scope=\"col\">Share of input</th></tr></thead><tbody><tr><td>Input</td><td>360 J</td><td>100%</td></tr><tr><td>Intended useful output</td><td>270 J</td><td>75%</td></tr><tr><td>Heating transfer</td><td>72 J</td><td>20%</td></tr><tr><td>Sound transfer</td><td>18 J</td><td>5%</td></tr><tr><td>All outputs</td><td>360 J</td><td>100%; no net stored-energy change assumed</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Define boundary, interval and purpose",
+        "Name what is inside the system, what crosses its boundary, the time interval and the useful task. If internal stores change, include that change in the account. Transfers and transformations describe where energy goes or changes form; “wasted” means less useful for the chosen purpose, not destroyed.",
+        "<div class=\"evidence\">A calculation uses electrical input over 5 seconds and mechanical output over 15 seconds.</div>",
+        "Why is the proposed efficiency ratio invalid?",
+        "The values refer to different intervals. Match the boundary and interval, and include any change in stored energy, before comparing useful output with input."
+      ],
+      [
+        "Calculate the useful fraction",
+        "Efficiency = useful energy output ÷ total energy input × 100%. A consistent power ratio can also work when the same operating conditions apply. Do not divide joules by watts and call the result a percentage. A proportional Sankey diagram uses band thickness to represent energy amounts; all output bands must account for the input.",
+        "<div class=\"evidence\">Use A’s supplied 270 J useful output from 360 J input. Input band thickness is 120 drawing units.</div>",
+        "What thicknesses represent useful output, heating and sound?",
+        "Useful: 90; heating: 24; sound: 6 drawing units. Their total is 120. The scale is 3 J per drawing unit, and the efficiency remains 75%."
+      ],
+      [
+        "Make a fair comparison",
+        "Fictional B delivers the same 270 J of useful output for the same defined task using 300 J input, with no net stored-energy change. B’s efficiency is 90%, and 30 J goes to other outputs. A fair comparison needs equal purpose and output as well as compatible boundaries and conditions. Efficiency alone does not provide cost, speed or suitability.",
+        "<div class=\"evidence\">A: 360 J input for 270 J useful. B: 300 J input for 270 J useful. No operating times or prices are supplied.</div>",
+        "Which is more efficient, and what cannot be ranked from these records?",
+        "B is more efficient: 270/300 = 90%, compared with A’s 75%. The records do not rank operating speed, power, price or overall purchase suitability because the necessary information is missing."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Low efficiency means energy was destroyed.”",
+        "Count the other transfers and any change in stores."
+      ],
+      [
+        "“All heating is waste.”",
+        "Usefulness depends on the intended task and boundary."
+      ],
+      [
+        "“More efficient means faster.”",
+        "Efficiency is a ratio; speed and power require appropriate time information."
+      ]
+    ],
+    "activityTitle": "Draw a proportional energy account",
+    "activity": "Use a 120-unit input band and split it into A’s three calculated outputs. Label the boundary, interval assumption and useful task. Compare A and B for the same 270 J useful output and write one question their efficiencies alone cannot answer.",
+    "adjust": "Support: add outputs before calculating percentages. Core: preserve the proportional band scale. Extend: revise an account if the device also stores some input energy during startup.",
+    "safety": "Use fictional records and paper diagrams. No appliance testing, electrical connection or heating experiment is required.",
+    "tricky": [
+      [
+        "Can an ideal model have 100% efficiency?",
+        "Yes, if all input becomes the defined useful output with no other transfers or store change. Real systems must be measured and their boundaries specified; conservation alone does not make every device 100% efficient."
+      ],
+      [
+        "If a motor is hotter at one point, must it be less efficient?",
+        "No. Local temperature depends on cooling, material and operating history as well as energy transfers. Measure the complete matched input/useful-output account."
+      ],
+      [
+        "If a startup interval has 100 J input, 70 J output and 30 J stored internally, is conservation broken?",
+        "No. Input equals outward transfer plus the increase in internal stores: 100 = 70 + 30 J. The steady-operation assumption used for A would not apply to that interval."
+      ]
+    ],
+    "faq": [
+      [
+        "Why show sound separately?",
+        "It is a transfer in waves and can serve a different purpose from mechanical output or heating. Do not count the same energy twice after sound is absorbed elsewhere."
+      ],
+      [
+        "Can I compare energy and power efficiencies?",
+        "Use like quantities consistently: energy divided by energy, or compatible useful and input powers. State the operating conditions and interval where relevant."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S9U06",
+    "short": "Atomic evidence and natural decay",
+    "title": "Connect new evidence to a revised atom",
+    "intro": "Explain how subatomic discoveries changed atomic models, use particle notation accurately, and describe natural radioactive decay toward stable nuclei.",
+    "exampleTitle": "A new particle changes the explanation",
+    "example": "Cathode-ray evidence supported a common negative constituent, the electron, contradicting a strictly indivisible atom. Rare large deflections in thin-foil scattering supported a tiny, massive, positively charged nucleus. Later proton evidence and Chadwick’s evidence for a neutral particle of about proton mass refined the nuclear model. These were different lines of evidence, not one experiment discovering every particle. A modern school model places protons and neutrons in the nucleus and electrons around it; it does not give literal planetary electron tracks.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Evidence or supplied notation</th><th scope=\"col\">Justified interpretation</th></tr></thead><tbody><tr><td>Common cathode-ray negative charge</td><td>Atoms contain negative subatomic particles</td></tr><tr><td>Most scattering particles pass; a few deflect strongly</td><td>Mostly empty atomic volume with concentrated positive nuclear charge and mass</td></tr><tr><td>Neutral penetrating particle; recoil evidence for mass near proton</td><td>Neutrons help explain nuclear mass and isotopes</td></tr><tr><td>Neutral silicon-28: Z = 14, A = 28</td><td>14 protons, 14 neutrons, 14 electrons</td></tr><tr><td>Neutral silicon-30: Z = 14, A = 30</td><td>14 protons, 16 neutrons, 14 electrons</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Explain revision through evidence",
+        "State the observation, an earlier model’s limitation and what a revised model explains better. Diffuse positive charge does not explain rare large alpha deflections well; concentrated nuclear charge does. Scattering is an interaction with charge, not proof every deflected particle physically hit a solid nucleus. Some successful parts of earlier models can remain useful.",
+        "<div class=\"evidence\">A claim says: “The gold-foil experiment directly discovered electrons, protons and neutrons together.”</div>",
+        "How should the claim be corrected?",
+        "Gold-foil scattering supported a concentrated positive nucleus. Electron evidence came from earlier cathode-ray work, while proton and neutron identifications involved later evidence. Connect each model revision to its actual evidence rather than merging the discoveries."
+      ],
+      [
+        "Use proton and neutron counts",
+        "Atomic number Z is the proton number and identifies the element. Mass number A is protons plus neutrons, so neutrons = A − Z. For a neutral atom, electrons equal protons. Isotopes have the same Z but different neutron counts. A mass number is an integer count, not the decimal weighted atomic mass often shown in a periodic table.",
+        "<div class=\"evidence\">The supplied neutral silicon-28 and silicon-30 atoms both have Z = 14.</div>",
+        "What differs, and why are they the same element?",
+        "They have 14 and 16 neutrons respectively, while both have 14 protons and 14 electrons. The shared proton number makes both silicon; adding neutrons does not create a different element."
+      ],
+      [
+        "Track natural nuclear change",
+        "An unstable nucleus can decay spontaneously. In beta-minus decay a neutron becomes a proton, with an electron and antineutrino emitted: A stays the same and Z rises by one. Natural carbon-14 becomes stable nitrogen-14 this way. Alpha decay removes two protons and two neutrons; uranium-238 becomes thorium-234, which is still unstable and needs further decay. Gamma emission lowers nuclear excitation without changing A or Z and need not end all possible decay.",
+        "<div class=\"evidence\">Given parents: carbon-14 has Z = 6; uranium-238 has Z = 92. Carbon emits beta-minus; uranium emits alpha.</div>",
+        "Give each first daughter’s A and Z and distinguish their stability.",
+        "Carbon-14 gives nitrogen-14 with A = 14 and Z = 7, a stable endpoint in this example. Uranium-238 gives thorium-234 with A = 234 and Z = 90; that first daughter is radioactive. Not every emission immediately produces a stable nucleus."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Atomic drawings are photographs.”",
+        "They are models with stated purposes and limits."
+      ],
+      [
+        "“Isotopes have different proton numbers.”",
+        "Isotopes share proton number and differ in neutrons."
+      ],
+      [
+        "“Every decay immediately produces a stable atom.”",
+        "Some daughters continue through a decay series."
+      ]
+    ],
+    "activityTitle": "Build an evidence and particle account",
+    "activity": "Make three evidence→revision cards for electrons, the nucleus and neutrons. Add the supplied silicon isotope counts and the two first-daughter calculations. Explain why chemical atom rearrangement and nuclear decay are different kinds of change.",
+    "adjust": "Support: label A and Z before subtracting. Core: distinguish evidence from model pictures. Extend: explain why a gamma emission can change nuclear energy without changing the element.",
+    "safety": "Use paper records only. No radioactive source, detector experiment, chemical handling or medical decision is part of this activity.",
+    "tricky": [
+      [
+        "Is the emitted beta-minus electron an orbital electron that simply fell out?",
+        "No. It is produced in the nuclear neutron-to-proton transformation, together with an antineutrino; it is not an electron removed from an atomic shell."
+      ],
+      [
+        "Can you predict the exact decay time of one unstable nucleus?",
+        "No. Individual decay events are random, although large populations show statistical patterns."
+      ],
+      [
+        "Does a gamma emission change the element?",
+        "No. Neither proton number nor mass number changes. It removes excitation energy; whether the resulting nucleus can later decay is a separate question."
+      ]
+    ],
+    "faq": [
+      [
+        "Must I memorise every date?",
+        "The central task is explaining how particular evidence exposed a model’s limits and supported a revision."
+      ],
+      [
+        "Can ordinary chemical reactions turn silicon-28 into silicon-30?",
+        "No. Those isotopes differ in neutron number. Ordinary chemical reactions rearrange atoms and bonds without adding neutrons to their nuclei."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S9U07",
+    "short": "Reactions and conservation of mass",
+    "title": "Rearrange the atoms without changing their identities",
+    "intro": "Link word equations, molecular models and balanced equations, and explain conservation of mass within a clearly defined material boundary.",
+    "exampleTitle": "Three reactant molecules can form two product molecules",
+    "example": "This original paper model uses two carbon monoxide molecules and one oxygen molecule to form two carbon dioxide molecules: 2CO + O₂ → 2CO₂. Before and after, there are two carbon atoms and four oxygen atoms. The total number of molecules changes from three to two, but the count of each atom type is conserved. Letters identify atom types; colours and joining lines are model conventions. This is a symbolic representation, not instructions to produce or handle these gases.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Representation</th><th scope=\"col\">What it communicates</th></tr></thead><tbody><tr><td>Word equation</td><td>Carbon monoxide + oxygen → carbon dioxide</td></tr><tr><td>Balanced formula equation</td><td>2CO + O₂ → 2CO₂</td></tr><tr><td>Reactant inventory</td><td>2 C and 4 O atoms in three molecules</td></tr><tr><td>Product inventory</td><td>2 C and 4 O atoms in two molecules</td></tr><tr><td>Model limit</td><td>Simplified grouping and colour; not natural colour, scale, reaction speed or a practical method</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Translate between representations",
+        "Words name substances, formulas state composition, and a molecular model shows a selected inventory and grouping. Identify reactants before the arrow and products after it. The arrow means forms or yields. In an ordinary chemical reaction, bonds and grouping can change while element identities remain conserved.",
+        "<div class=\"evidence\">In 2CO + O₂ → 2CO₂, a learner counts only two oxygen atoms on the left because they ignore oxygen in CO.</div>",
+        "What complete oxygen count repairs the model?",
+        "The two CO molecules contain two O atoms, and O₂ contains two more: four on the left. Two CO₂ molecules contain four on the right. Count every formula, not only the obvious O₂ group."
+      ],
+      [
+        "Balance by count, adjust and recount",
+        "Keep correct chemical formulas fixed. A coefficient multiplies the whole formula; a subscript is part of the substance identity. Start with CO + O₂ → CO₂: left has three O atoms, right has two. Coefficients of 2 for CO and CO₂ give two C and four O on each side. Recount all elements and use the smallest whole-number ratio.",
+        "<div class=\"evidence\">A student changes CO to CO₂ on the reactant side merely to make atom counts look closer.</div>",
+        "Why is that invalid as a balancing step?",
+        "It changes carbon monoxide into carbon dioxide, a different substance. Balance the stated reaction by changing coefficients, giving 2CO + O₂ → 2CO₂, without changing the formulas."
+      ],
+      [
+        "Check mass against the whole boundary",
+        "Consider a separate hypothetical gas-forming reaction record, not the CO model: a complete closed assembly measures 152.6 g before and after reaction. After some gas leaves the measured boundary, the assembly measures 151.8 g. The 0.8 g decrease is consistent with matter leaving, not atoms being destroyed. Quantifying gas mass exactly would also require ruling out spills, vapour and handling effects.",
+        "<div class=\"evidence\">Closed assembly: 152.6 g → 152.6 g. After opening and gas release: 151.8 g.</div>",
+        "What comparison tests conservation, and what does opening change?",
+        "Compare the same complete closed assembly before and after reaction. Opening lets matter cross its boundary, so the later assembly alone is no longer the same closed material system. The missing 0.8 g is not evidence that atoms vanished."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Balanced means equal molecule counts.”",
+        "Count each atom type; molecules can regroup into a different total number."
+      ],
+      [
+        "“Subscripts are adjustable balancing numbers.”",
+        "Changing them changes the substance."
+      ],
+      [
+        "“A falling balance reading proves mass destruction.”",
+        "Check material crossing the boundary and measurement conditions."
+      ]
+    ],
+    "activityTitle": "Rebuild and audit the reaction",
+    "activity": "Draw the three reactant molecules with labelled C and O tokens, then rearrange exactly those tokens into two CO₂ molecules. Add the word equation and an atom-count table. Explain separately why the open assembly’s mass change does not overturn conservation.",
+    "adjust": "Support: inventory atoms before drawing groups. Core: justify each coefficient. Extend: explain how a gaseous reactant entering an open system can produce an apparent mass gain.",
+    "safety": "This is a paper-model task. Do not handle carbon monoxide, burn substances, mix chemicals or seal a gas-producing reaction for this activity.",
+    "tricky": [
+      [
+        "Are 4CO + 2O₂ → 4CO₂ atom counts balanced?",
+        "Yes, but the coefficients have a common factor of two. The smallest whole-number ratio is 2:1:2."
+      ],
+      [
+        "Does balancing force a real reaction to happen completely?",
+        "No. It represents the atom ratios of the stated reaction, not reaction speed, feasibility or complete conversion."
+      ],
+      [
+        "Can atoms change element identity in an ordinary chemical reaction?",
+        "No. Chemical reactions rearrange atoms and bonds. Nuclear changes, considered in a different topic, can change proton number and element identity."
+      ]
+    ],
+    "faq": [
+      [
+        "Why count oxygen from every formula?",
+        "The same element can occur in more than one reactant or product; conservation concerns the total count of that element."
+      ],
+      [
+        "Does an unchanged mass reading prove every part of the method is flawless?",
+        "No. Check calibration, resolution, leaks and other changes. Mass agreement supports the account but does not independently validate every assumption."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S9H01",
+    "short": "Publication and peer review",
+    "title": "Follow a claim through scrutiny and revision",
+    "intro": "Explain how publication, expert review, independent checking and new evidence validate and refine scientific knowledge.",
+    "exampleTitle": "A reviewed result can support a narrower claim than its headline",
+    "example": "A fictional coating study tests three independently prepared panels per coating for 10 minutes. Panel material, size, coating amount, starting and ambient temperature of 22°C, lamp intensity, distance and angle are matched; positions are randomised. A gives 28, 29 and 28°C; B gives 31, 32 and 31°C. The means are about 28.3 and 31.3°C, a 3°C difference. These endpoint temperatures do not establish the headline “A cuts every building’s energy bills by 40%”. A reviewer can ask for clearer methods, appropriate interpretation and further testing; review cannot invent the missing building-energy evidence.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Fictional evidence packet</th><th scope=\"col\">What can be checked</th></tr></thead><tbody><tr><td>A panel temperatures</td><td>28, 29, 28°C; mean about 28.3°C</td></tr><tr><td>B panel temperatures</td><td>31, 32, 31°C; mean about 31.3°C</td></tr><tr><td>Measured outcome</td><td>Panel temperature after 10 minutes under the specified lamp conditions</td></tr><tr><td>Unmeasured headline outcome</td><td>Energy bills across all buildings; no 40% saving data supplied</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Explain publication and expert scrutiny",
+        "Researchers report methods, data, analysis and conclusions so others can examine them. An editor screens a submission; relevant experts may critique it; authors respond and revise; an editor decides whether it is suitable for publication. The details vary by journal. Review can find weak controls or overclaims but is not a guarantee of truth or a repetition of every experiment.",
+        "<div class=\"evidence\">A reviewer agrees the supplied coating arithmetic is correct but says the energy-bill headline exceeds the measured outcome.</div>",
+        "What revision is justified without collecting new evidence?",
+        "Narrow the conclusion to the tested panel-temperature comparison and report its methods, variation and limits. Correct arithmetic does not supply building-energy results, and a revised plan is not a completed new study."
+      ],
+      [
+        "Describe what an independent check actually does",
+        "Recomputing means from saved data checks analysis. Collecting new data with a documented method tests whether a result appears again. Testing other conditions examines scope. Terms such as reproducibility and replication vary across fields, so state the action. Confidence depends on quality, relevance and consistency, not simply counting papers.",
+        "<div class=\"evidence\">Scenario P: one small study with incomplete methods. Q: five independent, well-controlled studies with consistent results in the relevant conditions. R: twelve studies with mixed results and serious method differences.</div>",
+        "Which packet most strongly supports a consistent effect in its stated conditions, and why?",
+        "Q provides the strongest stated support because it combines relevant methods and consistent independent evidence. R’s larger count does not resolve its conflicts; P needs more transparent methods. This ranking relies on the supplied quality descriptions, not a universal rule that five papers always beat twelve."
+      ],
+      [
+        "Refine the public record proportionately",
+        "Checking continues after publication through critique, reanalysis and new studies. If original records verify a minor caption error while central findings remain sound, publish a linked correction. Credible concerns about central reliability need investigation and may lead to a concern notice or retraction. Neither a correction nor a retraction automatically proves dishonesty.",
+        "<div class=\"evidence\">Case A: a verified caption typo leaves every calculation and central conclusion unchanged. Case B: key records cannot support the paper’s central finding, and the problem is under investigation.</div>",
+        "Why should the responses differ?",
+        "A calls for a transparent correction linked to the record. B concerns central reliability and needs investigation and an appropriate editorial response, potentially retraction. Do not hide either issue or assume the cause was fraud without evidence."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Peer reviewed means proved forever.”",
+        "Review adds scrutiny; later evidence can still change confidence."
+      ],
+      [
+        "“Reviewers repeated every experiment.”",
+        "Expert review and new-data investigation are different actions."
+      ],
+      [
+        "“A revised method supplies new results.”",
+        "A better plan must still be conducted before its outcomes exist."
+      ]
+    ],
+    "activityTitle": "Write and answer a reviewer comment",
+    "activity": "Use the coating packet to write one precise review comment about the headline and one about reporting. Draft an author response that narrows the claim and identifies the further evidence needed. Explain what publication would allow other scientists to check.",
+    "adjust": "Support: use claim–measurement–limit headings. Core: make an evidence-linked revision. Extend: propose a new-data study that tests whether the panel effect transfers to a different condition.",
+    "safety": "Use the fictional records only. No coating, heating, human/animal research, journal submission or public accusation is required.",
+    "tricky": [
+      [
+        "Does journal rejection always mean a claim is false?",
+        "No. Editors can reject for scope, clarity, suitability or evidence problems. Examine the reason rather than treating rejection as a universal scientific verdict."
+      ],
+      [
+        "Does one failure to find an effect prove every earlier result wrong?",
+        "No. Compare methods, conditions, uncertainty and possible error. Repeated credible conflicts may narrow or undermine a claim, but the judgement depends on the evidence."
+      ],
+      [
+        "Can a preprint be useful before peer review?",
+        "Yes, if its status and limitations are clear and its methods are examined. It is neither automatically false nor equivalent to a completed review process."
+      ]
+    ],
+    "faq": [
+      [
+        "What should an author do with uncomfortable evidence?",
+        "Report it accurately, check the method and analysis, and revise the claim when the balance of evidence warrants it."
+      ],
+      [
+        "Is changing a scientific model a failure?",
+        "An evidence-supported revision can improve an explanation while retaining earlier successes within their proper limits."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S9H02",
+    "short": "Science, technology and engineering",
+    "title": "Trace the two directions of development",
+    "intro": "Investigate how technologies enable new scientific evidence and how scientific questions and knowledge guide technological and engineering advances.",
+    "exampleTitle": "A scientific question can create an engineering need",
+    "example": "In the historical development of penicillin, an inhibition observation raised questions about the active material. Biological and chemical investigation required sensitive tests and usable preparations. Oxford team members developed complementary methods and apparatus: Heatley’s assays, extraction equipment and culture vessels helped make preparation and comparison possible, while others improved apparatus or tested biological properties. Later structural work, including Hodgkin’s crystallography, helped distinguish proposed molecular structures. The useful account is a loop of questions, knowledge, tools and evidence, rather than one inventor or one observation proving a finished medicine.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Scientific need or understanding</th><th scope=\"col\">Changed technological capability</th><th scope=\"col\">Evidence or further question enabled</th></tr></thead><tbody><tr><td>Investigate growth-inhibiting material</td><td>Sensitive biological assays and extraction methods</td><td>Compare activity during isolation and preparation</td></tr><tr><td>Obtain usable material for investigation</td><td>Purpose-designed culture vessels and improved apparatus</td><td>Prepare material for further biological and chemical testing</td></tr><tr><td>Distinguish structural proposals</td><td>Crystallographic measurement and analysis</td><td>Evidence bearing on competing molecular structures</td></tr><tr><td>Interpret the history responsibly</td><td>Compare complementary contributions and limits</td><td>An early laboratory observation alone did not establish clinical efficacy</td></tr></tbody></table></div><div class=\"evidence\">Historical basis: University of Oxford Dunn School, “The discovery of penicillin”; Howard W. Florey, Nobel lecture, 11 December 1945, selected coordinated-methods discussion. These are historical explanations, not present-day treatment advice or a practical protocol.</div>",
+    "steps": [
+      [
+        "Explain technology enabling science",
+        "Name the capability that changed and the evidence it allowed. Greater sensitivity can reveal smaller effects; better preparation can make a comparison possible; a new detector can observe what unaided senses cannot. In the historical case, sensitive assays and extraction apparatus supported investigation of active preparations. “A machine was invented” is not a complete causal explanation.",
+        "<div class=\"evidence\">A student writes: “Better equipment helped the penicillin team.”</div>",
+        "Add the missing scientific link using the supplied history.",
+        "For example: sensitive assays let investigators compare biological activity during isolation, while extraction apparatus helped obtain material suitable for further tests. State what was measured or prepared rather than merely praising equipment."
+      ],
+      [
+        "Explain science guiding engineering",
+        "Scientific explanations and questions identify what a device must do. Engineering then develops and tests solutions under constraints such as sensitivity, capacity, safety, reliability and cost. Biological and chemical investigation of an active material created practical needs for assays, culture vessels and extraction methods; design choices were directed toward those needs.",
+        "<div class=\"evidence\">An investigation needs comparable preparations and a test sensitive enough to distinguish their activity.</div>",
+        "What design criteria follow from that scientific need?",
+        "The preparation method should produce usable, comparable material, and the assay should detect the relevant activity consistently. Capacity, contamination control and reliable measurement can matter. A larger apparatus is not automatically a better scientific solution."
+      ],
+      [
+        "Close the reciprocal loop and test limits",
+        "Scientific need guides a tool; improved capability provides evidence; interpretation refines questions or models; those changes can guide further tool development. Team roles, calibration, controls and interpretation remain necessary. A stronger detector can reveal a real new pattern or an artefact, so newness alone does not settle the science.",
+        "<div class=\"evidence\">A new sensor reveals an unexpected pattern. No independent instrument check or alternative measurement is yet available.</div>",
+        "What should scientists and engineers do next?",
+        "Check calibration, settings, sampling and processing; compare suitable independent measurements and model predictions. Engineers can investigate instrument effects while scientists test explanations. Treat the pattern as a question to investigate, not automatic proof of a new phenomenon."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“The relationship only runs science → technology.”",
+        "Tools can also produce evidence that changes scientific understanding."
+      ],
+      [
+        "“Newer equipment guarantees a valid conclusion.”",
+        "Method, calibration and interpretation still matter."
+      ],
+      [
+        "“One laboratory observation proves a finished application.”",
+        "Preparation, further tests, context and other evidence may still be needed."
+      ]
+    ],
+    "activityTitle": "Build a reciprocal evidence chain",
+    "activity": "Use the historical table to draw scientific question → design need → changed tool or method → new evidence → revised question. Name two complementary contributions and one limit of the evidence. Then adapt the chain to a familiar instrument without inventing its history.",
+    "adjust": "Support: use verbs such as enabled comparison and guided design. Core: show both directions. Extend: identify an engineering constraint that could produce a new scientific uncertainty.",
+    "safety": "Use the historical text and paper diagrams. Do not grow mould, culture microorganisms, handle antibiotics or infer a personal treatment from this case.",
+    "tricky": [
+      [
+        "Do science, technology and engineering mean exactly the same thing?",
+        "No. Science develops evidence-based explanations; technologies extend capabilities; engineering designs and tests solutions under constraints. Their work can overlap."
+      ],
+      [
+        "Does a timeline alone establish that one invention caused a discovery?",
+        "No. Explain the changed capability and the evidence link, and consider other contributions and conditions."
+      ],
+      [
+        "Must every useful technology begin with a formal scientific discovery?",
+        "No. Practical design and experience can also generate technologies and new scientific questions. Avoid a universal one-way origin story."
+      ]
+    ],
+    "faq": [
+      [
+        "Why discuss several people and methods?",
+        "Specific complementary work explains how a development became possible and avoids treating shared progress as one person’s isolated achievement."
+      ],
+      [
+        "Why was an early inhibition observation not enough to establish a useful medicine?",
+        "It showed a biological effect under particular conditions. Isolation, preparation, further biological testing and evidence about an application were still needed; an observation cannot establish every later claim."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S9H03",
+    "short": "Adoption of scientific knowledge and practices",
+    "title": "Explain why evidence and uptake can differ",
+    "intro": "Analyse how evidence, trust, communication, cost, access, infrastructure and values interact when society adopts scientific knowledge or practices.",
+    "exampleTitle": "A forty per cent energy reduction is not a forty per cent adoption rate",
+    "example": "In this fictional school case, matched lighting tests provide the same useful illumination over the same four-hour task. The old option uses 100 Wh and the new option 60 Wh: a 40% input-energy reduction for that defined task. Twelve of twenty classrooms adopt the new option, so uptake is 60%. The eight remaining rooms report one primary barrier each: four budget, three wiring and one glare concern. These records separate measured performance from adoption and do not establish whole-building savings or a universal reason for other schools’ decisions.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Supplied fictional record</th><th scope=\"col\">Interpretation</th><th scope=\"col\">Limit</th></tr></thead><tbody><tr><td>100 Wh → 60 Wh for the same illumination and four-hour task</td><td>40% input-energy reduction</td><td>Not every building’s total energy saving</td></tr><tr><td>12 of 20 classrooms adopt</td><td>60% uptake</td><td>Not a measure of scientific validity</td></tr><tr><td>8 remaining: 4 budget, 3 wiring, 1 glare concern</td><td>Reported primary barriers in this school</td><td>Other factors may interact; not general-population causal proof</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Separate evidence quality from adoption",
+        "Validity asks whether evidence supports a claim. Adoption asks whether people or organisations use a practice. A well-supported local performance claim can coexist with low uptake if installation is unaffordable or unsuitable. High uptake can also occur without strong evidence. Use a relevant measure for each question.",
+        "<div class=\"evidence\">Claim: “Only 60% adopted, so the 40% energy result must be false.”</div>",
+        "Why does that conclusion not follow?",
+        "Uptake and the controlled energy comparison measure different things. Check the test methods for the performance claim and investigate barriers for the adoption question. Adoption alone neither validates nor disproves the measured result."
+      ],
+      [
+        "Analyse interacting barriers",
+        "Cost can affect installation, infrastructure can affect cost, and comfort or trust can affect whether a usable option is acceptable. A poster may improve understanding while leaving wiring problems unresolved. Reported primary reasons are useful leads, but one factor can hide or interact with another; do not assume people who have not adopted lack scientific understanding.",
+        "<div class=\"evidence\">Three rooms report wiring problems. A proposed response is to send the same energy-saving poster to every classroom.</div>",
+        "What does the response address, and what might remain?",
+        "It can communicate the evidence but does not repair wiring or fund installation. Assess the actual infrastructure, costs and safe installation options with the appropriate school staff, while listening to other concerns."
+      ],
+      [
+        "Compare stakeholders and evaluate a response",
+        "People who share an environmental goal can still face different constraints or weigh comfort and costs differently. Seek relevant evidence and accessible feedback, explain uncertainty, and compare workable options. Policy or school purchasing can change availability, but authority and popularity do not replace evidence about outcomes.",
+        "<div class=\"evidence\">A room reports glare concern; its occupants accept the energy data but find the light uncomfortable. The proposal offers no alternative fitting or trial.</div>",
+        "What evidence-informed response respects both performance and access?",
+        "Investigate the glare conditions and suitable alternatives, provide a way to test comfort and useful illumination, and compare energy use and cost for the viable options. Acceptance of the scientific result does not require adopting an unsuitable installation."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Strong evidence guarantees immediate uptake.”",
+        "Practical and social conditions can still prevent use."
+      ],
+      [
+        "“Popularity proves a claim true.”",
+        "Scientific validity depends on evidence and methods."
+      ],
+      [
+        "“One message fixes every barrier.”",
+        "Communication, access, costs and infrastructure can require different responses."
+      ]
+    ],
+    "activityTitle": "Propose and test an adoption explanation",
+    "activity": "Calculate the two percentages and label their different denominators. Choose one reported barrier, explain how it could interact with another factor, and propose an evidence collection plan before recommending a response. State who benefits, who might face burdens and what should be monitored.",
+    "adjust": "Support: sort validity and uptake statements first. Core: connect factors with because. Extend: explain how a fair comparison could distinguish improved access from improved persuasion without assuming either caused every change.",
+    "safety": "Use the fictional school records. Do not inspect wiring, alter electrical equipment, survey identifiable people or publish a real recommendation for this activity.",
+    "tricky": [
+      [
+        "Do the 100/60 Wh values establish that one device operates faster?",
+        "No. Both records refer to the same four-hour task; energy use does not by itself establish performance speed or general power under other conditions."
+      ],
+      [
+        "Can the four budget reports establish that a subsidy would guarantee adoption?",
+        "No. They identify a primary reported barrier, but other conditions may also matter. Investigate feasibility and monitor actual outcomes rather than promise universal uptake."
+      ],
+      [
+        "Can the same evidence reasonably lead to different decisions in different communities?",
+        "Yes. Costs, needs, infrastructure, values and available alternatives can differ. Distinguish those decision factors from whether the scientific evidence is accurate."
+      ]
+    ],
+    "faq": [
+      [
+        "Is trust the same as accepting every claim?",
+        "No. Trust can involve confidence in competence, transparency and responsiveness while still asking for evidence and acknowledging uncertainty."
+      ],
+      [
+        "What should we measure after a change?",
+        "Use indicators matched to the goal: actual uptake, relevant performance, accessibility, costs and unintended effects. Explain the limits of any before/after causal claim."
+      ]
+    ]
+  }
+]
