@@ -1,0 +1,444 @@
+[
+  {
+    "code": "AC9S9U01",
+    "descriptor": "compare the role of body systems in regulating and coordinating the body’s response to a stimulus, and describe the operation of a negative feedback mechanism",
+    "source_basis_decision": "SUFFICIENT — BOUNDED CORE",
+    "product_status": "READY TO DRAFT subject to independent plan review",
+    "focuses": [
+      {
+        "id": "F1",
+        "intention": "Compare nervous/endocrine coordination",
+        "status": "SUFFICIENT",
+        "evidence": [
+          "OS-NEURAL-ENDOCRINE",
+          "VED-COORDINATION",
+          "OS-FEEDBACK-CRITIQUE"
+        ],
+        "basis": "Complete nervous/endocrine signalling comparison gives routes, receptors, typical timing and exceptions; common endocrine/reproductive organ example and actual synapse/coordination questions support cooperation rather than categorical fast/slow slogans."
+      },
+      {
+        "id": "F2",
+        "intention": "Trace stimulus–receptor–control–effector",
+        "status": "SUFFICIENT",
+        "evidence": [
+          "OS-HOMEOSTASIS",
+          "OS-FEEDBACK-REVIEW",
+          "VED-COORDINATION"
+        ],
+        "basis": "Hot/cold stimulus→sensor→temperature control→effector→response methods and selected sensory/control/effector questions support complete causal pathways, not isolated organ naming."
+      },
+      {
+        "id": "F3",
+        "intention": "Explain negative feedback from a deviation",
+        "status": "SUFFICIENT",
+        "evidence": [
+          "OS-GLUCOSE-FEEDBACK",
+          "OS-HOMEOSTASIS",
+          "OS-FEEDBACK-CRITIQUE",
+          "O-FEEDBACK"
+        ],
+        "basis": "Opposite glucose/thermal deviations trigger opposing feedback; reducing initial deviation reduces response. Actual excess-chemical/cold-cabin explanation tasks and original faulty-loop check support causal explanation and correction, with fixed clinical ranges excluded."
+      }
+    ],
+    "original_model_title": "Feedback direction and cooperating systems",
+    "original_model_plan": "Original two-direction negative-feedback model: warm deviation→thermoreceptors/control centre→sweat evaporation and skin vasodilation→greater heat loss under suitable conditions→deviation reduced, response decreases; cold pathway reverses heat-loss/production responses. Compare nervous signal routes with endocrine circulation/target receptors and glucose insulin/glucagon loops. No fixed clinical thresholds, diagnosis, treatment or real human experiment. Focuses compare systems, trace complete pathway, explain opposing feedback. Diagram labels are causal roles, not anatomical positions."
+  },
+  {
+    "code": "AC9S9U02",
+    "descriptor": "describe the form and function of reproductive cells and organs in animals and plants, and analyse how the processes of sexual and asexual reproduction enable survival of the species",
+    "source_basis_decision": "SUFFICIENT — BOUNDED CORE",
+    "product_status": "READY TO DRAFT subject to independent plan review",
+    "focuses": [
+      {
+        "id": "F1",
+        "intention": "Relate animal reproductive structures to function",
+        "status": "SUFFICIENT",
+        "evidence": [
+          "OS-ANIMAL-ORGANS",
+          "OS-ANIMAL-REVIEW",
+          "VED-REPRODUCTION"
+        ],
+        "basis": "Selected human animal system provides sperm/egg structures, production/transport/fertilisation/support roles and full actual organ-function questions, with neutral scientifically accurate language and no clinical instruction."
+      },
+      {
+        "id": "F2",
+        "intention": "Relate plant organs/gametes to reproduction",
+        "status": "SUFFICIENT",
+        "evidence": [
+          "OS-FLOWER-STRUCTURE",
+          "OS-POLLINATION-FERTILISATION",
+          "OS-PLANT-REVIEW",
+          "VED-REPRODUCTION"
+        ],
+        "basis": "Anther/filament and stigma/style/ovary/ovule functions link pollen transfer to tube growth, sperm–egg fusion, zygote/seed development. Actual missing-anther, stigma/seed and pollination-versus-fertilisation questions are complete in text; no unseen flower labels."
+      },
+      {
+        "id": "F3",
+        "intention": "Analyse sexual/asexual strategy trade-offs",
+        "status": "SUFFICIENT",
+        "evidence": [
+          "OS-ANIMAL-REPRODUCTION",
+          "OS-PLANT-ASEXUAL",
+          "OS-ANIMAL-REVIEW",
+          "VED-REPRODUCTION",
+          "O-STRATEGY"
+        ],
+        "basis": "Complete sexual/asexual mechanisms and actual comparison/advantage questions address rapid establishment/mate or pollinator needs versus inherited diversity under change. Self-fertilisation remains sexual; mutation and environmental context prevent deterministic species-survival claims."
+      }
+    ],
+    "original_model_title": "Reproductive form, function and strategy",
+    "original_model_plan": "Original two-panel functional pathway animal gametes/transport/fertilisation versus flower pollen/tube/gamete fusion/seed. Animal human example: sperm head/genetic material, flagellum and mitochondria; testes, ovary, oviduct, uterus roles. Flower anther→stigma→pollen tube through style→sperm+egg in ovule→zygote, fertilised ovule seed, ovary usually fruit. Worked comparison self-pollinating flower sexual versus strawberry runner asexual: one individual does not determine mode. Survival trade-offs conditional, no genetic guarantee or clinical/contraceptive detail. No live dissection or propagation."
+  },
+  {
+    "code": "AC9S9U03",
+    "descriptor": "represent the carbon cycle and examine how key processes including combustion, photosynthesis and respiration rely on interactions between Earth’s spheres (the geosphere, biosphere, hydrosphere and atmosphere)",
+    "source_basis_decision": "SUFFICIENT — BOUNDED CORE",
+    "product_status": "READY TO DRAFT subject to independent plan review",
+    "focuses": [
+      {
+        "id": "F1",
+        "intention": "Represent carbon stores across four spheres",
+        "status": "SUFFICIENT",
+        "evidence": [
+          "NASA-CARBON-PROCESSES",
+          "CAS-CARBON-ROLEPLAY",
+          "O-CARBON-BOUNDARY"
+        ],
+        "basis": "All four spheres have identified carbon stores and fully specified terrestrial/aquatic role routes. Separate living organism membership from its water location and stored quantities from transfer rates."
+      },
+      {
+        "id": "F2",
+        "intention": "Trace photosynthesis/respiration/combustion fluxes",
+        "status": "SUFFICIENT",
+        "evidence": [
+          "CAS-CARBON-ROLEPLAY",
+          "NASA-CARBON-PROCESSES"
+        ],
+        "basis": "Complete seven-group route table, token/arrow procedure and explanation tasks cover photosynthesis, respiration, feeding, decomposition, burial, combustion and geological/ocean exchange, with ordinary chemical carbon conservation."
+      },
+      {
+        "id": "F3",
+        "intention": "Explain coupled spheres and altered rates",
+        "status": "SUFFICIENT",
+        "evidence": [
+          "CAS-CARBON-ROLEPLAY",
+          "NOAA-CARBON-COMPARISON",
+          "NASA-CARBON-PROCESSES",
+          "O-CARBON-RATE"
+        ],
+        "basis": "Actual human-impact and pre/postindustrial comparison prompts support coupled-system/rate reasoning. Original finite-box calculation is explicit synthetic analysis. Exact NOAA cube probabilities/current climate graphs excluded; complete CAS qualitative model is sufficient for intended core."
+      }
+    ],
+    "original_model_title": "Carbon stores, transfers and changed rates",
+    "original_model_plan": "Original four-sphere route model with labelled photosynthesis/respiration/combustion/ocean exchange/burial arrows. Original toy atmospheric account per equal timestep: geosphere combustion11units + biosphere respiration6, minus photosynthesis9 and net ocean uptake5 → +3units in air. Not actual Earth fluxes, probabilities or current climate measurements. Living algae belong to biosphere even in water; plants respire. Carbon conserved across whole boundary; distinguish carbon cycling from energy transfer and rate from stock."
+  },
+  {
+    "code": "AC9S9U04",
+    "descriptor": "use wave and particle models to describe energy transfer through different mediums and examine the usefulness of each model for explaining phenomena",
+    "source_basis_decision": "SUFFICIENT — BOUNDED CORE",
+    "product_status": "READY TO DRAFT subject to independent plan review",
+    "focuses": [
+      {
+        "id": "F1",
+        "intention": "Model wave energy and medium-particle motion",
+        "status": "SUFFICIENT",
+        "evidence": [
+          "OS-WAVES-MODEL",
+          "OS-WAVE-MEASUREMENT"
+        ],
+        "basis": "Mechanical transverse/longitudinal oscillation versus propagating disturbance is explicit; full bowl method and numerical wave examples distinguish material particle motion from energy/wave travel. Ideal-model water-motion errors corrected."
+      },
+      {
+        "id": "F2",
+        "intention": "Explain transfer through materials/vacuum",
+        "status": "SUFFICIENT",
+        "evidence": [
+          "OS-WAVES-MODEL",
+          "OS-THERMAL-PARTICLE"
+        ],
+        "basis": "Material properties and interactions enable mechanical waves/conduction/convection; EM radiation crosses vacuum. Actual same-temperature touch explanations support particle transfer, while mechanical medium contrasts prevent sound-through-vacuum misconceptions."
+      },
+      {
+        "id": "F3",
+        "intention": "Compare model usefulness and limitations",
+        "status": "SUFFICIENT",
+        "evidence": [
+          "OS-WAVES-MODEL",
+          "OS-WAVE-MEASUREMENT",
+          "OS-THERMAL-PARTICLE",
+          "O-MODEL-CHOICE"
+        ],
+        "basis": "Source examples plus explicit original model-choice check compare useful predictions and limits: particle/local interactions for thermal transfer, disturbance models for sound/EM, no collision-only vacuum explanation. Quantitative wave illustration is bounded; no source animation/pixels/practical result required."
+      }
+    ],
+    "original_model_title": "Wave and particle models for a purpose",
+    "original_model_plan": "Original paired panels: ideal transverse-string displacement perpendicular to energy/wave travel; material-particle interactions for conduction. Distinct longitudinal air-pressure/sound model explained in prose and tasks, with sound requiring medium and EM radiation across vacuum. Original ideal string wave givens f4Hz, wavelength0.75m → speed3m/s, period0.25s, not sound speed in air. Compare wave/particle model predictions and limits, conduction/convection and simultaneous mechanisms. No quantum duality or dangerous heating practical; not universal no mass transport in ocean waves."
+  },
+  {
+    "code": "AC9S9U05",
+    "descriptor": "apply the law of conservation of energy to analyse system efficiency in terms of energy inputs, outputs, transfers and transformations",
+    "source_basis_decision": "SUFFICIENT — BOUNDED CORE",
+    "product_status": "READY TO DRAFT subject to independent plan review",
+    "focuses": [
+      {
+        "id": "F1",
+        "intention": "Define system and conserve total energy",
+        "status": "SUFFICIENT",
+        "evidence": [
+          "OS-HEAT-WORK-BOUNDARY",
+          "OS-EFFICIENCY-LEVER",
+          "PEARSON-SANKEY-TASKS"
+        ],
+        "basis": "Source work/internal-energy and full input/useful/other-transfer accounting support conserved total energy while chosen useful output decreases. System boundary and purpose explicit; sound treated as wave transfer, not permanent energy store."
+      },
+      {
+        "id": "F2",
+        "intention": "Calculate useful-output efficiency",
+        "status": "SUFFICIENT",
+        "evidence": [
+          "PEARSON-SANKEY-TASKS",
+          "OS-EFFICIENCY-LEVER"
+        ],
+        "basis": "Complete computer, powerstation and lever givens/checked keys supply energy/work units, useful-input ratio and residual accounting, including already-specified output purpose. No formula inversion or equal-molecule/force ratio confusion."
+      },
+      {
+        "id": "F3",
+        "intention": "Interpret energy/Sankey accounts and fair comparisons",
+        "status": "SUFFICIENT",
+        "evidence": [
+          "PEARSON-SANKEY-TASKS",
+          "OS-EFFICIENCY-LEVER",
+          "O-FAIR-EFFICIENCY"
+        ],
+        "basis": "Complete numeric proportional-Sankey tasks with checked widths plus efficiency/force-distance example support construction and explanation. Original device comparison checks equal purpose/output/time, unit consistency and limitations of comparing unlike devices."
+      }
+    ],
+    "original_model_title": "Purpose, conservation and fair efficiency",
+    "original_model_plan": "Original proportional energy/Sankey account for fictional device A:360J input,270J useful output,72J heating transfer,18J sound transfer;75% efficiency. Draw exact120px input band split90/24/6px, readable separate sound label. Same useful270J task for B with300Jinput→90%; compare equal purpose/output and unknown times. Specify interval, boundary and no net stored-energy change. Other outputs not destroyed, heat is a transfer not fluid, energy and power not mixed. No purchasing recommendation."
+  },
+  {
+    "code": "AC9S9U06",
+    "descriptor": "explain how the model of the atom changed following the discovery of electrons, protons and neutrons and describe how natural radioactive decay results in stable atoms",
+    "source_basis_decision": "SUFFICIENT — BOUNDED CORE",
+    "product_status": "READY TO DRAFT subject to independent plan review",
+    "focuses": [
+      {
+        "id": "F1",
+        "intention": "Link particle discoveries to atomic-model revision",
+        "status": "SUFFICIENT",
+        "evidence": [
+          "OS-ATOMIC-EVIDENCE",
+          "CHADWICK-PRIMARY",
+          "RSC-ATOMIC-TASKS",
+          "VED-ATOM-TASKS"
+        ],
+        "basis": "Actual cathode-ray/scattering/recoil evidence supports electron, concentrated positive nucleus/proton and neutron model development; complete textual interpretation/order/scale/model-limit tasks. Evidence for each discovery distinguished; no unseen microscopic or apparatus data claim."
+      },
+      {
+        "id": "F2",
+        "intention": "Interpret isotope/particle notation",
+        "status": "SUFFICIENT",
+        "evidence": [
+          "VED-ATOM-TASKS",
+          "OS-ATOM-NOTATION"
+        ],
+        "basis": "Complete actual proton/neutron/neutral-electron and isotope/isobar data give Z/A/charge reasoning, notation and checked answers. Isotope identity versus ion charge/mass number distinct; weighted mean atomic mass not a prerequisite."
+      },
+      {
+        "id": "F3",
+        "intention": "Explain natural decay and stable daughter chains",
+        "status": "SUFFICIENT",
+        "evidence": [
+          "OS-DECAY-MODES",
+          "OS-NUCLEAR-EQUATIONS",
+          "ANSTO-C14-METHOD",
+          "ANSTO-NATURAL-SERIES",
+          "O-DECAY-CHAIN"
+        ],
+        "basis": "Alpha/beta−/gamma changes and nuclear accounting are explicit; actual natural main-chain table reaches stablePb206, with intermediate radioactive daughters and checkable emitted-particle totals. Gamma de-excitation alone not automatic stable atom; electron/antineutrino distinction preserved."
+      }
+    ],
+    "original_model_title": "Evidence changes atomic models; natural decay",
+    "original_model_plan": "Original evidence/model sequence: cathode charge→electron-containing atom; rare large scattering→tiny massive positive nucleus, not discovery of every nucleon; later proton evidence and Chadwick neutral near-proton-mass particle→neutron. Original neutral silicon28/30 withZ14 gives14p/14or16n/14e. Natural C14beta−→N14stable; U238alpha→Th234stillunstable contrasts stable endpoint versus intermediate daughter. Gamma sameA/Z lower excitation not assurance of total stability; electron/antineutrino distinction. No classical exact electron orbits, quantitative decay kinetics, radiation/sample or clinical task."
+  },
+  {
+    "code": "AC9S9U07",
+    "descriptor": "model the rearrangement of atoms in chemical reactions using a range of representations, including word and simple balanced chemical equations, and use these to demonstrate the law of conservation of mass",
+    "source_basis_decision": "SUFFICIENT — BOUNDED CORE",
+    "product_status": "READY TO DRAFT subject to independent plan review",
+    "focuses": [
+      {
+        "id": "F1",
+        "intention": "Translate word/particle/formula representations",
+        "status": "SUFFICIENT",
+        "evidence": [
+          "ACS-ATOM-REARRANGEMENT",
+          "OS-BALANCING-METHOD",
+          "VED-CHEMICAL-EQUATIONS"
+        ],
+        "basis": "Complete atom-token build/rearrange/label procedure and actual word→formula translation questions connect macroscopic names, particles and symbols. No created/destroyed elemental atoms in ordinary reaction; substances/bonds change."
+      },
+      {
+        "id": "F2",
+        "intention": "Balance via count–adjust–recount",
+        "status": "SUFFICIENT",
+        "evidence": [
+          "OS-BALANCING-METHOD",
+          "VED-CHEMICAL-EQUATIONS",
+          "O-SUBSCRIPT-REPAIR"
+        ],
+        "basis": "Full count→coefficient-adjust→recount methods, water/nitrogen oxide examples and varied already-balanced/translation/reaction equations have checked keys. Coefficient scales formula; changing subscripts changes identity."
+      },
+      {
+        "id": "F3",
+        "intention": "Explain mass conservation within system boundary",
+        "status": "SUFFICIENT",
+        "evidence": [
+          "PERKINS-MASS-METHOD",
+          "ACS-ATOM-REARRANGEMENT",
+          "O-MASS-BOUNDARY"
+        ],
+        "basis": "Published complete captured-gas weighing procedure defines all-material system boundary, before/after measurements and close-mass expectation. Original open-release dataset separates escaped gas from destroyed mass and flags measurement/buoyancy limits; no source numeric or physical result invented."
+      }
+    ],
+    "original_model_title": "Three representations and conserved atoms/mass",
+    "original_model_plan": "Original labelled molecular model2CO+O2→2CO2, word equation carbon monoxide+oxygen→carbon dioxide. Reuse same2C/4O tokens, correct molecule groups; products2molecules vsreactants3 does not break atom conservation. Change coefficients not subscripts; no real CO reaction/practical. Separate fictional gas-forming teacher record: complete closed assembly152.6g before/after; after gas leaves measured boundary151.8g, loss0.8g material crossing boundary, not mass destroyed. State this is a separate reaction record, not inferred CO experiment; avoid exact gas mass without other-loss assumptions."
+  },
+  {
+    "code": "AC9S9H01",
+    "descriptor": "explain how scientific knowledge is validated and refined, including the role of publication and peer review",
+    "source_basis_decision": "SUFFICIENT — BOUNDED CORE",
+    "product_status": "READY TO DRAFT subject to independent plan review",
+    "focuses": [
+      {
+        "id": "F1",
+        "intention": "Explain publication and expert review workflow",
+        "status": "SUFFICIENT",
+        "evidence": [
+          "RSC-EDITORIAL-POLICY",
+          "NATURE-REVISION-POLICY",
+          "RSC-REVIEW-CHECKLIST",
+          "RSC-REVIEW-CASE"
+        ],
+        "basis": "Primary editorial workflow and full source case/checklist connect publication, independent expert evidence checks, revisions and decision. Rejection can concern quality/scope; editorial acceptance is not guaranteed truth."
+      },
+      {
+        "id": "F2",
+        "intention": "Evaluate independent checking and peer-review limits",
+        "status": "SUFFICIENT",
+        "evidence": [
+          "RSC-REVIEW-LIMITS",
+          "RSC-REVIEW-CASE",
+          "NASEM-CHECKING-TERMS"
+        ],
+        "basis": "Complete fictional study/method/results/claim and teacher judgements expose sample, measurement, control and conflict limits. Distinguish reviewing from redoing experiments/recomputing/new-data studies, with terminology variation explicit."
+      },
+      {
+        "id": "F3",
+        "intention": "Link new scrutiny/evidence to refinement/correction",
+        "status": "SUFFICIENT",
+        "evidence": [
+          "RSC-REVIEW-CASE",
+          "RSC-REVIEW-CHECKLIST",
+          "RSC-EDITORIAL-POLICY",
+          "O-REVIEW-DECISION"
+        ],
+        "basis": "Actual case feedback prescribes better specified/controlled/independent measurement, without inventing new evidence or a completed revised trial. Primary correction/concern/retraction policy demonstrates ongoing postpublication scrutiny and proportionate response. This is a complete educational case, not claimed actual paired paper/trial history."
+      }
+    ],
+    "original_model_title": "Publication, scrutiny and proportionate refinement",
+    "original_model_plan": "Original fictional coating report: independently prepared panels A28,29,28°C;B31,32,31°C after10min under specified matched lamp conditions, randomised positions, threepanels/coating. About28.3vs31.3°C,3°C group-mean difference; does not establish claim all-building bills cut40%. Full reviewer checklist and editorial→review→revision→publication→continuedchecking workflow. Review is not repetition of every experiment. Recompute saved data versus collect new data explicitly, terminology varies. Verified minor caption error with centralfindingsunchanged→correction; centralunreliability→investigation/possible retraction, not automatic fraud. No actual paper/history/peer correspondence invented."
+  },
+  {
+    "code": "AC9S9H02",
+    "descriptor": "investigate how advances in technologies enable advances in science, and how science has contributed to developments in technologies and engineering",
+    "source_basis_decision": "SUFFICIENT — BOUNDED CORE",
+    "product_status": "READY TO DRAFT subject to independent plan review",
+    "focuses": [
+      {
+        "id": "F1",
+        "intention": "Trace technology enabling new observation/analysis",
+        "status": "SUFFICIENT",
+        "evidence": [
+          "PENICILLIN:OXFORD-PEN",
+          "PENICILLIN:FLOREY1945",
+          "PENICILLIN:NLA-TEAM"
+        ],
+        "basis": "Previously accepted F1 basis retained: improved assay, culture/extraction and crystallographic capabilities enable preparation, observation and model discrimination. Exact immutable historical records and actual specific-contribution questions reused."
+      },
+      {
+        "id": "F2",
+        "intention": "Trace science enabling engineering solutions",
+        "status": "SUFFICIENT",
+        "evidence": [
+          "PENICILLIN:OXFORD-PEN",
+          "PENICILLIN:FLOREY1945",
+          "PENICILLIN:NLA-TEAM"
+        ],
+        "basis": "Previously accepted F2 basis retained: biological/chemical questions and understanding direct apparatus and engineering solutions; explain what problem each device solved rather than list inventors."
+      },
+      {
+        "id": "F3",
+        "intention": "Explain reciprocal evidence-based development and limits",
+        "status": "SUFFICIENT",
+        "evidence": [
+          "PENICILLIN:OXFORD-PEN",
+          "PENICILLIN:FLOREY1945",
+          "PENICILLIN:NMA-PEN",
+          "PENICILLIN:NLA-TEAM",
+          "O-RECIPROCAL-CASE"
+        ],
+        "basis": "Full reciprocal case explicitly ties scientific need/understanding→purpose-designed apparatus→improved testing/preparation→new evidence/refined isolation/structure. Source tasks require timeline, significance and specific complementary contributions/limits. Clinical efficacy and uncollected boat-design data excluded; prior F1/F2 labels alone do not pass F3."
+      }
+    ],
+    "original_model_title": "Technology and science develop reciprocally",
+    "original_model_plan": "Original historical capability loop based on accepted Oxford/Florey/NMA/NLA records: inhibition observation/question→biochemical isolation and sensitive assay needs→Heatley apparatus/culture/extraction and complementary team contributions→more testable prepared material/new evidence→refined isolation/structural models. Hodgkin crystallography distinguishes structures, knowledge informs instrumentation. Specific roles/capabilities and feedback, not sole-inventor chronology. Table source-supported capabilities, inferences and limits. No invented numerical historical results, antimicrobial culture, medical efficacy/modern treatment or unplayed oral history. Other retained imaging/genomics cases reviewed proportionately as existing bounded explanations."
+  },
+  {
+    "code": "AC9S9H03",
+    "descriptor": "analyse the key factors that contribute to science knowledge and practices being adopted more broadly by society",
+    "source_basis_decision": "SUFFICIENT — BOUNDED CORE",
+    "product_status": "READY TO DRAFT subject to independent plan review",
+    "focuses": [
+      {
+        "id": "F1",
+        "intention": "Separate evidence validity from societal adoption",
+        "status": "SUFFICIENT",
+        "evidence": [
+          "PLASTICS:CSIRO-PUBLIC-PLASTICS",
+          "PLASTICS:CSIRO-PLASTIC-RELEASE",
+          "PLASTICS:BTN-PLASTIC-TRANSCRIPT",
+          "PLASTICS:QLD-CONSULTATION"
+        ],
+        "basis": "Complete accepted case distinguishes scientific observational evidence and attribution limits from public/company/government adoption. A persuasive account or94%self-selected consultation support is not universal scientific validity or population approval."
+      },
+      {
+        "id": "F2",
+        "intention": "Analyse interacting trust/access/cost/policy factors",
+        "status": "SUFFICIENT",
+        "evidence": [
+          "PLASTICS:QLD-CONSULTATION",
+          "PLASTICS:QLD-CURRENT-RULE-MESSAGE",
+          "PLASTICS:QLD-ACCESS-MESSAGE",
+          "PLASTICS:BTN-PLASTIC-TASKS"
+        ],
+        "basis": "Actual consultation/implementation links practical alternatives, cost/transition, policy authority, disability/health access and stakeholder needs. Complete published alternative/PMI/argument routine supports interacting-factor analysis with uncertainty; no causal effect-size or cost total invented."
+      },
+      {
+        "id": "F3",
+        "intention": "Evaluate stakeholder/equity and communication choices",
+        "status": "SUFFICIENT",
+        "evidence": [
+          "PLASTICS:BTN-PLASTIC-TASKS",
+          "PLASTICS:BTN-PLASTIC-TRANSCRIPT",
+          "PLASTICS:QLD-CONSULTATION",
+          "PLASTICS:QLD-ACCESS-MESSAGE",
+          "O-ADOPTION-CASE"
+        ],
+        "basis": "Actual audience/credible-evidence/argument tasks and specific rights/access/implementation positions support competing stakeholder evaluation. Reach versus persuasion and corporate versus government authority separated. Factual pollution assessment does not dictate one ethically automatic policy."
+      }
+    ],
+    "original_model_title": "Evidence validity differs from adoption",
+    "original_model_plan": "Original fictional school lighting case: matched useful illumination needs100Wh old versus60Wh new at stated condition→40% energy reduction for that task only.12of20classrooms adopt=60%uptake. Remaining8 rooms report one primary barrier each:4budget,3wiring,1glare concern. Counts not general-population proof or isolated causal research; secondary factors can interact. Original factor map evidence↔trust/comfort/cost/access/infrastructure/policy→decision→monitoring. Stakeholder choices and equity; a poster cannot fix missing infrastructure. Source method transfer from accepted plastics consultation/PMI tasks, no current law or clinical advice; no guaranteed universal best option."
+  }
+]
