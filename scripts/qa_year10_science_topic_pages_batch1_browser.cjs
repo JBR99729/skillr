@@ -38,7 +38,11 @@ fs.mkdirSync(out, {recursive:true});
             assert(result.width>=600 && result.focusable && result.scrollable,item.code+': phone diagram must remain readable and scrollable');
             await figure.evaluate(e=>e.scrollLeft=e.scrollWidth);assert(await figure.evaluate(e=>e.scrollLeft>0),item.code+': diagram scroll');await figure.evaluate(e=>e.scrollLeft=0);
             await figure.focus();await page.keyboard.press('ArrowRight');
-            await page.waitForFunction(()=>document.activeElement.scrollLeft>0);
+            for(let attempt=0;attempt<20;attempt++){
+              if(await figure.evaluate(e=>e.scrollLeft>0))break;
+              await new Promise(resolve=>setTimeout(resolve,50));
+            }
+            assert(await figure.evaluate(e=>e.scrollLeft>0),item.code+': keyboard diagram pan');
             await figure.evaluate(e=>e.scrollLeft=0);
           }
         }
