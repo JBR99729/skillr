@@ -29,7 +29,7 @@ fs.mkdirSync(out, {recursive:true});
         const retained = page.locator('#topic-guide');
         await retained.evaluate(e=>{e.open=true;e.querySelectorAll('details').forEach(d=>d.open=true)});
         for(const img of await retained.locator('img').all()){
-          await img.scrollIntoViewIfNeeded();
+          await img.evaluate(e=>e.scrollIntoView({block:'center',behavior:'instant'}));
           await img.evaluate(e=>e.loading='eager');
           await img.evaluate(e=>e.complete && e.naturalWidth ? Promise.resolve() : new Promise((resolve,reject)=>{e.addEventListener('load',resolve,{once:true});e.addEventListener('error',()=>reject(new Error('Retained image failed: '+e.src)),{once:true})}));
         }
@@ -48,7 +48,7 @@ fs.mkdirSync(out, {recursive:true});
             const keyboardPan=await figure.evaluate(e=>({scroll:e.scrollLeft,active:document.activeElement===e}));
             console.log('Keyboard pan result',item.code,JSON.stringify(keyboardPan));
             assert(keyboardPan.scroll>0,item.code+': keyboard diagram pan');
-            await figure.evaluate(e=>e.scrollLeft=0);
+            await figure.evaluate(e=>{e.blur();e.scrollTo({left:0,behavior:'instant'})});
           }
         }
 
@@ -57,10 +57,10 @@ fs.mkdirSync(out, {recursive:true});
           assert(object && object.x>=0 && object.x+object.width<=width,item.code+': chosen object must be visible before diagram panning');
         }
         let htmlIndex=0;
-        for(const model of await retained.locator('div.science-flow[role=img]').all()){await model.scrollIntoViewIfNeeded();await model.screenshot({path:path.join(out,`${item.code}-${width}-native-${++htmlIndex}.png`)});}
+        for(const model of await retained.locator('div.science-flow[role=img]').all()){await model.evaluate(e=>e.scrollIntoView({block:'center',behavior:'instant'}));await model.screenshot({path:path.join(out,`${item.code}-${width}-native-${++htmlIndex}.png`)});}
         let retainedIndex=0;
         for(const svg of await retained.locator('svg').all()){
-          await svg.scrollIntoViewIfNeeded();
+          await svg.evaluate(e=>e.scrollIntoView({block:'center',behavior:'instant'}));
           await svg.locator('..').screenshot({path:path.join(out,`${item.code}-${width}-retained-${++retainedIndex}.png`)});
         }
         if(width<600){
@@ -71,7 +71,7 @@ fs.mkdirSync(out, {recursive:true});
           }
         }
         await retained.evaluate(e=>{e.open=false;e.querySelectorAll('details').forEach(d=>d.open=false)});
-        await page.locator('h1').scrollIntoViewIfNeeded();
+        await page.locator('h1').evaluate(e=>e.scrollIntoView({block:'center',behavior:'instant'}));
         const check = await page.evaluate(() => ({
           overflow:document.documentElement.scrollWidth > innerWidth + 1,
           broken:[...document.images].filter(e => e.currentSrc.startsWith(location.origin) && (!e.complete || !e.naturalWidth)).map(e=>e.src),
@@ -113,9 +113,9 @@ fs.mkdirSync(out, {recursive:true});
           assert.equal(await summaries.nth(i).evaluate(e=>e.parentElement.open),false,item.code);
         }
         if (true) {
-          await page.locator('h1').scrollIntoViewIfNeeded();
+          await page.locator('h1').evaluate(e=>e.scrollIntoView({block:'center',behavior:'instant'}));
           await page.screenshot({path:path.join(out,`${item.code}-${width}-top.png`)});
-          await page.locator('.mini-lesson').scrollIntoViewIfNeeded();
+          await page.locator('.mini-lesson').evaluate(e=>e.scrollIntoView({block:'center',behavior:'instant'}));
           await page.screenshot({path:path.join(out,`${item.code}-${width}-lesson.png`)});
         }
         results.push({code:item.code,width,...check});
