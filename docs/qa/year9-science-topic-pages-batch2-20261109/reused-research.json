@@ -1,0 +1,223 @@
+{
+  "repository": "JBR99729/research-",
+  "ref": "193f90001c370035dfa06ea3345be4f5917c3db6",
+  "files": {
+    "qa/all-codes/science-7-10/batch-12-year8-inquiry-independent-source-review.json": {
+      "bytes": 71543,
+      "sha256": "0678caffd9a9a14962873c3884340e6f783f2b99d4dfa2ece0e01e77ebe4b966",
+      "git_blob_sha": "6cdd1d8fd8481c52511bab74092011b2c927f03e"
+    },
+    "qa/all-codes/science-7-10/batch-16-year9-u-h-independent-source-review.json": {
+      "bytes": 140619,
+      "sha256": "3b8ba23fca718c050d835055034eeeca2806a7737146ca0274686013cb0c5fbf",
+      "git_blob_sha": "21caaaa4ecb9b87ebe3324006d3ed63921abd7d2"
+    },
+    "qa/all-codes/science-7-10/batch-16-year9-u-h-independent-source-review.md": {
+      "bytes": 2769,
+      "sha256": "c564c6303f3474c09ef65c8b4cbb7f91cf34473a649e31f78331f6f0e375e3bf",
+      "git_blob_sha": "985214b21329a32cefc101c897aaaa8c7a4d1e23"
+    },
+    "qa/all-codes/science-7-10/batch-17-omitted-codes-independent-source-review.json": {
+      "bytes": 43129,
+      "sha256": "7baf107161b7d1b71ae3453d3d0ba82bb919cfa20a7929704b9a0562b59154d2",
+      "git_blob_sha": "bfad22646fdeb540922e4a0d8810a285d5dc2b66"
+    },
+    "qa/all-codes/science-7-10/batch-22-year9-inquiry-independent-computations.json": {
+      "bytes": 3088,
+      "sha256": "2c80e2f6410436468791643fb7f8bae24c9b0d1b6980269ab234b5d6fc2a4fd6",
+      "git_blob_sha": "be2dbc1285d2dea8d854d9185e7a0fb7690765b8"
+    },
+    "qa/all-codes/science-7-10/batch-22-year9-inquiry-independent-source-review.json": {
+      "bytes": 55750,
+      "sha256": "e3467663fe01800af4aab4503e20afdc67307a1af48a6287ea7964f3a1f3d37b",
+      "git_blob_sha": "e39ff576287b19187afcc54ddf855ef3ff6e6492"
+    },
+    "qa/all-codes/science-7-10/batch-22-year9-inquiry-independent-source-review.md": {
+      "bytes": 5288,
+      "sha256": "ef2a64500fe0c66c847226ef52487371c513431d43bbd84ec25d01679ad41365",
+      "git_blob_sha": "29c9ee96844a33c33fab809e487a8e5e976ead08"
+    },
+    "qa/all-codes/science-7-10/batch-6-year7-earth-forces-independent-source-review.json": {
+      "bytes": 31548,
+      "sha256": "2e278fb91d50bf1bdcb22df035cd6b5c656276e6e7ae8ebcf0d23743d594d4ab",
+      "git_blob_sha": "fac0f89f15153172e344fce5d7b434a279bfcca0"
+    },
+    "qa/all-codes/science-7-10/batch-7-year7-inquiry-independent-source-review.json": {
+      "bytes": 42485,
+      "sha256": "f6913bce652ec0664f49a077abf8d9f723f4e9be5029ed96ccb4c976acee2078",
+      "git_blob_sha": "4e0dbd761eb73d943a371c2d25707efc4dc7dea7"
+    },
+    "qa/all-codes/science-7-10/batch-8-year7-biology-perspectives-independent-source-review.json": {
+      "bytes": 45889,
+      "sha256": "55811aca0ab181dfcb9e48c2ebe45edbcf7a005cf808fee6e56bfa69990a8985",
+      "git_blob_sha": "c97c348a60fbfb84d150b30fd1da39006f27c522"
+    },
+    "qa/all-codes/science-7-10/batch-9-year8-u-h-independent-source-review.json": {
+      "bytes": 112051,
+      "sha256": "1544ecd249b2d696e267bfdb8f557c0e0992cb38edb20cec70bee2be980f0558",
+      "git_blob_sha": "f7d44fa06d987bc518a902dd27c08e7a10702b0a"
+    },
+    "qa/all-codes/science-7-10/cross-year-reuse-delta-2026-11-03.json": {
+      "bytes": 18490,
+      "sha256": "6674d5546a1f2c5b7f29794cd51c79d14c3a2dcb8ad25abab805067a398e16f8",
+      "git_blob_sha": "bb85dd0e247af18d4fbd6a6dd66481d460781c0f"
+    },
+    "qa/all-codes/science-f6/batch-3-instrument-delta-review.json": {
+      "bytes": 33006,
+      "sha256": "e319ff9f565f07e29069f0b86c766960af16182d34ff100fd31db03415dd526e",
+      "git_blob_sha": "8874e8bc47ddbf371bb0121fe864fd74a98710ab"
+    },
+    "qa/all-codes/science-f6/batch-4-water-cycle-source-review.json": {
+      "bytes": 9772,
+      "sha256": "6f45c0bcf9ed49eb096082a57c6fb07df1c8df6a23c9df716f3516b3d996f5b3",
+      "git_blob_sha": "137d5f7edd8805f967cde09fa059e9f135f1f6c9"
+    },
+    "qa/all-codes/science-f6/batch-5-permission-source-review.json": {
+      "bytes": 16761,
+      "sha256": "3970cf9dd64538d60735dcc4507eed926e9c07f8339be7db31ce852c8d0d773e",
+      "git_blob_sha": "83e5eed5ad6705bb42671b74d2acb01a4322c8e4"
+    },
+    "qa/all-codes/science-f6/batch-5-science-communication-source-review.json": {
+      "bytes": 12666,
+      "sha256": "f357c540438b307b1133a481f0a83824a37557a8b08928500fe3bcef6ba312a6",
+      "git_blob_sha": "8e1a32fea391b9d2085fa8248ab7ee5068e60941"
+    },
+    "shared-research/maths/2026-11-03-error-precision-evidence.json": {
+      "bytes": 12196,
+      "sha256": "37084f91663a8c7ce8c2700f85c3c1556218c5c8a9bbfe073c1ace98672add0d",
+      "git_blob_sha": "8619e450fe66b8570cc764782f7a1331e194869e"
+    },
+    "shared-research/maths/2026-11-03-metric-instrument-evidence.json": {
+      "bytes": 9336,
+      "sha256": "07793cea6567d0e752498dfa26b85b8b3f1933dcfb1ff14b561f87ca874520a3",
+      "git_blob_sha": "75c4471c8b6788f64c0dcdcd704148c411df173b"
+    },
+    "shared-research/science/2026-11-03-water-cycle-representation-evidence.json": {
+      "bytes": 10257,
+      "sha256": "373181953d5acce82ab0fb2e3686559bd32951594095cad39f9262ebec731154",
+      "git_blob_sha": "a0d62e914880bc63b35a0a9d3fc21fc7e4c27372"
+    },
+    "shared-research/science/2026-11-04-investigation-country-permissions-evidence.json": {
+      "bytes": 8023,
+      "sha256": "2d4a08df53f6f54c217e5cb75896e307c7273e9b9f15c42b797834b3a06561d8",
+      "git_blob_sha": "bdc8f826cfaa1cc42f921abc72296e34027cda14"
+    },
+    "shared-research/science/2026-11-04-scientific-audience-language-evidence.json": {
+      "bytes": 6335,
+      "sha256": "772bf849550b9dad1c006e13c7106fb403acb444334b413255590d011bbe250f",
+      "git_blob_sha": "1d5d95211862ef08014dca0da1df404f03e79c76"
+    },
+    "shared-research/science/2026-11-04-six-omitted-science-particle-separation-argument-communication-source-ledger.json": {
+      "bytes": 41481,
+      "sha256": "a11cdad48b4854dd2ee81035063d2916d57dcc1333dc684155a7c2ae7e8c0a3f",
+      "git_blob_sha": "acab77dcb8be60a35cf9cabfcd3a9734ed4e2089"
+    },
+    "shared-research/science/2026-11-04-year7-forces-mass-gravity-source-ledger.json": {
+      "bytes": 21272,
+      "sha256": "789b6ea5efc49dab5af60dcad1b91842b6677feea6485358be38d2dddf4c7c4d",
+      "git_blob_sha": "2667871de325e83c854d9f16b33f7519dd28eddb"
+    },
+    "shared-research/science/2026-11-04-year7-inquiry-methods-data-source-ledger.json": {
+      "bytes": 30596,
+      "sha256": "0be01b04497620c01e29cf39591d41aac4149f7fc6996d0fd4b6dd005e0e8411",
+      "git_blob_sha": "3c7a470458fc2f58fe3f748fb81519839bb0e3de"
+    },
+    "shared-research/science/2026-11-04-year7-science-perspectives-responses-source-ledger.json": {
+      "bytes": 23907,
+      "sha256": "dd09c604416f564f450a2bdd4a5ea57ef2625c91f1e19cf82b32469f1e21699a",
+      "git_blob_sha": "11cd250460a74be2b5245e020711d4af9b608539"
+    },
+    "shared-research/science/2026-11-04-year8-inquiry-microscopy-rates-critique-source-ledger.json": {
+      "bytes": 18864,
+      "sha256": "b45d88feb811648e8660b823d5bc8be6b54b6e68a9aabb464697f80fb443e817",
+      "git_blob_sha": "cc0e0514e1af96f96bbe3d23eba2dd653be2e9fb"
+    },
+    "shared-research/science/2026-11-04-year8-tectonics-rocks-revision-source-ledger.json": {
+      "bytes": 28197,
+      "sha256": "f4f8bf79172fafae7ffdd3fe77560f7faa2cfba736dd6b827a3ee99baf78bcbe",
+      "git_blob_sha": "210a6cd9dc1a0cd5d189c23c7f15493a6ab31e8c"
+    },
+    "shared-research/science/2026-11-04-year9-inquiry-accepted-reuse-map.json": {
+      "bytes": 12899,
+      "sha256": "600c938ff85482252d80681d43d2c7d816d0e983dd29bb4acd1315fd44f27003",
+      "git_blob_sha": "a24007d12674431804ada83f711f56510c2d4960"
+    },
+    "shared-research/science/2026-11-04-year9-inquiry-aligned-climate-source-ledger.json": {
+      "bytes": 14007,
+      "sha256": "5c0c92692d2be4256613ddb65f0eb659e03cec22e1fa39a084ad4b328e558526",
+      "git_blob_sha": "67abc2fbd6a9573ef3ad7e242353fb53d044ddb7"
+    },
+    "shared-research/science/2026-11-04-year9-inquiry-author-handoff.md": {
+      "bytes": 3713,
+      "sha256": "ab6849e27c4f68ff0267ce897e3691d35de66920aa3dc053050f083512df259e",
+      "git_blob_sha": "e6a16780a50aea8ca2834893ffcbc3bad6ed6842"
+    },
+    "shared-research/science/2026-11-04-year9-inquiry-author-manifest.json": {
+      "bytes": 14911,
+      "sha256": "bfe0f5c0b93c74bf24a04935bf7eaa3f57c3f435a18b7fef869b7a99e2f30563",
+      "git_blob_sha": "e3e99c8c0b5531e5f2c27da6e64b72fd67838202"
+    },
+    "shared-research/science/2026-11-04-year9-inquiry-instrument-sampling-source-ledger.json": {
+      "bytes": 12852,
+      "sha256": "e5e8b60980dd2be3b985d02630547b6278b976aa82f493e4429773f158a8f5cb",
+      "git_blob_sha": "23bc56f5c3ca7bce71ba5a8b088d0e1015d4eb2a"
+    },
+    "shared-research/science/2026-11-04-year9-peer-review-research-priorities-source-ledger.json": {
+      "bytes": 14835,
+      "sha256": "655160ef0790caa69d8b2dbd61512e047b8ac2808a2dee5bfc0f25d3b5d912b9",
+      "git_blob_sha": "f0b99a8cf79440adcc514b42724c8ae4d2e1a19f"
+    },
+    "year-9/science/AC9S9H04/research/2026-11-04-source-gap-candidate.json": {
+      "bytes": 6920,
+      "sha256": "e764495f5b1d809a893efd85ca288791f64ffd320a4e818e2350837ec366bda2",
+      "git_blob_sha": "c010bd9d52087381a0ef8145c54bea5d2fa6d403"
+    },
+    "year-9/science/AC9S9I01/research/2026-11-04-source-sufficiency-candidate.json": {
+      "bytes": 8485,
+      "sha256": "a8d43a411a81633dc6fbedc511a6e07f5705ce48195a84f6dee52dd84018fc11",
+      "git_blob_sha": "2dda75b0e25db27b459efafb870709f22a85954c"
+    },
+    "year-9/science/AC9S9I02/research/2026-11-04-source-sufficiency-candidate.json": {
+      "bytes": 8766,
+      "sha256": "99991ccf30332d3e1ef7a09126d353a34085e561a45354a2252051e9c4bf053f",
+      "git_blob_sha": "66555eb46fda222632a9ce3f73e6b6701c227ae1"
+    },
+    "year-9/science/AC9S9I03/research/2026-11-04-source-sufficiency-candidate.json": {
+      "bytes": 8786,
+      "sha256": "c1617d560465f06ea6403e7b1d70571f52703107c9dcaaf10ebcc6d9c06493ee",
+      "git_blob_sha": "bd83282ee0363471b1a62bd18ee6cd7fbcae30b7"
+    },
+    "year-9/science/AC9S9I04/research/2026-11-04-source-sufficiency-candidate.json": {
+      "bytes": 8552,
+      "sha256": "0bf4fd59aad1c2d36a03c38988792407a823ad792e6713fe0d32153f8ba95a3a",
+      "git_blob_sha": "fc597ba340dd946f9db7233ec23e0dfa1be5a7b9"
+    },
+    "year-9/science/AC9S9I05/research/2026-11-04-source-sufficiency-candidate.json": {
+      "bytes": 8470,
+      "sha256": "7dc098014f8829d487de69152f5170266cb3bba7bd23169cd14515c19abdeeb4",
+      "git_blob_sha": "d39d3b00d16fe1c08a086bbca4bfde185a90cdfa"
+    },
+    "year-9/science/AC9S9I06/research/2026-11-04-source-sufficiency-candidate.json": {
+      "bytes": 8790,
+      "sha256": "2739b6b6091f518765e7962e9074901f1d96b2b83b9b01a13ce39da896e1513f",
+      "git_blob_sha": "fb2ead99e83f732979336f508a53be9d9ca95353"
+    },
+    "year-9/science/AC9S9I07/research/2026-11-04-source-sufficiency-candidate.json": {
+      "bytes": 8825,
+      "sha256": "f45981dd30485bfcdaf5fb79697fc7499a9df14221c8ebf4c14c814b8315d312",
+      "git_blob_sha": "a5873a65fef859025e75ed3f80acf717ebdb8326"
+    },
+    "year-9/science/AC9S9I08/research/2026-11-04-source-sufficiency-candidate.json": {
+      "bytes": 8900,
+      "sha256": "07967bd7728a09e99e36243ca723bf873a710b2a58eaa17c73809272778a3573",
+      "git_blob_sha": "89edce4f950816c013be7c0b78a1009236d7ab96"
+    },
+    "year-9/science/Year9_Science_Curriculum_Research_Master.txt": {
+      "bytes": 98860,
+      "sha256": "0a35492f961678a595a9d2e66e0420ebd2927f53c19841cac817c3de6d946c42",
+      "git_blob_sha": "d17248d29627b11ca1c1310004c24786257ba9e5"
+    }
+  },
+  "official_scope": "Actual QCAA Year9 Science descriptor text opened9Nov2026 at official alignmentPDF. Existing metadata/state mappings preserved.",
+  "limits": "Effective batch16 H04 and batch22 inquiry independent acceptance controls older proposed labels. Reusecreateszero new observations; no sourcepixels/media/practical/softwareperformance/permissions/audienceoutcomes claimed. Source readiness does not certify new products."
+}

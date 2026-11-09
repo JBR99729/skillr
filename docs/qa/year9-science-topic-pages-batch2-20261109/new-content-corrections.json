@@ -1,0 +1,40 @@
+[
+  {
+    "code": "AC9S9I03",
+    "reviewer_finding": "Distinguish constant additive offset cancellation from persistent scale-factor calibration bias in successive differences.",
+    "changes": [
+      {
+        "before": "Extend: explain why recording an untared container mass and ignoring it would create an offset.",
+        "after": "Extend: explain why treating final gross mass as contents without subtracting the container creates an offset, while subtracting successive endpoints cancels a constant container or zero offset."
+      },
+      {
+        "before": "If every mass has a common calibration error, will taking more repeats remove it?",
+        "after": "If the balance scale factor reads 1% high, will taking more repeats remove that bias?"
+      },
+      {
+        "before": "Not by itself. Investigate the reference check, calibration and method; averaging mainly addresses some random variation.",
+        "after": "No. A persistent scale-factor bias affects the differences too; more repeats do not remove it. By contrast, a constant additive container or zero offset cancels when successive endpoints are subtracted. Investigate reference checks and method rather than assuming all calibration errors behave alike."
+      }
+    ],
+    "dependency_scope": "Activity Extend and tricky3; raw endpoints, differences, mean/total and literal SVG unchanged."
+  },
+  {
+    "code": "AC9S9I07",
+    "reviewer_finding": "Do not label an annual dip counterevidence to the overall endpoint-rise claim; distinguish the every-year guarantee and separate physical mechanism evidence.",
+    "changes": [
+      {
+        "before": "Warrant: Greenhouse mechanism concerns outgoing infrared energy",
+        "after": "Physical context: Separate physical support: greenhouse gases affect outgoing infrared energy"
+      },
+      {
+        "before": "Counterevidence",
+        "after": "Counterexample to every-year claim"
+      },
+      {
+        "before": "Generic argument caption",
+        "after": "Caption explicitly distinguishes endpoint description, annual guarantee and physical support."
+      }
+    ],
+    "dependency_scope": "I07newSVGlabels/caption/desc only; all quantitative values and authored prose unchanged."
+  }
+]

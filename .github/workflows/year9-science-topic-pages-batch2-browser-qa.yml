@@ -1,0 +1,38 @@
+name: Year 9 batch 2 Science topic-page browser QA
+on:
+  pull_request:
+    paths:
+      - 'year9/science/ac9s9*/index.html'
+      - 'assets/css/year9-science-topic-pages.css'
+      - 'assets/images/year9-science/**'
+      - '.github/workflows/year9-science-topic-pages-batch2-browser-qa.yml'
+      - 'scripts/qa_year9_science_topic_pages_batch2_browser.cjs'
+      - 'docs/qa/year9-science-topic-pages-batch2-20261109/inventory.json'
+permissions:
+  contents: read
+concurrency:
+  group: year9-science-topic-pages-batch2-browser-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+jobs:
+  browser:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm ci
+      - name: Check 9 authored pages at three screen widths
+        run: |
+          python3 -m http.server 8765 --bind 127.0.0.1 > /tmp/year9-science-qa-server.log 2>&1 &
+          server_pid=$!
+          trap 'kill "$server_pid"' EXIT
+          node scripts/qa_year9_science_topic_pages_batch2_browser.cjs
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: year9-science-topic-pages-batch2-browser
+          path: artifacts/year9-science-topic-pages-batch2-browser/
+          retention-days: 7
