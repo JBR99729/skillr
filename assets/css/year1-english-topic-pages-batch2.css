@@ -1,0 +1,11 @@
+/* Scoped support for the preserved Year 1 Literature/Literacy lessons. */
+.year1-english-batch2 #skillr-topic-variants .retained-teaching .topic-reading-text{padding:12px 16px;margin:12px 0;background:#f4f7fc;border-left:3px solid #91aed9;line-height:1.65}
+.year1-english-batch2 #skillr-topic-variants .retained-teaching .focus-worked{margin:12px 0;padding:12px;background:#f7faff;border:1px solid #d6e2ef;border-radius:8px}
+.year1-english-batch2 #skillr-topic-variants .retained-teaching figure{margin:12px 0}
+.year1-english-batch2 #skillr-topic-variants .retained-teaching img{max-width:100%;height:auto}
+.year1-english-batch2 #skillr-topic-variants .retained-teaching table{width:100%;border-collapse:collapse}
+.year1-english-batch2 #skillr-topic-variants .retained-teaching th,.year1-english-batch2 #skillr-topic-variants .retained-teaching td{padding:10px;border:1px solid #b8cce5;text-align:left;vertical-align:top}
+.year1-english-batch2 #skillr-topic-variants .same-picture-pair{margin:16px 0}
+.year1-english-batch2 #skillr-topic-variants .same-picture-pair h3{margin-top:0}
+.year1-english-batch2 #skillr-topic-variants .picture-evidence img[src$="le01-reading-library.png"]{max-width:360px;width:100%;height:auto}
+.year1-english-batch2 #skillr-topic-variants .retained-teaching summary{overflow-wrap:anywhere}
