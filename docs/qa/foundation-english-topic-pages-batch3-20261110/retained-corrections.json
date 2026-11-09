@@ -1,0 +1,36 @@
+[
+  {
+    "code": "AC9EFLY09",
+    "section": "Australian Curriculum elaborations",
+    "before": "Oral rhyme family represented by three pictures and matching ending waves.",
+    "after": "Written cue-word cards for adult-spoken rhyme: cake, lake and make.",
+    "attribute": "aria-label",
+    "occurrences": 1,
+    "reason": "Describe the actual static cue cards without inventing pictures or audio."
+  },
+  {
+    "code": "AC9EFLY09",
+    "section": "Australian Curriculum elaborations",
+    "before": "Banana divided into three audible beat cards beside a one-beat comparison.",
+    "after": "Three written beat cues for adult-spoken banana.",
+    "attribute": "aria-label",
+    "occurrences": 1,
+    "reason": "Describe the actual static cue cards without inventing pictures or audio."
+  },
+  {
+    "code": "AC9EFLY10",
+    "section": "Check your understanding",
+    "before": "Blend /l/ /i/ /p/.",
+    "after": "Blend /l/ /ɪ/ /p/.",
+    "occurrences": 2,
+    "reason": "Short vowel in lip is /ɪ/, not long /i/."
+  },
+  {
+    "code": "AC9EFLY14",
+    "section": "Check your understanding",
+    "before": "Which is a common high-frequency word?",
+    "after": "Adult: say the taught target. Which printed word matches it?",
+    "occurrences": 8,
+    "reason": "Supply a definite target-matching question rather than imply word frequency has a unique answer."
+  }
+]

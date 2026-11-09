@@ -1,0 +1,315 @@
+{
+  "reviewer": "/root/english_batch3_review \u2014 independent AI reviewer",
+  "research_commit": "bd66a3aff4c4e1bc5deea69a0feb0084bf3f5246",
+  "identity_scope": "51 current saved source files fingerprinted; exact accepted dependency triple checked for all 38 unique evidence files. Semantic read coverage is specified separately in research-plan-independent-review.md; hashing is not claimed as reading.",
+  "files": [
+    {
+      "path": "foundation/english/AC9EFLY07/research/2026-10-31-round1/source-coverage.json",
+      "bytes": 1972,
+      "sha256": "1b88732af5783eb93bb27fd5410a3b5c8381cf6c38b4555115e4dcf85574e24e",
+      "git_blob_sha1": "fc390e9e3a06fced7be18a6617a0aa1b06e45f10"
+    },
+    {
+      "path": "foundation/english/AC9EFLY07/research/2026-10-31-round1/source-map.json",
+      "bytes": 19330,
+      "sha256": "5adbf16fb2400d6f580902506e34341f4b5d512905ac5bc12a102f68ac7d9f9d",
+      "git_blob_sha1": "802de7426a9873a8a1836c3ea3abbdf904564a31"
+    },
+    {
+      "path": "foundation/english/AC9EFLY08/research/2026-10-31-round1/source-coverage.json",
+      "bytes": 606,
+      "sha256": "f3496da7a6779fa73a679fc6615d446f4604aa8ecaaffcd8d0b3fa02d26069e2",
+      "git_blob_sha1": "6bedb90084a8ea5e373fa3f83d4d59bcd1f75898"
+    },
+    {
+      "path": "foundation/english/AC9EFLY08/research/2026-10-31-round1/source-map.json",
+      "bytes": 22634,
+      "sha256": "ee1fa3601ae770e26046ed0b866f310a0502bce810111a4971cfbaad9e83a99e",
+      "git_blob_sha1": "3b43d02dbcada67442274ceb3db5427e93db70b2"
+    },
+    {
+      "path": "foundation/english/AC9EFLY08/research/2026-10-31-round1/teacher-qa.md",
+      "bytes": 1883,
+      "sha256": "5e5ce62c1072258757b51e67749c6a158513704f14b82464a2f3c41a55513139",
+      "git_blob_sha1": "b90d2b99f88e74406e1cd5edbdc05a80315f3844"
+    },
+    {
+      "path": "foundation/english/AC9EFLY08/research/2026-10-31-round1/teaching.json",
+      "bytes": 3175,
+      "sha256": "37298a96bf9164515ecca581999306446fb2208734a6e01578d43b152e16a4a6",
+      "git_blob_sha1": "6adc8bf92efb5fb95729af60c09ac21b62f286e5"
+    },
+    {
+      "path": "foundation/english/AC9EFLY09/research/2026-10-31-round1/preview-observations.json",
+      "bytes": 33150,
+      "sha256": "12820819895a89c2d343249762201f14dffb4e2af8d52d270caec2602efc061e",
+      "git_blob_sha1": "6f46385cde8d254f4273366fc0879a49b0971380"
+    },
+    {
+      "path": "foundation/english/AC9EFLY09/research/2026-10-31-round1/source-coverage.json",
+      "bytes": 1697,
+      "sha256": "df2052297ea55ab7007e3bcaad36abe276bbc9204a163ed2cb3b6886877a64b6",
+      "git_blob_sha1": "bd40c4faad3850b2b38863dab15bea5383bf346b"
+    },
+    {
+      "path": "foundation/english/AC9EFLY09/research/2026-10-31-round1/source-map.json",
+      "bytes": 19186,
+      "sha256": "37c74099dc88509e43a310a6175a63e98a4026eff1a4108d04c9d28fd7f399ab",
+      "git_blob_sha1": "809ff0c3abd8053a48b9af2a609e9efdfb76f9b9"
+    },
+    {
+      "path": "foundation/english/AC9EFLY10/research/2026-10-31-round1/preview-observations.json",
+      "bytes": 2969,
+      "sha256": "e83405899638ed84e4ec915517b4076e04a0c385d1f36a81584a773d93194448",
+      "git_blob_sha1": "e703e57f41414b1874a92756a707675f798d72ae"
+    },
+    {
+      "path": "foundation/english/AC9EFLY10/research/2026-10-31-round1/source-coverage.json",
+      "bytes": 778,
+      "sha256": "75c135694ecbd66671175a2e8516de7f64d5395d0504c0a20bc566bac4c63510",
+      "git_blob_sha1": "49a0b0f5299005a6adc594b04a1686b220ec0078"
+    },
+    {
+      "path": "foundation/english/AC9EFLY10/research/2026-10-31-round1/source-map.json",
+      "bytes": 22933,
+      "sha256": "645725a0c1a36dce8f26e6b8fdb5f7b47d0edfeec5b57b67e75a68e65c9a39ca",
+      "git_blob_sha1": "b37816c93bca409f91c691d01b852b51325b93fe"
+    },
+    {
+      "path": "foundation/english/AC9EFLY10/research/2026-10-31-round1/teacher-qa.md",
+      "bytes": 1816,
+      "sha256": "0636ccaab5edfa9b64ec42a493c78d922c7f01d3a1c76032bc9f8d2da5a03682",
+      "git_blob_sha1": "d38044eff21f6b33c5705d70cbb653be0f40aa98"
+    },
+    {
+      "path": "foundation/english/AC9EFLY10/research/2026-10-31-round1/teaching.json",
+      "bytes": 2518,
+      "sha256": "08a19c8cc46d4672fbb3824d324964989a71c584460d44a615b56155adc9f94d",
+      "git_blob_sha1": "1e5826c745b04aed1cb2cfde12aa177f3b0e30aa"
+    },
+    {
+      "path": "foundation/english/AC9EFLY10/research/2026-11-03-phoneme-gap-closure.json",
+      "bytes": 11285,
+      "sha256": "193f3493429b62e4199cd9d539f3f02dec8ee67792a2ae3aa3c2cc4e88c186e2",
+      "git_blob_sha1": "3c3c2396671d2d7e51c140f6ea6300642c29946d"
+    },
+    {
+      "path": "foundation/english/AC9EFLY11/research/2026-11-03-alphabet-gap-closure.json",
+      "bytes": 3544,
+      "sha256": "388228b3763d401e33f04b6874a95ce180b732b24ae85854dd48642b116da0f1",
+      "git_blob_sha1": "865de0566045cbcd4574976b9f1970320fdd68d3"
+    },
+    {
+      "path": "foundation/english/AC9EFLY12/research/2026-10-31-round1/preview-observations.json",
+      "bytes": 11456,
+      "sha256": "d560573302c1b8b3968c65025decdf76d6fb6e649e25ee4b33a27b4710fa38e6",
+      "git_blob_sha1": "4467a1ea4ff1dde548d6838051cdbe011d0de01b"
+    },
+    {
+      "path": "foundation/english/AC9EFLY12/research/2026-10-31-round1/source-coverage.json",
+      "bytes": 1968,
+      "sha256": "8439f766f975277b9950ea64e75f09d8d17d324f76625a5217a9e7559f959ba0",
+      "git_blob_sha1": "5f58275f05efd5741248fecc4f312772ae9dff17"
+    },
+    {
+      "path": "foundation/english/AC9EFLY12/research/2026-10-31-round1/source-map.json",
+      "bytes": 23201,
+      "sha256": "a44f49e56c12e11f58ed71e8c34c0af9de5b7cb1dc0ac29f3dc5aab47d6200ee",
+      "git_blob_sha1": "3c366d96589a332ed7d5dda0d021023074db0fd4"
+    },
+    {
+      "path": "foundation/english/AC9EFLY12/research/2026-10-31-round1/teacher-qa-alignment.md",
+      "bytes": 2246,
+      "sha256": "da23e54575a757a8100dd215c804106bfacd9723d2c42f703ca5637119c72ea9",
+      "git_blob_sha1": "19250f36f54f8c64310774ce8e081317fbc28e9e"
+    },
+    {
+      "path": "foundation/english/AC9EFLY13/research/2026-10-31-round1/preview-observations.json",
+      "bytes": 3602,
+      "sha256": "b0ed0b9b80c5337eceb1091646d7db42af04e1794c845c77f499b576bae05590",
+      "git_blob_sha1": "020c9362f8d3bd8688566485508644cd5de6bfe0"
+    },
+    {
+      "path": "foundation/english/AC9EFLY13/research/2026-10-31-round1/source-coverage.json",
+      "bytes": 1355,
+      "sha256": "68ae9778672b422702ba78f607c53973499de5d24acdbbd77d8baac77fdd036d",
+      "git_blob_sha1": "04250f715c2d472708d588b3f4d5ba8111e84d1d"
+    },
+    {
+      "path": "foundation/english/AC9EFLY13/research/2026-10-31-round1/source-map.json",
+      "bytes": 22273,
+      "sha256": "3bb85061c744d9fab19cb9904ab6e84445c3cb02bec3464f13415d786a6eab52",
+      "git_blob_sha1": "d34065ddb941050a7d489cf64a989aef8772644c"
+    },
+    {
+      "path": "foundation/english/AC9EFLY13/research/2026-10-31-round1/teacher-qa-alignment.md",
+      "bytes": 2081,
+      "sha256": "c5491885d789bb5b3f3d8c7a0580070ee6d28862d01b82edb0b27245c29dd636",
+      "git_blob_sha1": "5512b7f3dd20014f84ed683551802a4a4afa87c2"
+    },
+    {
+      "path": "foundation/english/AC9EFLY14/research/2026-10-31-round1/preview-observations.json",
+      "bytes": 2905,
+      "sha256": "20c38441d071002b4d3abcfbd95f46cc97969dcb055fd77a66e0aeb48929b9dc",
+      "git_blob_sha1": "25b8e72677e94309ea562fd7bdbc48577b72d51c"
+    },
+    {
+      "path": "foundation/english/AC9EFLY14/research/2026-10-31-round1/source-coverage.json",
+      "bytes": 435,
+      "sha256": "1b8cad90e142c8331f83616597c8db3302c4d6048db19681f78d8188187e9acf",
+      "git_blob_sha1": "704be5b93a2a9995a16947eb8ce4441aa60a3683"
+    },
+    {
+      "path": "foundation/english/AC9EFLY14/research/2026-10-31-round1/source-map.json",
+      "bytes": 19439,
+      "sha256": "2e80a7d6ba17fd17710a2cc270def05b10069edaaadfb7705aa202618cfc8cd1",
+      "git_blob_sha1": "a7728871234414d6a5d34a95bc0668c977d35394"
+    },
+    {
+      "path": "foundation/english/AC9EFLY14/research/2026-10-31-round1/teacher-qa-alignment.md",
+      "bytes": 1867,
+      "sha256": "e282747ffe9a29035beb2ac1d86c3da06d4cf776081a7ef9054855e6a8591cec",
+      "git_blob_sha1": "dc0518f2b1b477c4331632a2956e714f5904a0c6"
+    },
+    {
+      "path": "foundation/english/AC9EFLY14/research/2026-10-31-round1/teaching.json",
+      "bytes": 2341,
+      "sha256": "a7024fbd6780d33cde9902710e300523d66b3a10c61aca5e7a5fa94874095e2b",
+      "git_blob_sha1": "52f3607a55581630684e6e998601d527e222dad3"
+    },
+    {
+      "path": "qa/all-codes/english-f3/foundation/AC9EFLY07.json",
+      "bytes": 5862,
+      "sha256": "aa2454d8133a64e3e109e537def87ca09c29953a52f0823ea6d40241debc1b87",
+      "git_blob_sha1": "51578dd950743ed122a4025c048c6e43ee9d4c24"
+    },
+    {
+      "path": "qa/all-codes/english-f3/foundation/AC9EFLY08.json",
+      "bytes": 6803,
+      "sha256": "97653da04d1738ca339bfaff7fdf391e6855fc27cbc47b48d78bc674a6d4476e",
+      "git_blob_sha1": "479ef0b9586bbda00816be6ff58be0e8ac13756b"
+    },
+    {
+      "path": "qa/all-codes/english-f3/foundation/AC9EFLY09.json",
+      "bytes": 6838,
+      "sha256": "22559f752ffa5fcf707374fc09e64427ebd034e77ff8d95ac890bdca13dc64be",
+      "git_blob_sha1": "80c93f1126805f85fb1f9b7ef385c2a99bbf8a67"
+    },
+    {
+      "path": "qa/all-codes/english-f3/foundation/AC9EFLY10.json",
+      "bytes": 8816,
+      "sha256": "15a8da75248a8f7f37914b229aaeb3bbcca71ff6e142c1ac96bf837444ee89c6",
+      "git_blob_sha1": "9b4bb0dc6dd08ef45c707cb7f4726ebd2cb47839"
+    },
+    {
+      "path": "qa/all-codes/english-f3/foundation/AC9EFLY11.json",
+      "bytes": 10269,
+      "sha256": "06a12162471c5b4f73730d3db8dfa2f69d571ba31e21b4034193e96e1948d9ff",
+      "git_blob_sha1": "9982b22c82b64a2ed3c2af72aca8e80c7e7835f9"
+    },
+    {
+      "path": "qa/all-codes/english-f3/foundation/AC9EFLY12.json",
+      "bytes": 8095,
+      "sha256": "337b890373a468cc2a00a814eea5916d59052657bf2e5e9ae346252b0c91a8fd",
+      "git_blob_sha1": "37153e0ea37a0d26443b1ec68e949778445c862b"
+    },
+    {
+      "path": "qa/all-codes/english-f3/foundation/AC9EFLY13.json",
+      "bytes": 7877,
+      "sha256": "9835a73e56399cdb3da3f7c61f2cc50a84cd907a29ddb31a4d56e7d3dd38ecaf",
+      "git_blob_sha1": "21dbd5e1098369ce92c023898172017174c277c2"
+    },
+    {
+      "path": "qa/all-codes/english-f3/foundation/AC9EFLY14.json",
+      "bytes": 6823,
+      "sha256": "c2a526e0311c42d061728591a30b1cf5b38539522369d1cc07359a6381be1960",
+      "git_blob_sha1": "aa834fbb8627af473e78e4d7234803432412feda"
+    },
+    {
+      "path": "qa/all-codes/english-f3/foundation/AC9EFLY15.json",
+      "bytes": 4797,
+      "sha256": "6bf9e8f8558260b55c28e67b2f7495e4bdd0bd0e0207635227a8ee66d3eed1d2",
+      "git_blob_sha1": "8c20ef6c24f31445ea066d9182d5af1c0ae489cf"
+    },
+    {
+      "path": "qa/all-codes/english-f3/phoneme-alphabet-delta-review.json",
+      "bytes": 16343,
+      "sha256": "53521b19d10d5cc3b676702ae4feb958d5c35de798a8d66793acfe70ea11fecf",
+      "git_blob_sha1": "854f24f1648785551c0d4c27b541b338f6615d0e"
+    },
+    {
+      "path": "shared-research/english/2026-11-03-phoneme-alphabet-evidence.json",
+      "bytes": 21823,
+      "sha256": "9e14a3bc4d5e76c6dc24032257126e446e68c7663b075b90a9d8fa4b4441307f",
+      "git_blob_sha1": "926430b2d19c3151fa5b85de15d836d56375d734"
+    },
+    {
+      "path": "year-1/english/AC9E1LA04/la04.txt",
+      "bytes": 58876,
+      "sha256": "ceaf1af23cca8ccb315feabe5f6b4013d6a6cbadb62d828668f52df40252d03a",
+      "git_blob_sha1": "e53e964eecc2f23e0be3130299e0e0b781b2e2b8"
+    },
+    {
+      "path": "year-1/english/AC9E1LA04/round1-research-2026-11-01.json",
+      "bytes": 57582,
+      "sha256": "e667c6b64794c3d4a82dc16ef8c57f04982b55806396ecf0df014463b896fa7d",
+      "git_blob_sha1": "e77f4208bdf911e66d1fc3886fb96b0fb837138d"
+    },
+    {
+      "path": "year-1/english/AC9E1LE04/le04.txt",
+      "bytes": 101385,
+      "sha256": "8e22bb8aa87e3a088ad9539a11d16b19a460bef812b991648d7c0e1286bd07ca",
+      "git_blob_sha1": "ae6f958267d2c4fe5a309a0614d8ced30503420e"
+    },
+    {
+      "path": "year-1/english/AC9E1LY07/AC9E1LY07_research.txt",
+      "bytes": 110059,
+      "sha256": "f06b38bab649bb10d6f025436ddb0b3ab31d987d00e595fde6966d2f4776c847",
+      "git_blob_sha1": "1dda1ad36e1faa000fab2c64b0b2bb1018631bbd"
+    },
+    {
+      "path": "year-1/english/AC9E1LY07/ly07.txt",
+      "bytes": 694,
+      "sha256": "1d83962a7d0e1c057d22bed6a8b8f7c76cf70c43204cebdacdc7d23fda755794",
+      "git_blob_sha1": "00ef7317eb9912dfdcede51fa1e300db5888c4a0"
+    },
+    {
+      "path": "year-1/english/AC9E1LY08/AC9E1LY08_research.txt",
+      "bytes": 56035,
+      "sha256": "164322282e211c78af3ff1302f1c85e01e32f13bcb4ea6f08f95c9eb8d35f6bc",
+      "git_blob_sha1": "10ede10f53fff7ba0df2f33a5349ac79b0558d22"
+    },
+    {
+      "path": "year-1/english/AC9E1LY08/ly08.txt",
+      "bytes": 7928,
+      "sha256": "a2183481ca6ced76f29114b00787df0e9de1555453f0fc3e40485f0edab49f03",
+      "git_blob_sha1": "e04967008fcac885b0c6586433f12bf8e52e2b23"
+    },
+    {
+      "path": "year-1/english/AC9E1LY09/ly09.txt",
+      "bytes": 7432,
+      "sha256": "b5baa94e9283b42aeaf3c52c917b7f7a4933f23dea21f8fd170db69c216366bf",
+      "git_blob_sha1": "560441032cb60c7f41dc89fd8b7b9d24b5fd3f9d"
+    },
+    {
+      "path": "year-1/english/AC9E1LY14/ly14.txt",
+      "bytes": 7224,
+      "sha256": "63fa0ed328821b2b7d1fef427386fa99f0925b8997628c437e30d3f6dfe58e6d",
+      "git_blob_sha1": "cc36af994ffe5906359fdb67d65b5702867f9ed5"
+    },
+    {
+      "path": "year-1/english/AC9E1LY15/ly15.txt",
+      "bytes": 7175,
+      "sha256": "7bc824f4fc167367afb24f83b9f45d70f9b8114683cf80814651513242994a88",
+      "git_blob_sha1": "962d60ab7bae958e4c522770068243a98004a2d0"
+    },
+    {
+      "path": "year-3/english/supporting-research/reports/year3-english-ixl-review/LY05-LY12-RESEARCH.md",
+      "bytes": 18548,
+      "sha256": "6413d348d70757626f278de16a3ad53ba90c957bd16b5188bb9d5c1514b27cc1",
+      "git_blob_sha1": "0b132a93150f9d2aa23ad0d6b30ad49ef7da1bab"
+    }
+  ],
+  "baseline_inventory_sha256": "3e376ca22ff12a63d23c3aeb234cd4a1b1302985c286c89dc56b34b67bcbe924",
+  "official_unit_inventory_sha256": "d23a8d8d6861c6d6bb686683b446ae4681ac52f78b5b22b42e35e8b7e7e45294"
+}
