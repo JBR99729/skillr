@@ -1,0 +1,52 @@
+[
+  {
+    "code": "AC9S8H04",
+    "section": "Independent practice",
+    "before": "Rewrite a technical tsunami warning for a coastal community while preserving uncertainty.",
+    "after": "Fictional classroom warning from Example Coastal Science Agency: “A tsunami is possible after an offshore earthquake. Low-lying beaches in fictional Bay A may be affected. People there should follow the local emergency authority’s advice and keep away from the shore while updates are assessed.” Rewrite this supplied message for a coastal community, preserving the uncertainty, location and action. This is a fictional text exercise, not a current warning.",
+    "reason": "Supply the missing warning stimulus with uncertainty and action, clearly fictional."
+  },
+  {
+    "code": "AC9S8I01",
+    "section": "Worked examples",
+    "before": "If reactant concentration increases, reaction rate should increase because more particles in a given volume increase collision frequency.",
+    "after": "In the supplied spring model, increasing added mass from 30 to 40 g predicts an extension increase from 6 to 8 mm. The prediction assumes the stated proportional model within 0–40 g; greater weight stretches the elastic spring further until its restoring force balances the load.",
+    "reason": "Replace Year10 rate-factor explanation with the supplied in-scope inquiry model.",
+    "before_html": "If reactant concentration increases, reaction rate should increase because more particles in a given volume increase <strong>collision frequency</strong>."
+  },
+  {
+    "code": "AC9S8I01",
+    "section": "Independent practice",
+    "before": "Write a reasoned prediction for concentration and reaction rate.",
+    "after": "Use the supplied spring model to predict extension at 40 g and state the model assumption and scientific reason.",
+    "reason": "Align dependent practice with the corrected worked model."
+  },
+  {
+    "code": "AC9S8I01",
+    "section": "Reasoning/problem-solving",
+    "before": "Two explanations predict different outcomes when water temperature changes. Design one measurable question and hypothesis that could distinguish the explanations, then identify a confounding variable to control.",
+    "after": "Two proposed models match the supplied spring records up to 30 g. At 40 g, model A predicts continued proportional extension to 8 mm; model B predicts a plateau at 6 mm. Design one measurable question and reasoned hypothesis that could distinguish these predictions, then identify a confounding variable to control. Treat these as competing proposed models, not observed 40 g results.",
+    "reason": "Supply both competing predictions so a discriminating test is independently answerable."
+  },
+  {
+    "code": "AC9S8I02",
+    "section": "Worked examples",
+    "before": "A shake table represents some earthquake motion; a baking-soda volcano represents pressure release but not magma chemistry or tectonics.",
+    "after": "A shake table represents some earthquake motion. An open baking-soda volcano shows gas formation and foaming; it does not model magma-driven pressure, magma chemistry or tectonics.",
+    "reason": "Open foaming does not model volcanic pressure release."
+  },
+  {
+    "code": "AC9S8I07",
+    "section": "Independent practice",
+    "before": "Match four bamboo claims to the evidence each requires.",
+    "after": "Match the two supplied bamboo claims—“withstands shaking” and “is more sustainable”—to the structural-test or lifecycle evidence each requires.",
+    "reason": "Reference the actual two supplied claims instead of four missing stimuli."
+  },
+  {
+    "code": "AC9S8I08",
+    "section": "Reasoning/problem-solving",
+    "before": "Create two short explanations of the same battery result: one for Year 6 students and one for laboratory staff. Change vocabulary and detail while keeping values, units, uncertainty and conclusion identical.",
+    "after": "Use the supplied hypothetical bridge dataset to create two short explanations: one for Year 6 students and one for laboratory staff. Change vocabulary and detail while keeping values, units, uncertainty and conclusion identical.",
+    "reason": "Use evidence supplied on this page rather than an absent battery result."
+  }
+]
