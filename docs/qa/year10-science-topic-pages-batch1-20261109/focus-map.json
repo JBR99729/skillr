@@ -1,0 +1,514 @@
+[
+  {
+    "code": "AC9S10U01",
+    "descriptor": "explain the role of meiosis and mitosis and the function of chromosomes, DNA and genes in heredity and predict patterns of Mendelian inheritance",
+    "source_basis_decision": "SUFFICIENT — BOUNDED CORE",
+    "product_status": "READY TO DRAFT subject to independent plan review",
+    "focuses": [
+      {
+        "id": "F1",
+        "intention": "Connect DNA/genes/chromosomes/alleles to heredity",
+        "status": "SUFFICIENT — accepted bounded source methods",
+        "evidence": [
+          "B24-NHGRI-GENE",
+          "B24-NHGRI-CHROMOSOME",
+          "B24-OS-CELL-CYCLE",
+          "B24-OS-MENDEL-METHOD"
+        ],
+        "method": "Build a nested molecule/packaging/locus model; label corresponding loci and possible alleles, then track what is copied and inherited.",
+        "criteria": "Correctly links DNA information, functional products and inherited chromosome material; no one-gene-one-trait rule. Must distinguish homologues from copied sisters.",
+        "limits": "Original master chicken task lacks parent headings and still has no unique key; not repaired by guessing. Typical diploid model explicitly scoped."
+      },
+      {
+        "id": "F2",
+        "intention": "Compare mitosis/meiosis and fertilisation",
+        "status": "SUFFICIENT — accepted bounded source methods",
+        "evidence": [
+          "B24-OS-CELL-CYCLE",
+          "B24-OS-MEIOSIS",
+          "B24-OS-MEIOSIS-TASKS"
+        ],
+        "method": "Track copying, homologue separation, sister separation and fertilisation using counts and purpose; compare retention with reduction of ploidy.",
+        "criteria": "State the counted unit at each stage; gametes carry one set and fusion restores two in the model. Explain why one replication is followed by two divisions.",
+        "limits": "No always-diploid-mitosis or all-products-necessarily-distinct claim; source alt-count conflict excluded."
+      },
+      {
+        "id": "F3",
+        "intention": "Predict Mendelian inheritance and explain model limits",
+        "status": "SUFFICIENT — accepted bounded source methods",
+        "evidence": [
+          "B24-OS-MENDEL-METHOD",
+          "B24-OS-MENDEL-TASKS",
+          "B24-VED-HEREDITY",
+          "O24-HEREDITY"
+        ],
+        "method": "State model assumptions/parents, list gametes, combine outcomes, total genotype then phenotype probability; use pedigree/testcross evidence to assess alternatives.",
+        "criteria": "Probabilities sum to one; gametes contain one allele per locus. Expected outcomes are not guaranteed counts. Explain linkage/dominance assumptions before multiplying.",
+        "limits": "No human medical prediction or unsupported single-gene human-trait key. Original analytical checks are separate from actual source questions."
+      }
+    ],
+    "original_model_title": "Hereditary structures, counted divisions and Mendelian probability",
+    "original_model_plan": "Original fictional plant Pp×Pp complete-dominance cross, gametesP/p eachhalf→PP1/4,Pp1/2,pp1/4; probability not guaranteedfamilycount. NestedDNA/gene/chromosomelocus/expression withoutgeneequalsonecharacteristic. Separatediploid2n4 count model:G1fourchromosomes/fourDNA molecules;afterSfour/eight;mitoticdaughterfour/four;aftermeiosisI percelltwo/four;afterIIgametetwo/two;fusionrestorestwosets. Distinguishhomologuesandcopiedsisters; noalwaysuniquegametes orclinical/humantraitprediction. WorkedtestcrossR_×rrcanremainambiguousafterthree dominantoffspring;P(three dominant offspring | heterozygousparentRr)=1/8 under independentoffspringsegregation, notposteriorP(parentRr)."
+  },
+  {
+    "code": "AC9S10U02",
+    "descriptor": "use the theory of evolution by natural selection to explain past and present diversity and analyse the scientific evidence supporting the theory",
+    "source_basis_decision": "SUFFICIENT — BOUNDED CORE",
+    "product_status": "READY TO DRAFT subject to independent plan review",
+    "focuses": [
+      {
+        "id": "F1",
+        "intention": "Explain heritable variation and differential reproduction",
+        "status": "SUFFICIENT — accepted bounded source methods",
+        "evidence": [
+          "B24-OS-EVOLUTION",
+          "B24-OS-EVOLUTION-TASKS",
+          "B24-HHMI-MOUSE-MOLECULAR",
+          "B24-HHMI-MOUSE-MOLECULAR-KEY"
+        ],
+        "method": "Trace heritable variation→environment-dependent survival/reproduction→different descendant contribution; distinguish mutation origin from selection.",
+        "criteria": "Explain population consequences through inherited descendant contribution, without individual need causing directed mutation.",
+        "limits": "Camouflage alone does not quantify reproductive success; no film or animal practical claimed."
+      },
+      {
+        "id": "F2",
+        "intention": "Analyse population change across generations",
+        "status": "SUFFICIENT — accepted bounded source methods",
+        "evidence": [
+          "B24-OS-EVOLUTION",
+          "B24-HHMI-MOUSE-FIELD",
+          "B24-HHMI-MOUSE-FIELD-KEY",
+          "O24-SELECTION"
+        ],
+        "method": "Compute conditional habitat proportions, then distinguish a spatial snapshot from repeated population sampling; use a declared hypothetical inheritance model to examine successive generations.",
+        "criteria": "Correct pooled denominators and comparative proportions; temporal claim needs comparable repeated samples. Original deterministic counts illustrate mechanism, not field results.",
+        "limits": "Retain26%→82% baseline as56percentage-points arithmetic only. No actual measured longitudinal series, spreadsheet performance, allele frequencies inferred without assumptions or universal dark advantage."
+      },
+      {
+        "id": "F3",
+        "intention": "Synthesize independent evolutionary evidence",
+        "status": "SUFFICIENT — accepted bounded source methods",
+        "evidence": [
+          "B24-OS-EVOLUTION",
+          "B24-OS-EVOLUTION-TASKS",
+          "B24-HHMI-MOUSE-MOLECULAR",
+          "B24-HHMI-MOUSE-FIELD"
+        ],
+        "method": "Compare predictions with fossil succession, homology, geography and molecular evidence; explain how differently collected lines converge and what each does not show.",
+        "criteria": "Use more than a resemblance label: explain relation to descent/modification and acknowledge alternatives and source dependence.",
+        "limits": "No ladder/more-evolved ranking, perfect fossil completeness or every fossil a direct ancestor; no copied source images."
+      }
+    ],
+    "original_model_title": "Selection mechanisms and convergent evidence",
+    "original_model_plan": "Original explicitlytoy clonal-microbe typesR/S with inheritedtype:beforeselection50R150S(25%R);survivors40R30S(4/7≈57.1%R);eachsurvivorcontributesfourliketypedescendants→160R120S(4/7R). Survivalcountsnotindividuallifetimemutationorforeverprediction. ContrastsnapshotversusgenerationaltrendusingacceptedHHMIsixsiteconditionalproportions onlyasattributedreference, notunseenfilm/pixels; newevidencematrixfossilsequence/homologousforelimbs/geography/molecularcomparisons with inferenceandlimits. NoHardyWeinbergrequired, noactualculture orclinicalselectionadvice."
+  },
+  {
+    "code": "AC9S10U03",
+    "descriptor": "describe how the big bang theory models the origin and evolution of the universe and analyse the supporting evidence for the theory",
+    "source_basis_decision": "SUFFICIENT — BOUNDED CORE",
+    "product_status": "READY TO DRAFT subject to independent plan review",
+    "focuses": [
+      {
+        "id": "F1",
+        "intention": "Model expansion/cooling and cosmic sequence",
+        "status": "SUFFICIENT — accepted bounded source methods",
+        "evidence": [
+          "B24-OS-EARLY-UNIVERSE",
+          "B24-OS-CMB",
+          "B24-OS-COSMOLOGY-TASKS"
+        ],
+        "method": "Explain expansion/cooling as a causal sequence from hot dense early conditions through nuclei and atoms to later structure; separate observation from model reconstruction.",
+        "criteria": "Sequence and justify stages through cooling, distinguish scientific model from its ultimate cause, and recognise domain limits.",
+        "limits": "Official QCAA alignment print typo AC9S910U03 resolved with separate comparison/ACARA code authority; do not propagate it."
+      },
+      {
+        "id": "F2",
+        "intention": "Analyse redshift/CMB/light-element evidence",
+        "status": "SUFFICIENT — accepted bounded source methods",
+        "evidence": [
+          "B24-OS-EXPANSION",
+          "B24-OS-EXPANSION-TASKS",
+          "B24-OS-CMB",
+          "B24-OS-CMB-CALCULATION",
+          "B24-OS-EARLY-UNIVERSE",
+          "O24-COSMOLOGY"
+        ],
+        "method": "Link calibrated redshift/distance patterns to expansion, thermal relic spectrum to hot early conditions, and excess primordial light elements to early fusion.",
+        "criteria": "Show unit cancellation and the evidence-to-model link; one observation alone is insufficient for the entire theory.",
+        "limits": "No pixel plot readings, new H0 precision, high-redshift linear guarantee or full current abundance fit."
+      },
+      {
+        "id": "F3",
+        "intention": "Explain converging evidence and model domain",
+        "status": "SUFFICIENT — accepted bounded source methods",
+        "evidence": [
+          "B24-OS-COSMOLOGY-TASKS",
+          "B24-ESO-LITHIUM",
+          "B24-OS-EXPANSION",
+          "B24-OS-CMB",
+          "B17-ARGUMENT-PARTICLES:B17-LHS-EVIDENCE"
+        ],
+        "method": "Assess converging evidence and an explicitly dated disagreement; identify which claim/parameter is supported, constrained or remains outside the model.",
+        "criteria": "Qualified judgement uses relevance, sufficiency and mechanism; avoid treating one mismatch as either irrelevant or automatic total rejection.",
+        "limits": "2014 lithium case only; no2026 unresolved-status assertion, ultimate singularity claim, observed source sky pixels or invented cultural knowledge."
+      }
+    ],
+    "original_model_title": "Hot expanding universe and independent evidence",
+    "original_model_plan": "Original chronologicalcoolingmodel:earlyhotdense→lightnuclei→neutralatoms/CMBrelease→laterstars/galaxies;notexplosionintoacenter. Original hypothetical spectralfeature500nmrest→510nmobserved, fractionalshift.02, wavelengthunitscancel;qualitativeexpansioninference notuniversalredshiftorhighzv=cz/currentHubbleprecision. Evidence-to-predictionmatrixlarge-scaleredshift-distance,CMBnear2.73Kthermalrelic,primordiallight-elements. About380000years/3000K lastscattering identifiedasapproximate, notCMBphotonscreatedtimezero. Dated2014ESO lithiumdiscrepancy usedonlyasdatedmodeltest, no2026unresolvedclaim."
+  },
+  {
+    "code": "AC9S10U04",
+    "descriptor": "use models of energy flow between the geosphere, biosphere, hydrosphere and atmosphere to explain patterns of global climate change",
+    "source_basis_decision": "SUFFICIENT — BOUNDED CORE",
+    "product_status": "READY TO DRAFT subject to independent plan review",
+    "focuses": [
+      {
+        "id": "F1",
+        "intention": "Trace energy across the four Earth spheres",
+        "status": "SUFFICIENT — accepted bounded source methods",
+        "evidence": [
+          "B24-NASA-ENERGY",
+          "B24-NASA-GPM-METHOD",
+          "B24-NASA-GPM-CAPTURE",
+          "B16-CARBON:NASA-CARBON-PROCESSES"
+        ],
+        "method": "Trace energy entering, moving among named spheres and leaving to space; keep carbon/water matter movement distinct from energy transfer.",
+        "criteria": "A complete causal path names process, direction and energy form. Approximate flux model closes within stated rounding; do not combine incompatible estimates.",
+        "limits": "No new diagram pixels, current exact energy budget or model roleplay outcome. Multiple spheres can occupy the same physical place."
+      },
+      {
+        "id": "F2",
+        "intention": "Explain forcing/feedback and radiative balance",
+        "status": "SUFFICIENT — accepted bounded source methods",
+        "evidence": [
+          "B24-NASA-ENERGY",
+          "B24-NASA-GPM-METHOD",
+          "B24-NASA-LAND-WATER",
+          "O24-CLIMATE-BUDGET"
+        ],
+        "method": "Perturb radiative balance, follow coupled responses and distinguish initial forcing from feedback; explain ocean thermal inertia without requiring an instant surface response.",
+        "criteria": "Explain mechanism rather than permanent heat trapping; clouds conditional; storage delays response without eliminating energy imbalance.",
+        "limits": "No real lab data, isolated specific-heat measurement, universal cloud sign or current precise imbalance value."
+      },
+      {
+        "id": "F3",
+        "intention": "Use multi-variable climate evidence to evaluate patterns",
+        "status": "SUFFICIENT — accepted bounded source methods",
+        "evidence": [
+          "B24-NOAA-CO2",
+          "B24-NASA-TEMPERATURE",
+          "B24-NASA-GPM-METHOD",
+          "O24-CLIMATE-DATA"
+        ],
+        "method": "Read units/site/baseline/period, calculate changes, compare variables and variability, then distinguish pattern evidence from causal attribution.",
+        "criteria": "Correct annual column/conversion/differences, scoped conclusion and need for independent physical/multivariable evidence. Sparse points are not a complete trend test.",
+        "limits": "No new observed climate study, full raw-study reanalysis,2026 annual value, causal regression or current policy claim."
+      }
+    ],
+    "original_model_title": "Four-sphere energy transfer, imbalance and climate evidence",
+    "original_model_plan": "Original pedagogicalglobalboundary100incomingunits,30reflected,70absorbed,70outgoinginitialbalance. Atunchangedinitialtemperature outgoing68afterforcing→+2storedunits;warmingcanincreaseoutgoingtowardbalance. Internaltransfers atmosphere↔geosphere/hydrosphere/biosphere,evaporation/convection/IR/photosyntheticchemicalstorage;carbonmattercyclingnotenergysameprocess. Oceanthermalinertia;ice-albedofeedback;cloudneteffectconditional. Accepted NOAA/NASAselected1980/1990/2000/2010/2020table338.76/354.45/369.71/390.10/414.21ppm and.26/.45/.39/.72/1.01°C anomaly1951–80. Endpoint+75.45ppm,+.75°C;1990→2000countertrend;fivepointsnotfulltrendcausalattribution. OriginalunitbudgetnotcurrentmeasuredEarthfluxandnotmixedNASApercentageeditions."
+  },
+  {
+    "code": "AC9S10U05",
+    "descriptor": "investigate Newton’s laws of motion and quantitatively analyse the relationship between force, mass and acceleration of objects",
+    "source_basis_decision": "SUFFICIENT — BOUNDED CORE",
+    "product_status": "READY TO DRAFT subject to independent plan review",
+    "focuses": [
+      {
+        "id": "F1",
+        "intention": "Apply first/third laws with chosen systems",
+        "status": "SUFFICIENT — accepted bounded source methods",
+        "evidence": [
+          "B24-KHAN-NET-FORCE",
+          "B24-VED-FORCE-TASKS",
+          "B24-OS-THIRD-LAW"
+        ],
+        "method": "Choose each object/system, distinguish motion from acceleration, then identify simultaneous interaction partners; explain balanced-force motion and third-law pair location.",
+        "criteria": "First-law zero resultant permits constant nonzero velocity; third-law pairs act on different bodies and cannot cancel on a single-body diagram.",
+        "limits": "No source graph/pixels or observed collision. Normal and weight balance in a stated equilibrium but are not a third-law pair."
+      },
+      {
+        "id": "F2",
+        "intention": "Construct signed net-force diagrams and solveF=ma",
+        "status": "SUFFICIENT — accepted bounded source methods",
+        "evidence": [
+          "B24-OS-SECOND-LAW",
+          "B24-OS-THIRD-LAW",
+          "B24-VED-FORCE-TASKS",
+          "O24-FORCE"
+        ],
+        "method": "State direction and system, sum signed external forces, total moving mass correctly, solve ΣF=ma, then check units and direction.",
+        "criteria": "Resultant direction matches acceleration; kg and N kept distinct. State constant mass and relevant negligible-force assumptions.",
+        "limits": "Retained35kg×2.7=94.5N remains a valid bounded net-force calculation. No source figure independently measured or applied=net assumption."
+      },
+      {
+        "id": "F3",
+        "intention": "Investigate force/mass/acceleration relationships",
+        "status": "SUFFICIENT — accepted bounded source methods",
+        "evidence": [
+          "B24-IOP-NEWTON-INVESTIGATION",
+          "B24-VED-FORCE-TASKS",
+          "B24-OS-SECOND-LAW"
+        ],
+        "method": "Use the complete fixed-total-mass investigation to vary driving force, repeat acceleration measurements and inspect fit; then hold driving force and vary total mass.",
+        "criteria": "Identify controlled total mass including hanger, appropriate resultant/system, meaningful repetitions and uncertainty; predicted slope under the ideal assumptions is reciprocal mass.",
+        "limits": "No performed practical, sensor operation or fabricated empirical readings; diagrams are future original designs."
+      }
+    ],
+    "original_model_title": "System boundary, signed resultant and controlled investigation",
+    "original_model_plan": "Original6kgcart:oncart30Neastpulland6Nwestresistance gives24Neastnet→4m/s²east;verticalsupportweightbalancedunderstatedhorizontal/noverticalaccelerationconditions. Thirdlawcartpullspullerwest separateobject,notfrictionpartner. Zeroresultantcanmeanconstantnonzerovelocity. Independent force/massdatafiction:mass6kg,net12/24/36N→a2/4/6;net24N,mass3/6/12kg→a8/4/2. Completepaperinvestigationplan fromacceptedfixed-total-masstrolley+hanger methodology:includeallmovingmass,transferweightsratherthanaddtohangerwithoutremovingfromcart,repeatderivea=Δv/Δt,accountresistance;hangerweightnotautomaticallytension. Noactualpractical/measuredvaluesorunsafeapparatus."
+  },
+  {
+    "code": "AC9S10U06",
+    "descriptor": "explain how the structure and properties of atoms relate to the organisation of the elements in the periodic table",
+    "source_basis_decision": "SUFFICIENT — BOUNDED CORE",
+    "product_status": "READY TO DRAFT subject to independent plan review",
+    "focuses": [
+      {
+        "id": "F1",
+        "intention": "Relate element identity/particles/isotopes/ions",
+        "status": "SUFFICIENT — accepted bounded source methods",
+        "evidence": [
+          "B16-ATOM:VED-ATOM-TASKS",
+          "B16-ATOM:OS-ATOM-NOTATION",
+          "B24-VED-PERIODIC",
+          "O24-ATOM"
+        ],
+        "method": "Read Z/A/charge, count protons/neutrons/electrons and distinguish changes in isotope from ion; identify element by proton number.",
+        "criteria": "Use p=Z,n=A−Z,charge=p−e; conserve nuclear identity when only electrons change.",
+        "limits": "Baseline Ca/Cu/C/Cl/Co symbol matching retained as prerequisite, insufficient alone. Historical shell orbits are a simplified model."
+      },
+      {
+        "id": "F2",
+        "intention": "Map electron arrangements to group/period",
+        "status": "SUFFICIENT — accepted bounded source methods",
+        "evidence": [
+          "B24-VED-PERIODIC",
+          "B24-OS-VALENCE",
+          "B16-ATOM:OS-ATOM-NOTATION"
+        ],
+        "method": "Connect electron count/configuration to occupied outer shell and main-group valence, then infer period/group and reverse the inference.",
+        "criteria": "Explain table location through structure, not memorised identity alone. Simple group-number shortcuts scoped to main groups.",
+        "limits": "Do not assert all shells max8 or infer an ion moved to another element’s table cell; no source electron-dot pixels."
+      },
+      {
+        "id": "F3",
+        "intention": "Explain and predict recurring properties",
+        "status": "SUFFICIENT — accepted bounded source methods",
+        "evidence": [
+          "B24-OS-PERIODIC-TRENDS",
+          "B24-OS-VALENCE",
+          "B24-VED-PERIODIC"
+        ],
+        "method": "Explain recurring chemistry using valence structure; use added shells/shielding versus increased nuclear attraction to justify broad size/reactivity predictions.",
+        "criteria": "State relevant comparison and causal explanation; trend predictions are conditional, not universal monotonic facts.",
+        "limits": "Retain corrected radius ordering/compound formula, reject ambiguous identity clues and unseen dot structures. Detailed heavy-element quantum theory not required."
+      }
+    ],
+    "original_model_title": "Particle identity, electron structure and recurring properties",
+    "original_model_plan": "Originalneutralmagnesium24/26,Z12→12p,12/14n,12e;Mg2+10e,notdifferentisotope/element. Limitedfirst20shellmodelMg2,8,2 group2period3;Ca2,8,8,2 group2period4;Cl2,8,7group17period3;similarvalence/differentshells. Broadsize/reactivitycomparisonsstatecomparisonandshielding/nuclearattraction,notuniversalmonotonicall-elementruleorallthirdshellcapacity8. PreservecorrectexistingextraU06periodicFAQ byrelocatingunchangedrichHTMLintoKeyconcept andrecordrelocation;notdeleteit aslegacy. Noquantumorbitalformalism, hazardousmetalpractical oractualsourcepixels."
+  },
+  {
+    "code": "AC9S10U07",
+    "descriptor": "identify patterns in synthesis, decomposition and displacement reactions and investigate the factors that affect reaction rates",
+    "source_basis_decision": "SUFFICIENT — BOUNDED CORE",
+    "product_status": "READY TO DRAFT subject to independent plan review",
+    "focuses": [
+      {
+        "id": "F1",
+        "intention": "Identify synthesis/decomposition/displacement patterns",
+        "status": "SUFFICIENT — accepted bounded source methods",
+        "evidence": [
+          "B24-VED-REACTION-TYPES",
+          "B16-CONSERVATION:OS-BALANCING-METHOD",
+          "B16-CONSERVATION:ACS-ATOM-REARRANGEMENT",
+          "B17-ARGUMENT-PARTICLES:B17-OS-PARTICLE-REPRESENTATIONS"
+        ],
+        "method": "Verify formula identities, count conserved atoms, choose coefficients, then generalise synthesis/decomposition/single displacement from reactant/product structure.",
+        "criteria": "Balance without changing subscripts; justify category from structure and conditions. Rearrangement alone does not establish actual reaction feasibility.",
+        "limits": "Exclude old7.90M NaCl recipe/context and known source formula/name errors. No practical or source cutout/pixel claim."
+      },
+      {
+        "id": "F2",
+        "intention": "Explain rate-factor mechanisms through collisions",
+        "status": "SUFFICIENT — accepted bounded source methods",
+        "evidence": [
+          "B24-OS-RATE-FACTORS",
+          "B24-OS-COLLISIONS",
+          "B24-OS-CATALYST"
+        ],
+        "method": "Use concentration/interface/temperature changes to explain collision opportunities and success; contrast activation barrier with overall energy change and catalyst regeneration.",
+        "criteria": "Explain suitable orientation/energy, not merely more collisions. Catalyst changes pathway/rate, not the overall reaction energy or automatically final yield.",
+        "limits": "Pressure explanation limited to changed gas number density at fixed temperature; no high-pressure practical. Source10°C doubling is not universal."
+      },
+      {
+        "id": "F3",
+        "intention": "Investigate/quantify rate data with valid controls",
+        "status": "SUFFICIENT — accepted bounded source methods",
+        "evidence": [
+          "B24-RSC-RATE-PROTOCOL",
+          "B24-OS-RATE-TABLE",
+          "B24-OS-RATE-FACTORS",
+          "O24-RATE"
+        ],
+        "method": "Choose a measurable change/fixed endpoint, vary one factor while controlling others, repeat, calculate interval rates/proxies, and evaluate trend plus uncertainty.",
+        "criteria": "Specify quantity,time,units,interval,replicates and controls; no causal factor conclusion from a changed second variable or invented blank results.",
+        "limits": "RSC written/indexed protocol only; hazardous practical not approved/run. Reaction particles keep moving at plateau; source negative-caption sign repaired."
+      }
+    ],
+    "original_model_title": "Reaction patterns, collision mechanisms and rate evidence",
+    "original_model_plan": "Originalclassificationexamples2Mg+O2→2MgO(synthesis);2H2O2→2H2O+O2(decomposition);Zn+CuSO4→ZnSO4+Cu(displacementunderappropriateconditions). Coefficientsnotformulaedits,atomconservationnotthefeasibilitytest. Originalfictional gasrecordt0/10/20/30s,V0/12/20/26cm³→successive1.2/.8/.6cm³/s,overall26/30≈.87;intervalnotinstantaneous/molarrate. Matchedfixedendpoint20cm³records lump40/41/39s vspowder20/21/19s→mean40vs20,1/meanproxy.025vs.05s−1 undergivencontrols,notuniversaldoublingorfinalyield. Explainorientation/energythreshold,temp/concentration/surface/catalyst;illustrativeenergybarrierscancomparewithoutseniorformalrateequations. Paperonly,nohazardousprotocolrecipe."
+  },
+  {
+    "code": "AC9S10H01",
+    "descriptor": "explain how scientific knowledge is validated and refined, including the role of publication and peer review",
+    "source_basis_decision": "SUFFICIENT — BOUNDED CORE",
+    "product_status": "READY TO DRAFT subject to independent plan review",
+    "focuses": [
+      {
+        "id": "F1",
+        "intention": "Explain publication/editor/reviewer roles",
+        "status": "SUFFICIENT — accepted bounded source methods",
+        "evidence": [
+          "B16-PEER-PRIORITIES:RSC-EDITORIAL-POLICY",
+          "B16-PEER-PRIORITIES:NATURE-REVISION-POLICY",
+          "B16-PEER-PRIORITIES:RSC-REVIEW-CHECKLIST",
+          "B16-PEER-PRIORITIES:RSC-REVIEW-CASE"
+        ],
+        "method": "Sequence communication/screening/review/revision/decision and identify what each actor inspects; apply the complete checklist to the actual fictional case.",
+        "criteria": "Explain scrutiny and wider access to methods/results rather than publication=proof; feedback cites specific missing or unsupported evidence.",
+        "limits": "No real submission, actual clinical outcome or undisclosed-source reconstruction. Fictional case daily dosing frequency is given, contrary to one teacher-note criticism."
+      },
+      {
+        "id": "F2",
+        "intention": "Evaluate replication/reproducibility and review limits",
+        "status": "SUFFICIENT — accepted bounded source methods",
+        "evidence": [
+          "B16-PEER-PRIORITIES:NASEM-CHECKING-TERMS",
+          "B16-PEER-PRIORITIES:RSC-REVIEW-LIMITS",
+          "B16-PEER-PRIORITIES:RSC-REVIEW-CASE",
+          "B17-ARGUMENT-PARTICLES:B17-LHS-EVIDENCE"
+        ],
+        "method": "Specify the checking action before naming it: recompute saved data/code, collect comparable new data, or test another context; evaluate independence and limitations.",
+        "criteria": "Explain what agreement strengthens and what it cannot guarantee; recognise journal/disciplinary terminology differences and incomplete review.",
+        "limits": "NASEM2019 convention named, not universal; no real replication performed or fraud inferred from one disagreement."
+      },
+      {
+        "id": "F3",
+        "intention": "Explain correction/refinement from evidence",
+        "status": "SUFFICIENT — accepted bounded source methods",
+        "evidence": [
+          "B16-PEER-PRIORITIES:RSC-EDITORIAL-POLICY",
+          "B16-PEER-PRIORITIES:RSC-REVIEW-CASE",
+          "O24-REVIEW"
+        ],
+        "method": "Identify which part of a claim depends on questionable evidence, propose proportionate further checking, then distinguish limited correction, unresolved concern and central unreliability.",
+        "criteria": "Explain how methods/new evidence refine confidence and claims; correction is not itself proof of fraud or of the replacement result.",
+        "limits": "No real article retraction/correction outcome invented. The source fictional case supplies critique, not a new completed trial."
+      }
+    ],
+    "original_model_title": "Publication, independent checking and proportionate correction",
+    "original_model_plan": "Originalfictionalfilterreport:matchedinitialsensorindex20;fourindependentfilterAoutlets6/7/8/7mean7;B10/11/12/11mean11understatedmatchedvolume,flowtime/sensormethod,randomisedpositions. Claimdrinkable/bacteriafreeoverreaches turbidity-likeindex;notrealwaterqualitytest. Original reviewer→revision→editor→publication→continuedcheckingworkflow,checkactionmatrix recompute/newdata/newcontext,proportionatecaptioncorrectionversuscentralunreliabilityinvestigation. Nojournalcorrespondence,healthadviceoractualclinical/fieldresult."
+  },
+  {
+    "code": "AC9S10H02",
+    "descriptor": "investigate how advances in technologies enable advances in science, and how science has contributed to developments in technologies and engineering",
+    "source_basis_decision": "SUFFICIENT — BOUNDED CORE",
+    "product_status": "READY TO DRAFT subject to independent plan review",
+    "focuses": [
+      {
+        "id": "F1",
+        "intention": "Identify technology's new scientific capability",
+        "status": "SUFFICIENT — accepted bounded source methods",
+        "evidence": [
+          "PENICILLIN:OXFORD-PEN",
+          "PENICILLIN:NMA-PEN"
+        ],
+        "method": "Identify the exact new measurement/preparation capability and what it allowed scientists to test or distinguish in the accepted historical case.",
+        "criteria": "Explain the tool’s capability and its scientific consequence with attributed evidence, not only chronological co-occurrence.",
+        "limits": "No modern efficacy/clinical advice, invented before/after numerical experiment or source figure inspection."
+      },
+      {
+        "id": "F2",
+        "intention": "Explain science informing engineered tools",
+        "status": "SUFFICIENT — accepted bounded source methods",
+        "evidence": [
+          "PENICILLIN:OXFORD-PEN",
+          "PENICILLIN:NLA-TEAM",
+          "O24-TECHNOLOGY"
+        ],
+        "method": "Work back from a scientific problem/understanding to the purpose and requirements of an assay, extraction/culture system or analytical instrument.",
+        "criteria": "Name the science informing design and why the design change matters; do not infer accuracy merely from more display digits.",
+        "limits": "Source oral-history recordings remain unheard and practical protocols unselected. No device manufactured or calibration performed."
+      },
+      {
+        "id": "F3",
+        "intention": "Investigate reciprocal development and constraints",
+        "status": "SUFFICIENT — accepted bounded source methods",
+        "evidence": [
+          "PENICILLIN:OXFORD-PEN",
+          "PENICILLIN:NMA-PEN",
+          "PENICILLIN:NLA-TEAM"
+        ],
+        "method": "Investigate a two-way feedback chain: question→designed capability→new evidence→revised explanation/requirements; compare constraints and credit at each link.",
+        "criteria": "Supported chronology plus mechanism and limitations, at least one evidence-based link each way, and recognition of complementary work.",
+        "limits": "Historical bacterial inhibition alone is not safe/effective medicine proof; errors about Oxford/Cambridge, dates and first Australian Nobel remain excluded."
+      }
+    ],
+    "original_model_title": "Technology supplies capability; science directs design",
+    "original_model_plan": "Originalhistoricalpenicillin capability-feedback model basedonacceptedOxford/NMA/NLArecords:scientificisolation/activityquestions→assay/extraction/culturesystemrequirements→Heatleyandcollaboratingteamcapabilities→comparablenewevidence→refinedstructure/questions. Analyticaltools/crystallographyconnectstructuralhypothesesandengineering. Explainconstraint/reliability/calibration/teamcredit,notsolegeniusorchronologyalone. No inventedhistoricalyield/dose/outcomes. Earlierun-reopenedFloreylectureexcludedfromnewindependentbasis asbatch24requires. Guidedcasescounterfactualrequirementswithinacceptedcase,notnewunverifiedhistory."
+  },
+  {
+    "code": "AC9S10H03",
+    "descriptor": "analyse the key factors that contribute to science knowledge and practices being adopted more broadly by society",
+    "source_basis_decision": "SUFFICIENT — BOUNDED CORE",
+    "product_status": "READY TO DRAFT subject to independent plan review",
+    "focuses": [
+      {
+        "id": "F1",
+        "intention": "Distinguish adoption from scientific validity",
+        "status": "SUFFICIENT — accepted bounded source methods",
+        "evidence": [
+          "PLASTICS:CSIRO-PLASTIC-RELEASE",
+          "PLASTICS:CSIRO-PUBLIC-PLASTICS",
+          "PLASTICS:BTN-PLASTIC-TRANSCRIPT",
+          "PLASTICS:QLD-CONSULTATION"
+        ],
+        "method": "Separate research observations and their methodological limits from evidence of public, corporate or government uptake; identify what each datum measures.",
+        "criteria": "Do not infer validity from popularity or single-policy causation from observational change; preserve the study/communication metric nuance.",
+        "limits": "No raw inaccessible paper analysis or new uptake survey; historical messages remain dated and attributed."
+      },
+      {
+        "id": "F2",
+        "intention": "Analyse interacting trust/risk/access/policy factors",
+        "status": "SUFFICIENT — accepted bounded source methods",
+        "evidence": [
+          "PLASTICS:QLD-CONSULTATION",
+          "PLASTICS:QLD-CURRENT-RULE-MESSAGE",
+          "PLASTICS:QLD-ACCESS-MESSAGE",
+          "PLASTICS:BTN-PLASTIC-TASKS",
+          "O24-ADOPTION"
+        ],
+        "method": "Analyse interacting practical, trust, risk, cost, policy and value factors using the complete case; distinguish barriers supported by evidence from assumptions.",
+        "criteria": "Explain relationships among factors and scope of evidence; consultation respondents are not a representative population and campaign reach is not persuasion.",
+        "limits": "No current general legal/compliance advice or claim everyone faces identical access constraints; exact policy editions inspected previously are preserved."
+      },
+      {
+        "id": "F3",
+        "intention": "Evaluate stakeholder equity and possible interventions",
+        "status": "SUFFICIENT — accepted bounded source methods",
+        "evidence": [
+          "PLASTICS:BTN-PLASTIC-TASKS",
+          "PLASTICS:BTN-PLASTIC-TRANSCRIPT",
+          "PLASTICS:QLD-CONSULTATION",
+          "PLASTICS:QLD-ACCESS-MESSAGE"
+        ],
+        "method": "Apply the actual PMI, alternatives and evidence-based argument routine; propose a targeted intervention, weigh competing stakeholder effects and define how to monitor it.",
+        "criteria": "Match intervention to evidenced barrier, include feasibility/access and uncertainty, and specify useful outcome evidence without claiming it was collected.",
+        "limits": "No preferred political answer, manipulative persuasion success or causal evaluation outcome. Disability guidance is contextual evidence, not assessment of an individual."
+      }
+    ],
+    "original_model_title": "Performance, adoption and interacting barriers",
+    "original_model_plan": "Originalfictionalinsulationpacket:matched100mLcupstesting12minfrom50°Cin22°Croom;uninsulatedloss9/10/11°Cmean10,insulated4/5/6mean5→50%lowertemperaturedecreaseonlynot50%householdbill. Of100invitedhouseholds60adopt;40reportoneprimarybarrier20upfrontcost,12rentalpermission,8scheduling;secondarybarrierscaninteract. Factor-maptrust,risk,access,cost,policy/communityvalues→contextualchoice;financealonecannotaddressallpermission/schedulingissues. Targetedintervention/equitytradeoffs/followupactualadoption+outcomesnotwebreach, noactualsurvey/currentlaworuniversalsolution."
+  }
+]

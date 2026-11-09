@@ -1,0 +1,30 @@
+[
+  {
+    "code": "AC9S10U04",
+    "section": "Reasoning and problem-solving",
+    "before": "A graph shows rising atmospheric carbon dioxide and rising global mean temperature.",
+    "after": "Selected records show higher endpoint atmospheric carbon dioxide and global mean temperature.",
+    "reason": "The exercise had no graph. Align its wording with the supplied selected data, retaining its causal-evidence demand."
+  },
+  {
+    "code": "AC9S10U04",
+    "section": "Practice and review",
+    "before": "A graph shows atmospheric carbon dioxide and global mean temperature both increasing.",
+    "after": "Selected records show higher endpoint atmospheric carbon dioxide and global mean temperature.",
+    "reason": "The exercise had no graph. Align its wording with the supplied selected data, retaining its causal-evidence demand."
+  },
+  {
+    "code": "AC9S10U04",
+    "section": "Reasoning and problem-solving",
+    "before": "one graph alone establishes",
+    "after": "these selected records alone establish",
+    "reason": "Close the dependent reference to the same absent graph."
+  },
+  {
+    "code": "AC9S10U04",
+    "section": "Practice and review",
+    "before": "Explain why the graph is important evidence but is not, by itself, the complete causal explanation.",
+    "after": "Explain why the selected records are useful evidence but are not, by themselves, the complete causal explanation.",
+    "reason": "Close the dependent reference to the same absent graph."
+  }
+]

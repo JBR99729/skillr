@@ -1,0 +1,165 @@
+{
+  "original_models": "Ten original author-created teaching SVG models. No source artwork copied.",
+  "models": [
+    {
+      "code": "AC9S10U01",
+      "index": 0,
+      "png": "AC9S10U01-0.png",
+      "kind": "new",
+      "literal_svg_sha256": "80dccd864cafd3245057e95901189d8d841843d33a573bf12fd607781911e9ea",
+      "prepared_render_svg_sha256": "80dccd864cafd3245057e95901189d8d841843d33a573bf12fd607781911e9ea",
+      "png_sha256": "f051c16d7043159488ffd17b9da4933ad4355e2c8b133cfe330403981c534d08"
+    },
+    {
+      "code": "AC9S10U01",
+      "index": 1,
+      "png": "AC9S10U01-1.png",
+      "kind": "retained",
+      "literal_svg_sha256": "249afeec1829741eeee09c5dbcfe94281790dcaa120bc58439ca1e3d710a901d",
+      "prepared_render_svg_sha256": "3c703eb9d37dea34f824370e50d42492f6918d96782402100098e4a93f97ffcb",
+      "png_sha256": "ef08dfcaaf535df9e970dadb2f84242149b6820ce959eaa84fb4fa6866c51fad"
+    },
+    {
+      "code": "AC9S10U02",
+      "index": 0,
+      "png": "AC9S10U02-0.png",
+      "kind": "new",
+      "literal_svg_sha256": "8451eb30a17d0c789f3a175c8465d89134d454747bcbcf3952be6b6b2b63375a",
+      "prepared_render_svg_sha256": "8451eb30a17d0c789f3a175c8465d89134d454747bcbcf3952be6b6b2b63375a",
+      "png_sha256": "8e379c2a2071429fad34d5d9925be5bb2c732952dc2170a3132130c916fe1856"
+    },
+    {
+      "code": "AC9S10U03",
+      "index": 0,
+      "png": "AC9S10U03-0.png",
+      "kind": "new",
+      "literal_svg_sha256": "4a837dceaacaa262911bfe18e5bc072f25ac91b2c7a456614df5938add6b9057",
+      "prepared_render_svg_sha256": "4a837dceaacaa262911bfe18e5bc072f25ac91b2c7a456614df5938add6b9057",
+      "png_sha256": "7817f35ee328085c280207b334fee0040f56ecf9e9a0148c6f6500f47ae7e052"
+    },
+    {
+      "code": "AC9S10U03",
+      "index": 1,
+      "png": "AC9S10U03-1.png",
+      "kind": "retained",
+      "literal_svg_sha256": "9b1082cafe45b109ae13b8ae668287dbd2521e54756c4a6472619b88e6e8ff01",
+      "prepared_render_svg_sha256": "92902c04127e726a4378e71b1e51df267899948013aebcf0c7c4abd6ba894cc1",
+      "png_sha256": "30d867a066312877cf47b764697962308cf3746f74131843fae45d91a206d278"
+    },
+    {
+      "code": "AC9S10U04",
+      "index": 0,
+      "png": "AC9S10U04-0.png",
+      "kind": "new",
+      "literal_svg_sha256": "2877835c4b66180d38aaff51d067c8e2d4ba0a108e7e729a3b2cdb7d4ac59f10",
+      "prepared_render_svg_sha256": "2877835c4b66180d38aaff51d067c8e2d4ba0a108e7e729a3b2cdb7d4ac59f10",
+      "png_sha256": "dd823b57ba0027825fce726c60c5d6aabc824172c3ad6df7279fa02e3f444ae7"
+    },
+    {
+      "code": "AC9S10U04",
+      "index": 1,
+      "png": "AC9S10U04-1.png",
+      "kind": "retained",
+      "literal_svg_sha256": "dd962b264bc947102098182ad7b1330d21962b9668ba708e02bd4781885928ef",
+      "prepared_render_svg_sha256": "63ca10365a181804847813fc418dc601579008b73facbf4446a321cd64ccf4a5",
+      "png_sha256": "2087676df304913440176d10194b3df7486bcc2ee10e40c686af1355273fbab5"
+    },
+    {
+      "code": "AC9S10U05",
+      "index": 0,
+      "png": "AC9S10U05-0.png",
+      "kind": "new",
+      "literal_svg_sha256": "ceb8e5028bbc20608f17a6935d0b38a3b004387a5ad9cb95bcb7474e602c5751",
+      "prepared_render_svg_sha256": "ceb8e5028bbc20608f17a6935d0b38a3b004387a5ad9cb95bcb7474e602c5751",
+      "png_sha256": "66dab4cc449b8a296335cc8eacd6dfbf288e38ace35a9e77eb7a23b439c48f99"
+    },
+    {
+      "code": "AC9S10U05",
+      "index": 1,
+      "png": "AC9S10U05-1.png",
+      "kind": "retained",
+      "literal_svg_sha256": "824f29d72b5cd44ec731c673f7c147ec0cf1692781a49a7caedc2b933a66f6fc",
+      "prepared_render_svg_sha256": "83c4015911afdb5a0b732ea7c6d037f25346b12b6d7ae2e086c8020cbbf4e478",
+      "png_sha256": "736e52cae60c5907a89cd955dec3f9b769742535cb6cd618f6b7a13d65c2f9d6"
+    },
+    {
+      "code": "AC9S10U06",
+      "index": 0,
+      "png": "AC9S10U06-0.png",
+      "kind": "new",
+      "literal_svg_sha256": "c6893bc260de3077c137de0d249ccf8b7951d38697f78684dc7a599efc4a57c1",
+      "prepared_render_svg_sha256": "c6893bc260de3077c137de0d249ccf8b7951d38697f78684dc7a599efc4a57c1",
+      "png_sha256": "6100abff0d758a11af0ecd24ba57a46029f90acad270a245ad88199b6193b2b3"
+    },
+    {
+      "code": "AC9S10U06",
+      "index": 1,
+      "png": "AC9S10U06-1.png",
+      "kind": "retained",
+      "literal_svg_sha256": "5d91acf487ad936b3037aeb85f7412e5a1d89b58f8f6c5bf9f349b039b7a7813",
+      "prepared_render_svg_sha256": "f076126e8100fcf71d018c6327c117d23b1c1678c2a77db60265f4fe35a52a22",
+      "png_sha256": "ace235ebfcef0cedac0773a1875726d015c21ce0a7b335925571cfcadd3e68a8"
+    },
+    {
+      "code": "AC9S10U07",
+      "index": 0,
+      "png": "AC9S10U07-0.png",
+      "kind": "new",
+      "literal_svg_sha256": "e78fc941c35343e815b11734800724eb9a68757b6d7a30475e5aa582ec1ec147",
+      "prepared_render_svg_sha256": "e78fc941c35343e815b11734800724eb9a68757b6d7a30475e5aa582ec1ec147",
+      "png_sha256": "d3be4e365f075ec94ccea2e14269d7b8eeb6dca44dc038519a0ef9f86379149e"
+    },
+    {
+      "code": "AC9S10U07",
+      "index": 1,
+      "png": "AC9S10U07-1.png",
+      "kind": "retained",
+      "literal_svg_sha256": "4a2265be3e66f6303ba76d2f0ad99f7e8b1efa824b501bb3f19af7462658c75b",
+      "prepared_render_svg_sha256": "9c4065925319e502eab7a1e8aac5289d336c5302ba98f44c671d14d278d3817c",
+      "png_sha256": "994e22116d8c4732b80b1a81d7c0e08f395b6af3930a3c934529fee2fa603902"
+    },
+    {
+      "code": "AC9S10H01",
+      "index": 0,
+      "png": "AC9S10H01-0.png",
+      "kind": "new",
+      "literal_svg_sha256": "9355106460cada05cd780ea536aed9e6674bb712c5cb9a449a796ee675ea817e",
+      "prepared_render_svg_sha256": "9355106460cada05cd780ea536aed9e6674bb712c5cb9a449a796ee675ea817e",
+      "png_sha256": "3f7924e4a084819c10800b6c1e2cd1195cc67237fd7ca86c8eb92079824c8280"
+    },
+    {
+      "code": "AC9S10H02",
+      "index": 0,
+      "png": "AC9S10H02-0.png",
+      "kind": "new",
+      "literal_svg_sha256": "21bd5923fada3ffcaaaaa4f3c702aa065110a87a3f0ed357c3913541bf379a71",
+      "prepared_render_svg_sha256": "21bd5923fada3ffcaaaaa4f3c702aa065110a87a3f0ed357c3913541bf379a71",
+      "png_sha256": "8000a6b59dc7e48bd5d23cfa2528867d3a36c03c67748c27556ec4afa5b09d69"
+    },
+    {
+      "code": "AC9S10H03",
+      "index": 0,
+      "png": "AC9S10H03-0.png",
+      "kind": "new",
+      "literal_svg_sha256": "c10028badf089e075b091a7a08ba6b6b18703ee59610118fadc1a3ebfb5a8c45",
+      "prepared_render_svg_sha256": "c10028badf089e075b091a7a08ba6b6b18703ee59610118fadc1a3ebfb5a8c45",
+      "png_sha256": "6d6158df5bb9bcf517d873aa14bece52e6e75f088423cac64a84de29bd3d2d76"
+    }
+  ],
+  "html_models": [
+    {
+      "code": "AC9S10U02",
+      "index": 0,
+      "literal_html_sha256": "4957895f24668b84e1c30382f2ca3aae65b7b8aba13ccda73db4e05bba9ad059",
+      "kind": "retained",
+      "description": "Natural selection sequence: four original text boxes, preserved exact literal HTML; actual hosted Chrome render required."
+    }
+  ],
+  "hash_definitions": {
+    "literal_svg_sha256": "SHA256 of exact literal <svg\u2026</svg> UTF-8 substring from final page source, in DOM/source order.",
+    "prepared_render_svg_sha256": "SHA256 of standalone renderer input: literal plus missing xmlns and retained SVG-relevant head styles with removed ancestor prefixes and default Arial font.",
+    "png_sha256": "SHA256 of actual standalone white-background 1000-pixel-width PNG bytes inspected by reviewer. Browser renders remain separately checked."
+  },
+  "retained_render_css": "Retained .science-diagram-label uses actual preserved /assets/year10-science-topic-v2.css font/fill: Arial,sans-serif; #0f172a. Standalone render injects these text declarations; hosted Chrome is separately required.",
+  "retained_stylesheet_sha256": "d302a9de09d7d2c9aa6a4614c63ef576c5ba26f23664f8c01ba9de431bc49c78"
+}
