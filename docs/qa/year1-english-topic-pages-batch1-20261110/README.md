@@ -1,0 +1,13 @@
+# Year 1 English Topic Guides — batch 1
+
+Ten public static guides, AC9E1LA01–LA10. Each has three compact entry focuses plus all six existing deeper teaching focuses. Preserve 90 substantive existing sections, vocabulary and learning goals, ten earlier models, actual teaching images, metadata/JSON-LD and aligned same-code resources. Nine existing optional paid product links and their available covers remain; LA09 has no matching paid link and none is invented.
+
+The source records contain 400 authored teaching strings, seven complete stimulus/material packets and one narrow artwork-attribution correction. Strings are not scored-question counts. `plan.json`, `retained-inventory-plan.json`, `retained-preludes.json`, `resource-preservation.json`, the artwork inventory and source checks record the exact scope. The approved Year 1 Maths N01 reference is pinned in the retained plan. Earlier strong lessons remain intact inside the compact guide wrapper; repeated outer resource/online/promotional panels are removed.
+
+Research preflight passed against the actual current saved records: 58 current files and 48 exact accepted dependency triples from research commit `37e13787f95c17debf081eab1b916acbfb17d602`. Source observation, original design and performance limits remain separate. The later source-method authority/corrections are applied rather than older blocked labels. See the independent research/plan review and source identities.
+
+Scoped source QA passes for ten pages, all 400 strings, 90 retained sections, 301 native disclosures, exact metadata, earlier/retained SVG geometry, all retained image sources/alt text, vocabulary, paid product/cover preservation, local routes and availability-aware app entrances. Static layout, 128 locked learning-order pages, loader guards, 284 English pages, the 709-topic architecture audit and 15 related navigation/display tests pass. Shared CSS, navigation, app availability, app banks and linked teaching products are unchanged.
+
+Final independent authored-content review and actual browser-pixel review are pending at this commit. Keep the PR draft until they pass. Local Chromium failed before opening a page with socket/ptrace EPERM; use the actual hosted Chrome workflow. The ten inline SVG instances, 33 native HTML/image figures and 24 unchanged external image assets require actual render inspection. Phone multi-panel images remain 720px wide within focusable scrolling containers; page-wide overflow is not acceptable.
+
+This is public-page work, not app-bank, worksheet, Teacher Slides, pupil-attainment or whole-subject badge certification. PRs #980 and #981 remain separate and unmerged; no production merge is requested in this turn.

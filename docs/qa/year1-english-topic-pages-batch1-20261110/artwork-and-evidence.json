@@ -1,0 +1,410 @@
+{
+  "models": [
+    {
+      "code": "AC9E1LA01",
+      "index": 1,
+      "literal_svg_sha256": "23dbd035e54c835580013c07573e949e32b46b7fe119254c02ca7f29e5e3c623",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LA02",
+      "index": 1,
+      "literal_svg_sha256": "7744255ff5d030967b7dd4a05cb686c0db8fa7593c785c315174c75f1c935267",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LA03",
+      "index": 1,
+      "literal_svg_sha256": "93684ff481f08f1bbb5aaf42fd81e7ecdd10ba0c2d44f59af73f5e3747a8c0e9",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LA04",
+      "index": 1,
+      "literal_svg_sha256": "b6c84cc2a9f0d07238f11a4e865d2f2d4b08a12a2154732c8d02e34377ff1690",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LA05",
+      "index": 1,
+      "literal_svg_sha256": "a4d8f92a481d181a9c44ef2f671d02541b61a364aa94fdff09628499c328d4a5",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LA06",
+      "index": 1,
+      "literal_svg_sha256": "015d520d2937e75998dd49d49a400c753ef4be94fb820e50288938d8500788ad",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LA07",
+      "index": 1,
+      "literal_svg_sha256": "ef629b12bacb969e5394b71eeee0adcfe1a4ec601554af9fd546875f1f29ed5f",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LA08",
+      "index": 1,
+      "literal_svg_sha256": "8078627d9d53c665b8979ca42bccc1b90a2e5dccab36d8697bd724bf6c4b8238",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LA09",
+      "index": 1,
+      "literal_svg_sha256": "9b27821b58b9c7368dd186ca13c1f48756c677fe3484010d16822eb940b2ebad",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LA10",
+      "index": 1,
+      "literal_svg_sha256": "2c15946a6309d983d0cd56b2037ee6b32aeecb6845ddc90d35c79f7387060d3a",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    }
+  ],
+  "native_models": [
+    {
+      "code": "AC9E1LA01",
+      "index": 1,
+      "html_sha256": "692870427fec286f4619ebd8753cae92d6565372a1cd0ab7e78c935ad00a143c",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LA01",
+      "index": 2,
+      "html_sha256": "0eede3a32c686657a5ee7cabc7d9c4dadc34cf507f24353a472951e50f623d64",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LA02",
+      "index": 1,
+      "html_sha256": "2779ee19a01f3bcf824b07f80f2d38bcf0ac9d44f3e3d18a2220b9b0f7304ca6",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LA02",
+      "index": 2,
+      "html_sha256": "89fbcf66472e1f407a04d6a98389a5fb8534cdcc0c6facb22ae2d1097ba7dd36",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LA03",
+      "index": 1,
+      "html_sha256": "ac23820327cdba32eaecd61cfab12166bea6e55fea0859d0c45e2da0350eece2",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LA03",
+      "index": 2,
+      "html_sha256": "d2b9651fe6f90e8e7101c67f8d905d0cd3194261dd890c4bb5abfd3db9f2c2b4",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LA04",
+      "index": 1,
+      "html_sha256": "e518be5d5617a30678b63c859f0d201f294467cd874e95840ecd6a7ba0d39fdd",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LA04",
+      "index": 2,
+      "html_sha256": "92ff1f2f41eb41f8db20ab874c3ae649536034dc1f00d6edecaef1f248260af8",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LA05",
+      "index": 1,
+      "html_sha256": "0110f5729334ad9e89b2b94df256578f8c85665d47f27dca562853e483f5804f",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LA05",
+      "index": 2,
+      "html_sha256": "190eae08ca17a67247de984aa587013c54ad7ff43809c39e6cc844472bc5b18e",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LA05",
+      "index": 3,
+      "html_sha256": "d34a7f2141f6ebed36c737d80518ef5a3fc0fa8f727947e5ab7942cc9497a96e",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LA06",
+      "index": 1,
+      "html_sha256": "7296ee53d21912ca78a5918afe030e5c2e4025f9e942e5d7243595cdd40950b1",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LA06",
+      "index": 2,
+      "html_sha256": "4fafc3eb943d0f0f29e222ce27e0c43cd8d2222022371fa32b418dc942c9eb25",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LA07",
+      "index": 1,
+      "html_sha256": "87db09c2bf5e204a8ab515104fdd0c1e787741d2d2a5109a6d2694ed52e638cc",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LA07",
+      "index": 2,
+      "html_sha256": "97ca5f3bb44d09bca84fa54a66d59c18248b18cd46b0a9214c14d9dfd06e0100",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LA08",
+      "index": 1,
+      "html_sha256": "d5a6fda34a0791cb4712a176054e4176c37b017177e8f468eb32a25a5d26bc6f",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LA08",
+      "index": 2,
+      "html_sha256": "e383d053632dfb37807a07fd503aab047710197507662b0c9a889aaa1dbfc8cd",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LA08",
+      "index": 3,
+      "html_sha256": "ef5e40c9e88798fcf367ba57c823fca634eac89a0efb9f36d9382b4f4f3e50a2",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LA08",
+      "index": 4,
+      "html_sha256": "85b7ead708780b1f64b4bf69a1662c205f7b75c095398af2338f277140122b28",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LA08",
+      "index": 5,
+      "html_sha256": "7e03bf78cc77246506b83db636111d8faa805a8ae4d2e386d29109fa87190039",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LA08",
+      "index": 6,
+      "html_sha256": "337c23d048cd8ea7c66cc8607c8fbb65a99e10067664fa722e7a8a74455d34ca",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LA08",
+      "index": 7,
+      "html_sha256": "369031edb5b93726c041b3a95965a5be4b774b718d7e9a621accbf1154e5624e",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LA08",
+      "index": 8,
+      "html_sha256": "67956f6f4eda761c6368125a28797e36574500fa738880579365272626bbc947",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LA08",
+      "index": 9,
+      "html_sha256": "a8d10f4e3f634c4a73cc3ba6a89a20ff0bd4ee2575680b7a9bbc52b11113ce30",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LA08",
+      "index": 10,
+      "html_sha256": "5a0a6a11ea11ff3c62d155ab851c3368955f848e94c2494c78a73f4b66cf9019",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LA08",
+      "index": 11,
+      "html_sha256": "209bb58b8f0ea3f8c00c78613a44fac3f27b9997ed7aa4df03193c8b891fa841",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LA08",
+      "index": 12,
+      "html_sha256": "55d82b4a419985359e4c17bc25089efc27f2940295715e59bb76084e2357bb69",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LA08",
+      "index": 13,
+      "html_sha256": "543728c103d4be6ada5ff969b6046a7a139f2407d97b94f955e1c77e6bb76260",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LA09",
+      "index": 1,
+      "html_sha256": "9f89ed8271fb8da66c9bec31969ec79b1c4bb03e14b44f205e1f3b32697f2c71",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LA09",
+      "index": 2,
+      "html_sha256": "84d3fb64d35fb559632418d421a0caee15c8b7667ef3497238b64d362c658992",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LA09",
+      "index": 3,
+      "html_sha256": "aca2bf84271eef628cd9a1e6338370a446f0a87da079b5060eb3406fe1337bfc",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LA10",
+      "index": 1,
+      "html_sha256": "05e7ae0a3506fca1f50e28c4184c6cbe3c1372ec44bb61c6a56f5c726692423b",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E1LA10",
+      "index": 2,
+      "html_sha256": "4b230cdc2e8581ab346974127a3ea84c52e707d389f950916df24085c1bd8cb2",
+      "origin": "New native model or preserved image/model; native browser pixel review pending."
+    }
+  ],
+  "image_assets": [
+    {
+      "path": "/assets/teaching-models/year1/ac9e1la01.svg",
+      "bytes": 1573,
+      "sha256": "36d4cd42cc4bd1aa9d34064dc3d19e9a6019a7ec1e7bd92793acf4465954be6c",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained."
+    },
+    {
+      "path": "/assets/teaching-models/year1/ac9e1la02.svg",
+      "bytes": 1493,
+      "sha256": "4f019e733b9db81b43a750e94b048f39ee1a8433e087884ffad6f9dd7946b47b",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained."
+    },
+    {
+      "path": "/assets/teaching-models/year1/ac9e1la03.svg",
+      "bytes": 1535,
+      "sha256": "4dafdb75e42f7d111fb197f109b342ec9ba9d39c914e5bba286a23d8c3bdfff3",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained."
+    },
+    {
+      "path": "/assets/teaching-models/year1/ac9e1la04.svg",
+      "bytes": 1485,
+      "sha256": "153cc80f674796d907c6d049d79c3e56483f8549417858493ebbd052d03d6f5a",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained."
+    },
+    {
+      "path": "/assets/teaching-models/year1/ac9e1la05.svg",
+      "bytes": 1511,
+      "sha256": "154a1ecd0a68c181ebafac5f7c76a7e9db87cf52c9e29124d3e2c777ecca5c8b",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained."
+    },
+    {
+      "path": "/assets/teaching-models/year1/ac9e1la06.svg",
+      "bytes": 1436,
+      "sha256": "577eeb41214eafd2b50798b8f38fdbdc7a6686ff7046180fd5c54fd3171a2a5e",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained."
+    },
+    {
+      "path": "/assets/teaching-models/year1/ac9e1la07.svg",
+      "bytes": 1450,
+      "sha256": "a303da0cdf767adb7653a8ef8bace8f410c4e94f06fdf9c754a14f5192a2523c",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained."
+    },
+    {
+      "path": "/assets/teaching-models/year1/ac9e1la08.svg",
+      "bytes": 1113,
+      "sha256": "8f75d4d2691feecf062ecaa5bc181063ff725f6f1a0c177eee32678d73e53938",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained."
+    },
+    {
+      "path": "/assets/teaching-models/year1/ac9e1la09.svg",
+      "bytes": 1443,
+      "sha256": "014bcc8a8535cc2ed3fde3b4b11b262eff789d03bf0f34499b078b9afbac747f",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained."
+    },
+    {
+      "path": "/assets/teaching-models/year1/ac9e1la10.svg",
+      "bytes": 1519,
+      "sha256": "8935a830226e729666d6851e803e690efe78ccf4a6419f71ee816601734755bb",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained."
+    },
+    {
+      "path": "/assets/topic-visuals/reused/growing-plants.webp",
+      "bytes": 431468,
+      "sha256": "952c3062cf3aaa351934b721ea2ae842194487b1d03476e0ddc63bb1bdf54e4c",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained."
+    },
+    {
+      "path": "/assets/topic-visuals/year1/la05-watering-can.png",
+      "bytes": 54074,
+      "sha256": "74411af6efd5b414f8c4139a457ae64c348abbed0a1b006cbdd5bef1b004e4e1",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained."
+    },
+    {
+      "path": "/assets/topic-visuals/year1/la08-duck-comparison.png",
+      "bytes": 177642,
+      "sha256": "295814c5d0c910a2a76b4f2f746ec27212539faf313686619632192ae907458f",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained."
+    },
+    {
+      "path": "/assets/topic-visuals/year1/la08-flower-labels.png",
+      "bytes": 81874,
+      "sha256": "55d3d30aa51b94bfa29f082c78783ecc0f5306c097b0fb5ffccc24c7d5ce59fe",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained."
+    },
+    {
+      "path": "/assets/topic-visuals/year1/la08-kitten-under-chair.png",
+      "bytes": 2830756,
+      "sha256": "ab5c4762f0f6e209020ce66f6b5f042e946ea875bfb80713dcb75fe048ae39a7",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained."
+    },
+    {
+      "path": "/assets/topic-visuals/year1/la08-picture-jobs.png",
+      "bytes": 255281,
+      "sha256": "432b060d1deb0f544dac6c738cd4b4f9173f99f9febce11797439ca7902b5ae5",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained."
+    },
+    {
+      "path": "/assets/topic-visuals/year1/la08-plant-sequence.png",
+      "bytes": 185630,
+      "sha256": "77c99924c3fb9c2ccc023adc2be30f157d972a409df713e1ed27f794bddef69a",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained."
+    },
+    {
+      "path": "/assets/year-1-english-likes-dislikes-preferences-worksheets-cover.png",
+      "bytes": 202410,
+      "sha256": "79fba9468fa1142e6a85a49ca86980c2a59c5a97609ce26586ca178318e203ad",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained."
+    },
+    {
+      "path": "/assets/year-1-english-print-digital-text-features-worksheets-cover.png",
+      "bytes": 135071,
+      "sha256": "488b941b8cb95d9818852ebf8bf8a5199037a9254d63fd331e5accf9ba2f6643",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained."
+    },
+    {
+      "path": "/assets/year-1-english-rhyme-rhythm-repetition-worksheets-cover.png",
+      "bytes": 176462,
+      "sha256": "00e703380236b210fe5cab9455dfca700bd2485fed674b002a9968eae5b55a90",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained."
+    },
+    {
+      "path": "/assets/year-1-english-simple-sentence-worksheets-cover.png",
+      "bytes": 94342,
+      "sha256": "514115ea3f4d85db8a15caec088e32248703ddd11dcfc6ffec4049cecb435cab",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained."
+    },
+    {
+      "path": "/assets/year-1-english-text-purpose-structure-worksheets-cover.png",
+      "bytes": 152876,
+      "sha256": "770d966c6db92f9b19627d445e2a3d234c40ac66fb4d2dde6c61c59eac62e114",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained."
+    },
+    {
+      "path": "/assets/year-1-english-words-faces-gestures-worksheets-cover.jpg",
+      "bytes": 114959,
+      "sha256": "b3ed03ea3cdd7d810d1a120ae59714389e76c38050b63bd2788c49a2c0c1cbb4",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained."
+    },
+    {
+      "path": "/assets/year-1-grammar-worksheets-parts-of-speech-cover.png",
+      "bytes": 96868,
+      "sha256": "ba39b517f6176ae2823bfbb7acecf1b593eb195b9c9a2bf1fb6069a3d7264cb2",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained."
+    }
+  ]
+}
