@@ -1,0 +1,40 @@
+/* Illustrated Year 8 Science pages: exact models remain semantic HTML/SVG. */
+#skillr-topic-variants .retained-teaching .y7-subject-board{max-width:100%;overflow-wrap:anywhere}
+#skillr-topic-variants .retained-teaching table{table-layout:fixed;overflow-wrap:anywhere}
+#skillr-topic-variants .retained-teaching svg{max-width:100%;height:auto}
+#skillr-topic-variants .retained-teaching .curriculum-detail-body{min-width:0}
+#skillr-topic-variants .concept-figure svg{max-width:100%;height:auto}
+#skillr-topic-variants .evidence{overflow-wrap:anywhere}
+#skillr-topic-variants .retained-teaching .y7-subject-flow{display:flex;gap:8px;flex-wrap:wrap}
+#skillr-topic-variants .retained-teaching .y7-subject-compare{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(220px,100%),1fr));gap:12px}
+/* Keep evidence tables readable on tablets rather than squeezing three lessons. */
+@media(max-width:1000px){#skillr-topic-variants .steps{grid-template-columns:1fr;gap:4px}}
+#skillr-topic-variants .history-trail{display:grid;gap:12px;margin:14px 0;padding-left:24px}
+/* Keep scientific labels readable on phones; each figure scrolls independently. */
+@media(max-width:600px){
+ #skillr-topic-variants .concept-figure,
+ #skillr-topic-variants .retained-teaching .science-premium-diagram:has(img[src$="-corrected.svg"]){max-width:100%;min-width:0;overflow-x:auto;text-align:left}
+ #skillr-topic-variants .concept-figure svg{width:600px;min-width:600px;max-width:none}
+ #skillr-topic-variants .retained-teaching .science-premium-diagram img[src$="-corrected.svg"]{width:640px;min-width:640px;max-width:none}
+ #skillr-topic-variants .concept-figure::after,
+ #skillr-topic-variants .retained-teaching .science-premium-diagram:has(img[src$="-corrected.svg"])::after{content:"Swipe sideways to see the full diagram.";display:block;position:sticky;left:0;font-size:14px;line-height:1.5;color:#425c78;padding:8px 0}
+}
+#skillr-topic-variants figure[tabindex="0"]:focus-visible{outline:3px solid #da9c20;outline-offset:3px}
+/* Readable evidence and retained diagrams for the ten Year 8 guides. */
+#skillr-topic-variants .report-model{padding:12px 16px;margin:12px 0;background:#f7faf4;border:1px solid #d6e2df;border-radius:8px}
+#skillr-topic-variants .report-model h3{margin-top:0}
+#skillr-topic-variants .steps:has(th:nth-child(4)){grid-template-columns:1fr}
+#skillr-topic-variants .wide-evidence{min-width:0;max-width:100%;overflow-x:auto}
+#skillr-topic-variants .wide-evidence:focus-visible{outline:3px solid #da9c20;outline-offset:3px}
+#skillr-topic-variants .retained-teaching .diagram{max-width:100%;min-width:0}
+#skillr-topic-variants .retained-teaching .concept-figure svg{display:block}
+@media(max-width:600px){
+ #skillr-topic-variants .wide-evidence table{min-width:520px}
+ #skillr-topic-variants .wide-evidence::after{content:"Swipe sideways to see all columns.";display:block;position:sticky;left:0;font-size:14px;line-height:1.5;color:#425c78;padding:8px 0}
+ #skillr-topic-variants .retained-teaching .retained-model{max-width:100%;min-width:0;overflow-x:auto}
+ #skillr-topic-variants .retained-teaching .retained-model svg{width:800px;min-width:800px;max-width:none}
+}
+#skillr-topic-variants .retained-teaching svg text{font-family:Arial,sans-serif}
+
+#skillr-topic-variants .topic-code{font-size:14px;white-space:nowrap;color:#425c78;font-weight:500}
+#skillr-topic-variants .topic-report-issue{min-height:44px;padding:8px 10px;background:white;border:1px solid #d6e2ef;border-radius:7px;color:#1952ae;cursor:pointer}

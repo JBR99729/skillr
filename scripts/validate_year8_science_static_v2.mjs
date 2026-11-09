@@ -11,7 +11,25 @@ const hub=fs.readFileSync(path.join(ROOT,'year8/curriculum/science/index.html'),
 const topicCss=fs.readFileSync(path.join(ROOT,'assets/year8-science-topic-v2.css'),'utf8');
 if(!/\.curriculum-layout\s*\{[^}]*display\s*:\s*block/i.test(topicCss))errors.push('Year 8 Science topic layout must override the shared two-column grid with one reading column');
 if(!/\.science-v2-grid\s*\{[^}]*grid-template-columns\s*:\s*(?:minmax\(0\s*,\s*1fr\)|1fr)/i.test(topicCss))errors.push('Year 8 Science guidance cards must stack in one column');
-const hubCodes=[...hub.matchAll(/class=["']curriculum-badge["']>(AC9S8(?:U0[1-7]|H0[1-4]|I0[1-8]))</gi)].map(m=>m[1].toUpperCase());
+// Retired year hubs redirect to Learn; the canonical unit catalogue owns inventory.
+// Keep the legacy badge check for an active hub and validate the retired route too.
+const retiredHub=hub.includes('data-learning-hub-retired="2026-11-07"');
+if(retiredHub){
+  const target='https://skillrhub.com/learn/?year=8&subject=science';
+  const attr=(tag,name)=>tag?.match(new RegExp(`\\b${name}\\s*=\\s*["']([^"']*)["']`,'i'))?.[1]||'';
+  const decode=value=>value.replaceAll('&amp;','&');
+  const metas=[...hub.matchAll(/<meta\b[^>]*>/gi)].map(match=>match[0]);
+  const refresh=decode(attr(metas.find(tag=>attr(tag,'http-equiv').toLowerCase()==='refresh'),'content'));
+  const robots=attr(metas.find(tag=>attr(tag,'name').toLowerCase()==='robots'),'content').replaceAll(' ','').toLowerCase();
+  const canonical=attr([...hub.matchAll(/<link\b[^>]*>/gi)].map(match=>match[0]).find(tag=>attr(tag,'rel')==='canonical'),'href');
+  const links=[...hub.matchAll(/<a\b[^>]*>/gi)].map(match=>decode(attr(match[0],'href')));
+  let scriptTarget=null;
+  try{scriptTarget=JSON.parse(hub.match(/location\.replace\(\s*("(?:[^"\\]|\\.)*")\s*\)/)?.[1]||'null');}catch{}
+  if(refresh!==`0;url=${target}`||scriptTarget!==target||links.length!==1||links[0]!==target||canonical!=='https://skillrhub.com/learn/'||robots!=='noindex,follow')errors.push('Retired Year 8 Science hub must retain matching refresh/script/fallback destinations, Learn canonical and noindex');
+}
+const catalogueUnits=JSON.parse(fs.readFileSync(path.join(ROOT,'data/curriculum-units.json'),'utf8')).units.filter(unit=>unit.yearNumber===8&&unit.subject==='Science');
+const hubCodes=retiredHub?catalogueUnits.map(unit=>unit.code):[...hub.matchAll(/class=["']curriculum-badge["']>(AC9S8(?:U0[1-7]|H0[1-4]|I0[1-8]))</gi)].map(m=>m[1].toUpperCase());
+if(new Set(hubCodes).size!==hubCodes.length)errors.push('Year 8 Science inventory contains duplicate codes');
 const expected=[...YEAR8_SCIENCE_EXPECTED_CODES].sort();
 const actual=[...new Set(hubCodes)].sort();
 if(JSON.stringify(actual)!==JSON.stringify(expected))errors.push(`Year 8 Science hub inventory mismatch: found ${actual.length}, expected ${expected.length}`);

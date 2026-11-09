@@ -1,0 +1,178 @@
+[
+  {
+    "repository": "JBR99729/research-",
+    "ref": "3dbd9be103af8a585edc4fb3e1a14c7ccebd67cc",
+    "path": "qa/all-codes/science-7-10/batch-9-year8-u-h-independent-source-review.json",
+    "bytes": 112051,
+    "sha256": "1544ecd249b2d696e267bfdb8f557c0e0992cb38edb20cec70bee2be980f0558",
+    "git_blob_sha": "f7d44fa06d987bc518a902dd27c08e7a10702b0a"
+  },
+  {
+    "repository": "JBR99729/research-",
+    "ref": "3dbd9be103af8a585edc4fb3e1a14c7ccebd67cc",
+    "path": "shared-research/science/2026-11-04-dissolving-cooking-rusting-evidence.json",
+    "bytes": 8615,
+    "sha256": "bac1e3787864476fb5b65537a5c32d53a1ff23d244106824eadef2530f4f55bd",
+    "git_blob_sha": "8fe36f45115359725956c72482b08c394892c1b6"
+  },
+  {
+    "repository": "JBR99729/research-",
+    "ref": "3dbd9be103af8a585edc4fb3e1a14c7ccebd67cc",
+    "path": "shared-research/science/2026-11-04-weathering-deposition-evidence.json",
+    "bytes": 6802,
+    "sha256": "d77b32a8eb1041598dea474464ed40146fae3a8d7dbb0441e1265b9a4f5bd670",
+    "git_blob_sha": "3c6b84c26321aaaff6f335227cc95e00014afbe5"
+  },
+  {
+    "repository": "JBR99729/research-",
+    "ref": "3dbd9be103af8a585edc4fb3e1a14c7ccebd67cc",
+    "path": "shared-research/science/2026-11-04-year7-forces-mass-gravity-source-ledger.json",
+    "bytes": 21272,
+    "sha256": "789b6ea5efc49dab5af60dcad1b91842b6677feea6485358be38d2dddf4c7c4d",
+    "git_blob_sha": "2667871de325e83c854d9f16b33f7519dd28eddb"
+  },
+  {
+    "repository": "JBR99729/research-",
+    "ref": "3dbd9be103af8a585edc4fb3e1a14c7ccebd67cc",
+    "path": "shared-research/science/2026-11-04-year7-science-perspectives-responses-source-ledger.json",
+    "bytes": 23907,
+    "sha256": "dd09c604416f564f450a2bdd4a5ea57ef2625c91f1e19cf82b32469f1e21699a",
+    "git_blob_sha": "11cd250460a74be2b5245e020711d4af9b608539"
+  },
+  {
+    "repository": "JBR99729/research-",
+    "ref": "3dbd9be103af8a585edc4fb3e1a14c7ccebd67cc",
+    "path": "shared-research/science/2026-11-04-year8-cells-systems-source-ledger.json",
+    "bytes": 17358,
+    "sha256": "bad1b8d9a52b7d0e6af42a559f0008dface9169ec4e91c349fa60cbff48cf5d7",
+    "git_blob_sha": "83947b6516bcdf7017a4f7109ecfb2cc11297bb9"
+  },
+  {
+    "repository": "JBR99729/research-",
+    "ref": "3dbd9be103af8a585edc4fb3e1a14c7ccebd67cc",
+    "path": "shared-research/science/2026-11-04-year8-energy-matter-changes-source-ledger.json",
+    "bytes": 25368,
+    "sha256": "7ff948c5561d7a9abd3250daf2bc949911dde0e89d926431d97dc248cace2662",
+    "git_blob_sha": "6142833d3c65114fbf268e5851206c151b344a6c"
+  },
+  {
+    "repository": "JBR99729/research-",
+    "ref": "3dbd9be103af8a585edc4fb3e1a14c7ccebd67cc",
+    "path": "shared-research/science/2026-11-04-year8-perspectives-responses-reuse-map.json",
+    "bytes": 5046,
+    "sha256": "47931736d04f5ae7e05052ea66f175e4d92284c1b2eadf5741450fb4bf8e3e29",
+    "git_blob_sha": "56dd9744722c13a76aebef32614ecdeb86588c02"
+  },
+  {
+    "repository": "JBR99729/research-",
+    "ref": "3dbd9be103af8a585edc4fb3e1a14c7ccebd67cc",
+    "path": "shared-research/science/2026-11-04-year8-plant-structure-extension.json",
+    "bytes": 6394,
+    "sha256": "1ce57eb523e52b27ec30b9ebcdbb4779bb437fd1447e4c33db355984e4c48add",
+    "git_blob_sha": "30fb4c0621e4d74dfe92cadfc5c0d9b9129a18d2"
+  },
+  {
+    "repository": "JBR99729/research-",
+    "ref": "3dbd9be103af8a585edc4fb3e1a14c7ccebd67cc",
+    "path": "shared-research/science/2026-11-04-year8-tectonics-rocks-revision-source-ledger.json",
+    "bytes": 28197,
+    "sha256": "f4f8bf79172fafae7ffdd3fe77560f7faa2cfba736dd6b827a3ee99baf78bcbe",
+    "git_blob_sha": "210a6cd9dc1a0cd5d189c23c7f15493a6ab31e8c"
+  },
+  {
+    "repository": "JBR99729/research-",
+    "ref": "3dbd9be103af8a585edc4fb3e1a14c7ccebd67cc",
+    "path": "shared-research/science/2026-11-04-year8-u-h-author-manifest.json",
+    "bytes": 6839,
+    "sha256": "cd2d4835bc38155c5bd3bfffdea506fa92ae0f490219530942f40b82bc5b037f",
+    "git_blob_sha": "637605012b663acde02b650405a0227c12987df5"
+  },
+  {
+    "repository": "JBR99729/research-",
+    "ref": "3dbd9be103af8a585edc4fb3e1a14c7ccebd67cc",
+    "path": "year-8/science/AC9S8H01/research/2026-11-04-source-gap-candidate.json",
+    "bytes": 8760,
+    "sha256": "af7004ec0f167f2f2248435cea9a3e0113eca1a0f4d44c899bc0e24d10a4dee9",
+    "git_blob_sha": "35bafba5eb8feb0375a60fa532bcf536756412b4"
+  },
+  {
+    "repository": "JBR99729/research-",
+    "ref": "3dbd9be103af8a585edc4fb3e1a14c7ccebd67cc",
+    "path": "year-8/science/AC9S8H02/research/2026-11-04-source-gap-candidate.json",
+    "bytes": 6917,
+    "sha256": "160796ea1640d2e917fc007b818314ac1840700587ded039b29db9f283a6667c",
+    "git_blob_sha": "7575198678f8d5990b7f2cac17bb1a05f38d8f37"
+  },
+  {
+    "repository": "JBR99729/research-",
+    "ref": "3dbd9be103af8a585edc4fb3e1a14c7ccebd67cc",
+    "path": "year-8/science/AC9S8H03/research/2026-11-04-source-gap-candidate.json",
+    "bytes": 7013,
+    "sha256": "d8bca1050fd72a0a1ca61f2859af7b4fcdb14274aeca029727292d7e221b9686",
+    "git_blob_sha": "aefde418bb7c1959abb60a1475bee6506d736e59"
+  },
+  {
+    "repository": "JBR99729/research-",
+    "ref": "3dbd9be103af8a585edc4fb3e1a14c7ccebd67cc",
+    "path": "year-8/science/AC9S8U01/research/2026-11-04-source-gap-candidate.json",
+    "bytes": 6454,
+    "sha256": "8d4f8b40d0c277a5d4f33f72b1533edc0ab7d414156ef65a77504d7265ebf6d7",
+    "git_blob_sha": "c8b8f1ba341869db9104d4ce88fbf38262a7d78a"
+  },
+  {
+    "repository": "JBR99729/research-",
+    "ref": "3dbd9be103af8a585edc4fb3e1a14c7ccebd67cc",
+    "path": "year-8/science/AC9S8U02/research/2026-11-04-source-gap-candidate.json",
+    "bytes": 7452,
+    "sha256": "687ea9eb51debe7e0849fb044ef7579883d03448cca02bddaa4cfa26a5d6b5a4",
+    "git_blob_sha": "20cbe9107c3e87310e10dfb97935945e31df086b"
+  },
+  {
+    "repository": "JBR99729/research-",
+    "ref": "3dbd9be103af8a585edc4fb3e1a14c7ccebd67cc",
+    "path": "year-8/science/AC9S8U03/research/2026-11-04-source-gap-candidate.json",
+    "bytes": 6674,
+    "sha256": "22b255fa4ed23914077639a3552141416101c28d9c802e1470c4f9984d808183",
+    "git_blob_sha": "a782bb0cfe23a1f7624daca03bf78f63a9c67a25"
+  },
+  {
+    "repository": "JBR99729/research-",
+    "ref": "3dbd9be103af8a585edc4fb3e1a14c7ccebd67cc",
+    "path": "year-8/science/AC9S8U04/research/2026-11-04-source-gap-candidate.json",
+    "bytes": 6635,
+    "sha256": "5dbb11814eadc16c4663f69423946777013a4eaa24572bef0a630f75b5e75d88",
+    "git_blob_sha": "c4bea4f7af6116bbc5b909cd4c28bee0307d9f58"
+  },
+  {
+    "repository": "JBR99729/research-",
+    "ref": "3dbd9be103af8a585edc4fb3e1a14c7ccebd67cc",
+    "path": "year-8/science/AC9S8U05/research/2026-11-04-source-gap-candidate.json",
+    "bytes": 6447,
+    "sha256": "2ec3becb3fcb79d42d4f1cb33eb8bc4a84a6abd3fcd0c2b03953589b26f680dc",
+    "git_blob_sha": "7311c26da38a2739edb92ea4632c2aac746955df"
+  },
+  {
+    "repository": "JBR99729/research-",
+    "ref": "3dbd9be103af8a585edc4fb3e1a14c7ccebd67cc",
+    "path": "year-8/science/AC9S8U06/research/2026-11-04-source-gap-candidate.json",
+    "bytes": 6674,
+    "sha256": "b2aaa5c7c075260b908951b35e691d42076e161ae7921214b03df2adaef31821",
+    "git_blob_sha": "04e1d1ea91f2c4bd0f9a6b31010ddcf0b9f42144"
+  },
+  {
+    "repository": "JBR99729/research-",
+    "ref": "3dbd9be103af8a585edc4fb3e1a14c7ccebd67cc",
+    "path": "year-8/science/AC9S8U07/research/2026-11-04-source-gap-candidate.json",
+    "bytes": 6571,
+    "sha256": "09318319279d7accd41e6fe55dd849d725c4f74e11eda74b138413b13190d43b",
+    "git_blob_sha": "8a404865c2b0519a0c4b974f47da5bbefc027fe4"
+  },
+  {
+    "repository": "JBR99729/research-",
+    "ref": "3dbd9be103af8a585edc4fb3e1a14c7ccebd67cc",
+    "path": "year-8/science/Year8_Science_Curriculum_Research_Master.txt",
+    "bytes": 83992,
+    "sha256": "34dc0a94f89d8a1c2165a2bcfed949c655ce9d1ba3aa0b9fb3ca00269fb422a2",
+    "git_blob_sha": "6bee8d98f557d6ed1c59c3d0c1765f1b319b5047"
+  }
+]

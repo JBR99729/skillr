@@ -1,0 +1,1108 @@
+[
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 8",
+    "levelLabel": "Year 8",
+    "yearNumber": 8,
+    "yearFolder": "year8",
+    "quizYearSegment": "year-8",
+    "code": "AC9S8U01",
+    "title": "Cells as the basic units of living things, compare plant...",
+    "unitSlug": "ac9s8u01-cells-as-the-basic-units-of-living-things-compare-plant",
+    "sourceOrder": 620,
+    "strand": "Science understanding",
+    "subStrand": "Biological sciences",
+    "description": "recognise cells as the basic units of living things, compare plant and animal cells, and describe the functions of specialised cell structures and organelles",
+    "levelDescription": "In Year 8 students are introduced to cells as microscopic structures that explain macroscopic features of living systems. They connect form and function at an organ level and explore the organisation of a body system in terms of flows of matter between interdependent organs. They continue to develop a view of Earth as a dynamic system, in which change occurs across a range of timescales. They classify different types of energy and describe the role of energy in causing change in systems, including the role of energy and forces in the geosphere. They learn to classify matter at the atomic level and distinguish between chemical and physical change. They understand that chemical reactions also involve energy. Students use experimentation to isolate relationships between components in systems and explain these relationships through increasingly complex representations. They consider the magnitude of properties and events and use appropriate units to describe proportional relationships. Inquiry questions can help excite students\u2019 curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Can we predict changes to the shape and position of continents? Are facts enough? How much does science communication matter? How can we tell if a substance has changed? How can we best measure what we cannot directly see? How is a leaf like a lung?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S8U01_E1",
+        "number": "E1",
+        "text": "exploring an augmented or virtual reality tour of a plant or animal to \u2018zoom in\u2019 and understand the scale of cells",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U01_E2",
+        "number": "E2",
+        "text": "identifying the structure and function of organelles in cells including the nucleus, cell membrane, cell wall, cytoplasm, chloroplasts and vacuoles",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U01_E3",
+        "number": "E3",
+        "text": "examining a variety of cells, including single-celled organisms, using a light microscope, a digital microscope, simulations and photomicrographs",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U01_E4",
+        "number": "E4",
+        "text": "comparing the similarities and differences of plant cells and animal cells visible with a light microscope and represented in a digital or physical model",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U01_E5",
+        "number": "E5",
+        "text": "designing a physical or digital model of a cell and explaining how the representation models the cell",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U01_E6",
+        "number": "E6",
+        "text": "considering how the invention of the microscope has contributed to understanding of cell structure",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year8/science/ac9s8u01-cells-as-the-basic-units-of-living-things-compare-plant/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-8/science/ac9s8u01/worksheet/",
+    "teacherSlideUrl": "/worksheets/year8/science/teacher-slides/ac9s8u01-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S8U01",
+        "label": "Content description",
+        "text": "recognise cells as the basic units of living things, compare plant and animal cells, and describe the functions of specialised cell structures and organelles",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U01_E1",
+        "number": "E1",
+        "text": "exploring an augmented or virtual reality tour of a plant or animal to \u2018zoom in\u2019 and understand the scale of cells",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U01_E2",
+        "number": "E2",
+        "text": "identifying the structure and function of organelles in cells including the nucleus, cell membrane, cell wall, cytoplasm, chloroplasts and vacuoles",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U01_E3",
+        "number": "E3",
+        "text": "examining a variety of cells, including single-celled organisms, using a light microscope, a digital microscope, simulations and photomicrographs",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U01_E4",
+        "number": "E4",
+        "text": "comparing the similarities and differences of plant cells and animal cells visible with a light microscope and represented in a digital or physical model",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U01_E5",
+        "number": "E5",
+        "text": "designing a physical or digital model of a cell and explaining how the representation models the cell",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U01_E6",
+        "number": "E6",
+        "text": "considering how the invention of the microscope has contributed to understanding of cell structure",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 8",
+    "levelLabel": "Year 8",
+    "yearNumber": 8,
+    "yearFolder": "year8",
+    "quizYearSegment": "year-8",
+    "code": "AC9S8U02",
+    "title": "Analyse the relationship between structure and function of cells, tissues...",
+    "unitSlug": "ac9s8u02-analyse-the-relationship-between-structure-and-function-of",
+    "sourceOrder": 621,
+    "strand": "Science understanding",
+    "subStrand": "Biological sciences",
+    "description": "analyse the relationship between structure and function of cells, tissues and organs in a plant and an animal organ system and explain how these systems enable survival of the individual",
+    "levelDescription": "In Year 8 students are introduced to cells as microscopic structures that explain macroscopic features of living systems. They connect form and function at an organ level and explore the organisation of a body system in terms of flows of matter between interdependent organs. They continue to develop a view of Earth as a dynamic system, in which change occurs across a range of timescales. They classify different types of energy and describe the role of energy in causing change in systems, including the role of energy and forces in the geosphere. They learn to classify matter at the atomic level and distinguish between chemical and physical change. They understand that chemical reactions also involve energy. Students use experimentation to isolate relationships between components in systems and explain these relationships through increasingly complex representations. They consider the magnitude of properties and events and use appropriate units to describe proportional relationships. Inquiry questions can help excite students\u2019 curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Can we predict changes to the shape and position of continents? Are facts enough? How much does science communication matter? How can we tell if a substance has changed? How can we best measure what we cannot directly see? How is a leaf like a lung?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S8U02_E1",
+        "number": "E1",
+        "text": "comparing 2-dimensional and 3-dimensional representations of organ systems to understand how organs are positioned within the body",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U02_E2",
+        "number": "E2",
+        "text": "comparing the structure and function of analogous systems in a plant and an animal",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U02_E3",
+        "number": "E3",
+        "text": "examining the specialised cells and tissues involved in structure and function of particular organs in an organ system",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U02_E4",
+        "number": "E4",
+        "text": "describing the structure of each organ in a system and relating its function to the overall function of the system",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U02_E5",
+        "number": "E5",
+        "text": "researching how a disorder in cells or tissues can affect how an organ functions, such as how hardening of the arteries can lead to poor circulation or heart disease",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U02_E6",
+        "number": "E6",
+        "text": "investigating how an artificial organ mimics or augments the function or functions of a real organ",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year8/science/ac9s8u02-analyse-the-relationship-between-structure-and-function-of/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-8/science/ac9s8u02/worksheet/",
+    "teacherSlideUrl": "/worksheets/year8/science/teacher-slides/ac9s8u02-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S8U02",
+        "label": "Content description",
+        "text": "analyse the relationship between structure and function of cells, tissues and organs in a plant and an animal organ system and explain how these systems enable survival of the individual",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U02_E1",
+        "number": "E1",
+        "text": "comparing 2-dimensional and 3-dimensional representations of organ systems to understand how organs are positioned within the body",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U02_E2",
+        "number": "E2",
+        "text": "comparing the structure and function of analogous systems in a plant and an animal",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U02_E3",
+        "number": "E3",
+        "text": "examining the specialised cells and tissues involved in structure and function of particular organs in an organ system",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U02_E4",
+        "number": "E4",
+        "text": "describing the structure of each organ in a system and relating its function to the overall function of the system",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U02_E5",
+        "number": "E5",
+        "text": "researching how a disorder in cells or tissues can affect how an organ functions, such as how hardening of the arteries can lead to poor circulation or heart disease",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U02_E6",
+        "number": "E6",
+        "text": "investigating how an artificial organ mimics or augments the function or functions of a real organ",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 8",
+    "levelLabel": "Year 8",
+    "yearNumber": 8,
+    "yearFolder": "year8",
+    "quizYearSegment": "year-8",
+    "code": "AC9S8U03",
+    "title": "Investigate tectonic activity including the formation of geological features at...",
+    "unitSlug": "ac9s8u03-investigate-tectonic-activity-including-the-formation-of",
+    "sourceOrder": 622,
+    "strand": "Science understanding",
+    "subStrand": "Earth and space sciences",
+    "description": "investigate tectonic activity including the formation of geological features at divergent, convergent and transform plate boundaries and describe the scientific evidence for the theory of plate tectonics",
+    "levelDescription": "In Year 8 students are introduced to cells as microscopic structures that explain macroscopic features of living systems. They connect form and function at an organ level and explore the organisation of a body system in terms of flows of matter between interdependent organs. They continue to develop a view of Earth as a dynamic system, in which change occurs across a range of timescales. They classify different types of energy and describe the role of energy in causing change in systems, including the role of energy and forces in the geosphere. They learn to classify matter at the atomic level and distinguish between chemical and physical change. They understand that chemical reactions also involve energy. Students use experimentation to isolate relationships between components in systems and explain these relationships through increasingly complex representations. They consider the magnitude of properties and events and use appropriate units to describe proportional relationships. Inquiry questions can help excite students\u2019 curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Can we predict changes to the shape and position of continents? Are facts enough? How much does science communication matter? How can we tell if a substance has changed? How can we best measure what we cannot directly see? How is a leaf like a lung?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S8U03_E1",
+        "number": "E1",
+        "text": "examining patterns of earthquake and volcanic activity over time and proposing explanations",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U03_E2",
+        "number": "E2",
+        "text": "evaluating the impact of tectonic events on human populations and examining engineering solutions designed to reduce the impact",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U03_E3",
+        "number": "E3",
+        "text": "modelling interactions at plate boundaries",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U03_E4",
+        "number": "E4",
+        "text": "investigating the relative significance of different forces involved in tectonic plate movement including slab pull, ridge push and convection",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U03_E5",
+        "number": "E5",
+        "text": "relating the extreme age and stability of a large part of the Australian continent to its plate tectonic history",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U03_E6",
+        "number": "E6",
+        "text": "constructing a timeline of evidence to show the development of the theory of plate tectonics",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U03_E7",
+        "number": "E7",
+        "text": "exploring how geologist and oceanographic cartographer Marie Tharp\u2019s topographic maps of the Atlantic Ocean floor provided support for the acceptance of the theory of plate tectonics",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U03_E8",
+        "number": "E8",
+        "text": "researching First Nations Australians\u2019 cultural accounts that provide evidence of earthquakes and volcanoes",
+        "questionEligible": false
+      }
+    ],
+    "url": "/year8/science/ac9s8u03-investigate-tectonic-activity-including-the-formation-of/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-8/science/ac9s8u03/worksheet/",
+    "teacherSlideUrl": "/worksheets/year8/science/teacher-slides/ac9s8u03-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S8U03",
+        "label": "Content description",
+        "text": "investigate tectonic activity including the formation of geological features at divergent, convergent and transform plate boundaries and describe the scientific evidence for the theory of plate tectonics",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U03_E1",
+        "number": "E1",
+        "text": "examining patterns of earthquake and volcanic activity over time and proposing explanations",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U03_E2",
+        "number": "E2",
+        "text": "evaluating the impact of tectonic events on human populations and examining engineering solutions designed to reduce the impact",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U03_E3",
+        "number": "E3",
+        "text": "modelling interactions at plate boundaries",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U03_E4",
+        "number": "E4",
+        "text": "investigating the relative significance of different forces involved in tectonic plate movement including slab pull, ridge push and convection",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U03_E5",
+        "number": "E5",
+        "text": "relating the extreme age and stability of a large part of the Australian continent to its plate tectonic history",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U03_E6",
+        "number": "E6",
+        "text": "constructing a timeline of evidence to show the development of the theory of plate tectonics",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U03_E7",
+        "number": "E7",
+        "text": "exploring how geologist and oceanographic cartographer Marie Tharp\u2019s topographic maps of the Atlantic Ocean floor provided support for the acceptance of the theory of plate tectonics",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U03_E8",
+        "number": "E8",
+        "text": "researching First Nations Australians\u2019 cultural accounts that provide evidence of earthquakes and volcanoes",
+        "questionEligible": false
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 8",
+    "levelLabel": "Year 8",
+    "yearNumber": 8,
+    "yearFolder": "year8",
+    "quizYearSegment": "year-8",
+    "code": "AC9S8U04",
+    "title": "The key processes of the rock cycle, including the timescales...",
+    "unitSlug": "ac9s8u04-the-key-processes-of-the-rock-cycle-including-the-timescales",
+    "sourceOrder": 623,
+    "strand": "Science understanding",
+    "subStrand": "Earth and space sciences",
+    "description": "describe the key processes of the rock cycle, including the timescales over which they occur, and examine how the properties of sedimentary, igneous and metamorphic rocks reflect their formation and influence their use",
+    "levelDescription": "In Year 8 students are introduced to cells as microscopic structures that explain macroscopic features of living systems. They connect form and function at an organ level and explore the organisation of a body system in terms of flows of matter between interdependent organs. They continue to develop a view of Earth as a dynamic system, in which change occurs across a range of timescales. They classify different types of energy and describe the role of energy in causing change in systems, including the role of energy and forces in the geosphere. They learn to classify matter at the atomic level and distinguish between chemical and physical change. They understand that chemical reactions also involve energy. Students use experimentation to isolate relationships between components in systems and explain these relationships through increasingly complex representations. They consider the magnitude of properties and events and use appropriate units to describe proportional relationships. Inquiry questions can help excite students\u2019 curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Can we predict changes to the shape and position of continents? Are facts enough? How much does science communication matter? How can we tell if a substance has changed? How can we best measure what we cannot directly see? How is a leaf like a lung?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S8U04_E1",
+        "number": "E1",
+        "text": "comparing the observable properties of different types of rocks and identifying them using a provided dichotomous key",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U04_E2",
+        "number": "E2",
+        "text": "exploring the major processes of the rock cycle including weathering, erosion, deposition, melting, crystallisation, uplift, heat and pressure in the formation of different types of rocks",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U04_E3",
+        "number": "E3",
+        "text": "analysing the role of forces and heat energy in the formation of different types of rocks and comparing how quickly or slowly different processes can occur",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U04_E4",
+        "number": "E4",
+        "text": "examining fossil evidence, such as body, trace or opalised fossils, to predict how and when a rock was formed",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U04_E5",
+        "number": "E5",
+        "text": "explaining the uses of different types of rocks with reference to their properties and formation",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U04_E6",
+        "number": "E6",
+        "text": "exploring the traditional geological knowledges of First Nations Australians that are used in the selection of different rock types for different purposes",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S8U04_E7",
+        "number": "E7",
+        "text": "investigating how First Nations Australians have used quarrying to access rocks for use as or production of everyday objects such as grindstones, hammerstones, anvils and cutting tools",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S8U04_E8",
+        "number": "E8",
+        "text": "exploring how the mining of ores and minerals impacts on local environments and examining environmental rehabilitation initiatives",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year8/science/ac9s8u04-the-key-processes-of-the-rock-cycle-including-the-timescales/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-8/science/ac9s8u04/worksheet/",
+    "teacherSlideUrl": "/worksheets/year8/science/teacher-slides/ac9s8u04-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S8U04",
+        "label": "Content description",
+        "text": "describe the key processes of the rock cycle, including the timescales over which they occur, and examine how the properties of sedimentary, igneous and metamorphic rocks reflect their formation and influence their use",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U04_E1",
+        "number": "E1",
+        "text": "comparing the observable properties of different types of rocks and identifying them using a provided dichotomous key",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U04_E2",
+        "number": "E2",
+        "text": "exploring the major processes of the rock cycle including weathering, erosion, deposition, melting, crystallisation, uplift, heat and pressure in the formation of different types of rocks",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U04_E3",
+        "number": "E3",
+        "text": "analysing the role of forces and heat energy in the formation of different types of rocks and comparing how quickly or slowly different processes can occur",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U04_E4",
+        "number": "E4",
+        "text": "examining fossil evidence, such as body, trace or opalised fossils, to predict how and when a rock was formed",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U04_E5",
+        "number": "E5",
+        "text": "explaining the uses of different types of rocks with reference to their properties and formation",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U04_E6",
+        "number": "E6",
+        "text": "exploring the traditional geological knowledges of First Nations Australians that are used in the selection of different rock types for different purposes",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S8U04_E7",
+        "number": "E7",
+        "text": "investigating how First Nations Australians have used quarrying to access rocks for use as or production of everyday objects such as grindstones, hammerstones, anvils and cutting tools",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9S8U04_E8",
+        "number": "E8",
+        "text": "exploring how the mining of ores and minerals impacts on local environments and examining environmental rehabilitation initiatives",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 8",
+    "levelLabel": "Year 8",
+    "yearNumber": 8,
+    "yearFolder": "year8",
+    "quizYearSegment": "year-8",
+    "code": "AC9S8U05",
+    "title": "Classify different types of energy as kinetic or potential and...",
+    "unitSlug": "ac9s8u05-classify-different-types-of-energy-as-kinetic-or-potential-and",
+    "sourceOrder": 624,
+    "strand": "Science understanding",
+    "subStrand": "Physical sciences",
+    "description": "classify different types of energy as kinetic or potential and investigate energy transfer and transformations in simple systems",
+    "levelDescription": "In Year 8 students are introduced to cells as microscopic structures that explain macroscopic features of living systems. They connect form and function at an organ level and explore the organisation of a body system in terms of flows of matter between interdependent organs. They continue to develop a view of Earth as a dynamic system, in which change occurs across a range of timescales. They classify different types of energy and describe the role of energy in causing change in systems, including the role of energy and forces in the geosphere. They learn to classify matter at the atomic level and distinguish between chemical and physical change. They understand that chemical reactions also involve energy. Students use experimentation to isolate relationships between components in systems and explain these relationships through increasingly complex representations. They consider the magnitude of properties and events and use appropriate units to describe proportional relationships. Inquiry questions can help excite students\u2019 curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Can we predict changes to the shape and position of continents? Are facts enough? How much does science communication matter? How can we tell if a substance has changed? How can we best measure what we cannot directly see? How is a leaf like a lung?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S8U05_E1",
+        "number": "E1",
+        "text": "investigating relationships between kinetic and potential energy in a simple system such as a roller-coaster or Newton\u2019s cradle",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U05_E2",
+        "number": "E2",
+        "text": "classifying types of energy as either kinetic energy such as movement, heat and electricity or potential energy such as chemical, elastic and gravitational",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U05_E3",
+        "number": "E3",
+        "text": "critiquing and using representations such as flow diagrams to illustrate changes between different forms of energy in a system",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U05_E4",
+        "number": "E4",
+        "text": "identifying where heat energy is produced as a by-product of energy transfer, such as filament light globes, exercise, and battery charging and use",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U05_E5",
+        "number": "E5",
+        "text": "using electrical circuits and components to demonstrate electrical energy transfer and its transformation into heat, light and sound",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U05_E6",
+        "number": "E6",
+        "text": "observing a Rube Goldberg machine and identifying the energy transfers and transformations involved",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U05_E7",
+        "number": "E7",
+        "text": "investigating traditional fire-starting methods used by First Nations Australians and their understandings of the transformation of energy",
+        "questionEligible": false
+      }
+    ],
+    "url": "/year8/science/ac9s8u05-classify-different-types-of-energy-as-kinetic-or-potential-and/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-8/science/ac9s8u05/worksheet/",
+    "teacherSlideUrl": "/worksheets/year8/science/teacher-slides/ac9s8u05-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S8U05",
+        "label": "Content description",
+        "text": "classify different types of energy as kinetic or potential and investigate energy transfer and transformations in simple systems",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U05_E1",
+        "number": "E1",
+        "text": "investigating relationships between kinetic and potential energy in a simple system such as a roller-coaster or Newton\u2019s cradle",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U05_E2",
+        "number": "E2",
+        "text": "classifying types of energy as either kinetic energy such as movement, heat and electricity or potential energy such as chemical, elastic and gravitational",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U05_E3",
+        "number": "E3",
+        "text": "critiquing and using representations such as flow diagrams to illustrate changes between different forms of energy in a system",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U05_E4",
+        "number": "E4",
+        "text": "identifying where heat energy is produced as a by-product of energy transfer, such as filament light globes, exercise, and battery charging and use",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U05_E5",
+        "number": "E5",
+        "text": "using electrical circuits and components to demonstrate electrical energy transfer and its transformation into heat, light and sound",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U05_E6",
+        "number": "E6",
+        "text": "observing a Rube Goldberg machine and identifying the energy transfers and transformations involved",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U05_E7",
+        "number": "E7",
+        "text": "investigating traditional fire-starting methods used by First Nations Australians and their understandings of the transformation of energy",
+        "questionEligible": false
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 8",
+    "levelLabel": "Year 8",
+    "yearNumber": 8,
+    "yearFolder": "year8",
+    "quizYearSegment": "year-8",
+    "code": "AC9S8U06",
+    "title": "Classify matter as elements, compounds or mixtures and compare different...",
+    "unitSlug": "ac9s8u06-classify-matter-as-elements-compounds-or-mixtures-and-compare",
+    "sourceOrder": 625,
+    "strand": "Science understanding",
+    "subStrand": "Chemical sciences",
+    "description": "classify matter as elements, compounds or mixtures and compare different representations of these, including 2-dimensional and 3-dimensional models, symbols for elements and formulas for molecules and compounds",
+    "levelDescription": "In Year 8 students are introduced to cells as microscopic structures that explain macroscopic features of living systems. They connect form and function at an organ level and explore the organisation of a body system in terms of flows of matter between interdependent organs. They continue to develop a view of Earth as a dynamic system, in which change occurs across a range of timescales. They classify different types of energy and describe the role of energy in causing change in systems, including the role of energy and forces in the geosphere. They learn to classify matter at the atomic level and distinguish between chemical and physical change. They understand that chemical reactions also involve energy. Students use experimentation to isolate relationships between components in systems and explain these relationships through increasingly complex representations. They consider the magnitude of properties and events and use appropriate units to describe proportional relationships. Inquiry questions can help excite students\u2019 curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Can we predict changes to the shape and position of continents? Are facts enough? How much does science communication matter? How can we tell if a substance has changed? How can we best measure what we cannot directly see? How is a leaf like a lung?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S8U06_E1",
+        "number": "E1",
+        "text": "using virtual and physical models to distinguish between elements and compounds in terms of types of atoms",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U06_E2",
+        "number": "E2",
+        "text": "examining how Dmitri Mendeleev arranged the elements in the first version of the periodic table and comparing his arrangement with the current version",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U06_E3",
+        "number": "E3",
+        "text": "explaining why elements are represented by symbols, compounds and molecules by formulas and mixtures by percentages",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U06_E4",
+        "number": "E4",
+        "text": "using representations to show the classification of matter as elements, compounds and different types of mixtures such as solutions, suspensions and colloids",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U06_E5",
+        "number": "E5",
+        "text": "examining the information conveyed by different types of representations of elements and compounds and identifying where and why these different representations are used",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U06_E6",
+        "number": "E6",
+        "text": "creating a timeline or models to show how the concept of an element has changed over time from Democritus to John Dalton",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year8/science/ac9s8u06-classify-matter-as-elements-compounds-or-mixtures-and-compare/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-8/science/ac9s8u06/worksheet/",
+    "teacherSlideUrl": "/worksheets/year8/science/teacher-slides/ac9s8u06-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S8U06",
+        "label": "Content description",
+        "text": "classify matter as elements, compounds or mixtures and compare different representations of these, including 2-dimensional and 3-dimensional models, symbols for elements and formulas for molecules and compounds",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U06_E1",
+        "number": "E1",
+        "text": "using virtual and physical models to distinguish between elements and compounds in terms of types of atoms",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U06_E2",
+        "number": "E2",
+        "text": "examining how Dmitri Mendeleev arranged the elements in the first version of the periodic table and comparing his arrangement with the current version",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U06_E3",
+        "number": "E3",
+        "text": "explaining why elements are represented by symbols, compounds and molecules by formulas and mixtures by percentages",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U06_E4",
+        "number": "E4",
+        "text": "using representations to show the classification of matter as elements, compounds and different types of mixtures such as solutions, suspensions and colloids",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U06_E5",
+        "number": "E5",
+        "text": "examining the information conveyed by different types of representations of elements and compounds and identifying where and why these different representations are used",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U06_E6",
+        "number": "E6",
+        "text": "creating a timeline or models to show how the concept of an element has changed over time from Democritus to John Dalton",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 8",
+    "levelLabel": "Year 8",
+    "yearNumber": 8,
+    "yearFolder": "year8",
+    "quizYearSegment": "year-8",
+    "code": "AC9S8U07",
+    "title": "Physical and chemical changes and identify indicators of energy change...",
+    "unitSlug": "ac9s8u07-physical-and-chemical-changes-and-identify-indicators-of-energy",
+    "sourceOrder": 626,
+    "strand": "Science understanding",
+    "subStrand": "Chemical sciences",
+    "description": "compare physical and chemical changes and identify indicators of energy change in chemical reactions",
+    "levelDescription": "In Year 8 students are introduced to cells as microscopic structures that explain macroscopic features of living systems. They connect form and function at an organ level and explore the organisation of a body system in terms of flows of matter between interdependent organs. They continue to develop a view of Earth as a dynamic system, in which change occurs across a range of timescales. They classify different types of energy and describe the role of energy in causing change in systems, including the role of energy and forces in the geosphere. They learn to classify matter at the atomic level and distinguish between chemical and physical change. They understand that chemical reactions also involve energy. Students use experimentation to isolate relationships between components in systems and explain these relationships through increasingly complex representations. They consider the magnitude of properties and events and use appropriate units to describe proportional relationships. Inquiry questions can help excite students\u2019 curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Can we predict changes to the shape and position of continents? Are facts enough? How much does science communication matter? How can we tell if a substance has changed? How can we best measure what we cannot directly see? How is a leaf like a lung?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S8U07_E1",
+        "number": "E1",
+        "text": "performing simple chemical reactions to identify the indicators of chemical change such as gas production, solid production, colour change and temperature change",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U07_E2",
+        "number": "E2",
+        "text": "analysing and interpreting data on the properties of substances before and after the substances interact to determine if a chemical or physical change has occurred",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U07_E3",
+        "number": "E3",
+        "text": "investigating and identifying energy changes in different chemical reactions such as differences in temperature",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U07_E4",
+        "number": "E4",
+        "text": "examining how the physical and chemical properties of a substance will affect its production or use",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U07_E5",
+        "number": "E5",
+        "text": "discussing where indicators of chemical change are used for identifying the presence of particular substances, such as in soil, water and medical testing kits",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year8/science/ac9s8u07-physical-and-chemical-changes-and-identify-indicators-of-energy/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-8/science/ac9s8u07/worksheet/",
+    "teacherSlideUrl": "/worksheets/year8/science/teacher-slides/ac9s8u07-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S8U07",
+        "label": "Content description",
+        "text": "compare physical and chemical changes and identify indicators of energy change in chemical reactions",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U07_E1",
+        "number": "E1",
+        "text": "performing simple chemical reactions to identify the indicators of chemical change such as gas production, solid production, colour change and temperature change",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U07_E2",
+        "number": "E2",
+        "text": "analysing and interpreting data on the properties of substances before and after the substances interact to determine if a chemical or physical change has occurred",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U07_E3",
+        "number": "E3",
+        "text": "investigating and identifying energy changes in different chemical reactions such as differences in temperature",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U07_E4",
+        "number": "E4",
+        "text": "examining how the physical and chemical properties of a substance will affect its production or use",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8U07_E5",
+        "number": "E5",
+        "text": "discussing where indicators of chemical change are used for identifying the presence of particular substances, such as in soil, water and medical testing kits",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 8",
+    "levelLabel": "Year 8",
+    "yearNumber": 8,
+    "yearFolder": "year8",
+    "quizYearSegment": "year-8",
+    "code": "AC9S8H01",
+    "title": "Explain how new evidence or different perspectives can lead to...",
+    "unitSlug": "ac9s8h01-explain-how-new-evidence-or-different-perspectives-can-lead-to",
+    "sourceOrder": 627,
+    "strand": "Science as a human endeavour",
+    "subStrand": "Nature and development of science",
+    "description": "explain how new evidence or different perspectives can lead to changes in scientific knowledge",
+    "levelDescription": "In Year 8 students are introduced to cells as microscopic structures that explain macroscopic features of living systems. They connect form and function at an organ level and explore the organisation of a body system in terms of flows of matter between interdependent organs. They continue to develop a view of Earth as a dynamic system, in which change occurs across a range of timescales. They classify different types of energy and describe the role of energy in causing change in systems, including the role of energy and forces in the geosphere. They learn to classify matter at the atomic level and distinguish between chemical and physical change. They understand that chemical reactions also involve energy. Students use experimentation to isolate relationships between components in systems and explain these relationships through increasingly complex representations. They consider the magnitude of properties and events and use appropriate units to describe proportional relationships. Inquiry questions can help excite students\u2019 curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Can we predict changes to the shape and position of continents? Are facts enough? How much does science communication matter? How can we tell if a substance has changed? How can we best measure what we cannot directly see? How is a leaf like a lung?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S8H01_E1",
+        "number": "E1",
+        "text": "identifying how technological developments, such as those related to microscopes and medical imaging, have led to improved understanding of cells and organs",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8H01_E2",
+        "number": "E2",
+        "text": "considering how advances in technologies have enabled the repair and replacement of organs using synthetic materials",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8H01_E3",
+        "number": "E3",
+        "text": "analysing how sustainability priorities such as efficiency and limiting environmental impact have led to innovative practices in mining and mine site regeneration",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8H01_E4",
+        "number": "E4",
+        "text": "examining the evidence that led to the acceptance of the theory of plate tectonics over the idea of continental drift",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8H01_E5",
+        "number": "E5",
+        "text": "investigating how advances in deep Earth imaging techniques have enabled identification of mineral, energy and water resources beneath surface sedimentary rock",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8H01_E6",
+        "number": "E6",
+        "text": "discussing the story of Sir Isaac Newton\u2019s discovery of gravity or the questions that Albert Einstein asked which led him to developing a new theory",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8H01_E7",
+        "number": "E7",
+        "text": "researching why Dmitri Mendeleev developed a different representation of the periodic table",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year8/science/ac9s8h01-explain-how-new-evidence-or-different-perspectives-can-lead-to/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-8/science/ac9s8h01/worksheet/",
+    "teacherSlideUrl": "/worksheets/year8/science/teacher-slides/ac9s8h01-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S8H01",
+        "label": "Content description",
+        "text": "explain how new evidence or different perspectives can lead to changes in scientific knowledge",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8H01_E1",
+        "number": "E1",
+        "text": "identifying how technological developments, such as those related to microscopes and medical imaging, have led to improved understanding of cells and organs",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8H01_E2",
+        "number": "E2",
+        "text": "considering how advances in technologies have enabled the repair and replacement of organs using synthetic materials",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8H01_E3",
+        "number": "E3",
+        "text": "analysing how sustainability priorities such as efficiency and limiting environmental impact have led to innovative practices in mining and mine site regeneration",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8H01_E4",
+        "number": "E4",
+        "text": "examining the evidence that led to the acceptance of the theory of plate tectonics over the idea of continental drift",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8H01_E5",
+        "number": "E5",
+        "text": "investigating how advances in deep Earth imaging techniques have enabled identification of mineral, energy and water resources beneath surface sedimentary rock",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8H01_E6",
+        "number": "E6",
+        "text": "discussing the story of Sir Isaac Newton\u2019s discovery of gravity or the questions that Albert Einstein asked which led him to developing a new theory",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8H01_E7",
+        "number": "E7",
+        "text": "researching why Dmitri Mendeleev developed a different representation of the periodic table",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 8",
+    "levelLabel": "Year 8",
+    "yearNumber": 8,
+    "yearFolder": "year8",
+    "quizYearSegment": "year-8",
+    "code": "AC9S8H02",
+    "title": "Investigate how cultural perspectives and world views influence the development...",
+    "unitSlug": "ac9s8h02-investigate-how-cultural-perspectives-and-world-views-influence",
+    "sourceOrder": 628,
+    "strand": "Science as a human endeavour",
+    "subStrand": "Nature and development of science",
+    "description": "investigate how cultural perspectives and world views influence the development of scientific knowledge",
+    "levelDescription": "In Year 8 students are introduced to cells as microscopic structures that explain macroscopic features of living systems. They connect form and function at an organ level and explore the organisation of a body system in terms of flows of matter between interdependent organs. They continue to develop a view of Earth as a dynamic system, in which change occurs across a range of timescales. They classify different types of energy and describe the role of energy in causing change in systems, including the role of energy and forces in the geosphere. They learn to classify matter at the atomic level and distinguish between chemical and physical change. They understand that chemical reactions also involve energy. Students use experimentation to isolate relationships between components in systems and explain these relationships through increasingly complex representations. They consider the magnitude of properties and events and use appropriate units to describe proportional relationships. Inquiry questions can help excite students\u2019 curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Can we predict changes to the shape and position of continents? Are facts enough? How much does science communication matter? How can we tell if a substance has changed? How can we best measure what we cannot directly see? How is a leaf like a lung?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S8H02_E1",
+        "number": "E1",
+        "text": "investigating how world views about the role of women lead to women scientists being placed in subordinate roles and \u2018written out\u2019 of history, a phenomenon known as the Matilda effect",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8H02_E2",
+        "number": "E2",
+        "text": "researching how cultural building techniques such as houses built of bamboo led to the development of structures and materials better able to withstand the effects of earthquakes",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8H02_E3",
+        "number": "E3",
+        "text": "investigating how collaboration between Swami Vivekananda and Nikola Tesla, who held different world views, led to an exploration of the relationship between mass and energy",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8H02_E4",
+        "number": "E4",
+        "text": "analysing how world views relating to fairness in sport have led to the development of rapid chemical tests to identify performance-enhancing drugs",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8H02_E5",
+        "number": "E5",
+        "text": "investigating how First Nations Australians develop material culture through holistic world views that employ multidisciplinary knowledges and skills",
+        "questionEligible": false
+      }
+    ],
+    "url": "/year8/science/ac9s8h02-investigate-how-cultural-perspectives-and-world-views-influence/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-8/science/ac9s8h02/worksheet/",
+    "teacherSlideUrl": "/worksheets/year8/science/teacher-slides/ac9s8h02-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S8H02",
+        "label": "Content description",
+        "text": "investigate how cultural perspectives and world views influence the development of scientific knowledge",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8H02_E1",
+        "number": "E1",
+        "text": "investigating how world views about the role of women lead to women scientists being placed in subordinate roles and \u2018written out\u2019 of history, a phenomenon known as the Matilda effect",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8H02_E2",
+        "number": "E2",
+        "text": "researching how cultural building techniques such as houses built of bamboo led to the development of structures and materials better able to withstand the effects of earthquakes",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8H02_E3",
+        "number": "E3",
+        "text": "investigating how collaboration between Swami Vivekananda and Nikola Tesla, who held different world views, led to an exploration of the relationship between mass and energy",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8H02_E4",
+        "number": "E4",
+        "text": "analysing how world views relating to fairness in sport have led to the development of rapid chemical tests to identify performance-enhancing drugs",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8H02_E5",
+        "number": "E5",
+        "text": "investigating how First Nations Australians develop material culture through holistic world views that employ multidisciplinary knowledges and skills",
+        "questionEligible": false
+      }
+    ]
+  },
+  {
+    "learningArea": "Science",
+    "subject": "Science",
+    "subjectSlug": "science",
+    "quizSubjectSlug": "science",
+    "level": "Year 8",
+    "levelLabel": "Year 8",
+    "yearNumber": 8,
+    "yearFolder": "year8",
+    "quizYearSegment": "year-8",
+    "code": "AC9S8H03",
+    "title": "Examine how proposed scientific responses to contemporary issues may impact...",
+    "unitSlug": "ac9s8h03-examine-how-proposed-scientific-responses-to-contemporary",
+    "sourceOrder": 629,
+    "strand": "Science as a human endeavour",
+    "subStrand": "Use and influence of science",
+    "description": "examine how proposed scientific responses to contemporary issues may impact on society and explore ethical, environmental, social and economic considerations",
+    "levelDescription": "In Year 8 students are introduced to cells as microscopic structures that explain macroscopic features of living systems. They connect form and function at an organ level and explore the organisation of a body system in terms of flows of matter between interdependent organs. They continue to develop a view of Earth as a dynamic system, in which change occurs across a range of timescales. They classify different types of energy and describe the role of energy in causing change in systems, including the role of energy and forces in the geosphere. They learn to classify matter at the atomic level and distinguish between chemical and physical change. They understand that chemical reactions also involve energy. Students use experimentation to isolate relationships between components in systems and explain these relationships through increasingly complex representations. They consider the magnitude of properties and events and use appropriate units to describe proportional relationships. Inquiry questions can help excite students\u2019 curiosity and challenge their thinking. Following are examples of inquiry questions that could be used to prompt discussion and exploration: Can we predict changes to the shape and position of continents? Are facts enough? How much does science communication matter? How can we tell if a substance has changed? How can we best measure what we cannot directly see? How is a leaf like a lung?",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9S8H03_E1",
+        "number": "E1",
+        "text": "researching and discussing ethical issues that arise from organ transplantation",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8H03_E2",
+        "number": "E2",
+        "text": "discussing how scientists\u2019 development of organoids has impacted on the ethical, environmental, social and economic issues that arise from using live animals in a laboratory to research diseases and treatments",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8H03_E3",
+        "number": "E3",
+        "text": "investigating how scientific responses including new building materials, improved predictions and early warning systems have supported communities living in a country in the Asia-Pacific region located near plate boundaries, for example Japan, Indonesia or New Zealand",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8H03_E4",
+        "number": "E4",
+        "text": "examining how the development of hybrid and solar, electric and hydrogen-powered vehicles are applications of contemporary science responses to the depletion of fossil fuels and exploring environmental considerations",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8H03_E5",
+        "number": "E5",
+        "text": "exploring how the development of biodegradable materials has led to more sustainable packaging and reduction in landfill",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year8/science/ac9s8h03-examine-how-proposed-scientific-responses-to-contemporary/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-8/science/ac9s8h03/worksheet/",
+    "teacherSlideUrl": "/worksheets/year8/science/teacher-slides/ac9s8h03-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9S8H03",
+        "label": "Content description",
+        "text": "examine how proposed scientific responses to contemporary issues may impact on society and explore ethical, environmental, social and economic considerations",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8H03_E1",
+        "number": "E1",
+        "text": "researching and discussing ethical issues that arise from organ transplantation",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8H03_E2",
+        "number": "E2",
+        "text": "discussing how scientists\u2019 development of organoids has impacted on the ethical, environmental, social and economic issues that arise from using live animals in a laboratory to research diseases and treatments",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8H03_E3",
+        "number": "E3",
+        "text": "investigating how scientific responses including new building materials, improved predictions and early warning systems have supported communities living in a country in the Asia-Pacific region located near plate boundaries, for example Japan, Indonesia or New Zealand",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8H03_E4",
+        "number": "E4",
+        "text": "examining how the development of hybrid and solar, electric and hydrogen-powered vehicles are applications of contemporary science responses to the depletion of fossil fuels and exploring environmental considerations",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9S8H03_E5",
+        "number": "E5",
+        "text": "exploring how the development of biodegradable materials has led to more sustainable packaging and reduction in landfill",
+        "questionEligible": true
+      }
+    ]
+  }
+]

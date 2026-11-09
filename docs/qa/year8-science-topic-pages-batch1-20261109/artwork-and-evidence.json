@@ -1,0 +1,173 @@
+{
+  "models": [
+    {
+      "code": "AC9S8U01",
+      "index": 0,
+      "png": "AC9S8U01-0.png",
+      "kind": "new",
+      "literal_svg_sha256": "de97bfcd15c2cb08ca1d667e95c3181bf86d8035ebd10e22ed59c32ff339e151",
+      "prepared_render_svg_sha256": "de97bfcd15c2cb08ca1d667e95c3181bf86d8035ebd10e22ed59c32ff339e151",
+      "png_sha256": "82252a33410bbc872ee9283a9c347f3998a9069ebc4a228821171e085f306687"
+    },
+    {
+      "code": "AC9S8U01",
+      "index": 1,
+      "png": "AC9S8U01-1.png",
+      "kind": "retained",
+      "literal_svg_sha256": "f0a51614a84bb54a25b3c332c177567968ca2a5e9aba6502810ec4eb2a0bc253",
+      "prepared_render_svg_sha256": "40da1d86e64888ddbd42dd98646649fd2389a0b3dabfab17d4e914b0b31e0f21",
+      "png_sha256": "77da7994db46e8958b10b45f5720870807be893b0bd09948cdd515935623d91e"
+    },
+    {
+      "code": "AC9S8U02",
+      "index": 0,
+      "png": "AC9S8U02-0.png",
+      "kind": "new",
+      "literal_svg_sha256": "4accab9928c6f83b113738e559dc7d68a5072432d69f6e050e0136d6018a2aa0",
+      "prepared_render_svg_sha256": "4accab9928c6f83b113738e559dc7d68a5072432d69f6e050e0136d6018a2aa0",
+      "png_sha256": "1581abe74281c9255a9cf81627eadbe95a28c10150126c79a847e8e85555dc00"
+    },
+    {
+      "code": "AC9S8U03",
+      "index": 0,
+      "png": "AC9S8U03-0.png",
+      "kind": "new",
+      "literal_svg_sha256": "dbd815e8fa85802530ea25cd218868d5676a582b697248cb5bd188291acad074",
+      "prepared_render_svg_sha256": "dbd815e8fa85802530ea25cd218868d5676a582b697248cb5bd188291acad074",
+      "png_sha256": "3f6514a64f0bd98c0556c0e80afa8058a90734d02193bd8f667feddfdb4aef2e"
+    },
+    {
+      "code": "AC9S8U03",
+      "index": 1,
+      "png": "AC9S8U03-1.png",
+      "kind": "retained",
+      "literal_svg_sha256": "a4bb9bedf484d5e453195d9c343abd41462fc8129a15ffe92135c1d5c9344c88",
+      "prepared_render_svg_sha256": "d8fe95c34c77320f4edc09b68352782f03deaba53a4f2aca814794228e85d263",
+      "png_sha256": "d4d55ad962b4d3d482f4c7e3247afc9f3e0b35eebee49b97e8f11fd774d418da"
+    },
+    {
+      "code": "AC9S8U04",
+      "index": 0,
+      "png": "AC9S8U04-0.png",
+      "kind": "new",
+      "literal_svg_sha256": "2647ec0f2b50e482695833126a1e49e5c1338ae68923385ef07baa5106717adb",
+      "prepared_render_svg_sha256": "2647ec0f2b50e482695833126a1e49e5c1338ae68923385ef07baa5106717adb",
+      "png_sha256": "feb66d72bd74d654472efec1a2cc688ecb8fb9befdabfde66dea20fbbd8f0958"
+    },
+    {
+      "code": "AC9S8U05",
+      "index": 0,
+      "png": "AC9S8U05-0.png",
+      "kind": "new",
+      "literal_svg_sha256": "6deca0922ab450b368d59ed0635f4bec8be5851836c830a9ae8686a72a9d61a1",
+      "prepared_render_svg_sha256": "6deca0922ab450b368d59ed0635f4bec8be5851836c830a9ae8686a72a9d61a1",
+      "png_sha256": "19ac2a57b5621b3518fa75ccf0536c11122c77bd0d11ce394e3e0eb5e17914c6"
+    },
+    {
+      "code": "AC9S8U05",
+      "index": 1,
+      "png": "AC9S8U05-1.png",
+      "kind": "retained",
+      "literal_svg_sha256": "62151f2261dcaea1b6ab1d97fecdb4e7f32efa2843d0b72fa0414c450e9f310b",
+      "prepared_render_svg_sha256": "e5dffd1446f198e38cb381cbd63ab882eee1a1eafe39bf8f95ac27edd866e165",
+      "png_sha256": "65120284051a1de9c88968e6b05aaddb5e5c41f43f62c07fac07095105511bd0"
+    },
+    {
+      "code": "AC9S8U06",
+      "index": 0,
+      "png": "AC9S8U06-0.png",
+      "kind": "new",
+      "literal_svg_sha256": "91c39f89195ed699a0a07c636dfe49a2b73d574b1d840cc53b277776aaf0ce9a",
+      "prepared_render_svg_sha256": "91c39f89195ed699a0a07c636dfe49a2b73d574b1d840cc53b277776aaf0ce9a",
+      "png_sha256": "b4c092518321bcb4e21fbc971ce47156382dd0083e23e3cbd635f39eb6dd63a6"
+    },
+    {
+      "code": "AC9S8U06",
+      "index": 1,
+      "png": "AC9S8U06-1.png",
+      "kind": "retained",
+      "literal_svg_sha256": "cfb5348c6c171ef8d53c30889810579ba640c857b45afbcada480e70e508cfcf",
+      "prepared_render_svg_sha256": "1cc7d898f6a8f75c56c573cf348c1800b70cc46e93d14446335d527b0f2f02b4",
+      "png_sha256": "90911d5fdc08de10dd4c7df919a59f7108b13da6a2e4200e123748cce776a091"
+    },
+    {
+      "code": "AC9S8U07",
+      "index": 0,
+      "png": "AC9S8U07-0.png",
+      "kind": "new",
+      "literal_svg_sha256": "92d699b92dccf35cf43f502aefc4d4ba41fcc372d9cb187a51200b7bff3af86c",
+      "prepared_render_svg_sha256": "92d699b92dccf35cf43f502aefc4d4ba41fcc372d9cb187a51200b7bff3af86c",
+      "png_sha256": "2e94bf9c0d0210a4559a280764c0da0c6fc6fefc129ead7e1e6869ee22036c03"
+    },
+    {
+      "code": "AC9S8U07",
+      "index": 1,
+      "png": "AC9S8U07-1.png",
+      "kind": "retained",
+      "literal_svg_sha256": "91764facc688eb988818b725d25b079b183618558a72b3ada00c8007f67b67ae",
+      "prepared_render_svg_sha256": "beb1348d33ae00309b82c5cbb9781ee8dd26cc0298d2edd9b762a0f759421809",
+      "png_sha256": "ddd2095dc6085e31409579c70836f979b115b8c52dd575abc11349c478f2ec3a"
+    },
+    {
+      "code": "AC9S8H01",
+      "index": 0,
+      "png": "AC9S8H01-0.png",
+      "kind": "new",
+      "literal_svg_sha256": "28c5d45edbceb33750a53432f160aa90e43cb60bb0d9237d379aabcb451c5875",
+      "prepared_render_svg_sha256": "28c5d45edbceb33750a53432f160aa90e43cb60bb0d9237d379aabcb451c5875",
+      "png_sha256": "784f7e07d51271b4d44696210e4a3f7d9349bc6a09ade9a1d339fc207012601a"
+    },
+    {
+      "code": "AC9S8H01",
+      "index": 1,
+      "png": "AC9S8H01-1.png",
+      "kind": "retained",
+      "literal_svg_sha256": "77f9e1c6fe58b48fefc6b8ae71ebcecab1c0bc99a516aab291254f3323edc28c",
+      "prepared_render_svg_sha256": "fc9ea18763bc885052f26c37043e2fd0fbcc066d49d2d37fb6a264588b24a935",
+      "png_sha256": "58b5e32b13108bf4072131897654809dc33f85fad74b8202e2589d4b4d5726bc"
+    },
+    {
+      "code": "AC9S8H02",
+      "index": 0,
+      "png": "AC9S8H02-0.png",
+      "kind": "new",
+      "literal_svg_sha256": "e6ec8b2d361856b81d5dce9cff98ba490121a8fcece2c784ee8a5f18e5f5acb6",
+      "prepared_render_svg_sha256": "e6ec8b2d361856b81d5dce9cff98ba490121a8fcece2c784ee8a5f18e5f5acb6",
+      "png_sha256": "f2d4d711ebac60b86e5c74f4f70fc58ab82847b61a53ec6549a32c743c6c3536"
+    },
+    {
+      "code": "AC9S8H02",
+      "index": 1,
+      "png": "AC9S8H02-1.png",
+      "kind": "retained",
+      "literal_svg_sha256": "f0dbef7bdf2690853bbdf82b6988c685e1298ed87506577133e21a9afa57c324",
+      "prepared_render_svg_sha256": "821c6dc4ee4e39050c31c75400226f2affebdade4d3b3b3abee812ad898c9a1a",
+      "png_sha256": "0628ac5c37e9c65773cff7af8352da25fe11b5e65657400e7412b63d5baaf11a"
+    },
+    {
+      "code": "AC9S8H03",
+      "index": 0,
+      "png": "AC9S8H03-0.png",
+      "kind": "new",
+      "literal_svg_sha256": "17a8c25d82daaacaa59f8da2f4a00330ae9df9225c2ae67a59dbeafb568206eb",
+      "prepared_render_svg_sha256": "17a8c25d82daaacaa59f8da2f4a00330ae9df9225c2ae67a59dbeafb568206eb",
+      "png_sha256": "436dfc9002ce6b885f70310bf262e95c4b51b82df28e327b5f2e32cc87b3f126"
+    },
+    {
+      "code": "AC9S8H03",
+      "index": 1,
+      "png": "AC9S8H03-1.png",
+      "kind": "retained",
+      "literal_svg_sha256": "3a62a8af21ae749e49a9e2491132b5ca570f496715c2f65d612b1865e31bec7c",
+      "prepared_render_svg_sha256": "d84cc10000cba8ddef7593ab1c758e77eea55bd40d2d95b734b655086f3b010b",
+      "png_sha256": "89ac917d5fbedb50831b2474a0284274065d192fe0df2a5490a96a1c134ae737"
+    }
+  ],
+  "context_images": [],
+  "limits": "Original SVG/semantic HTML models, not micrographs or claimed practical outcomes. Source artwork is not reproduced.",
+  "hash_definitions": {
+    "literal_svg_sha256": "SHA256 of exact literal <svg\u2026</svg> UTF-8 substring from final page source, in DOM/source order.",
+    "prepared_render_svg_sha256": "SHA256 of standalone renderer input: literal plus missing xmlns and retained SVG-relevant head styles with removed ancestor prefixes and default Arial font.",
+    "png_sha256": "SHA256 of actual standalone white-background 1000-pixel-width PNG bytes inspected by reviewer. Browser renders remain separately checked."
+  }
+}
