@@ -15,7 +15,9 @@ fs.mkdirSync(out, {recursive:true});
       const context = await browser.newContext({viewport:{width,height:1000}, javaScriptEnabled:false, colorScheme:'light'});
       await context.route('**/*', route => new URL(route.request().url()).origin === origin ? route.continue() : route.abort());
       const page = await context.newPage();
+      page.setDefaultTimeout(5000);page.setDefaultNavigationTimeout(15000);
       for (const item of inventory) {
+        console.log('Page',item.code,width);
         const failures = [];
         const listener = response => { if (response.url().startsWith(origin) && response.status() >= 400) failures.push(response.url()); };
         page.on('response',listener);
@@ -37,12 +39,15 @@ fs.mkdirSync(out, {recursive:true});
             const result=await figure.evaluate(e=>{const art=e.querySelector('svg,img');return {width:art.getBoundingClientRect().width,focusable:e.tabIndex===0,scrollable:e.scrollWidth>e.clientWidth,initial:e.scrollLeft}});
             assert(result.width>=600 && result.focusable && result.scrollable,item.code+': phone diagram must remain readable and scrollable');
             await figure.evaluate(e=>e.scrollLeft=e.scrollWidth);assert(await figure.evaluate(e=>e.scrollLeft>0),item.code+': diagram scroll');await figure.evaluate(e=>e.scrollLeft=0);
+            console.log('Keyboard pan begin',item.code);
             await figure.focus();await page.keyboard.press('ArrowRight');
             for(let attempt=0;attempt<20;attempt++){
               if(await figure.evaluate(e=>e.scrollLeft>0))break;
               await new Promise(resolve=>setTimeout(resolve,50));
             }
-            assert(await figure.evaluate(e=>e.scrollLeft>0),item.code+': keyboard diagram pan');
+            const keyboardPan=await figure.evaluate(e=>({scroll:e.scrollLeft,active:document.activeElement===e}));
+            console.log('Keyboard pan result',item.code,JSON.stringify(keyboardPan));
+            assert(keyboardPan.scroll>0,item.code+': keyboard diagram pan');
             await figure.evaluate(e=>e.scrollLeft=0);
           }
         }
