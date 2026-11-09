@@ -1,0 +1,50 @@
+[
+  {
+    "code": "AC9S10U06",
+    "section": "Key concept",
+    "html": "<details class=\"retained-periodic-answer\" id=\"year10-periodic-answer\" aria-labelledby=\"year10-periodic-question\"><summary><strong>How do groups and periods work in the periodic table?</strong></summary><div class=\"curriculum-detail-body\">\n<h2 id=\"year10-periodic-question\">How do groups and periods work in the periodic table?</h2>\n<p>Elements are arranged by increasing <strong>atomic number</strong>, which is the number of protons in the nucleus. A <strong>period</strong> is a horizontal row; for the first 20 elements, the period number matches the number of occupied electron shells. A <strong>group</strong> is a vertical column. Elements in the same main-group column have similar outer-electron patterns and often similar chemical properties.</p>\n<p><strong>Year 10 example (AC9S10U06):</strong> Magnesium has atomic number 12 and, in a simple shell model, electrons arranged 2, 8, 2. It belongs to period 3 and group 2. Sodium has atomic number 11 and an arrangement of 2, 8, 1; it is also in period 3 but belongs to group 1.</p>\n<p><strong>Try a periodic-table project question:</strong> Compare sodium and magnesium. What is the same and what is different about their positions? Both occupy period 3 because their simple models show three occupied shells. They are in different groups because their outer-shell electron numbers differ. Use the full lesson below to explore why this helps explain element patterns; the simple shell model is a learning representation, not a complete modern atomic model.</p>\n</div></details>\n",
+    "reason": "Relocate the correct existing periodic-table FAQ intact into retained Key concept; preserve its full original content and public answer/heading IDs unchanged; change only its macro-section class to a nested-FAQ class so it is not an extra locked macro section."
+  },
+  {
+    "code": "AC9S10U01",
+    "section": "Guided practice",
+    "html": "<div class=\"evidence\"><p>Use this fictional one-gene cross: Pp × Pp, with complete dominance of P and equally likely P/p gametes. Draw four equally likely combinations.</p><details><summary>Check the supplied cross</summary><p>PP, Pp, Pp, pp: genotype probabilities 1/4, 1/2, 1/4; dominant phenotype 3/4. Each parent contributes one allele.</p></details></div>",
+    "reason": "Supply the previously unspecified monohybrid cross and its assumptions/key."
+  },
+  {
+    "code": "AC9S10U01",
+    "section": "Reasoning and problem-solving",
+    "html": "<div class=\"evidence\"><p>Supplied fictional family: two parents are known to be Pp under complete dominance. Their four observed offspring all have the dominant phenotype. The Punnett model predicts 3/4 dominant for each independent offspring.</p><details><summary>Does the family conflict with the model?</summary><p>No. All four dominant offspring have probability (3/4)⁴ = 81/256 under the model. A pedigree records a particular family and may not reveal every genotype; the Punnett square predicts probabilities under specified parental genotypes and assumptions.</p></details></div>",
+    "reason": "Supply the missing pedigree/family observations and probability model so the comparison is independently answerable."
+  },
+  {
+    "code": "AC9S10U02",
+    "section": "Guided practice",
+    "html": "<div class=\"evidence\"><p>Paper-token rule: begin with 8 R and 8 S tokens. Types are inherited unchanged. In each generation keep all R but only half the S; each survivor then leaves two same-type offspring. Repeat for three generations, without migration or new mutation.</p><details><summary>Check the three-generation record</summary><p>Start R = 8, S = 8 (R = 1/2). Offspring after generation 1: 16 R, 8 S (2/3 R); generation 2: 32 R, 8 S (4/5 R); generation 3: 64 R, 8 S (8/9 R). Plot the R proportion against generation, explaining that inherited variants leave different descendant contributions in this stated model.</p></details></div>",
+    "reason": "Supply complete token counts, selection/reproduction rule and checked graph values instead of an absent environmental rule."
+  },
+  {
+    "code": "AC9S10U04",
+    "section": "Reasoning and problem-solving",
+    "html": "<div class=\"evidence\"><p>Selected saved NOAA CO₂ / NASA temperature-anomaly records: 1980, 338.76 ppm / +0.26 °C; 1990, 354.45 / +0.45; 2000, 369.71 / +0.39; 2010, 390.10 / +0.72; 2020, 414.21 / +1.01. Anomalies use 1951–1980. These five rows are not a complete attribution analysis.</p><details><summary>Check the evidence limit</summary><p>Endpoints rise by 75.45 ppm and 0.75 °C, while temperature falls 0.06 °C between the 1990 and 2000 rows despite rising CO₂. A causal explanation also needs physical mechanisms, broader measurements, model tests and consideration of other influences; this small table alone is insufficient.</p></details></div>",
+    "reason": "Supply the missing climate comparison records in each independently openable exercise; use bounded selected data instead of an absent graph."
+  },
+  {
+    "code": "AC9S10U04",
+    "section": "Practice and review",
+    "html": "<div class=\"evidence\"><p>Selected saved NOAA CO₂ / NASA temperature-anomaly records: 1980, 338.76 ppm / +0.26 °C; 1990, 354.45 / +0.45; 2000, 369.71 / +0.39; 2010, 390.10 / +0.72; 2020, 414.21 / +1.01. Anomalies use 1951–1980. These five rows are not a complete attribution analysis.</p><details><summary>Check the evidence limit</summary><p>Endpoints rise by 75.45 ppm and 0.75 °C, while temperature falls 0.06 °C between the 1990 and 2000 rows despite rising CO₂. A causal explanation also needs physical mechanisms, broader measurements, model tests and consideration of other influences; this small table alone is insufficient.</p></details></div>",
+    "reason": "Supply the missing climate comparison records in each independently openable exercise; use bounded selected data instead of an absent graph."
+  },
+  {
+    "code": "AC9S10U06",
+    "section": "Guided practice",
+    "html": "<div class=\"evidence\"><p>Supplied neutral main-group shell models: A has 2,8,2 electrons; B has 2,8,7. Use the first-20-elements model to infer period, group and identity.</p><details><summary>Check the models</summary><p>A: magnesium, Z = 12, period 3, group 2. B: chlorine, Z = 17, period 3, group 17. Both have three occupied shells, but different outer-electron patterns and chemical behaviour.</p></details></div>",
+    "reason": "Supply the previously absent unnamed shell models and checked inferences."
+  },
+  {
+    "code": "AC9S10H01",
+    "section": "Guided practice",
+    "html": "<div class=\"evidence\"><p>Fictional abstract: matched initial particle index 20; filter A readings 6, 7, 8, 7 and B readings 10, 11, 12, 11; claim: A makes water bacteria-free. Reviewer: the particle index does not measure bacteria. New independent trial under matched stated conditions: A readings 8, 9, 10, 9; B readings 10, 11, 12, 11.</p><details><summary>Evaluate the three supplied records</summary><p>Original means are A = 7 and B = 11. New means are A = 9 and B = 11: the direction remains, but the size differs. The records support a bounded particle-index comparison, not the bacteria-free claim. Confidence should be explained by claim, method and evidence, not a universal numerical confidence score.</p></details></div>",
+    "reason": "Supply complete fictional abstract, reviewer comment and new-trial results for the previously missing comparison."
+  }
+]

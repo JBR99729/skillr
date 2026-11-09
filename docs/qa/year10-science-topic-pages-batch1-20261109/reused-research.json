@@ -1,0 +1,216 @@
+{
+  "repository": "JBR99729/research-",
+  "ref": "2ca5fb33255982c3fdd2ba40a673e360c7015fe8",
+  "files": {
+    "CURRENT_RESEARCH_SOP.md": {
+      "bytes": 10547,
+      "sha256": "7ac2ff226292944099537fb20c09a17e0fb9e53090f3a48c57c17d91e9f9c226",
+      "git_blob_sha": "9604d0312ab2997af6f507cc1e87a3512c113873"
+    },
+    "qa/all-codes/science-7-10/batch-16-year9-u-h-independent-source-review.json": {
+      "bytes": 140619,
+      "sha256": "3b8ba23fca718c050d835055034eeeca2806a7737146ca0274686013cb0c5fbf",
+      "git_blob_sha": "21caaaa4ecb9b87ebe3324006d3ed63921abd7d2"
+    },
+    "qa/all-codes/science-7-10/batch-17-omitted-codes-independent-source-review.json": {
+      "bytes": 43129,
+      "sha256": "7baf107161b7d1b71ae3453d3d0ba82bb919cfa20a7929704b9a0562b59154d2",
+      "git_blob_sha": "bfad22646fdeb540922e4a0d8810a285d5dc2b66"
+    },
+    "qa/all-codes/science-7-10/batch-24-year10-u-h-independent-source-review.json": {
+      "bytes": 201334,
+      "sha256": "7a3ef1d8a48789451544884197da1897e7776429b1dfde93e50110ab6934c19e",
+      "git_blob_sha": "b0f84dedbe1f64b06caf21e97c839270e3fad811"
+    },
+    "qa/all-codes/science-7-10/batch-24-year10-u-h-independent-source-review.md": {
+      "bytes": 3068,
+      "sha256": "9fb6f1d0f81ac614c9060ddfc71e08e6a1cda90800690148bf9906dc6bf92e87",
+      "git_blob_sha": "5011c1364ea41f2c3f2d7f942a71fdb1791c8af5"
+    },
+    "qa/all-codes/science-7-10/batch-8-year7-biology-perspectives-independent-source-review.json": {
+      "bytes": 45889,
+      "sha256": "55811aca0ab181dfcb9e48c2ebe45edbcf7a005cf808fee6e56bfa69990a8985",
+      "git_blob_sha": "c97c348a60fbfb84d150b30fd1da39006f27c522"
+    },
+    "qa/all-codes/science-7-10/inputs/year-10-master.txt": {
+      "bytes": 116925,
+      "sha256": "8560db5a7f5a762ed2ec3b72f6bcf08c65ed7174972ed6f980600cc07d8e7655",
+      "git_blob_sha": "b7c7c705a7d97a7ef5cf373cd49d464a8c62c8a9"
+    },
+    "qa/all-codes/science-7-10/penicillin-secondary-reuse-review-2026-11-03.json": {
+      "bytes": 14974,
+      "sha256": "e8443fea88aea385f39986242d7fff31fa9ed4336b8fa1172efb3ae286dbe20f",
+      "git_blob_sha": "877fe14c8e7efac97496bf867a1db5ac9770b796"
+    },
+    "qa/all-codes/science-7-10/year-10-review.json": {
+      "bytes": 78781,
+      "sha256": "1697252d7f208790c12848a964be418e1a5a2999fcb8bdc90341caf0102da82c",
+      "git_blob_sha": "479f9e9432c47b616b5e73ae2e1473f1869e6274"
+    },
+    "shared-research/science/2026-11-03-penicillin-collaboration-case.json": {
+      "bytes": 7069,
+      "sha256": "ec3a05639303478529b6996da29207ac266c1e69e30b4a1961c4685c593d9bac",
+      "git_blob_sha": "9a85cbd3f3e2004e6514f2f9ad5557b164d28ec8"
+    },
+    "shared-research/science/2026-11-04-six-omitted-science-author-manifest.json": {
+      "bytes": 4659,
+      "sha256": "6ba258ea4d2dcab4671ba9f6cc8f6976d92a97f77d92a2b21d082276d934307f",
+      "git_blob_sha": "fdd7a8e62a7d63054663a4f278c6372e1cc9df8a"
+    },
+    "shared-research/science/2026-11-04-six-omitted-science-particle-separation-argument-communication-source-ledger.json": {
+      "bytes": 41481,
+      "sha256": "a11cdad48b4854dd2ee81035063d2916d57dcc1333dc684155a7c2ae7e8c0a3f",
+      "git_blob_sha": "acab77dcb8be60a35cf9cabfcd3a9734ed4e2089"
+    },
+    "shared-research/science/2026-11-04-year10-biology-source-ledger.json": {
+      "bytes": 19230,
+      "sha256": "73df62034dacae1ddb04e9fcbd9248898a0941c1aa04c7831061b557f2b7eb11",
+      "git_blob_sha": "f73be0cfe45731defc64f570dea3d8914fae7e8f"
+    },
+    "shared-research/science/2026-11-04-year10-cosmology-climate-source-ledger.json": {
+      "bytes": 18560,
+      "sha256": "81a36e24d1a718f66f1910a8e0b1f3bf978a3d2cab500268a69021c5111978b6",
+      "git_blob_sha": "fb297a721dbf5290ab3020e1a057285bc0a3eaee"
+    },
+    "shared-research/science/2026-11-04-year10-forces-periodic-reactions-source-ledger.json": {
+      "bytes": 20251,
+      "sha256": "bdbafd168cf2d2ce2da88aae66340dc9f20068623a46ac0e3ab66d050b8cfa21",
+      "git_blob_sha": "50602d6be14a3087c64ae9fc32e9df931a2deb59"
+    },
+    "shared-research/science/2026-11-04-year10-u-h-accepted-reuse-map.json": {
+      "bytes": 19461,
+      "sha256": "32fcdce8dc230ebecbce6610c57f4d84dac7f5750fd56a45d49a137c4794321b",
+      "git_blob_sha": "3432d2287b8676e92b0ed7cb17f10fa97bcf1674"
+    },
+    "shared-research/science/2026-11-04-year10-u-h-author-manifest.json": {
+      "bytes": 13769,
+      "sha256": "312eb38a46e342819b099016fca2b9e05b56ddecb0094382046648edf99dc28b",
+      "git_blob_sha": "6c6883091d23e41028d79a47000f03ce0fc35f1a"
+    },
+    "shared-research/science/2026-11-04-year10-u-h-author-validation.json": {
+      "bytes": 38973,
+      "sha256": "629b2e1454c0d48f7f7fdc79384d42f536e297238777cb1935d7213b9e24b90a",
+      "git_blob_sha": "5351ab196de835709cf2293cd64b2a4777a779fe"
+    },
+    "shared-research/science/2026-11-04-year10-u-h-candidate-index.json": {
+      "bytes": 3134,
+      "sha256": "68f9e91503e6bbea944f71b7ee9afd5e9ebbb5a60804780d865eed6bb5f765ae",
+      "git_blob_sha": "8a54026e0d5455c09fed53dfaa99b86e071896fb"
+    },
+    "shared-research/science/2026-11-04-year10-u-h-original-analytical-checks.json": {
+      "bytes": 11828,
+      "sha256": "e91a477a584d114130e08dec0bf342e48e5f1ac08fc8c5676f28212fe821e757",
+      "git_blob_sha": "11492aaf678b2a0c9b3874d3064ea9da79abc7c8"
+    },
+    "shared-research/science/2026-11-04-year10-u-h-provider-access-and-scope-audit.json": {
+      "bytes": 7213,
+      "sha256": "ff374556d249bf722e94961850332b182f7f46cddc7bcc47ddfe0bdfbec245eb",
+      "git_blob_sha": "7869c2d4f889c61e49e1f3c99b1f9dcea9c83eff"
+    },
+    "shared-research/science/2026-11-04-year7-science-perspectives-responses-source-ledger.json": {
+      "bytes": 23907,
+      "sha256": "dd09c604416f564f450a2bdd4a5ea57ef2625c91f1e19cf82b32469f1e21699a",
+      "git_blob_sha": "11cd250460a74be2b5245e020711d4af9b608539"
+    },
+    "shared-research/science/2026-11-04-year9-atomic-evidence-decay-source-ledger.json": {
+      "bytes": 14147,
+      "sha256": "3c46793d2acbcb7b3b4e6524ae92721ab2fe55549779bc31681433a99455483d",
+      "git_blob_sha": "65b8fed02e06be425f76614df631484f934d84e7"
+    },
+    "shared-research/science/2026-11-04-year9-carbon-cycle-source-ledger.json": {
+      "bytes": 6898,
+      "sha256": "d9dd5a883efaa16a5558509d14431b5a4cb9e117ee145e9c839575998a42c8a6",
+      "git_blob_sha": "b5d64ef93edf455e8d3e995047b9042b17e69503"
+    },
+    "shared-research/science/2026-11-04-year9-chemical-conservation-source-ledger.json": {
+      "bytes": 7453,
+      "sha256": "288886fa51d3c2873edda6710d3f33999f6644cb6a67609cfb4a1bf743b4a1a3",
+      "git_blob_sha": "499519cf2de91648aaf7179b3d2c975f60e1cc99"
+    },
+    "shared-research/science/2026-11-04-year9-feedback-reproduction-source-ledger.json": {
+      "bytes": 17210,
+      "sha256": "83a72f36dc8dd6be74b3990e6bcb891fcb43477fd960270b3203cd0a01574b94",
+      "git_blob_sha": "d74dda22e93b59df2220d55cb3df21ff9e14baa9"
+    },
+    "shared-research/science/2026-11-04-year9-peer-review-research-priorities-source-ledger.json": {
+      "bytes": 14835,
+      "sha256": "655160ef0790caa69d8b2dbd61512e047b8ac2808a2dee5bfc0f25d3b5d912b9",
+      "git_blob_sha": "f0b99a8cf79440adcc514b42724c8ae4d2e1a19f"
+    },
+    "shared-research/science/2026-11-04-year9-technology-adoption-reuse-map.json": {
+      "bytes": 7379,
+      "sha256": "b37c963f5e2e711e41fd6d71b615c8747dbbc6aa450a5a174933f6520f280e23",
+      "git_blob_sha": "6ba41da0538bbca8e67c62ad66d5e35586e46066"
+    },
+    "shared-research/science/2026-11-04-year9-u-h-author-manifest.json": {
+      "bytes": 10064,
+      "sha256": "9b17ed2e18b4270645e9ef82e9ba241f1010029cb975195a8cc01189553400a6",
+      "git_blob_sha": "dd47c61a750f8ca01266e1ba3982ad8f30ccd22e"
+    },
+    "shared-research/science/2026-11-04-year9-wave-particle-efficiency-source-ledger.json": {
+      "bytes": 10996,
+      "sha256": "3f6acbfa20310beef5b2eb30fae55d773646718998380bba6682f5d9e53fd05d",
+      "git_blob_sha": "7b98469d105a3029a0253526e4aa9059c62949b8"
+    },
+    "year-10/science/AC9S10H01/research/2026-11-04-source-gap-candidate.json": {
+      "bytes": 10544,
+      "sha256": "30de522364b76ab22f366c12922cbfdab864e13b519439076620e65426d9f2c9",
+      "git_blob_sha": "8b1838c3150a13ef97dc3f4c8fe93beefc66f9d3"
+    },
+    "year-10/science/AC9S10H02/research/2026-11-04-source-gap-candidate.json": {
+      "bytes": 10384,
+      "sha256": "91ab079b5ea060756d06e4e68990d1b21319f39a82df836540931c2c184d7ef3",
+      "git_blob_sha": "89006d711279f6c9ef0b744250f401ca0a2a3e04"
+    },
+    "year-10/science/AC9S10H03/research/2026-11-04-source-gap-candidate.json": {
+      "bytes": 10603,
+      "sha256": "d30ff2bd7236b88494343aa98ef34cc85bd17d363b5149687935fecf6fd58058",
+      "git_blob_sha": "8553187810b08d5037404186d0aba7c3927c79c5"
+    },
+    "year-10/science/AC9S10U01/research/2026-11-04-source-gap-candidate.json": {
+      "bytes": 10581,
+      "sha256": "90d11c6f9cef0ead80f6e59579c7fc75c8a9ac63d8784dcd8b0c30e9e937d959",
+      "git_blob_sha": "eb19286e45e88e6ee8a32f7ca2226633872256d5"
+    },
+    "year-10/science/AC9S10U02/research/2026-11-04-source-gap-candidate.json": {
+      "bytes": 10579,
+      "sha256": "b0b06213ec85bf7bdbdf4f77c12f75bacf87a8b436f0df023b4e09e6aff93133",
+      "git_blob_sha": "80c360e2342d4a199c30848192475032864001a6"
+    },
+    "year-10/science/AC9S10U03/research/2026-11-04-source-gap-candidate.json": {
+      "bytes": 10613,
+      "sha256": "eec6246e56fedd2deaddbbb00e1600ad2aaed94363799a18de1453c4788a0019",
+      "git_blob_sha": "38d58627085f955ff1afe60cad1a2cd67fe1aa05"
+    },
+    "year-10/science/AC9S10U04/research/2026-11-04-source-gap-candidate.json": {
+      "bytes": 10666,
+      "sha256": "9c2683709cd051fb3cabaace7480b9112d5d7a616f69ca48037562c78651a44f",
+      "git_blob_sha": "69f52698b64dcfc972ef772dd7fa98febab9bd21"
+    },
+    "year-10/science/AC9S10U05/research/2026-11-04-source-gap-candidate.json": {
+      "bytes": 10471,
+      "sha256": "3b37b733649d6d47760137c78244a640af2c0ddd2c6445a24cf893d59dfc490d",
+      "git_blob_sha": "52a1e77b9167410eea22d6f98fedc90b752ea69b"
+    },
+    "year-10/science/AC9S10U06/research/2026-11-04-source-gap-candidate.json": {
+      "bytes": 10190,
+      "sha256": "025b3dae5f4494fe417e5dc623a37e97539c51d7bebde6fe1c80213bdd219cd3",
+      "git_blob_sha": "2c9b0b81810ee053f756e02c95b2df6f19e3d6cd"
+    },
+    "year-10/science/AC9S10U07/research/2026-11-04-source-gap-candidate.json": {
+      "bytes": 10824,
+      "sha256": "212265efff9299474c4d53810df986e924791f788c4b2fc28021783c0b3bd6be",
+      "git_blob_sha": "76fb4f61a02d63924a51860b8b169132740fcfa7"
+    },
+    "year-10/science/Year10_Science_Curriculum_Research_Master.txt": {
+      "bytes": 116925,
+      "sha256": "8560db5a7f5a762ed2ec3b72f6bcf08c65ed7174972ed6f980600cc07d8e7655",
+      "git_blob_sha": "b7c7c705a7d97a7ef5cf373cd49d464a8c62c8a9"
+    }
+  },
+  "resolved_archived_path": {
+    "CURRENT_RESEARCH_SOP.md": "shared-research/english/2026-11-04-immutable-inputs/CURRENT_RESEARCH_SOP.md"
+  },
+  "official_scope": "QCAA Year10Science actual two-page descriptor text opened9Nov2026; PDFprintedU03code typoAC9S910U03 notadopted;correctcodefromauthoritativecatalogueAC9S10U03.",
+  "limits": "Batch24 accepts bounded source methods; source/readiness labels do not certify products. Reuse creates zero new observations. No sourcepixels/media/practical/permission/audience result; unreopened Floreylecture notadopted as new independentbasis."
+}

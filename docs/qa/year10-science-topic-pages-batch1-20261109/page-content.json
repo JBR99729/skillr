@@ -1,0 +1,742 @@
+[
+  {
+    "code": "AC9S10U01",
+    "short": "Heredity and cell division",
+    "title": "Connect inherited information to cell division",
+    "intro": "Explain chromosomes, DNA and genes, compare mitosis and meiosis, and predict simple Mendelian inheritance under stated assumptions.",
+    "exampleTitle": "A probability model does not promise a family ratio",
+    "example": "In a fictional plant, P and p are alleles of one gene. Assume complete dominance: PP and Pp have purple flowers, and pp has white flowers. Each Pp parent produces equally likely P or p gametes. A Pp × Pp cross gives PP, Pp, Pp and pp as four equally likely combinations: genotype probabilities 1/4, 1/2 and 1/4, and phenotype probabilities 3/4 purple and 1/4 white. Four actual offspring need not include exactly three purple plants. The model excludes complications such as multiple genes affecting the characteristic.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Gamete from parent 1</th><th scope=\"col\">P from parent 2</th><th scope=\"col\">p from parent 2</th></tr></thead><tbody><tr><td>P</td><td>PP</td><td>Pp</td></tr><tr><td>p</td><td>Pp</td><td>pp</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Locate the inherited information",
+        "Chromosomes contain long DNA molecules associated with proteins. A gene is a DNA region whose information contributes to a functional product, such as a protein or functional RNA. Alleles are versions of a gene. A characteristic can depend on many genes and environmental conditions; a gene is not a guaranteed destiny.",
+        "<div class=\"evidence\">Two homologous chromosomes carry P and p at the same gene position. Before replication, each chromosome has one DNA molecule.</div>",
+        "Are P and p different genes simply because their letters differ?",
+        "No. Here they are alleles of the same gene, at corresponding positions on homologous chromosomes. Homologues carry corresponding gene sets; after replication, sister chromatids are duplicated copies of one chromosome."
+      ],
+      [
+        "Compare the two divisions",
+        "Mitosis normally maintains chromosome number in the daughter nuclei; meiosis reduces the number of chromosome sets in gametes. DNA replicates before mitosis or meiosis I, but not between meiosis I and II. Homologues separate in meiosis I; sisters separate in meiosis II. Count chromosomes by centromeres rather than by DNA quantity.",
+        "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Toy cell stage</th><th scope=\"col\">Chromosomes per cell</th><th scope=\"col\">DNA molecules per cell</th></tr></thead><tbody><tr><td>Before replication</td><td>4</td><td>4</td></tr><tr><td>After replication, before division</td><td>4</td><td>8</td></tr><tr><td>Each mitotic daughter</td><td>4</td><td>4</td></tr><tr><td>Each cell after meiosis I</td><td>2</td><td>4</td></tr><tr><td>Each gamete after meiosis II</td><td>2</td><td>2</td></tr></tbody></table></div>",
+        "Why does replication not immediately turn the toy diploid cell into a cell with 8 chromosomes?",
+        "Each replicated chromosome still has a joined sister pair counted as one chromosome at this stage, so there are 4 chromosomes but 8 DNA molecules. Meiosis halves the sets; fusion of two such gametes restores two sets."
+      ],
+      [
+        "Predict and qualify an inheritance result",
+        "Write parental genotypes, list possible gametes, combine them, and count genotype and phenotype probabilities separately. Independent assortment and crossing over can produce new combinations in meiosis, but not every product must be unique. Mendelian crosses require explicit assumptions about alleles, dominance and gamete probabilities.",
+        "<div class=\"evidence\">A second fictional trait has R dominant to r. A parent known to be Rr is crossed with rr; each offspring independently has probability 1/2 of the dominant phenotype.</div>",
+        "What is the probability that all three offspring show the dominant phenotype?",
+        "(1/2)³ = 1/8, conditional on the parent being Rr and the stated assumptions. This is not the probability that an unknown parent is Rr after observing three dominant offspring; that would require further information."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Dominant means common or stronger.”",
+        "Dominance describes the phenotype of a heterozygote in this model, not population frequency or value."
+      ],
+      [
+        "“Replication doubles chromosome sets.”",
+        "Distinguish duplicated DNA from the number of chromosome sets."
+      ],
+      [
+        "“A 3:1 prediction guarantees every group of four.”",
+        "The ratio describes expected proportions over many independent offspring."
+      ]
+    ],
+    "activityTitle": "Compare two crosses",
+    "activity": "Draw the Pp × Pp grid, then a Pp × pp grid. Label gametes and compare the white-flower probabilities. Explain how a sample of four purple offspring remains compatible with the first cross.",
+    "adjust": "Support: use one parent along each grid edge. Core: distinguish genotype from phenotype. Extend: calculate the probability of four purple offspring in the first cross.",
+    "safety": "Use the fictional plant and paper models; do not infer personal ancestry, health or family relationships.",
+    "tricky": [
+      [
+        "What is the white-flower probability in Pp × pp?",
+        "1/2: two of the four equally likely grid combinations are pp."
+      ],
+      [
+        "Can mitosis occur in a haploid organism?",
+        "Yes. Mitosis maintains the starting chromosome number; it is not defined as always producing diploid cells."
+      ],
+      [
+        "What is the extension probability?",
+        "(3/4)⁴ = 81/256, about 31.6%, given independent offspring and the stated model."
+      ]
+    ],
+    "faq": [
+      [
+        "Why is meiosis important in sexual reproduction?",
+        "It reduces chromosome sets before gamete fusion and can reshuffle inherited combinations."
+      ],
+      [
+        "Does every characteristic follow one dominant/recessive gene?",
+        "No. This is a deliberately simple model; many characteristics involve multiple genes, environments or other inheritance patterns."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S10U02",
+    "short": "Evolution and evidence",
+    "title": "Explain population change using natural selection",
+    "intro": "Explain natural selection through inherited variation and reproductive success, and connect fossil, structural, molecular and geographical evidence for evolution.",
+    "exampleTitle": "The proportion changes when inherited variants leave different numbers of descendants",
+    "example": "In a fictional clonal microbe model, R and S are inherited variants already present before a selection event. Initially there are 50 R and 150 S individuals: 25% R. After the event, 40 R and 30 S survive. If each survivor produces four same-type offspring, there are 160 R and 120 S offspring: R is now 160/280 = 4/7, about 57.1%. R did not appear because individuals needed it. The model assumes faithful inheritance, equal reproduction per survivor and no migration or new mutation during this example.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Stage</th><th scope=\"col\">R</th><th scope=\"col\">S</th><th scope=\"col\">R proportion</th></tr></thead><tbody><tr><td>Before selection</td><td>50</td><td>150</td><td>25%</td></tr><tr><td>Survivors</td><td>40</td><td>30</td><td>4/7 ≈ 57.1%</td></tr><tr><td>Four offspring per survivor</td><td>160</td><td>120</td><td>4/7 ≈ 57.1%</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Build a causal explanation",
+        "Individuals vary, some differences are inherited, and conditions can cause different contributions to later generations. A variant can become more frequent if its bearers leave more descendants in that context. Selection acts on variation; mutation does not arise because an organism anticipates a need. Survival matters through its connection to reproduction.",
+        "<div class=\"evidence\">In the supplied model, R survival is 40/50 = 80%; S survival is 30/150 = 20%.</div>",
+        "Why does four offspring per survivor preserve the survivor proportion?",
+        "Multiplying both counts by four leaves the ratio 40:30 unchanged. The shift from 25% to 57.1% occurred through unequal survival followed by the specified reproduction, not through an individual S changing into R."
+      ],
+      [
+        "Interpret observed evidence within its limits",
+        "Compare measured counts and locations before drawing conclusions. In the saved HHMI rock-pocket-mouse classroom data, six sites grouped by substrate total 120 light and 48 dark mice on light substrate, versus 3 light and 54 dark on dark substrate. This is a spatial association; the table alone is not a time series showing the same population evolving.",
+        "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Substrate grouping</th><th scope=\"col\">Light mice</th><th scope=\"col\">Dark mice</th></tr></thead><tbody><tr><td>Light substrate</td><td>120</td><td>48</td></tr><tr><td>Dark substrate</td><td>3</td><td>54</td></tr></tbody></table></div>",
+        "What does the table support, and what further evidence would help explain selection?",
+        "Colour frequencies differ by substrate. Inherited colour variation, effects on predation or other reproductive success, and relevant environmental comparisons would help test selection. These spatial counts alone do not establish a generational change or rule out every alternative."
+      ],
+      [
+        "Connect independent evidence lines",
+        "Fossils give ordered historical evidence; homologous structures indicate inherited structural relationships; geographical patterns connect distribution and history; molecular similarities can test predicted relationships. Compare converging patterns rather than treating one resemblance as decisive. Similar function can evolve independently, so function alone is not homology.",
+        "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Evidence</th><th scope=\"col\">Useful comparison</th><th scope=\"col\">Limit</th></tr></thead><tbody><tr><td>Fossils</td><td>Ordered change and branching through time</td><td>Record is incomplete</td></tr><tr><td>Homologous structures</td><td>Corresponding underlying structures</td><td>Similar function alone is insufficient</td></tr><tr><td>DNA sequences</td><td>Aligned homologous positions</td><td>A few positions are not an entire genome</td></tr><tr><td>Geography</td><td>Related forms and isolation/history</td><td>Location alone does not prove ancestry</td></tr></tbody></table></div>",
+        "Why combine a short DNA comparison with other evidence?",
+        "A small sequence may agree by chance or omit important differences. Broader comparable sequences and independent fossil, structural and geographical evidence can strengthen or challenge the proposed relationship."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Individuals evolve because they try.”",
+        "Population frequencies change across generations; inherited variation exists before selection."
+      ],
+      [
+        "“Evolution aims for perfection.”",
+        "Success depends on conditions and trade-offs; there is no universal ladder."
+      ],
+      [
+        "“A present-day association proves the whole history.”",
+        "Distinguish observed pattern from the additional evidence needed for a causal history."
+      ]
+    ],
+    "activityTitle": "Explain and challenge the population model",
+    "activity": "Recalculate both survival percentages and the offspring proportion. Now keep the survivors fixed but let each R survivor leave two offspring and each S survivor leave four. Find the new R proportion and explain what changed.",
+    "adjust": "Support: calculate counts before percentages. Core: connect inheritance to descendants. Extend: propose evidence that could distinguish selection from migration in a real population.",
+    "safety": "Use paper counts only. Do not culture microbes, expose organisms to harmful conditions or interpret R as instructions for antibiotic use.",
+    "tricky": [
+      [
+        "What is R’s proportion in the changed reproduction model?",
+        "80/(80 + 120) = 40%. It remains above the initial 25%, but is lower than in the equal-reproduction model."
+      ],
+      [
+        "Must every useful trait have arisen by natural selection?",
+        "No. Mutation, genetic drift, migration and historical constraints can also affect patterns; test the relevant explanation."
+      ],
+      [
+        "Are humans descended from present-day chimpanzees?",
+        "No. Humans and chimpanzees share ancestral populations; evolution branches rather than forming a ladder of living species."
+      ]
+    ],
+    "faq": [
+      [
+        "Does a scientific theory mean a guess?",
+        "A scientific theory is a broad explanatory framework supported and tested by evidence; particular details remain open to investigation."
+      ],
+      [
+        "Why does inheritance matter?",
+        "A difference that is not passed to descendants cannot itself cause the inherited frequency change described by this simple selection model."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S10U03",
+    "short": "Evidence for the big bang",
+    "title": "Connect an expanding universe to testable evidence",
+    "intro": "Explain the hot, dense expanding-universe model and how galaxy redshifts, the cosmic microwave background and light-element abundances support it.",
+    "exampleTitle": "A shifted spectral pattern is evidence to interpret",
+    "example": "A fictional distant galaxy has a recognisable spectral feature with rest wavelength 500 nm and observed wavelength 510 nm. The fractional shift z = (510 − 500)/500 = 0.02; the wavelength units cancel. In the cosmological interpretation, expansion stretches light during its journey. This small toy shift is not a new measurement of the Hubble constant, a precise galaxy distance or a complete history of the universe. The broader model is supported by several independent evidence lines.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Evidence line</th><th scope=\"col\">Prediction or explanation in the model</th><th scope=\"col\">Careful qualification</th></tr></thead><tbody><tr><td>Galaxy spectral redshifts</td><td>Large-scale expansion stretches wavelengths</td><td>Individual motions and measurement context also matter</td></tr><tr><td>Cosmic microwave background (CMB)</td><td>A cooled thermal relic from the early hot universe</td><td>Not photons created at time zero</td></tr><tr><td>Light-element abundances</td><td>Early nuclear reactions produce characteristic light-element amounts</td><td>Compare predictions with measurements and uncertainties</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Put events in a meaningful order",
+        "The model describes an early hot, dense universe expanding and cooling. Light nuclei formed during the first minutes. Much later, around 380,000 years after the early hot phase, neutral atoms could persist and radiation last scattered widely; that relic is observed today as the CMB. Stars and galaxies developed later. This is not an explosion from a central point into pre-existing empty space.",
+        "<div class=\"evidence\">Cards: light nuclei; later stars and galaxies; hot dense expansion; neutral atoms and CMB last scattering.</div>",
+        "Order the cards and explain why nuclei and neutral atoms are separate stages.",
+        "Hot dense expansion → light nuclei → neutral atoms and CMB last scattering → later stars and galaxies. A nucleus is not a neutral atom: neutral atoms also require bound electrons, which could persist when the universe cooled sufficiently."
+      ],
+      [
+        "Interpret expansion evidence",
+        "Identify the same spectral pattern before comparing wavelengths. A larger cosmological redshift generally corresponds to greater expansion during the light’s journey. A simple speed–distance proportionality is a low-redshift approximation with stated assumptions, not a universal linear calculator for all epochs.",
+        "<div class=\"evidence\">Second fictional feature: rest 600 nm, observed 612 nm.</div>",
+        "Does it give the same fractional shift as the 500 → 510 nm feature?",
+        "Yes: (612 − 600)/600 = 0.02. Consistent shifts of identifiable features support a common interpretation; a single unidentified red line is not enough to establish a reliable galaxy redshift."
+      ],
+      [
+        "Compare predictions and anomalies",
+        "The CMB has a near-thermal spectrum at about 2.73 K today, consistent with radiation cooling as the universe expands. Light-element predictions offer another test. A mismatch should be examined rather than hidden: an ESO report from 2014 described lithium in M54 at roughly one-third of a predicted amount. That dated discrepancy is a historical example of model testing, not a claim about its current research status.",
+        "<div class=\"evidence\">A student says: “The CMB is 2.73 K, so every photon has exactly the same wavelength.”</div>",
+        "What does the thermal spectrum actually mean?",
+        "It is a distribution of photon wavelengths and energies with a characteristic shape and peak. The temperature does not assign one identical wavelength to every photon. Multiple evidence lines and their limits matter more than one isolated slogan."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“There must be a special explosion centre.”",
+        "Large-scale expansion does not identify our location as a unique centre."
+      ],
+      [
+        "“The CMB came from the first instant.”",
+        "The observed relic last scattered much later, when neutral atoms could persist."
+      ],
+      [
+        "“A model with a discrepancy is either perfect or worthless.”",
+        "Investigate the mismatch and compare the full range of predictions and evidence."
+      ]
+    ],
+    "activityTitle": "Match evidence to a prediction",
+    "activity": "Make three columns for observation, model explanation and limitation. Place the three evidence lines from the table into them, then calculate the two toy shifts and explain why their agreement matters.",
+    "adjust": "Support: start with the chronological cards. Core: connect each observation to a prediction. Extend: describe what a repeatable conflicting measurement would require scientists to check.",
+    "safety": "Use the supplied records and diagrams. Never observe the Sun through a telescope or optical instrument for this paper activity.",
+    "tricky": [
+      [
+        "Is the CMB light emitted by present-day stars?",
+        "No. It is a much older thermal relic, distinct from starlight."
+      ],
+      [
+        "Does z = 0.02 by itself give a precise age?",
+        "No. An age or distance inference requires a cosmological model and additional assumptions or measurements."
+      ],
+      [
+        "Does the expansion model settle every question about an ultimate beginning?",
+        "No. It explains tested aspects of the early hot universe and subsequent development without answering every origin question."
+      ]
+    ],
+    "faq": [
+      [
+        "Why use several evidence lines?",
+        "Their different measurement methods test different predictions, reducing reliance on one interpretation."
+      ],
+      [
+        "What does approximately 380,000 years describe?",
+        "The approximate epoch of neutral-atom formation and last scattering associated with the CMB, not the first formation of light nuclei."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S10U04",
+    "short": "Earth’s energy and climate",
+    "title": "Explain how energy balance affects climate",
+    "intro": "Use energy-flow and matter-cycle models across Earth’s four spheres to explain climate patterns, feedbacks and the limits of a dataset.",
+    "exampleTitle": "A small imbalance changes stored energy",
+    "example": "At the outer boundary of a fictional whole-Earth model, 100 energy units arrive per time step. Thirty are reflected and 70 absorbed. If 70 leave as infrared radiation, net storage is zero. If outgoing infrared falls to 68 while the other flows initially stay fixed, net storage is 70 − 68 = +2 units per step. This is an initial perturbation: as the system warms, its outgoing radiation changes. Greenhouse gases absorb and emit infrared; energy is not trapped forever. The toy 30/70 split is separate from a particular measured global energy-budget estimate.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Toy whole-Earth boundary</th><th scope=\"col\">Initial balance</th><th scope=\"col\">Immediately after change</th></tr></thead><tbody><tr><td>Incoming solar</td><td>100</td><td>100</td></tr><tr><td>Reflected solar</td><td>30</td><td>30</td></tr><tr><td>Absorbed solar</td><td>70</td><td>70</td></tr><tr><td>Outgoing infrared</td><td>70</td><td>68</td></tr><tr><td>Net energy stored per step</td><td>0</td><td>+2</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Track energy through connected spheres",
+        "Atmosphere, hydrosphere, geosphere and biosphere exchange energy and matter. Sunlight can heat land and ocean, evaporation transfers energy with water, and radiation transfers energy to space. Carbon moves through photosynthesis, respiration, combustion and ocean exchange. Energy flow is not the same thing as a matter cycle, and ocean heat storage can delay temperature responses.",
+        "<div class=\"evidence\">A model shows sunlight absorbed by ocean water, evaporation, cloud formation and precipitation, alongside carbon uptake by plants.</div>",
+        "Identify an energy transfer and a matter transfer without confusing them.",
+        "Solar radiation transfers energy to the hydrosphere. Water moves between ocean and atmosphere through evaporation and return precipitation. Carbon uptake moves matter into the biosphere. Energy accompanies processes but is not itself a carbon atom or a water molecule."
+      ],
+      [
+        "Explain feedback and model boundaries",
+        "A warming that reduces reflective ice can increase absorbed sunlight and amplify the initial warming: positive feedback. A warmer system also radiates more energy, opposing continued imbalance. Cloud effects depend on cloud properties and conditions; “all clouds warm” is not a complete rule. Whole-Earth boundary flows must not be added indiscriminately to internal surface–atmosphere exchanges.",
+        "<div class=\"evidence\">Toy change: absorbed sunlight stays 70, outgoing infrared changes from 68 to 69 units per step as temperature rises.</div>",
+        "Has the imbalance disappeared?",
+        "No. Net storage is now +1 unit per step: smaller than +2 but still positive. A new balance would require equal absorbed and outgoing boundary flows under the relevant conditions."
+      ],
+      [
+        "Read climate records with appropriate limits",
+        "The saved source table combines selected NOAA CO₂ values and NASA temperature anomalies, relative to 1951–1980. Endpoints describe these selected records; five rows are not a complete attribution analysis. Shorter-term variation can occur within a long-term warming pattern. Explain the physical mechanism and broader evidence rather than claiming every year must rise with CO₂.",
+        "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Year</th><th scope=\"col\">CO₂ (ppm)</th><th scope=\"col\">Temperature anomaly (°C)</th></tr></thead><tbody><tr><td>1980</td><td>338.76</td><td>0.26</td></tr><tr><td>1990</td><td>354.45</td><td>0.45</td></tr><tr><td>2000</td><td>369.71</td><td>0.39</td></tr><tr><td>2010</td><td>390.10</td><td>0.72</td></tr><tr><td>2020</td><td>414.21</td><td>1.01</td></tr></tbody></table></div>",
+        "Calculate the endpoint changes and identify a counterexample to “both rise at every listed step”.",
+        "1980 to 2020: CO₂ rises 75.45 ppm and anomaly rises 0.75 °C. From 1990 to 2000 CO₂ rises 15.26 ppm while the anomaly falls 0.06 °C. These sparse points illustrate variability and an endpoint pattern, not a complete causal proof."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Greenhouse gases stop all energy escaping.”",
+        "Infrared still leaves; an imbalance changes storage and temperature until flows respond."
+      ],
+      [
+        "“Positive feedback is beneficial.”",
+        "Positive means amplifying the initial change, not morally good."
+      ],
+      [
+        "“A cool year disproves long-term warming.”",
+        "Separate short-term variability, measurement baselines and longer-term patterns."
+      ]
+    ],
+    "activityTitle": "Balance and connect the model",
+    "activity": "Draw the whole-Earth boundary and label its five initial quantities. Add a +2 storage annotation for the changed case. Then connect a warmer ocean to one water-cycle transfer and one consequence of heat storage, stating which sphere is involved.",
+    "adjust": "Support: subtract outgoing from absorbed first. Core: distinguish internal exchange from boundary flow. Extend: explain why different model assumptions can produce different projections.",
+    "safety": "Use the supplied toy budget and dated data table. No heating experiment or personal weather observation is required to complete the task.",
+    "tricky": [
+      [
+        "Does zero net storage mean no energy moves?",
+        "No. Large equal incoming and outgoing flows can coexist with zero net change."
+      ],
+      [
+        "Can the 30/70 toy split replace every published energy budget?",
+        "No. Published budgets have particular dates, rounding and boundaries; keep their component values together."
+      ],
+      [
+        "Does an anomaly of 1.01 °C mean the global temperature is 1.01 °C?",
+        "No. It means a difference from the stated reference average, here 1951–1980."
+      ]
+    ],
+    "faq": [
+      [
+        "Why include all four spheres?",
+        "Climate involves exchanges and feedbacks among air, water, land and living systems."
+      ],
+      [
+        "Why can warming continue while an imbalance shrinks?",
+        "A smaller positive net energy input still increases storage; the sign and the size are different questions."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S10U05",
+    "short": "Newton’s laws and motion",
+    "title": "Use resultant force to explain acceleration",
+    "intro": "Apply Newton’s three laws, choose an object or system, and calculate acceleration from resultant force and mass.",
+    "exampleTitle": "Calculate the force on the chosen cart",
+    "example": "For a 6 kg cart, a horizontal pull of 30 N acts east and resistance of 6 N acts west. Choose east as positive: Fnet = +30 − 6 = +24 N. With constant mass, a = Fnet/m = 24/6 = 4 m/s² east. Assume the cart remains on a level track with no vertical acceleration, so vertical forces balance in this case. The 6 N resistance is not the third-law partner of the pull: the partner to the pull on the cart acts on the pulling object.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Chosen object: cart</th><th scope=\"col\">Signed horizontal force</th><th scope=\"col\">Result</th></tr></thead><tbody><tr><td>Pull</td><td>+30 N</td><td>East</td></tr><tr><td>Resistance</td><td>−6 N</td><td>West</td></tr><tr><td>Resultant</td><td>+24 N</td><td>a = +4 m/s² for 6 kg</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Apply the first law to velocity",
+        "Zero resultant force means zero acceleration in an inertial frame. An object can remain at rest or continue at constant velocity. Acceleration is a change in velocity, so it may mean speeding up, slowing down or changing direction. A normal force is not universally equal to weight; its size follows the actual forces and acceleration in the chosen situation.",
+        "<div class=\"evidence\">Case A: a cart moves east at constant velocity with balanced forces. Case B: a cart moves east while the resultant force points west.</div>",
+        "How does the motion differ?",
+        "A has no change in velocity. B has westward acceleration; while still moving east it slows down. Force direction alone is not always the current direction of motion."
+      ],
+      [
+        "Use Fnet = ma and compare variables",
+        "Find the resultant before dividing by mass. With the same mass, doubling resultant force doubles acceleration. With the same resultant force, doubling mass halves acceleration. These comparisons depend on what is held constant, not just whether a larger number appears in a table.",
+        "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Toy comparison</th><th scope=\"col\">Mass (kg)</th><th scope=\"col\">Resultant (N)</th><th scope=\"col\">Acceleration (m/s²)</th></tr></thead><tbody><tr><td>Fixed mass</td><td>6</td><td>12</td><td>2</td></tr><tr><td>Fixed mass</td><td>6</td><td>24</td><td>4</td></tr><tr><td>Fixed mass</td><td>6</td><td>36</td><td>6</td></tr><tr><td>Fixed force</td><td>3</td><td>24</td><td>8</td></tr><tr><td>Fixed force</td><td>12</td><td>24</td><td>2</td></tr></tbody></table></div>",
+        "At a resultant of 24 N, what mass gives acceleration 3 m/s²?",
+        "m = Fnet/a = 24/3 = 8 kg. The force must be the resultant on the same chosen object or system; a single applied force is not automatically the resultant."
+      ],
+      [
+        "Distinguish interaction pairs and fair tests",
+        "Third-law forces are equal and opposite forces on different interacting objects, so they do not cancel on a single-object force diagram. For a trolley–hanger investigation, define the moving system. Transferring masses from trolley to hanger can change the driving effect while keeping total moving mass fixed; include the hanger. Hanger weight is not identical to string tension during acceleration.",
+        "<div class=\"evidence\">A paper plan transfers masses from the trolley to the hanger, measures repeated changes in velocity over time, and models pulley resistance.</div>",
+        "What must be controlled or measured to test a force–acceleration relationship?",
+        "Keep the total moving mass and track conditions fixed; include the hanger and relevant pulley effects, estimate or account for resistance, and measure repeated accelerations using Δv/Δt. State how the system resultant is obtained rather than equating an individual force with it."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Motion requires an unbalanced forward force.”",
+        "Constant velocity can occur with balanced forces."
+      ],
+      [
+        "“Action and reaction cancel on the cart.”",
+        "The pair acts on different objects."
+      ],
+      [
+        "“Use any force number in F = ma.”",
+        "Use the resultant on the selected object or system."
+      ]
+    ],
+    "activityTitle": "Write two force accounts",
+    "activity": "Draw a cart-only horizontal force diagram and calculate its acceleration. Then describe the puller–cart interaction as a third-law pair, naming the object receiving each force. Finally predict what happens to acceleration if cart mass doubles at the same resultant.",
+    "adjust": "Support: mark east positive and subtract. Core: name the system for every equation. Extend: explain a cart moving east with acceleration west.",
+    "safety": "Use the supplied paper records. Any real trolley or hanging-mass investigation requires teacher-approved apparatus and controls for falling masses and collisions.",
+    "tricky": [
+      [
+        "What happens when the mass becomes 12 kg at the same 24 N resultant?",
+        "Acceleration becomes 2 m/s² east."
+      ],
+      [
+        "Are weight and normal force a third-law pair?",
+        "No. Both can act on the same cart. Their respective interaction partners act on Earth and the supporting surface."
+      ],
+      [
+        "Can a force change direction of motion without increasing speed?",
+        "Yes. A resultant perpendicular to velocity can change its direction; acceleration concerns velocity, not speed alone."
+      ]
+    ],
+    "faq": [
+      [
+        "Why use signs?",
+        "They make opposing directions explicit and keep the resultant and acceleration consistent."
+      ],
+      [
+        "Does Fnet = ma mean the mass changes when force changes?",
+        "No. It relates quantities for a chosen system; a fair comparison states which quantities remain fixed."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S10U06",
+    "short": "Atoms and periodic patterns",
+    "title": "Connect atomic structure to periodic-table patterns",
+    "intro": "Use proton, neutron and electron structure to distinguish atoms and ions and explain broad periodic patterns within stated limits.",
+    "exampleTitle": "An isotope change and an ion change are different",
+    "example": "Magnesium has atomic number 12, so each magnesium nucleus has 12 protons. Neutral magnesium-24 has 12 neutrons and 12 electrons; neutral magnesium-26 has 14 neutrons and 12 electrons. They are isotopes of the same element because their proton numbers match. A magnesium-24 ion Mg²⁺ has lost two electrons, leaving 10 electrons while retaining its 12 protons and 12 neutrons. Mass number counts protons plus neutrons, not the charge or the total of all particles.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Species</th><th scope=\"col\">Protons</th><th scope=\"col\">Neutrons</th><th scope=\"col\">Electrons</th></tr></thead><tbody><tr><td>Neutral Mg-24</td><td>12</td><td>12</td><td>12</td></tr><tr><td>Neutral Mg-26</td><td>12</td><td>14</td><td>12</td></tr><tr><td>Mg-24, charge 2+</td><td>12</td><td>12</td><td>10</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Use particle counts consistently",
+        "Atomic number Z identifies proton number; mass number A gives protons plus neutrons for a specified isotope. Neutral atoms have equal proton and electron counts. Ions gain or lose electrons without changing element identity. An isotope is not simply a charged atom.",
+        "<div class=\"evidence\">An isotope has Z = 17 and A = 35. It gains one electron to form a 1− ion.</div>",
+        "How many protons, neutrons and electrons are in the ion?",
+        "17 protons, 35 − 17 = 18 neutrons and 18 electrons. Gaining an electron changes charge, not the nucleus or the isotope mass number."
+      ],
+      [
+        "Connect shell models to position",
+        "For the first 20 elements in this simplified main-group model, occupied shells help identify period and outer electrons help explain group patterns. Magnesium is 2,8,2: period 3, group 2. Calcium is 2,8,8,2: period 4, group 2. Chlorine is 2,8,7: period 3, group 17. The third shell is not universally limited to eight electrons beyond this introductory scope.",
+        "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Atom</th><th scope=\"col\">Shell arrangement</th><th scope=\"col\">Period</th><th scope=\"col\">Group</th></tr></thead><tbody><tr><td>Mg</td><td>2,8,2</td><td>3</td><td>2</td></tr><tr><td>Ca</td><td>2,8,8,2</td><td>4</td><td>2</td></tr><tr><td>Cl</td><td>2,8,7</td><td>3</td><td>17</td></tr></tbody></table></div>",
+        "Which pair shares an outer-electron pattern, and which pair shares the number of occupied shells?",
+        "Mg and Ca both have two outer electrons and belong to group 2. Mg and Cl both have three occupied shells and belong to period 3. Group numbers are not simply the number of outer electrons for every element."
+      ],
+      [
+        "Explain broad property and size patterns",
+        "Outer electrons help explain similar chemical behaviour within a main group, while nuclear charge, occupied shells and shielding help explain broad size patterns. Across a defined period, increasing attraction with similar shell structure often decreases atomic radius. Down a group, added occupied shells usually increase radius. Use consistent radius definitions; do not claim every property changes monotonically for every element.",
+        "<div class=\"evidence\">Compare neutral sodium, 2,8,1, with neutral magnesium, 2,8,2, using the same atomic-radius convention.</div>",
+        "Why can magnesium have a smaller radius despite having more electrons?",
+        "Both have the same number of occupied shells, while magnesium has a greater nuclear charge. The stronger attraction generally draws the electron distribution closer. “More electrons always means larger” ignores nuclear charge and shielding."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Isotopes have different proton numbers.”",
+        "Different proton numbers identify different elements; isotopes differ in neutrons."
+      ],
+      [
+        "“A positive ion gained positive particles.”",
+        "In these examples it lost electrons."
+      ],
+      [
+        "“Every group number equals outer electrons.”",
+        "State the main-group convention and exceptions rather than applying that shortcut universally."
+      ]
+    ],
+    "activityTitle": "Compare three representations",
+    "activity": "Make a particle-count table for Mg-24, Mg-26 and Mg²⁺. Then use the shell table to sort pairs by same group and same period. Explain why a shell model is useful but is not a literal map of electron paths.",
+    "adjust": "Support: calculate neutrons as A − Z first. Core: separate isotope from ion changes. Extend: explain why helium is placed with noble gases despite having only two electrons.",
+    "safety": "Use paper models and the supplied records. No chemical handling, flame test or electrical experiment is needed.",
+    "tricky": [
+      [
+        "Does Mg²⁺ still count as magnesium?",
+        "Yes. Its nucleus still contains 12 protons."
+      ],
+      [
+        "Why is helium not group 2?",
+        "Its first shell is full with two electrons; its properties place it with the noble gases in group 18."
+      ],
+      [
+        "Do shell circles show exact electron trajectories?",
+        "No. They are a simplified arrangement model, not literal circular orbits."
+      ]
+    ],
+    "faq": [
+      [
+        "What keeps element identity fixed?",
+        "The proton number in the nucleus."
+      ],
+      [
+        "Why qualify periodic trends?",
+        "Trends depend on the property, measurement definition and comparison set; simplified main-group patterns have limits."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S10U07",
+    "short": "Reaction patterns and rates",
+    "title": "Track atoms and explain reaction rates",
+    "intro": "Classify reaction patterns, balance equations and use collision models and data to explain factors affecting reaction rate.",
+    "exampleTitle": "Balance atoms, then measure a rate with its units",
+    "example": "The synthesis equation 2Mg + O₂ → 2MgO has two magnesium atoms and two oxygen atoms on each side. Coefficients change the amounts represented without changing chemical formulas. In a separate fictional gas-producing reaction, measured volume is 0, 12, 20 and 26 cm³ at 0, 10, 20 and 30 s. Average interval rates are 1.2, 0.8 and 0.6 cm³/s, while the overall average is 26/30 ≈ 0.87 cm³/s. The intervals show slowing in this supplied record; none is an instantaneous rate.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Time interval (s)</th><th scope=\"col\">Gas increase (cm³)</th><th scope=\"col\">Average rate (cm³/s)</th></tr></thead><tbody><tr><td>0–10</td><td>12</td><td>1.2</td></tr><tr><td>10–20</td><td>8</td><td>0.8</td></tr><tr><td>20–30</td><td>6</td><td>0.6</td></tr><tr><td>0–30</td><td>26</td><td>≈0.87</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Classify and conserve",
+        "A synthesis combines reactants into a product; decomposition breaks a reactant into simpler products; single displacement replaces one element in a compound. Count each atom on both sides and adjust coefficients. Conserving atoms is necessary for a balanced equation but does not by itself establish that a proposed reaction will occur.",
+        "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Pattern</th><th scope=\"col\">Balanced example</th></tr></thead><tbody><tr><td>Synthesis</td><td>2Mg + O₂ → 2MgO</td></tr><tr><td>Decomposition</td><td>2H₂O₂ → 2H₂O + O₂</td></tr><tr><td>Single displacement</td><td>Zn + CuSO₄ → ZnSO₄ + Cu</td></tr></tbody></table></div>",
+        "Why is changing MgO to MgO₂ an invalid way to balance magnesium oxide formation?",
+        "It changes the substance represented. Keep the formula MgO and adjust coefficients to 2Mg + O₂ → 2MgO. Each side then contains two Mg and two O atoms."
+      ],
+      [
+        "Explain factors using collisions",
+        "Successful reacting encounters require suitable energy and orientation. Higher temperature can increase the fraction with enough energy, as well as collision frequency. Greater concentration can increase encounter frequency in suitable systems; greater exposed surface area can increase access to reacting solid. These are conditional explanations, not universal linear laws for all reactions.",
+        "<div class=\"evidence\">Fictional matched tests reach the same 20 cm³ gas endpoint. Lump times: 40, 41, 39 s. Powder times: 20, 21, 19 s; starting reactant amounts and other stated conditions match.</div>",
+        "Compare the mean times and the 1/mean-time rate proxy.",
+        "Means are 40 s and 20 s. The proxies are 0.025 s⁻¹ and 0.050 s⁻¹, so the powder proxy is twice as large for this fixed endpoint. This is not a molar rate or proof that every powder reaction is exactly twice as fast."
+      ],
+      [
+        "Distinguish rate from energy change and yield",
+        "A catalyst provides a lower-activation-energy pathway and is regenerated overall. Reactant and product energy levels remain the same for the same overall reaction, so the reaction energy change is unchanged. Faster reaction does not universally mean a larger final yield; amounts, equilibrium and other conditions can matter.",
+        "<div class=\"evidence\">Two pathways have the same starting and ending energy levels; one has a lower highest barrier.</div>",
+        "Which pathway is catalysed, and what can the described pathways alone not tell you?",
+        "The lower-barrier pathway represents catalysis. The description does not supply a numerical rate, a universal final yield increase or a practical recipe. Use the same reactant/product levels when comparing the overall energy change."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Balance by changing subscripts.”",
+        "Subscripts specify substances; balance using coefficients."
+      ],
+      [
+        "“Every collision reacts.”",
+        "Energy and orientation matter."
+      ],
+      [
+        "“A catalyst raises product energy or guarantees more product.”",
+        "It changes the pathway barrier; distinguish rate from energy change and yield."
+      ]
+    ],
+    "activityTitle": "Join an equation check to a data check",
+    "activity": "Count Mg and O atoms in the synthesis example. Calculate the three interval gas rates and describe their pattern. Finally compare lump and powder endpoint proxies, keeping cm³/s and s⁻¹ clearly separate.",
+    "adjust": "Support: count each element in its own row. Core: divide change in volume by change in time. Extend: explain why an overall average hides changes during a reaction.",
+    "safety": "These are paper equations and fictional records, not practical instructions. Do not heat magnesium, mix chemicals or generate gases for this activity.",
+    "tricky": [
+      [
+        "Is 1/time always a reaction rate in mol/s?",
+        "No. For a fixed comparable endpoint it is a relative rate proxy with units s⁻¹."
+      ],
+      [
+        "Can a catalyst be involved in intermediate steps?",
+        "Yes. It can participate and then be regenerated in the overall process."
+      ],
+      [
+        "Is the 0–10 s interval rate equal to the 0–30 s average here?",
+        "No. They are 1.2 and about 0.87 cm³/s respectively; the average depends on the interval."
+      ]
+    ],
+    "faq": [
+      [
+        "Why repeat trials?",
+        "Repeats reveal variation and support a more reliable comparison, though repetition alone does not remove a systematic bias."
+      ],
+      [
+        "What does activation energy describe?",
+        "The energy barrier associated with a reaction pathway, distinct from the overall difference between reactant and product energy levels."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S10H01",
+    "short": "Checking scientific claims",
+    "title": "Explain how scientific claims are scrutinised",
+    "intro": "Explain how peer review, reproducible analysis, further investigations and corrections help validate claims while remaining open to error and revision.",
+    "exampleTitle": "A measured index cannot establish every safety claim",
+    "example": "A fictional filter study starts matched water samples at a particle-index reading of 20. Four independently prepared samples for filter A finish at 6, 7, 8 and 7: mean 7. Four for B finish at 10, 11, 12 and 11: mean 11. The study matches volume, flow time and sensor method and randomises test positions. It supports a lower mean particle index for A under these conditions. It does not show that the water is drinkable or bacteria-free: neither outcome was measured.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Fictional treatment</th><th scope=\"col\">Independent sample readings</th><th scope=\"col\">Mean</th><th scope=\"col\">Bounded conclusion</th></tr></thead><tbody><tr><td>A</td><td>6, 7, 8, 7</td><td>7</td><td>Lower mean particle index in this study</td></tr><tr><td>B</td><td>10, 11, 12, 11</td><td>11</td><td>Comparison treatment; not a health test</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Describe peer review as scrutiny",
+        "Authors provide methods, data and reasoning. An editor may invite relevant experts to examine methods, analysis, interpretation and reporting; authors respond and may revise. Processes vary among journals. Review can identify weaknesses, but acceptance is not a guarantee of truth or detection of every error.",
+        "<div class=\"evidence\">Reviewer comment: “The conclusion says bacteria-free, but the method reports only a particle index.”</div>",
+        "What revision is justified by the supplied record?",
+        "Limit the claim to the measured particle index and the tested conditions. A health or microbial claim would require appropriate further evidence. Removing the overclaim is more defensible than inventing an unperformed safety test."
+      ],
+      [
+        "Match the checking action to the question",
+        "Recomputing a mean from saved readings checks arithmetic. Reproducing an analysis checks whether documented data and code yield the stated outputs. A new independent investigation tests a claim with newly collected evidence. Terms can vary by discipline, so describe the actual action rather than relying only on a label.",
+        "<div class=\"evidence\">Saved A readings are 6, 7, 8, 7. Another team calculates their mean without collecting new water samples.</div>",
+        "What has been checked, and what remains unchecked?",
+        "The arithmetic gives (6 + 7 + 8 + 7)/4 = 7. This does not independently check sample preparation, sensor calibration or the behaviour of new samples. Those require additional appropriate checks."
+      ],
+      [
+        "Respond proportionately to later evidence",
+        "Scientific checking continues after publication through critique, independent methods and new evidence. A numerical typo may warrant correction; a central invalid result may require stronger action, potentially retraction under the relevant policy. Retraction does not automatically prove fraud. Compare the importance, scope and causes of a problem.",
+        "<div class=\"evidence\">A later audit finds the A mean was printed as 6, although the saved data still sum to 28. Another allegation says every sample was contaminated, but offers no supporting records.</div>",
+        "How should these different issues be handled?",
+        "Correct the verifiable mean to 7 and assess whether conclusions change. Investigate the contamination allegation using methods and records before deciding its scope. Neither concealment nor an unsupported accusation is an evidence-based response."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Peer-reviewed means proven forever.”",
+        "Review is one fallible checking process within continuing scientific scrutiny."
+      ],
+      [
+        "“Recalculating saved values is a fresh experiment.”",
+        "It checks analysis, not newly collected observations."
+      ],
+      [
+        "“Any correction proves misconduct.”",
+        "Errors differ in cause and consequence; investigate the evidence."
+      ]
+    ],
+    "activityTitle": "Write a reviewer response",
+    "activity": "Use the fictional table to verify both means. Write a bounded replacement for “A makes water safe”. Then match three checks to their purpose: recalculation, sensor calibration and a new independent trial.",
+    "adjust": "Support: separate what was measured from what was claimed. Core: name the evidence each check supplies. Extend: identify a limitation even after the mean typo is fixed.",
+    "safety": "Use the fictional paper records only. Do not filter or taste water, submit to a journal or make claims about a real researcher.",
+    "tricky": [
+      [
+        "Does a new trial with different conditions automatically contradict the first?",
+        "No. Compare conditions, methods and uncertainty before judging whether the claims conflict."
+      ],
+      [
+        "Can a preprint be useful?",
+        "Yes, if its status, methods and limitations are clear; useful does not mean independently validated."
+      ],
+      [
+        "Does rejection by a journal always mean a result is false?",
+        "No. Reasons can include scope or reporting as well as evidential problems; examine the actual reason."
+      ]
+    ],
+    "faq": [
+      [
+        "Why publish methods and data where appropriate?",
+        "They allow others to inspect reasoning, recompute results and design meaningful checks, subject to legitimate privacy and ethical limits."
+      ],
+      [
+        "What does validation mean here?",
+        "Building justified confidence through relevant scrutiny and evidence, rather than issuing an irreversible truth stamp."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S10H02",
+    "short": "Science, technology and engineering",
+    "title": "Trace reciprocal advances in science and technology",
+    "intro": "Investigate how improved technological capabilities enable science and how scientific questions and knowledge guide technological and engineering development.",
+    "exampleTitle": "Penicillin development required connected questions, methods and tools",
+    "example": "Historical accounts from the University of Oxford, the National Museum of Australia and the National Library of Australia describe complementary contributions to penicillin development. Investigating an active material required sensitive biological assays, extraction methods and usable preparations. Heatley contributed assay methods and purpose-designed apparatus; Florey, Chain and colleagues contributed coordinated biological and chemical investigation. Later, Hodgkin’s crystallographic work helped establish molecular structure. This is a reciprocal development story, not one observation or one inventor proving a finished medicine.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Scientific need or question</th><th scope=\"col\">Changed capability</th><th scope=\"col\">Further science enabled</th></tr></thead><tbody><tr><td>Compare biological activity</td><td>Sensitive assays</td><td>Track activity through preparation</td></tr><tr><td>Obtain usable material</td><td>Extraction methods and culture apparatus</td><td>Further biological and chemical comparisons</td></tr><tr><td>Distinguish structural proposals</td><td>Crystallographic measurement and analysis</td><td>Evidence for molecular structure</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Explain a tool enabling new evidence",
+        "Name the capability that changed: sensitivity, precision, scale, preparation or data analysis. Then identify the evidence it made possible. The penicillin case connects assays and extraction apparatus to investigation of active preparations; “better technology helped” alone leaves the causal link unexplained.",
+        "<div class=\"evidence\">A student writes: “Heatley’s work helped because the apparatus was newer.”</div>",
+        "Replace newness with a specific capability and scientific consequence.",
+        "For example: sensitive assays helped compare biological activity during isolation, while extraction methods and apparatus helped obtain usable preparations for further testing. Explain what the methods enabled, not just when they appeared."
+      ],
+      [
+        "Explain science guiding design",
+        "Scientific questions identify performance needs for engineering. An investigation may require comparable preparations, detection of small differences, reliable calibration or greater capacity. Engineers develop and test solutions under constraints; size or complexity alone does not establish scientific usefulness.",
+        "<div class=\"evidence\">Fictional design brief: compare two weak activity signals repeatedly, using the same sample volume and a calibrated reference.</div>",
+        "Which design criteria follow from this scientific need?",
+        "Adequate sensitivity, repeatable measurement, a suitable reference and controlled sample volume are relevant criteria. Greater capacity may help later, but it does not replace the ability to distinguish the signals reliably."
+      ],
+      [
+        "Close and evaluate the reciprocal loop",
+        "A question guides a tool or method; a changed capability enables evidence; interpretation refines explanations and further questions. Several people and disciplines can contribute. An unexpected signal might reveal a phenomenon or an instrument artefact, so calibration, controls and independent comparisons remain necessary.",
+        "<div class=\"evidence\">A new detector shows a pattern absent from an older instrument, but has not yet been checked against a reference or independent method.</div>",
+        "What should scientists and engineers investigate next?",
+        "Check calibration, settings, sample preparation and data processing, then compare appropriate independent measurements and model predictions. The pattern is a testable question; a newer instrument alone does not prove a new explanation."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“The relationship runs only science → technology.”",
+        "Tools can produce evidence that changes scientific understanding."
+      ],
+      [
+        "“One person alone explains the whole advance.”",
+        "Specific complementary contributions and working conditions matter."
+      ],
+      [
+        "“A new instrument guarantees valid evidence.”",
+        "Calibration, method and interpretation remain necessary."
+      ]
+    ],
+    "activityTitle": "Draw a reciprocal development account",
+    "activity": "Use the historical table to connect question → design need → changed method → evidence → further question. Name two complementary contributions and one constraint. Then apply the structure to the fictional detector, distinguishing history from your proposal.",
+    "adjust": "Support: use enabled and guided to connect ideas. Core: show both directions. Extend: explain how improving sensitivity could also expose a new measurement problem.",
+    "safety": "Use the historical text and paper models. Do not grow mould, culture microorganisms, handle antibiotics or treat this history as medical advice.",
+    "tricky": [
+      [
+        "Does a timeline alone prove that a tool caused a discovery?",
+        "No. Explain the changed capability and evidence link, including other contributions and conditions."
+      ],
+      [
+        "Do science and engineering have identical aims?",
+        "No. Science develops evidence-based explanations; engineering designs and tests solutions under constraints. They often interact."
+      ],
+      [
+        "Must a technology always begin with a formal theory?",
+        "No. Practical design and experience can also lead to technologies and new scientific questions."
+      ]
+    ],
+    "faq": [
+      [
+        "Why was an initial inhibition observation insufficient?",
+        "It showed an effect under particular conditions; preparation and further biological, chemical and application evidence were still needed."
+      ],
+      [
+        "Why discuss constraints?",
+        "Sensitivity, capacity, reliability and resources affect what can be built, measured and inferred."
+      ]
+    ]
+  },
+  {
+    "code": "AC9S10H03",
+    "short": "Evidence and societal adoption",
+    "title": "Explain why evidence and adoption can differ",
+    "intro": "Analyse how evidence, trust, cost, access, infrastructure, values and policy interact when society adopts scientific knowledge and practices.",
+    "exampleTitle": "A temperature result and an adoption rate answer different questions",
+    "example": "In a fictional insulation test, matched 100 mL samples begin at 50 °C in a room at 22 °C. After 12 minutes, uninsulated temperature decreases are 9, 10 and 11 °C; insulated decreases are 4, 5 and 6 °C. Mean decreases are 10 and 5 °C: 50% less temperature decrease in this test. This is not a 50% reduction in household bills. In a separate fictional programme, 60 of 100 invited households adopt an insulation option. Among the 40 remaining, reported primary barriers are cost (20), rental permission (12) and scheduling (8). These are supplied teaching records, not real community measurements.",
+    "evidence": "<div class=\"wide-evidence\" tabindex=\"0\" aria-label=\"Evidence table; scroll horizontally on narrow screens\"><table><thead><tr><th scope=\"col\">Record</th><th scope=\"col\">Calculation</th><th scope=\"col\">Meaning</th></tr></thead><tbody><tr><td>Mean decrease: 10 → 5 °C</td><td>(10 − 5)/10 = 50%</td><td>Reduced temperature decrease for this test</td></tr><tr><td>60 of 100 invited households adopt</td><td>60/100 = 60%</td><td>Programme uptake among invitees</td></tr><tr><td>40 non-adopters report one primary barrier</td><td>20 + 12 + 8 = 40</td><td>Reported reasons; other factors may interact</td></tr></tbody></table></div>",
+    "steps": [
+      [
+        "Separate scientific validity from uptake",
+        "A controlled performance comparison asks whether evidence supports a specific claim. Adoption asks whether people use a practice. High uptake cannot prove a claim scientifically valid; low uptake cannot by itself refute a sound measurement. Check the methods for the first question and social and practical conditions for the second.",
+        "<div class=\"evidence\">Claim: “Because only 60% adopted, the 50% temperature result must be wrong.”</div>",
+        "What is the reasoning error?",
+        "It treats programme uptake as a test of physical performance. The two percentages have different denominators and meanings. Evaluate the temperature methods and adoption barriers separately, then explain their possible connections."
+      ],
+      [
+        "Analyse interacting factors",
+        "Costs, infrastructure, permissions, convenience, trust and values can interact. A household might understand the evidence but be unable to alter rented property. Communication may help understanding while leaving money or access unchanged. One reported primary barrier is a useful lead, not proof of a sole cause.",
+        "<div class=\"evidence\">A proposed response sends a scientific factsheet to all 40 non-adopters but offers no help with cost or rental permission.</div>",
+        "What might it address, and what might remain?",
+        "It can improve access to information, but may not resolve affordability or permission. Investigate feasible assistance and appropriate decision-makers, listening to other concerns rather than assuming non-adopters reject science."
+      ],
+      [
+        "Evaluate a response fairly",
+        "Compare a proposed action with the actual barriers, affected stakeholders and possible burdens. A programme could offer accessible information, permission support or feasible financial assistance, then monitor uptake and performance. Policy can change opportunities, but authority does not replace evidence. A before/after change alone may have other causes.",
+        "<div class=\"evidence\">After a fictional assistance offer, uptake rises from 60 to 75 of the original 100 invitees; no comparison group or detailed follow-up is available.</div>",
+        "What can be stated, and what cannot?",
+        "Uptake rose by 15 percentage points among the invitees. The record alone cannot show that assistance caused every new adoption, that all barriers disappeared or that household bills fell by 50%. Gather relevant follow-up and comparison evidence."
+      ]
+    ],
+    "mistakes": [
+      [
+        "“Good evidence guarantees immediate uptake.”",
+        "Practical and social barriers can remain."
+      ],
+      [
+        "“Popularity determines scientific truth.”",
+        "Validity depends on relevant evidence and methods."
+      ],
+      [
+        "“One message fixes every barrier.”",
+        "Different interacting constraints may need different responses."
+      ]
+    ],
+    "activityTitle": "Choose a response and an evaluation",
+    "activity": "Verify the two percentages and label their denominators. Choose one reported barrier, explain how it could interact with another, and propose a feasible response. Name an outcome and a comparison that would help evaluate it.",
+    "adjust": "Support: sort performance and uptake statements first. Core: connect factors using because. Extend: distinguish a 15 percentage-point increase from a 25% relative increase in uptake.",
+    "safety": "Use the fictional paper records. No hot-water experiment, survey of identifiable households or current legal or financial recommendation is required.",
+    "tricky": [
+      [
+        "Why is the later relative uptake increase 25%?",
+        "The increase is 15 on an initial 60: 15/60 = 25%. It is also 15 percentage points on the 100-household denominator."
+      ],
+      [
+        "Does one primary barrier mean no other barrier exists?",
+        "No. Reporting one main reason can conceal interacting conditions; follow up respectfully."
+      ],
+      [
+        "Can the same scientific evidence lead to different decisions?",
+        "Yes. Needs, costs, access and available alternatives can differ without changing whether the evidence itself is accurate."
+      ]
+    ],
+    "faq": [
+      [
+        "Is trust the same as unquestioning acceptance?",
+        "No. Trust can include confidence in competence, transparency and responsiveness while acknowledging uncertainty and asking for evidence."
+      ],
+      [
+        "What should an evaluation measure?",
+        "Measures matched to its goals: actual uptake, relevant performance, accessibility, costs and unintended effects, with clear limits on causal conclusions."
+      ]
+    ]
+  }
+]
