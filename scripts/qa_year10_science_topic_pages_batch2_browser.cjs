@@ -87,9 +87,12 @@ fs.mkdirSync(out, {recursive:true});
         assert.deepEqual(check.broken,[],`${item.code}: broken images`); assert.deepEqual(failures,[],`${item.code}: failed local requests`);
         assert(check.button.height>=44 && check.button.x>=0 && check.button.right<=width && check.button.bottom<=1000,`${item.code}: app button touch target/placement`);
         if(width<=1000){
-          const steps=page.locator('.steps > article');
-          const first=await steps.nth(0).boundingBox();const second=await steps.nth(1).boundingBox();
-          assert(Math.abs(first.x-second.x)<1 && second.y>=first.y+first.height-1,item.code+': teaching focuses must stack for tablet/mobile readability');
+          // Read both rectangles in one browser task: keyboard scrolling can still
+          // move the viewport between two separate Playwright boundingBox calls.
+          const [first,second]=await page.locator('.steps > article').evaluateAll(elements=>elements.slice(0,2).map(e=>{
+            const r=e.getBoundingClientRect();return {x:r.x,y:r.y,height:r.height};
+          }));
+          assert(first && second && Math.abs(first.x-second.x)<1 && second.y>=first.y+first.height-1,item.code+': teaching focuses must stack for tablet/mobile readability '+JSON.stringify({first,second}));
         }
         const summaries=page.locator('.steps article details > summary');
         assert.equal(await summaries.count(),3,item.code);
