@@ -1,0 +1,339 @@
+[
+  {
+    "code": "AC9S10H04",
+    "descriptor": "examine how the values and needs of society influence the focus of scientific research",
+    "source_basis_decision": "SUFFICIENT — BOUNDED CORE",
+    "source_acceptance": "qa/all-codes/science-7-10/batch-24-year10-u-h-independent-source-review.json",
+    "focuses": [
+      {
+        "id": "F1",
+        "intention": "Identify needs/values shaping research agendas",
+        "status": "SUFFICIENT — accepted bounded methods; original page plan pending independent review",
+        "evidence": [
+          "B16-PEER-PRIORITIES:AU-RESEARCH-PRIORITIES2024",
+          "B16-PEER-PRIORITIES:CCDMD-FUNDING-SIMULATION"
+        ],
+        "method": "Trace dated societal needs and values into specific research questions, intended benefits and allocation criteria; examine whose input is represented.",
+        "criteria": "Explain agenda influence with case evidence while separating choice of question from truth of the eventual result.",
+        "limits": "2024 edition is a historical case, not a guarantee of current spending, representative consent or universal priority ranking."
+      },
+      {
+        "id": "F2",
+        "intention": "Analyse funding/power and opportunity costs",
+        "status": "SUFFICIENT — accepted bounded methods; original page plan pending independent review",
+        "evidence": [
+          "B16-PEER-PRIORITIES:RSC-RESEARCH-FUND2024",
+          "B16-PEER-PRIORITIES:CCDMD-FUNDING-SIMULATION",
+          "B16-PEER-PRIORITIES:CCDMD-PROPOSAL-CRITERIA",
+          "O24-BUDGET"
+        ],
+        "method": "Declare criteria/weights before allocation, evaluate scope/method/feasibility and access, compare feasible combinations and explain opportunity cost and power.",
+        "criteria": "Respect the budget, show calculations and justify trade-offs transparently; more expensive or profitable does not automatically mean best.",
+        "limits": "Source2024 fund round not open-current advice; no actual application, award or invented funded-outcome data. College routine adapted to shorter Year10 science proposals."
+      },
+      {
+        "id": "F3",
+        "intention": "Apply ethical/cultural responsibilities while protecting evidence",
+        "status": "SUFFICIENT — accepted bounded methods; original page plan pending independent review",
+        "evidence": [
+          "PLASTICS:CSIRO-ICIP-TERMS",
+          "PLASTICS:VCAA-CULTURAL-INQUIRY",
+          "B16-PEER-PRIORITIES:AU-RESEARCH-PRIORITIES2024",
+          "B17-ARGUMENT-PARTICLES:B17-LHS-REASONING"
+        ],
+        "method": "Identify purpose, authority, permitted data/knowledge use and possible harms; revise the agenda/method or choose an authorised alternative while reporting evidence honestly.",
+        "criteria": "Respect locality and knowledge governance, distinguish permissions by purpose/holder, acknowledge limits and avoid modifying findings to meet a preferred social goal.",
+        "limits": "No permissions, consent, community endorsement or new study claimed. Existing source-specific permission does not transfer to another community or our commercial products."
+      }
+    ],
+    "original_plan": "Original fictional research fund of100 indivisible budget units. A urban-heat study cost60, merit5/need4/access2; B water monitoring45,4/4/5; C youth-health55,4/5/4. Declared weights.4merit+.4need+.2access give4.0/4.2/4.4. B+C=100 feasible;A+B=105,A+C=115 infeasible. Score is a declared prioritisation tool, not measured benefit or universal unique winner; do not assume additive real-world benefits. Changing weights.7/.2/.1 ranks A4.5,C4.2,B4.1. Historical2024 Australian priorities are a dated agenda example, not current spending or consultation representativeness. Specific ethics/knowledge-use scenarios distinguish authority, access, reuse and reporting honest results. Figure need/value→question→criteria→choice→review, with opportunity cost."
+  },
+  {
+    "code": "AC9S10I01",
+    "descriptor": "develop investigable questions, reasoned predictions and hypotheses to test relationships and develop explanatory models",
+    "source_basis_decision": "SUFFICIENT — BOUNDED CORE",
+    "source_acceptance": "qa/all-codes/science-7-10/batch-27-year10-inquiry-independent-source-review.json",
+    "focuses": [
+      {
+        "id": "F1",
+        "intention": "Develop feasible measurable relationship questions",
+        "status": "SUFFICIENT — accepted bounded methods; original page plan pending independent review",
+        "evidence": "FORCE:AAS-FRICTION,AAS-MASS;Y7INQUIRY:ASU-HYPOTHESES;B27-VED-CONTROLLED-VI;B27-O-QUESTION-GENERATION",
+        "method": "Full constrained block/meter/surface and wire/meter/supply methods support feasibility and operational definitions, including steady sliding versus initial peak and chosen V–I range. Original explicit question-generation analysis supplies full measurable questions from actual materials, distinctly labelled; experimental versus observational claims kept separate.",
+        "criteria": "Interpret complete supplied evidence, distinguish inference from observation, explain method and scope without overclaiming.",
+        "limits": "No material bounded core text-method gap identified by source author. Original optional image/player tasks and actual practical/software/permission/performance remain unobserved; separate independent Year10 source assessment required."
+      },
+      {
+        "id": "F2",
+        "intention": "Generate explanatory hypotheses and reasoned predictions",
+        "status": "SUFFICIENT — accepted bounded methods; original page plan pending independent review",
+        "evidence": "Y7INQUIRY:ASU-HYPOTHESES;B27-VED-CONTROLLED-VI;B27-OS-OHM-METHOD;B27-O-QUESTION-GENERATION",
+        "method": "Actual two-fault flashlight sequence prevents unique-cause inference from one success. Controlled wire model and temperature-dependent worked example support competing explanatory hypotheses and reasoned predictions, with expected controlled-condition ratio versus heating departure. Hypothesis explains; prediction specifies conditional observable evidence; no synthetic readings counted.",
+        "criteria": "Interpret complete supplied evidence, distinguish inference from observation, explain method and scope without overclaiming.",
+        "limits": "No material bounded core text-method gap identified by source author. Original optional image/player tasks and actual practical/software/permission/performance remain unobserved; separate independent Year10 source assessment required."
+      },
+      {
+        "id": "F3",
+        "intention": "Compare/test and revise explanatory models",
+        "status": "SUFFICIENT — accepted bounded methods; original page plan pending independent review",
+        "evidence": "B27-NIST-DATA,B27-NIST-LINEAR,B27-NIST-RESIDUALS,B27-NIST-REFINE,B27-NIST-QUADRATIC,B27-NIST-SELF-ANALYSIS;Y8INQUIRY:ABC-GRAPEFRUIT-CRITIQUE;ATOMIC:OS-ATOMIC-EVIDENCE,CHADWICK-PRIMARY,RSC-ATOMIC-TASKS",
+        "method": "Full40observations and productive self-analysis task discriminate/revise empirical calibration models using numerical residuals. Accepted actual scattering11angle/count stimulus plus diffuse-positive versus concentrated-nucleus predictions supplies mechanistic model discrimination; historical cathode/recoil methods provide further explanatory revision. Counts at uneven selected angles do not give total-beam fractions. Grapefruit adds changed-variable critique. Better fit remains bounded empirical adequacy, not proof of mechanism or unlimited domain.",
+        "criteria": "Interpret complete supplied evidence, distinguish inference from observation, explain method and scope without overclaiming.",
+        "limits": "No material bounded core text-method gap identified by source author. Original optional image/player tasks and actual practical/software/permission/performance remain unobserved; separate independent Year10 source assessment required."
+      }
+    ],
+    "original_plan": "Original supplied paper materials: same block, force meter, two dry surfaces, mass labels; feasible question asks mean steady sliding force at specified constant straight-line speed and mass, not wet/ramp tests needing absent materials. Toy repeated runs A3.8/4.0/4.2N mean4,B5.8/6.0/6.2 mean6. Explain surface-interaction hypothesis versus meter-drift alternative when A tested first: interleave orders/check reference to discriminate; supportive results do not uniquely prove mechanism. Figure question→hypothesis→conditional prediction→discriminating evidence→revision. Separate retained motion record t0/1/2s,v0/1/2m/s,m2kg,Fnet2N gives a1m/s²; doubling mass4kg at fixed resultant predicts.5. No performed practical or claimed new IXL session."
+  },
+  {
+    "code": "AC9S10I02",
+    "descriptor": "plan and conduct valid, reproducible investigations to answer questions and test hypotheses, including identifying and controlling for possible sources of error and, as appropriate, developing and following risk assessments, considering ethical issues, and addressing key considerations regarding heritage sites and artefacts on Country/Place",
+    "source_basis_decision": "SUFFICIENT — BOUNDED CORE",
+    "source_acceptance": "qa/all-codes/science-7-10/batch-27-year10-inquiry-independent-source-review.json",
+    "focuses": [
+      {
+        "id": "F1",
+        "intention": "Plan valid reproducible variable/error control",
+        "status": "SUFFICIENT — accepted bounded methods; original page plan pending independent review",
+        "evidence": "FORCE:AAS-FORCE,AAS-FRICTION;Y9INSTRUMENT:B22-UMB-CALIBRATE;B27-VED-CONTROLLED-VI;B27-O-FAULT-EFFECT-REPAIR",
+        "method": "Full controlled collection plans specify variables,quantity/range,measurement endpoint,repeat records and operator structure. Actual plan defects are traced to effect and specific repair:heating changes control,launcher force varies,agreement-based stopping biases data. Reproducibility does not establish valid inference.",
+        "criteria": "Interpret complete supplied evidence, distinguish inference from observation, explain method and scope without overclaiming.",
+        "limits": "No material bounded core text-method gap identified by source author. Original optional image/player tasks and actual practical/software/permission/performance remain unobserved; separate independent Year10 source assessment required."
+      },
+      {
+        "id": "F2",
+        "intention": "Justify sampling and context-specific risk controls",
+        "status": "SUFFICIENT — accepted bounded methods; original page plan pending independent review",
+        "evidence": "Y7INQUIRY:OPENSTAX-SAMPLING,OHIO-NEW-RISK-TASK;FORCE:AAS-FORCE;PERMISSIONS:PC-FIELD-RISK-REUSE;B27-NIST-DATA;B27-VED-CONTROLLED-VI",
+        "method": "Actual convenience/sample vectors and two-run calibration reveal independent-unit versus repeated-reading distinction; biggerbiased sample is still biased. Full field/launcher and low-voltage methods support context controls and stop/revise choices. No arbitrary required n or invented numerical residual-risk approval; hazard mechanism precedes control choice.",
+        "criteria": "Interpret complete supplied evidence, distinguish inference from observation, explain method and scope without overclaiming.",
+        "limits": "No material bounded core text-method gap identified by source author. Original optional image/player tasks and actual practical/software/permission/performance remain unobserved; separate independent Year10 source assessment required."
+      },
+      {
+        "id": "F3",
+        "intention": "Address ethics and Country/Place heritage governance",
+        "status": "SUFFICIENT — accepted bounded methods; original page plan pending independent review",
+        "evidence": "PERMISSIONS:ACARA-Y5-COUNTRY,ACARA-Y6-COUNTRY,ILALC-DJEERA-PROTOCOL;Y7INQUIRY:ACARA-Y7-HERITAGE;PERSPECTIVES:CSIRO-ICIP-TERMS",
+        "method": "Full public planning/local-holder governance cases require identify relevant authority before access,avoid disturbance,distinguish visiting/handling/recording/publication consents,document restrictions and redesign where refused. ACT artefact rule jurisdiction-specific; no generic authority or actual local consent invented. Year10 judgement includes how ethics changes question,method/data ownership and communication.",
+        "criteria": "Interpret complete supplied evidence, distinguish inference from observation, explain method and scope without overclaiming.",
+        "limits": "No material bounded core text-method gap identified by source author. Original optional image/player tasks and actual practical/software/permission/performance remain unobserved; separate independent Year10 source assessment required."
+      }
+    ],
+    "original_plan": "Complete fictional paper cooling plan: paired200mL water samples,45°C start,21°C room, matched vessels with/without sleeve; endpoint after8min. Three separately prepared pairs; A(unsleeved)35.0/35.2/34.8°C,B(sleeved)38.0/38.2/37.8°C. Match volume/start/time/exposure, randomise positions/order, retain pair IDs/times/calibration; estimate useful sample size from question/variation, not fixed universal n. Paper-only worked plan, no practical approval; context hazard→cause→eliminate/substitute/control→residual decision. Country/Place/heritage example: identify relevant local authority and land manager, distinguish access/handling/recording/publication permissions, do not disturb artefacts, stop/redesign if not authorised; no invented cultural knowledge, current legal claim or actual consent. Retained motion audit gets complete flawed steps and fixed-force comparison."
+  },
+  {
+    "code": "AC9S10I03",
+    "descriptor": "select and use equipment to generate and record data with precision to obtain useful sample sizes and replicable data, using digital tools as appropriate",
+    "source_basis_decision": "SUFFICIENT — BOUNDED CORE",
+    "source_acceptance": "qa/all-codes/science-7-10/batch-27-year10-inquiry-independent-source-review.json",
+    "focuses": [
+      {
+        "id": "F1",
+        "intention": "Select/use equipment with justified range/resolution",
+        "status": "SUFFICIENT — accepted bounded methods; original page plan pending independent review",
+        "evidence": "Y9INSTRUMENT:B22-GDX-TMP,B22-BRAND-VOLUME;Y8INQUIRY:GTAC-CALIBRATION,RICE-OCULAR-SCALE;B27-VED-CONTROLLED-VI",
+        "method": "Actual manufacturer range/accuracy/resolution/response and TC/TD volume procedures plus microscope calibration and electrical meter ranges justify equipment fitness. Distinguish.01°Cresolution from±.25°Caccuracy,selected nominal flask volume versus arbitrary aliquot,seriescurrent/parallelvoltage and mA→A. Not a source-pixel scale key or actual apparatus use.",
+        "criteria": "Interpret complete supplied evidence, distinguish inference from observation, explain method and scope without overclaiming.",
+        "limits": "No material bounded core text-method gap identified by source author. Original optional image/player tasks and actual practical/software/permission/performance remain unobserved; separate independent Year10 source assessment required."
+      },
+      {
+        "id": "F2",
+        "intention": "Record honest precision and calibration metadata",
+        "status": "SUFFICIENT — accepted bounded methods; original page plan pending independent review",
+        "evidence": "Y9INSTRUMENT:B22-UMB-CALIBRATE,B22-AURARIA-BURET;PRECISION:OS-PHYS;B27-NIST-UNCERTAINTY,B27-NIST-STATEMENT,B27-NIST-CALIBRATE",
+        "method": "Full recording/calibration methods and actual illustrative numeric table retain raw endpoints versus derived intervals/cumulative corrections. Published100g standard uncertainty/coverage statements and single-use load interval show honest units,defined uncertainty and traceability conditions. Zeroing/repeats do not remove allbias; interval is not resolution. No twenty mass results/certified reference invented.",
+        "criteria": "Interpret complete supplied evidence, distinguish inference from observation, explain method and scope without overclaiming.",
+        "limits": "No material bounded core text-method gap identified by source author. Original optional image/player tasks and actual practical/software/permission/performance remain unobserved; separate independent Year10 source assessment required."
+      },
+      {
+        "id": "F3",
+        "intention": "Distinguish independent samples/repeats and digital timing",
+        "status": "SUFFICIENT — accepted bounded methods; original page plan pending independent review",
+        "evidence": "Y9INSTRUMENT:B22-GA-SETTINGS,B22-GDX-TMP,B22-UMB-CALIBRATE;Y7INQUIRY:OPENSTAX-SAMPLING;B27-NIST-DATA;B27-O-FAULT-EFFECT-REPAIR",
+        "method": "Complete published mode/rate/interval/trigger/duration method and response specifications justify digital timing/metadata. Two operators/twenty deliveries and two ascending-load runs make sampling unit/repeats/confounded time explicit. More serial samples do not increase independent units or eliminate calibration bias; select question-specific interval and sample frame,not universal n. No software run claimed.",
+        "criteria": "Interpret complete supplied evidence, distinguish inference from observation, explain method and scope without overclaiming.",
+        "limits": "No material bounded core text-method gap identified by source author. Original optional image/player tasks and actual practical/software/permission/performance remain unobserved; separate independent Year10 source assessment required."
+      }
+    ],
+    "original_plan": "Toy thermometer A range−10–110°C,resolution.1°C,specified accuracy±.5°C,response30s; B−10–80,resolution.01,accuracy±.2,response90s; stated accuracy conditions20–50°C after stabilising. Choose by expected range/change timescale, not digits alone. Constant-offset toy check reference20.0→read20.4,40.0→40.4; reading29.8 corrects29.4 only under offset assumption and checked range. Independent reference30.0→read30.5 corrects30.1; no all-error removal or real traceability certificate. Timestamp0through20s at2s spacing gives11records on one cup/probe, not11independent cups;30s response cannot resolve subsecond change by logging faster. Figure instrument choice→reference check→raw record→qualified result. Retained sampling comparison supplies3full30reading plans with actual independent-unit distinctions."
+  },
+  {
+    "code": "AC9S10I04",
+    "descriptor": "select and construct appropriate representations, including tables, graphs, descriptive statistics, models and mathematical relationships, to organise and process data and information",
+    "source_basis_decision": "SUFFICIENT — BOUNDED CORE",
+    "source_acceptance": "qa/all-codes/science-7-10/batch-27-year10-inquiry-independent-source-review.json",
+    "focuses": [
+      {
+        "id": "F1",
+        "intention": "Select/construct appropriate data representations",
+        "status": "SUFFICIENT — accepted bounded methods; original page plan pending independent review",
+        "evidence": "Y9CLIMATE:B22-NASA-CONSTRUCT;Y8EARTH:JR-NANNO-STUDENT;B27-NIST-DATA,B27-NIST-SELF-ANALYSIS",
+        "method": "Actual full21row graph-construction/eight-row seafloor scatter/calibration40row self-analysis task supply construction methods across time,paired relationship and residual representation. Choose labels/scales/units/order/caption,retain uncertainty definition and anomalies; source-native load units remain unspecified. Source plot pixels unnecessary for original constructions from retained tables.",
+        "criteria": "Interpret complete supplied evidence, distinguish inference from observation, explain method and scope without overclaiming.",
+        "limits": "No material bounded core text-method gap identified by source author. Original optional image/player tasks and actual practical/software/permission/performance remain unobserved; separate independent Year10 source assessment required."
+      },
+      {
+        "id": "F2",
+        "intention": "Calculate and justify descriptive summaries",
+        "status": "SUFFICIENT — accepted bounded methods; original page plan pending independent review",
+        "evidence": "Y7INQUIRY:PEARSON-DATA-MODELS,OPENSTAX-OUTLIER,OPENSTAX-SAMPLING;Y9CLIMATE:original_analytical_checks;B27-O-SUMMARIES",
+        "method": "Complete original external repeated-time/outlier/sample arrays and actual annual/calibration data support mean/median/range with purpose. Same-load lowpairmean/median.110355/range.00033 versus highpair2.168365/range.00015 describes repeats; pooling all changing loads as instrument noise is inappropriate. Raw data and processing retained; our calculations are not source questions.",
+        "criteria": "Interpret complete supplied evidence, distinguish inference from observation, explain method and scope without overclaiming.",
+        "limits": "No material bounded core text-method gap identified by source author. Original optional image/player tasks and actual practical/software/permission/performance remain unobserved; separate independent Year10 source assessment required."
+      },
+      {
+        "id": "F3",
+        "intention": "Connect equations/models and evaluate distortions",
+        "status": "SUFFICIENT — accepted bounded methods; original page plan pending independent review",
+        "evidence": "B27-NIST-LINEAR,B27-NIST-QUADRATIC,B27-NIST-RESIDUALS,B27-NIST-CALIBRATE;B27-O-REGRESSION;Y9CLIMATE:alignment_method",
+        "method": "Given equations lead to predictions/residuals and bounded inverse calibration; source case explicitly exposes misleading broad overlay scale. Actual numeric residual contrast verifies model misspecification without source pixels. Use native units/scaledLconsistently,original dualpanelclimate axes and declared endpoint-rate model; fitting/simplified intervals do not prove mechanism or forecast.",
+        "criteria": "Interpret complete supplied evidence, distinguish inference from observation, explain method and scope without overclaiming.",
+        "limits": "No material bounded core text-method gap identified by source author. Original optional image/player tasks and actual practical/software/permission/performance remain unobserved; separate independent Year10 source assessment required."
+      }
+    ],
+    "original_plan": "Original explicitlytoy calibration table x0/1/2/3/4 arbitrary load units,y.1/3.0/8.2/14.9/24.1 arbitrary response units. Supplied candidate L=6x−2 predicts−2/4/10/16/22; residual observed−predicted2.1/−1/−1.8/−1.1/2.1. Candidate Q=x²+2x predicts0/3/8/15/24,residual.1/0/.2/−.1/.1. Q is closer for these points but no mechanistic proof, regression derivation or distant extrapolation licensed. Actual original scatter+two supplied model curves with labelled scales including negative linear intercept; legend words as well as colours. Repeats at one x:8.0/8.1/8.2/8.3/11.4 give mean8.8,median8.2,range3.4; investigate unusual reading,retain raw record. Retained graph-repair task supplies full written bar specifications and repeated volumes A9/10/11,B10/11/12cm³; truncated9–11axis misleading heights, correct means10/11; ordinary time graph task supplies t0/1/2/3min,T20/23/25/26°C."
+  },
+  {
+    "code": "AC9S10I05",
+    "descriptor": "analyse and connect a variety of data and information to identify and explain patterns, trends, relationships and anomalies",
+    "source_basis_decision": "SUFFICIENT — BOUNDED CORE",
+    "source_acceptance": "qa/all-codes/science-7-10/batch-27-year10-inquiry-independent-source-review.json",
+    "focuses": [
+      {
+        "id": "F1",
+        "intention": "Connect compatible varied evidence sources",
+        "status": "SUFFICIENT — accepted bounded methods; original page plan pending independent review",
+        "evidence": "Y9CLIMATE:B22-NOAA-ANNUAL,B22-NASA-ANNUAL,B22-NOAA-METHOD,B22-NASA-METHOD,B22-NASA-CONSTRUCT;B27-NIST-DATA",
+        "method": "Accepted16same-calendar-year1990–2005CO₂/temperature rows plus full method metadata and historical Siple contrast supply aligned numerical evidence. Join equal years,retain ppmversus°C-anomaly/baseline and spatial differences. Different agency labels/repeated displays do not guarantee independence; historical nonoverlappingice-core points are not contemporaneous replicates.",
+        "criteria": "Interpret complete supplied evidence, distinguish inference from observation, explain method and scope without overclaiming.",
+        "limits": "No material bounded core text-method gap identified by source author. Original optional image/player tasks and actual practical/software/permission/performance remain unobserved; separate independent Year10 source assessment required."
+      },
+      {
+        "id": "F2",
+        "intention": "Explain quantified relationships/mechanisms",
+        "status": "SUFFICIENT — accepted bounded methods; original page plan pending independent review",
+        "evidence": "Y9CLIMATE:original_analytical_checks,B22-GREENHOUSE-MECHANISM,B22-PINATUBO,B22-ENSO;B27-O-REGRESSION",
+        "method": "Original checked+25.53ppm and+.23°Cendpoint changes over15elapsed years are linked to infrared energy-balance mechanism,with aerosols/ENSO context; annual changes are not universally monotonic or causal coefficients. Calibration residual evidence further distinguishes model relationship from mechanism. Quantify before explaining; no short-series quantitative attribution/forecast.",
+        "criteria": "Interpret complete supplied evidence, distinguish inference from observation, explain method and scope without overclaiming.",
+        "limits": "No material bounded core text-method gap identified by source author. Original optional image/player tasks and actual practical/software/permission/performance remain unobserved; separate independent Year10 source assessment required."
+      },
+      {
+        "id": "F3",
+        "intention": "Verify anomalies and distinguish timescales/uncertainty",
+        "status": "SUFFICIENT — accepted bounded methods; original page plan pending independent review",
+        "evidence": "Y9CLIMATE:B22-NOAA-ANNUAL,B22-NASA-ANNUAL,B22-PINATUBO,B22-ENSO,alignment_method;B27-NIST-RESIDUALS;B27-O-REGRESSION",
+        "method": "Keep1992and1999cooling years with risingCO₂; inspect metadata/context rather than deleting. NASA anomaly is reference offset,not erroneous outlier; annual versus short-period effects differ. In calibration systematic residual curvature indicates model inadequacy rather than random mistakes. NOAAannualSDdefinition/NASAabsenceofnumericannualuncertainty preserved; no forged bars.",
+        "criteria": "Interpret complete supplied evidence, distinguish inference from observation, explain method and scope without overclaiming.",
+        "limits": "No material bounded core text-method gap identified by source author. Original optional image/player tasks and actual practical/software/permission/performance remain unobserved; separate independent Year10 source assessment required."
+      }
+    ],
+    "original_plan": "Use all16 accepted NOAA MaunaLoa CO2/NASA global annual anomaly pairs1990–2005, with1951–1980temperature baseline and stored2026 snapshot metadata. Join equal calendar years, preserve different units/spatial quantities and primary definitions. Endpoint+25.53ppm,+.23°C over15elapsedyears; descriptive endpoint rates not fitted causal coefficient or forecast.1991→1992CO2+.84ppm,T−.19°C;1998→1999+1.70ppm,−.23°C. Keep dips; physical IR energy-transfer mechanism plus dated Pinatubo/ENSO context cannot attribute every annual change. Two original panels sharing year axis, separate labelled y scales, not decorative dual-axis scale or invented NASA uncertainty bars. Retained three-card activity supplies real data summaries plus mechanism, distinguishes kinds and independence; retained anomaly case complete2/4/1/8/10cm seedling series with possible real/measurement explanations."
+  },
+  {
+    "code": "AC9S10I06",
+    "descriptor": "assess the validity and reproducibility of methods and evaluate the validity of conclusions and claims, including by identifying assumptions, conflicting evidence and areas of uncertainty",
+    "source_basis_decision": "SUFFICIENT — BOUNDED CORE",
+    "source_acceptance": "qa/all-codes/science-7-10/batch-27-year10-inquiry-independent-source-review.json",
+    "focuses": [
+      {
+        "id": "F1",
+        "intention": "Assess method validity and reproducibility",
+        "status": "SUFFICIENT — accepted bounded methods; original page plan pending independent review",
+        "evidence": "YEAR9REVIEW:RSC-REVIEW-CASE,RSC-REVIEW-CHECKLIST,NASEM-CHECKING-TERMS;B27-NIST-DATA;B27-VED-CONTROLLED-VI",
+        "method": "Actual full fictional report/peer-review response identifies missing sample/dose/control,owner-mobility versus swelling outcome and daily-frequency correction. Actual calibration increasing-load design and wire protocol enable method→consequence→repair evaluation. Reproducibility terminology convention qualified; no real clinical trial or efficacy/animal-testing claim.",
+        "criteria": "Interpret complete supplied evidence, distinguish inference from observation, explain method and scope without overclaiming.",
+        "limits": "No material bounded core text-method gap identified by source author. Original optional image/player tasks and actual practical/software/permission/performance remain unobserved; separate independent Year10 source assessment required."
+      },
+      {
+        "id": "F2",
+        "intention": "Evaluate assumption/uncertainty effects on claims",
+        "status": "SUFFICIENT — accepted bounded methods; original page plan pending independent review",
+        "evidence": "B27-NIST-LINEAR,B27-NIST-QUADRATIC,B27-NIST-CALIBRATE,B27-NIST-UNCERTAINTY,B27-NIST-COVERAGE;B27-O-INTERVAL;Y9INSTRUMENT:B22-AURARIA-BURET",
+        "method": "Source worked models/defined interval distinguish model scatter,measurement error/uncertainty and coverage conditions. Unknown load requires physical-domain root selection; sensible in-range model does not authorise distant extrapolation. Actual local/cumulative calibration ambiguity shows how definition changes claim; overlapping bars are not universal significance test.",
+        "criteria": "Interpret complete supplied evidence, distinguish inference from observation, explain method and scope without overclaiming.",
+        "limits": "No material bounded core text-method gap identified by source author. Original optional image/player tasks and actual practical/software/permission/performance remain unobserved; separate independent Year10 source assessment required."
+      },
+      {
+        "id": "F3",
+        "intention": "Reconcile conflicting evidence and specify improvements",
+        "status": "SUFFICIENT — accepted bounded methods; original page plan pending independent review",
+        "evidence": "B27-NIST-SELF-ANALYSIS,B27-NIST-RESIDUALS;Y8INQUIRY:ABC-GRAPEFRUIT-CRITIQUE;Y9CLIMATE:B22-NOAA-ANNUAL,B22-NASA-ANNUAL;ATOMIC:OS-ATOMIC-EVIDENCE,CHADWICK-PRIMARY,RSC-ATOMIC-TASKS;B27-O-FAULT-EFFECT-REPAIR",
+        "method": "Actual linear-model attractive overlay conflicts with structured residuals; compare same measurements at useful scale rather than count them as independent studies. Accepted actual scattering and recoil alternatives show discriminating evidence changes explanatory models, not mere vote counting. Reconcile temperature/CO₂short-term differences through observable definitions/other factors and qualify. Specify interleaved reference loads,temperaturecontrols or targeted causal evidence,notgeneric more research.",
+        "criteria": "Interpret complete supplied evidence, distinguish inference from observation, explain method and scope without overclaiming.",
+        "limits": "No material bounded core text-method gap identified by source author. Original optional image/player tasks and actual practical/software/permission/performance remain unobserved; separate independent Year10 source assessment required."
+      }
+    ],
+    "original_plan": "Original fictional plant report: A growth15/16/17mm over7days, B18/19/20; three plants share one pot per treatment; A4hlight/day,B8h. Means16/19 do not isolate fertiliser and independent-unit n=onepot/treatment. Reproducible detail does not fix confounding. Second lab controls light6h and other stated conditions, four independently prepared pots/treatment: A17/18/17/18 mean17.5mm,B17/18/18/19 mean18; difference.5mm with ruler stated±.5mm instrument accuracy, no simple significance claim from overlap. Compare scope/conditions, not votes; uncertainty does not prove no effect. For retained confidence-interval critique, the flawed first report claims95%interval1–5mm for difference but supplies no construction and treats within-pot plants independent; explicitly criticise unsupported interval basis, not derive/endorse it. Figure method→assumption→effect→targeted repair, including bias and conflict."
+  },
+  {
+    "code": "AC9S10I07",
+    "descriptor": "construct arguments based on analysis of a variety of evidence to support conclusions or evaluate claims, and consider any ethical issues and cultural protocols associated with accessing, using or citing secondary data or information",
+    "source_basis_decision": "SUFFICIENT — BOUNDED CORE",
+    "source_acceptance": "qa/all-codes/science-7-10/batch-27-year10-inquiry-independent-source-review.json",
+    "focuses": [
+      {
+        "id": "F1",
+        "intention": "Construct warranted arguments from varied evidence",
+        "status": "SUFFICIENT — accepted bounded methods; original page plan pending independent review",
+        "evidence": "ARGUMENT:B17-LHS-REASONING,B17-LHS-EVIDENCE;PERSPECTIVES:BTN-PLASTIC-TASKS,CSIRO-PLASTIC-RELEASE,CSIRO-PUBLIC-PLASTICS;B27-NIST-SELF-ANALYSIS;Y9CLIMATE:original_analytical_checks;ATOMIC:OS-ATOMIC-EVIDENCE,CHADWICK-PRIMARY,RSC-ATOMIC-TASKS",
+        "method": "Complete actual student arguments/evidence/reasoning rubrics and BTN productive tasks support warranted synthesis,notcitationcount. New calibration table/equations/uncertainty, accepted climate observations/mechanisms and actual atomic-scattering/recoil evidence provide quantitative/mechanistic Year10 packs. Use source purpose/method/warrant and limits; NIST outputs from one dataset are not independent experiments, nor do selected scattering counts give beam fractions.",
+        "criteria": "Interpret complete supplied evidence, distinguish inference from observation, explain method and scope without overclaiming.",
+        "limits": "No material bounded core text-method gap identified by source author. Original optional image/player tasks and actual practical/software/permission/performance remain unobserved; separate independent Year10 source assessment required."
+      },
+      {
+        "id": "F2",
+        "intention": "Weigh counterevidence and calibrated conclusions",
+        "status": "SUFFICIENT — accepted bounded methods; original page plan pending independent review",
+        "evidence": "ARGUMENT:B17-LHS-REASONING;YEAR9REVIEW:RSC-REVIEW-CASE;PERSPECTIVES:QLD-CONSULTATION;B27-NIST-RESIDUALS,B27-NIST-CALIBRATE",
+        "method": "Actual alternative arguments and peer-review critique train rebuttal and qualified judgement. Calibration model must accommodate residuals and domain/interval; self-selected94%consultation cannot become populationprevalence. Do not turn possible commercial conflict into fraud,sourceillustration into gravitycalibration,orcalibrationfitinto universalmechanism. Open rubric accepts justified alternatives.",
+        "criteria": "Interpret complete supplied evidence, distinguish inference from observation, explain method and scope without overclaiming.",
+        "limits": "No material bounded core text-method gap identified by source author. Original optional image/player tasks and actual practical/software/permission/performance remain unobserved; separate independent Year10 source assessment required."
+      },
+      {
+        "id": "F3",
+        "intention": "Apply secondary-data provenance/ethics/cultural authority",
+        "status": "SUFFICIENT — accepted bounded methods; original page plan pending independent review",
+        "evidence": "PERSPECTIVES:CSIRO-ICIP-TERMS,VCAA-CULTURAL-INQUIRY;PERMISSIONS:ILALC-DJEERA-PROTOCOL;Y9CLIMATE:B22-NOAA-ANNUAL,B22-NASA-METHOD",
+        "method": "Actual public source-use conditions/local-holder protocol distinguish ethical access,attribution,governance and commercial/reproduction permission. Source log identifies creator/date/URL/access/method/units/baseline/uncertainty and restrictions. Repeated agency products may share inputs; community conditions govern reuse beyond ordinary citation. No commercialICIPapproval or publicdataownershiptransfer claimed.",
+        "criteria": "Interpret complete supplied evidence, distinguish inference from observation, explain method and scope without overclaiming.",
+        "limits": "No material bounded core text-method gap identified by source author. Original optional image/player tasks and actual practical/software/permission/performance remain unobserved; separate independent Year10 source assessment required."
+      }
+    ],
+    "original_plan": "Original fictional reflective-cover evidence pack. Three independently prepared matched model pairs under same stated lamp/time/environment: uncovered temperature rises8/9/10°C,covered3/4/5; means9/4,difference5°C,55.6%smaller rise, not55.6%lower absolute temperature/bills. The model surfaces/cover are opaque with negligible transmission. Independent optical record in fictional pack reports reflected fractions.20uncovered/.70covered for the test illumination (absorbed fractions.80/.30 under that assumption); less absorbed radiation is consistent with mechanism, not sole cause proven by a single thermal comparison. Counterrecord windy/damp outdoor models show+3/+3°C; compare conditions and uncertainty rather than hide it or universalise. Construct claim/evidence/warrant/alternative/bounded conclusion; multiple displays of same trials are not new studies. Secondary-source cards label hypothetical access/reuse conditions; citation does not override permissions, local knowledge governance or privacy. No actual restricted knowledge/data supplied, permissions or public research outcome claimed."
+  },
+  {
+    "code": "AC9S10I08",
+    "descriptor": "write and create texts to communicate ideas, findings and arguments effectively for identified purposes and audiences, including selection of appropriate content, language and text features, using digital tools as appropriate",
+    "source_basis_decision": "SUFFICIENT — BOUNDED CORE",
+    "source_acceptance": "qa/all-codes/science-7-10/batch-27-year10-inquiry-independent-source-review.json",
+    "focuses": [
+      {
+        "id": "F1",
+        "intention": "Select accurate content/form for audience/purpose",
+        "status": "SUFFICIENT — accepted bounded methods; original page plan pending independent review",
+        "evidence": "AUDIENCE:VIC-SCI-LANGUAGE,NASA-TEACHER-STUDENT,HISTORY-EXPERT-PUBLIC;PERSPECTIVES:CSIRO-PLASTIC-RELEASE,CSIRO-PUBLIC-PLASTICS;B27-NIST-STATEMENT",
+        "method": "Actual complete mentor pairs and Victorian children-TV/newsletter creation demands distinguish audiencepurpose/content/detail. NIST two actual publication/correspondence statements retain identical quantity with differently defined uncertainty. Year10 adaptation must preserve measured quantity,units,methodscope/coverage while choosing reader-appropriate explanation; no publisher before/after revision history inferred.",
+        "criteria": "Interpret complete supplied evidence, distinguish inference from observation, explain method and scope without overclaiming.",
+        "limits": "No material bounded core text-method gap identified by source author. Original optional image/player tasks and actual practical/software/permission/performance remain unobserved; separate independent Year10 source assessment required."
+      },
+      {
+        "id": "F2",
+        "intention": "Integrate language, figures and uncertainty meaningfully",
+        "status": "SUFFICIENT — accepted bounded methods; original page plan pending independent review",
+        "evidence": "WATER:NASA-WATER-CAPTURE,NASA-WATER-GUIDE;Y9CLIMATE:B22-NASA-CONSTRUCT;B27-NIST-STATEMENT,B27-NIST-CALIBRATE,B27-NIST-SELF-ANALYSIS",
+        "method": "Actual captioned creation criteria and numerical construction/self-analysis methods support meaningful tables/figures,captions,evidence and uncertainty. Use actual40rowcalibrationor16rowclimatepack for peer technical report versus accessible public explanation as explicit original transfer. Native unknownunitsmustbeexplained,notinvented; futureoriginalfiguresfromtablesneedproductQA.",
+        "criteria": "Interpret complete supplied evidence, distinguish inference from observation, explain method and scope without overclaiming.",
+        "limits": "No material bounded core text-method gap identified by source author. Original optional image/player tasks and actual practical/software/permission/performance remain unobserved; separate independent Year10 source assessment required."
+      },
+      {
+        "id": "F3",
+        "intention": "Create/revise accessible attributed science communication",
+        "status": "SUFFICIENT — accepted bounded methods; original page plan pending independent review",
+        "evidence": "AUDIENCE:VIC-SCI-LANGUAGE;PERSPECTIVES:BTN-PLASTIC-TASKS;WATER:NASA-WATER-CAPTURE;ARGUMENT:science_communication_methods,argument_method_and_ethics;B27-NIST-COVERAGE",
+        "method": "Actual inaccurate-cartoon repair/audience-specific productive composition/full rubric supports create→accuracy/evidence/reader review→revise,notmerely read. AtYear10checkquantitative claim/domain,definederrorbars,sourceattribution,legibility,captions/alttext and acceptable uncertainty wording. These are designcriteria; no actual digital/accessibility/audienceperformance or finished product pass.",
+        "criteria": "Interpret complete supplied evidence, distinguish inference from observation, explain method and scope without overclaiming.",
+        "limits": "No material bounded core text-method gap identified by source author. Original optional image/player tasks and actual practical/software/permission/performance remain unobserved; separate independent Year10 source assessment required."
+      }
+    ],
+    "original_plan": "Productive original communication using the complete fictional opaque-cover packet with negligible transmission (three matched pairs, rise means9versus4°C, initial25°C, fixed10min). Peer-report version includes method, n/units/raw data/limitations; school-science-club committee version explains a5°Csmaller mean temperature increase in this model and proposes further testing, not building-cost/safety claims. Same supported meaning across audiences; technical names defined as needed. Figure two purpose/audience routes converging on invariant quantities/evidence/limits. Student writes two original versions/caption/alttext and repairs an overclaim. Choose labelled table/graph and appropriate optional digital tool; axes,source status and non-colour cues/accessibility checked, no audience/accessibility outcome certified. Remove the retained60word cap while preserving concise policy-brief demand; supply complete packet and audience for otherwise unspecified creation/critique tasks."
+  }
+]

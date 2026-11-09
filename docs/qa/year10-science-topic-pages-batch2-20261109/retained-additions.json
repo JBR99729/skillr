@@ -1,0 +1,110 @@
+[
+  {
+    "code": "AC9S10H04",
+    "section": "Guided practice",
+    "html": "<div class=\"evidence\"><p>Two fictional calls: Fund A seeks urban heat research using city monitoring sites, prioritising rapid deployment and local health benefit. Fund B seeks drought-related water monitoring in remote locations, prioritising access and community partnership. Both request evidence of feasible methods and honest reporting; neither supplies guaranteed results.</p><details><summary>Check the supplied case</summary><p>Compare visible needs, affected communities, feasibility and missing voices in each call. Ask what evidence supports the urgency and whether access/participation is appropriate. There is no unique winner from these brief calls; values shape the agenda without determining the scientific findings.</p></details></div>",
+    "reason": "Supply the previously absent two funding calls and response criteria."
+  },
+  {
+    "code": "AC9S10I01",
+    "section": "Guided practice",
+    "html": "<div class=\"evidence\"><p>Supplied fictional motion record: t = 0, 1, 2 s; velocity = 0, 1, 2 m/s in the same direction. The chosen cart has mass 2 kg and constant resultant force 2 N; track conditions are fixed.</p><details><summary>Check the supplied case</summary><p>Example question: how does total cart mass affect acceleration at fixed resultant force? The record gives acceleration 1 m/s². Hypothesis: increasing mass reduces acceleration because a = Fnet/m. Prediction: at 4 kg with the same 2 N resultant, acceleration is 0.5 m/s². The equation supplies the prediction; this record alone does not test every mass.</p></details></div>",
+    "reason": "Supply the missing motion stimulus and checked hypothesis/prediction; align its wording to an actual supplied record."
+  },
+  {
+    "code": "AC9S10I02",
+    "section": "Guided practice",
+    "html": "<div class=\"evidence\"><p>Flawed fictional motion plan: push a 1 kg cart by hand; add mass while also pushing harder; read one unzeroed motion sensor once; write “it went faster” without times or units. The intended question is how mass affects acceleration at a fixed 2 N resultant.</p><details><summary>Check the supplied case</summary><p>Prioritise: keep the resultant fixed while changing total mass; reference-check suitable measurement equipment and define acceleration from measured velocity/time; collect independently reset runs at each mass with order/conditions and raw units recorded. Replace “faster” with the specified acceleration outcome. Appropriate apparatus-specific safety approval remains separate.</p></details></div>",
+    "reason": "Supply the missing motion-audit method so the three requested repairs are answerable."
+  },
+  {
+    "code": "AC9S10I03",
+    "section": "Guided practice",
+    "html": "<div class=\"evidence\"><p>Purpose: compare cooling endpoints of independently prepared 200 mL cups starting at 45 °C under matched conditions. Each plan stores 30 values. A: 30 closely spaced sensor records from one cup. B: ten closely spaced records near the specified endpoint from each of three independently prepared matched cups, with actual times/setup/calibration recorded. C: one reading from each of 30 cups, but starting volumes differ and reading times are missing.</p><details><summary>Check the supplied case</summary><p>B supplies the clearest controlled, documented comparison among these plans, with three independent cup units—not 30 independent cups. Its serial records do not themselves establish that three cups are sufficient for every claim. A has only one cup; C has more units but loses the intended controlled endpoint comparison.</p></details></div>",
+    "reason": "Supply all three previously absent sampling plans, their common purpose and checked independence reasoning."
+  },
+  {
+    "code": "AC9S10I03",
+    "section": "Reasoning and problem-solving",
+    "html": "<div class=\"evidence\"><p>Fictional purpose: distinguish slow endpoint differences near 30 °C. Group A uses four independently prepared cups, 0.01 °C display increments and stated ±0.2 °C accuracy after stabilisation. Group B takes 40 serial readings from one cup with 0.1 °C increments and stated ±0.5 °C accuracy. Both expected ranges fit the instruments.</p><details><summary>Check the supplied case</summary><p>A offers more independent cup units and finer stated performance for this particular slow comparison. B has more records but one independent cup. Check actual variation, reference checks, response, sampling design and claim scope; the counts alone cannot establish an adequate final sample size.</p></details></div>",
+    "reason": "Supply the otherwise missing dataset/specification trade-off without claiming universally adequate counts."
+  },
+  {
+    "code": "AC9S10I04",
+    "section": "Guided practice",
+    "html": "<div class=\"evidence\"><p>Fictional repeated gas volumes at the same 30 s endpoint: A = 9, 10, 11 cm³; B = 10, 11, 12 cm³. A described misleading bar chart plots their means from a baseline of 9 cm³ to 11 cm³, making visible heights 1 and 2 units. Its vertical label omits the unit.</p><details><summary>Check the supplied case</summary><p>Means are 10 and 11 cm³, a difference of 1 cm³, not a doubling of measured volume. Redraw with a zero baseline for this bar-length comparison, label volume in cm³ and the common endpoint, and retain repeats/spread. A truncated scale must not be presented as proportional total volume.</p></details></div>",
+    "reason": "Supply the graph specification, raw data and checked descriptive calculation; the task now explicitly concerns the described graph."
+  },
+  {
+    "code": "AC9S10I04",
+    "section": "Reasoning and problem-solving",
+    "html": "<div class=\"evidence\"><p>Question: how does temperature change with time in this fictional record? Time = 0, 1, 2, 3 min; temperature = 20, 23, 25, 26 °C.</p><details><summary>Check the supplied case</summary><p>A labelled time plot with numerical spacing makes change over time clear; a table preserves exact readings. A bar chart treats times as categories and is less useful for the requested temporal pattern. A scatterplot can show paired numerical values, but explain time ordering and any chosen connections.</p></details></div>",
+    "reason": "Supply the previously unspecified common dataset and question for representation choice."
+  },
+  {
+    "code": "AC9S10I04",
+    "section": "Practice and review",
+    "html": "<div class=\"evidence\"><p>For the time/temperature task, use t = 0, 1, 2, 3 min and T = 20, 23, 25, 26 °C. For the unusual-value task, use repeats at one fixed calibration load: 8.0, 8.1, 8.2, 8.3, 11.4 arbitrary response units.</p><details><summary>Check the supplied case</summary><p>Plot temperature against time with labelled units and proportional spacing. For the repeats, mean = 8.8, median = 8.2 and range = 3.4 units; retain and investigate 11.4 before exclusion. These summaries do not automatically describe all load levels or prove the unusual reading is wrong.</p></details></div>",
+    "reason": "Supply complete numerical stimuli for both construction and unusual-value exercises."
+  },
+  {
+    "code": "AC9S10I05",
+    "section": "Guided practice",
+    "html": "<div class=\"evidence\"><p>Three evidence cards from the accepted dated source records: (1) NOAA Mauna Loa annual CO₂ rises from 354.45 ppm in 1990 to 379.98 ppm in 2005. (2) NASA global temperature anomaly rises from +0.45 to +0.68 °C over those endpoints, relative to 1951–1980; 1991→1992 falls +0.41 to +0.22 while CO₂ rises 355.70→356.54 ppm. (3) The greenhouse explanation connects infrared absorption/emission to energy balance, while other influences affect individual years. Records use the November 2026 saved snapshot and may be revised.</p><details><summary>Check the supplied case</summary><p>Combine the overall increases with the greenhouse mechanism, but retain the annual counterexample and distinguish station CO₂ from global temperature. These cards provide different information, not three wholly independent experiments or full quantitative attribution. Preserve source/date/units/baseline, and do not invent temperature error bars.</p></details></div>",
+    "reason": "Supply the three missing climate evidence cards with quantitative and mechanistic criteria."
+  },
+  {
+    "code": "AC9S10I05",
+    "section": "Reasoning and problem-solving",
+    "html": "<div class=\"evidence\"><p>Fictional seedling record, same labelled specimen and height reference: days 1–5 give 2, 4, 1, 8, 10 cm. No measurement fault or damage is yet documented.</p><details><summary>Check the supplied case</summary><p>Day 3 is unusual relative to the surrounding increase. Keep and flag it while checking specimen ID, height reference, transcription, measurement and possible real damage/change. Repeat a relevant measurement where possible. Exclude only for a documented reason while preserving the original and decision; do not simply replace 1 cm with a preferred value.</p></details></div>",
+    "reason": "Supply the missing anomaly dataset and criteria distinguishing possible error from real change."
+  },
+  {
+    "code": "AC9S10I06",
+    "section": "Guided practice",
+    "html": "<div class=\"evidence\"><p>Fictional headline: “Fertiliser makes every plant grow 3 mm more.” The report gives means 16 versus 19 mm, but three plants share one pot per condition; light is 4 versus 8 h/day. It asserts a “95% interval of 1–5 mm” without giving its construction and treats plants within each pot as independent treatment units. The interval is an unverified report claim, not a calculation endorsed by this guide.</p><details><summary>Check the supplied case</summary><p>The causal and universal headline is unsupported. The mean difference is a supplied observation, but light and pot conditions are confounded, and the stated independence basis is wrong. The reported interval cannot repair those defects or be assumed valid without its method/assumptions. Explain how controlled independent pots and transparent uncertainty analysis would improve the question.</p></details></div>",
+    "reason": "Supply the absent headline, method and reported interval for a critical evaluation, explicitly avoiding endorsement of its unsupported statistical basis."
+  },
+  {
+    "code": "AC9S10I07",
+    "section": "Guided practice",
+    "html": "<div class=\"evidence\"><p>Three evidence cards from the accepted dated source records: (1) NOAA Mauna Loa annual CO₂ rises from 354.45 ppm in 1990 to 379.98 ppm in 2005. (2) NASA global temperature anomaly rises from +0.45 to +0.68 °C over those endpoints, relative to 1951–1980; 1991→1992 falls +0.41 to +0.22 while CO₂ rises 355.70→356.54 ppm. (3) The greenhouse explanation connects infrared absorption/emission to energy balance, while other influences affect individual years. Records use the November 2026 saved snapshot and may be revised.</p><details><summary>Check the supplied case</summary><p>Combine the overall increases with the greenhouse mechanism, but retain the annual counterexample and distinguish station CO₂ from global temperature. These cards provide different information, not three wholly independent experiments or full quantitative attribution. Preserve source/date/units/baseline, and do not invent temperature error bars. A justified rebuttal explains why a cooling year alone does not refute the greenhouse mechanism. Check the specific permitted source uses; citation is not blanket permission.</p></details></div>",
+    "reason": "Provide complete varied evidence and rebuttal/ethical-use criteria for the existing climate option."
+  },
+  {
+    "code": "AC9S10I07",
+    "section": "Independent practice",
+    "html": "<div class=\"evidence\"><p>Supplied short argument: “In the fictional matched lamp models, the reflective cover reduced the mean temperature rise from 9 to 4 °C. The separate opaque-surface optical record reports more reflection, consistent with less absorbed radiation. Different outdoor conditions need further testing.”</p><details><summary>Check the supplied case</summary><p>Claim: a smaller mean rise in the lamp models. Evidence: 9 versus 4 °C and the separate reflection record. Reasoning: greater reflection with negligible transmission is consistent with reduced absorption. Scope: the stated model conditions, not every outdoor or building result.</p></details></div>",
+    "reason": "Supply the previously absent short argument for identifying claim, evidence and reasoning."
+  },
+  {
+    "code": "AC9S10I07",
+    "section": "Reasoning and problem-solving",
+    "html": "<div class=\"evidence\"><p>Fictional matched lamp-test models: three independent pairs start at 25 °C for ten minutes; uncovered rises 8, 9, 10 °C, covered rises 3, 4, 5 °C. Mean rises are 9 and 4 °C. Separate optical information gives reflected fractions 0.20/0.70 for opaque surfaces with negligible transmission. A windy/damp outdoor comparison instead reports +3/+3 °C. Hypothetical secondary-source conditions: viewing an archive table is allowed but reposting is restricted; another locally governed record has no public-sharing agreement. No actual restricted content is supplied.</p><details><summary>Check the supplied case</summary><p>The lamp models support a smaller mean rise under those conditions, consistent with less absorption under the opaque assumption. The outdoor context limits a universal claim; compare methods and conditions before judging the disagreement. A 55.6% smaller rise is not a 55.6% reduction in absolute temperature, bills or every building outcome. Evaluate provenance, methods, uncertainty and permitted use. Seek appropriate holder guidance or use an authorised alternative; do not invent permission. For an online-claim critique, use the fictional overclaim “the cover makes every building 56% colder” against this packet if no suitable external claim is selected.</p></details></div>",
+    "reason": "Supply the missing conflicting-source/claim packet in each independently openable argument exercise, with explicit hypothetical ethical conditions."
+  },
+  {
+    "code": "AC9S10I07",
+    "section": "Practice and review",
+    "html": "<div class=\"evidence\"><p>Fictional matched lamp-test models: three independent pairs start at 25 °C for ten minutes; uncovered rises 8, 9, 10 °C, covered rises 3, 4, 5 °C. Mean rises are 9 and 4 °C. Separate optical information gives reflected fractions 0.20/0.70 for opaque surfaces with negligible transmission. A windy/damp outdoor comparison instead reports +3/+3 °C. Hypothetical secondary-source conditions: viewing an archive table is allowed but reposting is restricted; another locally governed record has no public-sharing agreement. No actual restricted content is supplied.</p><details><summary>Check the supplied case</summary><p>The lamp models support a smaller mean rise under those conditions, consistent with less absorption under the opaque assumption. The outdoor context limits a universal claim; compare methods and conditions before judging the disagreement. A 55.6% smaller rise is not a 55.6% reduction in absolute temperature, bills or every building outcome. Evaluate provenance, methods, uncertainty and permitted use. Seek appropriate holder guidance or use an authorised alternative; do not invent permission. For an online-claim critique, use the fictional overclaim “the cover makes every building 56% colder” against this packet if no suitable external claim is selected.</p></details></div>",
+    "reason": "Supply the missing conflicting-source/claim packet in each independently openable argument exercise, with explicit hypothetical ethical conditions."
+  },
+  {
+    "code": "AC9S10I08",
+    "section": "Guided practice",
+    "html": "<div class=\"evidence\"><p>Fictional matched lamp-test models: three independent pairs start at 25 °C for ten minutes; uncovered rises 8, 9, 10 °C, covered rises 3, 4, 5 °C. Mean rises are 9 and 4 °C. Separate optical information gives reflected fractions 0.20/0.70 for opaque surfaces with negligible transmission. A windy/damp outdoor comparison instead reports +3/+3 °C. Audience A: a Year 10 science class evaluating the method. Audience B: a school-science-club committee choosing the next model investigation. Overclaim to repair: “The cover makes every building 56% colder.”</p><details><summary>Check the supplied case</summary><p>The lamp models support a smaller mean rise under those conditions, consistent with less absorption under the opaque assumption. The outdoor context limits a universal claim; compare methods and conditions before judging the disagreement. A 55.6% smaller rise is not a 55.6% reduction in absolute temperature, bills or every building outcome. The peer version should retain raw records, matched-pair structure and method; the committee version can foreground the bounded 5 °C difference and next test in plain language. Both retain fictional status, units, uncertainty/context, source use and meaningful captions/text alternatives.</p></details></div>",
+    "reason": "Supply the finding, complete dataset, named audiences and inaccurate product for the retained creation/revision tasks."
+  },
+  {
+    "code": "AC9S10I08",
+    "section": "Reasoning and problem-solving",
+    "html": "<div class=\"evidence\"><p>Fictional matched lamp-test models: three independent pairs start at 25 °C for ten minutes; uncovered rises 8, 9, 10 °C, covered rises 3, 4, 5 °C. Mean rises are 9 and 4 °C. Separate optical information gives reflected fractions 0.20/0.70 for opaque surfaces with negligible transmission. A windy/damp outdoor comparison instead reports +3/+3 °C. Audience A: a Year 10 science class evaluating the method. Audience B: a school-science-club committee choosing the next model investigation. Overclaim to repair: “The cover makes every building 56% colder.”</p><details><summary>Check the supplied case</summary><p>The lamp models support a smaller mean rise under those conditions, consistent with less absorption under the opaque assumption. The outdoor context limits a universal claim; compare methods and conditions before judging the disagreement. A 55.6% smaller rise is not a 55.6% reduction in absolute temperature, bills or every building outcome. The peer version should retain raw records, matched-pair structure and method; the committee version can foreground the bounded 5 °C difference and next test in plain language. Both retain fictional status, units, uncertainty/context, source use and meaningful captions/text alternatives.</p></details></div>",
+    "reason": "Supply the finding, complete dataset, named audiences and inaccurate product for the retained creation/revision tasks."
+  },
+  {
+    "code": "AC9S10I08",
+    "section": "Practice and review",
+    "html": "<div class=\"evidence\"><p>Fictional matched lamp-test models: three independent pairs start at 25 °C for ten minutes; uncovered rises 8, 9, 10 °C, covered rises 3, 4, 5 °C. Mean rises are 9 and 4 °C. Separate optical information gives reflected fractions 0.20/0.70 for opaque surfaces with negligible transmission. A windy/damp outdoor comparison instead reports +3/+3 °C. Audience A: a Year 10 science class evaluating the method. Audience B: a school-science-club committee choosing the next model investigation. Overclaim to repair: “The cover makes every building 56% colder.”</p><details><summary>Check the supplied case</summary><p>The lamp models support a smaller mean rise under those conditions, consistent with less absorption under the opaque assumption. The outdoor context limits a universal claim; compare methods and conditions before judging the disagreement. A 55.6% smaller rise is not a 55.6% reduction in absolute temperature, bills or every building outcome. The peer version should retain raw records, matched-pair structure and method; the committee version can foreground the bounded 5 °C difference and next test in plain language. Both retain fictional status, units, uncertainty/context, source use and meaningful captions/text alternatives.</p></details></div>",
+    "reason": "Supply the finding, complete dataset, named audiences and inaccurate product for the retained creation/revision tasks."
+  }
+]

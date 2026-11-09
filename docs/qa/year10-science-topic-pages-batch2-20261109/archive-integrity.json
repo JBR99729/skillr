@@ -1,0 +1,6 @@
+{
+  "status": "PASS",
+  "checked": 53,
+  "unresolved": [],
+  "definition": "Archive bytes checked against observed nontruncated current Git subtree entries; CURRENT_RESEARCH_SOP aliases the recorded immutable archived path."
+}
