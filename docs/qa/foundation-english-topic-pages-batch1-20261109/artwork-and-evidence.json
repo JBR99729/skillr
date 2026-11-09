@@ -1,0 +1,643 @@
+{
+  "models": [
+    {
+      "code": "AC9EFLA01",
+      "index": 0,
+      "literal_svg_sha256": "352094dafd25270f3bbe6840a25cb1ed6c1d9854c79a1d917c4e3c7422f5ffe9",
+      "prepared_svg_sha256": "c9aac82688aa3394ecfec6c8864d105b6ff2b53eaaa7e8d1dc1b88f2d8c866ec",
+      "png_sha256": "f1ca98ebb346a1cd313754ee5b9d44a2d4f5afa0f38d06c8f3676d7b74ff15ce",
+      "dimensions": [
+        1000,
+        411
+      ],
+      "render": "AC9EFLA01-0.png"
+    },
+    {
+      "code": "AC9EFLA02",
+      "index": 0,
+      "literal_svg_sha256": "d0681bf39d9faa93530d56fc49fadd4dfc9dc0cd7542cfc050fcd2499dacfa39",
+      "prepared_svg_sha256": "d0681bf39d9faa93530d56fc49fadd4dfc9dc0cd7542cfc050fcd2499dacfa39",
+      "png_sha256": "5dffbfc7d76453db31a6fff18e55790a9bd196fe2e38ec57192ff81d4939462e",
+      "dimensions": [
+        1000,
+        417
+      ],
+      "render": "AC9EFLA02-0.png"
+    },
+    {
+      "code": "AC9EFLA02",
+      "index": 1,
+      "literal_svg_sha256": "5e7d8af8da49331e016ea170d3da6371ab97c6ef22c9067a43e49215ae092735",
+      "prepared_svg_sha256": "13840f612d63f4e9b78752e953c8852d21c2f33663e48c1b9fb14a4b91639301",
+      "png_sha256": "3161f89d02a7e897730a4986c1da01204fee690e9e5b1384a63358165ab8a324",
+      "dimensions": [
+        1000,
+        411
+      ],
+      "render": "AC9EFLA02-1.png"
+    },
+    {
+      "code": "AC9EFLA03",
+      "index": 0,
+      "literal_svg_sha256": "0d4a6c44e427ac30386b8fce130d315b1cbf57d6612d9bcd766451df61f8ce0e",
+      "prepared_svg_sha256": "0d4a6c44e427ac30386b8fce130d315b1cbf57d6612d9bcd766451df61f8ce0e",
+      "png_sha256": "afa3e385b16e298d4082086e5b01a9fcdcdfbae407fad8eebd722fb6a1cf6322",
+      "dimensions": [
+        1000,
+        417
+      ],
+      "render": "AC9EFLA03-0.png"
+    },
+    {
+      "code": "AC9EFLA03",
+      "index": 1,
+      "literal_svg_sha256": "9680fd638586849779d9676ebcfa07c870e33673ca63d5aef594f3e4c990afd5",
+      "prepared_svg_sha256": "9680fd638586849779d9676ebcfa07c870e33673ca63d5aef594f3e4c990afd5",
+      "png_sha256": "9b5d7dffa28c3a35bca84d1d193228eb0059ea6ca39e1b3772c027e84d45a59d",
+      "dimensions": [
+        1000,
+        444
+      ],
+      "render": "AC9EFLA03-1.png"
+    },
+    {
+      "code": "AC9EFLA03",
+      "index": 2,
+      "literal_svg_sha256": "a86d72e518230adae0de3f910962519bd55cae01e910cf9f3849729906e4a803",
+      "prepared_svg_sha256": "8cc6290619bc7d00d4a28b56c12096fbfef31bdb6aaa95fa0ed3cc3826ee66c7",
+      "png_sha256": "dea7ff7cafcb1bb77b37927f8941110e438d653920544ad6c8029f15166d8564",
+      "dimensions": [
+        1000,
+        411
+      ],
+      "render": "AC9EFLA03-2.png"
+    },
+    {
+      "code": "AC9EFLA04",
+      "index": 0,
+      "literal_svg_sha256": "5b26f7b8d95371e33480b7324c1b11fafbe09160967030683e88d6e676f3fac5",
+      "prepared_svg_sha256": "5b26f7b8d95371e33480b7324c1b11fafbe09160967030683e88d6e676f3fac5",
+      "png_sha256": "59569874afd620ac7f1456c8288e33bacb8e772a964380bb75be90b431ceb583",
+      "dimensions": [
+        1000,
+        438
+      ],
+      "render": "AC9EFLA04-0.png"
+    },
+    {
+      "code": "AC9EFLA04",
+      "index": 1,
+      "literal_svg_sha256": "68421ec7a6dc592a09498cb0bc663479dc3a6aedee9fec83bebce9ff6f405887",
+      "prepared_svg_sha256": "cef64ace3d0586b7b194b6725bab4ebc999ff98e44fc46ca5da7b8e81de6c26e",
+      "png_sha256": "198ca69cf9154bcf617ddcdf2e518ed8fb60c24939ab4201cbab075fd7d06b4a",
+      "dimensions": [
+        1000,
+        411
+      ],
+      "render": "AC9EFLA04-1.png"
+    },
+    {
+      "code": "AC9EFLA05",
+      "index": 0,
+      "literal_svg_sha256": "8d7ce50d69fc576ed60c36d62e411aafe9c7a77e0f643bb02b1008e66c72cc3f",
+      "prepared_svg_sha256": "38d086adefc9c4eb7423f56ceaca6e3aa1e9d2c1aad9c17070bddbaab012b2cb",
+      "png_sha256": "9b714b4a7d6f5a0bfd5a0a821c591ed8851ec847cc4d8a069fbecbefac1ba146",
+      "dimensions": [
+        1000,
+        411
+      ],
+      "render": "AC9EFLA05-0.png"
+    },
+    {
+      "code": "AC9EFLA06",
+      "index": 0,
+      "literal_svg_sha256": "af0f72148ad5912d9c9fd72f0ec67f164b0d440e555098d815d4392bc5d5e054",
+      "prepared_svg_sha256": "40da0203e237d13d379794548c4c47a7837906228c40921f41f2b4a490b3e79f",
+      "png_sha256": "58452eb28bde52cedf4a9731bb2d4dda5bc36d49285a0204ca9254114de69117",
+      "dimensions": [
+        1000,
+        411
+      ],
+      "render": "AC9EFLA06-0.png"
+    },
+    {
+      "code": "AC9EFLA07",
+      "index": 0,
+      "literal_svg_sha256": "697c26ae7358e2028f27fac6bab0eabee63ff5962693a7fd1f8b629d0f730cc2",
+      "prepared_svg_sha256": "697c26ae7358e2028f27fac6bab0eabee63ff5962693a7fd1f8b629d0f730cc2",
+      "png_sha256": "cd6651436d16c060350580c32b4d0a035d44c42089a09ffff686a1f81af10910",
+      "dimensions": [
+        1000,
+        444
+      ],
+      "render": "AC9EFLA07-0.png"
+    },
+    {
+      "code": "AC9EFLA07",
+      "index": 1,
+      "literal_svg_sha256": "776fc6eae6b01ac23fee4670f7dd02e71586d876411456d5d59bd2c6d1f83dca",
+      "prepared_svg_sha256": "776fc6eae6b01ac23fee4670f7dd02e71586d876411456d5d59bd2c6d1f83dca",
+      "png_sha256": "ec1d80d04cfc0bffe004f01c569ed4532f04cf071f6fa49b79a53ef8d399ca86",
+      "dimensions": [
+        1000,
+        438
+      ],
+      "render": "AC9EFLA07-1.png"
+    },
+    {
+      "code": "AC9EFLA07",
+      "index": 2,
+      "literal_svg_sha256": "f9de53c81e717d7eb811d2a9ea4fc705236370eb88a6f95ab1f55e690faaf8b2",
+      "prepared_svg_sha256": "f9de53c81e717d7eb811d2a9ea4fc705236370eb88a6f95ab1f55e690faaf8b2",
+      "png_sha256": "afc3fda3634833052f33946f7548c19ee8bb309d10967fc8ec3e19897df7c6b9",
+      "dimensions": [
+        1000,
+        458
+      ],
+      "render": "AC9EFLA07-2.png"
+    },
+    {
+      "code": "AC9EFLA07",
+      "index": 3,
+      "literal_svg_sha256": "51e2a1a6d046a4fbe9ea5093646ddd952a346e20b28ccd1c6244ea70ddab95ed",
+      "prepared_svg_sha256": "51e2a1a6d046a4fbe9ea5093646ddd952a346e20b28ccd1c6244ea70ddab95ed",
+      "png_sha256": "32ca7f1ffad971fb9a249be96c4c3fe71aea1b6f33e941d96542c757803151d3",
+      "dimensions": [
+        1000,
+        736
+      ],
+      "render": "AC9EFLA07-3.png"
+    },
+    {
+      "code": "AC9EFLA07",
+      "index": 4,
+      "literal_svg_sha256": "d9c73c826144091edab15d901a27961b34848afd2209c936abb4ebc0f099e9f4",
+      "prepared_svg_sha256": "47fdf14e91551e12fd49952c97122988d9714ba0ec744d023078e32c48909df0",
+      "png_sha256": "68bf47e2626b6718ce9bcd967d4fd80b153907dce0db9b8230f467f386161c00",
+      "dimensions": [
+        1000,
+        411
+      ],
+      "render": "AC9EFLA07-4.png"
+    },
+    {
+      "code": "AC9EFLA08",
+      "index": 0,
+      "literal_svg_sha256": "cc2adb4e27176cfaae234fe558ea27669dd403a8351e64cd63f9911ac7fac711",
+      "prepared_svg_sha256": "cc2adb4e27176cfaae234fe558ea27669dd403a8351e64cd63f9911ac7fac711",
+      "png_sha256": "572b2c8e97377d10350e0432e9b8517408d4e12a24b46857bf8c4b2f5f7f8347",
+      "dimensions": [
+        1000,
+        444
+      ],
+      "render": "AC9EFLA08-0.png"
+    },
+    {
+      "code": "AC9EFLA08",
+      "index": 1,
+      "literal_svg_sha256": "2c27835c56fa80872aa887fbe6a81d1ad5c4b82aa5cff7e9845f00c6edec0d1a",
+      "prepared_svg_sha256": "66432ba00fb64a4fb2266957141c66afae389eff1475643b64d61273354035ec",
+      "png_sha256": "f1701a33a1d38c2b0d789fd6de4980e87c311534c60d66854bb77f6920544160",
+      "dimensions": [
+        1000,
+        411
+      ],
+      "render": "AC9EFLA08-1.png"
+    },
+    {
+      "code": "AC9EFLA09",
+      "index": 0,
+      "literal_svg_sha256": "ad8de3baf01f89302493fee8eed477e9abe64c767359486549e5b86de4674dcf",
+      "prepared_svg_sha256": "4f5a89977a719ea63027258229a8718259f2a8aa05ae26a1f2309a30f72efe5d",
+      "png_sha256": "3a1ee5f4532053cb3573773ee421761cd6fed37f40e331acf15e7ea8ac4dd434",
+      "dimensions": [
+        1000,
+        411
+      ],
+      "render": "AC9EFLA09-0.png"
+    },
+    {
+      "code": "AC9EFLE01",
+      "index": 0,
+      "literal_svg_sha256": "d7361917b4dfd6cee98f33481a7d5e3d2a2127fb803298aa63fe223cf7bc80dd",
+      "prepared_svg_sha256": "90e0f6a81cf29a523e9b71bd55e4e7bebdbe655739fc4ea97dd90149ad962d1b",
+      "png_sha256": "173b14054cb84caeaf79c7c248ebd0c383db2786fec0dcb66a56626bc6cb2dd1",
+      "dimensions": [
+        1000,
+        411
+      ],
+      "render": "AC9EFLE01-0.png"
+    }
+  ],
+  "native_models": [
+    {
+      "code": "AC9EFLA01",
+      "index": 0,
+      "html_sha256": "467520cebecee4e23e09db9a275c63fafd1be2c781aba7ec545832b04404ee1a",
+      "text": "Friend: Can you help me open this?Ms Lee: Can you help me open this jar?The same need with two named listeners",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA01",
+      "index": 1,
+      "html_sha256": "509416a826d61e97a52513e48ab7d368a3bd5688337c9de577abbd8b64236f4d",
+      "text": "Question: Where are the paint pots?Request: May I use the blue paint?Opinion: I think the large brush will work.Each message has a different purpose and fits the same painting context.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA01",
+      "index": 2,
+      "html_sha256": "94753752c3a5a6b791b606d3b2c1008b6293a07cc5ba59d923e77c83dcb36abf",
+      "text": "Purpose: ask to see somethingFriend: Can I see your new card?Shopkeeper: Excuse me, may I please see that book?Relationship clues help a speaker select one of several respectful choices.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA02",
+      "index": 0,
+      "html_sha256": "3fe4d4cf0528baef51b83aaaaf93c9761ad3d1b2e97da2c9f1e12b07a3deccf5",
+      "text": "Choices: apple or pearPreference: I prefer pearReason: because it is juicyRead the cards from left to right.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA02",
+      "index": 1,
+      "html_sha256": "438e3dae4d0dda90ff3f16e96e75ef06fdbb55f7a5e7cf38c928b700f939d925",
+      "text": "Ari: I prefer swings because they feel like flying.Mia: I prefer the sandpit because I like building.Different choices can both be valid.Read the cards from left to right.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA02",
+      "index": 2,
+      "html_sha256": "3fe4d4cf0528baef51b83aaaaf93c9761ad3d1b2e97da2c9f1e12b07a3deccf5",
+      "text": "Choices: apple or pearPreference: I prefer pearReason: because it is juicyRead the cards from left to right.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA02",
+      "index": 3,
+      "html_sha256": "438e3dae4d0dda90ff3f16e96e75ef06fdbb55f7a5e7cf38c928b700f939d925",
+      "text": "Ari: I prefer swings because they feel like flying.Mia: I prefer the sandpit because I like building.Different choices can both be valid.Read the cards from left to right.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA02",
+      "index": 4,
+      "html_sha256": "ebcb4b57cfcfe4d191852e600f6297174d821f81dcf560d74215bbf3fa9c01f8",
+      "text": "Speech: I would like the apple.Gesture: points to the appleTogether: a clear preferenceWords and gesture can support one another.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA02",
+      "index": 5,
+      "html_sha256": "2927910e9b69abfd36d57cbc5c030076cf61e52af51da452e3cd574a343d424f",
+      "text": "See: jump + grinHear: lively musicInfer: the character may feel excitedMedia clues suggest a feeling; evidence explains the interpretation.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA03",
+      "index": 0,
+      "html_sha256": "ef951162356b210d42a28d66bf89ea2a2bfeb1bb1e69bc49fa6436f04a473ffb",
+      "text": "STOP sign \u2192 safety messagePicture book \u2192 storyWeather page \u2192 informationRead the cards from left to right.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA03",
+      "index": 1,
+      "html_sha256": "0693f6c8dbc36a50d3d274e863912a58e8b5efec1d3b24797dc35b1d15f3b159",
+      "text": "Door sign: Library closed todaySpoken announcement: The library is closed todayScreen message: Closed todayRead the cards from left to right.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA03",
+      "index": 2,
+      "html_sha256": "ef951162356b210d42a28d66bf89ea2a2bfeb1bb1e69bc49fa6436f04a473ffb",
+      "text": "STOP sign \u2192 safety messagePicture book \u2192 storyWeather page \u2192 informationRead the cards from left to right.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA03",
+      "index": 3,
+      "html_sha256": "0693f6c8dbc36a50d3d274e863912a58e8b5efec1d3b24797dc35b1d15f3b159",
+      "text": "Door sign: Library closed todaySpoken announcement: The library is closed todayScreen message: Closed todayRead the cards from left to right.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA03",
+      "index": 4,
+      "html_sha256": "a117399596d3ac7ad3e12521b0d34a36c3805bcdc126d2bd9f8ff2fb755bd57a",
+      "text": "Both: whale + finsInformative: labelled body partsImaginative: flying story eventCompare what is shown and the job the image does.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA03",
+      "index": 5,
+      "html_sha256": "2ad70e82b423fbca693d1859d0691c533b50333179c81970be3cb52bd5be1a8b",
+      "text": "Sign: Wash handsInstructions: 1 wet \u2022 2 soap \u2022 3 scrub \u2022 4 rinse \u2022 5 drySame topic \u2022 different formText form changes how much information is available and how it is followed.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA03",
+      "index": 6,
+      "html_sha256": "a381f269db0998e5a733f12f04b05425008f443cb87312d48b22403fb13cc2a5",
+      "text": "School: direction \u2192 find the libraryHome: label \u2192 identify the productCommunity: sign \u2192 move safelyA form becomes meaningful when its message and setting are connected.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA03",
+      "index": 7,
+      "html_sha256": "4c48ca4fda270f9fc3dfd9856d052fb202723d336d46b0c073719aae6dab71a7",
+      "text": "Named and approved sourceListen: oral narrationView: authorised imageConnect meaning in this storyUse the permissions and context supplied with the selected resource.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA04",
+      "index": 0,
+      "html_sha256": "d017a839c7a1f7c97b22b28dfa66cf6ce37a190a2467c39893234f83e4288a70",
+      "text": "1. Front cover + title2. First page: start at top left3. Read across, then turn pageRead the cards from left to right.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA04",
+      "index": 1,
+      "html_sha256": "add110558204a1614fa2c7a5236155d0c2b8c33cf33d613b3770b10a635032a2",
+      "text": "Title: Australian AnimalsSpeaker icon \u2192 hear the wordsNext button \u2192 move onRead the cards from left to right.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA04",
+      "index": 2,
+      "html_sha256": "d017a839c7a1f7c97b22b28dfa66cf6ce37a190a2467c39893234f83e4288a70",
+      "text": "1. Front cover + title2. First page: start at top left3. Read across, then turn pageRead the cards from left to right.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA04",
+      "index": 3,
+      "html_sha256": "add110558204a1614fa2c7a5236155d0c2b8c33cf33d613b3770b10a635032a2",
+      "text": "Title: Australian AnimalsSpeaker icon \u2192 hear the wordsNext button \u2192 move onRead the cards from left to right.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA04",
+      "index": 4,
+      "html_sha256": "01cea2b069ae09c0635284fc845fd19e3b36201af3f7b9a23adc57211c2fdce3",
+      "text": "Start: BirdsMove right: can \u2192 fly.Return left and downMove right: Fish \u2192 can \u2192 swim.The arrows show the usual path through this English print.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA04",
+      "index": 5,
+      "html_sha256": "8a82007656b70a0675032a6cee62cb7e4fdd870742d8eb72302c3995998a02b6",
+      "text": "Tab: HomeTab: Food \u2190 chooseTab: HomesResult: grass and rootsThe tab label predicts the section it opens.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA04",
+      "index": 6,
+      "html_sha256": "8e5c1fcfe8eca5f683124ed22bc6f980ba404df4e06df3de4db739e9581c0314",
+      "text": "PhotoCaption below: Green tree frogLabel beside arrow: wingSpeech bubble beside characterPosition, arrows and boundaries help readers connect each element.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA04",
+      "index": 7,
+      "html_sha256": "97907d37c62aff4faa7fc94ee623b35ffbe56117287c2059b55bc3ffb0553af2",
+      "text": "Front coverTitle: Busy BeesOpen to first pageStart here: top-left wordThe title identifies the book; the start point begins the text.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA05",
+      "index": 0,
+      "html_sha256": "59dac6fd31066ba24a01e30e119e410b20c07f3f9787bceb4ffe9159a4e33958",
+      "text": "The small pupThe pup naps.The bag is red.Compare a naming group with complete messages",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA05",
+      "index": 1,
+      "html_sha256": "4051f52c4230114ff12d37e0c5d20506c26a3b49fa402f0b9fd2820ba991609a",
+      "text": "The frog jumps. \u2192 whole ideaThe green frog \u2192 needs moreJumps under \u2192 does not make senseRead the cards from left to right.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA05",
+      "index": 2,
+      "html_sha256": "257083a6c60e2cefa64ccf8d0be8f163160b4c3f5445bea97f2466c67b36d331",
+      "text": "Start: My red kite (not complete)Add what happens: flew highWhole sentence: My red kite flew high.Read the cards from left to right.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA05",
+      "index": 3,
+      "html_sha256": "dbe962b86d4fa08a125a478bbb91e0755ca61e0f559f26448aa58d9fb610ad7b",
+      "text": "The dog \u2192 chased \u2192 the boy.Swap dog and boyThe boy \u2192 chased \u2192 the dog.New order \u2022 new eventOrder shows who is doing the action.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA05",
+      "index": 4,
+      "html_sha256": "e99f8ca3b3835c852c05e30107decc86dbe87d35d17b9e7d42941befea9d1566",
+      "text": "Fragment: after schoolAsk: what will happen?Add: Dad will pick me upSentence: Dad will pick me up after school.Add the missing meaning before marking the sentence end.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA06",
+      "index": 0,
+      "html_sha256": "dc20a73d336b11bea619e866ae56bb3b0f99999826fa960c9fe71aa5426e66a2",
+      "text": "The little dogrestsunder the tree.Three useful meaning groups in one sentence",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA06",
+      "index": 1,
+      "html_sha256": "aeba8821cb4554c5eb31b116dee7078b52af14ba400b97fb74805a6bacac6eac",
+      "text": "The little dog \u2192 whoran to the gate \u2192 what happenedTogether \u2192 The little dog ran to the gate.Read the cards from left to right.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA06",
+      "index": 2,
+      "html_sha256": "c32eb6a006267db4e8be75b1067c1b190be7a3f519d70a61fc1cae0e08f05c0e",
+      "text": "Who group: My red hat; detail group: is on the hook.Who group: My red hat; detail group: is under the chair.Changed group \u2192 changed locationRead the cards from left to right.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA06",
+      "index": 3,
+      "html_sha256": "f9ca5b3c911e669c6eb4182189245e7657b2fd9477c53fd6ed8ef546a7240b8b",
+      "text": "black \u2192 describes \u2192 catcat \u2192 does \u2192 ateTogether: The black cat ate.Connect words by meaning, not only by where their cards sit.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA07",
+      "index": 0,
+      "html_sha256": "274af1fc4d51ab70c9d30550b7d53ebaa63db0a2cdfa196b08cbfb6678d2d2ee",
+      "text": "Words: The puppy hid.Picture: puppy inside a striped boxTogether: the puppy hid in the boxRead the cards from left to right.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA07",
+      "index": 1,
+      "html_sha256": "bff02c3ccc7a39157f053eb53274c585308380ecab2d392830dd0a29991e0d74",
+      "text": "Words \u2192 Frogs hatch from eggs.Diagram \u2192 egg, tadpole, frogTogether \u2192 fact + visible stagesRead the cards from left to right.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA07",
+      "index": 2,
+      "html_sha256": "2c6258c2bd1594f983d70062033785baee2bd4275183fa0c5053ab9d880b288a",
+      "text": "Words only: something arrivedImage only: birthday sceneTogether: a long-awaited birthdayNew evidence can refine an interpretation.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA07",
+      "index": 3,
+      "html_sha256": "fa4eccc7df1d09ec195de933bb984c102d768fdb2b2b2bbc5908303bb14dab54",
+      "text": "Shown in both: waiting + nightWords only: the name LinaImage only: striped tentCombine for fuller meaningCheck each detail instead of assuming the image repeats every word.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA08",
+      "index": 0,
+      "html_sha256": "36c95d2124b6164699a259a37df5836f85107d8174520b3db6f81cee754a5b8b",
+      "text": "fragile \u2192 easy to break or damageprice \u2192 costreceipt \u2192 record of a purchaseUnderstand a word, then try it in a new context",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA08",
+      "index": 1,
+      "html_sha256": "dc62b932aee0bbff2bcafe7744fb150ddcc9349a253fe51c9bd9b0fece341a46",
+      "text": "Word: observeMeaning: look carefullyUse: I observe tiny spots on the leaf.Read the cards from left to right.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA08",
+      "index": 2,
+      "html_sha256": "7018c1dd7cc193ecf796b7025d2b5e2ee6e256ced67e0a1d2935780aae2a6062",
+      "text": "Everyday: enormous muralInterest: football goalkeeperSchool topic: plant stemRead the cards from left to right.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA08",
+      "index": 3,
+      "html_sha256": "9f21a2de7b04f97ba386255c6fc351f824199dd24466b99ca19808a15c6be7be",
+      "text": "customer \u2192 asksprice \u2192 tells the costdollars \u2192 payreceipt \u2192 records the purchaseThe context gives each word a useful job.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA08",
+      "index": 4,
+      "html_sha256": "3adbe0fba32e408ff12c7c48cbede9301ebe0c47ee215c9a84056ec62a749fc1",
+      "text": "Topic: Familiescaregiversiblinggrandparenthomeanother word from our classA topic word belongs because its meaning connects, not because every family uses it.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA08",
+      "index": 5,
+      "html_sha256": "f36a8b4802d99666fb204ac837d9069254e94bd59b768d48a3cd7a499d572dfe",
+      "text": "Hear: fragileSee: cracked shellTouch carefully: empty eggshellUse: a dry leaf is fragileRepeated meaningful encounters turn a heard word into usable vocabulary.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA09",
+      "index": 0,
+      "html_sha256": "a1acd2af63543ce56b8f749047e74dbd339bd07d1bd492f9116db9cb2fd74b1e",
+      "text": "mM.?We met Ava.Letters and punctuation have different jobs",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA09",
+      "index": 1,
+      "html_sha256": "ae42dd9033e1618fc723d342cb2416510d2c23449873d79783fec79131dcb329",
+      "text": "Mia \u2192 capital M for a name and sentence startruns \u2192 letters make the word. \u2192 full stop signals the endRead the cards from left to right.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA09",
+      "index": 2,
+      "html_sha256": "8958e7fad5986ee965b9708e2404a708866c023d41af5d72ec04d37867631b5f",
+      "text": "We found it. \u2192 tellingWhere is Dad? \u2192 askingWatch out! \u2192 strong warningRead the cards from left to right.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLA09",
+      "index": 3,
+      "html_sha256": "0cfdd5707e87586963957ec3656187ee929c925d81ba315c0b5d178adf4c1168",
+      "text": "Library card: Noah \u2192 N / nMap label: Darwin \u2192 D / dCapital first letter \u2192 particular nameComment on the capital and the name it begins.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLE01",
+      "index": 0,
+      "html_sha256": "f7ec6e2dac248f4f26f0771925425113211d916e856be85e10258d01beaf2213",
+      "text": "Text clueMy personal or imagined exampleSimilar or different, with a reasonA supported connection uses both sides",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLE01",
+      "index": 1,
+      "html_sha256": "c2c360381314741f4f556ce1cc1b74bcd822829b3f7ee37d402bf28775eb465e",
+      "text": "1. Text: The child cooks with an aunt.2. Me: I cook with my grandparent.3. Connection: Both children cook with family, so this is similar.The response stays close to this story and this reader's experience.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLE01",
+      "index": 2,
+      "html_sha256": "08bd057846e8910ea3ae2a726f52281bf7066f7a47bf9a5005d09e184d63f7dc",
+      "text": "Text experience: a long trip for mailMy experience: a short walk for mailResponse: Our experiences are different because the journeys are different lengths.Different does not mean better or worse; it means the experiences are not the same.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLE01",
+      "index": 3,
+      "html_sha256": "c2c360381314741f4f556ce1cc1b74bcd822829b3f7ee37d402bf28775eb465e",
+      "text": "1. Text: The child cooks with an aunt.2. Me: I cook with my grandparent.3. Connection: Both children cook with family, so this is similar.The response stays close to this story and this reader's experience.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLE01",
+      "index": 4,
+      "html_sha256": "08bd057846e8910ea3ae2a726f52281bf7066f7a47bf9a5005d09e184d63f7dc",
+      "text": "Text experience: a long trip for mailMy experience: a short walk for mailResponse: Our experiences are different because the journeys are different lengths.Different does not mean better or worse; it means the experiences are not the same.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLE01",
+      "index": 5,
+      "html_sha256": "f814166b64044057dfc98fb8dc5872a60e9f5b88edcbac7517495315ab07df7d",
+      "text": "Text detailThis reminds me of my own greetingMy experienceA connection needs a detail on both sides.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLE01",
+      "index": 6,
+      "html_sha256": "68560026349a80b54d4b06d9acc2e68019d36a5700a7ead2a0b5086a39382935",
+      "text": "In the storyIn my lifeSimilar or different with a reasonCompare one experience, not whole groups of people.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLE01",
+      "index": 7,
+      "html_sha256": "2c255920244186e8b7a6b1435045604b722115e5cf8e65cff387d0a545b3db02",
+      "text": "Named creator and sourceExact story or image clueMy respectful responseKeep creator, source, evidence and response connected.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLE01",
+      "index": 8,
+      "html_sha256": "0e0565d717bb22771b320704d58dce751b75552abcc45be675b0f2d0afa48f42",
+      "text": "Setting A clue + family eventSetting B clue + family eventSupported comparisonSettings differ, while family experiences may share features.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLE01",
+      "index": 9,
+      "html_sha256": "0e10aa90db51df0685183d14a8868c88b1047383751c788b1ac0f4846f75e782",
+      "text": "Detail I noticeCharacter or event linkIn this story, the family shares a mealDescribe exactly what this text shows.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    }
+  ],
+  "original_svg": "New models original SkillrHub deterministic SVG; baseline10preview SVGs preserved.",
+  "raster_provenance": "image-provenance.json binds the one unmodified1902Potter illustration.",
+  "render_limits": "Standalone inputs remove only responsive root style attributes (display/max-width/height:auto/margin) from10legacySVGs for Cairo; geometry/text/source literals unchanged. Prepared and literal hashes are distinct. Native/browser captures remain separate."
+}
