@@ -22,6 +22,7 @@ fs.mkdirSync(out, {recursive:true});
         try {
         const response = await page.goto(origin+'/'+item.path.replace(/index\.html$/,''), {waitUntil:'networkidle'});
         assert.equal(response.status(),200,item.code);
+        assert.equal(await page.locator('.hero .kicker').textContent(),'YEAR 10 SCIENCE',item.code+': visible year label');
         // Exercise the retained native lesson and its lazy artwork at every viewport.
         const retained = page.locator('#topic-guide');
         await retained.evaluate(e=>{e.open=true;e.querySelectorAll('details').forEach(d=>d.open=true)});

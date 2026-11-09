@@ -152,7 +152,51 @@
       "index": 0,
       "literal_html_sha256": "4957895f24668b84e1c30382f2ca3aae65b7b8aba13ccda73db4e05bba9ad059",
       "kind": "retained",
-      "description": "Natural selection sequence: four original text boxes, preserved exact literal HTML; actual hosted Chrome render required."
+      "description": "Natural selection sequence: four original text boxes, preserved exact literal HTML; actual hosted Chrome render required.",
+      "browser_render": {
+        "source_head": "8f7c38cb870949d0780621aab9e71bab53b8f4c9",
+        "source_page_path": "year10/science/ac9s10u02-evolution-natural-selection-evidence/index.html",
+        "source_page_sha256": "73b505e1dcb650caed7cae1cb462d6226d376ab6c0952c916a7aee5322503c7d",
+        "stylesheet_sha256": {
+          "style.css": "ae989b9bfe20db6ac741e2df4cc0dbeeffd3d8fcf8d8e1d0e5ffd5dd05821fae",
+          "assets/curriculum.css": "c65198923858734e005d9e6ad76d55156e8f39a3cdc8f08524e62fdda8e2d9f2",
+          "assets/year10-science-topic-v2.css": "d302a9de09d7d2c9aa6a4614c63ef576c5ba26f23664f8c01ba9de431bc49c78",
+          "assets/css/year3-science-topic-pages.css": "9f9a698f33023163f2ae4508b0fd52c82a9ceeec5ed8520daa6d181ed8e86480",
+          "assets/css/science-topic-release.css": "41284b9009408203275beb157601f7b8b870a44b6820da61bd96770c1eab280c",
+          "assets/css/year10-science-topic-pages.css": "bf3a8e47f03040efb16d6c63e35851da38ca8fc42a5ab5597b93039d8cb831a4",
+          "assets/topic-practice-link.css": "55b40419f335610abc5aa5adc3549af4c4105ea9ada9ea7f151f1d53539d47dc"
+        },
+        "source_literal_html_sha256": "4957895f24668b84e1c30382f2ca3aae65b7b8aba13ccda73db4e05bba9ad059",
+        "workflow_run": 42602021248,
+        "artifact_id": 13666755946,
+        "pngs": [
+          {
+            "file": "AC9S10U02-1440-native-1.png",
+            "sha256": "e3c31f1df5d34b24ddcfd1c66fd07c2631c817a0d6b094317fae537d3194c7a9",
+            "dimensions": [
+              745,
+              120
+            ]
+          },
+          {
+            "file": "AC9S10U02-390-native-1.png",
+            "sha256": "f83bd85dc2438077547f833ecc3bdb084010f98d32cdbf24dfec5d1280b5f450",
+            "dimensions": [
+              338,
+              224
+            ]
+          },
+          {
+            "file": "AC9S10U02-768-native-1.png",
+            "sha256": "2a5d2f4711544a0350a773c16f29b890e85d7bc60c8f30bfc653429bb42aaa16",
+            "dimensions": [
+              694,
+              155
+            ]
+          }
+        ],
+        "dependency_note": "All three actual native-flow pixels independently reviewed. Final candidate changes only outer Year10 hero label and U06 answer IDs; native flow literal and all CSS dependencies remain exact. Final-head browser rerun still required."
+      }
     }
   ],
   "hash_definitions": {

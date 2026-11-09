@@ -36,6 +36,7 @@ for item in inventory:
    expected_attributes['class']=(expected_attributes.get('class','')+' art').strip()
    assert dict(new_img.attrib)==expected_attributes,code+' retained visual identity: '+old_img.get('src')
  assert len(doc.xpath('//div[@class="steps"]/article'))==3,code+' steps'
+ assert clean(doc.xpath('//div[@class="hero"]//p[@class="kicker"]')[0])=='YEAR 10 SCIENCE',code+' visible year label'
  assert len(doc.xpath('//section[contains(@class,"tricky-questions")]/details'))==3,code+' tricky questions'
  ids=doc.xpath('//@id');assert len(ids)==len(set(ids)),code+' duplicate ids'
  for value in doc.xpath('//@*')+doc.xpath('//style/text()'):
@@ -115,7 +116,7 @@ for alias in json.loads((Q/'canonical-aliases.json').read_text()):
  assert subprocess.check_output(['git','show',base+':'+alias['preserved_redirect_path']],cwd=ROOT)==(ROOT/alias['preserved_redirect_path']).read_bytes(),'baseline compatibility redirect changed'
 u06=next(x for x in inventory if x['code']=='AC9S10U06')
 u06doc=html.fromstring((ROOT/u06['path']).read_text())
-assert len(u06doc.xpath('//div[@class="retained-teaching"]/details[@id="teaching"]//details[@id="retained-year10-periodic-answer"]'))==1,'U06 original extra FAQ relocation'
+assert len(u06doc.xpath('//div[@class="retained-teaching"]/details[@id="teaching"]//details[@id="year10-periodic-answer"]'))==1,'U06 original extra FAQ relocation'
 for forbidden in ['CNAME','index.html','assets/learning-navigation.js','data/app-question-banks.json']:
  assert not subprocess.check_output(['git','diff','--name-only',base,'--',forbidden],cwd=ROOT,text=True).strip(),forbidden+' unexpectedly changed'
 print(f'PASS 10 pages: {count} educational sections preserved; {images} image references; {disclosures} named native disclosures; exact metadata, routes and app returns.')
