@@ -1,0 +1,1084 @@
+{
+  "models": [
+    {
+      "code": "AC9EFLE02",
+      "index": 0,
+      "literal_svg_sha256": "f1a0a8f310314ef3cf8af6e7127a47c0fbc0611191b6aa4dd5cca4ec37b7abe9",
+      "prepared_svg_sha256": "fee933c07619483bb9e35ff8daed9bd9b540f49e7b094a967abaf814a18af14a",
+      "png_sha256": "8e1c464059cc642fed877becbfcf64ee05daa363c0cd3761084ee4261371c3c8",
+      "dimensions": [
+        1000,
+        411
+      ],
+      "render": "AC9EFLE02-0.png"
+    },
+    {
+      "code": "AC9EFLE03",
+      "index": 0,
+      "literal_svg_sha256": "e4dfaf5a155bfbc496b6b06936ad1a31b02d5d7d13571b167ce14da7aa5788f4",
+      "prepared_svg_sha256": "8d919694080bedaf286392532b0d789dcfe56f5d737860ac2ca26621f5d69da8",
+      "png_sha256": "628e3b5a503dff24df829a404f9eba7699fc9a29733c805e530d2e724a060c1a",
+      "dimensions": [
+        1000,
+        411
+      ],
+      "render": "AC9EFLE03-0.png"
+    },
+    {
+      "code": "AC9EFLE04",
+      "index": 0,
+      "literal_svg_sha256": "93a9cd35e2b5916ff8b76183257619e80b4fdf0cad5ccdd722941f8db4d42281",
+      "prepared_svg_sha256": "69561d605831346f17810cd6e376f7f1eb776a4710d04a6b664cc2ca641417b4",
+      "png_sha256": "61977aecee37b8f4709c336797bcf707bb0d3ac3bae380112e088c0fb0a8225b",
+      "dimensions": [
+        1000,
+        411
+      ],
+      "render": "AC9EFLE04-0.png"
+    },
+    {
+      "code": "AC9EFLE05",
+      "index": 0,
+      "literal_svg_sha256": "be77b731fe5de0c426e4fd896a7aa7747b6ff980a1acd1f44d0a11a25175907d",
+      "prepared_svg_sha256": "be77b731fe5de0c426e4fd896a7aa7747b6ff980a1acd1f44d0a11a25175907d",
+      "png_sha256": "b1dab5a52b7bebd93629d7ad6179c5ceb8b1dfa4dbd769fb6ee401ea67e0b9c3",
+      "dimensions": [
+        1000,
+        350
+      ],
+      "render": "AC9EFLE05-0.png"
+    },
+    {
+      "code": "AC9EFLE05",
+      "index": 1,
+      "literal_svg_sha256": "1efaa6d0c43fa898e41c5c3956ced6f66e2febbf72ffffc7740a159af1711f42",
+      "prepared_svg_sha256": "1efaa6d0c43fa898e41c5c3956ced6f66e2febbf72ffffc7740a159af1711f42",
+      "png_sha256": "b1dab5a52b7bebd93629d7ad6179c5ceb8b1dfa4dbd769fb6ee401ea67e0b9c3",
+      "dimensions": [
+        1000,
+        350
+      ],
+      "render": "AC9EFLE05-1.png"
+    },
+    {
+      "code": "AC9EFLE05",
+      "index": 2,
+      "literal_svg_sha256": "1efaa6d0c43fa898e41c5c3956ced6f66e2febbf72ffffc7740a159af1711f42",
+      "prepared_svg_sha256": "1efaa6d0c43fa898e41c5c3956ced6f66e2febbf72ffffc7740a159af1711f42",
+      "png_sha256": "b1dab5a52b7bebd93629d7ad6179c5ceb8b1dfa4dbd769fb6ee401ea67e0b9c3",
+      "dimensions": [
+        1000,
+        350
+      ],
+      "render": "AC9EFLE05-2.png"
+    },
+    {
+      "code": "AC9EFLE05",
+      "index": 3,
+      "literal_svg_sha256": "1efaa6d0c43fa898e41c5c3956ced6f66e2febbf72ffffc7740a159af1711f42",
+      "prepared_svg_sha256": "1efaa6d0c43fa898e41c5c3956ced6f66e2febbf72ffffc7740a159af1711f42",
+      "png_sha256": "b1dab5a52b7bebd93629d7ad6179c5ceb8b1dfa4dbd769fb6ee401ea67e0b9c3",
+      "dimensions": [
+        1000,
+        350
+      ],
+      "render": "AC9EFLE05-3.png"
+    },
+    {
+      "code": "AC9EFLE05",
+      "index": 4,
+      "literal_svg_sha256": "1efaa6d0c43fa898e41c5c3956ced6f66e2febbf72ffffc7740a159af1711f42",
+      "prepared_svg_sha256": "1efaa6d0c43fa898e41c5c3956ced6f66e2febbf72ffffc7740a159af1711f42",
+      "png_sha256": "b1dab5a52b7bebd93629d7ad6179c5ceb8b1dfa4dbd769fb6ee401ea67e0b9c3",
+      "dimensions": [
+        1000,
+        350
+      ],
+      "render": "AC9EFLE05-4.png"
+    },
+    {
+      "code": "AC9EFLE05",
+      "index": 5,
+      "literal_svg_sha256": "1efaa6d0c43fa898e41c5c3956ced6f66e2febbf72ffffc7740a159af1711f42",
+      "prepared_svg_sha256": "1efaa6d0c43fa898e41c5c3956ced6f66e2febbf72ffffc7740a159af1711f42",
+      "png_sha256": "b1dab5a52b7bebd93629d7ad6179c5ceb8b1dfa4dbd769fb6ee401ea67e0b9c3",
+      "dimensions": [
+        1000,
+        350
+      ],
+      "render": "AC9EFLE05-5.png"
+    },
+    {
+      "code": "AC9EFLE05",
+      "index": 6,
+      "literal_svg_sha256": "85486b930bee2bf4519d7f5c16b4b0997e561579272f70840afea08edca06fd7",
+      "prepared_svg_sha256": "6343e437e3c2bf09c01def976f4d944600cede5b375b5dfd3c77405073f8ce02",
+      "png_sha256": "119d249f21a5a2f5c83db189461da1b5deef400d181ef094a1032e099b087dad",
+      "dimensions": [
+        1000,
+        411
+      ],
+      "render": "AC9EFLE05-6.png"
+    },
+    {
+      "code": "AC9EFLY01",
+      "index": 0,
+      "literal_svg_sha256": "a15141d70637919992be97dc63973d369fd8f6f0e99855924d37e50cb875befc",
+      "prepared_svg_sha256": "a15141d70637919992be97dc63973d369fd8f6f0e99855924d37e50cb875befc",
+      "png_sha256": "b45d30e0a8c963985907acb35c86289bece8817f8711ae41a978378861725aa1",
+      "dimensions": [
+        1000,
+        350
+      ],
+      "render": "AC9EFLY01-0.png"
+    },
+    {
+      "code": "AC9EFLY01",
+      "index": 1,
+      "literal_svg_sha256": "14167f1e0b67455b04f76583834cc9f1a5bb5e81a8c62caa2a086b1b46e19cc2",
+      "prepared_svg_sha256": "14167f1e0b67455b04f76583834cc9f1a5bb5e81a8c62caa2a086b1b46e19cc2",
+      "png_sha256": "b45d30e0a8c963985907acb35c86289bece8817f8711ae41a978378861725aa1",
+      "dimensions": [
+        1000,
+        350
+      ],
+      "render": "AC9EFLY01-1.png"
+    },
+    {
+      "code": "AC9EFLY01",
+      "index": 2,
+      "literal_svg_sha256": "9649ffc6c931785d94d9deb17ed86ad6c2bfb929c85de9fb60b3cb76d1233baa",
+      "prepared_svg_sha256": "9649ffc6c931785d94d9deb17ed86ad6c2bfb929c85de9fb60b3cb76d1233baa",
+      "png_sha256": "a6a0fdb3756cfe75fcc3fc2f1268e1dbebefc038abe7fe97b74d6333786dfad3",
+      "dimensions": [
+        1000,
+        350
+      ],
+      "render": "AC9EFLY01-2.png"
+    },
+    {
+      "code": "AC9EFLY01",
+      "index": 3,
+      "literal_svg_sha256": "14167f1e0b67455b04f76583834cc9f1a5bb5e81a8c62caa2a086b1b46e19cc2",
+      "prepared_svg_sha256": "14167f1e0b67455b04f76583834cc9f1a5bb5e81a8c62caa2a086b1b46e19cc2",
+      "png_sha256": "b45d30e0a8c963985907acb35c86289bece8817f8711ae41a978378861725aa1",
+      "dimensions": [
+        1000,
+        350
+      ],
+      "render": "AC9EFLY01-3.png"
+    },
+    {
+      "code": "AC9EFLY01",
+      "index": 4,
+      "literal_svg_sha256": "9649ffc6c931785d94d9deb17ed86ad6c2bfb929c85de9fb60b3cb76d1233baa",
+      "prepared_svg_sha256": "9649ffc6c931785d94d9deb17ed86ad6c2bfb929c85de9fb60b3cb76d1233baa",
+      "png_sha256": "a6a0fdb3756cfe75fcc3fc2f1268e1dbebefc038abe7fe97b74d6333786dfad3",
+      "dimensions": [
+        1000,
+        350
+      ],
+      "render": "AC9EFLY01-4.png"
+    },
+    {
+      "code": "AC9EFLY01",
+      "index": 5,
+      "literal_svg_sha256": "14167f1e0b67455b04f76583834cc9f1a5bb5e81a8c62caa2a086b1b46e19cc2",
+      "prepared_svg_sha256": "14167f1e0b67455b04f76583834cc9f1a5bb5e81a8c62caa2a086b1b46e19cc2",
+      "png_sha256": "b45d30e0a8c963985907acb35c86289bece8817f8711ae41a978378861725aa1",
+      "dimensions": [
+        1000,
+        350
+      ],
+      "render": "AC9EFLY01-5.png"
+    },
+    {
+      "code": "AC9EFLY01",
+      "index": 6,
+      "literal_svg_sha256": "9649ffc6c931785d94d9deb17ed86ad6c2bfb929c85de9fb60b3cb76d1233baa",
+      "prepared_svg_sha256": "9649ffc6c931785d94d9deb17ed86ad6c2bfb929c85de9fb60b3cb76d1233baa",
+      "png_sha256": "a6a0fdb3756cfe75fcc3fc2f1268e1dbebefc038abe7fe97b74d6333786dfad3",
+      "dimensions": [
+        1000,
+        350
+      ],
+      "render": "AC9EFLY01-6.png"
+    },
+    {
+      "code": "AC9EFLY01",
+      "index": 7,
+      "literal_svg_sha256": "14167f1e0b67455b04f76583834cc9f1a5bb5e81a8c62caa2a086b1b46e19cc2",
+      "prepared_svg_sha256": "14167f1e0b67455b04f76583834cc9f1a5bb5e81a8c62caa2a086b1b46e19cc2",
+      "png_sha256": "b45d30e0a8c963985907acb35c86289bece8817f8711ae41a978378861725aa1",
+      "dimensions": [
+        1000,
+        350
+      ],
+      "render": "AC9EFLY01-7.png"
+    },
+    {
+      "code": "AC9EFLY01",
+      "index": 8,
+      "literal_svg_sha256": "9649ffc6c931785d94d9deb17ed86ad6c2bfb929c85de9fb60b3cb76d1233baa",
+      "prepared_svg_sha256": "9649ffc6c931785d94d9deb17ed86ad6c2bfb929c85de9fb60b3cb76d1233baa",
+      "png_sha256": "a6a0fdb3756cfe75fcc3fc2f1268e1dbebefc038abe7fe97b74d6333786dfad3",
+      "dimensions": [
+        1000,
+        350
+      ],
+      "render": "AC9EFLY01-8.png"
+    },
+    {
+      "code": "AC9EFLY01",
+      "index": 9,
+      "literal_svg_sha256": "c2a9f476a01b72fbdb5bbae1611ce521bf99c1b40d916cdb942a509c630bdd80",
+      "prepared_svg_sha256": "a3b249c8d41b7b1da4988f14053dc38cee0e8234effdd2e58a200f2da9d03780",
+      "png_sha256": "06db01ae9991dcf1b20d79b0397367bd28f390bbec5b4302cc9d6c68eb39c4ae",
+      "dimensions": [
+        1000,
+        411
+      ],
+      "render": "AC9EFLY01-9.png"
+    },
+    {
+      "code": "AC9EFLY02",
+      "index": 0,
+      "literal_svg_sha256": "dc63e2df1dfb491109fae788cc172e1c849fb35ace3d274a878d695c5c807b48",
+      "prepared_svg_sha256": "d3f0e63e1149a1fe567121cf0c69df46f4a109f988194d765dcf638dcdff0a71",
+      "png_sha256": "c4b268e3665c4593c73166efed814bcbc240bd4bc04acfffcffe5e6e71946d4d",
+      "dimensions": [
+        1000,
+        411
+      ],
+      "render": "AC9EFLY02-0.png"
+    },
+    {
+      "code": "AC9EFLY03",
+      "index": 0,
+      "literal_svg_sha256": "4af44922a04e7096e3d277f42a4b441eca1a3bb1719cbcd9ea8b97ba17544ef4",
+      "prepared_svg_sha256": "4af44922a04e7096e3d277f42a4b441eca1a3bb1719cbcd9ea8b97ba17544ef4",
+      "png_sha256": "bb9321f49fa9fff152d8c59c6e7a9ed8a174869c0f18a77154248b6f3c29d52e",
+      "dimensions": [
+        1000,
+        350
+      ],
+      "render": "AC9EFLY03-0.png"
+    },
+    {
+      "code": "AC9EFLY03",
+      "index": 1,
+      "literal_svg_sha256": "901da8af609510eb1a95df46f22c637f8e14fca89e394f1fa8051cc4cd3211e3",
+      "prepared_svg_sha256": "901da8af609510eb1a95df46f22c637f8e14fca89e394f1fa8051cc4cd3211e3",
+      "png_sha256": "bb9321f49fa9fff152d8c59c6e7a9ed8a174869c0f18a77154248b6f3c29d52e",
+      "dimensions": [
+        1000,
+        350
+      ],
+      "render": "AC9EFLY03-1.png"
+    },
+    {
+      "code": "AC9EFLY03",
+      "index": 2,
+      "literal_svg_sha256": "901da8af609510eb1a95df46f22c637f8e14fca89e394f1fa8051cc4cd3211e3",
+      "prepared_svg_sha256": "901da8af609510eb1a95df46f22c637f8e14fca89e394f1fa8051cc4cd3211e3",
+      "png_sha256": "bb9321f49fa9fff152d8c59c6e7a9ed8a174869c0f18a77154248b6f3c29d52e",
+      "dimensions": [
+        1000,
+        350
+      ],
+      "render": "AC9EFLY03-2.png"
+    },
+    {
+      "code": "AC9EFLY03",
+      "index": 3,
+      "literal_svg_sha256": "901da8af609510eb1a95df46f22c637f8e14fca89e394f1fa8051cc4cd3211e3",
+      "prepared_svg_sha256": "901da8af609510eb1a95df46f22c637f8e14fca89e394f1fa8051cc4cd3211e3",
+      "png_sha256": "bb9321f49fa9fff152d8c59c6e7a9ed8a174869c0f18a77154248b6f3c29d52e",
+      "dimensions": [
+        1000,
+        350
+      ],
+      "render": "AC9EFLY03-3.png"
+    },
+    {
+      "code": "AC9EFLY03",
+      "index": 4,
+      "literal_svg_sha256": "901da8af609510eb1a95df46f22c637f8e14fca89e394f1fa8051cc4cd3211e3",
+      "prepared_svg_sha256": "901da8af609510eb1a95df46f22c637f8e14fca89e394f1fa8051cc4cd3211e3",
+      "png_sha256": "bb9321f49fa9fff152d8c59c6e7a9ed8a174869c0f18a77154248b6f3c29d52e",
+      "dimensions": [
+        1000,
+        350
+      ],
+      "render": "AC9EFLY03-4.png"
+    },
+    {
+      "code": "AC9EFLY03",
+      "index": 5,
+      "literal_svg_sha256": "57860c26969f3ce7ca7a5fa80bf0e22267aecb79c39c89dcad94355470c7a660",
+      "prepared_svg_sha256": "8a0e93f57be120d54ebecb2d9a935279fe3c0946ae7b3910601906355a5a3105",
+      "png_sha256": "6539d7a4f5da72630eb045d0157b63faa351287b307563dd7fe294242103726d",
+      "dimensions": [
+        1000,
+        411
+      ],
+      "render": "AC9EFLY03-5.png"
+    },
+    {
+      "code": "AC9EFLY04",
+      "index": 0,
+      "literal_svg_sha256": "6451de42371c54f1aa84bb2c686f5f755487d4c4e3b606ab5008926c3f088ccc",
+      "prepared_svg_sha256": "5d0d7913ee332217a4fc9e836ff8f84497926550262ab9ca353ea147a144d6d4",
+      "png_sha256": "5d3c2ad57ba3b6e45e240cf5c28e5755745f5ba0a1424c9e27f4ee058c0ffcc1",
+      "dimensions": [
+        1000,
+        411
+      ],
+      "render": "AC9EFLY04-0.png"
+    },
+    {
+      "code": "AC9EFLY05",
+      "index": 0,
+      "literal_svg_sha256": "d07abd6abf898317f9e9a5535b51c895ae097f02ebcef036411f79c5f1d540ec",
+      "prepared_svg_sha256": "d07abd6abf898317f9e9a5535b51c895ae097f02ebcef036411f79c5f1d540ec",
+      "png_sha256": "f5ddfb33ea3bc4504c26186ff79df092dc1704864d89c71a32ca7c5ac5e3c1d5",
+      "dimensions": [
+        1000,
+        350
+      ],
+      "render": "AC9EFLY05-0.png"
+    },
+    {
+      "code": "AC9EFLY05",
+      "index": 1,
+      "literal_svg_sha256": "f5da96d1e118ae469ba1b4f9efbc2d41f5d50913d456397a35ed75eab365141f",
+      "prepared_svg_sha256": "f5da96d1e118ae469ba1b4f9efbc2d41f5d50913d456397a35ed75eab365141f",
+      "png_sha256": "f5ddfb33ea3bc4504c26186ff79df092dc1704864d89c71a32ca7c5ac5e3c1d5",
+      "dimensions": [
+        1000,
+        350
+      ],
+      "render": "AC9EFLY05-1.png"
+    },
+    {
+      "code": "AC9EFLY05",
+      "index": 2,
+      "literal_svg_sha256": "f5da96d1e118ae469ba1b4f9efbc2d41f5d50913d456397a35ed75eab365141f",
+      "prepared_svg_sha256": "f5da96d1e118ae469ba1b4f9efbc2d41f5d50913d456397a35ed75eab365141f",
+      "png_sha256": "f5ddfb33ea3bc4504c26186ff79df092dc1704864d89c71a32ca7c5ac5e3c1d5",
+      "dimensions": [
+        1000,
+        350
+      ],
+      "render": "AC9EFLY05-2.png"
+    },
+    {
+      "code": "AC9EFLY05",
+      "index": 3,
+      "literal_svg_sha256": "f5da96d1e118ae469ba1b4f9efbc2d41f5d50913d456397a35ed75eab365141f",
+      "prepared_svg_sha256": "f5da96d1e118ae469ba1b4f9efbc2d41f5d50913d456397a35ed75eab365141f",
+      "png_sha256": "f5ddfb33ea3bc4504c26186ff79df092dc1704864d89c71a32ca7c5ac5e3c1d5",
+      "dimensions": [
+        1000,
+        350
+      ],
+      "render": "AC9EFLY05-3.png"
+    },
+    {
+      "code": "AC9EFLY05",
+      "index": 4,
+      "literal_svg_sha256": "1efaa6d0c43fa898e41c5c3956ced6f66e2febbf72ffffc7740a159af1711f42",
+      "prepared_svg_sha256": "1efaa6d0c43fa898e41c5c3956ced6f66e2febbf72ffffc7740a159af1711f42",
+      "png_sha256": "b1dab5a52b7bebd93629d7ad6179c5ceb8b1dfa4dbd769fb6ee401ea67e0b9c3",
+      "dimensions": [
+        1000,
+        350
+      ],
+      "render": "AC9EFLY05-4.png"
+    },
+    {
+      "code": "AC9EFLY05",
+      "index": 5,
+      "literal_svg_sha256": "3d77781728acb19fc3a423417e06f049046dfe9c25c0e7bde72226febe9f20a3",
+      "prepared_svg_sha256": "3d77781728acb19fc3a423417e06f049046dfe9c25c0e7bde72226febe9f20a3",
+      "png_sha256": "76b82bc8633397415ac12922f55d9a5b048e70cf0f5ca74a248f3b0bd4b6cb90",
+      "dimensions": [
+        1000,
+        350
+      ],
+      "render": "AC9EFLY05-5.png"
+    },
+    {
+      "code": "AC9EFLY05",
+      "index": 6,
+      "literal_svg_sha256": "3aa276b72a1e4905946ffcb40d4acbf9d655be0ced1c3baf520cfd2e0fb62e33",
+      "prepared_svg_sha256": "c191783fdbdd3fb992f2925ccf8df63bf54aa79c6585377f3ac59297442f27e3",
+      "png_sha256": "02ffea946b8c2d5fd2dedd3473286878ff4eae1a611093753e9067a36b548305",
+      "dimensions": [
+        1000,
+        411
+      ],
+      "render": "AC9EFLY05-6.png"
+    },
+    {
+      "code": "AC9EFLY06",
+      "index": 0,
+      "literal_svg_sha256": "850e560343a4d7926d6aecdae5da5401550fd979ecf445c587b9353e7afa926c",
+      "prepared_svg_sha256": "10ae2cbdf9d92c9e068add4b413ad8f7c2ad113157ae5e4aac692923305baf64",
+      "png_sha256": "dcec1c8d1042785123df31b973bb10301ee7060652f76983543efdeb196f600c",
+      "dimensions": [
+        1000,
+        411
+      ],
+      "render": "AC9EFLY06-0.png"
+    }
+  ],
+  "native_models": [
+    {
+      "code": "AC9EFLE02",
+      "index": 0,
+      "html_sha256": "81628d8b0221355987e09b53d8757febd66f6f5c19b59a6928eab09dc6a387df",
+      "text": "Story moment \u2192 my response \u2192 supporting clueComplete original miniature: Niko lost a red boot in the rain. Niko looked beside the door. A neighbour found the boot and returned it. Niko put both boots inside.Event: boot missingReader: worriedClue: rain and missing bootAnother reader can choose a different event or supported response.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLE02",
+      "index": 1,
+      "html_sha256": "1ebd3f1d61cf12794e260ecb76d42a984b383482d6a03f9f3ee13986f46260cd",
+      "text": "1. Event: Niko loses a boot.2. Feeling: I felt worried.3. Clue: It was raining and the boot was missing.4. Later: I felt relieved when it came back.A response tells what you feel or think and what in the story caused it.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLE02",
+      "index": 2,
+      "html_sha256": "b6010b8570839eec5a4246ae102c52ff2b9580eec66415e1cb223a05eb3afd14",
+      "text": "Action: gives away the last pieceThought: the character is caringBecause: the friend was hungryThe action is evidence for the reader's thought.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLE02",
+      "index": 3,
+      "html_sha256": "1ebd3f1d61cf12794e260ecb76d42a984b383482d6a03f9f3ee13986f46260cd",
+      "text": "1. Event: Niko loses a boot.2. Feeling: I felt worried.3. Clue: It was raining and the boot was missing.4. Later: I felt relieved when it came back.A response tells what you feel or think and what in the story caused it.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLE02",
+      "index": 4,
+      "html_sha256": "b6010b8570839eec5a4246ae102c52ff2b9580eec66415e1cb223a05eb3afd14",
+      "text": "Action: gives away the last pieceThought: the character is caringBecause: the friend was hungryThe action is evidence for the reader's thought.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLE02",
+      "index": 5,
+      "html_sha256": "562d5e0ede17dcc6fe91795752ff2ec152e4efab3750a2dc3c84dc87b0bb04ec",
+      "text": "Draw the eventShow the feeling or thoughtSay or write the reasonEach part helps another person understand the reader's response.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLE02",
+      "index": 6,
+      "html_sha256": "cded9f75356d878f27f73e25d31b88ab813f141dd686453a49610e7d315bfa0d",
+      "text": "Story: character and eventMy life: connected experienceMy response to the storyConnect the experiences without mixing them up.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLE03",
+      "index": 0,
+      "html_sha256": "d4eae9cb7aa8d7b59e76b426feaafe3704edb78b4f2163b72d2e1b80cdc101ff",
+      "text": "Story sentences and a story poemComplete original story: A girl called Mina found a shining shell. Mina took it home and listened to the ocean sound. Then she returned it to the beach.A sleepy bird woke in the light.It stretched its wings, then rose in flight.It flew across the morning sky.It landed in a tree nearby.Original SkillrHub four-line story poem.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLE03",
+      "index": 1,
+      "html_sha256": "03284b525734035a85d67bbc5babdcf69bfd3e8d1d3df19070e2e0e42c1fb469",
+      "text": "Character: MinaBeginning: finds a shellEvents: listens, then returns itEnding: shell is back at the beachCharacters are who; events are what happens; beginning and ending show the story's boundaries.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLE03",
+      "index": 2,
+      "html_sha256": "998af7fbdedc69332ff304bb198ece46545e900f53f4a654d1c24028c59adaf6",
+      "text": "Text type: story poemCharacter: sleepy birdBeginning event: wakesEnding event: reaches the treeA poem can tell a story even when it uses lines and rhythm.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLE03",
+      "index": 3,
+      "html_sha256": "03284b525734035a85d67bbc5babdcf69bfd3e8d1d3df19070e2e0e42c1fb469",
+      "text": "Character: MinaBeginning: finds a shellEvents: listens, then returns itEnding: shell is back at the beachCharacters are who; events are what happens; beginning and ending show the story's boundaries.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLE03",
+      "index": 4,
+      "html_sha256": "998af7fbdedc69332ff304bb198ece46545e900f53f4a654d1c24028c59adaf6",
+      "text": "Text type: story poemCharacter: sleepy birdBeginning event: wakesEnding event: reaches the treeA poem can tell a story even when it uses lines and rhythm.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLE03",
+      "index": 5,
+      "html_sha256": "45c657f72e54139f93d3bbf5091ed9e15929ba5e05d6e81f02198270ccac032f",
+      "text": "Once upon a time, a fox found a red hatA girl called Amira found a tiny keyBeginning signalBoth examples signal a beginning in a different way.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLE03",
+      "index": 6,
+      "html_sha256": "4eab3a63e28ce696e2b802c31400efb532d5646a9f907a65cae04a93b335b778",
+      "text": "Named sourcePattern in moment 1Pattern returns in moment 2Observe, locate and describe a pattern in this text only.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLE03",
+      "index": 7,
+      "html_sha256": "a17dccef9db7b899828bb16be89bc3785ef60a6695f3656bd73876a5f5c5346a",
+      "text": "Poem line: bird wakesPoem line: bird fliesPoem line: bird landsLines and rhythm can carry a beginning-to-ending story.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLE03",
+      "index": 8,
+      "html_sha256": "c3e41525aa60179ab595f670cef890218089614029f0995a19889353e3e79dd3",
+      "text": "Character typeMagical or repeated eventPossible lessonUse features from the selected text, not a compulsory list.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLE04",
+      "index": 0,
+      "html_sha256": "10beccdc5eb2cb46dbdce439530ba5f27f959bc5b17d9af4872618b469f73cde",
+      "text": "Original rhyme \u00b7 adult supplies the spoken modelTap your knee, count to three.Clap your hands and sway with me.Beat 1 \u00b7 Tap yourBeat 2 \u00b7 kneeBeat 3 \u00b7 count toBeat 4 \u00b7 threeBeat 1 \u00b7 Clap yourBeat 2 \u00b7 hands andBeat 3 \u00b7 sway withBeat 4 \u00b7 meFour evenly spaced beats in each slow modelled line. Words within a beat need not have equal durations; the cards are a possible model, not fixed musical notation. Quiet taps or another comfortable action can replace the named actions.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLE04",
+      "index": 1,
+      "html_sha256": "e3f6a7caa3d45d94b3986b8a3f46212b0d6a31dec129743e6bc82c711179ed21",
+      "text": "Beat: tap \u2022 tap \u2022 tap \u2022 tapEnd words: three / meAction: tap knees, then clap handsThe beat is the steady pulse; the rhyme is the matching end sound.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLE04",
+      "index": 2,
+      "html_sha256": "a04b86bf98ad6c5b039664513cf82d863b6999e7fe9b8439a6068dc5dd1e86be",
+      "text": "red bird \u2192 tapblue bird \u2192 taphop-hop-stop \u2192 clap-clap-freezeThe words, beats and actions repeat in the same order.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLE04",
+      "index": 3,
+      "html_sha256": "e3f6a7caa3d45d94b3986b8a3f46212b0d6a31dec129743e6bc82c711179ed21",
+      "text": "Beat: tap \u2022 tap \u2022 tap \u2022 tapEnd words: three / meAction: tap knees, then clap handsThe beat is the steady pulse; the rhyme is the matching end sound.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLE04",
+      "index": 4,
+      "html_sha256": "a04b86bf98ad6c5b039664513cf82d863b6999e7fe9b8439a6068dc5dd1e86be",
+      "text": "red bird \u2192 tapblue bird \u2192 taphop-hop-stop \u2192 clap-clap-freezeThe words, beats and actions repeat in the same order.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLE04",
+      "index": 5,
+      "html_sha256": "7ffb0b257d927d2721132b28be72ebad1448bf90eb0c4009fd5781e25b694c61",
+      "text": "ListenTap or swaySay and move togetherEach action marks an audible feature.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLE04",
+      "index": 6,
+      "html_sha256": "73f278a3e2c391a96103098ddc15d8d20adfb6f67dfa613d74014429bca5abc7",
+      "text": "Teacher modelsChildren echoClass recites togetherCopy a small part, then connect the parts.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLE04",
+      "index": 7,
+      "html_sha256": "ce7981f0a442c42c14afa7c902fc07b2024c1a44d65db3943c120d693bc037d6",
+      "text": "Named poet and sourceListen for a featureRespond within permissionAttend to this creator, this source and this audible feature.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLE05",
+      "index": 0,
+      "html_sha256": "3fdbf5251d27372bfccf0fe8dd40eb6c53b53cb64fdc58ce7b26930476678f4d",
+      "text": "Three event drawings for the supplied Tama storyComplete original story: Tama planted a seed in a pot. Tama watered the growing shoot each day. Finally, a yellow flower opened. Tama smiled at the flower.1 \u00b7 Plant the seed2 \u00b7 Water the shoot3 \u00b7 Flower opens",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLE05",
+      "index": 1,
+      "html_sha256": "3597d1a121884b1d9c06acc99dd9ce261f936f13382e9f4db3cd1a07fa9e9a26",
+      "text": "First: Tama plants the seed.Next: Tama waters the shoot.Finally: A yellow flower opens.A retell keeps the important events and their order.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLE05",
+      "index": 2,
+      "html_sha256": "7cb47766ff50c084b06b51dd8cc5a9ac6678be89e2f28ef470be90889fa3d621",
+      "text": "Keep: Tama plants and watersChange: yellow flower \u2192 tall bean vineNew ending: Tama climbs beside the vine in playAn adaptation changes a clear part but keeps enough of the original to be recognised.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLE05",
+      "index": 3,
+      "html_sha256": "3597d1a121884b1d9c06acc99dd9ce261f936f13382e9f4db3cd1a07fa9e9a26",
+      "text": "First: Tama plants the seed.Next: Tama waters the shoot.Finally: A yellow flower opens.A retell keeps the important events and their order.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLE05",
+      "index": 4,
+      "html_sha256": "7cb47766ff50c084b06b51dd8cc5a9ac6678be89e2f28ef470be90889fa3d621",
+      "text": "Keep: Tama plants and watersChange: yellow flower \u2192 tall bean vineNew ending: Tama climbs beside the vine in playAn adaptation changes a clear part but keeps enough of the original to be recognised.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLE05",
+      "index": 5,
+      "html_sha256": "87830dca2564bb35344c4d09c4de26dfc3a5b0759a7b7ab118e342ac1a710741",
+      "text": "Actual event pictures for this storyComplete original story: Tama planted a seed in a pot. Tama watered the growing shoot each day. Finally, a yellow flower opened. Tama smiled at the flower.1 \u00b7 Plant the seed2 \u00b7 Water the shoot3 \u00b7 Flower opens",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLE05",
+      "index": 6,
+      "html_sha256": "dbcaea532d1383762e3741c76b0ab3ebccc444c11f19e59a2e390dc5b9bbd73e",
+      "text": "Story eventDrawingRole-play poseDifferent modes can show the same event.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLE05",
+      "index": 7,
+      "html_sha256": "1a33c39b94a7250c3a7413d129ce1f29e0df1d5ce562a81b5ed19e95004b9741",
+      "text": "1. Plant2. Water3. Flower opensArrows show event order from first to finally.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLE05",
+      "index": 8,
+      "html_sha256": "87830dca2564bb35344c4d09c4de26dfc3a5b0759a7b7ab118e342ac1a710741",
+      "text": "Actual event pictures for this storyComplete original story: Tama planted a seed in a pot. Tama watered the growing shoot each day. Finally, a yellow flower opened. Tama smiled at the flower.1 \u00b7 Plant the seed2 \u00b7 Water the shoot3 \u00b7 Flower opens",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLE05",
+      "index": 9,
+      "html_sha256": "87830dca2564bb35344c4d09c4de26dfc3a5b0759a7b7ab118e342ac1a710741",
+      "text": "Actual event pictures for this storyComplete original story: Tama planted a seed in a pot. Tama watered the growing shoot each day. Finally, a yellow flower opened. Tama smiled at the flower.1 \u00b7 Plant the seed2 \u00b7 Water the shoot3 \u00b7 Flower opens",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLE05",
+      "index": 10,
+      "html_sha256": "87830dca2564bb35344c4d09c4de26dfc3a5b0759a7b7ab118e342ac1a710741",
+      "text": "Actual event pictures for this storyComplete original story: Tama planted a seed in a pot. Tama watered the growing shoot each day. Finally, a yellow flower opened. Tama smiled at the flower.1 \u00b7 Plant the seed2 \u00b7 Water the shoot3 \u00b7 Flower opens",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLE05",
+      "index": 11,
+      "html_sha256": "87830dca2564bb35344c4d09c4de26dfc3a5b0759a7b7ab118e342ac1a710741",
+      "text": "Actual event pictures for this storyComplete original story: Tama planted a seed in a pot. Tama watered the growing shoot each day. Finally, a yellow flower opened. Tama smiled at the flower.1 \u00b7 Plant the seed2 \u00b7 Water the shoot3 \u00b7 Flower opens",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY01",
+      "index": 0,
+      "html_sha256": "53c803284216fd2183f984cbfaf064ddac251735751d11f17b7995f25c8cb604",
+      "text": "Invented covers with their inside evidenceHen\u2019s HatFarm FactsInvented story coverInformation coverHen\u2019s Hat \u00b7 inside: Hen found a hat. She wore it to visit Cow.Farm Facts \u00b7 inside: Hens are birds. They lay eggs.Paper instructions: 1. Place a square sheet flat. 2. Fold one side to meet the opposite side.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY01",
+      "index": 1,
+      "html_sha256": "32999ae80990d25a778177ff398ab6c2b168d538ee81a62f6be2febf7234a09d",
+      "text": "Story cover \u2192 character + adventure \u2192 entertainFact cover \u2192 photograph + labels \u2192 informCheck inside: events or facts?A cover gives clues, but readers also check what the text contains.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY01",
+      "index": 2,
+      "html_sha256": "084c2c5d93e527cb4978faacaeca1e360d0bcd9b592191afb67b83be5805173d",
+      "text": "Clue: running figureClue: arrow to doorwayPurpose: show the way outEveryday texts can communicate through symbols as well as words.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY01",
+      "index": 3,
+      "html_sha256": "32999ae80990d25a778177ff398ab6c2b168d538ee81a62f6be2febf7234a09d",
+      "text": "Story cover \u2192 character + adventure \u2192 entertainFact cover \u2192 photograph + labels \u2192 informCheck inside: events or facts?A cover gives clues, but readers also check what the text contains.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY01",
+      "index": 4,
+      "html_sha256": "084c2c5d93e527cb4978faacaeca1e360d0bcd9b592191afb67b83be5805173d",
+      "text": "Clue: running figureClue: arrow to doorwayPurpose: show the way outEveryday texts can communicate through symbols as well as words.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY01",
+      "index": 5,
+      "html_sha256": "23df9a25ab1b0bea08482563ed5a6500075ae40561960103546bd909eb17aae7",
+      "text": "Notice featureUnderstand messageKnow what to doA symbol feature carries a practical message.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY01",
+      "index": 6,
+      "html_sha256": "65ec6f03a54c74371b6f222d69da0afafd099402e163bca531f445b1dd84053b",
+      "text": "Cover clueStory or Informative predictionInside evidencePredict first, then confirm.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY01",
+      "index": 7,
+      "html_sha256": "468bfbdc43e71d7fdebd3b9a26f35a4f3799ad9a964339de1b630bf24de0fd95",
+      "text": "Shared topic: farm animalsStory \u2192 entertainFact page \u2192 informTopic answers what it is about; purpose answers why it was made.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY01",
+      "index": 8,
+      "html_sha256": "a98f4b24daf8c329996ab36070f149558068e961654215853a6625a63cf5c40b",
+      "text": "Invented covers with their inside evidenceHen\u2019s HatFarm FactsInvented story coverInformation coverHen\u2019s Hat \u00b7 inside: Hen found a hat. She wore it to visit Cow.Farm Facts \u00b7 inside: Hens are birds. They lay eggs.Paper instructions: 1. Place a square sheet flat. 2. Fold one side to meet the opposite side.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY01",
+      "index": 9,
+      "html_sha256": "25e20551ecea781e99f81182e2892b682bca74fd1a5412443a92730201ce3d49",
+      "text": "Original classroom exit-symbol exampleClassroom exit-sign exampleEXIT",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY01",
+      "index": 10,
+      "html_sha256": "a98f4b24daf8c329996ab36070f149558068e961654215853a6625a63cf5c40b",
+      "text": "Invented covers with their inside evidenceHen\u2019s HatFarm FactsInvented story coverInformation coverHen\u2019s Hat \u00b7 inside: Hen found a hat. She wore it to visit Cow.Farm Facts \u00b7 inside: Hens are birds. They lay eggs.Paper instructions: 1. Place a square sheet flat. 2. Fold one side to meet the opposite side.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY01",
+      "index": 11,
+      "html_sha256": "25e20551ecea781e99f81182e2892b682bca74fd1a5412443a92730201ce3d49",
+      "text": "Original classroom exit-symbol exampleClassroom exit-sign exampleEXIT",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY01",
+      "index": 12,
+      "html_sha256": "a98f4b24daf8c329996ab36070f149558068e961654215853a6625a63cf5c40b",
+      "text": "Invented covers with their inside evidenceHen\u2019s HatFarm FactsInvented story coverInformation coverHen\u2019s Hat \u00b7 inside: Hen found a hat. She wore it to visit Cow.Farm Facts \u00b7 inside: Hens are birds. They lay eggs.Paper instructions: 1. Place a square sheet flat. 2. Fold one side to meet the opposite side.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY01",
+      "index": 13,
+      "html_sha256": "25e20551ecea781e99f81182e2892b682bca74fd1a5412443a92730201ce3d49",
+      "text": "Original classroom exit-symbol exampleClassroom exit-sign exampleEXIT",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY01",
+      "index": 14,
+      "html_sha256": "a98f4b24daf8c329996ab36070f149558068e961654215853a6625a63cf5c40b",
+      "text": "Invented covers with their inside evidenceHen\u2019s HatFarm FactsInvented story coverInformation coverHen\u2019s Hat \u00b7 inside: Hen found a hat. She wore it to visit Cow.Farm Facts \u00b7 inside: Hens are birds. They lay eggs.Paper instructions: 1. Place a square sheet flat. 2. Fold one side to meet the opposite side.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY01",
+      "index": 15,
+      "html_sha256": "25e20551ecea781e99f81182e2892b682bca74fd1a5412443a92730201ce3d49",
+      "text": "Original classroom exit-symbol exampleClassroom exit-sign exampleEXIT",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY02",
+      "index": 0,
+      "html_sha256": "8b9395374395f39538d4646da1cd7ba9730e909ee5d48c846363ffe10e2db832",
+      "text": "A relevant listening turnAri: \u201cMy seed has two leaves.\u201dMia: \u201cAre the leaves big or small?\u201dMia waits for Ari to finish and responds to the stated leaves. Understanding can be shown without a compulsory body position.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY02",
+      "index": 1,
+      "html_sha256": "a7f98ce275a26b3205177b805adffee845e89d62d43c03fd20c6a304feb8399d",
+      "text": "Peer idea: two leavesListen and waitConnected idea: taller stemA useful contribution grows from the idea already shared.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY02",
+      "index": 2,
+      "html_sha256": "1376ec4459764de2adf70ec4d1de29fe73393b8203071d3247d9399e72625158",
+      "text": "Let the speaker finishAttend in a suitable wayRecall one message detailUnderstanding, not one required body pose, is the evidence of listening.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY02",
+      "index": 3,
+      "html_sha256": "67e09e62265bfc115b54f30a1d63f076e6a71e3af08a648e5ef856a18bde7459",
+      "text": "Nearby partner: quiet and clearWhole class: reaches the backOutdoors: clear across the spaceVolume serves the listeners and place.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY02",
+      "index": 4,
+      "html_sha256": "417442013e36e5a2e0401122fbd355bf239a07a975fb7058b41276dedc8e9db3",
+      "text": "Customer requestShopkeeper responseNew play ideaEach spoken turn responds to the shared play situation.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY02",
+      "index": 5,
+      "html_sha256": "936db1b0bae6f3d77265502939a32fa457e2ccc87e5b13aeb5563f68fdfcfd4c",
+      "text": "First: pick up blue cardNext: place beside bookCheck the resultListen to the whole direction before acting.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY03",
+      "index": 0,
+      "html_sha256": "616c9edf5677c7c958e6374cd3b1f6dd3a69672de5745e670a36ea8f23d191fe",
+      "text": "One animal topic, two different text jobsStory: the frog king\u2019s invitationInformation: life stages\u201cCome to tea, Moon!\u201deggstadpoleadult frogSimplified stages; not to scale.Original imaginative miniature: The frog king invited the moon to tea. He set a tiny cup on a lily pad and waved to the moon.Information text: Frogs hatch from eggs. A tadpole is a young stage of a frog. Many tadpoles eat algae and other plant material; diets vary. As a tadpole develops towards an adult frog, it grows legs and its tail is gradually absorbed.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY03",
+      "index": 1,
+      "html_sha256": "28a6664d1c61f3d20f62c2efd4ad69716146ae7d0ceea17aa2c2ccb6fd587c9f",
+      "text": "Real-world fact: frog eggsImagined event: frog king fliesUse content and purposeThe shared topic does not decide the text type.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY03",
+      "index": 2,
+      "html_sha256": "de4983fcfe7a3679d8d2e68636971c2fe16e04546e87cfcf730e2d635b77f25d",
+      "text": "Task: What does a tadpole eat?Choose: frog factsUse: food heading and factSelect the text that can supply the needed information.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY03",
+      "index": 3,
+      "html_sha256": "ec3ff00c512c5e10be0afd95f18c23a70c906b304f41dad74a3eb6adecb982bf",
+      "text": "Story image: develops an eventInformation image: labels stagesCompare purposeImage style alone does not decide the text type; its job in the text matters.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY03",
+      "index": 4,
+      "html_sha256": "01da1c1cd42786dbb3247e10dff2c57d17e7582e52e8361c019a7196baab6dd9",
+      "text": "One animal topic, two different text jobsStory: the frog king\u2019s invitationInformation: life stages\u201cCome to tea, Moon!\u201deggstadpoleadult frogSimplified stages; not to scale.Original imaginative miniature: The frog king invited the moon to tea. He set a tiny cup on a lily pad and waved to the moon.Information text: Frogs hatch from eggs. A tadpole is a young stage of a frog. Many tadpoles eat algae and other plant material; diets vary. As a tadpole develops towards an adult frog, it grows legs and its tail is gradually absorbed.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY03",
+      "index": 5,
+      "html_sha256": "01da1c1cd42786dbb3247e10dff2c57d17e7582e52e8361c019a7196baab6dd9",
+      "text": "One animal topic, two different text jobsStory: the frog king\u2019s invitationInformation: life stages\u201cCome to tea, Moon!\u201deggstadpoleadult frogSimplified stages; not to scale.Original imaginative miniature: The frog king invited the moon to tea. He set a tiny cup on a lily pad and waved to the moon.Information text: Frogs hatch from eggs. A tadpole is a young stage of a frog. Many tadpoles eat algae and other plant material; diets vary. As a tadpole develops towards an adult frog, it grows legs and its tail is gradually absorbed.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY03",
+      "index": 6,
+      "html_sha256": "01da1c1cd42786dbb3247e10dff2c57d17e7582e52e8361c019a7196baab6dd9",
+      "text": "One animal topic, two different text jobsStory: the frog king\u2019s invitationInformation: life stages\u201cCome to tea, Moon!\u201deggstadpoleadult frogSimplified stages; not to scale.Original imaginative miniature: The frog king invited the moon to tea. He set a tiny cup on a lily pad and waved to the moon.Information text: Frogs hatch from eggs. A tadpole is a young stage of a frog. Many tadpoles eat algae and other plant material; diets vary. As a tadpole develops towards an adult frog, it grows legs and its tail is gradually absorbed.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY03",
+      "index": 7,
+      "html_sha256": "01da1c1cd42786dbb3247e10dff2c57d17e7582e52e8361c019a7196baab6dd9",
+      "text": "One animal topic, two different text jobsStory: the frog king\u2019s invitationInformation: life stages\u201cCome to tea, Moon!\u201deggstadpoleadult frogSimplified stages; not to scale.Original imaginative miniature: The frog king invited the moon to tea. He set a tiny cup on a lily pad and waved to the moon.Information text: Frogs hatch from eggs. A tadpole is a young stage of a frog. Many tadpoles eat algae and other plant material; diets vary. As a tadpole develops towards an adult frog, it grows legs and its tail is gradually absorbed.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY04",
+      "index": 0,
+      "html_sha256": "97e67a5ddee09f1a2efa51bc262a696d5d3047e961cab053f07f7d5b7b1869e1",
+      "text": "Two-line print for supported readingSam sat.A cat ran.sat \u00b7 /s/ /a/ /t/cat \u00b7 /k/ /a/ /t/ran \u00b7 /r/ /a/ /n/The slash forms represent spoken sounds, not letter names. Use taught short-vowel sounds. Begin left to right, then return to A on line two.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY04",
+      "index": 1,
+      "html_sha256": "97d99bb6e398b1816ea8b2c9d49ddd6b3110df7e00f8a4a02557f32efb254aef",
+      "text": "Start at first wordOne point per spoken wordReturn to next lineThe pointer and spoken words travel together.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY04",
+      "index": 2,
+      "html_sha256": "37436a80cd40c275005bca876423a1f7a48d20222ada5389fdacd35e8bf538c8",
+      "text": "Decodable word: look and blendKnown frequent word: recognise and verifyReread for meaningUse the strategy that fits the word, then monitor the whole sentence.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY04",
+      "index": 3,
+      "html_sha256": "d78aec88c855a8bad26b26d67588776beeb9a7f41ae62ed797378a562200b65f",
+      "text": "Notice: that did not make senseRepair: look, blend or askReread and confirmStopping to repair is part of successful reading.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY04",
+      "index": 4,
+      "html_sha256": "97e67a5ddee09f1a2efa51bc262a696d5d3047e961cab053f07f7d5b7b1869e1",
+      "text": "Two-line print for supported readingSam sat.A cat ran.sat \u00b7 /s/ /a/ /t/cat \u00b7 /k/ /a/ /t/ran \u00b7 /r/ /a/ /n/The slash forms represent spoken sounds, not letter names. Use taught short-vowel sounds. Begin left to right, then return to A on line two.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY04",
+      "index": 5,
+      "html_sha256": "97e67a5ddee09f1a2efa51bc262a696d5d3047e961cab053f07f7d5b7b1869e1",
+      "text": "Two-line print for supported readingSam sat.A cat ran.sat \u00b7 /s/ /a/ /t/cat \u00b7 /k/ /a/ /t/ran \u00b7 /r/ /a/ /n/The slash forms represent spoken sounds, not letter names. Use taught short-vowel sounds. Begin left to right, then return to A on line two.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY04",
+      "index": 6,
+      "html_sha256": "97e67a5ddee09f1a2efa51bc262a696d5d3047e961cab053f07f7d5b7b1869e1",
+      "text": "Two-line print for supported readingSam sat.A cat ran.sat \u00b7 /s/ /a/ /t/cat \u00b7 /k/ /a/ /t/ran \u00b7 /r/ /a/ /n/The slash forms represent spoken sounds, not letter names. Use taught short-vowel sounds. Begin left to right, then return to A on line two.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY05",
+      "index": 0,
+      "html_sha256": "e65f1341897ef0ce18b5442e4ccb2008758d305cc79064d25a5cd13f34d56021",
+      "text": "Predict first; check against the complete textThe Missing BootOne boot and muddy pawprintsComplete original miniature: One boot was missing from the mat. Muddy pawprints led past the other boot. A child came round the corner carrying the missing boot. \u201cI am taking it to clean it,\u201d the child said.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY05",
+      "index": 1,
+      "html_sha256": "fefe076da94c006e50be756515df96745923a35dd8b1b45afc18d0565ae66f44",
+      "text": "First important ideaNext connected ideaFinal important ideaThe prompts support important ideas in a meaningful order.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY05",
+      "index": 2,
+      "html_sha256": "eb33b76258f604ee9096dc5548b29f5f2736fb36d102431996f4c3d3554090d2",
+      "text": "Purpose questionListen for target detailAnswer with evidenceThe purpose tells the listener which detail matters now.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY05",
+      "index": 3,
+      "html_sha256": "0d9dfb8c11ba9a0122dedd44b60fbe62c367f971c9f2de0de19b047ae834ba32",
+      "text": "Topic: bees move pollenFact 1: pollen sticksFact 2: bees visit other flowersKey facts help explain what the text is mainly teaching.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY05",
+      "index": 4,
+      "html_sha256": "882bbb8b6c3306873617b3ac10297aa1b5641b553ca74e5da964c61d1477bb4d",
+      "text": "Named creator or sourceApproved events in orderEvidence-based retellKeep the named source and its approved events together.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY05",
+      "index": 5,
+      "html_sha256": "dd73faf808fe5064a689ece3779e360a23ede40b283771eb4a1a30aeb6643471",
+      "text": "Title: The Missing BootCover clue: muddy pawprintsPrediction: a dog moved itA prediction is an evidence-based idea, not any guess.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY05",
+      "index": 6,
+      "html_sha256": "26e81f3654578a6f7b75acfe38155db1783b3a4ee075b7a76fd71be5058006a8",
+      "text": "Predict first; check against the complete textThe Missing BootOne boot and muddy pawprintsComplete original miniature: One boot was missing from the mat. Muddy pawprints led past the other boot. A child came round the corner carrying the missing boot. \u201cI am taking it to clean it,\u201d the child said.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY05",
+      "index": 7,
+      "html_sha256": "26e81f3654578a6f7b75acfe38155db1783b3a4ee075b7a76fd71be5058006a8",
+      "text": "Predict first; check against the complete textThe Missing BootOne boot and muddy pawprintsComplete original miniature: One boot was missing from the mat. Muddy pawprints led past the other boot. A child came round the corner carrying the missing boot. \u201cI am taking it to clean it,\u201d the child said.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY05",
+      "index": 8,
+      "html_sha256": "26e81f3654578a6f7b75acfe38155db1783b3a4ee075b7a76fd71be5058006a8",
+      "text": "Predict first; check against the complete textThe Missing BootOne boot and muddy pawprintsComplete original miniature: One boot was missing from the mat. Muddy pawprints led past the other boot. A child came round the corner carrying the missing boot. \u201cI am taking it to clean it,\u201d the child said.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY05",
+      "index": 9,
+      "html_sha256": "8b44ca5a1fe63b4dedfe16df15108174aea1f52a254ad9d4cdd4489f8078254d",
+      "text": "Actual ordered event pictures for a picture-card retellComplete original story: Tama planted a seed in a pot. Tama watered the growing shoot each day. Finally, a yellow flower opened. Tama smiled at the flower.1 \u00b7 Plant the seed2 \u00b7 Water the shoot3 \u00b7 Flower opens",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY05",
+      "index": 10,
+      "html_sha256": "d57676f42359e77c72ce10871a5ba80e2aacdd413a320c9e8eb1cd570271f661",
+      "text": "Original cover clue for the rain predictionCover clue: clouds and an umbrella",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY06",
+      "index": 0,
+      "html_sha256": "8f7a7daa5523b80448e4bc7d7bd6105988cb4da393111f36b576703113c6c4eb",
+      "text": "Read, compare and explain the editDraft: the cat satEdited: The cat sat.Sound positions: /k/ \u00b7 /a/ \u00b7 /t/Letters in cat: c \u00b7 a \u00b7 tThe first capital and final full stop mark the telling sentence. Reread the complete message.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY06",
+      "index": 1,
+      "html_sha256": "bfd83f407330975f469eff34cb262e5a10b480c0b6a08f8e9e86b77b1a9f8177",
+      "text": "Say: My seed grewWrite known and sounded wordsCheck capital and full stopMeaning comes first; writing choices preserve the idea.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY06",
+      "index": 2,
+      "html_sha256": "6dd3029c41eb6eba0a00d566736a379c7dc3c7dc2cdc005f40f07eb77b8937ec",
+      "text": "Text eventDrawing or digital imageMy thought or feelingEach mode contributes to the same response.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY06",
+      "index": 3,
+      "html_sha256": "5b48f1b1e301b0afafd99809412c80cb0fbc038178ccc00f360087814060f715",
+      "text": "Learner reads intentionBoth track the draftChoose one helpful editReading back reveals whether the draft carries the intended meaning.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY06",
+      "index": 4,
+      "html_sha256": "4022d762ae0d96a408280b7d7e1c1b2b18508a75287f7d0e50a47e2b37ded6c0",
+      "text": "Circle upper-case SFull stop closes sentence oneCircle upper-case IA sentence boundary has a beginning and an ending.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY06",
+      "index": 5,
+      "html_sha256": "8f7a7daa5523b80448e4bc7d7bd6105988cb4da393111f36b576703113c6c4eb",
+      "text": "Read, compare and explain the editDraft: the cat satEdited: The cat sat.Sound positions: /k/ \u00b7 /a/ \u00b7 /t/Letters in cat: c \u00b7 a \u00b7 tThe first capital and final full stop mark the telling sentence. Reread the complete message.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY06",
+      "index": 6,
+      "html_sha256": "8f7a7daa5523b80448e4bc7d7bd6105988cb4da393111f36b576703113c6c4eb",
+      "text": "Read, compare and explain the editDraft: the cat satEdited: The cat sat.Sound positions: /k/ \u00b7 /a/ \u00b7 /t/Letters in cat: c \u00b7 a \u00b7 tThe first capital and final full stop mark the telling sentence. Reread the complete message.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    },
+    {
+      "code": "AC9EFLY06",
+      "index": 7,
+      "html_sha256": "8f7a7daa5523b80448e4bc7d7bd6105988cb4da393111f36b576703113c6c4eb",
+      "text": "Read, compare and explain the editDraft: the cat satEdited: The cat sat.Sound positions: /k/ \u00b7 /a/ \u00b7 /t/Letters in cat: c \u00b7 a \u00b7 tThe first capital and final full stop mark the telling sentence. Reread the complete message.",
+      "render_scope": "Hosted browser element screenshots; every code/instance at1440px; all expanded content overflow checked at1440/768/390."
+    }
+  ],
+  "original_svg": "New models original SkillrHub deterministic SVG; baseline10preview SVGs preserved.",
+  "render_limits": "Standalone inputs remove only responsive root style attributes (display/max-width/height:auto/margin) from10legacySVGs for Cairo; geometry/text/source literals unchanged. Prepared and literal hashes are distinct. Native/browser captures remain separate."
+}

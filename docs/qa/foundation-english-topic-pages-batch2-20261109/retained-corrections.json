@@ -1,0 +1,58 @@
+[
+  {
+    "code": "AC9EFLY02",
+    "section": "Explain and apply",
+    "before": "Wait until the speaker finishes, face them and listen for one detail you can respond to.",
+    "after": "Wait until the speaker finishes, attend in a comfortable way and listen for one detail you can respond to.",
+    "reason": "Do not impose one facing/eye-contact/still-hands posture as listening evidence"
+  },
+  {
+    "code": "AC9EFLY02",
+    "section": "Try these",
+    "before": "Ears ready • eyes or body facing the speaker • hands still enough to listen",
+    "after": "Attend in a comfortable way • give time to finish • show understanding through a relevant response",
+    "reason": "Do not impose one facing/eye-contact/still-hands posture as listening evidence"
+  },
+  {
+    "code": "AC9EFLY04",
+    "section": "Explain and apply",
+    "before": "Read mud and mad. Which word fits The pig sat in the ____?",
+    "after": "The printed sentence is “The pig sat in the mud.” An adult says mad instead of mud. Which letter shows the mismatch?",
+    "reason": "Supply actual printed vowel rather than choose by plausible context"
+  },
+  {
+    "code": "AC9EFLY04",
+    "section": "Explain and apply",
+    "before": "Mud fits the sentence meaning and the printed vowel. This mirrors IXL-style short-vowel discrimination while keeping context in view.",
+    "after": "The printed middle letter is u, not a. Blend mud using the taught sounds, then reread the sentence to check its meaning. Context checks the reading; it does not replace looking through the printed word.",
+    "reason": "Align repair explanation with actual print and decoding-first method"
+  },
+  {
+    "code": "AC9EFLY05",
+    "section": "Australian Curriculum elaborations",
+    "before": "Select the key frog facts, arrange them in a sensible order and relate the information aloud without adding an unsupported idea.",
+    "after": "Select the key bee facts, arrange them in a sensible order and relate the information aloud without adding an unsupported idea.",
+    "reason": "Align strong-answer species with actual bee model"
+  },
+  {
+    "code": "AC9EFLY05",
+    "section": "Explain and apply",
+    "before": "Close your eyes while an adult reads a forest sentence.",
+    "after": "An adult reads the supplied forest sentence. You may keep your eyes open and describe, gesture or draw the scene.",
+    "reason": "Avoid required eye-closing/internal imagery as evidence"
+  },
+  {
+    "code": "AC9EFLY06",
+    "section": "Australian Curriculum elaborations",
+    "before": "Say the intended sentence, draft it, segment and spell its CVC word, then add the sentence boundary marks and reread the complete text.",
+    "after": "Say the intended sentence, draft it, use taught spelling knowledge, then add the sentence boundary marks and reread the complete text. For a separate CVC model, say “My cat sat.” and segment cat as /k/ /a/ /t/.",
+    "reason": "My seed grew lacks the intended initial single-letter short-vowel target; add explicit cat model"
+  },
+  {
+    "code": "AC9EFLY06",
+    "section": "Explain and apply",
+    "before": "In Sam fed the cat, point to the capital beginning, the name capital and the ending mark.",
+    "after": "In “Sam fed the cat.”, point to the capital beginning and the ending mark. Explain how the same S also starts the name Sam.",
+    "reason": "Display required full stop and distinguish one capital doing two jobs"
+  }
+]
