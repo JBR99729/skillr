@@ -6,6 +6,8 @@ Research/plan PASS; complete independent source review PASS. The guide set prese
 
 Independent blind responses, visible teaching-support checks, the targeted A-extra final evidence repair and source reports are saved beside this file. These distinctions are intentional: visible worked support is not labelled as independent blind performance. LA08’s specific primary elaboration retrieval limit is explicit in the research report.
 
-Actual hosted desktop/tablet/phone checks, all 21 SVG and 24 native model captures, working LA05 navigation and separate final rendered assurance are still pending in this initial record. Do not treat source approval as final rendered approval.
+Hosted run [42773144997](https://github.com/JBR99729/skillr/actions/runs/42773144997) passed all 30 desktop/tablet/phone visits, ten JavaScript smokes, native disclosures, mobile keyboard diagram panning and all 24 LA05 navigation links at each size. The verified artifact contains 21 SVG and 24 native model captures plus 60 viewport frames. Complete independent content/output review passed. Separate final assurance is recorded in the final review files. Earlier failed and cancelled attempts remain documented.
+
+Evidence index: `browser-evidence.json`, `browser-results.json`, `browser-capture-pins.json`, `independent-content-review.md`, `independent-hosted-visual-review.json`, and `validation.md`.
 
 Scope is public teaching pages. App banks, worksheets and fixed Teacher Slides are unchanged. Main is not changed by this next-batch review branch.

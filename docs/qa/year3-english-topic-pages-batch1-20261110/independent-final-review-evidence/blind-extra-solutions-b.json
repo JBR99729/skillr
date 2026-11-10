@@ -1,0 +1,29 @@
+{
+ "reviewer":"Fresh final independent AI reviewer /root/y3_final_review",
+ "phase":"Extra-card criteria saved before opening hidden Check and explain answers or full source",
+ "disclosure_limit":"extras-blind-b.html includes visible worked support and several answers in ordinary paragraph text: LA06 dogs/run transfer; LA08 carried/will carry transfer; LA10 untidy and its meaning, and redraw supplied in the task. These exact examples cannot be claimed as freshly blind-solved. I independently checked their correctness after encountering their visible support. Unanswered new card/fresh checks below were solved before their hidden answers.",
+ "LA09_actual_pixel_solutions": {
+  "AC9E3LA09-guided-1":"Actual GATE_TRY PNG shows two similarly sized figures widely separated, facing outwards away from each other; arms are folded and mouths straight. Two observations such as wide spacing + opposite outward directions can support a cautious interpretation of distance or lack of engagement. Neither disagreement, strangers, hostility nor cause of waiting is proved.",
+  "AC9E3LA09-guided-2":"Actual LIBRARY_TRY PNG: left close view makes the large smiling face and forward eyes prominent. Right wide view shows much smaller May in profile, two shelf rows and substantial floor/space. Close view draws attention to expression; wide view supplies setting/space. Does not require all readers to feel one emotion.",
+  "AC9E3LA09-guided-3":"Actual ARRIVAL PNG: caption We finally arrived supplies arrival. Brown patches are visible on both figures' clothing and one lower limb each; their identification as mud is conventional visual/contextual interpretation supported by the image's accessible description. Map has a conspicuous zigzag split. They fell into the creek is not established; no fall or creek is depicted.",
+  "actual_other_figures":"MEETING: similarly sized facing figures with curved smiling mouths, arms toward one yellow box, relative closeness. Cooperative relationship possible, friendship history unproved. GATE_MODEL: one figure much larger, pointing arm, dotted lines explicitly marking gaze between high and low figures; unequal power possible, age/perspective also possible. VIEWER: close forward face versus small profile facing outward in broad empty panel supports framing/gaze comparison; loneliness possible, not guaranteed.",
+  "fresh_creation_criteria":"Caption The friends found the box fixes friendship and finding. Far-apart offer versus close shared reaching can suggest offering/cooperation and different distance. Drawing must exhibit its claimed two changes; box contents, past events or motives remain unknown absent added evidence."
+ },
+ "LA06": {
+  "cards":"1 The small rabbit / is. 2 The rabbits beside the pond / are. 3 The basket of leaves / rests (repair rest; basket controls). 4 Mina and Jo / carry (repair carries; coordinated two names). 5 the wind / blew; the children / were reading. While the dog slept, the children painted: dependent While the dog slept needs its independent partner.",
+  "fresh_check":"While the bell rang, the children were packing. The bag of books rests by the door. Pairs: the bell/rang; the children/were packing; the bag of books/rests. Children takes past were; singular bag takes present rests."
+ },
+ "LA07": {
+  "cards":"opened doing: Fen opens box; said saying: reports speech; remembered thinking: recalls key; loved feeling: fondness for ribbon; had relating: key's handle feature. Is in Here it is identifies/presents the key in this context.",
+  "fresh_check":"carried doing; said saying; remembered thinking; disliked feeling; had relating (two handles). Is heavy in speech also relates tray to a description. Recognise extra valid relating example rather than reject it."
+ },
+ "LA08": {
+  "cards":"Each morning Jo waters the plants. Yesterday Jo watered the plants and went home. Tomorrow Jo will water the plants. Recount: Yesterday we made a sign. We put it by the bed and carried the tools home. Waters marks singular present habit, watered/carried regular past, went irregular past, will water future group; put unchanged written form interpreted via yesterday and surrounding past forms.",
+  "fresh_check":"Jo carried it home replaces carry for the second yesterday event. Will play is the whole future group. Tomorrow makes the deliberate change from past caught/carried to future plan clear."
+ },
+ "LA10": {
+  "cards":"The card is 9 centimetres long and its edge strip is 3 millimetres wide. Story characters: Dot the duck and frog; setting noon beside pond; plot lost feather, frog found it, Dot put it in nest. Feather light means low weight (feather is supporting clue; sentence without broader context could also permit pale-coloured, so do not overstate exclusivity). Need light to see means illumination. Redraw: re- means again. The helpful clue showed us the path uses help+-ful as an adjective meaning it helps.",
+  "fresh_check":"The label is 7 centimetres long. Setting: at night in a tent. Plot includes Bo losing a torch and finding it in a bag. Bright torch means giving strong light, supported by lit the tent; bright idea means clever/useful idea, supported by idea. Bo will rewrite the label uses re- for again."
+ },
+ "visual_limit":"These are Inkscape-generated PNG pixel inspections, not browser layout or learner observations. All actual served model images and relevant responsive frames still require review. Preserved creek map not yet supplied as pixels. No final PASS."
+}

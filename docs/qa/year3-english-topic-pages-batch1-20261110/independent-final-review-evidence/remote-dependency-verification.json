@@ -1,0 +1,222 @@
+{
+  "reviewer_type": "AI",
+  "reviewer": "/root/y3_final_review",
+  "checked_utc": "2026-11-10T06:48:58.939603+00:00",
+  "remote_pr": 988,
+  "remote_pr_head_confirmed_by": "GitHub get_pr_info plus git ls-remote refs/heads/year3-english-topic-pages-batch1-20261110",
+  "head": "8ce8f83559b5cef45ea65a9c24ec252d41285504",
+  "remote_tree": "88925be7ac4b96897b4039fc84b15fa09419fbfe",
+  "local_committed_tree": "88925be7ac4b96897b4039fc84b15fa09419fbfe",
+  "pins_count": 23,
+  "all_match": true,
+  "pins": [
+    {
+      "path": "assets/css/foundation-english-topic-pages.css",
+      "remote_git_blob_sha": "d6150a46301092e099ae182d357d8629134e6136",
+      "remote_sha256": "e6864419fb7478108ae0bf76f3e46f5cb33a27e86784856b4419343f5cac9346",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "bytes": 6178
+    },
+    {
+      "path": "assets/css/science-topic-release.css",
+      "remote_git_blob_sha": "6a6bb91383d29dedf2ffb1cac54f09d40875e7a0",
+      "remote_sha256": "41284b9009408203275beb157601f7b8b870a44b6820da61bd96770c1eab280c",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "bytes": 209
+    },
+    {
+      "path": "assets/css/year1-english-topic-pages.css",
+      "remote_git_blob_sha": "77c24d315e64aa270729e9d25da6a0b188f83fa8",
+      "remote_sha256": "ac8b008c723d1a3b53d9770337d8f47b2487b8e7a53d8aad0c94e6d53f3530f2",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "bytes": 2145
+    },
+    {
+      "path": "assets/css/year3-english-topic-pages-batch1.css",
+      "remote_git_blob_sha": "41049463263d60812de4ee42657b1074be4d5ae2",
+      "remote_sha256": "8f7fe93de14185e618ceebf4e3337cea4945ec6dae146662abc9a2862dedb81d",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "bytes": 2921
+    },
+    {
+      "path": "assets/css/year3-science-topic-pages.css",
+      "remote_git_blob_sha": "9bc058ff23a17af8e0e720270c1b02a26035257d",
+      "remote_sha256": "9f9a698f33023163f2ae4508b0fd52c82a9ceeec5ed8520daa6d181ed8e86480",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "bytes": 8721
+    },
+    {
+      "path": "assets/curriculum.css",
+      "remote_git_blob_sha": "7382c6d8e5feb5f1f022617d0c24f7d2662ae4d9",
+      "remote_sha256": "c65198923858734e005d9e6ad76d55156e8f39a3cdc8f08524e62fdda8e2d9f2",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "bytes": 25387
+    },
+    {
+      "path": "assets/learning-navigation.js",
+      "remote_git_blob_sha": "314f0d6c9a2ac17cd39b1462e15519dec7de1ea6",
+      "remote_sha256": "89e543a284bcf8b0539fb7cf8dbfd713fd37cb33124d715ddf28bbf01fe563b8",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "bytes": 3721
+    },
+    {
+      "path": "assets/report-issue.js",
+      "remote_git_blob_sha": "7f96576f3b3b4cdfd26c06b6dbccc6b7718dbea8",
+      "remote_sha256": "50f7f758183d698fbe2002f67ccfc73ced626664feafce157f8aef2c44aa536b",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "bytes": 3484
+    },
+    {
+      "path": "assets/topic-practice-link.css",
+      "remote_git_blob_sha": "ee6bba366d28e3488a4605ecb16bc24671b58862",
+      "remote_sha256": "55b40419f335610abc5aa5adc3549af4c4105ea9ada9ea7f151f1d53539d47dc",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "bytes": 1912
+    },
+    {
+      "path": "docs/qa/year3-english-topic-pages-batch1-20261110/inventory.json",
+      "remote_git_blob_sha": "500e1cf684e1110f2cb9ae93672618efb699fc78",
+      "remote_sha256": "7c48c61fa24a7ea8a7a4954849b340cccd39ad0d7ac6c7d098cf6b0c08f588bf",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "bytes": 5988
+    },
+    {
+      "path": "pwa-register.js",
+      "remote_git_blob_sha": "a6722b570107fdb5b7c434eed55e135b407533fb",
+      "remote_sha256": "ce15b45896dc2ff29e83cc0cb4ca6c98bc3e9bf4dc5b17b72009c4ab3707d22d",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "bytes": 6198
+    },
+    {
+      "path": "scripts/qa_year3_english_topic_pages_batch1_browser.cjs",
+      "remote_git_blob_sha": "c30ac74f1037faf656b3c9066e739ee34734d194",
+      "remote_sha256": "98b9e38d63956c44ec91ff359a20f7557b4b433f1e22b018a202e5eb90e66afe",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "bytes": 13684
+    },
+    {
+      "path": "style.css",
+      "remote_git_blob_sha": "08cc59e74479fce7b164a1420b620fb85d735c66",
+      "remote_sha256": "ae989b9bfe20db6ac741e2df4cc0dbeeffd3d8fcf8d8e1d0e5ffd5dd05821fae",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "bytes": 105418
+    },
+    {
+      "path": "year3/english/ac9e3la01-that-cooperation-with-others-depends-on-shared-understanding-of/index.html",
+      "remote_git_blob_sha": "d635ffb0f8a1ac2b6e5f7eadb3acb6383403785a",
+      "remote_sha256": "1421be4321ee0680345ec0684ed22b359ff7227fa40e014fe1d606844c685387",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "bytes": 32929
+    },
+    {
+      "path": "year3/english/ac9e3la02-how-the-language-of-evaluation-and-emotion-such-as-modal/index.html",
+      "remote_git_blob_sha": "a4834ef1ffa00ccaf3bbb2178983e9a520660d45",
+      "remote_sha256": "9b9cbaeaf745f77541df8cb448175731a2e4cd8876ee30d1129558a87ee05a33",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "bytes": 31920
+    },
+    {
+      "path": "year3/english/ac9e3la03-how-texts-across-the-curriculum-use-different-language-features/index.html",
+      "remote_git_blob_sha": "2312d3fa2194b720d322b901bb0d061cf9f04c86",
+      "remote_sha256": "6f5dafd84be451020efa2a6ba9621778d9b43d4e8353cbe90fd5013926e7ac73",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "bytes": 36876
+    },
+    {
+      "path": "year3/english/ac9e3la04-that-paragraphs-are-a-key-organisational-feature-of-the-stages/index.html",
+      "remote_git_blob_sha": "774f2e1a020fc588b454681e9c98de91124f3489",
+      "remote_sha256": "7ff1a93292263ddcf2ebb93242cff651934173840f6ef6b8e54e724b1f471572",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "bytes": 31772
+    },
+    {
+      "path": "year3/english/ac9e3la05-the-purpose-of-layout-features-in-print-and-digital-texts/index.html",
+      "remote_git_blob_sha": "12f18fa02a304ca6b2a03c741fcdc18d7a6b9f18",
+      "remote_sha256": "145d4426ddccc0d549acda7d6278a9d536698e6e7546869d639e077017f7a97e",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "bytes": 40460
+    },
+    {
+      "path": "year3/english/ac9e3la06-that-a-clause-is-a-unit-of-grammar-usually-containing/index.html",
+      "remote_git_blob_sha": "b8ae4bba2c82a7638630f8b1e07de14870b28cb0",
+      "remote_sha256": "a12aca7ac41e23bc6fc6f5e4b0cf182282a35dfc0d3f2a10c9dd09e22288c9be",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "bytes": 27793
+    },
+    {
+      "path": "year3/english/ac9e3la07-how-verbs-represent-different-processes-for-doing-feeling/index.html",
+      "remote_git_blob_sha": "374c9d432bb8251f02f7e377856365866f9b00c7",
+      "remote_sha256": "0743ade7e0ee8209f1fe03ca45d6798fbe7a678ec98120e1d9ec980c5a32deef",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "bytes": 28031
+    },
+    {
+      "path": "year3/english/ac9e3la08-that-verbs-are-anchored-in-time-through-tense/index.html",
+      "remote_git_blob_sha": "b00f6b45028990ce97b220c8318dcf61c4817785",
+      "remote_sha256": "ddd38bc8da50dc7f7064a97798739a067f735e0f4b41ee9b04016a78b4061ac8",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "bytes": 26920
+    },
+    {
+      "path": "year3/english/ac9e3la09-how-images-extend-the-meaning-of-a-text/index.html",
+      "remote_git_blob_sha": "b65ce86450da2fd383d2033c15d40de7ea312993",
+      "remote_sha256": "a2b314c0717084dfb96f4d05c1499f61c21f4ff24e370342821d3021e752d8c1",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "bytes": 52722
+    },
+    {
+      "path": "year3/english/ac9e3la10-extend-topic-specific-and-technical-vocabulary-and-know-that/index.html",
+      "remote_git_blob_sha": "b3cb36e4e2b0959aef61faeaa9a6e1751ff84574",
+      "remote_sha256": "3fb421782fd130386e6aa0ec9070b2518750eb379e4c697de8e35d64da88a274",
+      "matches_pinned_blob": true,
+      "matches_pinned_sha256": true,
+      "matches_local_bytes": true,
+      "bytes": 29498
+    }
+  ],
+  "note": "Evidence-only commits may change branch head without changing these teaching/render dependencies; compare actual23 bytes before reusing this evidence. No approval of production deployment inferred."
+}

@@ -33,7 +33,7 @@
     "code": "AC9E3LA09",
     "classification": "Presentation accessibility improvement",
     "repair": "Existing map figure made focusable and horizontally scrollable like the other diagrams; original SVG geometry/text unchanged.",
-    "status": "SOURCE CHECK PASSED; actual mobile keyboard/scroll check pending hosted browser"
+    "status": "CLOSED \u2014 actual hosted mobile keyboard panning passed in run42773144997; original geometry preserved"
   },
   {
     "id": "OPTIONAL-LA07-HEADING",
@@ -48,6 +48,6 @@
     "classification": "Navigation interaction stability",
     "finding": "Inherited smooth hash movement/hover translation caused unstable sequential pointer navigation in hosted desktop/phone checks.",
     "repair": "Scoped immediate hash jumps and stationary hover geometry for worked menu links, preserving feedback/focus styles.",
-    "status": "REPAIRED; real-pointer regression at three widths pending"
+    "status": "CLOSED \u2014 all24 real pointer clicks passed at1440/768/390 in run42773144997"
   }
 ]

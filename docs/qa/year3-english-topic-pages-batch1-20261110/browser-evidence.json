@@ -5,7 +5,7 @@
   },
   "source_diagram_stimuli": "Six exact authored LA09 SVGs were rendered with Inkscape at1080px width for independent visual-response solving. Standalone graphic evidence is separate from served browser layout.",
   "required_hosted_scope": "10pages at1440/768/390 with JavaScript disabled; JS smokes, native answers, all24LA05 navigation links at each size, all21SVG +24native model captures, keyboard phone diagram panning and overflow.",
-  "hosted_status": "Initial and Node pointer failures preserved; rAF attempt cancelled; scoped LA05 motion-repair run pending",
+  "hosted_status": "PASS: successful actual artifact; independent affected-image closure recorded separately",
   "initial_run": {
     "id": 42770850475,
     "head": "8ce8f83559b5cef45ea65a9c24ec252d41285504",
@@ -33,5 +33,20 @@
       1440,
       390
     ]
+  },
+  "successful_run": {
+    "id": 42773144997,
+    "head": "e34dc1790ad9712d41d9b8a66ef52259728fdd5d",
+    "complete_tree": "701273a431e7608b8efe9e0e8015f9e1caee3cfb",
+    "artifact": 13743295327,
+    "zip_sha256": "77749c988509da1d0f48a012e6ecb9f6f42f359a979015fa479c9e53007acbe8",
+    "github_digest_matched": true,
+    "model_PNGs": 45,
+    "viewport_PNGs": 60,
+    "total_PNGs": 105,
+    "problems": [],
+    "raw_results": "browser-results.json",
+    "png_pins": "browser-capture-pins.json",
+    "pixel_comparison": "browser-pixel-comparison.json"
   }
 }

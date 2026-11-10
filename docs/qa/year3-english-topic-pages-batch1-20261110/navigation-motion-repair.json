@@ -13,5 +13,16 @@
   "css_after_sha256": "190301deb356366cd41a678a40562b4c8a56dcdd54cac2002dbd6d8ea0db87cd",
   "transitive_dependency_added": "assets/css/site-theme.css, unchanged; no nested imports/URLs",
   "assertions": "Same24 real pointer clicks, exact destination hash and visible target checks at each viewport; unchanged Node quiet/deadline guard",
-  "rerun": "PENDING"
+  "rerun": {
+    "run": 42773144997,
+    "head": "e34dc1790ad9712d41d9b8a66ef52259728fdd5d",
+    "conclusion": "success",
+    "real_pointer_links_per_width": 24,
+    "widths": [
+      1440,
+      768,
+      390
+    ],
+    "problems": []
+  }
 }
