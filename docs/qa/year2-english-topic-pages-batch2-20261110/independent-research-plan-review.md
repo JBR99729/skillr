@@ -1,0 +1,11 @@
+# Independent research and plan review — Year 2 English batch 2
+
+**PASS — ready to draft AC9E2LE01–LE05 and AC9E2LY01–LY05 public Topic Guides.** All ten scopes, three-focus plans and 50 retained labels were checked against exact baseline originals and actual source-method evidence. Reference `13606ed2485957dd3d823a866a295860f9f8bbdd0eb27ac6c67b2ae38b300395` and baseline `e6619543f91b72669dc7d9ca4cea69d378bdd335` match. Exact input/page hashes and per-code requirements are recorded in the JSON.
+
+All 79 current research/SOP files independently match complete current root and six subtree metadata listings; all35 accepted byte/SHA256/Gitblob triples match. Relevant retained methods and late corrections were read, including new Year2 actual-task follow-ups and source/corpus notes. Unchanged accepted evidence is reused, without treating original analytical questions as new external questions or rereading whole historical banks merely to meet counts.
+
+The plan supplies complete original same-section texts, poem/refrain, discussion/direction cards, editable drafts and comparison materials. Required narrow repairs are LE04 steady-pulse versus word-rhythm wording, LY03 form/purpose shorthand, and LY04 print-first repair plus flexible observed phrasing. Actual learner production, discussion, reading and digital creation remain distinct from identifying an answer.
+
+Specific literature preparation is concrete: exact Grimm version premises, the recurring guide in Cooee Mittigar, an actual lawful Are We There Yet? outback spread, actual landscape wording/glossary and the attributed Open Your Heart to Country author reading. The reviewer independently reopened the exact Grimm premises, primary Penguin page, seven-page journey/visual-literacy teacher notes and full ABC written author reading. No full modern book, source illustration or watched/heard media is claimed. Adult-staged lawful book pages, approved home-language model and actual recipe video precede dependent discussion; no cultural imitation, assumed local translation or required private disclosure.
+
+No material research blocker remains. Final all-content review and a fresh separate final risk/render review are pending. This approves evidence and a proposed public unscored teaching plan, not app banks, scored products, pupil/human validation, attainment or publication.
