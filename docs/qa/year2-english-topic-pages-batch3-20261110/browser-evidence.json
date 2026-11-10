@@ -7,7 +7,7 @@
     "error": "Chromium process_singleton_posix.cc socket() failed: Operation not permitted (1); crashpad ptrace Operation not permitted (1)",
     "meaning": "No page/layout/interaction result was observed locally."
   },
-  "fallback": "Scoped GitHub-hosted browser QA, pending actual run and downloaded artifact inspection.",
+  "fallback": "Actual hosted Chrome run completed; downloaded ZIP digest and results checked. See hosted and frames records.",
   "inputs": [
     {
       "path": "scripts/qa_year2_english_topic_pages_batch3_browser.cjs",
@@ -19,5 +19,916 @@
       "bytes": 1884,
       "sha256": "43763380fd4e0e1b764d262831416d17e58a1d98837f022064b22299e53d5560"
     }
-  ]
+  ],
+  "hosted": {
+    "run_id": 42755195623,
+    "url": "https://github.com/JBR99729/skillr/actions/runs/42755195623",
+    "head_sha": "d18b243cd63e430739b51cacce94e3971c2f2c9a",
+    "complete_tree": "21a0169dfae28c0df1c3d353f6491d3635195784",
+    "conclusion": "success",
+    "artifact_id": 13734967988,
+    "zip_sha256": "3518aca0b95de6b3bba48e319fa18dc67fecfbb4f966ede34843dcd67154e209",
+    "github_artifact_digest_matched": true,
+    "results_sha256": "fdc81df183e276f5f5dd7887f8b15ab36294a4a06c324976d47ac43f94dbf31a",
+    "observed_results": {
+      "pages": 7,
+      "viewports": [
+        1440,
+        768,
+        390
+      ],
+      "javascriptDisabled": true,
+      "javascriptEnabledSmoke": 7,
+      "keyboardAnswers": true,
+      "keyboardPhoneDiagramPan": true,
+      "results": [
+        {
+          "code": "AC9E2LY06",
+          "width": 1440,
+          "overflow": false,
+          "broken": [],
+          "main": 1,
+          "heading": 1,
+          "app": 1,
+          "button": {
+            "x": 1167.765625,
+            "y": 925.359375,
+            "width": 260.234375,
+            "height": 62.640625,
+            "right": 1428,
+            "bottom": 988
+          }
+        },
+        {
+          "code": "AC9E2LY07",
+          "width": 1440,
+          "overflow": false,
+          "broken": [],
+          "main": 1,
+          "heading": 1,
+          "app": 1,
+          "button": {
+            "x": 1167.765625,
+            "y": 925.359375,
+            "width": 260.234375,
+            "height": 62.640625,
+            "right": 1428,
+            "bottom": 988
+          }
+        },
+        {
+          "code": "AC9E2LY08",
+          "width": 1440,
+          "overflow": false,
+          "broken": [],
+          "main": 1,
+          "heading": 1,
+          "app": 1,
+          "button": {
+            "x": 1167.765625,
+            "y": 925.359375,
+            "width": 260.234375,
+            "height": 62.640625,
+            "right": 1428,
+            "bottom": 988
+          }
+        },
+        {
+          "code": "AC9E2LY09",
+          "width": 1440,
+          "overflow": false,
+          "broken": [],
+          "main": 1,
+          "heading": 1,
+          "app": 1,
+          "button": {
+            "x": 1167.765625,
+            "y": 925.359375,
+            "width": 260.234375,
+            "height": 62.640625,
+            "right": 1428,
+            "bottom": 988
+          }
+        },
+        {
+          "code": "AC9E2LY10",
+          "width": 1440,
+          "overflow": false,
+          "broken": [],
+          "main": 1,
+          "heading": 1,
+          "app": 1,
+          "button": {
+            "x": 1167.765625,
+            "y": 925.359375,
+            "width": 260.234375,
+            "height": 62.640625,
+            "right": 1428,
+            "bottom": 988
+          }
+        },
+        {
+          "code": "AC9E2LY11",
+          "width": 1440,
+          "overflow": false,
+          "broken": [],
+          "main": 1,
+          "heading": 1,
+          "app": 1,
+          "button": {
+            "x": 1167.765625,
+            "y": 925.359375,
+            "width": 260.234375,
+            "height": 62.640625,
+            "right": 1428,
+            "bottom": 988
+          }
+        },
+        {
+          "code": "AC9E2LY12",
+          "width": 1440,
+          "overflow": false,
+          "broken": [],
+          "main": 1,
+          "heading": 1,
+          "app": 1,
+          "button": {
+            "x": 1167.765625,
+            "y": 925.359375,
+            "width": 260.234375,
+            "height": 62.640625,
+            "right": 1428,
+            "bottom": 988
+          }
+        },
+        {
+          "code": "AC9E2LY06",
+          "width": 768,
+          "overflow": false,
+          "broken": [],
+          "main": 1,
+          "heading": 1,
+          "app": 1,
+          "button": {
+            "x": 495.765625,
+            "y": 925.359375,
+            "width": 260.234375,
+            "height": 62.640625,
+            "right": 756,
+            "bottom": 988
+          }
+        },
+        {
+          "code": "AC9E2LY07",
+          "width": 768,
+          "overflow": false,
+          "broken": [],
+          "main": 1,
+          "heading": 1,
+          "app": 1,
+          "button": {
+            "x": 495.765625,
+            "y": 925.359375,
+            "width": 260.234375,
+            "height": 62.640625,
+            "right": 756,
+            "bottom": 988
+          }
+        },
+        {
+          "code": "AC9E2LY08",
+          "width": 768,
+          "overflow": false,
+          "broken": [],
+          "main": 1,
+          "heading": 1,
+          "app": 1,
+          "button": {
+            "x": 495.765625,
+            "y": 925.359375,
+            "width": 260.234375,
+            "height": 62.640625,
+            "right": 756,
+            "bottom": 988
+          }
+        },
+        {
+          "code": "AC9E2LY09",
+          "width": 768,
+          "overflow": false,
+          "broken": [],
+          "main": 1,
+          "heading": 1,
+          "app": 1,
+          "button": {
+            "x": 495.765625,
+            "y": 925.359375,
+            "width": 260.234375,
+            "height": 62.640625,
+            "right": 756,
+            "bottom": 988
+          }
+        },
+        {
+          "code": "AC9E2LY10",
+          "width": 768,
+          "overflow": false,
+          "broken": [],
+          "main": 1,
+          "heading": 1,
+          "app": 1,
+          "button": {
+            "x": 495.765625,
+            "y": 925.359375,
+            "width": 260.234375,
+            "height": 62.640625,
+            "right": 756,
+            "bottom": 988
+          }
+        },
+        {
+          "code": "AC9E2LY11",
+          "width": 768,
+          "overflow": false,
+          "broken": [],
+          "main": 1,
+          "heading": 1,
+          "app": 1,
+          "button": {
+            "x": 495.765625,
+            "y": 925.359375,
+            "width": 260.234375,
+            "height": 62.640625,
+            "right": 756,
+            "bottom": 988
+          }
+        },
+        {
+          "code": "AC9E2LY12",
+          "width": 768,
+          "overflow": false,
+          "broken": [],
+          "main": 1,
+          "heading": 1,
+          "app": 1,
+          "button": {
+            "x": 495.765625,
+            "y": 925.359375,
+            "width": 260.234375,
+            "height": 62.640625,
+            "right": 756,
+            "bottom": 988
+          }
+        },
+        {
+          "code": "AC9E2LY06",
+          "width": 390,
+          "overflow": false,
+          "broken": [],
+          "main": 1,
+          "heading": 1,
+          "app": 1,
+          "button": {
+            "x": 127.765625,
+            "y": 928.71875,
+            "width": 250.234375,
+            "height": 59.28125,
+            "right": 378,
+            "bottom": 988
+          }
+        },
+        {
+          "code": "AC9E2LY07",
+          "width": 390,
+          "overflow": false,
+          "broken": [],
+          "main": 1,
+          "heading": 1,
+          "app": 1,
+          "button": {
+            "x": 127.765625,
+            "y": 928.71875,
+            "width": 250.234375,
+            "height": 59.28125,
+            "right": 378,
+            "bottom": 988
+          }
+        },
+        {
+          "code": "AC9E2LY08",
+          "width": 390,
+          "overflow": false,
+          "broken": [],
+          "main": 1,
+          "heading": 1,
+          "app": 1,
+          "button": {
+            "x": 127.765625,
+            "y": 928.71875,
+            "width": 250.234375,
+            "height": 59.28125,
+            "right": 378,
+            "bottom": 988
+          }
+        },
+        {
+          "code": "AC9E2LY09",
+          "width": 390,
+          "overflow": false,
+          "broken": [],
+          "main": 1,
+          "heading": 1,
+          "app": 1,
+          "button": {
+            "x": 127.765625,
+            "y": 928.71875,
+            "width": 250.234375,
+            "height": 59.28125,
+            "right": 378,
+            "bottom": 988
+          }
+        },
+        {
+          "code": "AC9E2LY10",
+          "width": 390,
+          "overflow": false,
+          "broken": [],
+          "main": 1,
+          "heading": 1,
+          "app": 1,
+          "button": {
+            "x": 127.765625,
+            "y": 928.71875,
+            "width": 250.234375,
+            "height": 59.28125,
+            "right": 378,
+            "bottom": 988
+          }
+        },
+        {
+          "code": "AC9E2LY11",
+          "width": 390,
+          "overflow": false,
+          "broken": [],
+          "main": 1,
+          "heading": 1,
+          "app": 1,
+          "button": {
+            "x": 127.765625,
+            "y": 928.71875,
+            "width": 250.234375,
+            "height": 59.28125,
+            "right": 378,
+            "bottom": 988
+          }
+        },
+        {
+          "code": "AC9E2LY12",
+          "width": 390,
+          "overflow": false,
+          "broken": [],
+          "main": 1,
+          "heading": 1,
+          "app": 1,
+          "button": {
+            "x": 127.765625,
+            "y": 928.71875,
+            "width": 250.234375,
+            "height": 59.28125,
+            "right": 378,
+            "bottom": 988
+          }
+        }
+      ],
+      "problems": []
+    }
+  },
+  "frames": [
+    {
+      "filename": "AC9E2LY06-1440-lesson.png",
+      "dimensions": [
+        1440,
+        1000
+      ],
+      "sha256": "37750ae37744999a7defe329d53d044bebb4dc860eba5a0d2608304f01e6dd50"
+    },
+    {
+      "filename": "AC9E2LY06-1440-native-1.png",
+      "dimensions": [
+        1042,
+        77
+      ],
+      "sha256": "7cbbc402946ca2d282315a1ce2341a798c521931040c4ed02b8449665051aa23"
+    },
+    {
+      "filename": "AC9E2LY06-1440-native-2.png",
+      "dimensions": [
+        1042,
+        85
+      ],
+      "sha256": "f915fe47ff37030124c604dda48e6cffa3b5da42e5af3f03a1f345f2b347ff8e"
+    },
+    {
+      "filename": "AC9E2LY06-1440-retained-1.png",
+      "dimensions": [
+        720,
+        297
+      ],
+      "sha256": "6ddc1688061c26a575089c2914fe88d5fe30ec34753cce65f76e1ec00f0f4e3d"
+    },
+    {
+      "filename": "AC9E2LY06-1440-top.png",
+      "dimensions": [
+        1440,
+        1000
+      ],
+      "sha256": "af628f65985a2c0b0f5a8e169daf4dd10bd0f1241be1e970772170bbac522ff4"
+    },
+    {
+      "filename": "AC9E2LY06-390-lesson.png",
+      "dimensions": [
+        390,
+        1000
+      ],
+      "sha256": "bf75009aef8f698cae11a78853c90342fbd9a117736810a2f3c952aa39c0acd5"
+    },
+    {
+      "filename": "AC9E2LY06-390-top.png",
+      "dimensions": [
+        390,
+        1000
+      ],
+      "sha256": "b9f5a4a48c22560969a24cb3144cae8c16e56d019e303b38fcd25447d8499609"
+    },
+    {
+      "filename": "AC9E2LY06-768-lesson.png",
+      "dimensions": [
+        768,
+        1000
+      ],
+      "sha256": "0ab8d1704ea81841e7dce903562f8d15692aafd85da8a9c955de0f53df824715"
+    },
+    {
+      "filename": "AC9E2LY06-768-top.png",
+      "dimensions": [
+        768,
+        1000
+      ],
+      "sha256": "004955104edb27761777f8047e85f7ce539227b1bd6df0b742f19914d844701a"
+    },
+    {
+      "filename": "AC9E2LY07-1440-lesson.png",
+      "dimensions": [
+        1440,
+        1000
+      ],
+      "sha256": "d3721c71ea0e875ccf1bbbc8edf1b60af2cb363a9d824659c095f2edbcca8a0b"
+    },
+    {
+      "filename": "AC9E2LY07-1440-native-1.png",
+      "dimensions": [
+        1042,
+        125
+      ],
+      "sha256": "111e5e754c613a285a2bac90c5f0a0cd71c7b8831283975606f612db2925c7fe"
+    },
+    {
+      "filename": "AC9E2LY07-1440-native-2.png",
+      "dimensions": [
+        1042,
+        145
+      ],
+      "sha256": "77bf510b23029f2c49c12f15cfa8d1e399dccd5b50c34014688c433017029669"
+    },
+    {
+      "filename": "AC9E2LY07-1440-retained-1.png",
+      "dimensions": [
+        720,
+        297
+      ],
+      "sha256": "9c49d2a1dc86b914ead6a3f098e9623fcdc2dfc3ee9ba09d62b5f059ccfc0686"
+    },
+    {
+      "filename": "AC9E2LY07-1440-top.png",
+      "dimensions": [
+        1440,
+        1000
+      ],
+      "sha256": "b4889495d020ce7787514df8dfcc1500ec46e9f3bf904def10d95b20424d07c8"
+    },
+    {
+      "filename": "AC9E2LY07-390-lesson.png",
+      "dimensions": [
+        390,
+        1000
+      ],
+      "sha256": "4a4f5c10cbd102bb788b0de3eedeccb7366822986f574db4a278c6c73b2d5193"
+    },
+    {
+      "filename": "AC9E2LY07-390-top.png",
+      "dimensions": [
+        390,
+        1000
+      ],
+      "sha256": "b6c18bded97e693b4ddb43a1c7e799333b46dfb34436fd0befdacb539c604567"
+    },
+    {
+      "filename": "AC9E2LY07-768-lesson.png",
+      "dimensions": [
+        768,
+        1000
+      ],
+      "sha256": "1bba7f1be179c968e96eee8f4c01afeb2313298912bd947021c602618ec11cc4"
+    },
+    {
+      "filename": "AC9E2LY07-768-top.png",
+      "dimensions": [
+        768,
+        1000
+      ],
+      "sha256": "ee5a590cc9bc885c3b2e00984383f8197aba072f0edbd22832fcfb11e383ad66"
+    },
+    {
+      "filename": "AC9E2LY08-1440-lesson.png",
+      "dimensions": [
+        1440,
+        1000
+      ],
+      "sha256": "8298c5982a67b4154ea31415726915ecb892a242436afd980792221d89a15804"
+    },
+    {
+      "filename": "AC9E2LY08-1440-native-1.png",
+      "dimensions": [
+        1042,
+        105
+      ],
+      "sha256": "c7fade3f25a93a3cb9bb86b2e6c87c26c438112ac3a965de6f3481fad4f3d645"
+    },
+    {
+      "filename": "AC9E2LY08-1440-native-2.png",
+      "dimensions": [
+        1042,
+        85
+      ],
+      "sha256": "b37bdae52027b8c355cd3ead8de90074ef140d5c87acbd612eee9a6b3bbbf296"
+    },
+    {
+      "filename": "AC9E2LY08-1440-retained-1.png",
+      "dimensions": [
+        720,
+        297
+      ],
+      "sha256": "b93b2cb5d6db3e5515e0d36b950208892ce50e235828e796e10743494e0ce81d"
+    },
+    {
+      "filename": "AC9E2LY08-1440-top.png",
+      "dimensions": [
+        1440,
+        1000
+      ],
+      "sha256": "768fb699d6f3c41200694712329f11a324240ec7191b869b8816440907422a41"
+    },
+    {
+      "filename": "AC9E2LY08-390-lesson.png",
+      "dimensions": [
+        390,
+        1000
+      ],
+      "sha256": "0d7b3933cdf51a901d89528548e2d64b3a140c7fe3bb3252d732a6fd3e194bad"
+    },
+    {
+      "filename": "AC9E2LY08-390-top.png",
+      "dimensions": [
+        390,
+        1000
+      ],
+      "sha256": "cc01b0fe0652eef83629c960dca256e007d290f225d6f4bd5019885c6e2b24dc"
+    },
+    {
+      "filename": "AC9E2LY08-768-lesson.png",
+      "dimensions": [
+        768,
+        1000
+      ],
+      "sha256": "74f39cc88defca9896fd2c78b5a178f8695ccf8c350ee07161a6bc486979a092"
+    },
+    {
+      "filename": "AC9E2LY08-768-top.png",
+      "dimensions": [
+        768,
+        1000
+      ],
+      "sha256": "371d184bb213fe36cf7cad277103fe24b856c8e1c5b9656e18b730c6438b6318"
+    },
+    {
+      "filename": "AC9E2LY09-1440-lesson.png",
+      "dimensions": [
+        1440,
+        1000
+      ],
+      "sha256": "666f19b3415a682eb1e022403ef104a3d32a2755297833ca6ab801f4c4ab07b4"
+    },
+    {
+      "filename": "AC9E2LY09-1440-native-1.png",
+      "dimensions": [
+        1042,
+        175
+      ],
+      "sha256": "cd9237ab606e993c795c0a329e50d564985646a720d100ddfe903a13c8d14835"
+    },
+    {
+      "filename": "AC9E2LY09-1440-native-2.png",
+      "dimensions": [
+        1042,
+        85
+      ],
+      "sha256": "6382a523904ef1d534d932079dff9a31f48face56fd72bc28a833e78f721c49f"
+    },
+    {
+      "filename": "AC9E2LY09-1440-retained-1.png",
+      "dimensions": [
+        720,
+        297
+      ],
+      "sha256": "d6806bd5a402e20f605da9ead1d8600344f3d37663a646c9d6884aaee3cc5b3c"
+    },
+    {
+      "filename": "AC9E2LY09-1440-top.png",
+      "dimensions": [
+        1440,
+        1000
+      ],
+      "sha256": "cb018704030b5f9dcf89b44f816b880392e0c0d5324e505c3817306c273ad314"
+    },
+    {
+      "filename": "AC9E2LY09-390-lesson.png",
+      "dimensions": [
+        390,
+        1000
+      ],
+      "sha256": "155a304f0a103be31606e39d7666ad586a22d43aba426984a624883be258e9ce"
+    },
+    {
+      "filename": "AC9E2LY09-390-top.png",
+      "dimensions": [
+        390,
+        1000
+      ],
+      "sha256": "04674a8bdb44fa0f71f4b81eb1cc2ee548e4aa332aefba9212ce668d8b56d9a2"
+    },
+    {
+      "filename": "AC9E2LY09-768-lesson.png",
+      "dimensions": [
+        768,
+        1000
+      ],
+      "sha256": "d7cc803c9c370081cbd91b63dda6aa064ab6cf1fde833d64cd14fa06443556f3"
+    },
+    {
+      "filename": "AC9E2LY09-768-top.png",
+      "dimensions": [
+        768,
+        1000
+      ],
+      "sha256": "ef0ad7e1832580691a5dc8ede91162a2da625fa724ccb406567aa3e6c800f7a8"
+    },
+    {
+      "filename": "AC9E2LY10-1440-lesson.png",
+      "dimensions": [
+        1440,
+        1000
+      ],
+      "sha256": "527b579df28e670faaef73c29a86407da184cef28d4752cec8c568e9be8b7c0e"
+    },
+    {
+      "filename": "AC9E2LY10-1440-native-1.png",
+      "dimensions": [
+        1042,
+        258
+      ],
+      "sha256": "452ec479381aac30e8a6bc6eec0185e698f255ccf1d02bcf978e4cd1fd243ac0"
+    },
+    {
+      "filename": "AC9E2LY10-1440-native-2.png",
+      "dimensions": [
+        1042,
+        85
+      ],
+      "sha256": "89eed3cdfb1b04aeb410d99b8bada1332f1bed5e30ccabac62997ebe48d9b16f"
+    },
+    {
+      "filename": "AC9E2LY10-1440-retained-1.png",
+      "dimensions": [
+        720,
+        297
+      ],
+      "sha256": "360be2b7ffc3f0a6e4e2989eb222df8ba9fa72f94570a8a9b5aad2f0cb7e973e"
+    },
+    {
+      "filename": "AC9E2LY10-1440-top.png",
+      "dimensions": [
+        1440,
+        1000
+      ],
+      "sha256": "df675c94d7e683f3e1d51f600cd03fcbbb5f96d1417e195556453d4c428a3f6e"
+    },
+    {
+      "filename": "AC9E2LY10-390-lesson.png",
+      "dimensions": [
+        390,
+        1000
+      ],
+      "sha256": "f4d5f71a37f6cad5cccbcfb727f80dd857640fbcdb1e4ffb78fbb333bbb5ecbc"
+    },
+    {
+      "filename": "AC9E2LY10-390-top.png",
+      "dimensions": [
+        390,
+        1000
+      ],
+      "sha256": "4c11a828ee3d24bee3b0eccfc5c6db5426100c29a2d03dc3ea12f4647e7e2162"
+    },
+    {
+      "filename": "AC9E2LY10-768-lesson.png",
+      "dimensions": [
+        768,
+        1000
+      ],
+      "sha256": "f71fa3b4f4f8cc6508076b177b872c56a2d95982c91501448496eff58e16356d"
+    },
+    {
+      "filename": "AC9E2LY10-768-top.png",
+      "dimensions": [
+        768,
+        1000
+      ],
+      "sha256": "9d9216508049b67a3348fad9453f2ba17c11b00b580f274620e3eb4bbdf1afec"
+    },
+    {
+      "filename": "AC9E2LY11-1440-lesson.png",
+      "dimensions": [
+        1440,
+        1000
+      ],
+      "sha256": "c19a244bac3538343b07f01165f0b1c3a1bae9542ddd2b48a0a839585959053e"
+    },
+    {
+      "filename": "AC9E2LY11-1440-native-1.png",
+      "dimensions": [
+        1042,
+        217
+      ],
+      "sha256": "48aa2c9c1556a76e7428c403d419515ff35ab02e25b4224c1a52e0c67e1026c8"
+    },
+    {
+      "filename": "AC9E2LY11-1440-native-2.png",
+      "dimensions": [
+        1042,
+        85
+      ],
+      "sha256": "1d8d93f5e6391225502e69e9864893fe748243e78c10583c8c0a56a9bde2c438"
+    },
+    {
+      "filename": "AC9E2LY11-1440-retained-1.png",
+      "dimensions": [
+        720,
+        297
+      ],
+      "sha256": "de42e5c51f9c36608248df751820979b52505a3a7feef55a0925ddebc10ef8c8"
+    },
+    {
+      "filename": "AC9E2LY11-1440-top.png",
+      "dimensions": [
+        1440,
+        1000
+      ],
+      "sha256": "09e740f9feae2dff3de694b614e3449fd2251ce73d4c01d33b34f7b33d1a506c"
+    },
+    {
+      "filename": "AC9E2LY11-390-lesson.png",
+      "dimensions": [
+        390,
+        1000
+      ],
+      "sha256": "f91f5d86e5c2155a97e0d3419b8d727c098e33a5bbc97ab2670ef791ef62538b"
+    },
+    {
+      "filename": "AC9E2LY11-390-top.png",
+      "dimensions": [
+        390,
+        1000
+      ],
+      "sha256": "7669dc39080886b525cc2e298fb30c74171e8d65ce7b2d80ae53d8c6a56d72e8"
+    },
+    {
+      "filename": "AC9E2LY11-768-lesson.png",
+      "dimensions": [
+        768,
+        1000
+      ],
+      "sha256": "6b34999d54a27ce849dbabe06c8e31c409f6db5d6844b5883d71c8d2105be9e5"
+    },
+    {
+      "filename": "AC9E2LY11-768-top.png",
+      "dimensions": [
+        768,
+        1000
+      ],
+      "sha256": "350436ea3323e6dc9b89d8bab83ccb2fff85ce52fe00566b98db25901e30a7f5"
+    },
+    {
+      "filename": "AC9E2LY12-1440-lesson.png",
+      "dimensions": [
+        1440,
+        1000
+      ],
+      "sha256": "6054b4499c95cbf428875e2bec4471af8373df53a66e49264c3ff14fcf7d57a5"
+    },
+    {
+      "filename": "AC9E2LY12-1440-native-1.png",
+      "dimensions": [
+        1042,
+        216
+      ],
+      "sha256": "31bf84f99aae0f406222bcccec8cefce11f0a7f779e8ff9c10d6521c25dc55d2"
+    },
+    {
+      "filename": "AC9E2LY12-1440-native-2.png",
+      "dimensions": [
+        1042,
+        85
+      ],
+      "sha256": "0af9d321ee506a561b0248882e15baf0633b54ec891148d09a3566573827af00"
+    },
+    {
+      "filename": "AC9E2LY12-1440-native-3.png",
+      "dimensions": [
+        1010,
+        301
+      ],
+      "sha256": "81d46a642f04632ee8a776ba76d2f951f615ffb63d29dad55395d1417380ef8b"
+    },
+    {
+      "filename": "AC9E2LY12-1440-retained-1.png",
+      "dimensions": [
+        720,
+        297
+      ],
+      "sha256": "222e77e4cbc7f7b9ca40927434ea99e2d55dffd68854c931a9227174b0ce5135"
+    },
+    {
+      "filename": "AC9E2LY12-1440-top.png",
+      "dimensions": [
+        1440,
+        1000
+      ],
+      "sha256": "c7556983e18ec85049dcf492e64df6eddb6e0a72489851a6a09de65321426bf5"
+    },
+    {
+      "filename": "AC9E2LY12-390-lesson.png",
+      "dimensions": [
+        390,
+        1000
+      ],
+      "sha256": "abd28660086dc42f28c5e5283973c5211b0b785ef157a6a10de4d5f861359e36"
+    },
+    {
+      "filename": "AC9E2LY12-390-top.png",
+      "dimensions": [
+        390,
+        1000
+      ],
+      "sha256": "ecf48214d9dae5d9c65413dc507621f85e7820615025f9398b3c6c76d77659a4"
+    },
+    {
+      "filename": "AC9E2LY12-768-lesson.png",
+      "dimensions": [
+        768,
+        1000
+      ],
+      "sha256": "828cf4a5ab9d749eb73f6036da86e55bcdc77d18d45cc5d068edbb5c0f3d262c"
+    },
+    {
+      "filename": "AC9E2LY12-768-top.png",
+      "dimensions": [
+        768,
+        1000
+      ],
+      "sha256": "b95d2dab9b03d8b40d50c54d146479e124bb5a15350c9cdaa81eaa17f2ba6d8e"
+    }
+  ],
+  "root_viewport_review": {
+    "status": "PASS",
+    "observed": "Root opened seven full-resolution pixel-preserving contact sheets, each containing the six original top/lesson viewport frames for one code at1440,768,390:42frames total. Reviewed heading wrapping, models/tables, body readability, stacked tablet/phone focuses, answer labels, action placement and absence of clipping/overflow in these captures. Fixed app control can overlap a viewport edge; tested answer actions scroll into view before clicking.",
+    "codes": [
+      "AC9E2LY06",
+      "AC9E2LY07",
+      "AC9E2LY08",
+      "AC9E2LY09",
+      "AC9E2LY10",
+      "AC9E2LY11",
+      "AC9E2LY12"
+    ],
+    "limitations": "Viewport captures are not screenshots of every vertical pixel of each long guide. All final text is independently source-reviewed; all native/SVG model captures are separately reviewed."
+  }
 }

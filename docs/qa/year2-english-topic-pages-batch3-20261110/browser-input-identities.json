@@ -106,5 +106,11 @@
     "sha256": "54b589561556965894780649765ef8b5f5301184a23cf5dbf3a011bb744132f8",
     "git_blob_sha": "b490439833b8f19d6827957e693b3c2a09dad8d0",
     "bytes": 12674
+  },
+  {
+    "path": "assets/topic-practice-link.css",
+    "sha256": "55b40419f335610abc5aa5adc3549af4c4105ea9ada9ea7f151f1d53539d47dc",
+    "git_blob_sha": "ee6bba366d28e3488a4605ecb16bc24671b58862",
+    "bytes": 1912
   }
 ]

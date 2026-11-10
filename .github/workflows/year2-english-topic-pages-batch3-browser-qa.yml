@@ -7,6 +7,7 @@ on:
       - 'assets/css/year2-english-topic-pages-batch3.css'
       - 'style.css'
       - 'assets/curriculum.css'
+      - 'assets/topic-practice-link.css'
       - 'assets/css/year3-science-topic-pages.css'
       - 'assets/css/science-topic-release.css'
       - 'assets/css/foundation-english-topic-pages.css'

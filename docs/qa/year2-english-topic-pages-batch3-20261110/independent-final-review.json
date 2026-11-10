@@ -1,6 +1,6 @@
 {
   "reviewer": "/root/final_fresh — fresh independent final AI reviewer; no guide authorship or first content review",
-  "status": "BLOCKED — final rendered output and final freeze confirmation pending",
+  "status": "PASS — independent final public-guide source and risk-matched rendered-output review",
   "source_content_decision": "PASS for current complete seven-page public-guide source scope; no confirmed source blockers remain",
   "scope": "Public Year2 English AC9E2LY06–LY12 guides only; linked teacher slides, worksheets, app banks, hosted production and real pupil performance excluded.",
   "blind_coverage": {
@@ -43,6 +43,10 @@
     {
       "url": "https://www.literacyhub.edu.au/professional-learning/implementing-a-systematic-synthetic-phonics-approach/morphology-instruction-and-ssp/",
       "scope": "Meaningful word parts, base/prefix/suffix roles and explicit model/guided/application approach."
+    },
+    {
+      "url": "https://www.thenational.academy/teachers/lessons/silent-letters-the-kn-spelling",
+      "scope": "kn represents /n/, silent-letter definition and past-ed pronunciation variants independently corroborated."
     }
   ],
   "findings": [],
@@ -50,7 +54,274 @@
     "AI review, not human teacher sign-off. No source audio/video heard; printed notation cannot establish correct real sound production.",
     "No pupil handwriting, grasp, oral presentation or independent response observed. The guides correctly require actual observation and recorded support.",
     "Source review does not certify linked products or prove real learner mastery.",
-    "Browser rendered-output inspection and interaction evidence not yet supplied; final overall gate remains BLOCKED until that required evidence and exact final freeze exist."
+    "The fresh final reviewer inspected32actual PNGs:22models plus10independently selected viewport frames. It reused actual harness interaction evidence and root all42frame viewport review; no human pupil performance or production-hosted browser certification.",
+    "No app-bank marking,persistence,learner-isolation,worksheet/fixed-slide certification or whole-year verified badge. PR remains unmerged; final content/render PASS is distinct from owner acceptance and production authorization."
   ],
-  "recorded_utc": "2026-11-10T04:18:51.187215+00:00"
+  "recorded_utc": "2026-11-10T04:18:51.187215+00:00",
+  "prior_findings_reconciliation": {
+    "first_review_report": "independent-content-review.json",
+    "first_review_source_decision": "PASS",
+    "findings": [
+      "CR-LY10-DICTATION independently closed; no other first-review source blockers or optional improvements recorded."
+    ],
+    "scope_note": "Read first-review report only after independent blind criteria had been saved; full existing-guide source then independently checked."
+  },
+  "source_harness_review": {
+    "path": "scripts/qa_year2_english_topic_pages_batch3_browser.cjs",
+    "scope": "Read actual19input identity manifest and harness: local static serving, JS-off three viewport contexts, every retained SVG/native figure capture, native disclosure keyboard and touch toggles, overflow/broken local resource checks, phone diagram pan, app target rectangle, JS-on seven-page smoke. Automated claims remain pending actual hosted result."
+  },
+  "final_output_decision": "PASS",
+  "freeze": {
+    "root_confirmation": "2026-11-10 message: browser/render dependencies frozen; only evidence records and workflow trigger path subsequently changed.",
+    "rendered_commit": "d18b243cd63e430739b51cacce94e3971c2f2c9a",
+    "complete_tree": "21a0169dfae28c0df1c3d353f6491d3635195784",
+    "dependency_identity": "independent-final-render-dependencies.json",
+    "independent_verification": "All19 source byte SHA256 and Git blob IDs independently computed from current files; all19 independently fetched by exact hosted commit through GitHub and returned blob IDs match. Local rendered-commit object was unavailable without lazy fetch, so used exact-ref connector file reads rather than claiming git-show verification."
+  },
+  "render_review": {
+    "environment": "Actual hosted Playwright Chromium screenshots from workflow run42755195623 at exact rendered commit; static local origin served in hosted job. Not screenshots of production.",
+    "run": "https://github.com/JBR99729/skillr/actions/runs/42755195623",
+    "artifact_id": 13734967988,
+    "artifact_zip_sha256": "3518aca0b95de6b3bba48e319fa18dc67fecfbb4f966ede34843dcd67154e209",
+    "artifact_integrity_note": "Root downloaded and matched actual artifact ZIP; this reviewer independently opened extracted actual PNGs and verified source dependencies.",
+    "native_model_pngs": 15,
+    "retained_svg_pngs": 7,
+    "model_decision": "Every one of22model PNGs individually opened and inspected at native size. Text/caption/table cell relationships agree with source and independent answers; no clipping, broken glyphs, overlap or meaningful ambiguity found. Typed spacing models explicitly remain spacing examples, not handwriting movement proof.",
+    "viewport_selection": "Reviewer independently selected all seven390px lesson frames to inspect phonics, sentence, morphology and actual-performance instructions; additionally LY10 phone top table, LY09 tablet top phoneme table and LY06 desktop top before/after model. Root separately inspected all42viewport frames.",
+    "viewport_decision": "Selected ten viewport frames have readable text, ordered blocks, clear native try disclosures and correctly wrapped models. Fixed practice CTA can cover the current bottom viewport strip while scrolling; content can be moved above it and body bottom padding is supplied, so this is existing navigable floating-control behavior rather than a concealed final content region.",
+    "automated_results": "Actual results.json has21JSdisabledpage visits at1440/768/390,7JSenabled smoke visits,native keyboard/touch answer controls and phone diagram pan true,problems[]. This reviewer read the harness and result file; did not personally operate a live browser."
+  },
+  "inspected_render_artifacts": [
+    {
+      "file": "AC9E2LY06-1440-native-1.png",
+      "sha256": "7cbbc402946ca2d282315a1ce2341a798c521931040c4ed02b8449665051aa23",
+      "decision": "PASS"
+    },
+    {
+      "file": "AC9E2LY06-1440-native-2.png",
+      "sha256": "f915fe47ff37030124c604dda48e6cffa3b5da42e5af3f03a1f345f2b347ff8e",
+      "decision": "PASS"
+    },
+    {
+      "file": "AC9E2LY06-1440-retained-1.png",
+      "sha256": "6ddc1688061c26a575089c2914fe88d5fe30ec34753cce65f76e1ec00f0f4e3d",
+      "decision": "PASS"
+    },
+    {
+      "file": "AC9E2LY07-1440-native-1.png",
+      "sha256": "111e5e754c613a285a2bac90c5f0a0cd71c7b8831283975606f612db2925c7fe",
+      "decision": "PASS"
+    },
+    {
+      "file": "AC9E2LY07-1440-native-2.png",
+      "sha256": "77bf510b23029f2c49c12f15cfa8d1e399dccd5b50c34014688c433017029669",
+      "decision": "PASS"
+    },
+    {
+      "file": "AC9E2LY07-1440-retained-1.png",
+      "sha256": "9c49d2a1dc86b914ead6a3f098e9623fcdc2dfc3ee9ba09d62b5f059ccfc0686",
+      "decision": "PASS"
+    },
+    {
+      "file": "AC9E2LY08-1440-native-1.png",
+      "sha256": "c7fade3f25a93a3cb9bb86b2e6c87c26c438112ac3a965de6f3481fad4f3d645",
+      "decision": "PASS"
+    },
+    {
+      "file": "AC9E2LY08-1440-native-2.png",
+      "sha256": "b37bdae52027b8c355cd3ead8de90074ef140d5c87acbd612eee9a6b3bbbf296",
+      "decision": "PASS"
+    },
+    {
+      "file": "AC9E2LY08-1440-retained-1.png",
+      "sha256": "b93b2cb5d6db3e5515e0d36b950208892ce50e235828e796e10743494e0ce81d",
+      "decision": "PASS"
+    },
+    {
+      "file": "AC9E2LY09-1440-native-1.png",
+      "sha256": "cd9237ab606e993c795c0a329e50d564985646a720d100ddfe903a13c8d14835",
+      "decision": "PASS"
+    },
+    {
+      "file": "AC9E2LY09-1440-native-2.png",
+      "sha256": "6382a523904ef1d534d932079dff9a31f48face56fd72bc28a833e78f721c49f",
+      "decision": "PASS"
+    },
+    {
+      "file": "AC9E2LY09-1440-retained-1.png",
+      "sha256": "d6806bd5a402e20f605da9ead1d8600344f3d37663a646c9d6884aaee3cc5b3c",
+      "decision": "PASS"
+    },
+    {
+      "file": "AC9E2LY10-1440-native-1.png",
+      "sha256": "452ec479381aac30e8a6bc6eec0185e698f255ccf1d02bcf978e4cd1fd243ac0",
+      "decision": "PASS"
+    },
+    {
+      "file": "AC9E2LY10-1440-native-2.png",
+      "sha256": "89eed3cdfb1b04aeb410d99b8bada1332f1bed5e30ccabac62997ebe48d9b16f",
+      "decision": "PASS"
+    },
+    {
+      "file": "AC9E2LY10-1440-retained-1.png",
+      "sha256": "360be2b7ffc3f0a6e4e2989eb222df8ba9fa72f94570a8a9b5aad2f0cb7e973e",
+      "decision": "PASS"
+    },
+    {
+      "file": "AC9E2LY11-1440-native-1.png",
+      "sha256": "48aa2c9c1556a76e7428c403d419515ff35ab02e25b4224c1a52e0c67e1026c8",
+      "decision": "PASS"
+    },
+    {
+      "file": "AC9E2LY11-1440-native-2.png",
+      "sha256": "1d8d93f5e6391225502e69e9864893fe748243e78c10583c8c0a56a9bde2c438",
+      "decision": "PASS"
+    },
+    {
+      "file": "AC9E2LY11-1440-retained-1.png",
+      "sha256": "de42e5c51f9c36608248df751820979b52505a3a7feef55a0925ddebc10ef8c8",
+      "decision": "PASS"
+    },
+    {
+      "file": "AC9E2LY12-1440-native-1.png",
+      "sha256": "31bf84f99aae0f406222bcccec8cefce11f0a7f779e8ff9c10d6521c25dc55d2",
+      "decision": "PASS"
+    },
+    {
+      "file": "AC9E2LY12-1440-native-2.png",
+      "sha256": "0af9d321ee506a561b0248882e15baf0633b54ec891148d09a3566573827af00",
+      "decision": "PASS"
+    },
+    {
+      "file": "AC9E2LY12-1440-native-3.png",
+      "sha256": "81d46a642f04632ee8a776ba76d2f951f615ffb63d29dad55395d1417380ef8b",
+      "decision": "PASS"
+    },
+    {
+      "file": "AC9E2LY12-1440-retained-1.png",
+      "sha256": "222e77e4cbc7f7b9ca40927434ea99e2d55dffd68854c931a9227174b0ce5135",
+      "decision": "PASS"
+    },
+    {
+      "file": "AC9E2LY06-390-lesson.png",
+      "sha256": "bf75009aef8f698cae11a78853c90342fbd9a117736810a2f3c952aa39c0acd5",
+      "decision": "PASS"
+    },
+    {
+      "file": "AC9E2LY07-390-lesson.png",
+      "sha256": "4a4f5c10cbd102bb788b0de3eedeccb7366822986f574db4a278c6c73b2d5193",
+      "decision": "PASS"
+    },
+    {
+      "file": "AC9E2LY08-390-lesson.png",
+      "sha256": "0d7b3933cdf51a901d89528548e2d64b3a140c7fe3bb3252d732a6fd3e194bad",
+      "decision": "PASS"
+    },
+    {
+      "file": "AC9E2LY09-390-lesson.png",
+      "sha256": "155a304f0a103be31606e39d7666ad586a22d43aba426984a624883be258e9ce",
+      "decision": "PASS"
+    },
+    {
+      "file": "AC9E2LY10-390-lesson.png",
+      "sha256": "f4d5f71a37f6cad5cccbcfb727f80dd857640fbcdb1e4ffb78fbb333bbb5ecbc",
+      "decision": "PASS"
+    },
+    {
+      "file": "AC9E2LY11-390-lesson.png",
+      "sha256": "f91f5d86e5c2155a97e0d3419b8d727c098e33a5bbc97ab2670ef791ef62538b",
+      "decision": "PASS"
+    },
+    {
+      "file": "AC9E2LY12-390-lesson.png",
+      "sha256": "abd28660086dc42f28c5e5283973c5211b0b785ef157a6a10de4d5f861359e36",
+      "decision": "PASS"
+    },
+    {
+      "file": "AC9E2LY10-390-top.png",
+      "sha256": "4c11a828ee3d24bee3b0eccfc5c6db5426100c29a2d03dc3ea12f4647e7e2162",
+      "decision": "PASS"
+    },
+    {
+      "file": "AC9E2LY09-768-top.png",
+      "sha256": "ef0ad7e1832580691a5dc8ede91162a2da625fa724ccb406567aa3e6c800f7a8",
+      "decision": "PASS"
+    },
+    {
+      "file": "AC9E2LY06-1440-top.png",
+      "sha256": "af628f65985a2c0b0f5a8e169daf4dd10bd0f1241be1e970772170bbac522ff4",
+      "decision": "PASS"
+    }
+  ],
+  "render_results_sha256": "fdc81df183e276f5f5dd7887f8b15ab36294a4a06c324976d47ac43f94dbf31a",
+  "reviewed_support_dependencies": [
+    {
+      "path": "docs/qa/year2-english-topic-pages-batch3-20261110/independent-final-blind-solutions.json",
+      "sha256": "ff8c8116408acbf42def90d4eb07fb0fec0efcf57dfdf451099b120effcc221c",
+      "bytes": 19970
+    },
+    {
+      "path": "docs/qa/year2-english-topic-pages-batch3-20261110/independent-final-extra-criteria.json",
+      "sha256": "5aff838ae59318b6277ee8fed2673d2b8deccbdd6016919d6cb8a04c80dc9fa4",
+      "bytes": 11741
+    },
+    {
+      "path": "docs/qa/year2-english-topic-pages-batch3-20261110/inventory.json",
+      "sha256": "fc531ce2db1cfb1d3a468e2db0adf29309f90f65ad075031295d5112b097304b",
+      "bytes": 4234
+    },
+    {
+      "path": "docs/qa/year2-english-topic-pages-batch3-20261110/page-content.json",
+      "sha256": "6b23b979ac1ff0686e1d84b04b701eda029855e4c9b38751d37bdec9f9a2cd1f",
+      "bytes": 44346
+    },
+    {
+      "path": "docs/qa/year2-english-topic-pages-batch3-20261110/units.json",
+      "sha256": "43fe27c6150985b4fabb8ab09ed810318460b427d67f49fa0d40c7b9a008b325",
+      "bytes": 37676
+    },
+    {
+      "path": "docs/qa/year2-english-topic-pages-batch3-20261110/plan.json",
+      "sha256": "99fe05632910a8cedc22ae746aaaca1242c24109da44c06cc7837fdbbd64a768",
+      "bytes": 35099
+    },
+    {
+      "path": "docs/qa/year2-english-topic-pages-batch3-20261110/artwork-and-evidence.json",
+      "sha256": "ba9bcebe544fc4f758fb89ca152e02e6c5f9e03e068310a6d6bd6d04073f34e9",
+      "bytes": 5416
+    },
+    {
+      "path": "docs/qa/year2-english-topic-pages-batch3-20261110/retained-additions.json",
+      "sha256": "3b99392f1edc4c8fbf3a24c98c7691464cd9c267d0001c7827c33c453316e3bc",
+      "bytes": 33410
+    },
+    {
+      "path": "docs/qa/year2-english-topic-pages-batch3-20261110/retained-corrections.json",
+      "sha256": "b1b496682643be00f402d14a97760cead253105dd81df70ce577d0162272e512",
+      "bytes": 6486
+    },
+    {
+      "path": "docs/qa/year2-english-topic-pages-batch3-20261110/retained-preludes.json",
+      "sha256": "df982ae04c33efd9f1a9fb2147d7755872b7287a5cb7dcd6911e43d37b0fbbd0",
+      "bytes": 388
+    },
+    {
+      "path": "docs/qa/year2-english-topic-pages-batch3-20261110/independent-content-review.json",
+      "sha256": "3b62263f095b4d653308b6ca737ad7045d4d42823d7daa6e1d567cb79dbe746b",
+      "bytes": 12027
+    },
+    {
+      "path": "docs/qa/year2-english-topic-pages-batch3-20261110/content-issues.json",
+      "sha256": "810abb0991dbcdd74121d942cfe50dd390975a32c9b951266793bd667c781a3f",
+      "bytes": 990
+    },
+    {
+      "path": "docs/qa/year2-english-topic-pages-batch3-20261110/browser-input-identities.json",
+      "sha256": "71614af5d9cb264dec2bc74b2fa5ed8d20ed3ee8c813ff8de302b56e57f7ae54",
+      "bytes": 4656
+    }
+  ],
+  "remaining_final_gate_blockers": [],
+  "optional_improvements": [],
+  "completed_utc": "2026-11-10T04:23:55.440691+00:00"
 }
