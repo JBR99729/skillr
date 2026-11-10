@@ -1,0 +1,548 @@
+{
+  "scope": "10 public static Topic Guides, no app banks/linked product rebuilds or production merge. Review PR after independent content and actual rendered checks.",
+  "baseline": "309dfaed2ade55de7e45dbd2f98ff37e6a6a3b85",
+  "research_commit": "ca38efffad0b478c8730c982387890d5895f658d",
+  "reference": {
+    "path": "year1/maths/ac9m1n01-numbers-to-120/index.html",
+    "sha256": "13606ed2485957dd3d823a866a295860f9f8bbdd0eb27ac6c67b2ae38b300395"
+  },
+  "codes": [
+    {
+      "code": "AC9E1LE01",
+      "descriptor": "discuss how language and images are used to create characters, settings and events in literature by First Nations Australian, and wide-ranging Australian and world authors and illustrators",
+      "elaborations": [
+        {
+          "code": "AC9E1LE01_E1",
+          "number": "E1",
+          "text": "discussing how animal characters reflect human characteristics; for example, the creation of animal characters and their human qualities in fables by wide-ranging world authors",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LE01_E2",
+          "number": "E2",
+          "text": "discussing how characters, settings and events are described or depicted in literature by First Nations Australian authors and illustrators",
+          "questionEligible": false
+        },
+        {
+          "code": "AC9E1LE01_E3",
+          "number": "E3",
+          "text": "discussing the events associated with Australian animal characters and what is learnt about their characters in picture books from wide-ranging Australian authors",
+          "questionEligible": true
+        }
+      ],
+      "entry_focuses": [
+        "Connect actual word/image clues",
+        "Explain character and setting choices",
+        "Compare actual attributed literature"
+      ],
+      "models_and_variation": [
+        "Actual Mae/library image + word contribution",
+        "Talking animal action/speech versus real animal",
+        "Actual3book spreads and evidence-supported choice"
+      ],
+      "retained_sections": [
+        "1. Words and pictures introduce story meaning",
+        "2. Character clues and story animals",
+        "3. Setting: where and when",
+        "4. Events and story sequence",
+        "5. Picture clues add to the words",
+        "6. Compare stories and illustrators respectfully",
+        "See the idea: Use story details to explain a character",
+        "Check learning and offer support",
+        "Use this guide with your worksheet pack"
+      ],
+      "focus_evidence": "Six current research coverage groups allSUFFICIENT; final front3groupings deliberately preserve complete existing deeper coverage; records in reused-research.json and actual files in scratchresearch.",
+      "status": "READY TO DRAFT subject to independent plan gate",
+      "prerequisites": "Adult may read directions; observe child doing the actual targeted reading/listening/talking/retelling, not a paper proxy."
+    },
+    {
+      "code": "AC9E1LE02",
+      "descriptor": "discuss literary texts and share responses by making connections with students\u2019 own experiences",
+      "elaborations": [
+        {
+          "code": "AC9E1LE02_E1",
+          "number": "E1",
+          "text": "generating questions about characters, settings and events from books and sharing responses",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LE02_E2",
+          "number": "E2",
+          "text": "discussing different texts and offering opinions about how they reflect their own experiences",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LE02_E3",
+          "number": "E3",
+          "text": "expressing responses to characters and events in stories using drawing and role-play",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LE02_E4",
+          "number": "E4",
+          "text": "identifying who is telling the story in different texts",
+          "questionEligible": true
+        }
+      ],
+      "entry_focuses": [
+        "Anchor a personal response in text",
+        "Explain a safe own-experience connection",
+        "Exchange different supported responses"
+      ],
+      "models_and_variation": [
+        "Complete waiting-turn mini-story",
+        "Separate text-detail versus safe experience",
+        "Two relevant differing response models"
+      ],
+      "retained_sections": [
+        "1. Make a relevant connection",
+        "2. Notice story details first",
+        "3. Compare with care",
+        "4. Use a connection to understand",
+        "5. Keep the response relevant",
+        "6. Share responses respectfully",
+        "See the idea: Explain your connection to a story",
+        "Check learning and offer support",
+        "Use this guide with your worksheet pack"
+      ],
+      "focus_evidence": "Six current research coverage groups allSUFFICIENT; final front3groupings deliberately preserve complete existing deeper coverage; records in reused-research.json and actual files in scratchresearch.",
+      "status": "READY TO DRAFT subject to independent plan gate",
+      "prerequisites": "Adult may read directions; observe child doing the actual targeted reading/listening/talking/retelling, not a paper proxy."
+    },
+    {
+      "code": "AC9E1LE03",
+      "descriptor": "discuss plot, character and setting, which are features of stories",
+      "elaborations": [
+        {
+          "code": "AC9E1LE03_E1",
+          "number": "E1",
+          "text": "recognising similar characters and settings in different types of literary texts; for example, traditional tales, narrative poems and fables",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LE03_E2",
+          "number": "E2",
+          "text": "discussing whether features of settings including time (year, season) and place (country or city) are realistic or imagined",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LE03_E3",
+          "number": "E3",
+          "text": "discussing how plots develop, including beginnings (orientation), how the problem (complication) is introduced and solved (resolution)",
+          "questionEligible": true
+        }
+      ],
+      "entry_focuses": [
+        "Separate character/setting/events",
+        "Connect a problem with its solution",
+        "Compare story features and realistic/imagined settings"
+      ],
+      "models_and_variation": [
+        "Complete seedling obstacle/solution narrative",
+        "Complete no-stated-problem sequence contrast",
+        "Character/where/when/event sort and causal comparison"
+      ],
+      "retained_sections": [
+        "1. Find the setting",
+        "2. Know story features",
+        "3. Find the problem",
+        "4. Follow plot order",
+        "5. Notice character choices",
+        "6. Link story features",
+        "Teaching help: model, support and check",
+        "Quick check: discuss a fresh story",
+        "See the idea: Separate who, where and what happens",
+        "Use this guide with your worksheet pack",
+        "Key concept",
+        "See it, then try it",
+        "Common misconceptions",
+        "Try these",
+        "Explain and apply",
+        "Check your understanding"
+      ],
+      "focus_evidence": "Six current research coverage groups allSUFFICIENT; final front3groupings deliberately preserve complete existing deeper coverage; records in reused-research.json and actual files in scratchresearch.",
+      "status": "READY TO DRAFT subject to independent plan gate",
+      "prerequisites": "Adult may read directions; observe child doing the actual targeted reading/listening/talking/retelling, not a paper proxy."
+    },
+    {
+      "code": "AC9E1LE04",
+      "descriptor": "listen to and discuss poems, chants, rhymes and songs, and imitate and invent sound patterns including alliteration and rhyme",
+      "elaborations": [
+        {
+          "code": "AC9E1LE04_E1",
+          "number": "E1",
+          "text": "listening to performance poetry, chants or songs from First Nations Australians",
+          "questionEligible": false
+        },
+        {
+          "code": "AC9E1LE04_E2",
+          "number": "E2",
+          "text": "exploring poetry, chants and songs from Asian cultures",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LE04_E3",
+          "number": "E3",
+          "text": "listening to haiku poems about familiar topics such as nature and the seasons",
+          "questionEligible": true
+        }
+      ],
+      "entry_focuses": [
+        "Hear and distinguish sound patterns",
+        "Imitate with deliberate delivery",
+        "Invent and discuss meaningful new patterns"
+      ],
+      "models_and_variation": [
+        "Original /s/ pattern versus rhyme endings",
+        "Actual adult echo of original spoken/sung model",
+        "New meaningful line retains chosen sound pattern"
+      ],
+      "retained_sections": [
+        "1. Hear alliteration",
+        "2. Hear rhyme",
+        "3. Hear sound words",
+        "4. Hear repetition",
+        "5. Perform for effect",
+        "6. Invent sound patterns",
+        "Teaching help: listen, echo, change and discuss",
+        "Quick check: hear it, make it, share it",
+        "See the idea: Make a pattern with sounds",
+        "Use this guide with your worksheet pack",
+        "Explore poems and songs from different traditions",
+        "Key concept",
+        "See it, then try it",
+        "Common misconceptions",
+        "Try these",
+        "Explain and apply",
+        "Check your understanding"
+      ],
+      "focus_evidence": "Six current research coverage groups allSUFFICIENT; final front3groupings deliberately preserve complete existing deeper coverage; records in reused-research.json and actual files in scratchresearch.",
+      "status": "READY TO DRAFT subject to independent plan gate",
+      "prerequisites": "Adult may read directions; observe child doing the actual targeted reading/listening/talking/retelling, not a paper proxy."
+    },
+    {
+      "code": "AC9E1LE05",
+      "descriptor": "orally retell or adapt a familiar story using plot and characters, language features including vocabulary, and structure of a familiar text, through role-play, writing, drawing or digital tools",
+      "elaborations": [
+        {
+          "code": "AC9E1LE05_E1",
+          "number": "E1",
+          "text": "writing character descriptions",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LE05_E2",
+          "number": "E2",
+          "text": "imitating a characteristic piece of speech or dialogue, or the attitudes or expressions of favourite characters in texts",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LE05_E3",
+          "number": "E3",
+          "text": "retelling key events in stories using oral language, visual arts, digital tools or performance",
+          "questionEligible": true
+        }
+      ],
+      "entry_focuses": [
+        "Retell a familiar complete story",
+        "Use story language and a clear order",
+        "Adapt deliberately and keep the links coherent"
+      ],
+      "models_and_variation": [
+        "Complete original lost-object helper story repeated asneeded",
+        "Retell necessary links versus minor detail",
+        "Changed setting with adjusted linked objects and dialogue"
+      ],
+      "retained_sections": [
+        "1. Choose key events",
+        "2. Use story structure",
+        "3. Keep events in order",
+        "4. Keep characters and setting clear",
+        "5. Use story language",
+        "6. Adapt without losing sense",
+        "Teaching help: listen to the child tell the story",
+        "Key concept",
+        "See it, then try it",
+        "See the idea: Retell first, then change one part",
+        "Common misconceptions",
+        "Try these",
+        "Explain and apply",
+        "Check your understanding"
+      ],
+      "focus_evidence": "Six current research coverage groups allSUFFICIENT; final front3groupings deliberately preserve complete existing deeper coverage; records in reused-research.json and actual files in scratchresearch.",
+      "status": "READY TO DRAFT subject to independent plan gate",
+      "prerequisites": "Adult may read directions; observe child doing the actual targeted reading/listening/talking/retelling, not a paper proxy."
+    },
+    {
+      "code": "AC9E1LY01",
+      "descriptor": "discuss different texts and identify some features that indicate their purposes",
+      "elaborations": [
+        {
+          "code": "AC9E1LY01_E1",
+          "number": "E1",
+          "text": "discussing a range of texts encountered in school and in the community, and identifying their purpose",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LY01_E2",
+          "number": "E2",
+          "text": "recognising that types of texts with similar purposes usually have predictable structures",
+          "questionEligible": true
+        }
+      ],
+      "entry_focuses": [
+        "Identify the message job using content",
+        "Explain useful structure/features",
+        "Compare evidence and choose a text for a task"
+      ],
+      "models_and_variation": [
+        "Same-topic story/info complete pair",
+        "Materials/orderedsteps versus eventsequence",
+        "Invitation/request+reason mixedpurposes"
+      ],
+      "retained_sections": [
+        "1. Find a text purpose",
+        "2. Use instruction clues",
+        "3. Use information clues",
+        "4. Use persuasion clues",
+        "5. Use invitation clues",
+        "6. Explain with evidence",
+        "Teaching help: discuss the text and its clues",
+        "Key concept",
+        "See it, then try it",
+        "See the idea: Use features to work out a text\u2019s job",
+        "Common misconceptions",
+        "Try these",
+        "Explain and apply",
+        "Check your understanding"
+      ],
+      "focus_evidence": "Six current research coverage groups allSUFFICIENT; final front3groupings deliberately preserve complete existing deeper coverage; records in reused-research.json and actual files in scratchresearch.",
+      "status": "READY TO DRAFT subject to independent plan gate",
+      "prerequisites": "Adult may read directions; observe child doing the actual targeted reading/listening/talking/retelling, not a paper proxy."
+    },
+    {
+      "code": "AC9E1LY02",
+      "descriptor": "use interaction skills including turn-taking, speaking clearly, using active listening behaviours and responding to the contributions of others, and contributing ideas and questions",
+      "elaborations": [
+        {
+          "code": "AC9E1LY02_E1",
+          "number": "E1",
+          "text": "using turn-taking in group and pair work",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LY02_E2",
+          "number": "E2",
+          "text": "building a conversation by staying on topic, supporting other speakers, eliciting responses, listening supportively and attentively, asking relevant questions, providing useful feedback and prompting",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LY02_E3",
+          "number": "E3",
+          "text": "participating in informal and structured class, group and pair discussions about content area topics, ideas and information",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LY02_E4",
+          "number": "E4",
+          "text": "interacting appropriately with peers, teachers and visitors",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LY02_E5",
+          "number": "E5",
+          "text": "formulating different types of questions to ask a speaker, such as open and closed questions and \u201cwhen\u201d, \u201cwhy\u201d and \u201chow\u201d questions",
+          "questionEligible": true
+        }
+      ],
+      "entry_focuses": [
+        "Take an accessible fair turn and listen",
+        "Make clear messages and relevant replies",
+        "Ask useful follow-ups and include participants"
+      ],
+      "models_and_variation": [
+        "Actual paired conversation with pause repair",
+        "Completeinstruction/restatement with materials",
+        "Open/closed and followup question from reply"
+      ],
+      "retained_sections": [
+        "1. Take turns",
+        "2. Speak clearly",
+        "3. Listen actively",
+        "4. Respond to an idea",
+        "5. Add a relevant idea or question",
+        "6. Make discussion fair",
+        "Teaching help: observe the child in conversation",
+        "Key concept",
+        "See it, then try it",
+        "See the idea: Show that you heard the other person\u2019s idea",
+        "Common misconceptions",
+        "Try these",
+        "Explain and apply",
+        "Check your understanding"
+      ],
+      "focus_evidence": "Six current research coverage groups allSUFFICIENT; final front3groupings deliberately preserve complete existing deeper coverage; records in reused-research.json and actual files in scratchresearch.",
+      "status": "READY TO DRAFT subject to independent plan gate",
+      "prerequisites": "Adult may read directions; observe child doing the actual targeted reading/listening/talking/retelling, not a paper proxy."
+    },
+    {
+      "code": "AC9E1LY03",
+      "descriptor": "describe some similarities and differences between imaginative, informative and persuasive texts",
+      "elaborations": [
+        {
+          "code": "AC9E1LY03_E1",
+          "number": "E1",
+          "text": "comparing and discussing texts, identifying some features that distinguish those that \u201ctell stories\u201d from those that \u201cgive opinions\u201d",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LY03_E2",
+          "number": "E2",
+          "text": "selecting texts for a particular purpose or task; for example, a website that will give information about a learning area topic, a book that will tell a story about an animal",
+          "questionEligible": true
+        }
+      ],
+      "entry_focuses": [
+        "Identify three text purposes from whole messages",
+        "Compare supported similarities/differences",
+        "Choose and justify a text while allowing mixed purpose"
+      ],
+      "models_and_variation": [
+        "Same-topic complete invented/info/requestcards",
+        "One shared clue versus purpose difference",
+        "Whole-message choice with mixed-purpose boundary"
+      ],
+      "retained_sections": [
+        "1. Recognise imaginative texts",
+        "2. Recognise informative texts",
+        "3. Recognise persuasive texts",
+        "4. Find similarities",
+        "5. Explain differences",
+        "6. Use evidence and choose a text",
+        "Teaching help and a quick check",
+        "Key concept",
+        "See it, then try it",
+        "See the idea: Compare texts about the same subject",
+        "Common misconceptions",
+        "Try these",
+        "Explain and apply",
+        "Check your understanding"
+      ],
+      "focus_evidence": "Six current research coverage groups allSUFFICIENT; final front3groupings deliberately preserve complete existing deeper coverage; records in reused-research.json and actual files in scratchresearch.",
+      "status": "READY TO DRAFT subject to independent plan gate",
+      "prerequisites": "Adult may read directions; observe child doing the actual targeted reading/listening/talking/retelling, not a paper proxy."
+    },
+    {
+      "code": "AC9E1LY04",
+      "descriptor": "read decodable and authentic texts using developing phonic knowledge, phrasing and fluency, and monitoring meaning using context and grammatical knowledge",
+      "elaborations": [
+        {
+          "code": "AC9E1LY04_E1",
+          "number": "E1",
+          "text": "recognising most high-frequency words when reading a text",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LY04_E2",
+          "number": "E2",
+          "text": "self-correcting or asking for assistance when meaning breaks down",
+          "questionEligible": true
+        }
+      ],
+      "entry_focuses": [
+        "Use taught letter-sound knowledge to decode",
+        "Read meaningful phrases and monitor printed meaning",
+        "Self-correct/ask for help and reread suitable texts"
+      ],
+      "models_and_variation": [
+        "Complete taught-pattern connected short text",
+        "Exact printedword versus plausiblewrongword",
+        "Supported authentic notice and accuracy/phrase/meaning reread"
+      ],
+      "retained_sections": [
+        "Key concept",
+        "See it, then try it",
+        "See the idea: Check the letters when a word does not fit",
+        "Teach each strand: model, practise and check",
+        "Common misconceptions",
+        "Try these",
+        "Explain and apply",
+        "Check your understanding"
+      ],
+      "focus_evidence": "Six current research coverage groups allSUFFICIENT; final front3groupings deliberately preserve complete existing deeper coverage; records in reused-research.json and actual files in scratchresearch.",
+      "status": "READY TO DRAFT subject to independent plan gate",
+      "prerequisites": "Adult may read directions; observe child doing the actual targeted reading/listening/talking/retelling, not a paper proxy."
+    },
+    {
+      "code": "AC9E1LY05",
+      "descriptor": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning when listening, viewing and reading to build literal and inferred meaning by drawing on vocabulary and growing knowledge of context and text structures",
+      "elaborations": [
+        {
+          "code": "AC9E1LY05_E1",
+          "number": "E1",
+          "text": "identifying information and details from spoken informative texts",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LY05_E2",
+          "number": "E2",
+          "text": "building topic knowledge and learning new vocabulary before and during reading",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LY05_E3",
+          "number": "E3",
+          "text": "making predictions from the cover, from illustrations and at points in the text before reading on, and confirming and adjusting understanding after reading",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LY05_E4",
+          "number": "E4",
+          "text": "drawing inferences and explaining inferences using clues from the text",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LY05_E5",
+          "number": "E5",
+          "text": "making connections with existing knowledge and personal experiences",
+          "questionEligible": true
+        }
+      ],
+      "entry_focuses": [
+        "Visualise/predict and check actual clues",
+        "Connect/infer with vocabulary and uncertainty",
+        "Summarise/question using stated/inferred/missing evidence"
+      ],
+      "models_and_variation": [
+        "Complete originalclue thenlaterreveal forprediction",
+        "Stated/evidenceinferred/notgiven contrast",
+        "Short non-fiction topic word + summary + freshquestion"
+      ],
+      "retained_sections": [
+        "1. Visualise the details",
+        "2. Predict, then check",
+        "3. Connect and infer",
+        "4. Find the main idea and summarise",
+        "5. Ask questions and find evidence",
+        "Quick check: explain your thinking"
+      ],
+      "focus_evidence": "Six current research coverage groups allSUFFICIENT; final front3groupings deliberately preserve complete existing deeper coverage; records in reused-research.json and actual files in scratchresearch.",
+      "status": "READY TO DRAFT subject to independent plan gate",
+      "prerequisites": "Adult may read directions; observe child doing the actual targeted reading/listening/talking/retelling, not a paper proxy."
+    }
+  ],
+  "preservation": "Keep all selected meaningful authored sections, complete earlier model children/SVGs, direct vocabulary/goals, real illustrations, paid product/cover identities and meta/JSON-LD. Remove repeated outer promotional/resource/mapping panels and merge same-code resource links into one useful section. Retained selected sections are nested under one More examples guide.",
+  "stimulus_repairs_planned": [
+    "LE02 repeat full Nia three-sentence story in focus2/3, full four-line rain poem in focus6.",
+    "LE04 repeat actual focus4 chant and focus5 six-note song/tune protocol in focus6.",
+    "LE01 add named authentic-book discussion protocol from accepted later guide with lawful copies across all3creator contexts; original examples remain supplementary.",
+    "LY03 focus5 repeat one actual existing plant/garden image beside each complete A/B message, preserving the intended same-picture comparison and giving accurate caption/alt.",
+    "Read every other selected section and repair missing givens/materials where found before completion."
+  ],
+  "evidence_boundaries": [
+    "No new IXL/audio/performance or pupil observations claimed. Saved source-method evidence reused with actual current hashes.",
+    "Books/authorised cultural performances prepared by adult before source-specific tasks; optional named book equivalents must be verified.",
+    "LY04 taught phonics first, grammar/context to monitor/check, teacher-supported authentic reading distinct from independent decoding, fluency not speed.",
+    "All new Try prompts and answer guidance in same native section with exact texts/stimuli; meaningful support/core/stretch withincode."
+  ]
+}

@@ -1,0 +1,787 @@
+{
+  "browser_head": "e8071f86c273a628a70c9693bf588bf4826a5320",
+  "browser_tree": "1f57a426dfef5bbe7777a70dadf61156ed7671f6",
+  "reviewer": "/root/year1_english_batch2_review, independent AI",
+  "dependencies": [
+    {
+      "path": ".github/workflows/year1-english-topic-pages-batch2-browser-qa.yml",
+      "browser_head_bytes": 1521,
+      "browser_head_sha256": "67349f7ae1808aff74054457db8b4e1eadb66a7bbb421a5358e4aa21fae1551c",
+      "git_blob_sha": "f05371d859d890b800fcb4db4350b6846996bc4a",
+      "current_sha256": "67349f7ae1808aff74054457db8b4e1eadb66a7bbb421a5358e4aa21fae1551c",
+      "current_equals_browser_head": true,
+      "reason": [
+        "Actual browser test/workflow inventory or dependency lock"
+      ]
+    },
+    {
+      "path": "assets/companions/approved-characters.png",
+      "browser_head_bytes": 1990693,
+      "browser_head_sha256": "452ed460c7616fd321e0200602db190f226e6072510e10dda3da485d1d7ed5b1",
+      "git_blob_sha": "bec9eef35838bbd662c78ec38d6a8ed319714cf0",
+      "current_sha256": "452ed460c7616fd321e0200602db190f226e6072510e10dda3da485d1d7ed5b1",
+      "current_equals_browser_head": true,
+      "reason": [
+        "CSS-linked local fixed asset"
+      ]
+    },
+    {
+      "path": "assets/companions/companions.css",
+      "browser_head_bytes": 8248,
+      "browser_head_sha256": "a3e499c094b1c9c43ebb6fb317d0bb781d607b6f03618530c55a41d157626be2",
+      "git_blob_sha": "b6fcdd046d4ef0f42298d6579f2af194437d01cf",
+      "current_sha256": "a3e499c094b1c9c43ebb6fb317d0bb781d607b6f03618530c55a41d157626be2",
+      "current_equals_browser_head": true,
+      "reason": [
+        "HTML-linked, shared-helper or recursive local CSS dependency"
+      ]
+    },
+    {
+      "path": "assets/companions/companions.js",
+      "browser_head_bytes": 20489,
+      "browser_head_sha256": "7b4625f68b25e47312e297c7f969458be05255155fe0e77f258479f7687ce27c",
+      "git_blob_sha": "51edfaec34619bf5905a618d078c9b7a88a74b09",
+      "current_sha256": "7b4625f68b25e47312e297c7f969458be05255155fe0e77f258479f7687ce27c",
+      "current_equals_browser_head": true,
+      "reason": [
+        "Potential shared utility/helper dependency from inspected script loaders; conservative inclusion, not an observed request log"
+      ]
+    },
+    {
+      "path": "assets/companions/config.js",
+      "browser_head_bytes": 6415,
+      "browser_head_sha256": "d12b8222f714e7d1f9da203cda3712870f9fdf1fd64210673b4dbd2a8f067e10",
+      "git_blob_sha": "1b22eb58f2ce0f96a3fc20065db0d937898b26a5",
+      "current_sha256": "d12b8222f714e7d1f9da203cda3712870f9fdf1fd64210673b4dbd2a8f067e10",
+      "current_equals_browser_head": true,
+      "reason": [
+        "Potential shared utility/helper dependency from inspected script loaders; conservative inclusion, not an observed request log"
+      ]
+    },
+    {
+      "path": "assets/companions/loader.js",
+      "browser_head_bytes": 1768,
+      "browser_head_sha256": "e0109264b6d2e2fd50cc34b7c66828ccc611fe7ef7a35cd5f1875926043a473f",
+      "git_blob_sha": "7f9c5e3c93331df8bbc6be15382939c8b1356f86",
+      "current_sha256": "e0109264b6d2e2fd50cc34b7c66828ccc611fe7ef7a35cd5f1875926043a473f",
+      "current_equals_browser_head": true,
+      "reason": [
+        "Potential shared utility/helper dependency from inspected script loaders; conservative inclusion, not an observed request log"
+      ]
+    },
+    {
+      "path": "assets/css/foundation-english-topic-pages.css",
+      "browser_head_bytes": 6178,
+      "browser_head_sha256": "e6864419fb7478108ae0bf76f3e46f5cb33a27e86784856b4419343f5cac9346",
+      "git_blob_sha": "d6150a46301092e099ae182d357d8629134e6136",
+      "current_sha256": "e6864419fb7478108ae0bf76f3e46f5cb33a27e86784856b4419343f5cac9346",
+      "current_equals_browser_head": true,
+      "reason": [
+        "HTML-linked, shared-helper or recursive local CSS dependency"
+      ]
+    },
+    {
+      "path": "assets/css/science-topic-release.css",
+      "browser_head_bytes": 209,
+      "browser_head_sha256": "41284b9009408203275beb157601f7b8b870a44b6820da61bd96770c1eab280c",
+      "git_blob_sha": "6a6bb91383d29dedf2ffb1cac54f09d40875e7a0",
+      "current_sha256": "41284b9009408203275beb157601f7b8b870a44b6820da61bd96770c1eab280c",
+      "current_equals_browser_head": true,
+      "reason": [
+        "HTML-linked, shared-helper or recursive local CSS dependency"
+      ]
+    },
+    {
+      "path": "assets/css/site-theme.css",
+      "browser_head_bytes": 532,
+      "browser_head_sha256": "4da4f88936efbca78b0b03ef54d3a34ef26832b452fa51ac7f9808b0f3bacdbc",
+      "git_blob_sha": "60a022eec535fcd18472b075f88f7ff8c49f4669",
+      "current_sha256": "4da4f88936efbca78b0b03ef54d3a34ef26832b452fa51ac7f9808b0f3bacdbc",
+      "current_equals_browser_head": true,
+      "reason": [
+        "HTML-linked, shared-helper or recursive local CSS dependency"
+      ]
+    },
+    {
+      "path": "assets/css/year1-english-topic-pages-batch2.css",
+      "browser_head_bytes": 1319,
+      "browser_head_sha256": "12475a53e794d3ad3ed26e0c83dabbfb68743d51580b1da8e9bb42d98574202e",
+      "git_blob_sha": "0ca7627751337073d9c7924196b64e0e3731bb4e",
+      "current_sha256": "12475a53e794d3ad3ed26e0c83dabbfb68743d51580b1da8e9bb42d98574202e",
+      "current_equals_browser_head": true,
+      "reason": [
+        "HTML-linked, shared-helper or recursive local CSS dependency"
+      ]
+    },
+    {
+      "path": "assets/css/year1-english-topic-pages.css",
+      "browser_head_bytes": 2145,
+      "browser_head_sha256": "ac8b008c723d1a3b53d9770337d8f47b2487b8e7a53d8aad0c94e6d53f3530f2",
+      "git_blob_sha": "77c24d315e64aa270729e9d25da6a0b188f83fa8",
+      "current_sha256": "ac8b008c723d1a3b53d9770337d8f47b2487b8e7a53d8aad0c94e6d53f3530f2",
+      "current_equals_browser_head": true,
+      "reason": [
+        "HTML-linked, shared-helper or recursive local CSS dependency"
+      ]
+    },
+    {
+      "path": "assets/css/year3-science-topic-pages.css",
+      "browser_head_bytes": 8721,
+      "browser_head_sha256": "9f9a698f33023163f2ae4508b0fd52c82a9ceeec5ed8520daa6d181ed8e86480",
+      "git_blob_sha": "9bc058ff23a17af8e0e720270c1b02a26035257d",
+      "current_sha256": "9f9a698f33023163f2ae4508b0fd52c82a9ceeec5ed8520daa6d181ed8e86480",
+      "current_equals_browser_head": true,
+      "reason": [
+        "HTML-linked, shared-helper or recursive local CSS dependency"
+      ]
+    },
+    {
+      "path": "assets/curriculum-progression.js",
+      "browser_head_bytes": 19503,
+      "browser_head_sha256": "d625d1ff772b121f1b97aba9b1416c45ce3db711e90403880a0d505f11232445",
+      "git_blob_sha": "96f1287091e0fb883dc46c4aa824e0fe0ce93f5e",
+      "current_sha256": "d625d1ff772b121f1b97aba9b1416c45ce3db711e90403880a0d505f11232445",
+      "current_equals_browser_head": true,
+      "reason": [
+        "Potential shared utility/helper dependency from inspected script loaders; conservative inclusion, not an observed request log"
+      ]
+    },
+    {
+      "path": "assets/curriculum.css",
+      "browser_head_bytes": 25387,
+      "browser_head_sha256": "c65198923858734e005d9e6ad76d55156e8f39a3cdc8f08524e62fdda8e2d9f2",
+      "git_blob_sha": "7382c6d8e5feb5f1f022617d0c24f7d2662ae4d9",
+      "current_sha256": "c65198923858734e005d9e6ad76d55156e8f39a3cdc8f08524e62fdda8e2d9f2",
+      "current_equals_browser_head": true,
+      "reason": [
+        "HTML-linked, shared-helper or recursive local CSS dependency"
+      ]
+    },
+    {
+      "path": "assets/display-only.js",
+      "browser_head_bytes": 9488,
+      "browser_head_sha256": "fa58f4b8708ef2195412f8b5847a93a13fbcbb65c6835c38b01ef0bed830c7f2",
+      "git_blob_sha": "8b0bb1674fb457ae581a60924e790123f41ecb12",
+      "current_sha256": "fa58f4b8708ef2195412f8b5847a93a13fbcbb65c6835c38b01ef0bed830c7f2",
+      "current_equals_browser_head": true,
+      "reason": [
+        "Potential shared utility/helper dependency from inspected script loaders; conservative inclusion, not an observed request log"
+      ]
+    },
+    {
+      "path": "assets/f10-learning-path-links-loader.js",
+      "browser_head_bytes": 536,
+      "browser_head_sha256": "97a2e00e56be39dbb0aba449d84457b43a3defc66e97c512a0b142bcdcd378a8",
+      "git_blob_sha": "36aa298c854d5dce86b39d1a2331a82ab23c7422",
+      "current_sha256": "97a2e00e56be39dbb0aba449d84457b43a3defc66e97c512a0b142bcdcd378a8",
+      "current_equals_browser_head": true,
+      "reason": [
+        "Potential shared utility/helper dependency from inspected script loaders; conservative inclusion, not an observed request log"
+      ]
+    },
+    {
+      "path": "assets/f10-learning-path-links.css",
+      "browser_head_bytes": 182,
+      "browser_head_sha256": "23c575c078772eca0dc728cdeb759cddac5b0fdfe686350ae8fc44588626836e",
+      "git_blob_sha": "b88b8a9f9a2a53df6abca46e1defea1e9539ba43",
+      "current_sha256": "23c575c078772eca0dc728cdeb759cddac5b0fdfe686350ae8fc44588626836e",
+      "current_equals_browser_head": true,
+      "reason": [
+        "HTML-linked, shared-helper or recursive local CSS dependency"
+      ]
+    },
+    {
+      "path": "assets/f10-learning-path-links.js",
+      "browser_head_bytes": 7889,
+      "browser_head_sha256": "f13269915dfa7138f0dbe42f98265b0ca74e4f5d8e38883c0a4b31b37a6aa415",
+      "git_blob_sha": "d8b99f492a85d35224f76f2a03fd5361750c501a",
+      "current_sha256": "f13269915dfa7138f0dbe42f98265b0ca74e4f5d8e38883c0a4b31b37a6aa415",
+      "current_equals_browser_head": true,
+      "reason": [
+        "Potential shared utility/helper dependency from inspected script loaders; conservative inclusion, not an observed request log"
+      ]
+    },
+    {
+      "path": "assets/geo-schema.js",
+      "browser_head_bytes": 4198,
+      "browser_head_sha256": "d5f9c046939c15ed1b041cf88655e2bbad3a0de71e955a44d39614b41f6416da",
+      "git_blob_sha": "69fec99915a811164d5f056e647504364e1e3146",
+      "current_sha256": "d5f9c046939c15ed1b041cf88655e2bbad3a0de71e955a44d39614b41f6416da",
+      "current_equals_browser_head": true,
+      "reason": [
+        "Potential shared utility/helper dependency from inspected script loaders; conservative inclusion, not an observed request log"
+      ]
+    },
+    {
+      "path": "assets/international-curriculum-seo.js",
+      "browser_head_bytes": 8170,
+      "browser_head_sha256": "26bbb50dd482b80859f2ba1a4e7c5c531197d89531a04d9ae613c2fe7821d1eb",
+      "git_blob_sha": "74edf168d765a9bce09d806ca2e8cb9024f02201",
+      "current_sha256": "26bbb50dd482b80859f2ba1a4e7c5c531197d89531a04d9ae613c2fe7821d1eb",
+      "current_equals_browser_head": true,
+      "reason": [
+        "Potential shared utility/helper dependency from inspected script loaders; conservative inclusion, not an observed request log"
+      ]
+    },
+    {
+      "path": "assets/learning-navigation.js",
+      "browser_head_bytes": 3721,
+      "browser_head_sha256": "89e543a284bcf8b0539fb7cf8dbfd713fd37cb33124d715ddf28bbf01fe563b8",
+      "git_blob_sha": "314f0d6c9a2ac17cd39b1462e15519dec7de1ea6",
+      "current_sha256": "89e543a284bcf8b0539fb7cf8dbfd713fd37cb33124d715ddf28bbf01fe563b8",
+      "current_equals_browser_head": true,
+      "reason": [
+        "Direct HTML script used by JS smoke"
+      ]
+    },
+    {
+      "path": "assets/pwa-register-legacy.js",
+      "browser_head_bytes": 41078,
+      "browser_head_sha256": "aa5f642863991024c5a32a7564cbcc39cc79ef32dc655fd5d7a903af698cc2f2",
+      "git_blob_sha": "bb4743016b688803792f721c7bd3e9df8b2a2c9d",
+      "current_sha256": "aa5f642863991024c5a32a7564cbcc39cc79ef32dc655fd5d7a903af698cc2f2",
+      "current_equals_browser_head": true,
+      "reason": [
+        "Potential shared utility/helper dependency from inspected script loaders; conservative inclusion, not an observed request log"
+      ]
+    },
+    {
+      "path": "assets/qa-complete-ribbon.js",
+      "browser_head_bytes": 2537,
+      "browser_head_sha256": "31d308497cf1324dec5958d021429b400f17decb0e27323f4083a2e1134244b5",
+      "git_blob_sha": "a94239df1d72b4ac76363d71ae1c8e2db151ca1c",
+      "current_sha256": "31d308497cf1324dec5958d021429b400f17decb0e27323f4083a2e1134244b5",
+      "current_equals_browser_head": true,
+      "reason": [
+        "Potential shared utility/helper dependency from inspected script loaders; conservative inclusion, not an observed request log"
+      ]
+    },
+    {
+      "path": "assets/report-issue.js",
+      "browser_head_bytes": 3484,
+      "browser_head_sha256": "50f7f758183d698fbe2002f67ccfc73ced626664feafce157f8aef2c44aa536b",
+      "git_blob_sha": "7f96576f3b3b4cdfd26c06b6dbccc6b7718dbea8",
+      "current_sha256": "50f7f758183d698fbe2002f67ccfc73ced626664feafce157f8aef2c44aa536b",
+      "current_equals_browser_head": true,
+      "reason": [
+        "Direct HTML script used by JS smoke"
+      ]
+    },
+    {
+      "path": "assets/resource-links.css",
+      "browser_head_bytes": 11711,
+      "browser_head_sha256": "d18833ed266c33cb67e71ad4c9a23d32648089353cb45657209e1667d9c931af",
+      "git_blob_sha": "801b879c52f622f81853f5cfce4c47f154db0820",
+      "current_sha256": "d18833ed266c33cb67e71ad4c9a23d32648089353cb45657209e1667d9c931af",
+      "current_equals_browser_head": true,
+      "reason": [
+        "HTML-linked, shared-helper or recursive local CSS dependency"
+      ]
+    },
+    {
+      "path": "assets/resource-links.js",
+      "browser_head_bytes": 14741,
+      "browser_head_sha256": "dd87c99e4807fc54a3f442617ffd24f13b11b1b6947a6d2d610a1493af435c51",
+      "git_blob_sha": "5b071366b8284cda7623d3f7d73aa44b7ab82597",
+      "current_sha256": "dd87c99e4807fc54a3f442617ffd24f13b11b1b6947a6d2d610a1493af435c51",
+      "current_equals_browser_head": true,
+      "reason": [
+        "Potential shared utility/helper dependency from inspected script loaders; conservative inclusion, not an observed request log"
+      ]
+    },
+    {
+      "path": "assets/seo-routing.js",
+      "browser_head_bytes": 4091,
+      "browser_head_sha256": "49056e136e6c9c24670158074d14ca1dd859b1c589202e9b3aa0fa44ca08caa4",
+      "git_blob_sha": "3c9f5a3ae37661982d06d9b191da8312e9e663ad",
+      "current_sha256": "49056e136e6c9c24670158074d14ca1dd859b1c589202e9b3aa0fa44ca08caa4",
+      "current_equals_browser_head": true,
+      "reason": [
+        "Potential shared utility/helper dependency from inspected script loaders; conservative inclusion, not an observed request log"
+      ]
+    },
+    {
+      "path": "assets/teaching-models/year1/ac9e1le01.svg",
+      "browser_head_bytes": 1601,
+      "browser_head_sha256": "7770672be83c90aa380b312f74bd9dbd5261f640fae142dcb188dfb8dc0b18f4",
+      "git_blob_sha": "ca9e7af937768f3bcf9691d1a7a7d89460a2b50b",
+      "current_sha256": "7770672be83c90aa380b312f74bd9dbd5261f640fae142dcb188dfb8dc0b18f4",
+      "current_equals_browser_head": true,
+      "reason": [
+        "Actual HTML image/model/cover asset"
+      ]
+    },
+    {
+      "path": "assets/teaching-models/year1/ac9e1le02.svg",
+      "browser_head_bytes": 1555,
+      "browser_head_sha256": "6d757ce8e165ea542a5884629633c2066a1680d1c0f2a3e083ce994a58a37075",
+      "git_blob_sha": "b79737f0fe60a253fc6d736e849a35a54a8e5af0",
+      "current_sha256": "6d757ce8e165ea542a5884629633c2066a1680d1c0f2a3e083ce994a58a37075",
+      "current_equals_browser_head": true,
+      "reason": [
+        "Actual HTML image/model/cover asset"
+      ]
+    },
+    {
+      "path": "assets/teaching-models/year1/ac9e1le03.svg",
+      "browser_head_bytes": 1457,
+      "browser_head_sha256": "92d09ad02c341df5617255ff8a1de6d842b20e4dbba12ca416077c335e134589",
+      "git_blob_sha": "7c9aac1140c5b81e5e0ec0ecafe8d62d4971ccdc",
+      "current_sha256": "92d09ad02c341df5617255ff8a1de6d842b20e4dbba12ca416077c335e134589",
+      "current_equals_browser_head": true,
+      "reason": [
+        "Actual HTML image/model/cover asset"
+      ]
+    },
+    {
+      "path": "assets/teaching-models/year1/ac9e1le04.svg",
+      "browser_head_bytes": 1515,
+      "browser_head_sha256": "5e1b7f354584eb99150634b81718799158f3d348fc8aac26b96951bcf36090cf",
+      "git_blob_sha": "bf269973bb5bd228d16755ffb492e4ad152779c7",
+      "current_sha256": "5e1b7f354584eb99150634b81718799158f3d348fc8aac26b96951bcf36090cf",
+      "current_equals_browser_head": true,
+      "reason": [
+        "Actual HTML image/model/cover asset"
+      ]
+    },
+    {
+      "path": "assets/teaching-models/year1/ac9e1le05.svg",
+      "browser_head_bytes": 1537,
+      "browser_head_sha256": "96e65511b8b406f685ffc71c33c7f69a0a4a2b41baeb10fe30c0c0108618ead2",
+      "git_blob_sha": "26f59937fa02d7a3160a743802050f2746a320ef",
+      "current_sha256": "96e65511b8b406f685ffc71c33c7f69a0a4a2b41baeb10fe30c0c0108618ead2",
+      "current_equals_browser_head": true,
+      "reason": [
+        "Actual HTML image/model/cover asset"
+      ]
+    },
+    {
+      "path": "assets/teaching-models/year1/ac9e1ly01.svg",
+      "browser_head_bytes": 1506,
+      "browser_head_sha256": "1f2c88dc29b1aa4948d78d32458906da76d1f8b8ea3053ee50693d4244c50734",
+      "git_blob_sha": "9b48eb31a61ba0e7eeeac1b14c2693f667d54ed2",
+      "current_sha256": "1f2c88dc29b1aa4948d78d32458906da76d1f8b8ea3053ee50693d4244c50734",
+      "current_equals_browser_head": true,
+      "reason": [
+        "Actual HTML image/model/cover asset"
+      ]
+    },
+    {
+      "path": "assets/teaching-models/year1/ac9e1ly02.svg",
+      "browser_head_bytes": 1576,
+      "browser_head_sha256": "648e20467b3ba14e7047c09a731feda9e93fc8318fa30c006db84a03f65f7ca6",
+      "git_blob_sha": "cc137531898ac029f72a0fb9b79ba22d5fdac8d3",
+      "current_sha256": "648e20467b3ba14e7047c09a731feda9e93fc8318fa30c006db84a03f65f7ca6",
+      "current_equals_browser_head": true,
+      "reason": [
+        "Actual HTML image/model/cover asset"
+      ]
+    },
+    {
+      "path": "assets/teaching-models/year1/ac9e1ly03-wombats.webp",
+      "browser_head_bytes": 132870,
+      "browser_head_sha256": "2cf1306230b2a58dde8200058a56ce64ef051e4922bad4fb52bc1ed6ccfc95fd",
+      "git_blob_sha": "850e15e064b855ad6ef64c9201f5e0bd239db6f1",
+      "current_sha256": "2cf1306230b2a58dde8200058a56ce64ef051e4922bad4fb52bc1ed6ccfc95fd",
+      "current_equals_browser_head": true,
+      "reason": [
+        "Actual HTML image/model/cover asset"
+      ]
+    },
+    {
+      "path": "assets/teaching-models/year1/ac9e1ly03.svg",
+      "browser_head_bytes": 1549,
+      "browser_head_sha256": "06118edf2f0e82fd297ab17798adb3975388f86e3789d264c6ffb2b8dd301c57",
+      "git_blob_sha": "f09a93ce8555ab7ba254d6f724c82316e32b0cad",
+      "current_sha256": "06118edf2f0e82fd297ab17798adb3975388f86e3789d264c6ffb2b8dd301c57",
+      "current_equals_browser_head": true,
+      "reason": [
+        "Actual HTML image/model/cover asset"
+      ]
+    },
+    {
+      "path": "assets/teaching-models/year1/ac9e1ly04.svg",
+      "browser_head_bytes": 1619,
+      "browser_head_sha256": "2c770b4a9e1e2ee1585b5c5ae32975d5dbfa71f3d3ef014a1a5823f5eb9633a3",
+      "git_blob_sha": "902baac8dcf0603b18a6594ab9401cc7e065176c",
+      "current_sha256": "2c770b4a9e1e2ee1585b5c5ae32975d5dbfa71f3d3ef014a1a5823f5eb9633a3",
+      "current_equals_browser_head": true,
+      "reason": [
+        "Actual HTML image/model/cover asset"
+      ]
+    },
+    {
+      "path": "assets/topic-practice-link.css",
+      "browser_head_bytes": 1912,
+      "browser_head_sha256": "55b40419f335610abc5aa5adc3549af4c4105ea9ada9ea7f151f1d53539d47dc",
+      "git_blob_sha": "ee6bba366d28e3488a4605ecb16bc24671b58862",
+      "current_sha256": "55b40419f335610abc5aa5adc3549af4c4105ea9ada9ea7f151f1d53539d47dc",
+      "current_equals_browser_head": true,
+      "reason": [
+        "HTML-linked, shared-helper or recursive local CSS dependency"
+      ]
+    },
+    {
+      "path": "assets/topic-visuals/reused/growing-plants.webp",
+      "browser_head_bytes": 431468,
+      "browser_head_sha256": "952c3062cf3aaa351934b721ea2ae842194487b1d03476e0ddc63bb1bdf54e4c",
+      "git_blob_sha": "f7a233bbe7023fda8f191ba458bc7410e2acc021",
+      "current_sha256": "952c3062cf3aaa351934b721ea2ae842194487b1d03476e0ddc63bb1bdf54e4c",
+      "current_equals_browser_head": true,
+      "reason": [
+        "Actual HTML image/model/cover asset"
+      ]
+    },
+    {
+      "path": "assets/topic-visuals/year1/ac9e1ly04-frog.png",
+      "browser_head_bytes": 1614225,
+      "browser_head_sha256": "b770f48c8fce5342240f76d5e28a50f65e21050dfef5cf43ff548d6dff385d17",
+      "git_blob_sha": "d014432645aba8aad54aa6b219a267602d2bf804",
+      "current_sha256": "b770f48c8fce5342240f76d5e28a50f65e21050dfef5cf43ff548d6dff385d17",
+      "current_equals_browser_head": true,
+      "reason": [
+        "Actual HTML image/model/cover asset"
+      ]
+    },
+    {
+      "path": "assets/topic-visuals/year1/ac9e1ly05-feeder.png",
+      "browser_head_bytes": 1892298,
+      "browser_head_sha256": "c20a4edea2fbfd1f1b399a35bd6667c3306b68c69f7731c2895cba952acf45bf",
+      "git_blob_sha": "71552b7e7f3a1caebd55713d28d6eadaab729c4e",
+      "current_sha256": "c20a4edea2fbfd1f1b399a35bd6667c3306b68c69f7731c2895cba952acf45bf",
+      "current_equals_browser_head": true,
+      "reason": [
+        "Actual HTML image/model/cover asset"
+      ]
+    },
+    {
+      "path": "assets/topic-visuals/year1/ac9e1ly05-leaves.png",
+      "browser_head_bytes": 2174468,
+      "browser_head_sha256": "6272a612d64773e746ca78b471c77979609b893a6624ee92e19036ff00578bfb",
+      "git_blob_sha": "e2c71511310caacf8a8c8d52ab1e23c89f658d58",
+      "current_sha256": "6272a612d64773e746ca78b471c77979609b893a6624ee92e19036ff00578bfb",
+      "current_equals_browser_head": true,
+      "reason": [
+        "Actual HTML image/model/cover asset"
+      ]
+    },
+    {
+      "path": "assets/topic-visuals/year1/ac9e1ly05-library.png",
+      "browser_head_bytes": 1856190,
+      "browser_head_sha256": "197ecaeb07e96a189f30d67d417bcf42accee35e6d3f9d6511d69a882f0ff464",
+      "git_blob_sha": "077766475143050a4b462aaf5eb71d083ebf08cd",
+      "current_sha256": "197ecaeb07e96a189f30d67d417bcf42accee35e6d3f9d6511d69a882f0ff464",
+      "current_equals_browser_head": true,
+      "reason": [
+        "Actual HTML image/model/cover asset"
+      ]
+    },
+    {
+      "path": "assets/topic-visuals/year1/le01-beach-night.png",
+      "browser_head_bytes": 99488,
+      "browser_head_sha256": "4348fc6fb86b981bbe034401da01d90de2dc48af33fc782197247058992ec9ef",
+      "git_blob_sha": "706a0faed9bd2760f105e11d315082d616aff660",
+      "current_sha256": "4348fc6fb86b981bbe034401da01d90de2dc48af33fc782197247058992ec9ef",
+      "current_equals_browser_head": true,
+      "reason": [
+        "Actual HTML image/model/cover asset"
+      ]
+    },
+    {
+      "path": "assets/topic-visuals/year1/le01-reading-library.png",
+      "browser_head_bytes": 130174,
+      "browser_head_sha256": "0fe76a48a826e0a3caf22a285df064aa4f4e578f169a28030e9ef10ea20e36fb",
+      "git_blob_sha": "6ddc11a980d2580571e2053afa3443f33fa52f53",
+      "current_sha256": "0fe76a48a826e0a3caf22a285df064aa4f4e578f169a28030e9ef10ea20e36fb",
+      "current_equals_browser_head": true,
+      "reason": [
+        "Actual HTML image/model/cover asset"
+      ]
+    },
+    {
+      "path": "assets/topic-visuals/year1/le01-sharing-crayons.png",
+      "browser_head_bytes": 116858,
+      "browser_head_sha256": "180bff4faba835b3065c56655698b5083fd7b492398dddf9bef738c6027a6047",
+      "git_blob_sha": "71e735315ef3a57d12c1027c1da94fd18835e3af",
+      "current_sha256": "180bff4faba835b3065c56655698b5083fd7b492398dddf9bef738c6027a6047",
+      "current_equals_browser_head": true,
+      "reason": [
+        "Actual HTML image/model/cover asset"
+      ]
+    },
+    {
+      "path": "assets/topic-visuals/year1/worksheet-magpie.png",
+      "browser_head_bytes": 58313,
+      "browser_head_sha256": "0c125a38ed8ed2433c1854b82bc558185086c6035f01e1e52e75d07de667c10b",
+      "git_blob_sha": "434c95b5e4195e63b967ca97c6700d8c4b6e9576",
+      "current_sha256": "0c125a38ed8ed2433c1854b82bc558185086c6035f01e1e52e75d07de667c10b",
+      "current_equals_browser_head": true,
+      "reason": [
+        "Actual HTML image/model/cover asset"
+      ]
+    },
+    {
+      "path": "assets/tpt-17911863-cover.png",
+      "browser_head_bytes": 1527440,
+      "browser_head_sha256": "d01878edb814cab87bbb660a80234fde4db621872c2d40292879870c46d99ccc",
+      "git_blob_sha": "cb889fa2060bbd41175b9364919e48625b71b300",
+      "current_sha256": "d01878edb814cab87bbb660a80234fde4db621872c2d40292879870c46d99ccc",
+      "current_equals_browser_head": true,
+      "reason": [
+        "Actual HTML image/model/cover asset"
+      ]
+    },
+    {
+      "path": "assets/unavailable-activity-paths.json",
+      "browser_head_bytes": 18,
+      "browser_head_sha256": "063161662e5d40105de9e4c765b80b47d07fb82ef5359f6de58b418d8897917b",
+      "git_blob_sha": "e80f4253888cdadda1e3d810f6a3cb3c68c20b50",
+      "current_sha256": "063161662e5d40105de9e4c765b80b47d07fb82ef5359f6de58b418d8897917b",
+      "current_equals_browser_head": true,
+      "reason": [
+        "Potential shared utility/helper dependency from inspected script loaders; conservative inclusion, not an observed request log"
+      ]
+    },
+    {
+      "path": "data/app-question-banks.json",
+      "browser_head_bytes": 40242,
+      "browser_head_sha256": "15982e0351265a2590c02a134b24052dad3586d92fb902fe02f19a196eba6e60",
+      "git_blob_sha": "157cf3af344dd6ff7ee625a684122ad2ba72c320",
+      "current_sha256": "15982e0351265a2590c02a134b24052dad3586d92fb902fe02f19a196eba6e60",
+      "current_equals_browser_head": true,
+      "reason": [
+        "Potential shared utility/helper dependency from inspected script loaders; conservative inclusion, not an observed request log"
+      ]
+    },
+    {
+      "path": "data/print-and-go-products.json",
+      "browser_head_bytes": 793691,
+      "browser_head_sha256": "979c487dda9a81d7f155cdb045a40ac71bcf80b03ab47735cf786213bd461930",
+      "git_blob_sha": "6fa47cebcfc44ea6b075079774bcf1b984fc650a",
+      "current_sha256": "979c487dda9a81d7f155cdb045a40ac71bcf80b03ab47735cf786213bd461930",
+      "current_equals_browser_head": true,
+      "reason": [
+        "Potential shared utility/helper dependency from inspected script loaders; conservative inclusion, not an observed request log"
+      ]
+    },
+    {
+      "path": "docs/qa/year1-english-topic-pages-batch2-20261110/inventory.json",
+      "browser_head_bytes": 8591,
+      "browser_head_sha256": "66de93caf60ffaf0230b3be7dd0874208eb8bb06d298eb388c354fe6a2c653c5",
+      "git_blob_sha": "809395265f9dfbba9d5b8ff4740bb90a4af61de3",
+      "current_sha256": "8dc5f6ff6c243124173497cb243b3d7af803f208187dc931363a732a0f63bf85",
+      "current_equals_browser_head": false,
+      "reason": [
+        "Actual browser test/workflow inventory or dependency lock"
+      ]
+    },
+    {
+      "path": "package-lock.json",
+      "browser_head_bytes": 2965,
+      "browser_head_sha256": "8633f2a54dc536b233231bdaa4dbc74acc38bc212fdb0861adc20b93cab08780",
+      "git_blob_sha": "97494ba4b1223b0501b03902eabc00bff49d4d81",
+      "current_sha256": "8633f2a54dc536b233231bdaa4dbc74acc38bc212fdb0861adc20b93cab08780",
+      "current_equals_browser_head": true,
+      "reason": [
+        "Actual browser test/workflow inventory or dependency lock"
+      ]
+    },
+    {
+      "path": "package.json",
+      "browser_head_bytes": 627,
+      "browser_head_sha256": "988838674bc4e8ad3543e0bde8a6f6d7b5f484bf77ec3187eaf3db09ccf8cdc2",
+      "git_blob_sha": "279c418ea1b6eba7036b26ee8c3a3edc3d0a1866",
+      "current_sha256": "988838674bc4e8ad3543e0bde8a6f6d7b5f484bf77ec3187eaf3db09ccf8cdc2",
+      "current_equals_browser_head": true,
+      "reason": [
+        "Actual browser test/workflow inventory or dependency lock"
+      ]
+    },
+    {
+      "path": "pwa-register.js",
+      "browser_head_bytes": 6198,
+      "browser_head_sha256": "ce15b45896dc2ff29e83cc0cb4ca6c98bc3e9bf4dc5b17b72009c4ab3707d22d",
+      "git_blob_sha": "a6722b570107fdb5b7c434eed55e135b407533fb",
+      "current_sha256": "ce15b45896dc2ff29e83cc0cb4ca6c98bc3e9bf4dc5b17b72009c4ab3707d22d",
+      "current_equals_browser_head": true,
+      "reason": [
+        "Direct HTML script used by JS smoke"
+      ]
+    },
+    {
+      "path": "scripts/qa_year1_english_topic_pages_batch2_browser.cjs",
+      "browser_head_bytes": 12636,
+      "browser_head_sha256": "ec951c7e18368e79372c3981d578d177a84e0e8c6ced2286834e9d2d9ed28e40",
+      "git_blob_sha": "ef3e9f34ab2c4a6c04858f71e5a06c21673c9201",
+      "current_sha256": "ec951c7e18368e79372c3981d578d177a84e0e8c6ced2286834e9d2d9ed28e40",
+      "current_equals_browser_head": true,
+      "reason": [
+        "Actual browser test/workflow inventory or dependency lock"
+      ]
+    },
+    {
+      "path": "service-worker.js",
+      "browser_head_bytes": 7288,
+      "browser_head_sha256": "9a3cdd679d51cebc50e7765147fb53f2e34a549d0c28faf03b7cd7413bfec576",
+      "git_blob_sha": "1d1da72d924f26c7b8c7b541a95110eb7b6d7971",
+      "current_sha256": "9a3cdd679d51cebc50e7765147fb53f2e34a549d0c28faf03b7cd7413bfec576",
+      "current_equals_browser_head": true,
+      "reason": [
+        "Potential shared utility/helper dependency from inspected script loaders; conservative inclusion, not an observed request log"
+      ]
+    },
+    {
+      "path": "style.css",
+      "browser_head_bytes": 105418,
+      "browser_head_sha256": "ae989b9bfe20db6ac741e2df4cc0dbeeffd3d8fcf8d8e1d0e5ffd5dd05821fae",
+      "git_blob_sha": "08cc59e74479fce7b164a1420b620fb85d735c66",
+      "current_sha256": "ae989b9bfe20db6ac741e2df4cc0dbeeffd3d8fcf8d8e1d0e5ffd5dd05821fae",
+      "current_equals_browser_head": true,
+      "reason": [
+        "HTML-linked, shared-helper or recursive local CSS dependency"
+      ]
+    },
+    {
+      "path": "year1/english/ac9e1le01-how-language-and-images-are-used-to-create-characters-settings/index.html",
+      "browser_head_bytes": 38908,
+      "browser_head_sha256": "3738ab94449ee81018d88f092515729f76b2a8b76280b7083606bd8190188e16",
+      "git_blob_sha": "3d63e823b1d319cbe4390a613cb5b129053c20fb",
+      "current_sha256": "84d8969efd8b361ecd3f64962834ec220f4fc359b25cc4526bb1164070e6bef6",
+      "current_equals_browser_head": false,
+      "reason": [
+        "Actual browser-head semantic-reviewed page"
+      ]
+    },
+    {
+      "path": "year1/english/ac9e1le02-literary-texts-and-share-responses-by-making-connections-with/index.html",
+      "browser_head_bytes": 35132,
+      "browser_head_sha256": "316d4a5c33eed5fe5b7705228da4e1f5dc2d956a9171d232325ce712003eaa12",
+      "git_blob_sha": "24dae1f11ab270e6b1f479bc138800d99b0d1754",
+      "current_sha256": "e33fb156cc33b25156eef6bf0c1a03dcd62ad1b7761d2c0bc59528ec65938fd4",
+      "current_equals_browser_head": false,
+      "reason": [
+        "Actual browser-head semantic-reviewed page"
+      ]
+    },
+    {
+      "path": "year1/english/ac9e1le03-plot-character-and-setting-which-are-features-of-stories/index.html",
+      "browser_head_bytes": 47533,
+      "browser_head_sha256": "444300d2f535788fba7a93d953c191edbe41ce840f0445c21821941315d43730",
+      "git_blob_sha": "3a9d9f3233d05c8dcfb3eff5fe19bdcf13eb0729",
+      "current_sha256": "ea03ab30803deb8586075a16fcd221fb21029567d3f4bbfb5ab91b0a9351a2ef",
+      "current_equals_browser_head": false,
+      "reason": [
+        "Actual browser-head semantic-reviewed page"
+      ]
+    },
+    {
+      "path": "year1/english/ac9e1le04-poems-chants-rhymes-and-songs-and-imitate-and-invent-sound/index.html",
+      "browser_head_bytes": 49096,
+      "browser_head_sha256": "d98bf55fe0840cf5c722576b6db73cb660322844f4333ef4c71693cb5a859f1a",
+      "git_blob_sha": "4bc9190278543ef73191d648c289b9f96e7a28b4",
+      "current_sha256": "1abed4292bbb0ff74c371eeaaf8a1e32f778c9b43b5f41f49a4c1af9a4b4b0da",
+      "current_equals_browser_head": false,
+      "reason": [
+        "Actual browser-head semantic-reviewed page"
+      ]
+    },
+    {
+      "path": "year1/english/ac9e1le05-retell-or-adapt-a-familiar-story-using-plot-and-characters/index.html",
+      "browser_head_bytes": 42409,
+      "browser_head_sha256": "3176f2802fba589ebd78a7d9ef196eb8ba258a692fd30ef062f7db212c6bc6b0",
+      "git_blob_sha": "544138529d906d3bea9ccf3e95c02392ef8c023c",
+      "current_sha256": "c88413d9b8329bdc6fa9804f28c72884dc4565da706367a04bde591f18a58738",
+      "current_equals_browser_head": false,
+      "reason": [
+        "Actual browser-head semantic-reviewed page"
+      ]
+    },
+    {
+      "path": "year1/english/ac9e1ly01-different-texts-and-identify-some-features-that-indicate-their/index.html",
+      "browser_head_bytes": 40625,
+      "browser_head_sha256": "26df55ab479a2b5ae8c39ab070c2e5090957dbf1c1024d4866b0bf88f2626193",
+      "git_blob_sha": "556fd92da5ebc7ddef2236b4935e7e2b1ec3d0cd",
+      "current_sha256": "e24a863b3c18ce5c4dd3243bdf7c2628be3177ef28f35ba07bfb261f315ff664",
+      "current_equals_browser_head": false,
+      "reason": [
+        "Actual browser-head semantic-reviewed page"
+      ]
+    },
+    {
+      "path": "year1/english/ac9e1ly02-interaction-skills-including-turn-taking-speaking-clearly-using/index.html",
+      "browser_head_bytes": 43552,
+      "browser_head_sha256": "cf11cae2f02000ea53a8c21bc1a08de2240dc3bb4358166ace7706fb1275a2f1",
+      "git_blob_sha": "b8975a6153bb2aecc29a687d3d15987e7ab9fc36",
+      "current_sha256": "1192dd92d6944012dd57a7a0b55b3d4b704f37cd67d7733f7a6cbfd5e0a6b0d7",
+      "current_equals_browser_head": false,
+      "reason": [
+        "Actual browser-head semantic-reviewed page"
+      ]
+    },
+    {
+      "path": "year1/english/ac9e1ly03-some-similarities-and-differences-between-imaginative/index.html",
+      "browser_head_bytes": 43019,
+      "browser_head_sha256": "43ddf89c98d9b04182756846a6837ca7222ba6a3e635683afe96e7bab76ce767",
+      "git_blob_sha": "51f5fdf7b12c6108abb391987be8abd3b20f4b82",
+      "current_sha256": "3b7b61583f97b3f5b2de5af9a435986d98e52fc1f6eae96f714769073d70e3f5",
+      "current_equals_browser_head": false,
+      "reason": [
+        "Actual browser-head semantic-reviewed page"
+      ]
+    },
+    {
+      "path": "year1/english/ac9e1ly04-decodable-and-authentic-texts-using-developing-phonic-knowledge/index.html",
+      "browser_head_bytes": 35637,
+      "browser_head_sha256": "3f845bdb0c7c07694d6b7bd3c149a125693890cc483ed98a21b9d15384b94591",
+      "git_blob_sha": "ad3170d86a539e4812717d656361b0608b2bcdc2",
+      "current_sha256": "76a2dca470ff748d9f2e8c577c0f5dd519586778e5811bc8704d4bb3d17b3aec",
+      "current_equals_browser_head": false,
+      "reason": [
+        "Actual browser-head semantic-reviewed page"
+      ]
+    },
+    {
+      "path": "year1/english/ac9e1ly05-comprehension-strategies-such-as-visualising-predicting/index.html",
+      "browser_head_bytes": 26816,
+      "browser_head_sha256": "2907e5886eb214254b4f9f2a3d8333b0d3356f96af888a45b4d05fabd7c86324",
+      "git_blob_sha": "4fd96295f3ee54e16acf805f35cf4a9f35cd8c2b",
+      "current_sha256": "8dec009e9593e1415fed6f2c0d65f8eca1fd04c2a87579982f04ef069e4c77ea",
+      "current_equals_browser_head": false,
+      "reason": [
+        "Actual browser-head semantic-reviewed page"
+      ]
+    }
+  ],
+  "external_dependencies_blocked_by_harness": [
+    "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N"
+  ],
+  "changed_dependencies": [
+    "docs/qa/year1-english-topic-pages-batch2-20261110/inventory.json",
+    "year1/english/ac9e1le01-how-language-and-images-are-used-to-create-characters-settings/index.html",
+    "year1/english/ac9e1le02-literary-texts-and-share-responses-by-making-connections-with/index.html",
+    "year1/english/ac9e1le03-plot-character-and-setting-which-are-features-of-stories/index.html",
+    "year1/english/ac9e1le04-poems-chants-rhymes-and-songs-and-imitate-and-invent-sound/index.html",
+    "year1/english/ac9e1le05-retell-or-adapt-a-familiar-story-using-plot-and-characters/index.html",
+    "year1/english/ac9e1ly01-different-texts-and-identify-some-features-that-indicate-their/index.html",
+    "year1/english/ac9e1ly02-interaction-skills-including-turn-taking-speaking-clearly-using/index.html",
+    "year1/english/ac9e1ly03-some-similarities-and-differences-between-imaginative/index.html",
+    "year1/english/ac9e1ly04-decodable-and-authentic-texts-using-developing-phonic-knowledge/index.html",
+    "year1/english/ac9e1ly05-comprehension-strategies-such-as-visualising-predicting/index.html"
+  ],
+  "scope": "All direct page/CSS/image/script/test dependencies, recursive local CSS, plus conservatively pinned shared utility/helper dependencies inferred from inspected loader source. This is not a recorded request trace or app/linked-product functional certification.",
+  "complete_tracked_diff_binding": {
+    "non_qa_changed_paths": [
+      "year1/english/ac9e1le01-how-language-and-images-are-used-to-create-characters-settings/index.html",
+      "year1/english/ac9e1le02-literary-texts-and-share-responses-by-making-connections-with/index.html",
+      "year1/english/ac9e1le03-plot-character-and-setting-which-are-features-of-stories/index.html",
+      "year1/english/ac9e1le04-poems-chants-rhymes-and-songs-and-imitate-and-invent-sound/index.html",
+      "year1/english/ac9e1le05-retell-or-adapt-a-familiar-story-using-plot-and-characters/index.html",
+      "year1/english/ac9e1ly01-different-texts-and-identify-some-features-that-indicate-their/index.html",
+      "year1/english/ac9e1ly02-interaction-skills-including-turn-taking-speaking-clearly-using/index.html",
+      "year1/english/ac9e1ly03-some-similarities-and-differences-between-imaginative/index.html",
+      "year1/english/ac9e1ly04-decodable-and-authentic-texts-using-developing-phonic-knowledge/index.html",
+      "year1/english/ac9e1ly05-comprehension-strategies-such-as-visualising-predicting/index.html"
+    ],
+    "result": "Only the10recordedreferenceanchors differ inexistingnon-QAfiles; all other tracked dependencies including shared runtime files remain byte-identical to this full browser-head tree."
+  }
+}
