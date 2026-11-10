@@ -9,17 +9,17 @@ fs.mkdirSync(out, {recursive:true});
 // Native hash navigation inherits the site's smooth scrolling. Wait for its
 // actual position to settle before moving to another link; retain real clicks.
 async function waitForScrollToSettle(page) {
-  await page.evaluate(() => new Promise((resolve,reject) => {
-    let lastX=scrollX,lastY=scrollY,quietSince=performance.now();
-    const start=performance.now();
-    function check(now){
-      if(Math.abs(scrollX-lastX)>0.1||Math.abs(scrollY-lastY)>0.1){lastX=scrollX;lastY=scrollY;quietSince=now;}
-      if(now-quietSince>=300){resolve();return;}
-      if(now-start>10000){reject(new Error('Native scroll did not settle'));return;}
-      requestAnimationFrame(check);
-    }
-    requestAnimationFrame(check);
-  }));
+  // Poll from Node: the page intentionally has script execution disabled.
+  // Both the quiet interval and deadline must run independently of page timers.
+  let last=await page.evaluate(()=>({x:scrollX,y:scrollY}));
+  const started=Date.now();let quietSince=started;
+  while(Date.now()-started<10000){
+    await new Promise(resolve=>setTimeout(resolve,50));
+    const current=await page.evaluate(()=>({x:scrollX,y:scrollY}));
+    if(Math.abs(current.x-last.x)>0.1||Math.abs(current.y-last.y)>0.1){last=current;quietSince=Date.now();}
+    if(Date.now()-quietSince>=300)return;
+  }
+  throw new Error('Native scroll did not settle');
 }
 
 (async () => {
@@ -88,6 +88,7 @@ async function waitForScrollToSettle(page) {
           assert.equal(await links.count(),24,'LA05 complete working navigation cards');
           for(const link of await links.all()){
             const href=await link.getAttribute('href');
+            console.log('Native navigation',item.code,width,href);
             await waitForScrollToSettle(page);
             await link.evaluate(e=>e.scrollIntoView({block:'center',behavior:'instant'}));
             await link.click();

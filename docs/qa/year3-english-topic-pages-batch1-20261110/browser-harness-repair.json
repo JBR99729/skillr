@@ -503,5 +503,13 @@
       }
     ]
   },
-  "rerun": "PENDING"
+  "rerun": "Node polling rerun PENDING",
+  "raf_attempt": {
+    "run": 42771655051,
+    "head": "2a7b69e5944fa260c14019dbfef8ae97a6e95f36",
+    "state_at_supersession": "in_progress; no successful outcome claimed",
+    "finding": "In-page rAF callback is unsuitable for enforcing a deadline on intentionally JavaScript-disabled pages.",
+    "replacement": "Node polls synchronous scrollX/Y snapshots every50ms, requires300ms quiet, rejects after10s independently of page callbacks. All actual pointer click/hash/visible-target assertions retained."
+  },
+  "node_polling_harness_sha256": "01106cd33509f9101c9aedb5338188e6f7abd1b264d78b4bc0eb668160ab6beb"
 }
