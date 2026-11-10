@@ -1,0 +1,139 @@
+[
+  {
+    "code": "AC9E2LA01",
+    "section": "Learning goals",
+    "before": "Learning target: investigate how interpersonal language choices vary depending on the context, including the different roles taken on in interactions",
+    "after": "",
+    "occurrences": 1,
+    "reason": "Remove repeated exact curriculum descriptor; preserve once in alignment and preserve the learning explanation/goals/routine."
+  },
+  {
+    "code": "AC9E2LA02",
+    "section": "Learning goals",
+    "before": "Learning target: explore how language can be used for appreciating texts and providing reasons for preferences",
+    "after": "",
+    "occurrences": 1,
+    "reason": "Remove repeated exact curriculum descriptor; preserve once in alignment and preserve the learning explanation/goals/routine."
+  },
+  {
+    "code": "AC9E2LA03",
+    "section": "Learning goals",
+    "before": "Learning target: identify how texts across the curriculum are organised differently and use language features depending on purposes",
+    "after": "",
+    "occurrences": 1,
+    "reason": "Remove repeated exact curriculum descriptor; preserve once in alignment and preserve the learning explanation/goals/routine."
+  },
+  {
+    "code": "AC9E2LA04",
+    "section": "Learning goals",
+    "before": "Learning target: understand how texts are made cohesive by using personal and possessive pronouns and by omitting words that can be inferred",
+    "after": "",
+    "occurrences": 1,
+    "reason": "Remove repeated exact curriculum descriptor; preserve once in alignment and preserve the learning explanation/goals/routine."
+  },
+  {
+    "code": "AC9E2LA04",
+    "section": "Earlier worked model",
+    "attribute": "d",
+    "before": "M203 60H158m-7-5l7 5-7 5",
+    "after": "M203 60H158m7-5l-7 5 7 5",
+    "occurrences": 1,
+    "reason": "Correct back-reference arrowhead to point left from They to The chicks; all other existing SVG geometry/text preserved."
+  },
+  {
+    "code": "AC9E2LA05",
+    "section": "Learning goals",
+    "before": "Learning target: navigate print and screen texts using chapters, tables of contents, indexes, side-bar menus, drop-down menus or links",
+    "after": "",
+    "occurrences": 1,
+    "reason": "Remove repeated exact curriculum descriptor; preserve once in alignment and preserve the learning explanation/goals/routine."
+  },
+  {
+    "code": "AC9E2LA05",
+    "section": "Subject-Specific Content & Key Examples",
+    "before": "Race to locate three facts using a contents page and an index.",
+    "after": "Take turns locating three facts using the supplied contents page and index.",
+    "occurrences": 2,
+    "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  },
+  {
+    "code": "AC9E2LA06",
+    "section": "Learning goals",
+    "before": "Learning target: understand that connections can be made between ideas by using a compound sentence with 2 or more independent clauses usually linked by a coordinating conjunction",
+    "after": "",
+    "occurrences": 1,
+    "reason": "Remove repeated exact curriculum descriptor; preserve once in alignment and preserve the learning explanation/goals/routine."
+  },
+  {
+    "code": "AC9E2LA07",
+    "section": "Learning goals",
+    "before": "Learning target: understand that in sentences nouns may be extended into noun groups using articles and adjectives, and verbs may be expressed as verb groups",
+    "after": "",
+    "occurrences": 1,
+    "reason": "Remove repeated exact curriculum descriptor; preserve once in alignment and preserve the learning explanation/goals/routine."
+  },
+  {
+    "code": "AC9E2LA08",
+    "section": "Learning goals",
+    "before": "Learning target: understand that images add to or multiply the meanings of a text",
+    "after": "",
+    "occurrences": 1,
+    "reason": "Remove repeated exact curriculum descriptor; preserve once in alignment and preserve the learning explanation/goals/routine."
+  },
+  {
+    "code": "AC9E2LA08",
+    "section": "Subject-Specific Content & Key Examples",
+    "before": "Text: The path looked difficult.",
+    "after": "Text: The kitten waited.",
+    "occurrences": 1,
+    "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  },
+  {
+    "code": "AC9E2LA08",
+    "section": "Subject-Specific Content & Key Examples",
+    "before": "Image: steep rocks and dark clouds",
+    "after": "Image: kitten under a wooden chair",
+    "occurrences": 1,
+    "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  },
+  {
+    "code": "AC9E2LA08",
+    "section": "Subject-Specific Content & Key Examples",
+    "before": "New meaning: danger and challenge",
+    "after": "New meaning: waiting indoors under a chair",
+    "occurrences": 1,
+    "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  },
+  {
+    "code": "AC9E2LA09",
+    "section": "Learning goals",
+    "before": "Learning target: experiment with and begin to make conscious choices of vocabulary to suit the topic",
+    "after": "",
+    "occurrences": 1,
+    "reason": "Remove repeated exact curriculum descriptor; preserve once in alignment and preserve the learning explanation/goals/routine."
+  },
+  {
+    "code": "AC9E2LA10",
+    "section": "Learning goals",
+    "before": "Learning target: recognise that capital letters are used in titles and commas are used to separate items in lists",
+    "after": "",
+    "occurrences": 1,
+    "reason": "Remove repeated exact curriculum descriptor; preserve once in alignment and preserve the learning explanation/goals/routine."
+  },
+  {
+    "code": "AC9E2LA10",
+    "section": "Learning goals",
+    "before": "Important words in titles begin with capital letters according to the chosen title style.",
+    "after": "Titles use capital letters. Which additional words take capitals depends on the chosen style; names keep their capitals.",
+    "occurrences": 1,
+    "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  },
+  {
+    "code": "AC9E2LA10",
+    "section": "Earlier worked model",
+    "before": "Which version is the correctly capitalised story title?",
+    "after": "Use this demonstrated title-case style: capitalise the first word and the main words. Edit the story title “the lost puppy”.",
+    "occurrences": 1,
+    "reason": "Declare the title style and a complete editable target; exact earlier diagram preserved."
+  }
+]

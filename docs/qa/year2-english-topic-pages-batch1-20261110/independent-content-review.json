@@ -1,0 +1,847 @@
+{
+  "date": "2026-11-10",
+  "status": "PASS — independent all-content source review complete",
+  "reviewer": "Independent research/content reviewer; no teaching-page authorship",
+  "scope": "All ten public static unscored Year2English TopicGuides AC9E2LA01–LA10 only. Source/content approval, not final hosted rendered approval.",
+  "git_checkpoint_at_review": "511e0a4bc1879e51415bd67f1d2486902abb7b49",
+  "baseline": "15e71b375ff546c365f103a257cddd0808a9bf67",
+  "identity_rule": "Exact reviewed page/asset SHA256 values below govern; evidence-only commits may follow. LA04 arrow and LA09 story clarifications are explicitly proved/pinned below; working-tree identities are authoritative.",
+  "coverage": {
+    "authored_scalar_fields": 440,
+    "teaching_strings_excluding_code_ids": 430,
+    "retained_teaching_sections": 51,
+    "recorded_retained_additions": 33,
+    "recorded_retained_corrections": 17,
+    "native_disclosures": 188,
+    "earlier_svg_models": 10,
+    "native_models_semantically_reviewed": 30,
+    "existing_image_assets": 2
+  },
+  "review_method": "Read every authored field and all51 retained teaching sections including actual same-section additions,16 original corrections, earlier worked text/models and all native model text/table/bubble relationships. Independently solved prompts/answer/model comparisons and checked alternatives, language, Year2 scope, source boundaries and accessibility. Opened both actual raster assets and independently rasterized/opened all ten exact earlier SVG models. Independently executed the scoped source checker against baseline with PASS440/51/188; separately resolved all440 authored fields in actual HTML and compared entire-original-document commercial destination sets and original metadata/canonical values.",
+  "per_code_findings": {
+    "AC9E2LA01": "PASS. Explicit contexts/cards, listener familiarity, roles and repair targets present. Alternative respectful wording is credited. Actual authorised local greeting/protocol preparation supplies source/model/usage conditions; no invented language, authority, assumed status, universal formality, gaze/accent judgement or ceremony role-play. Welcome permission-bearing role and anyone Acknowledgement distinction match independently verified primary source.",
+    "AC9E2LA02": "PASS. Complete original story/poem and actual response cards now support appreciation and relevant reasons. Different supported preferences accepted. Cultural task requires a lawful actual Cooee Mittigar copy, relevant spread and glossary before response; Darug creators/Country identified, no full-book detail or translation inferred from art. Reader effect claims remain subjective.",
+    "AC9E2LA03": "PASS. Six complete samples, meaningful purpose/form contrasts and actual scrambled fold/draw-on-folded-paper/open cards supply all givens. Connected events, report facts, procedure order and poem response distinguish real language/organisation clues. Common structures qualified; one word, topic or poster form is not treated as a genre proof.",
+    "AC9E2LA04": "PASS. Actual repetitive/clear/ambiguous paragraphs, personal/ownership forms and speaker-perspective chain supplied. Pronoun referents track meaning, number and context rather than nearest noun or guessed gender. Paint/Jo-did omissions expand recoverably; ambiguous Mia/Ava reference can be repaired by intended name. Repetition is retained when it clarifies. Related final-review C02 arrow correction independently checked: exact one-attribute change and corrected local pixels now point left from They toward The chicks; all other HTML bytes unchanged.",
+    "AC9E2LA05": "PASS in source/content scope. Complete three-chapter contents, alphabetic Bedding/Bowls/Cleaning/Home/Water index, printed3/8/14 extracts and native menu/anchor destinations agree. Page8 white-water/blue-feed bowls and page14 sleeping-area bedding answers are stated in the actual model. Chapter versus page numbers and PDF counter distinction clear. Source code exposes real routes; actual browser navigation remains later final testing, not inferred from this review.",
+    "AC9E2LA06": "PASS. Complete/incomplete clause cards, independent-clause test, addition/contrast/choice/result tasks and retained full worked reasoning all coherent. Intended link specified when so/but required; grammatical alternatives with different meanings handled appropriately. Coordinated words/actions distinguished from two explicit clauses without pretending there is no grammatical-framework variation. Three-plus clauses allowed.",
+    "AC9E2LA07": "PASS. Article/adjective/noun cards and actual sentences supplied. Whole noun/verb groups checked, helping verb retained; nouns can name ideas and verbs states. Subject agreement and aspect/time changes explained rather than presented as length-only edits. Useful details rather than adjective count; a/an follows next spoken sound.",
+    "AC9E2LA08": "PASS in semantic/source scope. Actual kitten/chair/room pixels support indoor-under-chair setting; words supply waiting, image does not prove motive/name/time/feeling. Actual first duck is an expressive walking cartoon; reaction inference qualified. Separate authored speech/thought choices explicitly do not claim reused artwork contained those words. Seed table names A2/B5 in same week and cannot establish causes. Earlier actual SVG schematic puddle/cloth/floor sequence inspected and accurate. Thirty native model/table/bubble identities semantically reviewed; exact hosted geometry remains separate.",
+    "AC9E2LA09": "PASS after finding C01 repair. Topic meanings, contextual choices and alternatives supplied. Reused packet now explicitly labels gardener/walking/whispering additions a new fictional version, not a fact-preserving edit. Both repeated sections rechecked; no extra detail silently derived from vague facts. Named Darug text/glossary and attribution/local-use boundaries coherent.",
+    "AC9E2LA10": "PASS. Declared title-case rule, sentence-case alternative, proper-name retention and actual editable targets coherent, including repaired earlier The Lost Puppy prompt. Whole multiword list items preserved, serial comma accepted where unstated, no punctuation-by-every-breath or universal every-word-capital rule. Sentence final punctuation retained."
+  },
+  "actionable_findings": [
+    {
+      "id": "C01",
+      "code": "AC9E2LA09",
+      "location": "Actual vocabulary contexts and revision paragraph, in retained Subject-Specific examples and Formative Assessment",
+      "initial_problem": "One possible clearer version introduced gardener occupation and walked/whispered actions absent from the vague draft while the adjacent rule required explicitly announcing fiction. This risked teaching unsupported precision as fact preservation.",
+      "status": "CLOSED — repaired and independently rechecked in both actual sections",
+      "before": "One possible clearer version: “The gardener walked to the peaceful garden. The gardener whispered.” Keep only details supported by the supplied context, or explicitly announce a new invented story version.",
+      "after": "One possible new fictional version: “The gardener walked to the peaceful garden. The gardener whispered.” This deliberately adds an occupation and new action details; it is a changed story, not a fact-preserving edit of the draft. For an edit that keeps the original facts, do not add those details.",
+      "exact_repair_proof": "Complete final LA09 HTML equals 03d2614ca452f8f10c3036364c4af8159676722b HTML after replacing precisely these two packet strings; every other byte unchanged.",
+      "prior_html_sha256": "bc79822579fe000038d23421f6fd831b60e4ff95089ba8f508975717a04aff92",
+      "final_html_sha256": "3bfb36b08310bce17a0185503d01bd42664524f86d6131050256a1f661781439"
+    },
+    {
+      "id": "C02",
+      "code": "AC9E2LA04",
+      "location": "Earlier worked model SVG arrow, d attribute",
+      "reported_by": "Fresh separate final risk/render reviewer, from actual hosted pixels",
+      "initial_problem": "Existing path arrowhead pointed right at the chicks endpoint despite the reference-back relation. This was missed in the earlier local all-model review and caught by the separate final reviewer.",
+      "status": "CLOSED in source/content and local corrected pixel scope; final hosted pixel recheck belongs to the separate final reviewer",
+      "before": "M203 60H158m-7-5l7 5-7 5",
+      "after": "M203 60H158m7-5l-7 5 7 5",
+      "exact_repair_proof": "Final complete LA04 HTML equals the originally reviewed HTML after precisely one literal d replacement; every other byte unchanged. Corrected line starts at x203, ends at x158 and arrowhead arms lie to the right of its leftward tip.",
+      "prior_html_sha256": "00864ca0ba52a0331135ddc23461533b4be6265430e826d450fb27356afefc81",
+      "final_html_sha256": "0e1cb0676153ad59ccd5c2f2d3c8f93593fb1b5f50028d21e8c6a8a84aa22290",
+      "related_verification": "Independently reran scoped source QA PASS440/51/188. Re-rendered/opened only corrected LA04 SVG; it now visibly points from They left toward The chicks. No repeated all-content review."
+    }
+  ],
+  "research_source_closure": "Prior independently pinned research/plan PASS reused. All-source method/gap closures remain sufficient for these authored families. No repeated quota collection. Primary cultural/publisher/protocol checks from research gate apply with explicit actual-book/local-source staging.",
+  "asset_and_model_inspection": "Both actual complete raster originals individually opened. Ten earlier SVGs extracted from exact final source, restoring HTML-parser viewbox to XML viewBox only in temporary extraction, then individually rendered/opened with Inkscape. Correct labels, arrows, grouping, schematic images and glyph geometry in that local scope. No teaching-page edit by reviewer.",
+  "commercial_preservation": [
+    {
+      "code": "AC9E2LA01",
+      "baseline_distinct_paid_destinations": [],
+      "final_distinct_paid_destinations": [],
+      "status": "PASS"
+    },
+    {
+      "code": "AC9E2LA02",
+      "baseline_distinct_paid_destinations": [],
+      "final_distinct_paid_destinations": [],
+      "status": "PASS"
+    },
+    {
+      "code": "AC9E2LA03",
+      "baseline_distinct_paid_destinations": [],
+      "final_distinct_paid_destinations": [],
+      "status": "PASS"
+    },
+    {
+      "code": "AC9E2LA04",
+      "baseline_distinct_paid_destinations": [],
+      "final_distinct_paid_destinations": [],
+      "status": "PASS"
+    },
+    {
+      "code": "AC9E2LA05",
+      "baseline_distinct_paid_destinations": [],
+      "final_distinct_paid_destinations": [],
+      "status": "PASS"
+    },
+    {
+      "code": "AC9E2LA06",
+      "baseline_distinct_paid_destinations": [],
+      "final_distinct_paid_destinations": [],
+      "status": "PASS"
+    },
+    {
+      "code": "AC9E2LA07",
+      "baseline_distinct_paid_destinations": [],
+      "final_distinct_paid_destinations": [],
+      "status": "PASS"
+    },
+    {
+      "code": "AC9E2LA08",
+      "baseline_distinct_paid_destinations": [],
+      "final_distinct_paid_destinations": [],
+      "status": "PASS"
+    },
+    {
+      "code": "AC9E2LA09",
+      "baseline_distinct_paid_destinations": [],
+      "final_distinct_paid_destinations": [],
+      "status": "PASS"
+    },
+    {
+      "code": "AC9E2LA10",
+      "baseline_distinct_paid_destinations": [],
+      "final_distinct_paid_destinations": [],
+      "status": "PASS"
+    }
+  ],
+  "remaining_blockers": [],
+  "limits": [
+    "Public unscored teaching review, not scored-bank, blind-scored test, human teacher, pupil trial, mastery or attainment certification.",
+    "No app-bank, linked paid-pack interior, slide or worksheet content review/changes; no availability/deployment claim beyond static metadata checker.",
+    "No full Cooee Mittigar book text/artwork inspected or reproduced, no local community authority or heard pronunciation inferred. Adult supplies lawful pages/glossary and authorised local greeting before dependent activity.",
+    "Native model source semantics and local earlier-SVG pixels reviewed. All40 hosted model PNGs, viewport layouts and actual navigation/interactions still require the fresh separate final reviewer/browser gate."
+  ],
+  "pages": [
+    {
+      "code": "AC9E2LA01",
+      "path": "year2/english/ac9e2la01-investigate-how-interpersonal-language-choices-vary-depending/index.html",
+      "bytes": 27275,
+      "sha256": "51e2ae94bd5d230b0765d2789ef983972eb47aae782b1c3f198b820cb8e2a410",
+      "all_44_authored_scalars_present": true
+    },
+    {
+      "code": "AC9E2LA02",
+      "path": "year2/english/ac9e2la02-how-language-can-be-used-for-appreciating-texts-and-providing/index.html",
+      "bytes": 27213,
+      "sha256": "43a40ad6aa7488b734b8b515f55744a9498f0c4bf93e840acb840da6a11b6b04",
+      "all_44_authored_scalars_present": true
+    },
+    {
+      "code": "AC9E2LA03",
+      "path": "year2/english/ac9e2la03-how-texts-across-the-curriculum-are-organised-differently-and/index.html",
+      "bytes": 27431,
+      "sha256": "7a461edeb6d0204214362429d9238643a543d0814e12e3d013cbe099813f15ac",
+      "all_44_authored_scalars_present": true
+    },
+    {
+      "code": "AC9E2LA04",
+      "path": "year2/english/ac9e2la04-how-texts-are-made-cohesive-by-using-personal-and-possessive/index.html",
+      "bytes": 26046,
+      "sha256": "0e1cb0676153ad59ccd5c2f2d3c8f93593fb1b5f50028d21e8c6a8a84aa22290",
+      "all_44_authored_scalars_present": true
+    },
+    {
+      "code": "AC9E2LA05",
+      "path": "year2/english/ac9e2la05-navigate-print-and-screen-texts-using-chapters-tables-of/index.html",
+      "bytes": 34426,
+      "sha256": "875a380548d2f5826e76151bc5ba928e2255fee86f03d46ec6d8c0e796c13bf0",
+      "all_44_authored_scalars_present": true
+    },
+    {
+      "code": "AC9E2LA06",
+      "path": "year2/english/ac9e2la06-that-connections-can-be-made-between-ideas-by-using-a/index.html",
+      "bytes": 28556,
+      "sha256": "592c2bc38bfd71ba7a16f41c000991879288285daade6ddfb9fbd8bdef65bd77",
+      "all_44_authored_scalars_present": true
+    },
+    {
+      "code": "AC9E2LA07",
+      "path": "year2/english/ac9e2la07-that-in-sentences-nouns-may-be-extended-into-noun-groups/index.html",
+      "bytes": 26596,
+      "sha256": "b78ca401c9793886a9e1445107073600f81f580802f18f7a79e0e241eb8f4352",
+      "all_44_authored_scalars_present": true
+    },
+    {
+      "code": "AC9E2LA08",
+      "path": "year2/english/ac9e2la08-that-images-add-to-or-multiply-the-meanings-of-a/index.html",
+      "bytes": 31320,
+      "sha256": "1da151aea75c1965cd358724315c2ea94d7b5c0be18b6e0034eaabdca25e523c",
+      "all_44_authored_scalars_present": true
+    },
+    {
+      "code": "AC9E2LA09",
+      "path": "year2/english/ac9e2la09-experiment-with-and-begin-to-make-conscious-choices-of/index.html",
+      "bytes": 27227,
+      "sha256": "3bfb36b08310bce17a0185503d01bd42664524f86d6131050256a1f661781439",
+      "all_44_authored_scalars_present": true
+    },
+    {
+      "code": "AC9E2LA10",
+      "path": "year2/english/ac9e2la10-that-capital-letters-are-used-in-titles-and-commas-are/index.html",
+      "bytes": 25512,
+      "sha256": "7b665a9b6f159d73635c8b222837297f3b862d395c40ddbbe55f1f7ffc64db06",
+      "all_44_authored_scalars_present": true
+    }
+  ],
+  "retained_section_pins": [
+    {
+      "code": "AC9E2LA01",
+      "label": "Learning goals",
+      "normalized_text_sha256": "35650f161b43d7195915fa8c690fd063cd9def37a04c7ee1ee9847b500f49b14"
+    },
+    {
+      "code": "AC9E2LA01",
+      "label": "Subject-Specific Content & Key Examples",
+      "normalized_text_sha256": "a44c05b3bf15ab0d9be0bca62d62759e0b9b90fd45938080495fac1894e3e4ae"
+    },
+    {
+      "code": "AC9E2LA01",
+      "label": "Common Student Misconceptions",
+      "normalized_text_sha256": "cd5cbe7322db5a18c95278dc5ffed4299292beaf60af08137868ee34655f4930"
+    },
+    {
+      "code": "AC9E2LA01",
+      "label": "Practice Thought & Formative Assessment",
+      "normalized_text_sha256": "35e7c12cf572f8030bde1d46af8cce7f840c4364502ca10e2188714918bb5f81"
+    },
+    {
+      "code": "AC9E2LA01",
+      "label": "Revision Notes",
+      "normalized_text_sha256": "871e5a8373e15020aa85ed4d7ab59d1a5aeaf24ab058e21adfa82bede58b1ffd"
+    },
+    {
+      "code": "AC9E2LA02",
+      "label": "Learning goals",
+      "normalized_text_sha256": "1eda11768090eacfb94e23e5b47febe5730f1a8c287cc5005b5a75a3ee537e6c"
+    },
+    {
+      "code": "AC9E2LA02",
+      "label": "Subject-Specific Content & Key Examples",
+      "normalized_text_sha256": "bd774a3c8e2bb39cf78693cca213ca9e1b48adc1229765b6749cbb077a61b95d"
+    },
+    {
+      "code": "AC9E2LA02",
+      "label": "Common Student Misconceptions",
+      "normalized_text_sha256": "86ec1cad4708d3af6e8d43efe96716c88f5ef46e4da02e88c1df7a5ee9fa8627"
+    },
+    {
+      "code": "AC9E2LA02",
+      "label": "Practice Thought & Formative Assessment",
+      "normalized_text_sha256": "2cbdf53502de87749b4472adbe0269f8b6bdbb11e5a5de205bad3dead2aba64f"
+    },
+    {
+      "code": "AC9E2LA02",
+      "label": "Revision Notes",
+      "normalized_text_sha256": "cd0b336cc705a4bab36835732dcb5e6a96acd31e631d7f890a45e954ea9cadc3"
+    },
+    {
+      "code": "AC9E2LA03",
+      "label": "Learning goals",
+      "normalized_text_sha256": "092185bdb066c1f6519d0eed626db494a3de293ccd8b3bf028f725a4d58e406e"
+    },
+    {
+      "code": "AC9E2LA03",
+      "label": "Subject-Specific Content & Key Examples",
+      "normalized_text_sha256": "d955d908fa59e7906ddb0af47fc2a42ecf7be24101778dbced77687e7a2e2645"
+    },
+    {
+      "code": "AC9E2LA03",
+      "label": "Common Student Misconceptions",
+      "normalized_text_sha256": "deecf2c75ccd7b7c8b868cd56d41c208210b92886696613b4469d78810c9cf5e"
+    },
+    {
+      "code": "AC9E2LA03",
+      "label": "Practice Thought & Formative Assessment",
+      "normalized_text_sha256": "a8c20fb28dbfb62fb7c3d0c1eed713b3c0dbdbb12b6973f8bc79e5d627670490"
+    },
+    {
+      "code": "AC9E2LA03",
+      "label": "Revision Notes",
+      "normalized_text_sha256": "85eb909d610fb205292b26acbbc492b169003f65668a3aefaab5fde9301bbf72"
+    },
+    {
+      "code": "AC9E2LA04",
+      "label": "Learning goals",
+      "normalized_text_sha256": "0db44c52dd6176bf9f37660bc1c9fd51a35bc6eeada233d723b4fd00b34b72b0"
+    },
+    {
+      "code": "AC9E2LA04",
+      "label": "Subject-Specific Content & Key Examples",
+      "normalized_text_sha256": "737ec598adb9ff4be9cb3af6159307690512ca3bb2feab00857d031f5e39a810"
+    },
+    {
+      "code": "AC9E2LA04",
+      "label": "Common Student Misconceptions",
+      "normalized_text_sha256": "238e6f46bdf4751211af31ba5a3588d8cae914b94a9b9d65518a4e3452b67a15"
+    },
+    {
+      "code": "AC9E2LA04",
+      "label": "Practice Thought & Formative Assessment",
+      "normalized_text_sha256": "41773f85ff63ce9b18f6bdda0df9140b943a206fb8d75a07eb7d3846975be965"
+    },
+    {
+      "code": "AC9E2LA04",
+      "label": "Revision Notes",
+      "normalized_text_sha256": "e3957443f4488b752aebee03403f76d2e52512cdc3ba82a3801842e25cad1524"
+    },
+    {
+      "code": "AC9E2LA05",
+      "label": "Learning goals",
+      "normalized_text_sha256": "8972873a2c15605b19f181cfb84aa0bd22464c1d7520305ed4557a625e8f5e6f"
+    },
+    {
+      "code": "AC9E2LA05",
+      "label": "Subject-Specific Content & Key Examples",
+      "normalized_text_sha256": "c20cb39ac063833d282ebc3a83502e9b1541ff0d8c7c08aa7a18f44c2803453b"
+    },
+    {
+      "code": "AC9E2LA05",
+      "label": "Common Student Misconceptions",
+      "normalized_text_sha256": "0c24aed00b0f37a3112a6cc58f9bf6b74bc9e44c7bde6aa27e0e1c0e5fa246b2"
+    },
+    {
+      "code": "AC9E2LA05",
+      "label": "Practice Thought & Formative Assessment",
+      "normalized_text_sha256": "fe2125ffc8612a59f4d2b155cbab4cca23823337f47af5cc77a9e7026e823026"
+    },
+    {
+      "code": "AC9E2LA05",
+      "label": "Revision Notes",
+      "normalized_text_sha256": "77e76c492b3413ad23f86cbc2821adba446a2fc87326be899337eaaa734a6247"
+    },
+    {
+      "code": "AC9E2LA06",
+      "label": "Learning goals",
+      "normalized_text_sha256": "133fff7e4f72000191dbd0cf996f202c8f05ac41389411c43f6f45c9dd638319"
+    },
+    {
+      "code": "AC9E2LA06",
+      "label": "Subject-Specific Content & Key Examples",
+      "normalized_text_sha256": "9cc4517c308727a0ee7520f3969f6b3b2c2a2e8e3adae1e039fff7d9b87e7f6d"
+    },
+    {
+      "code": "AC9E2LA06",
+      "label": "Common Student Misconceptions",
+      "normalized_text_sha256": "eedc0e8848494caf5cf86c2722c7579b43c5652a6c9c740c4ddac80075256484"
+    },
+    {
+      "code": "AC9E2LA06",
+      "label": "Practice Thought & Formative Assessment",
+      "normalized_text_sha256": "c2c7a0ec5ff9fa189f5065d644dd090df20b9189db3bc2f145232872e3fdea5f"
+    },
+    {
+      "code": "AC9E2LA06",
+      "label": "Revision Notes",
+      "normalized_text_sha256": "736f5b38328cdf9cfde48fe6e385de4234c4f2d7e4dd9fd72a49d3a41df45387"
+    },
+    {
+      "code": "AC9E2LA06",
+      "label": "Worked example and reasoning checks",
+      "normalized_text_sha256": "be54533d8df01b3e6286f414848b2575f567866b2f99650782593619abd86890"
+    },
+    {
+      "code": "AC9E2LA07",
+      "label": "Learning goals",
+      "normalized_text_sha256": "880aba73b3bcd54188128989eebc2f84227216ec2eab90cce0fa025406752046"
+    },
+    {
+      "code": "AC9E2LA07",
+      "label": "Subject-Specific Content & Key Examples",
+      "normalized_text_sha256": "a17d5fb477543b4560a7fec17067fdb99db286c289d131c539c16f869e7d131c"
+    },
+    {
+      "code": "AC9E2LA07",
+      "label": "Common Student Misconceptions",
+      "normalized_text_sha256": "27e1965bc7bafd7b23b5bf1073e50b1961a716a70ced13eae96e02de71f95c5d"
+    },
+    {
+      "code": "AC9E2LA07",
+      "label": "Practice Thought & Formative Assessment",
+      "normalized_text_sha256": "5a513f223475716621f0ba896f86e91da361fdb3a48de42ca7b33775fa80553c"
+    },
+    {
+      "code": "AC9E2LA07",
+      "label": "Revision Notes",
+      "normalized_text_sha256": "98c91808da4af89618125ce170fe38d443a1829dcb8561e2297a97afd2432200"
+    },
+    {
+      "code": "AC9E2LA08",
+      "label": "Learning goals",
+      "normalized_text_sha256": "6c1274c793bcf35e655a4499d87c76e8a40602d5f41f1cc626a5c9739b5c8d5c"
+    },
+    {
+      "code": "AC9E2LA08",
+      "label": "Subject-Specific Content & Key Examples",
+      "normalized_text_sha256": "89cb8429f92f054520da167b80300086449f8692b503d5f10caa2bd978af3fe6"
+    },
+    {
+      "code": "AC9E2LA08",
+      "label": "Common Student Misconceptions",
+      "normalized_text_sha256": "00f40e2ccc1d2f1279d2a360f68df76b610457f9c3f99bbfb009561c3af82802"
+    },
+    {
+      "code": "AC9E2LA08",
+      "label": "Practice Thought & Formative Assessment",
+      "normalized_text_sha256": "2bcae3406c7ab0e144147b1e8c0f54fce34c46253cb8e1b583d9074cbbdd0324"
+    },
+    {
+      "code": "AC9E2LA08",
+      "label": "Revision Notes",
+      "normalized_text_sha256": "f625a77b03864234ab3fcee002a2b1c87c45330cb698ab2fd9047712a38a079e"
+    },
+    {
+      "code": "AC9E2LA09",
+      "label": "Learning goals",
+      "normalized_text_sha256": "50f8474b30bdc62d8b44d663d6f9fbdd4486c22f5f21a8a3dd4a41fd801bdb62"
+    },
+    {
+      "code": "AC9E2LA09",
+      "label": "Subject-Specific Content & Key Examples",
+      "normalized_text_sha256": "abd5e8166fffeda5f2aaa30e4b936fa6bdfb2e442fc985c51284b8350b329792"
+    },
+    {
+      "code": "AC9E2LA09",
+      "label": "Common Student Misconceptions",
+      "normalized_text_sha256": "3f8e5f277bbf1916a514e8baddabbfaf53ddf651051c1d1fc880eb3250cefa8e"
+    },
+    {
+      "code": "AC9E2LA09",
+      "label": "Practice Thought & Formative Assessment",
+      "normalized_text_sha256": "0c4f231bb8e5dd7fc29476349a689738dcadc31ef612360e0511f391f53ec008"
+    },
+    {
+      "code": "AC9E2LA09",
+      "label": "Revision Notes",
+      "normalized_text_sha256": "782330ae07c808426b4fccbaa673081093307ada6dd06104ccbd1413a225f6e1"
+    },
+    {
+      "code": "AC9E2LA10",
+      "label": "Learning goals",
+      "normalized_text_sha256": "6983a93b2e8c40db761b5a4179fb622654686420daad6cbcf556833b34a13288"
+    },
+    {
+      "code": "AC9E2LA10",
+      "label": "Subject-Specific Content & Key Examples",
+      "normalized_text_sha256": "dcca4085c5ccb230ef0f0d771e6030e550707e284f2cb3119ea5acaad2c75050"
+    },
+    {
+      "code": "AC9E2LA10",
+      "label": "Common Student Misconceptions",
+      "normalized_text_sha256": "f49d7c84781f3f2c72143b964beb5f979cd3008fe10b73bcdd4efeb9a31cbd97"
+    },
+    {
+      "code": "AC9E2LA10",
+      "label": "Practice Thought & Formative Assessment",
+      "normalized_text_sha256": "2cce69317d7ae7d167abe94b8bcfdeb6b2f8cad2ead7d4e2afe6ef88392618ad"
+    },
+    {
+      "code": "AC9E2LA10",
+      "label": "Revision Notes",
+      "normalized_text_sha256": "4c98bd4afa6db2233ee08b8f6ecbf5833d9810847d4c03add308d616db965ae4"
+    }
+  ],
+  "native_model_pins": [
+    {
+      "code": "AC9E2LA01",
+      "index": 1,
+      "html_sha256": "a32ecdc4b68ef065dd60f22f607175604299816942e98493c38eb2e04108f824",
+      "normalized_text_sha256": "fb7cba9402f3cef421677b59fb902523a9ebcab6b3374795d0f638ea57ec3d92",
+      "semantic_content_review": "PASS",
+      "hosted_pixel_review": "Separate final reviewer; not claimed here"
+    },
+    {
+      "code": "AC9E2LA02",
+      "index": 1,
+      "html_sha256": "369b7ec8b576475fd2cd3b2ab7c5eb6fdc2e1eeacdd8c8cb5ef293f88c01d5bd",
+      "normalized_text_sha256": "e4506ed297281a066314366b55c731c9ce2e1cf1c988292829bc530f9a1bed66",
+      "semantic_content_review": "PASS",
+      "hosted_pixel_review": "Separate final reviewer; not claimed here"
+    },
+    {
+      "code": "AC9E2LA03",
+      "index": 1,
+      "html_sha256": "beaf824e4ebffaa1b7370bdcbf46dc32dc8835ce4e5482e4600c8f97691618c9",
+      "normalized_text_sha256": "27133537ed38955c2d528581e13b3354522d9bb791e602ebcdb5c7cf0432181b",
+      "semantic_content_review": "PASS",
+      "hosted_pixel_review": "Separate final reviewer; not claimed here"
+    },
+    {
+      "code": "AC9E2LA04",
+      "index": 1,
+      "html_sha256": "d3c68ac74b9feb9f1efc55a4ca86de1ffea8063d52dec5960e0235bfd8bab0d5",
+      "normalized_text_sha256": "1da00f3e76c88c6272c0f72b3a88cbab680ad01484d147c2b59ab0035fdf650b",
+      "semantic_content_review": "PASS",
+      "hosted_pixel_review": "Separate final reviewer; not claimed here"
+    },
+    {
+      "code": "AC9E2LA05",
+      "index": 1,
+      "html_sha256": "e68739bc4e3ed99513fb73a6ac7086286bd3cac14bd461ce27f888fcd7e5f9f3",
+      "normalized_text_sha256": "26705149ad16c1c06dd974183ad55a651cd9979e831f491872e1eee42d9ba8f1",
+      "semantic_content_review": "PASS",
+      "hosted_pixel_review": "Separate final reviewer; not claimed here"
+    },
+    {
+      "code": "AC9E2LA05",
+      "index": 2,
+      "html_sha256": "c6b1742d12e86e7b5f4baa55a92496e23aab4105ec04499639edbda349c70571",
+      "normalized_text_sha256": "304c6e8a4870ce666851f4c5428027f0da26c8431a7e8b4cf83b53bf2b3a58ec",
+      "semantic_content_review": "PASS",
+      "hosted_pixel_review": "Separate final reviewer; not claimed here"
+    },
+    {
+      "code": "AC9E2LA05",
+      "index": 3,
+      "html_sha256": "c7e70dda9267980bd64f488b3eb09e257484118af84783cf690786e5b8deff99",
+      "normalized_text_sha256": "ea0debdcd1ef88bb41b35af1fe877775bf89ff9af3528a16039cdd5bd5c65fff",
+      "semantic_content_review": "PASS",
+      "hosted_pixel_review": "Separate final reviewer; not claimed here"
+    },
+    {
+      "code": "AC9E2LA05",
+      "index": 4,
+      "html_sha256": "c373799b62e14892bd7dc9a8c0de0614c61e48e2ef034cea50b22ca0938ec604",
+      "normalized_text_sha256": "dfb36317543b3118fdf3874b705695bc2ad7317f25c8e30208d6dff3978b5cf1",
+      "semantic_content_review": "PASS",
+      "hosted_pixel_review": "Separate final reviewer; not claimed here"
+    },
+    {
+      "code": "AC9E2LA05",
+      "index": 5,
+      "html_sha256": "c6b1742d12e86e7b5f4baa55a92496e23aab4105ec04499639edbda349c70571",
+      "normalized_text_sha256": "304c6e8a4870ce666851f4c5428027f0da26c8431a7e8b4cf83b53bf2b3a58ec",
+      "semantic_content_review": "PASS",
+      "hosted_pixel_review": "Separate final reviewer; not claimed here"
+    },
+    {
+      "code": "AC9E2LA05",
+      "index": 6,
+      "html_sha256": "c7e70dda9267980bd64f488b3eb09e257484118af84783cf690786e5b8deff99",
+      "normalized_text_sha256": "ea0debdcd1ef88bb41b35af1fe877775bf89ff9af3528a16039cdd5bd5c65fff",
+      "semantic_content_review": "PASS",
+      "hosted_pixel_review": "Separate final reviewer; not claimed here"
+    },
+    {
+      "code": "AC9E2LA05",
+      "index": 7,
+      "html_sha256": "c6b1742d12e86e7b5f4baa55a92496e23aab4105ec04499639edbda349c70571",
+      "normalized_text_sha256": "304c6e8a4870ce666851f4c5428027f0da26c8431a7e8b4cf83b53bf2b3a58ec",
+      "semantic_content_review": "PASS",
+      "hosted_pixel_review": "Separate final reviewer; not claimed here"
+    },
+    {
+      "code": "AC9E2LA05",
+      "index": 8,
+      "html_sha256": "c7e70dda9267980bd64f488b3eb09e257484118af84783cf690786e5b8deff99",
+      "normalized_text_sha256": "ea0debdcd1ef88bb41b35af1fe877775bf89ff9af3528a16039cdd5bd5c65fff",
+      "semantic_content_review": "PASS",
+      "hosted_pixel_review": "Separate final reviewer; not claimed here"
+    },
+    {
+      "code": "AC9E2LA06",
+      "index": 1,
+      "html_sha256": "121aa040f4fc66fff20f2b3d28fad24aabd5930b8cc0946ee910f58c6e538fbc",
+      "normalized_text_sha256": "a40670c8411f85058c90b98e965e55f522b788e6cda4c6ed08811ede52c03104",
+      "semantic_content_review": "PASS",
+      "hosted_pixel_review": "Separate final reviewer; not claimed here"
+    },
+    {
+      "code": "AC9E2LA07",
+      "index": 1,
+      "html_sha256": "44c4fbef698f41cfe472781e216cece033074c119bd5129c4ffeab84b1620036",
+      "normalized_text_sha256": "a09cc7521c980cc059ec44c1b411d0664246f3bd00ba5356b58ef46b113723b4",
+      "semantic_content_review": "PASS",
+      "hosted_pixel_review": "Separate final reviewer; not claimed here"
+    },
+    {
+      "code": "AC9E2LA08",
+      "index": 1,
+      "html_sha256": "5d41ce556ec6c57795ccebe1682ddf45ef14d825630d73e0469b9cac3f8f09f0",
+      "normalized_text_sha256": "e577588c6e9c668e0f4626b8bd4d470138c2e8f14eb690f481e3fad79ce39829",
+      "semantic_content_review": "PASS",
+      "hosted_pixel_review": "Separate final reviewer; not claimed here"
+    },
+    {
+      "code": "AC9E2LA08",
+      "index": 2,
+      "html_sha256": "400d6e189d2f8d623d8a1f9ce0a093444cb8f2e64bbdeb27349a0be6374f1fa1",
+      "normalized_text_sha256": "e610744d9726934b9b0f4571c117d04cad1ac1cc71e6afa987f08daab38d58f1",
+      "semantic_content_review": "PASS",
+      "hosted_pixel_review": "Separate final reviewer; not claimed here"
+    },
+    {
+      "code": "AC9E2LA08",
+      "index": 3,
+      "html_sha256": "5d41ce556ec6c57795ccebe1682ddf45ef14d825630d73e0469b9cac3f8f09f0",
+      "normalized_text_sha256": "e577588c6e9c668e0f4626b8bd4d470138c2e8f14eb690f481e3fad79ce39829",
+      "semantic_content_review": "PASS",
+      "hosted_pixel_review": "Separate final reviewer; not claimed here"
+    },
+    {
+      "code": "AC9E2LA08",
+      "index": 4,
+      "html_sha256": "9008a5e81092355a3b49b2f0637aee8ea938fa57bc27b7672d83045e2fb3edee",
+      "normalized_text_sha256": "c935575350a2fce73dfae0cb4065cb2c7348dbf599ebb1f5cd2cf43b89dc2cb0",
+      "semantic_content_review": "PASS",
+      "hosted_pixel_review": "Separate final reviewer; not claimed here"
+    },
+    {
+      "code": "AC9E2LA08",
+      "index": 5,
+      "html_sha256": "79bcf2a1dfd8ab82b16e0a1f2218e2a6129660f30078607160b6dc691ef73f47",
+      "normalized_text_sha256": "d6b02ee819f7655cf31c14f7dcd0855db5f4594a4231c80f9006cde14863d0c1",
+      "semantic_content_review": "PASS",
+      "hosted_pixel_review": "Separate final reviewer; not claimed here"
+    },
+    {
+      "code": "AC9E2LA08",
+      "index": 6,
+      "html_sha256": "d54abed03576ab32ca4acd21c8ac258e60225dcbba38a0f55f1ff0166ba38b6d",
+      "normalized_text_sha256": "5641a823cec953e182b9fccbce4e61b373ab5671f3a1636a7f58fc92c5be54f5",
+      "semantic_content_review": "PASS",
+      "hosted_pixel_review": "Separate final reviewer; not claimed here"
+    },
+    {
+      "code": "AC9E2LA08",
+      "index": 7,
+      "html_sha256": "5d41ce556ec6c57795ccebe1682ddf45ef14d825630d73e0469b9cac3f8f09f0",
+      "normalized_text_sha256": "e577588c6e9c668e0f4626b8bd4d470138c2e8f14eb690f481e3fad79ce39829",
+      "semantic_content_review": "PASS",
+      "hosted_pixel_review": "Separate final reviewer; not claimed here"
+    },
+    {
+      "code": "AC9E2LA08",
+      "index": 8,
+      "html_sha256": "79bcf2a1dfd8ab82b16e0a1f2218e2a6129660f30078607160b6dc691ef73f47",
+      "normalized_text_sha256": "d6b02ee819f7655cf31c14f7dcd0855db5f4594a4231c80f9006cde14863d0c1",
+      "semantic_content_review": "PASS",
+      "hosted_pixel_review": "Separate final reviewer; not claimed here"
+    },
+    {
+      "code": "AC9E2LA08",
+      "index": 9,
+      "html_sha256": "d54abed03576ab32ca4acd21c8ac258e60225dcbba38a0f55f1ff0166ba38b6d",
+      "normalized_text_sha256": "5641a823cec953e182b9fccbce4e61b373ab5671f3a1636a7f58fc92c5be54f5",
+      "semantic_content_review": "PASS",
+      "hosted_pixel_review": "Separate final reviewer; not claimed here"
+    },
+    {
+      "code": "AC9E2LA08",
+      "index": 10,
+      "html_sha256": "9008a5e81092355a3b49b2f0637aee8ea938fa57bc27b7672d83045e2fb3edee",
+      "normalized_text_sha256": "c935575350a2fce73dfae0cb4065cb2c7348dbf599ebb1f5cd2cf43b89dc2cb0",
+      "semantic_content_review": "PASS",
+      "hosted_pixel_review": "Separate final reviewer; not claimed here"
+    },
+    {
+      "code": "AC9E2LA08",
+      "index": 11,
+      "html_sha256": "5d41ce556ec6c57795ccebe1682ddf45ef14d825630d73e0469b9cac3f8f09f0",
+      "normalized_text_sha256": "e577588c6e9c668e0f4626b8bd4d470138c2e8f14eb690f481e3fad79ce39829",
+      "semantic_content_review": "PASS",
+      "hosted_pixel_review": "Separate final reviewer; not claimed here"
+    },
+    {
+      "code": "AC9E2LA08",
+      "index": 12,
+      "html_sha256": "79bcf2a1dfd8ab82b16e0a1f2218e2a6129660f30078607160b6dc691ef73f47",
+      "normalized_text_sha256": "d6b02ee819f7655cf31c14f7dcd0855db5f4594a4231c80f9006cde14863d0c1",
+      "semantic_content_review": "PASS",
+      "hosted_pixel_review": "Separate final reviewer; not claimed here"
+    },
+    {
+      "code": "AC9E2LA08",
+      "index": 13,
+      "html_sha256": "d54abed03576ab32ca4acd21c8ac258e60225dcbba38a0f55f1ff0166ba38b6d",
+      "normalized_text_sha256": "5641a823cec953e182b9fccbce4e61b373ab5671f3a1636a7f58fc92c5be54f5",
+      "semantic_content_review": "PASS",
+      "hosted_pixel_review": "Separate final reviewer; not claimed here"
+    },
+    {
+      "code": "AC9E2LA08",
+      "index": 14,
+      "html_sha256": "9008a5e81092355a3b49b2f0637aee8ea938fa57bc27b7672d83045e2fb3edee",
+      "normalized_text_sha256": "c935575350a2fce73dfae0cb4065cb2c7348dbf599ebb1f5cd2cf43b89dc2cb0",
+      "semantic_content_review": "PASS",
+      "hosted_pixel_review": "Separate final reviewer; not claimed here"
+    },
+    {
+      "code": "AC9E2LA09",
+      "index": 1,
+      "html_sha256": "ef95666c383b55c9133dc1ccf11136290cc90d004281bdf7ad46f62624d57ad8",
+      "normalized_text_sha256": "7cc7a2b6071bdde59e165b7cb263c6dba1a421be9157d9a3a2135e9431c755d4",
+      "semantic_content_review": "PASS",
+      "hosted_pixel_review": "Separate final reviewer; not claimed here"
+    },
+    {
+      "code": "AC9E2LA10",
+      "index": 1,
+      "html_sha256": "826b5b546d1c68e276fa87c87cba4c9dc38d96d29d94f226bba0f1b96c164e1b",
+      "normalized_text_sha256": "e0f3020bc1c77bdf43e6519af7bc259011d290ee116dfcaae4de176e18e3e081",
+      "semantic_content_review": "PASS",
+      "hosted_pixel_review": "Separate final reviewer; not claimed here"
+    }
+  ],
+  "literal_earlier_svg_pins": [
+    {
+      "code": "AC9E2LA01",
+      "index": 1,
+      "literal_svg_sha256": "3d70e28e97d36c0b4e0ddae6f5ef19dbad6bd6e4b6dfe2e22ca7c52a710dd96d",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA02",
+      "index": 1,
+      "literal_svg_sha256": "6b07f76810b5e02f2f02cfbefda3a18563898f3d08879cbbdca8aff135caa0ca",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA03",
+      "index": 1,
+      "literal_svg_sha256": "9efca7d40481fff85cfbbe0f4f28d2005734f16ce72673e82d93f81cdc55d98f",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA04",
+      "index": 1,
+      "literal_svg_sha256": "4b5020c8760d6bd824fe96d33520310548f26eea6ef7952f7678d0886e9fb843",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA05",
+      "index": 1,
+      "literal_svg_sha256": "92863b24a9d4b2807a7bc1bd9718a7b6c08aaba83c5ea9498757dd0a694ae163",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA06",
+      "index": 1,
+      "literal_svg_sha256": "d1e8dd0e6a1743014a9515324247cfbf7b963a849f6d9d1bf912da556f94fd73",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA07",
+      "index": 1,
+      "literal_svg_sha256": "0a62dca44255b35a95348a2968dcd300816a28a60b261945f8ab4f1e719ea41f",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA08",
+      "index": 1,
+      "literal_svg_sha256": "181236f9b00ea39fa3342ac52171d61f2fc77c55073b611563b9b5b616b97200",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA09",
+      "index": 1,
+      "literal_svg_sha256": "989f29334300169902c9b249c998d080f2fc4faeb2baa064165353f24e4e116a",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    },
+    {
+      "code": "AC9E2LA10",
+      "index": 1,
+      "literal_svg_sha256": "48a89ffa1249d33a46d0eef026ec5a9d917fff516ff2ec99cdca7a2ccb523d45",
+      "origin": "Preserved earlier inline SVG; native browser pixel review pending."
+    }
+  ],
+  "assets": [
+    {
+      "path": "/assets/topic-visuals/year1/la08-kitten-under-chair.png",
+      "bytes": 2830756,
+      "sha256": "ab5c4762f0f6e209020ce66f6b5f042e946ea875bfb80713dcb75fe048ae39a7",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained.",
+      "independent_byte_identity": "PASS; exact baseline bytes",
+      "independent_pixel_inspection": "PASS; actual complete raster original opened individually"
+    },
+    {
+      "path": "/assets/topic-visuals/year1/la08-picture-jobs.png",
+      "bytes": 255281,
+      "sha256": "432b060d1deb0f544dac6c738cd4b4f9173f99f9febce11797439ca7902b5ae5",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained.",
+      "independent_byte_identity": "PASS; exact baseline bytes",
+      "independent_pixel_inspection": "PASS; actual complete raster original opened individually"
+    }
+  ],
+  "local_svg_pixel_pins": [
+    {
+      "path": "independent-inline-renders/AC9E2LA01.png",
+      "bytes": 10635,
+      "sha256": "57774a6d9eec43f5ca124ffe992c676db945a2d93dae9a0d17b647c9a9f7d1c0"
+    },
+    {
+      "path": "independent-inline-renders/AC9E2LA02.png",
+      "bytes": 7720,
+      "sha256": "4f364edeb353985971b82a46e887bb589839544ae837984e57f8472288db13bd"
+    },
+    {
+      "path": "independent-inline-renders/AC9E2LA03.png",
+      "bytes": 9057,
+      "sha256": "35fff20acfde06a15eb175697e6e5819904d4891e731ba9d96b9503259f375b5"
+    },
+    {
+      "path": "independent-inline-renders/AC9E2LA04.png",
+      "bytes": 6875,
+      "sha256": "a98e936ea1c161691a468e9440b45fe93f7cdf32b53b63d7e6fb5bd8b4a84d91"
+    },
+    {
+      "path": "independent-inline-renders/AC9E2LA05.png",
+      "bytes": 12569,
+      "sha256": "1f214bef1e53ccbfe2bdaf3aadbb3e641f57051a98f53457d8df8b0e57ce899f"
+    },
+    {
+      "path": "independent-inline-renders/AC9E2LA06.png",
+      "bytes": 11053,
+      "sha256": "c53148c52d8dd19668fcdaf6d0c1b91ae4ff762077ae33a9b5dd8b926e03c56b"
+    },
+    {
+      "path": "independent-inline-renders/AC9E2LA07.png",
+      "bytes": 12535,
+      "sha256": "7c8adda0f5fab1aa472aa5631281e7f852d4214d3d9a09e512e4703453afe349"
+    },
+    {
+      "path": "independent-inline-renders/AC9E2LA08.png",
+      "bytes": 10393,
+      "sha256": "9f800316dfdc769b73718edefe2fdb908ae02585369765bd80b696136865c38c"
+    },
+    {
+      "path": "independent-inline-renders/AC9E2LA09.png",
+      "bytes": 8272,
+      "sha256": "ac219a68792404df33d34d1f9f83fd617db81acc5ac5598a7aa7cae294be28fb"
+    },
+    {
+      "path": "independent-inline-renders/AC9E2LA10.png",
+      "bytes": 8272,
+      "sha256": "a08447be62032e3ec6b2758d53c1ca14f4c9b1631b9a4df85b35d049fd522c66"
+    }
+  ],
+  "support_sha256": {
+    "page-content.json": "76fd55762d5601a1e5ea1ec3232ed6579415bd10bfa4e65694b6474372ffaf24",
+    "retained-additions.json": "e49cc707a453ebfc5dad28d7c3eaf09ae41587942f55c0d07914ba93ef41116a",
+    "retained-corrections.json": "e6d29224296014743d3076e6a4f0ad2ad02271d7d11e61e96101bdff50509ee9",
+    "retained-section-identities.json": "e655ae512691a1ad88c8a7de16bc4040a0de6dee9fb140f183f09f64162afd81",
+    "inventory.json": "1f79dab68e9c608625c49436877e3261e476cad836478bb0cf9227cafe070e73",
+    "artwork-and-evidence.json": "9da091c8e9b2128b7c3b20f893aae73ed31c1039496c1b766c74e04cfe08a202",
+    "plan.json": "ace5bef74992f4d675b95ba5d6a44e70144962a6ddac0aaabbb98e77c2a09a3d",
+    "retained-inventory-plan.json": "c4cd10457659a8e2bd053a0f702522c85376e0b3ef7d196e17920cb99077fc2c",
+    "supplemental-source-notes.json": "fea569419651ad25a6214b98c2cbbcaaa7a1a1fc54a9d9ef8907e0b72ec25c63"
+  },
+  "source_checker_sha256": "335536b1ccf27bb9e613d13066472e70cf195ed2f8718b50c069429248442df5"
+}
