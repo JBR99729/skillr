@@ -1,0 +1,69 @@
+{
+  "reviewer": "/root/content_review independent AI reviewer",
+  "scope": "Baseline retained quick-check response criteria (28) and earlier worked examples (7). Earlier examples were visible with their keys; these are recomputations, not a claim of blind solving. New guided/tricky pack not yet seen.",
+  "responses": {
+    "AC9E2LY06": {
+      "quick_checks": [
+        "Choose purpose/audience and organise ideas before drafting.",
+        "Story: linked events/problem/resolution; information: organised related facts; persuasion: opinion/request and fitting reasons.",
+        "Two complete clauses joined with a coordinator; both can stand alone.",
+        "Make ideas/meaning and order clear, then edit sentences/conventions."
+      ],
+      "earlier": "Character, setting, problem, events and ending provide linked story notes."
+    },
+    "AC9E2LY07": {
+      "quick_checks": [
+        "Rehearse to notice clarity/order/delivery, hear feedback and make a purposeful change.",
+        "Name the topic and purpose so the audience knows what to expect.",
+        "A manageable pace and pauses help listeners process important points.",
+        "A visual is useful when it explains the topic/sequence or reminds the speaker rather than merely decorating."
+      ],
+      "earlier": "An opening about explaining how bees carry pollen between flowers fits the announced talk."
+    },
+    "AC9E2LY08": {
+      "quick_checks": [
+        "Recognisable unjoined letters/correct cases, useful relative heights/line placement and distinct word spaces.",
+        "Spaces separate words so the reader can identify them.",
+        "Letter bodies sit relative to the baseline; descending strokes such as g extend below it in the taught form.",
+        "Short accurate comfortable practice and feedback; compare more than one comparable attempt for growing ease."
+      ],
+      "earlier": "Add spaces: the big dog. The typed SVG illustrates spacing, not an observed handwritten product."
+    },
+    "AC9E2LY09": {
+      "quick_checks": [
+        "A phoneme is a speech sound which can distinguish words.",
+        "frog has four phonemes: f/r/short-o/g in common Australian pronunciation.",
+        "stop without s gives top.",
+        "map replacing initial m with t gives tap."
+      ],
+      "earlier": "fish initial f, red initial r, hot middle short-o, bag final g blend as frog."
+    },
+    "AC9E2LY10": {
+      "quick_checks": [
+        "ai often spells the long a sound as in rain; not a universal rule for every ai word.",
+        "k is not separately pronounced in knee; kn spells n here.",
+        "sun + set form sunset.",
+        "A grapheme is a letter or group of letters used to represent a phoneme in writing."
+      ],
+      "earlier": "rain: r/ai/n map three phonemes; ai represents long a here."
+    },
+    "AC9E2LY11": {
+      "quick_checks": [
+        "A high-frequency word occurs often in spoken or written language; it may have regular or less predictable spellings.",
+        "In said ai represents the short e vowel as in bed; s and d are regular here.",
+        "Recognising a meaningful base/affix helps retain spelling and connect meaning despite changes in pronunciation.",
+        "Use regular sound mappings to reduce memory load; deliberately learn the unusual spelling rather than memorising only word silhouette."
+      ],
+      "earlier": "Map s, middle vowel short-e, d, and deliberately remember the unusual ai spelling."
+    },
+    "AC9E2LY12": {
+      "quick_checks": [
+        "A base is the meaningful word/part to which the affix is added in the taught example.",
+        "A prefix comes before the base.",
+        "-ful often contributes full of/having, e.g. helpful; effect depends on word and conventional use.",
+        "playing/player/played/playful are conventional words built with play; accept two suitable ones with meaning."
+      ],
+      "earlier": "helper = help + er and means a person who helps; same meaningful base family."
+    }
+  }
+}

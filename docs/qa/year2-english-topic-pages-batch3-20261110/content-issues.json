@@ -1,0 +1,13 @@
+[
+  {
+    "id": "CR-LY10-DICTATION",
+    "code": "AC9E2LY10",
+    "classification": "Required clarity repair",
+    "finding": "Dictation wording conflated saying the spoken target with revealing its spelling.",
+    "before": "Do not show or pronounce the written answer in advance of their spelling turn.",
+    "after": "Say the target word and its sentence aloud. Keep the printed word hidden and do not name its letters or show its spelling until the learner has written it.",
+    "source": "independent complete content reviewer; root integration review also flagged ambiguity",
+    "status": "REPAIRED; independent recheck pending",
+    "affected": "One dictation card in retained teaching; page models and main structured teaching fields unchanged."
+  }
+]

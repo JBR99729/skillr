@@ -1,0 +1,232 @@
+{
+  "reviewer": {
+    "id": "/root/content_review",
+    "type": "Independent AI content reviewer",
+    "independence": "No student-facing authorship, integration edits or research-plan authorship; own solutions saved before new key reads."
+  },
+  "date": "2026-11-10 Australia/Sydney",
+  "source_review": "PASS",
+  "render_review": "PENDING actual hosted screenshots; source markup/semantics are not pixel review",
+  "scope": "Seven public Topic Guides only; no app-bank marking/progress, worksheet or fixed-slide certification. All312main scalar strings,35retainedsections,31uniquecomplete-stimuluspackets,15nativefigureinstances and7retainedSVGsourceinstances reviewed. Scalar strings are teaching fields,not scored-question count.",
+  "blind_review": {
+    "main_guided_tricky": 42,
+    "additional_adult_fresh_targets": 14,
+    "retained_quick_check_criteria": 28,
+    "earlier_examples_recomputed": 7,
+    "limits": "Earlier model keys were visible in baseline familiarisation; no blind claim for them. Performance prompts receive observation criteria,not invented real performance results.",
+    "evidence_files": [
+      "independent-blind-solutions.json",
+      "independent-extras-visible-solutions.json",
+      "independent-extras-hidden-solutions.json",
+      "independent-retained-response-criteria.json"
+    ]
+  },
+  "coverage": {
+    "AC9E2LY06": {
+      "focuses": [
+        "Purpose/audience and coherent structures across story/information/persuasion",
+        "Complete simple/compound messages, noun/verb groups and precise vocabulary",
+        "Meaning and conventions edits, pronouns, common2syllable words and actual digital creation/reorder/revision"
+      ],
+      "elaborations": "E1–E6 all taught",
+      "proof": "Three complete original text models; purposeful plan cards; true-clause contrasts; actual before/after draft;2panel digital creation/edit/save; fresh written task and explained edits."
+    },
+    "AC9E2LY07": {
+      "focuses": [
+        "Plan purposeful ordered presentation with formal-context/topic words",
+        "Rehearse with useful cue and actual listener feedback",
+        "Deliver/adapt tone,volume,pace and pauses"
+      ],
+      "elaborations": "E1–E3 all taught",
+      "proof": "Actual reading-box talk/cue; contrasting welcome/reminder; separate folded-card and art-tray talks; rehearsal-feedback-change-redelivery criteria. Printed choices are not speaking evidence."
+    },
+    "AC9E2LY08": {
+      "focuses": [
+        "Real school-taught unjoined upper/lower formation",
+        "Relative body heights,baseline,descenders and spacing",
+        "Comfortable functional grasp/control and comparable growth evidence"
+      ],
+      "elaborations": "E1 plus complete descriptor taught",
+      "proof": "Adult prepares and models actual taught handwriting; familiar mixed-case words/sentences and fresh copy; typed spacing explicitly limited;preferredhand/adaptedtool and no universal grasp/speed claim."
+    },
+    "AC9E2LY09": {
+      "focuses": [
+        "Complex spoken blending/segmenting including2syllable model",
+        "Exact initial/internal/final deletion",
+        "Exact substitution then real encoding/reread"
+      ],
+      "elaborations": "E1–E2 all taught",
+      "proof": "Fresh fourphonemes/cloudy fivephonemes; cluster/digraph distinction; slip/best/tent; fresh->flesh,clap->clam,stack->stick; fresh pan/flap and2step slim/swim; oral-first covered print and separate response evidence."
+    },
+    "AC9E2LY10": {
+      "focuses": [
+        "Vowel digraphs and lesscommon long-vowel patterns",
+        "Clusters compared with silentletter spellings",
+        "One/multisyllable/compound wholeword read+write"
+      ],
+      "elaborations": "E1–E3 all taught",
+      "proof": "ee/oo/ai/ay/ea with alternatives; igh plus separate t; frog/crisp vs knee/thumb; rabbit/robot/raincoat/sunset/lunchbox; covered tail/bright/sunhat dictation and actual readback."
+    },
+    "AC9E2LY11": {
+      "focuses": [
+        "Map regular/unexpected spelling in frequent words",
+        "Use base/ending spelling despite pronunciation changes",
+        "Select letterplausible pronunciation using context"
+      ],
+      "elaborations": "E1–E2 all taught",
+      "proof": "said/friend/come/have plus bounded one/once/only/lone comparison; jumped/played/wanted and help/friend base transfer; complete wind/read sentence contrasts; some/painted dictation and support record."
+    },
+    "AC9E2LY12": {
+      "focuses": [
+        "Meaningful transparent prefix construction",
+        "Meaningful suffix construction",
+        "Familyboundary and actual fresh spelling/use transfer"
+      ],
+      "elaborations": "E1–E2 all taught",
+      "proof": "replay/retell,unkind/unzip;help/helper/helpful and friend/friendly/friendship;cover/uncover/covering; rhyme/synonym exclusions;fresh pack->repack/packer, conventionalalternatives and real written use."
+    }
+  },
+  "accuracy_decision": "All42newmainresponses and14restoredadulttargets agree with independent solutions; all complete models/retained supplied response criteria are accurate. No remaining ambiguity or material coverage defect found after the one documented repair.",
+  "teaching_accessibility": "Complete givens; original self-contained material; model->differenttry->freshapplication; purposefulStarter/Core/Stretch. Adult-prepared actual handwriting/speaking and oralphoneme models explicitly staged; notes distinguish recognition,copying,supported and independent performance. No universal accent,eyecontact,grip or speed requirement.",
+  "source_models": {
+    "native_instances": 15,
+    "svg_instances": 7,
+    "decision": "Source relationships,captions,tableheaders,letter/soundpositions and descriptions checked; actual pixels pending."
+  },
+  "findings": [
+    {
+      "id": "CR-LY10-DICTATION",
+      "classification": "Release-blocking clarity defect in adult instructions",
+      "location": "LY10 Map,writeand reread/Adultdictationcard",
+      "before": "Do not show or pronounce the written answer in advance of their spelling turn.",
+      "repair": "Say the target word and its sentence aloud. Keep the printed word hidden and do not name its letters or show its spelling until the learner has written it.",
+      "status": "CLOSED: independently reread the actual rebuilt LY10 HTML and complete card; spoken target now explicitly required while printed spelling/letter names withheld. Targets/keys unchanged.",
+      "ly10_html_sha256": "595f5800600c77898ad790eccb5dd29a31afad4bfe61936b0dbe0a8256c7b99d"
+    }
+  ],
+  "unresolved_source_blockers": [],
+  "optional_improvements": [],
+  "dependencies": [
+    {
+      "path": "year2/english/ac9e2ly06-and-edit-short-imaginative-informative-and-persuasive-written/index.html",
+      "sha256": "44895e53bfe079adb0bf58f485e8b99ad52de25c45a53dbd5b7f41115e9f67fb",
+      "bytes": 39409
+    },
+    {
+      "path": "year2/english/ac9e2ly07-create-rehearse-and-deliver-short-oral-and-or-multimodal/index.html",
+      "sha256": "e5198bb1dbbb7b95ceee53f1a3e333d1c18fc12aa2d77ab35619bf1dbe36ca60",
+      "bytes": 35351
+    },
+    {
+      "path": "year2/english/ac9e2ly08-words-legibly-and-with-growing-fluency-using-unjoined-upper/index.html",
+      "sha256": "9b94723ea1df67f600094630a00b8258528284ff95d5fb300b8796ebf812137a",
+      "bytes": 34027
+    },
+    {
+      "path": "year2/english/ac9e2ly09-manipulate-more-complex-sounds-in-spoken-words-and-use-knowledge/index.html",
+      "sha256": "bcc01c591c1f73a34aaf4bfaccc186dd1e05b6e2fe0036b2c2dfd685fcc2e6a6",
+      "bytes": 30627
+    },
+    {
+      "path": "year2/english/ac9e2ly10-phoneme-grapheme-sound-letter-s-matches-including-vowel/index.html",
+      "sha256": "595f5800600c77898ad790eccb5dd29a31afad4bfe61936b0dbe0a8256c7b99d",
+      "bytes": 29504
+    },
+    {
+      "path": "year2/english/ac9e2ly11-knowledge-of-spelling-patterns-and-morphemes-to-read-and-write/index.html",
+      "sha256": "8ab94f68a4a93cf09568d02e020ed6dbbc264e7e821b9fba10bf0cce0dcb6ad5",
+      "bytes": 30874
+    },
+    {
+      "path": "year2/english/ac9e2ly12-build-morphemic-word-families-using-knowledge-of-prefixes-and/index.html",
+      "sha256": "e672bd668d7da93637a18115f3d1c0e95a773945cb8195da5ff05fbf1422f844",
+      "bytes": 29117
+    },
+    {
+      "path": "docs/qa/year2-english-topic-pages-batch3-20261110/page-content.json",
+      "sha256": "6b23b979ac1ff0686e1d84b04b701eda029855e4c9b38751d37bdec9f9a2cd1f",
+      "bytes": 44346
+    },
+    {
+      "path": "docs/qa/year2-english-topic-pages-batch3-20261110/units.json",
+      "sha256": "43fe27c6150985b4fabb8ab09ed810318460b427d67f49fa0d40c7b9a008b325",
+      "bytes": 37676
+    },
+    {
+      "path": "docs/qa/year2-english-topic-pages-batch3-20261110/plan.json",
+      "sha256": "99fe05632910a8cedc22ae746aaaca1242c24109da44c06cc7837fdbbd64a768",
+      "bytes": 35099
+    },
+    {
+      "path": "docs/qa/year2-english-topic-pages-batch3-20261110/reused-research.json",
+      "sha256": "bb7c1ea93247cc743a9b80e0aac722cbb83b1fca09560f3ce54ff512c83d7574",
+      "bytes": 42975
+    },
+    {
+      "path": "docs/qa/year2-english-topic-pages-batch3-20261110/supplemental-source-notes.json",
+      "sha256": "6b909671bbc1305780c57aab0393abbb4da35a77474bc6e436d277856a524435",
+      "bytes": 5891
+    },
+    {
+      "path": "docs/qa/year2-english-topic-pages-batch3-20261110/retained-inventory-plan.json",
+      "sha256": "5dc62a55ffe76f9134c7c39149d2a39e97a4d44f0a0f69a100ad5d513ef7bcbc",
+      "bytes": 33001
+    },
+    {
+      "path": "docs/qa/year2-english-topic-pages-batch3-20261110/original-page-identities.json",
+      "sha256": "ddcdb0dac69d626a158307b49e680620ad7564c511ca941dd47339360dce9db5",
+      "bytes": 1728
+    },
+    {
+      "path": "docs/qa/year2-english-topic-pages-batch3-20261110/inventory.json",
+      "sha256": "fc531ce2db1cfb1d3a468e2db0adf29309f90f65ad075031295d5112b097304b",
+      "bytes": 4234
+    },
+    {
+      "path": "docs/qa/year2-english-topic-pages-batch3-20261110/artwork-and-evidence.json",
+      "sha256": "ba9bcebe544fc4f758fb89ca152e02e6c5f9e03e068310a6d6bd6d04073f34e9",
+      "bytes": 5416
+    },
+    {
+      "path": "docs/qa/year2-english-topic-pages-batch3-20261110/retained-additions.json",
+      "sha256": "3b99392f1edc4c8fbf3a24c98c7691464cd9c267d0001c7827c33c453316e3bc",
+      "bytes": 33410
+    },
+    {
+      "path": "docs/qa/year2-english-topic-pages-batch3-20261110/retained-corrections.json",
+      "sha256": "b1b496682643be00f402d14a97760cead253105dd81df70ce577d0162272e512",
+      "bytes": 6486
+    },
+    {
+      "path": "docs/qa/year2-english-topic-pages-batch3-20261110/retained-preludes.json",
+      "sha256": "df982ae04c33efd9f1a9fb2147d7755872b7287a5cb7dcd6911e43d37b0fbbd0",
+      "bytes": 388
+    },
+    {
+      "path": "docs/qa/year2-english-topic-pages-batch3-20261110/resource-preservation.json",
+      "sha256": "989ad94e1490cdcb16ea31972dcb5e5a32c44ee2f822f10efa77ee69ff434d6d",
+      "bytes": 472
+    },
+    {
+      "path": "docs/qa/year2-english-topic-pages-batch3-20261110/retained-section-identities.json",
+      "sha256": "604d3b426369f29407fb173697ea05998ed0a98caf13e986ba230f5bed2ed537",
+      "bytes": 42806
+    },
+    {
+      "path": "docs/qa/year2-english-topic-pages-batch3-20261110/content-issues.json",
+      "sha256": "6c9dc6c6ab55782167093ad35a46e7ae995dec779e40fad98eaeea958056f565",
+      "bytes": 761
+    },
+    {
+      "path": "assets/css/year2-english-topic-pages-batch3.css",
+      "sha256": "d62f2058eb430f7759aac4b6116025d84508352969487c3976913f33d13f2177",
+      "bytes": 2816
+    }
+  ],
+  "limitations": [
+    "No source media heard/watched; saved source task/method records and current independent plan used within recorded bounds.",
+    "No pupil/human teacher observation,actual handwriting/speaking or validated audio output was performed by this reviewer.",
+    "Hosted rendered/native-control inspection still pending and must be closed before full release-ready claim.",
+    "No whole-year verification badge or linked product certification."
+  ]
+}

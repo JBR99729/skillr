@@ -1,0 +1,23 @@
+{
+  "local_attempt": {
+    "browser": "/usr/bin/chromium",
+    "module": "/opt/codex/cua_node/lib/node_modules/playwright",
+    "headless": true,
+    "result": "FAILED BEFORE PAGE LOAD",
+    "error": "Chromium process_singleton_posix.cc socket() failed: Operation not permitted (1); crashpad ptrace Operation not permitted (1)",
+    "meaning": "No page/layout/interaction result was observed locally."
+  },
+  "fallback": "Scoped GitHub-hosted browser QA, pending actual run and downloaded artifact inspection.",
+  "inputs": [
+    {
+      "path": "scripts/qa_year2_english_topic_pages_batch3_browser.cjs",
+      "bytes": 12674,
+      "sha256": "54b589561556965894780649765ef8b5f5301184a23cf5dbf3a011bb744132f8"
+    },
+    {
+      "path": ".github/workflows/year2-english-topic-pages-batch3-browser-qa.yml",
+      "bytes": 1884,
+      "sha256": "43763380fd4e0e1b764d262831416d17e58a1d98837f022064b22299e53d5560"
+    }
+  ]
+}

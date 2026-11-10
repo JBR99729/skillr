@@ -1,0 +1,56 @@
+{
+  "reviewer": "/root/final_fresh — fresh independent final AI reviewer; no guide authorship or first content review",
+  "status": "BLOCKED — final rendered output and final freeze confirmation pending",
+  "source_content_decision": "PASS for current complete seven-page public-guide source scope; no confirmed source blockers remain",
+  "scope": "Public Year2 English AC9E2LY06–LY12 guides only; linked teacher slides, worksheets, app banks, hosted production and real pupil performance excluded.",
+  "blind_coverage": {
+    "guided_tricky_items": 42,
+    "extra_packets": 31,
+    "selection": "Reviewer selected every guided/tricky prompt and every unique extra packet due to higher-risk phonics, sentence analysis, morphology, open response and performance evidence claims; exceeds sample minimum and covers all21focuses and allpresent response types.",
+    "files": [
+      "independent-final-blind-solutions.json",
+      "independent-final-extra-criteria.json"
+    ]
+  },
+  "source_checks": [
+    "Read all seven complete compiled guide texts, including retained teaching, all response disclosures and all22model text equivalents.",
+    "Reconciled 42 guided/tricky responses and 31 extra-packet criteria against independent saved solutions/criteria.",
+    "Rechecked CR-LY10-DICTATION repair and surrounding mapping/dictation/feedback: adult says target and sentence; print and letters remain hidden until writing.",
+    "Checked higher-risk phoneme counts and exact single-sound changes, simple/compound sentence and noun/whole verb groups, irregular vowels, past-ed variants, conventional affix meanings and family boundaries.",
+    "Checked supported versus independent oral, digital and handwritten production claims, actual performance observation and local handwriting/voice/pronunciation access."
+  ],
+  "repair_rechecks": [
+    {
+      "id": "CR-LY10-DICTATION",
+      "decision": "CLOSED IN SOURCE",
+      "coverage": "One retained LY10 dictation card plus instructions and response criteria; no affected answer change.",
+      "reason": "Correctly separates saying target aloud from displaying or naming its written spelling."
+    }
+  ],
+  "primary_source_reopens": [
+    {
+      "url": "https://www.qcaa.qld.edu.au/downloads/aciqv9/english/curriculum/ac9_english_yr2_as_cd_alignment.pdf",
+      "scope": "Year2 achievement expectations and compound-clause/noun-group/verb-group boundary; all seven guide descriptors checked using supplied exact units and official alignment."
+    },
+    {
+      "url": "https://www.scootle.edu.au/ec/search?accContentId=AC9E2LY08",
+      "scope": "Exact LY08 descriptor and functional grasp elaboration."
+    },
+    {
+      "url": "https://www.literacyhub.edu.au/video-assets/plm3-phonological-awareness-accessibility/",
+      "scope": "Speech sound/phoneme versus syllable, one-sound digraph/trigraph and individual cluster phonemes, counters, blending and segmenting."
+    },
+    {
+      "url": "https://www.literacyhub.edu.au/professional-learning/implementing-a-systematic-synthetic-phonics-approach/morphology-instruction-and-ssp/",
+      "scope": "Meaningful word parts, base/prefix/suffix roles and explicit model/guided/application approach."
+    }
+  ],
+  "findings": [],
+  "limitations": [
+    "AI review, not human teacher sign-off. No source audio/video heard; printed notation cannot establish correct real sound production.",
+    "No pupil handwriting, grasp, oral presentation or independent response observed. The guides correctly require actual observation and recorded support.",
+    "Source review does not certify linked products or prove real learner mastery.",
+    "Browser rendered-output inspection and interaction evidence not yet supplied; final overall gate remains BLOCKED until that required evidence and exact final freeze exist."
+  ],
+  "recorded_utc": "2026-11-10T04:18:51.187215+00:00"
+}

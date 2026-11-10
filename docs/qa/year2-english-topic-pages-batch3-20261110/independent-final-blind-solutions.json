@@ -1,0 +1,261 @@
+{
+  "reviewer_type": "Fresh independent AI reviewer; separate from authors and first content reviewer",
+  "blind_phase_completed_utc": "2026-11-10T04:15:12.046132+00:00",
+  "exposure_before_saving": "Read only blind-prompts.json supplied for independent solving; did not inspect answer keys, page-content.json, extras, final pages or prior findings. Prompt methods/givens are included by the supplied blind harness.",
+  "scope": "Seven public Year 2 English guides AC9E2LY06–AC9E2LY12; public guide prompts, explanations, answer criteria and visible support only; linked products excluded.",
+  "limitations": "AI content review cannot establish actual learner oral presentation, phoneme production or handwriting performance. Final pass withheld pending current source checks, first review repairs, actual browser renders and root freeze.",
+  "solutions": [
+    {
+      "id": "AC9E2LY06-guided-1",
+      "selected": true,
+      "independent_solution_or_criteria": "A complete plan identifies a classmate as reader and includes the hat blowing away, a helper, a logically connected recovery attempt and a resolved ending. Example: Sam makes a paper hat; wind blows it to the fence; Lena catches it; Sam thanks her and holds it securely.",
+      "selection_reason": "All 42 prompt families selected for final independent coverage; elevated risk in phonics, morphology, sentence analysis and claims requiring observed oral/handwritten performance."
+    },
+    {
+      "id": "AC9E2LY06-guided-2",
+      "selected": true,
+      "independent_solution_or_criteria": "The path was muddy, so we wore boots. Both clauses stand independently and so signals a result. Replace thing with seed tray, pot or another precise plausible gardening container.",
+      "selection_reason": "All 42 prompt families selected for final independent coverage; elevated risk in phonics, morphology, sentence analysis and claims requiring observed oral/handwritten performance."
+    },
+    {
+      "id": "AC9E2LY06-guided-3",
+      "selected": true,
+      "independent_solution_or_criteria": "Lena carried a seed tray to the garden. She put it by the shed. Capitalise Lena, replace thing, use She for Lena and supply the final full stop; it refers clearly to the seed tray.",
+      "selection_reason": "All 42 prompt families selected for final independent coverage; elevated risk in phonics, morphology, sentence analysis and claims requiring observed oral/handwritten performance."
+    },
+    {
+      "id": "AC9E2LY06-tricky-1",
+      "selected": true,
+      "independent_solution_or_criteria": "No. Seeds and pots are coordinated objects in one clause; there are not two independent clauses.",
+      "selection_reason": "All 42 prompt families selected for final independent coverage; elevated risk in phonics, morphology, sentence analysis and claims requiring observed oral/handwritten performance."
+    },
+    {
+      "id": "AC9E2LY06-tricky-2",
+      "selected": true,
+      "independent_solution_or_criteria": "No. Choose enough precise relevant detail for meaning and reader; longer is not inherently clearer.",
+      "selection_reason": "All 42 prompt families selected for final independent coverage; elevated risk in phonics, morphology, sentence analysis and claims requiring observed oral/handwritten performance."
+    },
+    {
+      "id": "AC9E2LY06-tricky-3",
+      "selected": true,
+      "independent_solution_or_criteria": "Yes. Meaning, organisation, missing detail, repetition, grammar or reference can require editing even with correct spelling.",
+      "selection_reason": "All 42 prompt families selected for final independent coverage; elevated risk in phonics, morphology, sentence analysis and claims requiring observed oral/handwritten performance."
+    },
+    {
+      "id": "AC9E2LY07-guided-1",
+      "selected": true,
+      "independent_solution_or_criteria": "Accept a spoken report with opening identifying the reading box; location beside the mat and purpose of quiet reading; an instruction to return each book cover facing front; and a clear ending. The exact division of facts between two points may vary, but all relevant facts must remain accurate.",
+      "selection_reason": "All 42 prompt families selected for final independent coverage; elevated risk in phonics, morphology, sentence analysis and claims requiring observed oral/handwritten performance."
+    },
+    {
+      "id": "AC9E2LY07-guided-2",
+      "selected": true,
+      "independent_solution_or_criteria": "Actual paper cue has Choose, Read, Return in sequence, and learner actually rehearses. Listener explains the return step (cover facing front); improvement responds to real evidence, such as pausing before return or repeating the direction. No automatic success from a written cue alone.",
+      "selection_reason": "All 42 prompt families selected for final independent coverage; elevated risk in phonics, morphology, sentence analysis and claims requiring observed oral/handwritten performance."
+    },
+    {
+      "id": "AC9E2LY07-guided-3",
+      "selected": true,
+      "independent_solution_or_criteria": "Observe actual delivery to a familiar listener: organised presentation, welcome and care reminder, suitable audible comfortable volume, understandable pace/pauses and context-appropriate attitude. Obtain listener feedback and distinguish text advice from observed performance.",
+      "selection_reason": "All 42 prompt families selected for final independent coverage; elevated risk in phonics, morphology, sentence analysis and claims requiring observed oral/handwritten performance."
+    },
+    {
+      "id": "AC9E2LY07-tricky-1",
+      "selected": true,
+      "independent_solution_or_criteria": "Yes. Tone and delivery can communicate welcome or calm care reminder with the same wording; do not require a universal pitch contour.",
+      "selection_reason": "All 42 prompt families selected for final independent coverage; elevated risk in phonics, morphology, sentence analysis and claims requiring observed oral/handwritten performance."
+    },
+    {
+      "id": "AC9E2LY07-tricky-2",
+      "selected": true,
+      "independent_solution_or_criteria": "No. Cue reading alone does not show understanding; listener explanation or action provides evidence.",
+      "selection_reason": "All 42 prompt families selected for final independent coverage; elevated risk in phonics, morphology, sentence analysis and claims requiring observed oral/handwritten performance."
+    },
+    {
+      "id": "AC9E2LY07-tricky-3",
+      "selected": true,
+      "independent_solution_or_criteria": "No. Pause, clarify or repeat/rephrase the confusing part, then check understanding.",
+      "selection_reason": "All 42 prompt families selected for final independent coverage; elevated risk in phonics, morphology, sentence analysis and claims requiring observed oral/handwritten performance."
+    },
+    {
+      "id": "AC9E2LY08-guided-1",
+      "selected": true,
+      "independent_solution_or_criteria": "Adult observes actual independent untraced writing of Sam and bag against taught nearby handwritten forms, checking recognisable unjoined letter forms, appropriate capital S and lower-case letters, formation/movement and comfort. Typed text cannot prove this.",
+      "selection_reason": "All 42 prompt families selected for final independent coverage; elevated risk in phonics, morphology, sentence analysis and claims requiring observed oral/handwritten performance."
+    },
+    {
+      "id": "AC9E2LY08-guided-2",
+      "selected": true,
+      "independent_solution_or_criteria": "Written Sam has a red mug. preserves recognisable unjoined letters and clear word gaps. Compare short a/m, tall h/d and descender g relative to the actual baseline and school model; do not demand every letter same height.",
+      "selection_reason": "All 42 prompt families selected for final independent coverage; elevated risk in phonics, morphology, sentence analysis and claims requiring observed oral/handwritten performance."
+    },
+    {
+      "id": "AC9E2LY08-guided-3",
+      "selected": true,
+      "independent_solution_or_criteria": "Actual handwritten We put a bag here. with learner identifying a concrete strength and improvement. Growing ease requires comparable observed samples over time: readable forms, word spaces, controlled movement and comfort with less effort; no speed-only criterion or prescribed single grasp.",
+      "selection_reason": "All 42 prompt families selected for final independent coverage; elevated risk in phonics, morphology, sentence analysis and claims requiring observed oral/handwritten performance."
+    },
+    {
+      "id": "AC9E2LY08-tricky-1",
+      "selected": true,
+      "independent_solution_or_criteria": "No. Handwriting requires actual handwriting evidence and observation of formation where relevant.",
+      "selection_reason": "All 42 prompt families selected for final independent coverage; elevated risk in phonics, morphology, sentence analysis and claims requiring observed oral/handwritten performance."
+    },
+    {
+      "id": "AC9E2LY08-tricky-2",
+      "selected": true,
+      "independent_solution_or_criteria": "No. Short bodies, ascenders, descenders and capitals differ according to taught style.",
+      "selection_reason": "All 42 prompt families selected for final independent coverage; elevated risk in phonics, morphology, sentence analysis and claims requiring observed oral/handwritten performance."
+    },
+    {
+      "id": "AC9E2LY08-tricky-3",
+      "selected": true,
+      "independent_solution_or_criteria": "No. Readability, control and comfort matter; undue speed can reduce quality.",
+      "selection_reason": "All 42 prompt families selected for final independent coverage; elevated risk in phonics, morphology, sentence analysis and claims requiring observed oral/handwritten performance."
+    },
+    {
+      "id": "AC9E2LY09-guided-1",
+      "selected": true,
+      "independent_solution_or_criteria": "Stamp: /s/ /t/ /a as cat/ /m/ /p/, five counters. Blend to stamp; adult first supplies spoken form without spelling.",
+      "selection_reason": "All 42 prompt families selected for final independent coverage; elevated risk in phonics, morphology, sentence analysis and claims requiring observed oral/handwritten performance."
+    },
+    {
+      "id": "AC9E2LY09-guided-2",
+      "selected": true,
+      "independent_solution_or_criteria": "Bed. Delete only /n/ from /b/ /e as bed/ /n/ /d/, retain /d/ and order.",
+      "selection_reason": "All 42 prompt families selected for final independent coverage; elevated risk in phonics, morphology, sentence analysis and claims requiring observed oral/handwritten performance."
+    },
+    {
+      "id": "AC9E2LY09-guided-3",
+      "selected": true,
+      "independent_solution_or_criteria": "Slim. Replace only vowel /a as cat/ with /i as sit/, retaining /s/ /l/ /m/. After oral success write slim and reread it.",
+      "selection_reason": "All 42 prompt families selected for final independent coverage; elevated risk in phonics, morphology, sentence analysis and claims requiring observed oral/handwritten performance."
+    },
+    {
+      "id": "AC9E2LY09-tricky-1",
+      "selected": true,
+      "independent_solution_or_criteria": "No. sh represents one phoneme in ship, so one counter for sh; ship has three phonemes.",
+      "selection_reason": "All 42 prompt families selected for final independent coverage; elevated risk in phonics, morphology, sentence analysis and claims requiring observed oral/handwritten performance."
+    },
+    {
+      "id": "AC9E2LY09-tricky-2",
+      "selected": true,
+      "independent_solution_or_criteria": "The final /t/ remains; nest without /s/ is net.",
+      "selection_reason": "All 42 prompt families selected for final independent coverage; elevated risk in phonics, morphology, sentence analysis and claims requiring observed oral/handwritten performance."
+    },
+    {
+      "id": "AC9E2LY09-tricky-3",
+      "selected": true,
+      "independent_solution_or_criteria": "Clam. Change only final /p/ to /m/ and retain /k/ /l/ /a/; camp changes additional sounds/order.",
+      "selection_reason": "All 42 prompt families selected for final independent coverage; elevated risk in phonics, morphology, sentence analysis and claims requiring observed oral/handwritten performance."
+    },
+    {
+      "id": "AC9E2LY10-guided-1",
+      "selected": true,
+      "independent_solution_or_criteria": "Light: igh spells long i (as eye); final t spells /t/. Do not count g and h separately.",
+      "selection_reason": "All 42 prompt families selected for final independent coverage; elevated risk in phonics, morphology, sentence analysis and claims requiring observed oral/handwritten performance."
+    },
+    {
+      "id": "AC9E2LY10-guided-2",
+      "selected": true,
+      "independent_solution_or_criteria": "Crisp begins /k/ /r/ as two separate consonant phonemes. Knock has initial silent k; kn represents /n/.",
+      "selection_reason": "All 42 prompt families selected for final independent coverage; elevated risk in phonics, morphology, sentence analysis and claims requiring observed oral/handwritten performance."
+    },
+    {
+      "id": "AC9E2LY10-guided-3",
+      "selected": true,
+      "independent_solution_or_criteria": "Lunch + box; lunchbox, one conventional compound word. Blend both parts and use the full spelling.",
+      "selection_reason": "All 42 prompt families selected for final independent coverage; elevated risk in phonics, morphology, sentence analysis and claims requiring observed oral/handwritten performance."
+    },
+    {
+      "id": "AC9E2LY10-tricky-1",
+      "selected": true,
+      "independent_solution_or_criteria": "No. igh represents one vowel sound in night; n + igh + t gives three phonemes.",
+      "selection_reason": "All 42 prompt families selected for final independent coverage; elevated risk in phonics, morphology, sentence analysis and claims requiring observed oral/handwritten performance."
+    },
+    {
+      "id": "AC9E2LY10-tricky-2",
+      "selected": true,
+      "independent_solution_or_criteria": "No. Thumb includes final b in conventional spelling despite no separate /b/ phoneme.",
+      "selection_reason": "All 42 prompt families selected for final independent coverage; elevated risk in phonics, morphology, sentence analysis and claims requiring observed oral/handwritten performance."
+    },
+    {
+      "id": "AC9E2LY10-tricky-3",
+      "selected": true,
+      "independent_solution_or_criteria": "No. Read/blend all letters/parts, including coat, to identify the whole word.",
+      "selection_reason": "All 42 prompt families selected for final independent coverage; elevated risk in phonics, morphology, sentence analysis and claims requiring observed oral/handwritten performance."
+    },
+    {
+      "id": "AC9E2LY11-guided-1",
+      "selected": true,
+      "independent_solution_or_criteria": "Friend has ie for the short e sound as bed; said has ai for that short e. Preserve other sound clues and exact spellings.",
+      "selection_reason": "All 42 prompt families selected for final independent coverage; elevated risk in phonics, morphology, sentence analysis and claims requiring observed oral/handwritten performance."
+    },
+    {
+      "id": "AC9E2LY11-guided-2",
+      "selected": true,
+      "independent_solution_or_criteria": "Yesterday I helped Mum. Add past-tense ed to help; its /t/ pronunciation does not change the conventional morphemic spelling to t.",
+      "selection_reason": "All 42 prompt families selected for final independent coverage; elevated risk in phonics, morphology, sentence analysis and claims requiring observed oral/handwritten performance."
+    },
+    {
+      "id": "AC9E2LY11-guided-3",
+      "selected": true,
+      "independent_solution_or_criteria": "Future read rhymes with seed (/ri:d/); past read rhymes with bed (/red/). The spelling is unchanged and time/context selects the pronunciation.",
+      "selection_reason": "All 42 prompt families selected for final independent coverage; elevated risk in phonics, morphology, sentence analysis and claims requiring observed oral/handwritten performance."
+    },
+    {
+      "id": "AC9E2LY11-tricky-1",
+      "selected": true,
+      "independent_solution_or_criteria": "No. ai represents short e in said, unlike long a in rain; learn word-specific mapping.",
+      "selection_reason": "All 42 prompt families selected for final independent coverage; elevated risk in phonics, morphology, sentence analysis and claims requiring observed oral/handwritten performance."
+    },
+    {
+      "id": "AC9E2LY11-tricky-2",
+      "selected": true,
+      "independent_solution_or_criteria": "No. Helped uses ed to mark past time even when ending sounds /t/.",
+      "selection_reason": "All 42 prompt families selected for final independent coverage; elevated risk in phonics, morphology, sentence analysis and claims requiring observed oral/handwritten performance."
+    },
+    {
+      "id": "AC9E2LY11-tricky-3",
+      "selected": true,
+      "independent_solution_or_criteria": "No. Wind must be read from its actual letters and appropriate pronunciation; breeze is a different printed word, even if semantically related.",
+      "selection_reason": "All 42 prompt families selected for final independent coverage; elevated risk in phonics, morphology, sentence analysis and claims requiring observed oral/handwritten performance."
+    },
+    {
+      "id": "AC9E2LY12-guided-1",
+      "selected": true,
+      "independent_solution_or_criteria": "Retell; Please retell the story. re- before tell adds again.",
+      "selection_reason": "All 42 prompt families selected for final independent coverage; elevated risk in phonics, morphology, sentence analysis and claims requiring observed oral/handwritten performance."
+    },
+    {
+      "id": "AC9E2LY12-guided-2",
+      "selected": true,
+      "independent_solution_or_criteria": "Helper means someone who helps; helpful means giving help. Base help retained and different suffixes er/ful used.",
+      "selection_reason": "All 42 prompt families selected for final independent coverage; elevated risk in phonics, morphology, sentence analysis and claims requiring observed oral/handwritten performance."
+    },
+    {
+      "id": "AC9E2LY12-guided-3",
+      "selected": true,
+      "independent_solution_or_criteria": "Their friendship grew as they played together. friend + ship; relationship between friends; retain complete friend spelling.",
+      "selection_reason": "All 42 prompt families selected for final independent coverage; elevated risk in phonics, morphology, sentence analysis and claims requiring observed oral/handwritten performance."
+    },
+    {
+      "id": "AC9E2LY12-tricky-1",
+      "selected": true,
+      "independent_solution_or_criteria": "No. A morphemic family shares base and meaning; rhyme alone does not establish it.",
+      "selection_reason": "All 42 prompt families selected for final independent coverage; elevated risk in phonics, morphology, sentence analysis and claims requiring observed oral/handwritten performance."
+    },
+    {
+      "id": "AC9E2LY12-tricky-2",
+      "selected": true,
+      "independent_solution_or_criteria": "re- is before play and adds again: replay means play again.",
+      "selection_reason": "All 42 prompt families selected for final independent coverage; elevated risk in phonics, morphology, sentence analysis and claims requiring observed oral/handwritten performance."
+    },
+    {
+      "id": "AC9E2LY12-tricky-3",
+      "selected": true,
+      "independent_solution_or_criteria": "Yes. Both preserve base friend; replace/add appropriate ending ly versus ship and check exact conventional spelling.",
+      "selection_reason": "All 42 prompt families selected for final independent coverage; elevated risk in phonics, morphology, sentence analysis and claims requiring observed oral/handwritten performance."
+    }
+  ]
+}
