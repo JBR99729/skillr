@@ -44,6 +44,7 @@ for x in inv:
   if repair['code']==c and repair['section']=='Earlier worked model':
    assert expected.count(repair['before'])==repair['occurrences'],c+' earlier correction baseline'
    expected=expected.replace(repair['before'],repair['after'])
+ expected=' '.join(expected.split())
  earlier=now.xpath('//section[@class="earlier-worked-model"]')[0]
  assert ' '.join(normalize(e)for e in earlier if e.tag!='h3')==expected,c+' earlier model text'
  def svg_identity(e):

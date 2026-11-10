@@ -94,5 +94,13 @@
     "after": "Helping fits “I am helping now.” The whole sentence places the action now. The ending -ing alone does not always mean now; compare “I was helping yesterday.”",
     "occurrences": 1,
     "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  },
+  {
+    "code": "AC9E1LY15",
+    "section": "Earlier worked model",
+    "before": "SkillrHub provides a Year 1 English topic guide and learning resources for AC9E1LY15 , aligned with Australian Curriculum Version 9.0. The curriculum focus is: recognise and know how to use grammatical morphemes to create word families.",
+    "after": "",
+    "occurrences": 1,
+    "reason": "Remove repeated promotional curriculum metadata; retain the worked question/answer and exact SVG."
   }
 ]

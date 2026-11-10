@@ -1,0 +1,11 @@
+# Independent content review — Year 1 English batch 3
+
+**PASS.** All ten exact source pages, 440 authored scalar fields (430 teaching strings plus ten code IDs), 67 retained sections, ten earlier worked models and all recorded repairs were independently read. Prompts, answers, permissible alternatives, supplied stimuli, sound operations, spelling, sentence meaning, Year 1 scope and performance evidence were checked. No content blocker remains.
+
+LY10's tasks all resolve to the intended one-syllable words with at most four phonemes. The final lap/cap contrast avoids the uncommon sop. LY14's target questions and final spelling-noticing heading remove the earlier ambiguity and unsupported memory claim. Rabbit's doubled b is explicitly taught rather than inferred from syllables. LY11 permits overlapping vowel/consonant classifications; LY15 uses complete contexts for grammatical endings. The final duplicate LY15 marketing takeaway was removed while its worked teaching and SVG remain intact.
+
+All 14 external assets match baseline bytes and were individually opened as pixels: seven original raster files and seven SVG files rendered with Inkscape. All 13 retained inline SVG models were separately rendered and opened for semantic/glyph/geometry review. Exact source and local render hashes are in the JSON. Local extraction corrected XML viewBox case after HTML parsing; discarded extraction clipping was not a page defect. This is semantic asset inspection, not final browser viewport approval.
+
+The commercial-map correction is closed: the entire original/final documents have the same nine distinct paid destinations and one cover, including the two original hero offers. Current plan hashes are recorded separately in `independent-plan-commercial-recheck.json`; the approved research and teaching focus scope are unchanged. The scoped source checker independently passes all ten pages, 440 fields, 67 sections and 247 native disclosures.
+
+Only optional backlog wording remains for the retained rabbit question; its answer now clearly teaches the correct standard spelling. This is public unscored content review, not scored-bank, pupil, teacher or attainment certification. A fresh separate final risk reviewer and hosted rendered inspection remain required.
