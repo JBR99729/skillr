@@ -1,0 +1,659 @@
+{
+  "research_commit": "eab18a74697ddda8c0ae61d1275215f109fa13a4",
+  "actual_files": [
+    {
+      "path": "TEACHER_QA_SOP.md",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/TEACHER_QA_SOP.md",
+      "bytes": 14313,
+      "git_blob_sha": "e5cbb36db6a0b8bd529baafeb547cfa247458a82",
+      "sha256_utf8": "958695b5721269584aaa6c9d7ba5296f4b68393e1bbcdfca3bab0648b6091b06",
+      "evidence_role": "actual saved observations/method/source handoff read for applicable scope"
+    },
+    {
+      "path": "qa/all-codes/english-f3/year-3/AC9E3LA01.json",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/qa/all-codes/english-f3/year-3/AC9E3LA01.json",
+      "bytes": 9920,
+      "git_blob_sha": "7d12e6e48caa20f0a0e607131017887cb27fe62c",
+      "sha256_utf8": "8510320a78cf5512474713a720510db322a59c48bf27bb30b7df5016bdda3d73",
+      "evidence_role": "saved code record/status; does not itself prove actual external task inspection"
+    },
+    {
+      "path": "qa/all-codes/english-f3/year-3/AC9E3LA03.json",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/qa/all-codes/english-f3/year-3/AC9E3LA03.json",
+      "bytes": 6088,
+      "git_blob_sha": "ffced675b251b94510966ca9e49c8aa251f97884",
+      "sha256_utf8": "aef3952f902291d06e68eac7b5323d4492d919853676b9fcdb6723ed620129ff",
+      "evidence_role": "saved code record/status; does not itself prove actual external task inspection"
+    },
+    {
+      "path": "qa/all-codes/english-f3/year-3/AC9E3LA05.json",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/qa/all-codes/english-f3/year-3/AC9E3LA05.json",
+      "bytes": 7589,
+      "git_blob_sha": "cee730a6596558c2c39fd36cc1245638aaa33a26",
+      "sha256_utf8": "fc2f1ac6e35287c61b5f10ca1db7d1be30091c83cace65b65fd0f36dd3eabecd",
+      "evidence_role": "saved code record/status; does not itself prove actual external task inspection"
+    },
+    {
+      "path": "qa/all-codes/english-f3/year-3/AC9E3LA09.json",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/qa/all-codes/english-f3/year-3/AC9E3LA09.json",
+      "bytes": 7897,
+      "git_blob_sha": "8d150c3f6152b42e52e434264510b1208944a5b1",
+      "sha256_utf8": "49af0badd6f5e8162c5722a79ac7cdb0b058955c048d16a67cc745560a1c74fe",
+      "evidence_role": "saved code record/status; does not itself prove actual external task inspection"
+    },
+    {
+      "path": "qa/all-codes/english-f3/year-3/AC9E3LA10.json",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/qa/all-codes/english-f3/year-3/AC9E3LA10.json",
+      "bytes": 7002,
+      "git_blob_sha": "5ec6968fa2d237f0e76cd09c897f901423cb933e",
+      "sha256_utf8": "b8dfebad92a7517b9939d3b083d7d1d5562ec53e886397c55d022b4267722dc3",
+      "evidence_role": "saved code record/status; does not itself prove actual external task inspection"
+    },
+    {
+      "path": "shared-research/english/2026-11-03-cohesion-sentence-voice-navigation-evidence.json",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/shared-research/english/2026-11-03-cohesion-sentence-voice-navigation-evidence.json",
+      "bytes": 14131,
+      "git_blob_sha": "36efe26f990a2eb54fca34fd0d7059a3a760c212",
+      "sha256_utf8": "89eca1feb088e847880b5fb1b442ddeef56332a90d368a0eb52250d715a8a2d1",
+      "evidence_role": "actual saved observations/method/source handoff read for applicable scope"
+    },
+    {
+      "path": "year-1/english/AC9E1LA03/la03.txt",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-1/english/AC9E1LA03/la03.txt",
+      "bytes": 30329,
+      "git_blob_sha": "41bd88eb5fc00e729f3c5009c9cbc702fff52820",
+      "sha256_utf8": "124ee5bea6ccd5383c6bc5f5e9ca81a91505e01f7b2390656c7653b63e788710",
+      "evidence_role": "actual saved observations/method/source handoff read for applicable scope"
+    },
+    {
+      "path": "year-1/english/AC9E1LA05/la05.txt",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-1/english/AC9E1LA05/la05.txt",
+      "bytes": 28789,
+      "git_blob_sha": "8ef5b58f129cba613fd6bea03d5bfe12b383dfa6",
+      "sha256_utf8": "db229dc17fddff5d35218a8c4b8c90c29caa13a3c182dc1b7268f2e8baa94046",
+      "evidence_role": "actual saved observations/method/source handoff read for applicable scope"
+    },
+    {
+      "path": "year-3/english/AC9E3LA01/independent-teacher-qa.json",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA01/independent-teacher-qa.json",
+      "bytes": 3082,
+      "git_blob_sha": "26fb5d0fefc4b02153f8ad7f8368f3814e9763f9",
+      "sha256_utf8": "6e72331be40e2ba3c0094d50ab5881ca1a377731ec86a4aad49c5c5519c4be00",
+      "evidence_role": "saved code record/status; does not itself prove actual external task inspection"
+    },
+    {
+      "path": "year-3/english/AC9E3LA01/question-bank-draft-tracker.json",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA01/question-bank-draft-tracker.json",
+      "bytes": 639,
+      "git_blob_sha": "b81281993b9b5b1d36073240629bf05072e15afe",
+      "sha256_utf8": "9bd862a37f791e9606fe705591824ba8efda15ebe45fbc45971b3383ccb1e714",
+      "evidence_role": "saved code record/status; does not itself prove actual external task inspection"
+    },
+    {
+      "path": "year-3/english/AC9E3LA01/source-and-review.md",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA01/source-and-review.md",
+      "bytes": 3777,
+      "git_blob_sha": "1d35d20c2080b3ac1424fe6fc87e4fd7c2fb399a",
+      "sha256_utf8": "a8b634511cd62fbfef3341edd0bf7b4c534ad17a8e9fca55c7fe122cefcdb281",
+      "evidence_role": "actual saved observations/method/source handoff read for applicable scope"
+    },
+    {
+      "path": "year-3/english/AC9E3LA02/independent-teacher-qa.json",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA02/independent-teacher-qa.json",
+      "bytes": 2608,
+      "git_blob_sha": "20d26d1f858ad6c5a89d891f3657cd375711e128",
+      "sha256_utf8": "07fe0d33c11c36d5479c1d6b1f590babb8ca1ce0c8a793e297c6cfd1c3f618b6",
+      "evidence_role": "saved code record/status; does not itself prove actual external task inspection"
+    },
+    {
+      "path": "year-3/english/AC9E3LA02/question-bank-draft-tracker.json",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA02/question-bank-draft-tracker.json",
+      "bytes": 370,
+      "git_blob_sha": "1b304a890194a65ff0874a21b5bad99e4430a9a4",
+      "sha256_utf8": "873acf69033eb2bcf19baa7d4ed7b8120448ede25b1e7d175e31d1aa2dfd4c9b",
+      "evidence_role": "saved code record/status; does not itself prove actual external task inspection"
+    },
+    {
+      "path": "year-3/english/AC9E3LA02/research/2026-11-03-residual-methods.json",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA02/research/2026-11-03-residual-methods.json",
+      "bytes": 11830,
+      "git_blob_sha": "3b7e90df7cd73f3df16347b02aa2e60746a67ace",
+      "sha256_utf8": "04fc5e441c9bc9f8458e11c5caeb37dec44e03fda151d5bdb724ff1e3008cdff",
+      "evidence_role": "actual saved observations/method/source handoff read for applicable scope"
+    },
+    {
+      "path": "year-3/english/AC9E3LA02/research/2026-11-04-free-question-collection-02.json",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA02/research/2026-11-04-free-question-collection-02.json",
+      "bytes": 2231,
+      "git_blob_sha": "3a6900d701f9619dbb6870f7114bcc4d077c7483",
+      "sha256_utf8": "1e3359c04d6f467de9756bb61426ff49b4f2a264e10fd7ab62cb1aa63b842751",
+      "evidence_role": "actual saved observations/method/source handoff read for applicable scope"
+    },
+    {
+      "path": "year-3/english/AC9E3LA02/source-and-review.md",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA02/source-and-review.md",
+      "bytes": 1073,
+      "git_blob_sha": "84ff51c34452efa123c124b00d6ef903b8e6812d",
+      "sha256_utf8": "f608cd27b52d0dd28f6e3c7cf36aaf6c24e4b22bb64524bf62e6ee51e41202e8",
+      "evidence_role": "actual saved observations/method/source handoff read for applicable scope"
+    },
+    {
+      "path": "year-3/english/AC9E3LA03/independent-teacher-qa.json",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA03/independent-teacher-qa.json",
+      "bytes": 2608,
+      "git_blob_sha": "d9990b7d3ae20a37dc3b0a6155f014d5cbbf50cb",
+      "sha256_utf8": "0007c326ec86e35432ce2846128b82ac718cfe5096feb5b0a5c6917648d08049",
+      "evidence_role": "saved code record/status; does not itself prove actual external task inspection"
+    },
+    {
+      "path": "year-3/english/AC9E3LA03/question-bank-draft-tracker.json",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA03/question-bank-draft-tracker.json",
+      "bytes": 370,
+      "git_blob_sha": "475496643fa03be0b11ce1d9ba516924fb027ec5",
+      "sha256_utf8": "4b37b0e6facfc3a6a97af7d82bf81afc51e6baf9e293e48e81d9a95c2bde6eb7",
+      "evidence_role": "saved code record/status; does not itself prove actual external task inspection"
+    },
+    {
+      "path": "year-3/english/AC9E3LA03/source-and-review.md",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA03/source-and-review.md",
+      "bytes": 1073,
+      "git_blob_sha": "ee069dec39f254dce3c370696b7e8979e8867c11",
+      "sha256_utf8": "8237d235fdc790179f9a493cef4b39bc92ef33d66ae2badb68601a9668723376",
+      "evidence_role": "actual saved observations/method/source handoff read for applicable scope"
+    },
+    {
+      "path": "year-3/english/AC9E3LA04/independent-teacher-qa.json",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA04/independent-teacher-qa.json",
+      "bytes": 2608,
+      "git_blob_sha": "0e056bd1425ac9faae22ac0d44c742263ee00459",
+      "sha256_utf8": "7287fbcb9dfb2c38413c187fc36e221e04e8a1375e74a551065e0a41756ee6ce",
+      "evidence_role": "saved code record/status; does not itself prove actual external task inspection"
+    },
+    {
+      "path": "year-3/english/AC9E3LA04/question-bank-draft-tracker.json",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA04/question-bank-draft-tracker.json",
+      "bytes": 370,
+      "git_blob_sha": "dea783733d2222e91f7c47d27f6f6d8b4000b800",
+      "sha256_utf8": "f4b1f75bbf4c1f26ad99b261a016a5ace904ab75b16556316c70b3b874c55644",
+      "evidence_role": "saved code record/status; does not itself prove actual external task inspection"
+    },
+    {
+      "path": "year-3/english/AC9E3LA04/source-and-review.md",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA04/source-and-review.md",
+      "bytes": 1073,
+      "git_blob_sha": "3ccba1b216a5740bb0c485df3412582b349df946",
+      "sha256_utf8": "b45d7d95af08d9698ac1c85290bb6165212f12e3f967befb70fc62255bfacea5",
+      "evidence_role": "actual saved observations/method/source handoff read for applicable scope"
+    },
+    {
+      "path": "year-3/english/AC9E3LA05/independent-teacher-qa.json",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA05/independent-teacher-qa.json",
+      "bytes": 2608,
+      "git_blob_sha": "fdaaea39186f6f94aa76eabae2e51b2c11f2074c",
+      "sha256_utf8": "4eb08b5ace314da14fc1888b0dc1b31b0452ab91c1ce1abe37d15a077cee9def",
+      "evidence_role": "saved code record/status; does not itself prove actual external task inspection"
+    },
+    {
+      "path": "year-3/english/AC9E3LA05/question-bank-draft-tracker.json",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA05/question-bank-draft-tracker.json",
+      "bytes": 370,
+      "git_blob_sha": "d55f63578bc7d869db35f9c4cab41f24f42a3533",
+      "sha256_utf8": "0eebb9d4a0f9cc396adff6226e0210896800af9dd7b7e91efef6b65d671a6cd7",
+      "evidence_role": "saved code record/status; does not itself prove actual external task inspection"
+    },
+    {
+      "path": "year-3/english/AC9E3LA05/source-and-review.md",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA05/source-and-review.md",
+      "bytes": 1073,
+      "git_blob_sha": "72b2b544f2be2c9a0ace866503fa366ef04dfed1",
+      "sha256_utf8": "5413415db430b8f6a8ba06d02cc919cda02a10a82c4cd2fe04b14bdd6a9cde37",
+      "evidence_role": "actual saved observations/method/source handoff read for applicable scope"
+    },
+    {
+      "path": "year-3/english/AC9E3LA06/independent-teacher-qa.json",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA06/independent-teacher-qa.json",
+      "bytes": 2608,
+      "git_blob_sha": "1f82f0a1d1eeb8627b0da9ae020b03d6d38f2c0d",
+      "sha256_utf8": "6a4487bb9e9049fc5c2cbfbad3411fc6a89b3f92943cac41c4d678f238450dd9",
+      "evidence_role": "saved code record/status; does not itself prove actual external task inspection"
+    },
+    {
+      "path": "year-3/english/AC9E3LA06/question-bank-draft-tracker.json",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA06/question-bank-draft-tracker.json",
+      "bytes": 370,
+      "git_blob_sha": "10e03f3faa451e34421ac3b294242af422a64d9a",
+      "sha256_utf8": "b9898e5f578e277ca6d4c6d698ce0be04d46887e832d599502bddbe101b286f4",
+      "evidence_role": "saved code record/status; does not itself prove actual external task inspection"
+    },
+    {
+      "path": "year-3/english/AC9E3LA06/research/2026-11-04-free-question-collection-02.json",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA06/research/2026-11-04-free-question-collection-02.json",
+      "bytes": 3689,
+      "git_blob_sha": "6848c745f29b717500653af120603685443e1493",
+      "sha256_utf8": "97b5e604d795253bef0c1f374aa9c5a6a01bda37a842fd44023181d150dff46a",
+      "evidence_role": "actual saved observations/method/source handoff read for applicable scope"
+    },
+    {
+      "path": "year-3/english/AC9E3LA06/source-and-review.md",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA06/source-and-review.md",
+      "bytes": 1071,
+      "git_blob_sha": "9d29d168fb25b7f36971585111d2f11bce6fb1e7",
+      "sha256_utf8": "4b4647487ae8b1744e9a25d4c76fa7b7eb23c48756a284945000725a6652d729",
+      "evidence_role": "actual saved observations/method/source handoff read for applicable scope"
+    },
+    {
+      "path": "year-3/english/AC9E3LA07/independent-teacher-qa.json",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA07/independent-teacher-qa.json",
+      "bytes": 2608,
+      "git_blob_sha": "be3534d89b442f49726a4fa7d013b532a3043af8",
+      "sha256_utf8": "01cf7bf3de1b3f66d596900ea2422a09c33953370be1013b6968669d62a949a0",
+      "evidence_role": "saved code record/status; does not itself prove actual external task inspection"
+    },
+    {
+      "path": "year-3/english/AC9E3LA07/question-bank-draft-tracker.json",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA07/question-bank-draft-tracker.json",
+      "bytes": 370,
+      "git_blob_sha": "d5554568a15c396c59fc98889b2c8e6ac68480f5",
+      "sha256_utf8": "8465e57ecb7736ae6419d934e401e53cb863e6d68c663311970a6ba2225aef56",
+      "evidence_role": "saved code record/status; does not itself prove actual external task inspection"
+    },
+    {
+      "path": "year-3/english/AC9E3LA07/research/2026-11-04-free-question-collection-02.json",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA07/research/2026-11-04-free-question-collection-02.json",
+      "bytes": 2310,
+      "git_blob_sha": "aa763ed5ec0b64ad2d683c6448197a67ad55158b",
+      "sha256_utf8": "202fd7e5ffb6441c060008689e53b01b8bed0a1400882e316cc5bddeb61ad84d",
+      "evidence_role": "actual saved observations/method/source handoff read for applicable scope"
+    },
+    {
+      "path": "year-3/english/AC9E3LA07/source-and-review.md",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA07/source-and-review.md",
+      "bytes": 1071,
+      "git_blob_sha": "d09e9994dbd61d411c0ad93d30f62241f27416bb",
+      "sha256_utf8": "30da28b38c91becddef5d4366219f02bbf157aad53050969e58b7f0b34b2622b",
+      "evidence_role": "actual saved observations/method/source handoff read for applicable scope"
+    },
+    {
+      "path": "year-3/english/AC9E3LA08/independent-teacher-qa.json",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA08/independent-teacher-qa.json",
+      "bytes": 2608,
+      "git_blob_sha": "a615e1aecb633e1885fdaae0fa7cfc8e8daac344",
+      "sha256_utf8": "573f2d7d56ba5f40667e89c3218e3dacc79cf6aef7eab5aa5daf3d5fd5ba6dc6",
+      "evidence_role": "saved code record/status; does not itself prove actual external task inspection"
+    },
+    {
+      "path": "year-3/english/AC9E3LA08/question-bank-draft-tracker.json",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA08/question-bank-draft-tracker.json",
+      "bytes": 370,
+      "git_blob_sha": "63c748e0f5a4e019c5aa1f1221b344c8b3d93be6",
+      "sha256_utf8": "f0765b7e02980fccb5ff4b4a12cb5a275115f6d8d188639e7c53d246af155c1a",
+      "evidence_role": "saved code record/status; does not itself prove actual external task inspection"
+    },
+    {
+      "path": "year-3/english/AC9E3LA08/research/2026-11-04-free-question-collection-02.json",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA08/research/2026-11-04-free-question-collection-02.json",
+      "bytes": 2939,
+      "git_blob_sha": "3a151cf1cb64cd9a9d631141e974747537624461",
+      "sha256_utf8": "74159c95f4f5e738406f8feb4022f9a32eac6765781bca691611f44aca3a4f34",
+      "evidence_role": "actual saved observations/method/source handoff read for applicable scope"
+    },
+    {
+      "path": "year-3/english/AC9E3LA08/source-and-review.md",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA08/source-and-review.md",
+      "bytes": 1071,
+      "git_blob_sha": "9f738c5f8f543bf6c5ea3728a5e12690766bb62b",
+      "sha256_utf8": "da79ce3a5b68ed7d897be3dcec754a87ddcac3bfddc3437442e6d3b396936de5",
+      "evidence_role": "actual saved observations/method/source handoff read for applicable scope"
+    },
+    {
+      "path": "year-3/english/AC9E3LA09/assets/bottle.svg",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA09/assets/bottle.svg",
+      "bytes": 371,
+      "git_blob_sha": "c5b2c746bf259063d2570af8bb3c0e4db194da71",
+      "sha256_utf8": "955ff6fe0cda034c27e3ffddd92c7e9caac4f288c504e7d871ed001afb01c1d5",
+      "evidence_role": "retrieved asset identity only; not relied on as external research and not visually reviewed in this research gate"
+    },
+    {
+      "path": "year-3/english/AC9E3LA09/assets/box.svg",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA09/assets/box.svg",
+      "bytes": 354,
+      "git_blob_sha": "3d55b7e06ba148b35658d12f1227a1c904eb822c",
+      "sha256_utf8": "8f7d8c0f530108bca5c3d5afb01fa419e8bff4d3289d86db763628ee6c18b5b1",
+      "evidence_role": "retrieved asset identity only; not relied on as external research and not visually reviewed in this research gate"
+    },
+    {
+      "path": "year-3/english/AC9E3LA09/assets/cup.svg",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA09/assets/cup.svg",
+      "bytes": 496,
+      "git_blob_sha": "4e701a173831964db979f99d1915d360583391e4",
+      "sha256_utf8": "e761ad547ff057f442a16edcafa2c3a4c082634721002121a70f73227d576bed",
+      "evidence_role": "retrieved asset identity only; not relied on as external research and not visually reviewed in this research gate"
+    },
+    {
+      "path": "year-3/english/AC9E3LA09/assets/flag.svg",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA09/assets/flag.svg",
+      "bytes": 360,
+      "git_blob_sha": "41cc02878284442f990a1931f0ac0cb4a4733f7f",
+      "sha256_utf8": "2660c80c50b3a2bd849e198e68e95e4aa2fa15857ac787a7eae5b87e25667736",
+      "evidence_role": "retrieved asset identity only; not relied on as external research and not visually reviewed in this research gate"
+    },
+    {
+      "path": "year-3/english/AC9E3LA09/assets/paths.svg",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA09/assets/paths.svg",
+      "bytes": 457,
+      "git_blob_sha": "2f282bf507f0cea7f4062e54026a23ab5ebe209a",
+      "sha256_utf8": "81a14a3affcd6402a41b94ea926aaa4b8397eb41c7e65dfc44995bb22caeae08",
+      "evidence_role": "retrieved asset identity only; not relied on as external research and not visually reviewed in this research gate"
+    },
+    {
+      "path": "year-3/english/AC9E3LA09/assets/room.svg",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA09/assets/room.svg",
+      "bytes": 956,
+      "git_blob_sha": "ea481f3695266e3a1e2ff6d5604dbb2f95d32482",
+      "sha256_utf8": "06e28de3dbc07796beb2bd21f54a8df038b6f7c067cf32172ec15d0b1dd8c72a",
+      "evidence_role": "retrieved asset identity only; not relied on as external research and not visually reviewed in this research gate"
+    },
+    {
+      "path": "year-3/english/AC9E3LA09/assets/route.svg",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA09/assets/route.svg",
+      "bytes": 651,
+      "git_blob_sha": "a019871b5c5aa34444bf0ce01c46042dff06ea26",
+      "sha256_utf8": "9c36d1cfbd51af448ff58f32e2cddc4a342d91032490a65a2d87784f52df0f94",
+      "evidence_role": "retrieved asset identity only; not relied on as external research and not visually reviewed in this research gate"
+    },
+    {
+      "path": "year-3/english/AC9E3LA09/assets/route2.svg",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA09/assets/route2.svg",
+      "bytes": 686,
+      "git_blob_sha": "480fca4d34c2f79d895a7f3f000d2f570ef38e95",
+      "sha256_utf8": "242f4ffd18c39a6fdb93d415c39e874f043a3be1c2e4830fcddff37a2a05037c",
+      "evidence_role": "retrieved asset identity only; not relied on as external research and not visually reviewed in this research gate"
+    },
+    {
+      "path": "year-3/english/AC9E3LA09/assets/school.svg",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA09/assets/school.svg",
+      "bytes": 389,
+      "git_blob_sha": "46e414b2cf48cd56f3c1b9fd23b25326645c1032",
+      "sha256_utf8": "c20a4f40ffe51274ca6d6c0866f5ba29eda186750ffdac0a82991d292caf32e8",
+      "evidence_role": "retrieved asset identity only; not relied on as external research and not visually reviewed in this research gate"
+    },
+    {
+      "path": "year-3/english/AC9E3LA09/assets/sort.svg",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA09/assets/sort.svg",
+      "bytes": 630,
+      "git_blob_sha": "2099700f33fd1c4145f3516a107aa48b1e2da132",
+      "sha256_utf8": "f5467150ddb0441b2106127da9a5cc75acc5ef85b73e7f935a35f51728b35e55",
+      "evidence_role": "retrieved asset identity only; not relied on as external research and not visually reviewed in this research gate"
+    },
+    {
+      "path": "year-3/english/AC9E3LA09/assets/towers.svg",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA09/assets/towers.svg",
+      "bytes": 462,
+      "git_blob_sha": "a6cc4763f32b4a45128a442d7117ccf3e5cf0b2f",
+      "sha256_utf8": "eb97b75a7f0491d53f418e6e0e737964a84689f39ac6ae17a6d27decef7dc767",
+      "evidence_role": "retrieved asset identity only; not relied on as external research and not visually reviewed in this research gate"
+    },
+    {
+      "path": "year-3/english/AC9E3LA09/assets/wind.svg",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA09/assets/wind.svg",
+      "bytes": 391,
+      "git_blob_sha": "69c3a2ba1cfc2ec4106426a8776a12acc3872f31",
+      "sha256_utf8": "309ec34b3c8454916554cfc67866a7d018fd933a1621a079a6729a2008d6ada1",
+      "evidence_role": "retrieved asset identity only; not relied on as external research and not visually reviewed in this research gate"
+    },
+    {
+      "path": "year-3/english/AC9E3LA09/independent-teacher-qa.json",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA09/independent-teacher-qa.json",
+      "bytes": 2697,
+      "git_blob_sha": "973fb3c93bb070da9d458945057dce44dd046536",
+      "sha256_utf8": "c400fb16437ad39dd21f417ae3b75b94f78bafc803c289d74535ef19b9976a71",
+      "evidence_role": "saved code record/status; does not itself prove actual external task inspection"
+    },
+    {
+      "path": "year-3/english/AC9E3LA09/question-bank-draft-tracker.json",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA09/question-bank-draft-tracker.json",
+      "bytes": 370,
+      "git_blob_sha": "fe474a84b03675cd58ade6db12f37d971c771114",
+      "sha256_utf8": "0521e17dbdc7ec0f9b895ca255c40e8b763a46728bc49f7f1f052eb3b178f445",
+      "evidence_role": "saved code record/status; does not itself prove actual external task inspection"
+    },
+    {
+      "path": "year-3/english/AC9E3LA09/source-and-review.md",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA09/source-and-review.md",
+      "bytes": 1071,
+      "git_blob_sha": "f058bf8b3e3713a4bcc25334134c3b7c52123322",
+      "sha256_utf8": "4f02a79fee149736bae8b54d3ea11d39f5b8ddfc6efa96588f80cef9c3b117e8",
+      "evidence_role": "actual saved observations/method/source handoff read for applicable scope"
+    },
+    {
+      "path": "year-3/english/AC9E3LA10/independent-teacher-qa.json",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA10/independent-teacher-qa.json",
+      "bytes": 2608,
+      "git_blob_sha": "d7d4470bd35f141e48ddb7d2178ebed3b3a164d5",
+      "sha256_utf8": "00b103dded78df33b9767699dc3bc971047087bdaaabd8885324d30cf440c99e",
+      "evidence_role": "saved code record/status; does not itself prove actual external task inspection"
+    },
+    {
+      "path": "year-3/english/AC9E3LA10/question-bank-draft-tracker.json",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA10/question-bank-draft-tracker.json",
+      "bytes": 370,
+      "git_blob_sha": "4402ce74e94e7876596a329798810668582ae06b",
+      "sha256_utf8": "d20f05002463656987c9c474f2baef9a341f84641863103a510723738fd44441",
+      "evidence_role": "saved code record/status; does not itself prove actual external task inspection"
+    },
+    {
+      "path": "year-3/english/AC9E3LA10/source-and-review.md",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/AC9E3LA10/source-and-review.md",
+      "bytes": 1071,
+      "git_blob_sha": "86f9c0439df1ebb42c258b7cd3469754e04e82d4",
+      "sha256_utf8": "ecd97a97f70ad092da3fa868996b5d6a2d91cfa995eaaf5bdcb152d0fef52164",
+      "evidence_role": "actual saved observations/method/source handoff read for applicable scope"
+    },
+    {
+      "path": "year-3/english/supporting-research/reports/year3-english-ixl-review/FIRST-FIVE-SWEEP.md",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/supporting-research/reports/year3-english-ixl-review/FIRST-FIVE-SWEEP.md",
+      "bytes": 25154,
+      "git_blob_sha": "5374f7be05f635a225d26688aca4aab45e477fe5",
+      "sha256_utf8": "53e9da98db35ceb2478486f80d105fa94dd6335a10d43a77ec07fa189bc053e8",
+      "evidence_role": "actual saved observations/method/source handoff read for applicable scope"
+    },
+    {
+      "path": "year-3/english/supporting-research/reports/year3-english-ixl-review/NEXT-TEN-SWEEP.md",
+      "local_path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/research/year-3/english/supporting-research/reports/year3-english-ixl-review/NEXT-TEN-SWEEP.md",
+      "bytes": 25883,
+      "git_blob_sha": "9479d1a04cdecec478b392b357c966f579678440",
+      "sha256_utf8": "ef339e71bea12b21caa2edaac122b5badeef3439a0c8890b302f01615f452532",
+      "evidence_role": "actual saved observations/method/source handoff read for applicable scope"
+    }
+  ],
+  "source_limits": [
+    "Saved IXL early questions/help and selected full stories are bounded observations; no new login, full progression or media inspection.",
+    "FIRST-FIVE no direct IXL LA01/05 match is catalogue limitation, not absence of all possible sources.",
+    "Source-provider science/history incidental facts are not adopted.",
+    "Current offline bank PASS labels and historical publication labels do not certify new public guides.",
+    "New source notes distinguish transcript/prose reading from video/audio and separate model prompts from scored external items."
+  ],
+  "source_to_focus": {
+    "AC9E3LA01": {
+      "F1": [
+        "FIRST-FIVE-SWEEP.md",
+        "AC9E3LA01/source-and-review.md",
+        "ABC-REGISTER",
+        "LITHUB-CONVERSATION",
+        "RECONCILIATION-ROLES"
+      ],
+      "F2": [
+        "FIRST-FIVE-SWEEP.md",
+        "AC9E3LA01/source-and-review.md",
+        "ABC-REGISTER",
+        "LITHUB-CONVERSATION",
+        "RECONCILIATION-ROLES"
+      ],
+      "F3": [
+        "FIRST-FIVE-SWEEP.md",
+        "AC9E3LA01/source-and-review.md",
+        "ABC-REGISTER",
+        "LITHUB-CONVERSATION",
+        "RECONCILIATION-ROLES"
+      ]
+    },
+    "AC9E3LA02": {
+      "F1": [
+        "FIRST-FIVE-SWEEP.md",
+        "ABC-MOD",
+        "ABC-CAN",
+        "ABC-MUST"
+      ],
+      "F2": [
+        "FIRST-FIVE-SWEEP.md",
+        "ABC-MOD",
+        "ABC-CAN",
+        "ABC-MUST"
+      ],
+      "F3": [
+        "FIRST-FIVE-SWEEP.md",
+        "ABC-MOD",
+        "ABC-CAN",
+        "ABC-MUST"
+      ]
+    },
+    "AC9E3LA03": {
+      "F1": [
+        "FIRST-FIVE-SWEEP.md",
+        "ABC-EXPLANATION",
+        "ABC-AUTOBIOGRAPHY",
+        "OAK-AUTOBIOGRAPHY"
+      ],
+      "F2": [
+        "FIRST-FIVE-SWEEP.md",
+        "ABC-EXPLANATION",
+        "ABC-AUTOBIOGRAPHY",
+        "OAK-AUTOBIOGRAPHY"
+      ],
+      "F3": [
+        "FIRST-FIVE-SWEEP.md",
+        "ABC-EXPLANATION",
+        "ABC-AUTOBIOGRAPHY",
+        "OAK-AUTOBIOGRAPHY"
+      ],
+      "F4": [
+        "FIRST-FIVE-SWEEP.md",
+        "ABC-EXPLANATION",
+        "ABC-AUTOBIOGRAPHY",
+        "OAK-AUTOBIOGRAPHY"
+      ]
+    },
+    "AC9E3LA04": {
+      "F1": [
+        "FIRST-FIVE-SWEEP.md",
+        "ABC-COHESION"
+      ],
+      "F2": [
+        "FIRST-FIVE-SWEEP.md",
+        "ABC-COHESION"
+      ],
+      "F3": [
+        "FIRST-FIVE-SWEEP.md",
+        "ABC-COHESION"
+      ]
+    },
+    "AC9E3LA05": {
+      "F1": [
+        "FIRST-FIVE-SWEEP.md",
+        "year-1/english/AC9E1LA05/la05.txt",
+        "RR-NAV",
+        "BIRD-BOOK"
+      ],
+      "F2": [
+        "FIRST-FIVE-SWEEP.md",
+        "year-1/english/AC9E1LA05/la05.txt",
+        "RR-NAV",
+        "BIRD-BOOK"
+      ],
+      "F3": [
+        "FIRST-FIVE-SWEEP.md",
+        "year-1/english/AC9E1LA05/la05.txt",
+        "RR-NAV",
+        "BIRD-BOOK"
+      ]
+    },
+    "AC9E3LA06": {
+      "F1": [
+        "NEXT-TEN-SWEEP.md",
+        "AC9E3LA06/research/2026-11-04-free-question-collection-02.json"
+      ],
+      "F2": [
+        "NEXT-TEN-SWEEP.md",
+        "AC9E3LA06/research/2026-11-04-free-question-collection-02.json"
+      ],
+      "F3": [
+        "NEXT-TEN-SWEEP.md",
+        "AC9E3LA06/research/2026-11-04-free-question-collection-02.json"
+      ]
+    },
+    "AC9E3LA07": {
+      "F1": [
+        "NEXT-TEN-SWEEP.md",
+        "AC9E3LA07/research/2026-11-04-free-question-collection-02.json"
+      ],
+      "F2": [
+        "NEXT-TEN-SWEEP.md",
+        "AC9E3LA07/research/2026-11-04-free-question-collection-02.json"
+      ],
+      "F3": [
+        "NEXT-TEN-SWEEP.md",
+        "AC9E3LA07/research/2026-11-04-free-question-collection-02.json"
+      ]
+    },
+    "AC9E3LA08": {
+      "F1": [
+        "NEXT-TEN-SWEEP.md",
+        "AC9E3LA08/research/2026-11-04-free-question-collection-02.json"
+      ],
+      "F2": [
+        "NEXT-TEN-SWEEP.md",
+        "AC9E3LA08/research/2026-11-04-free-question-collection-02.json"
+      ],
+      "F3": [
+        "NEXT-TEN-SWEEP.md",
+        "AC9E3LA08/research/2026-11-04-free-question-collection-02.json"
+      ]
+    },
+    "AC9E3LA09": {
+      "F1": [
+        "NEXT-TEN-SWEEP.md",
+        "PETAA-VIEWING"
+      ],
+      "F2": [
+        "NEXT-TEN-SWEEP.md",
+        "PETAA-VIEWING"
+      ],
+      "F3": [
+        "NEXT-TEN-SWEEP.md",
+        "PETAA-VIEWING"
+      ]
+    },
+    "AC9E3LA10": {
+      "F1": [
+        "NEXT-TEN-SWEEP.md",
+        "FIRST-FIVE-SWEEP.md",
+        "ABC-AFFIXES"
+      ],
+      "F2": [
+        "NEXT-TEN-SWEEP.md",
+        "FIRST-FIVE-SWEEP.md",
+        "ABC-AFFIXES"
+      ],
+      "F3": [
+        "NEXT-TEN-SWEEP.md",
+        "FIRST-FIVE-SWEEP.md",
+        "ABC-AFFIXES"
+      ],
+      "F4": [
+        "NEXT-TEN-SWEEP.md",
+        "FIRST-FIVE-SWEEP.md",
+        "ABC-AFFIXES"
+      ]
+    }
+  }
+}

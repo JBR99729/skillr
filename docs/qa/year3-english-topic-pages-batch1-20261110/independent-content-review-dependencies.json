@@ -1,0 +1,71 @@
+{
+  "reviewer": "/root/y3_content_review",
+  "source_content_decision": "PASS",
+  "hosted_visual_decision": "BLOCKED pending actual served pixels and controls",
+  "dependencies": [
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/skillr-year3-english-batch1/docs/qa/year3-english-topic-pages-batch1-20261110/page-content.json",
+      "sha256": "ce194a7569c27c0301b5aaaa7c7dd4af7492c70e6b78afed828debb060fe1347"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/skillr-year3-english-batch1/docs/qa/year3-english-topic-pages-batch1-20261110/units.json",
+      "sha256": "f5a573746c57a3a920db2af7473f4bb1c661d033cc42f5f7a8e0be6be13db636"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/skillr-year3-english-batch1/docs/qa/year3-english-topic-pages-batch1-20261110/inventory.json",
+      "sha256": "7c48c61fa24a7ea8a7a4954849b340cccd39ad0d7ac6c7d098cf6b0c08f588bf"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/extras-a.py",
+      "sha256": "a8a9e41dd7b445498a747ae77de9824e6dde00977e8c5b6a62fa02f6c86e31f5"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/extras-b.py",
+      "sha256": "b4e1352b446d8150d19931f99b88961a8ad2c9751a946c72555c72d783aa76ff"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/year3-english-build1/diagram-stimuli/identities.json",
+      "sha256": "bb030595205eabd0ffb6a9ec06ccf0aae646fd418a4f4241a6225ada82f22bb8"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/skillr-year3-english-batch1/year3/english/ac9e3la01-that-cooperation-with-others-depends-on-shared-understanding-of/index.html",
+      "sha256": "1421be4321ee0680345ec0684ed22b359ff7227fa40e014fe1d606844c685387"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/skillr-year3-english-batch1/year3/english/ac9e3la02-how-the-language-of-evaluation-and-emotion-such-as-modal/index.html",
+      "sha256": "9b9cbaeaf745f77541df8cb448175731a2e4cd8876ee30d1129558a87ee05a33"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/skillr-year3-english-batch1/year3/english/ac9e3la03-how-texts-across-the-curriculum-use-different-language-features/index.html",
+      "sha256": "6f5dafd84be451020efa2a6ba9621778d9b43d4e8353cbe90fd5013926e7ac73"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/skillr-year3-english-batch1/year3/english/ac9e3la04-that-paragraphs-are-a-key-organisational-feature-of-the-stages/index.html",
+      "sha256": "7ff1a93292263ddcf2ebb93242cff651934173840f6ef6b8e54e724b1f471572"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/skillr-year3-english-batch1/year3/english/ac9e3la05-the-purpose-of-layout-features-in-print-and-digital-texts/index.html",
+      "sha256": "145d4426ddccc0d549acda7d6278a9d536698e6e7546869d639e077017f7a97e"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/skillr-year3-english-batch1/year3/english/ac9e3la06-that-a-clause-is-a-unit-of-grammar-usually-containing/index.html",
+      "sha256": "a12aca7ac41e23bc6fc6f5e4b0cf182282a35dfc0d3f2a10c9dd09e22288c9be"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/skillr-year3-english-batch1/year3/english/ac9e3la07-how-verbs-represent-different-processes-for-doing-feeling/index.html",
+      "sha256": "0743ade7e0ee8209f1fe03ca45d6798fbe7a678ec98120e1d9ec980c5a32deef"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/skillr-year3-english-batch1/year3/english/ac9e3la08-that-verbs-are-anchored-in-time-through-tense/index.html",
+      "sha256": "ddd38bc8da50dc7f7064a97798739a067f735e0f4b41ee9b04016a78b4061ac8"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/skillr-year3-english-batch1/year3/english/ac9e3la09-how-images-extend-the-meaning-of-a-text/index.html",
+      "sha256": "a2b314c0717084dfb96f4d05c1499f61c21f4ff24e370342821d3021e752d8c1"
+    },
+    {
+      "path": "/workspace/scratch/e8027fd1ced3/skillr-year3-english-batch1/year3/english/ac9e3la10-extend-topic-specific-and-technical-vocabulary-and-know-that/index.html",
+      "sha256": "3fb421782fd130386e6aa0ec9070b2518750eb379e4c697de8e35d64da88a274"
+    }
+  ]
+}

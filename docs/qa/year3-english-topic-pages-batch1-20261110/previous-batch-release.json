@@ -1,0 +1,21 @@
+{
+  "pr": 987,
+  "merged": true,
+  "merge_commit": "d59a0787bbd3ed215da6e2a5ba1ad8aae9bd1758",
+  "main_after_sitemap": "f35e2ebfa6cc4f53e7ac4528df5ffa2ac456e325",
+  "pages_run": 42766836905,
+  "pages_status": "completed",
+  "pages_conclusion": "success",
+  "actual_live_https_gets": {
+    "homepage": {
+      "bytes": 24206,
+      "sha256": "8daee88f47f56325e8d55e26d9dec4f0aac4dc2abb63febd8d82413bcb0f994d"
+    },
+    "affected_guide": {
+      "url": "https://skillrhub.com/year2/english/ac9e2ly06-and-edit-short-imaginative-informative-and-persuasive-written/",
+      "sha256": "44895e53bfe079adb0bf58f485e8b99ad52de25c45a53dbd5b7f41115e9f67fb",
+      "matches_reviewed_merged_html": true
+    }
+  },
+  "scope": "PR987 released; next Year3 batch separate and unmerged"
+}

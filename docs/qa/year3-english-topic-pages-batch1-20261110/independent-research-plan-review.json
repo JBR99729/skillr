@@ -1,0 +1,326 @@
+{
+  "date": "2026-11-10",
+  "reviewer": "/root/y3_research_plan — independent AI research/plan reviewer; no student-facing authorship",
+  "scope": "Ten descriptors, all saved elaborations,32 planned focuses, baseline retained teaching and model requirements.",
+  "decision": "PASS — READY TO DRAFT for all ten public Topic Guides",
+  "code_decisions": [
+    {
+      "code": "AC9E3LA01",
+      "decision": "READY TO DRAFT",
+      "focus_count": 3,
+      "focus_decisions": [
+        {
+          "id": "F1",
+          "learning_intention": "Share turns and check group understanding",
+          "status": "SUFFICIENT"
+        },
+        {
+          "id": "F2",
+          "learning_intention": "Adjust language to audience, role and formality",
+          "status": "SUFFICIENT"
+        },
+        {
+          "id": "F3",
+          "learning_intention": "Negotiate, affirm and develop ideas together",
+          "status": "SUFFICIENT"
+        }
+      ],
+      "bounded_repairs_required": "Retain restating/building responses and source-specific cultural caution. Voice pace/volume is supporting formality context, not a new assessed delivery requirement."
+    },
+    {
+      "code": "AC9E3LA02",
+      "decision": "READY TO DRAFT",
+      "focus_count": 3,
+      "focus_decisions": [
+        {
+          "id": "F1",
+          "learning_intention": "Compare modal probability and obligation in context",
+          "status": "SUFFICIENT"
+        },
+        {
+          "id": "F2",
+          "learning_intention": "Explain evaluations made by nouns, verbs and adverbs",
+          "status": "SUFFICIENT"
+        },
+        {
+          "id": "F3",
+          "learning_intention": "Express emotion and judgements with suitable force",
+          "status": "SUFFICIENT"
+        }
+      ],
+      "bounded_repairs_required": "Retain evidence-backed opinion and evaluation contrasts; repair might/should/will comparison by supplying context and separating probability from obligation. Subjective/objective contrast is support only."
+    },
+    {
+      "code": "AC9E3LA03",
+      "decision": "READY TO DRAFT",
+      "focus_count": 4,
+      "focus_decisions": [
+        {
+          "id": "F1",
+          "learning_intention": "Compare factual recount and autobiography",
+          "status": "SUFFICIENT"
+        },
+        {
+          "id": "F2",
+          "learning_intention": "Compare information report and sequential explanation",
+          "status": "SUFFICIENT"
+        },
+        {
+          "id": "F3",
+          "learning_intention": "Compare narrative, verse poetry and personal literary response",
+          "status": "SUFFICIENT"
+        },
+        {
+          "id": "F4",
+          "learning_intention": "Explain the stages of a simple argument",
+          "status": "SUFFICIENT"
+        }
+      ],
+      "bounded_repairs_required": "Retain structure-purpose examples and Mia/she/it cohesion model as supporting organisation; do not let cohesion replace eight required text-type coverage."
+    },
+    {
+      "code": "AC9E3LA04",
+      "decision": "READY TO DRAFT",
+      "focus_count": 3,
+      "focus_decisions": [
+        {
+          "id": "F1",
+          "learning_intention": "Group information and develop an informative paragraph",
+          "status": "SUFFICIENT"
+        },
+        {
+          "id": "F2",
+          "learning_intention": "Order and repair paragraphs for a reader",
+          "status": "SUFFICIENT"
+        },
+        {
+          "id": "F3",
+          "learning_intention": "Compare narrative paragraph choices",
+          "status": "SUFFICIENT"
+        }
+      ],
+      "bounded_repairs_required": "Retain paragraph-focus and mixed-text repair. Procedure/story/report overview is background; pronoun model supports continuity rather than replacing paragraph organisation."
+    },
+    {
+      "code": "AC9E3LA05",
+      "decision": "READY TO DRAFT",
+      "focus_count": 3,
+      "focus_decisions": [
+        {
+          "id": "F1",
+          "learning_intention": "Use print headings, subheadings and chapter titles",
+          "status": "SUFFICIENT"
+        },
+        {
+          "id": "F2",
+          "learning_intention": "Follow meaningful hyperlinks and navigation words",
+          "status": "SUFFICIENT"
+        },
+        {
+          "id": "F3",
+          "learning_intention": "Compare routes and verify the information found",
+          "status": "SUFFICIENT"
+        }
+      ],
+      "bounded_repairs_required": "Generic structure, cohesion and paragraph block needs bounded relevance repair: reframe around actual headings/links/chapter navigation; do not retain pronoun substitution as core LA05 teaching."
+    },
+    {
+      "code": "AC9E3LA06",
+      "decision": "READY TO DRAFT",
+      "focus_count": 3,
+      "focus_decisions": [
+        {
+          "id": "F1",
+          "learning_intention": "Find clauses through subject and verb links",
+          "status": "SUFFICIENT"
+        },
+        {
+          "id": "F2",
+          "learning_intention": "Match singular and plural subjects with verbs",
+          "status": "SUFFICIENT"
+        },
+        {
+          "id": "F3",
+          "learning_intention": "Repair agreement while retaining meaning",
+          "status": "SUFFICIENT"
+        }
+      ],
+      "bounded_repairs_required": "Retain Birds fly/expanded birds model for subject/verb links and because/so pair for clause locating only. Replace passive-voice comparison as off-focus; no active/passive formalism."
+    },
+    {
+      "code": "AC9E3LA07",
+      "decision": "READY TO DRAFT",
+      "focus_count": 3,
+      "focus_decisions": [
+        {
+          "id": "F1",
+          "learning_intention": "Explain doing and saying verbs in narratives",
+          "status": "SUFFICIENT"
+        },
+        {
+          "id": "F2",
+          "learning_intention": "Use thinking and feeling verbs to reveal inner experience",
+          "status": "SUFFICIENT"
+        },
+        {
+          "id": "F3",
+          "learning_intention": "Use relating verbs in definitions and descriptions",
+          "status": "SUFFICIENT"
+        }
+      ],
+      "bounded_repairs_required": "Copied evaluation/modal/subjective-objective block is mismatched. Recast any retained story judgement only to identify thinking/feeling/saying/relating processes; remove unconnected modal-force instruction."
+    },
+    {
+      "code": "AC9E3LA08",
+      "decision": "READY TO DRAFT",
+      "focus_count": 3,
+      "focus_decisions": [
+        {
+          "id": "F1",
+          "learning_intention": "Read whole verb groups with time clues",
+          "status": "SUFFICIENT"
+        },
+        {
+          "id": "F2",
+          "learning_intention": "Change regular and common irregular verb forms",
+          "status": "SUFFICIENT"
+        },
+        {
+          "id": "F3",
+          "learning_intention": "Maintain a clear timeline and explain time changes",
+          "status": "SUFFICIENT"
+        }
+      ],
+      "bounded_repairs_required": "Retain Birds fly as present habit only with time contrast. Because/so example is context for timeline only; replace passive-voice comparison as off-focus."
+    },
+    {
+      "code": "AC9E3LA09",
+      "decision": "READY TO DRAFT",
+      "focus_count": 3,
+      "focus_decisions": [
+        {
+          "id": "F1",
+          "learning_intention": "Read character relationships through visible choices",
+          "status": "SUFFICIENT"
+        },
+        {
+          "id": "F2",
+          "learning_intention": "Explain viewer involvement through gaze and framing",
+          "status": "SUFFICIENT"
+        },
+        {
+          "id": "F3",
+          "learning_intention": "Combine words and images without inventing a backstory",
+          "status": "SUFFICIENT"
+        }
+      ],
+      "bounded_repairs_required": "Retain caption contribution, close/wide framing and exact map SVG/route model. Layout navigation is supporting image organisation, not central LA05-style navigation assessment. Muddy/torn-map try needs visible asset or must be explicitly text-description reasoning."
+    },
+    {
+      "code": "AC9E3LA10",
+      "decision": "READY TO DRAFT",
+      "focus_count": 4,
+      "focus_decisions": [
+        {
+          "id": "F1",
+          "learning_intention": "Use precise technical words for length",
+          "status": "SUFFICIENT"
+        },
+        {
+          "id": "F2",
+          "learning_intention": "Use narrative terms to explain a story",
+          "status": "SUFFICIENT"
+        },
+        {
+          "id": "F3",
+          "learning_intention": "Check a word meaning against its context",
+          "status": "SUFFICIENT"
+        },
+        {
+          "id": "F4",
+          "learning_intention": "Extend vocabulary through meaningful word parts",
+          "status": "SUFFICIENT"
+        }
+      ],
+      "bounded_repairs_required": "Retain meaningful word-part families. Remove spelling-choice/etymology-only detour; teach technical vocabulary and context senses explicitly."
+    }
+  ],
+  "unresolved_material_method_gaps": [],
+  "required_delivery_conditions": [
+    "Every focus uses original worked modelling, distinct guided try and independent check with response criteria.",
+    "LA01 includes sourced role distinction and locally supplied host guidance; no invented cultural protocol.",
+    "LA03 includes all eight complete named text types plus argument stages.",
+    "LA05 hyperlinks have actual matching destination IDs and heading/content confirmation.",
+    "LA09 actual images support assessed interpretation; map SVG preserved; alt text equivalent to visible evidence, no answer-only inference.",
+    "Independent authored content and rendered-output checks still required before completion."
+  ],
+  "limitations": [
+    "LA08 current Scootle elaboration retrieval unavailable after retries; official QCAA confirms descriptor; exact previously saved elaborations preserved and consistent current secondary copies inspected. This is a retrieval limit, not a claim of fresh primary elaboration inspection.",
+    "No learner trial, media playback, full IXL progression or finished product certification.",
+    "Historical independent records are not substituted for present analysis."
+  ],
+  "reviewed_dependencies": [
+    {
+      "path": "docs/qa/year3-english-topic-pages-batch1-20261110/units.json",
+      "sha256": "f5a573746c57a3a920db2af7473f4bb1c661d033cc42f5f7a8e0be6be13db636"
+    },
+    {
+      "path": "docs/qa/year3-english-topic-pages-batch1-20261110/plan.json",
+      "sha256": "e8c939ec817722d54712898b45f8effab190ec82672f20a4ff9ced390c845cf9"
+    },
+    {
+      "path": "docs/qa/year3-english-topic-pages-batch1-20261110/retained-inventory-plan.json",
+      "sha256": "07cc737aefa8126c3244f86a441d16e87ec7a4afa899c7d95a5640673aa7963a"
+    },
+    {
+      "path": "docs/qa/year3-english-topic-pages-batch1-20261110/reused-research.json",
+      "sha256": "2cb1a8ba90524ecb3a6288054c20878857983f187ef410dd90cd4c62c4913b4b"
+    },
+    {
+      "path": "docs/qa/year3-english-topic-pages-batch1-20261110/supplemental-source-notes.json",
+      "sha256": "0d71dc6fa5b6074b13c89be8d778db32b3f49e93b8bdf5e44641e912289dd37e"
+    }
+  ],
+  "original_page_identities": [
+    {
+      "code": "AC9E3LA01",
+      "sha256": "846593ba971ba479127e56c33ac514b703d1db4ec7b4704a955c73200403625a"
+    },
+    {
+      "code": "AC9E3LA02",
+      "sha256": "df4ad86107463fbba36e43535860da8afc9bef6b27fa68a9a1b6f7be6af050e8"
+    },
+    {
+      "code": "AC9E3LA03",
+      "sha256": "73a4d7a6dbc6a5f89ebe8edffed7866f6e9fc8d29c23bb4aec79cb202703752b"
+    },
+    {
+      "code": "AC9E3LA04",
+      "sha256": "ab683d3cb79a087b35be2b01e3342356d5aa2c09a349ffaa0839dfcdedb58830"
+    },
+    {
+      "code": "AC9E3LA05",
+      "sha256": "a8bb69d2070477214dab1c3a99821b05471d0d48111d3cbaf022b857cee7e521"
+    },
+    {
+      "code": "AC9E3LA06",
+      "sha256": "13bbf759091a13f29ce8a157ba5fbb50992017a33046270883b4c186fae4fa81"
+    },
+    {
+      "code": "AC9E3LA07",
+      "sha256": "6873e426ad6df34317b2abb4021777b5c6fe0ab9c1f6f2c366d144cac8278d63"
+    },
+    {
+      "code": "AC9E3LA08",
+      "sha256": "9cd16d4e4b5cf1c7ee43ede0d4e4b22f5fd0351b1215ff0c1aec17c247de4ddd"
+    },
+    {
+      "code": "AC9E3LA09",
+      "sha256": "1b6fb3a69dbfc6e228cf20f82e0e64dcf87146306131f7bc488fac5545406feb"
+    },
+    {
+      "code": "AC9E3LA10",
+      "sha256": "a1d27bd73c31ceadfbeb5e66c5cb60c70eec7c4e5f78a9ee170c65c7268e1923"
+    }
+  ]
+}
