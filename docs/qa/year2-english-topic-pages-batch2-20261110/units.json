@@ -1,0 +1,688 @@
+[
+  {
+    "learningArea": "English",
+    "subject": "English",
+    "subjectSlug": "english",
+    "quizSubjectSlug": "english",
+    "level": "Year 2",
+    "levelLabel": "Year 2",
+    "yearNumber": 2,
+    "yearFolder": "year2",
+    "quizYearSegment": "year-2",
+    "code": "AC9E2LE01",
+    "title": "How characters and settings are connected in literature created by...",
+    "unitSlug": "ac9e2le01-how-characters-and-settings-are-connected-in-literature-created",
+    "sourceOrder": 70,
+    "strand": "Literature",
+    "subStrand": "Literature and contexts",
+    "description": "discuss how characters and settings are connected in literature created by First Nations Australian, and wide-ranging Australian and world authors and illustrators",
+    "levelDescription": "The English curriculum is built around the 3 interrelated strands of Language, Literature and Literacy . Teaching and learning programs should balance and integrate all 3 strands. Together, the 3 strands focus on developing students’ knowledge, understanding and skills in listening, reading, viewing, speaking, writing and creating. Learning in English is recursive and cumulative, building on concepts, skills and processes developed in earlier years. In Year 2, students learn that there are different modes of communication with distinct features that can be used when sharing ideas, thoughts and opinions with familiar audiences for different purposes. Students engage with a variety of texts for enjoyment. They listen to, read and view spoken, written and multimodal texts that may be imaginative, informative and persuasive. Texts may include oral texts, picture books, various types of print and digital stories, simple chapter books, rhyming verse, poetry, non-fiction, various types of information texts, short films and animations, multimodal texts, dramatic performances, and texts used by students as models for constructing their own work. As Year 2 students transition to become independent readers, they continue to develop their decoding and comprehension skills, using a range of texts. Informative texts present new content about topics of interest and topics being studied in other learning areas, and may include illustrations and diagrams that extend the text. Literary texts may include sequences of events that span several pages, unusual happenings within a framework of familiar experiences and may include images that extend meaning. These texts include language features such as varied sentence structures, some unfamiliar vocabulary, a significant number of high-frequency words, more complex words that need to be decoded using phonic and morphemic knowledge, and a range of punctuation conventions. The range of literary texts for Foundation to Year 10 comprises the oral narrative traditions and literature of First Nations Australians, and classic and contemporary literature from wide-ranging Australian and world authors, including texts from and about Asia. Year 2 students create texts whose purposes may be imaginative, informative and persuasive. Texts created may include recounts of stories and experiences, reports and explanations of learning area content, explanations of simple processes, and expressions of opinions about texts or experiences, including supporting reasons. These texts are created for an audience.",
+    "questionEligible": false,
+    "elaborations": [
+      {
+        "code": "AC9E2LE01_E1",
+        "number": "E1",
+        "text": "discussing the depiction of characters in particular settings in well-known fairytales from wide-ranging world authors; for example, children in forests, and royalty in castles and towers",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E2LE01_E2",
+        "number": "E2",
+        "text": "recognising recurring characters in particular settings in texts by First Nations Australian authors",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9E2LE01_E3",
+        "number": "E3",
+        "text": "exploring the way wide-ranging Australian authors and illustrators depict the Australian outback and the associated characters",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year2/english/ac9e2le01-how-characters-and-settings-are-connected-in-literature-created/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-2/english/ac9e2le01/worksheet/",
+    "teacherSlideUrl": "/worksheets/year2/english/teacher-slides/ac9e2le01-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9E2LE01",
+        "label": "Content description",
+        "text": "discuss how characters and settings are connected in literature created by First Nations Australian, and wide-ranging Australian and world authors and illustrators",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9E2LE01_E1",
+        "number": "E1",
+        "text": "discussing the depiction of characters in particular settings in well-known fairytales from wide-ranging world authors; for example, children in forests, and royalty in castles and towers",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E2LE01_E2",
+        "number": "E2",
+        "text": "recognising recurring characters in particular settings in texts by First Nations Australian authors",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9E2LE01_E3",
+        "number": "E3",
+        "text": "exploring the way wide-ranging Australian authors and illustrators depict the Australian outback and the associated characters",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "English",
+    "subject": "English",
+    "subjectSlug": "english",
+    "quizSubjectSlug": "english",
+    "level": "Year 2",
+    "levelLabel": "Year 2",
+    "yearNumber": 2,
+    "yearFolder": "year2",
+    "quizYearSegment": "year-2",
+    "code": "AC9E2LE02",
+    "title": "Features of literary texts, such as characters and settings, and...",
+    "unitSlug": "ac9e2le02-features-of-literary-texts-such-as-characters-and-settings-and",
+    "sourceOrder": 71,
+    "strand": "Literature",
+    "subStrand": "Engaging with and responding to literature",
+    "description": "identify features of literary texts, such as characters and settings, and give reasons for personal preferences",
+    "levelDescription": "The English curriculum is built around the 3 interrelated strands of Language, Literature and Literacy . Teaching and learning programs should balance and integrate all 3 strands. Together, the 3 strands focus on developing students’ knowledge, understanding and skills in listening, reading, viewing, speaking, writing and creating. Learning in English is recursive and cumulative, building on concepts, skills and processes developed in earlier years. In Year 2, students learn that there are different modes of communication with distinct features that can be used when sharing ideas, thoughts and opinions with familiar audiences for different purposes. Students engage with a variety of texts for enjoyment. They listen to, read and view spoken, written and multimodal texts that may be imaginative, informative and persuasive. Texts may include oral texts, picture books, various types of print and digital stories, simple chapter books, rhyming verse, poetry, non-fiction, various types of information texts, short films and animations, multimodal texts, dramatic performances, and texts used by students as models for constructing their own work. As Year 2 students transition to become independent readers, they continue to develop their decoding and comprehension skills, using a range of texts. Informative texts present new content about topics of interest and topics being studied in other learning areas, and may include illustrations and diagrams that extend the text. Literary texts may include sequences of events that span several pages, unusual happenings within a framework of familiar experiences and may include images that extend meaning. These texts include language features such as varied sentence structures, some unfamiliar vocabulary, a significant number of high-frequency words, more complex words that need to be decoded using phonic and morphemic knowledge, and a range of punctuation conventions. The range of literary texts for Foundation to Year 10 comprises the oral narrative traditions and literature of First Nations Australians, and classic and contemporary literature from wide-ranging Australian and world authors, including texts from and about Asia. Year 2 students create texts whose purposes may be imaginative, informative and persuasive. Texts created may include recounts of stories and experiences, reports and explanations of learning area content, explanations of simple processes, and expressions of opinions about texts or experiences, including supporting reasons. These texts are created for an audience.",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9E2LE02_E1",
+        "number": "E1",
+        "text": "discussing preferences for stories set in familiar or unfamiliar worlds, or about characters whose lives are like or unlike their own",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E2LE02_E2",
+        "number": "E2",
+        "text": "discussing their feelings about the positive and negative behaviours of non-human characters, such as animals",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year2/english/ac9e2le02-features-of-literary-texts-such-as-characters-and-settings-and/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-2/english/ac9e2le02/worksheet/",
+    "teacherSlideUrl": "/worksheets/year2/english/teacher-slides/ac9e2le02-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9E2LE02",
+        "label": "Content description",
+        "text": "identify features of literary texts, such as characters and settings, and give reasons for personal preferences",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E2LE02_E1",
+        "number": "E1",
+        "text": "discussing preferences for stories set in familiar or unfamiliar worlds, or about characters whose lives are like or unlike their own",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E2LE02_E2",
+        "number": "E2",
+        "text": "discussing their feelings about the positive and negative behaviours of non-human characters, such as animals",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "English",
+    "subject": "English",
+    "subjectSlug": "english",
+    "quizSubjectSlug": "english",
+    "level": "Year 2",
+    "levelLabel": "Year 2",
+    "yearNumber": 2,
+    "yearFolder": "year2",
+    "quizYearSegment": "year-2",
+    "code": "AC9E2LE03",
+    "title": "The characters and settings of a range of texts and...",
+    "unitSlug": "ac9e2le03-the-characters-and-settings-of-a-range-of-texts-and",
+    "sourceOrder": 72,
+    "strand": "Literature",
+    "subStrand": "Examining literature",
+    "description": "discuss the characters and settings of a range of texts and identify how language is used to present these features in different ways",
+    "levelDescription": "The English curriculum is built around the 3 interrelated strands of Language, Literature and Literacy . Teaching and learning programs should balance and integrate all 3 strands. Together, the 3 strands focus on developing students’ knowledge, understanding and skills in listening, reading, viewing, speaking, writing and creating. Learning in English is recursive and cumulative, building on concepts, skills and processes developed in earlier years. In Year 2, students learn that there are different modes of communication with distinct features that can be used when sharing ideas, thoughts and opinions with familiar audiences for different purposes. Students engage with a variety of texts for enjoyment. They listen to, read and view spoken, written and multimodal texts that may be imaginative, informative and persuasive. Texts may include oral texts, picture books, various types of print and digital stories, simple chapter books, rhyming verse, poetry, non-fiction, various types of information texts, short films and animations, multimodal texts, dramatic performances, and texts used by students as models for constructing their own work. As Year 2 students transition to become independent readers, they continue to develop their decoding and comprehension skills, using a range of texts. Informative texts present new content about topics of interest and topics being studied in other learning areas, and may include illustrations and diagrams that extend the text. Literary texts may include sequences of events that span several pages, unusual happenings within a framework of familiar experiences and may include images that extend meaning. These texts include language features such as varied sentence structures, some unfamiliar vocabulary, a significant number of high-frequency words, more complex words that need to be decoded using phonic and morphemic knowledge, and a range of punctuation conventions. The range of literary texts for Foundation to Year 10 comprises the oral narrative traditions and literature of First Nations Australians, and classic and contemporary literature from wide-ranging Australian and world authors, including texts from and about Asia. Year 2 students create texts whose purposes may be imaginative, informative and persuasive. Texts created may include recounts of stories and experiences, reports and explanations of learning area content, explanations of simple processes, and expressions of opinions about texts or experiences, including supporting reasons. These texts are created for an audience.",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9E2LE03_E1",
+        "number": "E1",
+        "text": "comparing how similar characters or settings are described in texts from different contexts; for example, how the seasons are described",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E2LE03_E2",
+        "number": "E2",
+        "text": "identifying and comparing verb groups used to convey actions, emotions and dialogue in a range of literary texts",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E2LE03_E3",
+        "number": "E3",
+        "text": "identifying the language used to describe the landscape in First Nations Australians’ stories",
+        "questionEligible": false
+      }
+    ],
+    "url": "/year2/english/ac9e2le03-the-characters-and-settings-of-a-range-of-texts-and/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-2/english/ac9e2le03/worksheet/",
+    "teacherSlideUrl": "/worksheets/year2/english/teacher-slides/ac9e2le03-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9E2LE03",
+        "label": "Content description",
+        "text": "discuss the characters and settings of a range of texts and identify how language is used to present these features in different ways",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E2LE03_E1",
+        "number": "E1",
+        "text": "comparing how similar characters or settings are described in texts from different contexts; for example, how the seasons are described",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E2LE03_E2",
+        "number": "E2",
+        "text": "identifying and comparing verb groups used to convey actions, emotions and dialogue in a range of literary texts",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E2LE03_E3",
+        "number": "E3",
+        "text": "identifying the language used to describe the landscape in First Nations Australians’ stories",
+        "questionEligible": false
+      }
+    ]
+  },
+  {
+    "learningArea": "English",
+    "subject": "English",
+    "subjectSlug": "english",
+    "quizSubjectSlug": "english",
+    "level": "Year 2",
+    "levelLabel": "Year 2",
+    "yearNumber": 2,
+    "yearFolder": "year2",
+    "quizYearSegment": "year-2",
+    "code": "AC9E2LE04",
+    "title": "Identify, reproduce and experiment with rhythmic sound and word patterns...",
+    "unitSlug": "ac9e2le04-identify-reproduce-and-experiment-with-rhythmic-sound-and-word",
+    "sourceOrder": 73,
+    "strand": "Literature",
+    "subStrand": "Examining literature",
+    "description": "identify, reproduce and experiment with rhythmic sound and word patterns in poems, chants, rhymes or songs",
+    "levelDescription": "The English curriculum is built around the 3 interrelated strands of Language, Literature and Literacy . Teaching and learning programs should balance and integrate all 3 strands. Together, the 3 strands focus on developing students’ knowledge, understanding and skills in listening, reading, viewing, speaking, writing and creating. Learning in English is recursive and cumulative, building on concepts, skills and processes developed in earlier years. In Year 2, students learn that there are different modes of communication with distinct features that can be used when sharing ideas, thoughts and opinions with familiar audiences for different purposes. Students engage with a variety of texts for enjoyment. They listen to, read and view spoken, written and multimodal texts that may be imaginative, informative and persuasive. Texts may include oral texts, picture books, various types of print and digital stories, simple chapter books, rhyming verse, poetry, non-fiction, various types of information texts, short films and animations, multimodal texts, dramatic performances, and texts used by students as models for constructing their own work. As Year 2 students transition to become independent readers, they continue to develop their decoding and comprehension skills, using a range of texts. Informative texts present new content about topics of interest and topics being studied in other learning areas, and may include illustrations and diagrams that extend the text. Literary texts may include sequences of events that span several pages, unusual happenings within a framework of familiar experiences and may include images that extend meaning. These texts include language features such as varied sentence structures, some unfamiliar vocabulary, a significant number of high-frequency words, more complex words that need to be decoded using phonic and morphemic knowledge, and a range of punctuation conventions. The range of literary texts for Foundation to Year 10 comprises the oral narrative traditions and literature of First Nations Australians, and classic and contemporary literature from wide-ranging Australian and world authors, including texts from and about Asia. Year 2 students create texts whose purposes may be imaginative, informative and persuasive. Texts created may include recounts of stories and experiences, reports and explanations of learning area content, explanations of simple processes, and expressions of opinions about texts or experiences, including supporting reasons. These texts are created for an audience.",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9E2LE04_E1",
+        "number": "E1",
+        "text": "exploring poems, chants, rhymes or songs from different home languages of class members",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year2/english/ac9e2le04-identify-reproduce-and-experiment-with-rhythmic-sound-and-word/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-2/english/ac9e2le04/worksheet/",
+    "teacherSlideUrl": "/worksheets/year2/english/teacher-slides/ac9e2le04-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9E2LE04",
+        "label": "Content description",
+        "text": "identify, reproduce and experiment with rhythmic sound and word patterns in poems, chants, rhymes or songs",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E2LE04_E1",
+        "number": "E1",
+        "text": "exploring poems, chants, rhymes or songs from different home languages of class members",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "English",
+    "subject": "English",
+    "subjectSlug": "english",
+    "quizSubjectSlug": "english",
+    "level": "Year 2",
+    "levelLabel": "Year 2",
+    "yearNumber": 2,
+    "yearFolder": "year2",
+    "quizYearSegment": "year-2",
+    "code": "AC9E2LE05",
+    "title": "And edit literary texts by adapting structures and language features...",
+    "unitSlug": "ac9e2le05-and-edit-literary-texts-by-adapting-structures-and-language",
+    "sourceOrder": 74,
+    "strand": "Literature",
+    "subStrand": "Creating literature",
+    "description": "create and edit literary texts by adapting structures and language features of familiar literary texts through drawing, writing, performance and digital tools",
+    "levelDescription": "The English curriculum is built around the 3 interrelated strands of Language, Literature and Literacy . Teaching and learning programs should balance and integrate all 3 strands. Together, the 3 strands focus on developing students’ knowledge, understanding and skills in listening, reading, viewing, speaking, writing and creating. Learning in English is recursive and cumulative, building on concepts, skills and processes developed in earlier years. In Year 2, students learn that there are different modes of communication with distinct features that can be used when sharing ideas, thoughts and opinions with familiar audiences for different purposes. Students engage with a variety of texts for enjoyment. They listen to, read and view spoken, written and multimodal texts that may be imaginative, informative and persuasive. Texts may include oral texts, picture books, various types of print and digital stories, simple chapter books, rhyming verse, poetry, non-fiction, various types of information texts, short films and animations, multimodal texts, dramatic performances, and texts used by students as models for constructing their own work. As Year 2 students transition to become independent readers, they continue to develop their decoding and comprehension skills, using a range of texts. Informative texts present new content about topics of interest and topics being studied in other learning areas, and may include illustrations and diagrams that extend the text. Literary texts may include sequences of events that span several pages, unusual happenings within a framework of familiar experiences and may include images that extend meaning. These texts include language features such as varied sentence structures, some unfamiliar vocabulary, a significant number of high-frequency words, more complex words that need to be decoded using phonic and morphemic knowledge, and a range of punctuation conventions. The range of literary texts for Foundation to Year 10 comprises the oral narrative traditions and literature of First Nations Australians, and classic and contemporary literature from wide-ranging Australian and world authors, including texts from and about Asia. Year 2 students create texts whose purposes may be imaginative, informative and persuasive. Texts created may include recounts of stories and experiences, reports and explanations of learning area content, explanations of simple processes, and expressions of opinions about texts or experiences, including supporting reasons. These texts are created for an audience.",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9E2LE05_E1",
+        "number": "E1",
+        "text": "inventing some speech, dialogue or behaviour for a favourite character, which may include the use of video and audio tools, for an alternative event or outcome in the original text",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E2LE05_E2",
+        "number": "E2",
+        "text": "reviewing and developing sentences; for example, adding prepositional phrases such as “with a long tail” to improve descriptions",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year2/english/ac9e2le05-and-edit-literary-texts-by-adapting-structures-and-language/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-2/english/ac9e2le05/worksheet/",
+    "teacherSlideUrl": "/worksheets/year2/english/teacher-slides/ac9e2le05-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9E2LE05",
+        "label": "Content description",
+        "text": "create and edit literary texts by adapting structures and language features of familiar literary texts through drawing, writing, performance and digital tools",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E2LE05_E1",
+        "number": "E1",
+        "text": "inventing some speech, dialogue or behaviour for a favourite character, which may include the use of video and audio tools, for an alternative event or outcome in the original text",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E2LE05_E2",
+        "number": "E2",
+        "text": "reviewing and developing sentences; for example, adding prepositional phrases such as “with a long tail” to improve descriptions",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "English",
+    "subject": "English",
+    "subjectSlug": "english",
+    "quizSubjectSlug": "english",
+    "level": "Year 2",
+    "levelLabel": "Year 2",
+    "yearNumber": 2,
+    "yearFolder": "year2",
+    "quizYearSegment": "year-2",
+    "code": "AC9E2LY01",
+    "title": "How similar topics and information are presented in different types...",
+    "unitSlug": "ac9e2ly01-how-similar-topics-and-information-are-presented-in-different",
+    "sourceOrder": 75,
+    "strand": "Literacy",
+    "subStrand": "Texts in context",
+    "description": "identify how similar topics and information are presented in different types of texts",
+    "levelDescription": "The English curriculum is built around the 3 interrelated strands of Language, Literature and Literacy . Teaching and learning programs should balance and integrate all 3 strands. Together, the 3 strands focus on developing students’ knowledge, understanding and skills in listening, reading, viewing, speaking, writing and creating. Learning in English is recursive and cumulative, building on concepts, skills and processes developed in earlier years. In Year 2, students learn that there are different modes of communication with distinct features that can be used when sharing ideas, thoughts and opinions with familiar audiences for different purposes. Students engage with a variety of texts for enjoyment. They listen to, read and view spoken, written and multimodal texts that may be imaginative, informative and persuasive. Texts may include oral texts, picture books, various types of print and digital stories, simple chapter books, rhyming verse, poetry, non-fiction, various types of information texts, short films and animations, multimodal texts, dramatic performances, and texts used by students as models for constructing their own work. As Year 2 students transition to become independent readers, they continue to develop their decoding and comprehension skills, using a range of texts. Informative texts present new content about topics of interest and topics being studied in other learning areas, and may include illustrations and diagrams that extend the text. Literary texts may include sequences of events that span several pages, unusual happenings within a framework of familiar experiences and may include images that extend meaning. These texts include language features such as varied sentence structures, some unfamiliar vocabulary, a significant number of high-frequency words, more complex words that need to be decoded using phonic and morphemic knowledge, and a range of punctuation conventions. The range of literary texts for Foundation to Year 10 comprises the oral narrative traditions and literature of First Nations Australians, and classic and contemporary literature from wide-ranging Australian and world authors, including texts from and about Asia. Year 2 students create texts whose purposes may be imaginative, informative and persuasive. Texts created may include recounts of stories and experiences, reports and explanations of learning area content, explanations of simple processes, and expressions of opinions about texts or experiences, including supporting reasons. These texts are created for an audience.",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9E2LY01_E1",
+        "number": "E1",
+        "text": "reading a poem, narrative and informative text about lifecycles and discussing what is learnt",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E2LY01_E2",
+        "number": "E2",
+        "text": "exploring recipes presented on food packets, in recipe books, in short video clips and in a digital form, noting their shared purpose",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year2/english/ac9e2ly01-how-similar-topics-and-information-are-presented-in-different/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-2/english/ac9e2ly01/worksheet/",
+    "teacherSlideUrl": "/worksheets/year2/english/teacher-slides/ac9e2ly01-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9E2LY01",
+        "label": "Content description",
+        "text": "identify how similar topics and information are presented in different types of texts",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E2LY01_E1",
+        "number": "E1",
+        "text": "reading a poem, narrative and informative text about lifecycles and discussing what is learnt",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E2LY01_E2",
+        "number": "E2",
+        "text": "exploring recipes presented on food packets, in recipe books, in short video clips and in a digital form, noting their shared purpose",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "English",
+    "subject": "English",
+    "subjectSlug": "english",
+    "quizSubjectSlug": "english",
+    "level": "Year 2",
+    "levelLabel": "Year 2",
+    "yearNumber": 2,
+    "yearFolder": "year2",
+    "quizYearSegment": "year-2",
+    "code": "AC9E2LY02",
+    "title": "Interaction skills when engaging with topics, actively listening to others...",
+    "unitSlug": "ac9e2ly02-interaction-skills-when-engaging-with-topics-actively-listening",
+    "sourceOrder": 76,
+    "strand": "Literacy",
+    "subStrand": "Interacting with others",
+    "description": "use interaction skills when engaging with topics, actively listening to others, receiving instructions and extending own ideas, speaking appropriately, expressing and responding to opinions, making statements, and giving instructions",
+    "levelDescription": "The English curriculum is built around the 3 interrelated strands of Language, Literature and Literacy . Teaching and learning programs should balance and integrate all 3 strands. Together, the 3 strands focus on developing students’ knowledge, understanding and skills in listening, reading, viewing, speaking, writing and creating. Learning in English is recursive and cumulative, building on concepts, skills and processes developed in earlier years. In Year 2, students learn that there are different modes of communication with distinct features that can be used when sharing ideas, thoughts and opinions with familiar audiences for different purposes. Students engage with a variety of texts for enjoyment. They listen to, read and view spoken, written and multimodal texts that may be imaginative, informative and persuasive. Texts may include oral texts, picture books, various types of print and digital stories, simple chapter books, rhyming verse, poetry, non-fiction, various types of information texts, short films and animations, multimodal texts, dramatic performances, and texts used by students as models for constructing their own work. As Year 2 students transition to become independent readers, they continue to develop their decoding and comprehension skills, using a range of texts. Informative texts present new content about topics of interest and topics being studied in other learning areas, and may include illustrations and diagrams that extend the text. Literary texts may include sequences of events that span several pages, unusual happenings within a framework of familiar experiences and may include images that extend meaning. These texts include language features such as varied sentence structures, some unfamiliar vocabulary, a significant number of high-frequency words, more complex words that need to be decoded using phonic and morphemic knowledge, and a range of punctuation conventions. The range of literary texts for Foundation to Year 10 comprises the oral narrative traditions and literature of First Nations Australians, and classic and contemporary literature from wide-ranging Australian and world authors, including texts from and about Asia. Year 2 students create texts whose purposes may be imaginative, informative and persuasive. Texts created may include recounts of stories and experiences, reports and explanations of learning area content, explanations of simple processes, and expressions of opinions about texts or experiences, including supporting reasons. These texts are created for an audience.",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9E2LY02_E1",
+        "number": "E1",
+        "text": "exploring ways to comment on what others say, including using sentence starters such as “I like the way you …”, “I agree that …”, “I have a different thought …”, “I’d like to say something different …”",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E2LY02_E2",
+        "number": "E2",
+        "text": "demonstrating appropriate listening behaviours, responding to and paraphrasing a partner’s contribution to a discussion; for example, in think pair share activities",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E2LY02_E3",
+        "number": "E3",
+        "text": "asking relevant questions and making connections with personal experiences and the contributions of others",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E2LY02_E4",
+        "number": "E4",
+        "text": "understanding how to disagree or respectfully offer an alternative",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year2/english/ac9e2ly02-interaction-skills-when-engaging-with-topics-actively-listening/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-2/english/ac9e2ly02/worksheet/",
+    "teacherSlideUrl": "/worksheets/year2/english/teacher-slides/ac9e2ly02-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9E2LY02",
+        "label": "Content description",
+        "text": "use interaction skills when engaging with topics, actively listening to others, receiving instructions and extending own ideas, speaking appropriately, expressing and responding to opinions, making statements, and giving instructions",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E2LY02_E1",
+        "number": "E1",
+        "text": "exploring ways to comment on what others say, including using sentence starters such as “I like the way you …”, “I agree that …”, “I have a different thought …”, “I’d like to say something different …”",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E2LY02_E2",
+        "number": "E2",
+        "text": "demonstrating appropriate listening behaviours, responding to and paraphrasing a partner’s contribution to a discussion; for example, in think pair share activities",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E2LY02_E3",
+        "number": "E3",
+        "text": "asking relevant questions and making connections with personal experiences and the contributions of others",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E2LY02_E4",
+        "number": "E4",
+        "text": "understanding how to disagree or respectfully offer an alternative",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "English",
+    "subject": "English",
+    "subjectSlug": "english",
+    "quizSubjectSlug": "english",
+    "level": "Year 2",
+    "levelLabel": "Year 2",
+    "yearNumber": 2,
+    "yearFolder": "year2",
+    "quizYearSegment": "year-2",
+    "code": "AC9E2LY03",
+    "title": "The purpose and audience of imaginative, informative and persuasive texts",
+    "unitSlug": "ac9e2ly03-the-purpose-and-audience-of-imaginative-informative-and",
+    "sourceOrder": 77,
+    "strand": "Literacy",
+    "subStrand": "Analysing, interpreting and evaluating",
+    "description": "identify the purpose and audience of imaginative, informative and persuasive texts",
+    "levelDescription": "The English curriculum is built around the 3 interrelated strands of Language, Literature and Literacy . Teaching and learning programs should balance and integrate all 3 strands. Together, the 3 strands focus on developing students’ knowledge, understanding and skills in listening, reading, viewing, speaking, writing and creating. Learning in English is recursive and cumulative, building on concepts, skills and processes developed in earlier years. In Year 2, students learn that there are different modes of communication with distinct features that can be used when sharing ideas, thoughts and opinions with familiar audiences for different purposes. Students engage with a variety of texts for enjoyment. They listen to, read and view spoken, written and multimodal texts that may be imaginative, informative and persuasive. Texts may include oral texts, picture books, various types of print and digital stories, simple chapter books, rhyming verse, poetry, non-fiction, various types of information texts, short films and animations, multimodal texts, dramatic performances, and texts used by students as models for constructing their own work. As Year 2 students transition to become independent readers, they continue to develop their decoding and comprehension skills, using a range of texts. Informative texts present new content about topics of interest and topics being studied in other learning areas, and may include illustrations and diagrams that extend the text. Literary texts may include sequences of events that span several pages, unusual happenings within a framework of familiar experiences and may include images that extend meaning. These texts include language features such as varied sentence structures, some unfamiliar vocabulary, a significant number of high-frequency words, more complex words that need to be decoded using phonic and morphemic knowledge, and a range of punctuation conventions. The range of literary texts for Foundation to Year 10 comprises the oral narrative traditions and literature of First Nations Australians, and classic and contemporary literature from wide-ranging Australian and world authors, including texts from and about Asia. Year 2 students create texts whose purposes may be imaginative, informative and persuasive. Texts created may include recounts of stories and experiences, reports and explanations of learning area content, explanations of simple processes, and expressions of opinions about texts or experiences, including supporting reasons. These texts are created for an audience.",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9E2LY03_E1",
+        "number": "E1",
+        "text": "identifying the purpose of texts written by First Nations Australian authors",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9E2LY03_E2",
+        "number": "E2",
+        "text": "identifying the audience of advertisements and signs",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year2/english/ac9e2ly03-the-purpose-and-audience-of-imaginative-informative-and/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-2/english/ac9e2ly03/worksheet/",
+    "teacherSlideUrl": "/worksheets/year2/english/teacher-slides/ac9e2ly03-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9E2LY03",
+        "label": "Content description",
+        "text": "identify the purpose and audience of imaginative, informative and persuasive texts",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E2LY03_E1",
+        "number": "E1",
+        "text": "identifying the purpose of texts written by First Nations Australian authors",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9E2LY03_E2",
+        "number": "E2",
+        "text": "identifying the audience of advertisements and signs",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "English",
+    "subject": "English",
+    "subjectSlug": "english",
+    "quizSubjectSlug": "english",
+    "level": "Year 2",
+    "levelLabel": "Year 2",
+    "yearNumber": 2,
+    "yearFolder": "year2",
+    "quizYearSegment": "year-2",
+    "code": "AC9E2LY04",
+    "title": "Texts with phrasing and fluency, using phonic and word knowledge...",
+    "unitSlug": "ac9e2ly04-texts-with-phrasing-and-fluency-using-phonic-and-word-knowledge",
+    "sourceOrder": 78,
+    "strand": "Literacy",
+    "subStrand": "Analysing, interpreting and evaluating",
+    "description": "read texts with phrasing and fluency, using phonic and word knowledge, and monitoring meaning by re-reading and self-correcting",
+    "levelDescription": "The English curriculum is built around the 3 interrelated strands of Language, Literature and Literacy . Teaching and learning programs should balance and integrate all 3 strands. Together, the 3 strands focus on developing students’ knowledge, understanding and skills in listening, reading, viewing, speaking, writing and creating. Learning in English is recursive and cumulative, building on concepts, skills and processes developed in earlier years. In Year 2, students learn that there are different modes of communication with distinct features that can be used when sharing ideas, thoughts and opinions with familiar audiences for different purposes. Students engage with a variety of texts for enjoyment. They listen to, read and view spoken, written and multimodal texts that may be imaginative, informative and persuasive. Texts may include oral texts, picture books, various types of print and digital stories, simple chapter books, rhyming verse, poetry, non-fiction, various types of information texts, short films and animations, multimodal texts, dramatic performances, and texts used by students as models for constructing their own work. As Year 2 students transition to become independent readers, they continue to develop their decoding and comprehension skills, using a range of texts. Informative texts present new content about topics of interest and topics being studied in other learning areas, and may include illustrations and diagrams that extend the text. Literary texts may include sequences of events that span several pages, unusual happenings within a framework of familiar experiences and may include images that extend meaning. These texts include language features such as varied sentence structures, some unfamiliar vocabulary, a significant number of high-frequency words, more complex words that need to be decoded using phonic and morphemic knowledge, and a range of punctuation conventions. The range of literary texts for Foundation to Year 10 comprises the oral narrative traditions and literature of First Nations Australians, and classic and contemporary literature from wide-ranging Australian and world authors, including texts from and about Asia. Year 2 students create texts whose purposes may be imaginative, informative and persuasive. Texts created may include recounts of stories and experiences, reports and explanations of learning area content, explanations of simple processes, and expressions of opinions about texts or experiences, including supporting reasons. These texts are created for an audience.",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9E2LY04_E1",
+        "number": "E1",
+        "text": "using phonic (sound-letter) and morphemic knowledge, and knowledge of high-frequency words when decoding text",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E2LY04_E2",
+        "number": "E2",
+        "text": "monitoring own reading, self-correcting or reading back, re-reading when meaning does not make sense",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year2/english/ac9e2ly04-texts-with-phrasing-and-fluency-using-phonic-and-word-knowledge/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-2/english/ac9e2ly04/worksheet/",
+    "teacherSlideUrl": "/worksheets/year2/english/teacher-slides/ac9e2ly04-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9E2LY04",
+        "label": "Content description",
+        "text": "read texts with phrasing and fluency, using phonic and word knowledge, and monitoring meaning by re-reading and self-correcting",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E2LY04_E1",
+        "number": "E1",
+        "text": "using phonic (sound-letter) and morphemic knowledge, and knowledge of high-frequency words when decoding text",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E2LY04_E2",
+        "number": "E2",
+        "text": "monitoring own reading, self-correcting or reading back, re-reading when meaning does not make sense",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "English",
+    "subject": "English",
+    "subjectSlug": "english",
+    "quizSubjectSlug": "english",
+    "level": "Year 2",
+    "levelLabel": "Year 2",
+    "yearNumber": 2,
+    "yearFolder": "year2",
+    "quizYearSegment": "year-2",
+    "code": "AC9E2LY05",
+    "title": "Comprehension strategies such as visualising, predicting, connecting, summarising, monitoring and...",
+    "unitSlug": "ac9e2ly05-comprehension-strategies-such-as-visualising-predicting",
+    "sourceOrder": 79,
+    "strand": "Literacy",
+    "subStrand": "Analysing, interpreting and evaluating",
+    "description": "use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring and questioning to build literal and inferred meaning",
+    "levelDescription": "The English curriculum is built around the 3 interrelated strands of Language, Literature and Literacy . Teaching and learning programs should balance and integrate all 3 strands. Together, the 3 strands focus on developing students’ knowledge, understanding and skills in listening, reading, viewing, speaking, writing and creating. Learning in English is recursive and cumulative, building on concepts, skills and processes developed in earlier years. In Year 2, students learn that there are different modes of communication with distinct features that can be used when sharing ideas, thoughts and opinions with familiar audiences for different purposes. Students engage with a variety of texts for enjoyment. They listen to, read and view spoken, written and multimodal texts that may be imaginative, informative and persuasive. Texts may include oral texts, picture books, various types of print and digital stories, simple chapter books, rhyming verse, poetry, non-fiction, various types of information texts, short films and animations, multimodal texts, dramatic performances, and texts used by students as models for constructing their own work. As Year 2 students transition to become independent readers, they continue to develop their decoding and comprehension skills, using a range of texts. Informative texts present new content about topics of interest and topics being studied in other learning areas, and may include illustrations and diagrams that extend the text. Literary texts may include sequences of events that span several pages, unusual happenings within a framework of familiar experiences and may include images that extend meaning. These texts include language features such as varied sentence structures, some unfamiliar vocabulary, a significant number of high-frequency words, more complex words that need to be decoded using phonic and morphemic knowledge, and a range of punctuation conventions. The range of literary texts for Foundation to Year 10 comprises the oral narrative traditions and literature of First Nations Australians, and classic and contemporary literature from wide-ranging Australian and world authors, including texts from and about Asia. Year 2 students create texts whose purposes may be imaginative, informative and persuasive. Texts created may include recounts of stories and experiences, reports and explanations of learning area content, explanations of simple processes, and expressions of opinions about texts or experiences, including supporting reasons. These texts are created for an audience.",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9E2LY05_E1",
+        "number": "E1",
+        "text": "listening for specific information and providing key facts or points from an informative or persuasive text",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E2LY05_E2",
+        "number": "E2",
+        "text": "listening and responding to detailed instructions",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E2LY05_E3",
+        "number": "E3",
+        "text": "integrating information from print, images and prior knowledge to make supportable inferences",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E2LY05_E4",
+        "number": "E4",
+        "text": "identifying the main idea of a text",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E2LY05_E5",
+        "number": "E5",
+        "text": "predicting vocabulary that is likely to be in a text, based on the topic and the purpose of the text; for example, predicting that “station” and “arrive” would be in a text recounting a train journey",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E2LY05_E6",
+        "number": "E6",
+        "text": "using prior knowledge to make and confirm predictions when reading a text",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E2LY05_E7",
+        "number": "E7",
+        "text": "using graphic organisers to represent the connections between characters, order of events or sequence of information",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year2/english/ac9e2ly05-comprehension-strategies-such-as-visualising-predicting/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-2/english/ac9e2ly05/worksheet/",
+    "teacherSlideUrl": "/worksheets/year2/english/teacher-slides/ac9e2ly05-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9E2LY05",
+        "label": "Content description",
+        "text": "use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring and questioning to build literal and inferred meaning",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E2LY05_E1",
+        "number": "E1",
+        "text": "listening for specific information and providing key facts or points from an informative or persuasive text",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E2LY05_E2",
+        "number": "E2",
+        "text": "listening and responding to detailed instructions",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E2LY05_E3",
+        "number": "E3",
+        "text": "integrating information from print, images and prior knowledge to make supportable inferences",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E2LY05_E4",
+        "number": "E4",
+        "text": "identifying the main idea of a text",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E2LY05_E5",
+        "number": "E5",
+        "text": "predicting vocabulary that is likely to be in a text, based on the topic and the purpose of the text; for example, predicting that “station” and “arrive” would be in a text recounting a train journey",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E2LY05_E6",
+        "number": "E6",
+        "text": "using prior knowledge to make and confirm predictions when reading a text",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E2LY05_E7",
+        "number": "E7",
+        "text": "using graphic organisers to represent the connections between characters, order of events or sequence of information",
+        "questionEligible": true
+      }
+    ]
+  }
+]
