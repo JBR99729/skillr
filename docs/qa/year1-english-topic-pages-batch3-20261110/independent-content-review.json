@@ -1,0 +1,688 @@
+{
+  "status": "PASS — independent source/content review complete",
+  "date": "2026-11-10",
+  "reviewer": "Independent research/content reviewer; no teaching-page authorship",
+  "scope": "All ten public static unscored Topic Guides AC9E1LY06–LY15. All prompts/answers/explanations/activities, retained lessons, actual supplied stimuli/models and asset bytes.",
+  "git_checkpoint_at_review": "8086051294b8aa41105216d7731f6dcad4b042cb",
+  "baseline": "fa6e0f69c11258f7981061e5e2dc0325f216b7fd",
+  "identity_authority": "The exact reviewed page/asset SHA256 values below are authoritative even if evidence-only commits follow.",
+  "authored_scalar_fields": 440,
+  "teaching_strings_excluding_code_ids": 430,
+  "retained_sections": 67,
+  "native_disclosures": 247,
+  "retained_inline_svg_models": 13,
+  "native_figures": 23,
+  "external_asset_files": 14,
+  "source_checks": "Independently executed scripts/qa_year1_english_topic_pages_batch3.py against baseline: PASS. All 430 authored teaching strings independently resolved in actual page text. Exact metadata, 67 baseline-plus-recorded-repair teaching sections, original inline SVG geometry, routes, available resource links, app return/access metadata checked by the executed scoped checker; no app-bank certification.",
+  "semantic_review": {
+    "all_codes": "Read all 440 scalar fields and all 67 final retained sections plus ten earlier worked models. Checked each supplied task and answer independently: givens, answer fit, permissible alternatives, sound order/count, common pattern and standard spelling, sentence context, Year 1 boundaries, accessible observation and wording. No remaining content blocker.",
+    "LY06": "Report facts supplied; opinions accept supported alternatives; recount order explicit; learner-created drawings and digital images/captions actually required; edits justified. Rabbit fur/ears image supports supplied claims, no hidden identity inferred.",
+    "LY07": "Topic/opening/middle/conclusion and useful vocabulary match complete records. Clap-game rules support recommendation. Gesture captions admit contextual meanings; volume/pace require actual delivery without gaze/accent/confidence scores.",
+    "LY08": "Actual school-taught unjoined handwriting, both cases and word-gap evidence separated from typing/spelling. Functional grip and classroom models respect variation; stroke/line examples independently inspected as pixels.",
+    "LY09": "All phoneme counts/sequences checked: shop/fish three; stop/flag/swim/nest/lamp/frog/best/clap four; stretch stamp five is permitted here. Clusters retain each consonant and digraphs differ. No four-sound cap imported from LY10.",
+    "LY10": "All add/replace/delete examples solved and positions checked, including internal sip→slip, ram→ramp, sand minus /n/→sad, clap minus /k/→lap versus minus /l/→cap. All one syllable, at most four phonemes including smile despite five letters. Familiar lap/cap replaces uncommon sop; printed givens explicitly adult-only during oral checks.",
+    "LY11": "Short/common long vowels, digraph/blend distinction and one/two-syllable reading/spelling valid. Sorting axes now explicitly separate/overlap. Hidden spelling versus visible independent decoding distinguished.",
+    "LY12": "Actual given comparisons implement both elaborations: same letter/different sounds and same /s/ with s/c. Vowel sounds rather than letters control syllable counts; rain one, raincoat two, robot two, cake one. The optional syllable theory answer is bounded to actual taught Year 1 words and does not overreach to all linguistic theory.",
+    "LY13": "Standard rabbit bb explicitly taught rather than inferred from syllables. Correct picnic final c and chicken ck rely on taught/common patterns; independent dictation hides model. All word forms and two-syllable component orders checked.",
+    "LY14": "Complete familiar word mapping, accurate context reading, supported retrieval/retention distinction and hidden models coherent. Two prior ambiguous tasks now accept other familiar words or target the unique o spelling in some. Final heading says spelling noticing, not an unsupported memory claim.",
+    "LY15": "Meaningful bases distinguished from rhyme; noun/verb s, ed and ing checked in full sentences. am playing now versus was playing yesterday prevents universal ing=now. Compounds distinguished from grammatical endings; spelling changes require explicit teaching."
+  },
+  "repairs_rechecked": "All recorded retained repairs reviewed, including the baseline flags. Final LY14 heading and LY10 familiar-word replacement were rechecked in actual HTML/JSON. LY15 metadata-only earlier-model takeaway deletion rechecked without changing actual worked question/answer or SVG.",
+  "optional_backlog": [
+    {
+      "code": "AC9E1LY13",
+      "note": "The retained rabbit question phrasing remains awkward; its explicit standard-spelling answer now prevents the old doubling inference. Optional wording polish, not a correctness blocker."
+    }
+  ],
+  "asset_pixel_review": "Opened all seven actual raster originals individually: paintbrush, fan, three gestures, rabbit and matching LY06 paid cover. Rendered and opened all seven exact SVG asset files. Also rendered/opened all thirteen retained inline SVGs individually for labels, counts, relationships and glyph/geometry. All pass in that local semantic-pixel scope.",
+  "local_render_method": "Inkscape renders of extracted inline SVGs restored the HTML parser lowercased viewbox attribute to XML viewBox for faithful local extraction; initial default-size clipped extraction was discarded and all affected models reopened. No page source was edited. Final hosted browser geometry, mobile layout and interactions remain a separate review.",
+  "commercial_plan_closure": "PASS; see independent-plan-commercial-recheck.json. Nine distinct original paid links and one cover preserved, including LY06/LY07 hero destinations. No assertion of linked paid-pack contents beyond preserved existing listing/cover.",
+  "limits": [
+    "Not a blind scored-bank, human teacher, pupil trial, mastery or attainment certification.",
+    "Did not inspect or change app banks, paid pack interiors, slides or worksheets. Existing destinations are preserved rather than newly certified.",
+    "Local SVG/raster semantic checks are not hosted browser viewport verification. A fresh separate final reviewer must inspect exact hosted pixels and repairs/high-risk content under current SOP."
+  ],
+  "unresolved_blockers": [],
+  "pages": [
+    {
+      "code": "AC9E1LY06",
+      "path": "year1/english/ac9e1ly06-and-re-read-to-edit-short-written-and-or-multimodal-texts-to/index.html",
+      "bytes": 28266,
+      "sha256": "1bd93762b25bb308cfe773d1872a03770b729a011cadb209364b04163d62503c",
+      "inventory_sha256_matches": true
+    },
+    {
+      "code": "AC9E1LY07",
+      "path": "year1/english/ac9e1ly07-and-deliver-short-oral-and-or-multimodal-presentations-on/index.html",
+      "bytes": 33707,
+      "sha256": "eb7c70098f03f24916d2c0adaa6a747b3229d74127dc315c54d017e1dc4cda09",
+      "inventory_sha256_matches": true
+    },
+    {
+      "code": "AC9E1LY08",
+      "path": "year1/english/ac9e1ly08-words-using-unjoined-lower-case-and-upper-case-letters/index.html",
+      "bytes": 36463,
+      "sha256": "6c0876ccf47b6179f6e6b71d6d874bc82e84a708476593c508900ac118ea7a0b",
+      "inventory_sha256_matches": true
+    },
+    {
+      "code": "AC9E1LY09",
+      "path": "year1/english/ac9e1ly09-words-into-separate-phonemes-sounds-including-consonant-blends/index.html",
+      "bytes": 27428,
+      "sha256": "f0c139144de7ec29eb20c015bf12129d29f9d86bc62c53b864c308bb61f0adcd",
+      "inventory_sha256_matches": true
+    },
+    {
+      "code": "AC9E1LY10",
+      "path": "year1/english/ac9e1ly10-manipulate-phonemes-in-spoken-words-by-addition-deletion-and/index.html",
+      "bytes": 28252,
+      "sha256": "c903e5367abaf4d1d76502ebc692975ef36385f02cb4dd41f21f7e6adda8d0aa",
+      "inventory_sha256_matches": true
+    },
+    {
+      "code": "AC9E1LY11",
+      "path": "year1/english/ac9e1ly11-short-vowels-common-long-vowels-consonant-blends-and-digraphs-to/index.html",
+      "bytes": 28500,
+      "sha256": "3f862db6d630920ff4e18e2db42fa23b081fbdd9b724eda705c4d011748f9603",
+      "inventory_sha256_matches": true
+    },
+    {
+      "code": "AC9E1LY12",
+      "path": "year1/english/ac9e1ly12-that-a-letter-can-represent-more-than-one-sound-and/index.html",
+      "bytes": 27504,
+      "sha256": "4ffb3ed7973acf3abbfd8bcd2a8026ce4a4b28e4c5872e3f2b9b9d4bb06f61d6",
+      "inventory_sha256_matches": true
+    },
+    {
+      "code": "AC9E1LY13",
+      "path": "year1/english/ac9e1ly13-one-and-two-syllable-words-with-common-letter-patterns/index.html",
+      "bytes": 26858,
+      "sha256": "dd165c10d027d8f9458dca230d4903217af8b8ebb2920a0de2c4ec375dc62871",
+      "inventory_sha256_matches": true
+    },
+    {
+      "code": "AC9E1LY14",
+      "path": "year1/english/ac9e1ly14-and-write-an-increasing-number-of-high-frequency-words/index.html",
+      "bytes": 27315,
+      "sha256": "b72a94d9cef0919263480c6be253f804b93e57be1ce88d6483de880a2556d5fc",
+      "inventory_sha256_matches": true
+    },
+    {
+      "code": "AC9E1LY15",
+      "path": "year1/english/ac9e1ly15-and-know-how-to-use-grammatical-morphemes-to-create-word/index.html",
+      "bytes": 27788,
+      "sha256": "7060da998588d934be4f9e96518e763c4fb6d4ed2a4bcd6f0370275c2ef86017",
+      "inventory_sha256_matches": true
+    }
+  ],
+  "assets": [
+    {
+      "path": "/assets/teaching-models/year1/ac9e1ly09.svg",
+      "bytes": 1398,
+      "sha256": "0fc16639fcbd2c1dea98d524dbb5625ecd5a81e22411a9ec5b332c7367c1cb97",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained.",
+      "independent_byte_baseline_identity": "PASS",
+      "independent_pixel_inspection": "PASS; seven actual raster originals opened individually and seven exact-byte SVG assets individually rasterized with Inkscape then opened"
+    },
+    {
+      "path": "/assets/teaching-models/year1/ac9e1ly10.svg",
+      "bytes": 1455,
+      "sha256": "83f109cbec49166dea7b9d82704eef56916bed02be02133491634f37bce94d2b",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained.",
+      "independent_byte_baseline_identity": "PASS",
+      "independent_pixel_inspection": "PASS; seven actual raster originals opened individually and seven exact-byte SVG assets individually rasterized with Inkscape then opened"
+    },
+    {
+      "path": "/assets/teaching-models/year1/ac9e1ly11.svg",
+      "bytes": 1394,
+      "sha256": "4a4f12d49eba9507dc88b6726513fa36a7c84268aeec0159b54c23e5bb387e98",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained.",
+      "independent_byte_baseline_identity": "PASS",
+      "independent_pixel_inspection": "PASS; seven actual raster originals opened individually and seven exact-byte SVG assets individually rasterized with Inkscape then opened"
+    },
+    {
+      "path": "/assets/teaching-models/year1/ac9e1ly12.svg",
+      "bytes": 1446,
+      "sha256": "c6ebb127dceda9354e64f79195ad99c4e976e90002e8a9e3b11ad8dea8c82a1b",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained.",
+      "independent_byte_baseline_identity": "PASS",
+      "independent_pixel_inspection": "PASS; seven actual raster originals opened individually and seven exact-byte SVG assets individually rasterized with Inkscape then opened"
+    },
+    {
+      "path": "/assets/teaching-models/year1/ac9e1ly13.svg",
+      "bytes": 1487,
+      "sha256": "190a2694b486f5aa9d1f5b3fbe7a8d09a3011070b53fd3b85e55cef787fe4ef7",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained.",
+      "independent_byte_baseline_identity": "PASS",
+      "independent_pixel_inspection": "PASS; seven actual raster originals opened individually and seven exact-byte SVG assets individually rasterized with Inkscape then opened"
+    },
+    {
+      "path": "/assets/teaching-models/year1/ac9e1ly14.svg",
+      "bytes": 1405,
+      "sha256": "b3bd96effe4d209274e968cbee49a3075f9a128a4790dc5f3fae9cc7180b093f",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained.",
+      "independent_byte_baseline_identity": "PASS",
+      "independent_pixel_inspection": "PASS; seven actual raster originals opened individually and seven exact-byte SVG assets individually rasterized with Inkscape then opened"
+    },
+    {
+      "path": "/assets/teaching-models/year1/ac9e1ly15.svg",
+      "bytes": 1496,
+      "sha256": "db87ec6ae6c05582fe95d584d83236a41d4eae8d9a4cb0082d5a6391836b223d",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained.",
+      "independent_byte_baseline_identity": "PASS",
+      "independent_pixel_inspection": "PASS; seven actual raster originals opened individually and seven exact-byte SVG assets individually rasterized with Inkscape then opened"
+    },
+    {
+      "path": "/assets/topic-visuals/ac9e1ly07/fan.png",
+      "bytes": 194773,
+      "sha256": "5bf97fc395f1c9f9a45828a86aceb7497f8bc364fc97eaf4f9b046d1abf75459",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained.",
+      "independent_byte_baseline_identity": "PASS",
+      "independent_pixel_inspection": "PASS; seven actual raster originals opened individually and seven exact-byte SVG assets individually rasterized with Inkscape then opened"
+    },
+    {
+      "path": "/assets/topic-visuals/ac9e1ly07/gesture-high.png",
+      "bytes": 187972,
+      "sha256": "d005bf5d65987581498c055c378e1f43963d83d6778d205e70d7cb66903f7fbf",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained.",
+      "independent_byte_baseline_identity": "PASS",
+      "independent_pixel_inspection": "PASS; seven actual raster originals opened individually and seven exact-byte SVG assets individually rasterized with Inkscape then opened"
+    },
+    {
+      "path": "/assets/topic-visuals/ac9e1ly07/gesture-small.png",
+      "bytes": 199767,
+      "sha256": "14c94467c2a483bfa4d8ab04cb718ca9e16876e489bf35d20e7271971f9de891",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained.",
+      "independent_byte_baseline_identity": "PASS",
+      "independent_pixel_inspection": "PASS; seven actual raster originals opened individually and seven exact-byte SVG assets individually rasterized with Inkscape then opened"
+    },
+    {
+      "path": "/assets/topic-visuals/ac9e1ly07/gesture-two.png",
+      "bytes": 179849,
+      "sha256": "2821a0b7d6ab01a185d6ea2ca5c2ccfae2918adbecb64892c7cded81b9157c79",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained.",
+      "independent_byte_baseline_identity": "PASS",
+      "independent_pixel_inspection": "PASS; seven actual raster originals opened individually and seven exact-byte SVG assets individually rasterized with Inkscape then opened"
+    },
+    {
+      "path": "/assets/topic-visuals/ac9e1ly07/paintbrush.png",
+      "bytes": 155401,
+      "sha256": "569f5ca9eb3c2910721f6bd0a202c4708838dd59fe567832b62ef3506586b6f4",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained.",
+      "independent_byte_baseline_identity": "PASS",
+      "independent_pixel_inspection": "PASS; seven actual raster originals opened individually and seven exact-byte SVG assets individually rasterized with Inkscape then opened"
+    },
+    {
+      "path": "/assets/topic-visuals/reused/rabbit-long-ears.webp",
+      "bytes": 27284,
+      "sha256": "4cad968c3bdbeabbaf467563557ccb4fa28c230b2ee92c059a1121710b4f9b83",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained.",
+      "independent_byte_baseline_identity": "PASS",
+      "independent_pixel_inspection": "PASS; seven actual raster originals opened individually and seven exact-byte SVG assets individually rasterized with Inkscape then opened"
+    },
+    {
+      "path": "/assets/tpt-17913803-cover.png",
+      "bytes": 205062,
+      "sha256": "7dc140c16ddf254aa9a53f0b8219a8fdea3cbff606882fe6f923b76f09372d95",
+      "origin": "Existing repository teaching illustration/model or matching paid cover; exact bytes retained.",
+      "independent_byte_baseline_identity": "PASS",
+      "independent_pixel_inspection": "PASS; seven actual raster originals opened individually and seven exact-byte SVG assets individually rasterized with Inkscape then opened"
+    }
+  ],
+  "retained_section_pins": [
+    {
+      "code": "AC9E1LY06",
+      "label": "1. Report facts about a topic",
+      "normalized_text_sha256": "58842cda266973dcafda99ef6077223c8e1cd879223416898220636a07f66ed4"
+    },
+    {
+      "code": "AC9E1LY06",
+      "label": "2. Give an opinion and a reason",
+      "normalized_text_sha256": "044bd96be982b272f25db27dd8ccf056da530ab3f57dec4a63630fde887c2e20"
+    },
+    {
+      "code": "AC9E1LY06",
+      "label": "3. Put a recount in order",
+      "normalized_text_sha256": "92fbbe507b530c18cdb7668e8aedbd6f5b8b5f617e0bddd046ea49414ee351de"
+    },
+    {
+      "code": "AC9E1LY06",
+      "label": "4. Make pictures and words work together",
+      "normalized_text_sha256": "6c9bd284235bc625309a8a791aa74e82f5253a26f4198d9c8ee889e4aa47bee4"
+    },
+    {
+      "code": "AC9E1LY06",
+      "label": "5. Reread and edit for meaning",
+      "normalized_text_sha256": "328e37761b6c7ac85b71f6698f6df430cbb1f84522760e0296bab800b9fe3dc3"
+    },
+    {
+      "code": "AC9E1LY06",
+      "label": "Quick check: create, then improve",
+      "normalized_text_sha256": "040db03ffc0737d8edb6d98d5a92cfeeb92a621f9dd76d1b13085df2fde30755"
+    },
+    {
+      "code": "AC9E1LY07",
+      "label": "1. Plan a clear talk",
+      "normalized_text_sha256": "86d29730357acdb1bac7c50aa033c8914f8d0d4e7a7b5de981a2faaf44a39495"
+    },
+    {
+      "code": "AC9E1LY07",
+      "label": "2. Choose useful details and topic words",
+      "normalized_text_sha256": "f34ae76553f8cd8abde4c33dc6f40c009ac130a8853742548f54d9ec87fb32ec"
+    },
+    {
+      "code": "AC9E1LY07",
+      "label": "3. Report, explain how, or give a reason",
+      "normalized_text_sha256": "969f7ffdde0ee5ba36980b7bb3cf5c919167f93218c62d5ac8d962ba2f5d6eb4"
+    },
+    {
+      "code": "AC9E1LY07",
+      "label": "4. Make pictures and gestures helpful",
+      "normalized_text_sha256": "601eab7554ae62d052051a21a9a08274e56f5235926c2a377c36a74c40dce3cb"
+    },
+    {
+      "code": "AC9E1LY07",
+      "label": "5. Use a clear voice, pace and pauses",
+      "normalized_text_sha256": "c83d10ed2d1acbbb3f02dd6eb4cd1861a3948bc90d5aa975b43dfd878df7c720"
+    },
+    {
+      "code": "AC9E1LY07",
+      "label": "Put it together: plan, speak and review",
+      "normalized_text_sha256": "8bbc75cf8d4ac8132a8cf5210c562442e1be5f467a9890b74cc7541f5e260d2d"
+    },
+    {
+      "code": "AC9E1LY07",
+      "label": "Common mistakes and quick fixes",
+      "normalized_text_sha256": "84fe8d787c9b7711125650e4e1f88199f00b3af1236840383f81650c274fd41c"
+    },
+    {
+      "code": "AC9E1LY08",
+      "label": "Get ready: hold, move and look",
+      "normalized_text_sha256": "2bf1da91072504dd728488cc91554b6235e34a7df86398d58681593fb0e50a2f"
+    },
+    {
+      "code": "AC9E1LY08",
+      "label": "1. Write words with lower-case letters",
+      "normalized_text_sha256": "7fc9fcd50aeb565abfcdfc659e20e64d94fa91615d32a8188f1d0dcc07863855"
+    },
+    {
+      "code": "AC9E1LY08",
+      "label": "2. Write capitals and lower-case letters in words",
+      "normalized_text_sha256": "e95fb17f7dcd51bd791a7de7ca6a0fce586da95f0760f036330a9cf995364fd7"
+    },
+    {
+      "code": "AC9E1LY08",
+      "label": "Put it together: space, read and improve",
+      "normalized_text_sha256": "5b7a3dfcead83f1e70f8bd6898d6309918c2a3f42de7ecc28d13533b24059f06"
+    },
+    {
+      "code": "AC9E1LY08",
+      "label": "For adults: teaching support and curriculum",
+      "normalized_text_sha256": "04dab6b830d91775a3da753d15933af284af57028e55856d503a44dcb3f712c4"
+    },
+    {
+      "code": "AC9E1LY09",
+      "label": "Key concept",
+      "normalized_text_sha256": "3963eb298a1709288a1867cbf56a83ad122f2f60f683a74374bce27ed172134e"
+    },
+    {
+      "code": "AC9E1LY09",
+      "label": "See it, then try it",
+      "normalized_text_sha256": "25be4032b6b6fa0d98f2a19f77b5919d84ae9a2e7cfc4d6f50924a0d01a64f92"
+    },
+    {
+      "code": "AC9E1LY09",
+      "label": "See the idea: Count spoken sounds, not letters",
+      "normalized_text_sha256": "691e645e36c1f38b9be7e3ac3a9cca7b3f79894f2d4973d86c046d22f0f14c97"
+    },
+    {
+      "code": "AC9E1LY09",
+      "label": "Common misconceptions",
+      "normalized_text_sha256": "3be10093558bb9199549c02e96d84ebc08da0e7460b5c1649f5dcf9c76b8f624"
+    },
+    {
+      "code": "AC9E1LY09",
+      "label": "Try these",
+      "normalized_text_sha256": "f524a7b16b1d64f4cf382d8dc34236d906bc17b3e4d279b91aad4ce0af0d37dc"
+    },
+    {
+      "code": "AC9E1LY09",
+      "label": "Explain and apply",
+      "normalized_text_sha256": "5df5574b1a9fb94a51312556e1dafd005e39e59dddd99fdbe8dfe8a575267d0c"
+    },
+    {
+      "code": "AC9E1LY09",
+      "label": "Check your understanding",
+      "normalized_text_sha256": "50d9728c4fb440d90b9ac2a4878bf4d5f5eab3c98f1c6a2b5887a471eb1e4fac"
+    },
+    {
+      "code": "AC9E1LY10",
+      "label": "Key concept",
+      "normalized_text_sha256": "12bc39cc6c97160c3c180e7bc8eb3c72c07c23aa27883a14b60300d214ccc8eb"
+    },
+    {
+      "code": "AC9E1LY10",
+      "label": "See it, then try it",
+      "normalized_text_sha256": "5b306f6de1d4ac68c4b1a18de34a361d53ce13194b19f4d4baf4dc3a362ef08e"
+    },
+    {
+      "code": "AC9E1LY10",
+      "label": "See the idea: Change a sound to change a spoken word",
+      "normalized_text_sha256": "7e49164e726c725c4a336d9ad6fc3c265044eb80cbe0cca0dee9e037813eb37e"
+    },
+    {
+      "code": "AC9E1LY10",
+      "label": "Common misconceptions",
+      "normalized_text_sha256": "6ad2624da014635713c25609c15f4a6fc4e646461cb5b4ff2521cf8d896f476e"
+    },
+    {
+      "code": "AC9E1LY10",
+      "label": "Try these",
+      "normalized_text_sha256": "7a34d2fe0bbe52ee7631e57c8a9f561cb3ac155000b8962950db7c066ebed7cc"
+    },
+    {
+      "code": "AC9E1LY10",
+      "label": "Explain and apply",
+      "normalized_text_sha256": "64e48a7ab09002d1fc0befec9ec1bdfda2392838a7f50daa7eb45b82ce33922b"
+    },
+    {
+      "code": "AC9E1LY10",
+      "label": "Check your understanding",
+      "normalized_text_sha256": "f86a35fda0bc7e90e8025039c024b6c4d719b87d7b6790a61db6d3b4a679ff73"
+    },
+    {
+      "code": "AC9E1LY11",
+      "label": "Key concept",
+      "normalized_text_sha256": "0e357c6e49a7c3530449616e364f7a852b7e5f9c7a1dd6b21bb061571dc00973"
+    },
+    {
+      "code": "AC9E1LY11",
+      "label": "See it, then try it",
+      "normalized_text_sha256": "8f0dd4c175bd2869393b7b3813ebbcc0fb30c3e660c58fd0a06a96ceb2535f31"
+    },
+    {
+      "code": "AC9E1LY11",
+      "label": "See the idea: Blend a digraph as one sound",
+      "normalized_text_sha256": "5fe1391f4c19282b53a49437029858ba933b31538e95e6504773387097b7ae8f"
+    },
+    {
+      "code": "AC9E1LY11",
+      "label": "Common misconceptions",
+      "normalized_text_sha256": "d39e33e36ad3e740d9962aff3134fba6898a18030d238249dc8e71cf7a3c6297"
+    },
+    {
+      "code": "AC9E1LY11",
+      "label": "Try these",
+      "normalized_text_sha256": "829d180e8c084f356b35dfae00c7b0d19848809c0fe9236fa6c8abb19681f006"
+    },
+    {
+      "code": "AC9E1LY11",
+      "label": "Explain and apply",
+      "normalized_text_sha256": "e6d3c361709e2582039a9c8fe71169fd598a87ece5368b980610087ba3d01f82"
+    },
+    {
+      "code": "AC9E1LY11",
+      "label": "Check your understanding",
+      "normalized_text_sha256": "2c61e513237f35b8b802d3c347af0f0efca74a57d8bfb860e37906ce6f672c39"
+    },
+    {
+      "code": "AC9E1LY12",
+      "label": "Key concept",
+      "normalized_text_sha256": "5b20c5f58df39101b13f14e374a3e080cc937035ce90585850406a27223da370"
+    },
+    {
+      "code": "AC9E1LY12",
+      "label": "See it, then try it",
+      "normalized_text_sha256": "3e2849aaba45ca591b5836af6f4df5e9a9460fc73c837c6cc91416b36fbba0a3"
+    },
+    {
+      "code": "AC9E1LY12",
+      "label": "See the idea: Hear the vowel sound in each syllable",
+      "normalized_text_sha256": "1fb909fa2053eb215173256dd35962b3347dcc60f987018f2a9f17da741ca471"
+    },
+    {
+      "code": "AC9E1LY12",
+      "label": "Common misconceptions",
+      "normalized_text_sha256": "add94d0f24accfee7ed7f028f5cb2f4001c442ea70635bd226a752094bdffee2"
+    },
+    {
+      "code": "AC9E1LY12",
+      "label": "Try these",
+      "normalized_text_sha256": "80639b409b13c865b09e7854f8530a5a0240e3551e7f2159e64808760b1f4417"
+    },
+    {
+      "code": "AC9E1LY12",
+      "label": "Explain and apply",
+      "normalized_text_sha256": "bda76bcf7055c141bd4d52ae25c29b4cf868ef33e1466bb006c4db27d0befa4f"
+    },
+    {
+      "code": "AC9E1LY12",
+      "label": "Check your understanding",
+      "normalized_text_sha256": "851f7fce543931f812794e0b895c582310b4ff480bab1ccf55062c199642d530"
+    },
+    {
+      "code": "AC9E1LY13",
+      "label": "Key concept",
+      "normalized_text_sha256": "6beda878f9e5a5d29be1245fdfb2bc91dedfc1095b4ccd7d4379e4f71ebda9a1"
+    },
+    {
+      "code": "AC9E1LY13",
+      "label": "See it, then try it",
+      "normalized_text_sha256": "58d31001f5148ecfc2de5e54e232f3711f0909752945d0eefa1ea66e3da19395"
+    },
+    {
+      "code": "AC9E1LY13",
+      "label": "See the idea: Use sounds and syllables when spelling",
+      "normalized_text_sha256": "6f3c1455a32a36aec1e49bb7c3dfa0255bdff78fb8970a23d9c48d9ec5f45ec9"
+    },
+    {
+      "code": "AC9E1LY13",
+      "label": "Common misconceptions",
+      "normalized_text_sha256": "5518ae4ea51cc37fc3e666e9ce73073a44e544c557781a508e5b516f64c0a7a2"
+    },
+    {
+      "code": "AC9E1LY13",
+      "label": "Try these",
+      "normalized_text_sha256": "c7fb9222e4b72e42dbaea1edbc70880a654fb36e5e5a6005d0b5ac378d43fb70"
+    },
+    {
+      "code": "AC9E1LY13",
+      "label": "Explain and apply",
+      "normalized_text_sha256": "8d4224a6b83a8aa8e469b7e914e966aed8b6ed94c58ce18556abbc6cd9d1c5f0"
+    },
+    {
+      "code": "AC9E1LY13",
+      "label": "Check your understanding",
+      "normalized_text_sha256": "090f2860579c0d320b638817a44f0880f54007c4e2263f95d85930ed57a6c717"
+    },
+    {
+      "code": "AC9E1LY14",
+      "label": "Key concept",
+      "normalized_text_sha256": "cfad456e87003145240af698e0c21ed9f5b791121fce8c68a5854422ed9c93f2"
+    },
+    {
+      "code": "AC9E1LY14",
+      "label": "See it, then try it",
+      "normalized_text_sha256": "9d576a34730283233aca12c088091e6d7f862c2821e469003a5df59dd400649f"
+    },
+    {
+      "code": "AC9E1LY14",
+      "label": "See the idea: Map the unusual part of a familiar word",
+      "normalized_text_sha256": "d1f991c70e36bee797f04472174b394813676d68708657a1e2fa55668abc168b"
+    },
+    {
+      "code": "AC9E1LY14",
+      "label": "Common misconceptions",
+      "normalized_text_sha256": "e68fd1c5c834d6c6a568048d76681056f908b2209565f0b97e54dbed341cfb97"
+    },
+    {
+      "code": "AC9E1LY14",
+      "label": "Try these",
+      "normalized_text_sha256": "711d442d717ec21e89ebd4b1154ddd872f0acd7c3a935e2d29d93a4d174df02b"
+    },
+    {
+      "code": "AC9E1LY14",
+      "label": "Explain and apply",
+      "normalized_text_sha256": "db21861d04879f44916a56e34154e9015927aa35f8c528c099d46d09ea97747b"
+    },
+    {
+      "code": "AC9E1LY14",
+      "label": "Check your understanding",
+      "normalized_text_sha256": "38ebb864b5fe681fa14a21d5402a2a402e22b454a15ce5e7be79a077553a5a24"
+    },
+    {
+      "code": "AC9E1LY15",
+      "label": "Key concept",
+      "normalized_text_sha256": "b542b8b8452d853686da2975559023a5d7f253b12ae68d7b5b311e28f332b567"
+    },
+    {
+      "code": "AC9E1LY15",
+      "label": "See it, then try it",
+      "normalized_text_sha256": "e6cab13c8c8ca4e9257bdae0dcc6b92e5435b8b58bce6230e3e2605e2b2cb4d6"
+    },
+    {
+      "code": "AC9E1LY15",
+      "label": "See the idea: Keep the base meaning and notice the ending",
+      "normalized_text_sha256": "db35fe034c6c58dc43b4a913aa7751de7be21cfe827a34e21dcf2c5b8753056d"
+    },
+    {
+      "code": "AC9E1LY15",
+      "label": "Common misconceptions",
+      "normalized_text_sha256": "cd49381bc8193b4a6a937772a66e14bf29dfd88c0a07635c88be27ff351c473c"
+    },
+    {
+      "code": "AC9E1LY15",
+      "label": "Try these",
+      "normalized_text_sha256": "32cd4fb650c5b489a9b668e15820dd816601746ad09eddbca8f2e97020ee746f"
+    },
+    {
+      "code": "AC9E1LY15",
+      "label": "Explain and apply",
+      "normalized_text_sha256": "9b37c385e5623213b9230d0315c70dc6b0e859c01d7398aee4eeacc643c8a7a1"
+    },
+    {
+      "code": "AC9E1LY15",
+      "label": "Check your understanding",
+      "normalized_text_sha256": "d7ab58aa9d54837e753440661bd5d59d8a85adf73fa72a1b4021f942e1040a42"
+    }
+  ],
+  "local_model_pixel_pins": [
+    {
+      "file": "independent-model-renders/AC9E1LY06-inline-1.png",
+      "sha256": "744586ccd381a43b37654f052e16f8c1819622c5c9290ff25654ee6f1d4ab77f",
+      "bytes": 6855
+    },
+    {
+      "file": "independent-model-renders/AC9E1LY07-inline-1.png",
+      "sha256": "a0f0c81b80cace042c14cd57420824b815c846688d6c69e06e503fb2f9e95c2c",
+      "bytes": 10939
+    },
+    {
+      "file": "independent-model-renders/AC9E1LY08-inline-1.png",
+      "sha256": "8b21c7296f5f95909b9fd7b71bcc8f8c78777596debb78583ce21a3a1c2c2ea4",
+      "bytes": 7934
+    },
+    {
+      "file": "independent-model-renders/AC9E1LY08-inline-2.png",
+      "sha256": "5a8ebe902071d9c5f3f5a75895874032a31e5d3938524d4f80ac585222f313af",
+      "bytes": 16753
+    },
+    {
+      "file": "independent-model-renders/AC9E1LY08-inline-3.png",
+      "sha256": "17ec27d30b7012a8adf8d67f1f64415ddbca9e1e89dcb129b395de68e35a4368",
+      "bytes": 9301
+    },
+    {
+      "file": "independent-model-renders/AC9E1LY08-inline-4.png",
+      "sha256": "961c508c5c6b80a94e1dc324b0d366dc1480265f9a19383207f594845d25c27b",
+      "bytes": 5470
+    },
+    {
+      "file": "independent-model-renders/AC9E1LY09-inline-1.png",
+      "sha256": "3b069f140e5efe8d2100de1f0d5b8e511c9f8eb3011b8bb348745ef053b62033",
+      "bytes": 10301
+    },
+    {
+      "file": "independent-model-renders/AC9E1LY10-inline-1.png",
+      "sha256": "a6c0b2f8594e75d056d47cb8615d5df75c009fc9d74dc455c457f89b95aa5348",
+      "bytes": 8421
+    },
+    {
+      "file": "independent-model-renders/AC9E1LY11-inline-1.png",
+      "sha256": "a51a21326fde921e9937c49b585f41b6b4adb2d1cd226376e76dd9cf1e0b6731",
+      "bytes": 7368
+    },
+    {
+      "file": "independent-model-renders/AC9E1LY12-inline-1.png",
+      "sha256": "68f513eea6b64a1e8692d9592c688ea6aa2e18e0ff6395ef632ebe0f57eff297",
+      "bytes": 5376
+    },
+    {
+      "file": "independent-model-renders/AC9E1LY13-inline-1.png",
+      "sha256": "74fafc6520818126bfd7940b97b571c7ce873c29d26bef759ba6a2aaa4e5cee7",
+      "bytes": 4114
+    },
+    {
+      "file": "independent-model-renders/AC9E1LY14-inline-1.png",
+      "sha256": "b623e5d0a14d74c12f27f521b41c056975728cb3673c16ab46aa744d38d7d2ac",
+      "bytes": 9565
+    },
+    {
+      "file": "independent-model-renders/AC9E1LY15-inline-1.png",
+      "sha256": "9018f9ae4e2aed33e3fbe5efecf9d012ef633260bec2a47dc75a5407464de2fa",
+      "bytes": 7492
+    },
+    {
+      "file": "independent-model-renders/ac9e1ly09-asset.png",
+      "sha256": "1b41567b00ed47c48f34ddd7dc6bd07dcc11a39deb1da8cd21c5f403b47c3197",
+      "bytes": 16438
+    },
+    {
+      "file": "independent-model-renders/ac9e1ly10-asset.png",
+      "sha256": "7b6fe4855b7548521e152fbe2b35a3bd69ec75bafc4bee53c4e0808bac96039d",
+      "bytes": 20490
+    },
+    {
+      "file": "independent-model-renders/ac9e1ly11-asset.png",
+      "sha256": "66f1af19b23b03ed843659ce92e43c67de23ab539ad1bf28246f0e63810c0d10",
+      "bytes": 15236
+    },
+    {
+      "file": "independent-model-renders/ac9e1ly12-asset.png",
+      "sha256": "e974462638e886b8e095c90d49aed6210ab5fdd3d9b1e9e9c3e5ad39112907c8",
+      "bytes": 17988
+    },
+    {
+      "file": "independent-model-renders/ac9e1ly13-asset.png",
+      "sha256": "4ecb21c7bc8be7b455c38c699bcc1e4d28690d2bd56e3f4753ada51ba00bfe15",
+      "bytes": 22260
+    },
+    {
+      "file": "independent-model-renders/ac9e1ly14-asset.png",
+      "sha256": "5c2077e2a3e78aa90706294f454ddcaa7d0bf16c6847196f7a78469a7e88e4cd",
+      "bytes": 15860
+    },
+    {
+      "file": "independent-model-renders/ac9e1ly15-asset.png",
+      "sha256": "fd9352f0fbff782a515f5e21851c156a4ed65e444896bac1a3b415a5759d867f",
+      "bytes": 21965
+    }
+  ],
+  "support_file_sha256": {
+    "page-content.json": "c5f6bd35198fed49a19812505e31cfa62592e8b8d547d5fa570e5edefe08286c",
+    "inventory.json": "32692732a639238a6b2f722da9d933160ce09d41f2e2a5d982b3d969413286db",
+    "retained-corrections.json": "e900711371bccff3a2b29523a7b186008fd905b597ab528ca15f122975a365e5",
+    "retained-additions.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+    "retained-section-identities.json": "814ba0a2aaa97e7df533ac30c2b52359ab54c662af3ef28a0baafb7a4883990e",
+    "artwork-and-evidence.json": "eb3de1dc2b95a2bab1b0b974947db1fc82dec0fd45fb0bd6763d216b18c01b65",
+    "plan.json": "a81b44af9caa79b13fdc45a6e6ae4a9fadeb2dace8003b0478adb3e544b6e077",
+    "retained-inventory-plan.json": "c871e9c2a8228a62c01de70694653503d974caea949d358559522a04ff5eea2c"
+  },
+  "final_ly15_deletion_proof": {
+    "prior_source_commit": "808605129",
+    "prior_sha256": "0eea0c802ffa1215ae48f01581c9fa34e14d8f0e873b20d82dab3c630054bd0d",
+    "final_sha256": "7060da998588d934be4f9e96518e763c4fb6d4ed2a4bcd6f0370275c2ef86017",
+    "assertion": "Final source equals prior complete HTML after deleting precisely the one repeated promotional takeaway p element; every other source byte unchanged. Exact SVG and worked question/answer therefore unchanged.",
+    "deleted_paragraph_text": "SkillrHub provides a Year 1 English topic guide and learning resources for AC9E1LY15 , aligned with Australian Curriculum Version 9.0. The curriculum focus is: recognise and know how to use grammatical morphemes to create word families."
+  }
+}

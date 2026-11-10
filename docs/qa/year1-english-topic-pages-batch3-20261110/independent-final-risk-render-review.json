@@ -1,0 +1,726 @@
+{
+  "reviewer": "/root/year1_english_batch3_final_review",
+  "reviewer_type": "independent AI final risk reviewer, separate from author and initial content reviewer",
+  "source_status": "PASS",
+  "render_status": "PASS: all36actualmodelPNGsindividuallyopened",
+  "overall": "PASS for exact current source and scoped rendered model review",
+  "scope": "Public unscored Topic Guides only. Not blind scored-bank QA, linked-product approval or pupil performance.",
+  "selection_method": "Reviewer selected all12retained corrections; all30frontfocus examples/tries/response criteria and30tricky prompts due oral/sound/spelling/openresponse risks. All10frontworked examples,10activity/support/proxy-boundary packets and all3Starter/Core/Stretch entries percode were checked. Remainder sample includes each code\u2019s FAQ and actual retained Try/Explain/misconception families plus all first3strong detailed lessons. Screenshots/assets remain separate pending pixel checks.",
+  "source_findings": [],
+  "higher_risk_results": {
+    "LY06": "Facts/opinion/recount and editing support valid; actual child-generated image/caption and supported digital sequence, not unseen figure or paper-as-digital evidence.",
+    "LY07": "Opening/middle/conclusion, actual modelling/audibility/pace/gesture observation retained; no gaze/accent/confidence grading.",
+    "LY08": "Actual unjoined school models preserved, functional grasp and handwriting performance separate from typed spelling; school style accepted.",
+    "LY09": "Three/four/fivesound examples recomputed; initial/final clusters distinct from digraphs; counts/order and oral response required.",
+    "LY10": "All beginning/interior/end addition/removal/substitution examples recomputed. One-syllable/up-to4sound boundary, hiddenlearner spelling and clean oral target clear.",
+    "LY11": "Short/longvowels, blends and digraphs distinct; overlapping categories corrected; actualreading before model versus spelling attempt with hiddenmodel separated.",
+    "LY12": "Oneletter/multiplesounds and s/c alternatives valid; vowelletters!=syllables; usualaccent and clear familiar words accepted.",
+    "LY13": "Rabbit bb explicitly taught/checked, not falsely inferred by syllables; standardspellings and familiarparts correct.",
+    "LY14": "Open multiplevalidtarget reading guidance accepts alternatives; some oquestion unambiguous; memorywriting heading removed, supportedretrieval distinguished from laterretention.",
+    "LY15": "Basefamilies versus rhyme and compounds distinguished; nounplural/verbs s and sentenceleveling explanations correct; ednotalwaysasyllable and spellingchanges caveats useful."
+  },
+  "primary_reopens": [
+    {
+      "url": "https://www.qcaa.qld.edu.au/downloads/aciqv9/english/curriculum/ac9_english_yr1_as_cd_alignment.pdf",
+      "observed": "Official exactYear1descriptors corroborated against reviewed scope; not a new worksheetQA."
+    },
+    {
+      "url": "https://www.literacyhub.edu.au/video-assets/plm3-phonological-awareness-accessibility/",
+      "observed": "Actual accessible transcript/description corroborates phoneme/counter/blend/cluster methods; no heard/watched media claim."
+    }
+  ],
+  "optional_polish": [
+    {
+      "code": "AC9E1LY13",
+      "note": "The retained rabbit question phrasing remains awkward; its explicit standard-spelling answer now prevents the old doubling inference. Optional wording polish, not a correctness blocker."
+    }
+  ],
+  "limitations": [
+    "Independent AI reviewer, not a human teacher or pupil trial.",
+    "Initial all-content review is separate; this is risk-selected final source assurance and everymodelpixelinspection, not another full scored-bank solve.",
+    "No watched/heard media, actual pupil performance, liveapp marking/persistence, linkedworksheet/slidedeck or full screenreader-session certification.",
+    "Final exact-head rerun/artifact equality remains separately documented after evidencecommit."
+  ],
+  "date": "2026-11-10 Australia/Sydney",
+  "browser_head": "8086051294b8aa41105216d7731f6dcad4b042cb",
+  "browser_run": 42729964634,
+  "browser_artifact": 13723544415,
+  "downloaded_zip_sha256": "0ee7527dca0a3ec62b1f6de5703fad847315395f1db4f9336d4d30d22376321a",
+  "results_sha256": "3a20da37d8e55a25469edf19cf1318410bb14678cf8765652369bc75b900ea66",
+  "browser_results": "Actualdownloadedresults30JSdisabledvisitsat1440/768/390,10JSenabledsmoke,keyboardanswersandphonepanning;problems[]. These controlresults are machineevidence;thisreviewerindependentlyinspected36modelpixels,notall60viewportframes.",
+  "final_head_closure": "Laterfinalevidencecommit andexactheadrerun/artifactcomparison to be recordedseparately byrootinPRbody. Thisrecorddoesnotclaimthatfutureevent occurred.",
+  "risk_expansion": "No new release blocker found; no broader family/full-bank expansion warranted. Root\u2019s public-guide fixes were directly rechecked; no second blind scored-bank solve is claimed.",
+  "last_narrow_change": "13thretainedcorrectionremovesonepromotional/repeatedcurriculummetadataparagraphfromLY15earliermodel. Exactwholefileproofandunchangedfiguregeometrybelow.",
+  "paragraph_deletion_proof": [
+    {
+      "code": "AC9E1LY06",
+      "path": "year1/english/ac9e1ly06-and-re-read-to-edit-short-written-and-or-multimodal-texts-to/index.html",
+      "before_sha256": "1bd93762b25bb308cfe773d1872a03770b729a011cadb209364b04163d62503c",
+      "current_sha256": "1bd93762b25bb308cfe773d1872a03770b729a011cadb209364b04163d62503c",
+      "transform": "identity",
+      "exact_match": true,
+      "inline_svg_literals_unchanged": true
+    },
+    {
+      "code": "AC9E1LY07",
+      "path": "year1/english/ac9e1ly07-and-deliver-short-oral-and-or-multimodal-presentations-on/index.html",
+      "before_sha256": "eb7c70098f03f24916d2c0adaa6a747b3229d74127dc315c54d017e1dc4cda09",
+      "current_sha256": "eb7c70098f03f24916d2c0adaa6a747b3229d74127dc315c54d017e1dc4cda09",
+      "transform": "identity",
+      "exact_match": true,
+      "inline_svg_literals_unchanged": true
+    },
+    {
+      "code": "AC9E1LY08",
+      "path": "year1/english/ac9e1ly08-words-using-unjoined-lower-case-and-upper-case-letters/index.html",
+      "before_sha256": "6c0876ccf47b6179f6e6b71d6d874bc82e84a708476593c508900ac118ea7a0b",
+      "current_sha256": "6c0876ccf47b6179f6e6b71d6d874bc82e84a708476593c508900ac118ea7a0b",
+      "transform": "identity",
+      "exact_match": true,
+      "inline_svg_literals_unchanged": true
+    },
+    {
+      "code": "AC9E1LY09",
+      "path": "year1/english/ac9e1ly09-words-into-separate-phonemes-sounds-including-consonant-blends/index.html",
+      "before_sha256": "f0c139144de7ec29eb20c015bf12129d29f9d86bc62c53b864c308bb61f0adcd",
+      "current_sha256": "f0c139144de7ec29eb20c015bf12129d29f9d86bc62c53b864c308bb61f0adcd",
+      "transform": "identity",
+      "exact_match": true,
+      "inline_svg_literals_unchanged": true
+    },
+    {
+      "code": "AC9E1LY10",
+      "path": "year1/english/ac9e1ly10-manipulate-phonemes-in-spoken-words-by-addition-deletion-and/index.html",
+      "before_sha256": "c903e5367abaf4d1d76502ebc692975ef36385f02cb4dd41f21f7e6adda8d0aa",
+      "current_sha256": "c903e5367abaf4d1d76502ebc692975ef36385f02cb4dd41f21f7e6adda8d0aa",
+      "transform": "identity",
+      "exact_match": true,
+      "inline_svg_literals_unchanged": true
+    },
+    {
+      "code": "AC9E1LY11",
+      "path": "year1/english/ac9e1ly11-short-vowels-common-long-vowels-consonant-blends-and-digraphs-to/index.html",
+      "before_sha256": "3f862db6d630920ff4e18e2db42fa23b081fbdd9b724eda705c4d011748f9603",
+      "current_sha256": "3f862db6d630920ff4e18e2db42fa23b081fbdd9b724eda705c4d011748f9603",
+      "transform": "identity",
+      "exact_match": true,
+      "inline_svg_literals_unchanged": true
+    },
+    {
+      "code": "AC9E1LY12",
+      "path": "year1/english/ac9e1ly12-that-a-letter-can-represent-more-than-one-sound-and/index.html",
+      "before_sha256": "4ffb3ed7973acf3abbfd8bcd2a8026ce4a4b28e4c5872e3f2b9b9d4bb06f61d6",
+      "current_sha256": "4ffb3ed7973acf3abbfd8bcd2a8026ce4a4b28e4c5872e3f2b9b9d4bb06f61d6",
+      "transform": "identity",
+      "exact_match": true,
+      "inline_svg_literals_unchanged": true
+    },
+    {
+      "code": "AC9E1LY13",
+      "path": "year1/english/ac9e1ly13-one-and-two-syllable-words-with-common-letter-patterns/index.html",
+      "before_sha256": "dd165c10d027d8f9458dca230d4903217af8b8ebb2920a0de2c4ec375dc62871",
+      "current_sha256": "dd165c10d027d8f9458dca230d4903217af8b8ebb2920a0de2c4ec375dc62871",
+      "transform": "identity",
+      "exact_match": true,
+      "inline_svg_literals_unchanged": true
+    },
+    {
+      "code": "AC9E1LY14",
+      "path": "year1/english/ac9e1ly14-and-write-an-increasing-number-of-high-frequency-words/index.html",
+      "before_sha256": "b72a94d9cef0919263480c6be253f804b93e57be1ce88d6483de880a2556d5fc",
+      "current_sha256": "b72a94d9cef0919263480c6be253f804b93e57be1ce88d6483de880a2556d5fc",
+      "transform": "identity",
+      "exact_match": true,
+      "inline_svg_literals_unchanged": true
+    },
+    {
+      "code": "AC9E1LY15",
+      "path": "year1/english/ac9e1ly15-and-know-how-to-use-grammatical-morphemes-to-create-word/index.html",
+      "before_sha256": "0eea0c802ffa1215ae48f01581c9fa34e14d8f0e873b20d82dab3c630054bd0d",
+      "current_sha256": "7060da998588d934be4f9e96518e763c4fb6d4ed2a4bcd6f0370275c2ef86017",
+      "transform": "remove1exactnonteachingmetadata paragraph",
+      "exact_match": true,
+      "inline_svg_literals_unchanged": true
+    }
+  ],
+  "model_pixel_results": {
+    "count": 36,
+    "native": 23,
+    "inline": 13,
+    "inspection": "EachactualPNGopenedindividuallyusingview_imagein6groups,notonlydimensions/contactsheet. Allword/sound/morpheme/handwritingmodelsandreferencedillustrations/captionschecked.",
+    "outcome": "PASS: readablelabels,preservedaspectratio,correctrelationships,completepicturestimuli,nocropping/overlap/missingglyphsorcaptionmismatch.",
+    "notes": "LY08schoolstylepathmodelsretainunjoinedforms/tallb/smalla/descendinggandwordgaps. LY06rabbitshowsfur/longears; LY07brush/gestures/fanmatchsuppliedguidance. LY09\u201314sound/syllable/spellingboxesarecorrect; LY15jump+ed arrow and sentencecardsaccurate."
+  },
+  "browser_pngs": [
+    {
+      "name": "AC9E1LY06-1440-lesson.png",
+      "sha256": "da347ceb85226aa9e47165e89434cbbcfad383b0ca294613b1569319d6b46737",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY06-1440-native-1.png",
+      "sha256": "87590e394b39418273db6049d5fa568e311e50deff103dbae2f53cc4566d7d04",
+      "independently_opened_by_this_reviewer": true
+    },
+    {
+      "name": "AC9E1LY06-1440-native-2.png",
+      "sha256": "ae31f421d54674cf0469493cf271fa68325ba0c1106fae7223a838b7042d77e9",
+      "independently_opened_by_this_reviewer": true
+    },
+    {
+      "name": "AC9E1LY06-1440-retained-1.png",
+      "sha256": "9a89c6883006c936244b93a3a318037aa66291ce8ea8037ea54086740bedf744",
+      "independently_opened_by_this_reviewer": true
+    },
+    {
+      "name": "AC9E1LY06-1440-top.png",
+      "sha256": "51934943174d1409014875518856fe2efa0b78ed9aaa018a18d881311f5f9b61",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY06-390-lesson.png",
+      "sha256": "7ad04c564ec0d58dc20e16e240dad2ac094de838593bef29641c97780d21f322",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY06-390-top.png",
+      "sha256": "049cddba3396a1445dc4457405c24e253a3126e6fef1408db06e6aad5199dd39",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY06-768-lesson.png",
+      "sha256": "cf3ed30c6aa1d68fbabd477a7f1a67bbe717c84929aba54797e39145414eb4f2",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY06-768-top.png",
+      "sha256": "2fc5efcc0dd5cb4135d9021d6938b1f3159eb9605445c891312a91f7d09da99d",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY07-1440-lesson.png",
+      "sha256": "2d02e6ab061a42838f3d57cfb5e449506fa8bc93b476783c5323bb2254288799",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY07-1440-native-1.png",
+      "sha256": "f34a4d0d04194071332d894446670a948176c70b0ecc581b9b96929c1fb5534e",
+      "independently_opened_by_this_reviewer": true
+    },
+    {
+      "name": "AC9E1LY07-1440-native-2.png",
+      "sha256": "a9e7536b56fb6c377710061a0eb650ef11b9f1722a958631c6592dbe6f156a0a",
+      "independently_opened_by_this_reviewer": true
+    },
+    {
+      "name": "AC9E1LY07-1440-native-3.png",
+      "sha256": "a65b2322ce7ad62d01119a6c887636824f3f362b6ddc06a8ca213a0e0453b880",
+      "independently_opened_by_this_reviewer": true
+    },
+    {
+      "name": "AC9E1LY07-1440-native-4.png",
+      "sha256": "092030aa07643e719c7b426c929e8b47de7764b61e28213b8d47b6164d9d1972",
+      "independently_opened_by_this_reviewer": true
+    },
+    {
+      "name": "AC9E1LY07-1440-native-5.png",
+      "sha256": "3fbdbb6c3ac3ff9a57bef9ad5c50ebfc66353e5149772f9e30e0c957f6deb5a8",
+      "independently_opened_by_this_reviewer": true
+    },
+    {
+      "name": "AC9E1LY07-1440-native-6.png",
+      "sha256": "7bf5e70902b07fd72ed67de4086d2fb266d2d2b116e0e9aa9f35ae9298f70e4a",
+      "independently_opened_by_this_reviewer": true
+    },
+    {
+      "name": "AC9E1LY07-1440-retained-1.png",
+      "sha256": "266ff5776dc0340a6caa17c93dbaa82f9dc720b51c30e91e935334461566a0e1",
+      "independently_opened_by_this_reviewer": true
+    },
+    {
+      "name": "AC9E1LY07-1440-top.png",
+      "sha256": "a407c79354d73e49e5d531a51e82867f479c797e75a74f80cfd4a2ae276d82c8",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY07-390-lesson.png",
+      "sha256": "ba1a2e047d603c774c04c22473d0df1b1e56f744a0e4bcbe71c62e7d771473e1",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY07-390-top.png",
+      "sha256": "f524bf8de9f7281f26149801c81208468d1d1f674150d43443eefd0ed64f298b",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY07-768-lesson.png",
+      "sha256": "212aa735e9cf7a8ddbebb314794f3991c693b9b74533a75cc9cd1c4678ff70d2",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY07-768-top.png",
+      "sha256": "602317a181842f9c7ee5d9b305e44a7f857383efe7316be98e4eb3d3d509e93d",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY08-1440-lesson.png",
+      "sha256": "5faf9f7e36b915b7ebdb3f68e2d0475073494b3875a1073b0d7cc4de37cece16",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY08-1440-native-1.png",
+      "sha256": "b9bde0e120a4871842d91feb5e8f1c4982a3d5cbbea1ca086094c1a3f1d37cac",
+      "independently_opened_by_this_reviewer": true
+    },
+    {
+      "name": "AC9E1LY08-1440-retained-1.png",
+      "sha256": "9f68986cb2ed81dbd69d55cc41c5be5c1427b491fe001abc063d00a520016411",
+      "independently_opened_by_this_reviewer": true
+    },
+    {
+      "name": "AC9E1LY08-1440-retained-2.png",
+      "sha256": "d6508b4b0427f535b12e285ba0277c2c7a41d98559425bfb9b6ef2ad859ff191",
+      "independently_opened_by_this_reviewer": true
+    },
+    {
+      "name": "AC9E1LY08-1440-retained-3.png",
+      "sha256": "0c3c94908d8f248879c93a949e5054b0c63bcc0998a8dfc929b523c7253cfe20",
+      "independently_opened_by_this_reviewer": true
+    },
+    {
+      "name": "AC9E1LY08-1440-retained-4.png",
+      "sha256": "49a6cb0b4cd8c9a7463cdab772afdf1624bcb95a45a37feb637ebdae15c5f185",
+      "independently_opened_by_this_reviewer": true
+    },
+    {
+      "name": "AC9E1LY08-1440-top.png",
+      "sha256": "23ef7be308d512b9a4038cacb78705b7c3acee11aeba7e83c01ba9d078348758",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY08-390-lesson.png",
+      "sha256": "3c8c3b30b8af197f841cad858aab8fcf93d1e4c16f926ec3a66aa3250e8ede79",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY08-390-top.png",
+      "sha256": "be7918558b4e749ac8db56a1136fd1c0e0a8b503310d04ce2ba86dfb568427c8",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY08-768-lesson.png",
+      "sha256": "a946fa7745e4ffffe36b6b115e547ce9036ba1b18e41b6231c253e10731b6a6a",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY08-768-top.png",
+      "sha256": "9927b8d1a10ab2c89ea96d1630d41f59c35b2a8225c0536de7db5ff1f13b1e3c",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY09-1440-lesson.png",
+      "sha256": "6eda4238ec523ac35ae1ea1afb14a698eda0326115c2729c8eb6cbe0a9814e21",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY09-1440-native-1.png",
+      "sha256": "5e34979f426f6bbafd7a45a7ff7a5d4986c1e2bd46e5feac6aa3c50295c7c680",
+      "independently_opened_by_this_reviewer": true
+    },
+    {
+      "name": "AC9E1LY09-1440-native-2.png",
+      "sha256": "fa83e1187ee8c60c358625ef740b47f2752b99a32931b94af2d23e3a884bd950",
+      "independently_opened_by_this_reviewer": true
+    },
+    {
+      "name": "AC9E1LY09-1440-retained-1.png",
+      "sha256": "124f72131a3a2744acedb07077dd64b0611b882f827f9d3a82893134c7421e5b",
+      "independently_opened_by_this_reviewer": true
+    },
+    {
+      "name": "AC9E1LY09-1440-top.png",
+      "sha256": "1719ebbb046c01c86d1b46f3f73049c0c1c23747fed59dd311059b703c7a8dd5",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY09-390-lesson.png",
+      "sha256": "8d2d746a783f45d7218ac39190f1b72c12e099cb880ca9503767f9f82ccda393",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY09-390-top.png",
+      "sha256": "f1eca3f04df4d69b7664856240aeaff599ecbfaeb5e1a52bf7e14bbc6cef04bc",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY09-768-lesson.png",
+      "sha256": "82ee37c2a55d5e042ff78e192d269772e07f6c001675df97a2ca53f7fb8e86d9",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY09-768-top.png",
+      "sha256": "d5b2cfbf603f488c0c699702aa653bef448f11a7b7b1db426fe3d564a7e6dec8",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY10-1440-lesson.png",
+      "sha256": "29cbe5868c4d48d5482ff78e04235ff2502a9864e78206b3c1a727e4670c9819",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY10-1440-native-1.png",
+      "sha256": "0e88f3c47ba816ae710660082fd5dfb67ad260792d05d084de5065c1234778aa",
+      "independently_opened_by_this_reviewer": true
+    },
+    {
+      "name": "AC9E1LY10-1440-native-2.png",
+      "sha256": "b9f31cd9c380837821740704772e13f14ea4cdc6ec9acbd3295bebccf7f3cbcd",
+      "independently_opened_by_this_reviewer": true
+    },
+    {
+      "name": "AC9E1LY10-1440-retained-1.png",
+      "sha256": "d994547811e4370f04cb7c42ed31c571812624cb39d3905be1719192fa63649d",
+      "independently_opened_by_this_reviewer": true
+    },
+    {
+      "name": "AC9E1LY10-1440-top.png",
+      "sha256": "f53868fc3c234606ad3da448964779c6cc9bc89b88eaf0b13049f23e0e7292e2",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY10-390-lesson.png",
+      "sha256": "6d51174c57f91141d1571eecddfa29a9a7c0b6748af565fadefa4ac73a503d11",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY10-390-top.png",
+      "sha256": "558d818bc8f1bbad8fb834f1e2cd92c81abeb4b547c0020ec72de98c1ec3c281",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY10-768-lesson.png",
+      "sha256": "a120a75aad2dbf423aaf1bf4e0a80abbc42753621e6fa997cf601e2c0c5dea1d",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY10-768-top.png",
+      "sha256": "582fd378d973f0b40f950bbb6d5cbdcd1d1eec4684f9bb8df76ac93f7955cc19",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY11-1440-lesson.png",
+      "sha256": "bae57b65de4132505e34608e274484bed496bcdddf357e274a62bd996132aec7",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY11-1440-native-1.png",
+      "sha256": "f6b09db622645326a482348473439b2ea50f1f7e3a10f0fa5551635fce431cc7",
+      "independently_opened_by_this_reviewer": true
+    },
+    {
+      "name": "AC9E1LY11-1440-native-2.png",
+      "sha256": "3107f801e027ddcc03f55a05b10f3284cfe1a2745818abc73429f31db135271b",
+      "independently_opened_by_this_reviewer": true
+    },
+    {
+      "name": "AC9E1LY11-1440-retained-1.png",
+      "sha256": "9b444972e2a3dc085f69f3fd2136f86993bfd312c24bd013bcd2011ccde87d77",
+      "independently_opened_by_this_reviewer": true
+    },
+    {
+      "name": "AC9E1LY11-1440-top.png",
+      "sha256": "7984f0f97c37851644cbd1eb74acf9b1c5357e010c5831362d59d08e65091d03",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY11-390-lesson.png",
+      "sha256": "6088efea483e42313f3b68a395b61ab297bb4062f74a34521bc9688c9c4cf974",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY11-390-top.png",
+      "sha256": "2e54e6425b6f8a891eb80f26e8ff3ad17309a879f77e63f0ea8a35bce456dd1c",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY11-768-lesson.png",
+      "sha256": "bf69742716e88b4f9afb84e75f613fdb0a79514896804ec8c35349b589879795",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY11-768-top.png",
+      "sha256": "43978d5aff9058373bd364a75a71ec391eeaf4fab0705e9eb5f16e9ce9fac2f4",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY12-1440-lesson.png",
+      "sha256": "3d5335e6d2ecab7a1a95ffe832f2a9ccfed8227ef4c4f3d211c37b6a4395fa8e",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY12-1440-native-1.png",
+      "sha256": "2c21045944260cebc71cadaea0e9a6f8743f1c303459fc7658fe1ab0ec5880c1",
+      "independently_opened_by_this_reviewer": true
+    },
+    {
+      "name": "AC9E1LY12-1440-native-2.png",
+      "sha256": "3b135a7c2f8a7fa089bb472ac131877e00dacac7fd3af7d3b7c274d0efb9e61c",
+      "independently_opened_by_this_reviewer": true
+    },
+    {
+      "name": "AC9E1LY12-1440-retained-1.png",
+      "sha256": "7612b64cc7bcad199bc2cad3e5129ec5f8f5a29759c9dfd2cdde51ca7380ae1b",
+      "independently_opened_by_this_reviewer": true
+    },
+    {
+      "name": "AC9E1LY12-1440-top.png",
+      "sha256": "0c1412502875ab23eb536bb5cfdfe67af594ac2f9c66c1c9c5f6e1e24d4c2b6c",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY12-390-lesson.png",
+      "sha256": "6a3cb98e75a434d228bd3edeaf67cc3056dfc544d5bbf1f30d5083c9a39d6da1",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY12-390-top.png",
+      "sha256": "50d94757b301c2634bea5d59be366c971a551bb801144ae58bb2f7305181470e",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY12-768-lesson.png",
+      "sha256": "2e111c5f5213decf7ae05bab4058c124ce35c8efb25a04af34c8520a0af8c63c",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY12-768-top.png",
+      "sha256": "5869042bd124daf9b6b7e162ab3ba00f1dfcb0dc4a777f6c0fa68e71405b280d",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY13-1440-lesson.png",
+      "sha256": "dba82def4c9bd9a7e0e28b581cb082d261110e814ac0c7618b0a528daeed28ba",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY13-1440-native-1.png",
+      "sha256": "3bbcf42d7704c008064439f7cd74b7b2dce2d2fe4ac30a4f1b7f656ac5bb5858",
+      "independently_opened_by_this_reviewer": true
+    },
+    {
+      "name": "AC9E1LY13-1440-native-2.png",
+      "sha256": "8216a4122b9b20d55ae9a875dacda927cf5a798e6c8c2955d554350d80c09d1a",
+      "independently_opened_by_this_reviewer": true
+    },
+    {
+      "name": "AC9E1LY13-1440-retained-1.png",
+      "sha256": "cd27370add69935d6aa9087f4674a17e926520006e16ce6f85843fa503d804a8",
+      "independently_opened_by_this_reviewer": true
+    },
+    {
+      "name": "AC9E1LY13-1440-top.png",
+      "sha256": "d6b420f7d2e433ce83cec8bb2cf913663a196c9c6566a8415163bad7479f8059",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY13-390-lesson.png",
+      "sha256": "27de8839028e7d1465b245293bcc28b14c2549f5a6e6660d12bb4c1e91c64874",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY13-390-top.png",
+      "sha256": "e9343ea64a49f24a48a8e1041d122edb78f11ba245bfea2853a40a2f28b9ae73",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY13-768-lesson.png",
+      "sha256": "f3535e776c301d9b0986350a099c698ecbf20157d1da46de0ae1a633ea27f694",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY13-768-top.png",
+      "sha256": "5c254dbc0a2d83b5eef3896330cf5983fd1daf1361071632896c299e82983b2b",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY14-1440-lesson.png",
+      "sha256": "085c5504d85f6c966edb129ad3cfb19a3184dd2a13eef6593c8f6308d7eb657a",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY14-1440-native-1.png",
+      "sha256": "55ed0392d322b9656789d3f1b2f0e012daa3d8797d924233ef041559e213ee11",
+      "independently_opened_by_this_reviewer": true
+    },
+    {
+      "name": "AC9E1LY14-1440-native-2.png",
+      "sha256": "60a8a88200350412cf58eceb6871a2a49a68c2650ef5d3ac1a591d6ae14309fc",
+      "independently_opened_by_this_reviewer": true
+    },
+    {
+      "name": "AC9E1LY14-1440-retained-1.png",
+      "sha256": "4546d2c88fc3d1fe7a721816be98ebad8f3c22c715dfdd519944b2a0edc8d937",
+      "independently_opened_by_this_reviewer": true
+    },
+    {
+      "name": "AC9E1LY14-1440-top.png",
+      "sha256": "f6f2956c05357527f08fd0c696d7eab34676c018961920c66a4227ac14502800",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY14-390-lesson.png",
+      "sha256": "c6383dfa0289da7932029995931e982c092b0491f63a5eb015427c4f601c786b",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY14-390-top.png",
+      "sha256": "56246862bb20a75f3509570079e2c2cc1c93f65eaf5571ccdc5b04aa4db6383c",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY14-768-lesson.png",
+      "sha256": "2b38202c843541e8a775f48e5b8b459aca829ff950835ec97c6ca0e350f19ca0",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY14-768-top.png",
+      "sha256": "34f10c8a30ded154ac3a9fd5d76843a8da7356eb1be382590214e770f9ed5159",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY15-1440-lesson.png",
+      "sha256": "4354e4a9cb64e4cd3d1cb83273469b17c4784c5678af30a8947fc3776292a5ee",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY15-1440-native-1.png",
+      "sha256": "381159ff2a1668348d521fac2e869b012369fa7db39944b1d9ec90595f6acb54",
+      "independently_opened_by_this_reviewer": true
+    },
+    {
+      "name": "AC9E1LY15-1440-native-2.png",
+      "sha256": "4418c15c3947f2529d2f204812b748d7c54e26da96f0f2926caa2a9e1460873d",
+      "independently_opened_by_this_reviewer": true
+    },
+    {
+      "name": "AC9E1LY15-1440-retained-1.png",
+      "sha256": "58ae18b73c311df1ecba445e4387b6490c8b640510f7fbf887e88ab024b46425",
+      "independently_opened_by_this_reviewer": true
+    },
+    {
+      "name": "AC9E1LY15-1440-top.png",
+      "sha256": "e00ebd55484ad0bfa7c5d3647be004e1c94c86b45a8cb12f16ed255f79928e79",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY15-390-lesson.png",
+      "sha256": "54945810d8783627620d2fa47baf21f310c305b9d76cd71172d934ce0dfe1219",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY15-390-top.png",
+      "sha256": "b86cde8a36a802118d1716b0ab604bc4e252ceddc28dd6cf7ca281e70624d264",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY15-768-lesson.png",
+      "sha256": "2353eb414c6f876707e4fe7e7b3569b685d307932644966213d97831714a7e90",
+      "independently_opened_by_this_reviewer": false
+    },
+    {
+      "name": "AC9E1LY15-768-top.png",
+      "sha256": "02cea35a905aeabb4cd0e12ad12d240ae665337354e00d8e0a80a7a2b27e68f6",
+      "independently_opened_by_this_reviewer": false
+    }
+  ],
+  "current_review_inputs": [
+    {
+      "path": "docs/qa/year1-english-topic-pages-batch3-20261110/page-content.json",
+      "bytes": 45911,
+      "sha256": "c5f6bd35198fed49a19812505e31cfa62592e8b8d547d5fa570e5edefe08286c"
+    },
+    {
+      "path": "docs/qa/year1-english-topic-pages-batch3-20261110/retained-corrections.json",
+      "bytes": 5029,
+      "sha256": "e900711371bccff3a2b29523a7b186008fd905b597ab528ca15f122975a365e5"
+    },
+    {
+      "path": "docs/qa/year1-english-topic-pages-batch3-20261110/inventory.json",
+      "bytes": 6509,
+      "sha256": "32692732a639238a6b2f722da9d933160ce09d41f2e2a5d982b3d969413286db"
+    },
+    {
+      "path": "docs/qa/year1-english-topic-pages-batch3-20261110/artwork-and-evidence.json",
+      "bytes": 12907,
+      "sha256": "eb3de1dc2b95a2bab1b0b974947db1fc82dec0fd45fb0bd6763d216b18c01b65"
+    },
+    {
+      "path": "docs/qa/year1-english-topic-pages-batch3-20261110/retained-inventory-plan.json",
+      "bytes": 20297,
+      "sha256": "c871e9c2a8228a62c01de70694653503d974caea949d358559522a04ff5eea2c"
+    }
+  ],
+  "current_pages": [
+    {
+      "path": "year1/english/ac9e1ly06-and-re-read-to-edit-short-written-and-or-multimodal-texts-to/index.html",
+      "bytes": 28266,
+      "sha256": "1bd93762b25bb308cfe773d1872a03770b729a011cadb209364b04163d62503c"
+    },
+    {
+      "path": "year1/english/ac9e1ly07-and-deliver-short-oral-and-or-multimodal-presentations-on/index.html",
+      "bytes": 33707,
+      "sha256": "eb7c70098f03f24916d2c0adaa6a747b3229d74127dc315c54d017e1dc4cda09"
+    },
+    {
+      "path": "year1/english/ac9e1ly08-words-using-unjoined-lower-case-and-upper-case-letters/index.html",
+      "bytes": 36463,
+      "sha256": "6c0876ccf47b6179f6e6b71d6d874bc82e84a708476593c508900ac118ea7a0b"
+    },
+    {
+      "path": "year1/english/ac9e1ly09-words-into-separate-phonemes-sounds-including-consonant-blends/index.html",
+      "bytes": 27428,
+      "sha256": "f0c139144de7ec29eb20c015bf12129d29f9d86bc62c53b864c308bb61f0adcd"
+    },
+    {
+      "path": "year1/english/ac9e1ly10-manipulate-phonemes-in-spoken-words-by-addition-deletion-and/index.html",
+      "bytes": 28252,
+      "sha256": "c903e5367abaf4d1d76502ebc692975ef36385f02cb4dd41f21f7e6adda8d0aa"
+    },
+    {
+      "path": "year1/english/ac9e1ly11-short-vowels-common-long-vowels-consonant-blends-and-digraphs-to/index.html",
+      "bytes": 28500,
+      "sha256": "3f862db6d630920ff4e18e2db42fa23b081fbdd9b724eda705c4d011748f9603"
+    },
+    {
+      "path": "year1/english/ac9e1ly12-that-a-letter-can-represent-more-than-one-sound-and/index.html",
+      "bytes": 27504,
+      "sha256": "4ffb3ed7973acf3abbfd8bcd2a8026ce4a4b28e4c5872e3f2b9b9d4bb06f61d6"
+    },
+    {
+      "path": "year1/english/ac9e1ly13-one-and-two-syllable-words-with-common-letter-patterns/index.html",
+      "bytes": 26858,
+      "sha256": "dd165c10d027d8f9458dca230d4903217af8b8ebb2920a0de2c4ec375dc62871"
+    },
+    {
+      "path": "year1/english/ac9e1ly14-and-write-an-increasing-number-of-high-frequency-words/index.html",
+      "bytes": 27315,
+      "sha256": "b72a94d9cef0919263480c6be253f804b93e57be1ce88d6483de880a2556d5fc"
+    },
+    {
+      "path": "year1/english/ac9e1ly15-and-know-how-to-use-grammatical-morphemes-to-create-word/index.html",
+      "bytes": 27788,
+      "sha256": "7060da998588d934be4f9e96518e763c4fb6d4ed2a4bcd6f0370275c2ef86017"
+    }
+  ],
+  "initial_content_review_reconciliation": {
+    "status": "PASS \u2014 independent source/content review complete",
+    "sha256": "862fba985ff1b3e29dcaaf15f0d46b27867368ac47709d28d59ba1ba6269b52d",
+    "reviewed": "All13corrections and exact currentpagepins agree. No unresolved release blockers; narrowLY15paragraphdeletion independently proved.",
+    "optional_backlog_carried": [
+      {
+        "code": "AC9E1LY13",
+        "note": "The retained rabbit question phrasing remains awkward; its explicit standard-spelling answer now prevents the old doubling inference. Optional wording polish, not a correctness blocker."
+      }
+    ]
+  }
+}
