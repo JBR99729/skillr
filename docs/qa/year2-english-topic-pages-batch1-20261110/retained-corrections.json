@@ -32,6 +32,15 @@
     "reason": "Remove repeated exact curriculum descriptor; preserve once in alignment and preserve the learning explanation/goals/routine."
   },
   {
+    "code": "AC9E2LA04",
+    "section": "Earlier worked model",
+    "attribute": "d",
+    "before": "M203 60H158m-7-5l7 5-7 5",
+    "after": "M203 60H158m7-5l-7 5 7 5",
+    "occurrences": 1,
+    "reason": "Correct back-reference arrowhead to point left from They to The chicks; all other existing SVG geometry/text preserved."
+  },
+  {
     "code": "AC9E2LA05",
     "section": "Learning goals",
     "before": "Learning target: navigate print and screen texts using chapters, tables of contents, indexes, side-bar menus, drop-down menus or links",

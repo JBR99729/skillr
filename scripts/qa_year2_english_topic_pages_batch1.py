@@ -41,7 +41,7 @@ for x in inv:
  previous=old.xpath('//section[contains(@class,"lesson-preview")]//div[@class="lesson-preview-example"]')[0]
  expected=' '.join(' '.join(normalize(e)for e in previous if e.tag!='h2').split())
  for repair in repairs:
-  if repair['code']==c and repair['section']=='Earlier worked model':
+  if repair['code']==c and repair['section']=='Earlier worked model' and not repair.get('attribute'):
    assert expected.count(repair['before'])==repair['occurrences'],c+' earlier correction baseline'
    expected=expected.replace(repair['before'],repair['after'])
  expected=' '.join(expected.split())
@@ -52,7 +52,13 @@ for x in inv:
   for node in e.iter():
    attrs={k.lower():v.replace('retained-'+c.lower()+'-','')for k,v in node.attrib.items()};node.attrib.clear();node.attrib.update(sorted(attrs.items()))
   return html.tostring(e,encoding='unicode',method='html',with_tail=False)
- assert [svg_identity(e)for e in previous.xpath('.//svg')]==[svg_identity(e)for e in now.xpath('//section[@class="earlier-worked-model"]//svg')],c+' earlier exact SVG geometry'
+ previous_models=copy.deepcopy(previous)
+ for repair in repairs:
+  if repair['code']==c and repair['section']=='Earlier worked model' and repair.get('attribute'):
+   matches=previous_models.xpath('.//*[@'+repair['attribute']+'=$v]',v=repair['before']);assert len(matches)==repair['occurrences'],c+' original SVG repair identity'
+   for node in matches:node.set(repair['attribute'],repair['after'])
+   assert len(earlier.xpath('.//*[@'+repair['attribute']+'=$v]',v=repair['after']))==repair['occurrences'],c+' corrected SVG geometry'
+ assert [svg_identity(e)for e in previous_models.xpath('.//svg')]==[svg_identity(e)for e in now.xpath('//section[@class="earlier-worked-model"]//svg')],c+' earlier SVG preserved except declared bounded repair'
  prior_retained_svgs=[s for label in x['retained_sections']for e in old.xpath('//main//details')if normalize(e.find('summary'))==label for s in e.xpath('.//svg')]
  assert [svg_identity(e)for e in prior_retained_svgs]==[svg_identity(e)for e in now.xpath('//div[@class="retained-teaching"]/details//svg')],c+' all retained SVG geometry'
  assert len(now.xpath('//div[@class="steps"]/article'))==3 and len(now.xpath('//section[contains(@class,"tricky-questions")]/details'))==3,c+' teaching focuses'
