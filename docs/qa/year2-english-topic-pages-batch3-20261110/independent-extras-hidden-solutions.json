@@ -1,0 +1,85 @@
+{
+  "reviewer": "/root/content_review independent AI reviewer",
+  "timestamp_utc": "2026-11-10T04:17:06.132936+00:00",
+  "saved_before_complete_extra_key_read": true,
+  "blind_input_sha256": "ef97f41401c81051d149c610b3358f4ea60f923b7b48f7f511d30f2d19adeb05",
+  "scope": "All14 newly restored adult/fresh hidden task targets in corrected extras blind file; visible31packet criteria saved separately.",
+  "solutions": [
+    {
+      "id": "extra20-oral1",
+      "input": "slip without initial s",
+      "solution": "lip; keep l/i/p in order."
+    },
+    {
+      "id": "extra20-oral2",
+      "input": "best without s",
+      "solution": "bet; keep final t."
+    },
+    {
+      "id": "extra20-oral3",
+      "input": "tent without final t",
+      "solution": "ten; retain first t and middle vowel/n."
+    },
+    {
+      "id": "extra20-oral4",
+      "input": "clap final p to m",
+      "solution": "clam; retain k/l/short-a and exchange only last phoneme."
+    },
+    {
+      "id": "extra22-fresh1",
+      "input": "plan without l then write/read",
+      "solution": "pan; p/short-a/n, conventional spelling p-a-n then reread."
+    },
+    {
+      "id": "extra22-fresh2",
+      "input": "clap first k to f then write/read",
+      "solution": "flap; f/l/short-a/p, spelling f-l-a-p then reread."
+    },
+    {
+      "id": "extra22-stretch",
+      "input": "slam vowel to sit; then l to w",
+      "solution": "slim, then swim; four phonemes each, one named substitution per step; retain s and m."
+    },
+    {
+      "id": "extra24-tail",
+      "input": "tail in dog wagged its tail, dictated",
+      "solution": "tail; t/long-a/l, t-ai-l three phonemes, four letters. Context selects tail not tale; conventional word exact."
+    },
+    {
+      "id": "extra24-bright",
+      "input": "bright in lamp is bright, dictated",
+      "solution": "bright; b/r/long-i/t four phonemes. Spell b-r-igh-t, six letters; retain final t and gh within vowel spelling."
+    },
+    {
+      "id": "extra24-sunhat",
+      "input": "sunhat in packed my sunhat, dictated",
+      "solution": "sunhat = sun+hat. Six phonemes in common pronunciation; s-u-n-h-a-t six letters and two meaningful words."
+    },
+    {
+      "id": "extra28-some",
+      "input": "some in There is some milk, dictated",
+      "solution": "some; s/vowel-in-come/m, o encodes short-u here and final e not pronounced separately; s-o-m-e then reread. Giving come clue is support and must be recorded."
+    },
+    {
+      "id": "extra28-painted",
+      "input": "painted in Yesterday I painted a box, dictated",
+      "solution": "painted = paint+ed; retain a-i and add e-d, past-time ending adds a syllable. Exact painted spelling and actual rereading required."
+    },
+    {
+      "id": "extra31-repack",
+      "input": "pack again from known base pack",
+      "solution": "repack = re+pack; re before base means again. Example: I will repack my bag. Retain pack including ck."
+    },
+    {
+      "id": "extra31-packer",
+      "input": "someone who packs from base pack",
+      "solution": "packer = pack+er; suffix er after pack names a person doing action. Retain pack and conventional spelling packer."
+    }
+  ],
+  "finding": {
+    "id": "CR-LY10-DICTATION",
+    "location": "AC9E2LY10 packet Map, write and reread/adult dictation card",
+    "impact": "Adult is told both to say the target and not pronounce the written answer before spelling. Literal directions conflict, creating avoidable ambiguity about necessary dictation.",
+    "recommended": "Say the target word and its sentence aloud. Keep the printed word hidden and do not name its letters or show its spelling until the learner has written it."
+  }
+}

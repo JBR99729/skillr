@@ -1,0 +1,19 @@
+{
+  "pr": 986,
+  "merged": true,
+  "merge_commit": "6d99ce6d1d4c9a10384e535b459e441748759ad5",
+  "main_after_sitemap": "1eebd0af9ae0cc14fc714f0b3b4f3d1a8ac4cffc",
+  "pages_run": 42752120428,
+  "pages_status": "completed",
+  "pages_conclusion": "success",
+  "homepage_http": 200,
+  "source": "GitHub connector current PR metadata and Actions runs; actual curl homepage response 2026-11-10T04:05Z",
+  "affected_page_check": {
+    "url": "https://skillrhub.com/year2/english/ac9e2le01-how-characters-and-settings-are-connected-in-literature-created/",
+    "http_status": 200,
+    "checked": "2026-11-10T04:05:32Z",
+    "method": "Actual HTTPS GET",
+    "sha256": "f7190b51bd7e0e9b4f4836a38c1864ee0aa78a44103f9132403a9affaefbf7bc",
+    "matches_reviewed_merged_html": true
+  }
+}

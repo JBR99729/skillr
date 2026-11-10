@@ -1,0 +1,51 @@
+name: Year 2 English batch 3 topic-page browser QA
+on:
+  pull_request:
+    paths:
+      - 'year2/english/ac9e2ly1*/index.html'
+      - 'year2/english/ac9e2ly0[6-9]*/index.html'
+      - 'assets/css/year2-english-topic-pages-batch3.css'
+      - 'style.css'
+      - 'assets/curriculum.css'
+      - 'assets/topic-practice-link.css'
+      - 'assets/css/year3-science-topic-pages.css'
+      - 'assets/css/science-topic-release.css'
+      - 'assets/css/foundation-english-topic-pages.css'
+      - 'assets/css/year1-english-topic-pages.css'
+      - 'assets/learning-navigation.js'
+      - 'assets/report-issue.js'
+      - 'pwa-register.js'
+      - 'assets/topic-visuals/year1/**'
+      - 'assets/teaching-models/year1/**'
+      - 'assets/topic-visuals/reused/growing-plants.webp'
+      - '.github/workflows/year2-english-topic-pages-batch3-browser-qa.yml'
+      - 'scripts/qa_year2_english_topic_pages_batch3_browser.cjs'
+      - 'docs/qa/year2-english-topic-pages-batch3-20261110/inventory.json'
+permissions:
+  contents: read
+concurrency:
+  group: year2-english-topic-pages-batch3-browser-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+jobs:
+  browser:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm ci
+      - name: Check 7 authored pages at three screen widths
+        run: |
+          python3 -m http.server 8765 --bind 127.0.0.1 > /tmp/year2-english-batch3-qa-server.log 2>&1 &
+          server_pid=$!
+          trap 'kill "$server_pid"' EXIT
+          node scripts/qa_year2_english_topic_pages_batch3_browser.cjs
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: year2-english-topic-pages-batch3-browser
+          path: artifacts/year2-english-topic-pages-batch3-browser/
+          retention-days: 7

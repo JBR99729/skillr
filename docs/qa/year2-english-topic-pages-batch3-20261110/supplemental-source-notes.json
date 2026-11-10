@@ -1,0 +1,86 @@
+{
+  "date": "2026-11-10 Australia/Sydney",
+  "new_primary_reopens": [
+    {
+      "url": "https://www.qcaa.qld.edu.au/downloads/aciqv9/english/curriculum/ac9_english_yr2_as_cd_alignment.pdf",
+      "locator": "Current complete Year2 descriptor alignment pages1–3",
+      "observation": "Seven code descriptions and overall Year2 writing/reading boundaries crosschecked."
+    },
+    {
+      "url": "https://www.scootle.edu.au/ec/search?accContentId=AC9E2LY06",
+      "locator": "Curriculum content description and Elaborations near page top",
+      "observation": "Actual exact description and every elaboration agree with units.json, allowing typographical hyphen/en-dash variants only."
+    },
+    {
+      "url": "https://www.scootle.edu.au/ec/search?accContentId=AC9E2LY07",
+      "locator": "Curriculum content description and Elaborations near page top",
+      "observation": "Actual exact description and every elaboration agree with units.json, allowing typographical hyphen/en-dash variants only."
+    },
+    {
+      "url": "https://www.scootle.edu.au/ec/search?accContentId=AC9E2LY08",
+      "locator": "Curriculum content description and Elaborations near page top",
+      "observation": "Actual exact description and every elaboration agree with units.json, allowing typographical hyphen/en-dash variants only."
+    },
+    {
+      "url": "https://www.scootle.edu.au/ec/search?accContentId=AC9E2LY09",
+      "locator": "Curriculum content description and Elaborations near page top",
+      "observation": "Actual exact description and every elaboration agree with units.json, allowing typographical hyphen/en-dash variants only."
+    },
+    {
+      "url": "https://www.scootle.edu.au/ec/search?accContentId=AC9E2LY10",
+      "locator": "Curriculum content description and Elaborations near page top",
+      "observation": "Actual exact description and every elaboration agree with units.json, allowing typographical hyphen/en-dash variants only."
+    },
+    {
+      "url": "https://www.scootle.edu.au/ec/search?accContentId=AC9E2LY11",
+      "locator": "Curriculum content description and Elaborations near page top",
+      "observation": "Actual exact description and every elaboration agree with units.json, allowing typographical hyphen/en-dash variants only."
+    },
+    {
+      "url": "https://www.scootle.edu.au/ec/search?accContentId=AC9E2LY12",
+      "locator": "Curriculum content description and Elaborations near page top",
+      "observation": "Actual exact description and every elaboration agree with units.json, allowing typographical hyphen/en-dash variants only."
+    },
+    {
+      "url": "https://www.abc.net.au/education/english-year-2-with-tahlia-suffixes/13597292",
+      "locator": "Transcript70–83, particularly79–83",
+      "observation": "Complete base/suffix explanation and actual matching game including a rejected nonword, valid alternative words and sentence/picture meaning check. Protected book excerpts/art not transferred; no audio/video playback."
+    },
+    {
+      "url": "https://www.literacyhub.edu.au/professional-learning/implementing-a-systematic-synthetic-phonics-approach/morphology-instruction-and-ssp/",
+      "locator": "Instructional model, word-web and application sections",
+      "observation": "Explicit model/guided/independent morphology, pronunciation/meaning, word webs and contextual spelling/reading transfer; no linked uninspected slide claims."
+    },
+    {
+      "url": "https://www.literacyhub.edu.au/professional-learning/implementing-a-systematic-synthetic-phonics-approach/spelling-generalisations-and-ssp/",
+      "locator": "Explanation80–113 and sample model/review application lower section",
+      "observation": "Patterns are generalisations, not absolutes; ea has different word-specific vowels. Reading and writing need separate application."
+    },
+    {
+      "url": "https://www.literacyhub.edu.au/video-assets/plm3-phonological-awareness-accessibility/",
+      "locator": "Phonemic awareness; sound boxes; digraph/cluster transcript sections",
+      "observation": "Actual written explanations and tasks distinguish sounds from letters, one sound per box and spoken manipulation. No heard source phonemes."
+    },
+    {
+      "url": "https://www.thenational.academy/teachers/lessons/silent-letters-the-kn-spelling",
+      "locator": "Key points; starter quiz4–5; exit quiz",
+      "observation": "Actual kn for /n/ model, correct thumb spelling in context and spelling task families. Source word-family connection does not imply every same-looking string has a shared morpheme."
+    },
+    {
+      "url": "https://www.thenational.academy/teachers/programmes/english-primary-ks1/units/suffixes/lessons/spelling-compound-words",
+      "locator": "Key points and matching/context exit quiz",
+      "observation": "Actual compound spelling and word matching. Do not transfer source definition of polysyllabic as more than one sound; syllables are vowel-centred beats, not phonemes."
+    },
+    {
+      "url": "https://www.abc.net.au/education/media-literacy/nimn-audio-tips/104688244",
+      "locator": "Style and structure section67–70",
+      "observation": "One-topic audience/format and point-order planning method. Competition recording/submission rules are not part of these school guide activities."
+    }
+  ],
+  "limits": [
+    "No fresh IXL dot progression or new authenticated student submissions. Reused observed IXL task/help methods remain bounded to their actual recorded progression.",
+    "Research-log legacy filename returned404 in both repositories; current source ledgers, per-code QA and pinned later closures were used instead.",
+    "Source videos/audio not watched/heard, pupil handwriting/speech not observed, and finished guide renders not yet reviewed.",
+    "Older source grade labels supply methods only; units exact Year2 scope controls language and demands."
+  ]
+}

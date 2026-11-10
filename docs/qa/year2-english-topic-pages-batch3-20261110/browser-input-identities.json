@@ -1,0 +1,116 @@
+[
+  {
+    "path": "year2/english/ac9e2ly06-and-edit-short-imaginative-informative-and-persuasive-written/index.html",
+    "sha256": "44895e53bfe079adb0bf58f485e8b99ad52de25c45a53dbd5b7f41115e9f67fb",
+    "git_blob_sha": "9d006670b14bc38c48c4916a5975880f1d31f076",
+    "bytes": 39409
+  },
+  {
+    "path": "year2/english/ac9e2ly07-create-rehearse-and-deliver-short-oral-and-or-multimodal/index.html",
+    "sha256": "e5198bb1dbbb7b95ceee53f1a3e333d1c18fc12aa2d77ab35619bf1dbe36ca60",
+    "git_blob_sha": "c81cd42eaeb1131f7bc22115d24cc7482d79045f",
+    "bytes": 35351
+  },
+  {
+    "path": "year2/english/ac9e2ly08-words-legibly-and-with-growing-fluency-using-unjoined-upper/index.html",
+    "sha256": "9b94723ea1df67f600094630a00b8258528284ff95d5fb300b8796ebf812137a",
+    "git_blob_sha": "ddbd298498b91b7940681ea79153bb3f3d5a5103",
+    "bytes": 34027
+  },
+  {
+    "path": "year2/english/ac9e2ly09-manipulate-more-complex-sounds-in-spoken-words-and-use-knowledge/index.html",
+    "sha256": "bcc01c591c1f73a34aaf4bfaccc186dd1e05b6e2fe0036b2c2dfd685fcc2e6a6",
+    "git_blob_sha": "2d67d7e305b1d4a8e50fe4ff8233b5c5977f16dd",
+    "bytes": 30627
+  },
+  {
+    "path": "year2/english/ac9e2ly10-phoneme-grapheme-sound-letter-s-matches-including-vowel/index.html",
+    "sha256": "595f5800600c77898ad790eccb5dd29a31afad4bfe61936b0dbe0a8256c7b99d",
+    "git_blob_sha": "8a365817cd80b8ff6e6daa1e88415e96943ee94f",
+    "bytes": 29504
+  },
+  {
+    "path": "year2/english/ac9e2ly11-knowledge-of-spelling-patterns-and-morphemes-to-read-and-write/index.html",
+    "sha256": "8ab94f68a4a93cf09568d02e020ed6dbbc264e7e821b9fba10bf0cce0dcb6ad5",
+    "git_blob_sha": "91c46ea420eb808d2fa5318c15a05887e52d361b",
+    "bytes": 30874
+  },
+  {
+    "path": "year2/english/ac9e2ly12-build-morphemic-word-families-using-knowledge-of-prefixes-and/index.html",
+    "sha256": "e672bd668d7da93637a18115f3d1c0e95a773945cb8195da5ff05fbf1422f844",
+    "git_blob_sha": "8f40ae57a0f4494c9193e26eb6a9d131187ce2dd",
+    "bytes": 29117
+  },
+  {
+    "path": "style.css",
+    "sha256": "ae989b9bfe20db6ac741e2df4cc0dbeeffd3d8fcf8d8e1d0e5ffd5dd05821fae",
+    "git_blob_sha": "08cc59e74479fce7b164a1420b620fb85d735c66",
+    "bytes": 105418
+  },
+  {
+    "path": "assets/curriculum.css",
+    "sha256": "c65198923858734e005d9e6ad76d55156e8f39a3cdc8f08524e62fdda8e2d9f2",
+    "git_blob_sha": "7382c6d8e5feb5f1f022617d0c24f7d2662ae4d9",
+    "bytes": 25387
+  },
+  {
+    "path": "assets/css/year3-science-topic-pages.css",
+    "sha256": "9f9a698f33023163f2ae4508b0fd52c82a9ceeec5ed8520daa6d181ed8e86480",
+    "git_blob_sha": "9bc058ff23a17af8e0e720270c1b02a26035257d",
+    "bytes": 8721
+  },
+  {
+    "path": "assets/css/science-topic-release.css",
+    "sha256": "41284b9009408203275beb157601f7b8b870a44b6820da61bd96770c1eab280c",
+    "git_blob_sha": "6a6bb91383d29dedf2ffb1cac54f09d40875e7a0",
+    "bytes": 209
+  },
+  {
+    "path": "assets/css/foundation-english-topic-pages.css",
+    "sha256": "e6864419fb7478108ae0bf76f3e46f5cb33a27e86784856b4419343f5cac9346",
+    "git_blob_sha": "d6150a46301092e099ae182d357d8629134e6136",
+    "bytes": 6178
+  },
+  {
+    "path": "assets/css/year1-english-topic-pages.css",
+    "sha256": "ac8b008c723d1a3b53d9770337d8f47b2487b8e7a53d8aad0c94e6d53f3530f2",
+    "git_blob_sha": "77c24d315e64aa270729e9d25da6a0b188f83fa8",
+    "bytes": 2145
+  },
+  {
+    "path": "assets/css/year2-english-topic-pages-batch3.css",
+    "sha256": "d62f2058eb430f7759aac4b6116025d84508352969487c3976913f33d13f2177",
+    "git_blob_sha": "f83d9c0aee9c23ac26a435a353cb0c56840446ee",
+    "bytes": 2816
+  },
+  {
+    "path": "assets/learning-navigation.js",
+    "sha256": "89e543a284bcf8b0539fb7cf8dbfd713fd37cb33124d715ddf28bbf01fe563b8",
+    "git_blob_sha": "314f0d6c9a2ac17cd39b1462e15519dec7de1ea6",
+    "bytes": 3721
+  },
+  {
+    "path": "assets/report-issue.js",
+    "sha256": "50f7f758183d698fbe2002f67ccfc73ced626664feafce157f8aef2c44aa536b",
+    "git_blob_sha": "7f96576f3b3b4cdfd26c06b6dbccc6b7718dbea8",
+    "bytes": 3484
+  },
+  {
+    "path": "pwa-register.js",
+    "sha256": "ce15b45896dc2ff29e83cc0cb4ca6c98bc3e9bf4dc5b17b72009c4ab3707d22d",
+    "git_blob_sha": "a6722b570107fdb5b7c434eed55e135b407533fb",
+    "bytes": 6198
+  },
+  {
+    "path": "scripts/qa_year2_english_topic_pages_batch3_browser.cjs",
+    "sha256": "54b589561556965894780649765ef8b5f5301184a23cf5dbf3a011bb744132f8",
+    "git_blob_sha": "b490439833b8f19d6827957e693b3c2a09dad8d0",
+    "bytes": 12674
+  },
+  {
+    "path": "assets/topic-practice-link.css",
+    "sha256": "55b40419f335610abc5aa5adc3549af4c4105ea9ada9ea7f151f1d53539d47dc",
+    "git_blob_sha": "ee6bba366d28e3488a4605ecb16bc24671b58862",
+    "bytes": 1912
+  }
+]

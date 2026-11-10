@@ -1,0 +1,219 @@
+{
+  "reviewer": "/root/content_review independent AI reviewer; no authoring contribution",
+  "saved_before_key_read": true,
+  "timestamp_utc": "2026-11-10T04:13:54.069161+00:00",
+  "blind_input_sha256": "0d9084e07fe961eba4ea33b191726ac9cd630d7d929605d3eb8f64fefad0d2b2",
+  "scope": "All42 new guided/tricky formative prompts; not app-bank scored items. Performance tasks receive observation criteria, not invented observed outcomes.",
+  "solutions": [
+    {
+      "id": "AC9E2LY06-guided-1",
+      "prompt": "Plan a short story for a classmate: A paper hat blows away in the playground. Who helps, what happens next and how does it end?",
+      "independent_solution_or_response_criteria": "A valid short plan identifies the wearer and a helper, keeps the hat blowing away as the problem, links the helper’s action to retrieving it and ends with a resolution. Example original plan: Jo wears a paper hat; wind carries it towards the empty bench; Pat catches it beside the bench; Jo puts it safely in the bag. Other coherent safe responses accepted; avoid requiring this exact narrative."
+    },
+    {
+      "id": "AC9E2LY06-guided-2",
+      "prompt": "Join “The path was muddy.” and “We wore boots.” to show a result. Then replace “thing” in “We filled the thing with soil” with a precise gardening word.",
+      "independent_solution_or_response_criteria": "The path was muddy, so we wore boots. Both clauses are complete and so links cause/result. A precise conventional gardening noun could be pot, seed tray or planter according to the intended object; We filled the seed tray with soil is valid. No unique container is specified, so accept suitable choices."
+    },
+    {
+      "id": "AC9E2LY06-guided-3",
+      "prompt": "Edit “lena carried a thing to the garden. He put it by the shed” so Lena carries a seed tray. In this story Lena uses she. What should change?",
+      "independent_solution_or_response_criteria": "Lena carried a seed tray to the garden. She put it by the shed. Capitalise Lena, replace thing with seed tray, replace He with She as specified and add final full stop. It clearly refers to seed tray."
+    },
+    {
+      "id": "AC9E2LY06-tricky-1",
+      "prompt": "1. Is “Lena packed seeds and pots” a compound sentence?",
+      "independent_solution_or_response_criteria": "No. Lena packed seeds and pots has one clause; and joins two nouns within the object, not two complete clauses."
+    },
+    {
+      "id": "AC9E2LY06-tricky-2",
+      "prompt": "2. Must I use the longest possible noun group?",
+      "independent_solution_or_response_criteria": "No. Select useful precise detail for purpose/audience; extra words may obscure meaning."
+    },
+    {
+      "id": "AC9E2LY06-tricky-3",
+      "prompt": "3. Can a text be correctly spelt but still need editing?",
+      "independent_solution_or_response_criteria": "Yes. Correct spelling does not establish coherent ideas, order, accurate pronouns, complete sentences, suitable vocabulary or punctuation."
+    },
+    {
+      "id": "AC9E2LY07-guided-1",
+      "prompt": "Use these model facts for a short class report: the reading box is beside the mat; it holds books for quiet reading; return each book with its cover facing the front. Give an opening, two useful points and an ending.",
+      "independent_solution_or_response_criteria": "Accept an opening naming the reading box and explanatory purpose; two points that combine supplied location/use/return facts appropriately; and an ending that closes the message. Example: I will explain our reading box. It is beside the mat and holds books for quiet reading. When you finish, put each book back with its cover facing the front. Now you know how to find, use and return our books. Coherence and factual fit matter, not exact wording."
+    },
+    {
+      "id": "AC9E2LY07-guided-2",
+      "prompt": "Make the three-box cue on paper. Rehearse your talk, ask “What should you do when you finish reading?” and use the listener’s answer to choose one improvement.",
+      "independent_solution_or_response_criteria": "Actual cue artefact should show ordered choose/read/return boxes or equivalent accessible cues. Listener should explain returning the book with cover facing front after reading. Rehearse, ask the question, use the actual answer to identify one specific needed change and try again. This is observed performance with flexible criteria, not a fixed written answer."
+    },
+    {
+      "id": "AC9E2LY07-guided-3",
+      "prompt": "Deliver the short reading-box presentation to a familiar listener. Try the welcome and care reminder too. Ask what the listener understood and whether the pace and volume helped.",
+      "independent_solution_or_response_criteria": "Observe actual ordered reading-box delivery and both welcome/care-reminder attempts. Topic words and facts should be clear; comfortable audible volume, manageable pace/pauses and tone should suit listener and purpose. Ask what was understood and adapt to feedback. Record support; text alone cannot prove delivery quality."
+    },
+    {
+      "id": "AC9E2LY07-tricky-1",
+      "prompt": "1. Can the same words sound welcoming or like a reminder?",
+      "independent_solution_or_response_criteria": "Yes. Tone, pace, emphasis and context can change the intention heard. Actual listening/model comparison required; there is no single universal pitch rule."
+    },
+    {
+      "id": "AC9E2LY07-tricky-2",
+      "prompt": "2. Does reading every cue prove the audience understood?",
+      "independent_solution_or_response_criteria": "No. Ask the listener what they understood or ask a relevant check question; cue reading is not comprehension evidence."
+    },
+    {
+      "id": "AC9E2LY07-tricky-3",
+      "prompt": "3. Must I keep speaking if the listener is confused?",
+      "independent_solution_or_response_criteria": "No. Pause, clarify or repeat the confusing point, check understanding and adjust delivery respectfully."
+    },
+    {
+      "id": "AC9E2LY08-guided-1",
+      "prompt": "With an adult’s handwritten model beside you, write “Sam” and “bag” without tracing. What should the adult check?",
+      "independent_solution_or_response_criteria": "Observe actual writing from the nearby adult handwritten model, not tracing. Check recognisable unjoined S/a/m and b/a/g, correct upper/lower case, school-taught start and movement, legible sequence, suitable spacing and comfort/control. Do not judge solely the resulting typed word."
+    },
+    {
+      "id": "AC9E2LY08-guided-2",
+      "prompt": "Copy the adult’s model “Sam has a red mug.” Leave clear word gaps and compare a short letter, a tall letter and a letter with a part below the baseline.",
+      "independent_solution_or_response_criteria": "Actual copy should preserve the sentence and legible unjoined forms/word gaps. Examples: a or m is short, h or d is tall, g has a descending part below baseline in the taught local form. Capital S follows taught capital height. No requirement to put the whole g above the baseline."
+    },
+    {
+      "id": "AC9E2LY08-guided-3",
+      "prompt": "Write the adult-modelled sentence “We put a bag here.” Then choose one strength and one improvement. What evidence would show growing ease over time?",
+      "independent_solution_or_response_criteria": "Observe readable actual copy and one identified strength/improvement. Evidence of growing ease needs comparable later attempts under similar conditions: maintained recognisability and gaps with smoother, less effortful, comfortable control. A single copy or fastest time alone does not show growth; record support/adaptations."
+    },
+    {
+      "id": "AC9E2LY08-tricky-1",
+      "prompt": "1. Can a neat typed answer prove my handwriting?",
+      "independent_solution_or_response_criteria": "No. Typed output does not show handwritten letter formation, movement or grasp."
+    },
+    {
+      "id": "AC9E2LY08-tricky-2",
+      "prompt": "2. Should I make all letters exactly the same height?",
+      "independent_solution_or_response_criteria": "No. Short bodies, tall ascenders, capitals and descenders follow relative heights/placement of taught forms."
+    },
+    {
+      "id": "AC9E2LY08-tricky-3",
+      "prompt": "3. Is the fastest copy always the best?",
+      "independent_solution_or_response_criteria": "No. Readability, accurate forms and comfortable controlled movement take priority over rushing."
+    },
+    {
+      "id": "AC9E2LY09-guided-1",
+      "prompt": "Adult: say stamp without showing its spelling. Learner: segment it with counters, then blend the sounds back together. How many counters do you need?",
+      "independent_solution_or_response_criteria": "Five counters: /s/ /t/ vowel-in-cat /m/ /p/. Blend to stamp. The initial cluster has separate s and t sounds and final m/p remain separate. Adult hears the actual response before print."
+    },
+    {
+      "id": "AC9E2LY09-guided-2",
+      "prompt": "Adult: say bend. Ask the learner to say it without /n/, without showing the printed word. What word remains?",
+      "independent_solution_or_response_criteria": "Bed. Bend has /b/ /e/ /n/ /d/; remove only /n/ and preserve /b e d/. Obtain oral response before print."
+    },
+    {
+      "id": "AC9E2LY09-guided-3",
+      "prompt": "Adult: say slam and ask for its vowel to change to the vowel in sit. After the oral answer, ask the learner to write the new word and read it back.",
+      "independent_solution_or_response_criteria": "Slim. Replace only the vowel in slam with the vowel in sit, retaining s/l/m. Then write slim and blend/reread its four phonemes, with recorded oral/written/reread evidence separately."
+    },
+    {
+      "id": "AC9E2LY09-tricky-1",
+      "prompt": "Does sh in ship need two sound counters because it has two letters?",
+      "independent_solution_or_response_criteria": "No. sh represents one phoneme in ship; use one counter for sh and three total for ship."
+    },
+    {
+      "id": "AC9E2LY09-tricky-2",
+      "prompt": "Say nest without /s/. What must stay at the end?",
+      "independent_solution_or_response_criteria": "Net remains; final /t/ must remain because only /s/ is removed."
+    },
+    {
+      "id": "AC9E2LY09-tricky-3",
+      "prompt": "An adult says clap. Change only its last sound to /m/. Is the answer clam or camp?",
+      "independent_solution_or_response_criteria": "Clam. Final /p/ changes to /m/, preserving /k l æ/. Camp would also change/move other sounds and is not the requested one-position substitution."
+    },
+    {
+      "id": "AC9E2LY10-guided-1",
+      "prompt": "Read light. Which letters spell its long i sound, and which letter spells the last sound?",
+      "independent_solution_or_response_criteria": "In light, igh spells long i; t spells final /t/. Whole word maps /l aɪ t/."
+    },
+    {
+      "id": "AC9E2LY10-guided-2",
+      "prompt": "Read crisp and knock. Which starts with two separate consonant sounds, and which has a silent initial k?",
+      "independent_solution_or_response_criteria": "Crisp begins with separate /k/ and /r/ phonemes. Knock starts with the kn spelling for /n/; initial written k is not separately pronounced."
+    },
+    {
+      "id": "AC9E2LY10-guided-3",
+      "prompt": "Read lunchbox. Which two complete words help you, and how would you spell the word meaning a box for lunch?",
+      "independent_solution_or_response_criteria": "Lunch and box form lunchbox. Conventional spelling is lunchbox, with all letters retained. Learner reads the printed compound and produces/rechecks spelling as directed."
+    },
+    {
+      "id": "AC9E2LY10-tricky-1",
+      "prompt": "In night, do gh add two more spoken sounds?",
+      "independent_solution_or_response_criteria": "No. In night igh spells one vowel phoneme; gh do not add separate sounds. /n/ and final /t/ remain."
+    },
+    {
+      "id": "AC9E2LY10-tricky-2",
+      "prompt": "Should the spelling of thumb leave out b because we cannot hear a separate /b/?",
+      "independent_solution_or_response_criteria": "No. Conventional thumb includes b even though it is not separately pronounced; th is one initial phoneme."
+    },
+    {
+      "id": "AC9E2LY10-tricky-3",
+      "prompt": "Does seeing rain inside raincoat mean you may skip the other letters?",
+      "independent_solution_or_response_criteria": "No. Read all letters/parts, rain plus coat; the second part contributes sounds and meaning."
+    },
+    {
+      "id": "AC9E2LY11-guided-1",
+      "prompt": "Read: “My friend said hello.” Which vowel spelling needs remembering in friend, and which in said?",
+      "independent_solution_or_response_criteria": "Friend: remember ie representing short-e. Said: remember ai representing short-e. Both have useful regular consonant mappings."
+    },
+    {
+      "id": "AC9E2LY11-guided-2",
+      "prompt": "Write the past form of help in: “Yesterday I ___ Mum.” Why does its ending use ed?",
+      "independent_solution_or_response_criteria": "Helped: Yesterday I helped Mum. The suffix ed marks past time and retains conventional spelling even though it is pronounced /t/ here."
+    },
+    {
+      "id": "AC9E2LY11-guided-3",
+      "prompt": "Read these sentences aloud: “I will read the note tomorrow.” “Yesterday I read the note.” How does read change?",
+      "independent_solution_or_response_criteria": "Read in will read tomorrow has long-ee /riːd/; yesterday read has short-e /red/. Same spelling, different tense/context selects the pronunciation, then reread fluently."
+    },
+    {
+      "id": "AC9E2LY11-tricky-1",
+      "prompt": "Must ai always have the vowel heard in rain?",
+      "independent_solution_or_response_criteria": "No. Said is an explicit counterexample: ai spells the short-e vowel there."
+    },
+    {
+      "id": "AC9E2LY11-tricky-2",
+      "prompt": "Should helped end in the single letter t because that is the last sound?",
+      "independent_solution_or_response_criteria": "No. Retain ed as the past-time suffix in helped; sound-only t would not be the conventional spelling."
+    },
+    {
+      "id": "AC9E2LY11-tricky-3",
+      "prompt": "May you read wind as breeze because the sentence is about weather?",
+      "independent_solution_or_response_criteria": "No. Breeze does not match the printed letters w-i-n-d. Context selects among plausible pronunciations/meanings of wind, rather than replacing it with a different word."
+    },
+    {
+      "id": "AC9E2LY12-guided-1",
+      "prompt": "Use re and tell to build a word meaning tell again. Write it in “Please ___ the story.”",
+      "independent_solution_or_response_criteria": "Retell. Please retell the story. Re is the prefix meaning again; tell is the base."
+    },
+    {
+      "id": "AC9E2LY12-guided-2",
+      "prompt": "Starting with help, write a word for someone who helps. Then write a different family word for giving help.",
+      "independent_solution_or_response_criteria": "Helper is someone who helps; helpful means giving help. Both preserve help with suffixes er and ful. Other conventional alternatives only if they meet the named exact meaning."
+    },
+    {
+      "id": "AC9E2LY12-guided-3",
+      "prompt": "You know friend. Write the word meaning the relationship between friends in “Their ___ grew as they played together.” Explain the parts.",
+      "independent_solution_or_response_criteria": "Friendship: Their friendship grew as they played together. Friend is the base and ship is the suffix marking the relationship/state here; spelling of known friend is retained."
+    },
+    {
+      "id": "AC9E2LY12-tricky-1",
+      "prompt": "Are play and day in the same morphemic family because they rhyme?",
+      "independent_solution_or_response_criteria": "No. Day rhymes with play but does not contain the meaningful base play. Rime similarity is not a morphemic relationship."
+    },
+    {
+      "id": "AC9E2LY12-tricky-2",
+      "prompt": "In replay, where is the prefix and what does it add?",
+      "independent_solution_or_response_criteria": "Re is before play and means again; replay means play again."
+    },
+    {
+      "id": "AC9E2LY12-tricky-3",
+      "prompt": "Can friendly help you spell friendship?",
+      "independent_solution_or_response_criteria": "Yes. Both retain the meaningful base friend; identify friend in friendly, then retain its spelling and use ship for the relationship. Ly and ship have different effects."
+    }
+  ]
+}
