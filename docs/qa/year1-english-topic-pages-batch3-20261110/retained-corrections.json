@@ -1,0 +1,98 @@
+[
+  {
+    "code": "AC9E1LY08",
+    "section": "For adults: teaching support and curriculum",
+    "before": "Australian Curriculum v9 · AC9E1LY08: write words using unjoined lower-case and upper-case letters. The elaboration is continuing to develop a functional pencil grip/grasp.",
+    "after": "",
+    "occurrences": 1,
+    "reason": "Remove repeated curriculum metadata/state mapping; exact national descriptor/elaboration retained once in alignment."
+  },
+  {
+    "code": "AC9E1LY08",
+    "section": "For adults: teaching support and curriculum",
+    "before": "Related curriculum: Victoria Level 1 VC2E1LY15. Selected handwriting support for NSW Stage 1 EN1-HANDW-01; this lesson alone does not cover the full fluency, automaticity and digital-technology outcome.",
+    "after": "",
+    "occurrences": 1,
+    "reason": "Remove repeated curriculum metadata/state mapping; exact national descriptor/elaboration retained once in alignment."
+  },
+  {
+    "code": "AC9E1LY09",
+    "section": "Explain and apply",
+    "before": "This matches IXL-style sound segmentation.",
+    "after": "",
+    "occurrences": 1,
+    "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  },
+  {
+    "code": "AC9E1LY11",
+    "section": "Try these",
+    "before": "Sort words by short vowel, long vowel, blend or digraph.",
+    "after": "Sort once by vowel sound, then again by consonant spelling. A word may have a short vowel and a digraph, or a long vowel and a blend.",
+    "occurrences": 1,
+    "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  },
+  {
+    "code": "AC9E1LY13",
+    "section": "Common misconceptions",
+    "before": "Writing from memory only",
+    "after": "Guessing without checking",
+    "occurrences": 1,
+    "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  },
+  {
+    "code": "AC9E1LY13",
+    "section": "Explain and apply",
+    "before": "rabbit is correct. Hearing the two syllables helps students check the middle letters.",
+    "after": "Rabbit is correct. Say its two syllables to check the whole word, then compare with the taught spelling rabbit: it has bb in the middle. Hearing two syllables alone does not tell you to double b.",
+    "occurrences": 1,
+    "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  },
+  {
+    "code": "AC9E1LY14",
+    "section": "Explain and apply",
+    "before": "Write from memory",
+    "after": "Notice a spelling in a sentence",
+    "occurrences": 1,
+    "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  },
+  {
+    "code": "AC9E1LY14",
+    "section": "Explain and apply",
+    "before": "Which word must be recognised quickly?",
+    "after": "Which familiar word can you practise reading accurately and then smoothly?",
+    "occurrences": 1,
+    "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  },
+  {
+    "code": "AC9E1LY14",
+    "section": "Explain and apply",
+    "before": "The is a high-frequency word. Recognising it automatically helps students read the sentence smoothly.",
+    "after": "The is one high-frequency word in this sentence. Practise accurate reading first, then smooth reading; other familiar words can be practised too. Do not impose a speed score.",
+    "occurrences": 1,
+    "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  },
+  {
+    "code": "AC9E1LY14",
+    "section": "Explain and apply",
+    "before": "Which word might need extra practice?",
+    "after": "Which word has an o that does not represent the common long o sound here?",
+    "occurrences": 1,
+    "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  },
+  {
+    "code": "AC9E1LY15",
+    "section": "Explain and apply",
+    "before": "Which word means the action is happening now: help, helping or helps?",
+    "after": "Complete “I am ___ now”: help, helping or helps.",
+    "occurrences": 1,
+    "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  },
+  {
+    "code": "AC9E1LY15",
+    "section": "Explain and apply",
+    "before": "helping means the action is happening now. The ending -ing changes how the word works in the sentence.",
+    "after": "Helping fits “I am helping now.” The whole sentence places the action now. The ending -ing alone does not always mean now; compare “I was helping yesterday.”",
+    "occurrences": 1,
+    "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  }
+]

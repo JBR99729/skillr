@@ -1,0 +1,10 @@
+/* Scoped support for retained writing, presentation, handwriting and word lessons. */
+.year1-english-batch3 #skillr-topic-variants .retained-teaching figure{margin:16px 0}
+.year1-english-batch3 #skillr-topic-variants .retained-teaching img{max-width:100%;height:auto}
+.year1-english-batch3 #skillr-topic-variants .retained-teaching .worked-example,.year1-english-batch3 #skillr-topic-variants .retained-teaching .oral-model,.year1-english-batch3 #skillr-topic-variants .retained-teaching .topic-worked-example{padding:16px;background:#f4f7fc;border-left:3px solid #91aed9;margin:12px 0}
+.year1-english-batch3 #skillr-topic-variants .retained-teaching summary{overflow-wrap:anywhere}
+.year1-english-batch3 #skillr-topic-variants .retained-teaching .gesture-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+.year1-english-batch3 #skillr-topic-variants .retained-teaching .gesture-grid img{max-height:220px;object-fit:contain}
+.year1-english-batch3 #skillr-topic-variants .retained-teaching .topic-art{max-width:420px}
+.year1-english-batch3 #skillr-topic-variants .retained-teaching .handwriting-model{overflow-x:auto}
+@media(max-width:600px){.year1-english-batch3 #skillr-topic-variants .retained-teaching .gesture-grid{grid-template-columns:1fr}}

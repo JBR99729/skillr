@@ -1,0 +1,431 @@
+{
+  "reference": "year1/maths/ac9m1n01-numbers-to-120/index.html",
+  "codes": [
+    {
+      "code": "AC9E1LY06",
+      "descriptor": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event, using grammatically correct simple sentences, some topic-specific vocabulary, sentence boundary punctuation and correct spelling of some one- and two-syllable words",
+      "elaborations": [
+        {
+          "code": "AC9E1LY06_E1",
+          "number": "E1",
+          "text": "applying emerging knowledge of text structure and grammar when creating text",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LY06_E2",
+          "number": "E2",
+          "text": "using learning area vocabulary when creating text",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LY06_E3",
+          "number": "E3",
+          "text": "creating digital images and composing a story or information sequence on screen using images and captions",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LY06_E4",
+          "number": "E4",
+          "text": "adding or deleting words on a page or screen to improve meaning; for example, adding an adjective to add meaning to a noun",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LY06_E5",
+          "number": "E5",
+          "text": "beginning to use dictionaries and resources to check and correct spelling",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LY06_E6",
+          "number": "E6",
+          "text": "identifying words that might not be spelt correctly",
+          "questionEligible": true
+        }
+      ],
+      "entry_focuses": [
+        "Create a report/opinion/recount for a reader",
+        "Make meaningful image-caption sequences",
+        "Reread/edit meaning,grammar,spelling and boundaries"
+      ],
+      "retained_sections": [
+        "1. Report facts about a topic",
+        "2. Give an opinion and a reason",
+        "3. Put a recount in order",
+        "4. Make pictures and words work together",
+        "5. Reread and edit for meaning",
+        "Quick check: create, then improve"
+      ],
+      "paid_resources": [
+        {
+          "href": "https://www.teacherspayteachers.com/Product/Year-1-Writing-Short-Texts-AC9E1LY06-50-Practice-15-Test-Tasks-17913803",
+          "label": "View worksheet preview & pack on TpT ↗"
+        }
+      ],
+      "evidence": "Actual pinned code/reused source files; new LY10 closure in supplemental-source-notes.json. Original40task records remain internal, not observations.",
+      "status": "READY TO DRAFT subject to independent plan review",
+      "boundaries": "At least3meaningful focuses. Actual reading,oral presentation,phonological response,handwriting and digital creation must be observed separately from written recognition. No new app/linked-product/cultural/media claims."
+    },
+    {
+      "code": "AC9E1LY07",
+      "descriptor": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement; some topic-specific vocabulary and appropriate gesture, volume and pace",
+      "elaborations": [
+        {
+          "code": "AC9E1LY07_E1",
+          "number": "E1",
+          "text": "reporting the results of group activities",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LY07_E2",
+          "number": "E2",
+          "text": "explaining how to do or make something",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LY07_E3",
+          "number": "E3",
+          "text": "giving short oral presentations about areas of interest or content area topics, speaking clearly and with appropriate volume, and using content-specific vocabulary",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LY07_E4",
+          "number": "E4",
+          "text": "experimenting with volume and pace for particular purposes; for example, presenting information, retelling stories, and reciting rhymes and poems",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LY07_E5",
+          "number": "E5",
+          "text": "giving reasons why the class should learn a particular game",
+          "questionEligible": true
+        }
+      ],
+      "entry_focuses": [
+        "Plan opening,middle,conclusion",
+        "Select purposeful detail and topic words",
+        "Rehearse and deliver with helpful gesture,volume,pace"
+      ],
+      "retained_sections": [
+        "1. Plan a clear talk",
+        "2. Choose useful details and topic words",
+        "3. Report, explain how, or give a reason",
+        "4. Make pictures and gestures helpful",
+        "5. Use a clear voice, pace and pauses",
+        "Put it together: plan, speak and review",
+        "Common mistakes and quick fixes"
+      ],
+      "paid_resources": [
+        {
+          "href": "https://www.teacherspayteachers.com/Product/Year-1-Oral-Presentation-Slides-AC9E1LY07-Australian-Curriculum-v9-17792524",
+          "label": "View teaching slides on TpT ↗"
+        }
+      ],
+      "evidence": "Actual pinned code/reused source files; new LY10 closure in supplemental-source-notes.json. Original40task records remain internal, not observations.",
+      "status": "READY TO DRAFT subject to independent plan review",
+      "boundaries": "At least3meaningful focuses. Actual reading,oral presentation,phonological response,handwriting and digital creation must be observed separately from written recognition. No new app/linked-product/cultural/media claims."
+    },
+    {
+      "code": "AC9E1LY08",
+      "descriptor": "write words using unjoined lower-case and upper-case letters",
+      "elaborations": [
+        {
+          "code": "AC9E1LY08_E1",
+          "number": "E1",
+          "text": "continuing to develop a functional pencil grip/grasp",
+          "questionEligible": true
+        }
+      ],
+      "entry_focuses": [
+        "Use comfortable controlled unjoined movements",
+        "Write lower-case and capital word forms",
+        "Check line placement,word gaps and legibility"
+      ],
+      "retained_sections": [
+        "Get ready: hold, move and look",
+        "1. Write words with lower-case letters",
+        "2. Write capitals and lower-case letters in words",
+        "Put it together: space, read and improve",
+        "For adults: teaching support and curriculum"
+      ],
+      "paid_resources": [],
+      "evidence": "Actual pinned code/reused source files; new LY10 closure in supplemental-source-notes.json. Original40task records remain internal, not observations.",
+      "status": "READY TO DRAFT subject to independent plan review",
+      "boundaries": "At least3meaningful focuses. Actual reading,oral presentation,phonological response,handwriting and digital creation must be observed separately from written recognition. No new app/linked-product/cultural/media claims."
+    },
+    {
+      "code": "AC9E1LY09",
+      "descriptor": "segment words into separate phonemes (sounds) including consonant blends or clusters at the beginnings and ends of words (phonological awareness)",
+      "elaborations": [
+        {
+          "code": "AC9E1LY09_E1",
+          "number": "E1",
+          "text": "saying sounds in order for a given spoken word; for example, “s-p-oo-n” and “f-i-s-t”",
+          "questionEligible": true
+        }
+      ],
+      "entry_focuses": [
+        "Hear and order phonemes",
+        "Retain initial cluster sounds",
+        "Retain final clusters and distinguish digraphs"
+      ],
+      "retained_sections": [
+        "Key concept",
+        "See it, then try it",
+        "See the idea: Count spoken sounds, not letters",
+        "Common misconceptions",
+        "Try these",
+        "Explain and apply",
+        "Check your understanding"
+      ],
+      "paid_resources": [
+        {
+          "href": "https://www.teacherspayteachers.com/Product/Year-1-Phoneme-Segmentation-Slides-AC9E1LY09-Australian-Curriculum-v9-17793696",
+          "label": "Year 1 Phoneme Segmentation Slides | AC9E1LY09 | Australian Curriculum v9"
+        }
+      ],
+      "evidence": "Actual pinned code/reused source files; new LY10 closure in supplemental-source-notes.json. Original40task records remain internal, not observations.",
+      "status": "READY TO DRAFT subject to independent plan review",
+      "boundaries": "At least3meaningful focuses. Actual reading,oral presentation,phonological response,handwriting and digital creation must be observed separately from written recognition. No new app/linked-product/cultural/media claims."
+    },
+    {
+      "code": "AC9E1LY10",
+      "descriptor": "orally manipulate phonemes in spoken words by addition, deletion and substitution of initial, medial and final phonemes to generate new words (phonological awareness)",
+      "elaborations": [
+        {
+          "code": "AC9E1LY10_E1",
+          "number": "E1",
+          "text": "adding, substituting or deleting phonemes in any position in one-syllable words with up to 4 phonemes",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LY10_E2",
+          "number": "E2",
+          "text": "substituting medial sounds in spoken words to make new words; for example, “pin”, “pen”, “pan”",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LY10_E3",
+          "number": "E3",
+          "text": "substituting final sounds in spoken words; for example, substitute the “t” in “pet” with “g” to form a new word “peg”",
+          "questionEligible": true
+        }
+      ],
+      "entry_focuses": [
+        "Add at beginning,interior,end",
+        "Substitute initial,medial,final sounds",
+        "Delete one stated sound and blend remaining sounds"
+      ],
+      "retained_sections": [
+        "Key concept",
+        "See it, then try it",
+        "See the idea: Change a sound to change a spoken word",
+        "Common misconceptions",
+        "Try these",
+        "Explain and apply",
+        "Check your understanding"
+      ],
+      "paid_resources": [
+        {
+          "href": "https://www.teacherspayteachers.com/Product/Year-1-Phoneme-Manipulation-Slides-AC9E1LY10-Australian-Curriculum-v9-17793855",
+          "label": "Year 1 Phoneme Manipulation Slides | AC9E1LY10 | Australian Curriculum v9"
+        }
+      ],
+      "evidence": "Actual pinned code/reused source files; new LY10 closure in supplemental-source-notes.json. Original40task records remain internal, not observations.",
+      "status": "READY TO DRAFT subject to independent plan review",
+      "boundaries": "At least3meaningful focuses. Actual reading,oral presentation,phonological response,handwriting and digital creation must be observed separately from written recognition. No new app/linked-product/cultural/media claims."
+    },
+    {
+      "code": "AC9E1LY11",
+      "descriptor": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
+      "elaborations": [
+        {
+          "code": "AC9E1LY11_E1",
+          "number": "E1",
+          "text": "using knowledge of letters and sounds to write words with short vowels; for example, “man”, and common long vowel sounds; for example, “time”",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LY11_E2",
+          "number": "E2",
+          "text": "using knowledge of letter sounds to write single-syllable words with consonant digraphs and consonant blends; for example, “wish” and “rest”",
+          "questionEligible": true
+        }
+      ],
+      "entry_focuses": [
+        "Read/write short and common long vowel words",
+        "Distinguish blends and digraphs",
+        "Blend and spell familiar two-syllable words"
+      ],
+      "retained_sections": [
+        "Key concept",
+        "See it, then try it",
+        "See the idea: Blend a digraph as one sound",
+        "Common misconceptions",
+        "Try these",
+        "Explain and apply",
+        "Check your understanding"
+      ],
+      "paid_resources": [
+        {
+          "href": "https://www.teacherspayteachers.com/Product/Year-1-Phonics-Word-Building-Slides-AC9E1LY11-Australian-Curriculum-v9-17794524",
+          "label": "Year 1 Phonics Word Building Slides | AC9E1LY11 | Australian Curriculum v9"
+        }
+      ],
+      "evidence": "Actual pinned code/reused source files; new LY10 closure in supplemental-source-notes.json. Original40task records remain internal, not observations.",
+      "status": "READY TO DRAFT subject to independent plan review",
+      "boundaries": "At least3meaningful focuses. Actual reading,oral presentation,phonological response,handwriting and digital creation must be observed separately from written recognition. No new app/linked-product/cultural/media claims."
+    },
+    {
+      "code": "AC9E1LY12",
+      "descriptor": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
+      "elaborations": [
+        {
+          "code": "AC9E1LY12_E1",
+          "number": "E1",
+          "text": "recognising that letters can have more than one sound; for example, the letter “u” in “cut”, “put”, “use” and the letter “a” in “cat”, “father”, “any”",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LY12_E2",
+          "number": "E2",
+          "text": "recognising sounds that can be produced by different letters; for example, the “s” sound in “sat” and “cent”",
+          "questionEligible": true
+        }
+      ],
+      "entry_focuses": [
+        "Compare one letter with different sounds",
+        "Recognise same sound with different letters",
+        "Find vowel sounds in spoken syllables"
+      ],
+      "retained_sections": [
+        "Key concept",
+        "See it, then try it",
+        "See the idea: Hear the vowel sound in each syllable",
+        "Common misconceptions",
+        "Try these",
+        "Explain and apply",
+        "Check your understanding"
+      ],
+      "paid_resources": [
+        {
+          "href": "https://www.teacherspayteachers.com/Product/Year-1-Letters-Sounds-Syllables-AC9E1LY12-Australian-Curriculum-v9-17794632",
+          "label": "Year 1 Letters, Sounds & Syllables | AC9E1LY12 | Australian Curriculum v9"
+        }
+      ],
+      "evidence": "Actual pinned code/reused source files; new LY10 closure in supplemental-source-notes.json. Original40task records remain internal, not observations.",
+      "status": "READY TO DRAFT subject to independent plan review",
+      "boundaries": "At least3meaningful focuses. Actual reading,oral presentation,phonological response,handwriting and digital creation must be observed separately from written recognition. No new app/linked-product/cultural/media claims."
+    },
+    {
+      "code": "AC9E1LY13",
+      "descriptor": "spell one- and two-syllable words with common letter patterns",
+      "elaborations": [
+        {
+          "code": "AC9E1LY13_E1",
+          "number": "E1",
+          "text": "writing one- and two-syllable words containing known blends; for example, “bl” and “st”",
+          "questionEligible": true
+        }
+      ],
+      "entry_focuses": [
+        "Map sounds to common spelling patterns",
+        "Spell both parts of a two-syllable word",
+        "Check blends/digraphs and standard spelling"
+      ],
+      "retained_sections": [
+        "Key concept",
+        "See it, then try it",
+        "See the idea: Use sounds and syllables when spelling",
+        "Common misconceptions",
+        "Try these",
+        "Explain and apply",
+        "Check your understanding"
+      ],
+      "paid_resources": [
+        {
+          "href": "https://www.teacherspayteachers.com/Product/Year-1-Spelling-Slides-AC9E1LY13-Australian-Curriculum-v9-17794756",
+          "label": "Year 1 Spelling Slides | AC9E1LY13 | Australian Curriculum v9"
+        }
+      ],
+      "evidence": "Actual pinned code/reused source files; new LY10 closure in supplemental-source-notes.json. Original40task records remain internal, not observations.",
+      "status": "READY TO DRAFT subject to independent plan review",
+      "boundaries": "At least3meaningful focuses. Actual reading,oral presentation,phonological response,handwriting and digital creation must be observed separately from written recognition. No new app/linked-product/cultural/media claims."
+    },
+    {
+      "code": "AC9E1LY14",
+      "descriptor": "read and write an increasing number of high-frequency words",
+      "elaborations": [
+        {
+          "code": "AC9E1LY14_E1",
+          "number": "E1",
+          "text": "learning an increasing number of high-frequency words and reading them independently; for example, “one”, “have” and “pretty”",
+          "questionEligible": true
+        }
+      ],
+      "entry_focuses": [
+        "Map a growing familiar-word set",
+        "Read full words and meaningful contexts",
+        "Write without copying then check the whole spelling"
+      ],
+      "retained_sections": [
+        "Key concept",
+        "See it, then try it",
+        "See the idea: Map the unusual part of a familiar word",
+        "Common misconceptions",
+        "Try these",
+        "Explain and apply",
+        "Check your understanding"
+      ],
+      "paid_resources": [
+        {
+          "href": "https://www.teacherspayteachers.com/Product/Year-1-High-Frequency-Word-Slides-AC9E1LY14-Australian-Curriculum-v9-17795150",
+          "label": "Year 1 High-Frequency Word Slides | AC9E1LY14 | Australian Curriculum v9"
+        }
+      ],
+      "evidence": "Actual pinned code/reused source files; new LY10 closure in supplemental-source-notes.json. Original40task records remain internal, not observations.",
+      "status": "READY TO DRAFT subject to independent plan review",
+      "boundaries": "At least3meaningful focuses. Actual reading,oral presentation,phonological response,handwriting and digital creation must be observed separately from written recognition. No new app/linked-product/cultural/media claims."
+    },
+    {
+      "code": "AC9E1LY15",
+      "descriptor": "recognise and know how to use grammatical morphemes to create word families",
+      "elaborations": [
+        {
+          "code": "AC9E1LY15_E1",
+          "number": "E1",
+          "text": "building word families from common morphemes; for example, “play”, “plays”, “playing”, “played”, “playground”",
+          "questionEligible": true
+        },
+        {
+          "code": "AC9E1LY15_E2",
+          "number": "E2",
+          "text": "using morphemes to read words; for example, by recognising the base word in words such as “walk-ed”",
+          "questionEligible": true
+        }
+      ],
+      "entry_focuses": [
+        "Find meaningful bases not just rhyme",
+        "Use grammatical endings in complete sentences",
+        "Read word families and recognise simple compounds"
+      ],
+      "retained_sections": [
+        "Key concept",
+        "See it, then try it",
+        "See the idea: Keep the base meaning and notice the ending",
+        "Common misconceptions",
+        "Try these",
+        "Explain and apply",
+        "Check your understanding"
+      ],
+      "paid_resources": [
+        {
+          "href": "https://www.teacherspayteachers.com/Product/Year-1-Word-Families-Slides-AC9E1LY15-Australian-Curriculum-v9-17795280",
+          "label": "Year 1 Word Families Slides | AC9E1LY15 | Australian Curriculum v9"
+        }
+      ],
+      "evidence": "Actual pinned code/reused source files; new LY10 closure in supplemental-source-notes.json. Original40task records remain internal, not observations.",
+      "status": "READY TO DRAFT subject to independent plan review",
+      "boundaries": "At least3meaningful focuses. Actual reading,oral presentation,phonological response,handwriting and digital creation must be observed separately from written recognition. No new app/linked-product/cultural/media claims."
+    }
+  ]
+}

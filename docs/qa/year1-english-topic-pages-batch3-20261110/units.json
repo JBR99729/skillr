@@ -1,0 +1,640 @@
+[
+  {
+    "learningArea": "English",
+    "subject": "English",
+    "subjectSlug": "english",
+    "quizSubjectSlug": "english",
+    "level": "Year 1",
+    "levelLabel": "Year 1",
+    "yearNumber": 1,
+    "yearFolder": "year1",
+    "quizYearSegment": "year-1",
+    "code": "AC9E1LY06",
+    "title": "And re-read to edit short written and/or multimodal texts to...",
+    "unitSlug": "ac9e1ly06-and-re-read-to-edit-short-written-and-or-multimodal-texts-to",
+    "sourceOrder": 50,
+    "strand": "Literacy",
+    "subStrand": "Creating texts",
+    "description": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event, using grammatically correct simple sentences, some topic-specific vocabulary, sentence boundary punctuation and correct spelling of some one- and two-syllable words",
+    "levelDescription": "The English curriculum is built around the 3 interrelated strands of Language, Literature and Literacy . Teaching and learning programs should balance and integrate all 3 strands. Together, the 3 strands focus on developing students’ knowledge, understanding and skills in listening, reading, viewing, speaking, writing and creating. Learning in English is recursive and cumulative, building on concepts, skills and processes developed in earlier years. In Year 1, students learn that language is communicated in ways that meet the needs of diverse learners. They learn to interact with familiar audiences for different purposes. Students engage with a variety of texts for enjoyment. They listen to, read and view spoken, written and multimodal texts. Texts may include picture books, various types of stories, rhyming verse, poetry, non-fiction, various types of information texts, short films and animations, dramatic performances, and texts used by students as models for constructing their own texts. The range of literary texts for Foundation to Year 10 comprises the oral narrative traditions and literature of First Nations Australians, and classic and contemporary literature from wide-ranging Australian and world authors, including texts from and about Asia. Year 1 students develop their reading in a text-rich environment through engagement with a range of texts. This range includes literature that expands and reflects their world and texts that support learning in English and across the curriculum. Some students will continue to practise their reading with decodable texts that align with phonic development. These texts systematically introduce words with grapheme-phoneme correspondences. Developing readers engage with authentic texts that support and extend them as independent readers. These texts include straightforward sequences of events and everyday happenings with recognisably realistic or imaginary characters. Informative texts, with illustrations and diagrams, present a small amount of new content about familiar topics of interest and topics being studied in other learning areas. These texts use a small range of language features including simple and compound sentences, some unfamiliar vocabulary, high-frequency words and other words that need to be decoded using developing phonic knowledge. Year 1 students create short texts whose purposes may be imaginative, informative and persuasive. These texts may explain simple procedures, recount real or imagined events or experiences, report and describe learning area content, retell stories, express opinions, and describe real or imagined people, places or things for an audience.",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9E1LY06_E1",
+        "number": "E1",
+        "text": "applying emerging knowledge of text structure and grammar when creating text",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LY06_E2",
+        "number": "E2",
+        "text": "using learning area vocabulary when creating text",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LY06_E3",
+        "number": "E3",
+        "text": "creating digital images and composing a story or information sequence on screen using images and captions",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LY06_E4",
+        "number": "E4",
+        "text": "adding or deleting words on a page or screen to improve meaning; for example, adding an adjective to add meaning to a noun",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LY06_E5",
+        "number": "E5",
+        "text": "beginning to use dictionaries and resources to check and correct spelling",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LY06_E6",
+        "number": "E6",
+        "text": "identifying words that might not be spelt correctly",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year1/english/ac9e1ly06-and-re-read-to-edit-short-written-and-or-multimodal-texts-to/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-1/english/ac9e1ly06/worksheet/",
+    "teacherSlideUrl": "/worksheets/year1/english/teacher-slides/live.html?code=AC9E1LY06",
+    "questionCoverage": [
+      {
+        "code": "AC9E1LY06",
+        "label": "Content description",
+        "text": "create and re-read to edit short written and/or multimodal texts to report on a topic, express an opinion or recount a real or imagined event, using grammatically correct simple sentences, some topic-specific vocabulary, sentence boundary punctuation and correct spelling of some one- and two-syllable words",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LY06_E1",
+        "number": "E1",
+        "text": "applying emerging knowledge of text structure and grammar when creating text",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LY06_E2",
+        "number": "E2",
+        "text": "using learning area vocabulary when creating text",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LY06_E3",
+        "number": "E3",
+        "text": "creating digital images and composing a story or information sequence on screen using images and captions",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LY06_E4",
+        "number": "E4",
+        "text": "adding or deleting words on a page or screen to improve meaning; for example, adding an adjective to add meaning to a noun",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LY06_E5",
+        "number": "E5",
+        "text": "beginning to use dictionaries and resources to check and correct spelling",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LY06_E6",
+        "number": "E6",
+        "text": "identifying words that might not be spelt correctly",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "English",
+    "subject": "English",
+    "subjectSlug": "english",
+    "quizSubjectSlug": "english",
+    "level": "Year 1",
+    "levelLabel": "Year 1",
+    "yearNumber": 1,
+    "yearFolder": "year1",
+    "quizYearSegment": "year-1",
+    "code": "AC9E1LY07",
+    "title": "And deliver short oral and/or multimodal presentations on personal and...",
+    "unitSlug": "ac9e1ly07-and-deliver-short-oral-and-or-multimodal-presentations-on",
+    "sourceOrder": 51,
+    "strand": "Literacy",
+    "subStrand": "Creating texts",
+    "description": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement; some topic-specific vocabulary and appropriate gesture, volume and pace",
+    "levelDescription": "The English curriculum is built around the 3 interrelated strands of Language, Literature and Literacy . Teaching and learning programs should balance and integrate all 3 strands. Together, the 3 strands focus on developing students’ knowledge, understanding and skills in listening, reading, viewing, speaking, writing and creating. Learning in English is recursive and cumulative, building on concepts, skills and processes developed in earlier years. In Year 1, students learn that language is communicated in ways that meet the needs of diverse learners. They learn to interact with familiar audiences for different purposes. Students engage with a variety of texts for enjoyment. They listen to, read and view spoken, written and multimodal texts. Texts may include picture books, various types of stories, rhyming verse, poetry, non-fiction, various types of information texts, short films and animations, dramatic performances, and texts used by students as models for constructing their own texts. The range of literary texts for Foundation to Year 10 comprises the oral narrative traditions and literature of First Nations Australians, and classic and contemporary literature from wide-ranging Australian and world authors, including texts from and about Asia. Year 1 students develop their reading in a text-rich environment through engagement with a range of texts. This range includes literature that expands and reflects their world and texts that support learning in English and across the curriculum. Some students will continue to practise their reading with decodable texts that align with phonic development. These texts systematically introduce words with grapheme-phoneme correspondences. Developing readers engage with authentic texts that support and extend them as independent readers. These texts include straightforward sequences of events and everyday happenings with recognisably realistic or imaginary characters. Informative texts, with illustrations and diagrams, present a small amount of new content about familiar topics of interest and topics being studied in other learning areas. These texts use a small range of language features including simple and compound sentences, some unfamiliar vocabulary, high-frequency words and other words that need to be decoded using developing phonic knowledge. Year 1 students create short texts whose purposes may be imaginative, informative and persuasive. These texts may explain simple procedures, recount real or imagined events or experiences, report and describe learning area content, retell stories, express opinions, and describe real or imagined people, places or things for an audience.",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9E1LY07_E1",
+        "number": "E1",
+        "text": "reporting the results of group activities",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LY07_E2",
+        "number": "E2",
+        "text": "explaining how to do or make something",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LY07_E3",
+        "number": "E3",
+        "text": "giving short oral presentations about areas of interest or content area topics, speaking clearly and with appropriate volume, and using content-specific vocabulary",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LY07_E4",
+        "number": "E4",
+        "text": "experimenting with volume and pace for particular purposes; for example, presenting information, retelling stories, and reciting rhymes and poems",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LY07_E5",
+        "number": "E5",
+        "text": "giving reasons why the class should learn a particular game",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year1/english/ac9e1ly07-and-deliver-short-oral-and-or-multimodal-presentations-on/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-1/english/ac9e1ly07/worksheet/",
+    "teacherSlideUrl": "/worksheets/year1/english/teacher-slides/live.html?code=AC9E1LY07",
+    "questionCoverage": [
+      {
+        "code": "AC9E1LY07",
+        "label": "Content description",
+        "text": "create and deliver short oral and/or multimodal presentations on personal and learnt topics, which include an opening, middle and concluding statement; some topic-specific vocabulary and appropriate gesture, volume and pace",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LY07_E1",
+        "number": "E1",
+        "text": "reporting the results of group activities",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LY07_E2",
+        "number": "E2",
+        "text": "explaining how to do or make something",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LY07_E3",
+        "number": "E3",
+        "text": "giving short oral presentations about areas of interest or content area topics, speaking clearly and with appropriate volume, and using content-specific vocabulary",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LY07_E4",
+        "number": "E4",
+        "text": "experimenting with volume and pace for particular purposes; for example, presenting information, retelling stories, and reciting rhymes and poems",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LY07_E5",
+        "number": "E5",
+        "text": "giving reasons why the class should learn a particular game",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "English",
+    "subject": "English",
+    "subjectSlug": "english",
+    "quizSubjectSlug": "english",
+    "level": "Year 1",
+    "levelLabel": "Year 1",
+    "yearNumber": 1,
+    "yearFolder": "year1",
+    "quizYearSegment": "year-1",
+    "code": "AC9E1LY08",
+    "title": "Words using unjoined lower-case and upper-case letters",
+    "unitSlug": "ac9e1ly08-words-using-unjoined-lower-case-and-upper-case-letters",
+    "sourceOrder": 52,
+    "strand": "Literacy",
+    "subStrand": "Creating texts",
+    "description": "write words using unjoined lower-case and upper-case letters",
+    "levelDescription": "The English curriculum is built around the 3 interrelated strands of Language, Literature and Literacy . Teaching and learning programs should balance and integrate all 3 strands. Together, the 3 strands focus on developing students’ knowledge, understanding and skills in listening, reading, viewing, speaking, writing and creating. Learning in English is recursive and cumulative, building on concepts, skills and processes developed in earlier years. In Year 1, students learn that language is communicated in ways that meet the needs of diverse learners. They learn to interact with familiar audiences for different purposes. Students engage with a variety of texts for enjoyment. They listen to, read and view spoken, written and multimodal texts. Texts may include picture books, various types of stories, rhyming verse, poetry, non-fiction, various types of information texts, short films and animations, dramatic performances, and texts used by students as models for constructing their own texts. The range of literary texts for Foundation to Year 10 comprises the oral narrative traditions and literature of First Nations Australians, and classic and contemporary literature from wide-ranging Australian and world authors, including texts from and about Asia. Year 1 students develop their reading in a text-rich environment through engagement with a range of texts. This range includes literature that expands and reflects their world and texts that support learning in English and across the curriculum. Some students will continue to practise their reading with decodable texts that align with phonic development. These texts systematically introduce words with grapheme-phoneme correspondences. Developing readers engage with authentic texts that support and extend them as independent readers. These texts include straightforward sequences of events and everyday happenings with recognisably realistic or imaginary characters. Informative texts, with illustrations and diagrams, present a small amount of new content about familiar topics of interest and topics being studied in other learning areas. These texts use a small range of language features including simple and compound sentences, some unfamiliar vocabulary, high-frequency words and other words that need to be decoded using developing phonic knowledge. Year 1 students create short texts whose purposes may be imaginative, informative and persuasive. These texts may explain simple procedures, recount real or imagined events or experiences, report and describe learning area content, retell stories, express opinions, and describe real or imagined people, places or things for an audience.",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9E1LY08_E1",
+        "number": "E1",
+        "text": "continuing to develop a functional pencil grip/grasp",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year1/english/ac9e1ly08-words-using-unjoined-lower-case-and-upper-case-letters/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-1/english/ac9e1ly08/worksheet/",
+    "teacherSlideUrl": "/worksheets/year1/english/teacher-slides/live.html?code=AC9E1LY08",
+    "questionCoverage": [
+      {
+        "code": "AC9E1LY08",
+        "label": "Content description",
+        "text": "write words using unjoined lower-case and upper-case letters",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LY08_E1",
+        "number": "E1",
+        "text": "continuing to develop a functional pencil grip/grasp",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "English",
+    "subject": "English",
+    "subjectSlug": "english",
+    "quizSubjectSlug": "english",
+    "level": "Year 1",
+    "levelLabel": "Year 1",
+    "yearNumber": 1,
+    "yearFolder": "year1",
+    "quizYearSegment": "year-1",
+    "code": "AC9E1LY09",
+    "title": "Words into separate phonemes (sounds) including consonant blends or clusters...",
+    "unitSlug": "ac9e1ly09-words-into-separate-phonemes-sounds-including-consonant-blends",
+    "sourceOrder": 53,
+    "strand": "Literacy",
+    "subStrand": "Phonic and word knowledge",
+    "description": "segment words into separate phonemes (sounds) including consonant blends or clusters at the beginnings and ends of words (phonological awareness)",
+    "levelDescription": "The English curriculum is built around the 3 interrelated strands of Language, Literature and Literacy . Teaching and learning programs should balance and integrate all 3 strands. Together, the 3 strands focus on developing students’ knowledge, understanding and skills in listening, reading, viewing, speaking, writing and creating. Learning in English is recursive and cumulative, building on concepts, skills and processes developed in earlier years. In Year 1, students learn that language is communicated in ways that meet the needs of diverse learners. They learn to interact with familiar audiences for different purposes. Students engage with a variety of texts for enjoyment. They listen to, read and view spoken, written and multimodal texts. Texts may include picture books, various types of stories, rhyming verse, poetry, non-fiction, various types of information texts, short films and animations, dramatic performances, and texts used by students as models for constructing their own texts. The range of literary texts for Foundation to Year 10 comprises the oral narrative traditions and literature of First Nations Australians, and classic and contemporary literature from wide-ranging Australian and world authors, including texts from and about Asia. Year 1 students develop their reading in a text-rich environment through engagement with a range of texts. This range includes literature that expands and reflects their world and texts that support learning in English and across the curriculum. Some students will continue to practise their reading with decodable texts that align with phonic development. These texts systematically introduce words with grapheme-phoneme correspondences. Developing readers engage with authentic texts that support and extend them as independent readers. These texts include straightforward sequences of events and everyday happenings with recognisably realistic or imaginary characters. Informative texts, with illustrations and diagrams, present a small amount of new content about familiar topics of interest and topics being studied in other learning areas. These texts use a small range of language features including simple and compound sentences, some unfamiliar vocabulary, high-frequency words and other words that need to be decoded using developing phonic knowledge. Year 1 students create short texts whose purposes may be imaginative, informative and persuasive. These texts may explain simple procedures, recount real or imagined events or experiences, report and describe learning area content, retell stories, express opinions, and describe real or imagined people, places or things for an audience.",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9E1LY09_E1",
+        "number": "E1",
+        "text": "saying sounds in order for a given spoken word; for example, “s-p-oo-n” and “f-i-s-t”",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year1/english/ac9e1ly09-words-into-separate-phonemes-sounds-including-consonant-blends/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-1/english/ac9e1ly09/worksheet/",
+    "teacherSlideUrl": "/worksheets/year1/english/teacher-slides/live.html?code=AC9E1LY09",
+    "questionCoverage": [
+      {
+        "code": "AC9E1LY09",
+        "label": "Content description",
+        "text": "segment words into separate phonemes (sounds) including consonant blends or clusters at the beginnings and ends of words (phonological awareness)",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LY09_E1",
+        "number": "E1",
+        "text": "saying sounds in order for a given spoken word; for example, “s-p-oo-n” and “f-i-s-t”",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "English",
+    "subject": "English",
+    "subjectSlug": "english",
+    "quizSubjectSlug": "english",
+    "level": "Year 1",
+    "levelLabel": "Year 1",
+    "yearNumber": 1,
+    "yearFolder": "year1",
+    "quizYearSegment": "year-1",
+    "code": "AC9E1LY10",
+    "title": "Manipulate phonemes in spoken words by addition, deletion and substitution...",
+    "unitSlug": "ac9e1ly10-manipulate-phonemes-in-spoken-words-by-addition-deletion-and",
+    "sourceOrder": 54,
+    "strand": "Literacy",
+    "subStrand": "Phonic and word knowledge",
+    "description": "orally manipulate phonemes in spoken words by addition, deletion and substitution of initial, medial and final phonemes to generate new words (phonological awareness)",
+    "levelDescription": "The English curriculum is built around the 3 interrelated strands of Language, Literature and Literacy . Teaching and learning programs should balance and integrate all 3 strands. Together, the 3 strands focus on developing students’ knowledge, understanding and skills in listening, reading, viewing, speaking, writing and creating. Learning in English is recursive and cumulative, building on concepts, skills and processes developed in earlier years. In Year 1, students learn that language is communicated in ways that meet the needs of diverse learners. They learn to interact with familiar audiences for different purposes. Students engage with a variety of texts for enjoyment. They listen to, read and view spoken, written and multimodal texts. Texts may include picture books, various types of stories, rhyming verse, poetry, non-fiction, various types of information texts, short films and animations, dramatic performances, and texts used by students as models for constructing their own texts. The range of literary texts for Foundation to Year 10 comprises the oral narrative traditions and literature of First Nations Australians, and classic and contemporary literature from wide-ranging Australian and world authors, including texts from and about Asia. Year 1 students develop their reading in a text-rich environment through engagement with a range of texts. This range includes literature that expands and reflects their world and texts that support learning in English and across the curriculum. Some students will continue to practise their reading with decodable texts that align with phonic development. These texts systematically introduce words with grapheme-phoneme correspondences. Developing readers engage with authentic texts that support and extend them as independent readers. These texts include straightforward sequences of events and everyday happenings with recognisably realistic or imaginary characters. Informative texts, with illustrations and diagrams, present a small amount of new content about familiar topics of interest and topics being studied in other learning areas. These texts use a small range of language features including simple and compound sentences, some unfamiliar vocabulary, high-frequency words and other words that need to be decoded using developing phonic knowledge. Year 1 students create short texts whose purposes may be imaginative, informative and persuasive. These texts may explain simple procedures, recount real or imagined events or experiences, report and describe learning area content, retell stories, express opinions, and describe real or imagined people, places or things for an audience.",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9E1LY10_E1",
+        "number": "E1",
+        "text": "adding, substituting or deleting phonemes in any position in one-syllable words with up to 4 phonemes",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LY10_E2",
+        "number": "E2",
+        "text": "substituting medial sounds in spoken words to make new words; for example, “pin”, “pen”, “pan”",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LY10_E3",
+        "number": "E3",
+        "text": "substituting final sounds in spoken words; for example, substitute the “t” in “pet” with “g” to form a new word “peg”",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year1/english/ac9e1ly10-manipulate-phonemes-in-spoken-words-by-addition-deletion-and/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-1/english/ac9e1ly10/worksheet/",
+    "teacherSlideUrl": "/worksheets/year1/english/teacher-slides/live.html?code=AC9E1LY10",
+    "questionCoverage": [
+      {
+        "code": "AC9E1LY10",
+        "label": "Content description",
+        "text": "orally manipulate phonemes in spoken words by addition, deletion and substitution of initial, medial and final phonemes to generate new words (phonological awareness)",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LY10_E1",
+        "number": "E1",
+        "text": "adding, substituting or deleting phonemes in any position in one-syllable words with up to 4 phonemes",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LY10_E2",
+        "number": "E2",
+        "text": "substituting medial sounds in spoken words to make new words; for example, “pin”, “pen”, “pan”",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LY10_E3",
+        "number": "E3",
+        "text": "substituting final sounds in spoken words; for example, substitute the “t” in “pet” with “g” to form a new word “peg”",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "English",
+    "subject": "English",
+    "subjectSlug": "english",
+    "quizSubjectSlug": "english",
+    "level": "Year 1",
+    "levelLabel": "Year 1",
+    "yearNumber": 1,
+    "yearFolder": "year1",
+    "quizYearSegment": "year-1",
+    "code": "AC9E1LY11",
+    "title": "Short vowels, common long vowels, consonant blends and digraphs to...",
+    "unitSlug": "ac9e1ly11-short-vowels-common-long-vowels-consonant-blends-and-digraphs-to",
+    "sourceOrder": 55,
+    "strand": "Literacy",
+    "subStrand": "Phonic and word knowledge",
+    "description": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
+    "levelDescription": "The English curriculum is built around the 3 interrelated strands of Language, Literature and Literacy . Teaching and learning programs should balance and integrate all 3 strands. Together, the 3 strands focus on developing students’ knowledge, understanding and skills in listening, reading, viewing, speaking, writing and creating. Learning in English is recursive and cumulative, building on concepts, skills and processes developed in earlier years. In Year 1, students learn that language is communicated in ways that meet the needs of diverse learners. They learn to interact with familiar audiences for different purposes. Students engage with a variety of texts for enjoyment. They listen to, read and view spoken, written and multimodal texts. Texts may include picture books, various types of stories, rhyming verse, poetry, non-fiction, various types of information texts, short films and animations, dramatic performances, and texts used by students as models for constructing their own texts. The range of literary texts for Foundation to Year 10 comprises the oral narrative traditions and literature of First Nations Australians, and classic and contemporary literature from wide-ranging Australian and world authors, including texts from and about Asia. Year 1 students develop their reading in a text-rich environment through engagement with a range of texts. This range includes literature that expands and reflects their world and texts that support learning in English and across the curriculum. Some students will continue to practise their reading with decodable texts that align with phonic development. These texts systematically introduce words with grapheme-phoneme correspondences. Developing readers engage with authentic texts that support and extend them as independent readers. These texts include straightforward sequences of events and everyday happenings with recognisably realistic or imaginary characters. Informative texts, with illustrations and diagrams, present a small amount of new content about familiar topics of interest and topics being studied in other learning areas. These texts use a small range of language features including simple and compound sentences, some unfamiliar vocabulary, high-frequency words and other words that need to be decoded using developing phonic knowledge. Year 1 students create short texts whose purposes may be imaginative, informative and persuasive. These texts may explain simple procedures, recount real or imagined events or experiences, report and describe learning area content, retell stories, express opinions, and describe real or imagined people, places or things for an audience.",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9E1LY11_E1",
+        "number": "E1",
+        "text": "using knowledge of letters and sounds to write words with short vowels; for example, “man”, and common long vowel sounds; for example, “time”",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LY11_E2",
+        "number": "E2",
+        "text": "using knowledge of letter sounds to write single-syllable words with consonant digraphs and consonant blends; for example, “wish” and “rest”",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year1/english/ac9e1ly11-short-vowels-common-long-vowels-consonant-blends-and-digraphs-to/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-1/english/ac9e1ly11/worksheet/",
+    "teacherSlideUrl": "/worksheets/year1/english/teacher-slides/live.html?code=AC9E1LY11",
+    "questionCoverage": [
+      {
+        "code": "AC9E1LY11",
+        "label": "Content description",
+        "text": "use short vowels, common long vowels, consonant blends and digraphs to write words, and blend these to read one- and two-syllable words",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LY11_E1",
+        "number": "E1",
+        "text": "using knowledge of letters and sounds to write words with short vowels; for example, “man”, and common long vowel sounds; for example, “time”",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LY11_E2",
+        "number": "E2",
+        "text": "using knowledge of letter sounds to write single-syllable words with consonant digraphs and consonant blends; for example, “wish” and “rest”",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "English",
+    "subject": "English",
+    "subjectSlug": "english",
+    "quizSubjectSlug": "english",
+    "level": "Year 1",
+    "levelLabel": "Year 1",
+    "yearNumber": 1,
+    "yearFolder": "year1",
+    "quizYearSegment": "year-1",
+    "code": "AC9E1LY12",
+    "title": "That a letter can represent more than one sound and...",
+    "unitSlug": "ac9e1ly12-that-a-letter-can-represent-more-than-one-sound-and",
+    "sourceOrder": 56,
+    "strand": "Literacy",
+    "subStrand": "Phonic and word knowledge",
+    "description": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
+    "levelDescription": "The English curriculum is built around the 3 interrelated strands of Language, Literature and Literacy . Teaching and learning programs should balance and integrate all 3 strands. Together, the 3 strands focus on developing students’ knowledge, understanding and skills in listening, reading, viewing, speaking, writing and creating. Learning in English is recursive and cumulative, building on concepts, skills and processes developed in earlier years. In Year 1, students learn that language is communicated in ways that meet the needs of diverse learners. They learn to interact with familiar audiences for different purposes. Students engage with a variety of texts for enjoyment. They listen to, read and view spoken, written and multimodal texts. Texts may include picture books, various types of stories, rhyming verse, poetry, non-fiction, various types of information texts, short films and animations, dramatic performances, and texts used by students as models for constructing their own texts. The range of literary texts for Foundation to Year 10 comprises the oral narrative traditions and literature of First Nations Australians, and classic and contemporary literature from wide-ranging Australian and world authors, including texts from and about Asia. Year 1 students develop their reading in a text-rich environment through engagement with a range of texts. This range includes literature that expands and reflects their world and texts that support learning in English and across the curriculum. Some students will continue to practise their reading with decodable texts that align with phonic development. These texts systematically introduce words with grapheme-phoneme correspondences. Developing readers engage with authentic texts that support and extend them as independent readers. These texts include straightforward sequences of events and everyday happenings with recognisably realistic or imaginary characters. Informative texts, with illustrations and diagrams, present a small amount of new content about familiar topics of interest and topics being studied in other learning areas. These texts use a small range of language features including simple and compound sentences, some unfamiliar vocabulary, high-frequency words and other words that need to be decoded using developing phonic knowledge. Year 1 students create short texts whose purposes may be imaginative, informative and persuasive. These texts may explain simple procedures, recount real or imagined events or experiences, report and describe learning area content, retell stories, express opinions, and describe real or imagined people, places or things for an audience.",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9E1LY12_E1",
+        "number": "E1",
+        "text": "recognising that letters can have more than one sound; for example, the letter “u” in “cut”, “put”, “use” and the letter “a” in “cat”, “father”, “any”",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LY12_E2",
+        "number": "E2",
+        "text": "recognising sounds that can be produced by different letters; for example, the “s” sound in “sat” and “cent”",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year1/english/ac9e1ly12-that-a-letter-can-represent-more-than-one-sound-and/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-1/english/ac9e1ly12/worksheet/",
+    "teacherSlideUrl": "/worksheets/year1/english/teacher-slides/live.html?code=AC9E1LY12",
+    "questionCoverage": [
+      {
+        "code": "AC9E1LY12",
+        "label": "Content description",
+        "text": "understand that a letter can represent more than one sound and that a syllable must contain a vowel sound",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LY12_E1",
+        "number": "E1",
+        "text": "recognising that letters can have more than one sound; for example, the letter “u” in “cut”, “put”, “use” and the letter “a” in “cat”, “father”, “any”",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LY12_E2",
+        "number": "E2",
+        "text": "recognising sounds that can be produced by different letters; for example, the “s” sound in “sat” and “cent”",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "English",
+    "subject": "English",
+    "subjectSlug": "english",
+    "quizSubjectSlug": "english",
+    "level": "Year 1",
+    "levelLabel": "Year 1",
+    "yearNumber": 1,
+    "yearFolder": "year1",
+    "quizYearSegment": "year-1",
+    "code": "AC9E1LY13",
+    "title": "One- and two-syllable words with common letter patterns",
+    "unitSlug": "ac9e1ly13-one-and-two-syllable-words-with-common-letter-patterns",
+    "sourceOrder": 57,
+    "strand": "Literacy",
+    "subStrand": "Phonic and word knowledge",
+    "description": "spell one- and two-syllable words with common letter patterns",
+    "levelDescription": "The English curriculum is built around the 3 interrelated strands of Language, Literature and Literacy . Teaching and learning programs should balance and integrate all 3 strands. Together, the 3 strands focus on developing students’ knowledge, understanding and skills in listening, reading, viewing, speaking, writing and creating. Learning in English is recursive and cumulative, building on concepts, skills and processes developed in earlier years. In Year 1, students learn that language is communicated in ways that meet the needs of diverse learners. They learn to interact with familiar audiences for different purposes. Students engage with a variety of texts for enjoyment. They listen to, read and view spoken, written and multimodal texts. Texts may include picture books, various types of stories, rhyming verse, poetry, non-fiction, various types of information texts, short films and animations, dramatic performances, and texts used by students as models for constructing their own texts. The range of literary texts for Foundation to Year 10 comprises the oral narrative traditions and literature of First Nations Australians, and classic and contemporary literature from wide-ranging Australian and world authors, including texts from and about Asia. Year 1 students develop their reading in a text-rich environment through engagement with a range of texts. This range includes literature that expands and reflects their world and texts that support learning in English and across the curriculum. Some students will continue to practise their reading with decodable texts that align with phonic development. These texts systematically introduce words with grapheme-phoneme correspondences. Developing readers engage with authentic texts that support and extend them as independent readers. These texts include straightforward sequences of events and everyday happenings with recognisably realistic or imaginary characters. Informative texts, with illustrations and diagrams, present a small amount of new content about familiar topics of interest and topics being studied in other learning areas. These texts use a small range of language features including simple and compound sentences, some unfamiliar vocabulary, high-frequency words and other words that need to be decoded using developing phonic knowledge. Year 1 students create short texts whose purposes may be imaginative, informative and persuasive. These texts may explain simple procedures, recount real or imagined events or experiences, report and describe learning area content, retell stories, express opinions, and describe real or imagined people, places or things for an audience.",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9E1LY13_E1",
+        "number": "E1",
+        "text": "writing one- and two-syllable words containing known blends; for example, “bl” and “st”",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year1/english/ac9e1ly13-one-and-two-syllable-words-with-common-letter-patterns/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-1/english/ac9e1ly13/worksheet/",
+    "teacherSlideUrl": "/worksheets/year1/english/teacher-slides/live.html?code=AC9E1LY13",
+    "questionCoverage": [
+      {
+        "code": "AC9E1LY13",
+        "label": "Content description",
+        "text": "spell one- and two-syllable words with common letter patterns",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LY13_E1",
+        "number": "E1",
+        "text": "writing one- and two-syllable words containing known blends; for example, “bl” and “st”",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "English",
+    "subject": "English",
+    "subjectSlug": "english",
+    "quizSubjectSlug": "english",
+    "level": "Year 1",
+    "levelLabel": "Year 1",
+    "yearNumber": 1,
+    "yearFolder": "year1",
+    "quizYearSegment": "year-1",
+    "code": "AC9E1LY14",
+    "title": "And write an increasing number of high-frequency words",
+    "unitSlug": "ac9e1ly14-and-write-an-increasing-number-of-high-frequency-words",
+    "sourceOrder": 58,
+    "strand": "Literacy",
+    "subStrand": "Phonic and word knowledge",
+    "description": "read and write an increasing number of high-frequency words",
+    "levelDescription": "The English curriculum is built around the 3 interrelated strands of Language, Literature and Literacy . Teaching and learning programs should balance and integrate all 3 strands. Together, the 3 strands focus on developing students’ knowledge, understanding and skills in listening, reading, viewing, speaking, writing and creating. Learning in English is recursive and cumulative, building on concepts, skills and processes developed in earlier years. In Year 1, students learn that language is communicated in ways that meet the needs of diverse learners. They learn to interact with familiar audiences for different purposes. Students engage with a variety of texts for enjoyment. They listen to, read and view spoken, written and multimodal texts. Texts may include picture books, various types of stories, rhyming verse, poetry, non-fiction, various types of information texts, short films and animations, dramatic performances, and texts used by students as models for constructing their own texts. The range of literary texts for Foundation to Year 10 comprises the oral narrative traditions and literature of First Nations Australians, and classic and contemporary literature from wide-ranging Australian and world authors, including texts from and about Asia. Year 1 students develop their reading in a text-rich environment through engagement with a range of texts. This range includes literature that expands and reflects their world and texts that support learning in English and across the curriculum. Some students will continue to practise their reading with decodable texts that align with phonic development. These texts systematically introduce words with grapheme-phoneme correspondences. Developing readers engage with authentic texts that support and extend them as independent readers. These texts include straightforward sequences of events and everyday happenings with recognisably realistic or imaginary characters. Informative texts, with illustrations and diagrams, present a small amount of new content about familiar topics of interest and topics being studied in other learning areas. These texts use a small range of language features including simple and compound sentences, some unfamiliar vocabulary, high-frequency words and other words that need to be decoded using developing phonic knowledge. Year 1 students create short texts whose purposes may be imaginative, informative and persuasive. These texts may explain simple procedures, recount real or imagined events or experiences, report and describe learning area content, retell stories, express opinions, and describe real or imagined people, places or things for an audience.",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9E1LY14_E1",
+        "number": "E1",
+        "text": "learning an increasing number of high-frequency words and reading them independently; for example, “one”, “have” and “pretty”",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year1/english/ac9e1ly14-and-write-an-increasing-number-of-high-frequency-words/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-1/english/ac9e1ly14/worksheet/",
+    "teacherSlideUrl": "/worksheets/year1/english/teacher-slides/live.html?code=AC9E1LY14",
+    "questionCoverage": [
+      {
+        "code": "AC9E1LY14",
+        "label": "Content description",
+        "text": "read and write an increasing number of high-frequency words",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LY14_E1",
+        "number": "E1",
+        "text": "learning an increasing number of high-frequency words and reading them independently; for example, “one”, “have” and “pretty”",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "English",
+    "subject": "English",
+    "subjectSlug": "english",
+    "quizSubjectSlug": "english",
+    "level": "Year 1",
+    "levelLabel": "Year 1",
+    "yearNumber": 1,
+    "yearFolder": "year1",
+    "quizYearSegment": "year-1",
+    "code": "AC9E1LY15",
+    "title": "And know how to use grammatical morphemes to create word...",
+    "unitSlug": "ac9e1ly15-and-know-how-to-use-grammatical-morphemes-to-create-word",
+    "sourceOrder": 59,
+    "strand": "Literacy",
+    "subStrand": "Phonic and word knowledge",
+    "description": "recognise and know how to use grammatical morphemes to create word families",
+    "levelDescription": "The English curriculum is built around the 3 interrelated strands of Language, Literature and Literacy . Teaching and learning programs should balance and integrate all 3 strands. Together, the 3 strands focus on developing students’ knowledge, understanding and skills in listening, reading, viewing, speaking, writing and creating. Learning in English is recursive and cumulative, building on concepts, skills and processes developed in earlier years. In Year 1, students learn that language is communicated in ways that meet the needs of diverse learners. They learn to interact with familiar audiences for different purposes. Students engage with a variety of texts for enjoyment. They listen to, read and view spoken, written and multimodal texts. Texts may include picture books, various types of stories, rhyming verse, poetry, non-fiction, various types of information texts, short films and animations, dramatic performances, and texts used by students as models for constructing their own texts. The range of literary texts for Foundation to Year 10 comprises the oral narrative traditions and literature of First Nations Australians, and classic and contemporary literature from wide-ranging Australian and world authors, including texts from and about Asia. Year 1 students develop their reading in a text-rich environment through engagement with a range of texts. This range includes literature that expands and reflects their world and texts that support learning in English and across the curriculum. Some students will continue to practise their reading with decodable texts that align with phonic development. These texts systematically introduce words with grapheme-phoneme correspondences. Developing readers engage with authentic texts that support and extend them as independent readers. These texts include straightforward sequences of events and everyday happenings with recognisably realistic or imaginary characters. Informative texts, with illustrations and diagrams, present a small amount of new content about familiar topics of interest and topics being studied in other learning areas. These texts use a small range of language features including simple and compound sentences, some unfamiliar vocabulary, high-frequency words and other words that need to be decoded using developing phonic knowledge. Year 1 students create short texts whose purposes may be imaginative, informative and persuasive. These texts may explain simple procedures, recount real or imagined events or experiences, report and describe learning area content, retell stories, express opinions, and describe real or imagined people, places or things for an audience.",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9E1LY15_E1",
+        "number": "E1",
+        "text": "building word families from common morphemes; for example, “play”, “plays”, “playing”, “played”, “playground”",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LY15_E2",
+        "number": "E2",
+        "text": "using morphemes to read words; for example, by recognising the base word in words such as “walk-ed”",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year1/english/ac9e1ly15-and-know-how-to-use-grammatical-morphemes-to-create-word/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-1/english/ac9e1ly15/worksheet/",
+    "teacherSlideUrl": "/worksheets/year1/english/teacher-slides/live.html?code=AC9E1LY15",
+    "questionCoverage": [
+      {
+        "code": "AC9E1LY15",
+        "label": "Content description",
+        "text": "recognise and know how to use grammatical morphemes to create word families",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LY15_E1",
+        "number": "E1",
+        "text": "building word families from common morphemes; for example, “play”, “plays”, “playing”, “played”, “playground”",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E1LY15_E2",
+        "number": "E2",
+        "text": "using morphemes to read words; for example, by recognising the base word in words such as “walk-ed”",
+        "questionEligible": true
+      }
+    ]
+  }
+]

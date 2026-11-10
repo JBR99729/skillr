@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-10 Australia/Sydney",
+  "code": "AC9E1LY10",
+  "prior_gap": "Saved QA correctly flags missing external addition/deletion/substitution teaching; internal40examples are not external observations.",
+  "ABC_first": {
+    "query": "site:abc.net.au/education sounds change phonemes",
+    "result": "Accessible Foundation Leanne onset/rime and McAlister segmenting/blending matches concern related decoding, not full add/delete/substitute all-position methods. No relevant full manipulation lesson established; no viewed/heard media claimed."
+  },
+  "sources": [
+    {
+      "url": "https://www.literacyhub.edu.au/video-assets/plm3-phonological-awareness-accessibility/",
+      "locator": "Module3 sections2\u20134, especially Add it/Drop it/Swap it/Move it transcript",
+      "observed": "Text transcript and audio descriptions inspected, not media. Sound-count counters and blending precede manipulation. Adult models, learner says new word, then printed confirmation appears.",
+      "tasks": [
+        {
+          "data": "pot plus initial /s/; lash plus /f/; rain plus /t/",
+          "answers": "spot; flash; train"
+        },
+        {
+          "data": "tram remove initial /t/, then /r/; spin remove /s/, then /p/",
+          "answers": "ram, am; pin, in"
+        },
+        {
+          "data": "back replace /b/ with /s/, then /s/ with /p/",
+          "answers": "sack, pack"
+        },
+        {
+          "data": "sat change middle vowel; hit and hat; pit and pat",
+          "answers": "sit; paired vowel changes"
+        }
+      ],
+      "method": "Retain unchanged sounds and their order; add a counter, remove one or exchange one, then blend. Digraphs may represent one sound; cluster consonants remain separate. Short explicit turns, familiar speech sounds and adult modelling.",
+      "design": "Original sound-only tasks with hidden learner spelling; independent new word required. Cover beginning/end/interior using up to4phonemes; do not copy the source sequence."
+    },
+    {
+      "url": "https://readinguniverse.org/skill-explainer/phonemic-awareness/phoneme-manipulation/explicitly-teach-phoneme-manipulation",
+      "locator": "Steps1\u20137 and Teacher Tip",
+      "observed": "Written explanation inspected. Review blending/segmenting and position words; one felt per sound. Model, guided try, then learner response; remove a felt and blend.",
+      "tasks": [
+        {
+          "data": "sit remove initial /s/",
+          "answers": "it"
+        },
+        {
+          "data": "see remove /s/; mow remove /m/",
+          "answers": "long e sound; long o sound"
+        }
+      ],
+      "method": "Avoid added uh after consonants. Progress to beginning/end/interior changes and clusters only when ready. Addition and substitution reuse the supported counter method. Sequence is provider-specific; no universal order asserted.",
+      "design": "New examples show a changed counter position and preserve every other sound. Observe actual oral response; printed answers and counter selection do not establish spoken performance."
+    },
+    {
+      "url": "https://www.education.vic.gov.au/school/teachers/teachingresources/discipline/english/reading/Pages/ft9to12phono.aspx",
+      "locator": "Manipulating sounds: deleting/inserting/substituting",
+      "observed": "Legacy government page text retrieved; page warns of migration. Used only for method transfer, not Year1scope authority.",
+      "tasks": [
+        {
+          "data": "brag remove /r/; pot insert /l/ after /p/; lip add /k/ before /l/; fun add /d/ at end",
+          "answers": "bag; plot; clip; fund"
+        },
+        {
+          "data": "flag replace /g/ with /t/; slim replace /m/ with /p/",
+          "answers": "flat; slip"
+        }
+      ],
+      "method": "State exact insertion/removal/replacement position, keep the remaining sounds, say the new word.",
+      "boundary": "Use only one-syllable examples at most4sounds in Year1LY10; exclude source bend/blend5sound target and multisyllable extensions."
+    }
+  ],
+  "closure": "All three operations now have actual method/task evidence; beginning/medial/final support explicit. Research sufficiency still requires independent plan review.",
+  "official_scope": "QCAA Year1v9PDF reopened; descriptors agree with current units. No directPDF anchor will be shipped."
+}

@@ -1,0 +1,225 @@
+{
+  "reviewer": "Independent research and subsequent source-content reviewer; no teaching-page authorship",
+  "date": "2026-11-10",
+  "gate": "PASS — READY TO DRAFT",
+  "scope": "Ten public static, unscored Topic Guides AC9E1LY06–LY15 only. This gate approves the evidence and plan for drafting, not final content or publication.",
+  "baseline": "fa6e0f69c11258f7981061e5e2dc0325f216b7fd",
+  "research_commit": "65a93465bd95246221b144c72212d1bfedb455fe",
+  "input_files_verified": 54,
+  "accepted_dependency_triples_verified": 44,
+  "retained_section_labels_verified": 67,
+  "reference_sha256": "13606ed2485957dd3d823a866a295860f9f8bbdd0eb27ac6c67b2ae38b300395",
+  "plan_input_sha256": {
+    "plan.json": "11b46cc507f4e602b0ef834204969c1c2334c7b72ae02b15cb7739b95a9e15db",
+    "retained-inventory-plan.json": "22b1de7c72fa8a93b82a8fb1baa5b48b55d4677eeb36ba0a8c9f5a066d41b9d3",
+    "supplemental-source-notes.json": "a612757e736dadb9c56d740176c6e319f3e6ccfd051f4a4792919fd99c1b311e",
+    "reused-research.json": "3cef287b24c6da4b6e956e005f4ca4b9c7421de6ad397ee9958e7b52c54d6484"
+  },
+  "original_pages": [
+    {
+      "code": "AC9E1LY06",
+      "path": "year1/english/ac9e1ly06-and-re-read-to-edit-short-written-and-or-multimodal-texts-to/index.html",
+      "bytes": 27040,
+      "sha256": "db20d7ba8d029d86eb5078d13802d36cae8cb91fa8d07b5633caebf76a8d7a85",
+      "matches_baseline": true,
+      "retained_section_count": 6
+    },
+    {
+      "code": "AC9E1LY07",
+      "path": "year1/english/ac9e1ly07-and-deliver-short-oral-and-or-multimodal-presentations-on/index.html",
+      "bytes": 31971,
+      "sha256": "fc76e1fce463ea693651890ec12f4225da61f4cecfb9ae9fc754d4e328e12f29",
+      "matches_baseline": true,
+      "retained_section_count": 7
+    },
+    {
+      "code": "AC9E1LY08",
+      "path": "year1/english/ac9e1ly08-words-using-unjoined-lower-case-and-upper-case-letters/index.html",
+      "bytes": 34422,
+      "sha256": "082484c024e21835dd81ad99145cf1913ba55d8c4923cc80779ad1c2e7af1354",
+      "matches_baseline": true,
+      "retained_section_count": 5
+    },
+    {
+      "code": "AC9E1LY09",
+      "path": "year1/english/ac9e1ly09-words-into-separate-phonemes-sounds-including-consonant-blends/index.html",
+      "bytes": 34213,
+      "sha256": "69ab977ffb6bf67ba009346cbfb63c7c4faa878bfb2eaa4a7e276ce873ecfd8a",
+      "matches_baseline": true,
+      "retained_section_count": 7
+    },
+    {
+      "code": "AC9E1LY10",
+      "path": "year1/english/ac9e1ly10-manipulate-phonemes-in-spoken-words-by-addition-deletion-and/index.html",
+      "bytes": 34892,
+      "sha256": "b9a4327efee58fc641acf095767a318a34e2e770b8b30c00990e6e2abfdd4544",
+      "matches_baseline": true,
+      "retained_section_count": 7
+    },
+    {
+      "code": "AC9E1LY11",
+      "path": "year1/english/ac9e1ly11-short-vowels-common-long-vowels-consonant-blends-and-digraphs-to/index.html",
+      "bytes": 34536,
+      "sha256": "a13157ed26751507d910f937531526df3a9aa058281950262e9a0c47fd57ea86",
+      "matches_baseline": true,
+      "retained_section_count": 7
+    },
+    {
+      "code": "AC9E1LY12",
+      "path": "year1/english/ac9e1ly12-that-a-letter-can-represent-more-than-one-sound-and/index.html",
+      "bytes": 33562,
+      "sha256": "ea52c7002533327356e93a124e0c25e8813adc1bd9590d18d32735786af0ec1e",
+      "matches_baseline": true,
+      "retained_section_count": 7
+    },
+    {
+      "code": "AC9E1LY13",
+      "path": "year1/english/ac9e1ly13-one-and-two-syllable-words-with-common-letter-patterns/index.html",
+      "bytes": 30620,
+      "sha256": "56f77d3309d3b0e48ac6fd84c87b73ec7127e7e66a25aa8da0d19a2f88dd7f70",
+      "matches_baseline": true,
+      "retained_section_count": 7
+    },
+    {
+      "code": "AC9E1LY14",
+      "path": "year1/english/ac9e1ly14-and-write-an-increasing-number-of-high-frequency-words/index.html",
+      "bytes": 30842,
+      "sha256": "71cc882d1b2a434172b6a8fb83b66f2b155ecc833d013dc25e5b5c960c345fa5",
+      "matches_baseline": true,
+      "retained_section_count": 7
+    },
+    {
+      "code": "AC9E1LY15",
+      "path": "year1/english/ac9e1ly15-and-know-how-to-use-grammatical-morphemes-to-create-word/index.html",
+      "bytes": 31486,
+      "sha256": "231221c445e8035e4cbe8174ffb5bc736ef3cda5c58acf6ab540937d8f54a682",
+      "matches_baseline": true,
+      "retained_section_count": 7
+    }
+  ],
+  "per_code": {
+    "AC9E1LY06": {
+      "evidence": "Current completed 75-item source-method ledger, actual composition/revision/image-caption task families; LE05 reusable narrative methods. Later completed gate supersedes candidate checkpoint.",
+      "plan": "Three entry focuses preserve report/opinion/recount, actual meaningful visual-caption composition, and rereading/editing. Retained six detailed sections supply examples and checking.",
+      "boundary": "Supply topic facts or a familiar observation; accept defensible opinions. Digital creation requires actual created images/captions on screen, not only identifying a good caption."
+    },
+    "AC9E1LY07": {
+      "evidence": "Actual 75-task five-focus ledger with complete Oak transcripts, self-contained external oral presentation tasks and bounded cue-sheet visual observations.",
+      "plan": "Three entry focuses combine planning, purposeful details/vocabulary, and rehearsal/actual delivery; seven retained sections retain purpose, gesture and voice examples.",
+      "boundary": "Written planning and recognition are prerequisites, not delivery evidence. No fixed accent, eye contact, standing, loudness, confidence or words-per-minute requirement. Do not infer unobserved books, model paintings or heard audio."
+    },
+    "AC9E1LY08": {
+      "evidence": "Actual 30 practical selected writing-block ledger, source movement/ruled models, government guidance on functional grasp, school-specific forms and Year 1 case use.",
+      "plan": "Three entry focuses separate comfortable controlled movement, actual lower/capital word production, and line/gap/legibility checking; five strong retained sections. Historical two-focus product exception is not a ban on three useful public entry topics.",
+      "boundary": "Actual unjoined handwriting using the school model; functional comfortable grasp rather than a universal tripod. No joining requirement or inference of grip from the final page."
+    },
+    "AC9E1LY09": {
+      "evidence": "Current QA plus full reusable Foundation segmentation/blending and ordered-sound methods; Year 1 LY04 ledger distinguishes sound-letter representations.",
+      "plan": "Order spoken phonemes, preserve beginning clusters, preserve ending clusters and distinguish digraphs. Seven retained sections provide worked segmentation.",
+      "boundary": "Sound count is not letter count; keep each cluster sound, no added schwa. Oral stimulus/response required for the phonological demand; printed scaffolding is explicitly separate."
+    },
+    "AC9E1LY10": {
+      "evidence": "Original QA genuinely lacked a complete externally inspected manipulation method. Gap now closed by full LiteracyHub Module 3 Add/Drop/Swap/Move transcript, Reading Universe explicit manipulation method, and complete cached Victorian government focused-teaching method.",
+      "plan": "Three useful focuses cover addition in different positions, initial/medial/final substitution, and deletion/reblending. Seven retained sections plus new given examples can now be drafted from sufficient methods.",
+      "boundary": "One syllable, up to four phonemes; initial/interior/final changes stated exactly. Oral target before print confirmation; counters represent sounds. Older Victorian tasks are method transfer only, not Year 1 authority."
+    },
+    "AC9E1LY11": {
+      "evidence": "Year 1 LY04 actual ledger and reusable Foundation spelling methods, bounded Year 3 actual open/closed and common-pattern observations.",
+      "plan": "Short/common-long vowel reading and writing, blends/digraphs, and familiar two-syllable blending/spelling. Seven retained sections.",
+      "boundary": "Read AND write, not selection alone. Blends and digraphs are a different classification axis from vowel length; a word can fit more than one pattern."
+    },
+    "AC9E1LY12": {
+      "evidence": "Actual Year 1/Foundation sound methods plus bounded Year 3 vowel/syllable explanations, checked against exact Year 1 elaborations.",
+      "plan": "One letter/different sounds, same sound/different letters, and vowel-sound syllables are three distinct assessable ideas. Seven retained sections.",
+      "boundary": "Count spoken vowel sounds, not vowel letters; use natural Australian pronunciation and familiar examples. Do not universalise open/closed or vowel-pair generalisations."
+    },
+    "AC9E1LY13": {
+      "evidence": "Full reusable Foundation spelling methods and Year 1 whole-word methods; bounded Year 3 syllable/common-pattern methods read including late correction limits.",
+      "plan": "Sound-to-pattern spelling, both parts of familiar two-syllable words, and checking blends/digraphs/standard spelling. Seven retained sections.",
+      "boundary": "Independent spelling hides the answer. Syllable segmentation does not determine rabbit double-b or every possible spelling; use taught standard forms or a reference."
+    },
+    "AC9E1LY14": {
+      "evidence": "Actual Foundation 5G5/YJZ/7V2 method and preview records with explicit audio/key limits; whole-word letters, regular/unusual parts, context check and covered-model production. Bounded Year 3 contextual methods.",
+      "plan": "Build a growing familiar repertoire, read whole words in context, and write without copying then check. Seven retained sections.",
+      "boundary": "Fluency develops without a speed-only criterion. Do not guess from shape/picture/first letter or infer unheard audio targets; hidden-target dictation/covered model distinguishes production from copying."
+    },
+    "AC9E1LY15": {
+      "evidence": "Actual Year 3 base/affix and regular past/plural methods including final-e/y/doubling cautions and late bounded gap notes. Official Year 1 grammatical-morpheme examples control scope.",
+      "plan": "Meaningful base versus rhyme, grammatical endings in complete sentences, and family/simple compound meaning. Seven retained sections.",
+      "boundary": "No universal -ing=present rule; complete sentence context controls tense/meaning. No Greek/Latin or broad derivational programme imported from older curriculum; do not claim full unobserved suffix coverage."
+    }
+  },
+  "required_drafting_repairs": [
+    {
+      "code": "AC9E1LY09",
+      "issue": "Internal IXL process sentence in retained learner explanation.",
+      "required": "Remove process-only equivalence wording while retaining the actual segmentation teaching."
+    },
+    {
+      "code": "AC9E1LY11",
+      "issue": "Vowel length, consonant blends and digraphs were presented as exclusive sorting categories.",
+      "required": "State the sorting axis or explicitly permit overlapping labels; preserve accurate answers for words such as ship."
+    },
+    {
+      "code": "AC9E1LY13",
+      "issue": "Rabbit/rab-bit task implies hearing two syllables determines doubled b.",
+      "required": "Teach/check the known standard rabbit spelling explicitly; do not infer double b merely from syllables."
+    },
+    {
+      "code": "AC9E1LY14",
+      "issue": "The dog is small asks which word must be recognised quickly, key The; multiple frequent words are defensible.",
+      "required": "Specify the target/criterion or accept all justified responses, and remove speed-only implication."
+    },
+    {
+      "code": "AC9E1LY14",
+      "issue": "I have some apples asks which word might need extra practice, key some; learner-dependent and visible model undermines from-memory writing.",
+      "required": "Specify a concrete target or accept individual needs; use adult dictation or explicit cover-then-write before checking."
+    },
+    {
+      "code": "AC9E1LY15",
+      "issue": "Helping/-ing alone is described as meaning happening now.",
+      "required": "Use complete sentences and distinguish the grammatical construction/context; do not teach a universal ing=present rule."
+    }
+  ],
+  "ly10_independent_closure": {
+    "abc_first": "ABC first-pass related segmentation/onset-rime material did not itself supply the complete manipulation method. No quota research was requested.",
+    "literacyhub": {
+      "url": "https://www.literacyhub.edu.au/video-assets/plm3-phonological-awareness-accessibility/",
+      "inspection": "Full written accessibility transcript and audio descriptions independently reopened; no media heard or played.",
+      "checked_examples": [
+        "pot + initial /s/ = spot",
+        "lash + initial /f/ = flash",
+        "rain + medial /t/ = train",
+        "tram delete /t/ = ram; delete /r/ = am",
+        "spin delete /s/ = pin; delete /p/ = in",
+        "back substitute /b/ to /s/ = sack; then /s/ to /p/ = pack",
+        "sat substitute medial vowel = sit; hit/hat, pit/pat"
+      ]
+    },
+    "reading_universe": {
+      "url": "https://readinguniverse.org/skill-explainer/phonemic-awareness/phoneme-manipulation/explicitly-teach-phoneme-manipulation",
+      "inspection": "Full written explicit-method page independently reopened: prerequisite segmentation/blending; sound-position language; one felt per sound; model/guided/independent oral responses; avoid schwa.",
+      "limit": "Its suggested teaching order is a provider sequence, not a mandatory universal sequence; remaining sound examples such as see minus /s/ must not be represented as necessarily new whole words."
+    },
+    "victorian_government": {
+      "url": "https://www.education.vic.gov.au/school/teachers/teachingresources/discipline/english/reading/Pages/ft9to12phono.aspx",
+      "inspection": "Direct retrieval returned 502. Independently recovered complete cached government method body through a domain-specific stronger search, not merely a snippet/title.",
+      "checked_examples": [
+        "brag delete interior /r/ = bag",
+        "pot add /l/ after /p/ = plot",
+        "lip add initial /k/ = clip",
+        "fun add final /d/ = fund",
+        "flag substitute final /g/ with /t/ = flat",
+        "slim substitute final /m/ with /p/ = slip"
+      ],
+      "limit": "Source is for Years 3–6; transfer only the method and checked one-syllable <=4-phoneme examples. Exclude bend→blend (five target phonemes), multisyllabic and older complexity."
+    }
+  },
+  "review_limits": [
+    "Read actual current QA decisions, accepted method/teaching records, relevant late corrections, all ten original lesson bodies and all planned retained labels. Did not claim a new exhaustive solve of every historical source or product item.",
+    "No new media/audio, child performance, cultural-source permission, commercial-product content or current app-bank certification is inferred. Existing images/models still require independent pixel review on the authored exact version.",
+    "Full source-content review of new authored prompts, answers, explanations, retained repairs and stimuli is pending. The current 10 November SOP also requires a fresh separate final risk-based reviewer, all repairs/high-risk content plus a suitable remainder sample, and actual rendered-artifact inspection.",
+    "These are public unscored prompts. This is not blind-scored-bank, human teacher, pupil trial, attainment or universal-quality certification."
+  ],
+  "unresolved_research_blockers": []
+}
