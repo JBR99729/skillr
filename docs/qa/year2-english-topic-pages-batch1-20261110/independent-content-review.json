@@ -5,13 +5,13 @@
   "scope": "All ten public static unscored Year2English TopicGuides AC9E2LA01–LA10 only. Source/content approval, not final hosted rendered approval.",
   "git_checkpoint_at_review": "511e0a4bc1879e51415bd67f1d2486902abb7b49",
   "baseline": "15e71b375ff546c365f103a257cddd0808a9bf67",
-  "identity_rule": "Exact reviewed page/asset SHA256 values below govern; evidence-only commits may follow. LA09 final repair is beyond the stated source checkpoint and explicitly proved/pinned below.",
+  "identity_rule": "Exact reviewed page/asset SHA256 values below govern; evidence-only commits may follow. LA04 arrow and LA09 story clarifications are explicitly proved/pinned below; working-tree identities are authoritative.",
   "coverage": {
     "authored_scalar_fields": 440,
     "teaching_strings_excluding_code_ids": 430,
     "retained_teaching_sections": 51,
     "recorded_retained_additions": 33,
-    "recorded_retained_corrections": 16,
+    "recorded_retained_corrections": 17,
     "native_disclosures": 188,
     "earlier_svg_models": 10,
     "native_models_semantically_reviewed": 30,
@@ -22,7 +22,7 @@
     "AC9E2LA01": "PASS. Explicit contexts/cards, listener familiarity, roles and repair targets present. Alternative respectful wording is credited. Actual authorised local greeting/protocol preparation supplies source/model/usage conditions; no invented language, authority, assumed status, universal formality, gaze/accent judgement or ceremony role-play. Welcome permission-bearing role and anyone Acknowledgement distinction match independently verified primary source.",
     "AC9E2LA02": "PASS. Complete original story/poem and actual response cards now support appreciation and relevant reasons. Different supported preferences accepted. Cultural task requires a lawful actual Cooee Mittigar copy, relevant spread and glossary before response; Darug creators/Country identified, no full-book detail or translation inferred from art. Reader effect claims remain subjective.",
     "AC9E2LA03": "PASS. Six complete samples, meaningful purpose/form contrasts and actual scrambled fold/draw-on-folded-paper/open cards supply all givens. Connected events, report facts, procedure order and poem response distinguish real language/organisation clues. Common structures qualified; one word, topic or poster form is not treated as a genre proof.",
-    "AC9E2LA04": "PASS. Actual repetitive/clear/ambiguous paragraphs, personal/ownership forms and speaker-perspective chain supplied. Pronoun referents track meaning, number and context rather than nearest noun or guessed gender. Paint/Jo-did omissions expand recoverably; ambiguous Mia/Ava reference can be repaired by intended name. Repetition is retained when it clarifies.",
+    "AC9E2LA04": "PASS. Actual repetitive/clear/ambiguous paragraphs, personal/ownership forms and speaker-perspective chain supplied. Pronoun referents track meaning, number and context rather than nearest noun or guessed gender. Paint/Jo-did omissions expand recoverably; ambiguous Mia/Ava reference can be repaired by intended name. Repetition is retained when it clarifies. Related final-review C02 arrow correction independently checked: exact one-attribute change and corrected local pixels now point left from They toward The chicks; all other HTML bytes unchanged.",
     "AC9E2LA05": "PASS in source/content scope. Complete three-chapter contents, alphabetic Bedding/Bowls/Cleaning/Home/Water index, printed3/8/14 extracts and native menu/anchor destinations agree. Page8 white-water/blue-feed bowls and page14 sleeping-area bedding answers are stated in the actual model. Chapter versus page numbers and PDF counter distinction clear. Source code exposes real routes; actual browser navigation remains later final testing, not inferred from this review.",
     "AC9E2LA06": "PASS. Complete/incomplete clause cards, independent-clause test, addition/contrast/choice/result tasks and retained full worked reasoning all coherent. Intended link specified when so/but required; grammatical alternatives with different meanings handled appropriately. Coordinated words/actions distinguished from two explicit clauses without pretending there is no grammatical-framework variation. Three-plus clauses allowed.",
     "AC9E2LA07": "PASS. Article/adjective/noun cards and actual sentences supplied. Whole noun/verb groups checked, helping verb retained; nouns can name ideas and verbs states. Subject agreement and aspect/time changes explained rather than presented as length-only edits. Useful details rather than adjective count; a/an follows next spoken sound.",
@@ -42,6 +42,20 @@
       "exact_repair_proof": "Complete final LA09 HTML equals 03d2614ca452f8f10c3036364c4af8159676722b HTML after replacing precisely these two packet strings; every other byte unchanged.",
       "prior_html_sha256": "bc79822579fe000038d23421f6fd831b60e4ff95089ba8f508975717a04aff92",
       "final_html_sha256": "3bfb36b08310bce17a0185503d01bd42664524f86d6131050256a1f661781439"
+    },
+    {
+      "id": "C02",
+      "code": "AC9E2LA04",
+      "location": "Earlier worked model SVG arrow, d attribute",
+      "reported_by": "Fresh separate final risk/render reviewer, from actual hosted pixels",
+      "initial_problem": "Existing path arrowhead pointed right at the chicks endpoint despite the reference-back relation. This was missed in the earlier local all-model review and caught by the separate final reviewer.",
+      "status": "CLOSED in source/content and local corrected pixel scope; final hosted pixel recheck belongs to the separate final reviewer",
+      "before": "M203 60H158m-7-5l7 5-7 5",
+      "after": "M203 60H158m7-5l-7 5 7 5",
+      "exact_repair_proof": "Final complete LA04 HTML equals the originally reviewed HTML after precisely one literal d replacement; every other byte unchanged. Corrected line starts at x203, ends at x158 and arrowhead arms lie to the right of its leftward tip.",
+      "prior_html_sha256": "00864ca0ba52a0331135ddc23461533b4be6265430e826d450fb27356afefc81",
+      "final_html_sha256": "0e1cb0676153ad59ccd5c2f2d3c8f93593fb1b5f50028d21e8c6a8a84aa22290",
+      "related_verification": "Independently reran scoped source QA PASS440/51/188. Re-rendered/opened only corrected LA04 SVG; it now visibly points from They left toward The chicks. No repeated all-content review."
     }
   ],
   "research_source_closure": "Prior independently pinned research/plan PASS reused. All-source method/gap closures remain sufficient for these authored families. No repeated quota collection. Primary cultural/publisher/protocol checks from research gate apply with explicit actual-book/local-source staging.",
@@ -141,7 +155,7 @@
       "code": "AC9E2LA04",
       "path": "year2/english/ac9e2la04-how-texts-are-made-cohesive-by-using-personal-and-possessive/index.html",
       "bytes": 26046,
-      "sha256": "00864ca0ba52a0331135ddc23461533b4be6265430e826d450fb27356afefc81",
+      "sha256": "0e1cb0676153ad59ccd5c2f2d3c8f93593fb1b5f50028d21e8c6a8a84aa22290",
       "all_44_authored_scalars_present": true
     },
     {
@@ -708,7 +722,7 @@
     {
       "code": "AC9E2LA04",
       "index": 1,
-      "literal_svg_sha256": "44e6ab87816a43b94a8103beeff4ae72224e4b9faf8a86df80ff59a35dc7a034",
+      "literal_svg_sha256": "4b5020c8760d6bd824fe96d33520310548f26eea6ef7952f7678d0886e9fb843",
       "origin": "Preserved earlier inline SVG; native browser pixel review pending."
     },
     {
@@ -784,8 +798,8 @@
     },
     {
       "path": "independent-inline-renders/AC9E2LA04.png",
-      "bytes": 6874,
-      "sha256": "32177f3d7b017f95b2b82c70fbd1845eca03290a75a280b7a6b1929200d950cd"
+      "bytes": 6875,
+      "sha256": "a98e936ea1c161691a468e9440b45fe93f7cdf32b53b63d7e6fb5bd8b4a84d91"
     },
     {
       "path": "independent-inline-renders/AC9E2LA05.png",
@@ -821,12 +835,13 @@
   "support_sha256": {
     "page-content.json": "76fd55762d5601a1e5ea1ec3232ed6579415bd10bfa4e65694b6474372ffaf24",
     "retained-additions.json": "e49cc707a453ebfc5dad28d7c3eaf09ae41587942f55c0d07914ba93ef41116a",
-    "retained-corrections.json": "b760ea74efa317fb7a4a60889645be09af0890882c1727e1b48fa6515e4b6bc2",
+    "retained-corrections.json": "e6d29224296014743d3076e6a4f0ad2ad02271d7d11e61e96101bdff50509ee9",
     "retained-section-identities.json": "e655ae512691a1ad88c8a7de16bc4040a0de6dee9fb140f183f09f64162afd81",
-    "inventory.json": "9b6c05ddafbf4b358099d8ca94c8f1e57845abc24fb54e2aee1d0d08635afb57",
-    "artwork-and-evidence.json": "65fd1b8a55c739aa7c0c5a51922f2b8a18105f99672931d23379ad46635dfcad",
+    "inventory.json": "1f79dab68e9c608625c49436877e3261e476cad836478bb0cf9227cafe070e73",
+    "artwork-and-evidence.json": "9da091c8e9b2128b7c3b20f893aae73ed31c1039496c1b766c74e04cfe08a202",
     "plan.json": "ace5bef74992f4d675b95ba5d6a44e70144962a6ddac0aaabbb98e77c2a09a3d",
     "retained-inventory-plan.json": "c4cd10457659a8e2bd053a0f702522c85376e0b3ef7d196e17920cb99077fc2c",
     "supplemental-source-notes.json": "fea569419651ad25a6214b98c2cbbcaaa7a1a1fc54a9d9ef8907e0b72ec25c63"
-  }
+  },
+  "source_checker_sha256": "335536b1ccf27bb9e613d13066472e70cf195ed2f8718b50c069429248442df5"
 }
