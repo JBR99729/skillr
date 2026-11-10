@@ -1,0 +1,17 @@
+{
+  "failed_node_poll_run": 42772259179,
+  "head": "f99aa8e38b81ae45c143a337d9b54cd4ed9ddea8",
+  "outcome": "failure: tablet completed all24 clicks; desktop/phone still had unstable next-link clicks",
+  "artifact_metadata": {
+    "id": 13741714787,
+    "github_digest": "sha256:58bcd4af032eb7369f49aad434571beac079114b9d8820d8ea95de795e85e0c9",
+    "actual_zip_downloaded": false
+  },
+  "repair": "Only LA05 contains the scoped demo-navigation: immediate native hash scrolling, no hover translation for its example links. Background/color and focus feedback retained. No curriculum/HTML/SVG/answer changes.",
+  "independent_css_review": "Fresh final reviewer inspected actual selector scope and confirmed only LA05/six navigation models match; no other9 guide affected.",
+  "css_before_sha256": "8f7fe93de14185e618ceebf4e3337cea4945ec6dae146662abc9a2862dedb81d",
+  "css_after_sha256": "190301deb356366cd41a678a40562b4c8a56dcdd54cac2002dbd6d8ea0db87cd",
+  "transitive_dependency_added": "assets/css/site-theme.css, unchanged; no nested imports/URLs",
+  "assertions": "Same24 real pointer clicks, exact destination hash and visible target checks at each viewport; unchanged Node quiet/deadline guard",
+  "rerun": "PENDING"
+}

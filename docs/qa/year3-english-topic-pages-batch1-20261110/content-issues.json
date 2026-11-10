@@ -41,5 +41,13 @@
     "classification": "Optional wording improvement",
     "finding": "A supplementary heading still calls the source sentences earlier evaluation examples; actual verb-process analysis is accurate and explicit.",
     "status": "BACKLOG; non-blocking under current quality protocol"
+  },
+  {
+    "id": "LA05-MOTION",
+    "code": "AC9E3LA05",
+    "classification": "Navigation interaction stability",
+    "finding": "Inherited smooth hash movement/hover translation caused unstable sequential pointer navigation in hosted desktop/phone checks.",
+    "repair": "Scoped immediate hash jumps and stationary hover geometry for worked menu links, preserving feedback/focus styles.",
+    "status": "REPAIRED; real-pointer regression at three widths pending"
   }
 ]

@@ -23,3 +23,8 @@
 .year3-english-batch1 #skillr-topic-variants .steps:has(.complete-stimulus){grid-template-columns:1fr}
 
 .year3-english-batch1 #skillr-topic-variants .steps:has(>article:nth-child(4)){grid-template-columns:1fr}
+
+/* Keep the worked navigation menus steady as learners move between sections. */
+html:has(body.year3-english-batch1 .demo-navigation){scroll-behavior:auto}
+.year3-english-batch1 #skillr-topic-variants .demo-navigation a,
+.year3-english-batch1 #skillr-topic-variants .demo-navigation a:hover{transform:none;transition:background-color .2s ease,color .2s ease}
