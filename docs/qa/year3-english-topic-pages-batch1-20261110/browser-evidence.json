@@ -5,5 +5,20 @@
   },
   "source_diagram_stimuli": "Six exact authored LA09 SVGs were rendered with Inkscape at1080px width for independent visual-response solving. Standalone graphic evidence is separate from served browser layout.",
   "required_hosted_scope": "10pages at1440/768/390 with JavaScript disabled; JS smokes, native answers, all24LA05 navigation links at each size, all21SVG +24native model captures, keyboard phone diagram panning and overflow.",
-  "hosted_status": "PENDING"
+  "hosted_status": "INITIAL FAILURE preserved; harness timing repair rerun pending",
+  "initial_run": {
+    "id": 42770850475,
+    "head": "8ce8f83559b5cef45ea65a9c24ec252d41285504",
+    "artifact": 13742061589,
+    "zip_sha256": "fa55abf0025c99f19703874d3248c8a03f5cef33abf318161bb2eddc47205ec8",
+    "digest_matched": true,
+    "model_PNGs": 45,
+    "failed_code": "AC9E3LA05",
+    "failed_widths": [
+      1440,
+      768,
+      390
+    ],
+    "result": "failure, not a pass"
+  }
 }

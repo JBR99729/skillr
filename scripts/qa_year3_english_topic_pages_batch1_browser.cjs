@@ -6,6 +6,22 @@ const inventory = JSON.parse(fs.readFileSync('docs/qa/year3-english-topic-pages-
 const origin = process.env.QA_ORIGIN || 'http://127.0.0.1:8765';
 const out = 'artifacts/year3-english-topic-pages-batch1-browser';
 fs.mkdirSync(out, {recursive:true});
+// Native hash navigation inherits the site's smooth scrolling. Wait for its
+// actual position to settle before moving to another link; retain real clicks.
+async function waitForScrollToSettle(page) {
+  await page.evaluate(() => new Promise((resolve,reject) => {
+    let lastX=scrollX,lastY=scrollY,quietSince=performance.now();
+    const start=performance.now();
+    function check(now){
+      if(Math.abs(scrollX-lastX)>0.1||Math.abs(scrollY-lastY)>0.1){lastX=scrollX;lastY=scrollY;quietSince=now;}
+      if(now-quietSince>=300){resolve();return;}
+      if(now-start>10000){reject(new Error('Native scroll did not settle'));return;}
+      requestAnimationFrame(check);
+    }
+    requestAnimationFrame(check);
+  }));
+}
+
 (async () => {
   const browser = await chromium.launch({executablePath:process.env.CHROME_BIN || '/usr/bin/google-chrome', headless:true});
   const results = [], problems = [];
@@ -72,8 +88,10 @@ fs.mkdirSync(out, {recursive:true});
           assert.equal(await links.count(),24,'LA05 complete working navigation cards');
           for(const link of await links.all()){
             const href=await link.getAttribute('href');
+            await waitForScrollToSettle(page);
             await link.evaluate(e=>e.scrollIntoView({block:'center',behavior:'instant'}));
             await link.click();
+            await waitForScrollToSettle(page);
             assert.equal(new URL(page.url()).hash,href,'native navigation selects its exact destination');
             const target=await page.evaluate(h=>{const e=document.getElementById(decodeURIComponent(h.slice(1)));if(!e)return null;const r=e.getBoundingClientRect();return {text:e.textContent.trim(),top:r.top}},href);
             assert(target&&target.text.length>0&&target.top>=-1&&target.top<1000,'destination content visible after native link');

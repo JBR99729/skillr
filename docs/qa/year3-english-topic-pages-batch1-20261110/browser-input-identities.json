@@ -67,9 +67,9 @@
   },
   {
     "path": "scripts/qa_year3_english_topic_pages_batch1_browser.cjs",
-    "sha256": "98b9e38d63956c44ec91ff359a20f7557b4b433f1e22b018a202e5eb90e66afe",
-    "git_blob_sha": "c30ac74f1037faf656b3c9066e739ee34734d194",
-    "bytes": 13684
+    "sha256": "1489a67fe7c6b8fa07042c062a0a5f4cdb45813cc013d191e088f67b50acc417",
+    "git_blob_sha": "b0fd04f8a0c99adcfbe713a5ba85c455c57e90fb",
+    "bytes": 14500
   },
   {
     "path": "style.css",
