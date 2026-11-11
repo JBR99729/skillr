@@ -1,0 +1,317 @@
+{
+  "reviewer": "/root/english_batch3_review — independent AI reviewer",
+  "date": "2026-11-10",
+  "status": "PASS",
+  "workflow_run": 42704793679,
+  "head": "25628f94df2ef7b80f824670e0d09e39e40811f2",
+  "artifact_id": 13712647363,
+  "zip_sha256": "cc0ffa8a68140ab3396123cd907cd108e53c28afc1411b6fbfcb195b2b6f3d83",
+  "results_sha256": "2f78708d2f9e4402b80ead2d7cb6d6c6ad05fda2d9b340c4ee1b9be89783cacf",
+  "actual_individual_png_inspection": {
+    "native_models": 29,
+    "retained_models": 11,
+    "files": [
+      {
+        "file": "AC9EFLY07-1440-native-1.png",
+        "sha256": "5de53e7d3f9278c8de2c1b257d20a2bb5f2603bcf5467fb828605ebad47b7f22",
+        "opened_individually": true,
+        "visual_result": "PASS",
+        "code_note": "Topic/detail/report-response and sequence cue cards legible; earlier two-detail report fits its stated order."
+      },
+      {
+        "file": "AC9EFLY07-1440-native-2.png",
+        "sha256": "989e14378fc9afae1301e9370f0f3916733bb7caf66f696465260d892ed4bcf8",
+        "opened_individually": true,
+        "visual_result": "PASS",
+        "code_note": "Topic/detail/report-response and sequence cue cards legible; earlier two-detail report fits its stated order."
+      },
+      {
+        "file": "AC9EFLY07-1440-native-3.png",
+        "sha256": "aebd26a5d17b198bd6790368cf045f321c3c37bf057072ed51656e976164c9f8",
+        "opened_individually": true,
+        "visual_result": "PASS",
+        "code_note": "Topic/detail/report-response and sequence cue cards legible; earlier two-detail report fits its stated order."
+      },
+      {
+        "file": "AC9EFLY07-1440-native-4.png",
+        "sha256": "8a4d81bdb51f189f3ea4221dcdf3f6151fa9d6d3ddc1a7f925c1d95d5c1e0767",
+        "opened_individually": true,
+        "visual_result": "PASS",
+        "code_note": "Topic/detail/report-response and sequence cue cards legible; earlier two-detail report fits its stated order."
+      },
+      {
+        "file": "AC9EFLY07-1440-retained-1.png",
+        "sha256": "3a396328e5412ff7924a70b0e13952f11cb017f693ba5e016f975838c428ba7e",
+        "opened_individually": true,
+        "visual_result": "PASS",
+        "code_note": "Topic/detail/report-response and sequence cue cards legible; earlier two-detail report fits its stated order."
+      },
+      {
+        "file": "AC9EFLY08-1440-native-1.png",
+        "sha256": "a1616606d96b0df09db5de96520fdbc8297283441a46d4ef6ee122c074fe3d6b",
+        "opened_individually": true,
+        "visual_result": "PASS",
+        "code_note": "All26casepairs present and readable; glyph samples explicitly identification-only. c-open/o-closed earlier diagram clear; no claim static samples show actual writing movement."
+      },
+      {
+        "file": "AC9EFLY08-1440-native-2.png",
+        "sha256": "8933111ee2da29505a60aadb51d22298124d9b206936aee28afd0f13f0a1c986",
+        "opened_individually": true,
+        "visual_result": "PASS",
+        "code_note": "All26casepairs present and readable; glyph samples explicitly identification-only. c-open/o-closed earlier diagram clear; no claim static samples show actual writing movement."
+      },
+      {
+        "file": "AC9EFLY08-1440-native-3.png",
+        "sha256": "ab8018f6d235661c74d8a06b2486d06e661a3a2611d53692877f563ed741037f",
+        "opened_individually": true,
+        "visual_result": "PASS",
+        "code_note": "All26casepairs present and readable; glyph samples explicitly identification-only. c-open/o-closed earlier diagram clear; no claim static samples show actual writing movement."
+      },
+      {
+        "file": "AC9EFLY08-1440-native-4.png",
+        "sha256": "e595cc9db543987cd0c9e18d7919c3915995c4e4f3a6ef01581469a41771051b",
+        "opened_individually": true,
+        "visual_result": "PASS",
+        "code_note": "All26casepairs present and readable; glyph samples explicitly identification-only. c-open/o-closed earlier diagram clear; no claim static samples show actual writing movement."
+      },
+      {
+        "file": "AC9EFLY08-1440-retained-1.png",
+        "sha256": "d15173c58c184c5eca42e26559ae9ddd245f007b606a5b78dcb86ec457150b71",
+        "opened_individually": true,
+        "visual_result": "PASS",
+        "code_note": "All26casepairs present and readable; glyph samples explicitly identification-only. c-open/o-closed earlier diagram clear; no claim static samples show actual writing movement."
+      },
+      {
+        "file": "AC9EFLY09-1440-native-1.png",
+        "sha256": "50e041dba7ee816be75b9e26263f46221260fda2a70ab518f623cc200effcb91",
+        "opened_individually": true,
+        "visual_result": "PASS",
+        "code_note": "Spoken-rhyme/alliteration/syllable cue cards clear; corrected descriptions match cards. Earlier cake/lake/make shared-ending table legible."
+      },
+      {
+        "file": "AC9EFLY09-1440-native-2.png",
+        "sha256": "c3e550a14712a8035b95db45a1236faaad32defc8740209055308475a6f80b0b",
+        "opened_individually": true,
+        "visual_result": "PASS",
+        "code_note": "Spoken-rhyme/alliteration/syllable cue cards clear; corrected descriptions match cards. Earlier cake/lake/make shared-ending table legible."
+      },
+      {
+        "file": "AC9EFLY09-1440-native-3.png",
+        "sha256": "ac6b86b9370810d2591d06e9f5c824df4105be020caae533b744fc37478f583f",
+        "opened_individually": true,
+        "visual_result": "PASS",
+        "code_note": "Spoken-rhyme/alliteration/syllable cue cards clear; corrected descriptions match cards. Earlier cake/lake/make shared-ending table legible."
+      },
+      {
+        "file": "AC9EFLY09-1440-native-4.png",
+        "sha256": "56ea5e29f2e849dca8a23808f45572af05c94b2e61b8ad12709f9144a56b8b72",
+        "opened_individually": true,
+        "visual_result": "PASS",
+        "code_note": "Spoken-rhyme/alliteration/syllable cue cards clear; corrected descriptions match cards. Earlier cake/lake/make shared-ending table legible."
+      },
+      {
+        "file": "AC9EFLY09-1440-retained-1.png",
+        "sha256": "d0523ec42c29cbe2abb4ecb08d33ea8fe1a3d35f9092ab50f45303261b9c92ca",
+        "opened_individually": true,
+        "visual_result": "PASS",
+        "code_note": "Spoken-rhyme/alliteration/syllable cue cards clear; corrected descriptions match cards. Earlier cake/lake/make shared-ending table legible."
+      },
+      {
+        "file": "AC9EFLY10-1440-native-1.png",
+        "sha256": "31b53d6b9a1aa919215e6a7061410e0c6c60b6e8bfac39d09c2a74cb93a2fd65",
+        "opened_individually": true,
+        "visual_result": "PASS",
+        "code_note": "Added/removed/replaced sound positions visible; cue-word labels and3catphoneme counters accurate; IPA /æ/ intact."
+      },
+      {
+        "file": "AC9EFLY10-1440-native-2.png",
+        "sha256": "76bd7a2210036478c3405a8d8893393f15bebf0441da5d7461eba9460567760b",
+        "opened_individually": true,
+        "visual_result": "PASS",
+        "code_note": "Added/removed/replaced sound positions visible; cue-word labels and3catphoneme counters accurate; IPA /æ/ intact."
+      },
+      {
+        "file": "AC9EFLY10-1440-native-3.png",
+        "sha256": "c789ffd7dfb82690d0a471cae129459641b365b07a2ab9b47483f9ed1e034e38",
+        "opened_individually": true,
+        "visual_result": "PASS",
+        "code_note": "Added/removed/replaced sound positions visible; cue-word labels and3catphoneme counters accurate; IPA /æ/ intact."
+      },
+      {
+        "file": "AC9EFLY10-1440-native-4.png",
+        "sha256": "1f115845ddb32587e947c05c24ab35f0cddcbe30a0b79a6e7eab9e8c511d7d5f",
+        "opened_individually": true,
+        "visual_result": "PASS",
+        "code_note": "Added/removed/replaced sound positions visible; cue-word labels and3catphoneme counters accurate; IPA /æ/ intact."
+      },
+      {
+        "file": "AC9EFLY10-1440-retained-1.png",
+        "sha256": "12016466a774701dac6350f09a16befbc83993430579dd8dbc4a1b289a127565",
+        "opened_individually": true,
+        "visual_result": "PASS",
+        "code_note": "Added/removed/replaced sound positions visible; cue-word labels and3catphoneme counters accurate; IPA /æ/ intact."
+      },
+      {
+        "file": "AC9EFLY11-1440-native-1.png",
+        "sha256": "473a2a28416cf0709305b50743f6a0c6535adcaee5d6df0e626c136a238aa0de",
+        "opened_individually": true,
+        "visual_result": "PASS",
+        "code_note": "Complete26case/name/cue/position table read in full, including E-middle get, q/qu2sounds and x-final2sounds. No row/glyph clipping; letter-name and phoneme cue distinctions clear."
+      },
+      {
+        "file": "AC9EFLY11-1440-native-2.png",
+        "sha256": "573674f0ac973f85af6e11927d8a7f38e076ebb5edc8b522c60b16ca347b4743",
+        "opened_individually": true,
+        "visual_result": "PASS",
+        "code_note": "Complete26case/name/cue/position table read in full, including E-middle get, q/qu2sounds and x-final2sounds. No row/glyph clipping; letter-name and phoneme cue distinctions clear."
+      },
+      {
+        "file": "AC9EFLY11-1440-native-3.png",
+        "sha256": "dace5f64648d34bd9318afbfb9c99fc80d4275d34865282b954f7042df3bbaff",
+        "opened_individually": true,
+        "visual_result": "PASS",
+        "code_note": "Complete26case/name/cue/position table read in full, including E-middle get, q/qu2sounds and x-final2sounds. No row/glyph clipping; letter-name and phoneme cue distinctions clear."
+      },
+      {
+        "file": "AC9EFLY11-1440-native-4.png",
+        "sha256": "c5e63757d6067665f152533480f8c5919be4a0295ae6180bff8fb2ae4724b349",
+        "opened_individually": true,
+        "visual_result": "PASS",
+        "code_note": "Complete26case/name/cue/position table read in full, including E-middle get, q/qu2sounds and x-final2sounds. No row/glyph clipping; letter-name and phoneme cue distinctions clear."
+      },
+      {
+        "file": "AC9EFLY11-1440-native-5.png",
+        "sha256": "1bbda63f623432a0f1d8d5b956de2d3eb09012e7e2d068d32c2bac83ca5f2b35",
+        "opened_individually": true,
+        "visual_result": "PASS",
+        "code_note": "Complete26case/name/cue/position table read in full, including E-middle get, q/qu2sounds and x-final2sounds. No row/glyph clipping; letter-name and phoneme cue distinctions clear."
+      },
+      {
+        "file": "AC9EFLY11-1440-retained-1.png",
+        "sha256": "522ab265397a92d9bb940be69ddbbf68081ef6fbc3c9de65e8bc6c1e553d7f70",
+        "opened_individually": true,
+        "visual_result": "PASS",
+        "code_note": "Complete26case/name/cue/position table read in full, including E-middle get, q/qu2sounds and x-final2sounds. No row/glyph clipping; letter-name and phoneme cue distinctions clear."
+      },
+      {
+        "file": "AC9EFLY12-1440-native-1.png",
+        "sha256": "7eac764e5c94ff3a30101ec536afa40faf32d15d354ddf76195a3e10c2f74212",
+        "opened_individually": true,
+        "visual_result": "PASS",
+        "code_note": "Ordered h/e/n cards readable. Actual retained hen and sun drawings identifiable; earlier s/u/n cards show all3letters and readback caption, no clipping."
+      },
+      {
+        "file": "AC9EFLY12-1440-retained-1.png",
+        "sha256": "5148e3ddb821e498cb5fb417863a12188f8ba74f0d4635b00c5ff685c900dc10",
+        "opened_individually": true,
+        "visual_result": "PASS",
+        "code_note": "Ordered h/e/n cards readable. Actual retained hen and sun drawings identifiable; earlier s/u/n cards show all3letters and readback caption, no clipping."
+      },
+      {
+        "file": "AC9EFLY12-1440-retained-2.png",
+        "sha256": "7499b96d6fb637eeda54c1fa5a60d4db5e08d4947f61e50b31f2b6fdc0200e45",
+        "opened_individually": true,
+        "visual_result": "PASS",
+        "code_note": "Ordered h/e/n cards readable. Actual retained hen and sun drawings identifiable; earlier s/u/n cards show all3letters and readback caption, no clipping."
+      },
+      {
+        "file": "AC9EFLY12-1440-retained-3.png",
+        "sha256": "7740f8c6e79b774ae5ab701a1f7548022d5d193ce34e10e4dbb915a13a713abe",
+        "opened_individually": true,
+        "visual_result": "PASS",
+        "code_note": "Ordered h/e/n cards readable. Actual retained hen and sun drawings identifiable; earlier s/u/n cards show all3letters and readback caption, no clipping."
+      },
+      {
+        "file": "AC9EFLY13-1440-native-1.png",
+        "sha256": "8b0a1a7ac4019f322641ea56599a6143920fbf2364bc5cf6439aa04edeb5c7c1",
+        "opened_individually": true,
+        "visual_result": "PASS",
+        "code_note": "Fish3soundpositions/4letters, dog+s meaningful spelling and d/o/g earlier model legible and consistent."
+      },
+      {
+        "file": "AC9EFLY13-1440-native-2.png",
+        "sha256": "6f1a0c1471d4575fbced375a4fd64b7c28f84a347ff369579c34a42ec5af59f4",
+        "opened_individually": true,
+        "visual_result": "PASS",
+        "code_note": "Fish3soundpositions/4letters, dog+s meaningful spelling and d/o/g earlier model legible and consistent."
+      },
+      {
+        "file": "AC9EFLY13-1440-retained-1.png",
+        "sha256": "28b7a9604deb3f75a30dbf95b66f67de60b97e63e668ed7579b0a2431cf7aefc",
+        "opened_individually": true,
+        "visual_result": "PASS",
+        "code_note": "Fish3soundpositions/4letters, dog+s meaningful spelling and d/o/g earlier model legible and consistent."
+      },
+      {
+        "file": "AC9EFLY14-1440-native-1.png",
+        "sha256": "ccdf1e5786847bc1111242e33a486e7216b670552a05c44632a17fc0289cfee6",
+        "opened_individually": true,
+        "visual_result": "PASS",
+        "code_note": "Whole-word/spelling sequence and cover-write-compare cards clear; earlier the/Look/Say/Cover/Write/Check model has no lost labels."
+      },
+      {
+        "file": "AC9EFLY14-1440-native-2.png",
+        "sha256": "da44894fe18c4523c658c15aade1ab85ec93ba82f7054482aafb1a2852dde5ab",
+        "opened_individually": true,
+        "visual_result": "PASS",
+        "code_note": "Whole-word/spelling sequence and cover-write-compare cards clear; earlier the/Look/Say/Cover/Write/Check model has no lost labels."
+      },
+      {
+        "file": "AC9EFLY14-1440-native-3.png",
+        "sha256": "c2fe02250930d8c8bc2979d222b6b954904eb0867359e32a35d5908241e7c9b6",
+        "opened_individually": true,
+        "visual_result": "PASS",
+        "code_note": "Whole-word/spelling sequence and cover-write-compare cards clear; earlier the/Look/Say/Cover/Write/Check model has no lost labels."
+      },
+      {
+        "file": "AC9EFLY14-1440-retained-1.png",
+        "sha256": "757de40e4b261aa7633b78684c327a2328de5941f0667419ccdb25071edb2e77",
+        "opened_individually": true,
+        "visual_result": "PASS",
+        "code_note": "Whole-word/spelling sequence and cover-write-compare cards clear; earlier the/Look/Say/Cover/Write/Check model has no lost labels."
+      },
+      {
+        "file": "AC9EFLY15-1440-native-1.png",
+        "sha256": "dd5b75dee5e7facbb7a585c1f31e9dc43e4c6bb9c272f52037a82bed75070a9d",
+        "opened_individually": true,
+        "visual_result": "PASS",
+        "code_note": "Dog+s/cup+s number meanings clear; earlier base→base+s diagram maintains the intended animal/base/number meaning distinction."
+      },
+      {
+        "file": "AC9EFLY15-1440-native-2.png",
+        "sha256": "73c28acaba82b40392f5ee37f39260c06089a4a3b445d4ea8626e48be9b7c0c6",
+        "opened_individually": true,
+        "visual_result": "PASS",
+        "code_note": "Dog+s/cup+s number meanings clear; earlier base→base+s diagram maintains the intended animal/base/number meaning distinction."
+      },
+      {
+        "file": "AC9EFLY15-1440-retained-1.png",
+        "sha256": "48346a70154a9e2e35b05b103feb08f93a6b66a9bf2e630b024871229c2a584c",
+        "opened_individually": true,
+        "visual_result": "PASS",
+        "code_note": "Dog+s/cup+s number meanings clear; earlier base→base+s diagram maintains the intended animal/base/number meaning distinction."
+      }
+    ]
+  },
+  "identity_verification": "Independently matched all94root screenshot digests, all21root browser dependency records plus inventory as22nd source dependency, exact local sources to git browser head; directly reopened GitHub run to confirm samehead/completed/success.",
+  "automation_readback": {
+    "javascript_disabled_page_visits": 27,
+    "viewports": [
+      1440,
+      768,
+      390
+    ],
+    "javascript_enabled_smoke": 9,
+    "problems": [],
+    "keyboard_answers": "Space/Enter plus clicks for all3newtry summaries per page at all3widths",
+    "phone_svg_panning": "Focusable wide SVG containers; actual ArrowRight movement and programmatic scroll",
+    "alphabet_table_panning": "Focusable wide table and programmatic horizontal scroll tested; harness does not explicitly press ArrowRight on table"
+  },
+  "unresolved_confirmed_visual_defects": [],
+  "limitations": [
+    "This independent pixel review covers40individual model captures; root separately inspected all54whole-page top/lesson captures.",
+    "Actual browser screenshots, not XML validation or a claim that a separate SVG rasterizer proves native HTML rendering.",
+    "No human teacher, child response, heard sourceaudio, physical writing or actual classroom speaking performance observed.",
+    "External requests blocked by harness; no app login, live marking/progress, linked-product content or production deployment certified."
+  ]
+}

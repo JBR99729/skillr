@@ -1,0 +1,1057 @@
+{
+  "status": "PASS: hosted automation, root viewport pixel review and independent model pixel review",
+  "head": "25628f94df2ef7b80f824670e0d09e39e40811f2",
+  "workflow_run": 42704793679,
+  "artifact_id": 13712647363,
+  "zip_sha256": "cc0ffa8a68140ab3396123cd907cd108e53c28afc1411b6fbfcb195b2b6f3d83",
+  "results_sha256": "2f78708d2f9e4402b80ead2d7cb6d6c6ad05fda2d9b340c4ee1b9be89783cacf",
+  "automation": {
+    "pages": 9,
+    "viewports": [
+      1440,
+      768,
+      390
+    ],
+    "javascriptDisabled": true,
+    "javascriptEnabledSmoke": 9,
+    "keyboardAnswers": true,
+    "keyboardPhoneDiagramPan": true,
+    "results": [
+      {
+        "code": "AC9EFLY07",
+        "width": 1440,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 1140.140625,
+          "y": 925.359375,
+          "width": 287.859375,
+          "height": 62.640625,
+          "right": 1428,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9EFLY08",
+        "width": 1440,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 1140.140625,
+          "y": 925.359375,
+          "width": 287.859375,
+          "height": 62.640625,
+          "right": 1428,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9EFLY09",
+        "width": 1440,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 1140.140625,
+          "y": 925.359375,
+          "width": 287.859375,
+          "height": 62.640625,
+          "right": 1428,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9EFLY10",
+        "width": 1440,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 1140.140625,
+          "y": 925.359375,
+          "width": 287.859375,
+          "height": 62.640625,
+          "right": 1428,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9EFLY11",
+        "width": 1440,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 1169.96875,
+          "y": 943.75,
+          "width": 258.03125,
+          "height": 44.25,
+          "right": 1428,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9EFLY12",
+        "width": 1440,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 1140.140625,
+          "y": 925.359375,
+          "width": 287.859375,
+          "height": 62.640625,
+          "right": 1428,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9EFLY13",
+        "width": 1440,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 1140.140625,
+          "y": 925.359375,
+          "width": 287.859375,
+          "height": 62.640625,
+          "right": 1428,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9EFLY14",
+        "width": 1440,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 1140.140625,
+          "y": 925.359375,
+          "width": 287.859375,
+          "height": 62.640625,
+          "right": 1428,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9EFLY15",
+        "width": 1440,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 1169.96875,
+          "y": 943.75,
+          "width": 258.03125,
+          "height": 44.25,
+          "right": 1428,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9EFLY07",
+        "width": 768,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 468.140625,
+          "y": 925.359375,
+          "width": 287.859375,
+          "height": 62.640625,
+          "right": 756,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9EFLY08",
+        "width": 768,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 468.140625,
+          "y": 925.359375,
+          "width": 287.859375,
+          "height": 62.640625,
+          "right": 756,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9EFLY09",
+        "width": 768,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 468.140625,
+          "y": 925.359375,
+          "width": 287.859375,
+          "height": 62.640625,
+          "right": 756,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9EFLY10",
+        "width": 768,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 468.140625,
+          "y": 925.359375,
+          "width": 287.859375,
+          "height": 62.640625,
+          "right": 756,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9EFLY11",
+        "width": 768,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 497.96875,
+          "y": 943.75,
+          "width": 258.03125,
+          "height": 44.25,
+          "right": 756,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9EFLY12",
+        "width": 768,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 468.140625,
+          "y": 925.359375,
+          "width": 287.859375,
+          "height": 62.640625,
+          "right": 756,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9EFLY13",
+        "width": 768,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 468.140625,
+          "y": 925.359375,
+          "width": 287.859375,
+          "height": 62.640625,
+          "right": 756,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9EFLY14",
+        "width": 768,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 468.140625,
+          "y": 925.359375,
+          "width": 287.859375,
+          "height": 62.640625,
+          "right": 756,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9EFLY15",
+        "width": 768,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 497.96875,
+          "y": 943.75,
+          "width": 258.03125,
+          "height": 44.25,
+          "right": 756,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9EFLY07",
+        "width": 390,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 100.140625,
+          "y": 928.71875,
+          "width": 277.859375,
+          "height": 59.28125,
+          "right": 378,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9EFLY08",
+        "width": 390,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 100.140625,
+          "y": 928.71875,
+          "width": 277.859375,
+          "height": 59.28125,
+          "right": 378,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9EFLY09",
+        "width": 390,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 100.140625,
+          "y": 928.71875,
+          "width": 277.859375,
+          "height": 59.28125,
+          "right": 378,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9EFLY10",
+        "width": 390,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 100.140625,
+          "y": 928.71875,
+          "width": 277.859375,
+          "height": 59.28125,
+          "right": 378,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9EFLY11",
+        "width": 390,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 144.640625,
+          "y": 944,
+          "width": 233.359375,
+          "height": 44,
+          "right": 378,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9EFLY12",
+        "width": 390,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 100.140625,
+          "y": 928.71875,
+          "width": 277.859375,
+          "height": 59.28125,
+          "right": 378,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9EFLY13",
+        "width": 390,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 100.140625,
+          "y": 928.71875,
+          "width": 277.859375,
+          "height": 59.28125,
+          "right": 378,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9EFLY14",
+        "width": 390,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 100.140625,
+          "y": 928.71875,
+          "width": 277.859375,
+          "height": 59.28125,
+          "right": 378,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9EFLY15",
+        "width": 390,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 144.640625,
+          "y": 944,
+          "width": 233.359375,
+          "height": 44,
+          "right": 378,
+          "bottom": 988
+        }
+      }
+    ],
+    "problems": []
+  },
+  "dependencies": [
+    {
+      "path": ".github/workflows/foundation-english-topic-pages-batch3-browser-qa.yml",
+      "sha256": "e45428fb0772fe5d0f61d342f24ec816d8955296dc58455f84e6e9bc9a034d0c"
+    },
+    {
+      "path": "assets/css/foundation-english-topic-pages-batch3.css",
+      "sha256": "75403d20fa41a67389549fee89ac3d43ef4415575da6dde0763878ef198675a6"
+    },
+    {
+      "path": "assets/css/foundation-english-topic-pages.css",
+      "sha256": "e6864419fb7478108ae0bf76f3e46f5cb33a27e86784856b4419343f5cac9346"
+    },
+    {
+      "path": "assets/css/science-topic-release.css",
+      "sha256": "41284b9009408203275beb157601f7b8b870a44b6820da61bd96770c1eab280c"
+    },
+    {
+      "path": "assets/css/year3-science-topic-pages.css",
+      "sha256": "9f9a698f33023163f2ae4508b0fd52c82a9ceeec5ed8520daa6d181ed8e86480"
+    },
+    {
+      "path": "assets/curriculum.css",
+      "sha256": "c65198923858734e005d9e6ad76d55156e8f39a3cdc8f08524e62fdda8e2d9f2"
+    },
+    {
+      "path": "assets/learning-navigation.js",
+      "sha256": "89e543a284bcf8b0539fb7cf8dbfd713fd37cb33124d715ddf28bbf01fe563b8"
+    },
+    {
+      "path": "assets/report-issue.js",
+      "sha256": "50f7f758183d698fbe2002f67ccfc73ced626664feafce157f8aef2c44aa536b"
+    },
+    {
+      "path": "assets/topic-practice-link.css",
+      "sha256": "55b40419f335610abc5aa5adc3549af4c4105ea9ada9ea7f151f1d53539d47dc"
+    },
+    {
+      "path": "foundation/english/ac9efly07-and-deliver-short-spoken-texts-to-report-ideas-and-events/index.html",
+      "sha256": "72353b50c83221cc6c74ddcb45232cc4d7318836105ebea657d8d85862909f3b"
+    },
+    {
+      "path": "foundation/english/ac9efly08-form-most-lower-case-and-upper-case-letters-using-learnt-letter/index.html",
+      "sha256": "9bbaa53f4094a748c48b475f671a9a0b71b206301e7f5e133e8a267e90bebfd1"
+    },
+    {
+      "path": "foundation/english/ac9efly09-and-generate-rhyming-words-alliteration-patterns-syllables-and/index.html",
+      "sha256": "b7ac0af0fbde0013f00102407f1ba5f222d2a155498cd86af29afc7aa7b7d0d6"
+    },
+    {
+      "path": "foundation/english/ac9efly10-sentences-into-individual-words-orally-blend-and-segment-single/index.html",
+      "sha256": "8d559e14596b7d27f86a40070d10cd6dc52ccd0b8085e8e3d188d0e5bf38c291"
+    },
+    {
+      "path": "foundation/english/ac9efly11-and-name-all-upper-and-lower-case-letters-graphs-and-know/index.html",
+      "sha256": "55705849690cc9717b3b2bbc66238bf6ff4b939f1a93d6c141317baa635ab6fb"
+    },
+    {
+      "path": "foundation/english/ac9efly12-consonant-vowel-consonant-cvc-words-by-representing-sounds-with/index.html",
+      "sha256": "2a8f2617e4a92dfdfff5e2785f35ed3e2c807e835f687a009aee139d2cc39886"
+    },
+    {
+      "path": "foundation/english/ac9efly13-knowledge-of-letters-and-sounds-to-spell-words/index.html",
+      "sha256": "f3b1d13baef6e93eb9691f5efedf3d20922946a3f0c13ce2234f0046d95da020"
+    },
+    {
+      "path": "foundation/english/ac9efly14-and-write-some-high-frequency-words-and-other-familiar-words/index.html",
+      "sha256": "01e63cf5e2cfde7f4d12881aa8e32af2689f9f4683ea752719f015e5e0edd020"
+    },
+    {
+      "path": "foundation/english/ac9efly15-that-words-are-units-of-meaning-and-can-be-made/index.html",
+      "sha256": "b618db7bd442cc3eeae846e9c38d5c8f86877251d78718992513e0240de6934a"
+    },
+    {
+      "path": "pwa-register.js",
+      "sha256": "ce15b45896dc2ff29e83cc0cb4ca6c98bc3e9bf4dc5b17b72009c4ab3707d22d"
+    },
+    {
+      "path": "scripts/qa_foundation_english_topic_pages_batch3_browser.cjs",
+      "sha256": "00897fa8d55094a8d525254f34fdb0c3956761d56b23157a15f7b7dbe0054dad"
+    },
+    {
+      "path": "style.css",
+      "sha256": "ae989b9bfe20db6ac741e2df4cc0dbeeffd3d8fcf8d8e1d0e5ffd5dd05821fae"
+    }
+  ],
+  "screenshots": [
+    {
+      "file": "AC9EFLY07-1440-lesson.png",
+      "bytes": 240055,
+      "sha256": "73b7c4c1cce5ae5df365bfbebd46a1b6920fd443586c65281228804db88e7c4d"
+    },
+    {
+      "file": "AC9EFLY07-1440-native-1.png",
+      "bytes": 12275,
+      "sha256": "5de53e7d3f9278c8de2c1b257d20a2bb5f2603bcf5467fb828605ebad47b7f22"
+    },
+    {
+      "file": "AC9EFLY07-1440-native-2.png",
+      "bytes": 8630,
+      "sha256": "989e14378fc9afae1301e9370f0f3916733bb7caf66f696465260d892ed4bcf8"
+    },
+    {
+      "file": "AC9EFLY07-1440-native-3.png",
+      "bytes": 10106,
+      "sha256": "aebd26a5d17b198bd6790368cf045f321c3c37bf057072ed51656e976164c9f8"
+    },
+    {
+      "file": "AC9EFLY07-1440-native-4.png",
+      "bytes": 8755,
+      "sha256": "8a4d81bdb51f189f3ea4221dcdf3f6151fa9d6d3ddc1a7f925c1d95d5c1e0767"
+    },
+    {
+      "file": "AC9EFLY07-1440-retained-1.png",
+      "bytes": 24771,
+      "sha256": "3a396328e5412ff7924a70b0e13952f11cb017f693ba5e016f975838c428ba7e"
+    },
+    {
+      "file": "AC9EFLY07-1440-top.png",
+      "bytes": 180190,
+      "sha256": "3d5f597e6461929857623262a43d2beb2f6bedd67df3e720cc403663e2694583"
+    },
+    {
+      "file": "AC9EFLY07-390-lesson.png",
+      "bytes": 107600,
+      "sha256": "d7fba51766dde10de21c35fb9cae73addbc964d1c50c8064aee20a26108ae07c"
+    },
+    {
+      "file": "AC9EFLY07-390-top.png",
+      "bytes": 82537,
+      "sha256": "4f8169ade0527207eb90b532f7c0e6b5132cfe855817aa16fd85aac23fa23dbe"
+    },
+    {
+      "file": "AC9EFLY07-768-lesson.png",
+      "bytes": 161546,
+      "sha256": "780175164275673069592219898c4f8e3c3aa48585efb667adff0d57814ebed9"
+    },
+    {
+      "file": "AC9EFLY07-768-top.png",
+      "bytes": 127218,
+      "sha256": "e75a88a4e987055928bbbf84eef917afb0c9993692d7f33eb1b2fb0bb7583d3b"
+    },
+    {
+      "file": "AC9EFLY08-1440-lesson.png",
+      "bytes": 219326,
+      "sha256": "b353c6f6865a23ba671150fdb190c237b0e0196b293c3f6174dafeaf1bdc2801"
+    },
+    {
+      "file": "AC9EFLY08-1440-native-1.png",
+      "bytes": 11819,
+      "sha256": "a1616606d96b0df09db5de96520fdbc8297283441a46d4ef6ee122c074fe3d6b"
+    },
+    {
+      "file": "AC9EFLY08-1440-native-2.png",
+      "bytes": 18722,
+      "sha256": "8933111ee2da29505a60aadb51d22298124d9b206936aee28afd0f13f0a1c986"
+    },
+    {
+      "file": "AC9EFLY08-1440-native-3.png",
+      "bytes": 10512,
+      "sha256": "ab8018f6d235661c74d8a06b2486d06e661a3a2611d53692877f563ed741037f"
+    },
+    {
+      "file": "AC9EFLY08-1440-native-4.png",
+      "bytes": 10992,
+      "sha256": "e595cc9db543987cd0c9e18d7919c3915995c4e4f3a6ef01581469a41771051b"
+    },
+    {
+      "file": "AC9EFLY08-1440-retained-1.png",
+      "bytes": 13290,
+      "sha256": "d15173c58c184c5eca42e26559ae9ddd245f007b606a5b78dcb86ec457150b71"
+    },
+    {
+      "file": "AC9EFLY08-1440-top.png",
+      "bytes": 187667,
+      "sha256": "35275da8aaad00487575a84f55f407a78c76ff7dfcce70383eff8aa6cd2033b5"
+    },
+    {
+      "file": "AC9EFLY08-390-lesson.png",
+      "bytes": 112699,
+      "sha256": "d3760555f4a58406aeb97f1b779b14a5e31c4d0d2775ddd08797905895aa0c2b"
+    },
+    {
+      "file": "AC9EFLY08-390-top.png",
+      "bytes": 97423,
+      "sha256": "1ce0afd88691ce5986b31cbd71fc5fbd0031b76d99046561691ade1f6404fb76"
+    },
+    {
+      "file": "AC9EFLY08-768-lesson.png",
+      "bytes": 166594,
+      "sha256": "3801456f871f6c40a4b444b5e9846c9d7ec6f0cb35bfe8a20d7a7bfbbf72a216"
+    },
+    {
+      "file": "AC9EFLY08-768-top.png",
+      "bytes": 147708,
+      "sha256": "b576b03858783b0bdbfead6c3f9dd76132435c7cf84408b621c25c52d1c85234"
+    },
+    {
+      "file": "AC9EFLY09-1440-lesson.png",
+      "bytes": 258617,
+      "sha256": "28def1f1308bc87bdfdcc80d46d21ab4780c7af4cb2614ef6931e1bdade25ae5"
+    },
+    {
+      "file": "AC9EFLY09-1440-native-1.png",
+      "bytes": 15175,
+      "sha256": "50e041dba7ee816be75b9e26263f46221260fda2a70ab518f623cc200effcb91"
+    },
+    {
+      "file": "AC9EFLY09-1440-native-2.png",
+      "bytes": 5073,
+      "sha256": "c3e550a14712a8035b95db45a1236faaad32defc8740209055308475a6f80b0b"
+    },
+    {
+      "file": "AC9EFLY09-1440-native-3.png",
+      "bytes": 10577,
+      "sha256": "ac6b86b9370810d2591d06e9f5c824df4105be020caae533b744fc37478f583f"
+    },
+    {
+      "file": "AC9EFLY09-1440-native-4.png",
+      "bytes": 7031,
+      "sha256": "56ea5e29f2e849dca8a23808f45572af05c94b2e61b8ad12709f9144a56b8b72"
+    },
+    {
+      "file": "AC9EFLY09-1440-retained-1.png",
+      "bytes": 17827,
+      "sha256": "d0523ec42c29cbe2abb4ecb08d33ea8fe1a3d35f9092ab50f45303261b9c92ca"
+    },
+    {
+      "file": "AC9EFLY09-1440-top.png",
+      "bytes": 191516,
+      "sha256": "3fbf75925c576bb1ac1a2dfa260871a8daa72c3ec6f9f62c852df7d80f53d10b"
+    },
+    {
+      "file": "AC9EFLY09-390-lesson.png",
+      "bytes": 107056,
+      "sha256": "0bc5edc9d6babea8977df776a7069471f9dda9b70498841e2742d19e8bd6d784"
+    },
+    {
+      "file": "AC9EFLY09-390-top.png",
+      "bytes": 81157,
+      "sha256": "7dd5869f867150e291522979e318fbefaece5e071a146c2fbf6c5762fdc64c43"
+    },
+    {
+      "file": "AC9EFLY09-768-lesson.png",
+      "bytes": 159121,
+      "sha256": "08bcbd89a3cee8f84c1f97cfcb27331fa570ea1fbe52a56821baa9ea60e32af0"
+    },
+    {
+      "file": "AC9EFLY09-768-top.png",
+      "bytes": 135536,
+      "sha256": "18212d97f027e23f359c263ffd77d8cbfe1a10182e97947cd2da524ecf0ab1ed"
+    },
+    {
+      "file": "AC9EFLY10-1440-lesson.png",
+      "bytes": 256565,
+      "sha256": "d199eaeccf466cb6bc94b7e40e9e34e369336613b6b85393e3f925df7688e8c0"
+    },
+    {
+      "file": "AC9EFLY10-1440-native-1.png",
+      "bytes": 10668,
+      "sha256": "31b53d6b9a1aa919215e6a7061410e0c6c60b6e8bfac39d09c2a74cb93a2fd65"
+    },
+    {
+      "file": "AC9EFLY10-1440-native-2.png",
+      "bytes": 8545,
+      "sha256": "76bd7a2210036478c3405a8d8893393f15bebf0441da5d7461eba9460567760b"
+    },
+    {
+      "file": "AC9EFLY10-1440-native-3.png",
+      "bytes": 8940,
+      "sha256": "c789ffd7dfb82690d0a471cae129459641b365b07a2ab9b47483f9ed1e034e38"
+    },
+    {
+      "file": "AC9EFLY10-1440-native-4.png",
+      "bytes": 9106,
+      "sha256": "1f115845ddb32587e947c05c24ab35f0cddcbe30a0b79a6e7eab9e8c511d7d5f"
+    },
+    {
+      "file": "AC9EFLY10-1440-retained-1.png",
+      "bytes": 14391,
+      "sha256": "12016466a774701dac6350f09a16befbc83993430579dd8dbc4a1b289a127565"
+    },
+    {
+      "file": "AC9EFLY10-1440-top.png",
+      "bytes": 189153,
+      "sha256": "c8d07a86ee8fb8ebfb39a9c98fe147e3212d627f8cae9244b5cc021db5478966"
+    },
+    {
+      "file": "AC9EFLY10-390-lesson.png",
+      "bytes": 110907,
+      "sha256": "1396ecc1f9f959412cdcf6329f83bc2a4b28ee92b528f61407ffaa19f20a15d6"
+    },
+    {
+      "file": "AC9EFLY10-390-top.png",
+      "bytes": 79097,
+      "sha256": "6fe8c35a9f94300a01e6b9f2668a77016639c61225198c102f19be1ad4e3a7d0"
+    },
+    {
+      "file": "AC9EFLY10-768-lesson.png",
+      "bytes": 173591,
+      "sha256": "eaf363cbe91d239989ec072fb6f4705c3df2946b74b97469bb54b6807d2e150e"
+    },
+    {
+      "file": "AC9EFLY10-768-top.png",
+      "bytes": 133217,
+      "sha256": "44d002b5942e2bdef02ba401d566b2908cb6194ae1662206c11ec50646da7a05"
+    },
+    {
+      "file": "AC9EFLY11-1440-lesson.png",
+      "bytes": 180774,
+      "sha256": "3e6e6870bc00cee7519f40499d091174d6db7ee4ccb2edabf6735ef6d461224a"
+    },
+    {
+      "file": "AC9EFLY11-1440-native-1.png",
+      "bytes": 10304,
+      "sha256": "473a2a28416cf0709305b50743f6a0c6535adcaee5d6df0e626c136a238aa0de"
+    },
+    {
+      "file": "AC9EFLY11-1440-native-2.png",
+      "bytes": 98129,
+      "sha256": "573674f0ac973f85af6e11927d8a7f38e076ebb5edc8b522c60b16ca347b4743"
+    },
+    {
+      "file": "AC9EFLY11-1440-native-3.png",
+      "bytes": 8565,
+      "sha256": "dace5f64648d34bd9318afbfb9c99fc80d4275d34865282b954f7042df3bbaff"
+    },
+    {
+      "file": "AC9EFLY11-1440-native-4.png",
+      "bytes": 9243,
+      "sha256": "c5e63757d6067665f152533480f8c5919be4a0295ae6180bff8fb2ae4724b349"
+    },
+    {
+      "file": "AC9EFLY11-1440-native-5.png",
+      "bytes": 10911,
+      "sha256": "1bbda63f623432a0f1d8d5b956de2d3eb09012e7e2d068d32c2bac83ca5f2b35"
+    },
+    {
+      "file": "AC9EFLY11-1440-retained-1.png",
+      "bytes": 15741,
+      "sha256": "522ab265397a92d9bb940be69ddbbf68081ef6fbc3c9de65e8bc6c1e553d7f70"
+    },
+    {
+      "file": "AC9EFLY11-1440-top.png",
+      "bytes": 168845,
+      "sha256": "21a1330f56bcd5edc85b11574c962ba332bfa0b316fe5e19cee4afab06c33962"
+    },
+    {
+      "file": "AC9EFLY11-390-lesson.png",
+      "bytes": 96283,
+      "sha256": "7a49ef521cc8973252c3a1edc6cb4251543b6799c0818080f5a3d2e4b67c2c10"
+    },
+    {
+      "file": "AC9EFLY11-390-top.png",
+      "bytes": 83200,
+      "sha256": "fc2fbec44daf103af9f42fa8706b21fc6a19f823cfb31617ef3646ecc6ae4b87"
+    },
+    {
+      "file": "AC9EFLY11-768-lesson.png",
+      "bytes": 155526,
+      "sha256": "e970e4eb606fd060e523bc6a061c88910349413236ebe776f9c83265f4fa73fd"
+    },
+    {
+      "file": "AC9EFLY11-768-top.png",
+      "bytes": 124107,
+      "sha256": "7b914b26052666e21f65cfd252fae6fd2ae8541ae51d489c9007f5f3807e8ab0"
+    },
+    {
+      "file": "AC9EFLY12-1440-lesson.png",
+      "bytes": 229143,
+      "sha256": "7b1c36e0bc9dc4773f09c26105fa7c2eef922cb7b959e0e4fcd2f44474168a66"
+    },
+    {
+      "file": "AC9EFLY12-1440-native-1.png",
+      "bytes": 8024,
+      "sha256": "7eac764e5c94ff3a30101ec536afa40faf32d15d354ddf76195a3e10c2f74212"
+    },
+    {
+      "file": "AC9EFLY12-1440-retained-1.png",
+      "bytes": 17870,
+      "sha256": "5148e3ddb821e498cb5fb417863a12188f8ba74f0d4635b00c5ff685c900dc10"
+    },
+    {
+      "file": "AC9EFLY12-1440-retained-2.png",
+      "bytes": 7800,
+      "sha256": "7499b96d6fb637eeda54c1fa5a60d4db5e08d4947f61e50b31f2b6fdc0200e45"
+    },
+    {
+      "file": "AC9EFLY12-1440-retained-3.png",
+      "bytes": 13698,
+      "sha256": "7740f8c6e79b774ae5ab701a1f7548022d5d193ce34e10e4dbb915a13a713abe"
+    },
+    {
+      "file": "AC9EFLY12-1440-top.png",
+      "bytes": 168618,
+      "sha256": "71f1a57b6173ab78e3882dd7be35b7cc09df80a4b1d8ef7198035e5841bda7ff"
+    },
+    {
+      "file": "AC9EFLY12-390-lesson.png",
+      "bytes": 98489,
+      "sha256": "923eec241383320f61e258c69604c4cb2ca2f0cc3700b2256b805fa59c6df559"
+    },
+    {
+      "file": "AC9EFLY12-390-top.png",
+      "bytes": 88988,
+      "sha256": "1147ce86dab6312b0fa084c58aeaaa2265e1bda346bbef9ef95a00a7c9597dc5"
+    },
+    {
+      "file": "AC9EFLY12-768-lesson.png",
+      "bytes": 156661,
+      "sha256": "ff21e3c12b3b054d6514c3214f978fbd1e4fb4aa2fa2d3aba34c043b57f7a142"
+    },
+    {
+      "file": "AC9EFLY12-768-top.png",
+      "bytes": 129500,
+      "sha256": "b8db16bc81b3d4a6ddb33c71df0ba128e65860593891593598b52107e049eff2"
+    },
+    {
+      "file": "AC9EFLY13-1440-lesson.png",
+      "bytes": 246093,
+      "sha256": "726706bfd8c62cc0fb2185474512802b83ba224cd460e82584151d79a900e95a"
+    },
+    {
+      "file": "AC9EFLY13-1440-native-1.png",
+      "bytes": 11357,
+      "sha256": "8b0a1a7ac4019f322641ea56599a6143920fbf2364bc5cf6439aa04edeb5c7c1"
+    },
+    {
+      "file": "AC9EFLY13-1440-native-2.png",
+      "bytes": 11217,
+      "sha256": "6f1a0c1471d4575fbced375a4fd64b7c28f84a347ff369579c34a42ec5af59f4"
+    },
+    {
+      "file": "AC9EFLY13-1440-retained-1.png",
+      "bytes": 14555,
+      "sha256": "28b7a9604deb3f75a30dbf95b66f67de60b97e63e668ed7579b0a2431cf7aefc"
+    },
+    {
+      "file": "AC9EFLY13-1440-top.png",
+      "bytes": 175308,
+      "sha256": "3b13efe9db853576d9bdbee1d0b3aad82223ebcbd1d23cc3c05866b60dbe48ea"
+    },
+    {
+      "file": "AC9EFLY13-390-lesson.png",
+      "bytes": 107322,
+      "sha256": "e0690518aed2b9d732a45de527a744b1c01ea1957ebe83e9842f4c44ce71a7e3"
+    },
+    {
+      "file": "AC9EFLY13-390-top.png",
+      "bytes": 79953,
+      "sha256": "9d5ed17b09f6b34ca01929a96067322a3d8293b98c8b2e7447f5c92d8d0dbe8c"
+    },
+    {
+      "file": "AC9EFLY13-768-lesson.png",
+      "bytes": 160567,
+      "sha256": "5f4934cebd27d9a4080d029a533bf59717042e12bba54784f71e27429516ba73"
+    },
+    {
+      "file": "AC9EFLY13-768-top.png",
+      "bytes": 125579,
+      "sha256": "aa83248c64c6fc4147bb733f93c22c0be429f3c63fa0d8d4b56b480921318fd0"
+    },
+    {
+      "file": "AC9EFLY14-1440-lesson.png",
+      "bytes": 248035,
+      "sha256": "3ac9cdf2ff075dfb1ca1778320939809a2c6cbc9b9d517f2aaa95f9bf73be87c"
+    },
+    {
+      "file": "AC9EFLY14-1440-native-1.png",
+      "bytes": 11100,
+      "sha256": "ccdf1e5786847bc1111242e33a486e7216b670552a05c44632a17fc0289cfee6"
+    },
+    {
+      "file": "AC9EFLY14-1440-native-2.png",
+      "bytes": 10063,
+      "sha256": "da44894fe18c4523c658c15aade1ab85ec93ba82f7054482aafb1a2852dde5ab"
+    },
+    {
+      "file": "AC9EFLY14-1440-native-3.png",
+      "bytes": 11284,
+      "sha256": "c2fe02250930d8c8bc2979d222b6b954904eb0867359e32a35d5908241e7c9b6"
+    },
+    {
+      "file": "AC9EFLY14-1440-retained-1.png",
+      "bytes": 14992,
+      "sha256": "757de40e4b261aa7633b78684c327a2328de5941f0667419ccdb25071edb2e77"
+    },
+    {
+      "file": "AC9EFLY14-1440-top.png",
+      "bytes": 176336,
+      "sha256": "fd3b45ad131731c8803fab90f00708b1428b8f1b62942241459fd9f3d19ea36f"
+    },
+    {
+      "file": "AC9EFLY14-390-lesson.png",
+      "bytes": 104204,
+      "sha256": "50e5923c3e5c672d68496f07519f0b8844a2c44f69addab41e3fc0d55021f6af"
+    },
+    {
+      "file": "AC9EFLY14-390-top.png",
+      "bytes": 81829,
+      "sha256": "8558f4f51b5afcf99235224ad37144c6d53cf248c98a8fef2c656936ff193511"
+    },
+    {
+      "file": "AC9EFLY14-768-lesson.png",
+      "bytes": 162819,
+      "sha256": "c53511a812e5366d01053cb21631747cbdc29472a2d2a281e28cb7ac06f8031e"
+    },
+    {
+      "file": "AC9EFLY14-768-top.png",
+      "bytes": 138136,
+      "sha256": "8ddd0b03677edb31514f6708fb84d49c5391bdcb502aa9f773c5b8de23e02925"
+    },
+    {
+      "file": "AC9EFLY15-1440-lesson.png",
+      "bytes": 244531,
+      "sha256": "3ed593a8564f0d6b587d0943b432e501f7c90407f95bf707cab250e3c70ac46b"
+    },
+    {
+      "file": "AC9EFLY15-1440-native-1.png",
+      "bytes": 10993,
+      "sha256": "dd5b75dee5e7facbb7a585c1f31e9dc43e4c6bb9c272f52037a82bed75070a9d"
+    },
+    {
+      "file": "AC9EFLY15-1440-native-2.png",
+      "bytes": 9215,
+      "sha256": "73c28acaba82b40392f5ee37f39260c06089a4a3b445d4ea8626e48be9b7c0c6"
+    },
+    {
+      "file": "AC9EFLY15-1440-retained-1.png",
+      "bytes": 14667,
+      "sha256": "48346a70154a9e2e35b05b103feb08f93a6b66a9bf2e630b024871229c2a584c"
+    },
+    {
+      "file": "AC9EFLY15-1440-top.png",
+      "bytes": 173275,
+      "sha256": "a6bd29fec6435de008d35a30bfedd461fdd8034ddb6ca376bab163de9f64e429"
+    },
+    {
+      "file": "AC9EFLY15-390-lesson.png",
+      "bytes": 101426,
+      "sha256": "fb534ebe0844a8d775546514cf3d01bc694b7fbba726523e19c795bcc1eddc23"
+    },
+    {
+      "file": "AC9EFLY15-390-top.png",
+      "bytes": 78742,
+      "sha256": "1d8419cd68d6c3b256bc6808a82f0b0188404f17145df93cbc597a2683f1b443"
+    },
+    {
+      "file": "AC9EFLY15-768-lesson.png",
+      "bytes": 161056,
+      "sha256": "58ef7bebb8afebe1d0bb894c9f3a673bd004032b79cd7982d2ddc2777a2df7eb"
+    },
+    {
+      "file": "AC9EFLY15-768-top.png",
+      "bytes": 123791,
+      "sha256": "e506b2cad2262908ead5bdb37c957cce828553de24838a8ff5d51a09e4fa15c4"
+    }
+  ],
+  "root_pixel_review": {
+    "reviewer": "/root, author AI",
+    "inspected": "All 54 actual top/lesson viewport captures, displayed as 27 labelled side-by-side original-size pairs, nine codes at1440/768/390.",
+    "result": "PASS: visible heading/actions, wrapped cue cards, stacked tablet/phone focus lessons, readable labels and no detected clipping/overlap or page-wide overflow. Floating app entrance remains fixed; tested answer controls scroll to centre before activation.",
+    "limits": "Viewport captures are not full-height page screenshots. Expanded retained overflow and phone panning are automated separately; native/retained model element captures at1440 are independently inspected. No screen-reader audio, child hearing, voice or physical writing performance observed."
+  },
+  "local_browser": {
+    "status": "UNAVAILABLE",
+    "cause": "Chromium aborted before page launch: process-singleton socket Operation not permitted (EPERM); actual hosted Chrome used."
+  },
+  "independent_pixel_review": {
+    "reviewer": "/root/english_batch3_review, independent AI",
+    "scope": "Individually opened and inspected all40modelPNGcaptures:29nativeHTML+11retainedSVG. Verified all94PNGidentities,ZIP/results and21browserdependencies,plusinventory.",
+    "decision": "PASS; no unresolved confirmed model render defect. See independent-rendered-review.md.",
+    "interaction_boundary": "Actual ArrowRight keyboard panning exercised for phone SVG containers; alphabet wide table is focusable and programmatically scrolled, not explicitly ArrowRight-tested. Native model element captures at1440; page overflow and diagram/table scrolling separately tested onphone.",
+    "limitations": "No human teacher, screen-reader audio, pupil response, source audio/video, handwritten movement or actual spoken delivery is claimed."
+  }
+}

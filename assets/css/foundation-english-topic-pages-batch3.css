@@ -1,0 +1,7 @@
+/* This batch's alphabet reference remains readable with native sideways scrolling. */
+#skillr-topic-variants .alphabet-reference{margin:12px 0;max-width:100%}
+#skillr-topic-variants .alphabet-reference figcaption{font-weight:600;margin-bottom:10px}
+#skillr-topic-variants .alphabet-reference table{width:100%;border-collapse:collapse;line-height:1.5}
+#skillr-topic-variants .alphabet-reference th,#skillr-topic-variants .alphabet-reference td{padding:10px;text-align:left;border:1px solid #b8cce5}
+#skillr-topic-variants .alphabet-reference tbody th{font-size:24px;white-space:nowrap}
+#skillr-topic-variants .retained-teaching .curriculum-detail-body{overflow-wrap:anywhere}
