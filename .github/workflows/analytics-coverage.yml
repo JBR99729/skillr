@@ -1,0 +1,20 @@
+name: Public analytics coverage
+on:
+  pull_request:
+    paths: ['**/*.html', 'assets/site-analytics.js', 'scripts/check_google_tag_coverage.py', 'scripts/tests/site-analytics.test.mjs', '.github/workflows/analytics-coverage.yml']
+  push:
+    branches: [main]
+    paths: ['**/*.html', 'assets/site-analytics.js', 'scripts/check_google_tag_coverage.py', 'scripts/tests/site-analytics.test.mjs', '.github/workflows/analytics-coverage.yml']
+permissions:
+  contents: read
+concurrency:
+  group: analytics-coverage-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  coverage:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/check_google_tag_coverage.py
+      - run: node --test scripts/tests/site-analytics.test.mjs
