@@ -1,0 +1,623 @@
+{
+  "reviewer_type": "AI",
+  "reviewer": "/root/y3_final_review",
+  "reviewed_utc": "2026-11-10T07:18:07.186456+00:00",
+  "decision": "PASS",
+  "workflow_run": 42773144997,
+  "source_head": "e34dc1790ad9712d41d9b8a66ef52259728fdd5d",
+  "artifact_id": 13743295327,
+  "zip_sha256": "77749c988509da1d0f48a012e6ecb9f6f42f359a979015fa479c9e53007acbe8",
+  "github_digest_match": true,
+  "png_count": 105,
+  "actual_results": {
+    "pages": 10,
+    "viewports": [
+      1440,
+      768,
+      390
+    ],
+    "javascriptDisabled": true,
+    "javascriptEnabledSmoke": 10,
+    "keyboardAnswers": true,
+    "keyboardPhoneDiagramPan": true,
+    "nativeLA05NavigationLinks": 24,
+    "nativeLA05NavigationViewports": 3,
+    "results": [
+      {
+        "code": "AC9E3LA01",
+        "width": 1440,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 1167.765625,
+          "y": 925.359375,
+          "width": 260.234375,
+          "height": 62.640625,
+          "right": 1428,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA02",
+        "width": 1440,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 1167.765625,
+          "y": 925.359375,
+          "width": 260.234375,
+          "height": 62.640625,
+          "right": 1428,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA03",
+        "width": 1440,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 1167.765625,
+          "y": 925.359375,
+          "width": 260.234375,
+          "height": 62.640625,
+          "right": 1428,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA04",
+        "width": 1440,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 1167.765625,
+          "y": 925.359375,
+          "width": 260.234375,
+          "height": 62.640625,
+          "right": 1428,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA05",
+        "width": 1440,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 1167.765625,
+          "y": 925.359375,
+          "width": 260.234375,
+          "height": 62.640625,
+          "right": 1428,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA06",
+        "width": 1440,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 1167.765625,
+          "y": 925.359375,
+          "width": 260.234375,
+          "height": 62.640625,
+          "right": 1428,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA07",
+        "width": 1440,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 1167.765625,
+          "y": 925.359375,
+          "width": 260.234375,
+          "height": 62.640625,
+          "right": 1428,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA08",
+        "width": 1440,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 1167.765625,
+          "y": 925.359375,
+          "width": 260.234375,
+          "height": 62.640625,
+          "right": 1428,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA09",
+        "width": 1440,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 1167.765625,
+          "y": 925.359375,
+          "width": 260.234375,
+          "height": 62.640625,
+          "right": 1428,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA10",
+        "width": 1440,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 1167.765625,
+          "y": 925.359375,
+          "width": 260.234375,
+          "height": 62.640625,
+          "right": 1428,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA01",
+        "width": 768,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 495.765625,
+          "y": 925.359375,
+          "width": 260.234375,
+          "height": 62.640625,
+          "right": 756,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA02",
+        "width": 768,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 495.765625,
+          "y": 925.359375,
+          "width": 260.234375,
+          "height": 62.640625,
+          "right": 756,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA03",
+        "width": 768,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 495.765625,
+          "y": 925.359375,
+          "width": 260.234375,
+          "height": 62.640625,
+          "right": 756,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA04",
+        "width": 768,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 495.765625,
+          "y": 925.359375,
+          "width": 260.234375,
+          "height": 62.640625,
+          "right": 756,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA05",
+        "width": 768,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 495.765625,
+          "y": 925.359375,
+          "width": 260.234375,
+          "height": 62.640625,
+          "right": 756,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA06",
+        "width": 768,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 495.765625,
+          "y": 925.359375,
+          "width": 260.234375,
+          "height": 62.640625,
+          "right": 756,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA07",
+        "width": 768,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 495.765625,
+          "y": 925.359375,
+          "width": 260.234375,
+          "height": 62.640625,
+          "right": 756,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA08",
+        "width": 768,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 495.765625,
+          "y": 925.359375,
+          "width": 260.234375,
+          "height": 62.640625,
+          "right": 756,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA09",
+        "width": 768,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 495.765625,
+          "y": 925.359375,
+          "width": 260.234375,
+          "height": 62.640625,
+          "right": 756,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA10",
+        "width": 768,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 495.765625,
+          "y": 925.359375,
+          "width": 260.234375,
+          "height": 62.640625,
+          "right": 756,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA01",
+        "width": 390,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 127.765625,
+          "y": 928.71875,
+          "width": 250.234375,
+          "height": 59.28125,
+          "right": 378,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA02",
+        "width": 390,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 127.765625,
+          "y": 928.71875,
+          "width": 250.234375,
+          "height": 59.28125,
+          "right": 378,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA03",
+        "width": 390,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 127.765625,
+          "y": 928.71875,
+          "width": 250.234375,
+          "height": 59.28125,
+          "right": 378,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA04",
+        "width": 390,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 127.765625,
+          "y": 928.71875,
+          "width": 250.234375,
+          "height": 59.28125,
+          "right": 378,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA05",
+        "width": 390,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 127.765625,
+          "y": 928.71875,
+          "width": 250.234375,
+          "height": 59.28125,
+          "right": 378,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA06",
+        "width": 390,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 127.765625,
+          "y": 928.71875,
+          "width": 250.234375,
+          "height": 59.28125,
+          "right": 378,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA07",
+        "width": 390,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 127.765625,
+          "y": 928.71875,
+          "width": 250.234375,
+          "height": 59.28125,
+          "right": 378,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA08",
+        "width": 390,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 127.765625,
+          "y": 928.71875,
+          "width": 250.234375,
+          "height": 59.28125,
+          "right": 378,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA09",
+        "width": 390,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 127.765625,
+          "y": 928.71875,
+          "width": 250.234375,
+          "height": 59.28125,
+          "right": 378,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA10",
+        "width": 390,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 127.765625,
+          "y": 928.71875,
+          "width": 250.234375,
+          "height": 59.28125,
+          "right": 378,
+          "bottom": 988
+        }
+      }
+    ],
+    "problems": []
+  },
+  "results_sha256": "f594d4941c4374d3b9a0028066bb80473a69bafdca52a6e8139c78b2931240e4",
+  "all45_model_capture_bytes_equal_initial": true,
+  "all45_model_files_sha256": {
+    "AC9E3LA01-1440-native-1.png": "3bb30a9f3ac55da139b5db9f3bae9b24b3ca07e171e533bff414addb8620c2bd",
+    "AC9E3LA01-1440-svg-1.png": "d1ccdf92cc00fc8fe3c0ec1d0d2d0e4b154bf74cfa05ce44602d99c3157ea239",
+    "AC9E3LA02-1440-native-1.png": "4c0d0a3d1f946f71d65a548a2cc58d341b1a1a73fad2bcbe608f05b59cb5459b",
+    "AC9E3LA02-1440-svg-1.png": "e023971cf22d8004c5185e76b22db70f4184730742d379b94549077c5be2b6a8",
+    "AC9E3LA03-1440-native-1.png": "6cd7c867cd8f2f814d15c5896152ae2e6fedab2cc7ed465d33ae5c78766b9637",
+    "AC9E3LA03-1440-native-2.png": "15c07285e29c3d3fd4808b11934f0bc8c7efb58f74b19a95e22b297da5b380e5",
+    "AC9E3LA03-1440-svg-1.png": "e795ace9b418ac0d6508e89d5868c6817ca0fc4fa14dc57e48740a404bfec6ee",
+    "AC9E3LA04-1440-native-1.png": "9e7f99fa2823291fa3f599c43f94835c7475b8fdeed4c0f40cd87179e59d7963",
+    "AC9E3LA04-1440-native-2.png": "544fb4cd05f4b2a9524f8ddebd18376651d49fad7f20dcfd6919ffed796cdda5",
+    "AC9E3LA04-1440-native-3.png": "7310e2e5f66afea83f1f45de31a8fb7cad3e4efcdc2c874ade2bcdfbf051d74e",
+    "AC9E3LA04-1440-native-4.png": "ccb5bae95ef9b48ebb6e2a9fc406653f28d36f9bb99e956b5d41daa8558883c4",
+    "AC9E3LA04-1440-svg-1.png": "8fbc939d79e63b6052ee4325462d10e6f72c47bd36bb015a2c0e501325c6ce6d",
+    "AC9E3LA05-1440-native-1.png": "d1735eff74ace6294a4809ed2887b3b895667142fd3582a48a265bea71ba8ca5",
+    "AC9E3LA05-1440-native-2.png": "63c928cc001217eb310eb9032f3559ade1cf5da65bf0d87b2e078c1c8b9163ab",
+    "AC9E3LA05-1440-native-3.png": "e0b7eb1d876c617f90ce3caabfafc62b2fd3ea5758278d62372c8fde1a07570b",
+    "AC9E3LA05-1440-native-4.png": "aa3ac4a44a885463d07943ebb1e38d62b34b8653309429f6b8a1279ad654f16d",
+    "AC9E3LA05-1440-native-5.png": "c4a935130c8b760862c47577d210d036ba0d51f48753dbdc54d144a812bf590e",
+    "AC9E3LA05-1440-native-6.png": "b43688598283b683b230fdc3dcc35bf400e632c0435f3f61a6d64e60cedc82f7",
+    "AC9E3LA05-1440-native-7.png": "764f9d8242f7550eede59a6495c863cf7e51a5e3e85de8eb6d7b5a616a2351e1",
+    "AC9E3LA05-1440-svg-1.png": "850e74253a54f223f672e7c0190f54924b9a97a89c41f6dd4ee22e5f159ed033",
+    "AC9E3LA06-1440-native-1.png": "e7926cd8dca605fd247f58530c33b02ffcbf0c8ee450f0093388b985bf98c385",
+    "AC9E3LA06-1440-native-2.png": "43b981f371205342c94ef7349449573f44c6b8b0c6ddac391ba04c61e4df5a2f",
+    "AC9E3LA06-1440-svg-1.png": "3b11f2934f23c32703757dc48e69d78100c5d1c11b18e9055a30e8e10096af24",
+    "AC9E3LA07-1440-native-1.png": "e82c5732147fd80cca8434bb34214ec0ba9c1c3a9b5e5cad1cf386501fbe3c30",
+    "AC9E3LA07-1440-native-2.png": "be6d8506a9e7c785718ea52da5094a992ca9fc3cc46ee24ac58ed88ef3a739de",
+    "AC9E3LA07-1440-svg-1.png": "c08e8d77f5db1d9ed4b6938a4e0f9d28fd262a83c26bec03c4997ea4458e8702",
+    "AC9E3LA08-1440-native-1.png": "8d374a2a165e720089ea3e9efdcf3cf8a2e5b7df90d011ce403ed6081ea5aba4",
+    "AC9E3LA08-1440-native-2.png": "31ee2d24c6cc848decbaeff41c05783431c6af4df0f7dffd39da02ab27f7da26",
+    "AC9E3LA08-1440-svg-1.png": "349ddd2cac4962f80410516df8e14d44356c490bd2bbae9dfba9411907d89f42",
+    "AC9E3LA09-1440-native-1.png": "b9b37ceca8edcb70d6cb7aa43e96454d1b37517a8ad2a9a7026a54659d3b4a5f",
+    "AC9E3LA09-1440-svg-1.png": "d66715f427a72d070f0ec01e80b3c6ba79000b7f837914fb1f0144ed8d2f2ba5",
+    "AC9E3LA09-1440-svg-10.png": "8b78145b461aab67a7b3725a30fbfb8ef3729ec0455f2e556632d2526cfcbb63",
+    "AC9E3LA09-1440-svg-11.png": "acbe88f9654356eddca38ff66e6f82228f11dd8e56dcef680519a2de32bbcde1",
+    "AC9E3LA09-1440-svg-12.png": "b65f1ba4c1eb3cb339cce1e259f5229b592f9f7b832c6f5301eb02de7949b1aa",
+    "AC9E3LA09-1440-svg-2.png": "a4bb49c01fb8d6242861b0184329adf658c8c6e84b9bb7c80b073955033f8efc",
+    "AC9E3LA09-1440-svg-3.png": "1c7b0988887327bb0bcff732075d347d11217ce82a79c026f15a3b669d82847d",
+    "AC9E3LA09-1440-svg-4.png": "d97b291bf3e1c03ee92d1f9a264ea3f83c059623eb1d236a8aac203d6f883445",
+    "AC9E3LA09-1440-svg-5.png": "15f5119ffdb637c7581d0623eeab9cd2adcdc0e5ec3d3e4e375494cb05ef7a54",
+    "AC9E3LA09-1440-svg-6.png": "e7afce9647e2e62daac62cfdad73c1e355e790f5fee14e789ab95204e892e473",
+    "AC9E3LA09-1440-svg-7.png": "121ed851c9a7db136d38103807c3a1ce372cb2d6f63ebb59f031d303a291197d",
+    "AC9E3LA09-1440-svg-8.png": "f42b74a7bf54dad295dd9438cccdef1139d6e1c62280bda9a4e2dd0a4157e03c",
+    "AC9E3LA09-1440-svg-9.png": "a1b97bfe83260a52f90765aff84a1682fd9a15b7ac35571047cb71c356933e6b",
+    "AC9E3LA10-1440-native-1.png": "6a4ccd6a1cf3ba75afe6f98a28cc35f437bd09e75c16a6fc9e5414365c314a80",
+    "AC9E3LA10-1440-native-2.png": "df97477b0ac087dfafbf944892405a482249aaba2cddd3cd49f68168e13bea96",
+    "AC9E3LA10-1440-svg-1.png": "33bade7a6cce2c3fbb7c6ac275f510d37644d69844abcf52b0ad6b0bb28efd7e"
+  },
+  "affected_frames_individually_viewed": {
+    "AC9E3LA05-1440-top.png": "eb503d1dcb3c942f58d54c2e906a5f9b5f4e4b70083d93e1a8046608134bb19d",
+    "AC9E3LA05-1440-lesson.png": "332573e9fff2bf6021208c959ea6225988384a877da6ef07228410d1e783aeb9",
+    "AC9E3LA05-768-top.png": "f85885d839d74245752faa2fbd95d6471a91ccf383bc7cfd9df2225ac43dbcd0",
+    "AC9E3LA05-768-lesson.png": "a8718a461bd304e03eaa0820a13c246bb4d36938cc6f9b2fb3010f9814d267f2",
+    "AC9E3LA05-390-top.png": "cc046e7c49ed071d999fa3268a0d912222e25d8639778939df7bb4cba0d1a338",
+    "AC9E3LA05-390-lesson.png": "4c4894960b4c57414858fe3bc11e7f04438f113245995431573ef0ea5404b8e2",
+    "AC9E3LA09-390-top.png": "c609fa3ee6b4afd93714cad65e616c00c264fb10f9c86ac94f9fe3849c16ec0d",
+    "AC9E3LA09-390-lesson.png": "86558a725bec9dab3e9312f4e9ade6b00bfa1b56da7b6afdcc740e73296723f0"
+  },
+  "affected_frame_result": "All8 PASS: six successful LA05 top/lesson captures readable at1440/768/390, navigation labels and confirming content visible; two LA09 phone captures show intact horizontally pannable model with visible swipe guidance. Viewport continuation is not clipped source content. No new material defect.",
+  "reused_pixel_evidence": "All45 models were individually inspected in initial-pixel-review.json, and all45 exact bytes match successful artifact. Ten reviewer-selected prior successful viewport frames and two diagnostic failure frames were inspected. Eight new/changed frames now inspected; no redundant whole-model review repeated.",
+  "interaction_decision": "PASS based on actual successful hosted30 JS-disabled visits, all24 LA05 actual pointer links at each3sizes, exact hash and visible-target assertions, keyboard/native answer and phone diagram pan checks,10 JavaScript-enabled smokes; no problems. Reviewer inspected actual harness deltas and exact frozen inputs, did not personally drive a live browser.",
+  "failure_history": [
+    {
+      "run": 42770850475,
+      "state": "failed",
+      "finding": "LA05 unstable pointer links all3sizes;45 model captures retained and reused only because successful bytes match."
+    },
+    {
+      "run": 42771655051,
+      "state": "cancelled/superseded",
+      "finding": "In-page rAF quiet/deadline helper unsuitable for JavaScript-disabled page. No product pass or failure inferred from incomplete run."
+    },
+    {
+      "run": 42772259179,
+      "state": "failed",
+      "finding": "Node polling passed24 links at768; unstable pointers remained at1440/390. No pass claimed."
+    },
+    {
+      "run": 42773144997,
+      "state": "success",
+      "finding": "Bounded LA05 CSS motion fix plus same Node real-click/hash/visibility checks pass all3sizes."
+    }
+  ]
+}

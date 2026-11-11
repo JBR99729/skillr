@@ -1,0 +1,515 @@
+{
+  "initial_failed_run": 42770850475,
+  "initial_head": "8ce8f83559b5cef45ea65a9c24ec252d41285504",
+  "artifact_id": 13742061589,
+  "actual_zip_sha256": "fa55abf0025c99f19703874d3248c8a03f5cef33abf318161bb2eddc47205ec8",
+  "github_digest_matched": true,
+  "failure": "LA05 next native-link pointer click timed out as element was moving after native smooth scrolling; all3 viewports. Other27 page visits and10 JS smokes completed.",
+  "repair": "Observe actual scrollX/Y until300ms quiet, reject at10seconds, before/after same real pointer clicks. Exact href/hash and visible target assertions unchanged; no forced click or motion disabling.",
+  "independent_harness_delta_review": "Fresh final reviewer inspected actual delta and accepted timing repair; interaction gate remains held until rerun.",
+  "script_before_sha256": "98b9e38d63956c44ec91ff359a20f7557b4b433f1e22b018a202e5eb90e66afe",
+  "script_after_sha256": "1489a67fe7c6b8fa07042c062a0a5f4cdb45813cc013d191e088f67b50acc417",
+  "page_style_and_other22_inputs": "unchanged; only harness pin differs from initial23-input manifest",
+  "initial_results_sha256": "5fdc534d296bb9196761aaf4272e52d8897f0c16d35c483a880f8c4a04efd0ac",
+  "initial_results": {
+    "pages": 10,
+    "viewports": [
+      1440,
+      768,
+      390
+    ],
+    "javascriptDisabled": true,
+    "javascriptEnabledSmoke": 10,
+    "keyboardAnswers": true,
+    "keyboardPhoneDiagramPan": true,
+    "nativeLA05NavigationLinks": 24,
+    "nativeLA05NavigationViewports": 3,
+    "results": [
+      {
+        "code": "AC9E3LA01",
+        "width": 1440,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 1167.765625,
+          "y": 925.359375,
+          "width": 260.234375,
+          "height": 62.640625,
+          "right": 1428,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA02",
+        "width": 1440,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 1167.765625,
+          "y": 925.359375,
+          "width": 260.234375,
+          "height": 62.640625,
+          "right": 1428,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA03",
+        "width": 1440,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 1167.765625,
+          "y": 925.359375,
+          "width": 260.234375,
+          "height": 62.640625,
+          "right": 1428,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA04",
+        "width": 1440,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 1167.765625,
+          "y": 925.359375,
+          "width": 260.234375,
+          "height": 62.640625,
+          "right": 1428,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA06",
+        "width": 1440,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 1167.765625,
+          "y": 925.359375,
+          "width": 260.234375,
+          "height": 62.640625,
+          "right": 1428,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA07",
+        "width": 1440,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 1167.765625,
+          "y": 925.359375,
+          "width": 260.234375,
+          "height": 62.640625,
+          "right": 1428,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA08",
+        "width": 1440,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 1167.765625,
+          "y": 925.359375,
+          "width": 260.234375,
+          "height": 62.640625,
+          "right": 1428,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA09",
+        "width": 1440,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 1167.765625,
+          "y": 925.359375,
+          "width": 260.234375,
+          "height": 62.640625,
+          "right": 1428,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA10",
+        "width": 1440,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 1167.765625,
+          "y": 925.359375,
+          "width": 260.234375,
+          "height": 62.640625,
+          "right": 1428,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA01",
+        "width": 768,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 495.765625,
+          "y": 925.359375,
+          "width": 260.234375,
+          "height": 62.640625,
+          "right": 756,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA02",
+        "width": 768,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 495.765625,
+          "y": 925.359375,
+          "width": 260.234375,
+          "height": 62.640625,
+          "right": 756,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA03",
+        "width": 768,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 495.765625,
+          "y": 925.359375,
+          "width": 260.234375,
+          "height": 62.640625,
+          "right": 756,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA04",
+        "width": 768,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 495.765625,
+          "y": 925.359375,
+          "width": 260.234375,
+          "height": 62.640625,
+          "right": 756,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA06",
+        "width": 768,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 495.765625,
+          "y": 925.359375,
+          "width": 260.234375,
+          "height": 62.640625,
+          "right": 756,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA07",
+        "width": 768,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 495.765625,
+          "y": 925.359375,
+          "width": 260.234375,
+          "height": 62.640625,
+          "right": 756,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA08",
+        "width": 768,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 495.765625,
+          "y": 925.359375,
+          "width": 260.234375,
+          "height": 62.640625,
+          "right": 756,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA09",
+        "width": 768,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 495.765625,
+          "y": 925.359375,
+          "width": 260.234375,
+          "height": 62.640625,
+          "right": 756,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA10",
+        "width": 768,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 495.765625,
+          "y": 925.359375,
+          "width": 260.234375,
+          "height": 62.640625,
+          "right": 756,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA01",
+        "width": 390,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 127.765625,
+          "y": 928.71875,
+          "width": 250.234375,
+          "height": 59.28125,
+          "right": 378,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA02",
+        "width": 390,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 127.765625,
+          "y": 928.71875,
+          "width": 250.234375,
+          "height": 59.28125,
+          "right": 378,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA03",
+        "width": 390,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 127.765625,
+          "y": 928.71875,
+          "width": 250.234375,
+          "height": 59.28125,
+          "right": 378,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA04",
+        "width": 390,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 127.765625,
+          "y": 928.71875,
+          "width": 250.234375,
+          "height": 59.28125,
+          "right": 378,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA06",
+        "width": 390,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 127.765625,
+          "y": 928.71875,
+          "width": 250.234375,
+          "height": 59.28125,
+          "right": 378,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA07",
+        "width": 390,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 127.765625,
+          "y": 928.71875,
+          "width": 250.234375,
+          "height": 59.28125,
+          "right": 378,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA08",
+        "width": 390,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 127.765625,
+          "y": 928.71875,
+          "width": 250.234375,
+          "height": 59.28125,
+          "right": 378,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA09",
+        "width": 390,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 127.765625,
+          "y": 928.71875,
+          "width": 250.234375,
+          "height": 59.28125,
+          "right": 378,
+          "bottom": 988
+        }
+      },
+      {
+        "code": "AC9E3LA10",
+        "width": 390,
+        "overflow": false,
+        "broken": [],
+        "main": 1,
+        "heading": 1,
+        "app": 1,
+        "button": {
+          "x": 127.765625,
+          "y": 928.71875,
+          "width": 250.234375,
+          "height": 59.28125,
+          "right": 378,
+          "bottom": 988
+        }
+      }
+    ],
+    "problems": [
+      {
+        "code": "AC9E3LA05",
+        "width": 1440,
+        "error": "locator.click: Timeout 5000ms exceeded.\nCall log:\n  - waiting for locator('.steps a[href^=\"#\"], .retained-teaching a[href^=\"#\"]').nth(1)\n    - locator resolved to <a href=\"#learn-garden-entry\">Where to enter</a>\n  - attempting click action\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not stable\n    - retrying click action\n    - waiting 20ms\n"
+      },
+      {
+        "code": "AC9E3LA05",
+        "width": 768,
+        "error": "locator.click: Timeout 5000ms exceeded.\nCall log:\n  - waiting for locator('.steps a[href^=\"#\"], .retained-teaching a[href^=\"#\"]').nth(1)\n    - locator resolved to <a href=\"#learn-garden-entry\">Where to enter</a>\n  - attempting click action\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not stable\n    - retrying click action\n    - waiting 20ms\n"
+      },
+      {
+        "code": "AC9E3LA05",
+        "width": 390,
+        "error": "locator.click: Timeout 5000ms exceeded.\nCall log:\n  - waiting for locator('.steps a[href^=\"#\"], .retained-teaching a[href^=\"#\"]').nth(4)\n    - locator resolved to <a href=\"#learn-tools-trowels\">Trowel storage</a>\n  - attempting click action\n    2 \u00d7 waiting for element to be visible, enabled and stable\n      - element is not stable\n    - retrying click action\n    - waiting 20ms\n"
+      }
+    ]
+  },
+  "rerun": "Node polling rerun PENDING",
+  "raf_attempt": {
+    "run": 42771655051,
+    "head": "2a7b69e5944fa260c14019dbfef8ae97a6e95f36",
+    "state_at_supersession": "in_progress; no successful outcome claimed",
+    "finding": "In-page rAF callback is unsuitable for enforcing a deadline on intentionally JavaScript-disabled pages.",
+    "replacement": "Node polls synchronous scrollX/Y snapshots every50ms, requires300ms quiet, rejects after10s independently of page callbacks. All actual pointer click/hash/visible-target assertions retained."
+  },
+  "node_polling_harness_sha256": "01106cd33509f9101c9aedb5338188e6f7abd1b264d78b4bc0eb668160ab6beb"
+}

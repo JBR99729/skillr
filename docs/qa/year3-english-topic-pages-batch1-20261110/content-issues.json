@@ -1,0 +1,53 @@
+[
+  {
+    "id": "ROOT-LA09-LABEL",
+    "code": "AC9E3LA09",
+    "classification": "Diagram label clearance repair before complete source review",
+    "finding": "The left part of the gaze annotation crossed a dashed gaze line in the standalone rendered new model.",
+    "before": "<text x=\"330\" y=\"84\" text-anchor=\"middle\" stroke=\"none\" font-size=\"17\">gaze between the figures</text>",
+    "after": "<text x=\"330\" y=\"272\" text-anchor=\"middle\" stroke=\"none\" font-size=\"17\">gaze between the figures</text>",
+    "effect": "Move the annotation below the ground line, inside the same canvas; characters, gaze lines and task meanings unchanged. No old SVG altered.",
+    "status": "CLOSED \u2014 complete and fresh final source reviewers independently rechecked actual repaired content; served render gate remains separate"
+  },
+  {
+    "id": "CR-LA10-LIGHT",
+    "code": "AC9E3LA10",
+    "classification": "Ambiguous context prompt",
+    "finding": "Light feather permits pale-colour or low-weight meaning without a decisive contextual clue.",
+    "before": "The bird has a light feather.",
+    "after": "The feather is light. It weighs almost nothing.",
+    "key_change": "Use weighs almost nothing as the explicit context clue; the requested weight meaning is unchanged.",
+    "status": "CLOSED \u2014 complete and fresh final source reviewers independently rechecked actual repaired content; served render gate remains separate"
+  },
+  {
+    "id": "CR-LA07-RETAINED",
+    "code": "AC9E3LA07",
+    "classification": "Retained curriculum mismatch",
+    "finding": "Four old core entries still taught opinion/evaluation and modal force rather than verb processes.",
+    "repair": "Eight exact replacements recast headings and examples into doing/saying, thinking/feeling, relating and whole-verb-group context; removed missing warning-story dependency.",
+    "blind_recheck_inputs": "B/la07-repair-blind.json, four complete sentence sets and asks",
+    "status": "CLOSED \u2014 complete and fresh final source reviewers independently rechecked actual repaired content; served render gate remains separate"
+  },
+  {
+    "id": "LA09-MAP-MOBILE",
+    "code": "AC9E3LA09",
+    "classification": "Presentation accessibility improvement",
+    "repair": "Existing map figure made focusable and horizontally scrollable like the other diagrams; original SVG geometry/text unchanged.",
+    "status": "CLOSED \u2014 actual hosted mobile keyboard panning passed in run42773144997; original geometry preserved"
+  },
+  {
+    "id": "OPTIONAL-LA07-HEADING",
+    "code": "AC9E3LA07",
+    "classification": "Optional wording improvement",
+    "finding": "A supplementary heading still calls the source sentences earlier evaluation examples; actual verb-process analysis is accurate and explicit.",
+    "status": "BACKLOG; non-blocking under current quality protocol"
+  },
+  {
+    "id": "LA05-MOTION",
+    "code": "AC9E3LA05",
+    "classification": "Navigation interaction stability",
+    "finding": "Inherited smooth hash movement/hover translation caused unstable sequential pointer navigation in hosted desktop/phone checks.",
+    "repair": "Scoped immediate hash jumps and stationary hover geometry for worked menu links, preserving feedback/focus styles.",
+    "status": "CLOSED \u2014 all24 real pointer clicks passed at1440/768/390 in run42773144997"
+  }
+]

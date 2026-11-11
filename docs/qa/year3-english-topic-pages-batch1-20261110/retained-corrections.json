@@ -1,0 +1,290 @@
+[
+  {
+    "code": "AC9E3LA01",
+    "section": "Learning goals",
+    "before": "Learning target: understand that cooperation with others depends on shared understanding of social conventions, including turn-taking language, which vary according to the degree of formality",
+    "after": "",
+    "occurrences": 1,
+    "reason": "Remove repeated exact curriculum descriptor; preserve once in alignment and preserve the learning explanation/goals/routine."
+  },
+  {
+    "code": "AC9E3LA02",
+    "section": "Learning goals",
+    "before": "Learning target: understand how the language of evaluation and emotion, such as modal verbs, can be varied to be more or less forceful",
+    "after": "",
+    "occurrences": 1,
+    "reason": "Remove repeated exact curriculum descriptor; preserve once in alignment and preserve the learning explanation/goals/routine."
+  },
+  {
+    "code": "AC9E3LA02",
+    "section": "Subject-Specific Content & Key Examples",
+    "before": "Compare “might help”, “should help” and “will help”. The modal choice changes how certain or forceful the claim sounds.",
+    "after": "In a prediction about a new lid, compare “The lid might help keep the paint wet” with “The lid will help keep the paint wet”: the second sounds more certain. In a recommendation, “You should put the lid on” advises an action. A recommendation and a prediction do different jobs; do not rank their modals on one universal ladder.",
+    "occurrences": 1,
+    "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  },
+  {
+    "code": "AC9E3LA02",
+    "section": "Subject-Specific Content & Key Examples",
+    "before": "Students underline one evaluative word in a fresh sentence, replace it with a weaker or stronger choice and explain the changed effect.",
+    "after": "Use the complete revision cards below. Identify the word choice, change it for the stated context and explain the changed force, attitude or emotion.",
+    "occurrences": 1,
+    "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  },
+  {
+    "code": "AC9E3LA03",
+    "section": "Learning goals",
+    "before": "Learning target: describe how texts across the curriculum use different language features and structures relevant to their purpose",
+    "after": "",
+    "occurrences": 1,
+    "reason": "Remove repeated exact curriculum descriptor; preserve once in alignment and preserve the learning explanation/goals/routine."
+  },
+  {
+    "code": "AC9E3LA03",
+    "section": "Subject-Specific Content & Key Examples",
+    "before": "Give a short mixed-up text. Students choose one structural or cohesive change, make it, and explain how it helps the reader.",
+    "after": "Use the complete mixed-up text below. Make a useful organisation or connection change, then explain exactly how it helps the reader.",
+    "occurrences": 1,
+    "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  },
+  {
+    "code": "AC9E3LA04",
+    "section": "Learning goals",
+    "before": "Learning target: understand that paragraphs are a key organisational feature of the stages of written texts, grouping related information together",
+    "after": "",
+    "occurrences": 1,
+    "reason": "Remove repeated exact curriculum descriptor; preserve once in alignment and preserve the learning explanation/goals/routine."
+  },
+  {
+    "code": "AC9E3LA04",
+    "section": "Subject-Specific Content & Key Examples",
+    "before": "Give a short mixed-up text. Students choose one structural or cohesive change, make it, and explain how it helps the reader.",
+    "after": "Use the complete mixed-up text below. Make a useful organisation or connection change, then explain exactly how it helps the reader.",
+    "occurrences": 1,
+    "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  },
+  {
+    "code": "AC9E3LA04",
+    "section": "Earlier worked model",
+    "before": "The details all develop comfort in this particular reading corner; the other openings are narrow, broad or unsupported.",
+    "after": "The soft cushions, lighting and rug all develop comfort in this reading corner, so the opening gives the paragraph a shared focus.",
+    "occurrences": 1,
+    "reason": "Declare the title style and a complete editable target; exact earlier diagram preserved."
+  },
+  {
+    "code": "AC9E3LA05",
+    "section": "Learning goals",
+    "before": "Learning target: identify the purpose of layout features in print and digital texts and the words used for navigation",
+    "after": "",
+    "occurrences": 1,
+    "reason": "Remove repeated exact curriculum descriptor; preserve once in alignment and preserve the learning explanation/goals/routine."
+  },
+  {
+    "code": "AC9E3LA05",
+    "section": "Subject-Specific Content & Key Examples",
+    "before": "A procedure uses ordered steps because sequence matters; a story may organise events to build tension; an information report groups related facts under headings.",
+    "after": "A print or digital information guide groups related facts under useful headings and subheadings. A narrative chapter title may hint at an event. Use the complete guide and chapter cards below to examine the actual words and layout.",
+    "occurrences": 1,
+    "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  },
+  {
+    "code": "AC9E3LA05",
+    "section": "Subject-Specific Content & Key Examples",
+    "before": "Cohesion across sentences",
+    "after": "Connections between labels and information",
+    "occurrences": 1,
+    "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  },
+  {
+    "code": "AC9E3LA05",
+    "section": "Subject-Specific Content & Key Examples",
+    "before": "Compare “Mia found a shell. Mia washed the shell.” with “Mia found a shell. She washed it.” The pronoun connects ideas without unnecessary repetition.",
+    "after": "The heading “Tool storage” introduces tool-location information. The subheading “Trowels” narrows it to trowels. Compare those meaningful labels with the vague label “More”, then check the actual information below each.",
+    "occurrences": 1,
+    "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  },
+  {
+    "code": "AC9E3LA05",
+    "section": "Subject-Specific Content & Key Examples",
+    "before": "Paragraph focus",
+    "after": "Layout focus",
+    "occurrences": 1,
+    "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  },
+  {
+    "code": "AC9E3LA05",
+    "section": "Subject-Specific Content & Key Examples",
+    "before": "A paragraph is easier to follow when its sentences develop one main idea rather than jumping between unrelated points.",
+    "after": "Place a heading beside the information it names. Use a clear hierarchy so readers can distinguish the whole guide, its broad sections and their smaller subtopics.",
+    "occurrences": 1,
+    "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  },
+  {
+    "code": "AC9E3LA05",
+    "section": "Subject-Specific Content & Key Examples",
+    "before": "Give a short mixed-up text. Students choose one structural or cohesive change, make it, and explain how it helps the reader.",
+    "after": "Use the complete layout-repair card below. Improve a vague label and explain how it helps a reader find the supplied information.",
+    "occurrences": 1,
+    "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  },
+  {
+    "code": "AC9E3LA05",
+    "section": "Earlier worked model",
+    "before": "Which heading would help you find when you can enter?",
+    "after": "Which is the most specific heading for finding when visits are possible?",
+    "occurrences": 1,
+    "reason": "Declare the title style and a complete editable target; exact earlier diagram preserved."
+  },
+  {
+    "code": "AC9E3LA06",
+    "section": "Learning goals",
+    "before": "Learning target: understand that a clause is a unit of grammar usually containing a subject and a verb that need to agree",
+    "after": "",
+    "occurrences": 1,
+    "reason": "Remove repeated exact curriculum descriptor; preserve once in alignment and preserve the learning explanation/goals/routine."
+  },
+  {
+    "code": "AC9E3LA07",
+    "section": "Learning goals",
+    "before": "Learning target: understand how verbs represent different processes for doing, feeling, thinking, saying and relating",
+    "after": "",
+    "occurrences": 1,
+    "reason": "Remove repeated exact curriculum descriptor; preserve once in alignment and preserve the learning explanation/goals/routine."
+  },
+  {
+    "code": "AC9E3LA07",
+    "section": "Subject-Specific Content & Key Examples",
+    "before": "Opinion plus reason",
+    "after": "Doing and saying in a complete scene",
+    "occurrences": 1,
+    "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  },
+  {
+    "code": "AC9E3LA07",
+    "section": "Subject-Specific Content & Key Examples",
+    "before": "Move from “I liked the story” to “I found the ending effective because the repeated warning built suspense.” The second response gives a judgement and evidence.",
+    "after": "Read: “Jo opened the gate. ‘Come in,’ Jo whispered.” Opened tells what Jo did to the gate; whispered tells how Jo spoke the invitation. Compare “Jo shouted, ‘Come in.’” Shouted is also a saying verb, but suggests louder delivery. The verb does not tell us why Jo spoke loudly.",
+    "occurrences": 1,
+    "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  },
+  {
+    "code": "AC9E3LA07",
+    "section": "Subject-Specific Content & Key Examples",
+    "before": "Strength of judgement",
+    "after": "Thinking and feeling",
+    "occurrences": 1,
+    "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  },
+  {
+    "code": "AC9E3LA07",
+    "section": "Subject-Specific Content & Key Examples",
+    "before": "Compare “might help”, “should help” and “will help”. The modal choice changes how certain or forceful the claim sounds.",
+    "after": "Read: “Jo remembered the ending. Jo liked the story.” Remembered gives a thinking meaning: Jo recalls something. Liked gives a feeling meaning: Jo has a positive response to the story. Compare “Jo loved the story.” Loved usually expresses a stronger positive feeling here; liked and loved both tell feeling. No knowledge of the story’s events is needed to explain these verbs.",
+    "occurrences": 1,
+    "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  },
+  {
+    "code": "AC9E3LA07",
+    "section": "Subject-Specific Content & Key Examples",
+    "before": "Subjective and objective wording",
+    "after": "Relating a subject to a description or feature",
+    "occurrences": 1,
+    "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  },
+  {
+    "code": "AC9E3LA07",
+    "section": "Subject-Specific Content & Key Examples",
+    "before": "“The brilliant new playground is exciting” evaluates; “the playground opened on Monday” reports a checkable fact. Discuss why a writer may choose either.",
+    "after": "Read these complete sentences: “The brilliant new playground is exciting.” “The playground opened on Monday.” “It has two slides.” Is relates the playground to a description. Has relates it to a feature it possesses. Opened tells an event. Brilliant and exciting contribute descriptions, but is is the relating verb in the first sentence. Explain what each verb tells us in its clause.",
+    "occurrences": 1,
+    "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  },
+  {
+    "code": "AC9E3LA07",
+    "section": "Subject-Specific Content & Key Examples",
+    "before": "Transfer",
+    "after": "Read the whole verb group in context",
+    "occurrences": 1,
+    "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  },
+  {
+    "code": "AC9E3LA07",
+    "section": "Subject-Specific Content & Key Examples",
+    "before": "Students underline one evaluative word in a fresh sentence, replace it with a weaker or stronger choice and explain the changed effect.",
+    "after": "Compare “The gardener is quiet” and “The gardener is digging beside the fence”. Find the relating verb in the first clause and the whole doing verb group in the second. Check: is relates the gardener to a description in the first clause; is digging is the whole group describing an action in the second. Is helps digging there. The meaning depends on the complete clause, not is alone.",
+    "occurrences": 1,
+    "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  },
+  {
+    "code": "AC9E3LA08",
+    "section": "Learning goals",
+    "before": "Learning target: understand that verbs are anchored in time through tense",
+    "after": "",
+    "occurrences": 1,
+    "reason": "Remove repeated exact curriculum descriptor; preserve once in alignment and preserve the learning explanation/goals/routine."
+  },
+  {
+    "code": "AC9E3LA08",
+    "section": "Earlier worked model",
+    "before": "Which sentence tells something that happened before now?",
+    "after": "Compare these complete sentences: “The child waved from the bus.” “The child waves from the bus each day.” “The child will wave from the bus tomorrow.” Which tells a completed event before now?",
+    "occurrences": 1,
+    "reason": "Declare the title style and a complete editable target; exact earlier diagram preserved."
+  },
+  {
+    "code": "AC9E3LA09",
+    "section": "Learning goals",
+    "before": "Learning target: identify how images extend the meaning of a text",
+    "after": "",
+    "occurrences": 1,
+    "reason": "Remove repeated exact curriculum descriptor; preserve once in alignment and preserve the learning explanation/goals/routine."
+  },
+  {
+    "code": "AC9E3LA09",
+    "section": "Worked example and reasoning checks",
+    "before": "Its illustration shows two muddy children holding a torn map.",
+    "after": "Use the arrival illustration supplied below.",
+    "occurrences": 1,
+    "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  },
+  {
+    "code": "AC9E3LA09",
+    "section": "Worked example and reasoning checks",
+    "before": "Use the specific details described, rather than guessing a whole backstory.",
+    "after": "Use specific details visible in the arrival illustration, rather than guessing a whole backstory.",
+    "occurrences": 1,
+    "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  },
+  {
+    "code": "AC9E3LA10",
+    "section": "Learning goals",
+    "before": "Learning target: extend topic-specific and technical vocabulary and know that words can have different meanings in different contexts",
+    "after": "",
+    "occurrences": 1,
+    "reason": "Remove repeated exact curriculum descriptor; preserve once in alignment and preserve the learning explanation/goals/routine."
+  },
+  {
+    "code": "AC9E3LA10",
+    "section": "Subject-Specific Content & Key Examples",
+    "before": "Choose by meaning and pattern",
+    "after": "Choose by meaning in context",
+    "occurrences": 1,
+    "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  },
+  {
+    "code": "AC9E3LA10",
+    "section": "Subject-Specific Content & Key Examples",
+    "before": "When two spellings sound possible, use known grapheme patterns, morphemes and word origin where appropriate rather than guessing from sound alone.",
+    "after": "Use a word’s meaningful parts as clues, then read the whole sentence and check its meaning. “The helpful note showed us the way” uses helpful for something that helps. This lesson practises meaning and use; a separate spelling lesson can examine spelling choices.",
+    "occurrences": 1,
+    "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  },
+  {
+    "code": "AC9E3LA10",
+    "section": "Subject-Specific Content & Key Examples",
+    "before": "Give an unfamiliar related word. Students break it into meaningful or sound-based parts, propose a spelling or meaning and verify it in context.",
+    "after": "Use “Jo reread the helpful note”. Students identify re- + read and help + -ful, explain read again and a note that helps, then use one related word in a new sentence.",
+    "occurrences": 1,
+    "reason": "Bounded clarity/curriculum correction; preserve all other teaching."
+  }
+]

@@ -1,0 +1,676 @@
+[
+  {
+    "learningArea": "English",
+    "subject": "English",
+    "subjectSlug": "english",
+    "quizSubjectSlug": "english",
+    "level": "Year 3",
+    "levelLabel": "Year 3",
+    "yearNumber": 3,
+    "yearFolder": "year3",
+    "quizYearSegment": "year-3",
+    "code": "AC9E3LA01",
+    "title": "That cooperation with others depends on shared understanding of social...",
+    "unitSlug": "ac9e3la01-that-cooperation-with-others-depends-on-shared-understanding-of",
+    "sourceOrder": 87,
+    "strand": "Language",
+    "subStrand": "Language for interacting with others",
+    "description": "understand that cooperation with others depends on shared understanding of social conventions, including turn-taking language, which vary according to the degree of formality",
+    "levelDescription": "The English curriculum is built around the 3 interrelated strands of Language, Literature and Literacy . Together, the 3 strands focus on developing students’ knowledge, understanding and skills in listening, reading, viewing, speaking, writing and creating. Learning in English is recursive and cumulative, building on concepts, skills and processes developed in earlier years. In Year 3, students use spoken, written or visual communication to interact with familiar audiences for a purpose. Students engage with a variety of texts for enjoyment. They listen to, read and view spoken, written and multimodal texts. Texts may include oral texts, picture books, various types of print and digital texts, chapter books, rhyming verse, poetry, non-fiction, film, multimodal texts, dramatic performances, and texts used by students as models for constructing their own work. In Year 3, students engage with a range of texts that support and extend them as independent readers. Informative texts include content of increasing complexity and technicality about topics of interest and topics being studied in other areas of the curriculum. Literary texts may describe events that extend over several pages, unusual happenings within a framework of familiar experiences and may include images that extend meaning. These texts use language features including varied sentence structures, some unfamiliar vocabulary, a significant number of high-frequency words that can be decoded using phonic and morphemic knowledge, a variety of punctuation conventions, and illustrations and diagrams that support and extend the printed text. The range of literary texts for Foundation to Year 10 comprises the oral narrative traditions and literature of First Nations Australians, and classic and contemporary literature from wide-ranging Australian and world authors, including texts from and about Asia. Year 3 students create imaginative, informative and persuasive types of texts, which may include narratives, procedures, performances, reports, reviews, poetry and argument for particular purposes and audiences.",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9E3LA01_E1",
+        "number": "E1",
+        "text": "recognising and using collaborative language in group and pair work; for example, initiating a topic, changing a topic through negotiation, affirming other speakers and building on their comments, asking relevant questions, providing useful feedback, prompting, and checking individual and group understanding",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E3LA01_E2",
+        "number": "E2",
+        "text": "understanding some First Nations Australian cultural protocols, cultural practices, specific roles, and ways of interacting and speaking",
+        "questionEligible": false
+      }
+    ],
+    "url": "/year3/english/ac9e3la01-that-cooperation-with-others-depends-on-shared-understanding-of/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-3/english/ac9e3la01/worksheet/",
+    "teacherSlideUrl": "/worksheets/year3/english/teacher-slides/ac9e3la01-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9E3LA01",
+        "label": "Content description",
+        "text": "understand that cooperation with others depends on shared understanding of social conventions, including turn-taking language, which vary according to the degree of formality",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E3LA01_E1",
+        "number": "E1",
+        "text": "recognising and using collaborative language in group and pair work; for example, initiating a topic, changing a topic through negotiation, affirming other speakers and building on their comments, asking relevant questions, providing useful feedback, prompting, and checking individual and group understanding",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E3LA01_E2",
+        "number": "E2",
+        "text": "understanding some First Nations Australian cultural protocols, cultural practices, specific roles, and ways of interacting and speaking",
+        "questionEligible": false
+      }
+    ]
+  },
+  {
+    "learningArea": "English",
+    "subject": "English",
+    "subjectSlug": "english",
+    "quizSubjectSlug": "english",
+    "level": "Year 3",
+    "levelLabel": "Year 3",
+    "yearNumber": 3,
+    "yearFolder": "year3",
+    "quizYearSegment": "year-3",
+    "code": "AC9E3LA02",
+    "title": "How the language of evaluation and emotion, such as modal...",
+    "unitSlug": "ac9e3la02-how-the-language-of-evaluation-and-emotion-such-as-modal",
+    "sourceOrder": 88,
+    "strand": "Language",
+    "subStrand": "Language for interacting with others",
+    "description": "understand how the language of evaluation and emotion, such as modal verbs, can be varied to be more or less forceful",
+    "levelDescription": "The English curriculum is built around the 3 interrelated strands of Language, Literature and Literacy . Together, the 3 strands focus on developing students’ knowledge, understanding and skills in listening, reading, viewing, speaking, writing and creating. Learning in English is recursive and cumulative, building on concepts, skills and processes developed in earlier years. In Year 3, students use spoken, written or visual communication to interact with familiar audiences for a purpose. Students engage with a variety of texts for enjoyment. They listen to, read and view spoken, written and multimodal texts. Texts may include oral texts, picture books, various types of print and digital texts, chapter books, rhyming verse, poetry, non-fiction, film, multimodal texts, dramatic performances, and texts used by students as models for constructing their own work. In Year 3, students engage with a range of texts that support and extend them as independent readers. Informative texts include content of increasing complexity and technicality about topics of interest and topics being studied in other areas of the curriculum. Literary texts may describe events that extend over several pages, unusual happenings within a framework of familiar experiences and may include images that extend meaning. These texts use language features including varied sentence structures, some unfamiliar vocabulary, a significant number of high-frequency words that can be decoded using phonic and morphemic knowledge, a variety of punctuation conventions, and illustrations and diagrams that support and extend the printed text. The range of literary texts for Foundation to Year 10 comprises the oral narrative traditions and literature of First Nations Australians, and classic and contemporary literature from wide-ranging Australian and world authors, including texts from and about Asia. Year 3 students create imaginative, informative and persuasive types of texts, which may include narratives, procedures, performances, reports, reviews, poetry and argument for particular purposes and audiences.",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9E3LA02_E1",
+        "number": "E1",
+        "text": "exploring how modal verbs; for example, “must”, “might” and “could”, indicate degrees of probability or obligation",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E3LA02_E2",
+        "number": "E2",
+        "text": "recognising how choice of adverbs, nouns and verbs present different evaluations of characters in texts",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E3LA02_E3",
+        "number": "E3",
+        "text": "exploring examples of language that demonstrate a range of emotions and positions, and building a vocabulary to express judgements about characters or events; for example, “the wizard was cunning, expert, inventive”",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year3/english/ac9e3la02-how-the-language-of-evaluation-and-emotion-such-as-modal/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-3/english/ac9e3la02/worksheet/",
+    "teacherSlideUrl": "/worksheets/year3/english/teacher-slides/ac9e3la02-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9E3LA02",
+        "label": "Content description",
+        "text": "understand how the language of evaluation and emotion, such as modal verbs, can be varied to be more or less forceful",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E3LA02_E1",
+        "number": "E1",
+        "text": "exploring how modal verbs; for example, “must”, “might” and “could”, indicate degrees of probability or obligation",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E3LA02_E2",
+        "number": "E2",
+        "text": "recognising how choice of adverbs, nouns and verbs present different evaluations of characters in texts",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E3LA02_E3",
+        "number": "E3",
+        "text": "exploring examples of language that demonstrate a range of emotions and positions, and building a vocabulary to express judgements about characters or events; for example, “the wizard was cunning, expert, inventive”",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "English",
+    "subject": "English",
+    "subjectSlug": "english",
+    "quizSubjectSlug": "english",
+    "level": "Year 3",
+    "levelLabel": "Year 3",
+    "yearNumber": 3,
+    "yearFolder": "year3",
+    "quizYearSegment": "year-3",
+    "code": "AC9E3LA03",
+    "title": "How texts across the curriculum use different language features and...",
+    "unitSlug": "ac9e3la03-how-texts-across-the-curriculum-use-different-language-features",
+    "sourceOrder": 89,
+    "strand": "Language",
+    "subStrand": "Text structure and organisation",
+    "description": "describe how texts across the curriculum use different language features and structures relevant to their purpose",
+    "levelDescription": "The English curriculum is built around the 3 interrelated strands of Language, Literature and Literacy . Together, the 3 strands focus on developing students’ knowledge, understanding and skills in listening, reading, viewing, speaking, writing and creating. Learning in English is recursive and cumulative, building on concepts, skills and processes developed in earlier years. In Year 3, students use spoken, written or visual communication to interact with familiar audiences for a purpose. Students engage with a variety of texts for enjoyment. They listen to, read and view spoken, written and multimodal texts. Texts may include oral texts, picture books, various types of print and digital texts, chapter books, rhyming verse, poetry, non-fiction, film, multimodal texts, dramatic performances, and texts used by students as models for constructing their own work. In Year 3, students engage with a range of texts that support and extend them as independent readers. Informative texts include content of increasing complexity and technicality about topics of interest and topics being studied in other areas of the curriculum. Literary texts may describe events that extend over several pages, unusual happenings within a framework of familiar experiences and may include images that extend meaning. These texts use language features including varied sentence structures, some unfamiliar vocabulary, a significant number of high-frequency words that can be decoded using phonic and morphemic knowledge, a variety of punctuation conventions, and illustrations and diagrams that support and extend the printed text. The range of literary texts for Foundation to Year 10 comprises the oral narrative traditions and literature of First Nations Australians, and classic and contemporary literature from wide-ranging Australian and world authors, including texts from and about Asia. Year 3 students create imaginative, informative and persuasive types of texts, which may include narratives, procedures, performances, reports, reviews, poetry and argument for particular purposes and audiences.",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9E3LA03_E1",
+        "number": "E1",
+        "text": "identifying the stages of a basic argument such as introduction, argument one, argument 2 and conclusion",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E3LA03_E2",
+        "number": "E2",
+        "text": "describing the typical text structure and language features of factual recounts, autobiographies, information reports, narratives, personal responses to literary texts (with reasons), sequential explanations, verse poetry and simple arguments, and describe their purposes",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year3/english/ac9e3la03-how-texts-across-the-curriculum-use-different-language-features/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-3/english/ac9e3la03/worksheet/",
+    "teacherSlideUrl": "/worksheets/year3/english/teacher-slides/ac9e3la03-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9E3LA03",
+        "label": "Content description",
+        "text": "describe how texts across the curriculum use different language features and structures relevant to their purpose",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E3LA03_E1",
+        "number": "E1",
+        "text": "identifying the stages of a basic argument such as introduction, argument one, argument 2 and conclusion",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E3LA03_E2",
+        "number": "E2",
+        "text": "describing the typical text structure and language features of factual recounts, autobiographies, information reports, narratives, personal responses to literary texts (with reasons), sequential explanations, verse poetry and simple arguments, and describe their purposes",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "English",
+    "subject": "English",
+    "subjectSlug": "english",
+    "quizSubjectSlug": "english",
+    "level": "Year 3",
+    "levelLabel": "Year 3",
+    "yearNumber": 3,
+    "yearFolder": "year3",
+    "quizYearSegment": "year-3",
+    "code": "AC9E3LA04",
+    "title": "That paragraphs are a key organisational feature of the stages...",
+    "unitSlug": "ac9e3la04-that-paragraphs-are-a-key-organisational-feature-of-the-stages",
+    "sourceOrder": 90,
+    "strand": "Language",
+    "subStrand": "Text structure and organisation",
+    "description": "understand that paragraphs are a key organisational feature of the stages of written texts, grouping related information together",
+    "levelDescription": "The English curriculum is built around the 3 interrelated strands of Language, Literature and Literacy . Together, the 3 strands focus on developing students’ knowledge, understanding and skills in listening, reading, viewing, speaking, writing and creating. Learning in English is recursive and cumulative, building on concepts, skills and processes developed in earlier years. In Year 3, students use spoken, written or visual communication to interact with familiar audiences for a purpose. Students engage with a variety of texts for enjoyment. They listen to, read and view spoken, written and multimodal texts. Texts may include oral texts, picture books, various types of print and digital texts, chapter books, rhyming verse, poetry, non-fiction, film, multimodal texts, dramatic performances, and texts used by students as models for constructing their own work. In Year 3, students engage with a range of texts that support and extend them as independent readers. Informative texts include content of increasing complexity and technicality about topics of interest and topics being studied in other areas of the curriculum. Literary texts may describe events that extend over several pages, unusual happenings within a framework of familiar experiences and may include images that extend meaning. These texts use language features including varied sentence structures, some unfamiliar vocabulary, a significant number of high-frequency words that can be decoded using phonic and morphemic knowledge, a variety of punctuation conventions, and illustrations and diagrams that support and extend the printed text. The range of literary texts for Foundation to Year 10 comprises the oral narrative traditions and literature of First Nations Australians, and classic and contemporary literature from wide-ranging Australian and world authors, including texts from and about Asia. Year 3 students create imaginative, informative and persuasive types of texts, which may include narratives, procedures, performances, reports, reviews, poetry and argument for particular purposes and audiences.",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9E3LA04_E1",
+        "number": "E1",
+        "text": "recognising that longer informative texts are organised into paragraphs, which begin with a topic sentence that predicts how the paragraph will develop and is then elaborated on in various ways",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E3LA04_E2",
+        "number": "E2",
+        "text": "recognising that paragraphs in narrative texts vary in length and do not always follow a predictable structure",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E3LA04_E3",
+        "number": "E3",
+        "text": "examining models of well-constructed paragraphs and identifying their features",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year3/english/ac9e3la04-that-paragraphs-are-a-key-organisational-feature-of-the-stages/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-3/english/ac9e3la04/worksheet/",
+    "teacherSlideUrl": "/worksheets/year3/english/teacher-slides/ac9e3la04-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9E3LA04",
+        "label": "Content description",
+        "text": "understand that paragraphs are a key organisational feature of the stages of written texts, grouping related information together",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E3LA04_E1",
+        "number": "E1",
+        "text": "recognising that longer informative texts are organised into paragraphs, which begin with a topic sentence that predicts how the paragraph will develop and is then elaborated on in various ways",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E3LA04_E2",
+        "number": "E2",
+        "text": "recognising that paragraphs in narrative texts vary in length and do not always follow a predictable structure",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E3LA04_E3",
+        "number": "E3",
+        "text": "examining models of well-constructed paragraphs and identifying their features",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "English",
+    "subject": "English",
+    "subjectSlug": "english",
+    "quizSubjectSlug": "english",
+    "level": "Year 3",
+    "levelLabel": "Year 3",
+    "yearNumber": 3,
+    "yearFolder": "year3",
+    "quizYearSegment": "year-3",
+    "code": "AC9E3LA05",
+    "title": "The purpose of layout features in print and digital texts...",
+    "unitSlug": "ac9e3la05-the-purpose-of-layout-features-in-print-and-digital-texts",
+    "sourceOrder": 91,
+    "strand": "Language",
+    "subStrand": "Text structure and organisation",
+    "description": "identify the purpose of layout features in print and digital texts and the words used for navigation",
+    "levelDescription": "The English curriculum is built around the 3 interrelated strands of Language, Literature and Literacy . Together, the 3 strands focus on developing students’ knowledge, understanding and skills in listening, reading, viewing, speaking, writing and creating. Learning in English is recursive and cumulative, building on concepts, skills and processes developed in earlier years. In Year 3, students use spoken, written or visual communication to interact with familiar audiences for a purpose. Students engage with a variety of texts for enjoyment. They listen to, read and view spoken, written and multimodal texts. Texts may include oral texts, picture books, various types of print and digital texts, chapter books, rhyming verse, poetry, non-fiction, film, multimodal texts, dramatic performances, and texts used by students as models for constructing their own work. In Year 3, students engage with a range of texts that support and extend them as independent readers. Informative texts include content of increasing complexity and technicality about topics of interest and topics being studied in other areas of the curriculum. Literary texts may describe events that extend over several pages, unusual happenings within a framework of familiar experiences and may include images that extend meaning. These texts use language features including varied sentence structures, some unfamiliar vocabulary, a significant number of high-frequency words that can be decoded using phonic and morphemic knowledge, a variety of punctuation conventions, and illustrations and diagrams that support and extend the printed text. The range of literary texts for Foundation to Year 10 comprises the oral narrative traditions and literature of First Nations Australians, and classic and contemporary literature from wide-ranging Australian and world authors, including texts from and about Asia. Year 3 students create imaginative, informative and persuasive types of texts, which may include narratives, procedures, performances, reports, reviews, poetry and argument for particular purposes and audiences.",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9E3LA05_E1",
+        "number": "E1",
+        "text": "examining the words used as hyperlinks",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E3LA05_E2",
+        "number": "E2",
+        "text": "discussing words used as headings and subheadings in digital and print information texts",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E3LA05_E3",
+        "number": "E3",
+        "text": "discussing words used for chapter headings in narratives",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year3/english/ac9e3la05-the-purpose-of-layout-features-in-print-and-digital-texts/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-3/english/ac9e3la05/worksheet/",
+    "teacherSlideUrl": "/worksheets/year3/english/teacher-slides/ac9e3la05-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9E3LA05",
+        "label": "Content description",
+        "text": "identify the purpose of layout features in print and digital texts and the words used for navigation",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E3LA05_E1",
+        "number": "E1",
+        "text": "examining the words used as hyperlinks",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E3LA05_E2",
+        "number": "E2",
+        "text": "discussing words used as headings and subheadings in digital and print information texts",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E3LA05_E3",
+        "number": "E3",
+        "text": "discussing words used for chapter headings in narratives",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "English",
+    "subject": "English",
+    "subjectSlug": "english",
+    "quizSubjectSlug": "english",
+    "level": "Year 3",
+    "levelLabel": "Year 3",
+    "yearNumber": 3,
+    "yearFolder": "year3",
+    "quizYearSegment": "year-3",
+    "code": "AC9E3LA06",
+    "title": "That a clause is a unit of grammar usually containing...",
+    "unitSlug": "ac9e3la06-that-a-clause-is-a-unit-of-grammar-usually-containing",
+    "sourceOrder": 92,
+    "strand": "Language",
+    "subStrand": "Language for expressing and developing ideas",
+    "description": "understand that a clause is a unit of grammar usually containing a subject and a verb that need to agree",
+    "levelDescription": "The English curriculum is built around the 3 interrelated strands of Language, Literature and Literacy . Together, the 3 strands focus on developing students’ knowledge, understanding and skills in listening, reading, viewing, speaking, writing and creating. Learning in English is recursive and cumulative, building on concepts, skills and processes developed in earlier years. In Year 3, students use spoken, written or visual communication to interact with familiar audiences for a purpose. Students engage with a variety of texts for enjoyment. They listen to, read and view spoken, written and multimodal texts. Texts may include oral texts, picture books, various types of print and digital texts, chapter books, rhyming verse, poetry, non-fiction, film, multimodal texts, dramatic performances, and texts used by students as models for constructing their own work. In Year 3, students engage with a range of texts that support and extend them as independent readers. Informative texts include content of increasing complexity and technicality about topics of interest and topics being studied in other areas of the curriculum. Literary texts may describe events that extend over several pages, unusual happenings within a framework of familiar experiences and may include images that extend meaning. These texts use language features including varied sentence structures, some unfamiliar vocabulary, a significant number of high-frequency words that can be decoded using phonic and morphemic knowledge, a variety of punctuation conventions, and illustrations and diagrams that support and extend the printed text. The range of literary texts for Foundation to Year 10 comprises the oral narrative traditions and literature of First Nations Australians, and classic and contemporary literature from wide-ranging Australian and world authors, including texts from and about Asia. Year 3 students create imaginative, informative and persuasive types of texts, which may include narratives, procedures, performances, reports, reviews, poetry and argument for particular purposes and audiences.",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9E3LA06_E1",
+        "number": "E1",
+        "text": "identifying clauses in texts by locating verbs and the key words that link to the verbs; for example, “While the cat slept, the mouse scurried across the path.”",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E3LA06_E2",
+        "number": "E2",
+        "text": "identifying that a singular subject has a singular verb and a plural subject has a plural verb; for example, “The girls play cricket.” “The girl plays cricket.”",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year3/english/ac9e3la06-that-a-clause-is-a-unit-of-grammar-usually-containing/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-3/english/ac9e3la06/worksheet/",
+    "teacherSlideUrl": "/worksheets/year3/english/teacher-slides/ac9e3la06-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9E3LA06",
+        "label": "Content description",
+        "text": "understand that a clause is a unit of grammar usually containing a subject and a verb that need to agree",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E3LA06_E1",
+        "number": "E1",
+        "text": "identifying clauses in texts by locating verbs and the key words that link to the verbs; for example, “While the cat slept, the mouse scurried across the path.”",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E3LA06_E2",
+        "number": "E2",
+        "text": "identifying that a singular subject has a singular verb and a plural subject has a plural verb; for example, “The girls play cricket.” “The girl plays cricket.”",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "English",
+    "subject": "English",
+    "subjectSlug": "english",
+    "quizSubjectSlug": "english",
+    "level": "Year 3",
+    "levelLabel": "Year 3",
+    "yearNumber": 3,
+    "yearFolder": "year3",
+    "quizYearSegment": "year-3",
+    "code": "AC9E3LA07",
+    "title": "How verbs represent different processes for doing, feeling, thinking, saying...",
+    "unitSlug": "ac9e3la07-how-verbs-represent-different-processes-for-doing-feeling",
+    "sourceOrder": 93,
+    "strand": "Language",
+    "subStrand": "Language for expressing and developing ideas",
+    "description": "understand how verbs represent different processes for doing, feeling, thinking, saying and relating",
+    "levelDescription": "The English curriculum is built around the 3 interrelated strands of Language, Literature and Literacy . Together, the 3 strands focus on developing students’ knowledge, understanding and skills in listening, reading, viewing, speaking, writing and creating. Learning in English is recursive and cumulative, building on concepts, skills and processes developed in earlier years. In Year 3, students use spoken, written or visual communication to interact with familiar audiences for a purpose. Students engage with a variety of texts for enjoyment. They listen to, read and view spoken, written and multimodal texts. Texts may include oral texts, picture books, various types of print and digital texts, chapter books, rhyming verse, poetry, non-fiction, film, multimodal texts, dramatic performances, and texts used by students as models for constructing their own work. In Year 3, students engage with a range of texts that support and extend them as independent readers. Informative texts include content of increasing complexity and technicality about topics of interest and topics being studied in other areas of the curriculum. Literary texts may describe events that extend over several pages, unusual happenings within a framework of familiar experiences and may include images that extend meaning. These texts use language features including varied sentence structures, some unfamiliar vocabulary, a significant number of high-frequency words that can be decoded using phonic and morphemic knowledge, a variety of punctuation conventions, and illustrations and diagrams that support and extend the printed text. The range of literary texts for Foundation to Year 10 comprises the oral narrative traditions and literature of First Nations Australians, and classic and contemporary literature from wide-ranging Australian and world authors, including texts from and about Asia. Year 3 students create imaginative, informative and persuasive types of texts, which may include narratives, procedures, performances, reports, reviews, poetry and argument for particular purposes and audiences.",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9E3LA07_E1",
+        "number": "E1",
+        "text": "exploring “doing” and “saying” verbs in narrative texts to understand how they give information about what characters do and say",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E3LA07_E2",
+        "number": "E2",
+        "text": "exploring the use of sensing verbs and how they allow readers to understand what characters think and feel; for example, “He remembered his first day at school.”",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E3LA07_E3",
+        "number": "E3",
+        "text": "exploring the use of relating verbs in constructing definitions and descriptions; for example, identifying the relating verb “is” or “are”, “has” or “have” in descriptions of animals",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E3LA07_E4",
+        "number": "E4",
+        "text": "identifying different types of verbs and the way they control meaning in a clause",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year3/english/ac9e3la07-how-verbs-represent-different-processes-for-doing-feeling/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-3/english/ac9e3la07/worksheet/",
+    "teacherSlideUrl": "/worksheets/year3/english/teacher-slides/ac9e3la07-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9E3LA07",
+        "label": "Content description",
+        "text": "understand how verbs represent different processes for doing, feeling, thinking, saying and relating",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E3LA07_E1",
+        "number": "E1",
+        "text": "exploring “doing” and “saying” verbs in narrative texts to understand how they give information about what characters do and say",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E3LA07_E2",
+        "number": "E2",
+        "text": "exploring the use of sensing verbs and how they allow readers to understand what characters think and feel; for example, “He remembered his first day at school.”",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E3LA07_E3",
+        "number": "E3",
+        "text": "exploring the use of relating verbs in constructing definitions and descriptions; for example, identifying the relating verb “is” or “are”, “has” or “have” in descriptions of animals",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E3LA07_E4",
+        "number": "E4",
+        "text": "identifying different types of verbs and the way they control meaning in a clause",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "English",
+    "subject": "English",
+    "subjectSlug": "english",
+    "quizSubjectSlug": "english",
+    "level": "Year 3",
+    "levelLabel": "Year 3",
+    "yearNumber": 3,
+    "yearFolder": "year3",
+    "quizYearSegment": "year-3",
+    "code": "AC9E3LA08",
+    "title": "That verbs are anchored in time through tense",
+    "unitSlug": "ac9e3la08-that-verbs-are-anchored-in-time-through-tense",
+    "sourceOrder": 94,
+    "strand": "Language",
+    "subStrand": "Language for expressing and developing ideas",
+    "description": "understand that verbs are anchored in time through tense",
+    "levelDescription": "The English curriculum is built around the 3 interrelated strands of Language, Literature and Literacy . Together, the 3 strands focus on developing students’ knowledge, understanding and skills in listening, reading, viewing, speaking, writing and creating. Learning in English is recursive and cumulative, building on concepts, skills and processes developed in earlier years. In Year 3, students use spoken, written or visual communication to interact with familiar audiences for a purpose. Students engage with a variety of texts for enjoyment. They listen to, read and view spoken, written and multimodal texts. Texts may include oral texts, picture books, various types of print and digital texts, chapter books, rhyming verse, poetry, non-fiction, film, multimodal texts, dramatic performances, and texts used by students as models for constructing their own work. In Year 3, students engage with a range of texts that support and extend them as independent readers. Informative texts include content of increasing complexity and technicality about topics of interest and topics being studied in other areas of the curriculum. Literary texts may describe events that extend over several pages, unusual happenings within a framework of familiar experiences and may include images that extend meaning. These texts use language features including varied sentence structures, some unfamiliar vocabulary, a significant number of high-frequency words that can be decoded using phonic and morphemic knowledge, a variety of punctuation conventions, and illustrations and diagrams that support and extend the printed text. The range of literary texts for Foundation to Year 10 comprises the oral narrative traditions and literature of First Nations Australians, and classic and contemporary literature from wide-ranging Australian and world authors, including texts from and about Asia. Year 3 students create imaginative, informative and persuasive types of texts, which may include narratives, procedures, performances, reports, reviews, poetry and argument for particular purposes and audiences.",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9E3LA08_E1",
+        "number": "E1",
+        "text": "learning how time is represented through the tense of a verb; for example, “She arrived.” “She is arriving.” and adverbials of time; for example, “She arrived yesterday.” “She is arriving in the morning.”",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E3LA08_E2",
+        "number": "E2",
+        "text": "learning that tenses for some verbs are formed by changing the word; for example, “She catches the ball.” “She caught the ball.”",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year3/english/ac9e3la08-that-verbs-are-anchored-in-time-through-tense/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-3/english/ac9e3la08/worksheet/",
+    "teacherSlideUrl": "/worksheets/year3/english/teacher-slides/ac9e3la08-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9E3LA08",
+        "label": "Content description",
+        "text": "understand that verbs are anchored in time through tense",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E3LA08_E1",
+        "number": "E1",
+        "text": "learning how time is represented through the tense of a verb; for example, “She arrived.” “She is arriving.” and adverbials of time; for example, “She arrived yesterday.” “She is arriving in the morning.”",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E3LA08_E2",
+        "number": "E2",
+        "text": "learning that tenses for some verbs are formed by changing the word; for example, “She catches the ball.” “She caught the ball.”",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "English",
+    "subject": "English",
+    "subjectSlug": "english",
+    "quizSubjectSlug": "english",
+    "level": "Year 3",
+    "levelLabel": "Year 3",
+    "yearNumber": 3,
+    "yearFolder": "year3",
+    "quizYearSegment": "year-3",
+    "code": "AC9E3LA09",
+    "title": "How images extend the meaning of a text",
+    "unitSlug": "ac9e3la09-how-images-extend-the-meaning-of-a-text",
+    "sourceOrder": 95,
+    "strand": "Language",
+    "subStrand": "Language for expressing and developing ideas",
+    "description": "identify how images extend the meaning of a text",
+    "levelDescription": "The English curriculum is built around the 3 interrelated strands of Language, Literature and Literacy . Together, the 3 strands focus on developing students’ knowledge, understanding and skills in listening, reading, viewing, speaking, writing and creating. Learning in English is recursive and cumulative, building on concepts, skills and processes developed in earlier years. In Year 3, students use spoken, written or visual communication to interact with familiar audiences for a purpose. Students engage with a variety of texts for enjoyment. They listen to, read and view spoken, written and multimodal texts. Texts may include oral texts, picture books, various types of print and digital texts, chapter books, rhyming verse, poetry, non-fiction, film, multimodal texts, dramatic performances, and texts used by students as models for constructing their own work. In Year 3, students engage with a range of texts that support and extend them as independent readers. Informative texts include content of increasing complexity and technicality about topics of interest and topics being studied in other areas of the curriculum. Literary texts may describe events that extend over several pages, unusual happenings within a framework of familiar experiences and may include images that extend meaning. These texts use language features including varied sentence structures, some unfamiliar vocabulary, a significant number of high-frequency words that can be decoded using phonic and morphemic knowledge, a variety of punctuation conventions, and illustrations and diagrams that support and extend the printed text. The range of literary texts for Foundation to Year 10 comprises the oral narrative traditions and literature of First Nations Australians, and classic and contemporary literature from wide-ranging Australian and world authors, including texts from and about Asia. Year 3 students create imaginative, informative and persuasive types of texts, which may include narratives, procedures, performances, reports, reviews, poetry and argument for particular purposes and audiences.",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9E3LA09_E1",
+        "number": "E1",
+        "text": "recognising how the relationship between characters can be depicted in images through the positioning of the characters; for example, facing each other or facing away from each other, the distance between them, the relative size, one character looking up (or down) at the other (power relationships), facial expressions and body gestures",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E3LA09_E2",
+        "number": "E2",
+        "text": "recognising how images construct a relationship with the viewer through direct gaze into the viewer's eyes, inviting involvement, and how close-ups are more engaging than distanced images, which can suggest alienation or loneliness",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year3/english/ac9e3la09-how-images-extend-the-meaning-of-a-text/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-3/english/ac9e3la09/worksheet/",
+    "teacherSlideUrl": "/worksheets/year3/english/teacher-slides/ac9e3la09-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9E3LA09",
+        "label": "Content description",
+        "text": "identify how images extend the meaning of a text",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E3LA09_E1",
+        "number": "E1",
+        "text": "recognising how the relationship between characters can be depicted in images through the positioning of the characters; for example, facing each other or facing away from each other, the distance between them, the relative size, one character looking up (or down) at the other (power relationships), facial expressions and body gestures",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E3LA09_E2",
+        "number": "E2",
+        "text": "recognising how images construct a relationship with the viewer through direct gaze into the viewer's eyes, inviting involvement, and how close-ups are more engaging than distanced images, which can suggest alienation or loneliness",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "English",
+    "subject": "English",
+    "subjectSlug": "english",
+    "quizSubjectSlug": "english",
+    "level": "Year 3",
+    "levelLabel": "Year 3",
+    "yearNumber": 3,
+    "yearFolder": "year3",
+    "quizYearSegment": "year-3",
+    "code": "AC9E3LA10",
+    "title": "Extend topic-specific and technical vocabulary and know that words can...",
+    "unitSlug": "ac9e3la10-extend-topic-specific-and-technical-vocabulary-and-know-that",
+    "sourceOrder": 96,
+    "strand": "Language",
+    "subStrand": "Language for expressing and developing ideas",
+    "description": "extend topic-specific and technical vocabulary and know that words can have different meanings in different contexts",
+    "levelDescription": "The English curriculum is built around the 3 interrelated strands of Language, Literature and Literacy . Together, the 3 strands focus on developing students’ knowledge, understanding and skills in listening, reading, viewing, speaking, writing and creating. Learning in English is recursive and cumulative, building on concepts, skills and processes developed in earlier years. In Year 3, students use spoken, written or visual communication to interact with familiar audiences for a purpose. Students engage with a variety of texts for enjoyment. They listen to, read and view spoken, written and multimodal texts. Texts may include oral texts, picture books, various types of print and digital texts, chapter books, rhyming verse, poetry, non-fiction, film, multimodal texts, dramatic performances, and texts used by students as models for constructing their own work. In Year 3, students engage with a range of texts that support and extend them as independent readers. Informative texts include content of increasing complexity and technicality about topics of interest and topics being studied in other areas of the curriculum. Literary texts may describe events that extend over several pages, unusual happenings within a framework of familiar experiences and may include images that extend meaning. These texts use language features including varied sentence structures, some unfamiliar vocabulary, a significant number of high-frequency words that can be decoded using phonic and morphemic knowledge, a variety of punctuation conventions, and illustrations and diagrams that support and extend the printed text. The range of literary texts for Foundation to Year 10 comprises the oral narrative traditions and literature of First Nations Australians, and classic and contemporary literature from wide-ranging Australian and world authors, including texts from and about Asia. Year 3 students create imaginative, informative and persuasive types of texts, which may include narratives, procedures, performances, reports, reviews, poetry and argument for particular purposes and audiences.",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9E3LA10_E1",
+        "number": "E1",
+        "text": "identifying and using technical words to describe length; for example, metric units of length - “millimetre” and “centimetre”",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E3LA10_E2",
+        "number": "E2",
+        "text": "identifying and using words to describe features of narratives; for example, “character”, “plot” and “setting”",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E3LA10_E3",
+        "number": "E3",
+        "text": "identifying words that have different meanings in different contexts; for example, “warm temperature” and “warm character”",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E3LA10_E4",
+        "number": "E4",
+        "text": "extending vocabulary by adding prefixes and suffixes to base words; for example, “different”, “differently” and “difference”",
+        "questionEligible": true
+      }
+    ],
+    "url": "/year3/english/ac9e3la10-extend-topic-specific-and-technical-vocabulary-and-know-that/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/year-3/english/ac9e3la10/worksheet/",
+    "teacherSlideUrl": "/worksheets/year3/english/teacher-slides/ac9e3la10-teacher-slide.pdf",
+    "questionCoverage": [
+      {
+        "code": "AC9E3LA10",
+        "label": "Content description",
+        "text": "extend topic-specific and technical vocabulary and know that words can have different meanings in different contexts",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E3LA10_E1",
+        "number": "E1",
+        "text": "identifying and using technical words to describe length; for example, metric units of length - “millimetre” and “centimetre”",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E3LA10_E2",
+        "number": "E2",
+        "text": "identifying and using words to describe features of narratives; for example, “character”, “plot” and “setting”",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E3LA10_E3",
+        "number": "E3",
+        "text": "identifying words that have different meanings in different contexts; for example, “warm temperature” and “warm character”",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9E3LA10_E4",
+        "number": "E4",
+        "text": "extending vocabulary by adding prefixes and suffixes to base words; for example, “different”, “differently” and “difference”",
+        "questionEligible": true
+      }
+    ]
+  }
+]

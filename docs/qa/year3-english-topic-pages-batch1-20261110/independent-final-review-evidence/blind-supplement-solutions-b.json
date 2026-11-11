@@ -1,0 +1,52 @@
+{
+  "reviewer": "Fresh independent final AI reviewer /root/y3_final_review",
+  "phase": "Before authored FAQ answers, activity cards, tier support or earlier findings",
+  "responses": [
+    {
+      "code": "AC9E3LA06",
+      "faq": {
+        "AC9E3LA06-faq-1": "No. Mark the entire verb group, including auxiliaries, and recognise relating verbs as verbs: is open has is; were painting has were painting.",
+        "AC9E3LA06-faq-2": "Agreement makes the subject and verb fit standard written patterns and helps readers follow who/what is being described. A mismatch does not mean there was no verb."
+      },
+      "activity": {"status": "HOLD referenced complete cards and clause pair not supplied", "criteria": "Mark each complete subject and whole group; repair agreement according to the head noun/coordination and stated time. Joined while clause must keep its subject and verb and needs an independent partner to complete the sentence in this use. Identify the controlling head noun rather than nearest noun."},
+      "tiers": "Starter has two adult-supported cards and differentiated marking. Core needs all cards with reasons. Stretch must show an expanded subject while keeping the agreement controller clear, e.g. The box of beads sits here / The beads in the box sit here. Actual supplied tier cards still HOLD."
+    },
+    {
+      "code": "AC9E3LA07",
+      "faq": {
+        "AC9E3LA07-faq-1": "A precise verb tells the reader more exactly what happens or how speech is delivered; whispered adds quiet delivery compared with said, without proving a feeling or motive.",
+        "AC9E3LA07-faq-2": "Relating links a subject to what it is, is like or has in that clause, as in The pencil is short / It has a rubber."
+      },
+      "activity": {"status": "HOLD supplied story/highlights/cards not supplied; independent writing example saved", "own_example": "I found a pencil beside the door and thought it belonged to Lee. I liked its bright colour. 'Is this yours?' I asked Lee. The pencil was his.", "own_example_mapping": "found=doing; thought=thinking; liked=feeling; asked=saying; was=relating. Is in the direct question also relates identification. Accept equivalent natural connected writing with all five meanings; no requirement that one word has a permanent category."},
+      "tiers": "Starter compares the meaning contribution of one doing and one relating clause; Core covers five categories and original writing; Stretch changes a precise verb and explains only supported change. Actual highlighted source story still HOLD."
+    },
+    {
+      "code": "AC9E3LA08",
+      "faq": {
+        "AC9E3LA08-faq-1": "Words or phrases that give timing/frequency/duration, such as yesterday, tomorrow morning or every day; they help interpret when/how often events occur.",
+        "AC9E3LA08-faq-2": "No. A future arrangement may use a present form with clear context, such as We are planting seeds tomorrow; will is a useful future construction, not the only one."
+      },
+      "activity": {"status": "HOLD supplied time cards not supplied; independent garden example saved", "own_example": "Yesterday I planted bean seeds. Every morning I water the garden. Tomorrow I will check the soil.", "criteria": "Past planted with yesterday; present habit water with every morning; future will check with tomorrow. Actual time-card repairs need the exact marked verbs and contexts."},
+      "tiers": "Starter supported contrasting forms; Core recount repair and explanation of an irregular past form; Stretch purposeful past-to-future transition. No rule that every verb must have identical tense. Actual cards/verb bank HOLD."
+    },
+    {
+      "code": "AC9E3LA09",
+      "faq": {
+        "AC9E3LA09-faq-1": "Evidence is what the actual words state or what is demonstrably visible in the image, such as position, framing, gaze, gesture or a map label; an inferred emotion/motive is a possible interpretation requiring support.",
+        "AC9E3LA09-faq-2": "Yes, if each fits the actual words and visible details. Unsupported claims or contradictions are not equally reasonable."
+      },
+      "activity": {"status": "HOLD all actual meeting/gate/viewer pictures absent", "criteria": "Keep one actual caption fixed, deliberately alter two visible choices, explain what each version shows and cautiously compare interpretations. Identify an unresolved fact without inventing image details. A drawing or description can be reviewed only when supplied."},
+      "tiers": "Starter adult-supported visible observation including an equivalent accessible description; Core two-detail supported inference; Stretch same words with changed visual choices and defensible changed response. HOLD actual images/descriptions; prose descriptions are not proof of pixels."
+    },
+    {
+      "code": "AC9E3LA10",
+      "faq": {
+        "AC9E3LA10-faq-1": "Reread the sentence and nearby context, try a meaning and check it; if clues remain insufficient, use an appropriate dictionary/glossary or ask an adult. Do not guess as if certain.",
+        "AC9E3LA10-faq-2": "Topic vocabulary lets us understand and communicate precise ideas in different subjects; context matters because a word such as plot can have different meanings."
+      },
+      "activity": {"status": "HOLD actual supplied vocabulary cards/story/contexts not supplied", "criteria": "Measurement retains correct dimensions, number and units; story identifies supplied characters, place/time and connected events without inventions; polysemy uses two valid context-supported meanings; derived words are real and fit grammar/context. Notebook includes brief useful meaning or example for each."},
+      "tiers": "Starter chooses supplied meaning and explains a clue; Core independently completes all four kinds; Stretch uses plot as story events and as marking data, naming the contextual cues. Actual supplied meanings/cards HOLD."
+    }
+  ],
+  "status": "Independent expected criteria saved; no authored support or rendered card validation yet"
+}

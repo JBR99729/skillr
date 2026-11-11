@@ -1,0 +1,33 @@
+{
+  "reviewer": "/root/y3_content_review",
+  "before_full_source_keys": true,
+  "pack": "/workspace/scratch/e8027fd1ced3/year3-english-build1/extras-blind-a.html",
+  "pack_sha256": "b559a516978c9afff9ddb645340fdf9d707087e3f8d2b19fd11df32e9246db1d",
+  "solutions": {
+    "LA01-display-round": "Restate bridge middle/both sides; related suggestion such as leave gap or label beside; relevant size/placement question; negotiate Have we agreed layout; could we choose title? Accept other plan-connected contributions.",
+    "LA01-clarify": "Wait Alex finishes, ask where small label belongs; restate boat above and bird beside to check. Do not pretend missing instruction heard.",
+    "LA01-convention": "Pair: request after partner finished. Meeting: agreed signal/wait chair invitation then question. Same respectful short question may suit both; longer words not required.",
+    "LA01-feedback": "Small title card may be hard to read across room; suggest larger available card/large writing and ask agreement. Specific reason not personal criticism.",
+    "LA02-revision1": "Could/can/may draw or another clearly optional offer. Must replaced; explain removes compulsion within scenario.",
+    "LA02-revision2": "Pushed vs waited, politely adverb; B adds considerate evaluation and changes event, so not fact-preserving. Pushed past not necessarily moral fact, discuss narrator wording.",
+    "LA02-revision3": "Delighted/thrilled/very pleased; stronger positive pleasure at kite success, not fear/anger.",
+    "LA02-modal-check": "Must expresses required safety behaviour; could uncertain possibility. Bus will arrive early more certain prediction, remains about bus arrival not command.",
+    "LA02-wordchoices": "Helper vs troublemaker approving/disapproving noun labels; guided vs shoved changes force/action; gently vs roughly changes manner/evaluation. Not mere spelling replacements or all same facts.",
+    "LA02-judgement": "Thoughtful/helpful/considerate supported by restoring sign so visitors read it. Personal mild pleasure e.g. pleased versus strong e.g. delighted explicitly named; no required exact preference.",
+    "LA03-recount-order": "B,C,A: introduce Thursday/class event, ordered making then labels, finally display. Explain time links and referents.",
+    "LA03-recount-auto": "Both ordered past experiences. Reporter third-person one measuring occasion with first/next/finally; Dev first-person personal development with later/still reflection. Fictional model status preserved.",
+    "LA03-report-explanation": "Report Parts/Position groups current facts for lookup; explanation first level then toy move then tip connects change/result. Do not claim universal balance law from prepared model.",
+    "LA03-story-verse-response": "Story problem loose wheel -> cooperative repair -> success, past action/dialogue-free event links entertain. Verse lines/sound or personification of wheel creates imagery/attention, not must-rhyme rule. Response I liked+because+holding-cart evidence expresses reasoned judgement.",
+    "LA03-argument-info": "Intro should keep ruler; reason1 makers check fit; reason2 invited visitors measure; conclusion keep one labelled. Argument persuades, information provides length/location/marks. Yellow irrelevant to reason for placement unless a new context explains usefulness.",
+    "LA04-retained-transfer": "Group seed labels: first,second,fourth; tool storage: third,fifth. Paragraph break at moved grouping; add/choose clear group opening as needed. Maintain reference labels.",
+    "LA04-fresh-groups": "Shelf B,A,C (A/C interchangeable), table D,E,F (E/F interchangeable). Independent paragraph order may reverse. Openings predict group focus; details develop grouping materials vs display space.",
+    "LA04-repair": "Tool box first/second/fifth together; signs third/fourth together. It references box clearly. Keep all five sentences.",
+    "LA04-narrative": "Before school -> return time and missing-boat event; short paragraph emphasises surprise/problem before floor discovery. Do not assert intentional theft/wind cause beyond clues.",
+    "LA05-main-guided3": "Print contents Tool storage -> printed6 -> Trowels -> lower shelf. Digital Trowel storage -> same sentence. Difference page-reference navigation vs direct link; verify content.",
+    "LA05-layout-repair": "Tool storage / Where to store tools heading; subheadings Trowels and Watering cans; matching sentence under each. Clear topic/destination labels, same facts.",
+    "LA05-print-check": "Opening: contents Visiting->printed4->Opening times->after morning bell. Cans: Tool storage->printed6->Watering cans->beside door. Accept correct route language.",
+    "LA05-digital-check": "Where to enter->same heading->gate beside shed->return garden menu; Trowel storage->matching heading->lower shelf->return tool menu. Meaningful labels predict requested info; actual browser operation HOLD.",
+    "LA05-chapter-check": "Chapter2 A key by the paint pot page5 suggests key discovery. Text says under pot, not inside it. Title alone does not prove exact location."
+  },
+  "limitations": "Visible worked teaching/model answers are recomputed, not called blind. All newly hidden A check bodies remained unopened."
+}

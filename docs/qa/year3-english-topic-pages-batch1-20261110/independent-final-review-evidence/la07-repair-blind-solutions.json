@@ -1,0 +1,13 @@
+{
+ "reviewer":"Fresh independent final AI reviewer /root/y3_final_review",
+ "phase":"After root supplied four exact changed retained tasks and before repaired keys/source",
+ "prompt_sha256":"dc8fbf4ca1cd9a7a0aa536eeecb4740b09686e68f361d72add82cd622a5a4466",
+ "solutions":{
+  "LA07-RETAINED-REPAIR-1":"Opened is doing: Jo moves the gate open. Whispered and shouted are saying in these clauses: both communicate Come in. Shouted indicates loud delivery compared with quiet whispered. Neither proves anger, excitement or a motive. The prompt's short compare ask can be answered by contrasting the particular meaning added by saying verbs.",
+  "LA07-RETAINED-REPAIR-2":"Remembered tells thinking/recall of the ending. Liked and loved express feeling about the story; loved suggests stronger positive feeling here. All are verbs despite lacking visible action. Explain each process contribution rather than merely ranking words or writing an unsupported story opinion.",
+  "LA07-RETAINED-REPAIR-3":"Is relates The brilliant new playground to the description exciting; brilliant and exciting describe/evaluate but are not the verb in this clause. Opened presents the playground opening as an event on Monday (doing/event meaning). Has relates It/the playground to possession of two slides, a feature. Distinguish verbs from adjectives and identify what each contributes.",
+  "LA07-RETAINED-REPAIR-4":"First is relates the gardener to quiet, a description. Second is digging is the whole doing verb group: is helps digging express the activity. Beside the fence supplies location outside the verb group. Do not label both is occurrences relating by the word alone."
+ },
+ "selection_rationale":"All4 repaired retained families and all dependent explanations selected, per mandatory affected-scope recheck; no sampling of repair scope.",
+ "status":"Independent repair answers saved; repaired key/source reconciliation and final pixels pending"
+}

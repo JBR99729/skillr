@@ -1,0 +1,23 @@
+{
+  "reviewer": "/root/y3_content_review independent AI",
+  "saved_before_new_authored_keys": true,
+  "pack": "/workspace/scratch/e8027fd1ced3/year3-english-build1/blind-supplement-b.json",
+  "pack_sha256": "7939d199c7610223e3c770a0f403f1a2ffa7ce4de5165e705e48686f91fc9f80",
+  "solutions_or_criteria": {
+    "AC9E3LA06-faq-1": "No. Identify whole verb group, including auxiliaries where present; verbs can express relating/thinking/feeling/saying as well as action.",
+    "AC9E3LA06-faq-2": "Agreement makes standard written clauses conventional and clear; verb matches its subject rather than a nearby distractor noun. Do not devalue home varieties.",
+    "AC9E3LA06-activity-and-tiers": "HOLD exact clause cards. For original expanded subject, The box of buttons is open: box controls is, buttons belongs to expansion. While clause needs companion to complete the intended message, but remains a clause. Starter gives adult support/two cards; Core all cards with reasoning; Stretch generates an expanded subject and explains head agreement. Accept other valid clauses and joining orders.",
+    "AC9E3LA07-faq-1": "Precise verbs add specific process details, such as whispered instead of said, without proving a motive or feeling.",
+    "AC9E3LA07-faq-2": "Relating verbs link subject to identity/description/possession, e.g. is small, has a sail; distinguish is/has as auxiliaries in a different context.",
+    "AC9E3LA07-activity-and-tiers": "HOLD exact story/cards. Original pencil story must contain coherent doing, saying, thinking, feeling and relating meanings; accept 3\u20134 sentences with multiple clauses. Example criterion: found; said; remembered; loved; is/has in descriptive use. Stretch changes precise action/delivery detail and only infers feelings with evidence. Distinguish extra detail from unsupported emotion.",
+    "AC9E3LA08-faq-1": "Words/groups telling when, how often or for how long in context, e.g. yesterday, every morning, on Tuesday. This lesson needs time relationship rather than advanced terminology.",
+    "AC9E3LA08-faq-2": "No. Will + base is one future construction; going to and clear future arrangements with present forms are also possible.",
+    "AC9E3LA08-activity-and-tiers": "HOLD exact time cards and verb bank. Original garden message needs a past event (e.g. planted yesterday), present habit (water each day), and future plan (will move tomorrow), with clear time clues. Accept grammatical deliberate shifts and common irregular forms; do not force all verbs into one tense. Starter compares supplied forms with support, Core repairs/reasons, Stretch composes and justifies meaningful shift.",
+    "AC9E3LA09-faq-1": "Specific visible details or corresponding neutral accessible description, plus exact words in text; distinguish observation from inference.",
+    "AC9E3LA09-faq-2": "Yes, when both are supported by actual clues and cautiously phrased. Unsupported claims are not made valid by being possible.",
+    "AC9E3LA09-activity-and-tiers": "HOLD actual figures for original comparisons. New drawing must preserve caption, deliberately change two usable visual details, explain their potential effect with evidence, and name an unknown in both versions. Starter points/describes with support; Core relates visual evidence to meaning; Stretch creates changed framing/gaze/spacing and compares possible response, avoiding fixed emotion rules.",
+    "AC9E3LA10-faq-1": "Reread nearby text, test candidate meaning, inspect meaningful word parts where useful, consult glossary/dictionary/adult then check the proposed meaning in context. Do not guess specialist facts.",
+    "AC9E3LA10-faq-2": "Useful technical/topic words allow precise learning and communication across subjects; some familiar forms change sense by topic, so check context.",
+    "AC9E3LA10-activity-and-tiers": "HOLD exact vocabulary cards/meanings. Require measurement number+unit+dimension, story terms applied to supplied evidence, two valid context-sensitive senses with clues, and real affixed word fitting grammar and intended meaning. Stretch plot can mean connected story events versus mark data on graph (or a small land area with suitable context). Adult support/choice for Starter; four applications for Core; same word across subjects with explanation for Stretch."
+  }
+}

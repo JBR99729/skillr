@@ -1,0 +1,17 @@
+{
+  "reviewer_type": "AI",
+  "reviewer": "/root/y3_final_review",
+  "blind_solutions": "la07-repair-blind-solutions.json",
+  "scope": "All four retained families; all8 title/body replacements and dependent complete card/support, not a sample",
+  "old_conflicting_entries_absent": true,
+  "new_headings_present": true,
+  "key_reconciliation": "All four explanations agree with independent solutions: doing/saying; remembering/feeling; relating/doing-event distinction; auxiliary group versus relating is. No unseen story knowledge required. Context-dependent meaning, not modal/opinion analysis, is now the ask.",
+  "source_gate": "PASS for bounded repair; final served pixels remain pending",
+  "identities": {
+    "/workspace/scratch/e8027fd1ced3/skillr-year3-english-batch1/year3/english/ac9e3la07-how-verbs-represent-different-processes-for-doing-feeling/index.html": "0743ade7e0ee8209f1fe03ca45d6798fbe7a678ec98120e1d9ec980c5a32deef",
+    "/workspace/scratch/e8027fd1ced3/year3-english-build1/la07-repair-blind.json": "dc8fbf4ca1cd9a7a0aa536eeecb4740b09686e68f361d72add82cd622a5a4466",
+    "/workspace/scratch/e8027fd1ced3/year3-english-build1/independent-final/la07-repair-blind-solutions.json": "795c4a9532a8bd8d8306ba9bc80a439e9e91d07dc3786b265bfd700e5b4be560",
+    "/workspace/scratch/e8027fd1ced3/year3-english-build1/extras-b.py": "b4e1352b446d8150d19931f99b88961a8ad2c9751a946c72555c72d783aa76ff"
+  },
+  "coverage_dependency": "Fresh A-extra final assurance report reviewed and accepted as targeted gap closure; source-only navigation resolves24 instances, no actual browser claim until hosted evidence."
+}
