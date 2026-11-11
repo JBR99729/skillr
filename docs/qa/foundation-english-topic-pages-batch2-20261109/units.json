@@ -1,0 +1,760 @@
+[
+  {
+    "learningArea": "English",
+    "subject": "English",
+    "subjectSlug": "english",
+    "quizSubjectSlug": "english",
+    "level": "Foundation Year",
+    "levelLabel": "Foundation",
+    "yearNumber": 0,
+    "yearFolder": "foundation",
+    "quizYearSegment": "grade-k",
+    "code": "AC9EFLE02",
+    "title": "Respond to stories and share feelings and thoughts about their...",
+    "unitSlug": "ac9efle02-respond-to-stories-and-share-feelings-and-thoughts-about-their",
+    "sourceOrder": 11,
+    "strand": "Literature",
+    "subStrand": "Engaging with and responding to literature",
+    "description": "respond to stories and share feelings and thoughts about their events and characters",
+    "levelDescription": "The English curriculum is built around the 3 interrelated strands of Language, Literature and Literacy . Together, the 3 strands focus on developing students\u2019 knowledge, understanding and skills in listening, reading, viewing, speaking, writing and creating. Learning in English is recursive and cumulative, building on concepts, skills and processes developed in earlier years. In the Foundation year, learning in English builds on the Early Years Learning Framework and each student\u2019s prior knowledge and experiences. Students understand that English is the shared language of the learning environment, used to interact and communicate with familiar audiences for different purposes. Students engage with a variety of texts for enjoyment. They participate in shared reading, viewing and storytelling. Spoken, written and multimodal texts may include traditional oral texts, picture books, various types of stories, rhyming verse, poetry, non-fiction, film, multimodal texts and dramatic performances. The range of literary texts for Foundation to Year 10 comprises the oral narrative traditions and literature of First Nations Australians, and classic and contemporary literature from wide-ranging Australian and world authors, including texts from and about Asia. Foundation students develop their reading in a text-rich environment through engagement with a range of texts. This range includes literature that expands and reflects their world, and texts that support learning in English and across the curriculum. Beginning readers start with and practise reading using decodable texts that align with phonic development. These texts systematically introduce words with a limited number of grapheme-phoneme correspondences and add grapheme-phoneme correspondences as proficiency develops. Developing readers engage with some authentic texts that involve straightforward sequences of events and everyday happenings, some less familiar content, a small range of language features including simple and compound sentences, high-frequency words, and other words that can be decoded using developing phonic knowledge. Foundation students create short imaginative and informative texts that may include pictorial representations, short statements, performances and short recounts, for a small range of purposes and audiences.",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9EFLE02_E1",
+        "number": "E1",
+        "text": "using drawing and beginning forms of writing to express personal responses to stories, poems or films",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLE02_E2",
+        "number": "E2",
+        "text": "discussing events and characters in texts, and connecting them to their own experiences",
+        "questionEligible": true
+      }
+    ],
+    "url": "/foundation/english/ac9efle02-respond-to-stories-and-share-feelings-and-thoughts-about-their/",
+    "practiceUrl": "https://app.skillrhub.com/?login=1&skill=AC9EFLE02",
+    "testUrl": "https://app.skillrhub.com/?login=1&skill=AC9EFLE02",
+    "worksheetUrl": "/quiz/grade-k/english/ac9efle02/worksheet/",
+    "teacherSlideUrl": "/worksheets/foundation/english/teacher-slides/live.html?code=AC9EFLE02",
+    "questionCoverage": [
+      {
+        "code": "AC9EFLE02",
+        "label": "Content description",
+        "text": "respond to stories and share feelings and thoughts about their events and characters",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLE02_E1",
+        "number": "E1",
+        "text": "using drawing and beginning forms of writing to express personal responses to stories, poems or films",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLE02_E2",
+        "number": "E2",
+        "text": "discussing events and characters in texts, and connecting them to their own experiences",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "English",
+    "subject": "English",
+    "subjectSlug": "english",
+    "quizSubjectSlug": "english",
+    "level": "Foundation Year",
+    "levelLabel": "Foundation",
+    "yearNumber": 0,
+    "yearFolder": "foundation",
+    "quizYearSegment": "grade-k",
+    "code": "AC9EFLE03",
+    "title": "Different types of literary texts and identify features including events...",
+    "unitSlug": "ac9efle03-different-types-of-literary-texts-and-identify-features",
+    "sourceOrder": 12,
+    "strand": "Literature",
+    "subStrand": "Examining literature",
+    "description": "recognise different types of literary texts and identify features including events, characters, and beginnings and endings",
+    "levelDescription": "The English curriculum is built around the 3 interrelated strands of Language, Literature and Literacy . Together, the 3 strands focus on developing students\u2019 knowledge, understanding and skills in listening, reading, viewing, speaking, writing and creating. Learning in English is recursive and cumulative, building on concepts, skills and processes developed in earlier years. In the Foundation year, learning in English builds on the Early Years Learning Framework and each student\u2019s prior knowledge and experiences. Students understand that English is the shared language of the learning environment, used to interact and communicate with familiar audiences for different purposes. Students engage with a variety of texts for enjoyment. They participate in shared reading, viewing and storytelling. Spoken, written and multimodal texts may include traditional oral texts, picture books, various types of stories, rhyming verse, poetry, non-fiction, film, multimodal texts and dramatic performances. The range of literary texts for Foundation to Year 10 comprises the oral narrative traditions and literature of First Nations Australians, and classic and contemporary literature from wide-ranging Australian and world authors, including texts from and about Asia. Foundation students develop their reading in a text-rich environment through engagement with a range of texts. This range includes literature that expands and reflects their world, and texts that support learning in English and across the curriculum. Beginning readers start with and practise reading using decodable texts that align with phonic development. These texts systematically introduce words with a limited number of grapheme-phoneme correspondences and add grapheme-phoneme correspondences as proficiency develops. Developing readers engage with some authentic texts that involve straightforward sequences of events and everyday happenings, some less familiar content, a small range of language features including simple and compound sentences, high-frequency words, and other words that can be decoded using developing phonic knowledge. Foundation students create short imaginative and informative texts that may include pictorial representations, short statements, performances and short recounts, for a small range of purposes and audiences.",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9EFLE03_E1",
+        "number": "E1",
+        "text": "recognising that stories often have similar beginnings; for example, \u201cOnce upon a time\u201d, \u201cA long, long time ago\u201d in fairytales or introducing the character: \u201cA girl called Amira \u2026\u201d",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLE03_E2",
+        "number": "E2",
+        "text": "exploring literature by First Nations Australian authors and their cultural patterns of storytelling",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9EFLE03_E3",
+        "number": "E3",
+        "text": "identifying how stories are told in poetry",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLE03_E4",
+        "number": "E4",
+        "text": "identifying typical features of fairytales such as princes and princesses or the moral of the story",
+        "questionEligible": true
+      }
+    ],
+    "url": "/foundation/english/ac9efle03-different-types-of-literary-texts-and-identify-features/",
+    "practiceUrl": "https://app.skillrhub.com/?login=1&skill=AC9EFLE03",
+    "testUrl": "https://app.skillrhub.com/?login=1&skill=AC9EFLE03",
+    "worksheetUrl": "/quiz/grade-k/english/ac9efle03/worksheet/",
+    "teacherSlideUrl": "/worksheets/foundation/english/teacher-slides/live.html?code=AC9EFLE03",
+    "questionCoverage": [
+      {
+        "code": "AC9EFLE03",
+        "label": "Content description",
+        "text": "recognise different types of literary texts and identify features including events, characters, and beginnings and endings",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLE03_E1",
+        "number": "E1",
+        "text": "recognising that stories often have similar beginnings; for example, \u201cOnce upon a time\u201d, \u201cA long, long time ago\u201d in fairytales or introducing the character: \u201cA girl called Amira \u2026\u201d",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLE03_E2",
+        "number": "E2",
+        "text": "exploring literature by First Nations Australian authors and their cultural patterns of storytelling",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9EFLE03_E3",
+        "number": "E3",
+        "text": "identifying how stories are told in poetry",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLE03_E4",
+        "number": "E4",
+        "text": "identifying typical features of fairytales such as princes and princesses or the moral of the story",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "English",
+    "subject": "English",
+    "subjectSlug": "english",
+    "quizSubjectSlug": "english",
+    "level": "Foundation Year",
+    "levelLabel": "Foundation",
+    "yearNumber": 0,
+    "yearFolder": "foundation",
+    "quizYearSegment": "grade-k",
+    "code": "AC9EFLE04",
+    "title": "And replicate the rhythms and sound patterns of literary texts...",
+    "unitSlug": "ac9efle04-and-replicate-the-rhythms-and-sound-patterns-of-literary-texts",
+    "sourceOrder": 13,
+    "strand": "Literature",
+    "subStrand": "Examining literature",
+    "description": "explore and replicate the rhythms and sound patterns of literary texts such as poems, rhymes and songs",
+    "levelDescription": "The English curriculum is built around the 3 interrelated strands of Language, Literature and Literacy . Together, the 3 strands focus on developing students\u2019 knowledge, understanding and skills in listening, reading, viewing, speaking, writing and creating. Learning in English is recursive and cumulative, building on concepts, skills and processes developed in earlier years. In the Foundation year, learning in English builds on the Early Years Learning Framework and each student\u2019s prior knowledge and experiences. Students understand that English is the shared language of the learning environment, used to interact and communicate with familiar audiences for different purposes. Students engage with a variety of texts for enjoyment. They participate in shared reading, viewing and storytelling. Spoken, written and multimodal texts may include traditional oral texts, picture books, various types of stories, rhyming verse, poetry, non-fiction, film, multimodal texts and dramatic performances. The range of literary texts for Foundation to Year 10 comprises the oral narrative traditions and literature of First Nations Australians, and classic and contemporary literature from wide-ranging Australian and world authors, including texts from and about Asia. Foundation students develop their reading in a text-rich environment through engagement with a range of texts. This range includes literature that expands and reflects their world, and texts that support learning in English and across the curriculum. Beginning readers start with and practise reading using decodable texts that align with phonic development. These texts systematically introduce words with a limited number of grapheme-phoneme correspondences and add grapheme-phoneme correspondences as proficiency develops. Developing readers engage with some authentic texts that involve straightforward sequences of events and everyday happenings, some less familiar content, a small range of language features including simple and compound sentences, high-frequency words, and other words that can be decoded using developing phonic knowledge. Foundation students create short imaginative and informative texts that may include pictorial representations, short statements, performances and short recounts, for a small range of purposes and audiences.",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9EFLE04_E1",
+        "number": "E1",
+        "text": "using music and actions to enhance appreciation of rhymes, poems, chants and songs",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLE04_E2",
+        "number": "E2",
+        "text": "reciting rhymes with actions",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLE04_E3",
+        "number": "E3",
+        "text": "exploring rhythms used in poems by First Nations Australians",
+        "questionEligible": false
+      }
+    ],
+    "url": "/foundation/english/ac9efle04-and-replicate-the-rhythms-and-sound-patterns-of-literary-texts/",
+    "practiceUrl": "https://app.skillrhub.com/?login=1&skill=AC9EFLE04",
+    "testUrl": "https://app.skillrhub.com/?login=1&skill=AC9EFLE04",
+    "worksheetUrl": "/quiz/grade-k/english/ac9efle04/worksheet/",
+    "teacherSlideUrl": "/worksheets/foundation/english/teacher-slides/live.html?code=AC9EFLE04",
+    "questionCoverage": [
+      {
+        "code": "AC9EFLE04",
+        "label": "Content description",
+        "text": "explore and replicate the rhythms and sound patterns of literary texts such as poems, rhymes and songs",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLE04_E1",
+        "number": "E1",
+        "text": "using music and actions to enhance appreciation of rhymes, poems, chants and songs",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLE04_E2",
+        "number": "E2",
+        "text": "reciting rhymes with actions",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLE04_E3",
+        "number": "E3",
+        "text": "exploring rhythms used in poems by First Nations Australians",
+        "questionEligible": false
+      }
+    ]
+  },
+  {
+    "learningArea": "English",
+    "subject": "English",
+    "subjectSlug": "english",
+    "quizSubjectSlug": "english",
+    "level": "Foundation Year",
+    "levelLabel": "Foundation",
+    "yearNumber": 0,
+    "yearFolder": "foundation",
+    "quizYearSegment": "grade-k",
+    "code": "AC9EFLE05",
+    "title": "Retell and adapt familiar literary texts through play, performance, images...",
+    "unitSlug": "ac9efle05-retell-and-adapt-familiar-literary-texts-through-play",
+    "sourceOrder": 14,
+    "strand": "Literature",
+    "subStrand": "Creating literature",
+    "description": "retell and adapt familiar literary texts through play, performance, images or writing",
+    "levelDescription": "The English curriculum is built around the 3 interrelated strands of Language, Literature and Literacy . Together, the 3 strands focus on developing students\u2019 knowledge, understanding and skills in listening, reading, viewing, speaking, writing and creating. Learning in English is recursive and cumulative, building on concepts, skills and processes developed in earlier years. In the Foundation year, learning in English builds on the Early Years Learning Framework and each student\u2019s prior knowledge and experiences. Students understand that English is the shared language of the learning environment, used to interact and communicate with familiar audiences for different purposes. Students engage with a variety of texts for enjoyment. They participate in shared reading, viewing and storytelling. Spoken, written and multimodal texts may include traditional oral texts, picture books, various types of stories, rhyming verse, poetry, non-fiction, film, multimodal texts and dramatic performances. The range of literary texts for Foundation to Year 10 comprises the oral narrative traditions and literature of First Nations Australians, and classic and contemporary literature from wide-ranging Australian and world authors, including texts from and about Asia. Foundation students develop their reading in a text-rich environment through engagement with a range of texts. This range includes literature that expands and reflects their world, and texts that support learning in English and across the curriculum. Beginning readers start with and practise reading using decodable texts that align with phonic development. These texts systematically introduce words with a limited number of grapheme-phoneme correspondences and add grapheme-phoneme correspondences as proficiency develops. Developing readers engage with some authentic texts that involve straightforward sequences of events and everyday happenings, some less familiar content, a small range of language features including simple and compound sentences, high-frequency words, and other words that can be decoded using developing phonic knowledge. Foundation students create short imaginative and informative texts that may include pictorial representations, short statements, performances and short recounts, for a small range of purposes and audiences.",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9EFLE05_E1",
+        "number": "E1",
+        "text": "drawing and role-playing characters or events",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLE05_E2",
+        "number": "E2",
+        "text": "sequencing pictures, which may involve using digital tools, to retell a story",
+        "questionEligible": true
+      }
+    ],
+    "url": "/foundation/english/ac9efle05-retell-and-adapt-familiar-literary-texts-through-play/",
+    "practiceUrl": "https://app.skillrhub.com/?login=1&skill=AC9EFLE05",
+    "testUrl": "https://app.skillrhub.com/?login=1&skill=AC9EFLE05",
+    "worksheetUrl": "/quiz/grade-k/english/ac9efle05/worksheet/",
+    "teacherSlideUrl": "/worksheets/foundation/english/teacher-slides/live.html?code=AC9EFLE05",
+    "questionCoverage": [
+      {
+        "code": "AC9EFLE05",
+        "label": "Content description",
+        "text": "retell and adapt familiar literary texts through play, performance, images or writing",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLE05_E1",
+        "number": "E1",
+        "text": "drawing and role-playing characters or events",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLE05_E2",
+        "number": "E2",
+        "text": "sequencing pictures, which may involve using digital tools, to retell a story",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "English",
+    "subject": "English",
+    "subjectSlug": "english",
+    "quizSubjectSlug": "english",
+    "level": "Foundation Year",
+    "levelLabel": "Foundation",
+    "yearNumber": 0,
+    "yearFolder": "foundation",
+    "quizYearSegment": "grade-k",
+    "code": "AC9EFLY01",
+    "title": "Some familiar texts, such as stories and informative texts, and...",
+    "unitSlug": "ac9efly01-some-familiar-texts-such-as-stories-and-informative-texts-and",
+    "sourceOrder": 15,
+    "strand": "Literacy",
+    "subStrand": "Texts in context",
+    "description": "identify some familiar texts, such as stories and informative texts, and their purpose",
+    "levelDescription": "The English curriculum is built around the 3 interrelated strands of Language, Literature and Literacy . Together, the 3 strands focus on developing students\u2019 knowledge, understanding and skills in listening, reading, viewing, speaking, writing and creating. Learning in English is recursive and cumulative, building on concepts, skills and processes developed in earlier years. In the Foundation year, learning in English builds on the Early Years Learning Framework and each student\u2019s prior knowledge and experiences. Students understand that English is the shared language of the learning environment, used to interact and communicate with familiar audiences for different purposes. Students engage with a variety of texts for enjoyment. They participate in shared reading, viewing and storytelling. Spoken, written and multimodal texts may include traditional oral texts, picture books, various types of stories, rhyming verse, poetry, non-fiction, film, multimodal texts and dramatic performances. The range of literary texts for Foundation to Year 10 comprises the oral narrative traditions and literature of First Nations Australians, and classic and contemporary literature from wide-ranging Australian and world authors, including texts from and about Asia. Foundation students develop their reading in a text-rich environment through engagement with a range of texts. This range includes literature that expands and reflects their world, and texts that support learning in English and across the curriculum. Beginning readers start with and practise reading using decodable texts that align with phonic development. These texts systematically introduce words with a limited number of grapheme-phoneme correspondences and add grapheme-phoneme correspondences as proficiency develops. Developing readers engage with some authentic texts that involve straightforward sequences of events and everyday happenings, some less familiar content, a small range of language features including simple and compound sentences, high-frequency words, and other words that can be decoded using developing phonic knowledge. Foundation students create short imaginative and informative texts that may include pictorial representations, short statements, performances and short recounts, for a small range of purposes and audiences.",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9EFLY01_E1",
+        "number": "E1",
+        "text": "recognising symbols in everyday environments and discussing why they are used; for example, exit signs, school crossing signs, emblems or badges on school uniforms",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY01_E2",
+        "number": "E2",
+        "text": "using book covers to group imaginative and informative texts",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY01_E3",
+        "number": "E3",
+        "text": "grouping texts according to topic; for example, grouping a set of texts, which may include informative and imaginative texts, about farm animals",
+        "questionEligible": true
+      }
+    ],
+    "url": "/foundation/english/ac9efly01-some-familiar-texts-such-as-stories-and-informative-texts-and/",
+    "practiceUrl": "https://app.skillrhub.com/?login=1&skill=AC9EFLY01",
+    "testUrl": "https://app.skillrhub.com/?login=1&skill=AC9EFLY01",
+    "worksheetUrl": "/quiz/grade-k/english/ac9efly01/worksheet/",
+    "teacherSlideUrl": "/worksheets/foundation/english/teacher-slides/live.html?code=AC9EFLY01",
+    "questionCoverage": [
+      {
+        "code": "AC9EFLY01",
+        "label": "Content description",
+        "text": "identify some familiar texts, such as stories and informative texts, and their purpose",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY01_E1",
+        "number": "E1",
+        "text": "recognising symbols in everyday environments and discussing why they are used; for example, exit signs, school crossing signs, emblems or badges on school uniforms",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY01_E2",
+        "number": "E2",
+        "text": "using book covers to group imaginative and informative texts",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY01_E3",
+        "number": "E3",
+        "text": "grouping texts according to topic; for example, grouping a set of texts, which may include informative and imaginative texts, about farm animals",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "English",
+    "subject": "English",
+    "subjectSlug": "english",
+    "quizSubjectSlug": "english",
+    "level": "Foundation Year",
+    "levelLabel": "Foundation",
+    "yearNumber": 0,
+    "yearFolder": "foundation",
+    "quizYearSegment": "grade-k",
+    "code": "AC9EFLY02",
+    "title": "Interact in informal and structured situations by listening while others...",
+    "unitSlug": "ac9efly02-interact-in-informal-and-structured-situations-by-listening",
+    "sourceOrder": 16,
+    "strand": "Literacy",
+    "subStrand": "Interacting with others",
+    "description": "interact in informal and structured situations by listening while others speak and using features of voice including volume levels",
+    "levelDescription": "The English curriculum is built around the 3 interrelated strands of Language, Literature and Literacy . Together, the 3 strands focus on developing students\u2019 knowledge, understanding and skills in listening, reading, viewing, speaking, writing and creating. Learning in English is recursive and cumulative, building on concepts, skills and processes developed in earlier years. In the Foundation year, learning in English builds on the Early Years Learning Framework and each student\u2019s prior knowledge and experiences. Students understand that English is the shared language of the learning environment, used to interact and communicate with familiar audiences for different purposes. Students engage with a variety of texts for enjoyment. They participate in shared reading, viewing and storytelling. Spoken, written and multimodal texts may include traditional oral texts, picture books, various types of stories, rhyming verse, poetry, non-fiction, film, multimodal texts and dramatic performances. The range of literary texts for Foundation to Year 10 comprises the oral narrative traditions and literature of First Nations Australians, and classic and contemporary literature from wide-ranging Australian and world authors, including texts from and about Asia. Foundation students develop their reading in a text-rich environment through engagement with a range of texts. This range includes literature that expands and reflects their world, and texts that support learning in English and across the curriculum. Beginning readers start with and practise reading using decodable texts that align with phonic development. These texts systematically introduce words with a limited number of grapheme-phoneme correspondences and add grapheme-phoneme correspondences as proficiency develops. Developing readers engage with some authentic texts that involve straightforward sequences of events and everyday happenings, some less familiar content, a small range of language features including simple and compound sentences, high-frequency words, and other words that can be decoded using developing phonic knowledge. Foundation students create short imaginative and informative texts that may include pictorial representations, short statements, performances and short recounts, for a small range of purposes and audiences.",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9EFLY02_E1",
+        "number": "E1",
+        "text": "exchanging ideas with peers in pairs and small groups, engaging in class discussions, listening to others and contributing ideas",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY02_E2",
+        "number": "E2",
+        "text": "showing understanding of appropriate listening behaviour, such as listening without interrupting, and looking at the speaker, if culturally appropriate",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY02_E3",
+        "number": "E3",
+        "text": "altering volume for inside and outside situations and when speaking to an audience",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY02_E4",
+        "number": "E4",
+        "text": "participating in informal interaction situations; for example, play-based experiences that involve the imaginative use of spoken language",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY02_E5",
+        "number": "E5",
+        "text": "listening to and following instructions",
+        "questionEligible": true
+      }
+    ],
+    "url": "/foundation/english/ac9efly02-interact-in-informal-and-structured-situations-by-listening/",
+    "practiceUrl": "https://app.skillrhub.com/?login=1&skill=AC9EFLY02",
+    "testUrl": "https://app.skillrhub.com/?login=1&skill=AC9EFLY02",
+    "worksheetUrl": "/quiz/grade-k/english/ac9efly02/worksheet/",
+    "teacherSlideUrl": "/worksheets/foundation/english/teacher-slides/live.html?code=AC9EFLY02",
+    "questionCoverage": [
+      {
+        "code": "AC9EFLY02",
+        "label": "Content description",
+        "text": "interact in informal and structured situations by listening while others speak and using features of voice including volume levels",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY02_E1",
+        "number": "E1",
+        "text": "exchanging ideas with peers in pairs and small groups, engaging in class discussions, listening to others and contributing ideas",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY02_E2",
+        "number": "E2",
+        "text": "showing understanding of appropriate listening behaviour, such as listening without interrupting, and looking at the speaker, if culturally appropriate",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY02_E3",
+        "number": "E3",
+        "text": "altering volume for inside and outside situations and when speaking to an audience",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY02_E4",
+        "number": "E4",
+        "text": "participating in informal interaction situations; for example, play-based experiences that involve the imaginative use of spoken language",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY02_E5",
+        "number": "E5",
+        "text": "listening to and following instructions",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "English",
+    "subject": "English",
+    "subjectSlug": "english",
+    "quizSubjectSlug": "english",
+    "level": "Foundation Year",
+    "levelLabel": "Foundation",
+    "yearNumber": 0,
+    "yearFolder": "foundation",
+    "quizYearSegment": "grade-k",
+    "code": "AC9EFLY03",
+    "title": "Some differences between imaginative and informative texts",
+    "unitSlug": "ac9efly03-some-differences-between-imaginative-and-informative-texts",
+    "sourceOrder": 17,
+    "strand": "Literacy",
+    "subStrand": "Analysing, interpreting and evaluating",
+    "description": "identify some differences between imaginative and informative texts",
+    "levelDescription": "The English curriculum is built around the 3 interrelated strands of Language, Literature and Literacy . Together, the 3 strands focus on developing students\u2019 knowledge, understanding and skills in listening, reading, viewing, speaking, writing and creating. Learning in English is recursive and cumulative, building on concepts, skills and processes developed in earlier years. In the Foundation year, learning in English builds on the Early Years Learning Framework and each student\u2019s prior knowledge and experiences. Students understand that English is the shared language of the learning environment, used to interact and communicate with familiar audiences for different purposes. Students engage with a variety of texts for enjoyment. They participate in shared reading, viewing and storytelling. Spoken, written and multimodal texts may include traditional oral texts, picture books, various types of stories, rhyming verse, poetry, non-fiction, film, multimodal texts and dramatic performances. The range of literary texts for Foundation to Year 10 comprises the oral narrative traditions and literature of First Nations Australians, and classic and contemporary literature from wide-ranging Australian and world authors, including texts from and about Asia. Foundation students develop their reading in a text-rich environment through engagement with a range of texts. This range includes literature that expands and reflects their world, and texts that support learning in English and across the curriculum. Beginning readers start with and practise reading using decodable texts that align with phonic development. These texts systematically introduce words with a limited number of grapheme-phoneme correspondences and add grapheme-phoneme correspondences as proficiency develops. Developing readers engage with some authentic texts that involve straightforward sequences of events and everyday happenings, some less familiar content, a small range of language features including simple and compound sentences, high-frequency words, and other words that can be decoded using developing phonic knowledge. Foundation students create short imaginative and informative texts that may include pictorial representations, short statements, performances and short recounts, for a small range of purposes and audiences.",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9EFLY03_E1",
+        "number": "E1",
+        "text": "talking about what is \u201creal\u201d and what is imagined in texts",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY03_E2",
+        "number": "E2",
+        "text": "identifying and selecting texts for information purposes and commenting on how the text might help with a task",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY03_E3",
+        "number": "E3",
+        "text": "comparing images in imaginative texts with images in informative texts",
+        "questionEligible": true
+      }
+    ],
+    "url": "/foundation/english/ac9efly03-some-differences-between-imaginative-and-informative-texts/",
+    "practiceUrl": "https://app.skillrhub.com/?login=1&skill=AC9EFLY03",
+    "testUrl": "https://app.skillrhub.com/?login=1&skill=AC9EFLY03",
+    "worksheetUrl": "/quiz/grade-k/english/ac9efly03/worksheet/",
+    "teacherSlideUrl": "/worksheets/foundation/english/teacher-slides/live.html?code=AC9EFLY03",
+    "questionCoverage": [
+      {
+        "code": "AC9EFLY03",
+        "label": "Content description",
+        "text": "identify some differences between imaginative and informative texts",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY03_E1",
+        "number": "E1",
+        "text": "talking about what is \u201creal\u201d and what is imagined in texts",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY03_E2",
+        "number": "E2",
+        "text": "identifying and selecting texts for information purposes and commenting on how the text might help with a task",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY03_E3",
+        "number": "E3",
+        "text": "comparing images in imaginative texts with images in informative texts",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "English",
+    "subject": "English",
+    "subjectSlug": "english",
+    "quizSubjectSlug": "english",
+    "level": "Foundation Year",
+    "levelLabel": "Foundation",
+    "yearNumber": 0,
+    "yearFolder": "foundation",
+    "quizYearSegment": "grade-k",
+    "code": "AC9EFLY04",
+    "title": "Decodable and authentic texts using developing phonic knowledge, and monitor...",
+    "unitSlug": "ac9efly04-decodable-and-authentic-texts-using-developing-phonic-knowledge",
+    "sourceOrder": 18,
+    "strand": "Literacy",
+    "subStrand": "Analysing, interpreting and evaluating",
+    "description": "read decodable and authentic texts using developing phonic knowledge, and monitor meaning using context and emerging grammatical knowledge",
+    "levelDescription": "The English curriculum is built around the 3 interrelated strands of Language, Literature and Literacy . Together, the 3 strands focus on developing students\u2019 knowledge, understanding and skills in listening, reading, viewing, speaking, writing and creating. Learning in English is recursive and cumulative, building on concepts, skills and processes developed in earlier years. In the Foundation year, learning in English builds on the Early Years Learning Framework and each student\u2019s prior knowledge and experiences. Students understand that English is the shared language of the learning environment, used to interact and communicate with familiar audiences for different purposes. Students engage with a variety of texts for enjoyment. They participate in shared reading, viewing and storytelling. Spoken, written and multimodal texts may include traditional oral texts, picture books, various types of stories, rhyming verse, poetry, non-fiction, film, multimodal texts and dramatic performances. The range of literary texts for Foundation to Year 10 comprises the oral narrative traditions and literature of First Nations Australians, and classic and contemporary literature from wide-ranging Australian and world authors, including texts from and about Asia. Foundation students develop their reading in a text-rich environment through engagement with a range of texts. This range includes literature that expands and reflects their world, and texts that support learning in English and across the curriculum. Beginning readers start with and practise reading using decodable texts that align with phonic development. These texts systematically introduce words with a limited number of grapheme-phoneme correspondences and add grapheme-phoneme correspondences as proficiency develops. Developing readers engage with some authentic texts that involve straightforward sequences of events and everyday happenings, some less familiar content, a small range of language features including simple and compound sentences, high-frequency words, and other words that can be decoded using developing phonic knowledge. Foundation students create short imaginative and informative texts that may include pictorial representations, short statements, performances and short recounts, for a small range of purposes and audiences.",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9EFLY04_E1",
+        "number": "E1",
+        "text": "navigating a text correctly, starting at the right place and reading in the right direction, returning to the next line as needed and matching one spoken word to one written word",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY04_E2",
+        "number": "E2",
+        "text": "attempting to work out unknown words by using phonic decoding and knowledge of high-frequency words",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY04_E3",
+        "number": "E3",
+        "text": "pausing or asking for support when meaning breaks down",
+        "questionEligible": true
+      }
+    ],
+    "url": "/foundation/english/ac9efly04-decodable-and-authentic-texts-using-developing-phonic-knowledge/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/grade-k/english/ac9efly04/worksheet/",
+    "teacherSlideUrl": "/worksheets/foundation/english/teacher-slides/live.html?code=AC9EFLY04",
+    "questionCoverage": [
+      {
+        "code": "AC9EFLY04",
+        "label": "Content description",
+        "text": "read decodable and authentic texts using developing phonic knowledge, and monitor meaning using context and emerging grammatical knowledge",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY04_E1",
+        "number": "E1",
+        "text": "navigating a text correctly, starting at the right place and reading in the right direction, returning to the next line as needed and matching one spoken word to one written word",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY04_E2",
+        "number": "E2",
+        "text": "attempting to work out unknown words by using phonic decoding and knowledge of high-frequency words",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY04_E3",
+        "number": "E3",
+        "text": "pausing or asking for support when meaning breaks down",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "English",
+    "subject": "English",
+    "subjectSlug": "english",
+    "quizSubjectSlug": "english",
+    "level": "Foundation Year",
+    "levelLabel": "Foundation",
+    "yearNumber": 0,
+    "yearFolder": "foundation",
+    "quizYearSegment": "grade-k",
+    "code": "AC9EFLY05",
+    "title": "Comprehension strategies such as visualising, predicting, connecting, summarising and questioning...",
+    "unitSlug": "ac9efly05-comprehension-strategies-such-as-visualising-predicting",
+    "sourceOrder": 19,
+    "strand": "Literacy",
+    "subStrand": "Analysing, interpreting and evaluating",
+    "description": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning to understand and discuss texts listened to, viewed or read independently",
+    "levelDescription": "The English curriculum is built around the 3 interrelated strands of Language, Literature and Literacy . Together, the 3 strands focus on developing students\u2019 knowledge, understanding and skills in listening, reading, viewing, speaking, writing and creating. Learning in English is recursive and cumulative, building on concepts, skills and processes developed in earlier years. In the Foundation year, learning in English builds on the Early Years Learning Framework and each student\u2019s prior knowledge and experiences. Students understand that English is the shared language of the learning environment, used to interact and communicate with familiar audiences for different purposes. Students engage with a variety of texts for enjoyment. They participate in shared reading, viewing and storytelling. Spoken, written and multimodal texts may include traditional oral texts, picture books, various types of stories, rhyming verse, poetry, non-fiction, film, multimodal texts and dramatic performances. The range of literary texts for Foundation to Year 10 comprises the oral narrative traditions and literature of First Nations Australians, and classic and contemporary literature from wide-ranging Australian and world authors, including texts from and about Asia. Foundation students develop their reading in a text-rich environment through engagement with a range of texts. This range includes literature that expands and reflects their world, and texts that support learning in English and across the curriculum. Beginning readers start with and practise reading using decodable texts that align with phonic development. These texts systematically introduce words with a limited number of grapheme-phoneme correspondences and add grapheme-phoneme correspondences as proficiency develops. Developing readers engage with some authentic texts that involve straightforward sequences of events and everyday happenings, some less familiar content, a small range of language features including simple and compound sentences, high-frequency words, and other words that can be decoded using developing phonic knowledge. Foundation students create short imaginative and informative texts that may include pictorial representations, short statements, performances and short recounts, for a small range of purposes and audiences.",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9EFLY05_E1",
+        "number": "E1",
+        "text": "sequencing ideas in spoken texts, retelling well-known stories, retelling stories with picture cues, retelling information using prompts",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY05_E2",
+        "number": "E2",
+        "text": "listening for specific purposes; for example, details of a character or to answer a given question",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY05_E3",
+        "number": "E3",
+        "text": "relating one or two key facts from informative texts",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY05_E4",
+        "number": "E4",
+        "text": "retelling events from First Nations Australians\u2019 stories and cultural accounts in sequence",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9EFLY05_E5",
+        "number": "E5",
+        "text": "predicting what might happen in a text based on the title and cover",
+        "questionEligible": true
+      }
+    ],
+    "url": "/foundation/english/ac9efly05-comprehension-strategies-such-as-visualising-predicting/",
+    "practiceUrl": "https://app.skillrhub.com/",
+    "testUrl": "https://app.skillrhub.com/",
+    "worksheetUrl": "/quiz/grade-k/english/ac9efly05/worksheet/",
+    "teacherSlideUrl": "/worksheets/foundation/english/teacher-slides/live.html?code=AC9EFLY05",
+    "questionCoverage": [
+      {
+        "code": "AC9EFLY05",
+        "label": "Content description",
+        "text": "use comprehension strategies such as visualising, predicting, connecting, summarising and questioning to understand and discuss texts listened to, viewed or read independently",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY05_E1",
+        "number": "E1",
+        "text": "sequencing ideas in spoken texts, retelling well-known stories, retelling stories with picture cues, retelling information using prompts",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY05_E2",
+        "number": "E2",
+        "text": "listening for specific purposes; for example, details of a character or to answer a given question",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY05_E3",
+        "number": "E3",
+        "text": "relating one or two key facts from informative texts",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY05_E4",
+        "number": "E4",
+        "text": "retelling events from First Nations Australians\u2019 stories and cultural accounts in sequence",
+        "questionEligible": false
+      },
+      {
+        "code": "AC9EFLY05_E5",
+        "number": "E5",
+        "text": "predicting what might happen in a text based on the title and cover",
+        "questionEligible": true
+      }
+    ]
+  },
+  {
+    "learningArea": "English",
+    "subject": "English",
+    "subjectSlug": "english",
+    "quizSubjectSlug": "english",
+    "level": "Foundation Year",
+    "levelLabel": "Foundation",
+    "yearNumber": 0,
+    "yearFolder": "foundation",
+    "quizYearSegment": "grade-k",
+    "code": "AC9EFLY06",
+    "title": "And participate in shared editing of short written texts to...",
+    "unitSlug": "ac9efly06-and-participate-in-shared-editing-of-short-written-texts-to",
+    "sourceOrder": 20,
+    "strand": "Literacy",
+    "subStrand": "Creating texts",
+    "description": "create and participate in shared editing of short written texts to record and report ideas and events using some learnt vocabulary, basic sentence boundary punctuation and spelling some consonant-vowel-consonant words correctly",
+    "levelDescription": "The English curriculum is built around the 3 interrelated strands of Language, Literature and Literacy . Together, the 3 strands focus on developing students\u2019 knowledge, understanding and skills in listening, reading, viewing, speaking, writing and creating. Learning in English is recursive and cumulative, building on concepts, skills and processes developed in earlier years. In the Foundation year, learning in English builds on the Early Years Learning Framework and each student\u2019s prior knowledge and experiences. Students understand that English is the shared language of the learning environment, used to interact and communicate with familiar audiences for different purposes. Students engage with a variety of texts for enjoyment. They participate in shared reading, viewing and storytelling. Spoken, written and multimodal texts may include traditional oral texts, picture books, various types of stories, rhyming verse, poetry, non-fiction, film, multimodal texts and dramatic performances. The range of literary texts for Foundation to Year 10 comprises the oral narrative traditions and literature of First Nations Australians, and classic and contemporary literature from wide-ranging Australian and world authors, including texts from and about Asia. Foundation students develop their reading in a text-rich environment through engagement with a range of texts. This range includes literature that expands and reflects their world, and texts that support learning in English and across the curriculum. Beginning readers start with and practise reading using decodable texts that align with phonic development. These texts systematically introduce words with a limited number of grapheme-phoneme correspondences and add grapheme-phoneme correspondences as proficiency develops. Developing readers engage with some authentic texts that involve straightforward sequences of events and everyday happenings, some less familiar content, a small range of language features including simple and compound sentences, high-frequency words, and other words that can be decoded using developing phonic knowledge. Foundation students create short imaginative and informative texts that may include pictorial representations, short statements, performances and short recounts, for a small range of purposes and audiences.",
+    "questionEligible": true,
+    "elaborations": [
+      {
+        "code": "AC9EFLY06_E1",
+        "number": "E1",
+        "text": "using beginning writing knowledge, sound-letter relationships, known words and punctuation to create short texts",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY06_E2",
+        "number": "E2",
+        "text": "using writing and drawing, which may include digital tools, to represent and communicate personal responses to ideas and events experienced through texts",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY06_E3",
+        "number": "E3",
+        "text": "\u201creading\u201d their own texts back to an experienced writer",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY06_E4",
+        "number": "E4",
+        "text": "participating in shared editing by circling the capital letters at the beginning of sentences",
+        "questionEligible": true
+      }
+    ],
+    "url": "/foundation/english/ac9efly06-and-participate-in-shared-editing-of-short-written-texts-to/",
+    "practiceUrl": "https://app.skillrhub.com/?login=1&skill=AC9EFLY06",
+    "testUrl": "https://app.skillrhub.com/?login=1&skill=AC9EFLY06",
+    "worksheetUrl": "/quiz/grade-k/english/ac9efly06/worksheet/",
+    "teacherSlideUrl": "/worksheets/foundation/english/teacher-slides/live.html?code=AC9EFLY06",
+    "questionCoverage": [
+      {
+        "code": "AC9EFLY06",
+        "label": "Content description",
+        "text": "create and participate in shared editing of short written texts to record and report ideas and events using some learnt vocabulary, basic sentence boundary punctuation and spelling some consonant-vowel-consonant words correctly",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY06_E1",
+        "number": "E1",
+        "text": "using beginning writing knowledge, sound-letter relationships, known words and punctuation to create short texts",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY06_E2",
+        "number": "E2",
+        "text": "using writing and drawing, which may include digital tools, to represent and communicate personal responses to ideas and events experienced through texts",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY06_E3",
+        "number": "E3",
+        "text": "\u201creading\u201d their own texts back to an experienced writer",
+        "questionEligible": true
+      },
+      {
+        "code": "AC9EFLY06_E4",
+        "number": "E4",
+        "text": "participating in shared editing by circling the capital letters at the beginning of sentences",
+        "questionEligible": true
+      }
+    ]
+  }
+]

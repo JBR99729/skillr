@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-09",
+  "official_scope": {
+    "url": "https://www.qcaa.qld.edu.au/downloads/aciqv9/english/curriculum/ac9_english_prep_as_cd_alignment.pdf",
+    "observed": "Current three-page official alignment PDF reopened; ten exact descriptors checked"
+  },
+  "additional": [
+    {
+      "url": "https://www.abc.net.au/education/whats-with-poetry-ch-3-rhythm-and-meter/13495984",
+      "observed": "Read accessible transcript; distinguishes timing/stress and syllables. Source marked Years3\u20134/7\u20138; adapt only basic pulse/rhythm distinction, no Foundation metre/iambic formalism. No playback."
+    },
+    {
+      "url": "https://www.magabala.com/products/little-birds-day",
+      "observed": "Publisher identities/synopsis and actual linked four-page teacher notes read. SallyMorganPalyku; JohnnyWarrkatjaMalibirrYolnguGanalbingu. Early-childhood retell/model preparation; book itself not supplied or independently fully read."
+    },
+    {
+      "url": "https://www.magabala.com/products/do-not-edges",
+      "observed": "Publisher book/creator identities/resources read; DaisyUtemorrahWunambal, PatTorres. Collection not claimed fully inspected or uniformly Foundation appropriate. Adult chooses exact short suitable poem from lawful actualbook and modelsaudio before extension."
+    },
+    {
+      "url": "https://readingaustralia.com.au/lesson/little-birds-day/",
+      "observed": "Open403; search excerpt not counted as full-source lesson observation; no quote or source count added."
+    }
+  ],
+  "new_external_task_count": 0,
+  "originality": "New miniatures/poem/chant/SVG art independently authored SkillrHub examples; no publisherbook text or art reproduced.",
+  "limits": [
+    "Public pages only; no teacher slide/worksheetbank certification",
+    "Adult-prepared actualbook/poem activities explicitly conditional; no fictional proxy presented as cultural source",
+    "Actualchildperformance/sourceaudio not observed"
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "commit": "f82f0c8a6b76da24fc7946376b1c8ad8a89ae3eb",
+  "tree": "672b3ec4d2fa4e1b216e995cd247dee92f8a3ba2",
+  "accepted_dependencies": [
+    {
+      "path": "year-1/english/AC9E1LE02/le02.txt",
+      "git_blob_sha": "23716f85efdaf58b26ad52fbe3e43456a1bb0d7c",
+      "sha256_utf8": "f791160eaec37a99d891136f155f7c5987e94c6704496592b7e70bbd2d881a8f",
+      "bytes": 60345,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "year-1/english/AC9E1LE03/le03.txt",
+      "git_blob_sha": "ca4ad655a9baa74186b64b4c779060d60ab8f02b",
+      "sha256_utf8": "fe1ab6dad19e4db12296c3b900735351f9dc554635ff32e9defb8e7fe8848961",
+      "bytes": 124539,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "year-1/english/AC9E1LA04/la04.txt",
+      "git_blob_sha": "e53e964eecc2f23e0be3130299e0e0b781b2e2b8",
+      "sha256_utf8": "ceaf1af23cca8ccb315feabe5f6b4013d6a6cbadb62d828668f52df40252d03a",
+      "bytes": 58876,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "year-1/english/AC9E1LA04/round1-research-2026-11-01.json",
+      "git_blob_sha": "e77f4208bdf911e66d1fc3886fb96b0fb837138d",
+      "sha256_utf8": "e667c6b64794c3d4a82dc16ef8c57f04982b55806396ecf0df014463b896fa7d",
+      "bytes": 57582,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "year-1/english/AC9E1LE04/le04.txt",
+      "git_blob_sha": "ae6f958267d2c4fe5a309a0614d8ced30503420e",
+      "sha256_utf8": "8e22bb8aa87e3a088ad9539a11d16b19a460bef812b991648d7c0e1286bd07ca",
+      "bytes": 101385,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "foundation/english/AC9EFLY09/research/2026-10-31-round1/preview-observations.json",
+      "git_blob_sha": "6f46385cde8d254f4273366fc0879a49b0971380",
+      "sha256_utf8": "12820819895a89c2d343249762201f14dffb4e2af8d52d270caec2602efc061e",
+      "bytes": 33150,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "foundation/english/AC9EFLY09/research/2026-10-31-round1/source-coverage.json",
+      "git_blob_sha": "bd40c4faad3850b2b38863dab15bea5383bf346b",
+      "sha256_utf8": "df2052297ea55ab7007e3bcaad36abe276bbc9204a163ed2cb3b6886877a64b6",
+      "bytes": 1697,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "foundation/english/AC9EFLY09/research/2026-10-31-round1/source-map.json",
+      "git_blob_sha": "809ff0c3abd8053a48b9af2a609e9efdfb76f9b9",
+      "sha256_utf8": "37c74099dc88509e43a310a6175a63e98a4026eff1a4108d04c9d28fd7f399ab",
+      "bytes": 19186,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "year-1/english/AC9E1LE05/le05.txt",
+      "git_blob_sha": "ea1c906beebdb91fde9078792b4e0e79a0e4e42c",
+      "sha256_utf8": "0e353847f60690227705656a1a478fca9437b5ec87a90de2b660ab391f4f27c7",
+      "bytes": 187221,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "foundation/english/AC9EFLA03/research/2026-10-30-source-first/observations.json",
+      "git_blob_sha": "5bced91c804b99f7ecf03ed82f36e725167a74cd",
+      "sha256_utf8": "bcae28391f9cb09fe65d03cec5c6d716bcc70cf5d9b1e0552fe1d430e8a2718c",
+      "bytes": 10920,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "year-1/english/AC9E1LA03/la03.txt",
+      "git_blob_sha": "adf30c1ee5787ce4d7072f56cfb1f043e92d5524",
+      "sha256_utf8": "1bca99fdd9ac7d2bf5b8a6ce9831baa1e398b34b8bdcea7679926d5d5881c640",
+      "bytes": 30328,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "year-1/english/AC9E1LA03/round1-research-2026-11-01.json",
+      "git_blob_sha": "988b7e38cba85ce4215069c4ef63b09d600d7568",
+      "sha256_utf8": "c823667e374203609346746730f2809419d0897c821d0f327c234bc7edbf552e",
+      "bytes": 27543,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "year-1/english/AC9E1LY01/ly01.txt",
+      "git_blob_sha": "d36c9ba968f2ef3ebcbaaeff25727b156a398dcb",
+      "sha256_utf8": "d3b451269c8262a8e968b37d8ee6d651723d404664202195650fec8af6b77cb9",
+      "bytes": 51121,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "year-1/english/AC9E1LY03/ly03.txt",
+      "git_blob_sha": "975850a1b6e8eff764830280f40cff6d6421627d",
+      "sha256_utf8": "2047895927fc50cfccc0a64aa687a50215b28b874d9dddf9fd215c04e4f63698",
+      "bytes": 59821,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "foundation/english/AC9EFLA01/research/2026-10-26-fresh-dev-r2/README.md",
+      "git_blob_sha": "2d90a18e85e157784b17d5aa4d84a10bf7d03892",
+      "sha256_utf8": "0fc832d0e86fb383e0cced57bfa9517a1a9977e01769f260c26618e3751e4b0d",
+      "bytes": 4527,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "foundation/english/AC9EFLA01/research/2026-10-26-fresh-dev-r2/focus-map.md",
+      "git_blob_sha": "a31f736f938a7fb698a5b0c41a227b70b4a63a45",
+      "sha256_utf8": "65b6893c5adbd7179f77a542794b61294e012497a0c73b33bd383321e0a1c149",
+      "bytes": 2794,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "foundation/english/AC9EFLA01/research/2026-10-26-fresh-dev-r2/source-ledger-v12.json",
+      "git_blob_sha": "9cc439327e3d6261f11b049755b21290aea067f9",
+      "sha256_utf8": "17c82574af5fb9319354045d6e5bffe0adbb1c2af031bc8c913f6855c8874b3a",
+      "bytes": 39431,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "foundation/english/AC9EFLA01/research/2026-10-26-fresh-dev-r2/teaching-guide.json",
+      "git_blob_sha": "e6e3fb4cdc5af3530dc6f99b0ac3055d0ec5b1cc",
+      "sha256_utf8": "9376c7e1c0777f57f39879abd57620a98bea23fca67eac456d03993e3df17e6a",
+      "bytes": 7031,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "foundation/english/AC9EFLA01/research/2026-10-26-fresh-dev-r2/teacher-qa/independent-teacher-final-v203.md",
+      "git_blob_sha": "629ff6260b7167e2721be20a13731d6ef4ea71ae",
+      "sha256_utf8": "9df9af852b9bf917bd5889d92682de312d4fcee51e6aef27865d69b9edf14044",
+      "bytes": 2349,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "year-1/english/AC9E1LA01/la01.txt",
+      "git_blob_sha": "d122c7e6528ba726e3713eacbe1ce5d859f4499d",
+      "sha256_utf8": "0198e958f2b51b79a459039e27dc2cce6108292a7bad4505377303c1e413688f",
+      "bytes": 35567,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "year-1/english/AC9E1LY02/ly02.txt",
+      "git_blob_sha": "c5deeba483f87d1557fd0c8d0c55351dd27cd801",
+      "sha256_utf8": "225e4cf634323773582b9009847d0fdeb2562684294239223b46eb10ae95c33a",
+      "bytes": 72285,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "foundation/english/AC9EFLY03/research/2026-10-30-round1/preview-observations.json",
+      "git_blob_sha": "7c979a80498e1e2be6e8e023de0a97beff9fb07e",
+      "sha256_utf8": "6ad4428989f332b069554b130deca132fe6ca5490558c05dd18df61a96951028",
+      "bytes": 1579,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "foundation/english/AC9EFLY03/research/2026-10-30-round1/source-coverage.json",
+      "git_blob_sha": "07c9b839ca92a9745f7e4cc275ce4404a82791e9",
+      "sha256_utf8": "057e1147530e953c14515a6dae0b6674b68471742651cf29f03d908180c9eba0",
+      "bytes": 1361,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "foundation/english/AC9EFLY04/research/2026-10-30-round1/preview-observations.json",
+      "git_blob_sha": "a2dc3e47801f29fadab01b591be35c9df040ac02",
+      "sha256_utf8": "34ab87379217748bfdf7a62c1dc9edef8052ba4192ac2d4ad6c45733a77971ab",
+      "bytes": 5921,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "foundation/english/AC9EFLY04/research/2026-10-30-round1/source-coverage.json",
+      "git_blob_sha": "6cd2d361ead8010924255ea3626a4705844e83b8",
+      "sha256_utf8": "d96ca791e4b8ef885daf49114fe2f0570aac78257806acd0bb942b472ced5b76",
+      "bytes": 2217,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "year-1/english/AC9E1LY04/ly04.txt",
+      "git_blob_sha": "2c699d9ea7955a882ec2295ba3fbcd09805afd2b",
+      "sha256_utf8": "44d2f35704eae5cca4edccbdc4283a644a77d2fdb188d2b287a64546a2006101",
+      "bytes": 232328,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "foundation/english/AC9EFLY05/research/2026-10-31-round1/preview-observations.json",
+      "git_blob_sha": "b50afd4e5986cd71f0c608ea4b4650a07e01438c",
+      "sha256_utf8": "6facddd45bead2e66b67a05d756463c19ea979b8f42b6be2f6d36be9391b0ad8",
+      "bytes": 14527,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "foundation/english/AC9EFLY05/research/2026-10-31-round1/source-coverage.json",
+      "git_blob_sha": "ba3aca812f67578fda13f992533d79ae8994723c",
+      "sha256_utf8": "46c4238ab86741fd5c6a21fbd22d0f5ca79026e1e056d15b865d150520a8f370",
+      "bytes": 2223,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "foundation/english/AC9EFLY05/research/2026-10-31-round1/source-map.json",
+      "git_blob_sha": "c69e9ce4d2561163eb2572ea6f775f54937c5bfc",
+      "sha256_utf8": "9f73b3fe8e4272f62e91747499b38c9f792a3024d2fd267c4dfdd1666cbad092",
+      "bytes": 19909,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "year-1/english/AC9E1LY05/ly05.txt",
+      "git_blob_sha": "5285cfc848d60094adb69a065825edf3651a03be",
+      "sha256_utf8": "67a914619fc893f31488f7813ddccc0654daa7e4702a4640e4ac8e00f019d1a2",
+      "bytes": 117188,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    },
+    {
+      "path": "year-1/english/AC9E1LY06/ly06.txt",
+      "git_blob_sha": "9d426e096c36ce16ca83a70f26e1d665764990c0",
+      "sha256_utf8": "fbb8185d06d415c43ebc00df283fa24af8832dd525dcb45eb481c0e3ec2e3547",
+      "bytes": 113771,
+      "commit": "472aba5764408f5e94d2f90a0170c2bd043082c6",
+      "locator": "Current code source register/actual-task ledger/worked teaching and later correction sections; for cross-code reuse retain exact source IDs and limits recorded there."
+    }
+  ],
+  "limits": [
+    "Saved IXL/Khan/ABC/RWT/official source observations reused, not newly observed today",
+    "Source transcript/notation not audio playback",
+    "No student-submitted answer, adaptive progression or measured learning outcomes",
+    "No actual full First Nations book/poem supplied or performed; explicitly conditional adult activity"
+  ]
+}
