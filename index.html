@@ -206,6 +206,13 @@
 #skillr-home .clean-years ul{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:8px 12px}
 #skillr-home .clean-years li{min-width:0}
 #skillr-home .clean-years a{display:flex;width:100%;min-width:0;min-height:38px;padding:6px 9px;border:1px solid #eef0f3;border-radius:9px;box-shadow:0 2px 4px #17253808;color:#101820;font-size:15px}
+#skillr-home .clean-resource-discovery{margin-top:24px;border-top:1px solid #e2e8f0;padding-top:16px}
+#skillr-home .clean-resource-discovery h2{font-size:20px;margin:0 0 8px}
+#skillr-home .clean-resource-discovery details{border-bottom:1px solid #e2e8f0}
+#skillr-home .clean-resource-discovery summary{display:list-item;min-height:44px;padding:10px 0;cursor:pointer}
+#skillr-home .clean-resource-discovery ul{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));list-style:none;padding:0;gap:4px 12px}
+#skillr-home .clean-resource-discovery li{min-width:0}
+#skillr-home .clean-resource-discovery li a{display:flex;align-items:center;min-height:44px}
 #skillr-home .resource-request{margin-top:34px}
 #skillr-home .clean-footer{padding-bottom:24px}
 @media(min-width:1400px){#skillr-home .clean-main{padding-top:5px}}
@@ -357,6 +364,14 @@
       <li><a href="/learn/?year=10&amp;subject=maths">Year 10</a></li>
     </ul>
   </nav>
+  <section class="clean-resource-discovery" aria-labelledby="resource-discovery-title">
+    <h2 id="resource-discovery-title">Worksheets and topic guides</h2>
+    <p>Choose a year and subject for Australian Curriculum topic explanations and worksheet resources. Paid printable packs are optional and labelled separately.</p>
+    <details><summary>Maths by year</summary><ul><li><a href="/worksheets/foundation/maths/">Foundation Maths</a></li><li><a href="/worksheets/year1/maths/">Year 1 Maths</a></li><li><a href="/worksheets/year2/maths/">Year 2 Maths</a></li><li><a href="/worksheets/year3/maths/">Year 3 Maths</a></li><li><a href="/worksheets/year4/maths/">Year 4 Maths</a></li><li><a href="/worksheets/year5/maths/">Year 5 Maths</a></li><li><a href="/worksheets/year6/maths/">Year 6 Maths</a></li><li><a href="/worksheets/year7/maths/">Year 7 Maths</a></li><li><a href="/worksheets/year8/maths/">Year 8 Maths</a></li><li><a href="/worksheets/year9/maths/">Year 9 Maths</a></li><li><a href="/worksheets/year10/maths/">Year 10 Maths</a></li></ul></details>
+    <details><summary>English by year</summary><ul><li><a href="/worksheets/foundation/english/">Foundation English</a></li><li><a href="/worksheets/year1/english/">Year 1 English</a></li><li><a href="/worksheets/year2/english/">Year 2 English</a></li><li><a href="/worksheets/year3/english/">Year 3 English</a></li><li><a href="/worksheets/year4/english/">Year 4 English</a></li><li><a href="/worksheets/year5/english/">Year 5 English</a></li><li><a href="/worksheets/year6/english/">Year 6 English</a></li><li><a href="/worksheets/year7/english/">Year 7 English</a></li><li><a href="/worksheets/year8/english/">Year 8 English</a></li><li><a href="/worksheets/year9/english/">Year 9 English</a></li><li><a href="/worksheets/year10/english/">Year 10 English</a></li></ul></details>
+    <details><summary>Science by year</summary><ul><li><a href="/worksheets/foundation/science/">Foundation Science</a></li><li><a href="/worksheets/year1/science/">Year 1 Science</a></li><li><a href="/worksheets/year2/science/">Year 2 Science</a></li><li><a href="/worksheets/year3/science/">Year 3 Science</a></li><li><a href="/worksheets/year4/science/">Year 4 Science</a></li><li><a href="/worksheets/year5/science/">Year 5 Science</a></li><li><a href="/worksheets/year6/science/">Year 6 Science</a></li><li><a href="/worksheets/year7/science/">Year 7 Science</a></li><li><a href="/worksheets/year8/science/">Year 8 Science</a></li><li><a href="/worksheets/year9/science/">Year 9 Science</a></li><li><a href="/worksheets/year10/science/">Year 10 Science</a></li></ul></details>
+    <p><a href="/worksheets/">Browse all worksheets and homework</a></p>
+  </section>
   <section class="resource-request" aria-labelledby="custom-resources-title">
     <h2 id="custom-resources-title">Need custom teaching slides or worksheets?</h2>
     <p>Message us on Messenger with the year level, topic and resource you need. You can also contact us by email.</p>
@@ -392,3 +407,4 @@ document.addEventListener('click',function(event){var link=event.target.closest&
 <script defer src="/assets/learning-navigation.js?v=20261107-flow"></script>
 </body>
 </html>
+
