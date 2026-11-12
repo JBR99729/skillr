@@ -1,0 +1,41 @@
+name: SEO category recovery
+on:
+  pull_request:
+    paths:
+      - index.html
+      - learn/index.html
+      - foundation/*/index.html
+      - year*/*/index.html
+      - scripts/tests/check_seo_category_recovery.cjs
+      - .github/workflows/seo-category-recovery.yml
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: seo-category-recovery-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  navigation:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm ci
+      - run: npx playwright install --with-deps chromium
+      - name: Check category routes and responsive discovery
+        run: |
+          mkdir -p test-results
+          python3 -m http.server 8765 &
+          server_pid=$!
+          trap 'kill "$server_pid"' EXIT
+          node scripts/tests/check_seo_category_recovery.cjs
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: seo-category-recovery-screenshots
+          path: test-results/seo-*.png
+          retention-days: 7
