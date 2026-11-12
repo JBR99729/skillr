@@ -7,8 +7,17 @@ import {YEAR8_MATHS_EXPECTED_CODES,YEAR8_MATHS_V2_MIGRATED} from './year8_maths_
 const ROOT=process.cwd();
 const ids=['learn','prerequisites','teaching','examples','misconceptions','guided-practice','independent-practice','reasoning','important-questions','assessment','mastery','guidance','alignment','resources','related','official-references'];
 const errors=[];
-const hub=fs.readFileSync(path.join(ROOT,'year8/curriculum/maths/index.html'),'utf8');
-const hubCodes=[...hub.matchAll(/class=["']curriculum-badge["']>(AC9M8(?:N0[1-5]|A0[1-4]|M0[1-7]|SP0[1-4]|ST0[1-4]|P0[1-3]))</gi)].map(m=>m[1].toUpperCase());
+const legacyHub=fs.readFileSync(path.join(ROOT,'year8/curriculum/maths/index.html'),'utf8');
+// The owner consolidated subject hubs into Learn on 7 November. Validate
+// the active Year 8 Maths inventory, while retaining legacy-hub compatibility.
+const consolidated=legacyHub.includes('data-learning-hub-retired=');
+const hub=consolidated
+  ? fs.readFileSync(path.join(ROOT,'learn/index.html'),'utf8').match(/<section class="cb-group" data-group="8-maths">([\s\S]*?)<\/section>/)?.[1] || ''
+  : legacyHub;
+const hubCodePattern=consolidated
+  ? /<small>[^<]*\b(AC9M8(?:N0[1-5]|A0[1-4]|M0[1-7]|SP0[1-4]|ST0[1-4]|P0[1-3]))<\/small>/gi
+  : /class=["']curriculum-badge["']>(AC9M8(?:N0[1-5]|A0[1-4]|M0[1-7]|SP0[1-4]|ST0[1-4]|P0[1-3]))</gi;
+const hubCodes=[...hub.matchAll(hubCodePattern)].map(m=>m[1].toUpperCase());
 const uniqueHub=[...new Set(hubCodes)].sort();
 const expected=[...YEAR8_MATHS_EXPECTED_CODES].sort();
 const migratedCodes=YEAR8_MATHS_V2_MIGRATED.map(x=>x.code).sort();
@@ -98,3 +107,4 @@ if(errors.length){
   process.exit(1);
 }
 console.log(`Year 8 Maths static v2 PASS: full ${YEAR8_MATHS_EXPECTED_CODES.length}-code inventory migrated and permanently locked; authored depth, preservation/differentiation, locked order, SEO/resources/schema and state alignment verified.`);
+
