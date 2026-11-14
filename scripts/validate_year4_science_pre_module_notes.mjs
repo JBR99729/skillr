@@ -2,6 +2,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import vm from "node:vm";
+import { validateRetiredActivity } from "./lib/published_activity_navigation.mjs";
 
 const root = path.resolve(import.meta.dirname, "..");
 const read = (relativePath) => fs.readFileSync(path.join(root, relativePath), "utf8");
@@ -92,23 +93,27 @@ for (const code of codes) {
   for (const mode of ["practice", "test"]) {
     const route = `quiz/year-4/science/${code.toLowerCase()}/${mode}/index.html`;
     const html = read(route);
-    const configMatch = html.match(/window\.quizConfig=(\{.*?\});<\/script>/s);
-    assert(configMatch, `${code} ${mode}: quiz config missing`);
-    if (!configMatch) continue;
-    const config = JSON.parse(configMatch[1]);
     const isPractice = mode === "practice";
-    const expectedQuestionCount = 5;
-    assert(config.skillCode === code, `${code} ${mode}: skill code mismatch`);
-    assert(config.preModuleNotesRequired === true, `${code} ${mode}: mandatory gate not enabled`);
-    assert(config.preReadSeconds === 0, `${code} ${mode}: artificial countdown must remain disabled`);
-    assert(config.maxQuestions === expectedQuestionCount, `${code} ${mode}: expected ${expectedQuestionCount}-question launch`);
-    assert(config.shuffleQuestions === true && config.shuffleAnswers === true && config.questionCycle === false, `${code} ${mode}: bank selection changed`);
-    assert(config.requireStudentName === !isPractice, `${code} ${mode}: student-name flow changed`);
-    const noteVersion = /^AC9S4I0[1-6]$/.test(code) ? "20260908-science-final-six" : ["AC9S4U04", "AC9S4H01", "AC9S4H02"].includes(code) ? "20260908-science-next-three" : reviewedStaticCodes.has(code) ? "20260908-science-first-three" : "20260814-1";
-    assert((html.match(/year4-science-pre-module-notes\.js\?v=[^"\s]+/g) || []).join("") === `year4-science-pre-module-notes.js?v=${noteVersion}`, `${code} ${mode}: shared source must load exactly once`);
-    assert(html.indexOf("year4-science-pre-module-notes.js") < html.indexOf("/quiz/assets/script.js?v=117"), `${code} ${mode}: note source must load before engine`);
-    assert(html.includes("/quiz/assets/style.css?v=115"), `${code} ${mode}: responsive style version missing`);
-    assert(html.includes("pre-read-notes"), `${code} ${mode}: existing Quick Read landing was removed`);
+    if (html.includes('data-legacy-quiz-retired=')) {
+      errors.push(...validateRetiredActivity(html, code, mode, root));
+    } else {
+      const configMatch = html.match(/window\.quizConfig=(\{.*?\});<\/script>/s);
+      assert(configMatch, `${code} ${mode}: quiz config missing`);
+      if (!configMatch) continue;
+      const config = JSON.parse(configMatch[1]);
+      const expectedQuestionCount = 5;
+      assert(config.skillCode === code, `${code} ${mode}: skill code mismatch`);
+      assert(config.preModuleNotesRequired === true, `${code} ${mode}: mandatory gate not enabled`);
+      assert(config.preReadSeconds === 0, `${code} ${mode}: artificial countdown must remain disabled`);
+      assert(config.maxQuestions === expectedQuestionCount, `${code} ${mode}: expected ${expectedQuestionCount}-question launch`);
+      assert(config.shuffleQuestions === true && config.shuffleAnswers === true && config.questionCycle === false, `${code} ${mode}: bank selection changed`);
+      assert(config.requireStudentName === !isPractice, `${code} ${mode}: student-name flow changed`);
+      const noteVersion = /^AC9S4I0[1-6]$/.test(code) ? "20260908-science-final-six" : ["AC9S4U04", "AC9S4H01", "AC9S4H02"].includes(code) ? "20260908-science-next-three" : reviewedStaticCodes.has(code) ? "20260908-science-first-three" : "20260814-1";
+      assert((html.match(/year4-science-pre-module-notes\.js\?v=[^"\s]+/g) || []).join("") === `year4-science-pre-module-notes.js?v=${noteVersion}`, `${code} ${mode}: shared source must load exactly once`);
+      assert(html.indexOf("year4-science-pre-module-notes.js") < html.indexOf("/quiz/assets/script.js?v=117"), `${code} ${mode}: note source must load before engine`);
+      assert(html.includes("/quiz/assets/style.css?v=115"), `${code} ${mode}: responsive style version missing`);
+      assert(html.includes("pre-read-notes"), `${code} ${mode}: existing Quick Read landing was removed`);
+    }
 
     const questionFile = `quiz/year-4/science/${code.toLowerCase()}/${mode}/questions.js`;
     const questionWindow = { location:{ pathname:`/${questionFile}` } };
@@ -141,4 +146,4 @@ if (errors.length) {
 }
 console.log(`Year 4 Science pre-module notes: ${codes.length}/${codes.length} passing`);
 console.log(`Prose word counts: ${Object.entries(counts).map(([code, count]) => `${code} ${count}`).join(", ")}`);
-console.log("PASS: final visible-deck provenance, schema, 120–160 words, 60–75 seconds, mandatory live launches, 5-question shuffled attempts, shared source, TTS-safe prose, Quick Read preservation, worksheet exclusion and network-first freshness.");
+console.log("PASS: final visible-deck provenance, schema, 120–160 words, 60–75 seconds, archived question banks and valid current app handoffs, shared source, TTS-safe prose, Quick Read preservation, worksheet exclusion and network-first freshness.");

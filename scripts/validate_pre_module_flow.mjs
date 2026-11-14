@@ -6,6 +6,7 @@ import { tmpdir } from "node:os";
 import path from "node:path";
 import { setTimeout as delay } from "node:timers/promises";
 import vm from "node:vm";
+import { validateRetiredActivity } from "./lib/published_activity_navigation.mjs";
 
 const root = path.resolve(import.meta.dirname, "..");
 const title = "Read This Before You Start!";
@@ -604,6 +605,21 @@ export async function validatePreModuleFlow(configuration) {
     `${label}: shared note source must contain exactly the ${codes.length} completed codes`
   );
 
+  const retiredRoutes = new Set();
+  for (const code of codes) for (const mode of modes) {
+    const route = routeFor(routePrefix, code, mode);
+    const html = await readFile(path.join(root, route, 'index.html'), 'utf8');
+    if (!html.includes('data-legacy-quiz-retired=')) continue;
+    assert.deepEqual(validateRetiredActivity(html, code, mode, root), [], route);
+    retiredRoutes.add(route);
+  }
+  if (retiredRoutes.size) {
+    console.log(`PASS ${label}: ${retiredRoutes.size} retired launches preserve matching app handoffs and native fallbacks.`);
+    if (retiredRoutes.size === codes.length * modes.length) {
+      return { passed: retiredRoutes.size, total: retiredRoutes.size };
+    }
+  }
+
   let staticServer;
   let chrome;
   const failures = [];
@@ -668,6 +684,7 @@ export async function validatePreModuleFlow(configuration) {
     ];
 
     for (const check of checks) {
+      if (retiredRoutes.has(routeFor(routePrefix, check.code, check.mode))) continue;
       try {
         if (check.label !== "desktop") {
           // Mobile checks repeat routes already exercised on desktop. Remove only

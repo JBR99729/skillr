@@ -23,7 +23,7 @@ let rendered = 0, visualCount = 0, retiredLaunches = 0;
    const route=`quiz/year-1/science/${code}/${mode}/`;
    const html=read(route+'index.html');
    const retired=html.includes('data-legacy-quiz-retired=');
-   if(retired)assert.deepEqual(validateRetiredActivity(html,code.toUpperCase(),root),[]);
+   if(retired)assert.deepEqual(validateRetiredActivity(html,code.toUpperCase(),mode,root),[]);
    const cfg=retired ? null : JSON.parse(html.match(/window.quizConfig=(\{.*?\});/s)[1]);
    const source=canonical.filter(q=>q.bank===mode);
    assert.equal(source.length,mode==='practice'?24:16);
