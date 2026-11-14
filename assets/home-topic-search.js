@@ -27,7 +27,7 @@
     });
   }
   function loadCatalogue() {
-    if (!cataloguePromise) cataloguePromise = fetch('/assets/site-search-index.json?v=20261029', {credentials:'same-origin'})
+    if (!cataloguePromise) cataloguePromise = fetch('/assets/home-topic-index.json', {credentials:'same-origin'})
       .then(function (response) { if (!response.ok) throw Error('Search unavailable'); return response.json(); })
       .then(function (payload) {
         var seen = new Set();
@@ -96,7 +96,8 @@
     if (query.length < 2 && !yearFilter.value && !subjectFilter.value) { results.hidden = true; list.replaceChildren(); return; }
     message('Finding matching topics…');
     try {
-      var data = await Promise.all([loadCatalogue(), loadBanks(), loadPaidProducts()]);
+      var products = loadPaidProducts();
+      var data = await Promise.all([loadCatalogue(), loadBanks()]);
       if (ticket !== request) return;
       var matches = data[0].filter(function (item) {
         return (!yearFilter.value || yearFilter.value === item.year) && (!subjectFilter.value || subjectFilter.value === item.subject) && matchesTopic(item, terms, code);
@@ -107,7 +108,7 @@
       var limit = yearFilter.value && subjectFilter.value ? 20 : 8;
       list.replaceChildren();
       status.textContent = matches.length ? (matches.length > limit ? 'Showing '+limit+' of '+matches.length+' matching topics. Refine your search for more.' : matches.length+' matching topic'+(matches.length === 1 ? '' : 's')+'.') : 'No matching topics. Try fewer words or a curriculum code.';
-      matches.slice(0,limit).forEach(function (match) {
+      var displayed = matches.slice(0,limit).map(function (match) {
         var item=match.item, bank=data[1].get(item.code);
         var row=document.createElement('li'), title=document.createElement('a'), meta=document.createElement('p'), actions=document.createElement('div');
         title.className='sp-result-title'; title.href=item.url; title.textContent=item.title;
@@ -115,14 +116,18 @@
         actions.className='sp-result-actions';
         if (bank?.practice) action(actions, bank.guestPractice ? 'Free practice' : 'Free practice · free account', 'https://app.skillrhub.com/?'+(bank.guestPractice ? 'try=1' : 'login=1')+'&skill='+encodeURIComponent(item.code), true);
         if (bank?.assessment) action(actions, 'Assessment', 'https://app.skillrhub.com/?assessment='+encodeURIComponent(item.code));
-        var paid = data[2].get(item.code);
-        if (paid) {
-          var paidLabel = paid.resourceType === 'bundle' ? 'Paid bundle' : 'Paid printables';
-          action(actions, paidLabel+' & preview · TpT', paid.tptUrl);
-          actions.lastElementChild.classList.add('sp-result-paid');
-        }
         title.setAttribute('aria-label', item.title+' · free topic guide');
         row.append(title,meta,actions); list.append(row);
+        return {code: item.code, actions: actions};
+      });
+      var paidProducts = await products;
+      if (ticket !== request) return;
+      displayed.forEach(function (item) {
+        var paid = paidProducts.get(item.code);
+        if (!paid) return;
+        var paidLabel = paid.resourceType === 'bundle' ? 'Paid bundle' : 'Paid printables';
+        action(item.actions, paidLabel+' & preview · TpT', paid.tptUrl);
+        item.actions.lastElementChild.classList.add('sp-result-paid');
       });
     } catch (_) { if(ticket === request) message('Search is temporarily unavailable. Use the curriculum index in the footer.'); }
   }
