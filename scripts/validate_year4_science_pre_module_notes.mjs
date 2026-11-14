@@ -2,6 +2,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import vm from "node:vm";
+import { validateRetiredActivity } from './lib/published_activity_navigation.mjs';
 
 const root = path.resolve(import.meta.dirname, "..");
 const read = (relativePath) => fs.readFileSync(path.join(root, relativePath), "utf8");
@@ -92,11 +93,14 @@ for (const code of codes) {
   for (const mode of ["practice", "test"]) {
     const route = `quiz/year-4/science/${code.toLowerCase()}/${mode}/index.html`;
     const html = read(route);
+    const isPractice = mode === "practice";
+    if (/data-legacy-quiz-retired=/.test(html)) {
+      for (const error of validateRetiredActivity(html, code, root)) assert(false, error);
+    } else {
     const configMatch = html.match(/window\.quizConfig=(\{.*?\});<\/script>/s);
     assert(configMatch, `${code} ${mode}: quiz config missing`);
     if (!configMatch) continue;
     const config = JSON.parse(configMatch[1]);
-    const isPractice = mode === "practice";
     const expectedQuestionCount = 5;
     assert(config.skillCode === code, `${code} ${mode}: skill code mismatch`);
     assert(config.preModuleNotesRequired === true, `${code} ${mode}: mandatory gate not enabled`);
@@ -109,6 +113,7 @@ for (const code of codes) {
     assert(html.indexOf("year4-science-pre-module-notes.js") < html.indexOf("/quiz/assets/script.js?v=117"), `${code} ${mode}: note source must load before engine`);
     assert(html.includes("/quiz/assets/style.css?v=115"), `${code} ${mode}: responsive style version missing`);
     assert(html.includes("pre-read-notes"), `${code} ${mode}: existing Quick Read landing was removed`);
+    }
 
     const questionFile = `quiz/year-4/science/${code.toLowerCase()}/${mode}/questions.js`;
     const questionWindow = { location:{ pathname:`/${questionFile}` } };
@@ -141,4 +146,4 @@ if (errors.length) {
 }
 console.log(`Year 4 Science pre-module notes: ${codes.length}/${codes.length} passing`);
 console.log(`Prose word counts: ${Object.entries(counts).map(([code, count]) => `${code} ${count}`).join(", ")}`);
-console.log("PASS: final visible-deck provenance, schema, 120–160 words, 60–75 seconds, mandatory live launches, 5-question shuffled attempts, shared source, TTS-safe prose, Quick Read preservation, worksheet exclusion and network-first freshness.");
+console.log("PASS: final visible-deck provenance, schema, 120–160 words, 60–75 seconds, retained question-bank integrity, safe retired redirects or mandatory active-launch notes, TTS-safe prose, worksheet exclusion and network-first freshness.");

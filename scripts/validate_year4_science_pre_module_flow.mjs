@@ -1,6 +1,9 @@
 #!/usr/bin/env node
 
 import { validatePreModuleFlow } from "./validate_pre_module_flow.mjs";
+import fs from 'node:fs';
+import path from 'node:path';
+import { validateRetiredActivity } from './lib/published_activity_navigation.mjs';
 
 const codes = [
   "AC9S4H01",
@@ -17,7 +20,17 @@ const codes = [
   "AC9S4U04"
 ];
 
-validatePreModuleFlow({
+const root = path.resolve(import.meta.dirname, '..');
+const launches = codes.flatMap(code => ['practice', 'test'].map(mode => ({
+  code, mode, html: fs.readFileSync(path.join(root, `quiz/year-4/science/${code.toLowerCase()}/${mode}/index.html`), 'utf8')
+})));
+const retired = launches.filter(launch => /data-legacy-quiz-retired=/.test(launch.html));
+if (retired.length) {
+  if (retired.length !== launches.length) throw new Error('Mixed active/retired Year 4 Science launches require an explicit flow review');
+  const errors = retired.flatMap(launch => validateRetiredActivity(launch.html, launch.code, root));
+  if (errors.length) throw new Error(errors.join('\n'));
+  console.log(`PASS: all ${retired.length} retired Practice/Test routes retain exact published redirects, HTML fallbacks, noindex and no legacy player. No old-player browser or app submission test is claimed.`);
+} else validatePreModuleFlow({
   label: "Year 4 Science",
   codes,
   noteAsset: "quiz/assets/year4-science-pre-module-notes.js",
