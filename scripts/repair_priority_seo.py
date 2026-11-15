@@ -110,10 +110,20 @@ def repair_products():
         if not target.is_file():
             continue
         before = target.read_text(); source = before
-        if old != p['description']:
-            source = source.replace(ESC(old, quote=True), ESC(p['description'], quote=True)).replace(old, p['description'])
-            # Structured data can use either literal or escaped Unicode.
-            source = source.replace(json.dumps(old)[1:-1], json.dumps(p['description'])[1:-1])
+        if p['id'] in ('tpt-18319518', 'tpt-18318601'):
+            # Assign whole fields once. Replacing a substring twice would also
+            # replace the decimal's "0 — CODE" inside the corrected sentence.
+            source = re.sub(r'(<meta\b[^>]*(?:name|property)="(?:description|og:description|twitter:description)"[^>]*content=")[^"]*(")',
+                            lambda m: m[1] + ESC(p['description'], quote=True) + m[2], source)
+            source = re.sub(r'(<h1\b[^>]*>.*?</h1>\s*<p\b[^>]*>).*?(</p>)',
+                            lambda m: m[1] + ESC(p['description']) + m[2], source, count=1, flags=re.S)
+            def product_schema(m):
+                obj = json.loads(m[2]); before_json = json.dumps(obj)
+                for node in obj.get('@graph', [obj]):
+                    if node.get('@type') == 'Product':
+                        node['description'] = p['description']
+                return m[0] if before_json == json.dumps(obj) else m[1] + json.dumps(obj, ensure_ascii=False).replace('</', '<\\/') + m[3]
+            source = re.sub(r'(<script[^>]*type="application/ld\+json"[^>]*>)(.*?)(</script>)', product_schema, source, flags=re.S)
         source = re.sub(r'<!-- priority-product-details:start -->[\s\S]*?<!-- priority-product-details:end -->', '', source)
         source = source.replace('Free learning stays free', 'Topic guides and online access')
         source = source.replace('SkillrHub’s online lessons, practice and question banks remain free.', 'Topic guides are free to read. Online practice has a free allowance; printable packs are purchased separately. See the access details in our FAQ.')

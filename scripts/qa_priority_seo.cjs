@@ -19,7 +19,11 @@ const server = spawn('python3', ['-m', 'http.server', '8768', '--bind', '127.0.0
       for (const route of ['/', '/about.html', '/faq.html', '/products/tpt-18319518/', '/products/tpt-18318601/', '/worksheets/year4/english/', '/worksheets/year4/maths/']) {
         const response = await page.goto('http://127.0.0.1:8768' + route, {waitUntil: 'domcontentloaded'});
         if (response.status() !== 200) throw Error('HTTP failure: ' + route);
-        if (await page.evaluate(() => document.documentElement.scrollWidth > innerWidth)) throw Error('Horizontal overflow: ' + width + route);
+        if (await page.evaluate(() => document.documentElement.scrollWidth > innerWidth)) {
+          console.log(await page.evaluate(() => [...document.querySelectorAll('body *')].map(el => ({tag: el.tagName, class: el.className, text: el.textContent.slice(0,80), right: el.getBoundingClientRect().right})).filter(el => el.right > innerWidth + 1).slice(0,20)));
+          await page.screenshot({path: path.join(root, 'artifacts/priority-seo', 'overflow-' + width + route.replace(/[^a-z0-9]/gi, '-') + '.png'), fullPage: true});
+          throw Error('Horizontal overflow: ' + width + route);
+        }
         if (['/', '/about.html'].includes(route)) {
           await page.locator('#online-access summary').click();
           if (!await page.locator('#online-access').innerText().then(t => t.includes('500 free questions total') && t.includes('20 practice questions each day'))) throw Error('Access details missing');

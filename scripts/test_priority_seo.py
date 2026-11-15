@@ -52,6 +52,11 @@ class PrioritySEOTests(unittest.TestCase):
             source = path.read_text(); checked += 1
             self.assertFalse(re.match(r'^0\s*[—–-]', product['description']))
             self.assertEqual(source.count('priority-product-details:start'), 1)
+            for script in re.findall(r'<script[^>]*type="application/ld\+json"[^>]*>(.*?)</script>', source, re.S):
+                obj = json.loads(script)
+                for node in obj.get('@graph', [obj]):
+                    if node.get('@type') == 'Product':
+                        self.assertEqual(node['description'], product['description'], product['id'])
             for preview in product.get('previewImages', []):
                 self.assertTrue((ROOT / preview['src'].lstrip('/')).is_file())
                 self.assertIn(preview['src'], source)
