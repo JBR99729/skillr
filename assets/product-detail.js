@@ -16,6 +16,14 @@
     if (product.curriculumPlanningNote) { const planning = el('section', '', 'curriculum-planning'); planning.setAttribute('aria-label', 'Australian curriculum planning'); planning.append(el('h2', 'Australian curriculum planning'), el('p', product.curriculumPlanningNote)); copy.append(planning); }
     const price = product.price === undefined ? 'See current price on TPT' : product.free || Number(product.price) === 0 ? 'FREE' : 'US$' + Number(product.price).toFixed(2);
     copy.append(el('p', price, 'price'));
+    const factLabels = {pages: 'Pages', slides: 'Slides', practiceQuestions: 'Practice questions', testQuestions: 'Separate test questions', answers: 'Answers', fileFormat: 'File format'};
+    const facts = Object.entries(product.verifiedListingFacts || {}).filter(([key]) => factLabels[key]);
+    if (facts.length) {
+      copy.append(el('h2', 'Inside this resource'));
+      const list = el('dl', '', 'product-facts');
+      facts.forEach(([key, value]) => { const row = el('div'); row.append(el('dt', factLabels[key]), el('dd', String(value))); list.append(row); });
+      copy.append(list);
+    }
     if (product.includes && product.includes.length) { copy.append(el('h2', 'What’s included')); const list = el('ul'); product.includes.forEach(item => list.append(el('li', item))); copy.append(list); }
     const action = el('a', product.free || Number(product.price) === 0 ? 'Download free on TPT' : 'Purchase on TPT', 'button'); action.href = product.tptUrl; action.target = '_blank'; action.rel = 'noopener noreferrer';
     copy.append(action, el('p', 'Checkout and file delivery are securely handled by Teachers Pay Teachers.', 'small'));

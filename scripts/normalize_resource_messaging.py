@@ -245,7 +245,8 @@ def transform(source, name):
         # Retain withdrawn PDF URLs for old bookmarks, but stop submitting them
         # as search destinations after removing their free-worksheet promotion.
         after = re.sub(r'(<meta\b[^>]*name=["\']robots["\'][^>]*content=["\'])[^"\']+', r'\g<1>noindex, follow', after, flags=re.I)
-    return after
+    from repair_priority_seo import repair_actions
+    return repair_actions(after, BANKS)
 
 
 def files():

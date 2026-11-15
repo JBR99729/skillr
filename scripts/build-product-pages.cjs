@@ -55,3 +55,6 @@ for (const p of products.filter(p=>p.available)) {
 }
 write('sitemap-site.xml',sitemap);
 console.log(`Rendered ${products.filter(p=>p.available).length} product pages, catalogue cards and sitemap entries.`);
+
+// Preserve verified contents and on-site previews after catalogue rebuilds.
+require('node:child_process').execFileSync('python3', [path.join(__dirname, 'repair_priority_seo.py')], {stdio: 'inherit'});

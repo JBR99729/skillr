@@ -82,7 +82,8 @@ def rewrite_html(source, relative, banks):
             return opening+label+closing
         text=ANCHOR.sub(anchor,text)
         return ATTR.sub(lambda m:m['lead']+m['q']+rewrite_url(m['url'],relative,banks)+m['q'],text)
-    return ''.join(part(p) for p in COMMENTS.split(source))
+    from repair_priority_seo import repair_actions
+    return repair_actions(''.join(part(p) for p in COMMENTS.split(source)), banks)
 
 def rewrite_json(value, banks):
     if isinstance(value, list): return [rewrite_json(v,banks) for v in value]

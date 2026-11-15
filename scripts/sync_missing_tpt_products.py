@@ -63,8 +63,8 @@ def new_record(row, units):
     assert slides or printables, ('Unknown resource format', title)
     kind = 'bundle' if bundle else 'teaching-slides' if slides else 'workbook' if 'workbook' in title.lower() else 'worksheet'
     body = text.split('Created by\nSkillrhub\n', 1)[-1].split('\n')[0]
-    sentences = re.findall(r'[^.!?]+[.!?](?:\s|$)', body)
-    description = ' '.join(x.strip() for x in sentences[:2])
+    from repair_priority_seo import listing_description
+    description = listing_description(row)
     if not description or len(description) > 600:
         description = title.split('|')[0].strip() + '. View the actual resource preview, included files and current price on Teachers Pay Teachers.'
     result = dict(id='tpt-' + row['productId'], title=title, year=year,
@@ -215,6 +215,8 @@ def main():
         report['added'] = json.loads(report_path.read_text())['added']
         report['addedIds'] = json.loads(report_path.read_text())['addedIds']
     save_json(report_path, report)
+    from repair_priority_seo import main as repair_priority_seo
+    repair_priority_seo()
     print(json.dumps({**report, 'added_this_run': len(added)}))
 
 
