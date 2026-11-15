@@ -37,4 +37,4 @@ footer{margin-top:34px;border-top:1px solid var(--ux-line);background:#fff;paddi
 
 /* Keep the native mobile menu within the header and collapse its panel fully. */
 .site-header__menu:not([open]) .site-header__menu-panel{display:none}
-@media(max-width:600px){.site-header__menu{flex:0 0 56px;width:56px;min-width:0}.site-header__menu-panel{max-width:calc(100vw - 24px)}}
+@media(max-width:600px){.site-header__nav{position:relative;padding-right:80px!important}.site-header__menu{position:absolute;right:12px;top:50%;transform:translateY(-50%);margin:0;flex:0 0 56px;width:56px;min-width:0}.site-header__menu-panel{max-width:calc(100vw - 24px)}}
