@@ -7,6 +7,7 @@ const root = path.resolve(__dirname, '..');
 const server = spawn('python3', ['-m', 'http.server', '8768', '--bind', '127.0.0.1'], {cwd: root, stdio: 'ignore'});
 (async () => {
   let browser;
+  const failures = [];
   try {
     for (let attempt = 0; attempt < 50; attempt++) {
       try {if ((await fetch('http://127.0.0.1:8768/')).ok) break;} catch {}
@@ -22,7 +23,7 @@ const server = spawn('python3', ['-m', 'http.server', '8768', '--bind', '127.0.0
         if (await page.evaluate(() => document.documentElement.scrollWidth > innerWidth)) {
           console.log(await page.evaluate(() => [...document.querySelectorAll('body *')].map(el => ({tag: el.tagName, class: el.className, text: el.textContent.slice(0,80), right: el.getBoundingClientRect().right})).filter(el => el.right > innerWidth + 1).slice(0,20)));
           await page.screenshot({path: path.join(root, 'artifacts/priority-seo', 'overflow-' + width + route.replace(/[^a-z0-9]/gi, '-') + '.png'), fullPage: true});
-          throw Error('Horizontal overflow: ' + width + route);
+          failures.push('Horizontal overflow: ' + width + route);
         }
         if (['/', '/about.html'].includes(route)) {
           await page.locator('#online-access summary').click();
@@ -41,6 +42,7 @@ const server = spawn('python3', ['-m', 'http.server', '8768', '--bind', '127.0.0
       }
       await page.close();
     }
+    if (failures.length) throw Error(failures.join('\n'));
   } finally {
     if (browser) await browser.close();
     server.kill();

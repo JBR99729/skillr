@@ -34,3 +34,7 @@ footer{margin-top:34px;border-top:1px solid var(--ux-line);background:#fff;paddi
 @media(max-width:920px){.site-header__links{display:none}.site-header__menu{display:block}.ux-years{grid-template-columns:repeat(6,1fr)}.ux-utility-grid{grid-template-columns:1fr}.ux-steps{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:760px){.home-page #free-first-highlight .ux-curriculum-head{display:block}.home-page #free-first-highlight .ux-curriculum-head p{margin-top:3px!important}.home-page #free-first-highlight .portal-product-grid{grid-template-columns:1fr!important}.home-page #free-first-highlight .portal-product-card p{white-space:normal}}
 @media(max-width:620px){.home-page .container{padding:12px 12px 24px}.ux-hero{padding:28px 0 16px}.ux-hero h1{font-size:2.1rem}.ux-start{padding:14px}.ux-years{grid-template-columns:repeat(4,1fr);gap:6px}.ux-year{min-height:46px}.ux-selected-note{display:block}.ux-selected-note a{display:inline-block;margin-top:4px}.ux-subjects{grid-template-columns:1fr}.ux-steps{grid-template-columns:1fr}.ux-panel{padding:14px}.ux-drill>*{width:100%}.ux-drill select,.ux-primary{width:100%}.site-header__nav{padding:7px 12px!important}}
+
+/* Keep the native mobile menu within the header and collapse its panel fully. */
+.site-header__menu:not([open]) .site-header__menu-panel{display:none}
+@media(max-width:600px){.site-header__menu{flex:0 0 56px;width:56px;min-width:0}.site-header__menu-panel{max-width:calc(100vw - 24px)}}
