@@ -288,3 +288,12 @@ Progress summaries support homeschool reporting to education departments and par
 ## 15. Bounded US resource discovery — 23 October 2026
 
 The owner explicitly promoted a US resources section within the existing SkillrHub website into active scope. Preserve Australia-first positioning, one brand and the existing TPT checkout. Provide a useful, indexable US landing page and additional catalogue filter. Distinguish US-labelled samples from Australian supplementary packs; do not claim complete US/Common Core coverage or a finished US question bank. Explain the organized workbook/visual-slide sequence and time-saving value for teachers, parents, tutors and homeschoolers. State that digital learning is currently free and the question bank is still developing; do not invent a release date or future pricing.
+
+
+## 16. Worksheet access and SEO copy — 15 November 2026
+
+Owner clarification: printable worksheets are paid packs; online practice is a separate pathway. Do not promote free website worksheet PDFs or an app worksheet generator. Public titles, descriptions, social previews, structured data and calls to action must match this model. Use “paid worksheets” in resource labels. Preserve existing URLs, canonical tags and indexing rules during this correction.
+
+Link a curriculum code only to an available matching printable product in the current catalogue. If none is listed, use the general paid-printable catalogue without claiming a matching pack exists. Keep actual product prices, contents and genuine separately listed TpT samples unchanged. Online practice access follows the current app and verified bank availability.
+
+After using an older public-page generator, run `python scripts/normalize_resource_messaging.py` and `python scripts/normalize_resource_messaging.py --check`. Do not restore free worksheet/PDF promises in regenerated pages.

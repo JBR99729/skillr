@@ -1,0 +1,62 @@
+name: Apply reviewed paid-worksheet copy and TpT product sync
+
+on:
+  push:
+    branches: [fix/paid-worksheets-tpt-sync-20261115]
+    paths:
+      - scripts/normalize_resource_messaging.py
+      - scripts/sync_missing_tpt_products.py
+      - scripts/refresh_resource_discovery.py
+      - scripts/validate_resource_messaging.py
+      - scripts/validate_tpt_product_sync.py
+      - data/tpt-observed-store-20261115.json
+      - .github/workflows/sync-paid-worksheets-and-tpt.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: paid-worksheets-tpt-sync-20261115
+  cancel-in-progress: false
+
+jobs:
+  apply-and-verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: fix/paid-worksheets-tpt-sync-20261115
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Apply the observed catalogue and approved resource copy
+        run: |
+          python3 scripts/sync_missing_tpt_products.py
+          python3 scripts/normalize_resource_messaging.py
+          python3 scripts/refresh_resource_discovery.py
+      - name: Verify content preservation, links, folders and unique products
+        run: |
+          python3 scripts/validate_resource_messaging.py
+          python3 scripts/validate_tpt_product_sync.py
+          python3 scripts/normalize_resource_messaging.py --check
+          git diff --check
+      - name: Preserve complete site and save the reviewed staging result
+        env:
+          BRANCH: fix/paid-worksheets-tpt-sync-20261115
+        run: |
+          set -euo pipefail
+          base=$(git rev-parse HEAD)
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- '*.html' data/print-and-go-products.json data/tpt-active-product-inventory.json docs/qa/2026-11-15-paid-worksheets-tpt-sync.json assets/site-search-index.json ai-index.json ai-international.json ai-underserved-markets.json ai-site-map.md llms.txt llms-full.txt sitemap.xml sitemap-site.xml
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'Correct paid worksheet SEO copy and add 87 verified TpT listings without duplicates'
+          node scripts/check_release_integrity.mjs "$base" HEAD
+          git fetch origin "$BRANCH"
+          test "$(git rev-parse FETCH_HEAD)" = "$base"
+          git push origin "HEAD:$BRANCH"
