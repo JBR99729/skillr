@@ -81,7 +81,10 @@ def main():
         after = (ROOT / name).read_text()
         old, new = Page(before), Page(after)
         assert old.canonical == new.canonical, ('Canonical changed', name)
-        assert old.robots == new.robots, ('Indexing directive changed', name)
+        if re.fullmatch(r'quiz/.+/(?:worksheet|homework)/index\.html', name) or name == 'year1/maths/ac9m1n03-skip-counting-and-equal-groups/quick-check/index.html':
+            assert new.robots and all('noindex' in r for r in new.robots), ('Withdrawn worksheet must not be indexed', name)
+        else:
+            assert old.robots == new.robots, ('Indexing directive changed', name)
         assert not Counter(old.ids) - Counter(new.ids), ('Authored section/element removed', name)
         assert old.scripts == new.scripts, ('Runtime or authored question data changed', name)
         assert product_nodes(old.json) == product_nodes(new.json), ('Product price/contents changed', name)
@@ -89,11 +92,21 @@ def main():
         removed = Counter(old.links) - Counter(new.links)
         added = Counter(new.links) - Counter(old.links)
         for href in removed:
+            if href == '/print-and-go.html':
+                continue  # Replaced by a newly verified exact-code product.
+            if name.startswith('year2/maths/ac9') and href and href.startswith('https://app.skillrhub.com/') and '?try=1&skill=' in href:
+                assert any(x and x.startswith(href) for x in new.links), ('Lost verified practice entrance', name)
+                continue
             assert href and re.search(r'/ac9[a-z0-9]+/(?:worksheet|homework)/(?:index\.html)?(?:[?#].*)?$', href, re.I), ('Unrelated link changed', name, href)
         for href in added:
             if href and href.startswith('https://www.teacherspayteachers.com/Product/'):
-                assert name in ('products/index.html', 'us-resources/index.html', 'teach-and-explain.html'), ('Unexpected external placement', name, href)
                 assert href in {p['tptUrl'] for p in policy.CATALOGUE}, ('Unverified product link', name, href)
+                code = policy.CODE.search(name)
+                if code:
+                    assert any(p['tptUrl'] == href and code[0].upper() in p.get('curriculumCodes', []) and p.get('hasPrintables') and not p.get('free') for p in policy.CATALOGUE), ('External worksheet belongs to another code', name, href)
+                continue
+            if href and href.startswith('/product.html?id='):
+                assert href in {p.get('url') for p in policy.CATALOGUE}, ('Unknown legacy product entry', href)
                 continue
             assert href and (href.startswith('/products/') or href == '/print-and-go.html'), ('Unexpected new destination', name, href)
             target = ROOT / href.lstrip('/')

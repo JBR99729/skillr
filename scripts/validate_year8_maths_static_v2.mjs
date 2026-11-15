@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+import { validatePaidWorksheetNavigation } from './lib/paid_worksheet_navigation.mjs';
 import fs from 'node:fs';
 import path from 'node:path';
 import { validateTopicActivities } from './lib/published_activity_navigation.mjs';
@@ -60,11 +61,12 @@ for(const item of YEAR8_MATHS_V2_MIGRATED){
   if(!html.includes(item.nsw.relationship))errors.push(`${item.code}: NSW relationship missing`);
   const resourceLabelGroups=[
     ['Teacher Slides','Classroom View'],
-    ['Homework','Practice Sheet','Worksheet']
+    ['View paid worksheets','Browse paid worksheets']
   ];
   for(const labels of resourceLabelGroups){
     if(!labels.some(label=>html.includes(`>${label}<`)))errors.push(`${item.code}: ${labels.join(' / ')} link missing`);
   }
+  errors.push(...validatePaidWorksheetNavigation(html,item.code,ROOT));
   errors.push(...validateTopicActivities(html,item.code,ROOT));
   if(!html.includes('data-report-issue')||!html.includes('/assets/report-issue.js'))errors.push(`${item.code}: Report Issue missing`);
   if(!html.includes('G-8P22BET45N'))errors.push(`${item.code}: analytics missing`);

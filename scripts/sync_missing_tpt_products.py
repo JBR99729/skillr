@@ -182,7 +182,7 @@ def link_topics(products, new_ids, units):
     if body:
         block = '<!-- skillr-us-standard-links:start --><section class="support"><h2>Resources by US topic standard</h2><p>These listings identify their US Common Core standard. Australian curriculum equivalence and matching online-practice availability are not implied.</p>' + body + '</section><!-- skillr-us-standard-links:end -->'
         source = source.replace('</main>', block + '</main>', 1); path.write_text(source)
-    return count, len(us_mapped)
+    return len(mapped), len(us_mapped)
 
 
 def main():

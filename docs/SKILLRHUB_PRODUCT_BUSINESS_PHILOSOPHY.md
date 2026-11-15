@@ -292,8 +292,10 @@ The owner explicitly promoted a US resources section within the existing SkillrH
 
 ## 16. Worksheet access and SEO copy — 15 November 2026
 
-Owner clarification: printable worksheets are paid packs; online practice is a separate pathway. Do not promote free website worksheet PDFs or an app worksheet generator. Public titles, descriptions, social previews, structured data and calls to action must match this model. Use “paid worksheets” in resource labels. Preserve existing URLs, canonical tags and indexing rules during this correction.
+Owner clarification: printable worksheets are paid packs; online practice is a separate pathway. Do not promote free website worksheet PDFs or an app worksheet generator. Public titles, descriptions, social previews, structured data and calls to action must match this model. Use “paid worksheets” in resource labels. Preserve existing URLs and canonical tags during this correction. Withdrawn free worksheet/PDF entry pages and their obsolete standalone quick check remain accessible for old bookmarks, but must be noindex and excluded from search inventories. Keep active topic guides and paid product pages indexable.
 
 Link a curriculum code only to an available matching printable product in the current catalogue. If none is listed, use the general paid-printable catalogue without claiming a matching pack exists. Keep actual product prices, contents and genuine separately listed TpT samples unchanged. Online practice access follows the current app and verified bank availability.
 
 After using an older public-page generator, run `python scripts/normalize_resource_messaging.py` and `python scripts/normalize_resource_messaging.py --check`. Do not restore free worksheet/PDF promises in regenerated pages.
+
+The owner further clarified the three existing public offerings: detailed topic explanations with examples, paid printable worksheets, and free online practice in the web app. SEO maintenance must describe and connect these existing offerings. Do not duplicate lesson content or add free worksheet previews as part of this copy correction.

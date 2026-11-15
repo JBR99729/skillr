@@ -15,7 +15,10 @@ ROOT = Path(__file__).resolve().parents[1]
 def main():
     changed = set(subprocess.check_output(['git', 'diff', 'HEAD', '--name-only', '--', '*.html'], cwd=ROOT, text=True).splitlines())
     index_path = ROOT / 'assets/site-search-index.json'
-    obj = json.loads(index_path.read_text()); items = obj['items']; seen = {x['u'] for x in items}
+    obj = json.loads(index_path.read_text()); items = obj['items']
+    items[:] = [x for x in items if not re.search(r'^/quiz/.+/(?:worksheet|homework)/(?:index\.html)?$', x['u'])]
+    items[:] = [x for x in items if x['u'] != '/year1/maths/ac9m1n03-skip-counting-and-equal-groups/quick-check/']
+    seen = {x['u'] for x in items}
     for item in items:
         if item.get('e'):
             continue
@@ -45,6 +48,18 @@ def main():
         path = ROOT / 'sitemap.xml'; source = path.read_text()
         source = re.sub(r'(<loc>https://skillrhub\.com/sitemap-site\.xml</loc>\s*<lastmod>)[^<]+', r'\g<1>2026-11-15', source)
         path.write_text(source)
+    retired_count = 0
+    for path in ROOT.glob('sitemap-*.xml'):
+        source = path.read_text()
+        def retire(m):
+            nonlocal retired_count
+            if re.search(r'<loc>https://skillrhub\.com/quiz/.+?/(?:worksheet|homework)/(?:index\.html)?</loc>', m[0]) or '<loc>https://skillrhub.com/year1/maths/ac9m1n03-skip-counting-and-equal-groups/quick-check/</loc>' in m[0]:
+                retired_count += 1
+                return ''
+            return m[0]
+        after = re.sub(r'\s*<url>[\s\S]*?</url>', retire, source)
+        if after != source:
+            path.write_text(after)
     # Published machine-readable marketing descriptions follow the same model.
     for name in ['ai-index.json', 'ai-international.json', 'ai-underserved-markets.json']:
         path = ROOT / name
@@ -59,7 +74,7 @@ def main():
         after = ''.join(part if part.startswith(('https://', 'http://')) else policy.wording(part) for part in parts)
         if source != after:
             path.write_text(after)
-    print(json.dumps({'search_entries': len(items), 'new_product_urls': len(added_urls), 'sitemap_entries_added': len(added_urls) - len(set(added_urls) & existing)}))
+    print(json.dumps({'search_entries': len(items), 'new_product_urls': len(added_urls), 'sitemap_entries_added': len(added_urls) - len(set(added_urls) & existing), 'withdrawn_worksheet_urls_removed': retired_count}))
 
 
 if __name__ == '__main__':

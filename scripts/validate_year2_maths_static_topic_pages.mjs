@@ -1,4 +1,6 @@
 #!/usr/bin/env node
+import { validatePaidWorksheetNavigation } from './lib/paid_worksheet_navigation.mjs';
+import { validateTopicActivities } from './lib/published_activity_navigation.mjs';
 import fs from 'node:fs';
 import path from 'node:path';
 
@@ -44,14 +46,22 @@ for (const unit of units) {
 
   const links = hrefs(text);
   const worksheet = `/quiz/year-2/math/${lowerCode}/worksheet/`;
-  if (!links.includes(worksheet) || !exists(routeFile(worksheet))) failures.push(`${code}: missing or broken free worksheet`);
+  failures.push(...validatePaidWorksheetNavigation(html, code, root));
   const bank = appBanks.get(code);
   if (!bank) failures.push(`${code}: missing app availability record`);
   const practice = `https://app.skillrhub.com/?${bank?.guestPractice ? 'try' : 'login'}=1&skill=${code}`;
   const assessment = `https://app.skillrhub.com/?assessment=${code}`;
   const floating = [...text.matchAll(/<a\b[^>]*\bdata-floating-practice=["']([^"']+)["'][^>]*>/gi)];
+  const matchingPractice = href => {
+    const url = new URL(href, 'https://skillrhub.com/');
+    const returnTo = url.searchParams.get('returnTo');
+    if (returnTo && (url.searchParams.getAll('returnTo').length !== 1 || returnTo !== expectedCanonical)) return false;
+    url.searchParams.delete('returnTo');
+    return url.href === practice;
+  };
+  failures.push(...validateTopicActivities(html, code, root));
   if (bank?.practice) {
-    if (floating.length !== 1 || floating[0][1] !== code || hrefs(floating[0][0])[0] !== practice) {
+    if (floating.length !== 1 || floating[0][1] !== code || !matchingPractice(hrefs(floating[0][0])[0])) {
       failures.push(`${code}: expected one floating Practice link to ${practice}`);
     }
   } else if (floating.length || links.includes(practice)) {

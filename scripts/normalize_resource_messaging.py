@@ -21,7 +21,7 @@ CATALOGUE = json.loads((ROOT / 'data/print-and-go-products.json').read_text())
 BANKS = {b['code']: b for b in json.loads((ROOT / 'data/app-question-banks.json').read_text())['codes']}
 PAID = [p for p in CATALOGUE if p.get('available') and p.get('hasPrintables')
         and not p.get('free') and str(p.get('price', '')) != '0'
-        and (ROOT / p.get('url', '').lstrip('/') / 'index.html').is_file()]
+        and p.get('tptUrl', '').startswith('https://www.teacherspayteachers.com/Product/')]
 SAMPLE_ROUTES = {p['url'].rstrip('/') + '/index.html' for p in CATALOGUE
                  if p.get('free') or str(p.get('price', '')) == '0'}
 PRODUCT_COPY = {html.unescape(p.get(k, '')).strip() for p in CATALOGUE
@@ -44,7 +44,12 @@ def pack_for(code):
 
 def pack_url(code):
     product = pack_for(code)
-    return product['url'] if product else '/print-and-go.html'
+    if not product:
+        return '/print-and-go.html'
+    local = ROOT / urlparse(product.get('url', '')).path.lstrip('/')
+    if product.get('url', '').startswith('/') and (local.is_file() or (local / 'index.html').is_file()):
+        return product['url']
+    return product['tptUrl']
 
 
 def practice_url(code):
@@ -203,6 +208,11 @@ def transform(source, name):
             code = code[0].upper()
             start = m[1][:a.start(3)] + html.escape(pack_url(code), quote=True) + m[1][a.end(3):]
             return start + ('View paid worksheets' if pack_for(code) else 'Browse paid worksheets') + m[3]
+        topic_code = CODE.search(name)
+        if href == '/print-and-go.html' and 'Browse paid worksheets' in m[2] and topic_code and pack_for(topic_code[0].upper()):
+            target = pack_url(topic_code[0].upper())
+            start = m[1][:a.start(3)] + html.escape(target, quote=True) + m[1][a.end(3):]
+            return start + 'View paid worksheets' + m[3]
         if u.path == '/worksheets/' and re.search(r'free|worksheet|homework', m[2], re.I):
             return m[1] + 'Paid worksheets' + m[3]
         return m[0]
@@ -224,8 +234,17 @@ def transform(source, name):
         after = after.replace('choose the homework sheet, topic guide, quiz, practice or test resource you need', 'choose a topic guide, online practice or an available paid worksheet pack')
     # Shared resource headings must not describe a purchase link as free.
     after = after.replace('<h2>Free resources for this topic</h2>', '<h2>Online practice and paid worksheets</h2>')
+    if name.startswith('year2/maths/ac9') and 'id="skillr-topic-practice-now"' in after:
+        # Retain the one verified floating entrance; the older shortcut creates
+        # a second competing Practice action and fails the existing layout gate.
+        after = re.sub(r'(<nav\b[^>]*class="shortcuts"[^>]*>)([\s\S]*?)(</nav>)',
+                       lambda m: m[1] + re.sub(r'<a\b[^>]*data-floating-practice=["\'][^"\']+["\'][^>]*>[\s\S]*?</a>', '', m[2]) + m[3], after)
     for i, block in enumerate(protected):
         after = after.replace(f'<!-- RESOURCE-CATALOGUE-COPY-{i} -->', block)
+    if re.fullmatch(r'quiz/.+/(?:worksheet|homework)/index\.html', name) or name == 'year1/maths/ac9m1n03-skip-counting-and-equal-groups/quick-check/index.html':
+        # Retain withdrawn PDF URLs for old bookmarks, but stop submitting them
+        # as search destinations after removing their free-worksheet promotion.
+        after = re.sub(r'(<meta\b[^>]*name=["\']robots["\'][^>]*content=["\'])[^"\']+', r'\g<1>noindex, follow', after, flags=re.I)
     return after
 
 
