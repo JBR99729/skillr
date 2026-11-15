@@ -98,10 +98,16 @@ def main() -> None:
                 f"sitemap.xml: {name} lastmod {root_mod or '[missing]'} does not match newest child URL {max(child_dates)}"
             )
 
-    if child_names != EXPECTED_CHILDREN:
+    expected_children = list(EXPECTED_CHILDREN)
+    practice_map = ROOT / "sitemap-practice.xml"
+    # Retired practice/worksheet routes must not be kept in search just to
+    # populate this map. The generator omits a child with zero indexable URLs.
+    if practice_map.is_file() and not ET.parse(practice_map).getroot().findall(f"{{{NS}}}url"):
+        expected_children.remove("sitemap-practice.xml")
+    if child_names != expected_children:
         errors.append(
             "sitemap.xml: submitted child set/order is not the crawl-priority set; "
-            f"found {child_names}, expected {EXPECTED_CHILDREN}"
+            f"found {child_names}, expected {expected_children}"
         )
 
     human = (ROOT / "sitemap.html").read_text(encoding="utf-8", errors="replace")
