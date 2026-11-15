@@ -34,3 +34,6 @@ button:hover, .button:hover { background: var(--site-primary-hover); color: whit
 .button--secondary { border-color: var(--site-line); color: var(--site-primary); background: white; }
 .button--secondary:hover { background: var(--site-soft); color: var(--site-primary); }
 .tag-chip { border-color: var(--site-line); background: var(--site-soft); color: var(--site-primary); }
+
+/* Verified product facts and actual worksheet page previews. */
+.product-facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin:18px 0}.product-facts>div{border:1px solid var(--site-line);border-radius:8px;padding:12px}.product-facts dt{font-size:14px;color:var(--site-muted)}.product-facts dd{margin:4px 0 0;font-weight:700}.product-page-previews{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}.product-page-previews figure{margin:0;min-width:0}.product-page-previews img{display:block;width:100%;height:auto;border:1px solid var(--site-line)}.product-page-previews figcaption{font-size:13px;margin-top:8px}.product-page-previews a:focus-visible{outline:3px solid var(--site-primary);outline-offset:3px}@media(max-width:600px){.product-page-previews{grid-template-columns:1fr}.product-page-previews figure{max-width:420px}.product-facts{grid-template-columns:repeat(2,minmax(0,1fr))}}

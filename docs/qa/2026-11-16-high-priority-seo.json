@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-16",
+  "scope": "High-priority public website SEO audit repairs",
+  "productPages": 301,
+  "worksheetHubs": 33,
+  "actualWorksheetPreviews": {
+    "tpt-18319518": {
+      "pages": [
+        5,
+        8,
+        20
+      ],
+      "sourcePages": 80
+    },
+    "tpt-18318601": {
+      "pages": [
+        5,
+        8,
+        20
+      ],
+      "sourcePages": 109
+    }
+  },
+  "checks": {
+    "parser_and_availability_and_offer_regressions": "4 passed",
+    "legacy_route_regressions": "5 passed",
+    "paid_worksheet_navigation": "4 passed",
+    "catalogue_sync": "passed: 637 observed listings, no duplicates",
+    "discovery_navigation": "passed: 676 lessons, zero errors",
+    "resource_copy_normalizer": "passed: zero further changes",
+    "mobile_and_desktop_render": "Run in Priority SEO repairs CI; local Chromium is unavailable under this execution environment"
+  },
+  "preserved": [
+    "CNAME",
+    "canonical URLs",
+    "curriculum lesson content",
+    "product prices",
+    "TpT destinations",
+    "question banks",
+    "account and learner selection behavior"
+  ],
+  "previewSourceSHA256": {
+    "AC9M4P01": "98f93de176c182bc4e2c820baf914136dab3eb49e3717aa67765d95b119053d8",
+    "AC9M4ST03": "e35ede97ecbb1840dae63b0920734a32b425631aa0f154059195f9f5a23c9365"
+  }
+}

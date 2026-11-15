@@ -1,0 +1,42 @@
+name: Priority SEO repairs
+on:
+  push:
+    branches: [fix/high-priority-seo-20261116]
+  pull_request:
+    branches: [main]
+    paths:
+      - scripts/repair_priority_seo.py
+      - scripts/test_priority_seo.py
+      - scripts/qa_priority_seo.cjs
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: |
+          python scripts/test_priority_seo.py
+          python scripts/test_retire_legacy_quiz_routes.py
+          python scripts/validate_tpt_product_sync.py
+          python scripts/validate_discovery_navigation.py
+          python scripts/normalize_resource_messaging.py --check
+          node --test scripts/tests/test_paid_worksheet_navigation.mjs
+          git diff --check
+      - run: npm ci
+      - run: npx playwright install --with-deps chromium
+      - run: node scripts/qa_priority_seo.cjs
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: priority-seo-visual-checks
+          path: artifacts/priority-seo/

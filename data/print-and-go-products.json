@@ -33,7 +33,10 @@
     "hasSlides": true,
     "hasPrintables": false,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "slides": 36
+    }
   },
   {
     "id": "tpt-17970718",
@@ -70,7 +73,10 @@
     "hasSlides": true,
     "hasPrintables": false,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "slides": 50
+    }
   },
   {
     "id": "tpt-17979605",
@@ -106,7 +112,10 @@
     "hasSlides": true,
     "hasPrintables": false,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "slides": 50
+    }
   },
   {
     "id": "tpt-17980541",
@@ -142,7 +151,10 @@
     "hasSlides": true,
     "hasPrintables": false,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "slides": 80
+    }
   },
   {
     "id": "tpt-17981819",
@@ -177,7 +189,10 @@
     "hasSlides": true,
     "hasPrintables": false,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "slides": 77
+    }
   },
   {
     "id": "tpt-17968975",
@@ -212,7 +227,10 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 60
+    }
   },
   {
     "id": "tpt-17970513",
@@ -248,7 +266,10 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 64
+    }
   },
   {
     "id": "tpt-17972117",
@@ -282,7 +303,10 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 62
+    }
   },
   {
     "id": "tpt-17980957",
@@ -317,7 +341,10 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 52
+    }
   },
   {
     "id": "tpt-17967143",
@@ -368,7 +395,12 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 39,
+      "practiceQuestions": 30,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-17959670",
@@ -420,7 +452,12 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 38,
+      "practiceQuestions": 30,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-17959347",
@@ -472,7 +509,10 @@
     "hasSlides": true,
     "hasPrintables": false,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "slides": 31
+    }
   },
   {
     "id": "tpt-17957743",
@@ -531,7 +571,8 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17957722",
@@ -584,7 +625,11 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "practiceQuestions": 120,
+      "testQuestions": 45
+    }
   },
   {
     "id": "tpt-17957691",
@@ -636,7 +681,11 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "practiceQuestions": 130,
+      "testQuestions": 45
+    }
   },
   {
     "id": "tpt-17957665",
@@ -688,7 +737,11 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "practiceQuestions": 150,
+      "testQuestions": 45
+    }
   },
   {
     "id": "tpt-17957150",
@@ -737,7 +790,12 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 67,
+      "practiceQuestions": 40,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-17955316",
@@ -786,7 +844,12 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 62,
+      "practiceQuestions": 40,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-17954204",
@@ -835,7 +898,12 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 54,
+      "practiceQuestions": 40,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-17953660",
@@ -883,7 +951,12 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 41,
+      "practiceQuestions": 30,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-17947772",
@@ -926,7 +999,8 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17943670",
@@ -977,7 +1051,12 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 58,
+      "practiceQuestions": 60,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-17936226",
@@ -1025,7 +1104,12 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 44,
+      "practiceQuestions": 30,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-17915056",
@@ -1074,7 +1158,12 @@
     "hasSlides": true,
     "hasPrintables": false,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 72,
+      "practiceQuestions": 50,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-17915083",
@@ -1123,7 +1212,12 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 26,
+      "practiceQuestions": 20,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-17912990",
@@ -1162,7 +1256,13 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 37,
+      "practiceQuestions": 50,
+      "testQuestions": 15,
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "tpt-17913187",
@@ -1199,7 +1299,10 @@
     "hasSlides": true,
     "hasPrintables": false,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "slides": 40
+    }
   },
   {
     "id": "tpt-17911863",
@@ -1257,7 +1360,13 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 71,
+      "slides": 8,
+      "practiceQuestions": 50,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-17910617",
@@ -1310,7 +1419,13 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 75,
+      "practiceQuestions": 60,
+      "testQuestions": 15,
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "year-1-english-likes-dislikes-preferences-worksheets",
@@ -1361,7 +1476,12 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 48,
+      "practiceQuestions": 60,
+      "testQuestions": 15
+    }
   },
   {
     "id": "year-1-english-words-faces-gestures-worksheets",
@@ -1407,7 +1527,11 @@
     "curriculumPlanningNote": "Australian primary teachers can use this Australian Curriculum v9 (ACARA) Year 1 English resource for local planning, including NSW teachers using the NSW Curriculum / NSW English Syllabus (NESA Stage 1) and Victorian teachers using Victorian Curriculum 2.0 English (VCAA Level 1). Retain the listed AC9 code as the curriculum reference. Check the relevant local syllabus content and achievement standards when selecting activities; this planning guidance does not establish a code-by-code equivalence.",
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "pages": 49,
+      "practiceQuestions": 10
+    }
   },
   {
     "id": "year-1-science-data-patterns-worksheets",
@@ -1451,7 +1575,8 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {}
   },
   {
     "id": "year-1-science-fair-tests-comparing-results-worksheets",
@@ -1496,7 +1621,8 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {}
   },
   {
     "id": "year-1-observations-informal-measurement-worksheets",
@@ -1540,7 +1666,11 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "pages": 50,
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "year-1-safe-science-investigations-worksheets",
@@ -1584,7 +1714,10 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "pages": 49
+    }
   },
   {
     "id": "year-1-science-questions-predictions-worksheets",
@@ -1628,7 +1761,12 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "pages": 49,
+      "answers": "Answer keys included",
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "year-1-science-everyday-life-worksheets",
@@ -1671,7 +1809,12 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "pages": 49,
+      "practiceQuestions": 60,
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "year-1-pushes-pulls-worksheets",
@@ -1715,7 +1858,11 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "pages": 49,
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "year-1-weather-seasons-worksheets",
@@ -1759,7 +1906,10 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "practiceQuestions": 62
+    }
   },
   {
     "id": "year-1-maths-number-worksheet-bundle",
@@ -1805,7 +1955,11 @@
     "isBundle": true,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "practiceQuestions": 360,
+      "testQuestions": 96
+    }
   },
   {
     "id": "year-1-maths-algebra-worksheet-bundle",
@@ -1851,7 +2005,13 @@
     "isBundle": true,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "practiceQuestions": 120,
+      "testQuestions": 32,
+      "answers": "Answer keys included",
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "year-1-maths-measurement-worksheet-bundle",
@@ -1896,7 +2056,13 @@
     "isBundle": true,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "practiceQuestions": 180,
+      "testQuestions": 48,
+      "answers": "Answer keys included",
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "year-1-maths-space-worksheet-bundle",
@@ -1942,7 +2108,13 @@
     "isBundle": true,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "practiceQuestions": 120,
+      "testQuestions": 32,
+      "answers": "Answer keys included",
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "year-1-maths-statistics-worksheet-bundle",
@@ -1987,7 +2159,13 @@
     "isBundle": true,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "practiceQuestions": 120,
+      "testQuestions": 36,
+      "answers": "Answer keys included",
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "year-1-maths-full-year-worksheet-bundle",
@@ -2049,7 +2227,11 @@
     "isBundle": true,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "practiceQuestions": 900,
+      "testQuestions": 244
+    }
   },
   {
     "id": "year-1-maths-term-1-worksheet-bundle",
@@ -2101,7 +2283,12 @@
     "isBundle": true,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "practiceQuestions": 240,
+      "testQuestions": 64,
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "year-1-maths-term-2-worksheet-bundle",
@@ -2152,7 +2339,12 @@
     "isBundle": true,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "practiceQuestions": 240,
+      "testQuestions": 64,
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "year-1-maths-term-3-worksheet-bundle",
@@ -2204,7 +2396,12 @@
     "isBundle": true,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "practiceQuestions": 240,
+      "testQuestions": 64,
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "year-1-maths-term-4-worksheet-bundle",
@@ -2255,7 +2452,12 @@
     "isBundle": true,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "practiceQuestions": 180,
+      "testQuestions": 52,
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "year-5-decimals-teaching-worksheet-pack",
@@ -2299,7 +2501,11 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "pages": 60,
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "year-1-plants-animals-needs",
@@ -2344,7 +2550,13 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "pages": 53,
+      "practiceQuestions": 60,
+      "testQuestions": 20,
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "year-1-pictographs-data-displays",
@@ -2377,7 +2589,13 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "pages": 58,
+      "practiceQuestions": 60,
+      "testQuestions": 20,
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "year-1-collecting-recording-data",
@@ -2411,7 +2629,12 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "practiceQuestions": 60,
+      "testQuestions": 16,
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "year-1-give-follow-directions",
@@ -2444,7 +2667,13 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "pages": 49,
+      "practiceQuestions": 60,
+      "testQuestions": 16,
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "year-1-shapes-objects",
@@ -2478,7 +2707,13 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "pages": 47,
+      "practiceQuestions": 60,
+      "testQuestions": 16,
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "year-1-time-duration",
@@ -2512,7 +2747,12 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "pages": 42,
+      "practiceQuestions": 60,
+      "testQuestions": 16
+    }
   },
   {
     "id": "year-1-measuring-length",
@@ -2546,7 +2786,12 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "pages": 42,
+      "practiceQuestions": 60,
+      "testQuestions": 16
+    }
   },
   {
     "id": "year-1-comparing-measurements",
@@ -2580,7 +2825,11 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "pages": 44,
+      "practiceQuestions": 60
+    }
   },
   {
     "id": "year-1-repeating-patterns",
@@ -2614,7 +2863,11 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "pages": 48,
+      "practiceQuestions": 60
+    }
   },
   {
     "id": "year-1-skip-counting-patterns",
@@ -2648,7 +2901,12 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "pages": 41,
+      "practiceQuestions": 60,
+      "testQuestions": 16
+    }
   },
   {
     "id": "year-1-equal-sharing-grouping",
@@ -2684,7 +2942,13 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "pages": 43,
+      "practiceQuestions": 60,
+      "testQuestions": 16,
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "year-1-word-problems-money",
@@ -2720,7 +2984,13 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "pages": 46,
+      "practiceQuestions": 60,
+      "testQuestions": 16,
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "year-1-addition-subtraction-to-20",
@@ -2755,7 +3025,13 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "pages": 46,
+      "practiceQuestions": 60,
+      "testQuestions": 16,
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "year-1-equal-groups-skip-counting",
@@ -2792,7 +3068,13 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "pages": 40,
+      "practiceQuestions": 60,
+      "testQuestions": 16,
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "year-1-place-value-number-partitioning",
@@ -2829,7 +3111,13 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "pages": 38,
+      "practiceQuestions": 60,
+      "testQuestions": 16,
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "year-1-maths-practice-assessment",
@@ -2864,7 +3152,10 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "year-2-maths-workbook",
@@ -2930,7 +3221,8 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {}
   },
   {
     "id": "year-1-science-inquiry-part-2",
@@ -2965,7 +3257,8 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {}
   },
   {
     "id": "year-1-science-earth-space",
@@ -3000,7 +3293,8 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {}
   },
   {
     "id": "year-1-science-physical",
@@ -3035,7 +3329,8 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {}
   },
   {
     "id": "year-1-science-human-endeavour",
@@ -3070,7 +3365,8 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {}
   },
   {
     "id": "year-1-biological-sciences-free",
@@ -3106,7 +3402,8 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {}
   },
   {
     "id": "year-2-numbers-1000-free",
@@ -3141,7 +3438,8 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {}
   },
   {
     "id": "year-3-telling-time-free",
@@ -3176,7 +3474,8 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {}
   },
   {
     "id": "year-4-fractions-free",
@@ -3212,7 +3511,10 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "year-5-decimals-free",
@@ -3245,7 +3547,8 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {}
   },
   {
     "id": "year-3-time-slides-60",
@@ -3288,7 +3591,11 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 12,
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "year-3-time-slides",
@@ -3330,7 +3637,11 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 12,
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "year-3-time-slides-sample",
@@ -3374,7 +3685,10 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 12
+    }
   },
   {
     "id": "year-3-time-practice",
@@ -3409,7 +3723,10 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "year-3-time-duration-free",
@@ -3445,7 +3762,8 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {}
   },
   {
     "id": "year-3-multiplication-division-workbook",
@@ -3490,7 +3808,11 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "pages": 70,
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "year-3-multiplication-division-slides",
@@ -3537,7 +3859,8 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {}
   },
   {
     "id": "year-3-fractions-workbook",
@@ -3580,7 +3903,10 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "year-3-fractions-slides",
@@ -3633,7 +3959,10 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 30
+    }
   },
   {
     "id": "year-1-ac9m1n05-slides",
@@ -3674,7 +4003,8 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {}
   },
   {
     "id": "year-1-ac9m1n06-slides",
@@ -3716,7 +4046,10 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 30
+    }
   },
   {
     "id": "tpt-17710509",
@@ -3760,7 +4093,8 @@
     "tptObservedAt": "2026-11-03",
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17684936",
@@ -3803,7 +4137,8 @@
     "tptObservedAt": "2026-11-03",
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17679159",
@@ -3847,7 +4182,8 @@
     "tptObservedAt": "2026-11-03",
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17678987",
@@ -3891,7 +4227,8 @@
     "tptObservedAt": "2026-11-03",
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17678407",
@@ -3934,7 +4271,8 @@
     "tptObservedAt": "2026-11-03",
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17677514",
@@ -3977,7 +4315,8 @@
     "tptObservedAt": "2026-11-03",
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17676771",
@@ -4019,7 +4358,8 @@
     "tptObservedAt": "2026-11-03",
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17669944",
@@ -4062,7 +4402,8 @@
     "curriculumPlanningNote": "Australian primary teachers can use this Australian Curriculum v9 (ACARA) Year 1 Mathematics resource for local planning, including NSW teachers using the NSW Curriculum / NSW Mathematics Syllabus (NESA Stage 1) and Victorian teachers using Victorian Curriculum 2.0 Mathematics (VCAA Level 1). Retain the listed AC9 code as the curriculum reference. Check the relevant local syllabus content and achievement standards when selecting activities; this planning guidance does not establish a code-by-code equivalence.",
     "hasSlides": true,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17669505",
@@ -4107,7 +4448,8 @@
     "curriculumPlanningNote": "Australian primary teachers can use this Australian Curriculum v9 (ACARA) Year 1 Mathematics resource for local planning, including NSW teachers using the NSW Curriculum / NSW Mathematics Syllabus (NESA Stage 1) and Victorian teachers using Victorian Curriculum 2.0 Mathematics (VCAA Level 1). Retain the listed AC9 code as the curriculum reference. Check the relevant local syllabus content and achievement standards when selecting activities; this planning guidance does not establish a code-by-code equivalence.",
     "hasSlides": true,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17669357",
@@ -4151,7 +4493,8 @@
     "curriculumPlanningNote": "Australian primary teachers can use this Australian Curriculum v9 (ACARA) Year 1 Mathematics resource for local planning, including NSW teachers using the NSW Curriculum / NSW Mathematics Syllabus (NESA Stage 1) and Victorian teachers using Victorian Curriculum 2.0 Mathematics (VCAA Level 1). Retain the listed AC9 code as the curriculum reference. Check the relevant local syllabus content and achievement standards when selecting activities; this planning guidance does not establish a code-by-code equivalence.",
     "hasSlides": true,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17669472",
@@ -4198,7 +4541,8 @@
     "curriculumPlanningNote": "Australian primary teachers can use this Australian Curriculum v9 (ACARA) Year 1 Mathematics resource for local planning, including NSW teachers using the NSW Curriculum / NSW Mathematics Syllabus (NESA Stage 1) and Victorian teachers using Victorian Curriculum 2.0 Mathematics (VCAA Level 1). Retain the listed AC9 code as the curriculum reference. Check the relevant local syllabus content and achievement standards when selecting activities; this planning guidance does not establish a code-by-code equivalence.",
     "hasSlides": true,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17620166",
@@ -4237,7 +4581,8 @@
     "curriculumPlanningNote": "Australian primary teachers can use this Australian Curriculum v9 (ACARA) Year 2 Mathematics resource for local planning, including NSW teachers using the NSW Curriculum / NSW Mathematics Syllabus (NESA Stage 1) and Victorian teachers using Victorian Curriculum 2.0 Mathematics (VCAA Level 2). Retain the listed AC9 code as the curriculum reference. Check the relevant local syllabus content and achievement standards when selecting activities; this planning guidance does not establish a code-by-code equivalence.",
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "us"
+    "market": "us",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17670322",
@@ -4272,7 +4617,10 @@
     "curriculumPlanningNote": "Australian primary teachers can use this Australian Curriculum v9 (ACARA) Year 6 Mathematics resource for local planning, including NSW teachers using the NSW Curriculum / NSW Mathematics Syllabus (NESA Stage 3) and Victorian teachers using Victorian Curriculum 2.0 Mathematics (VCAA Level 6). Retain the listed AC9 code as the curriculum reference. Check the relevant local syllabus content and achievement standards when selecting activities; this planning guidance does not establish a code-by-code equivalence.",
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "tpt-17620155",
@@ -4310,7 +4658,8 @@
     "curriculumPlanningNote": "Australian primary teachers can use this Australian Curriculum v9 (ACARA) Year 1 Mathematics resource for local planning, including NSW teachers using the NSW Curriculum / NSW Mathematics Syllabus (NESA Stage 1) and Victorian teachers using Victorian Curriculum 2.0 Mathematics (VCAA Level 1). Retain the listed AC9 code as the curriculum reference. Check the relevant local syllabus content and achievement standards when selecting activities; this planning guidance does not establish a code-by-code equivalence.",
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "us"
+    "market": "us",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17620145",
@@ -4348,7 +4697,10 @@
     "curriculumPlanningNote": "Australian primary teachers can use this Australian Curriculum v9 (ACARA) Foundation Mathematics resource for local planning, including NSW teachers using the NSW Curriculum / NSW Mathematics Syllabus (NESA Early Stage 1) and Victorian teachers using Victorian Curriculum 2.0 Mathematics (VCAA Foundation). Retain the listed AC9 code as the curriculum reference. Check the relevant local syllabus content and achievement standards when selecting activities; this planning guidance does not establish a code-by-code equivalence.",
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "us"
+    "market": "us",
+    "verifiedListingFacts": {
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "tpt-17719151",
@@ -4392,7 +4744,8 @@
     "tptObservedAt": "2026-11-03",
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17718482",
@@ -4435,7 +4788,8 @@
     "tptObservedAt": "2026-11-03",
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17718181",
@@ -4479,7 +4833,8 @@
     "tptObservedAt": "2026-11-03",
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17717457",
@@ -4523,7 +4878,8 @@
     "tptObservedAt": "2026-11-03",
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17716709",
@@ -4567,7 +4923,8 @@
     "tptObservedAt": "2026-11-03",
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17710715",
@@ -4611,7 +4968,8 @@
     "tptObservedAt": "2026-11-03",
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17720276",
@@ -4652,7 +5010,10 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 202
+    }
   },
   {
     "id": "tpt-17792767",
@@ -4691,7 +5052,8 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17856838",
@@ -4733,7 +5095,10 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 138
+    }
   },
   {
     "id": "tpt-17842866",
@@ -4774,7 +5139,11 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 76,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-17842475",
@@ -4815,7 +5184,11 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 81,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-17842350",
@@ -4856,7 +5229,11 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 85,
+      "practiceQuestions": 60
+    }
   },
   {
     "id": "tpt-17678421",
@@ -4894,7 +5271,8 @@
     "isBundle": true,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17813656",
@@ -4936,7 +5314,12 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 136,
+      "practiceQuestions": 10,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-17811158",
@@ -4977,7 +5360,10 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "tpt-17812573",
@@ -5018,7 +5404,12 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 103,
+      "testQuestions": 15,
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "tpt-17812026",
@@ -5059,7 +5450,11 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 103,
+      "testQuestions": 18
+    }
   },
   {
     "id": "tpt-17811759",
@@ -5099,7 +5494,11 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 103,
+      "testQuestions": 18
+    }
   },
   {
     "id": "tpt-17811456",
@@ -5141,7 +5540,11 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 103,
+      "testQuestions": 18
+    }
   },
   {
     "id": "tpt-17793696",
@@ -5181,7 +5584,10 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 136
+    }
   },
   {
     "id": "tpt-17803594",
@@ -5221,7 +5627,10 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 104
+    }
   },
   {
     "id": "tpt-17793855",
@@ -5261,7 +5670,10 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 102
+    }
   },
   {
     "id": "tpt-17792524",
@@ -5301,7 +5713,10 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 121
+    }
   },
   {
     "id": "tpt-17728279",
@@ -5343,7 +5758,10 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 74
+    }
   },
   {
     "id": "tpt-17727914",
@@ -5383,7 +5801,10 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 82
+    }
   },
   {
     "id": "tpt-17844340",
@@ -5424,7 +5845,11 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 75,
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "tpt-17843715",
@@ -5464,7 +5889,11 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 58,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-17843349",
@@ -5504,7 +5933,12 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 73,
+      "testQuestions": 15,
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "tpt-17840189",
@@ -5546,7 +5980,12 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 59,
+      "practiceQuestions": 60,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-17804874",
@@ -5586,7 +6025,10 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 103
+    }
   },
   {
     "id": "tpt-17804595",
@@ -5628,7 +6070,11 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 102,
+      "testQuestions": 18
+    }
   },
   {
     "id": "tpt-17810632",
@@ -5669,7 +6115,11 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 103,
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "tpt-17804195",
@@ -5711,7 +6161,11 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 102,
+      "testQuestions": 18
+    }
   },
   {
     "id": "tpt-17803723",
@@ -5752,7 +6206,12 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 104,
+      "testQuestions": 18,
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "tpt-17802766",
@@ -5794,7 +6253,11 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 102,
+      "testQuestions": 18
+    }
   },
   {
     "id": "tpt-17802130",
@@ -5836,7 +6299,11 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 20,
+      "testQuestions": 18
+    }
   },
   {
     "id": "tpt-17795150",
@@ -5877,7 +6344,11 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 88,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-17730055",
@@ -5918,7 +6389,10 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 81
+    }
   },
   {
     "id": "tpt-17729544",
@@ -5959,7 +6433,10 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 81
+    }
   },
   {
     "id": "tpt-17728068",
@@ -5999,7 +6476,10 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 70
+    }
   },
   {
     "id": "tpt-17795280",
@@ -6039,7 +6519,10 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 82
+    }
   },
   {
     "id": "tpt-17794756",
@@ -6078,7 +6561,11 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 82,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-17794632",
@@ -6118,7 +6605,11 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 76,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-17794524",
@@ -6159,7 +6650,10 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 78
+    }
   },
   {
     "id": "tpt-17791625",
@@ -6200,7 +6694,8 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17745803",
@@ -6240,7 +6735,10 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 56
+    }
   },
   {
     "id": "tpt-17743951",
@@ -6280,7 +6778,10 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 63
+    }
   },
   {
     "id": "tpt-17746391",
@@ -6319,7 +6820,8 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17746230",
@@ -6358,7 +6860,10 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 66
+    }
   },
   {
     "id": "tpt-17746080",
@@ -6399,7 +6904,10 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 56
+    }
   },
   {
     "id": "tpt-17745451",
@@ -6438,7 +6946,10 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 66
+    }
   },
   {
     "id": "tpt-17745214",
@@ -6477,7 +6988,8 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17744877",
@@ -6517,7 +7029,10 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 62
+    }
   },
   {
     "id": "tpt-17744721",
@@ -6557,7 +7072,10 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 62
+    }
   },
   {
     "id": "tpt-17744486",
@@ -6597,7 +7115,10 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 62
+    }
   },
   {
     "id": "tpt-17737649",
@@ -6637,7 +7158,10 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 56
+    }
   },
   {
     "id": "tpt-17737193",
@@ -6677,7 +7201,10 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 59
+    }
   },
   {
     "id": "tpt-17737053",
@@ -6717,7 +7244,10 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 59
+    }
   },
   {
     "id": "tpt-17736971",
@@ -6758,7 +7288,10 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 59
+    }
   },
   {
     "id": "tpt-17736411",
@@ -6798,7 +7331,10 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 56
+    }
   },
   {
     "id": "tpt-17737657",
@@ -6838,7 +7374,10 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 56
+    }
   },
   {
     "id": "tpt-17737343",
@@ -6878,7 +7417,10 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 58
+    }
   },
   {
     "id": "tpt-17736863",
@@ -6918,7 +7460,10 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 60
+    }
   },
   {
     "id": "tpt-17864634",
@@ -6952,7 +7497,12 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "pages": 40,
+      "practiceQuestions": 60,
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "tpt-17839947",
@@ -6986,7 +7536,13 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "pages": 19,
+      "practiceQuestions": 60,
+      "answers": "Answer keys included",
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-17594471",
@@ -7032,7 +7588,8 @@
       "Unit fractions and their multiples, collections, lengths, fraction strips and number lines",
       "Focused on AC9M3N02; not a complete Year 3 mathematics program",
       "Both resources are also sold individually; check previous purchases to avoid duplicates"
-    ]
+    ],
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17594338",
@@ -7079,7 +7636,10 @@
       "Does not teach 6, 7, 8 and 9 times tables as primary units or word problems involving remainders",
       "Preview and purchase available on TPT",
       "These two resources are also sold individually; check previous purchases to avoid duplicates"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "tpt-17593227",
@@ -7117,7 +7677,8 @@
     "isBundle": true,
     "hasSlides": true,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17745962",
@@ -7157,7 +7718,10 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "slides": 61
+    }
   },
   {
     "id": "tpt-17728088",
@@ -7197,7 +7761,8 @@
     "isBundle": false,
     "hasSlides": true,
     "hasPrintables": false,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17881935",
@@ -7232,7 +7797,10 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "pages": 12
+    }
   },
   {
     "id": "tpt-17881918",
@@ -7266,7 +7834,10 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "pages": 12
+    }
   },
   {
     "id": "tpt-17881902",
@@ -7300,7 +7871,10 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "pages": 12
+    }
   },
   {
     "id": "tpt-17881887",
@@ -7336,7 +7910,10 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "pages": 11
+    }
   },
   {
     "id": "tpt-17881860",
@@ -7372,7 +7949,10 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "pages": 14
+    }
   },
   {
     "id": "tpt-17881847",
@@ -7407,7 +7987,10 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "pages": 10
+    }
   },
   {
     "id": "tpt-17881728",
@@ -7443,7 +8026,8 @@
     "isBundle": true,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17881716",
@@ -7483,7 +8067,8 @@
     "isBundle": true,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17881706",
@@ -7524,7 +8109,8 @@
     "isBundle": true,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17881702",
@@ -7563,7 +8149,8 @@
     "isBundle": true,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17881694",
@@ -7604,7 +8191,8 @@
     "isBundle": true,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17881671",
@@ -7652,7 +8240,8 @@
     "isBundle": true,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17881669",
@@ -7694,7 +8283,8 @@
     "isBundle": true,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17881633",
@@ -7727,7 +8317,12 @@
     "isBundle": false,
     "hasSlides": false,
     "hasPrintables": true,
-    "market": "au"
+    "market": "au",
+    "verifiedListingFacts": {
+      "pages": 52,
+      "practiceQuestions": 60,
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "year-1-english-text-purpose-structure-worksheets",
@@ -7781,7 +8376,12 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 58,
+      "practiceQuestions": 60,
+      "testQuestions": 15
+    }
   },
   {
     "id": "year-1-english-rhyme-rhythm-repetition-worksheets",
@@ -7836,7 +8436,12 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 61,
+      "practiceQuestions": 60,
+      "testQuestions": 15
+    }
   },
   {
     "id": "year-1-english-print-digital-text-features-worksheets",
@@ -7893,7 +8498,12 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 59,
+      "practiceQuestions": 60,
+      "testQuestions": 15
+    }
   },
   {
     "id": "year-1-english-simple-sentence-worksheets",
@@ -7945,7 +8555,12 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 59,
+      "practiceQuestions": 60,
+      "testQuestions": 15
+    }
   },
   {
     "id": "year-1-grammar-worksheets-parts-of-speech",
@@ -8001,7 +8616,12 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 59,
+      "practiceQuestions": 60,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-17892705",
@@ -8048,7 +8668,12 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 64,
+      "practiceQuestions": 60,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-17892724",
@@ -8095,7 +8720,12 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 62,
+      "practiceQuestions": 60,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-17893030",
@@ -8145,7 +8775,13 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "practiceQuestions": 60,
+      "pages": 71,
+      "testQuestions": 15,
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "tpt-17893389",
@@ -8193,7 +8829,12 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 76,
+      "practiceQuestions": 60,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-17901544",
@@ -8245,7 +8886,13 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "practiceQuestions": 60,
+      "testQuestions": 15,
+      "pages": 76,
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-17901393",
@@ -8296,7 +8943,13 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "practiceQuestions": 60,
+      "testQuestions": 15,
+      "pages": 77,
+      "fileFormat": "PDF"
+    }
   },
   {
     "year": 1,
@@ -8345,7 +8998,12 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 75,
+      "practiceQuestions": 60,
+      "testQuestions": 15
+    }
   },
   {
     "year": 1,
@@ -8398,7 +9056,12 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 375,
+      "practiceQuestions": 300,
+      "testQuestions": 75
+    }
   },
   {
     "id": "tpt-17902653",
@@ -8451,7 +9114,13 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "practiceQuestions": 60,
+      "pages": 67,
+      "testQuestions": 15,
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-17903608",
@@ -8506,7 +9175,12 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "practiceQuestions": 60,
+      "pages": 74,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-17913803",
@@ -8555,7 +9229,12 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 53,
+      "practiceQuestions": 50,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-17982037",
@@ -8589,7 +9268,12 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 66,
+      "practiceQuestions": 60,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-17983112",
@@ -8623,7 +9307,10 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 66
+    }
   },
   {
     "id": "tpt-17989593",
@@ -8656,7 +9343,12 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 58,
+      "practiceQuestions": 60,
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "tpt-17990357",
@@ -8691,7 +9383,10 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 44
+    }
   },
   {
     "id": "tpt-17991230",
@@ -8725,7 +9420,10 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 53
+    }
   },
   {
     "id": "tpt-17991816",
@@ -8758,7 +9456,11 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 48,
+      "practiceQuestions": 60
+    }
   },
   {
     "id": "tpt-17992207",
@@ -8792,7 +9494,10 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 65
+    }
   },
   {
     "id": "tpt-17992656",
@@ -8827,7 +9532,11 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 69,
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "tpt-17992853",
@@ -8862,7 +9571,11 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 56,
+      "practiceQuestions": 60
+    }
   },
   {
     "id": "tpt-17992921",
@@ -8897,7 +9610,12 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 61,
+      "practiceQuestions": 60,
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "tpt-17993326",
@@ -8930,7 +9648,12 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 51,
+      "practiceQuestions": 60,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-17982339",
@@ -8964,7 +9687,10 @@
     "hasSlides": true,
     "hasPrintables": false,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "slides": 50
+    }
   },
   {
     "id": "tpt-17989547",
@@ -8998,7 +9724,10 @@
     "hasSlides": true,
     "hasPrintables": false,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "slides": 76
+    }
   },
   {
     "id": "tpt-17990874",
@@ -9032,7 +9761,10 @@
     "hasSlides": true,
     "hasPrintables": false,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "slides": 74
+    }
   },
   {
     "id": "tpt-17991721",
@@ -9067,7 +9799,10 @@
     "hasSlides": true,
     "hasPrintables": false,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "slides": 79
+    }
   },
   {
     "id": "tpt-17992472",
@@ -9101,7 +9836,10 @@
     "hasSlides": true,
     "hasPrintables": false,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "slides": 93
+    }
   },
   {
     "id": "tpt-17993354",
@@ -9135,7 +9873,10 @@
     "hasSlides": true,
     "hasPrintables": false,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "slides": 68
+    }
   },
   {
     "id": "tpt-17993012",
@@ -9170,7 +9911,8 @@
     "hasSlides": true,
     "hasPrintables": false,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17993507",
@@ -9208,7 +9950,10 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 65
+    }
   },
   {
     "id": "tpt-18003412",
@@ -9244,7 +9989,12 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 68,
+      "practiceQuestions": 60,
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "tpt-18004077",
@@ -9282,7 +10032,10 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 68
+    }
   },
   {
     "id": "tpt-18004349",
@@ -9321,7 +10074,10 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 63
+    }
   },
   {
     "id": "tpt-17993615",
@@ -9358,7 +10114,10 @@
     "hasSlides": true,
     "hasPrintables": false,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "slides": 77
+    }
   },
   {
     "id": "tpt-17993791",
@@ -9395,7 +10154,10 @@
     "hasSlides": true,
     "hasPrintables": false,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "slides": 94
+    }
   },
   {
     "id": "tpt-18004014",
@@ -9432,7 +10194,10 @@
     "hasSlides": true,
     "hasPrintables": false,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "slides": 57
+    }
   },
   {
     "id": "tpt-18004987",
@@ -9471,7 +10236,8 @@
     "hasSlides": true,
     "hasPrintables": false,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18005473",
@@ -9509,7 +10275,10 @@
     "hasSlides": true,
     "hasPrintables": false,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "slides": 95
+    }
   },
   {
     "id": "tpt-18015139",
@@ -9544,7 +10313,11 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 60,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-18015286",
@@ -9578,7 +10351,12 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 72,
+      "practiceQuestions": 60,
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18016203",
@@ -9613,7 +10391,13 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 69,
+      "practiceQuestions": 60,
+      "testQuestions": 15,
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18016244",
@@ -9649,7 +10433,12 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 61,
+      "practiceQuestions": 60,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-18016287",
@@ -9683,7 +10472,12 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 76,
+      "practiceQuestions": 60,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-18016405",
@@ -9718,7 +10512,11 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 48,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-18016704",
@@ -9753,7 +10551,11 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 60,
+      "practiceQuestions": 60
+    }
   },
   {
     "id": "tpt-18017031",
@@ -9787,7 +10589,12 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 67,
+      "practiceQuestions": 60,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-18024378",
@@ -9822,7 +10629,11 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 76,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-18024689",
@@ -9858,7 +10669,12 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 88,
+      "practiceQuestions": 60,
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18026386",
@@ -9894,7 +10710,12 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 113,
+      "practiceQuestions": 60,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-18026511",
@@ -9929,7 +10750,12 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 53,
+      "practiceQuestions": 60,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-18026670",
@@ -9964,7 +10790,12 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 51,
+      "practiceQuestions": 60,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-18027141",
@@ -9999,7 +10830,11 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 100,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-18027637",
@@ -10034,7 +10869,12 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 109,
+      "practiceQuestions": 60,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-18027830",
@@ -10069,7 +10909,10 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 92
+    }
   },
   {
     "id": "tpt-18028311",
@@ -10116,7 +10959,8 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18015380",
@@ -10151,7 +10995,10 @@
     "hasSlides": true,
     "hasPrintables": false,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "slides": 79
+    }
   },
   {
     "id": "tpt-18016841",
@@ -10186,7 +11033,8 @@
     "hasSlides": true,
     "hasPrintables": false,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18025616",
@@ -10221,7 +11069,10 @@
     "hasSlides": true,
     "hasPrintables": false,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "slides": 64
+    }
   },
   {
     "id": "tpt-18026634",
@@ -10257,7 +11108,10 @@
     "hasSlides": true,
     "hasPrintables": false,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "slides": 61
+    }
   },
   {
     "id": "tpt-18005922",
@@ -10304,7 +11158,8 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18028481",
@@ -10347,7 +11202,8 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18028503",
@@ -10393,7 +11249,8 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18028516",
@@ -10438,7 +11295,10 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18028523",
@@ -10480,7 +11340,8 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18028530",
@@ -10521,7 +11382,10 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18028537",
@@ -10574,7 +11438,8 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18028549",
@@ -10628,7 +11493,8 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18028572",
@@ -10680,7 +11546,8 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18028589",
@@ -10734,7 +11601,8 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18028603",
@@ -10821,7 +11689,8 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17993675",
@@ -10856,7 +11725,11 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 52,
+      "practiceQuestions": 60
+    }
   },
   {
     "id": "tpt-18040049",
@@ -10890,7 +11763,12 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 59,
+      "practiceQuestions": 105,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-18046667",
@@ -10925,7 +11803,12 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 79,
+      "practiceQuestions": 105,
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18046949",
@@ -10961,7 +11844,12 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 81,
+      "practiceQuestions": 105,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-18047149",
@@ -10997,7 +11885,11 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 82,
+      "practiceQuestions": 105
+    }
   },
   {
     "id": "tpt-18047524",
@@ -11032,7 +11924,11 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 86,
+      "practiceQuestions": 105
+    }
   },
   {
     "id": "tpt-18048450",
@@ -11067,7 +11963,10 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "practiceQuestions": 105
+    }
   },
   {
     "id": "tpt-18049931",
@@ -11103,7 +12002,10 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 82
+    }
   },
   {
     "id": "tpt-18037606",
@@ -11140,7 +12042,10 @@
     "hasSlides": true,
     "hasPrintables": false,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "slides": 74
+    }
   },
   {
     "id": "tpt-18038613",
@@ -11177,7 +12082,10 @@
     "hasSlides": true,
     "hasPrintables": false,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "slides": 64
+    }
   },
   {
     "id": "tpt-18040088",
@@ -11212,7 +12120,10 @@
     "hasSlides": true,
     "hasPrintables": false,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "slides": 80
+    }
   },
   {
     "id": "tpt-18046488",
@@ -11247,7 +12158,10 @@
     "hasSlides": true,
     "hasPrintables": false,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "slides": 73
+    }
   },
   {
     "id": "tpt-18047249",
@@ -11282,7 +12196,10 @@
     "hasSlides": true,
     "hasPrintables": false,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "slides": 93
+    }
   },
   {
     "id": "tpt-18048377",
@@ -11317,7 +12234,10 @@
     "hasSlides": true,
     "hasPrintables": false,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "slides": 75
+    }
   },
   {
     "id": "tpt-18049217",
@@ -11351,7 +12271,10 @@
     "hasSlides": true,
     "hasPrintables": false,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "slides": 79
+    }
   },
   {
     "id": "tpt-18048259",
@@ -11410,7 +12333,10 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 305
+    }
   },
   {
     "id": "tpt-18029471",
@@ -11460,7 +12386,10 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 168
+    }
   },
   {
     "id": "tpt-18035388",
@@ -11512,7 +12441,10 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 204
+    }
   },
   {
     "id": "tpt-18035869",
@@ -11570,7 +12502,10 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 261
+    }
   },
   {
     "id": "tpt-18058457",
@@ -11610,7 +12545,12 @@
     "market": "us",
     "hasSlides": false,
     "hasPrintables": true,
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 41,
+      "practiceQuestions": 60,
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18060238",
@@ -11654,7 +12594,10 @@
     "bundleFormat": "worksheet",
     "hasSlides": false,
     "hasPrintables": true,
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18060653",
@@ -11695,7 +12638,13 @@
     "market": "us",
     "hasSlides": false,
     "hasPrintables": true,
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 68,
+      "practiceQuestions": 60,
+      "testQuestions": 15,
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18061284",
@@ -11734,7 +12683,13 @@
     "market": "us",
     "hasSlides": false,
     "hasPrintables": true,
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 68,
+      "practiceQuestions": 60,
+      "testQuestions": 15,
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "tpt-18061408",
@@ -11774,7 +12729,12 @@
     "market": "us",
     "hasSlides": false,
     "hasPrintables": true,
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 68,
+      "practiceQuestions": 60,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-18061675",
@@ -11815,7 +12775,13 @@
     "market": "us",
     "hasSlides": false,
     "hasPrintables": true,
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 67,
+      "practiceQuestions": 60,
+      "testQuestions": 15,
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "tpt-18058610",
@@ -11850,7 +12816,12 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 82,
+      "practiceQuestions": 105,
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "tpt-18060084",
@@ -11885,7 +12856,12 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 47,
+      "testQuestions": 15,
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18060451",
@@ -11920,7 +12896,11 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 47,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-18060575",
@@ -11956,7 +12936,10 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 47
+    }
   },
   {
     "id": "tpt-18061229",
@@ -11992,7 +12975,10 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 49
+    }
   },
   {
     "id": "tpt-18061512",
@@ -12027,7 +13013,12 @@
     "hasSlides": false,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "pages": 48,
+      "practiceQuestions": 90,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-18060036",
@@ -12062,7 +13053,10 @@
     "hasSlides": true,
     "hasPrintables": false,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {
+      "slides": 89
+    }
   },
   {
     "id": "tpt-18060345",
@@ -12098,7 +13092,8 @@
     "hasSlides": true,
     "hasPrintables": false,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18060614",
@@ -12134,7 +13129,8 @@
     "hasSlides": true,
     "hasPrintables": false,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18061697",
@@ -12169,7 +13165,8 @@
     "hasSlides": true,
     "hasPrintables": false,
     "market": "au",
-    "tptObservedAt": "2026-11-03"
+    "tptObservedAt": "2026-11-03",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18068763",
@@ -12203,7 +13200,10 @@
     "market": "us",
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-17992997",
@@ -12236,7 +13236,8 @@
     "hasPrintables": true,
     "market": "au",
     "tptObservedAt": "2026-11-03",
-    "curriculumCodes": []
+    "curriculumCodes": [],
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17893520",
@@ -12268,7 +13269,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9E1LA01"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "tpt-17893535",
@@ -12300,7 +13304,10 @@
     "hasPrintables": true,
     "market": "au",
     "tptObservedAt": "2026-11-03",
-    "curriculumCodes": []
+    "curriculumCodes": [],
+    "verifiedListingFacts": {
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "tpt-17990435",
@@ -12332,7 +13339,8 @@
     "hasPrintables": true,
     "market": "au",
     "tptObservedAt": "2026-11-03",
-    "curriculumCodes": []
+    "curriculumCodes": [],
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18068821",
@@ -12365,7 +13373,10 @@
     "market": "us",
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18068813",
@@ -12398,7 +13409,10 @@
     "curriculumCodes": [
       "K.G.A.1"
     ],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-17992996",
@@ -12431,7 +13445,8 @@
     "hasPrintables": true,
     "market": "au",
     "tptObservedAt": "2026-11-03",
-    "curriculumCodes": []
+    "curriculumCodes": [],
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17992995",
@@ -12464,7 +13479,8 @@
     "hasPrintables": true,
     "market": "au",
     "tptObservedAt": "2026-11-03",
-    "curriculumCodes": []
+    "curriculumCodes": [],
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17990443",
@@ -12497,7 +13513,8 @@
     "hasPrintables": true,
     "market": "au",
     "tptObservedAt": "2026-11-03",
-    "curriculumCodes": []
+    "curriculumCodes": [],
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18068818",
@@ -12530,7 +13547,10 @@
     "market": "us",
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-17991528",
@@ -12563,7 +13583,8 @@
     "hasPrintables": true,
     "market": "au",
     "tptObservedAt": "2026-11-03",
-    "curriculumCodes": []
+    "curriculumCodes": [],
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18068836",
@@ -12596,7 +13617,10 @@
     "market": "us",
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-17991527",
@@ -12629,7 +13653,8 @@
     "hasPrintables": true,
     "market": "au",
     "tptObservedAt": "2026-11-03",
-    "curriculumCodes": []
+    "curriculumCodes": [],
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17991424",
@@ -12662,7 +13687,8 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M2M03"
-    ]
+    ],
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18068830",
@@ -12695,7 +13721,10 @@
     "market": "us",
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-17990437",
@@ -12726,7 +13755,8 @@
     "hasPrintables": true,
     "market": "au",
     "tptObservedAt": "2026-11-03",
-    "curriculumCodes": []
+    "curriculumCodes": [],
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17991421",
@@ -12758,7 +13788,8 @@
     "hasPrintables": true,
     "market": "au",
     "tptObservedAt": "2026-11-03",
-    "curriculumCodes": []
+    "curriculumCodes": [],
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17957626",
@@ -12790,7 +13821,8 @@
     "hasPrintables": true,
     "market": "au",
     "tptObservedAt": "2026-11-03",
-    "curriculumCodes": []
+    "curriculumCodes": [],
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18068807",
@@ -12822,7 +13854,10 @@
     "curriculumCodes": [
       "K.MD.A.1"
     ],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18038627",
@@ -12854,7 +13889,10 @@
     "curriculumCodes": [
       "K.CC.A.1"
     ],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-17992994",
@@ -12886,7 +13924,8 @@
     "hasPrintables": true,
     "market": "au",
     "tptObservedAt": "2026-11-03",
-    "curriculumCodes": []
+    "curriculumCodes": [],
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17992992",
@@ -12917,7 +13956,8 @@
     "hasPrintables": true,
     "market": "au",
     "tptObservedAt": "2026-11-03",
-    "curriculumCodes": []
+    "curriculumCodes": [],
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17991422",
@@ -12949,7 +13989,8 @@
     "hasPrintables": true,
     "market": "au",
     "tptObservedAt": "2026-11-03",
-    "curriculumCodes": []
+    "curriculumCodes": [],
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18171324",
@@ -12986,7 +14027,10 @@
     "curriculumCodes": [
       "1.NBT.B.2"
     ],
-    "usGrade": "1"
+    "usGrade": "1",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18171321",
@@ -13022,7 +14066,10 @@
     "curriculumCodes": [
       "1.NBT.B.3"
     ],
-    "usGrade": "1"
+    "usGrade": "1",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18069145",
@@ -13054,7 +14101,13 @@
     "curriculumCodes": [
       "K.CC.C.7"
     ],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {
+      "pages": 46,
+      "practiceQuestions": 60,
+      "testQuestions": 15,
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18068796",
@@ -13087,7 +14140,10 @@
     "curriculumCodes": [
       "K.CC.C.6"
     ],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18068780",
@@ -13119,7 +14175,10 @@
     "curriculumCodes": [
       "K.CC.B.4"
     ],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18162886",
@@ -13155,7 +14214,10 @@
     "curriculumCodes": [
       "1.NBT.B.3"
     ],
-    "usGrade": "1"
+    "usGrade": "1",
+    "verifiedListingFacts": {
+      "slides": 64
+    }
   },
   {
     "id": "tpt-18162602",
@@ -13192,7 +14254,10 @@
     "curriculumCodes": [
       "1.NBT.B.2"
     ],
-    "usGrade": "1"
+    "usGrade": "1",
+    "verifiedListingFacts": {
+      "slides": 81
+    }
   },
   {
     "id": "tpt-18161979",
@@ -13226,7 +14291,10 @@
     "curriculumCodes": [
       "1.NBT.A.1"
     ],
-    "usGrade": "1"
+    "usGrade": "1",
+    "verifiedListingFacts": {
+      "slides": 72
+    }
   },
   {
     "id": "tpt-17991414",
@@ -13258,7 +14326,8 @@
     "hasPrintables": true,
     "market": "au",
     "tptObservedAt": "2026-11-03",
-    "curriculumCodes": []
+    "curriculumCodes": [],
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18069970",
@@ -13290,7 +14359,11 @@
     "curriculumCodes": [
       "K.OA.A.3"
     ],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {
+      "pages": 64,
+      "slides": 57
+    }
   },
   {
     "id": "tpt-18069001",
@@ -13322,7 +14395,8 @@
     "curriculumCodes": [
       "K.CC.B.5"
     ],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18069404",
@@ -13355,7 +14429,10 @@
     "curriculumCodes": [
       "K.OA.A.2"
     ],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {
+      "pages": 64
+    }
   },
   {
     "id": "tpt-18069267",
@@ -13387,7 +14464,10 @@
     "curriculumCodes": [
       "K.OA.A.1"
     ],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {
+      "pages": 63
+    }
   },
   {
     "id": "tpt-18069063",
@@ -13420,7 +14500,10 @@
     "curriculumCodes": [
       "K.CC.C.6"
     ],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {
+      "pages": 53
+    }
   },
   {
     "id": "tpt-18068998",
@@ -13453,7 +14536,8 @@
     "curriculumCodes": [
       "K.CC.B.4"
     ],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18068994",
@@ -13485,7 +14569,8 @@
     "curriculumCodes": [
       "K.CC.A.3"
     ],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18068989",
@@ -13518,7 +14603,8 @@
     "curriculumCodes": [
       "K.CC.A.2"
     ],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18068981",
@@ -13550,7 +14636,8 @@
     "curriculumCodes": [
       "K.CC.A.1"
     ],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18069478",
@@ -13582,7 +14669,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M4N06"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "slides": 109
+    }
   },
   {
     "id": "tpt-18068902",
@@ -13615,7 +14705,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M4N04"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "slides": 99
+    }
   },
   {
     "id": "tpt-18067628",
@@ -13648,7 +14741,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M4N02"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "slides": 98
+    }
   },
   {
     "id": "tpt-18069208",
@@ -13679,7 +14775,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M4N05"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "slides": 98
+    }
   },
   {
     "id": "tpt-18068309",
@@ -13711,7 +14810,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M4N03"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "slides": 91
+    }
   },
   {
     "id": "tpt-18115158",
@@ -13743,7 +14845,8 @@
     "hasPrintables": false,
     "market": "au",
     "tptObservedAt": "2026-11-03",
-    "curriculumCodes": []
+    "curriculumCodes": [],
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18115632",
@@ -13777,7 +14880,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M4N08"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "slides": 100
+    }
   },
   {
     "id": "tpt-18035810",
@@ -13810,7 +14916,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M3M03"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "slides": 50
+    }
   },
   {
     "id": "tpt-18004570",
@@ -13841,7 +14950,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M3N05"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "slides": 77
+    }
   },
   {
     "id": "tpt-17969415",
@@ -13872,7 +14984,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M2N05"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "slides": 48
+    }
   },
   {
     "id": "tpt-17957060",
@@ -13904,7 +15019,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9MFSP01"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "pages": 76
+    }
   },
   {
     "id": "tpt-18040391",
@@ -13937,7 +15055,13 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M4N02"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "pages": 72,
+      "practiceQuestions": 105,
+      "testQuestions": 15,
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18049248",
@@ -13969,7 +15093,12 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M4N08"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "pages": 66,
+      "practiceQuestions": 105,
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-17957104",
@@ -14002,7 +15131,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9MFSP02"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "pages": 61
+    }
   },
   {
     "id": "tpt-18069122",
@@ -14035,7 +15167,8 @@
     "curriculumCodes": [
       "K.CC.C.7"
     ],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18069037",
@@ -14069,7 +15202,8 @@
     "curriculumCodes": [
       "K.CC.C.6"
     ],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18069335",
@@ -14103,7 +15237,10 @@
     "curriculumCodes": [
       "K.OA.A.2"
     ],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {
+      "slides": 57
+    }
   },
   {
     "id": "tpt-18069249",
@@ -14136,7 +15273,10 @@
     "curriculumCodes": [
       "K.OA.A.1"
     ],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {
+      "slides": 63
+    }
   },
   {
     "id": "tpt-18068530",
@@ -14168,7 +15308,11 @@
     "curriculumCodes": [
       "K.G.B.6"
     ],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {
+      "pages": 70,
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "tpt-18067937",
@@ -14200,7 +15344,12 @@
     "curriculumCodes": [
       "K.G.B.4"
     ],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {
+      "pages": 68,
+      "practiceQuestions": 60,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-18069450",
@@ -14233,7 +15382,10 @@
     "curriculumCodes": [
       "K.OA.A.3"
     ],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {
+      "slides": 57
+    }
   },
   {
     "id": "tpt-18068194",
@@ -14267,7 +15419,10 @@
     "curriculumCodes": [
       "K.G.B.5"
     ],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {
+      "pages": 68
+    }
   },
   {
     "id": "tpt-18067726",
@@ -14300,7 +15455,12 @@
     "curriculumCodes": [
       "K.G.A.3"
     ],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {
+      "pages": 68,
+      "practiceQuestions": 60,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-18062061",
@@ -14333,7 +15493,10 @@
     "curriculumCodes": [
       "K.G.A.2"
     ],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {
+      "pages": 68
+    }
   },
   {
     "id": "tpt-18061896",
@@ -14365,7 +15528,12 @@
     "curriculumCodes": [
       "K.G.A.1"
     ],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {
+      "pages": 68,
+      "practiceQuestions": 60,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-18047386",
@@ -14396,7 +15564,11 @@
     "curriculumCodes": [
       "K.OA.A.1"
     ],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {
+      "practiceQuestions": 60,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-18047023",
@@ -14427,7 +15599,11 @@
     "curriculumCodes": [
       "K.CC.C.7"
     ],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {
+      "practiceQuestions": 60,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-18046725",
@@ -14459,7 +15635,11 @@
     "curriculumCodes": [
       "K.CC.C.6"
     ],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {
+      "practiceQuestions": 60,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-18046394",
@@ -14494,7 +15674,10 @@
     "curriculumCodes": [
       "K.CC.B.5"
     ],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {
+      "slides": 54
+    }
   },
   {
     "id": "tpt-18039522",
@@ -14529,7 +15712,11 @@
     "curriculumCodes": [
       "K.CC.A.2"
     ],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {
+      "slides": 54,
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18060279",
@@ -14561,7 +15748,10 @@
     "curriculumCodes": [
       "K.OA.A.4"
     ],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {
+      "practiceQuestions": 60
+    }
   },
   {
     "id": "tpt-18037814",
@@ -14592,7 +15782,11 @@
     "curriculumCodes": [
       "K.CC.A.2"
     ],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {
+      "pages": 42,
+      "practiceQuestions": 60
+    }
   },
   {
     "id": "tpt-18048331",
@@ -14625,7 +15819,11 @@
     "curriculumCodes": [
       "K.OA.A.2"
     ],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {
+      "practiceQuestions": 60,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-18040615",
@@ -14657,7 +15855,12 @@
     "curriculumCodes": [
       "K.CC.B.5"
     ],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {
+      "practiceQuestions": 60,
+      "testQuestions": 15,
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18039580",
@@ -14691,7 +15894,11 @@
     "curriculumCodes": [
       "K.CC.B.4"
     ],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {
+      "slides": 54,
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18039546",
@@ -14725,7 +15932,11 @@
     "curriculumCodes": [
       "K.CC.A.3"
     ],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {
+      "slides": 58,
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18039503",
@@ -14759,7 +15970,11 @@
     "curriculumCodes": [
       "K.CC.A.1"
     ],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {
+      "slides": 58,
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18039263",
@@ -14792,7 +16007,11 @@
     "curriculumCodes": [
       "K.CC.B.4"
     ],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {
+      "practiceQuestions": 60,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-18038527",
@@ -14825,7 +16044,10 @@
     "curriculumCodes": [
       "K.CC.A.3"
     ],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {
+      "pages": 42
+    }
   },
   {
     "id": "tpt-18037540",
@@ -14857,7 +16079,10 @@
     "curriculumCodes": [
       "K.CC.A.1"
     ],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {
+      "pages": 49
+    }
   },
   {
     "id": "tpt-17971978",
@@ -14890,7 +16115,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M2A01"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "pages": 37
+    }
   },
   {
     "id": "tpt-17947525",
@@ -14923,7 +16151,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9MFN06"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "pages": 34
+    }
   },
   {
     "id": "tpt-17946861",
@@ -14956,7 +16187,8 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9MFN05"
-    ]
+    ],
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17946589",
@@ -14988,7 +16220,12 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9MFN03"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "pages": 49,
+      "practiceQuestions": 50,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-17968258",
@@ -15019,7 +16256,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M2N04"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "pages": 48
+    }
   },
   {
     "id": "tpt-17946639",
@@ -15051,7 +16291,12 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9MFN04"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "pages": 55,
+      "practiceQuestions": 50,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-17911056",
@@ -15084,7 +16329,8 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M2M01"
-    ]
+    ],
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-17910522",
@@ -15116,7 +16362,12 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M2A03"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "practiceQuestions": 50,
+      "testQuestions": 15,
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-17891522",
@@ -15147,7 +16398,12 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9E1LA08"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "pages": 61,
+      "practiceQuestions": 60,
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "tpt-18162721",
@@ -15182,7 +16438,12 @@
     "curriculumCodes": [
       "1.NBT.B.3"
     ],
-    "usGrade": "1"
+    "usGrade": "1",
+    "verifiedListingFacts": {
+      "pages": 42,
+      "practiceQuestions": 60,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-18048700",
@@ -15214,7 +16475,13 @@
     "curriculumCodes": [
       "K.OA.A.3"
     ],
-    "usGrade": "k"
+    "usGrade": "k",
+    "verifiedListingFacts": {
+      "pages": 64,
+      "practiceQuestions": 60,
+      "testQuestions": 15,
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "tpt-18139896",
@@ -15247,7 +16514,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M5A01"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139939",
@@ -15279,7 +16549,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M7A01"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139934",
@@ -15312,7 +16585,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M7N05"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139933",
@@ -15344,7 +16620,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M7N04"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139919",
@@ -15377,7 +16656,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M6N06"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139912",
@@ -15410,7 +16692,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M6N04"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139897",
@@ -15442,7 +16727,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M6N01"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139891",
@@ -15474,7 +16762,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M5N08"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139875",
@@ -15505,7 +16796,11 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M5N03"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "practiceQuestions": 15,
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139865",
@@ -15537,7 +16832,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M4M01"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139859",
@@ -15568,7 +16866,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M4N06"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139845",
@@ -15601,7 +16902,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M4N02"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139831",
@@ -15634,7 +16938,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M3M01"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139824",
@@ -15665,7 +16972,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M3A01"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139821",
@@ -15697,7 +17007,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M3N05"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139792",
@@ -15730,7 +17043,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M2A03"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139783",
@@ -15763,7 +17079,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M2N05"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139764",
@@ -15795,7 +17114,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M1SP01"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139656",
@@ -15828,7 +17150,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9MFA01"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139641",
@@ -15861,7 +17186,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9MFN04"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139930",
@@ -15892,7 +17220,11 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M7N03"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "practiceQuestions": 15,
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139928",
@@ -15925,7 +17257,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M7N02"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139921",
@@ -15958,7 +17293,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M7N01"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139914",
@@ -15991,7 +17329,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M6N05"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139904",
@@ -16024,7 +17365,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M6N03"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139903",
@@ -16055,7 +17399,11 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M6N02"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "practiceQuestions": 15,
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139890",
@@ -16088,7 +17436,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M5N05"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139873",
@@ -16120,7 +17471,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M5N02"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139867",
@@ -16152,7 +17506,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M5N01"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139860",
@@ -16184,7 +17541,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M4A01"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139846",
@@ -16215,7 +17575,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M4N03"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139832",
@@ -16247,7 +17610,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M4N01"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139815",
@@ -16279,7 +17645,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M3N04"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139814",
@@ -16311,7 +17680,11 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M3N03"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "practiceQuestions": 15,
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139805",
@@ -16342,7 +17715,11 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M3N01"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "practiceQuestions": 15,
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139801",
@@ -16374,7 +17751,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M2SP01"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139794",
@@ -16407,7 +17787,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M2M01"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139782",
@@ -16440,7 +17823,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M2N03"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139767",
@@ -16470,7 +17856,11 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M2N01"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "practiceQuestions": 15,
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139754",
@@ -16503,7 +17893,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M1M02"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139753",
@@ -16535,7 +17928,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M1A01"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139712",
@@ -16567,7 +17963,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M1N04"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139709",
@@ -16600,7 +17999,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M1N02"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139698",
@@ -16630,7 +18032,11 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M1N01"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "practiceQuestions": 15,
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139668",
@@ -16663,7 +18069,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9MFSP01"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139667",
@@ -16696,7 +18105,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9MFM01"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139654",
@@ -16730,7 +18142,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9MFN06"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18139615",
@@ -16761,7 +18176,11 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9MFN01"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "practiceQuestions": 15,
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18178051",
@@ -16794,7 +18213,8 @@
     "curriculumCodes": [
       "1.MD.A.2"
     ],
-    "usGrade": "1"
+    "usGrade": "1",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18178034",
@@ -16828,7 +18248,8 @@
     "curriculumCodes": [
       "1.MD.A.1"
     ],
-    "usGrade": "1"
+    "usGrade": "1",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18178024",
@@ -16862,7 +18283,8 @@
     "curriculumCodes": [
       "1.NBT.C.6"
     ],
-    "usGrade": "1"
+    "usGrade": "1",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18178015",
@@ -16896,7 +18318,8 @@
     "curriculumCodes": [
       "1.NBT.C.5"
     ],
-    "usGrade": "1"
+    "usGrade": "1",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18178003",
@@ -16930,7 +18353,8 @@
     "curriculumCodes": [
       "1.NBT.C.4"
     ],
-    "usGrade": "1"
+    "usGrade": "1",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18177824",
@@ -16961,7 +18385,12 @@
     "curriculumCodes": [
       "1.G.A.2"
     ],
-    "usGrade": "1"
+    "usGrade": "1",
+    "verifiedListingFacts": {
+      "pages": 57,
+      "practiceQuestions": 60,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-18177811",
@@ -16995,7 +18424,10 @@
     "curriculumCodes": [
       "1.MD.A.2"
     ],
-    "usGrade": "1"
+    "usGrade": "1",
+    "verifiedListingFacts": {
+      "slides": 110
+    }
   },
   {
     "id": "tpt-18177611",
@@ -17029,7 +18461,10 @@
     "curriculumCodes": [
       "1.MD.A.1"
     ],
-    "usGrade": "1"
+    "usGrade": "1",
+    "verifiedListingFacts": {
+      "slides": 113
+    }
   },
   {
     "id": "tpt-18177606",
@@ -17061,7 +18496,10 @@
     "curriculumCodes": [
       "1.G.A.1"
     ],
-    "usGrade": "1"
+    "usGrade": "1",
+    "verifiedListingFacts": {
+      "pages": 55
+    }
   },
   {
     "id": "tpt-18177432",
@@ -17093,7 +18531,12 @@
     "curriculumCodes": [
       "1.MD.C.4"
     ],
-    "usGrade": "1"
+    "usGrade": "1",
+    "verifiedListingFacts": {
+      "pages": 55,
+      "practiceQuestions": 60,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-18177275",
@@ -17126,7 +18569,10 @@
     "curriculumCodes": [
       "1.MD.B.3"
     ],
-    "usGrade": "1"
+    "usGrade": "1",
+    "verifiedListingFacts": {
+      "pages": 55
+    }
   },
   {
     "id": "tpt-18177252",
@@ -17159,7 +18605,10 @@
     "curriculumCodes": [
       "1.NBT.C.6"
     ],
-    "usGrade": "1"
+    "usGrade": "1",
+    "verifiedListingFacts": {
+      "slides": 77
+    }
   },
   {
     "id": "tpt-18176580",
@@ -17188,7 +18637,10 @@
     "market": "us",
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [],
-    "usGrade": "1"
+    "usGrade": "1",
+    "verifiedListingFacts": {
+      "pages": 49
+    }
   },
   {
     "id": "tpt-18176389",
@@ -17222,7 +18674,10 @@
     "curriculumCodes": [
       "1.NBT.C.5"
     ],
-    "usGrade": "1"
+    "usGrade": "1",
+    "verifiedListingFacts": {
+      "slides": 95
+    }
   },
   {
     "id": "tpt-18176381",
@@ -17254,7 +18709,10 @@
     "curriculumCodes": [
       "1.MD.A.1"
     ],
-    "usGrade": "1"
+    "usGrade": "1",
+    "verifiedListingFacts": {
+      "pages": 49
+    }
   },
   {
     "id": "tpt-18176213",
@@ -17286,7 +18744,10 @@
     "curriculumCodes": [
       "1.NBT.C.6"
     ],
-    "usGrade": "1"
+    "usGrade": "1",
+    "verifiedListingFacts": {
+      "pages": 45
+    }
   },
   {
     "id": "tpt-18176084",
@@ -17320,7 +18781,10 @@
     "curriculumCodes": [
       "1.NBT.C.4"
     ],
-    "usGrade": "1"
+    "usGrade": "1",
+    "verifiedListingFacts": {
+      "slides": 92
+    }
   },
   {
     "id": "tpt-18176039",
@@ -17354,7 +18818,12 @@
     "curriculumCodes": [
       "1.NBT.C.5"
     ],
-    "usGrade": "1"
+    "usGrade": "1",
+    "verifiedListingFacts": {
+      "pages": 44,
+      "practiceQuestions": 60,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-18175925",
@@ -17388,7 +18857,12 @@
     "curriculumCodes": [
       "1.NBT.C.4"
     ],
-    "usGrade": "1"
+    "usGrade": "1",
+    "verifiedListingFacts": {
+      "pages": 44,
+      "practiceQuestions": 60,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-18161939",
@@ -17421,7 +18895,10 @@
     "curriculumCodes": [
       "1.OA.A.1"
     ],
-    "usGrade": "1"
+    "usGrade": "1",
+    "verifiedListingFacts": {
+      "pages": 41
+    }
   },
   {
     "id": "tpt-18162262",
@@ -17455,7 +18932,10 @@
     "curriculumCodes": [
       "1.NBT.B.2"
     ],
-    "usGrade": "1"
+    "usGrade": "1",
+    "verifiedListingFacts": {
+      "pages": 41
+    }
   },
   {
     "id": "tpt-18069086",
@@ -17488,7 +18968,10 @@
     "tptObservedAt": "2026-11-03",
     "curriculumCodes": [
       "AC9M4SP01"
-    ]
+    ],
+    "verifiedListingFacts": {
+      "pages": 78
+    }
   },
   {
     "id": "tpt-18178153",
@@ -17523,7 +19006,10 @@
     "curriculumCodes": [
       "1.MD.B.3"
     ],
-    "usGrade": "1"
+    "usGrade": "1",
+    "verifiedListingFacts": {
+      "slides": 96
+    }
   },
   {
     "id": "tpt-18179192",
@@ -17558,7 +19044,10 @@
     "usGrade": "1",
     "tptObservedAt": "2026-11-04",
     "format": "Flattened PowerPoint and matching PDF",
-    "slideCount": 97
+    "slideCount": 97,
+    "verifiedListingFacts": {
+      "slides": 97
+    }
   },
   {
     "id": "tpt-18190808",
@@ -17592,7 +19081,13 @@
     "hasPrintables": true,
     "market": "us",
     "tptObservedAt": "2026-11-04",
-    "usGrade": "2"
+    "usGrade": "2",
+    "verifiedListingFacts": {
+      "pages": 58,
+      "practiceQuestions": 60,
+      "testQuestions": 15,
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "tpt-18190626",
@@ -17626,7 +19121,12 @@
     "hasPrintables": true,
     "market": "us",
     "tptObservedAt": "2026-11-04",
-    "usGrade": "2"
+    "usGrade": "2",
+    "verifiedListingFacts": {
+      "pages": 55,
+      "practiceQuestions": 60,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-18190562",
@@ -17659,7 +19159,10 @@
     "hasPrintables": false,
     "market": "us",
     "tptObservedAt": "2026-11-04",
-    "usGrade": "1"
+    "usGrade": "1",
+    "verifiedListingFacts": {
+      "slides": 96
+    }
   },
   {
     "id": "tpt-18190000",
@@ -17695,7 +19198,13 @@
     "hasPrintables": true,
     "market": "us",
     "tptObservedAt": "2026-11-04",
-    "usGrade": "2"
+    "usGrade": "2",
+    "verifiedListingFacts": {
+      "pages": 55,
+      "practiceQuestions": 60,
+      "testQuestions": 15,
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "tpt-18189707",
@@ -17727,7 +19236,10 @@
     "hasPrintables": true,
     "market": "us",
     "tptObservedAt": "2026-11-04",
-    "usGrade": "2"
+    "usGrade": "2",
+    "verifiedListingFacts": {
+      "pages": 55
+    }
   },
   {
     "id": "tpt-18189516",
@@ -17760,7 +19272,10 @@
     "hasPrintables": false,
     "market": "us",
     "tptObservedAt": "2026-11-04",
-    "usGrade": "1"
+    "usGrade": "1",
+    "verifiedListingFacts": {
+      "slides": 100
+    }
   },
   {
     "id": "tpt-18189187",
@@ -17795,7 +19310,10 @@
     "hasPrintables": true,
     "market": "us",
     "tptObservedAt": "2026-11-04",
-    "usGrade": "2"
+    "usGrade": "2",
+    "verifiedListingFacts": {
+      "pages": 55
+    }
   },
   {
     "id": "tpt-18188038",
@@ -17830,7 +19348,10 @@
     "hasPrintables": true,
     "market": "us",
     "tptObservedAt": "2026-11-04",
-    "usGrade": "2"
+    "usGrade": "2",
+    "verifiedListingFacts": {
+      "pages": 55
+    }
   },
   {
     "id": "tpt-18187817",
@@ -17865,7 +19386,10 @@
     "hasPrintables": true,
     "market": "us",
     "tptObservedAt": "2026-11-04",
-    "usGrade": "2"
+    "usGrade": "2",
+    "verifiedListingFacts": {
+      "pages": 55
+    }
   },
   {
     "id": "tpt-18187732",
@@ -17899,7 +19423,10 @@
     "hasPrintables": true,
     "market": "us",
     "tptObservedAt": "2026-11-04",
-    "usGrade": "2"
+    "usGrade": "2",
+    "verifiedListingFacts": {
+      "pages": 55
+    }
   },
   {
     "id": "tpt-18186574",
@@ -17930,7 +19457,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18186564",
@@ -17963,7 +19493,10 @@
     "hasPrintables": true,
     "market": "us",
     "tptObservedAt": "2026-11-04",
-    "usGrade": "2"
+    "usGrade": "2",
+    "verifiedListingFacts": {
+      "pages": 55
+    }
   },
   {
     "id": "tpt-18186563",
@@ -17995,7 +19528,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18186519",
@@ -18029,7 +19565,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18186493",
@@ -18061,7 +19600,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18186488",
@@ -18094,7 +19636,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18186477",
@@ -18127,7 +19672,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18186467",
@@ -18159,7 +19707,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18186448",
@@ -18191,7 +19742,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18186437",
@@ -18223,7 +19777,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18186431",
@@ -18255,7 +19812,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18186421",
@@ -18287,7 +19847,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18186414",
@@ -18319,7 +19882,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18186405",
@@ -18351,7 +19917,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18186400",
@@ -18382,7 +19951,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18186389",
@@ -18414,7 +19986,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18186382",
@@ -18446,7 +20021,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18186358",
@@ -18479,7 +20057,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18186351",
@@ -18512,7 +20093,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18186343",
@@ -18546,7 +20130,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18186335",
@@ -18580,7 +20167,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18186326",
@@ -18613,7 +20203,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18186317",
@@ -18646,7 +20239,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18186318",
@@ -18679,7 +20275,10 @@
     "hasPrintables": true,
     "market": "us",
     "tptObservedAt": "2026-11-04",
-    "usGrade": "1"
+    "usGrade": "1",
+    "verifiedListingFacts": {
+      "pages": 55
+    }
   },
   {
     "id": "tpt-18186309",
@@ -18712,7 +20311,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18186302",
@@ -18745,7 +20347,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18186293",
@@ -18778,7 +20383,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18186287",
@@ -18811,7 +20419,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18186274",
@@ -18844,7 +20455,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18186263",
@@ -18875,7 +20489,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18186258",
@@ -18908,7 +20525,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18186251",
@@ -18939,7 +20559,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18186241",
@@ -18971,7 +20594,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18186233",
@@ -19004,7 +20630,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18186232",
@@ -19038,7 +20667,10 @@
     "hasPrintables": true,
     "market": "us",
     "tptObservedAt": "2026-11-04",
-    "usGrade": "1"
+    "usGrade": "1",
+    "verifiedListingFacts": {
+      "pages": 55
+    }
   },
   {
     "id": "tpt-18186224",
@@ -19071,7 +20703,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18186207",
@@ -19103,7 +20738,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18186199",
@@ -19136,7 +20774,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18186134",
@@ -19169,7 +20810,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18186128",
@@ -19202,7 +20846,10 @@
     "hasPrintables": true,
     "market": "us",
     "tptObservedAt": "2026-11-04",
-    "usGrade": "1"
+    "usGrade": "1",
+    "verifiedListingFacts": {
+      "pages": 55
+    }
   },
   {
     "id": "tpt-18186109",
@@ -19234,7 +20881,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18185981",
@@ -19268,7 +20918,10 @@
     "hasPrintables": true,
     "market": "us",
     "tptObservedAt": "2026-11-04",
-    "usGrade": "1"
+    "usGrade": "1",
+    "verifiedListingFacts": {
+      "pages": 55
+    }
   },
   {
     "id": "tpt-18185400",
@@ -19301,7 +20954,10 @@
     "hasPrintables": true,
     "market": "us",
     "tptObservedAt": "2026-11-04",
-    "usGrade": "1"
+    "usGrade": "1",
+    "verifiedListingFacts": {
+      "pages": 55
+    }
   },
   {
     "id": "tpt-18184988",
@@ -19334,7 +20990,10 @@
     "hasPrintables": true,
     "market": "us",
     "tptObservedAt": "2026-11-04",
-    "usGrade": "1"
+    "usGrade": "1",
+    "verifiedListingFacts": {
+      "pages": 55
+    }
   },
   {
     "id": "tpt-18184735",
@@ -19368,7 +21027,10 @@
     "hasPrintables": true,
     "market": "us",
     "tptObservedAt": "2026-11-04",
-    "usGrade": "1"
+    "usGrade": "1",
+    "verifiedListingFacts": {
+      "pages": 55
+    }
   },
   {
     "id": "tpt-18184499",
@@ -19402,7 +21064,10 @@
     "hasPrintables": true,
     "market": "us",
     "tptObservedAt": "2026-11-04",
-    "usGrade": "1"
+    "usGrade": "1",
+    "verifiedListingFacts": {
+      "pages": 55
+    }
   },
   {
     "id": "tpt-18179596",
@@ -19434,7 +21099,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18179471",
@@ -19466,7 +21134,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18179423",
@@ -19498,7 +21169,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18179295",
@@ -19530,7 +21204,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18179241",
@@ -19562,7 +21239,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18179219",
@@ -19594,7 +21274,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18179166",
@@ -19626,7 +21309,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18179128",
@@ -19658,7 +21344,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18179109",
@@ -19691,7 +21380,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18179085",
@@ -19723,7 +21415,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18179051",
@@ -19755,7 +21450,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18178978",
@@ -19788,7 +21486,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18178910",
@@ -19821,7 +21522,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18178867",
@@ -19853,7 +21557,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18178858",
@@ -19886,7 +21593,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18178850",
@@ -19920,7 +21630,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18178843",
@@ -19954,7 +21667,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18178827",
@@ -19986,7 +21702,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18178787",
@@ -20018,7 +21737,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18178742",
@@ -20050,7 +21772,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18178587",
@@ -20082,7 +21807,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18178579",
@@ -20115,7 +21843,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18178575",
@@ -20147,7 +21878,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18178543",
@@ -20179,7 +21913,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18178467",
@@ -20211,7 +21948,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18178450",
@@ -20243,7 +21983,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18178440",
@@ -20275,7 +22018,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18178429",
@@ -20308,7 +22054,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18178425",
@@ -20341,7 +22090,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18178410",
@@ -20374,7 +22126,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18178394",
@@ -20407,7 +22162,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18178362",
@@ -20439,7 +22197,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18178345",
@@ -20471,7 +22232,10 @@
     "hasSlides": true,
     "hasPrintables": true,
     "market": "au",
-    "tptObservedAt": "2026-11-04"
+    "tptObservedAt": "2026-11-04",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18321838",
@@ -20509,7 +22273,8 @@
     "tptObservedAt": "2026-11-15",
     "format": "Teaching slides and printable worksheets",
     "packCount": 2,
-    "listPrice": "20.00"
+    "listPrice": "20.00",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18338039",
@@ -20546,7 +22311,10 @@
     "tptObservedAt": "2026-11-15",
     "format": "Teaching slides and printable worksheets",
     "packCount": 2,
-    "listPrice": "16.00"
+    "listPrice": "16.00",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18337497",
@@ -20584,7 +22352,10 @@
     "tptObservedAt": "2026-11-15",
     "format": "Teaching slides and printable worksheets",
     "packCount": 2,
-    "listPrice": "16.00"
+    "listPrice": "16.00",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18336332",
@@ -20621,7 +22392,10 @@
     "tptObservedAt": "2026-11-15",
     "format": "Teaching slides and printable worksheets",
     "packCount": 2,
-    "listPrice": "16.00"
+    "listPrice": "16.00",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18305845",
@@ -20658,7 +22432,10 @@
     "tptObservedAt": "2026-11-15",
     "format": "Teaching slides and printable worksheets",
     "packCount": 2,
-    "listPrice": "16.00"
+    "listPrice": "16.00",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18292134",
@@ -20695,7 +22472,8 @@
     "tptObservedAt": "2026-11-15",
     "format": "Teaching slides and printable worksheets",
     "packCount": 2,
-    "listPrice": "16.00"
+    "listPrice": "16.00",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18317498",
@@ -20731,7 +22509,8 @@
     "tptObservedAt": "2026-11-15",
     "format": "Teaching slides and printable worksheets",
     "packCount": 2,
-    "listPrice": "16.00"
+    "listPrice": "16.00",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18306370",
@@ -20768,7 +22547,10 @@
     "tptObservedAt": "2026-11-15",
     "format": "Teaching slides and printable worksheets",
     "packCount": 2,
-    "listPrice": "16.00"
+    "listPrice": "16.00",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18293038",
@@ -20806,7 +22588,10 @@
     "tptObservedAt": "2026-11-15",
     "format": "Teaching slides and printable worksheets",
     "packCount": 2,
-    "listPrice": "16.00"
+    "listPrice": "16.00",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18291500",
@@ -20845,7 +22630,8 @@
     "tptObservedAt": "2026-11-15",
     "format": "Teaching slides and printable worksheets",
     "packCount": 2,
-    "listPrice": "16.00"
+    "listPrice": "16.00",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18277245",
@@ -20883,7 +22669,8 @@
     "tptObservedAt": "2026-11-15",
     "format": "Teaching slides and printable worksheets",
     "packCount": 2,
-    "listPrice": "15.00"
+    "listPrice": "15.00",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18191562",
@@ -20921,7 +22708,8 @@
     "usGrade": "1",
     "usUseNote": "US Common Core resource. Check the listing preview and exact standard; no Australian Curriculum equivalence is claimed.",
     "packCount": 2,
-    "listPrice": "15.00"
+    "listPrice": "15.00",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18201095",
@@ -20960,7 +22748,8 @@
     "usGrade": "1",
     "usUseNote": "US Common Core resource. Check the listing preview and exact standard; no Australian Curriculum equivalence is claimed.",
     "packCount": 2,
-    "listPrice": "15.00"
+    "listPrice": "15.00",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18191587",
@@ -20997,7 +22786,8 @@
     "usGrade": "1",
     "usUseNote": "US Common Core resource. Check the listing preview and exact standard; no Australian Curriculum equivalence is claimed.",
     "packCount": 2,
-    "listPrice": "15.00"
+    "listPrice": "15.00",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18191569",
@@ -21036,7 +22826,8 @@
     "usGrade": "1",
     "usUseNote": "US Common Core resource. Check the listing preview and exact standard; no Australian Curriculum equivalence is claimed.",
     "packCount": 2,
-    "listPrice": "15.00"
+    "listPrice": "15.00",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18191553",
@@ -21073,7 +22864,8 @@
     "usGrade": "1",
     "usUseNote": "US Common Core resource. Check the listing preview and exact standard; no Australian Curriculum equivalence is claimed.",
     "packCount": 2,
-    "listPrice": "15.00"
+    "listPrice": "15.00",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18191542",
@@ -21110,7 +22902,8 @@
     "usGrade": "1",
     "usUseNote": "US Common Core resource. Check the listing preview and exact standard; no Australian Curriculum equivalence is claimed.",
     "packCount": 2,
-    "listPrice": "15.00"
+    "listPrice": "15.00",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18191529",
@@ -21149,7 +22942,8 @@
     "usGrade": "1",
     "usUseNote": "US Common Core resource. Check the listing preview and exact standard; no Australian Curriculum equivalence is claimed.",
     "packCount": 2,
-    "listPrice": "15.00"
+    "listPrice": "15.00",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18337976",
@@ -21185,7 +22979,10 @@
     "market": "au",
     "listingConfirmedAt": "2026-11-15",
     "tptObservedAt": "2026-11-15",
-    "format": "Teaching slides"
+    "format": "Teaching slides",
+    "verifiedListingFacts": {
+      "slides": 143
+    }
   },
   {
     "id": "tpt-18305704",
@@ -21221,7 +23018,10 @@
     "market": "au",
     "listingConfirmedAt": "2026-11-15",
     "tptObservedAt": "2026-11-15",
-    "format": "Teaching slides"
+    "format": "Teaching slides",
+    "verifiedListingFacts": {
+      "slides": 110
+    }
   },
   {
     "id": "tpt-18317137",
@@ -21256,7 +23056,10 @@
     "market": "au",
     "listingConfirmedAt": "2026-11-15",
     "tptObservedAt": "2026-11-15",
-    "format": "Teaching slides"
+    "format": "Teaching slides",
+    "verifiedListingFacts": {
+      "slides": 111
+    }
   },
   {
     "id": "tpt-18337444",
@@ -21291,7 +23094,10 @@
     "market": "au",
     "listingConfirmedAt": "2026-11-15",
     "tptObservedAt": "2026-11-15",
-    "format": "Teaching slides"
+    "format": "Teaching slides",
+    "verifiedListingFacts": {
+      "slides": 117
+    }
   },
   {
     "id": "tpt-18336202",
@@ -21328,7 +23134,10 @@
     "market": "au",
     "listingConfirmedAt": "2026-11-15",
     "tptObservedAt": "2026-11-15",
-    "format": "Teaching slides"
+    "format": "Teaching slides",
+    "verifiedListingFacts": {
+      "slides": 84
+    }
   },
   {
     "id": "tpt-18306290",
@@ -21364,7 +23173,10 @@
     "market": "au",
     "listingConfirmedAt": "2026-11-15",
     "tptObservedAt": "2026-11-15",
-    "format": "Teaching slides"
+    "format": "Teaching slides",
+    "verifiedListingFacts": {
+      "slides": 109
+    }
   },
   {
     "id": "tpt-18306258",
@@ -21398,7 +23210,8 @@
     "market": "au",
     "listingConfirmedAt": "2026-11-15",
     "tptObservedAt": "2026-11-15",
-    "format": "Printable worksheets"
+    "format": "Printable worksheets",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18302280",
@@ -21434,7 +23247,12 @@
     "market": "au",
     "listingConfirmedAt": "2026-11-15",
     "tptObservedAt": "2026-11-15",
-    "format": "Printable worksheets"
+    "format": "Printable worksheets",
+    "verifiedListingFacts": {
+      "pages": 113,
+      "testQuestions": 15,
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "tpt-18321683",
@@ -21469,7 +23287,10 @@
     "market": "au",
     "listingConfirmedAt": "2026-11-15",
     "tptObservedAt": "2026-11-15",
-    "format": "Teaching slides"
+    "format": "Teaching slides",
+    "verifiedListingFacts": {
+      "slides": 113
+    }
   },
   {
     "id": "tpt-18301497",
@@ -21505,7 +23326,11 @@
     "market": "au",
     "listingConfirmedAt": "2026-11-15",
     "tptObservedAt": "2026-11-15",
-    "format": "Printable worksheets"
+    "format": "Printable worksheets",
+    "verifiedListingFacts": {
+      "pages": 122,
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "tpt-18292812",
@@ -21540,7 +23365,10 @@
     "market": "au",
     "listingConfirmedAt": "2026-11-15",
     "tptObservedAt": "2026-11-15",
-    "format": "Teaching slides"
+    "format": "Teaching slides",
+    "verifiedListingFacts": {
+      "slides": 127
+    }
   },
   {
     "id": "tpt-18292051",
@@ -21575,7 +23403,10 @@
     "market": "au",
     "listingConfirmedAt": "2026-11-15",
     "tptObservedAt": "2026-11-15",
-    "format": "Teaching slides"
+    "format": "Teaching slides",
+    "verifiedListingFacts": {
+      "slides": 113
+    }
   },
   {
     "id": "tpt-18291238",
@@ -21610,7 +23441,10 @@
     "market": "au",
     "listingConfirmedAt": "2026-11-15",
     "tptObservedAt": "2026-11-15",
-    "format": "Teaching slides"
+    "format": "Teaching slides",
+    "verifiedListingFacts": {
+      "slides": 80
+    }
   },
   {
     "id": "tpt-18272371",
@@ -21645,7 +23479,10 @@
     "market": "au",
     "listingConfirmedAt": "2026-11-15",
     "tptObservedAt": "2026-11-15",
-    "format": "Teaching slides"
+    "format": "Teaching slides",
+    "verifiedListingFacts": {
+      "slides": 151
+    }
   },
   {
     "id": "tpt-18201626",
@@ -21682,7 +23519,8 @@
     "tptObservedAt": "2026-11-15",
     "format": "Teaching slides",
     "usGrade": "1",
-    "usUseNote": "US Common Core resource. Check the listing preview and exact standard; no Australian Curriculum equivalence is claimed."
+    "usUseNote": "US Common Core resource. Check the listing preview and exact standard; no Australian Curriculum equivalence is claimed.",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18201030",
@@ -21719,7 +23557,8 @@
     "tptObservedAt": "2026-11-15",
     "format": "Teaching slides",
     "usGrade": "1",
-    "usUseNote": "US Common Core resource. Check the listing preview and exact standard; no Australian Curriculum equivalence is claimed."
+    "usUseNote": "US Common Core resource. Check the listing preview and exact standard; no Australian Curriculum equivalence is claimed.",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18191316",
@@ -21757,7 +23596,10 @@
     "tptObservedAt": "2026-11-15",
     "format": "Teaching slides",
     "usGrade": "1",
-    "usUseNote": "US Common Core resource. Check the listing preview and exact standard; no Australian Curriculum equivalence is claimed."
+    "usUseNote": "US Common Core resource. Check the listing preview and exact standard; no Australian Curriculum equivalence is claimed.",
+    "verifiedListingFacts": {
+      "slides": 91
+    }
   },
   {
     "id": "tpt-18190859",
@@ -21796,7 +23638,10 @@
     "tptObservedAt": "2026-11-15",
     "format": "Teaching slides",
     "usGrade": "1",
-    "usUseNote": "US Common Core resource. Check the listing preview and exact standard; no Australian Curriculum equivalence is claimed."
+    "usUseNote": "US Common Core resource. Check the listing preview and exact standard; no Australian Curriculum equivalence is claimed.",
+    "verifiedListingFacts": {
+      "slides": 83
+    }
   },
   {
     "id": "tpt-18334052",
@@ -21834,7 +23679,8 @@
     "tptObservedAt": "2026-11-15",
     "format": "Teaching slides and printable worksheets",
     "packCount": 2,
-    "listPrice": "16.00"
+    "listPrice": "16.00",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18201697",
@@ -21873,7 +23719,8 @@
     "usGrade": "1",
     "usUseNote": "US Common Core resource. Check the listing preview and exact standard; no Australian Curriculum equivalence is claimed.",
     "packCount": 2,
-    "listPrice": "15.00"
+    "listPrice": "15.00",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18320867",
@@ -21910,7 +23757,11 @@
     "market": "au",
     "listingConfirmedAt": "2026-11-15",
     "tptObservedAt": "2026-11-15",
-    "format": "Printable worksheets"
+    "format": "Printable worksheets",
+    "verifiedListingFacts": {
+      "pages": 89,
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18320184",
@@ -21944,7 +23795,10 @@
     "market": "au",
     "listingConfirmedAt": "2026-11-15",
     "tptObservedAt": "2026-11-15",
-    "format": "Printable worksheets"
+    "format": "Printable worksheets",
+    "verifiedListingFacts": {
+      "pages": 93
+    }
   },
   {
     "id": "tpt-18338128",
@@ -21978,7 +23832,10 @@
     "market": "au",
     "listingConfirmedAt": "2026-11-15",
     "tptObservedAt": "2026-11-15",
-    "format": "Printable worksheets"
+    "format": "Printable worksheets",
+    "verifiedListingFacts": {
+      "pages": 80
+    }
   },
   {
     "id": "tpt-18336432",
@@ -22012,7 +23869,12 @@
     "market": "au",
     "listingConfirmedAt": "2026-11-15",
     "tptObservedAt": "2026-11-15",
-    "format": "Printable worksheets"
+    "format": "Printable worksheets",
+    "verifiedListingFacts": {
+      "pages": 81,
+      "answers": "Answer keys included",
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18291731",
@@ -22048,7 +23910,10 @@
     "market": "au",
     "listingConfirmedAt": "2026-11-15",
     "tptObservedAt": "2026-11-15",
-    "format": "Printable worksheets"
+    "format": "Printable worksheets",
+    "verifiedListingFacts": {
+      "pages": 79
+    }
   },
   {
     "id": "tpt-18291013",
@@ -22082,7 +23947,10 @@
     "market": "au",
     "listingConfirmedAt": "2026-11-15",
     "tptObservedAt": "2026-11-15",
-    "format": "Printable worksheets"
+    "format": "Printable worksheets",
+    "verifiedListingFacts": {
+      "pages": 73
+    }
   },
   {
     "id": "tpt-18290056",
@@ -22118,7 +23986,10 @@
     "market": "au",
     "listingConfirmedAt": "2026-11-15",
     "tptObservedAt": "2026-11-15",
-    "format": "Printable worksheets"
+    "format": "Printable worksheets",
+    "verifiedListingFacts": {
+      "pages": 70
+    }
   },
   {
     "id": "tpt-18319518",
@@ -22137,7 +24008,7 @@
     "curriculumCodes": [
       "AC9M4P01"
     ],
-    "description": "0 — AC9M4P01. Students learn through explanations, worked examples and guided tries before answering questions using supplied token sets, counter bags and coin-toss records.",
+    "description": "Teach Year 4 students to compare chances, order events by likelihood and recognise independent and dependent events with this 80-page Probability worksheet pack, supporting Australian Curriculum v9.0 — AC9M4P01. Students learn through explanations, worked examples and guided tries before answering questions using supplied token sets, counter bags and coin-toss records.",
     "url": "/products/tpt-18319518/",
     "image": "https://ecdn.teacherspayteachers.com/cdn-cgi/image/format=avif,quality=70,width=525,height=525,onerror=redirect/thumbitem/Year-4-Probability-Worksheets-Chance-Likelihood-AC9M4P01-18319518-1794518487/750f-18319518-1.jpg",
     "price": "6.00",
@@ -22152,7 +24023,43 @@
     "market": "au",
     "listingConfirmedAt": "2026-11-15",
     "tptObservedAt": "2026-11-15",
-    "format": "Printable worksheets"
+    "format": "Printable worksheets",
+    "previewImages": [
+      {
+        "src": "/assets/product-previews/18319518/page-5.jpg",
+        "alt": "AC9M4P01 worksheet preview — page 5"
+      },
+      {
+        "src": "/assets/product-previews/18319518/page-8.jpg",
+        "alt": "AC9M4P01 worksheet preview — page 8"
+      },
+      {
+        "src": "/assets/product-previews/18319518/page-20.jpg",
+        "alt": "AC9M4P01 worksheet preview — page 20"
+      }
+    ],
+    "verifiedListingFacts": {
+      "pages": 80,
+      "practiceQuestions": 105,
+      "testQuestions": 15,
+      "answers": "Complete answer keys included",
+      "fileFormat": "Flattened A4 PDF"
+    },
+    "includes": [
+      "Teacher guidance and complete answer keys",
+      "Concept reference and vocabulary pages",
+      "Worked examples and guided tries",
+      "105 Practice questions and a separate 15-question Test"
+    ],
+    "productEvidence": {
+      "source": "Published worksheet PDF and observed TpT listing",
+      "checkedAt": "2026-11-16",
+      "previewPageNumbers": [
+        5,
+        8,
+        20
+      ]
+    }
   },
   {
     "id": "tpt-18318601",
@@ -22172,7 +24079,7 @@
     "curriculumCodes": [
       "AC9M4ST03"
     ],
-    "description": "0 — AC9M4ST03. Students learn through clear explanations, worked examples and guided tries before applying their skills to practice questions and a real survey investigation.",
+    "description": "Help Year 4 students plan questions, collect data, create displays and communicate findings with this 109-page Statistical Investigations worksheet pack, supporting Australian Curriculum v9.0 — AC9M4ST03. Students learn through clear explanations, worked examples and guided tries before applying their skills to practice questions and a real survey investigation.",
     "url": "/products/tpt-18318601/",
     "image": "https://ecdn.teacherspayteachers.com/cdn-cgi/image/format=avif,quality=70,width=525,height=525,onerror=redirect/thumbitem/Year-4-Statistical-Investigations-Worksheets-Surveys-Graphs-AC9M4ST03-18318601-1794632786/750f-18318601-1.jpg",
     "price": "6.00",
@@ -22187,7 +24094,43 @@
     "market": "au",
     "listingConfirmedAt": "2026-11-15",
     "tptObservedAt": "2026-11-15",
-    "format": "Printable worksheets"
+    "format": "Printable worksheets",
+    "previewImages": [
+      {
+        "src": "/assets/product-previews/18318601/page-5.jpg",
+        "alt": "AC9M4ST03 worksheet preview — page 5"
+      },
+      {
+        "src": "/assets/product-previews/18318601/page-8.jpg",
+        "alt": "AC9M4ST03 worksheet preview — page 8"
+      },
+      {
+        "src": "/assets/product-previews/18318601/page-20.jpg",
+        "alt": "AC9M4ST03 worksheet preview — page 20"
+      }
+    ],
+    "verifiedListingFacts": {
+      "pages": 109,
+      "practiceQuestions": 105,
+      "testQuestions": 15,
+      "answers": "Complete answer keys included",
+      "fileFormat": "Flattened A4 PDF"
+    },
+    "includes": [
+      "Teacher guidance and complete answer keys",
+      "Concept reference and vocabulary pages",
+      "Worked examples and guided tries",
+      "105 Practice questions and a separate 15-question Test"
+    ],
+    "productEvidence": {
+      "source": "Published worksheet PDF and observed TpT listing",
+      "checkedAt": "2026-11-16",
+      "previewPageNumbers": [
+        5,
+        8,
+        20
+      ]
+    }
   },
   {
     "id": "tpt-18317538",
@@ -22224,7 +24167,12 @@
     "market": "au",
     "listingConfirmedAt": "2026-11-15",
     "tptObservedAt": "2026-11-15",
-    "format": "Printable worksheets"
+    "format": "Printable worksheets",
+    "verifiedListingFacts": {
+      "pages": 93,
+      "practiceQuestions": 105,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-18317031",
@@ -22260,7 +24208,12 @@
     "market": "au",
     "listingConfirmedAt": "2026-11-15",
     "tptObservedAt": "2026-11-15",
-    "format": "Printable worksheets"
+    "format": "Printable worksheets",
+    "verifiedListingFacts": {
+      "pages": 90,
+      "answers": "Answer keys included",
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18290486",
@@ -22296,7 +24249,10 @@
     "market": "au",
     "listingConfirmedAt": "2026-11-15",
     "tptObservedAt": "2026-11-15",
-    "format": "Printable worksheets"
+    "format": "Printable worksheets",
+    "verifiedListingFacts": {
+      "pages": 74
+    }
   },
   {
     "id": "tpt-18289183",
@@ -22331,7 +24287,10 @@
     "market": "au",
     "listingConfirmedAt": "2026-11-15",
     "tptObservedAt": "2026-11-15",
-    "format": "Printable worksheets"
+    "format": "Printable worksheets",
+    "verifiedListingFacts": {
+      "pages": 69
+    }
   },
   {
     "id": "tpt-18287825",
@@ -22367,7 +24326,10 @@
     "market": "au",
     "listingConfirmedAt": "2026-11-15",
     "tptObservedAt": "2026-11-15",
-    "format": "Printable worksheets"
+    "format": "Printable worksheets",
+    "verifiedListingFacts": {
+      "pages": 65
+    }
   },
   {
     "id": "tpt-18275695",
@@ -22401,7 +24363,10 @@
     "market": "au",
     "listingConfirmedAt": "2026-11-15",
     "tptObservedAt": "2026-11-15",
-    "format": "Printable worksheets"
+    "format": "Printable worksheets",
+    "verifiedListingFacts": {
+      "pages": 72
+    }
   },
   {
     "id": "tpt-18206266",
@@ -22437,7 +24402,10 @@
     "tptObservedAt": "2026-11-15",
     "format": "Printable worksheets",
     "usGrade": "2",
-    "usUseNote": "US Common Core resource. Check the listing preview and exact standard; no Australian Curriculum equivalence is claimed."
+    "usUseNote": "US Common Core resource. Check the listing preview and exact standard; no Australian Curriculum equivalence is claimed.",
+    "verifiedListingFacts": {
+      "pages": 59
+    }
   },
   {
     "id": "tpt-18192944",
@@ -22474,7 +24442,10 @@
     "tptObservedAt": "2026-11-15",
     "format": "Printable worksheets",
     "usGrade": "2",
-    "usUseNote": "US Common Core resource. Check the listing preview and exact standard; no Australian Curriculum equivalence is claimed."
+    "usUseNote": "US Common Core resource. Check the listing preview and exact standard; no Australian Curriculum equivalence is claimed.",
+    "verifiedListingFacts": {
+      "pages": 58
+    }
   },
   {
     "id": "tpt-18192704",
@@ -22512,7 +24483,10 @@
     "tptObservedAt": "2026-11-15",
     "format": "Printable worksheets",
     "usGrade": "2",
-    "usUseNote": "US Common Core resource. Check the listing preview and exact standard; no Australian Curriculum equivalence is claimed."
+    "usUseNote": "US Common Core resource. Check the listing preview and exact standard; no Australian Curriculum equivalence is claimed.",
+    "verifiedListingFacts": {
+      "pages": 58
+    }
   },
   {
     "id": "tpt-18192508",
@@ -22549,7 +24523,12 @@
     "tptObservedAt": "2026-11-15",
     "format": "Printable worksheets",
     "usGrade": "2",
-    "usUseNote": "US Common Core resource. Check the listing preview and exact standard; no Australian Curriculum equivalence is claimed."
+    "usUseNote": "US Common Core resource. Check the listing preview and exact standard; no Australian Curriculum equivalence is claimed.",
+    "verifiedListingFacts": {
+      "pages": 58,
+      "practiceQuestions": 60,
+      "testQuestions": 15
+    }
   },
   {
     "id": "tpt-18204866",
@@ -22585,7 +24564,10 @@
     "tptObservedAt": "2026-11-15",
     "format": "Printable worksheets",
     "usGrade": "2",
-    "usUseNote": "US Common Core resource. Check the listing preview and exact standard; no Australian Curriculum equivalence is claimed."
+    "usUseNote": "US Common Core resource. Check the listing preview and exact standard; no Australian Curriculum equivalence is claimed.",
+    "verifiedListingFacts": {
+      "pages": 59
+    }
   },
   {
     "id": "tpt-18204208",
@@ -22621,7 +24603,10 @@
     "tptObservedAt": "2026-11-15",
     "format": "Printable worksheets",
     "usGrade": "2",
-    "usUseNote": "US Common Core resource. Check the listing preview and exact standard; no Australian Curriculum equivalence is claimed."
+    "usUseNote": "US Common Core resource. Check the listing preview and exact standard; no Australian Curriculum equivalence is claimed.",
+    "verifiedListingFacts": {
+      "pages": 59
+    }
   },
   {
     "id": "tpt-18203698",
@@ -22657,7 +24642,11 @@
     "tptObservedAt": "2026-11-15",
     "format": "Printable worksheets",
     "usGrade": "2",
-    "usUseNote": "US Common Core resource. Check the listing preview and exact standard; no Australian Curriculum equivalence is claimed."
+    "usUseNote": "US Common Core resource. Check the listing preview and exact standard; no Australian Curriculum equivalence is claimed.",
+    "verifiedListingFacts": {
+      "pages": 59,
+      "practiceQuestions": 60
+    }
   },
   {
     "id": "tpt-18192258",
@@ -22697,7 +24686,11 @@
     "tptObservedAt": "2026-11-15",
     "format": "Printable worksheets",
     "usGrade": "2",
-    "usUseNote": "US Common Core resource. Check the listing preview and exact standard; no Australian Curriculum equivalence is claimed."
+    "usUseNote": "US Common Core resource. Check the listing preview and exact standard; no Australian Curriculum equivalence is claimed.",
+    "verifiedListingFacts": {
+      "pages": 58,
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "tpt-18351957",
@@ -22734,7 +24727,8 @@
     "tptObservedAt": "2026-11-15",
     "format": "Teaching slides and printable worksheets",
     "packCount": 2,
-    "listPrice": "16.00"
+    "listPrice": "16.00",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18351907",
@@ -22768,7 +24762,10 @@
     "market": "au",
     "listingConfirmedAt": "2026-11-15",
     "tptObservedAt": "2026-11-15",
-    "format": "Teaching slides"
+    "format": "Teaching slides",
+    "verifiedListingFacts": {
+      "slides": 116
+    }
   },
   {
     "id": "tpt-18351700",
@@ -22802,7 +24799,10 @@
     "market": "au",
     "listingConfirmedAt": "2026-11-15",
     "tptObservedAt": "2026-11-15",
-    "format": "Printable worksheets"
+    "format": "Printable worksheets",
+    "verifiedListingFacts": {
+      "pages": 117
+    }
   },
   {
     "id": "tpt-18351474",
@@ -22840,7 +24840,10 @@
     "tptObservedAt": "2026-11-15",
     "format": "Teaching slides and printable worksheets",
     "packCount": 2,
-    "listPrice": "16.00"
+    "listPrice": "16.00",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18351437",
@@ -22875,7 +24878,10 @@
     "market": "au",
     "listingConfirmedAt": "2026-11-15",
     "tptObservedAt": "2026-11-15",
-    "format": "Teaching slides"
+    "format": "Teaching slides",
+    "verifiedListingFacts": {
+      "slides": 121
+    }
   },
   {
     "id": "tpt-18351376",
@@ -22908,7 +24914,11 @@
     "market": "au",
     "listingConfirmedAt": "2026-11-15",
     "tptObservedAt": "2026-11-15",
-    "format": "Printable worksheets"
+    "format": "Printable worksheets",
+    "verifiedListingFacts": {
+      "pages": 102,
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18350842",
@@ -22946,7 +24956,10 @@
     "tptObservedAt": "2026-11-15",
     "format": "Teaching slides and printable worksheets",
     "packCount": 2,
-    "listPrice": "16.00"
+    "listPrice": "16.00",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18350125",
@@ -22981,7 +24994,10 @@
     "market": "au",
     "listingConfirmedAt": "2026-11-15",
     "tptObservedAt": "2026-11-15",
-    "format": "Teaching slides"
+    "format": "Teaching slides",
+    "verifiedListingFacts": {
+      "slides": 101
+    }
   },
   {
     "id": "tpt-18350048",
@@ -23014,7 +25030,10 @@
     "market": "au",
     "listingConfirmedAt": "2026-11-15",
     "tptObservedAt": "2026-11-15",
-    "format": "Printable worksheets"
+    "format": "Printable worksheets",
+    "verifiedListingFacts": {
+      "pages": 98
+    }
   },
   {
     "id": "tpt-18349570",
@@ -23047,7 +25066,10 @@
     "market": "au",
     "listingConfirmedAt": "2026-11-15",
     "tptObservedAt": "2026-11-15",
-    "format": "Printable worksheets"
+    "format": "Printable worksheets",
+    "verifiedListingFacts": {
+      "pages": 117
+    }
   },
   {
     "id": "tpt-18349171",
@@ -23085,7 +25107,8 @@
     "tptObservedAt": "2026-11-15",
     "format": "Teaching slides and printable worksheets",
     "packCount": 2,
-    "listPrice": "16.00"
+    "listPrice": "16.00",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18348986",
@@ -23120,7 +25143,10 @@
     "market": "au",
     "listingConfirmedAt": "2026-11-15",
     "tptObservedAt": "2026-11-15",
-    "format": "Teaching slides"
+    "format": "Teaching slides",
+    "verifiedListingFacts": {
+      "slides": 106
+    }
   },
   {
     "id": "tpt-18348818",
@@ -23153,7 +25179,10 @@
     "market": "au",
     "listingConfirmedAt": "2026-11-15",
     "tptObservedAt": "2026-11-15",
-    "format": "Printable worksheets"
+    "format": "Printable worksheets",
+    "verifiedListingFacts": {
+      "pages": 101
+    }
   },
   {
     "id": "tpt-18348423",
@@ -23191,7 +25220,11 @@
     "tptObservedAt": "2026-11-15",
     "format": "Teaching slides and printable worksheets",
     "packCount": 2,
-    "listPrice": "16.00"
+    "listPrice": "16.00",
+    "verifiedListingFacts": {
+      "answers": "Answer keys included",
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18347682",
@@ -23226,7 +25259,10 @@
     "market": "au",
     "listingConfirmedAt": "2026-11-15",
     "tptObservedAt": "2026-11-15",
-    "format": "Teaching slides"
+    "format": "Teaching slides",
+    "verifiedListingFacts": {
+      "slides": 107
+    }
   },
   {
     "id": "tpt-18347242",
@@ -23260,7 +25296,11 @@
     "market": "au",
     "listingConfirmedAt": "2026-11-15",
     "tptObservedAt": "2026-11-15",
-    "format": "Printable worksheets"
+    "format": "Printable worksheets",
+    "verifiedListingFacts": {
+      "pages": 89,
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18346963",
@@ -23298,7 +25338,10 @@
     "tptObservedAt": "2026-11-15",
     "format": "Teaching slides and printable worksheets",
     "packCount": 2,
-    "listPrice": "16.00"
+    "listPrice": "16.00",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18346865",
@@ -23333,7 +25376,10 @@
     "market": "au",
     "listingConfirmedAt": "2026-11-15",
     "tptObservedAt": "2026-11-15",
-    "format": "Teaching slides"
+    "format": "Teaching slides",
+    "verifiedListingFacts": {
+      "slides": 85
+    }
   },
   {
     "id": "tpt-18345811",
@@ -23371,7 +25417,10 @@
     "tptObservedAt": "2026-11-15",
     "format": "Teaching slides and printable worksheets",
     "packCount": 2,
-    "listPrice": "16.00"
+    "listPrice": "16.00",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18345545",
@@ -23406,7 +25455,10 @@
     "market": "au",
     "listingConfirmedAt": "2026-11-15",
     "tptObservedAt": "2026-11-15",
-    "format": "Teaching slides"
+    "format": "Teaching slides",
+    "verifiedListingFacts": {
+      "slides": 87
+    }
   },
   {
     "id": "tpt-18338619",
@@ -23443,7 +25495,8 @@
     "tptObservedAt": "2026-11-15",
     "format": "Teaching slides and printable worksheets",
     "packCount": 2,
-    "listPrice": "16.00"
+    "listPrice": "16.00",
+    "verifiedListingFacts": {}
   },
   {
     "id": "tpt-18338375",
@@ -23477,7 +25530,10 @@
     "market": "au",
     "listingConfirmedAt": "2026-11-15",
     "tptObservedAt": "2026-11-15",
-    "format": "Teaching slides"
+    "format": "Teaching slides",
+    "verifiedListingFacts": {
+      "slides": 92
+    }
   },
   {
     "id": "tpt-18336064",
@@ -23511,7 +25567,11 @@
     "market": "au",
     "listingConfirmedAt": "2026-11-15",
     "tptObservedAt": "2026-11-15",
-    "format": "Printable worksheets"
+    "format": "Printable worksheets",
+    "verifiedListingFacts": {
+      "pages": 71,
+      "answers": "Answer keys included"
+    }
   },
   {
     "id": "tpt-18335321",
@@ -23549,7 +25609,10 @@
     "tptObservedAt": "2026-11-15",
     "format": "Teaching slides and printable worksheets",
     "packCount": 2,
-    "listPrice": "16.00"
+    "listPrice": "16.00",
+    "verifiedListingFacts": {
+      "fileFormat": "PDF"
+    }
   },
   {
     "id": "tpt-18335246",
@@ -23584,7 +25647,10 @@
     "market": "au",
     "listingConfirmedAt": "2026-11-15",
     "tptObservedAt": "2026-11-15",
-    "format": "Teaching slides"
+    "format": "Teaching slides",
+    "verifiedListingFacts": {
+      "slides": 113
+    }
   },
   {
     "id": "tpt-18333740",
@@ -23619,6 +25685,9 @@
     "market": "au",
     "listingConfirmedAt": "2026-11-15",
     "tptObservedAt": "2026-11-15",
-    "format": "Teaching slides"
+    "format": "Teaching slides",
+    "verifiedListingFacts": {
+      "slides": 93
+    }
   }
 ]
