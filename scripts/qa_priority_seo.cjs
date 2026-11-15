@@ -42,6 +42,12 @@ const server = spawn('python3', ['-m', 'http.server', '8768', '--bind', '127.0.0
       }
       await page.close();
     }
+    const legacy = await browser.newPage({viewport: {width: 390, height: 1000}});
+    await legacy.goto('http://127.0.0.1:8768/product.html?id=tpt-17892705', {waitUntil: 'domcontentloaded'});
+    await legacy.locator('.product-facts dd').first().waitFor();
+    if (!await legacy.locator('.product-facts').innerText().then(t => /Slides|Pages|Practice questions/.test(t))) throw Error('Verified facts missing from legacy product route');
+    if (await legacy.evaluate(() => document.documentElement.scrollWidth > innerWidth)) throw Error('Legacy product route overflows');
+    await legacy.close();
     if (failures.length) throw Error(failures.join('\n'));
   } finally {
     if (browser) await browser.close();
