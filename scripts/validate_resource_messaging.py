@@ -76,7 +76,8 @@ def main():
     parser = argparse.ArgumentParser(); parser.add_argument('--base', default='HEAD')
     args = parser.parse_args()
     names = subprocess.check_output(['git', 'diff', args.base, '--diff-filter=M', '--name-only', '--', '*.html'], cwd=ROOT, text=True).splitlines()
-    assert names, 'Expected a reviewed HTML copy change'
+    # A repeat generation may have no HTML changes; the catalogue, discovery
+    # and normalizer checks still validate that already-current state.
     for name, before in original_sources(args.base, names):
         after = (ROOT / name).read_text()
         old, new = Page(before), Page(after)
@@ -92,6 +93,9 @@ def main():
         removed = Counter(old.links) - Counter(new.links)
         added = Counter(new.links) - Counter(old.links)
         for href in removed:
+            catalogue_urls = {p.get('url') for p in policy.CATALOGUE} | {p.get('tptUrl') for p in policy.CATALOGUE}
+            if href in catalogue_urls and href in new.links:
+                continue  # Remove duplicate purchase links, retaining the product.
             if href == '/print-and-go.html':
                 continue  # Replaced by a newly verified exact-code product.
             if name.startswith('year2/maths/ac9') and href and href.startswith('https://app.skillrhub.com/') and '?try=1&skill=' in href:
