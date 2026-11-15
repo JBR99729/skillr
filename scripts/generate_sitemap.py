@@ -37,7 +37,7 @@ HUMAN_LINK_LABELS={
  "/teach/":"Teach by year",
  "/products/":"Products and downloads",
  "/homeschooling-australia/":"Homeschooling Australia planner and progress record",
- "/worksheets/":"Free worksheets and homework",
+ "/worksheets/":"Paid worksheets and online practice",
  "/blogs/":"Australian Curriculum guides and learning articles",
  "/updates.html":"Latest SkillrHub updates",
  "/why-skillrhub.html":"Why SkillrHub",

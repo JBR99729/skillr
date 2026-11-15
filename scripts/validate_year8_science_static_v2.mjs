@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+import { validatePaidWorksheetNavigation } from './lib/paid_worksheet_navigation.mjs';
 import fs from 'node:fs';
 import path from 'node:path';
 import { validateTopicActivities } from './lib/published_activity_navigation.mjs';
@@ -65,7 +66,8 @@ for(const item of YEAR8_SCIENCE_V2_MIGRATED){
   if(!html.includes(item.victoria.code)||!html.includes(item.victoria.relationship))errors.push(`${item.code}: Victoria mapping missing`);
   for(const c of item.nsw.code.split(';').map(s=>s.trim()))if(!html.includes(c))errors.push(`${item.code}: NSW mapping ${c} missing`);
   if(!html.includes(item.nsw.relationship))errors.push(`${item.code}: NSW relationship missing`);
-  for(const label of ['Teacher Slides','Homework'])if(!html.includes(`>${label}<`))errors.push(`${item.code}: ${label} link missing`);
+  for(const label of ['Teacher Slides'])if(!html.includes(`>${label}<`))errors.push(`${item.code}: ${label} link missing`);
+  errors.push(...validatePaidWorksheetNavigation(html,item.code));
   if(/>Practice Sheet<|>Worksheet</i.test(html))errors.push(`${item.code}: duplicate worksheet/practice-sheet CTA detected`);
   errors.push(...validateTopicActivities(html,item.code,ROOT));
   if(!html.includes('data-report-issue')||!html.includes('/assets/report-issue.js'))errors.push(`${item.code}: Report Issue missing`);

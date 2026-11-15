@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+import { validatePaidWorksheetNavigation } from './lib/paid_worksheet_navigation.mjs';
 
 import fs from "node:fs";
 import path from "node:path";
@@ -37,10 +38,7 @@ for (const unit of units) {
   if (!/(?:What students learn|Learning intention|Learning target|Learning goal|Teaching Lesson|Key concept|Core learning|Response model|Outcome Overview|Core Concepts|Australian Curriculum target)/i.test(html)) fail(`${label}: recognisable static teaching content is missing`);
   if (/\/homework\//i.test(html)) fail(`${label}: legacy Homework route remains`);
   if (/>\s*Homework\s*</i.test(html)) fail(`${label}: legacy Homework label remains`);
-  for (const [kind, url] of [["worksheet", unit.worksheetUrl]]) {
-    if (!hrefs(html).includes(url)) fail(`${label}: ${kind} link is missing`);
-    if (!exists(url)) fail(`${label}: linked ${kind} route does not exist (${url})`);
-  }
+  validatePaidWorksheetNavigation(html, unit.code, root).forEach(fail);
   validateTopicActivities(html, unit.code, root).forEach(fail);
   const wrongPractice = new RegExp(`href=(['"])${unit.worksheetUrl.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}\\1[^>]*>Practice<`, "i");
   if (wrongPractice.test(html)) fail(`${label}: Practice button incorrectly points to the worksheet`);

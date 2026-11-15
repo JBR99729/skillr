@@ -50,3 +50,6 @@ body.year10-science-topic{max-width:none;margin:0;padding:0}
 #skillr-topic-variants .retained-teaching .science-flow>span{max-width:100%;box-sizing:border-box}
 
 #skillr-topic-variants .retained-teaching .retained-model svg{max-height:none}
+
+/* Preserve readable lesson stacking independently of retained grid rules. */
+@media(max-width:1000px){.year10-science-topic #skillr-topic-variants .mini-lesson>.steps{display:block}.year10-science-topic #skillr-topic-variants .mini-lesson>.steps>article{margin-bottom:12px}}
