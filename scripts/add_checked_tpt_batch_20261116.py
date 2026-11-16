@@ -11,6 +11,7 @@ from build_free_tpt_samples import main as build_directory
 from apply_free_sample_topic_seo import update, targets
 from update_topic_learning_seo import REVIEWED_TITLES, REVIEWED_DESCRIPTIONS
 from generate_sitemap import page_title, visible_search_text
+from normalize_resource_messaging import transform
 
 ROOT = Path(__file__).resolve().parents[1]
 PATH_COPY = 'Use the topic explanations and worked examples, try available online practice, then use the free sample for paper practice at home or in class. The optional complete paid pack provides the broader worksheet sequence and answers described in its listing.'
@@ -121,6 +122,7 @@ def main():
         bridge = 'Learn with the worked examples, try available online practice, and use the linked free TpT sample for a first paper activity. The optional complete paid pack has 90 practice questions, four investigations and a separate assessment.' if code == 'AC9M5A01' else 'Learn division strategies through the worked examples, try available online practice, and choose optional paid worksheets for paper learning. The 126-slide teaching resource and the slides-and-worksheets bundle are separate purchase options; check overlap before buying.'
         marker = '<!-- learning-practice-worksheets-20261116 -->'
         if marker not in source: source = re.sub(r'(<h1\b[^>]*>[\s\S]*?</h1>\s*<p\b[^>]*>[\s\S]*?</p>)', lambda m: m[1] + marker + '<p>' + bridge + '</p>', source, count=1)
+        source = transform(source, str(path.relative_to(ROOT)))
         path.write_text(source); pages[unit['url']] = (path, source)
     for name in ['llms.txt', 'llms-full.txt']:
         path = ROOT / name; source = path.read_text()

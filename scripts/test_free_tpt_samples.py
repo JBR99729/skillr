@@ -44,8 +44,8 @@ class FreeSampleTests(unittest.TestCase):
         expected = [p['listingId'] for p in resources()]
         self.assertEqual(set(ids), set(expected))
         self.assertEqual(len(ids), len(set(ids)))
-        self.assertEqual(len(ids), 67)
-        self.assertEqual(sum(p['kind'] == 'worksheets' for p in resources()), 64)
+        self.assertEqual(len(ids), 72)
+        self.assertEqual(sum(p['kind'] == 'worksheets' for p in resources()), 69)
         self.assertEqual(sum(p['kind'] == 'slides' for p in resources()), 3)
         self.assertNotIn('.pdf', block)
 
