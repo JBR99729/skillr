@@ -1,0 +1,3402 @@
+{
+  "scope": "Metadata and review attribution only; all authored sections and resource actions retained",
+  "reference": "year1/maths/ac9m1n01-numbers-to-120/index.html",
+  "retainedSections": [
+    "Heading and introduction",
+    "Authored lessons and worked examples",
+    "Models and diagrams",
+    "Practice and assessment actions",
+    "Optional video",
+    "Resource/product links",
+    "Curriculum references and related topics"
+  ],
+  "authorizedAddition": "One native collapsed resource-review disclosure per canonical topic; question-bank review scope explicitly stated",
+  "canonicalTopicPages": 676,
+  "pages": [
+    {
+      "code": "AC9MFST01",
+      "path": "foundation/maths/ac9mfst01-collect-sort-and-compare-data-represented-by-objects-and-images/index.html",
+      "retainedHtmlSha256": "b0184d1016b22abecfe76f22cb77e83942841982722edb70760efc75071acca3"
+    },
+    {
+      "code": "AC9MFM02",
+      "path": "foundation/maths/ac9mfm02-sequence-days-of-the-week-and-times-of-the-day/index.html",
+      "retainedHtmlSha256": "57cd3ff85e53f1a9007960df806de5bc0d4a0e88123cb7fa9dcf36d1c173e219"
+    },
+    {
+      "code": "AC9MFM01",
+      "path": "foundation/maths/ac9mfm01-and-compare-attributes-of-objects-and-events-including-length/index.html",
+      "retainedHtmlSha256": "9795e4570dc2ec8290fa7c2a9bea30750e4e27c294535400e734f70b5cee92d5"
+    },
+    {
+      "code": "AC9MFN02",
+      "path": "foundation/maths/ac9mfn02-and-name-the-number-of-objects-within-a-collection-up/index.html",
+      "retainedHtmlSha256": "1d76e380b9ff18b04f2371c6e36de0a696cafcb818ae6d963f5564bf312e64b6"
+    },
+    {
+      "code": "AC9MFSP02",
+      "path": "foundation/maths/ac9mfsp02-the-position-and-location-of-themselves-and-objects-in-relation/index.html",
+      "retainedHtmlSha256": "6606d03aabe3b9f5409c0cd5c2da1d9a6cbbaa7d9b2e6e5e1bbe5d307347d372"
+    },
+    {
+      "code": "AC9MFN04",
+      "path": "foundation/maths/ac9mfn04-partition-and-combine-collections-up-to-10-using-part-part/index.html",
+      "retainedHtmlSha256": "80fa1921f77697a7fe8d5a748f7dd30c805fb628e7bb63533c4a46aa3b872e07"
+    },
+    {
+      "code": "AC9MFN03",
+      "path": "foundation/maths/ac9mfn03-and-compare-collections-to-at-least-20-using-counting-and/index.html",
+      "retainedHtmlSha256": "a86f59529ca6b6d120b75afe0de778e91b1f6469d9978c077c36be8edad8df19"
+    },
+    {
+      "code": "AC9MFSP01",
+      "path": "foundation/maths/ac9mfsp01-sort-name-and-create-familiar-shapes-recognise-and-describe/index.html",
+      "retainedHtmlSha256": "c93b73f23a5a2105cbb9b88866c3c83237abd45e93509b6aee0e21fb830c9a88"
+    },
+    {
+      "code": "AC9MFA01",
+      "path": "foundation/maths/ac9mfa01-recognise-copy-and-continue-repeating-patterns-represented-in/index.html",
+      "retainedHtmlSha256": "db66e0a2853dfc1d5e161f834a1ea61297d8d1502273d8a4582e1328b9e7e893"
+    },
+    {
+      "code": "AC9MFN05",
+      "path": "foundation/maths/ac9mfn05-represent-practical-situations-involving-addition-subtraction/index.html",
+      "retainedHtmlSha256": "172ed561dfc9dc6b6b64d39797bd01d351522baea5e2d639d15267f2f4859391"
+    },
+    {
+      "code": "AC9MFN01",
+      "path": "foundation/maths/ac9mfn01-name-represent-and-order-numbers-including-zero-to-at-least/index.html",
+      "retainedHtmlSha256": "66bbdba531371802399cd728a222f819b46b0294b1eceba6edddcef06063f16d"
+    },
+    {
+      "code": "AC9MFN06",
+      "path": "foundation/maths/ac9mfn06-represent-practical-situations-that-involve-equal-sharing-and/index.html",
+      "retainedHtmlSha256": "a021befdea518f12f6757c2575292187f453d5c1c1b15b4088471020ca83427f"
+    },
+    {
+      "code": "AC9SFI05",
+      "path": "foundation/science/ac9sfi05-share-questions-predictions-observations-and-ideas-with-others/index.html",
+      "retainedHtmlSha256": "1c4e6ef8f91c1237432a38bb8c785604fab345e59591e9977e45c5c52c4c2f9a"
+    },
+    {
+      "code": "AC9SFI04",
+      "path": "foundation/science/ac9sfi04-observations-with-predictions-with-guidance/index.html",
+      "retainedHtmlSha256": "dce135ac406fc3c5c913f3745f5a7ae3e342e569fd210b2c93a2245684dc9cd5"
+    },
+    {
+      "code": "AC9SFH01",
+      "path": "foundation/science/ac9sfh01-the-ways-people-make-and-use-observations-and-questions-to/index.html",
+      "retainedHtmlSha256": "e75bd1a5660bd162ecb2c853c32b5c2bab5abfde4fe44ea8ad25317484760bee"
+    },
+    {
+      "code": "AC9SFU01",
+      "path": "foundation/science/ac9sfu01-observe-external-features-of-plants-and-animals-and-describe/index.html",
+      "retainedHtmlSha256": "f133ce4d9298b737a3366f4cb15ef04bb02ae48126daceaba2401d91836685bf"
+    },
+    {
+      "code": "AC9SFI02",
+      "path": "foundation/science/ac9sfi02-engage-in-investigations-safely-and-make-observations-using/index.html",
+      "retainedHtmlSha256": "b20d14c963ae9151951bf5f10993bd0c10b9bae96dcc8e4dee93db26962a52cc"
+    },
+    {
+      "code": "AC9SFI03",
+      "path": "foundation/science/ac9sfi03-represent-observations-in-provided-templates-and-identify/index.html",
+      "retainedHtmlSha256": "a9c570a785d3d96123e4300766321dff8636bd93d13011f6dbcacc3d833026a3"
+    },
+    {
+      "code": "AC9SFU02",
+      "path": "foundation/science/ac9sfu02-how-objects-move-and-how-factors-including-their-size-shape/index.html",
+      "retainedHtmlSha256": "bd9d4a34a3ad8a7a40b8766706b6f338b39a95a3a97fe3dfa87e611866004d64"
+    },
+    {
+      "code": "AC9SFU03",
+      "path": "foundation/science/ac9sfu03-that-objects-can-be-composed-of-different-materials-and-describe/index.html",
+      "retainedHtmlSha256": "cb067d0947f950f5215a76181cdcfaabe3a386963a437a2cc730abbafd0271ba"
+    },
+    {
+      "code": "AC9SFI01",
+      "path": "foundation/science/ac9sfi01-questions-and-make-predictions-based-on-experiences/index.html",
+      "retainedHtmlSha256": "a8b3f91abb5cd6a7814484114404bdda8a0d91314690c67c2af862a14d871107"
+    },
+    {
+      "code": "AC9EFLA06",
+      "path": "foundation/english/ac9efla06-that-sentences-are-made-up-of-groups-of-words-that/index.html",
+      "retainedHtmlSha256": "7c5f2918e47b4d78cf6dc164387a5b7584440fdcc7fae19c362930ae2ef4987c"
+    },
+    {
+      "code": "AC9EFLE01",
+      "path": "foundation/english/ac9efle01-share-ideas-about-stories-poems-and-images-in-literature/index.html",
+      "retainedHtmlSha256": "5463ce6da3658f2f3dd309c2bff4a4c7566b94ba370dbf90e0bb0ca66071c218"
+    },
+    {
+      "code": "AC9EFLA01",
+      "path": "foundation/english/ac9efla01-how-language-is-used-differently-at-home-and-school-depending/index.html",
+      "retainedHtmlSha256": "e9b489d51da0b8418f71e564f2be27e0963e4f66afa3b7fa93b85ca5e6357c9d"
+    },
+    {
+      "code": "AC9EFLE02",
+      "path": "foundation/english/ac9efle02-respond-to-stories-and-share-feelings-and-thoughts-about-their/index.html",
+      "retainedHtmlSha256": "719e748bb728402e1629e9e897ce316e21d99a09018eaccad3cb4c402fe27559"
+    },
+    {
+      "code": "AC9EFLY11",
+      "path": "foundation/english/ac9efly11-and-name-all-upper-and-lower-case-letters-graphs-and-know/index.html",
+      "retainedHtmlSha256": "750bec208f5904c35da01b1c6c13f500853f87f08c971f14f7e2261df83ca075"
+    },
+    {
+      "code": "AC9EFLA08",
+      "path": "foundation/english/ac9efla08-and-develop-awareness-of-vocabulary-used-in-familiar-contexts/index.html",
+      "retainedHtmlSha256": "7ca3282b1637e121a706b9611600dd50a64e95a257bc64e722bdd290879afb07"
+    },
+    {
+      "code": "AC9EFLY15",
+      "path": "foundation/english/ac9efly15-that-words-are-units-of-meaning-and-can-be-made/index.html",
+      "retainedHtmlSha256": "383a0c68f6862b4508ff903995438179cc55d66ab62d96652f19e6a98d3c657c"
+    },
+    {
+      "code": "AC9EFLY10",
+      "path": "foundation/english/ac9efly10-sentences-into-individual-words-orally-blend-and-segment-single/index.html",
+      "retainedHtmlSha256": "e4c6b44ecbc46bbfdb4e2844b8bc19c3d9f0be51be808530305d460300d0e4e9"
+    },
+    {
+      "code": "AC9EFLA03",
+      "path": "foundation/english/ac9efla03-that-texts-can-take-many-forms-such-as-signs-books/index.html",
+      "retainedHtmlSha256": "9222d7e891f84b027fd717db76410bc6591fb6249d7d7a962626cca665dfe607"
+    },
+    {
+      "code": "AC9EFLY12",
+      "path": "foundation/english/ac9efly12-consonant-vowel-consonant-cvc-words-by-representing-sounds-with/index.html",
+      "retainedHtmlSha256": "728fe198f56135e1b380814488733e4edef3d0224f838468018d1052b6a7cb1b"
+    },
+    {
+      "code": "AC9EFLY02",
+      "path": "foundation/english/ac9efly02-interact-in-informal-and-structured-situations-by-listening/index.html",
+      "retainedHtmlSha256": "11c8c4f1af33c4029cce1cc4f0ac42f6f7a239d911a1c40ae8f40e2a0cf13a61"
+    },
+    {
+      "code": "AC9EFLA02",
+      "path": "foundation/english/ac9efla02-different-ways-of-using-language-to-express-preferences-likes/index.html",
+      "retainedHtmlSha256": "a822f2284dafbac94dbb8db2929de1cbff00e658dc1cd8270f4e5c58e660e08c"
+    },
+    {
+      "code": "AC9EFLY01",
+      "path": "foundation/english/ac9efly01-some-familiar-texts-such-as-stories-and-informative-texts-and/index.html",
+      "retainedHtmlSha256": "64da13f5219295b54ad114e5d3f92b3fae5189964f3c18bffea0e477ac9b28fe"
+    },
+    {
+      "code": "AC9EFLY14",
+      "path": "foundation/english/ac9efly14-and-write-some-high-frequency-words-and-other-familiar-words/index.html",
+      "retainedHtmlSha256": "dd4f00899865928d438d77bb808d4e7d30f3de67935a34c5179e1fec71bc1552"
+    },
+    {
+      "code": "AC9EFLY08",
+      "path": "foundation/english/ac9efly08-form-most-lower-case-and-upper-case-letters-using-learnt-letter/index.html",
+      "retainedHtmlSha256": "449a74e29603cf415553bbf0782e45ed0837bb9f9de5b8b584f93b82961b0044"
+    },
+    {
+      "code": "AC9EFLA09",
+      "path": "foundation/english/ac9efla09-punctuation-as-a-feature-of-written-text-different-from-letters/index.html",
+      "retainedHtmlSha256": "f295cc0ebfdcbb21b3f8f14e3de1951658fed2e88f73cebb633969778b9467b2"
+    },
+    {
+      "code": "AC9EFLE05",
+      "path": "foundation/english/ac9efle05-retell-and-adapt-familiar-literary-texts-through-play/index.html",
+      "retainedHtmlSha256": "219f3389f248ddbc3348ea4918fe47c48c989251d5d472359f9c72f293a2846e"
+    },
+    {
+      "code": "AC9EFLY07",
+      "path": "foundation/english/ac9efly07-and-deliver-short-spoken-texts-to-report-ideas-and-events/index.html",
+      "retainedHtmlSha256": "2f76db0fc9edf2622ec2b47148313c82a932ec9660ef048dabc6ba227a7997b0"
+    },
+    {
+      "code": "AC9EFLY05",
+      "path": "foundation/english/ac9efly05-comprehension-strategies-such-as-visualising-predicting/index.html",
+      "retainedHtmlSha256": "1992ff44b103d80783c5abb542c79b4ccacd7a020fd1d7c9a3ac0b765ca00435"
+    },
+    {
+      "code": "AC9EFLE03",
+      "path": "foundation/english/ac9efle03-different-types-of-literary-texts-and-identify-features/index.html",
+      "retainedHtmlSha256": "b867a5dfe81441cc76eae1ae600d275964c4f0c3c47da2b50c2aaefebb26f69b"
+    },
+    {
+      "code": "AC9EFLY13",
+      "path": "foundation/english/ac9efly13-knowledge-of-letters-and-sounds-to-spell-words/index.html",
+      "retainedHtmlSha256": "6a2c4635ff3c2c1c13a70bb823ced8c6364e23790168eb6271d7dc250276accd"
+    },
+    {
+      "code": "AC9EFLY09",
+      "path": "foundation/english/ac9efly09-and-generate-rhyming-words-alliteration-patterns-syllables-and/index.html",
+      "retainedHtmlSha256": "44aa426c3b7ee7e6dcc41d0d12a069749b7d43fa488f2ac081af89715d954d49"
+    },
+    {
+      "code": "AC9EFLA05",
+      "path": "foundation/english/ac9efla05-that-sentences-are-key-units-for-expressing-ideas/index.html",
+      "retainedHtmlSha256": "c8f0aa1deefcd1267dff5c989adb6c41fd57a9e316e028fc63a037071574f555"
+    },
+    {
+      "code": "AC9EFLA07",
+      "path": "foundation/english/ac9efla07-the-contribution-of-images-and-words-to-meaning-in-stories/index.html",
+      "retainedHtmlSha256": "1234378ed9bbb06a3bb36819d974244fb4820b1166a498e065088c9ef10f6ce0"
+    },
+    {
+      "code": "AC9EFLY06",
+      "path": "foundation/english/ac9efly06-and-participate-in-shared-editing-of-short-written-texts-to/index.html",
+      "retainedHtmlSha256": "21145a9c4ef11c8546dced7df8d8c3e16c50028917a1cafc6a2a70fa3c92fa82"
+    },
+    {
+      "code": "AC9EFLE04",
+      "path": "foundation/english/ac9efle04-and-replicate-the-rhythms-and-sound-patterns-of-literary-texts/index.html",
+      "retainedHtmlSha256": "d36fb92e8e0a44c7ff6a8283e57056763ed898602ed794506e1957a7377fe435"
+    },
+    {
+      "code": "AC9EFLA04",
+      "path": "foundation/english/ac9efla04-conventions-of-print-and-screen-including-how-books-and-simple/index.html",
+      "retainedHtmlSha256": "7cc1fd92d3e0713f4ea48569e116323f5a49424f380720ece4bb25156a606b5a"
+    },
+    {
+      "code": "AC9EFLY04",
+      "path": "foundation/english/ac9efly04-decodable-and-authentic-texts-using-developing-phonic-knowledge/index.html",
+      "retainedHtmlSha256": "19b63560c3c4d676e62137359402beb8fd999aff1cf9248286cc2ec8234d7f3d"
+    },
+    {
+      "code": "AC9EFLY03",
+      "path": "foundation/english/ac9efly03-some-differences-between-imaginative-and-informative-texts/index.html",
+      "retainedHtmlSha256": "4b56541865cd2faca7de7755a50c4e4eb0f4ad95a84a95ce073bb35e4e4766ae"
+    },
+    {
+      "code": "AC9M1N02",
+      "path": "year1/maths/ac9m1n02-partitioning-tens-and-ones/index.html",
+      "retainedHtmlSha256": "1ae0da1ce6443347ee79ab53a47beea5bcfcc14b64fc1236efa3792e5695646c"
+    },
+    {
+      "code": "AC9M1M02",
+      "path": "year1/maths/ac9m1m02-measuring-length-with-informal-units/index.html",
+      "retainedHtmlSha256": "b5b25c261fb4451371c13e85a2497a0182c01416588f52616f49a0d32a482bea"
+    },
+    {
+      "code": "AC9M1N05",
+      "path": "year1/maths/ac9m1n05-additive-problem-solving-and-money/index.html",
+      "retainedHtmlSha256": "aad922c4ba89e4e6ffc5b33673ede89ba33c3650fb907e197fe5a921b4db12a2"
+    },
+    {
+      "code": "AC9M1N04",
+      "path": "year1/maths/ac9m1n04-addition-and-subtraction-within-20/index.html",
+      "retainedHtmlSha256": "2c1178dd719e4c4a3f929659cfa26409c33608475e354a8329716340f8c2d28f"
+    },
+    {
+      "code": "AC9M1N06",
+      "path": "year1/maths/ac9m1n06-equal-sharing-and-grouping/index.html",
+      "retainedHtmlSha256": "428e98328879e9959b7ac3bbe085d59891895ee6a0198901d97c6ea521919eb9"
+    },
+    {
+      "code": "AC9M1M01",
+      "path": "year1/maths/ac9m1m01-comparing-length-mass-capacity-and-duration/index.html",
+      "retainedHtmlSha256": "592ea4550a482addf64e2a3294e297fed6d14d86ce4117123bff2af93165c097"
+    },
+    {
+      "code": "AC9M1N01",
+      "path": "year1/maths/ac9m1n01-numbers-to-120/index.html",
+      "retainedHtmlSha256": "568736b4f44db45355d22096007754c5c1fb767a901ef5420875bef1f2b3901b"
+    },
+    {
+      "code": "AC9M1A02",
+      "path": "year1/maths/ac9m1a02-repeating-patterns/index.html",
+      "retainedHtmlSha256": "ca8a98284958ee20c3d97c03d41358e1665554037fb75c25216315ce4860c8ad"
+    },
+    {
+      "code": "AC9M1ST02",
+      "path": "year1/maths/ac9m1st02-representing-and-comparing-data/index.html",
+      "retainedHtmlSha256": "137cacbb4222d29569a5153f296097864f1a8bfd2b0f61c5bd62b32cfae6d02b"
+    },
+    {
+      "code": "AC9M1ST01",
+      "path": "year1/maths/ac9m1st01-collecting-categorical-data/index.html",
+      "retainedHtmlSha256": "5507024dbd6ea29f43822fdba99e1fd55f4069e2d95ec11cb75358bf1d4f58d1"
+    },
+    {
+      "code": "AC9M1A01",
+      "path": "year1/maths/ac9m1a01-skip-counting-pattern-sequences/index.html",
+      "retainedHtmlSha256": "71bf064a8152274b53bf5308b5f4f265abb7f12beec52843105e1e31127d6299"
+    },
+    {
+      "code": "AC9M1SP01",
+      "path": "year1/maths/ac9m1sp01-familiar-shapes-and-objects/index.html",
+      "retainedHtmlSha256": "225033f49f9c783e87f54f3990cd777d0a912dd4fdd638e6fcc38fb3c1f4a911"
+    },
+    {
+      "code": "AC9M1N03",
+      "path": "year1/maths/ac9m1n03-skip-counting-and-equal-groups/index.html",
+      "retainedHtmlSha256": "3fe7652255b16011693212b1917a3764c0b4b51aba1872f9b6cd7b0865f8ba95"
+    },
+    {
+      "code": "AC9M1M03",
+      "path": "year1/maths/ac9m1m03-time-years-months-weeks-days-and-hours/index.html",
+      "retainedHtmlSha256": "5f0e41567fae9b5b363c8fd2ce724df247acd9c7224054cbbcf59663f1b0d227"
+    },
+    {
+      "code": "AC9M1SP02",
+      "path": "year1/maths/ac9m1sp02-directions-and-location/index.html",
+      "retainedHtmlSha256": "b194248b71f7bf7dbf0f16263da4e54db66f2ceeec502542770a826fceb4eda5"
+    },
+    {
+      "code": "AC9S1I04",
+      "path": "year1/science/ac9s1i04-sorting-data-and-representing-patterns/index.html",
+      "retainedHtmlSha256": "a950d5229afcb035277f0b9d06ac0141169a0f18b5918a0f4e53b894750b7e09"
+    },
+    {
+      "code": "AC9S1I05",
+      "path": "year1/science/ac9s1i05-comparing-observations-and-predictions/index.html",
+      "retainedHtmlSha256": "5bf058eb54221544c7e3a4efc0baf7626f3ec1d00b3491b23e5d783b178477a2"
+    },
+    {
+      "code": "AC9S1I01",
+      "path": "year1/science/ac9s1i01-questions-patterns-and-predictions/index.html",
+      "retainedHtmlSha256": "6af1046928aec1ca2d7eba56fa338a2bd92d05758d5d617069baeaf772e51e26"
+    },
+    {
+      "code": "AC9S1U03",
+      "path": "year1/science/ac9s1u03-pushes-and-pulls/index.html",
+      "retainedHtmlSha256": "a6a97b2111e9452b7298687e08feb19ca7e8663b71b70301911f845875c8616c"
+    },
+    {
+      "code": "AC9S1U01",
+      "path": "year1/science/ac9s1u01-needs-of-plants-and-animals/index.html",
+      "retainedHtmlSha256": "0bdef8efbcf9237e18f3f4252384501436bb42d11f23de4a9d799cd49f864578"
+    },
+    {
+      "code": "AC9S1U02",
+      "path": "year1/science/ac9s1u02-daily-and-seasonal-changes/index.html",
+      "retainedHtmlSha256": "ff3579c6d49f159d48976efe6109e2e078a9e8edd47e9e0318feb1ce6b4a0265"
+    },
+    {
+      "code": "AC9S1I02",
+      "path": "year1/science/ac9s1i02-safe-investigation-procedures/index.html",
+      "retainedHtmlSha256": "0ab6a8a09f078e59139e764c43a3547da77121bbc3c6d5666a93322aa58cbf78"
+    },
+    {
+      "code": "AC9S1I06",
+      "path": "year1/science/ac9s1i06-communicating-scientific-ideas/index.html",
+      "retainedHtmlSha256": "4d4ee1916a0db4524ced6294a31a7204ac22ffcecdbae0bd969919fb19c89f57"
+    },
+    {
+      "code": "AC9S1H01",
+      "path": "year1/science/ac9s1h01-science-in-daily-life/index.html",
+      "retainedHtmlSha256": "469e85f4cec0c34fad36360b7f220e7e8993d29e4c985c7f79a5f6262264fb36"
+    },
+    {
+      "code": "AC9S1I03",
+      "path": "year1/science/ac9s1i03-making-and-recording-observations/index.html",
+      "retainedHtmlSha256": "25fda5556aaa47da590acb50ead63698d818ad7d2ba58d3ec8e293c991996883"
+    },
+    {
+      "code": "AC9E1LA04",
+      "path": "year1/english/ac9e1la04-how-repetition-rhyme-and-rhythm-create-cohesion-in-simple-poems/index.html",
+      "retainedHtmlSha256": "6a45afda6e54bafdfcf182904e1ac6e38aac1d29982fec30a9202906511ad7de"
+    },
+    {
+      "code": "AC9E1LA09",
+      "path": "year1/english/ac9e1la09-the-vocabulary-of-learning-area-topics/index.html",
+      "retainedHtmlSha256": "0748afca49e02b02864877b75cff99bd5a7eb62e93097d3578b6016c57d889a6"
+    },
+    {
+      "code": "AC9E1LE03",
+      "path": "year1/english/ac9e1le03-plot-character-and-setting-which-are-features-of-stories/index.html",
+      "retainedHtmlSha256": "77312667f738423f8da73f6fc37d3b13024589f7cfdc4b5a7f4d762edf69b913"
+    },
+    {
+      "code": "AC9E1LY15",
+      "path": "year1/english/ac9e1ly15-and-know-how-to-use-grammatical-morphemes-to-create-word/index.html",
+      "retainedHtmlSha256": "3f118bba26aa39ebc611749d7dd8f2e3deab75d46f81957e65f0a0c05d20f8aa"
+    },
+    {
+      "code": "AC9E1LE04",
+      "path": "year1/english/ac9e1le04-poems-chants-rhymes-and-songs-and-imitate-and-invent-sound/index.html",
+      "retainedHtmlSha256": "eb0ae9eed1337cf287129a6dbbfe3f525f955f2a8b70d1a312cf720e0450c135"
+    },
+    {
+      "code": "AC9E1LY14",
+      "path": "year1/english/ac9e1ly14-and-write-an-increasing-number-of-high-frequency-words/index.html",
+      "retainedHtmlSha256": "6096fc46d34270b27e87d1233b5fe4991704f0dbad71962a5bf6f0dd8fdf0cce"
+    },
+    {
+      "code": "AC9E1LY11",
+      "path": "year1/english/ac9e1ly11-short-vowels-common-long-vowels-consonant-blends-and-digraphs-to/index.html",
+      "retainedHtmlSha256": "2917c162136f9f36ef813759fba7d72f0be0656577d44343be56127e0c4286ca"
+    },
+    {
+      "code": "AC9E1LY13",
+      "path": "year1/english/ac9e1ly13-one-and-two-syllable-words-with-common-letter-patterns/index.html",
+      "retainedHtmlSha256": "7f3d9523bf6a7a8599ad04e159184ec336b5b27c8b76c3bc0b196977aba5665a"
+    },
+    {
+      "code": "AC9E1LY01",
+      "path": "year1/english/ac9e1ly01-different-texts-and-identify-some-features-that-indicate-their/index.html",
+      "retainedHtmlSha256": "a7fbdab6fc0c0edcf360c1f4385b1150668f2f47eb7d1d0393d077975f2be057"
+    },
+    {
+      "code": "AC9E1LY09",
+      "path": "year1/english/ac9e1ly09-words-into-separate-phonemes-sounds-including-consonant-blends/index.html",
+      "retainedHtmlSha256": "c8414cdac3e0b75ecf82d5d60250e6b76e54ee5fa83cfa938cd7181ff7bc6cc6"
+    },
+    {
+      "code": "AC9E1LA05",
+      "path": "year1/english/ac9e1la05-how-print-and-screen-texts-are-organised-using-features-such/index.html",
+      "retainedHtmlSha256": "16e8892edede746daea1d1057d29ed1045584b67ee03854b6ed20a428b86c4b2"
+    },
+    {
+      "code": "AC9E1LE02",
+      "path": "year1/english/ac9e1le02-literary-texts-and-share-responses-by-making-connections-with/index.html",
+      "retainedHtmlSha256": "17c52beee4786f30ac00fb0aa9ef550931bdfd0804030347eab260167fb49233"
+    },
+    {
+      "code": "AC9E1LY07",
+      "path": "year1/english/ac9e1ly07-and-deliver-short-oral-and-or-multimodal-presentations-on/index.html",
+      "retainedHtmlSha256": "5a0c23935268c1055e6cc3a897b8098d59e71426840b457b99a5062b624c833b"
+    },
+    {
+      "code": "AC9E1LY12",
+      "path": "year1/english/ac9e1ly12-that-a-letter-can-represent-more-than-one-sound-and/index.html",
+      "retainedHtmlSha256": "68b6f7a0e54e83c9c73b2cf477d3cfe6423ffa1ade188182d583e62a7a54a9b6"
+    },
+    {
+      "code": "AC9E1LY02",
+      "path": "year1/english/ac9e1ly02-interaction-skills-including-turn-taking-speaking-clearly-using/index.html",
+      "retainedHtmlSha256": "760128826bde1ad84eff9327816c3300be16f541069492373066dccc7cfb198e"
+    },
+    {
+      "code": "AC9E1LY03",
+      "path": "year1/english/ac9e1ly03-some-similarities-and-differences-between-imaginative/index.html",
+      "retainedHtmlSha256": "1282669fb32698456c65fe23e8b7eead6580031e7080907c54e583f0f82c621d"
+    },
+    {
+      "code": "AC9E1LA02",
+      "path": "year1/english/ac9e1la02-language-to-provide-reasons-for-likes-dislikes-and-preferences/index.html",
+      "retainedHtmlSha256": "5a5180e490dbc2188f3c01d72bbfa75ed2e6ca15e8e4529eab18a422b1214c8e"
+    },
+    {
+      "code": "AC9E1LA10",
+      "path": "year1/english/ac9e1la10-that-written-language-uses-punctuation-such-as-full-stops/index.html",
+      "retainedHtmlSha256": "620317552e01698c7737891a909e8a6611a7a75e6eb4ad7b95fa055641af593b"
+    },
+    {
+      "code": "AC9E1LA01",
+      "path": "year1/english/ac9e1la01-how-language-facial-expressions-and-gestures-are-used-to/index.html",
+      "retainedHtmlSha256": "f13a3054d4e5ec4c36ca54df45bdda70982e1a6d363830277802ff3ca03107ca"
+    },
+    {
+      "code": "AC9E1LE01",
+      "path": "year1/english/ac9e1le01-how-language-and-images-are-used-to-create-characters-settings/index.html",
+      "retainedHtmlSha256": "c31433c59a3d835db3273ebe3a5278a01391e6e0966228dc9b8783d6e2b1bd3d"
+    },
+    {
+      "code": "AC9E1LY10",
+      "path": "year1/english/ac9e1ly10-manipulate-phonemes-in-spoken-words-by-addition-deletion-and/index.html",
+      "retainedHtmlSha256": "af8a5d2ff5196c74fa0a4afe7458995cf7ee2dc544bd283e5b919a355ec28420"
+    },
+    {
+      "code": "AC9E1LA03",
+      "path": "year1/english/ac9e1la03-how-texts-are-organised-according-to-their-purpose-such-as/index.html",
+      "retainedHtmlSha256": "5a4c1b6b74324d6ba4048f6e717ae7c0a2ae77980da054a75c7a54dd7706a961"
+    },
+    {
+      "code": "AC9E1LY05",
+      "path": "year1/english/ac9e1ly05-comprehension-strategies-such-as-visualising-predicting/index.html",
+      "retainedHtmlSha256": "71a07bb027a555e88d35b1b0a27d41df15b7b724512766054fedf2cbf3d585b5"
+    },
+    {
+      "code": "AC9E1LY06",
+      "path": "year1/english/ac9e1ly06-and-re-read-to-edit-short-written-and-or-multimodal-texts-to/index.html",
+      "retainedHtmlSha256": "3df59f6b363eb5946c7d5465d4afc36602ad76b28cf4af285135027266d1f8cc"
+    },
+    {
+      "code": "AC9E1LA07",
+      "path": "year1/english/ac9e1la07-that-words-can-represent-people-places-and-things-nouns/index.html",
+      "retainedHtmlSha256": "c6ffb29fc2fb0df2d1778b1b5325409c49a7ae0fde43fd566b436e843e1c7526"
+    },
+    {
+      "code": "AC9E1LE05",
+      "path": "year1/english/ac9e1le05-retell-or-adapt-a-familiar-story-using-plot-and-characters/index.html",
+      "retainedHtmlSha256": "bfc3c00212b9080d3dedd287b0c9efa014ea37e60e9f1f86d6d877f0ab872e11"
+    },
+    {
+      "code": "AC9E1LA06",
+      "path": "year1/english/ac9e1la06-that-a-simple-sentence-consists-of-a-single-independent-clause/index.html",
+      "retainedHtmlSha256": "a3f5e98db05b8b13f9f8442e5ed7c2c6f811197624eb3bfd27f41c535ab27d79"
+    },
+    {
+      "code": "AC9E1LY08",
+      "path": "year1/english/ac9e1ly08-words-using-unjoined-lower-case-and-upper-case-letters/index.html",
+      "retainedHtmlSha256": "a749f0ef87063a9e7c7a280b9fa7b58940886989990d9127742cacdf999f826b"
+    },
+    {
+      "code": "AC9E1LA08",
+      "path": "year1/english/ac9e1la08-how-images-in-different-types-of-texts-contribute-to-meaning/index.html",
+      "retainedHtmlSha256": "64734be343fe31c5f3770ffd3b82018c0d772f5ae4c70abcfc38e1841014a96d"
+    },
+    {
+      "code": "AC9E1LY04",
+      "path": "year1/english/ac9e1ly04-decodable-and-authentic-texts-using-developing-phonic-knowledge/index.html",
+      "retainedHtmlSha256": "5c186fd9a809d66e497feed27e14f887e51285e1a649c5dd5cf0034de0692759"
+    },
+    {
+      "code": "AC9M2SP01",
+      "path": "year2/maths/ac9m2sp01-recognise-compare-and-classify-shapes-referencing-the-number-of/index.html",
+      "retainedHtmlSha256": "485a621df1e054877b15239f6382c60fadff0f9503208351a1079ed8b4cc6d15"
+    },
+    {
+      "code": "AC9M2N02",
+      "path": "year2/maths/ac9m2n02-partition-rearrange-regroup-and-rename-two-and-three-digit/index.html",
+      "retainedHtmlSha256": "f5bbfa9609f41ffe61ce931b76a4ffc7b8eb0d9d62f1c44adaefa38a4f9b86a8"
+    },
+    {
+      "code": "AC9M2N04",
+      "path": "year2/maths/ac9m2n04-add-and-subtract-one-and-two-digit-numbers-representing/index.html",
+      "retainedHtmlSha256": "afd5e8446c113cfc3184bc34d426a032c272edb7e03fcd8c90cd0dff09c3d423"
+    },
+    {
+      "code": "AC9M2N06",
+      "path": "year2/maths/ac9m2n06-mathematical-modelling-to-solve-practical-problems-involving/index.html",
+      "retainedHtmlSha256": "9f0b9222f9c063d9e3a1ff9668f1e3715d892fbfb8fecab52f89564da682da48"
+    },
+    {
+      "code": "AC9M2A02",
+      "path": "year2/maths/ac9m2a02-recall-and-demonstrate-proficiency-with-addition-facts-to-20/index.html",
+      "retainedHtmlSha256": "2dd2de41434384db07d719a94b5a2afba28fa79245d4b53d5d371091a27d4a8c"
+    },
+    {
+      "code": "AC9M2M01",
+      "path": "year2/maths/ac9m2m01-measure-and-compare-objects-based-on-length-capacity-and-mass/index.html",
+      "retainedHtmlSha256": "7cd5f4061d50d1693f87bf9ab093f6ab74d87c011254fdf442c8f5db96883ac8"
+    },
+    {
+      "code": "AC9M2SP02",
+      "path": "year2/maths/ac9m2sp02-locate-positions-in-two-dimensional-representations-of-a/index.html",
+      "retainedHtmlSha256": "6f14e9fa7e4136e841a191e741793b799a2049286ef34cef4af7fc4107f3e672"
+    },
+    {
+      "code": "AC9M2N01",
+      "path": "year2/maths/ac9m2n01-recognise-represent-and-order-numbers-to-at-least-1000-using/index.html",
+      "retainedHtmlSha256": "05705f973cdcc7036750ba287e1bab783f1365e9a91ec5c394c6ef59ff40ccef"
+    },
+    {
+      "code": "AC9M2N03",
+      "path": "year2/maths/ac9m2n03-and-describe-one-half-as-one-of-2-equal-parts-of/index.html",
+      "retainedHtmlSha256": "afe219acdb44e7b0f1996f9b1bab14a3115362d967ce49c0390cf0d5590bfedb"
+    },
+    {
+      "code": "AC9M2M03",
+      "path": "year2/maths/ac9m2m03-the-date-and-determine-the-number-of-days-between-events/index.html",
+      "retainedHtmlSha256": "69240f49b3fc5a435627c59994b242734cefb1ebc1b4119b988db75b5754e3bf"
+    },
+    {
+      "code": "AC9M2M02",
+      "path": "year2/maths/ac9m2m02-common-uses-and-represent-halves-quarters-and-eighths-in/index.html",
+      "retainedHtmlSha256": "5a848a5dc2dac355d8c830687d800791daf7bb9aad2cfcec2fcc4eba2013fa38"
+    },
+    {
+      "code": "AC9M2ST02",
+      "path": "year2/maths/ac9m2st02-different-graphical-representations-of-data-using-software/index.html",
+      "retainedHtmlSha256": "92b51d117ff6a092d7fbd313018416c6a8f29a36441ccd489e173a8b60c20270"
+    },
+    {
+      "code": "AC9M2M05",
+      "path": "year2/maths/ac9m2m05-identify-describe-and-demonstrate-quarter-half-three-quarter/index.html",
+      "retainedHtmlSha256": "17738f322b7de78c647fbfc35480a8e159033b0a05baf2b24878b16ede84994c"
+    },
+    {
+      "code": "AC9M2A03",
+      "path": "year2/maths/ac9m2a03-recall-and-demonstrate-proficiency-with-multiplication-facts/index.html",
+      "retainedHtmlSha256": "22e9ad443ee5721bbe3e6477bd2ef6b4567e67e398793969bc88c4e7488bd752"
+    },
+    {
+      "code": "AC9M2A01",
+      "path": "year2/maths/ac9m2a01-recognise-describe-and-create-additive-patterns-that-increase/index.html",
+      "retainedHtmlSha256": "2ad7333475d5acca6a31dffa0b7f4934ab9cb21f68560b08f2f7773237bdbd16"
+    },
+    {
+      "code": "AC9M2N05",
+      "path": "year2/maths/ac9m2n05-multiply-and-divide-by-one-digit-numbers-using-repeated/index.html",
+      "retainedHtmlSha256": "0a0201b9f80b616d88f790347bf028c8736e29055d63f3f268431e222e3ee2ac"
+    },
+    {
+      "code": "AC9M2M04",
+      "path": "year2/maths/ac9m2m04-and-read-the-time-represented-on-an-analog-clock-to/index.html",
+      "retainedHtmlSha256": "2dd3eb83dab4fb40aa6b80379b5fdfe8991a3dd42ea9b24bdbde573c1ce3b47b"
+    },
+    {
+      "code": "AC9M2ST01",
+      "path": "year2/maths/ac9m2st01-acquire-data-for-categorical-variables-through-surveys/index.html",
+      "retainedHtmlSha256": "a9b3c8b1ac0d88c05a5339e4266b600c62c7912dfe894280970b8f02855ee8a3"
+    },
+    {
+      "code": "AC9S2U03",
+      "path": "year2/science/ac9s2u03-that-materials-can-be-changed-physically-without-changing-their/index.html",
+      "retainedHtmlSha256": "1d8b7eae58a65778df48f08adc225422f498d286755fd0b9874266f44b9029f7"
+    },
+    {
+      "code": "AC9S2U01",
+      "path": "year2/science/ac9s2u01-earth-is-a-planet-in-the-solar-system-and-identify/index.html",
+      "retainedHtmlSha256": "a11dcddcc85f6bf257e268c7fdfc2a9f060bdd4c66cbfec3f519b57918d6e7ab"
+    },
+    {
+      "code": "AC9S2H01",
+      "path": "year2/science/ac9s2h01-how-people-use-science-in-their-daily-lives-including-using/index.html",
+      "retainedHtmlSha256": "c890e3c67424d5b1890615ac24cafed3a7a7d2017fe624b8bb79926dd2b2d114"
+    },
+    {
+      "code": "AC9S2I04",
+      "path": "year2/science/ac9s2i04-and-order-data-and-information-and-represent-patterns-including/index.html",
+      "retainedHtmlSha256": "6bd86e1e2888f428a4a75548bcd51dbec636bc5c36b148e3472f2d0830ddfb50"
+    },
+    {
+      "code": "AC9S2I05",
+      "path": "year2/science/ac9s2i05-observations-with-predictions-and-others-observations-consider/index.html",
+      "retainedHtmlSha256": "b1c4cf3b9bb743470278fa362311bfd5ef84a71e834833f5c596eb1cc1a29974"
+    },
+    {
+      "code": "AC9S2I03",
+      "path": "year2/science/ac9s2i03-and-record-observations-including-informal-measurements-using/index.html",
+      "retainedHtmlSha256": "eee4c5aaabb1772a6831adaa06fb90d052d8704023addc9bd1a290e4e264c88a"
+    },
+    {
+      "code": "AC9S2I01",
+      "path": "year2/science/ac9s2i01-questions-to-explore-observed-simple-patterns-and-relationships/index.html",
+      "retainedHtmlSha256": "d9bd679b5b375b5fdb0825983417ad7fdbfcdd1c19fa1fa104344856da67ab00"
+    },
+    {
+      "code": "AC9S2I06",
+      "path": "year2/science/ac9s2i06-and-create-texts-to-communicate-observations-findings-and-ideas/index.html",
+      "retainedHtmlSha256": "3d5210232113a4b4dd6eef6612e7f37e5db7d1e6953de666b106547cdf729432"
+    },
+    {
+      "code": "AC9S2U02",
+      "path": "year2/science/ac9s2u02-different-actions-to-make-sounds-and-how-to-make-a/index.html",
+      "retainedHtmlSha256": "c4b244c20b7faa691ece17b8470c57fe7aeb6dfd53ae7b1278bdce729873e9a6"
+    },
+    {
+      "code": "AC9S2I02",
+      "path": "year2/science/ac9s2i02-and-follow-safe-procedures-to-investigate-questions-and-test/index.html",
+      "retainedHtmlSha256": "bb865047ab00df334f59a90248e40eb8086b730fbdcec1a96293fb9f8be2151e"
+    },
+    {
+      "code": "AC9E2LY08",
+      "path": "year2/english/ac9e2ly08-words-legibly-and-with-growing-fluency-using-unjoined-upper/index.html",
+      "retainedHtmlSha256": "1e98b6c04192e8672ce3fd1edd58d24f9951d74162125dc8c753337655382a1f"
+    },
+    {
+      "code": "AC9E2LY02",
+      "path": "year2/english/ac9e2ly02-interaction-skills-when-engaging-with-topics-actively-listening/index.html",
+      "retainedHtmlSha256": "ee951609cec6ba4f7efa4146b19ae73c7b268a616159544174b554a3a1ac89b3"
+    },
+    {
+      "code": "AC9E2LY07",
+      "path": "year2/english/ac9e2ly07-create-rehearse-and-deliver-short-oral-and-or-multimodal/index.html",
+      "retainedHtmlSha256": "b8fa0e037999864b63e152055088f8f0358f4262087707a4e5c828425367af5a"
+    },
+    {
+      "code": "AC9E2LY10",
+      "path": "year2/english/ac9e2ly10-phoneme-grapheme-sound-letter-s-matches-including-vowel/index.html",
+      "retainedHtmlSha256": "ad29ec5ad7ffda390bd2cdad30d7ab426aeca79df1ca3482e23fde6ae6f5ca15"
+    },
+    {
+      "code": "AC9E2LE03",
+      "path": "year2/english/ac9e2le03-the-characters-and-settings-of-a-range-of-texts-and/index.html",
+      "retainedHtmlSha256": "9621c5eddad7af1d68c296700dcda1a188dcdd0c77bcee26b260af718c2ac8ab"
+    },
+    {
+      "code": "AC9E2LY12",
+      "path": "year2/english/ac9e2ly12-build-morphemic-word-families-using-knowledge-of-prefixes-and/index.html",
+      "retainedHtmlSha256": "e46a1cd33578e4a559aab606dc2066451b706cb7265ef65a963650d6bb7e7a3b"
+    },
+    {
+      "code": "AC9E2LA05",
+      "path": "year2/english/ac9e2la05-navigate-print-and-screen-texts-using-chapters-tables-of/index.html",
+      "retainedHtmlSha256": "9530865b5c4e23aa6a69b93ebf9ad85d92f2d5a8c734dd438e74c083634ccac3"
+    },
+    {
+      "code": "AC9E2LA04",
+      "path": "year2/english/ac9e2la04-how-texts-are-made-cohesive-by-using-personal-and-possessive/index.html",
+      "retainedHtmlSha256": "01e1aff5e91dac79367187a0168a5a8da0abc7f16a8d24e0c7e9297dbcd251e4"
+    },
+    {
+      "code": "AC9E2LE04",
+      "path": "year2/english/ac9e2le04-identify-reproduce-and-experiment-with-rhythmic-sound-and-word/index.html",
+      "retainedHtmlSha256": "1757fc41a41838b1b325f31150f5e755257a95063a31c83601a17920cb5fc9b0"
+    },
+    {
+      "code": "AC9E2LY06",
+      "path": "year2/english/ac9e2ly06-and-edit-short-imaginative-informative-and-persuasive-written/index.html",
+      "retainedHtmlSha256": "24ce4515c4b72c88aa16e065e2267611fe59117d5d6f3baa64d34891ad0b20a9"
+    },
+    {
+      "code": "AC9E2LY05",
+      "path": "year2/english/ac9e2ly05-comprehension-strategies-such-as-visualising-predicting/index.html",
+      "retainedHtmlSha256": "9284507f0ac13c55cb4cc2f1d407dc3fb483b13967f8ddb862776a0ef70cc9f5"
+    },
+    {
+      "code": "AC9E2LA02",
+      "path": "year2/english/ac9e2la02-how-language-can-be-used-for-appreciating-texts-and-providing/index.html",
+      "retainedHtmlSha256": "ce4024022ac468014713fb86cdf7cb308396c68efe33d96727188b61ec5be4c1"
+    },
+    {
+      "code": "AC9E2LY04",
+      "path": "year2/english/ac9e2ly04-texts-with-phrasing-and-fluency-using-phonic-and-word-knowledge/index.html",
+      "retainedHtmlSha256": "1f122b898c01ad72cb9d86509789022703b6ec89b1f23b9277ca3712b81c88cf"
+    },
+    {
+      "code": "AC9E2LY09",
+      "path": "year2/english/ac9e2ly09-manipulate-more-complex-sounds-in-spoken-words-and-use-knowledge/index.html",
+      "retainedHtmlSha256": "9e2dcb7e1de469bd3d6954be765cfeccc5b2ce26b9f92714ede0b63acfe8e7a5"
+    },
+    {
+      "code": "AC9E2LE01",
+      "path": "year2/english/ac9e2le01-how-characters-and-settings-are-connected-in-literature-created/index.html",
+      "retainedHtmlSha256": "d80aa138928a24d912883b81f9df57d0d985537128554fb4c91b1c44a44c1b1c"
+    },
+    {
+      "code": "AC9E2LY01",
+      "path": "year2/english/ac9e2ly01-how-similar-topics-and-information-are-presented-in-different/index.html",
+      "retainedHtmlSha256": "4743cc3bb4996f86b7331ef4bf2b008cb1a7e97009d57492150a42235263e711"
+    },
+    {
+      "code": "AC9E2LE02",
+      "path": "year2/english/ac9e2le02-features-of-literary-texts-such-as-characters-and-settings-and/index.html",
+      "retainedHtmlSha256": "032372a7d9513a9161454d7ca1eb025a6d94f0c564ce6993f109b29602cc42d8"
+    },
+    {
+      "code": "AC9E2LY11",
+      "path": "year2/english/ac9e2ly11-knowledge-of-spelling-patterns-and-morphemes-to-read-and-write/index.html",
+      "retainedHtmlSha256": "68daa8c632af26a81a9a34217757eb9eeb7846778e1bd76b2b3e947205255bf7"
+    },
+    {
+      "code": "AC9E2LE05",
+      "path": "year2/english/ac9e2le05-and-edit-literary-texts-by-adapting-structures-and-language/index.html",
+      "retainedHtmlSha256": "827eb74b65e87057a137e6caa2e18fd50eaa679bb5b421c32dee9ee5d1c6e4b9"
+    },
+    {
+      "code": "AC9E2LY03",
+      "path": "year2/english/ac9e2ly03-the-purpose-and-audience-of-imaginative-informative-and/index.html",
+      "retainedHtmlSha256": "6e7364ad91e243a59ea6b6f0549e990151059d65902e0c48c2b1d99757d60056"
+    },
+    {
+      "code": "AC9E2LA10",
+      "path": "year2/english/ac9e2la10-that-capital-letters-are-used-in-titles-and-commas-are/index.html",
+      "retainedHtmlSha256": "bc7088b4a1e994c83b98f20d54c282a59717a16edc83e5cd5131e08f78791212"
+    },
+    {
+      "code": "AC9E2LA01",
+      "path": "year2/english/ac9e2la01-investigate-how-interpersonal-language-choices-vary-depending/index.html",
+      "retainedHtmlSha256": "35ebab9863f8dde5fe10590126b44d5114c594bc4afe2f0643dbb3d6a17f8ae6"
+    },
+    {
+      "code": "AC9E2LA03",
+      "path": "year2/english/ac9e2la03-how-texts-across-the-curriculum-are-organised-differently-and/index.html",
+      "retainedHtmlSha256": "4736b3f4c5d04042ff9899287333eb505a945a52cc59f4d0ae473505c2e50e3b"
+    },
+    {
+      "code": "AC9E2LA06",
+      "path": "year2/english/ac9e2la06-that-connections-can-be-made-between-ideas-by-using-a/index.html",
+      "retainedHtmlSha256": "e7f4b45c914cec02ff16f5d8b1939508aa4bb2e46aa23678180a32c2217e1256"
+    },
+    {
+      "code": "AC9E2LA09",
+      "path": "year2/english/ac9e2la09-experiment-with-and-begin-to-make-conscious-choices-of/index.html",
+      "retainedHtmlSha256": "e531bb48d5b04eeaf3e6aad9593ff2a6ee8a3a110924c434ad166678979d6c2a"
+    },
+    {
+      "code": "AC9E2LA07",
+      "path": "year2/english/ac9e2la07-that-in-sentences-nouns-may-be-extended-into-noun-groups/index.html",
+      "retainedHtmlSha256": "f575c5ddc29d9674d9c59f7c27b68f87521792fa609cfcc807e79c95a06482ba"
+    },
+    {
+      "code": "AC9E2LA08",
+      "path": "year2/english/ac9e2la08-that-images-add-to-or-multiply-the-meanings-of-a/index.html",
+      "retainedHtmlSha256": "c534b4e71170d4812d4b358537a24c0f97fe034277ad162e8bcb3316a158e585"
+    },
+    {
+      "code": "AC9M3N07",
+      "path": "year3/maths/ac9m3n07-follow-and-create-algorithms-involving-a-sequence-of-steps-and/index.html",
+      "retainedHtmlSha256": "c4c62dcec6bab8366ba36b7859a81c24cc655ceb1244ababb7f367766e6e3639"
+    },
+    {
+      "code": "AC9M3M01",
+      "path": "year3/maths/ac9m3m01-which-metric-units-are-used-to-measure-everyday-items-use/index.html",
+      "retainedHtmlSha256": "c23c110285022ebb524cebb9ac82bf591841eb7575264d9202202dcea2d09ead"
+    },
+    {
+      "code": "AC9M3M03",
+      "path": "year3/maths/ac9m3m03-and-use-the-relationship-between-formal-units-of-time-including/index.html",
+      "retainedHtmlSha256": "697a9135657805183b9cdd0487ba8bcf948f4d301f3c263d6f87750aeafbc0aa"
+    },
+    {
+      "code": "AC9M3ST02",
+      "path": "year3/maths/ac9m3st02-and-compare-different-graphical-representations-of-data-sets/index.html",
+      "retainedHtmlSha256": "2cd8eb42ae7625b944ed11ebb35731b0bf3a5b5ad233dc4a948df6629b08c02e"
+    },
+    {
+      "code": "AC9M3P02",
+      "path": "year3/maths/ac9m3p02-conduct-repeated-chance-experiments-identify-and-describe/index.html",
+      "retainedHtmlSha256": "133e019ee7b19ba10c2f43452dcbdb93f79b35c7c42867e205a7af1bdefcfa90"
+    },
+    {
+      "code": "AC9M3N05",
+      "path": "year3/maths/ac9m3n05-estimate-the-quantity-of-objects-in-collections-and-make/index.html",
+      "retainedHtmlSha256": "c672c70a9a2e00785d5334dac42926a1a46f489d90f8acb718230e2998c93daa"
+    },
+    {
+      "code": "AC9M3A03",
+      "path": "year3/maths/ac9m3a03-recall-and-demonstrate-proficiency-with-multiplication-facts/index.html",
+      "retainedHtmlSha256": "4b17dd88485ea67d396183f7d9bd7ec8f346e1b650219ca9c8f3aae31160f15f"
+    },
+    {
+      "code": "AC9M3A01",
+      "path": "year3/maths/ac9m3a01-and-explain-the-connection-between-addition-and-subtraction-as/index.html",
+      "retainedHtmlSha256": "1667e36e10f0d76f020cafb9f924c9f36a9c07e7a73b71fb742c97211e020e10"
+    },
+    {
+      "code": "AC9M3ST03",
+      "path": "year3/maths/ac9m3st03-conduct-guided-statistical-investigations-involving-the/index.html",
+      "retainedHtmlSha256": "6a5bfd76f6138bee60fbba68c7e56d19e081015c5d6e9251da2e61e45b2433b0"
+    },
+    {
+      "code": "AC9M3N04",
+      "path": "year3/maths/ac9m3n04-multiply-and-divide-one-and-two-digit-numbers-representing/index.html",
+      "retainedHtmlSha256": "fe7d15569f540dc756fd7f9725dfaeacc9a365fdad5e97f54e7367045c9bc2f4"
+    },
+    {
+      "code": "AC9M3M02",
+      "path": "year3/maths/ac9m3m02-measure-and-compare-objects-using-familiar-metric-units-of/index.html",
+      "retainedHtmlSha256": "72d96159f691562d4af48d0255b473581209298220e8ad408513c0c0c6401fa8"
+    },
+    {
+      "code": "AC9M3M04",
+      "path": "year3/maths/ac9m3m04-the-relationship-between-the-hours-and-minutes-on-analog-and/index.html",
+      "retainedHtmlSha256": "e4a90f7916b38dce8ef8fd7952ebafc68aa44b546054847bad822e891fb11b87"
+    },
+    {
+      "code": "AC9M3N03",
+      "path": "year3/maths/ac9m3n03-add-and-subtract-two-and-three-digit-numbers-using-place-value/index.html",
+      "retainedHtmlSha256": "353ea6b19ac3f6b549e67769ea6cb90e169949bc1153c01f24dda4b1e6b85471"
+    },
+    {
+      "code": "AC9M3ST01",
+      "path": "year3/maths/ac9m3st01-acquire-data-for-categorical-and-discrete-numerical-variables/index.html",
+      "retainedHtmlSha256": "25603ae9a4ab2c1b5b2ae595956e77db75b3613dc6fd548db1879f5d7f2487ce"
+    },
+    {
+      "code": "AC9M3SP01",
+      "path": "year3/maths/ac9m3sp01-make-compare-and-classify-objects-identifying-key-features-and/index.html",
+      "retainedHtmlSha256": "d4b75666311d3417305d6ea4288fe9091a1c9fa0f9e6c602c288e1e74d38c3a8"
+    },
+    {
+      "code": "AC9M3M05",
+      "path": "year3/maths/ac9m3m05-angles-as-measures-of-turn-and-compare-angles-with-right/index.html",
+      "retainedHtmlSha256": "8b912023468f3f7cf9b53be342e986b654cccc40227fd726a2e59cf8d3e0b15f"
+    },
+    {
+      "code": "AC9M3SP02",
+      "path": "year3/maths/ac9m3sp02-interpret-and-create-two-dimensional-representations-of/index.html",
+      "retainedHtmlSha256": "90aca446624d304687191fcd0ff8c7ada0e4374787231a6a327d36882b98d81f"
+    },
+    {
+      "code": "AC9M3N02",
+      "path": "year3/maths/ac9m3n02-and-represent-unit-fractions-including-frac12-frac13-frac14/index.html",
+      "retainedHtmlSha256": "895de94b697c1ad9528da60eb385088f7afadd090e65621bd129ff97e259a4d8"
+    },
+    {
+      "code": "AC9M3M06",
+      "path": "year3/maths/ac9m3m06-the-relationships-between-dollars-and-cents-and-represent-money/index.html",
+      "retainedHtmlSha256": "78eca5d54b1685e2198e3737ea2913f09a245e2452de832e28c2d593467ad9e6"
+    },
+    {
+      "code": "AC9M3N01",
+      "path": "year3/maths/ac9m3n01-recognise-represent-and-order-natural-numbers-using-naming-and/index.html",
+      "retainedHtmlSha256": "7408fe69763c91fe9306e9a6b7dc1e3e59482a9873cdf9c33523ff97bf81d7c3"
+    },
+    {
+      "code": "AC9M3N06",
+      "path": "year3/maths/ac9m3n06-mathematical-modelling-to-solve-practical-problems-involving/index.html",
+      "retainedHtmlSha256": "8abef72d4c8827d9261ad20d957eca5cf694a5602373b59498642ffa56d67dc9"
+    },
+    {
+      "code": "AC9M3P01",
+      "path": "year3/maths/ac9m3p01-practical-activities-and-everyday-events-involving-chance/index.html",
+      "retainedHtmlSha256": "6a6b73cb89d8eaf6480e17153166991e4c259c9c2fbc27b77345fe9eb4b01596"
+    },
+    {
+      "code": "AC9M3A02",
+      "path": "year3/maths/ac9m3a02-extend-and-apply-knowledge-of-addition-and-subtraction-facts-to/index.html",
+      "retainedHtmlSha256": "0c17b84e78ccd63d3240b5c1313f4929dc6205837e8f20c01b508ea13a5b730a"
+    },
+    {
+      "code": "AC9S3U01",
+      "path": "year3/science/ac9s3u01-characteristics-of-living-and-non-living-things-and-examine-the/index.html",
+      "retainedHtmlSha256": "7d7b95be0b52180fdeb78a048ed72af01b31557c6e9fa41c2b8fae56f139c3b5"
+    },
+    {
+      "code": "AC9S3H01",
+      "path": "year3/science/ac9s3h01-examine-how-people-use-data-to-develop-scientific-explanations/index.html",
+      "retainedHtmlSha256": "87515f4a006df79506a6bbaa3bb02e9e5df42cf0dfe3d140d3e8334267f43ad9"
+    },
+    {
+      "code": "AC9S3I06",
+      "path": "year3/science/ac9s3i06-and-create-texts-to-communicate-findings-and-ideas-for/index.html",
+      "retainedHtmlSha256": "6d0b05fbc6bae7865b0bb9b2abf6713d50b5d2383b2d40d4718f25d4a87da68e"
+    },
+    {
+      "code": "AC9S3I03",
+      "path": "year3/science/ac9s3i03-follow-procedures-to-make-and-record-observations-including/index.html",
+      "retainedHtmlSha256": "c344027ef4ae3c8ad8730f11a9ef3f95f465e4be006096955097e74a15522384"
+    },
+    {
+      "code": "AC9S3I04",
+      "path": "year3/science/ac9s3i04-construct-and-use-representations-including-tables-simple/index.html",
+      "retainedHtmlSha256": "cdc90377bfd76ac6ca060875eb549c6495228b2cff8a2f25066a6c73e53cd9b3"
+    },
+    {
+      "code": "AC9S3H02",
+      "path": "year3/science/ac9s3h02-consider-how-people-use-scientific-explanations-to-meet-a-need/index.html",
+      "retainedHtmlSha256": "8ce605dadfaed2d529584749d34bb5776350b611cf93dd72e3d494e14d3bd8d3"
+    },
+    {
+      "code": "AC9S3U02",
+      "path": "year3/science/ac9s3u02-the-observable-properties-of-soils-rocks-and-minerals-and/index.html",
+      "retainedHtmlSha256": "7158443479c211bc80acf57706775a4de2ea1a33af9e76eb36bfe76f6f147f9a"
+    },
+    {
+      "code": "AC9S3I01",
+      "path": "year3/science/ac9s3i01-questions-to-explore-observed-patterns-and-relationships-and/index.html",
+      "retainedHtmlSha256": "dd559a16ed88fb348633e2bc753da9ae871ee5ca4b11e415c9e42303b3b7dd2f"
+    },
+    {
+      "code": "AC9S3I02",
+      "path": "year3/science/ac9s3i02-provided-scaffolds-to-plan-and-conduct-investigations-to-answer/index.html",
+      "retainedHtmlSha256": "7523805191a134f8c1f431d807dd2053e88252a52fc6bfe59ca55f6cfa25f869"
+    },
+    {
+      "code": "AC9S3U03",
+      "path": "year3/science/ac9s3u03-sources-of-heat-energy-and-examine-how-temperature-changes-when/index.html",
+      "retainedHtmlSha256": "af75eb05bb85ff33e62fc00bf15acf4ee9f6827219d71f62a8cc6ce62f78f152"
+    },
+    {
+      "code": "AC9S3U04",
+      "path": "year3/science/ac9s3u04-investigate-the-observable-properties-of-solids-and-liquids-and/index.html",
+      "retainedHtmlSha256": "3890c0899058308ff19049c9cefbcbb063c768be9a6cfd837348baeafad9dcae"
+    },
+    {
+      "code": "AC9S3I05",
+      "path": "year3/science/ac9s3i05-findings-with-those-of-others-consider-if-investigations-were/index.html",
+      "retainedHtmlSha256": "3f081cba21ef1eaf401c3ffd819038f0ae6feea6c88d396df2db8d0738bbd9da"
+    },
+    {
+      "code": "AC9E3LY05",
+      "path": "year3/english/ac9e3ly05-comprehension-strategies-when-listening-and-viewing-to-build/index.html",
+      "retainedHtmlSha256": "7ad6d8f7fd0c187c137c5847eb456b8a6309c69bd83242497ac20c3041925c20"
+    },
+    {
+      "code": "AC9E3LY12",
+      "path": "year3/english/ac9e3ly12-and-know-how-to-write-most-high-frequency-words-including-some/index.html",
+      "retainedHtmlSha256": "19946bfc944a73123d62ca71a2ae478ca8f75d9cd0d03ee8cd916c5d9e6504fe"
+    },
+    {
+      "code": "AC9E3LA01",
+      "path": "year3/english/ac9e3la01-that-cooperation-with-others-depends-on-shared-understanding-of/index.html",
+      "retainedHtmlSha256": "f0c1d69954e661bd3eabfd2a21584b215ff8c0ec11b9c1090212302d83faabfb"
+    },
+    {
+      "code": "AC9E3LA03",
+      "path": "year3/english/ac9e3la03-how-texts-across-the-curriculum-use-different-language-features/index.html",
+      "retainedHtmlSha256": "4e89a72ca6d487544aabefd8a6a3d2ce3738d3c268ca0f504c6ca11c91def1f7"
+    },
+    {
+      "code": "AC9E3LE05",
+      "path": "year3/english/ac9e3le05-and-edit-imaginative-texts-using-or-adapting-language-features/index.html",
+      "retainedHtmlSha256": "cb281e105f42a5be8c195adfaa94400affccc1ac44643124cb745eef49fe9dca"
+    },
+    {
+      "code": "AC9E3LY06",
+      "path": "year3/english/ac9e3ly06-plan-create-edit-and-publish-imaginative-informative-and/index.html",
+      "retainedHtmlSha256": "b93bb8c3a45290e66f03cedc20fe697ff52d3b74d512499a9b26c914d1e76a77"
+    },
+    {
+      "code": "AC9E3LE04",
+      "path": "year3/english/ac9e3le04-the-effects-of-some-literary-devices-used-to-enhance-meaning/index.html",
+      "retainedHtmlSha256": "cef387fa2c13b1a6b7c01c10a405141e54e3a183dcf2d94dce9d5a4f0fdf36dd"
+    },
+    {
+      "code": "AC9E3LY02",
+      "path": "year3/english/ac9e3ly02-interaction-skills-to-contribute-to-conversations-and/index.html",
+      "retainedHtmlSha256": "60616cd4704bcda913c36a57a71ae81414bfbf094669fbf04ff80e330164f5c0"
+    },
+    {
+      "code": "AC9E3LY04",
+      "path": "year3/english/ac9e3ly04-a-range-of-texts-using-phonic-semantic-and-grammatical-knowledge/index.html",
+      "retainedHtmlSha256": "be33dfdc32665f7d3a2ef00333fa8aace186c4372dc373caab267c144e02f62f"
+    },
+    {
+      "code": "AC9E3LA07",
+      "path": "year3/english/ac9e3la07-how-verbs-represent-different-processes-for-doing-feeling/index.html",
+      "retainedHtmlSha256": "b0d84e4d23dc79ba31a77fc64485288398657056c74efba66f5a93562d45a9d1"
+    },
+    {
+      "code": "AC9E3LA05",
+      "path": "year3/english/ac9e3la05-the-purpose-of-layout-features-in-print-and-digital-texts/index.html",
+      "retainedHtmlSha256": "341ec84f0fdcd62c1244fe2cfcb129fb118ee3ad6364bcdcb9742be33f6930fe"
+    },
+    {
+      "code": "AC9E3LY03",
+      "path": "year3/english/ac9e3ly03-the-audience-and-purpose-of-imaginative-informative-and/index.html",
+      "retainedHtmlSha256": "326ef14d4461f653ba79d667fa396951631e82b089ad0374c955107b2af5e612"
+    },
+    {
+      "code": "AC9E3LY07",
+      "path": "year3/english/ac9e3ly07-plan-create-rehearse-and-deliver-short-oral-and-or-multimodal/index.html",
+      "retainedHtmlSha256": "b0eaaf04b9f212ad5ebc97e7aea49b8561aaa4183b52eb2d602557608c394e38"
+    },
+    {
+      "code": "AC9E3LY10",
+      "path": "year3/english/ac9e3ly10-how-to-apply-knowledge-of-common-base-words-prefixes-suffixes/index.html",
+      "retainedHtmlSha256": "e2b76076b78b4d516698a3f8756d80bce711ef81bb71b44561d7edbe3bcc0c3a"
+    },
+    {
+      "code": "AC9E3LA04",
+      "path": "year3/english/ac9e3la04-that-paragraphs-are-a-key-organisational-feature-of-the-stages/index.html",
+      "retainedHtmlSha256": "b14dbc78c186350be105dc9756a7c3cda7465700d78e9ee4283e364366c537e7"
+    },
+    {
+      "code": "AC9E3LY08",
+      "path": "year3/english/ac9e3ly08-words-using-joined-letters-that-are-clearly-formed-and/index.html",
+      "retainedHtmlSha256": "77bd8021f56de377a407200d40f4b4a40fef258878a1a026af2daafb319bd0c0"
+    },
+    {
+      "code": "AC9E3LY09",
+      "path": "year3/english/ac9e3ly09-how-to-apply-knowledge-of-phoneme-grapheme-sound-letter/index.html",
+      "retainedHtmlSha256": "9594a320b8900289fa4c91517eb9bc88bdc4c31976c55e8c1db8da618d963a8b"
+    },
+    {
+      "code": "AC9E3LE03",
+      "path": "year3/english/ac9e3le03-how-an-author-uses-language-and-illustrations-to-portray/index.html",
+      "retainedHtmlSha256": "b5b5ea6ea0cf2f1ac2dc71810bfb6c3e3551d80977c0a55e4ce6e2bb60acd486"
+    },
+    {
+      "code": "AC9E3LA06",
+      "path": "year3/english/ac9e3la06-that-a-clause-is-a-unit-of-grammar-usually-containing/index.html",
+      "retainedHtmlSha256": "6ae0eec261a228cca5f97f4e0ad7d29d224c944f6847a9d6c0942af5ff50f5ca"
+    },
+    {
+      "code": "AC9E3LA11",
+      "path": "year3/english/ac9e3la11-that-apostrophes-signal-missing-letters-in-contractions-and/index.html",
+      "retainedHtmlSha256": "a6483320af9f0179045a1fcfb320b4e455f4a3a5e7514bef29dec4031dd5db7c"
+    },
+    {
+      "code": "AC9E3LA02",
+      "path": "year3/english/ac9e3la02-how-the-language-of-evaluation-and-emotion-such-as-modal/index.html",
+      "retainedHtmlSha256": "e356f63753b16b0b49ac3350ae1f060f89b7e3218219295818da940cea902e2d"
+    },
+    {
+      "code": "AC9E3LY11",
+      "path": "year3/english/ac9e3ly11-phoneme-grapheme-sound-letter-relationships-and-less-common/index.html",
+      "retainedHtmlSha256": "a25c19770f8595d417487d43f62c0488ccfba75792f7ae0010c8f2eb21341ae8"
+    },
+    {
+      "code": "AC9E3LE02",
+      "path": "year3/english/ac9e3le02-connections-between-personal-experiences-and-character/index.html",
+      "retainedHtmlSha256": "fd22f108a12d44fa3476c73b8b908bed43b07f1ae5a48955c1e893cdfbcb95a7"
+    },
+    {
+      "code": "AC9E3LA10",
+      "path": "year3/english/ac9e3la10-extend-topic-specific-and-technical-vocabulary-and-know-that/index.html",
+      "retainedHtmlSha256": "c2023b2f710a150cca2620ce2ef9ba7ce6fed87695a00ef39a089db55164db70"
+    },
+    {
+      "code": "AC9E3LA09",
+      "path": "year3/english/ac9e3la09-how-images-extend-the-meaning-of-a-text/index.html",
+      "retainedHtmlSha256": "992a3e05deb10d07bc47e4026b3621eb341880807c49c77aab75a5d6288985d9"
+    },
+    {
+      "code": "AC9E3LY01",
+      "path": "year3/english/ac9e3ly01-how-texts-can-be-created-for-similar-purposes-but-different/index.html",
+      "retainedHtmlSha256": "90b3e1ec286b18ffd1c448915897649b704daaed0fd708e6293f3135375ddd22"
+    },
+    {
+      "code": "AC9E3LA08",
+      "path": "year3/english/ac9e3la08-that-verbs-are-anchored-in-time-through-tense/index.html",
+      "retainedHtmlSha256": "c20f726430cd848a39bc491ed8bf72638bb4849e95cebaeb9927689e61af648d"
+    },
+    {
+      "code": "AC9E3LE01",
+      "path": "year3/english/ac9e3le01-characters-events-and-settings-in-different-contexts-in/index.html",
+      "retainedHtmlSha256": "aea3ea6a3a2fde9737572ce019f30a9f166f0b4ef856def2a86191a5ad49922f"
+    },
+    {
+      "code": "AC9M4SP01",
+      "path": "year4/maths/ac9m4sp01-represent-and-approximate-composite-shapes-and-objects-in-the/index.html",
+      "retainedHtmlSha256": "af5c91cdd63989dd8db1aa5346995d2dcd67657fb406098048c5736bb04190a2"
+    },
+    {
+      "code": "AC9M4N02",
+      "path": "year4/maths/ac9m4n02-explain-and-use-the-properties-of-odd-and-even-numbers/index.html",
+      "retainedHtmlSha256": "206266b5e7dc154fcf236f08ca19ff2358833127743ad966591c85ff14bf2304"
+    },
+    {
+      "code": "AC9M4M01",
+      "path": "year4/maths/ac9m4m01-interpret-unmarked-and-partial-units-when-measuring-and/index.html",
+      "retainedHtmlSha256": "329d5f713f4045794b5b73a39a8955a7a890ad25e877c615d4f9bfafc399a677"
+    },
+    {
+      "code": "AC9M4N04",
+      "path": "year4/maths/ac9m4n04-count-by-fractions-including-mixed-numerals-locate-and/index.html",
+      "retainedHtmlSha256": "00215f12f9af888486509d34b2d7b76aa8060e329123ccbe48604f321c1cce8b"
+    },
+    {
+      "code": "AC9M4N06",
+      "path": "year4/maths/ac9m4n06-develop-efficient-strategies-and-use-appropriate-digital-tools/index.html",
+      "retainedHtmlSha256": "6e6fe332f0b92090b0e82fb6c305e886e4f9a70f8fa04ee96d33f4d53ee68b2d"
+    },
+    {
+      "code": "AC9M4N05",
+      "path": "year4/maths/ac9m4n05-solve-problems-involving-multiplying-or-dividing-natural/index.html",
+      "retainedHtmlSha256": "af400a9112aa76c607f0e2ba1d1bdf2981012ba6e11901d6135aaeb6ea8adea5"
+    },
+    {
+      "code": "AC9M4M03",
+      "path": "year4/maths/ac9m4m03-solve-problems-involving-the-duration-of-time-including/index.html",
+      "retainedHtmlSha256": "251f95e6e8b112aecd843df40d21e36f71c6c9fd0ac76d930a1a73866524589e"
+    },
+    {
+      "code": "AC9M4ST03",
+      "path": "year4/maths/ac9m4st03-conduct-statistical-investigations-collecting-data-through/index.html",
+      "retainedHtmlSha256": "0382283fd1d2336ab7e50ffbfb779358fe8538502630c0efdae99801003d6a46"
+    },
+    {
+      "code": "AC9M4N03",
+      "path": "year4/maths/ac9m4n03-find-equivalent-representations-of-fractions-using-related/index.html",
+      "retainedHtmlSha256": "9db437426f2be4d8e92fcefa7a8719ee6b938ae8705839593bcb1f34cd65561e"
+    },
+    {
+      "code": "AC9M4SP03",
+      "path": "year4/maths/ac9m4sp03-line-and-rotational-symmetry-of-shapes-and-create-symmetrical/index.html",
+      "retainedHtmlSha256": "fb9abe3cf145e1d97937bba326fb0f1c1a30173a2e4aec86c99c072220d0bc7a"
+    },
+    {
+      "code": "AC9M4SP02",
+      "path": "year4/maths/ac9m4sp02-and-interpret-grid-reference-systems-using-grid-references-and/index.html",
+      "retainedHtmlSha256": "a62eead5a6007234765594675d33c3320bb74569bd610745ebadeffdac795fbf"
+    },
+    {
+      "code": "AC9M4P02",
+      "path": "year4/maths/ac9m4p02-conduct-repeated-chance-experiments-to-observe-relationships/index.html",
+      "retainedHtmlSha256": "ffefbbaf07bfd110e0cd5e29d28432789cd9f61d6969e59056573f55ebe879c2"
+    },
+    {
+      "code": "AC9M4ST01",
+      "path": "year4/maths/ac9m4st01-acquire-data-for-categorical-and-discrete-numerical-variables/index.html",
+      "retainedHtmlSha256": "84ce782dd104ab5e2a18cb540f740c9130b110334fbb2903041ffa5938263072"
+    },
+    {
+      "code": "AC9M4M02",
+      "path": "year4/maths/ac9m4m02-ways-of-measuring-and-approximating-the-perimeter-and-area-of/index.html",
+      "retainedHtmlSha256": "f4981832aed808510684df15d2082ada0445e533f63e8ad3498c4dab9f3b17fb"
+    },
+    {
+      "code": "AC9M4A01",
+      "path": "year4/maths/ac9m4a01-find-unknown-values-in-numerical-equations-involving-addition/index.html",
+      "retainedHtmlSha256": "ef52af4ce9106ad845234c5e88d24d72cbe7c5fe0342bd13a2e22c533fd444e5"
+    },
+    {
+      "code": "AC9M4N07",
+      "path": "year4/maths/ac9m4n07-choose-and-use-estimation-and-rounding-to-check-and-explain/index.html",
+      "retainedHtmlSha256": "8fe0ddc12801c5ed1923e1d3979720b3ad6ebbfc7ab5fa3049b617224091ddf4"
+    },
+    {
+      "code": "AC9M4ST02",
+      "path": "year4/maths/ac9m4st02-analyse-the-effectiveness-of-different-displays-or/index.html",
+      "retainedHtmlSha256": "56c8de8e7aea4afa9d674a3d43b4bc013a74e202e67b3cdb2fc477c3a743d171"
+    },
+    {
+      "code": "AC9M4P01",
+      "path": "year4/maths/ac9m4p01-possible-everyday-events-and-the-possible-outcomes-of-chance/index.html",
+      "retainedHtmlSha256": "e21e55ae385e97af7648ab757602c816531dbad17bd91d9f9ce8d3b49131455d"
+    },
+    {
+      "code": "AC9M4N01",
+      "path": "year4/maths/ac9m4n01-and-extend-the-application-of-place-value-to-tenths-and/index.html",
+      "retainedHtmlSha256": "0f22873946523d8c8c30756a936a334fa84017bfd13865162f7dc6caa0164a30"
+    },
+    {
+      "code": "AC9M4M04",
+      "path": "year4/maths/ac9m4m04-estimate-and-compare-angles-using-angle-names-including-acute/index.html",
+      "retainedHtmlSha256": "e09badc91ab275c333200a1086c7c21b99c157fcf6a2dd0c0b65ac426eec75f8"
+    },
+    {
+      "code": "AC9M4N08",
+      "path": "year4/maths/ac9m4n08-mathematical-modelling-to-solve-practical-problems-involving/index.html",
+      "retainedHtmlSha256": "7b8009c8f405eb0a4915488b27eb416f24c13b03b32089c0fff7d3f00b6aa820"
+    },
+    {
+      "code": "AC9M4N09",
+      "path": "year4/maths/ac9m4n09-follow-and-create-algorithms-involving-a-sequence-of-steps-and/index.html",
+      "retainedHtmlSha256": "6b68cb9990ab2be4cb45b317135e6a39ab4863884f5ffbbbac4126226ac54588"
+    },
+    {
+      "code": "AC9M4A02",
+      "path": "year4/maths/ac9m4a02-recall-and-demonstrate-proficiency-with-multiplication-facts-up/index.html",
+      "retainedHtmlSha256": "2ee3589d8c5ac2e1d7ec44a210e7429187927ca60c4296fa79ab4e22820996c3"
+    },
+    {
+      "code": "AC9S4I04",
+      "path": "year4/science/ac9s4i04-construct-and-use-representations-including-tables-simple/index.html",
+      "retainedHtmlSha256": "7e6fea597f110a3a85f24bb4e6f3125b6efe43ec9f80515e4d022e23fece1071"
+    },
+    {
+      "code": "AC9S4U02",
+      "path": "year4/science/ac9s4u02-sources-of-water-and-describe-key-processes-in-the-water/index.html",
+      "retainedHtmlSha256": "54cc433a6318814d9d07471881ae9fd3f41ded21d34041550d057dfbfe89179e"
+    },
+    {
+      "code": "AC9S4U03",
+      "path": "year4/science/ac9s4u03-how-forces-can-be-exerted-by-one-object-on-another/index.html",
+      "retainedHtmlSha256": "6ef72ac54c925e2d372a16c85a058b1a4971853585120eec6b701461787a129a"
+    },
+    {
+      "code": "AC9S4I06",
+      "path": "year4/science/ac9s4i06-and-create-texts-to-communicate-findings-and-ideas-for/index.html",
+      "retainedHtmlSha256": "5ffc505508d412d5f8e30d57c6b34990e4b8880372b25714bf3b837b9034ebae"
+    },
+    {
+      "code": "AC9S4H02",
+      "path": "year4/science/ac9s4h02-consider-how-people-use-scientific-explanations-to-meet-a-need/index.html",
+      "retainedHtmlSha256": "d3b514e5d6e6a7b4f22ba9f7dfc746c855abd9085cbcdd974afe53f510ea4d26"
+    },
+    {
+      "code": "AC9S4I03",
+      "path": "year4/science/ac9s4i03-follow-procedures-to-make-and-record-observations-including/index.html",
+      "retainedHtmlSha256": "4f4fec149ef5a84982ac6bac0c5ed537e5cbbbe3fe4a78856f69bde2f64a671d"
+    },
+    {
+      "code": "AC9S4I02",
+      "path": "year4/science/ac9s4i02-provided-scaffolds-to-plan-and-conduct-investigations-to-answer/index.html",
+      "retainedHtmlSha256": "2879cd4976e3187b77d484b76a93a960521aa263ae4e55846559a81f1d1a9d9b"
+    },
+    {
+      "code": "AC9S4I05",
+      "path": "year4/science/ac9s4i05-findings-with-those-of-others-consider-if-investigations-were/index.html",
+      "retainedHtmlSha256": "15c1c155bc484ff45c2f9eef2aa90dc94bcf10ea1978ecc869dabcb08d5194db"
+    },
+    {
+      "code": "AC9S4I01",
+      "path": "year4/science/ac9s4i01-questions-to-explore-observed-patterns-and-relationships-and/index.html",
+      "retainedHtmlSha256": "3089f7199c433464ce73fa2e5653f2e97371d7099725224ba703f89a8e6f9d3d"
+    },
+    {
+      "code": "AC9S4H01",
+      "path": "year4/science/ac9s4h01-examine-how-people-use-data-to-develop-scientific-explanations/index.html",
+      "retainedHtmlSha256": "287f1c7d2e8efcdc810e67c9652edd435457d01bfd9e275fe02fbacc972f8fb4"
+    },
+    {
+      "code": "AC9S4U01",
+      "path": "year4/science/ac9s4u01-explain-the-roles-and-interactions-of-consumers-producers-and/index.html",
+      "retainedHtmlSha256": "0260d2c7d6cef86be80c5d15fb8039c11f40ca8dd59d7794bb54a0c0b697aa12"
+    },
+    {
+      "code": "AC9S4U04",
+      "path": "year4/science/ac9s4u04-examine-the-properties-of-natural-and-made-materials-including/index.html",
+      "retainedHtmlSha256": "65f3c20aa4f7f3bd4ff242a4bf32d39565e605638c23471a74bb236023711d71"
+    },
+    {
+      "code": "AC9E4LY07",
+      "path": "year4/english/ac9e4ly07-plan-create-rehearse-and-deliver-structured-oral-and-or/index.html",
+      "retainedHtmlSha256": "7a46e7c27b29a5eb8d8909759d1975a56af2c23912ffd26ed090b41b64daae09"
+    },
+    {
+      "code": "AC9E4LY03",
+      "path": "year4/english/ac9e4ly03-the-characteristic-features-used-in-imaginative-informative-and/index.html",
+      "retainedHtmlSha256": "b76b2c2a2563ba89471bece947d12877d6719cdef89ee7db6026902b6a4d8b8d"
+    },
+    {
+      "code": "AC9E4LY04",
+      "path": "year4/english/ac9e4ly04-different-types-of-texts-integrating-phonic-semantic-and/index.html",
+      "retainedHtmlSha256": "635461b006eabd593f9a51687186547edd99a543807578e21052b88d881dac17"
+    },
+    {
+      "code": "AC9E4LA01",
+      "path": "year4/english/ac9e4la01-language-used-to-develop-relationships-in-formal-and-informal/index.html",
+      "retainedHtmlSha256": "c04b71af57f0af6763ac5f3c582c6cc958fbe2270fed2690fbc1ec407df349a1"
+    },
+    {
+      "code": "AC9E4LA07",
+      "path": "year4/english/ac9e4la07-investigate-how-quoted-direct-and-reported-indirect-speech-are/index.html",
+      "retainedHtmlSha256": "8cd5e832cfcc1bebbec0f4077e4fe84d9cc381d906ba3a752a7fc7063cc7a3c0"
+    },
+    {
+      "code": "AC9E4LY02",
+      "path": "year4/english/ac9e4ly02-listen-for-key-points-and-information-to-carry-out-tasks/index.html",
+      "retainedHtmlSha256": "01400c0e926489610add296e59d7c3e36548f5de03f60996a0b68917eb61db63"
+    },
+    {
+      "code": "AC9E4LE02",
+      "path": "year4/english/ac9e4le02-the-effects-of-text-structures-and-language-features-in-literary/index.html",
+      "retainedHtmlSha256": "bb1f6b52033dfdb52e051cdf4630cd3adeafd897b048da5f4b551332a865bf88"
+    },
+    {
+      "code": "AC9E4LA08",
+      "path": "year4/english/ac9e4la08-how-adverb-groups-phrases-and-prepositional-phrases-work-in/index.html",
+      "retainedHtmlSha256": "2a9abc3438826690702f7de897c7eda8d3fea22a7a7b9f58df56d39fce841613"
+    },
+    {
+      "code": "AC9E4LA02",
+      "path": "year4/english/ac9e4la02-the-subjective-language-of-opinion-and-feeling-and-the-objective/index.html",
+      "retainedHtmlSha256": "39eda572f49151ed9aff16454d43475cadef576d43f993bda474be580056a07a"
+    },
+    {
+      "code": "AC9E4LA11",
+      "path": "year4/english/ac9e4la11-expand-vocabulary-by-exploring-a-range-of-synonyms-and-antonyms/index.html",
+      "retainedHtmlSha256": "dff17ca3d28fffd3c0a9f13c22c5e9e510cfca5a53dd5f3709d84550ccc44e84"
+    },
+    {
+      "code": "AC9E4LY01",
+      "path": "year4/english/ac9e4ly01-texts-from-different-times-with-similar-purposes-and-audiences/index.html",
+      "retainedHtmlSha256": "c2b9f44494fc6147cdbc2f1521e49d4027737d52bfd8c4a1a479f63c2a8b78ae"
+    },
+    {
+      "code": "AC9E4LY09",
+      "path": "year4/english/ac9e4ly09-how-to-use-and-apply-phonological-and-morphological-knowledge-to/index.html",
+      "retainedHtmlSha256": "cdf3c2a91dbc3be0f73f95c751d05d6f48983270f3931324e963f047ac884d6f"
+    },
+    {
+      "code": "AC9E4LE01",
+      "path": "year4/english/ac9e4le01-similar-storylines-ideas-and-relationships-in-different/index.html",
+      "retainedHtmlSha256": "f979339e707772cbd8702b96fbfb1358c8a77ad08ab28fc79ab2750903dfd88e"
+    },
+    {
+      "code": "AC9E4LY05",
+      "path": "year4/english/ac9e4ly05-comprehension-strategies-such-as-visualising-predicting/index.html",
+      "retainedHtmlSha256": "01801d7da13e96b38ae98bc7f3b42aff84fcab0ed32571f953d4f67864540c30"
+    },
+    {
+      "code": "AC9E4LA09",
+      "path": "year4/english/ac9e4la09-past-present-and-future-tenses-and-their-impact-on-meaning/index.html",
+      "retainedHtmlSha256": "e63ace370a8870c353894c95792b5608a267b2ae14d2e061ba2af1d2da424b2c"
+    },
+    {
+      "code": "AC9E4LE05",
+      "path": "year4/english/ac9e4le05-and-edit-literary-texts-by-developing-storylines-characters-and/index.html",
+      "retainedHtmlSha256": "8b58b5ff2604dffee9c8ee3af28a3e2367c1b00769f551a720d083f96a6a0400"
+    },
+    {
+      "code": "AC9E4LA05",
+      "path": "year4/english/ac9e4la05-text-navigation-features-of-online-texts-that-enhance/index.html",
+      "retainedHtmlSha256": "60ab2252edd5b21025c5bd495a78ec87f2661d207772c3e274d38c426d5eb477"
+    },
+    {
+      "code": "AC9E4LA04",
+      "path": "year4/english/ac9e4la04-how-text-connectives-including-temporal-and-conditional-words/index.html",
+      "retainedHtmlSha256": "7d1ea192804ab85ba7549283cc54c01a1615121eeadc7dd65b7f0ad9392ceac4"
+    },
+    {
+      "code": "AC9E4LE04",
+      "path": "year4/english/ac9e4le04-examine-the-use-of-literary-devices-and-deliberate-word-play/index.html",
+      "retainedHtmlSha256": "25c72a674c9602373a1e2fbdac8d49df2cf1ec0428f5a8d60428564933c811fb"
+    },
+    {
+      "code": "AC9E4LA06",
+      "path": "year4/english/ac9e4la06-that-complex-sentences-contain-one-independent-clause-and-at/index.html",
+      "retainedHtmlSha256": "4425e73cc95d07c3f00f2ec96e43c8bcce5afcf53c57f18151ff67a01a51d31c"
+    },
+    {
+      "code": "AC9E4LA03",
+      "path": "year4/english/ac9e4la03-how-texts-across-the-curriculum-have-different-language/index.html",
+      "retainedHtmlSha256": "23b5383ee3e84b67b99cdee2058435a39d0732d28a0bb7533d0ecd47178435f0"
+    },
+    {
+      "code": "AC9E4LY08",
+      "path": "year4/english/ac9e4ly08-words-using-clearly-formed-joined-letters-with-developing/index.html",
+      "retainedHtmlSha256": "9d94c7e5b4d73826372aad6e6fc6b85896ffe01af72194b9890e973d294c59e6"
+    },
+    {
+      "code": "AC9E4LE03",
+      "path": "year4/english/ac9e4le03-how-authors-and-illustrators-make-stories-engaging-by-the-way/index.html",
+      "retainedHtmlSha256": "72bdc4b44e8bae4291ce149e18841c0618c582988d0678abd59f523d96b5d8cf"
+    },
+    {
+      "code": "AC9E4LY06",
+      "path": "year4/english/ac9e4ly06-plan-create-edit-and-publish-written-and-multimodal-imaginative/index.html",
+      "retainedHtmlSha256": "38199382680d690e7854f707eea4bebcc1faadba09766a4d06161453c42b7773"
+    },
+    {
+      "code": "AC9E4LY10",
+      "path": "year4/english/ac9e4ly10-how-to-use-knowledge-of-letter-patterns-including-double-letters/index.html",
+      "retainedHtmlSha256": "55885c0407307aef4dae985bfe06aacb2b61031f5e056a295d69d8d6742651dd"
+    },
+    {
+      "code": "AC9E4LY11",
+      "path": "year4/english/ac9e4ly11-and-write-high-frequency-words-including-homophones-and-know/index.html",
+      "retainedHtmlSha256": "2e940acf6a7da1507fecf78e990188f1d79e16efa32fa6c690e495329d30582b"
+    },
+    {
+      "code": "AC9E4LA10",
+      "path": "year4/english/ac9e4la10-the-effect-of-choices-when-framing-an-image-placement-of/index.html",
+      "retainedHtmlSha256": "36e62206573c05250a446710ace600a21c42d08ae626b9fbc55aeb778f2a6584"
+    },
+    {
+      "code": "AC9E4LA12",
+      "path": "year4/english/ac9e4la12-that-punctuation-signals-dialogue-through-quotation-marks-and/index.html",
+      "retainedHtmlSha256": "44243cddf5a8697c97156d360d8ab4fbb14334a6a1042036be0a5028208cb0a3"
+    },
+    {
+      "code": "AC9M5A02",
+      "path": "year5/maths/ac9m5a02-find-unknown-values-in-numerical-equations-involving/index.html",
+      "retainedHtmlSha256": "d2b8754217699d67705b416257cab812fe1eb35ed5cc2e0fb84b61bd9a276653"
+    },
+    {
+      "code": "AC9M5N06",
+      "path": "year5/maths/ac9m5n06-solve-problems-involving-multiplication-of-larger-numbers-by/index.html",
+      "retainedHtmlSha256": "175004cdb01e2287404a8638efa17b8f4b84e6e1cf05df2252a832cdbe4475c7"
+    },
+    {
+      "code": "AC9M5M02",
+      "path": "year5/maths/ac9m5m02-solve-practical-problems-involving-the-perimeter-and-area-of/index.html",
+      "retainedHtmlSha256": "35758cc889aa3bfaba4958687b4a81412bd07c49bf0e6121fcbb82e92130c80d"
+    },
+    {
+      "code": "AC9M5N01",
+      "path": "year5/maths/ac9m5n01-interpret-compare-and-order-numbers-with-more-than-2-decimal/index.html",
+      "retainedHtmlSha256": "1efe9cb663a4369147fb1683203086be13280657e2e0e3112beb8e00009a5d30"
+    },
+    {
+      "code": "AC9M5P01",
+      "path": "year5/maths/ac9m5p01-list-the-possible-outcomes-of-chance-experiments-involving/index.html",
+      "retainedHtmlSha256": "522ddd6d6edd14e8102f208e4d0bffceb04f10b9703b3ee0b5852b33e987f05f"
+    },
+    {
+      "code": "AC9M5ST01",
+      "path": "year5/maths/ac9m5st01-acquire-validate-and-represent-data-for-nominal-and-ordinal/index.html",
+      "retainedHtmlSha256": "accb28e3148f8b056d9c3b4f5fd0b2dc932a6b4ebc72d5e74940c11843a071a3"
+    },
+    {
+      "code": "AC9M5M03",
+      "path": "year5/maths/ac9m5m03-12-and-24-hour-time-systems-and-solve-practical-problems/index.html",
+      "retainedHtmlSha256": "ff3ddbab7e316229e9cd1e7fa787c115b327484c84408359a988f19630fb7e34"
+    },
+    {
+      "code": "AC9M5SP02",
+      "path": "year5/maths/ac9m5sp02-construct-a-grid-coordinate-system-that-uses-coordinates-to/index.html",
+      "retainedHtmlSha256": "fcda9c02dedc65dc952ecbf8396ea5a7f2745a99d82d939dde0d2b76edf6e0a5"
+    },
+    {
+      "code": "AC9M5N10",
+      "path": "year5/maths/ac9m5n10-and-use-algorithms-involving-a-sequence-of-steps-and-decisions/index.html",
+      "retainedHtmlSha256": "6f25dcdb5397322e48de592fc691717b067c20fd0ed35043474b656ffd98d43c"
+    },
+    {
+      "code": "AC9M5M01",
+      "path": "year5/maths/ac9m5m01-choose-appropriate-metric-units-when-measuring-the-length-mass/index.html",
+      "retainedHtmlSha256": "c942131f29ae79021889d363a996b40cc7ff5ff6a980a9b3442d5b62d79e5ff3"
+    },
+    {
+      "code": "AC9M5N07",
+      "path": "year5/maths/ac9m5n07-solve-problems-involving-division-choosing-efficient-strategies/index.html",
+      "retainedHtmlSha256": "a1f44b806d37ee1d7f61ac6a70e80cdafa4d6db8a700851cd4a6c88387daf18d"
+    },
+    {
+      "code": "AC9M5ST02",
+      "path": "year5/maths/ac9m5st02-interpret-line-graphs-representing-change-over-time-discuss-the/index.html",
+      "retainedHtmlSha256": "2301f6aaf649986a819ce4b99b880fae151ce179bc22db25d85d8710157caf7a"
+    },
+    {
+      "code": "AC9M5M04",
+      "path": "year5/maths/ac9m5m04-estimate-construct-and-measure-angles-in-degrees-using/index.html",
+      "retainedHtmlSha256": "5aa31dacd629be25527b692287432bc1f2aa9b7ed1c82f00268a22a8c0cbe139"
+    },
+    {
+      "code": "AC9M5SP01",
+      "path": "year5/maths/ac9m5sp01-connect-objects-to-their-nets-and-build-objects-from-their/index.html",
+      "retainedHtmlSha256": "5f797e4f66bd59cbb0a1c44cc0bb70b46504e6f66c7c48ee4cd5574813c2946d"
+    },
+    {
+      "code": "AC9M5SP03",
+      "path": "year5/maths/ac9m5sp03-and-perform-translations-reflections-and-rotations-of-shapes/index.html",
+      "retainedHtmlSha256": "f281ffc9704d6c2a954fe9d2f45df9da747c27ac2820ead275146d72924bcd14"
+    },
+    {
+      "code": "AC9M5N05",
+      "path": "year5/maths/ac9m5n05-solve-problems-involving-addition-and-subtraction-of-fractions/index.html",
+      "retainedHtmlSha256": "6e07a5f20542d822676cf88aa1fd64ea27eccfb1fa536468b8baf70604decb8f"
+    },
+    {
+      "code": "AC9M5N02",
+      "path": "year5/maths/ac9m5n02-express-natural-numbers-as-products-of-their-factors-recognise/index.html",
+      "retainedHtmlSha256": "d645c96645147b9defe1c1804581aafe8ca0e6d76ae11cb4755dcb12de987347"
+    },
+    {
+      "code": "AC9M5N08",
+      "path": "year5/maths/ac9m5n08-check-and-explain-the-reasonableness-of-solutions-to-problems/index.html",
+      "retainedHtmlSha256": "9afa4136b880c22d588ea8fb1b59024a1aa2568bc0f191a46f06c459a0150dd2"
+    },
+    {
+      "code": "AC9M5N03",
+      "path": "year5/maths/ac9m5n03-and-order-fractions-with-the-same-and-related-denominators/index.html",
+      "retainedHtmlSha256": "c1b4d2f4f61165ac2dddc1071d4418ce073987a797636836262800b4014c74ae"
+    },
+    {
+      "code": "AC9M5A01",
+      "path": "year5/maths/ac9m5a01-and-explain-the-connection-between-multiplication-and-division/index.html",
+      "retainedHtmlSha256": "f55a872208942a6d2af184070d80caa53598012f8cb9d99ca8665584e6553726"
+    },
+    {
+      "code": "AC9M5N09",
+      "path": "year5/maths/ac9m5n09-mathematical-modelling-to-solve-practical-problems-involving/index.html",
+      "retainedHtmlSha256": "8843e5f08e8cfa1572683ce6cc523f1bc4405a546de6ac9fe0cfa54f0ec578e2"
+    },
+    {
+      "code": "AC9M5ST03",
+      "path": "year5/maths/ac9m5st03-plan-and-conduct-statistical-investigations-by-posing-questions/index.html",
+      "retainedHtmlSha256": "e040bb4225799f68668c31afc646d9fe4c8629f58908685f43679083d2f2e986"
+    },
+    {
+      "code": "AC9M5P02",
+      "path": "year5/maths/ac9m5p02-conduct-repeated-chance-experiments-including-those-with-and/index.html",
+      "retainedHtmlSha256": "737f091670ee613590121afdd44fbf71cacd94d0ec94af7122663ce43b8ef036"
+    },
+    {
+      "code": "AC9M5N04",
+      "path": "year5/maths/ac9m5n04-that-100-represents-the-complete-whole-and-use-percentages-to/index.html",
+      "retainedHtmlSha256": "509b0f431a2cc501065b83af6e5e1d55bca1662501dc996d8a8a6d22c150a8e4"
+    },
+    {
+      "code": "AC9S5H02",
+      "path": "year5/science/ac9s5h02-investigate-how-scientific-knowledge-is-used-by-individuals-and/index.html",
+      "retainedHtmlSha256": "e240a8eb3f84a8999851f1b9ff9146bf872a45a5bcf1ec54144833dfb4691ab3"
+    },
+    {
+      "code": "AC9S5U01",
+      "path": "year5/science/ac9s5u01-examine-how-particular-structural-features-and-behaviours-of/index.html",
+      "retainedHtmlSha256": "6c325beec6d1abdec822ab1f7f3e81e41e964306e49f8ff033dfcef869b7f6e3"
+    },
+    {
+      "code": "AC9S5I03",
+      "path": "year5/science/ac9s5i03-equipment-to-observe-measure-and-record-data-with-reasonable/index.html",
+      "retainedHtmlSha256": "ff342762f16bbc02735680d0e7df5016e55a00fbdb81e8dc2ae01752ba0dd067"
+    },
+    {
+      "code": "AC9S5U03",
+      "path": "year5/science/ac9s5u03-sources-of-light-recognise-that-light-travels-in-a-straight/index.html",
+      "retainedHtmlSha256": "a17bbd4204065848113d4cc95019d190a02be74457eb2ee427f928ffb48f2013"
+    },
+    {
+      "code": "AC9S5I02",
+      "path": "year5/science/ac9s5i02-plan-and-conduct-repeatable-investigations-to-answer-questions/index.html",
+      "retainedHtmlSha256": "e812fb629f70dee9c18d2577326a49cf132f1b2551ec2490bd165e0c92effe50"
+    },
+    {
+      "code": "AC9S5I05",
+      "path": "year5/science/ac9s5i05-methods-and-findings-with-those-of-others-recognise-possible/index.html",
+      "retainedHtmlSha256": "55e0700a6c003b4315ea0b47ae8ab1e9ab80b65b9f8edb5e4d3309c0a53d5684"
+    },
+    {
+      "code": "AC9S5I01",
+      "path": "year5/science/ac9s5i01-investigable-questions-to-identify-patterns-and-test/index.html",
+      "retainedHtmlSha256": "833abb122db908a3b979c2cfabf7a14eb0f63dd3088447ecb7aac662cca8ef68"
+    },
+    {
+      "code": "AC9S5U02",
+      "path": "year5/science/ac9s5u02-how-weathering-erosion-transportation-and-deposition-cause-slow/index.html",
+      "retainedHtmlSha256": "477ba2c4e85c7bc7c69b198d8ad822c3a804a79f0cbbb892829000d1e9b429d1"
+    },
+    {
+      "code": "AC9S5I04",
+      "path": "year5/science/ac9s5i04-construct-and-use-appropriate-representations-including-tables/index.html",
+      "retainedHtmlSha256": "5268d96e713b6d5c8b73f09105402d82fa4817d8f5b0c09fa639ef68ff75a0f1"
+    },
+    {
+      "code": "AC9S5U04",
+      "path": "year5/science/ac9s5u04-explain-observable-properties-of-solids-liquids-and-gases-by/index.html",
+      "retainedHtmlSha256": "48879e7451417cf0da2bf5e44dbeac71d3fea1c7703de80334f6f393a778fb73"
+    },
+    {
+      "code": "AC9S5I06",
+      "path": "year5/science/ac9s5i06-and-create-texts-to-communicate-ideas-and-findings-for-specific/index.html",
+      "retainedHtmlSha256": "03248b18d108313fc4ad03fbcc6310146c54bd60885a17b6919b0b55036caf97"
+    },
+    {
+      "code": "AC9S5H01",
+      "path": "year5/science/ac9s5h01-examine-why-advances-in-science-are-often-the-result-of/index.html",
+      "retainedHtmlSha256": "7ca12e69f4f6e4dfc74d9fd53d65c86e8710036746d064b06fbcaa112198d952"
+    },
+    {
+      "code": "AC9E5LY03",
+      "path": "year5/english/ac9e5ly03-explain-characteristic-features-used-in-imaginative-informative/index.html",
+      "retainedHtmlSha256": "f7c7939af4d565ccbed158477e59936cd0f6982bb000239c8f6793ea46db6d66"
+    },
+    {
+      "code": "AC9E5LY01",
+      "path": "year5/english/ac9e5ly01-the-ways-in-which-a-text-reflects-the-time-and/index.html",
+      "retainedHtmlSha256": "7f82f0be345f7c171820b6a8094487e99e0acf6cb35fa552c3b830d707f820a5"
+    },
+    {
+      "code": "AC9E5LY09",
+      "path": "year5/english/ac9e5ly09-build-and-spell-new-words-from-knowledge-of-known-words/index.html",
+      "retainedHtmlSha256": "0d67ca3e0efd5fb50c1400800c4f85f333435f8f104d765b4efbcf70efb6c9b5"
+    },
+    {
+      "code": "AC9E5LE04",
+      "path": "year5/english/ac9e5le04-examine-the-effects-of-imagery-including-simile-metaphor-and/index.html",
+      "retainedHtmlSha256": "664366f4b3b0b95545ac97038538d4021bcd7cf4553cc8f695273c3d2b7bf052"
+    },
+    {
+      "code": "AC9E5LA02",
+      "path": "year5/english/ac9e5la02-how-to-move-beyond-making-bare-assertions-by-taking-account/index.html",
+      "retainedHtmlSha256": "850c4812f047f12a69ea52d455b40aa2cba69caea78faeea13c0d9767e732c52"
+    },
+    {
+      "code": "AC9E5LA03",
+      "path": "year5/english/ac9e5la03-how-spoken-written-and-multimodal-texts-use-language-features/index.html",
+      "retainedHtmlSha256": "f18061436a6969392806c8952366f3a28bb39fe9b0f1376a9a07a52320687f97"
+    },
+    {
+      "code": "AC9E5LA09",
+      "path": "year5/english/ac9e5la09-commas-to-indicate-prepositional-phrases-and-apostrophes-where/index.html",
+      "retainedHtmlSha256": "185c9fc4de5b11e71fe408e1ac6845a227ae70f4e8dd7298aef9f84953d70a0c"
+    },
+    {
+      "code": "AC9E5LA07",
+      "path": "year5/english/ac9e5la07-explain-how-the-sequence-of-images-in-print-digital-and/index.html",
+      "retainedHtmlSha256": "dc954958dc561db81b731f898f3fc15b141bd66db9583c10ed3b58a360d2566d"
+    },
+    {
+      "code": "AC9E5LA08",
+      "path": "year5/english/ac9e5la08-how-vocabulary-is-used-to-express-greater-precision-of-meaning/index.html",
+      "retainedHtmlSha256": "3d79881c0a98662d4fc0d42d1d5c995efc27a274783ee7a444fcaaaca45e82cb"
+    },
+    {
+      "code": "AC9E5LY10",
+      "path": "year5/english/ac9e5ly10-less-common-plurals-and-understand-how-a-suffix-changes-the/index.html",
+      "retainedHtmlSha256": "700025bdad39da22b9e9762afc6c348ae268fad972e524b2eb865ce93942604e"
+    },
+    {
+      "code": "AC9E5LE01",
+      "path": "year5/english/ac9e5le01-aspects-of-literary-texts-that-represent-details-or-information/index.html",
+      "retainedHtmlSha256": "7e77dde3e893c790581a88381aa5c77111c47563f6815656d79299f7031a5ac7"
+    },
+    {
+      "code": "AC9E5LY04",
+      "path": "year5/english/ac9e5ly04-navigate-and-read-texts-for-specific-purposes-monitoring/index.html",
+      "retainedHtmlSha256": "62f2624a6181c7acf0d710dc548f6358fb86320b7581d0b222b3c0bd4e93c069"
+    },
+    {
+      "code": "AC9E5LA01",
+      "path": "year5/english/ac9e5la01-that-language-is-selected-for-social-contexts-and-that-it/index.html",
+      "retainedHtmlSha256": "d06070f8a97c51fafbb317605d493762645696a39ae041cdf617ef02bef5d67a"
+    },
+    {
+      "code": "AC9E5LY06",
+      "path": "year5/english/ac9e5ly06-plan-create-edit-and-publish-written-and-multimodal-texts-whose/index.html",
+      "retainedHtmlSha256": "3dc7928f398d0d8da4e773939414d70d9c09ce43bd98798ef4683f17e5715606"
+    },
+    {
+      "code": "AC9E5LE05",
+      "path": "year5/english/ac9e5le05-and-edit-literary-texts-experimenting-with-figurative-language/index.html",
+      "retainedHtmlSha256": "0517affa30709deb89ddf8dc680fc175dd2e5a7278e2c2d80a3365d07aebbc86"
+    },
+    {
+      "code": "AC9E5LE03",
+      "path": "year5/english/ac9e5le03-that-the-point-of-view-in-a-literary-text-influences/index.html",
+      "retainedHtmlSha256": "93741f1ddcd67330bc126bc7f90e50b9f0023ca949f9dd77d45875ebd9c81106"
+    },
+    {
+      "code": "AC9E5LE02",
+      "path": "year5/english/ac9e5le02-present-an-opinion-on-a-literary-text-using-specific-terms/index.html",
+      "retainedHtmlSha256": "a6e1eb5b0dad64e5aa584ccac8703c599d30b1b2ae8b8ca95df92353146c2e77"
+    },
+    {
+      "code": "AC9E5LA05",
+      "path": "year5/english/ac9e5la05-that-the-structure-of-a-complex-sentence-includes-a-main/index.html",
+      "retainedHtmlSha256": "d6211310b53aa4c652dca1f93a2c6b1759e84a6e835cf5bb193d634a4004792c"
+    },
+    {
+      "code": "AC9E5LY05",
+      "path": "year5/english/ac9e5ly05-comprehension-strategies-such-as-visualising-predicting/index.html",
+      "retainedHtmlSha256": "3ba02b7073de008036dfe7a259d2663824128557959c2ced4e0c1956ebd72610"
+    },
+    {
+      "code": "AC9E5LA06",
+      "path": "year5/english/ac9e5la06-how-noun-groups-can-be-expanded-in-a-variety-of/index.html",
+      "retainedHtmlSha256": "5532765a627a21568e65a11b80b86bf55c8ae2727bc8af58f916fcb175c9193c"
+    },
+    {
+      "code": "AC9E5LA04",
+      "path": "year5/english/ac9e5la04-how-texts-can-be-made-cohesive-by-using-the-starting/index.html",
+      "retainedHtmlSha256": "0f32efa66cfdfb2c7103aa22b855e5c1b2a37aa208ff237372b332bd6e0a7e71"
+    },
+    {
+      "code": "AC9E5LY08",
+      "path": "year5/english/ac9e5ly08-phonic-morphemic-and-vocabulary-knowledge-to-read-and-spell/index.html",
+      "retainedHtmlSha256": "64ceca8a18bf6e45505c97ed14dd843b4131e6e3f397c1eedf125057f8487d7b"
+    },
+    {
+      "code": "AC9E5LY02",
+      "path": "year5/english/ac9e5ly02-appropriate-interaction-skills-including-paraphrasing-and/index.html",
+      "retainedHtmlSha256": "ea70d8602fd064dbfa6f4bc47a453f3fb884d9748a74736f13831ffbf0683a06"
+    },
+    {
+      "code": "AC9E5LY07",
+      "path": "year5/english/ac9e5ly07-plan-create-rehearse-and-deliver-spoken-and-multimodal/index.html",
+      "retainedHtmlSha256": "62ff5cdf425237b5eda6a4b8703c59e7998000d745c089fc2b815792455f42be"
+    },
+    {
+      "code": "AC9M6N09",
+      "path": "year6/maths/ac9m6n09-mathematical-modelling-to-solve-practical-problems-involving/index.html",
+      "retainedHtmlSha256": "792dbe6fb80bada95aff5f4886099ad7fe9b099d6f7fd7de4e3ac01caa3f1de6"
+    },
+    {
+      "code": "AC9M6SP03",
+      "path": "year6/maths/ac9m6sp03-and-use-combinations-of-transformations-to-create-tessellations/index.html",
+      "retainedHtmlSha256": "a07f83ce5d63f1581d267511362793605698036236f7d4e1bc69b19eb71471d1"
+    },
+    {
+      "code": "AC9M6ST01",
+      "path": "year6/maths/ac9m6st01-interpret-and-compare-data-sets-for-ordinal-and-nominal/index.html",
+      "retainedHtmlSha256": "97999025d580e4c7369cf097271f7d42b6d22f7eda683a8f185ddc3fd3ee331c"
+    },
+    {
+      "code": "AC9M6N07",
+      "path": "year6/maths/ac9m6n07-solve-problems-that-require-finding-a-familiar-fraction-decimal/index.html",
+      "retainedHtmlSha256": "1e051bf2321e80d3ef5cb90fb51207bb3e199ea085474e834107e06d8b31bb75"
+    },
+    {
+      "code": "AC9M6ST02",
+      "path": "year6/maths/ac9m6st02-statistically-informed-arguments-presented-in-traditional-and/index.html",
+      "retainedHtmlSha256": "4621fb59986c717928483f752e75acc31f4356ed6d33833e31115cd959e42228"
+    },
+    {
+      "code": "AC9M6N03",
+      "path": "year6/maths/ac9m6n03-apply-knowledge-of-equivalence-to-compare-order-and-represent/index.html",
+      "retainedHtmlSha256": "bbdcbde3f7ef3c1959d195d70f35e85f8ae3af4bca47690b2b31b75cdb0561c7"
+    },
+    {
+      "code": "AC9M6SP01",
+      "path": "year6/maths/ac9m6sp01-the-parallel-cross-sections-of-objects-and-recognise-their/index.html",
+      "retainedHtmlSha256": "5406ced111c16b8b1a76de7a90060376d99db15fbcfeeba19c189cd08a346d5f"
+    },
+    {
+      "code": "AC9M6P01",
+      "path": "year6/maths/ac9m6p01-that-probabilities-lie-on-numerical-scales-of-0-1/index.html",
+      "retainedHtmlSha256": "b08f4df4f7c3a5dcbc08f4f55f61a99c28f0b0673c521a45dd9fda0b153aa897"
+    },
+    {
+      "code": "AC9M6A03",
+      "path": "year6/maths/ac9m6a03-and-use-algorithms-involving-a-sequence-of-steps-and-decisions/index.html",
+      "retainedHtmlSha256": "2535d61203a5a41084f80af1fe8275240e71346d295eec6a4baa98c5e06bff65"
+    },
+    {
+      "code": "AC9M6M03",
+      "path": "year6/maths/ac9m6m03-interpret-and-use-timetables-and-itineraries-to-plan-activities/index.html",
+      "retainedHtmlSha256": "989210819a1c67b8d8360923ffbd2da287f432336ccfe94dd00f8c7753764003"
+    },
+    {
+      "code": "AC9M6ST03",
+      "path": "year6/maths/ac9m6st03-plan-and-conduct-statistical-investigations-by-posing-and/index.html",
+      "retainedHtmlSha256": "84cbf28f8a5f1b125312b56824cdd312b98e8f67b3cef9cbfc3d219e16e7ec13"
+    },
+    {
+      "code": "AC9M6M02",
+      "path": "year6/maths/ac9m6m02-establish-the-formula-for-the-area-of-a-rectangle-and/index.html",
+      "retainedHtmlSha256": "fefc4fd21906217b53fd19cc26041375cb4b6f80e6a387c0ae3644a965f0c879"
+    },
+    {
+      "code": "AC9M6A01",
+      "path": "year6/maths/ac9m6a01-and-use-rules-that-generate-visually-growing-patterns-and-number/index.html",
+      "retainedHtmlSha256": "fe91705c77a1fc62c3f2cf1a53cb7b49c72e62369ebeac2a51a1ac4d4b6dc7de"
+    },
+    {
+      "code": "AC9M6N06",
+      "path": "year6/maths/ac9m6n06-multiply-and-divide-decimals-by-multiples-of-powers-of-10/index.html",
+      "retainedHtmlSha256": "41a58b125186b211367c90ab33fe939cbc6f717cb09246154f946653b0e6e549"
+    },
+    {
+      "code": "AC9M6M01",
+      "path": "year6/maths/ac9m6m01-convert-between-common-metric-units-of-length-mass-and-capacity/index.html",
+      "retainedHtmlSha256": "84daadebfcebc30cee53393b35383eb58940733df99b7fbe98573e9b69a73116"
+    },
+    {
+      "code": "AC9M6N04",
+      "path": "year6/maths/ac9m6n04-apply-knowledge-of-place-value-to-add-and-subtract-decimals/index.html",
+      "retainedHtmlSha256": "5aa23757c504ee304f507c6943f7bbd77d247b67f26ac3606502c6aa79d46308"
+    },
+    {
+      "code": "AC9M6N05",
+      "path": "year6/maths/ac9m6n05-solve-problems-involving-addition-and-subtraction-of-fractions/index.html",
+      "retainedHtmlSha256": "aab51a980b8d4b6e73f8fbfe3210d43611c25fafea541410a8af0c71b3903d26"
+    },
+    {
+      "code": "AC9M6P02",
+      "path": "year6/maths/ac9m6p02-conduct-repeated-chance-experiments-and-run-simulations-with-an/index.html",
+      "retainedHtmlSha256": "1f418385b2f5d27395de2e873bdb182c76d2ebbee179a30e12cb46256931fb2a"
+    },
+    {
+      "code": "AC9M6N08",
+      "path": "year6/maths/ac9m6n08-approximate-numerical-solutions-to-problems-involving-rational/index.html",
+      "retainedHtmlSha256": "e57420d9f163da6e09b4b45af758800bdc53b639ea9cf7bb75d93de416340ad1"
+    },
+    {
+      "code": "AC9M6A02",
+      "path": "year6/maths/ac9m6a02-find-unknown-values-in-numerical-equations-involving-brackets/index.html",
+      "retainedHtmlSha256": "84765aac3a0f71c6911c758a726c35a0f14e973beff45b1c237e4df80bcfc519"
+    },
+    {
+      "code": "AC9M6N01",
+      "path": "year6/maths/ac9m6n01-situations-including-financial-contexts-that-use-integers/index.html",
+      "retainedHtmlSha256": "6f1dacc91dad8fd72e6e77105168a1acf7ebe28e0fc88d77b89030323eb28c9e"
+    },
+    {
+      "code": "AC9M6N02",
+      "path": "year6/maths/ac9m6n02-and-describe-the-properties-of-prime-composite-and-square/index.html",
+      "retainedHtmlSha256": "7d2bcc2d3400eea52b0303fb9c60b0239f3cd9d980e741f1810235aa8e4aba94"
+    },
+    {
+      "code": "AC9M6SP02",
+      "path": "year6/maths/ac9m6sp02-locate-points-in-the-4-quadrants-of-a-cartesian-plane/index.html",
+      "retainedHtmlSha256": "0e081ca1231c79e9588262b5045eecbffa11d620c373b3dc85e35ee0be1eb2c7"
+    },
+    {
+      "code": "AC9M6M04",
+      "path": "year6/maths/ac9m6m04-the-relationships-between-angles-on-a-straight-line-angles-at/index.html",
+      "retainedHtmlSha256": "f55d289d7013eab50ff563540b0c1f9705d54dbc6ea2c70a8c771d9ca6e1a9fe"
+    },
+    {
+      "code": "AC9S6U03",
+      "path": "year6/science/ac9s6u03-investigate-the-transfer-and-transformation-of-energy-in/index.html",
+      "retainedHtmlSha256": "8725ecbf0c72d0522f9a4de102634b9b3f95d424c57d7108ab1baee12fa85fec"
+    },
+    {
+      "code": "AC9S6I05",
+      "path": "year6/science/ac9s6i05-methods-and-findings-with-those-of-others-recognise-possible/index.html",
+      "retainedHtmlSha256": "25cffee9f65c51071af9e0c096c9ff86fae48c468ccf3dcd9dc40cc8cc290a57"
+    },
+    {
+      "code": "AC9S6I04",
+      "path": "year6/science/ac9s6i04-construct-and-use-appropriate-representations-including-tables/index.html",
+      "retainedHtmlSha256": "ced8f810690599cf1582dba088fd57a3b20f6081f07249c72cdec45a6d093992"
+    },
+    {
+      "code": "AC9S6I02",
+      "path": "year6/science/ac9s6i02-plan-and-conduct-repeatable-investigations-to-answer-questions/index.html",
+      "retainedHtmlSha256": "0b57e5e13c76abb408f95aba7bda80cec0135365013ade1d4733099963594c9a"
+    },
+    {
+      "code": "AC9S6H01",
+      "path": "year6/science/ac9s6h01-examine-why-advances-in-science-are-often-the-result-of/index.html",
+      "retainedHtmlSha256": "4fdce7eb33805e91584de4e2be1977a01a6b1d551d2c99a1b8033eb4fdd6ae9d"
+    },
+    {
+      "code": "AC9S6U02",
+      "path": "year6/science/ac9s6u02-the-movement-of-earth-and-other-planets-relative-to-the/index.html",
+      "retainedHtmlSha256": "47d02c01e286d4741e6b6db55ced620d767fa1d537d74c20ada6cb082875c6ca"
+    },
+    {
+      "code": "AC9S6H02",
+      "path": "year6/science/ac9s6h02-investigate-how-scientific-knowledge-is-used-by-individuals-and/index.html",
+      "retainedHtmlSha256": "b194692b2a7fd620c3048a7a55e76cb7e1dc451268b187798a932a1c4c1b1818"
+    },
+    {
+      "code": "AC9S6I06",
+      "path": "year6/science/ac9s6i06-and-create-texts-to-communicate-ideas-and-findings-for-specific/index.html",
+      "retainedHtmlSha256": "985ea4496f3e951863149545e99382624d086f440e880621006198cc6c148957"
+    },
+    {
+      "code": "AC9S6U04",
+      "path": "year6/science/ac9s6u04-reversible-changes-including-dissolving-and-changes-of-state/index.html",
+      "retainedHtmlSha256": "dd8834f22cadcdfb051ec80b3a2068f94612529d310bcddde77a85e97c5028b6"
+    },
+    {
+      "code": "AC9S6U01",
+      "path": "year6/science/ac9s6u01-investigate-the-physical-conditions-of-a-habitat-and-analyse-how/index.html",
+      "retainedHtmlSha256": "e011f887a8396ca4d4f88de7802b88cdea946d88258c651cdc2d1e6c87f16132"
+    },
+    {
+      "code": "AC9S6I01",
+      "path": "year6/science/ac9s6i01-investigable-questions-to-identify-patterns-and-test/index.html",
+      "retainedHtmlSha256": "108d9d9e6cafdab8b7af4046c5fdd7570eca2f0e46bf601210137d888523ee3c"
+    },
+    {
+      "code": "AC9S6I03",
+      "path": "year6/science/ac9s6i03-equipment-to-observe-measure-and-record-data-with-reasonable/index.html",
+      "retainedHtmlSha256": "fabf759dda4b5291ce51ec296682a0c32b9ffe9c17bb53a6bdd905c106b98920"
+    },
+    {
+      "code": "AC9E6LY05",
+      "path": "year6/english/ac9e6ly05-comprehension-strategies-such-as-visualising-predicting/index.html",
+      "retainedHtmlSha256": "c28a8bf78ee009e1cd436a9d5945b8a47d58a2f42a90d4f7db7a86bf2b4bfb92"
+    },
+    {
+      "code": "AC9E6LY08",
+      "path": "year6/english/ac9e6ly08-phonic-knowledge-of-common-and-less-common-grapheme-phoneme/index.html",
+      "retainedHtmlSha256": "76d0e374a422eb25abae858ea07a75dfd0417cabdd76986b1426d9ac2c537cb0"
+    },
+    {
+      "code": "AC9E6LY02",
+      "path": "year6/english/ac9e6ly02-interaction-skills-and-awareness-of-formality-when-paraphrasing/index.html",
+      "retainedHtmlSha256": "bd50d3eebcd2f5ac553834a94a30c5a6900a3e4d781c35295466633675741ac6"
+    },
+    {
+      "code": "AC9E6LY07",
+      "path": "year6/english/ac9e6ly07-plan-create-rehearse-and-deliver-spoken-and-multimodal/index.html",
+      "retainedHtmlSha256": "c59308f6035bd55d6028b56b8f196f7e18253a483e3ba68fcefd279f9eef2bad"
+    },
+    {
+      "code": "AC9E6LA03",
+      "path": "year6/english/ac9e6la03-explain-how-texts-across-the-curriculum-are-typically-organised/index.html",
+      "retainedHtmlSha256": "10e7f1358d6b0e6c1cc5a10100285c81a08f0bacab928ecf2b7b1ac96e9dd51b"
+    },
+    {
+      "code": "AC9E6LA02",
+      "path": "year6/english/ac9e6la02-the-uses-of-objective-and-subjective-language-and-identify-bias/index.html",
+      "retainedHtmlSha256": "8b3702fdc24f9986cbf27a04ebb7f74d4f6260bd76d7552628bc305789627f9f"
+    },
+    {
+      "code": "AC9E6LE04",
+      "path": "year6/english/ac9e6le04-explain-the-way-authors-use-sound-and-imagery-to-create/index.html",
+      "retainedHtmlSha256": "0823cc54115d50daa42f1ed89b69199124d6359e737123edd56a136a2486b19d"
+    },
+    {
+      "code": "AC9E6LE02",
+      "path": "year6/english/ac9e6le02-similarities-and-differences-in-literary-texts-on-similar/index.html",
+      "retainedHtmlSha256": "808a949aec93ad6df78f1f92ee3bf40ec536191ac6dbbcea0157b2115755d21d"
+    },
+    {
+      "code": "AC9E6LA04",
+      "path": "year6/english/ac9e6la04-that-cohesion-can-be-created-by-the-intentional-use-of/index.html",
+      "retainedHtmlSha256": "b02e63bb8423f09c7f289099a4a119da10c41f29de8e848bf1cd4a4bd6954dd2"
+    },
+    {
+      "code": "AC9E6LA05",
+      "path": "year6/english/ac9e6la05-how-embedded-clauses-can-expand-the-variety-of-complex-sentences/index.html",
+      "retainedHtmlSha256": "97faf4709e4d8338ae8044255bd6f1899e63655b1f09aa341a077fe0c91330be"
+    },
+    {
+      "code": "AC9E6LY03",
+      "path": "year6/english/ac9e6ly03-analyse-how-text-structures-and-language-features-work-together/index.html",
+      "retainedHtmlSha256": "8f644239ca642aef8e1b6f6187a62e2f7b3d200d9f0714a4a6cde8229edc8cbd"
+    },
+    {
+      "code": "AC9E6LA06",
+      "path": "year6/english/ac9e6la06-how-ideas-can-be-expanded-and-sharpened-through-careful-choice/index.html",
+      "retainedHtmlSha256": "f15267ff48ba5e792085e2ad3a5de6356f41131a299aa33c9bccad4d641d641d"
+    },
+    {
+      "code": "AC9E6LE01",
+      "path": "year6/english/ac9e6le01-responses-to-characters-and-events-in-literary-texts-drawn-from/index.html",
+      "retainedHtmlSha256": "856319283ca0724ba7da3f3f285e5c604c906d8bd982a8b2f31c7a5e9aeefc72"
+    },
+    {
+      "code": "AC9E6LA07",
+      "path": "year6/english/ac9e6la07-and-explain-how-images-figures-tables-diagrams-maps-and-graphs/index.html",
+      "retainedHtmlSha256": "981aa466a285f3f2e0dc6acebe7ddeabfb11440134db53f92c5139f73e78d8b8"
+    },
+    {
+      "code": "AC9E6LY09",
+      "path": "year6/english/ac9e6ly09-knowledge-of-known-words-word-origins-including-some-latin-and/index.html",
+      "retainedHtmlSha256": "864a170d69146280eaae4ed3020603d1e0190389f2912d60c0aeb1dd6cc04a45"
+    },
+    {
+      "code": "AC9E6LY01",
+      "path": "year6/english/ac9e6ly01-examine-texts-including-media-texts-that-represent-ideas-and/index.html",
+      "retainedHtmlSha256": "cf691b2cb5c44e8eb6d3b95cf08eda4abbf025582f9b5b9c20da71c527745ded"
+    },
+    {
+      "code": "AC9E6LE05",
+      "path": "year6/english/ac9e6le05-and-edit-literary-texts-that-adapt-plot-structure-characters/index.html",
+      "retainedHtmlSha256": "6b19934b291c85c828b9613c3e952f9df2fd00113eb5398437f8e76dbef45327"
+    },
+    {
+      "code": "AC9E6LY06",
+      "path": "year6/english/ac9e6ly06-plan-create-edit-and-publish-written-and-multimodal-texts-whose/index.html",
+      "retainedHtmlSha256": "c248db7a42d308b656b23fb33caa3f06ec40cfebe88e1b61247fabd61f697fe6"
+    },
+    {
+      "code": "AC9E6LA08",
+      "path": "year6/english/ac9e6la08-authors-use-of-vivid-emotive-vocabulary-such-as-metaphors/index.html",
+      "retainedHtmlSha256": "77fa9bf4b28c1d268c4fcb8a2ec94553a6df69fd0448e60bdbf8ff7c140619a5"
+    },
+    {
+      "code": "AC9E6LY04",
+      "path": "year6/english/ac9e6ly04-select-navigate-and-read-texts-for-a-range-of-purposes/index.html",
+      "retainedHtmlSha256": "80e27dc397e5d41bfb4898bdac0ef55fc65da5c5518a9934eeb31d06ad84a4cf"
+    },
+    {
+      "code": "AC9E6LA01",
+      "path": "year6/english/ac9e6la01-that-language-varies-as-levels-of-formality-and-social-distance/index.html",
+      "retainedHtmlSha256": "1bd8b583ffeba2e0909fd8fc39ce68f5cbb3cc0e576eb3ec6510cbe89f876294"
+    },
+    {
+      "code": "AC9E6LA09",
+      "path": "year6/english/ac9e6la09-how-to-use-the-comma-for-lists-to-separate-a/index.html",
+      "retainedHtmlSha256": "4ceec939510819202aad69f34bb6d875abf478b89981be4838d72eaa06c88af4"
+    },
+    {
+      "code": "AC9E6LE03",
+      "path": "year6/english/ac9e6le03-and-explain-characteristics-that-define-an-author-s-individual/index.html",
+      "retainedHtmlSha256": "760e6cf5b311a8960f08ae86d41edd457fda8215bb72b7d987cfc9ad797f0aea"
+    },
+    {
+      "code": "AC9M7N05",
+      "path": "year7/maths/ac9m7n05-round-decimals-to-a-given-accuracy-appropriate-to-the-context/index.html",
+      "retainedHtmlSha256": "672e61ee81690f4a2a470f9a36f13feeaf73385911b67bfef696a6a50a69bb5a"
+    },
+    {
+      "code": "AC9M7SP04",
+      "path": "year7/maths/ac9m7sp04-design-and-create-algorithms-involving-a-sequence-of-steps-and/index.html",
+      "retainedHtmlSha256": "785e30d01217e27beaa09a75ed17f2206faff38ef683d6dd83bb183c12e44d5c"
+    },
+    {
+      "code": "AC9M7M05",
+      "path": "year7/maths/ac9m7m05-demonstrate-that-the-interior-angle-sum-of-a-triangle-in/index.html",
+      "retainedHtmlSha256": "b1580c1d50980a999b65fd43aeceb8c8b5c41ed7d4ab3ae6cd1e8ac18d6c91c9"
+    },
+    {
+      "code": "AC9M7A05",
+      "path": "year7/maths/ac9m7a05-generate-tables-of-values-from-visually-growing-patterns-or-the/index.html",
+      "retainedHtmlSha256": "37d84232b801666920b8fc3082b207134e8423289fe5789792f6f9f9336b01f6"
+    },
+    {
+      "code": "AC9M7N02",
+      "path": "year7/maths/ac9m7n02-represent-natural-numbers-as-products-of-powers-of-prime-numbers/index.html",
+      "retainedHtmlSha256": "07f8c23f5c8f1c4f64c655ec7edc58c74a599ae91fb4e9dc8d8b72e428ab1a0b"
+    },
+    {
+      "code": "AC9M7M06",
+      "path": "year7/maths/ac9m7m06-mathematical-modelling-to-solve-practical-problems-involving/index.html",
+      "retainedHtmlSha256": "e22db0d46c6bf6435fecc9009051a52ce904c0b14b2620c1d34a3585432e6f99"
+    },
+    {
+      "code": "AC9M7N07",
+      "path": "year7/maths/ac9m7n07-compare-order-and-solve-problems-involving-addition-and/index.html",
+      "retainedHtmlSha256": "138d2a5a91db9d50db0fb73b0f8c88549810c1ad4fde9064d13b33defbc488ba"
+    },
+    {
+      "code": "AC9M7A04",
+      "path": "year7/maths/ac9m7a04-relationships-between-variables-represented-in-graphs-of/index.html",
+      "retainedHtmlSha256": "0eb81f42ac7dba4f4b6f7b580208788fa42b9bd079758bd3b98f00e6223e2ccb"
+    },
+    {
+      "code": "AC9M7ST02",
+      "path": "year7/maths/ac9m7st02-different-types-of-numerical-data-displays-including-stem-and/index.html",
+      "retainedHtmlSha256": "a0be9b7cdc0ebe21d45e67de4104e95ebe8bcfa0024bfe329f0e0e3e36ef7452"
+    },
+    {
+      "code": "AC9M7N03",
+      "path": "year7/maths/ac9m7n03-represent-natural-numbers-in-expanded-notation-using-place/index.html",
+      "retainedHtmlSha256": "2c803844751f84ae6243837b4d524f8c15874c5d78ac7bb44771a45ce4e22311"
+    },
+    {
+      "code": "AC9M7SP01",
+      "path": "year7/maths/ac9m7sp01-represent-objects-in-2-dimensions-discuss-and-reason-about-the/index.html",
+      "retainedHtmlSha256": "a8531de2d3d1034f674da04e9d8fb0aed22b879c596a86846c5754ed5af98bcd"
+    },
+    {
+      "code": "AC9M7ST03",
+      "path": "year7/maths/ac9m7st03-plan-and-conduct-statistical-investigations-involving-data-for/index.html",
+      "retainedHtmlSha256": "6d79c5c3bba8145643ed66bee5db244fa04f24aa40cb11198f592a461e28df34"
+    },
+    {
+      "code": "AC9M7N08",
+      "path": "year7/maths/ac9m7n08-recognise-represent-and-solve-problems-involving-ratios/index.html",
+      "retainedHtmlSha256": "84e13564a6ec6f99caca227d96d72faf458d48657327a069e62ee44058b1db26"
+    },
+    {
+      "code": "AC9M7A01",
+      "path": "year7/maths/ac9m7a01-and-use-variables-to-represent-everyday-formulas-algebraically/index.html",
+      "retainedHtmlSha256": "761223293bd82fe209be747db09203d22f9a32b954cf3973ee6dd679f5d31ba0"
+    },
+    {
+      "code": "AC9M7SP03",
+      "path": "year7/maths/ac9m7sp03-transformations-of-a-set-of-points-using-coordinates-in-the/index.html",
+      "retainedHtmlSha256": "8474f3ac6ef326843c8b17b5da5f0f4ecf2631707da3036d7c54dfc0f56460fb"
+    },
+    {
+      "code": "AC9M7A03",
+      "path": "year7/maths/ac9m7a03-solve-one-variable-linear-equations-with-natural-number/index.html",
+      "retainedHtmlSha256": "cef5ae5fb279f8ebaf39322a64ee490f1bfa171b1613974c8f6637fbc2d8cd89"
+    },
+    {
+      "code": "AC9M7N04",
+      "path": "year7/maths/ac9m7n04-find-equivalent-representations-of-rational-numbers-and/index.html",
+      "retainedHtmlSha256": "e036cd9724d33874ea10bf6cfd33a05b4382f8cce251b0469cd6bc25ec330adf"
+    },
+    {
+      "code": "AC9M7N01",
+      "path": "year7/maths/ac9m7n01-the-relationship-between-perfect-square-numbers-and-square/index.html",
+      "retainedHtmlSha256": "c7143025c2b71693bf7ed4466ef002ec9b1f14e0f10514050f78abd8ab68d054"
+    },
+    {
+      "code": "AC9M7N09",
+      "path": "year7/maths/ac9m7n09-mathematical-modelling-to-solve-practical-problems-involving/index.html",
+      "retainedHtmlSha256": "ca46146480e4a547430a00f24c63b96bcf90c5a63503c474b132f01592c1018e"
+    },
+    {
+      "code": "AC9M7N06",
+      "path": "year7/maths/ac9m7n06-the-4-operations-with-positive-rational-numbers-including/index.html",
+      "retainedHtmlSha256": "ee3598f15c0e3fc563ee4762fd824020b4caf46cade1e460c080936e966d05f7"
+    },
+    {
+      "code": "AC9M7M03",
+      "path": "year7/maths/ac9m7m03-the-relationship-between-and-the-features-of-circles-including/index.html",
+      "retainedHtmlSha256": "a47649cd3ffc9b9415afdedc6ce53b41b7e693246f08ec1fff26098d3cdb1ebd"
+    },
+    {
+      "code": "AC9M7A06",
+      "path": "year7/maths/ac9m7a06-manipulate-formulas-involving-several-variables-using-digital/index.html",
+      "retainedHtmlSha256": "fdb132c891a8430d0fa17d1b899da3b4d15709173c07d4d08a2ec77658663885"
+    },
+    {
+      "code": "AC9M7M02",
+      "path": "year7/maths/ac9m7m02-solve-problems-involving-the-volume-of-right-prisms-including/index.html",
+      "retainedHtmlSha256": "382e7721e9634e0a2d042ab5538021349108f01d5ef39a74260271dbf8225516"
+    },
+    {
+      "code": "AC9M7SP02",
+      "path": "year7/maths/ac9m7sp02-classify-triangles-quadrilaterals-and-other-polygons-according/index.html",
+      "retainedHtmlSha256": "6e3d350eb39a0bd8330b6103d9de1d8905f9a14a36726a158d7f317e783a96fc"
+    },
+    {
+      "code": "AC9M7P01",
+      "path": "year7/maths/ac9m7p01-the-sample-space-for-single-stage-events-assign-probabilities/index.html",
+      "retainedHtmlSha256": "4eac7896e65fde56c64fb93b50f3a7753168adb7d9089a7468d1ec4b089584a1"
+    },
+    {
+      "code": "AC9M7M01",
+      "path": "year7/maths/ac9m7m01-solve-problems-involving-the-area-of-triangles-and/index.html",
+      "retainedHtmlSha256": "b4cd869a40e56e7bddb7ea86c24194cc4728dacdaaa65c7c859d80861618ca1c"
+    },
+    {
+      "code": "AC9M7P02",
+      "path": "year7/maths/ac9m7p02-conduct-repeated-chance-experiments-and-run-simulations-with-a/index.html",
+      "retainedHtmlSha256": "d9de5bbc61fb6c161573cc9bed6d7877a64f64c4961a49b939240eaf943f164e"
+    },
+    {
+      "code": "AC9M7A02",
+      "path": "year7/maths/ac9m7a02-formulate-algebraic-expressions-using-constants-variables/index.html",
+      "retainedHtmlSha256": "7aa3aea64299f5272f7d677c63d7a7a9721c606c556b9b8c4145178ac5695b69"
+    },
+    {
+      "code": "AC9M7ST01",
+      "path": "year7/maths/ac9m7st01-acquire-data-sets-for-discrete-and-continuous-numerical/index.html",
+      "retainedHtmlSha256": "e17c14f4696fdd97d3900a93070a1be042dcad5e0a76e3a5bfcdec1cd707213d"
+    },
+    {
+      "code": "AC9M7M04",
+      "path": "year7/maths/ac9m7m04-corresponding-alternate-and-co-interior-relationships-between/index.html",
+      "retainedHtmlSha256": "905806f71c716d9d64b5fd74e18a9f7fd2449a14ad15ded88f0fdb0de1b58544"
+    },
+    {
+      "code": "AC9S7U01",
+      "path": "year7/science/ac9s7u01-investigate-the-role-of-classification-in-ordering-and/index.html",
+      "retainedHtmlSha256": "06963dc561943f50fbf821f389bd7a55d25743f7583f833cfc6e74093a174acf"
+    },
+    {
+      "code": "AC9S7I01",
+      "path": "year7/science/ac9s7i01-develop-investigable-questions-reasoned-predictions-and/index.html",
+      "retainedHtmlSha256": "5bf7938e7143d88d95813fcc05067c7ebd884966c4393c17cc5d48cc41225ab0"
+    },
+    {
+      "code": "AC9S7H01",
+      "path": "year7/science/ac9s7h01-explain-how-new-evidence-or-different-perspectives-can-lead-to/index.html",
+      "retainedHtmlSha256": "6bb8ac4b77225b816f1c9548cf41cbb61ff21a0af0d803cf168da45d4ff89839"
+    },
+    {
+      "code": "AC9S7I08",
+      "path": "year7/science/ac9s7i08-and-create-texts-to-communicate-ideas-findings-and-arguments-for/index.html",
+      "retainedHtmlSha256": "06bdd03614743d7151bd1281f7d7b8a3901da54a028a557957fb9a2ff7d96ed6"
+    },
+    {
+      "code": "AC9S7I05",
+      "path": "year7/science/ac9s7i05-analyse-data-and-information-to-describe-patterns-trends-and/index.html",
+      "retainedHtmlSha256": "70759c0e1c6cd50db652b533a7f630ad73e9cfc86157f2c7e229bf43c7b5878a"
+    },
+    {
+      "code": "AC9S7H03",
+      "path": "year7/science/ac9s7h03-examine-how-proposed-scientific-responses-to-contemporary/index.html",
+      "retainedHtmlSha256": "a260c8f2b7725f8a0b3867477d5f66c85929a675c43059e08eb9ee4b7ea92781"
+    },
+    {
+      "code": "AC9S7U02",
+      "path": "year7/science/ac9s7u02-models-including-food-webs-to-represent-matter-and-energy-flow/index.html",
+      "retainedHtmlSha256": "0531391de15547315c82b56618e2f9235376cd4c8cf893a23e0c9629e1a953eb"
+    },
+    {
+      "code": "AC9S7I06",
+      "path": "year7/science/ac9s7i06-analyse-methods-conclusions-and-claims-for-assumptions-possible/index.html",
+      "retainedHtmlSha256": "85964e04d4e0b50548511291f7b8ffe0b5b81dc68647cc4c95f5db909da555c3"
+    },
+    {
+      "code": "AC9S7U05",
+      "path": "year7/science/ac9s7u05-particle-theory-to-describe-the-arrangement-of-particles-in-a/index.html",
+      "retainedHtmlSha256": "f73beeb09f1b335c013588cc0e880c032b3f70dbf2cc02fdb478da5a4ddc8d9f"
+    },
+    {
+      "code": "AC9S7H02",
+      "path": "year7/science/ac9s7h02-investigate-how-cultural-perspectives-and-world-views-influence/index.html",
+      "retainedHtmlSha256": "71eae750a0c4aff52a9872efd14df8dda20ec033416acf82b56b93caba7ad925"
+    },
+    {
+      "code": "AC9S7I04",
+      "path": "year7/science/ac9s7i04-select-and-construct-appropriate-representations-including/index.html",
+      "retainedHtmlSha256": "bca3812dfde3e125feffc02addc00f9526c9199fd356e44d4c65280b093b0ca0"
+    },
+    {
+      "code": "AC9S7I03",
+      "path": "year7/science/ac9s7i03-select-and-use-equipment-to-generate-and-record-data-with/index.html",
+      "retainedHtmlSha256": "83c6f62048b993ab6011b978a26a005d693c72e43d3e14de41d5128d2cfcf0e1"
+    },
+    {
+      "code": "AC9S7H04",
+      "path": "year7/science/ac9s7h04-the-role-of-science-communication-in-informing-individual/index.html",
+      "retainedHtmlSha256": "d1260bbf63ee496260e174e1190030cabb6b6fddcb8e4d6f69b389ea34343f90"
+    },
+    {
+      "code": "AC9S7I07",
+      "path": "year7/science/ac9s7i07-construct-evidence-based-arguments-to-support-conclusions-or/index.html",
+      "retainedHtmlSha256": "b491cb2dc6addffbce70a9c945dab491e912f53bd33d45243dcb69f3767108af"
+    },
+    {
+      "code": "AC9S7U03",
+      "path": "year7/science/ac9s7u03-model-cyclic-changes-in-the-relative-positions-of-the-earth/index.html",
+      "retainedHtmlSha256": "58277e2e2b1cca7dbcf17cc1bbb68e5832ba2c9df8840a021646d0a8c1f6e7c7"
+    },
+    {
+      "code": "AC9S7U04",
+      "path": "year7/science/ac9s7u04-investigate-and-represent-balanced-and-unbalanced-forces/index.html",
+      "retainedHtmlSha256": "99b3ad2dda830b2e90a22a60b7960648dc2017cff093f3c27f1d7f773566b571"
+    },
+    {
+      "code": "AC9S7I02",
+      "path": "year7/science/ac9s7i02-plan-and-conduct-reproducible-investigations-to-answer/index.html",
+      "retainedHtmlSha256": "135268b49f63ccd5d377a33ebe42cd4ec32a90506685c4f35e566d63294cecaf"
+    },
+    {
+      "code": "AC9S7U06",
+      "path": "year7/science/ac9s7u06-a-particle-model-to-describe-differences-between-pure/index.html",
+      "retainedHtmlSha256": "9e6f088bacee521f220787e1cfa61d492e40dec7ac9ce9b90869973b290deadb"
+    },
+    {
+      "code": "AC9E7LY08",
+      "path": "year7/english/ac9e7ly08-how-to-use-spelling-rules-and-word-origins-for-example/index.html",
+      "retainedHtmlSha256": "debce440fdcf6df3536fa4493957ce3f616ca5145bcdec344b352c67693a900f"
+    },
+    {
+      "code": "AC9E7LE01",
+      "path": "year7/english/ac9e7le01-and-explore-ideas-points-of-view-characters-events-and-or-issues/index.html",
+      "retainedHtmlSha256": "3d22edf85bb1315baa963098ec6b53bf3e9b48aa432d730faebf80d092f07483"
+    },
+    {
+      "code": "AC9E7LE02",
+      "path": "year7/english/ac9e7le02-form-an-opinion-about-characters-settings-and-events-in-texts/index.html",
+      "retainedHtmlSha256": "2eadb93c15beeb4651f85f19882d171e1fa9066f78f37a1b6e51267e2d342dbf"
+    },
+    {
+      "code": "AC9E7LY05",
+      "path": "year7/english/ac9e7ly05-comprehension-strategies-such-as-visualising-predicting/index.html",
+      "retainedHtmlSha256": "4eda554929743e0a8552301a222171eb1bf5f225dcf4c68b70ea35035c2ba051"
+    },
+    {
+      "code": "AC9E7LA08",
+      "path": "year7/english/ac9e7la08-investigate-the-role-of-vocabulary-in-building-specialist-and/index.html",
+      "retainedHtmlSha256": "ce3f9185ee54e2378b120c2224e23930808d2394581aaa39b32f624abdb0b322"
+    },
+    {
+      "code": "AC9E7LA03",
+      "path": "year7/english/ac9e7la03-and-describe-how-texts-are-structured-differently-depending-on/index.html",
+      "retainedHtmlSha256": "947d11ade44573b11ac78a22deb8fdf7abe9d39074d3922373bbbe7cbec40a4c"
+    },
+    {
+      "code": "AC9E7LE03",
+      "path": "year7/english/ac9e7le03-explain-the-ways-that-literary-devices-and-language-features/index.html",
+      "retainedHtmlSha256": "f468100929ae96b5d999b13c44e95a52ad7254eefca43d681b3b5fba921d3245"
+    },
+    {
+      "code": "AC9E7LY03",
+      "path": "year7/english/ac9e7ly03-analyse-the-ways-in-which-language-features-shape-meaning-and/index.html",
+      "retainedHtmlSha256": "2de795305f94e03d34c452e5a977055ab4539fa264670a1630ee39fa3af51862"
+    },
+    {
+      "code": "AC9E7LE06",
+      "path": "year7/english/ac9e7le06-and-explain-how-literary-devices-create-layers-of-meaning-in/index.html",
+      "retainedHtmlSha256": "d6d9658f4ffe57187adedea79a06fac7e715a1e5cc1bbd4339ee3486d34b1192"
+    },
+    {
+      "code": "AC9E7LA07",
+      "path": "year7/english/ac9e7la07-analyse-how-techniques-such-as-vectors-angle-and-or-social/index.html",
+      "retainedHtmlSha256": "1aae73acd0adb5a00031aedd0043cc84b8eb96654a2f59a50cfb969749e7e2e1"
+    },
+    {
+      "code": "AC9E7LY06",
+      "path": "year7/english/ac9e7ly06-plan-create-edit-and-publish-written-and-multimodal-texts/index.html",
+      "retainedHtmlSha256": "458c79eedabdd56016775e75612aca7cd5fbff9034ca7742afb533f9c7730713"
+    },
+    {
+      "code": "AC9E7LY07",
+      "path": "year7/english/ac9e7ly07-plan-create-rehearse-and-deliver-presentations-for-purposes-and/index.html",
+      "retainedHtmlSha256": "182808c3aebf6fceb406a05633e49bfe282510b88a4a457a9638a64a37be0001"
+    },
+    {
+      "code": "AC9E7LE04",
+      "path": "year7/english/ac9e7le04-the-aesthetic-and-social-value-of-literary-texts-using-relevant/index.html",
+      "retainedHtmlSha256": "8c6939516175653f9b31c21a842d9e58e6cba9e7886443f6a2cbd90faf3fabf9"
+    },
+    {
+      "code": "AC9E7LA06",
+      "path": "year7/english/ac9e7la06-how-consistency-of-tense-through-verbs-and-verb-groups-achieves/index.html",
+      "retainedHtmlSha256": "126cd14f84cd7b3985f1b27dd91c38fd5d2a222e802d859d0c8fef0b2d16742d"
+    },
+    {
+      "code": "AC9E7LY04",
+      "path": "year7/english/ac9e7ly04-explain-the-structure-of-ideas-such-as-the-use-of/index.html",
+      "retainedHtmlSha256": "8d03a96ec406caa250dea9c01581e1f686a383d5287182de37a05620e7318be9"
+    },
+    {
+      "code": "AC9E7LA05",
+      "path": "year7/english/ac9e7la05-how-complex-and-compound-complex-sentences-can-be-used-to/index.html",
+      "retainedHtmlSha256": "79b799734c1198d86437e772ac52a9bce2159e863a744fdda35bcc5e6c7dc572"
+    },
+    {
+      "code": "AC9E7LE07",
+      "path": "year7/english/ac9e7le07-and-edit-literary-texts-that-experiment-with-language-features/index.html",
+      "retainedHtmlSha256": "83e82a7bf0d920e9f99a0571547bbd5a2f68fbb2e4f6dcfc6677893adc0ad59e"
+    },
+    {
+      "code": "AC9E7LA09",
+      "path": "year7/english/ac9e7la09-the-use-of-punctuation-including-colons-and-brackets-to-support/index.html",
+      "retainedHtmlSha256": "c561481078ffd680a704ff175ea9d040435a86f4e8d27149b1d901defb770ff0"
+    },
+    {
+      "code": "AC9E7LA04",
+      "path": "year7/english/ac9e7la04-that-the-cohesion-of-texts-relies-on-devices-that-signal/index.html",
+      "retainedHtmlSha256": "824157608e8ad2ff1b3554d15ac7ae1efac1846519b607eb960f267979f2b2a1"
+    },
+    {
+      "code": "AC9E7LA01",
+      "path": "year7/english/ac9e7la01-how-language-expresses-and-creates-personal-and-social/index.html",
+      "retainedHtmlSha256": "13dddbfa5a398bfd503ab0c5e31d23567e867583936ba26c72398c260631439f"
+    },
+    {
+      "code": "AC9E7LA02",
+      "path": "year7/english/ac9e7la02-language-used-to-evaluate-texts-including-visual-and-multimodal/index.html",
+      "retainedHtmlSha256": "738eb5cf688f2143ad8e60b5379edfd8c89fa419c96cd4cc9f251d250227b5af"
+    },
+    {
+      "code": "AC9E7LY01",
+      "path": "year7/english/ac9e7ly01-explain-the-effect-of-current-technology-on-reading-creating-and/index.html",
+      "retainedHtmlSha256": "e1e835ad408104ef2f1cc6e2f79847040efeb005db398f74f7f26b3273bf152e"
+    },
+    {
+      "code": "AC9E7LY02",
+      "path": "year7/english/ac9e7ly02-interaction-skills-when-discussing-and-presenting-ideas-and/index.html",
+      "retainedHtmlSha256": "e93525c0774e4f304e5613732cc6a9d788b0bd02e914101c410a6ee49b186e20"
+    },
+    {
+      "code": "AC9E7LE05",
+      "path": "year7/english/ac9e7le05-and-explain-the-ways-that-characters-settings-and-events-combine/index.html",
+      "retainedHtmlSha256": "ab9675417786d65bb32095eb5fc8ed8dc304cefef9dcbfa0840efa383da38440"
+    },
+    {
+      "code": "AC9M8SP02",
+      "path": "year8/maths/ac9m8sp02-establish-properties-of-quadrilaterals-using-congruent/index.html",
+      "retainedHtmlSha256": "b30d4c460e438b65e87f051d3aa3a5b5e56041568a84d05dba6a07373edf342a"
+    },
+    {
+      "code": "AC9M8P03",
+      "path": "year8/maths/ac9m8p03-conduct-repeated-chance-experiments-and-simulations-using/index.html",
+      "retainedHtmlSha256": "6ceaa7e62f07328e45182a16e232f6940da4b9d4a81f05ea40cb0e8e625819bc"
+    },
+    {
+      "code": "AC9M8ST01",
+      "path": "year8/maths/ac9m8st01-investigate-techniques-for-data-collection-including-census/index.html",
+      "retainedHtmlSha256": "512f1e252fcb1e1cb40c1b91057b2daafb68e907c1035fac12f3994a69aceb44"
+    },
+    {
+      "code": "AC9M8M04",
+      "path": "year8/maths/ac9m8m04-solve-problems-involving-duration-including-using-12-and-24/index.html",
+      "retainedHtmlSha256": "108d4699b8c577b3434b629c3ef91169b8b827d50ad52d81352c5d129ef5b59d"
+    },
+    {
+      "code": "AC9M8N01",
+      "path": "year8/maths/ac9m8n01-irrational-numbers-in-applied-contexts-including-square-roots/index.html",
+      "retainedHtmlSha256": "9cc4b3ef0a14d5d5cb60df666a841da80a175ac5e5c46956eec00068b9c6d4e9"
+    },
+    {
+      "code": "AC9M8M07",
+      "path": "year8/maths/ac9m8m07-mathematical-modelling-to-solve-practical-problems-involving/index.html",
+      "retainedHtmlSha256": "5bf3ab17e7553c36640116e8e2b729b70b23aaae8c1fb61c4e85a840f59d1ae7"
+    },
+    {
+      "code": "AC9M8P01",
+      "path": "year8/maths/ac9m8p01-that-complementary-events-have-a-combined-probability-of-one-use/index.html",
+      "retainedHtmlSha256": "7c5edde93e94724a1c8d808d4d8d86a72a3328fa3e9a12e20983b565df49bb91"
+    },
+    {
+      "code": "AC9M8ST03",
+      "path": "year8/maths/ac9m8st03-variations-in-distributions-and-proportions-obtained-from/index.html",
+      "retainedHtmlSha256": "0e2b71dff9930306b06256abd7f3e0848240e5c1aee19be25584a4c47047cd1c"
+    },
+    {
+      "code": "AC9M8M05",
+      "path": "year8/maths/ac9m8m05-and-use-rates-to-solve-problems-involving-the-comparison-of/index.html",
+      "retainedHtmlSha256": "3b4321f007ac3f5853122c1424dd406d28981483e596337d2d4dad94302886ca"
+    },
+    {
+      "code": "AC9M8P02",
+      "path": "year8/maths/ac9m8p02-determine-all-possible-combinations-for-2-events-using-two-way/index.html",
+      "retainedHtmlSha256": "aadb1479d01e219e66ebc113ef0f71fa25ffb6f54e4ae2fb0dad362d2e12f83e"
+    },
+    {
+      "code": "AC9M8M01",
+      "path": "year8/maths/ac9m8m01-solve-problems-involving-the-area-and-perimeter-of-irregular-and/index.html",
+      "retainedHtmlSha256": "30664aee4bc75f6971b935b4adae83195bf2d5f43bc53f363bb1596f404d28d6"
+    },
+    {
+      "code": "AC9M8A02",
+      "path": "year8/maths/ac9m8a02-graph-linear-relations-on-the-cartesian-plane-using-digital/index.html",
+      "retainedHtmlSha256": "8ea75ffb4190e3fc795df97baf18b146a8b1e26fe4cf02972b8dfb61283666dc"
+    },
+    {
+      "code": "AC9M8A03",
+      "path": "year8/maths/ac9m8a03-mathematical-modelling-to-solve-applied-problems-involving/index.html",
+      "retainedHtmlSha256": "934ee972ea3776a2ae18276d735ceaeffbb727f1cc275c478561a50f25c1cb02"
+    },
+    {
+      "code": "AC9M8ST04",
+      "path": "year8/maths/ac9m8st04-plan-and-conduct-statistical-investigations-involving-samples/index.html",
+      "retainedHtmlSha256": "61e7f5e427e7ec888e1643f22a84b823ce57c23568f084454f8c8eed0cc994c7"
+    },
+    {
+      "code": "AC9M8SP01",
+      "path": "year8/maths/ac9m8sp01-the-conditions-for-congruence-and-similarity-of-triangles-and/index.html",
+      "retainedHtmlSha256": "b2ac0df41347a519d675a0ecb2cde09f781ef4b5c0ec9f40f28b0718aecff862"
+    },
+    {
+      "code": "AC9M8N02",
+      "path": "year8/maths/ac9m8n02-establish-and-apply-the-exponent-laws-with-positive-integer/index.html",
+      "retainedHtmlSha256": "9c8daea491cfb8f07b07c27b51e933f41d9ce5fb206fb4d38dc55284e68042b7"
+    },
+    {
+      "code": "AC9M8N05",
+      "path": "year8/maths/ac9m8n05-mathematical-modelling-to-solve-practical-problems-involving/index.html",
+      "retainedHtmlSha256": "d9e5a047e1602930868e6ece0b4d6a5782248aa8d5e0796c8ff7be5303c7d8a5"
+    },
+    {
+      "code": "AC9M8ST02",
+      "path": "year8/maths/ac9m8st02-analyse-and-report-on-the-distribution-of-data-from-primary/index.html",
+      "retainedHtmlSha256": "092f5842dd7bd6ade3302892f09a0c9d9713d7621dbcde75932f30eeab84797f"
+    },
+    {
+      "code": "AC9M8M02",
+      "path": "year8/maths/ac9m8m02-solve-problems-involving-the-volume-and-capacity-of-right-prisms/index.html",
+      "retainedHtmlSha256": "f5c5eae8550e0a0a14bdf3cee2e81dee268b39600e8dd0bfe048a4f5750d5091"
+    },
+    {
+      "code": "AC9M8M06",
+      "path": "year8/maths/ac9m8m06-pythagoras-theorem-to-solve-problems-involving-the-side-lengths/index.html",
+      "retainedHtmlSha256": "f8ec750f1e50f74f2cf8011124a366e6ed8bb7d42abd658fbdaf76d46bac9332"
+    },
+    {
+      "code": "AC9M8SP03",
+      "path": "year8/maths/ac9m8sp03-the-position-and-location-of-objects-in-3-dimensions-in/index.html",
+      "retainedHtmlSha256": "0e4a5e81efb67ff06b88e1f883d9fec2067ddb11bffbb227bbf231b4b19a9b87"
+    },
+    {
+      "code": "AC9M8SP04",
+      "path": "year8/maths/ac9m8sp04-design-create-and-test-algorithms-involving-a-sequence-of-steps/index.html",
+      "retainedHtmlSha256": "a8fe26fe08dece716a6e39aaa7b2ab95ac539003a18f9fe93b689a79b0889ae7"
+    },
+    {
+      "code": "AC9M8A04",
+      "path": "year8/maths/ac9m8a04-experiment-with-linear-functions-and-relations-using-digital/index.html",
+      "retainedHtmlSha256": "b1c59680333cfdd16673a476f628f8bee17e3c9fc424ea6b71b76f3e4fcfe0a5"
+    },
+    {
+      "code": "AC9M8A01",
+      "path": "year8/maths/ac9m8a01-create-expand-factorise-rearrange-and-simplify-linear/index.html",
+      "retainedHtmlSha256": "48a6ffadd7e86ff19c4b009422fbfb3d3559c48c003d6c83bdd651781fd25dfa"
+    },
+    {
+      "code": "AC9M8N04",
+      "path": "year8/maths/ac9m8n04-the-4-operations-with-integers-and-with-rational-numbers/index.html",
+      "retainedHtmlSha256": "298d7afb91af17f48118f262d55ed1c303c567c1043e72c1a0e88a5d08a9707b"
+    },
+    {
+      "code": "AC9M8M03",
+      "path": "year8/maths/ac9m8m03-solve-problems-involving-the-circumference-and-area-of-a-circle/index.html",
+      "retainedHtmlSha256": "c3b83d5780beafdbca087e6b8b0a16458a41780c4c5713e1763689d1b5d7e4d2"
+    },
+    {
+      "code": "AC9M8N03",
+      "path": "year8/maths/ac9m8n03-terminating-and-recurring-decimals-using-digital-tools-as/index.html",
+      "retainedHtmlSha256": "8bbd4057672967f961aaa52cec817ca8fe7ffbd76c48100aacc594faba3e75ef"
+    },
+    {
+      "code": "AC9S8U01",
+      "path": "year8/science/ac9s8u01-cells-as-the-basic-units-of-living-things-compare-plant/index.html",
+      "retainedHtmlSha256": "e7c1bc0d6538db95407c00d0c5f9b4b33586c1da343ea3e2c0c2d85778f4b74f"
+    },
+    {
+      "code": "AC9S8I05",
+      "path": "year8/science/ac9s8i05-analyse-data-and-information-to-describe-patterns-trends-and/index.html",
+      "retainedHtmlSha256": "e03fb8ad1f23321c56684cd6cd3f52b79baa2920089d62d66dfe36ed3e57ce5e"
+    },
+    {
+      "code": "AC9S8U05",
+      "path": "year8/science/ac9s8u05-classify-different-types-of-energy-as-kinetic-or-potential-and/index.html",
+      "retainedHtmlSha256": "ddb2d812039df060f355d07566651ec9ebac4a2040368dd3c57969f34299f2bf"
+    },
+    {
+      "code": "AC9S8I07",
+      "path": "year8/science/ac9s8i07-construct-evidence-based-arguments-to-support-conclusions-or/index.html",
+      "retainedHtmlSha256": "fbbfc343b54c79ddf2fbf83305b2f3bc54d8b7f218d4fdeb324fc37f6fa585e6"
+    },
+    {
+      "code": "AC9S8I08",
+      "path": "year8/science/ac9s8i08-and-create-texts-to-communicate-ideas-findings-and-arguments-for/index.html",
+      "retainedHtmlSha256": "aac82a8e48bac37b8a96b69e18abea90d35b055aef68bed5032ab31600774a67"
+    },
+    {
+      "code": "AC9S8I01",
+      "path": "year8/science/ac9s8i01-investigable-questions-predictions-hypotheses/index.html",
+      "retainedHtmlSha256": "81931114e2155c943fff732afad903947e0b9ccd5150385c4ecda7d52a3dffad"
+    },
+    {
+      "code": "AC9S8I04",
+      "path": "year8/science/ac9s8i04-select-and-construct-appropriate-representations-including/index.html",
+      "retainedHtmlSha256": "474ed70d69cda49c30fa56731443b6deaf3917ba5519dd0b925691a8e27f8fbd"
+    },
+    {
+      "code": "AC9S8H03",
+      "path": "year8/science/ac9s8h03-examine-how-proposed-scientific-responses-to-contemporary/index.html",
+      "retainedHtmlSha256": "bbe62ef92ee45b1ac834debb019dce814b94530dc78aea6adcee4a7bc40b022b"
+    },
+    {
+      "code": "AC9S8H01",
+      "path": "year8/science/ac9s8h01-explain-how-new-evidence-or-different-perspectives-can-lead-to/index.html",
+      "retainedHtmlSha256": "888009b29ec530512aca690a00b23f64c8d6f611238db958c80b6eadc2af370e"
+    },
+    {
+      "code": "AC9S8I03",
+      "path": "year8/science/ac9s8i03-select-and-use-equipment-to-generate-and-record-data-with/index.html",
+      "retainedHtmlSha256": "70e5a291ed7360adeef9ab4e867cb62e0eadf7acf7f04f73607961b99d00a937"
+    },
+    {
+      "code": "AC9S8H02",
+      "path": "year8/science/ac9s8h02-investigate-how-cultural-perspectives-and-world-views-influence/index.html",
+      "retainedHtmlSha256": "e86deb5d132161dbfe14ab89e9e270fec651086845689674a053c80872d54cae"
+    },
+    {
+      "code": "AC9S8U02",
+      "path": "year8/science/ac9s8u02-analyse-the-relationship-between-structure-and-function-of/index.html",
+      "retainedHtmlSha256": "60ff30c5191a3bebd8c075387e348f90d3ef35de368f356610c3721d6787c9a7"
+    },
+    {
+      "code": "AC9S8U03",
+      "path": "year8/science/ac9s8u03-investigate-tectonic-activity-including-the-formation-of/index.html",
+      "retainedHtmlSha256": "92cce9f224344391b14f911c5b6865b00d4ab9d9f59f2a209be8426c5d494e65"
+    },
+    {
+      "code": "AC9S8I06",
+      "path": "year8/science/ac9s8i06-analyse-methods-conclusions-and-claims-for-assumptions-possible/index.html",
+      "retainedHtmlSha256": "09cdee0ff4714ed05cd2813f563c38720de96226c132cbe74bd845c50a92a026"
+    },
+    {
+      "code": "AC9S8I02",
+      "path": "year8/science/ac9s8i02-plan-and-conduct-reproducible-investigations-to-answer/index.html",
+      "retainedHtmlSha256": "7598db7ffeb1ad97a513116c1ac820d6409828b89a6736ae20dbef42953b74c6"
+    },
+    {
+      "code": "AC9S8U06",
+      "path": "year8/science/ac9s8u06-classify-matter-as-elements-compounds-or-mixtures-and-compare/index.html",
+      "retainedHtmlSha256": "53d93d019a464801fbce4259f5a56508d3b5b054a3aae72e19541b8b8de70b77"
+    },
+    {
+      "code": "AC9S8U04",
+      "path": "year8/science/ac9s8u04-the-key-processes-of-the-rock-cycle-including-the-timescales/index.html",
+      "retainedHtmlSha256": "2b138de80a2aaf029c8b5ed2ec435329bed475dc4ceed8ea2413133629eb66e7"
+    },
+    {
+      "code": "AC9S8U07",
+      "path": "year8/science/ac9s8u07-physical-and-chemical-changes-and-identify-indicators-of-energy/index.html",
+      "retainedHtmlSha256": "fe5399ebe6fc60039bc7b2bf21b2ad4a86eb3c5b8e82b7f7e7e9fe78fcf25c22"
+    },
+    {
+      "code": "AC9S8H04",
+      "path": "year8/science/ac9s8h04-the-role-of-science-communication-in-informing-individual/index.html",
+      "retainedHtmlSha256": "5ad026d48beadc4dc5b53e3db04583927c06627e73faa2219778b1de5e6c2914"
+    },
+    {
+      "code": "AC9E8LY01",
+      "path": "year8/english/ac9e8ly01-how-texts-reflect-contexts/index.html",
+      "retainedHtmlSha256": "2adb040d83c99bbe901c6f7bc96e0a2fc1347e3d4ba68c2340a6383539a46184"
+    },
+    {
+      "code": "AC9E8LY08",
+      "path": "year8/english/ac9e8ly08-apply-learnt-knowledge-to-spell-accurately-and-to-learn-new/index.html",
+      "retainedHtmlSha256": "af7a65348193cf587abd7bee0e2f0e81448327c4116406980ccfabcaded46249"
+    },
+    {
+      "code": "AC9E8LA08",
+      "path": "year8/english/ac9e8la08-and-use-vocabulary-typical-of-academic-texts/index.html",
+      "retainedHtmlSha256": "ff5aecb969a0c0fdb175cd644e73bce20083f55f8c2e2bbe5bb8215e474e28ae"
+    },
+    {
+      "code": "AC9E8LY03",
+      "path": "year8/english/ac9e8ly03-analyse-and-evaluate-the-ways-that-language-features-vary/index.html",
+      "retainedHtmlSha256": "1fc331c2cdcce06ab65b8f5ea2ee176b5eed7b11ecca65c5999cd2eb08dc5c7e"
+    },
+    {
+      "code": "AC9E8LY05",
+      "path": "year8/english/ac9e8ly05-comprehension-strategies-such-as-visualising-predicting/index.html",
+      "retainedHtmlSha256": "6637d70521bbd7295d08e5042ca6026c1a403cb93c8dc6a9b7313a3f8d30c100"
+    },
+    {
+      "code": "AC9E8LE06",
+      "path": "year8/english/ac9e8le06-and-edit-literary-texts-that-experiment-with-language-features/index.html",
+      "retainedHtmlSha256": "08d0e237ecd9e88cf7663dbad23db58c91f3b2912639dfeb2561d703e969c521"
+    },
+    {
+      "code": "AC9E8LA05",
+      "path": "year8/english/ac9e8la05-examine-a-variety-of-clause-structures-including-embedded/index.html",
+      "retainedHtmlSha256": "f48ef9c159b402fae309dd9890cb2bdb2fd332a6bdea90dced1ddc83995f56de"
+    },
+    {
+      "code": "AC9E8LY06",
+      "path": "year8/english/ac9e8ly06-plan-create-edit-and-publish-written-and-multimodal-texts/index.html",
+      "retainedHtmlSha256": "7ac4360a20aa167e7b5d92ce01da0e993b2ab8a6299657e3683c8d374d6fdaf8"
+    },
+    {
+      "code": "AC9E8LE01",
+      "path": "year8/english/ac9e8le01-explain-the-ways-that-ideas-and-points-of-view-may/index.html",
+      "retainedHtmlSha256": "0b9ad49deb29984551a390d81495ed14671d569e8dbf535efa2988157df51acb"
+    },
+    {
+      "code": "AC9E8LE02",
+      "path": "year8/english/ac9e8le02-share-opinions-about-the-language-features-literary-devices-and/index.html",
+      "retainedHtmlSha256": "4741de07f25133aa71883537025afad8b250c7eeee8464903791851c263f536c"
+    },
+    {
+      "code": "AC9E8LY02",
+      "path": "year8/english/ac9e8ly02-interaction-skills-for-identified-purposes-and-situations/index.html",
+      "retainedHtmlSha256": "1ab69365d00fb00d19a57631241b3adae26dd4d02865521f9f441b46413a6ddb"
+    },
+    {
+      "code": "AC9E8LA02",
+      "path": "year8/english/ac9e8la02-how-layers-of-meaning-can-be-created-when-evaluating-by/index.html",
+      "retainedHtmlSha256": "6e2652f9f2ac48177a52ca1a6ce0dd497080489478aeec80e5f95c9c0c7b7c44"
+    },
+    {
+      "code": "AC9E8LE03",
+      "path": "year8/english/ac9e8le03-explain-how-language-and-or-images-in-texts-position-readers-to/index.html",
+      "retainedHtmlSha256": "bacdf7e60bf6b25267740ee0337cbc794fb5505aa206def57d4bd7e71304b423"
+    },
+    {
+      "code": "AC9E8LA03",
+      "path": "year8/english/ac9e8la03-explain-how-texts-are-structured-depending-on-their-purpose-and/index.html",
+      "retainedHtmlSha256": "b6212eee76b98906c68f94d4b0f14d8f0d366c9e8d06a5d8893429099431a8c2"
+    },
+    {
+      "code": "AC9E8LA01",
+      "path": "year8/english/ac9e8la01-how-language-shapes-relationships-and-roles/index.html",
+      "retainedHtmlSha256": "2e400861d7daf1100ccf012ce6cbe8ba36f3308a372f86579a5092b2b99079a5"
+    },
+    {
+      "code": "AC9E8LA04",
+      "path": "year8/english/ac9e8la04-how-cohesion-in-texts-is-improved-by-strengthening-the-internal/index.html",
+      "retainedHtmlSha256": "01288dd666bdf0477aacd026bf9cb3f2fd2366d4f58e273cec62bdbba205e204"
+    },
+    {
+      "code": "AC9E8LE05",
+      "path": "year8/english/ac9e8le05-analyse-how-language-features-such-as-sentence-patterns-create/index.html",
+      "retainedHtmlSha256": "c8d5a44ad2e945cee80068292ec16b71739722d26da51ef1201a91a804360161"
+    },
+    {
+      "code": "AC9E8LY07",
+      "path": "year8/english/ac9e8ly07-plan-create-rehearse-and-deliver-spoken-and-multimodal/index.html",
+      "retainedHtmlSha256": "f48363c8fa01ff708f76ee6bc07d72d4d6cac98db2ea86e42540f424138db8f7"
+    },
+    {
+      "code": "AC9E8LA06",
+      "path": "year8/english/ac9e8la06-the-effect-of-nominalisation-in-texts/index.html",
+      "retainedHtmlSha256": "e84cabf4c14fd8df32ce34df6bf308ddf173d47bf8ffd4c8d60a08cd4e340113"
+    },
+    {
+      "code": "AC9E8LA09",
+      "path": "year8/english/ac9e8la09-and-use-punctuation-conventions-including-semicolons-and-dashes/index.html",
+      "retainedHtmlSha256": "faf906cca8bc8b2652becd17ec02d3ff191fc7b5943f9a235f9f49abf608a4d9"
+    },
+    {
+      "code": "AC9E8LY04",
+      "path": "year8/english/ac9e8ly04-analyse-how-authors-organise-ideas-to-develop-and-shape-meaning/index.html",
+      "retainedHtmlSha256": "28deb6d238c6a30a91af6acb337367d5ccef5abcab3fa8a11e57e3ae45491ee2"
+    },
+    {
+      "code": "AC9E8LE04",
+      "path": "year8/english/ac9e8le04-intertextual-references-in-literary-texts-and-explain-how-the/index.html",
+      "retainedHtmlSha256": "83cab394daf6cdbb20ae2e6e2fc76bff9001fe525f62231ff4d58c9d790c2ecf"
+    },
+    {
+      "code": "AC9E8LA07",
+      "path": "year8/english/ac9e8la07-investigate-how-visual-texts-use-intertextual-references-to/index.html",
+      "retainedHtmlSha256": "a8546779616e3387ae6a20cf84c2a71cdc4676bf9a327682283ba603f2a50675"
+    },
+    {
+      "code": "AC9M9M04",
+      "path": "year9/maths/ac9m9m04-calculate-and-interpret-absolute-relative-and-percentage-errors/index.html",
+      "retainedHtmlSha256": "81df20805f4a3599c8e6e51a36a6b65369e187dda5cab2f92745a0c5c7eba96b"
+    },
+    {
+      "code": "AC9M9A02",
+      "path": "year9/maths/ac9m9a02-simplify-algebraic-expressions-expand-binomial-products-and/index.html",
+      "retainedHtmlSha256": "bd63b83cbfc56a868a6d7a43716388c128f52f6d7d863eec6bc573d4d9b556b6"
+    },
+    {
+      "code": "AC9M9ST01",
+      "path": "year9/maths/ac9m9st01-analyse-reports-of-surveys-in-digital-media-and-elsewhere-for/index.html",
+      "retainedHtmlSha256": "0161d81fd7ec26668c8c6b393d483ad02da6f7e5b9d1b61c5f0dbe53c04ba6f6"
+    },
+    {
+      "code": "AC9M9A03",
+      "path": "year9/maths/ac9m9a03-find-the-gradient-of-a-line-segment-the-midpoint-of/index.html",
+      "retainedHtmlSha256": "726810aa249fc793e016e5d5b2d2a1586ed923d16e09f75e2148ffb13c6b7bd4"
+    },
+    {
+      "code": "AC9M9P03",
+      "path": "year9/maths/ac9m9p03-design-and-conduct-repeated-chance-experiments-and-simulations/index.html",
+      "retainedHtmlSha256": "cc5fff735611963a19e911ab984ffb35b533033ff8b9d5fc15e41e61920c8a0f"
+    },
+    {
+      "code": "AC9M9M03",
+      "path": "year9/maths/ac9m9m03-solve-spatial-problems-applying-angle-properties-scale/index.html",
+      "retainedHtmlSha256": "9063d54f589ea77469ed3f561533caa39207f2bcb72383fe7e25d6632683957e"
+    },
+    {
+      "code": "AC9M9A06",
+      "path": "year9/maths/ac9m9a06-experiment-with-the-effects-of-the-variation-of-parameters-on/index.html",
+      "retainedHtmlSha256": "802038a938a2e620913d33f01ef4e7318b06de74080657a4d793390abf9c074e"
+    },
+    {
+      "code": "AC9M9P01",
+      "path": "year9/maths/ac9m9p01-list-all-outcomes-for-compound-events-both-with-and-without/index.html",
+      "retainedHtmlSha256": "7d8ce844d852e47c35018707e0b51700ca7769fa8ad2191e983e98a3a9319938"
+    },
+    {
+      "code": "AC9M9ST03",
+      "path": "year9/maths/ac9m9st03-represent-the-distribution-of-multiple-data-sets-for-numerical/index.html",
+      "retainedHtmlSha256": "1c2f6efa9012cc30e073215797c8ffc2996817eff01ec295e54257c2329cdc91"
+    },
+    {
+      "code": "AC9M9ST04",
+      "path": "year9/maths/ac9m9st04-choose-appropriate-forms-of-display-or-visualisation-for-a-given/index.html",
+      "retainedHtmlSha256": "49641d7bd5ac11e90b0021c1845367c05a62d4b964dd04617197eb21f9f2724a"
+    },
+    {
+      "code": "AC9M9P02",
+      "path": "year9/maths/ac9m9p02-calculate-relative-frequencies-from-given-or-collected-data-to/index.html",
+      "retainedHtmlSha256": "98b08a3253affb03ed70904925dfbdb61a64dc91f5edee4a536d3de47f3877c1"
+    },
+    {
+      "code": "AC9M9M02",
+      "path": "year9/maths/ac9m9m02-solve-problems-involving-very-small-and-very-large-measurements/index.html",
+      "retainedHtmlSha256": "07226ec8e2852023d179713c4a22f2a62f561fdc45ab798c59247139f4bc9aa5"
+    },
+    {
+      "code": "AC9M9M01",
+      "path": "year9/maths/ac9m9m01-solve-problems-involving-the-volume-and-surface-area-of-right/index.html",
+      "retainedHtmlSha256": "d28921f09de890b726221e163981bd84307c7fbc38ad87e3d08a188ed2d2f514"
+    },
+    {
+      "code": "AC9M9A05",
+      "path": "year9/maths/ac9m9a05-mathematical-modelling-to-solve-applied-problems-involving/index.html",
+      "retainedHtmlSha256": "1b6fc4bb3c2a9fb3c239c93557c95332c9d584144ff612f4e5093dc4cfefe7f1"
+    },
+    {
+      "code": "AC9M9M05",
+      "path": "year9/maths/ac9m9m05-mathematical-modelling-to-solve-practical-problems-involving/index.html",
+      "retainedHtmlSha256": "d55aef4110a5f6d8680a32d4bedc9659f2305725c74efe55e891d4645014b462"
+    },
+    {
+      "code": "AC9M9N01",
+      "path": "year9/maths/ac9m9n01-that-the-real-number-system-includes-the-rational-numbers-and/index.html",
+      "retainedHtmlSha256": "fd20393dc7a8ccbbf44fa2686fa665b7746207c63c1efcdfd5e3fd8a60457088"
+    },
+    {
+      "code": "AC9M9SP01",
+      "path": "year9/maths/ac9m9sp01-the-constancy-of-the-sine-cosine-and-tangent-ratios-for/index.html",
+      "retainedHtmlSha256": "cfaeb848282a55dbd7d7b630093862d5d04ce6520e4437e9cb1ce823773259df"
+    },
+    {
+      "code": "AC9M9ST05",
+      "path": "year9/maths/ac9m9st05-plan-and-conduct-statistical-investigations-involving-the/index.html",
+      "retainedHtmlSha256": "c930d1964da9c41007953e9cbb39e1f44006bdfe513270154140e19b8b5c7abc"
+    },
+    {
+      "code": "AC9M9ST02",
+      "path": "year9/maths/ac9m9st02-analyse-how-different-sampling-methods-can-affect-the-results-of/index.html",
+      "retainedHtmlSha256": "9d81410ea81929bab4af93de10beea13e87fa064d4752f8dcb887ce62764c0d5"
+    },
+    {
+      "code": "AC9M9SP03",
+      "path": "year9/maths/ac9m9sp03-design-test-and-refine-algorithms-involving-a-sequence-of-steps/index.html",
+      "retainedHtmlSha256": "da1d262ecc202a820749686c2c131647153fdc578839859f4fa2a939eed29bea"
+    },
+    {
+      "code": "AC9M9A04",
+      "path": "year9/maths/ac9m9a04-and-graph-quadratic-functions-solve-quadratic-equations/index.html",
+      "retainedHtmlSha256": "a4d0707e9d8f28f8d4721f64740fd7622264c678b79a5deb907396053d4ea4a9"
+    },
+    {
+      "code": "AC9M9A01",
+      "path": "year9/maths/ac9m9a01-apply-the-exponent-laws-to-numerical-expressions-with-integer/index.html",
+      "retainedHtmlSha256": "8b7f4abc953eb3d61f0363d65cdfa05cdd3c01e98d18703b0e53985a69e4255b"
+    },
+    {
+      "code": "AC9M9SP02",
+      "path": "year9/maths/ac9m9sp02-apply-the-enlargement-transformation-to-shapes-and-objects/index.html",
+      "retainedHtmlSha256": "675b6ee16cd61490a36ebb899de4a65b34b725dadd2c405bc3f2e6d031701739"
+    },
+    {
+      "code": "AC9S9H04",
+      "path": "year9/science/ac9s9h04-society-values-scientific-research-priorities/index.html",
+      "retainedHtmlSha256": "f93486f7448e0184d6a52b1498fb6a8a07802c3e5ddf17183fa9643ce09f78ba"
+    },
+    {
+      "code": "AC9S9I05",
+      "path": "year9/science/ac9s9i05-analyse-and-connect-a-variety-of-data-and-information-to/index.html",
+      "retainedHtmlSha256": "852a9558fa06b86ac3c4700d585d5e9d458698d9888b018240b29696ba633a5d"
+    },
+    {
+      "code": "AC9S9I02",
+      "path": "year9/science/ac9s9i02-plan-and-conduct-valid-reproducible-investigations-to-answer/index.html",
+      "retainedHtmlSha256": "6be9050089b4a9dcb7f0bb23e0b5e2c4d0fcf7f57c554dc7f20bb5930af8dd84"
+    },
+    {
+      "code": "AC9S9U01",
+      "path": "year9/science/ac9s9u01-body-systems-homeostasis-coordination/index.html",
+      "retainedHtmlSha256": "da1d6ff2bb56ca46d76a54c446ad3e5856ed504129eb9990ac135c2eba962b87"
+    },
+    {
+      "code": "AC9S9H01",
+      "path": "year9/science/ac9s9h01-scientific-validation-peer-review-evidence/index.html",
+      "retainedHtmlSha256": "f0efca9ebb15265a1971265f274acf80a49a95c4ad7c117e5d187d45a95b500f"
+    },
+    {
+      "code": "AC9S9U04",
+      "path": "year9/science/ac9s9u04-wave-particle-models-energy-transfer/index.html",
+      "retainedHtmlSha256": "338484822dff2921976d840ee1f7bafa24c7f77d24ce9a3a86219d2185e352c4"
+    },
+    {
+      "code": "AC9S9U07",
+      "path": "year9/science/ac9s9u07-atoms-rearrange-chemical-reactions/index.html",
+      "retainedHtmlSha256": "09989304a7a63a87e91b453fbbbdaa22f35378606d22d5b96a921c6a2e19f766"
+    },
+    {
+      "code": "AC9S9U02",
+      "path": "year9/science/ac9s9u02-reproductive-cells-organs-plants-animals/index.html",
+      "retainedHtmlSha256": "c5e6a9738ce885782d51219e0aff6e96f3fe94bd759711a2edf5688f4b4e1bc8"
+    },
+    {
+      "code": "AC9S9H03",
+      "path": "year9/science/ac9s9h03-science-adoption-evidence-trust-values/index.html",
+      "retainedHtmlSha256": "fc26ff33a190fec42105fb2a77177ca39583195a9c27a1e274ef50bb81247679"
+    },
+    {
+      "code": "AC9S9I03",
+      "path": "year9/science/ac9s9i03-select-and-use-equipment-to-generate-and-record-data-with/index.html",
+      "retainedHtmlSha256": "94f36edd567cf8e6bf45e862e2fecf4aad87066e1bf2d5caa77b33642432e294"
+    },
+    {
+      "code": "AC9S9I01",
+      "path": "year9/science/ac9s9i01-investigable-questions-hypotheses-predictions/index.html",
+      "retainedHtmlSha256": "74528b6eb48f1c897e692666d971e897d4b92f095dc349f1e92bd7c2f33e4d49"
+    },
+    {
+      "code": "AC9S9H02",
+      "path": "year9/science/ac9s9h02-technology-enables-scientific-advances/index.html",
+      "retainedHtmlSha256": "afd97262d9156b30afab27ee272fe54ab02d6ff36b18192ed16c81093d09abfb"
+    },
+    {
+      "code": "AC9S9I06",
+      "path": "year9/science/ac9s9i06-assess-the-validity-and-reproducibility-of-methods-and-evaluate/index.html",
+      "retainedHtmlSha256": "976612640388b38e5adc7c05426cfed0cccb6eb39bfef0c99a07228088e2994a"
+    },
+    {
+      "code": "AC9S9U03",
+      "path": "year9/science/ac9s9u03-carbon-cycle-processes-human-impacts/index.html",
+      "retainedHtmlSha256": "c3898b7d53cd75daaa7a370035634d7940efa53a5bcb50f7a8df2cfbe5d16f37"
+    },
+    {
+      "code": "AC9S9U05",
+      "path": "year9/science/ac9s9u05-conservation-energy-systems/index.html",
+      "retainedHtmlSha256": "39ab27ed511d171d9a8aadf6f48cc2b01e4493bbd765fc6da0e4fa65ec7b351b"
+    },
+    {
+      "code": "AC9S9I08",
+      "path": "year9/science/ac9s9i08-and-create-texts-to-communicate-ideas-findings-and-arguments/index.html",
+      "retainedHtmlSha256": "2d2abc1aed8d29f1fcd0b03adb3d32b5f5d2c6e1b7eb07b3c48c7ecf3d80b83b"
+    },
+    {
+      "code": "AC9S9I07",
+      "path": "year9/science/ac9s9i07-construct-arguments-based-on-analysis-of-a-variety-of-evidence/index.html",
+      "retainedHtmlSha256": "9857e5079e4a3af6ffdfdf7134c763d04585c4d92cf8c94a832a654057df3701"
+    },
+    {
+      "code": "AC9S9I04",
+      "path": "year9/science/ac9s9i04-select-and-construct-appropriate-representations-including/index.html",
+      "retainedHtmlSha256": "4edf103b4d9197a16c80855ba69402d68b805943cf914c220de11acc9e7d2be3"
+    },
+    {
+      "code": "AC9S9U06",
+      "path": "year9/science/ac9s9u06-atomic-model-evidence-history/index.html",
+      "retainedHtmlSha256": "d725f629db7b015bea936e694b4c4a2e8408b26cfab0817978ec24867444ef09"
+    },
+    {
+      "code": "AC9E9LA06",
+      "path": "year9/english/ac9e9la06-how-abstract-nouns-and-nominalisation-can-be-used-to-summarise/index.html",
+      "retainedHtmlSha256": "2d20b691e194d10a85929a1b1c187f87f8e5583515f959513ebf79307781af79"
+    },
+    {
+      "code": "AC9E9LA09",
+      "path": "year9/english/ac9e9la09-punctuation-conventions-for-referencing-and-citing-others-for/index.html",
+      "retainedHtmlSha256": "5fd5dc680be23fb5dc6da44184b06578cb88fb9d465b88add0d01cff7b3cf3ef"
+    },
+    {
+      "code": "AC9E9LE05",
+      "path": "year9/english/ac9e9le05-analyse-the-effect-of-text-structures-language-features-and/index.html",
+      "retainedHtmlSha256": "784ccc069b2dbadc7b78e09ea97e557b3182a5cf197dae1ce4fbf391515c8467"
+    },
+    {
+      "code": "AC9E9LE02",
+      "path": "year9/english/ac9e9le02-present-a-personal-response-to-a-literary-text-comparing-initial/index.html",
+      "retainedHtmlSha256": "a43af463b676bef8511646fdbf3cf68e7b26cd0fbd9048ad50bdc8863bc10fd3"
+    },
+    {
+      "code": "AC9E9LY04",
+      "path": "year9/english/ac9e9ly04-analyse-the-organisation-of-ideas-in-paragraphs-and-extended/index.html",
+      "retainedHtmlSha256": "8643ec8870a24aed52a61234c9a683671c16c595af203f2831cecb6a9897fa75"
+    },
+    {
+      "code": "AC9E9LA08",
+      "path": "year9/english/ac9e9la08-analyse-how-vocabulary-choices-contribute-to-style-mood-and-tone/index.html",
+      "retainedHtmlSha256": "70caeb3b0870a32a83fdc0c1f3b226dc5ccb03dabe01493af231bc1472460d5f"
+    },
+    {
+      "code": "AC9E9LA03",
+      "path": "year9/english/ac9e9la03-examine-how-authors-adapt-and-subvert-text-structures-and/index.html",
+      "retainedHtmlSha256": "aa83dd0f8d915e59244c86c1b93c50dbb3680f7bc2e7bd11e9dbefbade68ce0c"
+    },
+    {
+      "code": "AC9E9LY02",
+      "path": "year9/english/ac9e9ly02-listen-to-spoken-texts-that-have-different-purposes-and/index.html",
+      "retainedHtmlSha256": "d01bb43f28bf4656e6f7d24ab6de8e6b4643989bfab4c22d2d9d3bd6df8e4895"
+    },
+    {
+      "code": "AC9E9LE06",
+      "path": "year9/english/ac9e9le06-and-edit-literary-texts-that-may-be-a-hybrid-that/index.html",
+      "retainedHtmlSha256": "1e1e7f1b7ce8b6559faa256eb8a77442724f2829f1051f89e477d32f9d1732a9"
+    },
+    {
+      "code": "AC9E9LY03",
+      "path": "year9/english/ac9e9ly03-analyse-and-evaluate-how-language-features-are-used-to-represent/index.html",
+      "retainedHtmlSha256": "4003b09da0da9cbe895c3e77fc576b02ae552454f5bb0d589d896ab0bca0c9a8"
+    },
+    {
+      "code": "AC9E9LA01",
+      "path": "year9/english/ac9e9la01-how-language-empowers-relationships-and-roles/index.html",
+      "retainedHtmlSha256": "7990d9af9e814f2d2b7e7b3b7be7a5d04293db5bc02228b44332d333c8a91524"
+    },
+    {
+      "code": "AC9E9LE01",
+      "path": "year9/english/ac9e9le01-analyse-the-representations-of-people-and-places-in-literary/index.html",
+      "retainedHtmlSha256": "cce6921e46a20c6bc7b285e07f4eb6ea84e1fa4fe976a04dbc0f83199331745d"
+    },
+    {
+      "code": "AC9E9LE04",
+      "path": "year9/english/ac9e9le04-analyse-texts-and-evaluate-the-aesthetic-qualities-and-appeal-of/index.html",
+      "retainedHtmlSha256": "0835bfa439002050c7d4b08e0fb14d4d228d08ddad6c06c53b58038f15e77db1"
+    },
+    {
+      "code": "AC9E9LE03",
+      "path": "year9/english/ac9e9le03-analyse-how-features-of-literary-texts-influence-readers/index.html",
+      "retainedHtmlSha256": "b5bb136c943e246df71bc43a0a35462d039ecc1849b6508bed8d85387587ddec"
+    },
+    {
+      "code": "AC9E9LY07",
+      "path": "year9/english/ac9e9ly07-plan-create-rehearse-and-deliver-spoken-and-multimodal/index.html",
+      "retainedHtmlSha256": "bd2015b95a79873c60ad592c51b18c26bf9615d32b13b2ff5931770798ea8ae4"
+    },
+    {
+      "code": "AC9E9LY01",
+      "path": "year9/english/ac9e9ly01-analyse-how-representations-of-people-places-events-and/index.html",
+      "retainedHtmlSha256": "1ad311656388ae243a3bd15518b4c6357b88fcf802674cf1a622a23f742f77bc"
+    },
+    {
+      "code": "AC9E9LY05",
+      "path": "year9/english/ac9e9ly05-comprehension-strategies-such-as-visualising-predicting/index.html",
+      "retainedHtmlSha256": "ad7b3d8c9869e82b502d43707c28edf9f34c38af59d3f864db06635186eeffc5"
+    },
+    {
+      "code": "AC9E9LA02",
+      "path": "year9/english/ac9e9la02-how-evaluation-can-be-expressed-directly-and-indirectly-using/index.html",
+      "retainedHtmlSha256": "34471886f411d47e39d45e877c05fe663636ee8968db6c2fa6e0bdf819c8d8b8"
+    },
+    {
+      "code": "AC9E9LY08",
+      "path": "year9/english/ac9e9ly08-how-spelling-is-used-in-texts-for-particular-effects-for/index.html",
+      "retainedHtmlSha256": "bdf5815b2e0ac9c0276dc44025ceb75fda68fdfa657b9d8bbdde087d7751cfaf"
+    },
+    {
+      "code": "AC9E9LA04",
+      "path": "year9/english/ac9e9la04-investigate-a-range-of-cohesive-devices-that-condense/index.html",
+      "retainedHtmlSha256": "fe1b28cd6bf4e2aa3b65ce9995f083156287897c0db3d3acb5d352cb61e4108a"
+    },
+    {
+      "code": "AC9E9LY06",
+      "path": "year9/english/ac9e9ly06-plan-create-edit-and-publish-written-and-multimodal-texts/index.html",
+      "retainedHtmlSha256": "a86cd328627b5568e8ebaddf5c3540cbee38f4232483a8ae1bbdf855da2ed99f"
+    },
+    {
+      "code": "AC9E9LA07",
+      "path": "year9/english/ac9e9la07-analyse-how-symbols-in-still-and-moving-images-augment-meaning/index.html",
+      "retainedHtmlSha256": "03f93aa6bbb2324ecf6181f484a4fb3570ba5df1a398d39c1e6967814fa790e6"
+    },
+    {
+      "code": "AC9E9LA05",
+      "path": "year9/english/ac9e9la05-how-authors-vary-sentence-structures-creatively-for-effects/index.html",
+      "retainedHtmlSha256": "e7be8c7b6a45be06ef88ee0c9520e434e85f672c2b1c0d0eee2f539efac81259"
+    },
+    {
+      "code": "AC9M10SP02",
+      "path": "year10/maths/ac9m10sp02-interpret-networks-and-network-diagrams-used-to-represent/index.html",
+      "retainedHtmlSha256": "7570967ebe5309809af571ecf14de9c3fd2230135032910752c4ddb6532f969b"
+    },
+    {
+      "code": "AC9M10ST05",
+      "path": "year10/maths/ac9m10st05-plan-and-conduct-statistical-investigations-of-situations-that/index.html",
+      "retainedHtmlSha256": "c4ebd2682452bce23683fdf9ac8e89c5e34d58f1c165c484fe845d85a1f67e9d"
+    },
+    {
+      "code": "AC9M10A01",
+      "path": "year10/maths/ac9m10a01-expand-factorise-and-simplify-expressions-and-solve-equations/index.html",
+      "retainedHtmlSha256": "2de2852c54fcf947797868bda9e797475e538da56a74794070f028247219dec0"
+    },
+    {
+      "code": "AC9M10P01",
+      "path": "year10/maths/ac9m10p01-the-language-of-if-then-given-of-knowing-that/index.html",
+      "retainedHtmlSha256": "25878b12a88d9eee7bfe6312cefbe68530bbc9a35ab7609b251c28dac3a8d537"
+    },
+    {
+      "code": "AC9M10P02",
+      "path": "year10/maths/ac9m10p02-design-and-conduct-repeated-chance-experiments-and-simulations/index.html",
+      "retainedHtmlSha256": "f02ec7c61516c966ecccd4546f3e7c479a7d8be33d65b650de219f47486963ca"
+    },
+    {
+      "code": "AC9M10A04",
+      "path": "year10/maths/ac9m10a04-mathematical-modelling-to-solve-applied-problems-involving/index.html",
+      "retainedHtmlSha256": "c20a9599feedc5a0e40abedba4251c6d2eae5f36b568c6d1db47c35d9e30e02a"
+    },
+    {
+      "code": "AC9M10A02",
+      "path": "year10/maths/ac9m10a02-solve-linear-inequalities-and-simultaneous-linear-equations-in/index.html",
+      "retainedHtmlSha256": "1219abce4d7b10e3493b21e1f94aaf1dbba930f7be8655d60551c849a277482c"
+    },
+    {
+      "code": "AC9M10A03",
+      "path": "year10/maths/ac9m10a03-the-connection-between-algebraic-and-graphical-representations/index.html",
+      "retainedHtmlSha256": "e97ec8010dcbd50d47005272640f0a38ede854c9dbccf6bb73d25eb0da5c0cc1"
+    },
+    {
+      "code": "AC9M10M01",
+      "path": "year10/maths/ac9m10m01-solve-problems-involving-the-surface-area-and-volume-of/index.html",
+      "retainedHtmlSha256": "5ac136d0982155661818cf1c023b35d3b25a058f01e7bb4ac99aba4cbd90059a"
+    },
+    {
+      "code": "AC9M10ST03",
+      "path": "year10/maths/ac9m10st03-construct-scatterplots-and-comment-on-the-association-between/index.html",
+      "retainedHtmlSha256": "7e5ba909bf66933719b5b5aaa8f65f6d29cd38f3eedbd78daeb1b05f6091b7c4"
+    },
+    {
+      "code": "AC9M10SP01",
+      "path": "year10/maths/ac9m10sp01-apply-deductive-reasoning-to-proofs-involving-shapes-in-the/index.html",
+      "retainedHtmlSha256": "84d0acef89fe422ef388494228d645005bd5d17f745c7a93d63814c495e07762"
+    },
+    {
+      "code": "AC9M10M02",
+      "path": "year10/maths/ac9m10m02-interpret-and-use-logarithmic-scales-in-applied-contexts/index.html",
+      "retainedHtmlSha256": "f3c8c6f3d7753c636bc10662fff1ff309c12038d1a0a8146e10033c94927ef7d"
+    },
+    {
+      "code": "AC9M10ST04",
+      "path": "year10/maths/ac9m10st04-construct-two-way-tables-and-discuss-possible-relationship/index.html",
+      "retainedHtmlSha256": "404ee5a48479b19eb8dc4ec339ba866b7df3818aa3b2a5a4943decc2fcd48f5e"
+    },
+    {
+      "code": "AC9M10A05",
+      "path": "year10/maths/ac9m10a05-experiment-with-functions-and-relations-using-digital-tools/index.html",
+      "retainedHtmlSha256": "84f904c13569a51463cbd33e769e3052f16e9313727c1ca1f63b5cba6843b3d8"
+    },
+    {
+      "code": "AC9M10ST01",
+      "path": "year10/maths/ac9m10st01-analyse-claims-inferences-and-conclusions-of-statistical/index.html",
+      "retainedHtmlSha256": "3b63295769af29820d0aa2d3fee82531a76036011e71dabe3a9597f57572dabb"
+    },
+    {
+      "code": "AC9M10M04",
+      "path": "year10/maths/ac9m10m04-the-impact-of-measurement-errors-on-the-accuracy-of-results/index.html",
+      "retainedHtmlSha256": "cfbbf01e90287c43ae575513dae939e1f58cb8550127750a7f83357a77517964"
+    },
+    {
+      "code": "AC9M10SP03",
+      "path": "year10/maths/ac9m10sp03-design-test-and-refine-solutions-to-spatial-problems-using/index.html",
+      "retainedHtmlSha256": "c2171ff2bbe9ef2705b1c5efd46372ebc0ea0e8515bb059aa49c5b674fe3f87d"
+    },
+    {
+      "code": "AC9M10N01",
+      "path": "year10/maths/ac9m10n01-the-effect-of-using-approximations-of-real-numbers-in-repeated/index.html",
+      "retainedHtmlSha256": "1ce8aec5bb249f896cd22559dee3ac49cf8a407115802a69af45bc3e730c21bf"
+    },
+    {
+      "code": "AC9M10M03",
+      "path": "year10/maths/ac9m10m03-solve-practical-problems-applying-pythagoras-theorem-and/index.html",
+      "retainedHtmlSha256": "174aa2cf8b2791114aee5ac8cca1f643f800575e09b5b0437f3a0e193a782a77"
+    },
+    {
+      "code": "AC9M10ST02",
+      "path": "year10/maths/ac9m10st02-data-distributions-for-continuous-numerical-variables-using/index.html",
+      "retainedHtmlSha256": "c2e5d7835221403efd8de7cd07f19b1c788c7d78fc9029a31aca20a3a9376a37"
+    },
+    {
+      "code": "AC9M10M05",
+      "path": "year10/maths/ac9m10m05-mathematical-modelling-to-solve-practical-problems-involving/index.html",
+      "retainedHtmlSha256": "2827b990a26b75be424fcd6599a5275225b03a07bf255232ed8619f64b5f7a7c"
+    },
+    {
+      "code": "AC9S10U02",
+      "path": "year10/science/ac9s10u02-evolution-natural-selection-evidence/index.html",
+      "retainedHtmlSha256": "571d4cb66994b67be3e68c83b8988d9e503e29a4efe238c9e16070640bc0e800"
+    },
+    {
+      "code": "AC9S10I02",
+      "path": "year10/science/ac9s10i02-valid-reproducible-investigations/index.html",
+      "retainedHtmlSha256": "ba1e80e63e0693b6743e345938ee69edb4493ff5b1277eca19a4f17a72de6485"
+    },
+    {
+      "code": "AC9S10I01",
+      "path": "year10/science/ac9s10i01-investigable-questions-hypotheses-predictions/index.html",
+      "retainedHtmlSha256": "790067af45b95c279978bbbeb7e398e5bd5612edde388a7fdc8912c7f9649940"
+    },
+    {
+      "code": "AC9S10H01",
+      "path": "year10/science/ac9s10h01-scientific-validation-peer-review-evidence/index.html",
+      "retainedHtmlSha256": "f7ac8cbf4f1ca93ccaeda62389a1fc8273c335da9d15ff086e5e42513aa9d84e"
+    },
+    {
+      "code": "AC9S10H03",
+      "path": "year10/science/ac9s10h03-science-adoption-evidence-trust-values/index.html",
+      "retainedHtmlSha256": "bb1f3197bec795db5b47e4290f29a22e0eafaaef4e215050ea5218a9b6d6dd66"
+    },
+    {
+      "code": "AC9S10U06",
+      "path": "year10/science/ac9s10u06-atomic-structure-periodic-table-patterns/index.html",
+      "retainedHtmlSha256": "ba908b0e9d3a350a05ce9c1367f1e50006570e36337961f3eccec7727a1a41fc"
+    },
+    {
+      "code": "AC9S10U07",
+      "path": "year10/science/ac9s10u07-chemical-reaction-patterns-reaction-rates/index.html",
+      "retainedHtmlSha256": "4d1cdda322aff287d36cf9dd29136f3a990f89216efb79212f0e36b0884d3c6a"
+    },
+    {
+      "code": "AC9S10I07",
+      "path": "year10/science/ac9s10i07-evidence-based-scientific-arguments/index.html",
+      "retainedHtmlSha256": "b64c90d78b29ab1a9f16498c6b7f020311f7f02a5523326510fa49e9218db94c"
+    },
+    {
+      "code": "AC9S10U04",
+      "path": "year10/science/ac9s10u04-earth-energy-balance-global-climate-change/index.html",
+      "retainedHtmlSha256": "8a691a0a02982cfa627ff9e1ee43973e95d692bbc8f0235af82367e02df72b56"
+    },
+    {
+      "code": "AC9S10H04",
+      "path": "year10/science/ac9s10h04-society-values-scientific-research-priorities/index.html",
+      "retainedHtmlSha256": "c84be575e6a61abf10e930d596cc0be09aa133178c476bdf6beee40886706dac"
+    },
+    {
+      "code": "AC9S10I04",
+      "path": "year10/science/ac9s10i04-data-representations-models-statistics/index.html",
+      "retainedHtmlSha256": "2973987573a548f57d138169e5169a02cb304e78bd255236ea7e41b3ca5ad078"
+    },
+    {
+      "code": "AC9S10U01",
+      "path": "year10/science/ac9s10u01-genetics-meiosis-mitosis-heredity/index.html",
+      "retainedHtmlSha256": "1079e7df2ba622a27e90768e2423d1ced382e94d900c88095625f0e3f8aca7c6"
+    },
+    {
+      "code": "AC9S10U05",
+      "path": "year10/science/ac9s10u05-newtons-laws-force-mass-acceleration/index.html",
+      "retainedHtmlSha256": "33c9648670136bc70f379199f6041d8343742d41386a0f8088bad7ac34798574"
+    },
+    {
+      "code": "AC9S10I05",
+      "path": "year10/science/ac9s10i05-analyse-patterns-relationships-evidence/index.html",
+      "retainedHtmlSha256": "0db37c9f2d15bde8cbd913db2e56f64fbad916fec187aaba10601759374ec866"
+    },
+    {
+      "code": "AC9S10I08",
+      "path": "year10/science/ac9s10i08-scientific-communication-audience-purpose/index.html",
+      "retainedHtmlSha256": "9ff979a333fbf739e4dcf15e566b5b04c9be509e11b95005b5e58d5cee174a5a"
+    },
+    {
+      "code": "AC9S10I03",
+      "path": "year10/science/ac9s10i03-precise-replicable-data/index.html",
+      "retainedHtmlSha256": "9140c9d8f46c9ca25512bd702445800b8086ca808af7e38736a627088c90f54e"
+    },
+    {
+      "code": "AC9S10U03",
+      "path": "year10/science/ac9s10u03-big-bang-evidence-expanding-universe/index.html",
+      "retainedHtmlSha256": "048caafe5e963fc594f081fb21ead5cce7ecee08bdb0d0eca0bc90ba83228f3b"
+    },
+    {
+      "code": "AC9S10H02",
+      "path": "year10/science/ac9s10h02-science-technology-engineering-advances/index.html",
+      "retainedHtmlSha256": "5ca2e20afff3ce81429ae665a16de17b74478f2d41cd0efddd4653de693f0795"
+    },
+    {
+      "code": "AC9S10I06",
+      "path": "year10/science/ac9s10i06-validity-reproducibility-evidence-quality/index.html",
+      "retainedHtmlSha256": "a8b4e50eff0c71302edd870d332179a013ebeb6e34715c646f8e5b5a6ef5aba7"
+    },
+    {
+      "code": "AC9E10LA01",
+      "path": "year10/english/ac9e10la01-how-language-can-have-inclusive-and-exclusive-social-effects-and/index.html",
+      "retainedHtmlSha256": "0b7a0a4c3aacb9c715f1f8269744b3e63118e04e55ce8e1b987ba5fb39b20b8c"
+    },
+    {
+      "code": "AC9E10LE04",
+      "path": "year10/english/ac9e10le04-evaluate-the-social-moral-or-ethical-positions-represented-in/index.html",
+      "retainedHtmlSha256": "9efeac6e9a8291fa39f899a672c94d7cd9f1e47788d49da99fd5514300eb9d5d"
+    },
+    {
+      "code": "AC9E10LY02",
+      "path": "year10/english/ac9e10ly02-listen-to-spoken-texts-and-explain-the-purposes-and-effects/index.html",
+      "retainedHtmlSha256": "c19995fbf8d28934fc0e14f030df8a70e0407756b36757e649dafd43e501fe1b"
+    },
+    {
+      "code": "AC9E10LE05",
+      "path": "year10/english/ac9e10le05-analyse-how-text-structure-language-features-literary-devices/index.html",
+      "retainedHtmlSha256": "5860d9d21bfe3bf3087bb43466252b61a9f5b4b58d25db0024f55d8c8cd2a517"
+    },
+    {
+      "code": "AC9E10LA07",
+      "path": "year10/english/ac9e10la07-evaluate-the-features-of-still-and-moving-images-and-the/index.html",
+      "retainedHtmlSha256": "8cd04efb6fae889f4434d862da6e6de60a9a84cd8d7b7487094e47a51f7a7631"
+    },
+    {
+      "code": "AC9E10LE01",
+      "path": "year10/english/ac9e10le01-analyse-representations-of-individuals-groups-and-places-and/index.html",
+      "retainedHtmlSha256": "18a4cc5dddc221e9b26a5136e3d29b88dc5a441e76f6d5e322c7fb2aa096e6e4"
+    },
+    {
+      "code": "AC9E10LA08",
+      "path": "year10/english/ac9e10la08-an-expanded-technical-and-academic-vocabulary-for-precision/index.html",
+      "retainedHtmlSha256": "2396fabf628c0edb02db44ed1a0aae6f96e471e50b7ef8f2daf746ecfeca4f4a"
+    },
+    {
+      "code": "AC9E10LY01",
+      "path": "year10/english/ac9e10ly01-analyse-and-evaluate-how-people-places-events-and-concepts-are/index.html",
+      "retainedHtmlSha256": "f68440385d4bfbf3fe3ac3c5c66a3e6f1f46983cc03734ea65ee3dcab46084a5"
+    },
+    {
+      "code": "AC9E10LY07",
+      "path": "year10/english/ac9e10ly07-plan-create-rehearse-and-deliver-spoken-and-multimodal/index.html",
+      "retainedHtmlSha256": "050b17373eefc6bbede5a7044795ff16af7447a2bf03285bd05869869a3a39ac"
+    },
+    {
+      "code": "AC9E10LE07",
+      "path": "year10/english/ac9e10le07-analyse-and-evaluate-the-aesthetic-qualities-of-texts/index.html",
+      "retainedHtmlSha256": "84ae5aae206464cd60733d843c6b9729ba54574c2d9d6bad5d5c80656c5d351e"
+    },
+    {
+      "code": "AC9E10LA05",
+      "path": "year10/english/ac9e10la05-analyse-and-evaluate-the-effectiveness-of-particular-sentence/index.html",
+      "retainedHtmlSha256": "8744be71474b1129fa30942d80fa41cb48ac001e82d810d9d9f94c04a94128ed"
+    },
+    {
+      "code": "AC9E10LY03",
+      "path": "year10/english/ac9e10ly03-analyse-and-evaluate-how-language-features-are-used-to/index.html",
+      "retainedHtmlSha256": "c121f60b47c7afa6507119103108408d4edfdbb92467f56b7cde395dbf83d64b"
+    },
+    {
+      "code": "AC9E10LA02",
+      "path": "year10/english/ac9e10la02-that-language-used-to-evaluate-implicitly-or-explicitly-reveals/index.html",
+      "retainedHtmlSha256": "f975bb1c0e45e770c15ced1e613c82fc2613b668d359165d9444551f70a5833c"
+    },
+    {
+      "code": "AC9E10LE06",
+      "path": "year10/english/ac9e10le06-and-evaluate-how-voice-as-a-literary-device-is-used/index.html",
+      "retainedHtmlSha256": "2b36141d1aa04edd449c796e5f102a74d448b1e97224637a1fb61757bfbb5add"
+    },
+    {
+      "code": "AC9E10LA09",
+      "path": "year10/english/ac9e10la09-how-authors-use-and-experiment-with-punctuation/index.html",
+      "retainedHtmlSha256": "74827a2d0c98f1e37bbfdf0401f092d4ece1d2513c494e8dd4747768c06a4891"
+    },
+    {
+      "code": "AC9E10LA03",
+      "path": "year10/english/ac9e10la03-analyse-text-structures-and-language-features-and-evaluate/index.html",
+      "retainedHtmlSha256": "ea272e6e4dfedddc5bdc168e4d4f411f76208765de986a2931a9c097245acfd1"
+    },
+    {
+      "code": "AC9E10LY04",
+      "path": "year10/english/ac9e10ly04-analyse-and-evaluate-how-authors-organise-ideas-in-texts-to/index.html",
+      "retainedHtmlSha256": "2d1cabc294eb47b3d3aca8a7a2eccaddc847ca55e43eabe049a0a64dbc206e5c"
+    },
+    {
+      "code": "AC9E10LY08",
+      "path": "year10/english/ac9e10ly08-knowledge-of-the-spelling-system-to-spell-words-and-to/index.html",
+      "retainedHtmlSha256": "41acf924075a6f15e20a2732ca150803142abcac1cba757c24d700f0d6c9de59"
+    },
+    {
+      "code": "AC9E10LY05",
+      "path": "year10/english/ac9e10ly05-integrate-comprehension-strategies-such-as-visualising/index.html",
+      "retainedHtmlSha256": "7ffca93a2e7b51497a17930f524e77ba4e7ebc9eee1e02fd8c8f23243df6240e"
+    },
+    {
+      "code": "AC9E10LE08",
+      "path": "year10/english/ac9e10le08-and-edit-literary-texts-with-a-sustained-voice-selecting-and/index.html",
+      "retainedHtmlSha256": "8e55406f986ffdb9edb9f070c915bfffdfd6670652fc1875e3a50cd9b7c6388a"
+    },
+    {
+      "code": "AC9E10LE03",
+      "path": "year10/english/ac9e10le03-analyse-how-the-aesthetic-qualities-associated-with-text/index.html",
+      "retainedHtmlSha256": "99d8cf3e60ff37349f3f267ca588145d85da0b4cabcea3505f60d851fce1cd98"
+    },
+    {
+      "code": "AC9E10LA04",
+      "path": "year10/english/ac9e10la04-how-paragraph-structure-can-be-varied-to-create-cohesion-and/index.html",
+      "retainedHtmlSha256": "1f4612d16739f08e32c123d29496e8fe6642871cc78a8893aebf5b0d4198005e"
+    },
+    {
+      "code": "AC9E10LE02",
+      "path": "year10/english/ac9e10le02-reflect-on-and-extend-others-interpretations-of-and-responses-to/index.html",
+      "retainedHtmlSha256": "513ee28f402a61df8a99f390555783d13bfdc846b3608072faea3a499173f699"
+    },
+    {
+      "code": "AC9E10LY06",
+      "path": "year10/english/ac9e10ly06-plan-create-edit-and-publish-written-and-multimodal-texts/index.html",
+      "retainedHtmlSha256": "9675b9f73132145db46bb6aad68af9ebfc55ea66dce263fdd889d8193374f4e9"
+    },
+    {
+      "code": "AC9E10LA06",
+      "path": "year10/english/ac9e10la06-analyse-how-meaning-and-style-are-achieved-through-syntax/index.html",
+      "retainedHtmlSha256": "039e8948e6bb55aef51b248cefe024bcb1276375ddf37271c0faf3fc6e78c01b"
+    }
+  ],
+  "externalChecks": {
+    "searchConsole": "Connection present, but reads blocked by Windsor plan: 5 connected properties, 1 allowed",
+    "pagespeedInsights": "Public API returned HTTP 429; independent Lighthouse lab checks run in CI",
+    "appCurl": "Default Python client blocked by Cloudflare browser signature check, error 1010; this does not establish Googlebot blocking"
+  }
+}
