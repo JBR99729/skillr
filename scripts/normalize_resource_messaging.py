@@ -70,6 +70,12 @@ def wording(value):
     }
     if html.unescape(value).strip() in PRODUCT_COPY | sample_copy:
         return value
+    # A sample is a separate, observed TpT resource, not a free complete pack.
+    sample_labels = []
+    def preserve_sample(m):
+        sample_labels.append(m[0])
+        return f'TPT_SAMPLE_LABEL_{len(sample_labels)-1}'
+    value = re.sub(r'(?i)\bfree sample worksheets?\b', preserve_sample, value)
     value = value.replace('free topic guides, worksheets, practice and tests', 'topic guides and online practice, with paid worksheets sold separately')
     value = value.replace('Free topic guides, worksheets, practice and tests', 'Topic guides and online practice, with paid worksheets sold separately')
     value = value.replace('free public Australian Curriculum topic guides, selected worksheets and available practice', 'public Australian Curriculum topic guides, paid worksheets and available online practice')
@@ -150,6 +156,8 @@ def wording(value):
     value = re.sub(r'Are these (.*?) (?:worksheets|homework sheets) free\?', r'Are the \1 worksheets paid?', value)
     value = re.sub(r'Yes\. These (.*?) resources are free to access without a learner login\. Optional premium books are separate and do not block access to the core online resources\.', r'Yes. \1 printable worksheet packs are paid resources. Check the listing for its preview, contents and current price. Online practice is available separately.', value)
     value = value.replace('Yes. SkillrHub provides topic guides and online practice; printable packs are sold separately for this learning area.', 'Printable worksheet packs are paid resources. Topic guides and online practice are available separately. Check each listing for its preview, contents and current price.')
+    for i, label in enumerate(sample_labels):
+        value = value.replace(f'TPT_SAMPLE_LABEL_{i}', label)
     return value
 
 

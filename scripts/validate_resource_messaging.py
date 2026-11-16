@@ -10,6 +10,7 @@ from html.parser import HTMLParser
 from pathlib import Path
 
 import normalize_resource_messaging as policy
+from apply_free_sample_topic_seo import targets as free_sample_targets
 
 ROOT = policy.ROOT
 
@@ -78,6 +79,8 @@ def main():
     names = subprocess.check_output(['git', 'diff', args.base, '--diff-filter=M', '--name-only', '--', '*.html'], cwd=ROOT, text=True).splitlines()
     # A repeat generation may have no HTML changes; the catalogue, discovery
     # and normalizer checks still validate that already-current state.
+    verified_samples = {u['url'].strip('/') + '/index.html': {p['tptUrl'] for p in rows}
+                        for u, rows in free_sample_targets().values()}
     for name, before in original_sources(args.base, names):
         after = (ROOT / name).read_text()
         old, new = Page(before), Page(after)
@@ -106,7 +109,7 @@ def main():
             if href and href.startswith('https://www.teacherspayteachers.com/Product/'):
                 assert href in {p['tptUrl'] for p in policy.CATALOGUE}, ('Unverified product link', name, href)
                 code = policy.CODE.search(name)
-                if code:
+                if code and href not in verified_samples.get(name, set()):
                     assert any(p['tptUrl'] == href and code[0].upper() in p.get('curriculumCodes', []) and p.get('hasPrintables') and not p.get('free') for p in policy.CATALOGUE), ('External worksheet belongs to another code', name, href)
                 continue
             if href and href.startswith('/product.html?id='):
