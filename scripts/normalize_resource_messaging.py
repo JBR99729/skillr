@@ -61,7 +61,14 @@ def practice_url(code):
 
 def wording(value):
     """Only resource-promise copy; never run against URLs or question banks."""
-    if html.unescape(value).strip() in PRODUCT_COPY:
+    sample_copy = {
+        'Free TpT Samples & Paid Worksheets | SkillrHub',
+        'Free TpT samples',
+        'Try a free TpT sample',
+        'SkillrHub free TpT samples and paid worksheet packs',
+        'Try selected free SkillrHub worksheets on Teachers Pay Teachers, read matching topic explanations, or browse complete paid Australian Curriculum worksheet packs.',
+    }
+    if html.unescape(value).strip() in PRODUCT_COPY | sample_copy:
         return value
     value = value.replace('free topic guides, worksheets, practice and tests', 'topic guides and online practice, with paid worksheets sold separately')
     value = value.replace('Free topic guides, worksheets, practice and tests', 'Topic guides and online practice, with paid worksheets sold separately')
@@ -169,6 +176,8 @@ def transform(source, name):
     def protect(m):
         protected.append(m[0]); return f'<!-- RESOURCE-CATALOGUE-COPY-{len(protected)-1} -->'
     # These are real store listings, not generic claims about website access.
+    # The owned sample block is built only from observed zero-price TpT listings.
+    source = re.sub(r'<!-- free-tpt-samples:start -->[\s\S]*?<!-- free-tpt-samples:end -->', protect, source)
     source = re.sub(r'<article\b[^>]*class=["\'][^"\']*\bproduct-card\b[^"\']*["\'][^>]*>[\s\S]*?</article>', protect, source, flags=re.I)
     source = re.sub(r'<a\b[^>]*href=["\']https://www\.teacherspayteachers\.com/[^"\']+["\'][^>]*>[\s\S]*?</a>', protect, source, flags=re.I)
     pieces = []; pos = 0
@@ -213,6 +222,8 @@ def transform(source, name):
             target = pack_url(topic_code[0].upper())
             start = m[1][:a.start(3)] + html.escape(target, quote=True) + m[1][a.end(3):]
             return start + 'View paid worksheets' + m[3]
+        if u.path == '/worksheets/' and u.fragment == 'free-tpt-samples':
+            return m[0]
         if u.path == '/worksheets/' and re.search(r'free|worksheet|homework', m[2], re.I):
             return m[1] + 'Paid worksheets' + m[3]
         return m[0]
