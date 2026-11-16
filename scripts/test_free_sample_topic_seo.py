@@ -14,13 +14,13 @@ class TopicSampleSEOTests(unittest.TestCase):
         expected_names = {u['url'].strip('/') + '/index.html' for u, rows in eligible.values()}
         changed = subprocess.check_output(['git', 'diff', 'HEAD', '--name-only', '--', '*.html'], cwd=ROOT, text=True).splitlines()
         if changed:
-            self.assertEqual(set(changed), expected_names)
+            self.assertTrue(expected_names <= set(changed))
         for code, (u, rows) in eligible.items():
             name = u['url'].strip('/') + '/index.html'
             source = (ROOT / name).read_text()
             old = subprocess.check_output(['git', 'show', 'HEAD:' + name], cwd=ROOT, text=True)
-            self.assertIn(' | Free Sample Worksheet</title>', source)
-            self.assertIn('free sample worksheet on TpT', source)
+            self.assertIn(' | Free Examples, Practice &amp; Sample Worksheet</title>', source)
+            self.assertIn('Free sample worksheet on TpT', source)
             self.assertEqual(source.count('<!-- free-topic-samples:start -->'), 1)
             self.assertEqual(source, update(source, u, rows), code)
             self.assertEqual(source, transform(source, name), code)

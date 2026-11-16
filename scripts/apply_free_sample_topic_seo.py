@@ -6,6 +6,7 @@ import re
 import sys
 from collections import defaultdict
 from build_free_tpt_samples import ROOT, resources
+from update_topic_learning_seo import copy_for
 
 MARKER = r'<!-- free-topic-samples:start -->[\s\S]*?<!-- free-topic-samples:end -->'
 
@@ -25,10 +26,7 @@ def targets():
 
 def update(source, unit, rows):
     old_title = html.unescape(re.search(r'<title>(.*?)</title>', source, re.S)[1])
-    core = re.split(r'\s+\|\s+', old_title)[0]
-    title = core + ' | Free Sample Worksheet'
-    topic = html.unescape(re.search(r'<h1[^>]*>(.*?)</h1>', source, re.S)[1])
-    description = f"{unit['levelLabel']} {topic} ({unit['code']}): free sample worksheet on TpT, topic explanations and online practice. Complete paid packs are optional."
+    title, description = copy_for(source, unit, sample=True)
     source = re.sub(r'<title>.*?</title>', '<title>' + html.escape(title) + '</title>', source, count=1, flags=re.S)
     def meta(m):
         tag = m[0]

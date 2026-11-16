@@ -75,7 +75,7 @@ def wording(value):
     def preserve_sample(m):
         sample_labels.append(m[0])
         return f'TPT_SAMPLE_LABEL_{len(sample_labels)-1}'
-    value = re.sub(r'(?i)\bfree sample worksheets?\b', preserve_sample, value)
+    value = re.sub(r'(?i)\b(?:free sample worksheets?|free examples, practice (?:&amp;|&) sample worksheet|free examples (?:&amp;|&) practice)\b', preserve_sample, value)
     value = value.replace('free topic guides, worksheets, practice and tests', 'topic guides and online practice, with paid worksheets sold separately')
     value = value.replace('Free topic guides, worksheets, practice and tests', 'Topic guides and online practice, with paid worksheets sold separately')
     value = value.replace('free public Australian Curriculum topic guides, selected worksheets and available practice', 'public Australian Curriculum topic guides, paid worksheets and available online practice')
