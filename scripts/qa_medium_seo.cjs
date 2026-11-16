@@ -17,7 +17,11 @@ const server = spawn('python3', ['-m', 'http.server', '8770', '--bind', '127.0.0
       for (const route of routes) {
         const response = await page.goto('http://127.0.0.1:8770' + route, {waitUntil: 'domcontentloaded'});
         if (response.status() !== 200) throw Error('HTTP failure ' + route);
-        if (await page.evaluate(() => document.documentElement.scrollWidth > innerWidth)) throw Error('Overflow ' + width + route);
+        if (await page.evaluate(() => document.documentElement.scrollWidth > innerWidth)) {
+          await page.screenshot({path: path.join(output, 'overflow-' + width + route.replaceAll('/', '-') + '.png'), fullPage: true});
+          console.log(await page.evaluate(() => [...document.querySelectorAll('body *')].map(e => ({tag:e.tagName, class:e.className, width:e.getBoundingClientRect().width, right:e.getBoundingClientRect().right})).filter(e => e.right > innerWidth + 1)));
+          throw Error('Overflow ' + width + route);
+        }
         if (route.includes('/maths/')) {
           await page.locator('.resource-review summary').click();
           if (!(await page.locator('.resource-review').innerText()).includes('question-bank review recorded')) throw Error('Review record missing');
