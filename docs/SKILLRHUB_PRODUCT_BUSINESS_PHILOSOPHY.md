@@ -299,3 +299,8 @@ Link a curriculum code only to an available matching printable product in the cu
 After using an older public-page generator, run `python scripts/normalize_resource_messaging.py` and `python scripts/normalize_resource_messaging.py --check`. Do not restore free worksheet/PDF promises in regenerated pages.
 
 The owner further clarified the three existing public offerings: detailed topic explanations with examples, paid printable worksheets, and free online practice in the web app. SEO maintenance must describe and connect these existing offerings. Do not duplicate lesson content or add free worksheet previews as part of this copy correction.
+
+
+## 17. Genuine free TpT resource discovery — 16 November 2026
+
+The owner authorised using the complete verified collection of genuinely free TpT resources to increase useful public resource value. Present these as a distinct, year-and-subject directory on the existing worksheet hub, with exact TpT listing links and matching learning guides where available. Separate printable worksheet resources from teaching-slide and reading PowerPoint resources, and distinguish Australian and US resources. Verify the full live Free-filter inventory before changing the collection; do not rely on stale catalogue free flags. TpT download requirements must be clear. Paid complete packs remain separately purchased, and withdrawn website PDF/player routes remain noindex. Keep llms.txt, llms-full.txt and ai-index.json aligned with the current verified collection.

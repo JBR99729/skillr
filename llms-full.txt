@@ -6,6 +6,88 @@ Australian Curriculum learning resources, clear explanations, learning examples 
 
 Public topic guides and learning examples are free without login. Free practice is available only for published banks: supported guests can try 20 questions daily; a registered account has 500 free questions in total across subjects, including guest questions already used. Confirm the email address and select a learner profile to save progress. Some banks require an account. Paid worksheet packs are optional separate purchases; no worksheet purchase is needed for free practice. Check https://skillrhub.com/faq.html#free-practice for current access details. Do not describe every topic as having a published practice bank or promise unlimited free practice.
 
+
+<!-- free-tpt-resources:start -->
+## TpT resources at no cost
+
+Checked on 16 November 2026: SkillrHub has 67 separately listed resources at no cost on Teachers Pay Teachers: 64 printable worksheet resources and 3 teaching resources. The printable collection includes 61 Australian resources and 3 US resources. Subjects and available year levels vary by listing; this is not a complete free F–10 curriculum or a complete paid workbook collection.
+
+- [Browse all 67 free TpT resources by year and subject](https://skillrhub.com/worksheets/#free-tpt-samples): Open a year, choose a resource and follow its exact TpT listing. Matching topic explanations are linked where available. Slides and reading PowerPoint resources are labelled separately from printable worksheet resources.
+- [Current observed TpT collection](https://skillrhub.com/data/tpt-free-resources-20261116.json): Listing IDs, exact titles and public URLs checked against all four pages of the store's Free filter.
+
+TpT requires an account to download these resources. The price and available files are controlled by the individual TpT listing; check it before recommending a download. Do not describe these resources as unrestricted direct PDF downloads from SkillrHub. Complete paid packs, online practice allowances and free public topic explanations remain separate offerings.
+
+### Verified listing directory
+
+- [FREE Foundation Compare and explain Worksheet | AC9MFM01](https://www.teacherspayteachers.com/Product/FREE-Foundation-Compare-and-explain-Worksheet-AC9MFM01-18139667): Foundation; Maths; printable worksheet resource.
+- [FREE Foundation Numbers to 20 Worksheet | AC9MFN01](https://www.teacherspayteachers.com/Product/FREE-Foundation-Numbers-to-20-Worksheet-AC9MFN01-18139615): Foundation; Maths; printable worksheet resource.
+- [FREE Foundation Parts make a whole Worksheet | AC9MFN04](https://www.teacherspayteachers.com/Product/FREE-Foundation-Parts-make-a-whole-Worksheet-AC9MFN04-18139641): Foundation; Maths; printable worksheet resource.
+- [FREE Foundation Patterns that repeat Worksheet | AC9MFA01](https://www.teacherspayteachers.com/Product/FREE-Foundation-Patterns-that-repeat-Worksheet-AC9MFA01-18139656): Foundation; Maths; printable worksheet resource.
+- [FREE Foundation Shapes all around Worksheet | AC9MFSP01](https://www.teacherspayteachers.com/Product/FREE-Foundation-Shapes-all-around-Worksheet-AC9MFSP01-18139668): Foundation; Maths; printable worksheet resource.
+- [FREE Foundation Share and make groups Worksheet | AC9MFN06](https://www.teacherspayteachers.com/Product/FREE-Foundation-Share-and-make-groups-Worksheet-AC9MFN06-18139654): Foundation; Maths; printable worksheet resource.
+- [Year 1 Speaking & Listening Slides | Turn Taking | AC9E1LY02](https://www.teacherspayteachers.com/Product/Year-1-Speaking-Listening-Slides-Turn-Taking-AC9E1LY02-17745962): Year 1; English; teaching resource; check file format.
+- [FREE Year 1 Add and subtract to 20 Worksheet | AC9M1N04](https://www.teacherspayteachers.com/Product/FREE-Year-1-Add-and-subtract-to-20-Worksheet-AC9M1N04-18139712): Year 1; Maths; printable worksheet resource.
+- [FREE Year 1 Addition & Subtraction to 20 Worksheets | One-Day Sample](https://www.teacherspayteachers.com/Product/FREE-Year-1-Addition-Subtraction-to-20-Worksheets-One-Day-Sample-17881860): Year 1; Maths; printable worksheet resource.
+- [FREE Year 1 Measure with equal units Worksheet | AC9M1M02](https://www.teacherspayteachers.com/Product/FREE-Year-1-Measure-with-equal-units-Worksheet-AC9M1M02-18139754): Year 1; Maths; printable worksheet resource.
+- [FREE Year 1 Numbers to 120 Worksheet | AC9M1N01](https://www.teacherspayteachers.com/Product/FREE-Year-1-Numbers-to-120-Worksheet-AC9M1N01-18139698): Year 1; Maths; printable worksheet resource.
+- [FREE Year 1 Numbers to 120 Worksheets | One-Day Sample](https://www.teacherspayteachers.com/Product/FREE-Year-1-Numbers-to-120-Worksheets-One-Day-Sample-17881847): Year 1; Maths; printable worksheet resource.
+- [FREE Year 1 Repeating Patterns Worksheets | One-Day Sample](https://www.teacherspayteachers.com/Product/FREE-Year-1-Repeating-Patterns-Worksheets-One-Day-Sample-17881887): Year 1; Maths; printable worksheet resource.
+- [FREE Year 1 Shapes and objects Worksheet | AC9M1SP01](https://www.teacherspayteachers.com/Product/FREE-Year-1-Shapes-and-objects-Worksheet-AC9M1SP01-18139764): Year 1; Maths; printable worksheet resource.
+- [FREE Year 1 Skip-counting patterns Worksheet | AC9M1A01](https://www.teacherspayteachers.com/Product/FREE-Year-1-Skip-counting-patterns-Worksheet-AC9M1A01-18139753): Year 1; Maths; printable worksheet resource.
+- [FREE Year 1 Split and build numbers Worksheet | AC9M1N02](https://www.teacherspayteachers.com/Product/FREE-Year-1-Split-and-build-numbers-Worksheet-AC9M1N02-18139709): Year 1; Maths; printable worksheet resource.
+- [FREE Year 1 Living Things Unit | Biological Science | Australian Curriculum v9](https://www.teacherspayteachers.com/Product/FREE-Year-1-Living-Things-Unit-Biological-Science-Australian-Curriculum-v9-17204521): Year 1; Science; printable worksheet resource.
+- [FREE Year 1 Plant & Animal Needs Worksheets | AC9S1U01 | VIC VC2S2U02](https://www.teacherspayteachers.com/Product/FREE-Year-1-Plant-Animal-Needs-Worksheets-AC9S1U01-VIC-VC2S2U02-17881935): Year 1; Science; printable worksheet resource.
+- [FREE Year 1 Pushes & Pulls Worksheets | AC9S1U03 | VIC VC2S2U11](https://www.teacherspayteachers.com/Product/FREE-Year-1-Pushes-Pulls-Worksheets-AC9S1U03-VIC-VC2S2U11-17881902): Year 1; Science; printable worksheet resource.
+- [FREE Year 1 Science Observations Worksheets | AC9S1I03 | VIC VC2S2I03](https://www.teacherspayteachers.com/Product/FREE-Year-1-Science-Observations-Worksheets-AC9S1I03-VIC-VC2S2I03-17881918): Year 1; Science; printable worksheet resource.
+- [FREE Year 2 Doubling, halving and twos Worksheet | AC9M2A03](https://www.teacherspayteachers.com/Product/FREE-Year-2-Doubling-halving-and-twos-Worksheet-AC9M2A03-18139792): Year 2; Maths; printable worksheet resource.
+- [FREE Year 2 Equal sharing and grouping Worksheet | AC9M2N05](https://www.teacherspayteachers.com/Product/FREE-Year-2-Equal-sharing-and-grouping-Worksheet-AC9M2N05-18139783): Year 2; Maths; printable worksheet resource.
+- [FREE Year 2 Explore flat shapes Worksheet | AC9M2SP01](https://www.teacherspayteachers.com/Product/FREE-Year-2-Explore-flat-shapes-Worksheet-AC9M2SP01-18139801): Year 2; Maths; printable worksheet resource.
+- [FREE Year 2 Halves, quarters and eighths Worksheet | AC9M2N03](https://www.teacherspayteachers.com/Product/FREE-Year-2-Halves-quarters-and-eighths-Worksheet-AC9M2N03-18139782): Year 2; Maths; printable worksheet resource.
+- [FREE Year 2 Measure with equal units Worksheet | AC9M2M01](https://www.teacherspayteachers.com/Product/FREE-Year-2-Measure-with-equal-units-Worksheet-AC9M2M01-18139794): Year 2; Maths; printable worksheet resource.
+- [FREE Year 2 Numbers to 1 000 Worksheet | AC9M2N01](https://www.teacherspayteachers.com/Product/FREE-Year-2-Numbers-to-1-000-Worksheet-AC9M2N01-18139767): Year 2; Maths; printable worksheet resource.
+- [FREE Year 2 Place Value Lesson & Worksheets | Numbers to 1,000 | AC9M2N01](https://www.teacherspayteachers.com/Product/FREE-Year-2-Place-Value-Lesson-Worksheets-Numbers-to-1000-AC9M2N01-17273749): Year 2; Maths; printable worksheet resource.
+- [FREE Year 3 Add and subtract Worksheet | AC9M3N03](https://www.teacherspayteachers.com/Product/FREE-Year-3-Add-and-subtract-Worksheet-AC9M3N03-18139814): Year 3; Maths; printable worksheet resource.
+- [FREE Year 3 Choose units and estimate Worksheet | AC9M3M01](https://www.teacherspayteachers.com/Product/FREE-Year-3-Choose-units-and-estimate-Worksheet-AC9M3M01-18139831): Year 3; Maths; printable worksheet resource.
+- [FREE Year 3 Estimate and check Worksheet | AC9M3N05](https://www.teacherspayteachers.com/Product/FREE-Year-3-Estimate-and-check-Worksheet-AC9M3N05-18139821): Year 3; Maths; printable worksheet resource.
+- [FREE Year 3 Inverse operations Worksheet | AC9M3A01](https://www.teacherspayteachers.com/Product/FREE-Year-3-Inverse-operations-Worksheet-AC9M3A01-18139824): Year 3; Maths; printable worksheet resource.
+- [FREE Year 3 Large numbers Worksheet | AC9M3N01](https://www.teacherspayteachers.com/Product/FREE-Year-3-Large-numbers-Worksheet-AC9M3N01-18139805): Year 3; Maths; printable worksheet resource.
+- [FREE Year 3 Multiply and divide Worksheet | AC9M3N04](https://www.teacherspayteachers.com/Product/FREE-Year-3-Multiply-and-divide-Worksheet-AC9M3N04-18139815): Year 3; Maths; printable worksheet resource.
+- [FREE Year 3 Telling Time Worksheets | Analogue Clocks | AC9M3M04](https://www.teacherspayteachers.com/Product/FREE-Year-3-Telling-Time-Worksheets-Analogue-Clocks-AC9M3M04-17492537): Year 3; Maths; printable worksheet resource.
+- [FREE Year 3 Time Duration Worksheets | Hours, Minutes & Seconds | AC9M3M03](https://www.teacherspayteachers.com/Product/FREE-Year-3-Time-Duration-Worksheets-Hours-Minutes-Seconds-AC9M3M03-17592010): Year 3; Maths; printable worksheet resource.
+- [FREE Year 3 Time Teaching Slides Sample | Analogue Clocks & Duration](https://www.teacherspayteachers.com/Product/FREE-Year-3-Time-Teaching-Slides-Sample-Analogue-Clocks-Duration-17593083): Year 3; Maths; teaching resource; check file format.
+- [FREE Year 4 Efficient calculations Worksheet | AC9M4N06](https://www.teacherspayteachers.com/Product/FREE-Year-4-Efficient-calculations-Worksheet-AC9M4N06-18139859): Year 4; Maths; printable worksheet resource.
+- [FREE Year 4 Equivalent fractions Worksheet | AC9M4N03](https://www.teacherspayteachers.com/Product/FREE-Year-4-Equivalent-fractions-Worksheet-AC9M4N03-18139846): Year 4; Maths; printable worksheet resource.
+- [FREE Year 4 Find missing values Worksheet | AC9M4A01](https://www.teacherspayteachers.com/Product/FREE-Year-4-Find-missing-values-Worksheet-AC9M4A01-18139860): Year 4; Maths; printable worksheet resource.
+- [FREE Year 4 Fractions Worksheets | Equivalent Fractions & Number Lines](https://www.teacherspayteachers.com/Product/FREE-Year-4-Fractions-Worksheets-Equivalent-Fractions-Number-Lines-17526065): Year 4; Maths; printable worksheet resource.
+- [FREE Year 4 Odd and even patterns Worksheet | AC9M4N02](https://www.teacherspayteachers.com/Product/FREE-Year-4-Odd-and-even-patterns-Worksheet-AC9M4N02-18139845): Year 4; Maths; printable worksheet resource.
+- [FREE Year 4 Read measuring scales Worksheet | AC9M4M01](https://www.teacherspayteachers.com/Product/FREE-Year-4-Read-measuring-scales-Worksheet-AC9M4M01-18139865): Year 4; Maths; printable worksheet resource.
+- [FREE Year 4 Tenths and hundredths Worksheet | AC9M4N01](https://www.teacherspayteachers.com/Product/FREE-Year-4-Tenths-and-hundredths-Worksheet-AC9M4N01-18139832): Year 4; Maths; printable worksheet resource.
+- [FREE Year 5 Reading Comprehension | Australian Curriculum v9 Starter Pack](https://www.teacherspayteachers.com/Product/FREE-Year-5-Reading-Comprehension-Australian-Curriculum-v9-Starter-Pack-17728088): Year 5; English; teaching resource; check file format.
+- [FREE Year 5 Add and subtract fractions Worksheet | AC9M5N05](https://www.teacherspayteachers.com/Product/FREE-Year-5-Add-and-subtract-fractions-Worksheet-AC9M5N05-18139890): Year 5; Maths; printable worksheet resource.
+- [FREE Year 5 Compare fractions Worksheet | AC9M5N03](https://www.teacherspayteachers.com/Product/FREE-Year-5-Compare-fractions-Worksheet-AC9M5N03-18139875): Year 5; Maths; printable worksheet resource.
+- [FREE Year 5 Decimal place value Worksheet | AC9M5N01](https://www.teacherspayteachers.com/Product/FREE-Year-5-Decimal-place-value-Worksheet-AC9M5N01-18139867): Year 5; Maths; printable worksheet resource.
+- [FREE Year 5 Decimals Worksheets | AC9M5N01 | VIC VC2M5N01](https://www.teacherspayteachers.com/Product/FREE-Year-5-Decimals-Worksheets-AC9M5N01-VIC-VC2M5N01-17567833): Year 5; Maths; printable worksheet resource.
+- [FREE Year 5 Estimate and check Worksheet | AC9M5N08](https://www.teacherspayteachers.com/Product/FREE-Year-5-Estimate-and-check-Worksheet-AC9M5N08-18139891): Year 5; Maths; printable worksheet resource.
+- [FREE Year 5 Factors and multiples Worksheet | AC9M5N02](https://www.teacherspayteachers.com/Product/FREE-Year-5-Factors-and-multiples-Worksheet-AC9M5N02-18139873): Year 5; Maths; printable worksheet resource.
+- [FREE Year 5 Multiplication and division connections Worksheet | AC9M5A01](https://www.teacherspayteachers.com/Product/FREE-Year-5-Multiplication-and-division-connections-Worksheet-AC9M5A01-18139896): Year 5; Maths; printable worksheet resource.
+- [FREE Year 6 Add and subtract decimals Worksheet | AC9M6N04](https://www.teacherspayteachers.com/Product/FREE-Year-6-Add-and-subtract-decimals-Worksheet-AC9M6N04-18139912): Year 6; Maths; printable worksheet resource.
+- [FREE Year 6 Add and subtract fractions Worksheet | AC9M6N05](https://www.teacherspayteachers.com/Product/FREE-Year-6-Add-and-subtract-fractions-Worksheet-AC9M6N05-18139914): Year 6; Maths; printable worksheet resource.
+- [FREE Year 6 Compare and order fractions Worksheet | AC9M6N03](https://www.teacherspayteachers.com/Product/FREE-Year-6-Compare-and-order-fractions-Worksheet-AC9M6N03-18139904): Year 6; Maths; printable worksheet resource.
+- [FREE Year 6 Fractions, Decimals & Percentages Worksheet | AC9M6N03](https://www.teacherspayteachers.com/Product/FREE-Year-6-Fractions-Decimals-Percentages-Worksheet-AC9M6N03-17670322): Year 6; Maths; printable worksheet resource.
+- [FREE Year 6 Integers and coordinates Worksheet | AC9M6N01](https://www.teacherspayteachers.com/Product/FREE-Year-6-Integers-and-coordinates-Worksheet-AC9M6N01-18139897): Year 6; Maths; printable worksheet resource.
+- [FREE Year 6 Multiply and divide decimals Worksheet | AC9M6N06](https://www.teacherspayteachers.com/Product/FREE-Year-6-Multiply-and-divide-decimals-Worksheet-AC9M6N06-18139919): Year 6; Maths; printable worksheet resource.
+- [FREE Year 6 Number properties Worksheet | AC9M6N02](https://www.teacherspayteachers.com/Product/FREE-Year-6-Number-properties-Worksheet-AC9M6N02-18139903): Year 6; Maths; printable worksheet resource.
+- [FREE Year 7 Equivalent rational numbers Worksheet | AC9M7N04](https://www.teacherspayteachers.com/Product/FREE-Year-7-Equivalent-rational-numbers-Worksheet-AC9M7N04-18139933): Year 7; Maths; printable worksheet resource.
+- [FREE Year 7 Powers of ten Worksheet | AC9M7N03](https://www.teacherspayteachers.com/Product/FREE-Year-7-Powers-of-ten-Worksheet-AC9M7N03-18139930): Year 7; Maths; printable worksheet resource.
+- [FREE Year 7 Prime factors and powers Worksheet | AC9M7N02](https://www.teacherspayteachers.com/Product/FREE-Year-7-Prime-factors-and-powers-Worksheet-AC9M7N02-18139928): Year 7; Maths; printable worksheet resource.
+- [FREE Year 7 Round, estimate and check Worksheet | AC9M7N05](https://www.teacherspayteachers.com/Product/FREE-Year-7-Round-estimate-and-check-Worksheet-AC9M7N05-18139934): Year 7; Maths; printable worksheet resource.
+- [FREE Year 7 Squares and square roots Worksheet | AC9M7N01](https://www.teacherspayteachers.com/Product/FREE-Year-7-Squares-and-square-roots-Worksheet-AC9M7N01-18139921): Year 7; Maths; printable worksheet resource.
+- [FREE Year 7 Variables and formulas Worksheet | AC9M7A01](https://www.teacherspayteachers.com/Product/FREE-Year-7-Variables-and-formulas-Worksheet-AC9M7A01-18139939): Year 7; Maths; printable worksheet resource.
+- [FREE Kindergarten Numbers to 20 Worksheet | Counting & Number Recognition](https://www.teacherspayteachers.com/Product/FREE-Kindergarten-Numbers-to-20-Worksheet-Counting-Number-Recognition-17620145): Kindergarten; Math; printable worksheet resource.
+- [FREE 1st Grade Addition & Subtraction to 20 Worksheet | No Prep Math](https://www.teacherspayteachers.com/Product/FREE-1st-Grade-Addition-Subtraction-to-20-Worksheet-No-Prep-Math-17620155): Grade 1; Math; printable worksheet resource.
+- [FREE 2nd Grade Place Value Worksheet | Numbers to 1,000 + Answer Key](https://www.teacherspayteachers.com/Product/FREE-2nd-Grade-Place-Value-Worksheet-Numbers-to-1000-Answer-Key-17620166): Grade 2; Math; printable worksheet resource.
+<!-- free-tpt-resources:end -->
+
 ## Affordable, easy-to-follow curriculum-based learning
 
 SkillrHub is an affordable education-app alternative for families seeking curriculum-based learning, clear topic explanations and self-paced practice. It is built primarily around Australian Curriculum V9.0 Maths, English and Science, organised by year, subject and curriculum code. Public Foundation–Year 10 topic guides are free without login; interactive practice and assessments are available only for published banks.

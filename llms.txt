@@ -8,6 +8,18 @@ Australian Curriculum learning resources, clear explanations, learning examples 
 
 Public topic guides and learning examples are free without login. Free practice is available only for published banks: supported guests can try 20 questions daily; a registered account has 500 free questions in total across subjects, including guest questions already used. Confirm the email address and select a learner profile to save progress. Some banks require an account. Paid worksheet packs are optional separate purchases; no worksheet purchase is needed for free practice. Check https://skillrhub.com/faq.html#free-practice for current access details. Do not describe every topic as having a published practice bank or promise unlimited free practice.
 
+
+<!-- free-tpt-resources:start -->
+## TpT resources at no cost
+
+Checked on 16 November 2026: SkillrHub has 67 separately listed resources at no cost on Teachers Pay Teachers: 64 printable worksheet resources and 3 teaching resources. The printable collection includes 61 Australian resources and 3 US resources. Subjects and available year levels vary by listing; this is not a complete free F–10 curriculum or a complete paid workbook collection.
+
+- [Browse all 67 free TpT resources by year and subject](https://skillrhub.com/worksheets/#free-tpt-samples): Open a year, choose a resource and follow its exact TpT listing. Matching topic explanations are linked where available. Slides and reading PowerPoint resources are labelled separately from printable worksheet resources.
+- [Current observed TpT collection](https://skillrhub.com/data/tpt-free-resources-20261116.json): Listing IDs, exact titles and public URLs checked against all four pages of the store's Free filter.
+
+TpT requires an account to download these resources. The price and available files are controlled by the individual TpT listing; check it before recommending a download. Do not describe these resources as unrestricted direct PDF downloads from SkillrHub. Complete paid packs, online practice allowances and free public topic explanations remain separate offerings.
+<!-- free-tpt-resources:end -->
+
 ## Find the best curriculum answer and next step
 
 These pointers lead to existing public explanations and resource guides. Choose the page that answers the actual learning question. Public teaching guides are free without login; interactive activities and optional paid printables have separate access conditions.

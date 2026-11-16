@@ -66,7 +66,7 @@ def wording(value):
         'Free TpT samples',
         'Try a free TpT sample',
         'SkillrHub free TpT samples and paid worksheet packs',
-        'Try selected free SkillrHub worksheets on Teachers Pay Teachers, read matching topic explanations, or browse complete paid Australian Curriculum worksheet packs.',
+        'Browse 67 free SkillrHub resources on Teachers Pay Teachers: printable worksheets, teaching slides and matching topic guides. Complete paid worksheet packs are optional.',
     }
     if html.unescape(value).strip() in PRODUCT_COPY | sample_copy:
         return value
