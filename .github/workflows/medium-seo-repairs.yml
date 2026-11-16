@@ -1,0 +1,71 @@
+name: Medium SEO repairs
+on:
+  push:
+    branches: [fix/medium-priority-seo-20261116]
+    paths:
+      - scripts/repair_medium_seo.py
+      - scripts/test_medium_seo.py
+      - scripts/qa_medium_seo.cjs
+      - .github/workflows/medium-seo-repairs.yml
+      - index.html
+      - homeschooling-australia/index.html
+      - assets/css/homeschool-family.css
+permissions:
+  contents: write
+concurrency:
+  group: medium-seo-repairs
+  cancel-in-progress: false
+jobs:
+  apply-and-verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: fix/medium-priority-seo-20261116
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Apply code-specific review records without rebuilding lessons
+        run: |
+          python scripts/repair_medium_seo.py
+          python scripts/repair_medium_seo.py --check
+          python scripts/test_medium_seo.py
+          python scripts/normalize_resource_messaging.py --check
+          python scripts/validate_discovery_navigation.py
+          python scripts/validate_google_sitemap_submission.py
+          node scripts/audit_google_entity_graph.mjs
+          git diff --check
+      - run: npm ci
+      - run: npx playwright install --with-deps chromium
+      - name: Verify native pages on phone and desktop
+        run: node scripts/qa_medium_seo.cjs
+      - name: Collect mobile Lighthouse lab measurements
+        continue-on-error: true
+        run: |
+          npm install --prefix /tmp/skillr-lighthouse --no-package-lock --no-save lighthouse
+          export CHROME_PATH="$(node -e "console.log(require('playwright').chromium.executablePath())")"
+          /tmp/skillr-lighthouse/node_modules/.bin/lighthouse https://skillrhub.com/ --chrome-flags="--headless --no-sandbox" --only-categories=performance,seo --output=json --output-path=artifacts/medium-seo/home-mobile.json --quiet
+          /tmp/skillr-lighthouse/node_modules/.bin/lighthouse https://skillrhub.com/homeschooling-australia/ --chrome-flags="--headless --no-sandbox" --only-categories=performance,seo --output=json --output-path=artifacts/medium-seo/homeschool-mobile.json --quiet
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: medium-seo-review-and-performance
+          path: artifacts/medium-seo/
+      - name: Save the complete checked website tree
+        run: |
+          set -euo pipefail
+          base=$(git rev-parse HEAD)
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- '*.html' data/resource-review-records.json
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'Show truthful per-code review attribution on all 676 topic guides'
+          node scripts/check_release_integrity.mjs "$base" HEAD
+          git fetch origin fix/medium-priority-seo-20261116
+          test "$(git rev-parse FETCH_HEAD)" = "$base"
+          git push origin HEAD:fix/medium-priority-seo-20261116

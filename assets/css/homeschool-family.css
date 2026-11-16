@@ -153,3 +153,5 @@
 @media print {
   .hs-hero--visual, .hs-start-cards, .hs-worksheets, .hs-dashboard, .hs-parent-voice, .hs-more, .hs-note, .site-header, footer { display: none !important; }
 }
+/* Planner explanation and accessible example: no learner data. */
+.hs-planner-steps{padding-left:1.3rem}.hs-planner-steps li{margin:0 0 12px}.hs-planner-example{max-width:100%;overflow-wrap:anywhere}.hs-planner-table{overflow-x:auto;max-width:100%;margin:20px 0}.hs-planner-table table{border-collapse:collapse;width:100%;font-size:.95rem}.hs-planner-table th,.hs-planner-table td{padding:12px;text-align:left;vertical-align:top;border-bottom:1px solid #dce5ef}.hs-planner-table th{background:#f3f7fb}.hs-planner-example details{padding:12px 0;border-bottom:1px solid #dce5ef}.hs-planner-example summary{cursor:pointer;font-weight:700}.hs-planner-example .hs-primary{display:inline-block;min-height:44px}@media(max-width:600px){.hs-planner-table th,.hs-planner-table td{padding:8px;font-size:.85rem}.hs-planner-example h2{overflow-wrap:anywhere}}
