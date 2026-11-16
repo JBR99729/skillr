@@ -105,7 +105,9 @@
     "all676Descriptions": "unique and match production bank availability",
     "browser": "JavaScript-disabled phone and desktop checks passed for home, homeschool and reference topic",
     "workflow": "https://github.com/JBR99729/skillr/actions/runs/43784540109",
-    "result": "success"
+    "result": "success",
+    "finalWorkflow": "https://github.com/JBR99729/skillr/actions/runs/43785077677",
+    "maximumDescriptionLength": 250
   },
   "limits": "Published practice banks only; current free allowance and account requirements remain. This wording does not guarantee indexing, rankings or AI recommendations."
 }
