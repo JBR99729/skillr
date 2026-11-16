@@ -13,6 +13,23 @@ ROOT = Path(__file__).resolve().parents[1]
 REVIEWED_TITLES = {
     'AC9E4LA10': 'Year 4 Framing, Placement & Salience | Free Examples | AC9E4LA10',
     'AC9E6LA06': 'Year 6 Verbs & Adverb Groups | Free Examples & Practice | AC9E6LA06',
+    'AC9M1N03': 'Year 1 Skip Counting in Twos | Free Sample & Practice | AC9M1N03',
+    'AC9M1N06': 'Year 1 Equal Sharing & Grouping | Free Sample & Practice | AC9M1N06',
+    'AC9M1SP02': 'Year 1 Position & Direction | Free Sample & Practice | AC9M1SP02',
+    'AC9M2N02': 'Year 2 Partitioning & Place Value | Free Sample & Practice | AC9M2N02',
+    'AC9M2SP02': 'Year 2 Maps & Plans | Free Sample & Practice | AC9M2SP02',
+    'AC9M5A01': 'Year 5 Fact Families | Practice & Worksheets | AC9M5A01',
+    'AC9M5N07': 'Year 5 Division & Remainders | Practice & Worksheets | AC9M5N07',
+}
+
+REVIEWED_DESCRIPTIONS = {
+    'AC9M1N03': 'Learn Year 1 counting in twos with explanations, worked examples and online practice. Free sample worksheets on TpT; complete paid packs are optional.',
+    'AC9M1N06': 'Learn Year 1 equal sharing and grouping with explanations, worked examples and online practice. Free sample worksheets on TpT; complete paid packs are optional.',
+    'AC9M1SP02': 'Learn Year 1 position and direction with explanations, worked examples and online practice. Free sample worksheets on TpT; complete paid packs are optional.',
+    'AC9M2N02': 'Learn Year 2 partitioning and place value with explanations, worked examples and online practice. Free sample worksheets on TpT; complete paid packs are optional.',
+    'AC9M2SP02': 'Learn Year 2 maps and plans with explanations, worked examples and online practice. Free sample worksheets on TpT; complete paid packs are optional.',
+    'AC9M5A01': 'Learn Year 5 multiplication and division fact families with worked examples and online practice. Explore optional paid worksheets and a free TpT sample.',
+    'AC9M5N07': 'Learn Year 5 division and remainders with worked examples and online practice. Explore optional paid worksheets, teaching slides and a bundle.',
 }
 
 
@@ -26,7 +43,7 @@ def copy_for(source, unit, sample=False):
     subject = {'maths': 'Maths', 'english': 'English', 'science': 'Science'}[unit['subjectSlug']]
     description = f"Free examples and practice for {year} {subject}: {topic} ({unit['code']})."
     description += ' Free sample worksheet on TpT; account needed to download. Complete paid packs are optional.' if sample else ' Read the topic guide, try learning activities and explore available online practice. Paid worksheet packs are optional.'
-    return title, description
+    return title, REVIEWED_DESCRIPTIONS.get(unit['code'], description)
 
 
 def metadata(source, unit, sample=False):

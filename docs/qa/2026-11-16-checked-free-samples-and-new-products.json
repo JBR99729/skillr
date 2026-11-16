@@ -1,0 +1,51 @@
+{
+  "newListingIds": [
+    "18368851",
+    "18368872",
+    "18368906",
+    "18368917",
+    "18368929",
+    "18367881",
+    "18367947",
+    "18368437"
+  ],
+  "freeCollectionCount": 72,
+  "topicChecks": [
+    {
+      "code": "AC9M1N03",
+      "freeListingId": "18368851",
+      "existingHeadingsSummariesCanonicalRobotsPreserved": true
+    },
+    {
+      "code": "AC9M1N06",
+      "freeListingId": "18368872",
+      "existingHeadingsSummariesCanonicalRobotsPreserved": true
+    },
+    {
+      "code": "AC9M1SP02",
+      "freeListingId": "18368906",
+      "existingHeadingsSummariesCanonicalRobotsPreserved": true
+    },
+    {
+      "code": "AC9M2N02",
+      "freeListingId": "18368917",
+      "existingHeadingsSummariesCanonicalRobotsPreserved": true
+    },
+    {
+      "code": "AC9M2SP02",
+      "freeListingId": "18368929",
+      "existingHeadingsSummariesCanonicalRobotsPreserved": true
+    }
+  ],
+  "paidTopicCodes": [
+    "AC9M5A01",
+    "AC9M5N07"
+  ],
+  "basicTeacherQA": {
+    "status": "PASS",
+    "scope": "Five sample PDFs; all 54 questions and all 55 rendered pages checked by separate AI reviewer before upload. No full paid-pack or human classroom approval claimed."
+  },
+  "publicationStatus": "Prepared; deployment must be verified separately.",
+  "verifiedFreeTopicPages": 60,
+  "softwareChecks": "PASS: exact free mappings; unrelated catalogue records, original visuals, lesson summaries, canonical and robots preserved; eight product pages/schema; sitemap XML; synchroniser consistency."
+}

@@ -920,13 +920,71 @@
   ],
   "free_tpt_resources": {
     "verified_at": "2026-11-16",
-    "total_resources": 67,
-    "printable_worksheet_resources": 64,
+    "total_resources": 72,
+    "printable_worksheet_resources": 69,
     "teaching_resources": 3,
-    "australian_printable_resources": 61,
+    "australian_printable_resources": 66,
     "us_printable_resources": 3,
     "collection_url": "https://skillrhub.com/worksheets/#free-tpt-samples",
     "observed_listing_manifest": "https://skillrhub.com/data/tpt-free-resources-20261116.json",
     "access": "Separately listed resources at no cost on Teachers Pay Teachers. TpT account required to download; verify current listing availability. Complete paid packs and online practice access are separate."
-  }
+  },
+  "new_tpt_products_20261116": [
+    {
+      "name": "FREE Year 1 Skip Counting in Twos Worksheets | AC9M1N03",
+      "url": "https://www.teacherspayteachers.com/Product/FREE-Year-1-Skip-Counting-in-Twos-Worksheets-AC9M1N03-18368851",
+      "curriculum_code": "AC9M1N03",
+      "free": true,
+      "resource_type": "worksheet"
+    },
+    {
+      "name": "FREE Year 1 Equal Sharing and Grouping Worksheets | AC9M1N06",
+      "url": "https://www.teacherspayteachers.com/Product/FREE-Year-1-Equal-Sharing-and-Grouping-Worksheets-AC9M1N06-18368872",
+      "curriculum_code": "AC9M1N06",
+      "free": true,
+      "resource_type": "worksheet"
+    },
+    {
+      "name": "FREE Year 1 Position and Direction Worksheets | AC9M1SP02",
+      "url": "https://www.teacherspayteachers.com/Product/FREE-Year-1-Position-and-Direction-Worksheets-AC9M1SP02-18368906",
+      "curriculum_code": "AC9M1SP02",
+      "free": true,
+      "resource_type": "worksheet"
+    },
+    {
+      "name": "FREE Year 2 Partitioning and Place Value Worksheets | AC9M2N02",
+      "url": "https://www.teacherspayteachers.com/Product/FREE-Year-2-Partitioning-and-Place-Value-Worksheets-AC9M2N02-18368917",
+      "curriculum_code": "AC9M2N02",
+      "free": true,
+      "resource_type": "worksheet"
+    },
+    {
+      "name": "FREE Year 2 Maps and Plans Worksheets | AC9M2SP02",
+      "url": "https://www.teacherspayteachers.com/Product/FREE-Year-2-Maps-and-Plans-Worksheets-AC9M2SP02-18368929",
+      "curriculum_code": "AC9M2SP02",
+      "free": true,
+      "resource_type": "worksheet"
+    },
+    {
+      "name": "Year 5 Division & Remainders Teaching Slides | AC9M5N07 | 126 Slides",
+      "url": "https://www.teacherspayteachers.com/Product/Year-5-Division-Remainders-Teaching-Slides-AC9M5N07-126-Slides-18367881",
+      "curriculum_code": "AC9M5N07",
+      "free": false,
+      "resource_type": "teaching-slides"
+    },
+    {
+      "name": "Year 5 Division & Remainders Bundle | Slides & Worksheets | AC9M5N07",
+      "url": "https://www.teacherspayteachers.com/Product/Year-5-Division-Remainders-Bundle-Slides-Worksheets-AC9M5N07-18367947",
+      "curriculum_code": "AC9M5N07",
+      "free": false,
+      "resource_type": "bundle"
+    },
+    {
+      "name": "Year 5 Multiplication & Division Fact Families Worksheets | AC9M5A01",
+      "url": "https://www.teacherspayteachers.com/Product/Year-5-Multiplication-Division-Fact-Families-Worksheets-AC9M5A01-18368437",
+      "curriculum_code": "AC9M5A01",
+      "free": false,
+      "resource_type": "worksheet"
+    }
+  ]
 }

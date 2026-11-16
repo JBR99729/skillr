@@ -12,10 +12,10 @@ Public topic guides and learning examples are free without login. Free practice 
 <!-- free-tpt-resources:start -->
 ## TpT resources at no cost
 
-Checked on 16 November 2026: SkillrHub has 67 separately listed resources at no cost on Teachers Pay Teachers: 64 printable worksheet resources and 3 teaching resources. The printable collection includes 61 Australian resources and 3 US resources. Subjects and available year levels vary by listing; this is not a complete free F–10 curriculum or a complete paid workbook collection.
+Checked on 16 November 2026: SkillrHub has 72 separately listed resources at no cost on Teachers Pay Teachers: 69 printable worksheet resources and 3 teaching resources. The printable collection includes 66 Australian resources and 3 US resources. Subjects and available year levels vary by listing; this is not a complete free F–10 curriculum or a complete paid workbook collection.
 
-- [Browse all 67 free TpT resources by year and subject](https://skillrhub.com/worksheets/#free-tpt-samples): Open a year, choose a resource and follow its exact TpT listing. Matching topic explanations are linked where available. Slides and reading PowerPoint resources are labelled separately from printable worksheet resources.
-- [Current observed TpT collection](https://skillrhub.com/data/tpt-free-resources-20261116.json): Listing IDs, exact titles and public URLs checked against all four pages of the store's Free filter.
+- [Browse all 72 free TpT resources by year and subject](https://skillrhub.com/worksheets/#free-tpt-samples): Open a year, choose a resource and follow its exact TpT listing. Matching topic explanations are linked where available. Slides and reading PowerPoint resources are labelled separately from printable worksheet resources.
+- [Current observed TpT collection](https://skillrhub.com/data/tpt-free-resources-20261116.json): Listing IDs, exact titles and public URLs from the complete Free-filter review plus five newly published, individually verified samples.
 
 TpT requires an account to download these resources. The price and available files are controlled by the individual TpT listing; check it before recommending a download. Do not describe these resources as unrestricted direct PDF downloads from SkillrHub. Complete paid packs, online practice allowances and free public topic explanations remain separate offerings.
 <!-- free-tpt-resources:end -->
@@ -208,3 +208,10 @@ A workbook is one publication; a bundle groups existing packs and can overlap pr
 - [AI site map](https://skillrhub.com/ai-site-map.md): Curriculum hubs, URL patterns and discovery files.
 
 
+
+<!-- new-paid-products-20261116:start -->
+## New matching paid learning resources
+- [Year 5 Division & Remainders Teaching Slides | AC9M5N07 | 126 Slides](https://www.teacherspayteachers.com/Product/Year-5-Division-Remainders-Teaching-Slides-AC9M5N07-126-Slides-18367881): 126 Year 5 division and remainders teaching slides for AC9M5N07, with a matching 126-page PDF, worked models, guided tries and explained checks. The companion worksheet pack is sold separately.
+- [Year 5 Division & Remainders Bundle | Slides & Worksheets | AC9M5N07](https://www.teacherspayteachers.com/Product/Year-5-Division-Remainders-Bundle-Slides-Worksheets-AC9M5N07-18367947): Year 5 division and remainders slides and worksheets bundle for AC9M5N07. Includes the 126-slide teaching resource and matching worksheet pack. US$16; save 20% against the US$20 separate total. Check included products to avoid duplicate purchases.
+- [Year 5 Multiplication & Division Fact Families Worksheets | AC9M5A01](https://www.teacherspayteachers.com/Product/Year-5-Multiplication-Division-Fact-Families-Worksheets-AC9M5A01-18368437): 92-page Year 5 multiplication and division fact families worksheet pack for AC9M5A01, with 90 practice questions, four investigations, a separate 15-question assessment and answer keys.
+<!-- new-paid-products-20261116:end -->

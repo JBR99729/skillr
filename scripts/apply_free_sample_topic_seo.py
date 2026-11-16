@@ -39,6 +39,9 @@ def update(source, unit, rows):
     # Keep authored heading, teaching sections and all existing actions intact.
     links = ' · '.join('<a href="' + html.escape(p['tptUrl'], quote=True) + '" target="_blank" rel="noopener noreferrer" data-free-tpt-sample="' + p['listingId'] + '">Get free sample worksheet: ' + html.escape(p['title']) + ' ↗</a>' for p in rows)
     block = '<!-- free-topic-samples:start --><p class="free-topic-samples"><strong>Free sample worksheet available on TpT.</strong> ' + links + ' TpT requires an account to download. Complete paid packs are optional.</p><!-- free-topic-samples:end -->'
+    learning_path = next((p['topicLearningPath'] for p in rows if p.get('topicLearningPath')), None)
+    if learning_path:
+        block = block.replace('<!-- free-topic-samples:end -->', '<p class="free-topic-learning-path">' + html.escape(learning_path) + '</p><!-- free-topic-samples:end -->')
     if re.search(MARKER, source):
         source = re.sub(MARKER, lambda _: block, source)
     else:
