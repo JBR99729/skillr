@@ -47,6 +47,11 @@ def card(p, lessons):
         target = '/learn/?year=' + str(p['year']) + '&subject=' + p['subject'] if p['market'] == 'au' else '/us-resources/'
         guide = '<a href="' + E(target, quote=True) + '">Browse related learning resources</a>'
     action = 'Get free worksheet on TpT' if p['kind'] == 'worksheets' else 'Get free teaching resource on TpT'
+    if p.get('topicLearningPath') and p.get('url', '').startswith('/products/'):
+        # Newly published samples have real, indexable contents pages as well as
+        # the external download. Keep them reachable through native HTML.
+        assert (ROOT / p['url'].strip('/') / 'index.html').is_file()
+        guide += '<a href="' + E(p['url'], quote=True) + '">See sample contents</a>'
     return f'<article class="worksheet-year-card"><p class="eyebrow">{E(label)}</p><h4>{E(p["title"])}</h4><p>{E(summary(p))}</p><div class="worksheet-resource-actions"><a href="{E(p["tptUrl"], quote=True)}" target="_blank" rel="noopener noreferrer" data-free-tpt-sample="{p["listingId"]}">{action} ↗</a>{guide}</div></article>'
 
 
