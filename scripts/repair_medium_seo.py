@@ -50,7 +50,7 @@ def review_block(code, records):
             '<summary><strong>About this resource and its review</strong></summary><div class="curriculum-detail-body">'
             '<p>Published and maintained by <a href="/about.html">SkillrHub</a>. Australian Curriculum v9 code: <strong>' + code + '</strong>.</p>'
             + status + '<p><a href="/editorial-standards.html">Read our editorial standards</a> · '
-            '<a href="/contact.html?code=' + code + '#contact-email">Report a correction for ' + code + '</a></p>'
+            '<a href="/contact.html#contact-email">Report a correction for ' + code + '</a></p>'
             '</div></details><!-- resource-review:end -->\n')
 
 
