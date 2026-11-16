@@ -23,6 +23,6 @@ llms.txt describes counts, collection, access conditions and limitations. llms-f
 
 ## Validation
 
-Four directory and copy-policy regression tests pass, including complete observed-ID coverage, no duplicates, file-format separation and AI-guide consistency. Builder --check passes. Sitemap indexability/submission and Search/AI integrity checks pass. Complete-tree and live-publication checks are required for delivery.
+Five directory and copy-policy regression tests pass, including complete observed-ID coverage, no duplicates, file-format separation and AI-guide consistency. Every generated internal link and local section anchor resolves to an existing destination. Builder --check passes. Sitemap indexability/submission and Search/AI integrity checks pass. Complete-tree and live-publication checks are required for delivery.
 
 Increased usefulness does not establish or guarantee a ranking improvement. Compare collection impressions, clicks and sample outbound events after recrawling.

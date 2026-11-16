@@ -1,5 +1,7 @@
 import re
 import json
+from html.parser import HTMLParser
+from urllib.parse import urlparse, unquote
 import unittest
 from pathlib import Path
 
@@ -8,6 +10,34 @@ from normalize_resource_messaging import transform
 
 
 class FreeSampleTests(unittest.TestCase):
+    def test_all_generated_internal_destinations_exist(self):
+        class Links(HTMLParser):
+            def __init__(self):
+                super().__init__()
+                self.links = []
+                self.ids = set()
+            def handle_starttag(self, tag, attrs):
+                attrs = dict(attrs)
+                if tag == 'a' and 'href' in attrs:
+                    self.links.append(attrs['href'])
+                if 'id' in attrs:
+                    self.ids.add(attrs['id'])
+        parser = Links()
+        source = (ROOT / 'worksheets/index.html').read_text()
+        parser.feed(source)
+        for href in parser.links:
+            target = urlparse(href)
+            if target.netloc and target.netloc != 'skillrhub.com':
+                continue
+            if not target.path:
+                if target.fragment:
+                    self.assertIn(target.fragment, parser.ids)
+                continue
+            path = ROOT / unquote(target.path).lstrip('/')
+            if target.path.endswith('/'):
+                path = path / 'index.html'
+            self.assertTrue(path.is_file(), href)
+
     def test_only_observed_free_listings_and_matching_lessons(self):
         block = build()  # Fails on paid, missing, unavailable or mismatched listings.
         ids = re.findall(r'data-free-tpt-sample="(\d+)"', block)
