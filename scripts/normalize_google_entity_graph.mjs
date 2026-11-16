@@ -1,12 +1,23 @@
 #!/usr/bin/env node
 import fs from 'node:fs';
 import path from 'node:path';
+import { appBanks, topicResourceParts } from './lib/published_activity_navigation.mjs';
 
 const ROOT = process.cwd();
 const ORIGIN = 'https://skillrhub.com';
 const ORG_ID = `${ORIGIN}/#organization`;
 const WEBSITE_ID = `${ORIGIN}/#website`;
 const WRITE = process.argv.includes('--write');
+const RESOURCES_ONLY = process.argv.includes('--resources-only');
+const BANKS = appBanks(ROOT);
+const TARGETS = process.argv.filter(arg => arg.startsWith('--file=')).map(arg => {
+  const file = path.resolve(ROOT, arg.slice('--file='.length));
+  if (!file.startsWith(ROOT + path.sep) || !/\.html?$/.test(file) || !fs.existsSync(file)) {
+    throw new Error(`Invalid target HTML file: ${arg}`);
+  }
+  return file;
+});
+if (RESOURCES_ONLY && !TARGETS.length) throw new Error('--resources-only requires explicit --file targets');
 const SKIP = new Set(['node_modules', '.git', 'docs', 'artifacts']);
 
 function walk(dir, out = []) {
@@ -103,18 +114,7 @@ function curriculumResource(file, html) {
   const subjectSlug = subjectSlugRaw.toLowerCase();
   const code = (html.match(/AC9[A-Z0-9]+/i)?.[0] || '').toUpperCase();
   const can = canonical(html) || `${ORIGIN}${route(file)}`;
-  const links = [...html.matchAll(/<a\b[^>]*href=["']([^"']+)["']/gi)].map(x => x[1]);
-  const parts = [];
-  const seen = new Set();
-  for (const href of links) {
-    if (!/(worksheet|practice|test|teacher-slides|teacher-deck)/i.test(href)) continue;
-    let url;
-    try { url = new URL(href, can).href; } catch { continue; }
-    if (!url.startsWith(ORIGIN) || seen.has(url)) continue;
-    seen.add(url);
-    const type = /worksheet/i.test(href) ? 'Worksheet' : /test/i.test(href) ? 'Assessment' : /practice/i.test(href) ? 'Practice' : 'Teacher resource';
-    parts.push({ '@type': 'LearningResource', url, learningResourceType: type });
-  }
+  const parts = topicResourceParts(html, code, can, BANKS);
   return {
     '@context': 'https://schema.org',
     '@type': 'LearningResource',
@@ -150,11 +150,19 @@ function ensureCurriculumResource(file, html) {
   return html.replace(/<\/head>/i, `${block}\n</head>`);
 }
 
-let files = walk(ROOT);
+let files = TARGETS.length ? TARGETS : walk(ROOT);
 let changed = 0, invalidJson = 0, removed = 0;
 for (const file of files) {
   let html = fs.readFileSync(file, 'utf8');
   let next = html;
+  if (RESOURCES_ONLY) {
+    next = ensureCurriculumResource(file, next);
+    if (next !== html) {
+      changed += 1;
+      if (WRITE) fs.writeFileSync(file, next, 'utf8');
+    }
+    continue;
+  }
   const scripts = parseScripts(next).reverse();
   for (const match of scripts) {
     let parsed;

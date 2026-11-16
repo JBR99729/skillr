@@ -9,6 +9,32 @@ export function appBanks(root = process.cwd()) {
   return new Map(JSON.parse(fs.readFileSync(path.join(root, 'data/app-question-banks.json'), 'utf8')).codes.map(bank => [bank.code, bank]));
 }
 
+// Search metadata follows the same published destinations as the visible page.
+// Retired /quiz/ aliases and paid product pages are not active learning parts.
+export function topicResourceParts(html, code, canonical, banks = appBanks()) {
+  const bank = banks.get(code);
+  const parts = new Map();
+  for (const href of hrefs(html)) {
+    let url;
+    try { url = new URL(href, canonical); } catch { continue; }
+    let type;
+    if (url.origin === 'https://app.skillrhub.com' && url.pathname === '/') {
+      if (bank?.assessment && url.searchParams.get('assessment') === code &&
+          !url.searchParams.has('skill')) type = 'Assessment';
+      if (bank?.practice && url.searchParams.get('skill') === code &&
+          url.searchParams.get(bank.guestPractice ? 'try' : 'login') === '1' &&
+          !url.searchParams.has('assessment')) type = 'Practice';
+    } else if (url.origin === 'https://skillrhub.com' &&
+        url.pathname.replace(/index\.html$/, '') === new URL('teacher-slides/', canonical).pathname) {
+      type = 'Teacher resource';
+    }
+    if (type && !parts.has(type)) parts.set(type, {
+      '@type': 'LearningResource', url: url.href, learningResourceType: type
+    });
+  }
+  return [...parts.values()];
+}
+
 // The main card no longer requires separate Practice and Test buttons. Published
 // practice uses its matching app bank; assessment is reached within that app.
 // If a page retains an assessment link, it must still match verified availability.

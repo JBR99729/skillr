@@ -114,5 +114,8 @@ jobs:
       - name: Preserve authored activity indexing policy
         run: node --test scripts/tests/test_seo_routing_policy.mjs
 
+      - name: Match topic search metadata to published activities
+        run: node --test scripts/tests/test_published_activity_navigation.mjs scripts/tests/topic-resource-parts.test.mjs
+
       - name: Check product links to matching free guides
         run: python3 scripts/audit_product_guide_links.py
