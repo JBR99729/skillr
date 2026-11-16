@@ -39,6 +39,8 @@ def topic_description(unit, source, banks):
     topic = html.unescape(re.sub('<[^>]+>', '', re.search(r'<h1\b[^>]*>(.*?)</h1>', source, re.S)[1]))
     topic = re.sub(r'\s+', ' ', topic).strip()
     topic = re.sub(r'\s*\b' + unit['code'] + r'\b', '', topic).strip()
+    if len(topic) > 60:
+        topic = topic[:60].rsplit(' ', 1)[0].rstrip('.,;:') + '…'
     practice = 'Free practice questions' if banks.get(unit['code'], {}).get('practice') else 'Find available free practice questions'
     return (f'{topic} ({unit["code"]}): Australian Curriculum free learning resources and examples. '
             f'{practice}; save progress with a free account. Optional paid worksheets.')

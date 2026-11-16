@@ -13,6 +13,7 @@ class LearningIntentTests(unittest.TestCase):
         descriptions = set()
         for unit, path, source in corpus:
             description = topic_description(unit, source, banks)
+            self.assertLessEqual(len(description), 250, str(path))
             descriptions.add(description)
             for field in ['description', 'og:description', 'twitter:description']:
                 matches = [re.search(r'content="([^"]+)"', tag)[1] for tag in re.findall(r'<meta\b[^>]*>', source)
