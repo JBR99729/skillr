@@ -19,7 +19,7 @@ class TopicSampleSEOTests(unittest.TestCase):
             name = u['url'].strip('/') + '/index.html'
             source = (ROOT / name).read_text()
             old = subprocess.check_output(['git', 'show', 'HEAD:' + name], cwd=ROOT, text=True)
-            self.assertIn(' | Free Examples, Practice &amp; Sample Worksheet</title>', source)
+            self.assertIn(' | Free Examples, Practice &amp; Sample Worksheet | ', source)
             self.assertIn('Free sample worksheet on TpT', source)
             self.assertEqual(source.count('<!-- free-topic-samples:start -->'), 1)
             self.assertEqual(source, update(source, u, rows), code)

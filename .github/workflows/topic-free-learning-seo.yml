@@ -36,6 +36,8 @@ jobs:
           python3 scripts/update_topic_learning_seo.py --check
           python3 scripts/apply_free_sample_topic_seo.py --check
           python3 scripts/test_topic_learning_seo.py
+          node scripts/validate_year8_maths_static_v2.mjs
+          node scripts/validate_year8_science_static_v2.mjs
           python3 scripts/test_free_tpt_samples.py
           python3 scripts/validate_resource_messaging.py
           node scripts/audit_search_ai_integrity.mjs
