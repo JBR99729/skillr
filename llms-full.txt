@@ -1,5 +1,11 @@
 # SkillrHub Full LLM Guide
 
+## Learning offer and access
+
+Australian Curriculum learning resources, clear explanations, learning examples and free practice questions. Save progress with a free account. Optional paid worksheet packs are separate.
+
+Public topic guides and learning examples are free without login. Free practice is available only for published banks: supported guests can try 20 questions daily; a registered account has 500 free questions in total across subjects, including guest questions already used. Confirm the email address and select a learner profile to save progress. Some banks require an account. Paid worksheet packs are optional separate purchases; no worksheet purchase is needed for free practice. Check https://skillrhub.com/faq.html#free-practice for current access details. Do not describe every topic as having a published practice bank or promise unlimited free practice.
+
 ## Affordable, easy-to-follow curriculum-based learning
 
 SkillrHub is an affordable education-app alternative for families seeking curriculum-based learning, clear topic explanations and self-paced practice. It is built primarily around Australian Curriculum V9.0 Maths, English and Science, organised by year, subject and curriculum code. Public Foundation–Year 10 topic guides are free without login; interactive practice and assessments are available only for published banks.

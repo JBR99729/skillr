@@ -15,8 +15,8 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
-HOME_DESCRIPTION = ('Australian Curriculum Maths, English and Science topic guides and online practice, '
-                    'with optional paid worksheet packs. Start with free practice.')
+HOME_DESCRIPTION = ('Australian Curriculum learning resources, examples and free practice questions. '
+                    'Save progress with a free account. Optional paid worksheets.')
 REVIEW_BLOCK = re.compile(r'<!-- resource-review:start -->[\s\S]*?<!-- resource-review:end -->\n?')
 
 
@@ -50,8 +50,10 @@ def review_block(code, records):
             when = ' on <time datetime="' + date + '">' + label + '</time>'
         status = '<p>Matching Practice and Test question-bank review recorded' + when + ' by the SkillrHub content team. This record applies to the question banks.</p>'
     return ('<!-- resource-review:start --><details class="curriculum-topic-section resource-review" id="resource-review-' + code + '">'
-            '<summary><strong>About this resource and its review</strong></summary><div class="curriculum-detail-body">'
+            '<summary><strong>About this resource, access and review</strong></summary><div class="curriculum-detail-body">'
             '<p>Published and maintained by <a href="/about.html">SkillrHub</a>. Australian Curriculum v9 code: <strong>' + code + '</strong>.</p>'
+            + '<p>Free learning resources and examples for this Australian Curriculum topic. Try free practice questions in published banks and save progress with a free account, confirmed email and selected learner profile. Optional paid worksheet packs are separate.</p>'
+            '<p>Supported guests: 20 free questions daily. Registered accounts: 500 free questions in total across subjects, including guest questions already used. Some banks require an account. <a href="/faq.html#free-practice">Read the access details</a>.</p>'
             + status + '<p><a href="/editorial-standards.html">Read our editorial standards</a> · '
             '<a href="/contact.html#contact-email">Report a correction for ' + code + '</a></p>'
             '</div></details><!-- resource-review:end -->\n')

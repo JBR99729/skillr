@@ -49,7 +49,9 @@ class MediumSEOTests(unittest.TestCase):
                 continue
             before = subprocess.check_output(['git', 'show', 'origin/main:' + name], cwd=ROOT, text=True)
             after = (ROOT / name).read_text()
-            self.assertEqual(REVIEW_BLOCK.sub('', after), REVIEW_BLOCK.sub('', before), name)
+            self.assertEqual(REVIEW_BLOCK.sub('', after.split('</head>', 1)[1]), REVIEW_BLOCK.sub('', before.split('</head>', 1)[1]), name)
+            for tag in ['title', 'link[^>]*rel="canonical"']:
+                self.assertEqual(re.findall('<' + tag + '[^>]*>[^<]*', after), re.findall('<' + tag + '[^>]*>[^<]*', before), name)
 
     def test_homeschool_page_has_clear_steps_and_an_honest_example(self):
         source = (ROOT / 'homeschooling-australia/index.html').read_text()
