@@ -29,3 +29,17 @@ The missing description and meta-refresh warning both concern `/quiz/year-1/math
 The four missing-H1 notices all concern `product.html?id=...`. Add a static fallback H1 and a no-JavaScript catalogue link to the shared, already-noindex template. Product rendering replaces that section, so it does not add a second product H1. The multiple-H1 notice concerns separate hidden guest/workspace/admin states in `/tracker/`, not a public topic guide. Keep private application state outside the public homepage indexing strategy; do not rewrite functional hidden screens merely to satisfy SEO notices.
 
 Validation: 67 product titles are below 70 characters, with no truncation; all retain one H1, valid structured data and canonical markup. Two title-helper tests pass. AC9E6LA06 metadata generation is idempotent and leaves the body and canonical untouched. Deployment and a fresh Bing crawl are required before dashboard counts can change. External backlink authority cannot be repaired by local metadata edits; no outreach or purchased links were performed.
+
+## Hosted verification and Bing submissions
+
+The initial app repair deployed successfully. Hosted checks confirmed HTTP 404 for a missing page and missing JavaScript asset, while the homepage, sign-in query, code-specific guest-practice query, tracker, support, robots and sitemap returned HTTP 200.
+
+Bing Live URL tested the actual repaired app homepage and reported HTTP 200, “URL can be indexed by Bing”, “No SEO/GEO issues found” and two markup types. Its tested HTML included the new static resource links. Bing's saved Index card still said “Discovered but not crawled”, originally discovered 21 September 2026. This is not evidence of current index inclusion or of an algorithmic penalty. The indexing request was accepted (“Indexing requested.”).
+
+Submitted 72 updated indexable public URLs through Bing's URL Submission UI: the four keyword-aligned public landing pages, AC9E6LA06 and 67 product pages. Resubmitted the canonical root sitemap; Bing showed Processing, with zero sitemap errors and zero sitemap warnings before resubmission. The existing IndexNow workflow also succeeded. No fresh Site Scan could be started because Bing reported zero remaining scan-page quota; retain the older scan's date and do not label its warnings cleared in Bing.
+
+The strongest visual-composition query is mapped directly to the existing AC9E4LA10 guide through a descriptive static homepage link. The Year 7 visual-language guide remains an additional related destination, not a substitute for that Year 4 outcome.
+
+Follow-up app patch: retain one static document H1, change the hidden workspace/admin headings to visually equivalent H2s, and mark the tracker noindex while keeping the public homepage indexable. Include Bing's app-property verification tag. This patch has four focused local indexability tests; only claim it live after its production regression/deploy workflow and hosted checks finish. The superseded tag-only workflow was cancelled during its read-only regression stage before any deployment began; the combined release retains all validation.
+
+The public metadata repair workflows passed after keeping the required Free Examples title label within 70 characters and retaining the reviewed legacy description in its generator. Full body content, purchase details and canonical URLs remain unchanged by title repairs.
