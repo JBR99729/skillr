@@ -8,12 +8,18 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 
+# Page-specific copy reviewed against Bing's reported >70-character title warning.
+# Preserve unrelated topic titles during this focused maintenance change.
+REVIEWED_TITLES = {
+    'AC9E6LA06': 'Year 6 English: Verbs & Adverb Groups | AC9E6LA06 | SkillrHub',
+}
+
 
 def copy_for(source, unit, sample=False):
     old = html.unescape(re.search(r'<title>(.*?)</title>', source, re.S)[1])
     core = re.split(r'\s+\|\s+', old)[0]
     suffix = 'Free Examples, Practice & Sample Worksheet' if sample else 'Free Examples & Practice'
-    title = core + ' | ' + suffix + ' | ' + unit['code']
+    title = REVIEWED_TITLES.get(unit['code'], core + ' | ' + suffix + ' | ' + unit['code'])
     topic = html.unescape(re.sub('<[^>]+>', '', re.search(r'<h1[^>]*>(.*?)</h1>', source, re.S)[1]))
     year = unit['levelLabel']
     subject = {'maths': 'Maths', 'english': 'English', 'science': 'Science'}[unit['subjectSlug']]
@@ -91,3 +97,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
