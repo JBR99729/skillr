@@ -21,6 +21,9 @@ REVIEW_BLOCK = re.compile(r'<!-- resource-review:start -->[\s\S]*?<!-- resource-
 
 
 def ledger_records():
+    shallow = subprocess.check_output(["git", "rev-parse", "--is-shallow-repository"], cwd=ROOT, text=True).strip()
+    if shallow == "true":
+        raise RuntimeError("Full git history is required to derive original ledger record dates; fetch with --unshallow first.")
     reviewed = set(json.loads((ROOT / 'data/content-verification-status.json').read_text())['reviewedCodes'])
     history = subprocess.check_output(['git', 'log', '--reverse', '--format=@@REVIEW:%cs:%H', '-p', '--',
                                        'data/content-verification-status.json'], cwd=ROOT, text=True)

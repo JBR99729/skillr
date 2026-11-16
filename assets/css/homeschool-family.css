@@ -159,3 +159,6 @@
 /* Allow planner and dashboard grid content to shrink on narrow screens. */
 .hs-refresh{box-sizing:border-box;width:100%}.hs-refresh section,.hs-dashboard>*,.hs-hero--visual>*{min-width:0}.hs-dashboard__content{overflow-wrap:anywhere}
 @media(max-width:850px){.hs-hero--visual,.hs-dashboard{grid-template-columns:minmax(0,1fr)}}
+
+/* Keep table labels readable; contain its horizontal scroll on phones. */
+.hs-planner-table table{min-width:560px;overflow-wrap:normal}.hs-planner-table th,.hs-planner-table td:first-child{white-space:nowrap}
