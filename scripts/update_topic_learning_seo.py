@@ -11,7 +11,7 @@ ROOT = Path(__file__).resolve().parents[1]
 # Page-specific copy reviewed against Bing's reported >70-character title warning.
 # Preserve unrelated topic titles during this focused maintenance change.
 REVIEWED_TITLES = {
-    'AC9E6LA06': 'Year 6 English: Verbs & Adverb Groups | AC9E6LA06 | SkillrHub',
+    'AC9E6LA06': 'Year 6 Verbs & Adverb Groups | Free Examples & Practice | AC9E6LA06',
 }
 
 
