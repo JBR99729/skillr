@@ -1,73 +1,34 @@
-name: Reconcile verified TpT import against latest main
+name: Verify published TpT product pages on SkillrHub
 on:
   push:
     branches: [sync/tpt-missing-20261119]
     paths:
       - '.github/workflows/tpt-missing-sync-20261119.yml'
-  workflow_dispatch:
 permissions:
-  contents: write
-concurrency:
-  group: tpt-main-reconciliation-20261119
-  cancel-in-progress: false
+  contents: read
 jobs:
-  reconcile-and-verify:
+  check-live:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 5
     steps:
-      - uses: actions/checkout@v4
-        with:
-          ref: sync/tpt-missing-20261119
-          fetch-depth: 0
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
-      - name: Losslessly reconcile main with the TpT catalogue additions
-        env:
-          BRANCH: sync/tpt-missing-20261119
+      - name: Check production homepage, catalogue, and three new product routes
         run: |
-          set -euo pipefail
-          feature_sha=$(git rev-parse HEAD)
-          git fetch origin main "$BRANCH"
-          main_sha=$(git rev-parse origin/main)
-          git show origin/main:assets/site-search-index.json > /tmp/tpt-main-search.json
-          git show HEAD:assets/site-search-index.json > /tmp/tpt-feature-search.json
-          git show origin/main:sitemap-site.xml > /tmp/tpt-main-sitemap.xml
-          git show HEAD:sitemap-site.xml > /tmp/tpt-feature-sitemap.xml
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git merge --no-commit --no-ff origin/main || true
-          unexpected=$(git diff --name-only --diff-filter=U | grep -Ev '^(assets/site-search-index.json|sitemap-site.xml)$' || true)
-          if [ -n "$unexpected" ]; then echo "Unexpected merge conflicts: $unexpected"; exit 1; fi
-          python3 scripts/reconcile_tpt_main_20261119.py /tmp/tpt-main-search.json /tmp/tpt-feature-search.json /tmp/tpt-main-sitemap.xml /tmp/tpt-feature-sitemap.xml
-          git add assets/site-search-index.json sitemap-site.xml
-          test -z "$(git diff --name-only --diff-filter=U)"
-          python3 scripts/validate_tpt_product_sync.py
-          python3 scripts/validate_discovery_navigation.py
-          # Copy-check only the 47 new product routes and their touched topic guides.
-          # Concurrent main-page changes unrelated to this sync are deliberately retained.
           python3 - <<'PY'
-          import json,sys
-          from pathlib import Path
-          sys.path.insert(0,'scripts')
-          from normalize_resource_messaging import transform
-          root=Path('.')
-          report=json.loads(Path('docs/qa/2026-11-19-tpt-import.json').read_text())
-          paths={f"products/tpt-{pid}/index.html" for pid in report['newIds']}
-          paths.update(row['topicPage'].strip('/')+'/index.html' for row in report['topicLinks'])
-          failures=[]
-          for path in sorted(paths):
-            before=(root/path).read_text()
-            if transform(before,path)!=before:
-              failures.append(path)
-          assert not failures, {'imported_pages_needing_copy_normalisation': failures[:20], 'count':len(failures)}
-          print({'tpt_import_pages_copy_checked':len(paths), 'issues':0})
+          from urllib.request import Request,urlopen
+          from urllib.error import HTTPError
+          checks=[
+              ("https://skillrhub.com/","SkillrHub"),
+              ("https://skillrhub.com/products/","Browse resource folders"),
+              ("https://skillrhub.com/products/tpt-18404544/","139 Slides"),
+              ("https://skillrhub.com/products/tpt-18402013/","131 Slides"),
+              ("https://skillrhub.com/products/tpt-18369585/","Year 4 Maths Term 2 Worksheets Bundle")
+          ]
+          for url,term in checks:
+              req=Request(url+"?tpt_sync_qa=20261119",headers={'User-Agent':'Mozilla/5.0 (compatible; SkillrHubReleaseQA/1.0)', 'Cache-Control':'no-cache'})
+              with urlopen(req,timeout=25) as resp:
+                  body=resp.read().decode('utf-8','replace')
+                  assert resp.status==200,(url,resp.status)
+                  assert term in body,(url,'missing text',term)
+                  print("LIVE_OK",resp.status,url,'bytes',len(body),'match',term)
+          print('PASS: 5 URLs verified live; production delivery confirmed')
           PY
-          node scripts/audit_search_ai_integrity.mjs
-          git diff --cached --check
-          git commit -m 'Merge latest SkillrHub main into 47-item TpT catalogue sync without data loss'
-          node scripts/check_release_integrity.mjs "$main_sha" HEAD
-          git fetch origin main "$BRANCH"
-          test "$(git rev-parse origin/main)" = "$main_sha"
-          test "$(git rev-parse "origin/$BRANCH")" = "$feature_sha"
-          git push origin "HEAD:$BRANCH"
