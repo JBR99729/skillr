@@ -134,6 +134,8 @@ def is_functional(path):
 
 def human_sitemap_page(url):
  """Keep the browser sitemap useful; XML sitemaps handle deep crawl discovery."""
+ # Two repaired year overviews are genuine entry pages, not retired hub aliases.
+ if url in {"/year5/", "/year6/"}:return True
  parts=[p for p in url.strip("/").split("/") if p]
  if url in HUMAN_SITE_LINKS|HUMAN_HELP_LINKS|HUMAN_MAPPING_LINKS:return True
  if parts[0] in {"learn","teach"}:
