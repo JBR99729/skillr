@@ -1,18 +1,17 @@
-name: Import verified TpT products into SkillrHub resource sections
+name: Reconcile verified TpT import against latest main
 on:
   push:
     branches: [sync/tpt-missing-20261119]
     paths:
       - '.github/workflows/tpt-missing-sync-20261119.yml'
-      - 'scripts/import_tpt_missing_20261119.py'
   workflow_dispatch:
 permissions:
   contents: write
 concurrency:
-  group: tpt-store-import-20261119
+  group: tpt-main-reconciliation-20261119
   cancel-in-progress: false
 jobs:
-  import-and-verify:
+  reconcile-and-verify:
     runs-on: ubuntu-latest
     timeout-minutes: 25
     steps:
@@ -23,30 +22,34 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Import only 47 missing IDs and place by year, subject, format and exact topic
-        run: python3 scripts/import_tpt_missing_20261119.py
-      - name: Normalise linked page copy without changing authored teaching content
-        run: python3 scripts/normalize_resource_messaging.py
-      - name: Validate no duplicates, pages, topic links and discovery
-        run: |
-          python3 scripts/validate_tpt_product_sync.py
-          python3 scripts/validate_discovery_navigation.py
-          python3 scripts/normalize_resource_messaging.py --check
-          node scripts/audit_search_ai_integrity.mjs
-          git diff --check
-      - name: Save verified result without changing unrelated files
+      - name: Losslessly reconcile main with the TpT catalogue additions
         env:
           BRANCH: sync/tpt-missing-20261119
         run: |
           set -euo pipefail
-          base=$(git rev-parse HEAD)
+          feature_sha=$(git rev-parse HEAD)
+          git fetch origin main "$BRANCH"
+          main_sha=$(git rev-parse origin/main)
+          git show origin/main:assets/site-search-index.json > /tmp/tpt-main-search.json
+          git show HEAD:assets/site-search-index.json > /tmp/tpt-feature-search.json
+          git show origin/main:sitemap-site.xml > /tmp/tpt-main-sitemap.xml
+          git show HEAD:sitemap-site.xml > /tmp/tpt-feature-sitemap.xml
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add -- '*.html' data/print-and-go-products.json data/tpt-active-product-inventory.json assets/site-search-index.json ai-index.json sitemap-site.xml docs/qa/2026-11-19-tpt-import.json
+          git merge --no-commit --no-ff origin/main || true
+          unexpected=$(git diff --name-only --diff-filter=U | grep -Ev '^(assets/site-search-index.json|sitemap-site.xml)$' || true)
+          if [ -n "$unexpected" ]; then echo "Unexpected merge conflicts: $unexpected"; exit 1; fi
+          python3 scripts/reconcile_tpt_main_20261119.py /tmp/tpt-main-search.json /tmp/tpt-feature-search.json /tmp/tpt-main-sitemap.xml /tmp/tpt-feature-sitemap.xml
+          git add assets/site-search-index.json sitemap-site.xml
+          test -z "$(git diff --name-only --diff-filter=U)"
+          python3 scripts/validate_tpt_product_sync.py
+          python3 scripts/validate_discovery_navigation.py
+          python3 scripts/normalize_resource_messaging.py --check
+          node scripts/audit_search_ai_integrity.mjs
           git diff --cached --check
-          test -n "$(git diff --cached --name-only)"
-          git commit -m 'Add 47 missing verified TpT listings to existing SkillrHub resource sections'
-          node scripts/check_release_integrity.mjs "$base" HEAD
-          git fetch origin "$BRANCH"
-          test "$(git rev-parse FETCH_HEAD)" = "$base"
+          git commit -m 'Merge latest SkillrHub main into 47-item TpT catalogue sync without data loss'
+          node scripts/check_release_integrity.mjs "$main_sha" HEAD
+          git fetch origin main "$BRANCH"
+          test "$(git rev-parse origin/main)" = "$main_sha"
+          test "$(git rev-parse "origin/$BRANCH")" = "$feature_sha"
           git push origin "HEAD:$BRANCH"
