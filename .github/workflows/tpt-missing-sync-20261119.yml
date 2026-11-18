@@ -1,28 +1,43 @@
-name: Inspect public TpT listing structure
+name: Capture full public TpT store for deduplicated import
 on:
   push:
     branches: [sync/tpt-missing-20261119]
-    paths: ['.github/workflows/tpt-missing-sync-20261119.yml']
-permissions: { contents: read }
+    paths:
+      - '.github/workflows/tpt-missing-sync-20261119.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: tpt-store-scan-20261119
+  cancel-in-progress: false
 jobs:
-  inspect-store:
+  scan:
     runs-on: ubuntu-latest
-    timeout-minutes: 7
+    timeout-minutes: 12
     steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: sync/tpt-missing-20261119
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
       - run: python3 -m pip install -q beautifulsoup4
-      - name: Inspect two listing rows on both pages
+      - name: Capture every public listing with pagination and ID validation
+        run: python3 scripts/capture_tpt_store_20261119.py
+      - name: Commit read-only snapshot for review
+        env:
+          BRANCH: sync/tpt-missing-20261119
         run: |
-          python3 - <<'PY'
-          import urllib.request,re
-          from bs4 import BeautifulSoup
-          for page in [1,2,35]:
-            url='https://www.teacherspayteachers.com/store/skillrhub?page='+str(page)
-            raw=urllib.request.urlopen(urllib.request.Request(url,headers={'User-Agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/131.0 Safari/537.36'}),timeout=25).read(2000000).decode('utf-8','replace')
-            soup=BeautifulSoup(raw,'html.parser')
-            rows=soup.select('[data-testid="ProductRow"]')
-            print('page',page,'rows',len(rows),'row ids',[r.get('id') for r in rows[:5]])
-            for row in rows[:1]:
-              print('ROW_HTML',str(row)[:7500])
-              print('ROW_TEXT',row.get_text(' ',strip=True)[:2000])
-            print('page footer',soup.get_text(' ',strip=True)[-750:])
-          PY
+          set -euo pipefail
+          base=$(git rev-parse HEAD)
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/tpt-observed-store-20261119.json docs/qa/2026-11-19-tpt-scan.json
+          git diff --cached --check
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'Capture 19 Nov 2026 verified public TpT listings for safe catalogue sync'
+          node scripts/check_release_integrity.mjs "$base" HEAD
+          git fetch origin "$BRANCH"
+          test "$(git rev-parse FETCH_HEAD)" = "$base"
+          git push origin "HEAD:$BRANCH"
