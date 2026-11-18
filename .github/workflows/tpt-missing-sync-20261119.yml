@@ -4,6 +4,7 @@ on:
     branches: [sync/tpt-missing-20261119]
     paths:
       - '.github/workflows/tpt-missing-sync-20261119.yml'
+      - 'scripts/import_tpt_missing_20261119.py'
   workflow_dispatch:
 permissions:
   contents: write
