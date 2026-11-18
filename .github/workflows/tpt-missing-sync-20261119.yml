@@ -25,6 +25,8 @@ jobs:
           python-version: '3.12'
       - name: Import only 47 missing IDs and place by year, subject, format and exact topic
         run: python3 scripts/import_tpt_missing_20261119.py
+      - name: Normalise linked page copy without changing authored teaching content
+        run: python3 scripts/normalize_resource_messaging.py
       - name: Validate no duplicates, pages, topic links and discovery
         run: |
           python3 scripts/validate_tpt_product_sync.py
