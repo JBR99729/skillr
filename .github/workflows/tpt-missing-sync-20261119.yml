@@ -1,30 +1,24 @@
-name: Verify current TpT store access for missing-item sync
+name: Inspect public TpT inventory payload
 on:
   push:
     branches: [sync/tpt-missing-20261119]
-    paths:
-      - '.github/workflows/tpt-missing-sync-20261119.yml'
-  workflow_dispatch:
-permissions:
-  contents: read
+    paths: ['.github/workflows/tpt-missing-sync-20261119.yml']
+permissions: { contents: read }
 jobs:
   inspect-store:
     runs-on: ubuntu-latest
-    timeout-minutes: 8
+    timeout-minutes: 6
     steps:
-      - name: Check public store page access without altering SkillrHub
+      - name: Inspect product listing page payload encoding
         run: |
           python3 - <<'PY'
-          import urllib.request,re
-          base='https://www.teacherspayteachers.com/store/skillrhub'
+          import urllib.request,re,html
           for page in [1,2,35]:
-            url=base+('?page='+str(page) if page>1 else '')
-            req=urllib.request.Request(url,headers={'User-Agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/131.0.0.0 Safari/537.36','Accept':'text/html,application/xhtml+xml'})
-            try:
-              with urllib.request.urlopen(req,timeout=20) as resp:
-                html=resp.read(5000000).decode('utf-8','replace')
-                ids=sorted(set(re.findall(r'/Product/[^"<>\\ ]+?-(\\d{7,10})',html)))
-                print('page',page,'status',resp.status,'len',len(html),'ids',len(ids),'sample',ids[:4],'692_text',str('692' in html),'page_title',re.findall(r'<title>(.*?)</title>',html,re.S)[:1])
-            except Exception as exc:
-              print('page',page,'ERROR',type(exc).__name__,str(exc)[:200])
+            req=urllib.request.Request('https://www.teacherspayteachers.com/store/skillrhub?page='+str(page),headers={'User-Agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/131.0 Safari/537.36'})
+            raw=urllib.request.urlopen(req,timeout=20).read(2000000).decode('utf-8','replace')
+            print('PAGE',page,'CHARS',len(raw))
+            for term in ['18369585','18402013','Product/','\\u002FProduct','/Product','Year-4-Maths-Term','__next','__NEXT_DATA__','692','productId','tptProductId']:
+              k=raw.find(term)
+              print('TERM',repr(term),'index',k,'sample',repr(raw[max(0,k-100):k+230]) if k>=0 else '')
+            print('html_unescape_product_URLs',len(set(re.findall(r'/Product/[^"<>\\ ]+?-(\\d{7,10})',html.unescape(raw)))))
           PY
