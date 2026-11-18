@@ -60,7 +60,7 @@ def concise_copy(row):
 def new_record(row, units):
     pid = row["productId"]
     title = row["title"]
-    match = re.search(r"\bYear\s*(\d{1,2})\b", title, re.I)
+    match = re.search(r"\bYear\s*(\d{1,2})", title, re.I)
     assert match, ("Cannot assign Australian year", pid, title)
     year = int(match.group(1))
     assert 4 <= year <= 6, ("Not in observed expected year scope", pid, year)
