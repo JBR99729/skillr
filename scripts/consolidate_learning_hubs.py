@@ -89,9 +89,12 @@ def destinations(root=ROOT):
         level = 'foundation' if year == 0 else f'year{year}'
         learn_level = 'foundation' if year == 0 else f'year-{year}'
         year_target = f'/learn/?year={year}'
-        candidates = {f'/{level}/': year_target,
-                      f'/{level}/curriculum/': year_target,
+        # Nov 2026 GSC repair: Year 5/6 overview pages are authored, self-canonical
+        # discovery destinations. Keep subject and obsolete curriculum hubs redirected.
+        candidates = {f'/{level}/curriculum/': year_target,
                       f'/learn/{learn_level}/': year_target}
+        if year not in (5, 6):
+            candidates[f'/{level}/'] = year_target
         for subject in ('maths', 'science', 'english'):
             target = year_target + '&subject=' + subject
             candidates[f'/{level}/curriculum/{subject}/'] = target

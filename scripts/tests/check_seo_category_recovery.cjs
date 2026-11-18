@@ -42,7 +42,11 @@ const levels = Array.from({ length: 11 }, (_, year) => ({
         await page.getByText(label, { exact: true }).click();
       }
       const links = await page.locator('.clean-resource-discovery li a').evaluateAll(nodes => nodes.map(node => node.getAttribute('href')));
-      assert.equal(new Set(links).size, 33);
+      // Home also contains curated teaching-topic links; category count is 33.
+      // Check the category set rather than treating extra editorial links as an error.
+      assert.equal(new Set(links).size, links.length, 'duplicate homepage resource links');
+      const categoryLinks = links.filter(link => link.startsWith('/worksheets/'));
+      assert.equal(categoryLinks.length, 33, '11 year levels x 3 worksheet subject categories');
       for (const link of links) assert.ok(fs.existsSync(path.join(root, link, 'index.html')), link);
       assert.equal(await page.evaluate(() => document.documentElement.scrollWidth > innerWidth), false, `homepage overflow at ${width}`);
       await page.screenshot({ path: `test-results/seo-home-${width}.png`, fullPage: true });
