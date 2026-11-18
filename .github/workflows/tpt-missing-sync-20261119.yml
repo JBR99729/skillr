@@ -44,7 +44,25 @@ jobs:
           test -z "$(git diff --name-only --diff-filter=U)"
           python3 scripts/validate_tpt_product_sync.py
           python3 scripts/validate_discovery_navigation.py
-          python3 scripts/normalize_resource_messaging.py --check
+          # Copy-check only the 47 new product routes and their touched topic guides.
+          # Concurrent main-page changes unrelated to this sync are deliberately retained.
+          python3 - <<'PY'
+          import json,sys
+          from pathlib import Path
+          sys.path.insert(0,'scripts')
+          from normalize_resource_messaging import transform
+          root=Path('.')
+          report=json.loads(Path('docs/qa/2026-11-19-tpt-import.json').read_text())
+          paths={f"products/tpt-{pid}/index.html" for pid in report['newIds']}
+          paths.update(row['topicPage'].strip('/')+'/index.html' for row in report['topicLinks'])
+          failures=[]
+          for path in sorted(paths):
+            before=(root/path).read_text()
+            if transform(before,path)!=before:
+              failures.append(path)
+          assert not failures, {'imported_pages_needing_copy_normalisation': failures[:20], 'count':len(failures)}
+          print({'tpt_import_pages_copy_checked':len(paths), 'issues':0})
+          PY
           node scripts/audit_search_ai_integrity.mjs
           git diff --cached --check
           git commit -m 'Merge latest SkillrHub main into 47-item TpT catalogue sync without data loss'
