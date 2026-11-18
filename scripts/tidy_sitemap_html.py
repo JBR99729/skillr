@@ -101,9 +101,10 @@ def main() -> None:
 
     for slug, year_label in YEARS:
         year = '0' if slug == 'foundation' else slug[4:]
-        items = [
-            link(f"/learn/?year={year}", f"{year_label} Australian Curriculum", required=True),
-        ]
+        items = []
+        if year in ('5', '6'):
+            items.append(link(f"/year{year}/", f"{year_label} teaching overview and featured lessons", required=True))
+        items.append(link(f"/learn/?year={year}", f"{year_label} Australian Curriculum", required=True))
         for subject_slug, subject_label in SUBJECTS:
             items.append(link(
                 f"/learn/?year={year}&subject={subject_slug}",
