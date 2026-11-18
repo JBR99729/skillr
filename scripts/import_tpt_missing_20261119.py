@@ -80,9 +80,9 @@ def new_record(row, units):
     slides = bool(re.search(r"\b(?:slides?|powerpoint|presentation)\b", title, re.I))
     printables = bool(re.search(r"\b(?:worksheets?|workbooks?|printables?)\b", title + " " + row["description"], re.I))
     if not slides and not printables:
-        # These Year 6 product cards describe a printable worksheet pack without
-        # including the word 'worksheets' in the title.
-        assert "worksheet" in row["description"].lower(), (pid, title)
+        # Some Year 6 printable PDF maths packs omit "worksheet" from the
+        # shortened store-card title and description; they are not slide decks.
+        assert year == 6 and not is_bundle, ("Unknown format requires manual review", pid, title)
         printables = True
     kind = "bundle" if is_bundle else "teaching-slides" if slides else "worksheet"
     desc = concise_copy(row)
