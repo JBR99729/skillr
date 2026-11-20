@@ -18,7 +18,10 @@ REVIEWED_TITLES = {
     'AC9M1SP02': 'Year 1 Position & Direction | Free Sample & Practice | AC9M1SP02',
     'AC9M2N02': 'Year 2 Partitioning & Place Value | Free Sample & Practice | AC9M2N02',
     'AC9M2SP02': 'Year 2 Maps & Plans | Free Sample & Practice | AC9M2SP02',
-    'AC9M5A01': 'Year 5 Fact Families | Practice & Worksheets | AC9M5A01',
+    'AC9M3M03': 'Year 3 Units of Time and Duration | SkillrHub',
+    'AC9M3M04': 'Year 3 Telling Time to the Nearest Minute | SkillrHub',
+    'AC9M4N02': 'Year 4 Odd and Even Numbers | SkillrHub',
+    'AC9M5A01': 'Year 5 Multiplication & Division Fact Families | SkillrHub',
     'AC9M5N07': 'Year 5 Division & Remainders | Practice & Worksheets | AC9M5N07',
 }
 
@@ -28,6 +31,9 @@ REVIEWED_DESCRIPTIONS = {
     'AC9M1SP02': 'Learn Year 1 position and direction with explanations, worked examples and online practice. Free sample worksheets on TpT; complete paid packs are optional.',
     'AC9M2N02': 'Learn Year 2 partitioning and place value with explanations, worked examples and online practice. Free sample worksheets on TpT; complete paid packs are optional.',
     'AC9M2SP02': 'Learn Year 2 maps and plans with explanations, worked examples and online practice. Free sample worksheets on TpT; complete paid packs are optional.',
+    'AC9M3M03': 'Year 3 units of time and duration: convert seconds, minutes and hours, estimate everyday activities and compare times with worked examples | AC9M3M03.',
+    'AC9M3M04': 'Year 3 telling time to the nearest minute: read analogue clock hands, count minute marks and practise digital times. Free lesson and practice | AC9M3M04.',
+    'AC9M4N02': 'Year 4 odd and even numbers: explain parity with pairs, predict odd/even results for addition and multiplication, and practise patterns | AC9M4N02.',
     'AC9M5A01': 'Learn Year 5 multiplication and division fact families with worked examples and online practice. Explore optional paid worksheets and a free TpT sample.',
     'AC9M5N07': 'Learn Year 5 division and remainders with worked examples and online practice. Explore optional paid worksheets, teaching slides and a bundle.',
 }
