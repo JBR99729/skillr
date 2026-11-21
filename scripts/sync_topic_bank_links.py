@@ -51,9 +51,11 @@ def rewrite(source,code,bank):
  subject={'M':'maths','E':'english','S':'science'}[match[1]]
  published=bool(bank and bank.get('practice'))
  entry='try' if not published or bank.get('guestPractice') else 'login'
+ starter=published and entry=='try' and code=='AC9M3M04'
  params={entry:'1'}
  if published:params['skill']=code
  else:params.update(year=year,subject=subject)
+ if starter:params['starter']='5'
  canonical=re.search(r'<link\b[^>]*rel=["\']canonical["\'][^>]*href=["\']([^"\']+)',source,re.I)
  if canonical:params['returnTo']=html.unescape(canonical[1])
  target='https://app.skillrhub.com/?'+urlencode(params)
@@ -63,7 +65,7 @@ def rewrite(source,code,bank):
  placement='lesson_bar' if bar else 'floating_button'
  year_label='Foundation' if year=='0' else 'Year '+year
  note='' if published else '<small>Choose available '+year_label+' '+subject.title()+' practice</small>'
- label='Practise this on the app →'
+ label='Try 5 questions · No account needed' if starter else 'Practise this on the app →'
  link=f'<a id="skillr-topic-practice-now" class="{css_class}" data-topic-app-link data-skillr-app-cta data-floating-practice="{code}" data-practice-placement="{placement}" data-funnel-location="{placement}" data-curriculum-code="{code}" data-curriculum-subject="{subject}" data-practice-availability="{"published" if published else "catalogue"}" href="{html.escape(target,quote=True)}"><span>{label}</span>{note}</a>'
  if bar:out=out[:bar.end()]+link+out[bar.end():]
  else:
