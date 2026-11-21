@@ -50,6 +50,10 @@ export function validateTopicActivities(html, code, root = process.cwd()) {
       if (!canonical || url.searchParams.getAll('returnTo').length !== 1 || url.searchParams.get('returnTo') !== canonical) return false;
       url.searchParams.delete('returnTo');
     }
+    if (url.searchParams.has('starter')) {
+      if (code !== 'AC9M3M04' || !bank?.guestPractice || url.searchParams.getAll('starter').join(',') !== '5') return false;
+      url.searchParams.delete('starter');
+    }
     return url.href === expected;
   };
   if (bank?.practice && !links.some(matchingPractice)) errors.push(`${code}: missing published app practice link ${expected}`);

@@ -12,6 +12,7 @@ const fixtureRoot = fs.mkdtempSync(path.join(os.tmpdir(), 'skillr-navigation-'))
 fs.mkdirSync(path.join(fixtureRoot, 'data'));
 fs.writeFileSync(path.join(fixtureRoot, 'data/app-question-banks.json'), JSON.stringify({ codes: [
   { code, practice: true, assessment: true, guestPractice: true },
+  { code: 'AC9M3M04', practice: true, assessment: true, guestPractice: true },
   { code: 'AC9M1N02', practice: true, assessment: true, guestPractice: false },
   { code: 'AC9MFN02', practice: false, assessment: false, guestPractice: false },
 ] }));
@@ -52,4 +53,13 @@ test('retired launches keep both HTML and script redirects aligned and cannot re
     html.replace('location.replace(', 'location.assign('),
     html.replace('</body>', '<script src="/quiz/assets/script.js"></script></body>'),
   ]) assert.ok(retired(invalid, code).length);
+});
+
+test('the five-question guest route is only valid for telling time', () => {
+  const base = practice.replace(code, 'AC9M3M04');
+  const pilot = base.replace('AC9M3M04"', 'AC9M3M04&amp;starter=5"');
+  assert.deepEqual(topic(pilot, 'AC9M3M04'), []);
+  assert.ok(topic(pilot.replace('starter=5', 'starter=6'), 'AC9M3M04').length);
+  assert.ok(topic(pilot.replace('starter=5', 'starter=5&amp;starter=5'), 'AC9M3M04').length);
+  assert.ok(topic(pilot.replace('AC9M3M04', code), code).length);
 });
