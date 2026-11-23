@@ -30,7 +30,7 @@ Executed:
 - `node scripts/validate_f10_topic_layout_contract.mjs`: pass.
 - `git diff --check`: pass.
 
-The global resource-copy normalizer also reports pre-existing findings outside the selected pages. These are compared against unchanged main rather than silently fixed in this regional metadata patch. Main's existing scheduled discovery audit already failed before this change: run `45045518354`, job `137279161430`, reports 676 pending discovery rewrites. This change does not certify those unrelated findings or claim a fully green baseline.
+The global resource-copy normalizer initially reported 37 pre-existing findings outside the selected pages, verified against unchanged main. Exact-head CI identified one of those as a normalizer bug: it incorrectly rewrote the homepage label `See free worksheet samples on TpT` as a paid-resource claim, despite its verified free-directory destination. The guard now preserves that exact existing label; the homepage is unchanged and the existing free-sample regression test covers it. The remaining unrelated findings are not silently rewritten or certified as fixed. Main's existing scheduled discovery audit already failed before this change: run `45045518354`, job `137279161430`, reports 676 pending discovery rewrites. This change does not certify those unrelated findings or claim a fully green baseline.
 
 Release integrity, exact-head CI and Pages/live delivery evidence are recorded in the pull request after publication. A commit or merge alone is not a deployment check. No question banks, teacher slides, authentication or progress code changed; no new teacher recertification or browser interaction audit is claimed.
 
