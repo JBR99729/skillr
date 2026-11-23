@@ -18,14 +18,16 @@ function element() {
     value: '', hidden: true, children: [], dataset: {}, classList: { add() {} },
     listeners: {},
     addEventListener(type, listener) { this.listeners[type] = listener; },
-    append(...children) { this.children.push(...children); },
+    append(...children) { this.children.push(...children.flatMap(child => child.isFragment ? child.children : [child])); },
     replaceChildren() { this.children = []; },
     setAttribute() {},
+    focus() { this.focused = true; },
     get lastElementChild() { return this.children.at(-1); },
   };
 }
 
-async function search(query, data = catalogue) {
+async function setup(query, data = catalogue) {
+  const settle = () => new Promise(resolve => setImmediate(resolve));
   const elements = new Map();
   const find = id => {
     if (!elements.has(id)) elements.set(id, element());
@@ -35,19 +37,29 @@ async function search(query, data = catalogue) {
     document: {
       getElementById: () => ({ querySelector: find, querySelectorAll: () => [] }),
       createElement: element,
+      createDocumentFragment: () => Object.assign(element(), { isFragment: true }),
     },
     location: { search: query }, URL, URLSearchParams,
     fetch: async url => {
       const payload = data[url.split('?')[0]];
-      return { ok: Boolean(payload), json: async () => payload };
+      return { ok: Boolean(payload), json: async () => await payload };
     },
   });
-  await new Promise(resolve => setImmediate(resolve));
-  return find('#site-search-list').children.map(row => ({
-    guide: row.children[0].href,
+  await settle();
+  return {
+    find, settle,
+    rows: () => find('#site-search-list').children.map(row => ({
+    title: row.children[0].textContent, focused: row.children[0].focused,
+    guide: row.children[2].children.find(link => link.textContent === 'Read the guide')?.href,
     meta: row.children[1].textContent,
     actions: row.children[2].children.map(link => link.href),
-  }));
+    labels: row.children[2].children.map(link => link.textContent),
+    })),
+  };
+}
+
+async function search(query, data) {
+  return (await setup(query, data)).rows();
 }
 
 test('Year 1 Maths preset includes the published Numbers to 120 practice', async () => {
@@ -82,5 +94,51 @@ test('Unavailable banks and untrusted product URLs yield only a topic guide', as
     })),
   });
   assert.equal(rows.length, 1);
-  assert.deepEqual(rows[0].actions, []);
+  assert.deepEqual(rows[0].labels, ['Read the guide']);
+});
+
+
+test('Highlights direct fraction topics and expands all matching Year 4 results', async () => {
+  const view = await setup('?q=fractions&year=4');
+  const rows = view.rows();
+  assert.equal(rows.length, 8);
+  assert.deepEqual(new Set(rows.slice(0, 2).map(row => row.title)), new Set([
+    'Equivalent fractions and decimals', 'Count and locate fractions on number lines',
+  ]));
+  const fraction = rows.find(row => row.meta.endsWith('AC9M4N03'));
+  assert.deepEqual(fraction.labels.slice(0, 2), ['Practise online', 'Read the guide']);
+  assert.ok(fraction.labels.some(label => /^Printable .+ \(TpT, paid\)$/.test(label)));
+  const all = view.find('#site-search-show-all');
+  const count = Number(all.textContent.match(/\d+/)[0]);
+  assert.ok(count > 8);
+  all.listeners.click();
+  assert.equal(view.rows().length, count);
+  assert.equal(view.rows()[8].focused, true);
+  assert.equal(all.hidden, true);
+  assert.equal(view.find('#site-search-status').textContent, count + ' matching topics.');
+});
+
+test('Search submits an empty state and reports unmatched queries', async () => {
+  const view = await setup('');
+  view.find('#home-topic-search').listeners.submit({ preventDefault() {} });
+  assert.equal(view.find('#site-search-status').textContent, 'Enter a topic or choose a year or subject.');
+  view.find('#site-search-input').value = 'unfindabletopicxyz';
+  view.find('#site-search-input').listeners.input();
+  await view.settle();
+  assert.equal(view.find('#site-search-status').textContent, 'No matching topics. Try fewer words or a curriculum code.');
+  assert.equal(view.rows().length, 0);
+  assert.equal(view.find('#site-search-show-all').hidden, true);
+});
+
+test('Shows the verified practice and guide before the optional paid catalogue', async () => {
+  let finish;
+  const products = new Promise(resolve => { finish = resolve; });
+  const view = await setup('?q=AC9M4N03', { ...catalogue, '/data/print-and-go-products.json': products });
+  assert.equal(view.rows().length, 1);
+  assert.ok(view.rows()[0].actions.includes('https://app.skillrhub.com/?try=1&skill=AC9M4N03'));
+  assert.ok(view.rows()[0].labels.includes('Read the guide'));
+  assert.ok(!view.rows()[0].labels.some(label => label.includes('TpT')));
+  finish(catalogue['/data/print-and-go-products.json']);
+  await view.settle();
+  assert.ok(view.rows()[0].labels.some(label => label.includes('TpT')));
 });

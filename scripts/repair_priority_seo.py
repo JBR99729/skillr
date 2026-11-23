@@ -12,10 +12,9 @@ from urllib.parse import urlencode
 
 ROOT = Path(__file__).resolve().parents[1]
 ESC = html.escape
-ACCESS = ('Topic guides are free to read without an account. Guests can try 20 practice questions each day in supported banks. '
-          'Register and confirm your email for 500 free questions total across Maths, English and Science, including guest questions already used. '
-          'Some banks require a free account. See the app for current access options after the allowance. '
-          'Paid worksheet packs are optional, separate purchases on Teachers Pay Teachers.')
+ACCESS = ('Topic guides are free to read without an account. Try up to 20 questions a day as a guest, on supported skills. '
+          'Create a free parent account to save progress and see the practice options available to your family. No card needed. '
+          'Some skills require an account. Paid worksheet packs are optional, separate purchases on Teachers Pay Teachers.')
 
 
 def listing_body(row):
@@ -167,7 +166,6 @@ def main():
         source = re.sub(r'<!-- priority-access:start -->[\s\S]*?<!-- priority-access:end -->', '', source)
         source = source.replace('</main>', block + '</main>', 1)
         if name == 'index.html':
-            source = source.replace('500 free practice questions</strong>', '500 free practice questions total</strong>')
             source = source.replace('Free parent account</a> · No card needed', 'Free parent account</a> · No card needed · <a href="/faq.html#free-practice">Access details</a>')
             # Repeated maintenance must not duplicate the access link.
             source = source.replace(' · <a href="/faq.html#free-practice">Access details</a> · <a href="/faq.html#free-practice">Access details</a>', ' · <a href="/faq.html#free-practice">Access details</a>')
