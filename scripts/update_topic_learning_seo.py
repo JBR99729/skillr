@@ -11,6 +11,8 @@ STATE_TOPIC_SEO = {
     page['code']: page
     for page in json.loads((ROOT / 'data/state-topic-seo-20261123.json').read_text())['pages']
 }
+CCSS_EXPERIMENT = json.loads((ROOT / 'data/us-ccss-experiment-20261123.json').read_text())
+CCSS_TREATMENTS = {page['code']: page for page in CCSS_EXPERIMENT['treatments']}
 
 # Page-specific copy reviewed against Bing's reported >70-character title warning.
 # Preserve unrelated topic titles during this focused maintenance change.
@@ -49,6 +51,10 @@ def copy_for(source, unit, sample=False):
     regional = STATE_TOPIC_SEO.get(unit['code'])
     if regional:
         assert regional['path'] == unit['url'].strip('/') + '/index.html', unit['code']
+        if CCSS_EXPERIMENT['status'] == 'active' and unit['code'] in CCSS_TREATMENTS:
+            treatment = CCSS_TREATMENTS[unit['code']]
+            assert treatment['path'] == regional['path'], unit['code']
+            return regional['title'], treatment['description']
         return regional['title'], regional['description']
     old = html.unescape(re.search(r'<title>(.*?)</title>', source, re.S)[1])
     core = re.split(r'\s+\|\s+', old)[0]
