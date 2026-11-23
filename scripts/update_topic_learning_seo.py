@@ -7,6 +7,10 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
+STATE_TOPIC_SEO = {
+    page['code']: page
+    for page in json.loads((ROOT / 'data/state-topic-seo-20261123.json').read_text())['pages']
+}
 
 # Page-specific copy reviewed against Bing's reported >70-character title warning.
 # Preserve unrelated topic titles during this focused maintenance change.
@@ -40,6 +44,12 @@ REVIEWED_DESCRIPTIONS = {
 
 
 def copy_for(source, unit, sample=False):
+    # Preserve the owner's bounded NSW/Victoria search update during sample
+    # maintenance. These are curriculum references, not outcome-equivalence claims.
+    regional = STATE_TOPIC_SEO.get(unit['code'])
+    if regional:
+        assert regional['path'] == unit['url'].strip('/') + '/index.html', unit['code']
+        return regional['title'], regional['description']
     old = html.unescape(re.search(r'<title>(.*?)</title>', source, re.S)[1])
     core = re.split(r'\s+\|\s+', old)[0]
     suffix = 'Free Examples, Practice & Sample Worksheet' if sample else 'Free Examples & Practice'

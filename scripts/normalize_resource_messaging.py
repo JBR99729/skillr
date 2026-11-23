@@ -65,6 +65,7 @@ def wording(value):
         'Free TpT Samples & Paid Worksheets | SkillrHub',
         'Free TpT samples',
         'Try a free TpT sample',
+        'See free worksheet samples on TpT',
         'SkillrHub free TpT samples and paid worksheet packs',
         'Browse 67 free SkillrHub resources on Teachers Pay Teachers: printable worksheets, teaching slides and matching topic guides. Complete paid worksheet packs are optional.',
     }
