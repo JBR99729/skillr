@@ -1,0 +1,1756 @@
+{
+  "observed_on": "2026-11-23",
+  "source": "Bing Webmaster Tools authenticated cloud browser",
+  "site_scan": {
+    "id": "3ac46197-0541-411b-a629-4f6dd94b35a9",
+    "name": "app",
+    "property": "https://skillrhub.com/",
+    "ui_age": "Completed 22 days ago",
+    "pages_scanned": 1000,
+    "errors": 1,
+    "warnings": 88,
+    "notices": 5,
+    "remaining_scan_quota": 0
+  },
+  "long_title_urls": [
+    {
+      "url": "https://skillrhub.com/products/tpt-17901393/",
+      "path": "products/tpt-17901393/index.html",
+      "title": "Year 1 Rhyme & Alliteration Worksheets | AC9E1LE04 | SkillrHub",
+      "title_length": 62,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/tpt-17901393/",
+        "x_robots_tag": null,
+        "title": "Year 1 Rhyme & Alliteration Worksheets | AC9E1LE04 | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/tpt-17901544/",
+      "path": "products/tpt-17901544/index.html",
+      "title": "Year 1 Characters, Setting & Plot Worksheets | AC9E1LE03 | SkillrHub",
+      "title_length": 68,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/tpt-17901544/",
+        "x_robots_tag": null,
+        "title": "Year 1 Characters, Setting & Plot Worksheets | AC9E1LE03 | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/tpt-17902653/",
+      "path": "products/tpt-17902653/index.html",
+      "title": "Year 1 Text Purpose Worksheets | AC9E1LY01 | SkillrHub",
+      "title_length": 54,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/tpt-17902653/",
+        "x_robots_tag": null,
+        "title": "Year 1 Text Purpose Worksheets | AC9E1LY01 | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/tpt-17915056/",
+      "path": "products/tpt-17915056/index.html",
+      "title": "Year 1 Oral Presentations | AC9E1LY07 | SkillrHub",
+      "title_length": 49,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/tpt-17915056/",
+        "x_robots_tag": null,
+        "title": "Year 1 Oral Presentations | AC9E1LY07 | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/tpt-17915083/",
+      "path": "products/tpt-17915083/index.html",
+      "title": "Year 1 Handwriting Worksheets | AC9E1LY08 | SkillrHub",
+      "title_length": 53,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/tpt-17915083/",
+        "x_robots_tag": null,
+        "title": "Year 1 Handwriting Worksheets | AC9E1LY08 | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/tpt-17936226/",
+      "path": "products/tpt-17936226/index.html",
+      "title": "Subitizing to 5 Worksheets | AC9MFN02 | SkillrHub",
+      "title_length": 49,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/tpt-17936226/",
+        "x_robots_tag": null,
+        "title": "Subitizing to 5 Worksheets | AC9MFN02 | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/tpt-17943670/",
+      "path": "products/tpt-17943670/index.html",
+      "title": "Foundation Maths Numbers to 20 Worksheets & Test | SkillrHub",
+      "title_length": 60,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/tpt-17943670/",
+        "x_robots_tag": null,
+        "title": "Foundation Maths Numbers to 20 Worksheets & Test | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/tpt-17947772/",
+      "path": "products/tpt-17947772/index.html",
+      "title": "Foundation Number Worksheets & Tests Bundle | SkillrHub",
+      "title_length": 55,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/tpt-17947772/",
+        "x_robots_tag": null,
+        "title": "Foundation Number Worksheets & Tests Bundle | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/tpt-17953660/",
+      "path": "products/tpt-17953660/index.html",
+      "title": "Foundation Repeating Patterns Worksheets | AC9MFA01 | SkillrHub",
+      "title_length": 63,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/tpt-17953660/",
+        "x_robots_tag": null,
+        "title": "Foundation Repeating Patterns Worksheets | AC9MFA01 | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/tpt-17954204/",
+      "path": "products/tpt-17954204/index.html",
+      "title": "Kindergarten Measurement Worksheets | AC9MFM01 | SkillrHub",
+      "title_length": 58,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/tpt-17954204/",
+        "x_robots_tag": null,
+        "title": "Kindergarten Measurement Worksheets | AC9MFM01 | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/tpt-17955316/",
+      "path": "products/tpt-17955316/index.html",
+      "title": "Foundation Days & Time Worksheets AC9MFM02 | SkillrHub",
+      "title_length": 54,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/tpt-17955316/",
+        "x_robots_tag": null,
+        "title": "Foundation Days & Time Worksheets AC9MFM02 | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/tpt-17957150/",
+      "path": "products/tpt-17957150/index.html",
+      "title": "Foundation Data & Sorting Worksheets AC9MFST01 | SkillrHub",
+      "title_length": 58,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/tpt-17957150/",
+        "x_robots_tag": null,
+        "title": "Foundation Data & Sorting Worksheets AC9MFST01 | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/tpt-17957665/",
+      "path": "products/tpt-17957665/index.html",
+      "title": "Foundation Maths Unit 2 Worksheets Bundle | SkillrHub",
+      "title_length": 53,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/tpt-17957665/",
+        "x_robots_tag": null,
+        "title": "Foundation Maths Unit 2 Worksheets Bundle | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/tpt-17957691/",
+      "path": "products/tpt-17957691/index.html",
+      "title": "Foundation Maths Unit 3 Worksheets Bundle | SkillrHub",
+      "title_length": 53,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/tpt-17957691/",
+        "x_robots_tag": null,
+        "title": "Foundation Maths Unit 3 Worksheets Bundle | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/tpt-17957722/",
+      "path": "products/tpt-17957722/index.html",
+      "title": "Foundation Maths Unit 4 Worksheets Bundle | SkillrHub",
+      "title_length": 53,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/tpt-17957722/",
+        "x_robots_tag": null,
+        "title": "Foundation Maths Unit 4 Worksheets Bundle | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/tpt-17957743/",
+      "path": "products/tpt-17957743/index.html",
+      "title": "Foundation Maths Full Year Worksheets & Tests Bundle | SkillrHub",
+      "title_length": 64,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/tpt-17957743/",
+        "x_robots_tag": null,
+        "title": "Foundation Maths Full Year Worksheets & Tests Bundle | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/tpt-17959347/",
+      "path": "products/tpt-17959347/index.html",
+      "title": "Year 2 Place Value Teaching Slides | AC9M2N02 | SkillrHub",
+      "title_length": 57,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/tpt-17959347/",
+        "x_robots_tag": null,
+        "title": "Year 2 Place Value Teaching Slides | AC9M2N02 | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/tpt-17959670/",
+      "path": "products/tpt-17959670/index.html",
+      "title": "Year 2 Place Value Worksheets & Test AC9M2N02 | SkillrHub",
+      "title_length": 57,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/tpt-17959670/",
+        "x_robots_tag": null,
+        "title": "Year 2 Place Value Worksheets & Test AC9M2N02 | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-1-addition-subtraction-to-20/",
+      "path": "products/year-1-addition-subtraction-to-20/index.html",
+      "title": "Year 1 Maths: Addition & Subtraction to 20 Worksheets | SkillrHub",
+      "title_length": 65,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-1-addition-subtraction-to-20/",
+        "x_robots_tag": null,
+        "title": "Year 1 Maths: Addition & Subtraction to 20 Worksheets | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-1-biological-sciences-free/",
+      "path": "products/year-1-biological-sciences-free/index.html",
+      "title": "FREE Year 1 Living Things Unit | SkillrHub",
+      "title_length": 42,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-1-biological-sciences-free/",
+        "x_robots_tag": null,
+        "title": "FREE Year 1 Living Things Unit | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-1-collecting-recording-data/",
+      "path": "products/year-1-collecting-recording-data/index.html",
+      "title": "Year 1 Maths Collecting Data Worksheets | AC9M1ST01 | SkillrHub",
+      "title_length": 63,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-1-collecting-recording-data/",
+        "x_robots_tag": null,
+        "title": "Year 1 Maths Collecting Data Worksheets | AC9M1ST01 | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-1-comparing-measurements/",
+      "path": "products/year-1-comparing-measurements/index.html",
+      "title": "Year 1 Maths Comparing Measures Worksheets | AC9M1M01 | SkillrHub",
+      "title_length": 65,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-1-comparing-measurements/",
+        "x_robots_tag": null,
+        "title": "Year 1 Maths Comparing Measures Worksheets | AC9M1M01 | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-1-english-likes-dislikes-preferences-worksheets/",
+      "path": "products/year-1-english-likes-dislikes-preferences-worksheets/index.html",
+      "title": "Year 1 English Preferences & Reasons Worksheets | SkillrHub",
+      "title_length": 59,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-1-english-likes-dislikes-preferences-worksheets/",
+        "x_robots_tag": null,
+        "title": "Year 1 English Preferences & Reasons Worksheets | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-1-english-words-faces-gestures-worksheets/",
+      "path": "products/year-1-english-words-faces-gestures-worksheets/index.html",
+      "title": "Year 1 English Words, Faces & Gestures Worksheets | SkillrHub",
+      "title_length": 61,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-1-english-words-faces-gestures-worksheets/",
+        "x_robots_tag": null,
+        "title": "Year 1 English Words, Faces & Gestures Worksheets | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-1-equal-groups-skip-counting/",
+      "path": "products/year-1-equal-groups-skip-counting/index.html",
+      "title": "Year 1 Maths: Equal Groups & Skip Counting Worksheets | SkillrHub",
+      "title_length": 65,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-1-equal-groups-skip-counting/",
+        "x_robots_tag": null,
+        "title": "Year 1 Maths: Equal Groups & Skip Counting Worksheets | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-1-equal-sharing-grouping/",
+      "path": "products/year-1-equal-sharing-grouping/index.html",
+      "title": "Year 1 Maths: Equal Sharing & Grouping Worksheets & Test | SkillrHub",
+      "title_length": 68,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-1-equal-sharing-grouping/",
+        "x_robots_tag": null,
+        "title": "Year 1 Maths: Equal Sharing & Grouping Worksheets & Test | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-1-give-follow-directions/",
+      "path": "products/year-1-give-follow-directions/index.html",
+      "title": "Year 1 Maths Directions Worksheets | AC9M1SP02 | SkillrHub",
+      "title_length": 58,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-1-give-follow-directions/",
+        "x_robots_tag": null,
+        "title": "Year 1 Maths Directions Worksheets | AC9M1SP02 | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-1-maths-algebra-worksheet-bundle/",
+      "path": "products/year-1-maths-algebra-worksheet-bundle/index.html",
+      "title": "Year 1 Maths Algebra Worksheets Bundle | AC9M1A01–A02 | SkillrHub",
+      "title_length": 65,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-1-maths-algebra-worksheet-bundle/",
+        "x_robots_tag": null,
+        "title": "Year 1 Maths Algebra Worksheets Bundle | AC9M1A01–A02 | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-1-maths-full-year-worksheet-bundle/",
+      "path": "products/year-1-maths-full-year-worksheet-bundle/index.html",
+      "title": "Year 1 Maths Full Year Worksheets & Tests Bundle | SkillrHub",
+      "title_length": 60,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-1-maths-full-year-worksheet-bundle/",
+        "x_robots_tag": null,
+        "title": "Year 1 Maths Full Year Worksheets & Tests Bundle | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-1-maths-measurement-worksheet-bundle/",
+      "path": "products/year-1-maths-measurement-worksheet-bundle/index.html",
+      "title": "Year 1 Maths Measurement Bundle | AC9M1M01–M03 | SkillrHub",
+      "title_length": 58,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-1-maths-measurement-worksheet-bundle/",
+        "x_robots_tag": null,
+        "title": "Year 1 Maths Measurement Bundle | AC9M1M01–M03 | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-1-maths-number-worksheet-bundle/",
+      "path": "products/year-1-maths-number-worksheet-bundle/index.html",
+      "title": "Year 1 Maths Number Worksheets Bundle | AC9M1N01–N06 | SkillrHub",
+      "title_length": 64,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-1-maths-number-worksheet-bundle/",
+        "x_robots_tag": null,
+        "title": "Year 1 Maths Number Worksheets Bundle | AC9M1N01–N06 | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-1-maths-practice-assessment/",
+      "path": "products/year-1-maths-practice-assessment/index.html",
+      "title": "Year 1 Maths Assessment & Practice Pack | SkillrHub",
+      "title_length": 51,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-1-maths-practice-assessment/",
+        "x_robots_tag": null,
+        "title": "Year 1 Maths Assessment & Practice Pack | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-1-maths-space-worksheet-bundle/",
+      "path": "products/year-1-maths-space-worksheet-bundle/index.html",
+      "title": "Year 1 Maths Space Worksheets Bundle | AC9M1SP01–SP02 | SkillrHub",
+      "title_length": 65,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-1-maths-space-worksheet-bundle/",
+        "x_robots_tag": null,
+        "title": "Year 1 Maths Space Worksheets Bundle | AC9M1SP01–SP02 | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-1-maths-statistics-worksheet-bundle/",
+      "path": "products/year-1-maths-statistics-worksheet-bundle/index.html",
+      "title": "Year 1 Maths Statistics Bundle | AC9M1ST01–ST02 | SkillrHub",
+      "title_length": 59,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-1-maths-statistics-worksheet-bundle/",
+        "x_robots_tag": null,
+        "title": "Year 1 Maths Statistics Bundle | AC9M1ST01–ST02 | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-1-maths-term-1-worksheet-bundle/",
+      "path": "products/year-1-maths-term-1-worksheet-bundle/index.html",
+      "title": "Year 1 Maths Term 1 Worksheets Bundle | SkillrHub",
+      "title_length": 49,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-1-maths-term-1-worksheet-bundle/",
+        "x_robots_tag": null,
+        "title": "Year 1 Maths Term 1 Worksheets Bundle | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-1-maths-term-2-worksheet-bundle/",
+      "path": "products/year-1-maths-term-2-worksheet-bundle/index.html",
+      "title": "Year 1 Maths Term 2 Bundle | SkillrHub",
+      "title_length": 38,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-1-maths-term-2-worksheet-bundle/",
+        "x_robots_tag": null,
+        "title": "Year 1 Maths Term 2 Bundle | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-1-maths-term-3-worksheet-bundle/",
+      "path": "products/year-1-maths-term-3-worksheet-bundle/index.html",
+      "title": "Year 1 Maths Term 3 Bundle | SkillrHub",
+      "title_length": 38,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-1-maths-term-3-worksheet-bundle/",
+        "x_robots_tag": null,
+        "title": "Year 1 Maths Term 3 Bundle | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-1-maths-term-4-worksheet-bundle/",
+      "path": "products/year-1-maths-term-4-worksheet-bundle/index.html",
+      "title": "Year 1 Maths Term 4 Worksheets Bundle | SkillrHub",
+      "title_length": 49,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-1-maths-term-4-worksheet-bundle/",
+        "x_robots_tag": null,
+        "title": "Year 1 Maths Term 4 Worksheets Bundle | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-1-measuring-length/",
+      "path": "products/year-1-measuring-length/index.html",
+      "title": "Year 1 Maths Measuring Length Worksheets | AC9M1M02 | SkillrHub",
+      "title_length": 63,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-1-measuring-length/",
+        "x_robots_tag": null,
+        "title": "Year 1 Maths Measuring Length Worksheets | AC9M1M02 | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-1-observations-informal-measurement-worksheets/",
+      "path": "products/year-1-observations-informal-measurement-worksheets/index.html",
+      "title": "Year 1 Science Observations & Measuring Worksheets | SkillrHub",
+      "title_length": 62,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-1-observations-informal-measurement-worksheets/",
+        "x_robots_tag": null,
+        "title": "Year 1 Science Observations & Measuring Worksheets | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-1-pictographs-data-displays/",
+      "path": "products/year-1-pictographs-data-displays/index.html",
+      "title": "Year 1 Maths Pictographs Worksheets | AC9M1ST02 | SkillrHub",
+      "title_length": 59,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-1-pictographs-data-displays/",
+        "x_robots_tag": null,
+        "title": "Year 1 Maths Pictographs Worksheets | AC9M1ST02 | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-1-place-value-number-partitioning/",
+      "path": "products/year-1-place-value-number-partitioning/index.html",
+      "title": "Year 1 Place Value & Number Partitioning Worksheets | SkillrHub",
+      "title_length": 63,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-1-place-value-number-partitioning/",
+        "x_robots_tag": null,
+        "title": "Year 1 Place Value & Number Partitioning Worksheets | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-1-plants-animals-needs/",
+      "path": "products/year-1-plants-animals-needs/index.html",
+      "title": "Year 1 Science Plant & Animal Needs Worksheets | AC9S1U01 | SkillrHub",
+      "title_length": 69,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-1-plants-animals-needs/",
+        "x_robots_tag": null,
+        "title": "Year 1 Science Plant & Animal Needs Worksheets | AC9S1U01 | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-1-pushes-pulls-worksheets/",
+      "path": "products/year-1-pushes-pulls-worksheets/index.html",
+      "title": "Year 1 Science Pushes & Pulls Worksheets | AC9S1U03 | SkillrHub",
+      "title_length": 63,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-1-pushes-pulls-worksheets/",
+        "x_robots_tag": null,
+        "title": "Year 1 Science Pushes & Pulls Worksheets | AC9S1U03 | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-1-repeating-patterns/",
+      "path": "products/year-1-repeating-patterns/index.html",
+      "title": "Year 1 Maths Repeating Patterns Worksheets | AC9M1A02 | SkillrHub",
+      "title_length": 65,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-1-repeating-patterns/",
+        "x_robots_tag": null,
+        "title": "Year 1 Maths Repeating Patterns Worksheets | AC9M1A02 | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-1-safe-science-investigations-worksheets/",
+      "path": "products/year-1-safe-science-investigations-worksheets/index.html",
+      "title": "Year 1 Science Safe Investigations Worksheets | AC9S1I02 | SkillrHub",
+      "title_length": 68,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-1-safe-science-investigations-worksheets/",
+        "x_robots_tag": null,
+        "title": "Year 1 Science Safe Investigations Worksheets | AC9S1I02 | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-1-science-data-patterns-worksheets/",
+      "path": "products/year-1-science-data-patterns-worksheets/index.html",
+      "title": "Year 1 Science Data & Patterns Worksheets | AC9S1I04 | SkillrHub",
+      "title_length": 64,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-1-science-data-patterns-worksheets/",
+        "x_robots_tag": null,
+        "title": "Year 1 Science Data & Patterns Worksheets | AC9S1I04 | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-1-science-earth-space/",
+      "path": "products/year-1-science-earth-space/index.html",
+      "title": "Year 1 Weather & Seasons Unit | SkillrHub",
+      "title_length": 41,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-1-science-earth-space/",
+        "x_robots_tag": null,
+        "title": "Year 1 Weather & Seasons Unit | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-1-science-everyday-life-worksheets/",
+      "path": "products/year-1-science-everyday-life-worksheets/index.html",
+      "title": "Year 1 Everyday Science Worksheets | AC9S1H01 | SkillrHub",
+      "title_length": 57,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-1-science-everyday-life-worksheets/",
+        "x_robots_tag": null,
+        "title": "Year 1 Everyday Science Worksheets | AC9S1H01 | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-1-science-fair-tests-comparing-results-worksheets/",
+      "path": "products/year-1-science-fair-tests-comparing-results-worksheets/index.html",
+      "title": "Year 1 Science Fair Tests & Results Worksheets | AC9S1I05 | SkillrHub",
+      "title_length": 69,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-1-science-fair-tests-comparing-results-worksheets/",
+        "x_robots_tag": null,
+        "title": "Year 1 Science Fair Tests & Results Worksheets | AC9S1I05 | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-1-science-human-endeavour/",
+      "path": "products/year-1-science-human-endeavour/index.html",
+      "title": "Year 1 Science in Everyday Life Unit | SkillrHub",
+      "title_length": 48,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-1-science-human-endeavour/",
+        "x_robots_tag": null,
+        "title": "Year 1 Science in Everyday Life Unit | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-1-science-inquiry-part-1/",
+      "path": "products/year-1-science-inquiry-part-1/index.html",
+      "title": "Year 1 Science Inquiry Skills Part 1 | SkillrHub",
+      "title_length": 48,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-1-science-inquiry-part-1/",
+        "x_robots_tag": null,
+        "title": "Year 1 Science Inquiry Skills Part 1 | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-1-science-inquiry-part-2/",
+      "path": "products/year-1-science-inquiry-part-2/index.html",
+      "title": "Year 1 Science Inquiry Skills Part 2 | SkillrHub",
+      "title_length": 48,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-1-science-inquiry-part-2/",
+        "x_robots_tag": null,
+        "title": "Year 1 Science Inquiry Skills Part 2 | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-1-science-physical/",
+      "path": "products/year-1-science-physical/index.html",
+      "title": "Year 1 Pushes & Pulls Unit | SkillrHub",
+      "title_length": 38,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-1-science-physical/",
+        "x_robots_tag": null,
+        "title": "Year 1 Pushes & Pulls Unit | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-1-science-questions-predictions-worksheets/",
+      "path": "products/year-1-science-questions-predictions-worksheets/index.html",
+      "title": "Year 1 Science Questions & Predictions Worksheets | SkillrHub",
+      "title_length": 61,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-1-science-questions-predictions-worksheets/",
+        "x_robots_tag": null,
+        "title": "Year 1 Science Questions & Predictions Worksheets | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-1-shapes-objects/",
+      "path": "products/year-1-shapes-objects/index.html",
+      "title": "Year 1 Maths Shapes & Objects Worksheets | AC9M1SP01 | SkillrHub",
+      "title_length": 64,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-1-shapes-objects/",
+        "x_robots_tag": null,
+        "title": "Year 1 Maths Shapes & Objects Worksheets | AC9M1SP01 | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-1-skip-counting-patterns/",
+      "path": "products/year-1-skip-counting-patterns/index.html",
+      "title": "Year 1 Maths Skip Counting Worksheets | AC9M1A01 | SkillrHub",
+      "title_length": 60,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-1-skip-counting-patterns/",
+        "x_robots_tag": null,
+        "title": "Year 1 Maths Skip Counting Worksheets | AC9M1A01 | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-1-time-duration/",
+      "path": "products/year-1-time-duration/index.html",
+      "title": "Year 1 Maths Time & Duration Worksheets | AC9M1M03 | SkillrHub",
+      "title_length": 62,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-1-time-duration/",
+        "x_robots_tag": null,
+        "title": "Year 1 Maths Time & Duration Worksheets | AC9M1M03 | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-1-weather-seasons-worksheets/",
+      "path": "products/year-1-weather-seasons-worksheets/index.html",
+      "title": "Year 1 Science Weather & Seasons Worksheets | AC9S1U02 | SkillrHub",
+      "title_length": 66,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-1-weather-seasons-worksheets/",
+        "x_robots_tag": null,
+        "title": "Year 1 Science Weather & Seasons Worksheets | AC9S1U02 | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-1-word-problems-money/",
+      "path": "products/year-1-word-problems-money/index.html",
+      "title": "Year 1 Maths: Word Problems & Money Worksheets & Test | SkillrHub",
+      "title_length": 65,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-1-word-problems-money/",
+        "x_robots_tag": null,
+        "title": "Year 1 Maths: Word Problems & Money Worksheets & Test | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-2-numbers-1000-free/",
+      "path": "products/year-2-numbers-1000-free/index.html",
+      "title": "FREE Year 2 Place Value Lesson & Worksheets | AC9M2N01 | SkillrHub",
+      "title_length": 66,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-2-numbers-1000-free/",
+        "x_robots_tag": null,
+        "title": "FREE Year 2 Place Value Lesson & Worksheets | AC9M2N01 | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-3-telling-time-free/",
+      "path": "products/year-3-telling-time-free/index.html",
+      "title": "FREE Year 3 Telling Time Worksheets | AC9M3M04 | SkillrHub",
+      "title_length": 58,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-3-telling-time-free/",
+        "x_robots_tag": null,
+        "title": "FREE Year 3 Telling Time Worksheets | AC9M3M04 | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-3-time-slides-60/",
+      "path": "products/year-3-time-slides-60/index.html",
+      "title": "Year 3 Telling Time Teaching Slides | SkillrHub",
+      "title_length": 47,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-3-time-slides-60/",
+        "x_robots_tag": null,
+        "title": "Year 3 Telling Time Teaching Slides | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-3-time-slides-sample/",
+      "path": "products/year-3-time-slides-sample/index.html",
+      "title": "FREE Year 3 Time Teaching Slides Sample | SkillrHub",
+      "title_length": 51,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-3-time-slides-sample/",
+        "x_robots_tag": null,
+        "title": "FREE Year 3 Time Teaching Slides Sample | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-3-time-slides/",
+      "path": "products/year-3-time-slides/index.html",
+      "title": "Year 3 Telling Time Lesson Slides | AC9M3M04 | SkillrHub",
+      "title_length": 56,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-3-time-slides/",
+        "x_robots_tag": null,
+        "title": "Year 3 Telling Time Lesson Slides | AC9M3M04 | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-4-fractions-free/",
+      "path": "products/year-4-fractions-free/index.html",
+      "title": "FREE Year 4 Fractions Worksheets | SkillrHub",
+      "title_length": 44,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-4-fractions-free/",
+        "x_robots_tag": null,
+        "title": "FREE Year 4 Fractions Worksheets | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-5-decimals-free/",
+      "path": "products/year-5-decimals-free/index.html",
+      "title": "FREE Year 5 Decimals Worksheets | AC9M5N01 | VIC VC2M5N01 | SkillrHub",
+      "title_length": 69,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-5-decimals-free/",
+        "x_robots_tag": null,
+        "title": "FREE Year 5 Decimals Worksheets | AC9M5N01 | VIC VC2M5N01 | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/products/year-5-decimals-teaching-worksheet-pack/",
+      "path": "products/year-5-decimals-teaching-worksheet-pack/index.html",
+      "title": "Year 5 Decimals Slides & Worksheets | AC9M5N01 | SkillrHub",
+      "title_length": 58,
+      "noindex": false,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/products/year-5-decimals-teaching-worksheet-pack/",
+        "x_robots_tag": null,
+        "title": "Year 5 Decimals Slides & Worksheets | AC9M5N01 | SkillrHub",
+        "noindex": false,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/quiz/year-1/english/ac9e1la01/worksheet/",
+      "path": "quiz/year-1/english/ac9e1la01/worksheet/index.html",
+      "title": "AC9E1LA01 Reviewed Reviewed Language, Faces and Gestures Worksheet | SkillrHub",
+      "title_length": 78,
+      "noindex": true,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/quiz/year-1/english/ac9e1la01/worksheet/",
+        "x_robots_tag": null,
+        "title": "AC9E1LA01 Reviewed Reviewed Language, Faces and Gestures Worksheet | SkillrHub",
+        "noindex": true,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/quiz/year-1/english/ac9e1la02/worksheet/",
+      "path": "quiz/year-1/english/ac9e1la02/worksheet/index.html",
+      "title": "AC9E1LA02 Reviewed Reviewed Reasons for Likes and Preferences Worksheet | SkillrHub",
+      "title_length": 83,
+      "noindex": true,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/quiz/year-1/english/ac9e1la02/worksheet/",
+        "x_robots_tag": null,
+        "title": "AC9E1LA02 Reviewed Reviewed Reasons for Likes and Preferences Worksheet | SkillrHub",
+        "noindex": true,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/quiz/year-1/english/ac9e1la03/worksheet/",
+      "path": "quiz/year-1/english/ac9e1la03/worksheet/index.html",
+      "title": "AC9E1LA03 Reviewed Reviewed Text Purpose and Organisation Worksheet | SkillrHub",
+      "title_length": 79,
+      "noindex": true,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/quiz/year-1/english/ac9e1la03/worksheet/",
+        "x_robots_tag": null,
+        "title": "AC9E1LA03 Reviewed Reviewed Text Purpose and Organisation Worksheet | SkillrHub",
+        "noindex": true,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/quiz/year-1/english/ac9e1la04/worksheet/",
+      "path": "quiz/year-1/english/ac9e1la04/worksheet/index.html",
+      "title": "AC9E1LA04 Reviewed Reviewed Repetition, Rhyme and Rhythm Worksheet | SkillrHub",
+      "title_length": 78,
+      "noindex": true,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/quiz/year-1/english/ac9e1la04/worksheet/",
+        "x_robots_tag": null,
+        "title": "AC9E1LA04 Reviewed Reviewed Repetition, Rhyme and Rhythm Worksheet | SkillrHub",
+        "noindex": true,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/quiz/year-1/english/ac9e1la05/worksheet/",
+      "path": "quiz/year-1/english/ac9e1la05/worksheet/index.html",
+      "title": "AC9E1LA05 Reviewed Reviewed Print and Screen Text Features Worksheet | SkillrHub",
+      "title_length": 80,
+      "noindex": true,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/quiz/year-1/english/ac9e1la05/worksheet/",
+        "x_robots_tag": null,
+        "title": "AC9E1LA05 Reviewed Reviewed Print and Screen Text Features Worksheet | SkillrHub",
+        "noindex": true,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/quiz/year-1/english/ac9e1la10/worksheet/",
+      "path": "quiz/year-1/english/ac9e1la10/worksheet/index.html",
+      "title": "AC9E1LA10 Reviewed Punctuation and Capital Letters Worksheet | SkillrHub",
+      "title_length": 72,
+      "noindex": true,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/quiz/year-1/english/ac9e1la10/worksheet/",
+        "x_robots_tag": null,
+        "title": "AC9E1LA10 Reviewed Punctuation and Capital Letters Worksheet | SkillrHub",
+        "noindex": true,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/quiz/year-1/english/ac9e1le01/worksheet/",
+      "path": "quiz/year-1/english/ac9e1le01/worksheet/index.html",
+      "title": "AC9E1LE01 Reviewed Creating Characters, Settings and Events Worksheet | SkillrHub",
+      "title_length": 81,
+      "noindex": true,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/quiz/year-1/english/ac9e1le01/worksheet/",
+        "x_robots_tag": null,
+        "title": "AC9E1LE01 Reviewed Creating Characters, Settings and Events Worksheet | SkillrHub",
+        "noindex": true,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/quiz/year-1/english/ac9e1le02/worksheet/",
+      "path": "quiz/year-1/english/ac9e1le02/worksheet/index.html",
+      "title": "AC9E1LE02 Reviewed Personal Connections to Literature Worksheet | SkillrHub",
+      "title_length": 75,
+      "noindex": true,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/quiz/year-1/english/ac9e1le02/worksheet/",
+        "x_robots_tag": null,
+        "title": "AC9E1LE02 Reviewed Personal Connections to Literature Worksheet | SkillrHub",
+        "noindex": true,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/quiz/year-1/english/ac9e1le04/worksheet/",
+      "path": "quiz/year-1/english/ac9e1le04/worksheet/index.html",
+      "title": "AC9E1LE04 Reviewed Poems, Chants, Rhymes and Songs Worksheet | SkillrHub",
+      "title_length": 72,
+      "noindex": true,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/quiz/year-1/english/ac9e1le04/worksheet/",
+        "x_robots_tag": null,
+        "title": "AC9E1LE04 Reviewed Poems, Chants, Rhymes and Songs Worksheet | SkillrHub",
+        "noindex": true,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/quiz/year-1/english/ac9e1ly02/worksheet/",
+      "path": "quiz/year-1/english/ac9e1ly02/worksheet/index.html",
+      "title": "AC9E1LY02 Reviewed Turn-Taking and Active Listening Worksheet | SkillrHub",
+      "title_length": 73,
+      "noindex": true,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/quiz/year-1/english/ac9e1ly02/worksheet/",
+        "x_robots_tag": null,
+        "title": "AC9E1LY02 Reviewed Turn-Taking and Active Listening Worksheet | SkillrHub",
+        "noindex": true,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/quiz/year-1/english/ac9e1ly03/worksheet/",
+      "path": "quiz/year-1/english/ac9e1ly03/worksheet/index.html",
+      "title": "AC9E1LY03 Reviewed Imaginative, Informative and Persuasive Texts Worksheet | SkillrHub",
+      "title_length": 86,
+      "noindex": true,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/quiz/year-1/english/ac9e1ly03/worksheet/",
+        "x_robots_tag": null,
+        "title": "AC9E1LY03 Reviewed Imaginative, Informative and Persuasive Texts Worksheet | SkillrHub",
+        "noindex": true,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/quiz/year-1/english/ac9e1ly04/worksheet/",
+      "path": "quiz/year-1/english/ac9e1ly04/worksheet/index.html",
+      "title": "AC9E1LY04 Reviewed Reading with Phonics, Phrasing and Meaning Worksheet | SkillrHub",
+      "title_length": 83,
+      "noindex": true,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/quiz/year-1/english/ac9e1ly04/worksheet/",
+        "x_robots_tag": null,
+        "title": "AC9E1LY04 Reviewed Reading with Phonics, Phrasing and Meaning Worksheet | SkillrHub",
+        "noindex": true,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/quiz/year-1/english/ac9e1ly08/worksheet/",
+      "path": "quiz/year-1/english/ac9e1ly08/worksheet/index.html",
+      "title": "AC9E1LY08 Reviewed Write Words with Upper- and Lower-Case Letters Worksheet | SkillrHub",
+      "title_length": 87,
+      "noindex": true,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/quiz/year-1/english/ac9e1ly08/worksheet/",
+        "x_robots_tag": null,
+        "title": "AC9E1LY08 Reviewed Write Words with Upper- and Lower-Case Letters Worksheet | SkillrHub",
+        "noindex": true,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/quiz/year-1/english/ac9e1ly11/worksheet/",
+      "path": "quiz/year-1/english/ac9e1ly11/worksheet/index.html",
+      "title": "AC9E1LY11 Reviewed Short Vowels, Long Vowels, Blends and Digraphs Worksheet | SkillrHub",
+      "title_length": 87,
+      "noindex": true,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/quiz/year-1/english/ac9e1ly11/worksheet/",
+        "x_robots_tag": null,
+        "title": "AC9E1LY11 Reviewed Short Vowels, Long Vowels, Blends and Digraphs Worksheet | SkillrHub",
+        "noindex": true,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/quiz/year-1/english/ac9e1ly13/worksheet/",
+      "path": "quiz/year-1/english/ac9e1ly13/worksheet/index.html",
+      "title": "AC9E1LY13 Reviewed Spell Words with Common Letter Patterns Worksheet | SkillrHub",
+      "title_length": 80,
+      "noindex": true,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/quiz/year-1/english/ac9e1ly13/worksheet/",
+        "x_robots_tag": null,
+        "title": "AC9E1LY13 Reviewed Spell Words with Common Letter Patterns Worksheet | SkillrHub",
+        "noindex": true,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/quiz/year-4/math/ac9m4a02/worksheet/",
+      "path": "quiz/year-4/math/ac9m4a02/worksheet/index.html",
+      "title": "AC9M4A02 Multiplication Facts to 10 × 10 and Derived Strategies Worksheet | SkillrHub",
+      "title_length": 85,
+      "noindex": true,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/quiz/year-4/math/ac9m4a02/worksheet/",
+        "x_robots_tag": null,
+        "title": "AC9M4A02 Multiplication Facts to 10 × 10 and Derived Strategies Worksheet | SkillrHub",
+        "noindex": true,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/quiz/year-7/math/ac9m7m04/worksheet/",
+      "path": "quiz/year-7/math/ac9m7m04/worksheet/index.html",
+      "title": "AC9M7M04 Homework | Parallel Lines, Transversals and Angle Relationships",
+      "title_length": 72,
+      "noindex": true,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/quiz/year-7/math/ac9m7m04/worksheet/",
+        "x_robots_tag": null,
+        "title": "AC9M7M04 Homework | Parallel Lines, Transversals and Angle Relationships",
+        "noindex": true,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/quiz/year-7/math/ac9m7m05/worksheet/",
+      "path": "quiz/year-7/math/ac9m7m05/worksheet/index.html",
+      "title": "AC9M7M05 Homework | Triangle and Polygon Interior Angles | Year 7 Maths",
+      "title_length": 71,
+      "noindex": true,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/quiz/year-7/math/ac9m7m05/worksheet/",
+        "x_robots_tag": null,
+        "title": "AC9M7M05 Homework | Triangle and Polygon Interior Angles | Year 7 Maths",
+        "noindex": true,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    },
+    {
+      "url": "https://skillrhub.com/quiz/year-7/math/ac9m7st02/worksheet/",
+      "path": "quiz/year-7/math/ac9m7st02/worksheet/index.html",
+      "title": "AC9M7ST02 Homework | Different types of numerical data displays including stem-and-leaf plots using",
+      "title_length": 99,
+      "noindex": true,
+      "current_title_warning": false,
+      "live": {
+        "status": 200,
+        "final_url": "https://skillrhub.com/quiz/year-7/math/ac9m7st02/worksheet/",
+        "x_robots_tag": null,
+        "title": "AC9M7ST02 Homework | Different types of numerical data displays including stem-and-leaf plots using",
+        "noindex": true,
+        "title_matches_source": true,
+        "indexability_matches_source": true,
+        "title_warning_resolved_or_intentionally_noindex": true
+      }
+    }
+  ],
+  "other_preexisting_repairs_live": [
+    {
+      "url": "https://skillrhub.com/year6/curriculum/english/",
+      "status": 200,
+      "title": "Find your learning topic | SkillrHub",
+      "title_length": 36,
+      "robots": [
+        "noindex,follow"
+      ],
+      "descriptions": [],
+      "h1s": [
+        "Find your learning topic"
+      ]
+    },
+    {
+      "url": "https://skillrhub.com/year6/english/ac9e6la06-how-ideas-can-be-expanded-and-sharpened-through-careful-choice/",
+      "status": 200,
+      "title": "Year 6 Verbs & Adverb Groups | Free Examples & Practice | AC9E6LA06",
+      "title_length": 67,
+      "robots": [
+        "index, follow"
+      ],
+      "descriptions": [
+        "Free examples and practice for Year 6 English: AC9E6LA06: understand how ideas can be expanded and sharpened through careful choice of verbs, elaborated tenses and a range of adverb groups (AC9E6LA06). Read the topic guide, try learning activities and explore available online practice. Paid worksheet packs are optional."
+      ],
+      "h1s": [
+        "AC9E6LA06: understand how ideas can be expanded and sharpened through careful choice of verbs, elaborated tenses and a range of adverb groups"
+      ]
+    },
+    {
+      "url": "https://skillrhub.com/quiz/year-1/math/ac9m1n01/practice/",
+      "status": 200,
+      "title": "Practice has moved — AC9M1N01 | SkillrHub",
+      "title_length": 41,
+      "robots": [
+        "noindex,follow"
+      ],
+      "descriptions": [
+        "Year 1 numbers to 120 practice (AC9M1N01) has moved to the SkillrHub app. Open the matching activity to continue practising."
+      ],
+      "h1s": [
+        "Continue practising in the SkillrHub app"
+      ]
+    },
+    {
+      "url": "https://skillrhub.com/product.html?id=tpt-17892724",
+      "status": 200,
+      "title": "SkillrHub Product Details",
+      "title_length": 25,
+      "robots": [
+        "noindex,follow"
+      ],
+      "descriptions": [
+        "View a SkillrHub teaching resource, its inclusions and price before continuing to TPT to purchase or download."
+      ],
+      "h1s": [
+        "Teaching resources and worksheets"
+      ]
+    },
+    {
+      "url": "https://skillrhub.com/product.html?id=tpt-17893389",
+      "status": 200,
+      "title": "SkillrHub Product Details",
+      "title_length": 25,
+      "robots": [
+        "noindex,follow"
+      ],
+      "descriptions": [
+        "View a SkillrHub teaching resource, its inclusions and price before continuing to TPT to purchase or download."
+      ],
+      "h1s": [
+        "Teaching resources and worksheets"
+      ]
+    },
+    {
+      "url": "https://skillrhub.com/product.html?id=tpt-17892705",
+      "status": 200,
+      "title": "SkillrHub Product Details",
+      "title_length": 25,
+      "robots": [
+        "noindex,follow"
+      ],
+      "descriptions": [
+        "View a SkillrHub teaching resource, its inclusions and price before continuing to TPT to purchase or download."
+      ],
+      "h1s": [
+        "Teaching resources and worksheets"
+      ]
+    },
+    {
+      "url": "https://skillrhub.com/product.html?id=tpt-17893030",
+      "status": 200,
+      "title": "SkillrHub Product Details",
+      "title_length": 25,
+      "robots": [
+        "noindex,follow"
+      ],
+      "descriptions": [
+        "View a SkillrHub teaching resource, its inclusions and price before continuing to TPT to purchase or download."
+      ],
+      "h1s": [
+        "Teaching resources and worksheets"
+      ]
+    }
+  ],
+  "base_commit": "24244c45ed80c45288a70f8e53655d02a7cebc58",
+  "recommendations": {
+    "main": {
+      "title_too_long": {
+        "reported": 2,
+        "paths": [
+          "year6/curriculum/english/index.html",
+          "year6/english/ac9e6la06-how-ideas-can-be-expanded-and-sharpened-through-careful-choice/index.html"
+        ],
+        "source_lengths": [
+          36,
+          67
+        ],
+        "status": "previous repair; live verification recorded separately"
+      },
+      "missing_description": {
+        "reported": 2,
+        "repaired_paths": [
+          "quiz/year-7/math/ac9m7n05/practice/index.html",
+          "year9/index.html"
+        ],
+        "preservation": "All bytes outside the inserted description are identical to base; generators reproduce the candidate"
+      },
+      "meta_refresh": {
+        "reported": 2,
+        "status": "retained intentional noindex navigation; GitHub Pages has no repository-configured per-route HTTP 301"
+      },
+      "backlinks": {
+        "reported_site_level": true,
+        "status": "external links required; not fixed by code"
+      }
+    },
+    "app": {
+      "reported_total": 16,
+      "reported_duplicate_descriptions": 7,
+      "reported_duplicate_titles": 7,
+      "indexnow_recommendation": true,
+      "backlink_recommendation": true,
+      "description_detail_visible_urls": [
+        "https://app.skillrhub.com/?login=1&skill=AC9M7P01",
+        "https://app.skillrhub.com/?login=1&skill=AC9M7N09",
+        "https://app.skillrhub.com/?login=1&skill=AC9M7N01",
+        "https://app.skillrhub.com/?login=1&skill=AC9M7N05",
+        "https://app.skillrhub.com/?try=1&skill=AC9MFN01"
+      ],
+      "live_test_ac9m7n05": {
+        "http_status": 200,
+        "canonical": "https://app.skillrhub.com/",
+        "indexing_allowed_before_fix": true,
+        "seo_issues": "No SEO/GEO issues found",
+        "last_indexed_crawl_ui": "21 Nov 2026 at 12:42"
+      },
+      "repair_pr": "https://github.com/JBR99729/skillr-app/pull/374",
+      "status": "separate app release pending"
+    }
+  },
+  "historical_notices": {
+    "missing_h1_urls": [
+      "https://skillrhub.com/product.html?id=tpt-17892724",
+      "https://skillrhub.com/product.html?id=tpt-17893389",
+      "https://skillrhub.com/product.html?id=tpt-17892705",
+      "https://skillrhub.com/product.html?id=tpt-17893030"
+    ],
+    "multiple_h1_url": "https://app.skillrhub.com/tracker/",
+    "tracker_current_source_h1_count": 1,
+    "tracker_current_source_robots": "noindex,follow",
+    "historical_missing_description_url": "https://skillrhub.com/quiz/year-1/math/ac9m1n01/practice/"
+  }
+}
