@@ -30,7 +30,7 @@ function inferHub(file) {
   if (/year-?3-time/.test(base)) {
     return { href: "/year3/curriculum/maths/", label: "Browse free Year 3 Maths resources" };
   }
-  return { href: "/#curriculum", label: "Browse free curriculum resources" };
+  return { href: "/learn/", label: "Browse free curriculum resources" };
 }
 
 function campaignBlock(hub) {
