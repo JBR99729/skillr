@@ -121,6 +121,16 @@
 #skillr-home .clean-filters select{min-height:38px;padding:6px 10px;border-radius:6px;font-size:14px}
 #skillr-home .clean-years{margin:10px 0 0;text-align:left}
 #skillr-home .clean-years h2{font-size:20px;font-weight:600;margin:0 0 7px;color:#101820}
+#skillr-home .clean-years p{font-size:14px;margin:0 0 4px;color:#414d5c}
+#skillr-home .clean-years details+details{border-top:1px solid #e2e8f0}
+#skillr-home .clean-years summary{min-height:44px;padding:11px 2px;font-weight:600;cursor:pointer}
+#skillr-home .clean-years details ul{margin-bottom:8px}
+#skillr-home .sp-result-title{margin:0;overflow-wrap:anywhere;font-size:17px;color:#15213a}
+#skillr-home .sp-result-title:focus{outline:2px solid #0759e8;outline-offset:2px}
+#skillr-home .sp-result-actions .sp-result-practice{padding:4px 11px;border-radius:7px;background:#0759e8;color:#fff;text-decoration:none}
+#skillr-home .sp-result-actions .sp-result-practice:hover{text-decoration:underline}
+#skillr-home #site-search-show-all{min-height:44px;margin:6px 0 8px;padding:7px 14px;border:1px solid #0b529c;border-radius:7px;background:#fff;color:#084083;font:inherit;cursor:pointer}
+#skillr-home #site-search-show-all[hidden]{display:none}
 #skillr-home .clean-years ul{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:8px 12px}
 #skillr-home .clean-years li{min-width:0}
 #skillr-home .clean-years a{display:flex;width:100%;min-width:0;min-height:38px;padding:6px 9px;border:1px solid #eef0f3;border-radius:9px;box-shadow:0 2px 4px #17253808;color:#101820;font-size:15px}
@@ -213,7 +223,7 @@
     </div>
     <div class="home-benefit home-benefit-saved">
       <span class="home-benefit-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M12 2 3 6v6c0 5 9 10 9 10s9-5 9-10V6Z" fill="currentColor"/><path d="m8 12 3 3 5-6" fill="none" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
-      <div><strong>Practise across three subjects</strong><p>500 free questions in total with a parent account. <a href="/faq.html#free-practice">Access details</a></p></div>
+      <div><strong>Practise across three subjects</strong><p>Try up to 20 questions a day as a guest, on supported skills. <a href="/faq.html#free-practice">Access details</a></p></div>
     </div>
   </section>
   <section class="clean-progress-preview" aria-label="Example learning dashboard">
@@ -264,24 +274,57 @@
         </div>
       </div>
     </form>
-    <div id="site-search-results" class="sp-results" hidden><p id="site-search-status" role="status" aria-live="polite"></p><ul id="site-search-list"></ul></div>
+    <div id="site-search-results" class="sp-results" hidden><p id="site-search-status" role="status" aria-live="polite"></p><ul id="site-search-list"></ul><button type="button" id="site-search-show-all" aria-controls="site-search-list" hidden>Show all results</button></div>
     <noscript><p><a href="/sitemap.html">Browse the curriculum index</a>.</p></noscript>
   </section>
-  <nav class="clean-years" aria-label="Browse curriculum by year">
-    <h2>Browse by year</h2>
-    <ul>
-      <li><a href="/learn/?year=0&amp;subject=maths">Foundation</a></li>
-      <li><a href="/learn/?year=1&amp;subject=maths">Year 1</a></li>
-      <li><a href="/learn/?year=2&amp;subject=maths">Year 2</a></li>
-      <li><a href="/learn/?year=3&amp;subject=maths">Year 3</a></li>
-      <li><a href="/learn/?year=4&amp;subject=maths">Year 4</a></li>
-      <li><a href="/learn/?year=5&amp;subject=maths">Year 5</a></li>
-      <li><a href="/learn/?year=6&amp;subject=maths">Year 6</a></li>
-      <li><a href="/learn/?year=7&amp;subject=maths">Year 7</a></li>
-      <li><a href="/learn/?year=8&amp;subject=maths">Year 8</a></li>
-      <li><a href="/learn/?year=9&amp;subject=maths">Year 9</a></li>
-      <li><a href="/learn/?year=10&amp;subject=maths">Year 10</a></li>
-    </ul>
+  <nav class="clean-years" aria-labelledby="browse-curriculum-heading">
+    <h2 id="browse-curriculum-heading">Browse by year and subject</h2>
+    <p>Choose a subject, then your child’s year level.</p>
+    <details open><summary>Maths</summary>
+      <ul>
+        <li><a href="/learn/?year=0&amp;subject=maths">Foundation Maths</a></li>
+        <li><a href="/learn/?year=1&amp;subject=maths">Year 1 Maths</a></li>
+        <li><a href="/learn/?year=2&amp;subject=maths">Year 2 Maths</a></li>
+        <li><a href="/learn/?year=3&amp;subject=maths">Year 3 Maths</a></li>
+        <li><a href="/learn/?year=4&amp;subject=maths">Year 4 Maths</a></li>
+        <li><a href="/learn/?year=5&amp;subject=maths">Year 5 Maths</a></li>
+        <li><a href="/learn/?year=6&amp;subject=maths">Year 6 Maths</a></li>
+        <li><a href="/learn/?year=7&amp;subject=maths">Year 7 Maths</a></li>
+        <li><a href="/learn/?year=8&amp;subject=maths">Year 8 Maths</a></li>
+        <li><a href="/learn/?year=9&amp;subject=maths">Year 9 Maths</a></li>
+        <li><a href="/learn/?year=10&amp;subject=maths">Year 10 Maths</a></li>
+      </ul>
+    </details>
+    <details><summary>English</summary>
+      <ul>
+        <li><a href="/learn/?year=0&amp;subject=english">Foundation English</a></li>
+        <li><a href="/learn/?year=1&amp;subject=english">Year 1 English</a></li>
+        <li><a href="/learn/?year=2&amp;subject=english">Year 2 English</a></li>
+        <li><a href="/learn/?year=3&amp;subject=english">Year 3 English</a></li>
+        <li><a href="/learn/?year=4&amp;subject=english">Year 4 English</a></li>
+        <li><a href="/learn/?year=5&amp;subject=english">Year 5 English</a></li>
+        <li><a href="/learn/?year=6&amp;subject=english">Year 6 English</a></li>
+        <li><a href="/learn/?year=7&amp;subject=english">Year 7 English</a></li>
+        <li><a href="/learn/?year=8&amp;subject=english">Year 8 English</a></li>
+        <li><a href="/learn/?year=9&amp;subject=english">Year 9 English</a></li>
+        <li><a href="/learn/?year=10&amp;subject=english">Year 10 English</a></li>
+      </ul>
+    </details>
+    <details><summary>Science</summary>
+      <ul>
+        <li><a href="/learn/?year=0&amp;subject=science">Foundation Science</a></li>
+        <li><a href="/learn/?year=1&amp;subject=science">Year 1 Science</a></li>
+        <li><a href="/learn/?year=2&amp;subject=science">Year 2 Science</a></li>
+        <li><a href="/learn/?year=3&amp;subject=science">Year 3 Science</a></li>
+        <li><a href="/learn/?year=4&amp;subject=science">Year 4 Science</a></li>
+        <li><a href="/learn/?year=5&amp;subject=science">Year 5 Science</a></li>
+        <li><a href="/learn/?year=6&amp;subject=science">Year 6 Science</a></li>
+        <li><a href="/learn/?year=7&amp;subject=science">Year 7 Science</a></li>
+        <li><a href="/learn/?year=8&amp;subject=science">Year 8 Science</a></li>
+        <li><a href="/learn/?year=9&amp;subject=science">Year 9 Science</a></li>
+        <li><a href="/learn/?year=10&amp;subject=science">Year 10 Science</a></li>
+      </ul>
+    </details>
   </nav>
   <section class="clean-resource-discovery" aria-labelledby="resource-discovery-title">
     <h2 id="resource-discovery-title">Worksheets and topic guides</h2>
@@ -301,7 +344,7 @@
       <a href="mailto:skillrhublearning@gmail.com">Email skillrhublearning@gmail.com</a>
     </div>
   </section>
-<!-- priority-access:start --><details class="support" id="online-access"><summary>What is free on SkillrHub?</summary><p>Topic guides are free to read without an account. Guests can try 20 practice questions each day in supported banks. Register and confirm your email for 500 free questions total across Maths, English and Science, including guest questions already used. Some banks require a free account. See the app for current access options after the allowance. Paid worksheet packs are optional, separate purchases on Teachers Pay Teachers.</p><p><a href="/faq.html#free-practice">Read the access details</a></p></details><!-- priority-access:end --></main>
+<!-- priority-access:start --><details class="support" id="online-access"><summary>What is free on SkillrHub?</summary><p>Topic guides are free to read without an account. Try up to 20 questions a day as a guest, on supported skills. Create a free parent account to save progress and see the practice options available to your family. No card needed. Some skills require an account. Paid worksheet packs are optional, separate purchases on Teachers Pay Teachers.</p><p><a href="/faq.html#free-practice">Read the access details</a></p></details><!-- priority-access:end --></main>
 <footer class="clean-wrap clean-footer">
   <nav aria-label="Community and support">
     <a href="/sitemap.html">Curriculum index</a>
@@ -323,7 +366,7 @@ document.addEventListener('click',function(event){var link=event.target.closest&
 </script>
 <script src="/pwa-register.js?v=7"></script>
 <script src="/share-button.js?v=20260912-5"></script>
-<script src="/assets/home-topic-search.js?v=year-navigation-20261105" defer></script>
+<script src="/assets/home-topic-search.js?v=parent-topic-discovery-20261124" defer></script>
 
 <script defer src="/assets/learning-navigation.js?v=20261107-flow"></script>
 </body>

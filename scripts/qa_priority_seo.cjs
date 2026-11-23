@@ -27,7 +27,7 @@ const server = spawn('python3', ['-m', 'http.server', '8768', '--bind', '127.0.0
         }
         if (['/', '/about.html'].includes(route)) {
           await page.locator('#online-access summary').click();
-          if (!await page.locator('#online-access').innerText().then(t => t.includes('500 free questions total') && t.includes('20 practice questions each day'))) throw Error('Access details missing');
+          if (!await page.locator('#online-access').innerText().then(t => t.includes('20 questions a day as a guest') && t.includes('No card needed.'))) throw Error('Access details missing');
         }
         const previews = page.locator('.product-page-previews img');
         for (let index = 0; index < await previews.count(); index++) {
