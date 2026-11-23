@@ -117,13 +117,16 @@ def target_for(value, relative, routes):
     return target
 
 
-def moved_page(target):
+def moved_page(target, relative=None):
     escaped = html.escape(ORIGIN + target, quote=True)
+    # Retain the bounded description repair on the Bing-reported Year 9 entrance.
+    description = ('<meta name="description" content="Browse Year 9 Maths, English and Science topics in the SkillrHub learning catalogue. This older year page now opens the selected Year 9 view.">\n'
+                   if relative == 'year9/index.html' else '')
     # The filtered destination and the shared catalogue agree on /learn/ as canonical.
     return f'''<!doctype html>
 <html lang="en-AU" {MARKER}><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="robots" content="noindex,follow">
+{description}<meta name="robots" content="noindex,follow">
 <meta http-equiv="refresh" content="0;url={escaped}">
 <link rel="canonical" href="{ORIGIN}/learn/">
 <title>Find your learning topic | SkillrHub</title>
@@ -166,7 +169,7 @@ def consolidate(root=ROOT, write=False):
         page = root / relative
         source = page.read_text(encoding='utf-8')
         route = '/' + relative.removesuffix('index.html') if relative.endswith('/index.html') else '/' + relative
-        output = moved_page(routes[route]) if route in routes else rewrite_links(source, relative, routes)
+        output = moved_page(routes[route], relative) if route in routes else rewrite_links(source, relative, routes)
         if source != output:
             changed.append(relative)
             if write:

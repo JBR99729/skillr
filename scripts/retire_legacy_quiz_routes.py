@@ -48,9 +48,13 @@ def moved_page(path, banks):
     message = ('Continue to the matching practice in the SkillrHub app.' if target != APP
                else 'This older activity has retired. Browse the currently available practice in the SkillrHub app.')
     label = html.escape((' — '+code) if code else '')
-    # Preserve the reviewed description on the Bing-reported legacy landing page.
-    description = ('<meta name="description" content="Year 1 numbers to 120 practice (AC9M1N01) has moved to the SkillrHub app. Open the matching activity to continue practising.">\n'
-                   if path == 'quiz/year-1/math/ac9m1n01/practice/index.html' else '')
+    # Preserve reviewed descriptions only on the explicitly Bing-reported routes.
+    reviewed_descriptions = {
+        'quiz/year-1/math/ac9m1n01/practice/index.html': 'Year 1 numbers to 120 practice (AC9M1N01) has moved to the SkillrHub app. Open the matching activity to continue practising.',
+        'quiz/year-7/math/ac9m7n05/practice/index.html': 'Year 7 rounding and estimation with decimals practice (AC9M7N05) has moved to the SkillrHub app. Sign in to open the matching activity.',
+    }
+    description = ('<meta name="description" content="' + html.escape(reviewed_descriptions[path], quote=True) + '">\n'
+                   if path in reviewed_descriptions else '')
     return f'''<!doctype html>
 <html lang="en-AU" data-legacy-quiz-retired="2026-11-02"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
