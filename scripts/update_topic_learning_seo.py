@@ -13,6 +13,10 @@ STATE_TOPIC_SEO = {
 }
 CCSS_EXPERIMENT = json.loads((ROOT / 'data/us-ccss-experiment-20261123.json').read_text())
 CCSS_TREATMENTS = {page['code']: page for page in CCSS_EXPERIMENT['treatments']}
+EXACT_CURRICULUM_HEADINGS = {
+    page['code']: page
+    for page in json.loads((ROOT / 'data/exact-curriculum-headings-20261123.json').read_text())['pages']
+}
 
 # Page-specific copy reviewed against Bing's reported >70-character title warning.
 # Preserve unrelated topic titles during this focused maintenance change.
@@ -46,6 +50,10 @@ REVIEWED_DESCRIPTIONS = {
 
 
 def copy_for(source, unit, sample=False):
+    exact = EXACT_CURRICULUM_HEADINGS.get(unit['code'])
+    if exact:
+        assert exact['path'] == unit['url'].strip('/') + '/index.html', unit['code']
+        return exact['title'], exact['description']
     # Preserve the owner's bounded NSW/Victoria search update during sample
     # maintenance. These are curriculum references, not outcome-equivalence claims.
     regional = STATE_TOPIC_SEO.get(unit['code'])

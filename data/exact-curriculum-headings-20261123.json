@@ -1,0 +1,56 @@
+{
+  "id": "exact-curriculum-headings-20261123",
+  "base_commit": "543f8bac7734a9eee8a1670eb87fab417547a683",
+  "framework": "Australian Curriculum v9.0",
+  "scope": "Four pages outside the registered 48-page NSW/Victoria and CCSS population. Exact content-description wording with its AC9 code; no change to search titles, URLs or teaching content.",
+  "pages": [
+    {
+      "code": "AC9M4N04",
+      "path": "year4/maths/ac9m4n04-count-by-fractions-including-mixed-numerals-locate-and/index.html",
+      "descriptor": "count by fractions including mixed numerals; locate and represent these fractions as numbers on number lines",
+      "h1": "AC9M4N04: count by fractions including mixed numerals; locate and represent these fractions as numbers on number lines",
+      "description": "AC9M4N04: count by fractions including mixed numerals; locate and represent these fractions as numbers on number lines",
+      "title": "Year 4 Maths: Counting with Fractions and Mixed Numerals | Free Examples, Practice & Sample Worksheet | AC9M4N04",
+      "official_source": "https://www.qcaa.qld.edu.au/downloads/aciqv9/mathematics/curriculum/ac9_maths_yr4_as_cd_alignment.pdf",
+      "verified_on": "2026-11-23",
+      "base_sha256": "605c6da1275607bbd73f4389d1d3c84b5b5e531129cfa2da2b108eb200d6194b",
+      "previous_h1": "Count and locate fractions"
+    },
+    {
+      "code": "AC9M5A01",
+      "path": "year5/maths/ac9m5a01-and-explain-the-connection-between-multiplication-and-division/index.html",
+      "descriptor": "recognise and explain the connection between multiplication and division as inverse operations and use this to develop families of number facts",
+      "h1": "AC9M5A01: recognise and explain the connection between multiplication and division as inverse operations and use this to develop families of number facts",
+      "description": "AC9M5A01: recognise and explain the connection between multiplication and division as inverse operations and use this to develop families of number facts",
+      "title": "Year 5 Multiplication & Division Fact Families | SkillrHub",
+      "official_source": "https://www.qcaa.qld.edu.au/downloads/aciqv9/mathematics/curriculum/ac9_maths_yr5_as_cd_alignment.pdf",
+      "verified_on": "2026-11-23",
+      "base_sha256": "2242a584f6a97e6a1b893ac65f44ed5ece6d979a850c49ab382910e3c8bf6eaa",
+      "previous_h1": "Multiplication and division fact families"
+    },
+    {
+      "code": "AC9M6N01",
+      "path": "year6/maths/ac9m6n01-situations-including-financial-contexts-that-use-integers/index.html",
+      "descriptor": "recognise situations, including financial contexts, that use integers; locate and represent integers on a number line and as coordinates on the Cartesian plane",
+      "h1": "AC9M6N01: recognise situations, including financial contexts, that use integers; locate and represent integers on a number line and as coordinates on the Cartesian plane",
+      "description": "AC9M6N01: recognise situations, including financial contexts, that use integers; locate and represent integers on a number line and as coordinates on the Cartesian plane",
+      "title": "Year 6 Maths: Integers and Cartesian Coordinates | Free Examples, Practice & Sample Worksheet | AC9M6N01",
+      "official_source": "https://www.qcaa.qld.edu.au/downloads/aciqv9/mathematics/curriculum/ac9_maths_yr6_as_cd_alignment.pdf",
+      "verified_on": "2026-11-23",
+      "base_sha256": "30c2ab9c12a00c7d32497a1517ffdd3788139657306ba87773e63feb07f133bc",
+      "previous_h1": "Integers on number lines and coordinate grids"
+    },
+    {
+      "code": "AC9M6A01",
+      "path": "year6/maths/ac9m6a01-and-use-rules-that-generate-visually-growing-patterns-and-number/index.html",
+      "descriptor": "recognise and use rules that generate visually growing patterns and number patterns involving rational numbers",
+      "h1": "AC9M6A01: recognise and use rules that generate visually growing patterns and number patterns involving rational numbers",
+      "description": "AC9M6A01: recognise and use rules that generate visually growing patterns and number patterns involving rational numbers",
+      "title": "Year 6 Maths: Growing Patterns and Rational-number Rules | Free Examples & Practice | AC9M6A01",
+      "official_source": "https://www.qcaa.qld.edu.au/downloads/aciqv9/mathematics/curriculum/ac9_maths_yr6_as_cd_alignment.pdf",
+      "verified_on": "2026-11-23",
+      "base_sha256": "12c4e4be51c50294993b74d6837af61b7ed2549ee333634f84eb1bb431c15079",
+      "previous_h1": "Rules for growing patterns"
+    }
+  ]
+}
