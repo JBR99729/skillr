@@ -50,6 +50,22 @@ const levels = Array.from({ length: 11 }, (_, year) => ({
       for (const link of links) assert.ok(fs.existsSync(path.join(root, link, 'index.html')), link);
       assert.equal(await page.evaluate(() => document.documentElement.scrollWidth > innerWidth), false, `homepage overflow at ${width}`);
       await page.screenshot({ path: `test-results/seo-home-${width}.png`, fullPage: true });
+      const search = page.locator('#topic-search');
+      await search.getByLabel('Year level').selectOption('4');
+      await search.getByRole('searchbox').fill('fractions');
+      const showAll = search.getByRole('button', { name: /Show all \d+ results/ });
+      await showAll.waitFor();
+      const resultHeadings = search.locator('#site-search-list h3');
+      assert.deepEqual(new Set((await resultHeadings.allTextContents()).slice(0, 2)), new Set([
+        'Equivalent fractions and decimals', 'Count and locate fractions on number lines',
+      ]));
+      assert.equal(await search.getByRole('link', {name: 'Practise online: Equivalent fractions and decimals', exact: true}).getAttribute('href'), 'https://app.skillrhub.com/?try=1&skill=AC9M4N03');
+      const count = Number((await showAll.innerText()).match(/\d+/)[0]);
+      await showAll.focus();
+      await page.keyboard.press('Enter');
+      assert.equal(await resultHeadings.count(), count);
+      assert.equal(await resultHeadings.nth(8).evaluate(heading => document.activeElement === heading), true);
+      assert.equal(await page.evaluate(() => document.documentElement.scrollWidth > innerWidth), false, `search overflow at ${width}`);
       await page.goto(origin + '/learn/?year=3&subject=maths', { waitUntil: 'networkidle' });
       assert.deepEqual(await page.locator('.cb-group:visible h2').allTextContents(), ['Year 3 Maths']);
       assert.match(await page.title(), /Australian Curriculum Maths, English & Science F–10/);
@@ -65,11 +81,17 @@ const levels = Array.from({ length: 11 }, (_, year) => ({
     const page = await context.newPage();
     await page.goto(origin + '/');
     await page.getByText('Maths by year', { exact: true }).click();
-    assert.equal(await page.getByRole('link', { name: 'Year 3 Maths', exact: true }).isVisible(), true);
+    const worksheets = page.locator('.clean-resource-discovery');
+    assert.equal(await worksheets.getByRole('link', { name: 'Year 3 Maths', exact: true }).isVisible(), true);
+    const browse = page.getByRole('navigation', { name: 'Browse by year and subject' });
+    await browse.getByText('English', { exact: true }).click();
+    const year4 = browse.getByRole('link', { name: 'Year 4 English' });
+    assert.equal(await year4.isVisible(), true);
+    assert.equal(await year4.getAttribute('href'), '/learn/?year=4&subject=english');
     await page.goto(origin + '/learn/');
     assert.equal(await page.locator('.cb-group').count(), 33);
     await context.close();
-    console.log('PASS: 33 category destinations; 33 native worksheet links; 390/768/1440px layouts, subject switching and no-JavaScript discovery.');
+    console.log('PASS: 33 category destinations; 33 native worksheet links; 390/768/1440px layouts, search ranking and keyboard expansion, subject switching and no-JavaScript discovery.');
   } finally {
     await browser.close();
   }
