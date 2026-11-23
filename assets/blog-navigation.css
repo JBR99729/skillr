@@ -1,0 +1,7 @@
+.skillr-blog-breadcrumbs{font-size:.875rem;line-height:1.6;margin:0 0 1rem;color:#526179}
+.skillr-blog-breadcrumbs ol{display:flex;flex-wrap:wrap;gap:.25rem .55rem;list-style:none;margin:0;padding:0}
+.skillr-blog-breadcrumbs li{min-width:0;overflow-wrap:anywhere}
+.skillr-blog-breadcrumbs li+li::before{content:"/";margin-right:.55rem;color:#68758b}
+.skillr-blog-breadcrumbs a{color:#2457a6;text-decoration:underline;text-underline-offset:.15em}
+.skillr-blog-breadcrumbs a:focus-visible{outline:2px solid currentColor;outline-offset:3px;border-radius:2px}
+.skillr-blog-breadcrumbs [aria-current="page"]{color:#34445d}
