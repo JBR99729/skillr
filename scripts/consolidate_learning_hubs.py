@@ -174,7 +174,9 @@ def consolidate(root=ROOT, write=False):
             changed.append(relative)
             if write:
                 page.write_text(output, encoding='utf-8')
-    if write:
+    # A metadata-only maintenance run can already match every retired route.
+    # Do not regenerate navigation on all topic pages when there is no migration.
+    if write and changed:
         # Some authored worksheets/guides were linked only from retired hubs.
         # Reconnect them from the matching lesson, or from Learn for general guides.
         from discovery_navigation import inventory, graph, sitemap_urls

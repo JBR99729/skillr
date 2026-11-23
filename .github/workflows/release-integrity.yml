@@ -24,6 +24,7 @@ jobs:
       - name: Prevent retired quiz players and navigation from returning
         run: |
           python3 scripts/test_retire_legacy_quiz_routes.py
+          python3 scripts/test_consolidate_learning_hubs.py
           python3 scripts/retire_legacy_quiz_routes.py
       - name: Keep retired learning hubs consolidated
         run: python3 scripts/consolidate_learning_hubs.py
