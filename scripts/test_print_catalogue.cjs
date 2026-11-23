@@ -25,7 +25,7 @@ assert.deepEqual(new Set(active.map(p => p.tptUrl.match(/\d+$/)[0])), new Set(in
 const fractionsSlides = products.find(product => product.id === 'year-3-fractions-slides');
 const fractionsBundle = products.find(product => /17594471$/.test(product.tptUrl));
 for (const p of [...products, ...inventory.products]) {
-  for (const key of ['price','listPrice','regularPrice','salePrice','originalPrice','discountPrice','priceCurrency']) {
+  for (const key of ['price','listPrice','regularPrice','salePrice','originalPrice','discountPrice','bundlePrice','priceCurrency']) {
     assert.equal(Object.hasOwn(p, key), false, `${p.id || p.productId}: ${key} must stay on TpT`);
   }
 }

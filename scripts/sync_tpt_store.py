@@ -19,7 +19,7 @@ ROOT = Path(__file__).resolve().parents[1]
 SITE = 'https://skillrhub.com'
 AC = re.compile(r'\bAC9[EMS](?:F|\d{1,2})[A-Z]+\d{2}\b')
 US = re.compile(r'\b(?:K|\d{1,2})\.[A-Z]{1,3}\.[A-Z]\.\d+[a-z]?\b')
-PRICE_KEYS = {'price', 'listPrice', 'regularPrice', 'salePrice', 'originalPrice', 'discountPrice', 'priceCurrency'}
+PRICE_KEYS = {'price', 'listPrice', 'regularPrice', 'salePrice', 'originalPrice', 'discountPrice', 'bundlePrice', 'priceCurrency'}
 
 
 def read(path): return json.loads(path.read_text())
@@ -29,8 +29,33 @@ def esc(value): return html.escape(str(value), quote=True)
 
 
 def clean_copy(text):
+    text = re.sub(r'\bSave\s+\d+(?:\.\d+)?%\s+compared with[^.!?]*(?:[.!?]|$)', '', text, flags=re.I)
+    text = re.sub(r'\bSave\s+\d+(?:\.\d+)?%\s+(?:on|with)\s+', '', text, flags=re.I)
+    text = re.sub(r'\s*\(save\s+\d+(?:\.\d+)?%\)', '', text, flags=re.I)
     sentences = re.split(r'(?<=[.!?])\s+', text)
-    return ' '.join(s for s in sentences if not (re.search(r'(?:US\s*\$|A\$|\$)\s*\d', s) and re.search(r'\b(?:save|price|cost|buy|purchase|separately|only)\b', s, re.I)))
+    result = ' '.join(s for s in sentences if not (re.search(r'(?:US\s*\$|A\$|\$)\s*\d', s) and re.search(r'\b(?:save|price|cost|buy|purchase|separately|only)\b', s, re.I))).strip()
+    return result[:1].upper() + result[1:]
+
+
+def clean_commerce_text(source):
+    # Prices can also be embedded in an anchor rather than a .price element.
+    # Edit text tokens only: preserve links, section markup and authored examples.
+    tokens = re.split(r'(<[^>]*>)', source)
+    skip = False
+    anchor = False
+    for i, token in enumerate(tokens):
+        if token.startswith('<'):
+            if re.match(r'<(?:script|style)\b', token, re.I): skip = True
+            elif re.match(r'</(?:script|style)\b', token, re.I): skip = False
+            if re.match(r'<a\b', token, re.I): anchor = True
+            elif re.match(r'</a\b', token, re.I): anchor = False
+            continue
+        if skip: continue
+        text = html.unescape(token)
+        if not re.search(r'\bSave\s+\d+(?:\.\d+)?%|US\s*\$\s*\d', text, re.I): continue
+        clean = 'View price on TpT' if anchor and re.search(r'US\s*\$\s*\d', text) else clean_copy(text)
+        if clean != text: tokens[i] = esc(clean)
+    return ''.join(tokens)
 
 
 def phrase(p):
@@ -213,7 +238,7 @@ def clean_page(source, product=None, url=None):
             source=source.replace('</head>','<script type="application/ld+json">'+json.dumps(breadcrumb_schema(product),ensure_ascii=False,separators=(',',':')).replace('<','\\u003c')+'</script></head>',1)
         if not any('"LearningResource"' in s for s in scripts):
             source=source.replace('</head>','<script type="application/ld+json">'+json.dumps(learn_schema(product,url),ensure_ascii=False,separators=(',',':')).replace('<','\\u003c')+'</script></head>',1)
-    return source
+    return clean_commerce_text(source)
 
 
 def new_page(p, units):
@@ -314,7 +339,7 @@ def main():
         for path in (ROOT/base).rglob('*.html'):
             relative=path.relative_to(ROOT).as_posix();p=local.get(relative)
             source=path.read_text()
-            if p or re.search(r'class=["\'][^"\']*\bprice\b|"price"\s*:',source):
+            if p or re.search(r'class=["\'][^"\']*\bprice\b|"price"\s*:|\bSave\s+\d+(?:\.\d+)?%|US\s*\$\s*\d',source,re.I):
                 result=clean_page(source,p,SITE+p['url'] if p else None)
                 if result!=source:path.write_text(result);changed.append(relative)
     folders.update_folders(products)

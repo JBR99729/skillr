@@ -9,7 +9,7 @@ from urllib.parse import urlsplit
 
 from discovery_navigation import ROOT, sitemap_urls
 
-PRICE_KEYS = {'price','listPrice','regularPrice','salePrice','originalPrice','discountPrice','priceCurrency'}
+PRICE_KEYS = {'price','listPrice','regularPrice','salePrice','originalPrice','discountPrice','bundlePrice','priceCurrency'}
 
 
 class Page(HTMLParser):
@@ -62,6 +62,9 @@ def validate():
     if len(active)!=inventory['activeProductCount'] or len(active)!=snapshot['expectedCount']:errors.append('Inventory count mismatch')
     if any(PRICE_KEYS & p.keys() for p in products):errors.append('Numerical price fields in public catalogue')
     if any(PRICE_KEYS & p.keys() for p in inventory['products']):errors.append('Numerical price fields in current inventory')
+    for p in products:
+        copy=' '.join([p.get('description',''),*p.get('includes',[])])
+        if re.search(r'\bSave\s+\d+(?:\.\d+)?%|US\s*\$\s*\d',copy,re.I):errors.append(p['id']+': retail amount/saving in catalogue copy')
     units={u['code']:u for u in json.loads((ROOT/'data/curriculum-units.json').read_text())['units']}
     for p in active:
         row=observed[ident(p)]
@@ -104,8 +107,11 @@ def validate():
             if ident(p) in expected and p['url'] not in page.links:errors.append(relative+': missing internal product-details link '+p['url'])
     for directory in ['products','print-and-go','teach-and-explain']:
         for path in (ROOT/directory).rglob('*.html'):
-            page=Page(path.read_text())
+            source=path.read_text();page=Page(source)
             if page.price_nodes or any(PRICE_KEYS & n.keys() for value in page.schemas for n in nodes(value)):errors.append(str(path.relative_to(ROOT))+': price remains in commerce page')
+            visible=re.sub(r'<script\b[^>]*>.*?</script>|<style\b[^>]*>.*?</style>','',source,flags=re.S|re.I)
+            visible=re.sub(r'<[^>]+>',' ',visible)
+            if re.search(r'\bSave\s+\d+(?:\.\d+)?%|US\s*\$\s*\d',visible,re.I):errors.append(str(path.relative_to(ROOT))+': retail amount/saving in page text')
     free=json.loads((ROOT/'data/tpt-free-resources-20261116.json').read_text())['products']
     if {x['productId'] for x in free}!={ident(p) for p in active if p.get('free')}:errors.append('Verified free collection differs from live free listings')
     print(json.dumps({'activeListings':len(active),'staticProductPages':len(static),'freeSamples':sum(p.get('free',False) for p in active),'activeByMarket':dict(Counter(p['market'] for p in active)),'errors':len(errors)},indent=2))
