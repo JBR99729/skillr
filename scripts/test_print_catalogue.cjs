@@ -3,7 +3,7 @@ const {filterProducts, paginate} = require('../assets/print-and-go-search.js');
 const products = require('../data/print-and-go-products.json');
 assert.ok(filterProducts(products, 'AC9m3m04').length >= 6);
 assert.ok(filterProducts(products, 'YEAR 3 clocks').length >= 6);
-assert.equal(filterProducts(products, 'time', {year: 4}).length, 0);
+assert.ok(filterProducts(products, 'time', {year: 4}).every(p => p.year === 4), 'Time search stays inside its selected year');
 const year3Time = filterProducts(products, 'time', {year: 3, subject: 'maths'});
 assert.ok(year3Time.some(p => /17593227$/.test(p.tptUrl)), 'Published time bundle is searchable');
 assert.ok(year3Time.every(p => p.year === 3 && p.subject === 'maths'));
@@ -16,18 +16,21 @@ const slide = {...products.find(product => product.id === 'year-3-time-practice'
 assert.equal(filterProducts([slide], 'time').length, 1);
 assert.equal(filterProducts([slide], 'time', {resourceType: 'teaching-slides'}).length, 1);
 assert.ok(filterProducts(products, 'time', {resourceType: 'teaching-slides'}).length >= 4);
-assert.equal(filterProducts(products, 'sample', {resourceType: 'teaching-slides'}).length, 1);
+assert.ok(filterProducts(products, 'sample', {resourceType: 'teaching-slides'}).length >= 1);
 const inventory = require('../data/tpt-active-product-inventory.json');
-assert.equal(products.length, inventory.activeProductCount);
+const active = products.filter(p => p.available);
+assert.equal(active.length, inventory.activeProductCount);
 assert.equal(new Set(products.map(product => product.tptUrl)).size, products.length);
-assert.deepEqual(new Set(products.map(p => p.tptUrl.match(/\d+$/)[0])), new Set(inventory.products.map(p => p.productId)));
+assert.deepEqual(new Set(active.map(p => p.tptUrl.match(/\d+$/)[0])), new Set(inventory.products.map(p => p.productId)));
 const fractionsSlides = products.find(product => product.id === 'year-3-fractions-slides');
 const fractionsBundle = products.find(product => /17594471$/.test(product.tptUrl));
-assert.equal(fractionsSlides.price, inventory.products.find(p => p.productId === '17594445').regularPrice);
+for (const p of [...products, ...inventory.products]) {
+  for (const key of ['price','listPrice','regularPrice','salePrice','originalPrice','discountPrice','priceCurrency']) {
+    assert.equal(Object.hasOwn(p, key), false, `${p.id || p.productId}: ${key} must stay on TpT`);
+  }
+}
 assert.equal(fractionsSlides.curriculumCodes.join(','), 'AC9M3N02');
 assert.match(fractionsSlides.tptUrl, /17594445$/);
-assert.equal(fractionsBundle.price ?? null, inventory.products.find(p => p.productId === '17594471').regularPrice);
-assert.equal(fractionsBundle.listPrice, '12.74');
 assert.match(fractionsBundle.tptUrl, /17594471$/);
 assert.ok(products.filter(product => product.year === 1).length >= 7);
 assert.equal(filterProducts([{...products[0], available: false}], '').length, 0);

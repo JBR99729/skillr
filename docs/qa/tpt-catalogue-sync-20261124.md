@@ -1,0 +1,17 @@
+# TpT catalogue sync — 24 November 2026
+
+The public SkillrHub TpT store was checked across all 40 result pages. The store count was rechecked after capture: 796 unique active listing IDs. The website now retains 797 records: 796 active and the previously inactive listing 17273907. No existing product route is removed.
+
+Added 104 real listings and static detail pages: 83 Australian and 21 US resources, comprising 39 bundles, 32 teaching-slide resources and 33 worksheet resources. The active catalogue contains 651 Australian and 145 US listings. The eight new term bundles use their inspected listing descriptions as evidence for the included curriculum codes. Four stale free flags were corrected; the current 72 genuine free listings exactly match the separately verified free-resource collection.
+
+Per the owner's instruction, current catalogue data, product pages, legacy commerce directories and structured data publish no numerical TpT prices. Paid resources link directly to **View price on TpT**. Genuine free samples remain separately labelled. Product structured data uses LearningResource with verified curriculum alignment and the exact TpT destination.
+
+Search titles and descriptions use the actual topic, year/grade, resource type and verified curriculum reference. US metadata uses US grade labels, en-US and Common Core identifiers; Australian metadata uses Australian year labels, en-AU and Australian Curriculum references. Broad framework names are not represented as individual curriculum codes. Distinct parts and verified page/slide counts distinguish similarly named resources. No meta-keywords tags are added.
+
+Two incorrect Maths folder assignments were corrected. The verified Year 3 time resource is labelled as 60 PDF slides. The current TpT title corrects the old 1.MD.A.25 typo to 1.MD.A.2. Cover images and checkout slugs follow the current listing observations.
+
+All 460 active static detail pages are self-canonical, indexable and in the sitemap, with matching visible/schema breadcrumbs and catalogue detail links. Four existing query-based detail routes and 332 existing external-only listing routes retain their established delivery. The 104 additions are also in the site search index. Existing authored article sections, previews and learning links are preserved, apart from the requested price removal and verified listing-fact corrections.
+
+Validation: complete-store ID coverage, exact static folder inventories, unique static search titles, no-price data/schema checks, curriculum folders and locales, internal destinations, historical reciprocal topic links, search/pagination, genuine free samples, blog/discovery navigation and shared breadcrumbs. The sync is idempotent. The bounded CCSS topic experiment retains its 32 byte-identical comparison/held-out pages; no topic, blog, question bank or lesson is rebuilt by this change. Release integrity, CI, deployment and live HTTP/UI checks complete the publication gate.
+
+Sources: the observed public store snapshot and eight bundle descriptions committed with this change; official Common Core pages for [Grade 1 measurement](https://www.thecorestandards.org/Math/Content/1/MD/), [Grade 2 measurement](https://www.thecorestandards.org/Math/Content/2/MD/), [Grade 2 geometry](https://www.thecorestandards.org/Math/Content/2/G/), [Grade 3 operations](https://www.thecorestandards.org/Math/Content/3/OA/) and [Grade 3 base ten](https://www.thecorestandards.org/Math/Content/3/NBT/); existing canonical Australian curriculum records.

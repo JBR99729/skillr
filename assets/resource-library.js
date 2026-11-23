@@ -52,7 +52,9 @@
     const copy=node('div','','rl-product-copy');const title=node('h3');const titleLink=node('a',p.title);titleLink.href=p.tptUrl;titleLink.target='_blank';titleLink.rel='noopener noreferrer';title.append(titleLink);
     const meta=node('p',yearLabel(p.year,p.market)+' · '+formatLabel(formatOf(p)),'rl-product-meta');
     const buy=node('a',p.free ? 'Free sample on TpT ↗' : 'View price on TpT ↗','rl-product-link');buy.href=p.tptUrl;buy.target='_blank';buy.rel='noopener noreferrer';
-    copy.append(meta,title,buy);a.append(link,copy);return a;
+    copy.append(meta,title);
+    if (p.url && p.url.startsWith('/') && p.url.endsWith('/')) {const details=node('a','Resource details','rl-product-link');details.href=p.url;copy.append(details,node('span',' · '));}
+    copy.append(buy);a.append(link,copy);return a;
   }
   function render(focus=false) {
     root.replaceChildren();

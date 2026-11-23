@@ -35,5 +35,8 @@ jobs:
       - name: Check blog links, section targets and breadcrumb parity
         run: python3 scripts/validate_blog_navigation.py
 
+      - name: Check TpT catalogue coverage, curriculum metadata and price-link policy
+        run: python3 scripts/validate_tpt_catalogue.py
+
       - name: Check static and shared breadcrumb preservation
         run: node --test scripts/tests/test_breadcrumb_preservation.mjs scripts/tests/test_geo_breadcrumbs.mjs scripts/tests/test_seo_routing_preservation.mjs
