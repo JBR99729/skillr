@@ -8,6 +8,7 @@ production bank/catalogue, then use --code CODE for a single bank release.
 import argparse,html,json,re
 from pathlib import Path
 from urllib.parse import urlparse,parse_qs,urlencode
+from topic_practice_journey import INLINE,SECONDARY,insert,protected_codes
 ROOT=Path(__file__).resolve().parents[1]
 TOPIC=re.compile(r'^(foundation|year(?:[1-9]|10))/(maths|science|english)/(ac9[a-z0-9]+)[^/]*/index\.html$',re.I)
 ANCHOR=re.compile(r'<a\b[^>]*>[\s\S]*?</a>',re.I)
@@ -29,6 +30,7 @@ def activity(anchor,code):
 
 def rewrite(source,code,bank):
  # Main-card visibility is shared CSS. Preserve every existing supporting link.
+ if code not in protected_codes():source=INLINE.sub('',source).replace(SECONDARY,'')
  def part(text):
   if text.startswith('<!--'):return text
   text=re.sub(r'<a\b(?=[^>]*\bid=["\']skillr-topic-practice-now["\'])[^>]*>[\s\S]*?</a>\n?', '', text, flags=re.I)
@@ -76,7 +78,7 @@ def rewrite(source,code,bank):
  if re.search(old_css,out,re.I):out=re.sub(old_css,lambda m:css,out,flags=re.I)
  else:out=re.sub(r'</head>',lambda m:css+'\n'+m.group(),out,count=1,flags=re.I)
 
- return out
+ return insert(out,code,subject,bank,target,starter)
 
 def main():
  ap=argparse.ArgumentParser();ap.add_argument('--code',action='append');ap.add_argument('--all',action='store_true');ap.add_argument('--write',action='store_true');args=ap.parse_args()

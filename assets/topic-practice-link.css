@@ -9,3 +9,13 @@
 body:has(>#skillr-topic-practice-now[data-topic-app-link]){padding-bottom:100px}
 @media(max-width:480px){#skillr-topic-practice-now[data-topic-app-link]{font-size:14px;padding:10px 13px}:is(.compact-topic-bar,.numbers-bar):has(>[data-topic-app-link]){flex-wrap:wrap}:is(.compact-topic-bar,.numbers-bar):has(>[data-topic-app-link])>strong{flex-basis:100%}:is(.compact-topic-bar,.numbers-bar) #skillr-topic-practice-now[data-topic-app-link]{width:100%;max-width:100%}}
 @media print{#skillr-topic-practice-now[data-topic-app-link]{display:none!important}}
+
+/* The authored worked example leads to one distinct lesson-level practice action.
+   Do not change floating/main-card rules or paid/free sample links elsewhere. */
+.skillr-practice-next{margin:1rem 0 1.25rem}
+a.skillr-inline-practice{display:inline-flex;flex-direction:column;align-items:flex-start;justify-content:center;box-sizing:border-box;max-width:100%;min-height:44px;padding:.6rem 1rem;border:1px solid #2457d6;border-radius:.6rem;background:#2457d6;color:#fff;font:700 1rem/1.3 system-ui,sans-serif;text-decoration:none;overflow-wrap:anywhere}
+a.skillr-inline-practice:hover{background:#1c48b8;color:#fff;text-decoration:underline}
+a.skillr-inline-practice:focus-visible{outline:3px solid #d78c09;outline-offset:3px}
+a.skillr-inline-practice small{display:block;margin-top:.15rem;font-size:.77em;font-weight:500}
+a[data-skillr-worksheet-secondary].curriculum-button,:is(.shortcuts,.static-topic-card,.static-topic-sidecard,.paid-worksheet-pack) a[data-skillr-worksheet-secondary]{background:#fff;color:#084083;border:1px solid #c7d5e7;box-shadow:none;text-decoration:underline}
+@media print{.skillr-practice-next{display:none!important}}
