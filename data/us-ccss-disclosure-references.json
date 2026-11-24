@@ -1,0 +1,397 @@
+{
+  "scope": "Verified partial topic overlap only. Australian Curriculum v9 remains canonical.",
+  "official_source": "https://www.thecorestandards.org/",
+  "pages": [
+    {
+      "code": "AC9EFLY09",
+      "path": "foundation/english/ac9efly09-and-generate-rhyming-words-alliteration-patterns-syllables-and/index.html",
+      "disclosure_id": "official-references",
+      "references": [
+        {
+          "code": "RF.K.2.a",
+          "source": "https://www.thecorestandards.org/ELA-Literacy/RF/K/2/a/",
+          "lesson_evidence": "Hear and make a rhyme",
+          "overlap": "Recognising and generating rhyming words; the guide also teaches alliteration."
+        },
+        {
+          "code": "RF.K.2.b",
+          "source": "https://www.thecorestandards.org/ELA-Literacy/RF/K/2/b/",
+          "lesson_evidence": "How many beats are in each word",
+          "overlap": "Counting syllables in spoken words; not the full blending and segmentation sequence."
+        }
+      ]
+    },
+    {
+      "code": "AC9EFLY10",
+      "path": "foundation/english/ac9efly10-sentences-into-individual-words-orally-blend-and-segment-single/index.html",
+      "disclosure_id": "official-references",
+      "references": [
+        {
+          "code": "RF.K.2.e",
+          "source": "https://www.thecorestandards.org/ELA-Literacy/RF/K/2/e/",
+          "lesson_evidence": "Add, remove or replace one sound",
+          "overlap": "Adding and substituting sounds in simple spoken words; the guide also teaches deletion."
+        }
+      ]
+    },
+    {
+      "code": "AC9EFLY11",
+      "path": "foundation/english/ac9efly11-and-name-all-upper-and-lower-case-letters-graphs-and-know/index.html",
+      "disclosure_id": "official-references",
+      "references": [
+        {
+          "code": "RF.K.1.d",
+          "source": "https://www.thecorestandards.org/ELA-Literacy/RF/K/1/d/",
+          "lesson_evidence": "Match and name the two forms",
+          "overlap": "Recognising and naming uppercase and lowercase letters."
+        },
+        {
+          "code": "RF.K.3.a",
+          "source": "https://www.thecorestandards.org/ELA-Literacy/RF/K/3/a/",
+          "lesson_evidence": "Separate a name from a common sound",
+          "overlap": "Common consonant sounds; the guide also distinguishes letter identities and vowel sounds."
+        }
+      ]
+    },
+    {
+      "code": "AC9EFLY12",
+      "path": "foundation/english/ac9efly12-consonant-vowel-consonant-cvc-words-by-representing-sounds-with/index.html",
+      "disclosure_id": "official-references",
+      "references": [
+        {
+          "code": "RF.K.3.d",
+          "source": "https://www.thecorestandards.org/ELA-Literacy/RF/K/3/d/",
+          "lesson_evidence": "Change one position and reread",
+          "overlap": "Distinguishing similar printed CVC words after one letter and its sound change; not the full phonics standard."
+        }
+      ]
+    },
+    {
+      "code": "AC9M1N05",
+      "path": "year1/maths/ac9m1n05-additive-problem-solving-and-money/index.html",
+      "disclosure_id": "resource-review-AC9M1N05",
+      "references": [
+        {
+          "code": "1.OA.A.1",
+          "source": "https://www.thecorestandards.org/Math/Content/1/OA/A/1/",
+          "lesson_evidence": "Find what the story asks",
+          "overlap": "Selected addition and subtraction stories within 20; not every unknown position or the money component."
+        }
+      ]
+    },
+    {
+      "code": "AC9M1ST02",
+      "path": "year1/maths/ac9m1st02-representing-and-comparing-data/index.html",
+      "disclosure_id": "resource-review-AC9M1ST02",
+      "references": [
+        {
+          "code": "1.MD.C.4",
+          "source": "https://www.thecorestandards.org/Math/Content/1/MD/C/4/",
+          "lesson_evidence": "Make a one-to-one display",
+          "overlap": "Representing and comparing frequencies in simple data displays; use examples within the US three-category scope."
+        }
+      ]
+    },
+    {
+      "code": "AC9M6A01",
+      "path": "year6/maths/ac9m6a01-and-use-rules-that-generate-visually-growing-patterns-and-number/index.html",
+      "disclosure_id": "curriculum-equivalents",
+      "references": [
+        {
+          "code": "6.EE.C.9",
+          "source": "https://www.thecorestandards.org/Math/Content/6/EE/C/9/",
+          "lesson_evidence": "Connect the stage to the value",
+          "overlap": "Relating a stage number to the pattern value with a rule; not the full graph-and-table analysis."
+        }
+      ]
+    },
+    {
+      "code": "AC9M6A02",
+      "path": "year6/maths/ac9m6a02-find-unknown-values-in-numerical-equations-involving-brackets/index.html",
+      "disclosure_id": "curriculum-equivalents",
+      "references": [
+        {
+          "code": "6.EE.B.5",
+          "source": "https://www.thecorestandards.org/Math/Content/6/EE/B/5/",
+          "lesson_evidence": "Check both sides",
+          "overlap": "Substituting a proposed value to check an equation; not the standard’s inequality component."
+        }
+      ]
+    },
+    {
+      "code": "AC9M6M01",
+      "path": "year6/maths/ac9m6m01-convert-between-common-metric-units-of-length-mass-and-capacity/index.html",
+      "disclosure_id": "curriculum-equivalents",
+      "references": [
+        {
+          "code": "5.MD.A.1",
+          "source": "https://www.thecorestandards.org/Math/Content/5/MD/A/1/",
+          "lesson_evidence": "Convert metres to centimetres",
+          "overlap": "Converting length, mass and capacity within the metric system; not a claim of full multi-step coverage."
+        }
+      ]
+    },
+    {
+      "code": "AC9M6M02",
+      "path": "year6/maths/ac9m6m02-establish-the-formula-for-the-area-of-a-rectangle-and/index.html",
+      "disclosure_id": "curriculum-equivalents",
+      "references": [
+        {
+          "code": "3.MD.C.7.a",
+          "source": "https://www.thecorestandards.org/Math/Content/3/MD/C/7/a/",
+          "lesson_evidence": "Count rows",
+          "overlap": "Connecting unit-square tiling with rectangle area multiplication for whole-number sides."
+        },
+        {
+          "code": "3.MD.C.7.b",
+          "source": "https://www.thecorestandards.org/Math/Content/3/MD/C/7/b/",
+          "lesson_evidence": "What is the area of a 9 m by 4 m rectangle?",
+          "overlap": "Multiplying whole-number side lengths to find rectangular area; not the entire area cluster."
+        },
+        {
+          "code": "4.MD.A.3",
+          "source": "https://www.thecorestandards.org/Math/Content/4/MD/A/3/",
+          "lesson_evidence": "Find a missing dimension",
+          "overlap": "Applying the area formula and finding a missing dimension; not the perimeter component."
+        }
+      ]
+    },
+    {
+      "code": "AC9M6M03",
+      "path": "year6/maths/ac9m6m03-interpret-and-use-timetables-and-itineraries-to-plan-activities/index.html",
+      "disclosure_id": "curriculum-equivalents",
+      "references": [
+        {
+          "code": "3.MD.A.1",
+          "source": "https://www.thecorestandards.org/Math/Content/3/MD/A/1/",
+          "lesson_evidence": "How long is 09:48 to 10:12?",
+          "overlap": "Calculating elapsed time in minutes from timetables; not the full clock-reading standard."
+        }
+      ]
+    },
+    {
+      "code": "AC9M6M04",
+      "path": "year6/maths/ac9m6m04-the-relationships-between-angles-on-a-straight-line-angles-at/index.html",
+      "disclosure_id": "curriculum-equivalents",
+      "references": [
+        {
+          "code": "4.MD.C.7",
+          "source": "https://www.thecorestandards.org/Math/Content/4/MD/C/7/",
+          "lesson_evidence": "What completes a straight line beside",
+          "overlap": "Using known parts to find a missing angle; not a mapping for all angle relationships in this lesson."
+        }
+      ]
+    },
+    {
+      "code": "AC9M6N01",
+      "path": "year6/maths/ac9m6n01-situations-including-financial-contexts-that-use-integers/index.html",
+      "disclosure_id": "curriculum-equivalents",
+      "references": [
+        {
+          "code": "6.NS.C.5",
+          "source": "https://www.thecorestandards.org/Math/Content/6/NS/C/5/",
+          "lesson_evidence": "Interpret signed numbers",
+          "overlap": "Using positive and negative integers in contexts such as debt and temperature."
+        },
+        {
+          "code": "6.NS.C.6.c",
+          "source": "https://www.thecorestandards.org/Math/Content/6/NS/C/6/c/",
+          "lesson_evidence": "Plot signed coordinates",
+          "overlap": "Positioning integers on number lines and coordinate planes; not general rational-number coordinates."
+        },
+        {
+          "code": "6.NS.C.7.a",
+          "source": "https://www.thecorestandards.org/Math/Content/6/NS/C/7/a/",
+          "lesson_evidence": "Order on a number line",
+          "overlap": "Comparing integers by their number-line position; not all rational numbers or absolute value."
+        }
+      ]
+    },
+    {
+      "code": "AC9M6N02",
+      "path": "year6/maths/ac9m6n02-and-describe-the-properties-of-prime-composite-and-square/index.html",
+      "disclosure_id": "curriculum-equivalents",
+      "references": [
+        {
+          "code": "4.OA.B.4",
+          "source": "https://www.thecorestandards.org/Math/Content/4/OA/B/4/",
+          "lesson_evidence": "What are the factor pairs of 12?",
+          "overlap": "Factor pairs and prime/composite classification within 1–100; not the entire multiples component."
+        }
+      ]
+    },
+    {
+      "code": "AC9M6N03",
+      "path": "year6/maths/ac9m6n03-apply-knowledge-of-equivalence-to-compare-order-and-represent/index.html",
+      "disclosure_id": "curriculum-equivalents",
+      "references": [
+        {
+          "code": "4.NF.A.1",
+          "source": "https://www.thecorestandards.org/Math/Content/4/NF/A/1/",
+          "lesson_evidence": "Rename equivalent fractions",
+          "overlap": "Generating equivalent fractions with visual models."
+        },
+        {
+          "code": "4.NF.A.2",
+          "source": "https://www.thecorestandards.org/Math/Content/4/NF/A/2/",
+          "lesson_evidence": "compare 1/4 and 2/3 on one line",
+          "overlap": "Comparing fractions by position on one number line with the same whole."
+        }
+      ]
+    },
+    {
+      "code": "AC9M6N04",
+      "path": "year6/maths/ac9m6n04-apply-knowledge-of-place-value-to-add-and-subtract-decimals/index.html",
+      "disclosure_id": "curriculum-equivalents",
+      "references": [
+        {
+          "code": "5.NBT.B.7",
+          "source": "https://www.thecorestandards.org/Math/Content/5/NBT/B/7/",
+          "lesson_evidence": "Add and subtract decimals",
+          "overlap": "Decimal addition and subtraction to hundredths using place value; not decimal multiplication or division."
+        }
+      ]
+    },
+    {
+      "code": "AC9M6N05",
+      "path": "year6/maths/ac9m6n05-solve-problems-involving-addition-and-subtraction-of-fractions/index.html",
+      "disclosure_id": "curriculum-equivalents",
+      "references": [
+        {
+          "code": "5.NF.A.1",
+          "source": "https://www.thecorestandards.org/Math/Content/5/NF/A/1/",
+          "lesson_evidence": "What common denominator works for thirds and quarters?",
+          "overlap": "Using equivalent fractions with a common denominator to add or subtract; not a claim of full mixed-number coverage."
+        }
+      ]
+    },
+    {
+      "code": "AC9M6N06",
+      "path": "year6/maths/ac9m6n06-multiply-and-divide-decimals-by-multiples-of-powers-of-10/index.html",
+      "disclosure_id": "curriculum-equivalents",
+      "references": [
+        {
+          "code": "5.NBT.A.2",
+          "source": "https://www.thecorestandards.org/Math/Content/5/NBT/A/2/",
+          "lesson_evidence": "keep the zero when dividing by 1,000",
+          "overlap": "Multiplying or dividing decimals by powers of ten; this lesson also uses multiples of powers of ten."
+        }
+      ]
+    },
+    {
+      "code": "AC9M6N07",
+      "path": "year6/maths/ac9m6n07-solve-problems-that-require-finding-a-familiar-fraction-decimal/index.html",
+      "disclosure_id": "curriculum-equivalents",
+      "references": [
+        {
+          "code": "6.RP.A.3.c",
+          "source": "https://www.thecorestandards.org/Math/Content/6/RP/A/3/c/",
+          "lesson_evidence": "What is 25% of 48?",
+          "overlap": "Finding a percent of a known quantity; not finding the whole from a part and percent."
+        }
+      ]
+    },
+    {
+      "code": "AC9M6P01",
+      "path": "year6/maths/ac9m6p01-that-probabilities-lie-on-numerical-scales-of-0-1/index.html",
+      "disclosure_id": "curriculum-equivalents",
+      "references": [
+        {
+          "code": "7.SP.C.5",
+          "source": "https://www.thecorestandards.org/Math/Content/7/SP/C/5/",
+          "lesson_evidence": "What probability represents an even chance?",
+          "overlap": "Representing likelihood on a scale from 0 to 1, with one half for an even chance."
+        }
+      ]
+    },
+    {
+      "code": "AC9M6P02",
+      "path": "year6/maths/ac9m6p02-conduct-repeated-chance-experiments-and-run-simulations-with-an/index.html",
+      "disclosure_id": "curriculum-equivalents",
+      "references": [
+        {
+          "code": "7.SP.C.6",
+          "source": "https://www.thecorestandards.org/Math/Content/7/SP/C/6/",
+          "lesson_evidence": "Compare two simulation sizes",
+          "overlap": "Comparing expected and observed relative frequencies across repeated trials."
+        },
+        {
+          "code": "7.SP.C.7",
+          "source": "https://www.thecorestandards.org/Math/Content/7/SP/C/7/",
+          "lesson_evidence": "expected and observed spinner counts",
+          "overlap": "Comparing model predictions with observed results and considering trial variation."
+        }
+      ]
+    },
+    {
+      "code": "AC9M6SP02",
+      "path": "year6/maths/ac9m6sp02-locate-points-in-the-4-quadrants-of-a-cartesian-plane/index.html",
+      "disclosure_id": "curriculum-equivalents",
+      "references": [
+        {
+          "code": "6.NS.C.6.b",
+          "source": "https://www.thecorestandards.org/Math/Content/6/NS/C/6/b/",
+          "lesson_evidence": "Which quadrant contains",
+          "overlap": "Using coordinate signs to identify quadrants; not the full reflection component."
+        },
+        {
+          "code": "6.NS.C.8",
+          "source": "https://www.thecorestandards.org/Math/Content/6/NS/C/8/",
+          "lesson_evidence": "Move horizontally",
+          "overlap": "Plotting and moving points in four quadrants; not the full absolute-value distance component."
+        }
+      ]
+    },
+    {
+      "code": "AC9M6ST01",
+      "path": "year6/maths/ac9m6st01-interpret-and-compare-data-sets-for-ordinal-and-nominal/index.html",
+      "disclosure_id": "curriculum-equivalents",
+      "references": [
+        {
+          "code": "6.SP.A.2",
+          "source": "https://www.thecorestandards.org/Math/Content/6/SP/A/2/",
+          "lesson_evidence": "Compare spread and shape",
+          "overlap": "Describing distribution shape and spread; the guide uses mode and range rather than the full US statistical progression."
+        },
+        {
+          "code": "6.SP.B.4",
+          "source": "https://www.thecorestandards.org/Math/Content/6/SP/B/4/",
+          "lesson_evidence": "Compare two dot plots",
+          "overlap": "Displaying numerical data in dot plots; not histograms or box plots."
+        }
+      ]
+    },
+    {
+      "code": "AC9M6ST02",
+      "path": "year6/maths/ac9m6st02-statistically-informed-arguments-presented-in-traditional-and/index.html",
+      "disclosure_id": "curriculum-equivalents",
+      "references": [
+        {
+          "code": "7.SP.A.1",
+          "source": "https://www.thecorestandards.org/Math/Content/7/SP/A/1/",
+          "lesson_evidence": "Can one class speak for every school?",
+          "overlap": "Checking whether a sample is representative enough to support a claim; not the full random-sampling component."
+        }
+      ]
+    },
+    {
+      "code": "AC9M6ST03",
+      "path": "year6/maths/ac9m6st03-plan-and-conduct-statistical-investigations-by-posing-and/index.html",
+      "disclosure_id": "curriculum-equivalents",
+      "references": [
+        {
+          "code": "6.SP.A.1",
+          "source": "https://www.thecorestandards.org/Math/Content/6/SP/A/1/",
+          "lesson_evidence": "Choose a question with varying answers",
+          "overlap": "Identifying a statistical question that anticipates variability."
+        },
+        {
+          "code": "6.SP.B.5.b",
+          "source": "https://www.thecorestandards.org/Math/Content/6/SP/B/5/b/",
+          "lesson_evidence": "Why record every flight in centimetres?",
+          "overlap": "Describing what was measured, how and in which units; not the entire distribution-summary standard."
+        }
+      ]
+    }
+  ]
+}

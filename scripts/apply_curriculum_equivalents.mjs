@@ -4,6 +4,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { curriculumEquivalents as source } from './build_curriculum_equivalents.mjs';
+import { renderCcssTableCell } from './apply_us_ccss_disclosure_references.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const START = '<!-- skillr-curriculum-equivalents:start -->';
@@ -62,7 +63,7 @@ function buildBlock(mapping) {
     tableRow('Australia', officialLink(mapping.australia), `<strong>${escapeHtml(mapping.australia.code)}</strong> · ${escapeHtml(mapping.australia.level)}`),
     tableRow('Victoria', officialLink(mapping.victoria), `<strong>${escapeHtml(mapping.victoria.code)}</strong> · ${escapeHtml(mapping.victoria.level)}`),
     tableRow('New South Wales', officialLink(mapping.nsw), `<strong>${escapeHtml(mapping.nsw.code)}</strong> · ${escapeHtml(mapping.nsw.level)}`),
-    tableRow('United States (USA)', officialLink(mapping.usa), escapeHtml(mapping.usa.level)),
+    tableRow('United States (USA)', officialLink(mapping.usa), renderCcssTableCell(mapping.code) ?? escapeHtml(mapping.usa.level)),
     tableRow('Canada (Ontario)', officialLink(mapping.canada), escapeHtml(mapping.canada.level)),
     tableRow('United Kingdom (England)', officialLink(mapping.england), escapeHtml(mapping.england.level)),
     tableRow('India', officialLink(mapping.india), escapeHtml(mapping.india.level)),
