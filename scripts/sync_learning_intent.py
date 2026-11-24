@@ -8,14 +8,8 @@ from pathlib import Path
 from urllib.parse import urlparse
 from repair_medium_seo import ROOT, REVIEW_BLOCK, HOME_DESCRIPTION, homepage, review_block
 
-SUMMARY = ('Australian Curriculum learning resources, clear explanations, learning examples and free practice questions. '
-           'Save progress with a free account. Optional paid worksheet packs are separate.')
-ACCESS = ('Public topic guides and learning examples are free without login. Free practice is available only for published banks: '
-          'supported guests can try 20 questions daily; a registered account has 500 free questions in total across subjects, '
-          'including guest questions already used. Confirm the email address and select a learner profile to save progress. '
-          'Some banks require an account. Paid worksheet packs are optional separate purchases; no worksheet purchase is needed '
-          'for free practice. Check https://skillrhub.com/faq.html#free-practice for current access details. '
-          'Do not describe every topic as having a published practice bank or promise unlimited free practice.')
+SUMMARY = 'Free Australian Curriculum topic guides and worked examples for students, parents and teachers. Practise online, then take a free assessment on the same topic where available. Free printable samples are available for selected topics; complete paid worksheet packs on Teachers Pay Teachers (TpT) are optional.'
+ACCESS = 'Topic guides are free without signing in. Online practice and assessments are available only for published banks. On supported skills, guests can try up to 20 practice questions a day. Use a free account to save progress. To take a topic assessment, sign in with a free account, select a learner profile and accept the test rules. Start at https://skillrhub.com/free-k-10-question-bank.html#available-banks and choose the same curriculum code. Check https://skillrhub.com/faq.html#free-practice for access details and https://skillrhub.com/worksheets/#free-tpt-samples for printable samples. TpT requires an account to download its samples; no worksheet purchase is needed for online practice or assessment.'
 
 
 def pages():
@@ -75,10 +69,13 @@ def metadata(source, description):
 
 
 def ai_copy(source):
-    block = '## Learning offer and access\n\n' + SUMMARY + '\n\n' + ACCESS + '\n\n'
-    source = re.sub(r'## Learning offer and access\n[\s\S]*?(?=## |\Z)', '', source)
-    index = source.index('\n## ') + 1
-    return source[:index] + block + source[index:]
+    block = '## Learning offer and access\n\n' + SUMMARY + '\n\n' + ACCESS
+    pattern = r'^## Learning offer and access\n\n.*?(?=\n+(?:^<!-- free-tpt-resources:start -->|^## |\Z))'
+    source, count = re.subn(pattern, lambda _: block, source, count=1, flags=re.M | re.S)
+    if count:
+        return source
+    index = source.index('\n## ') + 1 if '\n## ' in source else len(source)
+    return source[:index] + block + '\n\n' + source[index:]
 
 
 def main():

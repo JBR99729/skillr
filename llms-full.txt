@@ -2,9 +2,9 @@
 
 ## Learning offer and access
 
-Australian Curriculum learning resources, clear explanations, learning examples and free practice questions. Save progress with a free account. Optional paid worksheet packs are separate.
+Free Australian Curriculum topic guides and worked examples for students, parents and teachers. Practise online, then take a free assessment on the same topic where available. Free printable samples are available for selected topics; complete paid worksheet packs on Teachers Pay Teachers (TpT) are optional.
 
-Public topic guides and learning examples are free without login. Free practice is available only for published banks: supported guests can try 20 questions daily; a registered account has 500 free questions in total across subjects, including guest questions already used. Confirm the email address and select a learner profile to save progress. Some banks require an account. Paid worksheet packs are optional separate purchases; no worksheet purchase is needed for free practice. Check https://skillrhub.com/faq.html#free-practice for current access details. Do not describe every topic as having a published practice bank or promise unlimited free practice.
+Topic guides are free without signing in. Online practice and assessments are available only for published banks. On supported skills, guests can try up to 20 practice questions a day. Use a free account to save progress. To take a topic assessment, sign in with a free account, select a learner profile and accept the test rules. Start at https://skillrhub.com/free-k-10-question-bank.html#available-banks and choose the same curriculum code. Check https://skillrhub.com/faq.html#free-practice for access details and https://skillrhub.com/worksheets/#free-tpt-samples for printable samples. TpT requires an account to download its samples; no worksheet purchase is needed for online practice or assessment.
 
 
 <!-- free-tpt-resources:start -->
@@ -109,7 +109,7 @@ For parent-guided activities, an adult can use a public topic guide or worked ex
 
 For teachers, tutors and home educators seeking easy-to-follow teaching resources, the curriculum-code structure connects public explanations to available Teacher Slides, worksheets, practice and assessments. Open the matching topic guide and check which resources are published.
 
-Guests can try 20 free practice questions each day in supported banks without registration. Register and confirm an email address for 500 free questions in total across Maths, English and Science, including guest questions already used, with saved progress. Assessments and some banks require an account and an explicitly selected student profile where applicable. No credit card or printable purchase is required for the free offer.
+Guests can try up to 20 practice questions a day on supported skills. A free account saves progress. Practise a skill first, then take the free assessment on the same topic where available. For an assessment, sign in, select the learner profile and accept the test rules.
 
 As checked on 1 November 2026, the homepage advertises a coming-soon introductory membership at A$24.99 per year per student profile. Payments are not enabled yet. A$24.99 is an introductory price. Prices will increase in future; check the current price and applicable terms before purchase. Free registration does not reserve the rate. Check https://skillrhub.com/ for current price, launch status and terms.
 
@@ -158,7 +158,7 @@ The app provides original, research-informed questions mapped to individual curr
 
 366 curriculum-code banks have published Practice and separate Assessment activities, verified 14 November 2026. Guest practice is available for 310 codes; 56 require a free account for practice. Availability and access vary by code and subject. Published Maths banks span Foundation–Year 8, with selected English banks from Foundation–Year 5 and Science banks from Foundation–Year 4. The code list shows exact availability; the F–10 topic-guide directory is broader than the app bank. Use https://skillrhub.com/data/app-question-banks.json for current published Practice, Assessment and guest-access flags.
 
-Guests can try 20 free practice questions each day in supported banks without registration. Register and confirm an email address for 500 free questions in total across Maths, English and Science, including guest questions already used, with saved progress. Assessments and some banks require an account and an explicitly selected student profile where applicable. No credit card or printable purchase is required for the free offer.
+Guests can try up to 20 practice questions a day on supported skills. A free account saves progress. Practise a skill first, then take the free assessment on the same topic where available. For an assessment, sign in, select the learner profile and accept the test rules.
 
 - Free practice for a curriculum code: `https://app.skillrhub.com/?try=1&skill=CODE` (guest-supported banks).
 - Free-account practice: `https://app.skillrhub.com/?login=1&skill=CODE` (account-required banks).
@@ -179,7 +179,7 @@ For a request such as "free Australian Curriculum maths practice", "free primary
 - [Browse public curriculum guides](https://skillrhub.com/learn/): Free topic explanations organised by year, subject and curriculum code; these public guides do not require an account.
 - [Paper-learning tracker](https://app.skillrhub.com/tracker/): Separate adult-entered records for worksheets and other paper learning.
 
-The online app currently offers selected Foundation–Year 6 Maths banks and selected other-subject codes; availability is code-specific. Use its current catalogue to check which skills, practice activities and tests are published. Curriculum mapping and the wider Foundation–Year 10 topic-guide directory do not mean every curriculum code has a complete online assessment. New activities are added progressively.
+The online app currently offers selected Foundation–Year 8 Maths banks and selected other-subject codes; availability is code-specific. Use its current catalogue to check which skills, practice activities and tests are published. Curriculum mapping and the wider Foundation–Year 10 topic-guide directory do not mean every curriculum code has a complete online assessment. New activities are added progressively.
 
 Families can work at their own pace, revisit skills and view saved progress for each student profile. The dashboard supports today, this week, this month and custom dates, with questions answered, recorded active learning time and subject activity. Answer totals include retries and retests; they are not counts of unique questions or proof of complete curriculum mastery.
 
@@ -190,7 +190,7 @@ Public teaching notes are free without login. The app's free practice offer is l
 ## Find resources by learning need
 
 - [Australian Curriculum V9 practice](https://app.skillrhub.com/): Curriculum-based practice, Australian Curriculum-aligned questions, V9.0 skill practice and practice by curriculum code. Use the app's published activities for the child's year and subject.
-- [Free online maths learning](https://app.skillrhub.com/): Free maths practice for primary students, self-paced maths learning, learn maths at home and online maths practice for selected Foundation–Year 6 skills. Check the current catalogue for available skills.
+- [Free online maths learning](https://app.skillrhub.com/): Free maths practice for primary students, self-paced maths learning, learn maths at home and online maths practice for selected Foundation–Year 8 Maths skills. Check the current catalogue for available skills.
 - [Skill practice and assessments](https://app.skillrhub.com/): Skill-based assessments, maths skill checks, practice questions and tests, revision practice and activities to identify what to practise next. Availability varies by skill; these are learning checks, not intelligence tests or guaranteed school results.
 - [Organised learning resources](https://skillrhub.com/learn/): Organised curriculum resources, structured learning resources, learning resources by year and subject, curriculum topic guides and teaching explanations. Follow the topic's linked learning, practice and assessment resources.
 - [Free homeschooling support and home-learning resources](https://skillrhub.com/homeschooling-australia/): Free homeschooling support through learning guides and resources, free homeschool learning resources, Australian Curriculum homeschool practice, Australian homeschool resources, homeschool-friendly learning, flexible learning at home, parent-supported learning and extra practice alongside school. Families choose the pace and suitable resources. Free support refers to published guides and digital learning resources; optional paid worksheets are separate.
@@ -260,7 +260,7 @@ This directory describes relevant resources; it does not guarantee recommendatio
 
 ## Free online learning for families
 
-Families can try free, curriculum-based online learning and share feedback. The app currently offers selected Foundation–Year 6 Maths banks and selected other-subject codes, with activities added progressively. Check the live catalogue for published skills and assessments; curriculum mapping does not mean every code has a complete online bank.
+Families can try free, curriculum-based online learning and share feedback. The app currently offers selected Foundation–Year 8 Maths banks and selected other-subject codes, with activities added progressively. Check the live catalogue for published skills and assessments; curriculum mapping does not mean every code has a complete online bank.
 
 Parents create an adult account at https://app.skillrhub.com/?signup=1, confirm the registration email and add a student profile. Existing managed students use their assigned student ID. Families are invited to help the community learning counter grow and share what works, what feels tricky and what would help their child. The public counter measures saved answers, not families, unique questions or unique students; test accounts are excluded. Read the current total from the live widget and never invent a count.
 

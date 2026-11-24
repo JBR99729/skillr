@@ -2,7 +2,7 @@ import html
 import json
 import re
 import unittest
-from sync_learning_intent import ROOT, SUMMARY, ACCESS, pages, topic_description
+from sync_learning_intent import ROOT, SUMMARY, ACCESS, ai_copy, pages, topic_description
 
 
 class LearningIntentTests(unittest.TestCase):
@@ -39,6 +39,17 @@ class LearningIntentTests(unittest.TestCase):
             self.assertEqual(source.count('## Learning offer and access'), 1)
             self.assertIn(SUMMARY, source)
             self.assertIn(ACCESS, source)
+            self.assertEqual(ai_copy(source), source)
+            self.assertNotIn('500 free questions', source)
+
+    def test_offer_refresh_preserves_following_marked_resources(self):
+        source = '# Guide\n\n## Learning offer and access\n\nOld copy.\n\n<!-- free-tpt-resources:start -->\n## Samples\n\nSample links\n<!-- free-tpt-resources:end -->\n'
+        updated = ai_copy(source)
+        self.assertIn(ACCESS, updated)
+        self.assertEqual(updated.split('<!-- free-tpt-resources:start -->')[1],
+                         source.split('<!-- free-tpt-resources:start -->')[1])
+        self.assertEqual(ai_copy(updated), updated)
+
 
 
 if __name__ == '__main__': unittest.main()
