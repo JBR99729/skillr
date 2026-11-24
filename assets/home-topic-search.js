@@ -32,7 +32,7 @@
     });
   }
   function loadCatalogue() {
-    if (!cataloguePromise) cataloguePromise = fetch('/assets/site-search-index.json?v=20261029', {credentials:'same-origin'})
+    if (!cataloguePromise) cataloguePromise = fetch('/assets/home-topic-index.json?v=pathway-performance-20261125', {credentials:'same-origin'})
       .then(function (response) { if (!response.ok) throw Error('Search unavailable'); return response.json(); })
       .then(function (payload) {
         var seen = new Set();

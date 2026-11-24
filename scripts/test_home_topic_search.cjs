@@ -8,7 +8,7 @@ const root = path.join(__dirname, '..');
 const source = fs.readFileSync(path.join(root, 'assets/home-topic-search.js'), 'utf8');
 const json = filename => JSON.parse(fs.readFileSync(path.join(root, filename), 'utf8'));
 const catalogue = {
-  '/assets/site-search-index.json': json('assets/site-search-index.json'),
+  '/assets/home-topic-index.json': json('assets/home-topic-index.json'),
   '/data/app-question-banks.json': json('data/app-question-banks.json'),
   '/data/print-and-go-products.json': json('data/print-and-go-products.json'),
 };
