@@ -46,11 +46,14 @@ for (const page of pages) {
 }
 
 function render(page) {
-  const list = page.references.map(({ code, source, overlap }) => {
+  const links = page.references.map(({ code, source }) => {
+    // The grade is from the US standard, not from the Australian topic.
+    // Maths encodes it first; English encodes it after the strand.
     const grade = code.split('.')[page.code.startsWith('AC9E') ? 1 : 0];
-    return `<li><a href="${escapeHtml(source)}" rel="nofollow noopener"><strong>${escapeHtml(code)}</strong></a> · ${grade === 'K' ? 'Kindergarten' : `Grade ${escapeHtml(grade)}`} · ${escapeHtml(overlap)}</li>`;
-  }).join('');
-  return `${START}<p><strong>US Common Core: partial topic overlap</strong></p><ul>${list}</ul><p><small>Australian Curriculum v9.0 remains the primary reference. These comparisons do not imply full US standards coverage or grade equivalence.</small></p>${END}`;
+    const label = `US ${grade === 'K' ? 'Kindergarten' : `Grade ${grade}`}: ${code}`;
+    return `<a href="${escapeHtml(source)}" rel="nofollow noopener">${escapeHtml(label)}</a>`;
+  }).join('; ');
+  return `${START}<p>This skill also relates to similar expectations in the US Common Core (${links}). Sequences and wording differ between curricula.</p>${END}`;
 }
 
 // Reused by the general equivalents generator when an allowlisted page owns an
